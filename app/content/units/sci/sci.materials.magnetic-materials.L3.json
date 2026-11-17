@@ -505,7 +505,7 @@
    "for": "A lodestone moves iron without anyone pushing it. Thales thought that only something with a soul could move another thing on its own.",
    "against": "Scientists explain the magnetic force with electrons lined up inside the rock, and this explanation works without a soul. Whether a stone has some kind of awareness is a separate question, which the science of magnets does not answer. Thales also took a big step: he looked for the cause inside nature itself, not in a god.",
    "status": "rejected",
-   "context": "This card is about one of the oldest ideas about magnets, and why it was still a good question."
+   "context": "A lodestone is a natural rock that is already a magnet and can pick up iron. This card is about one of the oldest ideas about why it does this, and why it was still a good question."
   },
   {
    "claim": "Rubbing a magnet with garlic stops it attracting iron.",
@@ -766,7 +766,8 @@
       ],
       "a": 2,
       "why": "The tumbler is steel, but steel is a mixture, and the mixture decides. Many tumblers are a nickel-rich steel that a magnet does not attract. Others are attracted. So the best answer is to test it. Stick or skip would each be right for only some tumblers. Scientists test when the answer depends on something they cannot see."
-     }
+     },
+     "parent": "A good answer is that a guess can be wrong, and a test gives real evidence. For the steel tumbler, a guess is a coin toss, because some steels stick and some do not. Only the test tells you."
     },
     {
      "id": "s5",
@@ -774,7 +775,8 @@
      "do": "Count the stars to find the winner. Then look at the two piles. Ask which pile is bigger.",
      "say": "Count your stars. Who won? Now look at the two piles. Which pile is bigger? What is most of the STICK pile made of?",
      "kid": "Count your stars. Who won? Which pile is bigger, STICK or SKIP?",
-     "think": "Why do you think the things on the SKIP pile are so different from each other?"
+     "think": "Look at the two piles. Everything on the STICK pile has something in common. Why are the things on the SKIP pile so different from each other?",
+     "parent": "The STICK pile holds only things made of iron or steel. The SKIP pile holds everything else: wood, glass, cloth, stone, plastic and metals such as aluminium, copper and brass. A magnet attracts only a few materials, so everything else lands on SKIP."
     }
    ],
    "context": "This is a card game about which everyday things a magnet sticks to and which it skips. The tricky STAR cards teach that you must sometimes test.",
@@ -916,7 +918,8 @@
       "a": 0,
       "why": "If a thing sticks, it must contain a magnetic material. That is a sure yes about iron, nickel or cobalt. If it does not stick, it could be brass, aluminium, copper, gold, silver, or a non-magnetic steel. So a no tells us much less. Picking either of the other answers means expecting a magnet to name a metal. A magnet only tells magnetic materials from non-magnetic ones."
      },
-     "think": "Which other tests in life can say 'no' clearly but cannot say 'yes'?"
+     "think": "Which other tests in life can say 'no' clearly but cannot say 'yes'?",
+     "parent": "A good answer gives a test where one answer is certain and the other is not. For example, a smoke alarm that rings shows there is smoke, but a silent alarm does not prove the house is safe. A high fever shows that something is wrong, but no fever does not prove a child is well."
     }
    ],
    "context": "This is a game where you act as a judge in a court. For each case, you decide whether a person's claim about a magnet test is proved, not proved, or wrong.",
@@ -2117,7 +2120,7 @@
      "say": "Now we try to make a lasting magnet. This step is an extra, and it may not work with a weak magnet. Stroke the needle many times in the same direction. Always lift it away at the end of each stroke.",
      "kid": "Ask a grown-up to hold the needle. Stroke it 30 times with the magnet, the same way each time. Does it pick up a pin or a clip?",
      "adult": true,
-     "parent": "This step may not work with a fridge magnet. The needle may pick up only a pin, or nothing. If it picks up nothing, that is a real result: a weak magnet makes a weak needle magnet. If it works, the needle can stay a magnet for hours or days, but the nail may stop within minutes. Steel with more carbon stays magnetised better than soft iron. Scientists call steel that stays magnetised a hard magnetic material, and iron that soon loses it a soft magnetic material.",
+     "parent": "This step may not work with a fridge magnet. The needle may pick up only a pin, or nothing. If it picks up nothing, that is a real result: a weak magnet makes a weak needle magnet. If it works, the needle can stay a magnet for hours or days, but the nail may stop within minutes. Steel with more carbon stays magnetised better than soft iron. Scientists call steel that stays magnetised a hard magnetic material, and iron that soon loses it a soft magnetic material. The fridge magnet stays a magnet because its domains stay lined up. In the soft iron of a nail, the domains turn back as soon as the magnet is taken away. So a good answer to the question is that the domains inside a fridge magnet stay lined up, but the domains inside a nail do not.",
      "think": "A fridge magnet stays a magnet for years. A nail loses its magnetism in minutes. What might be different inside them?"
     },
     {
@@ -2230,10 +2233,11 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Ask everyone to share their most surprising find. Count the STICK places and the SKIP places.",
-     "say": "Which find surprised you most? Count your sticks and your skips.",
-     "kid": "Which find surprised you most? Count your STICK places and SKIP places.",
-     "think": "Why do you think so many gates, almirahs and roofs are made of iron or steel and not aluminium?"
+     "do": "Count the STICK places and the SKIP places. Then ask which place did not match your child's guess.",
+     "say": "Count your sticks and your skips. Which pile is bigger? Was there one place where your guess was wrong? What did that place teach you?",
+     "kid": "Count your STICK places and your SKIP places. Which place did not match your guess? What did it teach you?",
+     "think": "Gates, almirahs and roofs are made of iron or steel, not aluminium. Why might builders choose iron or steel?",
+     "parent": "A good answer is that iron and steel are strong and cheap, so they are good for gates, almirahs and roofs. Aluminium is lighter, but it bends more easily and costs more. The place that did not match the guess is often the steel tumbler or a zip. It shows that we must test, not guess."
     }
    ],
    "context": "This is a hunt around your home and street. You carry a magnet and find out which things it sticks to.",
@@ -2318,7 +2322,8 @@
      "do": "Talk about what the dance gets right and wrong. Then ask your child to draw the three scenes: wood, iron, and iron near a magnet.",
      "say": "Real iron has trillions of atoms, not three people. And the tiny magnets are electrons, not arms. But the idea is real. What did the dance get wrong?",
      "kid": "Draw three pictures: wood, iron, and iron near a magnet. Draw each tiny magnet as an arrow.",
-     "think": "In a real nail, each domain holds billions of atoms. What would happen if all the domains in a nail pointed the same way?"
+     "think": "In a real nail, each domain holds billions of atoms. What would happen if all the domains in a nail pointed the same way?",
+     "parent": "If every domain in a nail pointed the same way, the nail would be a magnet all by itself, and it would pick up paper clips without a magnet touching it. In an ordinary nail the domains point different ways, so their pulls cancel out."
     }
    ],
    "context": "This is a game you act out. Your arms are the tiny magnets inside atoms, so you can see why iron is magnetic and wood is not.",
@@ -2408,7 +2413,7 @@
      "do": "1. Look at what is left. Ask how you could separate the aluminium, copper and brass from the plastic and rice. 2. Try some ideas: tap each thing to hear whether it rings, see whether it floats in water, and look at its colour. 3. Put them in the other bowls.",
      "say": "Now the magnet cannot help. How can we sort the rest? What does each thing feel, sound or look like?",
      "kid": "The magnet is done. How can you sort the rest? Look at the colour. Tap each thing to hear if it rings. See if it floats in water.",
-     "parent": "Good ideas: copper is reddish, brass is yellow, and foil is silvery and bends easily. Metal pieces ring when tapped, but rice and plastic make a dull sound.",
+     "parent": "Good ideas: copper is reddish, brass is yellow, and foil is silvery and bends easily. Metal pieces ring when tapped, but rice and plastic make a dull sound. A good answer to the question is that a magnet quickly pulls out all the iron and steel, which is usually the biggest part of the heap. That leaves much less to sort by hand.",
      "think": "In a real scrap yard, the metals worth the most, such as copper and brass, are not magnetic. Why do you think a magnet is still used first?"
     },
     {
@@ -2603,7 +2608,8 @@
      "do": "Talk about iron in food. Our blood needs a little iron to carry oxygen around the body. We get it from foods such as spinach, lentils and jaggery.",
      "say": "Our blood needs a tiny amount of iron to carry oxygen to every part of our body. We get it from food. Which foods in our home have iron?",
      "kid": "Your body needs a tiny bit of iron. Foods such as lentils, jaggery and spinach have it. Which foods in your home have iron?",
-     "think": "The iron in soil is in grains of magnetite, so a magnet attracts it. The iron in spinach is spread out, one atom at a time, joined to other atoms. Do you think a magnet could pick that iron out of spinach? Why?"
+     "think": "The iron in soil is in grains of magnetite, so a magnet attracts it. The iron in spinach is spread out, one atom at a time, joined to other atoms. Do you think a magnet could pick that iron out of spinach? Why?",
+     "parent": "A good answer is no. The iron in spinach is spread out one atom at a time, and the atoms are not lined up in domains. So a magnet does not attract it. A magnet attracts iron only when the iron is in a piece or a grain, such as magnetite."
     }
    ],
    "context": "This activity uses a magnet to find tiny grains of iron-containing magnetite in soil or sand.",
@@ -2771,7 +2777,8 @@
      "do": "Talk about the game. Ask which card was safest, and which was the most risky.",
      "say": "Which card was the safest to hold? Which was the riskiest? Why?",
      "kid": "Which card was safest? Which was most risky? Why?",
-     "think": "What if the steel bowl card were in the game? Would it be safe or risky?"
+     "think": "What if the steel bowl card were in the game? Would it be safe or risky?",
+     "parent": "If a steel bowl card were in the game, it would be risky when the bowl is made of a steel that a magnet attracts, because the MAGNET would freeze the player holding it. It would be safe if the steel does not stick. Testing the real bowl shows which."
     }
    ],
    "context": "This is a running game. One player is a magnet and tags players, but only those holding magnetic things get stuck.",
@@ -2854,8 +2861,7 @@
      "mins": 3,
      "do": "Let the painting dry. Talk about what happened, and why a clip painted, but a plastic button would not.",
      "say": "Why did the clip move, but a plastic button would not? Which pictures would you like to make next?",
-     "kid": "Why did the clip move? Would a plastic button move? Let the painting dry.",
-     "think": "What other pictures could you paint with a magnet?"
+     "kid": "Why did the clip move? Would a plastic button move? Let the painting dry."
     }
    ],
    "context": "This is an art activity. You use a magnet under the paper to move a paint-covered paper clip and make a painting.",
@@ -3156,7 +3162,8 @@
      "do": "Look at the usual ideas and the creative ideas. Ask your child to invent a new one and test it.",
      "say": "Here are the usual ways and some clever ones. Can you invent a new one?",
      "kid": "Look at the usual ways and the clever ones. Now invent your own and test it.",
-     "think": "Why are fridge doors made of steel and not wood? What does the magnetic strip around a fridge door do?"
+     "think": "Why are fridge doors made of steel and not wood?",
+     "parent": "A good answer is that a steel door lets a magnet hold a drawing, and steel is also strong. A wooden door would not attract a magnet at all. The soft strip around the door of a fridge has a magnet in it too. It sticks to the steel body of the fridge and holds the door shut."
     }
    ],
    "context": "This is an engineering challenge. You must make a fridge magnet stay on a wooden board, which it would not stick to as it is.",
@@ -3906,8 +3913,8 @@
  "how_we_found_out": {
   "context": "How did people find out that a magnet acts on every material, not only on iron? This card tells the true story.",
   "story": "For a long time, people thought a magnet acts only on iron and a few other metals, and that everything else is untouched. In 1778, a Dutch scientist, Anton Brugmans, noticed that a magnet pushed away a piece of the metal bismuth. Few people followed this up. In 1845, Michael Faraday tested it properly at the Royal Institution in London. He had a very strong electromagnet. He hung a bar of heavy glass between its two ends on a silk thread. When he switched the magnet on, the glass turned to lie across the gap, as if pushed away from both ends. An iron bar would have turned the other way, to point from one end to the other. Faraday then hung up everything he could find, such as wood, bismuth, an apple, bread and a piece of beef. Every one of them moved a little. Most were pushed away, and he called them diamagnetic. A few were drawn in, as iron is, but very weakly. He concluded that every material responds to a magnet, in one way or the other.",
-  "who": "Michael Faraday (1791 to 1867), an English scientist who started work at 13 as an errand boy for a bookseller. Before him, Anton Brugmans (1732 to 1789), a Dutch scientist.",
-  "when": "Brugmans noticed bismuth being pushed away in 1778. Faraday tested many materials in 1845.",
+  "who": "Michael Faraday (1791 to 1867), an English scientist who started work at 13 as an errand boy for a bookseller, and before him Anton Brugmans (1732 to 1789), a Dutch scientist.",
+  "when": "1778 and 1845",
   "wrong_idea": "That a magnet acts only on iron and a few metals, and leaves everything else alone. Faraday's strong magnet showed that every material moves a little near a magnet. Most are pushed away, and a few are drawn in.",
   "art": "Michael Faraday in a 1840s laboratory, watching a small bar of glass hanging on a silk thread between the two ends of a large electromagnet, with an apple and a piece of bread on the bench waiting their turn."
  },

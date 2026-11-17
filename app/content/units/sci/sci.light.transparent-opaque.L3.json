@@ -3,12 +3,12 @@
  "title": "Transparent, translucent and opaque: which things we can see through",
  "level": 3,
  "summary": {
-  "text": "A frosted bathroom window lets daylight in, yet nobody can see through it. Materials meet light in three ways. A transparent material, like window glass, lets light straight through, so you see a clear picture. A translucent material, like butter paper, lets light through but scatters it, so you see a glow but no picture. An opaque material, like a steel plate, lets no light through and makes a dark shadow. A thing can change group. A drop of oil makes paper clearer, and crushing turns clear ice white.",
+  "text": "A frosted bathroom window lets daylight in, yet nobody can see through it. Materials meet light in three ways. A transparent material, like window glass, lets light straight through, so you see a clear picture. A translucent material, like butter paper, lets light through but scatters it, so you see a glow but no picture. An opaque material, like a steel plate, lets no light through and makes a dark shadow. The same material can change group. A drop of oil makes paper clearer. Crushing clear ice turns it white.",
   "art": "Three windows side by side: clear glass showing a sharp neem tree, frosted glass showing only a green glow, and a wooden shutter showing nothing, with a child's hand glowing red over a torch in the corner."
  },
  "intro": {
-  "hook": "A frosted bathroom window lets plenty of daylight into the bathroom. Yet you cannot see the tree outside through the glass. How can light get through when the picture does not?",
-  "text": "Light gets through frosted glass, but the picture of the tree is lost on the way. In this unit you will test materials from your home with a torch and a card of big letters. You will sort them into three groups: transparent, translucent and opaque. By the end you will know where the picture goes, and why a few drops of oil can bring it back.",
+  "hook": "A frosted bathroom window lets plenty of daylight into the bathroom. Yet you cannot see the tree outside through the glass. Light gets through, so why does the picture of the tree not get through too?",
+  "text": "Light gets through frosted glass, but the picture of the tree is lost on the way. In this unit you will test materials from your home with a torch and a card of big letters. You will sort them into three groups: transparent, translucent and opaque. By the end you will know what happens to the picture inside a translucent material. You will also see why a few drops of oil can make some of these materials clear again.",
   "art": "A frosted bathroom window glowing bright with daylight, with only a soft green blur where a tree stands outside."
  },
  "outcomes": [
@@ -376,7 +376,7 @@
    "for": "Dark lenses cut down a lot of the light we can see, so they feel more protective.",
    "against": "Darkness and ultraviolet protection are different things. A dark lens with no ultraviolet filter lets the harmful light through. Eye doctors say to look for a 'UV400' or '100% UV protection' label. A light lens with that label protects better than a dark one without it.",
    "status": "rejected",
-   "context": "This card is about choosing sunglasses, and whether darker means safer."
+   "context": "Sunlight has ultraviolet light in it. We cannot see it, but it can harm our eyes. A sunglasses lens can be dark, or it can block ultraviolet light, or both. This card asks whether a darker lens always protects better."
   },
   {
    "claim": "Nothing is truly opaque. Make anything thin enough and some light gets through.",
@@ -435,9 +435,9 @@
    "hint": "Think of dark matter, which no light shows us."
   },
   {
-   "q": "A glass frog hides their blood to become see-through. If you could be see-through for a day, would you want to be?",
+   "q": "A glass frog hides their blood to become see-through. Why does being see-through help an animal that sleeps in the open?",
    "kind": "big",
-   "hint": "Would you feel safer, or more alone?"
+   "hint": "Think about what an animal that hunts them would see when it looks at them."
   },
   {
    "q": "In the story The Flowers That Bloomed at Night, Meenu's mother stitched white flowers on a curtain. Nobody saw how beautiful they were until a light shone behind them at night. Is there work in your home that is hard to see?",
@@ -478,7 +478,7 @@
    "Why could Zoya see Meenu's shadow at night, through the same curtain?",
    "Why did Ammi's white flowers look dark from the lane at night?",
    "Why did hanging the razai over the window keep Meenu's secret?",
-   "Ammi had never seen her own flowers from the lane at night. Why do you think she was quiet for so long?"
+   "Ammi looked at her curtain from the lane at night. What did she see that she had never seen before?"
   ],
   "art": [
    "A narrow old Lucknow lane with a jalebi stall, a goat and a window above a cloth shop, covered by a white embroidered curtain.",
@@ -640,7 +640,7 @@
      "do": "1. Count everyone's tokens to find the winner. 2. Look at the three piles together.",
      "say": "Look at the three piles. Were there any cards we argued about? Why could they go in two places?",
      "kid": "Count your tokens. Who won? Which card was hardest to place? Why?",
-     "think": "Is 'translucent' something a material is, or something it does to light?",
+     "think": "Some cards could go on two mats. Name one job where a translucent material or an opaque one would both do.",
      "context": "This is the last step of the game Clear, Cloudy or Blocked?. You find the winner and look back at the tricky cards."
     }
    ]
@@ -773,7 +773,7 @@
      "do": "Swap. Let a child be the hider while the grown-up holds the torch.",
      "say": "Now you choose something to hide. Can you find something that makes a pale shadow? Can you trick us?",
      "kid": "Your turn to hide things. Can you find something with a pale shadow?",
-     "think": "A leaf made a pale shadow, and you could see its veins. Why do the veins look darker?",
+     "think": "A leaf makes a pale shadow with darker veins. The veins are thicker than the rest of the leaf. What does that tell you about thick and thin parts?",
      "context": "This is the last step of Guess Behind the Sheet. Children take turns to choose the objects."
     }
    ]
@@ -997,8 +997,9 @@
      "mins": 2,
      "do": "Sort the five materials into transparent, translucent and opaque, using the results.",
      "say": "Which material never blurred? That one is transparent. Which ones let light through but lost the word? Those are translucent. We tested nothing opaque. What could we add?",
+     "parent": "Something opaque to add would be a steel plate, a piece of card or a wooden board. The word would vanish even when the material touches the card, because no light gets through.",
      "kid": "Which one never blurred? That is transparent. Which let light through but lost the word? Those are translucent.",
-     "think": "Butter paper let you read the word when it touched the card. So is it transparent when it touches, and translucent when it is lifted?",
+     "think": "Butter paper let you read the word when it touched the card. Is butter paper transparent or translucent? Use what you found when you lifted it.",
      "context": "This step of the gap test uses your results to sort the materials into transparent and translucent. None of the five was opaque."
     },
     {
@@ -1428,7 +1429,7 @@
      "say": "The sugar is invisible now. Is it gone? Taste and see.",
      "kid": "Taste a sip. Is the sugar gone? Or is it still there, just too small to see?",
      "parent": "This links to the Roots card, where a father, Uddalaka, asks his son to put salt in water to make the same point. The sugar is everywhere in the water, but no light shows it.",
-     "think": "What else might be all around us, but too small or too clear to see?",
+     "think": "If you left a plate of this sugar water to dry in the sun, what do you think would be left on the plate? Why?",
      "context": "This is the last step of the sugar activity. You taste the water to check whether the sugar is still there."
     }
    ]
@@ -1630,6 +1631,7 @@
   {
    "id": "a5",
    "title": "Act It Out: The Light Party",
+   "problem": "Light goes straight through some materials, is scattered by others, and is stopped by others. In this activity, one person is the light, and the others are the tiny atoms in each material. You act out what the atoms do to the light.",
    "mins": 15,
    "days": 1,
    "materials": [
@@ -1700,7 +1702,7 @@
      "do": "1. Hold up the STEEL PLATE sign. 2. The atoms stand close together with arms held out. With two of you, the one atom holds out both arms. 3. When the light walks up, the atoms catch it. 4. The light either turns back, to show it is sent back, or sits down, to show it is absorbed.",
      "say": "This is a steel plate. Its loose electrons catch the light. Most of it is sent back. A little is absorbed and warms the plate. None gets through.",
      "kid": "Now the atoms catch you. You can't get through. Turn back to show you were sent back, or sit down to show you were absorbed.",
-     "think": "If you were light, which material would you like to visit?",
+     "think": "In which of the three materials did the light come out on the far side still walking straight?",
      "context": "This is the last step of the Light Party drama. You act out light being stopped by a steel plate."
     }
    ]
@@ -3341,8 +3343,8 @@
   },
   "ask": [
    "In the gap test, butter paper lifted off the card still let the light through, but you could not read the word. Where did the picture of the word go?",
-   "When you look through clean glass, are you seeing the glass, or only what is behind it?",
-   "What might be all around us, like dark matter, that we cannot see at all?"
+   "When you look through clean glass, you can forget that the glass is there. What did you notice when you looked at the glass for a speck of dust?",
+   "Dark matter does not block light, so we cannot see it. How do scientists know that it is there?"
   ],
   "art": "A child at a window, half the glass showing a smudge in sharp focus, half fading away to show a far-off tree, with soft light glowing at the edges of the child's raised hand."
  },

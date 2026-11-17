@@ -3,7 +3,7 @@
 
 **Summary.** Why is a kadai made of metal, but its handle of wood or plastic? Metal carries heat to the food fast, and wood and plastic carry it to your hand only slowly. A property is what a material is like, such as hard, bendy, waterproof or see-through, and we choose a material because its properties suit the job. Most objects are made of several materials, each doing the job it suits best. In this unit you test spoons, woollen socks and clay pots to find out which material does which job, and why.
 
-**Intro.** *Try this. Imagine a kadai made of chocolate, an umbrella made of paper and a chappal made of glass. What would go wrong with each one?* Somebody chose the material of every object in your home. They chose steel for your tumbler, cotton for your kurta and plastic for your bucket, because each suits its job. Some choices are surprising. Water left in a clay pot stays cooler than water left in a steel bottle in the same room. A woollen sweater does not make any heat at all. In this unit you test materials the way an engineer does, and find out why each one is right for its job.
+**Intro.** *Think of a kadai made of chocolate, an umbrella made of paper and a chappal made of glass. What would go wrong with each one?* Somebody chose the material of every object in your home. They chose steel for your tumbler, cotton for your kurta and plastic for your bucket, because each suits its job. Some choices are surprising. Water left in a clay pot stays cooler than water left in a steel bottle in the same room. A woollen sweater does not make any heat at all. In this unit you test materials the way an engineer does, and find out why each one is right for its job.
 
 ## Learning outcomes
 0. I can explain that we choose a material for a job because of its properties, and give examples from my home.
@@ -62,7 +62,7 @@ Engineers call this a trade-off. You give up a little of one thing to get more o
 ### Silly materials, and what goes wrong · *defined*
 **Definition:** A material is a silly choice when one of its properties stops the object from doing its job.
 
-Silly objects are a good way to think. A chocolate teapot would melt, because chocolate turns soft when it is warm. A paper umbrella would go soggy and tear, because paper is absorbent and weak when wet. A glass chappal would crack, because glass is brittle. A wool swimming costume would soak up water and sag. Each time, ask two questions. Which property is the problem? Which material has the property we need?
+Thinking about silly objects is a good way to learn. A chocolate teapot would melt, because chocolate turns soft when it is warm. A paper umbrella would go soggy and tear, because paper is absorbent and weak when wet. A glass chappal would crack, because glass is brittle. A wool swimming costume would soak up water and sag. Each time, ask two questions. Which property is the problem? Which material has the property we need?
 - e.g. A cardboard boat would soak up water and sink, unless it is coated with wax.
 - e.g. Ice spectacles would melt on your nose.
 - e.g. A steel pillow would be far too hard and rigid.
@@ -122,7 +122,7 @@ Plastic is cheap, light, waterproof and can be shaped into anything. That is why
 - **People who want strong bans:** Most plastic things are used once and thrown away. Ban the ones we do not really need, like thin carry bags and straws. India banned many single-use plastic items in 2022.
 - **People who want better recycling and reuse:** Plastic does useful jobs that other materials do badly. Keep it, but use it many times, collect it properly and recycle it.
 - **Scientists working on new plastics:** Invent plastics that last while we need them, then break down safely. This is hard. Some plastics labelled 'compostable' only break down in hot factory compost, not in a garden.
-### Your spoon was made in a star · *debated*
+### The iron in your spoon was made in stars · *debated*
 Every material on Earth is made of atoms. Where did the atoms come from? Scientists agree on most of the story. The lightest atoms, hydrogen and helium, were made just after the universe began. Heavier atoms, like the carbon in wood and the oxygen in water, were made inside stars, which squeeze small atoms together. Iron, the main atom in your steel spoon, was made in stars and in the explosions of stars. The explosions scattered these atoms into space. Later, the Sun and the Earth formed from that dust. For the very heaviest atoms, like gold, scientists still argue.
 - e.g. The iron in your blood and in your steel tumbler was once inside a star.
 - e.g. The calcium in your bones was made in stars too.
@@ -156,7 +156,7 @@ Some jobs still need materials nobody has made well yet. Scientists have many id
   For: You feel warmer as soon as you put it on.  
   Against: A sweater has no heat of its own. It traps your body's heat. Put a sweater on a cold stone and the stone does not get warm.
 - **Natural materials are always better than materials made by people.** (Some people who care about the Earth; *debated*)  
-  For: Many natural materials, like cotton, bamboo, clay and banana leaves, break down easily when thrown away. Their making often needs less energy.  
+  For: Many natural materials, like cotton, bamboo, clay and banana leaves, break down easily when thrown away. Making them often needs less energy.  
   Against: It depends. Growing cotton can use a lot of water. Leather needs chemicals to tan it. And some made materials save lives, like plastic syringes in hospitals or steel in bridges. The best choice depends on the job, how long it is used and what happens to it after.
 - **Harry Brearley invented stainless steel, in 1913.** (Many books, and the city of Sheffield in England; *debated*)  
   For: Brearley, working in Sheffield, made steel with chromium in it, which did not rust. He saw it could be used for knives and forks.  
@@ -185,7 +185,7 @@ A clay pot, a sweater and a flask look like solid things. But each one works bec
 - **Chandogya Upanishad 6.1.4:** Uddalaka tells his son that once you know one lump of clay, you know everything made of clay. The pots are only different shapes and names. What is real is the clay. (A clay pot, a kulhad and a diya are different objects with different jobs, yet all are clay. This unit's science goes one step further: clay, steel and wool are all atoms, joined in different ways.)
 - Science (settled): Still air carries heat very poorly. Most good insulators, like wool, feathers, foam and the aerogel used in spacecraft, work by holding air still in tiny spaces.
 - Science (settled): Iron, and most atoms heavier than helium, were made inside stars. Margaret and Geoffrey Burbidge, William Fowler and Fred Hoyle showed how, in 1957.
-- Other view, Democritus, a Greek thinker who lived about 2,400 years ago: Democritus said there are only atoms and empty space. Hot and cold, sweet and bitter, are only how atoms seem to us. On his view, the gaps are simply empty, and there is no awareness underneath, only atoms moving.
+- Other view, Democritus, a Greek thinker who lived about 2,400 years ago: Democritus said there are only atoms and empty space. Hot and cold, sweet and bitter, are only how atoms seem to us. In his view, the gaps are simply empty, and there is no awareness underneath, only atoms moving.
 - Practice, Wool and air (2 min): Hold a woollen sock or shawl loosely in your hands. Breathe in slowly. Now squeeze it into a small ball. Feel how little wool there really is. Breathe out, and let it go. Watch it puff back up as air fills it. Hold it against your cheek. The warmth you feel is your own, held near you by the air.
 - Ask: Is a sweater mostly wool, or mostly air? Which part keeps you warm?
 - Ask: If the gaps do the work, are the gaps part of the material?
@@ -193,15 +193,15 @@ A clay pot, a sweater and a flask look like solid things. But each one works bec
 
 ## Deep and big questions
 - *deep:* Is there a material that is best at everything? Why do you think not? (hint: Think of something very strong. Is it also light? Is it see-through? Is it cheap?)
-- *big:* Metal feels colder than wood on a winter morning, but a thermometer says they are the same. Can your senses fool you? How do you know when to trust them? (hint: Put one hand in cold water and one in warm water, then both in the same bowl. What do they each feel?)
+- *big:* Metal feels colder than wood on a winter morning, but a thermometer says they are the same. Can your senses fool you? How do you know when to trust them? (hint: Put one hand in cold water and the other in warm water. Then put both hands in the same bowl of water. What does each hand feel?)
 - *big:* Plastic lasts a very long time. When is lasting a long time a good thing, and when is it a problem? (hint: Think of a steel plate you use for twenty years, and a plastic straw you use for twenty minutes.)
 - *deep:* Why are metals shiny and good at carrying heat, while wood is not? (hint: Zoom in to the atoms. What are the tiny electrons doing in each?)
 - *big:* People have used clay pots to cool water for thousands of years, long before anyone knew about evaporation. Can you know how to do something without knowing why it works? (hint: Think of something you can do, like riding a cycle, without being able to explain it.)
 - *big:* The person who invents a material often gets the credit. What about the workers who make it, or the people who first noticed the idea? (hint: Think of the potters who made clay water pots long before scientists explained them.)
-- *big:* The iron in your spoon was made inside a star. Does that change how you feel about ordinary things? (hint: Pick up a spoon. Imagine where each of its atoms has been.)
+- *big:* The iron in your spoon was made inside a star. Does that change how you feel about ordinary things? (hint: Pick up a spoon. Think about where each of its atoms has been.)
 - *deep:* Living things make bone, silk and shell without fire or factories. What can engineers learn from them? (hint: Spiders make silk from what they eat, at the temperature of a garden. A steel factory needs huge fires.)
 - *big:* If you had to choose the materials for your own house, what would matter most to you: cost, comfort, beauty, how long it lasts, or the Earth? (hint: Would your answer change if you lived in Ladakh, or by the sea in Chennai?)
-- *big:* Some 'wonder materials' turn out not to work when others test them. Why do scientists test each other's claims? (hint: In 2023, some scientists said they had made an amazing new material. What happened when others tried to make it too?)
+- *big:* Some 'wonder materials' turn out not to work when others test them. Why do scientists test each other's claims? (hint: In 2023, some scientists said they had made a wonder material called LK-99. Other scientists tested it carefully, and it did not work.)
 
 ## Story: The Winter the Ink Did Not Freeze
 *Made up. Dolma, her mother, Stanzin Ma'am, Abi-le and the village are imagined. The science is real. Ladakh's winters are long and very cold. Sun-warmed buildings like this really exist there, built of thick mud walls with big south-facing windows, for example the SECMOL school campus near Leh.*
@@ -240,11 +240,11 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - Ask: Abi-le said glass is cold. She was right. So why did the village still use glass?
 - Ask: What did the dark mud wall do with the sunlight?
 - Ask: Why did they need woollen curtains at night?
-- Ask: Dolma's idea came from her mother's kitchen and a bus. Where have you noticed something that could solve a problem?
+- Ask: Dolma's idea came from her mother's kitchen and a bus. What did each one show her?
 
 ## Games
 ### g1 · Hire a Material (20 min)
-- **rules:** Cut out the job cards and the material cards. Shuffle the job cards and put them face down in a pile.; Shuffle the material cards. Deal 3 to each player. Put the rest face down as a second pile.; Turn over the top job card and read it out.; Each player chooses one material from their hand for the job and puts it face down. If nothing fits well, play the closest one and be ready to say what is missing.; Everyone turns their material over and says which property makes it good for the job.; Players vote for the best choice, but not their own. The best choice wins a 'hired' token. If the votes tie, the player who read the job card picks between the tied players. With 2 players, decide together; if you cannot agree, both take a token. A funny but wrong choice gets a laugh, but no token.; Put the played material cards in a discard pile and take a new one from the second pile. If that pile runs out, shuffle the discard pile and use it as the new pile.; Play 8 jobs. The player with the most tokens wins. If tied, share the win.
+- **rules:** Cut out the job cards and the material cards. Shuffle the job cards and put them face down in a pile.; Shuffle the material cards. Deal 3 to each player. Put the rest face down as a second pile.; Turn over the top job card and read it out.; Each player chooses one material from their hand for the job and puts it face down. If nothing fits well, play the closest one and be ready to say what is missing.; Everyone turns their material over and says which property makes it good for the job.; Players vote for the best choice, but not their own. The best choice wins a 'hired' token. If the votes tie, the player who read the job card picks between the tied players. With 2 players, decide together; if you cannot agree, both take a token. A funny but wrong choice gets a laugh, but no token.; Put the played material cards in a discard pile. Each player takes one new card from the second pile. If that pile runs out, shuffle the discard pile and use it as the new pile.; Play 8 jobs. The player with the most tokens wins. If tied, share the win.
 - **Printable cards: 16 job cards to cut out:** JOB: a raincoat for the monsoon; JOB: the handle of a kadai; JOB: a window for a bedroom; JOB: a towel after a bath; JOB: a bridge over a river; JOB: a ball that bounces; JOB: a pot that keeps water cool in summer; JOB: spectacles for a small child; JOB: a warm blanket for a winter night; JOB: the bottom of a cooking pot; JOB: a wick for a diya; JOB: a plate for a wedding feast for 500 people; JOB: a rope to pull a boat; JOB: a cover for an electric wire; JOB: a mirror; JOB: a box to post a glass bangle safely
 - **Printable cards: 16 material cards, each with its main properties:** STEEL: strong, rigid, shiny, carries heat well, waterproof, durable [picture]; WOOD: strong, rigid, does not carry heat well, floats, can rot when wet [picture]; PLASTIC: waterproof, light, can be bendy or stiff, does not carry heat or electricity, lasts a very long time; GLASS: transparent, waterproof, hard, brittle; COTTON: soft, flexible, absorbent, breathes [picture]; WOOL: soft, warm, traps air, flexible [picture]; RUBBER: stretchy, bouncy, waterproof, grips well; CLAY (baked): porous, rigid, brittle, does not carry heat well [picture]; PAPER: light, absorbent, easy to cut, weak when wet; COPPER: carries heat and electricity very well, bendy, shiny; BANANA LEAF: waterproof on top, flexible, rots away after use [picture]; JUTE: strong when twisted into rope, rough, rots away after use; ALUMINIUM: light, carries heat well, does not rust; BAMBOO: strong, light, flexible, grows fast [picture]; SPONGE: soft, squashy, absorbent, light; STONE: very hard, rigid, heavy, durable
 - **Printable tokens: 16 'hired' tokens (small paper circles):** 🔧 HIRED; 🔧 HIRED; 🔧 HIRED; 🔧 HIRED; 🔧 HIRED; 🔧 HIRED; 🔧 HIRED; 🔧 HIRED; 🔧 HIRED; 🔧 HIRED; 🔧 HIRED; 🔧 HIRED; 🔧 HIRED; 🔧 HIRED; 🔧 HIRED; 🔧 HIRED
@@ -259,14 +259,15 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   - Ask: Why not copper for the handle? (good: Copper carries heat very well, so the handle would burn your hand.; The heat would travel up into your fingers.)
   - Check: Which material is best for the handle of a hot kadai? → **Wood**
 - **s3 (11 min)**  
-  *Parent does:* 1. Turn over one job card at a time. 2. Each player chooses a material and puts it face down. 3. Turn them over together. 4. Each player gives their property reason. 5. Vote, and give a token for the best choice. 6. Take a new material card. Play 8 jobs.  
+  *Parent does:* 1. Turn over one job card at a time. 2. Each player chooses a material and puts it face down. 3. Turn them over together. 4. Each player says which property makes their material right for the job. 5. Vote, and give a token for the best choice. 6. Each player takes a new material card. Play 8 jobs.  
   *Parent says:* Turn your material over. Tell us the property that makes it right for this job.  
   *Child mode:* Read the job. Pick your best material. Put it face down. Then turn it over and say why. Say the property!
-  - Note: Good hires: raincoat, plastic or rubber, waterproof. Window, glass, transparent. Towel, cotton, absorbent. Bridge, steel, strong. Ball, rubber, bouncy. Cool water pot, clay, porous. Child's spectacles, plastic, light and does not shatter. Blanket, wool, traps air. Pot bottom, steel, copper or aluminium, carries heat. Diya wick, cotton, absorbent. Feast plate, banana leaf, waterproof on top and rots away after. Rope, jute, strong when twisted. Wire cover, plastic, does not carry electricity. Mirror, glass with shiny metal behind it, or polished steel. Bangle box, sponge or crumpled paper, squashy. If two answers are both good, the clearer reason wins the token.
+  - Note: Good hires, with the property that wins the job. Raincoat: plastic or rubber (waterproof). Window: glass (transparent). Towel: cotton (absorbent). Bridge: steel (strong). Ball: rubber (bouncy). Cool water pot: clay (porous). Child's spectacles: plastic (light and does not shatter). Blanket: wool (traps air). Pot bottom: steel, copper or aluminium (carries heat). Diya wick: cotton (absorbent). Feast plate: banana leaf (waterproof on top and rots away after). Rope: jute (strong when twisted). Wire cover: plastic (does not carry electricity). Mirror: glass with shiny metal behind it, or polished steel. Bangle box: sponge or crumpled paper (squashy). If two answers are both good, the clearer reason wins the token.
 - **s4 (3 min)**  
   *Parent does:* Count the tokens. Then pick one job where two materials both worked, and talk about which you would really choose.  
   *Parent says:* For the window, glass and clear plastic both work. Which would you choose, and why?  
   *Child mode:* Count your tokens. Who won? Now think of the window job. Glass or clear plastic? Why?
+  - Note: Often several materials work. Cost, weight, safety, how long it lasts and what happens to it afterwards also help you choose.
   - Think: Is there ever only one right material for a job? What else besides the property helps you choose?
 ### g2 · The Silly Shop (20 min)
 - **rules:** Choose a shopkeeper. Put the silly product cards face down.; The shopkeeper takes the top card and tries to sell it, praising it loudly.; Each customer says what will go wrong when they use it, names the property that causes the problem, and names a better material.; A customer who gives all three wins the card. If more than one does, the first to finish wins it. If no customer does, the shopkeeper keeps the card.; The next player becomes shopkeeper. Play 8 cards. The player with the most cards wins. If tied, share the win.
@@ -284,13 +285,13 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **s3 (11 min)**  
   *Parent does:* 1. Take turns being shopkeeper. 2. Each shopkeeper sells one silly product with lots of acting. 3. Customers fill in a complaint slip or say their answers aloud. 4. Play 8 cards.  
   *Parent says:* Customers, tell the shopkeeper what will go wrong. Which property is the problem? What should it be made of instead?  
-  *Child mode:* Be the shopkeeper and sell your silly product! Or be a customer. Say what goes wrong. Name the problem property. Name a better material.
-  - Note: Good answers: paper umbrella, absorbent and weak when wet, use waterproof plastic cloth. Glass chappal, brittle, use rubber. Woollen costume, soaks up water and gets heavy, use stretchy nylon. Steel pillow, too hard and rigid, use cotton stuffing. Cardboard boat, absorbent, use plastic or wood. Rubber knife, too bendy to cut, use steel. Sponge bridge, too squashy, use steel or concrete. Cotton wool helmet, too soft to protect, use hard plastic with foam inside. Copper handle, carries heat, use plastic or wood. Clay bat, brittle, use willow wood. Glass football, brittle and hard, use rubber and leather. Ice spoon, melts in the mouth, use steel. Cardboard bucket, absorbent, use plastic or steel. Tissue-paper school bag, weak and tears, use strong cloth. Wax plate, melts with hot food, use steel or a banana leaf.
+  *Child mode:* Be the shopkeeper and sell your silly product! Or be a customer. Say what goes wrong. Name the property that causes the problem. Name a better material.
+  - Note: Good answers, with the problem first and then a better material. Paper umbrella: absorbent and weak when wet. Use waterproof plastic cloth. Glass chappal: brittle. Use rubber. Woollen costume: soaks up water and gets heavy. Use stretchy nylon. Steel pillow: too hard and rigid. Use cotton stuffing. Cardboard boat: absorbent. Use plastic or wood. Rubber knife: too bendy to cut. Use steel. Sponge bridge: too squashy. Use steel or concrete. Cotton wool helmet: too soft to protect. Use hard plastic with foam inside. Copper handle: carries heat. Use plastic or wood. Clay bat: brittle. Use willow wood. Glass football: brittle and hard. Use rubber and leather. Ice spoon: melts in the mouth. Use steel. Cardboard bucket: absorbent. Use plastic or steel. Tissue-paper school bag: weak and tears. Use strong cloth. Wax plate: melts with hot food. Use steel or a banana leaf.
 - **s4 (4 min)**  
   *Parent does:* Together, invent one new silly product for the shop. Then turn it into a sensible one.  
   *Parent says:* Let's invent our own silly product. Now fix it. What would you change?  
   *Child mode:* Invent your own silly product for the shop. Draw it. Then draw the sensible one next to it.
-  - Think: Was every silly product useless? Could a 'wrong' material be right for a different job? Think of a rubber knife for a play.
+  - Think: Was every silly product useless? Could a 'wrong' material be right for a different job? Think of a rubber knife used in a play.
 
 ## Experiments
 ### e1 · The Hot Spoon Race (30 min)
@@ -302,7 +303,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **results table:** Spoon | Minutes until the butter melted and slid | How the top of the spoon felt when the race ended
 - **s1 (3 min)**  
   *Parent does:* 1. Put the three spoons on the table. 2. Ask your child to hold each one and say how it feels. 3. Ask them to line up the spoons, from 'will melt its butter first' to 'will melt it last'.  
-  *Parent says:* We are going to race these spoons. Not with legs. With heat. Which spoon do you think will carry heat up to its top fastest?  
+  *Parent says:* We are going to race these spoons, not with legs but with heat. Which spoon do you think will carry heat up to its top fastest?  
   *Child mode:* Look at the steel, plastic and wooden spoons. Hold each one. Which will get hot fastest at the top? Line them up.
   - Ask: Why did you put that spoon first? (good: It is metal, and metal pans get hot.; Steel tumblers get hot with hot coffee in them.)
 - **s2 (4 min)**  
@@ -318,17 +319,17 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **s4 (4 min)**  
   *Parent does:* Help your child draw a bar chart, one bar for each spoon.  
   *Parent says:* Let's turn our times into a picture. A taller bar means a longer wait.  
-  *Child mode:* Draw one bar for each spoon. Make it as tall as the minutes it took. The shortest bar carried heat fastest.
+  *Child mode:* Draw one bar for each spoon. Make it as tall as the minutes it took. The spoon with the shortest bar carried heat fastest.
   - Check: The steel spoon's pea fell first. What does that tell us about steel? → **Steel is a good conductor of heat**
 - **s5 (2 min)**  
   *Parent does:* Look at a kadai, a tawa or a pressure cooker together. Find the metal part and the handle.  
   *Parent says:* Now look at our kadai. Which part should be like the steel spoon? Which part should be like the wooden one?  
   *Child mode:* Look at a pan in your kitchen. Which part is like the steel spoon? Which part is like the wooden spoon? Why?
-  - Think: Why are a chef's spoons for stirring hot sambar often wooden?
+  - Think: Why do chefs often use wooden spoons to stir hot sambar?
 - **s6 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. What do you think now about steel, plastic and wood? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Say or write three sentences: what you think now, what you saw, and why you think it happened.
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: steel carries heat much faster than plastic or wood. What I saw: the steel spoon's pea fell after 4 minutes, the plastic one after 14, and the wooden one never fell. Why: steel is a metal, and metals are good conductors of heat.
 ### e2 · Does a Sweater Make Heat? (105 min)
 - **question:** If wool makes heat, an ice cube in a woollen sock should melt fastest. Does it?
@@ -353,14 +354,14 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   - Note: Times depend on your room: on a hot day the bare cube may melt in 20 minutes. The order of the four matters more than the minutes. Usually the bare cube melts first and the sock cube lasts much longer, often twice as long. Foil sometimes helps a little, because it is shiny. If you used a towel instead of wool, the result is the same: the towel cube lasts longer, because a thick towel also traps air. The tumbler and foil results are often close to the bare plate and can go either way. The sock is the one that is clearly different.
 - **s4 (4 min)**  
   *Parent does:* Draw a bar chart of how long each ice cube lasted.  
-  *Parent says:* Let's draw a bar for each wrapping. The tallest bar lasted longest.  
+  *Parent says:* Let's draw a bar for each wrapping. The tallest bar shows the ice that lasted longest.  
   *Child mode:* Draw one bar for each wrapping. Make it as tall as the minutes the ice lasted. Which bar is tallest?
   - Check: The ice cube in the woollen sock lasted longest. Why? → **Wool traps still air, which slows heat from the room reaching the ice**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. Does a sweater make heat? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: a sweater does not make heat. It slows heat down, coming in or going out. What I saw: the ice in the sock lasted 95 minutes, but the bare ice melted in 40. Why: the sock is mostly air, and still air slows heat down.
+  *Child mode:* Say or write three sentences: what you think now, what you saw, and why you think it happened.
+  - Note: A good answer sounds like this. What I think: a sweater does not make heat. It slows heat down, coming in or going out. The warmth you feel is your own body's heat, held near you. What I saw: the ice in the sock lasted 95 minutes, but the bare ice melted in 40. Why: the sock is mostly air, and still air slows heat down.
   - Think: So why do you feel warm in a sweater? Where does that heat really come from?
 ### e3 · The Matka Mystery (30 min)
 - **question:** Does a clay pot really keep water cooler than a plastic or steel bottle? Why?
@@ -387,11 +388,12 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Parent does:* Extra test: compare the steel bottle wrapped in the wet hanky with the steel bottle that had no hanky.  
   *Parent says:* Can we make the steel work like a clay pot? We gave one steel bottle a wet coat. Is its water cooler than the dry steel bottle's?  
   *Child mode:* Compare the wrapped steel bottle with the plain steel bottle. Is the water in the wrapped one cooler?
+  - Note: Water slowly seeps through the canvas and evaporates from the outside. Evaporation takes heat away, so the water inside stays cooler. This is the same idea as the clay pot.
   - Think: Soldiers and travellers once carried water in canvas bags that were always a little wet. Why might that keep the water cool?
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. Does a clay pot really keep water cooler? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Say or write three sentences: what you think now, what you saw, and why you think it happened.
   - Note: A good answer sounds like this. What I think: a clay pot keeps water cooler than a plastic or steel bottle. What I saw: after 3 hours, the clay pot water was 24 degrees and the plastic bottle water was 29 degrees. Why: water seeped out through the clay and evaporated, and evaporation takes heat away.
 
 ## Activities
@@ -406,12 +408,13 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Parent does:* 1. Go room by room: the kitchen, the bathroom, the bedroom, the door. 2. For each object, your child says the material and one property that suits its job. 3. Write it down. 4. Look out for objects made of more than one material.  
   *Parent says:* What is it made of? Why that material and not another one? What would happen if it were made of something else?  
   *Child mode:* Go from room to room. For each thing, say what it is made of. Then say why that material is right. Write it down.
-  - Note: Good finds: a bathroom mug, plastic, waterproof and does not break if dropped. A doormat, coir or rubber, rough and grips shoes. A window, glass, transparent. A pressure cooker, aluminium or steel with a plastic handle. A towel, cotton, absorbent. A door hinge, steel, strong. A pillow, cotton outside and soft stuffing inside.
+  - Note: Good finds. A bathroom mug: plastic, because it is waterproof and does not break if dropped. A doormat: coir or rubber, because it is rough and grips shoes. A window: glass, because it is transparent. A pressure cooker: aluminium or steel, with a plastic handle. A towel: cotton, because it is absorbent. A door hinge: steel, because it is strong. A pillow: cotton outside and soft stuffing inside.
 - **s3 (4 min)**  
   *Parent does:* 1. Count how many objects were made of each material. 2. Make a tally. 3. Ask which material your home uses most, and why.  
   *Parent says:* Which material did we find most often? Why do you think so many things are made of it?  
   *Child mode:* Count your objects. How many were plastic? How many steel? How many wood? Which material is used most in your home?
-  - Think: Which object surprised you? Did anything use a material you did not expect?
+  - Note: For example, a pencil has wood to hold it, graphite to leave a mark and paint to keep the wood clean. Each material does the job its properties suit.
+  - Think: Which object was made of more than one material? What job did each material do?
 ### a2 · The Spoon and Plate Parade (15 min)
 - **record:** Make a table. For each spoon or plate, write one good point and one bad point.
 - **s1 (5 min)**  
@@ -442,7 +445,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Child mode:* Ask a grown-up to take it apart. Put each part on the tray. Name each material. Is it metal, plastic, cloth or rubber?
   - Note: An umbrella usually has waterproof nylon or polyester cloth, steel or fibreglass ribs, a steel spring, a plastic or wooden handle and plastic tips. A ballpoint pen has a plastic body, a metal tip with a tiny ball, a plastic ink tube and a steel spring. A torch has a plastic case, a metal spring, a plastic or glass cover and a bulb or LED.
 - **s3 (7 min)**  
-  *Parent does:* For each part, ask: what job does it do, and what property helps? Then draw the exploded picture.  
+  *Parent does:* For each part, ask: what job does it do, and what property helps? Then draw all the parts spread out, and label each one.  
   *Parent says:* Why is the rib steel and not plastic? Why is the cloth not cotton?  
   *Child mode:* For each part, say its job. Why that material? Then draw all the parts spread out, with labels.
   - Check: An umbrella's ribs are springy steel. Why? → **Steel is strong and springs back after bending, so it holds the cloth open**
@@ -455,15 +458,17 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   - Ask: What do the drops do on the waxy leaf? (good: They make round balls.; They roll off and take the dust with them.)
 - **s2 (6 min)**  
   *Parent does:* 1. Rub the candle hard all over one piece of paper, until it looks a little shiny. 2. Drip water on the waxed paper and on the plain paper.  
-  *Parent says:* Paper is absorbent. Can we change that, like the leaf does? Let's give it a coat of wax.  
+  *Parent says:* Paper is absorbent. Can we make it waterproof, like the waxy leaf? Let's give it a coat of wax.  
   *Child mode:* Rub the candle hard all over one paper. Drip water on it. Now drip water on plain paper. What is different?
   - Check: Why does water stay in a drop on the waxed paper? → **Wax is waterproof, so it stops the water soaking into the paper**
 - **s3 (4 min)**  
   *Parent does:* Talk about how people copy the lotus leaf, and how they change materials to suit new jobs.  
   *Parent says:* In 1997, two scientists in Germany explained why lotus leaves stay clean. Now some paints copy them. People also coat paper cups and cloth to make them waterproof.  
   *Child mode:* Scientists copied the lotus leaf to make self-cleaning paint! People also coat paper and cloth to make them waterproof. Where have you seen this?
-  - Think: If you could copy one thing from a plant or animal, what would you copy? What would you make with it?
+  - Note: Water soaks into a soft leaf or spreads flat on it, so it cannot roll off. On a waxy leaf, the water stays in round drops that roll away and carry the dust with them.
+  - Think: The lotus leaf stays clean because drops roll off and take the dust with them. Why would a soft leaf not clean itself in the same way?
 ### a5 · The Material Orchestra: why are bells made of metal? (15 min)
+- **problem:** When you tap something, it shakes, and the shaking makes sound. A hard metal keeps shaking for a long time, so it rings. A soft material soaks up the shaking, so it only thuds. In this activity you listen for the difference.
 - **safety:** Tap the glass gently with the spoon so it does not break.
 - **record:** Sort the materials into 'rings' and 'thuds'. Write which one you would use for a temple bell, and which for a quiet room.
 - **s1 (6 min)**  
@@ -476,26 +481,29 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Child mode:* Tap the steel tumbler. Listen to it ring. Now press a cloth on it. The ring stops! Soft things soak up sound.
   - Check: Why are temple bells made of metal, not wood? → **Metal rings for a long time when struck**
 - **s3 (4 min)**  
-  *Parent does:* Play a short tune together, using the ringing materials and the thudding ones as a drum.  
+  *Parent does:* Play a short tune together on the materials that ring. Use the ones that thud as a drum.  
   *Parent says:* Music studios and cinema halls cover their walls with soft materials. Why do you think they do that?  
   *Child mode:* Play a tune with the ringing things. Use the thuds as a drum! Why do cinema halls have soft walls?
+  - Note: Soft cloth walls are better. They absorb sound, so the library stays quiet. Hard stone walls bounce the sound back, so a room echoes.
   - Think: Which is better for a library: hard stone walls or soft cloth walls? Why?
 ### a6 · Be the Atoms: why metal passes heat on (15 min)
+- **problem:** Heat is the jiggling of the tiny atoms in a material. In wood, heat passes along only when each atom nudges the next one. In a metal, some electrons are free to move, and they carry the heat along quickly. In this game, you act out both.
 - **record:** Draw the two lines of atoms: one passing heat by jiggling, one with free electrons running along.
 - **s1 (4 min)**  
   *Parent does:* 1. Everyone stands in a line, close together. Each person is an atom of a spoon. 2. The person at the 'hot end' starts to jiggle. 3. They can only pass the jiggle by nudging the next person, slowly, one by one.  
   *Parent says:* You are the atoms of a wooden spoon. The end in the hot water starts to jiggle. Heat is the atoms jiggling. Pass it on, only by nudging the person next to you.  
   *Child mode:* You are an atom in a wooden spoon. When the atom next to you nudges you, start jiggling. Then nudge the next one. Pass it along slowly.
 - **s2 (6 min)**  
-  *Parent does:* 1. Time how long the jiggle takes to reach the end. 2. Now the metal version: the atoms stand still in the line, but one free player is an 'electron'. 3. The electron grabs the soft ball, the heat, at the hot end and runs it to the far end. 4. Time it.  
+  *Parent does:* 1. Time how long the jiggle takes to reach the end. 2. Now the metal version: the atoms stand still in the line, but one free player is an 'electron'. 3. The electron grabs the soft ball, which stands for the heat, at the hot end and runs it to the far end. 4. Time it.  
   *Parent says:* Now we are a steel spoon. Steel has free electrons. They do not stay with one atom. They zoom about and carry heat with them. Run!  
   *Child mode:* Now you are a steel spoon! One player is a free electron. Grab the heat ball at the hot end. Run it to the other end. Was that faster?
   - Check: In the game, why did heat reach the end faster in the 'metal' line? → **Free electrons carried it along quickly**
 - **s3 (5 min)**  
   *Parent does:* Talk about how this matches the Hot Spoon Race, if you have done it.  
-  *Parent says:* Remember the spoons in hot water? The steel spoon's butter melted first. Now you know why. Its free electrons rushed the heat up the handle.  
+  *Parent says:* In the Hot Spoon Race, the steel spoon's butter melted first. Now you know why. Its free electrons rushed the heat up the handle.  
   *Child mode:* In the Hot Spoon Race, steel won. Now you know why! Its free electrons ran the heat up the spoon.
-  - Think: Metals also carry electricity, using the same free electrons. Can you think of something in your home that uses copper wire?
+  - Note: Any answer with a wire works, such as a fan, a lamp, a mixer or a phone charger. Copper carries electricity well because of its free electrons.
+  - Think: Metals also carry electricity, using the same free electrons. Name something in your home that has copper wire inside.
 
 ## Projects
 ### p1 · Build a Clay Pot Cooler (70 min, 3 days)
@@ -552,6 +560,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Parent does:* Compare the usual solutions and the creative ideas with your design. Then improve your cosy.  
   *Parent says:* How many degrees did your cosy save? What would you change to save even more?  
   *Child mode:* How many degrees warmer was your tumbler? Look at the creative ideas. What would you change?
+  - Note: A cosy slows heat in both directions. Around a cold drink, it slows the room's heat from reaching the drink.
   - Check: Which cosy would keep coffee hottest? → **A thick fluffy woollen one with a lid**
   - Think: The same cosy could keep a cold drink cold. Why?
 ### c2 · Post the Egg (30 min)
@@ -559,7 +568,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **your turn:** Now invent your own packing. Draw it, pack it and test it. Did your egg survive? What would you change?
 - **constraints:** The box must be small, no bigger than a shoe box.; You can only use materials from home.; Drop it from the same height each time, about the height of a table.
 - **general:** Wrap the egg in soft, squashy material, like sponge or cotton wool. It squashes slowly and softens the bump.; Fill all the space in the box, so the egg cannot rattle about and hit the sides.; Crumpled newspaper is cheap and full of air pockets.
-- **creative:** Hang the egg in the middle of the box with rubber bands, so it never touches the sides.; Use uncooked rice or dal around the egg, which shifts and spreads out the bump.; Copy nature. Eggs in a nest sit on soft grass and feathers. What could you copy?
+- **creative:** Hang the egg in the middle of the box with rubber bands, so it never touches the sides.; Pack uncooked rice or dal around the egg. The grains shift and spread out the bump.; Copy nature. Eggs in a nest sit on soft grass and feathers. What could you copy?
 - **s1 (5 min)**  
   *Parent does:* 1. Explain the problem. 2. Squeeze each material in your hand: sponge, cotton wool, newspaper, rice, cloth. 3. Ask which ones squash softly.  
   *Parent says:* Which materials squash softly, like a cushion? Which are hard? Which one would you want around your egg?  
@@ -582,7 +591,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 
 ## Worksheets
 ### Why Is It Made of That? (core) (core, 15 questions)
-1. (mcq) Meenakshi, a girl in Class 3, makes two boats. One is folded from newspaper. The other is a plastic box lid. She floats both in a bucket of water. Which boat will still float tomorrow?  
+1. (mcq) You make two boats. One is folded from newspaper. The other is a plastic box lid. You float both in a bucket of water. Which boat will still float tomorrow?  
    Options: The plastic lid, because plastic is waterproof / The paper boat, because paper is lighter / Both, because both float at first / Neither, because all boats sink in the end  
    **Answer:** The plastic lid, because plastic is waterproof. *Why:* A strong answer uses a property. Paper is absorbent. It slowly soaks up water, goes soft and sinks. Plastic is waterproof, so it stays dry and keeps floating. Picking 'paper is lighter' is a sensible first guess, but being light only helps until the paper fills with water.
 2. (fill) A material that slows heat down, like the wood of a ladle handle, is called an ____ of heat.  
@@ -598,7 +607,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 7. (mcq) A cricket bat is made of willow wood, not steel. What is the main reason?  
    Options: A steel bat of that size would be far too heavy to swing / Wood is waterproof / Steel cannot be shaped / Wood carries heat well  
    **Answer:** A steel bat of that size would be far too heavy to swing. *Why:* Steel is strong, but it is very heavy for its size. A bat must be strong and light enough to swing fast. Willow is both. Picking 'steel cannot be shaped' is not right, because steel is shaped into cars and spoons. A strong answer weighs strength against weight.
-8. (mcq) Arjun, a boy in Class 4, says, 'A clay pot cools water because clay is a cold material.' Which test would show whether he is right?  
+8. (mcq) Someone says, 'A clay pot cools water because clay is a cold material.' Which test would show whether this is right?  
    Options: Wrap the wet clay pot in a plastic bag, so no water can evaporate, and see if the water still cools / Paint the pot a nicer colour / Use a bigger pot / Leave the pot in the fridge  
    **Answer:** Wrap the wet clay pot in a plastic bag, so no water can evaporate, and see if the water still cools. *Why:* If clay itself were cold, the pot would cool water even inside a plastic bag. It does not. The water only cools when it can seep out and evaporate. A strong answer changes one thing that would tell the two ideas apart.
 9. (write) An old, flat blanket keeps you less warm than a new, fluffy one made of the same cotton. Why?  
@@ -614,7 +623,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 14. (mcq) Glass is very hard. Yet a glass tumbler breaks when it falls, and a steel tumbler only dents. Why?  
    Options: Glass is brittle: it cracks instead of bending / Glass is soft / Glass is heavier than steel / Glass is transparent  
    **Answer:** Glass is brittle: it cracks instead of bending. *Why:* Hard means difficult to scratch. Brittle means it cracks instead of bending. Glass is both. Steel can bend a little and soak up the bump. Picking 'glass is soft' mixes up breaking with softness. A strong answer says being hard is not the same as being hard to break.
-15. (mcq) A girl puts a steel bowl of hot payasam on the wooden table. Which mat will protect the table best?  
+15. (mcq) You put a steel bowl of hot payasam on a wooden table. Which mat will protect the table best?  
    Options: A thick, folded cotton cloth / A thin steel plate / A copper sheet / No mat  
    **Answer:** A thick, folded cotton cloth. *Why:* The folded cloth is an insulator. It has air trapped between its folds, so it slows heat moving down into the table. Steel and copper are conductors, so they pass the heat straight through. Picking the steel plate is a common guess, because it looks strong. But this job needs an insulator, not strength.
 ### Testing and Choosing (stretch) (stretch, 15 questions)
@@ -622,7 +631,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
    Options: Plastic and wood are both insulators: they carried heat much more slowly than steel / Plastic is a conductor, like steel / Plastic makes its own heat / Wood is a conductor  
    **Answer:** Plastic and wood are both insulators: they carried heat much more slowly than steel. *Why:* Steel melted its butter in 4 minutes. Plastic took 14, and wood had still not melted at 15. Both carried heat far more slowly than steel, so both are insulators. Picking 'a conductor, like steel' ignores how big the gap is. A strong answer compares the numbers.
 2. (write) Suppose you added a copper spoon to the Hot Spoon Race. Where would you expect its bar on the chart to be? Explain your guess.  
-   **Answer:** A strong answer says the copper bar would be the shortest, under 4 minutes. Copper is a metal and an even better conductor of heat than steel. So heat would reach the butter even faster.. *Why:* This uses the result to predict a new case. The child has not tested copper, so the answer should be a reasoned guess, and say how to check it.
+   **Answer:** A strong answer says the copper bar would be the shortest, under 4 minutes. Copper is a metal and an even better conductor of heat than steel. So heat would reach the butter even faster.. *Why:* This uses the results to predict a new case. Copper has not been tested, so the answer is a reasoned guess. You could check it by adding a copper spoon to the race.
 3. (mcq) Two clay pots are filled with the same water. One stands in the breeze of a fan. The other stands in a still corner. Which water will be cooler after two hours?  
    Options: The pot in the fan's breeze / The pot in the still corner / Both the same, because they are the same pot / Neither will cool  
    **Answer:** The pot in the fan's breeze. *Why:* Moving air carries away the water that has evaporated, so more water can evaporate. More evaporation takes away more heat. Picking 'both the same' forgets that the air around the pot matters, not just the clay.
@@ -632,7 +641,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
    Options: Aluminium is much lighter, and strong enough for the job / Aluminium is stronger than steel in every way / Steel cannot be shaped / Aluminium is cheaper than paper  
    **Answer:** Aluminium is much lighter, and strong enough for the job. *Why:* This is a trade-off. Steel is stronger, but a plane made of steel would be far too heavy to fly well. Aluminium is lighter and still strong enough. Picking 'stronger in every way' forgets that steel is the stronger metal. A strong answer weighs strength against weight.
 6. (fill) Wet clothes on a line dry because the water slowly turns into a gas and goes into the air. This is called ____.  
-   **Answer:** ['evaporation', 'evaporating']. *Why:* Evaporation takes heat away from whatever the water leaves. That is why the same idea dries clothes and cools a clay pot.
+   **Answer:** ['evaporation', 'evaporating']. *Why:* Evaporation takes heat away from the thing the water leaves. Evaporation is what dries clothes, and it is also what cools a clay pot.
 7. (match) Match each part of a pressure cooker to the property it needs.  
    **Answer:** the metal body → conducts heat from the flame to the food; the handle → insulator, stays cool to hold; the rubber ring in the lid → stretchy, seals the steam in; the heavy weight on top → heavy, holds the steam in until it is very hot. *Why:* A pressure cooker is four materials doing four jobs. A strong answer sees that no single material could do all of them.
 8. (sort) Some of these keep heat in with trapped air. Others cool things down by evaporation. Sort them.  
@@ -664,7 +673,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 4. (mcq) India's Chandrayaan-3 lander was wrapped in a shiny blanket with many thin layers and gaps between them. What does the blanket do?  
    Options: The shiny layers reflect the Sun's heat, and the gaps slow heat passing through / It makes heat to keep the lander warm / It makes the lander heavier, so it does not float away / It is only for decoration  
    **Answer:** The shiny layers reflect the Sun's heat, and the gaps slow heat passing through. *Why:* Shiny surfaces send heat back. The gaps between the layers slow heat down, a bit like the trapped air in a sweater. Picking 'makes heat' is the same mistake as thinking a sweater makes heat. A strong answer says the blanket slows heat, in both directions.
-5. (write) In the story, the villagers mixed straw into the mud for their bricks. However strong dried mud is, a small crack can grow and break the brick. How does straw help?  
+5. (write) In the story, the villagers mixed straw into the mud for their bricks. Dried mud is strong, but a small crack can grow and break the brick. How does straw help?  
    **Answer:** A strong answer says the straw strands run through the brick. When a crack starts, it reaches a strand of straw and cannot easily get past it. So the crack stops growing, and the brick holds together.. *Why:* A material is only as strong as its biggest crack. Mud and straw together make a composite: the mud is hard, and the straw stops cracks spreading.
 6. (mcq) To cut a sheet of glass, a glass cutter scratches a line on it, then bends the sheet. The glass snaps cleanly along the line. Why?  
    Options: The scratch is a tiny crack, and the crack grows along the line when the glass is bent / The scratch makes the glass softer / The scratch heats the glass / The glass was already broken there  
@@ -672,7 +681,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 7. (fill) A material made by joining two or more materials, so that each one covers another's weak point, is called a ____.  
    **Answer:** ['composite']. *Why:* Mud with straw, bone, plywood and concrete with steel rods inside are all composites.
 8. (write) In the Lotus Leaf activity, water also rolled off the paper you rubbed with candle wax. What does this tell you about where the leaf's waterproof power comes from?  
-   **Answer:** A strong answer says it comes from the waxy surface, not from the leaf being green or alive. Wax on paper did the same job. So the property belongs to the outside layer.. *Why:* Changing one thing, the surface, gave the same result on a different material. That is good evidence.
+   **Answer:** A strong answer says it comes from the waxy surface, not from the leaf being green or alive. Wax on paper did the same job. So the property belongs to the outside layer.. *Why:* A waxy surface gave the same result on a different material, paper. That is good evidence that the surface does the job.
 9. (write) In the story, the glass window let the warmth out at night. The village used woollen curtains. Suggest a different fix, and say which property it uses.  
    **Answer:** Any fix that slows heat. For example: wooden shutters, because wood is an insulator. Or a second pane of glass with still air between the two, because still air is an insulator. Or straw mats, because they trap air.. *Why:* A strong answer names a new material and the property that slows heat leaving.
 10. (mcq) In 2023, some scientists said they had made LK-99, a wonder material that carries electricity with no loss at room temperature. What should other scientists do first?  
@@ -701,7 +710,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 1. (mcq) Why do we choose a particular material for a job?  
    Options: Because its properties suit the job / Because it is the newest material / Because it is the most colourful / Because it is always the cheapest  
    **Answer:** Because its properties suit the job. *Why:* We look at what the job needs, then find a material with those properties. Picking 'cheapest' is a real thing people think about. But a cheap material that cannot do the job is no use.
-2. (mcq) A girl spills a glass of water on the floor. She has a plastic sheet and an old cotton towel. Which will clean it up, and why?  
+2. (mcq) You spill a glass of water on the floor. You have a plastic sheet and an old cotton towel. Which will clean it up, and why?  
    Options: The cotton towel, because cotton is absorbent / The plastic sheet, because plastic is waterproof / Both work equally well / Neither, because water cannot be picked up  
    **Answer:** The cotton towel, because cotton is absorbent. *Why:* Cotton soaks up the water. Plastic is waterproof, so it only pushes the water around. Picking plastic means thinking 'waterproof' means 'good with water'. For this job it is the wrong property.
 3. (mcq) A kadai is metal, but its handle is wood. Why?  
@@ -709,13 +718,13 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
    **Answer:** Metal carries heat to the food. Wood does not carry heat to your hand.. *Why:* Metal is a conductor of heat, which is right for cooking. Wood is an insulator, which is right for holding. Picking 'wood is stronger' misses the job. The handle is about staying cool, not strength.
 4. (mcq) In the Hot Spoon Race, which spoon's butter melted first?  
    Options: The steel spoon / The wooden spoon / The plastic spoon / They all melted at the same time  
-   **Answer:** The steel spoon. *Why:* Steel is a metal, and metals carry heat quickly up the handle. Picking 'wooden' usually means the result was not yet linked to conductors. The wooden spoon's butter often never melts at all.
+   **Answer:** The steel spoon. *Why:* Steel is a metal, and metals carry heat quickly up the handle. Picking 'wooden' mixes up conductors and insulators. Wood is an insulator, and the wooden spoon's butter often never melts at all.
 5. (mcq) A steel railing and a wooden bench have been outside all night. The steel feels colder. Why?  
    Options: Steel carries heat away from your hand faster / Steel really is much colder / Wood makes its own heat / Steel has ice inside it  
    **Answer:** Steel carries heat away from your hand faster. *Why:* They are the same temperature. Steel is a good conductor, so it pulls heat from your hand quickly, and feels colder. Picking 'really colder' trusts the feeling over a thermometer.
 6. (mcq) Does a woollen sweater make heat?  
    Options: No. It traps air, which keeps your own heat in. / Yes, wool is always warm. / Yes, but only in winter. / No, it makes cold.  
-   **Answer:** No. It traps air, which keeps your own heat in.. *Why:* Wool traps still air, an insulator, which slows your body's heat from escaping. Picking 'wool is always warm' is very common. But an ice cube in a woollen sock melts more slowly, which shows wool makes no heat.
+   **Answer:** No. It traps air, which keeps your own heat in.. *Why:* Wool traps still air. Still air is an insulator, so it slows your body's heat from escaping. Picking 'wool is always warm' is very common. But an ice cube in a woollen sock melts more slowly, which shows wool makes no heat.
 7. (mcq) In the Matka Mystery, the water in the clay pot ended up cooler than the water in the plastic bottle. What made the difference?  
    Options: Water seeped through the clay and evaporated, taking heat away / Clay is always cold / The water is heavier in clay / Clay keeps the sunlight in  
    **Answer:** Water seeped through the clay and evaporated, taking heat away. *Why:* Clay is porous, so water reaches the outside and evaporates. Evaporation takes heat away. Picking 'clay is always cold' means thinking a material has its own coldness. A dry clay pot does not cool water.
@@ -725,7 +734,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 9. (mcq) Bone is made of a bendy material and a hard mineral. Why is this a good design?  
    Options: Together they make bone hard and tough, not brittle and not floppy / It makes bone heavier / It makes bone see-through / It makes bone soft like jelly  
    **Answer:** Together they make bone hard and tough, not brittle and not floppy. *Why:* The mineral alone would snap like chalk. The bendy collagen alone would flop. Joined, they make a strong composite. Picking 'heavier' misses the point. The mix is about toughness.
-10. (mcq) Divya, a girl in Class 4, says, 'Steel is the strongest material in our house, so it is the best material for every job.' Which job shows she is wrong?  
+10. (mcq) Someone says, 'Steel is the strongest material in our house, so it is the best material for every job.' Which job shows this is wrong?  
    Options: A window, because steel does not let light through / A bridge / A spoon / A pressure cooker  
    **Answer:** A window, because steel does not let light through. *Why:* Steel is strong, but it is not transparent. A window's job is to let light in, and glass does that. Picking 'a bridge' or 'a spoon' gives a job steel does well. The best material depends on the job.
 11. (mcq) Spectacles for a small child are often plastic, not glass. Why?  
@@ -739,7 +748,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
    **Answer:** So only the spoon's material changes, which makes it a fair test. *Why:* In a fair test, you change only one thing. A smaller blob would melt sooner, even on the same spoon. Picking 'it does not matter' means the result could not be trusted.
 14. (mcq) Why are metals good at carrying heat?  
    Options: Some of their electrons move freely and carry energy quickly / Metals are always hot / Metals are full of air / Metals are heavy  
-   **Answer:** Some of their electrons move freely and carry energy quickly. *Why:* Free electrons rush energy through the metal. In wood and plastic, electrons are held in place, so heat creeps along slowly. Picking 'always hot' is the same mix-up as 'metal is colder'. Metals are just at the temperature of their room.
+   **Answer:** Some of their electrons move freely and carry energy quickly. *Why:* Free electrons rush energy through the metal. In wood and plastic, electrons are held in place, so heat creeps along slowly. Picking 'always hot' is a mix-up, like thinking metal is colder than wood. A metal is at the same temperature as the room it is in.
 15. (mcq) Where were the iron atoms in your steel spoon first made?  
    Options: Inside stars, long ago / In a factory in India / In the sea / In a volcano last year  
    **Answer:** Inside stars, long ago. *Why:* Iron atoms were made in stars and in exploding stars, and the explosions scattered them into space. The Earth formed later from that dust. Picking 'factory' is fair, since the spoon was made there. But the factory only shaped iron that was already here.
@@ -770,7 +779,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - A pressure cooker: a metal pot with a black plastic handle.
 - Banana leaves used as plates at a feast or a temple meal.
 - Coir doormats and coir ropes, made from rough, strong coconut husk fibre.
-- Bamboo scaffolding around a building being built, strong, light and bendy. In Assam and Mizoram, whole houses are built of bamboo.
+- Bamboo scaffolding around a building that is going up. Bamboo is strong, light and bendy. In Assam and Mizoram, whole houses are built of bamboo.
 - A woollen pheran or shawl in winter, trapping still air.
 - Shiny steel tiffins carried in cloth bags by Mumbai's dabbawalas.
 
@@ -808,8 +817,8 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 
 ## Connected maths
 - In the Hot Spoon Race, the butter on the steel spoon melted after 4 minutes. The butter on the plastic spoon melted after 14 minutes. The wooden spoon's butter had still not melted when the test stopped at 15 minutes. Look at the chart. How many minutes longer did the plastic spoon take than the steel one? What can you say for sure about the wooden spoon? **The plastic spoon took 10 minutes longer. The wooden spoon took at least 11 minutes longer than the steel one, and maybe much more.**. The plastic spoon took 14 minutes and the steel spoon took 4. 14 take away 4 is 10. The wooden spoon's butter had not melted at 15 minutes. 15 take away 4 is 11. So the wood took at least 11 minutes longer. We cannot say exactly how much longer, because we stopped watching. (queues `math.addition-subtraction.mental-strategies.L3`)
-- In the sweater and ice cube test, the ice on the bare plate melted in 40 minutes. The ice in the woollen sock lasted 95 minutes. Look at the chart. Put the four wrappings in order, from the one that kept the ice longest to the one that kept it shortest. Then: how many more minutes did the sock's ice last than the bare plate's? **Woollen sock, foil, steel tumbler, bare plate. The sock's ice lasted 55 minutes longer.**. Read the height of each bar: sock 95, foil 55, steel tumbler 45, bare plate 40. Put them from biggest to smallest: 95, 55, 45, 40. Then 95 take away 40 is 55. So the sock's ice lasted 55 minutes longer. (queues `math.data.bar-charts.L3`)
-- Look at the thermometer in the picture. It is standing in the water from the clay pot, after 3 hours on a dry day. Each small mark is 1 degree. What does it read? The water in the plastic bottle read 29 degrees. On a sticky monsoon day, the same test gave 28 degrees in the clay pot and 29 in the bottle. On which day did the clay pot cool the water more? Why? **The thermometer reads 24 degrees. On the dry day the clay pot water was 5 degrees cooler. On the monsoon day it was only 1 degree cooler. The clay pot cooled more on the dry day, because water evaporates faster into dry air.**. Find the top of the coloured line. It is 4 small marks above 20, so it reads 24 degrees. 29 take away 24 is 5. On the monsoon day, 29 take away 28 is 1. 5 is bigger than 1, so the clay pot cooled more on the dry day. Damp air already holds a lot of water, so less water evaporates from the clay, and less heat is taken away. (queues `math.temperature.reading-thermometers.L3`)
+- In the sweater and ice cube test, the ice on the bare plate melted in 40 minutes. The ice in the woollen sock lasted 95 minutes. Look at the chart. Put the four wrappings in order, from the one that kept the ice longest to the one that kept it shortest. Then work out how many more minutes the sock's ice lasted than the bare plate's. **Woollen sock, foil, steel tumbler, bare plate. The sock's ice lasted 55 minutes longer.**. Read the height of each bar: sock 95, foil 55, steel tumbler 45, bare plate 40. Put them from biggest to smallest: 95, 55, 45, 40. Then 95 take away 40 is 55. So the sock's ice lasted 55 minutes longer. (queues `math.data.bar-charts.L3`)
+- Look at the thermometer in the picture. It is standing in the water from the clay pot, after 3 hours on a dry day. Each small mark is 1 degree. What does it read? On the same dry day, the water in the plastic bottle was 29 degrees. On a sticky monsoon day, the same test gave 28 degrees in the clay pot and 29 degrees in the plastic bottle. On which day did the clay pot cool the water more? Why? **The thermometer reads 24 degrees. On the dry day the clay pot water was 5 degrees cooler. On the monsoon day it was only 1 degree cooler. The clay pot cooled more on the dry day, because water evaporates faster into dry air.**. Find the top of the coloured line. It is 4 small marks above 20, so it reads 24 degrees. 29 take away 24 is 5. On the monsoon day, 29 take away 28 is 1. 5 is bigger than 1, so the clay pot cooled more on the dry day. Damp air already holds a lot of water, so less water evaporates from the clay, and less heat is taken away. (queues `math.temperature.reading-thermometers.L3`)
 - In the home hunt, a family counted the materials of the objects they found. Plastic: 15. Steel: 10. Cloth: 8. Wood: 6. Glass: 3. How many objects did they find altogether? Which material was found most often? **42 objects. Plastic was found most often.**. Add them up a few at a time. 15 + 10 = 25. 25 + 8 = 33. 33 + 6 = 39. 39 + 3 = 42. The biggest number is 15, for plastic. So plastic was found most often. (queues `math.data.sorting-and-tallies.L3`)
 - In the Spoon and Plate Parade, you compared a steel plate and paper plates. One paper plate costs 2 rupees and is used once. A steel plate costs 100 rupees and lasts for years. One person eats one meal a day on a plate. After how many days has that person spent as much on paper plates as on one steel plate? **After 50 days.**. Each day, one paper plate costs 2 rupees. We need to find how many lots of 2 rupees make 100 rupees. 100 divided by 2 is 50. So after 50 days, the paper plates have cost 100 rupees, the same as the steel plate. After that, the steel plate is cheaper every day. You can check: 50 × 2 = 100. (queues `math.division.sharing-and-grouping.L3`)
 

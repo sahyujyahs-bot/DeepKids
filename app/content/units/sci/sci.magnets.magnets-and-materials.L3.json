@@ -272,7 +272,7 @@
    "status": "debated",
    "description": "Most magnetite is not a magnet. Only a few pieces are lodestones. The Earth's magnetic field is far too weak to make such strong magnets. So how did lodestones become magnets? Scientists have different ideas.",
    "examples": [
-    "Lodestones are usually found near the surface of the ground, not deep inside it.",
+    "Lodestones are usually found near the surface of the ground, not deep underground. That fits the idea that lightning magnetised them, because lightning strikes the surface.",
     "A lightning strike carries a huge electric current, and an electric current makes a magnetic field."
    ],
    "perspectives": [
@@ -437,7 +437,7 @@
    "for": "Most things a magnet sticks to at home are metal: the fridge door, the almirah and pins.",
    "against": "Test a brass key, a copper vessel, aluminium foil or a gold ring. A magnet does not attract any of them. It attracts only metals with iron, nickel or cobalt in them.",
    "status": "rejected",
-   "context": "This card is about a very common mistake: that a magnet attracts every metal."
+   "context": "A magnet sticks to a steel almirah, a pin and a paper clip, and all of these are metal. This card asks whether a magnet attracts every kind of metal."
   },
   {
    "claim": "A compass points to the North Pole, or to the Pole Star.",
@@ -461,7 +461,7 @@
    "for": "Indian Ocean sailors did use floating iron fish compasses. Al-Awfi, writing at the Delhi court around 1232, describes one.",
    "against": "No old Indian text has been found that describes a matsya yantra compass. The oldest clear written descriptions of magnetic compasses are Chinese, from 1044 and 1088. Ideas probably travelled along the trade routes.",
    "status": "minority",
-   "context": "Who invented the compass? This card looks at a claim often made about India, and what the evidence says."
+   "context": "A matsya yantra is the name some writers give to a compass made of an iron fish that floats in a bowl of oil or water. This card asks who invented the compass, and whether India did."
   },
   {
    "claim": "Cows and deer face north or south as they graze, because they sense the Earth's magnetic field.",
@@ -492,7 +492,7 @@
   {
    "q": "Every electron in your body is a tiny magnet. So why doesn't a fridge magnet stick to you?",
    "kind": "deep",
-   "hint": "Put two magnets side by side, with one turned the opposite way. Can they attract a pin as strongly as one magnet alone?"
+   "hint": "Two magnets turned opposite ways partly cancel each other, and they attract a pin much less than one magnet alone. In your body, the electrons' tiny magnets are in pairs that point opposite ways, so they cancel in the same way."
   },
   {
    "q": "A magnet attracts a pin through paper, through wood, even through your hand. How can its force act across a gap, with nothing touching?",
@@ -574,7 +574,7 @@
    "How did Amina work out what was wrong? What had she seen in the galley?",
    "Why did Mariam rub the fish from tail to nose, and never back and forth?",
    "The turtles found the way without a fish. How do you think they did it?",
-   "Amina was the cook's daughter, not a sailor, and she noticed what the pilot missed. Why do you think the person who notices is not always the person in charge?"
+   "Amina noticed what the pilot had missed. What had Amina seen in the galley that helped her work it out?"
   ],
   "art": [
    "A wooden sailing ship with a big triangular sail on a blue sea, a girl at the rail, the coast of Gujarat behind.",
@@ -807,7 +807,7 @@
      "do": "Finish the game and talk about the turtles square.",
      "say": "On square 11, turtles helped you. Real sea turtles find their way across oceans, with no compass. How do you think they do it?",
      "kid": "Who reached Aden? On square 11, turtles helped you. Real turtles cross oceans with no compass. How?",
-     "think": "Sailors needed an iron fish to find the way. Turtles need nothing but their own bodies. Who is better at finding the way?"
+     "think": "Sailors needed an iron fish and a magnet stone to find the way. Turtles seem to use only their own bodies. What do the iron fish and the turtles both sense?"
     }
    ],
    "setup": [
@@ -909,6 +909,7 @@
      "mins": 2,
      "do": "End with one question to think about.",
      "say": "WOOD, PLASTIC and BRASS did nothing. Why are those trick cards?",
+     "parent": "Wood, plastic and brass are not attracted by a magnet. Their atoms do not form lined-up domains the way iron's atoms do, so a magnet has nothing to pull on.",
      "kid": "Why did WOOD and BRASS do nothing?",
      "think": "A magnetised needle and a plain needle are made of the same steel. What is the only difference between them?"
     }
@@ -1247,7 +1248,7 @@
        ]
       }
      ],
-     "think": "A clip was a magnet only while a magnet was near. A stroked needle stays a magnet afterwards. What could be different inside the needle?",
+     "think": "A clip is a magnet only while a magnet is near. A stroked needle stays a magnet afterwards. What must the tiny magnets inside the needle keep doing once the stroking stops?",
      "parent": "Clips are made of steel, so they may keep a tiny bit of magnetism, and one clip may still cling for a moment. Most of the chain falls apart."
     },
     {
@@ -1528,7 +1529,7 @@
      "do": "Leave your child with a question.",
      "say": "So what is it about the pin that the key doesn't have? That's what we'll find out.",
      "kid": "The pin stuck. The key didn't. Both are metal. Why? Keep that question in your head!",
-     "think": "What could be inside a pin that isn't inside a key?"
+     "think": "A steel pin is mostly iron, and a brass key has no iron in it. What do you think a metal needs inside it before a magnet attracts it?"
     }
    ],
    "context": "This is a quick guess-and-test activity to start the unit. You guess which things a magnet attracts, and get a surprise about metals.",
@@ -1546,6 +1547,7 @@
   {
    "id": "a2",
    "title": "Draw the Invisible: the shape of a magnetic field",
+   "problem": "We cannot see a magnet's magnetic field. Near a magnet, each black grain becomes a tiny magnet and turns to line up with the field. So the lines that the grains make show the shape of the field.",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -1631,7 +1633,7 @@
      "do": "Tip the grains back into their jar using the paper as a funnel.",
      "say": "Let's save the grains for next time.",
      "kid": "Fold the paper into a funnel. Tip the grains back into the jar.",
-     "think": "The magnetic field was there before we sprinkled the grains. Is something real if we can't see it?"
+     "think": "The magnetic field was there before we sprinkled the grains. How could you check that it is there without using the grains?"
     }
    ],
    "context": "In this activity you make a magnet's invisible magnetic field visible, using black sand or iron filings on paper above a magnet.",
@@ -1710,8 +1712,9 @@
      "mins": 5,
      "do": "Stand back and look at the whole timeline together.",
      "say": "Look at the places on our cards. Greece, China, India, France, England, Denmark and the USA. What does that tell you?",
+     "parent": "The answer is no. People in Greece, China, India, Europe and the USA each added a piece, and ideas travelled along trade routes.",
      "kid": "Look at all the places on your cards. Did one country find out everything?",
-     "think": "Two women are on our timeline. Can you find out about other women who studied magnets?"
+     "think": "Two women are on our timeline, Marie Curie and Inge Lehmann. What did each of them find out?"
     }
    ],
    "context": "In this activity you hang a timeline of magnet discoveries across a room. It shows how people in many countries added to what we know.",
@@ -1729,6 +1732,7 @@
   {
    "id": "a4",
    "title": "Gilbert's Little Earth: a needle on a thread",
+   "problem": "In 1600, William Gilbert carved a ball from lodestone and moved a tiny compass over it. The compass pointed the way compasses point on the real Earth. This made him think the Earth is a giant magnet. In this activity you do the same with a hanging needle and a magnet.",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -1812,6 +1816,7 @@
   {
    "id": "a5",
    "title": "Find Your Beach: be a sea turtle",
+   "problem": "A young sea turtle has no map. Scientists think the Earth's magnetic field is a little different in every part of the ocean. Each place has its own strength, like an address. In this game you are the turtle, and the strength of the field is your only clue.",
    "mins": 15,
    "days": 1,
    "materials": [
@@ -1860,7 +1865,7 @@
      "mins": 4,
      "do": "Take off the blindfold and talk.",
      "say": "Olive ridley turtles nest on beaches in Odisha, at Gahirmatha and Rushikulya. They come back after years at sea. Scientists think they may find their beaches using the Earth's magnetic field.",
-     "kid": "You found home without seeing! Real olive ridley turtles cross the sea to Odisha's beaches. How do you think it feels to know the way?",
+     "kid": "You found home without seeing! Real olive ridley turtles cross the sea to Odisha's beaches. What did you use to tell you that you were getting closer?",
      "check": {
       "t": "mcq",
       "q": "How do scientists think young sea turtles find their way across the ocean?",
@@ -1889,6 +1894,7 @@
   {
    "id": "a6",
    "title": "Draw an Aurora",
+   "problem": "Auroras are coloured lights in the night sky near the North and South Poles. The Sun sends out tiny charged particles, and the Earth's magnetic field steers them towards the poles. There they hit the air high up and make it glow. You draw an aurora and the field lines that steer it.",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -1963,6 +1969,7 @@
   {
    "id": "a7",
    "title": "Heat Takes the Magnet Away",
+   "problem": "Heat makes the atoms in a needle jiggle. In this activity a grown-up heats a magnetised needle until it glows. You find out what the heat did to its magnetism, and whether you can get it back.",
    "mins": 15,
    "days": 1,
    "materials": [
@@ -2038,7 +2045,7 @@
      "do": "Talk about what happened.",
      "say": "Nothing was added and nothing was taken away. Only the direction of the tiny magnets changed, twice.",
      "kid": "Heat shook the tiny magnets out of line. Stroking lined them up again. Nothing was added. Nothing was taken away.",
-     "think": "The Earth's core is far hotter than 770 degrees. So how can the Earth be a magnet?"
+     "think": "The Earth's core is far hotter than 770 degrees, so its iron cannot stay lined up like the iron in a magnet. What does the Earth's magnetic field come from instead?"
     }
    ],
    "context": "In this activity a grown-up heats a magnetised needle until it glows. You test whether it is still a magnet, and then make it one again.",
@@ -2209,7 +2216,7 @@
      "do": "Read the usual and creative solutions together, then invent one more.",
      "say": "Here's what compass makers usually do, and some creative ideas. Can you beat them?",
      "kid": "Look at the usual ways and some creative ideas. Now invent your own. Can you beat them?",
-     "think": "Turtles and robins may sense the Earth's magnetic field with their own bodies. Nothing sloshes. How might a body do that?"
+     "think": "Turtles and robins may sense the Earth's magnetic field with their own bodies, and nothing sloshes. One idea is a protein in the eye. Another is tiny magnetite crystals, like the ones in magnetic bacteria. Which of these two would turn like your needle?"
     }
    ],
    "context": "This is an engineering challenge. You design a compass that still points north while you walk around with it.",
@@ -3244,8 +3251,8 @@
   "How do you think a turtle senses their way home?",
   "Which do you think stays a magnet longer: a stroked needle or a stroked nail? Why?",
   "If the Earth's magnetic field flipped tomorrow, what would change for us? And for birds?",
-  "Who in our family notices the small things, like Amina in the story 'The Iron Fish'?",
-  "Would you rather have a turtle's magnetic sense or a bird's eyesight? Why?"
+  "Amina saw that the fish pointed at the iron pot. What would you look for if your compass pointed the wrong way?",
+  "Turtles and robins sense the Earth's magnetic field with their own bodies. What do people use to do the same job?"
  ],
  "jokes": [
   {
@@ -3661,7 +3668,7 @@
    "what_is_life": "Turtles, robins and tiny bacteria sense the Earth's magnetic field and use it to find their way.",
    "what_is_this_world": "The whole Earth is a magnet. Its magnetic field is made by moving liquid iron far beneath your feet."
   },
-  "thread": "Inside a plain nail, countless tiny magnets point in every direction, so their forces cancel out exactly. Turn them to point the same way, and the nail has a magnetic force. Nothing new was made. Magnetic force then acts on many things: a pin, a ship's compass, a turtle's journey and the lights in the sky. This is a small example of the One becoming the many: what is already there, arranged in a new way.",
+  "thread": "Inside a plain nail, countless tiny magnets point in every direction, so their forces cancel out exactly. Turn them to point the same way, and the nail has a magnetic force. Nothing new was made. The same tiny magnets were already there, and only the way they point changed. That one change lets the nail act on many things, such as a pin, a ship's compass, a turtle's journey and the lights in the sky.",
   "teachings": [
    {
     "source": "Rig Veda 10.191.2, the hymn of coming together (Samjnana Sukta)",
@@ -3676,7 +3683,7 @@
    {
     "source": "Empedocles, fragment 17 (Diels-Kranz numbering), about 450 BCE",
     "teaching": "Sometimes all things come together into one through Love. Sometimes they are carried apart by Strife.",
-    "link": "Magnets attract and repel. The old names for magnets, 'the one that kisses' and 'the loving stone', describe the same coming together."
+    "link": "Magnets attract and repel, a little like Love and Strife. The old names for magnets, 'the one that kisses' and 'the loving stone', describe the pulling together."
    }
   ],
   "science": [
@@ -3695,7 +3702,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "Lining up is simply how electrons in iron behave. It is a beautiful fact, but it carries no message about agreement or oneness. Reading lessons into iron says more about us than about iron."
+   "view": "Lining up is simply how electrons in iron behave. It is a beautiful fact, but it carries no message about agreement or oneness. Any lesson we find in iron comes from us, not from the iron."
   },
   "practice": {
    "title": "Be the needle",

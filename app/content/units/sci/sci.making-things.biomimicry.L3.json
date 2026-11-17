@@ -458,7 +458,7 @@
    "for": "Its architect, Mick Pearce, studied termite mounds. The building has thick walls, air channels and chimneys, and uses little energy for cooling.",
    "against": "It was based on the old chimney idea of how mounds work. Scientists later found real mounds breathe with day and night, and with the wind. The building also uses fans. It was inspired by termites, but it does not work quite like a mound.",
    "status": "debated",
-   "context": "This card is about a famous building in Africa that is said to copy termite mounds."
+   "context": "The Eastgate Centre is an office building in Harare, the capital of Zimbabwe. Its architect studied termite mounds before he designed it. The building has thick walls, air channels and roof chimneys. This card asks whether it cools itself in exactly the same way a termite mound does."
   },
   {
    "claim": "A gecko sticks with sticky glue or tiny suction cups.",
@@ -474,7 +474,7 @@
    "for": "The boxfish is a small reef fish that looks like a box. The car copied their shape, and in tests it slipped through the air very easily.",
    "against": "Later, scientists studied real boxfish. They found the boxfish's shape helps them turn quickly, more than it helps them swim straight with little drag. The car never went on sale. Copying a living thing needs a careful look at what their shape is really for.",
    "status": "debated",
-   "context": "This card is about a car that copied a fish, and what scientists later found out about the fish."
+   "context": "In 2005, a car company built a concept car shaped like a boxfish. A boxfish is a small reef fish with a body shaped like a box. The car was tested in air and slipped through it very easily. This card asks whether that proves fish shapes are the best for cars."
   }
  ],
  "big_questions": [
@@ -559,7 +559,7 @@
    "Later that day she sat on the bank and drew in her notebook again. She drew the new train. Next to it, she drew me, diving. She was careful to make the beak and the nose exactly the same shape. For once, I sat still until she had finished.",
    "People tell this story now in many countries. They say that a train copied a kingfisher. I am not sure it is quite like that. The water taught my family its lesson over millions of years. The air taught the man the same lesson in a few. We were both listening to the same teacher. I just heard it first."
   ],
-  "epiphany": "For the parent: the train's boom and the kingfisher's splash are the same problem. A fast thing pushes into something that cannot easily get out of its way: water for the bird, the air inside a tunnel for the train. Hitting it with a blunt front shoves it all at once, which makes a slap or a boom. A long, slowly widening front pushes it aside a little at a time. The engineer did not copy the bird's look. He copied how the beak works.",
+  "epiphany": "For the parent: the train's boom and the kingfisher's splash are the same problem. A fast thing pushes into something that cannot easily get out of its way: water for the bird, the air inside a tunnel for the train. Hitting it with a blunt front shoves it all at once, which makes a slap or a boom. A long, slowly widening front pushes it aside a little at a time. The engineer did not copy the bird's look. He copied how the beak works. At the end, the kingfisher says that they and the man were listening to the same teacher. The teacher is the way water and air push back on anything that moves fast into them. The kingfisher's family learned it over millions of years, and the engineer learned it by testing nose shapes.",
   "ask": [
    "Why did the tunnel boom when the old trains came out?",
    "How does the kingfisher dive without a big splash? What is special about the shape of their beak?",
@@ -756,7 +756,8 @@
      "do": "Count the points to find the winner. Then ask each player which design they would most like to use in their own invention.",
      "say": "Which design would you most like to borrow for an invention of your own? What would you make with it?",
      "kid": "Count your points. Playing alone? Write how many turns it took. Which design would you borrow for an invention?",
-     "think": "All these designs were found by people who looked very closely at living things. What living thing near you might be solving a problem that nobody has noticed yet?"
+     "think": "Every pair on the cards began with a living thing that has a problem. Before an inventor copies a design, what must they work out first?",
+     "parent": "A good answer is: what problem the living thing has, and how exactly its design solves it. Only then can the same idea be built from materials people can make. For example, a burr has the problem of getting its seeds carried away, and its hooks solve it by catching in fur."
     }
    ],
    "setup": [
@@ -806,7 +807,7 @@
       "3 Kingfisher: a pointed front that widens slowly",
       "4 Gecko: millions of tiny bendy hairs",
       "5 Termite mound: thick walls that slow heat",
-      "6 Tree frog: soft toe pads with grooves that let water out"
+      "6 Tree frog: soft toe pads with grooves that let water out, so they grip wet leaves"
      ]
     },
     {
@@ -881,7 +882,8 @@
      "do": "Add up the points. Then choose the one invention everyone would most like to really build.",
      "say": "Which invention should we really build and test? We can try it in the My Nature Invention project.",
      "kid": "Add up your points. Which of your inventions would you most like to really build? Circle it.",
-     "think": "Some pairs seemed impossible at first, then turned into good ideas. Why does joining two very different things help us invent?"
+     "think": "A burdock burr and a shoe strap look nothing alike. Why can an idea from a plant still help with a shoe strap?",
+     "parent": "A good answer is that both have the same problem, which is holding on. The burr's hooks solve the problem for the plant, and the same hooks also solve the problem for the strap. Inventors look at the problem first, not at how something looks."
     }
    ],
    "setup": [
@@ -2324,7 +2326,7 @@
      "id": "s2",
      "mins": 4,
      "do": "Compare the lists. Talk about why smooth, hard surfaces worked best.",
-     "say": "On smooth steel and glass, the film can get extremely close. Then the atoms of the film and the plate pull on each other. On a towel or a rough wall, the film touches only a few tips, so it falls off. Static electricity helps the film cling too.",
+     "say": "On smooth steel and glass, the film can get extremely close. Then the atoms of the film and the plate pull on each other. On a towel or a rough wall, the film touches only a few tips, so it falls off. Static electricity helps the film cling too. That is the same effect that makes a rubbed balloon stick to a wall.",
      "kid": "The film clings to smooth glass and steel. It falls off towels and rough walls. Why? It can't get close enough to them.",
      "parent": "Cling film holds on partly by getting very close to smooth surfaces, where atoms attract, and partly by static electricity. A gecko's feet get close even to rough surfaces, using millions of bendy hair tips. Expect the film to cling to the steel, the mirror and usually the plastic box. It falls off the towel and the wall. Results vary with the brand of film and how clean the surface is. The chopping board may hold the film a little.",
      "check": {
@@ -2675,7 +2677,7 @@
      "do": "Make an invention poster: its name, the problem, the living thing and its design, a drawing, and the before and after numbers. Show it to the family.",
      "say": "Give your invention a name. Then tell the family about it, like a real inventor. Don't forget to give credit to the living thing that taught you.",
      "kid": "Name your invention. Make a poster. Show your family. Say which living thing gave you the idea!",
-     "think": "Your invention borrowed an idea from a living thing. Is there anything you could do for that plant or animal in return?"
+     "think": "Say which living thing gave you your idea. What problem does that living thing have in their own life?"
     }
    ],
    "setup": [
@@ -3779,7 +3781,7 @@
   "practice": {
    "title": "Watch one drop",
    "mins": 3,
-   "say": "Let's take a lotus or chembu leaf, or the sooty spoon, or a candle-waxed paper. I'll put one drop of water on it. Hold it very still. Breathe in slowly. Now tilt it, just a little, and breathe out slowly as the drop rolls. Watch it go all the way. Look at the leaf. Is it wet? Let's do it once more, in silence.",
+   "say": "Let's take a lotus or chembu leaf. Or take the spoon blackened with candle soot from the Lotus Spoon activity. Or take a piece of paper rubbed with candle wax. I'll put one drop of water on it. Hold it very still. Breathe in slowly. Now tilt it, just a little, and breathe out slowly as the drop rolls. Watch it go all the way. Look at the leaf. Is it wet? Let's do it once more, in silence.",
    "kid": "Put one drop on a leaf. Hold still and breathe in. Tilt it slowly and breathe out as the drop rolls. Is the leaf still dry?"
   },
   "ask": [

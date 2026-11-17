@@ -1,7 +1,7 @@
 # Biomimicry: copying how living things solve their problems
 `sci.making-things.biomimicry.L3`
 
-**Summary.** Every plant and animal has problems to solve in their own life. A burdock plant must send their seeds far away, so their burrs carry hooks that catch on animal fur. A lotus leaf must stay clean in a muddy pond, so tiny waxy bumps make rain roll off and take the dirt with it. A kingfisher must dive without a splash that warns the fish, so their beak widens very slowly. These designs got better over many generations. People who studied them closely copied them, and made Velcro, self-cleaning paint and a quieter bullet train. Copying how a living thing solves a problem is called biomimicry.
+**Summary.** Every plant and animal has problems to solve in their own life. A burdock plant must send their seeds far away, so their burrs carry hooks that catch on animal fur. A lotus leaf must stay clean in a muddy pond, so tiny waxy bumps make rain roll off and take the dirt with it. A kingfisher must dive without a splash that warns the fish, so their long beak widens slowly towards the head. These designs got better over many generations. People who studied them closely copied them, and made Velcro, self-cleaning paint and a quieter bullet train. Copying how a living thing solves a problem is called biomimicry.
 
 **Intro.** *Find a shoe or a bag with a Velcro strap. Look closely at its two sides. One side has tiny stiff hooks. The other side has soft loops. A plant was using hooks like these long before anyone made Velcro. Why would a plant need hooks?* A burdock plant cannot walk. If their seeds just dropped to the ground, they would grow right under the parent plant. There they would have to share their parent's light, water and soil. So the burdock's seed heads, called burrs, are covered in stiff spines with tiny hooks at the tips. When a fox, a cow or a dog brushes past, the hooks catch in their fur. The animal carries the burr away, and the seeds fall off in new ground. Over many generations, burdock plants whose hooks gripped better spread further, so strong hooks became common. In 1941, a Swiss engineer called George de Mestral came home from a walk in the mountains with burrs all over his clothes and his dog. He looked at one under a microscope. He saw hundreds of tiny hooks caught in loops of fur and thread. He copied exactly that: one strip of hooks and one strip of loops. That became Velcro.
 
@@ -42,7 +42,7 @@
 ### What biomimicry is · *defined*
 **Definition:** Biomimicry means studying how a plant or an animal solves a problem in their own life, and using the same idea to solve a human problem. People copy the idea, not the whole living thing.
 
-Every living thing has problems in their own life. A plant must spread their seeds and keep their leaves clean. An animal must catch food, grip a branch or keep their home cool. Over many generations, living things have worked out designs that solve these problems. A person who wants to copy one must first understand it. What problem does the living thing have? How exactly does its design solve it? Only then can the same idea be built from materials people can make. An American scientist, Otto Schmitt, used the word 'biomimetics' for this in the 1950s. In 1997, an American nature writer, Janine Benyus, wrote a book called 'Biomimicry'. It made the word famous around the world.
+Every living thing has problems in their own life. A plant must spread their seeds and keep their leaves clean. An animal must catch food, grip a branch or keep their home cool. Over many generations, living things have worked out designs that solve these problems. A person who wants to copy one must first understand it. What problem does the living thing have? How exactly does their design solve it? Only then can the same idea be built from materials people can make. An American scientist, Otto Schmitt, used the word 'biomimetics' for this in the 1950s. In 1997, an American nature writer, Janine Benyus, wrote a book called 'Biomimicry'. It made the word famous around the world.
 - e.g. A burdock burr's hooks carry its seeds away on animal fur. Velcro copies them to fasten shoes.
 - e.g. A kingfisher's beak lets them dive without warning the fish. A bullet train's nose copies it to leave tunnels quietly.
 - e.g. A lotus leaf's waxy bumps keep it clean in a muddy pond. Self-cleaning paint copies them.
@@ -76,7 +76,7 @@ A kingfisher lives by catching small fish. The bird sits still on a branch above
 ### The same shape, again and again · *defined*
 **Definition:** Animals that are not close relatives often end up with the same shape, because they face the same problem. Scientists call this convergent evolution. Engineers who test shapes often reach the same answer too.
 
-Sharks are fish. Dolphins are mammals, like us. Ichthyosaurs were reptiles that lived in the sea in the time of the dinosaurs. They are not close relatives at all. Yet all three have the same shape: a pointed nose, a smooth body and a strong tail. Why? Because water pushes back in the same way on every swimmer. A fast swimmer with a blunt nose wastes its energy pushing water. Over millions of years, the fast, pointed ones caught more food and left more young. Engineers testing train noses in the 1990s did not wait millions of years. They tested shapes in days. But they arrived at the same answer as the kingfisher. Nature and engineers are solving the same problems, under the same rules.
+Sharks are fish. Dolphins are mammals, like us. Ichthyosaurs were reptiles that lived in the sea in the time of the dinosaurs. They are not close relatives at all. Yet all three have the same shape: a pointed nose, a smooth body and a strong tail. Why? Because water pushes back in the same way on every swimmer. A fast swimmer with a blunt nose wastes their energy pushing water. Over millions of years, the fast, pointed ones caught more food and left more young. Engineers testing train noses in the 1990s did not wait millions of years. They tested shapes in days. But they arrived at the same answer as the kingfisher. Nature and engineers are solving the same problems, under the same rules.
 - e.g. Penguins, seals and fish all have smooth, pointed bodies for swimming.
 - e.g. Bats, birds and insects all grew wings, in three different ways.
 - e.g. Racing cyclists and diving birds both tuck into a pointed shape.
@@ -105,7 +105,7 @@ Termites are small insects that live in huge families, sometimes of millions. So
 
 In 1996, the Eastgate Centre opened in Harare, the capital city of Zimbabwe in Africa. Its architect, Mick Pearce, studied termite mounds. The building has thick concrete walls and floors that soak up heat slowly in the day. At night, fans pull cool outside air through hollow spaces in the floors, and warm air leaves through chimneys on the roof. Its designers reported that it uses much less energy for cooling than similar buildings. The building was based on the old chimney idea of how mounds work. Scientists later found mounds work differently. The building still works well. So a copy can be useful even when the original is not fully understood. In India, old houses with thick mud walls, small windows and courtyards also stay cool in the heat.
 - e.g. Thick mud walls of village houses keep rooms cool in summer.
-- e.g. A clay water pot (a matka or kooja), keeps water cool because water seeps through its clay and evaporates from the outside, and that carries heat away.
+- e.g. A clay water pot (a matka or kooja) keeps water cool. Water seeps through the clay and evaporates from the outside, and that carries heat away.
 ### Copy how it works, not how it looks · *defined*
 **Definition:** Good biomimicry copies how something works, not just how it looks. A machine that only looks like an animal usually does not work like one.
 
@@ -166,12 +166,12 @@ Biomimicry is still young. Scientists are trying many new ideas, and most are no
   Against: Gecko feet leave no glue. Experiments showed geckos still cling when the air is pumped away, so it is not suction. The grip comes from hundreds of millions of tiny hair tips getting extremely close to the wall.
 - **A car shaped like a boxfish proved that fish shapes are the best for cars.** (The company Mercedes-Benz, with its boxfish concept car in 2005; *debated*)  
   For: The boxfish is a small reef fish that looks like a box. The car copied their shape, and in tests it slipped through the air very easily.  
-  Against: Later, scientists studied real boxfish. They found the boxfish's shape helps it turn quickly, more than it helps it swim straight with little drag. The car never went on sale. Copying a living thing needs a careful look at what its shape is really for.
+  Against: Later, scientists studied real boxfish. They found the boxfish's shape helps them turn quickly, more than it helps them swim straight with little drag. The car never went on sale. Copying a living thing needs a careful look at what their shape is really for.
 
 ## Roots
 We have been learning how burdock plants, lotus leaves, kingfishers, geckos and termites solve problems in their own lives, and how people copied them. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** On the chembu leaf, your drops rolled into balls and carried the dust away. The leaf needs this, because dirt would block its sunlight and germs could make it sick. Plants like chembu found this answer over many generations, long before people made self-cleaning paint. So the first inventors on Earth were living things solving their own problems.  
+**Deep truth.** In the experiment The Leaf That Water Can't Wet, your drops rolled into balls on the chembu leaf and carried the dust away. The leaf needs this, because dirt would block its sunlight and germs could make it sick. Plants like chembu found this answer over many generations, long before people made self-cleaning paint. So the first inventors on Earth were living things solving their own problems.  
 *Habit it breaks:* We think of inventing as something only people do, in workshops and labs. But the chembu leaf, the burdock and the kingfisher each solved a problem in their own lives long before any person copied them.  
 *Evidence:* Drops roll off a chembu leaf and take the dust with them, while paper soaks them up. Self-cleaning wall paint, first sold in the late 1990s, copies the same tiny waxy bumps.
 
@@ -179,7 +179,7 @@ We have been learning how burdock plants, lotus leaves, kingfishers, geckos and 
 - *what is life:* Every living thing is solving problems all the time: spreading their seeds, keeping clean, catching food, keeping cool.
 - *what is this world:* Water, air and heat follow the same rules for every living thing and every machine. That is why a bird's answer can work for a train.
 
-The burdock, the lotus and the kingfisher each solved a different problem. Yet they all worked with the same few rules: water pulling on itself more than on wax, water pushing back on a beak, a hook holding in a loop. From one set of rules for the whole world came countless different answers, one in each kind of living thing. A person who copies a burr is one living thing learning from another, and the idea passes from plant to person.
+The burdock, the lotus and the kingfisher each solved a different problem. Yet they all worked with the same few rules: water pulling on itself more than on wax, water pushing back on a beak, a hook holding in a loop. These rules are the same everywhere in the world, and each kind of living thing has found their own answer within them. A person who copies a burr is one living thing learning from another.
 
 - **Bhagavad Gita 5.10:** A person who works without clinging, offering the work to something greater, is not stained by wrong, just as a lotus leaf is not wetted by water. (The Gita used the lotus leaf as its picture long before microscopes showed why water rolls off it. The leaf lives on the pond, yet the water does not wet it, and the mud does not stay on it.)
 - **Tao Te Ching 25:** People follow the ways of the Earth. The Earth follows the ways of Heaven. Heaven follows the Tao, the Way. The Way follows what is natural. (Biomimicry is people learning from the ways of the Earth, quite literally: an engineer watching a kingfisher to learn how to build a train.)
@@ -187,8 +187,8 @@ The burdock, the lotus and the kingfisher each solved a different problem. Yet t
 - Science (settled): Life on Earth has been changing for about 3.8 billion years. Every living design today comes from a long line of living things that survived. This is evolution.
 - Science (settled): Animals that are not related often evolve the same shape when they face the same problem. Scientists call this convergent evolution.
 - Other view, Many biologists and engineers: Many biologists and engineers say evolution has no plan and no goal. In their view, a burr did not invent anything: seeds with better hooks simply travelled further. People plan, imagine and choose, so human invention is something new and different. That is an honest view.
-- Practice, Watch one drop (3 min): Let's take a lotus or chembu leaf, or the sooty spoon, or a candle-waxed paper. I'll put one drop of water on it. Hold it very still. Breathe in slowly. Now tilt it, just a little, and breathe out slowly as the drop rolls. Watch it go all the way. Look at the leaf. Is it wet? Let's do it once more, in silence.
-- Ask: Nobody wiped the chembu leaf, yet the rolling drops cleaned it. What did the cleaning?
+- Practice, Watch one drop (3 min): Let's take a lotus or chembu leaf. Or take the spoon blackened with candle soot from the Lotus Spoon activity. Or take a piece of paper rubbed with candle wax. I'll put one drop of water on it. Hold it very still. Breathe in slowly. Now tilt it, just a little, and breathe out slowly as the drop rolls. Watch it go all the way. Look at the leaf. Is it wet? Let's do it once more, in silence.
+- Ask: In the experiment The Leaf That Water Can't Wet, nobody wiped the chembu leaf, yet the dust came off. What cleaned the leaf?
 - Ask: A kingfisher's answer to a problem also worked for a train. Why can one answer work for two such different things?
 - Ask: A burdock never saw a microscope, yet their hooks work very well. Is knowing why something works the same as being able to do it?
 
@@ -198,7 +198,7 @@ The burdock, the lotus and the kingfisher each solved a different problem. Yet t
 - *deep:* Why does a lotus leaf stay clean, when a shiny steel plate does not? (hint: Look at a lotus or chembu leaf with a magnifying glass. Is it really smooth?)
 - *deep:* Sharks, dolphins and kingfishers are not close relatives. Why do they share the same pointed shape? (hint: What problem do they all have to solve?)
 - *deep:* How can something as tiny as the pull between atoms hold up a whole gecko? (hint: Think about one strand of thread, and then a thick rope made of millions of strands.)
-- *big:* If nature has been testing designs for 3.8 billion years, does that make nature wise? (hint: Is cleverness only the kind that happens in a head? What kind of cleverness does a river have when it finds the easiest way downhill?)
+- *big:* If nature has been testing designs for 3.8 billion years, does that make nature wise? (hint: Does cleverness need a brain? A river finds the easiest way downhill without thinking. Is that a kind of cleverness?)
 - *big:* Plants and animals are dying out faster than ever because of people. What designs might we lose before we even see them? (hint: Scientists have named less than a quarter of the kinds of living things on Earth, by many estimates.)
 - *big:* Is it fair to copy a living thing's design and not give anything back to it? (hint: What could people do for lotus ponds, geckos and termites, in return?)
 - *big:* The Bhagavad Gita says a wise person is like a lotus leaf in water. What could that mean? (hint: The leaf lives on the pond, yet the water does not wet it.)
@@ -244,7 +244,7 @@ Later that day she sat on the bank and drew in her notebook again. She drew the 
 
 People tell this story now in many countries. They say that a train copied a kingfisher. I am not sure it is quite like that. The water taught my family its lesson over millions of years. The air taught the man the same lesson in a few. We were both listening to the same teacher. I just heard it first.
 
-**For the parent:** For the parent: the train's boom and the kingfisher's splash are the same problem. A fast thing pushes into something that cannot easily get out of its way: water for the bird, the air inside a tunnel for the train. Hitting it with a blunt front shoves it all at once, which makes a slap or a boom. A long, slowly widening front pushes it aside a little at a time. The engineer did not copy the bird's look. He copied how the beak works.
+**For the parent:** For the parent: the train's boom and the kingfisher's splash are the same problem. A fast thing pushes into something that cannot easily get out of its way: water for the bird, the air inside a tunnel for the train. Hitting it with a blunt front shoves it all at once, which makes a slap or a boom. A long, slowly widening front pushes it aside a little at a time. The engineer did not copy the bird's look. He copied how the beak works. At the end, the kingfisher says that they and the man were listening to the same teacher. The teacher is the way water and air push back on anything that moves fast into them. The kingfisher's family learned it over millions of years, and the engineer learned it by testing nose shapes.
 
 - Ask: Why did the tunnel boom when the old trains came out?
 - Ask: How does the kingfisher dive without a big splash? What is special about the shape of their beak?
@@ -260,11 +260,11 @@ People tell this story now in many countries. They say that a train copied a kin
 - **Printable score sheet: Design sheet:** Pair found; The living thing's problem, and what the invention copied, in my own words; Points
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 20 cards. 2. Shuffle the green cards and lay them face down in two rows of 5. 3. Do the same with the orange cards, next to them.  
-  *Parent says:* Every green card is a living thing with a problem in its own life, and the design that solves it. Every orange card is an invention that copied one of those designs. We will hunt for the pairs.  
+  *Parent says:* Every green card is a living thing with a problem in their own life, and the design that solves it. Every orange card is an invention that copied one of those designs. We will hunt for the pairs.  
   *Child mode:* Lay the green cards face down. Lay the orange cards beside them. Each green card has one orange partner. Can you find them all?
 - **s2 (3 min)**  
   *Parent does:* Play one practice pair face up. Show the burr card and the Velcro card side by side.  
-  *Parent says:* Here is a pair to practise with. A burdock burr and Velcro. Why does the burr have hooks? And what did Velcro copy?  
+  *Parent says:* Here is a pair to practise with: a burdock burr and Velcro. Why does the burr have hooks? And what did Velcro copy?  
   *Child mode:* Practice pair: burr and Velcro. Why does the burr have hooks? What did Velcro copy?
   - Ask: Why does the burr have hooks, and what did Velcro copy? (good: The hooks catch on fur, so animals carry its seeds away.; Velcro copied the hooks, and used loops in place of fur.)
   - Check: What design did Velcro copy from the burr? → **Its tiny hooks, which catch in loops**
@@ -282,11 +282,12 @@ People tell this story now in many countries. They say that a train copied a kin
   *Parent does:* Count the points to find the winner. Then ask each player which design they would most like to use in their own invention.  
   *Parent says:* Which design would you most like to borrow for an invention of your own? What would you make with it?  
   *Child mode:* Count your points. Playing alone? Write how many turns it took. Which design would you borrow for an invention?
-  - Think: All these designs were found by people who looked very closely at living things. What living thing near you might be solving a problem that nobody has noticed yet?
+  - Note: A good answer is: what problem the living thing has, and how exactly its design solves it. Only then can the same idea be built from materials people can make. For example, a burr has the problem of getting its seeds carried away, and its hooks solve it by catching in fur.
+  - Think: Every pair on the cards began with a living thing that has a problem. Before an inventor copies a design, what must they work out first?
 ### g2 · Design Dice (20 min)
 - **rules:** You need one die, or two dice, the two printed lists and the score sheet.; Roll the die once. Find that number on the Problem list.; Roll again. Find that number on the Nature list.; In 2 minutes, draw an invention that uses that living thing's design to solve that problem.; Explain it. Score 1 point for naming the design, 1 point for saying how you would test it, and 1 point if it could really be built.; If the pair seems impossible, you may roll the Nature die once more.; Play 5 rounds. The player with the most points wins. Playing alone? Try to beat your own best score.
 - **Printable board: Problem list (roll the first die):** 1 My water bottle gets warm in the sun; 2 My school bag keeps sliding off the chair; 3 My name label gets muddy in the rain; 4 My paper boat sinks and gets soggy; 5 My toy car is slow and noisy; 6 My chappal slips on the wet bathroom floor
-- **Printable board: Nature list (roll the second die):** 1 Burr: tiny hooks that catch; 2 Lotus leaf: waxy bumps that make water roll off; 3 Kingfisher: a pointed front that widens slowly; 4 Gecko: millions of tiny bendy hairs; 5 Termite mound: thick walls that slow heat; 6 Tree frog: soft toe pads with grooves that let water out
+- **Printable board: Nature list (roll the second die):** 1 Burr: tiny hooks that catch; 2 Lotus leaf: waxy bumps that make water roll off; 3 Kingfisher: a pointed front that widens slowly; 4 Gecko: millions of tiny bendy hairs; 5 Termite mound: thick walls that slow heat; 6 Tree frog: soft toe pads with grooves that let water out, so they grip wet leaves
 - **Printable score sheet: Inventor's score sheet:** Problem; Living thing; My invention (draw it); I named the design (1 point); I said how to test it (1 point); It could really be built (1 point)
 - **s1 (2 min)**  
   *Parent does:* 1. Put the two printed lists and the score sheet on the table. 2. Have a die, a pencil and a timer ready.  
@@ -302,12 +303,13 @@ People tell this story now in many countries. They say that a train copied a kin
   *Parent does:* 1. Take turns to roll both dice. 2. Each player draws an invention in 2 minutes. 3. They explain it. 4. The others score it with the three points on the sheet.  
   *Parent says:* Roll, draw for two minutes, then tell us about it. Remember the three points: name the design, say how to test it, and could it really be built?  
   *Child mode:* Roll both dice. Draw your invention in 2 minutes. Then explain it, with the design and how to test it.
-  - Note: Some strong answers. A burr-hook strip on the bag strap and a loop strip on the chair, for problem 2. A label rubbed thickly with candle wax, for problem 3. A pointed nose for the toy car, for problem 5. Grooved soft rubber pads on the chappal, like a tree frog's toe pads, for problem 6. Silly but well-explained ideas deserve the first point too.
+  - Note: Here are some strong answers. A burr-hook strip on the bag strap and a loop strip on the chair, for problem 2. A label rubbed thickly with candle wax, for problem 3. A pointed nose for the toy car, for problem 5. Grooved soft rubber pads on the chappal, like a tree frog's toe pads, for problem 6. Silly but well-explained ideas deserve the first point too.
 - **s4 (3 min)**  
   *Parent does:* Add up the points. Then choose the one invention everyone would most like to really build.  
   *Parent says:* Which invention should we really build and test? We can try it in the My Nature Invention project.  
   *Child mode:* Add up your points. Which of your inventions would you most like to really build? Circle it.
-  - Think: Some pairs seemed impossible at first, then turned into good ideas. Why does joining two very different things help us invent?
+  - Note: A good answer is that both have the same problem, which is holding on. The burr's hooks solve the problem for the plant, and the same hooks also solve the problem for the strap. Inventors look at the problem first, not at how something looks.
+  - Think: A burdock burr and a shoe strap look nothing alike. Why can an idea from a plant still help with a shoe strap?
 
 ## Experiments
 ### e1 · The Leaf That Water Can't Wet (25 min)
@@ -342,7 +344,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Now say or write three things. What I think. What I saw. Why.
+  *Child mode:* Now say or write three things: what you think, what you saw, and why you think it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the chembu leaf keeps itself clean. What I saw: all 5 drops rolled off it, and they picked up the chalk dust. On paper, no drops rolled and the dust made a smudge. Why: the leaf has tiny waxy bumps, so water makes balls that roll and carry dirt away.
 ### e2 · Splash Like a Kingfisher (30 min)
 - **question:** Which shape goes into water with the smallest splash: a flat pancake, a round ball, or a long pointed beak?
@@ -371,7 +373,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Now say or write three things. What I think. What I saw. Why.
+  *Child mode:* Now say or write three things: what you think, what you saw, and why you think it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a long pointed shape goes into water with the smallest splash. What I saw: the pancake made 22 spots, the ball 9 and the beak only 2. Why: the beak pushes the water aside slowly, from its tip, like a kingfisher's beak. The same idea made the bullet train quieter in tunnels.
 ### e3 · Keep the Ice: Walls Like a Termite Mound (75 min)
 - **question:** Which walls keep a little house coolest in the sun: thin walls, thick dry walls, or thick wet walls?
@@ -384,7 +386,7 @@ People tell this story now in many countries. They say that a train copied a kin
   *Parent does:* 1. House A: leave one cup bare. These are thin walls. 2. House B: wrap one cup round and round in 3 sheets of newspaper, to make a thick wall. Hold it with a rubber band. These are thick dry walls, like a mound's earth. 3. House C: wrap one cup in a cotton cloth folded 4 times, soaked in water and squeezed so it does not drip. These are thick wet walls. 4. House D is your own design, if you want one.  
   *Parent says:* Termite mounds have thick earth walls. Let's see if thick walls really keep the heat out. Each cup is a little house.  
   *Child mode:* Make three cup houses. Leave one bare. Wrap one in thick newspaper, and one in a wet cloth. Want to invent a fourth?
-  - Note: Good ideas for a fourth house. For a purer test of thickness, wrap a cup in just one sheet of newspaper and compare it with House B's three sheets. Or cover a cup in white paper, or in black paper. Use the same size of cup. Note that the newspaper also shades the cup a little, and the wet cloth also cools by drying, so Houses B and C show more than thick walls alone.
+  - Note: Here are good ideas for a fourth house. For a purer test of thickness, wrap a cup in just one sheet of newspaper and compare it with House B's three sheets. Or cover a cup in white paper, or in black paper. Use the same size of cup. Note that the newspaper also shades the cup a little, and the wet cloth also cools by drying, so Houses B and C show more than thick walls alone.
 - **s2 (5 min)**  
   *Parent does:* 1. Put one ice cube in each cup. 2. Cover each cup with a card lid. 3. Put all the cups side by side in the sun, on a sunny balcony or windowsill. 4. Start the timer.  
   *Parent says:* All the cups go in the same sunny spot at the same time. That keeps the test fair.  
@@ -403,7 +405,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Now say or write three things. What I think. What I saw. Why.
+  *Child mode:* Now say or write three things: what you think, what you saw, and why you think it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: thick walls keep a house cooler, and wet thick walls are even better. What I saw: the bare cup's ice was gone at 25 minutes. The newspaper cup's lasted 50, and the wet cloth cup's 60. Why: thick walls slow the heat down, and drying water carries heat away, like on a clay water pot.
 
 ## Activities
@@ -468,12 +470,12 @@ People tell this story now in many countries. They say that a train copied a kin
 - **safety:** Never put cling film near your mouth or nose, or over anyone's face.
 - **record:** Make two lists: surfaces the film clung to, and surfaces it fell off.
 - **s1 (6 min)**  
-  *Parent does:* 1. Tear off six pieces of cling film, each about the size of your palm. 2. Press one flat onto each surface, smoothing it with dry fingers. 3. Turn the plate, box, chopping board and towel upside down. The mirror or window and the wall are already upright, so wait 10 seconds. See if the film stays.  
+  *Parent does:* 1. Tear off six pieces of cling film, each about the size of your palm. 2. Press one flat onto each surface, smoothing it with dry fingers. 3. Turn the plate, box, chopping board and towel upside down. The mirror or window and the wall are already upright, so leave them as they are. 4. Wait 10 seconds and see if the film stays on each one.  
   *Parent says:* Cling film has no glue. Let's see which surfaces it will hold on to by itself.  
   *Child mode:* Press cling film onto each surface. Smooth it flat. Turn it upside down. Does the film stay on?
 - **s2 (4 min)**  
   *Parent does:* Compare the lists. Talk about why smooth, hard surfaces worked best.  
-  *Parent says:* On smooth steel and glass, the film can get extremely close. Then the atoms of the film and the plate pull on each other. On a towel or a rough wall, the film touches only a few tips, so it falls off. Static electricity helps the film cling too.  
+  *Parent says:* On smooth steel and glass, the film can get extremely close. Then the atoms of the film and the plate pull on each other. On a towel or a rough wall, the film touches only a few tips, so it falls off. Static electricity helps the film cling too. That is the same effect that makes a rubbed balloon stick to a wall.  
   *Child mode:* The film clings to smooth glass and steel. It falls off towels and rough walls. Why? It can't get close enough to them.
   - Note: Cling film holds on partly by getting very close to smooth surfaces, where atoms attract, and partly by static electricity. A gecko's feet get close even to rough surfaces, using millions of bendy hair tips. Expect the film to cling to the steel, the mirror and usually the plastic box. It falls off the towel and the wall. Results vary with the brand of film and how clean the surface is. The chopping board may hold the film a little.
   - Check: Cling film stuck to the steel plate but fell off the towel. Why? → **On smooth steel it could get very close, so the atoms pulled on each other**
@@ -523,11 +525,11 @@ People tell this story now in many countries. They say that a train copied a kin
   *Parent says:* Inventors start with a problem, not with a gadget. Let's find three small problems in our home that annoy someone.  
   *Child mode:* Walk around your home. Find three small problems. Look for things that slip, get hot or get dirty.
 - **s2 (10 min)**  
-  *Parent does:* Choose one problem. Then ask: which living thing has a problem like this, and how does it solve it? Use the green nature cards from Nature's Idea Match if you made them.  
-  *Parent says:* Pick one problem. Now ask the inventor's question. Which living thing has a problem like this in its own life? How does it solve it?  
+  *Parent does:* Choose one problem. Then ask: which living thing has a problem like this, and how do they solve it? Use the green nature cards from Nature's Idea Match if you made them.  
+  *Parent says:* Pick one problem. Now ask the inventor's question. Which living thing has a problem like this in their own life? How do they solve it?  
   *Child mode:* Pick one problem. Which plant or animal has this problem too? How do they solve it?
   - Ask: What exactly will you copy, and what does it do for the living thing? (good: The burr's hooks, which catch in fur so its seeds travel.; The lotus leaf's waxy bumps, which make rain roll off and wash it clean.; The termite mound's thick walls, which slow down the heat getting in.)
-  - Note: Helpful pairs. Things slipping: burr hooks, gecko hairs, tree frog toe pads. Getting dirty or wet: the lotus leaf. Getting hot: the termite mound and the clay water pot. Moving through air or water: the kingfisher. Let the child choose, even if their idea seems odd. The test will show what works.
+  - Note: Here are some helpful pairs. Things slipping: burr hooks, gecko hairs, tree frog toe pads. Getting dirty or wet: the lotus leaf. Getting hot: the termite mound and the clay water pot. Moving through air or water: the kingfisher. Let the child choose, even if their idea seems odd. The test will show what works.
 - **s3 (12 min)**  
   *Parent does:* Help your child draw the invention and label each part. Next to it, they write what they copied and how they will test it.  
   *Parent says:* Draw your invention and label every part. Then write one sentence: the idea I copied is... And one more: I will test it by...  
@@ -541,7 +543,7 @@ People tell this story now in many countries. They say that a train copied a kin
   *Parent does:* Test the prototype fairly against the plain version, changing only one thing. Measure something real. Count coins held or drops rolled off. Or time the ice, or measure a slope's height.  
   *Parent says:* Let's test it against the plain version. What will you measure? Change only one thing, and test each 3 times.  
   *Child mode:* Test your invention against the plain version. Measure something real. Test each one 3 times. Write the numbers.
-  - Note: Tests that work at home. A grip invention: count coins in a bag before it slips, or lift a board until it slides and measure the height. A clean or dry invention: drip 5 drops and count how many roll off. A cool invention: put an ice cube inside and time it in the sun.
+  - Note: Here are tests that work at home. A grip invention: count coins in a bag before it slips, or lift a board until it slides and measure the height. A clean or dry invention: drip 5 drops and count how many roll off. A cool invention: put an ice cube inside and time it in the sun.
   - Check: You test your grip pad against a plain pad. Which test is fair? → **Same weight, same slope and same surface, only the pad changes**
 - **s6 (18 min)**  
   *Parent does:* Day 3. Look at the results. Change one thing to make the invention better, and test again.  
@@ -552,7 +554,7 @@ People tell this story now in many countries. They say that a train copied a kin
   *Parent does:* Make an invention poster: its name, the problem, the living thing and its design, a drawing, and the before and after numbers. Show it to the family.  
   *Parent says:* Give your invention a name. Then tell the family about it, like a real inventor. Don't forget to give credit to the living thing that taught you.  
   *Child mode:* Name your invention. Make a poster. Show your family. Say which living thing gave you the idea!
-  - Think: Your invention borrowed an idea from a living thing. Is there anything you could do for that plant or animal in return?
+  - Think: Say which living thing gave you your idea. What problem does that living thing have in their own life?
 
 ## Challenges
 ### c1 · Make a Fastener Like a Burr (35 min)
@@ -576,7 +578,7 @@ People tell this story now in many countries. They say that a train copied a kin
   *Parent says:* Double the hooks. Do you think it will hold double the coins? Let's find out.  
   *Child mode:* Add 4 more hooks and test again. Does it hold more coins? Now try smooth cotton. What happens?
   - Note: Expect the towel to hold a few coins with 4 hooks and more with 8. The smooth cotton usually falls off at once. Results wobble, so test twice if you have time.
-  - Check: Say that with 4 hooks the towel held 6 coins, and with 8 hooks it held about 12. What does this show? → **Each hook holds a little, and the holds add up**
+  - Check: Suppose that with 4 hooks the towel held 6 coins, and with 8 hooks it held about 12. What does this show? → **Each hook holds a little, and the holds add up**
 - **s4 (7 min)**  
   *Parent does:* Read the usual solutions and the creative ideas together. Then invent one improvement and test it.  
   *Parent says:* Here are the ways engineers usually make hooks hold better, and some creative ideas. Can you invent a better one?  
@@ -615,13 +617,13 @@ People tell this story now in many countries. They say that a train copied a kin
    Options: A teapot shaped like an elephant / Velcro, with hooks like a burr's / A paint that rain washes clean, like a lotus leaf / A train nose that widens slowly, like a kingfisher's beak  
    **Answer:** 0. *Why:* The teapot only looks like an elephant. It does not use anything an elephant's body does. The other three copy a working design: hooks, waxy bumps and a slowly widening front. A strong answer says what each of the other three copies.
 2. (write) In your own words, what is biomimicry? Give one example that is not Velcro.  
-   **Answer:** Biomimicry is finding out how a living thing solves a problem in their life, and using the same idea to solve a human problem. For example, the lotus leaf's tiny waxy bumps make rain roll off, and self-cleaning paint copies them.. *Why:* A strong answer has both parts: the living thing's own problem and how it solves it, and the human problem the copy solves.
-3. (mcq) Kavya, a girl in Class 3 in Thrissur, sprinkles a little chalk dust on a chembu leaf. Then she drips water on the leaf and tilts it. What will the rolling drops do to the chalk dust?  
+   **Answer:** Biomimicry is finding out how a living thing solves a problem in their life, and using the same idea to solve a human problem. For example, the lotus leaf's tiny waxy bumps make rain roll off, and self-cleaning paint copies them.. *Why:* A strong answer has both parts: the living thing's own problem and how they solve it, and the human problem the copy solves.
+3. (mcq) Sprinkle a little chalk dust on a chembu leaf. Then drip water on the leaf and tilt it. What will the rolling drops do to the chalk dust?  
    Options: Push it into the leaf / Pick it up and carry it off the leaf / Leave it exactly where it was / Turn it into mud that sticks to the leaf  
    **Answer:** Pick it up and carry it off the leaf. *Why:* The drops stay round and roll. As they roll, dust sticks to the water more than to the waxy bumps, so the drops carry it away. This is how a lotus leaf stays clean in a muddy pond. A strong answer says why the dust sticks to the drop and not to the leaf.
 4. (fill) Velcro has tiny ____ on one strip and soft loops on the other.  
    **Answer:** ['hooks']. *Why:* The hooks on one strip catch in the loops on the other, just as a burr's hooks catch in an animal's fur.
-5. (mcq) In the splash experiment, the pancake made the most splash and the pointed beak made the least. A fourth shape is made from the same amount of dough: a short, fat cone. Where do you think its splash will be?  
+5. (mcq) In the experiment Splash Like a Kingfisher, the flat pancake made the most splash, the ball made less, and the pointed beak made the least. A fourth shape is made from the same amount of dough: a short, fat cone. Where do you think its splash will be?  
    Options: Bigger than the pancake's / Smaller than the beak's / Between the ball and the beak / No splash at all  
    **Answer:** Between the ball and the beak. *Why:* The fat cone has a point, so it enters more gently than a ball. But it widens quickly, so it shoves more water at once than the long beak. A strong answer gives a reason from the shape: how quickly it gets wider.
 6. (match) Match each living thing to the invention that copied it.  
@@ -638,7 +640,7 @@ People tell this story now in many countries. They say that a train copied a kin
 11. (mcq) The first bullet trains in Japan made a loud boom every time they came out of a tunnel. Why?  
    Options: They squeezed the air in front of them, and it burst out of the far end / Their engines exploded / They hit the tunnel walls / Birds flew into them  
    **Answer:** They squeezed the air in front of them, and it burst out of the far end. *Why:* A fast train pushes the air ahead of it, like a plunger in a pipe. The squeezed air rushes ahead and bursts out of the tunnel with a boom. Nothing broke. It was the air.
-12. (perspective) Two children in Bengaluru are arguing about who should get the credit for Velcro.  
+12. (perspective) Two children are arguing about who should get the credit for Velcro.  
    **Answer:** A strong answer picks a side and backs it up. For de Mestral: the plant's hooks could not hold a shoe strap, and it took him years to find hooks and loops that work in cloth. For the plant: without the burr there would be no idea to copy. It then admits a fair point from the other side.. *Why:* There is no single right answer. This is a question about what counts as inventing: having the design, or making it useful for people.
 13. (order) Put an inventor's steps in order.  
    **Answer:** ['Find a problem', 'Find a living thing that solves the same problem', 'Draw a design', 'Build a rough first model', 'Test it fairly', 'Improve it and test again']. *Why:* Inventors start with a problem, look for a living thing that solves it, plan, build a rough version, test it, then improve it. The last two steps can go round many times.
@@ -674,14 +676,14 @@ People tell this story now in many countries. They say that a train copied a kin
    **Answer:** False. *Why:* False. Millions of termites, and the fungus they grow inside, breathe out carbon dioxide. It must get out, and fresh air must get in, or they would suffocate. So the moving air does two jobs: it lets the mound breathe, and it helps keep it from getting too hot. A strong answer names both jobs.
 10. (fill) A first, rough model of an invention, made to test an idea, is called a ____.  
    **Answer:** ['prototype']. *Why:* A prototype is a quick first try. Engineers expect it to have problems, because testing it shows how to make it better.
-11. (mcq) Around the year 1500, Leonardo da Vinci drew flying machines with flapping wings. None of them flew. In 1903, the Wright brothers' plane flew. What did the Wright brothers copy from birds?  
-   Options: The flapping of their wings / How birds twist their wingtips to balance / Their feathers / Their beaks  
-   **Answer:** How birds twist their wingtips to balance. *Why:* They copied a design, the twist of the wingtips, not the look of flapping. Flapping is what many early inventors tried, and it did not work for machines big enough to carry a person.
+11. (mcq) Early inventors built machines with flapping wings, and none could lift a person. Later, a plane with fixed wings that could twist at the tips to balance did fly. What is the lesson for copying birds?  
+   Options: Copy how a part works, like the wing twist for balance, not just how it looks / Flapping is the only way to fly / Feathers are the secret / Beaks help planes fly  
+   **Answer:** Copy how a part works, like the wing twist for balance, not just how it looks. *Why:* Copying the look of flapping did not work for big machines. Copying a design idea, the twist that keeps a bird balanced, did.
 12. (write) The Lotus Temple in Delhi is shaped like a lotus flower. Self-cleaning paint looks nothing like a lotus. Which one is biomimicry? Explain.  
    **Answer:** The self-cleaning paint is biomimicry. It copies the lotus leaf's tiny waxy bumps, so rain washes it clean. The temple only copies the look of the flower.. *Why:* Biomimicry copies how something works. Copying only the look is art or decoration, which is lovely too, but different.
 13. (write) Scientists have made gecko tape with tiny hairs. It grips glass well, but after some uses it gets dusty and grips less. A real gecko's toes clean themselves as the gecko walks. What does this tell you about copying nature? Say what an inventor could try next.  
    **Answer:** It tells me a copy often takes only part of the design. The gecko's toes do two jobs, gripping and staying clean, and the tape copied only the gripping. An inventor could study how the gecko's toes shed dust as they walk, and try to copy that part too.. *Why:* A strong answer sees that the living design solves more than one problem, and that a good copy has to find and copy each part that matters.
-14. (perspective) Two sisters in Chennai want to keep a bottle of water cool on a hot afternoon. Their cousin joins in.  
+14. (perspective) Three children in Chennai want to keep a bottle of water cool on a hot afternoon. Each has a different idea.  
    **Answer:** A strong answer uses the child's own results. It may notice that a wet cloth cools best when the air is dry and breezy, and less in damp, still air like a Chennai afternoon, while newspaper works without any water. It admits a fair point from another side.. *Why:* Each idea is a real way to keep things cool, and which works best depends on the weather. That is why testing beats arguing.
 15. (draw) Draw a water drop sitting on a lotus leaf, as if you could see it from the side, very close up. Show the bumps, the wax and the air.  
    **Answer:** A round drop resting on the tips of bumps, a thin wax coat on each bump, and air in the gaps under the drop.. *Why:* This shows why the drop stays round: it touches only the tips, and air fills the rest. A strong drawing shows the drop not sinking between the bumps.
@@ -698,14 +700,14 @@ People tell this story now in many countries. They say that a train copied a kin
    **Answer:** A strong answer sees that both findings can be true at once: the pull between atoms does most of the work, and damp air seems to add to it. A good test keeps the gecko and the surface the same and changes only how damp the air is.. *Why:* Most scientists agree the pull between atoms does most of the work. How much water helps is still being studied.
 4. (write) The Eastgate Centre in Harare, Zimbabwe, was built in 1996 to copy how termite mounds were thought to stay cool, with air rising up a chimney. Later, scientists found that real mounds work differently. Was the building a failure? Explain what you think.  
    **Answer:** I think it was not a failure. It stays cool and uses much less power than other buildings, so the idea of thick walls and moving air worked. But it was not a true copy of a mound, because the old idea of how mounds work was wrong. It also uses fans at night.. *Why:* A strong answer separates two questions: does the building work, and is it a true copy of a termite mound? A building can work well even if the science behind it was partly wrong.
-5. (write) Ananya, aged 8, says, 'A burr grows hooks after they touch an animal's fur.' What is wrong with her idea? Explain how burrs came to have hooks.  
+5. (write) Someone says, 'A burr grows hooks after it touches an animal's fur.' What is wrong with this idea? Explain how burrs came to have hooks.  
    **Answer:** The hooks are already on the burr before it ever meets an animal. Over many generations, burdock plants with slightly better hooks got their seeds carried further, so more of those seeds grew. Their young had good hooks too. So the hooks got better and better.. *Why:* A strong answer says the hooks come first, and explains change over many generations, not during one burr's life.
 6. (mcq) Which of these shows that nature's designs are not always perfect?  
    Options: Kingfishers dive with little splash / Geckos climb glass / Lotus leaves stay clean / Your eye has a blind spot, but an octopus eye does not  
    **Answer:** Your eye has a blind spot, but an octopus eye does not. *Why:* Evolution changes what is already there, a little at a time. Our eyes are wired in a way that leaves a blind spot. An octopus eye, which evolved separately, is wired the other way and has none. The other answers show designs working well.
-7. (mcq) In 2005, a car company made a car shaped like a boxfish, a small reef fish shaped like a box. Later, scientists studied real boxfish. What did they find the boxy shape mainly helps the fish to do?  
-   Options: Turn and steer quickly / Swim very fast in a straight line / Jump out of the water / Dig in sand  
-   **Answer:** Turn and steer quickly. *Why:* The car copied the shape to slip through the air. But the boxfish's shape mainly helps them turn and steer. The lesson: before copying a shape, find out what it is really for in the animal's own life.
+7. (mcq) A car company copied the shape of the boxfish, thinking it helps the fish slip fast through water. Later, scientists found the shape mainly helps the fish turn and steer. What is the lesson?  
+   Options: Find out what a shape is really for before copying it / Never copy fish / All cars should be shaped like boxes / Fish cannot swim fast  
+   **Answer:** Find out what a shape is really for before copying it. *Why:* A shape solves a problem in the animal's own life. Before copying it, find out which problem, or the copy may not do what you hoped.
 8. (sort) Sort these. Does each one copy how a living thing works, or only how it looks?  
    **Answer:** a train nose that widens slowly, like a kingfisher's beak → Copies how it works; a dolphin-shaped swimming float → Copies only the look; a slippery coating copied from the inside of a pitcher plant → Copies how it works; a peacock-feather pattern printed on a sari → Copies only the look; gripper tape with tiny hairs, like a gecko's toes → Copies how it works; a butterfly-shaped hair clip → Copies only the look. *Why:* Copying the working part solves a problem. Copying the look decorates. A strong answer can say what working part each 'how it works' item copies.
 9. (mcq) In the fastener challenge, 4 paper clip hooks held a towel with 6 coins. About how many coins would 12 hooks hold, if each hook holds the same?  
@@ -733,7 +735,7 @@ People tell this story now in many countries. They say that a train copied a kin
 ## Quiz
 1. (mcq) What does biomimicry mean?  
    Options: Studying how animals sleep / Making machines that look like animals / Protecting plants / Copying how a living thing solves a problem, to solve a human problem  
-   **Answer:** Copying how a living thing solves a problem, to solve a human problem. *Why:* Biomimicry copies how living things solve the problems of their own lives. Picking 'machines that look like animals' is a common mix-up. A good copy takes how it works, not how it looks.
+   **Answer:** Copying how a living thing solves a problem, to solve a human problem. *Why:* Biomimicry copies how living things solve the problems of their own lives. Picking 'machines that look like animals' is a common mix-up. A good copy uses how the living thing works, not how they look.
 2. (mcq) Which of these is an example of biomimicry?  
    Options: Velcro, copied from a burr's hooks / A plastic flower for decoration / A photo of a gecko / A toy shaped like a fish  
    **Answer:** Velcro, copied from a burr's hooks. *Why:* Velcro copies a working design, the hooks. The plastic flower and the fish toy only copy a look. A photo copies nothing that works.
@@ -748,25 +750,25 @@ People tell this story now in many countries. They say that a train copied a kin
    **Answer:** Peeling pulls only a few bendy hooks at a time, and each one bends open and slips out of its loop. *Why:* Peeling makes only a few hooks let go at once, so each pull is small. Pulling the whole strip straight off is much harder, because every hook must let go together. Burrs come off fur the same way, a few hooks at a time. Picking 'glue' means thinking the grip is sticky. It is hooks and loops.
 6. (mcq) Why does a lotus plant need their leaves to stay clean?  
    Options: So people think it looks pretty / So frogs can sit on it / Dirt would block the sunlight the leaf uses to make food  
-   **Answer:** Dirt would block the sunlight the leaf uses to make food. *Why:* A leaf makes food from sunlight, so dirt on it means less food. Germs and spores left on a leaf can also make the plant sick. Picking 'so people think it looks pretty' looks at the lotus from our side. The lotus keeps clean for their own life.
+   **Answer:** Dirt would block the sunlight the leaf uses to make food. *Why:* A leaf makes food from sunlight, so dirt on it means less food. Germs and spores left on a leaf can also make the plant sick. Picking 'so people think it looks pretty' thinks about what people want, not what the lotus needs. The lotus keeps clean for their own life.
 7. (mcq) What makes a lotus leaf stay clean?  
    Options: It is perfectly smooth / Tiny waxy bumps that make water roll off and carry dirt away / It is always under water / It is sticky, so dirt can't land  
    **Answer:** Tiny waxy bumps that make water roll off and carry dirt away. *Why:* The bumps and wax make drops stay round and roll, picking up dirt. Picking 'perfectly smooth' is the most common wrong idea. The leaf is bumpy.
 8. (mcq) On which surface did the drops roll off most easily in the leaf experiment?  
    Options: The paper / The chembu or lotus leaf / The steel plate  
    **Answer:** The chembu or lotus leaf. *Why:* On the chembu leaf, drops stay round and roll at a small tilt. Paper soaks water up. On steel, drops sit as domes and often stay put. Picking steel usually means thinking 'smooth and shiny means slippery for water'.
-9. (mcq) Why did the bullet train get a long, beak-shaped nose?  
-   Options: So it looked like a bird / So it could carry more people / So it could catch fish / So it pushed the air aside slowly and came out of tunnels without a loud boom  
-   **Answer:** So it pushed the air aside slowly and came out of tunnels without a loud boom. *Why:* A blunt nose squeezes the air in a tunnel, which bursts out with a boom. A long nose that widens slowly parts the air gently, like a kingfisher's beak parts water. Picking 'so it looked like a bird' mixes up copying the look with copying the design.
+9. (mcq) A fast train makes a loud boom when it rushes out of a tunnel, because it squeezes the air ahead of it. Which nose shape would help most?  
+   Options: A flat, blunt nose / A nose painted to look like a bird / A bigger engine / A long nose that widens slowly, like a kingfisher's beak  
+   **Answer:** A long nose that widens slowly, like a kingfisher's beak. *Why:* A blunt nose squeezes the air all at once, which bursts out with a boom. A long nose that widens slowly parts the air gently, as a kingfisher's beak parts water. Painting it like a bird copies the look, not the design.
 10. (mcq) How does a gecko stick to a glass window?  
    Options: Millions of tiny hairs get so close that their atoms pull on the glass / Sticky glue on their toes / Suction cups on their feet / Tiny claws that dig into the glass  
-   **Answer:** Millions of tiny hairs get so close that their atoms pull on the glass. *Why:* Gecko hairs split into hundreds of millions of tiny tips. They get extremely close to the glass, and the atoms pull on each other. Picking 'claws dig in' doesn't work on glass, which is too hard to dig into. There is no glue, and experiments ruled out suction.
+   **Answer:** Millions of tiny hairs get so close that their atoms pull on the glass. *Why:* Gecko hairs split into hundreds of millions of tiny tips. They get extremely close to the glass, and the atoms pull on each other. Claws cannot dig into glass, because glass is too hard. There is no glue, and experiments ruled out suction.
 11. (mcq) In the ice experiment, why did the cup wrapped in thick newspaper keep its ice longer than the bare cup?  
    Options: Newspaper is cold / Thick walls slow down the heat getting in / The newspaper cup had a bigger ice cube  
    **Answer:** Thick walls slow down the heat getting in. *Why:* Heat from the sun is always trying to get in. Thick walls slow it down. Picking 'newspaper is cold' is a common idea. Walls don't make cold. They slow the heat getting in. A bigger ice cube would make it an unfair test.
-12. (mcq) What do scientists now think moves the air inside termite mounds near Bengaluru?  
-   Options: Fans the termites build / Nothing, the air never moves / The walls warming in the day and cooling at night  
-   **Answer:** The walls warming in the day and cooling at night. *Why:* A 2015 study found the walls warm and cool faster than the middle, which moves the air one way by day and the other way by night. There are no fans. Picking 'the air never moves' would mean the termites run out of fresh air.
+12. (mcq) A termite mound has no fans. Its outer walls warm up faster than the middle in the day, and cool faster at night. What could this do to the air inside?  
+   Options: Turn it into water / Keep it perfectly still / Move it one way by day and the other way at night  
+   **Answer:** Move it one way by day and the other way at night. *Why:* Warm air rises and cool air sinks. When the walls are warmer than the middle, the air moves one way. When they are cooler, it moves the other way. So the mound breathes with no fans.
 13. (mcq) You test your grip invention. Which is a fair test?  
    Options: Test it and a plain version on the same slope, with the same weight / Test your invention on a rough floor, and the plain version on a smooth floor / Test only your invention  
    **Answer:** Test it and a plain version on the same slope, with the same weight. *Why:* In a fair test, only one thing changes. If the floors are different, you can't tell whether the invention or the floor made the difference. Testing only your invention gives nothing to compare it with.
@@ -848,7 +850,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - In the fastener challenge, 4 paperclip hooks held 6 coins. If every hook holds the same, how many coins would 8 hooks hold? And 12 hooks? **8 hooks hold about 12 coins. 12 hooks hold about 18 coins.**. 8 hooks is 2 lots of 4 hooks, so it holds 2 lots of 6 coins. 2 times 6 is 12. 12 hooks is 3 lots of 4 hooks. 3 times 6 is 18. Real tests wobble a little, so your numbers may be close to these, not exactly the same. (queues `math.multiplication.equal-groups.L3`)
 - In the ice experiment, the ice in the bare cup was gone after 25 minutes. The ice in the newspaper cup lasted 50 minutes. How many minutes longer did the newspaper cup keep its ice? **25 minutes longer.**. 50 minutes take away 25 minutes is 25 minutes. So the thick newspaper walls kept the ice for 25 minutes longer. That is twice as long as the bare cup, because 25 + 25 = 50. (queues `math.time.duration.L3`)
 - In the splash experiment, the pancake made 22, 18 and 25 splash spots in three tries. The beak made 2, 0 and 3. Find the middle value for each. Then draw a bar chart. **The pancake's middle value is 22. The beak's middle value is 2. Here is the bar chart.**. Put each set of numbers in order, smallest first. Pancake: 18, 22, 25. The middle one is 22. Beak: 0, 2, 3. The middle one is 2. Draw one bar for each shape, as tall as its middle value. The pancake's bar is 11 times as tall as the beak's, because 2 times 11 is 22. (queues `math.data.bar-charts.L3`)
-- Kavya, a girl in Class 3, did the leaf experiment with 8 drops on each surface. She tilted the steel plate, and 4 drops rolled off. On the chembu leaf, all 8 rolled off. What fraction of the drops rolled off the steel plate? **Half of them.**. 4 out of 8 drops rolled off. 4 is half of 8, because 4 + 4 = 8. So half the drops rolled off the steel. On the leaf, 8 out of 8 rolled off, which is all of them, the whole. (queues `math.fractions.halves-and-quarters.L3`)
+- Suppose you do the leaf experiment with 8 drops on each surface. You tilt the steel plate, and 4 drops roll off. On the chembu leaf, all 8 roll off. What fraction of the drops rolled off the steel plate? **Half of them.**. 4 out of 8 drops rolled off. 4 is half of 8, because 4 + 4 = 8. So half the drops rolled off the steel. On the leaf, 8 out of 8 rolled off, which is all of them, the whole. (queues `math.fractions.halves-and-quarters.L3`)
 
 ## Song
 Look Close, Then Make (sci.making-things.L3): Topic-level song

@@ -1,7 +1,7 @@
 # Magnet poles: why two magnets attract or repel
 `sci.magnets.poles.L3`
 
-**Summary.** Hold two magnets end to end. One way round, they snap together. Turn one round, and they push each other apart. Every magnet has two ends where its force is strongest, called poles: a north pole and a south pole. A north pole and a south pole attract each other. Two north poles, or two south poles, repel each other. Iron that is not a magnet is attracted by both poles, so only a magnet can repel a magnet. Cut a magnet in two, and each piece has its own north and south pole. Nobody has ever found a north pole on its own. In this unit you float two magnets on water and find out what a free magnet does when it is pushed away.
+**Summary.** Hold two magnets end to end. One way round, they snap together. Turn one round, and they push each other apart. Every magnet has two ends where its force is strongest, called poles: a north pole and a south pole. A north pole and a south pole attract each other. Two north poles, or two south poles, repel each other. Iron that is not a magnet is attracted by both poles, so only a magnet can repel a magnet. Cut a magnet in two, and each piece has its own north and south pole. Nobody has ever found a north pole on its own. In this unit you float two magnets on water. You push one away and see what it does while it is free to turn.
 
 **Intro.** *Try this. Hold one bar magnet in each hand. Bring their ends slowly together. Now turn one magnet round and try again. One way, they jump together. The other way, you feel a push, though nothing is touching. Why does the same magnet do two different things?* The answer is in the two ends of every magnet, its poles. In this unit you find which end is north and which is south, and you learn the rule for when magnets attract and when they repel. Then you float two magnets on water, push one away, and watch what it does next. A French scholar called Petrus Peregrinus did the same test with magnet stones in 1269.
 
@@ -43,7 +43,7 @@ This is the rule for every magnet, big or small. The force works across a gap, s
 ### A magnet that is free to turn ends up attracting · *defined*
 **Definition:** When like poles face each other and one magnet is free to turn, it swings round until its other pole faces the first magnet. Then the two attract.
 
-Repelling pushes a magnet away, but it also twists it. Unless something holds the magnet straight, it turns round, so a north pole ends up facing a south pole. Then the two magnets come together. This is what you see when two magnets float on water. Scientists have shown that ordinary magnets on their own can never hold another magnet floating still in the air. Something else must hold it in place, like a pencil through ring magnets or a spinning top.
+Repelling pushes a magnet away, but it also twists it. Unless something holds the magnet straight, it turns round, so a north pole ends up facing a south pole. Then the two magnets come together. This is what you see when two magnets float on water. Scientists have shown that ordinary magnets on their own can never hold another magnet floating still in the air. Something else must stop the turning. A pencil through ring magnets does this. So does the fast spin of a spinning top.
 - e.g. Two floating magnets pushed north to north turn round and stick together.
 - e.g. Ring magnets on a pencil float one above another. Pull the pencil out, and the top ring flips over and sticks.
 ### Iron is attracted by both poles · *defined*
@@ -55,7 +55,7 @@ When a magnet comes near a steel paper clip, the clip becomes a temporary magnet
 ### Cut a magnet, and you get two magnets · *defined*
 **Definition:** If you cut or break a magnet, each piece has its own north pole and south pole.
 
-Inside a magnet, countless tiny magnets point the same way, each with its own north and south. The north pole of a magnet is just where the north ends of these tiny magnets come out at the surface. Cut the bar anywhere, and new poles appear at the cut, one north and one south. Even an electron, the tiniest magnet known, has a north and a south. Nobody has ever found a north pole on its own.
+Inside a magnet, countless tiny magnets point the same way, each with its own north and south. At one end of the bar, the north ends of all these tiny magnets point out through the surface. That end is the north pole. Cut the bar anywhere, and new poles appear at the cut, one north and one south. Even an electron, the tiniest magnet known, has a north and a south. Nobody has ever found a north pole on its own.
 - e.g. Cut a bendy fridge magnet strip in half. Both halves still stick to the fridge.
 - e.g. Petrus Peregrinus broke a lodestone in 1269 and found that both pieces had a north and a south pole.
 ### The Earth's far north is a magnetic south pole · *defined*
@@ -83,7 +83,7 @@ Some physicists' theories say a single north pole, without a south pole, could e
 - Ordinary magnets on their own cannot hold another magnet floating still in the air. *How we know:* Samuel Earnshaw proved this in 1842. Every magnet that seems to float is held by something else, such as a pencil, a spin or an electric current.
 
 ## How we found out
-**Petrus Peregrinus, also called Pierre de Maricourt, a French scholar of the 1200s., His letter on the magnet is dated 8 August 1269..** In August 1269, a French scholar called Petrus Peregrinus was in an army camp outside the town of Lucera, in southern Italy. While the army waited, he wrote a long letter about magnets to a friend. At that time, some people said a compass needle points north because there are great iron mines in the far north. Peregrinus said this could not be right. Magnet stones are found in many lands, yet needles everywhere point the same way. He also tested magnets himself. He put a lodestone, a natural magnet stone, in a wooden dish, and floated the dish in a big vessel of water. The stone turned until one end pointed north. He called that end its north pole. Then he brought a second lodestone close. A north pole drove the floating north pole away, but drew a south pole closer. In the end, he wrote, the north pole joins the south pole. He also broke a lodestone, and found that each piece had both poles. Peregrinus had a wrong idea too. He drew a wheel with iron teeth and a lodestone, and said it would turn forever, because the south pole would push the iron teeth away. But a magnet attracts iron with both poles. The wheel cannot work, and nobody has made one turn.  
+**Petrus Peregrinus, also called Pierre de Maricourt, a French scholar of the 1200s., His letter on the magnet is dated 8 August 1269..** In August 1269, a French scholar called Petrus Peregrinus was in an army camp outside the town of Lucera, in southern Italy. While the army waited, he wrote a long letter about magnets to a friend. At that time, some people said a compass needle points north because there are great iron mines in the far north. Peregrinus said this could not be right. Magnet stones are found in many lands, yet needles everywhere point the same way. He also tested magnets himself. He put a lodestone, a natural magnet stone, in a wooden dish, and floated the dish in a big vessel of water. The stone turned until one end pointed north. He called that end its north pole. Then he brought a second lodestone close. A north pole drove the floating north pole away, but drew a south pole closer. In the end, he wrote, the north pole joins the south pole. He also broke a lodestone, and found that each piece had both poles. Peregrinus had a wrong idea too. He drew a wheel with iron teeth and a lodestone, and said it would turn forever, because the south pole would push the iron teeth away. But a magnet attracts iron with both poles. The wheel cannot work, and nobody has ever made such a wheel keep turning.  
 *What people believed before:* People said compasses point north because of iron mines in the far north. Peregrinus showed this could not be right. He himself thought a magnet wheel could turn forever, because a south pole would repel iron. But iron is attracted by both poles, so such a wheel stops.
 
 ## Challenging perspectives
@@ -98,7 +98,7 @@ Some physicists' theories say a single north pole, without a south pole, could e
   Against: Both poles of a bar magnet are equally strong. Test it: count the paper clips each end picks up.
 - **The compass points to the Pole Star, or to iron mines in the far north.** (Many people in the Middle Ages; *rejected*)  
   For: The needle points north, where the Pole Star shines.  
-  Against: In 1269 Petrus Peregrinus argued against the iron mines, because magnet stones are found in many lands. Later, William Gilbert showed that the Earth itself is a magnet.
+  Against: In 1269 Petrus Peregrinus argued that iron mines could not be the reason, because magnet stones are found in many lands. Later, William Gilbert showed that the Earth itself is a magnet.
 - **A wheel of magnets can turn forever and power a machine.** (Many inventors, including Petrus Peregrinus in 1269; *rejected*)  
   For: Magnets attract and repel without being pushed, so it seems they could keep a wheel turning.  
   Against: Every such wheel stops. A magnet's force pulls a wheel forward in one place and holds it back in another, so it gives no free energy. Peregrinus also thought the iron teeth would be repelled, but iron is attracted by both poles.
@@ -109,32 +109,32 @@ Some physicists' theories say a single north pole, without a south pole, could e
 ## Roots
 We have learned that every magnet has a north and a south pole, and that a pushed-away magnet turns round and attracts. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** When two north poles faced each other on the water, the magnets pushed apart. Then one turned round, and they snapped together, north to south. Magnets that are free to turn always end up attracting. Repelling lasts only while something holds them facing the wrong way.  
+**Deep truth.** In the Magnet Boats experiment, two magnets floated on water with their north poles facing each other. They pushed apart. Then one turned round, and they snapped together, north to south. Magnets that are free to turn always end up attracting. Repelling lasts only while something holds them facing the wrong way.  
 *Habit it breaks:* We think of attract and repel as two equal and opposite things a magnet does. But they are one force, and which one you get depends only on which way the magnets face. Left free, magnets turn to attract.  
 *Evidence:* In the Magnet Boats test, boats that started north facing north pushed apart, turned and stuck together. Ring magnets float on a pencil only while the pencil stops them turning. Samuel Earnshaw proved in 1842 that ordinary magnets on their own cannot hold a magnet floating still.
 
 - *who am i:* You felt the push between two magnets with your own hands. You can sense a force you cannot see.
-- *what is life:* Some bacteria live in mud and need to find the parts low in oxygen. They carry a chain of tiny magnet crystals, joined north to south. The chain turns them along the Earth's magnetic field, which in the northern half of the world slopes down into the ground, so swimming along it takes them deeper.
+- *what is life:* Some bacteria live in mud and need to find the parts that are low in oxygen. They carry a chain of tiny magnet crystals, joined north to south. The chain turns the bacteria to line up with the Earth's magnetic field. In the northern half of the world, the field slopes down into the ground. So swimming along it takes them deeper.
 - *what is this world:* The Earth is a giant magnet with two poles. Every compass needle on Earth turns to line up with them.
 
 A magnet's north and south poles are never apart. Cut a magnet, and each piece has both again. Inside, countless tiny magnets point the same way and add up to one force. Whether two magnets attract or repel depends only on which way they face, and a magnet that is free to turn ends up attracting.
 
 - **Tao Te Ching, chapter 2:** Long and short shape each other. High and low lean on each other. Front and back follow each other. (A north pole never exists without a south pole. Cut a magnet, and both appear again at the cut. Each pole needs the other.)
-- **Heraclitus, fragment B51 (Diels-Kranz numbering), about 500 BCE:** People do not see how something pulling apart also holds together, like the bow and the lyre, held in shape by strings pulling against them. (Two repelling magnets are a balance of push and twist that holds only while something keeps them straight. Let go, and the balance turns into attraction.)
+- **Heraclitus, fragment B51 (Diels-Kranz numbering), about 500 BCE:** People do not see how something pulling apart also holds together, like the bow and the lyre, held in shape by strings pulling against them. (Two magnets that repel can stay apart only while something keeps them facing the same way. Without that, the push twists one magnet round, and the two attract.)
 - Science (settled): Every magnet ever tested has both a north and a south pole.
 - Science (settled): Ordinary magnets on their own cannot hold another magnet floating still. Samuel Earnshaw proved this in 1842.
 - Science (open): Whether a single north or south pole, a monopole, can exist is not known.
-- Other view, Many physicists: A free magnet turns to attract because that is the arrangement with the least stored energy, the same reason a ball rolls downhill. It is a useful rule, not a lesson about the world, and reading meaning into it says more about us than about magnets.
+- Other view, Many physicists: A free magnet turns to attract because that arrangement stores the least energy. A ball rolls downhill to the lowest place for the same reason. Many physicists see this as a useful rule, not a lesson about life. They say that finding a meaning in it tells us about the person looking, not about the magnets.
 - Practice, Feel the turn (3 min): Hold one magnet in each hand, north facing north. Bring them close until you feel the push. Hold them there and breathe in slowly three times. Notice how your fingers must work to keep them straight. Now loosen your grip a little. Feel one magnet start to twist. Let it turn, and let the two come together. Breathe out.
-- Ask: When the magnets repelled, your fingers had to work to keep them straight. When they attracted, your fingers could rest. Which one is the magnets' own way?
-- Ask: A north pole is never found without a south pole. Can anything exist on its own, with nothing to go with it?
-- Ask: If attracting and repelling are one force, why do we give them two names?
+- Ask: When the magnets repelled, your fingers had to work to keep them straight. When they attracted, your fingers could rest. Which one do magnets do when nothing holds them?
+- Ask: Every time you cut a magnet, a new north pole and a new south pole appear together. What does that tell you about whether a north pole can exist alone?
+- Ask: Attracting and repelling are one force. Why do we still use two words for them?
 
 ## Deep and big questions
 - *deep:* When you cut a magnet, a new north pole and a new south pole appear at the cut. Were they there before you cut it? (hint: Think about the tiny magnets inside, each with its own north and south.)
-- *deep:* Why does a pushed-away magnet turn round instead of staying away? (hint: Watch the floating magnets again. Which part of the magnet is pushed, and which part is pulled?)
+- *deep:* Why does a pushed-away magnet turn round instead of staying away? (hint: Watch the Magnet Boats again. Which part of the magnet is pushed, and which part is pulled?)
 - *big:* A magnet's north pole points to a place we call the North Magnetic Pole, which is really a magnetic south pole. Do names describe things, or only help us talk about them? (hint: Who chose the names, and what did they know at the time?)
-- *big:* Two magnets that repel each other are using the same force as two that attract. Are attracting and repelling two different things, or one thing seen two ways? (hint: In the float test, what did the repelling magnet do next?)
+- *big:* Two magnets that repel each other are using the same force as two that attract. Are attracting and repelling two different things, or one thing seen two ways? (hint: In the Magnet Boats experiment, what did the repelling magnet do next?)
 - *big:* You can feel a magnet push your hand, but you cannot see anything there. Is the magnetic field a real thing, or a way of describing what magnets do? (hint: A compass needle placed anywhere near a magnet turns. What does that tell you about the space around it?)
 
 ## Story: The Carriage That Would Not Join
@@ -186,7 +186,7 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 
 ## Games
 ### g1 · North and South Tag (15 min)
-- **rules:** Play with 2 to 6 players. Each player tapes an N badge on their front and an S badge on their back. One player is also the caller.; Players walk slowly around the room. No running.; About every 20 seconds, the caller says 'Freeze'. Each player stands still and looks at the nearest player who is not in their chain. Say out loud which poles face each other.; If an N faces an S, you attract: hold each other's shoulders and walk on together as one long magnet. In a chain, only the front player's N and the last player's S can meet someone new.; If an N faces an N, or an S faces an S, you repel. Like a free magnet, one side turns round on the spot: the single player, or the shorter chain (if equal, the younger player). Then you attract.; The game ends when everyone is in one chain. With only 2 players, play three rounds from opposite corners of the room, and say aloud which poles met before you join.
+- **rules:** Play with 2 to 6 players. Each player tapes an N badge on their front and an S badge on their back. One player is also the caller.; Players walk slowly around the room. No running.; About every 20 seconds, the caller says 'Freeze'. Each player stands still and looks at the nearest player who is not in their chain. Say out loud which poles face each other.; If an N faces an S, you attract: hold each other's shoulders and walk on together as one long magnet. In a chain, only the front player's N and the last player's S can meet someone new.; If an N faces an N, or an S faces an S, you repel. Then one side turns round on the spot, as a magnet that is free to turn does. The single player turns, or the shorter chain. If the chains are equal, the younger player turns. Then you attract.; The game ends when everyone is in one chain. With only 2 players, play three rounds from opposite corners of the room, and say aloud which poles met before you join.
 - **Printable cards: Pole badges: print, cut out and tape on (6 N and 6 S):** N badge, red, for the front of player 1's T-shirt; N badge, red, for the front of player 2's T-shirt; N badge, red, for the front of player 3's T-shirt; N badge, red, for the front of player 4's T-shirt; N badge, red, for the front of player 5's T-shirt; N badge, red, for the front of player 6's T-shirt; S badge, blue, for the back of player 1's T-shirt; S badge, blue, for the back of player 2's T-shirt; S badge, blue, for the back of player 3's T-shirt; S badge, blue, for the back of player 4's T-shirt; S badge, blue, for the back of player 5's T-shirt; S badge, blue, for the back of player 6's T-shirt
 - **s1 (3 min)**  
   *Parent does:* 1. Tape an N badge on each player's front and an S badge on their back. 2. Clear a space and push chairs aside.  
@@ -195,10 +195,10 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 - **s2 (9 min)**  
   *Parent does:* 1. Everyone walks slowly. 2. The caller says 'Freeze' every 20 seconds. 3. Each player or chain looks at the nearest other player and says which poles face each other. 4. If the poles are unlike, join. If they are like, one side turns round on the spot, and you join.  
   *Parent says:* Freeze! Look at the nearest magnet. Which of your poles face each other? Do they attract or repel?  
-  *Child mode:* Walk slowly. On 'Freeze', look at the nearest player. Does your front face their back? Hold their shoulders! Front to front, or back to back? One of you turns round, then you join.
+  *Child mode:* Walk slowly. When you hear 'Freeze', look at the nearest player. If your front faces their back, hold their shoulders and join. If you face front to front, or back to back, you repel. One of you turns round on the spot. Then you join.
   - Note: Front to back is N meeting S, so they join into a longer magnet, still with N at the front and S at the back. Front to front is N meeting N, and back to back is S meeting S, so they repel. Turning round is what a free magnet does in the Magnet Boats experiment.
 - **s3 (3 min)**  
-  *Parent does:* When everyone is in one chain, stand still and ask the question.  
+  *Parent does:* When everyone is in one chain, stand still and ask where the chain's north and south poles are.  
   *Parent says:* Our whole chain is now one long magnet. Where is its north pole? Where is its south pole?  
   *Child mode:* You are one long magnet now. Where is its north? Where is its south?
   - Check: Five players join front to back. The chain has a north pole at the front. What is at the very back? → **A south pole**
@@ -215,7 +215,7 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
   *Child mode:* Add a card where N meets S. Say the rule out loud: unlike poles attract.
   - Note: If a player is stuck, ask: which pole is at each end of the chain? Which half of your card would touch it? Cards with two matching ends, N | N or S | S, fit only one kind of end. N | S fits both.
 - **s3 (2 min)**  
-  *Parent does:* End with a question.  
+  *Parent does:* End by asking about the Iron card.  
   *Parent says:* The Iron card joins any pole, but nothing can join after it. Why does it join, and why does the end close?  
   *Child mode:* Why does the Iron card join any pole?
   - Check: Why can the Iron card join a north pole or a south pole? → **Iron is attracted by both poles**
@@ -226,7 +226,7 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 - **predict:** Guess first. Float two magnets with their north poles facing each other, and let go. Will they stay apart, drift away, or end up stuck together? Why do you think so?
 - **fair test:** Use the same two magnets, the same lids and the same tub every time. In the gap test, start each try 15 cm away and move in at the same slow speed. In the let-go test, start each try with the magnets 10 cm apart, and let go gently without pushing. Only change which poles face each other. Do each pairing 3 times, because one try can be a fluke. Switch off the fan, because moving air pushes the lids.
 - **safety:** Keep magnets away from phones, bank cards and small children, who may swallow them.
-- **record:** Fill in the table for each try. Leave the gap blank for S to S, because you only let it go. Then draw what the two boats did after you let go, in three pictures.
+- **record:** Fill in the table for each try. Leave the gap column blank for S to S, because you do not do the gap test for S to S, only the let-go test. Then draw what the two boats did after you let go, in three pictures.
 - **results table:** Poles facing | Try | Gap when the boat first moved (cm) | What happened after you let go
 - **s1 (5 min)**  
   *Parent does:* 1. Switch off the fan. 2. Fill the tub with water nearly to the top. 3. Lay one magnet in the middle of a lid. 4. Float the lid in the middle of the tub. 5. Wait about a minute until it stops turning.  
@@ -240,12 +240,12 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
   - Ask: How can you tell which end of the second magnet is north? (good: The end that pushes the floating N end away is north.; North repels north.)
   - Note: A phone held right next to a magnet gives a wrong reading, so keep it an arm's length away. If your magnets are already marked, check that the marks are right.
 - **s3 (8 min)**  
-  *Parent does:* 1. Let the floating magnet settle. 2. Hold the second magnet's S end 15 cm from the floating N end. 3. Move it closer slowly, about 1 cm every 2 seconds, with a ruler held just above the water beside the two magnets. 4. Stop when the boat first moves, and read the gap between the two ends. 5. Do it 3 times, then repeat with N facing N.  
+  *Parent does:* 1. Let the floating magnet settle. 2. Hold the second magnet's S end 15 cm from the floating N end. 3. Move it closer slowly, about 1 cm every 2 seconds. Hold a ruler just above the water, beside the two magnets. 4. Stop when the boat first moves, and read the gap between the two ends. 5. Do it 3 times, then repeat with N facing N.  
   *Parent says:* Let's find out how close a magnet must come before the boat feels its force. First south to north, then north to north.  
   *Child mode:* Hold the S end far away. Move it closer, very slowly. Stop when the boat moves. Read the gap on the ruler. Write it down.
   - Note: Water lets the boat move with very little force, so it often moves at 5 to 10 cm with school bar magnets. Your numbers will be different. With N facing N, the boat often turns as well as moving away. Write down what you see.
 - **s4 (3 min)**  
-  *Parent does:* Before the next test, ask for a guess and a reason. Write it down.  
+  *Parent does:* Before the let-go test, ask your child for a guess and a reason. Write it down.  
   *Parent says:* Now we float both magnets, north facing north, 10 cm apart, and let go. What do you think will happen? Why do you think so?  
   *Child mode:* Both magnets will float, north facing north. What will happen when you let go? Why?
   - Ask: What do you think the boats will do, and why? (good: Push apart, because like poles repel.; Any guess with a reason is good. The test will tell us.)
@@ -256,12 +256,13 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
   - Note: The lids usually push apart, turn, and then drift back together and bump. Sometimes they end up side by side, pointing opposite ways. That is also north facing south. If the boats drift apart and stop, gently nudge one a little closer.
   - Check: Two magnet boats start with their north poles facing. What usually happens after you let go? → **They push apart, one turns round, and they stick together**
 - **s6 (7 min)**  
-  *Parent does:* 1. Look at the table together. 2. Ask for a claim, the evidence and a reason. 3. Then explain the rule.  
+  *Parent does:* 1. Look at the table together. 2. Ask your child what the boats did, what they saw, and why they think it happened. 3. Then explain the rule.  
   *Parent says:* What did the boats do every time? What did you see? Why do you think it happened?  
   *Child mode:* Say what you found. Say what you saw. Say why you think it happened.
   - Ask: Why did the boats end up together, even when they started north facing north? (good: The magnet turned round until south faced north, and unlike poles attract.; Repelling pushes and twists the magnet, so it turns.)
   - Think: The boats pushed apart only for a moment. What does that tell you about magnets that are free to turn?
 ### e2 · The Bumpy Slide: how many poles does a fridge magnet have? (20 min)
+- **problem:** When you slide one flat magnet over another, you feel a bump each time the two faces switch from attracting to repelling. So the bumps let you count poles that you cannot see. In this experiment you count them.
 - **question:** Does a bendy fridge magnet have just one north pole and one south pole, like a bar magnet?
 - **predict:** Guess first. Press two bendy fridge magnets face to face and slide one along. Will it slide smoothly, or will you feel bumps? Why do you think so?
 - **fair test:** Slide the same two magnets across the same distance, 5 cm, at the same slow speed, with their edges lined up. Only change the direction: along the length, then across the width. Count the bumps 3 times each way.
@@ -283,12 +284,13 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
   *Parent does:* 1. Try the printed sides together. 2. Try the paper clip on the printed side, then on the magnetic side.  
   *Parent says:* Does the printed side of the magnet attract anything?  
   *Child mode:* Try the printed sides together. Try the paper clip on the printed side. Then on the magnetic side.
+  - Note: The printed side hardly attracts anything. The stripes of poles are on the magnetic face only, so the paper clip clings to that side and hardly at all to the printed side.
 - **s4 (6 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up cuts a thin strip, about 1 cm wide, off one magnet. 2. Test the strip on the fridge. 3. Ask for a claim, the evidence and a reason.  
+  *Parent does:* 1. A grown-up cuts a thin strip, about 1 cm wide, off one magnet. 2. Test the strip on the fridge. 3. Ask your child what they found, what they saw, and why they think it happened.  
   *Parent says:* If we cut a strip off, will it still be a magnet? Let's see. Then tell me what you found and why.  
   *Child mode:* Watch the grown-up cut a strip. Does it stick to the fridge? What did you find out?
   - Ask: How many poles do you think the fridge magnet has? (good: Many: one for each bump, in stripes.; More than two, because it bumped many times.)
-  - Think: A bar magnet has 2 poles. This flat magnet has many. Why might many poles hold better to a fridge?
+  - Think: The stripes of poles are only on the magnetic face. Which side of a fridge magnet sticks to the fridge, and which side does not?
 
 ## Activities
 ### a1 · The Push You Can Feel (10 min)
@@ -303,24 +305,24 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
   *Parent does:* 1. Lay one magnet on the table. 2. Push the other magnet towards it, end to end, without touching. 3. Try to chase it to the edge of the table.  
   *Parent says:* Can you move the magnet on the table without touching it? Which way round must you hold yours?  
   *Child mode:* Lay one magnet down. Can you chase it with the other one? No touching!
-  - Note: The magnet on the table often spins round and jumps onto the one in your child's hand. That is fine. It is exactly what the floating boats experiment looks at.
+  - Note: The magnet on the table often spins round and jumps onto the one in your child's hand. That is fine. It is exactly what the Magnet Boats experiment looks at.
 - **s3 (2 min)**  
-  *Parent does:* Name the words: attract, repel, pole.  
+  *Parent does:* Teach the three words: attract, repel, pole.  
   *Parent says:* When magnets pull together, we say they attract. When they push apart, we say they repel. The ends, where the force is strongest, are called poles.  
   *Child mode:* Pulling together is called attract. Pushing apart is called repel. The ends are called poles.
-  - Think: The magnet you chased often turned round. Why might it do that?
+  - Think: When you chased the magnet across the table, it often turned round. Why might it do that?
 ### a2 · Magnet or Plain Iron? The Wrapped Mystery (15 min)
 - **safety:** If you use a nail, a grown-up wraps it so the point is covered.
 - **record:** Write what each end of each parcel did with your N end and your S end.
 - **s1 (3 min) · grown-up needed**  
-  *Parent does:* Out of sight, wrap one magnet and the steel bolt in newspaper, so both parcels look the same. Mark them A and B.  
+  *Parent does:* Where your child cannot see, wrap one magnet and the steel bolt in newspaper, so both parcels look the same. Mark them A and B.  
   *Parent says:* One of these parcels is a magnet. The other is plain steel. Can you find the magnet using only your magnet?  
   *Child mode:* One parcel hides a magnet. One hides plain steel. Can you find the magnet?
 - **s2 (8 min)**  
   *Parent does:* 1. Let your child test both ends of each parcel with the N end, then the S end, of their magnet. 2. Ask them to write what happens.  
   *Parent says:* Try both ends of each parcel with your north pole, then your south pole. What happens each time?  
   *Child mode:* Try your N end on each end of parcel A. Then your S end. Now parcel B. Write what happens.
-  - Check: Parcel A is attracted by your N end and by your S end. Parcel B is pushed away by your N end at one of its ends. Which parcel is the magnet? → **Parcel B, because it repelled**
+  - Check: Parcel A is attracted by your N end and by your S end. One end of parcel B is pushed away by your N end. Which parcel is the magnet? → **Parcel B, because it repelled**
 - **s3 (4 min)**  
   *Parent does:* Unwrap the parcels and check.  
   *Parent says:* Why was the push the only test that could tell us?  
@@ -344,6 +346,7 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
   *Child mode:* The magnets push. What job does the pencil do?
   - Ask: Why did the ring flip over without the pencil? (good: It turned round until it could attract.; The pencil stopped it turning.)
 ### a4 · Draw the Magnet Inside (15 min)
+- **problem:** Inside a magnet, countless tiny magnets all point the same way. Each tiny magnet has its own north and south end. In this activity you draw them, and then you cut the drawing in two to see which poles appear.
 - **record:** Keep the drawing in your science notebook.
 - **s1 (6 min)**  
   *Parent does:* 1. Draw a long rectangle. 2. Fill it with 20 small arrows, all pointing to the right. 3. Colour each arrow's head red and its tail blue.  
@@ -374,7 +377,7 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
   *Parent does:* 1. Make a track 1 metre long with books for walls. 2. Push the car along by repelling, without touching. 3. Time three races.  
   *Parent says:* Drive it from one end to the other without touching. What happens if you come too close or too fast?  
   *Child mode:* Drive the car down the track with your magnet. No touching! Time it. Try three times.
-  - Note: The car often swings round and jumps onto the hand magnet. The book walls help stop it turning. That is the same thing the floating boats did.
+  - Note: The car often swings round and jumps onto the hand magnet, as the boats did in the Magnet Boats experiment. The book walls help stop it turning.
   - Wait: Come back tomorrow for the track and the races.
 
 ## Challenges
@@ -383,12 +386,12 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 - **your turn:** Now invent your own way to stop the floating magnet from turning. Draw it, build it, and time how long it hovers.
 - **constraints:** Use magnets and things from home.; The floating magnet must hover with a gap you can slide a sheet of paper through.; It must stay for at least 10 seconds.
 - **general:** Put ring magnets on a pencil, so that like poles face each other. The pencil stops the top ring from turning.; Put bar magnets inside a clear plastic tube or tall glass that just fits them, so they cannot turn round.; Tie a thread to the floating magnet and tape the thread down, so it hovers but cannot flip.
-- **creative:** A toy called the Levitron floats a spinning top above a base magnet. The spin stops it flipping over, as a spinning top stays up.; Some trains, like the one to Shanghai airport in China, float on magnets that are controlled by electricity many times a second.; Scientists have floated a magnet above a superconductor, a very cold material that pushes back on magnetic fields.
+- **creative:** A toy called the Levitron floats a spinning top above a base magnet. The top spins very fast, and the spin stops it from flipping over. A spinning top on a table stays upright for the same reason.; Some trains, such as the one to Shanghai airport in China, float above their track on magnets. Electricity in those magnets is adjusted many times every second to keep the train steady.; Scientists have floated a magnet above a superconductor, a very cold material that pushes back on magnetic fields.
 - **s1 (5 min)**  
   *Parent does:* Hold one magnet flat on the table. Try to make the other hover above it, north over north, with your fingers off.  
   *Parent says:* Can you make it hover just by letting go? What does it do?  
   *Child mode:* Try to make one magnet float above the other. Let go. What happens?
-  - Note: It flips over and sticks, or slides off sideways. This is the same thing the floating boats did.
+  - Note: It flips over and sticks, or slides off sideways. The boats did the same thing in the Magnet Boats experiment.
 - **s2 (5 min)**  
   *Parent does:* Draw three ideas before building.  
   *Parent says:* The magnet keeps turning or sliding. How could we stop that?  
@@ -406,22 +409,22 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 
 ## Worksheets
 ### Poles and the Rule (core) (core, 15 questions)
-1. (mcq) Meenakshi brings the north pole of one magnet near the south pole of another. What happens?  
+1. (mcq) Bring the north pole of one magnet near the south pole of another. What happens?  
    Options: They attract / They repel / Nothing happens  
    **Answer:** They attract. *Why:* Unlike poles attract. A north pole and a south pole are unlike poles. A strong answer says the rule, not just the answer.
-2. (mcq) Kavya pushes two south poles towards each other. What does she feel?  
+2. (mcq) Push two south poles towards each other. What do you feel?  
    Options: A pull / A push / Nothing  
-   **Answer:** A push. *Why:* Two south poles are like poles, and like poles repel. So Kavya feels a push, even before the magnets touch.
-3. (mcq) Divya rolls a bar magnet in a pile of paper clips. Where do most clips cling?  
+   **Answer:** A push. *Why:* Two south poles are like poles, and like poles repel. So you feel a push, even before the magnets touch.
+3. (mcq) Roll a bar magnet in a pile of paper clips. Where do most clips cling?  
    Options: In the middle / At the two ends / All along it evenly  
    **Answer:** At the two ends. *Why:* A magnet's force is strongest at its poles. On a bar magnet, the poles are at the two ends. Picking 'the middle' usually means thinking the force is strongest where the magnet is thickest or heaviest.
-4. (mcq) Farhan floats a bar magnet on a plastic lid in a tub of water. It stops turning. What does its north pole point to?  
+4. (mcq) A bar magnet floats on a plastic lid in a tub of water. It stops turning. What does its north pole point to?  
    Options: North / The nearest wall / Up  
    **Answer:** North. *Why:* A magnet that can turn freely settles pointing north and south. That is how the north pole got its name.
-5. (mcq) Anjali holds a steel spoon near the north pole of a magnet, then near the south pole. What happens?  
+5. (mcq) Hold a steel spoon near the north pole of a magnet, then near the south pole. What happens?  
    Options: It is attracted to both / It is attracted to north and repelled by south / It is repelled by both  
    **Answer:** It is attracted to both. *Why:* Plain steel is attracted by both poles. The spoon becomes a temporary magnet, with the opposite pole facing whichever pole is near it.
-6. (truefalse) Lata says, 'If two things stick together, both must be magnets.' Is she right?  
+6. (truefalse) True or false: if two things stick together, both must be magnets.  
    **Answer:** False. *Why:* False. A magnet sticks to a steel spoon, and the spoon is not a magnet. A strong answer says that only repelling proves that both are magnets.
 7. (truefalse) True or false: a magnet always has both a north pole and a south pole.  
    **Answer:** True. *Why:* True. Every magnet ever found has both poles. Cut it in two, and each piece still has both.
@@ -429,30 +432,30 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
    **Answer:** ['repel']. *Why:* Repel means push away without touching. Like poles repel.
 9. (match) Match each pair of poles to what they do.  
    **Answer:** North and south → attract; North and north → repel; South and south → repel; North pole and a plain iron nail → attract. *Why:* Unlike poles attract and like poles repel. Plain iron is attracted by either pole.
-10. (sort) Revathi tests things with the north pole of her magnet. Sort what each one can do.  
+10. (sort) Each of these things is tested with the north pole of a magnet. Sort them by what can happen.  
    **Answer:** a steel safety pin → Can only be attracted; another bar magnet → Can be attracted or repelled; an iron nail → Can only be attracted; a bendy fridge magnet → Can be attracted or repelled; a steel spoon → Can only be attracted. *Why:* Plain iron and steel are attracted by both poles. Only a magnet can be repelled. A strong answer sorts by whether the thing is a magnet, not by how strong it is.
 11. (order) Put the steps in order for finding the north pole of an unmarked magnet.  
    **Answer:** ['Float the magnet on a plastic lid in a tub of water', 'Wait until it stops turning', 'Check which way is north with a compass', "Label the end that points north 'N'"]. *Why:* The magnet must be free to turn and must stop before you can read it. Then you check north and label.
 12. (draw) Draw two bar magnets that attract and two that repel. Label every pole N or S, and draw arrows to show which way each magnet is pushed or pulled.  
    **Answer:** Attracting pair: N facing S, arrows pointing towards each other. Repelling pair: N facing N or S facing S, arrows pointing apart.. *Why:* A strong drawing labels all four poles and puts the arrows the right way round.
-13. (perspective) Two friends in Kochi each have an unmarked bar magnet. They argue about how to find the north pole.  
-   **Answer:** Both ways work. Nandini's way needs no other magnet, only a tub of water, and it shows why the pole is called north. Shreya's way is quicker, but only works if her own magnet is marked correctly. A strong answer picks one with a reason and gives the other its due.. *Why:* There is no single right answer. Each way has a strength. Peregrinus used floating in 1269, then used one known magnet to test others.
-14. (mcq) Rohini holds two bar magnets that are attracting each other. She turns one of them round, end to end. What happens now?  
+13. (perspective) Two friends each have an unmarked bar magnet. They disagree about how to find its north pole.  
+   **Answer:** Both ways work. Floating the magnet needs no other magnet, only a tub of water, and it shows why the pole is called north. Holding it near a marked magnet is quicker, but only works if the marked magnet is marked correctly. A strong answer picks one way with a reason and says what is good about the other.. *Why:* There is no single right answer. Each way has a strength. Peregrinus used floating in 1269, then used one known magnet to test others.
+14. (mcq) Two bar magnets are attracting each other. You turn one of them round, end to end. What happens now?  
    Options: They repel / They attract more strongly / Nothing changes  
    **Answer:** They repel. *Why:* Turning one magnet round changes which poles face each other. Unlike poles became like poles, and like poles repel.
 15. (write) Predict: a bar magnet floats on a lid in a tub. A friend holds the north end of another magnet 3 cm from the floating magnet's south end. What does the lid do, and why?  
    **Answer:** The lid moves towards the friend's magnet, because a north pole and a south pole attract.. *Why:* A strong answer names the two poles that face each other and uses the rule, not only the result.
 ### Poles Puzzles (stretch) (stretch, 15 questions)
-1. (mcq) Priya's toy train carriages have magnets at each end. One carriage will not join the next. What should she try first?  
+1. (mcq) The carriages of a toy train have magnets at each end. One carriage will not join the next. What should you try first?  
    Options: Turn that carriage round / Glue it on / Use a heavier carriage  
    **Answer:** Turn that carriage round. *Why:* If like poles are facing, the carriages repel. Turning one round makes unlike poles face, and they attract.
-2. (mcq) Ishita moves a magnet slowly towards a floating magnet boat. When does the boat start to move?  
+2. (mcq) You move a magnet slowly towards a floating magnet boat. When does the boat start to move?  
    Options: As soon as the magnet is in the room / Only when the magnets touch / When the magnet comes within a few centimetres  
    **Answer:** When the magnet comes within a few centimetres. *Why:* Magnetic force gets weaker very quickly with distance. Far away it is too weak to move the boat. Within a few centimetres it is strong enough.
 3. (mcq) Two bendy fridge magnets slide smoothly one way but bump the other way. What does that tell you?  
    Options: The magnet is broken / Its face has stripes of north and south poles / It has no poles  
    **Answer:** Its face has stripes of north and south poles. *Why:* Each bump is the magnet crossing a stripe that attracts and then one that repels. So the face has many poles in stripes.
-4. (truefalse) Arjun says, 'The north pole of a bar magnet is stronger than the south pole.' Is he right?  
+4. (truefalse) True or false: the north pole of a bar magnet is stronger than the south pole.  
    **Answer:** False. *Why:* False. Both poles of a bar magnet are equally strong. A strong answer suggests a test: count the paper clips each end can pick up.
 5. (fill) A piece of steel that acts as a magnet only while a magnet is near it is called a ____ magnet.  
    **Answer:** ['temporary']. *Why:* A paper clip touching a magnet can hold another clip. Take the magnet away, and the second clip falls.
@@ -461,17 +464,17 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
    **Answer:** 2. *Why:* North and south are unlike poles, so they attract. The other three are like poles, so they repel.
 7. (label) Label the poles on this drawing of three magnets joined in a row, end to end: write N or S at each of the six ends.  
    **Answer:** Each magnet has N at one end and S at the other, and at every join an N meets an S. For example: N S, N S, N S from left to right.. *Why:* Magnets in a chain join only where unlike poles meet. A strong answer checks every join.
-8. (write) Remember the ring magnets floating on a pencil. Why did the top ring flip over when you took it off the pencil?  
+8. (write) In Floating Rings on a Pencil, why did the top ring flip over when you took it off the pencil?  
    **Answer:** Without the pencil, the ring was free to turn. It turned until its other face pointed down, and then it was attracted.. *Why:* A strong answer says the pencil stopped the turning, and a free magnet turns to attract.
-9. (write) Remember the Magnet Boats. Why did you start each try with the magnets 10 cm apart?  
-   **Answer:** So every try was fair. If one try started closer, the force would be stronger, and the result would not be comparable.. *Why:* A strong answer explains that changing the gap changes the force, so it must be the same each time.
+9. (write) In the let-go test of the Magnet Boats, why did you start each try with the magnets 10 cm apart?  
+   **Answer:** So every try was fair. If one try started closer, the force would be stronger, and you could not compare the tries.. *Why:* A strong answer explains that changing the gap changes the force, so it must be the same each time.
 10. (write) A compass needle is a small magnet. Why does a compass go wrong when you hold a magnet near it?  
    **Answer:** The magnet's poles are much closer than the Earth's poles, so they attract or repel the needle's poles more strongly.. *Why:* A strong answer uses the rule of poles and says that nearby force is stronger.
-11. (perspective) In a science club in Hyderabad, two children argue about the Earth's magnetic pole in the Arctic.  
-   **Answer:** Both have a point. Swathi is right that the name tells you where the place is, and changing it would confuse maps. Rohan is right about what kind of magnetic pole it is. A strong answer picks a side, gives a reason, and gives the other side its due.. *Why:* Names can describe where something is or what it does. This name describes where.
+11. (perspective) Two children disagree about what to call the Earth's magnetic pole in the Arctic.  
+   **Answer:** Both have a point. The first child is right that the name tells you where the place is, and changing it would confuse maps. The second child is right about what kind of magnetic pole it is. A strong answer picks a side, gives a reason, and says what the other side has right.. *Why:* Names can describe where something is or what it does. This name describes where.
 12. (write) In the Wrapped Mystery, a friend tests only one end of parcel A, with only the north end of her magnet, and the parcel is attracted. She says A must be plain steel. Is she right to be sure?  
    **Answer:** No. A magnet's south end would attract her north end too. She must also try her south end, or the parcel's other end. If it is ever pushed away, it is a magnet.. *Why:* A strong answer says that attraction alone cannot tell steel from a magnet, so she needs a test that could show repelling.
-13. (mcq) Neha repeats the gap test from the Magnet Boats with a weaker magnet. When does the boat start to move?  
+13. (mcq) You repeat the gap test from the Magnet Boats with a weaker magnet. When does the boat start to move?  
    Options: At a bigger gap than with the strong magnet / At a smaller gap than with the strong magnet / At the same gap  
    **Answer:** At a smaller gap than with the strong magnet. *Why:* A weaker magnet has a weaker force at every distance. So it must come closer before the force can move the boat.
 14. (truefalse) True or false: the push between two like poles gets stronger as the magnets are brought closer.  
@@ -485,13 +488,13 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 2. (mcq) On 14 February 1982, a detector at Stanford University recorded one signal that looked like a north pole on its own. Why do scientists still say nobody knows if such poles exist?  
    Options: The signal was never seen again / The detector was a toy / It was on a holiday  
    **Answer:** The signal was never seen again. *Why:* In science, one result that never happens again is not enough. Many bigger searches since have found nothing.
-3. (truefalse) True or false: a magnet hanging on a thread can be repelled by another magnet and stay facing it, without turning, for as long as you like.  
+3. (truefalse) True or false: a magnet hanging on a thread can stay facing a magnet that repels it, without turning, for as long as you like.  
    **Answer:** False. *Why:* False. A magnet on a thread is free to turn. When repelled, it twists round until unlike poles face, and then it is attracted.
 4. (sort) Sort what these magnet tricks need to work.  
    **Answer:** ring magnets floating on a pencil → Needs something to stop turning; a magnet sticking to a fridge → Works on its own; a car pushed by repelling along a track → Needs something to stop turning; two magnets joining north to south → Works on its own. *Why:* Attracting is what free magnets end up doing on their own. Repelling only lasts while something stops the magnet from turning: a pencil, book walls or your fingers.
 5. (order) Put these in the order they were found out.  
    **Answer:** ['Petrus Peregrinus writes the rule that like poles repel', 'Samuel Earnshaw proves that ordinary magnets alone cannot hold a magnet floating still', 'A detector at Stanford records one possible single pole']. *Why:* Peregrinus wrote in 1269, Earnshaw in 1842, and the Stanford signal was in 1982.
-6. (write) Your friend Sneha says, 'Repelling and attracting are two different forces.' Use what the Magnet Boats did to answer her.  
+6. (write) Someone says, 'Repelling and attracting are two different forces.' Use what the Magnet Boats did to answer.  
    **Answer:** It is the same magnetic force. Which one you get depends only on which way the magnets face. The boats repelled, turned round, then attracted, with no change except the direction they faced.. *Why:* A strong answer uses the evidence that turning a magnet changes repel into attract.
 7. (write) Design a test to find out whether a magnet's north pole and south pole are equally strong. Say what you would keep the same.  
    **Answer:** Count how many paper clips each pole can hold in a chain, using the same clips and the same magnet, 3 times each. Keep the clips, the magnet and the way you hang them the same.. *Why:* A strong answer changes only which pole is tested, and repeats it.
@@ -506,7 +509,7 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 12. (label) Label the Earth drawing: the geographic North Pole, the magnetic pole in the Arctic, and what kind of magnetic pole it is (N or S).  
    **Answer:** The geographic North Pole at the top of the Earth's axis. The magnetic pole in the Arctic, a little away from it, marked S, because it attracts compass north poles.. *Why:* A strong answer separates the place on the map from the kind of magnetic pole.
 13. (perspective) Three people talk about the magnet boats that always ended up stuck together.  
-   **Answer:** A strong answer uses evidence from the boats, such as how often they turned. Meera is right that a perfectly straight push would not twist the magnet at first. Farhan is right that any tiny wobble grows, so in practice they turn. Tara's 'prefer' is a way of saying what free magnets end up doing.. *Why:* This is a real question about balance. A balance that any wobble upsets is called unstable, and repelling magnets are in that kind of balance.
+   **Answer:** A strong answer uses evidence from the boats, such as how often they turned. The physics teacher is right that a perfectly straight push would not twist the magnet at first. The cousin is right that any tiny wobble grows, so in practice they turn. The child's word 'prefer' is a way of saying what magnets that are free to turn end up doing.. *Why:* This is a real question about balance. A balance that any wobble upsets is called unstable, and repelling magnets are in that kind of balance.
 14. (write) Some bacteria carry a chain of tiny magnet crystals, joined north to south. Why do the crystals stay joined in a line and not push apart?  
    **Answer:** Where one crystal's north pole meets the next one's south pole, unlike poles attract. So each crystal holds the next, and the chain stays in a line.. *Why:* A strong answer uses the rule that unlike poles attract, as in a row of joined magnets.
 15. (mcq) Which of these would NOT help a hovering magnet stay hovering instead of flipping over?  
@@ -522,28 +525,28 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 1. (mcq) What are the two ends of a bar magnet called?  
    Options: Poles / Sides / Corners  
    **Answer:** Poles. *Why:* The ends, where the force is strongest, are called poles: a north pole and a south pole.
-2. (mcq) Usha holds a north pole near another north pole. What happens?  
+2. (mcq) You hold a north pole near another north pole. What happens?  
    Options: They repel / They attract / Nothing  
    **Answer:** They repel. *Why:* Like poles repel. Picking 'attract' mixes up the rule.
-3. (mcq) Sundari holds a south pole near a north pole. What happens?  
+3. (mcq) You hold a south pole near a north pole. What happens?  
    Options: They attract / They repel / Nothing  
    **Answer:** They attract. *Why:* Unlike poles attract.
-4. (mcq) Gita's magnet is floating on a lid in water. When it stops, the end pointing north is called what?  
+4. (mcq) A magnet is floating on a lid in water. When it stops turning, what is the end pointing north called?  
    Options: The north pole / The south pole / The middle  
    **Answer:** The north pole. *Why:* The north pole is the end that points north when the magnet is free to turn.
 5. (mcq) Which one can push away the north pole of a magnet?  
    Options: An iron nail / The north pole of another magnet / A steel spoon  
    **Answer:** The north pole of another magnet. *Why:* Only a magnet can repel a magnet. A nail and a spoon are plain steel, which is attracted by both poles.
-6. (mcq) Anu has two wrapped parcels. One pushes her magnet away. What is inside it?  
+6. (mcq) You have two wrapped parcels. One pushes your magnet away. What is inside it?  
    Options: A magnet / Plain iron / Paper  
    **Answer:** A magnet. *Why:* Repelling is the sure test of a magnet.
-7. (mcq) Two magnet boats start north facing north, and Bhavana lets go. What do they usually do in the end?  
+7. (mcq) Two magnet boats start north facing north, and you let go. What do they usually do in the end?  
    Options: Turn and stick together / Stay apart / Sink  
    **Answer:** Turn and stick together. *Why:* They push apart, but the push twists them. One turns until unlike poles face, then they attract.
 8. (mcq) In the Magnet Boats test, why do you let go gently, without pushing?  
    Options: So only the magnets move the boats / So the water stays warm / So the boats go faster  
    **Answer:** So only the magnets move the boats. *Why:* A fair test changes only one thing. A push from your hand would mix up the result.
-9. (mcq) Selvi cuts a magnet in two. What does each piece have?  
+9. (mcq) A magnet is cut in two. What does each piece have?  
    Options: A north and a south pole / Only one pole / No poles  
    **Answer:** A north and a south pole. *Why:* Each piece is a whole magnet with both poles.
 10. (mcq) The Earth's magnetic pole in the Arctic attracts the north pole of a compass. What kind of pole is it?  
@@ -551,16 +554,16 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
    **Answer:** A south pole. *Why:* Unlike poles attract, so it must be a magnetic south pole, even though it is in the north.
 11. (mcq) Why does a bendy fridge magnet bump when you slide it across another one?  
    Options: It has stripes of north and south poles / It is wet / It is broken  
-   **Answer:** It has stripes of north and south poles. *Why:* The face has thin stripes of poles. Crossing them you feel attract, repel, attract.
+   **Answer:** It has stripes of north and south poles. *Why:* The face has thin stripes of poles. As you slide across them, the magnets attract, then repel, then attract again.
 
 ## Applications
 - Toy trains and building toys join with magnets that only fit one way round.
 - Cupboard and fridge doors stay shut with magnetic strips.
 - A compass needle is a small magnet whose north pole points north.
-- Electric motors in fans, mixers and washing machines turn because magnets attract and repel in turn.
+- Electric motors in fans, mixers and washing machines have magnets that attract and repel one after another. This keeps the motor turning.
 - Loudspeakers and earphones move a thin cone with a magnet that is pushed and pulled.
-- Magnetic clasps on bags, phone covers and necklaces.
-- Magnetic name badges that hold through cloth.
+- Magnetic clasps on bags, phone covers and necklaces hold because unlike poles attract.
+- Magnetic name badges hold through cloth because a magnet on each side pulls on the other.
 
 ## Spotted around us
 - The black rubber strip around a fridge door. It is a bendy magnet that holds the door shut.
@@ -571,16 +574,16 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 
 ## Open questions
 - **Do magnetic monopoles, single north or south poles, exist anywhere?** Some theories predict them. One possible signal was seen in 1982 and never again. Searches go on.
-- **Why do the Earth's magnetic poles sometimes swap places?** Scientists know it has happened many times from the rocks, and that the moving liquid iron in the core causes it, but cannot yet predict when it will happen next.
-- **What is an electron's magnetism, underneath?** Every electron is a tiny magnet with two poles. Physicists can measure it very exactly, but nobody can say what it is made of, or whether that question even makes sense.
+- **Why do the Earth's magnetic poles sometimes swap places?** Scientists know from rocks that it has happened many times, and that the moving liquid iron in the Earth's core causes it. But they cannot yet predict when it will happen next.
+- **What is an electron's magnetism made of?** Every electron is a tiny magnet with two poles. Physicists can measure it very exactly, but nobody can say what it is made of, or whether that question even makes sense.
 
 ## Questions to ask kids
 - Which way does our front door face? How could a magnet tell us?
 - Does a magnet stick to an iron dosa tawa? To a brass lamp? To an aluminium idli plate?
 - Can you think of something that only joins one way round, like magnet poles?
 - Why do you think a magnet has to have two poles?
-- If you had a magnet with only a north pole, what would you do with it?
-- Is the push between two magnets something real, or only a feeling in our hands?
+- If you found a magnet that seemed to have only a north pole, how could you test it?
+- The magnet boats moved with no hand touching them. Is the push between magnets real, or only a feeling in our hands? How do you know?
 
 ## Jokes
 - What did the north pole say to the south pole? *Opposites attract.*
@@ -593,10 +596,10 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 - What is a magnet's favourite kind of music? *Anything with a good pull.*
 
 ## Connected maths
-- In the Magnet Boats test, Kavya, a girl in Class 4, found the boat moved at a gap of 6 cm, 5 cm and 7 cm in three tries, with north facing south. What is the middle value, and why use it? **6 cm.**. Put the three numbers in order: 5, 6, 7. The middle one is 6 cm. Using the middle value stops one odd try from changing the answer too much. (queues `math.number-sense.comparing-ordering.L3`)
+- In the Magnet Boats gap test, with north facing south, the boat first moved at gaps of 6 cm, 5 cm and 7 cm in three tries. What is the middle value, and why use it? **6 cm.**. Put the three numbers in order: 5, 6, 7. The middle one is 6 cm. Using the middle value stops one odd try from changing the answer too much. (queues `math.number-sense.comparing-ordering.L3`)
 - A bar magnet is cut into 2 pieces, then each piece is cut in 2 again, and then each of those in 2 again. How many north poles are there now? **8 north poles.**. After the first cut there are 2 magnets. After the second, 2 times 2 is 4. After the third, 4 times 2 is 8. Each piece has one north pole, so there are 8 north poles and 8 south poles. (queues `math.multiplication.equal-groups.L3`)
-- Divya, a girl in Class 3, slid two fridge magnets 5 cm across each other and felt 15 bumps. About how wide is one stripe of poles, in millimetres? (5 cm is 50 mm.) **About 3 mm for each bump.**. 50 mm shared among 15 bumps is a little over 3 mm each, because 15 times 3 is 45, close to 50. So the stripes of poles are about 3 mm apart. (queues `math.division.sharing-and-grouping.L3`)
-- In the Magnet Boats test, Farhan, a boy in Class 4, let the boats go north facing north 10 times. 9 times they turned and stuck together. Once they drifted apart and stopped. Draw a bar chart and say what it shows. **A bar of 9 for 'turned and stuck' and a bar of 1 for 'stayed apart'. Almost every time, a free magnet turned round and attracted.**. The tall bar shows what usually happens. The one short bar is worth looking at: the boats may have drifted out of reach before they could turn. (queues `math.data.bar-charts.L3`)
+- Two fridge magnets were slid 5 cm across each other, and there were 15 bumps. About how wide is one stripe of poles, in millimetres? (5 cm is 50 mm.) **About 3 mm for each bump.**. 50 mm shared among 15 bumps is a little over 3 mm each, because 15 times 3 is 45, close to 50. So the stripes of poles are about 3 mm apart. (queues `math.division.sharing-and-grouping.L3`)
+- In the Magnet Boats test, the boats were let go north facing north 10 times. 9 times they turned and stuck together. Once they drifted apart and stopped. Draw a bar chart and say what it shows. **A bar of 9 for 'turned and stuck' and a bar of 1 for 'stayed apart'. Almost every time, a magnet that was free to turn turned round and attracted.**. The tall bar shows what usually happens. The one short bar is worth looking at: the boats may have drifted out of reach before they could turn. (queues `math.data.bar-charts.L3`)
 
 ## Song
 Tiny Magnets, All in Line (sci.magnets.L3): Topic-level song for Magnets L3
@@ -618,7 +621,7 @@ Tiny Magnets, All in Line (sci.magnets.L3): Topic-level song for Magnets L3
 - Is a steel spoon attracted by both poles? → Yes.
 - Cut a magnet in two. How many poles does each piece have? → Two: a north and a south.
 - What is the sure test of a magnet? → Repelling another magnet.
-- Where does a free magnet's north pole point? → North.
+- A magnet is free to turn. Where does its north pole point? → North.
 - A pushed-away floating magnet turns round. What does it do then? → It attracts and sticks.
 
 ## Plan

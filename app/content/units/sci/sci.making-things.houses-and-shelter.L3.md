@@ -18,8 +18,8 @@
 - **Material**: What a thing is made of. *e.g.* A door can be made of wood, steel or plastic. Each one is a different material.
 - **Natural material**: A material taken from nature and used with little change, such as mud, stone, bamboo, wood or grass. *e.g.* A Toda hut in the Nilgiris is made of bamboo, cane and thatch.
 - **Frame**: The skeleton of a building: the poles, beams or strips that hold it up. Walls and roof are fixed onto the frame. *e.g.* A wedding pandal has a frame of poles tied with rope. The cloth is put on later.
-- **Joint**: The place where two parts of a frame meet and are fixed together. *e.g.* In your card frame, every pin is a joint.
-- **Rigid**: Keeps its shape when it is pushed. A rigid frame does not lean or fold. *e.g.* Your card triangle is rigid. Your card square is not.
+- **Joint**: The place where two parts of a frame meet and are fixed together. *e.g.* In the card frames of the Push Test, every pin is a joint.
+- **Rigid**: Keeps its shape when it is pushed. A rigid frame does not lean or fold. *e.g.* In the Push Test, the card triangle is rigid. The card square is not.
 - **Brace**: An extra strip or pole fixed from corner to corner across a frame, so that it cannot lean. A brace turns a square into two triangles. *e.g.* A wooden gate often has one diagonal plank across it. That plank is a brace.
 - **Truss**: A frame made of many triangles joined together. It is strong but uses little material. *e.g.* Many roofs, mobile phone towers and railway bridges are trusses.
 - **Load**: The weight or push that a building or frame has to hold up. *e.g.* A roof's load is its own weight, plus rain, and people or water tanks on top.
@@ -60,7 +60,7 @@ Water flows downhill. On a flat roof it can stand in puddles and slowly find its
 ### Wind and earthquakes push sideways · *defined*
 **Definition:** Weight pushes a building down, but wind and earthquakes push it sideways. A building stays up in an earthquake if its frame cannot lean and its heavy parts cannot fall.
 
-Most walls are good at holding weight that presses straight down. A sideways push is harder. It is like your push on the card square. Builders stop this in three main ways. They add braces and triangles, so the frame cannot lean. They tie walls together with bands of concrete or wood, so the walls move as one piece. And they keep roofs light, because a heavy roof that falls is the most dangerous part. In the Kutch earthquake of 26 January 2001, many round bhungas with light roofs in the Banni area were reported to have stood, while many newer buildings fell. Round walls have no long flat side for the shaking to push over. A badly built concrete building can be more dangerous than a well-built mud one.
+Most walls are good at holding weight that presses straight down. A sideways push is harder to stand up to. It is like the push on the card square in the Push Test. Builders stop a house leaning or falling in three main ways. They add braces and triangles, so the frame cannot lean. They tie walls together with bands of concrete or wood, so the walls move as one piece. And they keep roofs light, because a heavy roof that falls is the most dangerous part. In the Kutch earthquake of 26 January 2001, many round bhungas with light roofs in the Banni area were reported to have stood, while many newer buildings fell. Round walls have no long flat side for the shaking to push over. A badly built concrete building can be more dangerous than a well-built mud one.
 - e.g. Tall buildings have braces, or a very stiff central core, to stand up to wind.
 - e.g. Engineers test model buildings on shaking tables before building real ones.
 - e.g. Rules for building in earthquake areas ask for bands of concrete tying the walls together.
@@ -87,7 +87,7 @@ Builders wear a hard helmet, because a falling brick or tool can hurt the head. 
 - Most deaths in earthquakes are caused by buildings falling, not by the shaking itself. *How we know:* Reports after earthquakes all over the world, including Latur in 1993 and Kutch in 2001, show this.
 
 ## How we found out
-**Fazlur Rahman Khan, an engineer born in Dhaka, with the architect Bruce Graham, in Chicago, The 1960s. The John Hancock Center was finished in 1969..** In the 1960s, buildings were getting taller, and engineers had a problem. A tall building is pushed sideways by the wind, like a tree. Most engineers thought the answer was a thick skeleton of columns and beams with very stiff joints. But each extra floor then needed more and more steel, so very tall buildings cost far too much. Fazlur Rahman Khan, an engineer born in Dhaka in 1929, thought about it differently. He worked in Chicago, in the United States, with the architect Bruce Graham. Khan saw that the outside walls could work like one stiff hollow tube. For the John Hancock Center, a 100-storey tower finished in 1969, he put huge diagonal steel braces across the outside, making giant triangles. The triangles stopped the building leaning in the wind. The tower used about as much steel for each floor as an ordinary 50-storey building. The old idea, that height needed ever thicker skeletons, was shown wrong. Triangles, placed well, did the work instead.  
+**Fazlur Rahman Khan, an engineer born in Dhaka, with the architect Bruce Graham, in Chicago, the 1960s.** In the 1960s, buildings were getting taller, and engineers had a problem. A tall building is pushed sideways by the wind, like a tree. Most engineers thought the answer was a thick skeleton of columns and beams with very stiff joints. But each extra floor then needed more and more steel, so very tall buildings cost far too much. Fazlur Rahman Khan, an engineer born in Dhaka in 1929, thought about it differently. He worked in Chicago, in the United States, with the architect Bruce Graham. Khan saw that the outside walls could work like one stiff hollow tube. For the John Hancock Center, a 100-storey tower finished in 1969, he put huge diagonal steel braces across the outside, making giant triangles. The triangles stopped the building leaning in the wind. The tower used about as much steel for each floor as an ordinary 50-storey building. The old idea, that a taller building always needed a thicker skeleton, was shown to be wrong. Triangles, placed well, did the work instead.  
 *What people believed before:* Engineers thought that a taller building needed a thicker and heavier skeleton of columns and stiff joints, so very tall towers would cost too much steel. Khan showed that big diagonal braces making triangles on the outside could hold the building firm against wind with far less steel.
 
 ## Challenging perspectives
@@ -99,7 +99,7 @@ Builders wear a hard helmet, because a falling brick or tool can hurt the head. 
   Against: In the 2001 Kutch earthquake, many newer buildings fell while many old bhungas stood. A badly built concrete house with a heavy roof can be more dangerous than a well-built mud one.
 - **Thick, heavy walls and roofs make a house safe in an earthquake.** (An old belief in many places; *rejected*)  
   For: Heavy walls feel solid and are hard to push over by hand.  
-  Against: In the Latur earthquake in Maharashtra in 1993, many heavy stone walls and roofs fell on people asleep at night. A shaking ground pushes heavy things harder, so heavy roofs are more dangerous.
+  Against: In the Latur earthquake in Maharashtra in 1993, many heavy stone walls and roofs fell on people asleep at night. Shaking ground pushes heavy things harder, so heavy roofs are more dangerous.
 - **Mud houses are old-fashioned and only for the poor.** (Many people in towns and cities; *debated*)  
   For: Most new houses in cities are made of concrete, and mud walls need care after heavy rain.  
   Against: Mud is cheap, cool in summer, and can be used again. Architects in India and around the world now build new mud houses on purpose, for families who can afford anything.
@@ -107,28 +107,28 @@ Builders wear a hard helmet, because a falling brick or tool can hurt the head. 
 ## Roots
 We have tested frames, roofs and tiles, and met houses from all over India. Now we ask what building a shelter tells us about ourselves and the world.
 
-**Deep truth.** Your square frame folded flat at one push, but your triangle frame kept its shape. Both were made of the same card strips and pins. Three sides of fixed length fit together in only one shape, while four sides can lean into many. So a roof or tower stays firm because its parts form triangles.  
-*Habit it breaks:* We usually think a building is strong because its material is strong, thick or heavy. But your two frames used the same strips, and one folded while the other held. How the parts are joined decides as much as what they are made of.  
+**Deep truth.** In the Push Test, the square frame folded flat at one push, but the triangle frame kept its shape. Both were made of the same card strips and pins. Three sides of fixed length fit together in only one shape, while four sides can lean into many. So a roof or tower stays firm because its parts form triangles.  
+*Habit it breaks:* We usually think a building is strong because its material is strong, thick or heavy. But the two frames in the Push Test used the same strips, and one folded while the other held. How the parts are joined decides as much as what they are made of.  
 *Evidence:* In the Push Test, the top corner of the square moved many centimetres and the square folded flat. The triangle's corner moved less than one centimetre. One diagonal strip across the square stopped it leaning too.
 
 - *who am i:* Your skeleton is your frame. When you stand with your feet apart, your legs and the floor make a triangle, and you are much harder to push over.
 - *what is life:* Every living being needs shelter. A baya weaver weaves a hanging nest, ants dig rooms under the soil, and people build houses.
 - *what is this world:* Everything that stands is pushed all the time, by its own weight, by wind and by the ground. It stays standing because its parts push back.
 
-A Toda hut, a Kerala tiled house, a Ladakh mud house and a block of flats in Chennai look nothing alike. They are made of grass, clay, mud or concrete, by different people, for different weather. Yet under every one is the same simple rule: a frame stays firm when its parts make triangles. One plain fact about three sides, found again and again by builders who never met, takes shape as thousands of different homes.
+A Toda hut, a Kerala tiled house, a Ladakh mud house and a block of flats in Chennai look nothing alike. They are made of grass, clay, mud or concrete, by different people, for different weather. Yet under every one is the same simple rule: a frame stays firm when its parts make triangles. Builders who never met each other found this same fact about triangles, and used it in thousands of different homes.
 
-- **Tao Te Ching 11:** We cut out doors and windows to make a room. It is the empty space inside that makes the room useful. (Your frames and a house's walls hold their shape so that an empty space can stay open inside. We build the walls, but we live in the space they hold.)
-- **Dhammapada 153 to 154:** The Buddha spoke of seeking the builder of a house. He said that its rafters were broken and its ridge-pole was shattered, so that house would not be built again. (The Buddha used a house of rafters and a ridge-pole as a picture of the self. A house is only parts held together at their joints. When the joints and beams fail, there is no house left, only poles.)
+- **Tao Te Ching 11:** We cut out doors and windows to make a room. It is the empty space inside that makes the room useful. (A frame and a house's walls hold their shape so that an empty space can stay open inside. We build the walls, but we live in the space they hold.)
+- **Dhammapada 153 to 154:** The Buddha spoke of looking for the builder of a house. He said that its rafters, the sloping poles of the roof, were broken, and its ridge-pole, the pole along the top of the roof, was shattered. So that house would not be built again. (The Buddha used a house of rafters and a ridge-pole as a picture of the self. A house is only parts held together at their joints. When the joints and beams fail, there is no house left, only poles.)
 - Science (settled): A triangle of fixed sides cannot change shape, so trusses made of triangles hold big loads with little material. This is used in roofs, cranes, towers and bridges.
 - Science (debated): How well traditional mud houses stand up to earthquakes, compared with concrete houses, depends a lot on how each one is built. Engineers are still studying this.
-- Other view, Le Corbusier, a famous architect, in his book Vers une architecture, which means Towards an Architecture (1923): He wrote that a house is a machine for living in. In this view, a house is a useful tool, like a car, built as well and as cheaply as possible. It carries no deeper meaning about life, and reading one into it is our own idea.
+- Other view, Le Corbusier, a famous architect, in his book Vers une architecture, which means Towards an Architecture (1923): He wrote that a house is a machine for living in. In this view, a house is a useful tool, like a car, built as well and as cheaply as possible. It has no deeper meaning about life. If we see one, that meaning comes from us, not from the house.
 - Practice, Stand like a triangle (3 min): Stand up with your feet close together. I will press very gently on your shoulder. Did you wobble? Now stand with your feet wide apart. Your legs and the floor make a triangle. I will press again, just as gently. Did you wobble now? Close your eyes and take five slow breaths. Feel the floor pushing up through your feet. Feel how steady you are.
-- Ask: Your square and your triangle were made of the same strips. Which matters more for a strong frame: the strips, or the way they are joined?
+- Ask: In the Push Test, the square and the triangle were made of the same strips. Which matters more for a strong frame: the strips, or the way they are joined?
 - Ask: A house is walls around an empty space. Is the house the walls, or the space, or both?
-- Ask: A baya weaver was never taught how to weave a nest. How do you think the first weavers worked out what makes a good one?
+- Ask: A baya weaver hangs the nest over water, with the door at the bottom. Which danger does that design keep away?
 
 ## Deep and big questions
-- *deep:* A triangle stays rigid and a square leans. Why does having one more side make a frame weaker, not stronger? (hint: Push the corners of your square. Which parts turn? Do the strips get longer or shorter, or only the corners?)
+- *deep:* A triangle stays rigid and a square leans. Why does having one more side make a frame weaker, not stronger? (hint: Push the corners of the card square from the Push Test. Which parts turn? Do the strips get longer or shorter, or do only the corners turn?)
 - *deep:* Your body has a skeleton, like a house has a frame. Where in your body are there triangles? (hint: Stand with your feet apart and look at your legs and the floor. Look at your arm when you put your hand on your hip.)
 - *big:* A bird, an ant and a person all build shelters. Is a nest a home in the same way a house is? (hint: Think about what each one is for: sleeping, keeping young safe, keeping food, being together.)
 - *big:* A house is walls around an empty space. Which part do we live in: the walls or the space? (hint: Think about a room with no door or window, and a room with no walls at all.)
@@ -195,10 +195,10 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 
 ## Games
 ### g1 · Build It Right: a home for every place (20 min)
-- **rules:** Each player takes one place card and keeps it face up. With 2 players, use any 2 of the 6.; Spread the building cards face up in the middle. Put the question cards in a pile, question side up.; On your turn, the player on your left reads you the top question card. Read the answer on the back to check it. If you are right, take one building card. If you are wrong, the card goes to the bottom of the pile.; To win, you need three cards that suit your place: one ROOF, one WALLS and one EXTRA.; You may put one of your cards back in the middle instead of answering a question, if you chose badly.; When you have three, tell the others why your house suits your place. If they agree, you win. A good reason counts: some places suit more than one card.; If the question pile runs out, shuffle it and use it again.
+- **rules:** Each player takes one place card and keeps it face up. With 2 players, use any 2 of the 6.; Spread the building cards face up in the middle. Put the question cards in a pile, question side up.; On your turn, the player on your left reads you the top question card, then checks your answer on the back. If you are right, take one building card. If you are wrong, the question card goes to the bottom of the pile.; To win, you need three cards that suit your place: one ROOF, one WALLS and one EXTRA.; If you took a card that does not suit your place, you may use your turn to put it back in the middle instead of answering a question.; When you have three, tell the others why your house suits your place. If they agree, you win. Any good reason counts, because more than one card can suit a place.; If the question pile runs out, shuffle it and use it again.
 - **Printable cards: 6 place cards:** KERALA: very heavy monsoon rain; ASSAM: the river floods every year; LADAKH: very cold, very little rain; KUTCH: hot, and earthquakes happen; CHENNAI CITY: many people, little land; NILGIRIS: cool, misty hills
 - **Printable cards: 21 building cards: 7 roofs, 7 walls, 7 extras:** ROOF: Steep tiled roof; ROOF: Steep tiled roof; ROOF: Flat mud roof; ROOF: Flat mud roof; ROOF: Light cone roof of thatch; ROOF: Rounded thatch roof; ROOF: Flat concrete roof; WALLS: Thick mud walls; WALLS: Thick mud walls; WALLS: Round mud walls; WALLS: Laterite stone walls; WALLS: Concrete frame with steel rods; WALLS: Bamboo walls [picture]; WALLS: Bamboo walls [picture]; EXTRA: Bamboo stilts; EXTRA: Bamboo stilts; EXTRA: Lift and stairs; EXTRA: Diagonal brace; EXTRA: Diagonal brace; EXTRA: Small door to keep the warmth in; EXTRA: Small door to keep the warmth in
-- **Printable cards: 16 question cards (question on the front, answer on the back):** A gate leans sideways. Where should a plank go to stop it? (back: From one corner to the opposite corner. That splits the gate into two triangles.); Why do bhungas in Kutch have light roofs? (back: Shaking pushes a light roof less, and a light roof does much less harm if it falls.); Why are the mud walls in Ladakh so thick? (back: Thick mud is slow to heat up and slow to cool down, so rooms stay warm on cold nights.); Why would a flat roof be a bad idea in Kerala? (back: Heavy monsoon rain would stand on it in puddles and soak through.); What is laterite, the stone in many old Kerala walls? (back: A reddish stone cut from the ground.); Why are bands of concrete or wood tied round the walls in earthquake areas? (back: So the walls move together as one piece and do not fall apart.); What is the trick of a Mangalore roof tile? (back: It has grooves that lock it to the tiles next to it.); What do families in Ladakh use a flat roof for? (back: Drying apricots and storing hay.); What are Toda huts in the Nilgiris made of? (back: Bamboo, cane and thatch.); Why do builders wear strong shoes? (back: Nails and broken glass lie on the ground at a building site.); Why do you stand steadier with your feet wide apart? (back: Your legs and the floor make a triangle, and a triangle does not lean.); What does rigid mean? (back: Keeps its shape when pushed.); What is a joint in a frame? (back: The place where two parts meet and are fixed together.); What is a load? (back: The weight or push that a building or frame has to hold up.); Why do pandals have cross poles? (back: Wind pushes sideways. Cross poles make triangles, so the frame does not lean.); Name one thing builders do to keep a building safe in an earthquake. (back: Add braces, tie the walls together, or keep the roof light.)
+- **Printable cards: 16 question cards (question on the front, answer on the back):** A gate leans sideways. Where should a plank go to stop it? (back: From one corner to the opposite corner. That splits the gate into two triangles.); Why do bhungas in Kutch have light roofs? (back: Shaking pushes a light roof less, and a light roof does much less harm if it falls.); Why are the mud walls in Ladakh so thick? (back: Thick mud is slow to heat up and slow to cool down, so rooms stay warm on cold nights.); Why would a flat roof be a bad idea in Kerala? (back: Heavy monsoon rain would stand on it in puddles and soak through.); What is laterite, the stone in many old Kerala walls? (back: A reddish stone cut from the ground.); Why are bands of concrete or wood tied round the walls in earthquake areas? (back: So the walls move together as one piece and do not fall apart.); What is special about a Mangalore roof tile? (back: It has grooves that lock it to the tiles next to it.); What do families in Ladakh use a flat roof for? (back: Drying apricots and storing hay.); What are Toda huts in the Nilgiris made of? (back: Bamboo, cane and thatch.); Why do builders wear strong shoes? (back: Nails and broken glass lie on the ground at a building site.); Why do you stand steadier with your feet wide apart? (back: Your legs and the floor make a triangle, and a triangle does not lean.); What does rigid mean? (back: Keeps its shape when pushed.); What is a joint in a frame? (back: The place where two parts meet and are fixed together.); What is a load? (back: The weight or push that a building or frame has to hold up.); Why do pandals have cross poles? (back: Wind pushes sideways. Cross poles make triangles, so the frame does not lean.); Name one thing builders do to keep a building safe in an earthquake. (back: Add braces, tie the walls together, or keep the roof light.)
 - **Printable score sheet: Builder's sheet:** My place:; Roof:; Walls:; Something extra:; Why my house suits my place:
 - **s1 (3 min)**  
   *Parent does:* 1. Each player takes a place card. 2. Spread the building cards face up. 3. Put the question cards in a pile.  
@@ -213,14 +213,14 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
   *Parent does:* Each player who has three cards explains their house. The others say whether they agree.  
   *Parent says:* Tell us why your house suits your place. Which card would be a bad choice there?  
   *Child mode:* Say why your house suits your place. Which card would be bad there?
-  - Check: Which house would suit a place with very heavy monsoon rain? → **A steep tiled roof**
+  - Check: Which roof would suit a place with very heavy monsoon rain? → **A steep tiled roof**
 ### g2 · Lean or Stand? a quick sorting game (10 min)
-- **rules:** Shuffle the cards and place them face down.; Take turns. Turn the top card over, keeping the back hidden, and read the shape aloud. The other player says 'lean' or 'stand' before you count to three, then checks the back.; Check: can the shape be split completely into triangles by its strips? Then it stands. If not, it leans.; A right answer scores one point. The game ends when the cards run out, and the most points wins. Playing alone, read each card to yourself, answer, check the back, and try to beat your own score.
+- **rules:** Shuffle the cards and place them face down.; Take turns. Turn the top card over, keeping the back hidden, and read the shape aloud. The other player says 'lean' or 'stand' before you count to three, then checks the back.; To check an answer, ask: do the strips split the shape completely into triangles? If they do, it stands. If not, it leans.; A right answer scores one point. The game ends when the cards run out, and the most points wins. Playing alone, read each card to yourself, answer, check the back, and try to beat your own score.
 - **Printable cards: 14 frame cards (the shape on the front, the answer on the back):** a square (back: LEAN. Its corners can turn.); a triangle (back: STAND. Three fixed sides make only one shape.); a square with one diagonal strip (back: STAND. The strip splits it into two triangles.); a rectangle (back: LEAN. Its corners can turn.); a rectangle with a cross of two diagonal strips (back: STAND. It is four triangles.); a row of three squares (back: LEAN. Every square can turn into a diamond.); a row of three triangles (back: STAND. Every part is a triangle.); a ladder-shaped frame: two long sides joined by three rungs (back: LEAN. The rungs make rectangles.); a gate with no diagonal plank (back: LEAN. It is only a rectangle.); a gate with a diagonal plank (back: STAND. The plank is a brace.); a tall thin rectangle (back: LEAN. A tall rectangle still has turning corners.); a pentagon (five sides) (back: LEAN. It has no strips inside.); a pentagon with two diagonal strips from one corner (back: STAND. The strips split it into three triangles.); a hexagon (six sides) (back: LEAN. It has no strips inside.)
 - **s1 (2 min)**  
   *Parent does:* Remind your child of the Push Test, and shuffle the cards face down.  
-  *Parent says:* Remember the card square you pushed? Did it lean or stand? Now we will guess for other shapes.  
-  *Child mode:* Remember your card square? Did it lean or stand? Now guess for other shapes.
+  *Parent says:* In the Push Test you pushed a card square. Did it lean or stand? Now we will guess for other shapes.  
+  *Child mode:* In the Push Test you pushed a card square. Did it lean or stand? Now guess for other shapes.
 - **s2 (6 min)**  
   *Parent does:* Take turns turning the cards over. The other player answers before you count to three.  
   *Parent says:* Lean or stand? Quick!  
@@ -236,7 +236,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 ### e1 · The Push Test: square frame or triangle frame? (40 min)
 - **question:** When we push the top of a frame sideways, which shape keeps its shape best: a square, a triangle, or a square with one strip from corner to corner?
 - **predict:** Look at the strips. A square uses four strips and a triangle uses only three. Which frame do you think will lean the most when you push it? Which will lean the least? Why do you think so?
-- **fair test:** Use the same kind of strips, the same pins and the same push for every frame. Only the shape changes. Hold the bottom strip still each time. Push each frame 3 times, because one push can be a fluke.
+- **fair test:** Use the same kind of strips, the same pins and the same push for every frame. Only the shape changes. Hold the bottom strip still each time. Push each frame 3 times, because one push on its own can give an odd result.
 - **safety:** A grown-up makes the holes with the compass point or a sharp pencil, pressing the card onto an eraser. Keep split pins away from babies, who may swallow them.
 - **record:** Fill in the table. Then draw the three frames, before and after the push, and write one sentence under each drawing.
 - **results table:** Frame | My guess: will it lean? (a lot, a little, not at all) | Push 1: how far the top corner moved (cm) | Push 2 (cm) | Push 3 (cm) | Did it fold flat? (yes or no)
@@ -260,10 +260,10 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
   *Parent does:* 1. Lay the square flat on the table. 2. Tape its bottom strip down firmly. 3. Lay the ruler beside the top strip, with 0 at the top left corner. 4. Push the top strip sideways with one finger, gently. 5. Read how far the corner moved.  
   *Parent says:* Push the top strip sideways, about as hard as you press a doorbell. Watch the ruler. How many centimetres did the corner move?  
   *Child mode:* Tape the bottom strip down. Push the top strip sideways, gently. Read the ruler. How far did the corner move?
-  - Note: The square will lean into a diamond and keep going until it is almost flat. The corner usually moves 10 to 14 cm. Lift it back to a square before each push. Write all three pushes.
+  - Note: The square will lean into a diamond and keep going until it is almost flat. The corner usually moves 10 to 14 cm. Lift it back to a square before each push. Write down all three measurements.
 - **s5 (5 min)**  
   *Parent does:* 1. Untape the square. 2. Tape the triangle's bottom strip down. 3. Push the top corner sideways in the same way, three times. 4. Measure each time.  
-  *Parent says:* Now the triangle. Same push, same ruler. Watch the corner closely.  
+  *Parent says:* Now push the triangle. Use the same push and the same ruler. Watch the top corner closely.  
   *Child mode:* Now push the triangle the same way, three times. Measure how far the corner moves.
   - Note: The triangle's top corner should move less than 1 cm, only as much as the loose holes allow. If the card bends, use thicker card. A triangle that slides across the table needs its bottom strip taped more firmly.
   - Check: When you pushed the triangle, why did it not lean like the square? → **To lean, one of its sides would have to get longer or shorter**
@@ -274,7 +274,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
   - Note: The long strip is 25 cm, so it reaches past both corners. Hold the square straight while you mark, so the brace fits exactly. The pins at the two corners now hold three layers each, so open them flat but keep them loose.
 - **s7 (2 min)**  
   *Parent does:* Push the braced square three times, the same way, and measure.  
-  *Parent says:* Same push again. How far does the corner move now?  
+  *Parent says:* Push it the same way again. How far does the corner move now?  
   *Child mode:* Push the square with the long strip. Measure how far it moves.
   - Note: It should now move less than 1 cm, like the triangle. The long strip has turned the square into two triangles. This strip is called a brace.
 - **s8 (5 min)**  
@@ -295,12 +295,12 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
   *Parent says:* This tray is our roof. Rain falls on it. Where will the water go if the roof is flat? Where will it go if we tilt it?  
   *Child mode:* The tray is a roof. Will rain run off a flat roof? What about a tilted one?
 - **s2 (3 min)**  
-  *Parent does:* Ask for a guess for each slope: flat, one book and four books. Write the guesses in the table.  
+  *Parent does:* Ask for a guess for each slope: the tray flat, with one book under the high end, and with four books under the high end. Write the guesses in the table.  
   *Parent says:* Which roof will be dry first? Will any water stay on the flat roof? Why do you think so?  
   *Child mode:* Guess which roof will be dry first. Will water stay on the flat one? Why?
   - Note: Accept any guess with a reason. Do not explain yet.
 - **s3 (12 min)**  
-  *Parent does:* 1. Pour 4 spoons of water onto the middle of the flat tray. 2. Start the stopwatch. 3. Stop it when no drop has fallen for 5 seconds, or after 60 seconds. 4. Wipe dry. 5. Repeat with one book, then four books. Do each slope twice.  
+  *Parent does:* 1. Pour 4 spoons of water onto the middle of the flat tray. 2. Start the stopwatch. 3. Stop it when no drop has fallen for 5 seconds, or after 60 seconds. 4. Wipe the tray dry. 5. Repeat with one book under the high end of the tray, then with four books. Do each slope twice.  
   *Parent says:* Pour slowly, all in the same place. Start the clock now. Tell me when the drips stop.  
   *Child mode:* Pour 4 spoons in the middle. Start the clock. Stop it when the drips stop.
   - Note: On a flat tray, most of the water stays in a puddle, so write 'more than 60' and 'yes'. If your tray is very smooth, some water may creep over the edge: write what you really see. On one book, water runs slowly and some drops stay behind. On four books, it runs off in a few seconds.
@@ -323,7 +323,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **results table:** Roof | How the tiles overlap | My guess: will the tissue get wet? | Try 1: wet spots on the tissue | Try 2: wet spots on the tissue
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Cut a gap 3 cm wide down the middle of each card. Start 2 cm below the top and stop 2 cm above the bottom. 2. Tape 4 plastic tiles in rows across each card, over the gap. Overlap them by 2 cm.  
-  *Parent says:* The slit in the card is like the gaps in a real roof. If water gets through the tiles, it will drip through the slit onto the tissue.  
+  *Parent says:* The gap in the card is like the gaps in a real roof. If water gets through the tiles, it will drip through the gap onto the tissue.  
   *Child mode:* A grown-up cuts a gap in each card. Tape 4 plastic tiles across each card, over the gap, in rows.
   - Note: On roof A, start taping at the bottom: tape the lowest tile first, then lay each higher tile so it covers the top 2 cm of the one below. On roof B, start at the top, so each lower tile covers the bottom 2 cm of the one above. Tape each tile along its two short sides only, onto the edge of the card, so water can run over or under the tile edges.
 - **s2 (3 min)**  
@@ -362,20 +362,20 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **record:** Draw five triangles you found. Under each, write what it holds up.
 - **s1 (8 min)**  
   *Parent does:* 1. Look at stools, a cloth-drying stand, shelf brackets, a ladder and the ironing board. 2. Look out of the window at towers, cranes and roofs. 3. Draw each triangle you find.  
-  *Parent says:* Remember how the triangle frame would not lean? Builders know that too. Let's find triangles that are holding something up.  
+  *Parent says:* In the Push Test, the triangle frame would not lean. Builders know that too. Let's find triangles that are holding something up.  
   *Child mode:* Find triangles that hold something up. Look at home and out of the window. Draw them.
   - Note: Good finds: the bracket under a shelf, the legs of a folding stand, the A-shaped legs of a step ladder, a mobile tower, a crane, the steel roof of a bus stand or a railway station.
 - **s2 (7 min)**  
   *Parent does:* Look at photos of the Howrah Bridge in Kolkata, or a railway bridge near you. Count the triangles on one side.  
   *Parent says:* This is the Howrah Bridge in Kolkata. Its sides are made of steel triangles. Why do you think the builders used so many?  
-  *Child mode:* Look at a photo of a steel bridge. Count the triangles. Why so many?
+  *Child mode:* Look at a photo of a steel bridge. Count the triangles. Why are there so many?
   - Check: Why does a steel bridge have triangles along its sides? → **Triangles keep their shape, so the bridge does not lean or sag**
 ### a3 · Homes of India: match the house to the place (15 min)
 - **record:** Stick or draw each house next to its place, with one reason.
 - **s1 (10 min)**  
   *Parent does:* 1. Lay out the six place cards: Kerala, Assam, Ladakh, Kutch, the Nilgiris, Chennai. 2. Read your child one home from the parent notes, without the place. 3. Ask which place it suits, and why. Do all six.  
   *Parent says:* Each of these homes suits its place. Which one is from the place with floods? Which is from the cold desert? How can you tell?  
-  *Child mode:* Listen to a home. Which place does it suit? Why?
+  *Child mode:* Listen while a home is read out. Which place does it suit? Why?
   - Note: Kerala: steep tiled roof, heavy rain. Assam: bamboo house on stilts, floods. Ladakh: flat mud roof and thick mud walls, very little rain and cold nights. Kutch: round bhunga with a light roof, earthquakes and heat. Nilgiris: the Toda hut with a rounded thatch roof, cool hills. Chennai: a block of flats, many people and little land.
 - **s2 (5 min)**  
   *Parent does:* Ask why a family in a city lives in a block of flats.  
@@ -393,13 +393,13 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **s2 (4 min)**  
   *Parent does:* Think about a builder, or look at a photo of builders on a phone or in a book. Ask why each piece of gear is needed.  
   *Parent says:* Why does a builder wear a hard helmet? Why strong boots? Why a harness when working high up?  
-  *Child mode:* Look at the builder. Why the helmet? Why the boots? Why the harness?
+  *Child mode:* Think about a builder. Why does a builder wear a helmet? Why strong boots? Why a harness?
   - Check: Why do builders wear strong boots? → **Nails and broken glass lie on the ground at a building site**
 ### a5 · Who Else Builds a Home? (15 min)
 - **safety:** If a crow or pigeon is nesting near your window, watch from a distance and do not touch the nest.
 - **record:** Draw one animal home and write what problem that home solves.
 - **s1 (10 min)**  
-  *Parent does:* Look at the weaver nest photo first. Ask what danger the bird has, and how the nest helps.  
+  *Parent does:* Look at the weaver nest photo first. Ask what danger the bird faces, and how the nest helps.  
   *Parent says:* Snakes and other hunters eat eggs and chicks. So where does the baya weaver hang his nest? Where is the door?  
   *Child mode:* Snakes eat eggs. Where does the weaver hang his nest? Where is the door?
   - Note: The male baya weaver hangs the nest from a thin branch, often over water, with the entrance as a long tube opening downwards. Females inspect the nests and choose one. Crows in cities often build nests of twigs and even bits of wire.
@@ -421,11 +421,11 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
   - Note: Rolling from the corner gives a long, thin, strong stick about 80 cm long. Share the rolling. Aim for sticks of about the same length. To make a longer pole, slide the thin end of one stick into the end of another and tape it.
 - **s2 (15 min)**  
   *Parent does:* 1. Tape four sticks into a square and three into a triangle. 2. Stand each upright and push the top gently.  
-  *Parent says:* Remember the card frames? Let's see if big newspaper frames behave the same way.  
+  *Parent says:* In the Push Test, the card square leaned and the card triangle did not. Let's see if big newspaper frames behave the same way.  
   *Child mode:* Make a big square and a big triangle. Push each one. What happens?
   - Note: The square will lean, just like the card one. The taped corners hold a little, but still bend.
 - **s3 (35 min)**  
-  *Parent does:* Day 2: 1. Make 8 long poles by joining two sticks each, about 150 cm. 2. Tape four poles into a square on the floor. 3. Tape the other four from the corners up to meet at the top, like a pyramid. 4. Leave a gap on one side for a door.  
+  *Parent does:* Day 2: 1. Make 8 long poles, each about 150 cm long, by joining two sticks for each pole. 2. Tape four poles into a square on the floor. 3. Tape the other four from the corners up to meet at the top, like a pyramid. 4. Leave a gap on one side for a door.  
   *Parent says:* Let's build our hut from triangles. Each side is a triangle. Where will the door be?  
   *Child mode:* Join your triangles into a hut. Leave a gap for the door.
   - Note: Each sloping side is already a triangle, but the square base can lean. Add a stick from corner to corner across the base, or a brace on each side. This hut is about 1.5 metres across, which is big enough for a child to sit inside. Sticks used: 16 for the poles, so you have 14 spare for braces.
@@ -442,14 +442,14 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **your turn:** Now design your own tower. Draw it first, build it, then test it in the fan's wind. Change one thing and test again.
 - **constraints:** Use only 10 sheets of newspaper and 1 metre of tape.; The tower must stand on its own, with nothing holding it.; Put the fan on its highest speed, 1 metre away.
 - **general:** Roll the newspaper into sticks and tape them into a tower of triangles.; Make the base wide and the top narrow, like a mobile tower.; Add braces across each side so the tower cannot lean.
-- **creative:** Make the tower a hollow tube with diagonal strips on the outside, like Fazlur Rahman Khan's John Hancock Center.; Leave gaps in the sides so the wind can pass through, as it does through a steel tower.; Fold paper into a fan shape for the walls, because folds make paper stiff.
+- **creative:** Make the tower a hollow tube with diagonal strips on the outside, like the John Hancock Center in Chicago, where the engineer Fazlur Rahman Khan put diagonal braces across the outside.; Leave gaps in the sides so the wind can pass through, as it does through a steel tower.; Fold paper into a fan shape for the walls, because folds make paper stiff.
 - **s1 (5 min)**  
   *Parent does:* 1. Hold one rolled newspaper stick upright by its bottom end, in front of the fan. 2. Switch the fan on.  
   *Parent says:* Let's see the problem first. What does the wind do to a single stick?  
   *Child mode:* Hold one stick upright by its bottom end. Turn on the fan. What happens?
 - **s2 (5 min)**  
   *Parent does:* Draw three tower ideas together before building.  
-  *Parent says:* Engineers draw before they build. What shapes did we learn are good at not leaning?  
+  *Parent says:* Engineers draw before they build. Which shapes are good at not leaning?  
   *Child mode:* Draw three ideas for a tower. Use what you learned about triangles.
 - **s3 (20 min)**  
   *Parent does:* 1. Build the best idea. 2. Measure its height. 3. Test it in the fan for 30 seconds. 4. Improve it and test again.  
@@ -477,7 +477,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
   *Child mode:* Build your house. Put the tissue inside. Flood the tray. Is the tissue dry?
   - Note: Stilts often lean when the water pushes them. Braces between the stilts fix that. Mop up spills straight away.
 - **s3 (5 min)**  
-  *Parent does:* Ask what worked and what they would change.  
+  *Parent does:* Ask your child what worked and what they would change.  
   *Parent says:* What kept the floor dry? What would you change for a bigger flood?  
   *Child mode:* What kept your house dry? What would you change?
   - Note: A strong answer explains that raising the floor above the water keeps it dry, and that stilts need braces.
@@ -498,17 +498,17 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
    **Answer:** Steep tiled roof → Kerala, very heavy rain; Bamboo house on stilts → Assam, yearly floods; Flat mud roof and thick walls → Ladakh, cold and very little rain; Round mud house with a light roof → Kutch, heat and earthquakes. *Why:* Each house suits the weather and dangers of its place.
 6. (sort) Sort these building materials. Did they come from nature with little change, or were they made in a factory?  
    **Answer:** mud → From nature; bamboo → From nature; glass → Made in a factory; stone → From nature; cement → Made in a factory; dry grass for thatch → From nature; steel rods → Made in a factory. *Why:* Mud, bamboo, stone and grass are used almost as they are found. Glass, cement and steel are made by heating materials from nature in factories.
-7. (write) Kavya, a girl in Class 3, says, "My card square folded, so the card must be weak." What would you tell her?  
+7. (write) Someone says, "My card square folded, so the card must be weak." What would you tell them?  
    **Answer:** The card is not weak. The triangle was made of the same card and it did not fold. The square folds because its corners can turn, so its shape can change without any strip bending.. *Why:* A strong answer uses the triangle as evidence that the material is the same, and says the shape is the reason.
 8. (draw) Draw a square frame. Then draw one strip that stops it leaning. Colour the two triangles it makes.  
    **Answer:** A square with one diagonal from one corner to the opposite corner, with the two triangles coloured.. *Why:* A strong drawing puts the brace from corner to corner, not across the middle of a side.
-9. (mcq) In your card frame, what is each split pin?  
+9. (mcq) In the card frames of the Push Test, what is each split pin?  
    Options: A brace / A joint, where two strips meet / A load  
    **Answer:** A joint, where two strips meet. *Why:* A joint is the place where two parts of a frame meet and are fixed together.
 10. (label) Label the parts of this house: roof, wall, frame, brace, door.  
    **Answer:** ['roof', 'wall', 'frame', 'brace', 'door']. *Why:* A strong answer puts the brace across the frame from corner to corner.
 11. (truefalse) On a model roof, rain runs off faster when the roof is steep.  
-   **Answer:** True. *Why:* True. Water flows downhill, so it runs off a steep roof faster. On a flat tray, it stayed in a puddle.
+   **Answer:** True. *Why:* True. Water flows downhill, so it runs off a steep roof faster. In the Rain on the Roof test, water stayed in a puddle on the flat tray.
 12. (mcq) What is the load on a roof?  
    Options: The weight and push it has to hold up, such as its own weight and rain / The tiles on its edge / The door below it  
    **Answer:** The weight and push it has to hold up, such as its own weight and rain. *Why:* A roof's load is its own weight, plus rain, and people or water tanks on top.
@@ -523,7 +523,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
    **Answer:** On roof A, each higher tile overlaps the one below it, so water runs from the top of one tile onto the outside of the next and off the edge. On roof B, each lower tile overlaps the one above, so water runs into the edge of each tile, under it, and through the gap.. *Why:* A strong answer follows the water down the roof and says where it got in.
 2. (perspective) A family in Chennai is building a new house.  
    **Answer:** A strong answer picks a side and backs it with a fact, such as concrete's strength, a jaali wall's breeze, or the Push Test showing braces matter. It then admits a fair point from another side, because each choice has real costs and gains.. *Why:* There is no single right answer. Builders and architects really disagree about this.
-3. (mcq) Mythili, a girl in Class 4, adds a strip across her square frame, from the middle of the top to the middle of the bottom. Will it stop the square leaning?  
+3. (mcq) You add a strip across a square frame, from the middle of the top to the middle of the bottom. Will it stop the square leaning?  
    Options: Yes, any extra strip stops leaning / No, it makes two smaller rectangles, which can still lean / Only if the strip is thicker  
    **Answer:** No, it makes two smaller rectangles, which can still lean. *Why:* A strip from the middle of the top to the middle of the bottom makes two smaller rectangles, not triangles. Rectangles still lean. The brace must go from corner to corner.
 4. (draw) Draw a side view of a roof with four tiles overlapping the right way. Add arrows to show where rain runs.  
@@ -536,7 +536,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 7. (sort) Sort these. Will each one keep its shape when pushed, or lean?  
    **Answer:** a gate with a diagonal plank → Keeps its shape; a gate with no diagonal plank → Leans; a shelf bracket fixed to a wall → Keeps its shape; a square of four sticks → Leans; a triangle of three sticks → Keeps its shape; a tall rectangle shelf with no back → Leans. *Why:* Anything split completely into triangles keeps its shape. A shape with four or more sides and no braces can lean.
 8. (truefalse) In an earthquake, the ground pushes a building mostly sideways, not only down.  
-   **Answer:** True. *Why:* True. Shaking moves the ground from side to side, so walls and frames are pushed sideways, like your push on the card square.
+   **Answer:** True. *Why:* True. Shaking moves the ground from side to side, so walls and frames are pushed sideways, like the push on the card square in the Push Test.
 9. (label) Label the parts of a baya weaver's nest: branch, nest room, entrance tube, water below.  
    **Answer:** ['branch', 'nest room', 'entrance tube', 'water below']. *Why:* A strong answer shows the entrance tube at the bottom, which makes it hard for snakes to get in.
 10. (mcq) Laurie Baker's rat-trap bond lays bricks on their edges, with a gap inside the wall. What does the gap do?  
@@ -544,13 +544,13 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
    **Answer:** Saves bricks and keeps the room cooler. *Why:* The air gap means fewer bricks are needed, and still air slows heat coming through the wall. The name comes from the shape of the brick pattern, not from rats.
 11. (fill) A frame that keeps its shape when pushed is called ____.  
    **Answer:** ['rigid']. *Why:* Rigid means it does not lean or fold. A triangle is rigid.
-12. (write) Meera, a girl in Class 3, says the pandal in the story leaned because Arun's knots were loose. Is she right? What really happened?  
-   **Answer:** No. Not one knot came undone and no pole broke. The pandal leaned because its frame was made of squares, which can lean when their corners turn. The cross poles made triangles and stopped it.. *Why:* A strong answer uses the story's evidence and names the missing triangles.
+12. (write) A pandal made of poles tied into squares leans over in the wind. No knot came undone and no pole broke. Someone says the knots must have been loose. Are they right? What really made the pandal lean, and how could you fix it?  
+   **Answer:** No. The knots held and the poles did not break. The pandal leaned because its frame was made of squares, which can lean when their corners turn. Tying cross poles from corner to corner makes triangles, and that stops it leaning.. *Why:* A strong answer uses the evidence that nothing broke and names the missing triangles.
 13. (order) Put these roofs in order, from the one where 4 spoons of water stopped dripping first to the one where it stayed longest.  
    **Answer:** ['a tray on four books', 'a tray on one book', 'a flat tray']. *Why:* The steeper the roof, the faster the water ran off. On the flat tray it stayed in a puddle.
 14. (match) Match each safety gear to why a builder wears it.  
    **Answer:** Hard helmet → protects the head from falling things; Strong boots → protect the feet from nails and glass; Harness → stops a fall when working high up; Bright jacket → helps truck and crane drivers see the worker. *Why:* Each piece of gear stops one common way of getting hurt.
-15. (mcq) Thilaga, a girl in Class 3, wants a light frame for a balcony tent. Which one will stay up best in the wind?  
+15. (mcq) You want a light frame for a balcony tent. Which one will stay up best in the wind?  
    Options: Four sticks in a square / Sticks in triangles, with a brace on each side / One tall stick in the middle  
    **Answer:** Sticks in triangles, with a brace on each side. *Why:* Triangles and braces stop the frame leaning in a sideways push from the wind. A square can fold, and one stick can tip over.
 ### Building Big Ideas (challenge) (challenge, 15 questions)
@@ -560,7 +560,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
    **Answer:** A strong answer chooses one side with a real reason, for example that the bhungas stood in 2001, or that well-built concrete can be tall and strong. It then admits a fair point: how well a house is built matters more than the material.. *Why:* Both views are held by real experts. A strong answer shows it understands the trade-off.
 3. (mcq) Fazlur Rahman Khan put huge diagonal braces on the outside of the John Hancock Center in Chicago. What did they do?  
    Options: They held up the windows / They made giant triangles, so the tower did not lean in the wind, using less steel / They made the building heavier, so wind could not push it  
-   **Answer:** They made giant triangles, so the tower did not lean in the wind, using less steel. *Why:* The diagonals made giant triangles across the outside walls. Triangles cannot lean, so the whole building stayed stiff, and it used about as much steel for each floor as a 50-storey building.
+   **Answer:** They made giant triangles, so the tower did not lean in the wind, using less steel. *Why:* The diagonals made giant triangles across the outside walls. Triangles cannot lean, so the whole building stayed stiff. The tower has 100 storeys, but it used only about as much steel for each floor as an ordinary 50-storey building.
 4. (draw) Design a balcony shelter for a pigeon or a crow, using only sticks and string. Draw it and mark every triangle in red.  
    **Answer:** Any shelter whose frame is split into triangles, with a roof sloping to shed rain, and an opening for the bird.. *Why:* A strong design uses triangles or braces in every side and a sloping roof, and thinks about what the bird needs.
 5. (write) A Toda hut in the Nilgiris has a very small door. The Nilgiris are cool and misty. What problem do you think the small door solves for the family?  
@@ -570,7 +570,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
    **Answer:** 3. *Why:* Three strips from one corner to three far corners split a six-sided shape into four triangles. With fewer, a four-sided part is left, and it can lean.
 7. (truefalse) In a city, building tall blocks of flats lets many families live on a small piece of land.  
    **Answer:** True. *Why:* True. Building upwards puts many homes on the same ground, which matters where land is scarce and costly.
-8. (write) Your square frame and your triangle frame used the same card and the same pins. What does that show about where a frame's strength comes from?  
+8. (write) In the Push Test, the square frame and the triangle frame used the same card and the same pins. What does that show about where a frame's strength comes from?  
    **Answer:** It shows strength does not come only from the material. The shape and the way the parts are joined matter too. The same card was floppy as a square and firm as a triangle.. *Why:* A strong answer uses the Push Test as evidence and separates the material from the shape.
 9. (sort) Sort these homes by the main danger they are built to handle.  
    **Answer:** a steep tiled Kerala house → Heavy rain; a bamboo house on stilts in Assam → Floods; a round bhunga in Kutch → Earthquakes; a Toda hut with a small door → Cold; a thatched house with a steep roof → Heavy rain; a thick-walled Ladakh house → Cold. *Why:* Each home's shape answers the biggest problem of its place.
@@ -581,7 +581,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
    **Answer:** Ladakh gets very little rain, so water rarely stands on the roof. *Why:* Ladakh is a cold desert with very little rain, so a flat roof rarely holds water. Some snow falls, but it is light. In Kerala, heavy rain would stand on a flat mud roof and soak in.
 12. (write) The baya weaver hangs his nest over water, with the door at the bottom. What problem does he have, and how does the nest solve it?  
    **Answer:** His problem is that snakes and other hunters eat eggs and chicks. The nest hangs from a thin branch, often over water, which a snake finds hard to reach. The door is a long tube opening downwards, which makes it very hard to climb in.. *Why:* A strong answer names the bird's problem first, then how each feature of the nest helps.
-13. (fill) The most common causes of death in an earthquake are buildings and roofs ____ on people.  
+13. (fill) Most deaths in an earthquake are caused by buildings and roofs ____ on people.  
    **Answer:** ['falling']. *Why:* Most people are hurt by falling buildings, not by the shaking itself. That is why light roofs and braces save lives.
 14. (order) Put these in order, from the frame that leans most to the one that leans least when pushed.  
    **Answer:** ['a square', 'a square with one loose, wobbly brace', 'a triangle']. *Why:* A square leans freely. A loose brace stops some leaning but lets the frame wobble. A triangle with firm joints barely moves.
@@ -603,9 +603,9 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 3. (mcq) Why can a triangle frame not lean?  
    Options: It is made of stronger card / To lean, one side would have to change length / It is smaller than a square  
    **Answer:** To lean, one side would have to change length. *Why:* Three fixed lengths make only one shape. The card was the same in both frames, so the material is not the reason.
-4. (mcq) Ananya, a girl in Class 3, has a wobbly square frame. Where should she add a strip to stop it leaning?  
+4. (mcq) A square frame is wobbly. Where should you add a strip to stop it leaning?  
    Options: From one corner to the opposite corner / Along the bottom / Across the middle, side to side  
-   **Answer:** From one corner to the opposite corner. *Why:* A strip from corner to corner, a brace, makes two triangles. Along the bottom or across the middle leaves shapes that can still lean.
+   **Answer:** From one corner to the opposite corner. *Why:* A strip from corner to corner, called a brace, makes two triangles. A strip along the bottom or across the middle leaves shapes that can still lean.
 5. (mcq) Which of these is built from many triangles?  
    Options: A mobile phone tower / A brick wall / A glass window  
    **Answer:** A mobile phone tower. *Why:* A mobile tower is a truss of steel triangles. A brick wall is a block, and a window is one sheet.
@@ -620,7 +620,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
    **Answer:** The water ran off the tilted tray fast and stayed on the flat one. *Why:* Water flows downhill. The steeper the slope, the faster it runs off.
 9. (mcq) How must roof tiles overlap to keep rain out?  
    Options: Each higher tile lies on top of the tile below / Each lower tile lies on top of the tile above / They should not overlap at all  
-   **Answer:** Each higher tile lies on top of the tile below. *Why:* Then water runs from one tile onto the outside of the next and never slips under an edge. In the tile test, the other way let water through.
+   **Answer:** Each higher tile lies on top of the tile below. *Why:* When each higher tile lies on top, water runs from one tile onto the outside of the next and never slips under an edge. In the tile test, the other way let water through.
 10. (mcq) Why does a builder working high up wear a harness?  
    Options: To look smart / So that a slip does not become a fall / To carry bricks  
    **Answer:** So that a slip does not become a fall. *Why:* Falls are one of the biggest dangers on a building site. A harness tied to something strong catches the worker.
@@ -681,9 +681,9 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 
 ## Connected maths
 - In the Push Test, the top corner of the square moved 12 cm. The top corner of the triangle moved half a centimetre. How many centimetres further did the square's corner move? **11 and a half centimetres further.**. 12 cm take away half a centimetre is 11 and a half centimetres. The square leaned more than 20 times as far as the triangle. (queues `math.addition-subtraction.word-problems.L3`)
-- Divya, a girl in Class 3, wants to build 4 card triangles. Each triangle needs 3 strips. How many strips does she need? **12 strips.**. 4 triangles with 3 strips each is 3 + 3 + 3 + 3 = 12. Or 4 times 3 is 12. (queues `math.multiplication.equal-groups.L3`)
+- You want to build 4 card triangles. Each triangle needs 3 strips. How many strips do you need? **12 strips.**. 4 triangles with 3 strips each is 3 + 3 + 3 + 3 = 12. Or 4 times 3 is 12. (queues `math.multiplication.equal-groups.L3`)
 - A square frame needs 4 strips. A triangle needs 3. The brace on the square is 1 more strip. How many strips do you need for the whole Push Test? **8 strips.**. 4 + 3 + 1 = 8. You can add 4 and 3 to make 7, then add 1 to make 8. (queues `math.addition-subtraction.mental-strategies.L3`)
-- In the Rain on the Roof test, water stopped dripping after 4 seconds on four books, 20 seconds on one book, and still stood in a puddle after 60 seconds on the flat tray. How many times as long did the water take on one book as on four books? **5 times as long.**. 20 seconds divided by 4 seconds is 5. So the gentler slope took 5 times as long. Check: 4 + 4 + 4 + 4 + 4 = 20. (queues `math.division.sharing-and-grouping.L3`)
+- In the Rain on the Roof test, the water stopped dripping after 4 seconds when the tray was on four books, and after 20 seconds when it was on one book. On the flat tray, it still stood in a puddle after 60 seconds. How many times as long did the water take on one book as on four books? **5 times as long.**. 20 seconds divided by 4 seconds is 5. So the gentler slope took 5 times as long. Check: 4 + 4 + 4 + 4 + 4 = 20. (queues `math.division.sharing-and-grouping.L3`)
 - An ordinary wall needs about 100 bricks. A rat-trap bond wall of the same size needs about a quarter fewer. About how many bricks does the rat-trap wall need? **About 75 bricks.**. A quarter of 100 is 25, because 100 shared into 4 equal parts is 25 each. 100 take away 25 is 75. (queues `math.fractions.halves-and-quarters.L3`)
 - A pentagon frame has 5 sides. Two braces from one corner split it into triangles. How many triangles are there? Draw it to check. **3 triangles.**. Two strips from one corner reach the two far corners. They cut the five-sided shape into 3 triangles. A shape with 6 sides needs 3 braces and makes 4 triangles. The number of triangles is always 2 less than the number of sides. (queues `math.shapes-2d.recognising-shapes.L3`)
 

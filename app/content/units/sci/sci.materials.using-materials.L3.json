@@ -558,7 +558,7 @@
    "Abi-le said glass is cold. She was right. So why did the village still use glass?",
    "What did the dark mud wall do with the sunlight?",
    "Why did they need woollen curtains at night?",
-   "Dolma's idea came from her mother's kitchen and a bus. Where have you noticed something that could solve a problem?"
+   "Dolma's idea came from her mother's kitchen and a bus. What did each one show her?"
   ],
   "art": [
    "A small concrete schoolroom with a tin roof in a snowy Ladakh valley, children in caps and woollen robes huddled round a smoky stove.",
@@ -745,7 +745,8 @@
      "do": "Count the tokens. Then pick one job where two materials both worked, and talk about which you would really choose.",
      "say": "For the window, glass and clear plastic both work. Which would you choose, and why?",
      "kid": "Count your tokens. Who won? Now think of the window job. Glass or clear plastic? Why?",
-     "think": "Is there ever only one right material for a job? What else besides the property helps you choose?"
+     "think": "Is there ever only one right material for a job? What else besides the property helps you choose?",
+     "parent": "Often several materials work. Cost, weight, safety, how long it lasts and what happens to it afterwards also help you choose."
     }
    ],
    "setup": [
@@ -1130,7 +1131,7 @@
      "p": "Suppose you added a copper spoon to the Hot Spoon Race. Where would you expect its bar on the chart to be? Explain your guess.",
      "lines": 3,
      "a": "A strong answer says the copper bar would be the shortest, under 4 minutes. Copper is a metal and an even better conductor of heat than steel. So heat would reach the butter even faster.",
-     "why": "This uses the result to predict a new case. The child has not tested copper, so the answer should be a reasoned guess, and say how to check it.",
+     "why": "This uses the results to predict a new case. Copper has not been tested, so the answer is a reasoned guess. You could check it by adding a copper spoon to the race.",
      "how": "e1",
      "context": "In the Hot Spoon Race, you stick a blob of butter on the handle of a steel, a plastic and a wooden spoon. You stand them in hot water and time how long each blob takes to melt."
     },
@@ -1823,7 +1824,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. Does a sweater make heat? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three sentences: what you think now, what you saw, and why you think it happened.",
-     "parent": "A good answer sounds like this. What I think: a sweater does not make heat. It slows heat down, coming in or going out. What I saw: the ice in the sock lasted 95 minutes, but the bare ice melted in 40. Why: the sock is mostly air, and still air slows heat down.",
+     "parent": "A good answer sounds like this. What I think: a sweater does not make heat. It slows heat down, coming in or going out. The warmth you feel is your own body's heat, held near you. What I saw: the ice in the sock lasted 95 minutes, but the bare ice melted in 40. Why: the sock is mostly air, and still air slows heat down.",
      "think": "So why do you feel warm in a sweater? Where does that heat really come from?"
     }
    ],
@@ -1974,7 +1975,8 @@
      "do": "Extra test: compare the steel bottle wrapped in the wet hanky with the steel bottle that had no hanky.",
      "say": "Can we make the steel work like a clay pot? We gave one steel bottle a wet coat. Is its water cooler than the dry steel bottle's?",
      "kid": "Compare the wrapped steel bottle with the plain steel bottle. Is the water in the wrapped one cooler?",
-     "think": "Soldiers and travellers once carried water in canvas bags that were always a little wet. Why might that keep the water cool?"
+     "think": "Soldiers and travellers once carried water in canvas bags that were always a little wet. Why might that keep the water cool?",
+     "parent": "Water slowly seeps through the canvas and evaporates from the outside. Evaporation takes heat away, so the water inside stays cooler. This is the same idea as the clay pot."
     },
     {
      "id": "s5",
@@ -2075,7 +2077,8 @@
      "do": "1. Count how many objects were made of each material. 2. Make a tally. 3. Ask which material your home uses most, and why.",
      "say": "Which material did we find most often? Why do you think so many things are made of it?",
      "kid": "Count your objects. How many were plastic? How many steel? How many wood? Which material is used most in your home?",
-     "think": "Which object surprised you? Did anything use a material you did not expect?",
+     "think": "Which object was made of more than one material? What job did each material do?",
+     "parent": "For example, a pencil has wood to hold it, graphite to leave a mark and paint to keep the wood clean. Each material does the job its properties suit.",
      "chart": {
       "type": "table",
       "title": "Made-up example: tally of materials found in one home",
@@ -2369,7 +2372,8 @@
      "do": "Talk about how people copy the lotus leaf, and how they change materials to suit new jobs.",
      "say": "In 1997, two scientists in Germany explained why lotus leaves stay clean. Now some paints copy them. People also coat paper cups and cloth to make them waterproof.",
      "kid": "Scientists copied the lotus leaf to make self-cleaning paint! People also coat paper and cloth to make them waterproof. Where have you seen this?",
-     "think": "If you could copy one thing from a plant or animal, what would you copy? What would you make with it?"
+     "think": "The lotus leaf stays clean because drops roll off and take the dust with them. Why would a soft leaf not clean itself in the same way?",
+     "parent": "Water soaks into a soft leaf or spreads flat on it, so it cannot roll off. On a waxy leaf, the water stays in round drops that roll away and carry the dust with them."
     }
    ],
    "setup": [
@@ -2390,6 +2394,7 @@
   {
    "id": "a5",
    "title": "The Material Orchestra: why are bells made of metal?",
+   "problem": "When you tap something, it shakes, and the shaking makes sound. A hard metal keeps shaking for a long time, so it rings. A soft material soaks up the shaking, so it only thuds. In this activity you listen for the difference.",
    "mins": 15,
    "days": 1,
    "context": "In this activity you knock on different materials and listen. Some ring, some thud. Then you work out why bells, ghungroos and gongs are metal, and why soft materials are used to make rooms quiet.",
@@ -2449,7 +2454,8 @@
      "do": "Play a short tune together on the materials that ring. Use the ones that thud as a drum.",
      "say": "Music studios and cinema halls cover their walls with soft materials. Why do you think they do that?",
      "kid": "Play a tune with the ringing things. Use the thuds as a drum! Why do cinema halls have soft walls?",
-     "think": "Which is better for a library: hard stone walls or soft cloth walls? Why?"
+     "think": "Which is better for a library: hard stone walls or soft cloth walls? Why?",
+     "parent": "Soft cloth walls are better. They absorb sound, so the library stays quiet. Hard stone walls bounce the sound back, so a room echoes."
     }
    ],
    "setup": [
@@ -2470,6 +2476,7 @@
   {
    "id": "a6",
    "title": "Be the Atoms: why metal passes heat on",
+   "problem": "Heat is the jiggling of the tiny atoms in a material. In wood, heat passes along only when each atom nudges the next one. In a metal, some electrons are free to move, and they carry the heat along quickly. In this game, you act out both.",
    "mins": 15,
    "days": 1,
    "context": "This is an acting game. Players stand in a line as the atoms of a spoon. They pass 'heat' along, first like the atoms of wood, then like the atoms of a metal with free electrons. It shows why metals carry heat so fast.",
@@ -2528,7 +2535,8 @@
      "do": "Talk about how this matches the Hot Spoon Race, if you have done it.",
      "say": "In the Hot Spoon Race, the steel spoon's butter melted first. Now you know why. Its free electrons rushed the heat up the handle.",
      "kid": "In the Hot Spoon Race, steel won. Now you know why! Its free electrons ran the heat up the spoon.",
-     "think": "Metals also carry electricity, using the same free electrons. Can you think of something in your home that uses copper wire?"
+     "think": "Metals also carry electricity, using the same free electrons. Name something in your home that has copper wire inside.",
+     "parent": "Any answer with a wire works, such as a fan, a lamp, a mixer or a phone charger. Copper carries electricity well because of its free electrons."
     }
    ],
    "setup": [
@@ -2791,7 +2799,8 @@
       "a": 0,
       "why": "Thick fluffy wool traps lots of still air, which slows heat down. A lid stops heat escaping from the top. A steel wrap is a conductor, so it would carry heat away, not keep it in. Picking 'steel' usually means thinking 'strong' is the property that matters. Here the job needs an insulator."
      },
-     "think": "The same cosy could keep a cold drink cold. Why?"
+     "think": "The same cosy could keep a cold drink cold. Why?",
+     "parent": "A cosy slows heat in both directions. Around a cold drink, it slows the room's heat from reaching the drink."
     }
    ],
    "setup": [

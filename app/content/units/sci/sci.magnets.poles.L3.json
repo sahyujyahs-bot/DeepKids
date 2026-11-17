@@ -3,7 +3,7 @@
  "title": "Magnet poles: why two magnets attract or repel",
  "level": 3,
  "summary": {
-  "text": "Hold two magnets end to end. One way round, they snap together. Turn one round, and they push each other apart. Every magnet has two ends where its force is strongest, called poles: a north pole and a south pole. A north pole and a south pole attract each other. Two north poles, or two south poles, repel each other. Iron that is not a magnet is attracted by both poles, so only a magnet can repel a magnet. Cut a magnet in two, and each piece has its own north and south pole. Nobody has ever found a north pole on its own. In this unit you float two magnets on water and find out what a magnet that is free to turn does when it is pushed away.",
+  "text": "Hold two magnets end to end. One way round, they snap together. Turn one round, and they push each other apart. Every magnet has two ends where its force is strongest, called poles: a north pole and a south pole. A north pole and a south pole attract each other. Two north poles, or two south poles, repel each other. Iron that is not a magnet is attracted by both poles, so only a magnet can repel a magnet. Cut a magnet in two, and each piece has its own north and south pole. Nobody has ever found a north pole on its own. In this unit you float two magnets on water. You push one away and see what it does while it is free to turn.",
   "art": "Two bar magnets on a table, red north ends and blue south ends. One pair snaps together north to south. The other pair, north facing north, has a small gap and arrows pushing apart."
  },
  "intro": {
@@ -120,7 +120,7 @@
    "concept": "A magnet that is free to turn ends up attracting",
    "status": "defined",
    "definition": "When like poles face each other and one magnet is free to turn, it swings round until its other pole faces the first magnet. Then the two attract.",
-   "description": "Repelling pushes a magnet away, but it also twists it. Unless something holds the magnet straight, it turns round, so a north pole ends up facing a south pole. Then the two magnets come together. This is what you see when two magnets float on water. Scientists have shown that ordinary magnets on their own can never hold another magnet floating still in the air. Something else must hold it in place, like a pencil through ring magnets or a spinning top.",
+   "description": "Repelling pushes a magnet away, but it also twists it. Unless something holds the magnet straight, it turns round, so a north pole ends up facing a south pole. Then the two magnets come together. This is what you see when two magnets float on water. Scientists have shown that ordinary magnets on their own can never hold another magnet floating still in the air. Something else must stop the turning. A pencil through ring magnets does this. So does the fast spin of a spinning top.",
    "examples": [
     "Two floating magnets pushed north to north turn round and stick together.",
     "Ring magnets on a pencil float one above another. Pull the pencil out, and the top ring flips over and sticks."
@@ -146,7 +146,7 @@
    "concept": "Cut a magnet, and you get two magnets",
    "status": "defined",
    "definition": "If you cut or break a magnet, each piece has its own north pole and south pole.",
-   "description": "Inside a magnet, countless tiny magnets point the same way, each with its own north and south. The north pole of a magnet is just where the north ends of these tiny magnets come out at the surface. Cut the bar anywhere, and new poles appear at the cut, one north and one south. Even an electron, the tiniest magnet known, has a north and a south. Nobody has ever found a north pole on its own.",
+   "description": "Inside a magnet, countless tiny magnets point the same way, each with its own north and south. At one end of the bar, the north ends of all these tiny magnets point out through the surface. That end is the north pole. Cut the bar anywhere, and new poles appear at the cut, one north and one south. Even an electron, the tiniest magnet known, has a north and a south. Nobody has ever found a north pole on its own.",
    "examples": [
     "Cut a bendy fridge magnet strip in half. Both halves still stick to the fridge.",
     "Petrus Peregrinus broke a lodestone in 1269 and found that both pieces had a north and a south pole."
@@ -224,7 +224,7 @@
    "for": "Two magnets do stick together.",
    "against": "A steel spoon sticks to a magnet too, and it is not a magnet. Only repelling proves that something is a magnet.",
    "status": "rejected",
-   "context": "This card is about a common mistake when testing for magnets."
+   "context": "Some people test for a magnet by seeing whether something sticks to another magnet. A bar magnet picks up a steel spoon, and two magnets also stick together. Does sticking show that something is a magnet?"
   },
   {
    "claim": "You can cut a magnet so that one piece is all north and the other all south.",
@@ -232,7 +232,7 @@
    "for": "The north pole is at one end and the south pole at the other, so cutting in the middle seems to split them.",
    "against": "Every piece has both poles. New poles appear at the cut.",
    "status": "rejected",
-   "context": "This card is about what happens when a magnet is cut."
+   "context": "A bar magnet has its north pole at one end and its south pole at the other. This card asks what happens if you cut a magnet in the middle."
   },
   {
    "claim": "The north pole of a magnet is the stronger end.",
@@ -240,7 +240,7 @@
    "for": "Many sets paint the north end red, which looks more important.",
    "against": "Both poles of a bar magnet are equally strong. Test it: count the paper clips each end picks up.",
    "status": "rejected",
-   "context": "This card is about whether one pole is stronger."
+   "context": "Many magnet sets paint the north end red. This card asks whether the north end is the stronger end. You can test a pole's strength by counting how many paper clips it picks up."
   },
   {
    "claim": "The compass points to the Pole Star, or to iron mines in the far north.",
@@ -248,7 +248,7 @@
    "for": "The needle points north, where the Pole Star shines.",
    "against": "In 1269 Petrus Peregrinus argued that iron mines could not be the reason, because magnet stones are found in many lands. Later, William Gilbert showed that the Earth itself is a magnet.",
    "status": "rejected",
-   "context": "This card is about old ideas for why a compass points north."
+   "context": "A compass needle is a small magnet that always settles pointing north. In the Middle Ages, people argued about why it does this. This card is one of their ideas."
   },
   {
    "claim": "A wheel of magnets can turn forever and power a machine.",
@@ -256,7 +256,7 @@
    "for": "Magnets attract and repel without being pushed, so it seems they could keep a wheel turning.",
    "against": "Every such wheel stops. A magnet's force pulls a wheel forward in one place and holds it back in another, so it gives no free energy. Peregrinus also thought the iron teeth would be repelled, but iron is attracted by both poles.",
    "status": "rejected",
-   "context": "This card is about the dream of a magnet motor that runs forever."
+   "context": "A magnet motor is a wheel with magnets that is meant to keep turning by itself and do useful work. Magnets attract and repel without anyone pushing them. This card asks whether such a wheel could turn forever."
   },
   {
    "claim": "Single magnetic poles, monopoles, exist somewhere in the universe.",
@@ -264,7 +264,7 @@
    "for": "Some theories of physics predict them. One possible signal was seen in 1982.",
    "against": "No search since has found one, and that signal was never repeated.",
    "status": "debated",
-   "context": "This card is about whether a north pole can exist on its own."
+   "context": "So far, every magnet found has had both a north pole and a south pole. A monopole would be a north pole, or a south pole, on its own. This card asks whether monopoles exist."
   }
  ],
  "big_questions": [
@@ -535,6 +535,7 @@
    "days": 1,
    "context": "In this experiment you slide two bendy fridge magnets over each other and feel for bumps. The bumps tell you how many poles are hidden on the magnet's face.",
    "question": "Does a bendy fridge magnet have just one north pole and one south pole, like a bar magnet?",
+   "problem": "When you slide one flat magnet over another, you feel a bump each time the two faces switch from attracting to repelling. So the bumps let you count poles that you cannot see. In this experiment you count them.",
    "predict": "Guess first. Press two bendy fridge magnets face to face and slide one along. Will it slide smoothly, or will you feel bumps? Why do you think so?",
    "fair_test": "Slide the same two magnets across the same distance, 5 cm, at the same slow speed, with their edges lined up. Only change the direction: along the length, then across the width. Count the bumps 3 times each way.",
    "results_table": [
@@ -642,6 +643,7 @@
      "mins": 4,
      "do": "1. Try the printed sides together. 2. Try the paper clip on the printed side, then on the magnetic side.",
      "say": "Does the printed side of the magnet attract anything?",
+     "parent": "The printed side hardly attracts anything. The stripes of poles are on the magnetic face only, so the paper clip clings to that side and hardly at all to the printed side.",
      "kid": "Try the printed sides together. Try the paper clip on the printed side. Then on the magnetic side."
     },
     {
@@ -660,7 +662,7 @@
        ]
       }
      ],
-     "think": "A bar magnet has 2 poles. This flat magnet has many. Why might many poles hold better to a fridge?"
+     "think": "The stripes of poles are only on the magnetic face. Which side of a fridge magnet sticks to the fridge, and which side does not?"
     }
    ]
   }
@@ -905,6 +907,7 @@
    "mins": 15,
    "days": 1,
    "context": "In this drawing activity you draw what you think is inside a magnet, and what happens when it is cut in two.",
+   "problem": "Inside a magnet, countless tiny magnets all point the same way. Each tiny magnet has its own north and south end. In this activity you draw them, and then you cut the drawing in two to see which poles appear.",
    "materials": [
     {
      "item": "paper, a pencil, and red and blue crayons",
@@ -1019,7 +1022,7 @@
      "mins": 9,
      "do": "1. Everyone walks slowly. 2. The caller says 'Freeze' every 20 seconds. 3. Each player or chain looks at the nearest other player and says which poles face each other. 4. If the poles are unlike, join. If they are like, one side turns round on the spot, and you join.",
      "say": "Freeze! Look at the nearest magnet. Which of your poles face each other? Do they attract or repel?",
-     "kid": "Walk slowly. On 'Freeze', look at the nearest player. Does your front face their back? Hold their shoulders! Front to front, or back to back? One of you turns round, then you join.",
+     "kid": "Walk slowly. When you hear 'Freeze', look at the nearest player. If your front faces their back, hold their shoulders and join. If you face front to front, or back to back, you repel. One of you turns round on the spot. Then you join.",
      "parent": "Front to back is N meeting S, so they join into a longer magnet, still with N at the front and S at the back. Front to front is N meeting N, and back to back is S meeting S, so they repel. Turning round is what a free magnet does in the Magnet Boats experiment."
     },
     {
@@ -1254,8 +1257,8 @@
     "Tie a thread to the floating magnet and tape the thread down, so it hovers but cannot flip."
    ],
    "creative": [
-    "A toy called the Levitron floats a spinning top above a base magnet. The spin stops it flipping over, as a spinning top stays up.",
-    "Some trains, like the one to Shanghai airport in China, float on magnets that are controlled by electricity many times a second.",
+    "A toy called the Levitron floats a spinning top above a base magnet. The top spins very fast, and the spin stops it from flipping over. A spinning top on a table stays upright for the same reason.",
+    "Some trains, such as the one to Shanghai airport in China, float above their track on magnets. Electricity in those magnets is adjusted many times every second to keep the train steady.",
     "Scientists have floated a magnet above a superconductor, a very cold material that pushes back on magnetic fields."
    ],
    "your_turn": "Now invent your own way to stop the floating magnet from turning. Draw it, build it, and time how long it hovers.",
@@ -2029,10 +2032,10 @@
   "Toy trains and building toys join with magnets that only fit one way round.",
   "Cupboard and fridge doors stay shut with magnetic strips.",
   "A compass needle is a small magnet whose north pole points north.",
-  "Electric motors in fans, mixers and washing machines turn because magnets attract and repel in turn.",
+  "Electric motors in fans, mixers and washing machines have magnets that attract and repel one after another. This keeps the motor turning.",
   "Loudspeakers and earphones move a thin cone with a magnet that is pushed and pulled.",
-  "Magnetic clasps on bags, phone covers and necklaces.",
-  "Magnetic name badges that hold through cloth."
+  "Magnetic clasps on bags, phone covers and necklaces hold because unlike poles attract.",
+  "Magnetic name badges hold through cloth because a magnet on each side pulls on the other."
  ],
  "spotted": [
   {
@@ -2075,8 +2078,8 @@
   "Does a magnet stick to an iron dosa tawa? To a brass lamp? To an aluminium idli plate?",
   "Can you think of something that only joins one way round, like magnet poles?",
   "Why do you think a magnet has to have two poles?",
-  "If you had a magnet with only a north pole, what would you do with it?",
-  "Is the push between two magnets something real, or only a feeling in our hands?"
+  "If you found a magnet that seemed to have only a north pole, how could you test it?",
+  "The magnet boats moved with no hand touching them. Is the push between magnets real, or only a feeling in our hands? How do you know?"
  ],
  "jokes": [
   {
@@ -2281,7 +2284,7 @@
    {
     "source": "Heraclitus, fragment B51 (Diels-Kranz numbering), about 500 BCE",
     "teaching": "People do not see how something pulling apart also holds together, like the bow and the lyre, held in shape by strings pulling against them.",
-    "link": "Two repelling magnets are held in a balance of push and twist. The balance lasts only while something keeps them straight. Let go, and one magnet turns round, and they attract."
+    "link": "Two magnets that repel can stay apart only while something keeps them facing the same way. Without that, the push twists one magnet round, and the two attract."
    }
   ],
   "science": [
@@ -2300,7 +2303,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "A free magnet turns to attract because that is the arrangement with the least stored energy, the same reason a ball rolls downhill. It is a useful rule, not a lesson about the world, and reading meaning into it says more about us than about magnets."
+   "view": "A free magnet turns to attract because that arrangement stores the least energy. A ball rolls downhill to the lowest place for the same reason. Many physicists see this as a useful rule, not a lesson about life. They say that finding a meaning in it tells us about the person looking, not about the magnets."
   },
   "practice": {
    "title": "Feel the turn",
@@ -2310,8 +2313,8 @@
   },
   "ask": [
    "When the magnets repelled, your fingers had to work to keep them straight. When they attracted, your fingers could rest. Which one do magnets do when nothing holds them?",
-   "A north pole is never found without a south pole. Can anything exist on its own, with nothing to go with it?",
-   "If attracting and repelling are one force, why do we give them two names?"
+   "Every time you cut a magnet, a new north pole and a new south pole appear together. What does that tell you about whether a north pole can exist alone?",
+   "Attracting and repelling are one force. Why do we still use two words for them?"
   ],
   "art": "Two magnet boats on a tub of water, drawn three times: pushing apart, one turning, and then resting together, north against south, with ripples spreading."
  },

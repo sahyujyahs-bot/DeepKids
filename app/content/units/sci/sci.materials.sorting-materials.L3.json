@@ -317,7 +317,7 @@
    "concept": "The branching key",
    "status": "defined",
    "definition": "A branching key is a chart of yes or no questions. It sorts a group step by step until each thing is alone.",
-   "description": "A branching key finds one thing in a group by asking yes or no questions, one after another. Each question splits the group into two smaller groups. Ask a new question for each smaller group. Keep going until each thing is alone at the end of a branch. Try it with four things: a brick, ice, a balloon and paper. 'Is it hard?' Brick and ice say yes. Balloon and paper say no. Next, 'Is it shiny?' separates the brick from the ice. 'Is it waterproof?' separates the balloon from the paper. If every question splits its group in half, each question doubles the number of branches. One question gives two. Two give four. Three give eight. So eight things can be found with just three good questions. A key that picks out only one thing with each question can need seven.",
+   "description": "A branching key finds one thing in a group by asking yes or no questions, one after another. Each question splits the group into two smaller groups. Ask a new question for each smaller group. Keep going until each thing is alone at the end of a branch. Try it with four things: a brick, ice, a balloon and paper. 'Is it hard?' Brick and ice say yes. Balloon and paper say no. Next, 'Is it shiny?' separates the brick from the ice. 'Is it waterproof?' separates the balloon from the paper. If every question splits its group in half, each question doubles the number of branches. One question gives two. Two give four. Three give eight. So eight things can be found with just three good questions. A weaker key asks about only one thing at a time. With eight things, that key can need seven questions before it finds the answer.",
    "examples": [
     "A key to find which of four fruits you are holding.",
     "A doctor's chart that asks yes or no questions to work out an illness.",
@@ -656,7 +656,7 @@
    "for": "Every known crystal had a repeating pattern. Mathematicians had proved that a repeating pattern cannot have five-fold symmetry.",
    "against": "Dan Shechtman saw five-fold symmetry in a metal in 1982. Others repeated the test. Quasicrystals were even found in a meteorite. The official definition of a crystal was changed in 1992.",
    "status": "rejected",
-   "context": "This card is about a scientist who was told his discovery was impossible. It did not fit the old groups."
+   "context": "A crystal is a solid whose atoms sit in a neat pattern that repeats, like floor tiles. Glass is a solid whose atoms are jumbled with no pattern. Until 1982, scientists believed these were the only two kinds of solid. This card is about a scientist who found a third kind."
   },
   {
    "claim": "Dmitri Mendeleev alone invented the periodic table.",
@@ -1192,7 +1192,7 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Look at each gap. 2. For each gap, work out the border colour from the column. 3. Work out the bounce number from the numbers above and below. 4. Write the guesses on the guess sheet.",
-     "say": "Mendeleev did this with real elements. A gap is not a problem. A gap is a clue. What colour should the missing card have? What bounce should it have?",
+     "say": "Mendeleev did this with real elements. A gap is useful, because the pattern around it tells us what should fill it. What colour should the missing card have? What bounce should it have?",
      "kid": "Look at each gap. Which colour belongs in its column? What bounce number fits the pattern? Write your guesses.",
      "parent": "In the first game, the colour of a gap comes from its column. The bounce number goes up by 2 at each step down a column. Zib 6 is in the blue column. Zib 2 above it has bounce 3, so Zib 6 should have bounce 5. Zib 7 is in the green column, between bounce 1 and bounce 5, so it should have bounce 3. Zib 12 is in the yellow column, below bounce 5 and bounce 7, so it should have bounce 9."
     },
@@ -1662,7 +1662,7 @@
      "how": "e1",
      "context": "In the experiment One Heap, Three Rules, you sort the same twelve things by three different rules.",
      "a": "The glass bangle. It is hard and shiny like the steel spoon, but it is not metal. A strong answer explains that the bangle has a mix of properties that the rules split differently.",
-     "why": "Things with an unusual mix of properties move the most."
+     "why": "A thing with an unusual mix of properties, like the glass bangle, lands in different groups under different rules. A thing with a plain set of properties stays in the same groups more often."
     },
     {
      "t": "mcq",
@@ -1680,7 +1680,7 @@
      "t": "draw",
      "p": "Draw a Carroll table with the rules 'Is it made of metal?' and 'Does it float in water?'. Put one thing from home in each of the four boxes.",
      "a": "For example: metal and floats, an empty steel bowl or a foil boat. Metal and sinks, a steel spoon or a nail. Not metal and floats, a wooden spoon or a plastic bottle cap. Not metal and sinks, a stone or a glass marble.",
-     "why": "A Carroll table has a box for every pair of answers. Finding a metal that floats is the hard part: it shows that shape matters for floating."
+     "why": "A Carroll table has a box for every pair of answers. Finding a metal that floats is the hard part. A steel bowl is metal, yet it floats because its shape holds a lot of air. So whether a thing floats depends on its shape as well as on what it is made of."
     },
     {
      "t": "truefalse",
@@ -2348,7 +2348,7 @@
       "title": "Made-up example results: average questions needed with each key",
       "x": "Key",
       "y": "Average number of questions",
-      "note": "With these eight things, Key A needs 3 questions each time. Key B needs 35 questions in total for all eight, which is about 4.4 each.",
+      "note": "With these eight things, Key A needs 3 questions each time. Key B needs 35 questions in total for all eight things, which is about 4.4 questions each.",
       "data": [
        {
         "label": "Key A (splits in half)",
@@ -2369,7 +2369,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "You found every thing with both keys. Tell me three things. What do you think makes a key fast? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things: what you think makes a key fast, what you saw, and why you think it happened.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a question that splits the group in half makes the fastest key. What I saw: Key A needed 3 questions for every thing, but Key B needed up to 7. Why: each question that halves the group cuts the things that are left in half again. Three halvings take eight things down to one.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a question that splits the group in half makes the fastest key. What I saw: Key A needed 3 questions for every thing, but Key B needed up to 7. Why: each question that halves the group cuts the things that are left in half again. Three halvings take eight things down to one. A key like Key A needs 4 questions for 16 things and 5 questions for 32 things, because each extra question doubles the number of things the key can tell apart.",
      "think": "How many questions would a key like Key A need to find one thing among 16? Among 32?"
     }
    ],
@@ -2568,7 +2568,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "You sorted the same six things by looks and then by sound. Tell me three things. What do you think now about sorting by looks? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things: what you think now about sorting by looks, what you saw, and why you think it happened.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: sorting by sound gives different groups from sorting by looks. What I saw: the steel bowl and the foil container were both silver, but the bowl rang for 6 seconds and the container hardly rang. Why: the sound depends on the material and its shape and thickness, and looks do not show these. A bell-maker can sort scrap metal by ear for this reason, as in the story The Bell That Would Not Sing.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: sorting by sound gives different groups from sorting by looks. What I saw: the steel bowl and the foil container were both silver, but the bowl rang for 6 seconds and the container hardly rang. Why: the sound depends on the material and its shape and thickness, and looks do not show these. A bell-maker can sort scrap metal by ear for this reason, as in the story The Bell That Would Not Sing. Sorting by looks is quicker when the job depends on colour, for example telling ripe fruit from unripe fruit. Sorting by sound is better when the job depends on what the metal is like inside, as with the bell.",
      "think": "When is it better to sort by looks? When is it better to sort by sound?"
     }
    ],
@@ -2848,7 +2848,8 @@
      "do": "Look at the three piles: dal, stones and leaf flakes. Ask how many rules were used.",
      "say": "We made three piles with two different rules. What were the rules? Which rule used hands, and which used the wind?",
      "kid": "Look at your three piles. How many rules did you use? Which rule used your hands? Which used the wind?",
-     "think": "People sorted grain by hand and with the wind for thousands of years. What tools do rice mills and flour mills use today?"
+     "think": "The wind sorts by weight, and a sieve sorts by size. Which would you use to take chana out of rice? Why?",
+     "parent": "A sieve is the better tool. Chana is bigger than a grain of rice, so the rice falls through the holes and the chana stays on top. The wind would not help, because chana and rice are both heavy."
     }
    ],
    "context": "In this activity you sort stones and light flakes out of dal, as cooks and farmers have done for thousands of years. One rule uses your hands. The other uses the wind.",
@@ -2935,7 +2936,8 @@
      "do": "Compare the plan from step one with what you did. Ask what you would change.",
      "say": "Did your plan work? If you did it again, would you change the order? Why?",
      "kid": "Did your plan work? Would you change the order? Why?",
-     "think": "How would a real plant sort bottles made of different plastics? They look the same. What tool could tell them apart?"
+     "think": "Bottles made of different plastics look the same, and a magnet does not attract any plastic. So why would a real plant use a camera that sees invisible light?",
+     "parent": "Our eyes and a magnet cannot tell the plastics apart. A camera that sees invisible light can, because each kind of plastic gives back that light in its own way. Every sorting step needs a rule that the things really answer differently."
     }
    ],
    "context": "In this activity you build a small recycling line on a tray. You sort a mix of rubbish in steps, using your breath, a magnet and water.",
@@ -2957,6 +2959,7 @@
   {
    "id": "a5",
    "title": "Star Sorter: be Annie",
+   "problem": "Astronomers sort stars by the colour of their light. A piece of iron in a fire glows red at first. As it gets hotter, it glows yellow and then white. In the same way, the coolest stars glow red and the hottest stars glow blue-white. You put seven coloured circles in order, from hottest to coolest.",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -3004,7 +3007,7 @@
      "do": "1. Write letters under the colours. O is blue and B is light blue. A is white and F is light yellow. G is yellow, K is orange and M is red. 2. Show that the Sun is G. 3. Explain that Annie Jump Cannon sorted about 350,000 stars into these types.",
      "say": "Annie Jump Cannon put the star types in order. She named them with seven letters: O, B, A, F, G, K and M. Our Sun is a G star. About how many stars did she sort? About 350,000. At her fastest, she sorted three stars in a minute.",
      "kid": "Write O B A F G K M under the colours. Our Sun is a G star. Annie Jump Cannon sorted about 350,000 stars!",
-     "parent": "Astronomers have long used a rhyme to remember the order, beginning 'Oh, Be A Fine...'. Your child can make up their own rhyme with the seven letters. For example: Our Baby Always Finds Great Kittens, Mostly.",
+     "parent": "Astronomers have long used a rhyme to remember the order. It begins 'Oh, Be A Fine', and each word starts with one of the letters. Your child can make up their own rhyme with the seven letters. For example: Our Baby Always Finds Great Kittens, Mostly.",
      "ask": [
       {
        "q": "Where would a very hot star go on the strip? Where would a cool one go?",
@@ -3022,7 +3025,8 @@
      "say": "Orion is easy to find on winter evenings. Look for three stars in a row: that is Orion's belt. Above the belt is a red-orange star called Betelgeuse. Below it, on the other side, is a blue-white star called Rigel. Can you see the different colours?",
      "kid": "Go out with a grown-up after dark. Find Orion. Look at the red star and the blue-white star. Can you see the colours?",
      "adult": true,
-     "think": "You are looking at light that left those stars hundreds of years ago. What else can colour tell us from far away?"
+     "think": "The colour of a star tells us how hot it is, even from very far away. Which of the two stars is hotter, the blue-white one or the red one?",
+     "parent": "The blue-white star, Rigel, is hotter. The red star, Betelgeuse, is cooler. The light we see left those stars hundreds of years ago, and its colour still tells us how hot each star is."
     }
    ],
    "context": "In this activity you sort seven coloured circles from hottest to coolest star, as Annie Jump Cannon sorted the stars into types.",
@@ -3118,6 +3122,7 @@
   {
    "id": "a7",
    "title": "Oobleck: Solid or Liquid?",
+   "problem": "Materials are often sorted as solid, liquid or gas. Some everyday materials do not fit neatly into one of these groups. You make one of them from cornflour and water. Then you decide where it belongs.",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -3163,7 +3168,7 @@
      "do": "1. Move your fingers slowly through it. 2. Now punch it, or press it hard. 3. Scoop some up and roll it quickly in your hands. 4. Stop rolling and watch it.",
      "say": "Poke it slowly. Now press it hard and fast. Roll it between your palms. Then stop. What does it do each time?",
      "kid": "Poke it slowly. Punch it. Roll it in your hands. Then stop. What does it do each time?",
-     "parent": "Moved slowly, it flows like a liquid. Hit or squeezed fast, it feels hard like a solid. When you stop squeezing, the ball melts into your hand. Scientists call this a shear-thickening material. Give your child time to wonder at it.",
+     "parent": "Moved slowly, it flows like a liquid. Hit or squeezed fast, it feels hard like a solid. When you stop squeezing, the ball melts into your hand. Scientists call a material like this shear-thickening, which means it gets stiffer the harder and faster you push it. Give your child time to try it again and feel the difference.",
      "ask": [
       {
        "q": "Is it a solid or a liquid?",
@@ -3192,7 +3197,8 @@
       "a": 0,
       "why": "Oobleck acts like a solid when pushed fast and like a liquid when moved slowly. Both the 'must be solid' and 'must be liquid' answers pick one group and ignore what the other test shows. Scientists solve this by putting oobleck in a group called soft matter. It is a good example of the tricky middle."
      },
-     "think": "Scientists made a new group when old groups did not fit. When have you needed a new group?"
+     "think": "Oobleck, toothpaste and ketchup did not fit solid or liquid. What do the things in the new group, soft matter, have in common?",
+     "parent": "They act like a solid in some situations and like a liquid in others, depending on how they are pushed or squeezed. A group needs a rule too, and this one says: it changes how it behaves when you push it."
     }
    ],
    "context": "In this activity you make oobleck from cornflour and water. It acts like a liquid and a solid. It is a great example of a tricky middle.",
@@ -3272,10 +3278,10 @@
      "kid": "Sort your fifteen things three ways. Show each sort in a tray or box. Photograph it. Write the rule on a card.",
      "ask": [
       {
-       "q": "Which of your three sorts would a visitor like best? Why?",
+       "q": "Which of your three sorts makes it easiest for a visitor to find a thing? Why?",
        "good": [
         "The one with the clearest rule.",
-        "The one with the most surprising groups."
+        "The one that matches what the visitor is looking for."
        ]
       }
      ]
@@ -3355,7 +3361,7 @@
     "Tilt a tray and tap it gently. Round beads roll away faster than rice grains.",
     "Rub a plastic comb on dry hair, then hold it over the tray. It may pick up the light leaf bits.",
     "Stack two sieves with different hole sizes. Pour through both to make three piles in one go.",
-    "Think of a sorting machine in a factory. What is the clever step that you could copy?"
+    "Some factory machines sort rice from small stones. They drop the grains past a camera and blow the stones out with a puff of air. Which of your five kinds of thing could you blow out like that?"
    ],
    "your_turn": "Now invent your own order of steps. Draw it, try it, and time it. Is your order faster than the others?",
    "flow": [

@@ -215,7 +215,7 @@
    "concept": "Rigid, flexible, elastic and brittle",
    "status": "defined",
    "definition": "A flexible material bends easily. An elastic material springs back to its shape after bending or stretching.",
-   "description": "Flexible and elastic are not the same. A rubber band is both. It stretches, then springs back. Aluminium foil is flexible but not elastic. It bends easily and stays bent. A thick steel ruler is rigid, but if you bend it a little, it springs back. Bend it too far and it stays bent. Bend a paper clip back and forth many times, and it gets warm and then breaks. Your bending put energy into the metal, and the energy became heat. Dry spaghetti is brittle. It almost never snaps into just two pieces, and scientists only worked out why in 2005.",
+   "description": "Flexible and elastic are not the same. A rubber band is both. It stretches, then springs back. Aluminium foil is flexible but not elastic. It bends easily and stays bent. A thick steel ruler is rigid, but if you bend it a little, it springs back. Bend it too far and it stays bent. Bend a paper clip back and forth many times, and it gets warm and then breaks. Your bending put energy into the metal, and the energy became heat. Dry spaghetti is brittle. If you bend a stick until it breaks, it almost never snaps into just two pieces. Scientists only worked out why in 2005. When the stick snaps, the bend suddenly straightens. That sends a wave along the stick, which bends it so much that it snaps again.",
    "examples": [
     "Clay and dough are flexible but not elastic. They keep any new shape.",
     "A bamboo pole bends in the wind and springs back, so it can be used for scaffolding.",
@@ -229,7 +229,7 @@
    "concept": "Strong is not the same as hard",
    "status": "defined",
    "definition": "A strong material holds a big pull or push without breaking. Hard means hard to scratch. They are different properties.",
-   "description": "Glass is hard. A nail cannot scratch it easily. But glass is not strong against a knock. It shatters, because it is brittle. A cotton rope is soft, but it is strong enough to pull a full bucket up from a well. Strength also depends on size. A thick thread holds more than a thin thread of the same cotton. So when we compare strength, we cut the strips to the same width and length. Steel is both hard and strong, and that is why it is used so much.",
+   "description": "Glass is hard. A nail cannot scratch it easily. But glass is not strong against a knock. It shatters, because it is brittle. A cotton rope is soft, but it is strong enough to pull a full bucket up from a well. Strength also depends on size. A thick thread holds more than a thin thread of the same cotton. So when we compare strength, we cut the strips to the same width and length. A tough material soaks up a knock without cracking. Leather and rubber are soft but tough. Glass is hard but not tough. Steel is hard, strong and tough, and that is why it is used so much.",
    "examples": [
     "A glass tumbler is hard but breaks when dropped.",
     "A jute rope is soft but strong.",
@@ -355,7 +355,7 @@
    "concept": "Why a rubber band stretches and springs back",
    "status": "defined",
    "definition": "A rubber band is made of very long, tangled chains of atoms. They uncoil when pulled and tangle up again when let go.",
-   "description": "Rubber comes from the milky sap of the rubber tree. The sap is made of very long chains of atoms, like a bowl of cooked noodles. When you pull the band, the noodles straighten out. When you let go, they tangle up again, because loose chains almost always end up tangled. Here is a strange fact. Stretch a thick rubber band fast, then touch it to your lip. It feels warm. Let it go quickly and it feels cool. Stretching and tangling change how the atoms jiggle, and that changes the heat.",
+   "description": "Rubber comes from the milky sap of the rubber tree. The sap is made of very long chains of atoms, like a bowl of cooked noodles. When you pull the band, the noodles straighten out. When you let go, they tangle up again, because loose chains almost always end up tangled. Here is a strange fact. Stretch a thick rubber band fast, then touch it to your lip. It feels warm. Let it go quickly and it feels cool. Stretching the band straightens its chains, and this gives out a little heat, so the band warms up. When you let go, the chains tangle again and the band takes in a little heat, so it feels cool.",
    "examples": [
     "Rubber bands, balloons and the straps of rubber chappals are all elastic.",
     "A hair tie stretches and springs back many times, until the chains wear out.",
@@ -501,7 +501,7 @@
    "for": "Graphene is very thin, very strong, flexible and nearly clear. It carries heat and electricity very well.",
    "against": "It is hard and costly to make big, perfect sheets. Steel, wood and glass are cheap, strong enough and easy to make. In twenty years graphene has found some uses, but most of the early promises have not come true yet. Scientists still debate how big its future will be.",
    "status": "debated",
-   "context": "This card looks at big promises about a new material and what has happened since."
+   "context": "Graphene is a sheet of carbon one atom thick. It was first made in 2004, and it is very thin, very strong and flexible. This card looks at big promises about this new material and what has happened since."
   }
  ],
  "big_questions": [
@@ -787,7 +787,8 @@
      "do": "Count the tokens to find the winner. Talk about which tests you remembered most easily.",
      "say": "Which tests were easy to remember? Which were hard? Which two properties look alike?",
      "kid": "Count your tokens. Which tests were easy to remember? Which were tricky?",
-     "think": "If you could only do three tests on a mystery material, which three would you choose?"
+     "think": "If you could only do three tests on a mystery material, which three would you choose?",
+     "parent": "Good answers choose tests that tell different things, for example scratching it, bending it and dripping water on it. Three tests that all show the same property would tell you less."
     }
    ],
    "setup": [
@@ -918,7 +919,8 @@
        ]
       }
      ],
-     "think": "Which two properties on these cards never seem to go together?"
+     "think": "Which two properties on these cards never seem to go together?",
+     "parent": "Hard and flexible never seem to go together on these cards. Glass is hard 5 and flexible 0. Rubber is flexible 5 and hard 1. A very hard thing cannot bend, and a very bendy thing is easy to scratch or dent."
     }
    ],
    "setup": [
@@ -1790,7 +1792,8 @@
      "do": "Talk about what the things in each group have in common. Ask: why does metal stay bent, but a plastic ruler spring back?",
      "say": "Look at the thing that stayed bent, and the thing that sprang back. Both bend. What is different about them?",
      "kid": "Both bent. One stayed bent. One sprang back. What is different?",
-     "think": "Inside a paper clip, the tiny atoms slide to new places and stay there. Inside a ruler, long chains bend a little and spring back to where they were. Why might a snap be different?"
+     "think": "Inside a paper clip, the atoms slide to new places and stay there. Inside a ruler, long chains bend a little and spring back. In chalk or spaghetti, the atoms cannot slide. What do you think happens when they are bent too far?",
+     "parent": "A good answer is that the joins between the atoms break, so the thing snaps. A paper clip bends because its atoms can slide to new places. A thing that is brittle, like chalk, glass or dry spaghetti, has atoms that cannot slide, so it breaks instead of bending."
     }
    ],
    "example_chart": {
@@ -2223,7 +2226,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What you think, what you saw, and why.",
-     "parent": "A good answer sounds like this. What I think: water makes paper much weaker, but not cotton thread. What I saw: the dry toilet paper held 4 cups, and the damp one tore with none. The thread held 5 cups dry and 5 damp. Why: paper is held together where its fibres touch, and water loosens those joins. Thread is held together by its twist. Damp cotton fibres swell a little and grip each other harder, so the thread does not get weaker.",
+     "parent": "A good answer sounds like this. What I think: water makes paper much weaker, but not cotton thread. What I saw: the dry toilet paper held 4 cups, and the damp one tore with none. The thread held 5 cups dry and 5 damp. Why: paper is held together where its fibres touch, and water loosens those joins. Thread is held together by its twist. Damp cotton fibres swell a little and grip each other harder, so the thread does not get weaker. A good answer to the question is that a spinner of very fine thread can work in damp air, when the thread is a little stronger and snaps less often. That is what the Bengal spinners did at dawn.",
      "think": "Damp cotton thread did not get weaker. Why might this matter to someone who spins very fine cotton thread?"
     }
    ],
@@ -2762,7 +2765,8 @@
      "do": "Talk about which senses helped. Touch was used here, but ask what other senses could tell us about a material.",
      "say": "We used touch. What other senses help us find out about a material? What can looking tell us? Listening?",
      "kid": "Touch told us a lot. What could your eyes and ears tell you about a material?",
-     "think": "Your skin said the steel was cold. Was your skin right or wrong?"
+     "think": "Your skin said the steel was cold. Was your skin right or wrong?",
+     "parent": "Your skin was right about one thing and wrong about another. It was right that heat leaves your hand faster into the steel. It was wrong about the temperature, because a thermometer shows both spoons are the same."
     }
    ],
    "setup": [
@@ -2863,7 +2867,8 @@
      "do": "Ask your child to choose another object at home and make a passport at another time.",
      "say": "Which object would you like to make a passport for next? Look for one with more than one material.",
      "kid": "Pick another object at home. Make a passport for it later.",
-     "think": "Which question gave you an answer you did not expect?"
+     "think": "Which of your passport answers for the steel tumbler would be the same for a steel spoon? Which would be different?",
+     "parent": "Most answers would be the same, such as hard, shiny, waterproof, cold to touch and rings when tapped. These belong to the steel, which is the material. The ones that would differ belong to the object, such as the shape or how much it holds."
     }
    ],
    "setup": [
@@ -2971,7 +2976,8 @@
      "do": "Compare the three ladders. Ask: which thing moved the most? Which stayed in about the same place?",
      "say": "Look at your three ladders. Which thing moved the most from one ladder to the next? Which stayed put?",
      "kid": "Compare the three ladders. Which thing moved the most? Which stayed put?",
-     "think": "If every property gave the same ladder, would we need more than one word? What does that tell you?"
+     "think": "If every property gave the same ladder, would we need more than one word? What does that tell you?",
+     "parent": "A good answer is no. The three ladders came out in different orders. That shows hard, flexible and rough are different properties, so we need different words for them."
     },
     {
      "id": "s5",
@@ -3085,7 +3091,8 @@
      "do": "Ask your child to draw the picture as it looked through each colour. Ask which plastic made each thing look darkest.",
      "say": "Draw what you saw through each colour. Which thing looked darkest through the red plastic?",
      "kid": "Draw the picture as it looked through each colour.",
-     "think": "Is red plastic transparent, translucent or opaque? Is it the same for every colour of light?"
+     "think": "Is red plastic transparent, translucent or opaque? Is it the same for every colour of light?",
+     "parent": "Red plastic is transparent to red light, because red light goes straight through and you can see clearly. It is almost opaque to green light, because the plastic soaks it up. So the answer is different for different colours of light."
     }
    ],
    "setup": [
@@ -3186,7 +3193,8 @@
      "do": "Draw the three veils and write transparent, translucent or opaque under each.",
      "say": "Draw the three veils. Write a word under each one.",
      "kid": "Draw the three veils. Write a word under each.",
-     "think": "Which of the three would you choose for a window? Which for a curtain? Which for a door?"
+     "think": "Which of the three would you choose for a window? Which for a curtain? Which for a door?",
+     "parent": "A good answer is the clear sheet for a window, because you can see out. The cotton cloth suits a curtain, because it lets in light but hides the room. The blanket suits a door, because nothing can be seen through it."
     }
    ],
    "setup": [
@@ -3309,7 +3317,8 @@
      "do": "Talk about how a heavy steel ship floats. Ask your child to work out how it is like the foil boat.",
      "say": "A ship weighs thousands of tonnes. But it floats. How is it like the foil boat?",
      "kid": "A heavy steel ship floats. How is it like your foil boat?",
-     "think": "Ice floats on water. What does that tell you about how its pieces are packed?"
+     "think": "Ice floats on water. What does that tell you about how its pieces are packed?",
+     "parent": "A good answer is that the pieces of ice are packed less tightly than the pieces of liquid water, so ice is less dense and floats. This is unusual, because most solids are packed more tightly than their own liquid."
     }
    ],
    "setup": [
@@ -3428,7 +3437,8 @@
      "do": "Ask your child where their scores and the printed card scores differ, and why.",
      "say": "Where do your scores and the printed scores disagree? Which do you trust more, and why?",
      "kid": "Where do your scores differ from the printed cards? Which do you trust more?",
-     "think": "Your scores come from tests you did. Why can a test sometimes be more trusted than a guess?"
+     "think": "Your scores come from tests you did. Why can a test sometimes be more trusted than a guess?",
+     "parent": "A test gives a number from a method that anyone can repeat and check. A guess is only an opinion, and a different person may guess differently."
     }
    ],
    "setup": [
@@ -3516,7 +3526,8 @@
      "do": "Reveal what is in the bags. Ask which test gave the most useful clue.",
      "say": "Open the bags. Were you right? Which test told you the most?",
      "kid": "Open the bags. Were you right? Which test was the most helpful?",
-     "think": "Could two different materials give the same results on all six tests? What would you do then?"
+     "think": "Could two different materials give the same results on all six tests? What would you do then?",
+     "parent": "A good answer is yes, two different materials can give the same results on six tests. Then you need a new test that tells them apart, such as feeling their weight or heating a small corner. A test is useful when it separates materials that other tests cannot."
     }
    ],
    "setup": [
@@ -3604,7 +3615,8 @@
      "do": "Choose the best cover. Say why it works, using the words transparent, translucent and opaque.",
      "say": "Which cover is best? Tell me why, using our three light words.",
      "kid": "Which cover works best? Say why, using transparent, translucent and opaque.",
-     "think": "Old houses in India used jaali screens and khus tatti. What problems did they solve at the same time?"
+     "think": "Old houses in India used jaali screens and khus tatti. What problems did they solve at the same time?",
+     "parent": "A jaali lets in light and air but hides people from view. A khus tatti, sprinkled with water, also cools the air that comes through. So these old screens gave privacy, light, fresh air and cooling all at once."
     }
    ],
    "setup": [

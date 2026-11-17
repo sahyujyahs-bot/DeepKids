@@ -519,7 +519,8 @@
      "do": "Talk about the best round.",
      "say": "Which limit made it hardest? Did a limit ever make you think of a better idea?",
      "kid": "Which limit was hardest? Did it give you a new idea?",
-     "think": "Do limits make design harder, or can they make you more creative?"
+     "think": "Pick one round. What did the limit stop you from doing, and what did you do instead?",
+     "parent": "A good answer names one thing the limit ruled out and the different idea the child tried. For example, with 'No tape', the child folded or slotted the paper to hold it together. Limits often push a designer to a new idea."
     }
    ],
    "setup": [
@@ -910,7 +911,8 @@
      "do": "Your child picks the cleverest design and says why.",
      "say": "Which of these is the cleverest design? What problem does it solve?",
      "kid": "Which one is the cleverest? What problem does it solve?",
-     "think": "If you designed a tumbler for a baby, what would you change?"
+     "think": "A baby drinks from a tumbler. What one change would make it better for a baby?",
+     "parent": "A good answer links a change to what a baby needs. For example, a lighter tumbler, two handles to hold, or a lid with a small spout so it cannot spill. The purpose of the design decides the change."
     }
    ],
    "setup": [
@@ -971,7 +973,8 @@
      "do": "Put the pen back together and check it works.",
      "say": "Can you put it back so it works again? Which part is easiest to put back wrongly?",
      "kid": "Put the pen back together. Does it click? Does it write?",
-     "think": "Which part of the pen do you think breaks most often? Why?"
+     "think": "Which part of the pen would you test first to find its weak spot? Why?",
+     "parent": "A good answer picks a part that moves or a place where two parts join, such as the spring, the clicker or the thin plastic clip. Moving parts and joints are the places where things most often break."
     }
    ],
    "setup": [
@@ -1027,7 +1030,8 @@
      "do": "Your child picks the best design for one job: carrying water up stairs to a flat on the fourth floor.",
      "say": "Which design would you choose to carry water up four floors of stairs? Why?",
      "kid": "Which would you use to carry water up the stairs? Why?",
-     "think": "Is there one best design, or only a best design for each job?"
+     "think": "Is there one best design for carrying water, or only a best design for each job?",
+     "parent": "There is a best design for each job. A narrow-necked kudam spills little, a bucket holds a lot, and a bottle is easy to carry up stairs. The unit says no material or design is best for everything."
     }
    ],
    "setup": [
@@ -1205,7 +1209,8 @@
      "do": "On day 3, watch again, then find one problem and improve the design.",
      "say": "What went wrong or could be better? Did the water get warm, dirty or too deep? Let's change one thing.",
      "kid": "What could be better? Change one thing. Watch again.",
-     "think": "How do you know what a crow needs? Who is the best judge of your design?"
+     "think": "How can you tell whether your bowl is a good design? Who is the best judge of it?",
+     "parent": "The birds are the best judge. If birds come, drink and bathe safely, the design works. If they do not come, or the bowl tips or the water gets hot, that is the weak spot to fix."
     }
    ],
    "setup": [

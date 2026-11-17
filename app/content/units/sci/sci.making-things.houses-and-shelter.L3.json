@@ -2773,7 +2773,7 @@
   "ask": [
    "In the Push Test, the square and the triangle were made of the same strips. Which matters more for a strong frame: the strips, or the way they are joined?",
    "A house is walls around an empty space. Is the house the walls, or the space, or both?",
-   "A baya weaver was never taught how to weave a nest. How do you think the first weavers worked out what makes a good one?"
+   "A baya weaver hangs the nest over water, with the door at the bottom. Which danger does that design keep away?"
   ],
   "art": "A child standing with feet wide apart on a terrace at dawn, a faint triangle drawn between their legs and the floor, with a pandal frame, a Toda hut and a bamboo stilt house drawn in the clouds behind."
  },
@@ -2781,7 +2781,7 @@
  "how_we_found_out": {
   "story": "In the 1960s, buildings were getting taller, and engineers had a problem. A tall building is pushed sideways by the wind, like a tree. Most engineers thought the answer was a thick skeleton of columns and beams with very stiff joints. But each extra floor then needed more and more steel, so very tall buildings cost far too much. Fazlur Rahman Khan, an engineer born in Dhaka in 1929, thought about it differently. He worked in Chicago, in the United States, with the architect Bruce Graham. Khan saw that the outside walls could work like one stiff hollow tube. For the John Hancock Center, a 100-storey tower finished in 1969, he put huge diagonal steel braces across the outside, making giant triangles. The triangles stopped the building leaning in the wind. The tower used about as much steel for each floor as an ordinary 50-storey building. The old idea, that a taller building always needed a thicker skeleton, was shown to be wrong. Triangles, placed well, did the work instead.",
   "who": "Fazlur Rahman Khan, an engineer born in Dhaka, with the architect Bruce Graham, in Chicago",
-  "when": "The 1960s. The John Hancock Center was finished in 1969.",
+  "when": "the 1960s",
   "wrong_idea": "Engineers thought that a taller building needed a thicker and heavier skeleton of columns and stiff joints, so very tall towers would cost too much steel. Khan showed that big diagonal braces making triangles on the outside could hold the building firm against wind with far less steel."
  }
 }

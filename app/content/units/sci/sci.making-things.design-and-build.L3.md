@@ -42,8 +42,8 @@ Before drawing anything, an engineer asks: what is this for, and who will use it
 **Definition:** Engineers work in a loop. They plan a design, build it, test it, look at what went wrong and improve it. Then they test again.
 
 The loop is called the design cycle. It goes round more than once. A first version is called a prototype, and it is built to be tested. The test shows the weak spot, the part that fails first. The engineer changes the design to fix that spot, then tests again. Each round, the design gets a little better. Real engineers may go round the loop many times.
-- e.g. Your foil boat: draw it, fold it, load it with coins, see where water comes in, fold a better one.
-- e.g. After the Chandrayaan-2 lander crashed on the Moon in 2019, ISRO gave the Chandrayaan-3 lander stronger legs, more fuel and a bigger landing area. It landed safely in August 2023.
+- e.g. With your foil boat, you draw it, fold it, load it with coins, see where the water comes in, and then fold a better one.
+- e.g. After the Chandrayaan-2 lander crashed on the Moon in 2019, ISRO gave the Chandrayaan-3 lander stronger legs, more fuel and a bigger landing area. It landed safely in August 2023. Women engineers helped lead both missions. Ritu Karidhal and Muthayya Vanitha led work on Chandrayaan-2, and Kalpana Kalahasti on Chandrayaan-3.
 - e.g. A cook trying a new rasam recipe tastes it, adds a little more tamarind, and tastes it again.
 ### Why a boat floats · *defined*
 **Definition:** Water pushes up on anything put into it. A boat floats when the water's upward push is as big as the weight of the boat and its load.
@@ -62,7 +62,7 @@ Say your second boat has taller walls, a wider base and squarer corners, and it 
 ### Choosing materials · *defined*
 **Definition:** A material is chosen for the job. Its properties must fit the purpose: strong, light, waterproof, bendy, cheap or easy to shape.
 
-No material is best for everything. Foil is good for a test boat because it is thin, light, waterproof and holds a folded shape. Paper would soak up water. Steel would be too hard to fold by hand. Joining materials matters too. A joint is where two parts are fixed together, and a joint is often a weak spot. Engineers test joints as well as materials.
+No material is best for everything. Foil is good for a test boat because it is thin, light, waterproof and holds a folded shape. Paper would soak up water. Steel would be too hard to fold by hand. How you join materials matters too. A joint is where two parts are fixed together, and a joint is often a weak spot. Engineers test joints as well as materials.
 - e.g. Kettuvallam houseboats in Kerala were traditionally made of wooden planks tied together with coir rope, with no nails.
 - e.g. Kites are made of thin paper on light bamboo sticks, so the wind can lift them.
 - e.g. In the paste test, rice paste, atta paste and sticky tape all join paper, but each joint holds differently.
@@ -77,7 +77,7 @@ When a foil boat sinks, watch closely. Did the water come in at one corner? Did 
 People often picture an inventor suddenly having a brilliant idea. Real inventions usually come from many rounds of testing and changing. But a good starting idea still matters. People argue about how much each counts.
 - e.g. Stephanie Kwolek's very strong fibre came from testing a liquid others would have thrown away.
 - e.g. Engineers today can test thousands of designs on a computer before building one.
-- e.g. A child's first foil boat already shows ideas that came from their head, such as walls.
+- e.g. Even a child's first foil boat has ideas that came from the child's own head, such as giving it walls.
 - **Many engineers:** Most of a design's quality comes from testing. Ideas are cheap. Building, testing and improving is the real work.
 - **Many designers and mathematicians:** A good plan and careful calculation can get a design close to right the first time. Bridges are calculated before they are built, because you cannot test a full-size bridge until it fails.
 - **Some historians of invention:** New ideas usually come from many people building on each other's work over years, not from one person alone.
@@ -98,7 +98,7 @@ People often picture an inventor suddenly having a brilliant idea. Real inventio
   Against: Their skill came from many earlier failures. New designs, even by experts, almost always need testing and changes. Chandrayaan-3 was built on what went wrong with Chandrayaan-2.
 - **The strongest material always makes the best design.** (A common idea; *rejected*)  
   For: Strong materials break less often.  
-  Against: The best material depends on the purpose. A steel kite would never fly. A boat from thick card would soak and sink. Weight, cost, bendiness and whether a material lets water in all matter too.
+  Against: The best material depends on the purpose. A steel kite would never fly. A boat made of thick card would soak up water and sink. Weight, cost, bendiness and whether a material lets water in all matter too.
 - **A heavier boat always sinks sooner.** (A common idea; *rejected*)  
   For: Adding coins does make a foil boat sink lower.  
   Against: Shape matters as much as weight. A huge steel ship weighs far more than a foil boat but floats, because its wide hollow body pushes aside a huge amount of water.
@@ -109,26 +109,26 @@ People often picture an inventor suddenly having a brilliant idea. Real inventio
 ## Roots
 We have built foil boats, found their weak spots and made them better. Now we ask what designing tells us about ourselves and the world.
 
-**Deep truth.** Your first foil boat let water in at a spot you did not expect. Only the water showed you that weak spot. Each better boat came from what the last test showed. So your best boat's shape came from the water and the coins as much as from your first idea.  
-*Habit it breaks:* We picture an inventor having one clever idea in their head, and the world just carrying it out. But in a real design, much of the final shape comes from what tests show. The maker and the world shape the design together.  
+**Deep truth.** In the foil boat test, your first boat let water in at a spot you did not expect. Only the test showed you that weak spot. Each better boat came from what the last test showed. So the shape of your best boat came from the tests with water and coins as much as from your first idea.  
+*Habit it breaks:* We picture an inventor having one clever idea, and the finished thing coming out exactly as planned. But in a real design, much of the final shape comes from what tests show. The maker's idea and the tests shape the design together.  
 *Evidence:* In the foil boat test, nearly every change came from where the water came in: a low corner, a tipping side or a leaky fold. Kwolek's fibre, Chandrayaan-3's stronger legs and Kavya's bicycle bags in the story all came from what a test showed.
 
 - *who am i:* You are a designer. Every time you try, see what went wrong and try again, you are doing what engineers do.
 - *what is life:* Living beings design too. A weaver bird weaves a nest, ants build tunnels, and a spider spins a web, each fitted to their own needs.
 - *what is this world:* Everything people make, from a tumbler to a Moon lander, was shaped by many tests against the real world.
 
-A foil square is flat and holds nothing. Folded, it becomes a boat that the water lifts. The boat's best shape was not in your head at the start. It came out of a meeting between your idea, the foil, the coins and the water's push. Every design in the world is made this way, by many meetings between makers and the things they work with.
+A flat square of foil holds nothing. Folded into a boat, it floats because the water pushes it up. You did not know the boat's best shape at the start. You found it by testing your idea with the foil, the coins and the water. Every design is made this way: a maker tries an idea, the materials show what works, and the maker changes the design.
 
-- **Tirukkural 467, chapter 47 (acting after careful thought), by Thiruvalluvar:** Think first, then begin the work. To begin first and say 'we will think about it later' is a mistake. (Planning and drawing your boat before folding it saved foil and time. But the test still showed weak spots your plan missed. Thinking first and testing after work together.)
-- **A doha (couplet) attributed to Kabir:** The clay says to the potter: why do you press and knead me? One day will come when I will knead you. (The potter shapes the clay, but the clay also shapes the potter's work, by how it bends, cracks and holds. In your boat test, the foil and the water shaped your design too.)
+- **Tirukkural 467, chapter 47 (acting after careful thought), by Thiruvalluvar:** Think first, then begin the work. To begin first and say 'we will think about it later' is a mistake. (In the foil boat test, planning and drawing your boat before folding it saved foil and time. But the test still showed weak spots your plan missed. Thinking first and testing after work together.)
+- **A doha (couplet) attributed to Kabir:** The clay says to the potter: why do you press and knead me? One day will come when I will knead you. (The potter shapes the clay, but the clay also shapes the potter's work, by how it bends, cracks and holds. In the foil boat test, the foil and the water shaped your design too.)
 - Science (settled): Archimedes' principle: a floating object is pushed up by the water with a force equal to the weight of the water it pushes aside.
 - Science (settled): Engineers everywhere test models and prototypes, because tests find problems that plans and calculations miss.
-- Science (debated): Computers can now try millions of designs and test them in a model world. How far this can replace real-world tests is still argued.
+- Science (debated): Computers can now try millions of designs and test them in a computer model. How far this can replace real-world tests is still argued.
 - Other view, Many engineers and mathematicians: A design comes from the designer's knowledge and calculation. The water does not design anything. It only follows the laws of nature. Tests check a design, but the ideas and the choices are the designer's own.
-- Practice, Hands that listen (3 min): Take a fresh square of foil. Close your eyes. Slowly fold up one edge. Feel how the foil bends and where it resists. Fold another edge. Don't plan it. Let your fingers feel what the foil does. Open your eyes. Look at what you made. How much of this shape came from you, and how much from the foil?
+- Practice, Fold foil with your eyes closed (3 min): Take a fresh square of foil. Close your eyes. Slowly fold up one edge. Feel how the foil bends and where it resists. Fold another edge. Don't plan it. Let your fingers feel what the foil does. Open your eyes. Look at what you made. How much of this shape came from you, and how much from the foil?
 - Ask: Your best boat came after two that failed. Did you design it, or did you and the water design it together?
 - Ask: If a design is never finished, when do we say something is made?
-- Ask: Is a failed test a mistake, or a message?
+- Ask: Is a failed test a mistake, or does it tell you something useful?
 
 ## Deep and big questions
 - *deep:* Your best foil boat came after two that sank. Who designed it: you, or you and the water together? (hint: Think about where each change came from. Did you think of it first, or did the water show you?)
@@ -196,7 +196,7 @@ Kavya smiled. That was exactly what engineers do.
 ## Games
 ### g1 · Weak Spot Detective (15 min)
 - **rules:** Lay the 10 fix cards face up. Shuffle the problem cards face down.; Take turns. On your turn, turn over a problem card and read it aloud.; Find the weak spot, then pick the fix card that mends it. Say why. Fix cards stay on the table, so any fix can be used again.; Score 1 point if the fix mends the weak spot. Some problems have more than one good fix: any fix that really works scores.; The game ends when all 10 problem cards are used. With two or more players, the most points wins. If you play together, try to score 9 or 10 out of 10.; Playing alone: race the clock. How many can you match in 5 minutes?
-- **Printable cards: 10 problem cards:** A foil boat let water in over one low corner.; A foil boat tipped when coins were piled at one end.; A paper bag's handle tore off at the corner.; A kite spun round and round and crashed.; A card phone stand slid flat on the table.; A paper tower leaned and fell when a lemon was put on top.; A cloth bag of rice split along its bottom seam.; Water dripped through a fold in a foil boat.; A bird water bowl tipped when a crow landed on the bowl's edge.; Ants crossed a moat because a spoon was left leaning on the bowl.
+- **Printable cards: 10 problem cards:** A foil boat let water in over one low corner.; A foil boat tipped when coins were piled at one end.; A paper bag's handle tore off at the corner.; A kite spun round and round and crashed.; A card phone stand slid flat on the table.; A paper tower leaned and fell when a lemon was put on top.; A cloth bag of rice split along its bottom seam.; Water dripped through a fold in a foil boat.; A bird water bowl tipped when a crow landed on the bowl's edge.; A sugar bowl stood in a plate of water to keep ants out. Ants got in along a spoon left leaning on the bowl.
 - **Printable cards: 10 fix cards:** Make all the walls the same height.; Spread the load evenly.; Make the joint stronger, for example with a folded strip.; Add a tail for balance.; Fold up a lip at the bottom to stop sliding.; Make the base wider.; Stitch the seam twice.; Pinch the folds tightly.; Use a heavier, wider bowl.; Remove the bridge the ants used.
 - **Printable score sheet: Score sheet:** Problem card; Fix chosen; Point (1 if it fixes the weak spot)
 - **s1 (2 min)**  
@@ -204,7 +204,7 @@ Kavya smiled. That was exactly what engineers do.
   *Parent says:* Every problem card is a design that failed a test. Your job is to find the weak spot and fix it.  
   *Child mode:* Each card is a design that failed. Find the weak spot. Pick a fix.
 - **s2 (10 min)**  
-  *Parent does:* Take turns: turn a problem card, name the weak spot and choose a fix.  
+  *Parent does:* Take turns: turn over a problem card, name the weak spot and choose a fix.  
   *Parent says:* What failed first? Which fix mends that exact spot?  
   *Child mode:* Read the card. What broke first? Pick the fix. Say why.
   - Note: Ask your child to name the weak spot before choosing a fix. That habit matters more than the score.
@@ -214,7 +214,7 @@ Kavya smiled. That was exactly what engineers do.
   *Child mode:* Which card was tricky? Why?
   - Check: A paper bag's handle tore off at the corner. What is the weak spot? → **The joint where the handle meets the bag**
 ### g2 · Brief and Build (20 min)
-- **rules:** Draw one purpose card and one limit card. If the two cannot work together, put the limit card back and draw again.; You have 3 minutes to build, using the limit.; Test it. Did it do the job? Score 2 points if yes, 1 if almost.; Get one minute to improve it and test again. Score 1 extra point if it got better.; Play 3 rounds. With two or more players, each person builds their own at the same time, using the same two cards. The highest total wins.; Playing alone: try to reach 9 points over 3 rounds.
+- **rules:** Draw one purpose card and one limit card. If the two cannot work together, put the limit card back and draw again.; You have 3 minutes to build something that does the job on the purpose card and keeps to the limit card.; Test it. Did it do the job? Score 2 points if yes, 1 if almost.; You then get one minute to improve it and test it again. Score 1 extra point if it got better.; Play 3 rounds. With two or more players, each person builds their own at the same time, using the same two cards. The highest total wins.; Playing alone: try to reach 9 points over 3 rounds.
 - **Printable cards: 8 purpose cards:** Hold a lemon as high off the table as you can.; Make a bridge between two books that holds a steel tumbler.; Make a shelter that keeps a toy dry when you sprinkle water.; Carry 10 coins across the room with one hand.; Make something that rolls down a slope in a straight line.; Make a scoop that moves 10 dal grains from one bowl to another without using your fingers.; Make a ramp so a ball lands in a bowl.; Hold a book open at one page.
 - **Printable cards: 8 limit cards:** Paper only.; No more than 5 objects.; Steel things only.; One hand only.; Nothing taller than your ruler.; Things from one room only.; No tape.; Only things that are round.
 - **s1 (2 min)**  
@@ -230,7 +230,8 @@ Kavya smiled. That was exactly what engineers do.
   *Parent does:* Talk about the best round.  
   *Parent says:* Which limit made it hardest? Did a limit ever make you think of a better idea?  
   *Child mode:* Which limit was hardest? Did it give you a new idea?
-  - Think: Do limits make design harder, or can they make you more creative?
+  - Note: A good answer names one thing the limit ruled out and the different idea the child tried. For example, with 'No tape', the child folded or slotted the paper to hold it together. Limits often push a designer to a new idea.
+  - Think: Pick one round. What did the limit stop you from doing, and what did you do instead?
 
 ## Experiments
 ### e1 · The Foil Boat: build it, test it, make it better (40 min)
@@ -242,7 +243,7 @@ Kavya smiled. That was exactly what engineers do.
 - **results table:** Boat | What I changed | Coins it carried | Where the water came in first
 - **s1 (4 min)**  
   *Parent does:* 1. Lay out one foil square, the coins and the bucket of water. 2. Read out the job and the rules.  
-  *Parent says:* Here is your job, like a real engineer. Build a boat that carries as many coins as possible. The rules: one square of foil per boat, no tape, and coins go in one at a time. How many coins do you think your first boat will carry? Why?  
+  *Parent says:* Here is your job, the kind a real engineer gets. Build a boat that carries as many coins as possible. The rules: one square of foil per boat, no tape, and coins go in one at a time. How many coins do you think your first boat will carry? Why?  
   *Child mode:* Your job: make a foil boat that carries lots of coins. Use one square of foil only. No tape. Guess how many coins it will carry. Why do you think so?
   - Ask: What is the purpose of this boat, and what are the limits? (good: To carry as many coins as possible.; We can only use one square of foil, and no tape.)
   - Note: Write the guess in the notebook. Any number is fine. Most children guess between 5 and 30.
@@ -260,7 +261,7 @@ Kavya smiled. That was exactly what engineers do.
   *Parent says:* Let's test it. One coin at a time, starting in the middle. Watch the edges carefully. Where does the water come in first?  
   *Child mode:* Float your boat. Add one coin at a time. Start in the middle. Watch the sides. Where does water come in? Count the coins.
   - Ask: Where did the water come in first? Why there? (good: Over the lowest corner.; On the side where the coins were piled.; Through a hole in a fold.)
-  - Note: Count the last coin before water poured in. Dry the coins on the plate. Water often comes in where a wall is lowest, or the boat tips to one side because the coins were not spread evenly.
+  - Note: Count the coins up to the last one that went in before water poured in. Dry the coins on the plate. Water often comes in where a wall is lowest, or the boat tips to one side because the coins were not spread evenly.
 - **s5 (5 min)**  
   *Parent does:* 1. Look at the drawing of boat 1 and the note about where water came in. 2. Choose one change to fix that weak spot. 3. Draw boat 2 with that one change.  
   *Parent says:* That spot where the water came in is the weak spot. What one change would fix it? Only change one thing, so we know if it helped.  
@@ -268,7 +269,7 @@ Kavya smiled. That was exactly what engineers do.
   - Ask: Why should we change only one thing? (good: So we know which change made the difference.; If we change two things, we cannot tell which one helped.)
   - Note: Good single changes: make all the walls the same height, make the walls taller, or fold the corners more tightly. With one square of foil, taller walls mean a smaller base, so try it and see which works better. If your child wants to change several things, say they can, but then you won't know which change helped. Let them choose.
 - **s6 (6 min)**  
-  *Parent does:* 1. Fold boat 2 from a new foil square. 2. Test it exactly as before. 3. Write the coins and where the water came in.  
+  *Parent does:* 1. Fold boat 2 from a new foil square. 2. Test it exactly as you tested boat 1. 3. Write the number of coins and where the water came in.  
   *Parent says:* Same foil, same coins, same bucket. Only one thing has changed. Let's see if it helps.  
   *Child mode:* Fold boat 2 from new foil. Test it the same way. Write the number. Did your change help?
 - **s7 (6 min)**  
@@ -276,11 +277,11 @@ Kavya smiled. That was exactly what engineers do.
   *Parent says:* One more round. What did boat 2 show us? Change one thing again, and test.  
   *Child mode:* Look where boat 2 let water in. Change one more thing. Build boat 3. Test it.
 - **s8 (3 min)**  
-  *Parent does:* 1. Compare the three numbers. 2. Your child says or writes: what I think, what I saw, and why.  
+  *Parent does:* 1. Compare the three numbers. 2. Your child says or writes three things: what they think helps a boat carry more, what they saw, and why it happened.  
   *Parent says:* Which boat carried the most? What helped the most? Why do you think it helped?  
   *Child mode:* Which boat carried most coins? What change helped? Why?
   - Note: A good answer sounds like this. What I think: taller, even walls help a boat carry more. What I saw: boat 1 carried 9 coins and sank at a low corner, and boat 3 carried 31. Why: a boat with taller walls can sink deeper and push aside more water before the water spills in.
-  - Check: Riya made two foil boats from the same size of foil. Boat A had walls 1 centimetre high. Boat B had walls 3 centimetres high. Which will most likely carry more coins? → **Boat B, because it can sink deeper before water comes in**
+  - Check: Two foil boats are made from the same size of foil. Boat A has walls 1 centimetre high. Boat B has walls 3 centimetres high. Which will most likely carry more coins? → **Boat B, because it can sink deeper before water comes in**
 ### e2 · The Paste Test: which kitchen paste joins paper best? (30 min, 2 days)
 - **question:** Which joins two strips of paper best: rice paste, atta paste, sticky tape or plain water?
 - **predict:** Guess first. Which joint will hold best when you pull it? Which will come apart first? Why do you think so?
@@ -294,10 +295,10 @@ Kavya smiled. That was exactly what engineers do.
   *Child mode:* Look at rice paste, atta paste, tape and water. Which will hold paper best? Why?
   - Ask: Why test plain water too? (good: To see what happens with no paste.; So we know the paste is doing the work.)
 - **s2 (9 min)**  
-  *Parent does:* 1. On each strip, draw a pencil line 2 centimetres from one end. 2. Spread a thin layer of paste up to the line. 3. Press a second strip on top, overlapping up to the line. 4. Make 2 joints with each: rice paste, atta paste, tape and water. 5. Write the name on each pair in pencil.  
+  *Parent does:* 1. On each strip, draw a pencil line 2 centimetres from one end. 2. Spread a thin layer of paste up to the line. 3. Press a second strip on top, overlapping up to the line. 4. Make 2 joints with each: rice paste, atta paste, tape and water. 5. On each pair, write in pencil what joined it.  
   *Parent says:* Every joint must overlap by the same 2 centimetres. Only the paste changes. That keeps it fair.  
-  *Child mode:* Draw a line 2 centimetres from the end. Spread paste up to the line. Press the other strip on top. Make 2 of each. Write the name on them.
-  - Note: Use only a thin layer of paste, about as much as covers the overlap. For tape, use a piece 3 centimetres long across the overlap. Tape is a different kind of joint from the pastes, because it covers the outside of both strips. Compare it with care.
+  *Child mode:* Draw a line 2 centimetres from the end. Spread paste up to the line. Press the other strip on top. Make 2 of each. On each pair, write what joined it.
+  - Note: Use only a thin layer of paste, about as much as covers the overlap. For tape, use a piece 3 centimetres long across the overlap. Tape is a different kind of joint from the pastes, because it covers the outside of both strips. So be careful when you compare tape with the pastes.
 - **s3 (3 min)**  
   *Parent does:* Lay all the strips flat on a plate, away from fans, to dry overnight.  
   *Parent says:* Pastes need time to dry. We'll test them tomorrow.  
@@ -310,10 +311,10 @@ Kavya smiled. That was exactly what engineers do.
   *Child mode:* Pull each strip slowly. Count to five. Did the joint slide apart? Or did the paper tear? Write it down.
   - Note: Usually the plain water joint falls apart at once. Dried rice and atta paste often hold so well that the paper tears beside the joint, not at it. Tape usually holds, but may peel slowly. Your results may differ. That is what the test is for.
 - **s5 (5 min)**  
-  *Parent does:* Your child says what they think, what they saw, and why.  
+  *Parent does:* Your child says which joint they think is strongest, what they saw in the test, and why.  
   *Parent says:* Which joint was strongest? If the paper tore and the joint held, what does that tell us?  
   *Child mode:* Which joint held best? If the paper tore, what was the weak spot then?
-  - Check: In the paste test, a child's rice paste joint held, but the paper tore just beside it. Where was the weak spot? → **The paper**
+  - Check: In the paste test, a rice paste joint held, but the paper tore just beside it. Where was the weak spot? → **The paper**
 
 ## Activities
 ### a1 · What Is It For? A kitchen design hunt (10 min)
@@ -326,13 +327,14 @@ Kavya smiled. That was exactly what engineers do.
 - **s2 (4 min)**  
   *Parent does:* 1. Turn the tumbler over and feel its rim. 2. Feel the pressure cooker's handle. 3. Ask why each part is made that way.  
   *Parent says:* Feel the tumbler's rim. It is rolled over. Why do you think the maker did that? Now feel the cooker's handle. Why isn't it steel?  
-  *Child mode:* Feel the tumbler's edge. It is rolled. Why? Feel the cooker's handle. Why plastic?
+  *Child mode:* Feel the tumbler's edge. It is rolled. Why? Feel the cooker's handle. Why is it plastic?
   - Note: The rolled rim makes the thin steel edge stiffer and smooth on the lips. The cooker handle is plastic because heat passes through plastic slowly, so you can hold it while the cooker is hot.
 - **s3 (2 min)**  
   *Parent does:* Your child picks the cleverest design and says why.  
   *Parent says:* Which of these is the cleverest design? What problem does it solve?  
   *Child mode:* Which one is the cleverest? What problem does it solve?
-  - Think: If you designed a tumbler for a baby, what would you change?
+  - Note: A good answer links a change to what a baby needs. For example, a lighter tumbler, two handles to hold, or a lid with a small spout so it cannot spill. The purpose of the design decides the change.
+  - Think: A baby drinks from a tumbler. What one change would make it better for a baby?
 ### a2 · Take Apart a Pen (15 min)
 - **safety:** Keep the small parts away from babies and small children.
 - **record:** Draw each part in a row and write its job under it.
@@ -349,7 +351,8 @@ Kavya smiled. That was exactly what engineers do.
   *Parent does:* Put the pen back together and check it works.  
   *Parent says:* Can you put it back so it works again? Which part is easiest to put back wrongly?  
   *Child mode:* Put the pen back together. Does it click? Does it write?
-  - Think: Which part of the pen do you think breaks most often? Why?
+  - Note: A good answer picks a part that moves or a place where two parts join, such as the spring, the clicker or the thin plastic clip. Moving parts and joints are the places where things most often break.
+  - Think: Which part of the pen would you test first to find its weak spot? Why?
 ### a3 · One Job, Many Designs: carrying water (15 min)
 - **record:** Make a table: the design, one good thing, one problem.
 - **s1 (5 min)**  
@@ -360,12 +363,13 @@ Kavya smiled. That was exactly what engineers do.
   *Parent does:* 1. Picture a woman carrying a clay matka on her head. Picture a man with a pole across his shoulders and a pot at each end. 2. Your child draws each one in the notebook. 3. Ask why people chose each design.  
   *Parent says:* Why does a kudam have a narrow neck? Why might someone carry a pot on their head?  
   *Child mode:* Why does a kudam have a narrow neck? Why carry a pot on your head?
-  - Note: A narrow neck spills less when the pot sways. Carrying on the head keeps the weight over the middle of the body, as women do with stacks of pots in Rajasthan and Gujarat. A pole across the shoulders balances a pot at each end.
+  - Note: A narrow neck spills less when the pot sways. Carrying a pot on the head keeps the weight over the middle of the body. Women in Rajasthan and Gujarat carry stacks of pots this way. A pole across the shoulders balances a pot at each end.
 - **s3 (4 min)**  
   *Parent does:* Your child picks the best design for one job: carrying water up stairs to a flat on the fourth floor.  
   *Parent says:* Which design would you choose to carry water up four floors of stairs? Why?  
   *Child mode:* Which would you use to carry water up the stairs? Why?
-  - Think: Is there one best design, or only a best design for each job?
+  - Note: There is a best design for each job. A narrow-necked kudam spills little, a bucket holds a lot, and a bottle is easy to carry up stairs. The unit says no material or design is best for everything.
+  - Think: Is there one best design for carrying water, or only a best design for each job?
 ### a4 · Spread the Load: where should the coins go? (15 min)
 - **record:** Write the two numbers and draw where the coins sat in each boat.
 - **s1 (6 min)**  
@@ -412,7 +416,8 @@ Kavya smiled. That was exactly what engineers do.
   *Parent does:* On day 3, watch again, then find one problem and improve the design.  
   *Parent says:* What went wrong or could be better? Did the water get warm, dirty or too deep? Let's change one thing.  
   *Child mode:* What could be better? Change one thing. Watch again.
-  - Think: How do you know what a crow needs? Who is the best judge of your design?
+  - Note: The birds are the best judge. If birds come, drink and bathe safely, the design works. If they do not come, or the bowl tips or the water gets hot, that is the weak spot to fix.
+  - Think: How can you tell whether your bowl is a good design? Who is the best judge of it?
 
 ## Challenges
 ### c1 · The Phone Stand from One Card (30 min)
@@ -423,7 +428,7 @@ Kavya smiled. That was exactly what engineers do.
 - **creative:** Fold a small ledge with a slot for the charging cable.; Make the slant adjustable with two or three fold lines.; Design a stand that folds flat to fit in a school bag.
 - **s1 (5 min)**  
   *Parent does:* Read the problem and the limits together. Your child draws two ideas.  
-  *Parent says:* Our job: a stand that holds a phone up for a minute. One card, no tape. Draw two ideas.  
+  *Parent says:* Our job is to make a stand that holds a phone up for a minute. We can use one piece of card and no tape. Draw two ideas.  
   *Child mode:* Make a stand for a phone. One card. No tape. Draw two ideas.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* 1. Build the best idea. 2. Test it with a book the size of a phone first, then the phone. 3. Time one minute.  
@@ -462,7 +467,7 @@ Kavya smiled. That was exactly what engineers do.
   *Parent does:* Read the usual and creative solutions together, then improve your design.  
   *Parent says:* What did the ants do when they met your design? How could you make it better?  
   *Child mode:* What did the ants do? How can you make it better?
-  - Think: The ants also have a design problem: how to find food for the colony. How might they solve your moat?
+  - Think: The ants also have a design problem: how to find food for the colony. How might they get across your ring of water?
 
 ## Worksheets
 ### Plan, Build, Test (core) (core, 15 questions)
@@ -501,13 +506,13 @@ Kavya smiled. That was exactly what engineers do.
 15. (perspective) Kavya and her cousin Arjun are planning a bird water bowl for their balcony.  
    **Answer:** A strong answer picks a side with a reason. Shallow is safer for small birds, who can drown in deep water and need to stand. Deep holds water longer in the heat. A strong answer may suggest a design that does both, such as a deep bowl with stones inside to stand on.. *Why:* Both have a point. Designers often face a trade-off, where making one thing better makes another worse.
 ### Find the Weak Spot (stretch) (stretch, 15 questions)
-1. (mcq) Meera's boat carried 10 coins. She made the walls taller and it carried 18. Then she pinched the corners tighter too, and it carried 25. Which statement is true?  
+1. (mcq) A foil boat carried 10 coins. With taller walls, it carried 18. Then the corners were pinched tighter too, and it carried 25. Which statement is true?  
    Options: Each change helped / Only the tighter corners helped / Neither change helped  
-   **Answer:** Each change helped. *Why:* The coins went up after each single change: 10 to 18, then 18 to 25. Because she changed one thing each time, she can tell each change helped.
+   **Answer:** Each change helped. *Why:* The coins went up after each single change: 10 to 18, then 18 to 25. Because only one thing changed each time, you can tell each change helped.
 2. (mcq) A big steel ship weighs thousands of tonnes but floats. Why?  
    Options: Steel is lighter than water / Its wide, hollow body pushes aside a huge amount of water / Ships have engines that hold them up  
    **Answer:** Its wide, hollow body pushes aside a huge amount of water. *Why:* A ship's hollow shape pushes aside enough water that the upward push equals its weight. Solid steel is heavier than the same amount of water, so a steel bar sinks.
-3. (mcq) Why did Kavya, in the story, test with half-full pots first?  
+3. (mcq) You are testing a new way to carry water pots on a bicycle. Why test with half-full pots first?  
    Options: Half-full pots look nicer / So a failure would spill less water / Because full pots don't fit  
    **Answer:** So a failure would spill less water. *Why:* Testing with a smaller load first means a failure costs less. Engineers often test small or with less before the full test.
 4. (mcq) In the paste test, a tape joint peeled slowly while the rice paste joint held and the paper tore. Which joint was stronger?  
@@ -522,14 +527,14 @@ Kavya smiled. That was exactly what engineers do.
    **Answer:** It pushes the refill back in after you click. *Why:* The spring pushes the refill back into the pen when you click again. The ink is held in the refill, and the tiny ball at the tip makes the pen write.
 8. (fill) Water pushes ____ on a boat floating in it.  
    **Answer:** ['up', 'upwards']. *Why:* The upward push of water is what holds a boat up.
-9. (order) Put Kavya's three bicycle designs from the story in order, first to last.  
-   **Answer:** ['Pots on long ropes, one on each side', 'Shorter ropes, so the pots do not hit the wheel', 'Pots in cloth bags tied firmly, so they cannot twist']. *Why:* Each design came from what went wrong in the one before: swinging, then twisting.
+9. (order) Put these steps of making a design better in order, first to last.  
+   **Answer:** ['Build a first version', 'Test it and see what goes wrong', 'Change the design to fix what went wrong', 'Test the new version']. *Why:* Each new design comes from what went wrong in the one before. Then it must be tested again.
 10. (match) Match each failure to the fix that mends its weak spot.  
    **Answer:** A boat lets water in at one low corner → make all the walls the same height; A boat leaks through a fold → pinch the folds tight; A phone stand slides flat → fold up a lip at the bottom; A water bowl tips when a crow lands → use a wider, heavier bowl. *Why:* A good fix mends the exact spot that failed.
 11. (sort) Is each one a fair way to compare two foil boats?  
    **Answer:** same size of foil for both → Fair; one-rupee coins for one boat, five-rupee coins for the other → Not fair; coins added from the middle out for both → Fair; one boat in a bucket, one in a sink full of soapy water → Not fair; same bucket of water for both → Fair. *Why:* In a fair test only the boat's design changes. Different coins or different water would change the result too.
-12. (write) Farhan says, 'My boat sank, so my design was a failure and I should give up.' What would you tell him?  
-   **Answer:** A strong answer says the sinking shows where the weak spot is, so he now knows what to change. Every engineer's first design fails somewhere.. *Why:* This tests the idea that a failed test is useful information.
+12. (write) A friend says, 'My boat sank, so my design was a failure and I should give up.' What would you tell your friend?  
+   **Answer:** A strong answer says the sinking shows where the weak spot is, so your friend now knows what to change. Every engineer's first design fails somewhere.. *Why:* This tests the idea that a failed test is useful information.
 13. (draw) Draw the design cycle as a loop with four arrows. Write one step on each arrow.  
    **Answer:** A circle of four arrows: plan, build, test, improve, with improve leading back to plan or build.. *Why:* The cycle is a loop because you test again after improving.
 14. (label) Label the parts of this foil boat: base, wall, corner, load, waterline.  
@@ -537,8 +542,8 @@ Kavya smiled. That was exactly what engineers do.
 15. (perspective) Two engineers are designing a footbridge over a canal in Chennai.  
    **Answer:** A strong answer picks a side with a reason, then sees the other's point. Real engineers do both: they calculate, then test models, as with bridge models tested in wind tunnels.. *Why:* This is a real trade-off. Calculations are fast and cheap, and tests catch what calculations miss.
 ### Think Like an Engineer (challenge) (challenge, 15 questions)
-1. (mcq) Two foil boats carried 20 and 22 coins. Rohini says the second design is clearly better. What is the best reply?  
-   Options: She is right / The difference is small. Test each boat again to check it was not a fluke. / Both are bad  
+1. (mcq) Two foil boats carried 20 and 22 coins. Someone says the second design is clearly better. What is the best reply?  
+   Options: That is right / The difference is small. Test each boat again to check it was not a fluke. / Both are bad  
    **Answer:** The difference is small. Test each boat again to check it was not a fluke.. *Why:* A difference of 2 coins could come from chance, such as where a coin landed. Testing again shows whether the difference is real.
 2. (mcq) A boat made from a 15 centimetre square carried 30 coins. What would you predict for a boat of the same shape from a 30 centimetre square?  
    Options: About the same / Many more coins / Fewer coins  
@@ -548,20 +553,20 @@ Kavya smiled. That was exactly what engineers do.
    **Answer:** Card is cheap, light, easy to cut and strong enough for the job. *Why:* A material only needs to be strong enough. Card is cheap and easy to shape, and a phone is light.
 4. (truefalse) If a design passes its test, it can never be improved.  
    **Answer:** False. *Why:* False. A design that works may still be made cheaper, lighter, safer or easier to use. Phones and bicycles keep being redesigned.
-5. (fill) Stephanie Kwolek's very strong fibre was later named ____.  
-   **Answer:** ['Kevlar']. *Why:* It is used in helmets, cut-proof gloves, ropes and protective vests.
-6. (order) Put Stephanie Kwolek's discovery in order.  
-   **Answer:** ['She made a cloudy, runny liquid', 'Others expected it to be useless', 'She persuaded the worker to spin it', 'The fibre was far stronger than expected']. *Why:* The guess said 'useless'. The test showed the opposite.
+5. (fill) When a test shows a weak spot, a designer changes the design and then ____ it again.  
+   **Answer:** ['tests', 'test', 'checks']. *Why:* A change might fix one problem and cause another, so each new version must be tested too.
+6. (order) Put these steps of a surprising discovery in order.  
+   **Answer:** ['Someone makes something new', 'People guess it will be useless', 'The maker tests it anyway', 'The test shows it is far better than expected']. *Why:* The guess said 'useless'. The test showed the opposite. A test, not a guess, decides.
 7. (write) The Tacoma Narrows Bridge in the USA was strong enough to carry cars, but in 1940 it twisted in a strong wind and fell. What does this tell us about testing a design?  
    **Answer:** A strong answer says the design was tested for one load, the cars, but not for another, the wind. A design must be tested for everything it will meet. After this, engineers began testing bridge models in wind tunnels.. *Why:* This tests whether the child sees that a test must match the real conditions.
 8. (write) You want to know whether taller walls or a wider base helps a foil boat more. Plan a fair test. Say what you will change and what you will keep the same.  
-   **Answer:** A strong answer makes one boat with taller walls and one with a wider base from the same size of foil, with the same coins, bucket and loading, and compares each with a plain starting boat. With one square of foil, a wider base means lower walls, so the test shows which trade is better.. *Why:* A good plan changes one thing at a time and keeps everything else the same.
+   **Answer:** A strong answer makes one boat with taller walls and one with a wider base from the same size of foil, with the same coins, bucket and loading, and compares each with a plain starting boat. With one square of foil, a wider base means lower walls, so the test shows which choice carries more coins.. *Why:* A good plan changes one thing at a time and keeps everything else the same.
 9. (write) A weaver bird builds a nest. A child builds a foil boat. In what ways are they both designers? In what ways are they different?  
    **Answer:** A strong answer says both make something for a purpose, choose materials and shape them. Differences: the bird uses grass and his beak to weave a nest; the child uses foil and tests with coins.. *Why:* This asks the child to compare design across living beings.
 10. (draw) Design a container to carry 2 idlis to school without squashing them, using only paper and string. Draw it and label how it protects the idlis.  
    **Answer:** A strong design has stiff sides, for example folded or rolled paper, a lid, and a handle tied at strong points.. *Why:* This applies purpose, constraints and joints to a new problem.
-11. (label) Kavya's third bicycle design from the story is drawn here. Label what each part does: cloth bag, tied handles, tied bottom corner, equal water.  
-   **Answer:** ['cloth bag: holds the round pot snugly', 'tied handles: fix the bag to the carrier', 'tied bottom corner: stops the bag swinging into the wheel', 'equal water: keeps both sides the same weight so the bicycle stays upright']. *Why:* Each part fixes a weak spot found in an earlier test.
+11. (label) This bicycle carries two round water pots in cloth bags. Label what each part does: cloth bag, tied handles, tied bottom corner, equal water.  
+   **Answer:** ['cloth bag: holds the round pot snugly', 'tied handles: fix the bag to the carrier', 'tied bottom corner: stops the bag swinging into the wheel', 'equal water: keeps both sides the same weight so the bicycle stays upright']. *Why:* Each part fixes a weak spot: slipping, swinging or tipping.
 12. (perspective) After Chandrayaan-2's lander crashed in 2019, people in India argued about what to do next.  
    **Answer:** A strong answer picks a view and gives a reason, then gives the best case for another view. It may use the fact that Chandrayaan-3 landed in 2023 after the design was improved.. *Why:* This is a real disagreement about purpose: what should a country design and build first?
 13. (sort) Sort these changes to a foil boat: will each most likely help it carry more coins, or fewer?  
@@ -583,15 +588,15 @@ Kavya smiled. That was exactly what engineers do.
 2. (mcq) In the foil boat test, each boat must be made from one square of foil. What is this rule called?  
    Options: A constraint / A prototype / A float  
    **Answer:** A constraint. *Why:* A constraint is a limit a design must work within. A prototype is a trial version, and float is what a boat does.
-3. (mcq) What comes right after testing a design in the design cycle?  
+3. (mcq) In the design cycle, what comes right after testing a design?  
    Options: Throw it away / Improve it, then test again / Paint it  
    **Answer:** Improve it, then test again. *Why:* After a test, you look at what went wrong and improve the design, then test again. That loop is the design cycle. Picking 'throw it away' misses that a failed test shows you what to fix.
-4. (mcq) Lakshmi's foil boat sank when water came in over one low corner. What should she change for her next boat?  
+4. (mcq) A foil boat sank when water came in over one low corner. What should you change for the next boat?  
    Options: Use more coins / Make that corner as high as the other walls / Use a smaller bucket  
    **Answer:** Make that corner as high as the other walls. *Why:* The low corner was the weak spot, so raising it fixes the problem. More coins would make it sink sooner, and the bucket size does not change where water comes in.
-5. (mcq) Farhan changed the walls, the base and the corners of his boat all at once, and it carried more coins. What can he NOT tell?  
-   Options: That his new boat is better / Which change made it better / How many coins it carried  
-   **Answer:** Which change made it better. *Why:* Because he changed three things at once, he cannot tell which one helped. To know, change one thing at a time. He can still see that the new boat is better and count its coins.
+5. (mcq) You changed the walls, the base and the corners of a foil boat all at once, and it carried more coins. What can you NOT tell?  
+   Options: That the new boat is better / Which change made it better / How many coins it carried  
+   **Answer:** Which change made it better. *Why:* Three things changed at once, so you cannot tell which one helped. To know, change one thing at a time. You can still see that the new boat is better and count its coins.
 6. (mcq) Why does a foil boat float?  
    Options: Foil is lighter than air / The water pushes up on the boat / The coins hold it up  
    **Answer:** The water pushes up on the boat. *Why:* Water pushes up on anything put into it. The more water a boat pushes aside, the bigger that push. Foil is much heavier than air, and the coins push the boat down, not up.
@@ -604,13 +609,13 @@ Kavya smiled. That was exactly what engineers do.
 9. (mcq) In the paste test, the plain water joint fell apart at once. Why did we test plain water at all?  
    Options: To see what happens with no paste, so we know the paste does the work / Because water is the best glue / To make the paper soft  
    **Answer:** To see what happens with no paste, so we know the paste does the work. *Why:* Plain water is the 'no paste' joint. Comparing with it shows what each paste adds. It is not a glue.
-10. (mcq) Why did ISRO give Chandrayaan-3's lander stronger legs and more fuel?  
-   Options: To make it look better / Because the Chandrayaan-2 lander crashed, and they learned from it / Because the Moon had changed  
-   **Answer:** Because the Chandrayaan-2 lander crashed, and they learned from it. *Why:* The Chandrayaan-2 lander crashed in 2019. ISRO studied what went wrong and improved the design. Chandrayaan-3 landed safely in 2023.
-11. (mcq) Stephanie Kwolek made a cloudy, runny liquid. What did she do that others might not have?  
-   Options: Threw it away / Tested it by spinning it into a fibre / Mixed it with water  
-   **Answer:** Tested it by spinning it into a fibre. *Why:* Liquids like hers were usually thrown away, because people expected them to be useless. She insisted on testing it, and it made a very strong fibre, later called Kevlar.
-12. (mcq) Divya, a girl in Class 4, puts out a bird water bowl. A crow lands on the edge and the bowl tips over. What is the best improvement?  
+10. (mcq) A team's first Moon lander crashed. What is the best thing to do for the next one?  
+   Options: Make it look better / Study what went wrong, and make those parts stronger / Hope the Moon has changed  
+   **Answer:** Study what went wrong, and make those parts stronger. *Why:* A failure shows where a design is weak. India's Chandrayaan-2 lander crashed in 2019. ISRO gave Chandrayaan-3 stronger legs and more fuel, and it landed safely in 2023.
+11. (mcq) A scientist makes a cloudy, runny liquid. Everyone expects liquids like it to be useless. What should she do?  
+   Options: Throw it away / Test it anyway, for example by spinning it into a fibre / Mix it with water  
+   **Answer:** Test it anyway, for example by spinning it into a fibre. *Why:* A guess is not a test. Stephanie Kwolek insisted on testing a liquid like this, and found it made a very strong fibre, later called Kevlar.
+12. (mcq) You put out a bird water bowl. A crow lands on the edge and the bowl tips over. What is the best improvement?  
    Options: Fill it to the top / Use a wider, heavier bowl, or put a stone in the middle / Move it into the sun  
    **Answer:** Use a wider, heavier bowl, or put a stone in the middle. *Why:* A wider, heavier bowl, or a weight in the middle, keeps it steady when a bird lands on the edge. More water might not stop the tipping, and sun would make the water hot.
 
@@ -636,7 +641,7 @@ Kavya smiled. That was exactly what engineers do.
 
 ## Open questions
 - **Can a computer design things better than people, without testing them in the real world?** Computers already design some parts that are lighter and stronger than people's. But real materials and real users still surprise designers, and nobody knows how far computer design can go.
-- **How do weaver birds and other animals learn to build better?** Young male weaver birds seem to get better at weaving with practice, but scientists are still finding out how much is learned and how much is born in them.
+- **How do weaver birds and other animals learn to build better?** Young male weaver birds seem to get better at weaving with practice, but scientists are still finding out how much they learn and how much they are born knowing.
 - **What is the best way to design for everyone, including people with very different bodies and needs?** Designers still argue about whether one design can suit everyone, or whether different people need different designs.
 
 ## Questions to ask kids
@@ -666,7 +671,7 @@ Kavya smiled. That was exactly what engineers do.
 - Your foil square is 15 centimetres on each side. You fold up walls 3 centimetres high on all four sides. How long is each side of the flat base? **9 centimetres.**. Each side loses 3 centimetres for the wall at one end and 3 centimetres at the other end. 3 + 3 = 6. 15 minus 6 is 9. So the base is 9 centimetres on each side. (queues `math.length.standard-units-length.L3`)
 - Which of these flat shapes can fold into an open box with no lid? A: a plus shape of 5 squares, one in the middle and one on each side. B: a straight row of 5 squares. **Shape A.**. In shape A, the middle square is the base. The four squares around it fold up to make four walls. In shape B, the squares are in a line, so they roll up into a tube with an open end and no proper base. A flat shape that folds into a solid is called a net. (queues `math.shapes-3d.nets.L4`)
 - In the paste test, you test 4 ways of joining (rice paste, atta paste, tape and water), and make 2 joints of each. Each joint needs 2 strips. How many strips do you need? **16 strips.**. 4 ways times 2 joints is 8 joints. Each joint needs 2 strips. 8 times 2 is 16. So you need 16 strips. (queues `math.multiplication.equal-groups.L3`)
-- Divya, a girl in Class 4, tests a foil boat. It carried 18 coins on her first try and 6 coins on her second try, with no change to the boat. Her friend's boat carried 14 and 15. Whose boat gave more reliable results? Why might Divya's be so different? **Her friend's boat.**. Her friend's two results, 14 and 15, are only 1 apart. Divya's, 18 and 6, are 12 apart. Something else changed between Divya's tries. Perhaps the boat was squashed after the first test, or the coins were piled on one side the second time. (queues `math.measurement-basics.estimation-and-precision.L3`)
+- A foil boat carried 18 coins on the first try and 6 coins on the second try, with no change to the boat. Another boat carried 14 and 15. Which boat gave more reliable results? Why might the first boat's two results be so different? **The second boat, which carried 14 and 15.**. The second boat's two results, 14 and 15, are only 1 apart. The first boat's results, 18 and 6, are 12 apart. Something else changed between the first boat's two tries. Perhaps the boat was squashed after the first test, or the coins were piled on one side the second time. (queues `math.measurement-basics.estimation-and-precision.L3`)
 
 ## Song
 Look Close, Then Make (sci.making-things.L3): Topic-level song for Making things L3
@@ -703,3 +708,4 @@ Look Close, Then Make (sci.making-things.L3): Topic-level song for Making things
 - DuPont histories of Kevlar; Lemelson-MIT and Science History Institute biographies of Stephanie Kwolek (the cloudy solution, 1965)
 - ISRO, Chandrayaan-3 mission pages (landing on 23 August 2023; changes after Chandrayaan-2); S. Somanath's 'failure-based design' remarks as reported in the Indian press, 2023
 - F. B. Farquharson's wind-tunnel studies of bridge models at the University of Washington after the Tacoma Narrows collapse of 7 November 1940
+- ISRO leaders on the Chandrayaan missions: Ritu Karidhal (Chandrayaan-2 mission director), Muthayya Vanitha (Chandrayaan-2 project director) and Kalpana Kalahasti (associate project director, Chandrayaan-3), as reported in the Indian press, 2019 and 2023
