@@ -40,7 +40,7 @@ When a cycle rides along a straight road, the whole cycle moves straight. At the
 ### Round motion seen from the side · *defined*
 **Definition:** A thing going round in a circle looks like it goes back and forth when you watch from the side, at the same height.
 
-From above, you saw the keys go round in a circle. From the side, you could not see them coming towards you or going away. You saw only their left and right, so they seemed to go back and forth, like a swing. Their shadow on the wall did the same.
+In the keys test, you watched keys going round on a string. From above, you saw them go round in a circle. From the side, you could not see them coming towards you or going away. You saw them move only left and right, so they seemed to go back and forth, like a swing. Their shadow on the wall did the same.
 - e.g. In the keys test, 10 rounds from above matched about 10 back-and-forths from the side.
 - e.g. A fan's blade tips go round. A gecko on the wall, level with the fan, would see them go back and forth.
 - e.g. Galileo saw Jupiter's moons go back and forth beside Jupiter. They are going round Jupiter, and we see their circles from the side.
@@ -51,8 +51,8 @@ An ant decides where to walk, and a crow decides when to fly. They use energy fr
 - e.g. A pigeon walks along the window ledge by herself.
 - e.g. A leaf moves when the wind blows it.
 - e.g. A ceiling fan goes round when electricity turns its motor, and slows down and stops when the power goes.
-- **Aristotle, a Greek thinker who lived about 2,400 years ago:** Everything that moves is moved by something. In an animal, one part of her body moves another part.
-- **Many physicists today:** Every mover needs a push from something. An ant moves forward by pushing the floor back with her feet. A fish pushes the water. So nothing starts moving with no push at all.
+- **Aristotle, a Greek thinker who lived about 2,400 years ago:** Everything that moves is moved by something else. Even when an animal moves, one part of the animal's body is moving another part.
+- **Many physicists today:** Every mover needs a push from something. An ant moves forward by pushing the floor backwards with her feet. A fish pushes the water backwards. So nothing starts moving with no push at all.
 - **Many biologists:** What is special about living beings is that they choose when and where to move, and use their food's energy to do it.
 
 ## Mostly agreed
@@ -61,13 +61,13 @@ An ant decides where to walk, and a crow decides when to fly. They use energy fr
 - Living beings use energy from their food to move themselves. *How we know:* Muscles need food to work. After running and playing for a long time, you feel tired and hungry.
 
 ## How we found out
-**Galileo Galilei, an Italian scientist, and Simon Marius, a German astronomer, January 1610.** For a very long time, many people in Europe believed that everything in the sky went round the Earth. On 7 January 1610, Galileo Galilei, an Italian scientist, pointed his new telescope at the planet Jupiter. Beside it he saw three tiny bright points, in a straight line. At first he took them for stars. But the next night they had moved. Within a week he had seen four. Night after night, they moved back and forth along the same line, never going far from Jupiter. Sometimes one vanished behind Jupiter and later came out again. Galileo worked out what this meant. The four points were moons, going round and round Jupiter. We see their round paths from the side, so they seem to go back and forth. Here were things in the sky going round something that was not the Earth. Galileo wrote about them in a little book, The Starry Messenger, in March 1610. A German astronomer, Simon Marius, said he had seen the moons at about the same time. The names we use for them today, Io, Europa, Ganymede and Callisto, are the ones Marius printed.  
-*What people believed before:* Everything in the sky goes round the Earth. At first, Galileo also took Jupiter's moons for ordinary stars.
+**Galileo Galilei, an Italian scientist, and Simon Marius, a German astronomer, January 1610.** For a very long time, many people in Europe believed that everything in the sky went round the Earth. On 7 January 1610, Galileo Galilei, an Italian scientist, pointed his new telescope at the planet Jupiter. Beside it he saw three tiny bright points, in a straight line. At first he thought they were stars. But the next night they had moved. Within a week he had seen four. Night after night, they moved back and forth along the same line, never going far from Jupiter. Sometimes one vanished behind Jupiter and later came out again. Galileo worked out what this meant. The four points were moons, going round and round Jupiter. We see their round paths from the side, so they seem to go back and forth. Here were things in the sky going round something that was not the Earth. Galileo wrote about them in a little book, The Starry Messenger, in March 1610. A German astronomer, Simon Marius, said he had seen the moons at about the same time. The names we use for them today, Io, Europa, Ganymede and Callisto, are the ones Marius printed.  
+*What people believed before:* Everything in the sky goes round the Earth. At first, Galileo also thought Jupiter's moons were ordinary stars.
 
 ## Challenging perspectives
 - **A round path and a back-and-forth path are always easy to tell apart.** (A common first guess; *rejected*)  
   For: From above, a circle and a swing look very different.  
-  Against: In the shadow game, the shadow of keys going round looked almost the same as the shadow of keys swinging. Galileo first took Jupiter's moons for ordinary stars in a line, until he saw them change places from night to night.
+  Against: In the shadow game of the keys test, the shadow of keys going round looked almost the same as the shadow of keys swinging. At first, Galileo thought Jupiter's moons were ordinary stars in a line. Then he saw them change places from night to night.
 - **Only living beings move by themselves.** (A common idea; *debated*)  
   For: Ants, crows and people start and stop when they choose. A ball lies still until someone kicks it.  
   Against: A fan, a lift and an auto start without anyone pushing them, using electricity or fuel. So a push is not the only thing that starts a motion.
@@ -86,24 +86,24 @@ We have found straight, round and back-and-forth paths, and watched keys on a st
 - *what is life:* Living beings start, stop and turn by themselves. An ant, a crow and a mustard seedling each move towards what they need.
 - *what is this world:* The world is full of round motions: fans, wheels, and the Moon round the Earth. From the side, many of them look like back and forth.
 
-We sorted motions into three kinds: straight, round, and back and forth. Then one bunch of keys showed two of the kinds at once. The kinds are names we give from where we watch, and one motion can fit more than one of them. Everything is conscious, and every watcher meets the world from their own place. A gecko on the wall, an ant on the floor and you each see the same fan move in a different path.
+We sorted motions into three kinds: straight, round, and back and forth. Then, in the keys test, one bunch of keys showed two of the kinds at once. Which kind we name depends on where we watch from, and one motion can fit more than one kind. Everything is conscious, and every being sees the world from the place where they are. A gecko on the wall, an ant on the floor and you each see the same fan move in a different path.
 
 - **Vaisheshika Sutra 1.1.7, by Kanada:** Kanada, an early Indian thinker, listed five kinds of motion: moving up, moving down, drawing in, spreading out, and going along. (Like us, Kanada sorted motions by the way they go. His list is different from ours. People can sort the same motions in more than one way.)
-- **Udana 6.4, a Buddhist text, and the Jain teaching of anekantavada, many-sidedness:** Some blind people each touch a different part of an elephant. One says an elephant is like a rope, and another says like a wall. Each is right about the part they touched. (From above you saw a circle, and from the side a line. Each view told the truth about the keys from one place.)
+- **Udana 6.4, a Buddhist text, and the Jain teaching of anekantavada, many-sidedness:** Some blind people each touch a different part of an elephant. One says an elephant is like a rope, and another says like a wall. Each is right about the part they touched. (In the keys test, you saw a circle from above and a line from the side. Each view was true for the place you watched from.)
 - **Aristotle, Physics, Book 7, chapter 1:** Aristotle, a Greek thinker, taught that everything that moves is moved by something. (In Who Starts It?, we asked the same question about each moving thing: what made it start?)
-- Science (settled): A small swing's back-and-forth motion and a round motion seen from the side follow the same pattern. Scientists use circles to work out how swings and springs move.
+- Science (settled): The back-and-forth motion of a small swing follows the same pattern as a round motion seen from the side. Because of this, scientists can use circles to work out how swings and springs move.
 - Science (settled): Jupiter's four big moons go round Jupiter. From Earth we see their circles from the side, so they seem to go back and forth.
 - Other view, Many physicists: The keys had one real path, a circle. The back-and-forth line was only how it looked from one place, so it is not a second kind of motion.
 - Practice, Back and forth with your breath (3 min): Sit up tall. Put one hand on your tummy. Breathe in slowly and feel your tummy go out. Breathe out and feel it come back in. That is back and forth. Now draw a slow circle in the air in front of you, as big as a clock face. Do one round for each breath. A grown-up standing beside you sees your finger go only up and down.
-- Ask: The keys went round, and they went back and forth. Which one was the real path, or were both real?
-- Ask: When you watch the fan from your bed, what path would a gecko on the wall see?
+- Ask: In the keys test, the keys went round when you watched from above, and back and forth when you watched from the side. Which one was the real path, or were both real?
+- Ask: From your bed, you see the fan blades go round. What path would a gecko on the wall, level with the fan, see?
 - Ask: Does anything start moving with nothing at all to start it?
 
 ## Deep and big questions
-- *deep:* The keys went round the whole time. Why did they seem to go back and forth from the side? (hint: From the side, could you tell when the keys were coming towards you or going away?)
-- *deep:* Why did your walk drift off the line when your eyes were shut? (hint: With your eyes open, what tells you that you have started to turn?)
+- *deep:* In the keys test, the keys went round the whole time. Why did they seem to go back and forth when you watched from the side? (hint: From the side, could you tell when the keys were coming towards you or going away?)
+- *deep:* In Eyes Shut, Walk Straight, why did you drift off the line when your eyes were shut? (hint: With your eyes open, what tells you that you have started to turn?)
 - *big:* The Earth goes round the Sun. Seen from very far away, from the side, what path would the Earth seem to take? (hint: Think of the keys seen from the side, and of Jupiter's moons.)
-- *big:* When you decide to get up and walk, where does the start of that walk come from? (hint: Think about what you ate, and what you wanted to do.)
+- *big:* When you decide to get up and walk, what starts you moving? (hint: Think about what you ate, and what you wanted to do.)
 
 ## Story: Revathi and the Shadow on the Wall
 *Hyderabad is a real city in Telangana. Ammamma means mother's mother in Telugu. An uyyala is a swing seat that hangs in many homes in Telangana and Andhra Pradesh. Revathi, Arjun, Amma and Ammamma are made up. Galileo Galilei was a real scientist who saw Jupiter's moons in 1610.*
@@ -120,7 +120,7 @@ Ammamma's bunch of keys hung on a long red thread from her waist. Revathi untied
 
 Revathi stood near the wall and held the thread. She moved her hand in a tiny circle. The keys went round and round below it. Their big black shadow moved on the wall.
 
-Arjun was on the sofa. "You're swinging them," he said. "Like an uyyala."
+Arjun was on the sofa. "You're swinging them," he said. "Like an uyyala, a swing."
 
 "I'm not swinging," said Revathi. "They're going round. Look down at them."
 
@@ -134,7 +134,7 @@ She looked at the wall. The shadow went to the left, then to the right, then to 
 
 "No! You told me to go round," said Arjun.
 
-Revathi got up and looked down at the keys from above. They were going round in a circle. She sat down on the sofa again. Back and forth. She got up again. Round.
+Revathi got up and looked down at the keys from above. They were going round in a circle. She sat down on the sofa again. The shadow went back and forth. She got up again. The keys went round.
 
 "It's the same keys," she said slowly. "From the top, they go round. From the side, they go back and forth."
 
@@ -197,11 +197,11 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
   - Check: An oar pushes a boat through the water, again and again. What path does the oar take? → **Back and forth**
 ### g2 · Who Starts It? The quick-hands card game (10 min)
 - **rules:** Agree on three hand signs: hands on your chest for BY THEMSELVES, pushing palms for PUSHED OR PULLED, and rolling fists for MOTOR.; Shuffle the cards and deal them out equally. Each player has a pile. With 2 players, you have 6 cards each.; Take turns. The reader reads the front of one card and does not show a sign.; Everyone else shows a sign as fast as they can.; The reader reads the back. Everyone with the right sign gets a point.; A player who gives a good reason for a different sign also gets a point.; Play until all 12 cards are read. The most points wins. If it is a tie, everyone wins.
-- **Printable cards: 12 mover cards:** An ant walking to a grain of sugar (back: BY THEMSELVES) [picture]; A football after a kick (back: PUSHED); A ceiling fan (back: MOTOR); A crow flying off the window grille (back: BY THEMSELVES) [picture]; A kite in the sky at Sankranti (back: PUSHED by the wind, and PULLED by the string); An auto on the road (back: MOTOR, an engine); You, walking to the kitchen (back: BY THEMSELVES); A door closing in the wind (back: PUSHED by the wind); A lift going up (back: MOTOR); A fish swimming in a pond (back: BY THEMSELVES) [picture]; A pulled cart of vegetables (back: PULLED by the person); Mustard seedlings leaning to the window (back: BY THEMSELVES, very slowly)
+- **Printable cards: 12 mover cards:** An ant walking to a grain of sugar (back: BY THEMSELVES) [picture]; A football after a kick (back: PUSHED); A ceiling fan (back: MOTOR); A crow flying off the window grille (back: BY THEMSELVES) [picture]; A kite in the sky at Sankranti (back: PUSHED by the wind, and PULLED by the string); An auto on the road (back: MOTOR, an engine); You, walking to the kitchen (back: BY THEMSELVES); A door closing in the wind (back: PUSHED by the wind); A lift going up (back: MOTOR); A fish swimming in a pond (back: BY THEMSELVES) [picture]; A cart of vegetables being pulled by a person (back: PULLED by the person); Mustard seedlings leaning to the window (back: BY THEMSELVES, very slowly)
 - **s1 (2 min)**  
   *Parent does:* Teach the three hand signs and practise each one.  
   *Parent says:* Hands on your chest means the thing moves by itself. Pushing palms means a push or pull. Rolling fists means a motor.  
-  *Child mode:* Learn the signs. Chest, pushing palms, rolling fists.
+  *Child mode:* Learn the three signs: hands on your chest, pushing palms, and rolling fists.
 - **s2 (7 min)**  
   *Parent does:* 1. Deal the cards. 2. The reader reads a card and the others show a sign. 3. Read the back and give points. 4. Next player reads.  
   *Parent says:* A kite in the sky at Sankranti. What starts it moving? Show your sign!  
@@ -209,9 +209,10 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
   - Ask: Why did you show pushing palms for the kite? (good: The wind pushes it.; The string pulls it.)
   - Note: The seedlings card surprises many children. Plants move by themselves, but slowly, over hours and days.
 - **s3 (1 min)**  
-  *Parent does:* Count the points.  
-  *Parent says:* Who has the most points? Which card made you think the hardest?  
-  *Child mode:* Count your points. Which card was hardest?
+  *Parent does:* Count the points. Then ask the question below.  
+  *Parent says:* Mustard seedlings lean to the window by themselves. Why do many people not notice that plants move?  
+  *Child mode:* Count your points. Plants move by themselves. Why do we not notice?
+  - Ask: Why do many people not notice that plants move by themselves? (good: Plants move very slowly, over hours and days.; We would have to watch for a whole day to see a plant move.)
   - Check: A fish swims to the top of the pond for food. What starts the fish moving? → **The fish, on her own**
 
 ## Experiments
@@ -239,9 +240,9 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
   *Child mode:* Look down at the keys. What shape do they make? Count 10 rounds.
   - Ask: What path did you see from the top? (good: A circle.; Round and round.)
 - **s4 (5 min)**  
-  *Parent does:* 1. Your child lies on the floor 2 big steps away, with chin on hands and eyes as low as the keys (or sits on the floor). 2. Keep the keys going round exactly as before. 3. Your child says 'tick' each time the keys reach the left end. 4. You count 10 rounds.  
+  *Parent does:* 1. Your child lies on the floor 2 big steps away, chin on hands. Then their eyes are as low as the keys. Sitting on the floor also works. 2. Keep the keys going round exactly as before. 3. Your child says 'tick' each time the keys reach the left end. 4. You count 10 rounds.  
   *Parent says:* Now put your eyes as low as the keys. Say tick each time they reach the left end. What path do you see now?  
-  *Child mode:* Lie down. Look from the side. Say tick at the left end.
+  *Child mode:* Lie down and look at the keys from the side. Say 'tick' each time they reach the left end.
   - Ask: What path did you see from the side? (good: They go side to side.; Back and forth, like a swing.; A straight line.)
   - Note: From the side, the keys seem to go only left and right, like a swing. While you count 10 rounds, your child should count about 10 ticks. One round looks like one back and forth.
 - **s5 (3 min)**  
@@ -252,7 +253,7 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 - **s6 (3 min)**  
   *Parent does:* 1. Fill in the table together. 2. Ask what your child saw, and why it looked different.  
   *Parent says:* From the top you saw a circle. From the side you saw back and forth. Were the keys doing two things, or one thing?  
-  *Child mode:* From the top, a circle. From the side, back and forth. Did the keys change?
+  *Child mode:* From the top you saw a circle. From the side you saw back and forth. Did the keys change what they were doing?
   - Ask: Why did the keys look different? (good: They went round all the time. I looked from a different place.; From the side I could not see them come closer and go away.)
   - Note: Now explain. From the side, you cannot see the keys coming towards you and going away. You only see them go left and right. So a round motion seen from the side looks like a back-and-forth motion.
   - Check: The keys went round in a circle on the string. What did you see from the side, with your eyes low? → **Back and forth, like a swing**
@@ -260,7 +261,7 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 ### e2 · Eyes Shut, Walk Straight: can you stay on the line? (18 min)
 - **question:** Can you walk 8 steps along a straight line with your eyes shut, and stay on it?
 - **predict:** Guess first. With your eyes shut, will you stay on the line, or drift off it? If you drift, which way? Why do you think so?
-- **fair test:** We use the same line, the same start and the same 8 steps every time. Only the eyes change: open or shut. We try eyes open 2 times and eyes shut 3 times, because one try can be a fluke.
+- **fair test:** We use the same line, the same start and the same 8 steps every time. Only the eyes change: open or shut. We try eyes open 2 times and eyes shut 3 times, because one try on its own can come out well or badly by chance.
 - **safety:** Clear the floor first. A grown-up walks beside the child all the time and stops them before any wall, door or corner.
 - **record:** Draw the line. Draw a dot for each place you stopped: blue for eyes open, red for eyes shut.
 - **results table:** Try | Eyes open or shut | How many hand-widths from the line I stopped
@@ -271,16 +272,16 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
   - Note: A tile line in a hall or corridor works well. You need about 8 small steps of clear floor, plus a little more at the end.
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason, and write it down.  
-  *Parent says:* First with eyes open, then with eyes shut. Will you stay on the line with your eyes shut? Why do you think so?  
+  *Parent says:* You will walk the line first with your eyes open, then with your eyes shut. Will you stay on the line with your eyes shut? Why do you think so?  
   *Child mode:* With your eyes shut, will you stay on the line? Why?
   - Ask: Why do you think so? (good: Yes, because I know where the line is.; No, because I can't see it.; I might go a bit to one side.)
 - **s3 (4 min)**  
-  *Parent does:* 1. Your child walks 8 steps along the line with eyes open. 2. Put a slip at their toes. 3. Measure the gap to the line in hand-widths of your child's hand. 4. Do it twice.  
+  *Parent does:* 1. Your child walks 8 steps along the line with eyes open. 2. Put a slip of paper on the floor at their toes. 3. Measure the gap from the slip to the line, counting in widths of your child's hand. 4. Do it twice.  
   *Parent says:* Walk 8 steps along the line with your eyes open. Stop. How far are your toes from the line?  
   *Child mode:* Eyes open. Walk 8 steps on the line. Stop. Look at your toes.
   - Note: With eyes open, most children stay on the line or very close to it.
 - **s4 (6 min) · grown-up needed**  
-  *Parent does:* 1. Your child stands at the start and shuts their eyes. 2. Walk close beside them while they take 8 steps. 3. Put a slip at their toes. 4. Measure the gap in hand-widths. 5. Do it 3 times.  
+  *Parent does:* 1. Your child stands at the start and shuts their eyes. 2. Walk close beside them while they take 8 steps. 3. Put a slip of paper on the floor at their toes. 4. Measure the gap in hand-widths. 5. Do it 3 times.  
   *Parent says:* Now shut your eyes. Walk 8 steps, as straight as you can. I am right beside you. Stop. Now open your eyes.  
   *Child mode:* Shut your eyes. Walk 8 steps. A grown-up is beside you. Stop and look.
   - Ask: What did you see when you opened your eyes? (good: I was off the line.; I went to one side.; I was nearly on it.)
@@ -292,7 +293,7 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
   - Ask: Why do your eyes help? (good: I can see the line.; I can see when I start to turn, and fix it.)
   - Note: Now explain. With eyes open, you see every tiny turn and fix it straight away. With eyes shut, tiny turns add up and nothing tells you to fix them. Scientists tested people walking with their eyes covered in a big field, and many walked in circles.
   - Check: Why did you drift off the line with your eyes shut? → **I could not see my small turns to fix them**
-  - Think: How do you think a person who is blind walks straight along a road?
+  - Think: What else, besides your eyes, could tell you that you are starting to turn? A wall that you touch, or a sound that you listen to, could.
 
 ## Activities
 ### a1 · Path Hunt: straight, round, or back and forth? (10 min)
@@ -318,7 +319,7 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 - **s1 (2 min)**  
   *Parent does:* 1. Draw the three columns on paper. 2. Explain each one with an example.  
   *Parent says:* Some things start moving by themselves, like you. Some need a push or a pull. Some have a motor or an engine inside.  
-  *Child mode:* Three columns. By themselves. Pushed or pulled. Motor or engine.
+  *Child mode:* There are three columns: by themselves, pushed or pulled, and motor or engine.
 - **s2 (6 min)**  
   *Parent does:* 1. Watch from the window together for 5 minutes. 2. For each moving thing, ask what started it. 3. Your child draws or writes it in a column.  
   *Parent says:* Look, a crow flew off the wire. Did anything push the crow? Which column is that?  
@@ -328,14 +329,14 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 - **s3 (4 min)**  
   *Parent does:* 1. Add things from inside the home: the fan, a ball, an ant, the door, you. 2. Talk about any that are hard to sort.  
   *Parent says:* Now the fan. Does it move by itself, or is it moved? What happens to the fan in a power cut?  
-  *Child mode:* Now look inside. The fan. A ball. An ant. You. Which column?
+  *Child mode:* Now look inside your home: the fan, a ball, an ant, and you. Which column does each one go in?
   - Ask: Which one was hardest to sort? Why? (good: The fan, because nobody pushes it but it needs electricity.; A plant, because plants move very slowly.)
   - Note: There is no single right answer for a fan. It has a motor, so nobody pushes it, but it stops when the power goes. Praise a good reason.
   - Check: Which of these has a motor or an engine that starts it moving? → **An auto**
 ### a3 · Buzz the Ruler: back and forth too fast to see (8 min)
-- **record:** Draw the ruler on the table, with arrows at both ends of its free end.
+- **record:** Draw the ruler on the table. At the end that sticks out, draw one arrow pointing up and one arrow pointing down.
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay the ruler on the table with about half sticking out. 2. Your child presses the table end down hard. 3. They flick the free end down.  
+  *Parent does:* 1. Lay the ruler on the table with about half sticking out. 2. Your child presses down hard on the end that is on the table. 3. They flick the free end down.  
   *Parent says:* Press this end down hard. Now flick the other end. What does it do?  
   *Child mode:* Press one end down. Flick the other end. Watch it move.
   - Ask: What path does the end of the ruler take? (good: Up and down, back and forth.; It goes up and down very fast.)
@@ -382,11 +383,11 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 
 ## Challenges
 ### c1 · Draw a Round Path Without Tracing (15 min)
-- **problem:** You want to draw a big circle for a kolam, but you have no plate big enough to trace round. Can you draw a round path, as big as your hand-span or bigger, without tracing anything?
+- **problem:** You want to draw a big circle for a kolam, but you have no plate big enough to trace round. A circle has a middle point, and every part of the circle is the same distance from that middle. Can you draw a round path, as big as your hand-span or bigger, without tracing anything?
 - **your turn:** Try two ways to draw a circle. Which circle came out rounder? Why do you think so?
 - **constraints:** You may not trace round anything.; The circle must be at least as wide as your hand-span.; Use only things from home.
 - **general:** A compass in a geometry box holds one point still while the pencil goes round it.; A string held still at one end and tied to a pencil at the other end keeps the pencil the same distance from the middle.; Kolam artists in Tamil Nadu draw smooth curves freehand with rice flour after a lot of practice.
-- **creative:** Hold the string still with one finger in the middle, and pull the pencil round on the tight string.; Keep the pencil still and turn the paper round under it, like a potter's wheel.; Use your own arm: keep your elbow still on the paper and swing your hand round.; Poke a pencil through a hole at one end of a strip of card, and pin the other end down with a finger.
+- **creative:** Hold the string still with one finger in the middle, and pull the pencil round on the tight string.; Keep the pencil still and turn the paper round under it, like a potter's wheel.; Use your own arm: keep your elbow still on the paper and swing your hand round.; Poke a pencil through a hole at one end of a strip of card. Pin the other end down with a finger, and move the pencil round.
 - **s1 (2 min)**  
   *Parent does:* Read the problem together and ask for ideas.  
   *Parent says:* We need a big circle and have no plate to trace. How could you keep the pencil going round one middle point?  
@@ -414,7 +415,7 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 4. (truefalse) A cycle can go straight along the road while its wheels go round.  
    **Answer:** True. *Why:* True. The whole cycle moves straight, and at the same time each wheel goes round its middle.
 5. (write) Say out loud, and a grown-up writes it down: why did the shadow on the wall look like a swing, when the keys were going round?  
-   **Answer:** Because the shadow showed only the left and right of the keys, not their coming closer and going away.. *Why:* A strong answer says the keys were really going round, and that from the side we see only their left and right.
+   **Answer:** Because the shadow showed the keys moving only left and right. It did not show them coming closer and going away.. *Why:* A strong answer says the keys were really going round, and that from the side we see them move only left and right.
 6. (odd) Three of these move in a straight line. Which one does not?  
    Options: A drawer sliding open / A train on a straight track / A clock's hands / Water falling from a tap  
    **Answer:** 2. *Why:* A clock's hands go round the middle of the clock. The others move along a straight line.
@@ -427,9 +428,9 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 10. (truefalse) Mustard seedlings by a window lean towards the light by themselves, very slowly.  
    **Answer:** True. *Why:* True. The seedlings sense the light and bend towards it. They move by themselves, too slowly to watch.
 ### Three Paths (stretch) (stretch, 10 questions)
-1. (perspective) Kavya and her friend Farhan look at the ceiling fan.  
+1. (perspective) Two friends look at the ceiling fan.  
    **Answer:** Both have a point. Nobody pushes the fan, so it seems to move by itself. But it needs electricity to turn its motor, and it slows and stops in a power cut.. *Why:* A strong answer uses what happens in a power cut. It also sees why the other person thinks so.
-2. (draw) Draw the path of the tip of a fan blade, as you see it lying under the fan. Then draw what a gecko on the wall, level with the fan, would see.  
+2. (draw) Draw the path of the tip of a fan blade, as you see it when you lie under the fan. Then draw what a gecko on the wall, level with the fan, would see.  
    **Answer:** From below: a circle. From the wall: a straight line with arrows at both ends.. *Why:* A strong drawing shows a circle from below and back and forth from the side, like the keys test.
 3. (write) Say out loud, and a grown-up writes it down: why do you need your eyes to walk in a straight line?  
    **Answer:** My eyes show me when I start to turn, so I can fix it. With my eyes shut, the small turns add up.. *Why:* A strong answer uses the eyes-shut test and says that eyes help us notice and fix small turns.
@@ -443,37 +444,37 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
    **Answer:** A coconut falling from a tree → Straight; The Moon going round the Earth → Round; A ruler buzzing on a table → Back and forth; A lift going down → Straight; A potter's wheel → Round; A toothbrush scrubbing → Back and forth. *Why:* Falling and lifts go along a line. The Moon and a potter's wheel go round a middle. A buzzing ruler and a toothbrush go one way and back.
 8. (write) Name one thing that moves in two paths at the same time. Say which part moves which way.  
    **Answer:** For example, a cycle: it goes straight and its wheels go round. Or a sewing machine: the wheel goes round and the needle goes up and down.. *Why:* A strong answer names two parts of one thing and gives each part its own path.
-9. (mcq) Mira, a girl in Class 2, puts her fingers on the front of her throat and hums. What does she feel?  
-   Options: Nothing, because the throat stays still / A circle going round / A buzz, because parts inside her throat vibrate  
-   **Answer:** A buzz, because parts inside her throat vibrate. *Why:* Parts inside the throat move back and forth very fast when we hum. Moving back and forth very fast is called vibrating.
+9. (mcq) Put your fingers on the front of your throat and hum. What do you feel?  
+   Options: Nothing, because the throat stays still / A circle going round / A buzz, because parts inside my throat vibrate  
+   **Answer:** A buzz, because parts inside my throat vibrate. *Why:* Parts inside the throat move back and forth very fast when we hum. Moving back and forth very fast is called vibrating.
 10. (count) A clock's second hand goes round once in one minute. How many times does it go round in 5 minutes?  
    **Answer:** 5. *Why:* One minute is one round. So 5 minutes are 5 rounds.
 ### Three Paths (challenge) (challenge, 10 questions)
-1. (perspective) Meenakshi, Anu and their friend Ravi see a shadow on the wall going back and forth.  
-   **Answer:** Anu and Ravi. In the keys test, the shadow of keys going round looked like a swing. Looking from above shows which it is.. *Why:* A strong answer uses the shadow game as evidence and sees that Meenakshi could still be right: a swing also makes that shadow.
+1. (perspective) Three friends see a shadow on the wall going back and forth.  
+   **Answer:** The second friend and the third friend. In the keys test, the shadow of keys going round looked like a swing. Looking from above shows which it is.. *Why:* A strong answer uses the shadow game as evidence and sees that the first friend could still be right: a swing also makes that shadow.
 2. (write) Galileo saw Jupiter's moons go back and forth beside Jupiter, night after night. Why did he decide they were going round Jupiter?  
    **Answer:** Because something going round, seen from the side, looks like it goes back and forth, and the moons never went far from Jupiter.. *Why:* A strong answer links Jupiter's moons to the keys seen from the side.
-3. (draw) Nisha, a girl in Class 2, says a ball lying still will start rolling by itself if you wait long enough. Draw how you would test this. What do you expect to see?  
+3. (draw) Someone says a ball lying still will start rolling by itself if you wait long enough. Draw how you would test this. What do you expect to see?  
    **Answer:** A ball on a flat floor and a clock. The ball stays still until something pushes it or the floor slopes.. *Why:* A strong plan uses a flat floor, waits a set time, and changes nothing else. It expects the ball to stay still unless a push or a slope starts it.
 4. (truefalse) A ceiling fan keeps going round for a little while after the power goes off.  
    **Answer:** True. *Why:* True. The fan keeps turning for a few seconds after the motor stops, and slows down until it stops.
-5. (write) Asha, a girl in Class 2, says, 'Plants cannot move by themselves.' How would you test what Asha says?  
+5. (write) Someone says, 'Plants cannot move by themselves.' How would you test this?  
    **Answer:** Grow seedlings by a window, see them lean to the light, turn the cup, and see them lean back by the next day.. *Why:* A strong answer describes a test, like the seedling project, where the plant moves with nobody touching the plant.
 6. (match) Match each mover to what starts it moving.  
    **Answer:** An ant → Her own legs; A ceiling fan → A motor and electricity; A kite → The wind and the string; A rowing boat on a river → People pulling the oars; A crow → Her own wings. *Why:* The ant and the crow move themselves. The fan has a motor. The kite and the boat are moved by the wind, a string and people.
 7. (mcq) A wheel rolls along a straight road. What path does the middle of the wheel take?  
    Options: A straight line / A circle / Back and forth  
-   **Answer:** A straight line. *Why:* The rim goes round the middle, but the middle itself goes straight along the road with the cycle.
+   **Answer:** A straight line. *Why:* The rim goes round the middle, but the middle itself goes straight along the road.
 8. (sort) Sort these into BY THEMSELVES, PUSHED OR PULLED, and MOTOR.  
    **Answer:** A pigeon → By themselves; A lift → Motor; Clothes on a line in the wind → Pushed or pulled; A mixie blade → Motor; A goat → By themselves; A cart pulled by a man → Pushed or pulled. *Why:* Pigeons and goats move themselves. A lift and a mixie have motors. Clothes and a cart are moved by the wind and by a person.
-9. (count) Kalpana, a girl in Class 2, watches a giant wheel go round 3 times. She stands to the side of the wheel. Her friend's seat goes up and down. How many times does the seat reach the top?  
+9. (count) You stand to the side of a giant wheel and watch one seat go up and down. The wheel goes round 3 times. How many times does the seat reach the top?  
    **Answer:** 3. *Why:* Each time the wheel goes round once, the seat goes up to the top once. So 3 rounds make 3 trips to the top.
 10. (odd) Three of these are moved by a push or a pull. Which one is not?  
    Options: A football after a kick / A curtain blowing in the wind / A cart pulled by a man / A lift going up  
    **Answer:** 3. *Why:* A lift has a motor that starts it. The football, the curtain and the cart are moved by a foot, the wind and a person.
 
 ## Videos
-- **Jupiter and its moons, a six hour time-lapse** (Ted Judah, 1 min) id `WuJWitQx_Zk`: Shows the moons going back and forth beside Jupiter, as Galileo saw them, because we see their circles from the side. *Check:* Found by search: "Jupiter and Its Moons - Six Hour Timelapse" by Ted Judah, 27 seconds. A parent may preview it.
+- **Jupiter and its moons, a six hour time-lapse** (Ted Judah, 1 min) id `WuJWitQx_Zk`: Shows the moons going back and forth beside Jupiter, as Galileo saw them. They look this way because we see their circles from the side. *Check:* Found by search: "Jupiter and Its Moons - Six Hour Timelapse" by Ted Judah, 27 seconds. A parent may preview it.
 - **Tomato seedlings bending towards light, a time-lapse** (MOTH, 1 min) id `Y_EjZdNUtEU`: Shows seedlings moving by themselves towards a light, as in the seedling project. *Check:* Found by search: "Phototropism Time Lapse | Tomato Seedlings Reaching for the Sun" by MOTH, 18 seconds. A parent may preview it.
 - **A ball going round in a circle and its shadow moving back and forth** (Brown Physics Demos, 1 min) id `J2gpEgjy1qg`: Shows a round motion and its back-and-forth shadow side by side, as in the keys test. Short, with no talking needed. *Check:* Found by search: "1D10.50 Simple Harmonic Motion and Uniform Circular Motion" by Brown Physics Demos, 26 seconds. A parent may preview it.
 
@@ -495,8 +496,8 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
    **Answer:** They go round. *Why:* The auto goes straight while each wheel goes round its middle.
 6. (mcq) A gecko sits on the wall, level with a ceiling fan. The fan blades go round. What path do the blades seem to take to the gecko?  
    Options: A bigger circle / Back and forth / The blades seem to stand still  
-   **Answer:** Back and forth. *Why:* From the side, the gecko sees only the left and right of each blade, so a round path looks like back and forth.
-7. (mcq) Which of these moves by themselves?  
+   **Answer:** Back and forth. *Why:* From the side, the gecko sees each blade move only left and right, so a round path looks like back and forth.
+7. (mcq) Which of these starts moving with no push or pull?  
    Options: A football / A curtain / A crow  
    **Answer:** A crow. *Why:* A crow starts and stops by herself. A football and a curtain need a push from a foot or the wind.
 8. (mcq) Which of these is moved by the wind?  
@@ -505,9 +506,9 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 9. (mcq) You walk 8 steps on a line with your eyes shut. What usually happens?  
    Options: You stay exactly on the line / You walk faster / You drift off the line a little  
    **Answer:** You drift off the line a little. *Why:* Without your eyes, small turns add up and you drift.
-10. (mcq) Gopal, a boy in Class 2, guesses the keys will look round from every side. What should he do next?  
+10. (mcq) You guess that the keys will look round from every side. What should you do next?  
    Options: Test it by looking from the side / Ask a friend and believe them / Give up  
-   **Answer:** Test it by looking from the side. *Why:* A guess is checked by a test. Gopal can lie down and look from the side.
+   **Answer:** Test it by looking from the side. *Why:* A guess is checked by a test. You can lie down and look at the keys from the side.
 
 ## Applications
 - Trains, lifts and drawers run on straight tracks or rails so they move in a straight line.
@@ -515,15 +516,15 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 - Old clocks used a swinging pendulum, a weight going back and forth, to keep time.
 - Sewing machines turn round motion into the needle's up-and-down motion.
 - Cradles and swings rock babies and children back and forth.
-- Engineers use circles to work out how swings and springs move back and forth.
+- Engineers use the maths of circles to work out how swings and springs move back and forth. They can do this because a swing's motion follows the same pattern as a round motion seen from the side.
 
 ## Spotted around us
-- A Mumbai local train running straight along the tracks.
-- A giant wheel turning at a Durga Puja mela in Kolkata.
-- A cloth cradle rocking in a home in Kerala.
-- Boatmen pulling their oars back and forth at the ghats in Varanasi.
-- Women drawing round kolam patterns at a doorstep in Madurai.
-- Pigeons and crows taking off from a balcony in Pune.
+- A Mumbai local train runs straight along the tracks.
+- A giant wheel turns at a Durga Puja mela in Kolkata.
+- A cloth cradle rocks back and forth in a home in Kerala.
+- Boatmen pull their oars back and forth at the ghats in Varanasi.
+- Women draw round kolam patterns at a doorstep in Madurai.
+- Pigeons and crows take off from a balcony in Pune.
 
 ## Open questions
 - **Why do people walk in circles when they cannot see?** Scientists tested people walking with their eyes covered in a big field, and many walked in circles. Each person drifted in their own way. Scientists are still working out exactly why the small turns build up.
@@ -549,8 +550,8 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 
 ## Connected maths
 - In the story, Revathi counted 12 rounds of her keys from above. Her cousin Arjun watched from the side and counted the back-and-forths. Arjun counted 12 too. Why did the counts match? **Because one round looks like one back and forth from the side. So 12 rounds look like 12 back-and-forths.**. Each time the keys go round once, they reach the left end once. So the number of ticks from the side is the same as the number of rounds from above. Matching counts show it was one motion seen two ways. (queues `math.number-sense.comparing-ordering.L2`)
-- Lakshmi, a girl in Class 2, did the eyes-shut test. She stopped 0 and 0 hand-widths from the line with her eyes open. With her eyes shut she stopped 1, 3 and 2 hand-widths away. Which try was furthest from the line? What do the numbers tell you about eyes? **The second eyes-shut try, at 3 hand-widths. Every eyes-shut try was further from the line than every eyes-open try.**. 3 is the biggest number, so that try drifted most. All the eyes-shut numbers are bigger than 0. So eyes help Lakshmi stay on the line, even though each eyes-shut try was different. (queues `math.number-sense.comparing-ordering.L2`)
-- Fatima, a girl in Class 2, did the Path Hunt. She ticked 5 things for STRAIGHT, 4 for ROUND and 3 for BACK AND FORTH. Draw a tally for each. How many things did she find in all? Which path did she find most? **12 things in all. STRAIGHT had the most, with 5.**. 5 and 4 make 9, and 3 more makes 12. 5 is the biggest number, so straight things were the most common in her home. (queues `math.data.sorting-and-tallies.L2`)
+- Here are the results of one eyes-shut test. With eyes open, the walker stopped 0 and 0 hand-widths from the line. With eyes shut, the walker stopped 1, 3 and 2 hand-widths away. Which try was furthest from the line? What do the numbers tell you about eyes? **The second eyes-shut try, at 3 hand-widths. Every eyes-shut try was further from the line than every eyes-open try.**. 3 is the biggest number, so that try drifted most. All the eyes-shut numbers are bigger than 0. So eyes help the walker stay on the line, even though each eyes-shut try was different. (queues `math.number-sense.comparing-ordering.L2`)
+- In one Path Hunt, 5 things were ticked for STRAIGHT, 4 for ROUND and 3 for BACK AND FORTH. Draw a tally for each. How many things were found in all? Which path was found most? **12 things in all. STRAIGHT had the most, with 5.**. 5 and 4 make 9, and 3 more makes 12. 5 is the biggest number, so straight things were the most common in that home. (queues `math.data.sorting-and-tallies.L2`)
 
 ## Song
 Straight, Round, Back and Forth (sci.motion.L2): Topic-level song for Motion L2
