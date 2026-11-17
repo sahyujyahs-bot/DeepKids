@@ -63,8 +63,8 @@ A gecko waits by the tube light every night, because moths come there. A crow tr
 - Many wild animals live in towns and cities, right next to us. *How we know:* Crows, pigeons, sparrows, squirrels, geckos, ants and spiders live in Indian cities. When people count the birds in a city, they find dozens of kinds.
 
 ## How we found out
-**Mary Anning, an English fossil hunter, with her brother Joseph; William Buckland, who named coprolites, The ichthyosaur skeleton about 1811 to 1812; coprolites named in 1829.** About 200 years ago, in Lyme Regis, a seaside town in England, a girl called Mary Anning hunted for fossils. Fossils are the remains of living beings from long ago, turned to stone. Mary's family was poor, and she sold fossils to visitors to earn money. Her brother Joseph dug up the skull of an ichthyosaur, and Mary found the rest of the skeleton, and she grew up to be a famous fossil hunter. Ichthyosaurs were big sea animals with long jaws full of pointed teeth. Pointed teeth are good for gripping slippery fish. On the same beach, people found odd round stones. They called them bezoar stones, and nobody knew what they were. Mary noticed that these stones often lay inside the belly of an ichthyosaur skeleton. When she broke them open, she found tiny fish bones and fish scales inside. The stones were fossil poo! In 1829, the scientist William Buckland named them coprolites. Now people could see what ichthyosaurs ate: fish, just as their teeth suggested. Mary was not allowed to join the Geological Society of London, because she was a woman.  
-*What people believed before:* That the 'bezoar stones' on the beach were just odd stones. Mary Anning found them inside ichthyosaur skeletons, broke them open and found fish bones and scales: they were fossil poo, which showed what ichthyosaurs ate.
+**Mary Anning, an English fossil hunter, with her brother Joseph; William Buckland, who named coprolites, The ichthyosaur skeleton about 1811 to 1812; coprolites named in 1829.** About 200 years ago, in Lyme Regis, a seaside town in England, a girl called Mary Anning hunted for fossils. Fossils are the remains of living beings from long ago, turned to stone. Mary's family was poor, and she sold fossils to visitors to earn money. Her brother Joseph dug up the skull of an ichthyosaur, and Mary found the rest of the skeleton. She grew up to be a famous fossil hunter. Ichthyosaurs were big sea animals with long jaws full of pointed teeth. Pointed teeth are good for gripping slippery fish. On the same beach, people found odd round stones. They called them bezoar stones, and nobody knew what they were. Mary noticed that these stones often lay inside the belly of an ichthyosaur skeleton. When she broke them open, she found tiny fish bones and fish scales inside. The stones were fossil poo! In 1829, the scientist William Buckland named them coprolites. Now people could see what ichthyosaurs ate: fish, just as their teeth suggested. Mary was not allowed to join the Geological Society of London, because she was a woman.  
+*What people believed before:* People thought the 'bezoar stones' on the beach were just odd stones. Mary Anning found them inside ichthyosaur skeletons, broke them open and found fish bones and scales. They were fossil poo, which showed what ichthyosaurs ate.
 
 ## Challenging perspectives
 - **Humans are not animals.** (A very common idea, among children and grown-ups; *rejected*)  
@@ -81,22 +81,22 @@ A gecko waits by the tube light every night, because moths come there. A crow tr
 We have found the animals in our home and tested our own teeth. Now we ask what our mouths tell us about ourselves and the other animals.
 
 **Deep truth.** In our chewing test, front teeth bit the food and back teeth ground it up. Curd needed almost no chewing, and carrot needed the most. Humans have both kinds of teeth because humans eat many kinds of food. So an animal's mouth shows what that animal eats.  
-*Habit it breaks:* We think of teeth as just for eating, the same in everyone. But every animal's mouth is shaped by their food, so looking in a mouth tells you how that animal lives.  
+*Habit it breaks:* We usually think teeth are just for eating, and the same in every animal. But each animal's mouth is shaped for their food, so looking in a mouth tells you how that animal lives.  
 *Evidence:* In the chewing test, thin front teeth bit the carrot and the chapati, and wide back teeth chewed every food except the curd. The hard carrot needed many more chews than the soft banana.
 
-- *who am i:* You are an animal with teeth for many foods. Your mouth tells the story of what humans eat.
+- *who am i:* You are an animal with teeth for many foods. Your thin front teeth and wide back teeth show that humans eat many kinds of food.
 - *what is life:* Every animal must find food. The ant, the crow, the gecko and you each have a body that fits your own food.
 - *what is this world:* One flat is home to many animals. Each one lives where they find their food and a safe place.
 
-The ant, the crow, the gecko and you all need food. Each of you gets it in a different way: jaws, a beak, tiny gripping teeth, front and back teeth. One need, food, has given each animal a different mouth. So the animals in one small flat show many answers to the same need.
+The ant, the crow, the gecko and you all need food. Each of you gets it with a different mouth: the ant has jaws, the crow has a beak, the gecko has tiny gripping teeth, and you have front and back teeth. So the animals in one small flat all need food. Each one gets it in their own way.
 
-- **Zhuangzi, chapter 2 (Discussion on Making All Things Equal):** Zhuangzi, a Chinese thinker, wrote that people eat the meat of farm animals, deer eat grass, centipedes eat snakes, and owls and crows eat mice. Then he asked: which of them knows the right taste? (Our home hunt found the same thing. Each animal eats a different food, and each mouth fits their own food. No one food is right for everyone.)
+- **Zhuangzi, chapter 2 (Discussion on Making All Things Equal):** Zhuangzi, a Chinese thinker, wrote that people eat the meat of farm animals, deer eat grass, centipedes eat snakes, and owls and crows eat mice. Then he asked: which of them knows the right taste? (The animals in our home show the same thing. Each animal eats a different food, and each mouth fits their own food. No one food is right for everyone.)
 - **Thirukkural 322, by Thiruvalluvar:** To share your food and to care for all living beings is the best of all the teachings. (Every animal in our home needs food, as we do. Many families share a little rice with the crows each day.)
 - Science (settled): An animal's teeth or beak fit the food they eat. Scientists can tell what a fossil animal ate by looking at their teeth.
 - Science (open): Animals sense, choose and remember. What eating feels like to a gecko or an ant, nobody knows.
 - Other view, Many biologists: Many biologists say a gecko waiting by the light is acting on instinct, set off by the light and the moving insects. They say the gecko is born knowing how to hunt, and they would not call it a choice.
 - Practice, One slow bite (3 min): Take one raisin or a small piece of fruit. Close your eyes. Bite it slowly with your front teeth. Feel your tongue move it to the back. Feel your back teeth chew. Before you swallow, think of the crow and the ant, who are eating somewhere too.
-- Ask: A crow has no teeth, and you have about twenty. Who has the better mouth?
+- Ask: A crow has a beak and no teeth. A cow has wide, flat back teeth. Whose mouth is better for grass, and whose is better for picking up rice?
 - Ask: Why might one animal love a food that another animal leaves alone?
 - Ask: What do you think the crow at the window learns about you?
 
@@ -131,7 +131,7 @@ That night, the tube light was on in the hall. Moths flew round and round the li
 
 'Will the gecko bite us?' asked Selvan. 'Is the gecko poisonous?'
 
-'No,' said Amma. 'Our gecko has no poison. The gecko eats the moths and the mosquitoes. In the day, the gecko hides behind the cupboard, in the dark and safe.'
+'No,' said Amma. 'Our gecko has no poison. The gecko eats the moths and the mosquitoes. In the day, the gecko hides behind the cupboard, where it is dark and safe.'
 
 'How does the gecko walk on the ceiling?' asked Ponni.
 
@@ -141,7 +141,7 @@ Ponni drew the gecko next to the light. Then she looked at her picture. There we
 
 At dinner, Paati made dosa, with a carrot salad on the side. Ponni bit a piece of carrot with her front teeth. Crunch. Then she chewed it with her back teeth, round and round.
 
-'Paati,' said Ponni, with her mouth full. 'I bite with my front teeth, like the gecko snaps. And I chew with my back teeth. Which animal chews like me?'
+'Paati,' said Ponni, with her mouth full. 'I bite with my front teeth, the way the gecko snaps up a moth. And I chew with my back teeth. Which animal chews like me?'
 
 'A cow chews grass all day with her flat back teeth,' said Paati. 'Every animal has a mouth for their own food. The crow has a beak for rice, and you have teeth for dosa and carrots.'
 
@@ -157,7 +157,7 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
 
 ## Games
 ### g1 · Feed Us! A feeding card game (15 min)
-- **rules:** Lay the 8 animal cards in a row, face up. Mix the 16 food cards and put them face down in a pile.; Take turns. Turn over the top food card and read the front aloud. A grown-up helps with reading.; Put the food card under an animal who you think eats that food. Say how that animal's mouth gets the food.; Turn the card over and read the back. If your animal is on the back, you score 1. Make a tally mark on paper.; If your animal is not on the back, move the card under an animal from the back. Nobody scores.; When the pile is used up, add up the tally marks. The player with the most wins. If it is a tie, you both win. Then look at the row. Which animal got the most food cards?
+- **rules:** Lay the 8 animal cards in a row, face up. Mix the 16 food cards and put them face down in a pile.; Take turns. Turn over the top food card and read the front aloud. A grown-up helps with reading.; Put the food card under an animal who you think eats that food. Say how that animal's mouth gets the food.; Turn the card over and read the back. If your animal is on the back, you score 1. Make a tally mark on paper.; If your animal is not on the back, move the card under one of the animals named on the back. Nobody scores.; When the pile is used up, add up the tally marks. The player with the most wins. If it is a tie, you both win. Then look at the row. Which animal got the most food cards?
 - **Printable cards: 8 animal cards to cut out and lay in a row:** Ant (back: Eats sugar, crumbs, sweet fruit and dead insects.) [picture]; Crow (back: Eats almost anything: rice, fruit, insects and scraps.) [picture]; Pigeon (back: Eats grains and seeds.) [picture]; Gecko (back: Eats moths, mosquitoes and other small insects.) [picture]; Cow (back: Eats grass, hay and vegetable peels.) [picture]; Butterfly (back: Sips sweet juice called nectar from flowers.) [picture]; Spider (back: Eats flies and other insects caught in the web.) [picture]; Me, a human (back: Eats many foods: rice, dal, fruit, vegetables, milk, and for many families, eggs, fish or meat.)
 - **Printable cards: 16 food cards to cut out:** A grain of sugar (back: Ant, crow, and you.); A ball of rice (back: Crow, pigeon, ant, and you.); A moth (back: Gecko, spider and crow.) [picture]; A mosquito (back: Gecko and spider.) [picture]; A bundle of grass (back: Cow.); A flower (back: Butterfly, who sips the nectar inside.); A fly (back: Spider, gecko and crow.) [picture]; Wheat and bajra grains (back: Pigeon. You eat them too, ground into flour.); A banana peel (back: Cow, crow and ants.); A biscuit crumb (back: Ant, crow, and you.); A cup of milk (back: You. A calf drinks milk from her mother.); A piece of mango (back: You, the crow and the ants.); A dead beetle (back: Ants and crows.); A plate of dosa (back: You and the crow.); Vegetable peels (back: Cow and crow.); A spoon of dal (back: You and the crow.)
 - **s1 (3 min)**  
@@ -165,19 +165,20 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
   *Parent says:* Every animal here needs food. Your job is to give each food to an animal who eats that food.  
   *Child mode:* Look at the animals in the row. Each one needs food.
 - **s2 (9 min)**  
-  *Parent does:* Take turns. Turn a food card, put it under an animal, then read the back aloud. Score 1 for a right match.  
+  *Parent does:* Take turns. Turn over a food card, put it under an animal, then read the back aloud. Score 1 for a right match.  
   *Parent says:* Who eats this food? How does that animal pick up or chew this food?  
-  *Child mode:* Turn a card. Who eats this food? Put it under that animal.
+  *Child mode:* Turn over a card. Who eats this food? Put it under that animal.
   - Ask: How does the gecko eat a moth? (good: The gecko snaps the moth up fast.; The gecko grips the moth with tiny teeth.)
   - Ask: Why does the grass go to the cow? (good: The cow has flat teeth to chew grass.; Cows eat grass all day.)
 - **s3 (3 min)**  
   *Parent does:* At the end, count the tally marks and look at the row together. Ask which animal got the most cards, and why.  
   *Parent says:* Look at the row. Which animal got the most food cards, and which got the fewest? Why?  
   *Child mode:* Which animal got the most food cards? Why?
-  - Check: Which animal eats grass? → **Cow**
+  - Note: If every card was matched right, the crow gets the most, 11 cards. The butterfly gets the fewest, only the flower. An animal that eats many kinds of food gets many cards.
+  - Check: Which animal got the most food cards? → **The crow**
 ### g2 · Where Do I Live? A hide-and-seek game (15 min)
-- **rules:** The grown-up hides the 10 cards around the home, each in a place where that animal might really live.; The child searches the home and finds the cards. If a card is hard to find, the grown-up gives a clue.; For each card found, the child says why that animal might live there.; The grown-up reads the part of the back after the word Why.; When all 10 cards are found, put them on a drawing of the home.
-- **Printable cards: 10 animal cards to cut out and hide:** Ant (back: Hide: near a kitchen corner or a crack in the floor. Why: Ants live in cracks, close to crumbs.) [picture]; Gecko (back: Hide: behind a photo frame or a cupboard. Why: Geckos hide in dark gaps in the day.) [picture]; Spider (back: Hide: a corner of a room, where your child can reach. Why: Spiders make webs in quiet corners where insects fly in.) [picture]; Pigeon (back: Hide: a low shelf near a window. Why: Pigeons rest on ledges and on air-conditioner boxes.); Mosquito (back: Hide: near a bucket or a plant pot saucer. Why: Mosquitoes lay eggs in still water.) [picture]; Cockroach (back: Hide: under the kitchen sink. Why: Cockroaches like dark, damp places near food.) [picture]; Crow (back: Hide: near the window that looks out at a tree. Why: Crows build nests high up in trees.) [picture]; Moth (back: Hide: near a light. Why: Many moths fly to lights at night.) [picture]; Squirrel (back: Hide: near a window with a tree outside. Why: Squirrels make nests of grass high in trees.) [picture]; Me, a human (back: Hide: on your bed. Why: You live here too!)
+- **rules:** The grown-up hides the 10 cards around the home, each in a place where that animal might really live.; The child searches the home and finds the cards. If a card is hard to find, the grown-up gives a clue.; For each card found, the child says why that animal might live there.; The grown-up then reads aloud what the back of the card says after the word Why.; When all 10 cards are found, put them on a drawing of the home.
+- **Printable cards: 10 animal cards to cut out and hide:** Ant (back: Hide: near a kitchen corner or a crack in the floor. Why: Ants live in cracks, close to crumbs.) [picture]; Gecko (back: Hide: behind a photo frame or a cupboard. Why: Geckos hide in dark gaps in the day.) [picture]; Spider (back: Hide: in a corner of a room, where your child can reach. Why: Spiders make webs in quiet corners where insects fly in.) [picture]; Pigeon (back: Hide: on a low shelf near a window. Why: Pigeons rest on ledges and on air-conditioner boxes.); Mosquito (back: Hide: near a bucket or a plant pot saucer. Why: Mosquitoes lay eggs in still water.) [picture]; Cockroach (back: Hide: under the kitchen sink. Why: Cockroaches like dark, damp places near food.) [picture]; Crow (back: Hide: near the window that looks out at a tree. Why: Crows build nests high up in trees.) [picture]; Moth (back: Hide: near a light. Why: Many moths fly to lights at night.) [picture]; Squirrel (back: Hide: near a window with a tree outside. Why: Squirrels make nests of grass high in trees.) [picture]; Me, a human (back: Hide: on your bed. Why: You live here too!)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 10 cards. 2. While your child waits in another room, hide each card in the place written after the word Hide on its back.  
   *Parent says:* I have hidden 10 animals in our home. Each one is where that animal might really live.  
@@ -193,13 +194,14 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
   *Parent does:* Draw a quick plan of your home together. Put each card on the room where it was found.  
   *Parent says:* Look at our home. How many animals might live here with us?  
   *Child mode:* Put each card on the drawing of your home. How many animals live here?
+  - Note: You found all 10 cards, and you are one of them. A real home has even more animals, such as ants and spiders in places you have not looked.
   - Check: Where does a gecko hide in the day? → **Behind a cupboard, in the dark**
 
 ## Experiments
 ### e1 · The Chewing Test: which teeth do you use for each food? (25 min)
 - **question:** Which teeth do you use to bite and to chew each food? Which food needs the most chews?
 - **predict:** Guess first. Which food will need the most chews? Which will need no chewing at all? Why do you think so?
-- **fair test:** Every solid piece is about the size of the top of your thumb. Curd is one small spoon. You chew in your usual way, and the grown-up counts every chew the same way. A grown-up does the same test, so we can compare.
+- **fair test:** Every solid piece is about the size of the top of your thumb. The curd is one small spoon. You chew in your usual way, and the grown-up counts every chew the same way. A grown-up does the same test, so we can compare.
 - **safety:** Sit down to eat, and stay with your child the whole time. Use small pieces and a thin carrot stick. Use only foods your child already eats, and wash hands first. A grown-up cuts the carrot.
 - **record:** Draw your mouth, with thin front teeth and wide back teeth. Next to each food, draw a tally of the chews.
 - **results table:** Food | Which teeth bit it? | How many chews? | Which teeth chewed it?
@@ -210,7 +212,7 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
   - Ask: How are the front teeth and back teeth different? (good: The front ones are thin and flat, like a knife.; The back ones are big and wide and bumpy.)
   - Note: Many six-year-olds have a gap where a milk tooth fell out. That is fine. A bigger tooth is coming. Ask your child to notice if biting is harder there.
 - **s2 (3 min) · grown-up needed**  
-  *Parent does:* 1. Cut a thumb-sized piece of banana, carrot and chapati. 2. Put one spoon of curd and a small pinch of puffed rice on the plate. 3. Ask your child to guess, and to say why.  
+  *Parent does:* 1. Cut one piece each of banana, carrot and chapati, each about the size of the top of your thumb. 2. Put one spoon of curd and a small pinch of puffed rice on the plate. 3. Ask your child to guess, and to say why.  
   *Parent says:* Which food will need the most chews? Which will need none? Why do you think so?  
   *Child mode:* Guess. Which food needs the most chews? Which needs none? Why?
   - Ask: Why do you think so? (good: The carrot is hard, so it needs lots of chews.; Curd is soft, so I can just swallow it.)
@@ -224,17 +226,18 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
   - Note: Put a finger on your child's cheek near the back teeth while they chew. They can feel the jaw working. Most children find the curd needs almost no chewing and the carrot needs the most.
 - **s4 (5 min)**  
   *Parent does:* Now swap. A grown-up eats the same five foods. Your child counts the grown-up's chews.  
-  *Parent says:* Now it is my turn. You count my chews. Will I need more chews or fewer?  
+  *Parent says:* Now it is my turn. You count my chews. Will I need more chews than you, or fewer?  
   *Child mode:* Now count your grown-up's chews. Are they more or fewer than yours?
-  - Ask: Was the order the same for both of us? (good: Yes, curd was fewest and carrot was most.; You needed fewer chews, but the carrot still needed the most.)
-  - Note: A grown-up's chew counts are usually a little different, but the order of the foods is often the same. That shows the food, not only the person, decides the chewing.
+  - Ask: Did the same food need the most chews for both of us? And the fewest? (good: Yes, curd was fewest and carrot was most.; You needed fewer chews, but the carrot still needed the most.)
+  - Note: A grown-up's chew counts are usually a little different, but the order of the foods is often the same. This shows that how much you chew depends on the food, not only on the person.
 - **s5 (2 min)**  
   *Parent does:* Look at the tally together. Ask your child to say what they found.  
   *Parent says:* What did you find? What did your front teeth do, and what did your back teeth do?  
   *Child mode:* Tell your grown-up what you found. What do front teeth do? What do back teeth do?
   - Ask: What do your front teeth do, and what do your back teeth do? (good: Front teeth bite pieces off.; Back teeth chew the food up small.)
+  - Note: Grass is tough, so a cow has to chew a lot. Her wide, flat back teeth grind it small. A good answer says that grass is hard to chew, like the carrot.
   - Check: Which teeth bite a piece off a carrot? → **Front teeth**
-  - Think: A cow eats grass all day. Why might she need to chew so much?
+  - Think: The carrot needed many chews, because it is hard. Grass is tough too. Why might a cow need to chew so much?
 
 ## Activities
 ### a1 · Who Else Lives in Our Home? (10 min)
@@ -250,7 +253,6 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
   *Parent says:* Draw everyone who lives here. Did you forget anyone?  
   *Child mode:* Draw every animal you found. Did you forget anyone? Draw yourself too.
   - Ask: Did you draw yourself? Why should you? (good: Because I am an animal too.; People are animals.)
-  - Think: Who lived in this place before our building was built?
 ### a2 · Gecko by the Light (if a gecko lives with you) (10 min)
 - **record:** Draw the gecko, the light and any insect the gecko caught.
 - **s1 (6 min)**  
@@ -264,12 +266,13 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
   *Parent says:* How did the gecko move? How do you think the gecko stays on the wall without falling?  
   *Child mode:* How did the gecko move? How does the gecko not fall?
   - Ask: How does a gecko climb a wall? (good: Tiny hairs on the toes cling to the wall.; The toes have millions of tiny hairs that hold on.)
-  - Think: The gecko chose this light. How did the gecko know the moths would come?
+  - Note: The gecko most likely learned this. On earlier nights, moths came to this light, and the gecko remembered. Any answer about learning or remembering is a good answer.
+  - Think: The gecko waits at the same light every night. How might the gecko know that moths come there?
 ### a3 · Walk or Hop? Watch a bird on the ledge (8 min)
 - **record:** Draw how the bird moved: one-two-one-two footprints for walking, or pairs side by side for hopping.
 - **s1 (5 min)**  
-  *Parent does:* An hour before, put a few rice grains on the ledge or the balcony floor. Then stand back from the window and wait quietly. Watch how the bird moves.  
-  *Parent says:* Watch the bird's feet. Does the bird put one foot, then the other? Or both feet together?  
+  *Parent does:* An hour before you watch, put a few rice grains on the ledge or the balcony floor. Then stand back from the window and wait quietly. Watch how the bird moves.  
+  *Parent says:* Watch the bird's feet. Does the bird put down one foot, then the other? Or both feet together?  
   *Child mode:* Watch the bird's feet. One foot, then the other? Or both feet together?
   - Ask: Did the bird walk or hop? (good: The pigeon walked, one foot then the other.; The sparrow hopped.)
   - Note: Pigeons and mynas walk, one foot at a time. Pigeons nod their head with each step. Sparrows hop with both feet together. Crows walk and also hop. Stay behind the window grill and never lean out. Birds may not come in five minutes. If none comes, watch again later in the day, or on a short walk outside.
@@ -284,7 +287,7 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
 - **record:** A photo or a drawing of your three puppets.
 - **schedule:** day 1: Choose three animals from your home. Draw them on cardboard, cut them out and tape them to sticks. (15 min); day 2: Put on the puppet show for your family. (10 min)
 - **s1 (15 min) · grown-up needed**  
-  *Parent does:* 1. Your child chooses three animals from the home hunt. 2. They draw each one on cardboard, about the size of a hand. 3. A grown-up cuts them out. 4. Tape each one to a stick.  
+  *Parent does:* 1. Your child chooses three animals who live in or near your home. 2. They draw each one on cardboard, about the size of a hand. 3. A grown-up cuts them out. 4. Tape each one to a stick.  
   *Parent says:* Which three animals live with us? Let's make a puppet of each one.  
   *Child mode:* Choose three animals from your home. Draw each one. Your grown-up cuts them out.
   - Note: Good choices are animals your child has really seen: ants, a gecko, a crow, a pigeon or a spider.
@@ -294,13 +297,12 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
   *Parent says:* Hello, gecko! What do you eat? Where do you live? How do you move?  
   *Child mode:* Hold up a puppet. Talk like that animal. Say what you eat, where you live and how you move.
   - Ask: Crow, where do you live, and what do you eat? (good: I live in a nest in a tall tree.; I eat rice, fruit, insects and scraps.)
-  - Think: If the ant puppet could ask you a question, what would the ant ask?
 
 ## Challenges
 ### c1 · Invent an Animal Who Could Live in Our Flat (20 min)
 - **problem:** Invent an animal who could live in your flat without anyone feeding them. Decide what they eat, where they hide and how they move. Then make them out of dough or paper.
 - **your turn:** Now invent your own flat animal. Give your animal a name. Make them, and tell your family what they eat, where they hide and how they move.
-- **constraints:** The food must be something already in a flat, like crumbs, insects or dust.; The animal needs a safe hiding place in the flat.; The animal's mouth must fit their food, and their feet must fit the place they move.
+- **constraints:** The food must be something already in a flat, like crumbs, insects or dust.; The animal needs a safe hiding place in the flat.; The animal's mouth must fit their food, and their feet must fit the place where they move.
 - **general:** A gecko eats insects that come to the lights, hides behind cupboards, and climbs walls with clinging toes.; Ants eat crumbs, live in cracks and walk on six legs.; A spider eats insects caught in her web and lives in a quiet corner.
 - **creative:** An animal with a long, thin tongue for licking up spilt sugar from inside a dabba.; A flat animal who slides under doors and eats dust and dead skin.; An animal with sucker feet who lives on the bathroom tiles and eats the black mould in the grout.
 - **s1 (5 min)**  
@@ -326,7 +328,7 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
    **Answer:** Cow → Grass; Gecko → Moth; Pigeon → Grains; Butterfly → Flower. *Why:* A cow grinds grass, a gecko snaps up insects, a pigeon picks up grains and a butterfly sips nectar from flowers.
 3. (draw) Draw your mouth, open wide. Colour the front teeth that bite red. Colour the back teeth that chew blue.  
    **Answer:** Thin front teeth coloured red, wide back teeth coloured blue.. *Why:* A strong drawing shows the front teeth thin and the back teeth wide, as the child saw in the mirror.
-4. (mcq) Remember the chewing test? Which food needed almost no chewing?  
+4. (mcq) In the Chewing Test, you ate banana, carrot, chapati, curd and puffed rice. Which food needed almost no chewing?  
    Options: Carrot / Curd / Chapati  
    **Answer:** Curd. *Why:* Curd is soft, so it needs almost no chewing. Carrot and chapati are tougher, so the back teeth must chew them many times.
 5. (match) Draw a line from each animal to their home.  
@@ -340,7 +342,7 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
 9. (write) Say it to a grown-up, who writes it down: why does a gecko wait by the tube light at night?  
    **Answer:** Moths and other insects fly to the light. The gecko waits there to catch them.. *Why:* A strong answer links the place (the light) to the food (the insects that come to it).
 10. (perspective) Two sisters in Chennai see a gecko on the kitchen wall.  
-   **Answer:** A strong answer picks a side and gives a reason, such as 'Nandini, because the gecko eats mosquitoes that bite us.' Then the child is fair to the other side: Kayal is right that a gecko should not walk on our food.. *Why:* Both sisters have a point. The gecko helps by eating insects and has no poison. But any animal walking on food can carry germs, so food is kept covered.
+   **Answer:** A strong answer picks a side and gives a reason, such as 'The second child, because the gecko eats mosquitoes that bite us.' Then the child is fair to the other side: The first child is right that a gecko should not walk on our food.. *Why:* Both sisters have a point. The gecko helps by eating insects and has no poison. But any animal walking on food can carry germs, so food is kept covered.
 ### Animals Around Us (stretch) (stretch, 10 questions)
 1. (mcq) A cow has wide, flat back teeth. What food are those teeth best for?  
    Options: Grinding grass / Catching moths / Sipping flower juice  
@@ -350,7 +352,7 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
    **Answer:** 2. *Why:* The gecko, the spider and the crow all eat insects. The cow eats grass and plants.
 3. (draw) Draw a bird's footprints for walking, and a bird's footprints for hopping.  
    **Answer:** Walking: one-two-one-two, one foot ahead of the other. Hopping: two footprints side by side, in pairs.. *Why:* A strong drawing shows that a walking bird puts one foot ahead, and a hopping bird lands with both feet together.
-4. (order) Put the chewing test in order.  
+4. (order) Put the steps of the Chewing Test in the order you did them.  
    **Answer:** ['Look at your teeth in a mirror', 'Guess which food needs the most chews', 'Take a bite', 'Count the chews']. *Why:* First we look, then we guess, then we bite, then we count.
 5. (write) Say it to a grown-up, who writes it down: a crow has no teeth. How does a crow eat a big ball of rice?  
    **Answer:** The crow holds the rice under one foot and pecks it into small pieces with the beak.. *Why:* A strong answer says that the beak and the foot do the work that teeth do for us.
@@ -359,7 +361,7 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
 7. (truefalse) Every animal moves on legs.  
    **Answer:** False. *Why:* False. A snake moves with no legs, using their body and belly scales. An earthworm stretches and squeezes. A fish swims with fins.
 8. (perspective) Three friends in Pune talk about who owns their building.  
-   **Answer:** Any side can be argued well. A strong answer gives a reason, such as 'Grace, because the ants and the gecko live here too and need the building.' Then it is fair to another friend, such as 'Isha is right that people built it.'. *Why:* This is a real question with no single answer. People built the building, other animals live in it too, and many animals lived on this land before.
+   **Answer:** Any side can be argued well. A strong answer gives a reason, such as 'Grace, because the ants and the gecko live here too and need the building.' Then it is fair to another friend, such as 'The first child is right that people built it.'. *Why:* This is a real question with no single answer. People built the building, other animals live in it too, and many animals lived on this land before.
 9. (truefalse) A butterfly bites flowers with her teeth.  
    **Answer:** False. *Why:* False. A butterfly has no teeth. She sips sweet nectar from flowers through a long, thin tube.
 10. (mcq) Why do humans have thin front teeth and wide back teeth?  
@@ -397,8 +399,8 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
    Options: The front teeth / The back teeth / No teeth  
    **Answer:** The back teeth. *Why:* Wide back teeth chew and grind the food. Thin front teeth bite pieces off.
 10. (mcq) Why did each piece of food in the chewing test have to be the same size?  
-   Options: So the food was the only difference / To save food / Because big pieces taste better  
-   **Answer:** So the food was the only difference. *Why:* If one piece were bigger, it might need more chews just because of its size. With the same size, only the kind of food is different.
+   Options: So that only the kind of food was different / To save food / Because big pieces taste better  
+   **Answer:** So that only the kind of food was different. *Why:* If one piece were bigger, it might need more chews just because of its size. With the same size, only the kind of food is different.
 
 ## Applications
 - Doctors and dentists look at teeth to see how a child is growing.
@@ -408,7 +410,7 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
 
 ## Spotted around us
 - A crow taking a ball of rice from a window ledge, a sight in many homes across Tamil Nadu and beyond.
-- A cow on a city street in Varanasi or Madurai, chewing slowly long after she has stopped eating.
+- A cow on a city street in Varanasi or Madurai, chewing slowly for a long time. Grass is tough, so a cow chews a lot.
 - Pigeons walking and nodding on the steps of a railway station in Kolkata.
 - A squirrel running along an electric wire in Bengaluru.
 - A gecko on the wall beside a street lamp at a tea stall in Guwahati.
@@ -436,9 +438,9 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
 - Why do ants never get sick? *Because they have little ant-ibodies!*
 
 ## Connected maths
-- In the chewing test, Ponni, a girl in Class 1, chewed the carrot 24 times and the banana 6 times. Which food needed more chews? Why do you think so? **The carrot needed more chews.**. 24 is more than 6. The carrot is hard, so the back teeth must grind it many times. The banana is soft. (queues `math.number-sense.comparing-ordering.L1`)
-- Meera, a girl in Class 1, saw 9 ants climbing the kitchen wall. Then 4 ants went into a crack. How many ants are still on the wall? **5 ants are still on the wall.**. 9 take away 4 leaves 5. Counting back from 9: 8, 7, 6, 5. (queues `math.addition-subtraction.word-problems.L1`)
-- Divya, a girl in Class 1, watched a ledge for a few minutes. She made a tally: pigeons ||||, sparrows ||, crows |. Which bird came most? How many birds came in all? **Pigeons came most, 4 times. 7 birds came in all.**. 4 tally marks for pigeons is the most. 4 and 2 and 1 make 7. (queues `math.data.sorting-and-tallies.L1`)
+- In the Chewing Test, a child chewed the carrot 24 times and the banana 6 times. Which food needed more chews? Why do you think so? **The carrot needed more chews.**. 24 is more than 6. The carrot is hard, so the back teeth must grind it many times. The banana is soft. (queues `math.number-sense.comparing-ordering.L1`)
+- 9 ants were climbing the kitchen wall. Then 4 ants went into a crack. How many ants are still on the wall? **5 ants are still on the wall.**. 9 take away 4 leaves 5. Counting back from 9: 8, 7, 6, 5. (queues `math.addition-subtraction.word-problems.L1`)
+- A child watched a window ledge for a few minutes and made a tally: pigeons ||||, sparrows ||, crows |. Which bird came most? How many birds came in all? **Pigeons came most, 4 times. 7 birds came in all.**. 4 tally marks for pigeons is the most. 4 and 2 and 1 make 7. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
 Who Lives in Our Home? (sci.animals.L1): Topic-level song for Animals L1

@@ -71,7 +71,7 @@
    "concept": "Feathers do many jobs",
    "status": "defined",
    "definition": "Feathers help a bird fly, keep warm, keep dry and show colours.",
-   "description": "Stiff feathers on the wings push on the air, so the bird can fly. Soft, fluffy feathers near the skin hold warm air close to the body. Each feather has tiny hooks that zip the strands together. A bird combs and zips her feathers with her beak every day.",
+   "description": "Stiff feathers on the wings push on the air, so the bird can fly. Soft, fluffy feathers near the skin hold warm air close to the body. Each feather is made of many thin strands. Tiny hooks hold the strands together, like the teeth of a zip. A bird runs her beak along her feathers every day, to hook the strands back together.",
    "examples": [
     "A pigeon on a winter morning looks round and fat, because the feathers are fluffed up.",
     "A peacock shows his long, shining tail feathers.",
@@ -230,7 +230,7 @@
    "Paati smiled. \"Birds talk all day,\" she said. \"We just don't listen.\"",
    "About two weeks later, the eggs hatched. Out came two tiny chicks with no feathers, only pink skin and big yellow mouths. Whenever a parent landed, the chicks opened their beaks wide and called, \"Cheep, cheep, cheep!\" That call meant, \"Feed me!\" The parents pushed small insects and bits of fruit into the open mouths.",
    "Every day the chicks grew. Grey prickles came out on their skin, and the prickles opened into feathers. Soon the chicks filled the whole nest.",
-   "Arul made a rule. \"No loud music on the balcony,\" he said. \"The babies are sleeping.\" Thenmozhi said it was the best rule he had ever made.",
+   "Arul made a rule. \"No loud music on the balcony,\" he said. \"The babies are sleeping.\" Thenmozhi said it was the best rule Arul had ever made.",
    "Then one morning the chicks stood on the edge of the nest. They flapped their short wings. One chick fluttered to the railing. The other followed. The parents called from the neem tree below, again and again. The chicks called back. Then all four bulbuls were gone into the green.",
    "The nest sat empty in the money plant. Arul looked sad.",
    "\"Listen,\" said Thenmozhi. From the neem tree came a bulbul call, and then a small answer.",
@@ -420,14 +420,14 @@
      "kid": "What do all the birds have?",
      "check": {
       "t": "mcq",
-      "q": "Which animal is a bird?",
+      "q": "What do all the cards on the BIRD sheet have?",
       "options": [
-       "A bat",
-       "A hen",
-       "A butterfly"
+       "Feathers",
+       "Fur",
+       "Teeth"
       ],
-      "a": 1,
-      "why": "A hen has feathers, so she is a bird. A bat has fur, and a butterfly is an insect. Flying does not make an animal a bird."
+      "a": 0,
+      "why": "Every bird has feathers, even a hen who can hardly fly, and an ostrich and a penguin who cannot fly at all. A bat has fur, so a bat is not a bird."
      }
     }
    ]
@@ -518,18 +518,28 @@
      "mins": 2,
      "do": "Sit down together. Ask why a bird needs more than one danger call.",
      "say": "Why do birds need a different call for a cat and for a hawk?",
-     "kid": "Why does a bird have two danger calls?",
+     "kid": "Why does a bird have two danger calls? What should other birds do for each one?",
      "check": {
       "t": "mcq",
-      "q": "A crow calls loudly and many crows fly to the tree. What could the call mean?",
+      "q": "Why do birds need more than one danger call?",
       "options": [
-       "Danger is near",
-       "Time to sleep",
-       "Nothing at all"
+       "Each danger needs a different thing to do",
+       "Birds like to make noise",
+       "Birds forget the first call"
       ],
       "a": 0,
-      "why": "A loud call that makes other crows act is a message, often about danger. Crows call together when they see a cat or an owl."
-     }
+      "why": "A cat is on the ground, so birds fly up. A hawk is in the sky, so birds keep still. The call tells the other birds which thing to do."
+     },
+     "ask": [
+      {
+       "q": "Why does a bird need a different call for a cat and for a hawk?",
+       "good": [
+        "A cat is on the ground, so birds fly up to the tree.",
+        "A hawk is in the sky, so birds keep still and hide.",
+        "Each danger needs a different thing to do."
+       ]
+      }
+     ]
     }
    ]
   }
@@ -731,7 +741,7 @@
        ]
       }
      ],
-     "think": "When one bird called and another answered, what were they saying?",
+     "think": "You may have heard one bird call and another answer. What might they have been saying to each other?",
      "check": {
       "t": "mcq",
       "q": "At what time of day do most birds call the most?",
@@ -742,7 +752,8 @@
       ],
       "a": 0,
       "why": "Most birds call and sing most around sunrise. Scientists call this the dawn chorus. Some city birds are noisy in the evening too."
-     }
+     },
+     "parent": "Nobody can be sure what each call means. Good answers are 'Where are you?', 'I am here' or 'Danger'. Any answer that treats the call as a message is a good one."
     }
    ]
   }
@@ -823,7 +834,8 @@
        ]
       }
      ],
-     "think": "When a pigeon fluffs up on a cold morning, what is the pigeon doing?"
+     "think": "A pigeon fluffs up her feathers on a cold morning. What is she doing, and why?",
+     "parent": "She is holding warm air close to her skin, to keep warm. The fluffed-up feathers trap the warm air, like the soft fluff you just blew on."
     }
    ]
   },
@@ -908,7 +920,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Tell your child about the sunbird: she has a long, thin, curved beak and sips nectar from deep inside flowers. Ask how her beak is like the straw.",
-     "say": "A flower keeps the sweet juice, called nectar, deep inside. How does a sunbird reach it?",
+     "say": "A sunbird has a long, thin, curved beak. A flower keeps its sweet juice, called nectar, deep inside. How is her beak like the straw?",
      "kid": "How is a sunbird's beak like the straw?",
      "check": {
       "t": "mcq",
@@ -1180,8 +1192,7 @@
      "mins": 4,
      "do": "Tip the cradle gently. If an egg falls out, ask your child what to change.",
      "say": "Tip it gently. Did the eggs stay? What could you change?",
-     "kid": "Tip your cradle gently. Did the eggs stay in?",
-     "think": "How does a tiny bird do all this with only a beak and two feet?"
+     "kid": "Tip your cradle gently. Did the eggs stay in?"
     }
    ]
   }
@@ -1890,7 +1901,7 @@
   "deep_truth": {
    "truth": "When one crow calls loudly, other crows look, fly over or go quiet. The call changed what they did. So a bird call is a message, and the birds who hear it understand it.",
    "habit": "We call bird sounds 'chirping' or 'noise', as if they meant nothing. But birds act on each other's calls. So the calls are messages from one living being to another.",
-   "evidence": "At your window, watch what the other crows do when one crow calls. In the experiment A Bean for Every Call, you also listened for birds answering each other."
+   "evidence": "When one crow calls loudly at a cat, the other crows look, fly over or go quiet. In the experiment A Bean for Every Call, you also listened for one bird answering another."
   },
   "three": {
    "who_am_i": "You learned to talk by listening to the people around you. A young bird learns to sing by listening too.",

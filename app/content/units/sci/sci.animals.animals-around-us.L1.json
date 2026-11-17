@@ -449,15 +449,16 @@
      "kid": "Which animal got the most food cards? Why?",
      "check": {
       "t": "mcq",
-      "q": "Which animal eats grass?",
+      "q": "Which animal got the most food cards?",
       "options": [
-       "Gecko",
-       "Cow",
-       "Spider"
+       "The crow",
+       "The butterfly",
+       "The cow"
       ],
-      "a": 1,
-      "why": "A cow eats grass and grinds the grass with wide, flat back teeth. A gecko and a spider eat insects."
-     }
+      "a": 0,
+      "why": "A crow eats almost anything, so many foods go under the crow. A butterfly only sips nectar, so only the flower goes under her."
+     },
+     "parent": "If every card was matched right, the crow gets the most, 11 cards. The butterfly gets the fewest, only the flower. An animal that eats many kinds of food gets many cards."
     }
    ]
   },
@@ -612,7 +613,8 @@
       ],
       "a": 0,
       "why": "A gecko hides in dark, safe gaps in the day, and comes out near the lights at night to catch insects."
-     }
+     },
+     "parent": "You found all 10 cards, and you are one of them. A real home has even more animals, such as ants and spiders in places you have not looked."
     }
    ]
   }
@@ -820,7 +822,7 @@
        ]
       }
      ],
-     "think": "A cow eats grass all day. Why might she need to chew so much?",
+     "think": "The carrot needed many chews, because it is hard. Grass is tough too. Why might a cow need to chew so much?",
      "check": {
       "t": "mcq",
       "q": "Which teeth bite a piece off a carrot?",
@@ -831,7 +833,8 @@
       ],
       "a": 0,
       "why": "Thin front teeth bite and cut pieces off. Wide back teeth then chew the piece up small."
-     }
+     },
+     "parent": "Grass is tough, so a cow has to chew a lot. Her wide, flat back teeth grind it small. A good answer says that grass is hard to chew, like the carrot."
     }
    ]
   }
@@ -903,8 +906,7 @@
         "People are animals."
        ]
       }
-     ],
-     "think": "Who lived in this place before our building was built?"
+     ]
     }
    ]
   },
@@ -971,7 +973,8 @@
        ]
       }
      ],
-     "think": "The gecko chose this light. How did the gecko know the moths would come?"
+     "think": "The gecko waits at the same light every night. How might the gecko know that moths come there?",
+     "parent": "The gecko most likely learned this. On earlier nights, moths came to this light, and the gecko remembered. Any answer about learning or remembering is a good answer."
     }
    ]
   },
@@ -1119,8 +1122,7 @@
         "I eat rice, fruit, insects and scraps."
        ]
       }
-     ],
-     "think": "If the ant puppet could ask you a question, what would the ant ask?"
+     ]
     }
    ]
   }
@@ -1649,7 +1651,7 @@
    "art": "A crow on a window ledge with a ball of rice, and a hand putting it out."
   },
   {
-   "text": "A cow on a city street in Varanasi or Madurai, chewing slowly long after she has stopped eating.",
+   "text": "A cow on a city street in Varanasi or Madurai, chewing slowly for a long time. Grass is tough, so a cow chews a lot.",
    "art": "A cow sitting on a street corner, chewing, with her eyes half closed."
   },
   {
@@ -1887,7 +1889,7 @@
    "what_is_life": "Every animal must find food. The ant, the crow, the gecko and you each have a body that fits your own food.",
    "what_is_this_world": "One flat is home to many animals. Each one lives where they find their food and a safe place."
   },
-  "thread": "The ant, the crow, the gecko and you all need food. Each of you gets it with a different mouth: the ant has jaws, the crow has a beak, the gecko has tiny gripping teeth, and you have front and back teeth. So the animals in one small flat show many ways of meeting the same need.",
+  "thread": "The ant, the crow, the gecko and you all need food. Each of you gets it with a different mouth: the ant has jaws, the crow has a beak, the gecko has tiny gripping teeth, and you have front and back teeth. So the animals in one small flat all need food. Each one gets it in their own way.",
   "teachings": [
    {
     "source": "Zhuangzi, chapter 2 (Discussion on Making All Things Equal)",
@@ -1921,7 +1923,7 @@
    "kid": "Close your eyes. Bite the raisin with your front teeth. Feel your back teeth chew. Think of the crow, eating too."
   },
   "ask": [
-   "A crow has no teeth, and you have about twenty. Who has the better mouth?",
+   "A crow has a beak and no teeth. A cow has wide, flat back teeth. Whose mouth is better for grass, and whose is better for picking up rice?",
    "Why might one animal love a food that another animal leaves alone?",
    "What do you think the crow at the window learns about you?"
   ],

@@ -94,7 +94,7 @@
    "status": "defined",
    "context": "This card explains the wind box test, where a box kept a tissue still.",
    "definition": "When wind meets a wall, the moving air cannot go through, so it flows around and over it. Behind the wall, the air is calm.",
-   "description": "In the wind box test, the closed wall faced the fan. The air hit that wall and went around the box. Inside, the tissue hung still.",
+   "description": "Wind is air that is moving. A wall is in the way of the wind, so the air cannot go through it. The air flows around the sides and over the top instead. Right behind the wall, the air stays calm. In the wind box test, you stand a box in front of a fan, with a tissue flag inside. When the closed wall faced the fan, the air went around the box. Inside, the tissue hung still.",
    "examples": [
     "On a windy beach, people sit beside a boat, on the side away from the wind.",
     "Farmers plant rows of trees along the edge of a field to slow the wind. These rows are called windbreaks.",
@@ -139,7 +139,7 @@
    "for": "Shutting the doors and windows does stop the wind.",
    "against": "In the wind box test, the box with its open side away from the fan kept the tissue still. A wall facing the wind is what matters most.",
    "status": "rejected",
-   "context": "This card is about a common guess: that only a shut home keeps the wind out."
+   "context": "This card is about a common guess: that only a shut home keeps the wind out. In the wind box test, you stand a box with one open side in front of a fan, with a tissue flag inside. You turn the open side towards the fan, and then away from it, to see when the flag stays still."
   },
   {
    "claim": "Food is the need we must have soonest.",
@@ -152,9 +152,9 @@
  ],
  "big_questions": [
   {
-   "q": "In the wind box test, the fan's wind went around the box. Where did it go after that?",
+   "q": "In the wind box test, the wall did not stop the wind. Where did the wind go instead?",
    "kind": "deep",
-   "hint": "Think about where the fan's air ends up in the room."
+   "hint": "Think about the air flowing around the sides of the box."
   },
   {
    "q": "Why do we breathe all the time, but eat only a few times a day?",
@@ -352,7 +352,8 @@
      "mins": 3,
      "do": "When all cards are placed, check that each need has two helpers. Then ask the last question.",
      "say": "Look at the five needs. Can you point to something in our home that gives each one?",
-     "kid": "Point to something at home for each need."
+     "kid": "Point to something at home for each need.",
+     "parent": "Good answers: a window or fan for air, a tap or matka for water, the kitchen for food, a cupboard for clothes, and the roof and walls for a home."
     }
    ]
   },
@@ -442,7 +443,8 @@
      "mins": 1,
      "do": "Ask one last question.",
      "say": "Which cards needed a roof, and which needed a wall?",
-     "kid": "Which weather needs a roof? Which needs a wall?"
+     "kid": "Which weather needs a roof? Which needs a wall?",
+     "parent": "Rain and hot sun need a roof. Wind needs a wall, on the side the wind comes from. Cold needs a shawl, mosquitoes need long sleeves, and thirst needs water."
     }
    ]
   }
@@ -1685,7 +1687,7 @@
   ],
   "other_view": {
    "who": "Many scientists",
-   "view": "Some scientists say the pigeon settles where the wind stops pushing on her feathers, the way a ball rolls into a dip, and that this is all it takes. Others say she notices the wind and picks the spot."
+   "view": "Some scientists say the pigeon simply stays where the wind stops pushing on her feathers. A ball does the same when it rolls into a dip and stops. They say that is all it takes. Others say she notices the wind and picks the spot."
   },
   "practice": {
    "title": "Be a wall for your breath",
@@ -1694,7 +1696,7 @@
    "kid": "Hold up one hand. Blow on it. Now put your other hand in front, like a wall. Blow again. Where did your breath go?"
   },
   "ask": [
-   "When the wind goes around your home, where does it go next?",
+   "A wall does not stop the wind. It turns the wind aside. Where is the air calm, and where is it still moving?",
    "In the story The Tent on the Terrace, the pigeon sat behind the water tank. How do you think she knew where the calm air was?",
    "Is a home the walls, or the calm space the walls make?"
   ],
