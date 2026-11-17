@@ -154,7 +154,7 @@
    "definition": "The card stays on because the air pushes up on it much harder than the water pushes down on it.",
    "description": "A glass of water 10 centimetres tall pushes down on the card with about 10 grams of weight on each square centimetre. The air below pushes up with about 1,000 grams on each square centimetre. The air wins by about 100 times. For the water to fall, the card has to move away, and the water has to leave a gap above it. If the glass is full to the brim, there is no air in the glass to fill the gap, so the water cannot fall. The only way the water can go is if the card bends a little and lets some air in. A smooth, flat card stops that.",
    "examples": [
-    "A card held over a full tumbler turned upside down.",
+    "A card held over a full tumbler that has been turned upside down stays in place.",
     "A full bottle with a hole low down stops dripping when the cap is on.",
     "A drinks tin with one hole in the top pours slowly and in jerks, and with two holes it pours smoothly."
    ],
@@ -178,10 +178,10 @@
    "concept": "Air pressure falls as you go up",
    "status": "defined",
    "definition": "The higher you go, the less air is above you, so the air pushes less. At the top of Mount Everest, the push is about one third of the push at sea level.",
-   "description": "Air is heaviest at the bottom, because it is squashed by all the air above it. As you climb, there is less air above you, and the air around you is thinner. At 5,500 metres, which is about as high as a base camp on Everest, the push is about half the push at sea level. A sealed bottle taken up a mountain swells, because the air inside still pushes at sea-level strength and the air outside pushes less. Taken down again, it squashes. Weather also changes air pressure a little each day, and a falling reading often means a storm is on its way.",
+   "description": "Air is thickest at the bottom, because it is squashed by all the air above it. As you climb, there is less air above you, and the air around you is thinner. At 5,500 metres, which is about as high as a base camp on Everest, the push is about half the push at sea level. A sealed bottle taken up a mountain swells, because the air inside still pushes at sea-level strength and the air outside pushes less. Taken down again, it squashes. Weather also changes air pressure a little each day, and a falling reading often means a storm is on its way.",
    "examples": [
     "A packet of chips puffs up on the way to Ooty or Munnar.",
-    "Aeroplane cabins are kept at the push you would feel at about 2,000 metres, not the push at the height the plane flies.",
+    "Inside an aeroplane, the air is kept at the push you would feel on a mountain about 2,000 metres high. Outside, at the height the plane flies, the push is much smaller still.",
     "Cooking takes longer high in the hills, because water boils at a lower temperature there."
    ],
    "art": "A mountain with three labels, sea level, halfway up and the top, and air particles getting fewer on the way up.",
@@ -193,7 +193,7 @@
    "definition": "The push of the air can hold up a column of water about 10 metres tall. This is why a straw or a pump at the top of a pipe cannot lift water from deeper than about 10 metres.",
    "description": "Think of a tube standing in a tank of water, with all the air taken out of the tube. The air pushes on the water in the tank and forces water up the tube. The water stops rising when the weight of the water in the tube equals the push of the air. At sea level that happens at about 10.3 metres. Torricelli used mercury, which is 13.6 times heavier than water, so the column was 13.6 times shorter, about 76 centimetres. In real pumps the limit is a bit lower, about 7 or 8 metres, because some air always leaks in. For deeper wells, the pump is put down in the water and pushes the water up.",
    "examples": [
-    "A mercury barometer stands at about 76 centimetres.",
+    "In a mercury barometer, the column of mercury stands about 76 centimetres tall.",
     "A hand pump on top of a borewell stops working when the water falls below about 7 metres.",
     "An India Mark II pump has its cylinder deep down so it can work from much deeper."
    ],
@@ -374,11 +374,11 @@
    "evidence": "In the Straw with a Hole, the straw with a hole near the top did not work, though the sip was just as hard. Covering the hole made it work again. Torricelli's tube stopped at 76 centimetres because the air's push, not a pull from the empty space, held the mercury up."
   },
   "three": {
-   "who_am_i": "About 70 kilograms of air pushes on each side of your hand, and you feel nothing. You are held in shape by pushes that balance.",
-   "what_is_life": "A fish, a bird and a tree each live in a place where the air or water pushes with a different strength, and each body pushes back from inside. A body fits the pressure it grew up in.",
+   "who_am_i": "About 70 kilograms of air pushes on each side of your hand, and you feel nothing. The air pushes in on your hand and your body pushes back out with the same strength. The two pushes balance, so you are not squashed and you feel nothing.",
+   "what_is_life": "A fish, a bird and a tree each live in a place where the air or water pushes with a different strength, and each body pushes back from inside. Each body is made to push back at the strength of the push it has always lived with.",
    "what_is_this_world": "We live at the bottom of a deep sea of air. Wind, weather, a straw and a pump all happen because the push is bigger in one place than in another."
   },
-  "thread": "Still air looks empty and calm. Zoom in and it is billions of particles, flying and hitting every surface every second. The calm is a balance of countless tiny pushes. A straw, a pump, the wind and a storm all begin when one push is a little bigger than another. Where we see nothing, there is a great deal going on, held in balance.",
+  "thread": "Still air looks empty and calm. Zoom in and it is billions of particles, flying and hitting every surface every second. The calm is really countless tiny pushes that balance each other. A straw, a pump, the wind and a storm all begin in the same way. One push becomes a little bigger than the push against it. So even where we see nothing, a great deal is going on.",
   "teachings": [
    {
     "source": "Rig Veda 10.168, the hymn to Vata, the wind",
@@ -2380,15 +2380,15 @@
   }
  ],
  "applications": [
-  "Drinking straws, droppers and syringes, which move liquid by lowering the push on one side.",
-  "Vacuum cleaners, which lower the push inside so the air in the room pushes the dust in.",
-  "Suction hooks, suction cups on tiles and the rubber cups that lift glass sheets in a factory.",
-  "Pressure cookers, which raise the push inside so the water boils hotter and the food cooks faster.",
-  "Barometers and weather stations, which watch the air's push to predict rain and storms.",
-  "Hand pumps, such as the India Mark II, which push the water up from down in the well, so they work from deeper than the 10-metre limit.",
-  "Aeroplane cabins, kept at the push you would feel at about 2,000 metres so passengers are comfortable.",
-  "Tyres, footballs and cycle pumps, which pack more air into a space so it pushes hard.",
-  "The Ayrton fan, designed by the engineer Hertha Ayrton in 1915 to push poison gas out of trenches by moving air."
+  "Drinking straws, droppers and syringes all move liquid by lowering the push on one side of it.",
+  "A vacuum cleaner lowers the push inside its pipe, so the air in the room pushes the dust in.",
+  "Suction hooks, suction cups on tiles and the rubber cups that lift glass sheets in a factory all work in the same way. The air pushes each cup flat against the surface.",
+  "A pressure cooker raises the push inside, so the water boils at a higher temperature and the food cooks faster.",
+  "Barometers and weather stations watch the air's push to predict rain and storms.",
+  "A hand pump such as the India Mark II has its working part down in the well. It pushes the water up from there, so it works from deeper than the 10-metre limit.",
+  "An aeroplane cabin is kept at the push you would feel at about 2,000 metres, so that passengers are comfortable.",
+  "Tyres, footballs and cycle pumps pack more air into a space, so the air inside pushes harder.",
+  "The engineer Hertha Ayrton designed the Ayrton fan in 1915. It moved air to push poison gas out of trenches."
  ],
  "spotted": [
   {

@@ -35,10 +35,10 @@
 **Definition:** A signal is something one animal does or makes that carries a message to another animal. A channel is the way the signal travels: smell, sight, sound or touch.
 
 Every signal needs a sender and a receiver. The sender must make the signal, and the receiver must have a body that can pick it up. A smell needs a nose or an antenna. A colour needs an eye. A call needs an ear. A touch needs skin or hairs that feel. Most animals use more than one channel. A street dog growls, shows her teeth, raises the hair on her back and leaves scent marks. Humans are animals too, and we use all four channels. We speak, we smile, we hug, and our noses can tell family from strangers. This unit takes the channels one at a time, and then compares them.
-- e.g. Smell: an ant leaves a scent trail to food.
-- e.g. Sight: a fan-throated lizard flashes a blue, black and orange throat.
-- e.g. Sound: a koel calls from a mango tree before the rains.
-- e.g. Touch: a bonnet macaque picks through her friend's fur.
+- e.g. An ant leaves a scent trail to food. That is a message on the smell channel.
+- e.g. A fan-throated lizard flashes a blue, black and orange throat. That is a message on the sight channel.
+- e.g. A koel calls from a mango tree before the rains. That is a message on the sound channel.
+- e.g. A bonnet macaque picks through her friend's fur. That is a message on the touch channel.
 ### Pheromones are messages made of smell · *defined*
 **Definition:** A pheromone is a chemical that an animal gives off, which changes what other animals of the same kind do.
 
@@ -56,7 +56,7 @@ Light travels very fast and in straight lines. So a display reaches the receiver
 ### A dance is a message made of movement · *defined*
 **Definition:** A dance is a display in which the order and the timing of the movements carry the message.
 
-A pair of sarus cranes in a wet field bow, leap and call together. The dance tells each crane that the other is healthy and ready to nest. A male jumping spider lifts his front legs and steps from side to side in front of a female. If his steps are wrong, she may treat him as food. A honeybee dances on the comb in the dark hive. The bees who follow her learn where the flowers are. You will learn to read the bee dance in a later unit. Small frogs called dancing frogs live beside loud streams in the Western Ghats. A male calls, and he also stretches out a back leg and spreads his white foot. Scientists think the foot wave helps because the stream is so loud that a call alone is often lost. A dance costs energy and time, so a dancer shows that they are strong enough to pay for it.
+A pair of sarus cranes in a wet field bow, leap and call together. The dance tells each crane that the other is healthy and ready to nest. A male jumping spider lifts his front legs and steps from side to side in front of a female. If his steps are wrong, she may treat him as food. A honeybee dances on the comb in the dark hive. The bees who follow her learn where the flowers are. You will learn to read the bee dance in a later unit. Small frogs called dancing frogs live beside loud streams in the Western Ghats. A male calls, and he also stretches out a back leg and spreads his white foot. Scientists think the foot wave helps because the stream is so loud that a call alone is often lost. A dance costs energy and time. A dancer who can keep dancing shows that they are healthy and strong.
 - e.g. Sarus cranes in Uttar Pradesh leap and bow to each other.
 - e.g. A male jumping spider on a wall waves his front legs at a female.
 - e.g. A dancing frog in Karnataka waves a white foot beside a noisy stream.
@@ -85,9 +85,9 @@ An echo is a sound that has bounced off something and come back. A hunting bat m
 **Definition:** No channel is the best everywhere. Each one works well in some conditions and badly in others.
 
 Compare the four. A smell lasts after the sender leaves and goes round corners, but it is slow and cannot be changed quickly. A display is instant and shows exactly where the sender is, but it needs light and a clear view. A sound is fast, works in the dark and goes round trees. But it ends at once, and everyone nearby hears it. A touch is private and hard to mistake, but the sender must be close. So the place decides the channel. Moths fly at night in forests, and they use smell. Lizards live on open ground in bright sun, and they use colour. Frogs call at night, when colours are hard to see. Animals who live in a difficult place often use two channels together. The dancing frog beside a loud stream does this.
-- e.g. Night in a thick forest: smell and sound work, but a display does not.
-- e.g. Open ground at noon: a display works well.
-- e.g. Muddy river water: sound works, and sight does not.
+- e.g. In a thick forest at night, smell and sound work, but a display does not.
+- e.g. On open ground at noon, a display works well.
+- e.g. In muddy river water, sound works, but sight does not.
 ### A signal can be overheard, and a signal can be false · *defined*
 **Definition:** Eavesdropping means picking up a signal that was meant for someone else. A false signal is one that leads the receiver to do something that helps the sender and harms the receiver.
 
@@ -141,7 +141,7 @@ In this unit you left smell marks on paper and found a steel plate by its echo. 
 *Habit it breaks:* We think of a message as something that passes between two beings who are together, as when we talk. A scent mark needs no meeting. The sender and the receiver may never see each other.  
 *Evidence:* In the Smell Mark Test the grown-up who made the marks stayed away. The clove mark was usually still found after 60 minutes. Tigers, dogs and cats leave marks that others read hours or days later. Fabre wrote that male moths went to the place where a female had rested, after she had been moved.
 
-- *who am i:* You send signals all day on all four channels, and you chose only some of them. You are also an animal who writes. Writing is a mark that works while you are away.
+- *who am i:* You send signals all day on all four channels. You choose some of them on purpose, and you send others without meaning to. You are also an animal who writes. A written note carries your message while you are away.
 - *what is life:* No living being lives without sending and receiving. Even bacteria give off chemicals that other bacteria sense and act on.
 - *what is this world:* The air, the water and the ground are full of messages. Most were not meant for us, and many are beyond our senses.
 
@@ -155,7 +155,7 @@ A signal is never the work of one being. A moth's pheromone does nothing without
 - Practice, Two minutes of receiving (3 min): Sit still together and close your eyes. For half a minute, notice every sound that reaches you. Now notice every smell. Now notice everything that is touching your skin. Open your eyes and notice what you see. Each of these reached you from something else. Which ones were meant for you?
 - Ask: In the Smell Mark Test, the clove mark gave its message with nobody there to send it. Where was the message during that hour?
 - Ask: A bat hears a night full of echoes that you cannot hear. Is the bat's night the same night as yours?
-- Ask: When you write a note and leave the room, what of you stays in the note?
+- Ask: When you write a note and leave the room, the note carries your message without you there. What part of you do you think stays in it?
 
 ## Deep and big questions
 - *deep:* A tigress marks a tree and no other tiger ever passes by. Was the mark a message? (hint: Think about a letter that is written but never opened.)
@@ -572,7 +572,7 @@ The next morning she went back to the flat rock alone and sat very still. After 
 11. (write) Many animals of the night use smell and sound, and few use colour. Explain why, with one example.  
    **Answer:** Colours need light, and there is little light at night. Smells and sounds work in the dark. For example, a female moth draws males with a pheromone.. *Why:* A strong answer links the channel to the conditions, and gives a real night animal as the example.
 12. (write) How is a scent mark like a written note? How is it different?  
-   **Answer:** Both stay behind and give their message when the sender is away. They differ because a note can say many different things. A scent mark says a few things, such as who was here and when.. *Why:* A strong answer names the lasting of the message as the likeness. Any sensible difference is accepted.
+   **Answer:** Both stay behind and give their message when the sender is away. They differ because a note can say many different things. A scent mark says a few things, such as who was here and when.. *Why:* A strong answer says that both are alike because the message lasts after the sender has gone. Any sensible difference is accepted.
 13. (write) Why does a vinegar mark usually fade sooner than a clove mark? Use the word molecules.  
    **Answer:** A smell is made of molecules that leave the paper and float to the nose. Vinegar's smell molecules are small and leave quickly, so they are soon used up. Clove oil's molecules are heavier and leave slowly, so the mark lasts.. *Why:* A strong answer says that a smell is molecules leaving a surface. The mark ends when few are left.
 14. (perspective) A monkey gives an alarm call, and the other monkeys climb a tree. Scientists describe what happened in different ways.  

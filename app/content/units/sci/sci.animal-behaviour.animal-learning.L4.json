@@ -3,7 +3,7 @@
  "title": "How animals learn: getting used to things, linking things, and teaching",
  "level": 4,
  "summary": {
-  "text": "A sparrow who flies away from a new scarecrow on Monday may be sitting on the scarecrow's head by Friday. She has not become careless. She has learned that the scarecrow does no harm. In the Spoon Test, you check the same thing on two volunteers with a spoon and a plate. You find that getting used to a harmless sound is a kind of learning: it grows with repeats, it is kept, and it belongs to that one sound. Then you look at other kinds of learning. Animals can link a taste to feeling ill after just one time. Bees learn which flowers have nectar, and at what time of day. Meerkats and ants teach. A sea slug with only 20,000 nerve cells learns, and scientists argue about whether a slime mould, with no nerve cells at all, shows a change like learning too. Inside a nervous system, learning is a change in the connections between nerve cells.",
+  "text": "A sparrow who flies away from a new scarecrow on Monday may be sitting on the scarecrow's head by Friday. She has not become careless. She has learned that the scarecrow does no harm. In the Spoon Test, you check the same thing on two volunteers with a spoon and a plate. You find that getting used to a harmless sound is a kind of learning: it grows with repeats, it is kept for a while, and it applies only to that one sound. Then you look at other kinds of learning. Animals can link a taste to feeling ill after just one time. Bees learn which flowers have nectar, and at what time of day. Meerkats and ants teach. A sea slug with only 20,000 nerve cells learns, and scientists argue about whether a slime mould, with no nerve cells at all, shows a change like learning too. Inside a nervous system, learning is a change in the connections between nerve cells.",
   "art": "A sparrow sitting on the clay-pot head of a scarecrow in a rice field, with small pictures around it: a sea slug, a bee at a blue flower, a meerkat helper with a pup, and two nerve cells joined by a tiny gap."
  },
  "intro": {
@@ -43,7 +43,7 @@
   {
    "term": "Reflex",
    "meaning": "A quick response that is ready at birth and does not need to be learned.",
-   "example": "Blinking when something comes near your eye.",
+   "example": "Blinking when something comes near your eye is a reflex.",
    "art": "A child's eye closing as a cotton ball is tossed near."
   },
   {
@@ -79,7 +79,7 @@
   {
    "term": "Spaced practice",
    "meaning": "Practice spread over time, with breaks between the sittings.",
-   "example": "Learning a poem in four short sittings through the day.",
+   "example": "Learning a poem in four short sittings through the day is spaced practice.",
    "art": "A clock face with four small study sessions marked around it."
   },
   {
@@ -91,7 +91,7 @@
   {
    "term": "Memory",
    "meaning": "A change that is kept from an experience, so that it can shape what a being does later.",
-   "example": "A bee returning at the hour that food was last there.",
+   "example": "A bee returns at the hour when food was last there. She remembers the time.",
    "art": "A bee at a window with a clock showing four o'clock."
   }
  ],
@@ -232,7 +232,7 @@
    "examples": [
     "A meerkat helper gives a pup a scorpion with the stinger removed.",
     "A leader ant waits for a follower in a tandem run.",
-    "A person slows down to show a child a fold."
+    "A person slows down to show a child how to make a paper fold."
    ],
    "perspectives": [
     {
@@ -291,7 +291,7 @@
    "claim": "Slime moulds and one-celled animals learn.",
    "who": "Audrey Dussutour and others",
    "for": "Slime moulds and Stentor show a drop in response that is kept and belongs to one stimulus, as in sea slugs.",
-   "against": "Some scientists say learning needs nerve cells, and that these are simpler changes in the cell's chemistry.",
+   "against": "Some scientists say learning needs nerve cells. They say the changes in a slime mould or a one-celled animal are simpler changes in the cell's chemistry. So these changes should have a different name.",
    "status": "debated"
   },
   {
@@ -1197,7 +1197,7 @@
       {
        "q": "What do you notice about how many times each kind of learning took?",
        "good": [
-        "The food took once.",
+        "The food took only one time.",
         "The skill took many tries.",
         "The food was learned much faster."
        ]
@@ -1320,7 +1320,7 @@
      "do": "On days two to five, put out the dish and water at the same time. Sit near the window from 10 minutes before until 20 minutes after, doing something quiet. Write the time the first visitor arrives, and who it is.",
      "say": "Put out the dish at the same time again. Watch from a distance. Write when the first visitor comes.",
      "kid": "Put the dish out at the same time. Write when the first visitor comes.",
-     "parent": "Visitors may start to arrive earlier and then settle closer to the feeding time. Five days is short, so there may be no clear change; if so, say that, or carry on for ten days. With 2 to 4 children, one puts out the dish, one watches the clock, one writes. For a group, each can watch a different ledge or a different kind of visitor. Some days nobody comes, and that is a result too. Write it as it is.",
+     "parent": "Visitors may start to arrive earlier and then settle closer to the feeding time. Five days is short, so there may be no clear change. If so, say that, or carry on for ten days. With 2 to 4 children, one puts out the dish, one watches the clock, one writes. For a group, each can watch a different ledge or a different kind of visitor. Some days nobody comes, and that is a result too. Write it as it is.",
      "context": "In this step you repeat the feeding and the watching on days two to five."
     },
     {

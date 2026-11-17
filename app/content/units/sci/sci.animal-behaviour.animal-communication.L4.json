@@ -109,10 +109,10 @@
    "definition": "A signal is something one animal does or makes that carries a message to another animal. A channel is the way the signal travels: smell, sight, sound or touch.",
    "description": "Every signal needs a sender and a receiver. The sender must make the signal, and the receiver must have a body that can pick it up. A smell needs a nose or an antenna. A colour needs an eye. A call needs an ear. A touch needs skin or hairs that feel. Most animals use more than one channel. A street dog growls, shows her teeth, raises the hair on her back and leaves scent marks. Humans are animals too, and we use all four channels. We speak, we smile, we hug, and our noses can tell family from strangers. This unit takes the channels one at a time, and then compares them.",
    "examples": [
-    "Smell: an ant leaves a scent trail to food.",
-    "Sight: a fan-throated lizard flashes a blue, black and orange throat.",
-    "Sound: a koel calls from a mango tree before the rains.",
-    "Touch: a bonnet macaque picks through her friend's fur."
+    "An ant leaves a scent trail to food. That is a message on the smell channel.",
+    "A fan-throated lizard flashes a blue, black and orange throat. That is a message on the sight channel.",
+    "A koel calls from a mango tree before the rains. That is a message on the sound channel.",
+    "A bonnet macaque picks through her friend's fur. That is a message on the touch channel."
    ],
    "perspectives": [],
    "art": "A square cut into four parts, each showing one channel: an ant trail, a lizard with a bright throat fan, a calling koel and two macaques grooming."
@@ -147,7 +147,7 @@
    "concept": "A dance is a message made of movement",
    "status": "defined",
    "definition": "A dance is a display in which the order and the timing of the movements carry the message.",
-   "description": "A pair of sarus cranes in a wet field bow, leap and call together. The dance tells each crane that the other is healthy and ready to nest. A male jumping spider lifts his front legs and steps from side to side in front of a female. If his steps are wrong, she may treat him as food. A honeybee dances on the comb in the dark hive. The bees who follow her learn where the flowers are. You will learn to read the bee dance in a later unit. Small frogs called dancing frogs live beside loud streams in the Western Ghats. A male calls, and he also stretches out a back leg and spreads his white foot. Scientists think the foot wave helps because the stream is so loud that a call alone is often lost. A dance costs energy and time, so a dancer shows that they are strong enough to pay for it.",
+   "description": "A pair of sarus cranes in a wet field bow, leap and call together. The dance tells each crane that the other is healthy and ready to nest. A male jumping spider lifts his front legs and steps from side to side in front of a female. If his steps are wrong, she may treat him as food. A honeybee dances on the comb in the dark hive. The bees who follow her learn where the flowers are. You will learn to read the bee dance in a later unit. Small frogs called dancing frogs live beside loud streams in the Western Ghats. A male calls, and he also stretches out a back leg and spreads his white foot. Scientists think the foot wave helps because the stream is so loud that a call alone is often lost. A dance costs energy and time. A dancer who can keep dancing shows that they are healthy and strong.",
    "examples": [
     "Sarus cranes in Uttar Pradesh leap and bow to each other.",
     "A male jumping spider on a wall waves his front legs at a female.",
@@ -201,9 +201,9 @@
    "definition": "No channel is the best everywhere. Each one works well in some conditions and badly in others.",
    "description": "Compare the four. A smell lasts after the sender leaves and goes round corners, but it is slow and cannot be changed quickly. A display is instant and shows exactly where the sender is, but it needs light and a clear view. A sound is fast, works in the dark and goes round trees. But it ends at once, and everyone nearby hears it. A touch is private and hard to mistake, but the sender must be close. So the place decides the channel. Moths fly at night in forests, and they use smell. Lizards live on open ground in bright sun, and they use colour. Frogs call at night, when colours are hard to see. Animals who live in a difficult place often use two channels together. The dancing frog beside a loud stream does this.",
    "examples": [
-    "Night in a thick forest: smell and sound work, but a display does not.",
-    "Open ground at noon: a display works well.",
-    "Muddy river water: sound works, and sight does not."
+    "In a thick forest at night, smell and sound work, but a display does not.",
+    "On open ground at noon, a display works well.",
+    "In muddy river water, sound works, but sight does not."
    ],
    "perspectives": [],
    "art": "A table with four rows for smell, sight, sound and touch, and ticks and crosses under the headings Works in the dark, Goes round corners, Lasts after the sender leaves and Fast."
@@ -2112,7 +2112,7 @@
      "p": "How is a scent mark like a written note? How is it different?",
      "lines": 3,
      "a": "Both stay behind and give their message when the sender is away. They differ because a note can say many different things. A scent mark says a few things, such as who was here and when.",
-     "why": "A strong answer names the lasting of the message as the likeness. Any sensible difference is accepted.",
+     "why": "A strong answer says that both are alike because the message lasts after the sender has gone. Any sensible difference is accepted.",
      "outcome": 1
     },
     {
@@ -2820,7 +2820,7 @@
    "evidence": "In the Smell Mark Test the grown-up who made the marks stayed away. The clove mark was usually still found after 60 minutes. Tigers, dogs and cats leave marks that others read hours or days later. Fabre wrote that male moths went to the place where a female had rested, after she had been moved."
   },
   "three": {
-   "who_am_i": "You send signals all day on all four channels, and you chose only some of them. You are also an animal who writes. Writing is a mark that works while you are away.",
+   "who_am_i": "You send signals all day on all four channels. You choose some of them on purpose, and you send others without meaning to. You are also an animal who writes. A written note carries your message while you are away.",
    "what_is_life": "No living being lives without sending and receiving. Even bacteria give off chemicals that other bacteria sense and act on.",
    "what_is_this_world": "The air, the water and the ground are full of messages. Most were not meant for us, and many are beyond our senses."
   },
@@ -2860,7 +2860,7 @@
   "ask": [
    "In the Smell Mark Test, the clove mark gave its message with nobody there to send it. Where was the message during that hour?",
    "A bat hears a night full of echoes that you cannot hear. Is the bat's night the same night as yours?",
-   "When you write a note and leave the room, what of you stays in the note?"
+   "When you write a note and leave the room, the note carries your message without you there. What part of you do you think stays in it?"
   ],
   "art": "A tree in a forest at dusk with a faint mark on the bark, a tiger walking away in the distance, and a child's handwritten note pinned to a door in a small inset picture."
  },

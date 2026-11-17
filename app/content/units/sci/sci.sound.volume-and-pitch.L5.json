@@ -190,7 +190,7 @@
    "description": "The quietest sound a young person can hear is called 0 decibels. Leaves rustling are about 20 decibels, and a whisper is about 30. Talking at one metre is about 60. A mixie at one metre is often 85 or more, and it varies by machine. A horn close by can reach 100 or more. The scale grows by multiplying. A sound of 70 decibels has ten times the energy of a sound of 60. A sound of 80 has a hundred times the energy. Yet 70 decibels sounds only about twice as loud as 60 to most people. This is why two singers are not twice as loud as one. Two equal sounds together read only 3 decibels more than one. Sounds above 85 decibels can harm the hair cells in the inner ear if you hear them for hours. The louder the sound, the shorter the safe time. In India, the Noise Pollution Rules of 2000 set a daytime limit of 55 decibels for places where people live.",
    "examples": [
     "A sound meter app in a quiet bedroom at night reads about 30 to 40 decibels.",
-    "Ten people talking at once read about 70 decibels, which is 10 more than one person.",
+    "Ten people talking at once read about 70 decibels. That is 10 decibels more than one person talking.",
     "Earplugs or earmuffs lower the sound that reaches the ear by about 15 to 30 decibels."
    ],
    "perspectives": [],
@@ -238,7 +238,7 @@
   {
    "concept": "How to make a sound louder",
    "status": "defined",
-   "definition": "A sound gets louder in four ways: a bigger vibration, more air pushed, a nearer listener, or energy added by an amplifier.",
+   "definition": "A sound gets louder in four ways: a bigger vibration, more air pushed, a sound sent in one direction, or energy added by an amplifier.",
    "description": "There are four ways. First, give the vibration more energy: pluck harder, hit harder or blow harder. Second, push more air with the same vibration. A thin string cuts through the air and moves very little of it. Rest the string on a soundboard, such as a wooden box, and the wide board pushes far more air. The board adds no energy. It passes the string's energy to the air faster. Third, send the sound one way. A cone or cupped hands stop the sound spreading out on every side. Fourth, add energy from outside. A microphone turns the sound into a weak electric signal. An amplifier makes the signal stronger, using energy from a battery or the mains. A loudspeaker turns the strong signal back into sound. Only this fourth way puts more energy into the sound than the player gave it.",
    "examples": [
     "A veena's hollow body is its soundboard. Without it the strings could hardly be heard.",
@@ -267,9 +267,9 @@
    "definition": "Every instrument has a way to set the pitch of each note. It also has a way to change the volume.",
    "description": "Instruments fall into three main families. In string instruments, strings vibrate. The player sets the pitch with the length and the tension of a string. The strength of the pluck or the bow sets the volume. In wind instruments, an air column vibrates. The player sets the pitch with the length of the column, and the volume with the breath. In percussion instruments, a skin, a pot or a bar is struck. Its pitch is mostly set before the concert, by its size and its tension. The player changes the volume with the strength of each stroke. Some instruments can slide smoothly from one pitch to the next, and some cannot. A veena or a violin can slide, because a finger can stop the string anywhere. A harmonium cannot, because each key has one metal reed with one fixed pitch.",
    "examples": [
-    "Veena: press a fret for pitch, pluck harder for volume.",
-    "Bansuri: open or cover holes for pitch, blow more air for volume.",
-    "Mridangam: tighten the straps before playing for pitch, strike harder for volume."
+    "A veena player presses a string against a fret to change the pitch. She plucks the string harder to change the volume.",
+    "A bansuri player opens or covers the finger holes to change the pitch. She blows more air to change the volume.",
+    "Before the concert, a mridangam player tightens the straps to set the pitch. During the concert, a harder stroke gives a louder sound."
    ],
    "perspectives": [],
    "art": "A table with three rows, for a veena, a bansuri and a mridangam, and two columns of small drawings showing how each one changes pitch and how each one changes volume."
@@ -287,7 +287,7 @@
    "perspectives": [
     {
      "who": "A physicist who measures sound",
-     "explanation": "The strength of a sound is a fact about the air. It can be measured in decibels with no listener in the room. Loudness is that strength, as closely as a meter can give it."
+     "explanation": "The strength of a sound is a fact about the air. It can be measured in decibels with no listener in the room. To a physicist, loudness is simply that strength, and a meter gives it as closely as we can measure."
     },
     {
      "who": "A scientist who studies hearing",
@@ -372,7 +372,7 @@
    "hint": "Sound is energy, and energy does not vanish. Think about what the threads of the towel are doing as the sound passes."
   },
   {
-   "q": "A string gives no note until it is pulled tight. Where is the note before you pluck?",
+   "q": "A string gives no clear note until it is pulled tight. Is the note already in the string before you pluck it?",
    "kind": "deep",
    "hint": "In the Water-Bottle String, one string gave many notes. Ask what decides the note: the string, the bottle, the pencils, or all of them together."
   },
@@ -451,12 +451,12 @@
  "roots": {
   "context": "In this unit you changed the volume and the pitch of a string, and you muffled a ringing phone. Here we ask which part of a sound you can trust when it reaches you from far away.",
   "deep_truth": {
-   "truth": "In the Muffle Test, four layers of towel made the phone's tune much quieter. Every note of the tune stayed at its own pitch. Towels, walls and distance take away a sound's energy and leave its frequency alone. So pitch brings you news of the thing that made the sound, however far the sound has come.",
-   "habit": "We treat loudness and pitch as two equal facts about a sound. They are not equally lasting. Loudness is changed by every step, every wall and every ear on the way. Frequency is set once, at the source, and it arrives as it left.",
+   "truth": "In the Muffle Test, four layers of towel made the phone's tune much quieter. Every note of the tune stayed at its own pitch. Towels, walls and distance take away a sound's energy and leave its frequency alone. So the pitch you hear is the same pitch the source made, however far the sound has travelled. That is how you can tell what made a sound from a long way off.",
+   "habit": "We usually treat loudness and pitch as two equal facts about a sound. In one way they are not equal. Loudness changes on the way to you, because distance and walls make a sound weaker. Pitch is set once, at the source, and it arrives just as it left.",
    "evidence": "In the Muffle Test, the sound meter read lower under every cover. The tune could still be hummed along with. In Gentle Pluck, Hard Pluck, the note stayed the same while the sound faded to nothing. A tuner reads the same number of hertz near a steady string and far from it. The one exception is a source that moves towards the listener or away."
   },
   "three": {
-   "who_am_i": "Your family knows your voice from another room, though only a faint part of it gets there. The loudness is lost on the way. The frequencies that make it your voice arrive as you made them.",
+   "who_am_i": "Your family can tell it is you speaking from another room, even when your voice is faint. The loudness has been lost on the way. But the pitches that make up your voice arrive just as you made them, and that is how they know it is you.",
    "what_is_life": "A female cricket or frog finds a male of her own kind by the frequency of his call. He may be far away and faint among a hundred other calls. Many living beings trust pitch in this way.",
    "what_is_this_world": "Light keeps its frequency as it travels too. Astronomers read what a star is made of from frequencies of light that left it thousands of years ago. If the star is moving away, the frequencies arrive a little lower, and that tells them its speed."
   },
@@ -499,7 +499,7 @@
   "practice": {
    "title": "The far sound",
    "mins": 3,
-   "say": "Sit still and close your eyes. Listen past the sounds in this room. Find the farthest steady sound you can: a train, a temple bell, a koel, a pressure cooker in another flat. It is very quiet by the time it reaches you. Now hum its note, as softly as you can. The loudness you hear belongs to the journey. The note you are humming was made over there.",
+   "say": "Sit still and close your eyes. Listen past the sounds in this room. Find the farthest steady sound you can: a train, a temple bell, a koel, a pressure cooker in another flat. It is very quiet by the time it reaches you. Now hum its note, as softly as you can. The loudness you hear has been lowered by the long trip. The note you are humming is exactly the note that was made over there.",
    "kid": "Close your eyes and sit still. Find the farthest sound you can hear. It is quiet, because it came a long way. Hum its note very softly. That note was made far away."
   },
   "ask": [
@@ -1120,7 +1120,7 @@
        "good": [
         "More water, which means more tension.",
         "A shorter length between the pencils.",
-        "One strand in place of two, which means a lighter string."
+        "Taking away the second strand, so that the string is lighter."
        ]
       },
       {
@@ -1131,7 +1131,7 @@
        ]
       }
      ],
-     "parent": "A tighter string is pulled back to its rest position harder, so each trip is quicker. A shorter string has less far to go and less of itself to move. A heavier string has more to move, so each trip is slower. The rule for tension is surprising: four times the pull doubles the frequency. Marin Mersenne published these rules in France in 1636. Your numbers will not match the example table. The bag and the bottle also add a little weight of their own. Look for the pattern.",
+     "parent": "A tighter string is pulled back to its rest position harder, so each trip is quicker. A shorter string has less far to go and less of itself to move. A heavier string has more to move, so each trip is slower. The rule for tension is surprising. Four times the pull doubles the frequency. Marin Mersenne published these rules in France in 1636. Your numbers will not match the example table. The bag and the bottle also add a little weight of their own. Look for the pattern.",
      "think": "A veena has thick strings and thin strings of the same length. Which ones play the low notes, and why?",
      "context": "This is the last step of the Water-Bottle String. You say what your table shows about tension, length and thickness."
     }
@@ -1934,8 +1934,8 @@
       {
        "q": "Which of those raise the note, and which lowers it?",
        "good": [
-        "Tighter and thinner raise it.",
-        "Longer lowers it."
+        "Getting tighter and getting thinner raise it.",
+        "Getting longer lowers it."
        ]
       }
      ],
@@ -2064,8 +2064,8 @@
       {
        "q": "What does the player do to get a higher note?",
        "good": [
-        "Makes the string shorter with a finger.",
-        "Opens a hole, so that the air column is shorter.",
+        "The player makes the string shorter with a finger.",
+        "The player opens a hole, so that the air column is shorter.",
         "A drum's note is set before playing, by tightening the skin."
        ]
       }
@@ -2714,7 +2714,7 @@
      "views": [
       {
        "who": "The first child",
-       "says": "Ask everyone to speak more softly. The sound is weakest when it is never made."
+       "says": "Ask everyone to speak more softly. The best way to cut noise is to make less of it in the first place."
       },
       {
        "who": "The second child",
@@ -2722,7 +2722,7 @@
       },
       {
        "who": "A builder",
-       "says": "Close the gaps round the door first. A gap lets more sound through than the whole wall does."
+       "says": "Close the gaps round the door first. Even a small gap lets a lot of sound through, however thick the wall is."
       }
      ],
      "ask": "Which view do you agree with most? Give a reason from what you found in this unit. Then answer one of the other views.",
@@ -2873,7 +2873,7 @@
      "t": "write",
      "p": "English speakers call a pitch 'high'. Farsi speakers call it 'thin'. Which word fits the science better? Give a reason.",
      "lines": 4,
-     "a": "Either word, with a reason. 'Thin' fits because thin strings and small things do give higher notes. 'High' fits because the frequency is a higher number. Nothing in the sound is higher up, so both are borrowed words for a faster vibration.",
+     "a": "Either word, with a reason. 'Thin' fits because thin strings and small things do give higher notes. 'High' fits because the frequency is a higher number. Nothing in the sound is higher up, so both words are only ways of picturing a faster vibration.",
      "why": "A strong answer says what a high pitch really is, a higher frequency, and tests each word against that.",
      "outcome": 1
     },

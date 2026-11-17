@@ -59,7 +59,7 @@ The amplitude of a vibration is how far the thing moves from its rest position. 
 
 The quietest sound a young person can hear is called 0 decibels. Leaves rustling are about 20 decibels, and a whisper is about 30. Talking at one metre is about 60. A mixie at one metre is often 85 or more, and it varies by machine. A horn close by can reach 100 or more. The scale grows by multiplying. A sound of 70 decibels has ten times the energy of a sound of 60. A sound of 80 has a hundred times the energy. Yet 70 decibels sounds only about twice as loud as 60 to most people. This is why two singers are not twice as loud as one. Two equal sounds together read only 3 decibels more than one. Sounds above 85 decibels can harm the hair cells in the inner ear if you hear them for hours. The louder the sound, the shorter the safe time. In India, the Noise Pollution Rules of 2000 set a daytime limit of 55 decibels for places where people live.
 - e.g. A sound meter app in a quiet bedroom at night reads about 30 to 40 decibels.
-- e.g. Ten people talking at once read about 70 decibels, which is 10 more than one person.
+- e.g. Ten people talking at once read about 70 decibels. That is 10 decibels more than one person talking.
 - e.g. Earplugs or earmuffs lower the sound that reaches the ear by about 15 to 30 decibels.
 ### Pitch comes from the frequency of the vibration · *defined*
 **Definition:** Frequency is the number of vibrations each second, measured in hertz. A higher frequency gives a higher pitch.
@@ -83,7 +83,7 @@ In a wind instrument, the air inside the tube vibrates. A short air column vibra
 - e.g. The two ends of a mridangam are different sizes. The bigger skin gives the lower sound.
 - e.g. In hot, dry air a drum skin tightens and its pitch creeps up during a concert.
 ### How to make a sound louder · *defined*
-**Definition:** A sound gets louder in four ways: a bigger vibration, more air pushed, a nearer listener, or energy added by an amplifier.
+**Definition:** A sound gets louder in four ways: a bigger vibration, more air pushed, a sound sent in one direction, or energy added by an amplifier.
 
 There are four ways. First, give the vibration more energy: pluck harder, hit harder or blow harder. Second, push more air with the same vibration. A thin string cuts through the air and moves very little of it. Rest the string on a soundboard, such as a wooden box, and the wide board pushes far more air. The board adds no energy. It passes the string's energy to the air faster. Third, send the sound one way. A cone or cupped hands stop the sound spreading out on every side. Fourth, add energy from outside. A microphone turns the sound into a weak electric signal. An amplifier makes the signal stronger, using energy from a battery or the mains. A loudspeaker turns the strong signal back into sound. Only this fourth way puts more energy into the sound than the player gave it.
 - e.g. A veena's hollow body is its soundboard. Without it the strings could hardly be heard.
@@ -100,9 +100,9 @@ In the Muffle Test, a phone plays a tune under different covers. A thick towel a
 **Definition:** Every instrument has a way to set the pitch of each note. It also has a way to change the volume.
 
 Instruments fall into three main families. In string instruments, strings vibrate. The player sets the pitch with the length and the tension of a string. The strength of the pluck or the bow sets the volume. In wind instruments, an air column vibrates. The player sets the pitch with the length of the column, and the volume with the breath. In percussion instruments, a skin, a pot or a bar is struck. Its pitch is mostly set before the concert, by its size and its tension. The player changes the volume with the strength of each stroke. Some instruments can slide smoothly from one pitch to the next, and some cannot. A veena or a violin can slide, because a finger can stop the string anywhere. A harmonium cannot, because each key has one metal reed with one fixed pitch.
-- e.g. Veena: press a fret for pitch, pluck harder for volume.
-- e.g. Bansuri: open or cover holes for pitch, blow more air for volume.
-- e.g. Mridangam: tighten the straps before playing for pitch, strike harder for volume.
+- e.g. A veena player presses a string against a fret to change the pitch. She plucks the string harder to change the volume.
+- e.g. A bansuri player opens or covers the finger holes to change the pitch. She blows more air to change the volume.
+- e.g. Before the concert, a mridangam player tightens the straps to set the pitch. During the concert, a harder stroke gives a louder sound.
 ### Is loudness in the air or in the listener? · *debated*
 **Definition:** The strength of a sound can be measured in the air. Loudness is what a listener hears. Scientists describe the link between the two in different ways.
 
@@ -110,7 +110,7 @@ A sound meter measures the strength of a sound in the air. Loudness is what a li
 - e.g. Many alarms beep near 3,000 hertz, where human ears are most sensitive.
 - e.g. A dog whistle can read high on a meter that picks up ultrasound, and a human hears nothing.
 - e.g. Sound meters often use a setting called dB(A), which counts low sounds less, as human ears do.
-- **A physicist who measures sound:** The strength of a sound is a fact about the air. It can be measured in decibels with no listener in the room. Loudness is that strength, as closely as a meter can give it.
+- **A physicist who measures sound:** The strength of a sound is a fact about the air. It can be measured in decibels with no listener in the room. To a physicist, loudness is simply that strength, and a meter gives it as closely as we can measure.
 - **A scientist who studies hearing:** Loudness is made by an ear and a brain. It depends on the pitch, on the listener's age and on what kind of animal the listener is. The air only has strength. Loudness begins when someone hears.
 - **A person who is deaf:** A strong low sound can be felt through the floor and in the chest with no hearing at all. So the strength of a sound reaches a body in more than one way. Hearing is only one of them.
 
@@ -145,11 +145,11 @@ A sound meter measures the strength of a sound in the air. Loudness is what a li
 ## Roots
 In this unit you changed the volume and the pitch of a string, and you muffled a ringing phone. Here we ask which part of a sound you can trust when it reaches you from far away.
 
-**Deep truth.** In the Muffle Test, four layers of towel made the phone's tune much quieter. Every note of the tune stayed at its own pitch. Towels, walls and distance take away a sound's energy and leave its frequency alone. So pitch brings you news of the thing that made the sound, however far the sound has come.  
-*Habit it breaks:* We treat loudness and pitch as two equal facts about a sound. They are not equally lasting. Loudness is changed by every step, every wall and every ear on the way. Frequency is set once, at the source, and it arrives as it left.  
+**Deep truth.** In the Muffle Test, four layers of towel made the phone's tune much quieter. Every note of the tune stayed at its own pitch. Towels, walls and distance take away a sound's energy and leave its frequency alone. So the pitch you hear is the same pitch the source made, however far the sound has travelled. That is how you can tell what made a sound from a long way off.  
+*Habit it breaks:* We usually treat loudness and pitch as two equal facts about a sound. In one way they are not equal. Loudness changes on the way to you, because distance and walls make a sound weaker. Pitch is set once, at the source, and it arrives just as it left.  
 *Evidence:* In the Muffle Test, the sound meter read lower under every cover. The tune could still be hummed along with. In Gentle Pluck, Hard Pluck, the note stayed the same while the sound faded to nothing. A tuner reads the same number of hertz near a steady string and far from it. The one exception is a source that moves towards the listener or away.
 
-- *who am i:* Your family knows your voice from another room, though only a faint part of it gets there. The loudness is lost on the way. The frequencies that make it your voice arrive as you made them.
+- *who am i:* Your family can tell it is you speaking from another room, even when your voice is faint. The loudness has been lost on the way. But the pitches that make up your voice arrive just as you made them, and that is how they know it is you.
 - *what is life:* A female cricket or frog finds a male of her own kind by the frequency of his call. He may be far away and faint among a hundred other calls. Many living beings trust pitch in this way.
 - *what is this world:* Light keeps its frequency as it travels too. Astronomers read what a star is made of from frequencies of light that left it thousands of years ago. If the star is moving away, the frequencies arrive a little lower, and that tells them its speed.
 
@@ -162,14 +162,14 @@ The Water-Bottle String was one string. With three amounts of water and three le
 - Science (settled): The frequency that arrives changes only if the source or the listener is moving towards or away from the other. This is called the Doppler effect. Light from far galaxies arrives at lower frequencies because space itself has stretched on the way.
 - Science (open): Pitch as you hear it is built by your ear and brain. It uses the place and the timing of signals in the inner ear. How it does this is still being worked out.
 - Other view, Many scientists who study hearing: Pitch is not the same thing as frequency. Pitch is something a brain makes. An old telephone line carries no frequencies below about 300 hertz. A man's voice at 120 hertz still sounds low on it. The brain rebuilds the low pitch from the higher frequencies that do arrive. So the pitch you hear can be a pitch that never reached your ear. On this view, pitch tells you about your own brain as much as about the source.
-- Practice, The far sound (3 min): Sit still and close your eyes. Listen past the sounds in this room. Find the farthest steady sound you can: a train, a temple bell, a koel, a pressure cooker in another flat. It is very quiet by the time it reaches you. Now hum its note, as softly as you can. The loudness you hear belongs to the journey. The note you are humming was made over there.
+- Practice, The far sound (3 min): Sit still and close your eyes. Listen past the sounds in this room. Find the farthest steady sound you can: a train, a temple bell, a koel, a pressure cooker in another flat. It is very quiet by the time it reaches you. Now hum its note, as softly as you can. The loudness you hear has been lowered by the long trip. The note you are humming is exactly the note that was made over there.
 - Ask: A song comes faintly through a wall. Which part of it is still exactly as the singer made it, and which part is not?
 - Ask: A sound meter and your ears can disagree about how loud a sound is. Which one would you trust, and for what?
 - Ask: One string gave many notes in the Water-Bottle String. Does the note belong to the string, to the bottle, or to neither alone?
 
 ## Deep and big questions
 - *deep:* In the Muffle Test, a towel makes the alarm quieter, and the tune stays the same. Where does the missing loudness go? (hint: Sound is energy, and energy does not vanish. Think about what the threads of the towel are doing as the sound passes.)
-- *deep:* A string gives no note until it is pulled tight. Where is the note before you pluck? (hint: In the Water-Bottle String, one string gave many notes. Ask what decides the note: the string, the bottle, the pencils, or all of them together.)
+- *deep:* A string gives no clear note until it is pulled tight. Is the note already in the string before you pluck it? (hint: In the Water-Bottle String, one string gave many notes. Ask what decides the note: the string, the bottle, the pencils, or all of them together.)
 - *deep:* A dog hears a 30,000 hertz whistle clearly, and you hear nothing. Is that whistle loud? (hint: A meter that picks up ultrasound gives it a number in decibels. Decide whether 'loud' needs a listener, and which listener.)
 - *big:* One family's festival music is another family's sleepless night. Who should decide how loud is too loud? (hint: Think of everyone who hears it: a baby, a person who is ill, a night-shift worker, the birds in the tree. Then think about what a rule in decibels can and cannot settle.)
 - *big:* Light has a frequency too, and we see it as colour. Is pitch the colour of sound? (hint: Red light has a lower frequency than violet light. Think about what is alike and what is different. Can you mix pitches the way you mix colours?)
@@ -323,9 +323,9 @@ Kathir looked at his violin. Then he looked at the bowl.
   *Parent does:* 1. Look at the table together. 2. Ask your child to say what they thought would happen, what they measured, and why they think it happened. 3. After they have answered, read them the explanation in the note below.  
   *Parent says:* Look at your table. Say what you thought would happen, what you measured, and why you think it happened. Which three changes made the note higher?  
   *Child mode:* Say what you thought would happen. Say what you measured. Say why you think it happened.
-  - Ask: Which three changes made the string's note higher? (good: More water, which means more tension.; A shorter length between the pencils.; One strand in place of two, which means a lighter string.)
+  - Ask: Which three changes made the string's note higher? (good: More water, which means more tension.; A shorter length between the pencils.; Taking away the second strand, so that the string is lighter.)
   - Ask: Did twice the water give twice the frequency? (good: No. It gave only about 1.4 times the frequency.; It took four times the water to double the frequency.)
-  - Note: A tighter string is pulled back to its rest position harder, so each trip is quicker. A shorter string has less far to go and less of itself to move. A heavier string has more to move, so each trip is slower. The rule for tension is surprising: four times the pull doubles the frequency. Marin Mersenne published these rules in France in 1636. Your numbers will not match the example table. The bag and the bottle also add a little weight of their own. Look for the pattern.
+  - Note: A tighter string is pulled back to its rest position harder, so each trip is quicker. A shorter string has less far to go and less of itself to move. A heavier string has more to move, so each trip is slower. The rule for tension is surprising. Four times the pull doubles the frequency. Marin Mersenne published these rules in France in 1636. Your numbers will not match the example table. The bag and the bottle also add a little weight of their own. Look for the pattern.
   - Think: A veena has thick strings and thin strings of the same length. Which ones play the low notes, and why?
 ### e2 · Gentle Pluck, Hard Pluck: does a bigger vibration change the note? (20 min)
 - **question:** When a string is pulled further aside and let go, what changes: the volume, the pitch, or both?
@@ -484,7 +484,7 @@ Kathir looked at his violin. Then he looked at the bowl.
   *Parent says:* When you stretched the band, tighter was not the only change. Look at it at 15 centimetres, and again at 30. What else changed?  
   *Child mode:* Look at the band short, then long. Tighter was one change. Find two more.
   - Ask: What three things changed when the band was stretched? (good: It got tighter.; It got longer.; It got thinner.)
-  - Ask: Which of those raise the note, and which lowers it? (good: Tighter and thinner raise it.; Longer lowers it.)
+  - Ask: Which of those raise the note, and which lowers it? (good: Getting tighter and getting thinner raise it.; Getting longer lowers it.)
   - Note: Stretching changes three things at once. The band gets tighter, which raises the note. It gets thinner, which also raises the note. It gets longer, which lowers the note. The changes nearly cancel. So this test cannot show what tension does. In the Water-Bottle String, only the water changed, and the length stayed at 40 cm. That is why a fair test changes one thing at a time.
   - Think: When you sing a higher note, your vocal folds are stretched longer and tighter. Why does the note go up and not down?
 ### a5 · Instrument Detective: how does each instrument change its volume and its pitch? (20 min)
@@ -498,7 +498,7 @@ Kathir looked at his violin. Then he looked at the bowl.
   *Parent does:* 1. Your child looks at each instrument or watches it being played for two minutes. 2. For each one they answer three questions and fill in a row of the table. 3. Do not show the answer table yet.  
   *Parent says:* Watch the player's hands. What is vibrating? What does the player do to get a higher note? What does the player do to get a louder note?  
   *Child mode:* Watch the player's hands. What vibrates? How does the note go higher? How does it get louder?
-  - Ask: What does the player do to get a higher note? (good: Makes the string shorter with a finger.; Opens a hole, so that the air column is shorter.; A drum's note is set before playing, by tightening the skin.)
+  - Ask: What does the player do to get a higher note? (good: The player makes the string shorter with a finger.; The player opens a hole, so that the air column is shorter.; A drum's note is set before playing, by tightening the skin.)
   - Note: Use what the Water-Bottle String and the Filling Bottle showed. A shorter or tighter string is higher. A shorter air column is higher. A tighter skin is higher.
 - **s3 (4 min)**  
   *Parent does:* 1. Open the answer table. 2. Your child compares their three rows with it. 3. Talk about any row that differs.  
@@ -659,7 +659,7 @@ Kathir looked at his violin. Then he looked at the bowl.
 9. (write) Many people think a drum sounds higher when it is hit harder. Describe a fair test of this idea.  
    **Answer:** Hit the same drum in the same place with the same stick, gently and then hard, three times each. Hold a tuner app in the same place and read the frequency each time. Change only the strength of the hit. If the hertz stay the same, the idea is wrong.. *Why:* A strong answer changes one thing and measures the frequency, not the loudness. It keeps the drum, the stick and the place the same, and repeats each hit.
 10. (write) English speakers call a pitch 'high'. Farsi speakers call it 'thin'. Which word fits the science better? Give a reason.  
-   **Answer:** Either word, with a reason. 'Thin' fits because thin strings and small things do give higher notes. 'High' fits because the frequency is a higher number. Nothing in the sound is higher up, so both are borrowed words for a faster vibration.. *Why:* A strong answer says what a high pitch really is, a higher frequency, and tests each word against that.
+   **Answer:** Either word, with a reason. 'Thin' fits because thin strings and small things do give higher notes. 'High' fits because the frequency is a higher number. Nothing in the sound is higher up, so both words are only ways of picturing a faster vibration.. *Why:* A strong answer says what a high pitch really is, a higher frequency, and tests each word against that.
 11. (write) A sound meter reads 60 decibels for a low hum and for a high beep. Will they sound equally loud?  
    **Answer:** Not always. The meter measures the strength of the sound in the air. Human ears are less sensitive to low sounds, so the low hum may sound quieter than the beep. Fletcher and Munson showed this in 1933.. *Why:* A strong answer separates the strength in the air from the loudness a listener hears. It says that the ear's sensitivity depends on pitch.
 12. (write) A phone on a table plays a song. Give three ways to make it louder without the volume button.  

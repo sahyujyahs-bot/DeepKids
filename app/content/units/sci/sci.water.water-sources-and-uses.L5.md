@@ -3,7 +3,7 @@
 
 **Summary.** Water covers most of the Earth, yet people in many places run short of water to drink. The reason is salt. Out of every 1,000 parts of Earth's water, about 975 are salty and only 25 are fresh. Of those 25 fresh parts, about 17 are frozen as ice and about 7 and a half lie under the ground. All the fresh lakes and rivers of the world together make less than one tenth of one part. Freezing and evaporation both take water out of salt water and leave the salt behind. That is how the sea keeps making fresh water.
 
-**Intro.** *From space the Earth looks blue, because water covers most of the surface. So why does a sailor in a lifeboat, with water all around, have nothing to drink?* The water around the sailor is sea water, and sea water is salty. A person who drinks sea water ends up with less water in the body than before. In this unit you measure how much of Earth's water is fresh. You freeze salty water to see where the salt goes. You put sticks of potato in salty water to see what salt does to living cells. You melt ice that floats and ice that sits above the water, to see which one raises the sea. Then you take water from a jar of fresh and salty layers, as the people of an island do.
+**Intro.** *From space the Earth looks blue, because water covers most of the surface. So why does a sailor in a lifeboat, with water all around, have nothing to drink?* The water around the sailor is sea water, and sea water is salty. A person who drinks sea water ends up with less water in the body than before. In this unit you measure how much of Earth's water is fresh. You freeze salty water to see where the salt goes. You put sticks of potato in salty water to see what salt does to living cells. You melt ice that is already floating in water. You also melt ice that rests above the water, the way ice on land does. Then you see which one raises the level. Then you take water from a jar of fresh and salty layers, as the people of an island do.
 
 ## Learning outcomes
 0. I can say how fresh water, brackish water and sea water differ, using grams of salt in a litre.
@@ -43,35 +43,35 @@
 **Definition:** Fresh water holds less than 1 gram of dissolved salts in a litre. Sea water holds about 35 grams. Brackish water is in between.
 
 All natural water has something dissolved in it. The amount is what matters. A litre of rain or river water holds a small part of a gram of salts, and you cannot taste them. A litre of sea water holds about 35 grams, which is about 6 level teaspoons. Most of it is common salt, the same salt as in your kitchen. Water between the two is called brackish. Scientists call the saltiness of water its salinity. India's standard for drinking water says half a gram of dissolved salts in a litre, or less, is best. So sea water is about 70 times too salty to drink.
-- e.g. Rain water: almost no salt.
-- e.g. The Kaveri at Srirangam: fresh, a small part of a gram in a litre.
-- e.g. Chilika lagoon in Odisha: brackish, and saltier in summer than in the monsoon.
-- e.g. The Arabian Sea: about 36 grams in a litre.
-- e.g. The Dead Sea, between Jordan and Israel: about 340 grams in a litre.
+- e.g. Rain water has almost no salt in it.
+- e.g. The Kaveri at Srirangam is fresh. A litre of its water holds only a small part of a gram of salts.
+- e.g. Chilika lagoon in Odisha is brackish. It is saltier in summer than in the monsoon.
+- e.g. The Arabian Sea holds about 36 grams of salts in a litre.
+- e.g. The Dead Sea, between Jordan and Israel, holds about 340 grams of salts in a litre.
 ### How Earth's water is shared out · *defined*
 **Definition:** Out of every 1,000 parts of Earth's water, about 975 are salty and about 25 are fresh. Most of the fresh water is ice or groundwater.
 
 Water covers about 71 out of every 100 parts of Earth's surface. Scientists have added up all of that water. Out of every 1,000 parts, about 975 are salty. Nearly all of the salty water is in the seas, and a little is salty groundwater and salt lakes. Only 25 parts are fresh. Of those 25, about 17 are frozen in glaciers and ice sheets. About 7 and a half are groundwater. The small amount left is less than half of one part. It holds frozen soil, lakes, rivers, the water in the air and the water in all living beings. All the fresh lakes and rivers together make about 7 hundredths of one part. Yet most cities take their water from lakes and rivers.
-- e.g. In One Litre Earth, a 1 litre bottle stands for all Earth's water. Fresh water is 5 teaspoons.
-- e.g. Ice is 3 and a half of those teaspoons. Groundwater is 1 and a half.
-- e.g. All the fresh lakes and rivers are about one drop.
+- e.g. In One Litre Earth, a 1 litre bottle stands for all of Earth's water. Of that bottle, the fresh water is only about 5 teaspoons.
+- e.g. About 3 and a half of those 5 teaspoons are ice. About 1 and a half are groundwater.
+- e.g. All the fresh lakes and rivers together are only about one drop.
 - e.g. Lake Baikal in Russia alone holds about a fifth of the fresh water in all the world's lakes and rivers.
 ### The three forms of water, and where each is found · *defined*
 **Definition:** Water is found on Earth as a solid (ice), a liquid (water) and a gas (water vapour). Most of Earth's water is liquid.
 
 Ice, liquid water and water vapour are the same substance in three forms. Scientists call these forms states. About 98 out of every 100 parts of Earth's water are liquid, in the sea and under the ground. Nearly 2 parts are ice, in glaciers, ice sheets and sea ice. Water vapour is only about 1 part in 100,000. It is mixed into the air everywhere, and it is invisible. If all the vapour in the air fell as rain at once, it would cover the Earth about 2 and a half centimetres deep. That small amount matters a great deal, because all rain and snow form from it.
-- e.g. Solid: the Siachen glacier, the ice on Antarctica, hail, frost in a freezer.
-- e.g. Liquid: the Indian Ocean, the Godavari, a well, the water in a coconut.
-- e.g. Gas: the air above wet clothes, the air you breathe out.
+- e.g. Solid water is in the Siachen glacier, the ice on Antarctica, hail and the frost in a freezer.
+- e.g. Liquid water is found in the Indian Ocean, in the Godavari, in a well and inside a coconut.
+- e.g. Water as a gas is in the air above wet clothes and in the air you breathe out.
 - e.g. A cloud is tiny drops of liquid water or tiny bits of ice. A cloud is water that has condensed from vapour.
 ### What changes water from one form to another · *defined*
 **Definition:** Heat entering or leaving changes water's form. Ice melts and water evaporates when heat enters. Vapour condenses and water freezes when heat leaves.
 
-Pure water freezes at 0 degrees Celsius, and ice melts at the same temperature. Water evaporates at any temperature, and faster when it is warm. Vapour condenses when it touches something cool. None of these changes makes new water or destroys water. In One Bottle, Three Forms, the water freezes, melts and comes back to the same line. One thing does change. When water freezes, it takes up about one tenth more room. So ice is lighter than the same amount of water, and ice floats. A lake in Ladakh freezes from the top, and fish live in the liquid water below the ice. Water pipes in cold hill towns can burst in winter, because the freezing water pushes the pipe apart.
-- e.g. Melting: an ice cube on a plate becomes a puddle.
-- e.g. Freezing: water in a tray becomes ice in the freezer.
-- e.g. Evaporating: a wet floor dries.
-- e.g. Condensing: drops form on a cold bottle taken from the fridge.
+Pure water freezes at 0 degrees Celsius, and ice melts at the same temperature. Water evaporates at any temperature, and faster when it is warm. Vapour condenses when it touches something cool. None of these changes makes new water or destroys water. In One Bottle, Three Forms, the water freezes and then melts. It comes back to the line you marked at the start. One thing does change. When water freezes, it takes up about one tenth more room. So a cupful of ice weighs less than a cupful of water, and that is why ice floats. A lake in Ladakh freezes from the top, and fish live in the liquid water below the ice. Water pipes in cold hill towns can burst in winter, because the freezing water pushes the pipe apart.
+- e.g. An ice cube on a plate melts into a puddle. That is melting.
+- e.g. Water in a tray turns into ice in the freezer. That is freezing.
+- e.g. A wet floor dries because its water goes into the air. That is evaporating.
+- e.g. Drops form on a cold bottle taken from the fridge. Water vapour in the air turns back into liquid on it. That is condensing.
 ### Why freezing and evaporation leave the salt behind · *defined*
 **Definition:** When water freezes or evaporates, water particles leave the salty liquid. Almost all the salt particles stay in the liquid.
 
@@ -88,7 +88,7 @@ About 17 of Earth's 25 fresh parts are ice. Nearly all of that ice lies on land.
 - e.g. The Siachen glacier in the Karakoram is more than 70 kilometres long.
 - e.g. If all the ice on Antarctica melted, the sea would rise by about 58 metres.
 - e.g. Aditi Pant, an ocean scientist, and Sudipta Sengupta, a geologist, are credited as the first Indian women to reach Antarctica, in 1983 and 1984.
-- e.g. In Ice on Land, Ice on Sea, the water rose when ice melted above the water, and stayed level when ice melted in it.
+- e.g. In Ice on Land, Ice on Sea, the water level rose when ice above the water melted into it. The level stayed the same when ice that was already floating melted.
 ### Groundwater: the largest store of liquid fresh water · *defined*
 **Definition:** Groundwater fills the gaps between grains of soil, sand and rock. It holds about 100 times as much fresh water as all the lakes and rivers.
 
@@ -118,11 +118,11 @@ Humans cannot live on sea water, but many other beings can. An albatross can spe
 - e.g. Gulls, albatrosses and penguins have salt glands.
 - e.g. An olive ridley turtle nesting at Gahirmatha in Odisha sheds salty tears.
 - e.g. Grey mangrove leaves at Pichavaram in Tamil Nadu have white salt crystals on them after a sunny day.
-- e.g. A camel can drink water that is a little salty, and a person would find it too salty.
+- e.g. A camel can drink water that is a little salty. A person would find that water too salty to drink.
 ### Where fresh water meets salt water · *defined*
 **Definition:** Fresh water is lighter than salt water, so fresh water floats on top where the two meet. Stirring or hard pumping mixes them.
 
-A litre of fresh water has a mass of 1,000 grams. A litre of sea water has a mass of about 1,025 grams, because of the salt. So fresh water floats on sea water, as you see in The Island Well. Where a river enters the sea, the river water spreads over the sea water. Under a small coral island, the rain that soaks into the sand floats on the sea water below. A floating layer of fresh water sits like an iceberg. About 40 parts in every 41 lie under the sea level, so a layer 1 metre above the sea can reach about 40 metres below it. Real layers are thinner, because tides and pumping mix them. People on the islands of Lakshadweep take this floating rain water from shallow wells. Along a coast, fresh groundwater pushes towards the sea and holds the sea water back. If people pump too much fresh water out, sea water creeps inland under the ground. Wells near the shore then turn salty. This has happened along parts of the coast near Chennai.
+A litre of fresh water has a mass of 1,000 grams. A litre of sea water has a mass of about 1,025 grams, because of the salt. So fresh water floats on sea water, as you see in The Island Well. Where a river enters the sea, the river water spreads over the sea water. Under a small coral island, the rain that soaks into the sand floats on the sea water below. A floating layer of fresh water is a little like an iceberg, because most of it lies below the sea level. About 40 parts in every 41 are under the sea level. So a layer that rises 1 metre above the sea can reach about 40 metres below it. Real layers are thinner, because tides and pumping mix them. People on the islands of Lakshadweep take this floating rain water from shallow wells. Along a coast, fresh groundwater pushes towards the sea and holds the sea water back. If people pump too much fresh water out, sea water creeps inland under the ground. Wells near the shore then turn salty. This has happened along parts of the coast near Chennai.
 - e.g. In The Island Well, clear fresh water stays as a layer above blue salty water until it is stirred.
 - e.g. A well on Agatti island rises and falls a little with the tide, because the fresh water floats on the sea.
 - e.g. At Minjur, north of Chennai, groundwater has turned salty up to about 16 kilometres from the shore.
@@ -145,7 +145,7 @@ A desalination plant pushes sea water at very high pressure against sheets with 
 - **A water scientist:** Saving rain, cleaning used water and mending leaking pipes cost far less energy for each litre. A city should do these first, and use the sea last.
 ### Is there water deep inside the Earth? · *idea*
 All the numbers in this unit count the water at Earth's surface: the sea, the ice, the groundwater and the air. There may be more, far below. In 2014, the scientist Graham Pearson and his team studied a small diamond from Brazil. Inside the diamond was a speck of a mineral called ringwoodite, which forms hundreds of kilometres down. The speck held water, locked inside the mineral. This water is not a liquid and nobody could drink it. If much of the deep rock is like that speck, the rock could hold as much water as all the oceans. One speck is very little evidence, so this is still an idea.
-- e.g. A mineral can hold water inside its own structure, as dry-looking plaster does.
+- e.g. A mineral can hold water locked inside its own structure and still look dry, as plaster does.
 - e.g. Volcanoes give off steam, so some water does come up from deep rock.
 
 ## Mostly agreed
@@ -183,15 +183,15 @@ All the numbers in this unit count the water at Earth's surface: the sea, the ic
 ## Roots
 In this unit you froze salty water and found that the ice left most of the salt behind. Here we ask what that tells us about fresh water, the sea and ourselves.
 
-**Deep truth.** In One Litre Earth, all the fresh lakes and rivers of the world fill less than one drop. Yet rivers have run for millions of years. The Sun lifts fresh water out of the sea and leaves the salt, and rain brings the water back. So a place can use for ever only as much water as the rain refills.  
-*Habit it breaks:* We call Earth a water planet, so it seems that water can never run short. That counts the sea, which people cannot drink. The water that people use is the small flow that the Sun lifts and the rain returns.  
-*Evidence:* In One Litre Earth, the bottle holds the sea and the ice, and all the lakes and rivers fit in one drop. In Freeze the Sea, ice leaves its salt behind, and evaporation does the same over the sea.
+**Deep truth.** In One Litre Earth, all the fresh lakes and rivers of the world fill less than one drop. Even so, rivers have kept running for millions of years. The Sun lifts fresh water out of the sea and leaves the salt behind. Then rain brings the water back. So a place can keep using water for ever only if it takes no more than the rain refills.  
+*Habit it breaks:* We call Earth a water planet, so it seems that water can never run short. That counts the sea, which people cannot drink. The water that people can actually use is only a small amount. It is what the Sun lifts out of the sea and the rain brings back.  
+*Evidence:* In One Litre Earth, the sea and the ice fill almost the whole bottle. All the lakes and rivers together are only one drop. In Freeze the Sea, ice leaves its salt behind, and evaporation does the same over the sea.
 
 - *who am i:* More than half of your body is water, and that water holds about 9 grams of salt in a litre. Your body keeps that amount steady every hour, with every drink and every visit to the toilet.
 - *what is life:* Every living cell is a small bag of slightly salty water. An albatross, a mangrove and a child each have their own way of keeping that water at the right saltiness.
 - *what is this world:* The sea, the clouds, the glaciers and the rivers hold the same water at different times. The Sun and the cold keep taking water out of the sea, and the rivers keep taking it back.
 
-A drop of water in the Bay of Bengal carries salt. The Sun lifts the water into the air and the salt stays in the sea. The drop falls as snow on a Himalayan glacier and melts into the Ganga. It may pass through a well, a tumbler and a child. Then it flows back to the bay and mixes with salt again. Sea, cloud, ice, river and child are places that the same water passes through, one after another.
+A drop of water in the Bay of Bengal carries salt. The Sun lifts the water into the air and the salt stays in the sea. The drop falls as snow on a Himalayan glacier and melts into the Ganga. It may pass through a well, a tumbler and a child. Then it flows back to the bay and mixes with salt again. The same water passes through the sea, a cloud, a glacier, a river and a child, one after another.
 
 - **Chandogya Upanishad 6.10:** The rivers in the east flow east and the rivers in the west flow west. They rise from the sea and go back to the sea, and they become the sea. Once there, they do not know 'I am this river' or 'I am that river'. (The verse says that rivers come from the sea and return to it. This unit's science agrees: rain rises from the sea by evaporation, and rivers carry it back. The teacher Uddalaka uses the rivers to teach his son about the self. That part is a teaching, and the science neither proves it nor denies it.)
 - **Tirukkural, verse 17, in the chapter on rain, by Thiruvalluvar:** Even the wide sea will lose its wealth, if the cloud does not draw up its water and give it back as rain. (Thiruvalluvar, about 1,500 years ago by the usual dating, describes the cloud taking water from the sea and returning it. He is praising rain. He does not say that the salt stays behind, which is what Freeze the Sea and the salt pans show.)
@@ -199,16 +199,16 @@ A drop of water in the Bay of Bengal carries salt. The Sun lifts the water into 
 - Science (settled): Matter is not made or destroyed when water changes form. The water that freezes, melts, evaporates and condenses is the same water.
 - Science (settled): Nearly all the water in rivers, lakes, glaciers and groundwater fell as rain or snow, and most of that vapour rose from the sea.
 - Science (open): Deep rock inside the Earth may hold as much water as all the oceans, locked inside minerals. Nobody yet knows how much.
-- Other view, A doctor who treats people with dehydration: For a living body, fresh water and sea water are truly different, because one keeps a person alive and the other dries them out. Calling them the same water ignores the difference that matters to a thirsty person. What a thing does to us is part of what it is.
+- Other view, A doctor who treats people with dehydration: For a living body, fresh water and sea water are truly different, because one keeps a person alive and the other dries them out. Calling them the same water ignores the difference that matters to a thirsty person. So, on this view, what water does to a living body is part of what water is.
 - Practice, One slow sip (3 min): Pour a small tumbler of drinking water. Hold it and look into it for a few breaths. This water was once in the sea, and it carried salt then. The Sun lifted it out and left the salt behind. Take one small sip and hold it in your mouth. Notice that it has almost no taste. Swallow, and sit quietly. Where will this water go next?
 - Ask: In One Litre Earth, the sea is nearly all of the bottle and the rivers are one drop. Does a planet with this much sea have plenty of water?
-- Ask: The water in your body is a little salty, like a very weak sea. What do you make of that?
+- Ask: The water in your body is a little salty, like a very weak sea. Why do you think that is?
 - Ask: An albatross can drink the sea and you cannot. Whose word should decide what counts as drinking water?
 
 ## Deep and big questions
 - *deep:* An albatross drinks sea water and stays healthy. Is 'drinking water' a kind of water, or does it depend on who is drinking? (hint: Think about the albatross's salt glands and your own kidneys. What would each of you call fresh enough?)
 - *deep:* In Freeze the Sea, the ice and the leftover liquid came from one bowl. Were they ever two different waters? (hint: The water particles in the ice and in the liquid are the same kind. Only the salt is shared out differently.)
-- *deep:* The rain that fills a river rose from the sea, and the river carries it back. Is a river fresh water, or sea water on a journey? (hint: Follow one drop from the Bay of Bengal to a cloud, to the Kaveri, and back.)
+- *deep:* The rain that fills a river rose from the sea, and the river carries it back. Is the water in a river really fresh water, or is it sea water on its way home? (hint: Follow one drop from the Bay of Bengal to a cloud, to the Kaveri, and back.)
 - *big:* Most fresh water is ice far from where people live. Does anyone own the ice on Antarctica? Should anyone? (hint: By a treaty of 1959, no country owns Antarctica, and it is kept for science and peace.)
 - *big:* Groundwater under a village took thousands of years to collect. Is it fair for one farm to pump as much as it likes? (hint: Think of the people nearby, the people not yet born, and the trees whose roots reach that water.)
 - *big:* Humans use most of the reachable fresh water. How much should be left in rivers for fish, otters, trees and everyone else who lives by fresh water? (hint: A river that is pumped dry before the sea has no estuary, and the fish who breed there have nowhere to go.)
@@ -250,7 +250,7 @@ When Ayesha picked up the jar, there were two waters in it. At the bottom was cl
 
 She tilted the jar. The brown layer tilted too, and stayed on top.
 
-Then Yusuf took the jar and shook it to wake the crab. She did not like it, and he said sorry to her. The whole jar went pale brown. They waited a long time. The two waters did not come apart again.
+Then Yusuf took the jar and shook it to wake the crab. The crab did not like it, and Yusuf said sorry to her. The whole jar went pale brown. They waited a long time. The two waters did not come apart again.
 
 Ayesha sat on the step and thought about the rope, the tide and the jar. Then she filled a second jar with sea water. She let tea-coloured water run slowly down the inside until there was a brown layer on top, and she carried the jar to Hamza's yard. He was mixing cement for the new rings.
 
@@ -487,7 +487,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
   *Parent does:* 1. Pour water into the cup until it is 8 cm deep. 2. Stick tape on the outside at the water line. 3. Drop an ice cube into a glass of water and watch it. 4. Put the cup in the freezer, upright and level, for 8 hours or overnight.  
   *Parent says:* Mark the water line with tape. Then put the ice cube in the glass. Does it sink or float? What does that tell you about ice and water?  
   *Child mode:* Mark the water line with tape. Drop an ice cube in a glass. Put the cup in the freezer.
-  - Ask: Does the ice cube sink or float? What does that say about ice compared with water? (good: It floats, so ice is lighter than the same amount of water.; Ice must take up more room than water.)
+  - Ask: Does the ice cube sink or float? What does that say about ice compared with water? (good: It floats, so a cupful of ice must weigh less than a cupful of water.; The same water must take up more room when it is ice.)
   - Note: Do not put the lid on. The cup may bulge or crack a little, which is why you must use plastic.
   - Wait: Leave the cup in the freezer overnight, for at least 8 hours.
 - **s3 (6 min)**  
@@ -539,7 +539,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Why did the clear water stay on top? (good: It is lighter than salt water.; Salt makes the water heavier.)
   - Ask: What did the stirring do? (good: It mixed the fresh and salt water, and they do not come apart again.; It spoiled the fresh water.)
-  - Note: The reason: a litre of fresh water has a mass of about 1,000 grams, and a litre of sea water about 1,025 grams. The lighter water floats. A layer of fresh water on an island sits the same way, and a strong pump near the salt layer pulls it upward and mixes it. Only new rain makes fresh water again.
+  - Note: The reason: a litre of fresh water has a mass of about 1,000 grams, and a litre of sea water about 1,025 grams. The lighter water floats. A layer of fresh water under an island floats in the same way, and a strong pump near the salt layer pulls it upward and mixes it. Only new rain makes fresh water again.
   - Think: In The Well That Moved with the Tide, Ayesha's well rose and fell with the tide. What does that tell you about what lies under the sand?
 ### a4 · Pin the Fresh Water: ten places on a map (20 min)
 - **record:** Make a key with five colours. Write the name of each of the ten places beside its colour. Then write which pins are far from where most people live.
@@ -549,7 +549,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
   *Child mode:* Where is most of Earth's fresh water? Draw a ring. Why there?
   - Note: Children often ring rivers or lakes. Most of the fresh water is ice, near the poles and on high mountains. Do not correct the guess yet.
 - **s2 (10 min)**  
-  *Parent does:* Find each place on the map and mark it. White: Antarctica, Greenland, the Gangotri glacier in Uttarakhand. Blue: Lake Baikal in Russia, the Great Lakes of North America, the Kaveri river. Green: the groundwater under the Ganga plain. Orange: Chilika lagoon in Odisha. Red: Sambhar Lake in Rajasthan, the Dead Sea.  
+  *Parent does:* Find each place on the map and mark it. Mark Antarctica, Greenland and the Gangotri glacier in Uttarakhand in white. Mark Lake Baikal in Russia, the Great Lakes of North America and the Kaveri river in blue. Mark the groundwater under the Ganga plain in green. Mark Chilika lagoon in Odisha in orange. Mark Sambhar Lake in Rajasthan and the Dead Sea in red.  
   *Parent says:* Take one place at a time. Find it, mark it in its colour, and say what kind of water it holds. Is it ice, fresh, brackish or salty?  
   *Child mode:* Find each place. Mark it in its colour. Say what water it holds.
   - Note: Use a phone map if the atlas does not show a place. The Great Lakes are on the border of the United States and Canada. The Ganga plain holds one of the great groundwater stores of the world, and many wells and borewells draw on it.
@@ -651,7 +651,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
 - **creative:** Flush toilets with sea water, so that fresh water is used only for drinking, cooking and washing.; Use washing water for the coconut palms and the vegetable beds.; Mend leaking pipes and taps first, because a litre that is saved costs nothing to make.
 - **s1 (8 min)**  
   *Parent does:* Read the problem together. Work out how many litres the island needs in a year. Write the sum and the answer.  
-  *Parent says:* 300 people, 40 litres each, every day. How many litres a day is that? How many in a year? Which source do you think will give most?  
+  *Parent says:* The island has 300 people, and each person needs 40 litres a day. How many litres is that in a day? How many in a year? Which source do you think will give the most?  
   *Child mode:* 300 people use 40 litres each a day. How many litres is that in a year?
   - Note: 300 times 40 is 12,000 litres a day. 12,000 times 365 is 4,380,000 litres a year.
 - **s2 (12 min)**  
@@ -771,7 +771,7 @@ Ayesha went on keeping her page of marks long after anyone needed it. She liked 
    Options: Pockets of salty liquid are trapped between the ice crystals / Ice makes a little new salt / The freezer adds salt to the ice / The water did not freeze at all  
    **Answer:** Pockets of salty liquid are trapped between the ice crystals. *Why:* Ice crystals push most salt out, but salty liquid gets trapped in small pockets between them. That is why old sea ice, where the pockets have drained, is nearly fresh.
 11. (write) Many people say that a deeper well gives fresher water. Plan a test of this in a village near the sea.  
-   **Answer:** Choose wells of different depths in the same village. Take a sample from each in the same way and at the same time of year. Taste is not safe, so test them for salt with a safe method such as a grown-up's meter or the village health office. Compare depth with saltiness for all the wells.. *Why:* A strong answer compares several wells of different depths, keeps everything else the same, and measures saltiness safely, not by drinking.
+   **Answer:** Choose wells of different depths in the same village. Take a sample from each in the same way and at the same time of year. Tasting the water is not safe, so test them for salt with a safe method such as a grown-up's meter or the village health office. Compare depth with saltiness for all the wells.. *Why:* A strong answer compares several wells of different depths, keeps everything else the same, and measures saltiness safely, not by drinking.
 12. (match) Match each change to what happens to the salt.  
    **Answer:** Sea water evaporates → The salt stays in the sea; Sea water freezes → Most salt stays in the liquid; A lake has no outlet → Salts build up year after year; Rain soaks into rock → It picks up a little salt from the rock. *Why:* Salt is left behind when water leaves as vapour or ice. A lake with no outlet loses water only by evaporation, and rain on rock picks up dissolved salts.
 13. (draw) Draw two tumblers after Ice on Land, Ice on Sea. Show each water line, and label the one that rose.  
