@@ -142,7 +142,7 @@
    "concept": "What it means to be alive: the seven signs",
    "status": "defined",
    "definition": "A living thing belongs to a kind that does all seven life processes: nutrition, respiration, growth, movement, sensing, excretion and reproduction.",
-   "description": "Scientists cannot point to one thing that makes something alive. So they use a list of seven signs. Here they are. Nutrition: getting food. Respiration: getting energy from the food. Growth: getting bigger from the inside. Movement: moving the body or a part of it. Sensing: noticing the world and responding. Excretion: getting rid of waste. Reproduction: making young ones. Some children remember them with the made-up word MRS GREN. Each letter starts one sign: Movement, Respiration, Sensing, Growth, Reproduction, Excretion, Nutrition. A living thing does not do all seven at every moment. A child cannot have babies yet, and some animals and people never have young. But every kind of living thing makes more of the same kind.",
+   "description": "Scientists cannot point to one thing that makes something alive. So they use a list of seven signs. Nutrition means getting food. Respiration means getting energy out of that food. Growth means getting bigger from the inside. Movement means moving the body or a part of it. Sensing means noticing the world and responding to it. Excretion means getting rid of waste. Reproduction means making young ones. Some children remember them with the made-up word MRS GREN. Each letter starts one sign: Movement, Respiration, Sensing, Growth, Reproduction, Excretion, Nutrition. A living thing does not do all seven at every moment. A child cannot have babies yet, and some animals and people never have young. But every kind of living thing makes more of the same kind.",
    "examples": [
     "A dog eats, breathes, grows, runs, sniffs, does wee and can have puppies. That is all seven.",
     "A mango tree makes food in the leaves, takes in air, grows taller, turns the leaves to the light, drops old leaves and grows mangoes with seeds inside.",
@@ -268,7 +268,7 @@
    "concept": "Why living things must keep eating: energy and order",
    "status": "defined",
    "definition": "Living things need a steady flow of energy, mostly from the Sun, to keep their bodies working and in order.",
-   "description": "A living body is very well organised, like a busy kitchen where everything is in its place. Keeping it that way takes energy, all the time. A living body uses that energy to keep mending itself. When a living thing dies, the mending stops, and the body slowly breaks down. That is why a dead leaf rots. The energy almost always comes, in the end, from the Sun. A plant catches sunlight and stores the energy in sugar. A goat eats the plant. You drink the goat's milk. Each time, some energy is used and leaves as warmth. In 1944, the physicist Erwin Schrödinger wrote a famous little book called What Is Life? He said living things stay alive by taking in order from the world around them. Scientists still use that idea today.",
+   "description": "A living body is very well organised, like a busy kitchen where everything is in its place. Keeping it that way takes energy, all the time. A living body uses that energy to keep mending itself. When a living thing dies, the mending stops, and the body slowly breaks down. That is why a dead leaf rots. The energy almost always comes, in the end, from the Sun. A plant catches sunlight and stores the energy in sugar. A goat eats the plant. You drink the goat's milk. Each time, some energy is used and leaves as warmth. In 1944, the physicist Erwin Schrödinger wrote a famous little book called What Is Life? He said that a living body stays in good order only because it keeps taking in energy from outside. Scientists still find that idea useful today.",
    "examples": [
     "You feel warm because respiration in your body gives off heat all the time.",
     "A plant kept in a dark cupboard for weeks uses up their stored food and goes pale and weak.",
@@ -398,7 +398,7 @@
    "for": "Living things seem so different from stones and water. It feels as if something extra must be inside them.",
    "against": "Scientists found that living things are made of ordinary atoms, the same ones in air and rock. In 1897, Eduard Buchner, a German scientist, crushed yeast cells and used just their juice. It still turned sugar into gas, with no living cells at all. He won a Nobel Prize for it in 1907.",
    "status": "rejected",
-   "context": "This card is about the old idea of a life force, and what a test with yeast showed about it."
+   "context": "Vitalism is the idea that living things hold a special life force, which stones and water do not have. This card is about that old idea, and what a test with yeast showed about it."
   },
   {
    "claim": "The whole Earth behaves like one living thing.",
@@ -406,7 +406,7 @@
    "for": "Living things change the air, the seas and the rocks. Those changes help keep Earth fit for life, a bit like a body keeps itself warm.",
    "against": "The Earth does not reproduce or pass on instructions, so most scientists say it is not alive. Many agree that life and the Earth are tightly linked, and they study them together as one system.",
    "status": "debated",
-   "context": "This card is about a big idea: could the whole Earth be a kind of living thing?"
+   "context": "The Gaia idea says that living things and the Earth's air, seas and rocks work together, a bit like the parts of one body. This card asks whether the whole Earth could be a kind of living thing."
   },
   {
    "claim": "There is no sharp line between living and non-living. Both respond in the same way.",
@@ -414,7 +414,7 @@
    "for": "He measured how metals, plants and muscles responded when tapped again and again. Their records looked alike. All tired, and all recovered after rest.",
    "against": "Most scientists say the metal only looks as if it tires, for different reasons that have nothing to do with life. A metal does not feed, grow or reproduce.",
    "status": "minority",
-   "context": "This card is about J.C. Bose's daring idea that living and non-living things are not so different."
+   "context": "Bose tapped a metal wire, a plant and an animal muscle again and again, and measured how strongly each one answered. All three answered less strongly after many taps, and answered strongly again after a rest. This card is about his daring idea that living and non-living things are not so different."
   },
   {
    "claim": "Plants can learn and remember.",
@@ -422,7 +422,7 @@
    "for": "At first the plants folded their leaves each time. After many drops, they stopped folding. Weeks later, they still did not fold when dropped. But they still folded when shaken in a new way. So, they argue, the plants learned that the drop was safe, and remembered it.",
    "against": "Other scientists say the plants may just have been tired, or their sense of touch may have gone dull. Some say the words learning and memory should be kept for animals with brains. They want the test repeated by other teams.",
    "status": "debated",
-   "context": "This card is about a new and argued idea: can a plant learn?"
+   "context": "Learning means changing what you do because of what happened before. Memory means keeping that change for a long time. In the test, scientists dropped touch-me-not plants again and again. This card asks whether a plant can learn and remember."
   }
  ],
  "big_questions": [
@@ -439,7 +439,7 @@
   {
    "q": "If you breathe out, and a tree takes in your breath to make sugar, and you eat a mango from that tree, where do you end and the tree begin?",
    "kind": "big",
-   "hint": "Follow one atom of carbon on its journey."
+   "hint": "Think about one atom of carbon. You breathe it out, and a tree uses it to make sugar. Then you eat the mango that the sugar became part of. Where is that atom at each step?"
   },
   {
    "q": "Is your body the same body you had last year?",
@@ -738,7 +738,7 @@
      "do": "Add up the points. Then look at the three mats together.",
      "say": "Look at the ALIVE mat. What do all these things have in common?",
      "kid": "Count your points. Look at the ALIVE mat. What do they all do?",
-     "think": "Is there a card you are still not sure about? Keep it to one side. Scientists have cards like that too."
+     "think": "Is there a card you are still not sure about? Keep it to one side. Scientists also have things they are not sure about, such as viruses. Look at that card again when you have finished this unit."
     }
    ]
   },
@@ -922,7 +922,8 @@
      "do": "End by calling all seven very fast, in MRS GREN order.",
      "say": "Last round, super fast. M, R, S, G, R, E, N!",
      "kid": "Last round! Act all seven, fast as you can.",
-     "think": "Which of the seven did you do today, without even trying?"
+     "think": "Which signs of life was your body doing all through this game, without you trying?",
+     "parent": "Good answers are respiration and breathing, growing, sensing and getting rid of waste. All of these go on without you deciding to do them."
     }
    ]
   }
@@ -1120,7 +1121,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. Is the yeast alive? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: yeast is alive, and needs food and warmth. What I saw: all three balloons started at 12 cm round. Balloon A grew to 30 cm, but B only reached 14 cm and C 13 cm. Why: the yeast fed on the sugar and gave out gas as waste. In the cold, the yeast was too slow. Without sugar, there was almost no food.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: yeast is alive, and needs food and warmth. What I saw: all three balloons started at 12 cm round. Balloon A grew to 30 cm, but B only reached 14 cm and C 13 cm. Why: the yeast fed on the sugar and gave out gas as waste. In the cold, the yeast was too slow. Without sugar, there was almost no food. For the extra question: bakers keep dough warm because warm yeast makes gas quickly, so the dough rises. In a fridge the yeast works very slowly, just like the yeast in bottle C.",
      "think": "Bakers knead yeast into dough and leave the dough somewhere warm. Why warm? What would happen in the fridge?"
     }
    ]
@@ -1547,7 +1548,7 @@
      "do": "Count the ticks in each column. Then ask your child to give a verdict for each thing, with evidence.",
      "say": "Which one did all seven? So which one is alive? Tell me your evidence like a judge.",
      "kid": "Count the ticks. Which one does all seven? Give your verdict. Say what you saw. Say why.",
-     "parent": "A good answer: the seed is alive. Given water, the seed does all seven signs. The car and the cloud only show some signs, and they never grow from inside or make young of their own kind.",
+     "parent": "A good answer: the seed is alive. Given water, the seed does all seven signs. The car and the cloud only show some signs, and they never grow from inside or make young of their own kind. For the extra question: a dry seed shows almost no signs right now, and a cat asleep shows only a few. Both are alive.",
      "think": "Can you think of something that shows only one or two signs of life right now, but is alive?"
     }
    ]
@@ -1635,7 +1636,8 @@
      "do": "1. Your child writes a label for each thing in their own words. 2. They count each tray and draw a tally.",
      "say": "Write a label like a real museum. Say what it is and how you know.",
      "kid": "Write a label for each thing. Count each tray. Draw a tally mark for each one.",
-     "think": "Which tray has the most things? Why do you think so?"
+     "think": "Which thing was hardest to sort? What did you need to know to decide?",
+     "parent": "A good answer is a seed, a flower or a twig, because you need to know if it is still alive. For example, a seed is alive if they can still grow when given water."
     },
     {
      "id": "s4",
@@ -1910,7 +1912,8 @@
       ],
       "a": 1,
       "why": "A living thing does all seven signs over their life, not at every moment. Children grow up first, and reproduction can come much later. Picking 'no' means thinking every sign must happen all the time. A sleeping cat is not running, but is still alive."
-     }
+     },
+     "parent": "The answer is reproduction, which means having young. It is fine, because a living thing does all seven signs over a whole life, not all at once."
     }
    ]
   },
@@ -1982,7 +1985,7 @@
      "say": "When a leaf falls or an animal dies, what happens to them? Who do you think eats them?",
      "kid": "Draw arrows from everything to the soil. Who eats the dead things? Mushrooms and tiny soil creatures.",
      "think": "If all the food starts with sunlight, is some of the Sun inside you right now?",
-     "parent": "After your child has guessed, explain: mushrooms and tiny living things in the soil feed on dead leaves and animals, and turn them back into soil and air."
+     "parent": "After your child has guessed, explain: mushrooms and tiny living things in the soil feed on dead leaves and animals, and turn them back into soil and air. For the last question: yes. The energy in your food was first caught from sunlight by plants. So some of the Sun's energy is inside you."
     }
    ]
   }
@@ -2128,7 +2131,7 @@
    "id": "c1",
    "title": "Design a Life Detector for Mars",
    "mins": 57,
-   "problem": "A robot on Mars will scoop up some soil. Your job is to design tests that could tell whether anything in the soil is alive. Test your design on three mystery cups at home.",
+   "problem": "A robot on Mars will scoop up some soil. Your job is to design tests that could tell whether anything in the soil is alive. Test your design on three mystery cups at home. Living things feed, give out gas slowly and keep going. A plain chemical fizz starts at once and soon stops. Heat kills living things, but it does not stop a chemical fizz. So heating a sample first shows you which kind of bubbles you have.",
    "constraints": [
     "You cannot see anything alive, even with a magnifying glass.",
     "You can only use tests based on the seven signs of life.",
@@ -2305,7 +2308,8 @@
      "do": "Your child draws the jar with arrows for water, air and light.",
      "say": "Draw your jar world. Show where the water goes, and where the light comes from.",
      "kid": "Draw your jar. Draw arrows for the water going round. Draw the light coming in.",
-     "think": "Is the Earth a bit like a jar world? What comes in from outside, and what goes round and round?"
+     "think": "Is the Earth a bit like a jar world? What comes in from outside, and what goes round and round?",
+     "parent": "A good answer is that light comes in from outside. The water and the air go round and round inside the jar. The Earth is the same. Sunlight comes in from space, while water and air go round and round."
     }
    ],
    "safety": "A glass jar can break. Carry it with both hands."
@@ -2787,14 +2791,14 @@
     },
     {
      "t": "perspective",
-     "p": "Your body keeps replacing many of its cells. Your red blood cells last only about four months. The first child, aged 10, her brother the second child, aged 8, and their grandmother talk about it.",
+     "p": "Your body keeps replacing many of its cells. Your red blood cells last only about four months. A girl aged 10, her brother aged 8 and their grandmother talk about it.",
      "views": [
       {
-       "who": "The first child",
+       "who": "The girl",
        "says": "I am the same person as last year. I have the same name, the same memories and the same face."
       },
       {
-       "who": "The second child",
+       "who": "Her brother",
        "says": "I am not the same. Many of my cells are new, so I am made of different stuff now."
       },
       {
@@ -3053,7 +3057,7 @@
   },
   {
    "t": "mcq",
-   "p": "On a sunny day, a green plant gives out more of one gas than they take in. Which gas?",
+   "p": "In sunlight, a green plant gives out more of one gas than they use up. Which gas?",
    "opts": [
     "Carbon dioxide",
     "Smoke",
@@ -3232,10 +3236,10 @@
   "Is the rice or dal on your plate alive, once alive or never alive?",
   "A neem tree has stood still all day. How do you know they are alive?",
   "What does the fridge do to the tiny living things in our food?",
-  "If a car could do one more sign of life, which would be the strangest?",
+  "A car moves and burns fuel. Which signs of life does a car still not do?",
   "Is the wind alive? How do you know?",
   "When you are asleep, which signs of life are you still doing?",
-  "Where did the water you just drank come from before the tap?",
+  "A living plant lets water out through their leaves. Where did that water come from before?",
   "Why do you think we breathe faster when we climb stairs?",
   "If you found a strange blob on the balcony, how would you test if it is alive?",
   "Is a flower in a vase still alive? For how long?"
@@ -3670,7 +3674,7 @@
  "roots": {
   "context": "We have been learning the seven signs that tell us something is alive. Now we ask what those signs tell us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Dry moong seeds can sit in a jar for months, doing almost nothing. Given water, they swell and sprout within a day or two. Boiled seeds look just the same, but never sprout. So you cannot tell a sleeping seed from a dead one by looking: only water can show it.",
+   "truth": "Dry moong seeds can sit in a jar for months, doing almost nothing. Given water, they swell and sprout within a day or two. Boiled seeds look just the same, but never sprout. So you cannot tell a sleeping seed from a dead one by looking. Only giving them water shows which is which.",
    "habit": "We think 'alive' means 'doing something', like moving, eating or breathing. A dry seed breaks that habit: they are alive while doing almost nothing, and a boiled seed looks just the same but is dead.",
    "evidence": "In the seed test, dry seeds sprouted within a day or two of getting water, but boiled seeds with the same water never did. In the balloon test, dry yeast from a packet filled a balloon with gas soon after meeting warm sugar water."
   },
@@ -3709,16 +3713,17 @@
   ],
   "other_view": {
    "who": "Most biologists today",
-   "view": "Most biologists say alive or not is a question of cells, energy and passing on instructions, not of awareness. Many would say that a seed, a wire or a stone is not aware at all. They say Bose's tired metal only looks like a living response. That is an honest view, and it is not ours."
+   "view": "Most biologists say alive or not is a question of cells, energy and passing on instructions, not of awareness. Many would say that a seed, a wire or a stone is not aware at all. They say Bose's tired metal only looks like a living response. That is a fair view, and many careful scientists hold it."
   },
   "practice": {
    "title": "Seven signs, sitting still",
    "mins": 3,
-   "say": "Let's sit very still together for one minute. Even now, you are doing the signs of life. Put a hand on your tummy and feel the breath going in and out. Now put two fingers on the side of your neck and feel your heartbeat. Listen for three sounds. That is sensing. Somewhere inside you, a hair is growing and a scratch is healing. You are not making any of it happen. It is just happening. Who is doing it?",
-   "kid": "Sit very still. Feel your breath go in and out. Feel your heartbeat. Listen for three sounds. Your body is doing life all by itself."
+   "say": "Let's sit very still together for one minute. Even now, you are doing the signs of life. Put a hand on your tummy and feel the breath going in and out. Now put two fingers on the side of your neck and feel your heartbeat. Listen for three sounds. That is sensing. Somewhere inside you, a hair is growing and a scratch is healing. You are not making any of it happen. It is all happening on its own. Which signs of life is your body doing right now, without you trying?",
+   "kid": "Sit very still. Feel your breath go in and out. Feel your heartbeat. Listen for three sounds. Your body is doing life all by itself.",
+   "parent": "Good answers are respiration and breathing, sensing, growing and mending. Your body does all of these without you deciding to."
   },
   "ask": [
-   "If your breath goes into a tree, and the tree's mango becomes you, where do you stop and the tree begin?",
+   "You breathe out carbon dioxide, and a tree uses that gas to make a mango. Then you eat the mango. So where do you stop and the tree begin?",
    "Is a dry seed alive, asleep, or something in between?",
    "Who decides what counts as alive: nature, or us?",
    "Why does a dry seed wait, instead of growing straight away?"

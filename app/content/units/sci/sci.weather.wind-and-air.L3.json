@@ -42,7 +42,7 @@
   },
   {
    "term": "Dense",
-   "meaning": "Packed closely. A litre of dense air holds more air, so it weighs more than a litre of less dense air.",
+   "meaning": "Packed closely. A litre of dense air has more tiny particles in it, so it weighs more than a litre of less dense air.",
    "example": "A litre of cold air is denser than a litre of warm air, so it is a little heavier.",
    "art": "Two equal boxes of air, one with dots packed close (cold, blue) and one with dots spread apart (warm, orange)."
   },
@@ -103,7 +103,7 @@
   {
    "term": "Thermal",
    "meaning": "A rising column of warm air.",
-   "example": "A black kite, a bird, circles with still wings over a city, rising in a thermal.",
+   "example": "A black kite is a bird. It circles over a city with its wings still, and the thermal lifts it higher.",
    "art": "A black kite bird circling high above city rooftops, with faint orange arrows rising under the bird."
   },
   {
@@ -154,9 +154,9 @@
    "definition": "Winds blow because the Sun warms some places more than others. Air flows from cooler, heavier places towards warmer, lighter ones.",
    "description": "The Sun does not warm the Earth evenly. A rocky hill heats up faster than a lake. A city of concrete heats up faster than a forest. The land near the equator gets more sunshine than the land near the poles. Wherever one place is warmer than the next, the air over the warm place expands and rises. Cooler, heavier air from the next place flows in under it to take its place. That flow is a wind. So a wind needs no one to blow it. It needs only a warm place next to a cool one. The spinning of the Earth then bends the bigger winds as they travel.",
    "examples": [
-    "The sea breeze, from the cool sea to the warm land.",
-    "Breezes that flow down a hill at night, when the hillside cools.",
-    "The great trade winds over the oceans, flowing towards the hot equator."
+    "In a sea breeze, air flows from the cool sea to the warm land.",
+    "At night, cool air flows down a hillside, because the hillside has cooled.",
+    "The great trade winds over the oceans flow towards the hot equator."
    ],
    "perspectives": [],
    "art": "A cross-section of land and sea in sunshine: warm air rising over the land, and arrows of cooler air sliding in from the sea, then flowing back high up to make a loop.",
@@ -315,7 +315,7 @@
    "for": "The Earth spins towards the east, and the trade winds near the equator blow from the east, as if the air were lagging behind.",
    "against": "Air is held by the Earth's gravity and spins along with the ground. Edmond Halley showed in 1686 that the Sun's heating drives the winds. The spin only bends the winds once they are moving, as George Hadley showed in 1735.",
    "status": "rejected",
-   "context": "This card is about an old idea from two famous scientists, and why it turned out wrong."
+   "context": "Trade winds are steady winds over the oceans that blow towards the equator. Near the equator they blow from the east. This card is about an old idea from two famous scientists for why this happens, and why it turned out wrong."
   },
   {
    "claim": "Hot air rises by itself.",
@@ -331,7 +331,7 @@
    "for": "The land of India is much hotter than the sea in summer, and the monsoon winds blow from the sea onto the land, like a sea breeze.",
    "against": "Sulochana Gadgil and other scientists point out that the monsoon behaves like a belt of rising air and rain clouds that moves north with the Sun. A sea breeze picture cannot explain why the rains sometimes stop for weeks in the middle of the season.",
    "status": "debated",
-   "context": "This card is about how scientists picture the monsoon, and why they still argue about it."
+   "context": "A sea breeze is a wind that blows from the cool sea onto the warm land in the afternoon. The monsoon is the big wind that brings India its rains. This card asks whether the monsoon is just a huge sea breeze, and why scientists still argue about it."
   }
  ],
  "big_questions": [
@@ -351,7 +351,7 @@
    "hint": "Think about how far the wind can carry smoke, dust and seeds."
   },
   {
-   "q": "A black kite rides a thermal without flapping. Is the bird flying, or is the air flying the bird?",
+   "q": "A black kite rides rising warm air without flapping. Who does the work of flying, the bird or the air?",
    "kind": "big",
    "hint": "Think about who chooses where to circle, and what lifts the bird."
   },
@@ -771,7 +771,7 @@
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: air moves by itself when cold air and warm air meet. What I saw: my feet felt cold first, and the smoke at the bottom flowed out and down every time. At the top it went in a little. Why: cold air is heavier, so it poured out under the warm room air, and warm air went in at the top.",
-     "think": "Outdoors there is no fridge. But is there anywhere that is cooler, next to somewhere warmer?"
+     "think": "Outdoors there is no fridge. But the sea stays cool while the land beside it gets hot in the sun. What might the air do there?"
     }
    ],
    "example_chart": {
@@ -1118,7 +1118,8 @@
      "art": "The two bowls moved into the shade of a room, with a clock on the wall.",
      "caption": "3. Move them to the shade. Which cools faster?"
     }
-   ]
+   ],
+   "problem": "A sea breeze blows because the land gets warmer than the sea. But does land really warm up faster than sea? In this test, a bowl of soil stands for the land. A bowl of water stands for the sea."
   }
  ],
  "activities": [
@@ -1273,7 +1274,7 @@
      "do": "1. Pump the ball until it is hard. 2. Put it in the same bowl on the same scale, without pressing zero again. 3. Write down the grams and work out the difference.",
      "say": "Now the hard ball. What does the scale say?",
      "kid": "Pump the ball until it is hard. Put it in the bowl. Write the grams. How many more?",
-     "parent": "A hard football usually weighs about 3 to 5 grams more. That is less than all the air you pumped in, because the bigger ball is also held up a little by the air around it. A small ball gives a smaller difference. If the scale shows no change, the ball is small or the scale is not fine enough. That is an honest result, so try a bigger ball or another scale.",
+     "parent": "A hard football usually weighs about 3 to 5 grams more. That is a little less than the weight of all the air you pumped in. The bigger ball is also held up slightly by the air around it, which makes it read lighter on the scale. A small ball gives a smaller difference. If the scale shows no change, the ball is small or the scale is not fine enough. That is an honest result, so try a bigger ball or another scale.",
      "check": {
       "t": "mcq",
       "q": "The pumped ball weighed a few grams more than the soft ball. What does this show?",
@@ -1303,7 +1304,8 @@
      "art": "A child pumping up the football with a hand pump, and the same ball weighed again, showing a few grams more.",
      "caption": "2. Pump it hard and weigh it again."
     }
-   ]
+   ],
+   "problem": "Air is invisible, so it is easy to think it weighs nothing. If air has weight, a ball with more air in it should weigh more. In this activity you weigh a soft ball and a pumped ball to find out."
   },
   {
    "id": "a3",
@@ -1401,7 +1403,8 @@
      "art": "A side drawing of the box with arrows: along the bottom from ice to hot cup, up over the hot cup, and back along the top.",
      "caption": "3. Draw the path of the air."
     }
-   ]
+   ],
+   "problem": "This is a small model of a sea breeze. The hot water stands for land warmed by the Sun. The ice stands for the cool sea. Smoke shows which way the air flows between them."
   },
   {
    "id": "a4",
@@ -1556,8 +1559,9 @@
      "id": "s3",
      "mins": 1,
      "do": "Count up the list.",
-     "say": "Which thing showed the wind best?",
-     "kid": "Count your list. Which thing showed the wind best?"
+     "say": "Which thing in your list showed the wind best? Why do you think so?",
+     "kid": "Count your list. Which thing showed the wind best? Why?",
+     "parent": "Light things that move easily, such as washing, leaves or tissue, show a gentle wind best. A heavy thing such as a tree trunk moves only in a very strong wind. So the lightest moving thing is usually the best sign."
     }
    ],
    "setup": [
@@ -1744,7 +1748,8 @@
      "art": "A diary table with columns for morning, afternoon and night, and little drawings of a still, fluttering or streaming strip.",
      "caption": "2. Check it three times a day for 5 days."
     }
-   ]
+   ],
+   "problem": "On a coast, a sea breeze blows in the afternoon and a land breeze blows at night. In this project you find out whether the breeze at your own window changes between morning, afternoon and night."
   }
  ],
  "challenges": [
@@ -1768,7 +1773,7 @@
     "Make the blades bigger, so they catch more wind.",
     "Use more blades, such as 6 or 8.",
     "Use stiffer card, so the blades keep their tilt.",
-    "Make the axle thinner where the thread winds, so each turn lifts a little less but with more force."
+    "Wind the thread on a thinner part of the axle. Each turn then lifts the load a little less, but the blades can lift a heavier load."
    ],
    "creative": [
     "Wind the thread round a thick cotton reel for speed, or round the thin skewer for strength, and compare.",
@@ -2093,7 +2098,7 @@
       "The room had a hidden wind",
       "You were moving through the air, so air moved past the strip",
       "Tissue always floats",
-      "Her hand was warm"
+      "Your hand was warm"
      ],
      "how": "a1",
      "a": 1,
@@ -3011,12 +3016,12 @@
    {
     "source": "Chandogya Upanishad 4.3",
     "teaching": "In this teaching, the wind, Vayu, is called the gatherer. When a fire goes out, it goes into the wind. When the Sun sets, it goes into the wind. Within the body, the breath, prana, is the gatherer in the same way.",
-    "link": "The wind really does gather. The air over the whole Earth is one body of air, and the wind carries warmth, water vapour, smoke and seeds from one place to another."
+    "link": "Wind does carry things from many places together. The air over the whole Earth is one body of air, and the wind carries warmth, water vapour, smoke and seeds from one place to another."
    },
    {
     "source": "Tao Te Ching 5",
     "teaching": "The space between heaven and earth is like a bellows. It is empty, yet it never runs out. The more it moves, the more it brings forth.",
-    "link": "A bellows blows air by making room. The wind, too, flows in wherever warm air has risen and made room for it."
+    "link": "A bellows draws air in when its sides open and make room. In the same way, wind flows in wherever warm air has risen and made room."
    }
   ],
   "science": [
@@ -3040,13 +3045,13 @@
   "practice": {
    "title": "Feel the small wind of your breath",
    "mins": 3,
-   "say": "Sit comfortably and hold one hand in front of your mouth. Breathe in slowly through your nose. Now breathe out gently through your mouth onto your hand. Feel that little wind? Do it three more times. Each time you breathe in, your chest makes room, and air flows in by itself. Now sit still and listen for the wind outside.",
-   "kid": "Sit still. Hold your hand in front of your mouth. Breathe in slowly. Now breathe out onto your hand. Feel the little wind? Do it three times. Then listen for the wind outside."
+   "say": "Sit comfortably and hold one hand in front of your mouth. Breathe in slowly through your nose. Now breathe out gently through your mouth onto your hand. Feel that little wind? Do it three more times. Each time you breathe in, your chest makes room, and air flows in by itself. Outside, wind works in a similar way. When warm air rises, it makes room, and cooler air flows in. Now listen for the wind outside. Where could some air be rising to make room for it?",
+   "kid": "Sit still. Hold your hand in front of your mouth. Breathe in slowly. Now breathe out onto your hand. Feel the little wind? When your chest makes room, air flows in. Outside, wind flows in where warm air has risen and made room."
   },
   "ask": [
    "If nobody blows the wind, what makes the air move?",
    "The air you breathe in has been to many other places. Where might it have been before?",
-   "A kite needs wind, but it also needs a string holding it back. Can holding back help something rise?"
+   "A kite needs the wind, and it also needs a string that holds it back. Why does the string help the kite stay up?"
   ],
   "art": "A child sitting on a terrace at dusk with one hand in front of their mouth, with a faint breeze lifting a kite tail and the edge of the sea far away."
  },
