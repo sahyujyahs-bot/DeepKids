@@ -3,7 +3,7 @@
  "title": "A balanced diet: different plates for different people, and what a missing nutrient does",
  "level": 5,
  "summary": {
-  "text": "A child can eat until she is full every day and still fall ill. One nutrient is missing from her food. Two grains of salt weigh as much as the iodine she needs in a day. Yet without iodine her neck swells. A balanced diet gives one person's body enough of every nutrient. The right amount is different for a baby, a girl of ten, a pregnant woman and a grandmother. Your child times how long their eyes take to see in a dark room. They learn why vitamin A decides that. They test where the vitamin C goes when cabbage is boiled. They also work out which foods in the kitchen give the most nourishment for ten rupees.",
+  "text": "A child can eat until she is full every day and still fall ill. One nutrient is missing from her food. Two grains of salt weigh about as much as the iodine she needs in a day. Yet without iodine her neck swells. A balanced diet gives one person's body enough of every nutrient. The right amount is different for a baby, a girl of ten, a pregnant woman and a grandmother. Your child times how long their eyes take to see in a dark room. They learn why vitamin A decides that. They test where the vitamin C goes when cabbage is boiled. They also work out which foods in the kitchen give the most nourishment for ten rupees.",
   "art": "A steel plate of rice, dal and greens beside a tiny heap of two grains of salt on a dark cloth, with a magnifying glass over the salt grains."
  },
  "intro": {
@@ -56,13 +56,13 @@
   {
    "term": "Micronutrient",
    "meaning": "A nutrient needed in tiny amounts, measured in milligrams or micrograms. Vitamins and minerals are micronutrients.",
-   "example": "A child needs about 30 grams of protein a day, but only about 120 micrograms of iodine.",
+   "example": "A child needs about 30 grams of protein a day, but only about 100 micrograms of iodine.",
    "art": "A kitchen spoon heaped with sugar beside two single grains of salt."
   },
   {
    "term": "Microgram",
    "meaning": "One millionth of a gram. One thousand micrograms make one milligram, and one thousand milligrams make one gram.",
-   "example": "One grain of table salt weighs about 60 micrograms.",
+   "example": "One grain of table salt weighs roughly 60 micrograms, and grains differ in size.",
    "art": "One grain of salt on a fingertip, drawn very large."
   },
   {
@@ -168,9 +168,9 @@
    "concept": "Grams, milligrams and micrograms: why tiny amounts matter",
    "status": "defined",
    "definition": "Macronutrients are needed in grams each day. Micronutrients are needed in milligrams or micrograms. A lack of either causes illness.",
-   "description": "A child of ten needs about 30 grams of protein a day. That is about two heaped tablespoons. The same child needs about 50 milligrams of vitamin C, which is about the weight of one moong seed. They need about 120 micrograms of iodine, which is about the weight of two grains of salt. The amounts are tiny because of the jobs these nutrients do. Protein is building material, so a body needs a lot of it. Iodine is one atom in a messenger molecule, and a few atoms go a long way. But the messenger cannot be made without those atoms. A person can eat enough to feel full and still be short of a micronutrient. This is called hidden hunger. It is hidden because fullness tells the body about energy and bulk. No feeling tells you that iodine or vitamin A is running low.",
+   "description": "A child of ten needs about 30 grams of protein a day. That is about two heaped tablespoons. The same child needs about 50 milligrams of vitamin C, which is about the weight of one moong seed. They need about 100 micrograms of iodine, which is about the weight of two grains of salt. The amounts are tiny because of the jobs these nutrients do. Protein is building material, so a body needs a lot of it. Iodine is one atom in a messenger molecule, and a few atoms go a long way. But the messenger cannot be made without those atoms. A person can eat enough to feel full and still be short of a micronutrient. This is called hidden hunger. It is hidden because fullness tells the body about energy and bulk. No feeling tells you that iodine or vitamin A is running low.",
    "examples": [
-    "One grain of table salt weighs about 60 micrograms.",
+    "One grain of table salt weighs roughly 60 micrograms, and grains differ in size.",
     "All the vitamin B12 a child needs in a day weighs about one thirtieth of a grain of salt.",
     "India's health survey of 2019 to 2021 found anaemia in more than half of the women tested."
    ],
@@ -184,7 +184,7 @@
    "description": "Vitamin A builds the substance in the eye that catches dim light. Without it, a person cannot see at dusk. This is night blindness. If the lack goes on, the surface of the eye dries, and the child can go blind. Vitamin B1 helps cells get energy out of starch and sugar. Without it, nerves and the heart weaken. This is beriberi. Vitamin C helps build collagen, the strong threads in skin, gums and blood vessels. Without it, gums bleed and wounds stay open. This is scurvy. Vitamin D helps the gut absorb calcium. Without it, a child's bones stay soft and bend. This is rickets. Most animals make their own vitamin C. Humans, other apes and monkeys, guinea pigs and fruit bats cannot, because one gene needed for it no longer works. Vitamin B12 is made only by bacteria. Plants hold almost none, so people who eat no meat or fish get theirs from milk, curd and eggs.",
    "examples": [
     "A child short of vitamin A sees well at noon but stumbles in a dim room.",
-    "In 1747 the ship's doctor James Lind gave two sailors with scurvy oranges and lemons. They recovered within a week.",
+    "In 1747 the ship's doctor James Lind gave two sailors with scurvy oranges and lemons. They recovered fastest. One was fit for duty again in six days.",
     "A baby kept indoors all winter can get rickets, even with enough milk."
    ],
    "perspectives": [],
@@ -233,7 +233,7 @@
    "concept": "Different people need different plates",
    "status": "defined",
    "definition": "How much of each nutrient a person needs depends on four things. They are body size, growth, how hard the muscles work, and whether the person is feeding another body.",
-   "description": "Growth needs building material. A baby doubles their birth weight in about five months. So for each kilogram they need far more food than a grown-up. A child of two needs about 80 kilocalories for each kilogram of body weight. A woman who works at a desk needs about 30. A kilocalorie is the unit for the energy in food. Girls and boys from 10 to 18 grow fast. They need more protein, calcium and iron than at any time since babyhood. Girls need extra iron, because they will soon lose some blood every month. A pregnant woman builds a whole new body, so she needs more energy, protein, iron, folate and iodine. A breastfeeding mother makes about 750 millilitres of milk a day, which costs her about 600 kilocalories. A person who does heavy work with their muscles needs much more energy and water. An old person needs less energy, but just as much protein and more calcium. Their food should be soft to chew. A sick person needs fluids first, and extra food while they recover.",
+   "description": "Growth needs building material. A baby doubles their birth weight in about five months. So for each kilogram they need far more food than a grown-up. A child of two needs about 85 kilocalories for each kilogram of body weight. A woman who works at a desk needs about 30. A kilocalorie is the unit for the energy in food. Girls and boys from 10 to 18 grow fast. They need more protein, calcium and iron than at any time since babyhood. Girls need extra iron, because they will soon lose some blood every month. A pregnant woman builds a whole new body, so she needs more energy, protein, iron, folate and iodine. A breastfeeding mother makes about 750 millilitres of milk a day, which costs her about 600 kilocalories. A person who does heavy work with their muscles needs much more energy and water. An old person needs less energy, but just as much protein and more calcium. Their food should be soft to chew. A sick person needs fluids first, and extra food while they recover.",
    "examples": [
     "A woman who carries loads all day needs about 1,000 kilocalories more than a woman at a desk.",
     "A two-year-old has a small stomach, so they need five or six small meals a day.",
@@ -301,7 +301,7 @@
     },
     {
      "who": "Michelle Smith, Jeffrey Gordon and their team, in 2013",
-     "explanation": "They studied 317 pairs of twins in Malawi. In many pairs only one twin got kwashiorkor on the same food. The ill twin's gut microbes were different. Mice given those microbes and the same poor diet lost weight. So gut microbes may be one of the causes."
+     "explanation": "They studied 317 pairs of twins in Malawi. In some pairs only one twin got kwashiorkor on the same food. The ill twin's gut microbes were different. Mice given those microbes and the same poor diet lost weight. So gut microbes may be one of the causes."
     }
    ],
    "art": "Two small twin children side by side, one with swollen feet and one without, eating from the same bowl."
@@ -314,11 +314,11 @@
   },
   {
    "text": "Too little iodine causes goitre, and iodised salt prevents it.",
-   "evidence": "From 1956, Dr V. Ramalingaswami's team compared villages in the Kangra valley. After six years, goitre had fallen by about half where the salt was iodised, and not where it was plain."
+   "evidence": "From 1956, Dr V. Ramalingaswami's team compared villages in the Kangra valley. After about five or six years, goitre had fallen by about half or more where the salt was iodised, and not where it was plain."
   },
   {
    "text": "The eye needs vitamin A to see in dim light.",
-   "evidence": "In 1933 George Wald found vitamin A in the retina. He showed that the light-catching substance of the rods is built from it."
+   "evidence": "In 1933 George Wald found vitamin A in the retina. Later work showed that the light-catching substance of the rods is built from it."
   },
   {
    "text": "Vitamin C helps the gut absorb iron from plant foods. Tea with a meal lowers the amount absorbed.",
@@ -378,7 +378,7 @@
    "claim": "India's Green Revolution ended hunger in India.",
    "who": "Many accounts of India's history.",
    "for": "From the 1960s, new wheat and rice gave far bigger harvests, and India stopped depending on grain from abroad.",
-   "against": "Fields of pulses and millets gave way to wheat and rice. Energy became cheap, but iron, protein and vitamins did not. M. S. Swaminathan, who led the work, later called for farming that also ends hidden hunger.",
+   "against": "Fields of pulses and millets gave way to wheat and rice. Energy became cheap, but iron, protein and vitamins did not. M. S. Swaminathan, who helped lead the work, later called for farming that also ends hidden hunger.",
    "status": "debated",
    "context": "This is a common account of how India came to grow enough grain. Scientists and farmers argue about what it left out."
   }
@@ -1287,7 +1287,7 @@
      "id": "s4",
      "mins": 6,
      "do": "After your child has answered, read them the explanation in the note below. Then ask the question below.",
-     "say": "Skin makes vitamin D only in strong sunlight. Doctors use the short shadow as a rough sign of that. At which hours could your skin make vitamin D today?",
+     "say": "Skin makes vitamin D only in strong sunlight. Some doctors use the short shadow as a rough sign of that. At which hours could your skin make vitamin D today?",
      "kid": "Skin makes vitamin D when shadows are short. When was that today?",
      "ask": [
       {
@@ -1361,10 +1361,10 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Heap 2 heaped tablespoons of sugar on the plate. 2. Put one moong seed beside the sugar. 3. Cut a second moong seed in half and put down one half. 4. Your child picks out two grains of salt and puts them down. 5. Label the four: protein, vitamin C, iron, iodine.",
-     "say": "This sugar weighs about 30 grams, the weight of protein you need in a day. One moong seed weighs about as much as your vitamin C. Half a seed is your iron. Two grains of salt weigh as much as your iodine.",
+     "say": "This sugar weighs about 30 grams, the weight of protein you need in a day. One moong seed weighs about as much as your vitamin C. Half a seed is your iron. Two grains of salt weigh about as much as your iodine.",
      "kid": "Put down the sugar and a moong seed. Add half a seed and two salt grains. Label them.",
      "adult": true,
-     "parent": "The sugar and the salt only show weights. The real nutrients look different. The figures are rounded: about 30 grams of protein, 50 milligrams of vitamin C, 20 milligrams of iron and 120 micrograms of iodine.",
+     "parent": "The sugar and the salt only show weights. The real nutrients look different. The figures are rounded: 30 grams of protein, 50 milligrams of vitamin C, 16 to 28 milligrams of iron, 100 micrograms of iodine.",
      "context": "In this step of One Day's Needs you lay out the weights of four nutrients for one day."
     },
     {
@@ -1385,7 +1385,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "A child needs 30 grams of protein and 120 micrograms of iodine a day. Which matters more?",
+      "q": "A child needs 30 grams of protein and 100 micrograms of iodine a day. Which matters more?",
       "options": [
        "Both: a lack of either causes illness",
        "Protein, because the amount is bigger",
@@ -1431,16 +1431,16 @@
     ],
     "rows": [
      [
-      "Child of 2 years",
-      "12 kg",
-      "1,000",
-      "12",
+      "Child of 1 to 3 years",
+      "13 kg",
+      "1,110",
+      "12.5",
       "500"
      ],
      [
       "Girl of 10 to 12 years",
-      "35 kg",
-      "2,000",
+      "36 kg",
+      "2,060",
       "33",
       "850"
      ],
@@ -1454,21 +1454,21 @@
      [
       "Woman who works at a desk",
       "55 kg",
-      "1,700",
+      "1,660",
       "46",
       "1,000"
      ],
      [
       "The same woman when pregnant",
       "55 kg and rising",
-      "2,050",
-      "about 60",
+      "2,010",
+      "56 to 68",
       "1,000"
      ],
      [
       "Woman who carries loads all day",
       "55 kg",
-      "2,700",
+      "2,720",
       "46",
       "1,000"
      ],
@@ -1519,14 +1519,14 @@
      "kid": "Divide energy by weight for three people. Who needs most for their size?",
      "check": {
       "t": "mcq",
-      "q": "A child of 2 needs 1,000 kilocalories and weighs 12 kilograms. About how much is that for each kilogram?",
+      "q": "A child of 2 needs 1,110 kilocalories and weighs 13 kilograms. About how much is that for each kilogram?",
       "options": [
-       "About 83 kilocalories",
-       "About 12 kilocalories",
+       "About 85 kilocalories",
+       "About 13 kilocalories",
        "About 30 kilocalories"
       ],
       "a": 0,
-      "why": "1,000 divided by 12 is about 83. The woman at the desk needs 1,700 divided by 55, which is about 31. So for each kilogram, the small child needs more than twice as much. If you chose 30, that is the woman's figure."
+      "why": "1,110 divided by 13 is about 85. The woman at the desk needs 1,660 divided by 55, which is about 30. So for each kilogram, the small child needs more than twice as much. If you chose 30, that is the woman's figure."
      },
      "parent": "The answers are about 83 for the child of 2 and about 57 for the girl. The woman's is about 31. Growth is the reason.",
      "context": "In this step of Seven People, One Pot you work out three people's energy for each kilogram of weight."
@@ -1620,7 +1620,7 @@
        "6 micrograms"
       ],
       "a": 0,
-      "why": "5 grams hold 5 times 30, which is 150 micrograms. A child needs about 120 micrograms a day, so ordinary salting is enough. If you chose 35, you added where you should have multiplied."
+      "why": "5 grams hold 5 times 30, which is 150 micrograms. A child needs about 100 micrograms a day, so ordinary salting is enough. If you chose 35, you added where you should have multiplied."
      },
      "parent": "Packets differ. Many say at least 30 parts per million when packed and at least 15 when sold. Some iodine is lost in storage and cooking, so the amount added allows for that.",
      "context": "In this step of Find What Was Added you work out one day's iodine from a salt packet."
@@ -1672,12 +1672,12 @@
     ],
     "rows": [
      [
-      "Soya chunks",
+      "Soya chunks (check the packet)",
       "50 g"
      ],
      [
       "Groundnuts",
-      "25 g"
+      "24 g"
      ],
      [
       "Moong dal",
@@ -1697,7 +1697,7 @@
      ],
      [
       "Paneer",
-      "18 g"
+      "19 g"
      ],
      [
       "Egg (two eggs weigh about 100 g)",
@@ -1716,7 +1716,7 @@
       "7 g"
      ],
      [
-      "Potato chips",
+      "Potato chips (check the packet)",
       "7 g"
      ],
      [
@@ -2376,7 +2376,7 @@
       }
      ],
      "ask": "Which view do you agree with most? Give a reason from what you know about bodies. Then answer one of the other views.",
-     "a": "Any view with a reason from the unit. One reason: a child of 2 needs about 83 kilocalories for each kilogram and a woman at a desk about 31. Another: equal helpings are simple and stop quarrels, but they leave growing children and hard workers short.",
+     "a": "Any view with a reason from the unit. One reason: a child of 2 needs about 85 kilocalories for each kilogram and a woman at a desk about 30. Another: equal helpings are simple and stop quarrels, but they leave growing children and hard workers short.",
      "why": "A strong answer uses a fact about needs, such as growth, work, pregnancy or age. It treats the other view fairly.",
      "outcome": 3
     },
@@ -2395,7 +2395,7 @@
       "Iron",
       "Iodine"
      ],
-     "why": "A child needs about 30 grams of protein and 50 milligrams of vitamin C. They need about 20 milligrams of iron and 120 micrograms of iodine. A milligram is a thousandth of a gram, and a microgram is a thousandth of a milligram.",
+     "why": "A child needs about 30 grams of protein and 50 milligrams of vitamin C. They need about 16 to 28 milligrams of iron and 100 micrograms of iodine. A milligram is a thousandth of a gram, and a microgram is a thousandth of a milligram.",
      "outcome": 2
     },
     {
@@ -2448,15 +2448,15 @@
     },
     {
      "t": "mcq",
-     "p": "A girl of 35 kilograms needs 2,000 kilocalories. A woman of 55 kilograms needs 1,700. Who needs more for each kilogram?",
+     "p": "A girl of 36 kilograms needs 2,060 kilocalories. A woman of 55 kilograms needs 1,660. Who needs more for each kilogram?",
      "opts": [
-      "The girl: about 57 against about 31",
-      "The woman: about 57 against about 31",
+      "The girl: about 57 against about 30",
+      "The woman: about 57 against about 30",
       "They need the same",
       "It cannot be worked out"
      ],
      "a": 0,
-     "why": "2,000 divided by 35 is about 57. 1,700 divided by 55 is about 31. The girl is growing, so each kilogram of her body needs more.",
+     "why": "2,060 divided by 36 is about 57. 1,660 divided by 55 is about 30. The girl is growing, so each kilogram of her body needs more.",
      "outcome": 3
     },
     {
@@ -2886,7 +2886,7 @@
     "A man who works at a desk"
    ],
    "a": 0,
-   "why": "A child of 2 needs about 83 kilocalories for each kilogram, because they are growing fast. A grown-up at a desk needs about 31.",
+   "why": "A child of 2 needs about 85 kilocalories for each kilogram, because they are growing fast. A grown-up at a desk needs about 30.",
    "outcome": 3
   },
   {
@@ -2970,31 +2970,28 @@
  ],
  "videos": [
   {
-   "title": "How the eye adapts to the dark: rods, cones and rhodopsin",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Scotopic Vision: Rods, Rhodopsin, and Seeing in the Dark",
+   "channel": "Psy vs. Psy",
+   "youtube": "JLe07cGGn2k",
    "mins": 5,
    "why": "To see the rod cells and the rhodopsin that the Dark Room Test is about. No home test can show them.",
-   "check": "No address yet. Find an animation from a university, a science museum or a well-known science channel. Check that it says rhodopsin is rebuilt from vitamin A, and that full adaptation takes 20 to 30 minutes."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "What vitamins are and what happens without them",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How do vitamins work? - Ginnie Trinh Nguyen",
+   "channel": "TED-Ed",
+   "youtube": "ISZLTJH5lYg",
    "mins": 5,
    "why": "To see the main vitamins, their jobs and their deficiency diseases side by side.",
-   "check": "No address yet. Find a short lesson from a well-known education channel. Check that it does not tell viewers to take vitamin tablets. Check that it names scurvy, rickets and night blindness correctly."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "How iodised salt ended goitre in whole regions",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "The easiest way to make the world smarter",
+   "channel": "Rabbit Hole",
+   "youtube": "XRcwwZXJ8gk",
    "mins": 4,
    "why": "To see how adding one nutrient to one common food can protect millions of people.",
-   "check": "No address yet. Find a short film from a health agency or a science channel. Check that it explains what the thyroid does with iodine. Watch it first, because pictures of large goitres can upset some children."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. Check that it explains the thyroid and iodine before showing it, since its content was not seen."
   }
  ],
  "applications": [
@@ -3121,27 +3118,27 @@
    "why_maths": "Dividing one time by the other shows how much harder a dark thing is to see than a pale one."
   },
   {
-   "problem": "A child of 2 weighs 12 kilograms and needs 1,000 kilocalories a day. A woman weighs 55 kilograms and needs 1,700. Who needs more for each kilogram, and about how many times as much?",
-   "answer": "The child: about 83 against about 31, which is nearly 3 times as much.",
-   "explain": "1,000 divided by 12 is about 83. 1,700 divided by 55 is about 31. 83 divided by 31 is about 2.7. So for each kilogram, the child needs nearly 3 times as much.",
+   "problem": "A child of 2 weighs 13 kilograms and needs 1,110 kilocalories a day. A woman weighs 55 kilograms and needs 1,660. Who needs more for each kilogram, and about how many times as much?",
+   "answer": "The child: about 85 against about 30, which is nearly 3 times as much.",
+   "explain": "1,110 divided by 13 is about 85. 1,660 divided by 55 is about 30. 85 divided by 30 is about 2.8. So for each kilogram, the child needs nearly 3 times as much.",
    "math_unit": "math.division.division-facts.L5",
    "how": "a2",
    "context": "In Seven People, One Pot you use a table of what different people need in a day. These figures are from that table.",
    "why_maths": "Total amounts hide the pattern. Dividing by body weight shows that growing bodies need the most for their size."
   },
   {
-   "problem": "A salt packet holds 30 micrograms of iodine in each gram. A child needs 120 micrograms a day. How many grams of this salt hold a day's iodine?",
-   "answer": "4 grams, which is a little less than a level teaspoon.",
-   "explain": "120 divided by 30 is 4. So 4 grams of salt hold 120 micrograms of iodine. A level teaspoon of salt is about 5 to 6 grams.",
+   "problem": "A salt packet holds 30 micrograms of iodine in each gram. A child needs 100 micrograms a day. How many grams of this salt hold a day's iodine?",
+   "answer": "About 3 grams, which is a little more than half a level teaspoon.",
+   "explain": "100 divided by 30 is about 3.3. So about 3 grams of salt hold 100 micrograms of iodine. A level teaspoon of salt is about 5 to 6 grams.",
    "math_unit": "math.weight-capacity.weight.L5",
    "how": "a3",
    "context": "In Find What Was Added you read how much iodine a salt packet holds. This problem uses a common figure from such packets.",
    "why_maths": "The sum shows that ordinary salting is enough, so nobody needs to eat extra salt for iodine."
   },
   {
-   "problem": "Groundnuts cost 14 rupees for 100 grams and hold 25 grams of protein. Paneer costs 40 rupees for 100 grams and holds 18 grams. How much protein does 10 rupees buy in each?",
-   "answer": "About 18 grams in groundnuts, and 4 and a half grams in paneer.",
-   "explain": "Groundnuts: 25 divided by 14 is about 1.8 grams for each rupee, so 10 rupees buy about 18 grams. Paneer: 18 divided by 40 is 0.45 grams for each rupee, so 10 rupees buy 4.5 grams.",
+   "problem": "Groundnuts cost 14 rupees for 100 grams and hold 24 grams of protein. Paneer costs 40 rupees for 100 grams and holds 19 grams. How much protein does 10 rupees buy in each?",
+   "answer": "About 17 grams in groundnuts, and about 5 grams in paneer.",
+   "explain": "Groundnuts: 24 divided by 14 is about 1.7 grams for each rupee, so 10 rupees buy about 17 grams. Paneer: 19 divided by 40 is about 0.5 grams for each rupee, so 10 rupees buy about 5 grams.",
    "math_unit": "math.money.money-in-life.L5",
    "how": "a4",
    "context": "In Protein for Ten Rupees you work out how much protein ten rupees buys in different foods. These prices are made up.",
@@ -3321,7 +3318,7 @@
    [
     "A child of 2 needs more energy for each kilogram than a grown-up.",
     true,
-    "A growing body needs about 83 kilocalories for each kilogram, against about 31."
+    "A growing body needs about 85 kilocalories for each kilogram, against about 30."
    ],
    [
     "Window glass blocks the sunlight that makes vitamin D.",
@@ -3475,9 +3472,9 @@
  },
  "how_we_found_out": {
   "context": "This is the true story of how doctors found the cause of goitre, the swelling of the neck. It took about a hundred years and tests on three continents.",
-  "story": "For centuries, many people in the Himalayas lived with goitre, a swelling at the front of the neck. From 1902 a British army doctor, Robert McCarrison, studied goitre in Gilgit. Villages lower down a water channel had more goitre than villages higher up. So he decided that dirty water carried a germ, and that the germ caused goitre. Half a century earlier, a French chemist named Adolphe Chatin had measured iodine in water and food. He found less iodine in places where goitre was common. Few doctors believed him. The test came in 1917 in Akron, a town in the United States. David Marine and O. P. Kimball gave about two thousand schoolgirls small doses of iodine. Only five of them developed goitre. Among about two thousand girls who took no iodine, nearly five hundred did. In 1956 Dr V. Ramalingaswami and his team began a larger test in the Kangra valley of Himachal Pradesh. Some villages got salt with iodine added, and others got plain salt. After six years, goitre had fallen by about half where the salt was iodised. It had not fallen where the salt was plain. In 1962 India began a national programme to iodise salt.",
+  "story": "For centuries, many people in the Himalayas lived with goitre, a swelling at the front of the neck. From 1902 a British army doctor, Robert McCarrison, studied goitre in Gilgit. Villages lower down a water channel had more goitre than villages higher up. So he decided that dirty water carried something, perhaps a germ, that caused goitre. Half a century earlier, a French pharmacist and botanist named Adolphe Chatin had measured iodine in water and plants. He found less iodine in places where goitre was common. Many doctors doubted him. The test began about 1917 in Akron, a town in the United States. David Marine and O. P. Kimball gave about two thousand schoolgirls small doses of iodine. Only five of them developed goitre. Among the girls who took no iodine, nearly five hundred did. In 1956 Dr V. Ramalingaswami and his team began a larger test in the Kangra valley, now part of Himachal Pradesh. Some villages got salt with iodine added, and others got plain salt. After about five or six years, goitre had fallen by about half or more where the salt was iodised. It had not fallen where the salt was plain. In 1962 India began a national programme to iodise salt.",
   "who": "Adolphe Chatin in France, Robert McCarrison in Gilgit, David Marine and O. P. Kimball in the United States, and V. Ramalingaswami and S. S. Sooch in the Kangra valley",
-  "when": "Chatin measured iodine in the early 1850s. McCarrison worked in Gilgit from 1902. Marine and Kimball's test began in 1917. The Kangra valley study began in 1956, and India's salt programme in 1962.",
+  "when": "Chatin published his iodine measurements from 1850. McCarrison worked in Gilgit from 1902. Marine and Kimball's test began about 1917. The Kangra valley study began in 1956, and India's salt programme in 1962.",
   "wrong_idea": "That goitre is caused by a germ in dirty water. Marine and Kimball showed that a small dose of iodine prevented goitre in schoolgirls. The Kangra valley study showed that iodine in salt did the same for whole villages.",
   "art": "A doctor in a hill village in the 1950s weighing out salt from a sack marked with a painted sign, while women with cloth bags wait in a line."
  },
@@ -3517,7 +3514,7 @@
     "status": "settled"
    },
    {
-    "text": "Humans, other apes and monkeys, guinea pigs and fruit bats cannot make vitamin C, because one gene no longer works. Most other animals make their own.",
+    "text": "Humans, other apes and monkeys, guinea pigs and some bats cannot make vitamin C, because one gene no longer works. Most other animals make their own.",
     "status": "settled"
    },
    {
@@ -3538,9 +3535,9 @@
   "ask": [
    "In the Dark Room Test, your eyes rebuilt their light-catching substance from vitamin A. That vitamin A began in a plant. Is the substance yours or the plant's?",
    "A goat makes her own vitamin C, and you must get yours from fruit and leaves. What does your body gain or lose by depending on plants?",
-   "Two grains of salt hold a day's iodine. If so little can change how your whole body works, what else might be doing large jobs unseen?"
+   "Two grains of salt hold about a day's iodine. If so little can change how your whole body works, what else might be doing large jobs unseen?"
   ],
   "art": "A child sitting in a dim room at dusk looking at a drumstick tree outside the window, with a faint orange line joining a leaf on the tree to the child's eye."
  },
- "playtest": "The experiments, activities and games were reasoned through step by step, as a family in a flat would do them. They have not yet been tried at home. The Dark Room Test (core) needs a room that is nearly dark and a grown-up outside the door. Times depend mostly on how dark the room is, so the steps say how to make it darker or lighter. A slow time does not mean a child lacks vitamin A. The Cooking Water Test (core) needs povidone-iodine or tincture of iodine, rice water and cabbage. The blue liquid must be pale, and the cooking water must be cooled first. Boiled cabbage water should clear the blue in a few teaspoons. Cold cabbage water should take many more, or not clear it. Plain water never clears it. The count is a rough measure, because a few other substances in cabbage also clear iodine. The Short Shadow Test needs a spot with direct sunlight and a sunny day. In north India in winter the shadow may never be shorter than the pencil. The step says that this is a real result. Four activities need only kitchen things, paper and your own shop prices. They are One Day's Needs, Seven People, One Pot, Protein for Ten Rupees, and Rice Bricks and Dal Bricks. In Fill the Plate, every person card was checked: each can be balanced within the card limit, and the pregnant woman's plate is the hardest. The Health Mix challenge needs a mixer and a grown-up at the stove, and the child eats the porridge. No part needs a garden or an animal. Facts to treat with care: the daily needs in the tables are rounded from the 2020 figures of India's National Institute of Nutrition. They were written from memory of those tables and should be checked against them. The protein figures for foods are rounded from the Indian Food Composition Tables. The fall in goitre in the Kangra valley is given as 'about half' after six years. The short-shadow rule for vitamin D is a rule of thumb. The amounts in One Day's Needs are rough. The two Tirukkural couplets and the Upanishad verse are paraphrased. The three videos have no address yet."
+ "playtest": "The experiments, activities and games were reasoned through step by step, as a family in a flat would do them. They have not yet been tried at home. The Dark Room Test (core) needs a room that is nearly dark and a grown-up outside the door. Times depend mostly on how dark the room is, so the steps say how to make it darker or lighter. A slow time does not mean a child lacks vitamin A. The Cooking Water Test (core) needs povidone-iodine or tincture of iodine, rice water and cabbage. The blue liquid must be pale, and the cooking water must be cooled first. Boiled cabbage water should clear the blue in a few teaspoons. Cold cabbage water should take many more, or not clear it. Plain water never clears it. The count is a rough measure, because a few other substances in cabbage also clear iodine. The Short Shadow Test needs a spot with direct sunlight and a sunny day. In north India in winter the shadow may never be shorter than the pencil. The step says that this is a real result. Four activities need only kitchen things, paper and your own shop prices. They are One Day's Needs, Seven People, One Pot, Protein for Ten Rupees, and Rice Bricks and Dal Bricks. In Fill the Plate, every person card was checked: each can be balanced within the card limit, and the pregnant woman's plate is the hardest. The Health Mix challenge needs a mixer and a grown-up at the stove, and the child eats the porridge. No part needs a garden or an animal. Facts checked on 17 Nov 2026 against the ICMR-NIN 2020 tables, the Indian Food Composition Tables 2017 and published papers: daily needs and food protein figures were corrected. The Akron and Kangra goitre figures, the dates and the Lind result were softened where sources differ. The short-shadow rule is a rule of thumb. The amounts in One Day's Needs are rough. The two Tirukkural couplets and the Upanishad verse are paraphrased. The three videos have no address yet."
 }
