@@ -1,9 +1,9 @@
 # Nutrients: what food is made of, and what each part does
 `sci.food.nutrients.L3`
 
-**Summary.** Pour lemon juice into hot milk, and it splits into white lumps and a pale, watery liquid. Milk was never one thing. Like almost every food, it is a mix of nutrients: carbohydrates, proteins, fats, vitamins, minerals and water. Each nutrient does a different job in your body. Food groups sort foods by the nutrient they give most, but most foods carry several.
+**Summary.** Pour lemon juice into hot milk, and it splits into white lumps and a pale, watery liquid. So milk is not one thing. Like almost every food, it is a mix of nutrients: carbohydrates, proteins, fats, vitamins, minerals and water. Each nutrient does a different job in your body. Food groups sort foods by the nutrient they give most, but most foods carry several.
 
-**Intro.** *Your school chart puts dal in the 'protein' box. But if you could pull apart a spoon of dry toor dal, more than half of it would be carbohydrate. So what is a 'protein food'? And what is inside the food we eat?* Every food is made of a few kinds of nutrients. A nutrient is a part of food that your body uses to live, grow and move. In this unit you split milk into its parts, dry vegetables to find their water, and look for minerals hiding in clear water. Then you will know what the food group boxes really mean.
+**Intro.** *Your school chart puts dal in the 'protein' box. But if you could pull apart a spoon of dry toor dal, more than half of it would be carbohydrate. So what is a 'protein food'? And what is inside the food we eat?* Every food is made of a few kinds of nutrients. A nutrient is a part of food that your body uses to live, grow and move. In this unit you split milk into its parts, dry slices of vegetables in the sun to find out how much water they hold, and look for minerals hiding in clear water. Then you will know what the food group boxes really mean.
 
 ## Learning outcomes
 0. I can name the six kinds of nutrients and say one job each does in my body.
@@ -48,8 +48,8 @@ Food groups help families plan meals. Different books use different boxes. Many 
 **Definition:** Almost every food from a plant or an animal contains several nutrients at once. Only a few, like sugar, salt and oil, are nearly one nutrient.
 
 Scientists find out what is in a food by taking it apart in a laboratory. In India, the National Institute of Nutrition in Hyderabad has done this for hundreds of Indian foods. Their numbers surprise most people. Dry toor dal is about one-fifth protein, but more than half carbohydrate. Cooked rice is about two-thirds water. Milk is almost nine-tenths water. A cucumber is nearly all water.
-- e.g. Out of every 10 spoons of dry toor dal: about 6 spoons carbohydrate, 2 protein, 1 fibre and 1 water.
-- e.g. Out of every 10 spoons of milk: about 9 spoons water. The last spoon is shared by milk sugar, fat, protein and minerals.
+- e.g. Imagine splitting 10 spoons of dry toor dal into the parts it is made of. About 6 spoons would be carbohydrate, 2 would be protein, 1 would be fibre and 1 would be water.
+- e.g. Imagine splitting 10 spoons of milk into the parts it is made of. About 9 spoons would be water. The last spoon would be shared by milk sugar, fat, protein and minerals.
 ### Carbohydrates: the body's main fuel · *defined*
 **Definition:** Carbohydrates are sugars, starch and fibre. Your body breaks starch and sugars down into a sugar called glucose, and burns glucose for energy.
 
@@ -59,13 +59,13 @@ Starch is a long chain of sugar pieces joined together. Plants make starch to st
 ### Proteins: building and mending the body · *defined*
 **Definition:** Proteins are long chains of small pieces called amino acids. Your body uses them to build and mend itself.
 
-Your muscles, skin, hair and nails are made mostly of protein. So are the tiny workers inside every cell that break food down. When you eat dal or curd, your body takes their proteins apart into amino acids. Then it joins those amino acids into its own proteins. Children need protein every day, because they are growing. In milk, most of the protein is one called casein. When milk becomes acidic, casein clumps together. That is why lemon juice makes milk curdle.
+Your muscles, skin, hair and nails are made mostly of protein. So are enzymes, the tiny workers in your body that break food down into smaller pieces. When you eat dal or curd, your body takes their proteins apart into amino acids. Then it joins those amino acids into its own proteins. Children need protein every day, because they are growing. In milk, most of the protein is one called casein. When milk becomes acidic, casein clumps together. That is why lemon juice makes milk curdle.
 - e.g. When you scrape your knee, new skin grows over it. That new skin is built from protein.
 - e.g. Rice and dal eaten together give a better mix of amino acids than either one alone.
 ### Fats: stored energy and the skin of every cell · *defined*
 **Definition:** Fats are nutrients that store a lot of energy. A spoon of fat gives about twice as much energy as a spoon of sugar or starch.
 
-Your body stores spare energy as fat, under the skin and around the organs. Fat also builds the thin skin around every cell. And some vitamins, A, D, E and K, mix into fat and not into water. So the body takes them in better when a meal has a little fat. Fats that are liquid at room temperature are called oils.
+Your body stores spare energy as fat, under the skin and around the organs. Fat also builds the thin skin around every cell. Some vitamins (A, D, E and K) mix into fat but not into water. So the body takes them in better when a meal has a little fat. Fats that are liquid at room temperature are called oils.
 - e.g. A carrot poriyal cooked in a little coconut oil helps your body take in the carrot's vitamin A.
 - e.g. Ghee and coconut oil go solid on a cold morning and melt on a hot day.
 ### Vitamins: tiny amounts, big jobs · *defined*
@@ -87,7 +87,7 @@ Your blood is mostly water. It carries food and oxygen to your cells. Water in s
 - e.g. Breathe onto a cold steel tumbler. The mist that forms is water from your own body.
 - e.g. Pale yellow urine usually means you have had enough to drink. Dark yellow means drink more.
 ### Is fat bad for you? · *debated*
-For about 40 years, many doctors told people to eat as little fat as possible, to keep their hearts healthy. Today most scientists agree the body needs some fat, and the kind of fat matters. They still argue about some fats, like ghee and coconut oil. Most agree that trans fats, found in some reused frying oils and some packaged snacks, are harmful.
+For about 40 years, many doctors told people to eat as little fat as possible, to keep their hearts healthy. Today most scientists agree the body needs some fat, and the kind of fat matters. They still argue about some fats, like ghee and coconut oil. Most agree that trans fats are harmful. Trans fats form when oil is heated again and again for frying, and they are in some packaged snacks.
 - e.g. Peanuts, til and fish give fats that most scientists agree are good for the heart.
 - e.g. Oil used again and again for frying vadas can form harmful fats.
 - **Many heart doctors and health guidelines:** Eat some fat, mostly from plant oils, nuts, seeds and fish. Keep ghee, butter and coconut oil to small amounts, because they may raise the kind of fat in the blood that clogs arteries.
@@ -97,7 +97,7 @@ For about 40 years, many doctors told people to eat as little fat as possible, t
 - The body needs six kinds of nutrient: carbohydrates, proteins, fats, vitamins, minerals and water. *How we know:* When people go without one of them for a long time, they fall ill in a way that is typical for that nutrient. Without vitamin C, gums bleed. Without iodine, the neck can swell. Giving back the missing nutrient makes them well.
 - Most foods contain several nutrients at once. *How we know:* Food scientists have taken thousands of foods apart in laboratories and measured what is in them. In India, the National Institute of Nutrition in Hyderabad publishes these numbers for Indian foods.
 - Muscles get most of their energy from carbohydrates and fats. Protein is used mostly to build and mend the body. *How we know:* In 1865, Fick and Wislicenus measured how much protein their bodies broke down while climbing a mountain. It was far too little to give the energy they used. Many experiments since then agree.
-- Proteins are built from amino acids, and the body builds its own proteins from the amino acids in food. *How we know:* Scientists can follow labelled amino acids from a meal into the proteins of muscle and blood.
+- Proteins are built from amino acids, and the body builds its own proteins from the amino acids in food. *How we know:* Scientists can mark the amino acids in a meal. Later they find the same marked amino acids in the proteins of muscle and blood.
 - Milk curdles when it becomes acidic, because its main protein, casein, clumps together. *How we know:* Anyone can see it at home with lemon juice. Dairy scientists measure the exact acidity at which casein clumps.
 
 ## How we found out
@@ -107,7 +107,7 @@ For about 40 years, many doctors told people to eat as little fat as possible, t
 ## Challenging perspectives
 - **Dal is a protein food, so it is mostly protein.** (A common idea, from food group charts; *rejected*)  
   For: Dal is one of the best sources of protein for vegetarian families. It has much more protein than rice or wheat.  
-  Against: Measured in a laboratory, dry toor dal is about one-fifth protein and more than half carbohydrate. It is in the protein box because it gives more protein than most plant foods. That is the reason, and not that dal is mostly protein.
+  Against: Measured in a laboratory, dry toor dal is about one-fifth protein and more than half carbohydrate. It is in the protein box because it gives more protein than most plant foods, not because it is mostly protein.
 - **Muscles burn their own protein to do work, so hard workers need mostly protein.** (Justus von Liebig, a famous German chemist, in the 1840s; *rejected*)  
   For: Muscles are made of protein, so it seemed natural that working muscles use up protein.  
   Against: Fick and Wislicenus climbed a mountain in 1865 and measured the protein their bodies broke down. It could supply only a small part of the energy they used. The rest came from carbohydrates and fats.
@@ -121,9 +121,9 @@ For about 40 years, many doctors told people to eat as little fat as possible, t
 ## Roots
 We have learned that food is made of six kinds of nutrient, and that most foods carry several at once. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** Lemon juice split your hot milk into white curds and pale, watery whey. The curds held most of the protein and fat. The whey kept the water, the milk sugar and some minerals. So one glass of milk carries many nutrients, and its food group names only one of them.  
-*Habit it breaks:* We sort foods into boxes: dal is 'protein', rice is 'carbohydrate', milk is 'dairy'. The box makes each food sound like one thing. But a box is a label for planning meals, and most foods are mixes that the label leaves out.  
-*Evidence:* In the milk-splitting test, lemon juice split milk into curds and much more whey. Dried on a plate, the whey left a sticky film of milk sugar and minerals. Measured in a laboratory, dry toor dal is about one-fifth protein and more than half carbohydrate.
+**Deep truth.** In the Splitting Milk experiment, lemon juice split hot milk into white curds and pale, watery whey. The curds held most of the protein and fat. The whey kept the water, the milk sugar and some minerals. So one glass of milk carries many nutrients, and its food group names only one of them.  
+*Habit it breaks:* We sort foods into boxes: dal is 'protein', rice is 'carbohydrate', milk is 'dairy'. The box makes each food sound like one thing. But a box is only a label for planning meals. Most foods are mixes, and the label names just one part.  
+*Evidence:* In the Splitting Milk experiment, lemon juice split milk into curds and much more whey. In the Hidden Minerals test, whey dried on a plate left a sticky film of milk sugar and minerals. Measured in a laboratory, dry toor dal is about one-fifth protein and more than half carbohydrate.
 
 - *who am i:* Your muscles, hair and nails are built from protein you ate, taken apart into amino acids and joined again.
 - *what is life:* A cow makes milk for her calf, with water, protein, fat, sugar and minerals mixed in one drink.
@@ -139,7 +139,7 @@ Sugar, starch, fat and protein look and taste very different. Yet all of them ar
 - Science (debated): Exactly how much protein a growing child needs is still studied, and countries set slightly different numbers.
 - Other view, Many nutrition scientists and teachers: Food groups are a useful shortcut, not a mistake. A parent planning a meal needs a quick rule, not a chemistry table. Calling dal a protein food is fair, because for vegetarian families it is one of the best sources of protein.
 - Practice, Look into a glass of milk (3 min): Hold a glass of milk, or water if you prefer, in both hands. Look at it for a moment. Let's name what is inside it. Water. Protein. Fat. Milk sugar. Minerals. Now take one slow sip. Hold it in your mouth and notice its taste. Swallow. The water will go into your blood. The protein will become part of your muscles. Sit still for three slow breaths.
-- Ask: Which part of your body, do you think, is made from the food you ate this week?
+- Ask: Which part of your body do you think is made from the food you ate this week?
 - Ask: If you split a food into its parts, is it still the same food? Why?
 - Ask: Is a food group something real in the food, or something people made up to help them?
 
@@ -179,13 +179,13 @@ Kavya watched. For a moment nothing happened. Then soft white lumps began to for
 
 Kavya looked into the bowl. There was much more whey than curd. 'So milk is mostly water?'
 
-'Almost nine-tenths water,' said Athai. 'The other tenth is protein, fat, milk sugar and minerals, all mixed up so finely that the milk looks like one thing. The lemon juice made the protein clump together, so now we can see them apart.'
+'Almost nine-tenths water,' said Athai. 'The other tenth is protein, fat, milk sugar and minerals, all mixed up so finely that the milk looks like one thing. The lemon juice made the protein clump together, so now we can see the parts separately.'
 
 Kavya picked up the bowl of whey to pour it into the sink. 'Wait!' said Athai. 'That is not waste. Let me show you.' She took a clean steel plate, dropped two spoons of whey onto it and put it on the balcony in the sun. 'Look at it tomorrow,' she said.
 
 That afternoon Athai kneaded the chapati dough with whey instead of water. At dinner, Arjun ate four chapatis and three pieces of paneer, and said it was the best birthday food ever.
 
-On Sunday morning Kavya ran to the balcony. The whey on the plate had dried. The water had gone into the air. Left behind was a thin, sticky, yellowish film. She touched it with a finger. It was a little sticky, like the inside of a sweet wrapper.
+On Sunday morning Kavya ran to the balcony. The whey on the plate had dried. The water had gone into the air. Left behind was a thin, yellowish film. She touched it with a finger. It was a little sticky, like the inside of a sweet wrapper.
 
 'That is the milk sugar and the minerals,' said Athai. 'The water went into the air, and they stayed.'
 
@@ -238,10 +238,10 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 - **Printable score sheet: Colour key and answer card for the parent:** Colour key: blue is water, yellow is carbohydrate, red is protein, orange is fat, green is fibre, striped is milk sugar, fat, protein and minerals together.; Answers: A watermelon, B plain curd, C ripe banana, D raw rice, E almonds, F ragi flour, G ghee, H jaggery. Every card is rounded to the nearest spoon out of 10.
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards. 2. Lay the spoon cards face up. 3. Read out the colour key: blue water, yellow carbohydrate, red protein, orange fat, green fibre.  
-  *Parent says:* Each spoon card shows what a food would be if we split it into 10 spoons. Your job is to match each food to its card. These are new foods, not the ones from the first activity.  
-  *Child mode:* Each card shows a food split into 10 spoons. Blue is water. Yellow is carbohydrate. Red is protein. Orange is fat. Match the foods.
+  *Parent says:* Each spoon card shows what a food is made of. Imagine splitting the food into its parts and pouring them into 10 spoons. Each colour of spoon stands for one part. Your job is to match each food to its card. These are new foods, not the ones from Ten-Spoon Foods.  
+  *Child mode:* Each card shows what a food is made of, as 10 spoons. Blue is water. Yellow is carbohydrate. Red is protein. Orange is fat. Match the foods.
 - **s2 (10 min)**  
-  *Parent does:* Take turns placing food cards with a reason.  
+  *Parent does:* Take turns. Put a food card on a spoon card and say a reason.  
   *Parent says:* Which card could be the ripe banana? Why?  
   *Child mode:* Take a food card. Put it on a spoon card. Say why.
   - Check: Which spoon card matches ghee? → **Card G: 10 orange, all fat**
@@ -253,6 +253,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 
 ## Experiments
 ### e1 · Splitting Milk: which kitchen liquids curdle it? (35 min)
+- **problem:** Milk looks like one smooth white liquid. But it is really a mix of water, protein, fat, milk sugar and minerals. Some liquids can make the protein in hot milk clump into white lumps. The lumps are called curds, and the thin liquid left behind is called whey. You will test six kitchen liquids to see which ones do this.
 - **question:** Which liquids from our kitchen make hot milk split into curds and whey, and which do not?
 - **predict:** Look at the six cups of liquid: lemon juice, vinegar, tamarind water, salt water, sugar water and plain water. Which ones do you think will make milk split into lumps? Why do you think so?
 - **fair test:** Use the same amount of milk in every tumbler, half a cup, all from the same pan. Add the same amount of each liquid, 1 tablespoon. Stir each one the same way, five slow stirs, and wait the same time, 3 minutes. Only the liquid changes. Plain water is the comparison, so we can see what milk does with nothing special added.
@@ -272,7 +273,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
   - Note: Hot milk works best, about as hot as tea you would wait to sip. Cold milk also curdles with lemon juice, but slowly and with tiny lumps that are hard to see. Feel the outside of each tumbler before your child touches it.
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* 1. Add 1 tablespoon of lemon juice to the lemon tumbler. 2. Stir slowly five times. 3. Do the same for each liquid in its own tumbler, with a rinsed spoon each time. Work in order and finish all six within about one minute, so the milk is equally hot in each. 4. Start a 3-minute timer after the last one.  
-  *Parent says:* Add one liquid to each tumbler. Five slow stirs. Rinse the spoon each time, so no lemon gets into the next cup.  
+  *Parent says:* Add one liquid to each tumbler. Five slow stirs. Rinse the spoon each time, so no lemon gets into the next tumbler.  
   *Child mode:* Add one spoon of liquid to its tumbler. Stir five times, slowly. Rinse the spoon. Do the next one.
   - Note: Rinsing the spoon matters. A drop of lemon in the sugar tumbler could start it curdling and spoil the test.
 - **s4 (5 min)**  
@@ -280,7 +281,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
   *Parent says:* Tilt each tumbler and look closely. Do you see lumps? What colour is the liquid around them?  
   *Child mode:* Tilt each tumbler gently. Do you see white lumps? Is the milk still smooth? Write what you see.
   - Note: You should see thick white lumps and a pale green-yellow liquid in the lemon and vinegar tumblers within a minute or two. Tamarind water is also sour. It usually makes lumps, but fewer and slower, with brownish whey, so write down what you really see. Salt, sugar and water tumblers stay smooth. If the lemon tumbler shows only tiny lumps, the milk was not hot enough. Add one more tablespoon of lemon juice and stir.
-  - Check: Lemon juice and vinegar made the milk split into lumps. Salt water, sugar water and plain water did not. What do lemon juice and vinegar have in common? → **They are all sour**
+  - Check: Lemon juice and vinegar made the milk split into lumps. Salt water, sugar water and plain water did not. What do lemon juice and vinegar have in common? → **Both are sour**
 - **s5 (6 min)**  
   *Parent does:* 1. Lay the cotton cloth over the strainer and hold it over a clear glass. 2. Pour the lemon tumbler through it. 3. Gather the cloth and gently squeeze. 4. Compare how much is in the cloth and how much is in the glass.  
   *Parent says:* Let's separate the two parts. The cloth will catch the lumps. Which part do you think will be bigger?  
@@ -293,9 +294,10 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
   *Child mode:* Say or write three things. What I think. What I saw. Why I think it happened.
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: milk is not one thing, it is a mix of parts. What I saw: sour liquids made white lumps and a pale watery liquid, and salt, sugar and water did nothing. There was much more liquid than lumps. Why: the sour liquids made the protein in milk clump, so it came out of the water. After their answer, explain that the curds hold most of the milk's protein and fat, and the whey is mostly water, milk sugar and minerals. So milk, which we put in the dairy box, also gives protein, fat, water and minerals.
 ### e2 · Sun-Dried Slices: how much of a vegetable is water? (25 min, 3 days)
-- **question:** Which foods lose the most when they dry in the sun: cucumber, tomato, potato, carrot or chapati? What does that tell us about the water in them?
+- **problem:** When a vegetable dries in the sun, the water in it goes into the air. Only the rest stays behind. So the more a slice shrinks, the more of it was water. In this test you dry slices of four vegetables and a piece of chapati. You see which one shrinks the most.
+- **question:** Which food shrinks the most when it dries in the sun: cucumber, tomato, potato, carrot or chapati? What does that tell us about the water in them?
 - **predict:** Put the five slices in order, from the one you think will shrink most to the one you think will shrink least. Why do you think so?
-- **fair test:** Cut the vegetable slices the same thickness, about half a centimetre, and about the same size. The chapati is thinner. That is fine, because thin things dry faster, so if the chapati still loses less, the result holds. Dry them all on the same plate, in the same place, for the same number of days. Only the food changes. If you have a kitchen scale, weigh each slice before and after, because a number is easier to compare than a shape.
+- **fair test:** Cut the vegetable slices the same thickness, about half a centimetre, and about the same size. The chapati is thinner. That is fine. Thin things dry faster, so if the chapati still shrinks less, we know it had less water to lose. Dry them all on the same plate, in the same place, for the same number of days. Only the food changes. If you have a kitchen scale, weigh each slice before and after, because a number is easier to compare than a shape.
 - **safety:** A grown-up cuts the slices with the knife. Do not eat the slices after drying, because they have sat out for days and can grow mould.
 - **record:** Draw each slice's outline on day 1 and again on day 3, one inside the other. If you weighed them, write both weights and how much each slice lost.
 - **results table:** Food | My guess (1 = shrinks most) | Size on day 1 (outline drawn) | Size on day 3 (outline drawn) | Weight on day 1 (grams, if you have a scale) | Weight on day 3 (grams)
@@ -319,23 +321,24 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
   *Parent does:* 1. On day 3, lay each slice back on its outline and draw round it again. 2. Weigh them again if you have a scale. 3. Put them in order, from most shrunk to least.  
   *Parent says:* Where did the missing part of each slice go?  
   *Child mode:* Put each slice on its first outline. Draw round it again. Which one shrank most? Where did the rest go?
-  - Note: After three days the slices may be leathery and not fully dry. Their order still shows. A cucumber slice of 20 grams usually ends at a few grams, a small wrinkled disc. A potato slice keeps more of its weight, because a potato is about four-fifths water and the rest is mostly starch, and it dries slowest. The tomato and carrot fall in between. A home scale that reads to 1 gram is good enough to see this. The chapati was already dry, so its size hardly changes.
+  - Note: After three days the slices may be leathery and not fully dry. Their order still shows. A cucumber slice of 20 grams usually ends at a few grams, a small wrinkled disc. A potato slice keeps more of its weight, because a potato is about four-fifths water and the rest is mostly starch. The potato also dries slowest. The tomato and carrot fall in between. A home scale that reads to 1 gram is good enough to see this. The chapati was already dry, so its size hardly changes.
   - Check: The cucumber slice shrank to a thin, wrinkly disc. The chapati hardly changed size. What does this tell us? → **The cucumber was mostly water, and the water went into the air**
 ### e3 · Hidden Minerals: what is left when clear water dries? (25 min, 2 days)
+- **problem:** Clear water looks empty, but it can carry things that are dissolved in it. Dissolved means mixed in so finely that you cannot see it. When the water dries into the air, anything dissolved in it stays behind on the plate. In this test you dry five clear liquids to see what each one leaves behind.
 - **question:** Clear water looks empty. Does it leave anything behind when it dries?
 - **predict:** Look at five spoons of liquid that all look clear or nearly clear: filtered water, tap water, salt water, coconut water or sugar water, and whey. Which ones do you think will leave something on the plate when they dry? Why do you think so?
-- **fair test:** Use the same amount of each liquid, one teaspoon. Put them all on the same clean, dry steel plate, a hand-width apart. Dry them in the same place for the same time. Only the liquid changes. Filtered or RO water is the comparison.
+- **fair test:** Use the same amount of each liquid, one teaspoon. Put them all on the same clean, dry steel plate, a hand-width apart. Dry them in the same place for the same time. Only the liquid changes. Filtered water, or water from an RO machine, is the comparison.
 - **record:** Draw the plate from above, with each spot and its label. Next to each spot, write what was left.
 - **results table:** Liquid | My guess: will it leave something? (yes or no) | What was left (nothing, a faint ring, a white ring, crystals, a sticky film)
 - **schedule:** day 1: Guess which liquids will leave something behind. Put one teaspoon of each on the plate, labelled. Put it in the sun or under a fan. (12 min); day 2: Look at each dried spot closely, in good light. Fill in the table. Say what the spots tell you. (13 min)
 - **s1 (6 min)**  
-  *Parent does:* 1. Wipe the steel plate clean and dry. 2. Put a paper label by each spot's place: filtered, tap, salt, coconut, whey. 3. Ask for a guess for each liquid.  
+  *Parent does:* 1. Wipe the steel plate clean and dry. 2. Put a paper label where each liquid will go: filtered, tap, salt, coconut, whey. 3. Ask for a guess for each liquid.  
   *Parent says:* These liquids all look clear or nearly clear. Which ones do you think hide something inside? Why?  
   *Child mode:* Label five places on the plate. Look at the five liquids. Which ones will leave something when they dry? Guess.
   - Ask: Why do you think tap water will leave something, or not? (good: Our steel tumblers get white marks after we drink water.; Water is just water, so nothing will be left.)
 - **s2 (6 min)**  
   *Parent does:* 1. Put one teaspoon of each liquid on its place, a hand-width apart. 2. Put the plate flat in the sun or under a fan, where nobody will knock it.  
-  *Parent says:* We use one teaspoon of each, so the test is fair. Now the water has to leave by itself.  
+  *Parent says:* We use one teaspoon of each, so the test is fair. Now we wait for the water to dry up by itself.  
   *Child mode:* Put one spoon of each liquid on its label. Do not let them touch. Put the plate in the sun.
   - Note: In the sun, the spots dry in a few hours. Under a fan, leave them overnight.
   - Wait: Leave it until the spots are dry, a few hours or overnight.
@@ -353,15 +356,16 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 
 ## Activities
 ### a1 · Ten-Spoon Foods: guess what a food is made of (12 min)
+- **problem:** Every food is made of parts such as water, carbohydrate, protein and fat. Imagine splitting a food into its parts and pouring them into 10 equal spoons. A part that makes up most of the food fills most of the spoons. A small part fills only one spoon. In this activity you guess how many spoons each part of a food would fill. Then you check your guess against what scientists measured.
 - **safety:** Check for peanut allergy before handing out peanuts. Looking at them is enough.
 - **record:** Draw a row of 10 circles for each food. Colour each circle for its nutrient: blue for water, yellow for carbohydrate, red for protein, orange for fat, green for fibre.
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the six paper slips in a row. 2. Put the cucumber and the 10 spoons in front of your child.  
-  *Parent says:* Imagine we could take this cucumber apart into its nutrients, and fill 10 spoons. How many spoons would be water? How many carbohydrate, protein or fat? Put the spoons on the slips.  
-  *Child mode:* Imagine you take a cucumber apart into 10 spoons. Put the spoons on the slips. How many are water?
+  *Parent says:* Imagine we could split this cucumber into everything it is made of. Then imagine we pour all of those parts into 10 spoons. A big part fills many spoons, and a small part fills only one. How many spoons would be water? How many would be carbohydrate, protein or fat? Put the spoons on the slips.  
+  *Child mode:* Imagine splitting a cucumber into its parts and filling 10 spoons. Put the spoons on the slips. How many are water?
 - **s2 (3 min)**  
   *Parent does:* Read out the cucumber line from the food card. Let your child move the spoons to match. Ask if they are surprised.  
-  *Parent says:* Scientists took cucumbers apart in a laboratory. Out of 10 spoons, all 10 are water, with a tiny bit of other things. Were you close?  
+  *Parent says:* Scientists took cucumbers apart in a laboratory. Out of 10 spoons, almost all 10 are water. Only a tiny bit is other things. Were you close?  
   *Child mode:* Listen to the real answer. Move your spoons to match. Were you close?
 - **s3 (5 min)**  
   *Parent does:* Do the same for milk, cooked rice, dry toor dal and peanuts. Guess first each time, then read the card.  
@@ -420,14 +424,14 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
   *Child mode:* Add the coconut, a pinch of salt and the lemon. Stir.
 - **s3 (10 min)**  
   *Parent does:* Before eating, go through each ingredient and name its main nutrients together.  
-  *Parent says:* Let's name what each part gives us. Chana? Coconut? Oil? Lemon? Salt?  
-  *Child mode:* Name what each part gives you. Chana. Coconut. Oil. Lemon. Salt.
-  - Note: Chana: protein, carbohydrate, fibre, iron. Coconut: fat and fibre. Oil: fat. Lemon: vitamin C. Salt: the minerals sodium and, if iodised, iodine. Curry leaves: a little calcium and vitamin A. The cooking water in the chana is water too.
+  *Parent says:* Let's name what each ingredient gives us. Chana? Coconut? Oil? Lemon? Salt?  
+  *Child mode:* Name what each ingredient gives you. Chana. Coconut. Oil. Lemon. Salt.
+  - Note: Chana: protein, carbohydrate, fibre, iron. Coconut: fat and fibre. Oil: fat. Lemon: vitamin C. Salt: the minerals sodium and, if iodised, iodine. Curry leaves: a little calcium and vitamin A. The cooked chana also holds water from the cooking.
   - Check: In chana sundal, the chana gives protein, carbohydrate, fibre and iron. What does the squeeze of lemon add? → **Vitamin C, which also helps your body take in the chana's iron**
 
 ## Projects
 ### p1 · My Water Diary: three days of water in and out (35 min, 3 days)
-- **record:** A tally chart with three columns, one for each day. Count tumblers, watery foods (rasam, buttermilk, curd rice, fruit) and urine colour.
+- **record:** A tally chart with three columns, one for each day. Tick each tumbler you drink and each watery food you eat (rasam, buttermilk, curd rice, fruit). Write down the colour of your urine.
 - **schedule:** day 1: Measure how much your tumbler holds. Make a tally chart. Tick each tumbler you drink, and each watery food you eat. (15 min); day 2: Keep ticking. Note the colour of your urine in the morning and the afternoon: pale, yellow or dark. (10 min); day 3: Finish the tally. Add up the millilitres. Compare a hot or busy day with a quiet one. (10 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Fill a 500 millilitre bottle with water. 2. Pour it into the tumbler until full. 3. See how much is left in the bottle, and work out what the tumbler holds. 4. Draw a tally chart.  
@@ -444,7 +448,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
   *Parent says:* Which day did you drink most? Was it hotter, or did you play more?  
   *Child mode:* Add up each day. Which day did you drink most? Why?
   - Note: Many doctors suggest about 6 to 8 glasses of drinks a day for children, and more on hot days or after playing. Watery food counts too. Pale urine is a simpler guide than a number.
-  - Check: On the hot day you drank 2 more tumblers than on the cool day. Why does the body need more water on a hot day? → **You sweat more, and sweat is mostly water**
+  - Check: Suppose you drank 2 more tumblers on a hot day than on a cool day. Why does the body need more water on a hot day? → **You sweat more, and sweat is mostly water**
 
 ## Challenges
 ### c1 · Nothing Wasted: a plan for the whey (30 min)
@@ -454,9 +458,9 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 - **general:** Knead chapati or thepla dough with whey instead of water.; Cook rice or dal in whey instead of some of the water.; Use whey in place of water when making rasam.
 - **creative:** Use whey to soak the rice and urad dal for idli batter, and see if it changes the taste.; Make a whey drink with a pinch of salt, roasted jeera and coriander, like neer mor.; Use whey instead of water to make the batter for dosa or dhokla, and see if it changes the taste.
 - **s1 (5 min)**  
-  *Parent does:* Show your child the whey from the experiment, or remind them of it. Ask what is in it.  
-  *Parent says:* Remember the pale liquid left when the milk split? What did it carry? Is it worth throwing away?  
-  *Child mode:* Remember the whey? What was in it? Should we throw it away?
+  *Parent does:* Show your child the whey from the Splitting Milk experiment, or remind them of it. Ask what is in it.  
+  *Parent says:* In the Splitting Milk experiment, lemon juice split hot milk into white curds and a pale liquid called whey. What did the whey carry? Should we throw it away?  
+  *Child mode:* Whey is the pale liquid left when lemon juice splits milk. What was in it? Should we throw it away?
 - **s2 (15 min)**  
   *Parent does:* Plan three or four uses together, with amounts that add up to 800 millilitres.  
   *Parent says:* How much whey would chapati dough for four people take? How much could go into the rasam?  
@@ -481,9 +485,9 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
   *Parent does:* Design one drink and one snack together. Name what each ingredient gives.  
   *Parent says:* Water puts back water. What puts back the salt? What gives energy for the next race?  
   *Child mode:* Plan a drink and a snack. What does each part put back?
-  - Note: Water replaces water. A pinch of salt replaces some of the sodium lost in sweat. Sugar or jaggery gives quick energy, and also helps the gut take in salt and water. Doctors use a measured mix of salt and sugar in water, called ORS, for children who have lost a lot of water through diarrhoea. Milk drinks like buttermilk go sour in a warm bottle after a few hours, so make them last and drink them early.
+  - Note: Water replaces water. A pinch of salt replaces some of the sodium lost in sweat. Sugar or jaggery gives quick energy, and also helps the gut take in salt and water. Doctors use a measured mix of salt and sugar in water, called ORS, for children who have lost a lot of water through diarrhoea. Milk drinks like buttermilk go sour in a warm bottle after a few hours, so make them just before you leave and drink them early.
 - **s3 (10 min) · grown-up needed**  
-  *Parent does:* Make the drink. Taste it. Adjust.  
+  *Parent does:* Make the drink. Taste it. Change it until it tastes good.  
   *Parent says:* Taste it. Too salty? Too sweet? It should taste only lightly salty, a little less salty than tears.  
   *Child mode:* Make your drink. Taste it. Change it until it tastes good.
   - Check: Why does a sports day drink have a pinch of salt in it? → **Sweat carries salt out of the body, so the salt puts some back**
@@ -501,7 +505,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
    **Answer:** True. *Why:* True. Your body uses water in every cell, in blood, sweat and urine. You need more water each day than any other nutrient.
 5. (fill) When lemon juice makes hot milk split, the white lumps are called ____ and the watery liquid is called ____.  
    **Answer:** ['curds', 'whey']. *Why:* The curds hold most of the milk's protein and fat. The whey is mostly water, with milk sugar and minerals.
-6. (mcq) Meena, a girl in Class 3, adds salt water to hot milk. Nothing happens. Then she adds lemon juice, and white lumps appear. Why?  
+6. (mcq) Salt water is added to hot milk. Nothing happens. Then lemon juice is added, and white lumps appear. Why?  
    Options: Lemon juice is an acid, and acid makes milk's protein clump / Lemon juice is yellow / Salt water was too cold  
    **Answer:** Lemon juice is an acid, and acid makes milk's protein clump. *Why:* Lemon juice is sour, which means it is an acid. Acid makes casein, the main protein in milk, clump into curds. Salt water is not an acid, so the milk stays smooth.
 7. (write) After splitting milk with lemon juice, there was much more whey than curd. What does this tell you about milk?  
@@ -517,14 +521,14 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
    **Answer:** Any plate with each food labelled correctly. For example: rice, carbohydrate. Sambar, protein and water. Poriyal, vitamins and fibre. Curd, protein and calcium.. *Why:* This shows the child can connect the foods they eat with the nutrients in them.
 12. (truefalse) A cucumber is mostly water.  
    **Answer:** True. *Why:* True. A cucumber is nearly all water. That is why a slice shrinks to a thin, wrinkly disc when it dries.
-13. (perspective) Kavya, a girl in Class 3, is making a food group chart. She has to decide where milk goes.  
+13. (perspective) Kavya is making a food group chart. She has to decide where milk goes.  
    **Answer:** A strong answer picks a side and gives evidence: lemon juice split milk into curds, which hold most of its protein and fat, and whey, which is mostly water. It also says what the other side has right: the dairy box is useful for planning meals, because milk foods all give calcium.. *Why:* Both are right in a way. The boxes are a useful habit, but they name only part of what is inside a food.
 14. (fill) The carbohydrate that plants use to store food, found in rice and potatoes, is called ____.  
    **Answer:** ['starch']. *Why:* Starch is a long chain of sugar pieces joined together.
 15. (order) Put the steps of the milk-splitting test in order.  
-   **Answer:** ['A grown-up heats the milk and pours it into tumblers', 'Add 1 tablespoon of each liquid and stir', 'Wait 3 minutes and look for lumps', 'Pour it through a cotton cloth']. *Why:* Heat, add, wait and look, then separate the curds from the whey.
+   **Answer:** ['A grown-up heats the milk and pours it into tumblers', 'Add 1 tablespoon of each liquid and stir', 'Wait 3 minutes and look for lumps', 'Pour it through a cotton cloth']. *Why:* First the milk is heated. Then the liquids are added. Then you wait and look for lumps. Last, the cloth separates the curds from the whey.
 ### Nutrients at Work (stretch) (stretch, 15 questions)
-1. (mcq) Suppose in a sun-dried slices test a potato slice kept about a fifth of its weight and a cucumber slice kept almost nothing. Which had more of something that is not water?  
+1. (mcq) In a Sun-Dried Slices test, a potato slice kept about a fifth of its weight. A cucumber slice kept almost nothing. Which slice had more of something that is not water?  
    Options: The potato, because it has a lot of starch / The cucumber, because it is green / Both the same, because they were the same size  
    **Answer:** The potato, because it has a lot of starch. *Why:* What is left after drying is the part of a food that is not water. A potato keeps more because about a fifth of it is starch. A cucumber is nearly all water.
 2. (write) Tap water left a white ring when it dried on a steel plate. Filtered water left almost nothing. Explain why.  
@@ -539,8 +543,8 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 6. (write) A spoon of fat gives about twice as much energy as a spoon of sugar. Why might the body store spare energy as fat, not as sugar?  
    **Answer:** Fat holds more energy in the same amount, so it takes up less room in the body. It is a good way to keep energy for later.. *Why:* A strong answer uses the idea that fat packs more energy into less space.
 7. (sort) Sort these minerals and vitamins.  
-   **Answer:** calcium → Mineral; iron → Mineral; iodine → Mineral; vitamin C → Vitamin; vitamin A → Vitamin; vitamin D → Vitamin. *Why:* Minerals come from rocks and soil. Vitamins are made by living things, or by your skin in sunlight for vitamin D.
-8. (perspective) Farhan, a boy in Class 4, wants to throw away the whey after his mother makes paneer.  
+   **Answer:** calcium → Mineral; iron → Mineral; iodine → Mineral; vitamin C → Vitamin; vitamin A → Vitamin; vitamin D → Vitamin. *Why:* Minerals come from rocks and soil. Vitamins are made by living things. Vitamin D is made by your skin in sunlight.
+8. (perspective) The first person wants to throw away the whey after his mother makes paneer.  
    **Answer:** A strong answer uses the dried whey: it left a sticky film of milk sugar and minerals, so whey is not empty. It can also agree with Nandini that a family may not use all of it, and suggest a plan like rasam or rice.. *Why:* All three have a point: whey carries nutrients, it is mostly water, and using all of it takes planning.
 9. (fill) Proteins are built from small pieces called ____ ____.  
    **Answer:** ['amino acids']. *Why:* There are 20 kinds of amino acid. Your body breaks the protein in food into them, and builds its own proteins from them.
@@ -557,22 +561,22 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 15. (fill) Plants take up minerals from the soil together with ____.  
    **Answer:** ['water']. *Why:* Minerals dissolve in the water in the soil, and the plant's roots take both up together.
 ### Testing Ideas About Food (challenge) (challenge, 15 questions)
-1. (order) Put the steps of the Faulhorn test by Fick and Wislicenus in order.  
-   **Answer:** ['They ate no protein, only starch, fat and sugar', 'They climbed the Faulhorn mountain', 'They measured the nitrogen in their urine', 'They worked out that protein gave only a small part of the energy']. *Why:* First they made sure no protein came from food. Then they climbed, measured the nitrogen, which comes from protein the body breaks down, and compared the energy.
-2. (mcq) Fick and Wislicenus ate only starch, fat and sugar before their climb. Why was this important for their test?  
+1. (order) You want to find out whether muscles run mainly on protein. Put the steps of a fair test in order.  
+   **Answer:** ['Eat no protein, only starch, fat and sugar', 'Climb a big hill', 'Measure how much protein the body used', 'Work out whether protein gave enough energy for the climb']. *Why:* First make sure no protein comes from food. Then do the hard work, measure the protein the body broke down, and compare it with the energy the climb needed.
+2. (mcq) Two scientists, Fick and Wislicenus, wanted to measure how much protein their bodies used on a mountain climb. Before the climb they ate only starch, fat and sugar. Why was this important for their test?  
    Options: So that any protein used would come from their own bodies, not from a meal / Because starch is lighter to carry / Because protein makes people tired  
-   **Answer:** So that any protein used would come from their own bodies, not from a meal. *Why:* With no protein in their food, any nitrogen in their urine had to come from their body's own protein. That made the measurement clear.
+   **Answer:** So that any protein used would come from their own bodies, not from a meal. *Why:* Protein is the only nutrient with a lot of nitrogen in it. When the body breaks protein down, that nitrogen leaves in urine. With no protein in their food, any nitrogen in their urine had to come from their body's own protein. That made the measurement clear.
 3. (write) Design a fair test to find out whether cold milk curdles with lemon juice as well as hot milk. Say what you would change, what you would keep the same, and what you would look at.  
    **Answer:** I would change only the temperature of the milk: one tumbler hot and one cold. I would keep the amount of milk, the amount of lemon juice, the stirring and the waiting time the same. I would look at how many lumps form and how big they are after 3 minutes.. *Why:* A strong design changes one thing, keeps the rest the same, and says what will be compared.
 4. (mcq) Sugar, oil and paneer look completely different. What are they mostly made of?  
    Options: The same three kinds of atoms, carbon, hydrogen and oxygen, joined in different ways / Completely different kinds of atoms / Water  
    **Answer:** The same three kinds of atoms, carbon, hydrogen and oxygen, joined in different ways. *Why:* Sugar, fat and protein are all built mostly from carbon, hydrogen and oxygen atoms. Protein also has nitrogen. How the atoms are joined makes each one so different.
-5. (truefalse) Many people think that the more vitamin tablets a healthy child takes, the healthier the child becomes. True or false?  
+5. (truefalse) The more vitamin tablets a healthy child takes, the healthier the child becomes.  
    **Answer:** False. *Why:* False. The body needs only tiny amounts of vitamins, and most children who eat a mix of foods get enough. Too much of some vitamins, like A and D, can make a person ill.
 6. (truefalse) Your body can make a little vitamin D by itself, when sunlight falls on your skin.  
    **Answer:** True. *Why:* True. Skin makes vitamin D in sunlight. Some foods, like eggs and fish, give vitamin D too.
 7. (write) Coconut water and whey both left a sticky film when they dried. Tap water left a white ring. What different things might each one be leaving behind?  
-   **Answer:** The sticky film is mostly sugars, with some minerals. The white ring from tap water is mostly minerals like calcium, with no sugar.. *Why:* A strong answer uses what the residue felt like, sticky or not, to tell sugar from minerals.
+   **Answer:** The sticky film is mostly sugars, with some minerals. The white ring from tap water is mostly minerals like calcium, with no sugar.. *Why:* A strong answer uses how each dried spot felt, sticky or not, to tell sugar from minerals.
 8. (match) Match each finding to the person or group who made it.  
    **Answer:** Justus von Liebig, 1840s → said muscles burn their own protein; Fick and Wislicenus, 1865 → showed muscles run mainly on carbohydrates and fats; National Institute of Nutrition, Hyderabad → measures what is in Indian foods. *Why:* These are the people and the institute named in this unit.
 9. (write) Ragi has nearly three times as much calcium as the same weight of milk. Why do you think most food charts put milk, not ragi, first for calcium?  
@@ -589,7 +593,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 14. (mcq) A food slice weighed 20 grams. After drying in the sun it weighed 2 grams. About how much of the slice was water?  
    Options: About 9 out of every 10 parts / About 1 out of every 10 parts / About half  
    **Answer:** About 9 out of every 10 parts. *Why:* 18 of the 20 grams went into the air as water vapour. 18 out of 20 is 9 out of 10.
-15. (truefalse) Some vitamins dissolve in water, so a cook who throws away the water that vegetables were boiled in also throws away some of their vitamins. True or false?  
+15. (truefalse) Some vitamins dissolve in water. So when the water that vegetables were boiled in is thrown away, some of their vitamins are thrown away too.  
    **Answer:** True. *Why:* True. Vitamin C and the B vitamins dissolve in water. Steaming, or using the cooking water in a dal or rasam, keeps more of them.
 
 ## Videos
@@ -613,7 +617,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 5. (mcq) Why can one food belong to more than one food group?  
    Options: Most foods are a mix of several nutrients / Food groups change every year / Cooks put foods in the wrong group  
    **Answer:** Most foods are a mix of several nutrients. *Why:* A food group names the nutrient a food gives most. But most foods carry several, so they can fit several groups.
-6. (mcq) Arjun, a boy of six, sees lemon juice make hot milk split. Which nutrients from the milk are mostly caught in the white lumps?  
+6. (mcq) Lemon juice makes hot milk split. Which nutrients from the milk are mostly caught in the white lumps?  
    Options: Protein and fat / Sugar and minerals / Vitamin C  
    **Answer:** Protein and fat. *Why:* The lumps, called curds, hold most of the casein, the main protein in milk, with most of the fat caught inside. The watery whey holds most of the water, milk sugar and some minerals. Milk has no vitamin C to speak of.
 7. (mcq) Which of these would NOT make hot milk curdle?  
@@ -624,16 +628,16 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
    **Answer:** It is nearly all water, and the water goes into the air. *Why:* A cucumber is nearly all water. When it dries, the water becomes water vapour in the air, and very little is left.
 9. (mcq) Which of these is a sign that your body needs more water?  
    Options: Dark yellow urine / Feeling cold / Pale yellow urine  
-   **Answer:** Dark yellow urine. *Why:* Dark yellow urine means your body is keeping water back because it is short. Pale yellow usually means you have had enough.
+   **Answer:** Dark yellow urine. *Why:* Dark yellow urine means your body is short of water and is keeping back what it has. Pale yellow usually means you have had enough.
 10. (mcq) Why can tap water leave a white ring on a steel tumbler?  
    Options: It carries dissolved minerals that stay behind when the water dries / The steel turns white when wet / Soap is in the water  
    **Answer:** It carries dissolved minerals that stay behind when the water dries. *Why:* Tap water picks up minerals like calcium from rocks and soil. They dissolve and cannot be seen. When the water dries, they stay as a white ring.
 11. (mcq) Which food gives a lot of calcium for strong bones?  
    Options: Ragi / Sugar / Coconut oil  
    **Answer:** Ragi. *Why:* Ragi is rich in calcium, a mineral that makes bones hard. Milk, curd, til and green leaves give calcium too.
-12. (mcq) In 1865, Fick and Wislicenus climbed a mountain to test an idea. What did they find?  
+12. (mcq) Two scientists ate no protein, then climbed a mountain. They measured how much protein their bodies used. It was far too little to give the energy for the climb. What does this show?  
    Options: Muscles run mainly on carbohydrates and fats, not protein / Muscles run only on protein / Climbing needs no energy  
-   **Answer:** Muscles run mainly on carbohydrates and fats, not protein. *Why:* They measured the nitrogen in their urine to see how much protein they used. It was far too little for the climb. So the energy came mostly from carbohydrates and fats.
+   **Answer:** Muscles run mainly on carbohydrates and fats, not protein. *Why:* The climb needed a lot of energy, but very little protein was used. So the energy must have come mostly from carbohydrates and fats.
 
 ## Applications
 - Paneer, chhena for rasgulla, and cheese are all made by making milk's protein clump.
@@ -685,11 +689,11 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 
 ## Connected maths
 - In Ten-Spoon Foods, dry toor dal is about 2 spoons of protein out of 10. What fraction of the dal is protein? Write it two ways. **2 out of 10, which is the same as 1 out of 5.**. 2 spoons out of 10 is two-tenths. If you put the 10 spoons into 5 equal groups of 2, the protein fills 1 group. So it is also one-fifth. (queues `math.fractions.fractions-of-a-whole.L3`)
-- Kavya, a girl in Class 3, split 200 millilitres of milk with 20 millilitres of lemon juice. She collected 180 millilitres of whey. About how much went into the curds? **About 40 millilitres.**. She started with 200 + 20 = 220 millilitres of liquid. 180 millilitres came out as whey. 220 - 180 = 40. So about 40 millilitres went into the curds. That is much less than the whey. (queues `math.addition-subtraction.word-problems.L3`)
+- 200 millilitres of milk is split with 20 millilitres of lemon juice. 180 millilitres of whey is collected. About how much went into the curds? **About 40 millilitres.**. The liquid at the start was 200 + 20 = 220 millilitres. 180 millilitres came out as whey. 220 - 180 = 40. So about 40 millilitres went into the curds. That is much less than the whey. (queues `math.addition-subtraction.word-problems.L3`)
 - In a made-up test, a cucumber slice weighed 20 grams and dried to 1 gram. A potato slice weighed 20 grams and dried to 4 grams. How much water did each lose? Which food had more that was not water? **The cucumber lost 19 grams. The potato lost 16 grams. The potato had more that was not water: 4 grams instead of 1.**. 20 - 1 = 19 grams of water from the cucumber. 20 - 4 = 16 grams from the potato. What is left is the part that is not water. 4 grams is 4 times as much as 1 gram. (queues `math.weight-capacity.weight.L3`)
-- Meena, a girl in Class 3, has a steel tumbler that holds 200 millilitres. On Monday she drank 6 tumblers. On Tuesday, a hot sports day, she drank 9. How much more did she drink on Tuesday, in millilitres? Why might that be? **600 millilitres more. On a hot sports day she sweated more, so she needed more water.**. Monday: 6 x 200 = 1,200 millilitres. Tuesday: 9 x 200 = 1,800 millilitres. 1,800 - 1,200 = 600. That is 3 more tumblers, because sweat carries water out of the body. (queues `math.multiplication.equal-groups.L3`)
+- Your steel tumbler holds 200 millilitres. On Monday you drink 6 tumblers. On Tuesday, a hot sports day, you drink 9. How much more did you drink on Tuesday, in millilitres? Why might that be? **600 millilitres more. On a hot sports day you sweat more, so you need more water.**. Monday: 6 x 200 = 1,200 millilitres. Tuesday: 9 x 200 = 1,800 millilitres. 1,800 - 1,200 = 600. That is 3 more tumblers, because sweat carries water out of the body. (queues `math.multiplication.equal-groups.L3`)
 - 100 grams of ragi flour has about 340 milligrams of calcium. 100 millilitres of milk has about 120 milligrams. Is the ragi's calcium closer to 2 times or 3 times the milk's? **Closer to 3 times.**. 2 x 120 = 240, and 3 x 120 = 360. 340 is much closer to 360 than to 240. So ragi has nearly 3 times as much calcium as the same amount of milk. (queues `math.number-sense.comparing-ordering.L3`)
-- Kavya, a girl in Class 3, and her brother Arjun, who is 6, play Two-Box Foods with 20 food cards. Arjun finds a second box for 5 cards. Kavya finds a second box for 8. Make a tally chart for both. Who found more, and how many more? What do the numbers suggest about food groups? **Arjun: 5 tallies. Kavya: 8 tallies. Kavya found 3 more. Even Arjun found a second box for 5 of 20 cards, which is a quarter, so many foods fit two boxes.**. Tally in groups of five: Arjun has one group of 5. Kavya has one group of 5 and 3 more. 8 - 5 = 3, so Kavya found 3 more. 5 out of 20 is one-quarter, because 20 divided by 4 is 5. So at least a quarter of these foods belong in two boxes. (queues `math.data.sorting-and-tallies.L3`)
+- Two players play Two-Box Foods with 20 food cards. The first player finds a second box for 5 cards. The second player finds a second box for 8. Make a tally chart for both. Who found more, and how many more? What do the numbers suggest about food groups? **First player: 5 tallies. Second player: 8 tallies. The second player found 3 more. Even the first player found a second box for 5 of 20 cards, which is a quarter, so many foods fit two boxes.**. Tally in groups of five: the first player has one group of 5. The second player has one group of 5 and 3 more. 8 - 5 = 3, so the second player found 3 more. 5 out of 20 is one-quarter, because 20 divided by 4 is 5. So at least a quarter of these foods belong in two boxes. (queues `math.data.sorting-and-tallies.L3`)
 
 ## Song
 Sunlight on My Plate (sci.food.L3): Topic-level song for Food and nutrition L3

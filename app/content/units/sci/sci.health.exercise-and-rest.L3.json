@@ -211,7 +211,7 @@
    "description": "Most people are about half a centimetre to one centimetre taller just after waking up than at bedtime. Most of the height is lost in the first hour or two after getting up. Astronauts in space have no weight pressing down on their backs. Their discs fill up and their backbones straighten a little, so they grow up to about 5 centimetres taller. They shrink back after they return to Earth.",
    "examples": [
     "Measure yourself at bedtime and again just after waking. The morning mark is usually a little higher.",
-    "A sponge squeezed in your hand gets thinner. Put it in water and it swells again."
+    "Your discs work like a sponge. A sponge squeezed in your hand gets thinner. Put it in water and it swells again."
    ],
    "perspectives": [],
    "art": "Two pencil marks on a wall beside a child, one labelled night and one a little higher labelled morning.",
@@ -247,7 +247,7 @@
    "for": "Working muscles do make lactic acid, and lactic acid was for a long time blamed for tiredness.",
    "against": "Lactic acid is cleared from the muscles within about an hour after exercise. The ache the next day comes from tiny injuries in the muscle, which heal and make it stronger.",
    "status": "rejected",
-   "context": "This card is about a common idea that turned out to be wrong: what causes the ache the day after exercise."
+   "context": "Lactic acid is a waste chemical that working muscles make when they use their fuel quickly. For a long time, people blamed it for the ache the day after hard exercise. This card is about whether that is true."
   },
   {
    "claim": "Most tiredness during exercise is made by the brain, not by the muscle.",
@@ -293,7 +293,7 @@
   {
    "q": "Your heart beats your whole life. It rests for a moment between every beat. Is there anything in the world that works without ever resting?",
    "kind": "big",
-   "hint": "Think of day and night, the tide, a plant at night, and your breath."
+   "hint": "Your heart rests for a moment between beats. Day turns into night, and the tide goes out and comes back in. Do these ever stop, or does each one have a rest built in?"
   },
   {
    "q": "When you dream, where are you?",
@@ -562,7 +562,8 @@
        ]
       }
      ],
-     "think": "Squares 17 to 23 are the night. Why does the board go through the whole night, and not stop at bedtime?"
+     "think": "Squares 17 to 23 are the night. Why does the board go through the whole night, and not stop at bedtime?",
+     "parent": "A good answer: sleep is a busy part of the day, and not a gap in it. During the night your body grows and repairs itself, and your brain stores what you learned. So the night squares belong in the game."
     }
    ],
    "setup": [
@@ -1162,7 +1163,8 @@
      "do": "1. Rest the arm for one minute. 2. Try again, timing it. 3. Compare the two times.",
      "say": "Rest your arm for one minute. Then try again. Will you last as long as the first time?",
      "kid": "Rest for one minute. Then hold the bottle out again. Did you last as long?",
-     "think": "After one minute of rest, some strength came back, but maybe not all of it. Where did it come back from?"
+     "think": "After one minute of rest, some strength came back, but maybe not all of it. Where did it come back from?",
+     "parent": "While the arm rested, blood kept flowing through it. The blood brought oxygen, and the muscle used it to refill its quick store of fuel. Let your child guess first. The Tired Peg experiment and the card 'What a working muscle uses up' explain it fully."
     }
    ],
    "setup": [
@@ -1365,7 +1367,8 @@
      "art": "A big circle drawn round a plate, cut into 24 slices, with the sleep hours coloured blue and play hours green.",
      "caption": "2. On day 7, draw one day as a 24-hour circle."
     }
-   ]
+   ],
+   "problem": "Children of your age need about 9 to 12 hours of sleep every night. For one week you will write down how long you really sleep and how you feel each morning. Then you will look for a pattern."
   },
   {
    "id": "a4",
@@ -1437,7 +1440,8 @@
      "art": "A child doing wall push-ups against a wall in a small flat, with marching and toe-touching drawn in small pictures beside.",
      "caption": "2. Sort them. Then try one minute of each kind."
     }
-   ]
+   ],
+   "problem": "There are three kinds of exercise. Stamina exercise lets you keep going for a long time. Strength exercise makes your muscles push or pull hard. Flexibility exercise helps your body bend and stretch. You will sort everyday activities into these three kinds, and then try one of each."
   },
   {
    "id": "a5",
@@ -1482,7 +1486,8 @@
      "do": "Fill in the then and now table together.",
      "say": "What is different now? Do children today move more or less? Sleep more or less?",
      "kid": "Fill in your table: then and now. What changed the most?",
-     "think": "Which habit from long ago would you like to bring back?"
+     "think": "Look at your table. Which habits of your elder gave their body stamina, strength or stretch? Which of these three do children today often miss?",
+     "parent": "A good answer: walking long distances gave stamina, and hard work such as carrying water gave strength. Stretch came from games and from yoga. Many children today sit more, so they often miss stamina and strength."
     }
    ],
    "setup": [
@@ -1636,7 +1641,8 @@
      "art": "A bar chart with three bars for day 1, day 5 and day 10, getting taller.",
      "caption": "3. Practise 5 minutes a day. Chart days 1, 5 and 10."
     }
-   ]
+   ],
+   "problem": "Do your balance and your stretch get better with practice? You will test your balance in tree pose and your stretch in a sit and reach test. Then you will practise for 5 minutes a day and test again, to see whether the numbers change."
   }
  ],
  "challenges": [
@@ -2304,21 +2310,21 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and her cousin the second person are arguing about the tired peg test.",
+     "p": "Two cousins are arguing about why the count falls in the tired peg test.",
      "views": [
       {
-       "who": "The first person",
+       "who": "The first cousin",
        "says": "My fingers slowed down because the muscle ran out of fuel. My count fell, so the muscle was getting empty."
       },
       {
-       "who": "The second person",
+       "who": "The second cousin",
        "says": "Your brain slowed you down to protect your fingers. You could have kept going if you had really tried."
       }
      ],
      "ask": "Who do you agree with? Use your own peg results. Then say one thing the other person has right.",
      "lines": 5,
      "how": "e1",
-     "a": "A strong answer picks a side with evidence. For the first person: the counts fell even though I tried my hardest, and the arm-up test tired faster when less blood came, which points to fuel in the muscle. For the second person: some runners can sprint at the finish, so the brain may hold some strength back. Many scientists think both happen.",
+     "a": "A strong answer picks a side with evidence. For the first cousin: the counts fell even though I tried my hardest, and the arm-up test tired faster when less blood came, which points to fuel in the muscle. For the second cousin: some runners can sprint at the finish, so the brain may hold some strength back. Many scientists think both happen.",
      "why": "Scientists still argue about this. A good answer uses evidence and is fair to the other side."
     },
     {
@@ -2470,10 +2476,10 @@
     },
     {
      "t": "perspective",
-     "p": "The first person wants to stay up late to practise the veena for a concert. Her aunt Shalini thinks she should go to bed. Her friend the second person says she should do both, a little.",
+     "p": "A girl wants to stay up late to practise the veena for a concert. Her aunt Shalini thinks she should go to bed. Her friend thinks she should do both, a little.",
      "views": [
       {
-       "who": "The first person",
+       "who": "The girl",
        "says": "More practice means I will play better. Every hour counts."
       },
       {
@@ -2481,7 +2487,7 @@
        "says": "Sleep helps your brain store what you practised. A tired player makes more mistakes."
       },
       {
-       "who": "The second person",
+       "who": "Her friend",
        "says": "Practise slowly for a short time, then sleep. You need both."
       }
      ],

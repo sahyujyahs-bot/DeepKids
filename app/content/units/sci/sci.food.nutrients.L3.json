@@ -151,8 +151,8 @@
    "definition": "Almost every food from a plant or an animal contains several nutrients at once. Only a few, like sugar, salt and oil, are nearly one nutrient.",
    "description": "Scientists find out what is in a food by taking it apart in a laboratory. In India, the National Institute of Nutrition in Hyderabad has done this for hundreds of Indian foods. Their numbers surprise most people. Dry toor dal is about one-fifth protein, but more than half carbohydrate. Cooked rice is about two-thirds water. Milk is almost nine-tenths water. A cucumber is nearly all water.",
    "examples": [
-    "Out of every 10 spoons of dry toor dal: about 6 spoons carbohydrate, 2 protein, 1 fibre and 1 water.",
-    "Out of every 10 spoons of milk: about 9 spoons water. The last spoon is shared by milk sugar, fat, protein and minerals."
+    "Imagine splitting 10 spoons of dry toor dal into the parts it is made of. About 6 spoons would be carbohydrate, 2 would be protein, 1 would be fibre and 1 would be water.",
+    "Imagine splitting 10 spoons of milk into the parts it is made of. About 9 spoons would be water. The last spoon would be shared by milk sugar, fat, protein and minerals."
    ],
    "perspectives": [],
    "art": "Two rows of ten spoons: one row for toor dal, coloured six yellow, two red, one green and one blue; one row for milk, nine blue and one striped.",
@@ -175,7 +175,7 @@
    "concept": "Proteins: building and mending the body",
    "status": "defined",
    "definition": "Proteins are long chains of small pieces called amino acids. Your body uses them to build and mend itself.",
-   "description": "Your muscles, skin, hair and nails are made mostly of protein. So are the tiny workers inside every cell that break food down. When you eat dal or curd, your body takes their proteins apart into amino acids. Then it joins those amino acids into its own proteins. Children need protein every day, because they are growing. In milk, most of the protein is one called casein. When milk becomes acidic, casein clumps together. That is why lemon juice makes milk curdle.",
+   "description": "Your muscles, skin, hair and nails are made mostly of protein. So are enzymes, the tiny workers in your body that break food down into smaller pieces. When you eat dal or curd, your body takes their proteins apart into amino acids. Then it joins those amino acids into its own proteins. Children need protein every day, because they are growing. In milk, most of the protein is one called casein. When milk becomes acidic, casein clumps together. That is why lemon juice makes milk curdle.",
    "examples": [
     "When you scrape your knee, new skin grows over it. That new skin is built from protein.",
     "Rice and dal eaten together give a better mix of amino acids than either one alone."
@@ -239,7 +239,7 @@
   {
    "concept": "Is fat bad for you?",
    "status": "debated",
-   "description": "For about 40 years, many doctors told people to eat as little fat as possible, to keep their hearts healthy. Today most scientists agree the body needs some fat, and the kind of fat matters. They still argue about some fats, like ghee and coconut oil. Most agree that trans fats, found in some reused frying oils and some packaged snacks, are harmful.",
+   "description": "For about 40 years, many doctors told people to eat as little fat as possible, to keep their hearts healthy. Today most scientists agree the body needs some fat, and the kind of fat matters. They still argue about some fats, like ghee and coconut oil. Most agree that trans fats are harmful. Trans fats form when oil is heated again and again for frying, and they are in some packaged snacks.",
    "examples": [
     "Peanuts, til and fish give fats that most scientists agree are good for the heart.",
     "Oil used again and again for frying vadas can form harmful fats."
@@ -287,7 +287,7 @@
    "for": "Dal is one of the best sources of protein for vegetarian families. It has much more protein than rice or wheat.",
    "against": "Measured in a laboratory, dry toor dal is about one-fifth protein and more than half carbohydrate. It is in the protein box because it gives more protein than most plant foods, not because it is mostly protein.",
    "status": "rejected",
-   "context": "This card looks at what it means to call dal a protein food."
+   "context": "A food group names the nutrient that a food gives most, or is best known for. Dal sits in the 'protein' box. This card asks whether that means dal is mostly protein."
   },
   {
    "claim": "Muscles burn their own protein to do work, so hard workers need mostly protein.",
@@ -295,7 +295,7 @@
    "for": "Muscles are made of protein, so it seemed natural that working muscles use up protein.",
    "against": "Fick and Wislicenus climbed a mountain in 1865 and measured the protein their bodies broke down. It could supply only a small part of the energy they used. The rest came from carbohydrates and fats.",
    "status": "rejected",
-   "context": "This card is about an old idea of a famous scientist, and how it was tested."
+   "context": "In the 1840s, a famous German chemist named Justus von Liebig taught that working muscles burn up their own protein. So people thought that hard workers needed mostly protein. This card is about how two professors tested that idea on themselves."
   },
   {
    "claim": "Water is not food, so it is not a nutrient.",
@@ -303,7 +303,7 @@
    "for": "Water has no energy in it and does not fill you up like a meal.",
    "against": "Your body uses water in every cell, in blood, sweat and urine. You need more of it each day than any other nutrient, and you would fall ill within days without it. So scientists count it as a nutrient.",
    "status": "rejected",
-   "context": "This card asks whether water should count as a nutrient."
+   "context": "A nutrient is a part of food and drink that the body needs to live, grow and stay well. This card asks whether water counts as a nutrient."
   },
   {
    "claim": "The more vitamins you take, the healthier you are.",
@@ -617,8 +617,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Cut out the cards. 2. Lay the spoon cards face up. 3. Read out the colour key: blue water, yellow carbohydrate, red protein, orange fat, green fibre.",
-     "say": "Each spoon card shows what a food would be if we split it into 10 spoons. Your job is to match each food to its card. These are new foods, not the ones from Ten-Spoon Foods.",
-     "kid": "Each card shows a food split into 10 spoons. Blue is water. Yellow is carbohydrate. Red is protein. Orange is fat. Match the foods.",
+     "say": "Each spoon card shows what a food is made of. Imagine splitting the food into its parts and pouring them into 10 spoons. Each colour of spoon stands for one part. Your job is to match each food to its card. These are new foods, not the ones from Ten-Spoon Foods.",
+     "kid": "Each card shows what a food is made of, as 10 spoons. Blue is water. Yellow is carbohydrate. Red is protein. Orange is fat. Match the foods.",
      "context": "This is the first step of Ten-Spoon Match. It is a matching game where you work out which food has which mix of nutrients."
     },
     {
@@ -1256,6 +1256,7 @@
   {
    "id": "e1",
    "title": "Splitting Milk: which kitchen liquids curdle it?",
+   "problem": "Milk looks like one smooth white liquid. But it is really a mix of water, protein, fat, milk sugar and minerals. Some liquids can make the protein in hot milk clump into white lumps. The lumps are called curds, and the thin liquid left behind is called whey. You will test six kitchen liquids to see which ones do this.",
    "mins": 35,
    "days": 1,
    "question": "Which liquids from our kitchen make hot milk split into curds and whey, and which do not?",
@@ -1476,6 +1477,7 @@
   {
    "id": "e2",
    "title": "Sun-Dried Slices: how much of a vegetable is water?",
+   "problem": "When a vegetable dries in the sun, the water in it goes into the air. Only the rest stays behind. So the more a slice shrinks, the more of it was water. In this test you dry slices of four vegetables and a piece of chapati. You see which one shrinks the most.",
    "mins": 25,
    "days": 3,
    "question": "Which food shrinks the most when it dries in the sun: cucumber, tomato, potato, carrot or chapati? What does that tell us about the water in them?",
@@ -1642,6 +1644,7 @@
   {
    "id": "e3",
    "title": "Hidden Minerals: what is left when clear water dries?",
+   "problem": "Clear water looks empty, but it can carry things that are dissolved in it. Dissolved means mixed in so finely that you cannot see it. When the water dries into the air, anything dissolved in it stays behind on the plate. In this test you dry five clear liquids to see what each one leaves behind.",
    "mins": 25,
    "days": 2,
    "question": "Clear water looks empty. Does it leave anything behind when it dries?",
@@ -1807,6 +1810,7 @@
   {
    "id": "a1",
    "title": "Ten-Spoon Foods: guess what a food is made of",
+   "problem": "Every food is made of parts such as water, carbohydrate, protein and fat. Imagine splitting a food into its parts and pouring them into 10 equal spoons. A part that makes up most of the food fills most of the spoons. A small part fills only one spoon. In this activity you guess how many spoons each part of a food would fill. Then you check your guess against what scientists measured.",
    "mins": 12,
    "days": 1,
    "materials": [
@@ -1841,8 +1845,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Lay the six paper slips in a row. 2. Put the cucumber and the 10 spoons in front of your child.",
-     "say": "Suppose we could take this cucumber apart into its nutrients, and fill 10 spoons. How many spoons would be water? How many carbohydrate, protein or fat? Put the spoons on the slips.",
-     "kid": "Suppose you took a cucumber apart into its nutrients and filled 10 spoons. Put the spoons on the slips. How many are water?",
+     "say": "Imagine we could split this cucumber into everything it is made of. Then imagine we pour all of those parts into 10 spoons. A big part fills many spoons, and a small part fills only one. How many spoons would be water? How many would be carbohydrate, protein or fat? Put the spoons on the slips.",
+     "kid": "Imagine splitting a cucumber into its parts and filling 10 spoons. Put the spoons on the slips. How many are water?",
      "context": "This is the first step of Ten-Spoon Foods. You guess what five everyday foods are made of, and then find out."
     },
     {

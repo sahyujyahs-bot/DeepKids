@@ -3,7 +3,7 @@
 
 **Summary.** Press a ball of dough and it stays flat. Squeeze a sponge and it springs back. Press a biscuit and it breaks. A force is a push or a pull. It can change a thing's shape by squashing, stretching, twisting or bending it. Forces also start, stop, speed up, slow down and turn moving things. A bouncing ball is squashed for a moment, too fast to see. Even a steel table changes shape a tiny bit when you press it. Pushes and pulls also shape your bones, trees and the Himalayas.
 
-**Intro.** *Press your thumb on a table. Did the table change shape? You can't see any change. But it did bend, a tiny bit. Scientists can show it by bouncing a laser beam off a mirror lying on the table.* Get a ball of chapati dough. Squash it, stretch it, twist it and bend it. Each push or pull changes its shape, and the new shape stays. Now squeeze a sponge and let go. It springs back. Now press a biscuit. It cracks. The same push did three different things. In this unit you find out why, and how even hard things change shape when they are pushed.
+**Intro.** *Press your thumb on a table. Did the table change shape? You can't see any change. But it did bend, a tiny bit. Scientists can show it. They lay a mirror on the table and bounce a laser beam off it onto a far wall. When the table bends, the mirror tilts a tiny bit, and the dot of light on the wall moves.* Get a ball of chapati dough. Squash it, stretch it, twist it and bend it. Each push or pull changes its shape, and the new shape stays. Now squeeze a sponge and let go. It springs back. Now press a biscuit. It cracks. The same push did three different things. In this unit you find out why, and how even hard things change shape when they are pushed.
 
 ## Learning outcomes
 0. I can say that a force can change a thing's shape, and show four ways: squashing, stretching, twisting and bending.
@@ -33,7 +33,7 @@
 - **Bounce**: When a moving thing hits something, squashes for a moment, then springs back and moves away. *e.g.* A tennis ball hitting the floor squashes a little flatter for a moment, then jumps back up.
 - **Fold**: A sharp bend pressed into a sheet. Folds can make a thin sheet much stiffer. *e.g.* A paper fan. A wavy tin roof sheet. The wavy middle layer of a cardboard box.
 - **Atom**: The tiny building block that everything is made of. Atoms are far too small to see, even with an ordinary microscope. *e.g.* Clay, steel, your bones and the air are all made of atoms.
-- **Bond**: The hold between two atoms. It acts a little like a tiny spring. Push the atoms closer and it pushes back. Pull them apart and it pulls back. *e.g.* When you bend a steel spoon a little, you are pulling and pushing on more of these tiny holds than anyone could count.
+- **Bond**: The hold between two atoms. It acts a little like a tiny spring. Push the atoms closer and it pushes back. Pull them apart and it pulls back. *e.g.* When you bend a steel spoon a little, you push on very many of these tiny holds on one side. You pull on very many on the other side.
 - **Bone**: The hard, living parts inside your body that hold you up. Bones are alive, and they slowly change shape to match the pushes and pulls on them. *e.g.* The bones in a tennis player's playing arm grow thicker than in the other arm.
 - **Tectonic plate**: A giant slab of the Earth's rocky outer layer. The plates move very slowly, about as fast as your fingernails grow. *e.g.* India sits on a plate that is slowly pushing into Asia. That push built the Himalayas.
 - **Gravitational wave**: A ripple in space itself. As it passes, it stretches and squashes space by a tiny amount. *e.g.* In 2015, scientists measured a gravitational wave from two black holes crashing together far away.
@@ -137,7 +137,7 @@ Io is one of Jupiter's moons. Jupiter's huge gravity stretches and squeezes Io a
 ### The spaghetti puzzle · *defined*
 **Definition:** Bend a stick of dry spaghetti until it snaps, and it nearly always breaks into three or more pieces, not two.
 
-The famous physicist Richard Feynman once spent an evening trying to snap spaghetti into just two pieces. He could not. In 2005, two French scientists, Basile Audoly and Sébastien Neukirch, explained why. When the first break happens, the two halves spring back. That sends a wave of extra bending racing along each half, and it snaps them again. In 2018, a team at MIT in America found a trick. Twist the spaghetti about three-quarters of a turn or more first, then bend it slowly. Then it can snap into just two pieces. So a twist changes how a bend breaks.
+The famous physicist Richard Feynman once spent an evening trying to snap spaghetti into just two pieces. He could not. In 2005, two French scientists, Basile Audoly and Sébastien Neukirch, explained why. When the first break happens, the two halves spring back. That sends a wave of extra bending racing along each half, and it snaps them again. In 2018, a team at MIT in America found a trick. Twist the spaghetti about three-quarters of a turn or more first, then bend it slowly. Then it can snap into just two pieces. So twisting the spaghetti first changes how it breaks when you bend it.
 - e.g. Snap dry spaghetti, a thin dry stick or dry noodles. Count the pieces.
 - e.g. Then try twisting it about three-quarters of a turn before bending, and see what happens.
 
@@ -178,7 +178,7 @@ The famous physicist Richard Feynman once spent an evening trying to snap spaghe
 ## Roots
 We have been learning how forces squash, stretch, bend and turn things. Now we ask what this tells us about hard things, and about touching.
 
-**Deep truth.** In the wet ball prints test, a wet ball dropped on paper leaves a print much bigger than the dot it leaves when it only rests on the paper. The ball squashed flat on the floor, then sprang back up. The floor squashed too, far too little to see. So every bounce changes the shape of both things, even a stone floor.  
+**Deep truth.** In the wet ball prints test, a wet ball dropped on paper leaves a wet print. The print is much bigger than the dot that the ball leaves when it only rests on the paper. The ball squashed flat on the floor, then sprang back up. The floor squashed too, far too little to see. So every bounce changes the shape of both things, even a stone floor.  
 *Habit it breaks:* We sort things into soft ones that change shape and hard ones that don't. But every material gives a little when pushed. Hard and soft differ only in how much they give.  
 *Evidence:* In the wet ball prints test, the bounce left a wet circle much bigger than the dot the resting ball left, so the ball squashed to push off the floor. In the extra laser and mirror activity, a laser beam bounced off a mirror on a table makes a dot on the wall, and the dot can move when you press the table. The movement is tiny, but it shows the table bends too.
 
@@ -186,7 +186,7 @@ We have been learning how forces squash, stretch, bend and turn things. Now we a
 - *what is life:* Trees that sway in the wind grow thicker trunks. Living things respond to pushes and pulls by growing stronger where they feel them.
 - *what is this world:* Mountains fold and the spinning Earth bulges. Even the hardest rock changes shape when it is pushed.
 
-When you press a table, your thumb squashes a little, and so does the table. The push comes from both of them changing shape together. It is always shared: the table pushes your thumb exactly as hard as your thumb pushes the table. This means nothing can touch another thing without being touched back, and changed a little. In that way, things are less separate than they look. Each thing is partly shaped by everything that presses on it.
+When you press a table, your thumb squashes a little, and so does the table. The push comes from both of them changing shape together. It is always shared: the table pushes your thumb exactly as hard as your thumb pushes the table. This means nothing can push on another thing without being pushed back. Both of them change shape a little. Each thing is partly shaped by everything that presses on it.
 
 - **Tao Te Ching 76:** A living plant is soft and bendy. A dead one is dry and snaps. So the stiff and hard break, and the soft and bending last. (In this unit, a bamboo bends in the wind and springs back, but a dry stick or a papad snaps. Things that can give a little under a force often last longer than things that cannot.)
 - **Heraclitus, fragment DK B91:** You cannot step into the same river twice, because new water is always flowing past. (A steel table, a mountain and your bones all change shape under every push, mostly too slowly or too little to see. Heraclitus saw change even in things that look fixed.)
@@ -292,6 +292,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent says:* Before we test it, everyone guess what will happen. Then let's try it.  
   *Child mode:* A TEST IT card! Guess first. Then do the test. Were you right?
   - Ask: The paper clip sprang back after a small bend, but stayed bent after a big one. Why? (good: A small force lets it spring back.; A big force changes it for good.; A big bend makes rows of atoms inside slide to new places.)
+  - Note: Yes, it can. A paper clip springs back after a small bend, but stays bent after a big bend. What decides it is how big the force is.
   - Think: Can the same thing be elastic and plastic? What decides which one it is?
 - **s5 (2 min)**  
   *Parent does:* 1. Add up the points to find the winner. 2. Look at the four mats together.  
@@ -383,6 +384,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Child mode:* Say or write three things. What you think now. What you saw. Why it happened.
   - Note: A good answer sounds like this. What I think: different materials react to the same force in different ways. What I saw: the biscuit broke, the dough stayed squashed, and the sponge sprang back. Why: the tiny parts inside are held together differently. In dough they slide, in a sponge the thin walls spring back, and in a biscuit they crack apart.
 ### e3 · Wet Ball Prints: catching a bounce (22 min)
+- **problem:** When a ball sits on the floor, only a small patch of it touches. If the ball squashes flat when it bounces, a bigger patch touches the floor for a moment. A wet ball leaves a wet print on paper, so the print shows how big that patch was. In this test you measure the prints, to find out whether a bounce really squashes the ball.
 - **question:** Does a bouncing ball really squash? Does a higher drop squash it more?
 - **predict:** Before you test, guess. Will the wet circle from shoulder height be bigger, smaller, or the same as from knee height? Why do you think so?
 - **fair test:** Use the same ball, wet the same way each time, on the same kind of paper. Change only the drop height. Do each height 3 times, because one try can be a fluke. Then put the three widths in order and take the middle one.
@@ -406,8 +408,8 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent does:* Ask your child what a bounce is. Wait for their idea before saying anything.  
   *Parent says:* When the ball was resting, it touched only a small dot of the paper. In the bounce, the wet circle was much bigger. What happened to the ball when it hit the floor? What sent it back up?  
   *Child mode:* The bounce made a much bigger circle than the dot. What happened to the ball? What sent it back up?
-  - Note: A good answer: the floor pushed up and squashed the ball flatter for a moment. Then the ball sprang back to round, pushing on the floor, and the floor pushed it back up. One push changed both its shape and its direction.
-  - Think: Tennis players' rackets also squash when they hit the ball. Why might that help?
+  - Note: A good answer: the floor pushed up and squashed the ball flatter for a moment. Then the ball sprang back to round, pushing on the floor, and the floor pushed it back up. One push changed both its shape and its direction. A bigger wet circle from a higher drop means a flatter squash, and a flatter squash needs a harder push. A ball dropped from higher hits faster. So the floor has to push harder to stop it and send it back up.
+  - Think: The wet circle was bigger from a higher drop. What does that tell you about how hard the floor pushed?
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. Does a bouncing ball squash? What did you see that shows it? Why do you think it happens?  
@@ -455,8 +457,10 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent does:* Look around the home for tubes, rods and bars: a broom handle, a curtain rod, a steel pipe, a bamboo stick.  
   *Parent says:* Can you spot tubes and pipes near us? Hollow tubes are hard to bend for how light they are.  
   *Child mode:* Look for tubes, pipes and sticks. A tube is hard to bend. Can you find one?
+  - Note: A tube is stiff for how light it is. So a hollow bone is strong without being heavy, which makes it easier to walk and run.
   - Think: Your leg bones are tubes too. Why might a tube be a good shape for a bone?
 ### a3 · Wring It, Twist It, Make a Rope (20 min)
+- **problem:** A loose strand of cotton wool pulls apart easily. Yet cotton thread and rope are made of short fibres, such as cotton or coconut husk, and they are strong. The fibres are twisted together. In this activity you find out whether twisting makes the same amount of cotton stronger.
 - **record:** Write how many coins the loose strand held, and how many the twisted wick held.
 - **s1 (4 min)**  
   *Parent does:* 1. Soak the towel and lift it out. 2. Your child wrings it out over the bucket, hands turning opposite ways.  
@@ -479,6 +483,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Child mode:* Say or write three things. What you think now. What you saw. Why it happened.
   - Note: A good answer sounds like this. What I think: twisting cotton makes it much stronger. What I saw: the loose strand pulled apart, but the twisted wick held several coins. Why: the twist squeezes the fibres together, so they grip each other and share the pull.
 ### a4 · The Spaghetti Puzzle (10 min)
+- **problem:** Dry spaghetti is brittle, so it snaps when you bend it too far. In this activity you bend a stick until it snaps, and count the pieces. Almost nobody gets just two. The famous scientist Richard Feynman could not make it break into two either. You will find out why.
 - **safety:** Bend the spaghetti inside a bag or under a towel, and keep it away from eyes. Small sharp bits can fly.
 - **record:** Write how many pieces each stick broke into. Draw the best break.
 - **s1 (4 min) · grown-up needed**  
@@ -494,9 +499,10 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent does:* Try the trick found at MIT in 2018. Hold both ends and twist the spaghetti about three-quarters of a turn. Then bend it slowly.  
   *Parent says:* Scientists found a twist can change how a bend breaks. Can we get two pieces? It's hard. They used a machine.  
   *Child mode:* Now twist it about three-quarters of a turn. Then bend it slowly. Two pieces? It's tricky. Keep trying!
-  - Note: This trick is hard by hand. The scientists twisted the spaghetti about three-quarters of a turn or more before bending it, and used a machine to bend it slowly. If it doesn't work, that's fine. The point is that twisting changes how something breaks.
-  - Think: Scientists solved this puzzle only in 2005. What other kitchen puzzles might nobody have solved yet?
+  - Note: This trick is hard by hand. The scientists twisted the spaghetti about three-quarters of a turn or more before bending it, and used a machine to bend it slowly. If it doesn't work, that's fine. The point is that twisting changes how something breaks. As for the Think question, a small bend springs back, so dry spaghetti is elastic for small bends. It snaps if you bend it too far, so it is also brittle.
+  - Think: When you bent the spaghetti only a little, did it spring back or stay bent? What does that tell you about it?
 ### a5 · Is the Table Bending? (a laser and a mirror) (10 min)
+- **problem:** A hard table does not look as if it changes shape when you press it. But it bends a tiny bit, too little to see. A mirror lying on the table tilts a tiny bit when the table bends. A laser beam bounced off the mirror makes a dot on a far wall. On the far wall, the tiny tilt becomes a movement you can see. In this activity you watch the dot to find out whether the table bends.
 - **safety:** Only a grown-up holds the laser. Never point it at anyone's eyes, and never look into the beam or its reflection. Use a toy-strength laser pointer.
 - **record:** Draw the table, the mirror, the beam and the dot on the wall. Mark how far the dot moved.
 - **s1 (4 min) · grown-up needed**  
@@ -514,8 +520,10 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent does:* Talk about what this means.  
   *Parent says:* Even hard things change shape when pushed. Steel bridges sag when trucks cross. Tall buildings sway in the wind. The change is just too small to see.  
   *Child mode:* Even a hard table bends a tiny bit. So do bridges and buildings. It's just too small to see!
+  - Note: Yes. The floor bends a tiny bit under your weight, too little to see, in the same way as the table.
   - Think: If even a table bends, does the floor bend when you stand on it?
 ### a6 · Make Mountains, Squash a Planet (20 min)
+- **problem:** Forces also make mountains and change the shape of the Earth. In the first part, a towel stands for the old sea floor and a wall stands for Asia. You see how a push folds rock into mountains. In the second part, you make a small paper Earth and spin it, to see how spinning changes its shape.
 - **record:** Draw the folded towel as mountains. Draw the paper globe before and while spinning.
 - **s1 (8 min)**  
   *Parent does:* 1. Lay the towel flat on the floor, one end against a wall. 2. Put a small object, like a toy shell or a button, on the towel. 3. Your child pushes the other end slowly towards the wall.  
@@ -532,7 +540,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent says:* This is the Earth. Spin it fast. What happens to its shape?  
   *Child mode:* Make a hole in the middle of each strip. Cross the strips and push the pencil through the holes. Tape the four ends to the pencil near the bottom. Spin the pencil fast between your hands. What happens to the shape?
   - Note: As the strips spin, they flatten at the top and bottom and bulge at the middle. The real Earth spins too. It is about 43 kilometres wider across the equator than from pole to pole. The strips must be free to slide down the pencil at the top, or they can't flatten. If the strips hardly change, spin faster, or use thinner paper. The change is small, just as the real Earth is only a little squashed. A small bulge is a fair result.
-  - Think: The spinning Earth is squashed. Is anything in space a perfect ball?
+  - Think: Which part of your paper Earth bulged out when it spun, and which parts flattened? The real Earth does the same.
 
 ## Projects
 ### p1 · Am I Taller in the Morning? (30 min, 3 days)
@@ -593,6 +601,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent does:* Read the usual solutions and the creative ideas together. Then invent a new shape, build it with a new sheet and count the coins.  
   *Parent says:* Here's what engineers usually do, and some creative ideas. Can you invent something better?  
   *Child mode:* Look at the usual ways and the creative ideas. Invent your own shape. Build it and count the coins. Can you beat them?
+  - Note: Rolling the paper makes a tube. A tube is hard to bend for how light it is, just like the rolled tubes in the bridge. A flat sheet has no such shape, so it flops.
   - Think: Why can a rolled-up newspaper stand up on its own, when a flat sheet flops over?
 ### c2 · Save the Egg (30 min)
 - **problem:** Drop a raw egg from 1 metre onto the floor without breaking it. You must protect it with things that squash, so the egg doesn't have to.

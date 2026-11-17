@@ -79,7 +79,7 @@
   {
    "term": "Lift (elevator)",
    "meaning": "A small room that carries people up and down a tall building. In some countries it is called an elevator.",
-   "example": "The lift in a hospital or a block of flats.",
+   "example": "You may ride in a lift in a hospital or in a block of flats.",
    "art": "A lift with its doors open, a family inside, buttons with floor numbers."
   },
   {
@@ -154,7 +154,7 @@
    "concept": "Weight is the pull of gravity",
    "status": "defined",
    "definition": "Weight is the pull of the Earth's gravity on a thing. It is a force, so it is measured in newtons.",
-   "description": "Gravity is the force by which everything attracts everything else. The Earth is enormous, so its pull is strong. It pulls on every part of you, all the time, towards its centre. Add up the pull on all of you, and you get your weight. Because the pull is towards the centre, 'down' is not the same direction everywhere. For a child in Brazil, far round the Earth from India, down points a very different way. It still points to the centre of the Earth. The unit on measuring forces shows how a forcemeter works. This unit is about what it measures.",
+   "description": "Gravity is the force by which everything attracts everything else. The Earth is enormous, so its pull is strong. It pulls on every part of you, all the time, towards its centre. Add up the pull on all of you, and you get your weight. Because the pull is towards the centre, 'down' is not the same direction everywhere. For a child in Brazil, far round the Earth from India, down points a very different way. It still points to the centre of the Earth. How a forcemeter works is explained in the unit on measuring forces. This unit is about what a forcemeter measures.",
    "examples": [
     "A mango drops from the tree because the Earth pulls the mango.",
     "A heavy school bag pulls down on your shoulders.",
@@ -259,7 +259,7 @@
    "definition": "Water pushes up on anything that is in it. This upward push is called upthrust. It makes things seem lighter in water, though gravity pulls them just as hard.",
    "description": "Hang a stone from a forcemeter. Then lower it into a bucket of water. The reading drops. Has the stone lost any of its mass? No. Lift it out and the reading goes back. Has gravity got weaker? No. The water is pushing up on the stone, so the spring has less to hold. The more of the stone that goes under the water, the bigger the push. This was worked out more than 2,200 years ago, by Archimedes, a thinker in Syracuse, a Greek city on the island of Sicily. In a pool, the same thing happens to you. If you breathe in and spread out, the water's push can hold up all of your weight. That is floating.",
    "examples": [
-    "A full mug feels much heavier once you lift it out of a bucket of water than while it is still under the water.",
+    "A mug full of water feels light while it is under the water in a bucket. It feels much heavier as soon as you lift it out.",
     "A big stone is easy to lift under water in a river, and suddenly heavy as it comes out.",
     "Huge whales can grow so big because the sea holds up their weight."
    ],
@@ -461,7 +461,7 @@
   {
    "concept": "Why gravity pulls a heavy thing harder",
    "status": "idea",
-   "description": "Mass does two jobs. It is what gravity pulls on. A big mass gets a big pull. Mass is also what makes a thing hard to push. A full almirah is harder to get moving than an empty one. Here is the strange part. These two kinds of mass are always exactly equal, for every thing ever tested. Scientists have checked this very carefully. In 2022, a satellite called MICROSCOPE finished testing it more precisely than ever before. No difference was found. Nobody knows why the two are equal. Einstein did not try to explain it. He made it the starting point of his whole picture of gravity. The Things fall unit shows one result of this: heavy and light things fall together.",
+   "description": "Mass does two jobs. It is what gravity pulls on. A big mass gets a big pull. Mass is also what makes a thing hard to push. A full almirah is harder to get moving than an empty one. Here is the strange part. These two kinds of mass are always exactly equal, for every thing ever tested. Scientists have checked this very carefully. In 2022, a satellite called MICROSCOPE finished testing it more precisely than ever before. No difference was found. Nobody knows why the two are equal. Einstein did not try to explain it. He made it the starting point of his whole picture of gravity. The unit on falling shows one result of this: heavy and light things fall together.",
    "examples": [
     "A full trolley needs a bigger push to start, and it also weighs more.",
     "A heavy cricket ball and a light tennis ball, dropped together, land together."
@@ -697,7 +697,7 @@
   {
    "q": "You feel your weight only through the push of the floor, a chair or the water. If nothing touched you at all, how could you tell that you had weight?",
    "kind": "deep",
-   "hint": "Think about the leaking bottle that stopped squirting while it fell, and the astronauts floating in the space station. What could you measure instead of a push?"
+   "hint": "Think about the leaking bottle that stopped squirting while it fell, and the astronauts floating in the space station. You could not feel any weight while falling. But you would still speed up towards the Earth. How could you tell that gravity was pulling you?"
   },
   {
    "q": "The Sanskrit word guru means heavy, and a guru is a teacher. The Latin word gravitas means weight, and a person with gravitas makes people listen. Why do people link heaviness with wisdom?",
@@ -707,7 +707,7 @@
   {
    "q": "Gravity holds the whole universe together, but it never lets you fly. Is gravity good or bad?",
    "kind": "big",
-   "hint": "The Gravity song for this topic asks this exact question. What would happen if gravity switched off for one minute?"
+   "hint": "What would happen if gravity switched off for one minute?"
   },
   {
    "q": "Most of your mass is really the energy of tiny particles moving inside your atoms. So are you made of matter, or of energy?",
@@ -1455,6 +1455,7 @@
      "do": "Talk about swimming pools and floating. If you can, feel it yourself. Lift a full mug of water while it is under the water in a bucket. Then lift it out into the air.",
      "say": "When you float in a pool, the water does the same thing to you. The Earth still pulls you. The water pushes up on every part of you that is under it.",
      "kid": "In a pool, water pushes up on you too. The Earth still pulls you just as hard. The water holds you up. That is why you feel light.",
+     "parent": "Expected answer: the water can only push up on the part of you that is under it. Arms held out in the air get no push, so the water holds up less of you.",
      "think": "In a pool, why might lifting your arms out of the water make you sink a little?"
     },
     {
@@ -1640,6 +1641,7 @@
      "do": "Talk about other places you feel heavy or light. Think of a swing, a giant wheel at a mela, or a bus going over a bump.",
      "say": "Where else have you felt heavy for a moment, or floaty? What was speeding up or slowing down?",
      "kid": "Where else do you feel heavy, or floaty? On a swing? On a giant wheel? Was something speeding up or slowing down?",
+     "parent": "Expected answer: gravity has not let go of you. At the top of the swing, the seat pushes up on you less than usual, so you feel lighter.",
      "think": "At the very top of a swing, you feel floaty. Has gravity let go of you, or has something else changed?"
     },
     {
@@ -1796,6 +1798,7 @@
      "do": "Talk about astronauts in the space station.",
      "say": "Astronauts in the space station are like the water in our falling bottle. They and the station are falling together, all the time. So nothing presses on anything. That's why they float.",
      "kid": "Astronauts are like the water in the falling bottle. They and their station fall together. Nothing presses on anything. So they float!",
+     "parent": "Expected answer: zero. If you and the scale fall together, you do not press on it at all.",
      "think": "If you stood on a bathroom scale and both of you fell together, what would the scale show?"
     },
     {
@@ -1865,6 +1868,7 @@
     }
    ],
    "record": "Draw yourself standing, sitting and lying down. Draw an arrow for gravity's pull and an arrow for each push holding you up.",
+   "problem": "Gravity pulls you down all day, yet you do not sink into the floor. Something must be pushing you up. In this activity you press on a wall, a cushion and water to feel how each one pushes back. That push is called the support force.",
    "context": "This is a hands-on activity about the support force: the push from floors, chairs, water and hands that holds us up against gravity.",
    "flow": [
     {
@@ -1917,7 +1921,8 @@
      "do": "Lie down flat on the floor together, and feel where the floor pushes on you.",
      "say": "Lie still. Feel the floor pushing up on your back, your head and your heels. It has been doing that all day, every day.",
      "kid": "Lie flat on the floor. Feel where the floor pushes on you. It holds you up all day!",
-     "think": "Gravity pulls on every part of you. But the floor pushes only where you touch it. Lying down, it pushes on much more of you. Is that why lying down feels so restful?"
+     "parent": "Expected answer: the same total push is spread over much more of your body, so each part of you feels less push. That is why lying down feels easier than standing.",
+     "think": "When you stand, the floor pushes on only your feet. When you lie down, how does the push on each part of you change?"
     }
    ],
    "setup": [
@@ -1959,6 +1964,7 @@
     }
    ],
    "record": "Write the two numbers for each test, and add them up. Does the total change?",
+   "problem": "A bathroom scale does not measure gravity directly. It measures how hard you press down on it. In this activity you stand with one foot on each of two scales. You see how the two numbers share your weight when you lean, lift a leg or hold a heavy bag.",
    "context": "In this activity you stand with one foot on each of two bathroom scales. You lean, lift a leg and hold a heavy bag, and watch how the two scales share your weight.",
    "flow": [
     {
@@ -2001,6 +2007,7 @@
      "do": "Try tree pose on one scale: stand on one leg, with the other foot resting on your knee.",
      "say": "In tree pose, one foot holds up all of you. Can you feel your weight move as you wobble?",
      "kid": "Do tree pose on one scale. Watch the number as you wobble. Does it jump about?",
+     "parent": "Expected answer: when you wobble, your body speeds up and slows down a little, so the push on the scale goes up and down. When you are perfectly still, the push is steady and equals your weight.",
      "think": "When you wobble, the number jumps. When you are perfectly still, it settles. Why?"
     }
    ],
@@ -2039,6 +2046,7 @@
     }
    ],
    "record": "Draw an astronaut running on a treadmill in space, with the stretchy cords pulling her down.",
+   "problem": "In the space station, astronauts and the station fall together, so nothing presses their feet onto the floor. In this play you act out floating. Then you act out how Sunita Williams ran a marathon there, held down onto a treadmill by stretchy cords.",
    "context": "This is a short play about life in the International Space Station, where astronauts float because they are falling all the time. It includes Sunita Williams, who ran a marathon in space in 2007.",
    "flow": [
     {
@@ -2074,6 +2082,7 @@
      "do": "Talk about why astronauts exercise for about two hours every day.",
      "say": "On Earth, your bones carry your weight every day, and that keeps them strong. In space, bones carry no weight, so they get weaker. That's why astronauts exercise every day.",
      "kid": "Your bones carry your weight all day. That keeps them strong. In space, bones get weaker. So astronauts exercise every day. Jump ten times now!",
+     "parent": "Expected answer: muscles do. A muscle that lifts heavy things grows stronger, just as bones do when they carry your weight.",
      "think": "Your bones grow strong because they carry your weight. What else grows stronger when it carries something heavy?"
     }
    ],
@@ -2111,6 +2120,7 @@
     }
    ],
    "record": "Make a word tree. Write 'heavy' at the bottom, and the words that grew from it on the branches.",
+   "problem": "Many of our words for heaviness grow from the same old roots. In this activity you trace words such as guru, gravity and gravitas back to Sanskrit and Latin. You also clap heavy and light beats, the way old Indian poets named them.",
    "context": "This activity is about words. In Sanskrit, 'guru' means heavy and 'laghu' means light. In Latin, 'gravis' means heavy. Many words we use today grew from them, including gravity.",
    "flow": [
     {
@@ -2187,6 +2197,7 @@
     }
    ],
    "record": "Make a list of the moments. Mark each one HEAVY or LIGHT, and write what was speeding up, slowing down or holding you.",
+   "problem": "Gravity pulls you just the same all day. Yet sometimes you feel heavier or lighter, on a swing, in a lift or in a pool. In this activity you write down those moments for a day. The next day you work out what changed each time.",
    "context": "This is a two-day hunt for moments when you feel heavier or lighter than usual. Think of a swing, a lift or a pool. Then you work out why.",
    "flow": [
     {
@@ -2292,6 +2303,7 @@
     }
    ],
    "record": "Draw the roots every day. Use an arrow to show which way is down. Write the day under each drawing.",
+   "problem": "Plants have no eyes or ears, yet their roots always grow downwards. In this project you grow roots in a jar, then lay the jar on its side and watch what the roots do. Then you find out how scientists think a root feels which way is down.",
    "context": "In this 6-day project you soak moong or chana seeds, grow them in a jar, then lay the jar on its side. You watch the roots bend to grow downwards again, and find out how plants feel which way is down.",
    "flow": [
     {
@@ -2368,7 +2380,7 @@
    "id": "c1",
    "title": "Weigh It in Space",
    "mins": 30,
-   "problem": "In the space station, everything floats. A forcemeter or a scale reads zero, because nothing presses on it. But doctors still need to know each astronaut's mass. Find a way to compare masses that would still work with no weight.",
+   "problem": "In the space station, everything floats. A forcemeter or a scale reads zero, because nothing presses on it. But doctors still need to know each astronaut's mass. Mass also makes a thing hard to push. A thing with more mass is harder to start moving. Find a way to compare masses, using that, that would still work with no weight.",
    "constraints": [
     "Your method must not use the weight of the thing.",
     "You can only use things from home.",
@@ -2433,7 +2445,8 @@
      "do": "Read the usual solutions and the creative ideas together. Then invent a new one.",
      "say": "Astronauts really sit on a chair on a spring and rock back and forth. A computer times the rocking. That's our ruler idea, but for a whole person!",
      "kid": "Astronauts really rock on a spring chair to find their mass. Like your ruler! Can you invent a new way?",
-     "think": "Mass makes things heavy and hard to push. Why do you think those two always go together?"
+     "parent": "Expected answer: the keys, or the heaviest thing you tried. A thing with more mass is harder to swing back and forth, so it wobbles more slowly. Slow wobbles mean more mass.",
+     "think": "Which thing made the ruler wobble most slowly? What did that tell you about its mass?"
     }
    ],
    "setup": [
@@ -2455,7 +2468,7 @@
    "id": "c2",
    "title": "The Coin Raft",
    "mins": 30,
-   "problem": "Build a raft from one sheet of aluminium foil that floats in a bucket of water while holding as many coins as possible.",
+   "problem": "Build a raft from one sheet of aluminium foil that floats in a bucket of water while holding as many coins as possible. Water pushes up on whatever pushes it aside. The more water a thing pushes aside, the harder the water pushes up on it.",
    "constraints": [
     "Use only one sheet of foil, about as big as a page of a notebook.",
     "No tape or glue.",
@@ -2521,7 +2534,8 @@
      "do": "Compare designs, and look at the usual and creative solutions together.",
      "say": "Ships are made of heavy steel, yet they float. Can you explain why now?",
      "kid": "Big ships are made of steel. Steel sinks! So why do ships float? Use your raft to explain.",
-     "think": "The water never takes away the coins' weight. It only holds it. How much can water hold?"
+     "parent": "Expected answer: both are wide and hollow, so they push aside a lot of water. The more water a thing pushes aside, the harder the water pushes up on it. That push can hold up a very heavy ship.",
+     "think": "What do a steel ship and your wide foil raft have in common?"
     }
    ],
    "setup": [
@@ -2570,9 +2584,9 @@
     },
     {
      "t": "truefalse",
-     "p": "A big, fluffy pillow always weighs more than a small steel spoon.",
+     "p": "True or false: a thing that looks bigger always weighs more.",
      "a": false,
-     "why": "False. Weight depends on how much matter a thing has, not on how big it looks. A small steel spoon can have more mass than a large pillow full of air and fluff, so the Earth pulls it a little harder."
+     "why": "False. Weight depends on how much matter a thing has, not on how big it looks. A big pillow full of air and fluff can weigh less than a small steel hammer. The hammer has more matter in it, so the Earth pulls it harder."
     },
     {
      "t": "write",
@@ -3188,7 +3202,7 @@
      "t": "write",
      "p": "A bathroom scale shows kilograms, but it really measures how hard you press on it. Describe one way to make it show more than your real mass without adding anything.",
      "lines": 3,
-     "a": "Any way that changes the push. For example: jump on the scale and watch the number shoot up as I land. Or stand on it in a lift that is starting to go up. Or push down on a table beside me.",
+     "a": "Any way that changes the push. For example: jump on the scale and watch the number shoot up as I land. Or stand on it in a lift that is starting to go up. Or pull hard downwards on a rope tied to a high beam.",
      "why": "The scale shows the push on it, not gravity directly. Anything that changes the push changes the reading, even though your mass is the same."
     },
     {
@@ -3249,13 +3263,13 @@
      "p": "Mass does two jobs. It is what gravity pulls on. It also makes a thing hard to push: a full almirah is harder to get moving than an empty one. Use both jobs to explain why a full almirah and an empty one would fall together, if there were no air.",
      "lines": 4,
      "a": "A strong answer says the full almirah has more mass, so gravity pulls it harder. But more mass also makes it harder to speed up, by exactly the same amount. So both almirahs speed up in the same way and land together.",
-     "why": "For every thing ever tested, the two jobs of mass match exactly. Einstein built his theory of gravity on this."
+     "why": "For every thing ever tested, the pull of gravity on a thing and how hard it is to speed up grow by exactly the same amount. Einstein built his theory of gravity on this."
     },
     {
      "t": "truefalse",
      "p": "If you could stand at the very centre of the Earth, you would weigh almost nothing, because the Earth would pull you equally in every direction.",
      "a": true,
-     "why": "True. At the centre, the Earth is all around you and its pulls cancel out. Your mass is just the same, but there is almost no net pull."
+     "why": "True. At the centre, the Earth is all around you and its pulls from every side balance each other. Your mass is just the same, but there is almost no net pull."
     },
     {
      "t": "mcq",
@@ -3692,7 +3706,7 @@
  "ask_kids": [
   "What is holding you up right now?",
   "Is the Earth pulling a mango harder than a grape? How could we find out?",
-  "If you could weigh yourself on the Moon, would you be less of you?",
+  "On the Moon your weight would be smaller. Would there be less of you there? What would stay the same?",
   "Did you feel heavier or lighter as a lift started and stopped? When exactly?",
   "Why do you feel so light in a pool, and so heavy when you climb out?",
   "When a ball falls, has its weight gone? What has changed?",
@@ -4183,7 +4197,7 @@
    "what_is_life": "Bones grow strong because they carry weight every day. In space, with nothing pressing on them, astronauts' bones get weaker.",
    "what_is_this_world": "Everything pulls on everything else, all the time. You pull on the Earth, and the Earth pulls on you."
   },
-  "thread": "Your weight is not one pull from somewhere under your feet. Every particle of the Earth attracts every particle of you, and you attract each of them back. Your weight is all those pulls added together. This shows that nothing stands alone. Even being heavy is something you and the whole Earth do together.",
+  "thread": "Your weight is not one pull from somewhere under your feet. Every particle of the Earth attracts every particle of you, and you attract each of them back. Your weight is all those pulls added together. So your weight does not belong to you alone. It exists because you and the whole Earth pull on each other.",
   "teachings": [
    {
     "source": "Nagarjuna, Mulamadhyamakakarika 24.18",
@@ -4213,13 +4227,13 @@
   "practice": {
    "title": "Feel what holds you",
    "mins": 3,
-   "say": "Let's lie down flat on the floor. Close your eyes and let your whole body go loose. Feel the floor pushing up on your head, your back and your heels. Now lift one arm and hold it up. Feel it get heavy. Let it drop gently onto the floor. Breathe slowly five times. The heaviness in your arm was your shoulder holding it up. Gravity pulls on all of you, quietly, all the time.",
+   "say": "Let's lie down flat on the floor. Close your eyes and let your whole body go loose. Feel the floor pushing up on your head, your back and your heels. Now lift one arm and hold it up. Feel it get heavy. Let it drop gently onto the floor. Breathe slowly five times. The heaviness you felt in your arm was your shoulder working to hold it up against gravity. Gravity pulls on all of you, quietly, all the time.",
    "kid": "Lie on the floor. Close your eyes. Feel the floor hold you up. Lift one arm and hold it. It feels heavy. Let it drop. Breathe slowly."
   },
   "ask": [
    "If you were falling and felt no weight at all, would you still be heavy?",
    "Is heaviness inside the stone, inside the Earth, or between them?",
-   "The Earth pulls you, and you pull the Earth. Which one of you is doing the pulling?"
+   "The Earth pulls you, and you pull the Earth just as hard. Why do you fall towards the Earth, while the Earth does not seem to fall towards you?"
   ],
   "art": "A child lying on a floor with small up arrows where the floor touches her, beside a falling bottle of water with no water leaking from its holes."
  },

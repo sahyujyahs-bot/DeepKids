@@ -14,7 +14,7 @@
  },
  "intro": {
   "hook": "Smell a spoon of fresh curd, then a spoon of curd left out for two days. What changed? Nobody added anything to it.",
-  "text": "Food goes bad even when nobody adds anything to it. Tiny living beings called microbes land on it from the air, from hands and from other food. In warm food they eat and multiply, and that is what you smell when food has gone bad. In this unit you find out how families keep food safe, and you test it with three dabbas of dal water.",
+  "text": "Food goes bad even though nobody puts anything bad into it. Tiny living beings called microbes land on it from the air, from hands and from other food. In warm food they eat and multiply, and that is what you smell when food has gone bad. In this unit you find out how families keep food safe, and you test it with three dabbas of dal water.",
   "art": "A child holding two spoons of curd, one fresh and smooth, one older with a sour, watery look, sniffing from a little distance."
  },
  "outcomes": [
@@ -135,10 +135,10 @@
    "context": "This card explains what is really happening when food goes bad."
   },
   {
-   "concept": "A microbe's own problem: finding a meal",
+   "concept": "What microbes need to grow: food, water and warmth",
    "status": "defined",
    "definition": "Like every living being, a microbe needs food, water and warmth to live and multiply.",
-   "description": "Look at life from a microbe's side. They are too small to walk to food, so they must land on it, carried by air, water, hands or flies. Then they need water to soak up food, and warmth to grow fast. Our cooked food has all three, so it is a perfect home for them. When times are hard, some bacteria and moulds make spores. A spore is a tough resting cell that can wait through drying or boiling, and grow again later.",
+   "description": "Like every living being, microbes need food, water and warmth. They are too small to walk to food, so they must land on it, carried by air, water, hands or flies. Then they need water to soak up food, and warmth to grow fast. Our cooked food has all three, so it is a perfect home for them. When times are hard, some bacteria and moulds make spores. A spore is a tough resting cell that can wait through drying or boiling, and grow again later.",
    "examples": [
     "Bacteria in a dry packet of poha cannot grow, because there is no water.",
     "Mould spores floating in the kitchen air wait until they land on damp bread.",
@@ -155,7 +155,7 @@
    "description": "In warm food, some bacteria can split every 20 minutes. One becomes 2, then 4, then 8. After 2 hours there can be 64, and after 7 hours more than 2 million. So a food with a few microbes is usually safe, but the same food left warm for hours may not be. The World Health Organization says cooked food should not sit at room temperature for more than 2 hours.",
    "examples": [
     "Idli batter rises overnight because its microbes multiply for hours.",
-    "Cooked food eaten within 2 hours is safer than the same food eaten in the evening.",
+    "Cooked food eaten within 2 hours is safer than the same food left warm for many hours.",
     "A fridge does not kill bacteria. The cold slows their splitting a lot."
    ],
    "perspectives": [],
@@ -210,7 +210,7 @@
    "definition": "Food keeps for a long time when microbes cannot get water, or when it is too salty, too sweet or too sour for most of them.",
    "description": "Microbes need water. Sun-dried vadams, appalams and dried fish keep for months, because there is almost no water left in them. Lots of salt or sugar pulls water out of microbes, so they cannot grow. That is how lemon pickle and mango jam keep. Sour foods, such as tamarind and lemon, slow down many microbes too. In pickles, a layer of oil on top also keeps air and new microbes off. A wet spoon can bring water into a pickle and let mould grow.",
    "examples": [
-    "Tamarind rice was a favourite food for long train journeys.",
+    "Tamarind rice is sour, and sourness slows microbes, so many families pack it for long train journeys.",
     "Kerala families dry fish in the sun and keep the dried fish for the rainy months.",
     "Families in the north make aam papad, thin sheets of dried mango pulp.",
     "In Nagaland and Manipur, families dry or ferment bamboo shoot and smoke meat over a fire to keep them."
@@ -265,7 +265,7 @@
    "concept": "Is the five-second rule true?",
    "status": "defined",
    "definition": "The five-second rule says food dropped on the floor is safe if you pick it up within five seconds. Tests show microbes can move onto food in less than one second.",
-   "description": "In 2016, Robyn Miranda and Donald Schaffner at Rutgers University in the United States tested the five-second rule. They dropped watermelon, bread, buttered bread and jelly sweets onto steel, tile, wood and carpet. Each surface had been spread with harmless bacteria. Some bacteria moved onto the food in under one second. Longer contact moved more. Wet watermelon picked up the most, and the dry sweet the least. So the floor, the food and the time all matter, and no rule of five seconds makes food clean.",
+   "description": "In 2016, Robyn Miranda and Donald Schaffner at Rutgers University in the United States tested the five-second rule. They dropped watermelon, bread, buttered bread and jelly sweets onto steel, tile, wood and carpet. Each surface had been spread with harmless bacteria. Some bacteria moved onto the food in under one second. Longer contact moved more. Wet watermelon picked up the most, and the dry sweet the least. So the floor, the food and the time all matter. Waiting only five seconds does not make food clean.",
    "examples": [
     "A wet cucumber slice picks up more floor dirt than a dry biscuit.",
     "A clean, dry floor carries fewer microbes than a kitchen floor near the dustbin.",
@@ -359,7 +359,7 @@
    "for": "Boiling kills microbes, and milk can pick up microbes if it is kept out of the fridge, opened, or poured into an unclean vessel. Boiling is a safe habit when you are not sure.",
    "against": "Packet milk is already pasteurised. If it has been kept cold and the packet is fresh and unopened, it is safe to drink without boiling. Boiling for a long time also loses some vitamins.",
    "status": "debated",
-   "context": "This card is about a question families disagree on: should pasteurised milk be boiled?"
+   "context": "Pasteurised milk is milk that the dairy has heated for a short time and then cooled quickly. Most of its microbes died. This card is about a question families disagree on: should packet milk still be boiled at home?"
   }
  ],
  "big_questions": [
@@ -930,7 +930,8 @@
      "say": "We never taste any of this. Spoiled food is thrown away, and the dabbas get a proper wash.",
      "kid": "A grown-up pours it all away. Do not taste it. Wash your hands.",
      "adult": true,
-     "think": "Which food in our kitchen is most like dabba B, left open on the counter?"
+     "think": "Which food in our kitchen is most like dabba B, left open on the counter?",
+     "parent": "Any cooked, wet food left uncovered is like dabba B, for example dal, rice or cut fruit on the counter. Flies and dust can land on it, and microbes can multiply in it."
     }
    ],
    "context": "In this experiment you boil dal water and keep it in three dabbas: closed, open, and closed with an unwashed leaf. Over two days you look and smell to see which spoils first.",
@@ -1066,8 +1067,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Ask your child to say what they found, and why it matters.",
-     "say": "The water got clear. Do you think every microbe is gone now? What else do we do to coriander before it goes on food?",
-     "kid": "The water is clear. Are all the microbes gone? What else could we do?",
+     "say": "The water got clear. Do you think every microbe is gone now? Why, or why not?",
+     "kid": "The water is clear. Are all the microbes gone? Why or why not?",
      "ask": [
       {
        "q": "Is clear water proof that the coriander has no microbes left?",
@@ -1133,6 +1134,7 @@
   {
    "id": "e3",
    "title": "The Five-Second Test: does dropped food pick up dirt?",
+   "problem": "Some people say that food dropped on the floor is safe if you pick it up within five seconds. We cannot see microbes, so in this test turmeric powder on a plate stands in for dirt. The yellow powder that sticks to a food shows how much dirt that food can pick up.",
    "mins": 20,
    "days": 1,
    "question": "Does food dropped on a dusty floor pick up less if you lift it within one second? Does a wet food pick up more than a dry one?",
@@ -1237,7 +1239,8 @@
       "a": 0,
       "why": "In the Five-Second Test, the wet cucumber slice picked up yellow turmeric in one second. Scientists found the same with real bacteria: wet foods pick them up fastest, and some bacteria move onto the food in under a second."
      },
-     "think": "Which floor in our home would have the most microbes on it, and why?"
+     "think": "Which floor in our home would have the most microbes on it, and why?",
+     "parent": "Floors that are wet, or that many feet walk over, hold the most, such as near the door, the bathroom or the dustbin. Microbes need water, and feet carry them in."
     }
    ],
    "context": "In this experiment you test the five-second rule, using turmeric on a steel plate as pretend dirt.",

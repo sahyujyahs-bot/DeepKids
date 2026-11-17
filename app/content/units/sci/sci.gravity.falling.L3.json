@@ -3,7 +3,7 @@
  "title": "Falling: why heavy and light things land together",
  "level": 3,
  "summary": {
-  "text": "Drop a full bottle of water and a bottle with only a little water together, and they land with one thud. Gravity, the force that makes things fall, pulls harder on the full bottle, because it has more mass. But more mass also needs a bigger pull to speed up, and the two match exactly. So both fall in the same way. Only air resistance, the push of the air, slows light, spread-out things like feathers and flat paper. People believed heavy things fall faster for nearly two thousand years, until careful tests showed they do not. The unit then goes further: everything with mass attracts everything else, gravity bends light and slows clocks, and nobody yet knows what gravity is deep down.",
+  "text": "Drop a full bottle of water and a bottle with only a little water together, and they land with one thud. Gravity, the force that makes things fall, pulls harder on the full bottle, because it has more mass. But more mass also needs a bigger pull to speed up, and the extra pull is exactly the extra pull that the extra mass needs. So both fall in the same way. Only air resistance, the push of the air, slows light, spread-out things like feathers and flat paper. People believed heavy things fall faster for nearly two thousand years, until careful tests showed they do not. The unit then goes further: everything with mass attracts everything else, gravity bends light and slows clocks, and nobody yet knows what gravity is deep down.",
   "art": "A child on a balcony letting go of a full and a nearly empty plastic bottle at the same moment, both falling side by side, with a faint bent grid of space-time drawn behind the Earth in the sky."
  },
  "intro": {
@@ -187,7 +187,7 @@
    "concept": "Heavy and light fall together",
    "status": "defined",
    "definition": "If there is no air in the way, all things fall in the same way. Heavy and light things, dropped together from the same height, land together.",
-   "description": "This is the great surprise of falling. Most people guess that a heavy thing falls faster. Try it with a full bottle of water and a bottle with only a little water, and they land together. Here is why. The Earth pulls the full bottle harder, because it has more mass. But more mass also makes a thing harder to speed up. Think of pushing a full trolley and an empty trolley. A bottle with twice the mass gets twice the pull, but it also needs twice the pull to speed up as fast. So the extra pull is used up exactly by the extra mass, and both bottles speed up in the same way. Only the air spoils this, for things that are very light and spread out.",
+   "description": "This is the great surprise of falling. Most people guess that a heavy thing falls faster. Try it with a full bottle of water and a bottle with only a little water, and they land together. Here is why. The Earth pulls the full bottle harder, because it has more mass. But more mass also makes a thing harder to speed up. Think of pushing a full trolley and an empty trolley. A bottle with twice the mass gets twice the pull, but it also needs twice the pull to speed up as fast. So the extra pull on the full bottle is exactly the extra pull that its extra mass needs. Both bottles speed up in the same way. Only the air spoils this, for things that are very light and spread out.",
    "examples": [
     "A full water bottle and a bottle with only a little water, dropped together, hit the floor together.",
     "A cricket ball and a tennis ball, dropped together from a balcony, land together.",
@@ -461,7 +461,7 @@
    "examples": [
     "Tilt your head and you know at once that you tilted. Your ear stones told you.",
     "A potted plant tipped over sideways bends the shoot back up within a day or two.",
-    "A falling cat twists round to land on her feet."
+    "A falling cat twists round to land on her feet. The balance parts in her ears tell her which way is down."
    ],
    "perspectives": [
     {
@@ -482,7 +482,7 @@
    "description": "Scientists know how gravity behaves very, very well. They can land spacecraft on the Moon with it. But they do not know what gravity is, deep down. The force of electricity and magnetism is carried by tiny particles called photons, the particles of light. So maybe gravity is carried by tiny particles too. Scientists call them gravitons. Nobody has ever found one. They may be far too weak to catch. Einstein's bent space-time works beautifully for planets and stars. Quantum physics, the science of the very tiniest things, works beautifully for atoms. But the two do not fit together. Inside a black hole, and at the very start of the universe, both are needed. That is one of the biggest puzzles in science.",
    "examples": [
     "In 2015, the LIGO detectors in the USA caught ripples in space-time from two black holes crashing together. These gravitational waves were ripples of space-time itself, not single gravitons.",
-    "Some physicists think gravity is not a basic force at all. It might come out of something deeper, the way warmth comes out of jiggling atoms."
+    "Some physicists think gravity is not a basic force at all. Warmth is not basic either. It comes from atoms jiggling about. In the same way, gravity might come from something deeper that we have not found yet."
    ],
    "perspectives": [
     {
@@ -690,7 +690,7 @@
      "items": [
       {
        "f": "A steel ball and a wooden ball of the same size, from a table",
-       "b": "TOGETHER. The steel ball is heavier, so the Earth pulls it harder. It also needs a bigger pull to speed up. The two match, and the air hardly slows either ball."
+       "b": "TOGETHER. The steel ball is heavier, so the Earth pulls it harder. It also needs a bigger pull to speed up. The extra pull is exactly what the extra mass needs, so both speed up in the same way. The air hardly slows either ball."
       },
       {
        "f": "A coconut and a lime, from the same height",
@@ -854,7 +854,7 @@
        "LIGHT FIRST: the small stone"
       ],
       "a": 1,
-      "why": "They land together. Gravity pulls the big stone harder, but the big stone also needs a bigger pull to speed up. The two match exactly, so both speed up in the same way. The air hardly slows stones. Any guess is fine in a practice round. Remember this for the rest of the game."
+      "why": "They land together. Gravity pulls the big stone harder, but the big stone also needs a bigger pull to speed up. The extra pull is exactly what the extra mass needs, so both speed up in the same way. The air hardly slows stones. Any guess is fine in a practice round. Remember this for the rest of the game."
      }
     },
     {
@@ -880,7 +880,7 @@
        ]
       }
      ],
-     "think": "Galileo proved this just by thinking, without dropping anything. Can you prove other things just by thinking?"
+     "think": "Galileo proved this just by thinking, without dropping anything. What two things did his tied pair have to do at once, which cannot both be true?"
     },
     {
      "id": "s5",
@@ -952,7 +952,7 @@
       },
       {
        "f": "5 You watched a thin stream of water fall at a sink. Was the stream thicker near the top or near the bottom? Why?",
-       "b": "Thinner near the bottom. The water speeds up as it falls, so the same water stretches into a thinner stream."
+       "b": "Thinner near the bottom. The water goes faster as it falls. The same amount of water each second must then stretch out into a thinner stream."
       },
       {
        "f": "6 Why is it impossible to make a ball float with nothing touching it? How do birds and balloons stay up?",
@@ -1051,10 +1051,10 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Count the points. Then ask each player for their favourite card.",
-     "say": "Which card surprised you most? Why?",
-     "kid": "Count your points. Who won? Which card surprised you most?",
-     "think": "Every card had gravity in it. Can you think of anything you did today that did not have gravity in it?"
+     "do": "Count the points. Then ask the question about card 4 and card 6.",
+     "say": "Look back at card 4, the ball tossed up, and card 6, the ball you tried to make float. What was gravity doing in each one?",
+     "kid": "Count your points. Who won? Think about card 4 and card 6. What was gravity doing in each one?",
+     "think": "Gravity was in every card. Is there anything you did today that gravity was not pulling on?"
     }
    ],
    "setup": [
@@ -1582,7 +1582,7 @@
       "The full bottle does fall twice as fast"
      ],
      "a": 0,
-     "why": "Think of pushing a full trolley and an empty one. The full one needs a bigger push to speed up. The extra pull on the full bottle is used up exactly by its extra mass. So both speed up in the same way. Picking 'the same force' is a common mistake: the pull is bigger on the heavier bottle."
+     "why": "Think of pushing a full trolley and an empty one. The full one needs a bigger push to speed up. The extra pull on the full bottle is exactly the extra pull that its extra mass needs. So both speed up in the same way. Picking 'the same force' is a common mistake: the pull is bigger on the heavier bottle."
     },
     {
      "t": "perspective",
@@ -1678,7 +1678,7 @@
       "downwards"
      ],
      "why": "Plants feel gravity. Heavy grains in the tip of the root settle to the lowest side, and the root grows that way. Charles Darwin and his son Francis studied this in 1880. How plants sense down is still being studied.",
-     "context": "Seeds sprout a root and a shoot."
+     "context": "A seed sends a root down and a shoot up. This question asks how a root knows which way is down."
     },
     {
      "t": "mcq",
@@ -1830,7 +1830,7 @@
        "The bottle with a little water landed first"
       ],
       "a": 1,
-      "why": "They landed together, with one thud. The Earth pulls the full bottle harder. But the full bottle also needs a bigger pull to speed up. The two match exactly, so both speed up the same way. Picking 'the full bottle first' means trusting the old guess over what you heard. Try again and listen closely."
+      "why": "They landed together, with one thud. The Earth pulls the full bottle harder. But the full bottle also needs a bigger pull to speed up. The extra pull is exactly what the extra mass needs, so both speed up in the same way. Picking 'the full bottle first' means trusting the old guess over what you heard. Try again and listen closely."
      }
     },
     {
@@ -2261,6 +2261,7 @@
     }
    ],
    "record": "Fill in the table. Use the chart in step 4 to turn each distance into a time.",
+   "problem": "The ruler falls in exactly the same way every time. So the farther it falls before you catch it, the longer you took to catch it. A short fall means a quick catch.",
    "context": "In the Falling Ruler test, a helper lets go of a ruler between your fingers, and you catch it. Gravity makes every ruler fall in the same way, so the distance tells you how quick your body is.",
    "flow": [
     {
@@ -2400,6 +2401,7 @@
     }
    ],
    "record": "Write your three jump heights and circle the best. Write which was harder: going up the stairs or down.",
+   "problem": "Jump as high as you can, and the Earth pulls you back down. In this activity you measure your jump. Then you find out how fast you would have to leave the ground to get away from the Earth for ever. That speed is called the escape speed.",
    "context": "In this activity you measure how high you can jump, and feel gravity pulling you back. Then you find out how fast you would need to jump to leave the Earth for ever.",
    "flow": [
     {
@@ -2483,6 +2485,7 @@
       "a": 1,
       "why": "That speed is called the escape speed. It is thousands of times faster than any jump. Only rockets reach it. On a tiny asteroid, with a very weak pull, a hard jump really could send you off into space. Picking 'if I trained very hard' is natural, because the speed is hard to imagine. It is faster than a bullet."
      },
+     "parent": "Expected answer: the Moon has much less mass than the Earth, so its pull is weaker and it is easier to get away from.",
      "think": "On the Moon, the escape speed is less than a quarter of the Earth's. Why do you think it is smaller there?"
     }
    ],
@@ -2538,6 +2541,7 @@
     }
    ],
    "record": "Draw the blanket from the side, with the dent, the ball and a marble's path curving in.",
+   "problem": "Einstein pictured gravity in a new way. He said that a heavy thing bends space and time, and other things follow the bend. In this activity a stretched sheet stands for space, and a heavy ball makes a dent in it. You roll marbles past the dent to see how a bend can change the path of something moving past.",
    "context": "In this activity you make a model of Einstein's idea of gravity. Mass bends space and time, a little like a heavy ball bends a stretched cloth. Things then move along the bend.",
    "flow": [
     {
@@ -2653,6 +2657,7 @@
     }
    ],
    "record": "Draw your arm holding the bag, and the door handle holding the bag. Write which one got tired, and why.",
+   "problem": "Holding something still needs a force. Your arm gets tired holding a bag, but a door handle holding the same bag never does. In this activity you find out why. Then you see what it tells us about the Earth's gravity holding the Moon.",
    "context": "In this activity you compare your arm with a door handle. Both can hold a bag still, but only one gets tired. It shows that a force can hold something without using up energy, as gravity does with the Moon.",
    "flow": [
     {
@@ -2706,7 +2711,7 @@
      "do": "Talk about the Earth and the Moon.",
      "say": "The Earth's gravity has kept the Moon going round it for more than four billion years. Like the door handle, gravity does not get tired.",
      "kid": "The Earth has kept the Moon going round it for billions of years. Gravity never gets tired, like the door handle.",
-     "parent": "Holding something still, or swinging it steadily round in a circle, takes a force but uses up no energy. That is why the Earth's gravity can keep the Moon going round without running down.",
+     "parent": "Holding something still, or swinging it steadily round in a circle, takes a force but uses up no energy. That is why the Earth's gravity can keep the Moon going round without running down. Answer to the last question: yes. A strong handle could hold the bag for a whole year, because holding it does not use up the handle's energy.",
      "think": "Look at the bag on the door handle. Could the handle hold it for a whole year?"
     }
    ],
@@ -2752,6 +2757,7 @@
     }
    ],
    "record": "Draw the round Earth with four people standing on it. Draw an arrow from each person to show which way is down.",
+   "problem": "Down seems easy to understand, but people live on every side of a round Earth. In this activity you make a plumb line, which is a weight on a string that shows which way is down. Then you find out what down means for people all round the Earth.",
    "context": "In this activity you make a plumb line, a weight on a string that shows which way is down. Then you find out what 'down' means on a round Earth.",
    "flow": [
     {
@@ -2794,7 +2800,7 @@
      "do": "Ask the tunnel question.",
      "say": "Imagine a tunnel straight through the Earth. If you dropped a ball in, where would it go?",
      "kid": "Imagine a tunnel right through the Earth. You drop a ball in. Where does it go?",
-     "parent": "The ball would speed up all the way to the middle. Then it would shoot past and slow down, stopping just as it reached the other side. Then it would fall back. Without air, it would swing to and fro for ever, like a pendulum. Nobody could build such a tunnel. The inside of the Earth is far too hot.",
+     "parent": "The ball would speed up all the way to the middle. Then it would shoot past and slow down, stopping just as it reached the other side. Then it would fall back. Without air, it would swing to and fro for ever, like a pendulum. Nobody could build such a tunnel. The inside of the Earth is far too hot. Answer to the last question: at the very middle, the Earth pulls you equally in every direction, so there is no down at all.",
      "think": "At the very middle of the Earth, which way would down be?"
     }
    ],
@@ -2840,6 +2846,7 @@
     }
    ],
    "record": "Draw the four sisters at their heights, with a clock beside each. Write which clock is fastest and which is slowest.",
+   "problem": "Clocks tick at slightly different speeds at different heights. The difference is real, but it is far too small to notice. In this play, four sisters live at different heights, and you clap out their clocks. The play makes the difference much bigger than it really is, so that you can hear it.",
    "context": "This is a short play about four sisters who live at different heights. It shows a real but very strange fact: clocks tick slower lower down, closer to the middle of the Earth.",
    "flow": [
     {
@@ -2882,6 +2889,7 @@
      "do": "Ask the big question.",
      "say": "If clocks upstairs and downstairs slowly disagree, which one shows the true time?",
      "kid": "Clocks upstairs and downstairs slowly disagree. Which one shows the true time?",
+     "parent": "Expected answer: each clock is right for its own place. Clocks at different heights really do tick at slightly different speeds, so there is no single time that every place shares. The clock downstairs is not wrong and neither is the clock upstairs.",
      "think": "Is there one time for the whole universe, or does every place have its own?"
     }
    ],
@@ -2964,8 +2972,8 @@
      "do": "Talk about why plants do this.",
      "say": "Why do slow-falling seeds help plants? What happens to seeds that drop right under the plant they came from?",
      "kid": "Why do slow-falling seeds help plants? Think about where the wind can carry them.",
-     "parent": "Seeds that drift far away do not have to share light and water with the plants they came from. Over millions of years, plants with slow-falling, wind-carried seeds spread far. A winged seed works like a small parachute or helicopter.",
-     "think": "Engineers copy seeds to design drones and parachutes. What else could we copy from a falling seed?"
+     "parent": "Seeds that drift far away do not have to share light and water with the plants they came from. Over millions of years, plants with slow-falling, wind-carried seeds spread far. A winged seed works like a small parachute or helicopter. It falls slowly because of its shape, not because it is light. The flat and crumpled paper test showed the same thing.",
+     "think": "A winged seed falls slowly. Is that because it is light, or because of its shape? Which of your own tests showed the same thing?"
     }
    ],
    "setup": [
@@ -3110,6 +3118,7 @@
     }
    ],
    "record": "Write one sentence: which is stronger here, the tiny magnet or the whole Earth's gravity?",
+   "problem": "The whole Earth is pulling on a paper clip, and the Earth is enormous. In this activity a tiny magnet pulls the same paper clip upwards. You see which pull wins, and what that shows about how strong gravity is.",
    "context": "In this short activity, a small magnet lifts a paper clip off the table. It shows how weak gravity really is, even though it holds the whole universe together.",
    "flow": [
     {
@@ -3137,6 +3146,7 @@
       "a": 0,
       "why": "Gravity still pulls the clip, but the magnet's pull is stronger. Gravity is much weaker than magnetism. It only feels strong because the Earth has so much mass. Picking 'no gravity near magnets' is a fair guess. But the clip falls as soon as you pull the magnet away, so gravity was there all along."
      },
+     "parent": "Expected answer: magnets push and pull in two ways, so on a big object their pulls cancel out and almost nothing is left. Gravity only ever pulls, so every bit of mass adds to the pull. Over planets and stars, those pulls add up to something huge.",
      "think": "Gravity is so weak. So why is it gravity, and not magnetism, that holds planets and stars together?"
     }
    ],
@@ -3199,6 +3209,7 @@
     }
    ],
    "record": "Write the distance from the start to each mark. Under each distance, write how much further it is than the mark before.",
+   "problem": "Falling is too fast to measure by hand. Galileo slowed it down by rolling a ball down a long gentle ramp, where it speeds up in the same way but much more slowly. In this project you copy him. You mark where a marble is on each beat of a steady rhythm, and look for a pattern in the marks.",
    "context": "In this 2-day project, you copy one of Galileo's real experiments. Falling is too fast to measure. So you slow it down with a gentle ramp, and mark where a marble is at each beat.",
    "flow": [
     {
@@ -3773,7 +3784,7 @@
   }
  ],
  "ask_kids": [
-  "You just dropped that. Which way did it go? Is that the same 'down' for children in Argentina?",
+  "Drop a spoon and watch which way it goes. Is that the same 'down' for children in Argentina?",
   "If you dropped your spoon and your plate together, which would land first?",
   "Why does a leaf take so long to fall, but a mango drops fast?",
   "Is gravity pulling on you right now? Can you feel it? What tells you?",
@@ -4193,7 +4204,7 @@
  "roots": {
   "context": "We have been learning why things fall, and why heavy and light things land together. Now we ask what falling tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "The Earth pulls a full bottle harder than a nearly empty one, because it has more mass. But more mass is also harder to speed up, like a full trolley. The extra pull and the extra mass cancel exactly, so both bottles land with one thud. With no air in the way, a hammer and a feather land together too.",
+   "truth": "The Earth pulls a full bottle harder than a nearly empty one, because it has more mass. But more mass is also harder to speed up, like a full trolley. The extra pull is exactly the extra pull that the extra mass needs. So both bottles speed up in the same way, and land with one thud. With no air in the way, a hammer and a feather land together too.",
    "habit": "We sort things into heavy and light, and expect heavy things to fall faster, because heaviness is what our hands feel most. But heavy and light things fall in the same way. Only the air slows some things more than others, and for that, shape matters as much as weight.",
    "evidence": "In the Drop Race, a full bottle and a bottle with a little water gave one thud, and so did ten coins and one coin. In Paper That Falls Like a Stone, a crumpled sheet beat a flat sheet of the same weight, and a flat sheet lying on a book fell with the book."
   },
@@ -4202,7 +4213,7 @@
    "what_is_life": "A seed planted upside down still sends a root down. Living things sense gravity and grow with it.",
    "what_is_this_world": "Without air, a hammer and a feather fall in exactly the same way. Gravity makes everything fall the same way."
   },
-  "thread": "Gravity does not sort the world into heavy and light. In the same place, a hammer, a feather, a mango and a planet all fall in exactly the same way. Einstein took this seriously. Because every thing falls alike, he said the way things fall depends on the shape of space and time, not on the thing that falls.",
+  "thread": "Gravity does not sort the world into heavy and light. In the same place, a hammer, a feather, a mango and a planet all fall in exactly the same way. Einstein asked why this is so. His answer was that, because every thing falls alike, the way things fall must depend on the shape of space and time, not on the thing that falls.",
   "teachings": [
    {
     "source": "Brihadaranyaka Upanishad 3.8.9",
@@ -4238,7 +4249,7 @@
   "ask": [
    "Without air, a hammer and a feather fall in the same way. Why do you think gravity does not treat them differently?",
    "Everything falls the same way. So does the way a thing falls depend on the thing, or on the place where it falls?",
-   "In Heavy hand, light hand, your two hands felt a heavy spoon and a light paper ball, but both fell the same way. What else might feel different to us, yet be the same underneath?"
+   "In Heavy hand, light hand, your hand felt the spoon as heavier than the paper ball. Yet both landed together. What does that tell you about heavy things and falling?"
   ],
   "art": "A full and a nearly empty bottle, a hammer and a feather falling side by side and level with each other, with a gently curved grid of space-time behind them."
  },
@@ -4249,5 +4260,5 @@
   "wrong_idea": "Aristotle taught that heavier things fall faster: a thing ten times heavier falls ten times faster. Drops from the same height showed that heavy and light weights land almost together, and Galileo showed that the air, not lightness, slows things like leaves."
  },
  "playtest": "Walked through every game, experiment, activity, project and challenge as a family of two would, then played both games in the head with 2 and 4 players. Guess the Landing (g1, renamed so it no longer clashes with the Drop Race experiment) now has 24 written cards, practice card taken out before shuffling, 12 tokens for 4 players, and a TALK IT card instead of a fake test. Cards that repeated experiments (bottles, potato and lemon) were swapped for a steel and wooden ball and a coconut and lime. Gravity Cue Cards (g2) lost the cards that copied activities (stairs, jumps, magnet, plumb line, paper on a book, tissue drops); new cards use a marble, sock, sink water, bounce, balloon, pendulum and rubber band. Answers are now on the back of the question cards, and each card names what it is about. Parachute Test: the stairwell is kept as the main way, with an honest room-height fallback (1 to 2 seconds, close times). Aristotle on Trial no longer drops stones (a flat has none) and reuses the earlier results instead of repeating drops; Four Sisters has no climbing; the Argentina 'opposite side' claim was corrected. The Slowest Fall now says plainly that a paper helicopter may not beat a flat A4 sheet at 2 metres. Removed pointless safety lines (scissors, step, toes in the trial), kept real ones (marbles, magnets, plastic bags, aak sap). Cut repeated questions (tunnel, trust in famous people, dark matter, tired arm, true time, paper on a book, draw the Earth, Argentina) so each idea sits in one place; cut the weakest 2 jokes (8 remain). Removed the marble 'why' plan note, the stock line in the story note and the oneness sentence in the roots thread. Rule 28 swaps: Ammamma for Paati in Kochi, Hirakud dam, Cherrapunji rain, kapok and mahogany seeds, coconut cards, Tamil and other southern words for gravity. Unchecked: I confirmed the three YouTube links exist and match their titles but did not watch them; the Tamil phrase eerppu visai and the mahogany seed claim come from memory.",
- "warm": {"words": ["FORCE", "HEAVY", "PAPER", "EARTH", "SPACE"], "quiz": [["Without air, a heavy stone and a light stone dropped together land together.", true, "Without air, all things fall in the same way, whatever their weight."], ["A heavy thing falls faster because the Earth pulls it harder.", false, "A heavier thing also needs a bigger pull to speed up, so the two effects match exactly."], ["A feather falls slowly mostly because of the push of the air.", true, "Air resistance slows light, spread-out things the most."], ["Gravity needs air to pull things down.", false, "Gravity pulls with or without air. Air only slows some falling things."], ["To test if weight changes falling, drop things of different weight but the same shape and size.", true, "A fair test changes only one thing, so any difference must come from the weight."], ["There is no gravity in space, which is why astronauts float.", false, "Gravity at the space station is still about nine tenths as strong. Astronauts float because they are falling."], ["A falling stone speeds up the longer it falls.", true, "Gravity keeps pulling, so a falling thing gains speed every moment it falls."], ["Down points the same way for people all around the Earth.", false, "Down means towards the middle of the Earth, so it points a different way for people on the other side."], ["Every thing that has mass pulls on every other thing that has mass.", true, "Gravity attracts all things with mass, and bigger masses pull more strongly."], ["Only big planets like Earth pull on things.", false, "Everything with mass pulls on everything else, but small things pull far too weakly for us to feel."]], "odd": [[["Feather", "Flat sheet of paper", "Open parachute", "Steel ball"], "Steel ball", "The first three are light and spread out so air slows them a lot, but a steel ball is heavy and compact."], [["Gravity", "Air resistance", "A push by hand", "Speed"], "Speed", "The first three are forces, which are pushes or pulls, but speed tells how fast something moves."], [["Dropped stone", "Astronaut in the space station", "Jumper in mid-air", "Book resting on a table"], "Book resting on a table", "The first three are in free fall with nothing holding them up, but the table holds up the book."], [["Steel tumbler", "Paper cup", "Bottle of water", "Shadow of a tree"], "Shadow of a tree", "The first three are made of matter so they have mass and weight, but a shadow is not made of anything."], [["Thought experiment", "Reasoning in your mind", "Galileo's tied-together stones", "Dropping a ball in a lab"], "Dropping a ball in a lab", "The first three are done only by careful thinking, but dropping a ball is a real test."]]}
+ "warm": {"words": ["FORCE", "HEAVY", "PAPER", "EARTH", "SPACE"], "quiz": [["Without air, a heavy stone and a light stone dropped together land together.", true, "Without air, all things fall in the same way, whatever their weight."], ["A heavy thing falls faster because the Earth pulls it harder.", false, "A heavier thing also needs a bigger pull to speed up, so the extra pull is exactly the extra pull that the extra mass needs."], ["A feather falls slowly mostly because of the push of the air.", true, "Air resistance slows light, spread-out things the most."], ["Gravity needs air to pull things down.", false, "Gravity pulls with or without air. Air only slows some falling things."], ["To test if weight changes falling, drop things of different weight but the same shape and size.", true, "A fair test changes only one thing, so any difference must come from the weight."], ["There is no gravity in space, which is why astronauts float.", false, "Gravity at the space station is still about nine tenths as strong. Astronauts float because they are falling."], ["A falling stone speeds up the longer it falls.", true, "Gravity keeps pulling, so a falling thing gains speed every moment it falls."], ["Down points the same way for people all around the Earth.", false, "Down means towards the middle of the Earth, so it points a different way for people on the other side."], ["Every thing that has mass pulls on every other thing that has mass.", true, "Gravity attracts all things with mass, and bigger masses pull more strongly."], ["Only big planets like Earth pull on things.", false, "Everything with mass pulls on everything else, but small things pull far too weakly for us to feel."]], "odd": [[["Feather", "Flat sheet of paper", "Open parachute", "Steel ball"], "Steel ball", "The first three are light and spread out so air slows them a lot, but a steel ball is heavy and compact."], [["Gravity", "Air resistance", "A push by hand", "Speed"], "Speed", "The first three are forces, which are pushes or pulls, but speed tells how fast something moves."], [["Dropped stone", "Astronaut in the space station", "Jumper in mid-air", "Book resting on a table"], "Book resting on a table", "The first three are in free fall with nothing holding them up, but the table holds up the book."], [["Steel tumbler", "Paper cup", "Bottle of water", "Shadow of a tree"], "Shadow of a tree", "The first three are made of matter so they have mass and weight, but a shadow is not made of anything."], [["Thought experiment", "Reasoning in your mind", "Galileo's tied-together stones", "Dropping a ball in a lab"], "Dropping a ball in a lab", "The first three are done only by careful thinking, but dropping a ball is a real test."]]}
 }

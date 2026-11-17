@@ -217,7 +217,7 @@
    "concept": "Salt water and fresh water",
    "status": "defined",
    "definition": "Sea water is salty, with about 35 grams of salt in every litre. River water, pond water and rain are fresh, with very little salt.",
-   "description": "Water moves from the less salty side to the more salty side of a living skin. You saw this in the Salty Cucumber experiment. In very salty water, water left the cucumber's cells, and the slice went floppy. A fish's body is less salty than the sea, and saltier than a river. So a sea fish keeps losing water to the sea. They drink sea water, and their gills push the extra salt out. A river fish has the opposite problem. Water keeps soaking into their body, so they make a lot of very watery urine. Each kind of fish is built for one kind of water. A few, like the hilsa, change as they travel. The hilsa lives in the sea and swims up rivers like the Godavari and the Hooghly to lay their eggs.",
+   "description": "Imagine a living skin with less salty water on one side and more salty water on the other side. Water moves through the skin towards the saltier side. You saw this in the Salty Cucumber experiment. In very salty water, water left the cucumber's cells, and the slice went floppy. A fish's body is less salty than the sea, and saltier than a river. So a sea fish keeps losing water to the sea. They drink sea water, and their gills push the extra salt out. A river fish has the opposite problem. Water keeps soaking into their body, so they make a lot of very watery urine. Each kind of fish is built for one kind of water. A few, like the hilsa, change as they travel. The hilsa lives in the sea and swims up rivers like the Godavari and the Hooghly to lay their eggs.",
    "examples": [
     "Pulasa, the hilsa caught in the Godavari during the monsoon floods, is a famous dish in Andhra Pradesh. Ilish, the hilsa of the Hooghly, is just as loved in West Bengal.",
     "Sea fish in the market, like mackerel and sardine, come from the sea. Rohu and catla come from rivers and ponds.",
@@ -273,7 +273,7 @@
    "evidence": "Chemists have measured it at every temperature. You can see it at home: cold water grows bubbles as it warms."
   },
   {
-   "text": "Fish breathe the oxygen dissolved in water, using their gills. They do not split water to get oxygen.",
+   "text": "Fish breathe the oxygen dissolved in water, using their gills. They do not break the water itself apart to get oxygen.",
    "evidence": "In 1809, Alexander von Humboldt and Provençal measured the gases in water before and after fish lived in the water. The dissolved oxygen went down and carbon dioxide went up."
   },
   {
@@ -340,7 +340,7 @@
   {
    "q": "Air has about 30 times more oxygen than the same amount of water, yet a fish cannot live in air. Why not?",
    "kind": "deep",
-   "hint": "Think of two wet sheets of paper pressed together."
+   "hint": "Out of water, a fish's thin gill folds stick together, like two wet sheets of paper pressed together. Then almost no surface is left to take in oxygen."
   },
   {
    "q": "A tadpole breathes with gills, and the frog they become breathes with lungs. Are they the same animal?",
@@ -1077,7 +1077,7 @@
        "The salt went into the cucumber and made it soft"
       ],
       "a": 1,
-      "why": "Water moves from the less salty side to the more salty side of a living skin. The cucumber's cells were much less salty than the very salty water. So water left the cells, and without that water the slice went limp. If you picked 'salt went in', that is a good guess, but the slice got thinner and weaker because it lost water."
+      "why": "Water moves through a living skin towards the saltier side. The cucumber's cells were much less salty than the very salty water. So water left the cells, and without that water the slice went limp. If you picked 'salt went in', that is a good guess, but the slice got thinner and weaker because it lost water."
      },
      "parent": "The very salty slices are usually floppy and bendy after 20 minutes. The plain-water slices stay stiff and crisp. The slices from the water as salty as the sea may be a little bendier than the plain ones, or about the same. That is why we also used very salty water: it makes the change easy to see."
     },
@@ -1087,7 +1087,7 @@
      "do": "Ask your child to say or write three things: what I think, what I saw, and why. Then ask about fish.",
      "say": "Tell me what you think, what you saw and why. Now think of a river fish. Their body is much less salty than the sea. What would the sea do to them?",
      "kid": "Say what you think, what you saw, and why. What would the sea do to a river fish?",
-     "parent": "A good answer: What I think: very salty water pulls water out of living things. What I saw: the slice in very salty water went floppy, and the plain one stayed stiff. Why: water moved out of the cucumber into the saltier water. A river fish put in the sea would keep losing water like this. Sea fish drink sea water and push the salt out through their gills, so they can live there.",
+     "parent": "A good answer: What I think: very salty water pulls water out of living things. What I saw: the slice in very salty water went floppy, and the plain one stayed stiff. Why: water moved out of the cucumber into the saltier water. A river fish put in the sea would keep losing water like this. Sea fish drink sea water and push the salt out through their gills, so they can live there. Sea water is saltier than our own bodies, so it would pull water out of us too. That is why it cannot quench our thirst.",
      "think": "Why can't we drink sea water when we are thirsty?"
     }
    ],
@@ -1301,7 +1301,8 @@
      "art": "A child blowing into a short piece of lotus stem, its other end in a glass of water with bubbles streaming out.",
      "caption": "2. Blow through a piece into water. Bubbles!"
     }
-   ]
+   ],
+   "problem": "A lotus has its leaves in the air and its roots in thick mud at the bottom of a pond. There is almost no air in that mud, yet every part of the plant needs air. You will look inside a lotus stem to find how the air reaches the roots."
   },
   {
    "id": "a2",
@@ -1436,7 +1437,7 @@
       "a": 1,
       "why": "Salt dissolved in water makes it heavier for its size, so salty water sinks under fresh water. Where a river meets the sea, salty water often creeps in along the bottom, under the river water. Picking 'tea never mixes' is not right: stir the glass and the layers mix at once."
      },
-     "parent": "Water that is a mix of fresh and salt is called brackish. Mangrove trees, crabs and some fish live in brackish water. In Kerala, the Thanneermukkom barrier was built across Vembanad lake to keep salt water out of the rice fields of Kuttanad."
+     "parent": "Fish there must cope with water whose saltiness changes with the tide and the season. Water that is a mix of fresh and salt is called brackish. Mangrove trees, crabs and some fish live in brackish water. In Kerala, the Thanneermukkom barrier was built across Vembanad lake to keep salt water out of the rice fields of Kuttanad."
     }
    ],
    "context": "In this activity you pour fresh water gently onto salty water and see them make layers, as they do where a river meets the sea.",
@@ -1449,7 +1450,8 @@
      "art": "A spoon held upside down over the glass with brown tea trickling onto it, forming a brown layer on top of clear water.",
      "caption": "2. Pour coloured fresh water slowly onto the back of a spoon."
     }
-   ]
+   ],
+   "problem": "Where a river meets the sea, fresh water and salty water meet. You will pour coloured fresh water onto very salty water in a glass, to see what the two do when they meet."
   },
   {
    "id": "a4",
@@ -1595,7 +1597,8 @@
      "art": "Close-up of a hydrilla sprig in sunlight with a thin stream of tiny bubbles rising from the cut end.",
      "caption": "2. After 20 minutes: which sprig makes bubbles?"
     }
-   ]
+   ],
+   "problem": "Water plants and algae make the oxygen that fish breathe, but they need something to do it. You will put one water plant in sunlight and one in a dark cupboard, and look for bubbles of oxygen on each."
   }
  ],
  "projects": [
@@ -1708,7 +1711,8 @@
      "art": "After three weeks, the sunny jar's water is green with algae on its window side, and the dark jar is clear.",
      "caption": "2. After three weeks, compare them."
     }
-   ]
+   ],
+   "problem": "Algae are tiny living things that make their own food. They are too small to see one by one, but they are in the air and the soil. You will set up two jars of water, one in the sun and one in the dark, to find out whether algae need light to grow."
   }
  ],
  "challenges": [
@@ -1716,7 +1720,7 @@
    "id": "c1",
    "title": "Put Air Back in the Pond",
    "mins": 30,
-   "problem": "On hot, still nights, a pond can run short of oxygen. Design a way to mix more air into a bucket of still water, using only things from home.",
+   "problem": "On hot, still nights, a pond can run short of oxygen. Air dissolves into water at the surface, where the water touches the air. So the more the surface is broken and splashed, the more air gets in. Design a way to mix more air into a bucket of still water, using only things from home.",
    "constraints": [
     "Use only things from home.",
     "No electric pumps.",

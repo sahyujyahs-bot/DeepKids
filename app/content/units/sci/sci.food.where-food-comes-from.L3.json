@@ -304,7 +304,7 @@
    "description": "Most people guess that plants eat soil. About 380 years ago, a scientist named Jan Baptist van Helmont, in what is now Belgium, tested this. He weighed some dry soil and put the soil in a pot. He planted a small willow tree in the pot and gave the tree only rainwater. Five years later, the tree had grown about 30 times heavier. But the soil had lost only a tiny pinch of weight. So the tree had not eaten the soil. Van Helmont thought the tree was made of water. Scientists later found that most of the tree's dry wood was built from carbon dioxide, a gas in the air. A wheat grain, a mango and a grain of rice are mostly built out of air and water, joined together using the energy of sunlight. The soil gives only small amounts of minerals.",
    "examples": [
     "A tall coconut tree is built mostly from air and water.",
-    "A few months ago, the rice on your plate was carbon dioxide gas in the air over a paddy field."
+    "A few months ago, much of the rice on your plate was carbon dioxide in the air. That air was over a paddy field. The rice plant joined that gas with water, using sunlight."
    ],
    "perspectives": [],
    "art": "A willow tree growing in a pot over five drawings, the tree getting huge while a weighing scale under the pot stays almost the same.",
@@ -769,7 +769,7 @@
     "Put the 4 SUN cards in a row in the middle of the table. Every chain starts from a SUN card, and any number of chains can start from the same SUN. Shuffle the other 33 cards and deal 5 to each player. Put the rest face down as a pile.",
     "On your turn, play cards from your hand to start a new chain or to add to a chain already on the table, yours or anyone's. To start a chain, put a plant (or Tiny algae in the sea) next to a SUN card. To add to a chain, put the next card at its end.",
     "A chain must make sense going forwards. For example: SUN, Grass, Cow, Milk. A chain does not need an animal: SUN, Rice plant, Rice is a full chain.",
-    "Say the chain out loud: 'The Sun fed the grass. The grass fed the cow. The cow made milk.' If everyone agrees each step is true, you score 1 point for each card you played this turn. If anyone thinks a step is wrong, talk it over; a wrong card goes back to your hand and scores nothing.",
+    "Say the chain out loud: 'The Sun fed the grass. The grass fed the cow. The cow made milk.' If everyone agrees each step is true, you score 1 point for each card you played this turn. If anyone thinks a step is wrong, talk it over. A wrong card goes back to your hand and scores nothing.",
     "HELPER cards show where microbes change a food. Curd must come right after HELPER: curd bacteria, and Idli right after HELPER: idli microbes. For example: Milk, HELPER: curd bacteria, Curd. Rice plant, HELPER: idli microbes, Idli.",
     "EARTH cards: play one next to your chain for 1 bonus point if you can say where that salt or water came from (the sea, the rocks, the rain).",
     "The SURPRISE card needs no SUN. Play it alone and explain what feeds the animals at a deep-sea vent. A good explanation scores 3 points.",
@@ -817,7 +817,8 @@
      "do": "Add up the scores. Then look at all the chains on the table together.",
      "say": "Look at every chain on the table. Which card is at the start of almost all of them?",
      "kid": "Count your points. Look at all the chains. What is at the start of nearly every one?",
-     "think": "If the Sun went out, which chain on the table would still work?"
+     "think": "If the Sun went out, which chain on the table would still work?",
+     "parent": "The deep-sea vent chain would still work. Its microbes make food from chemicals in the hot water, not from sunlight."
     }
    ],
    "context": "This is a card game about food chains. Every food chain carries energy from the Sun, through plants and animals, to your plate.",
@@ -992,7 +993,8 @@
      "do": "At the end, ask which question was the most useful.",
      "say": "Which question helped you most? Why?",
      "kid": "Which question helped you most? Why do you think so?",
-     "think": "Good scientists ask questions that rule out half of the possible answers. Which of your questions did that?"
+     "think": "Good scientists ask questions that rule out half of the possible answers. Which of your questions did that?",
+     "parent": "Questions like 'Was I ever alive?' or 'Did I grow on a plant?' rule out many foods at once."
     }
    ],
    "context": "This is a guessing game. One player is a mystery food and asks yes or no questions about where they came from until they can name it.",
@@ -2105,6 +2107,7 @@
   {
    "id": "e3",
    "title": "The Iodine Test: which foods have starch?",
+   "problem": "Iodine is an orange-brown liquid. When it touches starch, it turns dark blue-black, so iodine lets you see starch in food. Plants pack starch into their seeds, roots and underground stems. In this test you put iodine on nine foods to find out which ones have starch.",
    "mins": 25,
    "days": 1,
    "question": "Plants pack food called starch into their seeds, roots and underground stems. Which of our foods have starch in them? Do foods from animals have any?",
@@ -2208,7 +2211,8 @@
        ]
       }
      ],
-     "think": "A ripe banana tastes sweeter than a raw one. Where did its starch go?"
+     "think": "A ripe banana tastes sweeter than a raw one. Where did its starch go?",
+     "parent": "As a banana ripens, its starch changes into sugar. That is why a raw banana turns blue-black with iodine, and a ripe banana, with less starch, tastes sweeter."
     },
     {
      "id": "s5",
@@ -2305,7 +2309,8 @@
        ]
       }
      ],
-     "think": "Is anything on the animal plate really plant food in disguise?"
+     "think": "Look at the animal plate. What did those animals eat before they became our food?",
+     "parent": "Cows, hens and goats eat grass and grain, and bees drink nectar from flowers. Fish eat algae, or smaller fish that ate algae. So animal food is plant food that has passed through an animal."
     }
    ],
    "context": "This is a sorting hunt in your own kitchen. You find out where each food came from: a plant, an animal, a fungus or microbe, or the non-living Earth.",
@@ -2402,7 +2407,8 @@
      "do": "Look at the whole thali together.",
      "say": "Which part of the plant do we eat most at home?",
      "kid": "Look at your thali. Which plant part do you eat most?",
-     "think": "Most of what we eat is seeds. Why might seeds be such good food?"
+     "think": "Most of what we eat is seeds. Why might seeds be such good food?",
+     "parent": "A seed is small and keeps for a long time. It also holds a store of starch, protein and oil for the baby plant, so it is full of energy for us too."
     }
    ],
    "context": "This is a hunt in the vegetable basket and masala box. You find a food from every part of a plant, and count the seeds in a pod.",
@@ -2653,7 +2659,8 @@
       "a": 0,
       "why": "These foods are more than 90 parts water out of every 100. On a hot day we lose water in sweat, and they help replace it. Picking 'keep well for a year' mixes them up with seeds and grains. Watery fruits go off quickly, which is one reason we eat them fresh, in season."
      },
-     "think": "Why can we buy some foods in every season now, but people long ago could not?"
+     "think": "Why can we buy some foods in every season now, but people long ago could not?",
+     "parent": "Today lorries, trains and planes carry food from one place to another, and fridges and cold stores keep it fresh. Long ago, food had to be eaten where and when it grew, or dried, salted or pickled to keep."
     }
    ],
    "context": "This is an interview at a vegetable cart or market. You find out which foods are fresh in each season, and where in India they grow.",
@@ -2725,7 +2732,8 @@
      "do": "Look at how many ingredients came from far away.",
      "say": "How many of the dish's ingredients travelled across the world to reach this kitchen?",
      "kid": "Count the ingredients from far away. Are you surprised?",
-     "think": "If a dish uses chilli from the Americas, is it still an Indian dish? What makes a food belong to a place?"
+     "think": "If a dish uses chilli from the Americas, is it still an Indian dish? What makes a food belong to a place?",
+     "parent": "There is no single right answer. Chilli has been grown in India for about 500 years, and families in every region have made it part of their own cooking."
     }
    ],
    "context": "This is a family interview. You collect a recipe from an elder and discover that many everyday Indian ingredients first came from far across the world.",
@@ -2985,7 +2993,7 @@
       "why": "A seed holds a resting baby plant. Water starts them growing, just like in Sprouting Moong, where only the seeds on the wet cloth sprouted. Once they sprout, they use up their stored food and can no longer be kept for sowing. Picking 'the dark' is a common mix-up. Seeds can sprout in the dark, because they start on their own stored food."
      },
      "think": "Seed banks keep seeds very dry and very cold, deep inside a frozen mountain. Why both?",
-     "parent": "If the open seeds look the same after a week, press them: damp seeds feel softer and may smell musty. A safe that lets damp in will show it."
+     "parent": "If the open seeds look the same after a week, press them: damp seeds feel softer and may smell musty. A safe that lets damp in will show it. As for the Think question, dry seeds stay dormant, so they do not sprout or go mouldy. Cold slows down the slow ageing that even a dry seed goes through. So the seeds stay alive for many years."
     }
    ],
    "context": "This is a design challenge. You build a seed safe that keeps seeds dry and whole in a damp place for a week. Farmers store seed this way until the next sowing.",
@@ -3069,7 +3077,8 @@
      "do": "Your child presents the menu.",
      "say": "Tell me your menu. Where does each food's energy start?",
      "kid": "Show your menu. Say where each food's energy starts.",
-     "think": "On Mars, would you miss the food, or the farm, or the people who grow it?"
+     "think": "On Earth, many people bring your food to you. On Mars, who would do all those jobs?",
+     "parent": "The astronauts would have to do every job themselves, such as growing, cooking and recycling, or machines would have to do them."
     }
    ],
    "context": "This is a design challenge. You plan a menu for astronauts on Mars. There are no farms, animals or sea there, so every food must be carried, grown or made.",
@@ -3809,12 +3818,12 @@
   "deep_truth": {
    "truth": "Sort any meal, and almost every food on it was made by something alive. Plants made the rice and dal, a cow made the milk, and bacteria made the curd. In the Milk to Curd test, warm milk with no curd added stayed runny, because no bacteria were working on the milk. So almost everything you eat was, a short time ago, part of another living thing.",
    "habit": "We say 'I made dinner', or that food comes from the shop. Cooking and buying are real work, but they only change or move food that plants, animals and microbes made.",
-   "evidence": "In Kitchen Detective, everything except salt and water went on a plate for a living thing. In the Milk to Curd test, milk set into curd only where living bacteria from old curd were added and kept warm."
+   "evidence": "In Kitchen Detective, every food except salt and water went on a plate. The plates were for plants, animals, or fungi and tiny living things. In the Milk to Curd test, milk set into curd only where living bacteria from old curd were added and kept warm."
   },
   "three": {
    "who_am_i": "Your body is built out of what you ate. Rice, dal, milk and fruit are broken down and rebuilt into you.",
    "what_is_life": "Living things make food and pass it on. A plant stores food in their seed, a cow turns grass into milk, and your body turns both into you.",
-   "what_is_this_world": "In this world, grass stores the Sun's energy, a cow turns the grass into milk, and the milk helps build a child who can wonder about it all."
+   "what_is_this_world": "Grass stores the energy of the Sun. A cow turns the grass into milk. The milk helps build the body of a child."
   },
   "thread": "Most food starts as sunlight caught by a leaf. A wheat plant uses that energy to build their grain. A cow uses grass to build milk, and curd bacteria use milk to build more bacteria. Your body uses all of these to build you. Each living thing takes what another made and builds their own body from it, so every meal links many lives into one chain.",
   "teachings": [

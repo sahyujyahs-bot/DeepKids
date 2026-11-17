@@ -628,6 +628,7 @@
      "do": "Add up the points and talk about the hardest place.",
      "say": "Which place was hardest to survive? Which features did you wish you had?",
      "kid": "Add up your points. Which place was hardest?",
+     "parent": "Expected answer: no. Every adaptation helps in one kind of place and can be a problem in another. A thick coat helps in Ladakh but would be too hot in the Thar Desert. So no single feature helps in every place.",
      "think": "Is there one feature that would help in every place?"
     }
    ],
@@ -1238,6 +1239,7 @@
      }
     }
    ],
+   "problem": "A cave fish cannot see in the dark. A fish has a row of tiny sensors along each side, called the lateral line, which feels the water moving. In this activity you close your eyes and feel the water move around your hand, to understand how a fish can sense things they cannot see.",
    "context": "This activity lets you feel the water move with your eyes closed, the way a fish's lateral line does, to understand how fish find their way in the dark.",
    "setup": [
     {
@@ -1315,6 +1317,7 @@
      "parent": "Blind people who use a long white cane find their way in a similar way. The cane touches things well ahead of the feet."
     }
    ],
+   "problem": "Cats, rats and seals have long whiskers that touch things before their faces do. In this activity you cross a room with your eyes closed, first with only your hands, and then with a long paper whisker. You find out how a whisker helps an animal find their way in the dark.",
    "context": "This activity is a walk with your eyes closed, first with only your hands and then with a long paper whisker, to understand how whiskers help animals at night.",
    "setup": [
     {
@@ -1385,9 +1388,11 @@
      "do": "Ask your child to sweep the bagged hand forward with the fingers closed together, then back with them spread.",
      "say": "A duck folds their toes together when their foot comes forward, and spreads them to push back. Can you feel why?",
      "kid": "Fingers together, move your hand forward. Fingers spread, push back. Which is easier?",
+     "parent": "Expected answer: pushing water forward would push the duck backwards. The duck wants to go forward, so the foot should push hard only when it moves back, and slip through the water when it comes forward.",
      "think": "Why would it be bad for a duck to push water forward as hard as backward?"
     }
    ],
+   "problem": "A duck's foot has skin stretched between the toes. In this activity a plastic bag over your hand works like that skin. You feel how much more water a webbed foot can push than spread toes can.",
    "context": "This activity compares pushing water with spread fingers and with a plastic bag over the hand, to feel how webbed feet help ducks and frogs swim.",
    "setup": [
     {
@@ -1483,6 +1488,7 @@
      "parent": "People's eyes do not have this shiny layer. The red eyes in some flash photos come from light bouncing off the blood-rich back of the eye, which is different."
     }
    ],
+   "problem": "A cat's eyes seem to glow when a light shines on them at night, but they do not make any light. In this activity you make two model eyes from cups, and find out why one of them shines in a torch beam.",
    "context": "This activity makes two model eyes from cups, one with a shiny back like a cat's eye, to show why some animals' eyes glow at night.",
    "setup": [
     {
@@ -1550,6 +1556,7 @@
      "parent": "Cabbage leaves show the waxy coat best: drops roll into shiny beads. Coriander and spinach leaves are thin and wilt quickly. Aloe vera is thick, juicy and waxy, a real succulent from dry places."
     }
    ],
+   "problem": "Many leaves have a thin waxy coat that water cannot stick to. The coat slows down the water escaping from the leaf. In this activity you drip water on leaves from your kitchen, to find which ones have the thickest waxy coat.",
    "context": "This activity looks for the waxy coat on everyday leaves, by dripping water on them and feeling them.",
    "setup": [
     {
@@ -1606,6 +1613,7 @@
      "kid": "Show your creature. Explain one feature. Does a real animal have a similar feature?"
     }
    ],
+   "problem": "Every place has problems for a living thing, such as heat, cold or darkness. A feature that solves one of these problems is called an adaptation. In this activity you pick a place, then draw a made-up animal or plant whose features solve the problems of that place.",
    "context": "This activity is drawing a made-up living thing for a hard place, like a desert or a cave, starting with the problems of that place.",
    "setup": [
     {
@@ -1695,6 +1703,7 @@
      }
     }
    ],
+   "problem": "Every living thing near you has features that help them live where they live. In this project, over three days, you find ten living things near your home. For each one you write down the problem they face and the feature that helps them.",
    "context": "This is a 3-day project. You make a notebook of ten living things and their adaptations, starting with ones you can see from your own home.",
    "setup": [
     {
@@ -1771,6 +1780,7 @@
      "do": "Read the usual and creative solutions together, then invent one more.",
      "say": "Here are some usual solutions, and some creative ones. Can you beat them?",
      "kid": "Look at the usual ideas and the creative ones. Now invent your own.",
+     "parent": "Expected answer: a rolled leaf cannot take in air and light to make food. Rolling up only at midday saves water when the sun is hottest. Opening in the evening lets the leaf make food again.",
      "think": "Rice leaves roll up only at midday and open again in the evening. Why is that better than staying rolled all the time?"
     }
    ],
@@ -3028,7 +3038,7 @@
    {
     "source": "Tirukkural 595",
     "teaching": "The stalk of a water flower grows as long as the water is deep. In the same way, a person rises as high as their spirit.",
-    "link": "Thiruvalluvar used a real fact about water plants: a lily's stalk really does grow longer in deeper water, so the flower reaches the surface. A living thing's body follows the needs of their place."
+    "link": "Thiruvalluvar used a real fact about water plants: a lily's stalk really does grow longer in deeper water, so the flower reaches the surface. A living thing's body is shaped by what their place asks of them."
    },
    {
     "source": "Tao Te Ching 76",
@@ -3059,7 +3069,7 @@
   "ask": [
    "A cactus saves water every minute just by their shape. Is a body's shape a kind of knowing how to live?",
    "The camel's way of saving water took many generations to build up. Is a camel calf born already knowing the desert?",
-   "A cave fish meets their world by touch and taste, and you meet yours mostly by sight. Which of you knows the cave better?"
+   "A cave fish finds their way by touch and taste. You find yours mostly by sight. In a dark cave, who would find food faster, and why?"
   ],
   "art": "A child curled up in a ball on a mat beside a fat round cactus, with a snow leopard curled up asleep in the background, all three in warm evening light."
  },

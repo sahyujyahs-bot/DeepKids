@@ -212,7 +212,7 @@
    "concept": "The sea: the biggest habitat on Earth",
    "status": "defined",
    "definition": "The sea is the huge body of salty water that covers most of the Earth. Its biggest parts are called oceans.",
-   "description": "The sea is salty water that covers about seven parts out of every ten of the Earth's surface. It is so deep that most of the space where life can live on our planet is under the sea. Near the top, where sunlight reaches, tiny floating plant-like living things called phytoplankton make food from sunlight. Fish, turtles, dolphins and whales live here. Along the coast, there are rocky shores, sandy beaches, coral reefs and mangrove forests. Deeper down, it gets darker and colder, and the water presses harder. At the bottom, in total darkness, live strange fish, worms and crabs. What is hard about the sea? Salt, waves, darkness in the deep and cold.",
+   "description": "The sea is salty water that covers about seven parts out of every ten of the Earth's surface. It is so deep that most of the space where life can live on our planet is under the sea. Near the top, where sunlight reaches, tiny floating plant-like living things called phytoplankton make food from sunlight. Fish, turtles, dolphins and whales live here. Along the coast, there are rocky shores, sandy beaches, coral reefs and mangrove forests. Deeper down, it gets darker and colder, and the water presses harder. At the bottom, in total darkness, live strange fish, worms and crabs. What is hard about the sea? The water is salty, and the waves can be strong. Deep down, it is dark and cold.",
    "examples": [
     "Olive ridley turtles come in huge numbers to lay eggs on beaches in Odisha.",
     "Corals around the Andaman Islands build reefs that give homes to hundreds of kinds of fish.",
@@ -866,7 +866,7 @@
      "do": "1. Count the leaf tokens to find the winner. 2. Look at which mat has the most cards.",
      "say": "Look at the mats. Which habitat got the most living things? Which got the fewest? Is that what you expected?",
      "kid": "Count your leaf tokens. Who won? Which mat has the most cards? Why do you think so?",
-     "think": "We put bacteria on the 'inside a body' mat. Are you a habitat too?"
+     "think": "We put bacteria on the 'inside a body' mat. Your body gives them food, water and warmth, just as a pond gives a frog what the frog needs. So is your body a habitat? Why?"
     }
    ]
   },
@@ -1183,7 +1183,7 @@
      "kid": "Put the fridge bowl somewhere warm. Will it turn into curd now? Why do you think so? Check it in the evening.",
      "parent": "It usually sets within 8 to 10 hours. If it is still runny in the evening, leave it until the next morning. This shows the cold did not kill the bacteria. They slowed down in the cold and got busy again once the place suited them. It is also why curd sets slowly in winter. At the end, all the bowls are good curd to eat, if they smell fresh and sour.",
      "wait": "Leave the fridge bowl in the warm place for about 8 hours, then tilt it.",
-     "think": "The bacteria waited in the cold and got busy in the warm. How do you think they sensed that their place had changed?"
+     "think": "The fridge bacteria did not die. They waited, and then got busy in the warm. So was the fridge a bad home for them, or just a slow one? What did you see that shows it?"
     }
    ],
    "example_chart": {
@@ -1810,7 +1810,8 @@
      "kid": "Draw a bar for each square. Which had more kinds? Why do you think so?",
      "think": "Scientists call the number of different kinds of living things biodiversity. Which places near your home do you think have the most?"
     }
-   ]
+   ],
+   "problem": "To compare two places fairly, scientists count the living things inside a square of the same size. Such a square is called a quadrat. Yours will be 1 metre on each side. You count how many different kinds of living things are in it, and not how many of each kind."
   },
   {
    "id": "a4",
@@ -1968,7 +1969,8 @@
      "do": "Lie down quietly for one minute. Imagine you are the deep sea floor: dark, cold and still. Then imagine a warm vent and its crowd of worms.",
      "say": "Close your eyes. You are the deep sea floor. Dark. Cold. Still. Now, warm water seeps up through a crack. Feel the crowd of life arrive.",
      "kid": "Lie still. Close your eyes. You are the dark sea floor. Now warm water seeps up. Life arrives!",
-     "think": "Which habitat did you feel most at home in? Why?"
+     "think": "Which of the four habitats makes water hardest to find, and which gives it most easily? How could a living thing in the hard one cope?",
+     "parent": "A good answer: the desert makes water hardest to find, because it gets very little rain. A pond gives water most easily, and the sea has water everywhere, although it is salty. Desert animals cope by hiding in cool burrows by day and by getting water from their food."
     }
    ]
   }
@@ -2115,7 +2117,8 @@
      "kid": "What could you add? Flowers for food? More shade? Make your corner give more.",
      "think": "Your corner gives water and shelter. What would it need to become a whole habitat for one bird?"
     }
-   ]
+   ],
+   "problem": "In a hot town in summer, wild birds and insects find water hard to get, and safe places to hide are rare. Your job is to make a small corner that gives them some water and some shelter. Then you watch who comes, and write it down."
   }
  ],
  "challenges": [
@@ -2143,8 +2146,8 @@
    ],
    "creative": [
     "Wrap the cup in a wet cloth. As the water evaporates, which means it dries off into the air, it takes heat away from the cup. A clay pot (a matka or kooja) keeps water cool the same way.",
-    "Make a thick roof with an air gap under it, like the thick mud walls of houses in the Thar.",
-    "Copy a termite mound: a tall chimney that lets hot air rise out."
+    "Make a thick roof with an air gap under it. The gap slows the heat on its way to the cup. Houses in the Thar have thick mud walls for the same reason.",
+    "Termites build tall mounds with tunnels inside. Hot air rises and leaves through the tunnels, so the nest stays cooler. Build a tall chimney on your shelter in the same way."
    ],
    "your_turn": "Now invent your own shelter. Draw it, build it and test it against a cup with no shelter. Which kept your 'animal' coolest?",
    "context": "This is a design challenge about the desert habitat. Desert animals hide in burrows and shade by day. You build a shelter that keeps a cup of water cool in the hot sun.",
@@ -2431,7 +2434,7 @@
      "t": "odd",
      "p": "Here are four things: milk, warmth, sunlight and time. Curd bacteria need three of them to grow. Which one do they not need, and why?",
      "a": "sunlight",
-     "why": "The warm bowl in the three bowls experiment was wrapped in a towel, in the dark, and it still set first. So curd bacteria need food, water and warmth, but not sunlight. Plants need sunlight. Many living things do not.",
+     "why": "The warm bowl in the three bowls experiment was wrapped in a towel, in the dark, and it still set first. So curd bacteria need milk, warmth and time, but not sunlight. Plants need sunlight. Many living things do not.",
      "context": "Remember the three bowls experiment, where you stirred curd into warm milk and kept one bowl warm, one on the counter and one in the fridge?",
      "how": "e4"
     },

@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Breathe out slowly onto your hand. Feel how warm it is. Part of that breath is the chapati or rice you ate yesterday. How did your food get into your breath?",
-  "text": "Almost all our food starts as plants growing in sunlight. In this unit we follow food after you swallow it. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Some of it is burned for energy, and you breathe it out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?",
+  "text": "Almost all our food starts as plants growing in sunlight. In this unit we follow food after you swallow it. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Your cells use some of it as fuel. What is left over leaves your body as a gas when you breathe out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?",
   "art": "A girl breathing out onto her palm, a faint curl of warm breath, and inside a dotted outline of her body a tiny chapati breaking into sparkling specks that flow to her lungs."
  },
  "outcomes": [
@@ -257,10 +257,10 @@
    "concept": "Why the body needs carbohydrates",
    "status": "defined",
    "definition": "Carbohydrates, like starch and sugar, are the body's main fuel. They are broken into glucose, which every cell can burn for energy.",
-   "description": "Rice, chapati, ragi, jowar, bajra, poha, potatoes and bananas are mostly starch. Starch is a long chain of glucose pieces. Your body cuts the chain and sends the glucose into the blood. Whole grains are cut more slowly than white rice or maida, especially when you eat them with dal and vegetables. Then the glucose comes in a gentle stream. Sugar and sweets need very little cutting, so their glucose arrives in a rush. Your body can handle that sometimes. But lots of added sugar every day feeds the mouth bacteria that make holes in teeth. Over many years, eating a lot of added sugar is also linked to illnesses such as diabetes. Any extra glucose that is not needed is stored, first in the liver and muscles, then as fat.",
+   "description": "Rice, chapati, ragi, jowar, bajra, poha, potatoes and bananas are mostly starch. Starch is a long chain of glucose pieces. Your body cuts the chain and sends the glucose into the blood. Whole grains take longer to break down than white rice or maida. This is especially so when you eat them with dal and vegetables. So their glucose enters your blood slowly and steadily. Sugar and sweets hardly need breaking down at all, so their glucose enters your blood very fast. Your body can handle that sometimes. But lots of added sugar every day feeds the mouth bacteria that make holes in teeth. Over many years, eating a lot of added sugar is also linked to illnesses such as diabetes. Any extra glucose that is not needed is stored, first in the liver and muscles, then as fat.",
    "examples": [
-    "Chapati made from whole atta, eaten with dal and poriyal, gives a steady stream of energy through the afternoon.",
-    "A glass of sugary sharbat gives a quick rush of energy.",
+    "Chapati made from whole atta, eaten with dal and poriyal, gives your body steady energy through the afternoon.",
+    "A glass of sugary sharbat gives your body energy very quickly.",
     "Chew a piece of chapati thirty times. It starts to taste sweet as your spit cuts starch into sugar."
    ],
    "perspectives": [],
@@ -313,7 +313,7 @@
    "concept": "Fibre and the trillions of microbes in your gut",
    "status": "defined",
    "definition": "Fibre is the part of plant food that your body cannot digest. In the large intestine, trillions of gut microbes eat it. They make substances that help feed the cells of your gut.",
-   "description": "Your large intestine is home to roughly as many bacteria as there are cells in your whole body. That is tens of trillions. There are hundreds of different kinds. They are living things with their own lives, not just helpers. They live in a warm, dark tube with food arriving several times a day. Their favourite food is the fibre you cannot break down, from dal husks, whole grains, vegetables and fruit. As they eat it, they make gas, which is why rajma and chana can make you fart. They also make small acids. One, called butyrate, is the main food of the cells lining your large intestine. So you feed them, and they feed you back. People who eat many kinds of plants tend to have more kinds of gut microbes. Scientists are still finding out what that means for health.",
+   "description": "Your large intestine is home to roughly as many bacteria as there are cells in your whole body. That is tens of trillions. There are hundreds of different kinds. They are living things with their own lives, not just helpers. They live in a warm, dark tube with food arriving several times a day. Their favourite food is the fibre you cannot break down, from dal husks, whole grains, vegetables and fruit. As they eat it, they make gas, which is why rajma and chana can make you fart. They also make small acids. One, called butyrate, is the main food of the cells lining your large intestine. So you feed the microbes with fibre. In return, they make acids that feed some of your own gut cells. People who eat many kinds of plants tend to have more kinds of gut microbes. Scientists are still finding out what that means for health.",
    "examples": [
     "Rajma and chana can make a lot of gas. Your gut microbes make that gas as they eat the fibre.",
     "The Hadza people of Tanzania hunt and gather their food. Their gut microbes change with the seasons, as their food changes.",
@@ -431,7 +431,7 @@
    "for": "Grains and pulses each lack enough of one amino acid. Together they make up the full set.",
    "against": "Lappé herself said in the 1981 edition that strict combining at every meal was not needed. The body keeps a pool of amino acids, so eating grains and pulses over the same day is enough. She changed her mind when the evidence changed, which is what careful thinkers do.",
    "status": "rejected",
-   "context": "This card is about an old rule for vegetarian meals, and the scientist who changed her own mind about it."
+   "context": "The old rule says that a vegetarian must eat grains and pulses in the same meal. Rice is a little low in one amino acid, called lysine. Dal is a little low in another, called methionine. Together they fill each other's gaps. Complete protein means a meal that has all nine amino acids that the body cannot make. This card asks whether you must do this at every single meal. It also tells how the scientist who wrote the rule changed her own mind."
   },
   {
    "claim": "Eating curd, or taking 'good bacteria' pills, makes you healthy and helps you live longer.",
@@ -439,7 +439,7 @@
    "for": "Mechnikov noticed that some villagers in Bulgaria who drank soured milk lived long lives. Some trials show certain microbes can help with some kinds of diarrhoea.",
    "against": "Most microbes in curd or pills pass through the gut and do not stay. The long-lived villagers may have been healthy for many other reasons. Many claims on packets go far beyond the evidence. Curd is a good food, but not a magic one.",
    "status": "debated",
-   "context": "This card is about the idea that eating living microbes keeps you healthy."
+   "context": "Curd is made by living bacteria. 'Good bacteria' pills, also called probiotics, hold living bacteria too. This card asks whether eating them keeps you healthy and helps you live longer."
   },
   {
    "claim": "The vitamins were discovered by a few famous men.",
@@ -711,6 +711,7 @@
      "say": "Look at the cards the winner chose. How many different kinds of food did they eat? What does that tell us about a balanced diet?",
      "kid": "Count your fed cells. Look at your 8 cards. How many kinds of food did you eat?",
      "think": "In the game, extra energy was thrown away. In a real body, what happens to extra energy?",
+     "parent": "In a real body, extra energy is not thrown away. Glucose that the body does not need right away is stored, first in the liver and muscles, and then as fat.",
      "check": {
       "t": "mcq",
       "q": "Which set of cards feeds the most different cells?",
@@ -1462,6 +1463,7 @@
   {
    "id": "e1",
    "title": "The Paper Window Test: which foods carry fat?",
+   "problem": "Fat leaves a see-through spot on paper, like a little window. Water makes a see-through spot too, but the water dries away and the spot disappears. So a see-through spot that is still there after 15 minutes means that the food carries fat. In this test you rub foods on paper to find which ones carry fat.",
    "mins": 28,
    "days": 1,
    "question": "Which of our everyday foods carry fat, and which carry a lot?",
@@ -1671,6 +1673,7 @@
   {
    "id": "e2",
    "title": "The Vanishing Blue: which fruit has the most vitamin C?",
+   "problem": "Iodine turns starch dark blue. Vitamin C takes that blue colour away again. Add a juice to a dark blue liquid, one drop at a time. The number of drops needed to clear the blue shows how much vitamin C the juice has. The fewer drops it needs, the more vitamin C it has. In this test you compare five juices and plain water.",
    "mins": 35,
    "days": 1,
    "question": "Which juice has the most vitamin C: amla, guava, lemon, mosambi or a packet fruit drink?",
@@ -1879,6 +1882,7 @@
   {
    "id": "e3",
    "title": "Balloon Bellies: what do microbes like to eat?",
+   "problem": "Yeast is a tiny living fungus. When yeast eats, they give off a gas, and the gas fills the balloon. Your gut microbes also eat and make gas, so yeast in a bottle is a small model of them. In this test you feed yeast sugar, atta or nothing. You measure the balloons to see what the yeast likes to eat.",
    "mins": 61,
    "days": 1,
    "question": "Does yeast, a tiny living fungus, make more gas when fed sugar, atta or nothing at all?",
@@ -2115,7 +2119,7 @@
        ]
       }
      ],
-     "parent": "Most children find lots of yellow and few greens. That is common and nothing to worry about. Keep their wonder questions. The rest of the unit answers them.",
+     "parent": "Most children find lots of yellow and few greens. That is common and nothing to worry about. Keep their wonder questions. The rest of the unit answers them. As for the cells, they do not all need the same things. Muscle cells need protein, bone cells need calcium and brain cells need glucose.",
      "think": "Your body is made of trillions of cells. Do you think they all need the same thing from food?"
     }
    ],
@@ -2230,7 +2234,7 @@
      "mins": 4,
      "do": "1. Eat the meal. 2. Afterwards, ask your child to say three short sentences. First, what I think. Second, what I saw. Third, why.",
      "say": "After we eat, tell me three things. What do you think about our plate? What was on it? Why does the body need all three colours?",
-     "kid": "After eating, say three things: what you think, what you saw on your plate, and why your body needs every colour.",
+     "kid": "After eating, say three things. What you think. What you saw on your plate. Why your body needs every colour.",
      "parent": "A good answer sounds like this. What I think: our lunch was balanced. What I saw: bhindi and salad for green, rice for yellow, dal and curd for red, and water. Why: energy foods give fuel, grow foods build my body, and glow foods help everything work. Balance over the whole day matters more than any one plate."
     }
    ],
@@ -2253,6 +2257,7 @@
   {
    "id": "a3",
    "title": "The Paper-Clip Journey: from chapati to cell",
+   "problem": "Food must be cut into very small pieces before your body can use it. In this activity, paper clips stand for those pieces. A chain of clips is a big piece of food. A card with a slot stands for the wall of your gut. You find out what has to happen to a chain before it can get through the slot.",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -2335,7 +2340,8 @@
       "a": 1,
       "why": "The amino acids are joined in a new order made by your own cells. So the new protein is yours. This is how food becomes you. Picking 'the dal's' is a good thought, since the pieces came from dal. But the new chain has a different order and a different job."
      },
-     "think": "Your muscle is built from dal, and the dal plant was built from air, water, soil and sunlight. So where does the dal end and you begin?"
+     "think": "Your muscle is built from dal, and the dal plant was built from air, water, soil and sunlight. So where does the dal end and you begin?",
+     "parent": "There is no single moment. The dal is cut into small pieces, carried by the blood and joined into muscle bit by bit, so it slowly becomes you. Any thoughtful answer is good."
     },
     {
      "id": "s5",
@@ -2446,7 +2452,8 @@
        ]
       }
      ],
-     "think": "Why do you think sugary drinks have such bright packets and adverts?"
+     "think": "Why do you think sugary drinks have such bright packets and adverts?",
+     "parent": "Bright packets and adverts are made to catch your eye, so that you buy the drink. A company earns money every time someone buys a packet."
     }
    ],
    "context": "This is a label-reading activity. You find how much sugar is in some drinks and snacks, then spoon that much sugar onto saucers so you can see it.",
@@ -2707,7 +2714,8 @@
       "a": 1,
       "why": "9 divided by 2 is 4, with 1 left over. So draw 4 whole leaves and half a leaf for the extra plant. Picking 9 leaves means forgetting that each leaf stands for 2. Picking 2 leaves means using the key the wrong way."
      },
-     "think": "Did you reach 30? Your gut microbes are living things with their own lives. What would a week look like from their side?"
+     "think": "Did you reach 30? Different kinds of plant feed different gut microbes. What do you think happens to your gut microbes in a week with only a few kinds of plant?",
+     "parent": "With only a few kinds of plant, only some kinds of gut microbe get fed, and the others go hungry. People who eat many kinds of plant tend to have more kinds of gut microbe."
     }
    ],
    "setup": [
@@ -2869,7 +2877,8 @@
      "do": "If you have a scale, weigh one day's food for one person.",
      "say": "Let's weigh it. Is it under 1 kilogram?",
      "kid": "Weigh one day's food. Is it under 1 kilogram?",
-     "think": "Mountaineers and soldiers in the Himalayas need much more energy than usual. Why do you think cold and climbing use so much?"
+     "think": "Mountaineers and soldiers in the Himalayas need much more energy than usual. Why do you think cold and climbing use so much?",
+     "parent": "Climbing makes your muscles work hard, so they burn much more food. In the cold, your cells also burn food to keep your body at about 37 degrees Celsius."
     }
    ],
    "setup": [
@@ -3154,7 +3163,7 @@
  ],
  "ask_kids": [
   "Which kinds of food are on your plate right now: go, grow or glow?",
-  "Where will this chapati be tomorrow morning?",
+  "A few hours from now, where will the chapati on your plate be? Think about your blood and your breath.",
   "Can you feel the warmth of your breath? Which meal is that from?",
   "What do you think your gut microbes are eating right now?",
   "If you could add one thing to this meal to balance it, what would it be?",
@@ -3162,7 +3171,7 @@
   "Is anything on this plate made from a seed? A leaf? A root?",
   "How hungry are you, from 1 to 5?",
   "Who grew this food, and who cooked it?",
-  "If your bone cells could talk, what would they ask you for today?",
+  "Your bone cells need calcium. Which food could you eat today to give them some?",
   "Why do you think the dal has lemon squeezed on it?"
  ],
  "jokes": [
