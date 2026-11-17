@@ -3,7 +3,7 @@
  "title": "Sun, Moon and stars: why the Sun is a star and the Moon is not",
  "level": 3,
  "summary": {
-  "text": "The Sun is a star, the same kind of thing as the stars we see at night. It looks huge and bright only because it is so much nearer to us. Stars make their own light, while the Moon and the planets only reflect sunlight. The Earth is one of eight planets going round the Sun, and the Moon goes round the Earth. In the near lamp, far lamp test, a torch carried far down a corridor looks like a tiny dot. This shows how a huge light can look tiny when it is far away.",
+  "text": "The Sun is a star, the same kind of thing as the stars we see at night. It looks huge and bright only because it is so much nearer to us. Stars make their own light, while the Moon and the planets only reflect sunlight. The Earth is one of eight planets going round the Sun, and the Moon goes round the Earth. A torch carried far down a long corridor looks like a tiny dot, even though the torch has not changed. In the same way, a huge light can look tiny when it is far away.",
   "art": "A night sky over an Indian rooftop: a big glowing Sun drawn in a corner with rays, a pale Moon with an arrow showing sunlight bouncing off it, a steady bright planet low in the west, and many tiny stars, each with a small faint sun-shape drawn beside it."
  },
  "intro": {
@@ -802,7 +802,7 @@
      "do": "1. Count everyone's star tokens to find the winner. 2. Look at the two piles together.",
      "say": "Look at the LIGHT SOURCE pile. How many of those are in the sky? Look at the REFLECTOR pile. What lights almost all of them up?",
      "kid": "Count your stars. Who won? Now look at the REFLECTOR pile. What lights most of them up?",
-     "think": "Almost everything you see is lit by something else. What lights you up?"
+     "think": "Your own face is a reflector. What is lighting it up right now?"
     }
    ],
    "context": "This is a card game about light in the sky and at home. Players decide whether each thing makes its own light (a light source) or only reflects light from something else (a reflector).",
@@ -898,7 +898,7 @@
       "a": 0,
       "why": "Planets are our neighbours, going round the Sun. As they and the Earth move, they seem to drift past the far-off stars. The stars move too, but they are so far away that their patterns hardly change in a whole human life. Picking 'the stars are moving' mixes up which is near and which is far."
      },
-     "think": "The stars do move, but so slowly that our eyes can't see it. What patterns would people see in a million years?"
+     "think": "The stars do move, but so slowly that our eyes cannot see it. Would the Saptarishi look the same to your grandparents as it does to you? Why?"
     }
    ],
    "context": "This is a memory game. One player secretly moves a wanderer a little among paper stars, and the others must spot which one moved, just as ancient sky-watchers spotted the planets.",
@@ -2109,10 +2109,11 @@
       "a": 2,
       "why": "The nearest other star is about 270,000 times as far as the Sun. 24 metres times 270,000 is about 6,500 kilometres, close to the distance from Delhi to London. Picking 'the end of the street' is a very common guess. Space is far emptier than almost anyone imagines."
      },
-     "think": "Space is almost all empty. So why does the night sky look so full of stars?"
+     "think": "In the model, the nearest other star is a football as far away as London. Could you see that football from here? Why do stars look like tiny dots?"
     }
    ],
    "context": "In this activity you build the Sun, the Earth and the Moon at their real sizes and distances, using a mustard seed for the Earth. It shows how big the Sun is, and how empty space is.",
+   "problem": "The Sun is so big, and so far away, that it is hard to picture. In this activity, you shrink the Earth to a mustard seed, and place the Moon and the Sun at the same scale. Then you can see how big the Sun is, and how empty space is.",
    "setup": [
     {
      "art": "A parent and child walking towards each other and hugging, with a small question mark and a drawing of the Sun above them.",
@@ -2184,18 +2185,19 @@
      "do": "1. Add a Moon. With three of you, a small child or someone carrying a toy walks round one planet. That planet walks round the Sun. 2. With only two of you, the planet carries a toy. They swing it in small circles round themself as they walk round the Sun.",
      "say": "Now the Earth gets a Moon. The Moon goes round the Earth, and the Earth goes round the Sun, carrying the Moon along.",
      "kid": "Now add a Moon! The Moon goes round the Earth. The Earth goes round the Sun. Can you do both at once?",
-     "think": "The Moon goes round the Earth, and the Earth goes round the Sun. Does the Sun go round anything?"
+     "think": "Our Sun is one of billions of stars in the Milky Way galaxy. The Sun and its planets go round the centre of the galaxy, and one trip takes about 230 million years. So does the Sun go round anything?"
     },
     {
      "id": "s4",
      "mins": 4,
      "do": "Play two short pieces from The Planets, orchestra music by Gustav Holst, written between 1914 and 1916. Play 'Mars, the Bringer of War' and then 'Jupiter, the Bringer of Jollity'. Dance to each.",
-     "say": "A composer called Gustav Holst wrote music for the planets, over a hundred years ago. Which one sounds like a giant? He wrote nothing for the Earth. What would the Earth's music sound like?",
-     "kid": "Dance to the Mars music. Now dance to the Jupiter music. Which sounds like a giant? What would Earth's music be?",
+     "say": "A composer called Gustav Holst wrote music for the planets, over a hundred years ago. He wrote it about the Roman gods that the planets are named after. Mars was the god of war, and Jupiter was the king of the gods. Listen to each piece. Which one sounds like war, and which one sounds like a happy king?",
+     "kid": "Dance to the Mars music. Now dance to the Jupiter music. Which one sounds like war? Which one sounds happy?",
      "parent": "Holst's music is about the old Roman gods the planets are named after, not the science. Mars was the Roman god of war. Holst wrote no piece for the Earth, and none for Pluto, which was found in 1930, after he finished."
     }
    ],
    "context": "This is a dance where family members act out the Sun, the planets and the Moon. It shows how the Sun's gravity keeps the planets going round it.",
+   "problem": "The planets go round the Sun, and they do not fly away or fall in. The Sun's gravity, which is its pull on each planet, keeps bending each planet's path into a loop. In this activity, your family acts out the Sun, the planets and the Moon, and you feel why they stay in their paths.",
    "setup": [
     {
      "art": "A child in the middle of a room wrapped in a yellow dupatta as the Sun, with family members walking in circles round them.",
@@ -2303,7 +2305,7 @@
       "a": 0,
       "why": "The Moon goes round the Earth in about a month. So at the same time each evening it is a big step further east, about one fist's width at arm's length, or a little more. Its lit part also changes shape. Planets move too, but in five nights you may not notice. The stars keep their patterns. Picking 'the stars' usually comes from seeing the whole sky turn during one night. That turning is the Earth spinning, and the stars keep their shapes."
      },
-     "think": "If you kept this diary for a whole year, what do you think you would find?"
+     "think": "The Moon takes about a month to go round the Earth. If you kept this diary for a whole month, what would happen to the Moon's shape?"
     },
     {
      "id": "s4",
@@ -2402,6 +2404,7 @@
     }
    ],
    "context": "This activity uses a timer and a timeline to show that light takes time to travel. When you look at the Sun's light or a star, you are seeing the past.",
+   "problem": "Light takes time to travel, so we always see the Sun and the stars as they were when their light set off. In this activity, you feel eight-minute-old sunlight, and then you make a timeline of when starlight set off.",
    "setup": [
     {
      "art": "A child sitting in a patch of sunlight with eyes closed and a kitchen timer showing 8 minutes beside them.",
@@ -2523,6 +2526,7 @@
     }
    ],
    "context": "In this 2-day project, you poke star patterns into black paper and shine a torch through them onto the ceiling. A second torch with a pinhole makes a planet that wanders among the stars.",
+   "problem": "Stars keep their patterns night after night, but a planet is a bright dot that slowly wanders among them. In this project, you make a night sky in a shoebox, with fixed stars and one planet that moves.",
    "setup": [
     {
      "art": "A child copying star dots from a book onto black paper with a white pencil.",
@@ -2599,7 +2603,7 @@
      "do": "Read the usual solutions and creative ideas together. Then invent a new one.",
      "say": "Here's what people usually do, and some creative ideas. Can you invent something new?",
      "kid": "Look at the usual ways and the creative ideas. Now invent your own. Can you beat them?",
-     "think": "Astronomers in India watch the Sun with a spacecraft called Aditya-L1, launched in 2023. Why might they study the Sun from space?"
+     "think": "Our air bends and scatters the Sun's light. India's spacecraft Aditya-L1, launched in 2023, watches the Sun from space. Why might that give astronomers a clearer view?"
     }
    ],
    "context": "This is a design challenge. You build a viewer that shows a picture of the Sun at least 2 centimetres wide, without anyone ever looking at the Sun.",
@@ -2773,11 +2777,11 @@
   },
   {
    "t": "mcq",
-   "p": "Your friend says, 'The Sun must be the biggest star, because it looks the biggest.' Which test from this unit best shows why this reasoning is not enough?",
+   "p": "Your friend says, 'The Sun must be the biggest star, because it looks the biggest.' Which fact shows why this reasoning is not enough?",
    "opts": [
-    "The near lamp, far lamp test: the same torch looked smaller when it was further away",
-    "The Own Light or Reflected Light test",
-    "The pinhole Sun experiment"
+    "A torch looks smaller when it is further away, though it does not change",
+    "A steel plate only shines when light falls on it",
+    "A tiny pinhole makes a round picture of the Sun"
    ],
    "a": 0,
    "outcome": 1,
@@ -3401,7 +3405,7 @@
    {
     "source": "Carl Sagan, Cosmos, episode 1 (1980)",
     "teaching": "The cosmos is within us. We are made of star-stuff.",
-    "link": "An American astronomer, speaking as a scientist, says what the stars' atoms tell us: we come from them."
+    "link": "Carl Sagan was an American astronomer, and he said this as a scientist. The atoms in our bodies were made in stars. So in that sense, we come from them."
    }
   ],
   "science": [

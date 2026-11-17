@@ -157,7 +157,7 @@
    "definition": "In the Sun's core, the centres of hydrogen atoms are squeezed together so hard that they join to make helium. This is called nuclear fusion, and it gives out the energy that becomes sunlight.",
    "description": "Many people think the Sun is on fire. It is not. A fire needs oxygen from the air, and there is no air in space. The Sun's core is about 15 million degrees Celsius, and the weight of the whole Sun presses down on it. There, hydrogen is joined into helium. A helium atom made this way weighs a tiny bit less than the four hydrogen atoms that made it. The missing bit of material turns into energy. Every second, the Sun turns about 4 million tonnes of its material into energy. The Sun is so big that it has shone like this for about 4.6 billion years, and will go on for about 5 billion more.",
    "examples": [
-    "A fire the size of the Sun, burning coal, would have burnt out in a few thousand years. The Sun is about a million times older than that.",
+    "Suppose a fire the size of the Sun burned coal. It would burn out in only a few thousand years. But the Sun has been shining for about 4.6 billion years.",
     "Fusion needs no air. That is why the Sun shines in empty space."
    ],
    "perspectives": [],
@@ -1213,7 +1213,7 @@
      "do": "Leave your child with a question.",
      "say": "The sunlight felt gentle on your back. Could the same sunlight ever be strong enough to burn paper? We will find out.",
      "kid": "The sunlight felt gentle. Could it ever burn paper? Keep that question in your head!",
-     "think": "What could make gentle sunlight strong enough to burn?"
+     "think": "Have you seen a magnifying glass make a small, bright spot? Guess what it does to the sunlight that falls on it, and why that might burn paper."
     }
    ],
    "context": "This is a short activity to begin the unit. You feel sunlight and shade with your skin and hand, and ask where the warmth comes from.",
@@ -1297,7 +1297,7 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Measure the width of the round spot on the wall with a ruler. 2. Measure the distance from the mirror to the wall with the tape. 3. Write both numbers down in centimetres.",
-     "say": "Let's measure the spot, and how far it is from the mirror. Scientists measure pictures like this to work out how big the Sun looks from Earth.",
+     "say": "Let's measure the spot, and how far it is from the mirror. The spot is a picture of the Sun. Measuring it lets us work out how many times further away the Sun is than it is wide.",
      "kid": "Measure how wide the round spot is. Then measure from the mirror to the wall. Write both numbers.",
      "parent": "On a wall 500 cm away, the spot is about 5 cm wide. On a wall 300 cm away it is about 3 cm. Take away the width of the hole, 0.5 cm, from the width of the spot. Then divide the distance by what is left. You should get roughly 100. That means the Sun is about 100 times further away than it is wide. The real number is about 108."
     },
@@ -1312,6 +1312,7 @@
     }
    ],
    "context": "In this activity you use a covered mirror to make a safe picture of the Sun on a wall, and measure it.",
+   "problem": "You must never look straight at the Sun. But a covered mirror can make a picture of the Sun on a wall, and you can look at that picture for as long as you like. In this activity, you make the picture and measure it.",
    "setup": [
     {
      "art": "A small round mirror covered with paper, with a small square hole cut in the middle.",
@@ -1489,6 +1490,7 @@
     }
    ],
    "context": "In this activity you act as a bit of the Sun's energy, travelling from the core to the Earth.",
+   "problem": "Sunlight takes about 8 minutes to cross space. But the energy inside the Sun takes thousands of years to reach the surface. Inside the Sun, the energy is taken in and sent out again in new directions, so it zigzags. In empty space, it goes straight. In this activity, you act out both trips.",
    "setup": [
     {
      "art": "A pile of cushions at one end of a room, with a child zigzagging between them.",
@@ -1598,6 +1600,7 @@
     }
    ],
    "context": "In this 6-day project, sunlight slowly fades a sheet of paper, except where objects block it, and leaves their shapes behind.",
+   "problem": "Ultraviolet light in sunlight slowly fades paper. Where an object blocks the sunlight, the paper keeps its colour. In this project, you let the Sun draw the shapes of some objects on paper over six days.",
    "setup": [
     {
      "art": "A key, a coin and a leaf laid on a sheet of pink kite paper, with clear glass on top, on a sunny windowsill.",
@@ -1669,7 +1672,7 @@
      "mins": 20,
      "do": "Put one chocolate in a bowl in the open sun and one in your cooker, at the same moment. Check both every 5 minutes.",
      "say": "Let's race. Which chocolate goes soft first?",
-     "kid": "Put one chocolate in the open sun and one in your cooker, at the same moment. Check both every 5 minutes.",
+     "kid": "Put one chocolate in the open sun. Put one in your cooker at the same moment. Check both every 5 minutes.",
      "check": {
       "t": "mcq",
       "q": "Why does foil inside the box help the chocolate melt faster?",
@@ -1966,7 +1969,7 @@
    ],
    "a": 0,
    "outcome": 6,
-   "why": "In the Sun's core, hydrogen joins into helium. A little material goes missing each time, and it becomes the energy that makes the Sun shine."
+   "why": "In the core, four hydrogen atoms join into one helium atom. The helium atom weighs a little less, so a tiny bit of material goes missing each time. That missing material turns into energy, and the energy is what makes the Sun shine."
   }
  ],
  "worksheets": [
@@ -2121,7 +2124,7 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the Sunbeam Race, where you travelled from the Sun's core to the Earth. You land on a black road. What happens to you?",
+     "p": "A bit of sunlight lands on a black road. What happens to it?",
      "opts": [
       "You are reflected away",
       "You are absorbed and turn into heat",
@@ -2231,7 +2234,7 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the Mirror Sun, where a covered mirror made a picture of the Sun on a wall. The hole in the paper was square. What shape was the spot on the far wall?",
+     "p": "A mirror is covered with paper that has a small square hole in it. The mirror throws the Sun's light onto a wall far away. What shape is the spot of light on the wall?",
      "opts": [
       "Square, like the hole",
       "Round, like the Sun",
@@ -2928,7 +2931,7 @@
    "evidence": "In the Sun Dot experiment, the big circle of light never made the paper smoke in 60 seconds. The tiny dot made from the same light did it in a few seconds. Nothing was added. The light was only packed into a smaller place."
   },
   "three": {
-   "who_am_i": "You are one of the things that sunlight lands on. Your skin and your eyes take it in, and your food is made from it.",
+   "who_am_i": "Sunlight lands on you every day. Your skin takes it in as warmth, your eyes catch it, and the food you eat was made with it.",
    "what_is_life": "Almost every living thing runs on sunlight caught by plants, and a lizard on a wall warms up in the sunshine to start her day.",
    "what_is_this_world": "The Sun is one star among billions. The Earth catches only a tiny share of its light, and that share warms the whole world."
   },
@@ -2960,7 +2963,7 @@
     "status": "settled"
    },
    {
-    "text": "Why the Sun's corona is millions of degrees hotter than its surface.",
+    "text": "Scientists do not yet know why the Sun's corona is millions of degrees hotter than its surface.",
     "status": "open"
    }
   ],
@@ -2988,5 +2991,5 @@
   "when": "1854 to 1939",
   "wrong_idea": "People thought the Sun was a giant fire, and later that it shone by slowly shrinking. Both would have used up the Sun in far less time than the Earth's rocks show it has existed. Fusion, joining hydrogen into helium, gives enough energy for billions of years."
  },
- "warm": {"words": ["LIGHT", "SOLAR", "FOCUS", "STARS", "EARTH"], "quiz": [["The Sun is a star, and it is the nearest star to the Earth.", true, "Stars are huge balls of hot gas that make their own light."], ["The Sun shines because a huge fire is burning in it.", false, "The Sun is not a fire; deep inside, hydrogen joins to make helium and gives out energy."], ["A magnifying glass can make paper smoke by gathering sunlight into one small spot.", true, "A lens bends light so it all meets at one spot, the focus, and that spot gets very hot."], ["Sunlight takes a whole day to reach the Earth.", false, "Sunlight crosses space in about eight minutes."], ["A black road gets hotter in the Sun than a white wall because it absorbs more light.", true, "White surfaces reflect most light; dark ones absorb it, and absorbed light turns into heat."], ["If looking at the Sun does not hurt, it is safe for your eyes.", false, "Sunlight can harm the retina without pain, so we never look straight at the Sun."], ["The lens of your eye can gather the Sun's light into a tiny spot at the back.", true, "That bright spot can harm the retina, just as a magnifying glass burns paper."], ["Only light that we can see carries energy from the Sun.", false, "Invisible infrared and ultraviolet come too; infrared feels warm and ultraviolet can burn skin."], ["Part of sunlight is invisible, but our skin feels it as warmth.", true, "This is infrared light, which lies beyond red."], ["The Sun is about the same size as the Earth.", false, "About 109 Earths would fit across the face of the Sun."]], "odd": [[["Sun", "Sirius", "Pole Star", "Moon"], "Moon", "The Sun and stars make their own light; the Moon only reflects sunlight."], [["black paper", "tar road", "dark cloth", "mirror"], "mirror", "Black paper, tar and dark cloth absorb light and warm up; a mirror reflects most of it."], [["magnifying glass", "eye lens", "camera lens", "window glass"], "window glass", "The first three are curved lenses that gather light; flat window glass does not."], [["hydrogen", "helium", "hot gas", "solid rock"], "solid rock", "The Sun is made of hot gas, mostly hydrogen and helium, not rock."], [["pinhole box", "eclipse glasses", "solar filter", "staring at it"], "staring at it", "The first three show the Sun safely; staring lets the eye's lens burn the retina."]]}
+ "warm": {"words": ["LIGHT", "SOLAR", "FOCUS", "STARS", "EARTH"], "quiz": [["The Sun is a star, and it is the nearest star to the Earth.", true, "Stars are huge balls of hot gas that make their own light."], ["The Sun shines because a huge fire is burning in it.", false, "The Sun is not a fire. Deep inside it, hydrogen joins to make helium and gives out energy."], ["A magnifying glass can make paper smoke by gathering sunlight into one small spot.", true, "A lens bends light so it all meets at one spot, the focus, and that spot gets very hot."], ["Sunlight takes a whole day to reach the Earth.", false, "Sunlight crosses space in about eight minutes."], ["A black road gets hotter in the Sun than a white wall because it absorbs more light.", true, "White surfaces reflect most light, and dark ones absorb it. Absorbed light turns into heat."], ["If looking at the Sun does not hurt, it is safe for your eyes.", false, "Sunlight can harm the retina without pain, so we never look straight at the Sun."], ["The lens of your eye can gather the Sun's light into a tiny spot at the back.", true, "That bright spot can harm the retina, just as a magnifying glass burns paper."], ["Only light that we can see carries energy from the Sun.", false, "Invisible infrared and ultraviolet light come too. Infrared feels warm, and ultraviolet can burn skin."], ["Part of sunlight is invisible, but our skin feels it as warmth.", true, "This is infrared light, which lies beyond red."], ["The Sun is about the same size as the Earth.", false, "About 109 Earths would fit across the face of the Sun."]], "odd": [[["Sun", "Sirius", "Pole Star", "Moon"], "Moon", "The Sun and stars make their own light. The Moon only reflects sunlight."], [["black paper", "tar road", "dark cloth", "mirror"], "mirror", "Black paper, tar and dark cloth absorb light and warm up. A mirror reflects most of it."], [["magnifying glass", "eye lens", "camera lens", "window glass"], "window glass", "The first three are curved lenses that gather light. Flat window glass does not."], [["hydrogen", "helium", "hot gas", "solid rock"], "solid rock", "The Sun is made of hot gas, mostly hydrogen and helium, not rock."], [["pinhole box", "eclipse glasses", "solar filter", "staring at it"], "staring at it", "The first three show the Sun safely. Staring lets the eye's lens burn the retina."]]}
 }
