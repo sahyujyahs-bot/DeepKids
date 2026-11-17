@@ -3,12 +3,12 @@
 
 **Summary.** On a dark night far from city lights, a pale band of light stretches across the sky. It is the Milky Way, and it is made of billions of stars too faint and too close together for our eyes to tell apart. The Milky Way is our galaxy: a huge flat disc of stars, gas and dust, held together by gravity. The Sun is one of its stars, and we see the disc from inside, as a band. Beyond it are hundreds of billions of other galaxies, each a city of stars. A hundred years ago, most astronomers thought the Milky Way was the whole universe.
 
-**Intro.** *Look at a photo of the night sky taken far from any city. A pale strip runs across it, like a long thin cloud. It does not move like a cloud, and it is there every clear night. What is it made of?* In this unit you make a card of pinhole lights and find out how far away two lights must be before your eyes see them as one. That is the secret of the Milky Way's milky glow. You find out why it is a band and not spread all over the sky, where the Sun sits in it, and what is at its centre. You also meet Henrietta Leavitt, whose careful work showed that other galaxies are far outside our own.
+**Intro.** *Look at a photo of the night sky taken far from any city. A pale strip runs across it, like a long thin cloud. It does not move like a cloud, and it is there every clear night. What is it made of?* In this unit you make a card of pinhole lights and find out how far away two lights must be before your eyes see them as one. This is why the Milky Way looks like a milky glow and not like separate stars. You find out why it is a band and not spread all over the sky, where the Sun sits in it, and what is at its centre. You also meet Henrietta Leavitt, whose careful work showed that other galaxies are far outside our own.
 
 ## Learning outcomes
 0. I can explain that a galaxy is a huge group of stars, gas and dust held together by gravity, and that the Milky Way is our galaxy.
 1. I can explain why the Milky Way looks like a pale band across the sky: we live inside its flat disc.
-2. I can show with the pinhole test why many far lights blur into one glow, and say how Galileo found that the Milky Way is made of stars.
+2. I can show with the Pinhole Galaxy experiment why many far lights blur into one glow, and say how Galileo found that the Milky Way is made of stars.
 3. I can name the three main shapes of galaxies, spiral, elliptical and irregular, and say what each looks like.
 4. I can tell how Henrietta Leavitt and Edwin Hubble showed that the Andromeda galaxy is far outside the Milky Way.
 5. I can say where the Sun is in the Milky Way, how long it takes to go round, and what lies at the centre.
@@ -34,7 +34,7 @@ Stars are not scattered evenly through space. They live in huge groups called ga
 ### Why the Milky Way looks like a band · *defined*
 **Definition:** The Milky Way is a flat disc of stars about 100,000 light-years across and only about 1,000 light-years thick. We live inside the disc, so we see it edge-on, as a band round the sky.
 
-Imagine standing in the middle of a big paddy field. Look across the field, and you see rows and rows of plants, one behind another. Look straight up, and you see only sky. The Milky Way is like that field, but made of stars. Its disc is flat, like a huge round dosa. When we look along the disc, we see stars piled behind stars, so the sky glows. That glow is the band. When we look up or down out of the disc, there are far fewer stars in the way. Dark patches in the band are clouds of dust that block the light of stars behind them.
+Think of standing in the middle of a big paddy field. When you look across the field, you see rows and rows of plants, one behind another. When you look straight up, you see only sky. The Milky Way is like that field, but made of stars. Its disc is flat, like a huge round dosa. When we look along the disc, we see stars piled behind stars, so the sky glows. That glow is the band. When we look up or down out of the disc, there are far fewer stars in the way. Dark patches in the band are clouds of dust that block the light of stars behind them.
 - e.g. In the Rice Galaxy experiment, the thread pointing to the middle of the circle crossed the most grains.
 - e.g. The brightest part of the band is towards the constellations Scorpius and Sagittarius, where the centre of the galaxy lies.
 - e.g. From a dark place, dark lanes of dust can be seen splitting the band in two.
@@ -53,7 +53,7 @@ Spiral galaxies are flat discs with curved arms, like a pinwheel. Their arms hav
 - e.g. Messier 87, a giant elliptical galaxy, is the one whose central black hole was photographed in 2019.
 - e.g. The Large Magellanic Cloud, a small galaxy close to ours, is irregular.
 ### What holds a galaxy together · *debated*
-Gravity holds a galaxy together. The stars near the edge of a galaxy should go round more slowly than the stars nearer the middle, the way far planets go round the Sun more slowly. In the 1970s, Vera Rubin and Kent Ford measured how fast stars and gas go round in many spiral galaxies. The outer stars were going round much too fast for the stars and gas that we can see to hold them. So something more is pulling, or our idea of gravity needs fixing at these huge sizes.
+Gravity holds a galaxy together. The stars near the edge of a galaxy should go round more slowly than the stars nearer the middle, the way far planets go round the Sun more slowly. In the 1970s, Vera Rubin and Kent Ford measured how fast stars and gas go round in many spiral galaxies. The outer stars were going round much too fast. The gravity of the stars and gas that we can see is not enough to hold them. So something more is pulling, or our idea of gravity needs fixing at these huge sizes.
 - e.g. Vera Rubin measured spiral galaxies, including Andromeda, in the 1970s.
 - e.g. Astronomers have searched for dark matter particles for over 30 years and have not yet caught one.
 - **Most astronomers:** Each galaxy sits inside a huge cloud of dark matter, matter that has gravity but gives out no light. There seems to be about five times as much dark matter as ordinary matter.
@@ -68,7 +68,7 @@ The Sun is not in the middle of our galaxy. It is about halfway from the centre 
 ## Mostly agreed
 - The Milky Way band is made of billions of stars. *How we know:* Galileo saw it break into stars through his telescope in 1610. Today the Gaia spacecraft has measured the positions of nearly 2 billion of its stars.
 - The Milky Way is a flat spiral disc, and the Sun is far from its centre. *How we know:* Star counts, radio maps of its gas, and the positions of old star clusters all show a disc. Harlow Shapley showed in 1918 that the old clusters are centred on a point far away, towards Sagittarius.
-- There are many galaxies outside the Milky Way. *How we know:* In 1923 Edwin Hubble found a pulsing star in Andromeda, used Henrietta Leavitt's rule to work out its distance, and found it far beyond our galaxy.
+- There are many galaxies outside the Milky Way. *How we know:* In 1923 Edwin Hubble found a pulsing star in Andromeda. He used Henrietta Leavitt's rule for pulsing stars to work out its distance, and found it was far beyond our galaxy.
 - A black hole about 4 million times as heavy as the Sun sits at the centre of the Milky Way. *How we know:* For over 25 years astronomers tracked stars racing round one unseen point. In 2022 the Event Horizon Telescope made a picture of the gas glowing round it.
 - The Sun goes round the centre of the Milky Way. *How we know:* Measurements of the movements of nearby stars and gas show that the Sun moves at about 230 kilometres every second round the centre.
 
@@ -93,15 +93,15 @@ The Sun is not in the middle of our galaxy. It is about halfway from the centre 
 ## Roots
 We have been learning that the Milky Way is a galaxy of billions of stars, which our eyes see as one pale glow. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** Up close, your pinholes were separate lights, and from across the room they made one soft glow. The holes had not changed. Your eyes could no longer tell them apart. The Milky Way's pale band is billions of stars, blurred into one glow by distance in this way.  
-*Habit it breaks:* We take what we see as one thing to be one thing: a cloud, a smudge, a glow. Whether we see one or many often depends on how far away we are and how fine our eyes are.  
-*Evidence:* In the Pinhole Galaxy experiment, the bunch of holes looked like one fuzzy light from far away and like separate points up close. Galileo's telescope did the same to the Milky Way in 1610.
+**Deep truth.** In the Pinhole Galaxy experiment, the bunch of pinholes was separate lights up close, and one soft glow from across the room. The holes had not changed. Your eyes could no longer tell them apart. The Milky Way's pale band is billions of stars, blurred into one glow by distance in the same way.  
+*Habit it breaks:* When something looks like one thing, such as a cloud, a smudge or a glow, we assume it is one thing. But whether we see one or many often depends on how far away we are and how sharp our eyes are.  
+*Evidence:* In the Pinhole Galaxy experiment, the bunch of holes looked like one fuzzy light from far away and like separate points up close. In 1610, Galileo's telescope showed the Milky Way's glow as separate stars in the same way.
 
-- *who am i:* Your body is made of about 30 trillion cells, more than the stars in the Milky Way. From across the room, you look like one person.
-- *what is life:* Dung beetles roll a ball of dung away in a straight line, so that other beetles cannot steal it. On moonless nights, they steer by the bright band of the Milky Way.
+- *who am i:* Your body is made of about 30 trillion cells, which is more than the number of stars in the Milky Way. Yet from across the room, you look like one person. A galaxy is like this too. From far away it looks like one glow, but it is made of billions of separate stars.
+- *what is life:* Dung beetles roll a ball of dung away in a straight line, so that other beetles cannot steal it. On moonless nights, they steer by the bright band of the Milky Way. So a small beetle uses the light of billions of faraway stars as a compass.
 - *what is this world:* The Sun is one star in a galaxy of billions, and our galaxy is one of hundreds of billions. All the stars we can see by eye belong to just one of them.
 
-A galaxy is many and one at the same time. It is billions of separate suns, each with its own light. Gravity holds them all, so they all go round one centre together. From far away their lights join into one glow. Each star is fully itself, and each is also part of something bigger that holds it.
+A galaxy is many and one at the same time. It is billions of separate suns, each with its own light. Gravity holds them all, so they all go round one centre together. From far away their lights join into one glow. Each star is a separate star, and each is also part of something bigger that holds it.
 
 - **Milindapanha (The Questions of King Milinda), Book 2, the simile of the chariot:** King Milinda asks the monk Nagasena what a chariot is. Is it the wheels, the axle or the pole? None of them alone. 'Chariot' is the name we give to all the parts together. ('Milky Way' is the name we give to billions of stars, gas and dust together. The glow you see is not any one star, and it is not something extra on top of them.)
 - **Bhagavad Gita 11.12:** If the light of a thousand suns blazed out together in the sky, it might be like the splendour of that great being. (The pale band of the Milky Way really is the light of countless suns shining together. Each is too far and too faint to see alone. Together they make a glow you can see from a dark hill.)
@@ -110,13 +110,13 @@ A galaxy is many and one at the same time. It is billions of separate suns, each
 - Other view, Many scientists and philosophers: A galaxy is only a word for stars that gravity keeps near each other. Only the stars, the gas and the dust are real things. Calling it 'one' is just a handy way of speaking, the way we call many trees a forest.
 - Practice, Many lights, one glow (3 min): Let's sit quietly and look at the lights of the street or the buildings outside. Look at one light far away. Now half close your eyes. Do the lights start to blur together? Open them wide again. Now close your eyes and breathe slowly six times. Feel your whole body breathing as one. Your body is made of trillions of tiny cells, each one alive. Open your eyes slowly.
 - Ask: Is the Milky Way one thing or billions of things? Can it be both?
-- Ask: When the pinhole lights blurred into one glow, was the glow in the card or in your eyes?
-- Ask: Could your cells feel as if they each live alone, the way each star shines alone?
+- Ask: In the Pinhole Galaxy experiment, the lights blurred into one glow. Was the glow in the card or in your eyes?
+- Ask: Each star shines on its own, and yet it is part of a galaxy. Is each cell in your body like that too?
 
 ## Deep and big questions
-- *deep:* Is the Milky Way one thing, or billions of things? (hint: Think about your pinhole card. From far away it looked like one light. Up close it was many. Which was the real card?)
+- *deep:* Is the Milky Way one thing, or billions of things? (hint: Think about the Pinhole Galaxy experiment. From far away the bunch of holes looked like one light. Up close it was many lights. Which was the real card?)
 - *deep:* If we live inside the Milky Way, how can anyone know its shape? Nobody has ever seen it from outside. (hint: Think about the Rice Galaxy experiment. What could you learn by counting from inside the circle?)
-- *big:* Your body has more cells than the Milky Way has stars. Are you more like one person or like a galaxy? (hint: Each cell is alive on its own. Together they make you. Is the same true of stars in a galaxy?)
+- *big:* Your body has more cells than the Milky Way has stars. Are you one thing, or many things? Is a galaxy one thing, or many? (hint: Each cell is alive on its own. Together they make you. Is the same true of stars in a galaxy?)
 - *deep:* When you see Andromeda, you see light that left it 2 and a half million years ago. Are you seeing Andromeda, or Andromeda's past? (hint: Think about how long the light took to reach you.)
 - *big:* Most people today live under skies too bright to see the Milky Way. Does it matter that a child has never seen it? (hint: Think about what people in the past learned and imagined from it.)
 - *big:* There are hundreds of billions of galaxies. Does that make the Earth less special, or more special? (hint: There is no wrong answer. Give your reason.)
@@ -175,7 +175,7 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 - **s2 (8 min)**  
   *Parent does:* Players take turns to add a card to the line, smallest on the left. After each card, peek at the backs to check the place and score a point.  
   *Parent says:* Put down a card where it belongs. Is the solar system bigger or smaller than the Milky Way?  
-  *Child mode:* Put your card in the line. Smallest to biggest. Think hard!
+  *Child mode:* Put your card in the line, from smallest to biggest. Think hard!
   - Check: Which is bigger: the solar system or the Milky Way? → **The Milky Way**
 - **s3 (6 min)**  
   *Parent does:* Take turns to pick a fact card and put it beside the address card it describes. Turn it over to check.  
@@ -184,7 +184,7 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
   - Ask: Where in the Milky Way is the solar system? (good: In the Orion Arm.; About halfway out from the centre.)
 - **s4 (3 min)**  
   *Parent does:* Read the whole address aloud together, from the room to the universe. Count up the points.  
-  *Parent says:* Let's read your whole address. Room, home, street, all the way to the universe.  
+  *Parent says:* Let's read your whole address. It goes from your room, home and street all the way to the universe.  
   *Child mode:* Read your whole address out loud. Who won?
   - Note: Use your real street, city and state names when you read it aloud.
 
@@ -199,13 +199,13 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child a large photo of the Milky Way on a phone or tablet (search for 'Milky Way night sky photo'). 2. Ask the guess question below. 3. Wait for a guess and a reason.  
   *Parent says:* In this photo the Milky Way looks like a milky cloud. But it is made of stars. Why do you think we see a glow instead of separate stars?  
-  *Child mode:* The Milky Way looks like a cloud. But it is made of stars. Why do we see a glow? Guess. Say why.
+  *Child mode:* The Milky Way looks like a cloud, but it is made of stars. Why do we see a glow? Guess first, then say why.
   - Ask: Why do you think we see a glow, not separate stars? (good: The stars are too far away.; They are too close together to see one by one.; Each star is too faint.)
   - Note: Accept any guess with a reason. Do not explain yet. The test will show it.
 - **s2 (7 min) · grown-up needed**  
-  *Parent does:* 1. On the cardboard, draw three short lines with a pencil, about 3 centimetres apart. 2. On the first line, mark two dots 1 millimetre apart, using the ruler. 3. On the second line, two dots 2 millimetres apart. 4. On the third line, two dots 3 millimetres apart. 5. A grown-up pushes the needle through each dot. 6. Below them, the grown-up pokes about 15 holes close together inside a circle about 6 millimetres across, smaller than a little fingernail.  
+  *Parent does:* 1. On the cardboard, draw three short lines with a pencil, about 3 centimetres apart. 2. On the first line, mark two dots 1 millimetre apart, using the ruler. 3. On the second line, mark two dots 2 millimetres apart. 4. On the third line, mark two dots 3 millimetres apart. 5. A grown-up pushes the needle through each dot. 6. Below the three lines, the grown-up pokes about 15 holes close together inside a circle about 6 millimetres across, smaller than a little fingernail.  
   *Parent says:* We are making tiny stars. Each pair of holes will be two stars. The bunch of holes at the bottom is a tiny galaxy.  
-  *Child mode:* Mark three pairs of dots with the ruler. A grown-up makes the holes with a needle. Then a bunch of holes for a galaxy.
+  *Child mode:* Mark three pairs of dots with the ruler. A grown-up makes the holes with a needle. Then the grown-up makes a bunch of holes for a galaxy.
   - Note: Push the needle in only as far as its tip, so the holes are small and all about the same size. Push into an eraser or a folded cloth behind the card, never towards a hand. Write 1, 2 and 3 next to the pairs, and G next to the bunch.
 - **s3 (5 min)**  
   *Parent does:* 1. Stand the card upright against a pile of books on a table. 2. Put a torch, or a phone with its torch on, about 10 centimetres behind it, shining at the holes. 3. Switch off the room lights and close the curtains. 4. Check that light comes only through the holes.  
@@ -216,7 +216,7 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
   *Parent does:* 1. Your child stands close to the card, about 2 steps away, and looks at the 1 millimetre pair. 2. They step backwards one step at a time, counting. 3. They stop as soon as the two lights look like one light, and say the number. 4. Write it in the table. 5. Do the same for the 2 and 3 millimetre pairs.  
   *Parent says:* Look only at the pair marked 1. Walk backwards one step at a time. Stop the moment the two lights become one. How many steps?  
   *Child mode:* Look at the pair marked 1. Step back slowly and count. Stop when two lights look like one. Now do the other pairs.
-  - Ask: Which pair do you think will join up first? Why? (good: The 1 one, because its holes are closest.; The 3 one will be last, because its gap is biggest.)
+  - Ask: Which pair do you think will join up first? Why? (good: The pair marked 1, because its holes are closest.; The pair marked 3 will be last, because its gap is biggest.)
   - Note: Your child should take steps of the same size each time, heel to toe if your room is small. If a pair still looks like two lights at the far wall, write 'still two at' and the number of steps. That is a result too. Rooms and eyes differ, and bright holes blur sooner than dim ones, so there is no right number. Expect the 1 millimetre pair to join after a few steps and the 3 millimetre pair last, perhaps not at all in a small flat. What matters is which pair joins first.
 - **s5 (5 min)**  
   *Parent does:* 1. Do the whole walk again for each pair, so you have two tries. 2. Stand at the far end of the room and look at the bunch marked G. 3. Walk towards it until you can see separate lights.  
@@ -226,17 +226,17 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
   - Check: From far away, the bunch of 15 holes looked like: → **one soft, fuzzy light**
 - **s6 (2 min)**  
   *Parent does:* If you have binoculars, or a phone with a zoom camera, stand where the bunch looks like one light. Look at it through the binoculars, or zoom in on it with the phone.  
-  *Parent says:* Now be Galileo. Look at the fuzzy light through the binoculars. What happens?  
+  *Parent says:* Galileo looked at the Milky Way through a telescope. Now do the same with the fuzzy light: look at it through the binoculars. What happens?  
   *Child mode:* If you have binoculars, look at the fuzzy light. Does it split into stars?
   - Note: This step is a bonus. Binoculars or a zoom lens make the gaps look bigger, so the glow splits into points again. If you have neither, skip it.
 - **s7 (4 min)**  
   *Parent does:* Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why does it happen?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why I think it happened.
-  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: lights that are close together look like one light from far away. What I saw: the 1 millimetre pair joined into one light first, and the 3 millimetre pair last. The bunch looked like one glow from far away. Why: from further away the gap looks smaller, until my eyes cannot tell the lights apart. Now explain: the Milky Way's stars are so far away that they blur into one glow in the same way.
+  *Child mode:* Say or write three things: what you think now, what you saw, and why you think it happened.
+  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: lights that are close together look like one light from far away. What I saw: the 1 millimetre pair joined into one light first, and the 3 millimetre pair last. The bunch looked like one glow from far away. Why: from further away the gap looks smaller, until my eyes cannot tell the lights apart. Then tell your child that the Milky Way's stars are so far away that they blur into one glow in the same way.
 ### e2 · The Rice Galaxy: can counting stars show where the middle is? (30 min)
 - **question:** If you live inside a flat galaxy, can counting stars in different directions show you where its middle is? What happens if dust hides the faraway stars?
-- **predict:** Before you count, guess. From the paper Sun, which way will the thread cross the most rice grains? Will it still work if you can only see a short way? Why do you think so?
+- **predict:** Before you count, guess. From the paper Sun, which way will the thread cross the most rice grains? Will counting still show where the middle is if you can only see a short way? Why do you think so?
 - **fair test:** Keep the rice and the paper Sun in the same place the whole time. Count the same way each time: every grain the thread touches or that lies within one finger-width of it. Change only the direction of the thread, and then its length.
 - **safety:** Rice on the floor is easy to slip on, so spread the newspaper where nobody walks. Sweep up the grains afterwards and put them out for birds.
 - **record:** Fill in the results table. Draw the circle with the Sun and four arrows, and write each count on its arrow.
@@ -244,11 +244,11 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 - **s1 (4 min)**  
   *Parent does:* 1. Tell your child about William and Caroline Herschel, who counted stars to find the shape of the Milky Way. 2. Ask the guess question below.  
   *Parent says:* Over 200 years ago, Caroline Herschel and her brother William counted stars in hundreds of patches of sky. They wanted to find the shape of our galaxy from inside it. If you live inside a galaxy, could counting stars tell you where its middle is? Why do you think so?  
-  *Child mode:* Long ago, Caroline and William Herschel counted stars. They wanted to find our galaxy's shape. Could counting stars show where the middle is? Guess. Say why.
+  *Child mode:* Long ago, Caroline and William Herschel counted stars. They wanted to find our galaxy's shape. Could counting stars show where its middle is? Guess first, then say why.
   - Ask: Which way do you think you would count the most stars? (good: Towards the middle, because there is more galaxy that way.; The same everywhere, if we are in the middle.)
   - Note: Accept any guess with a reason. Do not explain yet.
 - **s2 (6 min)**  
-  *Parent does:* 1. Spread a large newspaper sheet on the floor. 2. Tie a pencil to a 25 centimetre thread. Hold the other end in the middle of the sheet and draw a circle. 3. Sprinkle one heaped tablespoon of raw rice, a pinch at a time, all over the circle. 4. Spread the grains with your fingertips so they are spread evenly.  
+  *Parent does:* 1. Spread a large newspaper sheet on the floor. 2. Tie a pencil to a 25 centimetre thread. Hold the other end in the middle of the sheet and draw a circle. 3. Sprinkle one heaped tablespoon of raw rice, a pinch at a time, all over the circle. 4. Move the grains with your fingertips until they are spread evenly.  
   *Parent says:* This circle is our galaxy, seen from above. Each grain of rice is a star. Spread them out evenly, like stars in a disc.  
   *Child mode:* Draw a big circle with the pencil and thread. Sprinkle rice all over it. Spread the grains out.
   - Note: Try to get the grains about the same distance apart everywhere. A few clumps do not matter. Do this where nobody will walk.
@@ -258,9 +258,9 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
   *Child mode:* Put the paper Sun halfway between the middle and the edge.
   - Note: The paper Sun should be about 12 centimetres from the middle.
 - **s4 (10 min)**  
-  *Parent does:* 1. Lay the 40 centimetre thread from the Sun straight to the edge of the circle, pointing at the middle. 2. Your child counts the grains that the thread touches or that lie within one finger-width of it. 3. Do the same pointing away from the middle, and in the two directions sideways. 4. Write each count in the table.  
-  *Parent says:* Now you are an astronomer like Caroline Herschel. Count every star within one finger of the thread. Which way has the most?  
-  *Child mode:* Lay the thread from the Sun to the edge. Count the grains next to it. Do it four ways. Write each count.
+  *Parent does:* 1. Lay the 40 centimetre thread from the paper Sun through the middle of the circle to the edge on the far side. 2. Your child counts the grains that the thread touches or that lie within one finger-width of it. 3. Do the same with the thread pointing away from the middle, and then pointing to each side. 4. Write each count in the table.  
+  *Parent says:* Now you are an astronomer like Caroline Herschel. Count every star within one finger-width of the thread. Which way has the most?  
+  *Child mode:* Lay the thread from the Sun to the edge. Count the grains next to it. Do this in four directions. Write each count.
   - Ask: Which direction had the most grains? Why? (good: Towards the middle, because the galaxy goes on longest that way.; Away from the middle had the fewest, because the edge is close.)
   - Note: Expect the most grains towards the middle, the fewest away from it, and in-between counts sideways. The thread towards the middle crosses about three times as much galaxy as the thread away from it.
 - **s5 (5 min)**  
@@ -296,32 +296,32 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
   - Ask: Why can't we see the Milky Way from the city? (good: The city lights are too bright.; The sky glows orange at night.)
   - Note: City lights make the sky glow, and that glow drowns out faint light. Most people in big cities have never seen the Milky Way.
 ### a2 · If the Solar System Were a Coin: how big is the Milky Way? (15 min)
-- **record:** Draw the coin, and write how far the nearest star and the Milky Way would stretch at this size.
+- **record:** Draw the coin. Write how far away the nearest star would be at this size, and how far the Milky Way would stretch.
 - **s1 (4 min)**  
   *Parent does:* Put a 1 rupee coin on the table.  
-  *Parent says:* Imagine this coin is our whole solar system: the Sun, the Earth and all the planets out to Neptune. Guess how far away the next nearest star would be.  
-  *Child mode:* This coin is the whole solar system. The Sun and all eight planets. How far is the next star? Guess.
+  *Parent says:* Let this coin stand for our whole solar system: the Sun, the Earth and all the planets out to Neptune. Guess how far away the next nearest star would be.  
+  *Child mode:* This coin is the whole solar system: the Sun and all eight planets. How far away is the next star? Guess.
   - Ask: How far away do you think the nearest star would be at this size? (good: In the next room.; Down the road.; Any guess with a reason is good.)
 - **s2 (4 min)**  
   *Parent does:* Tell your child the answer, and find a place about 90 metres from your door, about 120 big steps away.  
   *Parent says:* At this size the nearest star would be about 90 metres away. That is about the length of a football field, or a row of 10 to 15 houses. In between, there would be almost nothing.  
-  *Child mode:* The nearest star would be about 90 metres away. That's a football field! Almost nothing is in between.
+  *Child mode:* The nearest star would be about 90 metres away. That is as long as a football field! Almost nothing is in between.
   - Note: The coin is 2 centimetres across and stands for the solar system out to Neptune's path. The nearest star, Proxima Centauri, is about 4,500 times further than that, about 90 metres at this size.
 - **s3 (5 min)**  
   *Parent does:* Open the map of India. Find Kanyakumari and Delhi.  
-  *Parent says:* And the whole Milky Way? At this size it would stretch from Kanyakumari to Delhi. Full of coins, each about 90 metres from the next.  
+  *Parent says:* And the whole Milky Way? At this size it would stretch from Kanyakumari to Delhi. It would be full of coins like this one, each about 90 metres from the next.  
   *Child mode:* Find Kanyakumari and Delhi on the map. At this size, the galaxy would reach from one to the other!
   - Check: If our solar system were a coin, the Milky Way would be about as big as: → **the distance from Kanyakumari to Delhi**
 - **s4 (2 min)**  
   *Parent does:* Ask the last question and let your child think.  
-  *Parent says:* Andromeda, the nearest big galaxy, is about 25 times as far as the width of the Milky Way. What does that tell you about the space between galaxies?  
-  *Child mode:* Andromeda is 25 Milky Ways away. Is there a lot of space between galaxies?
-  - Note: Stars inside a galaxy are very far apart compared with their size. Galaxies are only a few times their own width apart, so they are close together compared with their size.
+  *Parent says:* Andromeda, the nearest big galaxy, is about 25 times as far away as the Milky Way is wide. Compared with their own size, do you think galaxies are close together or far apart?  
+  *Child mode:* Andromeda is about 25 times as far away as the Milky Way is wide. Are galaxies close together or far apart, for their size?
+  - Note: Stars inside a galaxy are millions of times their own width apart. The nearest big galaxy is only about 25 times the Milky Way's width away. So compared with their size, galaxies are much closer together than stars are.
 ### a3 · Point to the Centre of the Galaxy: find Jyeshtha and Mula (15 min)
 - **safety:** A grown-up stays with the child at night. Keep away from the edge of a terrace without a wall.
 - **record:** Draw the stars you found, with an arrow labelled 'towards the centre of our galaxy'.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* On a clear evening between June and August, go to a balcony or terrace that faces south. Turn off the lights behind you and spend the five minutes letting your eyes get used to the dark.  
+  *Parent does:* On a clear evening between June and August, go to a balcony or terrace that faces south. Turn off the lights behind you and wait five minutes for your eyes to get used to the dark.  
   *Parent says:* Let's find the direction of the centre of our galaxy. First, our eyes need time to get used to the dark.  
   *Child mode:* Go out on a clear evening. Face south. Wait for your eyes to get used to the dark.
   - Note: The monsoon often hides the sky. If it is cloudy, try another night, or look at the same stars on the sky map instead.
@@ -338,12 +338,12 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 ### a4 · Sort the Galaxies: spiral, elliptical or irregular? (15 min)
 - **record:** Draw one galaxy of each shape, and write one way to tell each shape apart.
 - **s1 (6 min)**  
-  *Parent does:* 1. A grown-up searches for photos of these 12 galaxies (NASA, ESA and Hubble pictures are free to look at) and shows them one at a time, or prints them. 2. Lay out the three labelled sheets. 3. Ask your child to sort the galaxies by shape. Put each one on a sheet.  
+  *Parent does:* 1. A grown-up searches for photos of these 12 galaxies (NASA, ESA and Hubble pictures are free to look at) and shows them one at a time, or prints them. 2. Lay out three sheets labelled spiral, elliptical and irregular. 3. Ask your child to sort the galaxies by shape and put each one on a sheet.  
   *Parent says:* These are photos of real galaxies taken by big telescopes. Sort them by shape. Put each one on a sheet.  
   *Child mode:* These are real galaxies. Sort them by shape. Put each on a sheet.
   - Note: Spirals: Whirlpool Galaxy (M51), Pinwheel Galaxy (M101), Andromeda Galaxy (M31), NGC 891 (seen edge-on). Ellipticals: M87, M49, M60. Irregulars: Large Magellanic Cloud, Small Magellanic Cloud, NGC 1569, NGC 4449. Do not show the names to your child as hints. Spiral galaxies have curved arms. Elliptical ones are smooth ovals. Irregular ones have no clear shape. A spiral seen edge-on looks like a thin line with a bulge. Children often put it with the ellipticals, which is a good thing to talk about.
 - **s2 (5 min)**  
-  *Parent does:* Look at the cards your child found hard to sort. Talk about why.  
+  *Parent does:* Look at the photos your child found hard to sort. Talk about why.  
   *Parent says:* Which ones were hard to sort? Why? Could a spiral look different if we saw it from the side?  
   *Child mode:* Which were hard to sort? Why? Could a spiral look like a line from the side?
   - Check: A spiral galaxy seen from its edge looks like: → **a thin line of light with a bulge in the middle**
@@ -366,7 +366,7 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 - **s2 (15 min)**  
   *Parent does:* 1. Next day, below the first kolam, draw a long, thin line of dots, with a round bulge in the middle. 2. Put the Sun about halfway along, inside the line. 3. Draw arrows from the Sun along the line, and up out of it.  
   *Parent says:* Now draw our galaxy from the side. It is about 100 times wider than it is thick. Draw arrows from the Sun. Which arrow goes through more stars?  
-  *Child mode:* Draw the galaxy from the side. Very thin, with a bulge. Put the Sun in it. Draw arrows. Which arrow crosses more stars?
+  *Child mode:* Draw the galaxy from the side. Make it very thin, with a bulge in the middle. Put the Sun in it. Draw arrows from the Sun. Which arrow crosses more stars?
   - Check: Looking from the Sun, which way would you see more stars? → **Along the disc**
   - Wait: Do this on day 2.
 
@@ -374,8 +374,8 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 ### c1 · Count a Katori of Rice Without Counting Every Grain (30 min)
 - **problem:** Nobody can count all the stars in the Milky Way one by one. Astronomers count a small part and work out the rest. Find a way to tell how many grains are in a katori of rice without counting them all. Then find the answer a second way and see how close the two are.
 - **your turn:** Now use your method on something else: the grains in a packet of sugar, or the dots in a newspaper photo. Explain your method to someone in your family.
-- **constraints:** You may count only small spoonfuls of grains one by one, two at most.; You may use a spoon, a plate and a pencil.; Finish within 30 minutes.
-- **general:** Count the grains in one level teaspoon. Count how many teaspoons fill the katori. Multiply.; Spread the rice flat on a plate, count the grains in one small square, count how many squares the rice covers, and multiply.; Do the small count twice and take the middle answer, because one count can be a fluke.
+- **constraints:** You may count grains one by one in only one or two small spoonfuls.; You may use a spoon, a plate and a pencil.; Finish within 30 minutes.
+- **general:** Count the grains in one level teaspoon. Count how many teaspoons fill the katori. Multiply.; Spread the rice flat on a plate, count the grains in one small square, count how many squares the rice covers, and multiply.; Do the small count twice and use the number halfway between the two, because one count can be a fluke.
 - **creative:** If you have a kitchen scale, weigh 100 grains, then weigh the whole katori.; Ask each family member to count one spoonful and compare. Whose spoonfuls were biggest?; Count the grains in a quarter of the plate and multiply by 4.
 - **s1 (5 min)**  
   *Parent does:* Show your child the katori of rice. Ask for a guess.  
@@ -383,8 +383,8 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
   *Child mode:* How many grains are in this katori? Guess. How could you find out without counting them all?
 - **s2 (15 min)**  
   *Parent does:* Let your child try one of their own ideas first. If they are stuck, suggest the teaspoon method.  
-  *Parent says:* Try your idea. If you are stuck, count one teaspoon, then count how many teaspoons fill the katori.  
-  *Child mode:* Try your idea. Stuck? Count one teaspoon. Then count teaspoons in the katori.
+  *Parent says:* Try your idea. If you are stuck, count the grains in one teaspoon, then count how many teaspoons fill the katori.  
+  *Child mode:* Try your idea. If you are stuck, count the grains in one teaspoon. Then count how many teaspoons fill the katori.
   - Note: A level teaspoon of raw rice usually holds a few hundred grains, and a katori many thousands. Any careful method is good.
 - **s3 (10 min)**  
   *Parent does:* Compare the answer with the first guess, and with the answer from a second method. Ask how astronomers might do the same with stars.  
@@ -416,17 +416,17 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
    **Answer:** False. *Why:* False. The Sun is about 26,000 light-years from the centre, about halfway out. The centre is in the direction of Sagittarius.
 10. (label) Label the drawing of the Milky Way from above: the centre, a spiral arm, and the Sun.  
    **Answer:** The centre is the bright bulge in the middle. A spiral arm is one of the curved bands of stars. The Sun is a small dot about halfway out, between two big arms.. *Why:* Knowing these three parts is the start of knowing our address in the galaxy.
-11. (fill) In many Indian languages, the Milky Way is called ____, the Ganga of the sky.  
-   **Answer:** ['Akashganga', 'Akash Ganga', 'Akasha Ganga']. *Why:* People saw the band as a river flowing across the sky. The English name and the Greek word 'galaxy' both come from milk.
+11. (fill) Long ago, people saw the Milky Way as a long, glowing band across the night sky, like a ____ flowing through the dark.  
+   **Answer:** ['river', 'stream']. *Why:* From inside our flat galaxy, its stars make a long band round the sky. In India it is called Akashganga, the Ganga of the sky. The English name and the Greek word 'galaxy' both come from milk.
 12. (odd) Which one is the odd one out?  
    Options: Spiral / Elliptical / Irregular / Crescent  
    **Answer:** 3. *Why:* Spiral, elliptical and irregular are shapes of galaxies. Crescent is a shape of the Moon.
-13. (write) Kavya, a girl in Class 3, says the Milky Way is a long cloud. Tell her one way to check whether it is a cloud.  
+13. (write) Someone says the Milky Way is a long cloud. Tell them one way to check whether it is a cloud.  
    **Answer:** Watch it for a while. Clouds move and change shape, but the Milky Way stays in the same place among the stars. Or look at it through binoculars: it breaks into stars.. *Why:* A strong answer suggests a real test, such as watching for movement or using binoculars, and says what the result would show.
 14. (order) Put these in order, from smallest to biggest.  
    **Answer:** order shown. *Why:* The Earth is one planet of the solar system. The solar system is one small part of the Milky Way. The Milky Way is one galaxy of the Local Group.
-15. (perspective) Lakshmi, a girl in Class 3, and her friend Farhan look at a photo of the Milky Way. They disagree about what it is.  
-   **Answer:** A strong answer picks a side with evidence. For Lakshmi: the stars all go round one centre together, held by gravity, so the galaxy acts as one. For Farhan: up close, the pinhole glow was many separate lights. Then it gives the other side its due.. *Why:* Both are partly right. A galaxy is many stars, and it is also one system moving together. A strong answer uses evidence for both.
+15. (perspective) Two children look at a photo of the Milky Way. They disagree about what it is.  
+   **Answer:** A strong answer picks a side with evidence. For the first child: the stars all go round one centre together, held by gravity, so the galaxy acts as one. For the second child: up close, the pinhole glow was many separate lights. Then it gives the other side its due.. *Why:* Both are partly right. A galaxy is many stars, and it is also one system moving together. A strong answer uses evidence for both.
 ### Inside the Disc (stretch) (stretch, 15 questions)
 1. (mcq) In the Rice Galaxy experiment, the paper Sun was halfway out. Which thread crossed the most grains?  
    Options: The thread pointing away from the middle / The thread pointing towards the middle / All threads crossed the same number  
@@ -434,12 +434,12 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 2. (write) In the Rice Galaxy experiment, the short thread gave about the same count in every direction. Why did this fool the Herschels into thinking the Sun was near the centre?  
    **Answer:** With the short thread, you only count stars close to the Sun, and they are spread about evenly. So every direction looks the same, as if the Sun were in the middle. Dust in space hid the faraway stars from the Herschels in the same way.. *Why:* A strong answer links the short thread to dust and explains why equal counts suggested the middle.
 3. (truefalse) Binoculars make faraway stars bigger, so the Milky Way breaks into stars.  
-   **Answer:** False. *Why:* False, almost. Stars are so far away that they stay tiny points even in binoculars. What binoculars make bigger is the gap between stars, so your eyes can tell them apart. They also gather more light, so fainter stars show.
+   **Answer:** False. *Why:* False. Stars are so far away that they stay tiny points even in binoculars. What binoculars make bigger is the gap between stars, so your eyes can tell them apart. They also gather more light, so fainter stars show.
 4. (mcq) Andromeda has hundreds of billions of stars. Why does it look like one faint smudge to our eyes?  
    Options: It is very small / It is so far away that its stars blur together / It has no stars, only gas  
-   **Answer:** It is so far away that its stars blur together. *Why:* Andromeda is about 2 and a half million light-years away. From here its stars are far too close together, as we see them, and too faint, for our eyes to split. It is the pinhole bunch seen from very far away.
-5. (fill) The black hole at the centre of the Milky Way is called Sagittarius A ____.  
-   **Answer:** ['star', '*']. *Why:* Its name is written Sagittarius A* and said 'Sagittarius A star'. It is in the direction of the constellation Sagittarius.
+   **Answer:** It is so far away that its stars blur together. *Why:* Andromeda is about 2 and a half million light-years away. From here its stars look far too close together, and are too faint, for our eyes to tell apart. It is like the bunch of pinholes in the Pinhole Galaxy experiment, seen from very far away.
+5. (fill) Nobody can see the black hole at the centre of the Milky Way. We know it is there because nearby stars race round it very ____.  
+   **Answer:** ['fast', 'quickly']. *Why:* Only something very heavy can pull stars round that fast. The black hole gives out no light of its own, so we find it by how stars move around it.
 6. (write) Arjun, the boy in the story 'The Cloud That Did Not Move', says: 'If the Milky Way is a disc, we should see it as a round shape, not a band.' What would you tell him?  
    **Answer:** We are inside the disc, not looking at it from outside. From inside a flat disc, the stars around us make a band all the way round the sky, like the rows of a field you stand in.. *Why:* A strong answer explains that a disc looks round only from outside, above or below it. From inside, it looks like a band.
 7. (match) Match each person to what they found.  
@@ -448,9 +448,9 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
    **Answer:** Close up: about 15 separate tiny points. From far: one soft, fuzzy patch of light.. *Why:* The two drawings show the same card. Only the distance changed, and with it what the eye could tell apart.
 9. (sort) Sort these. Do they help you see the Milky Way, or hide it?  
    **Answer:** a dark village far from towns → Helps you see it; streetlights → Hides it; a bright full Moon → Hides it; waiting 15 minutes in the dark → Helps you see it; binoculars → Helps you see it; clouds of the monsoon → Hides it. *Why:* The Milky Way is faint. Anything that brightens the sky, or blocks it, hides it. Darkness, dark-adapted eyes and binoculars help.
-10. (mcq) In the Coin activity, the whole solar system was a 1 rupee coin. At that size, how far away was the nearest star?  
-   Options: About 1 metre / About 90 metres / About 2,000 kilometres  
-   **Answer:** About 90 metres. *Why:* The nearest star would be about 90 metres away, a football field. 2,000 kilometres is the size of the whole Milky Way at that scale.
+10. (mcq) If the whole solar system, out to Neptune, shrank to the size of a 1 rupee coin, the nearest star would be about 90 metres away, about the length of a football field. What does this tell you?  
+   Options: Stars are very far apart compared with the size of a solar system / The nearest star is inside our solar system / Stars are packed close together  
+   **Answer:** Stars are very far apart compared with the size of a solar system. *Why:* If a whole solar system is the size of a tiny coin, the next star is a football field away. Most of a galaxy is empty space between the stars.
 11. (odd) Which one is not a galaxy?  
    Options: The Milky Way / Andromeda / The Large Magellanic Cloud / Jyeshtha  
    **Answer:** 3. *Why:* Jyeshtha is one star, the red star Antares in Scorpius. The other three are galaxies.
@@ -463,8 +463,8 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 15. (perspective) In 1920, two astronomers argued about the fuzzy spiral clouds in the sky. Harlow Shapley and Heber Curtis each had evidence.  
    **Answer:** A strong answer gives a reason that made sense in 1920, for either side. Then it says that in 1923 Hubble measured a pulsing star in Andromeda and found it far outside the Milky Way, so Curtis was right about the spirals. Shapley was right that the Sun is far from our galaxy's centre.. *Why:* Both astronomers were partly right. Real science moves forward when a new measurement settles a fair argument.
 ### Many Galaxies (challenge) (challenge, 15 questions)
-1. (write) In the pinhole test, the pair 3 millimetres apart stayed two lights for longer than the pair 1 millimetre apart. If you made a pair 6 millimetres apart, about how far could you walk before it looked like one light? Explain your thinking.  
-   **Answer:** About twice as far as the 3 millimetre pair, and about six times as far as the 1 millimetre pair, because the gap is twice and six times as big.. *Why:* A strong answer spots the pattern: double the gap, and you can walk about double the distance. This is why bigger telescopes, which split smaller gaps, show more stars.
+1. (write) In the Pinhole Galaxy experiment, the pair 3 millimetres apart stayed two lights for longer than the pair 1 millimetre apart. If you made a pair 6 millimetres apart, about how far could you walk before it looked like one light? Explain your thinking.  
+   **Answer:** About twice as far as the 3 millimetre pair, and about six times as far as the 1 millimetre pair, because its gap is twice as big as 3 millimetres and six times as big as 1 millimetre.. *Why:* A strong answer spots the pattern: double the gap, and you can walk about double the distance. This is why bigger telescopes, which split smaller gaps, show more stars.
 2. (perspective) Three people talk about why the Milky Way matters.  
    **Answer:** A strong answer picks a side with a reason, gives another view its due, and suggests a fair idea, such as streetlights that shine only downwards or turn off late at night.. *Why:* This is a real trade-off. Safety, money, nature and culture all matter, and several places in the world now protect dark skies, including Hanle in Ladakh.
 3. (write) Nobody has ever been outside the Milky Way to look at it. So how do astronomers know it is a flat spiral? Give two kinds of evidence.  
@@ -490,8 +490,8 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
    **Answer:** The Milky Way is made of stars → Known for sure; There is a black hole at the centre of the Milky Way → Known for sure; Galaxies are held together by dark matter → Still argued about; Andromeda will crash into the Milky Way → Still argued about; Andromeda is outside the Milky Way → Known for sure; The exact number of galaxies in the universe → Still argued about. *Why:* Some things have been measured many ways. Others are still being tested, and scientists disagree.
 12. (order) Put these discoveries in the order they happened.  
    **Answer:** order shown. *Why:* 1610, 1785, 1912, 1923 and 2022. Each discovery used the ones before it.
-13. (fill) The Milky Way is about 100,000 light-years across but only about ____ light-years thick.  
-   **Answer:** ['1,000', '1000', 'one thousand']. *Why:* The disc is about 100 times wider than it is thick, flatter than a dosa. That is why we see it as a band.
+13. (fill) The Milky Way is about 100,000 light-years across but only about 1,000 light-years thick. So its shape is a flat ____.  
+   **Answer:** ['disc', 'disk', 'plate', 'dosa']. *Why:* The disc is about 100 times wider than it is thick, flatter than a dosa. That is why we see it as a band from inside.
 14. (label) On the side-view drawing of the Milky Way, label the bulge, the disc, the Sun, and a dark dust lane.  
    **Answer:** The bulge is the round swelling in the middle. The disc is the long thin part. The Sun is a dot about halfway out, inside the disc. The dust lane is a dark stripe along the middle of the disc.. *Why:* Knowing these parts explains what we see from Earth: a bright band with a dark stripe, brightest towards the bulge.
 15. (odd) Which of these could you NOT do from a city flat?  
@@ -500,7 +500,7 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 
 ## Videos
 - **Hubblecast 116: Henrietta Leavitt, ahead of her time** (HubbleWebbESA (ESA/Hubble), 5 min) id `XQv03YqEPNM`: A short film about Henrietta Leavitt and how her pulsing stars let astronomers measure the distance to other galaxies. *Check:* A parent should watch it first.
-- **Video tour of Hubble's panoramic view of the Andromeda Galaxy** (HubbleWebbESA (ESA/Hubble), 3 min) id `rqZGt97rGo8`: A tour of the biggest Hubble photo of Andromeda. The soft glow seen by eye breaks into hundreds of millions of separate stars, just like the pinhole bunch up close. *Check:* A parent should watch it first.
+- **Video tour of Hubble's panoramic view of the Andromeda Galaxy** (HubbleWebbESA (ESA/Hubble), 3 min) id `rqZGt97rGo8`: A tour of the biggest Hubble photo of Andromeda. The soft glow seen by eye breaks into hundreds of millions of separate stars, just like the bunch of pinholes seen up close in the Pinhole Galaxy experiment. *Check:* A parent should watch it first.
 - **Edwin Hubble: VAR! Plate 100th Anniversary** (Carnegie Science, 5 min) id `e9hILyTc0kw`: About the 1923 photographic plate on which Hubble found a pulsing star in Andromeda and wrote 'VAR!', showing Andromeda is a galaxy far outside ours. *Check:* A parent should watch it first.
 
 ## Quiz
@@ -509,28 +509,28 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
    **Answer:** A huge group of stars, gas and dust held together by gravity. *Why:* A galaxy is a huge group of stars, gas and dust that gravity holds together. Picking 'one very big star' mixes up a galaxy with a star. The Sun is one star in our galaxy.
 2. (mcq) The Sun is:  
    Options: one of the stars of the Milky Way / outside every galaxy / the centre of the Milky Way  
-   **Answer:** one of the stars of the Milky Way. *Why:* The Sun is one of between 100 and 400 billion stars in the Milky Way, about halfway out from the centre. People once thought it was at the centre, but dust had fooled them.
+   **Answer:** one of the stars of the Milky Way. *Why:* The Sun is one of between 100 and 400 billion stars in the Milky Way, about halfway out from the centre. People once thought it was at the centre, because dust hid the faraway stars and fooled them.
 3. (mcq) Why does the Milky Way look like a band across the sky?  
    Options: The stars are arranged in a long straight line / Our galaxy is a flat disc and we see it from inside / It is a cloud of water high above the Earth  
    **Answer:** Our galaxy is a flat disc and we see it from inside. *Why:* Looking along the flat disc, we see stars behind stars, so the sky glows in a band. Looking up out of the disc, there are fewer stars. A line of stars would look like a line only from one place, and a cloud would move.
-4. (mcq) Divya, a girl in Class 3, makes a card with two tiny holes 2 millimetres apart and lights it from behind. She walks away from it. What happens?  
+4. (mcq) You make a card with two tiny holes 2 millimetres apart and light it from behind. Then you walk away from it. What happens?  
    Options: The two lights get further apart / At some distance the two lights look like one / The lights change colour  
-   **Answer:** At some distance the two lights look like one. *Why:* From further away the gap looks smaller, until her eyes cannot tell the two lights apart. The Milky Way's stars blur together in the same way.
-5. (mcq) In 1610, Galileo looked at the Milky Way through his telescope. What did he find?  
+   **Answer:** At some distance the two lights look like one. *Why:* From further away the gap looks smaller, until your eyes cannot tell the two lights apart. The Milky Way's stars blur together in the same way.
+5. (mcq) You look at the faint glow of the Milky Way through a telescope. What do you see?  
    Options: It is a river of water / It is made of countless stars / It is a cloud of gas  
-   **Answer:** It is made of countless stars. *Why:* His telescope made the gaps between the stars look bigger, so the glow broke into stars. Our eyes alone see only the glow.
+   **Answer:** It is made of countless stars. *Why:* A telescope makes the gaps between the stars look bigger, so the glow breaks into stars. Our eyes alone see only the glow.
 6. (mcq) A galaxy shaped like a flat pinwheel with curved arms is called:  
    Options: an elliptical galaxy / an irregular galaxy / a spiral galaxy  
    **Answer:** a spiral galaxy. *Why:* Spiral galaxies have curved arms winding out from a bright middle. Elliptical ones are smooth ovals, and irregular ones have no clear shape.
 7. (mcq) A galaxy that looks like a smooth, glowing egg with no arms is:  
    Options: elliptical / spiral / irregular  
    **Answer:** elliptical. *Why:* Elliptical galaxies are smooth balls or eggs of mostly old stars. If you picked spiral, look for arms: an elliptical has none.
-8. (mcq) Henrietta Leavitt worked at Harvard, studying photos of stars. What did she find?  
-   Options: The first planet round another star / That brighter pulsing stars pulse more slowly, which lets us measure distances / The black hole at the centre of the galaxy  
-   **Answer:** That brighter pulsing stars pulse more slowly, which lets us measure distances. *Why:* Leavitt found that the brighter a certain kind of pulsing star really is, the more slowly it pulses. So its pulse tells how bright it really is, and how faint it looks tells how far away it is.
-9. (mcq) In 1923, Edwin Hubble found a pulsing star in the Andromeda nebula. What did it show?  
+8. (mcq) Some pulsing stars pulse more slowly when they are really brighter. Why is this so useful to astronomers?  
+   Options: It tells us when a star will explode / From the pulse we know how bright the star really is, so how faint it looks tells us how far away it is / It shows which stars have planets  
+   **Answer:** From the pulse we know how bright the star really is, so how faint it looks tells us how far away it is. *Why:* The pulse tells how bright the star really is. A star that is really bright but looks faint must be far away. So these stars work like distance markers in the sky.
+9. (mcq) Astronomers find a pulsing star in the fuzzy Andromeda patch and work out that it is millions of light-years away. Our galaxy is only about 100,000 light-years across. What does this show?  
    Options: Andromeda is a cloud of gas inside the Milky Way / Andromeda is a galaxy far outside the Milky Way / Andromeda is a planet  
-   **Answer:** Andromeda is a galaxy far outside the Milky Way. *Why:* Using Leavitt's rule, Hubble worked out that the star was far beyond the edge of our galaxy. So Andromeda is a whole galaxy of its own, and the Milky Way is not the whole universe.
+   **Answer:** Andromeda is a galaxy far outside the Milky Way. *Why:* The star is far beyond the edge of our galaxy. So Andromeda is a whole galaxy of its own, and the Milky Way is not the whole universe.
 10. (mcq) What is at the very centre of the Milky Way?  
    Options: The Sun / A black hole about 4 million times as heavy as the Sun / Nothing at all  
    **Answer:** A black hole about 4 million times as heavy as the Sun. *Why:* Astronomers watched stars racing round an unseen object at the centre. It is a black hole called Sagittarius A star. The Sun is about 26,000 light-years away from it.
@@ -586,12 +586,12 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 - What did the Sun say after 230 million years? *I'm back where I started!*
 
 ## Connected maths
-- In the Rice Galaxy experiment, Meenakshi counted 24 grains along the thread towards the middle and 8 grains along the thread away from the middle. How many times as many grains were towards the middle? **3 times as many.**. 24 divided by 8 is 3. So there were 3 times as many grains towards the middle. This shows the paper Sun is not in the middle. (queues `math.division.sharing-and-grouping.L3`)
-- In the Pinhole Galaxy experiment, Kavya's 1 millimetre pair became one light at 3 steps, and her 2 millimetre pair at 6 steps. Guess at how many steps her 3 millimetre pair will become one light. Explain your guess. **About 9 steps.**. When the gap doubled from 1 to 2 millimetres, the steps doubled from 3 to 6. So each millimetre of gap adds about 3 steps. 3 millimetres times 3 is 9 steps. (queues `math.patterns.number-patterns.L3`)
+- In the Rice Galaxy experiment, you count 24 grains along the thread towards the middle and 8 grains along the thread away from the middle. How many times as many grains were towards the middle? **3 times as many.**. 24 divided by 8 is 3. So there were 3 times as many grains towards the middle. This shows the paper Sun is not in the middle. (queues `math.division.sharing-and-grouping.L3`)
+- In the Pinhole Galaxy experiment, the 1 millimetre pair became one light at 3 steps, and the 2 millimetre pair at 6 steps. Guess at how many steps the 3 millimetre pair will become one light. Explain your guess. **About 9 steps.**. When the gap doubled from 1 to 2 millimetres, the steps doubled from 3 to 6. So each millimetre of gap adds about 3 steps. 3 millimetres times 3 is 9 steps. (queues `math.patterns.number-patterns.L3`)
 - In the Katori of Rice challenge, one teaspoon held 200 grains, and the katori held 30 teaspoons. About how many grains were in the katori? **About 6,000 grains.**. 30 times 200 is 6,000. This is an estimate, because each teaspoon holds a slightly different number. (queues `math.multiplication.equal-groups.L3`)
 - The Sun takes about 230 million years to go once round the galaxy. The Earth is about 4,600 million years old. About how many times has the Earth gone round the galaxy with the Sun? **About 20 times.**. 230 times 20 is 4,600. So in 4,600 million years the Sun and Earth have gone round about 20 times. (queues `math.multiplication.multiplication-facts.L3`)
 - The Milky Way is about 100,000 light-years across and about 1,000 light-years thick. How many times wider is it than it is thick? A dosa is 20 centimetres across. How thick would it be if it were as flat as the Milky Way? **100 times wider. The dosa would be 2 millimetres thick.**. 100,000 divided by 1,000 is 100. 20 centimetres is 200 millimetres. 200 divided by 100 is 2 millimetres, about as thin as a real thin dosa. (queues `math.division.division-facts.L3`)
-- In the Rice Galaxy experiment, Lakshmi's counts with the long thread were: towards the middle 22, away 7, left side 14, right side 13. Draw a bar chart of her counts. Which bar is tallest, and what does it tell you? **The bar for 'towards the middle' is tallest, at 22. It shows the most stars lie in that direction, so that is where the middle of the galaxy is.**. Draw four bars: 22, 7, 14 and 13. The two side bars are nearly the same, because the middle is neither left nor right. (queues `math.data.bar-charts.L3`)
+- In the Rice Galaxy experiment, the counts with the long thread were: towards the middle 22, away 7, left side 14, right side 13. Draw a bar chart of these counts. Which bar is tallest, and what does it tell you? **The bar for 'towards the middle' is tallest, at 22. It shows the most stars lie in that direction, so that is where the middle of the galaxy is.**. Draw four bars: 22, 7, 14 and 13. The two side bars are nearly the same, because the middle is neither left nor right. (queues `math.data.bar-charts.L3`)
 
 ## Song
 City of Stars (sci.story-of-universe.L3): 

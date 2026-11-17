@@ -232,7 +232,7 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened. Then read the parent note aloud.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why does it happen?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why I think it happened.
+  *Child mode:* Say or write three things: what you think now, what you saw, and why you think it happened.
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a hole into a closed box looks blacker than black paper. What I saw: the small hole looked darkest, the big hole less dark, and a black inside made it darker again. Why: light that went into the hole was soaked up inside and almost none came back out. Now explain: we see black where no light comes back to our eyes. A black hole looks black in the same way: no light comes back to our eyes. The cause is different, though. Its gravity holds the light in, so none comes back out at all.
 
 ## Activities

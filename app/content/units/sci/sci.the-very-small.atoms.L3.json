@@ -4,7 +4,7 @@
  "level": 3,
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: the paper strip is now 24 cm long and cut across its width, so there is always a long edge to hold, and a grown-up does the cuts once the piece is shorter than 2 cm with sharp scissors. The hidden-object marble test now names a smooth floor, card raised on four steel tumblers and a battery standing up, because marbles stop on carpet and a flat coin lets them roll over it. The colour test uses hot water from a kettle, not a hot tap, which many Indian homes do not have, and it gives food colour, ink or instant coffee as choices. The salt-flame test needs a gas stove, so it gives a street-light and video alternative for homes with induction cooktops. The battery in the marble test is pressed into a small ball of chapati dough, so a marble cannot knock it over. Rubbed balloons often fail in humid or monsoon weather, so magnets are the first choice. Parents should know: the smell race is mostly carried by moving air, and the hot colour glass mostly by moving water, not by the molecules wandering alone. The unit says so. Timings were checked step by step. The spine fits about 85 to 90 minutes. Catch the Electron and the size ladder both work for one child alone. The torch extra round in Catch the Electron needs three or more people. The mustard-seed atom needs open space, so that activity is outside the core path, and the gas-stove flame is optional in the staircase activity.",
  "summary": {
-  "text": "Cut a strip of paper in half again and again, and your scissors stop after about 8 cuts. To get a sliver only one atom wide, you would need about 31. Everything you can touch is made of atoms, and an atom is almost all empty space. At its centre is a tiny, heavy nucleus, made of protons and neutrons. Electrons are found around it, not on tracks but in a cloud of places where they are likely to be.",
+  "text": "Cut a strip of paper in half again and again, and your scissors stop after about 8 cuts. To get a piece only one atom long, you would need about 31. Everything you can touch is made of atoms, and an atom is almost all empty space. At its centre is a tiny, heavy nucleus, made of protons and neutrons. Electrons are found around it, not on tracks but in a cloud of places where they are likely to be.",
   "art": "A zoom in five circles: a child's hand on a wooden table, the wood's fibres, a cluster of molecules, one atom drawn as a soft glowing cloud, and a tiny bright dot at its centre."
  },
  "intro": {
@@ -169,7 +169,7 @@
    "concept": "How small is an atom?",
    "status": "defined",
    "definition": "The smallest atom, hydrogen, is about one ten-millionth of a millimetre across. Most atoms are two or three times wider. That is still far too small to see with any ordinary microscope.",
-   "description": "Small numbers are hard to imagine, so try halving. Take a strip of paper 24 centimetres long and cut it in half. Then cut one half in half. Keep going. With home scissors, most people can make about 8 cuts. The piece is then a sliver about 1 millimetre wide. To make it just one atom wide, you would need about 31 cuts. Even then, the sliver would still be 2 centimetres long and hundreds of thousands of atoms thick. To reach the width of an atom's centre, you would need about 45 cuts. The chart shows how far each thing is down this halving ladder.",
+   "description": "Small numbers are hard to imagine, so try halving. Take a strip of paper 24 centimetres long and cut it in half. Then cut one half in half. Keep going. With home scissors, most people can make about 8 cuts. Each cut halves the length, so the piece is then a sliver about 1 millimetre long. To make it just one atom long, you would need about 31 cuts. Even then, the piece would still be 2 centimetres wide, and as thick as the paper, which is hundreds of thousands of atoms. To reach the size of an atom's centre, you would need about 45 cuts. The chart shows how far each thing is down this halving ladder.",
    "examples": [
     "About 5 million atoms side by side would fit across the 1 millimetre gap between two lines on a ruler.",
     "A single hair is a few hundred thousand atoms thick.",
@@ -177,7 +177,7 @@
    ],
    "perspectives": [],
    "art": "A strip of paper cut into smaller and smaller pieces, the last ones vanishing into a magnifier that shows a dot labelled 'still 23 cuts to go'.",
-   "context": "In the experiment Cut It in Half, Again and Again, you cut a strip of paper in half as many times as you can. This card shows how many more cuts it would take to make a piece one atom wide.",
+   "context": "In the experiment Cut It in Half, Again and Again, you cut a strip of paper in half as many times as you can. This card shows how many more cuts it would take to make a piece one atom long.",
    "chart": {
     "type": "bar",
     "title": "How many times you would have to halve a 24 cm strip to get down to the size of each thing",
@@ -541,7 +541,7 @@
   {
    "q": "If big things are made of tiny things that follow rules of chance, why do big things seem so sure and solid?",
    "kind": "deep",
-   "hint": "One dice roll is a surprise. What about the total of a million rolls?"
+   "hint": "One roll of a dice is a surprise. But the average of a million rolls is almost always the same. Does that help you answer?"
   }
  ],
  "story": {
@@ -784,8 +784,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Lay out all 22 cards in the right order. Look at the last three cards together.",
-     "say": "Look at the end of the ladder. Scientists have found no size at all for an electron. What could it mean to have no size?",
-     "kid": "Look at the last card. An electron has no size that anyone has found. What do you think that means?",
+     "say": "Look at the end of the ladder. Scientists have found no size at all for an electron. It may be a point, or a ripple, or something we have no word for yet. What do you think it could mean to have no size?",
+     "kid": "Look at the last card. Nobody has found any size for an electron. Scientists are not sure what that means. What do you think it could mean?",
      "think": "Is there a smallest thing in the world? Or does it go on for ever?",
      "check": {
       "t": "mcq",
@@ -1636,17 +1636,17 @@
      "mins": 4,
      "do": "1. Look at the cut edge of the last sliver with a magnifying glass, or a zoomed-in phone camera. 2. Look for tiny threads sticking out.",
      "say": "Look at the edge. Can you see tiny threads? Paper is made of plant fibres. Each fibre is made of molecules, and each molecule is made of atoms.",
-     "kid": "Look at the edge with a magnifier. Can you see tiny threads? Paper is made of them. The threads are made of atoms.",
+     "kid": "Look at the edge with a magnifier. Can you see tiny threads? Paper is made of these plant fibres. Each fibre is made of molecules. Each molecule is made of atoms.",
      "ask": [
       {
-       "q": "We stopped after about 8 cuts. How many more cuts would it take to make the piece one atom wide?",
+       "q": "We stopped after about 8 cuts. How many more cuts would it take to make the piece one atom long?",
        "good": [
         "Lots more.",
         "About 23 more, about 31 altogether."
        ]
       }
      ],
-     "parent": "To make the piece just one atom wide, you would need about 31 cuts in all. So everyone is still about 23 cuts away when the scissors stop. Show the halving chart on the 'How small is an atom?' card."
+     "parent": "To make the piece just one atom long, you would need about 31 cuts in all. So everyone is still about 23 cuts away when the scissors stop. Show the halving chart on the 'How small is an atom?' card."
     },
     {
      "id": "s5",
@@ -1654,7 +1654,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What do you think? What did you see? Why did it happen?",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: paper is made of particles much too small to cut with scissors. What I saw: I cut it 8 times, and the last piece was about 1 millimetre. Under the magnifier I saw tiny threads. Why: the threads are made of molecules, and molecules are made of atoms. A piece one atom wide is still about 23 cuts away."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: paper is made of particles much too small to cut with scissors. What I saw: I cut it 8 times, and the last piece was about 1 millimetre. Under the magnifier I saw tiny threads. Why: the threads are made of molecules, and molecules are made of atoms. A piece one atom long is still about 23 cuts away."
     }
    ],
    "setup": [
@@ -2487,7 +2487,7 @@
      "mins": 6,
      "do": "1. Go to a staircase. 2. The child stands on the bottom step. That is the electron's usual place. 3. When you say 'Heat!', they jump up one step. 4. When you say 'Let go!', they jump down and call out 'Yellow!'. 5. Ask them to try standing halfway between two steps.",
      "say": "You're an electron in a sodium atom. The flame's heat lifts you up one step. When you jump down, you give out a flash of yellow light. Can you stand between two steps?",
-     "kid": "You are an electron! 'Heat!' Jump up one step. 'Let go!' Jump down and shout 'Yellow!' Can you stand between steps?",
+     "kid": "You are an electron. When you hear 'Heat!', jump up one step. When you hear 'Let go!', jump down and shout 'Yellow!'. Can you stand halfway between two steps?",
      "parent": "Electrons in an atom can only have certain amounts of energy, like standing on steps, never in between. Each drop down a step gives out light of one exact colour. Sodium's brightest light is yellow. A ball rolling down a ramp can stop anywhere. This is one way the very small does not behave like the things we see."
     },
     {
@@ -3214,7 +3214,7 @@
     ]
    },
    "how": "e1",
-   "why_maths": "Halving and doubling are partners. Spotting the doubling pattern shows why only about 31 halvings take a strip all the way down to the width of an atom."
+   "why_maths": "Halving and doubling are partners. Spotting the doubling pattern shows why only about 31 halvings take a strip all the way down to the size of an atom."
   },
   {
    "problem": "In the marble test with a battery hidden, you rolled 20 marbles. 18 went straight through and 1 turned aside. How many came back? In the real experiment, about 1 in 8,000 came back. Which was emptier: your card or the gold?",
@@ -3562,9 +3562,9 @@
  "roots": {
   "context": "Everything you can touch is made of atoms, and atoms are made of smaller particles. This card asks what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Cut a strip of paper in half again and again, and each piece is still paper, for a while. After about 31 halvings, a piece would be only one atom wide. Its atoms are carbon, hydrogen and oxygen, the same kinds as in sugar and in you. None of them is paper, so if you cut anything far enough, the pieces are no longer that thing.",
+   "truth": "Cut a strip of paper in half again and again, and each piece is still paper, for a while. After about 31 halvings, a piece would be only one atom long. Its atoms are carbon, hydrogen and oxygen, the same kinds as in sugar and in you. None of them is paper, so if you cut anything far enough, the pieces are no longer that thing.",
    "habit": "We think a small piece of a thing is just a smaller copy of it, so a crumb of dosa is still dosa. That is true only down to a point. Below it, the pieces are atoms, and a carbon atom is not dosa or paper.",
-   "evidence": "In the paper-cutting experiment, the last sliver was still paper, and the magnifier showed its plant fibres. The halving chart shows that a piece one atom wide is still about 23 halvings further down. Paper is mostly cellulose, which is built from carbon, hydrogen and oxygen atoms. Sugar is built from the same three kinds of atom."
+   "evidence": "In the paper-cutting experiment, the last sliver was still paper, and the magnifier showed its plant fibres. The halving chart shows that a piece one atom long is still about 23 halvings further down. Paper is mostly cellulose, which is built from carbon, hydrogen and oxygen atoms. Sugar is built from the same three kinds of atom."
   },
   "three": {
    "who_am_i": "You are made mostly of atoms of oxygen, carbon, hydrogen and nitrogen, the same kinds as in air and food. None of those atoms is 'you' by itself.",
@@ -3605,7 +3605,7 @@
    "kid": "Put one grain of salt on your finger. Look at it closely. It holds more atoms than you could ever count. Breathe slowly three times. What is it in you that notices?"
   },
   "ask": [
-   "In the paper-cutting experiment, the scissors stop after about 8 cuts. If you could go on, at which cut would the paper stop being paper?",
+   "In the paper-cutting experiment, the scissors stop after about 8 cuts. If you could keep cutting, the pieces would one day stop being paper. What do you think they would be then?",
    "Is paper in its atoms, or in the way its atoms are joined?",
    "Your atoms were once in stars and will one day be somewhere else. Are they yours, or only borrowed?"
   ],

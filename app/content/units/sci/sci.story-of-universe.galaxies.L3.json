@@ -186,7 +186,7 @@
    "for": "The spirals looked like clouds of gas, and nobody could measure how far away they were.",
    "against": "In 1923 Edwin Hubble used Henrietta Leavitt's pulsing stars to show that Andromeda is far outside the Milky Way.",
    "status": "rejected",
-   "context": "This card is about how big people once thought the universe was."
+   "context": "This card is about how big people once thought the universe was. Before 1923, nobody knew whether the fuzzy spiral clouds were inside the Milky Way or far outside it."
   },
   {
    "claim": "The Sun is at the centre of the Milky Way.",
@@ -194,7 +194,7 @@
    "for": "When they counted stars, they found about the same number in every direction along the band.",
    "against": "Dust hides faraway stars, so they could only count nearby ones. Harlow Shapley showed in 1918 that the centre is far away, towards Sagittarius.",
    "status": "rejected",
-   "context": "This card is about where we live in our galaxy."
+   "context": "This card is about where we live in our galaxy. Astronomers first tried to find the shape of the Milky Way by counting stars in every direction. The question is whether that showed the Sun to be at the centre."
   },
   {
    "claim": "Galaxies are held together by huge clouds of invisible dark matter.",
@@ -202,7 +202,7 @@
    "for": "The outer stars of galaxies go round too fast to be held by the stars and gas we can see. Many other measurements point the same way.",
    "against": "Nobody has yet caught a particle of dark matter, and a few astronomers think gravity itself works differently at these sizes.",
    "status": "debated",
-   "context": "This card is about what holds galaxies together."
+   "context": "This card is about what holds galaxies together. Dark matter is matter that has gravity but gives out no light, so we cannot see it. The idea began with Vera Rubin's measurements. The outer stars of spiral galaxies go round too fast to be held by the stars and gas we can see."
   },
   {
    "claim": "The Milky Way and Andromeda will certainly crash together in about 4 to 5 billion years.",
@@ -210,7 +210,7 @@
    "for": "Andromeda is moving towards us at about 110 kilometres every second.",
    "against": "A 2025 study that included the pull of other nearby galaxies found only about an even chance of a crash in the next 10 billion years.",
    "status": "debated",
-   "context": "This card is about the future of our galaxy."
+   "context": "This card is about the future of our galaxy. Andromeda is the nearest big galaxy, and it is moving towards us. The question is whether it will really collide with the Milky Way."
   }
  ],
  "big_questions": [
@@ -225,7 +225,7 @@
    "hint": "Think about the Rice Galaxy experiment. What could you learn by counting from inside the circle?"
   },
   {
-   "q": "Your body has more cells than the Milky Way has stars. Are you more like one person or like a galaxy?",
+   "q": "Your body has more cells than the Milky Way has stars. Are you one thing, or many things? Is a galaxy one thing, or many?",
    "kind": "big",
    "hint": "Each cell is alive on its own. Together they make you. Is the same true of stars in a galaxy?"
   },
@@ -344,7 +344,7 @@
      "mins": 4,
      "do": "1. Show your child a large photo of the Milky Way on a phone or tablet (search for 'Milky Way night sky photo'). 2. Ask the guess question below. 3. Wait for a guess and a reason.",
      "say": "In this photo the Milky Way looks like a milky cloud. But it is made of stars. Why do you think we see a glow instead of separate stars?",
-     "kid": "The Milky Way looks like a cloud. But it is made of stars. Why do we see a glow? Guess. Say why.",
+     "kid": "The Milky Way looks like a cloud, but it is made of stars. Why do we see a glow? Guess first, then say why.",
      "ask": [
       {
        "q": "Why do you think we see a glow, not separate stars?",
@@ -424,7 +424,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why does it happen?",
-     "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
+     "kid": "Say or write three things: what you think now, what you saw, and why you think it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: lights that are close together look like one light from far away. What I saw: the 1 millimetre pair joined into one light first, and the 3 millimetre pair last. The bunch looked like one glow from far away. Why: from further away the gap looks smaller, until my eyes cannot tell the lights apart. Then tell your child that the Milky Way's stars are so far away that they blur into one glow in the same way."
     }
    ],
@@ -498,7 +498,7 @@
      "mins": 4,
      "do": "1. Tell your child about William and Caroline Herschel, who counted stars to find the shape of the Milky Way. 2. Ask the guess question below.",
      "say": "Over 200 years ago, Caroline Herschel and her brother William counted stars in hundreds of patches of sky. They wanted to find the shape of our galaxy from inside it. If you live inside a galaxy, could counting stars tell you where its middle is? Why do you think so?",
-     "kid": "Long ago, Caroline and William Herschel counted stars. They wanted to find our galaxy's shape. Could counting stars show where the middle is? Guess. Say why.",
+     "kid": "Long ago, Caroline and William Herschel counted stars. They wanted to find our galaxy's shape. Could counting stars show where its middle is? Guess first, then say why.",
      "ask": [
       {
        "q": "Which way do you think you would count the most stars?",
@@ -757,9 +757,9 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask the last question and let your child think.",
-     "say": "Andromeda, the nearest big galaxy, is about 25 times as far as the width of the Milky Way. What does that tell you about the space between galaxies?",
-     "kid": "Andromeda is about 25 times as far away as the Milky Way is wide. Is there a lot of space between galaxies?",
-     "parent": "Stars inside a galaxy are very far apart compared with their size. Galaxies are only a few times their own width apart, so they are close together compared with their size."
+     "say": "Andromeda, the nearest big galaxy, is about 25 times as far away as the Milky Way is wide. Compared with their own size, do you think galaxies are close together or far apart?",
+     "kid": "Andromeda is about 25 times as far away as the Milky Way is wide. Are galaxies close together or far apart, for their size?",
+     "parent": "Stars inside a galaxy are millions of times their own width apart. The nearest big galaxy is only about 25 times the Milky Way's width away. So compared with their size, galaxies are much closer together than stars are."
     }
    ],
    "setup": [
@@ -2395,8 +2395,8 @@
    "evidence": "In the Pinhole Galaxy experiment, the bunch of holes looked like one fuzzy light from far away and like separate points up close. In 1610, Galileo's telescope showed the Milky Way's glow as separate stars in the same way."
   },
   "three": {
-   "who_am_i": "Your body is made of about 30 trillion cells, more than the stars in the Milky Way. From across the room, you look like one person.",
-   "what_is_life": "Dung beetles roll a ball of dung away in a straight line, so that other beetles cannot steal it. On moonless nights, they steer by the bright band of the Milky Way.",
+   "who_am_i": "Your body is made of about 30 trillion cells, which is more than the number of stars in the Milky Way. Yet from across the room, you look like one person. A galaxy is like this too. From far away it looks like one glow, but it is made of billions of separate stars.",
+   "what_is_life": "Dung beetles roll a ball of dung away in a straight line, so that other beetles cannot steal it. On moonless nights, they steer by the bright band of the Milky Way. So a small beetle uses the light of billions of faraway stars as a compass.",
    "what_is_this_world": "The Sun is one star in a galaxy of billions, and our galaxy is one of hundreds of billions. All the stars we can see by eye belong to just one of them."
   },
   "thread": "A galaxy is many and one at the same time. It is billions of separate suns, each with its own light. Gravity holds them all, so they all go round one centre together. From far away their lights join into one glow. Each star is a separate star, and each is also part of something bigger that holds it.",
@@ -2430,12 +2430,12 @@
    "title": "Many lights, one glow",
    "mins": 3,
    "say": "Let's sit quietly and look at the lights of the street or the buildings outside. Look at one light far away. Now half close your eyes. Do the lights start to blur together? Open them wide again. Now close your eyes and breathe slowly six times. Feel your whole body breathing as one. Your body is made of trillions of tiny cells, each one alive. Open your eyes slowly.",
-   "kid": "Look at the far lights outside. Half close your eyes. Do they blur? Now close your eyes. Breathe slowly six times. Your body is trillions of cells, breathing as one."
+   "kid": "Look at the far lights outside. Half close your eyes. Do the lights blur together? Now close your eyes and breathe slowly six times. Your body is made of trillions of cells. They are all alive, and they work together as you breathe."
   },
   "ask": [
    "Is the Milky Way one thing or billions of things? Can it be both?",
    "In the Pinhole Galaxy experiment, the lights blurred into one glow. Was the glow in the card or in your eyes?",
-   "Could your cells feel as if they each live alone, the way each star shines alone?"
+   "Each star shines on its own, and yet it is part of a galaxy. Is each cell in your body like that too?"
   ],
   "art": "A child on a rooftop looking up at the pale band of the Milky Way. In a circle, the band zoomed in to show countless separate stars. In another circle, the child's hand zoomed in to show countless separate cells."
  },

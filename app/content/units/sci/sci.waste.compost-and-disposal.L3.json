@@ -338,7 +338,7 @@
    "Paati laughed. \"Kanna, tell me one thing. Can the bucket breathe?\"",
    "\"Breathe? It has a lid,\" said Meenakshi. \"And Chithappa presses it down every day.\"",
    "\"Then the good workers are choking,\" said Paati. \"The tiny living things that make compost need air. When there is no air, other tiny things take over. They are the ones who make the bad smell. In my pit, every basket of peels gets covered with dry leaves. Twice as many leaves as peels. And every few days I turn it with a stick. And no cooked rice. That brings rats.\"",
-   "Meenakshi put the phone down and turned to Chithappa. \"Paati says we need three things,\" she said. \"Holes for air. Dry things, like leaves or paper, to soak up the wet. And stirring. And no rice.\"",
+   "Meenakshi put the phone down and turned to Chithappa. \"Paati says we need three things,\" she said. \"Holes for air. Dry things, like leaves or paper, to soak up the wet. And stirring. She also says no cooked rice.\"",
    "Chithappa raised his eyebrows. Then he smiled. \"Show me.\"",
    "So Meenakshi showed him. First, they put on gloves and took out the sambar rice, and put it in the wet-waste bin for the truck. Then Chithappa heated a thick steel skewer on the stove, and Meenakshi held a torch while he melted twenty small holes into the sides and the lid of the bucket. They stood the bucket on an old tray.",
    "Meenakshi tore up a whole week of newspapers into strips. The watchman gave them a sack of dry leaves he had swept from under the neem tree by the gate. They mixed the strips and leaves into the slimy peels with a stick, until the mess looked like a brown, damp salad.",
@@ -356,7 +356,7 @@
    "Why did Chithappa's bucket smell so bad by the fourth day?",
    "What three things did Paati say the bucket needed? Why does each one help?",
    "Why did the bucket feel a little warm after the fix?",
-   "Meenakshi showed her uncle how to fix it, even though he was the grown-up. Have you ever known something a grown-up did not?"
+   "Chithappa said the peels can stink or turn into soil, depending on who gets to eat them. What did he mean?"
   ],
   "art": [
    "A girl on a Chennai apartment balcony watching her uncle press peels into a blue paint bucket with a ladle.",
@@ -434,11 +434,11 @@
       },
       {
        "f": "STIR! Take one GREEN card or one WET marker out of your pot and put it on the discard pile. If you have none, nothing happens.",
-       "b": "Stirring lets air in, so the pot is less sour."
+       "b": "Stirring lets air in, so the pot is less sour. In the game, taking out one green shows that."
       },
       {
        "f": "STIR! Take one GREEN card or one WET marker out of your pot and put it on the discard pile. If you have none, nothing happens.",
-       "b": "Stirring lets air in, so the pot is less sour."
+       "b": "Stirring lets air in, so the pot is less sour. In the game, taking out one green shows that."
       },
       "HEAVY RAIN on the balcony: put 1 WET marker in the Greens column of your pot. It counts as 1 green.",
       "TIGHT LID: no air gets in. Put 2 WET markers in the Greens column of your pot. They count as 2 greens.",
@@ -750,7 +750,7 @@
      "mins": 7,
      "do": "Ask your child to say three things: what they think now, what they saw, and why. Write them in the notebook. Then draw a bar chart of the day 10 smell scores.",
      "say": "Tell me what you think now. What did you see and smell? And why do you think it happened? Then let's draw a bar for each jar.",
-     "kid": "Say what you think now. Say what you saw and smelled. Say why. Then draw a bar for each jar.",
+     "kid": "Say what you think now. Say what you saw and smelled. Then say why it happened. Then draw a bar for each jar.",
      "ask": [
       {
        "q": "What did the paper change?",
@@ -1083,7 +1083,7 @@
      "mins": 8,
      "do": "Hand your child each item. They put it on a sheet and say why.",
      "say": "Where does this one go? Why do you think so?",
-     "kid": "Pick up one thing. Which sheet? Say why.",
+     "kid": "Pick up one thing. Which sheet does it go on? Say why.",
      "ask": [
       {
        "q": "Why does the leftover rice go in Not in the pot?",
@@ -2483,9 +2483,9 @@
   "three": {
    "who_am_i": "Your gut is full of microbes that live without air. They help digest the fibre in your food.",
    "what_is_life": "Every peel you throw away is food for millions of microbes, fungi and worms. Their meal becomes soil for new plants.",
-   "what_is_this_world": "The tiny particles in a peel are never lost. They go into the air and the soil, and plants build new leaves from them."
+   "what_is_this_world": "The tiny pieces that a peel is made of are never lost. They go into the air and the soil, and plants build new leaves from them."
   },
-  "thread": "A peel was once part of a living mango tree or tomato plant. Microbes and worms feed on it, and break it into water, carbon dioxide and nutrients. A new plant takes these up and builds new leaves and fruit from them. Then someone eats the fruit, and the peel goes back to the microbes. The same tiny particles pass from plant to microbe to soil to plant again, through countless lives.",
+  "thread": "A peel was once part of a living mango tree or tomato plant. Microbes and worms feed on it, and break it into water, carbon dioxide and nutrients. A new plant takes these up and builds new leaves and fruit from them. Then someone eats the fruit, and the peel goes back to the microbes. The same materials pass from plant to microbe to soil to plant again, through countless lives.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
@@ -2516,10 +2516,10 @@
    "title": "Breathe with the soil",
    "mins": 3,
    "say": "Let's hold a handful of soil from a plant pot, or ready compost. Bring it close and breathe in slowly through your nose. That smell is made by bacteria, millions of them, living in your hand. Now breathe out slowly. Your breath carries carbon dioxide, just like the breath of the microbes in the compost. Let's breathe in and out three more times, and feel that we are breathing alongside them.",
-   "kid": "Hold some soil in your hand. Breathe in slowly. That smell comes from bacteria. Breathe out slowly. They breathe out too. Breathe three more times with them."
+   "kid": "Hold some soil in your hand and breathe in slowly. The smell comes from bacteria. Now breathe out slowly. The bacteria also give out carbon dioxide. Breathe in and out three more times."
   },
   "ask": [
-   "If the tomato you eat was built partly from an old peel, where does the peel end and the tomato begin?",
+   "A tomato plant can be built partly from the nutrients of an old peel. So is the tomato partly made of that peel?",
    "Microbes in the jar sensed air and water and grew where they could. Is that a kind of choosing?"
   ],
   "art": "A child on a balcony holding a handful of dark compost to their nose, eyes closed, with faint drawings of a mango tree, a peel, tiny microbes and a new seedling arranged in a circle around them."

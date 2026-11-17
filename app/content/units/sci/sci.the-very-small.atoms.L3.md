@@ -1,7 +1,7 @@
 # Atoms: how small they are and what is inside them
 `sci.the-very-small.atoms.L3`
 
-**Summary.** Cut a strip of paper in half again and again, and your scissors stop after about 8 cuts. To get a sliver only one atom wide, you would need about 31. Everything you can touch is made of atoms, and an atom is almost all empty space. At its centre is a tiny, heavy nucleus, made of protons and neutrons. Electrons are found around it, not on tracks but in a cloud of places where they are likely to be.
+**Summary.** Cut a strip of paper in half again and again, and your scissors stop after about 8 cuts. To get a piece only one atom long, you would need about 31. Everything you can touch is made of atoms, and an atom is almost all empty space. At its centre is a tiny, heavy nucleus, made of protons and neutrons. Electrons are found around it, not on tracks but in a cloud of places where they are likely to be.
 
 **Intro.** *Take a piece of paper. Tear it in half. Tear one half in half again. Keep going. Can you go on for ever? Or will you reach a piece so small it cannot be cut?* More than 2,000 years ago, a thinker in India asked this same question. His name was Kanada. A story says he lived on the grains of rice left behind in fields after the harvest. His name may even mean 'grain-eater'. Kanada taught that everything is made of tiny particles, far too small to see. He called them paramanu. Far away in Greece, a thinker called Democritus had a similar idea. He called them atoms. Neither of them had a microscope. They worked it out by thinking. In this unit you test their idea yourself, with a strip of paper and a pair of scissors.
 
@@ -27,7 +27,7 @@
 - **Quark**: An even smaller particle. Each proton and each neutron is made mainly of three quarks. *e.g.* A proton is made of two 'up' quarks and one 'down' quark.
 - **Electric charge**: A property of some particles that makes them attract or repel each other. Attract means pull together. Repel means push apart. A plus and a minus attract. Two pluses, or two minuses, repel. *e.g.* Two balloons rubbed on dry hair both get extra electrons, so they repel each other.
 - **Empty space**: Space with no matter in it. Most of an atom is empty space. Its nucleus is tiny, and its electrons are tiny too, spread out as a cloud. *e.g.* Nearly all of your body is empty space, because nearly all of every atom is.
-- **Electron cloud**: A picture that shows where an electron is likely to be found. It is thick where the electron is often found and thin where it is rarely found. *e.g.* Drop 50 pencil dots at a target with your eyes closed. They make a cloud that is thick in the middle.
+- **Electron cloud**: A picture that shows where an electron is likely to be found. It is thick where the electron is often found and thin where it is rarely found. *e.g.* Close your eyes and try to dot a target with a pencil 50 times. The dots make a cloud that is thick in the middle.
 - **Quantum physics**: The science of the very tiniest things, like atoms, electrons and light. It has rules that are very different from the rules for balls and bicycles. *e.g.* Quantum physics explains why salt sprinkled on a gas flame turns it bright yellow.
 - **Measurement**: Finding out something, such as where a thing is, by letting it bump into something else, like light or a detector. *e.g.* To find an electron, scientists let it hit a screen. The screen makes a tiny flash where it hit.
 - **Observer (in physics)**: Anything that measures, such as a detector, a screen or even a single particle of light. It does not have to be a person. *e.g.* A camera chip or a speck of dust can 'observe' an electron by being hit by it.
@@ -48,7 +48,7 @@ Look around you. A steel tumbler, a mango, your skin and the air look nothing al
 ### How small is an atom? · *defined*
 **Definition:** The smallest atom, hydrogen, is about one ten-millionth of a millimetre across. Most atoms are two or three times wider. That is still far too small to see with any ordinary microscope.
 
-Small numbers are hard to imagine, so try halving. Take a strip of paper 24 centimetres long and cut it in half. Then cut one half in half. Keep going. With home scissors, most people can make about 8 cuts. The piece is then a sliver about 1 millimetre wide. To make it just one atom wide, you would need about 31 cuts. Even then, the sliver would still be 2 centimetres long and hundreds of thousands of atoms thick. To reach the width of an atom's centre, you would need about 45 cuts. The chart shows how far each thing is down this halving ladder.
+Small numbers are hard to imagine, so try halving. Take a strip of paper 24 centimetres long and cut it in half. Then cut one half in half. Keep going. With home scissors, most people can make about 8 cuts. Each cut halves the length, so the piece is then a sliver about 1 millimetre long. To make it just one atom long, you would need about 31 cuts. Even then, the piece would still be 2 centimetres wide, and as thick as the paper, which is hundreds of thousands of atoms. To reach the size of an atom's centre, you would need about 45 cuts. The chart shows how far each thing is down this halving ladder.
 - e.g. About 5 million atoms side by side would fit across the 1 millimetre gap between two lines on a ruler.
 - e.g. A single hair is a few hundred thousand atoms thick.
 - e.g. One grain of salt holds about a million million million atoms.
@@ -83,18 +83,18 @@ In 1909, in Manchester in England, Hans Geiger and a 20-year-old student, Ernest
 **Definition:** Things feel solid because the electrons of one thing push away the electrons of another. A quantum rule also stops electrons from crowding into the same place.
 
 If atoms are nearly empty, why doesn't your hand sink into the table? Two reasons. First, all electrons are negative, and two negative charges repel. When your hand comes near the table, its electrons repel the table's electrons very strongly, long before any nuclei meet. Second, quantum physics has a rule, found by Wolfgang Pauli in 1925. Two electrons can never be in exactly the same state. So electrons cannot squeeze together, and atoms keep their size. What you feel as solid is not atoms packed with no gaps. It is electrons repelling electrons.
-- e.g. Hold two magnets with the same ends facing. You feel them push apart before they touch. This is a magnetic push, not the push between electrons, but it feels alike.
+- e.g. Hold two magnets with the same ends facing. You feel them push apart before they touch. This is a magnetic push, not the push between electrons, but it feels similar.
 - e.g. Two rubbed balloons on threads lean away from each other. Their extra electrons repel.
 ### Electrons are found in clouds, not on tracks · *defined*
 **Definition:** An electron in an atom does not go round the nucleus on a track. Quantum physics can only say how likely it is to be found in each place. Scientists draw this as a cloud: thick where the electron is likely to be, thin where it is not.
 
-Many books draw atoms like tiny solar systems, with electrons going round like planets. That picture came from Niels Bohr in 1913. It was a useful step, but it is not right. In 1926, Erwin Schrödinger found the maths that describes electrons. It does not give a track. It gives a cloud of chances. Each time scientists measure an electron, they find it at one spot. Do this many times, and the spots make a cloud, like your pencil dots around the target. Between measurements, the maths does not say the electron is at any one spot.
-- e.g. Close your eyes and drop pencil dots at a target 50 times. The dots make a cloud, thickest near the target.
+Many books draw atoms like tiny solar systems, with electrons going round like planets. That picture came from Niels Bohr in 1913. It was a useful step, but it is not right. In 1926, Erwin Schrödinger found the maths that describes electrons. It does not give a track. It gives a cloud of chances. Each time scientists measure an electron, they find it at one spot. Do this many times, and the spots make a cloud, like the dots around the target in the Pencil Dots activity. Between measurements, the maths does not say the electron is at any one spot.
+- e.g. Close your eyes and try to dot a target with a pencil 50 times. The dots make a cloud, thickest near the target.
 - e.g. The electron cloud of a hydrogen atom is shaped like a fuzzy ball. Other clouds are shaped like dumbbells or rings.
 ### The very small does not behave like the things we see · *defined*
 **Definition:** Atoms, electrons and light follow the rules of quantum physics. Their energy comes in fixed steps, and they can spread out like waves, even though they are always found as single particles.
 
-A ball can roll at any speed you like. An electron in an atom cannot have any energy it likes. It can only sit on certain energy levels, like the steps of a staircase. When it drops down one step, the atom gives out light of one exact colour. That is why salt sprinkled on a gas flame flashes yellow. Electrons can also spread like ripples on water. In 1989, Akira Tonomura's team in Japan sent electrons one at a time past a very thin wire that split their path in two. Each electron landed as a single dot. But thousands of dots built up a pattern of stripes, the pattern ripples make. Nobody knows how to picture this. Scientists only know the maths works, every time it is tested.
+A ball can roll at any speed you like. An electron in an atom cannot have any energy it likes. It can only sit on certain energy levels, like the steps of a staircase. When it drops down one step, the atom gives out light of one exact colour. That is why salt sprinkled on a gas flame flashes yellow. Electrons can also spread like ripples on water. In 1989, Akira Tonomura's team in Japan sent electrons one at a time past a very thin wire that split their path in two. Each electron landed as a single dot. But thousands of dots built up a pattern of stripes, the same pattern that ripples make. Nobody knows how to picture this. Scientists only know the maths works, every time it is tested.
 - e.g. Old orange street lights glow one exact colour of yellow-orange, from sodium atoms.
 - e.g. Fireworks get their colours from different atoms: copper for blue-green, strontium for red.
 - e.g. Your phone's chips and screen were designed using quantum physics.
@@ -121,13 +121,13 @@ Two mangoes from the same tree always differ a little, if you look closely enoug
 ### Your atoms are very old, and on loan · *defined*
 **Definition:** Most of the hydrogen in you was made soon after the Big Bang. Nearly all your other atoms were made inside stars. Atoms last for billions of years and keep moving from one thing to another.
 
-The carbon in your fingernails and the oxygen in your blood were made inside stars that lived and died before the Sun was born. In 1957, Margaret Burbidge, Geoffrey Burbidge, William Fowler and Fred Hoyle showed how stars build atoms. Atoms do not wear out. Every breath you take holds more molecules than there are grains of sand on all the world's beaches. Some of those molecules were breathed before by other people and animals, long ago. A grown-up's body is made of about 7 followed by 27 zeros atoms. You are always swapping some of them with the world around you.
+The carbon in your fingernails and the oxygen in your blood were made inside stars that lived and died before the Sun was born. In 1957, Margaret Burbidge, Geoffrey Burbidge, William Fowler and Fred Hoyle showed how stars build atoms. Atoms do not wear out. Every breath you take holds more molecules than there are grains of sand on all the world's beaches. Some of those molecules were breathed before by other people and animals, long ago. The number of atoms in a grown-up's body is about 7 followed by 27 zeros. You are always swapping some of them with the world around you.
 - e.g. The iron in your blood was made inside stars.
 - e.g. The water you drink has fallen as rain many times before.
 ### Particles from space pass through you · *defined*
 **Definition:** Fast particles from space, called cosmic rays, hit the air all the time. They make showers of other particles, and some of these pass right through your body.
 
-These particles are far too small to feel. About one or two pass through your hand every second. Scientists catch their tracks with special detectors. In India, Bibha Chowdhuri and D.M. Bose of the Bose Institute in Calcutta, now Kolkata, carried photographic plates up mountains near Darjeeling. Between 1939 and 1942, the plates recorded tracks of a kind of particle called a meson. They published their work in the journal Nature. Later, a team in England led by Cecil Powell used better plates to find one kind of meson, the pion. Powell won the Nobel Prize in 1950. Today, a star is named Bibha after her.
+These particles are far too small to feel. About one or two pass through your hand every second. Scientists catch their tracks with special detectors. In India, Bibha Chowdhuri and D.M. Bose of the Bose Institute in Calcutta, now Kolkata, carried photographic plates up mountains near Darjeeling. Between 1939 and 1942, the plates recorded tracks of a kind of particle called a meson. They published their work in the journal Nature. Later, a team in England led by Cecil Powell used better plates to find one kind of meson, the pion. Powell won the Nobel Prize in 1950. Today, a star is named Bibha, after Bibha Chowdhuri.
 - e.g. A cloud chamber, made with very cold dry ice and alcohol, shows thin trails of mist where these particles pass.
 - e.g. Big detectors under mountains count particles that pass through the whole Earth.
 ### Is there a smallest thing? · *idea*
@@ -139,10 +139,10 @@ Nobody knows. As far as anyone can tell, electrons and quarks have no size at al
 - **Other physicists:** We may never be able to see deeper. Some questions about the very small may stay open.
 
 ## Mostly agreed
-- Everything we can touch is made of atoms, and about 90 kinds are found in nature. *How we know:* Chemists have weighed elements joining since John Dalton in 1808. Brownian motion, measured by Jean Perrin in 1908, proved atoms are real. Today special microscopes make pictures of single atoms.
+- Everything we can touch is made of atoms, and about 90 kinds are found in nature. *How we know:* Since John Dalton in 1808, chemists have weighed how elements join. In 1908, Jean Perrin measured the jiggling of tiny specks in water, called Brownian motion, and it proved atoms are real. Today special microscopes make pictures of single atoms.
 - Atoms are tiny: about one ten-millionth of a millimetre across. *How we know:* Perrin worked out their size from jiggling specks. X-rays bouncing off crystals and atom-picturing microscopes give the same answer.
 - Every atom has a tiny, heavy nucleus, and the rest is almost empty space. *How we know:* In 1909, Geiger and Marsden saw about 1 in 8,000 alpha particles bounce back from thin metal foil. Rutherford explained it in 1911.
-- Electrons do not move on neat tracks. Quantum physics gives the chances of finding them in each place. *How we know:* Its predictions have been tested millions of times, from the colours of flames to the electron stripe experiments. Every phone chip depends on them being right.
+- Electrons do not move on neat tracks. Quantum physics gives the chances of finding them in each place. *How we know:* The predictions of quantum physics have been tested millions of times, from the colours of flames to the experiment where single electrons built up a pattern of stripes. Every phone chip depends on them being right.
 - Nearly all the atoms in your body, except most of the hydrogen, were made inside stars. *How we know:* Astronomers see these atoms being made and thrown out by stars today. Margaret Burbidge and her colleagues worked out how, in 1957.
 
 ## How we found out
@@ -158,7 +158,7 @@ Nobody knows. As far as anyone can tell, electrons and quarks have no size at al
   Against: It fails for every atom bigger than hydrogen. Since 1926, the maths of quantum physics has shown that electrons have no tracks, only clouds of chances.
 - **Atoms are not real. They are just a handy way of thinking.** (Ernst Mach and Wilhelm Ostwald, two famous scientists, around 1900; *rejected*)  
   For: In 1900 nobody had seen an atom, and good science should rest on what can be measured.  
-  Against: Einstein's work on Brownian motion in 1905 and Perrin's measurements in 1908 showed atoms are real. Ostwald changed his mind. Today we picture single atoms.
+  Against: Einstein's work in 1905 on the jiggling of tiny specks in water, called Brownian motion, and Perrin's measurements in 1908 showed atoms are real. Ostwald changed his mind. Today microscopes make pictures of single atoms.
 - **Quantum physics proves that our minds create the world.** (Some films, books and speakers, and some people who sell healing or success courses; *rejected*)  
   For: In quantum physics, measuring does change what you find. And the word 'observer' sounds like it means a person.  
   Against: In physics, an observer is anything that measures, such as a detector or a particle of light. The experiments work the same with no person watching. Physicists still argue about what measurement means, but none of the main ideas need a person watching.
@@ -173,25 +173,25 @@ Nobody knows. As far as anyone can tell, electrons and quarks have no size at al
   Against: The dust you can see is too big. It swirls mainly because of small air currents. True Brownian motion shows only for much tinier specks, under a microscope.
 
 ## Roots
-We have been learning that everything you can touch is made of atoms, and what atoms are made of. Now we ask what that tells us about ourselves and the world.
+Everything you can touch is made of atoms, and atoms are made of smaller particles. This card asks what that tells us about ourselves and the world.
 
-**Deep truth.** Cut a strip of paper in half again and again, and each piece is still paper, for a while. After about 31 halvings, a piece would be only one atom wide. Its atoms are carbon, hydrogen and oxygen, the same kinds as in sugar and in you. None of them is paper, so if you cut anything far enough, the pieces are no longer that thing.  
+**Deep truth.** Cut a strip of paper in half again and again, and each piece is still paper, for a while. After about 31 halvings, a piece would be only one atom long. Its atoms are carbon, hydrogen and oxygen, the same kinds as in sugar and in you. None of them is paper, so if you cut anything far enough, the pieces are no longer that thing.  
 *Habit it breaks:* We think a small piece of a thing is just a smaller copy of it, so a crumb of dosa is still dosa. That is true only down to a point. Below it, the pieces are atoms, and a carbon atom is not dosa or paper.  
-*Evidence:* In the paper-cutting experiment, the last sliver was still paper, and the magnifier showed its plant fibres. The halving chart shows that a piece one atom wide is still about 23 halvings further down. Paper is mostly cellulose, which is built from carbon, hydrogen and oxygen atoms. Sugar is built from the same three kinds of atom.
+*Evidence:* In the paper-cutting experiment, the last sliver was still paper, and the magnifier showed its plant fibres. The halving chart shows that a piece one atom long is still about 23 halvings further down. Paper is mostly cellulose, which is built from carbon, hydrogen and oxygen atoms. Sugar is built from the same three kinds of atom.
 
 - *who am i:* You are made mostly of atoms of oxygen, carbon, hydrogen and nitrogen, the same kinds as in air and food. None of those atoms is 'you' by itself.
-- *what is life:* A living thing is built from the same kinds of atom as a stone or a star. Their atoms keep coming and going as they eat and breathe, yet they stay themselves.
+- *what is life:* Living things are built from the same kinds of atom as a stone or a star. Their atoms keep coming and going as they eat and breathe, yet they stay themselves.
 - *what is this world:* In this world, about 90 kinds of atom make everything you can touch. All of them are built from just three kinds of particle.
 
 About 90 kinds of atom build everything you can touch. Each atom is built from only three kinds of particle: protons, neutrons and electrons. The same few particles become stars, rivers, mangoes and you, joined in different ways. Consciousness runs through all of it, down to every particle. So a mind is not something that appears only when atoms build a brain.
 
-- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a banyan fruit, then one of its tiny seeds. 'What do you see?' 'Nothing at all.' Uddalaka says that from this finest part, which you cannot see, the great banyan tree grows. (When you cut the paper smaller and smaller, the pieces soon became too small to see. Yet everything big is built from far smaller particles, which nobody can see with their eyes.)
+- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a banyan fruit, then one of its tiny seeds. 'What do you see?' 'Nothing at all.' Uddalaka says that from this finest part, which you cannot see, the great banyan tree grows. (In the paper-cutting experiment, the pieces quickly became tiny. Everything big is built from particles far smaller still, which nobody can see with their eyes.)
 - **Tao Te Ching 11:** Thirty spokes meet at the hub of a wheel. It is the empty hole in the middle that makes the wheel useful. A pot is shaped from clay, but it is the empty space inside that holds things. (An atom is almost all empty space, and that space gives the atom its size. Because the electrons spread out around the nucleus, atoms take up room, so the things built from them do too.)
 - Science (settled): Everything we can touch is made of about 90 kinds of atom, and every atom is built from protons, neutrons and electrons.
 - Science (open): What an electron is doing between measurements is still argued about. Quantum physics does not prove that a person watching makes the world real. In physics, an 'observer' means anything that measures, such as a detector.
 - Other view, The Charvaka school in ancient India, and most physicists and brain scientists today: Only matter is real. Particles follow the rules of physics, but they have no experience of their own. Awareness appears only when matter is built into a living brain. Many careful thinkers hold this view.
 - Practice, One grain of salt (3 min): Put one grain of salt on your fingertip. Look at it closely. It holds about a million million million atoms. Breathe in slowly, and breathe out. Salt is made of sodium and chlorine atoms. Atoms of these same two kinds are in the sea and in your tears. Close your eyes and feel your fingertip. What is it in you that is noticing?
-- Ask: Your scissors stopped after about 8 cuts. If you could go on, at which cut would the paper stop being paper?
+- Ask: In the paper-cutting experiment, the scissors stop after about 8 cuts. If you could keep cutting, the pieces would one day stop being paper. What do you think they would be then?
 - Ask: Is paper in its atoms, or in the way its atoms are joined?
 - Ask: Your atoms were once in stars and will one day be somewhere else. Are they yours, or only borrowed?
 
@@ -200,7 +200,7 @@ About 90 kinds of atom build everything you can touch. Each atom is built from o
 - *big:* Can we know something is real if we can never see it? (hint: Nobody saw an atom for 2,000 years. How did scientists become sure? What else do you believe in without seeing it?)
 - *big:* Your atoms were made in stars and will go on after you. So what is 'you'? The atoms, or the pattern they make? (hint: Your atoms keep changing as you eat, breathe and grow. Are you still the same you as last year?)
 - *deep:* Every electron is exactly the same as every other one. Is anything else in the world exactly the same as something else? (hint: Think of two coins, two leaves, two twins. Are they exactly the same?)
-- *deep:* If big things are made of tiny things that follow rules of chance, why do big things seem so sure and solid? (hint: One dice roll is a surprise. What about the total of a million rolls?)
+- *deep:* If big things are made of tiny things that follow rules of chance, why do big things seem so sure and solid? (hint: One roll of a dice is a surprise. But the average of a million rolls is almost always the same. Does that help you answer?)
 
 ## Story: Counting in the Dark
 *Real: Ernest Marsden was 20 and a student in Manchester in 1909. He and Hans Geiger counted tiny flashes made by alpha particles from radium, in a darkened room, through a microscope. They found that a few bounced back from metal foil, about 1 in 8,000 for platinum. Rutherford explained it in 1911 with the tiny nucleus. Rutherford's words about the shell and the tissue paper are from a lecture he gave much later. Marsden later moved to New Zealand. Imagined: Marsden's thoughts, the rain, the exact words of the conversations, and the last scene of Marsden in his old age.*
@@ -269,8 +269,8 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   - Note: Children often get stuck below the hair card, because nothing there can be seen. That is the point of the game. The jump from a virus to an atom is about a thousand times. The jump from an atom to its nucleus is tens of thousands of times.
 - **s4 (4 min)**  
   *Parent does:* Lay out all 22 cards in the right order. Look at the last three cards together.  
-  *Parent says:* Look at the end of the ladder. Scientists have found no size at all for an electron. What could it mean to have no size?  
-  *Child mode:* Look at the last card. An electron has no size that anyone has found. What do you think that means?
+  *Parent says:* Look at the end of the ladder. Scientists have found no size at all for an electron. It may be a point, or a ripple, or something we have no word for yet. What do you think it could mean to have no size?  
+  *Child mode:* Look at the last card. Nobody has found any size for an electron. Scientists are not sure what that means. What do you think it could mean?
   - Check: What does the electron card say about its size? → **Nobody has found any size at all**
   - Think: Is there a smallest thing in the world? Or does it go on for ever?
 ### g2 · Catch the Electron (20 min)
@@ -325,14 +325,14 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - **s4 (4 min)**  
   *Parent does:* 1. Look at the cut edge of the last sliver with a magnifying glass, or a zoomed-in phone camera. 2. Look for tiny threads sticking out.  
   *Parent says:* Look at the edge. Can you see tiny threads? Paper is made of plant fibres. Each fibre is made of molecules, and each molecule is made of atoms.  
-  *Child mode:* Look at the edge with a magnifier. Can you see tiny threads? Paper is made of them. The threads are made of atoms.
-  - Ask: We stopped after about 8 cuts. How many more cuts would it take to make the piece one atom wide? (good: Lots more.; About 23 more, about 31 altogether.)
-  - Note: To make the piece just one atom wide, you would need about 31 cuts in all. So everyone is still about 23 cuts away when the scissors stop. Show the halving chart on the 'How small is an atom?' card.
+  *Child mode:* Look at the edge with a magnifier. Can you see tiny threads? Paper is made of these plant fibres. Each fibre is made of molecules. Each molecule is made of atoms.
+  - Ask: We stopped after about 8 cuts. How many more cuts would it take to make the piece one atom long? (good: Lots more.; About 23 more, about 31 altogether.)
+  - Note: To make the piece just one atom long, you would need about 31 cuts in all. So everyone is still about 23 cuts away when the scissors stop. Show the halving chart on the 'How small is an atom?' card.
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What do you think? What did you see? Why did it happen?
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: paper is made of particles much too small to cut with scissors. What I saw: I cut it 8 times, and the last piece was about 1 millimetre. Under the magnifier I saw tiny threads. Why: the threads are made of molecules, and molecules are made of atoms. A piece one atom wide is still about 23 cuts away.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: paper is made of particles much too small to cut with scissors. What I saw: I cut it 8 times, and the last piece was about 1 millimetre. Under the magnifier I saw tiny threads. Why: the threads are made of molecules, and molecules are made of atoms. A piece one atom long is still about 23 cuts away.
 ### e2 · The Hidden Centre: roll marbles like Rutherford (30 min)
 - **question:** Can you find out the size of a hidden thing just by rolling marbles at it?
 - **predict:** Before you start, guess. If the hidden thing is very small, how many of 20 marbles will come back? If it is big, how many? Why do you think so?
@@ -362,7 +362,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - **s5 (4 min)**  
   *Parent does:* Tell your child how the real experiment worked, using the 'An atom is almost all empty space' card.  
   *Parent says:* In 1909, scientists fired alpha particles at very thin gold. Almost all went straight through. About 1 in 8,000 came back. What does that tell us about atoms?  
-  *Child mode:* Scientists did this with gold in 1909. Almost everything went straight through. Only 1 in 8,000 bounced back. What does that tell you?
+  *Child mode:* In 1909, scientists fired alpha particles at very thin gold. Almost all went straight through. Only 1 in 8,000 bounced back. What does that tell you about atoms?
   - Think: Your battery was hit by about 1 marble in 20. The real nucleus was hit by about 1 in 8,000. Which is emptier, your card or a gold atom?
 ### e3 · Colour Spreads by Itself (20 min)
 - **question:** Does colour spread through still water by itself? Does it spread faster in hot water or in cold water?
@@ -384,7 +384,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - **s3 (7 min)**  
   *Parent does:* Talk about what made the colour spread, using the 'How we know atoms are real' card.  
   *Parent says:* Nobody stirred, but the water was moving. In the hot glass, warm water rises and cooler water sinks, so the water stirs itself. This is called convection. Water is also made of molecules that never stop moving. They bump the colour and blur its edges. In hot water, they move faster.  
-  *Child mode:* Nobody stirred, but the water moved. Hot water stirs itself. Warm water rises and cool water sinks. Water molecules never stop moving, too. Hot ones move faster!
+  *Child mode:* Nobody stirred, but the water moved. Hot water stirs itself. Warm water rises and cool water sinks. Water molecules also never stop moving. Hot ones move faster!
   - Check: Why did the colour spread faster in the hot water? → **Hot water moves more: it swirls as warm water rises, and its molecules move faster**
 
 ## Activities
@@ -398,7 +398,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   *Parent does:* 1. Your child makes 50 dots, eyes closed every time. 2. Open your eyes between dots only to look at the target again. 3. Count out loud together.  
   *Parent says:* Keep going until we have 50 dots. Look at the target, close your eyes, dot. Count with me.  
   *Child mode:* Make 50 dots. Look, close your eyes, dot. Count out loud as you go.
-  - Note: Some dots will land near the target and a few far away. That is good. If a child peeks, it still works, as long as they keep the pencil moving from the ear each time.
+  - Note: Some dots will land near the target and a few far away. That is good. If a child peeks, it still works, as long as they bring the pencil down from their ear each time.
 - **s3 (4 min)**  
   *Parent does:* 1. Put the smallest round thing around the target and draw a ring. 2. Use a bigger one for a second ring, and the biggest for a third. 3. Count the dots in each ring. Count dots outside the third ring with the outer ring.  
   *Parent says:* Let's draw rings around the target and count. Which ring has the most dots? Where are the dots packed most tightly?  
@@ -414,7 +414,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - **record:** Draw the park, the seed in the middle and the atom's edge. Write how many steps you walked.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Put a mustard seed on a coin in the middle of an open space. 2. Show your child how tiny it is.  
-  *Parent says:* This mustard seed is the nucleus, the centre of our atom. Remember, it holds nearly all the atom's weight.  
+  *Parent says:* This mustard seed is the nucleus, the centre of our atom. It holds nearly all the atom's weight.  
   *Child mode:* This mustard seed is the nucleus. It is the centre of your atom. It holds nearly all the atom's weight.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Walk away from the seed together in a straight line, counting steps. 2. Stop at about 30 metres, roughly 50 to 60 of a child's steps, or one and a half cricket pitches. 3. Put down the dupatta or stick there. That is the edge of the atom.  
@@ -461,7 +461,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   *Parent does:* 1. Hold one magnet in each hand. 2. Slowly bring the same ends together, north to north. 3. Feel the push before they touch. 4. Turn one around and feel them pull.  
   *Parent says:* Bring them close slowly. Can you feel them pushing? They haven't even touched.  
   *Child mode:* Hold a magnet in each hand. Bring them close slowly. Feel the push? Now turn one around and try again.
-  - Note: The magnet push is a magnetic force, not the push between electrons. It is only a way to feel a push without touching. The balloons below are the electric push between electrons.
+  - Note: The magnet push is a magnetic force, not the push between electrons. It is only a way to feel a push without touching. The rubbed balloons in the next step show the electric push between electrons.
 - **s2 (3 min)**  
   *Parent does:* 1. If you have no magnets, or want more: blow up two balloons and tie a thread to each. 2. Rub both on dry hair. 3. Hold them up by their threads, side by side.  
   *Parent says:* Both balloons now have extra electrons. Electrons repel each other: they push each other away. Watch the balloons lean apart.  
@@ -500,7 +500,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - **s2 (6 min)**  
   *Parent does:* 1. Go to a staircase. 2. The child stands on the bottom step. That is the electron's usual place. 3. When you say 'Heat!', they jump up one step. 4. When you say 'Let go!', they jump down and call out 'Yellow!'. 5. Ask them to try standing halfway between two steps.  
   *Parent says:* You're an electron in a sodium atom. The flame's heat lifts you up one step. When you jump down, you give out a flash of yellow light. Can you stand between two steps?  
-  *Child mode:* You are an electron! 'Heat!' Jump up one step. 'Let go!' Jump down and shout 'Yellow!' Can you stand between steps?
+  *Child mode:* You are an electron. When you hear 'Heat!', jump up one step. When you hear 'Let go!', jump down and shout 'Yellow!'. Can you stand halfway between two steps?
   - Note: Electrons in an atom can only have certain amounts of energy, like standing on steps, never in between. Each drop down a step gives out light of one exact colour. Sodium's brightest light is yellow. A ball rolling down a ramp can stop anywhere. This is one way the very small does not behave like the things we see.
 - **s3 (5 min)**  
   *Parent does:* Talk about where else this happens.  
@@ -537,7 +537,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
   *Parent does:* 1. Label the parts. 2. Ask your child to say what the model gets wrong. 3. Your child explains the model to someone else in the family.  
   *Parent says:* Every model is wrong somewhere. If our nucleus were this size, how big would the real cloud be?  
   *Child mode:* Label your model. Then think: what does it get wrong? Explain your atom to someone at home.
-  - Note: Good answers: the nucleus is far too big for the cloud. If this seed were a real nucleus, the electron cloud around it would be about a kilometre across. Real atoms have no colours. The electrons are not cotton.
+  - Note: Good answers: the nucleus is far too big for the cloud. If this ball of seeds were a real nucleus, the electron cloud around it would be about a kilometre across. Real atoms have no colours. The electrons are not cotton.
   - Think: Scientists use models they know are not quite right. Why might a wrong model still be useful?
 
 ## Challenges
@@ -579,13 +579,13 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - **s3 (8 min)**  
   *Parent does:* Compare your smallest letter with atoms.  
   *Parent says:* Your letter is about 1 or 2 millimetres tall. About 5 million atoms fit across 1 millimetre. How many atoms tall is your letter?  
-  *Child mode:* Your letter is about 1 millimetre tall. That is about 5 million atoms! How many is that for your letter?
+  *Child mode:* About 5 million atoms fit across 1 millimetre. Measure your smallest letter. How many atoms tall is it?
   - Check: A letter is 2 millimetres tall. About 5 million atoms fit across 1 millimetre. About how many atoms tall is the letter? → **About 10 million**
   - Think: The scientists' letters were only a few atoms tall. What could you build if you could move single atoms?
 
 ## Worksheets
 ### Atom Detective (core) (core, 15 questions)
-1. (write) Lakshmi, a girl in Class 4, cuts a 24 cm strip of paper in half, again and again. After 8 cuts, the piece is too small to cut. Her little brother says, "Now you have one atom!" Explain to him why he is wrong.  
+1. (write) You cut a 24 cm strip of paper in half, again and again. After 8 cuts, the piece is too small to cut. Someone says, "Now you have one atom!" Explain why that is wrong.  
    **Answer:** The last piece is about 1 millimetre long. You can still see it and pick it up, but you can never see a single atom, so this piece is far bigger than one. Millions of atoms would still fit in a row across it.. *Why:* A strong answer uses evidence: the piece can still be seen, and atoms are far too small to see, so the piece must still be made of a huge number of atoms.
 2. (sort) Sort these. Is each one made of atoms, or is it light or the lack of light?  
    **Answer:** steam from a pressure cooker → Made of atoms; a shadow on the wall → Light, or the lack of light; the smell of jasmine flowers → Made of atoms; sunlight on the floor → Light, or the lack of light; a steel tumbler → Made of atoms; your own hair → Made of atoms; a rainbow → Light, or the lack of light. *Why:* Steam, a smell, steel and hair are all matter, so they are made of atoms. A smell is tiny molecules reaching your nose. Sunlight and a rainbow are light, which is not made of atoms. A shadow is just a place where light is blocked.
@@ -595,7 +595,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
    **Answer:** ['a coconut', 'a grain of rice', 'the width of a hair', 'an atom']. *Why:* A coconut is about 15 cm across, a grain of rice about 6 millimetres long, and a hair about a tenth of a millimetre wide. An atom is about a million times thinner than the hair.
 5. (match) Match each part of an atom to what it is.  
    **Answer:** Nucleus → the tiny, heavy centre; Proton → in the centre, with a plus charge; Neutron → in the centre, with no charge; Electron → found around the centre, with a minus charge. *Why:* Protons and neutrons are packed in the nucleus. Electrons are found in a cloud around it.
-6. (mcq) Imagine one atom blown up to the size of the Chepauk cricket stadium in Chennai. How big would the nucleus be?  
+6. (mcq) If one atom were as big as the Chepauk cricket stadium in Chennai, how big would its nucleus be?  
    Options: About as big as a peppercorn on the pitch / About as big as a cricket ball / About as big as the pitch / About as big as the whole stadium  
    **Answer:** About as big as a peppercorn on the pitch. *Why:* The nucleus is tens of thousands of times smaller across than the atom. In a stadium-sized atom, it would be a peppercorn. Most people guess a cricket ball, and even that is far too big. This shows how empty an atom is.
 7. (mcq) An old school book shows an atom as a big ball in the middle, with electrons the same size going round it on neat rings. What is wrong with the picture?  
@@ -603,30 +603,30 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
    **Answer:** The nucleus should be far, far smaller, and the electrons should be drawn as a cloud, not as balls on rings. *Why:* In a real atom, the nucleus is tiny compared with the atom. Electrons do not travel on tracks. Scientists can only say where an electron is likely to be found, so they draw a cloud. The ring picture is from 1913 and is still in many books.
 8. (truefalse) Most of an atom is empty space.  
    **Answer:** True. *Why:* True. The nucleus is tiny, and the electrons are tiny too, spread out as a cloud. Almost all of the atom has nothing solid in it.
-9. (write) Ammu, a girl in Class 3, says, "A steel tumbler is hard and solid, so it cannot be mostly empty space." How would you answer her? Use the balloon activity if you did it.  
+9. (write) Someone says, "A steel tumbler is hard and solid, so it cannot be mostly empty space." How would you answer? Use the rubbed balloons from Pushing Without Touching if you tried them.  
    **Answer:** The atoms in the tumbler really are mostly empty space. It feels hard because the electrons in my fingers and the electrons in the steel push each other away before they meet. It is like two rubbed balloons leaning apart before they touch. That push is what I feel as hard.. *Why:* A strong answer agrees that atoms are mostly empty, and explains what makes things feel solid: electrons pushing each other away.
-10. (draw) Draw an atom the honest way. Put a tiny dot for the nucleus in the middle, and a cloud for the electrons around it. Label both.  
+10. (draw) Draw an atom the way scientists picture it today. Put a tiny dot for the nucleus in the middle, and a cloud for the electrons around it. Label both.  
    **Answer:** A very small dot in the middle labelled nucleus, with a soft, dotty cloud around it labelled electron cloud, thicker near the middle.. *Why:* The nucleus is tiny and in the middle. Electrons are drawn as a cloud, not as balls on rings.
 11. (fill) The tiny, heavy centre of an atom is called the ____.  
    **Answer:** ['nucleus']. *Why:* Ernest Rutherford named the nucleus in 1911. It holds the protons and neutrons, and nearly all of the atom's weight.
-12. (mcq) In the Pencil Dots activity, a girl closed her eyes and tried to dot a target 50 times. Most dots landed near the target, and fewer further out. How is her dot picture like the way scientists draw an electron?  
+12. (mcq) In the Pencil Dots activity, you close your eyes and try to dot a target 50 times. Most dots land near the target, and fewer further out. How is the dot picture like the way scientists draw an electron?  
    Options: Each dot is like one place where the electron was found, and the thick part shows where it is most likely to be / Each dot is a real electron / The dots show that electrons are soft and fluffy  
    **Answer:** Each dot is like one place where the electron was found, and the thick part shows where it is most likely to be. *Why:* Scientists cannot follow an electron along a path. They can only say how likely it is to be found in each place. Many findings together make a cloud, thick where the electron is often found and thin where it is rarely found.
 13. (truefalse) When water boils into steam, each water molecule swells up and becomes bigger.  
    **Answer:** False. *Why:* False. The molecules stay the same size. In steam they move much faster and spread far apart, so the same water takes up much more space. Many people think the molecules themselves grow, but only the gaps between them do.
-14. (perspective) Two sisters, Meera and Nila, look at a drop of water on a steel plate.  
-   **Answer:** A strong answer sides with Meera, using evidence: colour spreading by itself in still water shows tiny moving molecules, and today's microscopes can picture single atoms. It is fair to Nila: water really does look smooth, and great thinkers such as Aristotle believed this for about 2,000 years. A very strong answer adds that the smallest piece of water, a molecule, can be split into hydrogen and oxygen atoms, but then it is no longer water.. *Why:* Both ideas were argued over for a very long time. The evidence from the last 200 years shows that water is made of tiny molecules.
+14. (perspective) Here are two ideas about a drop of water on a steel plate.  
+   **Answer:** A strong answer sides with the first idea, using evidence: colour spreading by itself in still water shows tiny moving molecules, and today's microscopes can picture single atoms. It is fair to the second idea: water really does look smooth, and great thinkers such as Aristotle believed this for about 2,000 years. A very strong answer adds that the smallest piece of water, a molecule, can be split into hydrogen and oxygen atoms, but then it is no longer water.. *Why:* Both ideas were argued over for a very long time. The evidence from the last 200 years shows that water is made of tiny molecules.
 15. (write) Look at a photo in a newspaper through a magnifying glass. What do you see? How is this like the way things are made of atoms? Give one way it is different.  
    **Answer:** Close up, the photo is made of tiny dots of ink. From far away it looks smooth. In the same way, a steel tumbler looks smooth, but it is made of tiny atoms. It is different because I can see the ink dots with a magnifying glass, but atoms are far too small to see, even with a microscope.. *Why:* A strong answer says what the child saw, makes the link to atoms, and names a difference.
 ### Inside the Atom (stretch) (stretch, 16 questions)
-1. (mcq) In the marble test, a girl hides a big steel bowl under the card instead of a small battery. Before she rolls, what should she predict?  
+1. (mcq) In the marble test, suppose a big steel bowl is hidden under the card instead of a small battery. What should you predict before you roll the marbles?  
    Options: Many more marbles will turn aside or come back, because the bowl fills much more of the space / All the marbles will go straight through, just like with the battery / None of the marbles will come out  
    **Answer:** Many more marbles will turn aside or come back, because the bowl fills much more of the space. *Why:* The bowl takes up much more of the space under the card, so more marbles hit it. With a small battery, most marbles miss. In real gold, nearly all alpha particles went straight through, so the thing they hit must be tiny, like the battery.
 2. (write) In 1909, most scientists pictured an atom as a soft ball, with its plus charge spread evenly all through it. Then Hans Geiger and Ernest Marsden saw a few alpha particles bounce straight back from thin metal foil. Why did this prove the soft-ball picture wrong?  
    **Answer:** Alpha particles are fast and heavy. A soft ball with its charge spread out could only nudge them a little. To throw one straight back, the atom needs something tiny, heavy and packed tight. So each atom must have a tiny, heavy centre, the nucleus.. *Why:* A strong answer explains why a soft, spread-out atom could not throw an alpha particle back, and what must be there instead.
-3. (truefalse) Hans Geiger and Ernest Marsden looked through their microscope and saw single atoms.  
-   **Answer:** False. *Why:* False. They could not see atoms. They saw tiny flashes of light on a screen, each one made when an alpha particle hit it. By counting where the flashes appeared, they worked out what the alpha particles had hit.
-4. (mcq) A girl puts one drop of food colour into a glass of hot water and one drop into a glass of ice-cold water, at the same moment. She does not stir. What will she see after five minutes?  
+3. (truefalse) Scientists can look through an ordinary microscope and see single atoms.  
+   **Answer:** False. *Why:* False. Atoms are far too small for an ordinary microscope. Scientists learn about atoms from clues, such as tiny flashes on a screen when particles hit it, and work out what must have caused them.
+4. (mcq) You put one drop of food colour into a glass of hot water and one drop into a glass of ice-cold water, at the same moment. You do not stir. What will you see after five minutes?  
    Options: The colour has spread much further in the hot water / The colour has spread much further in the cold water / The colour has not spread in either glass, because nobody stirred / Both glasses look the same  
    **Answer:** The colour has spread much further in the hot water. *Why:* Water molecules are always moving, and in hot water they move faster. They knock the colour around and spread it. Many people think colour only spreads if you stir, but the test shows it spreads with nobody stirring.
 5. (write) In the colour test, the colour spread slowly in the cold glass too, even though nobody stirred it and the water looked still. Why did it spread at all?  
@@ -654,7 +654,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
    **Answer:** A super-sharp needle tip feels the surface, bump by bump. *Why:* The scanning tunnelling microscope, built in 1981 by Gerd Binnig and Heinrich Rohrer, feels a surface with a tip only one atom wide. A computer turns the bumps into a picture. Light cannot show single atoms, because light waves are much bigger than atoms.
 15. (draw) Draw the card from the marble test, seen from above. Draw the battery as a dot. Draw arrows for 6 marbles: 5 going straight through and 1 bouncing back off the battery.  
    **Answer:** A square with a small dot. Five straight arrows cross it without touching the dot. One arrow hits the dot and turns back.. *Why:* This is just what Rutherford pictured for alpha particles passing through gold atoms: most miss the tiny nucleus, and a rare one hits it head on.
-16. (mcq) A friend says, "The carbon atoms in a living leaf must be a different, living kind of carbon from the carbon in a pencil tip." Is she right?  
+16. (mcq) Someone says, "The carbon atoms in a living leaf must be a different, living kind of carbon from the carbon in a pencil tip." Is that right?  
    Options: No. Both are exactly the same kind of atom, with 6 protons each / Yes. Atoms in living things are a special kind / Yes, because a leaf is green and a pencil tip is grey  
    **Answer:** No. Both are exactly the same kind of atom, with 6 protons each. *Why:* Every carbon atom has 6 protons, wherever it is. What makes a leaf different from a pencil tip is how the atoms are joined together, not a different kind of carbon. A leaf's carbon came from the air, and one day it may become part of a pencil, a person or a cloud.
 ### Quantum Puzzles and Big Ideas (challenge) (challenge, 15 questions)
@@ -667,8 +667,8 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
    **Answer:** About the size of a sugar cube. *Why:* Nearly all of an atom is empty, and nearly all its weight is in the tiny nucleus. Squeeze out the emptiness, and the whole human race would fit in a sugar cube. It would still weigh about 500 million tonnes. Picking 'a house' is already a huge squeeze, but not nearly enough.
 4. (fill) Protons and neutrons are each made mainly of three even smaller particles called ____.  
    **Answer:** ['quarks', 'quark']. *Why:* Murray Gell-Mann and George Zweig imagined quarks in 1964. Experiments found signs of them in 1968.
-5. (mcq) Ritu, a girl in Class 5, says, "One day, better microscopes will show exactly where an electron is and exactly how fast it is going, both at once." What would a physicist tell her?  
-   Options: No tool can ever do this. Nature sets a limit: the more exactly anyone knows where an electron is, the less exactly they can know its speed / She is right. Our tools just need to get better / Electrons are invisible, so we can never measure them at all  
+5. (mcq) Someone says, "One day, better microscopes will show exactly where an electron is and exactly how fast it is going, both at once." What would a physicist say?  
+   Options: No tool can ever do this. Nature sets a limit: the more exactly anyone knows where an electron is, the less exactly they can know its speed / That is right. Our tools just need to get better / Electrons are invisible, so we can never measure them at all  
    **Answer:** No tool can ever do this. Nature sets a limit: the more exactly anyone knows where an electron is, the less exactly they can know its speed. *Why:* Werner Heisenberg showed this in 1927. It is a rule of nature, not a problem with our tools. Electrons can be measured, but never both their exact place and their exact speed at once. Physicists still argue about what this means the electron is really like.
 6. (match) Match each scientist to their idea about electrons between measurements.  
    **Answer:** Niels Bohr and Werner Heisenberg → it has no exact place until it is measured; David Bohm → it always has an exact place, guided by a hidden wave; Hugh Everett → every possible result happens, in different branches. *Why:* These are three of the main ideas. None of them needs a human mind to do the measuring.
@@ -679,8 +679,8 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
    **Answer:** There is less air above a mountain to stop the particles, so more of them reach the plates. *Why:* The particles come from space and crash into the air. High up, there is less air above, so more particles get through. Their work, from 1939 to 1942, was an early step in finding particles called mesons.
 9. (write) The space inside an atom is called empty. Is it truly empty? What do you think?  
    **Answer:** For example: it has no atoms in it, so in that way it is empty. But the electron cloud spreads through it, and scientists say even empty space fizzes with tiny flickers of energy. So perhaps nothing is truly empty.. *Why:* Any thoughtful answer is good. Scientists themselves say empty space is never perfectly empty.
-10. (write) Who had the idea of atoms first, Kanada in India or Democritus in Greece? Explain why nobody can say for sure. Then say whether you think it matters who was first.  
-   **Answer:** Democritus lived about 2,400 years ago, and his dates are fairly well known. Nobody knows exactly when Kanada lived. Scholars guess somewhere between about 600 and 200 years before the Common Era. So nobody can say who was first. I think it matters less than the idea itself, because both reached it by careful thinking, on their own.. *Why:* A strong answer explains that Kanada's dates are uncertain, then gives an opinion with a reason.
+10. (write) More than 2,000 years ago, thinkers in India and in Greece both had the idea that everything is made of tiny pieces. They had no microscopes. Does it matter who had the idea first? Give a reason.  
+   **Answer:** For example: I think it matters less than the idea itself. Both reached it on their own, by careful thinking about everyday clues. When two people far apart get the same idea, it shows the idea is a good one.. *Why:* A strong answer gives an opinion with a reason, and may say that the same idea found twice is a sign it fits the evidence.
 11. (truefalse) Some of the atoms in your body were once part of other living beings, such as plants and animals.  
    **Answer:** True. *Why:* True. Atoms are not used up. The carbon in the rice you eat was taken from the air by the rice plant. When you breathe out, some of those atoms go back into the air, and a plant may take them in again.
 12. (write) Plan a test to find out whether a smell spreads faster through a warm room or a cool room. Say what you will change, what you will keep the same, and what you will measure.  
@@ -797,7 +797,7 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 - Imagine you cut EVERY piece in half each time, not just one. You start with 1 strip. After 1 cut you have 2 pieces, after 2 cuts you have 4. How many pieces after 5 cuts? After 10? **32 pieces after 5 cuts, and 1,024 pieces after 10 cuts.**. Each cut doubles the number of pieces: 1, 2, 4, 8, 16, 32. So 5 cuts make 32 pieces. Keep doubling: 64, 128, 256, 512, 1,024. So 10 cuts make 1,024 pieces. This doubling is why halving shrinks things so fast. (queues `math.patterns.number-patterns.L3`)
 - In the marble test with a battery hidden, you rolled 20 marbles. 18 went straight through and 1 turned aside. How many came back? In the real experiment, about 1 in 8,000 came back. Which was emptier: your card or the gold? **1 marble came back. The gold was far emptier.**. 18 + 1 = 19, and 20 - 19 = 1. So 1 marble came back. That is 1 in 20. In the real experiment, only 1 in 8,000 came back. 8,000 is 400 times bigger than 20. So the gold atoms' centres were a much smaller target, and the gold was far emptier than your card. (queues `math.addition-subtraction.word-problems.L3`)
 - In the pencil-dot activity, you made 50 dots. 24 landed in the inner ring and 17 in the middle ring. How many landed in the outer ring? Draw a bar chart of the three rings. **9 dots landed in the outer ring. Here is the bar chart.**. 24 + 17 = 41. Then 50 - 41 = 9. So 9 dots landed in the outer ring. On the bar chart, the inner ring has the tallest bar, so most dots landed near the target. (queues `math.data.bar-charts.L3`)
-- One grain of salt holds about a million million million atoms. That is 1 followed by 18 zeros. If you counted one atom every second, without stopping, a year would let you count about 30 million. How many years would one grain take? **About 30 thousand million years. That is more than twice the age of the universe.**. A million million million is 1,000,000,000,000,000,000. Dividing it by about 30 million a year gives about 30,000,000,000 years, which is 30 thousand million. The universe is about 14 thousand million years old. So counting the atoms in one grain of salt would take more than twice as long as the universe has existed. (queues `math.number-sense.big-numbers.L4`)
+- One grain of salt holds about a million million million atoms. That is 1 followed by 18 zeros. If you counted one atom every second, without stopping, you would count about 30 million in a year. How many years would one grain take? **About 30 thousand million years. That is more than twice the age of the universe.**. A million million million is 1,000,000,000,000,000,000. Dividing it by about 30 million a year gives about 30,000,000,000 years, which is 30 thousand million. The universe is about 14 thousand million years old. So counting the atoms in one grain of salt would take more than twice as long as the universe has existed. (queues `math.number-sense.big-numbers.L4`)
 
 ## Song
 Smaller Than Small (sci.the-very-small.L3): Topic-level song
