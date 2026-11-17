@@ -79,7 +79,7 @@
    "status": "defined",
    "context": "This card explains why soap turned the haldi red in the Haldi Test.",
    "definition": "Haldi has a yellow colouring in it. Soap and cooking soda change this colouring to red. Lemon juice changes it back to yellow.",
-   "description": "The yellow in haldi comes from a colouring called curcumin. Curcumin is yellow in plain water, salt water, sugar water and lemon juice. Soap and cooking soda change it, so it looks red. Add lemon juice, and it turns yellow again. Scientists call soapy things like these 'bases'. They call sour things like lemon 'acids'. You will learn more about them when you are older. Some mild liquid hand washes do not turn haldi red. That is a real result too.",
+   "description": "The yellow in haldi comes from a colouring called curcumin. Curcumin is yellow in plain water, salt water, sugar water and lemon juice. Soap and cooking soda change it, so it looks red. Add lemon juice, and it turns yellow again. Scientists call things like soap and cooking soda 'bases'. A base changes the colour of curcumin. They call sour things like lemon 'acids'. An acid changes it back. You will learn more about bases and acids when you are older. Some mild liquid hand washes do not turn haldi red. That is a real result too.",
    "examples": [
     "A haldi stain on a white shirt turns red when you rub soap on it.",
     "A drop of soap water on haldi paper makes a red spot.",
@@ -358,9 +358,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Pick one surprising card together. Talk about how someone found it out.",
-     "say": "Which card surprised you most? How do you think someone found that out?",
-     "kid": "Which card surprised you? How did someone find out?",
+     "do": "Pick the card about soap and haldi. Talk about how people found that out. Then pick one more card, and talk about how someone might have found that out too.",
+     "say": "Look at the soap and haldi card. How did people find out that soap turns haldi red?",
+     "kid": "Look at the soap and haldi card. How did people find out about it?",
      "check": {
       "t": "mcq",
       "q": "How did people find out that soap turns haldi red?",
@@ -437,7 +437,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Draw the path together. Read each square aloud.",
-     "say": "Some squares ask you to notice, some to wonder, some to try. Let's draw the path.",
+     "say": "Some squares ask you to notice, some to wonder, and some to try. To notice is to look, listen or smell closely. To wonder is to ask a question. To try is to do a small test. Let's draw the path.",
      "kid": "Help draw the path. Some squares say notice, some say wonder and some say try."
     },
     {
@@ -451,9 +451,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "After the game, ask which square was the most fun, and whether any Try square was a surprise.",
-     "say": "Which square was the most fun? Did any Try square surprise you?",
-     "kid": "Which square was most fun? Did anything surprise you?",
+     "do": "After the game, look at the three kinds of squares together. Ask which kind is a question. The answer is wonder.",
+     "say": "There were notice squares, wonder squares and try squares. Which kind of square asks a question?",
+     "kid": "Notice, wonder and try. Which one asks a question?",
      "check": {
       "t": "mcq",
       "q": "Which of these is a 'wonder'?",
@@ -950,7 +950,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Act out the story. Your child is Tu Youyou and you are her team. Your child holds a leaf in a cup of cool water, squeezes the leaf, and says what they wonder.",
+     "do": "Act out the story. Your child is Tu Youyou and you are her team. Your child holds a leaf in a cup of cool water, squeezes the leaf, and says what they wonder. Then tell the end of the story. Tu Youyou made the medicine without much heat and tested it. It worked very well. That test showed that her guess was right.",
      "say": "Tu Youyou read that the plant was soaked in water and the juice squeezed out. It did not say to boil it. But people usually boiled plants to make medicine. What did she wonder?",
      "kid": "You are Tu Youyou. You read 'soak and squeeze'. What do you wonder?",
      "ask": [
@@ -1389,7 +1389,7 @@
     },
     {
      "t": "label",
-     "p": "Here is a girl being a scientist. Put an E on what she notices with, a Q on her question, and an H on what she tests with.",
+     "p": "Here is a girl being a scientist. Put an E on the part of her that notices. Put a Q on her question. Put an H on the part of her that tests.",
      "a": "E on her eyes, Q on the question mark above her head, H on her hands holding the cotton bud.",
      "why": "Scientists notice with their senses, ask questions and test with their hands and tools.",
      "art": "A girl with big eyes looking at haldi paper, a question mark above her head, and her hand dabbing with a cotton bud."
@@ -1490,7 +1490,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first child, a girl in Hyderabad, and her grandfather talk about old books.",
+     "p": "A girl in Hyderabad and her grandfather, Thatha, talk about old books.",
      "views": [
       {
        "who": "The first child, aged 7",
@@ -1848,5 +1848,5 @@
   "art": "A woman scientist in a 1970s laboratory in Beijing, with a very old book open beside glass jars of green plant juice."
  },
  "playtest": "Walked through the haldi test, the back-to-yellow test, the secret message, the clue hunt and the hidden card as a parent and child in a flat, with only kitchen things; they all work, and the soap and cooking soda reds and the lemon yellow are what turmeric really does. Both games were played through in my head with two players and with four. The True or False game now scores with tally marks, so cards no longer need to be 'kept' by several players, and the board game says what happens when a roll goes past Finish. I also removed repeated questions, a needless safety line, family members assumed in steps and art, and the unclear names in the maths, and made the Tu Youyou clue cards and acting use the leaf and cup. The three videos still need to be found and watched before they reach families. I also added the missing step that mixes the haldi water in the secret message and the card challenge, made the game scoring and the dice slips work for two or four players, made the second haldi test's drops agree with its steps, and swapped a project idea that could not be tested in a day for one that can. The unit stays short for age 6; the validator's minimums were met without padding.",
- "warm": {"words": ["LEMON", "ASKED", "GUESS", "TRIES", "LEARN"], "quiz": [["Soap can turn a yellow haldi stain red.", true, "Soap changes the yellow colour in haldi to red."], ["Lemon juice makes a haldi stain redder.", false, "Lemon juice turns the red back to yellow."], ["Only people who are born very clever can be scientists.", false, "Anyone who looks closely, asks questions and tests ideas can find out new things."], ["A guess becomes knowledge only after someone tests it.", true, "Testing shows whether the guess is right or wrong."], ["An old medicine book always gives the right answer.", false, "Most old recipes did not work when tested; testing showed which one did."], ["A strange new idea can sometimes turn out to be right.", true, "Some ideas that sounded strange were tested and found true."], ["Everyone who sees a haldi stain turn red asks why.", false, "Many people saw it and few asked why; asking a question starts a discovery."], ["Cooking soda turns haldi red, just like soap does.", true, "Both soap and cooking soda change the yellow colour to red."], ["Only people in one country can make discoveries.", false, "People in every part of the world have made discoveries."], ["A discovery can start when someone asks why about something everyone sees.", true, "Asking about something ordinary is the first step to finding out."]], "odd": [[["Soap water", "Cooking soda water", "Washing soap", "Lemon juice"], "Lemon juice", "The first three turn haldi red; lemon juice turns it back to yellow."], [["A kitchen stain", "A seashell", "An old book", "A guess nobody tests"], "A guess nobody tests", "The first three have started discoveries; a guess nobody tests finds out nothing."], [["I think soap turns it red", "I think lemon turns it yellow", "I think milk turns it blue", "I tried it and it turned red"], "I tried it and it turned red", "The first three are guesses; the last is what really happened when someone tried it."], [["Why did haldi go red?", "Why is the sky blue?", "Why do seeds grow?", "Where is my bag?"], "Where is my bag?", "The first three ask how the world works; the last only asks where a thing is."], [["Try each liquid", "Look at what happens", "Tell others what you found", "Keep it secret"], "Keep it secret", "The first three are what scientists do; they tell others so others can try it too."]]}
+ "warm": {"words": ["LEMON", "ASKED", "GUESS", "TRIES", "LEARN"], "quiz": [["Soap can turn a yellow haldi stain red.", true, "Soap changes the yellow colour in haldi to red."], ["Lemon juice makes a haldi stain redder.", false, "Lemon juice turns the red back to yellow."], ["Only people who are born very clever can be scientists.", false, "Anyone who looks closely, asks questions and tests ideas can find out new things."], ["A guess becomes knowledge only after someone tests it.", true, "Testing shows whether the guess is right or wrong."], ["An old medicine book always gives the right answer.", false, "Most old recipes did not work when tested. Testing showed which one did."], ["A strange new idea can sometimes turn out to be right.", true, "Some ideas that sounded strange were tested and found true."], ["Everyone who sees a haldi stain turn red asks why.", false, "Many people saw it and few asked why. Asking a question starts a discovery."], ["Cooking soda turns haldi red, just like soap does.", true, "Both soap and cooking soda change the yellow colour to red."], ["Only people in one country can make discoveries.", false, "People in every part of the world have made discoveries."], ["A discovery can start when someone asks why about something everyone sees.", true, "Asking about something ordinary is the first step to finding out."]], "odd": [[["Soap water", "Cooking soda water", "Washing soap", "Lemon juice"], "Lemon juice", "The first three turn haldi red. Lemon juice turns it back to yellow."], [["A kitchen stain", "A seashell", "An old book", "A guess nobody tests"], "A guess nobody tests", "The first three have started discoveries. A guess nobody tests finds out nothing."], [["I think soap turns it red", "I think lemon turns it yellow", "I think milk turns it blue", "I tried it and it turned red"], "I tried it and it turned red", "The first three are guesses. The last is what really happened when someone tried it."], [["Why did haldi go red?", "Why is the sky blue?", "Why do seeds grow?", "Where is my bag?"], "Where is my bag?", "The first three ask how the world works. The last only asks where a thing is."], [["Try each liquid", "Look at what happens", "Tell others what you found", "Keep it secret"], "Keep it secret", "The first three are what scientists do. They tell others, so that others can try it too."]]}
 }

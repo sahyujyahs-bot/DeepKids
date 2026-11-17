@@ -104,7 +104,7 @@
    "concept": "Why the steel katori floats and the steel spoon sinks",
    "status": "defined",
    "definition": "Water pushes up on everything you put in it. A thing floats when that push is strong enough to hold it up.",
-   "description": "A steel spoon is small and solid, so the water cannot hold it up and it sinks. A steel katori is wide and hollow, with air inside. Steel and air together are light for the space they take up, so the water holds the katori up. Fill it with water, and the air is pushed out, so it sinks. Big steel ships float in the same way.",
+   "description": "A steel spoon is small and solid, so the water cannot hold it up and it sinks. A steel katori is wide and hollow, with air inside. It takes up a lot of space, but the steel in it is thin and the rest is air. So the katori is light for how big it is. Water can hold up something that is light for its size. Fill it with water, and the air is pushed out, so it sinks. Big steel ships float in the same way.",
    "examples": [
     "A one-rupee coin sinks, but a big wooden log floats. So heavy things do not always sink.",
     "A steel ship at the port in Kochi weighs more than many elephants together, yet it floats.",
@@ -136,7 +136,7 @@
    "for": "A heavy stone sinks, and a light leaf floats.",
    "against": "A small, light key sinks. A big, heavy log floats, and a huge steel ship floats. So weight alone does not tell you whether a thing floats.",
    "status": "rejected",
-   "context": "This card is about a common guess about floating."
+   "context": "Many people guess that weight decides whether a thing floats. This card asks whether that is true."
   },
   {
    "claim": "Metal always sinks.",
@@ -144,7 +144,7 @@
    "for": "A solid lump of metal, like a coin or a key, does sink.",
    "against": "In the Sink or Float Sort, the steel katori floated. Ships made of steel float on the sea every day.",
    "status": "rejected",
-   "context": "This card is about metal and floating."
+   "context": "A steel spoon, a coin and a key all sink. This card asks whether every metal thing sinks."
   },
   {
    "claim": "Plastic is one material.",
@@ -152,7 +152,7 @@
    "for": "Plastic things are often light and smooth, and they come in every colour.",
    "against": "There are many kinds of plastic. Some float in water and some sink.",
    "status": "rejected",
-   "context": "This card is about the plastic group, and why it can split."
+   "context": "Plastic is the name for many different materials. This card asks whether all plastic things act the same."
   }
  ],
  "big_questions": [
@@ -745,13 +745,13 @@
      "mins": 4,
      "do": "1. Cover your eyes. 2. Your child chooses four things and puts them on the other plate. 3. Open your eyes and guess.",
      "say": "Now you make a plate for me. Put three things of one material and one different thing on it. I will close my eyes.",
-     "kid": "Make a plate for the grown-up. Three the same, one different.",
+     "kid": "Make a plate for the grown-up. Put three things of one material on it. Add one thing that is different.",
      "parent": "Guess out loud and give your reason. Get one wrong on purpose, and let your child explain why."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask the check question.",
+     "do": "Let your child tap each thing with a spoon and squeeze the chips packet. Then ask the check question.",
      "say": "Here is a tricky plate: a steel spoon, a steel tumbler, a key and a shiny chips packet. Which one is the odd one out?",
      "kid": "Which is the odd one out: spoon, tumbler, key or chips packet?",
      "check": {
@@ -796,7 +796,7 @@
      "what": "Make three picture labels, sort the clean dry waste into the three bags, and keep the corner going all week."
     }
    ],
-   "record": "Each evening this week, count how many things went into each bag, and make a tally mark on the label.",
+   "record": "Each evening this week, count how many things went into each bag, and make a tally mark on the label. At the end of the week, say which bag filled up fastest.",
    "setup": [
     {
      "art": "Three bags in a corner of a flat, with picture labels: a newspaper, a plastic bottle and a tin.",
@@ -966,7 +966,7 @@
      "mins": 2,
      "do": "1. Set out the two baskets with their tick and cross. 2. Clear the floor of anything to trip on.",
      "say": "This basket is for metal things. This one is for things that are not metal. I will read a card. You run and drop it in the right basket.",
-     "kid": "Tick basket is metal. Cross basket is not metal. Listen, then run."
+     "kid": "The tick basket is for metal things. The cross basket is for things that are not metal. Listen, then run."
     },
     {
      "id": "s2",
@@ -1455,7 +1455,7 @@
     },
     {
      "t": "perspective",
-     "p": "The second child and her brother the first child are sorting a knife with a steel blade and a plastic handle.",
+     "p": "Two children are sorting a knife with a steel blade and a plastic handle.",
      "views": [
       {
        "who": "The first child, aged 6",
@@ -1567,7 +1567,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first child, aged 7, and her cousin the second child, aged 6, are sorting the steel katori after the Sink or Float Sort.",
+     "p": "Two cousins are sorting the steel katori after the Sink or Float Sort.",
      "views": [
       {
        "who": "The first child, aged 7",
@@ -1957,8 +1957,8 @@
    "a": "Two."
   },
   {
-   "q": "In the story, what was the bowl of Ammamma's chiratta ladle made from?",
-   "a": "Half a coconut shell. The handle was wood."
+   "q": "Why do we ask the same question about every thing when we sort?",
+   "a": "So that every thing is put in a group by the same rule, and the groups are clear."
   }
  ],
  "plan": {

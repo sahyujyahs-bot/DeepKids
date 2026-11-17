@@ -114,7 +114,7 @@
   },
   {
    "text": "The Sun is a star, made mostly of hydrogen gas.",
-   "evidence": "In 1925, Cecilia Payne worked this out from the light of the Sun and other stars, using a rule made by the Indian scientist Meghnad Saha."
+   "evidence": "In 1925, Cecilia Payne worked this out from the light of the Sun and other stars. She used a rule made by the Indian scientist Meghnad Saha, which shows how a star's heat changes its light."
   }
  ],
  "challenging": [
@@ -124,7 +124,7 @@
    "for": "A steel tumbler or a mirror can look as bright as a lamp in a sunny room.",
    "against": "In a dark room, the tumbler and the mirror cannot be seen at all. They shine only when light from a source falls on them.",
    "status": "rejected",
-   "context": "This card is about shiny things."
+   "context": "A steel tumbler or a mirror can look very bright in a sunny room. This card asks whether shiny things make their own light."
   },
   {
    "claim": "The Sun stops shining at night.",
@@ -132,14 +132,14 @@
    "for": "At night we cannot see the Sun, and it is dark outside.",
    "against": "The Sun never stops shining. The Earth turns, and at night our side faces away from the Sun. At that moment, it is day on the other side of the Earth.",
    "status": "rejected",
-   "context": "This card is about where the Sun goes at night."
+   "context": "At night we cannot see the Sun. This card asks whether the Sun stops shining at night."
   }
  ],
  "big_questions": [
   {
    "q": "In the dark room test, you switched off the torch and the dark came back at once. Where did the light go?",
    "kind": "deep",
-   "hint": "The light flew out of the torch and landed on the walls, the floor and you. Things take in most of the light that lands on them."
+   "hint": "When the torch was on, light travelled out of it and landed on the walls, the floor and you. Most of that light was soaked up by the things it landed on. When the torch was switched off, it stopped making new light, so the dark came back."
   },
   {
    "q": "A steel spoon looks bright in the day. Why could you not see it in the dark room test?",
@@ -154,12 +154,12 @@
   {
    "q": "The oil in a diya came from sesame seeds or coconuts. Those plants grew in sunlight. Is a diya flame a little bit of old sunlight?",
    "kind": "big",
-   "hint": "Plants use sunlight to make their food, and some of that food becomes oil."
+   "hint": "Plants use sunlight to make their food, and some of that food becomes oil. When the oil burns in the diya, it gives out energy that the plant first took from the Sun."
   },
   {
    "q": "The Sun was shining long before there were any people. Was it making light, even with no eyes to see it?",
    "kind": "big",
-   "hint": "Think of the torch shining in an empty room. The Sun's light fell on plants, animals and the sea before there were any people."
+   "hint": "Think of the torch shining in an empty room. Is it still making light when nobody is there to see it? The Sun's light fell on plants, animals and the sea long before there were any people."
   }
  ],
  "story": {
@@ -883,7 +883,7 @@
      "mins": 1,
      "do": "Lay out the yellow, dark and white papers. Read the rules together.",
      "say": "Yellow is for things that make their own light. Dark is for things that don't. White is for things that could, but are not making light right now. Let's sort the cards.",
-     "kid": "Yellow: makes light. Dark: makes no light. White: not now. Let's sort."
+     "kid": "Yellow paper is for things that make their own light. Dark paper is for things that do not. White paper is for things that could, but are not right now."
     },
     {
      "id": "s2",
@@ -896,7 +896,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Count the face-up cards. Then look at the cards on the white NOT NOW paper and ask what would make each one a light source.",
+     "do": "Count the face-up cards. Then look at the cards on the white NOT NOW paper and ask what would make each one a light source. The answer is to switch the torch on, and to light the candle.",
      "say": "The torch is switched off, and the candle is not lit. What would make them light sources?",
      "kid": "What would make the torch and the candle shine?",
      "check": {
@@ -992,7 +992,7 @@
      "mins": 2,
      "do": "Practise the moves for 'Torch on' and 'Torch off' together.",
      "say": "Torch on: open your hands wide, light is coming out. Torch off: fists, quick! The light stops at once.",
-     "kid": "Torch on: hands wide open. Torch off: fists, fast!"
+     "kid": "When the caller says torch on, open your hands wide. When the caller says torch off, make fists, fast."
     },
     {
      "id": "s2",
@@ -1360,7 +1360,7 @@
     },
     {
      "t": "mcq",
-     "p": "A boy says his shiny steel tumbler is a lamp, because it shines. What is the best way to test it?",
+     "p": "Someone says a shiny steel tumbler is a lamp, because it shines. What is the best way to test this?",
      "opts": [
       "Take it into a dark room and see if it still shines",
       "Look at it in a sunny room",

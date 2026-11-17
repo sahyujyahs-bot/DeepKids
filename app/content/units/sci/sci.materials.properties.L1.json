@@ -186,7 +186,7 @@
    "Achamma rubbed for many days. One evening she held the disc up to the window.",
    "Meenu looked in, and there she was. Her two eyes. Her two plaits. The gap where her front teeth had fallen out.",
    "'It's me!' Meenu shouted. 'Achamma, what did you put on it?'",
-   "'Nothing,' said Achamma. 'It is the same metal. I only made its surface smooth. Smoother than your finger can feel.'",
+   "'I put nothing on it,' said Achamma. 'It is the same metal. I only rubbed it until its surface was smooth. It is smoother than your finger can feel.'",
    "Meenu touched the mirror again. It felt cool and flat and even, with no bumps she could feel.",
    "Achamma smiled. 'Now you know how a mirror is made.'",
    "Meenu leaned close to the mirror and said 'Haaa.' A white mist covered her face. The mirror went dull.",
@@ -201,7 +201,7 @@
   "epiphany": "For the parent: Meenu finds that the dull grey disc and the bright mirror are the same metal. Polishing only made its surface smooth. Her breath and a boat's ripples make smooth things bumpy for a moment, so they go dull, and they shine again when they are smooth.",
   "ask": [
    "Why could Meenu not see herself in the grey disc at first?",
-   "What did Achamma put on the disc to make it a mirror?",
+   "What did Achamma do to the grey disc to make it a mirror?",
    "Why did the mirror go dull when Meenu breathed on it? Why did it shine again?",
    "Why did the sky in the river break into pieces when the boat went past?"
   ],
@@ -380,7 +380,7 @@
        ]
       }
      ],
-     "parent": "Tilt each thing a little, or move the torch, until you find the spot. The mirror gives the brightest spot. Newspaper feels smooth but makes no spot. That is because it has bumps too small to feel."
+     "parent": "Tilt each thing a little, or move the torch, until you find the spot. The mirror gives the brightest spot. Newspaper feels smooth to a finger, but it makes no spot. It is made of tiny fibres. They are too small to feel, but they are big enough to send the light off in many directions. A mirror is smoother still."
     },
     {
      "id": "s4",
@@ -807,8 +807,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "One last question about bending.",
-     "kid": "Answer one question.",
+     "say": "A steel spoon is stiff. But a thin steel wire bends easily. Both are made of steel. Why do you think the wire bends?",
+     "kid": "A steel spoon is stiff. A thin steel wire bends. Both are steel. Why?",
      "check": {
       "t": "mcq",
       "q": "A steel spoon is stiff. A thin steel wire bends easily. Why?",
@@ -1047,8 +1047,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "One last puzzle about clues.",
-     "kid": "Answer one question.",
+     "say": "Here are three clues: hard, smooth and shiny. Which thing could it be?",
+     "kid": "The clues are hard, smooth and shiny. Which thing could it be?",
      "check": {
       "t": "mcq",
       "q": "The clues are: hard, smooth, shiny. Which thing could it be?",
@@ -1151,7 +1151,7 @@
      "id": "s4",
      "mins": 6,
      "do": "Write SHINY and DULL on the last pages. Your child sticks on foil for shiny and newspaper for dull. Then they show the book to someone and tell them about each page.",
-     "say": "Last pages: shiny and dull. Then show your whole book to someone at home, or on a call. Tell them about each page, and let them touch every page they can.",
+     "say": "The last pages are for shiny and dull things. Then show your whole book to someone at home, or on a call. Tell them about each page, and let them touch every page they can.",
      "kid": "Stick on something shiny and something dull. Show your book to someone and tell them about it.",
      "wait": "The next day."
     }
@@ -1368,7 +1368,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and her friend the second child are looking at a bucket of water in Madurai.",
+     "p": "Two friends are looking at a bucket of still water in Madurai.",
      "views": [
       {
        "who": "The first child, aged 6",
@@ -1379,10 +1379,10 @@
        "says": "Still water is shiny. In the Torch Spot Test it made a bright spot on the ceiling, and I can see my face in it."
       }
      ],
-     "ask": "Who do you agree with? Why? Then say one thing the other girl has right.",
+     "ask": "Who do you agree with? Why? Then say one thing the other child has right.",
      "lines": 3,
      "a": "A strong answer picks a side and gives evidence. For the second child: the water made a bright spot, and it shows faces when still. For the first child: you can see through water, and its spot was fainter than the mirror's.",
-     "why": "Both girls see something true. Water lets most light through, so it shines less than a mirror. But its smooth surface still reflects some light back in one direction, so still water shines.",
+     "why": "Both children see something true. Water lets most light through, so it shines less than a mirror. But its smooth surface still reflects some light back in one direction, so still water shines.",
      "how": "e1"
     },
     {
@@ -1472,7 +1472,7 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and her sister the second child are folding a cotton towel in Kochi.",
+     "p": "Two sisters are folding a cotton towel in Kochi.",
      "views": [
       {
        "who": "The first child, aged 7",

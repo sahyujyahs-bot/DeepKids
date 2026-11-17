@@ -62,7 +62,7 @@
    "concept": "Every job needs a material that suits it",
    "status": "defined",
    "context": "In the Spoon Test, the steel spoon stayed stiff in water and the paper spoons went soft. This card says how people choose a material for a thing.",
-   "definition": "People choose a material that can do the thing's job, and keep doing it every time the thing is used.",
+   "definition": "People choose a material that can do the job of the thing. The material must be able to do that job every time the thing is used.",
    "description": "First ask what the thing must do. A spoon must carry wet food and stay stiff. A towel must soak up water. A material that is right for one job can be wrong for another.",
    "examples": [
     "A towel is made of cotton cloth, because cloth absorbs water.",
@@ -107,9 +107,9 @@
    "definition": "Many raincoats are made of plastic, or of cloth with a thin layer of plastic or rubber on it, because plastic is waterproof and flexible.",
    "description": "A raincoat has two jobs. It must keep the rain out, so it must be waterproof. It must bend when you walk and lift your arms, so it must be flexible. Plastic does both. A paper raincoat would go soggy and tear. A steel raincoat would keep you dry, but you could not bend in it.",
    "examples": [
-    "A child's raincoat for the school walk in the Mumbai monsoon.",
-    "A plastic sheet over an auto-rickshaw seat, or over a scooter.",
-    "An umbrella made of cloth with a waterproof layer on it."
+    "A child wears a plastic raincoat on the school walk in the Mumbai monsoon.",
+    "A plastic sheet covers an auto-rickshaw seat or a scooter in the rain.",
+    "An umbrella has a cloth cover with a waterproof layer on it."
    ],
    "perspectives": [],
    "art": "Four children in the rain: one in a soggy paper raincoat, one in a dripping cotton coat, one stiff in a steel coat, and one happy in a plastic raincoat."
@@ -120,9 +120,9 @@
    "context": "This card is about plates. Different families choose different materials for the same job, and each has a reason.",
    "description": "A plate must hold food. A banana leaf, a steel plate and a paper plate can all do this job. Each one is good in some ways and not in others. People disagree about which is best.",
    "examples": [
-    "A banana leaf for a meal at a wedding in Tamil Nadu or Kerala.",
-    "A steel plate at home every day.",
-    "A paper plate at a birthday party."
+    "A banana leaf is used for a meal at a wedding in Tamil Nadu or Kerala.",
+    "A steel plate is used at home every day.",
+    "A paper plate is used at a birthday party."
    ],
    "perspectives": [
     {
@@ -162,7 +162,7 @@
    "for": "Steel is stiff and strong, does not soak up water, and can be washed again and again.",
    "against": "A wooden spoon is better for a non-stick pan, because steel scratches the pan. A wooden or coconut-shell ladle also stays cool in the hand.",
    "status": "debated",
-   "context": "This card is about choosing a spoon."
+   "context": "Most kitchens use steel spoons, because steel lasts for years. But some spoons have other jobs, such as stirring in a non-stick pan. Is steel the best material for every spoon?"
   },
   {
    "claim": "Plastic is the best material for keeping rain off.",
@@ -170,7 +170,7 @@
    "for": "A plastic raincoat keeps the rain out well, and it is light and flexible.",
    "against": "Inside a plastic raincoat you can get hot and damp from your own sweat. Old plastic raincoats also become waste that lasts a very long time. In Kerala, people once used umbrellas made of dried palm leaves.",
    "status": "debated",
-   "context": "This card is about raincoats."
+   "context": "Plastic raincoats keep rain out and are cheap. But they have problems too. Is plastic always the best material for keeping rain off?"
   }
  ],
  "big_questions": [
@@ -324,8 +324,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the pairs. Then ask the question below.",
-     "say": "Which job was hardest to find a reason for? Let's think about it together.",
-     "kid": "Count your pairs. Which one was hardest?",
+     "say": "Let's count the pairs. Then I have one question about drying hands.",
+     "kid": "Count your pairs. Then answer the question about wet hands.",
      "check": {
       "t": "mcq",
       "q": "Which material is right for drying wet hands?",
@@ -461,8 +461,17 @@
      "id": "s3",
      "mins": 1,
      "do": "Count the points together.",
-     "say": "Which job had two right answers?",
-     "kid": "Count your points. Which job had two answers?"
+     "say": "One job had two right answers. Which job was it? Why did two materials work?",
+     "kid": "Count your points. Which job had two right answers?",
+     "ask": [
+      {
+       "q": "Which job had two right answers?",
+       "good": [
+        "Carry water to the plants.",
+        "Steel and plastic both keep water in."
+       ]
+      }
+     ]
     }
    ]
   }
@@ -576,7 +585,7 @@
      "mins": 4,
      "do": "1. Fold the newspaper four times into a thick strip. 2. Bend one end up and tape it into a small scoop. 3. You, the grown-up, cut a strip of card. 4. Bend its end up the same way and tape it.",
      "say": "We are making two new spoons. One is newspaper and one is card. What are they made of? What is our steel spoon made of?",
-     "kid": "Watch the spoons being made. One is paper. One is card.",
+     "kid": "Watch the spoons being made. One is newspaper. One is card.",
      "ask": [
       {
        "q": "What is each spoon made of?",
@@ -986,7 +995,8 @@
       }
      ]
     }
-   ]
+   ],
+   "problem": "Paper is made of tiny plant threads called fibres. Dry fibres hold on to each other tightly, so dry paper is stiff. Water gets in between the fibres and loosens their hold, so wet paper goes soft. In this game you and your family act out the fibres, to see how water pulls them apart."
   }
  ],
  "projects": [
@@ -1174,7 +1184,8 @@
      "mins": 2,
      "do": "Ask the question below.",
      "say": "What would you change to make it better?",
-     "kid": "How could you make it better?"
+     "kid": "How could you make it better?",
+     "parent": "If the spoon failed, ask which part let the water in, and how to cover that part. If it worked, ask which part might fail first if you used it for a week."
     }
    ]
   }
@@ -1327,7 +1338,7 @@
      "p": "Three people in a family in Chennai talk about the best spoon.",
      "views": [
       {
-       "who": "The first child, aged 7",
+       "who": "Lakshmi, aged 7",
        "says": "Steel is best, because it never goes soft."
       },
       {
@@ -1341,7 +1352,7 @@
      ],
      "ask": "Who do you agree with? Why? Then say one thing another person has right.",
      "lines": 3,
-     "a": "A strong answer picks one and gives a reason about the material, not only its colour. For example: 'The first child, because steel stays stiff in water. But Meenakshi is right too, because wood does not scratch the pan.'",
+     "a": "A strong answer picks one and gives a reason about the material, not only its colour. For example: 'Lakshmi, because steel stays stiff in water. But Meenakshi is right too, because wood does not scratch the pan.'",
      "why": "There is no one best spoon. The best material depends on the job. A child who sees that the job decides has understood the unit."
     },
     {
@@ -1829,7 +1840,7 @@
    "what_is_life": "Living beings make materials for their own jobs. A banana plant makes waxy leaves, so rain rolls off them. A spider makes silk for her web.",
    "what_is_this_world": "The world is full of materials, and each one behaves in its own way when it gets wet, gets hot or is pushed. That is why each job has its own material."
   },
-  "thread": "Steel, paper, plastic and cloth are all made of atoms, and the same few kinds of atoms make every material. How the atoms are joined decides how a material behaves in water. Everything is conscious, the plant fibres and the steel too, and each material meets water in its own way.",
+  "thread": "Steel, paper, plastic and cloth are all made of atoms. Atoms are far too small to see. The same few kinds of atoms make every material. How the atoms are joined together decides what a material does when it gets wet. Everything is conscious, which means aware. That includes the plant fibres and the steel, and each material meets water in its own way.",
   "teachings": [
    {
     "source": "Tirukkural 517, by Thiruvalluvar",

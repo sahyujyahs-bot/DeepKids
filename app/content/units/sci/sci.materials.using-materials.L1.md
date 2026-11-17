@@ -22,7 +22,7 @@
 
 ## Explanations
 ### Every job needs a material that suits it · *defined*
-**Definition:** People choose a material that can do the thing's job, again and again, without going wrong.
+**Definition:** People choose a material that can do the job of the thing. The material must be able to do that job every time the thing is used.
 
 First ask what the thing must do. A spoon must carry wet food and stay stiff. A towel must soak up water. A material that is right for one job can be wrong for another.
 - e.g. A towel is made of cotton cloth, because cloth absorbs water.
@@ -46,14 +46,14 @@ A spoon goes into hot rasam, thick curd and soapy water every day. Steel does no
 **Definition:** Many raincoats are made of plastic, or of cloth with a thin layer of plastic or rubber on it, because plastic is waterproof and flexible.
 
 A raincoat has two jobs. It must keep the rain out, so it must be waterproof. It must bend when you walk and lift your arms, so it must be flexible. Plastic does both. A paper raincoat would go soggy and tear. A steel raincoat would keep you dry, but you could not bend in it.
-- e.g. A child's raincoat for the school walk in the Mumbai monsoon.
-- e.g. A plastic sheet over an auto-rickshaw seat, or over a scooter.
-- e.g. An umbrella made of cloth with a waterproof layer on it.
+- e.g. A child wears a plastic raincoat on the school walk in the Mumbai monsoon.
+- e.g. A plastic sheet covers an auto-rickshaw seat or a scooter in the rain.
+- e.g. An umbrella has a cloth cover with a waterproof layer on it.
 ### One job, many materials · *debated*
 A plate must hold food. A banana leaf, a steel plate and a paper plate can all do this job. Each one is good in some ways and not in others. People disagree about which is best.
-- e.g. A banana leaf for a meal at a wedding in Tamil Nadu or Kerala.
-- e.g. A steel plate at home every day.
-- e.g. A paper plate at a birthday party.
+- e.g. A banana leaf is used for a meal at a wedding in Tamil Nadu or Kerala.
+- e.g. A steel plate is used at home every day.
+- e.g. A paper plate is used at a birthday party.
 - **A family who eats on banana leaves:** A banana leaf is used once, then it goes back into the soil. Nothing is left as waste.
 - **A family who eats on steel plates:** A steel plate can be washed and used every day for many years. It never has to be thrown away.
 - **People who worry about paper plates:** Paper plates are easy for a party. But some have a thin plastic layer inside, so they do not rot well in the soil.
@@ -64,7 +64,7 @@ A plate must hold food. A banana leaf, a steel plate and a paper plate can all d
 - Plastic is waterproof, so it is used for things that must keep water in or out. *How we know:* Buckets, water bottles and raincoats made of plastic hold or keep out water for years.
 
 ## How we found out
-**Harry Brearley (1871 to 1948), a scientist in Sheffield, England, who started work as a boy washing bottles in a steel lab, 1913.** For a long time, steel spoons and knives went rusty and stained. Lemon, tamarind and vinegar left dark marks on them. People believed that steel always rusts when it gets wet, so they dried and polished their knives after every meal. In 1913, in the steel-making city of Sheffield in England, a scientist named Harry Brearley was testing new kinds of steel. He had started work as a boy, washing bottles in a steel lab. Brearley mixed a metal called chromium into steel. Acid marks ordinary steel, but it hardly marked Brearley's new steel. It did not rust either. Brearley thought it would make good knives and spoons. A cutler tested it with vinegar, and it stayed bright. People called it stainless steel. Today, most spoons, plates and tumblers in Indian kitchens are stainless steel.  
+**Harry Brearley (1871 to 1948), a scientist in Sheffield, England, who started work as a boy washing bottles in a steel lab, 1913.** For a long time, steel spoons and knives went rusty and stained. Lemon, tamarind and vinegar left dark marks on them. People believed that steel always rusts when it gets wet, so they dried and polished their knives after every meal. In 1913, in the steel-making city of Sheffield in England, a scientist named Harry Brearley was testing new kinds of steel. He had started work as a boy, washing bottles in a steel lab. Brearley mixed a metal called chromium into steel. Acid, the sour part of things like lemon and vinegar, marks ordinary steel. It hardly marked Brearley's new steel. The new steel did not rust either. Brearley thought it would make good knives and spoons. A cutler, a person who makes knives, tested it with vinegar, and it stayed bright. People called it stainless steel. Today, most spoons, plates and tumblers in Indian kitchens are stainless steel.  
 *What people believed before:* Steel always rusts when it gets wet, so a steel spoon will always go dark and rusty.
 
 ## Challenging perspectives
@@ -76,19 +76,19 @@ A plate must hold food. A banana leaf, a steel plate and a paper plate can all d
   Against: Inside a plastic raincoat you can get hot and damp from your own sweat. Old plastic raincoats also become waste that lasts a very long time. In Kerala, people once used umbrellas made of dried palm leaves.
 
 ## Roots
-We have tested spoons in water and wrapped biscuits in the rain. Now we ask what the spoon test tells us about things, and about ourselves.
+In the Spoon Test, the paper spoons went soft in water and the steel spoon stayed stiff. In the Biscuit in the Rain activity, plastic kept a biscuit driest. Here we ask what the Spoon Test tells us about things, and about ourselves.
 
-**Deep truth.** Your card spoon had the same shape as the steel spoon. After its bath in water, the card went soft and bent. Water got between its plant threads, and they loosened their hold on each other. A shape can do its job only while the material holding it stays together.  
-*Habit it breaks:* We name things by their shape and their job: a spoon, a boat, a raincoat. But the shape is held up by a material. If the material changes, the shape cannot do its job, even though it still looks the same.  
+**Deep truth.** In the Spoon Test, the card spoon had the same shape as the steel spoon. After sitting in water, the card went soft and bent. Water got between its plant threads, and they loosened their hold on each other. A thing with the right shape can do its job only as long as its material holds that shape.  
+*Habit it breaks:* We name things by their shape and their job: a spoon, a boat, a raincoat. But the shape is made of a material. If the material changes, as card does when it gets wet, the thing cannot do its job, even if it still has the same shape.  
 *Evidence:* In the Spoon Test, the card spoon and the steel spoon were the same size and shape. After its bath in water, the card spoon bent over in thick curd, and the steel spoon stirred it. At the torn edge of the soft card, tiny fibres could be seen.
 
 - *who am i:* Your body is made of many materials too. Hard bones hold you up, and soft, flexible skin lets you bend and keeps rain out.
 - *what is life:* Living beings make materials for their own jobs. A banana plant makes waxy leaves, so rain rolls off them. A spider makes silk for her web.
-- *what is this world:* The world is full of materials, and each one meets water, heat and pushes in its own way. That is why each job has its own material.
+- *what is this world:* The world is full of materials, and each one behaves in its own way when it gets wet, gets hot or is pushed. That is why each job has its own material.
 
-Steel, paper, plastic and cloth are all made of atoms, and the same few kinds of atoms make every material. How the atoms are joined decides how a material behaves in water. Everything is conscious, the plant fibres and the steel too, and each material meets water in its own way.
+Steel, paper, plastic and cloth are all made of atoms. Atoms are far too small to see. The same few kinds of atoms make every material. How the atoms are joined together decides what a material does when it gets wet. Everything is conscious, which means aware. That includes the plant fibres and the steel, and each material meets water in its own way.
 
-- **Tirukkural 517, by Thiruvalluvar:** First think: this person can do this job, in this way. Then give the job to that person. (The Kural is about choosing people for work. In the Spoon Test we chose materials the same way. We tried each one with the job before we trusted it.)
+- **Tirukkural 517, by Thiruvalluvar:** First think: this person can do this job, in this way. Then give the job to that person. (The Kural is a book of short Tamil verses from Tamil Nadu. This verse is about choosing people for work. In the Spoon Test we chose materials the same way. We tried each one with the job before we trusted it.)
 - **Bhagavad Gita 3.35:** It is better to follow your own nature, even imperfectly, than to copy another's nature perfectly. (The Gita is speaking about people. In Indian thought, the word dharma is also used for the nature of a thing, as burning is the nature of fire. Card has its own nature: it drinks water. Asked to do steel's job, it could not.)
 - Science (settled): Paper and card are made of tiny plant fibres that stick to each other. Water gets between the fibres and loosens their hold. That is why wet paper is much weaker than dry paper.
 - Science (idea): Scientists are making new materials that can mend their own small cracks, a little like skin heals. Nobody knows yet how well these will work for everyday things.
@@ -99,7 +99,7 @@ Steel, paper, plastic and cloth are all made of atoms, and the same few kinds of
 - Ask: If you could swap the material of one thing at home, what would you swap, and what would go wrong?
 
 ## Deep and big questions
-- *deep:* When the card spoon went soft, was it still a spoon? (hint: It still had the shape of a spoon. Could it still do a spoon's job?)
+- *deep:* In the Spoon Test, the card spoon went soft in water. Was it still a spoon? (hint: It still had the shape of a spoon. Could it still do a spoon's job?)
 - *big:* Is there one material that could do every job? (hint: Think of a towel and a raincoat. Could one material soak up water and keep it out?)
 - *deep:* Paper is made from trees, and trees take up water. Does paper still behave a little like the tree? (hint: The wood of a tree and paper are both made of plant fibres, and both take up water.)
 - *big:* If you could invent a new material, what job would it do? (hint: Think of a job that no material does well yet.)
@@ -141,7 +141,7 @@ They ran down again. The rain had slowed to a drizzle. They put the two plastic 
 
 The boats sailed past the scooters. They sailed past the gate. They spun round in a little whirl near the drain, and Joel shouted. Ammu caught them both before they went down the drain. They were wet outside, but not soft at all.
 
-Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel for spoons. And palm leaves for umbrellas.'
+Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel for spoons.'
 
 'Every job has its own material,' said Ammamma, and she switched off the light.
 
@@ -162,17 +162,17 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
   - Ask: Which material keeps the rain off? (good: The plastic raincoat.; Plastic, because water cannot get through.)
 - **s2 (10 min)**  
   *Parent does:* 1. Mix the cards and lay them face down. 2. Take turns. 3. Before a pair is kept, the player says why.  
-  *Parent says:* You found steel spoon and hot rasam. Why is steel good for hot rasam?  
+  *Parent says:* You found the steel spoon and the hot rasam rice. Why is steel good for hot rasam?  
   *Child mode:* Turn two cards. Is it a pair? Say why.
   - Ask: Why is steel good for hot rasam? (good: It stays stiff in hot food.; It does not go soft in water.)
   - Note: Accept any true reason. If a reason is wrong, ask a question that leads to the right one, such as 'What would a paper spoon do in hot rasam?'
 - **s3 (2 min)**  
   *Parent does:* Count the pairs. Then ask the question below.  
-  *Parent says:* Which job was hardest to find a reason for? Let's think about it together.  
-  *Child mode:* Count your pairs. Which one was hardest?
+  *Parent says:* Let's count the pairs. Then I have one question about drying hands.  
+  *Child mode:* Count your pairs. Then answer the question about wet hands.
   - Check: Which material is right for drying wet hands? → **A cotton towel**
 ### g2 · Raindrop Hop (10 min)
-- **rules:** Print the four signs and lay them on the floor, a big step apart.; Print the 12 job cards. One player is the caller and holds them. The other players stand in the middle.; The caller reads a job card out loud.; Each other player hops to the material that suits the job, and says why.; The caller reads the back of the card. A player with a good reason gets one point.; Some jobs have two right answers. If you can say why, you get the point.; After 6 cards, swap: a new player becomes the caller and reads the other 6 cards.; When the last card is done, add up the points. The player with the most points wins. If you have the same number, you both win.
+- **rules:** Print the four signs and lay them on the floor, a big step apart.; Print the 12 job cards. One player is the caller and holds them. The other players stand in the middle.; The caller reads a job card out loud.; The other players each hop to the material that suits the job, and say why.; The caller reads the back of the card. A player with a good reason gets one point.; Some jobs have two right answers. If you can say why, you get the point.; After 6 cards, swap: a new player becomes the caller and reads the other 6 cards.; When the last card is done, add up the points. The player with the most points wins. If you have the same number, you both win.
 - **Printable board: 4 floor signs:** STEEL (draw a spoon); PLASTIC (draw a raincoat); CLOTH (draw a towel); PAPER (draw a book)
 - **Printable cards: 12 job cards for the caller:** Stir hot sambar (back: Steel: it stays stiff in hot food.); Keep a school bag dry in the rain (back: Plastic: it is waterproof.); Wipe up spilt milk (back: Cloth: it absorbs the milk.); Make a birthday card (back: Paper: you can fold it and draw on it.); Cut vegetables (back: Steel: a knife must be stiff and sharp.); Carry water to the plants (back: Plastic or steel: both keep water in.); Dry your hair after a bath (back: Cloth: a towel soaks up water.); Write a list for the shop (back: Paper: you can write on it.); Cover a scooter seat in the rain (back: Plastic: rain runs off it.); Make a hand puppet (back: Cloth: it is soft and flexible, so your fingers can move it.); Wrap a gift (back: Paper: it folds well and you can draw on it.); Make a pot that goes on the stove (back: Steel: it does not melt or burn on the flame.)
 - **s1 (2 min)**  
@@ -187,28 +187,29 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
   - Note: For 'Carry water to the plants', both steel and plastic are right. Ask your child why either works.
 - **s3 (1 min)**  
   *Parent does:* Count the points together.  
-  *Parent says:* Which job had two right answers?  
-  *Child mode:* Count your points. Which job had two answers?
+  *Parent says:* One job had two right answers. Which job was it? Why did two materials work?  
+  *Child mode:* Count your points. Which job had two right answers?
+  - Ask: Which job had two right answers? (good: Carry water to the plants.; Steel and plastic both keep water in.)
 
 ## Experiments
 ### e1 · The Spoon Test: which spoon still works after a bath? (20 min)
 - **question:** Why are spoons made of steel? Would a spoon made of paper or card work just as well?
 - **predict:** Guess first. After three minutes in water, which spoon will still stir thick curd? Why do you think so?
-- **fair test:** All three spoons are about the same length. Each one carries five scoops of water. Then all three sit in the same bowl of water for the same time. If you add two more minutes, all three get them. Only the material is different.
+- **fair test:** All three spoons are about the same length. Each one carries five scoops of water. Then all three sit in the same bowl of water for the same time. If you leave them in for two more minutes, leave all three in. Only the material is different.
 - **safety:** Only a grown-up uses the scissors.
 - **record:** Draw the three spoons after their bath, side by side. Draw a tick next to each spoon that could still stir the curd, and a cross next to each one that could not.
 - **results table:** Spoon | My guess | After 5 scoops of water | After 3 minutes in water: can it stir curd?
 - **s1 (4 min)**  
-  *Parent does:* 1. Fold the newspaper four times into a thick strip. 2. Bend one end up and tape it into a small scoop. 3. Your grown-up cuts the card strip. 4. Bend its end up the same way and tape it.  
+  *Parent does:* 1. Fold the newspaper four times into a thick strip. 2. Bend one end up and tape it into a small scoop. 3. You, the grown-up, cut a strip of card. 4. Bend its end up the same way and tape it.  
   *Parent says:* We are making two new spoons. One is newspaper and one is card. What are they made of? What is our steel spoon made of?  
-  *Child mode:* Watch the spoons being made. One is paper. One is card.
+  *Child mode:* Watch the spoons being made. One is newspaper. One is card.
   - Ask: What is each spoon made of? (good: Newspaper, card and steel.; Two are paper and one is metal.)
   - Note: The spoons need not be neat. Make each one about as long as the steel spoon.
 - **s2 (3 min)**  
   *Parent does:* 1. Put the three spoons in a row. 2. Ask your child to guess. 3. Draw each guess in the table, or write it for them.  
   *Parent says:* Soon all three spoons will sit in water for three minutes. Then we will stir thick curd. Which spoons will still stir it? Why do you think so?  
   *Child mode:* Guess. Which spoon will still stir curd after a bath in water? Why?
-  - Ask: Why do you think so? (good: Steel, because it is hard.; The paper ones will go soggy.; The card is thick, so it might work.)
+  - Ask: Which spoon will still stir the curd, and why? (good: Steel, because it is hard.; The paper ones will go soggy.; The card is thick, so it might work.)
   - Note: Wait for a reason as well as a guess. Any guess is fine. Do not say the answer.
 - **s3 (4 min)**  
   *Parent does:* 1. Your child carries five scoops of water from the full bowl to the empty bowl, with each spoon. 2. After each spoon, look at it and feel it.  
@@ -240,10 +241,10 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
 - **safety:** Keep the plastic bag away from faces.
 - **record:** Draw the four biscuits after the rain. Colour the wet parts blue. Draw a smiley face on the biscuit that stayed driest.
 - **s1 (3 min)**  
-  *Parent does:* 1. Wrap one biscuit in plastic, one in paper and one in cloth. 2. Tuck the edges underneath. 3. Leave the fourth biscuit bare.  
+  *Parent does:* 1. Wrap one biscuit in the plastic bag, one in the paper napkin and one in the cotton hanky. 2. Tuck the edges underneath. 3. Leave the fourth biscuit bare.  
   *Parent says:* Each biscuit has a coat on. One coat is plastic, one is paper and one is cloth. One biscuit has no coat. Which biscuit will stay dry in the rain? Why do you think so?  
   *Child mode:* Each biscuit has a coat. Which one will stay dry? Why?
-  - Ask: Why do you think so? (good: The plastic one, because water slides off plastic.; The cloth one, because it is thick.)
+  - Ask: Which biscuit will stay dry, and why? (good: The plastic one, because water slides off plastic.; The cloth one, because it is thick.)
   - Note: Wait for a guess and a reason before you start the rain.
 - **s2 (4 min)**  
   *Parent does:* 1. Stand the four biscuits on the plate. 2. Your child sprinkles three spoonfuls of water, slowly, over each biscuit. 3. Wait two minutes.  
@@ -268,7 +269,7 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
   *Parent does:* 1. Pour one spoon of water onto the plate. 2. Show the four materials.  
   *Parent says:* Oh no, a spill! Which of these will wipe it up best? Why do you think so?  
   *Child mode:* Which one will wipe up the water best? Why?
-  - Ask: Why that one? (good: The cloth, because towels are cloth.; The paper, because paper gets wet.)
+  - Ask: Which material will wipe up the water best, and why? (good: The cloth, because towels are cloth.; The paper, because paper gets wet.)
 - **s2 (6 min)**  
   *Parent does:* 1. Your child presses one material on the spill and lifts it. 2. Look at the plate. 3. Wipe the plate dry, pour a new spoon of water, and try the next material.  
   *Parent says:* Press it down and lift it up. Is the water still on the plate?  
@@ -277,11 +278,12 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
   - Note: Plastic and foil only push the water around. Cloth and paper absorb it. Cloth usually holds more without tearing.
 - **s3 (2 min)**  
   *Parent does:* Ask the question below.  
-  *Parent says:* Plastic was good for the biscuit's coat, but bad for mopping. Why?  
-  *Child mode:* Plastic kept the biscuit dry. But it could not mop. Why?
+  *Parent says:* In the Biscuit in the Rain activity, plastic kept the biscuit dry. Here, plastic could not mop up the water. Why?  
+  *Child mode:* In the Biscuit in the Rain activity, plastic kept the biscuit dry. But it could not mop up the water. Why?
   - Ask: Why? (good: Plastic does not soak up water.; A raincoat must keep water out, but a towel must soak it up.)
   - Note: This is the key idea. Being waterproof is right for a raincoat and wrong for a towel. The job decides which material is right.
 ### a3 · Hold Hands Like Paper (8 min)
+- **problem:** Paper is made of tiny plant threads called fibres. Dry fibres hold on to each other tightly, so dry paper is stiff. Water gets in between the fibres and loosens their hold, so wet paper goes soft. In this game you and your family act out the fibres, to see how water pulls them apart.
 - **record:** Draw yourselves holding hands as dry paper threads, and again as wet paper threads.
 - **s1 (2 min)**  
   *Parent does:* 1. Stand in a line with your child and anyone else at home. 2. Hold hands tightly.  
@@ -309,7 +311,7 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
   *Parent does:* 1. Fold and staple the book. 2. Your child chooses two things in the kitchen. 3. They draw each one on its own page.  
   *Parent says:* What does this thing do? What is it made of? Why is that the right material for its job?  
   *Child mode:* Draw a thing from the kitchen. What job does it do? What is it made of?
-  - Ask: Why is the tumbler steel? (good: It holds water and does not break.; It does not soak up water.)
+  - Ask: Why is a tumbler made of steel? (good: It holds water and does not break.; It does not soak up water.)
   - Note: Write the job and the material under each drawing, in your child's words.
 - **s2 (10 min)**  
   *Parent does:* Your child chooses two more things, from the bathroom or the bedroom, and draws them.  
@@ -335,12 +337,12 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
   *Parent does:* Read the problem. Show the materials.  
   *Parent says:* We need a spoon that does not go soft in water. Which of these things would you use? Why?  
   *Child mode:* Make a spoon that does not go soft. What will you use? Why?
-  - Ask: Why that material? (good: The bottle cap, because it is plastic and keeps water in.; Foil, because water does not soak into it.)
+  - Ask: Which material will you use, and why? (good: The bottle cap, because it is plastic and keeps water in.; Foil, because water does not soak into it.)
 - **s2 (10 min)**  
   *Parent does:* 1. Your child builds a spoon. 2. Help with the tape, but let them choose.  
   *Parent says:* Which part holds the water? Which part do you hold?  
   *Child mode:* Build your spoon. Which part holds the water?
-  - Note: A bottle cap on a stick works well. Wet tape lets go, so wrap the tape round and round and keep it dry. A card spoon wrapped in foil works while the foil has no holes.
+  - Note: A bottle cap on a stick works well. Tape comes unstuck when it gets wet, so wrap the tape round and round and keep it dry. A card spoon wrapped in foil works while the foil has no holes.
 - **s3 (5 min)**  
   *Parent does:* 1. Your child carries five scoops of water. 2. Look at the spoon after each scoop.  
   *Parent says:* Let's test it. Five scoops. Is it still stiff?  
@@ -350,11 +352,12 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
   *Parent does:* Ask the question below.  
   *Parent says:* What would you change to make it better?  
   *Child mode:* How could you make it better?
+  - Note: If the spoon failed, ask which part let the water in, and how to cover that part. If it worked, ask which part might fail first if you used it for a week.
 
 ## Worksheets
 ### The right material (core) (core, 10 questions)
 1. (match) Draw a line from each thing to its material.  
-   **Answer:** A pencil → Wood; A rubber chappal → Rubber; A pickle jar → Glass; A kite → Paper. *Why:* A pencil is wood, which is easy to sharpen. A rubber chappal bends and keeps your feet out of the wet. A pickle jar is glass, so you can see the pickle and the jar does not soak it up. A kite is paper, which is light.
+   **Answer:** A pencil → Wood; A rubber chappal → Rubber; A pickle jar → Glass; A kite → Paper. *Why:* A pencil is wood, which is easy to sharpen. A rubber chappal bends and keeps your feet off the wet ground. A pickle jar is glass, so you can see the pickle and the jar does not soak it up. A kite is paper, which is light.
 2. (truefalse) A cloth bag left out in the rain gets wet through.  
    **Answer:** True. *Why:* True. Cloth soaks up water, so a cloth bag in the rain gets wet through. A plastic bag would keep the rain out.
 3. (draw) Draw a child going out in the rain. Give the child a coat that keeps them dry. Colour the coat.  
@@ -376,16 +379,16 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
    **Answer:** True. *Why:* True. Water gets in between the tiny plant fibres in paper, and they stop holding each other tightly.
 ### Which material for which job? (stretch) (stretch, 10 questions)
 1. (perspective) Three people in a family in Chennai talk about the best spoon.  
-   **Answer:** A strong answer picks one and gives a reason about the material, not only its colour. For example: 'Kavya, because steel stays stiff in water. But Meenakshi is right too, because wood does not scratch the pan.'. *Why:* There is no one best spoon. The best material depends on the job. A child who sees that the job decides has understood the unit.
-2. (write) Riya, a girl in Class 1, has a raincoat made of cotton cloth. What will happen when she walks in the rain? What would you tell her?  
-   **Answer:** The cotton will soak up the rain, and Riya will get wet. Tell her to wear a plastic raincoat.. *Why:* A strong answer says that cotton absorbs water, and suggests a waterproof material.
+   **Answer:** A strong answer picks one and gives a reason about the material, not only its colour. For example: 'Lakshmi, because steel stays stiff in water. But Meenakshi is right too, because wood does not scratch the pan.'. *Why:* There is no one best spoon. The best material depends on the job. A child who sees that the job decides has understood the unit.
+2. (write) Someone has a raincoat made of cotton cloth. What will happen when they walk in the rain? What would you tell them?  
+   **Answer:** The cotton will soak up the rain, and they will get wet. Tell them to wear a plastic raincoat.. *Why:* A strong answer says that cotton absorbs water, and suggests a waterproof material.
 3. (mcq) A towel and a raincoat are both used in the rainy season. Which one should soak up water?  
    Options: The towel / The raincoat / Both  
    **Answer:** The towel. *Why:* A towel's job is to dry you, so it must soak up water. A raincoat's job is to keep you dry, so it must keep water out.
 4. (truefalse) Being waterproof is always good.  
    **Answer:** False. *Why:* False. Waterproof is good for a raincoat. But a waterproof towel could not dry your hands. The job decides.
 5. (match) Match each problem to the fix.  
-   **Answer:** My paper boat sank → Fold a boat from a plastic milk packet; My card spoon went soft → Wrap it in foil, or use a steel spoon; My plastic bag will not mop up the spill → Use a cotton cloth. *Why:* Plastic does not soak up water, so a plastic boat floats on. Foil keeps water off card. Cloth absorbs water, so it mops up spills.
+   **Answer:** My paper boat sank → Fold a boat from a plastic milk packet; My card spoon went soft → Wrap it in foil, or use a steel spoon; My plastic bag will not mop up the spill → Use a cotton cloth. *Why:* Plastic does not soak up water, so a plastic boat keeps floating. Foil keeps water off card. Cloth absorbs water, so it mops up spills.
 6. (mcq) The handle of a steel pan is often wood or plastic. Why?  
    Options: Wood and plastic stay cooler in the hand / Steel is too soft for a handle / Wood and plastic are heavier than steel  
    **Answer:** Wood and plastic stay cooler in the hand. *Why:* Steel gets hot on the flame. Wood and plastic do not carry the heat to your hand as fast, so they stay cooler.
@@ -394,8 +397,8 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
 8. (odd) Which one would make the worst spoon for curd rice?  
    Options: Steel / Wood / Coconut shell / Newspaper  
    **Answer:** 3. *Why:* Newspaper soaks up the curd and goes soft. Steel, wood and coconut shell stay stiff enough to scoop.
-9. (order) Put the Spoon Test in order.  
-   **Answer:** ['Make a newspaper spoon and a card spoon', 'Carry five scoops of water with each spoon', 'Leave the spoons in water for three minutes', 'Try to stir curd with each spoon']. *Why:* First we make the spoons. Then we carry water. Then the spoons sit in water. Last, we see which one can still stir.
+9. (order) You want to find out which spoon can still stir curd after sitting in water. Put the steps in order.  
+   **Answer:** ['Make a newspaper spoon and a card spoon', 'Guess which spoon will still stir, and say why', 'Leave the spoons in water for three minutes', 'Try to stir curd with each spoon']. *Why:* You need the spoons first. The guess comes before the test. Then the spoons get wet, and stirring shows which one stayed stiff.
 10. (truefalse) One thing can be made of more than one material.  
    **Answer:** True. *Why:* True. An umbrella has a cloth cover, metal rods and a plastic or wooden handle. Each part has its own job.
 
@@ -423,7 +426,7 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
 6. (mcq) Why are rubber boots good in the monsoon?  
    Options: Rubber is waterproof and bends / Rubber soaks up the rain / Rubber is stiff like steel  
    **Answer:** Rubber is waterproof and bends. *Why:* Rubber keeps water out, and it bends when you walk.
-7. (mcq) In the Spoon Test, Arjun, a boy in Class 1, leaves a steel spoon and a card spoon in water for three minutes. Then he stirs thick curd. What happens?  
+7. (mcq) In the Spoon Test, a steel spoon and a card spoon sit in water for three minutes. Then you stir thick curd with each one. What happens?  
    Options: The steel spoon stirs, and the card spoon bends / Both spoons bend / Both spoons stir well  
    **Answer:** The steel spoon stirs, and the card spoon bends. *Why:* Steel does not soak up water, so it stays stiff. The card soaks up water and goes soft.
 8. (mcq) In the Spoon Test, why does every spoon sit in the same water for the same time?  
@@ -449,11 +452,11 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
 - An auto-rickshaw driver rolls down plastic side sheets when the rain starts.
 
 ## Open questions
-- **Can we make a material that is waterproof, but lets your sweat out, as well as cotton does?** Some new raincoat fabrics let a little damp air out. Scientists are still trying to make one that feels as cool as cotton and stays fully waterproof.
+- **Can we make a waterproof material that lets your sweat out as well as cotton does?** Some new raincoat fabrics let a little damp air out. Scientists are still trying to make one that feels as cool as cotton and stays fully waterproof.
 - **Can we make a waterproof material that goes back into the soil like a banana leaf?** Scientists are testing new materials made from plants and other living things. Nobody knows yet which will work best for raincoats, cups and bags.
 
 ## Questions to ask kids
-- What is your spoon made of? Why do you think so?
+- What is your spoon made of? Why do you think it is made of that?
 - What would happen if your school bag was made of paper?
 - Why is your towel made of cloth and not plastic?
 - Can you find something at home made of two materials? What job does each one do?
@@ -470,9 +473,9 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
 - Why did the biscuit hide inside plastic? *It did not want to get into a soggy situation.*
 
 ## Connected maths
-- In the Spoon Test, Nila, a girl in Class 1, carried 5 scoops with the steel spoon and 5 scoops with the card spoon. How many scoops did she carry in all? **10 scoops.**. 5 and 5 more make 10. Count on from 5: 6, 7, 8, 9, 10. (queues `math.addition-subtraction.meaning.L1`)
-- Pooja, a girl in Class 1, tests three spoons. Her newspaper spoon dripped after 1 scoop. Her card spoon went soft after 6 scoops. Her steel spoon was still fine after 10 scoops. Put the spoons in order, from lasting the shortest to the longest. **Newspaper, then card, then steel.**. 1 is less than 6, and 6 is less than 10. So the newspaper spoon lasted the shortest time, and the steel spoon lasted the longest. (queues `math.number-sense.comparing-ordering.L1`)
-- In the Biscuit in the Rain activity, Divya, a girl in Class 1, sprinkled water on 4 biscuits. Then she counted the dry ones: 1. How many were not dry? **3 biscuits were not dry.**. 4 biscuits take away 1 dry biscuit leaves 3. Those were the paper, cloth and bare biscuits. (queues `math.addition-subtraction.meaning.L1`)
+- In the Spoon Test, you carry 5 scoops of water with the steel spoon and 5 scoops with the card spoon. How many scoops do you carry in all? **10 scoops.**. 5 and 5 more make 10. Count on from 5: 6, 7, 8, 9, 10. (queues `math.addition-subtraction.meaning.L1`)
+- Three spoons were tested. The newspaper spoon dripped after 1 scoop. The card spoon went soft after 6 scoops. The steel spoon was still fine after 10 scoops. Put the spoons in order, from lasting the shortest to the longest. **Newspaper, then card, then steel.**. 1 is less than 6, and 6 is less than 10. So the newspaper spoon lasted the shortest time, and the steel spoon lasted the longest. (queues `math.number-sense.comparing-ordering.L1`)
+- In the Biscuit in the Rain activity, water was sprinkled on 4 biscuits. Only 1 biscuit stayed dry. How many were not dry? **3 biscuits were not dry.**. 4 biscuits take away 1 dry biscuit leaves 3. Those were the paper, cloth and bare biscuits. (queues `math.addition-subtraction.meaning.L1`)
 
 ## Song
 What Is It Made Of? (sci.materials.L1): Topic-level song for Materials L1

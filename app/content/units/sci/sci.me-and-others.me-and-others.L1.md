@@ -1,7 +1,7 @@
 # Me and others: how we are alike, and how we are different
 `sci.me-and-others.me-and-others.L1`
 
-**Summary.** Give everyone at home a bit of jaggery and a bit of karela. Everyone gets the same food, but the faces they make are not the same. All people have the same body parts and need the same things: food, water, sleep and people who love them. Yet each of us looks, sounds and likes things in our own way. In this unit you find what you share with your family in a mirror, test who likes which taste, and practise being kind to people who are different from you.
+**Summary.** Give everyone at home a bit of jaggery and a bit of karela. Everyone gets the same food, but the faces they make are not the same. All people have the same body parts and need the same things: food, water, sleep and people who love them. Yet each of us looks, sounds and likes things in our own way. In this unit you look in a mirror to find what you share with your family, test who likes which taste, and practise being kind to people who are different from you.
 
 **Intro.** *Stand in front of a mirror with a grown-up. Count your eyes, then theirs. Now look at your hair, and theirs. What is the same? What is not?* Almost everyone has two eyes, one nose and one mouth. But your hair, your height and your voice are your own. Scientists who study people look at both: the ways we are similar and the ways we are different. In this unit you find out how much you share with others, and how much is only yours.
 
@@ -15,7 +15,7 @@
 
 ## Terms
 - **Similar**: Similar means alike in some way. *e.g.* You and your cousin are similar: you both have ten fingers and you both like mangoes.
-- **Different**: Different means not the same. *e.g.* Your hair may be curly and your friend's hair straight. Your hair is different.
+- **Different**: Different means not the same. *e.g.* Your hair may be curly and your friend's hair straight. Your hair is different from your friend's.
 - **Taste**: Taste is how a food seems in your mouth: sweet, sour, salty or bitter. You taste with your tongue. *e.g.* Jaggery tastes sweet. Lime tastes sour. Karela tastes bitter.
 - **Kind**: Being kind means doing something to help another person or animal, or to make them feel better. *e.g.* Sharing your crayons with a new friend is kind. Putting out water for a crow on a hot day is kind.
 
@@ -30,7 +30,7 @@ Every person has a heart, a mouth and a nose. Almost everyone has two eyes, two 
 ### Each of us is different · *defined*
 **Definition:** No two people are exactly the same. We differ in how we look, how we sound and what we like.
 
-Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell one grown-up from another with your eyes shut, because each voice is its own. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi.
+Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell one grown-up from another with your eyes shut, because every person's voice sounds a little different. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi.
 - e.g. You can know who is calling you just from their voice.
 - e.g. Two sisters can have different favourite colours.
 - e.g. The lines on your fingertips are not like anyone else's.
@@ -44,21 +44,21 @@ Your tongue is covered in tiny bumps. Inside them are taste buds, too small to s
 ### Why do we like different foods? · *debated*
 Scientists agree that two things matter. One is the body you were born with. The other is what you have eaten since you were very small. They are still finding out how much each one counts.
 - e.g. A child who has eaten idli every morning may love idli all their life.
-- e.g. Some families have several people who all find bitter foods very strong.
+- e.g. In some families, many people find bitter foods very strong. This is partly because their tongues are alike.
 - **Scientists who study taste buds:** Some people are born with tongues that sense bitter much more strongly. For them, a bitter food really is stronger.
-- **Scientists who study babies and food:** What a child eats again and again, from very small, they often come to like. Even foods the mother ate before the baby was born can matter.
+- **Scientists who study babies and food:** A child often comes to like the foods they eat again and again from a very young age. Even the foods a mother ate before her baby was born can change what the baby likes.
 ### Being kind · *defined*
 **Definition:** Being kind means helping someone, or doing something that makes them feel better.
 
-When someone may like things differently from you, you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. People are not the only animals who are kind. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.
-- e.g. Asking a new child to play with you.
-- e.g. Bringing water for a tired grown-up.
-- e.g. Waiting for a slower friend on a walk.
+Other people may like different things from you, so you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. People are not the only animals who are kind. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.
+- e.g. You ask a new child to play with you.
+- e.g. You bring water for a tired grown-up.
+- e.g. You wait for a slower friend on a walk.
 
 ## Mostly agreed
 - All people have the same main body parts and the same needs. *How we know:* Doctors all over the world study the same heart, lungs and bones in every person. Every person needs air, water, food and sleep.
 - No two people are exactly alike. *How we know:* No two people have ever been found with the same fingerprints, not even twins who look alike.
-- Newborn babies like sweet tastes and dislike bitter ones. *How we know:* Scientists have put a drop of sweet water and a drop of bitter water on the tongues of babies only hours old. The babies relax at sweet and screw up their faces at bitter.
+- Newborn babies like sweet tastes and dislike bitter ones. *How we know:* Scientists have put a drop of sweet water and a drop of bitter water on the tongues of babies only hours old. The babies relaxed at the sweet water and screwed up their faces at the bitter water.
 
 ## How we found out
 **Arthur Fox, a chemist in the USA, and later Linda Bartoshuk, an American taste scientist, 1931 (Fox's powder) and the 1990s (Bartoshuk's supertasters).** In 1931, Arthur Fox, a chemist in the USA, was pouring a white powder into a bottle. Some of the powder flew up into the air. The man working next to him said the dust tasted very bitter. Fox was surprised. He tasted nothing at all, even when he put some powder on his tongue. Until then, most people thought a food or a chemical tastes the same to everyone. Fox gave the powder to his friends and family. Some found it horribly bitter. Others tasted nothing. Other scientists tested many families, and found that tasting this powder runs in families, like the shape of your nose. In the 1990s, Linda Bartoshuk, an American taste scientist, found that some people taste bitter things much more strongly than most. She called them supertasters. So when your family makes different faces at karela, they may really be tasting it differently.  
@@ -73,37 +73,37 @@ When someone may like things differently from you, you can ask them. Asking 'Do 
   Against: Inside, all people have the same heart, lungs, blood and bones. Scientists who read the genes of people from all over the world find that we share almost all of our genes.
 - **Only people can be kind.** (An idea many people once held; *rejected*)  
   For: We can talk about kindness, and other animals cannot tell us what they feel.  
-  Against: In 2011, Inbal Ben-Ami Bartal and her team in the USA found that rats free other rats who are shut in a small tube. Given chocolate as well, many rats shared the chocolate with the rat they had freed. Elephants soothe other elephants who are upset. Many animals help each other.
+  Against: In 2011, Inbal Ben-Ami Bartal and her team in the USA found that rats free other rats who are shut in a small tube. When the rats were also given chocolate, many of them shared the chocolate with the rat they had freed. Elephants soothe other elephants who are upset. Many animals help each other.
 
 ## Roots
-We have found ways we are like other people, and ways we are not. Now we ask what the taste test tells us about ourselves and others.
+We have found ways we are like other people, and ways we are not. Now we ask what the Same Food, Different Faces taste test tells us about ourselves and others.
 
-**Deep truth.** Everyone at home ate the same jaggery and the same karela. Nearly everyone liked the jaggery. For the karela, the thumbs were different. So a taste happens where a food meets a tongue, and every tongue is a little different.  
-*Habit it breaks:* We think a food has one taste that everyone gets. So when someone says 'yuck' to a food we love, we think they are wrong. The test shows each person meets the same food in their own way.  
+**Deep truth.** In the Same Food, Different Faces taste test, everyone at home ate the same jaggery and the same karela. Nearly everyone liked the jaggery. For the karela, the thumbs were different. So a taste is not only in the food. It also depends on the tongue that tastes the food, and every tongue is a little different.  
+*Habit it breaks:* We think a food has one taste that everyone gets. So when someone says 'yuck' to a food we love, we think they are wrong. The taste test shows that the same food can taste different to each person.  
 *Evidence:* In the taste test, everyone ate pieces of the same jaggery, lime and karela, with eyes closed. The jaggery got nearly all thumbs up. The karela and lime got different thumbs from different people.
 
 - *who am i:* You are a person like every other person, with the same body parts and the same needs. You are also the only one with your face, your voice and your tastes.
-- *what is life:* Every living being senses the world in their own way. A tongue, a nose and an ear each meet the world and tell you about it.
+- *what is life:* Every living being senses the world in their own way. Your tongue, your nose and your ears each tell you something about the world around you.
 - *what is this world:* People are not the only ones who help each other. Crows, elephants and rats do too.
 
-People share the same body parts and almost all the same genes, yet each of us looks, sounds and tastes in our own way. Everything is conscious, and every being feels the world from where they are. So when we want to know what another person feels, we ask them instead of guessing.
+People share the same body parts and almost all the same genes, yet each of us looks, sounds and tastes food in our own way. Everything is conscious, and every being feels the world in their own way. So when we want to know what another person feels, we ask them instead of guessing.
 
-- **Karaniya Metta Sutta (Sutta Nipata 1.8), a Buddhist teaching:** Just as a mother would protect her only child with her life, let your heart be kind to all beings, without limit. (Kindness here is not only for people who are like us. It is for every being, however different they look or feel.)
+- **Karaniya Metta Sutta (Sutta Nipata 1.8), a Buddhist teaching:** Just as a mother would protect her only child with her life, let your heart be kind to all beings, without limit. (In this teaching, kindness is not only for people who are like us. It is for every being, however different they look or feel.)
 - **Tirukkural 315:** What use is wisdom to someone who will not treat another's pain as their own, and try to stop it? (In the Feelings Faces activity, you learned to see how someone else feels. The Tirukkural, from Tamil Nadu, says that knowing things is of little use without caring about other people's pain.)
 - **Tattvartha Sutra 5.21, a Jain text:** Living beings help one another. (People help each other, and so do elephants and rats. This Jain teaching says that helping each other is what living beings do.)
 - Science (settled): The same substance can taste strongly bitter to one person and hardly bitter to another. This runs partly in families, and partly comes from what each person is used to eating.
 - Science (open): Nobody can feel another person's taste directly. Whether two people feel the same sweetness from the same mango is still an open question.
-- Other view, Many taste scientists: People differ in how strongly they taste, but they mostly agree on which foods are sweet, sour, salty or bitter. For them, what we share is much bigger than our differences, and the differences are small.
+- Other view, Many taste scientists: People differ in how strongly they taste, but they mostly agree on which foods are sweet, sour, salty or bitter. For these scientists, what we share is much bigger than our differences.
 - Practice, A slow taste (3 min): Close your eyes. I will put a small piece of jaggery on your tongue. Don't chew yet. Just feel it. Is it sweet straight away, or slowly? Now chew slowly. Now think of someone at home eating the same jaggery. Are they tasting what you taste? We can only ask them.
 - Ask: A friend says 'yuck' to a food you love. What could you say or do?
 - Ask: What would be lost if everyone liked exactly the same things?
-- Ask: Who is someone different from you that you would like to know better?
+- Ask: A new friend brings a food you have never seen. What could you ask, instead of saying 'yuck'?
 
 ## Deep and big questions
-- *deep:* When you and a grown-up eat the same mango, do you taste the same thing? (hint: Think about the taste test. Did everyone pull the same face?)
+- *deep:* When you and a grown-up eat the same mango, do you taste the same thing? (hint: In the Same Food, Different Faces taste test, everyone at home tasted the same jaggery, lime and karela. Did everyone show the same thumb?)
 - *deep:* If you could swap tongues with someone for one minute, what would you want to taste? (hint: Think of a food that someone at home loves and you do not.)
 - *big:* What makes you you? Is it your face, your voice, what you like, or something else? (hint: Your face and your likes change as you grow. What stays the same?)
-- *big:* Which is bigger: how alike people are, or how different they are? (hint: Think of the mirror and the taste test. What did you find that was the same? What was different?)
+- *big:* Which is bigger: how alike people are, or how different they are? (hint: Think of the Mirror Twins activity and the Same Food, Different Faces taste test. What did you find that was the same? What was different?)
 
 ## Story: Bornali's Tiffin
 *Masor tenga is a real Assamese sour fish curry, often made with tomato or lime. Rasam is a Tamil soup, often sour with tamarind and tomato. Pavakkai is the Tamil name for karela, bitter gourd. Nila, Bornali, Kavya, Ammamma and Appa are made up.*
@@ -122,9 +122,9 @@ Nila told Ammamma about Bornali and the tiffin. Ammamma listened and nodded. The
 
 Ammamma put three tiny pieces of cooked pavakkai on a steel plate. Next to them she put three little lumps of jaggery. 'Everyone eats one piece of each,' she said. 'Then we show what we think. Thumbs up, thumbs sideways or thumbs down.'
 
-First, the jaggery. Nila put it on her tongue. Sweet! Thumbs up. Appa: thumbs up. Ammamma: thumbs up.
+First they ate the jaggery. Nila put it on her tongue. It was sweet! She showed a thumbs up. Appa showed a thumbs up, and so did Ammamma.
 
-Then the pavakkai. Nila chewed it and shivered. Thumbs down. Appa chewed slowly and held his thumb sideways. 'Not bad,' he said. Ammamma closed her eyes and smiled. Thumbs up. 'I love pavakkai,' she said. 'When I was little, I hated it too.'
+Then they ate the pavakkai. Nila chewed it and shivered. She showed a thumbs down. Appa chewed slowly and held his thumb sideways. 'Not bad,' he said. Ammamma closed her eyes and smiled. She showed a thumbs up. 'I love pavakkai,' she said. 'When I was little, I hated it too.'
 
 Nila stared at the three thumbs. 'But it's the same pavakkai!' she said.
 
@@ -160,7 +160,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 ## Games
 ### g1 · Stand Up If…: who is like me? (10 min)
 - **rules:** A child who cannot read yet can be the caller, with a grown-up whispering each card to them first.; Mix the cards. The caller reads one card out loud.; Everyone the card is true for stands up. Everyone else sits.; The caller counts who is standing, then turns the card over and reads the back.; Put the card on the 'Everyone' pile if everyone stood, or on the 'Some' pile if only some stood.; At the end, look at the two piles. Which kind of card made everyone stand?
-- **Printable cards: 20 calling cards for the caller:** Stand up if you have a nose. (back: Everyone stands: we are all similar here.); Stand up if you like mangoes. (back: Count who stands. Likes are different.); Stand up if you need to drink water. (back: Everyone stands: every person needs water.); Stand up if you have curly hair. (back: Count who stands. Hair is different.); Stand up if you sleep every night. (back: Everyone stands: every person needs sleep.); Stand up if you like karela. (back: Count who stands. Tastes are different.); Stand up if you have a heart beating inside you. (back: Everyone stands: every person has a heart.); Stand up if your favourite colour is blue. (back: Count who stands. Favourites are different.); Stand up if you were once a baby. (back: Everyone stands: every person was a baby once.); Stand up if you can whistle. (back: Count who stands. Not everyone can.); Stand up if you have a mouth. (back: Everyone stands: every person has a mouth.); Stand up if you like the rain. (back: Count who stands. Likes are different.); Stand up if you laugh when something is funny. (back: Everyone stands: people all over the world laugh.); Stand up if you are taller than the door handle. (back: Count who stands. Heights are different.); Stand up if you feel sad sometimes. (back: Everyone stands: every person feels sad sometimes.); Stand up if you like to sing. (back: Count who stands. Likes are different.); Stand up if you speak more than one language. (back: Count who stands. Many people in India do.); Stand up if you need food to grow. (back: Everyone stands: every person needs food.); Stand up if you were born in this city. (back: Count who stands. People come from many places.); Stand up if you like to be hugged. (back: Count who stands. Some people like hugs, some do not.)
+- **Printable cards: 20 calling cards for the caller:** Stand up if you have a nose. (back: Everyone stands: we are all similar here.); Stand up if you like mangoes. (back: Count who stands. People like different things.); Stand up if you need to drink water. (back: Everyone stands: every person needs water.); Stand up if you have curly hair. (back: Count who stands. Hair is different.); Stand up if you sleep every night. (back: Everyone stands: every person needs sleep.); Stand up if you like karela. (back: Count who stands. Tastes are different.); Stand up if you have a heart beating inside you. (back: Everyone stands: every person has a heart.); Stand up if your favourite colour is blue. (back: Count who stands. People have different favourites.); Stand up if you were once a baby. (back: Everyone stands: every person was a baby once.); Stand up if you can whistle. (back: Count who stands. Not everyone can.); Stand up if you have a mouth. (back: Everyone stands: every person has a mouth.); Stand up if you like the rain. (back: Count who stands. People like different things.); Stand up if you laugh when something is funny. (back: Everyone stands: people all over the world laugh.); Stand up if you are taller than the door handle. (back: Count who stands. Heights are different.); Stand up if you feel sad sometimes. (back: Everyone stands: every person feels sad sometimes.); Stand up if you like to sing. (back: Count who stands. People like different things.); Stand up if you speak more than one language. (back: Count who stands. Many people in India do.); Stand up if you need food to grow. (back: Everyone stands: every person needs food.); Stand up if you were born in this city. (back: Count who stands. People come from many places.); Stand up if you like to be hugged. (back: Count who stands. Some people like hugs, some do not.)
 - **s1 (1 min)**  
   *Parent does:* 1. Mix the cards. 2. Make two places on the floor for piles: 'Everyone' and 'Some'.  
   *Parent says:* When I read a card, stand up if it is true for you. Let's see who is like you.  
@@ -189,16 +189,16 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   *Parent says:* Show us your kind thing. We'll guess what you are doing.  
   *Child mode:* Act out a kind thing. Let the others guess.
 - **s3 (3 min)**  
-  *Parent does:* Pick up the card about the food and ask the check question.  
+  *Parent does:* Pick up the card that says 'A friend does not like the food you love' and ask the check question.  
   *Parent says:* Here is a tricky one. Your friend does not like the food you love. What would you say?  
   *Child mode:* Your friend does not like your food. What will you say?
   - Check: Your friend says your favourite dosa is not nice. What is the kind thing to say? → **'That's okay. We like different things. What do you like?'**
 
 ## Experiments
 ### e1 · Same Food, Different Faces: does everyone at home like the same tastes? (25 min)
-- **question:** If everyone at home tastes the same jaggery, the same lime and the same karela, will everyone like them the same?
+- **question:** If everyone at home tastes the same jaggery, the same lime and the same karela, will everyone feel the same way about each food?
 - **predict:** Guess first. For each person at home, will they show thumbs up, sideways or down for each food? Why do you think so?
-- **fair test:** Everyone gets the same size of piece from the same jaggery, the same lime and the same karela. Everyone tastes with eyes closed and shows a thumb at the same moment, so nobody copies anyone else. Everyone sips water between foods.
+- **fair test:** Everyone gets a piece of the same size from the same jaggery, the same lime and the same karela. Everyone tastes with eyes closed and shows a thumb at the same moment, so nobody copies anyone else. Everyone sips water between foods.
 - **safety:** A grown-up cuts the lime and the karela. Leave out any food that someone is allergic to or has been told not to eat. Only taste foods a grown-up has given you.
 - **record:** Draw the results table with a thumb in every box: up, sideways or down.
 - **results table:** Person | Jaggery | Lime | Karela
@@ -206,9 +206,9 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   *Parent does:* 1. Get at least 3 people together, the more the better. 2. Draw a table: names down the side, and a picture of jaggery, a lime and a karela across the top. 3. Put each food on its own steel plate.  
   *Parent says:* We are going to find out if everyone likes the same tastes. Here are three foods. Let's make a table for what we find.  
   *Child mode:* Help draw the table. Draw a jaggery, a lime and a karela at the top.
-  - Note: Three people is the least. Grandparents, older cousins or a neighbour make the test more interesting, because the ages are different.
+  - Note: You need at least three people. Grandparents, older cousins or a neighbour make the test more interesting, because the ages are different.
 - **s2 (4 min)**  
-  *Parent does:* Point to each person and each food. Ask your child to guess the thumb, and to say why. Write the guesses in pencil on a separate paper.  
+  *Parent does:* Point to each person and each food. Ask your child to guess which thumb that person will show for that food, and to say why. Write the guesses in pencil on a separate paper.  
   *Parent says:* Will this person like the karela? Will that person like the lime? Thumbs up, sideways or down? Why do you think so?  
   *Child mode:* Guess. Will each person like each food? Why?
   - Ask: Why do you think so? (good: A grown-up will like karela, because they cook it a lot.; Everyone will like jaggery, because jaggery is sweet.)
@@ -216,7 +216,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   *Parent does:* 1. Hand everyone a piece of jaggery. 2. Everyone closes their eyes, tastes and chews. 3. Count 'one, two, three'. 4. Everyone opens their eyes and shows a thumb at the same time. 5. Everyone sips water. 6. Do the same with the lime, then the karela.  
   *Parent says:* Close your eyes and taste. Don't make a face yet! One, two, three: show your thumb.  
   *Child mode:* Close your eyes. Taste. On three, show your thumb.
-  - Note: Tasting with eyes closed, and showing thumbs together, stops people copying each other. Karela is safe raw in a small slice, but it is very bitter: a child can spit it out. A sip of water clears the mouth between foods.
+  - Note: Tasting with eyes closed, and showing thumbs together, stops people copying each other. A small slice of raw karela is safe to eat, but it is very bitter, so a child can spit it out. A sip of water clears the mouth between foods.
 - **s4 (4 min)**  
   *Parent does:* Help your child draw each person's thumb in the right box of the table.  
   *Parent says:* What did this person show for the karela? Draw their thumb in that box.  
@@ -274,7 +274,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 - **s3 (3 min)**  
   *Parent does:* Help your child draw the two of you. Ask the check question.  
   *Parent says:* Draw us both. Circle one thing that is the same, and one thing that is different.  
-  *Child mode:* Draw you and your partner. Circle a same thing and a different thing.
+  *Child mode:* Draw yourself and your partner. Circle one thing that is the same and one thing that is different.
   - Check: You and a grown-up both have two eyes. What is the word for this? → **Similar**
 ### a2 · All About Me: my name, my face, what I like (15 min)
 - **record:** The 'All About Me' page. Keep it, and make a new one next year to see what has changed.
@@ -285,7 +285,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 - **s2 (4 min)**  
   *Parent does:* 1. Write your child's name at the top. 2. Tell them who chose the name, why, and what it means, if it has a meaning.  
   *Parent says:* I am writing your name at the top. Let me tell you who chose your name, and why. Do you know anyone else with your name?  
-  *Child mode:* Your name is on the top. Ask: who chose my name? What does it mean?
+  *Child mode:* Your name is at the top. Ask: who chose my name? What does it mean?
   - Note: If you do not know the meaning, tell the story of how the name was chosen. Every child's name has a story.
 - **s3 (4 min)**  
   *Parent does:* Ask your child to draw three things they like round the face: a food, a game and anything else.  
@@ -360,10 +360,10 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 - **problem:** Your family is coming over. People like different tastes. Can you plan one plate of snacks so that every person finds at least one thing they like?
 - **your turn:** Draw your party plate. Then show it to someone at home and ask: 'Is there something here you would like?'
 - **constraints:** Use only foods that are in your kitchen or easy to get.; Every person must have at least one thing they like.; Plan it with drawings.
-- **general:** Put one sweet, one sour and one salty snack on the plate.; Ask everyone first what they like, then choose.; Use the taste test table to see who liked sweet and who liked sour.
-- **creative:** Make little name flags for each person, next to a snack they like.; Put a sweet and a sour dip side by side, so each person can choose.; Add one new food that nobody has tried, for the brave tasters.
+- **general:** Put one sweet, one sour and one salty snack on the plate.; Ask everyone first what they like, then choose.; Use the results table from the Same Food, Different Faces taste test to see who liked sweet and who liked sour.
+- **creative:** Make a little name flag for each person and put it next to a snack they like.; Put a sweet and a sour dip side by side, so each person can choose.; Add one new food that nobody has tried, for the brave tasters.
 - **s1 (3 min)**  
-  *Parent does:* Read the challenge to your child. Look at the taste test table together, if you did it.  
+  *Parent does:* Read the challenge to your child. If you did the Same Food, Different Faces taste test, look at its results table together.  
   *Parent says:* Your family is coming over. Everyone likes different things. How can we make one plate that has something for everyone?  
   *Child mode:* Plan a snack plate. Everyone must find something they like.
 - **s2 (5 min)**  
@@ -395,32 +395,32 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 6. (odd) Three of these are things every person needs to live. Which one is not?  
    Options: Air / Water / Food / A toy car  
    **Answer:** 3. *Why:* Every person needs air, water and food to live. A toy car is fun, but nobody needs one to live.
-7. (mcq) In the story, Nila, her father and her grandmother all showed thumbs up for one food. Which one?  
+7. (mcq) A girl, her father and her grandmother taste jaggery and karela with their eyes closed. Which food will all three most likely give a thumbs up?  
    Options: Jaggery / Pavakkai (karela) / Neither  
-   **Answer:** Jaggery. *Why:* All three of them gave the jaggery a thumbs up. Sweet is a taste nearly everyone likes. The pavakkai got three different thumbs.
+   **Answer:** Jaggery. *Why:* Sweet is a taste nearly everyone likes. Bitter foods like karela taste very different to different people, so they often get different thumbs.
 8. (draw) Draw one kind thing you can do for someone at home today.  
    **Answer:** Any kind act, such as carrying a bag, sharing a snack or giving a hug.. *Why:* A strong drawing shows the child helping another person or making them feel better.
 9. (count) Look at the picture of six children. Count the children with curly hair.  
    **Answer:** 2. *Why:* Two of the six children have curly hair, and four have straight hair. Hair is one way people are different.
-10. (write) Say out loud, and a grown-up writes it down: name two ways you and your best friend are different.  
+10. (write) Name two ways you and your best friend are different. Say them out loud, and a grown-up writes them down.  
    **Answer:** My friend is taller than me. My friend likes cricket and I like drawing.. *Why:* A strong answer gives two real differences, such as how they look and what they like.
-11. (perspective) Lakshmi and her brother Arun are eating dinner in Madurai. Karela is on the table.  
-   **Answer:** A strong answer agrees with Lakshmi: the same karela tastes different to different people, so neither of them is wrong. Arun is right that karela is very bitter, and for him it really does taste yucky.. *Why:* Many children think that if they dislike a food, the food is bad for everyone. The taste test shows the same food can taste different in each mouth.
+11. (perspective) Revathi, aged 7, and her brother Vikram, aged 5, are eating dinner in Madurai. Karela is on the table.  
+   **Answer:** A strong answer agrees with Revathi: the same karela tastes different to different people, so neither of them is wrong. Vikram is right that karela is very bitter, and for him it really does taste yucky.. *Why:* Many children think that if they dislike a food, the food is bad for everyone. The Same Food, Different Faces taste test shows that the same food can taste different to each person.
 12. (label) Here are four faces. Label each one: happy, sad, scared or angry.  
    **Answer:** ['happy', 'sad', 'scared', 'angry']. *Why:* Faces show how people feel. Knowing how someone feels helps us know how to be kind to them.
 13. (truefalse) With your eyes closed, you can tell one grown-up's voice from another's.  
    **Answer:** True. *Why:* True. Each person's voice is a little different, so we can tell people apart just by listening.
 ### Same Food, Different Tongues (stretch) (stretch, 13 questions)
-1. (write) Paati gave karela a thumbs up, and you gave a thumbs down. You both ate the same karela. Say why, and a grown-up writes it down.  
-   **Answer:** Karela tastes different to Paati and to me. Paati has eaten karela for many years, and her tongue is different from mine.. *Why:* A strong answer says the food was the same, so the difference is in each person: their tongue and the foods they are used to.
-2. (mcq) In the taste test, why did everyone taste with their eyes closed?  
+1. (write) Your grandmother gave karela a thumbs up, and you gave a thumbs down. You both ate the same karela. Why were your thumbs different? Say your answer, and a grown-up writes it down.  
+   **Answer:** Karela tastes different to my grandmother and to me. She has eaten karela for many years, and her tongue is different from mine.. *Why:* A strong answer says the food was the same, so the difference is in each person: their tongue and the foods they are used to.
+2. (mcq) In the Same Food, Different Faces taste test, why did everyone taste with their eyes closed?  
    Options: So nobody copies someone else's face / So the food tastes sweeter / So everyone falls asleep  
    **Answer:** So nobody copies someone else's face. *Why:* If people see each other's faces, they may copy them. With eyes closed, each person shows what they really think.
-3. (order) Put the taste test steps in the right order.  
+3. (order) Put the steps of the Same Food, Different Faces taste test in the right order.  
    **Answer:** ["Guess each person's thumb", 'Taste with eyes closed', 'Show thumbs on three', 'Draw the thumbs in the table']. *Why:* A scientist guesses first, then tests, then writes down what happened. The guess comes before the test, so the test can show if the guess was right.
-4. (perspective) Shreya lives in Pune. Her new friend Ritu has just moved there from Kolkata.  
-   **Answer:** A strong answer agrees with Ritu: all people have the same parts inside and the same needs. Shreya is right that Ritu looks and talks a little differently on the outside.. *Why:* People often think that looking different means being different inside. Inside, all people share the same body parts and almost all the same genes.
-5. (mcq) In the voice test, why were whispers harder to guess than talking?  
+4. (perspective) Sneha, aged 6, lives in Pune. Her new friend Tanvi, aged 6, has just moved there from Kolkata.  
+   **Answer:** A strong answer agrees with Tanvi: all people have the same parts inside and the same needs. Sneha is right that Tanvi looks and talks a little differently on the outside.. *Why:* People often think that looking different means being different inside. Inside, all people share the same body parts and almost all the same genes.
+5. (mcq) In the Who Said Hello? voice test, why were whispers harder to guess than talking?  
    Options: A whisper has no buzz from the voice box, so voices sound more alike / Whispers come from further away / People change their names when they whisper  
    **Answer:** A whisper has no buzz from the voice box, so voices sound more alike. *Why:* When we talk, the voice box in our throat buzzes, and each person's buzz is a little different. A whisper is only breath, so whispers sound more alike.
 6. (truefalse) Babies only a few hours old already like sweet tastes.  
@@ -431,15 +431,15 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
    **Answer:** A plate with several different snacks and a name next to each.. *Why:* A strong plate has different tastes, sweet, sour and salty, so that each person finds something they like.
 9. (sort) Sort these into two groups: things all people share, and things that are only yours.  
    **Answer:** having bones → All people share; the lines on your fingertips → Only yours; needing water → All people share; your favourite colour → Only yours; laughing when something is funny → All people share; your favourite song → Only yours. *Why:* All people have bones, need water and laugh. Your fingerprints are yours alone, and so are your favourite colour and song.
-10. (mcq) In the story, Kavya said 'Yuck' about Bornali's sour fish curry. What would have been a kind thing to say?  
+10. (mcq) A new friend opens her lunch box. Inside is a sour fish curry that smells strange to you. What would be a kind thing to say?  
    Options: 'That smells funny.' / 'What is it called? Can I smell it?' / 'Throw it away.'  
-   **Answer:** 'What is it called? Can I smell it?'. *Why:* Asking about Bornali's food is kind. It shows Kavya wants to know her. Saying 'Yuck' made Bornali feel sad.
+   **Answer:** 'What is it called? Can I smell it?'. *Why:* Asking about her food is kind. It shows you want to know her. Saying 'Yuck' could make her feel sad and left out.
 11. (write) Ask a grown-up: is there a food you did not like as a child, but like now? Say what they told you, and a grown-up writes it down.  
    **Answer:** Amma did not like coffee as a child, but she likes coffee now.. *Why:* A strong answer reports a real food. Many people learn to like bitter or sour foods as they grow and eat them again and again.
 12. (label) Here is a drawing of a child. Label the parts that every person has: eyes, ears, nose, mouth, hands.  
    **Answer:** ['eyes', 'ears', 'nose', 'mouth', 'hands']. *Why:* Every person has these body parts. This is one of the ways all people are similar.
 13. (mcq) In 1931, a scientist called Arthur Fox tasted nothing in a white powder. A man working next to him said the same powder was very bitter. What did this show?  
-   Options: The friend was making it up / The same powder can taste different to different people / The powder had no taste for anyone  
+   Options: The other man was making it up / The same powder can taste different to different people / The powder had no taste for anyone  
    **Answer:** The same powder can taste different to different people. *Why:* Fox gave the powder to many people. Some found it bitter, and some tasted nothing. The same thing can taste different to different people.
 
 ## Videos
@@ -451,21 +451,21 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 1. (mcq) Which one is true for every person?  
    Options: They have curly hair / They need food / They like karela  
    **Answer:** They need food. *Why:* Every person needs food to live and grow. Hair and liking karela are different from person to person.
-2. (mcq) Riya and her brother Sai both have two ears. Riya is tall and Sai is short. Which is a way they are different?  
+2. (mcq) A sister and her brother both have two ears. The sister is tall and the brother is short. Which is a way they are different?  
    Options: Their ears / How tall they are / That they both need sleep  
-   **Answer:** How tall they are. *Why:* Riya is tall and Sai is short, so their height is different. They are similar in having two ears and needing sleep.
+   **Answer:** How tall they are. *Why:* The sister is tall and the brother is short, so their height is different. They are similar in having two ears and needing sleep.
 3. (mcq) Anu says mango is the best fruit. Her friend Joy says guava is the best. Who is right?  
    Options: Only Anu / Only Joy / Both: people like different things  
    **Answer:** Both: people like different things. *Why:* A favourite fruit is about what each person likes, so both can be right. People like different things.
-4. (mcq) In a taste test, Paati gave karela a thumbs up and Divya, aged 6, gave a thumbs down. They ate the same karela. Why were the thumbs different?  
-   Options: One of them is wrong / The same food can taste different to different people / Paati ate a sweeter piece  
-   **Answer:** The same food can taste different to different people. *Why:* The karela was the same. Each person's tongue, and the foods they are used to, are different. So neither Paati nor Divya is wrong.
+4. (mcq) In a taste test, a grandmother gave karela a thumbs up and her grandchild, aged 6, gave a thumbs down. They ate the same karela. Why were the thumbs different?  
+   Options: One of them is wrong / The same food can taste different to different people / The grandmother ate a sweeter piece  
+   **Answer:** The same food can taste different to different people. *Why:* The karela was the same. Each person's tongue, and the foods they are used to, are different. So neither of them is wrong.
 5. (mcq) What taste does karela have?  
    Options: Sweet / Sour / Bitter  
    **Answer:** Bitter. *Why:* Karela is bitter. Some people find the bitter taste very strong, and others hardly mind it.
 6. (mcq) Which kind of food do nearly all people like, even new babies?  
    Options: A sweet food, like jaggery / A bitter food, like karela / A sour food, like lime  
-   **Answer:** A sweet food, like jaggery. *Why:* People are born liking sweet tastes. Bitter and sour foods get more mixed thumbs.
+   **Answer:** A sweet food, like jaggery. *Why:* People are born liking sweet tastes. Some people like bitter and sour foods, and some do not.
 7. (mcq) On her first day, a new girl sits alone at lunch. What is a kind thing to do?  
    Options: Sit with her and ask her name / Point at her food / Pretend not to see her  
    **Answer:** Sit with her and ask her name. *Why:* Sitting with her and asking her name helps her feel welcome. Being kind means helping someone feel better.
@@ -475,7 +475,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 9. (mcq) Which other animals have scientists seen helping each other?  
    Options: Elephants and rats / No animals at all / Only people  
    **Answer:** Elephants and rats. *Why:* Elephants soothe other elephants who are upset, and rats free other rats who are shut in. People are animals too, and we help each other as well.
-10. (mcq) In the voice test, why are the speakers' names written in a mixed-up order?  
+10. (mcq) In the Who Said Hello? voice test, why are the speakers' names written in a mixed-up order?  
    Options: So the child cannot guess from the order / To make it noisy / So people get tired  
    **Answer:** So the child cannot guess from the order. *Why:* If people spoke in the same order each time, the child could guess from the order and not the voice. Mixing it up makes the test fair.
 11. (mcq) What does a scientist do before a test?  
@@ -492,7 +492,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 ## Spotted around us
 - A banana-leaf meal at a wedding in Kerala, with sweet payasam, sour pickle, salty chips and bitter pavakka thoran side by side.
 - A school lunch break, where every child's tiffin has a different food from a different home.
-- A family photo from a festival like Onam, Eid or Durga Puja, where everyone has the same kind of face, but no two faces are alike.
+- A family photo from a festival like Onam, Eid or Durga Puja, where everyone has two eyes, a nose and a mouth, but no two faces are alike.
 - A crow at the window cawing loudly when another crow is in trouble, and other crows flying in.
 - A metro or bus seat marked for older people, people with babies and people who need help.
 
@@ -522,8 +522,8 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 
 ## Connected maths
 - In a favourite fruit tally, 4 people chose mango, 2 chose banana and 3 chose guava. Which fruit was chosen most? **Mango, with 4.**. 4 is more than 3, and 3 is more than 2. So mango was chosen most. But 5 people chose banana or guava, so not everyone likes mango best. (queues `math.data.sorting-and-tallies.L1`)
-- In the taste test, 5 people tasted the jaggery. 5 gave thumbs up. Then 5 people tasted the karela, and only 2 gave thumbs up. How many fewer thumbs up did the karela get? **3 fewer.**. Start at 2 and count on to 5: 3, 4, 5. That is 3. The karela got 3 fewer thumbs up than the jaggery. Sweet tastes are liked by almost everyone, and bitter ones are not. (queues `math.addition-subtraction.meaning.L1`)
-- Meera, aged 6, had 3 people at home for the voice test. She guessed all 3 right when they talked, and 1 right when they whispered. Which way was harder? Guess what might happen with 6 people. **Whispering was harder. With 6 people she would probably get fewer right when they whisper.**. 3 right is more than 1 right, so talking was easier. With more people there are more voices to mix up. (queues `math.number-sense.comparing-ordering.L1`)
+- In the taste test, 5 people tasted the jaggery. All 5 gave a thumbs up. Then the 5 people tasted the karela, and only 2 gave a thumbs up. How many fewer thumbs up did the karela get? **3 fewer.**. Start at 2 and count on to 5: 3, 4, 5. That is 3. The karela got 3 fewer thumbs up than the jaggery. Sweet tastes are liked by almost everyone, and bitter ones are not. (queues `math.addition-subtraction.meaning.L1`)
+- A child aged 6 had 3 people at home for the Who Said Hello? voice test. The child guessed all 3 right when they talked, and 1 right when they whispered. Which way was harder? Guess what might happen with 6 people. **Whispering was harder. With 6 people the child would probably get fewer right when they whisper.**. 3 right is more than 1 right, so talking was easier. With more people there are more voices to mix up. (queues `math.number-sense.comparing-ordering.L1`)
 
 ## Song
 Like Me, Not Like Me (sci.me-and-others.L1): Topic-level song for Me and others L1

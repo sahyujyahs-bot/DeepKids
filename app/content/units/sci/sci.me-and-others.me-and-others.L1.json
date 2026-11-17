@@ -95,7 +95,7 @@
    "description": "Scientists agree that two things matter. One is the body you were born with. The other is what you have eaten since you were very small. They are still finding out how much each one counts.",
    "examples": [
     "A child who has eaten idli every morning may love idli all their life.",
-    "Some families have several people who all find bitter foods very strong."
+    "In some families, many people find bitter foods very strong. This is partly because their tongues are alike."
    ],
    "perspectives": [
     {
@@ -104,7 +104,7 @@
     },
     {
      "who": "Scientists who study babies and food",
-     "explanation": "A child often comes to like the foods they eat again and again from a very young age. Even foods the mother ate before the baby was born can matter."
+     "explanation": "A child often comes to like the foods they eat again and again from a very young age. Even the foods a mother ate before her baby was born can change what the baby likes."
     }
    ],
    "context": "This card is about a question scientists are still working on.",
@@ -116,9 +116,9 @@
    "definition": "Being kind means helping someone, or doing something that makes them feel better.",
    "description": "Other people may like different things from you, so you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. People are not the only animals who are kind. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.",
    "examples": [
-    "Asking a new child to play with you.",
-    "Bringing water for a tired grown-up.",
-    "Waiting for a slower friend on a walk."
+    "You ask a new child to play with you.",
+    "You bring water for a tired grown-up.",
+    "You wait for a slower friend on a walk."
    ],
    "perspectives": [],
    "context": "This card is about kindness, in people and in other animals.",
@@ -146,7 +146,7 @@
    "for": "When a food tastes good to us, the taste seems to be in the food itself.",
    "against": "In a taste test, people eating the very same food make different faces. Each person's tongue and body are a little different, and so is what they are used to eating.",
    "status": "rejected",
-   "context": "This card is about a common mistake: that a taste is the same for everyone."
+   "context": "When we love a food, the good taste seems to be in the food itself. So we expect everyone to love it too. Is that true?"
   },
   {
    "claim": "People who look different from us must be very different inside.",
@@ -154,7 +154,7 @@
    "for": "We notice skin colour, hair and clothes first, because we can see them.",
    "against": "Inside, all people have the same heart, lungs, blood and bones. Scientists who read the genes of people from all over the world find that we share almost all of our genes.",
    "status": "rejected",
-   "context": "This card is about the idea that looking different means being different inside."
+   "context": "We see skin colour, hair and clothes first. Does looking different from us mean being different inside?"
   },
   {
    "claim": "Only people can be kind.",
@@ -162,7 +162,7 @@
    "for": "We can talk about kindness, and other animals cannot tell us what they feel.",
    "against": "In 2011, Inbal Ben-Ami Bartal and her team in the USA found that rats free other rats who are shut in a small tube. When the rats were also given chocolate, many of them shared the chocolate with the rat they had freed. Elephants soothe other elephants who are upset. Many animals help each other.",
    "status": "rejected",
-   "context": "This card is about whether other animals are kind too."
+   "context": "People can tell each other that they are being kind. Other animals cannot tell us what they feel. Can only people be kind?"
   }
  ],
  "big_questions": [
@@ -1459,20 +1459,20 @@
     },
     {
      "t": "perspective",
-     "p": "The second child and her brother the first child are eating dinner in Madurai. Karela is on the table.",
+     "p": "Revathi, aged 7, and her brother Vikram, aged 5, are eating dinner in Madurai. Karela is on the table.",
      "views": [
       {
-       "who": "The first child, aged 5",
+       "who": "Vikram, aged 5",
        "says": "Karela is yucky. Nobody should eat karela."
       },
       {
-       "who": "The second child, aged 7",
-       "says": "I like karela. The first child just likes different tastes from me."
+       "who": "Revathi, aged 7",
+       "says": "I like karela. Vikram just likes different tastes from me."
       }
      ],
-     "ask": "Who do you agree with? Why? Then say one thing the first child has right.",
+     "ask": "Who do you agree with? Why? Then say one thing Vikram has right.",
      "lines": 3,
-     "a": "A strong answer agrees with the second child: the same karela tastes different to different people, so neither of them is wrong. The first child is right that karela is very bitter, and for him it really does taste yucky.",
+     "a": "A strong answer agrees with Revathi: the same karela tastes different to different people, so neither of them is wrong. Vikram is right that karela is very bitter, and for him it really does taste yucky.",
      "why": "Many children think that if they dislike a food, the food is bad for everyone. The Same Food, Different Faces taste test shows that the same food can taste different to each person."
     },
     {
@@ -1549,20 +1549,20 @@
     },
     {
      "t": "perspective",
-     "p": "The first child lives in Pune. Her new friend the second child has just moved there from Kolkata.",
+     "p": "Sneha, aged 6, lives in Pune. Her new friend Tanvi, aged 6, has just moved there from Kolkata.",
      "views": [
       {
-       "who": "The first child, aged 6",
-       "says": "The second child looks different from me and talks differently, so she must be very different inside."
+       "who": "Sneha, aged 6",
+       "says": "Tanvi looks different from me and talks differently, so she must be very different inside."
       },
       {
-       "who": "The second child, aged 6",
+       "who": "Tanvi, aged 6",
        "says": "Inside, we both have a heart, lungs and bones, and we both like to play. We are very similar."
       }
      ],
-     "ask": "Who do you agree with? Why? Then say one thing the first child has right.",
+     "ask": "Who do you agree with? Why? Then say one thing Sneha has right.",
      "lines": 3,
-     "a": "A strong answer agrees with the second child: all people have the same parts inside and the same needs. The first child is right that the second child looks and talks a little differently on the outside.",
+     "a": "A strong answer agrees with Tanvi: all people have the same parts inside and the same needs. Sneha is right that Tanvi looks and talks a little differently on the outside.",
      "why": "People often think that looking different means being different inside. Inside, all people share the same body parts and almost all the same genes."
     },
     {
@@ -2161,7 +2161,7 @@
   "ask": [
    "A friend says 'yuck' to a food you love. What could you say or do?",
    "What would be lost if everyone liked exactly the same things?",
-   "Who is someone different from you that you would like to know better?"
+   "A new friend brings a food you have never seen. What could you ask, instead of saying 'yuck'?"
   ],
   "art": "A girl with her eyes closed, a small piece of jaggery on her tongue, and her grandmother beside her, also tasting, both smiling in their own way."
  },

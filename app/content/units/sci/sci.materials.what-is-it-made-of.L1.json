@@ -70,7 +70,7 @@
    "definition": "A material is what a thing is made of. Wood, metal, plastic, glass, fabric and paper are six materials.",
    "description": "Every thing you can touch is made of a material. A chair might be made of wood. A tumbler might be made of steel, which is a metal. There are more materials than these six. Clay, stone, rubber and leather are materials too. Even you are made of materials, like bone, skin and hair.",
    "examples": [
-    "In the kitchen: a steel kadai, a glass jar, a plastic dabba, a wooden ladle, a cotton towel and a paper bag.",
+    "In a kitchen you can find a steel kadai, a glass jar, a plastic dabba, a wooden ladle, a cotton towel and a paper bag.",
     "A clay diya for Karthigai Deepam is made of clay, another material.",
     "Your rubber chappal is made of rubber."
    ],
@@ -142,7 +142,7 @@
    "for": "Names like 'paper cup' tell us the main material, and they are useful.",
    "against": "A paper cup has a thin plastic skin inside. A steel almirah has a glass mirror, a plastic handle and a metal lock. Most things are made of several materials.",
    "status": "rejected",
-   "context": "This card is about the names we give things."
+   "context": "We say 'a paper cup' or 'a steel almirah'. The name gives one material. Is that the only material in the thing?"
   },
   {
    "claim": "Paper can only be made from trees.",
@@ -150,7 +150,7 @@
    "for": "Most paper in shops is made from wood from trees.",
    "against": "Paper can be made from any plant threads. Long ago, paper was made from rags, bark and old fishing nets. Paper in India is also made from bamboo and from sugarcane waste.",
    "status": "rejected",
-   "context": "This card is about what paper is made from."
+   "context": "Most paper in shops is made from the wood of trees. Paper can also be made from other plants. Can paper be made only from trees?"
   },
   {
    "claim": "Plastic lasts forever.",
@@ -158,7 +158,7 @@
    "for": "A plastic bag can stay in the ground or the sea for a very long time, maybe hundreds of years.",
    "against": "Sunlight slowly breaks plastic into tiny pieces. In 2016, scientists in Japan found bacteria that can slowly eat one kind of plastic, the kind used for water bottles.",
    "status": "debated",
-   "context": "This card is about how long plastic lasts."
+   "context": "A plastic bag does not rot like a banana peel. Does that mean plastic lasts forever?"
   }
  ],
  "big_questions": [
@@ -878,7 +878,7 @@
      "qty": 1
     },
     {
-     "item": "a jute bag, a towel or a woven mat",
+     "item": "a cotton towel",
      "qty": 1
     },
     {
@@ -1470,20 +1470,20 @@
     },
     {
      "t": "perspective",
-     "p": "The second child and her brother the first child are looking at a pencil.",
+     "p": "Divya, aged 7, and her brother Rahul, aged 6, are looking at a pencil.",
      "views": [
       {
-       "who": "The first child, aged 6",
+       "who": "Rahul, aged 6",
        "says": "A pencil is made of wood. Look, it is brown."
       },
       {
-       "who": "The second child, aged 7",
+       "who": "Divya, aged 7",
        "says": "A pencil is made of many materials. The middle is grey, and there is paint and a rubber."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other one has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason. For the second child: the grey middle is graphite, not wood, and the rubber is rubber. For the first child: most of a pencil is wood, so he named the main material.",
+     "a": "A strong answer picks a side with a reason. For Divya: the grey middle is graphite, not wood, and the rubber is rubber. For Rahul: most of a pencil is wood, so he named the main material.",
      "why": "Both are partly right. Most of a pencil is wood, but a pencil is made of several materials. Looking at every part tells you the whole answer."
     },
     {
@@ -2080,13 +2080,13 @@
   "practice": {
    "title": "Two spoons, eyes closed",
    "mins": 3,
-   "say": "Close your eyes. I will put a spoon in each of your hands. One is steel and one is wood. Hold them still. Which one feels cooler? Now tap each one gently on the table, and listen. Which one rings? Open your eyes. Were you right? One spoon came from a rock and one from a tree.",
+   "say": "Close your eyes. I will put a spoon in each of your hands. One is steel and one is wood. Hold them still. Which one feels cooler? Now tap each one gently on the table, and listen. Which one rings? Open your eyes. Were you right? The steel spoon feels cooler and rings. The wooden spoon feels warmer and goes tok. The steel came from a rock, and the wood came from a tree.",
    "kid": "Close your eyes. Hold one spoon in each hand. Which feels cooler? Tap each one. Which one rings? Now open your eyes."
   },
   "ask": [
    "Which part of your body feels hard like wood, and which part feels soft like cloth?",
    "If a thing is made of two materials, like a paper cup, which material is it really?",
-   "The scientist Jagadish Chandra Bose said a metal can get tired, like a muscle. What test could you try on a steel spoon?"
+   "The paper cup is paper outside and plastic inside. What job does the paper do, and what job does the plastic do?"
   ],
   "art": "A girl with her eyes closed holding a steel spoon in one hand and a wooden spoon in the other, with a faint tree behind the wooden spoon and a faint rock behind the steel one."
  },
