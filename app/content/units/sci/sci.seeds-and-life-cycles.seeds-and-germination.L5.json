@@ -7,7 +7,7 @@
   "art": "Two steel plates side by side on wet cloths: one with green moong seeds that all have white roots, one with dark, soft moong seeds and no roots, and a freezer door open behind them."
  },
  "intro": {
-  "hook": "A scientist in the United States was given a lotus seed from a dry lake bed in China. The seed was about 1,300 years old. She filed a small cut in the hard coat and put the seed in water. Within a few days the seed had a green shoot. How can a seed stay alive for 1,300 years?",
+  "hook": "A scientist in the United States worked on a lotus seed from a dry lake bed in China. The seed was about 1,300 years old. She filed a small cut in the hard coat and put the seed in water. Soon the seed had a green shoot. How can a seed stay alive for 1,300 years?",
   "text": "The scientist was Jane Shen-Miller, and she reported the lotus seed in 1995. The seed had done almost nothing for all those years. They had not grown, and they had hardly used any food. Then water reached the young plant inside, and the seed germinated like a seed from last year. In this unit you find out what keeps a dry seed alive. You put dry seeds and soaked seeds in the freezer. You dry seeds again after they have started to wake. Then you see how seed banks use the same science to keep seeds safe.",
   "art": "A dark brown, oval lotus seed with a small filed cut in the coat, lying in a shallow dish of water with a short green shoot coming out."
  },
@@ -217,12 +217,12 @@
    "status": "idea",
    "description": "Nobody knows the longest time a seed can stay alive. The answer is different for every kind of seed, and for every place the seed is kept. In ordinary kitchen storage, onion seeds last a year or two, and moong lasts several years. The oldest seeds known to have germinated were kept dry or sealed by nature. A date palm seed about 2,000 years old, from the desert fortress of Masada, germinated in 2005. A lotus seed about 1,300 years old, from a dry lake bed in China, germinated in the 1990s. Seeds die in the end because damage slowly builds up, even in the glassy state. The instructions in their DNA break in places, and the cell membranes become leaky. A waking seed repairs this damage in the first hours. When there is too much damage to repair, the seed can no longer germinate.",
    "examples": [
-    "Moth mullein seeds buried in a bottle in 1879 still germinated in 2021, after 142 years.",
+    "Moth mullein seeds buried in a bottle in 1879 still germinated in 2021, after more than 140 years.",
     "Lotus seedlings grown from very old seeds sometimes had odd leaves, a sign of old damage.",
-    "Mango and jackfruit seeds die within weeks, because they cannot survive drying at all."
+    "Mango and jackfruit seeds die quickly, because they cannot survive drying at all."
    ],
    "perspectives": [],
-   "art": "A long timeline with three seeds on it: a small mullein seed at 142 years, a lotus seed at 1,300 years and a date seed at 2,000 years."
+   "art": "A long timeline with three seeds on it: a small mullein seed at about 140 years, a lotus seed at 1,300 years and a date seed at 2,000 years."
   },
   {
    "concept": "How a seed bank keeps seeds alive",
@@ -632,7 +632,7 @@
        "b": "WAIT. Dry and frozen, the seeds age very slowly."
       },
       {
-       "f": "Moth mullein seeds lie in a buried bottle of sand for 142 years. Then they are spread on wet soil in the light.",
+       "f": "Moth mullein seeds lie in a buried bottle of sand for more than 140 years. Then they are spread on wet soil in the light.",
        "b": "WAKE. This happened in 2021, in a test begun in 1879."
       },
       {
@@ -3019,22 +3019,20 @@
    "check": "This address is the one already used and confirmed in the Class 4 unit on seeds. A parent should preview it. Pause when the root first appears and ask what will come next."
   },
   {
-   "title": "Inside a seed bank: how seeds are dried, sealed, frozen and tested",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "The Present: Inside the world’s largest seed bank",
+   "channel": "Royal Botanic Gardens, Kew",
+   "youtube": "xs2O4DQ95qs",
    "mins": 5,
    "why": "To see the drying room, the sealed packets, the cold store and a germination test in a real seed bank.",
-   "check": "No address yet. Look for a film from the Millennium Seed Bank at Kew, the Crop Trust or the Svalbard Global Seed Vault. Check that it shows seeds being dried before freezing, and a germination test."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Digging up a bottle from the Beal seed experiment in 2021",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Spartan scientists unearth Beal Seed Experiment",
+   "channel": "Michigan State University",
+   "youtube": "Xw8MCFGsGCE",
    "mins": 4,
    "why": "To see scientists dig up a bottle of seeds buried in 1879 and sow the seeds.",
-   "check": "No address yet. Look for a short film from Michigan State University about the 2021 dig. Check that it says the bottles were buried in 1879 and that some seeds germinated."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -3213,8 +3211,8 @@
   },
   {
    "problem": "William Beal buried bottles of seeds in 1879. One bottle was opened in 2021, and the last is due in 2100. How long was each wait? How old will a child born in 2016 be in 2100?",
-   "answer": "142 years and 221 years. The child will be 84.",
-   "explain": "2021 minus 1879 is 142. 2100 minus 1879 is 221. 2100 minus 2016 is 84.",
+   "answer": "About 140 years and 221 years. The child will be 84.",
+   "explain": "2021 minus 1879 is 142, which is about 140. 2100 minus 1879 is 221. 2100 minus 2016 is 84.",
    "math_unit": "math.time.duration.L5",
    "context": "This is about the buried bottle test. A botanist buried bottles of weed seeds in 1879. Every few years, people dig up one bottle and see whether the seeds still germinate.",
    "why_maths": "Subtracting years shows how far this test runs beyond one human life. That is why each scientist must hand the test on to the next."
@@ -3540,7 +3538,7 @@
   "science": [
    "Shen-Miller J., Mudgett M. B., Schopf J. W., Clarke S., Berger R. (1995). Exceptional seed longevity and robust growth: ancient sacred lotus from China. American Journal of Botany 82: 1367-1380.",
    "Sallon S., Solowey E., Cohen Y., Korchinsky R., Egli M., Woodhatch I., Simchoni O., Kislev M. (2008). Germination, genetics, and growth of an ancient date seed. Science 320: 1464.",
-   "Telewski F. W., Zeevaart J. A. D. (2002). The 120-yr period for Dr. Beal's seed viability experiment. American Journal of Botany 89: 1285-1288. The 2021 bottle was reported by Michigan State University.",
+   "Telewski F. W., Zeevaart J. A. D. (2002). The 120-yr period for Dr. Beal's seed viability experiment. American Journal of Botany 89: 1285-1288. The 2021 bottle: Fleming M. B. and colleagues (2023), The 141-year period for Dr. Beal's seed viability experiment: a hybrid surprise, American Journal of Botany.",
    "Roberts E. H. (1973). Predicting the storage life of seeds. Seed Science and Technology 1: 499-514. The source of the split between seeds that can be dried and seeds that cannot.",
    "Harrington J. F. (1972). Seed storage and longevity. In Kozlowski T. T. (ed.), Seed Biology, volume 3. Academic Press. Drier and colder seeds live longer.",
    "Williams R. J., Leopold A. C. (1989). The glassy state in corn embryos. Plant Physiology 89: 977-981.",
@@ -3550,14 +3548,14 @@
    "Keilin D. (1959). The problem of anabiosis or latent life: history and current concept. Proceedings of the Royal Society B 150: 149-191. The source of the word cryptobiosis.",
    "Tepfer D., Zalar A., Leach S. (2012). Survival of plant seeds, their UV screens, and nptII DNA for 18 months outside the International Space Station. Astrobiology 12: 517-528.",
    "Harris D., Joshi A., Khan P. A., Gothkar P., Sodhi P. S. (1999). On-farm seed priming in semi-arid tropical India. Experimental Agriculture 35: 15-29.",
-   "Indian Minimum Seed Certification Standards (Government of India): minimum germination of 75 percent for green gram (moong)."
+   "Indian Minimum Seed Certification Standards (Government of India): minimum germination of 75 percent for green gram (moong). The 75 percent figure was checked on the Tamil Nadu Agricultural University seed certification page."
   ]
  },
  "how_we_found_out": {
   "context": "How did people find out how long a seed can stay alive? This card tells the true story, including a claim that turned out to be wrong.",
-  "story": "In the 1800s, many people in Europe believed that wheat from ancient Egyptian tombs had been sown and had grown. The grain was said to be 3,000 years old, and sellers offered 'mummy wheat' for gardens. Botanists then tested grain that truly came from tombs. Not one grain germinated. The grain was brown and brittle, and the embryos were dead. So how long can a seed really live? In 1879, William James Beal began a test to find out. He was a botanist at a college in Michigan in the United States. He filled 20 glass bottles with slightly damp sand. Into each bottle he mixed 50 seeds from each of 21 kinds of common weeds. He buried the bottles with their open mouths tilted down, so that rain could not fill them. Every few years a bottle was dug up and the seeds were sown. Beal knew the test would outlast him. In 2021, a team dug up a bottle after 142 years, and seeds of moth mullein still germinated. The last bottle is due to be opened in 2100.",
+  "story": "In the 1800s, many people in Europe believed that wheat from ancient Egyptian tombs had been sown and had grown. The grain was said to be 3,000 years old, and sellers offered 'mummy wheat' for gardens. Botanists then tested grain that truly came from tombs. Not one grain germinated. The grain was brown and brittle, and the embryos were dead. So how long can a seed really live? In 1879, William James Beal began a test to find out. He was a botanist at a college in Michigan in the United States. He filled 20 glass bottles with slightly damp sand. Into each bottle he mixed 50 seeds from each of 21 kinds of plants, nearly all common weeds. He buried the bottles with their open mouths tilted down, so that rain could not fill them. Every few years a bottle was dug up and the seeds were sown. Beal knew the test would outlast him. In 2021, a team dug up a bottle after more than 140 years, and seeds of moth mullein still germinated. The last bottle is due to be opened in 2100.",
   "who": "William James Beal, an American botanist, and the scientists at Michigan State University who have carried on his test",
-  "when": "The bottles were buried in 1879. A bottle was opened in 2021, after 142 years. The last one is due in 2100.",
+  "when": "The bottles were buried in 1879. A bottle was opened in 2021, after more than 140 years. The last one is due in 2100.",
   "wrong_idea": "That wheat from Egyptian tombs, about 3,000 years old, could still grow. Tests on real tomb grain showed that it was dead. Beal's buried bottles then measured how long seeds really live, with seeds whose age was known.",
   "art": "A man in nineteenth-century clothes kneeling by a hole in a lawn, placing a glass bottle of sand in the ground with its open mouth tilted downwards."
  },
@@ -3622,5 +3620,5 @@
   ],
   "art": "A child sitting cross-legged with one closed fist held in her lap and her eyes shut, and a faint drawing of a tall plant rising from the fist."
  },
- "playtest": "Read through step by step as a parent and child in a city flat would use it. The experiments were reasoned through carefully but have not been tried at home. Please treat the expected results as likely and not certain. The Freezer Test (core) needs 80 whole moong, four plates, cloths and a freezer. Dry moong should germinate almost fully after a night in the freezer, and soaked moong should not. If the freezer is weak or the soaked seeds sat in a thick heap, a few soaked seeds may live. No Going Back (core) needs 65 moong and a fan or an airy shelf. Seeds dried before a root shows should grow again. Seeds dried with a root of about 1 centimetre should mostly fail, though a few may grow a new root. In damp monsoon weather the drying takes a day longer. Three Jars, Three Weeks needs three jars with tight lids. The damp jar usually grows mould, so a grown-up opens the jar by a window. In a cool room the seeds in damp air die more slowly. The project then needs four or five weeks. If water drips onto the pouch, some seeds may sprout inside the jar. The step says to write that down. The Rag Doll Test works with any whole seeds, and chana and lobia need one more day. Four Days, Four Drawings (core) needs 8 kabuli chana. Read the Five Jars (core) needs only a pencil, and its table is made up. Scoop and Guess (core) needs 45 rajma and 25 kabuli chana, and one child can play it alone. The Power Cut needs three ice cubes. In a cool room the bare cube may take longer than 90 minutes to melt. Nothing needs a garden. Facts to treat with care: the ages of the lotus seed (about 1,300 years) and the date seed (about 2,000 years) come from carbon dating and are rounded. The numbers of samples at Svalbard and at India's National Genebank grow every year. The Bible, Upanishad and Tao Te Ching passages are paraphrases. Two of the three videos have no address yet."
+ "playtest": "Read through step by step as a parent and child in a city flat would use it. The experiments were reasoned through carefully but have not been tried at home. Please treat the expected results as likely and not certain. The Freezer Test (core) needs 80 whole moong, four plates, cloths and a freezer. Dry moong should germinate almost fully after a night in the freezer, and soaked moong should not. If the freezer is weak or the soaked seeds sat in a thick heap, a few soaked seeds may live. No Going Back (core) needs 65 moong and a fan or an airy shelf. Seeds dried before a root shows should grow again. Seeds dried with a root of about 1 centimetre should mostly fail, though a few may grow a new root. In damp monsoon weather the drying takes a day longer. Three Jars, Three Weeks needs three jars with tight lids. The damp jar usually grows mould, so a grown-up opens the jar by a window. In a cool room the seeds in damp air die more slowly. The project then needs four or five weeks. If water drips onto the pouch, some seeds may sprout inside the jar. The step says to write that down. The Rag Doll Test works with any whole seeds, and chana and lobia need one more day. Four Days, Four Drawings (core) needs 8 kabuli chana. Read the Five Jars (core) needs only a pencil, and its table is made up. Scoop and Guess (core) needs 45 rajma and 25 kabuli chana, and one child can play it alone. The Power Cut needs three ice cubes. In a cool room the bare cube may take longer than 90 minutes to melt. Nothing needs a garden. Facts checked on 17 Nov 2026 against scholarly and official sources: the lotus and date seed ages and papers, Beal's bottles, Svalbard, the FAO 85 percent rule, the moong 75 percent standard, Keilin, the space station test, and the Genebank and Kew counts. Softened: the Beal wait is now 'more than 140 years' because sources give 141 or 142, and the lotus story no longer says who gave her the seed or the number of days. The seed-bank sample counts grow every year, and the Bible, Upanishad and Tao Te Ching passages are paraphrases. Two of the three videos have no address yet."
 }
