@@ -171,9 +171,9 @@ We know space can stretch, squeeze and ripple. We have measured it. But what is 
 ## Roots
 We have found that equal pulls give equal stretches, until a spring is pulled too far and stays long. Now we ask what that tells us about the shapes of things, and about ourselves.
 
-**Deep truth.** After a hard pull, your pen spring rested at a new, longer length, and sprang back to that. Nothing outside was stretching it. Its atoms push and pull on each other all the time, and its length is where those forces balance. So a spring lying still is full of forces that cancel out.  
-*Habit it breaks:* We think a thing lying still has no forces in it, and that its length is simply fixed. The pen spring settled at a new length by itself, so something inside it must set its length.  
-*Evidence:* In the coin test experiment, the pen spring came back from small pulls. After a big pull it rested at a new, longer length, and from then on it sprang back to that length.
+**Deep truth.** A spring lying still is not doing nothing. Its tiny atoms are always pushing and pulling on each other. The pushes and pulls are equal, so they cancel out and the spring stays still. Pull the spring longer and the atoms pull back harder, so it springs back.  
+*Habit it breaks:* We think a thing lying still has no forces in it. But a spring that stays still has pushes and pulls inside it, and they are exactly balanced.  
+*Evidence:* In the coin test, small pulls on the pen spring always sprang back to its first length. Something inside the spring pulled it back every time. A very hard pull left it a little longer than before.
 
 - *who am i:* Your body keeps its shape the same way a spring does. Your tendons and skin stretch with every step, then spring back.
 - *what is life:* Living things are full of springs: tendons, spider silk, the rubbery pad in a flea's leg. They store energy when they stretch, and give most of it back for the next step or jump.
@@ -480,7 +480,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 
 ## Activities
 ### a1 · Spring Hunt (20 min)
-- **record:** Find 12 springs or elastic things. Write each one down. Next to it, write its job: to stretch, to squash, to bend or to bounce.
+- **record:** Find 12 springs or elastic things. Write each one down. Next to it, write its job: to stretch, to squash, to bend or to bounce. Then draw the find that surprised you most.
 - **s1 (2 min)**  
   *Parent does:* Explain the hunt to your child, and give them the paper and pencil.  
   *Parent says:* We're spring detectives. Springs and elastic things are hiding all over our home. Let's find 12.  
@@ -491,9 +491,9 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Child mode:* For each find, say its job. Does it stretch, squash, bend or bounce? Write it down.
   - Note: Good finds include the squash spring in a clicky pen and the twisty spring in a clothes peg. Look for stretch springs in a spring balance or a trampoline. The elastic in socks, a hair band and the springs in a cycle seat count too.
 - **s3 (3 min)**  
-  *Parent does:* Ask each person to share their best find.  
-  *Parent says:* Which find surprised you most? Which one would be a disaster if it were not elastic?  
-  *Child mode:* Which find surprised you most? Draw it.
+  *Parent does:* Ask each person to share the spring or springy thing that surprised them most. Then ask them to draw it.  
+  *Parent says:* Which of your finds surprised you most? Maybe it was something you never knew had a spring in it. Let's draw it and write one line about what it does. Which find would be a disaster if it were not elastic?  
+  *Child mode:* Pick the spring or springy thing that surprised you most. Draw it. Write one line about its job.
   - Think: Who designed these springs? Why did they choose a spring, and not something stiff?
 ### a2 · Two in a Row, Two Side by Side (20 min)
 - **record:** Write three stretches: one band, two in a chain, two side by side. A stretch is the length with coins, minus the length without coins.
@@ -541,10 +541,10 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   - Note: After your child answers: skin springs back because of a stretchy material called elastin. The beat is a blood vessel stretching each time the heart squeezes, then springing back.
   - Check: Your skin springs back after a pinch. That means skin is… → **Elastic**
 - **s4 (3 min)**  
-  *Parent does:* Tell your child about the flea.  
-  *Parent says:* A flea jumps much faster than a muscle can move. How does the flea do it? Think of a catapult.  
-  *Child mode:* A flea jumps faster than a muscle can move. How does the flea do it? Think of a catapult.
-  - Note: After their guess: the flea's muscles slowly squash a pad of a rubbery stuff called resilin, and lock it. Then the flea lets go all at once, like a catapult.
+  *Parent does:* Tell your child about the flea, then ask the question.  
+  *Parent says:* A flea jumps very fast. Its muscles are too slow to throw it that fast by themselves. So how does a flea do it? Think of a catapult. You pull the strap back slowly, hold it, and then let go all at once. What could the flea be pulling back?  
+  *Child mode:* A flea jumps faster than a muscle can move. A catapult is pulled back slowly, held, and then let go all at once. How could a flea do the same?
+  - Note: After their guess, explain the link to springs. In the flea's leg there is a small pad of a rubbery stuff called resilin. It works like a spring. The flea's muscles squash the pad slowly and lock it, so the pad stores energy, just as a stretched spring does. Then the flea lets go, and the pad springs back all at once. That quick release throws the flea into the air, faster than a muscle could move on its own. The answer to look for: the flea stores energy slowly in a springy pad and releases it all at once, like a catapult.
   - Think: If you were an animal designer, where would you put springs?
 ### a4 · Rubber Band Galaxies (15 min)
 - **safety:** A grown-up cuts the band. Keep the stretched strip away from faces.

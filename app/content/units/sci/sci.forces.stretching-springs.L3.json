@@ -2455,7 +2455,7 @@
      "what": "Hunt for springs and elastic things around your home."
     }
    ],
-   "record": "Find 12 springs or elastic things. Write each one down. Next to it, write its job: to stretch, to squash, to bend or to bounce.",
+   "record": "Find 12 springs or elastic things. Write each one down. Next to it, write its job: to stretch, to squash, to bend or to bounce. Then draw the find that surprised you most.",
    "setup": [
     {
      "art": "A child opening a clothes peg and looking at its twisty spring.",
@@ -2491,9 +2491,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Ask each person to share their best find.",
-     "say": "Which find surprised you most? Which one would be a disaster if it were not elastic?",
-     "kid": "Which find surprised you most? Draw it.",
+     "do": "Ask each person to share the spring or springy thing that surprised them most. Then ask them to draw it.",
+     "say": "Which of your finds surprised you most? Maybe it was something you never knew had a spring in it. Let's draw it and write one line about what it does. Which find would be a disaster if it were not elastic?",
+     "kid": "Pick the spring or springy thing that surprised you most. Draw it. Write one line about its job.",
      "think": "Who designed these springs? Why did they choose a spring, and not something stiff?"
     }
    ],
@@ -2686,11 +2686,11 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Tell your child about the flea.",
-     "say": "A flea jumps much faster than a muscle can move. How does the flea do it? Think of a catapult.",
-     "kid": "A flea jumps faster than a muscle can move. How does the flea do it? Think of a catapult.",
+     "do": "Tell your child about the flea, then ask the question.",
+     "say": "A flea jumps very fast. Its muscles are too slow to throw it that fast by themselves. So how does a flea do it? Think of a catapult. You pull the strap back slowly, hold it, and then let go all at once. What could the flea be pulling back?",
+     "kid": "A flea jumps faster than a muscle can move. A catapult is pulled back slowly, held, and then let go all at once. How could a flea do the same?",
      "think": "If you were an animal designer, where would you put springs?",
-     "parent": "After their guess: the flea's muscles slowly squash a pad of a rubbery stuff called resilin, and lock it. Then the flea lets go all at once, like a catapult."
+     "parent": "After their guess, explain the link to springs. In the flea's leg there is a small pad of a rubbery stuff called resilin. It works like a spring. The flea's muscles squash the pad slowly and lock it, so the pad stores energy, just as a stretched spring does. Then the flea lets go, and the pad springs back all at once. That quick release throws the flea into the air, faster than a muscle could move on its own. The answer to look for: the flea stores energy slowly in a springy pad and releases it all at once, like a catapult."
     }
    ],
    "context": "In this activity you find the springs in your own body: your tendons, your skin and the blood vessel that beats in your wrist."
