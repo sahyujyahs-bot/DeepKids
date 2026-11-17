@@ -89,9 +89,9 @@
    "definition": "A microbe is a living being too small to see with our eyes alone. Most microbes are a single cell.",
    "description": "Microbes are tiny. About a thousand bacteria in a line would just reach across a mustard seed. We cannot see one, but we can see a crowd of millions, like a spot on old food. Bacteria and tiny fungi such as yeast are microbes, and some scientists count viruses too.",
    "examples": [
-    "The bacteria that turn milk into curd.",
-    "The yeast that makes bread dough puff up.",
-    "The mould that grows fuzzy spots on an old chapati."
+    "The bacteria that turn milk into curd are microbes.",
+    "The yeast that makes bread dough puff up is a microbe.",
+    "The mould that grows fuzzy spots on an old chapati is made of microbes."
    ],
    "perspectives": [],
    "art": "A mustard seed on a fingertip, with a line of tiny bacteria drawn across the seed from one side to the other."
@@ -129,7 +129,7 @@
    "status": "defined",
    "context": "This card explains how a spoon of curd turns milk into curd.",
    "definition": "Curd bacteria eat the sugar in milk and make an acid. The acid makes the milk thick and sour. That thick, sour milk is curd.",
-   "description": "Milk has a sugar in it, though it does not taste very sweet. A spoon of curd adds millions of curd bacteria to warm milk. They eat the sugar, multiply, and make an acid, and the acid makes the milk proteins clump into soft curd. In the fridge they work slowly, so set curd keeps longer there.",
+   "description": "Milk has a sugar in it, though it does not taste very sweet. A spoon of curd adds millions of curd bacteria to warm milk. They eat the sugar, multiply, and make an acid. Milk also has protein in it. The acid makes the protein stick together in soft clumps, and the clumps are the curd. In the fridge the bacteria work slowly, so set curd keeps longer there.",
    "examples": [
     "Thayir, mosaru, perugu, dahi and doi are names for curd in different parts of India.",
     "Mishti doi in West Bengal is set with curd bacteria, after the milk is sweetened.",
@@ -155,7 +155,7 @@
     },
     {
      "who": "Many other biologists",
-     "explanation": "Microbes react to chemicals the way a thermostat reacts to heat. These are automatic responses, and calling them thinking says too much."
+     "explanation": "Microbes react to chemicals the way the thermostat in an iron box reacts to heat. The thermostat switches the heat off by itself, without any thinking. These are automatic responses, and calling them thinking says too much."
     }
    ],
    "art": "A single bacterium with a tail, swimming towards a sugar crystal, with small arrows showing the sugar spreading in the water."
@@ -220,7 +220,7 @@
    "for": "Children who grow up on farms, around animals and soil, get some allergies less often.",
    "against": "Scientists are still working out why, and which microbes matter. Washing hands with soap is still needed to keep germs away.",
    "status": "debated",
-   "context": "This card is about an idea scientists are still testing."
+   "context": "An allergy is when the body reacts strongly to something harmless, such as pollen or dust, with sneezing or a rash. This card is about an idea scientists are still testing: whether meeting many harmless microbes when young makes some allergies less likely."
   }
  ],
  "big_questions": [
@@ -849,14 +849,14 @@
      "id": "s3",
      "mins": 3,
      "do": "Count the dots together and write the number at the bottom of the map.",
-     "say": "How many dots did you put? Is there any room with no dots?",
-     "kid": "Count your dots. Write the number at the bottom.",
+     "say": "How many dots did you put? What do all those dots tell you about where microbes live?",
+     "kid": "Count your dots. Write the number at the bottom. What do the dots tell you?",
      "ask": [
       {
-       "q": "Which room has the most dots?",
+       "q": "What do all the dots on your map tell you about where microbes live?",
        "good": [
-        "The kitchen, because there is food.",
-        "The bathroom, because it is damp."
+        "Microbes live almost everywhere in our home.",
+        "Even places that look clean have microbes."
        ]
       }
      ]
@@ -1154,8 +1154,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the tally marks. Ask the last question.",
-     "say": "Which card surprised you most? Why?",
-     "kid": "Count your tally marks. Which card surprised you most?",
+     "say": "Microbes live in a cloud and in a hot spring. What does that tell us about where microbes can live?",
+     "kid": "Count your tally marks. Microbes live in clouds and hot springs. Where can microbes live?",
      "check": {
       "t": "mcq",
       "q": "Scientists found living bacteria in clouds high in the sky. What does this show?",
@@ -1166,7 +1166,16 @@
       ],
       "a": 0,
       "why": "Microbes float in the air on tiny bits of dust, and some have been found alive in clouds. Clouds are made of water drops, and microbes live in many places besides the sea."
-     }
+     },
+     "ask": [
+      {
+       "q": "Microbes live in a cloud and in a hot spring. What does that tell us about where microbes can live?",
+       "good": [
+        "Microbes can live in almost every place, even very hot or very high ones.",
+        "They live in more places than we can see."
+       ]
+      }
+     ]
     }
    ],
    "setup": [
@@ -1659,17 +1668,17 @@
      "p": "Two sisters in Hyderabad look at a potato slice with spots on it after four days in a closed box.",
      "views": [
       {
-       "who": "The first child, aged 7",
+       "who": "The sister aged 7",
        "says": "The spots came out of the potato. Old food makes spots by itself."
       },
       {
-       "who": "The second child, aged 9",
+       "who": "The sister aged 9",
        "says": "The spots came from microbes that landed on the potato. The potato was just their food."
       }
      ],
      "ask": "Which sister do you agree with more? Give a reason from the potato test. Then say one thing the other sister has right.",
      "lines": 4,
-     "a": "A strong answer agrees more with the second child and uses the test: the slice nobody touched grew the fewest spots, so the spots came from what touched the slices. The first child has something right too: the potato is the food that the microbes grew on.",
+     "a": "A strong answer agrees more with the sister aged 9 and uses the test: the slice nobody touched grew the fewest spots, so the spots came from what touched the slices. The sister aged 7 has something right too: the potato is the food that the microbes grew on.",
      "why": "The spots are colonies grown from microbes that landed on the slice. The potato only gave them food. A strong answer uses the Nobody slice as evidence."
     },
     {
@@ -1948,7 +1957,7 @@
   },
   {
    "t": "mcq",
-   "p": "Most microbes are:",
+   "p": "What are most microbes like?",
    "opts": [
     "Germs that make us ill",
     "Harmless or helpful",
@@ -2045,23 +2054,23 @@
  ],
  "spotted": [
   {
-   "text": "A katori of curd setting overnight on a kitchen shelf.",
+   "text": "Look for a katori of curd setting overnight on a kitchen shelf.",
    "art": "A steel katori covered with a plate on a kitchen shelf at night."
   },
   {
-   "text": "The earthy smell from the flower pots after watering, or when the first monsoon rain hits a dusty road.",
+   "text": "You can smell the earthy smell from flower pots after watering, or when the first monsoon rain hits a dusty road.",
    "art": "Rain falling on a dusty road in a city, with a child sniffing the air from a balcony."
   },
   {
-   "text": "Green or white fuzz on an old orange, a lemon or a piece of bread.",
+   "text": "You may see green or white fuzz on an old orange, a lemon or a piece of bread.",
    "art": "An old orange with a round patch of blue-green fuzzy mould."
   },
   {
-   "text": "Bubbles on top of idli or dosa batter in the morning.",
+   "text": "In the morning there are bubbles on top of idli or dosa batter.",
    "art": "A steel vessel of risen idli batter with tiny bubbles on top."
   },
   {
-   "text": "A slimy, dark film at the bottom of a flower vase whose water was not changed.",
+   "text": "A slimy, dark film can grow at the bottom of a flower vase whose water was not changed.",
    "art": "A glass vase with old flowers and cloudy water with a dark film at the bottom."
   }
  ],
@@ -2294,7 +2303,7 @@
   },
   "three": {
    "who_am_i": "You are one person, and you are also home to millions of tiny living beings on your skin and in your tummy.",
-   "what_is_life": "Most living beings on Earth are too small to see. Life is mostly tiny.",
+   "what_is_life": "Most living beings on Earth are too small to see. So if you count all the living beings, most of them are tiny.",
    "what_is_this_world": "Every handle, pot of soil and katori of curd around you is full of living beings."
   },
   "thread": "Microbes were the first life on Earth, and for billions of years they were all the life there was. Every plant and animal, you too, came from that tiny life. So the microbes on your hands are not strangers. They are relatives who stayed small, and they live everywhere the rest of us live.",
@@ -2316,7 +2325,7 @@
     "status": "settled"
    },
    {
-    "text": "Scientists' best count is that your body holds about as many bacteria as your own cells, most of them in your gut.",
+    "text": "Scientists have counted as well as they can. Your body holds about as many bacteria as it has cells of its own. Most of these bacteria live in your gut.",
     "status": "settled"
    }
   ],

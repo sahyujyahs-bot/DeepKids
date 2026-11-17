@@ -139,7 +139,7 @@
    "status": "defined",
    "context": "This card explains a common mistake: thinking that tails is due after many heads in a row. Many grown-ups make this mistake too.",
    "definition": "The chance of heads is the same on every toss, whatever came before. After many heads in a row, tails is not any more likely than before.",
-   "description": "Suppose you toss four heads in a row. Many people then feel sure the next toss must be tails. But nothing about the last four tosses changes how the next one spins and lands. Heads and tails still have the same chance. Over many tosses they even out because new tosses keep coming, not because tails catches up. In the same way, after five rolls with no six, a six is not 'due'. It is still about one chance in six.",
+   "description": "Suppose you toss four heads in a row. Many people then feel sure the next toss must be tails. But nothing about the last four tosses changes how the next one spins and lands. Heads and tails still have the same chance. Over many tosses, heads and tails still come out close to half each. This is not because tails catches up. It is because each new toss is half and half, so the early run of heads becomes a small part of the total. In the same way, after five rolls with no six, a six is not 'due'. It is still about one chance in six.",
    "examples": [
     "Four heads in a row, and the next toss is still half and half",
     "Waiting for a six in Ludo: it does not come sooner because you have waited",
@@ -200,7 +200,7 @@
    "for": "Over many tosses, heads and tails come out close to half each. So it feels as if tails must catch up.",
    "against": "Each toss starts fresh. After a run of heads, the next toss is still heads about half the time. The counts even out because of the many new tosses, not because tails catches up.",
    "status": "rejected",
-   "context": "This card is about a mistake so common that it has a name: the gambler's mistake."
+   "context": "Suppose a coin lands heads four times in a row. Some people feel that tails must come next, to even things out. This card asks if that is true."
   },
   {
    "claim": "Rolling a six is half and half, because a six either comes or it does not.",
@@ -208,7 +208,7 @@
    "for": "There are two things that can happen: a six, or not a six.",
    "against": "'Not a six' is five faces, and 'a six' is only one face. In the six test, not-sixes came up many more times than sixes.",
    "status": "rejected",
-   "context": "This card is about a common way of counting chances that goes wrong."
+   "context": "A die has six faces, and only one of them is a six. Some people say a six is half and half, because it either comes or it does not. This card asks if that is right."
   },
   {
    "claim": "A coin tossed by hand lands heads exactly half the time and tails exactly half the time.",
@@ -216,14 +216,14 @@
    "for": "A coin has two sides that are almost the same weight, and heads and tails come up close to half each.",
    "against": "Persi Diaconis, Susan Holmes and Richard Montgomery studied coin tosses. They said a coin tossed by hand should land on the side it started on a little more often. In 2023, a team tossed coins over 350,000 times and found that this is true: the coin landed on its starting side about 51 times in 100. The difference is tiny, too small to see in 20 tosses.",
    "status": "rejected",
-   "context": "This card is about a surprise found by tossing coins a very large number of times."
+   "context": "Most people think a coin tossed by hand lands heads exactly half the time. This card asks if that is exactly true. Scientists checked by tossing coins a very large number of times."
   }
  ],
  "big_questions": [
   {
    "q": "In the coin test, you could not guess one toss, but you could guess how many heads would come in 20 tosses. How can we know more about many tosses than about one?",
    "kind": "deep",
-   "hint": "Think of the heads row and the tails row in your coin test tally. What happened to them as they grew longer?"
+   "hint": "Think of the heads row and the tails row in your coin test tally. After 20 tosses, were the two rows close to the same length?"
   },
   {
    "q": "If someone could see exactly how fast your coin was spinning, could they say how it would land?",
@@ -344,7 +344,7 @@
      "what": "Guess ten tosses. Then toss 20 times each and tally heads and tails."
     }
    ],
-   "record": "Fill in the results table. Keep the tally sheets. Circle the person whose heads count was closest to 10.",
+   "record": "Fill in the results table. Keep the tally sheets. Then write down if each heads count was close to 10.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",

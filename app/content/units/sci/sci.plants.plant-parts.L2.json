@@ -3,7 +3,7 @@
  "title": "Plant parts we eat, and how a cactus, a lotus and a banyan use theirs",
  "level": 2,
  "summary": {
-  "text": "Put a piece of brinjal and a piece of potato in a bowl of water. The brinjal floats and the potato sinks. Every vegetable is a part of a plant: a root, a stem, a leaf, a flower, a fruit or a seed. What is inside each part shows the job it did for the plant. In this unit you sort the food in your kitchen by plant part, and test which parts float. You also meet three plants with very different parts: a cactus in a dry desert, a lotus in a pond and a huge banyan tree.",
+  "text": "Put a piece of brinjal and a piece of potato in a bowl of water. The brinjal floats and the potato sinks. Every vegetable is a part of a plant: a root, a stem, a leaf, a flower, a fruit or a seed. What is inside a part depends on the job it does for the plant. Some parts store food. Some parts hold air. In this unit you sort the food in your kitchen by plant part, and test which parts float. You also meet three plants with very different parts: a cactus in a dry desert, a lotus in a pond and a huge banyan tree.",
   "art": "A steel bowl of water with a piece of brinjal and a palak leaf floating on top, and a piece of potato and some chana lying on the bottom."
  },
  "intro": {
@@ -93,7 +93,7 @@
    "status": "defined",
    "context": "This card explains the float test, where some vegetable pieces floated and some sank.",
    "definition": "A plant part that is packed tight with stored food sinks in water. A plant part with many tiny air spaces floats.",
-   "description": "A potato, a carrot and a dry chana seed are packed with food that the plant saved for later. There is little room inside for air, so they sink. A brinjal is soft and spongy inside, with many tiny air spaces. A leaf has air spaces too, because a leaf takes in air to make food. The air helps them float. Cutting a potato into a tiny piece does not help. The tiny piece sinks too, because what is inside is the same.",
+   "description": "A potato, a carrot and a dry chana seed are packed with food that the plant saved for later. There is little room inside for air, so they sink. A brinjal is soft and spongy inside, with many tiny air spaces. A leaf has air spaces too, because a leaf takes in air to make food. The air helps them float. Cutting a potato into a tiny piece does not make it float. The tiny piece sinks too, because what is inside is the same.",
    "examples": [
     "Potato piece: sinks. It is packed with stored food.",
     "Dry chana: sinks. A seed is packed with food for the baby plant inside.",
@@ -143,7 +143,7 @@
  "agreed": [
   {
    "text": "All the plant food we eat comes from six kinds of plant part: roots, stems, leaves, flowers, fruits and seeds.",
-   "evidence": "Cut and look: a carrot grows in the soil like a root, a tomato has seeds inside like every fruit, and a dal grain sprouts like a seed."
+   "evidence": "Look at three foods. A carrot grows in the soil, as a root does. A tomato has seeds inside, as every fruit does. A dal grain can sprout into a new plant, as a seed does."
   },
   {
    "text": "Plant parts packed with stored food usually sink in water. Parts with many air spaces float.",
@@ -245,10 +245,10 @@
   ],
   "epiphany": "Whether a plant part floats or sinks does not depend on its size. It depends on what is inside it: stored food, or tiny spaces full of air.",
   "ask": [
-   "Why did Arjun think the potato sank?",
-   "How did Kavya test his idea?",
+   "Does a heavy piece of food always sink? How could you test it?",
+   "A tiny crumb of potato sinks, and a big piece of brinjal floats. What does that show?",
    "Why does a lotus stem have holes?",
-   "What did Kavya say a cactus's spines are?"
+   "What are the spines of a cactus?"
   ],
   "art": [
    "A girl and her grandmother at a kitchen sink in Madurai, a steel bowl of water with brinjal pieces floating and potato pieces at the bottom, and a small boy on a stool watching.",
@@ -711,7 +711,7 @@
    "title": "The Masala Box Hunt: plant parts in your spices",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you open the masala box and find out which plant part each spice comes from. Many spices are parts you would never guess.",
+   "context": "In this activity you open the masala box and find out which plant part each spice comes from. Some spices are parts you would not expect, such as a flower bud or the bark of a tree.",
    "materials": [
     {
      "item": "the masala box from your kitchen, or the spice jars you have",
@@ -760,10 +760,10 @@
      "kid": "Guess first. Then put each spice on its paper.",
      "ask": [
       {
-       "q": "Which spice surprised you most?",
+       "q": "Which spice in the box is a dried flower bud?",
        "good": [
-        "The clove, because it is a flower.",
-        "Cinnamon, because it is the bark of a stem."
+        "The clove. It was picked and dried before it opened.",
+        "Cloves are flowers, not seeds."
        ]
       }
      ],
@@ -905,7 +905,7 @@
      "do": "1. Ask your child to guess if a slice will float or sink, and why. 2. Drop a slice into the bowl. 3. Talk about what happened.",
      "say": "Will this slice float or sink? Why do you think so? Let's try.",
      "kid": "Will the slice float or sink? Say why. Drop it in.",
-     "parent": "The holes are air tunnels. They carry air from the leaves above the water down to the stem in the mud. A cut slice is open at both ends, so water can fill the holes, and a lotus stem also stores food. So nobody can promise what your slice will do: write down what it really did, and ask your child why."
+     "parent": "The holes are air tunnels. They carry air from the leaves above the water down to the stem in the mud. A cut slice is open at both ends, so water can fill the holes. A lotus stem also stores food. So we cannot be sure if your slice will float or sink. Write down what it really did, and ask your child why."
     }
    ]
   }
@@ -1017,7 +1017,7 @@
     "Lay the 6 part cards face up in a row. Mix the 18 food cards and put them face down in a pile.",
     "Take turns. On your turn, turn over the top food card and read the food aloud.",
     "Put the food card under the part you think it is, and say why.",
-    "Turn the card over and read the back. If you were right, keep the card in your own pile. If not, leave the card under its right part, and nobody keeps it.",
+    "Turn the card over and read the back. If you were right, keep the card in your own pile. If you were wrong, move the card under the part that is right. Nobody keeps that card.",
     "When the pile is empty, the player with the most kept cards wins. If two players tie, they share the win. Then put every card under its part and count how many cards each part has."
    ],
    "setup": [
@@ -1060,8 +1060,17 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Lay out all the cards under their parts. 2. Count each group together.",
-     "say": "Which part of the plant do we eat the most of? Let's count.",
-     "kid": "Count the cards under each part. Which has the most?"
+     "say": "Look at the cards under each part. How many foods does each part have?",
+     "kid": "Count the cards under each part. How many foods does each part have?",
+     "ask": [
+      {
+       "q": "How many foods does each part have, and what does that tell us?",
+       "good": [
+        "Each part has 3 foods.",
+        "We eat all six parts of plants, not only leaves."
+       ]
+      }
+     ]
     }
    ]
   },
@@ -1249,6 +1258,7 @@
      "do": "1. Play as the rules say. 2. After each clue, ask why that part helps the plant.",
      "say": "Listen to the clue. Hold up your answer. Why does that part help the plant?",
      "kid": "Listen to the clue. Hold up cactus, lotus or banyan.",
+     "parent": "Two clues use facts to tell your child after they guess. The leaves of a lotus are waxy, so water rolls off them in round drops. Birds eat the small red figs of a banyan and drop the seeds far away in their droppings.",
      "check": {
       "t": "mcq",
       "q": "Which plant keeps air tunnels in their stalks?",
@@ -1381,7 +1391,7 @@
    "title": "Hold Up a Long Branch, the Banyan Way",
    "mins": 20,
    "context": "This is a building challenge. You make a paper tree with one long branch. The branch droops. Then you hold it up with prop roots, the way a banyan holds up her long branches.",
-   "problem": "Make a paper branch at least 40 cm long. It must stick out sideways from an upside-down steel tumbler, which is the trunk. Hang a clothes peg on the end. The branch must not touch the table.",
+   "problem": "A banyan tree has very long branches. Roots grow down from the branches into the soil and hold them up like pillars. These roots are called prop roots. Make a paper branch at least 40 cm long. It must stick out sideways from an upside-down steel tumbler, which is the trunk. Hang a clothes peg on the end. The branch will droop. Use paper prop roots to hold it up, so it does not touch the table.",
    "constraints": [
     "Use only newspaper, sticky tape, a steel tumbler and a clothes peg.",
     "The branch must stick out sideways, not upwards.",
@@ -1454,7 +1464,16 @@
      "mins": 4,
      "do": "1. Measure how long the branch is now. 2. Count the prop roots. 3. Ask your child how they would make it even longer.",
      "say": "How long is your branch now? How many prop roots did it need? How could a banyan spread even wider?",
-     "kid": "Measure your branch. Count the roots. How could it grow longer?"
+     "kid": "Measure your branch. Count the roots. How could it grow longer?",
+     "ask": [
+      {
+       "q": "How could you make the branch longer without it touching the table?",
+       "good": [
+        "Add more prop roots.",
+        "Add thicker prop roots."
+       ]
+      }
+     ]
     }
    ]
   }
@@ -1650,7 +1669,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each plant's parts suit their home: water stored in a cactus stem, air tunnels in a lotus stalk, prop roots for a banyan's wide branches."
+     "why": "Each plant's parts suit their home. A cactus stem stores water. A lotus stalk has air tunnels. A banyan has prop roots to hold up wide branches."
     },
     {
      "t": "mcq",
@@ -1673,7 +1692,7 @@
      "t": "truefalse",
      "p": "A cactus stores water in their thick green stem, so they can live through long dry spells.",
      "a": true,
-     "why": "True. The fat stem holds water like a tank, and the spines are leaves that lose almost no water. That is why cactus grows wild in dry places."
+     "why": "True. The fat stem holds water like a tank, and the spines are leaves that lose almost no water. That is why cactus plants can grow wild in dry places."
     },
     {
      "t": "write",
@@ -2229,15 +2248,15 @@
   },
   {
    "q": "What are a cactus's spines?",
-   "a": "Changed leaves."
+   "a": "Leaves that have changed shape."
   },
   {
    "q": "What do the holes in a lotus stem carry?",
-   "a": "Air, down to the stem in the mud."
+   "a": "Air. It goes down to the stem in the mud."
   },
   {
    "q": "Where do a banyan's prop roots grow from?",
-   "a": "From the branches, down to the soil."
+   "a": "They grow down from the branches to the soil."
   },
   {
    "q": "Is a tomato a fruit or a root?",
@@ -2298,21 +2317,21 @@
  "roots": {
   "context": "We have sorted our food by plant part, tested which parts float, and met a cactus, a lotus and a banyan. Now we ask what the float test tells us about plants, and about ourselves.",
   "deep_truth": {
-   "truth": "Our potato piece and dry chana sank in the bowl. They are packed with food the plant stored for later. The palak leaf floated, because it is full of tiny air spaces. A leaf takes in air to make food. So each part is filled with what it needs for its job.",
-   "habit": "We think of vegetables as food that is the same all through, made for us. The float test showed that each part is filled differently inside: one with stored food, another with air. What fills a part tells us the job it was doing for the plant.",
+   "truth": "Our potato piece and dry chana sank in the bowl. They are packed with food that the plant stored for later. The palak leaf floated, because it is full of tiny air spaces. A leaf takes in air to make food. Each part of a plant is filled with what it needs for its job.",
+   "habit": "We usually think of a vegetable as plain food that is the same all the way through. The float test showed that each part is filled differently inside. One part holds stored food and another holds air. What fills a part tells us the job it did for the plant.",
    "evidence": "In the float test, the potato and dry chana sank, and a tiny crumb of potato sank too. The brinjal piece and the palak leaf floated. Cut open, the potato was firm and packed, and the brinjal was spongy. A lotus stem slice is full of air tunnels."
   },
   "three": {
    "who_am_i": "The parts of your body are built for their jobs too. Your lungs are full of tiny air spaces, and your bones are solid and strong.",
    "what_is_life": "A plant makes food and stores some for later, in a root, a stem or a seed. When we eat it, that saved food becomes ours.",
-   "what_is_this_world": "A cactus, a lotus and a banyan all have roots, stems and leaves, but each is shaped by the place they live."
+   "what_is_this_world": "A cactus, a lotus and a banyan all have roots, stems and leaves. The place where each one lives shapes how their parts look."
   },
-  "thread": "Most plants start as one seed. From that one seed come roots, a stem, leaves, flowers, fruits and new seeds, each filled and shaped for a different job. The same parts take different shapes in different plants: a stem that stores water in a cactus, a stalk that carries air in a lotus, a root that becomes a pillar in a banyan. Everything is conscious, the plant too: each part senses what is around it and sends signals to the others, so the whole plant acts together.",
+  "thread": "Most plants start as one seed. From that one seed come roots, a stem, leaves, flowers, fruits and new seeds. Each part is filled and shaped for a different job. The same parts take different shapes in different plants. In a cactus, the stem stores water. In a lotus, the stalks carry air. In a banyan, hanging roots become pillars. Everything is conscious, and so is a plant. Each part senses what is around them and sends signals to the others, so the whole plant acts together.",
   "teachings": [
    {
     "source": "Tirukkural 595",
     "teaching": "A lotus stalk grows as long as the water is deep. In the same way, how high a person rises depends on how strong their will is.",
-    "link": "A lotus grows their leaf stalks long enough to reach the top of the water. The Tirukkural, from Tamil Nadu, saw that a plant's part grows to fit the place."
+    "link": "A lotus grows their leaf stalks long enough to reach the top of the water. The Tirukkural, from Tamil Nadu, noticed this. A plant's parts grow to fit the place where the plant lives."
    },
    {
     "source": "Bhagavad Gita 5.10",

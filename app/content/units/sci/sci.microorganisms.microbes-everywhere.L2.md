@@ -16,7 +16,7 @@
 ## Terms
 - **Microbe**: A microbe is a living being too small to see with our eyes alone. Another name for microbes is microorganisms. *e.g.* Thousands of microbes live on your hands, and millions live in one spoon of curd.
 - **Bacteria**: Bacteria are one big group of microbes. Each one is a single tiny cell. One of them is called a bacterium. *e.g.* The bacteria in curd turn milk into curd overnight.
-- **Fungus**: A fungus is a living being that grows by spreading thin threads and feeding on what they grow on. Mushrooms, mould and yeast are fungi. *e.g.* A fluffy green patch on an old orange is a fungus called a mould.
+- **Fungus**: A fungus is a living being that grows by spreading thin threads. The threads feed on whatever they grow on. Mushrooms, mould and yeast are fungi. *e.g.* A fluffy green patch on an old orange is a fungus called a mould.
 - **Mould**: Mould is a fungus that grows as fuzzy patches on old food. The fuzz is made of very thin threads. *e.g.* White or green fuzz on old bread is mould.
 - **Multiply**: To multiply means to become many. A bacterium multiplies by splitting into two new bacteria. *e.g.* One bacterium splits into 2, then 4, then 8, then 16.
 - **Colony**: A colony is a spot of microbes that all grew from one or a few. A colony holds millions of microbes, so we can see the colony even though each microbe is too small to see. *e.g.* Each coloured spot on the potato slice is one colony.
@@ -29,14 +29,14 @@
 **Definition:** A microbe is a living being too small to see with our eyes alone. Most microbes are a single cell.
 
 Microbes are tiny. About a thousand bacteria in a line would just reach across a mustard seed. We cannot see one, but we can see a crowd of millions, like a spot on old food. Bacteria and tiny fungi such as yeast are microbes, and some scientists count viruses too.
-- e.g. The bacteria that turn milk into curd.
-- e.g. The yeast that makes bread dough puff up.
-- e.g. The mould that grows fuzzy spots on an old chapati.
+- e.g. The bacteria that turn milk into curd are microbes.
+- e.g. The yeast that makes bread dough puff up is a microbe.
+- e.g. The mould that grows fuzzy spots on an old chapati is made of microbes.
 ### Microbes live everywhere · *defined*
 **Definition:** Microbes live almost everywhere on Earth: on our skin, inside our bodies, in soil, water and air, and on everything we touch.
 
 Your hands carry thousands of microbes, even when they look clean. One teaspoon of rich soil can hold about as many bacteria as there are people in India. Microbes float in the air on dust, and live in the sea, in hot springs and deep in ice. Most of the microbes in your body live in your tummy.
-- e.g. Spots grew on the potato slice your fingers touched.
+- e.g. In the Three Potato Slices experiment, spots grew on the slice your fingers touched.
 - e.g. The soil slice grew the most spots, because soil is packed with microbes.
 - e.g. Even a slice that nobody touched can grow a spot, from microbes that floated in on the air.
 ### How a spot grows · *defined*
@@ -49,7 +49,7 @@ In a warm place with food, some bacteria split about every half hour. One become
 ### How curd is made · *defined*
 **Definition:** Curd bacteria eat the sugar in milk and make an acid. The acid makes the milk thick and sour. That thick, sour milk is curd.
 
-Milk has a sugar in it, though it does not taste very sweet. A spoon of curd adds millions of curd bacteria to warm milk. They eat the sugar, multiply, and make an acid, and the acid makes the milk proteins clump into soft curd. In the fridge they work slowly, so set curd keeps longer there.
+Milk has a sugar in it, though it does not taste very sweet. A spoon of curd adds millions of curd bacteria to warm milk. They eat the sugar, multiply, and make an acid. Milk also has protein in it. The acid makes the protein stick together in soft clumps, and the clumps are the curd. In the fridge the bacteria work slowly, so set curd keeps longer there.
 - e.g. Thayir, mosaru, perugu, dahi and doi are names for curd in different parts of India.
 - e.g. Mishti doi in West Bengal is set with curd bacteria, after the milk is sweetened.
 - e.g. Moru, or buttermilk, is curd mixed with water.
@@ -59,7 +59,7 @@ Microbes sense, decide and act. A bacterium senses food in the water and swims t
 - e.g. Some sea bacteria glow only when enough of them are together, as Bonnie Bassler and other scientists have shown.
 - e.g. Mould threads grow towards food and away from dry places.
 - **Many scientists who study single cells:** Microbes sense their world, remember a little of what just happened, and choose what to do next. This is a simple kind of thinking, done by one cell without a brain.
-- **Many other biologists:** Microbes react to chemicals the way a thermostat reacts to heat. These are automatic responses, and calling them thinking says too much.
+- **Many other biologists:** Microbes react to chemicals the way the thermostat in an iron box reacts to heat. The thermostat switches the heat off by itself, without any thinking. These are automatic responses, and calling them thinking says too much.
 ### Most microbes are harmless or helpful · *defined*
 **Definition:** Most microbes do not make anyone ill. Many are helpful. Only a few, called germs, can make humans and other animals ill.
 
@@ -80,7 +80,7 @@ Microbes in soil break dead leaves into new soil, and microbes in your tummy hel
 ## Challenging perspectives
 - **A hand that looks clean has nothing living on it.** (A common idea among children and grown-ups; *rejected*)  
   For: We cannot see anything on a clean-looking hand.  
-  Against: The potato slice touched by fingers grew spots, and the slice nobody touched grew the fewest. Microbes were on the fingers, too small to see.
+  Against: In the Three Potato Slices experiment, the slice touched by fingers grew spots, and the slice nobody touched grew the fewest. Microbes were on the fingers, too small to see.
 - **All microbes are bad and make us ill.** (A common idea, from advertisements for cleaning liquids; *rejected*)  
   For: Some microbes, called germs, do make people ill.  
   Against: Most microbes are harmless or helpful. Curd, idli batter and soil all depend on microbes, and the microbes in our tummy help us digest food.
@@ -94,28 +94,28 @@ Microbes in soil break dead leaves into new soil, and microbes in your tummy hel
 ## Roots
 We have been growing microbes on potato slices and in milk. Now we ask what the smallest living beings tell us about ourselves and the world.
 
-**Deep truth.** All three potato slices looked clean on day one. By day four, the soil and finger slices had spots, and the untouched slice had the fewest. Each spot grew from microbes too small to see. So a hand can look clean and still carry many living beings.  
+**Deep truth.** In the Three Potato Slices experiment, all three slices looked clean on day one. By day four, the soil and finger slices had spots, and the untouched slice had the fewest. Each spot grew from microbes too small to see. So a hand can look clean and still carry many living beings.  
 *Habit it breaks:* We decide what is alive, and what is clean, by what our eyes can see. Our eyes miss most of the living beings on Earth, so how a thing looks tells us little about who lives on it.  
-*Evidence:* Spots grew where fingers and soil had touched the boiled potato, and the fewest grew where nothing touched it. One drop of curd, holding bacteria nobody could see, set a whole katori of milk overnight.
+*Evidence:* In the Three Potato Slices experiment, spots grew where fingers and soil had touched the boiled potato, and the fewest grew where nothing touched it. In the curd experiment, one drop of curd, holding bacteria nobody could see, set a whole katori of milk overnight.
 
 - *who am i:* You are one person, and you are also home to millions of tiny living beings on your skin and in your tummy.
-- *what is life:* Most living beings on Earth are too small to see. Life is mostly tiny.
+- *what is life:* Most living beings on Earth are too small to see. So if you count all the living beings, most of them are tiny.
 - *what is this world:* Every handle, pot of soil and katori of curd around you is full of living beings.
 
 Microbes were the first life on Earth, and for billions of years they were all the life there was. Every plant and animal, you too, came from that tiny life. So the microbes on your hands are not strangers. They are relatives who stayed small, and they live everywhere the rest of us live.
 
 - **Tattvartha Sutra, chapter 2 (Jain teaching):** Jain teachers taught that the world is full of living beings, many too small to see. Some live in earth, water and air, and have only the sense of touch. So Jain monks and nuns sweep gently and filter their water, to avoid harming them. (Jain thinkers noticed life where eyes cannot see it, long before microscopes. Our potato slices also showed life in soil, on fingers and in the air that no eye could see.)
-- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a seed of the banyan fruit. 'What do you see?' 'Nothing at all.' Uddalaka says that from this fine thing he cannot see, the great banyan tree grows. (We could not see the microbes on our fingers either. Yet from them, big spots grew on the potato. What is too small to see can still be alive and grow into something big.)
+- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a seed of the banyan fruit. 'What do you see?' 'Nothing at all.' Uddalaka says that the great banyan tree grows from this tiny thing that his son cannot see. (We could not see the microbes on our fingers either. Yet from them, big spots grew on the potato. What is too small to see can still be alive and grow into something big.)
 - Science (settled): Microbes have lived on Earth for at least 3.5 billion years, far longer than any plant or animal.
-- Science (settled): Scientists' best count is that your body holds about as many bacteria as your own cells, most of them in your gut.
-- Other view, Many biologists: A microbe is a single cell that reacts to chemicals the way a thermostat reacts to heat. They would say microbes are alive and busy, but that sensing and reacting is not thinking or feeling.
+- Science (settled): Scientists have counted as well as they can. Your body holds about as many bacteria as it has cells of its own. Most of these bacteria live in your gut.
+- Other view, Many biologists: Many biologists say a microbe is a single cell that reacts to chemicals the way a thermostat reacts to heat. They say microbes are alive and busy, but that sensing and reacting is not thinking or feeling.
 - Practice, Hello to the tiny ones (3 min): Sit still and open your hands in your lap. Look at your palms. They look empty. Breathe in slowly. Breathe out slowly onto your palms. Feel the warm air. Thousands of tiny living beings live on your hands. Sit quietly with them for three breaths.
 - Ask: If most living beings are too small to see, what else might we be missing around us?
-- Ask: Uddalaka's son saw nothing inside the seed. Is something we cannot see always empty?
+- Ask: Uddalaka's son saw nothing inside the seed. When we cannot see anything in a place, is that place always empty?
 
 ## Deep and big questions
-- *deep:* You cannot see a microbe. So how do you know microbes are there? (hint: Think about the spots on the potato slices, and the curd that set overnight.)
-- *deep:* The spots grew on the potato. Did they come from the potato, or from somewhere else? (hint: Think about the slice that nobody touched. How many spots did that slice grow?)
+- *deep:* You cannot see a microbe. So how do you know microbes are there? (hint: Think about the spots that grew on the potato slices, and the milk that turned into curd overnight.)
+- *deep:* The spots grew on the potato. Did they come from the potato, or from somewhere else? (hint: In the Three Potato Slices experiment, nobody touched one of the slices. How many spots did that slice grow?)
 - *big:* Millions of microbes live on you and inside you. Are they part of you, or are they guests? (hint: Think about the microbes in your tummy that help you digest food.)
 - *big:* Microbes lived on Earth for billions of years before there were any animals. Whose planet is Earth? (hint: Think about who was here first, and who is here in the biggest numbers.)
 
@@ -174,7 +174,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 
 ## Games
 ### g1 · Lots, A Few or Almost None? A card game of where microbes live (15 min)
-- **rules:** Each player takes three answer cards: Lots, A few and Almost none. Two players use 6 of the 12 answer cards.; Mix the 12 place cards and put them in a pile, front side up.; One player reads the top place card aloud.; Every player puts one answer card face down at the same time, then everyone turns the cards over.; Turn the place card over and read the back aloud.; Everyone who chose the right answer makes one tally mark on a sheet of paper.; Play until all 12 place cards are done. The player with the most tally marks reads first next time. If marks are level, everyone wins.
+- **rules:** Each player takes three answer cards: Lots, A few and Almost none. Two players use 6 of the 12 answer cards.; Mix the 12 place cards and put them in a pile, front side up.; One player reads the top place card aloud.; Every player puts one answer card face down at the same time, then everyone turns the cards over.; Turn the place card over and read the back aloud.; Everyone who chose the right answer makes one tally mark on a sheet of paper.; Play until all 12 place cards are done. The player with the most tally marks reads first next time. If the marks are equal, everyone wins.
 - **Printable cards: 12 place cards:** A spoon of curd (back: Lots. Millions of curd bacteria in one spoon.); A spoon of soil from a flower pot (back: Lots. One teaspoon of rich soil can hold about as many bacteria as there are people in India.); Your hands, after playing (back: Lots. Thousands of microbes, even when your hands look clean.); Inside your tummy (back: Lots. More microbes live in your gut than anywhere else on your body.); A spoon of sea water (back: Lots. One small spoon of sea water can hold millions of bacteria.); Fresh idli batter, the next morning (back: Lots. Microbes made the batter rise and turn sour.); Your toothbrush (back: Lots. Microbes from your mouth stay on the bristles.); The air in your room (back: A few. Microbes float on tiny bits of dust.); A cloud high in the sky (back: A few. Scientists have found living bacteria in clouds.); A hot spring (back: Lots. Thick mats of microbes grow in hot springs, in water too hot to touch.); Water that has just boiled (back: Almost none. Boiling kills almost all microbes.); Food inside a sealed new tin (back: Almost none. The food was heated after the tin was sealed, and nothing can get in.)
 - **Printable cards: 12 answer cards (3 for each of up to 4 players):** Lots; A few; Almost none; Lots; A few; Almost none; Lots; A few; Almost none; Lots; A few; Almost none
 - **s1 (3 min)**  
@@ -189,11 +189,12 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
   - Note: Children are often surprised by the cloud and the hot spring. Microbes live in more places than any other kind of living being.
 - **s3 (2 min)**  
   *Parent does:* Count the tally marks. Ask the last question.  
-  *Parent says:* Which card surprised you most? Why?  
-  *Child mode:* Count your tally marks. Which card surprised you most?
+  *Parent says:* Microbes live in a cloud and in a hot spring. What does that tell us about where microbes can live?  
+  *Child mode:* Count your tally marks. Microbes live in clouds and hot springs. Where can microbes live?
+  - Ask: Microbes live in a cloud and in a hot spring. What does that tell us about where microbes can live? (good: Microbes can live in almost every place, even very hot or very high ones.; They live in more places than we can see.)
   - Check: Scientists found living bacteria in clouds high in the sky. What does this show? → **Microbes can float in the air and live high up**
 ### g2 · Helper or Germ? A sorting race (12 min)
-- **rules:** Put the three sorting labels on the floor: Helper, Harmless and Germ.; Mix the 12 microbe cards and deal them out, front side up.; On your turn, read one card aloud and put the card by the label you think is right.; When all 12 cards are down, turn each one over to check. Move any card that is by the wrong label.; Count how many cards are by each label. The goal is to sort all 12 right together.
+- **rules:** Put the three sorting labels on the floor: Helper, Harmless and Germ.; Mix the 12 microbe cards and deal them out, front side up.; On your turn, read one card aloud and put the card by the label you think is right.; When all 12 cards are down, turn each one over to check. Move any card that is by the wrong label.; Count how many cards are by each label. The goal is for everyone, together, to sort all 12 cards correctly.
 - **Printable cards: 12 microbe cards:** Curd bacteria: turn milk into curd (back: Helper); Batter microbes: make idli batter rise (back: Helper); Baker's yeast: makes bread dough puff up (back: Helper); Soil bacteria: break dead leaves into new soil (back: Helper); Gut bacteria: help you digest food (back: Helper); Root bacteria: live in lumps on moong and chana roots, and help the plant grow (back: Helper); Sea microbes: make oxygen from sunlight (back: Helper); Most skin microbes: live quietly on your skin (back: Harmless, and some keep germs away); Cold virus: gives you a runny nose (back: Germ); Cholera bacteria: spread in dirty water and cause a bad tummy illness (back: Germ); Mould on an old chapati: can make you sick if you eat it (back: Germ, if eaten); Tooth bacteria: make acid from sweets that can make holes in teeth (back: Germ, if teeth are not brushed)
 - **Printable cards: 3 sorting labels:** Helper; Harmless; Germ
 - **s1 (2 min)**  
@@ -216,11 +217,11 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 ### e1 · Three Potato Slices: where do the spots come from? (28 min, 4 days)
 - **question:** Our fingers and the soil in a flower pot look like they have nothing alive on them. Do they carry microbes we cannot see?
 - **predict:** Guess first. Which slice will grow the most spots: the finger slice, the soil slice, or the slice nobody touched? Which will grow the fewest? Why do you think so?
-- **fair test:** All three slices come from the same potato, are the same thickness, sit in the same kind of box, in the same place, for the same days. Only one thing is different: what touched each slice. So if the slices grow different numbers of spots, what touched them made the difference. The slice nobody touched shows what grows from the air alone.
+- **fair test:** All three slices come from the same potato, are the same thickness, sit in the same kind of box, in the same place, for the same number of days. Only one thing is different: what touched each slice. So if the slices grow different numbers of spots, what touched them made the difference. The slice nobody touched shows what grows from the air alone.
 - **safety:** Keep the boxes closed once the spots grow. Never sniff or open them wide, because mould spores can upset breathing, especially for anyone with asthma. A grown-up cuts the potato and throws away the boxes, tied in a bag. Wash hands with soap after touching the soil and after the test.
 - **record:** Draw the three slices on day 4, with every spot in its colour. Write the number of spots under each slice.
 - **results table:** Slice | Spots on day 2 | Spots on day 3 | Spots on day 4
-- **schedule:** day 1: Cut three slices. Guess. Touch one with unwashed fingers and one with a pinch of soil. Close all three boxes and put them in a warm, dark place. Wash hands. (15 min); day 2: Look through the lids. Count any spots on each slice and write the numbers down. (3 min); day 3: Count the spots again. Look for colours and fuzz. (3 min); day 4: Count one last time. Draw the slices. Say what you think, what you saw and why. A grown-up throws the closed boxes away in a tied bag. (7 min)
+- **schedule:** day 1: Cut three slices. Guess which slice will grow the most spots. Touch one slice with unwashed fingers and one with a pinch of soil. Close all three boxes and put them in a warm, dark place. Wash hands. (15 min); day 2: Look through the lids. Count any spots on each slice and write the numbers down. (3 min); day 3: Count the spots again. Look for colours and fuzz. (3 min); day 4: Count one last time. Draw the slices. Say what you think, what you saw and why. A grown-up throws the closed boxes away in a tied bag. (7 min)
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* Take the potato that was boiled with its skin on and cooled until you can hold it. Show it to your child.  
   *Parent says:* Look at this boiled potato. Boiling killed almost every microbe inside the potato. Can you see anything living on it?  
@@ -262,7 +263,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
   *Child mode:* Did your fingers carry microbes? Say what you think. Say what you saw. Say why.
   - Ask: Why did the finger slice and the soil slice grow spots? (good: Because microbes were on my fingers and in the soil, and they multiplied on the potato.; Because each spot grew from a few microbes we could not see.)
   - Ask: Why did the slice nobody touched grow the fewest spots? (good: Because nothing touched it, so only a few microbes from the air got in.; Because it was closed straight away.)
-  - Note: Usually the soil slice grows the most spots, in many colours, often with grey or green fuzz. The finger slice grows spots near where the fingers pressed. The Nobody slice grows the fewest, maybe none, maybe one or two from the air. Any spot on that slice is not a failure. It shows microbes float in the air too.
+  - Note: Usually the soil slice grows the most spots, in many colours, often with grey or green fuzz. The finger slice grows spots near where the fingers pressed. The Nobody slice grows the fewest: maybe none, maybe one or two from the air. A spot on the Nobody slice is not a failure. It shows that microbes float in the air too.
   - Check: The finger slice grew spots. The slice nobody touched grew almost none. What does this show? → **Microbes were on the fingers**
 - **s8 (2 min) · grown-up needed**  
   *Parent does:* 1. Do not open the boxes. 2. Put all three closed boxes in a plastic bag. 3. Tie the bag shut and put it in the bin. 4. Wash hands with soap.  
@@ -276,7 +277,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 - **safety:** A grown-up boils the milk and checks that the milk is warm, not hot, before a child touches the katoris.
 - **record:** Draw the three katoris from the side in the morning. Show the curd as thick, a bit thick or runny.
 - **results table:** Katori | In the evening | Next morning: thick, a bit thick, or runny?
-- **schedule:** day 1: In the evening, pour warm milk into three katoris. Add a spoon of curd to one, a drop to one and nothing to one. Guess. Cover and leave in a warm place. (12 min); day 2: In the morning, tip each katori a little. Which ones set? Say what you think, what you saw and why. (8 min)
+- **schedule:** day 1: In the evening, pour warm milk into three katoris. Add a spoon of curd to one, a drop to one and nothing to one. Guess which ones will turn into curd. Cover and leave in a warm place. (12 min); day 2: In the morning, tip each katori a little. Which ones set? Say what you think, what you saw and why. (8 min)
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Boil the milk and let it cool until it feels warm, like bath water, on a clean finger. 2. Pour the same amount into each of the three katoris. 3. Label them Spoon, Drop and Nothing.  
   *Parent says:* This milk is warm, like a bath. Curd bacteria work best in warm milk. We have three katoris with the same milk.  
@@ -290,7 +291,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
   - Note: Every guess is fine, as long as there is a reason.
 - **s3 (3 min)**  
   *Parent does:* 1. Stir one teaspoon of curd into the Spoon katori. 2. Dip the tip of a toothpick in the curd, and stir that tiny drop into the Drop katori. 3. Add nothing to the Nothing katori. 4. Cover all three with plates.  
-  *Parent says:* A whole spoon in this one. Just a drop on the toothpick in this one. Nothing in the last one. Plates on.  
+  *Parent says:* A whole spoon of curd goes into this one. Just a drop on the toothpick goes into this one. Nothing goes into the last one. Now we put the plates on.  
   *Child mode:* Stir a spoon of curd into one. Stir a toothpick drop into one. Add nothing to the last. Cover them.
   - Note: Use a clean toothpick or spoon handle, so that the drop is the only curd that goes in.
 - **s4 (2 min)**  
@@ -304,7 +305,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
   *Parent says:* Tip each katori a little. Is the milk thick and set, a bit thick, or still runny?  
   *Child mode:* Tip each katori a little. Is it thick, a bit thick, or runny?
   - Ask: What happened in each katori? (good: The spoon one is thick curd.; The drop one set too, but it is softer.; The nothing one is still milk.)
-  - Note: Usually the Spoon katori is firm curd. The Drop katori often sets too, but softer, or needs a few more hours. The Nothing katori stays runny milk. In very hot weather, it can turn sour and lumpy by the next day, but it does not set smooth and firm. If the Drop katori is still runny, leave it covered for 4 more hours and look again.
+  - Note: Usually the Spoon katori is firm curd. The Drop katori often sets too, but softer, or needs a few more hours. The Nothing katori stays runny milk. In very hot weather, the milk in the Nothing katori can turn sour and lumpy by the next day, but it does not set smooth and firm. If the Drop katori is still runny, leave it covered for 4 more hours and look again.
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say what they think, what they saw and why. Then let them taste a little of the Spoon curd, if it is fresh.  
   *Parent says:* So, was one drop enough? Tell me what you think, what you saw, and why.  
@@ -318,8 +319,8 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 - **record:** Draw the flower pot. Draw the smell rising from the wet soil, and draw a few tiny bacteria in the soil.
 - **s1 (2 min)**  
   *Parent does:* 1. Choose a pot whose top soil is dry. 2. Ask your child to bend close and smell the dry soil.  
-  *Parent says:* Smell the dry soil. Does it smell of much?  
-  *Child mode:* Bend close to the dry soil. Smell it. Does it smell of much?
+  *Parent says:* Smell the dry soil. Does it have much of a smell?  
+  *Child mode:* Bend close to the dry soil. Smell it. Does it have much of a smell?
   - Ask: What does the dry soil smell like? (good: Not much.; A little dusty.)
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason before adding water.  
@@ -331,7 +332,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
   *Parent says:* Sprinkle the water gently, like the first rain. Now smell again. What changed?  
   *Child mode:* Sprinkle the water like rain. Wait a moment. Smell again. What changed?
   - Ask: What does the wet soil smell like? (good: Like the first rain.; Earthy, like a garden.)
-  - Note: The earthy smell comes mostly from a substance called geosmin. Soil bacteria make geosmin. Rain and sprinkled water lift tiny amounts into the air. Human noses can smell geosmin even when there is very, very little. If the soil smells of little, try a dry clay diya or matka, which often smells earthy when wet.
+  - Note: The earthy smell comes mostly from a substance called geosmin. Soil bacteria make geosmin. Rain and sprinkled water lift tiny amounts into the air. Human noses can smell geosmin even when there is very, very little. If the soil has very little smell, try a dry clay diya or matka, which often smells earthy when wet.
 - **s4 (3 min)**  
   *Parent does:* Tell your child who makes the smell. Then wash hands.  
   *Parent says:* Tiny bacteria in the soil make much of that smell. In 1964, Isabel Joy Bear, a scientist in Australia, and her colleague Richard Thomas named the rain smell petrichor. In Kannauj, perfume makers make a scent called mitti attar from baked earth.  
@@ -350,12 +351,12 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
   *Parent says:* Do microbes live on the door handle? In the flower pot? In the curd? On the pillow? Put a dot for each place.  
   *Child mode:* Walk round your home. Put a dot where microbes live.
   - Ask: Can you find a place in our home with no microbes at all? (good: The inside of a sealed new tin of food.; Water that has just boiled.; I could not find one.)
-  - Note: Good places: door handles, the tap, the sponge, the flower pots, the curd, the idli or dosa batter, the dustbin, the pillow, the toothbrush, the pet's bowl, and your own hands and mouth. Almost nowhere has none. A sealed tin of food and water that has just boiled have almost none alive.
+  - Note: Good places to check: door handles, the tap, the sponge, the flower pots, the curd, the idli or dosa batter, the dustbin, the pillow, the toothbrush, the pet's bowl, and your own hands and mouth. Almost no place is free of microbes. A sealed tin of food and water that has just boiled have almost none alive.
 - **s3 (3 min)**  
   *Parent does:* Count the dots together and write the number at the bottom of the map.  
-  *Parent says:* How many dots did you put? Is there any room with no dots?  
-  *Child mode:* Count your dots. Write the number at the bottom.
-  - Ask: Which room has the most dots? (good: The kitchen, because there is food.; The bathroom, because it is damp.)
+  *Parent says:* How many dots did you put? What do all those dots tell you about where microbes live?  
+  *Child mode:* Count your dots. Write the number at the bottom. What do the dots tell you?
+  - Ask: What do all the dots on your map tell you about where microbes live? (good: Microbes live almost everywhere in our home.; Even places that look clean have microbes.)
 ### a3 · How Small? Microbes in a full stop (10 min)
 - **record:** Draw your dot and a mustard seed, and write: about 300 bacteria across my dot, about 1000 across the seed.
 - **s1 (3 min)**  
@@ -394,7 +395,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 ### p1 · The Curd Chain: one starter for a whole week (35 min, 7 days)
 - **safety:** A grown-up warms the milk and checks that the milk is warm, not hot, before the child adds the starter.
 - **record:** A paper chain chart: one ring for each katori, with a word for the curd (thick, soft or runny) and a taste face.
-- **schedule:** day 1: Set the first katori with a spoon of curd. Draw the first link of the chain on the chart. (5 min); day 2: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. (5 min); day 3: Check, eat, save a spoon, set the next katori. Add a link to the chain. (5 min); day 4: Check, eat, save a spoon, set the next katori. Add a link. (5 min); day 5: Check, eat, save a spoon, set the next katori. Add a link. (5 min); day 6: Check, eat, save a spoon, set the next katori. Add a link. (5 min); day 7: Eat the last curd. Count the rings on the chart. Talk about where the bacteria in today's curd came from. (5 min)
+- **schedule:** day 1: Set the first katori with a spoon of curd. Draw the first ring of the chain on the chart. (5 min); day 2: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. (5 min); day 3: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart. (5 min); day 4: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart. (5 min); day 5: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart. (5 min); day 6: Check the curd. Eat most of the curd and save one spoon. Set the next katori with that spoon. Add a ring to the chain on the chart. (5 min); day 7: Eat the last curd. Count the rings on the chart. Talk about where the bacteria in today's curd came from. (5 min)
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Warm the milk until it feels like a bath. 2. Pour half a cup into the katori. 3. Your child stirs in one spoon of curd. 4. Cover and leave in a warm place overnight. 5. Draw the first ring on the chart.  
   *Parent says:* This spoon of curd starts our chain. Tomorrow we will use a spoon of this new curd to make the next one.  
@@ -447,8 +448,8 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
    Options: A tiny stone / A living being too small to see / A baby ant  
    **Answer:** A living being too small to see. *Why:* A microbe is a living being too small to see with our eyes alone. Most microbes are a single cell. A tiny stone is not alive, and a baby ant is big enough to see.
 3. (truefalse) A hand that looks clean has no microbes on it.  
-   **Answer:** False. *Why:* False. In the potato test, the slice touched by fingers grew spots. Microbes live on hands even when the hands look clean.
-4. (draw) Draw the three potato slices from your test on the last day. Draw every spot you saw.  
+   **Answer:** False. *Why:* False. In the Three Potato Slices experiment, the slice touched by fingers grew spots. Microbes live on hands even when the hands look clean.
+4. (draw) Draw the three potato slices from the Three Potato Slices experiment as they looked on the last day. Draw every spot you saw.  
    **Answer:** Three slices. The soil slice has the most spots, the finger slice has some spots near the fingerprints, and the Nobody slice has the fewest.. *Why:* A strong drawing shows the spots in their colours and labels each slice. The drawing shows that soil and fingers carried microbes.
 5. (count) Look at the picture. The soil slice has 9 spots. The finger slice has 4 spots. How many more spots does the soil slice have?  
    **Answer:** 5. *Why:* 9 take away 4 is 5. The soil slice has 5 more spots, because soil carries even more microbes than fingers.
@@ -466,7 +467,7 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
    **Answer:** Soap washes off most germs before they get inside us. *Why:* A few microbes are germs, and soap and water wash most of them off our hands. Soap does not kill every microbe, and most microbes are not harmful.
 ### How Spots and Curd Grow (stretch) (stretch, 10 questions)
 1. (perspective) Two sisters in Hyderabad look at a potato slice with spots on it after four days in a closed box.  
-   **Answer:** A strong answer agrees more with Ayesha and uses the test: the slice nobody touched grew the fewest spots, so the spots came from what touched the slices. Zara has something right too: the potato is the food that the microbes grew on.. *Why:* The spots are colonies grown from microbes that landed on the slice. The potato only gave them food. A strong answer uses the Nobody slice as evidence.
+   **Answer:** A strong answer agrees more with the sister aged 9 and uses the test: the slice nobody touched grew the fewest spots, so the spots came from what touched the slices. The sister aged 7 has something right too: the potato is the food that the microbes grew on.. *Why:* The spots are colonies grown from microbes that landed on the slice. The potato only gave them food. A strong answer uses the Nobody slice as evidence.
 2. (mcq) Why did the soil slice grow the most spots?  
    Options: Soil holds a huge number of microbes / Soil is heavy / Soil is brown  
    **Answer:** Soil holds a huge number of microbes. *Why:* Soil is packed with microbes. One teaspoon of rich soil can hold about as many bacteria as there are people in India. So a pinch of soil put many more microbes on the slice than fingers did.
@@ -478,23 +479,23 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
    **Answer:** Many tiny cells packed together, round or rod-shaped, or long thin threads for mould.. *Why:* A strong drawing shows that a spot is made of many tiny cells crowded together. A child who draws threads for a fuzzy spot has understood that mould grows threads.
 6. (truefalse) Curd sets faster in a cold room than in a warm room.  
    **Answer:** False. *Why:* False. Curd bacteria multiply fastest in warm milk. In the cold they work slowly, so the milk sets slowly.
-7. (write) Ammu, a girl in Class 2, wants to set curd tonight. She has warm milk, but no curd. Write what she could do.  
-   **Answer:** She could ask a neighbour for one spoon of curd, or buy a little plain curd, and stir it into the warm milk.. *Why:* A strong answer knows that curd needs a starter with living curd bacteria. Without the bacteria, the milk will not set into smooth curd.
+7. (write) You want to set curd tonight. You have warm milk, but no curd. Write what you could do.  
+   **Answer:** Ask a neighbour for one spoon of curd, or buy a little plain curd, and stir it into the warm milk.. *Why:* A strong answer knows that curd needs a starter with living curd bacteria. Without the bacteria, the milk will not set into smooth curd.
 8. (match) Match each thing to the microbe job.  
    **Answer:** Idli batter rises overnight → Microbes make gas bubbles; Milk turns into curd → Bacteria make the milk sour and thick; Wet soil smells earthy → Soil bacteria make the smell; Bread dough puffs up → Yeast makes gas. *Why:* Each of these foods and smells is made by microbes at work.
 9. (fill) When a microbe splits into two, and two into four, we say the microbes ________.  
    **Answer:** ['multiply']. *Why:* To multiply means to become many. Microbes multiply by splitting.
-10. (label) Label the three katoris from the curd test: thick curd, soft curd, runny milk. Then write what went into each.  
+10. (label) Label the three katoris from the experiment A Spoon, a Drop or Nothing: thick curd, soft curd, runny milk. Then write what went into each.  
    **Answer:** Spoon: thick curd. Drop: soft curd. Nothing: runny milk.. *Why:* The Spoon katori got the most curd bacteria, so that katori set firmest. The drop had only a few, so it set softer or slower. The katori with nothing stayed milk.
 ### Microbes and Us (challenge) (challenge, 10 questions)
 1. (perspective) Three people talk about the microbes in a home.  
    **Answer:** A strong answer picks one view and gives a reason, then answers back from another view. For example: Dr Lakshmi is right that soap removes germs before meals, but the grandmother is right that most microbes are helpful, so there is no need to kill them everywhere.. *Why:* All three have part of the truth. Most microbes are helpful or harmless, a few are germs, and soap at the right times removes most germs. Scientists are still studying whether meeting many harmless microbes protects children from allergies.
 2. (write) A friend says, 'I can't see any microbes, so they are not real.' Write what you would show your friend to change their mind.  
    **Answer:** I would show my friend the potato slices, where spots grew from fingers, or set curd with one drop of curd.. *Why:* A strong answer uses evidence a friend can see: the spots that grow from fingers or soil, or curd that sets from a drop. We can see what microbes do, and the crowds they make.
-3. (mcq) Kavya, a girl in Class 2, does the potato test again. This time she washes her hands with soap before pressing her fingers on the slice. What will probably happen?  
+3. (mcq) Suppose you do the Three Potato Slices experiment again. This time you wash your hands with soap before pressing your fingers on the slice. What will probably happen?  
    Options: More spots than before / Fewer spots than before / Exactly the same spots  
    **Answer:** Fewer spots than before. *Why:* Soap and water wash most microbes off hands. So the slice should grow fewer spots than before, but maybe not zero, because a few microbes stay on skin.
-4. (write) Suppose in the curd test the Drop katori set softer than the Spoon katori. Why do you think so?  
+4. (write) In the curd experiment, one katori of warm milk got a spoon of curd and one got only a drop. Suppose the Drop katori set softer than the Spoon katori. Why would that happen?  
    **Answer:** The drop had fewer curd bacteria, so they took longer to multiply and set the milk.. *Why:* A strong answer links the amount of starter to the number of bacteria, and the number of bacteria to how fast the milk sets.
 5. (order) Put these in order, from the most microbes to the fewest, as in the potato test.  
    **Answer:** ['Soil slice', 'Finger slice', 'Nobody slice']. *Why:* Soil holds the most microbes, fingers carry many, and the slice nobody touched only got a few from the air.
@@ -504,15 +505,15 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
    **Answer:** A body outline with dots on the skin, in the mouth, in the tummy and on the hands.. *Why:* A strong drawing puts the most dots in the tummy, where most of the body's microbes live, and some on skin, hands and in the mouth.
 8. (write) After the curd sets, many families keep it in the fridge. Why does the curd stay fresh longer there?  
    **Answer:** It is cold in the fridge, so the curd bacteria multiply slowly and the curd turns sour more slowly.. *Why:* A strong answer says microbes multiply slowly in the cold. This is why a fridge keeps food fresh longer.
-9. (count) In the curd chain, Meera, a girl in Class 3, set a new katori of curd every night for 6 nights. Then she shared one spoon with each of 3 neighbours. How many katoris of curd came from her first spoon?  
-   **Answer:** 9. *Why:* 6 katoris at home and 3 at the neighbours' homes. 6 and 3 make 9. All of them carry bacteria from Meera's first spoon.
+9. (count) In the curd chain, suppose you set a new katori of curd every night for 6 nights. Then you share one spoon with each of 3 neighbours, and each neighbour sets one katori. How many katoris of curd came from your first spoon?  
+   **Answer:** 9. *Why:* 6 katoris at home and 3 at the neighbours' homes. 6 and 3 make 9. All of them carry bacteria from the first spoon.
 10. (label) Label the picture of a fuzzy spot on bread. Write: thread, spot, bread.  
    **Answer:** Thread: the thin lines at the edge. Spot: the round fuzzy patch. Bread: the slice underneath.. *Why:* Mould is a fungus that grows by spreading thin threads. A strong answer labels the threads at the edge, where the mould is growing outwards.
 
 ## Videos
 - **Bacteria growing in a petri dish: a time-lapse** (Science Is Fun, 1 min) id `TjxMECOU3w8`: Shows tiny dots on a plate growing into big spots over time, like the colonies on the potato slices. *Check:* Found by search: "Time Lapse of Bacteria - Bacillus Cereus - Growing in Petri Dish" by Science Is Fun, 55 seconds. A parent may preview it.
 - **Curd under a microscope: Lactobacillus bacteria** (Manocha Academy, 5 min) id `cntn8HGD0bM`: Shows the real curd bacteria, the tiny rods and chains that set milk. *Check:* Found by search: "Curd Under Microscope | Yogurt Under Microscope | Lactobacillus Bacteria" by Manocha Academy, 4 minutes, 43 seconds. A parent may preview it.
-- **Why does rain smell?** (SciShow, 2 min) id `PDrElHWBT6A`: Explains the earthy rain smell from the smell test, and the soil bacteria and the chemical geosmin they make. *Check:* Found by search: "Why Does Rain Smell?" by SciShow, 2 minutes, 21 seconds. A parent may preview it.
+- **Why does rain smell?** (SciShow, 2 min) id `PDrElHWBT6A`: Explains the earthy smell of rain, which you smelled in the Smell the Soil activity, and how soil bacteria make it with a chemical called geosmin. *Check:* Found by search: "Why Does Rain Smell?" by SciShow, 2 minutes, 21 seconds. A parent may preview it.
 
 ## Quiz
 1. (mcq) Why can't we see one microbe with our eyes?  
@@ -530,15 +531,15 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 5. (mcq) Why do we add a spoon of old curd to warm milk?  
    Options: To make the milk colder / To add the living curd bacteria / To make the milk sweeter  
    **Answer:** To add the living curd bacteria. *Why:* The spoon of curd is the starter. The starter carries the living bacteria that turn the milk into curd.
-6. (mcq) Most microbes are:  
+6. (mcq) What are most microbes like?  
    Options: Germs that make us ill / Harmless or helpful / Dead  
    **Answer:** Harmless or helpful. *Why:* Most microbes are harmless or helpful. Only a few are germs.
 7. (mcq) Who makes much of the earthy smell when rain falls on dry soil?  
    Options: Bacteria in the soil / Worms singing / The clouds  
    **Answer:** Bacteria in the soil. *Why:* Soil bacteria make a substance called geosmin. Rain lifts tiny amounts into the air, and we smell it.
-8. (mcq) Shruti, a girl in Class 2, presses unwashed fingers on one potato slice. She puts a second slice in a box without touching it. Why does she need the second slice?  
-   Options: To eat it later / To compare, so she knows the spots came from her fingers / To make the box heavier  
-   **Answer:** To compare, so she knows the spots came from her fingers. *Why:* The untouched slice shows what grows without fingers. If only the finger slice grows many spots, the spots must have come from the fingers. This makes the test fair.
+8. (mcq) You press unwashed fingers on one potato slice. You put a second slice in a box without touching it. Why do you need the second slice?  
+   Options: To eat it later / To compare, so you know the spots came from your fingers / To make the box heavier  
+   **Answer:** To compare, so you know the spots came from your fingers. *Why:* The untouched slice shows what grows without fingers. If only the finger slice grows many spots, the spots must have come from the fingers. This makes the test fair.
 9. (mcq) Where do spots on old food come from?  
    Options: Out of the food itself / From microbes that land on the food and multiply / From the light in the room  
    **Answer:** From microbes that land on the food and multiply. *Why:* Spots come from microbes that land on the food. Louis Pasteur showed that boiled soup kept away from dust and air did not spoil.
@@ -554,11 +555,11 @@ That night, Nila watched Ammamma add the spoon of curd to the warm milk. This ti
 - Fridges keep food fresh longer, because microbes multiply slowly in the cold.
 
 ## Spotted around us
-- A katori of curd setting overnight on a kitchen shelf.
-- The earthy smell from the flower pots after watering, or when the first monsoon rain hits a dusty road.
-- Green or white fuzz on an old orange, a lemon or a piece of bread.
-- Bubbles on top of idli or dosa batter in the morning.
-- A slimy, dark film at the bottom of a flower vase whose water was not changed.
+- Look for a katori of curd setting overnight on a kitchen shelf.
+- You can smell the earthy smell from flower pots after watering, or when the first monsoon rain hits a dusty road.
+- You may see green or white fuzz on an old orange, a lemon or a piece of bread.
+- In the morning there are bubbles on top of idli or dosa batter.
+- A slimy, dark film can grow at the bottom of a flower vase whose water was not changed.
 
 ## Open questions
 - **How many kinds of microbes are there on Earth?** Scientists have named only a small part of them. Most kinds have never been grown in a laboratory, so we know them only from bits of their DNA. Guesses range from millions of kinds to far more.

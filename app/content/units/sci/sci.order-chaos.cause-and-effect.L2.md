@@ -22,7 +22,7 @@
 - **Fair test**: A fair test changes only one thing at a time, so you know what made the difference. *e.g.* In the domino test, we change only the gap. We use the same dominoes, the same floor and the same gentle push each time.
 
 ## Explanations
-### Cause and effect: every happening is made to happen · *defined*
+### Cause and effect: what makes things happen · *defined*
 **Definition:** A cause is what makes something happen. An effect is what happens because of it. The cause always comes first, and the effect comes after.
 
 When you switch on the fan, the curtain moves. Switching on the fan is the cause. The moving curtain is the effect. Scientists look for causes because then they can make something happen again, or stop it.
@@ -33,7 +33,7 @@ When you switch on the fan, the curtain moves. Switching on the fan is the cause
 ### A chain of causes: why the last domino falls · *defined*
 **Definition:** In a chain of causes, each effect becomes the cause of the next thing. A push can travel a long way like this, but only if every link in the chain passes it on.
 
-In the domino test, your finger pushed only the first domino. When the gaps were small, each domino hit the next and passed on some of its energy, so all ten fell. When the gap was as wide as a domino is tall, the first one lay down without hitting the next, and the chain stopped. Taking one domino out of the middle stopped it too.
+In the domino test, your finger pushed only the first domino. When the gaps were small, each domino hit the next and passed on some of its energy, so all ten fell. When the gap was as wide as a domino is tall, the first one lay down flat and only touched the bottom of the next one. That is too low to tip it, so the chain stopped. Taking one domino out of the middle stopped it too.
 - e.g. A line of dominoes falling one after another
 - e.g. A line of coins passing a push to the last coin
 - e.g. Rain, then a full lane, then a slow school van
@@ -54,11 +54,11 @@ A rooster often crows, and then the Sun rises. But when the rooster stays quiet,
 - e.g. People carry umbrellas and then it rains, but umbrellas do not cause rain.
 - e.g. You put on your school shoes and then the van comes, but your shoes do not bring the van.
 ### Does everything have a cause? · *debated*
-Big things we see, like a falling domino, a boiling pot or a puddle, have causes we can find. But inside some materials, tiny atoms break apart by themselves, and nobody can find what decides the exact moment. Scientists do not agree about what this means.
+Big things we see, like a falling domino, a boiling pot or a puddle, have causes we can find. But everything is made of atoms, which are far too small to see. In some materials, certain atoms break apart by themselves. Nobody can find what decides the exact moment one atom breaks apart. Scientists do not agree about what this means.
 - e.g. A domino falls because it is pushed.
 - e.g. A tiny atom breaks apart at a moment nobody can predict or explain.
 - **Many physicists today:** For the tiniest things, there may be no cause for the exact moment something happens. It just happens, by chance.
-- **Albert Einstein, and some physicists since:** There may be hidden causes that we have not found yet. In a letter in 1926, Einstein wrote that he was sure the universe does not work by dice and chance.
+- **Albert Einstein, and some physicists since:** There may be hidden causes that we have not found yet. In a letter in 1926, Einstein wrote that he was sure the universe does not play dice. He meant that the universe does not run on pure chance.
 - **Buddhist thinkers in India:** Nothing happens without causes, and every happening depends on many causes together, not on one.
 
 ## Mostly agreed
@@ -70,7 +70,7 @@ Big things we see, like a falling domino, a boiling pot or a puddle, have causes
 
 ## How we found out
 **Francesco Redi, an Italian doctor, and Maria Sibylla Merian, a German artist and scientist, Redi's jar test was published in 1668. Merian's first book on caterpillars came out in 1679..** For about two thousand years, most people in Europe believed that small creatures had no parents. They thought maggots grew by themselves out of rotting meat, and caterpillars out of mud and leaves. In 1668, an Italian doctor called Francesco Redi tested this. He put pieces of meat in jars. He left some jars open. He covered others with fine cloth, so air could get in but flies could not. Flies landed on the open meat, and soon it was full of maggots. The covered meat rotted too, but no maggots grew on it. Instead, flies laid their eggs on top of the cloth. So the maggots came from fly eggs, not from the meat. At the same time in Germany, Maria Sibylla Merian was raising caterpillars at home. She fed them leaves and watched them every day. She drew each stage: the egg, the caterpillar, the pupa and the moth. Her book of 1679 showed that every caterpillar hatches from an egg laid by a moth or butterfly.  
-*What people believed before:* That maggots, caterpillars and other small creatures grow by themselves from rotting meat or mud, with no parents. Redi's covered jars showed that maggots grow only where flies lay eggs, and Merian's drawings showed every stage from egg to moth.
+*What people believed before:* People believed that maggots, caterpillars and other small creatures grow by themselves from rotting meat or mud, with no parents. Redi's covered jars showed that maggots grow only where flies lay eggs, and Merian's drawings showed every stage from egg to moth.
 
 ## Challenging perspectives
 - **Maggots and flies grow by themselves out of rotting meat.** (Most people in Europe believed this for about two thousand years, and many great thinkers wrote it down.; *rejected*)  
@@ -81,27 +81,27 @@ Big things we see, like a falling domino, a boiling pot or a puddle, have causes
   Against: On days when a rooster is ill or quiet, the Sun still rises. Places with no roosters at all still have sunrise.
 - **A small push can only ever make a small effect.** (Many people think this.; *rejected*)  
   For: A gentle push on one domino seems far too small to knock down a whole line.  
-  Against: In the domino test, one gentle push knocked down ten dominoes. A scientist called Lorne Whitehead showed in 1983 that a domino can knock over one about one and a half times bigger than itself.
+  Against: In the domino test, one gentle push knocked down ten dominoes. A scientist called Lorne Whitehead showed in 1983 that a domino can knock over another one about one and a half times its size.
 - **Every effect has just one cause.** (We often talk this way, for example 'the wind knocked it over'.; *debated*)  
   For: It is easy to name the last thing that happened before the effect.  
-  Against: In the domino test, the last domino fell because of the domino before it, and that one because of the one before it, and so on back to your finger. A cut in any link would have stopped it. So every link was a cause.
+  Against: In the domino test, the last domino fell because of the domino before it, and that one because of the one before it, and so on back to your finger. Taking away any one domino would have stopped it. So every link was a cause.
 
 ## Roots
 We have knocked down dominoes, sent a push through a line of coins and watched chana swell overnight. Now we ask what chains of causes tell us about the world, and about ourselves.
 
-**Deep truth.** In your domino line, your finger pushed only the first domino. Yet the last one fell too, because each domino pushed the next. When one gap was too wide, the push stopped there, and the rest stayed standing. So one small push can reach far away, as long as every link passes it on.  
+**Deep truth.** In the Domino Gap Test, your finger pushed only the first domino. Yet the last one fell too, because each domino pushed the next. When the gap was too wide, the push stopped there, and the rest stayed standing. So one small push can reach far away, as long as every link passes it on.  
 *Habit it breaks:* We usually name one cause for an effect, such as 'my finger knocked them down' or 'the wind did it'. The domino test shows that every link in between is a cause too, and taking away any one of them stops the effect.  
 *Evidence:* In the domino gap test, one gentle push knocked down all ten dominoes when the gaps were small. With the widest gap, or with one domino taken out, the chain stopped at that spot and the rest stayed standing.
 
 - *who am i:* You are the effect of a very long chain: your parents and grandparents, the food you have eaten and the air you have breathed. And everything you do starts new chains.
-- *what is life:* Living beings take in causes and pass them on. A chana seed drinks water and swells. An ant finds sugar and tells the others.
+- *what is life:* Things happen to living beings, and living beings make more things happen. A chana seed drinks water and swells. An ant finds sugar and tells the others.
 - *what is this world:* The world is full of chains of causes that cross each other everywhere. A coconut falling in the night can reach all the way to a new friendship.
 
-Before the push, the line of dominoes stood still, ready to fall. One push, one single action, became ten falls, one after another. In the same way, one coconut falling became a line of stopped cars, a late van and a new friend. One cause keeps becoming many effects. Everything is conscious, the dominoes and the coins too, each one taking in the push and passing it on in their own way. Many scientists disagree, and say only living beings with brains are aware.
+Before the push, the line of dominoes stood still. Then one push made ten dominoes fall, one after another. In the same way, one falling coconut led to a line of stopped cars, a late van and a new friend. One cause keeps leading to many effects. Everything is conscious, the dominoes and the coins too, each one taking in the push and passing it on in their own way. Many scientists disagree, and say only living beings with brains are aware.
 
 - **Samyutta Nikaya 12.21, in the Pali Canon, the oldest written collection of the Buddha's teachings:** When this is, that is. When this arises, that arises. When this is not, that is not. When this stops, that stops. (When the fifth domino was there, the push went on. When it was taken away, the push stopped there. Each domino falls only because the one before it does.)
 - **Samkhya Karika, verse 9, by Ishvarakrishna, written more than 1,500 years ago:** An effect comes only from a cause that is able to make it. Not everything can come from everything. Teachers explaining this verse say that oil comes from sesame seeds, never from sand. (Francesco Redi showed that maggots come only from fly eggs, never from the meat by itself. Chana swell only when there is water for them to drink.)
-- Science (settled): When a domino or a coin hits the next one, it passes on some of its energy. That is how one push can travel down a whole line. A scientist called Lorne Whitehead showed in 1983 that a domino can knock over one about one and a half times bigger.
+- Science (settled): When a domino or a coin hits the next one, it passes on some of its energy. That is how one push can travel down a whole line. A scientist called Lorne Whitehead showed in 1983 that a domino can knock over another one about one and a half times its size.
 - Science (debated): Some tiny atoms break apart at moments nobody can predict. Physicists still argue whether anything at all causes the exact moment.
 - Other view, David Hume, a Scottish thinker, in his book An Enquiry Concerning Human Understanding, 1748: Hume said we never actually see a cause making an effect happen. We only see one thing, and then another thing, again and again. Because we are used to it, we expect the second whenever we see the first. So 'cause' may be partly a habit of our minds.
 - Practice, Follow the warmth back (3 min): Sit still and close your eyes. Breathe out slowly onto your palm. Feel the warm air. Your body made that warmth. What gave your body the energy? The food you ate. Where did the food come from? A farmer, the soil, the rain and the Sun. Breathe out once more and feel the warmth again.
@@ -111,10 +111,10 @@ Before the push, the line of dominoes stood still, ready to fall. One push, one 
 
 ## Deep and big questions
 - *deep:* Your finger touched only the first domino. Did your finger knock down the last one, or did the domino next to it? (hint: What would have happened if one domino in the middle had been taken away?)
-- *deep:* When the gap was too wide, the first domino fell but the second one stayed up. Where did the push go? (hint: Think about what the falling domino hit instead.)
+- *deep:* When the gap was too wide, the first domino fell but the second one stayed up. Where did the push go? (hint: Think about what the first domino touched when it lay down flat.)
 - *deep:* Can anything happen with no cause at all? (hint: Think of something that seemed to happen all by itself. Was there something before it?)
 - *big:* Everything you do today is the cause of something tomorrow. How far could one small thing you do today reach? (hint: Think of the line of dominoes, and how far one push travelled.)
-- *big:* If you follow causes back and back, where does the chain begin? (hint: What made the first domino fall? What made you push it? What came before that?)
+- *big:* If you keep asking what caused each cause, where does the chain begin? (hint: What made the first domino fall? What made you push it? What came before that?)
 
 ## Story: Meenu and the Coconut That Made the Van Late
 *Meenu, Selvi Akka, Fathima and the man on the scooter are made up. Akka means elder sister in Tamil, Kannada and Telugu, and children use it for a young woman they know.*
@@ -153,7 +153,7 @@ Meenu reached school twenty minutes late. The first bell had already rung, and t
 
 'It's my first day,' said the girl. 'I am Fathima. Our family just moved here from Kozhikode. I don't know which class to go to.'
 
-'You're in Class 2? So am I!' said Meenu. 'Come with me.'
+'Come with me,' said Meenu. 'I will show you the office.'
 
 They walked in together. At lunch, they shared Meenu's idiyappam and Fathima's banana chips. By the end of the day, they were friends.
 
@@ -178,7 +178,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 
 ## Games
 ### g1 · Chain Builder: a card game of causes (15 min)
-- **rules:** Cut out the 18 cards. Find the three cards that say 'card 1' on the back. Lay them face up in a row. These start the three chains.; Shuffle the other 15 cards. Give each player 3 cards. Put the rest face down in a pile.; On your turn, put down one card that can come next in any chain. Say the chain out loud with 'so': 'The tawa gets hot, so Amma pours the batter.'; The other players turn your card over. If the back shows the right chain and the right number, you keep it there. If not, take it back.; If you cannot put down a card, take one from the pile.; The first player with no cards left wins. Playing alone, build all three chains, then check the backs.
+- **rules:** Cut out the 18 cards. Find the three cards that say 'card 1' on the back. Lay them face up in a row. These start the three chains.; Shuffle the other 15 cards. Give each player 3 cards. Put the rest face down in a pile.; On your turn, put down one card that can come next in any chain. Say the chain out loud with 'so': 'The tawa gets hot, so Amma pours the batter.'; The other players turn your card over. If the back shows the right chain and the right number, you keep it there. If not, take it back.; If you cannot put down a card, take one from the pile.; The first player with no cards left wins. If you play alone, build all three chains, then check the backs.
 - **Printable cards: 18 happening cards to cut out:** Dark clouds blow in from the sea over Kochi. (back: Rain chain, card 1 of 6); Heavy rain falls all afternoon. (back: Rain chain, card 2 of 6); Water fills the lane outside the flats. (back: Rain chain, card 3 of 6); The school van has to drive very slowly. (back: Rain chain, card 4 of 6); Asha reaches school late. (back: Rain chain, card 5 of 6); Asha's teacher waits for her before starting the story. (back: Rain chain, card 6 of 6); Amma lights the gas under the tawa. (back: Dosa chain, card 1 of 6); The tawa gets hot. (back: Dosa chain, card 2 of 6); Amma pours dosa batter onto the hot tawa. (back: Dosa chain, card 3 of 6); The batter cooks and turns crisp and brown. (back: Dosa chain, card 4 of 6); The smell of dosa fills the flat. (back: Dosa chain, card 5 of 6); Thatha comes into the kitchen, hungry. (back: Dosa chain, card 6 of 6); A ripe mango falls from the tree. (back: Mango chain, card 1 of 6); A squirrel eats the mango and leaves the seed. (back: Mango chain, card 2 of 6) [picture]; Rain soaks the seed lying in the soil. (back: Mango chain, card 3 of 6); The seed sends out a root and a shoot. (back: Mango chain, card 4 of 6); Years later, a young mango tree stands there. (back: Mango chain, card 5 of 6) [picture]; The young tree grows ripe mangoes. (back: Mango chain, card 6 of 6. This leads back to card 1, so the chain is a loop.)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards together. 2. Lay out the three start cards. 3. Read the rules out loud.  
@@ -206,10 +206,10 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
   *Child mode:* Pat the person in front only when you feel a pat.
 - **s2 (6 min)**  
   *Parent does:* 1. Do two tries with eyes open and two with eyes closed. 2. Write each time on the sheet.  
-  *Parent says:* How many seconds did it take? Will it be faster or slower with eyes closed? Why do you think so?  
-  *Child mode:* How many seconds did it take? Try with eyes closed. Is it faster or slower?
+  *Parent says:* How many seconds did it take? Now try with your eyes closed. Will it take more time, less time or about the same? Why do you think so?  
+  *Child mode:* How many seconds did it take? Try with eyes closed. Will it take more time, less time or the same?
   - Ask: Why does the pat take some time to get to the front? (good: Each person needs a moment to feel it and pat.; It has to go through every person, one at a time.)
-  - Note: Each person takes a short moment to feel the pat and pass it on. More people in the line means a longer time.
+  - Note: Each person takes a short moment to feel the pat and pass it on. More people in the line means a longer time. With eyes closed it should take about the same time. Each person acts when they feel the pat, not when they see anything.
 - **s3 (2 min)**  
   *Parent does:* 1. One person in the middle steps out to the side and does not pat. 2. Play once more.  
   *Parent says:* Now one link is missing. Will the pat still reach the front?  
@@ -221,14 +221,14 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 ### e1 · The Domino Gap Test: how far apart can they be? (30 min)
 - **question:** How far apart can dominoes stand and still knock each other down, all the way to the end of the line?
 - **predict:** We will try three gaps: one finger wide, half a domino tall, and one whole domino tall. Which gaps will make all ten dominoes fall? Why do you think so?
-- **fair test:** We change only the gap. We use the same ten dominoes on the same floor each time. We give the first domino the same gentle push with one finger. We switch off the fan, because moving air can knock over light dominoes. We try each gap twice, because one try can be a fluke.
+- **fair test:** We change only the gap. We use the same ten dominoes on the same floor each time. We give the first domino the same gentle push with one finger. We switch off the fan, because moving air can knock over light dominoes. We try each gap twice, because one try can go wrong by chance.
 - **safety:** If you use matchboxes, take all the matches out first. A grown-up keeps the matches away from children.
 - **record:** Fill in the results table. Then draw the line of dominoes for the widest gap, showing which ones fell and which stayed up.
 - **results table:** Gap | First try: how many fell (out of 10)? | Second try: how many fell (out of 10)?
 - **s1 (4 min)**  
-  *Parent does:* 1. Stand one domino on its short end on the paper strip. 2. Your child marks the strip level with the top of the domino. 3. Cut the strip at the mark. 4. Fold it in half and mark the fold.  
+  *Parent does:* 1. Stand one domino on its short end. 2. Hold the paper strip upright beside it, with one end on the floor. 3. Your child marks the strip level with the top of the domino. 4. Cut the strip at the mark. 5. Fold it in half and mark the fold.  
   *Parent says:* This strip is exactly as long as a domino is tall. Folded in half, it shows half a domino's height. We will use it to set the gaps.  
-  *Child mode:* Stand a domino on the paper. Mark how tall it is. Cut the paper there. Fold it in half.
+  *Child mode:* Stand a domino up. Hold the paper strip beside it. Mark how tall the domino is. Cut the paper there. Fold it in half.
   - Note: Measuring with the strip means the test works with any dominoes, matchboxes or blocks, whatever their size.
 - **s2 (3 min)**  
   *Parent does:* 1. Switch off the fan. 2. Show your child the three gaps: one finger, half the strip and the whole strip. 3. Ask the question below.  
@@ -237,8 +237,8 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
   - Ask: Which gaps will make all ten dominoes fall? Why? (good: The small gaps, because each domino can reach the next one.; The big gap, because the domino falls harder from further away.; All of them, because a push always goes on.)
   - Note: Write down your child's guess and their reason. Do not say who is right. Many children think a bigger gap gives a harder hit.
 - **s3 (7 min)**  
-  *Parent does:* 1. Your child stands ten dominoes in a straight line, one finger apart. 2. Start at the far end, so a slip knocks over only a few. 3. Push the first domino gently with one finger. 4. Count how many fell. 5. Do it once more.  
-  *Parent says:* Put one finger between each domino and the next. Now give the first one a gentle push. Don't push hard. How many fell?  
+  *Parent does:* 1. Your child stands ten dominoes in a straight line, one finger apart. 2. Build the line from the far end towards you, so that a slip knocks over only a few. 3. Push the first domino gently with one finger. 4. Count how many fell. 5. Do it once more.  
+  *Parent says:* Leave a gap one finger wide between each domino and the next. Now give the first one a gentle push. Don't push hard. How many fell?  
   *Child mode:* Stand ten dominoes in a line, one finger apart. Push the first one gently. Count how many fall.
   - Note: If some fall while your child is setting them up, that is normal. Stand them up again. With a one-finger gap, all ten usually fall.
 - **s4 (6 min)**  
@@ -253,8 +253,8 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
   - Ask: Where did the first domino land? Did it touch the second one? (good: It lay down flat and just reached the bottom of the next one.; It did not reach the next one, so that one stayed up.)
   - Note: Usually only the first one falls. Lying flat, it just reaches the bottom of the next domino, too low to tip it. If your dominoes slide on a smooth floor, try a rough tile or a table.
 - **s6 (4 min)**  
-  *Parent does:* 1. Stand the line again with the half-strip gaps. 2. Take out the fifth domino. 3. Push the first one and count how many fall. 4. Ask your child what they think, what they saw and why. 5. Then read the card on why the last domino falls.  
-  *Parent says:* This time we take one domino out of the middle. What will happen? Push. How many fell? Why do you think the chain stopped where it did?  
+  *Parent does:* 1. Stand the line again with the half-strip gaps. 2. Take out the fifth domino. 3. Push the first one and count how many fall. 4. Ask your child what they saw, and why they think the chain stopped. 5. Then read the card 'A chain of causes: why the last domino falls'.  
+  *Parent says:* This time we take one domino out of the middle. What will happen? Push the first one. How many fell? Why do you think the chain stopped where it did?  
   *Child mode:* Take out the fifth domino. Push the first one. Where does the chain stop? Why?
   - Ask: Why did the chain stop? (good: The fourth domino had nothing to hit.; There was a big hole, so the push could not get across.; Each domino only falls if the one before it hits it.)
   - Note: Four dominoes fall, then the chain stops at the hole. Let your child explain it before you read the card. A strong answer says that each domino falls only when the one before it hits it.
@@ -262,7 +262,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 ### e2 · The Coin Chain: which coin moves? (20 min)
 - **question:** If you slide a coin into one end of a line of coins, which coin will move away?
 - **predict:** When the sliding coin hits the line, which coin will move? The first one, the middle ones, the last one, or all of them? Why do you think so?
-- **fair test:** All the coins are the same kind, so they are the same size and weight. They touch each other in a straight line. We slide the coin the same way each time, on the same smooth surface. We try each test three times, because one try can be a fluke.
+- **fair test:** All the coins are the same kind, so they are the same size and weight. They touch each other in a straight line. We slide the coin the same way each time, on the same smooth surface. We try each test three times, because one try can go wrong by chance.
 - **record:** Draw the line of coins before and after each test. Draw an arrow on each coin that moved.
 - **results table:** Test | Which coins moved away? | Did the middle coins move?
 - **s1 (4 min)**  
@@ -283,7 +283,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
   *Child mode:* Two coins hit the line together. How many move away at the end?
   - Note: Usually two coins slide away at the far end. If only one moves, check that the two coins were touching as they slid. Try again.
 - **s4 (4 min)**  
-  *Parent does:* 1. Ask your child what they think, what they saw and why. 2. Then read the card on why the last domino falls.  
+  *Parent does:* 1. Ask your child what they saw, and how they think the push reached the last coin. 2. Then read the card 'A chain of causes: why the last domino falls'.  
   *Parent says:* The middle coins hardly moved. But the last coin flew off. How did the push get to the end?  
   *Child mode:* The middle coins hardly moved. How did the push get to the end coin?
   - Ask: How did the push get from the first coin to the last coin? (good: Each coin pushed the next one.; The push went through the coins, like through dominoes.; The coins passed it on without moving much.)
@@ -293,7 +293,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 ### a1 · Do It and See: six actions, six effects (10 min)
 - **record:** Draw one action and its effect, with an arrow from the action to the effect.
 - **s1 (6 min)**  
-  *Parent does:* 1. Your child drops the spoon onto the plate. 2. Holds the paper strip in front of the fan and switches the fan on. 3. Stirs a spoon of sugar into the water and tastes it. 4. Breathes on the steel tumbler. 5. Claps once. 6. Switches the light off and on.  
+  *Parent does:* Your child does each of these. 1. Drop the spoon onto the plate. 2. Hold the paper strip in front of the fan and switch the fan on. 3. Stir a spoon of sugar into the water and taste it. 4. Breathe on the steel tumbler. 5. Clap once. 6. Switch the light off and on.  
   *Parent says:* Do this, and tell me what happened because of it. What you did is called the cause. What happened is called the effect.  
   *Child mode:* Do each action. Then say what happened. What you did is the cause. What happened is the effect.
   - Ask: What was the effect of breathing on the tumbler? (good: The steel went cloudy.; A misty patch came on it, and then it went away.)
@@ -310,7 +310,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
   *Parent does:* 1. Before you start, without your child seeing, spill a little water near a tumbler. 2. Leave a book on the floor near a table edge. 3. Leave biscuit crumbs on a plate. 4. Put one chappal upside down by the door.  
   *Parent says:* Something happened in four places in our home. Your job is to find out what caused each one. Look for clues.  
   *Child mode:* Four things happened at home. Find them. Look for clues. What caused each one?
-  - Note: Choose effects with clear clues. The wet tumbler is a clue for the water. The table edge is a clue for the book.
+  - Note: Choose effects with clear clues. The wet tumbler is a clue for the water. The table edge is a clue for the book. The upside-down chappal is a clue that someone kicked it off in a hurry.
 - **s2 (8 min)**  
   *Parent does:* 1. Your child finds each effect. 2. For each one, ask the questions below.  
   *Parent says:* What do you think caused this? What clue tells you? Could anything else have caused it?  
@@ -321,7 +321,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
   *Parent does:* 1. Switch on a light just as your child walks into the room. 2. Ask the question below.  
   *Parent says:* The light came on just as you walked in. Did your walking in make the light come on?  
   *Child mode:* The light came on as you walked in. Did you make it come on?
-  - Ask: Did walking in make the light come on? (good: No, you pressed the switch.; It only happened at the same time.)
+  - Ask: Did walking in make the light come on? (good: No, the grown-up pressed the switch.; It only happened at the same time.)
   - Note: This shows that two things can happen together, or one after the other, without one causing the other.
 ### a3 · The Ant Message Chain (15 min)
 - **record:** Draw the paper each time you look, with a dot for each ant. Write the time and the number of ants.
@@ -339,13 +339,13 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
   - Wait: 10 to 20 minutes later
 - **s3 (5 min)**  
   *Parent does:* 1. Talk about the chain together. 2. Afterwards, move the paper outside or wipe the sugar away, without hurting the ants.  
-  *Parent says:* First the sugar. Then one ant found the sugar. Then she left a smell trail. Then many ants came. What started the chain?  
+  *Parent says:* First we put down the sugar water. Then one ant found it. Then she left a smell trail. Then many ants came. What started the chain?  
   *Child mode:* One ant found the sugar. Then many came. What started the chain?
   - Note: Ants sense, think and tell each other where food is. Some scientists say the trail is only an automatic reaction, and others say each ant chooses. Either way, one ant's find was the cause of all the others coming.
 
 ## Projects
 ### p1 · Tonight's Cause, Tomorrow's Effect: soaking chana (15 min, 2 days)
-- **record:** Write how long the line of ten chana was at night and in the morning. Draw one chana before and after, the right sizes.
+- **record:** Write how long the line of ten chana was at night and in the morning. Draw one chana before soaking and one after, each at its real size.
 - **schedule:** day 1: Line up ten dry chana and measure the line. Soak them in water overnight. (8 min); day 2: Line up the same ten chana and measure again. Compare. (7 min)
 - **s1 (8 min)**  
   *Parent does:* 1. Your child lines up ten dry chana, touching, along a ruler. 2. Write down the length. 3. Put them in a bowl with plenty of water. 4. Ask the question below.  
@@ -355,7 +355,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
   - Note: Many homes soak chana overnight before cooking. Use plenty of water, at least three times as much as the chana.
 - **s2 (7 min)**  
   *Parent does:* 1. Take out the same ten chana. 2. Your child lines them up along the ruler again. 3. Compare the two lengths. 4. Look at how much water is left in the bowl.  
-  *Parent says:* How long is the line now? Is there less water in the bowl? Where did the water go? When did we cause this?  
+  *Parent says:* How long is the line now? Is there less water in the bowl? Where did the water go? When did we do the thing that caused this?  
   *Child mode:* Measure the line again. Is it longer? Where did the water go?
   - Ask: The cause happened last night. Why could we only see the effect this morning? (good: The chana drink the water slowly.; It takes many hours for water to get inside.)
   - Note: The line of ten is usually much longer in the morning, because the seeds have soaked up water. Cook the chana afterwards, so nothing is wasted.
@@ -400,10 +400,10 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
    **Answer:** The fourth domino had nothing to hit, so the push could not get past the hole.. *Why:* A strong answer says that each domino falls only when the one before it hits it. Saying 'because it was broken' does not say which link was missing.
 7. (order) Put this chain of causes in order.  
    **Answer:** [0, 1, 2, 3]. *Why:* Each one causes the next. The clouds bring rain, the rain fills the lane, and the water makes the van go slowly.
-8. (count) Kavya stood up 10 dominoes with the widest gap. When she pushed, only 1 fell. How many stayed standing?  
+8. (count) You stood up 10 dominoes with the widest gap. When you pushed the first one, only 1 fell. How many stayed standing?  
    **Answer:** 9. *Why:* 10 take away 1 is 9. Nine dominoes stayed standing, because the first one could not reach the second.
-9. (perspective) Meenakshi, a girl in Class 2, and her brother Arjun watch the last domino fall.  
-   **Answer:** A strong answer picks a side and gives a reason, then sees the other side. For example: Arjun is right that the ninth domino hit the last one. Meenakshi is right that without her push, nothing would have fallen.. *Why:* Both are partly right. The last domino's nearest cause was its neighbour. But the push started with the finger. Every link in a chain is a cause.
+9. (perspective) The first person pushes the first domino in a line. She and her brother the second person watch the last domino fall.  
+   **Answer:** A strong answer picks a side and gives a reason, then sees the other side. For example: The second person is right that the ninth domino hit the last one. The first person is right that without her push, nothing would have fallen.. *Why:* Both are partly right. The last domino's nearest cause was its neighbour. But the push started with the finger. Every link in a chain is a cause.
 10. (fill) What makes something happen is called the ____.  
    **Answer:** cause. *Why:* The cause comes first and makes something happen. What happens is the effect.
 ### Coins, Chana and Hidden Causes (stretch) (stretch, 10 questions)
@@ -419,13 +419,13 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
    **Answer:** 1. *Why:* The rooster crows before sunrise, but the Sun would rise anyway. Both happen because morning is coming. In the other three, the first thing really causes the second.
 5. (truefalse) If one thing happens just before another, the first thing must be its cause.  
    **Answer:** False. *Why:* False. A rooster crows before sunrise, but does not make the Sun rise. To find a real cause, we test by changing one thing.
-6. (perspective) Meenu, a girl in Class 2, made a new friend after her school van was late because a coconut fell on the road. Her cousins Revathi and Joel talk about it.  
-   **Answer:** A strong answer picks a side with a reason and sees the other side. For example: Joel is right that Meenu chose to speak. Revathi is right that Meenu would not have been there without the coconut.. *Why:* Both are real causes. A happening usually has many causes, some that just happen and some that people choose.
-7. (fill) Soaked overnight in water, dry chana become ____ by the morning.  
+6. (perspective) In the story, Meenu made a new friend after her school van was late because a coconut fell on the road. Her cousins the first person and the second person talk about it.  
+   **Answer:** A strong answer picks a side with a reason and sees the other side. For example: The second person is right that Meenu chose to speak. The first person is right that Meenu would not have been there without the coconut.. *Why:* Both are real causes. A happening usually has many causes, some that just happen and some that people choose.
+7. (fill) Dry chana soaked in water overnight become ____ by the morning.  
    **Answer:** bigger. *Why:* The chana seeds soak up water through the night. The effect takes hours to show.
 8. (label) Label the two pictures: write 'cause' under one and 'effect' under the other.  
    **Answer:** ['a rain cloud pouring rain: cause', 'a puddle on the road: effect']. *Why:* The rain comes first and makes the puddle. So the rain is the cause, and the puddle is the effect.
-9. (count) Before soaking, Kavya's line of 10 chana was 8 centimetres long. In the morning, it was 12 centimetres long. How much longer was it?  
+9. (count) Before soaking, a line of 10 chana was 8 centimetres long. In the morning, the line was 12 centimetres long. How much longer was it?  
    **Answer:** 4. *Why:* 12 take away 8 is 4. The line was 4 centimetres longer, because each chana had soaked up water.
 10. (mcq) Why did the chain stop when the gap was as wide as a domino is tall?  
    Options: The falling domino could not reach high enough on the next one / The dominoes were too heavy / The push got tired  
@@ -433,8 +433,8 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 ### Chains, Loops and Proof (challenge) (challenge, 10 questions)
 1. (write) Does the floor change how well a domino chain works? Say how you would test it, and what you would keep the same.  
    **Answer:** Set up the same ten dominoes with the same gap, first on a smooth tile and then on a mat. Push the same way. Keep the dominoes, the gap and the push the same, and change only the floor.. *Why:* A strong answer changes only the floor and keeps everything else the same, so any difference must be caused by the floor.
-2. (perspective) Nila, a girl in Class 2, and her grandmother watch a domino line fall.  
-   **Answer:** A strong answer picks a side and gives a reason. For example: Nila is right that the dominoes touched and pushed. Her grandmother is right that what our eyes see is one movement after another.. *Why:* This is a real question that thinkers have argued about. The Scottish thinker David Hume said, in 1748, that we never see a cause itself, only one thing following another.
+2. (perspective) The first person and her grandmother watch a line of dominoes fall.  
+   **Answer:** A strong answer picks a side and gives a reason. For example: The first person is right that the dominoes touched and pushed. Her grandmother is right that what our eyes see is one movement after another.. *Why:* This is a real question that thinkers have argued about. The Scottish thinker David Hume said, in 1748, that we never see a cause itself, only one thing following another.
 3. (draw) Draw a plan for a machine where one push starts four causes in a row, and the last one rings a steel bowl. Put an arrow from each cause to its effect.  
    **Answer:** A drawing with at least four parts, such as dominoes, a ruler see-saw, a rolling marble and a steel bowl, each joined by an arrow.. *Why:* A strong plan has every link able to reach the next one. Each arrow shows which thing makes the next one happen.
 4. (mcq) In 1668, Francesco Redi put meat in jars. Some were open and some were covered with fine cloth. What grew on the covered meat?  
@@ -493,7 +493,7 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 11. (mcq) Every morning a rooster crows, and then the Sun rises. What is true?  
    Options: The rooster makes the Sun rise / The rooster crows because morning is coming / The Sun makes the rooster quiet  
    **Answer:** The rooster crows because morning is coming. *Why:* The Sun rises even when the rooster is quiet. Coming first does not make something the cause.
-12. (mcq) Long ago, many people thought maggots grew by themselves out of rotting meat. What did Francesco Redi's covered jars show?  
+12. (mcq) Long ago, many people thought maggots grew by themselves out of rotting meat. Meat is put in two jars. One jar is open. The other is covered with fine cloth, so flies cannot get in. Maggots grow only in the open jar. What does this show?  
    Options: Maggots come from eggs that flies lay / Meat turns into maggots when it gets old / Cloth makes maggots  
    **Answer:** Maggots come from eggs that flies lay. *Why:* No maggots grew where flies could not reach the meat. The real cause was the flies' eggs.
 
@@ -518,10 +518,10 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 
 ## Questions to ask kids
 - What did you do today that caused something else to happen?
-- Something happened at lunch today. What caused it? What caused that?
+- Think of one thing that happened at lunch today. What caused it? And what caused that cause?
 - Look at the traffic from the window or the bus. When one car stops, what happens behind it?
 - Can you think of an effect that comes a long time after its cause?
-- If you took one step out of your morning, which other things would not happen?
+- If you left out one thing you do every morning, which other things would not happen?
 
 ## Jokes
 - Why did the domino go to bed early? *It had a long day of falling for its friends!*
@@ -535,8 +535,8 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 - Why did the ant tell all her friends about the sugar? *Because sweet news travels fast!*
 
 ## Connected maths
-- Kavya stood 10 dominoes in a line and took out the fifth one. When she pushed the first, 4 fell. How many dominoes were still standing? **5 dominoes.**. She took 1 domino out, so 9 were in the line. 4 fell. 9 take away 4 is 5. So 5 stayed standing after the gap. (queues `math.addition-subtraction.meaning.L2`)
-- Each of Kavya's dominoes is 5 centimetres tall. A gap must be less than one domino's height for the chain to work. Which of these gaps will work: 2 centimetres, 4 centimetres or 6 centimetres? **2 centimetres and 4 centimetres.**. 2 and 4 are both less than 5, so the falling domino can reach the next one. 6 is more than 5, so the falling domino lies flat before it reaches the next one. (queues `math.number-sense.comparing-ordering.L2`)
+- You stood 10 dominoes in a line and took out the fifth one. When you pushed the first, 4 fell. How many dominoes were still standing? **5 dominoes.**. You took 1 domino out, so 9 were in the line. 4 fell. 9 take away 4 is 5. So 5 stayed standing after the gap. (queues `math.addition-subtraction.meaning.L2`)
+- Each domino is 5 centimetres tall. A gap must be less than one domino's height for the chain to work. Which of these gaps will work: 2 centimetres, 4 centimetres or 6 centimetres? **2 centimetres and 4 centimetres.**. 2 and 4 are both less than 5, so the falling domino can reach the next one. 6 is more than 5, so the falling domino lies flat before it reaches the next one. (queues `math.number-sense.comparing-ordering.L2`)
 - In the morning, 10 soaked chana made a line 12 centimetres long. About how long would a line of 20 soaked chana be? **About 24 centimetres.**. 20 chana is two lots of 10. Each lot of 10 makes about 12 centimetres. 12 and 12 make 24. (queues `math.multiplication.equal-groups.L2`)
 - In Pass the Push, a line of 4 people passed the pat to the front in about 2 seconds. If 8 people stand in the line, about how long will it take? **About 4 seconds.**. 8 people is twice as many as 4. Each person needs about the same moment to feel the pat and pass it on. So it takes about twice as long: 2 and 2 make 4 seconds. Your real time may be a little more or less. (queues `math.patterns.number-patterns.L2`)
 

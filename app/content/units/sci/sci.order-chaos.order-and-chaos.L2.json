@@ -3,7 +3,7 @@
  "title": "Neat and messy: why a falling leaf never lands in the same place twice",
  "level": 2,
  "summary": {
-  "text": "Drop a crumpled ball of paper ten times, and it lands near the same spot every time. Drop a flat paper leaf the same way, and it lands somewhere new each time. Both are pulled down by gravity, and the air pushes against both. The air pushes the light, flat leaf so much that the smallest change sends it somewhere else. Splashes, falling leaves and clouds are like this: they follow rules, but they never happen the same way twice. A kolam drawn from dots is the other kind of thing. It has order, so you can draw it the same way every morning.",
+  "text": "Drop a crumpled ball of paper ten times, and it lands near the same spot every time. Drop a flat paper leaf the same way, and it lands somewhere new each time. Both are pulled down by gravity, and the air pushes against both. The air pushes the light, flat leaf so much that the smallest change sends it somewhere else. Splashes, falling leaves and clouds are like this: they follow rules, but they never happen the same way twice. A kolam drawn around a grid of dots is different. It follows a rule that tells you where the line goes, so you can draw it the same way every morning.",
   "art": "A child standing on a newspaper on the floor, letting go of a flat paper leaf that flutters sideways, while a crumpled paper ball falls straight down onto a circle drawn on the paper. Around the circle are many crayon crosses where the leaf landed before."
  },
  "intro": {
@@ -139,7 +139,7 @@
    "examples": [
     "Where a paper leaf lands",
     "How a coin lands when you toss it",
-    "Which way a tiny particle of light goes when it hits glass"
+    "Whether one tiny piece of light bounces off a window or passes through it"
    ],
    "perspectives": [
     {
@@ -183,7 +183,7 @@
    "for": "When he saw splashes in a flash of light, they looked like neat crowns with evenly spaced points.",
    "against": "When he took photographs of splashes in the 1890s, they were far less even than his drawings. He had drawn them neater than they really were, without meaning to.",
    "status": "rejected",
-   "context": "This card is about a scientist whose eyes saw more order than there really was."
+   "context": "A splash happens when a drop hits something and breaks into little drops. Arthur Worthington drew splashes as neat crowns with evenly spaced points. This card asks if real splashes are that neat."
   },
   {
    "claim": "A leaf falls wherever luck sends it, and no rules decide where it lands.",
@@ -191,7 +191,7 @@
    "for": "Nobody can say where a falling leaf will land, so it seems to be pure luck.",
    "against": "Gravity pulls the leaf and the air pushes it, by the same rules every time. Scientists who study falling paper with computers can work out how it will swing, if they know exactly how it started.",
    "status": "rejected",
-   "context": "This card is about a common idea that messy means no rules."
+   "context": "A falling leaf lands somewhere different each time. Some people say this means no rules decide where it lands. This card asks if that is right."
   },
   {
    "claim": "With a big enough computer, we could predict exactly where every falling leaf will land.",
@@ -199,7 +199,7 @@
    "for": "The leaf follows rules, so a computer that knew everything about the leaf and the air could follow them.",
    "against": "Nobody can measure every tiny movement of the air and every tiny bend in the leaf. The smallest mistake grows as the leaf falls.",
    "status": "debated",
-   "context": "This card is about whether chaos could ever be predicted."
+   "context": "Scientists call things that follow rules but never happen the same way twice chaotic. This card asks if a very big computer could predict exactly where a falling leaf will land."
   }
  ],
  "big_questions": [
@@ -512,7 +512,7 @@
      "what": "Drop haldi water from the same height four times, then from higher up. Compare the splashes."
     }
    ],
-   "record": "Fill in the results table. Draw a circle around each splash and write its height beside it.",
+   "record": "Fill in the results table. Draw a circle around each splash and write its height beside it. Then you can compare the splash from high up with the others.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1158,7 +1158,7 @@
     {
      "day": 3,
      "mins": 7,
-     "what": "Find two new things in the kitchen. Then read the whole diary and choose your favourite page."
+     "what": "Find two new things in the kitchen. Then read the whole diary and sort the things into 'has a rule' and 'messy'."
     }
    ],
    "record": "Each page has two boxes: 'Same every time' and 'Never twice'. Draw one thing in each box and write one word about it.",
@@ -1203,8 +1203,8 @@
      "mins": 7,
      "wait": "The next day",
      "do": "1. Your child finds two new things in the kitchen. 2. Then your child reads the whole diary aloud.",
-     "say": "Find two things in the kitchen today. Then let's read your whole diary. Which page do you like best?",
-     "kid": "Find two things in the kitchen. Then read your diary. Which page is best?",
+     "say": "Find two things in the kitchen today. Is each one the same every time, or never the same twice? Then let's read your whole diary. Which things have a rule, and which are messy?",
+     "kid": "Find two things in the kitchen. Same every time, or never twice? Then read your diary. Which things have a rule?",
      "ask": [
       {
        "q": "What did you find in the kitchen?",
@@ -1225,7 +1225,7 @@
    "title": "The Landing Challenge: make a flat paper leaf land on the target",
    "mins": 20,
    "context": "This is a design challenge. A flat paper leaf lands in a new place every time. Without crumpling it, can you change it so it lands inside the circle more often?",
-   "problem": "Change a flat paper leaf so that it lands inside the plate circle as often as possible, without crumpling it into a ball.",
+   "problem": "Change a flat paper leaf so that it lands inside the plate circle as often as possible, without crumpling it into a ball. The leaf lands in a new place each time because the air pushes on its big flat side and makes it swing. So a design that stops the swinging should land in the same place more often.",
    "constraints": [
     "Use a paper leaf the same size as in the paper leaf test.",
     "Do not crumple it into a ball.",
@@ -1299,7 +1299,7 @@
        ]
       }
      ],
-     "parent": "Designs that stop the leaf swinging make it easier to predict. That is why a seed like a coconut drops straight, but a light, winged seed drifts far."
+     "parent": "Designs that stop the leaf swinging make it easier to predict. In the same way, a heavy coconut drops straight down. A light seed with a wing swings and drifts far away."
     }
    ]
   }

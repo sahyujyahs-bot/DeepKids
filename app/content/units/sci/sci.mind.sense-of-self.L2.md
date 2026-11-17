@@ -20,7 +20,7 @@
 - **Tickle**: A tickle is a light touch that makes you squirm or laugh. *e.g.* A feather stroked on the bottom of your foot can tickle.
 - **Vibrate**: To vibrate is to shake back and forth very fast. Sound is made by things that vibrate. *e.g.* Put your fingers on your throat and hum. You can feel it vibrate.
 - **Feeling**: A feeling is what happens inside you when you are happy, scared, angry, sad or excited. Another word for it is emotion. *e.g.* Before a race you might feel excited and a little scared at the same time.
-- **Like**: A like is something you enjoy and choose when you can. A dislike is something you would rather not have. *e.g.* Lakshmi likes mango and dislikes bitter gourd.
+- **Like**: A like is something you enjoy and choose when you can. A dislike is something you would rather not have. *e.g.* You might like mango and dislike bitter gourd.
 
 ## Explanations
 ### A sense of self · *defined*
@@ -52,8 +52,8 @@ Only you feel your feelings from the inside. Other people see clues, such as you
 - **Many scientists who study babies:** Some likes are there from birth, such as liking sweet tastes. Others are learnt from trying things many times.
 - **Other scientists:** Even the likes we are born with change a lot with what our family eats and does, so most likes are learnt.
 ### Other beings know their own from another's · *debated*
-Humans are not the only beings who tell their own from another's. Many flowers know their own pollen and stop it from making seeds. Roots of some grasses grow differently near their own roots than near roots of another plant. A male cricket sings very loudly, and his hearing turns down while he sings, so his own song does not deafen him. Your brain does something like this when you tickle yourself. Plants and crickets sense, decide and know their own. Some scientists call this an automatic response and say a real sense of self needs a brain like ours.
-- e.g. A flower keeps its own pollen from making seeds, and lets in pollen from another plant.
+Humans are not the only beings who tell their own from another's. Pollen is the fine dust that flowers make. Many flowers know their own pollen and stop it from making seeds. Roots of some grasses grow differently near their own roots than near roots of another plant. A male cricket sings very loudly, and his hearing turns down while he sings, so his own song does not deafen him. Your brain does something like this when you tickle yourself. Plants and crickets sense, decide and know their own. Some scientists call this an automatic response and say a real sense of self needs a brain like ours.
+- e.g. A flower keeps their own pollen from making seeds, and lets in pollen from another plant.
 - e.g. A singing cricket turns down his own hearing while he sings.
 - e.g. Newborn human babies turn their head more to someone else's touch than to their own.
 - **Many biologists who study plants and insects:** A flower that rejects their own pollen and a cricket that quiets his own song are telling 'me' from 'not me'. That is a sense of self, in their own way.
@@ -61,17 +61,17 @@ Humans are not the only beings who tell their own from another's. Many flowers k
 
 ## Mostly agreed
 - Your own touch feels weaker than the same touch from someone else. This is why most people cannot tickle themselves. *How we know:* Scientists have tested people with tickling machines since 1971. In these tests people rated their own touch as less ticklish.
-- Your voice sounds different to you than to others, because you also hear it through the bones of your head. *How we know:* When people hear their voice with their ears blocked, it sounds deeper. Recordings, which pick up only air, sound higher to the speaker.
+- Your voice sounds different to you than to others, because you also hear it through the bones of your head. *How we know:* When people hear their voice with their ears blocked, it sounds deeper. A recording picks up only the sound in the air, so it sounds higher to the person who spoke.
 - A sense of self starts very early. Newborn babies react differently to their own touch and someone else's. *How we know:* In 1997 Philippe Rochat and Susan Hespos watched newborn babies. The babies turned to a finger on their cheek more often than to their own hand.
 
 ## How we found out
 **Lawrence Weiskrantz and colleagues at Oxford, then Sarah-Jayne Blakemore with Daniel Wolpert and Chris Frith in London, The first tickling machine study was in 1971. The robot studies were in 1998 and 1999..** For a long time people simply said you can't tickle yourself because you know the touch is coming. In 1971, Lawrence Weiskrantz and his colleagues at Oxford tested it with a tickling machine. People rated being tickled by someone else as more ticklish than tickling themselves. In the late 1990s, Sarah-Jayne Blakemore, a young scientist in London, worked with Daniel Wolpert and Chris Frith to test this idea more exactly. People moved a lever with one hand. A robot then stroked their other palm with soft foam. With no delay, the stroke hardly tickled. When the robot added a delay of a fraction of a second, or moved in a different direction, the same stroke tickled more. The people still knew the touch was coming, because they made it. So knowing was not enough. The brain predicts the exact touch from the movement, and turns down only what matches. Brain scans showed a part at the back of the brain, called the cerebellum, helps make this prediction.  
-*What people believed before:* That you can't tickle yourself only because you know the touch is coming. Blakemore's robot showed that even when people knew, a tiny delay made their own touch tickle again.
+*What people believed before:* People thought you can't tickle yourself only because you know the touch is coming. Blakemore's robot showed that even when people knew, a tiny delay made their own touch tickle again.
 
 ## Challenging perspectives
 - **You cannot tickle yourself only because you know when the touch is coming.** (A common idea; *rejected*)  
   For: When you tickle yourself you do know when and where the touch will be.  
-  Against: In Sarah-Jayne Blakemore's tests, people moved a robot that touched their own hand. They knew exactly when. When the robot added a tiny delay, the touch tickled more. So it is about precise prediction, not only knowing.
+  Against: In Sarah-Jayne Blakemore's tests, people moved a robot that touched their own hand. They knew exactly when the touch would come. When the robot added a tiny delay, the touch tickled more. So knowing is not enough. The brain has to predict the touch exactly.
 - **Only beings with big brains can tell themselves apart from others.** (Many people, and some scientists; *debated*)  
   For: Knowing 'this is me' in a mirror has been seen mostly in animals with big brains, such as apes, elephants and dolphins.  
   Against: Flowers reject their own pollen, roots treat their own roots differently, and crickets quiet their own song. Telling self from other is found all through life.
@@ -86,26 +86,26 @@ We have tested how your body knows its own touch, voice and likes. Now we ask wh
 *Habit it breaks:* We think knowing who we are is something we work out by thinking about it. But the tickle test shows the body sorts 'my touch' from 'another's touch' all the time, before any thought.  
 *Evidence:* In the tickle test, with the same feather, spot and strokes, most people scored their own stroke lower than someone else's.
 
-- *who am i:* You are a body whose movements your brain keeps track of, so it knows which touches are yours.
-- *what is life:* Many living beings tell their own from another's: a baby with a finger on the cheek, a flower with pollen, a cricket with a song.
-- *what is this world:* The world is full of beings who each know their own touch, their own song or their own pollen.
+- *who am i:* Your brain keeps track of every movement your body makes, so it knows which touches are yours.
+- *what is life:* Many living beings tell their own from another's. A newborn baby turns more to someone else's finger than to their own hand. A flower knows their own pollen. A cricket turns down his hearing for his own song.
+- *what is this world:* Many living beings, from babies to flowers to crickets, are able to tell what is their own from what is not.
 
 A baby, a flower and a cricket each tell their own from another's, in their own way. You do it with touch: your brain predicts your own touch and turns it down. Telling 'me' from 'not me' starts in the body, before words.
 
 - **Ramana Maharshi, Nan Yar? (Who am I?), Tiruvannamalai, teachings recorded from about 1902:** Ramana Maharshi, a teacher from Tamil Nadu, asked people to look for the 'I' that notices everything. He said to keep asking 'Who am I?' (In this unit you asked 'who am I?' with tests: whose touch, whose voice, whose likes. Your body already answers part of it, by knowing its own touch.)
 - **The inscription 'Know thyself' at the temple of Apollo at Delphi, as recorded by Plato in Protagoras 343b:** Ancient Greeks carved the words 'Know yourself' at a famous temple. Many thinkers took it as the first step to wisdom. (Knowing yourself turns out to include surprises: your voice sounds different to others, and your mirror face is the other way round from your photo.)
-- Science (settled): Your own touch feels weaker because your brain predicts it from a copy of your movement message.
-- Science (debated): Whether plants and insects have a sense of self in the same way as humans is argued about.
+- Science (settled): Your own touch feels weaker because your brain keeps a copy of the message it sends to your muscles, and uses the copy to predict the touch.
+- Science (debated): Scientists do not agree on whether plants and insects have a sense of self in the way humans do.
 - Other view, David Hume, a Scottish thinker, in A Treatise of Human Nature, Book 1, Part 4, Section 6 (1739): Hume said that when he looked inside himself, he only ever found a feeling, a thought or a sight, never a 'self' on its own. He thought the self is a bundle of these, always changing. Many brain scientists today also say there is no single 'me' spot in the brain.
-- Practice, Touching and Touched (3 min): Close your eyes. Put your right hand gently on your left arm. Can you feel your hand touching? Can you feel your arm being touched? Breathe in slowly. Breathe out. Now stroke your arm slowly. Which one is you, the hand or the arm?
+- Practice, Touching and Touched (3 min): Close your eyes. Put your right hand gently on your left arm. Can you feel your hand touching? Can you feel your arm being touched? Breathe in slowly. Breathe out. Now stroke your arm slowly. You feel the touching and the being touched at the same moment. Is the hand you, or the arm, or both?
 - Ask: If your brain turns down your own touch, how do you know you are touching anything at all?
 - Ask: Your body tells your own touch from another's before you think about it. What else might your body do for you without thinking?
 
 ## Deep and big questions
-- *big:* Your voice sounds one way to you and another way to everyone else. Which one is your real voice? (hint: Your family hears the air voice. You hear the air voice and the bone voice together. Are you hearing differently, or hearing different voices?)
+- *big:* Your voice sounds one way to you and another way to everyone else. Which one is your real voice? (hint: Your family hears your voice through the air. You hear it through the air and through the bones of your head together. Is that one voice heard in two ways, or two different voices?)
 - *deep:* Your brain turns down the feeling of your own touch. What else might your brain be turning down without telling you? (hint: Think of your clothes on your skin, or your tongue in your mouth. Do you feel them right now?)
 - *big:* If your likes keep changing, which of them are really you? (hint: Think of a like you had at 3 that has gone, and one you still have.)
-- *deep:* A flower knows its own pollen. Does that flower have a sense of self? (hint: What would the flower have to do for you to say yes? What would make you say no?)
+- *deep:* A flower knows their own pollen. Does that flower have a sense of self? (hint: What would the flower have to do for you to say yes? What would make you say no?)
 - *big:* Only you feel your feelings from the inside. Can anyone else ever know exactly how you feel? (hint: They can see your face and hear your words. Is that the same as feeling it?)
 
 ## Story: Kavya's Two Voices
@@ -151,11 +151,11 @@ First Kavya stroked her own foot with the feather, five slow strokes, with her e
 
 "Now Appa," said Kavya. Appa took off his socks, looking worried. He stroked his own foot. Zero. Kavya stroked it. Appa giggled so much that Anu laughed too. Three.
 
-They tested each person twice. Every time, the own touch scored lower than the other touch.
+They tested each person twice. Every time, the person's own touch scored lower than someone else's touch.
 
 "Appa, you said it is because you know it is coming," said Kavya. "But my eyes were shut when Ammachi did it, and I still knew she was going to stroke me. I knew where. I knew it was coming. And it still tickled."
 
-Appa scratched his head. "Then why does your own feather not tickle?"
+Appa scratched his head. "Then why does the feather not tickle when you do it yourself?"
 
 Ammachi said, "When you move your hand, your brain sends a message to your muscles. It keeps a copy too. From the copy it works out exactly what you will feel, at exactly the right moment. When the touch arrives just as expected, the brain turns it down. My hand is not your hand. Your brain cannot work out my strokes so exactly."
 
@@ -167,7 +167,7 @@ That evening Kavya showed Appa one more thing. She hummed with her fingers in he
 
 Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed, and nobody could stop for a long time.
 
-**For the parent:** For the parent: Kavya first thinks the phone has got her voice wrong, and Appa thinks you can't tickle yourself only because you know the touch is coming. A fair test with a feather shows that knowing is not enough. Kavya ends up seeing that her body knows its own voice and its own touch from the inside.
+**For the parent:** For the parent: Kavya first thinks the phone has got her voice wrong, and Appa thinks you cannot tickle yourself only because you know the touch is coming. A fair test with a feather shows that knowing is not enough. In the end, Kavya sees that she hears her own voice from the inside, and that her brain turns down the touches she makes herself.
 
 - Ask: Why did Kavya think the phone was broken?
 - Ask: What did they keep the same each time in the feather test?
@@ -181,16 +181,18 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards and make three piles.  
   *Parent says:* Some things are clearly you, some clearly not, and some are hard to decide. Let's sort them.  
-  *Child mode:* Three piles. Me. Not me. Not sure.
+  *Child mode:* Make three piles: Me, Not me and Not sure.
 - **s2 (10 min)**  
   *Parent does:* Play the game, taking turns. Ask for a reason each time.  
   *Parent says:* Why did you put your shadow there?  
   *Child mode:* Pick a card. Put it on a pile. Say why.
-  - Ask: Why is it on that pile? (good: My hand is me, because I can feel it.; My shadow is not sure, because it moves with me but nobody can touch it.)
+  - Ask: Why is it on that pile? (good: My hand is me, because I can feel it.; I put my shadow on Not sure, because it moves with me but nobody can touch it.)
 - **s3 (3 min)**  
-  *Parent does:* Count the piles and talk about the Not sure cards.  
-  *Parent says:* Which card was the hardest? Why?  
-  *Child mode:* Count each pile. Which card was hardest?
+  *Parent does:* Count the piles. Then look at the Not sure pile together and ask the question below.  
+  *Parent says:* Look at the Not sure pile. Why were those cards hard to place?  
+  *Child mode:* Count each pile. Look at the Not sure pile. Why were those cards hard?
+  - Ask: Why were the Not sure cards hard to place? (good: A fallen hair or a milk tooth was part of me once, but it is not any more.; A shadow moves with me, but it is not part of my body.)
+  - Note: These cards are hard because something can once have been part of you, or can move with you, without being part of your body now. There is no single right answer. Accept any reason that makes sense.
   - Think: Did anyone in your family put a card on a different pile from you?
 ### g2 · Who Likes What? A guessing game (15 min)
 - **rules:** Each player fills in their likes sheet in secret, and folds it.; Pick one player to start. Everyone else guesses that player's favourite food, one at a time. With 2 players, the other player guesses.; The player opens their sheet and reads the answer. Each right guess gets one point for the guesser. A guess is right if it matches the sheet.; Do the same for colour, sound, smell and time of day.; Take turns until every player has had their sheet read.; The player with the most points wins. If two players have the same number, they both win.
@@ -204,9 +206,10 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
   *Parent says:* What do you think my favourite smell is?  
   *Child mode:* Guess. What does the other person like best?
 - **s3 (2 min)**  
-  *Parent does:* Talk about the results.  
-  *Parent says:* Who guessed your likes best? Were any of your likes a surprise to the others?  
-  *Child mode:* Who knows your likes best? Which like surprised them?
+  *Parent does:* Talk about the results. Then ask the question below.  
+  *Parent says:* Could anyone guess all of your likes? Why not?  
+  *Child mode:* Could anyone guess all of your likes? Why not?
+  - Ask: Could anyone guess all of your likes? (good: No. Only I know exactly what I like, and other people can only guess.; No. Some of my likes change, and others cannot see that.)
   - Think: Do you know all of your own likes? Did you have to think hard about any of them?
 
 ## Experiments
@@ -229,10 +232,10 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - **s3 (2 min)**  
   *Parent does:* Agree the fair rules together and say them out loud: same feather, same spot, five slow strokes, eyes shut.  
   *Parent says:* What must we keep the same each time, so the test is fair?  
-  *Child mode:* Keep it fair. Same feather. Same spot. Five slow strokes. Eyes shut.
+  *Child mode:* Keep it fair. Use the same feather and the same spot. Do five slow strokes, with your eyes shut.
   - Ask: Why must the strokes be the same? (good: So only who is stroking changes.; If one stroke is harder, that is not fair.)
 - **s4 (7 min)**  
-  *Parent does:* 1. The child strokes the middle of their own sole five times with eyes shut, then opens them and points to a face. 2. You stroke the same spot five times at the same speed, eyes shut again, and the child points to a face. 3. Repeat both once more. 4. Write every score.  
+  *Parent does:* 1. The child strokes the middle of their own sole five times with eyes shut, then opens them and points to a face. 2. The child shuts their eyes again. You stroke the same spot five times at the same speed, and the child opens their eyes and points to a face. 3. Repeat both once more. 4. Write every score.  
   *Parent says:* First your own stroke, eyes shut. Open them and point to a face. Now my stroke, the same way. Point to a face again.  
   *Child mode:* Stroke your own foot five times, eyes shut. Open them and point to a face. Now let someone else do it. Point again.
   - Note: Try to copy the child's strokes: same pressure, same speed. If the sole is not ticklish for anyone, use the side of the foot instead.
@@ -243,10 +246,10 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - **s6 (3 min)**  
   *Parent does:* Count together. How many people had a lower score for their own stroke? How many the same? How many higher?  
   *Parent says:* Look at the table. What did you notice? Was your guess right?  
-  *Child mode:* Count. How many people tickled themselves less? Was your guess right?
+  *Child mode:* Count. For how many people did their own stroke tickle less? Was your guess right?
   - Ask: What did you see? (good: My own stroke got 0 or 1, and the other person's got 3.; Everyone's own stroke was lower.)
   - Note: Most people score their own stroke lower, often 0 or 1. A few find their own stroke a little tickly too, but it is usually still lower. If your result is different, write it down as it is. Only after the child has said what they saw, read the card on why you can't tickle yourself.
-  - Check: A girl called Meena strokes her own foot five times and scores 0. Her brother strokes it the same way, and she scores 3. What does this show? → **Her own stroke tickles less than someone else's**
+  - Check: You stroke your own foot five times and score 0. Someone else strokes it the same way, and you score 3. What does this show? → **Your own stroke tickles less than someone else's**
   - Think: Your eyes were shut both times, and you knew the stroke was coming. So why was there a difference?
 ### e2 · The Glove Hand: can your brain take a glove for your hand? (20 min)
 - **question:** If you watch a glove being stroked while your hidden hand is stroked at the same time, does the glove start to feel like your hand?
@@ -259,22 +262,23 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
   *Parent says:* We will hide your hand and stroke a glove. Will the glove feel like your hand? Why do you think so?  
   *Child mode:* Guess. Will the glove feel like your hand? Why?
 - **s2 (4 min)**  
-  *Parent does:* 1. The child sits with both arms on the table. 2. Stand a book up to hide their left hand. 3. Put the glove 15 cm from the hidden hand, in line with the arm. 4. Drape a towel from shoulder to glove.  
+  *Parent does:* 1. The child sits with both arms on the table. 2. Stand a book up to hide their left hand. 3. Put the glove 15 cm from the hidden hand, in line with the arm. 4. Drape a towel from the child's shoulder to the glove.  
   *Parent says:* Keep your hidden hand very still. Look only at the glove.  
   *Child mode:* Keep your hidden hand still. Look at the glove.
 - **s3 (5 min)**  
   *Parent does:* Stroke the same finger of the glove and of the hidden hand at exactly the same moment, slowly, for about two minutes.  
   *Parent says:* Keep watching the glove. Tell me if anything changes.  
-  *Child mode:* Watch the glove. Tell me if it starts to feel like you.
+  *Child mode:* Watch the glove. Say if it starts to feel like your hand.
 - **s4 (4 min)**  
-  *Parent does:* First take the towel off and let the child shake their hands out for a minute. Put it back. Now stroke the glove and the hand at different moments: first the glove, then the hand, for two minutes.  
+  *Parent does:* First take the towel off and let the child shake their hands out for a minute. Then put the towel back. Now stroke the glove and the hand at different moments: first the glove, then the hand, for two minutes.  
   *Parent says:* This time I will stroke them at different moments. Does it feel the same?  
   *Child mode:* Now the strokes come at different times. Is it different?
 - **s5 (4 min)**  
   *Parent does:* Ask what they felt in each try, and write it down. If there is time, swap and try it on another person.  
   *Parent says:* Did the glove ever feel like your hand? In which try?  
   *Child mode:* Did the glove feel like your hand? When?
-  - Note: Scientists found this works for many people, but not for everyone. If it does not work, that is a real result too. Write it down. It is not a failure.
+  - Ask: Why might the glove feel like your hand only when the strokes match? (good: My eyes saw the glove being stroked at the same moment my hand felt a stroke, so my brain put the two together.; When the strokes came at different moments, my brain did not join what I saw and what I felt.)
+  - Note: Your brain decides which hand is yours by putting together what you see and what you feel. When the stroke you see matches the stroke you feel, the brain can take the glove as part of you. When the two do not match, it does not. Scientists found this works for many people, but not for everyone. If it does not work, that is a real result too. Write it down. It is not a failure.
   - Think: Your brain decided which hand was yours by putting seeing and feeling together. What happens when they don't match?
 
 ## Activities
@@ -294,6 +298,8 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
   *Parent does:* The child puts two fingers on their throat and hums, then hums with fingers gently in their ears.  
   *Parent says:* Hum with your fingers on your throat. Now hum with your fingers in your ears. What changed?  
   *Child mode:* Hum. Feel your throat shake. Now hum with fingers in your ears. Is it louder?
+  - Ask: What changed when you hummed with your fingers in your ears? (good: The hum got louder inside my head.; I could hear my own hum much more.)
+  - Note: With the ears blocked, less of the sound leaks out through the air, so you hear more of the sound that travels through the bones of your head. That bone sound is the part of your voice that you hear and a phone cannot.
 - **s4 (2 min)**  
   *Parent does:* Count the family's answers together.  
   *Parent says:* How many people said the recording sounds just like you?  
@@ -323,8 +329,8 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - **record:** Draw yourself as the mirror shows you and as the photo shows you. Mark which cheek has the sticker.
 - **s1 (3 min)**  
   *Parent does:* Put a sticker on the child's right cheek. The child looks in the mirror and lifts their right hand.  
-  *Parent says:* Lift your right hand. Which hand does the mirror girl lift? Where is her sticker?  
-  *Child mode:* Lift your right hand. Look at the mirror you. Which hand did she lift?
+  *Parent says:* Lift your right hand. Which hand does the you in the mirror lift? Where is the sticker in the mirror?  
+  *Child mode:* Lift your right hand. Look at yourself in the mirror. Which hand did the mirror you lift?
 - **s2 (3 min)**  
   *Parent does:* Someone else takes a photo of the child facing the camera, using the back camera, and shows it. A selfie view on a phone is often flipped like a mirror.  
   *Parent says:* Now look at the photo. Is the sticker on the same side as in the mirror?  
@@ -333,7 +339,8 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
   *Parent does:* Ask which picture looks more like them, then ask the family the same question.  
   *Parent says:* Which one looks more like you, the mirror or the photo? Let's ask everyone.  
   *Child mode:* Which one looks like you? Ask your family too.
-  - Note: In a study in 1977, many people liked their mirror face better, while their friends liked the photo better. The researchers thought each liked the face they were used to seeing.
+  - Ask: Scientists asked many people this question. Most liked their mirror face better, and their friends liked the photo better. Why might that be? (good: People like the face they are used to seeing. I see my mirror face every day.; My friends see the photo face, so that is the one they are used to.)
+  - Note: Read the question below after your child has chosen. In a study in 1977, many people liked their mirror face better, while their friends liked the photo better. The researchers thought each person liked the face they were used to seeing.
   - Think: You see the mirror you every day. Your friends see the photo you. Which is the real you?
 ### a4 · Find Your Own Touch: what is your brain turning down right now? (8 min)
 - **record:** Draw yourself and mark the four places where you found a touch.
@@ -378,12 +385,13 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
   - Think: Did they say something you didn't know about yourself?
 - **s6 (3 min)**  
   *Parent does:* Read the whole book together.  
-  *Parent says:* Read your Me book to us. Which page was the hardest to make?  
-  *Child mode:* Read your book out loud. Which page was hardest?
+  *Parent says:* Read your Me book to us. Which page shows something that has changed since you were small? Which page shows something only you can know?  
+  *Child mode:* Read your book out loud. Which page shows something that changed? Which shows something only you know?
+  - Ask: Which page shows something that changed, and which shows something only you can know? (good: The likes page shows something that changed since I was small.; The feelings page shows something only I can feel from the inside.)
 
 ## Challenges
 ### c1 · Build a Self-Tickle Machine (20 min)
-- **problem:** Make something that moves a feather on your foot when you move your hand, but not in the same direction or at the same moment.
+- **problem:** Your brain predicts the touch that your own hand makes, and turns the feeling down. If the touch comes late, or in a different direction, the brain cannot predict it so well, so it may tickle more. Make something that moves a feather on your foot when you move your hand, but not in the same direction or at the same moment.
 - **your turn:** Build your own machine. Score your own hand stroke, then score your machine stroke. Did the machine tickle more? If not, change it and try again.
 - **constraints:** Use only things from home, such as string, a pencil, a ruler, tape and a feather.; You must be the only one moving it.; Test it fairly: same spot, five strokes, eyes shut.
 - **general:** Tape the feather to the end of a ruler and hold the other end, so your hand is far from the feather. Your brain may still predict this stroke, so it may not tickle more. Test it and see.; Loop a string over the back of a chair, tie the feather to one end, and pull the other end down, so the feather moves up.
@@ -394,7 +402,7 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
   *Child mode:* Can you build a machine to tickle yourself?
 - **s2 (12 min)**  
   *Parent does:* The child builds and changes a machine with string, a ruler and tape.  
-  *Parent says:* What will make the feather move later, or in a different direction, from your hand?  
+  *Parent says:* What will make the feather move later than your hand, or in a different direction?  
   *Child mode:* Build it. Try it. Change it.
 - **s3 (5 min)**  
   *Parent does:* Test fairly and compare scores.  
@@ -404,13 +412,13 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 
 ## Worksheets
 ### Me and My Touch (core) (core, 10 questions)
-1. (mcq) Remember the tickle test. Whose stroke tickled you more?  
+1. (mcq) In the Tickle Test, you stroked your own foot with a feather, and then someone else stroked it. Whose stroke tickled you more?  
    Options: My own stroke / Someone else's stroke / Both were exactly the same  
    **Answer:** Someone else's stroke. *Why:* For most people, someone else's stroke tickles more. Your brain predicts your own stroke and turns it down.
-2. (draw) Draw the four tickle faces you used, from 0 to 3.  
+2. (draw) In the Tickle Test, you scored each tickle with four faces, from 0 to 3. Draw the four faces.  
    **Answer:** A straight face for 0, a small smile for 1, a big smile for 2 and a laughing face for 3.. *Why:* A strong drawing shows the four faces in order, so anyone can see what each score means.
-3. (write) Say out loud, and a grown-up writes it down: what did you guess before the tickle test, and was your guess right?  
-   **Answer:** I guessed my own stroke would tickle less, and I was right. My own stroke scored 0 and my mother's scored 3.. *Why:* A strong answer says what the guess was, and uses the scores from the test to say if it was right.
+3. (write) Will a stroke on your foot tickle less if you do it yourself, or if someone else does it? Why? Say your answer out loud, and a grown-up can write it down.  
+   **Answer:** My own stroke tickles less. My brain knows exactly when and how my own hand will move, so it expects the touch.. *Why:* A strong answer makes a guess and gives a reason: the brain predicts its own movements.
 4. (fill) In the tickle test we used the same feather, the same spot and the same number of ___ each time.  
    **Answer:** strokes. *Why:* Keeping everything the same except who strokes makes the test fair.
 5. (match) Draw a line from each thing to what it tells us.  
@@ -422,27 +430,27 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 8. (mcq) Your shadow moves whenever you move. Is your shadow part of your body?  
    Options: Yes, it is made of the same stuff as your skin / No, it is a patch where your body blocks the light / Yes, because you can feel it  
    **Answer:** No, it is a patch where your body blocks the light. *Why:* Your shadow is a dark patch where your body stops light. It is not made of anything from your body.
-9. (mcq) You put a sticker on your right cheek. Which picture shows your friends the way they see you: the mirror or the photo?  
+9. (mcq) You put a sticker on your right cheek. Which one shows you the way your friends see you: the mirror or the photo?  
    Options: The mirror / The photo / Both are the same  
    **Answer:** The photo. *Why:* A photo shows you the way other people see you. A mirror shows your sides swapped.
 10. (fill) When you hum with two fingers on your throat, your throat ___.  
    **Answer:** vibrates. *Why:* Sound is made by things that vibrate, which means they shake back and forth very fast. You can feel your throat shaking.
 ### Inside and Outside (stretch) (stretch, 10 questions)
-1. (mcq) Riya, a girl in Class 2, records her voice and says 'That's not me!' Her friend says 'That's just like you.' Who is right?  
+1. (mcq) Riya records her voice and says 'That's not me!' Her friend says 'That's just like you.' Who is right?  
    Options: Only Riya / Only her friend / Both: Riya hears it from the inside, her friend from the outside  
-   **Answer:** Both: Riya hears it from the inside, her friend from the outside. *Why:* Riya hears her voice through her bones too, so it sounds deeper to her. Her friend hears only the air, like the phone.
-2. (write) A boy called Farhan strokes his foot hard and his sister strokes it gently. He says his own stroke tickled less. What is wrong with his test?  
+   **Answer:** Both: Riya hears it from the inside, her friend from the outside. *Why:* Riya hears her voice through her bones too, so it sounds deeper to her. Her friend hears it only through the air, like the phone.
+2. (write) A boy strokes his own foot hard, and his sister strokes it gently. He says his own stroke tickled less. What is wrong with his test?  
    **Answer:** The strokes were not the same. He should stroke the same way as his sister.. *Why:* A strong answer spots that two things changed: who stroked and how hard. A fair test changes only one thing.
 3. (sort) Sort these into touches your brain usually turns down, and touches you notice at once.  
    **Answer:** your shirt on your shoulders → Turned down; an ant walking on your arm → Noticed at once; your tongue in your mouth → Turned down; a raindrop on your neck → Noticed at once. *Why:* Your brain turns down touches that are always there or that you make yourself. New touches from outside are noticed straight away.
 4. (truefalse) True or false: newborn babies react the same way to their own hand on their cheek as to someone else's finger.  
    **Answer:** False. *Why:* False. In a study, newborns turned their head more to someone else's finger than to their own hand.
-5. (perspective) Lakshmi, a girl aged 8, and her grandmother (Ammamma) talk about flowers that reject their own pollen.  
-   **Answer:** A strong answer picks a side and uses a fact: the flower tells own pollen from other pollen. It also says what the other side means.. *Why:* Scientists argue about this. Both use the same fact, the flower rejecting its own pollen, but they mean different things by 'sense of self'.
+5. (perspective) A girl aged 8 and her grandmother talk about flowers that reject their own pollen.  
+   **Answer:** A strong answer picks a side and uses a fact: the flower tells their own pollen from other pollen. It also says what the other side means.. *Why:* Scientists argue about this. Both sides use the same fact, that the flower rejects their own pollen. But they mean different things by 'sense of self'.
 6. (order) Put the steps of the tickle test in order.  
    **Answer:** ['guess and give a reason', 'stroke your own foot five times', 'someone else strokes five times', 'count the scores']. *Why:* First guess, then test both ways, then count.
 7. (draw) Draw yourself looking in a mirror with a sticker on your right cheek. Draw where the sticker is on the mirror you.  
-   **Answer:** In the mirror, the sticker is on the side of the mirror girl's face that is nearest your own right hand. In a photo it is on the other side.. *Why:* In a mirror your sides look swapped compared with a photo. A strong drawing shows the sticker on the other side in the photo.
+   **Answer:** In the mirror, the sticker is on the side of the mirror face that is nearest your own right hand. In a photo it is on the other side.. *Why:* In a mirror your sides look swapped compared with a photo. A strong drawing shows the sticker on the other side in the photo.
 8. (mcq) Why does humming with your fingers in your ears sound louder?  
    Options: The sound through your bones stays inside your head / Your fingers make the sound / Your ears grow bigger  
    **Answer:** The sound through your bones stays inside your head. *Why:* With ears blocked, less sound leaks out, so you hear more of the sound that travels through your bones.
@@ -454,21 +462,21 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 ### Who Else Tells Their Own from Another's? (challenge) (challenge, 10 questions)
 1. (write) A male cricket's hearing turns down while he sings. How is that like the tickle test?  
    **Answer:** In both, the body turns down a feeling it makes itself, so the cricket isn't deafened and my own stroke doesn't tickle.. *Why:* A strong answer says both turn down something they make themselves.
-2. (perspective) Two girls, Meenakshi and her friend Divya, talk about the glove hand test, where a glove is stroked while your real hand is hidden.  
-   **Answer:** A strong answer sees that the test worked for one person and not the other, which is a real result. Meenakshi's idea fits her result. Divya is right that it doesn't work for everyone. Test more people, and with strokes at the same and different moments.. *Why:* Scientists found the glove trick works for many people, not all. One person's result is not enough either way.
+2. (perspective) Two girls talk about the glove hand test, where a glove is stroked while your real hand is hidden.  
+   **Answer:** A strong answer sees that the test worked for one girl and not the other, which is a real result. The first girl's idea fits her result. The second girl is right that it does not work for everyone. Next, test more people, with strokes at the same moment and at different moments.. *Why:* Scientists found the glove trick works for many people, not all. One person's result is not enough either way.
 3. (mcq) Scientists made a robot that touched a person's hand a tiny moment after the person moved a lever. What happened?  
    Options: The touch tickled more / The touch tickled less / The person felt nothing  
    **Answer:** The touch tickled more. *Why:* With a small delay, the touch no longer matched what the brain predicted, so it was not turned down as much.
 4. (draw) Draw a machine that could let you tickle yourself. Label the part you move and the part that touches your foot.  
-   **Answer:** A drawing with labels, for example a string over a chair with a feather on one end.. *Why:* A strong design makes the feather move later or in a different direction from the hand.
-5. (write) A girl called Sahana says, 'I know exactly how my friend feels, because I can see her face.' Is she right? Why?  
+   **Answer:** A drawing with labels, for example a string over a chair with a feather on one end.. *Why:* A strong design makes the feather move later than the hand, or in a different direction.
+5. (write) A girl says, 'I know exactly how my friend feels, because I can see her face.' Is she right? Why?  
    **Answer:** Not completely. A face gives clues, but only her friend feels it from inside. She should ask.. *Why:* A strong answer says others only see clues, and asking is the way to know.
 6. (label) Label the brain picture: the message to the hand, and the copy the brain keeps.  
    **Answer:** ['the arrow to the hand', 'the dotted arrow that stays in the brain']. *Why:* The brain keeps a copy of each movement message, and uses it to predict what you will feel.
 7. (match) Match each living being to how they tell their own from another's.  
-   **Answer:** a flower → keeps its own pollen out; a singing cricket → turns down his own hearing; a newborn baby → turns more to someone else's touch. *Why:* Each being tells self from other in their own way.
+   **Answer:** a flower → keeps their own pollen out; a singing cricket → turns down his own hearing; a newborn baby → turns more to someone else's touch. *Why:* Each being tells self from other in their own way.
 8. (truefalse) True or false: if the glove never feels like your hand, you did the test wrong.  
-   **Answer:** False. *Why:* False. The glove trick works for many people but not for everyone. No result is a real result too.
+   **Answer:** False. *Why:* False. The glove trick works for many people but not for everyone. If nothing happens, that is a real result too.
 9. (mcq) In the glove hand test, you stroke the glove and your hidden hand at the same moment. Which second try is a fair comparison?  
    Options: Stroking them at different moments / Using a different glove and a different person / Taking the glove away  
    **Answer:** Stroking them at different moments. *Why:* A fair test changes only one thing. Here only the timing of the strokes changes.
@@ -492,8 +500,8 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
    **Answer:** Only who is stroking. *Why:* Change only one thing, so you know what made the difference.
 4. (mcq) Why does your voice sound strange on a phone?  
    Options: The phone records only the sound in the air / Phones always change voices / You speak differently to phones  
-   **Answer:** The phone records only the sound in the air. *Why:* You also hear your voice through your bones. The phone hears only the air.
-5. (mcq) Arjun did not like curd when he was 3. Now he loves it. What does this show?  
+   **Answer:** The phone records only the sound in the air. *Why:* You also hear your voice through your bones. The phone records only the sound in the air.
+5. (mcq) A boy did not like curd when he was 3. Now he loves it. What does this show?  
    Options: Likes can change / He is a different boy / Curd changed  
    **Answer:** Likes can change. *Why:* Many likes change as we grow and try things again.
 6. (mcq) Many flowers can tell their own pollen from pollen of another plant. What do the flowers do with their own pollen?  
@@ -519,11 +527,11 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - Teachers ask children what they feel instead of guessing from their faces.
 
 ## Spotted around us
-- A baby on a train from Chennai turning their head when their mother strokes their cheek.
-- A cricket singing at night from a pot plant on a balcony in Bengaluru.
-- A voice message on the family phone, and someone saying 'Do I really sound like that?'
-- A hibiscus or a jasmine plant on a window sill, with pollen on the flowers.
-- Children in Kolkata during Durga Puja, looking at themselves in a mirror after new clothes.
+- You may see a baby on a train from Chennai turn their head when their mother strokes their cheek.
+- You may hear a cricket singing at night from a pot plant on a balcony in Bengaluru.
+- You may hear someone say 'Do I really sound like that?' when they listen to a voice message on the family phone.
+- A hibiscus or a jasmine plant on a window sill has flowers with pollen on them.
+- In Kolkata during Durga Puja, children look at themselves in a mirror after putting on new clothes.
 
 ## Open questions
 - **Is there one place in the brain where 'me' is?** Scientists have not found one 'me' spot. Many think the feeling of 'me' comes from many parts working together. Nobody knows for sure.
@@ -547,8 +555,8 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - What did the girl say when she saw her photo? *Who flipped me?*
 
 ## Connected maths
-- In a family tickle test, 5 people tried. 4 people scored their own stroke lower than someone else's. 1 person scored them the same. How many more people scored their own stroke lower than the same? **3 more people.**. 4 take away 1 is 3. Most people in the family found their own stroke tickled less. (queues `math.addition-subtraction.meaning.L2`)
-- Kavya's own-stroke scores were 0 and 1. Her scores for Ammachi's stroke were 3 and 3. Add each pair. How much bigger is Ammachi's total? **5 bigger.**. 0 + 1 = 1. 3 + 3 = 6. 6 take away 1 is 5. Ammachi's stroke tickled much more. (queues `math.addition-subtraction.number-facts.L2`)
+- In a family tickle test, 5 people tried. 4 people scored their own stroke lower than someone else's. 1 person gave both strokes the same score. How many more people scored their own stroke lower than gave both the same score? **3 more people.**. 4 take away 1 is 3. Most people in the family found their own stroke tickled less. (queues `math.addition-subtraction.meaning.L2`)
+- In the story Kavya's Two Voices, Kavya's scores for her own stroke were 0 and 1. Her scores for her grandmother Ammachi's stroke were 3 and 3. Add each pair. How much bigger is the total for Ammachi's stroke? **5 bigger.**. 0 + 1 = 1. 3 + 3 = 6. 6 take away 1 is 5. Ammachi's stroke tickled much more. (queues `math.addition-subtraction.number-facts.L2`)
 - Make a tally of your family's answers to 'Does the recording sound like you?' 6 people said yes and 2 said no. Draw the tally marks. **Yes: a gate of 5 and 1 more. No: 2 marks.**. A gate is four lines with one across. 6 is one gate and one line. 2 is two lines. (queues `math.data.sorting-and-tallies.L2`)
 - On your then and now sheet, 5 likes were written. 3 of them changed. How many stayed the same? Is that more or less than half? **2 stayed the same. That is less than half.**. 5 take away 3 is 2. Half of 5 is two and a half, so 2 is less than half. Most of the likes changed. (queues `math.fractions.halves-and-quarters.L2`)
 
@@ -564,7 +572,7 @@ This Is Me (sci.mind.L2): Topic-level song for Mind, brain and memory L2
 
 ## Warm-up
 - Can most people tickle themselves? → No. Their own touch tickles much less.
-- Why does your voice sound different on a phone? → The phone hears only the air. You also hear through your bones.
+- Why does your voice sound different on a phone? → The phone picks up only the sound in the air. You also hear your voice through the bones of your head.
 - Is your face in a mirror the same way round as your face in a photo? → No. In a mirror your sides look swapped compared with a photo.
 - What does a flower do with their own pollen? → They stop it from making seeds.
 - Who feels your feelings from the inside? → Only you.

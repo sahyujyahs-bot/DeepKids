@@ -256,7 +256,7 @@
    "\"That is your bone voice,\" said Kavya. \"Ammachi taught me. Now I am teaching you.\"",
    "Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed, and nobody could stop for a long time."
   ],
-  "epiphany": "For the parent: Kavya first thinks the phone has got her voice wrong, and Appa thinks you can't tickle yourself only because you know the touch is coming. A fair test with a feather shows that knowing is not enough. Kavya ends up seeing that her body knows its own voice and its own touch from the inside.",
+  "epiphany": "For the parent: Kavya first thinks the phone has got her voice wrong, and Appa thinks you cannot tickle yourself only because you know the touch is coming. A fair test with a feather shows that knowing is not enough. In the end, Kavya sees that she hears her own voice from the inside, and that her brain turns down the touches she makes herself.",
   "ask": [
    "Why did Kavya think the phone was broken?",
    "What did they keep the same each time in the feather test?",
@@ -508,8 +508,17 @@
      "do": "Ask what they felt in each try, and write it down. If there is time, swap and try it on another person.",
      "say": "Did the glove ever feel like your hand? In which try?",
      "kid": "Did the glove feel like your hand? When?",
-     "parent": "Scientists found this works for many people, but not for everyone. If it does not work, that is a real result too. Write it down. It is not a failure.",
-     "think": "Your brain decided which hand was yours by putting seeing and feeling together. What happens when they don't match?"
+     "parent": "Your brain decides which hand is yours by putting together what you see and what you feel. When the stroke you see matches the stroke you feel, the brain can take the glove as part of you. When the two do not match, it does not. Scientists found this works for many people, but not for everyone. If it does not work, that is a real result too. Write it down. It is not a failure.",
+     "think": "Your brain decided which hand was yours by putting seeing and feeling together. What happens when they don't match?",
+     "ask": [
+      {
+       "q": "Why might the glove feel like your hand only when the strokes match?",
+       "good": [
+        "My eyes saw the glove being stroked at the same moment my hand felt a stroke, so my brain put the two together.",
+        "When the strokes came at different moments, my brain did not join what I saw and what I felt."
+       ]
+      }
+     ]
     }
    ]
   }
@@ -579,7 +588,17 @@
      "mins": 3,
      "do": "The child puts two fingers on their throat and hums, then hums with fingers gently in their ears.",
      "say": "Hum with your fingers on your throat. Now hum with your fingers in your ears. What changed?",
-     "kid": "Hum. Feel your throat shake. Now hum with fingers in your ears. Is it louder?"
+     "kid": "Hum. Feel your throat shake. Now hum with fingers in your ears. Is it louder?",
+     "ask": [
+      {
+       "q": "What changed when you hummed with your fingers in your ears?",
+       "good": [
+        "The hum got louder inside my head.",
+        "I could hear my own hum much more."
+       ]
+      }
+     ],
+     "parent": "With the ears blocked, less of the sound leaks out through the air, so you hear more of the sound that travels through the bones of your head. That bone sound is the part of your voice that you hear and a phone cannot."
     },
     {
      "id": "s4",
@@ -726,8 +745,17 @@
      "do": "Ask which picture looks more like them, then ask the family the same question.",
      "say": "Which one looks more like you, the mirror or the photo? Let's ask everyone.",
      "kid": "Which one looks like you? Ask your family too.",
-     "parent": "In a study in 1977, many people liked their mirror face better, while their friends liked the photo better. The researchers thought each person liked the face they were used to seeing.",
-     "think": "You see the mirror you every day. Your friends see the photo you. Which is the real you?"
+     "parent": "Read the question below after your child has chosen. In a study in 1977, many people liked their mirror face better, while their friends liked the photo better. The researchers thought each person liked the face they were used to seeing.",
+     "think": "You see the mirror you every day. Your friends see the photo you. Which is the real you?",
+     "ask": [
+      {
+       "q": "Scientists asked many people this question. Most liked their mirror face better, and their friends liked the photo better. Why might that be?",
+       "good": [
+        "People like the face they are used to seeing. I see my mirror face every day.",
+        "My friends see the photo face, so that is the one they are used to."
+       ]
+      }
+     ]
     }
    ]
   },
@@ -893,10 +921,20 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Count the piles and talk about the Not sure cards.",
-     "say": "Which card was the hardest? Why?",
-     "kid": "Count each pile. Which card was hardest?",
-     "think": "Did anyone in your family put a card on a different pile from you?"
+     "do": "Count the piles. Then look at the Not sure pile together and ask the question below.",
+     "say": "Look at the Not sure pile. Why were those cards hard to place?",
+     "kid": "Count each pile. Look at the Not sure pile. Why were those cards hard?",
+     "think": "Did anyone in your family put a card on a different pile from you?",
+     "ask": [
+      {
+       "q": "Why were the Not sure cards hard to place?",
+       "good": [
+        "A fallen hair or a milk tooth was part of me once, but it is not any more.",
+        "A shadow moves with me, but it is not part of my body."
+       ]
+      }
+     ],
+     "parent": "These cards are hard because something can once have been part of you, or can move with you, without being part of your body now. There is no single right answer. Accept any reason that makes sense."
     }
    ],
    "setup": [
@@ -956,10 +994,19 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Talk about the results.",
-     "say": "Who guessed your likes best? Were any of your likes a surprise to the others?",
-     "kid": "Who knows your likes best? Which like surprised them?",
-     "think": "Do you know all of your own likes? Did you have to think hard about any of them?"
+     "do": "Talk about the results. Then ask the question below.",
+     "say": "Could anyone guess all of your likes? Why not?",
+     "kid": "Could anyone guess all of your likes? Why not?",
+     "think": "Do you know all of your own likes? Did you have to think hard about any of them?",
+     "ask": [
+      {
+       "q": "Could anyone guess all of your likes?",
+       "good": [
+        "No. Only I know exactly what I like, and other people can only guess.",
+        "No. Some of my likes change, and others cannot see that."
+       ]
+      }
+     ]
     }
    ],
    "setup": [
@@ -1070,8 +1117,17 @@
      "id": "s6",
      "mins": 3,
      "do": "Read the whole book together.",
-     "say": "Read your Me book to us. Which page was the hardest to make?",
-     "kid": "Read your book out loud. Which page was hardest?"
+     "say": "Read your Me book to us. Which page shows something that has changed since you were small? Which page shows something only you can know?",
+     "kid": "Read your book out loud. Which page shows something that changed? Which shows something only you know?",
+     "ask": [
+      {
+       "q": "Which page shows something that changed, and which shows something only you can know?",
+       "good": [
+        "The likes page shows something that changed since I was small.",
+        "The feelings page shows something only I can feel from the inside."
+       ]
+      }
+     ]
     }
    ]
   }
@@ -1082,7 +1138,7 @@
    "title": "Build a Self-Tickle Machine",
    "mins": 20,
    "context": "This is a design challenge. Scientists found that if a machine adds a tiny delay, or moves the touch in a different direction from your hand, your own touch tickles more. Can you build a machine at home that makes your own touch tickle?",
-   "problem": "Make something that moves a feather on your foot when you move your hand, but not in the same direction or at the same moment.",
+   "problem": "Your brain predicts the touch that your own hand makes, and turns the feeling down. If the touch comes late, or in a different direction, the brain cannot predict it so well, so it may tickle more. Make something that moves a feather on your foot when you move your hand, but not in the same direction or at the same moment.",
    "constraints": [
     "Use only things from home, such as string, a pencil, a ruler, tape and a feather.",
     "You must be the only one moving it.",
@@ -1328,15 +1384,15 @@
     },
     {
      "t": "perspective",
-     "p": "The first person, a girl aged 8, and her grandmother (Ammamma) talk about flowers that reject their own pollen.",
+     "p": "A girl aged 8 and her grandmother talk about flowers that reject their own pollen.",
      "views": [
       {
-       "who": "The first person",
+       "who": "The girl",
        "says": "Many flowers know their own pollen and keep it out. So a flower has a sense of self."
       },
       {
-       "who": "Ammamma",
-       "says": "A sense of self means knowing 'this is me'. The flower's pollen check is more like a lock and key."
+       "who": "Her grandmother",
+       "says": "A sense of self means knowing 'this is me'. A flower's pollen check works like a key that fits a lock. A key does not know anything. It just fits or does not fit."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say what the other person has right. A grown-up can write your answer.",
@@ -1417,20 +1473,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two girls, the first person and her friend the second person, talk about the glove hand test, where a glove is stroked while your real hand is hidden.",
+     "p": "Two girls talk about the glove hand test, where a glove is stroked while your real hand is hidden.",
      "views": [
       {
-       "who": "The first person",
+       "who": "The first girl",
        "says": "The glove felt like my hand. So my brain decides what is me by what I see and feel together."
       },
       {
-       "who": "The second person",
+       "who": "The second girl",
        "says": "It didn't work on me at all. So the glove test doesn't show anything."
       }
      ],
      "ask": "Who do you agree with? Give one reason. What would you test next to find out more? A grown-up can write your answer.",
      "lines": 4,
-     "a": "A strong answer sees that the test worked for one person and not the other, which is a real result. The first person's idea fits her result. The second person is right that it doesn't work for everyone. Next, test more people, with strokes at the same moment and at different moments.",
+     "a": "A strong answer sees that the test worked for one girl and not the other, which is a real result. The first girl's idea fits her result. The second girl is right that it does not work for everyone. Next, test more people, with strokes at the same moment and at different moments.",
      "why": "Scientists found the glove trick works for many people, not all. One person's result is not enough either way.",
      "how": "e2"
     },
@@ -1691,23 +1747,23 @@
  ],
  "spotted": [
   {
-   "text": "A baby on a train from Chennai turning their head when their mother strokes their cheek.",
+   "text": "You may see a baby on a train from Chennai turn their head when their mother strokes their cheek.",
    "art": "A mother on a train seat stroking a baby's cheek, the baby turning towards her finger."
   },
   {
-   "text": "A cricket singing at night from a pot plant on a balcony in Bengaluru.",
+   "text": "You may hear a cricket singing at night from a pot plant on a balcony in Bengaluru.",
    "art": "A small brown cricket on the rim of a flower pot on a balcony at night."
   },
   {
-   "text": "A voice message on the family phone, and someone saying 'Do I really sound like that?'",
+   "text": "You may hear someone say 'Do I really sound like that?' when they listen to a voice message on the family phone.",
    "art": "A grandmother in Pune listening to a voice message on a phone, with a surprised face."
   },
   {
-   "text": "A hibiscus or a jasmine plant on a window sill, with pollen on the flowers.",
+   "text": "A hibiscus or a jasmine plant on a window sill has flowers with pollen on them.",
    "art": "A red hibiscus flower on a window sill, yellow pollen on the long middle part."
   },
   {
-   "text": "Children in Kolkata during Durga Puja, looking at themselves in a mirror after putting on new clothes.",
+   "text": "In Kolkata during Durga Puja, children look at themselves in a mirror after putting on new clothes.",
    "art": "A girl in a new frock looking at herself in a long mirror in a pandal crowd."
   }
  ],
@@ -1932,7 +1988,7 @@
   "three": {
    "who_am_i": "Your brain keeps track of every movement your body makes, so it knows which touches are yours.",
    "what_is_life": "Many living beings tell their own from another's. A newborn baby turns more to someone else's finger than to their own hand. A flower knows their own pollen. A cricket turns down his hearing for his own song.",
-   "what_is_this_world": "The world is full of beings who each know their own touch, their own song or their own pollen."
+   "what_is_this_world": "Many living beings, from babies to flowers to crickets, are able to tell what is their own from what is not."
   },
   "thread": "A baby, a flower and a cricket each tell their own from another's, in their own way. You do it with touch: your brain predicts your own touch and turns it down. Telling 'me' from 'not me' starts in the body, before words.",
   "teachings": [
@@ -1964,8 +2020,8 @@
   "practice": {
    "title": "Touching and Touched",
    "mins": 3,
-   "say": "Close your eyes. Put your right hand gently on your left arm. Can you feel your hand touching? Can you feel your arm being touched? Breathe in slowly. Breathe out. Now stroke your arm slowly. Which one is you, the hand or the arm?",
-   "kid": "Close your eyes. Put one hand on your other arm. Feel the hand. Feel the arm. Breathe slowly. Which one is you?"
+   "say": "Close your eyes. Put your right hand gently on your left arm. Can you feel your hand touching? Can you feel your arm being touched? Breathe in slowly. Breathe out. Now stroke your arm slowly. You feel the touching and the being touched at the same moment. Is the hand you, or the arm, or both?",
+   "kid": "Close your eyes. Put one hand on your other arm. Feel the hand. Feel the arm. Breathe slowly. Is the hand you, or the arm, or both?"
   },
   "ask": [
    "If your brain turns down your own touch, how do you know you are touching anything at all?",

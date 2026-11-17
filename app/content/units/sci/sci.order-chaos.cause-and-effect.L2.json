@@ -79,7 +79,7 @@
    "status": "defined",
    "context": "This card explains what you saw in the domino gap test.",
    "definition": "In a chain of causes, each effect becomes the cause of the next thing. A push can travel a long way like this, but only if every link in the chain passes it on.",
-   "description": "In the domino test, your finger pushed only the first domino. When the gaps were small, each domino hit the next and passed on some of its energy, so all ten fell. When the gap was as wide as a domino is tall, the first one lay down without hitting the next, and the chain stopped. Taking one domino out of the middle stopped it too.",
+   "description": "In the domino test, your finger pushed only the first domino. When the gaps were small, each domino hit the next and passed on some of its energy, so all ten fell. When the gap was as wide as a domino is tall, the first one lay down flat and only touched the bottom of the next one. That is too low to tip it, so the chain stopped. Taking one domino out of the middle stopped it too.",
    "examples": [
     "A line of dominoes falling one after another",
     "A line of coins passing a push to the last coin",
@@ -122,7 +122,7 @@
    "concept": "Does everything have a cause?",
    "status": "debated",
    "context": "This card is about a question scientists still argue about.",
-   "description": "Big things we see, like a falling domino, a boiling pot or a puddle, have causes we can find. But inside some materials, tiny atoms break apart by themselves, and nobody can find what decides the exact moment. Scientists do not agree about what this means.",
+   "description": "Big things we see, like a falling domino, a boiling pot or a puddle, have causes we can find. But everything is made of atoms, which are far too small to see. In some materials, certain atoms break apart by themselves. Nobody can find what decides the exact moment one atom breaks apart. Scientists do not agree about what this means.",
    "examples": [
     "A domino falls because it is pushed.",
     "A tiny atom breaks apart at a moment nobody can predict or explain."
@@ -134,7 +134,7 @@
     },
     {
      "who": "Albert Einstein, and some physicists since",
-     "explanation": "There may be hidden causes that we have not found yet. In a letter in 1926, Einstein wrote that he was sure the universe does not work by dice and chance."
+     "explanation": "There may be hidden causes that we have not found yet. In a letter in 1926, Einstein wrote that he was sure the universe does not play dice. He meant that the universe does not run on pure chance."
     },
     {
      "who": "Buddhist thinkers in India",
@@ -173,7 +173,7 @@
    "for": "Rotting meat left out soon had maggots on it, and nobody saw where they came from.",
    "against": "In 1668, Francesco Redi covered some jars of meat with fine cloth. No maggots grew on that meat. Flies had laid their eggs on the cloth instead. Maria Sibylla Merian raised insects from eggs and drew every stage.",
    "status": "rejected",
-   "context": "This card is about an old idea that some small creatures have no parents."
+   "context": "Rotting meat left out soon fills with maggots, which are the babies of flies. Long ago, people thought the meat itself turned into maggots. This card asks if that is true."
   },
   {
    "claim": "The rooster's crowing makes the Sun rise.",
@@ -181,7 +181,7 @@
    "for": "Every morning the rooster crows first, and then the Sun comes up.",
    "against": "On days when a rooster is ill or quiet, the Sun still rises. Places with no roosters at all still have sunrise.",
    "status": "rejected",
-   "context": "This card is about mixing up 'comes first' with 'is the cause'."
+   "context": "A rooster crows just before the Sun rises. Some people say the crowing makes the Sun rise. This card asks if something that comes first is always the cause."
   },
   {
    "claim": "A small push can only ever make a small effect.",
@@ -189,7 +189,7 @@
    "for": "A gentle push on one domino seems far too small to knock down a whole line.",
    "against": "In the domino test, one gentle push knocked down ten dominoes. A scientist called Lorne Whitehead showed in 1983 that a domino can knock over another one about one and a half times its size.",
    "status": "rejected",
-   "context": "This card is about whether small causes can have big effects."
+   "context": "In the domino test, you gave the first domino one gentle push. This card asks if a small push can make only a small effect."
   },
   {
    "claim": "Every effect has just one cause.",
@@ -197,7 +197,7 @@
    "for": "It is easy to name the last thing that happened before the effect.",
    "against": "In the domino test, the last domino fell because of the domino before it, and that one because of the one before it, and so on back to your finger. Taking away any one domino would have stopped it. So every link was a cause.",
    "status": "debated",
-   "context": "This card is about how many causes one effect really has."
+   "context": "When the wind knocks something over, we say the wind was the cause. This card asks if an effect has only one cause."
   }
  ],
  "big_questions": [
@@ -209,7 +209,7 @@
   {
    "q": "When the gap was too wide, the first domino fell but the second one stayed up. Where did the push go?",
    "kind": "deep",
-   "hint": "Think about what the falling domino hit instead."
+   "hint": "Think about what the first domino touched when it lay down flat."
   },
   {
    "q": "Can anything happen with no cause at all?",
@@ -725,7 +725,7 @@
      "do": "1. Before you start, without your child seeing, spill a little water near a tumbler. 2. Leave a book on the floor near a table edge. 3. Leave biscuit crumbs on a plate. 4. Put one chappal upside down by the door.",
      "say": "Something happened in four places in our home. Your job is to find out what caused each one. Look for clues.",
      "kid": "Four things happened at home. Find them. Look for clues. What caused each one?",
-     "parent": "Choose effects with clear clues. The wet tumbler is a clue for the water. The table edge is a clue for the book."
+     "parent": "Choose effects with clear clues. The wet tumbler is a clue for the water. The table edge is a clue for the book. The upside-down chappal is a clue that someone kicked it off in a hurry."
     },
     {
      "id": "s2",
@@ -754,7 +754,7 @@
       {
        "q": "Did walking in make the light come on?",
        "good": [
-        "No, you pressed the switch.",
+        "No, the grown-up pressed the switch.",
         "It only happened at the same time."
        ]
       }
@@ -1053,8 +1053,8 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Do two tries with eyes open and two with eyes closed. 2. Write each time on the sheet.",
-     "say": "How many seconds did it take? Will it be faster or slower with eyes closed? Why do you think so?",
-     "kid": "How many seconds did it take? Try with eyes closed. Is it faster or slower?",
+     "say": "How many seconds did it take? Now try with your eyes closed. Will it take more time, less time or about the same? Why do you think so?",
+     "kid": "How many seconds did it take? Try with eyes closed. Will it take more time, less time or the same?",
      "ask": [
       {
        "q": "Why does the pat take some time to get to the front?",
@@ -1064,7 +1064,7 @@
        ]
       }
      ],
-     "parent": "Each person takes a short moment to feel the pat and pass it on. More people in the line means a longer time."
+     "parent": "Each person takes a short moment to feel the pat and pass it on. More people in the line means a longer time. With eyes closed it should take about the same time. Each person acts when they feel the pat, not when they see anything."
     },
     {
      "id": "s3",
@@ -1154,7 +1154,7 @@
      "mins": 7,
      "wait": "The next morning",
      "do": "1. Take out the same ten chana. 2. Your child lines them up along the ruler again. 3. Compare the two lengths. 4. Look at how much water is left in the bowl.",
-     "say": "How long is the line now? Is there less water in the bowl? Where did the water go? When did we cause this?",
+     "say": "How long is the line now? Is there less water in the bowl? Where did the water go? When did we do the thing that caused this?",
      "kid": "Measure the line again. Is it longer? Where did the water go?",
      "ask": [
       {
