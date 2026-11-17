@@ -1,7 +1,7 @@
 # Can animals count, wait and plan?
 `sci.animals.animal-minds.L4`
 
-**Summary.** Hide five yellow balls behind one screen and two behind another. In tests like this, a chick only a few days old, who has never been taught about numbers, goes to the screen hiding more. How can a mind with no number words know which pile is bigger? You will test your own sense of 'how many', and your own patience, the way scientists test chicks, bees, crows and a parrot named Alex. Scientists agree that many animals tell more from less. They still argue about whether any of them truly count or plan tomorrow.
+**Summary.** Hide five yellow balls behind one screen and two behind another. In tests like this, a chick only a few days old, who has never been taught about numbers, goes to the screen hiding more. How can a mind with no number words know which pile is bigger? You will test your own sense of 'how many', and your own patience, the way scientists test chicks, bees, crows and a parrot named Alex. Scientists agree that many animals can tell more from less. They still argue about whether any of them truly count or plan for tomorrow.
 
 **Intro.** *I will show a card for one second. It has three dots. How many did you see? Now a card with nine dots. How many now? Which answer came without counting?* Most people know three at once, and do not need to count. With nine dots, you start to guess. Bees, chicks, fish and crows seem to have the same sort of quick feeling for 'how many'. They have no number words at all. In this unit you will find out how far your own quick feeling goes. Then you will see how scientists test the same thing in animals who cannot answer us.
 
@@ -32,21 +32,21 @@
 ### Number sense: knowing 'more' without number words · *defined*
 **Definition:** Number sense is a quick feeling for how many things there are, or which group has more, without counting and without number words.
 
-Number sense is old and shared. Chicks only a few days old go to the bigger group of objects they were raised with. Fish choose to join the bigger shoal. Honeybees, crows and monkeys also tell small numbers apart. Human babies a few months old stare longer when the number of dots changes. None of them has number words, so the feeling for 'how many' comes first, and the words come later. A chick checking two piles is a scientist's best sign that the feeling is built into a living body. Scientists test it by hiding food or objects and seeing which pile the animal picks.
+Number sense is very old, and many animals share it. Chicks only a few days old go to the bigger group of objects they were raised with. Fish choose to join the bigger shoal. Honeybees, crows and monkeys also tell small numbers apart. Human babies a few months old stare longer when the number of dots changes. None of them has number words, so the feeling for 'how many' comes first, and the words come later. A chick is only a few days old and nobody has taught her, so her choice between two piles is the best sign scientists have that the feeling is built into a living body. Scientists test it by hiding food or objects and seeing which pile the animal picks.
 - e.g. A chick only three or four days old walks to the screen hiding more balls, not fewer.
 - e.g. A fish joins the bigger group of fish in a tank.
 - e.g. A six-month-old baby looks longer when 8 dots change to 16.
 ### Subitising: small numbers at a glance · *defined*
 **Definition:** Subitising means knowing a small number of things at one glance without counting. People can usually do it for about one to four things.
 
-Look at three coins on a table. You do not count them, you just know there are three. With seven coins, your eyes and mind jump around and you guess or count. In your Dot Flash test, you found where your own at-a-glance knowing stops. Grouping helps a lot. Six dots in two rows of three are easy, because your mind sees two threes. Scientists think this fast sense helped animals judge the size of a rival group or a food pile in a hurry, when counting was too slow.
+Look at three coins on a table. You do not count them, you just know there are three. With seven coins, your eyes and mind jump around and you guess or count. In the Dot Flash test, you say how many dots are on a card that is shown for one second, and you find where your own at-a-glance knowing stops. Grouping helps a lot. Six dots in two rows of three are easy, because your mind sees two threes. Scientists think this fast sense helped animals judge the size of a rival group or a food pile in a hurry, when counting was too slow.
 - e.g. Seeing the three dots on a die at once.
 - e.g. Knowing two people at the gate without counting.
 - e.g. Reading a dice pattern of six as two groups of three.
 ### The ratio effect: why 8 and 9 are hard to tell apart · *defined*
 **Definition:** The ratio effect means that two groups are easier to tell apart when one is many times bigger, and harder when they are close. It depends on the ratio, not on the difference.
 
-Telling 4 from 8 is easy, and so is 16 from 32, though the difference there is much bigger. Both have a ratio of 1 to 2. Telling 8 from 9 is hard, because the ratio is close to 1. The same pattern shows up in fish, bees, monkeys, crows and in people. Fei Xu and Elizabeth Spelke showed it in 2000 with babies six months old. They told 8 dots from 16 dots, but not 8 from 12. Our quick sense of number is a blurry estimate, and it gets blurrier as numbers grow.
+Telling 4 from 8 is easy, and so is 16 from 32, though the difference there is much bigger. Both have a ratio of 1 to 2. Telling 8 from 9 is hard, because the ratio is close to 1. The same pattern shows up in fish, bees, monkeys, crows and in people. Fei Xu and Elizabeth Spelke showed it in 2000 with babies six months old. The babies told 8 dots from 16 dots, but not 8 from 12. Our quick sense of number is a blurry estimate, and it gets blurrier as numbers grow.
 - e.g. Telling 6 beans from 12 beans at a glance is easy.
 - e.g. Telling 14 beans from 16 beans at a glance is hard.
 - e.g. Six-month-old babies tell 8 dots from 16, but not 8 from 12.
@@ -65,47 +65,47 @@ In 2008, Marie Dacke and Mandyam Srinivasan trained honeybees to fly down a tunn
 - **Researchers who ran the bee tests:** The bees used the number of things, and not size, smell or place. So bees have a real number sense, and can learn rules about it, including that none is less than one.
 - **Cautious scientists, following Lloyd Morgan's rule:** Some of the bee results could be explained by a simpler habit, such as 'pick the card that looks emptier'. They ask for more tests that remove every simple trick before calling it adding.
 ### Desert ants count their steps · *defined*
-**Definition:** A desert ant keeps track of how far she has walked from her nest by keeping count of her steps, like a pedometer in her nervous system.
+**Definition:** A desert ant keeps track of how far she has walked from her nest by keeping count of her steps. It works like a pedometer, a step counter, in her nervous system.
 
-Desert ants walk far across hot sand with no trail to follow, then run straight home. In 2006, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf tested how they know the distance. They added tiny extensions to some ants' legs, like stilts, and cut other ants' legs shorter, like stumps. Ants on stilts took longer steps and walked past the nest. Ants on stumps took shorter steps and stopped before it. So the ants were counting steps, not looking at the sand. With normal legs, one step count is a good measure of distance.
+Desert ants walk far across hot sand with no trail to follow, then run straight home. In 2006, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf tested how they know the distance. They added tiny extensions to some ants' legs, like stilts, and cut other ants' legs shorter, like stumps. Ants on stilts took longer steps and walked past the nest. Ants on stumps took shorter steps and stopped before it. So the ants were counting steps, not looking at the sand. With normal legs, counting steps is a good way to measure distance.
 - e.g. An ant on stilts walks past the nest door.
 - e.g. An ant on stumps stops short of the nest door.
 - e.g. You walking home in the dark by counting your steps.
 ### Waiting for more: self-control in people and other animals · *defined*
 **Definition:** Self-control, also called delay of gratification, is turning down a small reward now to get a bigger one later.
 
-Scientists have tested waiting in many animals. In 2014, Friederike Hillemann and her team found crows and ravens waited longer for a food they liked better. In 2021, Alexandra Schnell and her team tested cuttlefish. A cuttlefish waited for a favourite food for up to about one to two minutes, instead of taking a plain one at once. Those who waited longer also learned faster in a second test. Waiting is a choice that needs a picture of a better later. In 2013, Celeste Kidd and her team showed children waited much less when the grown-up had broken a promise before. Waiting depends on trust as well as on willpower.
+Scientists have tested waiting in many animals. In 2014, Friederike Hillemann and her team found crows and ravens waited longer for a food they liked better. In 2021, Alexandra Schnell and her team tested cuttlefish. A cuttlefish was offered a plain piece of food at once, or a favourite food if she waited. She waited for the favourite food for about one to two minutes. The cuttlefish who waited longer also learned faster in a second test. To choose to wait, an animal has to expect that something better is coming. In 2013, Celeste Kidd and her team showed children waited much less when the grown-up had broken a promise before. Waiting depends on trust as well as on willpower.
 - e.g. A cuttlefish waits for live shrimp instead of eating a piece of prawn.
 - e.g. A crow waits for a better nut.
 - e.g. A child waits for two raisins when she trusts the person who promised.
 ### Do animals plan for tomorrow? · *debated*
-In 2007, Nicola Clayton's team showed that western scrub-jays hid food in the room where they had gone hungry before, not in the room where they always got breakfast. In 2017, Mathias Osvath and Can Kabadayi showed that ravens chose a tool that they would need for a reward later, and used it when the time came. These look like planning. But planning means picturing a future you have not yet met. Scientists disagree about whether a jay or raven pictures tomorrow, or whether an instinct and learned habits can explain the same results.
+In 2007, Nicola Clayton's team showed that western scrub-jays hid food in the room where they had gone hungry before, not in the room where they always got breakfast. In 2017, Mathias Osvath and Can Kabadayi showed that ravens chose a tool that they would need for a reward later, and used it when the time came. These look like planning. But planning means picturing a future that has not happened yet. Scientists disagree about whether a jay or raven pictures tomorrow, or whether an instinct and learned habits can explain the same results.
 - e.g. Jays hid food where they had been hungry before.
 - e.g. Ravens picked a tool, then used it much later.
 - e.g. A child packs her bag the night before school.
-- **Nicola Clayton and Mathias Osvath:** The birds picked actions that suited a future need, even when nothing in the moment told them to. The simplest fit is that they picture and plan for what they will want.
-- **Thomas Suddendorf and Michael Corballis:** Picturing a distant future is a special human ability. Birds may be following learned rules or inborn habits. We would need results no simple rule can explain.
+- **Nicola Clayton and Mathias Osvath:** The birds picked actions that suited a future need, even when nothing in the moment told them to. The simplest explanation is that they picture what they will want, and plan for it.
+- **Thomas Suddendorf and Michael Corballis:** Picturing a distant future is a special human ability. Birds may be following learned rules or inborn habits. To say that birds plan, we would need results that no simple rule can explain.
 ### Small brains, big numbers · *idea*
 A honeybee has about one million neurons, the cells that pass signals in a brain. A person has about 86 billion, which is around 86 thousand times more. Yet bees count stripes and add one. In 2019, Vera Vasas and Lars Chittka built a computer model with only four neurons, and it could estimate how many things it scanned. Scientists have also found neurons in crows that fire for particular numbers. This does not prove bees work like the model. It shows that counting-like jobs may need far fewer neurons than people expect.
 - e.g. A computer model with four neurons estimated a number.
 - e.g. Neurons in a crow's brain fire most for one particular number.
 - e.g. A bee's brain is smaller than a grain of rice.
-- **Vera Vasas and Lars Chittka:** Even a tiny circuit can estimate a number if the bee scans a scene in a smart order. A small brain can use smart methods.
+- **Vera Vasas and Lars Chittka:** Even a tiny circuit can estimate a number if the bee scans a scene in a smart order. So a small brain can do a lot if it uses a clever way of looking.
 - **Cautious scientists:** A model that works is not proof that a real bee does the same. Real brains have many more parts that could be involved.
 ### Number words are a tool people added · *idea*
-People in some communities, such as the Pirahã in Brazil, use very few number words. In 2004, Peter Gordon tested them with lines of batteries and other small objects. They did well when they could match things one to one. They did worse with bigger numbers when they had to remember. In 2008, Michael Frank and his team ran a similar test. Their idea is that number words are a tool, like a ruler, that makes exact numbers possible. Scientists still discuss how many words the Pirahã have, and how much the tool changes thinking.
+People in some communities, such as the Pirahã in Brazil, use very few number words. In 2004, Peter Gordon tested them with lines of batteries and other small objects. They did well when they could match things one to one. They did worse with bigger numbers when they had to remember how many there were. In 2008, Michael Frank and his team ran a similar test. The idea from these tests is that number words are a tool, like a ruler, that makes exact numbers possible. Scientists still discuss how many number words the Pirahã have, and how much the tool changes thinking.
 - e.g. Matching spoons to bowls needs no number words.
 - e.g. Telling a friend 'seventeen' needs exact number words.
 - e.g. Exact counting stays fast only when you have the words.
 - **Peter Gordon and Michael Frank:** Number words are a cultural tool. With the tool, exact numbers are easy. Without it, we rely on the quick, blurry number sense and on matching one to one.
-- **Some other researchers:** Other ideas also matter, such as practice, schooling and memory. They say number words are one part of a bigger story.
+- **Some other researchers:** Other things also matter, such as practice, schooling and memory. These researchers say number words are one part of a bigger story.
 ### Too much or too little: reading animal minds fairly · *defined*
 **Definition:** Reading an animal's mind fairly means asking two questions: have I given the animal thoughts the evidence does not show, and have I denied thoughts the evidence does show?
 
-In 1894, C. Lloyd Morgan wrote that we should not explain an animal's act as a high mental skill if a simpler skill explains it. That rule is called Morgan's canon. In 1999, the primatologist Frans de Waal added a warning. He named the opposite mistake anthropodenial, which means refusing to see a mind that the evidence shows. Both mistakes are easy. The fair way is to run controls, repeat the test, use a blind helper, and then follow the evidence. In this unit, each result is labelled by what the test really showed.
-- e.g. A dog follows her owner's eyes and not her words, so the test hides the eyes.
+In 1894, C. Lloyd Morgan wrote that we should not explain an animal's act as a high mental skill if a simpler skill explains it. That rule is called Morgan's canon. It guards against the mistake of seeing a mind that the evidence does not show. In 1999, the primatologist Frans de Waal added a warning. He named the opposite mistake anthropodenial, which means refusing to see a mind that the evidence does show. Both mistakes are easy to make. The fair way is to run controls, repeat the test, use a helper who does not know the answer (a blind helper), and then follow the evidence. In this unit, each result is labelled by what the test really showed.
+- e.g. A dog may be following her owner's eyes and not her words, so the test hides the owner's eyes.
 - e.g. A scientist asks a helper who does not know the answer to run the trial.
-- e.g. A crow's trick is tested again with the food hidden from sight.
+- e.g. A crow seems to use a trick to find food, so scientists test her again with the food hidden from sight.
 
 ## Mostly agreed
 - Many animals, from fish to bees to crows, can tell which of two small groups has more, without being taught and without number words. *How we know:* The tests hide food or objects and record which group the animal picks, while controlling for size, smell and position. Teams on several continents found the same.
@@ -113,7 +113,7 @@ In 1894, C. Lloyd Morgan wrote that we should not explain an animal's act as a h
 - Some animals can wait for a better reward, and waiting is shaped by what they expect to happen. *How we know:* Crows, ravens, cuttlefish and children waited for a better reward in tests with fair controls. Children waited less when a grown-up had broken a promise first.
 
 ## How we found out
-**Otto Koehler among the first, then Irene Pepperberg, Marie Dacke and many others, The 1930s to the 1950s, then 1980s to 2008.** For a long time, many thinkers said that counting needs words. Animals have no number words, so they could not count. In the 1930s and 1940s, a German scientist called Otto Koehler tested this. He trained birds, including a raven called Jakob and some jackdaws, to pick out a chosen number of marks or food items. He changed the size, shape and place of the things, so the birds could not use any clue except the number. The birds managed small numbers, up to about five or six. Koehler called this 'thinking in unnamed numbers'. Later scientists said he had not controlled every clue, and tested again with better controls. Later, Irene Pepperberg's grey parrot Alex used spoken number words, and Marie Dacke's bees stopped at the right stripe in a tunnel. So words are not needed for number. Words only make big numbers exact.  
+**Otto Koehler among the first, then Irene Pepperberg, Marie Dacke and many others, The 1930s to the 1950s, then 1980s to 2008.** For a long time, many thinkers said that counting needs words. Animals have no number words, so, they said, animals could not count. In the 1930s and 1940s, a German scientist called Otto Koehler tested this. He trained birds, including a raven called Jakob and some jackdaws, to pick out a chosen number of marks or food items. He changed the size, shape and place of the things, so the birds could not use any clue except the number. The birds managed small numbers, up to about five or six. Koehler called this 'thinking in unnamed numbers'. Later scientists said he had not controlled every clue, and tested again with better controls. Later still, Irene Pepperberg's grey parrot Alex used spoken number words, and Marie Dacke's bees stopped at the right stripe in a tunnel. So words are not needed for number. Words only make big numbers exact.  
 *What people believed before:* Counting needs number words, so animals cannot sense number. Koehler's birds picked the right number with no words, and later bees, ants and a parrot did too.
 
 ## Challenging perspectives
@@ -121,30 +121,30 @@ In 1894, C. Lloyd Morgan wrote that we should not explain an animal's act as a h
   For: Exact counting of large numbers needs a list of words in order. Few animals have such a list.  
   Against: Birds, bees, ants and fish tell numbers apart or track them without any words. Alex the parrot used spoken number words too.
 - **If a bee passes a number test, she understands numbers like a person.** (Some enthusiastic news reports.; *debated*)  
-  For: Bees did tasks that look like adding and having a 'none'.  
+  For: Bees did tasks that look like adding, and like treating 'none' as a number.  
   Against: A task can be done with a simpler rule. Scientists test several rules before calling it understanding. Even then, we know what bees do, and not what it feels like to be a bee.
 - **A bigger brain always means a smarter animal.** (A common idea.; *rejected*)  
   For: Humans have large brains, and so do dolphins and elephants.  
-  Against: A crow's small brain packs many neurons. A bee's tiny brain does number tasks. Wiring and the way an animal lives matter, not only size.
+  Against: A crow's brain is small, but a great many neurons are packed close together inside. A bee's tiny brain can do number tasks. How a brain is wired, and how the animal lives, matter as well as size.
 - **Children who wait the longest in the marshmallow test grow up to be the most successful.** (Walter Mischel's tests of the 1960s and 1970s, and popular books.; *debated*)  
   For: Early studies found a link between waiting time and later results at school.  
-  Against: A 2018 study by Tyler Watts, Greg Duncan and Haonan Quan used a bigger and more varied group. The link was much smaller once family background was counted. Trust and home life shape waiting.
+  Against: A 2018 study by Tyler Watts, Greg Duncan and Haonan Quan used a bigger and more varied group. The link was much smaller once family background was taken into account. Trust and home life shape waiting.
 
 ## Roots
-You tested how many things you can know at a glance, and you met chicks, bees, ants and a parrot who handle numbers without number words. Now we ask what this says about number itself, and about you.
+In the Dot Flash test, you found out how many dots you can know at a glance. You also met chicks, bees, ants and a parrot who handle numbers, most of them without number words. Now we ask what this says about number itself, and about you.
 
 **Deep truth.** You knew three dots at a glance, and chicks and bees tell small numbers apart too. None of them needs number words for that. A feeling for 'how many' comes first, and words only make it exact.  
-*Habit it breaks:* We think of number as something people make with words and schools, so a mind without number words must have no sense of number. This mixes up the tool for saying numbers with the sense of how many.  
-*Evidence:* Your Dot Flash scores were right up to about four dots and then became guesses. Chicks went to the bigger pile, bees found the third stripe, and desert ants walked a number of steps home.
+*Habit it breaks:* We think of number as something people make with words and schools. So we assume that a mind without number words has no sense of number. This mixes up the tool for saying numbers with the sense of how many.  
+*Evidence:* In the Dot Flash test, your answers were right up to about four dots and then became guesses. Chicks went to the bigger pile, bees found the third stripe, and desert ants counted their steps home.
 
 - *who am i:* You are an animal with an old, quick sense of 'how many' that you share with a chick and a bee.
 - *what is life:* Living beings need to know how much food, how many steps and how long to wait, so a feeling for number is part of staying alive.
 - *what is this world:* The world is full of groups that can be more or fewer, and minds of very different kinds notice that.
 
-Before anything can be counted, there is none. Then there is one. Then there are two, three and many. A bee that picks the blank card over a card with dots has met none. A chick that picks five over two has met many. Counting is one way minds meet the One becoming the many. The number words came later, and they make the feeling exact.
+Numbers begin with none. Then comes one, then two, then three, and then many. A bee who picks the blank card over a card with dots is treating none as less than one. A chick who picks five balls over two is telling a small group from a bigger one. Some old teachings say that everything began as one thing and then became many things. Counting follows a similar path, because it starts at one and goes on to many. Number words came later, and they make the feeling for 'how many' exact.
 
-- **Chandogya Upanishad 6.2.1 to 6.2.3:** As paraphrased: in the beginning there was only Being, one without a second. Being thought, 'Let me become many.' (Counting starts with one and moves to many. Your sense of number is the mind meeting that step.)
-- **Tao Te Ching 42:** As paraphrased: the Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things. (The first numbers come in a line, one after another, which is how a bee sees stripes and how you touch palms.)
+- **Chandogya Upanishad 6.2.1 to 6.2.3:** As paraphrased: in the beginning there was only Being, one without a second. Being thought, 'Let me become many.' (This teaching describes one thing becoming many things. Counting does something similar, because it starts at one and goes on to many. Your sense of number is how your mind notices that there are now more things than before.)
+- **Tao Te Ching 42:** As paraphrased: the Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things. (This teaching names the first numbers in a line, one after another. A bee passes the stripes in a tunnel in the same order, and so did Anju when she touched the palms in the story The Fifth Palm.)
 - **Brahmasphutasiddhanta, Brahmagupta, 628 CE:** Brahmagupta wrote down rules for calculating with zero, as a number in its own right. (Bees in a 2018 test treated an empty card as the smallest number. People wrote rules for zero more than a thousand years ago.)
 - Science (settled): Chicks, fish, bees and many other animals tell small numbers apart without being taught or having number words.
 - Science (debated): Whether this is counting like ours, or a different kind of knowing, is still argued over.
@@ -155,7 +155,7 @@ Before anything can be counted, there is none. Then there is one. Then there are
 - Ask: If a chick can tell more from less, what else might you share with her?
 
 ## Deep and big questions
-- *deep:* Bees seem to treat 'none' as a number smaller than one. The Indian mathematician Brahmagupta wrote down the rules for zero in 628 CE. Is zero something people invented, or something minds find? (hint: Think about what the empty card meant to the bee, and what 'zero' meant to the mathematicians.)
+- *deep:* Bees seem to treat 'none' as a number smaller than one. The Indian mathematician Brahmagupta wrote down the rules for zero in 628 CE. Did people invent zero, or was it already there for minds to find? (hint: Think about what the empty card meant to the bee, and what 'zero' meant to the mathematicians.)
 - *deep:* You know three at a glance but have to count nine. Where does 'knowing' end and 'counting' start? (hint: Think about your Dot Flash results, and what changed between 4 and 6 dots.)
 - *big:* If a cuttlefish waits for a favourite food, does she feel wanting, as you do? How would we ever know? (hint: Think of what a friend could do to show you they feel something.)
 - *big:* Children waited less when a grown-up had broken a promise. Is that a failure of self-control, or a sensible choice? (hint: Think about when taking the raisin now is the clever thing to do.)
@@ -218,7 +218,7 @@ Ammachi laughed so hard that her lantern shook. 'The bees knew that,' she said. 
 
 That night, while Vishnu dried his hair, Anju sat at the window and listened to the hum from the boxes. She thought of the storm, and the black palms, and of what had stayed the same while everything else changed. The colour of the light was gone. The gate was gone. The path was mud. But the palms were still five, and the turn was still after the fifth.
 
-**For the parent:** When looks change, the count can stay the same. A glance is quick and works for a few things, but for more things you have to count.
+**For the parent:** When the way things look changes, the number of things can stay the same. A glance is quick and works for only a few things, so for more things you have to count them.
 
 - Ask: When is counting a better guide than looking?
 - Ask: Why might it be easy to know three things at a glance, and hard to know eight?
@@ -227,7 +227,7 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 
 ## Games
 ### g1 · Wait or Take? The seed game (23 min)
-- **rules:** Cut out the cards and keep the Meadow cards and the Riverbank cards in two separate piles. A helper picks one pile, shuffles it, and puts it down with the name side up, so the result on the back stays hidden. The helper does not say which is more trustworthy. Alone, shuffle the pile and do not look at the backs.; Put the seed tokens in a big bowl in the middle. This is the bank. Add dry beans or rice grains until it holds about 50 seeds for each player, so the bank does not run out. Each player has a nest bowl and a waiting plate.; In each round, every player chooses in secret. Take means you move one seed from the bank into your nest. Wait means you move one seed from the bank onto your waiting plate. To choose in secret, every player puts a closed fist over the nest bowl (take) or the waiting plate (wait), and everyone lifts their fist together.; Then turn over the top card. If it says Safe, every player who waited moves three seeds from the bank into their nest, and the seed on the waiting plate goes back to the bank. If it says Thief, the seed on the waiting plate goes back to the bank, and the waiting player gets nothing.; Take always keeps its one seed. Wait may win three seeds or nothing.; After 10 rounds, count the seeds in your nest. Then play 10 rounds with the other pile.; The player with the most seeds after both piles wins. If players tie, they share the win. Alone, try to beat 20 seeds in total, which is what taking every round scores.
+- **rules:** Cut out the cards and keep the Meadow cards and the Riverbank cards in two separate piles. A helper picks one pile, shuffles it, and puts it down with the name side up, so the result on the back stays hidden. The helper does not say which pile is more trustworthy. If you play alone, shuffle the pile yourself and do not look at the backs.; Put the seed tokens in a big bowl in the middle. This is the bank. Add dry beans or rice grains until it holds about 50 seeds for each player, so the bank does not run out. Each player has a nest bowl and a waiting plate.; In each round, every player chooses in secret. Take means you move one seed from the bank into your nest. Wait means you move one seed from the bank onto your waiting plate. To choose in secret, every player puts a closed fist over the nest bowl (take) or the waiting plate (wait), and everyone lifts their fist together.; Then turn over the top card. If it says Safe, every player who waited moves three seeds from the bank into their nest, and the seed on the waiting plate goes back to the bank. If it says Thief, the seed on the waiting plate goes back to the bank, and the waiting player gets nothing.; If you take, you always keep your one seed. If you wait, you may win three seeds or nothing.; After 10 rounds, count the seeds in your nest. Then play 10 rounds with the other pile.; The player with the most seeds after both piles wins. If players tie, they share the win. If you play alone, try to beat 20 seeds in total, which is what taking every round scores.
 - **Printable cards: 20 two-sided cards in two decks of 10: a Meadow deck and a Riverbank deck, each with the result on the back:** Meadow 1 (back: Safe); Meadow 2 (back: Safe); Meadow 3 (back: Thief); Meadow 4 (back: Safe); Meadow 5 (back: Safe); Meadow 6 (back: Safe); Meadow 7 (back: Safe); Meadow 8 (back: Thief); Meadow 9 (back: Safe); Meadow 10 (back: Safe); Riverbank 1 (back: Thief); Riverbank 2 (back: Thief); Riverbank 3 (back: Safe); Riverbank 4 (back: Thief); Riverbank 5 (back: Thief); Riverbank 6 (back: Thief); Riverbank 7 (back: Safe); Riverbank 8 (back: Thief); Riverbank 9 (back: Thief); Riverbank 10 (back: Thief)
 - **Printable tokens: 30 seed tokens (the start of the bank, to be topped up with dry beans or rice grains):** Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed; Seed
 - **s1 (4 min)**  
@@ -260,10 +260,10 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 - **record:** For each card, write the number of dots and whether the answer was right on try 1 and try 2. Then circle the first row where you made a mistake. Compare the scattered six with the six in two rows of three.
 - **results table:** Card | Dots and pattern | Right on try 1? | Right on try 2?
 - **s1 (5 min)**  
-  *Parent does:* Show your child the blank cards. Ask for a guess about how many dots they will see in one second, and why. Write the guess at the top of the table.  
+  *Parent does:* Show your child the blank cards. Ask them to guess the biggest number of dots they can know in one second without counting, and why. Write the guess at the top of the table.  
   *Parent says:* We will flash cards with dots for one second each. You say how many dots you saw. What is the biggest number you think you can know without counting? Why do you think so?  
   *Child mode:* Guess the biggest number of dots you can know at a glance. Why?
-  - Ask: Why do you think dots in groups will be easier, or harder? (good: Groups are easier because I can see small parts.; Spread dots are harder because I lose my place.; I am not sure, we can test it.)
+  - Ask: Do you think dots in groups will be easier or harder than scattered dots? Why? (good: Groups are easier because I can see small parts.; Spread dots are harder because I lose my place.; I am not sure, we can test it.)
   - Note: Write the guess down. Do not correct it. Any guess with a reason is a good start.
 - **s2 (8 min)**  
   *Parent does:* Draw the dots on the ten cards. Spread the scattered dots in no pattern, with no lines or shapes. Draw one card with 6 dots in two rows of three, and one with 8 dots as two groups of four. Write the number on the back of each.  
@@ -272,26 +272,26 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   - Note: Scatter the dots so no shape appears. If dots touch, they count as one blob and the test is spoiled. Keep the same size for every dot.
 - **s3 (3 min)**  
   *Parent does:* Practise with one spare card. Hold it face down under the sheet. Lift the sheet, say 'one', and lay it back. Your child says the number. Practise twice.  
-  *Parent says:* Watch the sheet. When I lift it, I will say one. Then I cover the card again. Say the number you saw. Do not count with your fingers.  
+  *Parent says:* Watch the sheet. I will lift it and say the word 'one', and that is how long you get to look. Then I cover the card again. Tell me how many dots you saw. Do not count with your fingers.  
   *Child mode:* Watch the card for one second. Say the number. Do not count.
   - Note: One second is very quick. Say 'one' at the speed of a normal word. If the card is visible for longer than that, the test is not fair.
 - **s4 (10 min)**  
   *Parent does:* Shuffle the cards. Flash each card once and tick or cross the answer in the table. Shuffle again and flash each card a second time. Do not show the cards from small to big.  
   *Parent says:* Here comes the first card. Ready? Say the number. Good. Here is the next.  
   *Child mode:* Say the number you saw. Do not count.
-  - Note: With 2 to 4 children, give each child their own table (same cards, each shuffled), and let the others take turns lifting the sheet; the children not being tested look away. If your child gets every card right, even 9, the flash was probably too long. Try again with 12 and 15 dots. If your child is upset by wrong answers, remind them that guessing is the point.
+  - Note: With 2 to 4 children, give each child their own table. Use the same cards, shuffled again for each child. The other children take turns lifting the sheet, and the children not being tested look away. If your child gets every card right, even 9, the flash was probably too long. Try again with 12 and 15 dots. If your child is upset by wrong answers, remind them that guessing is the point.
   - Check: Why do we shuffle the cards instead of going from 2 up to 9? → **So the child cannot guess from the order**
 - **s5 (4 min)**  
-  *Parent does:* Look at the table together. Find the first row where mistakes begin. Compare the scattered six with the six in two rows. Ask your child to write what they think, what they saw, and why.  
+  *Parent does:* Look at the table together. Find the first row where mistakes begin. Compare the scattered six with the six in two rows. Ask your child to write what they saw, and why they think it happened.  
   *Parent says:* Look at the table. Where did the mistakes start? Compare the two sixes. Which was easier? Why do you think so?  
   *Child mode:* Where did you start to make mistakes? Which six was easier?
   - Ask: Where did your mistakes begin? What was different about the cards with mistakes? (good: After four dots.; When there were more dots, I could not hold them all.; The dice six was easier because I saw two threes.)
   - Ask: The two sixes had the same number of dots. Why was one easier? (good: I could see two threes.; The dots were in groups.; Grouping lets me know a big number as small parts.)
-  - Note: Typically, children are right on 2, 3 and 4 dots, and begin to guess at 5, 6 or 7, but your child may differ, and that is a real result. The grouped six and eight are usually easier than the scattered ones. With only two tries per card, one slip can be luck, so look for the row where mistakes keep happening. This is called subitising, and grouping uses it twice. Say the word after your child has said what they saw.
+  - Note: Typically, children are right on 2, 3 and 4 dots, and begin to guess at 5, 6 or 7, but your child may differ, and that is a real result. The grouped six and eight are usually easier than the scattered ones. With only two tries per card, one slip can be luck, so look for the row where mistakes keep happening. Knowing a small number at a glance is called subitising. With grouped dots, your child uses it twice: for the dots in each group, and for the number of groups. Say the word after your child has said what they saw.
   - Think: A chick only a few days old goes to the bigger of two groups of balls. What does that tell you about number words?
 ### e2 · Which Pile Is Bigger? The ratio test (37 min)
 - **question:** Four pairs of piles each differ by 6 beans. Does your child tell them apart equally well, or do the pairs with the closer sizes get harder?
-- **predict:** Before you start, guess. Pairs: 6 and 12, 12 and 18, 18 and 24, 24 and 30. In every pair, one pile has exactly 6 more beans. Which pair will be hardest? Why do you think so?
+- **predict:** Before you start, guess. The pairs are 6 and 12, 12 and 18, 18 and 24, and 24 and 30. In every pair, one pile has exactly 6 more beans. Which pair will be hardest to tell apart? Why do you think so?
 - **fair test:** Every pair is shown for about one second. Each pair is tested six times, with the bigger pile on the left half of the time and on the right half of the time. The beans in each pile are spread inside the same size plate or circle. Only the number of beans changes. The difference between the two piles stays 6.
 - **safety:** Dried beans can choke small children. Keep them away from children under five, and do not let anyone put them in their mouth or nose.
 - **record:** For each pair, write how many of the six tries were right. Then draw a bar for each pair, with the height showing the number right.
@@ -311,23 +311,23 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   *Parent does:* Practise once. Spread the 12 pile on one plate and the 18 pile on another. Cover both. Lift the cloth for one second, then cover again. Ask your child to point to the bigger one.  
   *Parent says:* I will lift the cloth for one second. Point to the pile with more beans. Do not count. Just point.  
   *Child mode:* Look for one second. Point to the bigger pile.
-  - Note: Toss the coin before each try. Heads: the bigger pile goes on the left. Tails: on the right. Do this while your child's eyes are closed.
+  - Note: Toss the coin before each try. If it lands heads, the bigger pile goes on the left. If it lands tails, the bigger pile goes on the right. Do this while your child's eyes are closed.
 - **s4 (18 min)**  
   *Parent does:* Test the pairs in this order: 12 and 18, then 24 and 30, then 6 and 12, then 18 and 24. For each pair, run six tries. Before each try, toss the coin, set the piles, and cover them. Flash for one second. Write a tick or a cross.  
   *Parent says:* Eyes closed, please. Now open. Point to the bigger pile. Good. Eyes closed again for the next.  
   *Child mode:* Eyes closed. Open. Point to the bigger pile.
-  - Note: Mix the order of the pairs, so a child cannot get used to one gap. If a pair is clearly easy, still do all six tries. Each pair must have the same number of tries. With 2 to 4 children: the child being tested keeps their eyes closed, another child tosses the coin and sets the plates, and a third writes the ticks. Each child does 3 tries per pair, and you add up the scores of all children for the table. A single child with only 6 tries should treat a difference of one try as luck, and may repeat the test on another day.
+  - Note: Mix the order of the pairs, so a child cannot get used to one gap. If a pair is clearly easy, still do all six tries. Each pair must have the same number of tries. With 2 to 4 children, the child being tested keeps their eyes closed, another child tosses the coin and sets the plates, and a third writes the ticks. Each child does 3 tries per pair, and you add up the scores of all the children for the table. With a single child and only 6 tries, treat a difference of one try as luck. You may repeat the test on another day.
   - Check: Why do we toss a coin to decide which side the bigger pile goes on? → **So the child cannot guess that the bigger pile is always on one side**
 - **s5 (4 min)**  
-  *Parent does:* Fill in the 'right out of 6' column. Draw a bar for each pair on the back of the sheet. Ask your child what they think, what they saw, and why.  
+  *Parent does:* Fill in the 'right out of 6' column. Draw a bar for each pair on the back of the sheet. Ask your child what they saw, and why they think it happened.  
   *Parent says:* Look at your bars. Which pair was hardest? The gap was six every time. What do you think made the hard pair hard?  
   *Child mode:* Which pair was hardest? Why, when the gap was always six?
   - Ask: In every pair the gap was six. Why were some pairs harder than others? (good: Six is a big part of 12 but a small part of 30.; When the piles are big, six more looks like a tiny bit.; It depends on how many times bigger one pile is.)
-  - Note: Typically, children do very well on 6 and 12, well on 12 and 18, and are guessing more on 24 and 30, but exact scores vary. This is called the ratio effect. A pair like 6 and 12 has a ratio of 1 to 2. A pair like 24 and 30 has a ratio of 4 to 5. A ratio close to 1 is harder. If every pair is easy for your child, flash for half a second, or use pairs such as 24 and 27. A caution for your child: the closer pile also looks more crowded, and that is a clue. Real scientists control for this by changing the size of the objects. You can try it by using bigger beans in the smaller pile.
+  - Note: Typically, children do very well on 6 and 12, well on 12 and 18, and are guessing more on 24 and 30, but exact scores vary. This is called the ratio effect. A pair like 6 and 12 has a ratio of 1 to 2. A pair like 24 and 30 has a ratio of 4 to 5. A ratio close to 1 is harder. If every pair is easy for your child, flash for half a second, or use pairs such as 24 and 27. Tell your child about one caution: the bigger pile also looks more crowded, and that is a clue. Real scientists control for this by changing the size of the objects. You can try it by using bigger beans in the smaller pile.
 ### e3 · The Waiting Test: what helps you wait for more? (33 min, 3 days)
 - **question:** Which helps most when you wait for more: seeing the treat, hiding it under a cup, or hiding it and doing a puzzle?
 - **predict:** Before you start, guess. On which day will you wait the longest: treat in sight, treat under a cup, or treat under a cup while you do a puzzle? Why do you think so?
-- **fair test:** Each day uses the same treat, the same offer, the same place and the same time of day. The offer is always 1 raisin now, or 2 raisins if you wait 3 minutes. Only the way of waiting changes. The three ways are shuffled. One child on three days cannot fully separate the way from the day, so treat the result as one child's story, not proof. With siblings, give each child a different order.
+- **fair test:** Each day uses the same treat, the same offer, the same place and the same time of day. The offer is always 1 raisin now, or 2 raisins if you wait 3 minutes. Only the way of waiting changes. The order of the three ways is picked at random. With one child on three days, you cannot tell for sure whether the way of waiting or the day itself made the difference. So treat the result as one child's story, not proof. With siblings, give each child a different order.
 - **safety:** Check that your child has no allergy to the treat, and only use treats they can chew safely. Do not run the test when your child is hungry, tired or upset.
 - **record:** Each day, write how many minutes your child waited, up to 3, and whether they got one treat or two. At the end, line up the three days and compare.
 - **results table:** Day | Way of waiting | Minutes waited (up to 3) | Got 1 raisin or 2?
@@ -335,9 +335,9 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 - **s1 (4 min)**  
   *Parent does:* Explain the game. Your child may stop and take the one raisin at any time, and there is no scolding. Draw the order of the three ways from the bowl and write it down. Ask which day your child will wait longest, and why.  
   *Parent says:* This is a game, not a test of you. You may take one raisin any time. If you wait three minutes, you get two. We will try three ways of waiting on three days. Which way do you think will be easiest? Why?  
-  *Child mode:* A game of waiting. Take one raisin anytime. Wait three minutes for two.
+  *Child mode:* This is a waiting game. You can take one raisin at any time. If you wait three minutes, you get two.
   - Ask: What do you think will help you wait the longest, and why? (good: Hiding it, because I will not keep looking.; Doing something fun, because I forget about it.; Looking at it, because it reminds me why I am waiting.)
-  - Note: The test is only fair if you always keep your promise. If your child waits, give two at once, with thanks. Never use the result to say a child is good or bad at waiting. Put the one raisin on one plate and the two raisins on the other, both in front of your child. In ways 2 and 3, cover both plates. If your child lifts the cover, that counts as taking one. With 2 to 4 children, test each child alone while the others are in another room and are asked not to tell, and give each child a different order. If your child takes the raisin within seconds on every day, try 2 minutes instead of 3 next time.
+  - Note: The test is only fair if you always keep your promise. If your child waits, give two at once, with thanks. Never use the result to say a child is good or bad at waiting. Put the one raisin on one plate and the two raisins on the other, both in front of your child. In the two ways where the treat is hidden, cover both plates. If your child lifts the cover, that counts as taking one. With 2 to 4 children, test each child alone while the others are in another room and are asked not to tell, and give each child a different order. If your child takes the raisin within seconds on every day, try 2 minutes instead of 3 next time.
 - **s2 (8 min)**  
   *Parent does:* Day 1. Play the way you drew first. Put one raisin on a plate for now and two on another for later. Start the timer. Stop at three minutes or when your child takes the one raisin. Write the minutes waited.  
   *Parent says:* Here is one raisin now. Or you wait three minutes for two. I start the timer now. You can stop any time.  
@@ -354,7 +354,7 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   *Parent says:* Last round. One now, or two after three minutes. You decide.  
   *Child mode:* Last round. You choose.
 - **s5 (5 min)**  
-  *Parent does:* Line up the three days in the table. Ask your child what they think, what they saw, and why.  
+  *Parent does:* Line up the three days in the table. Ask your child what they saw, and why they think it happened.  
   *Parent says:* Look at the three days. Which way helped you wait most? What did you do in your head to help?  
   *Child mode:* Which way helped you wait most? Why?
   - Ask: Which way helped most, and what do you think was going on in your head? (good: Hiding the raisins helped, because I could not see them.; Drawing helped, because I stopped thinking about the raisins.; Looking did not help me.)
@@ -385,30 +385,30 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   *Parent says:* In 1995, the scientist Bernd Heinrich gave ravens a piece of meat hanging on a string. Some ravens pulled up the string and held it with a foot, again and again, until the meat reached them. Do you think they worked it out first, or learned it step by step? How could we tell?  
   *Child mode:* Did you look first, or try first? How would you test a raven?
   - Ask: How could we tell if a raven worked it out first, or learned it step by step? (good: See if she does it right the first time she sees a new puzzle.; Change the puzzle and see if she still solves it.; Watch if she tries wrong ways first.)
-  - Note: Scientists do disagree on this. Some see insight, a mind working out the answer. Others see trial and error, or an inborn habit. Heinrich saw some ravens solve the puzzle quickly and took this as insight. Other scientists say the ravens may have learned it step by step, so the question is still open.
+  - Note: Scientists disagree about this. Some see insight, a mind working out the answer. Others see trial and error, or an inborn habit. Heinrich saw some ravens solve the puzzle quickly and took this as insight. Other scientists say the ravens may have learned it step by step, so the question is still open.
 ### a2 · Stilt Steps: be a desert ant (17 min)
 - **s1 (3 min)**  
-  *Parent does:* Stick a start line and a far line about 4 metres apart. Ask what will happen if your child walks home with the same number of steps, but much longer ones.  
+  *Parent does:* Mark a start line and a far line on the floor, about 4 metres apart. Ask what will happen if your child walks home with the same number of steps, but much longer ones.  
   *Parent says:* Desert ants find home by counting steps. I want you to be a desert ant. If you take the same number of steps home, but much longer steps, where will you land? Why?  
   *Child mode:* Same number of steps, but longer. Where will you land? Why?
   - Ask: If you take longer steps but the same number of steps, will you stop short, at the line, or past it? Why? (good: Past it, because longer steps go farther.; Past the start line.; I think I will go too far.)
   - Note: Write the guess down. The ant counts steps and not how big they are, so longer steps carry her past the nest. Ask your child to also guess a number: how many centimetres or foot lengths past the line? Write it down and check it at the end.
 - **s2 (4 min)**  
-  *Parent does:* Your child starts at the start line, and walks to the far line with normal steps, counting each one. Write down the number of steps. Mark the far line with their toes.  
+  *Parent does:* Your child starts at the start line and walks to the far line with normal steps, counting each one. Write down the number of steps. Mark where their toes are at the far line.  
   *Parent says:* Walk to the far line with your normal steps. Count each step. Say the number at the end.  
   *Child mode:* Walk to the far line. Count your steps.
   - Note: Do not let your child look back. If the steps differ by one or two on a repeat, that is normal. Use the same number for the two trials.
 - **s3 (4 min)**  
-  *Parent does:* From the far line, your child walks back with the same number of steps, but as long as they can. Mark where they stop. Measure how far they are from the start line.  
+  *Parent does:* From the far line, your child walks back with the same number of steps, making each step as long as they can. Mark where they stop. Measure how far they are from the start line.  
   *Parent says:* Now walk home with the same number of steps. Make each step a giant stride. Look straight ahead and stop when you have counted them all.  
   *Child mode:* Walk home with the same number of giant steps.
-  - Note: Cover the start line with a sheet of paper after the first walk, so your child cannot see it. Use a dry, clear floor with no loose rugs, and no running. With a second child as the helper, one walks while the other marks the stopping spot and measures; then swap. Measure the distance past the start line and write it in the table (walk, steps, distance from the start line). Measure one giant step and one normal step too. Stilts made the ants overshoot in the same way.
+  - Note: Cover the start line with a sheet of paper after the first walk, so your child cannot see it. Use a dry, clear floor with no loose rugs, and no running. With a second child as the helper, one walks while the other marks the stopping spot and measures; then swap. Measure the distance past the start line and write it in the table (walk, steps, distance from the start line). Measure one giant step and one normal step too. In the real test, ants on stilts also overshot their nest, just as your child does with giant steps.
 - **s4 (6 min)**  
-  *Parent does:* From the far line, your child walks back with the same number of steps, but as tiny as possible. Mark where they stop. Measure how far short of the start line they are. Ask what they think, saw and why. Finally, walk back once more with normal steps as a control, and measure how far from the start line they stop.  
+  *Parent does:* From the far line, your child walks back with the same number of steps, making each step as tiny as possible. Mark where they stop. Measure how far short of the start line they are. Ask what they saw, and why they think it happened. Finally, your child walks back once more with normal steps as a control. Measure how far from the start line they stop.  
   *Parent says:* Now the same number of steps, but tiny shuffles. Where will you stop? Then say what you saw and why.  
   *Child mode:* Same number of steps, but tiny. Where do you stop?
-  - Ask: What does this tell you about how the ants know the distance home? (good: They count their steps, but not how long each one is.; Their steps tell them the way.; They do not measure distance by looking.)
-  - Note: The control shows how much error normal steps already have, so you know the giant and tiny walks are bigger than chance. In 2006, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf glued pig bristles to some desert ants' legs as stilts, and cut others shorter as stumps. Ants on stilts overshot the nest and ants on stumps stopped short. The ants counted their steps and could not tell the steps were different. A real ant also looks at the sun, so your result is a model of the idea, not the same test.
+  - Ask: What does this tell you about how the ants know the distance home? (good: They count their steps, but not how long each one is.; Their count of steps tells them how far they have come.; They do not measure distance by looking.)
+  - Note: The control shows how far off normal steps already are, so you can see that the misses with giant and tiny steps are bigger than chance. In 2006, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf glued pig bristles to some desert ants' legs as stilts, and cut others shorter as stumps. Ants on stilts overshot the nest and ants on stumps stopped short. The ants counted their steps, but they could not tell that each step was now longer or shorter. A real ant also looks at the sun, so your result is a model of the idea, not the same test.
 ### a3 · Fair or Fishy? Check an animal genius claim (15 min)
 - **s1 (5 min)**  
   *Parent does:* Read the four made-up claims aloud. Claim A: A dog barks the right number of times when his owner asks for 2 plus 3. The owner stands next to him and knows the answer. Claim B: A parrot says 'four' for four keys in many trials. The person who sets the tray does not know the answer. The keys change in size and colour. Claim C: A video shows a crow dropping stones in a tube once. No other tries are shown. Claim D: Two labs in different countries taught bees to pick the card with fewer dots. Both labs also changed the dot sizes and positions so bees could not use size. In both, the helper who set the cards did not know the right side.  
@@ -417,11 +417,11 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   - Note: Read each claim slowly and ask what could explain it other than number. With 2 to 4 children, take a claim each to read aloud, then sort together and argue it out. A single child can sort with a parent.
 - **s2 (6 min)**  
   *Parent does:* Sort the claims into Trust, Trust a little and Ask for more tests. Ask why for each one.  
-  *Parent says:* Put each claim in a box. Say why. What could fool us in this one?  
+  *Parent says:* Put each claim in one of three boxes: Trust, Trust a little, or Ask for more tests. Say why. What could fool us in this one?  
   *Child mode:* Sort the claims. Say why for each one.
   - Ask: Which claim needs the most checking, and why? (good: A, because the owner may be giving small signals.; C, because one video is one try.; A, because the dog might read the owner's face.)
   - Ask: Which claim would you trust most, and why? (good: B, because the helper did not know the answer.; D, because two labs got the same result.; B or D, because they had controls.)
-  - Note: Claim A is like Clever Hans, a horse who seemed to count. The owner may give tiny signs. Claims B and D have a blind helper and use controls. Claim D also repeats in another lab. Claim C is one try, so more tests are needed.
+  - Note: Claim A is like Clever Hans, a horse who seemed to count. The owner may give tiny signs. Claims B and D have a helper who does not know the answer (a blind helper) and use controls. Claim D was also repeated in another lab. Claim C is one try, so more tests are needed.
 - **s3 (4 min)**  
   *Parent does:* Pick the weakest claim. Write one question, or one change to the test, that would make it stronger. Share it.  
   *Parent says:* Pick the claim you trust least. What one change would make the test fair?  
@@ -429,16 +429,16 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   - Check: Which change makes a dog's counting test fairer? → **A helper who does not know the answer asks the question from behind a screen**
 ### a4 · Crow's Choice: which pile does she pick? (if a bird visits) (25 min, 5 days)
 - **safety:** Wash your hands after touching the food or plates. Keep your distance from the bird and never try to touch or catch her. Feed only a little, and only during the test days.
-- **schedule:** day 1: Set the two plates out with 2 pieces and 6 pieces. Toss the coin for the sides. Note which pile the visitor goes to first. (5 min); day 2: Do it again. Toss the coin for the sides. (5 min); day 3: Do it again. Toss the coin for the sides. (5 min); day 4: Do it again. Toss the coin for the sides. (5 min); day 5: Do it once more, then count which pile won on how many days. (5 min)
+- **schedule:** day 1: Set the two plates out with 2 pieces and 6 pieces. Toss the coin for the sides. Note which pile the visitor goes to first. (5 min); day 2: Do it again. Toss the coin for the sides. (5 min); day 3: Do it again. Toss the coin for the sides. (5 min); day 4: Do it again. Toss the coin for the sides. (5 min); day 5: Do it once more, then count on how many days each pile was chosen first. (5 min)
 - **s1 (5 min)**  
-  *Parent does:* Set out the two plates on a balcony rail or terrace wall, 30 centimetres apart. Put 2 pieces on one and 6 on the other. Toss a coin to decide the sides. Step back and watch. Note which pile the visitor goes to first.  
+  *Parent does:* Set out the two plates on a balcony rail or terrace wall, 30 centimetres apart. Put 2 pieces of food on one and 6 on the other. Toss a coin to decide the sides. Step back and watch. Note which pile the visitor goes to first.  
   *Parent says:* Two plates, one small pile and one big pile. We toss the coin to decide the sides. Then we watch from far away. Which pile will she go to first? Why?  
   *Child mode:* Two plates. Watch from far away. Which pile first?
   - Ask: Which pile do you think the visitor will go to first? Why? (good: The big one, because she sees more food.; The closer one.; I do not know.)
   - Note: Only count the first choice. If no one visits in 20 minutes, pick up the food and try again on another day. Birds are shy, so be patient and stay still. A visitor is not guaranteed. Put a little food on the same spot for 2 or 3 days first, so birds learn to come, and do not start the five test days until a bird has eaten there. If no bird comes after 3 days of this, skip this activity and play Wait or Take instead. Use pieces small enough to eat in one go, and watch from a window or a shaded spot, not in strong sun. With 2 to 4 children, one sets the plates, one watches, and one writes, then swap, and everyone stays inside and quiet. Keep food off the ground away from stray dogs or monkeys.
   - Wait: Repeat each day for five days.
 - **s2 (5 min)**  
-  *Parent does:* On the last day, count the days the bigger pile was first. Count the days the smaller pile was first. Ask what the result shows. Ask what else could explain it.  
+  *Parent does:* On the last day, count the days the bigger pile was chosen first. Count the days the smaller pile was chosen first. Ask what the result shows. Ask what else could explain it.  
   *Parent says:* Let us count up the five days. How many times did she choose the big pile first? What else could explain it?  
   *Child mode:* Count the days. Which pile won most often?
   - Ask: If the bird often picks the bigger pile, does that prove she counts? What else could she be using? (good: She could be using how big the pile looks.; She could be using smell.; She might just go to the pile nearer to her.)
@@ -451,7 +451,7 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 - **problem:** A crow visits the window every morning. You want to find out whether she can tell which of two piles of food has more, and not only which looks bigger or smells stronger. Design a fair test.
 - **your turn:** Invent a number test for an animal you often see, such as a crow, a squirrel, a street dog or a pet. Write how you would control size, smell and position, and how many tries you need.
 - **constraints:** You cannot use number words with the crow.; The test must work with food you already have at home.; The test must be hard to solve using only size, smell, position or your own hints.; Plan at least 10 tries, in a mixed-up order, over at least two days.
-- **general:** Two plates with different numbers of pieces, and the crow goes to the bigger.; Use a coin to choose the side.; Count how many tries the bigger pile wins.
+- **general:** Set out two plates with different numbers of pieces, and see whether the crow goes to the bigger pile.; Use a coin to choose the side.; Count how many tries the bigger pile wins.
 - **creative:** Make the pieces in the smaller pile bigger, so both piles weigh and look the same.; Hide the piles behind two screens and let the crow see how many go behind each, like the chick tests.; Ask a helper who does not know the answer to set up each try.; Use the same test for a street dog or a pigeon.
 - **s1 (8 min)**  
   *Parent does:* Ask your child to list the things a crow could use to pick the bigger pile, other than number. Examples: how big the pile looks, the smell, the side, a sign from you. Write them down.  
@@ -470,7 +470,7 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
   - Note: If no bird visits, your family member can play the crow, or you can test the plan with a pigeon or squirrel if one comes.
   - Check: A crow always picks the pile on the left. What does this most likely show? → **She uses position, not number**
 - **s4 (4 min)**  
-  *Parent does:* Improve the plan using what the family member used. Write the final plan in four lines.  
+  *Parent does:* Improve the plan so that the clue your family member used no longer works. Write the final plan in four lines.  
   *Parent says:* Fix the one clue you missed. Write your final plan in four lines.  
   *Child mode:* Fix the clue you missed. Write your final plan.
 
@@ -501,7 +501,7 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
    **Answer:** Honeybee → stopped at the right stripe in a tunnel; Desert ant → walked past the nest on stilts; Grey parrot → said the number of objects on a tray; Newborn chick → chose the bigger group of balls. *Why:* Each test shows number being used without number words, except the parrot, who used spoken number words.
 11. (sort) Sort each one by whether you can do it at a glance or need to count.  
    **Answer:** 3 dots → At a glance; 2 dots → At a glance; 6 dots in two rows of three → At a glance; 20 scattered coins → Need to count; 14 scattered dots → Need to count; a long line of 18 steps → Need to count. *Why:* People know small numbers, and neat groups of small numbers, at a glance. Larger scattered numbers need counting.
-12. (count) Meera tosses a coin before each try. When it lands heads, the bigger pile goes on the left. In 20 tries, heads came 9 times. On how many tries was the bigger pile on the right?  
+12. (count) A coin is tossed before each try. When it lands heads, the bigger pile goes on the left. In 20 tries, heads came up 9 times. On how many tries was the bigger pile on the right?  
    **Answer:** 11. *Why:* 20 take away 9 is 11. The bigger pile was on the right on the 11 tries when the coin landed tails.
 13. (odd) Which is the odd one out, and why? A fish joins the bigger shoal. A chick picks the bigger group. A bee stops at the third stripe. A child learns to read.  
    **Answer:** A child learns to read. The other three use a quick sense of number.. *Why:* Fish, chicks and bees all show number sense without number words. Learning to read is a different skill.
@@ -513,7 +513,7 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 16. (truefalse) A bigger brain always means a better sense of number.  
    **Answer:** False. *Why:* False. A honeybee has about a million neurons and still handles number tasks. What a brain does depends on how it is wired, not only on its size.
 ### Ratios, Waiting and Fair Tests (stretch) (stretch, 17 questions)
-1. (mcq) Two piles have a ratio of 1 to 2. Which pair is it?  
+1. (mcq) Two piles have a ratio of 1 to 2. Which pair of numbers is that?  
    Options: 10 and 20 / 10 and 12 / 10 and 15  
    **Answer:** 10 and 20. *Why:* 20 is 2 times 10, so the ratio of 10 to 20 is 1 to 2. The other pairs are closer.
 2. (mcq) Babies six months old told 8 dots from 16 dots, but not 8 from 12. What does this show?  
@@ -530,16 +530,16 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 7. (write) Explain why a small brain does not have to mean a weak sense of number.  
    **Answer:** A bee has only about a million neurons, but she can learn the third stripe and even add one. A small circuit of four neurons in a computer model can estimate a number. So the way a brain is wired matters more than its size.. *Why:* A strong answer uses the bee or the four-neuron model as evidence and says how a brain is wired matters.
 8. (order) Put the steps of a fair animal number test in order.  
-   **Answer:** ['List what the animal might use besides number, such as size or smell', 'Change those things so they cannot help', 'Ask a helper who does not know the answer to set up each try', 'Run many tries in a random order', 'Compare the score with what luck would give']. *Why:* First you list the clues. Then you remove them. A blind helper removes your own hints. Many random tries make the result trustworthy. Last, you compare with luck.
+   **Answer:** ['List what the animal might use besides number, such as size or smell', 'Change those things so they cannot help', 'Ask a helper who does not know the answer to set up each try', 'Run many tries in a random order', 'Compare the score with what luck would give']. *Why:* First you list the clues. Then you remove them. A helper who does not know the answer removes your own hints. Many random tries make the result trustworthy. Last, you compare with luck.
 9. (sort) Sort each claim by whether it has good evidence or needs more tests.  
-   **Answer:** Two labs got the same bee result and the helpers did not know the answer. → Good evidence; A video shows a crow solving a puzzle once. → Needs more tests; A dog taps the right number while the owner stares at him. → Needs more tests; A parrot gets the number of keys right in many tries set by a blind helper. → Good evidence. *Why:* Repeats, blind helpers and a second lab make a result stronger. One try, or a helper who knows the answer, leave room for tricks.
+   **Answer:** Two labs got the same bee result and the helpers did not know the answer. → Good evidence; A video shows a crow solving a puzzle once. → Needs more tests; A dog taps the right number while the owner stares at him. → Needs more tests; A parrot gets the number of keys right in many tries set by a helper who does not know the answer. → Good evidence. *Why:* Repeats, helpers who do not know the answer and a second lab make a result stronger. One try, or a helper who knows the answer, leaves room for tricks.
 10. (match) Match each test to what it checks.  
    **Answer:** Stripes in a tunnel → counting landmarks; Stilts on an ant's legs → whether she counts steps; One raisin now or two later → self-control; A blank card against a card with dots → whether none is treated as a number. *Why:* Each test is built to show one thing and hide the others.
 11. (perspective) Two friends read that bees passed a test where they added one dot.  
    **Answer:** Answers vary. A strong answer picks a side, gives a reason, and describes a test, such as changing the dots, the colours and the helper.. *Why:* Both views fit the facts. A good test removes simple rules, for example by changing the size and colour of the dots.
 12. (draw) Draw a simple picture of the ratio effect. Show a pair of dot groups that is easy to tell apart and a pair that is hard.  
    **Answer:** An easy pair such as 4 and 8 dots, and a hard pair such as 8 and 9 dots, labelled easy and hard.. *Why:* A strong drawing shows that the easy pair has a ratio far from 1, and the hard pair has a ratio close to 1.
-13. (count) Suppose a cuttlefish waits 2 minutes, which is 120 seconds, for her favourite food. A child waited 3 minutes for two raisins. How many seconds longer did the child wait?  
+13. (count) Suppose a cuttlefish waits 2 minutes, which is 120 seconds, for her favourite food. A child waits 3 minutes for two raisins. How many seconds longer does the child wait?  
    **Answer:** 60. *Why:* 3 minutes is 180 seconds. 180 take away 120 is 60. The child waited 60 seconds longer.
 14. (mcq) Children waited much less when a grown-up had already broken a promise. What is the best reading of this?  
    Options: Waiting depends on trust as well as on willpower / Those children had no self-control / Promises do not matter  
@@ -552,8 +552,8 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 17. (odd) Which is the odd one out, and why? Knowing 3 dots at once. Knowing which pile has more. Counting 9 dots one by one. A chick picking the bigger group.  
    **Answer:** Counting 9 dots one by one, because it is a method with steps, not a quick feeling.. *Why:* The other three use the quick sense of number. Counting uses rules and steps.
 ### Zero, Bees and Brains (challenge) (challenge, 16 questions)
-1. (write) Rao says, 'Animals have no number words, so they cannot have any sense of number.' Argue for or against, using one animal as evidence.  
-   **Answer:** Against. A desert ant on stilts walked past her nest, so she counts steps without words. Number sense works with no words.. *Why:* A strong answer takes a side, names an animal and a finding, and says why the finding answers Rao.
+1. (write) Someone says, 'Animals have no number words, so they cannot have any sense of number.' Argue for or against, using one animal as evidence.  
+   **Answer:** Against. A desert ant on stilts walked past her nest, so she counts steps without words. Number sense works with no words.. *Why:* A strong answer takes a side, names an animal and a finding, and says why the finding answers the claim.
 2. (mcq) A crow picks the pile with more peanuts. Which extra check best shows she uses number and not size?  
    Options: Use bigger peanuts in the smaller pile, so both piles take up the same space / Use the same peanuts and the same pile size / Give her more time to look  
    **Answer:** Use bigger peanuts in the smaller pile, so both piles take up the same space. *Why:* If the smaller pile has bigger peanuts, the size and the space cannot give away the answer. Only the number is different.
@@ -635,13 +635,13 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 
 ## Applications
 - Teaching: children learn better when they see small numbers in groups, like dice patterns, before they count them.
-- Testing minds fairly: the ideas of controls and blind helpers are used in medicine, psychology and animal welfare.
+- Testing minds fairly: controls, and helpers who do not know the answer, are used in medicine, psychology and animal welfare.
 - Robots and computers: small circuits modelled on bee brains help designers build light, cheap number-sensing in drones and cameras.
 - Keeping animals well: knowing that animals wait, choose and plan helps people design better homes and farms for them.
 
 ## Spotted around us
 - A crow on the balcony rail picking the bigger of two pieces of bread.
-- Ants walking in a line to a sugar crumb, and a different number of ants taking each crumb home.
+- Ants walking in a line to a sugar crumb, with a different number of ants carrying each crumb home.
 - A bee going from flower to flower in a potted plant on the window sill.
 - A street dog waiting beside the chai stall for the bigger share of biscuit.
 - Dots on a die, on dominoes and on playing cards, laid out so that you know the number at a glance.
@@ -674,8 +674,8 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 
 ## Connected maths
 - In a pile test, one pair has 6 and 12 beans. Another pair has 24 and 30 beans. Write each pair as a fraction, the smaller pile over the bigger pile, and simplify. Which fraction is closer to 1? What does that tell you about how hard each pair is to tell apart? **6/12 = 1/2 and 24/30 = 4/5. 4/5 is closer to 1, so the pair 24 and 30 is harder.**. 6 over 12 simplifies by dividing both by 6 to get 1 over 2. 24 over 30 simplifies by dividing both by 6 to get 4 over 5. One half is far from 1, and four fifths is close to 1. The closer to 1, the harder to tell apart. (queues `math.fractions.ratio-and-proportion.L4`)
-- In a Dot Flash test, Meera got 6 of 6 right on the 2, 3 and 4 dot cards, 4 of 6 right on the 5, 6 and 7 dot cards, and 1 of 4 right on the 8 and 9 dot cards. For each group, write the fraction she got right. Which fraction is the smallest? **6/6, 4/6 = 2/3 and 1/4. The smallest is 1/4, for the 8 and 9 dot cards.**. 6 out of 6 is 1 whole. 4 out of 6 is 2 over 3. 1 out of 4 is 1 over 4. One quarter is less than two thirds, which is less than 1 whole. So the 8 and 9 dot cards were hardest. (queues `math.fractions.fractions-of-a-whole.L4`)
-- In a waiting game, each round you can take 1 seed, or wait. Waiting wins 3 seeds on a Safe card and 0 on a Thief card. A deck has 10 rounds, with 8 Safe and 2 Thief. How many seeds does waiting every round give, and how many does taking every round give? How many more is the waiting? **Waiting gives 24, taking gives 10, so waiting gives 14 more.**. 8 Safe rounds times 3 seeds is 24 seeds. 10 rounds times 1 seed is 10 seeds. 24 take away 10 is 14. (queues `math.multiplication.multiplication-facts.L4`)
+- In a Dot Flash test, a child got 6 of 6 right on the 2, 3 and 4 dot cards, 4 of 6 right on the 5, 6 and 7 dot cards, and 1 of 4 right on the 8 and 9 dot cards. For each group of cards, write the fraction the child got right. Which fraction is the smallest? **6/6, 4/6 = 2/3 and 1/4. The smallest is 1/4, for the 8 and 9 dot cards.**. 6 out of 6 is 1 whole. 4 out of 6 is 2 over 3. 1 out of 4 is 1 over 4. One quarter is less than two thirds, which is less than 1 whole. So the 8 and 9 dot cards were hardest. (queues `math.fractions.fractions-of-a-whole.L4`)
+- In a waiting game, each round you can take 1 seed, or wait. Waiting wins 3 seeds on a Safe card and 0 on a Thief card. A deck has 10 rounds, with 8 Safe and 2 Thief. How many seeds does waiting every round give, and how many does taking every round give? How many more seeds does waiting give? **Waiting gives 24, taking gives 10, so waiting gives 14 more.**. 8 Safe rounds times 3 seeds is 24 seeds. 10 rounds times 1 seed is 10 seeds. 24 take away 10 is 14. (queues `math.multiplication.multiplication-facts.L4`)
 - A child starts the three-minute wait at 5:05 pm. She takes the single raisin at 5:07 pm. How long did she wait? How much of the three minutes was left? At what time would she have got two raisins? **She waited 2 minutes, 1 minute was left, and she would have got two raisins at 5:08 pm.**. From 5:05 to 5:07 is 2 minutes. 3 minutes take away 2 minutes is 1 minute. 5:05 plus 3 minutes is 5:08. (queues `math.time.duration.L4`)
 
 ## Song

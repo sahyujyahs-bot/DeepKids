@@ -134,7 +134,7 @@
    "concept": "Bodies built in two halves: bilateral symmetry",
    "status": "defined",
    "definition": "Bilateral symmetry means that a body has one line down the middle, with a matching left side and right side.",
-   "description": "A two-sided body has three pairs of sides. The front end differs from the tail end. The back differs from the belly. Only the left and the right match. So there is exactly one line that cuts the body into matching halves. An animal with this plan moves front end first. The front end meets food, danger and new places before the rest of the body does. So the eyes, the feelers, the nose and the mouth are gathered there, with a brain close behind them. That gathered front end is a head. Worms, insects, spiders, crabs, snails, fish, frogs, birds and mammals all have this plan. Out of every hundred kinds of animals, about ninety-nine are two-sided. The matching is on the outside. Inside a human, the heart leans to the left and the liver lies on the right.",
+   "description": "A two-sided body has three pairs of opposite sides: front and tail, back and belly, and left and right. The front end differs from the tail end. The back differs from the belly. Only the left and the right match. So there is exactly one line that cuts the body into matching halves. An animal with this plan moves front end first. The front end meets food, danger and new places before the rest of the body does. So the eyes, the feelers, the nose and the mouth are gathered there, with a brain close behind them. That gathered front end is a head. Worms, insects, spiders, crabs, snails, fish, frogs, birds and mammals all have this plan. Out of every hundred kinds of animals, about ninety-nine are two-sided. The matching is on the outside. Inside a human, the heart leans to the left and the liver lies on the right.",
    "examples": [
     "A house gecko runs up the wall head first, with two matching legs on each side.",
     "A dragonfly has two matching pairs of wings and two huge eyes at the front.",
@@ -151,7 +151,7 @@
    "examples": [
     "A rowing boat with one oar goes round in a circle.",
     "A fish has a matching fin on each side of her body.",
-    "Most birds shed the matching feathers of both wings at the same time, so the two wings stay equal."
+    "Most birds drop the same feather from each wing at the same time, so the two wings stay equal."
    ],
    "perspectives": [
     {
@@ -173,7 +173,7 @@
    "examples": [
     "A starfish larva is smaller than a grain of rice and swims with tiny beating hairs.",
     "A sea urchin's round shell has five matching parts, and her larva has two matching sides.",
-    "A dolphin and a shark have the same shape. A dolphin is a mammal, and a shark is a fish."
+    "A dolphin and a shark have a similar shape. A dolphin is a mammal and a shark is a fish, so the shape does not make them close relatives."
    ],
    "perspectives": [],
    "art": "Three drawings in a row with arrows between them: a tiny two-sided starfish larva, the same larva with a small star growing inside, and a young five-armed starfish."
@@ -304,7 +304,7 @@
   {
    "claim": "All animals share one body plan. An insect is laid out like an animal with a backbone, turned upside down.",
    "who": "Étienne Geoffroy Saint-Hilaire, who argued this against Cuvier in Paris in 1830.",
-   "for": "In the 1990s scientists found that the same genes mark belly and back in flies and in frogs. In frogs they work the other way up.",
+   "for": "In the 1990s scientists found that the same genes mark the belly and the back in flies and in frogs. The genes sit on opposite sides in the two animals, as if one of them were turned upside down.",
    "against": "Cuvier pointed to real differences. An insect's skeleton is on the outside, and the main nerve cord runs along the belly. Most scientists say the plans are related but are not one plan.",
    "status": "debated"
   },
@@ -347,7 +347,7 @@
   {
    "q": "Cars, boats and planes have matching sides. Did people copy animals, or did they meet the same problem?",
    "kind": "big",
-   "hint": "In the Lopsided Roller test, the roller with unequal balls curved to one side on every roll."
+   "hint": "In the Lopsided Roller test, the roller with unequal balls curved on every roll. Think about what would happen to a car with a stronger wheel on one side."
   },
   {
    "q": "Each of your cells is alive. So are you one living being, or trillions living together?",
@@ -387,7 +387,7 @@
    "On Sunday Devika telephoned. \"Does your round boat still not know where it is going?\" she asked.",
    "\"It does not need to know,\" said Ponni. \"I know. And wherever I kneel, that is the front.\""
   ],
-  "epiphany": "A long boat has one front. It goes fast and straight, but it needs room to turn. A round boat is the same on every side, so any part of the rim can lead. Animal bodies follow the same two plans. A fish is built to go one way, head first. A sea anemone or a jellyfish is the same all the way round. She is ready on every side at once.",
+  "epiphany": "A long boat has one front. It goes fast and straight, but it needs room to turn. A round boat is the same on every side, so any part of the rim can lead. Animal bodies are built in the same two ways. A fish is built to go one way, head first. A sea anemone or a jellyfish is the same all the way round. She is ready on every side at once.",
   "ask": [
    "Why could the round boat leave the narrow channel without turning round?",
    "Which animals are built like the long boat, and which like the round boat?",
@@ -1533,7 +1533,7 @@
    "id": "c1",
    "title": "Many Threads, One Lift: build a model tendon from sewing thread",
    "mins": 20,
-   "problem": "A tendon ties a muscle to a bone. It is a tissue made of thousands of thin fibres lying side by side. One fibre alone is weak. Your problem is the same. One sewing thread snaps when it lifts a bag that weighs 2 kilograms. Lift the bag with thread alone, using as few threads as you can.",
+   "problem": "A tendon ties a muscle to a bone. It is a tissue made of thousands of thin fibres lying side by side. One fibre alone is weak. Your problem is similar, because one sewing thread alone is weak too. It snaps when it lifts a bag that weighs 2 kilograms. Lift the bag with thread alone, using as few threads as you can.",
    "constraints": [
     "Use ordinary sewing thread only. No string, wool or tape.",
     "Each thread is 30 centimetres long before you tie it.",
@@ -1660,7 +1660,7 @@
     },
     {
      "t": "mcq",
-     "p": "Which animal has a body built in rings round a middle point?",
+     "p": "Which animal has matching parts arranged all the way round a middle point?",
      "opts": [
       "A sea anemone",
       "A crow",
@@ -2034,7 +2034,7 @@
       },
       {
        "who": "A scientist who studies genes",
-       "says": "Head genes are switched on along every arm, and trunk genes are mostly missing. A starfish is mostly a head."
+       "says": "Head genes are switched on along every arm, and trunk genes are mostly missing. So most of a starfish's body is built like a head, with almost no trunk."
       }
      ],
      "ask": "Which view do you agree with most? Give a reason from this unit. Then answer one of the other views.",
@@ -2493,7 +2493,7 @@
    "why_open": "Comb jellies have nerves and muscles, and sponges have neither. A gene study in 2023 put comb jellies on the oldest branch, and other studies put sponges there. The answer changes how we think nerves began."
   },
   {
-   "q": "Is a starfish mostly a head?",
+   "q": "Is most of a starfish's body really built like a head?",
    "why_open": "A gene study in 2023 found head genes at work along every arm of a young starfish. Scientists are still checking this in other kinds of starfish and in sea urchins."
   }
  ],
@@ -2923,7 +2923,7 @@
    "what_is_life": "Life builds millions of different bodies from a few layouts and four kinds of tissue. Each layout fits one way of meeting the world.",
    "what_is_this_world": "Gravity, water and the direction of travel leave their mark on every body. You can read part of an animal's world from the animal's shape."
   },
-  "thread": "The first animals were small groups of cells. Their descendants became rings, two-sided swimmers, coiled snails and long rows of segments. Under these different layouts, the same family of genes still marks head from tail in flies, mice and children. Many sages taught that one life takes many forms. The science here says something close and exact. Every animal body plan grew from one beginning, and the shared genes still show it.",
+  "thread": "The first animals were small groups of cells. Their descendants became rings, two-sided swimmers, coiled snails and long rows of segments. Under these different layouts, the same family of genes still marks head from tail in flies, mice and children. Many wise teachers taught that one life takes many forms. The science here makes a similar point in a precise way. Every animal body plan grew from one beginning, and the shared genes still show it.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.1.4",
@@ -2942,7 +2942,7 @@
     "status": "settled"
    },
    {
-    "text": "A study of starfish genes in 2023 suggested that a starfish's body is mostly a head, with almost no trunk. Scientists are still testing this.",
+    "text": "A study of starfish genes in 2023 suggested that most of a starfish's body is built like a head, with almost no trunk. Scientists are still testing this.",
     "status": "debated"
    }
   ],

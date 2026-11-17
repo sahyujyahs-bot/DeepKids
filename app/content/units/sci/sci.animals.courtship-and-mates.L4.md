@@ -47,7 +47,7 @@ A pond in the monsoon may hold five species of frogs, all calling at once. A fem
 ### Displays of colour and shape · *defined*
 **Definition:** A display is a show of colour, shape or movement that one animal gives for another to see.
 
-A peacock lifts his train into a fan and turns to face a peahen. Then he shakes the train about 25 times each second, so that it rustles and the eyespots seem to shimmer. A male Indian bullfrog turns bright yellow after the first heavy monsoon rain. His two throat sacs turn deep blue. The colour lasts only a day or two. A male fan-throated lizard in Maharashtra flicks out a blue, black and orange throat fan. Many of these colours are shown only in the breeding season, or only for a moment. A peacock's blue and green are a special case. His feathers hold only a brown colouring. Their tiniest parts are stacked in neat rows, far too small to see. These rows reflect blue and green light. This is called structural colour.
+A peacock lifts his train into a fan and turns to face a peahen. Then he shakes the train about 25 times each second, so that it rustles and the eyespots seem to shimmer. A male Indian bullfrog turns bright yellow after the first heavy monsoon rain. His two throat sacs turn deep blue. The colour lasts only a day or two. A male fan-throated lizard in Maharashtra flicks out a blue, black and orange throat fan. Many of these colours are shown only in the breeding season, or only for a moment. A peacock's blue and green are a special case. His feathers hold only a brown colouring. The tiniest parts of each feather are stacked in neat rows, far too small to see. These rows reflect blue and green light. This is called structural colour.
 - e.g. A peacock raises his train and shakes it so that it rustles.
 - e.g. A male Indian bullfrog turns yellow after the first heavy rain.
 - e.g. A fan-throated lizard flicks out a bright throat fan on a stone.
@@ -89,7 +89,7 @@ Growing a long train or a long tail takes food. Singing for hours takes energy, 
 ### Courtship follows the seasons · *defined*
 **Definition:** The breeding season is the part of the year when a species courts, mates and raises young.
 
-Young animals need a lot of food. So most animals court at a time that puts their young into the world when food is plentiful. Earth is tilted, and this gives us seasons with longer and shorter days. Many birds can sense the length of the day. When the days grow longer, their bodies make chemical messengers called hormones. The hormones start the singing and the nest building. In much of India the monsoon sets the time. Peacocks display most as the rains come. Frogs call after the first heavy rain, because their tadpoles need pools. Baya weavers build when the paddy and the grass are long and green. So a peacock's dance is tied to the monsoon wind and to the tilt of the Earth.
+Young animals need a lot of food. So most animals court at a time that puts their young into the world when food is plentiful. Earth is tilted, and this gives us seasons with longer and shorter days. Many birds can sense the length of the day. When the days grow longer, their bodies make chemical messengers called hormones. The hormones start the singing and the nest building. In much of India the monsoon sets the time. Peacocks display most as the rains come. Frogs call after the first heavy rain, because their tadpoles need pools. Baya weavers build when the paddy and the grass are long and green. So the timing of a peacock's dance depends on the monsoon rains, and on the tilt of the Earth that gives us the seasons.
 - e.g. Peacocks call and display most at the start of the monsoon.
 - e.g. Bullfrogs gather to call after the first heavy rain.
 - e.g. Baya weavers start to weave when the grass grows long.
@@ -107,7 +107,7 @@ A peahen prefers some peacocks to others. What is her preference about? There ar
 - e.g. Peahens stay near some peacocks and walk away from others.
 - e.g. Female widowbirds nest most with the males who have the longest tails.
 - **Scientists who say a display is a report on health, such as Amotz Zahavi, William Hamilton and Marlene Zuk:** A big, bright display is costly. Only a healthy, well-fed animal can grow one and stay alive. So a chooser who picks the best display gets a healthy partner, and her young may be healthy too.
-- **Scientists who say beauty is enough, such as Charles Darwin, Ronald Fisher and Richard Prum:** Animals feel pleasure in certain colours, sounds and moves. If most females like long tails, then sons with long tails will be chosen too. So a liking can spread and grow, even if the tail says nothing about health.
+- **Scientists who say beauty is enough, such as Charles Darwin, Ronald Fisher and Richard Prum:** Animals feel pleasure in certain colours, sounds and moves. If most females like long tails, then males with long tails are chosen more often. Their sons inherit the long tails, and their daughters inherit the liking for them. So a liking can spread and grow, even if the tail says nothing about health.
 - **Scientists who say the senses came first, such as Michael Ryan:** A chooser's eyes, ears and brain were already tuned to notice some things, such as the colour of ripe fruit. A display that matches what the senses already notice gets more attention.
 
 ## Mostly agreed
@@ -151,9 +151,9 @@ In this unit you counted what choosers pick, and you found that a long tail shor
 
 - *who am i:* You have two parents, four grandparents and eight great-grandparents. Every one of your ancestors found a partner. If even one had not, you would not be here.
 - *what is life:* Most animals cannot make young alone. Their kind of life goes on only where two beings find each other and accept each other.
-- *what is this world:* Much of the colour and song around you was shaped by choosers. A peacock's train and a magpie robin's song are there because someone watched and listened.
+- *what is this world:* Much of the colour and song around you was shaped by choosers. A peacock's train and a magpie robin's song exist because, over many generations, partners watched and listened and chose.
 
-Two animals begin as separate beings, and often as strangers. In courtship each one pays close attention to the other. Then one cell from each joins, and a new being begins from the two. Many sages taught that the many come from one source. The science in this unit shows the other half of that picture: two become one new life, again and again, in every generation.
+Two animals begin as separate beings, and often as strangers. In courtship each one pays close attention to the other. Then one cell from each joins, and a new being begins from the two. Many wise teachers taught that many beings come from one source. This unit shows something that goes the other way. Two separate beings come together, and from the two a new life begins, again and again, in every generation.
 
 - **Valmiki Ramayana, Bala Kanda, sarga 2:** The poet Valmiki sees a pair of krauncha birds together by a river. A hunter shoots the male, and the female cries out. Valmiki's grief comes out as a verse, which tradition calls the first shloka. (Many scholars think the krauncha is the sarus crane. The poem takes the bond between two birds seriously. Field studies agree that sarus pairs stay together for many years. Whether a crane grieves as a person does cannot yet be measured.)
 - **Kurunthokai 40, by Sembulappeyaneerar (Tamil Sangam poetry):** The poet asks: what is my mother to yours, and how did you and I ever meet? Yet, like red earth and pouring rain, our hearts have mixed. (The poem is about two people. It says plainly what happens in every pair: two beings who were strangers come to act together. Two sarus cranes calling in a duet show the same joining.)
@@ -439,7 +439,7 @@ Yazhini sat down and picked up her strips. They were only a little bent.
 
 ## Challenges
 ### c1 · Open and Shut: build a display that you can hide (20 min)
-- **problem:** A fan-throated lizard must be noticed by a partner, and must not be noticed by a hawk. He keeps a bright throat fan folded away and flicks it out for a moment. Your problem is the same. Build a paper display that a watcher five steps away sees clearly when it is open. When it is shut, the watcher must not find it against a plain bedsheet.
+- **problem:** A fan-throated lizard must be noticed by a partner, and must not be noticed by a hawk. He keeps a bright throat fan folded away and flicks it out for a moment. Your problem is like his. Build a paper display that a watcher five steps away sees clearly when it is open. When it is shut, the watcher must not find it against a plain bedsheet.
 - **your turn:** Now design your own. Draw it first. Test it six times: three open and three shut, in a mixed-up order. Write how many times the watcher saw it when it was open, and how many times when it was shut.
 - **constraints:** Use only paper, colours and tape.; It must open in two seconds and shut in two seconds, with one hand.; When shut, it must lie flat against a plain bedsheet or a plain wall.; The watcher stands five big steps away.; The watcher gets a count of three to look each time.
 - **general:** Fold a paper fan that is bright on the inside and plain on the outside.; Make a flap that lifts to show a bright patch under it.; Colour one side of a card brightly, and turn it over to hide it.

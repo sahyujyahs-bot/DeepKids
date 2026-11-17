@@ -43,7 +43,7 @@ A bird has no hands and no teeth. The beak does the work of both. It is light, b
 ### A short beak bites hard, and a long beak reaches far · *defined*
 **Definition:** A beak works as a pair of levers. A lever pushes hard near the hinge and weakly far from the hinge.
 
-The two halves of a beak meet at a hinge at the back of the mouth. The muscles that close the beak pull near that hinge. This is the same plan as a pair of scissors. In the Beak Lever Test, scissors cut a thick stack of newspaper near the hinge. At the tips they cut only a thin stack. The muscle's pull is shared out along the beak. Close to the hinge, the bite is strong. Far from the hinge, the bite is weak. So a short, deep beak gives a hard bite at the tip, because the tip is close to the hinge. A finch cracks her hardest seeds near the base of her beak, where the bite is strongest. A long beak has a weak bite at the tip. But the tip of a long beak moves farther and faster when the beak opens and shuts. It also reaches deep into mud, water or a flower. No beak can have the hardest bite and the longest reach together. That is why seed-crackers have short beaks and probing birds have long ones.
+The two halves of a beak meet at a hinge at the back of the mouth. The muscles that close the beak pull near that hinge. This is the same plan as a pair of scissors. In the Beak Lever Test, scissors cut a thick stack of newspaper near the hinge. At the tips they cut only a thin stack. The muscle pulls with the same force the whole time, but the bite is not the same everywhere along the beak. Close to the hinge, the bite is strong. Far from the hinge, the bite is weak. So a short, deep beak gives a hard bite at the tip, because the tip is close to the hinge. A finch cracks her hardest seeds near the base of her beak, where the bite is strongest. A long beak has a weak bite at the tip. But the tip of a long beak moves farther and faster when the beak opens and shuts. It also reaches deep into mud, water or a flower. No beak can have the hardest bite and the longest reach together. That is why seed-crackers have short beaks and probing birds have long ones.
 - e.g. A sparrow cracks a grain of bajra with a beak about one centimetre long.
 - e.g. A godwit's beak is about ten centimetres long. She uses it to reach worms, and she swallows them whole.
 - e.g. A kingfisher's long beak snaps shut very fast on a fish.
@@ -109,7 +109,7 @@ In 1996 a farmer in Liaoning, in China, found a fossil of a small theropod. The 
 ### Why only the birds lived through the asteroid · *idea*
 **Definition:** Scientists have ideas, but no proof, about why some birds lived through the asteroid strike when all other dinosaurs died.
 
-The asteroid that struck 66 million years ago set off fires and filled the sky with dust. Plants stopped growing for many months, and forests fell. Every large land animal died. Many kinds of birds died too, including all the birds who still had teeth. Scientists have ideas about why some birds lived, and none is proved. The birds who lived were small, so they needed little food. They had beaks without teeth, and some may have eaten seeds. Seeds stay good to eat in the soil for years after plants stop growing. Many of them seem to have lived on the ground, which helped when the forests were gone.
+The asteroid that struck 66 million years ago set off fires and filled the sky with dust. Plants stopped growing for many months, and forests fell. Every large land animal died. Many kinds of birds died too, including all the birds who still had teeth. Scientists have ideas about why some birds lived, and none is proved. The birds who lived were small, so they needed little food. They had beaks without teeth, and some may have eaten seeds. Seeds stay good to eat in the soil for years after plants stop growing. Many of the birds who lived seem to have lived on the ground, which helped when the forests were gone.
 - e.g. Seeds buried in soil can last for years.
 - e.g. A small body needs less food than a large one.
 - e.g. The birds with teeth all died out.
@@ -150,14 +150,14 @@ In this unit you tested a model beak and looked for a dinosaur's features on a b
 *Habit it breaks:* We say 'the dinosaurs died out' and treat birds as a separate kind of animal. The family tree puts birds inside the dinosaurs. So that sentence is true only of the other dinosaurs.  
 *Evidence:* In Find the Dinosaur in a Bird, you checked eight features on a bird. All eight are also found in fossils of small theropods. In the game Bird, Old Dinosaur or Both, 11 of the 16 feature cards belong to both.
 
-- *who am i:* You are one twig on a very old family tree. Your backbone, your four limbs and your five fingers come from animals who lived before the first dinosaur.
-- *what is life:* Life does not start again with each new kind of animal. A dinosaur's scales, feathers and nest carry on, changed, in a hen.
+- *who am i:* You belong to a very old family of animals. Your backbone, your four limbs and your five fingers come from animals who lived before the first dinosaur.
+- *what is life:* Life does not start from nothing with each new kind of animal. A hen still has scaly feet, feathers and a nest, which came from her dinosaur ancestors and changed a little.
 - *what is this world:* The animals you see are not a finished set. Each kind is one stage in a change that is still going on, as the finches showed after one drought.
 
-Every bird hatched from an egg laid by a mother who hatched from an egg. Follow that line of mothers back for 150 million years, and they are feathered dinosaurs. Follow the line further, and it reaches the first animals and then the first cells. Many sages taught that all beings are one life in many bodies. The fossils say something close to this. Every kind of living being belongs to one family, which has been changing slowly for a very long time.
+Every bird hatched from an egg laid by a mother who hatched from an egg. Follow that line of mothers back for 150 million years, and they are feathered dinosaurs. Follow the line further, and it reaches the first animals and then the first cells. Many wise teachers taught that all living beings share one life. The fossils tell a similar story in their own way. Every kind of living being belongs to one family, and that family has been changing slowly for a very long time.
 
-- **Udana 6.4, a Buddhist text:** Some blind men each touch one part of an elephant. One says an elephant is like a pot, another like a pillar, another like a broom. Each is sure, and they quarrel. (In 1836 Edward Hitchcock studied three-toed footprints in rock and said giant birds made them. Later scientists said dinosaurs made them. Each had hold of part of the truth, because birds are dinosaurs.)
-- **Heraclitus, as quoted by Plato in Cratylus 402a:** Everything moves and nothing stays still. You cannot step twice into the same river. (A kind of animal is like a river. The finches of Daphne Major had deeper beaks after one drought. The name 'finch' stayed the same while the birds changed.)
+- **Udana 6.4, a Buddhist text:** Some blind men each touch one part of an elephant. One says an elephant is like a pot, another like a pillar, another like a broom. Each is sure, and they quarrel. (In 1836 Edward Hitchcock studied three-toed footprints in rock and said giant birds made them. Later scientists said dinosaurs made them. Each side held part of the truth, like the men with the elephant. The three-toed feet belong to dinosaurs, and birds are a kind of dinosaur.)
+- **Heraclitus, as quoted by Plato in Cratylus 402a:** Everything moves and nothing stays still. You cannot step twice into the same river. (A kind of animal is like a river, which never stands still. The finches of Daphne Major had deeper beaks after one drought. The name 'finch' stayed the same, but the birds had changed.)
 - **Charles Darwin, On the Origin of Species (1859), the last sentence:** From a simple beginning, endless forms most beautiful and most wonderful have been, and are being, evolved. (Darwin wrote 'are being'. The change from a small feathered dinosaur to a sparrow has not stopped. Beaks are still being fitted to foods today.)
 - Science (settled): All living things share one ancestor. The same chemical code is used in the cells of a sparrow, a neem tree and you.
 - Science (debated): Scientists do not agree on what a 'kind' or species really is. Some say kinds are real units in nature. Others say they are lines that people draw across slow change.
@@ -247,7 +247,7 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 - **Printable score sheet: Score sheet:** Player: ___  Food right (1 bean each): ___; Player: ___  Bird named too (1 extra bean each): ___; Playing alone: cards right on the first go: ___ out of 18
 - **s1 (3 min)**  
   *Parent does:* Cut out the 18 cards. Shuffle them, clue side up. Put a bowl of dried beans on the table.  
-  *Parent says:* Each card describes the beak and feet of a real Indian bird. You will work out the food from those two clues. The Beak Lever Test showed that scissors cut hardest near the hinge. Keep that in mind for the short beaks.  
+  *Parent says:* Each card describes the beak and feet of a real Indian bird. You will work out the food from those two clues. The Beak Lever Test showed that scissors cut hardest near the hinge. Remember this when you meet a short beak, because a short beak bites hard.  
   *Child mode:* Cut out the cards and shuffle them. Keep the clue side up.
 - **s2 (12 min)**  
   *Parent does:* Play by the rules until all 18 cards have been read. After each card, ask for the reason before the card is turned over.  
@@ -260,7 +260,7 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
   *Parent says:* The vulture and the kite both have hooked beaks. Their feet are very different. What does that tell you about how each one gets meat?  
   *Child mode:* Put the kite and the vulture together. What differs? Say why.
   - Ask: Why does a vulture not need talons? (good: The animal is already dead, so there is nothing to catch.; She only walks and stands on the food.)
-  - Think: Which bird in the pack would find food most easily in your street?
+  - Think: Which of the 18 birds on the cards would find food most easily in your street?
 ### g2 · Bird, Old Dinosaur or Both? The feature cards (15 min)
 - **rules:** Lay the three labels in a row on the floor or a table.; Shuffle the 16 feature cards and hold them with the feature side up.; Read the top card. Decide who has this feature: only birds alive today, only the old dinosaurs, or both.; Put the card under the label you chose. Do not turn it over yet.; With two or more players, take turns. The other players may say 'I disagree' and give a reason.; When all 16 cards are placed, turn them over one at a time and read the backs.; Each player scores one point for every card they placed correctly. If you play alone, count how many of the 16 you placed correctly.; Last, count the cards that belong under Both.
 - **Printable cards: 16 feature cards: a feature on the front, the answer and the evidence on the back:** Has feathers (back: Both. Sinosauropteryx, found in China in 1996, had short feathers and could not fly.); Lays eggs with hard shells (back: Both. Fossil nests of theropod eggs have been found in Mongolia and China.); Sits on the eggs in a nest (back: Both. Fossils of Citipati were found sitting on nests with the arms spread over the eggs.); Has a wishbone (back: Both. Velociraptor and Tyrannosaurus had wishbones.); Has hollow bones (back: Both. Theropod bones were hollow, as a hen's leg bones are.); Walks on two legs, on the toes (back: Both. Theropod footprints show the toes only. The heel stayed off the ground.); Has three main toes pointing forward (back: Both. Theropod footprints in rock look like very large bird footprints.); Has scaly skin on the feet (back: Both. Skin prints of dinosaurs show scales, and a hen's feet are scaly.); Has teeth in the jaws (back: Only the old dinosaurs. No bird alive today has teeth. Some early birds did.); Has a long bony tail (back: Only the old dinosaurs. A bird's tail bones are few and joined into one short stump.); Has a beak with no teeth (back: Both. Citipati and their relatives had beaks with no teeth, long before today's birds.); Sings with a voice box at the bottom of the windpipe (back: Only birds, as far as we know. The oldest fossil of this voice box is from a bird of about 67 million years ago.); Sleeps with the head tucked under one arm or wing (back: Both. A small dinosaur named Mei long was found curled up in this pose.); Swallows small stones that help to grind food (back: Both. Polished stones have been found inside the fossils of some small feathered dinosaurs.); Can weigh more than an elephant (back: Only the old dinosaurs. The heaviest bird alive, the ostrich, weighs about as much as two grown people.); Is alive today (back: Only birds. Every other dinosaur died out about 66 million years ago.)
@@ -375,8 +375,8 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
   *Parent does:* Ask your child to read out the list. Ask which jobs of the beak had nothing to do with eating.  
   *Parent says:* Read me your list. Which jobs did the beak do that were not eating? What would you use for those jobs?  
   *Child mode:* Read your list. Which beak jobs were not eating?
-  - Ask: What did the beak do besides eating? (good: Cleaned the feathers.; Carried a twig.; Pecked at another bird.; Wiped itself on the rail.)
-  - Think: You have hands and teeth. Which of their jobs does a bird do with the beak?
+  - Ask: What did the beak do besides eating? (good: Cleaned the feathers.; Carried a twig.; Pecked at another bird.; Wiped the beak clean on the rail.)
+  - Think: You have hands and teeth. Which jobs of your hands and teeth does a bird do with her beak?
 ### a2 · The Sleeping Grip: how tendons close a hand or a foot (12 min)
 - **record:** Two small drawings of your hand: one with the wrist bent back and one with the wrist bent forward. Draw what the fingers did each time.
 - **s1 (2 min)**  
@@ -447,7 +447,7 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
   *Parent does:* Day 1. Your child draws eight cards: a mugger crocodile, Barapasaurus, Rajasaurus, Tyrannosaurus, Velociraptor, Archaeopteryx, a hen and a sparrow. On each card they write the name and when the animal lived.  
   *Parent says:* Draw one animal on each card. Barapasaurus was a long-necked plant-eater found in Telangana. Rajasaurus was a meat-eater found in Gujarat. Which of these eight do you think is the sparrow's closest relative? Why?  
   *Child mode:* Draw eight animal cards. Write each name. Guess the sparrow's closest relative.
-  - Note: When each lived: the crocodile and both birds are alive today. Barapasaurus lived about 185 million years ago. Rajasaurus and Tyrannosaurus lived about 67 million years ago. Velociraptor lived about 75 million years ago, and Archaeopteryx about 150 million years ago. Draw Velociraptor with feathers.
+  - Note: When each lived: the crocodile, the hen and the sparrow are alive today. Barapasaurus lived about 185 million years ago. Rajasaurus and Tyrannosaurus lived about 67 million years ago. Velociraptor lived about 75 million years ago, and Archaeopteryx about 150 million years ago. Draw Velociraptor with feathers.
 - **s2 (15 min)**  
   *Parent does:* Day 2. Tape the wool up the wall as one main line. Add the cards on short side branches, from the bottom: crocodile, Barapasaurus, Rajasaurus, Tyrannosaurus, Velociraptor, Archaeopteryx. Put the hen and the sparrow together at the top. Then stick six feature marks on the main line, using the note below.  
   *Parent says:* The main line leads to the birds. Each side branch is a relative who split off. A relative higher up is a closer cousin of the sparrow. Now we mark where each new feature first appears on the line.  
@@ -458,7 +458,7 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
   *Parent does:* Day 3. Your child shows the tree to the family and asks three questions. Which animal on the tree is a hen's closest cousin? Which animals on the tree are dinosaurs? Is a crocodile a closer relative of a lizard or of a sparrow? Your child writes down the guesses and then explains the tree.  
   *Parent says:* You are the guide today. Ask your three questions before you explain anything. Write down what each person guesses. Then show them the answers on the tree.  
   *Child mode:* Show your tree. Ask your three questions. Then explain the answers.
-  - Note: The answers: the sparrow is the hen's closest cousin on the tree, and Archaeopteryx is the next. Every card except the crocodile is a dinosaur, including the hen and the sparrow. A crocodile is a closer relative of a sparrow than of a lizard. Crocodiles and dinosaurs share an ancestor that lizards do not.
+  - Note: The answers: the sparrow is the hen's closest cousin on the tree, and Archaeopteryx is the next. Every card except the crocodile is a dinosaur, including the hen and the sparrow. A crocodile is a closer relative of a sparrow than of a lizard. Crocodiles and dinosaurs share a more recent ancestor than the one that they share with lizards.
   - Think: Where would you put yourself on a bigger tree that had room for every animal?
   - Wait: Do this the day after you build the tree
 
@@ -578,13 +578,13 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
    Options: A fossil dinosaur found on a nest / Dinosaurs were very large / Hens sit on eggs today / Dinosaur eggs were round  
    **Answer:** A fossil dinosaur found on a nest. *Why:* Fossils of Citipati show the animal sitting on the nest with the arms spread over the eggs. What hens do today is only a hint.
 5. (truefalse) A crocodile is a closer relative of a sparrow than of a lizard.  
-   **Answer:** True. *Why:* True. Crocodiles and dinosaurs, including birds, share an ancestor that lizards do not share.
+   **Answer:** True. *Why:* True. Crocodiles and dinosaurs, including birds, share a more recent ancestor than the one that they share with lizards.
 6. (truefalse) In a drought, each finch grows a deeper beak by cracking hard seeds.  
    **Answer:** False. *Why:* False. A finch's beak depth is set once the bird is grown. The drought changed which finches lived.
 7. (match) Match each nest to the problem it solves.  
    **Answer:** A woven nest hanging from a branch tip → Snakes cannot easily reach it; Speckled eggs in a scrape on stony ground → Hunters cannot easily see the eggs; A mud nest stuck under a bridge → Rain and climbing animals cannot reach it; A tree hole sealed up to a narrow slit → Nothing wider than a beak can get in. *Why:* Every nest answers a danger in the place where it is built. The same bird in another place would need another answer.
 8. (count) Force × distance from the hinge is always 24. What is the force 6 cm from the hinge?  
-   **Answer:** 4. *Why:* 24 divided by 6 is 4. At 2 centimetres the force would be 12. So the bite is three times weaker three times as far out.
+   **Answer:** 4. *Why:* 24 divided by 6 is 4. At 2 centimetres the force would be 12, which is three times more. So the bite at 6 centimetres is three times weaker, because that place is three times as far from the hinge.
 9. (count) About 1,200 finches lived on an island. About 180 lived through a drought. How many did not?  
    **Answer:** 1020. *Why:* 1,200 minus 180 is 1,020. More than 8 finches in every 10 died, so the few who lived shaped the next generation strongly.
 10. (fill) The V-shaped bone made of two joined collarbones is called the ____.  
@@ -643,7 +643,7 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
    **Answer:** Which finches lived and bred. *Why:* Natural selection changes the mix of individuals in a group. No finch's own beak grew deeper.
 
 ## Applications
-- Tool makers use the lever rule from beaks. Pliers for cutting thick wire have short jaws close to the hinge. Tweezers and long-nosed pliers have long jaws for reaching.
+- Tool makers use the same lever rule that beaks follow. Pliers for cutting thick wire have short jaws close to the hinge. Tweezers and long-nosed pliers have long jaws for reaching.
 - Scientists who rebuild dinosaurs look at living birds. A hen's bones, eggs and nesting help them work out how Velociraptor grew, bred and moved.
 - People who protect wetlands use rings and trackers on migrating birds. The routes show which marshes in India must be kept wet for birds from Siberia.
 - The villagers of Pangti in Nagaland once trapped Amur falcons. Since 2013 they have guarded the resting flocks, after local people such as the journalist Bano Haralu reported the trapping.

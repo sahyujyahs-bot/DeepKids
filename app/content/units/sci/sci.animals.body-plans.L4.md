@@ -49,7 +49,7 @@ A sea anemone is fixed to a rock. Her mouth is on top, in the middle, with a rin
 ### Bodies built in two halves: bilateral symmetry · *defined*
 **Definition:** Bilateral symmetry means that a body has one line down the middle, with a matching left side and right side.
 
-A two-sided body has three pairs of sides. The front end differs from the tail end. The back differs from the belly. Only the left and the right match. So there is exactly one line that cuts the body into matching halves. An animal with this plan moves front end first. The front end meets food, danger and new places before the rest of the body does. So the eyes, the feelers, the nose and the mouth are gathered there, with a brain close behind them. That gathered front end is a head. Worms, insects, spiders, crabs, snails, fish, frogs, birds and mammals all have this plan. Out of every hundred kinds of animals, about ninety-nine are two-sided. The matching is on the outside. Inside a human, the heart leans to the left and the liver lies on the right.
+A two-sided body has three pairs of opposite sides: front and tail, back and belly, and left and right. The front end differs from the tail end. The back differs from the belly. Only the left and the right match. So there is exactly one line that cuts the body into matching halves. An animal with this plan moves front end first. The front end meets food, danger and new places before the rest of the body does. So the eyes, the feelers, the nose and the mouth are gathered there, with a brain close behind them. That gathered front end is a head. Worms, insects, spiders, crabs, snails, fish, frogs, birds and mammals all have this plan. Out of every hundred kinds of animals, about ninety-nine are two-sided. The matching is on the outside. Inside a human, the heart leans to the left and the liver lies on the right.
 - e.g. A house gecko runs up the wall head first, with two matching legs on each side.
 - e.g. A dragonfly has two matching pairs of wings and two huge eyes at the front.
 - e.g. You have two eyes, two ears, two arms and two legs, and one nose on the middle line.
@@ -59,7 +59,7 @@ A two-sided body has three pairs of sides. The front end differs from the tail e
 An animal moves by pushing on the ground, the water or the air. Legs, fins and wings come in pairs, one on each side. If the left side pushed harder than the right, the animal would curve to the right. She would have to correct her path at every step. With matching sides the pushes are equal, and the path is straight. In the Lopsided Roller test you see this with a pencil and two balls of dough. The roller with equal balls goes nearly straight, and the roller with unequal balls curves. Top and bottom do not match in animals, because gravity pulls down and the ground is on one side only. Front and back do not match, because the animal goes one way. Left and right are the only pair that meet the same conditions. This is the usual explanation. It is hard to test on living animals, so scientists still argue about how two-sided bodies first arose.
 - e.g. A rowing boat with one oar goes round in a circle.
 - e.g. A fish has a matching fin on each side of her body.
-- e.g. Most birds shed the matching feathers of both wings at the same time, so the two wings stay equal.
+- e.g. Most birds drop the same feather from each wing at the same time, so the two wings stay equal.
 - **Gábor Holló and Mihály Novák, in a paper of 2012:** Matching sides let an animal travel straight and also turn quickly to either side. Two-sided bodies have lasted because they steer well.
 - **John Finnerty, in a paper of 2005:** Two sides may first have helped the inside of the body, by giving food and water a clear path through. Easy travel may have come later.
 ### A starfish starts with two sides and becomes a star · *defined*
@@ -68,7 +68,7 @@ An animal moves by pushing on the ground, the water or the air. Legs, fins and w
 An adult starfish has five arms round a middle, with the mouth underneath. She has no head that anyone can see, and any arm can lead when she walks. So a starfish looks like a ring animal. But a starfish egg hatches into a tiny, clear larva who swims in the open sea. The larva has a front end and two matching sides. After some weeks a small five-part star grows inside the larva. The star settles on the sea floor, and the rest of the larva's body shrinks away. Sea urchins grow up the same way. This tells us that the ancestors of starfish were two-sided animals, and the star shape came later. The ring of a starfish and the ring of a jellyfish arose separately. Starfish are closer relatives of fish and humans than of jellyfish. So the same shape does not prove that two animals are close relatives. Scientists also compare the young, and they compare the genes.
 - e.g. A starfish larva is smaller than a grain of rice and swims with tiny beating hairs.
 - e.g. A sea urchin's round shell has five matching parts, and her larva has two matching sides.
-- e.g. A dolphin and a shark have the same shape. A dolphin is a mammal, and a shark is a fish.
+- e.g. A dolphin and a shark have a similar shape. A dolphin is a mammal and a shark is a fish, so the shape does not make them close relatives.
 ### Bodies built in segments · *defined*
 **Definition:** A segment is one of a row of repeated parts along a body, each built on the same pattern.
 
@@ -128,7 +128,7 @@ Rocks about 540 million years old hold the first clear fossils of most animal gr
   For: Most animals look matched from the outside.  
   Against: A flatfish begins life matched. Then one eye moves across the head, and the adult lies on one side. A male fiddler crab has one huge claw. Inside a human, the heart, stomach and liver are not matched.
 - **All animals share one body plan. An insect is laid out like an animal with a backbone, turned upside down.** (Étienne Geoffroy Saint-Hilaire, who argued this against Cuvier in Paris in 1830.; *debated*)  
-  For: In the 1990s scientists found that the same genes mark belly and back in flies and in frogs. In frogs they work the other way up.  
+  For: In the 1990s scientists found that the same genes mark the belly and the back in flies and in frogs. The genes sit on opposite sides in the two animals, as if one of them were turned upside down.  
   Against: Cuvier pointed to real differences. An insect's skeleton is on the outside, and the main nerve cord runs along the belly. Most scientists say the plans are related but are not one plan.
 - **All the animal body plans appeared suddenly, about 540 million years ago.** (A common reading of the Cambrian fossils.; *debated*)  
   For: Most animal groups first show up as clear fossils in rocks of about that age.  
@@ -148,12 +148,12 @@ In this unit you rolled a lopsided roller, tilted dough shells and found four ti
 - *what is life:* Life builds millions of different bodies from a few layouts and four kinds of tissue. Each layout fits one way of meeting the world.
 - *what is this world:* Gravity, water and the direction of travel leave their mark on every body. You can read part of an animal's world from the animal's shape.
 
-The first animals were small groups of cells. Their descendants became rings, two-sided swimmers, coiled snails and long rows of segments. Under these different layouts, the same family of genes still marks head from tail in flies, mice and children. Many sages taught that one life takes many forms. The science here says something close and exact. Every animal body plan grew from one beginning, and the shared genes still show it.
+The first animals were small groups of cells. Their descendants became rings, two-sided swimmers, coiled snails and long rows of segments. Under these different layouts, the same family of genes still marks head from tail in flies, mice and children. Many wise teachers taught that one life takes many forms. The science here makes a similar point in a precise way. Every animal body plan grew from one beginning, and the shared genes still show it.
 
 - **Chandogya Upanishad 6.1.4:** Uddalaka tells his son that by knowing one lump of clay, you know everything made of clay. The pot and the plate differ in name and shape, and the clay is the same. (The verse is about the ground of all things, and it does not mention animals. A prawn's body shows the same idea in a small way. Her feelers, jaws and legs are one repeated part, shaped differently on each segment.)
 - **D'Arcy Wentworth Thompson, On Growth and Form (1917), chapter 1:** Thompson wrote that the form of any object, living or not, is a 'diagram of forces'. He meant that a shape shows the pushes and pulls that made it. (The Lopsided Roller test and Tall Cone or Coil both show a shape answering a force. Matching sides answer the need for equal pushes. A low coil answers the pull of gravity on a tall shell.)
 - Science (settled): The same family of Hox genes marks out head to tail in flies, mice and humans. This is strong evidence that these very different bodies come from one ancestor.
-- Science (debated): A study of starfish genes in 2023 suggested that a starfish's body is mostly a head, with almost no trunk. Scientists are still testing this.
+- Science (debated): A study of starfish genes in 2023 suggested that most of a starfish's body is built like a head, with almost no trunk. Scientists are still testing this.
 - Other view, Stephen Jay Gould and Richard Lewontin, in a paper of 1979: They warned against explaining every feature of a body by its usefulness. Some features are left over from ancestors, and some are side effects of how a body grows. On this view a starfish's five arms may have no special reason. We should not read a purpose into every shape.
 - Practice, Find your middle line (3 min): Stand still and close your eyes. Put one finger on the top of your head. Draw it slowly down your forehead, your nose, your chin and your chest to your navel. That is your middle line. Now lift both arms and feel that they weigh the same. Take one slow breath in and out. Then turn once round on the spot, slowly. Notice that you must turn to face each wall. A sea anemone never needs to turn.
 - Ask: Your face is at your front because your ancestors travelled head first. Where might your eyes be if humans had always lived fixed in one spot?
@@ -165,7 +165,7 @@ The first animals were small groups of cells. Their descendants became rings, tw
 - *deep:* Your left and right sides match on the outside but not on the inside. Which is your real plan? (hint: Your two arms match, and yet your heart leans to the left.)
 - *big:* If animals lived where there was no up or down, what body plans might they have? (hint: On Earth, gravity makes the top differ from the bottom in almost every animal.)
 - *deep:* Is a body plan a real thing in nature, or a way that people sort animals? (hint: Cuvier's group of ring animals looked right for thirty years. Then starfish larvae showed that it was two groups.)
-- *big:* Cars, boats and planes have matching sides. Did people copy animals, or did they meet the same problem? (hint: In the Lopsided Roller test, the roller with unequal balls curved to one side on every roll.)
+- *big:* Cars, boats and planes have matching sides. Did people copy animals, or did they meet the same problem? (hint: In the Lopsided Roller test, the roller with unequal balls curved on every roll. Think about what would happen to a car with a stronger wheel on one side.)
 - *deep:* Each of your cells is alive. So are you one living being, or trillions living together? (hint: H. V. Wilson's sponge cells lived apart in a dish, and then rebuilt a sponge.)
 
 ## Story: The Boat with No Front
@@ -221,7 +221,7 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 
 "It does not need to know," said Ponni. "I know. And wherever I kneel, that is the front."
 
-**For the parent:** A long boat has one front. It goes fast and straight, but it needs room to turn. A round boat is the same on every side, so any part of the rim can lead. Animal bodies follow the same two plans. A fish is built to go one way, head first. A sea anemone or a jellyfish is the same all the way round. She is ready on every side at once.
+**For the parent:** A long boat has one front. It goes fast and straight, but it needs room to turn. A round boat is the same on every side, so any part of the rim can lead. Animal bodies are built in the same two ways. A fish is built to go one way, head first. A sea anemone or a jellyfish is the same all the way round. She is ready on every side at once.
 
 - Ask: Why could the round boat leave the narrow channel without turning round?
 - Ask: Which animals are built like the long boat, and which like the round boat?
@@ -469,7 +469,7 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 
 ## Challenges
 ### c1 · Many Threads, One Lift: build a model tendon from sewing thread (20 min)
-- **problem:** A tendon ties a muscle to a bone. It is a tissue made of thousands of thin fibres lying side by side. One fibre alone is weak. Your problem is the same. One sewing thread snaps when it lifts a bag that weighs 2 kilograms. Lift the bag with thread alone, using as few threads as you can.
+- **problem:** A tendon ties a muscle to a bone. It is a tissue made of thousands of thin fibres lying side by side. One fibre alone is weak. Your problem is similar, because one sewing thread alone is weak too. It snaps when it lifts a bag that weighs 2 kilograms. Lift the bag with thread alone, using as few threads as you can.
 - **your turn:** Now design your own. Find the smallest number of threads that holds the bag for 10 seconds. Draw how you arranged them. Then test one change, such as twisting, and write whether you needed fewer threads.
 - **constraints:** Use ordinary sewing thread only. No string, wool or tape.; Each thread is 30 centimetres long before you tie it.; The bag must hang 2 centimetres above the floor for 10 seconds.; Use at most 10 threads.; Lift slowly. Do not jerk the bag.
 - **general:** Tie several threads side by side between the rolling pin and the bag's handles.; Make every thread the same length, so that each one takes a share of the weight.; Spread the threads along the rolling pin so that they do not rub on each other.
@@ -500,7 +500,7 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 1. (mcq) What is a body plan?  
    Options: The basic layout of an animal's body / A list of what an animal eats / The place where an animal lives / The colour of an animal's skin  
    **Answer:** The basic layout of an animal's body. *Why:* A body plan says which parts a body has and how they are arranged. Two animals with very different colours and homes can share one body plan.
-2. (mcq) Which animal has a body built in rings round a middle point?  
+2. (mcq) Which animal has matching parts arranged all the way round a middle point?  
    Options: A sea anemone / A crow / An earthworm / A house gecko  
    **Answer:** A sea anemone. *Why:* A sea anemone has a ring of tentacles round one mouth. A crow, an earthworm and a gecko each have a head end and two matching sides.
 3. (fill) An animal with one head end and matching left and right sides has ____ symmetry.  
@@ -667,7 +667,7 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 - **Why do almost all snails coil to the right?** Scientists have found a gene that sets the direction of the coil in pond snails. They do not know why the right-handed form became so common in nearly every kind of snail.
 - **What did the first two-sided animal look like?** The animal lived more than 550 million years ago and was small and soft. Very few fossils of such animals exist, so scientists argue from genes and from a handful of traces in rock.
 - **Which animals are the oldest branch of the animal family tree, sponges or comb jellies?** Comb jellies have nerves and muscles, and sponges have neither. A gene study in 2023 put comb jellies on the oldest branch, and other studies put sponges there. The answer changes how we think nerves began.
-- **Is a starfish mostly a head?** A gene study in 2023 found head genes at work along every arm of a young starfish. Scientists are still checking this in other kinds of starfish and in sea urchins.
+- **Is most of a starfish's body really built like a head?** A gene study in 2023 found head genes at work along every arm of a young starfish. Scientists are still checking this in other kinds of starfish and in sea urchins.
 
 ## Questions to ask kids
 - Which end of this ant is the front? How can you tell?

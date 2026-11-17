@@ -185,7 +185,7 @@
   {
    "concept": "Waiting for more: self-control in people and other animals",
    "status": "defined",
-   "description": "Scientists have tested waiting in many animals. In 2014, Friederike Hillemann and her team found crows and ravens waited longer for a food they liked better. In 2021, Alexandra Schnell and her team tested cuttlefish. A cuttlefish waited for a favourite food for up to about one to two minutes, instead of taking a plain one at once. The cuttlefish who waited longer also learned faster in a second test. To choose to wait, an animal has to expect that something better is coming. In 2013, Celeste Kidd and her team showed children waited much less when the grown-up had broken a promise before. Waiting depends on trust as well as on willpower.",
+   "description": "Scientists have tested waiting in many animals. In 2014, Friederike Hillemann and her team found crows and ravens waited longer for a food they liked better. In 2021, Alexandra Schnell and her team tested cuttlefish. A cuttlefish was offered a plain piece of food at once, or a favourite food if she waited. She waited for the favourite food for about one to two minutes. The cuttlefish who waited longer also learned faster in a second test. To choose to wait, an animal has to expect that something better is coming. In 2013, Celeste Kidd and her team showed children waited much less when the grown-up had broken a promise before. Waiting depends on trust as well as on willpower.",
    "examples": [
     "A cuttlefish waits for live shrimp instead of eating a piece of prawn.",
     "A crow waits for a better nut.",
@@ -229,7 +229,7 @@
    "perspectives": [
     {
      "who": "Vera Vasas and Lars Chittka",
-     "explanation": "Even a tiny circuit can estimate a number if the bee scans a scene in a smart order. A small brain can use smart methods."
+     "explanation": "Even a tiny circuit can estimate a number if the bee scans a scene in a smart order. So a small brain can do a lot if it uses a clever way of looking."
     },
     {
      "who": "Cautious scientists",
@@ -263,9 +263,9 @@
    "status": "defined",
    "description": "In 1894, C. Lloyd Morgan wrote that we should not explain an animal's act as a high mental skill if a simpler skill explains it. That rule is called Morgan's canon. It guards against the mistake of seeing a mind that the evidence does not show. In 1999, the primatologist Frans de Waal added a warning. He named the opposite mistake anthropodenial, which means refusing to see a mind that the evidence does show. Both mistakes are easy to make. The fair way is to run controls, repeat the test, use a helper who does not know the answer (a blind helper), and then follow the evidence. In this unit, each result is labelled by what the test really showed.",
    "examples": [
-    "A dog follows her owner's eyes and not her words, so the test hides the eyes.",
+    "A dog may be following her owner's eyes and not her words, so the test hides the owner's eyes.",
     "A scientist asks a helper who does not know the answer to run the trial.",
-    "A crow's trick is tested again with the food hidden from sight."
+    "A crow seems to use a trick to find food, so scientists test her again with the food hidden from sight."
    ],
    "art": "A scientist with a clipboard behind a one-way screen while a crow chooses between two cups, and a second scientist unaware of which cup holds the food.",
    "perspectives": [],
@@ -305,7 +305,7 @@
    "claim": "A bigger brain always means a smarter animal.",
    "who": "A common idea.",
    "for": "Humans have large brains, and so do dolphins and elephants.",
-   "against": "A crow's small brain packs many neurons. A bee's tiny brain does number tasks. Wiring and the way an animal lives matter, not only size.",
+   "against": "A crow's brain is small, but a great many neurons are packed close together inside. A bee's tiny brain can do number tasks. How a brain is wired, and how the animal lives, matter as well as size.",
    "status": "rejected"
   },
   {
@@ -386,7 +386,7 @@
    "Ammachi laughed so hard that her lantern shook. 'The bees knew that,' she said. 'Come in. They are all home already, every one of them, safe in their boxes.'",
    "That night, while Vishnu dried his hair, Anju sat at the window and listened to the hum from the boxes. She thought of the storm, and the black palms, and of what had stayed the same while everything else changed. The colour of the light was gone. The gate was gone. The path was mud. But the palms were still five, and the turn was still after the fifth."
   ],
-  "epiphany": "When looks change, the count can stay the same. A glance is quick and works for a few things, but for more things you have to count.",
+  "epiphany": "When the way things look changes, the number of things can stay the same. A glance is quick and works for only a few things, so for more things you have to count them.",
   "ask": [
    "When is counting a better guide than looking?",
    "Why might it be easy to know three things at a glance, and hard to know eight?",
@@ -411,17 +411,17 @@
    "what_is_life": "Living beings need to know how much food, how many steps and how long to wait, so a feeling for number is part of staying alive.",
    "what_is_this_world": "The world is full of groups that can be more or fewer, and minds of very different kinds notice that."
   },
-  "thread": "Numbers start with none. Then comes one, then two, three and many. A bee who picks the blank card over a card with dots has dealt with none. A chick who picks five over two has dealt with many. Old teachings speak of the One becoming the many, and counting is one way a mind follows that step. The number words came later, and they make the feeling exact.",
+  "thread": "Numbers begin with none. Then comes one, then two, then three, and then many. A bee who picks the blank card over a card with dots is treating none as less than one. A chick who picks five balls over two is telling a small group from a bigger one. Some old teachings say that everything began as one thing and then became many things. Counting follows a similar path, because it starts at one and goes on to many. Number words came later, and they make the feeling for 'how many' exact.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.2.1 to 6.2.3",
     "teaching": "As paraphrased: in the beginning there was only Being, one without a second. Being thought, 'Let me become many.'",
-    "link": "Counting starts with one and moves to many. Your sense of number is how your mind notices that step."
+    "link": "This teaching describes one thing becoming many things. Counting does something similar, because it starts at one and goes on to many. Your sense of number is how your mind notices that there are now more things than before."
    },
    {
     "source": "Tao Te Ching 42",
     "teaching": "As paraphrased: the Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things.",
-    "link": "The first numbers come in a line, one after another. That is how a bee passes the stripes in the tunnel, and how Anju touched the palms in the story The Fifth Palm."
+    "link": "This teaching names the first numbers in a line, one after another. A bee passes the stripes in a tunnel in the same order, and so did Anju when she touched the palms in the story The Fifth Palm."
    },
    {
     "source": "Brahmasphutasiddhanta, Brahmagupta, 628 CE",
@@ -762,7 +762,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Practise with one spare card. Hold it face down under the sheet. Lift the sheet, say 'one', and lay it back. Your child says the number. Practise twice.",
-     "say": "Watch the sheet. When I lift it, I will say one. Then I cover the card again. Say the number you saw. Do not count with your fingers.",
+     "say": "Watch the sheet. I will lift it and say the word 'one', and that is how long you get to look. Then I cover the card again. Tell me how many dots you saw. Do not count with your fingers.",
      "kid": "Watch the card for one second. Say the number. Do not count.",
      "context": "In this step, you practise the flash, so the real test is fair.",
      "parent": "One second is very quick. Say 'one' at the speed of a normal word. If the card is visible for longer than that, the test is not fair."
@@ -1308,7 +1308,7 @@
      "say": "Now walk home with the same number of steps. Make each step a giant stride. Look straight ahead and stop when you have counted them all.",
      "kid": "Walk home with the same number of giant steps.",
      "context": "In this step, you walk back with giant steps, like an ant on stilts.",
-     "parent": "Cover the start line with a sheet of paper after the first walk, so your child cannot see it. Use a dry, clear floor with no loose rugs, and no running. With a second child as the helper, one walks while the other marks the stopping spot and measures; then swap. Measure the distance past the start line and write it in the table (walk, steps, distance from the start line). Measure one giant step and one normal step too. Stilts made the ants overshoot in the same way."
+     "parent": "Cover the start line with a sheet of paper after the first walk, so your child cannot see it. Use a dry, clear floor with no loose rugs, and no running. With a second child as the helper, one walks while the other marks the stopping spot and measures; then swap. Measure the distance past the start line and write it in the table (walk, steps, distance from the start line). Measure one giant step and one normal step too. In the real test, ants on stilts also overshot their nest, just as your child does with giant steps."
     },
     {
      "id": "s4",
@@ -1322,12 +1322,12 @@
        "q": "What does this tell you about how the ants know the distance home?",
        "good": [
         "They count their steps, but not how long each one is.",
-        "Their steps tell them the way.",
+        "Their count of steps tells them how far they have come.",
         "They do not measure distance by looking."
        ]
       }
      ],
-     "parent": "The control shows how far off normal steps already are, so you can see that the misses with giant and tiny steps are bigger than chance. In 2006, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf glued pig bristles to some desert ants' legs as stilts, and cut others shorter as stumps. Ants on stilts overshot the nest and ants on stumps stopped short. The ants counted their steps and could not tell the steps were different. A real ant also looks at the sun, so your result is a model of the idea, not the same test."
+     "parent": "The control shows how far off normal steps already are, so you can see that the misses with giant and tiny steps are bigger than chance. In 2006, Matthias Wittlinger, Rüdiger Wehner and Harald Wolf glued pig bristles to some desert ants' legs as stilts, and cut others shorter as stumps. Ants on stilts overshot the nest and ants on stumps stopped short. The ants counted their steps, but they could not tell that each step was now longer or shorter. A real ant also looks at the sun, so your result is a model of the idea, not the same test."
     }
    ]
   },
@@ -1841,7 +1841,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Two piles have a ratio of 1 to 2. Which pair is it?",
+     "p": "Two piles have a ratio of 1 to 2. Which pair of numbers is that?",
      "opts": [
       "10 and 20",
       "10 and 12",
@@ -2428,7 +2428,7 @@
    "art": "A crow on a balcony rail between a large and a small piece of roti."
   },
   {
-   "text": "Ants walking in a line to a sugar crumb, and a different number of ants taking each crumb home.",
+   "text": "Ants walking in a line to a sugar crumb, with a different number of ants carrying each crumb home.",
    "art": "A trail of ants approaching a sugar crumb on a kitchen floor."
   },
   {
@@ -2786,5 +2786,5 @@
   "wrong_idea": "Counting needs number words, so animals cannot sense number. Koehler's birds picked the right number with no words, and later bees, ants and a parrot did too."
  },
  "playtest": "Checked as a parent and child in a city flat would use it, not yet tried at home. Dot Flash needs 11 hand-drawn cards, one second each. The flash is hard to time by hand, so the parent says 'one' while the card is open. If a child gets every card right, use cards with 12 and 15 dots. Which Pile Is Bigger needs 90 dried chickpeas or rajma, counted in rows of six, and about 37 minutes with 24 tries. Beans in a bigger pile also look more crowded, so this cannot prove number sense alone. Keep beans away from children under five. The Waiting Test runs over three days. Check for food allergies, always keep the promise of two raisins, and do not use the result to judge a child. Wait or Take has 20 cards and 30 paper seeds, and needs a bowl of dry beans or rice grains to top up the bank. It is playable alone, with a parent or with friends. A deck of 10 has exactly 8 cards of one kind and 2 of the other. Print the Meadow and Riverbank cards on different colours of paper if you can. Stilt Steps needs a dry passage of 4 metres. Crow's Choice depends on a bird or squirrel visiting, and is not in the core path. Still to settle: the three videos are still to be found, and every activity needs a real try at home. The exact figures for the Pirahã number words are argued over by linguists, so the unit does not give them.",
- "warm": {"words": ["COUNT", "GROUP", "PLANS", "STORE", "RATIO"], "quiz": [["An animal needs number words to tell which of two groups has more.", false, "Chicks, fish and bees tell more from less with no number words."], ["It is easier to tell 8 from 16 than to tell 8 from 9.", true, "Groups are easier to tell apart when one is many times bigger; the ratio matters."], ["A bee that passes a number test must understand numbers like a person.", false, "A simpler rule may explain the result, so scientists test other rules first."], ["People can usually tell three things at one glance without counting.", true, "We see about one to four things at a glance, but bigger groups need counting."], ["8 and 9 are as easy to tell apart as 1 and 2, because both differ by one.", false, "Telling groups apart depends on the ratio, and 8 to 9 is a very close ratio."], ["A bird who hides food where she went hungry before may be planning ahead.", true, "Scrub-jays hid food in the room where they had been hungry, not where breakfast always came."], ["Animals with bigger brains are always better at number tasks.", false, "Bees have about a million neurons yet count stripes; wiring matters, not only size."], ["A child may stop waiting for a treat if grown-ups have broken promises before.", true, "Waiting depends on what you expect, so not trusting a promise can be a sensible choice."], ["The child who waits longest for a marshmallow will surely grow up most successful.", false, "A bigger, more varied study found the link much smaller than first thought."], ["A desert ant can find the way home by keeping track of her steps.", true, "She counts steps like a pedometer, so she needs no number words to do it."]], "odd": [[["Chick picks the bigger pile", "Bee stops at the third stripe", "Fish joins the larger shoal", "Parrot saying 'five'"], "Parrot saying 'five'", "The others tell numbers apart with no number words, but the parrot uses a spoken number word."], [["2 and 4", "5 and 10", "10 and 20", "9 and 10"], "9 and 10", "The other pairs have a ratio of 1 to 2, which is easy; 9 and 10 are very close."], [["Seeing 3 dots", "Seeing 2 dots", "Seeing 4 dots", "Counting 17 dots"], "Counting 17 dots", "The others are small numbers known at a glance; 17 dots need counting one by one."], [["Waiting for two treats", "Skipping a snack for a feast", "Saving pocket money for a toy", "Eating the treat at once"], "Eating the treat at once", "The others hold back a small reward now for a bigger one later; this does not."], [["Hiding the answer from the tester", "Trying many animals", "Moving the piles around", "Tester nodding at the right pile"], "Tester nodding at the right pile", "The others stop tricks and habits from explaining the result; a nod gives away the answer."]]}
+ "warm": {"words": ["COUNT", "GROUP", "PLANS", "STORE", "RATIO"], "quiz": [["An animal needs number words to tell which of two groups has more.", false, "Chicks, fish and bees tell more from less with no number words."], ["It is easier to tell 8 from 16 than to tell 8 from 9.", true, "Groups are easier to tell apart when one is many times bigger. The ratio matters."], ["A bee that passes a number test must understand numbers like a person.", false, "A simpler rule may explain the result, so scientists test other rules first."], ["People can usually tell three things at one glance without counting.", true, "We see about one to four things at a glance, but bigger groups need counting."], ["8 and 9 are as easy to tell apart as 1 and 2, because both differ by one.", false, "Telling groups apart depends on the ratio, and 8 to 9 is a very close ratio."], ["A bird who hides food where she went hungry before may be planning ahead.", true, "Scrub-jays hid food in the room where they had been hungry, not where breakfast always came."], ["Animals with bigger brains are always better at number tasks.", false, "Bees have about a million neurons yet count stripes. How a brain is wired matters, not only its size."], ["A child may stop waiting for a treat if grown-ups have broken promises before.", true, "Waiting depends on what you expect, so not trusting a promise can be a sensible choice."], ["The child who waits longest for a marshmallow will surely grow up most successful.", false, "A bigger, more varied study found the link much smaller than first thought."], ["A desert ant can find the way home by keeping track of her steps.", true, "She counts steps like a pedometer, so she needs no number words to do it."]], "odd": [[["Chick picks the bigger pile", "Bee stops at the third stripe", "Fish joins the larger shoal", "Parrot saying 'five'"], "Parrot saying 'five'", "The others tell numbers apart with no number words, but the parrot uses a spoken number word."], [["2 and 4", "5 and 10", "10 and 20", "9 and 10"], "9 and 10", "The other pairs have a ratio of 1 to 2, which is easy. 9 and 10 are very close."], [["Seeing 3 dots", "Seeing 2 dots", "Seeing 4 dots", "Counting 17 dots"], "Counting 17 dots", "The others are small numbers known at a glance. 17 dots need counting one by one."], [["Waiting for two treats", "Skipping a snack for a feast", "Saving pocket money for a toy", "Eating the treat at once"], "Eating the treat at once", "The others hold back a small reward now for a bigger one later. Eating the treat at once does not."], [["Hiding the answer from the tester", "Trying many animals", "Moving the piles around", "Tester nodding at the right pile"], "Tester nodding at the right pile", "The others stop tricks and habits from explaining the result. A nod gives away the answer."]]}
 }

@@ -3,7 +3,7 @@
  "title": "Ant and bee colonies, and how insects pollinate flowers and recycle waste",
  "level": 4,
  "summary": {
-  "text": "A mango tree opens thousands of tiny flowers. No flower becomes a mango unless pollen is carried to that flower. Insects do most of that carrying. Ants and honeybees live in colonies, which are large families with one mother. The workers collect food for the young. While they collect food, bees and flies pollinate flowers. Ants, flies, beetles and termites clear away dead things and waste. Your child tests whether a hairy carrier or a smooth carrier moves more haldi 'pollen' from box to box. They also time how fast ants clear 20 crumbs from the floor.",
+  "text": "A mango tree opens thousands of tiny flowers. No flower becomes a mango unless pollen is carried to that flower. Insects do most of that carrying. Ants and honeybees live in colonies, which are large families with one mother. The workers collect food for the young. While honeybee workers collect that food from flowers, they pollinate the flowers. Flies pollinate flowers too. Ants, flies, beetles and termites clear away dead things and waste. Your child tests whether a hairy carrier or a smooth carrier moves more haldi 'pollen' from box to box. They also time how fast ants clear 20 crumbs from the floor.",
   "art": "A bunch of tiny pale mango flowers with a honeybee and a shiny green fly on it, and below the tree a line of ants carrying a dead moth."
  },
  "intro": {
@@ -229,7 +229,7 @@
    "concept": "One insect can do two jobs",
    "status": "defined",
    "definition": "Many insects have a young stage and an adult stage that eat different foods. So the same insect can be a recycler when young and a pollinator when grown.",
-   "description": "A green blowfly lays her eggs on a dead fish or a dead rat. Her maggots eat it and grow fast. In warm weather they turn into flies in about two weeks. The adult fly does not eat dead animals in the same way. She drinks sweet liquids, and flower nectar is one of them. Her body is covered in bristles, and pollen sticks to them. In a mango orchard she is one of the main pollinators. Hoverflies are striped like bees. The larvae of many hoverflies live in dirty water and rotting plants and feed there. The adults hover at flowers and carry pollen. The same is true of many beetles. A heap of rotting kitchen waste and a tree full of flowers can both belong to one insect's life. People call the fly a pest in the kitchen, because she can carry germs to food. In the orchard she is doing work that the tree needs.",
+   "description": "A green blowfly lays her eggs on a dead fish or a dead rat. Her maggots eat it and grow fast. In warm weather they turn into flies in about two weeks. The adult fly feeds in a different way. She drinks sweet liquids, and flower nectar is one of them. Her body is covered in bristles, and pollen sticks to them. In a mango orchard she is one of the main pollinators. Hoverflies are striped like bees. The larvae of many hoverflies live in dirty water and rotting plants and feed there. The adults hover at flowers and carry pollen. The same is true of many beetles. A heap of rotting kitchen waste and a tree full of flowers can both belong to one insect's life. People call the fly a pest in the kitchen, because she can carry germs to food. In the orchard she is doing work that the tree needs.",
    "examples": [
     "A shiny green fly with yellow pollen on her bristles, walking over mango flowers.",
     "White maggots clearing a dead fish on a rubbish heap in two or three days.",
@@ -386,7 +386,7 @@
   {
    "q": "A fly's young eat a rotting fish, and the grown fly pollinates mango flowers. Is she a pest or a helper?",
    "kind": "deep",
-   "hint": "Ask who is giving the name, and where they are standing when they give it."
+   "hint": "Think about who is giving the name. A cook in a kitchen and a farmer in an orchard see the same fly very differently."
   },
   {
    "q": "People call an insect a pest when she eats our crop. What might she call us?",
@@ -640,7 +640,7 @@
        "A termite worker"
       ],
       "a": 0,
-      "why": "A blowfly's maggots eat dead animals, and the adult fly drinks nectar and carries pollen. A queen ant lays eggs. A termite worker eats dead wood all her life or all his life."
+      "why": "A blowfly's maggots eat dead animals, and the adult fly drinks nectar and carries pollen. A queen ant lays eggs. A termite worker eats dead wood all through their life."
      },
      "context": "This is the last step of Whose Work Is This. You sort the job cards by kind of work and compare the piles."
     }
@@ -1671,7 +1671,7 @@
    "id": "c1",
    "title": "The Buzz Flower: get the pollen out of a closed tube",
    "mins": 20,
-   "problem": "A brinjal flower keeps its pollen inside closed tubes with one small hole at the tip. A honeybee cannot get the pollen out. A carpenter bee shakes the pollen out by buzzing. Your problem is the same. A paper tube holds haldi and has one small hole. Get out as much haldi as you can in 10 seconds.",
+   "problem": "A brinjal flower keeps its pollen inside closed tubes with one small hole at the tip. A honeybee cannot get the pollen out. A carpenter bee shakes the pollen out by buzzing. Your problem is like hers. A paper tube holds haldi and has one small hole. Get out as much haldi as you can in 10 seconds.",
    "constraints": [
     "Do not squeeze, tear or open the tube.",
     "Do not make the hole bigger.",
@@ -3061,7 +3061,7 @@
    "what_is_life": "Living beings feed on each other and pass material on. A dead moth becomes young ants, and a fallen leaf becomes soil for a new plant.",
    "what_is_this_world": "Pollinating and recycling go on around you every day. Nobody orders this work and nobody pays for it, and all our food depends on it."
   },
-  "thread": "A flower cannot walk to another flower, and a bee cannot make sugar from sunlight. Each has what the other lacks. Flowers and insects have lived together for more than 100 million years, and each has shaped the other's body. Many sages taught that all beings are one life in many forms. The science of this unit shows something close to that. A mango is made by a tree, a fly and the recyclers in the soil together.",
+  "thread": "A flower cannot walk to another flower, and a bee cannot make sugar from sunlight. Each has what the other lacks. Flowers and insects have lived together for more than 100 million years, and each has shaped the other's body. Many wise teachers taught that all beings share one life in many forms. This unit shows a similar idea in a practical way. A mango is made by a tree, a fly and the recyclers in the soil, all working together.",
   "teachings": [
    {
     "source": "Brihadaranyaka Upanishad 2.5.1",
