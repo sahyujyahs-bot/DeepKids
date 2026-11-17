@@ -185,7 +185,7 @@
    "description": "Sea otters were hunted for their fur until very few were left. In 1974, James Estes and John Palmisano compared islands in Alaska. Around the islands with otters, tall seaweed called kelp grew thick, and fish lived among the kelp. Around the islands without otters, big sea urchins covered the rock and had eaten the kelp down. The change had passed down three steps, from otter to urchin to kelp. A keystone species does not have to be a predator. Fig trees fruit when few other trees do, so many birds and monkeys depend on them. Elephants open paths and spread seeds. What marks a keystone is how much changes when they go.",
    "examples": [
     "Robert Paine removed one kind of starfish from a rocky shore. Mussels took over, and the kinds of animals there fell from 15 to 8.",
-    "When most of India's vultures died, dead cattle were left for stray dogs, and the number of dogs grew.",
+    "When most of India's vultures died, stray dogs are thought to have grown in number.",
     "A fig tree in fruit in a dry month feeds barbets, mynas, hornbills, langurs and bats."
    ],
    "perspectives": [],
@@ -224,7 +224,7 @@
    "description": "A female Indian bullfrog lays thousands of eggs in one season. If all of them lived, ponds would overflow with frogs within a few years. They do not. So nearly all the eggs and tadpoles must be dying, most of them as food for fish, birds and snakes. An animal who is eaten often needs many young, so that two are still left. An animal who is seldom eaten, such as a tiger or an elephant, has few young. The mother looks after each one for years. So the number of young shows how dangerous life is for the young of that animal. It also shows how much of the web that animal feeds.",
    "examples": [
     "A female rat can have 6 to 8 young at a time, several times a year. A tigress has 2 to 4 cubs every two or three years.",
-    "An elephant has one calf about every four or five years, and the herd guards the calf.",
+    "An elephant has one calf every few years, and the herd guards the calf.",
     "In Two Out of Thousands, you coloured 2 squares for the frogs who live, out of 4,000 eggs."
    ],
    "perspectives": [],
@@ -314,7 +314,7 @@
   },
   {
    "text": "Removing one kind of living being can change the numbers of many others, including beings they never eat.",
-   "evidence": "Robert Paine removed starfish from a shore from 1963 and counted the animals for years. James Estes and John Palmisano compared islands with and without sea otters in 1974."
+   "evidence": "Robert Paine removed starfish from a shore from the early 1960s and counted the animals for years. James Estes and John Palmisano compared islands with and without sea otters in 1974."
   },
   {
    "text": "A population stays steady only when births and deaths roughly match.",
@@ -482,7 +482,7 @@
       },
       {
        "f": "Vultures and stray dogs both eat dead cattle. A cattle medicine kills most of the vultures. What happens to the dead cattle left lying? What happens to the dogs?",
-       "b": "Dead cattle left lying: more. Dogs: more. This happened in India from the 1990s."
+       "b": "Dead cattle left lying: more. Dogs: probably more. This happened in India from the 1990s."
       },
       {
        "f": "Bamboo fruit → rat. Rice → rat. All the bamboo fruits at once. What happens to the rats? When the fruit is finished, what happens to the rice?",
@@ -3091,7 +3091,7 @@
   "Before bringing back a lost animal or moving one to a new place, wildlife scientists map the food web to see who will be affected.",
   "Rice farmers in many Asian countries now spray less insect poison, so that spiders and other hunters of crop pests stay alive.",
   "Fishery scientists set limits on catches, because taking too many of one kind of fish changes the numbers of the others in the web.",
-  "Doctors and health workers use the same thinking for diseases. When India's vultures were lost, stray dogs increased, and dog bites became a greater danger.",
+  "Doctors and health workers use the same thinking for diseases. When India's vultures were lost, stray dogs are thought to have increased, and so did the danger of dog bites.",
   "Park managers count animals every few years. A steady count tells them that births and deaths are roughly matching."
  ],
  "spotted": [
@@ -3594,9 +3594,9 @@
  },
  "how_we_found_out": {
   "context": "How did people find out that removing one animal can change a whole web? This card tells the true story, and the idea that turned out wrong.",
-  "story": "In the 1950s, many ecologists thought that weather and food decided how many kinds of beings a place could hold. Predators, they thought, only trimmed the numbers a little. In 1963 a young American scientist, Robert Paine, decided to test this. He chose a rocky shore at Mukkaw Bay, in Washington State. The shore was covered with mussels, barnacles, limpets and seaweeds, and a purple starfish hunted there. Paine chose one stretch of rock and pulled every starfish off with a crowbar. He threw them far out into the sea. He kept doing this for years, and left the next stretch of rock alone to compare. On the untouched rock nothing changed. On the cleared rock, mussels spread and pushed the other animals out. In a few years the number of kinds fell from 15 to 8. The starfish had been eating mussels and keeping space open for everyone else. In 1969 Paine named such an animal a keystone species. Removing things on purpose, with a second place left alone, became a standard way to study food webs.",
+  "story": "In the 1950s, many ecologists thought that weather and food decided how many kinds of beings a place could hold. Predators, they thought, only trimmed the numbers a little. In the early 1960s a young American scientist, Robert Paine, decided to test this. He chose a rocky shore at Mukkaw Bay, in Washington State. The shore was covered with mussels, barnacles, limpets and seaweeds, and a purple starfish hunted there. Paine chose one stretch of rock and pulled every starfish off with a crowbar. He threw them far out into the sea. He kept doing this for years, and left the next stretch of rock alone to compare. On the untouched rock nothing changed. On the cleared rock, mussels spread and pushed the other animals out. In a few years the number of kinds fell from 15 to 8. The starfish had been eating mussels and keeping space open for everyone else. In 1969 Paine named such an animal a keystone species. Removing things on purpose, with a second place left alone, became a standard way to study food webs.",
   "who": "Robert Paine, an American ecologist",
-  "when": "The test began in 1963. The results were published in 1966, and the name 'keystone species' in 1969.",
+  "when": "The test began in the early 1960s. The results were published in 1966, and the name 'keystone species' in 1969.",
   "wrong_idea": "That predators only trim the numbers of their prey. People thought predators did not decide which kinds of beings could live in a place. Paine showed that removing one predator changed the whole community.",
   "art": "A young man in boots on a wet rocky shore at low tide, prying a purple starfish off a rock with a crowbar, with mussels and barnacles around him."
  },
@@ -3661,5 +3661,5 @@
   ],
   "art": "A child holding a spoon of rice above a plate, with faint lines leading from the spoon to a paddy plant, a frog, an earthworm and the Sun."
  },
- "playtest": "Read through as a parent and child in a city flat would use it, step by step. The experiments were reasoned through but not tried at home. The Two Webs Test (core) is a paper model, so it always works. I ran every possible draw of 3 cards on a computer. The narrow web keeps about 5 beings on average and the wide web nearly 7, and they tie in about one round in six. The Leaky Bottle (core) needs a tap, a bucket and a grown-up to make two equal holes of about 3 mm. Setting the stream takes patience, and the step says what to do if the bottle overflows or the level stays low. It uses about one bucket of water, which can be kept for mopping or plants. The level with two holes should be near a quarter of the first level, but unequal holes or a drifting tap can make it nearer a third. Ants and the Sugar Drop depends on ants being about. The step says where to look, how long to wait and what to do if none come. Counts differ a lot with the kind of ant. The Ten-Year Wave uses made-up numbers shaped like the real fur records, and says so. The paper perch in An Owl Perch for the Paddy Field needs tightly rolled tubes and a heavy pot, or it tips. Facts to treat with care: the figure of more than 40 in 100 for lantana in tiger forests, the 16 webs in the 2002 computer study, the 150 kilograms of plants an elephant eats in a day, and the advice to Mizoram farmers to grow ginger and turmeric, which comes from news reports of 2007. The 4,000 frog eggs and the 12 cubs of a tigress are round numbers for the activity. The three videos were found and their titles confirmed on YouTube, but nobody has watched them yet."
+ "playtest": "Read through as a parent and child in a city flat would use it, step by step. The experiments were reasoned through but not tried at home. The Two Webs Test (core) is a paper model, so it always works. I ran every possible draw of 3 cards on a computer. The narrow web keeps about 5 beings on average and the wide web nearly 7, and they tie in about one round in six. The Leaky Bottle (core) needs a tap, a bucket and a grown-up to make two equal holes of about 3 mm. Setting the stream takes patience, and the step says what to do if the bottle overflows or the level stays low. It uses about one bucket of water, which can be kept for mopping or plants. The level with two holes should be near a quarter of the first level, but unequal holes or a drifting tap can make it nearer a third. Ants and the Sugar Drop depends on ants being about. The step says where to look, how long to wait and what to do if none come. Counts differ a lot with the kind of ant. The Ten-Year Wave uses made-up numbers shaped like the real fur records, and says so. The paper perch in An Owl Perch for the Paddy Field needs tightly rolled tubes and a heavy pot, or it tips. Facts checked on 17 Nov 2026: the 15 to 8 kinds on Paine's shore, Estes and Palmisano 1974, the 16 webs in the 2002 study, lantana at more than 40 in 100 of tiger forests, the 1987 frogs' legs ban, the 2006 diclofenac ban, Project Tiger and the 1972 Act, the 48-year Mizoram bamboo cycle with 1959 and 2006 to 2008, the 150 kilograms a day an elephant eats, the Nile perch in the 1950s, and the ginger and turmeric advice of 2007. Softened: Paine's start year (now 'the early 1960s'), the vultures-to-dogs link (now 'thought to'), and how often an elephant calves. The 4,000 frog eggs and the 12 cubs of a tigress are round numbers for the activity. The three videos were found and their titles confirmed on YouTube, but nobody has watched them yet."
 }
