@@ -3,7 +3,7 @@
   "title": "Maps and directions: how to map a place you cannot see, and find where you are from three distances",
   "level": 4,
   "summary": {
-    "text": "A closed shoebox hides a small landscape of hills. All your child may do is push a thin stick down through holes in the lid and measure how far it goes. From those measurements, your child draws a map of hills they cannot see. Sailors and scientists mapped the floor of the sea in the same way. Your child also learns that a narrow ridge lying between two holes can be missed completely. Your child then finds a hidden coin from three distances, and measures a route on a map with the scale bar and walks it to check the map. Then the child sees why a phone needs at least four satellites to know where it is.",
+    "text": "A closed shoebox hides a small landscape of hills. All your child may do is push a thin stick down through holes in the lid and measure how far it goes. From those measurements, your child draws a map of hills they cannot see. Sailors and scientists mapped the floor of the sea in the same way. Your child also learns that a narrow ridge lying between two holes can be missed completely. Your child then finds a hidden coin from three distances. After that, your child measures a route on a map with the scale bar, and walks the route to check the map. At the end, your child finds out why a phone needs signals from at least four satellites to know where it is.",
     "art": "A shoebox with a lid full of small holes, a child pushing a thin stick through one hole, and beside the box a squared-paper map with numbers and coloured squares."
   },
   "intro": {
@@ -198,7 +198,7 @@
       "concept": "Mapping what you cannot see: measure a few places, reason about the rest",
       "status": "defined",
       "definition": "To map something you cannot see, you measure at some places and use reasoning to fill in what lies between them. Features smaller than the gaps between your measurements can be missed.",
-      "description": "Nobody can see the floor of the deep sea. For hundreds of years, sailors found the depth by dropping a rope with a weight and knots along it. Today a ship sends a pulse of sound down and times the echo. Sound travels about 1,500 metres each second in seawater. To find the depth, multiply that speed by the time the echo took, then divide by two, because the sound goes down and comes back. But a ship measures only along the line it sails. Between the lines nothing is measured. A mapmaker draws the shape that fits the numbers, and uses what she knows about how land and sea floors are built to fill the gaps. This is called interpolation. If the lines are close together, the map is good. If they are far apart, a narrow ridge or a small hill can hide between them. Mapmakers go back and measure again where the numbers change fast, or where something looks odd.",
+      "description": "Nobody can see the floor of the deep sea. For hundreds of years, sailors found the depth by dropping a rope with a weight and knots along it. Today a ship sends a pulse of sound down and times the echo. This is called sonar. Sound travels about 1,500 metres each second in seawater. To find the depth, multiply that speed by the time the echo took, then divide by two, because the sound goes down and comes back. But a ship measures only along the line it sails. Between the lines nothing is measured. A mapmaker draws the shape that fits the numbers, and uses what she knows about how land and sea floors are built to fill the gaps. This is called interpolation. If the lines are close together, the map is good. If they are far apart, a narrow ridge or a small hill can hide between them. Mapmakers go back and measure again where the numbers change fast, or where something looks odd.",
       "examples": [
         "A sea-floor map made from lines of echo soundings taken by a ship.",
         "The hidden-hills box, where a thin stick is pushed through holes in a lid.",
@@ -212,7 +212,7 @@
       "concept": "Finding a place from distances: trilateration and GPS",
       "status": "defined",
       "definition": "Trilateration finds a place from its distances to three known points. GPS does this with satellites, by timing radio signals that travel at the speed of light.",
-      "description": "If you know you are 5 kilometres from a tower, you could be anywhere on a circle around the tower. If you also know you are 4 kilometres from a second tower, the two circles cross in two places. A third distance, from a third tower, picks the one place where all three circles meet. GPS works this way in space. About thirty GPS satellites circle the Earth, about 20,000 kilometres up. Each one sends out a signal with the exact time it was sent. A phone listens. It does not send anything to the satellites. It works out how long each signal took. A signal travels at the speed of light, about 300,000 kilometres each second. Time multiplied by speed gives distance. A phone needs signals from at least four satellites, because the fourth lets it correct the error in its own cheap clock. India has its own system too, called NavIC, with its satellites above India and the seas around it.",
+      "description": "If you know you are 5 kilometres from a tower, you could be anywhere on a circle around the tower. If you also know you are 4 kilometres from a second tower, the two circles cross in two places. A third distance, from a third tower, picks the one place where all three circles meet. GPS works this way in space. About thirty GPS satellites circle the Earth, about 20,000 kilometres up. Each one sends out a signal with the exact time it was sent. A phone listens. It does not send anything to the satellites. It works out how long each signal took. A signal travels at the speed of light, about 300,000 kilometres each second. Time multiplied by speed gives distance. This means the phone must know the time very exactly. The phone's own clock is cheap, and it is a little wrong. Because light is so fast, even a tiny mistake in time becomes a huge mistake in distance. So the phone listens to at least four satellites. The fourth signal lets the phone work out how wrong its clock is, and correct it. India has its own system too, called NavIC, with its satellites above India and the seas around it.",
       "examples": [
         "A map app can put a blue dot on your street. It does not need the internet to find the position.",
         "A fisherman's boat with a receiver can find its place far out at sea.",
@@ -281,7 +281,7 @@
     {
       "concept": "Do bees carry a map in their heads?",
       "status": "debated",
-      "description": "A honeybee flies a long way from the hive to find flowers and then flies home in a straight line. Some scientists say she must carry something like a map in her head, a memory of how places lie in relation to each other. In 2014, a group of scientists shifted the body clocks of some bees and then moved them to a new place. The bees still flew towards their hive. The group took this as a sign that bees have a map. Another group of scientists replied in the same year that the bees could be using landmarks they had learned and a memory of the Sun's position. They said the experiment did not prove a map. Nobody has settled it. Everyone agrees that the bee finds her way with great skill.",
+      "description": "A honeybee flies a long way from the hive to find flowers and then flies home in a straight line. Some scientists say she must carry something like a map in her head, a memory of how places lie in relation to each other. In 2014, a group of scientists changed the body clocks of some bees. A body clock tells an animal what time of day it is, and bees use the time of day to read the direction of the Sun. The scientists then moved the bees to a new place. The bees still flew towards their hive. The group took this as a sign that bees have a map. Another group of scientists replied in the same year that the bees could be using landmarks they had learned and a memory of the Sun's position. They said the experiment did not prove a map. Nobody has settled it. Everyone agrees that the bee finds her way with great skill.",
       "examples": [
         "Bees displaced to a new place by researchers still return to the hive.",
         "A bee learns the landmarks near her hive during short orientation flights.",
@@ -408,7 +408,7 @@
     {
       "q": "A phone finds your place by timing signals that travel at the speed of light. Why does a tiny mistake in time make a big mistake in place?",
       "kind": "deep",
-      "hint": "Think about how far light travels in a thousandth of a second."
+      "hint": "Light travels about 300 kilometres in a thousandth of a second. What would that do to a distance that is worked out from the time?"
     },
     {
       "q": "A child, a delivery rider and an older person draw three different maps of one street. Which one is the true map?",
@@ -1195,8 +1195,8 @@
           "id": "s3",
           "mins": 5,
           "do": "Round 1. Take the first slip. With the compass point on tower A, draw a light circle with that distance as the radius. Mark with a small x a few places on it where the coin could be.",
-          "say": "Put the compass point on tower A. Draw the circle with the distance from the slip. Where could the coin be?",
-          "kid": "Draw a circle around A. Where could the coin be?",
+          "say": "Put the compass point on tower A. Every place exactly this far from A lies on a circle around A. Draw the circle with the distance from the slip. Where could the coin be?",
+          "kid": "Draw a circle around A. The coin is on this circle. Where could it be?",
           "ask": [
             {
               "q": "Where could the coin be, now that you have drawn the circle?",
@@ -1253,7 +1253,7 @@
           "do": "Do it all again with a new coin spot. Then ask your child three things: what they found, what they saw, and why.",
           "say": "Tell me three things. How many distances did you need? What did you see? Why? How does a phone use this?",
           "kid": "Say three things: what you found, what you saw, and why.",
-          "parent": "With several children, each takes a turn at hiding the coin, with a grown-up checking the measuring. A good answer: three distances fix one place. One gives a circle, two give two places, and three give one. A phone does the same with distances to satellites in space, but in three dimensions, which is why it needs a fourth satellite for its clock. The satellites send timed signals, and the phone turns each time into a distance."
+          "parent": "With several children, each takes a turn at hiding the coin, with a grown-up checking the measuring. A good answer: three distances fix one place. One gives a circle, two give two places, and three give one. A phone does the same with distances to satellites in space. It also listens to a fourth satellite, because its own clock is a little wrong, and the fourth distance lets it correct that. The satellites send timed signals, and the phone turns each time into a distance."
         }
       ],
       "context": "In this experiment you find a hidden coin on a sheet of paper from its distances to three towers. You find out how many distances you need, and how a phone uses the same idea.",
@@ -1878,7 +1878,7 @@
               "The land is flat"
             ],
             "a": 0,
-            "why": "Rivers flow downhill. If they flow east towards the Bay of Bengal, the land tilts down to the east. The Western Ghats are high, so many rivers begin near them and flow east across the plateau. The Narmada flows west because it runs in a rift valley."
+            "why": "Rivers flow downhill. If they flow east towards the Bay of Bengal, the land tilts down to the east. The Western Ghats are high, so many rivers begin near them and flow east across the plateau. The Narmada flows west because it runs in a rift valley. A rift valley is a long, narrow valley where the land has sunk down between two cracks in the ground, so the river runs along it."
           },
           "context": "In this step you follow rivers on the physical map to find which way the land slopes."
         }

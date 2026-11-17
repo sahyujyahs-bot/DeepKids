@@ -7,7 +7,7 @@
   "art": "A girl in a hall whirling a small cloth bag on a string around her hand, with a dotted straight line showing where the bag would fly if the string were let go."
  },
  "intro": {
-  "hook": "Whirl a small bag on a string. Your fingers feel a pull, and the faster you whirl, the stronger the pull gets. Now let go. Does the bag fly straight on, curve round, or go outward? Nobody pushes the bag outward, so why do you feel a pull at all?",
+  "hook": "Whirl a small bag on a string. Your fingers feel a pull, and the faster you whirl, the stronger the pull gets. Now let go. Does the bag fly straight on, curve round, or go outward? Nobody pushes the bag outward, so why do your fingers feel a pull at all?",
   "text": "The string pulls the bag towards your hand all the time. That pull bends the bag's path into a circle. When the pull stops, the bag goes straight on. In this unit you measure how the pull changes with speed, you slide coins off a turntable, and you watch a spin dryer throw water out through its holes. You find out why a car slows for a bend, why a lab spins blood and a dairy spins milk, and why the Moon keeps falling towards the Earth without ever getting closer.",
   "art": "A cloth bag on a string whirling around a pen held in a child's hand, with a few coins hanging from the other end of the string."
  },
@@ -124,7 +124,7 @@
    "concept": "Going round needs a pull towards the middle, all the time",
    "status": "defined",
    "definition": "A thing moving in a circle changes its direction every moment. A force that points towards the middle of the circle makes this happen. Scientists call it the centripetal force.",
-   "description": "Think of a bag whirled on a string. Because of inertia, the bag wants to go straight on. The string pulls it towards your hand at every moment, and that bends its path into a circle. The pull always points at a right angle to the way the bag is moving. So it changes the direction of the bag, but it does not make the bag faster or slower. Different things give the pull. A string gives tension. A road gives friction to a car on a bend. The Earth gives gravity to the Moon. The wall of a spin dryer gives a push to the clothes. The word 'centripetal' only names what the pull does: it seeks the middle. It is not a new kind of force.",
+   "description": "Think of a bag whirled on a string. Everything keeps doing what it is already doing. This is called inertia. So the bag wants to go straight on. The string pulls it towards your hand at every moment, and that pull bends its path into a circle. The pull always points at a right angle to the way the bag is moving. So it changes the direction of the bag, but it does not make the bag faster or slower. Different things give the pull. A string gives tension. A road gives friction to a car on a bend. The Earth gives gravity to the Moon. The wall of a spin dryer gives a push to the clothes. The word 'centripetal' only says what the pull does: it seeks the middle. It is not a new kind of force.",
    "examples": [
     "The string pulls a whirled bag towards your hand.",
     "The friction of the tyres pulls a car round a bend.",
@@ -139,7 +139,7 @@
    "concept": "Without the pull, a thing flies off in a straight line",
    "status": "defined",
    "definition": "When the pull towards the middle stops, a thing moves in a straight line, along the way it was going at that moment. This line just touches the circle, and is called a tangent.",
-   "description": "A common guess is that a whirled stone, when let go, flies outward from the middle, like the spoke of a wheel. But it does not. It goes along the tangent, in the direction it was moving. Sparks from a grinding wheel fly off in long straight lines. Mud thrown from a tyre leaves in a straight line. Drops fly off a spun wet umbrella in straight lines. A hammer thrower in an athletics match lets go at the moment the hammer is moving towards the field, not at the moment the wire points at the field. Each time, the thing goes straight because of inertia: no force is bending its path any more.",
+   "description": "A common guess is that a whirled stone, when let go, flies outward from the middle, like the spoke of a wheel. But it does not. It goes along the tangent, in the direction it was moving. Sparks from a grinding wheel fly off in long straight lines. Mud thrown from a tyre leaves in a straight line. Drops fly off a spun wet umbrella in straight lines. A hammer thrower in an athletics match lets go while the hammer is moving towards the field. The thrower does not wait until the wire points at the field, because the hammer would not go that way. Each time, the thing goes straight because of inertia. Nothing is bending its path any more.",
    "examples": [
     "Sparks fly off in straight lines from a grinding wheel.",
     "Mud flies off a fast tyre along the way the tyre was turning.",
@@ -154,7 +154,7 @@
    "concept": "A faster circle needs a much bigger pull",
    "status": "defined",
    "definition": "In the same circle, going twice as fast needs four times the pull. Going three times as fast needs nine times the pull.",
-   "description": "A faster thing has to change direction more quickly, and it also has more speed to turn. The two effects multiply, so the pull grows with the square of the speed, which is the speed times the speed. In the Whirler test, 4 coins, 8 coins and 16 coins hang on the string as the pull. Four times the coins does not need four times the turns. It needs only about twice the turns. So twice the speed needs four times the pull. A car going round a bend at 40 kilometres an hour needs four times the grip of the same car at 20 kilometres an hour. That is why a small increase in speed can suddenly be too much for a bend.",
+   "description": "A faster thing has to change direction more quickly. It also has more speed to turn. The two effects multiply, so the pull grows with the square of the speed, which means the speed times the speed. Here is how that shows up in the Whirler test. In that test, coins hang on the string, and their weight is the pull. The test uses 4, 8 and 16 coins. Four times as many coins is four times the pull. But the bag needed only about twice the turns. That fits the rule: twice the speed needs four times the pull. Here is the same rule on a road. A car going round a bend at 40 kilometres an hour needs four times the grip of the same car at 20 kilometres an hour. That is why a small increase in speed can suddenly be too much for a bend.",
    "examples": [
     "Four times the coins held the whirled bag at about twice the turns in the same time.",
     "A car at 40 kilometres an hour needs four times as much grip on a bend as at 20 kilometres an hour.",
@@ -181,10 +181,10 @@
    "how": "e2"
   },
   {
-   "concept": "More mass needs a bigger pull: the whole rule in one line",
+   "concept": "More mass needs a bigger pull: the whole rule in one sentence",
    "status": "defined",
    "definition": "The pull needed for a circle is the mass times the speed times the speed, divided by the radius. Twice the mass needs twice the pull.",
-   "description": "This comes from Newton's second law. A bigger mass needs a bigger force to change its motion. A stone of 0.2 kilograms whirled at 5 metres per second on a 1 metre string needs a pull of 0.2 x 5 x 5 divided by 1, which is 5 newtons. A child of 30 kilograms on a roundabout of radius 2 metres, going at 2 metres per second, needs a holding force of 30 x 2 x 2 divided by 2, which is 60 newtons. The rule says three things in one line: more mass needs more pull, more speed needs much more pull, and a bigger radius needs less.",
+   "description": "This comes from Newton's second law. The law says that the more mass a thing has, the bigger the force needed to change its motion. Going round a circle changes the motion at every moment, so the law tells us how big the pull must be. A stone of 0.2 kilograms whirled at 5 metres per second on a 1 metre string needs a pull of 0.2 x 5 x 5 divided by 1, which is 5 newtons. A child of 30 kilograms on a roundabout of radius 2 metres, going at 2 metres per second, needs a holding force of 30 x 2 x 2 divided by 2, which is 60 newtons. The rule says three things in one line. More mass needs more pull. More speed needs much more pull. A bigger radius needs less pull.",
    "examples": [
     "A stone of 0.2 kilograms at 5 metres per second on a 1 metre string needs 5 newtons.",
     "A child of 30 kilograms at 2 metres per second on a roundabout of radius 2 metres needs 60 newtons.",
@@ -229,7 +229,7 @@
    "concept": "Bends in roads, rails and cycles: friction, tilt and lean",
    "status": "defined",
    "definition": "On a flat bend, the friction between the tyres and the road is the pull towards the middle. If the friction is not enough, the vehicle slides straight on. Tilting the road, or leaning the vehicle, helps.",
-   "description": "A car on a flat road needs the friction of its tyres to pull it round a bend. On a wet or oily road, there is less friction, so the car can only take the bend at a lower speed. If it goes too fast, it slides straight on, off the road. Road builders tilt bends so that the outside is higher than the inside. Then part of the push of the road points towards the middle, and the car needs less friction. Railways raise the outer rail of a curve for the same reason. A cyclist leans into a bend so that the push of the ground points towards the middle. The faster the speed, or the tighter the bend, the more the cyclist must lean.",
+   "description": "A car on a flat road needs the friction of its tyres to pull it round a bend. On a wet or oily road, there is less friction, so the car can only take the bend at a lower speed. If it goes too fast, it slides straight on, off the road. Road builders tilt bends so that the outside is higher than the inside. The road then pushes up and a little inwards on the car, so part of that push points towards the middle, and the car needs less friction. Railways raise the outer rail of a curve for the same reason. A cyclist leans into a bend for the same reason. The leaning cycle makes the push of the ground point partly towards the middle. The faster the speed, or the tighter the bend, the more the cyclist must lean.",
    "examples": [
     "A car on a wet road slides straight on if it takes a bend too fast.",
     "On many railway curves the outer rail is a little higher than the inner rail.",
@@ -244,7 +244,7 @@
    "concept": "Circles that go up and down: buckets, loops and giant wheels",
    "status": "defined",
    "definition": "In a circle that goes up and over, the thing must be going fast enough at the top. It must need at least as much pull towards the middle as gravity gives. If it is slower, gravity pulls it out of the circle and it falls.",
-   "description": "Swing a bucket of water in a circle over your head. At the top, the water is upside down. It stays in the bucket because the bucket moves down faster than the water would fall. The water presses on the bottom of the bucket, and the bottom pushes back. If you swing too slowly, the water falls out. For a circle with a radius of about 70 centimetres, the slowest safe swing takes about 1.7 seconds for a full turn. In a giant wheel at a mela, you feel lighter at the top, and heavier at the bottom. A roller-coaster train with a loop needs enough speed at the top, so the cars stay on the track. A marble on a track with a loop usually needs to start from a height of about 2.5 to 3 times the loop's radius, measured from the bottom of the loop.",
+   "description": "Swing a bucket of water in a circle over your head. At the top, the water is upside down. It stays in the bucket because the bucket is moving downward faster than the water would fall by itself. So the bottom of the bucket keeps pushing on the water, and the water cannot leave. If you swing too slowly, the water falls out. For a circle with a radius of about 70 centimetres, the slowest safe swing takes about 1.7 seconds for a full turn. On a giant wheel at a mela, you feel lighter at the top and heavier at the bottom. At the top, gravity is already pulling you down towards the middle of the wheel, so the seat has to push you up less. At the bottom, the seat has to push you up more. A roller-coaster train with a loop needs enough speed at the top, so the cars stay on the track. A marble on a track with a loop usually needs to start from a height of about 2.5 to 3 times the loop's radius, measured from the bottom of the loop.",
    "examples": [
     "Water stays in a bucket swung fast enough in a vertical circle.",
     "A rider on a giant wheel feels lighter at the top and heavier at the bottom.",
@@ -259,7 +259,7 @@
    "concept": "The Moon and the satellites: falling and always missing",
    "status": "defined",
    "definition": "The Moon is pulled towards the Earth by gravity. It is also moving sideways. It keeps falling towards the Earth, and keeps missing it, so it goes round.",
-   "description": "Newton asked what would happen if a cannon on a very high mountain fired a ball sideways. A slow ball falls to the ground quite near. A faster ball lands further away. A ball fired fast enough keeps falling, but the ground curves away beneath it as fast as it falls, so the ball never lands. The Moon is like that ball. It goes round the Earth once in about 27 days, at about 1 kilometre every second. The International Space Station goes round the Earth about once every 90 minutes, at about 8 kilometres every second. Newton also compared the Moon's fall with the fall of an apple. The Moon is about 60 times as far from the Earth's middle as an apple on the ground. He reasoned that the pull weakens with the square of the distance, so it is about 3,600 times weaker there. The Moon's sideways speed does the rest.",
+   "description": "Newton asked what would happen if a cannon on a very high mountain fired a ball sideways. A slow ball falls to the ground quite near. A faster ball lands further away. A ball fired fast enough keeps falling, but the ground curves away beneath it as fast as it falls, so the ball never lands. The Moon is like that ball. It goes round the Earth once in about 27 days, at about 1 kilometre every second. The International Space Station goes round the Earth about once every 90 minutes, at about 8 kilometres every second. Newton also compared the Moon's fall with the fall of an apple. The Moon is about 60 times as far from the Earth's middle as an apple on the ground. He reasoned that the pull weakens with the square of the distance, so it is about 3,600 times weaker there. That is still a real pull. Together with the Moon's sideways speed, it keeps the Moon going round.",
    "examples": [
     "The Moon goes round the Earth once in about 27 days.",
     "The International Space Station goes round the Earth about once every 90 minutes.",
@@ -272,7 +272,7 @@
   {
    "concept": "Is centrifugal force real?",
    "status": "debated",
-   "description": "Everyone agrees on what happens on a turntable or a bus. Scientists differ on what to call the outward feeling. Many teachers say there is no outward force at all, only inertia and an inward pull. Many engineers, who work inside spinning machines such as centrifuges, use 'centrifugal force' every day because it makes their sums easy. The old argument is about what spinning is measured against. Does a spinning bucket of water show spin in empty space, or only spin compared with the stars? Nobody has settled it.",
+   "description": "Everyone agrees on what happens on a turntable or a bus. Scientists differ on what to call the outward feeling. Many teachers say there is no outward force at all, only inertia and an inward pull. Many engineers work inside spinning machines such as centrifuges. They use the words 'centrifugal force' every day, because it makes their sums easy. There is also an older argument about what spin is measured against. Does a spinning bucket of water show spin in empty space? Or does it show spin compared with the far-away stars? Nobody has settled it.",
    "examples": [
     "In a bus on a bend, you are pushed inward by the window, and you press back on it.",
     "Engineers use centrifugal force to design a laboratory centrifuge."
@@ -389,17 +389,17 @@
   {
    "q": "If you were in a closed room with no windows, how could you tell whether the room was sitting on the ground in gravity, or spinning in space?",
    "kind": "deep",
-   "hint": "Think of the clothes pressed against the wall of the dryer. What would a ball do if you dropped it?"
+   "hint": "Think of the clothes pressed against the wall of the dryer. Then think about what a dropped ball would do in a spinning room, and what it would do in a room standing on the ground."
   },
   {
    "q": "If you whirl a bag twice as fast, the pull is four times as big. Why would nature make the pull grow faster than the speed?",
    "kind": "deep",
-   "hint": "Think of two things happening at once when you go twice as fast in the same circle."
+   "hint": "When you go twice as fast in the same circle, you have to turn your direction twice as quickly. You also have twice as much speed to turn. Think about what happens when those two things are put together."
   },
   {
    "q": "Many things in the sky go round: the Moon, the Earth, whole galaxies. Why do almost all of them spin?",
    "kind": "big",
-   "hint": "Think of a big cloud of gas that shrinks and begins to turn. What happens to the turning when the cloud gets smaller?"
+   "hint": "Think of a big cloud of gas that is turning slowly and then shrinks. When something that is turning gets smaller, it turns faster. A skater who pulls in her arms spins faster for the same reason."
   },
   {
    "q": "Would you like to live in a spinning space town? What would 'down' mean there, and what would be strange?",
@@ -472,7 +472,7 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet in one hub, but it is the empty space in the hub that makes the wheel useful.",
-    "link": "At the middle of the whirler there is only a hole in a pen. Yet the pull on the bag points to it all the time. The empty middle holds everything in its circle."
+    "link": "At the middle of the whirler there is only a hole in a pen. Yet the pull on the bag points to that empty hole all the time. The empty middle is what the whole circle is built around."
    },
    {
     "source": "Rig Veda 1.164.11",
@@ -873,9 +873,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Show your child the pen, the string, the bag and the pouch of coins. Explain that the coins pull the string, and the bag must go round fast enough to hold the string still. Ask for a guess and a reason.",
-     "say": "The coins hang below and pull on the string. The bag must go round fast enough to hold them up. If we use four times as many coins, how much faster must the bag go? Why do you think so?",
-     "kid": "Coins pull the string. The bag goes round to hold them up. If you use four times as many coins, how much faster must the bag go? Why?",
+     "do": "Show your child the pen, the string, the bag and the pouch of coins. Explain how it works: the coins hang below and pull the string down. The string runs through the pen, so that pull tugs the bag inward, towards the pen. Ask for a guess and a reason.",
+     "say": "The coins hang below and pull the string down. The string runs through the pen, so the pull tugs the bag towards the pen. The bag must go round fast enough to stay in its circle while the coins pull on it. If we use four times as many coins, how much faster must the bag go? Why do you think so?",
+     "kid": "The coins pull the string down. The string pulls the bag towards the pen. The bag goes round to stay in its circle. With four times as many coins, how much faster must the bag go? Why?",
      "ask": [
       {
        "q": "If the coins are four times as many, how many times as fast must the bag go round? Why?",
@@ -914,7 +914,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Hold the pen upright at arm's length, in front of you. Whirl the bag in a circle. Find the speed at which the pouch stays still and the tape stays at the top of the pen. Practise until you can keep it steady for 10 seconds.",
-     "say": "Whirl the bag. If the pouch drops, whirl a little faster. If the pouch rises, slow down a little. Find the speed that keeps the tape still.",
+     "say": "Whirl the bag. If the pouch drops, whirl a little faster. If the pouch rises, slow down a little. When the pouch stays still, the bag is going round at just the right speed for the pull of the coins. Find the speed that keeps the tape still.",
      "kid": "Whirl the bag. If the pouch drops, go faster. If the pouch rises, go slower. Keep the tape still.",
      "adult": true,
      "parent": "A grown-up stands close. If the bag will not whirl and hangs low, add 2 coins to the pouch or use a lighter bag. It takes most children a few tries. The speed does not need to be exact. A small band of speeds keeps the tape steady, so aim for the middle of it.",
@@ -1068,8 +1068,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the plate, the coins and the turntable. Ask for a guess and a reason for each question. Write the guesses on a sheet of paper.",
-     "say": "We will put coins on a plate and turn it faster and faster. Which coin do you think will slide off first? Will a heavy stack slide off before a single coin? Why do you think so?",
-     "kid": "Coins sit on a plate that turns faster and faster. Which coin slides off first? Will a heavy stack slide off before a single coin? Why?",
+     "say": "We will put coins on a plate and turn it faster and faster. The only thing holding each coin on the plate is friction, which is the grip between the coin and the plate. Which coin do you think will slide off first? Will a heavy stack slide off before a single coin? Why do you think so?",
+     "kid": "Coins sit on a plate that turns faster and faster. Friction, the grip of the plate, is all that holds them. Which coin slides off first? Will a heavy stack slide off before a single coin? Why?",
      "ask": [
       {
        "q": "Which coin do you think will slide off first, and why?",
@@ -1477,7 +1477,7 @@
      "id": "s3",
      "mins": 6,
      "do": "Put one cup of water in the bucket. Swing it in the full circle. The helper counts the seconds for one turn. Swing more and more slowly, until the water just stays in. Then try one swing that is slightly slower. The water should spill.",
-     "say": "Now there is a cup of water in the bucket. Swing fast and the water stays in. Swing slower and slower. Where does it start to spill? Count the seconds for one turn.",
+     "say": "Now there is a cup of water in the bucket. Swing fast and the water stays in. At the top, the bucket moves down faster than the water would fall. So the bottom of the bucket keeps pushing on the water. Swing slower and slower. Where does it start to spill? Count the seconds for one turn.",
      "kid": "Swing the bucket with water. Go slower and slower. Where does it spill? Count the seconds.",
      "adult": true,
      "parent": "For an arm and a bucket together about 70 centimetres long, most children find that the water just stays in when one turn takes about 1.5 to 2 seconds. Slower than that, the water falls out near the top. Do this over a drain or on open ground, and expect to get wet. Stop if the child feels dizzy. To measure: the helper times 5 turns and divides by 5. Children under about 8 may find a full circle too hard; then a grown-up swings and the child times and records. Swing a mug with a cup of water first, and a bigger bucket only after that. With 2 to 4 children, take turns as swinger, timer, and recorder, with everyone else standing 3 metres back. The numbers depend on the length of the arm, so treat about 1.5 to 2 seconds as typical, not promised.",
@@ -1730,7 +1730,7 @@
        "The coins got heavier"
       ],
       "a": 0,
-      "why": "With the same pull, the bag in a bigger circle makes fewer turns each second. The pull is shared out over a longer path. The coins and the bag did not change."
+      "why": "A bigger circle is a longer path for each turn. With the same pull, the bag moves round it more slowly, so each turn takes longer. That means fewer turns in 10 seconds. The coins and the bag did not change."
      },
      "context": "In this step, you count the turns for three string lengths with the same pull."
     },
@@ -2553,7 +2553,7 @@
       "At the side"
      ],
      "a": 0,
-     "why": "At the top, the seat has to push up less than the rider's weight, because part of the weight is used to give the pull towards the middle. At the bottom, the seat must push up more.",
+     "why": "A rider going round needs a pull towards the middle of the wheel. At the top, that pull points down, and gravity already pulls down. So the seat only has to push up a little, and the rider feels light. At the bottom, the pull needed points up, so the seat has to push up by more than the rider's weight. The rider feels heavy.",
      "outcome": 5
     },
     {
@@ -2897,7 +2897,7 @@
   {
    "problem": "In the made-up example for the Whirler test, the middle results for 4, 8 and 16 coins were 9, 13 and 18 turns in 10 seconds. How many more turns did 16 coins give than 4 coins? How many times as many as 4 coins is 16 coins? How many times as many as 9 turns is 18 turns?",
    "answer": "9 more turns. 16 coins is 4 times as many as 4 coins. 18 turns is 2 times as many as 9 turns.",
-   "explain": "18 take away 9 is 9. 16 divided by 4 is 4. 18 divided by 9 is 2. Four times the coins gave only twice the turns. That is the sign that the pull grows with the square of the speed.",
+   "explain": "18 take away 9 is 9. 16 divided by 4 is 4. 18 divided by 9 is 2. Four times the coins gave only twice the turns. This is what we expect if the pull grows with the square of the speed. Then four times the pull means only twice the speed, because 2 times 2 is 4.",
    "math_unit": "math.multiplication.multiplication-facts.L4",
    "context": "This is about the Whirler test. A bag goes round on a string while coins hang from the other end, and you count the turns.",
    "how": "e1",
@@ -3138,7 +3138,7 @@
  },
  "how_we_found_out": {
   "context": "Is going round in a circle natural, or does it need a cause? This card tells how people found out, and how a stone in a sling helped.",
-  "story": "For about two thousand years, many thinkers followed Aristotle in saying that the heavens move in circles because circles are perfect and natural. They said a circular motion needs no cause. Some historians say that even the great Galileo, in his book of 1632, still treated circular motion as one that could go on by itself, though others disagree. In 1644, René Descartes looked at a stone whirled in a sling. He saw that the stone always tries to fly off in a straight line, and that the sling must keep pulling it back. So going in a circle is not natural. It needs a pull. In 1659, Christiaan Huygens worked out how big the pull must be. Then Isaac Newton asked what pulls the Moon. The Moon is about 60 times as far from the Earth's middle as an apple on the ground. Newton reasoned that the pull weakens with the square of the distance, so it is about 3,600 times weaker there. Later checks fitted the Moon's motion.",
+  "story": "For about two thousand years, many thinkers followed Aristotle in saying that the heavens move in circles because circles are perfect and natural. They said a circular motion needs no cause. Some historians say that even the great Galileo, in his book of 1632, still treated circular motion as one that could go on by itself, though others disagree. In 1644, René Descartes looked at a stone whirled in a sling. He saw that the stone always tries to fly off in a straight line, and that the sling must keep pulling it back. So going in a circle is not natural. It needs a pull. In 1659, Christiaan Huygens worked out how big the pull must be. Then Isaac Newton asked what pulls the Moon. He wondered whether it is the same pull that makes an apple fall to the ground. An apple on the ground is one Earth radius from the Earth's middle, and the Moon is about 60 times as far. Newton reasoned that the pull weakens with the square of the distance, so it is about 3,600 times weaker at the Moon. Later checks fitted the Moon's motion.",
   "who": "René Descartes, a French thinker, Christiaan Huygens, a Dutch scientist, and Isaac Newton, an English scientist",
   "when": "1644 for Descartes's sling, 1659 for Huygens's rule, and the 1680s for Newton's Moon",
   "wrong_idea": "Aristotle and many thinkers after him taught that moving in circles is natural for heavenly things, and needs no cause. A stone in a sling showed that a thing in a circle is always trying to go straight, so something must pull it inward all the time."

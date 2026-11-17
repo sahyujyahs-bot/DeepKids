@@ -1,22 +1,22 @@
 # Fractals and spirals: how rough a coast is, and how leaves turn round a plant stem
 `sci.patterns-symmetry.fractals-and-spirals.L4`
 
-**Summary.** A straight line is one-dimensional and a flat page is two-dimensional, so how can a crinkly drawn coast fall in between? Your child counts the boxes that a straight line and a coast touch as the boxes shrink, and the coast grows by a number between the two. Then a plant stem gives a second puzzle: leaves climb the stem turning by a fraction of a circle, such as two fifths, and these fractions creep towards the golden angle. Along the way your child folds a paper dragon, draws a line that grows without end inside a small page, and learns why a snail's shell keeps the same shape.
+**Summary.** Your child draws a straight line and a crinkly coast on squared paper, and counts the boxes each one touches as the boxes get smaller. Each time the boxes are halved, the straight line touches twice as many. A page that is coloured in completely would need 4 times as many. The coast's count goes up by a number in between, and that gives the coast a roughness number between 1 and 2. Then your child tags the leaves on a real plant stem and finds that each leaf turns a fraction of a circle from the last, such as two fifths. These fractions get closer and closer to an angle called the golden angle. Along the way your child folds a paper dragon, draws a line that grows without end inside a small page, and learns why a snail's shell keeps the same shape.
 
-**Intro.** *Draw a straight line across a squared page. Now draw a crinkly coast across it. Count the little squares each one touches. Halve the squares and count again. The straight line doubles its count. A filled page would quadruple. What will the coast do?* In Class 3 you measured a coast with long and short strips, and you counted the spirals on a pineapple. Now you go one step deeper. You will give a rough edge a number, by counting boxes. You will draw a line that gets longer and longer inside the same small space. You will tag the leaves on a real stem and find how far each leaf turns from the last. At the end you find out what spiral shapes in shells, storms and galaxies have in common, and what they do not.
+**Intro.** *Draw a straight line across a squared page. Now draw a crinkly coast across it. Count the little squares each one touches. Then use squares half as wide and count again. The straight line touches twice as many squares. A page that is coloured in completely would need four times as many squares. So how many will the crinkly coast need?* In Class 3 you measured a coast with long and short strips, and you counted the spirals on a pineapple. Now you go one step deeper. You will give a rough edge a number, by counting boxes. You will draw a line that gets longer and longer inside the same small space. You will tag the leaves on a real stem and find how far each leaf turns from the last. At the end you find out what spiral shapes in shells, storms and galaxies have in common, and what they do not.
 
 ## Learning outcomes
 0. I can say what happens to a line, a flat shape and a solid when they are made twice as big, and use this to explain what a roughness number means.
 1. I can measure the roughness of a drawn coast by counting the boxes it touches at three box sizes, and say why the answer lies between 1 and 2.
 2. I can build a Koch curve and a paper dragon and explain how repeating one rule makes a fractal.
-3. I can explain why a growing shell keeps the same shape, and tell a spiral that grows by a fraction from one that grows by adding the same amount.
+3. I can explain why a growing shell keeps the same shape, and tell apart a spiral that grows by the same fraction each turn and a spiral that grows by the same amount each turn.
 4. I can find the fraction of a turn between neighbouring leaves on a real stem, and compare it with the fractions 1 over 2, 1 over 3, 2 over 5 and 3 over 8 and with the golden angle.
 5. I can explain why branching helps trees, lungs and blood vessels, and say what is still debated about the rules for branch widths.
 6. I can explain how random walkers build a branching cluster, and say why a shell, a cyclone and a galaxy can each be a spiral for a different reason.
 
 ## Terms
 - **Scale**: The size at which you look at or measure something. Changing the scale means making the measuring step or the picture bigger or smaller. *e.g.* A map of India on a page and a map of Chennai on a page are drawn at different scales.
-- **Dimension**: A number that tells how a shape's size grows when you make it bigger. A line has dimension 1, a flat page has dimension 2 and a solid block has dimension 3. A rough edge can have a dimension in between. *e.g.* A straight string has dimension 1. A crumpled ball of foil is somewhere between 2 and 3.
+- **Dimension**: A number that tells how fast a shape's size grows when you make the shape twice as big in every direction. A line has dimension 1, a flat page has dimension 2 and a solid block has dimension 3. A rough edge can have a dimension in between. *e.g.* A straight string has dimension 1. A crumpled ball of foil is somewhere between 2 and 3.
 - **Roughness number**: Another name used in this unit for the dimension of a rough edge, such as a coast. A straight line has roughness number 1 and a very crinkly coast has a roughness number above 1, but always less than 2. *e.g.* The west coast of Britain has a roughness number of about 1.25.
 - **Box counting**: A way to measure roughness. You cover a drawing with boxes, count the boxes that touch the line, and then repeat with smaller boxes. *e.g.* A straight line touches 5 boxes of 4 centimetres and 10 boxes of 2 centimetres. The count doubles when the boxes halve.
 - **Iteration**: Doing the same step again and again, each time on the result of the last. Making a fractal is often iteration of one rule. *e.g.* Folding a paper strip in half, then in half again, then again, is iteration of one fold.
@@ -27,10 +27,10 @@
 - **Whorl**: One full turn of a coiled shell. A shell is made of a number of whorls, each wider than the one before. *e.g.* A long pointed shell has five or six whorls.
 - **Phyllotaxis**: The way leaves, seeds or petals are arranged round a stem or a seed head. The word comes from Greek words for leaf and arrangement. *e.g.* A stem with leaves that each turn two fifths of a circle round the stem has a phyllotaxis of 2 over 5.
 - **Golden angle**: A turn of about 137.5 degrees, a little more than a third of a full circle. Many plants place each new leaf or seed about this far round from the last. *e.g.* Turning two fifths of a circle gives 144 degrees. Turning three eighths gives 135 degrees. Both are close to the golden angle.
-- **Random walk**: A path made of steps in directions chosen by chance, like following a die. A random walker has no goal and does not plan a route. *e.g.* A dust speck jiggled by air moves in a random walk.
+- **Random walk**: A path made of steps whose directions are chosen by chance, for example by rolling a die. A random walker has no goal and does not plan a route. *e.g.* A dust speck jiggled by air moves in a random walk.
 - **Cluster**: A group of things stuck together. In a growth game, a cluster is the set of squares or particles that have joined the seed. *e.g.* The branching shape that builds up when walkers stick to a seed is a cluster.
 - **Cyclone**: A huge spinning storm with winds that spiral in towards a calm centre. *e.g.* A cyclone in the Bay of Bengal spins anticlockwise when seen from above.
-- **Coriolis effect**: The way the spin of the Earth bends the path of air and water that moves over long distances. It turns moving air to the right in the north and to the left in the south. *e.g.* The Coriolis effect makes air rushing into a low-pressure area spiral round it.
+- **Coriolis effect**: The way the spin of the Earth bends the path of air and water that moves over long distances. It turns moving air to the right in the northern half of the Earth and to the left in the southern half. *e.g.* The Coriolis effect makes air rushing into a low-pressure area spiral round it.
 - **Turing pattern**: A pattern of spots or stripes made when two chemicals spread through a surface and react, as the mathematician Alan Turing worked out in 1952. *e.g.* Scientists think the stripes on some fish form this way.
 - **Dragon curve**: A curve made by folding a paper strip in half again and again in the same direction and opening each fold to a right angle. *e.g.* A strip folded four times opens into a curve with 15 corners.
 - **Self-similar on average**: Looking like itself at different sizes only roughly, not exactly. Real coasts, mountains and clouds are self-similar on average, while a computer fractal can be exactly self-similar. *e.g.* A mountain range looks equally rough up close and from far, but no small part is an exact copy of a large part.
@@ -39,26 +39,26 @@
 ### What happens to size when a shape doubles · *defined*
 **Definition:** When a shape is made twice as big in every direction, its length doubles, its area becomes 4 times as big and its volume becomes 8 times as big.
 
-Take a line 5 centimetres long and make it twice as long. It is now 10 centimetres, so it is 2 times as big. Take a square 5 centimetres on each side, with an area of 25 square centimetres. Double each side and the square has an area of 100, which is 4 times as big. Take a cube 5 centimetres on each side, with a volume of 125 cubic centimetres. Double each edge and the volume is 1000, which is 8 times as big. The numbers 2, 4 and 8 are 2 once, twice and three times over. They tell us that a line has dimension 1, a square has dimension 2 and a cube has dimension 3. The dimension is the number of times you multiply 2 by itself to get the growth.
+Take a line 5 centimetres long and make it twice as long. It is now 10 centimetres, so it is 2 times as big. Take a square 5 centimetres on each side, with an area of 25 square centimetres. Double each side and the square has an area of 100, which is 4 times as big. Take a cube 5 centimetres on each side, with a volume of 125 cubic centimetres. Double each edge and the volume is 1000, which is 8 times as big. Now look at the numbers 2, 4 and 8. The first is just 2. The second is 2 times 2. The third is 2 times 2 times 2. So the line needs one 2, the square needs two and the cube needs three. That is why we say a line has dimension 1, a square has dimension 2 and a cube has dimension 3. The dimension is how many 2s you multiply together to get the growth.
 - e.g. A line: double it, and it grows 2 times.
 - e.g. A square: double its sides, and it grows 4 times.
 - e.g. A cube: double its edges, and it grows 8 times.
-- e.g. A big idli takes in 8 times more batter than one with half the width, if the shapes are the same.
+- e.g. An idli twice as wide as another, and the same shape, takes 8 times as much batter.
 ### Giving a rough edge a number: box counting · *defined*
 **Definition:** In box counting, you cover a drawing with boxes, count the boxes that touch the line, then halve the boxes and count again. How fast the count grows tells you how rough the line is.
 
-Use the idea of doubling in reverse. If you halve the size of the boxes that cover a straight line, you need twice as many boxes. If you halve the boxes that cover a filled page, you need 4 times as many. A crinkly coast lies in between. When you halve the boxes, the coast needs more than twice as many, but fewer than 4 times as many. If the count rises by 2.4 times each time, the coast has a roughness number of about 1.3. A coast that is almost straight gives a number close to 1. A coast so crinkly that it nearly fills the page gives a number close to 2. The mathematician Benoit Mandelbrot used Lewis Fry Richardson's measurements to show that the west coast of Britain has a number of about 1.25. This number is called a fractal dimension. It is a measure of roughness, and it can be a fraction.
-- e.g. A straight line: count doubles, number 1.
-- e.g. A filled square: count quadruples, number 2.
-- e.g. A coast whose count rises 2.4 times: number about 1.3.
-- e.g. The west coast of Britain: about 1.25.
+Think of doubling the size of a shape, but in reverse. If you halve the size of the boxes that cover a straight line, you need twice as many boxes. If you halve the boxes that cover a page that is coloured in completely, you need 4 times as many. A crinkly coast lies in between. When you halve the boxes, the coast needs more than twice as many, but fewer than 4 times as many. Here is how a count turns into a roughness number. A count that grows 2 times means the roughness number is 1, because you multiply one 2. A count that grows 4 times means the number is 2, because 2 times 2 is 4. A count that grows 2.4 times is in between. It takes a bit more than one 2 to make 2.4, so the roughness number is about 1.3. A coast that is almost straight gives a number close to 1. A coast so crinkly that it nearly fills the page gives a number close to 2. The mathematician Benoit Mandelbrot used Lewis Fry Richardson's measurements to show that the west coast of Britain has a number of about 1.25. This number is called a fractal dimension. It is a measure of roughness, and it can be a fraction.
+- e.g. A straight line: the count doubles, so its roughness number is 1.
+- e.g. A filled square: the count quadruples, so its number is 2.
+- e.g. A coast whose count rises 2.4 times: its roughness number is about 1.3.
+- e.g. The west coast of Britain: a roughness number of about 1.25.
 ### A line that gets longer for ever in a small space: the Koch curve · *defined*
 **Definition:** A Koch curve is made by taking a line, cutting out the middle third of every straight piece and putting in two sides of a tent in its place. Repeated for ever, it makes a line of endless length that fits inside a small page.
 
 Start with a line 27 centimetres long. Cut out the middle third, which is 9 centimetres, and put in two 9 centimetre sides of a tent. Now the line has 4 pieces of 9 centimetres, so its length is 36. Do the same to every piece. Now there are 16 pieces of 3 centimetres, and the length is 48. Each round multiplies the length by 4 over 3. After 5 rounds the line is more than a metre long, and after 10 rounds it is nearly 5 metres, yet it never leaves the page. The Swedish mathematician Helge von Koch described this curve in 1904. If three Koch curves are joined into a triangle, they make the Koch snowflake. The snowflake has an edge that is endless, but its area never grows past 1.6 times the area of the starting triangle. So a shape can have a finite area and an endless edge.
-- e.g. 27 cm, then 36, then 48, then 64: each step multiplies by 4 over 3.
+- e.g. The line is 27 centimetres, then 36, then 48, then 64. Each round makes it 4 over 3 times as long, which is the same as adding one third.
 - e.g. The Koch snowflake: an endless edge around a small area.
-- e.g. A coast: the same kind of bends within bends, though stopping at some size.
+- e.g. A coast: it has the same kind of bends inside bends, but they stop at some small size.
 ### One rule repeated: how a few instructions make a fern · *defined*
 **Definition:** Many fractals are made by iteration, which means repeating one small rule on its own result. A very short set of rules can describe a complicated shape.
 
@@ -67,8 +67,8 @@ The mathematician Michael Barnsley showed in the 1980s that a picture of a fern 
 - e.g. A fern drawn by four rules and thousands of dots.
 - e.g. Folding a paper strip again and again: the dragon curve.
 ### Why branches get thinner by a rule · *debated*
-Leonardo da Vinci noticed that when a tree branch splits, the areas of the cut ends of the daughter branches add up to the area of the cut end of the mother branch. So the cut ends of all the branches at one height add up to about the trunk. Blood vessels follow a different rule, found by Cecil Murray in 1926. For vessels, the cubes of the widths add up. Both rules help the living body move fluid at the least cost. But why trees follow Leonardo's rule is not settled.
-- e.g. A tree: the cut ends of all the branches at one height add up to about the trunk.
+Leonardo da Vinci noticed a rule about trees. When a branch splits into smaller branches, call the first one the mother branch and the smaller ones her daughter branches. Imagine cutting across them. The areas of the daughters' cut ends add up to the area of the mother's cut end. So at any one height, the cut ends of all the branches together are about as big as the cut end of the trunk. Blood vessels follow a different rule, found by Cecil Murray in 1926. For each vessel, work out width times width times width. The numbers for the daughter vessels add up to the number for the mother vessel. Both rules help a tree or a body move liquid at the least cost. But scientists have not settled why trees follow Leonardo's rule.
+- e.g. A tree: at any one height, the cut ends of all the branches together are about as big as the cut end of the trunk.
 - e.g. A blood vessel splitting in two: two equal daughter vessels are each about 80 percent as wide as the mother vessel.
 - e.g. A river: each tributary adds to the main river.
 - **The plumbing explanation:** A tree has to carry water from the roots to all the leaves. If the total width of the pipes stays the same at every height, the water can flow up evenly. This idea, called the pipe model, was put forward by Japanese botanists in the 1960s.
@@ -76,7 +76,7 @@ Leonardo da Vinci noticed that when a tree branch splits, the areas of the cut e
 ### Real fractals are rough copies, over a limited range of sizes · *defined*
 **Definition:** A mathematical fractal repeats exactly for ever. A real coast, tree or cloud repeats only on average, and only between a biggest and a smallest size.
 
-The Koch curve is exact: a small piece is a perfect copy of a bigger piece. A real coast is not. No small bay is an exact copy of a big gulf. But if you zoom in and out, the coast looks about as rough at every size. Scientists call this being self-similar on average. A real fern repeats its leaflets for only three or four levels. A real coast stops being rough at the grains of sand. So the roughness number you measure with boxes is only true for the range of box sizes you used. Your drawn coast has only three levels of detail, so the number you find is a rough guess, but it is still a useful number for comparing coasts. Doctors use similar numbers to describe how branched a lung or a blood supply is.
+The Koch curve is exact: a small piece is a perfect copy of a bigger piece. A real coast is not. No small bay is an exact copy of a big gulf. But if you zoom in and out, the coast looks about as rough at every size. Scientists call this being self-similar on average. A real fern repeats its leaflets for only three or four levels. A real coast stops being rough at the grains of sand. So the roughness number you measure with boxes is only true for the range of box sizes you used. The coast you draw in How Rough Is Your Coast? has only three levels of detail: big bays, smaller bays and tiny wiggles. So the number you find is a rough guess, but it is still a useful number for comparing coasts. Doctors use similar numbers to describe how branched a lung or a blood supply is.
 - e.g. A mountain ridge: equally rough close up and far away, but no exact copies.
 - e.g. A fern: leaflets on leaflets for three or four levels.
 - e.g. A drawn coast: three levels of detail, so a rough number.
@@ -84,25 +84,25 @@ The Koch curve is exact: a small piece is a perfect copy of a bigger piece. A re
 **Definition:** A shell grows by making each new whorl a fixed fraction wider than the last. That is a logarithmic spiral, and the shell keeps the same shape as it grows.
 
 A rope coiled on the floor has equal gaps between its turns. It grows by adding the same amount each turn, and it is called an Archimedean spiral. A snail shell is different. Each new whorl is wider than the last by the same fraction, say 1.5 times. So the gaps get bigger and bigger. This is a logarithmic spiral. Because the fraction is always the same, a small shell and a big shell of one kind have the same shape, and you can work out the missing small whorls of a broken shell by dividing. In the 1960s, the palaeontologist David Raup showed that four numbers are enough to describe the shape of most coiled shells: how fast the whorls widen, how far the opening sits from the middle, how fast the shell slides along its axis, and the shape of the opening. The mathematician Jacob Bernoulli loved the logarithmic spiral so much that it is said he asked for one on his tombstone. The stonemason carved a different kind.
-- e.g. A coiled rope: equal gaps, Archimedean.
-- e.g. A snail shell: growing gaps, logarithmic.
-- e.g. A broken shell: divide each whorl by the fraction to find the missing whorls.
+- e.g. A coiled rope has equal gaps, so it is an Archimedean spiral.
+- e.g. A snail shell has growing gaps, so it is a logarithmic spiral.
+- e.g. A broken shell: divide each whorl's width by the fraction to find the missing smaller whorls.
 - e.g. The nautilus: a chambered shell whose spiral is close to logarithmic.
 ### How plants turn their leaves: fractions and the golden angle · *defined*
-**Definition:** Leaves climb a stem turning by a fixed fraction of a circle between neighbours. The fractions 1 over 2, 1 over 3, 2 over 5, 3 over 8 and 5 over 13 are common, and they get closer and closer to the golden angle of 137.5 degrees.
+**Definition:** As leaves climb a stem, each leaf is turned a fixed fraction of a circle round from the leaf below. The fractions 1 over 2, 1 over 3, 2 over 5, 3 over 8 and 5 over 13 are common, and they get closer and closer to the golden angle of 137.5 degrees.
 
-Look at a stem from above. If each leaf turns half a circle from the last, the leaves stack in just two rows, and the ones in the same row shade each other. If each turns a third, they stack in three rows. A turn of two fifths, 144 degrees, gives five rows before leaves repeat. A turn of three eighths, 135 degrees, gives eight rows. Each of these fractions is a Fibonacci number over the next-but-one Fibonacci number, such as 2 over 5 and 3 over 8. The next fractions in the list are 5 over 13, which is 138.5 degrees, 8 over 21, which is 137.1 degrees, and 13 over 34, which is 137.65 degrees. They close in on 137.5 degrees, the golden angle. The golden angle is the turn that never lines a leaf up exactly above an earlier leaf, however many leaves there are. It is the turn that is furthest of all from every simple fraction. A plant with a turn near the golden angle spreads leaves into many rows, so every leaf gets light. The brothers Auguste and Louis Bravais measured the angle in the 1830s.
+Look at a stem from above. If each leaf turns half a circle from the last, the leaves stack in just two rows, and the ones in the same row shade each other. If each turns a third, they stack in three rows. A turn of two fifths, 144 degrees, gives five rows before leaves repeat. A turn of three eighths, 135 degrees, gives eight rows. These fractions are built from the Fibonacci numbers, which are 1, 1, 2, 3, 5, 8, 13, 21, 34 and so on: each is the sum of the two before it. The top of each fraction is a Fibonacci number, and the bottom is the Fibonacci number two places further along, as in 2 over 5 and 3 over 8. The next fractions in the list are 5 over 13, which is 138.5 degrees, 8 over 21, which is 137.1 degrees, and 13 over 34, which is 137.65 degrees. They close in on 137.5 degrees, the golden angle. The golden angle is the turn that never lines a leaf up exactly above an earlier leaf, however many leaves there are. It is the turn that is furthest of all from every simple fraction. A plant with a turn near the golden angle spreads her leaves into many rows, so every leaf gets light. The brothers Auguste and Louis Bravais measured the angle in the 1830s.
 - e.g. Half a turn: two rows of leaves, as in many grasses.
-- e.g. A third: three rows.
+- e.g. A third of a turn: three rows of leaves.
 - e.g. Two fifths, 144 degrees: five rows.
 - e.g. Three eighths, 135 degrees: eight rows.
 ### Spirals in storms and galaxies · *idea*
-A cyclone is a spiral, but for a very different reason from a shell. Air rushes in towards a low-pressure centre. Because the Earth spins, the moving air is bent by the Coriolis effect, to the right in the north and to the left in the south. So a cyclone in the Bay of Bengal spins anticlockwise when seen from above. A galaxy such as the Milky Way has spiral arms of stars and gas. Scientists think the arms are waves of squeezing that move through the stars, like a traffic jam moving along a road while the cars come and go. This idea, the density wave theory, was put forward by C. C. Lin and Frank Shu in 1964. It is not the only explanation, and how galaxy arms last is still an open question. So the same spiral shape in a shell, a storm and a galaxy comes from three different causes. A shape does not tell you why it is there.
+A cyclone is a huge spinning storm. It is a spiral, but for a very different reason from a shell. In the middle of a cyclone, the air is lighter and thinner than the air around it. Scientists call that a low-pressure centre. Air from all round rushes in towards it. Because the Earth spins, the moving air is bent by the Coriolis effect. It bends to the right in the northern half of the Earth and to the left in the southern half. So a cyclone in the Bay of Bengal spins anticlockwise when seen from above. A galaxy such as the Milky Way has spiral arms of stars and gas. Scientists think the arms are waves of squeezing that move through the stars, like a traffic jam moving along a road while the cars come and go. This idea, the density wave theory, was put forward by C. C. Lin and Frank Shu in 1964. It is not the only explanation, and how galaxy arms last is still an open question. So the same spiral shape in a shell, a storm and a galaxy comes from three different causes. A shape does not tell you why it is there.
 - e.g. A shell: each whorl wider by a fixed fraction.
 - e.g. A cyclone: moving air bent by the Earth's spin.
 - e.g. A galaxy: probably waves of squeezing in the stars and gas.
 ### Spots and stripes from chemicals that spread · *debated*
-In 1952 the mathematician Alan Turing worked out how an even, featureless surface could make spots or stripes by itself. He imagined two chemicals that spread through the skin and react with each other. One makes more of both. The other spreads faster and stops the first. The result is a pattern with a set spacing between spots. Turing patterns are well studied on a computer. They have been found in real animals in some cases. In 1995, Shigeru Kondo and Rihito Asai saw stripes on the marine angelfish slowly move and split into new stripes, as the model predicts. How general the idea is for animals such as leopards and zebras is still debated.
+In 1952 the mathematician Alan Turing worked out how an even, featureless surface could make spots or stripes by itself. He imagined two chemicals that spread through the skin and react with each other. One chemical makes more of itself and of the other one. The other chemical spreads out faster, and it stops the first one from making more. The result is a pattern with a set spacing between spots. Turing patterns are well studied on a computer. They have been found in real animals in some cases. In 1995, Shigeru Kondo and Rihito Asai saw stripes on the marine angelfish slowly move and split into new stripes, as the model predicts. Scientists still debate how far the idea explains the patterns of animals such as leopards and zebras.
 - e.g. Stripes of the marine angelfish, which move and split as the fish grows.
 - e.g. Spots of a leopard, which may follow a Turing rule.
 - e.g. The evenly spaced fingers of a mouse paw, which have been linked to a Turing-type process.
@@ -111,36 +111,36 @@ In 1952 the mathematician Alan Turing worked out how an even, featureless surfac
 ### Branching clusters from random walkers · *defined*
 **Definition:** When particles wander at random and stick to a growing cluster at the first place they touch it, the cluster grows branches. The tips catch most of the walkers, so the tips grow fastest.
 
-Imagine a seed in the middle of a table and a dust speck wandering at random. When the speck touches the seed, the speck sticks. Then another speck wanders in and sticks to the cluster. A speck wandering in from far away is most likely to bump into a tip that sticks out, before it ever reaches a hollow between two arms. So the tips catch more walkers, and they grow further out. That makes the cluster branch, with bumps becoming arms and bumps on the arms becoming smaller arms. In 1981, the physicists Thomas Witten and Leonard Sander worked this out and called it diffusion-limited aggregation. The same kind of growth makes the branching crystals of copper in some chemical cells, the black fern-like marks of manganese in rocks and parts of the branching in lightning. The rule says nothing about ferns or lightning. It only says that tips catch more.
-- e.g. The paper game with a die and a seed square.
+Think of a seed in the middle of a table and a dust speck wandering at random. When the speck touches the seed, the speck sticks. Then another speck wanders in and sticks to the cluster. A speck wandering in from far away is most likely to bump into a tip that sticks out, before it ever reaches a hollow between two arms. So the tips catch more walkers, and they grow further out. That makes the cluster branch, with bumps becoming arms and bumps on the arms becoming smaller arms. In 1981, the physicists Thomas Witten and Leonard Sander worked this out and called it diffusion-limited aggregation. The same kind of growth makes the branching crystals of copper in some chemical cells, the black fern-like marks of manganese in rocks and parts of the branching in lightning. The rule says nothing about ferns or lightning. It only says that tips catch more.
+- e.g. The Stick and Wander game, played on paper with a die and a seed square.
 - e.g. Fern-like dark marks on some rocks, caused by minerals.
 - e.g. The branches of lightning.
 ### Fractals made by people: antennas, art and villages · *defined*
 **Definition:** People use fractal shapes because a fractal packs a very long edge into a small space. Some artists and builders have also used repeating rules at several sizes.
 
-A radio antenna works by having a long wire. A fractal antenna folds a long wire into a repeating pattern that fits in a small space, so it can catch several wavelengths at once. The engineer Nathan Cohen built fractal antennas from the late 1980s, and they have been tested for phones and other devices. Kolam makers and temple builders have used repeating patterns at several sizes for centuries. The scholar Ron Eglash said in 1999 that many villages in Africa were built as fractals, with houses, streets and lanes repeating in rings at several sizes. Some researchers agree that the patterns are real, and some say he went too far in saying the builders planned a fractal. Whether a pattern was planned or just grew is a question worth asking each time.
+A radio antenna catches radio waves, and a longer wire catches them better. Different radio signals have different wavelengths, which means different distances between one wave and the next. A fractal antenna folds a long wire into a repeating pattern that fits in a small space, so it can catch several wavelengths at once. The engineer Nathan Cohen built fractal antennas from the late 1980s, and they have been tested for phones and other devices. Kolam makers and temple builders have used repeating patterns at several sizes for centuries. The scholar Ron Eglash said in 1999 that many villages in Africa were built as fractals, with houses, streets and lanes repeating in rings at several sizes. Some researchers agree that the patterns are real, and some say he went too far in saying the builders planned a fractal. Whether a pattern was planned or just grew is a question worth asking each time.
 - e.g. A fractal antenna folded into a small chip.
 - e.g. A kolam with loops inside loops.
 - e.g. Village layouts with rings of houses of different sizes.
 
 ## Mostly agreed
 - A line has dimension 1, a flat shape has dimension 2 and a solid has dimension 3, and a rough edge such as a coast can have a dimension between 1 and 2. *How we know:* You can measure it by box counting. Mandelbrot used Richardson's measurements to give the west coast of Britain about 1.25.
-- A Koch curve gets 4 over 3 times longer with each round, so it grows without end, yet it fits inside a small page. *How we know:* Anyone can draw the first two rounds and measure them. The pattern in the lengths, 27, 36, 48, 64, can be checked by arithmetic.
+- A Koch curve becomes 4 over 3 times as long with each round, so it grows without end, yet it fits inside a small page. *How we know:* Anyone can draw the first two rounds and measure them. The pattern in the lengths, 27, 36, 48, 64, can be checked by arithmetic.
 - A coiled shell grows by making each whorl a fixed fraction wider than the last, so the shell keeps the same shape. *How we know:* Scientists such as David Raup showed that four numbers describe the shape of most coiled shells, and growth lines on shells match the pattern.
 - Leaves on many plants turn by a fraction of a circle such as 1 over 2, 1 over 3, 2 over 5 or 3 over 8 between neighbours, and these fractions approach the golden angle of about 137.5 degrees. *How we know:* Botanists have counted leaf turns for nearly two hundred years, and anyone with a plant can check by tagging leaves.
 - Cyclones spiral because the spinning Earth bends the path of air rushing in to a low-pressure centre. *How we know:* Cyclones rotate anticlockwise in the northern half of the Earth and clockwise in the southern half, as the Coriolis effect predicts.
 - When walkers wander at random and stick at first touch, the tips of the cluster catch the most walkers, and the cluster grows branches. *How we know:* Witten and Sander showed it in a computer in 1981, and anyone can repeat it with a die and a grid.
 
 ## How we found out
-**Karl Weierstrass, Helge von Koch and Benoit Mandelbrot, 1872 to 1975.** In the 1800s, mathematicians believed that every curve they could draw was smooth enough to have a direction at almost every point, like a road with a bend here and there. In 1872, the German mathematician Karl Weierstrass showed a curve with no direction at any point. It was made of bends inside bends at every size. Some mathematicians were upset and called such curves monsters. In 1904, the Swedish mathematician Helge von Koch drew a simpler monster that anyone can make with a ruler, which we now call the Koch curve. For decades the monsters stayed in mathematics books. Then, in the 1960s and 1970s, Benoit Mandelbrot used Lewis Fry Richardson's measurements of coasts and argued that the monsters were the right shapes for coasts, clouds and mountains. In 1975, he gave them the name fractals.  
+**Karl Weierstrass, Helge von Koch and Benoit Mandelbrot, 1872 to 1975.** In the 1800s, mathematicians believed that every curve they could draw was smooth enough that, at almost every point, you could say which way it is heading. A road with a bend here and there is like that. In 1872, the German mathematician Karl Weierstrass showed a curve where you cannot say which way it is heading at any point. It was made of bends inside bends at every size. Some mathematicians were upset and called such curves monsters. In 1904, the Swedish mathematician Helge von Koch drew a simpler monster that anyone can make with a ruler, which we now call the Koch curve. For decades the monsters stayed in mathematics books. Then, in the 1960s and 1970s, Benoit Mandelbrot used Lewis Fry Richardson's measurements of coasts and argued that the monsters were the right shapes for coasts, clouds and mountains. In 1975, he gave them the name fractals.  
 *What people believed before:* Mathematicians believed that every curve is smooth enough to have a direction at nearly every point, so that crinkly curves were rare oddities. Weierstrass and Koch showed that a curve can be crinkly everywhere, and Mandelbrot argued that nature is full of such curves.
 
 ## Challenging perspectives
-- **A coast has one true roughness number, like its length in kilometres.** (Some who first read about fractal coasts.; *debated*)  
+- **A coast has one true roughness number, like its length in kilometres.** (Some people, when they first read about fractal coasts.; *debated*)  
   For: Richardson and Mandelbrot found that the west coast of Britain gives a number of about 1.25 over a wide range of sizes.  
   Against: A real coast is only rough on average over a range of sizes, and different stretches and different ranges give different numbers. The number depends on how and where it is measured.
 - **Water drains from a sink in opposite directions in the northern and southern halves of the Earth.** (A popular story told to tourists and in some schools.; *rejected*)  
-  For: Cyclones really do spin in opposite directions in the two halves.  
+  For: Cyclones really do spin in opposite directions in the northern and southern halves of the Earth.  
   Against: The Coriolis effect is far too weak at the size of a sink. The direction of the swirl is set by the shape of the sink and the way the water was stirred. Cyclones are huge, and that is why the Earth's spin matters to them.
 - **Many African villages were built as fractals by design.** (Ron Eglash, in 1999, and many who have read his work.; *debated*)  
   For: Aerial photographs of some villages show rings of houses and lanes that repeat at several sizes.  
@@ -155,9 +155,9 @@ A radio antenna works by having a long wire. A fractal antenna folds a long wire
 ## Roots
 We have given a rough coast a number, grown a line without end inside a page, and tagged leaves that turn by a fraction of a circle. Now we ask what these patterns tell us about ourselves and the world.
 
-**Deep truth.** A straight line doubles its boxes when the boxes are halved. A filled page quadruples them. Your coast went up by about 2.4 times, in between. So a rough edge has a size between a line and a page.  
-*Habit it breaks:* We sort every shape into a line, a flat sheet or a solid, and think its size must be 1, 2 or 3. A rough edge shows that this is a habit of our rulers and not a rule of nature.  
-*Evidence:* In the box test, a straight line went from 5 to 10 to 20 boxes, doubling each time the boxes were halved. Your coast went up by about 2.4 times each time, which gives a roughness number near 1.3. If your numbers differ, write them down as they are.
+**Deep truth.** In How Rough Is Your Coast?, the straight line touched twice as many boxes each time the boxes were halved. A filled page would cover four times as many. Your coast's count went up by about 2.4 times, which is in between. So a rough edge has a size between a line and a page.  
+*Habit it breaks:* We sort every shape into a line, a flat sheet or a solid, and think its size must be 1, 2 or 3. A rough edge shows that this is a habit of how we measure, not a rule of nature.  
+*Evidence:* In How Rough Is Your Coast?, the straight line went from 5 to 10 to 20 boxes, doubling each time the boxes were halved. Your coast's count went up by about 2.4 times each time, which gives a roughness number near 1.3. If your numbers differ, write them down as they are.
 
 - *who am i:* Your blood vessels split again and again, by a rule about their widths that Cecil Murray described in 1926. Your body is full of branches that follow a pattern.
 - *what is life:* A plant turns each new leaf by a fraction of a circle, such as two fifths, so that her leaves share the light. A snail makes each new coil a fixed fraction bigger. Each repeats a single step.
@@ -171,12 +171,12 @@ A Koch curve starts as a straight line, and one rule repeated makes an endless c
 - Science (open): How the spiral arms of a galaxy last for billions of years is still being studied. The density wave idea is one explanation, and there are others.
 - Other view, Many mathematicians and map-makers: The roughness number you measure from a drawing or a map holds only between a smallest and a largest box size. Beyond those sizes a coast is no longer rough in the same way. So calling a coast a fractal is a useful way of describing it, and it is not a deep fact about the world.
 - Practice, Out to the tips, back to the trunk (3 min): Look at a tree through a window. Breathe in slowly as your eyes follow the trunk up to a big branch. Keep breathing in as they follow it to a smaller branch and then a twig. Breathe out as your eyes come back down to the trunk. Do this three times. Where does a branch end and the tree begin?
-- Ask: Your coast measured about 1.3, between a line and a page. What else might we have sorted into boxes too neatly?
+- Ask: In How Rough Is Your Coast?, your coast got a roughness number of about 1.3, between a line and a page. What else might we have sorted into neat groups that it does not really fit?
 - Ask: A plant turns each leaf by a fraction of a circle, and the fractions close in on 137.5 degrees. Is the pattern in the plant, in the rule, or in our counting?
 - Ask: A snail shell, a cyclone and a galaxy are all spirals. Are they one pattern or three?
 
 ## Deep and big questions
-- *deep:* Your coast came out at a roughness number between 1 and 2. Can something have a size that is not a whole number? (hint: A line has size 1 and a page has size 2. What would a thing that is more than a line and less than a page be like?)
+- *deep:* In How Rough Is Your Coast?, your drawn coast got a roughness number between 1 and 2. Can something have a size that is not a whole number? (hint: A line has size 1 and a page has size 2. What would a thing that is more than a line and less than a page be like?)
 - *deep:* A snail keeps adding shell by the same fraction. Does a snail know the shape she is building, or is the shape just what the repeated step makes? (hint: Think about whether knowing the shape is needed to make the shape.)
 - *deep:* Leaves turn by about 137.5 degrees from one to the next. How does a plant end up with a number like that? (hint: The number may come out of a simple rule about gaps. What rule might that be?)
 - *big:* A shell, a cyclone and a galaxy are all spirals, for different reasons. Does a shared shape mean a shared cause? (hint: Think of two different foods that are both round. Do they have to be made the same way?)
@@ -245,7 +245,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 
 ## Games
 ### g1 · Stick and Wander: grow a branching cluster with a die (29 min)
-- **rules:** Each player has a grid sheet with the middle square shaded. The shaded square is the seed. Each player needs a marker, such as a bean or a button, for the walker, and ideally a die of their own (a ludo die will do). Everyone plays at the same time on their own sheet. If there is only one die, pass it on each time a walker sticks. No die: toss two coins for each step instead (two heads is up, head and tail is right, tail and head is down, two tails is left), so no toss is wasted.; To release a walker, roll the die to pick an edge: 1 is the top edge, 2 the right edge, 3 the bottom edge and 4 the left edge. On a 5 or 6, roll again.; Roll again to pick the starting square on that edge. Count that many squares from the left for the top or bottom edge, or from the top for the side edges (a 6 means the last, seventh square). Put the marker there. If it starts next to the cluster, it sticks at once.; Move the walker one square at a time. For each step, roll the die: 1 is up, 2 is right, 3 is down and 4 is left. On a 5 or 6, roll again. If the step would take the walker off the grid, the walker stays where it is.; A walker sticks as soon as it is next to a shaded square, sharing a side. Touching only at a corner does not count. Shade the square the walker is on and write its number in it. The first walker is 1, the second is 2, and so on.; Take turns. On your turn, release one walker and walk it until it sticks. A round ends when a cluster has a shaded square on the edge of the sheet. The player who reaches the edge first wins the round. If a round has gone on for more than 10 minutes, stop it when a cluster has 9 shaded squares, and count the winner as the one with the most squares on the outer ring.; Play up to 3 rounds, one on each sheet. Two rounds are enough if time is short. The player who wins the most rounds wins the game. A tie is a shared win.; Playing alone: release walkers until the cluster reaches the edge, and count how many walkers it took. Play two or three rounds and try to beat your best.
+- **rules:** Each player has a grid sheet with the middle square shaded. The shaded square is the seed. Each player needs a marker, such as a bean or a button, for the walker, and ideally a die of their own (a ludo die will do). Everyone plays at the same time on their own sheet. If there is only one die, pass it on each time a walker sticks. If you have no die, toss two coins for each step instead: two heads is up, head then tail is right, tail then head is down, and two tails is left. Every toss gives a step, so no toss is wasted.; To release a walker, roll the die to pick an edge: 1 is the top edge, 2 the right edge, 3 the bottom edge and 4 the left edge. On a 5 or 6, roll again.; Roll again to pick the starting square on that edge. Count that many squares from the left for the top or bottom edge, or from the top for the side edges (a 6 means the last, seventh square). Put the marker there. If it starts next to the cluster, it sticks at once.; Move the walker one square at a time. For each step, roll the die: 1 is up, 2 is right, 3 is down and 4 is left. On a 5 or 6, roll again. If the step would take the walker off the grid, the walker stays where it is.; A walker sticks as soon as it is next to a shaded square, sharing a side. Touching only at a corner does not count. Shade the square the walker is on and write its number in it. The first walker is 1, the second is 2, and so on.; Take turns. On your turn, release one walker and walk it until it sticks. A round ends when a cluster has a shaded square on the edge of the sheet. The player who reaches the edge first wins the round. If a round has gone on for more than 10 minutes, stop it when a cluster has 9 shaded squares, and count the winner as the one with the most squares on the outer ring.; Play up to 3 rounds, one on each sheet. Two rounds are enough if time is short. The player who wins the most rounds wins the game. A tie is a shared win.; Playing alone: release walkers until the cluster reaches the edge, and count how many walkers it took. Play two or three rounds and try to beat your best.
 - **Printable board: 3 grid sheets: each a 7 by 7 grid of squares with the middle square shaded as the seed:** Grid sheet for round 1: 7 by 7 squares, middle square shaded; Grid sheet for round 2: 7 by 7 squares, middle square shaded; Grid sheet for round 3: 7 by 7 squares, middle square shaded
 - **Printable score sheet: 1 score sheet: for each round, the number of walkers needed to reach the edge:** Round 1: walkers used to reach the edge; Round 2: walkers used to reach the edge; Round 3: walkers used to reach the edge
 - **s1 (3 min)**  
@@ -256,7 +256,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Parent does:* Play the first few walkers. Release a walker, roll to pick its edge and its square, and walk it until it sticks. Shade and number the square.  
   *Parent says:* Roll to choose the edge. Roll again for the square. Now roll for each step. When the walker is next to a shaded square, it sticks. Shade its square.  
   *Child mode:* Roll to pick the edge. Roll for each step. When it touches, shade it.
-  - Note: Typical numbers, not promises: a walker needs about 10 to 80 steps before it sticks, so 15 to 120 rolls, and the first walkers are the slowest. A round usually needs about 6 to 12 walkers and 100 to 400 rolls, which is 5 to 10 minutes. That is normal; nothing is wrong. A walker that wanders off the grid stays put, so every walker eventually sticks. Beans and buttons are small parts: keep them away from little brothers and sisters, and use buttons or paper squares if anyone has a food allergy to beans. Two to four children can each play their own sheet side by side; one child with a parent can race the parent.
+  - Note: These numbers are typical, not exact. A walker needs about 10 to 80 steps before it sticks, which is 15 to 120 rolls, and the first walkers are the slowest. A round usually needs about 6 to 12 walkers and 100 to 400 rolls, which takes 5 to 10 minutes. That many rolls is normal. A walker that would step off the grid stays where it is, so every walker sticks in the end. Beans and buttons are small, so keep them away from little brothers and sisters. If anyone is allergic to beans, use buttons or paper squares. Two to four children can each play on their own sheet side by side. One child with a parent can race the parent.
 - **s3 (7 min)**  
   *Parent does:* Keep playing until one cluster has a shaded square on the edge. Write the number of walkers used on the score sheet.  
   *Parent says:* Keep going. Who will reach the edge first? Write down how many walkers it took.  
@@ -270,21 +270,21 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Check: Why do the arms of the cluster keep growing longer? → **A wandering walker is most likely to bump into a tip before it reaches a hollow**
 - **s5 (8 min)**  
   *Parent does:* Play round 2, and round 3 if there is time (a second sitting is fine). Write the walker counts on the score sheet. Add up the rounds won and name the winner.  
-  *Parent says:* Play another round, or two. Is each cluster the same? Is each the same kind of shape?  
+  *Parent says:* Play another round, or two. Are the clusters exactly the same? Are they the same kind of shape?  
   *Child mode:* Play round 2, and round 3 if there is time. Count the walkers. Is each shape the same?
   - Ask: Were the three clusters exactly the same? (good: No, but they were the same kind of shape.; No. Each had arms, but in different places.)
-  - Note: Every cluster is different because the dice are random. All of them have arms with sub-branches. The kind of shape is the same each time, and the exact shape is not.
+  - Note: Every cluster is different because the die is random. But all of them have arms with smaller branches on them. The kind of shape is the same each time, and the exact shape is not.
 
 ## Experiments
 ### e1 · How Rough Is Your Coast? Count the boxes it touches (35 min)
-- **question:** When the boxes that cover a line are cut in half, how fast does the number of boxes touched grow? Does a crinkly coast grow like a straight line, like a filled page, or in between?
-- **predict:** Before you start, guess. A straight line touches 5 boxes of 4 centimetres. How many will it touch when the boxes are 2 centimetres? Will your crinkly coast grow by more, less or the same as the straight line? Why do you think so?
+- **question:** When the boxes are made half as wide, how much does the number of boxes a line touches go up? Does the count for a crinkly coast go up like a straight line's, like a filled page's, or in between?
+- **predict:** Before you start, guess. A straight line touches 5 boxes of 4 centimetres. How many will it touch when the boxes are 2 centimetres? Will the count for your crinkly coast go up by more, less or the same as the count for the straight line? Why do you think so?
 - **fair test:** Draw the straight line and the coast on pages of the same size, 20 centimetres across. Work alone with a parent, or in a group of 2 to 4 where each child draws a coast. Use the same rule for counting a box every time: a box counts if the line passes through any part of it. Count each box size twice. Only the box size changes, so any difference in how fast the count grows comes from the line and not from the counting.
 - **safety:** Sharpen pencils with a grown-up, or use a sharpener with a cover.
-- **record:** Fill in the table. Stick your straight line and your coast in your notebook. Write the roughness number you found, and the word line, in between, or page for how it compares.
+- **record:** Fill in the table. Stick your straight line and your coast in your notebook. Write the roughness number you found. Then write whether your coast behaves like a line, like a page, or in between.
 - **results table:** Box size | Boxes touched by the straight line | Boxes touched by my coast | Coast ratio: this count divided by the count for boxes twice as big
 - **s1 (3 min)**  
-  *Parent does:* Ask your child to guess and give a reason. Write the guess at the top of the table. Then show them a squared page.  
+  *Parent does:* Show your child a squared page. Ask them to guess how the box counts will change, and to give a reason. Write the guess at the top of the table.  
   *Parent says:* A straight line touches 5 boxes when the boxes are 4 centimetres wide. How many will it touch when the boxes are half as wide? What will a crinkly coast do? Why do you think so?  
   *Child mode:* A line touches 5 big boxes. How many small boxes will it touch? What about a crinkly coast?
   - Ask: Will the coast's count grow by more than the line's, less, or the same? Why? (good: More, because the coast has more bends to go through.; The same, because both are lines.; Less, because the line is straight and goes through every box.)
@@ -295,7 +295,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Child mode:* Draw a straight line in a row of squares. Draw a crinkly coast on page two. Add bays inside bays.
   - Note: A coast with bays inside bays gives a better result than a smooth wobbly line. Keep the coast from crossing itself. Keep the pencil line thin so the shaded boxes are easy to see.
 - **s3 (3 min)**  
-  *Parent does:* On each page, go over every fourth grid line with the first colour. These lines make boxes 4 centimetres wide. Then go over every second line with the second colour. These lines make boxes 2 centimetres wide.  
+  *Parent does:* On each page, go over every fourth grid line with one colour. These lines make boxes 4 centimetres wide. Then go over every second line with a different colour. These lines make boxes 2 centimetres wide.  
   *Parent says:* Every fourth line makes big boxes. Every second line makes medium boxes. The plain lines make the small boxes.  
   *Child mode:* Colour every fourth line. Colour every second line in another colour.
   - Note: On a 20 centimetre page, the 4 centimetre grid has 5 boxes across. The 2 centimetre grid has 10. The 1 centimetre grid has 20.
@@ -307,18 +307,18 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Check: A straight line touches 7 boxes. The boxes are cut to half their width. How many boxes does the line touch now? → **14**
 - **s5 (8 min)**  
   *Parent does:* On page 2, count the boxes the coast touches. Do the 4 centimetre boxes first, then the 2 centimetre boxes, then the 1 centimetre boxes. Shade each box as you count it. Count each size twice. Write the counts in the table.  
-  *Parent says:* Now the coast. Shade each box the coast touches, so you do not count one twice. Start with the biggest boxes. Count twice.  
+  *Parent says:* Now count for the coast. Shade each box the coast touches, so you do not count one twice. Start with the biggest boxes. Count twice.  
   *Child mode:* Count the boxes the coast touches. Shade each one. Do it for each box size.
-  - Note: For a coast about 20 centimetres across with bays inside bays, typical counts are 10 to 14 for the 4 centimetre boxes, 25 to 35 for the 2 centimetre boxes, and 60 to 90 for the 1 centimetre boxes. Your own counts may differ. If your two counts of the same size differ by 2 or 3, use the average. With a parent, let the parent do the second count, and compare. With 2 to 4 children, swap coasts and let a friend do the second count; if the friend's numbers differ by more than 3, count the box again together.
+  - Note: For a coast about 20 centimetres across with bays inside bays, typical counts are 10 to 14 for the 4 centimetre boxes, 25 to 35 for the 2 centimetre boxes, and 60 to 90 for the 1 centimetre boxes. Your own counts may differ. If your two counts of the same box size differ by 2 or 3, use the average. With one child, let the parent do the second count, and compare. With 2 to 4 children, swap coasts and let a friend do the second count. If the friend's count differs by more than 3, count that box size again together.
 - **s6 (5 min)**  
-  *Parent does:* Work out the ratios. Divide the 2 centimetre count by the 4 centimetre count. Divide the 1 centimetre count by the 2 centimetre count. Take the middle of the two answers. Then read the roughness number from the table. A ratio of 2.0 gives 1.0. A ratio of 2.2 gives 1.1. A ratio of 2.4 gives 1.3. A ratio of 2.6 gives 1.4. A ratio of 2.8 gives 1.5. A ratio of 3.0 gives 1.6. A ratio of 3.5 gives 1.8. A ratio of 4.0 gives 2.0.  
-  *Parent says:* Divide each count by the one before. That tells you how many times the count grows when the boxes halve. Find the middle of your two answers. Now look it up in the table.  
-  *Child mode:* Divide the counts. Find the middle ratio. Look up your roughness number.
+  *Parent does:* Work out the ratios. Divide the 2 centimetre count by the 4 centimetre count. Divide the 1 centimetre count by the 2 centimetre count. Take the number halfway between the two answers. Then read off the roughness number from this table. A ratio of 2.0 gives 1.0. A ratio of 2.2 gives 1.1. A ratio of 2.4 gives 1.3. A ratio of 2.6 gives 1.4. A ratio of 2.8 gives 1.5. A ratio of 3.0 gives 1.6. A ratio of 3.5 gives 1.8. A ratio of 4.0 gives 2.0.  
+  *Parent says:* Divide each count by the one before. That tells you how many times the count grows when the boxes halve. Find the number halfway between your two answers. Now look it up in the table.  
+  *Child mode:* Divide the counts. Find the number halfway between your two ratios. Look up your roughness number.
   - Ask: Is your coast's ratio nearer to 2, to 4, or in between? (good: In between.; A bit more than 2.; Closer to 2 than to 4.)
-  - Note: A line gives a ratio of 2, which is roughness number 1. A filled page gives a ratio of 4, which is number 2. If your ratio is about 2.4, your coast is about 1.3. A hand drawn coast usually lands between 1.1 and 1.5. If your ratio is below 2, you probably missed boxes. Count again. If the second ratio (1 centimetre over 2 centimetre) is smaller than the first, that is normal: your pencil line has run out of fine detail at 1 centimetre. This is why a roughness number is only true for the box sizes you used. Compare the numbers of friends: they will not match exactly.
+  - Note: A line gives a ratio of 2, which is roughness number 1. A filled page gives a ratio of 4, which is roughness number 2. If your ratio is about 2.4, your coast is about 1.3. A hand drawn coast usually lands between 1.1 and 1.5. If your ratio is below 2, you probably missed boxes, so count again. If the second ratio (the 1 centimetre count divided by the 2 centimetre count) is smaller than the first, that is normal: your pencil line has run out of fine detail at 1 centimetre. This is why a roughness number is only true for the box sizes you used. If friends did the test too, compare roughness numbers. They will not match exactly.
   - Think: If you drew a smooth coast with only two or three gentle curves, what ratio would you expect?
 - **s7 (4 min)**  
-  *Parent does:* Ask your child to say what they found. Write the claim, the evidence and the reason.  
+  *Parent does:* Ask your child to say what they found. Write down what they found, the numbers that show it, and the reason.  
   *Parent says:* What did you find? What numbers show it? Why do you think the coast grew faster than the line but slower than a filled page?  
   *Child mode:* What did you find? Which numbers show it? Why?
   - Ask: Why did the coast's count grow faster than the line's, but slower than a page's? (good: The coast has bends, so it needs more boxes than a straight line.; It does not fill the page, so it needs fewer boxes than a filled page.)
@@ -326,14 +326,14 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Check: A coast's box count grows by 3.0 times each time the boxes are halved. What can you say about the coast? → **It is much rougher than a straight line and nearer to filling a page, with a roughness number about 1.6**
 ### e2 · Leaf Staircase: how far does each leaf turn round the stem? (25 min)
 - **question:** As leaves climb a stem, how much does each new leaf turn round the stem from the last one? Is it the same for every plant?
-- **predict:** Before you start, guess. How many leaves up the stem before you find one directly above the first? Will each leaf turn half a circle, a third, or something else? Why do you think so?
+- **predict:** Before you start, guess. How many leaves up the stem will you go before you find one directly above the first? Will each leaf turn half a circle, a third, or something else? Why do you think so?
 - **fair test:** Use the same method on every stem: tag the leaves from the bottom, find the first leaf directly above the bottom one, count the leaves and follow a thread round the stem to count the turns. Count each stem twice, starting from a different leaf the second time, because one count can be wrong. Only the plant changes. With one child, the parent does the second count. With 2 to 4 children, each child takes a different plant: one holds the thread and one reads the tag numbers from above, then swap roles and compare.
 - **safety:** Do not pick leaves or bend the stem. Use only plants you know are safe to touch. Some plants, such as chilli, can sting the eyes, and brinjal stems can have small thorns, so keep hands away from your face and touch gently. Wash hands afterwards. Do not taste any leaf.
 - **record:** Fill in the table for each stem. Draw the stem seen from above, with the leaves in order and an arrow showing which way they turn.
 - **results table:** Plant or stem | Leaves counted from bottom leaf to the leaf directly above it (n) | Turns round the stem (t) | Fraction of a turn per leaf (t divided by n) | Angle per leaf in degrees (360 times t divided by n)
 - **s1 (3 min)**  
   *Parent does:* Show your child the plant. Ask for a guess and a reason. Write the guess at the top of the table.  
-  *Parent says:* The leaves climb the stem. Does each leaf turn half a circle from the last, or less? How many leaves before one sits directly above the first? Why do you think so?  
+  *Parent says:* The leaves climb the stem. Does each leaf turn half a circle from the last, or less? How many leaves will you pass before one sits directly above the first? Why do you think so?  
   *Child mode:* Look at the leaves on the stem. How far does each leaf turn? Why do you think so?
   - Ask: How far do you think each leaf turns round the stem from the last one? (good: Half a circle, so the leaves are on two sides.; A little less than half.; It is random.)
   - Note: Do not correct the guess. Any guess with a reason is good. The test will answer it.
@@ -341,19 +341,19 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Parent does:* Stick tag 0 on a leaf near the bottom of the stem. Move up the stem. Stick tag 1 on the next leaf up, tag 2 on the one after, and so on. Always go to the next leaf up, not the one beside it.  
   *Parent says:* Tag the lowest leaf 0. Now go up the stem. The next leaf up is 1. Then 2. Do not skip any leaf. Each tag goes on the very next leaf up.  
   *Child mode:* Tag the bottom leaf 0. Tag the next leaf up 1. Keep going up.
-  - Note: Stems lean a little, so look from the top to see which leaf is next. If two leaves come out at the same height, tag them in turn. This plan works best for plants with leaves one at a time. Plants with leaves in pairs, such as tulsi or mint, are a good extra test.
+  - Note: Stems lean a little, so look from the top to see which leaf is next. If two leaves come out at the same height, tag them in turn. This method works best for plants whose leaves come out one at a time. Plants with leaves in pairs, such as tulsi or mint, are a good extra test.
 - **s3 (6 min)**  
   *Parent does:* Look down on the plant. Find the first leaf directly above leaf 0, on the same side of the stem. Note its number, n. Tie the thread loosely to leaf 0. Take it to leaf 1, then 2, and on up to leaf n, always the short way round the stem. Count how many times the thread goes round the stem. Call this t.  
   *Parent says:* Look from above. Which is the first leaf directly above leaf 0? That is n. Now wind the thread round the stem from leaf to leaf. How many times did it go round?  
   *Child mode:* Find the first leaf above leaf 0 on the same side. Follow the thread round. Count the turns.
-  - Note: Do not worry if no leaf is exactly above. Choose the closest, within about a quarter of a turn either side. Typical results are n and t of 2 and 1, 3 and 1, 5 and 2, or 8 and 3. If the thread goes round the stem a different number of times when you check, use the second count.
+  - Note: Do not worry if no leaf is exactly above. Choose the closest, within about a quarter of a turn either side. Typical results are n = 2 with t = 1, n = 3 with t = 1, n = 5 with t = 2, or n = 8 with t = 3. If the thread goes round the stem a different number of times when you check, use the second count.
   - Check: A thread winds twice round the stem from leaf 0 to the first leaf directly above it, which is leaf 5. How many degrees does each leaf turn from the last? → **144 degrees**
 - **s4 (5 min)**  
   *Parent does:* Work out t divided by n, the fraction of a turn per leaf. Multiply by 360 to find the angle. Write both in the table. Compare your fraction with 1 over 2, 1 over 3, 2 over 5 and 3 over 8.  
-  *Parent says:* Divide the turns by the leaves. That is how much of a circle each leaf turns. Multiply by 360 for the angle. Is it close to one of the fractions on the board?  
+  *Parent says:* Divide the turns by the leaves. That is how much of a circle each leaf turns. Multiply by 360 for the angle. Is your fraction close to 1 over 2, 1 over 3, 2 over 5 or 3 over 8?  
   *Child mode:* Divide turns by leaves. Multiply by 360 for the angle.
   - Ask: Which of 1 over 2, 1 over 3, 2 over 5 and 3 over 8 is your fraction nearest to? (good: 2 over 5.; 3 over 8.; 1 over 2.)
-  - Note: The fractions are 180, 120, 144 and 135 degrees. Many plants are near 2 over 5 or 3 over 8. Both are close to the golden angle, 137.5 degrees. Do not worry if your stem is not tidy. Real stems are never perfect.
+  - Note: In degrees, 1 over 2 is 180, 1 over 3 is 120, 2 over 5 is 144 and 3 over 8 is 135. Many plants are near 2 over 5 or 3 over 8. Both are close to the golden angle, 137.5 degrees. Do not worry if your stem is not tidy. Real stems are never perfect.
 - **s5 (3 min)**  
   *Parent does:* Do the same for a second plant or a second stem. Fill in the next row of the table.  
   *Parent says:* Now try a different plant. Is it the same fraction, or a different one?  
@@ -361,12 +361,12 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Ask: Did the second plant have the same fraction as the first? (good: No, it was different.; Yes, both were about the same.; It was close but not the same.)
   - Note: Different plants often differ. A plant with leaves in pairs gives a pattern of pairs, with each pair turned a quarter of a circle from the last. This is a different arrangement from the one-at-a-time leaves.
 - **s6 (3 min)**  
-  *Parent does:* Ask your child to say what they found. Write the claim, the evidence and the reason.  
+  *Parent does:* Ask your child to say what they found. Write down what they found, the numbers that show it, and the reason.  
   *Parent says:* What did you find? What numbers show it? Why might a plant turn the leaves by this much and not by half a circle?  
   *Child mode:* What did you find? Which numbers show it? Why not half a circle?
   - Ask: Why might it help a plant to turn each leaf by about 140 degrees and not by half a circle? (good: With half a circle, leaves would line up in two rows and shade each other.; A turn like 140 degrees spreads the leaves so each gets light.)
   - Note: A strong answer says: a half turn puts leaf 2 straight over leaf 0, so the leaves line up and shade each other. A turn near 137.5 degrees never lines a leaf up exactly above an earlier leaf, so leaves spread out and share the light.
-  - Check: Which turn between neighbouring leaves would line up every second leaf above the one before it? → **Half a circle**
+  - Check: Which turn between neighbouring leaves would put leaf 2 directly above leaf 0? → **Half a circle**
 
 ## Activities
 ### a1 · Grow a Koch Curve: a 27 centimetre line that keeps getting longer (30 min)
@@ -385,7 +385,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Note: The tent sides and the rubbed-out piece are each 9 centimetres, so they make an equilateral triangle with the missing base. A 60 degree set square or a compass makes this easy. The total is 9 plus 9 plus 9 plus 9, which is 36 centimetres.
   - Check: After one round, the Koch curve has 4 pieces, each 9 centimetres long. What is the total length? → **36 centimetres**
 - **s3 (10 min)**  
-  *Parent does:* Look at each of the four pieces. For each one, find the middle third, which is 3 centimetres. Rub it out and draw a tent with two sides of 3 centimetres. Always put the tent on your left as you walk along the piece from the left end of the page. Count the pieces and add the lengths.  
+  *Parent does:* Look at each of the four pieces. For each one, find the middle third, which is 3 centimetres. Rub it out and draw a tent with two sides of 3 centimetres. Think of walking along the curve from the left end of the page, and always put the tent on your left-hand side. Count the pieces and add the lengths.  
   *Parent says:* Do the same to every piece. Find its middle third. That is 3 centimetres. Rub it out and put in a small tent. Keep the tent on your left as you walk along the curve.  
   *Child mode:* Do the same on each of the four pieces. Use 3 centimetre tents.
   - Note: There will be 16 pieces of 3 centimetres, so the length is 48 centimetres. The tents on the slanting pieces point to the left of the walking direction. Do not worry if the tents are not perfect. The shape is still a Koch curve. The compass method (set to 3 centimetres) works on slanting pieces, where a set square is awkward. With 2 to 4 children, each takes one of the four pieces for round 2 on a shared drawing, then everyone checks one another's tents and adds up the total together. One child alone, with a parent, does all four pieces.
@@ -412,7 +412,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Ask: Do you think the gaps in each will be equal or growing? Why? (good: The rope will be equal and the shell will grow.; Both will be equal.; Both will grow.)
   - Note: Do not correct the guess. Any guess with a reason is good.
 - **s2 (7 min)**  
-  *Parent does:* Lay the ruler across the middle of the coil. Starting at the centre, measure the distance from each turn to the next. Write the gaps. Do the same on a second line across a different part of the coil.  
+  *Parent does:* Lay the ruler across the middle of the coil. Starting at the centre, measure the distance from each turn to the next. Write down each gap. Do the same on a second line across a different part of the coil.  
   *Parent says:* Lay the ruler across the middle. Measure from one turn to the next, going outwards. Write each gap. Are they the same?  
   *Child mode:* Lay the ruler across the coil. Measure each gap. Are the gaps the same?
   - Note: A rope coil has gaps that are almost the same, within a millimetre or two. A murukku made with a press is also nearly equal. If your gaps differ by more than a few millimetres, check that the ruler goes through the centre.
@@ -423,11 +423,11 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Child mode:* Measure the width of each whorl, from the biggest to the smallest.
   - Note: A pointed shell may have five or six whorls. Measure at the widest part of each. Hold the ruler at the same angle each time. The small whorls near the tip are hard to measure, so stop when the whorls are too small. If you have no shell, search for a photo of a pointed shell, hold the ruler to the screen and use the pictured widths.
 - **s4 (5 min)**  
-  *Parent does:* Subtract each width from the one next to it. Then divide each width by the next smaller one. Write both answers. Ask which of the two is nearly the same each time.  
-  *Parent says:* Take away each width from the one before it. Do the answers match? Now divide each width by the one before it. Which gives nearly the same answer each time?  
+  *Parent does:* Subtract each width from the next bigger one. Then divide each width by the next smaller one. Write both answers. Ask which of the two is nearly the same each time.  
+  *Parent says:* Take away each width from the next bigger one. Do the answers match? Now divide each width by the next smaller one. Which gives nearly the same answer each time?  
   *Child mode:* Take away. Then divide. Which gives the same answer each time?
   - Ask: Did taking away or dividing give nearly the same answer each time? (good: Dividing.; The take-aways kept getting bigger but the divisions stayed near the same.; Dividing gave about 1.5 each time.)
-  - Note: For a shell, the take-aways grow while the divisions stay near the same number, often between 1.2 and 2. That number is the fraction by which each whorl is wider than the last. Some shells are less regular, especially if the shell is damaged or the growth was uneven. Real shells are only roughly regular: if the divisions are within about 0.2 of one another while the take-aways clearly grow, the shell passes. If nothing is steady, say so honestly; the shell may be damaged, or you may have measured at different places. With 2 to 4 children, each measures a different shell, then compare the ratios. Two shells of the same kind should give similar ratios, and different kinds can differ. One child alone measures two shells with a parent.
+  - Note: For a shell, the take-aways grow while the divisions stay near the same number, often between 1.2 and 2. That number is the fraction by which each whorl is wider than the last. Real shells are only roughly regular, especially if the shell is damaged or the growth was uneven. If the divisions are within about 0.2 of one another while the take-aways clearly grow, the shell is growing by a fraction. If nothing is steady, say so honestly: the shell may be damaged, or you may have measured at different places. With 2 to 4 children, each measures a different shell, and then they compare the ratios. Two shells of the same kind should give similar ratios, and different kinds can differ. One child alone measures two shells with a parent.
   - Check: A shell has whorl widths of 10, 15 and 22.5 millimetres. What do you get by dividing each width by the one before? → **About 1.5 each time, so the shell grows by a fraction**
 - **s5 (2 min)**  
   *Parent does:* Ask your child to explain the difference between the two spirals.  
@@ -438,7 +438,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 - **safety:** A grown-up helps younger children with the scissors when cutting the paper strips. Fold slowly: thin paper can give a paper cut.
 - **record:** Draw the shape you get after 1, 2, 3 and 4 folds. Write the number of creases for each.
 - **s1 (3 min)**  
-  *Parent does:* Show the strip. Ask your child to guess what shape appears. You will fold the strip in half, then in half again. Then you will open it with the folds at right angles.  
+  *Parent does:* Show the strip. Explain that you will fold it in half, then in half again, and then open it with every fold at a right angle. Ask your child to guess what shape will appear.  
   *Parent says:* We will fold a strip in half, and in half again, always the same way. Then we will open it with every fold at a right angle. What shape do you think we will get? Why?  
   *Child mode:* Fold the strip twice. Open the folds to right angles. What shape will you see?
   - Ask: What shape do you think the folded strip will make? (good: A zig-zag.; A square.; A staircase.)
@@ -451,28 +451,28 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Check: A strip is folded in half twice and opened. How many creases does it have? → **3**
 - **s3 (8 min)**  
   *Parent does:* Take a new strip and fold it in half three times in the same direction. Open it and set the creases to right angles. Trace the shape. Do the same with a fourth strip folded four times. Count the creases each time.  
-  *Parent says:* Fold again, one more time each. Three folds, then four folds. Always the same way. Open and trace. Count the creases.  
+  *Parent says:* Now fold a new strip three times, and another strip four times. Always fold the same way. Open each one and trace it. Count the creases.  
   *Child mode:* Fold three times. Open. Trace. Then fold four times. Open. Trace.
-  - Note: After three folds there are 7 creases, and after four there are 15. After four folds, the shape starts to look like a curly dragon with curls. After five folds the paper is thick and hard to fold, so stop at four. If the creases will not hold, press each one flat with a ruler edge. With 2 to 4 children, each folds and traces their own strip, then lay the shapes side by side to compare. One child alone, with a parent, can fold one strip each and compare.
+  - Note: After three folds there are 7 creases, and after four there are 15. After four folds, the shape starts to look like a curly dragon. After five folds the paper is thick and hard to fold, so stop at four. If the creases will not hold, press each one flat with a ruler edge. With 2 to 4 children, each folds and traces their own strip, and then they lay the shapes side by side to compare. One child with a parent can fold one strip each and compare.
 - **s4 (5 min)**  
   *Parent does:* Fill in the number of creases for 1, 2, 3 and 4 folds. Ask your child to find the pattern and to guess the creases after 5 folds.  
   *Parent says:* The creases are 1, 3, 7 and 15. What do you notice? How many creases after five folds?  
   *Child mode:* The creases are 1, 3, 7 and 15. What is the pattern?
-  - Ask: What is the pattern in the number of creases, and what is next? (good: Double and add 1. After 15 comes 31.; Each is one less than a power of 2.; It goes 1, 3, 7, 15, 31.)
-  - Note: Each fold doubles the creases and adds one more. So 1 becomes 3, 3 becomes 7, 7 becomes 15 and 15 becomes 31. The number is always one less than 2, 4, 8, 16 and 32.
+  - Ask: What is the pattern in the number of creases, and what is next? (good: Double and add 1. After 15 comes 31.; Each is one less than 2, 4, 8 or 16.; It goes 1, 3, 7, 15, 31.)
+  - Note: Each fold doubles the creases and adds one more. So 1 becomes 3, 3 becomes 7, 7 becomes 15 and 15 becomes 31. Each of these numbers is one less than 2, 4, 8, 16 or 32.
   - Check: A strip folded 4 times has 15 creases. How many creases would it have after 5 folds? → **31**
 - **s5 (3 min)**  
   *Parent does:* Compare the shapes after 3 and 4 folds. Ask your child how the bigger shape contains the smaller shape.  
   *Parent says:* Look at the shape after four folds. Can you see the shape from three folds inside it? What does that remind you of?  
   *Child mode:* Look at the four-fold shape. Can you see the three-fold shape inside?
-  - Ask: Can you find a smaller dragon inside the bigger one? (good: Yes, the first half is the same shape as the earlier dragon.; Each part looks like a smaller dragon.; It looks like the Koch curve, with a shape made of smaller copies.)
+  - Ask: Can you find a smaller dragon inside the bigger one? (good: Yes, the first half is the same shape as the three-fold dragon.; Each part looks like a smaller dragon.; It looks like the Koch curve, with a shape made of smaller copies.)
   - Note: The curve after many folds is called the dragon curve. It was first worked out by three physicists, John Heighway, Bruce Banks and William Harter, in 1966, and it was made famous by the writer Martin Gardner in 1967. Each part looks like a smaller dragon, so it is a fractal. If you folded for ever, the dragon curve would cover a patch of the page without crossing itself.
 ### a4 · The Chaos Game: a pattern from dots chosen by a die (26 min)
 - **safety:** Sharpen pencils with a grown-up, or use a sharpener with a cover.
 - **record:** Stick your page in your notebook. Write how many dots you made, and what shape they made.
 - **s1 (4 min)**  
   *Parent does:* On the page, mark corner A at the bottom left and corner B at the bottom right. Mark corner C at the top middle. Each corner is about 18 centimetres from the others. Write the letters. Ask your child to guess what the dots will look like after 50 rolls.  
-  *Parent says:* Three corners, and a die to choose. The rule is to move halfway to the corner the die picks, and put a dot. What will the dots look like after fifty rolls? Why do you think so?  
+  *Parent says:* There are three corners, and a die chooses one each time. The rule is to move halfway to the corner the die picks, and put a dot. What will the dots look like after fifty rolls? Why do you think so?  
   *Child mode:* Mark three corners. Guess what the dots will look like after 50 rolls.
   - Ask: What shape do you think the dots will make? (good: A triangle full of dots.; A mess.; A pattern with holes.)
   - Note: Do not correct the guess. Many children expect a filled triangle or a mess.
@@ -484,16 +484,16 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Parent does:* Roll the die. If it shows 1 or 2, go towards A. If 3 or 4, go towards B. If 5 or 6, go towards C. Measure the distance from your last dot to that corner. Put a new dot halfway. Repeat until you have 50 dots.  
   *Parent says:* Roll. Choose the corner. Measure to it. Put the dot at the halfway point. Then roll again from that dot. Keep going for fifty dots.  
   *Child mode:* Roll. Pick a corner. Put a dot halfway to it. Do this 50 times.
-  - Note: Measuring in millimetres helps. A ruler placed from the dot to the corner gives the distance, and half of it is the new place. Ignore the first three or four dots. They may fall outside the pattern. Fifty dots take about 12 to 15 minutes alone. If it is slow, stop at 40 dots, or share the work: one person rolls and calls the corner, one measures, and one marks the dot. Swap jobs every 10 dots. Do not worry about small errors; each halving shrinks an earlier mistake. No die: pick a paper chit from a bowl of six chits marked A, A, B, B, C, C, and put it back each time. Two to four children can each make their own page and then compare how the holes fall, which shows that chance changes the dots but not the pattern.
+  - Note: Measuring in millimetres helps. A ruler placed from the dot to the corner gives the distance, and half of it is the new place. Ignore the first three or four dots, because they may fall outside the pattern. Fifty dots take about 12 to 15 minutes alone. If it is slow, stop at 40 dots, or share the work: one person rolls and calls the corner, one measures, and one marks the dot. Swap jobs every 10 dots. Do not worry about small errors, because each halving shrinks an earlier mistake. If you have no die, mark six paper chits A, A, B, B, C and C, pick one from a bowl each time, and put it back. Two to four children can each make their own page and then compare where the holes fall. This shows that chance changes the dots but not the pattern.
 - **s4 (4 min)**  
   *Parent does:* Look at the dots together. Ask where there are gaps, and what shape the gaps make.  
   *Parent says:* Look at the page. Are there places with no dots? What shape are they? What do you see inside the gaps?  
   *Child mode:* Look at the dots. Where are there gaps? What shape are the gaps?
   - Ask: What do you notice about the gaps in the dots? (good: There is a hole in the middle, shaped like a triangle.; There are smaller holes round the edges too.; The dots make triangles with triangles inside.)
-  - Note: After 50 dots, the middle of the triangle usually has a clear hole, and smaller holes appear nearer the corners. With 50 dots the holes are only hinted at: it is typical, not exact, so say what you see. With 200 or more dots, the pattern becomes the Sierpinski triangle, a triangle made of three smaller triangles, each made of three smaller ones, and so on. It is a triangle with triangles inside triangles.
+  - Note: After 50 dots, the middle of the triangle usually has a clear hole, and smaller holes appear nearer the corners. With only 50 dots the holes are faint and your page may look a little different, so say what you really see. With 200 or more dots, the pattern becomes the Sierpinski triangle, a triangle made of three smaller triangles, each made of three smaller ones, and so on. It is a triangle with triangles inside triangles.
   - Check: In the Chaos Game, the dots go wherever the die says. Why does the same pattern still appear each time? → **The rule of moving halfway to a corner never lands a dot in the middle holes, however the die falls**
 - **s5 (4 min)**  
-  *Parent does:* Ask your child to say what surprised them. Ask them to think of one more thing where a simple rule and chance make a pattern.  
+  *Parent does:* Ask your child to say what surprised them. Ask them to think of one more place where a simple rule and chance make a pattern.  
   *Parent says:* Chance chose each corner, but the shape came out the same way each time. What surprised you? Where else might a simple rule and chance make a pattern?  
   *Child mode:* Chance chose each corner. The shape still appeared. What surprised you?
   - Ask: Where else might a simple rule and chance make a pattern? (good: Snow falling in a pile.; The branching cluster in the Stick and Wander game.; Raindrops on a window.)
@@ -528,15 +528,15 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 - **your turn:** Design your own network for the 16 pots. Work out the distance from the tap to each pot, and the total length of pipe. Then see whether a friend can find a network with less pipe that still gives equal distances.
 - **constraints:** Draw on squared paper, with 1 square standing for 15 centimetres. The pots sit on the grid points, 2 squares apart.; Pipes must run along the grid lines.; The tap is in the middle of the 4 by 4 square of pots.; The distance from the tap to every pot, along the pipes, must be exactly the same.
 - **general:** A star: a separate pipe from the tap to each pot, along the grid lines. This is easy, but the distances differ from pot to pot, and there is a lot of pipe.; A comb: one long pipe through the middle with side pipes to each pot. The distances differ from pot to pot.
-- **creative:** An H-tree: split the pipe into two, then each into two, again and again, so every pot is reached after the same number of splits. This is a fractal.; Try the same idea with 64 pots in an 8 by 8 square. How much more pipe do you need?; A tree that splits into three at each step. Does it still deliver water to every pot equally?
+- **creative:** An H-tree: split the pipe into two, then each into two, again and again, so every pot is reached after the same number of splits. This is a fractal.; Try the same idea with 64 pots in an 8 by 8 square. How much more pipe do you need?; Try a tree that splits into three at each step. Does it still deliver water to every pot equally?
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Mark the 16 pots and the tap on squared paper. Ask your child to sketch a first idea.  
-  *Parent says:* Sixteen pots, and one tap in the middle. The water should reach every pot after the same distance. How could the pipes go? Draw a first idea.  
+  *Parent says:* There are sixteen pots, and one tap in the middle. The water should reach every pot after the same distance. How could the pipes go? Draw a first idea.  
   *Child mode:* Mark the 16 pots and the tap. Draw a first idea for the pipes.
   - Ask: How could the pipes go so that every pot is the same distance from the tap? (good: Split the pipe into two again and again.; A pipe straight to each pot.; The same number of bends to every pot.)
 - **s2 (8 min)**  
   *Parent does:* Draw a separate pipe from the tap to each pot, along the grid lines. Count the squares from the tap to the nearest pot and to the furthest pot. Add up the pipe.  
-  *Parent says:* Try a star first. Is the nearest pot the same distance as the furthest? How much pipe is that in all?  
+  *Parent says:* Try a star first: a separate pipe from the tap to each pot. Is the nearest pot the same distance from the tap as the furthest? How much pipe is that in all?  
   *Child mode:* Draw a pipe from the tap to every pot. Which pot is nearest? Which is furthest?
   - Note: The star gives different distances for pots near to and far from the tap, so the near pots would get water first. This shows the problem to solve. Along the grid lines the nearest pots are 2 squares away and the furthest 6, and the separate pipes add up to 64 squares. Work alone with a parent, or in a group of 2 to 4 where each child designs a network and then everyone checks the others.
 - **s3 (12 min)**  
@@ -545,7 +545,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   *Child mode:* Draw an H-tree step by step. Check it reaches every pot.
   - Check: In the H-tree, the path to a pot is 2, then 2, then 1, then 1 squares. How many squares is the path to each pot, and is it the same for every pot? → **6 squares, and it is the same for every pot**
 - **s4 (5 min)**  
-  *Parent does:* Add up all the pipe in the H-tree. Count the pieces of each length. There are 2 pieces of 2 squares and 4 more of 2 squares. There are 8 of 1 square and 16 of 1 square. Compare it with the star.  
+  *Parent does:* Add up all the pipe in the H-tree. Count the pieces of each length. There are 2 pieces of 2 squares, then 4 more pieces of 2 squares, then 8 pieces of 1 square, then 16 more pieces of 1 square. Compare the total with the star.  
   *Parent says:* Add up all the pipe. How many pieces of each length? How much pipe in all? Which design uses less pipe, the star or the H?  
   *Child mode:* Add up all the pipe in the H-tree. Compare it with the star.
   - Ask: Which design is better, the star or the H-tree, and why? (good: The H-tree, because every pot gets water at the same time.; The star has pots at different distances, and it uses more pipe than the H-tree.; It depends on what you want.)
@@ -569,7 +569,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 6. (match) Match each word to what it means.  
    **Answer:** Archimedean spiral → Equal gaps between the turns; Logarithmic spiral → Each turn a fixed fraction wider; Iteration → Repeating one step on its own result; Dimension → How size grows when a shape is doubled; Cluster → A growing group of things stuck together. *Why:* These five words are the vocabulary of this unit. A strong answer could give an example of each: a rope coil, a shell, folding a strip again and again, a line, and the shape from the Stick and Wander game.
 7. (sort) Sort each spiral by how its coils grow.  
-   **Answer:** a coiled rope → Equal gaps (adds the same amount); a snail shell → Growing gaps (multiplies by a fraction); an unlit mosquito coil → Equal gaps (adds the same amount); a nautilus shell → Growing gaps (multiplies by a fraction); a murukku made with a press → Equal gaps (adds the same amount); a long pointed shell → Growing gaps (multiplies by a fraction). *Why:* A coil that is pressed or laid down evenly has equal gaps. A shell grows by adding to the opening a bit wider each time, so its gaps grow.
+   **Answer:** a coiled rope → Equal gaps (adds the same amount); a snail shell → Growing gaps (multiplies by a fraction); an unlit mosquito coil → Equal gaps (adds the same amount); a nautilus shell → Growing gaps (multiplies by a fraction); a murukku made with a press → Equal gaps (adds the same amount); a long pointed shell → Growing gaps (multiplies by a fraction). *Why:* A coil that is pressed or laid down evenly has equal gaps. A shell adds to her opening, a bit wider each time, so the gaps grow.
 8. (order) Put the steps for making one round of a Koch curve in order.  
    **Answer:** ['Draw a straight line', 'Mark the line in thirds', 'Rub out the middle third of the line', 'Draw a tent whose two sides are as long as the piece you rubbed out']. *Why:* First you need a line, then you mark the thirds so you know which piece to remove. Only after rubbing out the middle third can you put the tent in its place.
 9. (mcq) A Koch curve is 27 centimetres long. After one round it is 36 centimetres long. How long is it after two rounds?  
@@ -585,7 +585,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 13. (mcq) A plant turns 2 over 5 of a circle between neighbouring leaves. How many degrees is that?  
    Options: 72 degrees / 144 degrees / 180 degrees / 200 degrees  
    **Answer:** 144 degrees. *Why:* A full circle is 360 degrees. 360 times 2, divided by 5, is 144 degrees. 72 degrees is 1 over 5 of a circle.
-14. (write) In the leaf test, why would it be a poor plan for a plant to turn each leaf exactly half a circle from the last?  
+14. (write) In the Leaf Staircase test, why would it be a poor plan for a plant to turn each leaf exactly half a circle from the last?  
    **Answer:** After two leaves the stem has made a whole turn, so the third leaf sits directly above the first. All the leaves line up in two rows. Each leaf shades the leaf below it, so the lower leaves get little light.. *Why:* A strong answer says that half a turn twice is a whole turn, so leaves stack in two rows and shade each other.
 15. (draw) Draw a Koch curve starting from a line 9 centimetres long. Draw the line, then round 1, and write the length after each.  
    **Answer:** A 9 centimetre line, then the same line with a tent of two 3 centimetre sides in the middle third. The lengths are 9 and 12 centimetres.. *Why:* The middle third is 3 centimetres. Replacing it with two 3 centimetre sides adds 3 centimetres, so the length is 12. That is 9 times 4 over 3.
@@ -605,7 +605,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
    **Answer:** 192 centimetres. *Why:* Round 1: 81 times 4 over 3 is 108. Round 2: 108 times 4 over 3 is 144. Round 3: 144 times 4 over 3 is 192.
 5. (truefalse) A Koch snowflake has an edge of endless length but an area that stays small.  
    **Answer:** True. *Why:* True. Each round makes the edge longer, so it grows without end. But the tents are tiny and never leave the region around the triangle, so the area stays less than 1.6 times the starting triangle.
-6. (mcq) A teacher says a Koch curve is exactly self-similar but a real coast is self-similar only on average. What does that mean?  
+6. (mcq) A Koch curve is exactly self-similar, but a real coast is self-similar only on average. What does that mean?  
    Options: No small part of a real coast is an exact copy of a bigger part, but the coast looks about as rough at every size / Real coasts are smooth / A Koch curve is not rough / Real coasts are exact copies of themselves  
    **Answer:** No small part of a real coast is an exact copy of a bigger part, but the coast looks about as rough at every size. *Why:* In a Koch curve each small piece is an exact copy of a bigger piece. A real coast only looks equally rough at different sizes, and only over a range of sizes.
 7. (mcq) A plant turns 3 over 8 of a circle between neighbouring leaves. After 8 leaves, how many whole turns has the stem made?  
@@ -624,14 +624,14 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
    **Answer:** A wandering walker meets a tip before it reaches a hollow. *Why:* A walker coming from outside meets the parts that stick out first. Those parts catch the most walkers and grow, while the hollows between arms stay hidden.
 13. (write) A rope coil and a shell are both spirals. Explain one way they are the same and one way they are different.  
    **Answer:** Both wind round a centre and get wider as they go out. The rope adds the same amount each turn, so its gaps are equal. The shell multiplies by a fixed fraction, so its gaps grow and its shape stays the same.. *Why:* A strong answer names a similarity, such as winding round a centre, and the key difference between adding the same amount and multiplying by the same fraction.
-14. (write) A friend says a sink drains one way in India and the opposite way in Australia because of the Earth's spin. Is she right? Say what is true and what is not.  
+14. (write) Some people say a sink drains one way in India and the opposite way in Australia because of the Earth's spin. Are they right? Say what is true and what is not.  
    **Answer:** The Earth's spin does make cyclones spin in opposite directions in the northern and southern halves. But a sink is far too small for the effect to matter. The way a sink swirls depends on its shape and how the water was stirred.. *Why:* A strong answer separates the cyclone, where the effect is real, from the sink, where it is too weak to notice.
 15. (draw) Draw a tree where every branch splits into two shorter branches, with three levels of splitting. Count the tips.  
    **Answer:** A trunk that splits into 2, then 4, then 8 branches, so there are 8 tips.. *Why:* Each level doubles the number of branches: 2, then 4, then 8. Doubling again and again grows the number of tips quickly.
 16. (label) Label the drawing of a stem seen from above: mark leaf 0, mark leaf 1, and write the angle between them if each leaf turns 2 over 5 of a circle.  
    **Answer:** Leaf 0 and leaf 1 marked, with an arc between them labelled 144 degrees.. *Why:* 2 over 5 of 360 degrees is 144 degrees. A strong label shows the angle measured from leaf 0 to leaf 1 round the stem.
 17. (perspective) Two friends discuss why plants often have Fibonacci numbers of spirals.  
-   **Answer:** A strong answer sees that the rule about gaps explains the numbers without the plant doing sums, which supports Meera. Aarav is right that the numbers are really there and that the plant's growth does something that behaves like maths. Scientists also still debate the exact process.. *Why:* A strong answer prefers an explanation that uses a simple rule over one that uses an expert plant, and still gives the other friend credit. The exact process is still being studied.
+   **Answer:** A strong answer sees that the rule about gaps explains the numbers without the plant doing sums, which supports the second friend. The first friend is right that the numbers are really there and that the plant's growth does something that behaves like maths. Scientists also still debate the exact process.. *Why:* A strong answer prefers an explanation that uses a simple rule over one that uses an expert plant, and still gives the other friend credit. The exact process is still being studied.
 ### Hard Thinking About Patterns (challenge) (challenge, 15 questions)
 1. (mcq) A line's box counts are 6, 15 and 38 as the boxes are halved each time. What is the best estimate of its roughness number?  
    Options: 1.0 / 1.3 / 1.7 / 2.0  
@@ -652,11 +652,11 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
    Options: It makes the leaves line up in straight rows / It stops one leaf from sitting exactly above another / It spreads the leaves round the stem / It gives every leaf a share of the light  
    **Answer:** It makes the leaves line up in straight rows. *Why:* A turn near 137.5 degrees never lines a leaf up exactly above another. That is why it spreads the leaves. Lining up in straight rows is what a half turn or a third turn does.
 8. (perspective) Two students talk about a measured coast.  
-   **Answer:** A strong answer notes that a real coast is rough only over a range of sizes, and different ranges or methods give different numbers, which supports Dev. Neha is right that the numbers are often close and useful for comparing coasts. Scientists still debate how much weight the single number deserves.. *Why:* A strong answer says what the number can do, which is compare coasts, and what it cannot do, which is claim to be the one truth about the coast.
+   **Answer:** A strong answer notes that a real coast is rough only over a range of sizes, and different ranges or methods give different numbers, which supports the second student. The first student is right that the numbers are often close and useful for comparing coasts. Scientists still debate how much weight the single number deserves.. *Why:* A strong answer says what the number can do, which is compare coasts, and what it cannot do, which is claim to be the one truth about the coast.
 9. (sort) Sort each shape by whether it is an exact fractal or a rough copy found in nature.  
    **Answer:** a Koch curve drawn by a computer for ever → Exact fractal (repeats for ever by a rule); a real fern → Rough copy (repeats only on average over some sizes); a coastline → Rough copy (repeats only on average over some sizes); a Sierpinski triangle made of endless smaller triangles → Exact fractal (repeats for ever by a rule); a cauliflower → Rough copy (repeats only on average over some sizes); a tree seen from a window → Rough copy (repeats only on average over some sizes). *Why:* A mathematical fractal repeats for ever by a rule. Real coasts, ferns, cauliflowers and trees only look alike at a few sizes, and only roughly.
 10. (match) Match each cause to what it helps to make.  
-   **Answer:** Tips catch more walkers → A branching cluster; The Earth's spin bending moving air → A cyclone's spiral; Two chemicals spreading and reacting → Stripes on an angelfish; Each coil a fixed fraction wider → The shape of a shell. *Why:* Each shape has its own cause. The same words do not explain all of them, so a strong answer would add the evidence for each.
+   **Answer:** Tips catch more walkers → A branching cluster; The Earth's spin bending moving air → A cyclone's spiral; Two chemicals spreading and reacting → Stripes on an angelfish; Each coil a fixed fraction wider → The shape of a shell. *Why:* Each shape has its own cause. One explanation does not cover all of them, so a strong answer gives the evidence for each.
 11. (mcq) A computer model makes stripes like a zebra's. Does this prove that zebras make their stripes in the same way?  
    Options: No, a model that makes the right picture is not proof of the process / Yes, it proves it / Only if the model is complicated / Only if the stripes are black and white  
    **Answer:** No, a model that makes the right picture is not proof of the process. *Why:* Many different processes can make the same picture. To show that the animal uses the process, scientists must find the chemicals or test what changes when they are altered.
@@ -682,7 +682,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 2. (mcq) A straight line touches 6 boxes. The boxes are cut to half their width. How many boxes does the line touch?  
    Options: 12 / 24 / 9 / 6  
    **Answer:** 12. *Why:* A line has dimension 1, so halving the boxes doubles the count. 6 doubled is 12. 24 would be for a filled page.
-3. (mcq) A coast's box count rises from 10 to 24 when the boxes are halved. About what is the ratio?  
+3. (mcq) A coast's box count rises from 10 to 24 when the boxes are halved. What is the ratio of the two counts?  
    Options: 2.4 / 14 / 0.4 / 34  
    **Answer:** 2.4. *Why:* 24 divided by 10 is 2.4. The ratio is between 2 for a line and 4 for a page, so the coast has a roughness number of about 1.3.
 4. (mcq) In a Koch curve, what do you do to every straight piece in each round?  
@@ -694,7 +694,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 6. (mcq) Which statement describes how a snail shell grows?  
    Options: Each whorl is a fixed fraction wider than the last / Each whorl is the same amount wider than the last / Each whorl is narrower than the last / Each whorl has a random width  
    **Answer:** Each whorl is a fixed fraction wider than the last. *Why:* A shell grows by multiplying by the same fraction, so the shape stays the same. Adding the same amount is how a rope coil grows.
-7. (mcq) Whorls of a broken shell measure 45 and 30 millimetres, widest first, and the ratio between whorls is the same all the way. What is the next smaller whorl?  
+7. (mcq) Two whorls of a broken shell are 45 and 30 millimetres wide. Each whorl is the same number of times wider than the one before. How wide is the next smaller whorl?  
    Options: 15 millimetres / 20 millimetres / 25 millimetres / 22.5 millimetres  
    **Answer:** 20 millimetres. *Why:* 45 divided by 30 is 1.5. To go backwards, divide by 1.5, and 30 divided by 1.5 is 20. Subtracting 15 would be wrong, because a shell multiplies and does not add.
 8. (mcq) A plant turns 1 over 3 of a circle from one leaf to the next. How many degrees is that?  
@@ -736,20 +736,20 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 - A coil of coir rope, a mosquito coil or a murukku with equal gaps between the turns.
 
 ## Open questions
-- **Why do so many plants use turns close to the golden angle?** The packing idea and the growing tip idea both fit the evidence. Scientists are still working out how they fit together, and some plants do not follow the pattern at all.
+- **Why do so many plants use turns close to the golden angle?** Two ideas both fit the evidence: one about how leaves or seeds pack together, and one about how the growing tip places each new leaf. Scientists are still working out how they fit together, and some plants do not follow the pattern at all.
 - **How do the spiral arms of a galaxy last for billions of years?** The density wave idea is one explanation, and other ideas suggest that arms come and go. Observations of other galaxies and computer models are still being compared.
 - **Do animals such as leopards and zebras form their spots and stripes by a Turing process?** Turing patterns are supported in a few animals, but in most the chemicals have not been found.
-- **How does a snail's body set the fraction by which each new coil is wider?** Scientists know the genes involved in a few cases of the direction of coiling, but how the rate of widening is set is less clear.
+- **How does a snail's body set the fraction by which each new coil is wider?** In a few cases scientists know the genes that set which way a shell coils. How the rate of widening is set is less clear.
 - **Is a coast really a fractal, or is the idea only a convenient description?** Coasts are rough over a range of sizes, but the measured number changes with the range and the method, and mathematicians disagree about how much it means.
 - **Which other natural branching patterns follow Leonardo's rule or Murray's law, and why?** The rules fit many trees and vessels, but explanations differ and some plants and animals do not follow them closely.
 
 ## Questions to ask kids
-- If you made the cauliflower twice as big in every direction, how much more cauliflower would you have?
+- If you made a cauliflower twice as big in every direction, how much more cauliflower would you have?
 - Which of the things in this kitchen has bends inside bends?
 - Where have you seen a branching shape today?
 - Why do you think lungs and trees both branch?
 - Which way do the leaves of the plant on our balcony turn as they climb?
-- Is a snail shell a rope coil or a growing coil? How can you tell?
+- Does a snail shell have equal gaps like a rope coil, or growing gaps? How can you tell?
 - If a coast has no single length, how would you tell a friend how long it is?
 - What is the smallest piece of a fern that still looks like a fern?
 - Why does a cyclone spin, and does a sink spin the same way?
@@ -768,12 +768,12 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 
 ## Connected maths
 - A Koch curve starts as a line 27 centimetres long. Each round multiplies the length by 4 over 3. After how many rounds is the curve first longer than 100 centimetres? **5 rounds.**. The lengths are 36, 48, 64, about 85 and about 114 centimetres after rounds 1 to 5. Round 4 is 85, which is still less than 100. Round 5 is the first over 100. (queues `math.multiplication.multiplication-facts.L4`)
-- Box counts for a drawn coast were 11, 27 and 64 boxes for boxes of 4, 2 and 1 centimetres. What are the two ratios, and what roughness number does their middle give, using the table: 2.4 gives 1.3, 2.6 gives 1.4? **27 divided by 11 is about 2.45, and 64 divided by 27 is about 2.37. The middle is about 2.4, so the roughness number is about 1.3.**. 27 divided by 11 is 2.45 and 64 divided by 27 is 2.37. The middle of the two is about 2.4. The table gives a roughness number of 1.3 for a ratio of 2.4. (queues `math.fractions.ratio-and-proportion.L4`)
+- The box counts for a drawn coast were 11, 27 and 64 for boxes of 4, 2 and 1 centimetres. Work out the two ratios. Then find the number halfway between them. What roughness number does it give? Use this table: a ratio of 2.4 gives 1.3, and a ratio of 2.6 gives 1.4. **27 divided by 11 is about 2.45, and 64 divided by 27 is about 2.37. The middle is about 2.4, so the roughness number is about 1.3.**. 27 divided by 11 is 2.45 and 64 divided by 27 is 2.37. The middle of the two is about 2.4. The table gives a roughness number of 1.3 for a ratio of 2.4. (queues `math.fractions.ratio-and-proportion.L4`)
 - A plant turns 3 over 8 of a circle from one leaf to the next, which is 135 degrees. How many degrees has the stem turned from leaf 0 to leaf 8? How many whole turns is that? **1080 degrees, which is 3 whole turns.**. 8 times 135 is 1080. A whole turn is 360 degrees, and 1080 divided by 360 is 3. So leaf 8 sits directly above leaf 0 after 3 turns. (queues `math.lines-angles.angles.L4`)
 - Plant A turns 2 over 5 of a circle between leaves. Plant B turns 3 over 8. Which turns more between leaves? Compare the fractions and then the angles. **Plant A turns more. 2 over 5 is 144 degrees and 3 over 8 is 135 degrees.**. As fractions with a common bottom of 40, 2 over 5 is 16 over 40 and 3 over 8 is 15 over 40. 16 is more than 15. In degrees, 144 is more than 135. (queues `math.fractions.fractions-of-a-whole.L4`)
 - The whorls of a shell are 20 millimetres and 30 millimetres wide, and the ratio between neighbouring whorls stays the same. How wide are the next two bigger whorls? **45 millimetres and 67.5 millimetres.**. The ratio is 30 divided by 20, which is 1.5. The next whorl is 30 times 1.5, which is 45. The one after is 45 times 1.5, which is 67.5. (queues `math.multiplication.multi-digit.L4`)
-- A paper strip is folded in half and opened, and has 1 crease after one fold, 3 after two, 7 after three and 15 after four. How many creases after ten folds? **1023 creases.**. After n folds there are 2 multiplied by itself n times, minus 1. For 10 folds, 2 multiplied 10 times is 1024. Subtracting 1 gives 1023. (queues `math.patterns.number-patterns.L4`)
-- Maha rolled a die 60 times for the Chaos Game. Corner A came up 26 times, corner B 15 times and corner C 19 times. About how many times would you expect each corner? Does the result show the die is unfair? **About 20 times each. No, the difference is common with a fair die.**. A fair die sends the dot to each corner a third of the time, so 60 divided by 3 is 20. Counts of 26, 15 and 19 are all a few away from 20. Such differences happen often by chance, so 60 rolls are too few to say the die is unfair. (queues `math.probability.experiments.L4`)
+- A paper strip folded in half again and again, always the same way, has 1 crease after one fold, 3 after two, 7 after three and 15 after four. How many creases will it have after ten folds? **1023 creases.**. After n folds there are 2 multiplied by itself n times, minus 1. For 10 folds, 2 multiplied 10 times is 1024. Subtracting 1 gives 1023. (queues `math.patterns.number-patterns.L4`)
+- A die was rolled 60 times for the Chaos Game. Corner A came up 26 times, corner B 15 times and corner C 19 times. About how many times would you expect each corner to come up? Does this result show the die is unfair? **About 20 times each. No, the difference is common with a fair die.**. A fair die sends the dot to each corner a third of the time, so 60 divided by 3 is 20. Counts of 26, 15 and 19 are all a few away from 20. Such differences happen often by chance, so 60 rolls are too few to say the die is unfair. (queues `math.probability.experiments.L4`)
 - In the H-tree for 16 pots, the pipes are 2 pieces of 2 squares, 4 pieces of 2 squares, 8 pieces of 1 square and 16 pieces of 1 square. Each square stands for 15 centimetres. How long is the whole network in metres and centimetres, and how far is each pot from the tap? **The network is 36 squares, which is 540 centimetres, or 5 metres 40 centimetres. Each pot is 6 squares, or 90 centimetres, from the tap.**. 2 pieces of 2 squares is 4, 4 pieces of 2 squares is 8, 8 pieces of 1 square is 8 and 16 pieces of 1 square is 16. 4 plus 8 plus 8 plus 16 is 36 squares. 36 times 15 is 540 centimetres. The path to each pot is 2 plus 2 plus 1 plus 1, which is 6 squares, and 6 times 15 is 90 centimetres. (queues `math.length.standard-units-length.L4`)
 
 ## Song

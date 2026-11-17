@@ -3,7 +3,7 @@
  "title": "Swings and pendulums: how a swing trades height for speed",
  "level": 4,
  "summary": {
-  "text": "Hold a bag of coins on a thread at the height of your chin and let it go. It never swings back higher than where it started. Stop its thread with a pencil halfway, so the bag has to swing in a much tighter curve, and it still climbs to the same height. Your child tests this with a thread and a bag of coins, then finds out how much harder a bag hits a box when it falls from higher up. They learn that height and speed are two forms of one thing, called energy, that a swing keeps trading back and forth. They also find out why a swing slowly dies down, why a push at the right moment makes it grow, and how to time a swing so the stopwatch error almost disappears.",
+  "text": "Hold a bag of coins on a thread at the height of your chin and let it go. It never swings back higher than where it started. Stop its thread with a pencil halfway, so the bag has to swing in a much tighter curve, and it still climbs to the same height. Your child tests this with a thread and a bag of coins, then finds out how much harder a bag hits a box when it falls from higher up. They learn that a swing keeps trading its height for speed, and its speed for height. What is being traded is called energy. They also find out why a swing slowly dies down, why a push at the right moment makes it grow, and how to time a swing so the stopwatch error almost disappears.",
   "art": "A bag of coins on a thread swinging past a pencil peg stuck out from a wall, with a horizontal pencil line on the wall showing that the bag rises to the same height on both sides."
  },
  "intro": {
@@ -125,7 +125,7 @@
    "status": "defined",
    "context": "This card gives the two words you need to talk about a swing: height energy and movement energy.",
    "definition": "A thing high up has height energy, because it can fall. A moving thing has movement energy. A swing keeps swapping one for the other.",
-   "description": "Hold a bag of coins high and let go. It falls, and the further it falls, the faster it goes. The height it had is turning into speed. Scientists call the energy of height gravitational potential energy, and the energy of movement kinetic energy. In this unit we say height energy and movement energy. Both are measured in joules. A thing held higher has more height energy. A thing moving faster has more movement energy. Mass matters too, because a heavy thing held at the same height has more of both. But for the swing, the bob's mass stays the same, so only height and speed change.",
+   "description": "Hold a bag of coins high and let go. It falls, and the further it falls, the faster it goes. The height it had is turning into speed. Scientists call the energy of height gravitational potential energy, and the energy of movement kinetic energy. In this unit we say height energy and movement energy. Both are counted in a unit called the joule. A thing held higher has more height energy. A thing moving faster has more movement energy. Mass matters too, because a heavy thing held at the same height has more of both. But for the swing, the bob's mass stays the same, so only height and speed change.",
    "examples": [
     "A cricket ball held on the roof has height energy. After it falls, the same energy is in its movement.",
     "A water tank on a roof has height energy. The water falls through the pipe and arrives at the tap with speed.",
@@ -140,7 +140,7 @@
    "status": "defined",
    "context": "This card explains where a swinging bob gets its speed and why it climbs again on the far side.",
    "definition": "On the way down, a bob loses height and gains speed. On the way up, it loses speed and gains height. The two add up to a total that stays almost the same.",
-   "description": "Pull a bob to one side and you lift it, so it has height energy and no movement. Let go. Gravity pulls it down, height turns into speed, and at the very bottom the bob moves fastest. Then it rushes up the other side. Its speed turns back into height until it stops for a moment at the top. It stops at nearly the same height it started from, because the energy it had is still there. If it climbed higher, it would have made new energy from nothing. Nobody has ever seen this happen. The bob always comes back a tiny bit lower. A little energy leaks into the air as warmth.",
+   "description": "Pull a bob to one side and you lift it, so it has height energy and no movement. Let go. Gravity pulls it down, height turns into speed, and at the very bottom the bob moves fastest. Then it rushes up the other side. Its speed turns back into height until it stops for a moment at the top. It stops at nearly the same height it started from, because the energy it had is still there. If it climbed higher, it would have made new energy from nothing. Nobody has ever seen this happen. The bob always comes back a tiny bit lower. A little of its energy goes into the air and the pivot as warmth.",
    "examples": [
     "The chain swing in a park is fastest at the bottom, where you feel your tummy flip.",
     "A bag of coins let go from chin height never touches your nose on its way back.",
@@ -169,7 +169,7 @@
    "status": "defined",
    "context": "This card gives a short rule for working out how long a pendulum of any length takes for one full swing.",
    "definition": "For a small swing, the period in seconds is about twice the square root of the length in metres. A pendulum 1 metre long takes about 2 seconds, and one 25 centimetres long takes about 1 second.",
-   "description": "A square root is the number that, multiplied by itself, gives the number you started with. The square root of 4 is 2, because 2 times 2 is 4. The square root of a quarter is a half. A 25 centimetre pendulum is a quarter of a metre long. The square root of a quarter is a half, and twice a half is 1 second. For a 1 metre pendulum, the square root of 1 is 1, and twice that is 2 seconds. A 4 metre pendulum takes 4 seconds. To make a swing take twice as long, you need a thread 4 times as long. The full rule is that the period equals 2 times pi times the square root of the length divided by the strength of the Earth's pull. The weight of the bob does not appear in it at all.",
+   "description": "A square root is the number that, multiplied by itself, gives the number you started with. The square root of 4 is 2, because 2 times 2 is 4. The square root of a quarter is a half, because a half times a half is a quarter. A 25 centimetre pendulum is a quarter of a metre long. The square root of a quarter is a half, and twice a half is 1 second. For a 1 metre pendulum, the square root of 1 is 1, and twice that is 2 seconds. A 4 metre pendulum takes 4 seconds. To make a swing take twice as long, you need a thread 4 times as long. The full rule is this. The period equals 2 times pi times the square root of the length divided by the strength of the Earth's pull. Pi is the number, about 3.14, that you meet in every circle. The weight of the bob does not appear in the rule at all.",
    "examples": [
     "A pendulum of 25 centimetres takes about 1 second. One of 100 centimetres takes about 2 seconds.",
     "A clock pendulum that ticks once a second each way is about 1 metre long.",
@@ -183,7 +183,7 @@
    "status": "defined",
    "context": "This card explains why a pendulum swings more slowly on the Moon, and how a pendulum can measure the pull of the Earth.",
    "definition": "A pendulum's period depends on the length and on the strength of gravity. Where gravity is weaker, the same pendulum swings more slowly.",
-   "description": "On the Moon, gravity is about one sixth as strong as on Earth. The same pendulum would take about two and a half times longer for each swing. So a pendulum can be used to measure gravity. Time a pendulum of known length, and the rule can be turned round to give the Earth's pull. In 1672, a French astronomer called Jean Richer took a clock with a pendulum to Cayenne, in South America, near the equator. He reported that it lost about two and a half minutes a day compared with Paris. The Earth pulls a little less near the equator, so the same pendulum swings a little more slowly. Today the strength of gravity near the Earth's surface is about 9.8 in units called metres per second per second.",
+   "description": "On the Moon, gravity is about one sixth as strong as on Earth. The same pendulum would take about two and a half times longer for each swing. So a pendulum can be used to measure gravity. Time a pendulum of known length, and the rule can be turned round to give the Earth's pull. In 1672, a French astronomer called Jean Richer took a clock with a pendulum to Cayenne, in South America, near the equator. He reported that it lost about two and a half minutes a day compared with Paris. The Earth pulls a little less near the equator, so the same pendulum swings a little more slowly. Near the Earth's surface, a falling thing goes faster by about 9.8 metres per second, every second. Scientists use 9.8 as the number that says how strong the Earth's pull is.",
    "examples": [
     "On the Moon a 1 metre pendulum would take about 5 seconds for a full swing, instead of 2.",
     "A pendulum clock moved to a high mountain runs very slightly slow.",
@@ -211,7 +211,7 @@
    "status": "defined",
    "context": "This card explains how a person on a swing can go higher without anyone pushing.",
    "definition": "A person on a swing can add energy by standing up and crouching down at the right moments. This makes the swing act like a slightly shorter and then a slightly longer pendulum, in time with the swing.",
-   "description": "A swing is a pendulum, and you are the bob. When you crouch at the highest point of each swing and stand up at the lowest point, you push your body up against the pull of gravity and of the swing. That push adds energy. The swing climbs higher with every pump. Sitting down and swinging your legs works in a similar way, because you move your centre of mass at the right moments. Moving your body at the wrong moments takes energy away. Scientists have worked out that the best timing is two pumps in each full swing: one at each end of the path. You can copy this with a coin pendulum and a straw. Pull the thread up through the straw when the bob passes the bottom, and let it out at the ends.",
+   "description": "A swing is a pendulum, and you are the bob. When you stand up at the lowest point of the swing, your muscles lift your body against the pull of gravity. The swing is pulling you down hard at that moment, so this takes work from your muscles. That work goes into the swing as extra energy. When you crouch at the highest point, you give very little back. So the swing climbs higher with every pump. Sitting down and swinging your legs works in a similar way, because you move your centre of mass at the right moments. Moving your body at the wrong moments takes energy away. Scientists have worked out that the best timing is two pumps in each full swing. You stand up every time you pass the bottom, and that happens twice in one full swing. You can copy this with a coin pendulum and a straw. Pull the thread up through the straw when the bob passes the bottom, and let it out at the ends.",
    "examples": [
     "A child on a park swing standing up at the bottom and crouching at the top.",
     "A trapeze artist leaning at the right moments of each swing.",
@@ -256,7 +256,7 @@
    "description": "Say your reaction is a fifth of a second late each time you press the button. If you time a single swing of 1 second, your answer may be 20 percent wrong. If you time 30 swings that take 30 seconds, the same mistake is less than 1 percent of the total. Then you divide by 30 to get the time of one swing. This is why the tests in the earlier unit on pendulums timed 10 swings and not one. It is also why scientists repeat a test and use the mean, which is the total of the results divided by how many there are. An odd result that sits far from the others is worth checking again, and not just throwing away. Timing 100 swings would be even better, but a pendulum dies down, and your attention wanders. Choosing how many to time is a balance.",
    "examples": [
     "A time of 1.3 seconds for one swing can be wrong by 0.3 seconds. A time of 30.4 seconds for 30 swings is only wrong by about 1 percent.",
-    "Divers, athletes and bakers repeat their timing for the same reason.",
+    "A runner's lap time is more trustworthy if you time ten laps and divide by ten.",
     "Scientists who keep the exact second today count the beats of atoms, billions of them, for the same reason: the more beats you count, the smaller the share of the mistake."
    ],
    "perspectives": [],
@@ -345,7 +345,7 @@
   {
    "q": "A pendulum four times longer takes only twice as long for each swing. Why does the time grow more slowly than the length?",
    "kind": "deep",
-   "hint": "A longer thread means a longer path, but also a gentler slope."
+   "hint": "On a longer thread, the bob has a longer way to go. But the path is also flatter, so gravity pulls the bob along it less strongly. Think about how those two things work together."
   },
   {
    "q": "Energy is never lost, only changed. When a swing stops, where did its energy go, and can it come back?",
@@ -370,7 +370,7 @@
   {
    "q": "A pendulum measures the pull of the Earth without touching the Earth. What else might we learn about a place by watching something small swing?",
    "kind": "big",
-   "hint": "A clock moved to Cayenne lost time. What does that say about the ground under it?"
+   "hint": "A pendulum clock taken to Cayenne, near the equator, lost time. What does that tell you about the Earth's pull there?"
   }
  ],
  "story": {
@@ -1169,7 +1169,7 @@
       {
        "q": "What did you find out?",
        "good": [
-        "What I think: timing more swings is better. What I saw: the 30 swing times were closest together. Why: the stopwatch mistake is the same size, but a small share of a long time."
+        "What I think: timing more swings is better. What I saw: the 30 swing times were closest together. Why: the stopwatch mistake is about the same size every time. In a long time, that mistake is only a small part of the total."
        ]
       }
      ],
@@ -1592,7 +1592,7 @@
        "Water makes the thread shorter"
       ],
       "a": 0,
-      "why": "Water is about 800 times denser than air, so it pushes back much harder on a moving bag, and takes its energy away quickly. If you chose the bag getting heavier, remember that the weight of a bob changes the beat of a swing very little."
+      "why": "A cup of water is about 800 times heavier than a cup of air. Scientists say that water is about 800 times denser than air. So water pushes back much harder on a moving bag, and takes its energy away quickly. If you chose the bag getting heavier, remember that the weight of a bob changes the beat of a swing very little."
      },
      "context": "In this step, you swing the bag through water and count."
     }
@@ -1701,9 +1701,9 @@
      "id": "s4",
      "mins": 8,
      "do": "1. Add the three times and divide by 3 to get the mean. 2. Divide the mean by 30 to get the time of one swing. 3. Multiply that time by itself. 4. Divide 39.5 by that answer.",
-     "say": "Add the three times and divide by three. Then divide by thirty. Multiply the answer by itself. Then divide 39.5 by the result. That is the pull of the Earth.",
+     "say": "Add the three times and divide by three. Then divide by thirty. That gives the time of one swing. Now multiply that time by itself. Then divide 39.5 by the result. The answer is the strength of the Earth's pull. We turned the period rule round to find it. Scientists measure that pull as about 9.8.",
      "kid": "Find the mean. Divide by 30. Multiply by itself. Divide 39.5 by that.",
-     "parent": "Worked example: 60.2 seconds for 30 swings gives 2.007 seconds for one swing. Multiplied by itself that is 4.03. Then 39.5 divided by 4.03 is 9.8. A calculator helps. Your answer will typically be within about 5 percent of 9.8, so anywhere from about 9.3 to 10.3 is a good result. The number 39.5 is 4 times pi times pi.",
+     "parent": "Worked example: 60.2 seconds for 30 swings gives 2.007 seconds for one swing. Multiplied by itself that is 4.03. Then 39.5 divided by 4.03 is 9.8. A calculator helps. Your answer will typically be within about 5 percent of 9.8, so anywhere from about 9.3 to 10.3 is a good result. The number 39.5 comes from turning the period rule round. The pull equals 4 times pi times pi times the length, divided by the period times itself. For a length of 1 metre, 4 times pi times pi is about 39.5.",
      "check": {
       "t": "mcq",
       "q": "On another planet, a pendulum 1 metre long takes 2.1 seconds for one swing. Is the pull there stronger or weaker than the Earth's?",
@@ -1747,7 +1747,7 @@
     },
     {
      "art": "A calculator showing 60.2 divided by 30, then the result multiplied by itself, then 39.5 divided by that.",
-     "caption": "3. Work out g using your times and a calculator."
+     "caption": "3. Work out the pull of the Earth, called g, with your times."
     }
    ]
   }
@@ -1774,7 +1774,7 @@
     "a calculator"
    ],
    "general": [
-    "Fix the peg 27 centimetres below the pivot, so only 9 centimetres of thread is below it. The short side swings in half the time of the long side.",
+    "Fix the peg 27 centimetres below the pivot, so only 9 centimetres of thread is below the peg. That short part is a quarter of 36 centimetres. A pendulum a quarter as long swings in half the time. So the short side of the swing takes half as long as the long side.",
     "Time 10 swings with no peg first. This is the plain time. Then add the peg and time again.",
     "Check that 10 swings take about three quarters of the plain time."
    ],
@@ -2042,7 +2042,7 @@
      "p": "Why does timing 30 swings give a better answer for the time of one swing than timing 1 swing?",
      "opts": [
       "The pendulum swings faster when it is timed longer",
-      "The stopwatch mistake is the same size, but a small share of a long time",
+      "The mistake is a smaller part of a longer time",
       "Thirty swings never get smaller",
       "The pendulum is heavier after a long time"
      ],
@@ -2087,7 +2087,7 @@
       "It cannot rise at all"
      ],
      "a": 2,
-     "why": "The path is tighter but the bob has the same energy. It rises to nearly the same height. A little energy is lost to the air.",
+     "why": "The path is tighter, but the bob has the same energy. It rises to nearly the same height. A little of its energy turns into warmth in the air.",
      "how": "e1"
     },
     {
@@ -2357,7 +2357,7 @@
     {
      "t": "write",
      "p": "Why can a pendulum clock keep time in a train that is moving at a steady speed, but not in a train that is turning hard round a bend?",
-     "a": "In a steady train the pendulum swings just as in a house. In a hard bend the sideways push changes how the bob is pulled, so the beat changes. A steady motion does not change the swing.",
+     "a": "In a steady train the pendulum swings just as in a house. In a hard bend, the train pushes the clock sideways. That push acts on the bob like extra gravity, so the beat changes. A steady motion does not push the clock at all, so the swing does not change.",
      "why": "A strong answer says that steady movement is invisible to the swing, but extra pushes change it.",
      "lines": 5
     },
@@ -3013,7 +3013,7 @@
    "kid": "Start a small swing. Watch only the ends. Breathe in as it rises. Breathe out as it falls. Do it ten times."
   },
   "ask": [
-   "The bag always climbs back to the height it fell from. Is the height 'kept' by the bag, or by the bag and the Earth together?",
+   "The bag always climbs back to the height it fell from. Does the bag keep that height by itself, or does the Earth's pull have a part in it too?",
    "The energy of a stopped swing became warmth. Where does warmth go, and can it ever come back as a swing?",
    "Feynman said energy is a number that stays the same. Is that a thing in the world, or only a way we count?"
   ],
@@ -3022,7 +3022,7 @@
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. The pendulum hangs from a ruler held down by books on a table edge, so it works in a flat. The Peg Test uses a wall or cupboard behind the swing as a height scale (a cereal box is too short), and the bag should reach about a finger-width below the starting line each time. Height and Hit needs a smooth floor and a thread long enough for the bag to clear the floor, usually 65 to 70 centimetres on a normal table. Doubling the height should roughly double the slide, but results are untidy, so the steps say to take the mean of three. The timing test needs about 30 minutes and works best with two people. The pumping activity is fussy and is marked as a try. The 1 metre pendulum for the pull of the Earth should typically give a value within about 5 percent of 9.8. Facts to check before printing: the Richer clock loss in Cayenne, the opening dates of the Millennium Bridge and the 1851 Foucault demonstration. The spine fits about 95 minutes.",
  "how_we_found_out": {
   "context": "How did people find out how much energy a moving thing has? This card tells how a Dutch scientist and a French scientist found out, using brass balls and clay.",
-  "story": "About three hundred years ago, many scientists followed Descartes, who said that the force of a moving thing is its weight times its speed. By that rule, a ball falling at twice the speed would dig twice as deep. A Dutch scientist, Willem 's Gravesande, tested it. He dropped brass balls into soft clay from different heights. A ball that fell from four times the height reached twice the speed, and it dug four times as deep, not twice. The result was puzzling. A French scientist, Emilie du Chatelet, read about his tests and studied them closely. In her book of 1740 she argued that the measure of a moving thing's force grows with the square of its speed. Double the speed, and the force of the hit becomes four times as big. This idea became the movement energy we use today. It also explains why the box in the Height and Hit test slides so much further when the bag falls from higher.",
+  "story": "About three hundred years ago, many scientists followed Descartes, who said that the force of a moving thing is its weight times its speed. By that rule, a ball moving at twice the speed would hit twice as hard and dig twice as deep. A Dutch scientist, Willem 's Gravesande, tested it. He dropped brass balls into soft clay from different heights. A ball that fell from four times the height reached twice the speed, and it dug four times as deep, not twice. The result was puzzling. A French scientist, Emilie du Chatelet, read about his tests and studied them closely. In her book of 1740 she argued that the measure of a moving thing's force grows with the square of its speed. Double the speed, and the force of the hit becomes four times as big. This idea became the movement energy we use today. It also explains why the box in the Height and Hit test slides so much further when the bag falls from higher.",
   "who": "Willem 's Gravesande, a Dutch scientist, and Emilie du Chatelet, a French scientist (1706 to 1749)",
   "when": "The clay tests were in the 1720s. Her book was published in 1740.",
   "wrong_idea": "Scientists following Descartes held that a moving thing's force grows in step with its speed. The clay tests showed that it grows with the square of the speed.",

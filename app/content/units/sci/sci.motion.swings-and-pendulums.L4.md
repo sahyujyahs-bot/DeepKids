@@ -1,9 +1,9 @@
 # Swings and pendulums: how a swing trades height for speed
 `sci.motion.swings-and-pendulums.L4`
 
-**Summary.** Let go of a swinging bag of coins from the height of your chin, and it never comes back higher than where it started. Stop its thread with a pencil halfway, so the bag has to swing in a much tighter curve, and it still climbs to the same height. Your child tests this with a thread and a bag of coins, then finds out how much harder a bag hits a box when it falls from higher up. They learn that height and speed are two forms of one thing, called energy, that a swing keeps trading back and forth. They also find out why a swing slowly dies down, why a push at the right moment makes it grow, and how to time a swing so the stopwatch error almost disappears.
+**Summary.** Hold a bag of coins on a thread at the height of your chin and let it go. It never swings back higher than where it started. Stop its thread with a pencil halfway, so the bag has to swing in a much tighter curve, and it still climbs to the same height. Your child tests this with a thread and a bag of coins, then finds out how much harder a bag hits a box when it falls from higher up. They learn that a swing keeps trading its height for speed, and its speed for height. What is being traded is called energy. They also find out why a swing slowly dies down, why a push at the right moment makes it grow, and how to time a swing so the stopwatch error almost disappears.
 
-**Intro.** *Hold a bag of coins on a thread at the height of your chin. Let go, without pushing. The bag swings down and across, and climbs up the other side. Does it come back as high as your chin, higher, or lower? Now hang a pencil in its way, so the thread catches halfway down. Will the bag still climb as high?* In the last unit on pendulums you found that the length of the thread sets the beat. This time you ask a different question. Where does a swing get its speed, and where does that speed go? Make a guess now about the pencil, and write it down. You will test it in the first experiment.
+**Intro.** *Hold a bag of coins on a thread at the height of your chin. Let go, without pushing. The bag swings down and across, and climbs up the other side. Does it come back as high as your chin, higher, or lower? Now put a pencil in the way of the thread, so the thread catches on it halfway down. Will the bag still climb as high?* An earlier unit on pendulums showed that the length of the thread sets the beat. This unit asks a different question. Where does a swing get its speed, and where does that speed go? Guess now whether the bag will climb as high when a pencil catches its thread, and write your guess down. You will test it in the first experiment, the Peg Test.
 
 ## Learning outcomes
 0. I can explain that a swinging bob trades height for speed on the way down, and speed for height on the way up.
@@ -20,7 +20,7 @@
 - **Bob**: The weight at the end of a pendulum. *e.g.* On a swing, the bob is the child on the seat.
 - **Period**: The time one full swing takes, there and back again. *e.g.* A pendulum 1 metre long has a period of about 2 seconds.
 - **Amplitude**: How far a pendulum swings from the middle to one end. A big amplitude is a wide swing. *e.g.* A gentle push gives a small amplitude. A big push gives a large one.
-- **Frequency**: How many full swings happen in one second. It is the period turned upside down. *e.g.* A period of 2 seconds means a frequency of half a swing every second.
+- **Frequency**: How many full swings happen in one second. To find it, divide 1 by the period. *e.g.* A period of 2 seconds means a frequency of half a swing every second.
 - **Energy**: What makes things move, heat up or change. Energy comes in different forms, and it can change from one form to another. *e.g.* A moving cricket ball has energy. So does a ball held high above the floor.
 - **Height energy**: The energy a thing has because it is high above the ground and can fall. Scientists call it gravitational potential energy. *e.g.* A bag of coins held at chin height has more height energy than the same bag held at your waist.
 - **Movement energy**: The energy a thing has because it is moving. Scientists call it kinetic energy. Faster things have more. *e.g.* A bag swinging fast at the bottom has more movement energy than a bag that has almost stopped.
@@ -28,15 +28,15 @@
 - **Damping**: The slow loss of a swing's energy to the air and the pivot, so each swing is a little smaller than the last. *e.g.* A swing in a park that nobody pushes swings lower and lower until it stops.
 - **Resonance**: When pushes come at a thing's own beat, each push adds to the last and the swing grows big. *e.g.* Pushing a friend on a swing each time they come back to you.
 - **Natural beat**: The beat a pendulum keeps by itself when left alone. For a pendulum it is set by its length and the Earth's pull. *e.g.* A 25 centimetre pendulum has a natural beat of about one swing per second.
-- **Escapement**: The part of a clock that lets the wheels move on one tooth with each swing, and gives the pendulum a tiny push each time. *e.g.* The anchor-shaped piece at the top of an old wall clock is an escapement.
-- **Centre of mass**: The point where a thing's weight seems to pull, the balancing point of the whole thing. *e.g.* A ruler balanced on a pencil balances at its middle, its centre of mass.
+- **Escapement**: The part of a clock that lets the wheels move on by one tooth with each swing, and gives the pendulum a tiny push each time. *e.g.* The anchor-shaped piece at the top of an old wall clock is an escapement.
+- **Centre of mass**: The point where all of a thing's weight seems to pull. It is the point where the whole thing balances. *e.g.* A ruler balanced on a pencil balances at its middle, its centre of mass.
 - **Timing error**: The small mistake in a time that comes from pressing the stopwatch a little early or late. *e.g.* If you press late by a fifth of a second, a 1 second time looks 20 percent wrong, but a 30 second time looks less than 1 percent wrong.
 
 ## Explanations
 ### Two forms of energy: height and movement · *defined*
 **Definition:** A thing high up has height energy, because it can fall. A moving thing has movement energy. A swing keeps swapping one for the other.
 
-Hold a bag of coins high and let go. It falls, and the further it falls, the faster it goes. The height it had is turning into speed. Scientists call the energy of height gravitational potential energy, and the energy of movement kinetic energy. In this unit we say height energy and movement energy. Both are measured in joules. A thing held higher has more height energy. A thing moving faster has more movement energy. Mass matters too, because a heavy thing held at the same height has more of both. But for the swing, the bob's mass stays the same, so only height and speed change.
+Hold a bag of coins high and let go. It falls, and the further it falls, the faster it goes. The height it had is turning into speed. Scientists call the energy of height gravitational potential energy, and the energy of movement kinetic energy. In this unit we say height energy and movement energy. Both are counted in a unit called the joule. A thing held higher has more height energy. A thing moving faster has more movement energy. Mass matters too, because a heavy thing held at the same height has more of both. But for the swing, the bob's mass stays the same, so only height and speed change.
 - e.g. A cricket ball held on the roof has height energy. After it falls, the same energy is in its movement.
 - e.g. A water tank on a roof has height energy. The water falls through the pipe and arrives at the tap with speed.
 - e.g. A child at the top of a slide has height energy. At the bottom the child has movement energy.
@@ -44,8 +44,8 @@ Hold a bag of coins high and let go. It falls, and the further it falls, the fas
 ### The swap: how a swing trades height for speed · *defined*
 **Definition:** On the way down, a bob loses height and gains speed. On the way up, it loses speed and gains height. The two add up to a total that stays almost the same.
 
-Pull a bob to one side and you lift it, so it has height energy and no movement. Let go. Gravity pulls it down, height turns into speed, and at the very bottom the bob moves fastest. Then it rushes up the other side. Its speed turns back into height until it stops for a moment at the top. It stops at nearly the same height it started from, because the energy it had is still there. If it climbed higher, it would have made new energy from nothing. Nobody has ever seen this happen. The bob always comes back a tiny bit lower. A little energy leaks into the air as warmth.
-- e.g. The chain swing in a park is fastest at the bottom, where the tummy flips.
+Pull a bob to one side and you lift it, so it has height energy and no movement. Let go. Gravity pulls it down, height turns into speed, and at the very bottom the bob moves fastest. Then it rushes up the other side. Its speed turns back into height until it stops for a moment at the top. It stops at nearly the same height it started from, because the energy it had is still there. If it climbed higher, it would have made new energy from nothing. Nobody has ever seen this happen. The bob always comes back a tiny bit lower. A little of its energy goes into the air and the pivot as warmth.
+- e.g. The chain swing in a park is fastest at the bottom, where you feel your tummy flip.
 - e.g. A bag of coins let go from chin height never touches your nose on its way back.
 - e.g. A marble rolled in a bowl climbs the far side to nearly the same height.
 - e.g. A skateboarder in a half-pipe rises to nearly the same height on both sides.
@@ -59,28 +59,28 @@ Galileo showed this with a pendulum and a nail. He hung a ball on a thread and l
 ### How long a swing takes: the rule for the period · *defined*
 **Definition:** For a small swing, the period in seconds is about twice the square root of the length in metres. A pendulum 1 metre long takes about 2 seconds, and one 25 centimetres long takes about 1 second.
 
-A square root is the number that, multiplied by itself, gives the number you started with. The square root of 4 is 2, because 2 times 2 is 4. The square root of a quarter is a half. A 25 centimetre pendulum is a quarter of a metre, so its square root is a half, and twice that is 1 second. A 1 metre pendulum has a square root of 1, and twice that is 2 seconds. A 4 metre pendulum takes 4 seconds. To make a swing take twice as long, you need a thread 4 times as long. The real rule is that the period equals 2 times pi times the square root of the length divided by the strength of the Earth's pull. The weight of the bob does not appear in it at all.
+A square root is the number that, multiplied by itself, gives the number you started with. The square root of 4 is 2, because 2 times 2 is 4. The square root of a quarter is a half, because a half times a half is a quarter. A 25 centimetre pendulum is a quarter of a metre long. The square root of a quarter is a half, and twice a half is 1 second. For a 1 metre pendulum, the square root of 1 is 1, and twice that is 2 seconds. A 4 metre pendulum takes 4 seconds. To make a swing take twice as long, you need a thread 4 times as long. The full rule is this. The period equals 2 times pi times the square root of the length divided by the strength of the Earth's pull. Pi is the number, about 3.14, that you meet in every circle. The weight of the bob does not appear in the rule at all.
 - e.g. A pendulum of 25 centimetres takes about 1 second. One of 100 centimetres takes about 2 seconds.
 - e.g. A clock pendulum that ticks once a second each way is about 1 metre long.
 - e.g. A long swing on 4 metre chains takes about 4 seconds for a full swing.
 ### The Earth's pull sets the beat · *defined*
 **Definition:** A pendulum's period depends on the length and on the strength of gravity. Where gravity is weaker, the same pendulum swings more slowly.
 
-On the Moon, gravity is about one sixth as strong as on Earth. The same pendulum would take about two and a half times longer for each swing. So a pendulum can be used to measure gravity. Time a pendulum of known length, and the rule can be turned round to give the Earth's pull. In 1672, a French astronomer called Jean Richer took a clock with a pendulum to Cayenne, in South America, near the equator. He reported that it lost about two and a half minutes a day compared with Paris. The Earth pulls a little less near the equator, so the same pendulum swings a little more slowly. Today the strength of gravity near the Earth's surface is about 9.8 in units called metres per second per second.
+On the Moon, gravity is about one sixth as strong as on Earth. The same pendulum would take about two and a half times longer for each swing. So a pendulum can be used to measure gravity. Time a pendulum of known length, and the rule can be turned round to give the Earth's pull. In 1672, a French astronomer called Jean Richer took a clock with a pendulum to Cayenne, in South America, near the equator. He reported that it lost about two and a half minutes a day compared with Paris. The Earth pulls a little less near the equator, so the same pendulum swings a little more slowly. Near the Earth's surface, a falling thing goes faster by about 9.8 metres per second, every second. Scientists use 9.8 as the number that says how strong the Earth's pull is.
 - e.g. On the Moon a 1 metre pendulum would take about 5 seconds for a full swing, instead of 2.
 - e.g. A pendulum clock moved to a high mountain runs very slightly slow.
 - e.g. Geologists once used pendulums to look for rock structures hidden underground, because the pull differs by a tiny amount over them.
 ### Why a swing dies down but keeps its beat · *defined*
 **Definition:** A pendulum loses a little energy on every swing to the air and to the pivot. Each swing gets smaller, but the beat stays almost the same. A clock gives the pendulum a tiny push each swing to replace what it loses.
 
-The air pushes back on the bob as it moves, and the pivot rubs a little. The energy these take turns into a tiny amount of warmth. So each swing is a little smaller, and after some minutes the pendulum stops. A small, heavy bob on a thin thread keeps going longest, because it pushes little air out of the way. The beat does not change as the swing shrinks, which is why clocks work. An old clock has an escapement, which lets a wheel move on one tooth each swing and gives the pendulum a small push. The weight or spring that powers the clock pays for these pushes. In 1656 Christiaan Huygens built the first clock that used a pendulum this way, and it kept far better time than clocks before it.
-- e.g. A coin bag in a quiet room swings for a long time, but with a postcard taped on it stops much sooner.
+The air pushes back on the bob as it moves, and the pivot rubs a little. The energy these take turns into a tiny amount of warmth. So each swing is a little smaller, and after some minutes the pendulum stops. A small, heavy bob on a thin thread keeps going longest, because it pushes little air out of the way. The beat does not change as the swing shrinks, which is why clocks work. An old clock has an escapement, which lets a wheel move on by one tooth each swing and gives the pendulum a small push. The energy for these pushes comes from the weight or spring that powers the clock. In 1656 Christiaan Huygens built the first clock that used a pendulum this way, and it kept far better time than clocks before it.
+- e.g. A coin bag in a quiet room swings for a long time. With a postcard taped to it, the bag stops much sooner.
 - e.g. An old wall clock needs winding every day or every week, depending on the clock, to keep its pendulum going.
 - e.g. A pendulum swung in water stops after a few swings, because water pushes back far harder than air.
 ### Pumping a swing: adding energy with your body · *defined*
-**Definition:** A person on a swing can add energy by standing up and crouching down at the right moments. This makes the swing's effective length change in time with the swing.
+**Definition:** A person on a swing can add energy by standing up and crouching down at the right moments. This makes the swing act like a slightly shorter and then a slightly longer pendulum, in time with the swing.
 
-A swing is a pendulum, and you are the bob. When you crouch at the highest point of each swing and stand up at the lowest point, you do work against the chains. You push your body up against the pull of gravity and the swing, and that adds energy. The swing climbs higher with every pump. Sitting down and swinging your legs works in a similar way, because you move your centre of mass at the right moments. Moving your body at the wrong moments takes energy away. Scientists have worked out that the best timing is two pumps in each full swing: one at each end of the path. You can copy this with a coin pendulum and a straw. Pull the thread down through the straw when the bob passes the bottom, and let it out at the ends.
+A swing is a pendulum, and you are the bob. When you stand up at the lowest point of the swing, your muscles lift your body against the pull of gravity. The swing is pulling you down hard at that moment, so this takes work from your muscles. That work goes into the swing as extra energy. When you crouch at the highest point, you give very little back. So the swing climbs higher with every pump. Sitting down and swinging your legs works in a similar way, because you move your centre of mass at the right moments. Moving your body at the wrong moments takes energy away. Scientists have worked out that the best timing is two pumps in each full swing. You stand up every time you pass the bottom, and that happens twice in one full swing. You can copy this with a coin pendulum and a straw. Pull the thread up through the straw when the bob passes the bottom, and let it out at the ends.
 - e.g. A child on a park swing standing up at the bottom and crouching at the top.
 - e.g. A trapeze artist leaning at the right moments of each swing.
 - e.g. In the cathedral of Santiago de Compostela in Spain, a team of men pull the rope of a huge incense burner in time with its swing, to make it fly very high.
@@ -90,20 +90,20 @@ A swing is a pendulum, and you are the bob. When you crouch at the highest point
 A swing has a natural beat. Small pushes at the same beat add up, and the swing grows. Bridges, buildings and even glasses have natural beats too. In June 2000, the Millennium Bridge across the river Thames in London opened to the public, and walkers made it sway from side to side. As it began to sway, the walkers started to step in time with the sway, which made it sway more. It was closed after two days and fixed with devices that damp the sway. Soldiers are told to break step on small bridges so their steps do not add up. The bridge was not weak. It simply had a natural sideways beat that crowds happened to match.
 - e.g. Pushing a friend on a swing every time they come back to you.
 - e.g. Soldiers breaking step on a bridge.
-- e.g. A tall building's pendulum damper that swings against the sway of the building in an earthquake or high wind.
+- e.g. A heavy pendulum near the top of a tall building, which swings against the sway of the building in an earthquake or high wind.
 ### Stiff pendulums: when the whole thing swings · *defined*
 **Definition:** A stiff swinging thing such as a ruler is a pendulum too. Its weight is spread along its length, so it swings as if its length were shorter than it really is.
 
-A ruler hung from one end swings like a pendulum, but the weight is spread out along it, not all at the bottom. The top half of the ruler is close to the pivot and wants to swing quickly. The bottom half is far and wants to swing slowly. The two compromise. A ruler hung from one end swings at about the same beat as a weight on a thread two thirds as long. A 30 centimetre ruler swings like a 20 centimetre pendulum. Your leg is a stiff pendulum too. This is why a person with long legs takes slower, longer steps. The same idea shows how the centre of mass matters: it is the point where the weight of the whole thing seems to pull.
+A ruler hung from one end swings like a pendulum, but the weight is spread out along it, not all at the bottom. The top half of the ruler is close to the pivot and wants to swing quickly. The bottom half is far from the pivot and wants to swing slowly. The ruler ends up swinging at a beat in between. A ruler hung from one end swings at about the same beat as a weight on a thread two thirds as long. A 30 centimetre ruler swings like a 20 centimetre pendulum. Your leg is a stiff pendulum too. This is why a person with long legs takes slower, longer steps. This is also why the centre of mass matters: it is the point where the weight of the whole thing seems to pull.
 - e.g. A 30 centimetre ruler hung by its end swings like a 20 centimetre pendulum.
 - e.g. A gibbon hanging from a branch swings her whole body like a stiff pendulum.
 - e.g. Your arm swings freely when you walk, at about the same beat as your legs.
 ### Timing many swings gives a better answer · *defined*
 **Definition:** Everyone presses a stopwatch a little early or late. That mistake is about the same size whether you time one swing or thirty, so it matters much less when the total time is long.
 
-Say your reaction is a fifth of a second late each time you press the button. If you time a single swing of 1 second, your answer may be 20 percent wrong. If you time 30 swings that take 30 seconds, the same mistake is less than 1 percent of the total. Then you divide by 30 to get the time of one swing. This is why the earlier unit's tests used 10 swings. It is also why scientists repeat a test and use the mean, which is the total of the results divided by how many there are. An odd result that sits far from the others is worth checking again, and not just throwing away. Timing 100 swings would be even better, but a pendulum dies down, and your attention wanders. Choosing how many to time is a balance.
+Say your reaction is a fifth of a second late each time you press the button. If you time a single swing of 1 second, your answer may be 20 percent wrong. If you time 30 swings that take 30 seconds, the same mistake is less than 1 percent of the total. Then you divide by 30 to get the time of one swing. This is why the tests in the earlier unit on pendulums timed 10 swings and not one. It is also why scientists repeat a test and use the mean, which is the total of the results divided by how many there are. An odd result that sits far from the others is worth checking again, and not just throwing away. Timing 100 swings would be even better, but a pendulum dies down, and your attention wanders. Choosing how many to time is a balance.
 - e.g. A time of 1.3 seconds for one swing can be wrong by 0.3 seconds. A time of 30.4 seconds for 30 swings is only wrong by about 1 percent.
-- e.g. Divers, athletes and bakers repeat their timing for the same reason.
+- e.g. A runner's lap time is more trustworthy if you time ten laps and divide by ten.
 - e.g. Scientists who keep the exact second today count the beats of atoms, billions of them, for the same reason: the more beats you count, the smaller the share of the mistake.
 
 ## Mostly agreed
@@ -111,63 +111,63 @@ Say your reaction is a fifth of a second late each time you press the button. If
 - A bob rises to the same height it fell from, even if a peg changes its path. *How we know:* Galileo described this test with a nail in his book of 1638. You can repeat it with a pencil and a bag of coins.
 - For small swings, a pendulum's period is about 2 times the square root of its length in metres. *How we know:* Huygens worked out the rule in the 1600s. Anyone can check it with a stopwatch and a thread.
 - Gravity is weaker on the Moon, so the same pendulum swings more slowly there. *How we know:* The period depends on the strength of gravity. Pendulum clocks also run very slightly slow on high mountains.
-- A pendulum slows because of the air and the rubbing at the pivot. A swing in a vacuum keeps going far longer. *How we know:* Experiments with pendulums in a box with the air pumped out show much slower damping.
+- A pendulum slows because of the air and the rubbing at the pivot. A swing in a vacuum keeps going far longer. *How we know:* Experiments with pendulums in a box with the air pumped out show that the swing dies down much more slowly.
 - A tiny push at the right beat makes a swing grow, and a push at the wrong time makes it shrink. *How we know:* Anyone who has pushed a swing has felt it. It also explains the Millennium Bridge sway of 2000.
 
 ## How we found out
-**Willem 's Gravesande, a Dutch scientist, and Emilie du Chatelet, a French scientist (1706 to 1749), The clay tests were in the 1720s. Her book was published in 1740..** About three hundred years ago, many scientists followed Descartes, who said that the force of a moving thing is its weight times its speed. By that rule, a ball falling at twice the speed would dig twice as deep. A Dutch scientist, Willem 's Gravesande, tested it. He dropped brass balls into soft clay from different heights. A ball that fell from four times the height reached twice the speed, and it dug four times as deep, not twice. The result was puzzling. A French scientist, Emilie du Chatelet, read about his tests and studied them closely. In her book of 1740 she argued that the measure of a moving thing's force grows with the square of its speed. Double the speed, and the force of the hit becomes four times as big. This idea became the movement energy we use today. It also explains why the box in the Height and Hit test slides so much further when the bag falls from higher.  
+**Willem 's Gravesande, a Dutch scientist, and Emilie du Chatelet, a French scientist (1706 to 1749), The clay tests were in the 1720s. Her book was published in 1740..** About three hundred years ago, many scientists followed Descartes, who said that the force of a moving thing is its weight times its speed. By that rule, a ball moving at twice the speed would hit twice as hard and dig twice as deep. A Dutch scientist, Willem 's Gravesande, tested it. He dropped brass balls into soft clay from different heights. A ball that fell from four times the height reached twice the speed, and it dug four times as deep, not twice. The result was puzzling. A French scientist, Emilie du Chatelet, read about his tests and studied them closely. In her book of 1740 she argued that the measure of a moving thing's force grows with the square of its speed. Double the speed, and the force of the hit becomes four times as big. This idea became the movement energy we use today. It also explains why the box in the Height and Hit test slides so much further when the bag falls from higher.  
 *What people believed before:* Scientists following Descartes held that a moving thing's force grows in step with its speed. The clay tests showed that it grows with the square of the speed.
 
 ## Challenging perspectives
 - **A bob let go from a height can swing higher than the height it started from.** (Many children, when they first see a pendulum swing fast; *rejected*)  
   For: The bob is moving fast at the bottom, so it seems it should carry on higher.  
-  Against: The speed at the bottom was paid for by the height it fell. On the way up that speed is spent again. In every test, the bob returns to a little below its start.
+  Against: The speed at the bottom came from the height the bob fell. On the way up that speed is used up again. In every test, the bob returns to a little below its start.
 - **Shortening the thread with a peg makes the bob rise higher on the far side.** (Many people, when they first see the peg test; *rejected*)  
   For: A shorter thread makes a tighter curve, so the bob seems to be thrown up higher.  
   Against: The bob rises to the same height as before. The path is tighter and the swing is quicker, but the energy is the same.
 - **A heavier bob keeps swinging much longer because it has more energy.** (A common idea among children and some grown-ups; *debated*)  
   For: A heavier bob has more energy to lose, and heavy things feel harder to stop.  
-  Against: A heavier bob does last somewhat longer, but only when it is the same size as a lighter one. The air pushes on both with the same force, and the heavier bob has more energy to lose, so it takes the air longer to use it up. A big light bob is stopped quickly, however much it has.
+  Against: A heavier bob does last somewhat longer, but only when it is the same size as a lighter one. The air pushes on both with the same force, and the heavier bob has more energy to lose, so it takes the air longer to use it up. A big, light bob is stopped quickly, however much energy it starts with.
 - **Time is something a pendulum makes.** (Some people who see a clock tick; *rejected*)  
   For: Clocks seem to produce time, tick by tick.  
-  Against: A pendulum only counts a steady beat that already exists because of its length and the Earth's pull. Clocks measure time, they do not make it.
+  Against: A pendulum only counts a steady beat that already exists because of its length and the Earth's pull. Clocks measure time. They do not make it.
 - **Energy used by a swinging pendulum disappears.** (A common idea about things that run down; *rejected*)  
   For: The swing gets smaller and finally stops, so it looks as if the energy has gone.  
   Against: The energy has not vanished. It has turned into a tiny amount of warmth in the air and in the pivot. Energy is never lost, only changed.
 
 ## Roots
-We have followed energy through a swing and tested how high a bob climbs. Now we ask what that swapping tells us about the world, and about ourselves.
+In this unit you followed energy through a swing and tested how high a bob climbs. This part asks what the swap between height and speed tells us about the world, and about ourselves.
 
-**Deep truth.** A pencil peg shortened the thread, yet the bag still climbed to the same height. How high a bob climbs depends on how far it fell, not on the path. Its height was handed to speed on the way down and handed back on the way up. So the path can change a lot while the height stays the same.  
+**Deep truth.** In the Peg Test, a pencil peg shortened the thread, yet the bag still climbed to the same height. How high a bob climbs depends on how far it fell, not on the path. Its height turned into speed on the way down, and the speed turned back into height on the way up. So the path can change a lot while the height stays the same.  
 *Habit it breaks:* We think the path decides where something ends up, so a tighter, quicker curve should fling the bob higher. In a swing the path does not matter. Only the height it fell from sets the height it reaches.  
 *Evidence:* In the Peg Test, the bag reached about the same height with no peg, with a peg 25 centimetres above it and with a peg 12 centimetres above it. If your results differ, write them down as they are and test again.
 
 - *who am i:* When you walk, each step lifts your body a little and lets it fall forward again, like an upside-down pendulum. Your body gets back much of the energy of each step.
-- *what is life:* A gibbon in the forests of Assam swings under a branch and lets her height turn into speed, then speed into height, to reach the next branch. She gets a lot of her travel back from the swing itself.
+- *what is life:* A gibbon in the forests of Assam swings under a branch and lets her height turn into speed, then speed into height, to reach the next branch. Much of the energy she needs to get there comes back to her from the swing itself.
 - *what is this world:* Water lifted by the Sun falls as rain, a river runs down and a swing rises again. Height and movement keep trading places, and the total energy stays the same.
 
-A bob held at the end of its path has height and no speed. At the bottom it has speed and no extra height. At the other end it has height again. The two are never gone, only handed from one to the other and back. A swing, a river, a roller coaster and a falling leaf all keep this trade, so the same few rules govern very different things. We can follow the energy through each of them, and it always adds up.
+A bob held at the end of its path has height and no speed. At the bottom it has speed and no extra height. At the other end it has height again. The energy is never gone. It only changes from height to speed and back. A swing, a river, a roller coaster and a falling leaf all make this same swap, so the same few rules govern very different things. We can follow the energy through each of them, and it always adds up.
 
-- **Isha Upanishad, opening verse:** That is whole, this is whole. From the whole the whole comes out. Take the whole from the whole, and the whole remains. (Height energy is taken from the bob and handed to movement. The total that remains is the same.)
+- **Isha Upanishad, opening verse:** That is whole, this is whole. From the whole the whole comes out. Take the whole from the whole, and the whole remains. (As the bob falls, height energy is taken away and turns into movement energy. The total that remains is the same.)
 - **Heraclitus, fragment B60:** The road up and the road down are one and the same. (The bob goes down and up along the same arc. Falling and rising are two halves of one swing.)
 - **Tao Te Ching 77:** The Way of heaven is like bending a bow. What is high is lowered, and what is low is raised. (A swing lowers its height to raise its speed, and then lowers its speed to raise its height again.)
 - Science (settled): Energy is never made or destroyed, only changed from one form to another. In 1918 Emmy Noether showed why: it follows from the fact that the laws of nature are the same from one moment to the next.
 - Science (idea): Some physicists think the total energy of the whole universe may be exactly zero, with the energy of matter cancelled by the energy of gravity. Nobody knows for sure.
 - Other view, Richard Feynman, a physicist: In his lectures, Feynman said that physics has no knowledge of what energy actually is. He compared it to counting a child's building blocks: you always get the same number, even when some blocks are hidden. Energy, he said, is a number we calculate that stays the same, not a thing we can point at.
 - Practice, Watch the turning point (3 min): Hang the bag of coins and start a small swing. Sit still and watch only the ends of the swing. At each end the bag pauses for a moment. Breathe in slowly as it rises. Breathe out slowly as it falls. Do this for ten swings. Notice the stillness at each end, and the speed in between.
-- Ask: The bag always climbs back to the height it fell from. Is the height 'kept' by the bag, or by the bag and the Earth together?
+- Ask: The bag always climbs back to the height it fell from. Does the bag keep that height by itself, or does the Earth's pull have a part in it too?
 - Ask: The energy of a stopped swing became warmth. Where does warmth go, and can it ever come back as a swing?
 - Ask: Feynman said energy is a number that stays the same. Is that a thing in the world, or only a way we count?
 
 ## Deep and big questions
 - *deep:* A bob let go from chin height comes back to almost chin height, and never higher. Why can it not come back higher? (hint: Think about where the speed at the bottom came from.)
-- *deep:* With a peg, the bob swings a tighter path but reaches the same height. What does that tell you about how a bob remembers where it started? (hint: What stayed the same, and what changed?)
-- *deep:* A pendulum four times longer takes twice as long. Why would the time grow slower than the length? (hint: A longer thread means a longer path, but also a gentler slope.)
-- *deep:* Energy is never lost, only changed. When a swing stops, where did its energy go, and can it come back? (hint: Think about what the air and the pivot felt like after a long swing.)
+- *deep:* With a peg, the bob swings a tighter path but reaches the same height. What does that tell you about what decides how high a bob climbs? (hint: What stayed the same, and what changed?)
+- *deep:* A pendulum four times longer takes only twice as long for each swing. Why does the time grow more slowly than the length? (hint: On a longer thread, the bob has a longer way to go. But the path is also flatter, so gravity pulls the bob along it less strongly. Think about how those two things work together.)
+- *deep:* Energy is never lost, only changed. When a swing stops, where did its energy go, and can it come back? (hint: Think about the air the swing pushed through and the pivot it rubbed on.)
 - *deep:* A child can pump a swing higher with no help from anyone. Where does the extra energy come from? (hint: Think about what the child's muscles did, and what gave them energy.)
 - *big:* Before pendulum clocks, how did people share one time between towns? What changed when clocks agreed? (hint: Think about trains, markets and school bells.)
-- *big:* The Millennium Bridge was strong, yet a crowd made it sway. Can many small things, each doing no harm, together cause a big surprise? (hint: Think about the pushes at the right beat.)
-- *big:* A pendulum measures the pull of the Earth without touching the Earth. What else might we learn about a place by watching something small swing? (hint: A clock moved to Cayenne lost time. What does that say about the ground under it?)
+- *big:* The Millennium Bridge was strong, yet a crowd made it sway. Can many small pushes, each harmless alone, add up to something big? (hint: Think about the pushes at the right beat.)
+- *big:* A pendulum measures the pull of the Earth without touching the Earth. What else might we learn about a place by watching something small swing? (hint: A pendulum clock taken to Cayenne, near the equator, lost time. What does that tell you about the Earth's pull there?)
 
 ## Story: Higher Than the Start
 *The story is made up. The science in it is real. A swing let go without a push never rises above its starting height. The best way to make it go higher is to move your body at the right moments, which is called pumping. Families in Karnataka and elsewhere hang swings from mango trees for festivals.*
@@ -216,7 +216,7 @@ That evening, Vikram lay in the hammock. "Anjali," he said slowly. "I was wrong 
 
 The next morning Grandmother brought out a small brass bell on a string, and hung the bell from the tree, where a little breeze set the bell swinging. "This is the oldest clock in the house," she said. "It never stops, because the wind keeps pushing it at the right time." Anjali and Vikram sat beside it, and counted how often it swung in a minute.
 
-**For the parent:** For the parent: a swing let go from a height cannot rise above that height on its own, because its speed at the bottom is paid for by the height it fell. A person can add energy by moving their body in time with the swing, which is called pumping. The energy comes from the person's own muscles.
+**For the parent:** For the parent: a swing let go from a height cannot rise above that height on its own, because its speed at the bottom comes from the height it fell. A person can add energy by moving their body in time with the swing, which is called pumping. The energy comes from the person's own muscles.
 
 - Ask: Why did the swing not reach the chalk line, even when Vikram leaned back?
 - Ask: What did Grandmother do that made the swing go higher without anyone pushing it?
@@ -226,26 +226,26 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 ## Games
 ### g1 · Swap Shop: height energy or movement energy? (20 min)
 - **rules:** One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player puts one token face down. Pick Height if you think the height energy is bigger. Pick Movement if you think the movement energy is bigger.; Everyone turns their token over together. Then the reader reads the back.; A player with the right token scores 1 point. A player who also says the reason before the back is read scores 2 points.; Some cards have no right token because the answer is that neither is changing, or that both are present. For these, say what you think. A good reason scores 1 point.; Pass the reader's job to the next player after four cards. The game ends when the pile is finished. The player with the most points wins.; To play alone, read a card, pick a token and say your reason out loud before you check the back. Score 1 point for each right answer. Try to beat 16 out of 24.
-- **Printable cards: 24 two-sided cards: a moment on the front, and the answer with the reason on the back:** A bob is pulled aside and held still, ready to be let go. (back: Height energy. The bob is high and not moving at all, so all its energy is height energy.); A swing is at the very bottom of its path, moving fastest. (back: Movement energy. At the bottom the swing is lowest, so it has used up its height and has the most speed.); A swing reaches the end of its path and stops for a moment. (back: Height energy. At the top it has stopped moving, so all its energy is stored in its height.); A cricket ball is thrown straight up and is at the top, just before it falls. (back: Height energy. At the very top, the ball stops for a moment, so it has no movement energy.); The same cricket ball just before it hits the ground. (back: Movement energy. It has fallen all the way, so its height energy has turned into speed.); A child sits at the top of a slide and has not yet slid down. (back: Height energy. The child is high and still.); A child reaches the bottom of the slide at full speed. (back: Movement energy. The child is at the lowest point and moving fastest.); A water tank on a roof, full of water that is not moving. (back: Height energy. The water is high and still, and could fall.); Water rushing out of the bottom of a tall pipe. (back: Movement energy. The water has fallen down the pipe, and its height energy has turned into speed.); A roller coaster car is at the top of the first big hill, just starting to tip over. (back: Height energy. At the top of the hill the car is high and slow.); A roller coaster car is at the bottom of the first big hill. (back: Movement energy. The car is lowest and fastest.); A bag of coins hangs on a thread at rest, straight down. (back: Neither is changing. It is at its lowest point and still, so it has no extra height energy and no movement energy.); A pendulum bob passes through the bottom, then rises on the far side. (back: It swaps from movement energy to height energy. As it rises, its speed turns back into height.); A swing on its way down, halfway between the top and the bottom. (back: Both are present. Half of its height energy has already turned into movement energy.); A marble rolled up the side of a bowl and stopping at the highest point it reaches. (back: Height energy. At the very top the marble stops, so its speed has turned into height.); A child on a playground swing crouching at the top of the swing and standing at the bottom. (back: The child adds energy. Standing up at the bottom puts extra movement energy into the swing, so the swing climbs a little higher each time.); A pendulum bob in a peg test, swinging a tight curve around a peg. (back: The same height energy at the top. With a peg, the bob rises to the same height as before, though its path is tighter.); A swing is let go from the same height a second time, but now the air has slowed it a little. (back: The swing returns a bit lower. A little of its energy has become warmth in the air and the pivot.); A ball rolls down a ramp from a stack of 3 books, then rolls up a ramp on the other side. (back: It rises to nearly the same height. Its height energy turns to movement at the bottom, then back to height.); A skateboarder at the lip of a half-pipe, just before dropping in. (back: Height energy. The skateboarder is high up and still.); A skateboarder at the bottom of a half-pipe, moving fast. (back: Movement energy. The skateboarder is lowest and fastest.); A heavy ball and a light ball are let go together from the same height. Which is faster at the bottom? (back: They are both the same speed. Gravity pulls a heavier ball harder, but it is also harder to speed up, so they arrive together.); A bag of coins is lifted to chin height, then to waist height. Which has more height energy? (back: Chin height. The higher the bag is held, the more height energy it has.); A gibbon swinging below a branch at the lowest point of her swing. (back: Movement energy. She is lowest and fastest, which is when she lets go to reach the next branch.)
+- **Printable cards: 24 two-sided cards: a moment on the front, and the answer with the reason on the back:** A bob is pulled aside and held still, ready to be let go. (back: Height energy. The bob is high and not moving at all, so all its energy is height energy.); A swing is at the very bottom of its path, moving fastest. (back: Movement energy. At the bottom the swing is lowest, so it has used up its height and has the most speed.); A swing reaches the end of its path and stops for a moment. (back: Height energy. At the top it has stopped moving, so all its energy is stored in its height.); A cricket ball is thrown straight up and is at the top, just before it falls. (back: Height energy. At the very top, the ball stops for a moment, so it has no movement energy.); The same cricket ball just before it hits the ground. (back: Movement energy. It has fallen all the way, so its height energy has turned into speed.); A child sits at the top of a slide and has not yet slid down. (back: Height energy. The child is high and still.); A child reaches the bottom of the slide at full speed. (back: Movement energy. The child is at the lowest point and moving fastest.); A water tank on a roof, full of water that is not moving. (back: Height energy. The water is high and still, and could fall.); Water rushing out of the bottom of a tall pipe. (back: Movement energy. The water has fallen down the pipe, and its height energy has turned into speed.); A roller coaster car is at the top of the first big hill, just starting to tip over. (back: Height energy. At the top of the hill the car is high and slow.); A roller coaster car is at the bottom of the first big hill. (back: Movement energy. The car is lowest and fastest.); A bag of coins hangs on a thread at rest, straight down. (back: Neither is changing. It is at its lowest point and still, so it has no extra height energy and no movement energy.); A pendulum bob passes through the bottom, then rises on the far side. (back: It swaps from movement energy to height energy. As it rises, its speed turns back into height.); A swing on its way down, halfway between the top and the bottom. (back: Both are present. Half of its height energy has already turned into movement energy.); A marble rolled up the side of a bowl and stopping at the highest point it reaches. (back: Height energy. At the very top the marble stops, so its speed has turned into height.); A child on a playground swing crouching at the top of the swing and standing at the bottom. (back: The child adds energy. Standing up at the bottom puts extra movement energy into the swing, so the swing climbs a little higher each time.); A pendulum bob in a peg test, swinging in a tight curve around a peg. (back: The same height energy at the top. With a peg, the bob rises to the same height as before, though its path is tighter.); A swing is let go from a height. The air slows it a little as it swings across and back. (back: The swing returns a bit lower. A little of its energy has become warmth in the air and the pivot.); A ball rolls down a ramp from a stack of 3 books, then rolls up a ramp on the other side. (back: It rises to nearly the same height. Its height energy turns to movement at the bottom, then back to height.); A skateboarder at the lip of a half-pipe, just before dropping in. (back: Height energy. The skateboarder is high up and still.); A skateboarder at the bottom of a half-pipe, moving fast. (back: Movement energy. The skateboarder is lowest and fastest.); A heavy ball and a light ball are let go together from the same height. Which is faster at the bottom? (back: Both have the same speed. Gravity pulls a heavier ball harder, but a heavier ball is also harder to speed up, so they arrive together.); A bag of coins is lifted to chin height, then to waist height. Which has more height energy? (back: Chin height. The higher the bag is held, the more height energy it has.); A gibbon swinging below a branch at the lowest point of her swing. (back: Movement energy. She is lowest and fastest, which is when she lets go to reach the next branch.)
 - **Printable tokens: 8 tokens: four that say Height and four that say Movement:** Height; Height; Height; Height; Movement; Movement; Movement; Movement
 - **s1 (3 min)**  
   *Parent does:* Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.  
   *Parent says:* These cards show moments in a swing or a fall. Each player gets two tokens, Height and Movement.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take two tokens.
-  - Note: Cutting needs scissors: a grown-up helps younger children, or just fold the sheet and tear. Any two kinds of tokens work, for example two coins where heads is Height and tails is Movement. Works for 1 to 4 players.
+  - Note: The cards are cut out with scissors, so a grown-up should help younger children. You can also fold the sheet and tear along the folds. Any two kinds of tokens work, for example two coins where heads is Height and tails is Movement. The game works for 1 to 4 players.
 - **s2 (3 min)**  
   *Parent does:* Play one practice card together. Use the card about a swing at the very bottom of its path. Show how to turn the tokens over together.  
   *Parent says:* A swing is at the very bottom, moving fastest. Which kind of energy is bigger there? Choose a token and say why.  
   *Child mode:* A swing is at the bottom. Which energy is bigger? Pick a token.
   - Check: A swing is at the very bottom of its path, moving at its fastest. Which kind of energy is bigger? → **Movement energy**
 - **s3 (8 min)**  
-  *Parent does:* Play the next twelve cards. After each card, read the back aloud. Ask each player for a reason before the back is read.  
+  *Parent does:* Play the next twelve cards. For each card, ask each player for a reason first. Then read the back aloud.  
   *Parent says:* Pick your token and tell me why. Then we check the back. Who got a point? Who gave a good reason?  
   *Child mode:* Pick a token. Say why. Then check the back.
   - Ask: What do the cards with height energy have in common? (good: The thing is high up and not moving.; It is at the top and has stopped for a moment.)
-  - Note: Listen for reasons that use both ideas. A child who says 'it is fast, so movement' is right. A child who says 'it is high, so height' is right. Ask what happens to the other kind at that moment.
+  - Note: Listen for reasons that use both kinds of energy. A child who says 'it is fast, so movement' is right. A child who says 'it is high, so height' is right. Then ask what the other kind of energy is doing at that moment.
 - **s4 (4 min)**  
-  *Parent does:* Play the last eleven cards. Pay attention to the cards where neither or both are present. Talk about why those cards are different.  
+  *Parent does:* Play the last eleven cards. Look out for the cards where the answer is neither kind of energy, or both. Talk about why those cards are different.  
   *Parent says:* Some cards have no single answer. For these, say what is happening to the energy. Is it swapping, adding, or being lost?  
   *Child mode:* Some cards have no single token. Say what is happening to the energy.
   - Ask: What happens to energy when a swing slows down and stops? (good: It turns into warmth in the air and the pivot.; It is not lost. It changes into heat.)
@@ -258,16 +258,16 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 ## Experiments
 ### e1 · The Peg Test: does a bob rise to the same height? (35 min)
 - **question:** When a pencil catches the thread halfway and makes the bob swing a shorter, tighter path, does the bob still rise to the height it started from?
-- **predict:** Before you start, guess. Will the bag rise to the same height with the peg, higher, or lower? Will it rise as high as it does without the peg? Why do you think so?
+- **predict:** Before you start, guess. With the peg, will the bag rise to the height it started from, higher, or lower? Why do you think so?
 - **fair test:** Use the same bag of coins, the same thread and the same starting height every time. Only the length of the thread below the peg changes. Mark the starting height on the paper and compare where the bag stops on the other side.
 - **safety:** Keep your face and feet away from the swing path. Let go gently without pushing. The peg must not stick out far enough to catch anyone's arm. Tape the pencil on with the blunt end sticking out and the sharp tip flat against the wall, never pointing at a face. Ask a grown-up before taping to a painted wall.
 - **record:** For each test, write the highest point the bag reached on the far side. Draw the swing and the peg for the last test. Then circle whether the height was the same, higher or lower than the start.
 - **results table:** Test | Length of thread below the peg (cm) | Our guess for how high it rises | Highest point it reached on the far side (cm above rest) | Same, higher or lower than the start?
 - **s1 (8 min)**  
-  *Parent does:* 1. Lay the ruler on the table with 10 centimetres over the edge and the books on top. 2. Tie the thread to the tip of the ruler. 3. Make the thread 50 centimetres to the middle of the bag. 4. Push the table towards a plain wall or cupboard side. The ruler should point at it. Stop when the thread hangs about 3 centimetres from the wall. The bag will swing sideways, along the wall. Tape a sheet of paper on the wall behind the bag. 5. With the bag hanging still, hold a pencil level with the middle of the bag and mark the paper. 6. Mark a second line 6 centimetres above that.  
+  *Parent does:* 1. Lay the ruler on the table with 10 centimetres over the edge and the books on top. 2. Tie the thread to the tip of the ruler. 3. Make the thread 50 centimetres long, measured from the ruler to the middle of the bag. 4. Push the table towards a plain wall or cupboard side. The ruler should point at it. Stop when the thread hangs about 3 centimetres from the wall. The bag will swing sideways, along the wall. Tape a sheet of paper on the wall behind the bag. 5. With the bag hanging still, hold a pencil level with the middle of the bag and mark the paper. 6. Mark a second line 6 centimetres above that.  
   *Parent says:* The ruler's tip is the pivot. The bag of coins is the bob. The first line on the paper is where the bag rests. The second line is where we will let go.  
   *Child mode:* Hang the bag from the ruler. Put paper on the wall behind it. Mark two lines.
-  - Note: Use a wall or cupboard that is flat and does not move. A cereal box does not work: the peg sits 25 centimetres below the pivot, higher than a box standing on the floor. Keep the thread about 3 centimetres from the wall so the swing does not touch it, and tape the knot on the ruler so it cannot slide. Measure the lines from the middle of the bag. With 2 to 4 children: one lets go, one sights along the line at the paper, one writes, and you swap after each test. With one child: the child lets go and you sight.
+  - Note: Use a wall or cupboard that is flat and does not move. A cereal box is too short to use: the peg has to sit 25 centimetres below the pivot, which is higher than a box standing on the floor. Keep the thread about 3 centimetres from the wall so the swing does not touch it, and tape the knot on the ruler so it cannot slide. Measure the lines from the middle of the bag. With 2 to 4 children: one lets go, one looks across at the paper, level with the line, and one writes. Swap after each test. With one child: the child lets go and you look across at the paper.
 - **s2 (4 min)**  
   *Parent does:* Ask your child for a guess and a reason for each of the three tests. Write the guesses in the table.  
   *Parent says:* We will let the bag go from the top line three times. First with no peg. Then with a peg that catches the thread halfway. Then with a peg lower down. How high will it rise each time? Why?  
@@ -275,20 +275,20 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   - Ask: What do you think will happen with the peg? Why? (good: It will go higher, because the thread is shorter and it gets flung.; It will go lower, because the thread is shorter.; It will be the same, because it started at the same height.)
   - Note: Do not say which is right. Write down the reason as well as the guess. Many children guess higher, because a tighter curve feels like a flick.
 - **s3 (7 min)**  
-  *Parent does:* 1. Hold the bag at the top line. 2. Let go without pushing. 3. Watch where the bag stops on the far side. 4. Ask someone to sight across at the paper and say which line it reached. 5. Do it three times. Write the highest point each time.  
+  *Parent does:* 1. Hold the bag at the top line. 2. Let go without pushing. 3. Watch where the bag stops on the far side. 4. Ask someone to look across at the paper, level with the line, and say which line the bag reached. 5. Do it three times. Write the highest point each time.  
   *Parent says:* Test one has no peg. Let go gently and do not push. Where does the bag stop on the far side? Is it at the top line, above it or below it?  
   *Child mode:* Let the bag go without a push. Watch where it stops on the far side.
-  - Note: The bag should stop a finger-width or less below the top line. If it stops much lower, check that the thread is not rubbing and that the wall is not touching the bag. Looking from the side, level with the line, is the easiest way to see. For a clearer read, film the swing from the side with a phone propped level with the line and pause the video at the top.
+  - Note: The bag should stop a finger-width or less below the top line. If it stops much lower, check that the thread is not rubbing and that the wall is not touching the bag. Looking from the side, level with the line, is the easiest way to see. To see it more clearly, film the swing from the side with a phone propped level with the line and pause the video at the top.
 - **s4 (8 min)**  
   *Parent does:* 1. Tape the pencil to the wall so it sticks out 8 centimetres. Keep the blunt end out and the sharp tip flat on the wall. 2. Put it right under the pivot, 25 centimetres above the middle of the resting bag, so the hanging thread just touches it. 3. Hold the bag at the top line on the other side and let go. 4. The thread should catch on the pencil as the bag passes the bottom. 5. Mark where the bag stops. 6. Do it three times.  
   *Parent says:* Test two has a peg. The thread will catch on the pencil, and the bag will have to swing in a tighter curve. Where will it stop?  
   *Child mode:* Tape on the pencil peg. Let go. Where does the bag stop?
-  - Note: The thread catches the pencil as the bag passes the bottom. The bag should rise to nearly the same top line, even though the swing is quicker. If it wraps round the pencil, the starting height is too high for the short part of the thread. Use a lower line. The thread rubs the pencil a little, so with a peg the bag may come back slightly lower than without one. That is friction taking a little energy, not a failed test. A smooth, round peg loses least.
+  - Note: The thread catches the pencil as the bag passes the bottom. The bag should rise to nearly the same top line, even though the swing is quicker. If the thread wraps round the pencil, the starting height is too high for the short part of the thread. Use a lower line. The thread rubs the pencil a little, so with a peg the bag may come back slightly lower than without one. That is friction taking a little energy, not a failed test. A smooth, round peg takes the least energy.
 - **s5 (5 min)**  
   *Parent does:* 1. Move the pencil lower, so the part of the thread below it is only 12 centimetres. 2. Let go from the top line, which is 6 centimetres up. 3. Mark where the bag stops. 4. Do it three times.  
   *Parent says:* Test three has the peg much lower. The curve is even tighter. Will the bag still reach the same height?  
   *Child mode:* Move the peg lower. Try again. Does the bag still reach the line?
-  - Note: With 12 centimetres of thread below the peg, the bag swings on a small circle. It should typically still reach about 5 to 6 centimetres. If it does not, check that the thread is not slack.
+  - Note: With 12 centimetres of thread below the peg, the bag swings on a small circle. It should still reach about 5 to 6 centimetres above the line where it rests. If it does not, check that the thread is not slack.
   - Check: With the peg, the bag swung a tighter path. Where did it stop on the far side? → **At nearly the same height as the start**
 - **s6 (3 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they think, what they saw and why.  
@@ -317,12 +317,12 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   *Parent does:* 1. Hold the bag at 5 centimetres above rest. 2. Let go gently, without pushing. 3. Catch the bag after it hits the box. 4. Measure how far the box slid. 5. Reset the box and do it two more times.  
   *Parent says:* Let go gently, and catch the bag after the hit. Measure how far the box slid. Do it three times for each height.  
   *Child mode:* Let go from 5 centimetres. Catch the bag. Measure the slide.
-  - Note: The first height may only push the box a few centimetres. That is fine. Measure from the tape to the front of the box. If the box and bag stick together, tape a small piece of card to the box end. With 2 to 4 children: one holds and lets go, one catches the bag, one measures the slide, one writes. Swap heights between children. If the box does not move at all at 5 centimetres, use a lighter box or a smoother floor.
+  - Note: The first height may only push the box a few centimetres. That is fine. Measure from the tape to the front of the box. If the box and bag stick together, tape a small piece of card to the box end. With 2 to 4 children: one holds and lets go, one catches the bag, one measures the slide, one writes. Swap jobs when you change the height. If the box does not move at all at 5 centimetres, use a lighter box or a smoother floor.
 - **s4 (6 min)**  
   *Parent does:* 1. Now let go from 10 centimetres above rest, three times. 2. Then let go from 20 centimetres, three times. 3. Measure each slide and write it in the table. 4. Work out the mean for each height.  
   *Parent says:* Now the same test from 10 centimetres, then from 20. Measure every slide. What do you notice?  
   *Child mode:* Test 10 centimetres, then 20. Measure the slides. What changes?
-  - Note: Typically the slide grows about as fast as the height does, so 10 centimetres slides roughly twice as far as 5, though the results are untidy. The chart is made up: your numbers depend on your floor and your box, so look at the pattern, not the exact numbers. A bumpy floor, a tipping box or a bag that hits off-centre all add noise. That is why we take the mean of three tries.
+  - Note: The slide usually grows about as fast as the height does, so 10 centimetres slides roughly twice as far as 5, though the results are untidy. The example chart is made up: your numbers depend on your floor and your box, so look at the pattern, not the exact numbers. A bumpy floor, a tipping box or a bag that hits off-centre all make the results untidy. That is why we take the mean of three tries.
   - Check: When the bag started from a greater height, what happened to the slide of the box? → **The box slid further**
 - **s5 (3 min)**  
   *Parent does:* Look at your bar chart. Ask your child to say what they think, what they saw and why.  
@@ -332,14 +332,14 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 ### e3 · How Many Swings Should You Time? (30 min)
 - **question:** If you work out the time of one swing by timing 1 swing, 10 swings or 30 swings, which way gives answers that are closest to each other?
 - **predict:** Before you start, guess. Which way will give the answers that are closest together: timing 1 swing, 10 swings or 30 swings? Why do you think so?
-- **fair test:** Use the same 25 centimetre pendulum and the same small start every time. Only the number of swings you time changes. Press the stopwatch the same way each time, and do the same number of tries for each count.
+- **fair test:** Use the same 25 centimetre pendulum, and pull the bag the same small distance aside every time. Only the number of swings you time changes. Press the stopwatch the same way each time. Do five tries for 1 swing, five for 10 swings and three for 30 swings, because 30 swings takes longer.
 - **record:** Fill in the table. For each try, divide the total time by the number of swings. Write the smallest and the biggest answer for each count. Circle the count where they are closest.
 - **results table:** Number of swings timed | Try 1 (s) | Try 2 (s) | Try 3 (s) | Try 4 (s) | Try 5 (s) | Time of one swing (s) from each try | Smallest and biggest time of one swing (s)
 - **s1 (5 min)**  
   *Parent does:* 1. Set up the coin pendulum on the ruler. 2. Make the thread 25 centimetres to the middle of the bag. 3. Practise one swing: pull the bag a hand-width aside, let go and count one when it returns.  
   *Parent says:* A 25 centimetre pendulum should take about 1 second for a full swing. We will find out how well we can measure that.  
   *Child mode:* Make the thread 25 centimetres. Practise one swing. Count one when it returns.
-  - Note: One swing is there and back. The bag should return to the starting hand in about 1 second. Two people work best: one lets go and counts, the other works the stopwatch. With 2 to 4 children, each child is the timer for one count (1, 10 or 30 swings) and the others count and let go. Then compare whose answers are closest together.
+  - Note: One swing is there and back. The bag should return to the hand that let it go in about 1 second. Two people work best: one lets go and counts, the other works the stopwatch. With 2 to 4 children, each child is the timer for one count (1, 10 or 30 swings) and the others count and let go. Then compare whose answers are closest together.
 - **s2 (3 min)**  
   *Parent does:* Ask for a guess and a reason. Write it down.  
   *Parent says:* We will time 1 swing, then 10, then 30. Which will give answers that are closest together? Why do you think so?  
@@ -366,7 +366,7 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   *Parent does:* Look at the smallest and biggest time of one swing for each count. Ask your child to say what they found.  
   *Parent says:* Which count gave the smallest gap between the smallest and the biggest answer? Tell me what you think, what you saw and why.  
   *Child mode:* Which count gave the smallest gap? Say why.
-  - Ask: What did you find out? (good: What I think: timing more swings is better. What I saw: the 30 swing times were closest together. Why: the stopwatch mistake is the same size, but a small share of a long time.)
+  - Ask: What did you find out? (good: What I think: timing more swings is better. What I saw: the 30 swing times were closest together. Why: the stopwatch mistake is about the same size every time. In a long time, that mistake is only a small part of the total.)
 
 ## Activities
 ### a1 · Marble in a Bowl: how high does it climb? (15 min)
@@ -380,7 +380,7 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   *Parent does:* Stick a small piece of tape inside the bowl where you let go. Try again from there. Then stick a second piece of tape on the other side where the marble stops. Hold a ruler upright beside the bowl and read the height of each piece of tape. Do it for three starting points: low, middle and near the rim.  
   *Parent says:* The first tape marks where the marble starts. The second marks where it stops. How high is each? Is the stop higher, lower or the same as the start?  
   *Child mode:* Mark the start with tape. Mark where the marble stops. Measure both with a ruler. Do it three times.
-  - Note: The marble should reach almost the same height each time, a finger-width below. If a steel bowl is very small, the marble may leave the rim. Keep the start lower in a small bowl. With 2 to 4 children: one lets go, one marks the stop, one measures, one writes; swap each try. Read heights from the side, level with the tape.
+  - Note: The marble should reach almost the height it started from each time, about a finger-width below. In a very small steel bowl the marble may fly out over the rim, so start it lower. With 2 to 4 children: one lets go, one marks the stop, one measures, one writes. Swap after each try. Read heights from the side, level with the tape.
 - **s3 (2 min)**  
   *Parent does:* Ask for a guess about a pendulum, and write it down for later.  
   *Parent says:* A marble in a bowl is a bit like a bag of coins swinging on a thread. Do you think the bag will climb back to where it started? Why?  
@@ -392,7 +392,7 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 - **s1 (4 min)**  
   *Parent does:* 1. Pass the thread through the straw. 2. Tie the bag to the lower end, so it hangs 40 centimetres below the straw. 3. Hold the straw upright in your left hand. 4. Hold the top end of the thread in your right hand.  
   *Parent says:* The straw is the pivot. The thread goes up through it, and your right hand can pull it up or let it out.  
-  *Child mode:* Thread the straw. Tie the bag on. Hold the straw up. Hold the thread top.
+  *Child mode:* Thread the straw. Tie the bag on. Hold the straw up. Hold the top of the thread.
 - **s2 (5 min)**  
   *Parent does:* 1. Start a small swing of about 10 centimetres. 2. Watch it for five swings without touching the thread. 3. Write down how wide the swing is at the start and after five swings.  
   *Parent says:* First we watch what the swing does on its own. It should stay about the same size, or shrink a little.  
@@ -402,12 +402,12 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   *Parent does:* 1. As the bag passes the bottom, pull the thread up through the straw by about 3 centimetres. 2. As the bag reaches the end, let the thread slide down again. 3. Do this for ten swings. 4. Measure how wide the swing is now and write it next to the earlier numbers.  
   *Parent says:* Pull the thread up when the bag is at the bottom. Let it out when the bag is at the ends. Does the swing grow?  
   *Child mode:* Pull the thread at the bottom. Let it out at the ends. Does the swing grow?
-  - Note: This takes practice. If the swing does not grow, pull faster at the bottom and let go more slowly. The thread should not rub hard in the straw. Also try pulling the thread only on every other pass. Even if the swing grows only a little, the bag moves faster when you pull in. This one is fussy and may take several tries; it is a try, not a promise. With 2 to 4 children, take turns pumping and one measures: who makes the swing widest in ten swings? If it will not grow, go to a real playground swing and pump it by standing at the bottom and crouching at the ends, which is the same trick.
-  - Check: When you pull the thread up at the bottom of the swing, where does the extra energy come from? → **From your hand and arm, which do work on the thread**
+  - Note: This takes practice. If the swing does not grow, pull faster at the bottom and let the thread out more slowly. The thread should not rub hard in the straw. Also try pulling the thread only on every other pass. Even if the swing grows only a little, the bag moves faster when you pull the thread in. This activity is fussy. It may take several tries, and it may not work every time. With 2 to 4 children, take turns pumping while one child measures, and see who makes the swing widest in ten swings. If the swing will not grow, go to a real playground swing and pump it by standing up at the bottom and crouching at the ends. It is the same trick.
+  - Check: When you pull the thread up at the bottom of the swing, where does the extra energy come from? → **From your hand and arm, which pull on the thread**
 ### a3 · The Ruler Pendulum: a stiff swinger (20 min)
 - **record:** Write the time for 10 swings of the ruler. Write the thread length that gave the same time. Draw both pendulums side by side.
 - **s1 (5 min)**  
-  *Parent does:* 1. Lay the pencil on the table with 5 centimetres over the edge. Press it down with the books. 2. Slip the thread loop on the ruler over the pencil end. Put a lump of tape on the tip so it cannot slide off. 3. Pull the lower end of the ruler aside by one hand-width and let go. 4. Watch it swing.  
+  *Parent does:* 1. Lay the pencil on the table with 5 centimetres over the edge. Press it down with the books. 2. Slip the thread loop on the ruler over the pencil end. Put a lump of tape on the tip of the pencil so the loop cannot slide off. 3. Pull the lower end of the ruler aside by one hand-width and let go. 4. Watch it swing.  
   *Parent says:* The pencil is the pivot. The ruler is the bob and the thread together. Will it swing faster or slower than a coin on a 30 centimetre thread?  
   *Child mode:* Hang the ruler on a pencil. Let it swing. Is it quick or slow?
   - Ask: Will the ruler swing faster or slower than a coin bag on a 30 centimetre thread? Why? (good: Faster, because the top half is close to the pivot.; Slower, because it is heavier.; The same, because it is the same length.)
@@ -430,7 +430,7 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   *Parent does:* 1. Put the bucket on the floor under the table edge, with a towel under it. 2. Hang the bag so it dips into the bucket's middle when the bucket is full. 3. First, swing the bag with the bucket empty: pull it 10 centimetres aside and let go. 4. Count the swings until the swing is only half as wide, about 5 centimetres.  
   *Parent says:* First we swing the bag through air only. Count how many swings it makes before the swing is half as wide as when you started.  
   *Child mode:* Swing the bag with the bucket empty. Count the swings.
-  - Note: Air swings last a long time. If your child gets tired of counting, stop at 30 swings and write 30 or more. The thread is long, so the pivot should be above the bucket's middle. If your table is much shorter, the bag must still hang in the bucket's middle, with room under it.
+  - Note: In air the bag swings for a long time. If your child gets tired of counting, stop at 30 swings and write 30 or more. The thread is long, so the pivot should be above the bucket's middle. If your table is much shorter, the bag must still hang in the bucket's middle, with room under it.
 - **s2 (3 min)**  
   *Parent does:* Ask for a guess about the water swing. Write it down.  
   *Parent says:* Now we fill the bucket and swing through water. How many swings do you think it will make? Why?  
@@ -440,17 +440,17 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   *Parent does:* 1. Fill the bucket with water so the bag is under the surface. 2. Pull the bag 10 centimetres aside. 3. Let go gently. 4. Count the swings until the swing is half as wide. Write 0 if it does not even swing back.  
   *Parent says:* Pull the bag aside and let go. Count how many swings it makes. What happens?  
   *Child mode:* Pull the bag aside in the water. Let go. Count the swings.
-  - Note: In water the bag typically makes only one or two slow swings, or just creeps back to the middle. Water is much thicker than air, so it takes energy from the swing very quickly. If the bag floats up and the thread goes slack, squeeze out more air or add more coins. With 2 to 4 children: one pulls and lets go, one counts, one writes; compare air against water as a ratio.
+  - Note: In water the bag usually makes only one or two slow swings, or just creeps back to the middle. Water is much thicker than air, so it takes energy from the swing very quickly. If the bag floats up and the thread goes slack, squeeze out more air or add more coins. With 2 to 4 children: one pulls and lets go, one counts, one writes. Then work out how many times more swings the bag made in air than in water.
   - Check: Why does a pendulum stop so much sooner in water than in air? → **Water pushes back much harder than air**
 
 ## Projects
 ### p1 · Weigh the Pull of the Earth: find gravity with a pendulum (40 min, 2 days)
 - **safety:** A grown-up should hang the thread from the door frame or shelf, and no child should climb on a chair to do it. Keep faces and feet out of the swing path. Tie the door open and ask the family to use another route while the thread hangs, so nobody walks into it.
 - **record:** Write the length of the pendulum, the three times for 30 swings and the mean. Show each step of your sum. Compare your answer with 9.8.
-- **schedule:** day 1: Hang a pendulum exactly 1 metre long from the pivot to the middle of the bag. Check that 10 swings take about 20 seconds. (20 min); day 2: Time 30 swings three times, find the mean, work out the time for one swing and then use the rule to find g. (20 min)
+- **schedule:** day 1: Hang a pendulum exactly 1 metre long from the pivot to the middle of the bag. Check that 10 swings take about 20 seconds. (20 min); day 2: Time 30 swings three times, find the mean, work out the time for one swing and then use the rule for the period to find how strongly the Earth pulls. (20 min)
 - **s1 (12 min)**  
   *Parent does:* 1. Tape the end of the thread to the top of a door frame or a high shelf edge. 2. Tie the bag to the other end. 3. Measure from the tape to the middle of the bag. 4. Move the knot until it is exactly 100 centimetres. 5. Tape the thread at the top so that it cannot slip.  
-  *Parent says:* The pendulum must be exactly one metre from the pivot to the middle of the bag. Measure twice. Is it still 100 after taping?  
+  *Parent says:* The pendulum must be exactly one metre from the pivot to the middle of the bag. Measure twice. Is it still 100 centimetres after taping?  
   *Child mode:* Hang the thread from the top. Make it exactly 100 centimetres.
   - Note: Choose a spot out of draughts, away from a fan or a window. The bag must swing freely in front of the door or shelf, not touch it. A swing of 10 centimetres either side is enough.
 - **s2 (8 min)**  
@@ -466,10 +466,10 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   - Wait: Day 2: continue from here.
 - **s4 (8 min)**  
   *Parent does:* 1. Add the three times and divide by 3 to get the mean. 2. Divide the mean by 30 to get the time of one swing. 3. Multiply that time by itself. 4. Divide 39.5 by that answer.  
-  *Parent says:* Add the three times and divide by three. Then divide by thirty. Multiply the answer by itself. Then divide 39.5 by the result. That is the pull of the Earth.  
+  *Parent says:* Add the three times and divide by three. Then divide by thirty. That gives the time of one swing. Now multiply that time by itself. Then divide 39.5 by the result. The answer is the strength of the Earth's pull. We turned the period rule round to find it. Scientists measure that pull as about 9.8.  
   *Child mode:* Find the mean. Divide by 30. Multiply by itself. Divide 39.5 by that.
-  - Note: Worked example: 60.2 seconds for 30 swings gives 2.007 seconds for one swing. Multiplied by itself that is 4.03. Then 39.5 divided by 4.03 is 9.8. A calculator helps. Your answer will typically be within about 5 percent of 9.8, so anywhere from about 9.3 to 10.3 is a good result. The number 39.5 is 4 times pi times pi.
-  - Check: A pendulum 1 metre long takes 2.1 seconds for one swing on a planet. Compared with the Earth, is the pull there stronger or weaker? → **Weaker, because the swing is slower**
+  - Note: Worked example: 60.2 seconds for 30 swings gives 2.007 seconds for one swing. Multiplied by itself that is 4.03. Then 39.5 divided by 4.03 is 9.8. A calculator helps. Your answer will typically be within about 5 percent of 9.8, so anywhere from about 9.3 to 10.3 is a good result. The number 39.5 comes from turning the period rule round. The pull equals 4 times pi times pi times the length, divided by the period times itself. For a length of 1 metre, 4 times pi times pi is about 39.5.
+  - Check: On another planet, a pendulum 1 metre long takes 2.1 seconds for one swing. Is the pull there stronger or weaker than the Earth's? → **Weaker, because the swing is slower**
 - **s5 (5 min)**  
   *Parent does:* Compare your answer with 9.8. Ask your child why it might be a little different, and what to change next time.  
   *Parent says:* Is your answer close to 9.8? If not, what might have made it a bit bigger or smaller? What could we do better?  
@@ -479,12 +479,12 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 ## Challenges
 ### c1 · Three-Quarter Pendulum: where must the peg go? (40 min)
 - **problem:** A pendulum 36 centimetres long takes about 12 seconds for 10 swings. Place a peg so that 10 swings take about 9 seconds, which is three quarters of the time.
-- **your turn:** Now design your own peg pendulum. Choose a time you want, build it, test it and write what you found. Does the rule help you guess where to put the peg?
+- **your turn:** Now design your own peg pendulum. Choose a time you want, build it, test it and write what you found. Does the rule for the period help you guess where to put the peg?
 - **constraints:** Keep the thread 36 centimetres long, from the pivot to the middle of the bag.; Use only a pencil as the peg, fixed to the wall or cupboard behind the swing.; Let go from only 2 centimetres above the rest position.; The bag must swing a little way each side of the peg, and not wrap round it.
-- **general:** Fix the peg 27 centimetres below the pivot, so only 9 centimetres of thread is below it. The short side swings in half the time of the long side.; Time 10 swings with no peg first, so that you know the number to beat. Then add the peg and time again.; Check that 10 swings take about three quarters of the plain time.
+- **general:** Fix the peg 27 centimetres below the pivot, so only 9 centimetres of thread is below the peg. That short part is a quarter of 36 centimetres. A pendulum a quarter as long swings in half the time. So the short side of the swing takes half as long as the long side.; Time 10 swings with no peg first. This is the plain time. Then add the peg and time again.; Check that 10 swings take about three quarters of the plain time.
 - **creative:** Try a peg at other heights, and find the heights that make 10 swings take two thirds, or four fifths, of the plain time.; Use two pegs, so the thread wraps round one and then the other, and see how the time changes.; Make a table of peg height against 10-swing time, and draw a line graph.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together. Time 10 swings of the plain 36 centimetre pendulum. That is the number to beat.  
+  *Parent does:* Read the problem together. Time 10 swings of the 36 centimetre pendulum with no peg. This is the plain time.  
   *Parent says:* How long do 10 swings take without a peg? Now guess where the peg should go to make it three quarters of that time.  
   *Child mode:* Time ten plain swings. Guess where the peg should go.
   - Ask: Where do you think the peg should go? Why? (good: Lower down, because that makes the thread shorter.; Halfway, because three quarters is near half.)
@@ -493,7 +493,7 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
   *Parent does:* Fix the peg in your chosen place. Let go from 2 centimetres up. Time 10 swings twice. Move the peg and test again until you get close to 9 seconds.  
   *Parent says:* Place the peg and time 10 swings. Too slow? Put the peg lower. Too quick? Put it higher.  
   *Child mode:* Place the peg. Time ten swings. Move the peg. Try again.
-  - Note: A peg lower down makes more of the swing quick, so the total time is shorter. The plain time is about 12 seconds. The target is about 9. Allow half a second either way. Your times will differ by a few tenths with the stopwatch, so any result between about 8.5 and 9.5 seconds is a success. Use a smooth peg so the thread slides.
+  - Note: A lower peg leaves a shorter thread below it, so that side of the swing is quicker and the total time is shorter. The plain time is about 12 seconds. The target is about 9. Allow half a second either way. Your times will differ by a few tenths with the stopwatch, so any result between about 8.5 and 9.5 seconds is a success. Use a smooth peg so the thread slides.
 - **s3 (12 min)**  
   *Parent does:* Ask your child to explain why the answer works. Draw the pendulum with its peg.  
   *Parent says:* Half of each swing is on the long side, and half on the short. The short side takes half as long. Why does that give three quarters in all?  
@@ -502,14 +502,14 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 
 ## Worksheets
 ### Swings and Energy (core) (core, 16 questions)
-1. (label) Label this swing at its highest point on one side. Show where the height energy is biggest and where the movement energy is biggest in the whole swing.  
+1. (label) This picture shows a swing at its highest point on one side. Label where the height energy is biggest and where the movement energy is biggest in the whole swing.  
    **Answer:** ['height energy is biggest at the two ends', 'movement energy is biggest at the bottom']. *Why:* At the ends the bob is highest and stops for a moment, so it has the most height energy. At the bottom it is lowest and fastest, so it has the most movement energy.
 2. (match) Match each word to what it means.  
    **Answer:** Period → the time for one full swing, there and back; Amplitude → how far the bob swings from the middle to one end; Damping → the slow loss of a swing's energy to the air and the pivot; Resonance → pushes at the swing's own beat adding up; Escapement → the clock part that gives the pendulum a small push each swing. *Why:* These words come up all through the unit. A strong answer could give a swing example of each.
 3. (sort) Sort these moments. Is the height energy or the movement energy the bigger one?  
    **Answer:** a swing stopped for a moment at the end of its path → Height energy is bigger; a swing passing the bottom of its path → Movement energy is bigger; a stone at the top of its throw → Height energy is bigger; a stone just before it lands → Movement energy is bigger; a child at the top of a slide, about to go → Height energy is bigger; a child at the bottom of the slide → Movement energy is bigger. *Why:* A thing that is high up and still has mostly height energy. A thing that is low and fast has mostly movement energy.
 4. (truefalse) A swing that nobody pushes can rise higher than the place it was let go from.  
-   **Answer:** False. *Why:* False. The speed at the bottom was paid for by the height it fell. It can climb back to nearly the same height, but never higher, unless somebody adds energy.
+   **Answer:** False. *Why:* False. The speed at the bottom came from the height it fell. It can climb back to nearly the same height, but never higher, unless somebody adds energy.
 5. (truefalse) A heavy bob and a light bob on the same length of thread swing at about the same beat.  
    **Answer:** True. *Why:* True. The weight of the bob does not change the time of a swing. Gravity pulls a heavy bob harder, but it also needs more force to get moving, so the two cancel.
 6. (fill) A swing is moving fastest at the ______ of its path.  
@@ -534,14 +534,14 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
    Options: Only movement energy / Only height energy / Both, in equal parts / Neither  
    **Answer:** Only height energy. *Why:* It is not moving at that moment, so it has no movement energy. It is at its highest, so all its energy is height energy.
 15. (mcq) Why does timing 30 swings give a better answer for the time of one swing than timing 1 swing?  
-   Options: The pendulum swings faster when it is timed longer / The stopwatch mistake is the same size, but a small share of a long time / Thirty swings never get smaller / The pendulum is heavier after a long time  
-   **Answer:** The stopwatch mistake is the same size, but a small share of a long time. *Why:* Everyone presses the button a little early or late. That mistake is about the same size each time, so it spoils a long time much less than a short one.
-16. (perspective) Two cousins, Dhruv in Chennai and Farida in Hyderabad, argue about a park swing. Dhruv pushes the swing once and lets it go.  
-   **Answer:** A strong answer agrees with Farida. The swing cannot rise above the place it was let go from without an extra push. It gives Dhruv his due: a bigger push does make the swing go higher.. *Why:* This question checks that the child knows a swing gets its height from where it is let go, and that pushing adds energy.
+   Options: The pendulum swings faster when it is timed longer / The mistake is a smaller part of a longer time / Thirty swings never get smaller / The pendulum is heavier after a long time  
+   **Answer:** The mistake is a smaller part of a longer time. *Why:* Everyone presses the button a little early or late. That mistake is about the same size each time, so it spoils a long time much less than a short one.
+16. (perspective) Two cousins, the first child and the second child, argue about a park swing. The first child pushes the swing once and lets it go.  
+   **Answer:** A strong answer agrees with the second child. The swing cannot rise above the place it was let go from without an extra push. It gives the first child his due: a bigger push does make the swing go higher.. *Why:* This question checks that the child knows a swing gets its height from where it is let go, and that pushing adds energy.
 ### Why Swings Work (stretch) (stretch, 16 questions)
 1. (mcq) A bob is let go from 10 centimetres above rest. A peg shortens the thread. The bob rises to which height on the far side?  
    Options: Well above 10 centimetres / Well below 10 centimetres / Nearly 10 centimetres / It cannot rise at all  
-   **Answer:** Nearly 10 centimetres. *Why:* The path is tighter but the bob has the same energy. It rises to nearly the same height. A little energy is lost to the air.
+   **Answer:** Nearly 10 centimetres. *Why:* The path is tighter, but the bob has the same energy. It rises to nearly the same height. A little of its energy turns into warmth in the air.
 2. (mcq) A pendulum takes 4 seconds for a full swing. About how long is it?  
    Options: 1 metre / 2 metres / 4 metres / 16 metres  
    **Answer:** 4 metres. *Why:* A period of 4 seconds is twice the square root of the length. So the square root of the length is 2. The length is 2 times 2, which is 4 metres. If you chose 16, you squared 4.
@@ -565,15 +565,15 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 10. (write) Describe what happens to the energy of a bob in one full swing, starting from the moment you let go.  
    **Answer:** It starts with all height energy. As it falls, the height turns into movement energy. At the bottom it has the most movement energy. As it climbs, the movement turns back into height. At the far end it is all height again. A tiny bit leaks into warmth each swing.. *Why:* A strong answer names both kinds of energy, shows that they swap, and notes the small loss to warmth.
 11. (write) A child on a park swing stands up at the bottom of each swing and crouches at the top. Explain why the swing goes higher.  
-   **Answer:** The child pushes up against the swing at the bottom, when it moves fastest. That does work, and it adds energy to the swing. The extra energy comes from the child's own muscles.. *Why:* A strong answer says that the child adds energy with their own muscles, not that the swing makes it by itself.
-12. (perspective) Three friends in Mysuru, Latha, Imran and Pooja, talk about why a pendulum finally stops.  
-   **Answer:** A strong answer agrees most with Pooja, because the swing test showed air and rubbing taking energy as warmth. It gives Latha her due: gravity keeps pulling, but it pulls the bob back to the middle and does not stop it. It gives Imran his due: the movement has indeed gone, but it was changed into warmth.. *Why:* This question checks that the child can use the idea of energy changing form to judge three ideas fairly.
+   **Answer:** The child pushes up against the swing at the bottom, when it moves fastest. That push adds energy to the swing. The extra energy comes from the child's own muscles.. *Why:* A strong answer says that the child adds energy with their own muscles, not that the swing makes it by itself.
+12. (perspective) Three friends, the first child, the second child and the third child, talk about why a pendulum finally stops.  
+   **Answer:** A strong answer agrees most with the third child, because the air and the rubbing at the pivot take the swing's energy and turn it into warmth. It gives the first child her due: gravity keeps pulling, but it pulls the bob back to the middle and does not stop it. It gives the second child his due: the movement has indeed gone, but it was changed into warmth.. *Why:* This question checks that the child can use the idea of energy changing form to judge three ideas fairly.
 13. (odd) Three of these change the time of a swing very little. Which one changes it a lot?  
    Options: Using 1 coin instead of 5 / Starting 2 centimetres wider / Using a different kind of coin / Making the thread four times longer  
    **Answer:** 3. *Why:* The length of the thread sets the beat. The weight of the bob, the number of coins and a slightly wider start change it very little.
-14. (odd) Three of these are about a swing trading height for speed. Which one is about something else?  
+14. (odd) Three of these show a thing trading height for speed. Which one is about something else?  
    Options: A ball rolling down a slide / A roller coaster dropping from its first hill / A kitchen scale weighing rice / A marble rolling inside a bowl  
-   **Answer:** 2. *Why:* A roller coaster dropping, a ball in a bowl and a pendulum all trade height for speed. A kitchen scale weighs rice, and does not trade height for speed.
+   **Answer:** 2. *Why:* A ball rolling down a slide, a roller coaster dropping and a marble rolling inside a bowl all trade height for speed. A kitchen scale weighs rice, and does not trade height for speed.
 15. (draw) Draw a graph of the height energy and the movement energy of a bob during one swing from the left end to the right end. Use two lines.  
    **Answer:** The height energy line is high at the ends and low in the middle. The movement energy line is low at the ends and high in the middle. They mirror each other.. *Why:* A strong drawing shows the two lines swapping, with the total staying the same.
 16. (order) Put these in order, from the shortest period to the longest period.  
@@ -591,7 +591,7 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 4. (mcq) A tall building has a heavy pendulum near the top that swings against the sway of the building in strong wind. What does it do?  
    Options: It adds energy to the sway / It takes energy from the sway / It holds the building still by weight alone / It tells the time  
    **Answer:** It takes energy from the sway. *Why:* When the building sways, the pendulum swings the other way, taking energy from the sway. This is damping.
-5. (mcq) A pendulum is timed 30 swings in 60.6 seconds. What is the time of one swing?  
+5. (mcq) A pendulum takes 60.6 seconds for 30 swings. What is the time of one swing?  
    Options: About 1.0 seconds / About 2.0 seconds / About 3.0 seconds / About 6.0 seconds  
    **Answer:** About 2.0 seconds. *Why:* 60.6 divided by 30 is 2.02, about 2 seconds. This pendulum is about 1 metre long.
 6. (fill) The strength of the Earth's pull is about ______ metres per second per second.  
@@ -603,11 +603,11 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 9. (write) Your pendulum answer for the pull of the Earth is 9.4 instead of 9.8. Give two reasons why, and say which you think is more likely.  
    **Answer:** The length may have been a little off, or a swing may have been miscounted. The timing error is more likely if only a few swings were timed. A wide swing also takes slightly longer. I think a lost count is most likely.. *Why:* A strong answer gives at least two sources of error and links them to how the measurement was made.
 10. (write) Why can a pendulum clock keep time in a train that is moving at a steady speed, but not in a train that is turning hard round a bend?  
-   **Answer:** In a steady train the pendulum swings just as in a house. In a hard bend the sideways push changes how the bob is pulled, so the beat changes. A steady motion does not change the swing.. *Why:* A strong answer says that steady movement is invisible to the swing, but extra pushes change it.
+   **Answer:** In a steady train the pendulum swings just as in a house. In a hard bend, the train pushes the clock sideways. That push acts on the bob like extra gravity, so the beat changes. A steady motion does not push the clock at all, so the swing does not change.. *Why:* A strong answer says that steady movement is invisible to the swing, but extra pushes change it.
 11. (write) The Millennium Bridge in London swayed when many people walked across on its first days. Explain with the word resonance.  
    **Answer:** The bridge had a natural sideways beat. Walkers' steps began to match the sway, and each push added to the last. The sway grew until the bridge was closed and fixed.. *Why:* A strong answer connects resonance to pushes at the natural beat adding up.
-12. (perspective) Two students, Meera in Kochi and Karan in Pune, discuss whether the Peg Test proves that energy is never lost.  
-   **Answer:** A strong answer agrees with Meera that the test shows the bob returning to nearly the same height. It gives Karan his due: the bob came back slightly lower, so some energy did leave. A strong answer says that the energy turned into warmth, and the test alone cannot show that.. *Why:* This question checks that the child can say what a test shows and what it does not show.
+12. (perspective) Two students, the first child and the second child, discuss whether the Peg Test proves that energy is never lost.  
+   **Answer:** A strong answer agrees with the first child that the test shows the bob returning to nearly the same height. It gives the second child his due: the bob came back slightly lower, so some energy did leave. A strong answer says that the energy turned into warmth, and the test alone cannot show that.. *Why:* This question checks that the child can say what a test shows and what it does not show.
 13. (odd) Three of these would make a pendulum clock run faster. Which one would make it run slower?  
    Options: Moving the bob up / Moving the bob down / Taking a little off the thread / Shortening the rod with the nut  
    **Answer:** 1. *Why:* A shorter pendulum swings quicker. A longer pendulum swings slower, so the clock runs slow.
@@ -618,8 +618,8 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 
 ## Videos
 - **Synchronization of Metronomes** (Harvard Natural Sciences Lecture Demonstrations, 3 min) id `Aaxw4zbULMs`: To see many swinging arms slowly fall into step with each other on a moving board, which shows how swings can push each other at the right moment. *Check:* Id and title confirmed earlier through YouTube's public lookup. Not watched from here: a parent should preview it.
-- **Galileo's pendulum and the nail: energy swaps height for speed** (to be found, 4 min) id `to find`: To see a pendulum with a peg rise to the same height as one without, and to hear why. *Check:* Not yet found. Find one, watch it, and check that it shows the bob rising to the same height before adding it.
-- **How to pump a swing: the physics of standing and crouching** (to be found, 4 min) id `to find`: To see why standing up at the bottom and crouching at the top adds energy to a swing. *Check:* Not yet found. Find one, watch it, and check that it explains the crouch at the top and the stand at the bottom correctly before adding it.
+- **G1-20 Galileo's Pendulum** (UMD Physics Videos!, 3 min) id `ixB4cvnSj4M`: To see a pendulum with a peg rise to the same height as one without, and to hear why. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **The Physics of a Playground Swing - physics bites #4** (eigenmatt, 5 min) id `BKjZVFEKfMk`: To see why standing up at the bottom and crouching at the top adds energy to a swing. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
 1. (mcq) A bob is let go without a push from a certain height. What is the highest it can reach on the other side?  
@@ -628,9 +628,9 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 2. (mcq) Where does a swinging bob have the most movement energy?  
    Options: At the highest point on the left / At the highest point on the right / At the bottom of its path / Halfway between the bottom and the top  
    **Answer:** At the bottom of its path. *Why:* At the bottom it has fallen as far as it can, so it is moving fastest. All its height energy has become movement energy.
-3. (mcq) A thread catches on a peg and makes a bob swing a tighter path. The bob rises on the far side to...  
-   Options: The same height as it started / A much higher place / A much lower place / The height of the peg  
-   **Answer:** The same height as it started. *Why:* The path changes but the energy does not. The bob rises to nearly the same height it started from.
+3. (mcq) A thread catches on a peg and makes a bob swing a tighter path. How high does the bob rise on the far side?  
+   Options: To the same height as it started / To a much higher place / To a much lower place / To the height of the peg  
+   **Answer:** To the same height as it started. *Why:* The path changes but the energy does not. The bob rises to nearly the same height it started from.
 4. (mcq) A pendulum 1 metre long takes about 2 seconds for a full swing. How long does a 4 metre pendulum take?  
    Options: 2 seconds / 4 seconds / 8 seconds / 16 seconds  
    **Answer:** 4 seconds. *Why:* A pendulum 4 times as long takes twice as long, because of the square root. Twice 2 seconds is 4 seconds.
@@ -639,11 +639,11 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
    **Answer:** It turns into a tiny amount of warmth in the air and pivot. *Why:* The air pushes against the swing and the pivot rubs. The energy that these take turns into warmth. It is changed, not lost.
 6. (mcq) A child on a swing stands up at the bottom of each swing and crouches at the top. What happens to the swing?  
    Options: It goes lower / It goes higher, because the child adds energy / It stays the same / It goes higher because the Earth pulls harder  
-   **Answer:** It goes higher, because the child adds energy. *Why:* The child's muscles do work against the swing at the right moments, and that adds energy. The swing climbs higher.
+   **Answer:** It goes higher, because the child adds energy. *Why:* The child's muscles push against the swing at the right moments, and that adds energy. The swing climbs higher.
 7. (mcq) You time 30 swings of a pendulum and divide by 30. Why is this better than timing 1 swing?  
    Options: The stopwatch is more exact for long times / The stopwatch mistake is a much smaller share of a long time / The pendulum is heavier / It makes the swings faster  
    **Answer:** The stopwatch mistake is a much smaller share of a long time. *Why:* The mistake from pressing the button is about the same size each time. It is a big share of 1 second and a small share of 30 seconds.
-8. (mcq) A bag of coins is let go from twice the height onto a box. What happens to the slide of the box?  
+8. (mcq) A bag of coins swings down and hits a box. Then the bag is let go from twice the height. What happens to how far the box slides?  
    Options: The box slides about the same / The box slides further / The box slides less far / The box does not move  
    **Answer:** The box slides further. *Why:* A higher start gives more height energy, which turns into more movement energy at the bottom. The bag hits harder.
 9. (mcq) The same pendulum is taken to the Moon. What happens to its beat?  
@@ -652,9 +652,9 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 10. (mcq) A 30 centimetre ruler hung by its end swings like a pendulum of about which length?  
    Options: 15 centimetres / 20 centimetres / 30 centimetres / 60 centimetres  
    **Answer:** 20 centimetres. *Why:* The ruler's weight is spread along it, so it swings like a pendulum about two thirds as long as the ruler.
-11. (mcq) Why does a clock need a small push to be given to its pendulum every swing?  
+11. (mcq) Why does a clock give its pendulum a small push every swing?  
    Options: To make time go forward / To replace the energy the pendulum loses to the air and the pivot / To make the pendulum heavier / To change the length of the pendulum  
-   **Answer:** To replace the energy the pendulum loses to the air and the pivot. *Why:* Without the push, damping would make the pendulum shrink and stop. The clock's spring or weight pays for the small pushes.
+   **Answer:** To replace the energy the pendulum loses to the air and the pivot. *Why:* Without the push, damping would make the swing shrink and stop. The energy for the small pushes comes from the clock's spring or weight.
 12. (mcq) Soldiers break step when crossing a small bridge. What is the reason?  
    Options: Their steps might add up at the bridge's natural beat and make it sway a lot / The bridge is too slippery / It is easier to walk / They are told to be quiet  
    **Answer:** Their steps might add up at the bridge's natural beat and make it sway a lot. *Why:* Steps at the bridge's own beat add up, as pushes do on a swing. This is resonance. Breaking step stops the pushes from adding up.
@@ -664,7 +664,7 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 - Metronomes, which help musicians keep a steady beat.
 - Designing playground swings, where the chain length sets how fast the swing moves.
 - Early earthquake detectors, which used heavy pendulums that stay still while the ground moves.
-- Tall buildings with a huge pendulum near the top that swings against the wind sway to keep the building steady.
+- Tall buildings with a huge pendulum near the top that swings against the sway caused by the wind, to keep the building steady.
 - Searching for heavy rocks or oil underground by measuring tiny differences in the pull of the Earth.
 - Foucault pendulums in science museums, which show that the Earth turns.
 - Cranes and wrecking balls, where engineers must plan for the swing of a hanging load.
@@ -672,9 +672,9 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 - Walking robots that let their legs swing like pendulums to save energy.
 
 ## Spotted around us
-- A swing in a park, with its chain length and how fast a child swings at the bottom.
+- A swing in a park. Look at how long its chains are and how fast a child moves at the bottom.
 - A pendulum wall clock in a hall, with a slowly swinging brass disc behind a glass door.
-- A temple bell with a rope, where a rope is pulled to swing the bell.
+- A temple bell, which swings when someone pulls its rope.
 - A hanging lamp or chandelier that sways slowly when someone shuts a door.
 - A thottil, the cloth cradle hung from a beam in many homes, which a parent sets swinging with a small push.
 - A giant swing ride at a fair, where chairs on long chains swing out and round.
@@ -715,8 +715,8 @@ The next morning Grandmother brought out a small brass bell on a string, and hun
 ## Connected maths
 - In the Height and Hit test, a box slid 14 centimetres, 16 centimetres and 15 centimetres from the same starting height. What was the mean slide? **15 centimetres.**. Add the three slides: 14 plus 16 plus 15 is 45. Divide by 3. 45 divided by 3 is 15. The mean slide was 15 centimetres. (queues `math.data.bar-charts.L4`)
 - A pendulum is 64 centimetres long, which is 0.64 of a metre. The square root of 0.64 is 0.8. Using the rule that the period is twice the square root of the length in metres, how long do 10 swings take? **16 seconds.**. Twice 0.8 is 1.6, so one swing takes 1.6 seconds. Ten swings take 10 times 1.6, which is 16 seconds. (queues `math.multiplication.multi-digit.L4`)
-- Doubling the height the bag falls from made the box slide about twice as far. In an example the slides were 7 centimetres from 5 centimetres up, and 15 centimetres from 10 centimetres up. About how far would you expect it to slide from 40 centimetres up? **About 60 centimetres.**. From 10 to 20 centimetres the slide roughly doubled again, to about 30. From 20 to 40 centimetres it doubles once more, to about 60. Each time the height doubles, the slide about doubles. (queues `math.patterns.number-patterns.L4`)
-- A stopwatch press is a fifth of a second late. What share of the time is that mistake if you time 1 swing that takes 1 second, and what share if you time 30 swings that take 30 seconds? **For 1 second, the mistake is 1 fifth, which is 20 percent. For 30 seconds, it is 1 fifth of 30 seconds, less than 1 percent.**. A fifth of a second out of 1 second is one fifth, or 20 percent. A fifth of a second out of 30 seconds is 0.2 divided by 30, which is about 0.007, less than 1 percent. The same mistake is 30 times smaller as a share. (queues `math.fractions.fractions-of-a-whole.L4`)
+- In the Height and Hit test, doubling the height the bag falls from makes the box slide about twice as far. In one example, the box slid 7 centimetres when the bag fell from 5 centimetres up, and 15 centimetres when it fell from 10 centimetres up. About how far would you expect the box to slide when the bag falls from 40 centimetres up? **About 60 centimetres.**. From 10 to 20 centimetres the slide roughly doubled again, to about 30. From 20 to 40 centimetres it doubles once more, to about 60. Each time the height doubles, the slide about doubles. (queues `math.patterns.number-patterns.L4`)
+- A stopwatch press is a fifth of a second late. What share of the time is that mistake if you time 1 swing that takes 1 second, and what share if you time 30 swings that take 30 seconds? **For 1 second, the mistake is 1 fifth of the time, which is 20 percent. For 30 seconds, it is a fifth of a second out of 30 seconds, which is less than 1 percent.**. A fifth of a second out of 1 second is one fifth, or 20 percent. A fifth of a second out of 30 seconds is 0.2 divided by 30, which is about 0.007, less than 1 percent. The same mistake is 30 times smaller as a share. (queues `math.fractions.fractions-of-a-whole.L4`)
 - Your pendulum took 60 seconds for 30 swings. How long did one swing take? **2 seconds.**. One swing is one thirtieth of the total time. 60 divided by 30 is 2. One swing took 2 seconds. (queues `math.division.division-facts.L4`)
 - A wall clock loses 2 minutes every day. After how many days is it 10 minutes behind? Why would a clockmaker move the bob up? **After 5 days. Moving the bob up makes the pendulum shorter, so the clock runs faster.**. Every day it falls 2 minutes further behind. 10 divided by 2 is 5 days. A shorter pendulum swings quicker, so moving the bob up makes the clock catch up. (queues `math.time.duration.L4`)
 - A 1 metre pendulum takes about 2 seconds for each swing on Earth, and about 5 seconds on the Moon. How much longer do 10 swings take on the Moon than on Earth? **30 seconds longer.**. On Earth 10 swings take 10 times 2, which is 20 seconds. On the Moon they take 10 times 5, which is 50 seconds. 50 take away 20 is 30 seconds. (queues `math.multiplication.multiplication-facts.L4`)
