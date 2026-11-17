@@ -219,7 +219,7 @@
       "concept": "Telescopes: light, detail and magnifying",
       "status": "defined",
       "definition": "A telescope's opening does two jobs. It collects more light, and it shows finer detail. Both get better as the opening gets wider.",
-      "description": "In the half-lens test of Class 3, a bigger lens made a brighter picture. A bigger opening also makes a sharper picture. Light spreads out a little as it goes through any opening, and a narrow opening blurs fine detail more than a wide one. A telescope with a wide mirror can show two separate stars where a small telescope shows only one. Magnifying is a separate thing. Every lens bends light to a point, and the distance from the lens to that point is called its focal length. The eyepiece is the small lens you put your eye to. To find how many times a telescope with two lenses magnifies, divide the long focal length of the big front lens by the short focal length of the eyepiece. A front lens that bends light to a point 100 centimetres away and an eyepiece that bends it to a point 2 centimetres away give 50 times. But magnifying a blurry picture only gives a bigger blur. Galileo used lenses in 1609. Isaac Newton built a telescope with a curved mirror in about 1668. Very big lenses sag under their own weight, and a mirror can be supported from behind. So all the biggest telescopes use mirrors.",
+      "description": "A bigger lens collects more light, so it makes a brighter picture. A bigger opening also makes a sharper picture. Light spreads out a little as it goes through any opening, and a narrow opening blurs fine detail more than a wide one. A telescope with a wide mirror can show two separate stars where a small telescope shows only one. Magnifying is a separate thing. Every lens bends light to a point, and the distance from the lens to that point is called its focal length. The eyepiece is the small lens you put your eye to. To find how many times a telescope with two lenses magnifies, divide the long focal length of the big front lens by the short focal length of the eyepiece. A front lens that bends light to a point 100 centimetres away and an eyepiece that bends it to a point 2 centimetres away give 50 times. But magnifying a blurry picture only gives a bigger blur. Galileo used lenses in 1609. Isaac Newton built a telescope with a curved mirror in about 1668. Very big lenses sag under their own weight, and a mirror can be supported from behind. So all the biggest telescopes use mirrors.",
       "examples": [
         "The Hubble Space Telescope has a mirror 2.4 metres wide.",
         "The James Webb Space Telescope has a mirror 6.5 metres wide, made of 18 six-sided pieces.",
@@ -1037,7 +1037,7 @@
           "do": "Find the middle number for each height. Draw the three bars. Look at how the distance grew when the start height grew. Then run the two-marble race. Put two marbles side by side at the table edge. A partner flicks one off sideways, hard, while you let the other just slide off at the same moment. Listen for one click or two. Do it five times.",
           "say": "Look at our numbers. Which start height gave the farthest landing? Did the landing double when the height doubled?",
           "kid": "Which height landed farthest? Draw a bar for each one.",
-          "parent": "The distance grows with the speed, but not in step with the height. Doubling the height does not double the distance. The marble's speed grows more slowly than the height does. Do not explain this yet. Just notice. In the race, most clean tries sound like one click, because both marbles fall the same height in the same time. Two clicks usually mean one marble was let go late, so repeat and count only the clean tries.",
+          "parent": "The distance grows with the speed, but not in step with the height. Doubling the height does not double the distance. The marble's speed does not grow as fast as the height does. So the marble from 10 centimetres is faster than the one from 5, but not twice as fast. Do not explain this yet. Just notice what your numbers do. In the race, most clean tries sound like one click, because both marbles fall the same height in the same time. Two clicks usually mean one marble was let go late, so repeat and count only the clean tries.",
           "check": {
             "t": "mcq",
             "q": "The marble that started higher left the table faster. Where did it land?",
@@ -1369,7 +1369,7 @@
               ]
             }
           ],
-          "parent": "Do not correct the guess. Remind your child about the magnifying glass that made an upside-down picture of a window.",
+          "parent": "Do not correct the guess. A lens can turn a picture upside down. A magnifying glass held far from a window does this. Your child will see it in the next step.",
           "context": "This is the first step of the two-lens telescope. You guess before you test."
         },
         {
@@ -1414,7 +1414,7 @@
           "id": "s5",
           "mins": 6,
           "do": "Ask your child to say three things: what I think, what I saw, and why. Then ask why stars stay as dots even in a big telescope.",
-          "say": "Tell me three things. What do you think now? What did you see that shows it? And why? A big telescope magnifies more than a small one. But stars stay as dots. Why is that?",
+          "say": "Tell me three things. What do you think now? What did you see that shows it? And why? A telescope can make a faraway wall look many times bigger. But even through a huge telescope, a star stays a dot. Why is that?",
           "kid": "Say what you think, what you saw and why. Why do stars stay as dots?",
           "parent": "This is claim, evidence and reasoning. A good answer has three parts. What I think: two lenses make a faraway wall look bigger and upside down. What I saw: for example, each brick looked about 8 times wider, and the picture was sharpest at one gap. Why: the front lens makes a small picture of the wall, and the eyepiece magnifies that picture, so it looks bigger. Then the question about stars: a star is so far away that even a huge telescope shows it as a single point. A big telescope does not make a star bigger. It collects more light, and it shows stars that are close together as separate stars.",
           "check": {
@@ -1590,6 +1590,7 @@
     {
       "id": "a2",
       "title": "Sound Needs Something: a tin-can telephone",
+      "problem": "Sound is a shaking. It can only pass along something that can shake, such as air, string or water. You will make a telephone from two cups and a string, and pinch the string to see what happens. Then you can work out whether a shout could cross empty space.",
       "mins": 25,
       "days": 1,
       "materials": [
@@ -1707,6 +1708,7 @@
     {
       "id": "a3",
       "title": "Whispering Dishes: how a curved dish gathers waves",
+      "problem": "A radio telescope is a huge curved dish. It gathers faint radio waves from space and bounces them all to one spot. You will do the same with sound. Two curved bowls will carry a whisper across a room, and you will find the spot where it is loudest.",
       "mins": 20,
       "days": 1,
       "materials": [
@@ -1742,7 +1744,7 @@
           "do": "Show your child the two bowls. Ask whether a whisper from one bowl can be heard from the other, 2 metres away. Ask them to guess where the best place to listen is. Write down the guess.",
           "say": "Radio telescopes use a big curved dish. We will use a bowl for sound. Can a whisper cross the room from one bowl to another? Where is the best place to put your ear? Why?",
           "kid": "Two bowls face each other. Can a whisper cross the room? Why?",
-          "parent": "Do not correct the guess. Remind your child that a magnifying glass gathered light from a window into one picture.",
+          "parent": "Do not correct the guess. Waves can be gathered too. A magnifying glass gathers the light from a window into one small picture.",
           "context": "This is the first step of the whispering dishes. You guess before you test."
         },
         {
@@ -1893,6 +1895,7 @@
     {
       "id": "p1",
       "title": "Straw Rockets: what do fins and a heavy nose do?",
+      "problem": "A paper rocket can tumble in the air, or it can fly straight. You will build three rockets and blow them off a straw. Then you will find out what fins and a heavy nose do, and why a real rocket in space must steer another way.",
       "days": 1,
       "mins": 40,
       "materials": [
@@ -2301,7 +2304,7 @@
         },
         {
           "t": "write",
-          "p": "In the balloon rocket test, the rocket with 20 paper clips flew a shorter distance than the one with none. Explain why.",
+          "p": "A balloon rocket with 20 paper clips taped on flew a shorter distance than the same rocket with none. Explain why.",
           "lines": 3,
           "a": "The balloon gave the same push each time. A heavier rocket gets less speed from the same push, so it stops sooner and goes a shorter distance.",
           "why": "A strong answer says the push stayed the same and the weight changed, and that more weight means less speed from the same push.",

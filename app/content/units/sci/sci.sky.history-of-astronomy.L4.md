@@ -59,9 +59,9 @@ In a smooth aeroplane, flying at 800 kilometres an hour, you can pour a cup of t
 ### A Sun at the centre: Nilakantha and Copernicus · *defined*
 **Definition:** A heliocentric model puts the Sun at the centre of the planets' paths. In Kerala about 1500, and in Poland in 1543, astronomers made models in which the planets go round the Sun.
 
-Nilakantha Somayaji, an astronomer of Kerala, wrote a book called the Tantrasangraha about 1500. In his model, Mercury, Venus, Mars, Jupiter and Saturn go round the Sun, and the Sun goes round the Earth. This explained the odd behaviour of the planets in a neat way. In 1543, the Polish astronomer Nicolaus Copernicus went further. In his book he put the Sun at the centre and made the Earth a planet that spins and goes round it. Copernicus still used circles, and still needed small extra circles to match the sky. At first his model was no more accurate than Ptolemy's. It won people over slowly, because it explained why planets loop. The loop is the Earth overtaking a slower, outer planet, as a car overtakes a lorry. The Sun-centred model also gave the order of the planets, and the sizes of their paths, in a simple way.
+Nilakantha Somayaji, an astronomer of Kerala, wrote a book called the Tantrasangraha about 1500. In his model, Mercury, Venus, Mars, Jupiter and Saturn go round the Sun, and the Sun goes round the Earth. This explained the backward loops of the planets in a simple way, because the planets circle the Sun and we watch them from the Earth. In 1543, the Polish astronomer Nicolaus Copernicus went further. In his book he put the Sun at the centre and made the Earth a planet that spins and goes round it. Copernicus still used circles, and still needed small extra circles to match the sky. At first his model was no more accurate than Ptolemy's. It won people over slowly, because it explained why planets loop. The loop is the Earth overtaking a slower, outer planet, as a car overtakes a lorry. The Sun-centred model also gave the order of the planets, and the sizes of their paths, in a simple way.
 - e.g. Tycho Brahe later made a middle model, in which the planets go round the Sun and the Sun goes round the Earth. Nilakantha's model is similar.
-- e.g. The loops of Mars seen from the faster Earth are like a lorry that seems to slide backwards while you overtake it.
+- e.g. When your car overtakes a slower lorry, the lorry seems to slide backwards against the trees behind it. Mars seems to slide backwards in the same way when the faster Earth overtakes it.
 - e.g. Copernicus kept his idea to himself for years, and his book appeared in print only in 1543, the year he died.
 ### Tycho, Kepler and the end of perfect circles · *defined*
 **Definition:** Kepler used Tycho Brahe's careful readings of Mars to show that planets move on ellipses, not on circles.
@@ -234,7 +234,7 @@ Ammamma took out her phone again. "Let me ask my sister in Kolkata." She called,
 
 Dev's mouth fell open. "But it is the same day! How can it be noon here and not there?"
 
-Ishani had stopped writing. She looked up at the Sun, and then, very slowly, she looked at the stone. The stone had not moved. It had never moved. The shadow crept only because the Sun was moving, or because something else was.
+Ishani had stopped writing. She looked up at the Sun, and then, very slowly, she looked at the stone. The stone had not moved. It had never moved. The shadow crept for one of two reasons. Either the Sun was moving, or the Earth under the stone was.
 
 "The Sun is not going round us," she said quietly. "We are going round under it. Kolkata is just further ahead on the same big turn."
 
@@ -269,9 +269,10 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   - Note: Help with the harder ones. A good reason for the Tycho pair: his readings were so careful that a gap of 8 arcminutes had to be real.
   - Check: Why does a long pendulum change its swing direction over the floor? → **The floor is turning under it, because the Earth spins**
 - **s3 (4 min)**  
-  *Parent does:* Count the pairs. Ask one question.  
-  *Parent says:* Which proof was the hardest to believe? What would you want to check yourself?  
-  *Child mode:* Which proof surprised you most? Why?
+  *Parent does:* Count the pairs. Then ask your child to pick the pair they found hardest and explain it again.  
+  *Parent says:* Which pair was the hardest? Tell me again how the proof shows the claim.  
+  *Child mode:* Pick the hardest pair. Say how the proof shows the claim.
+  - Note: A good answer says what the proof showed, and then why that means the claim is true. For example, for the pendulum: its swing stays in one direction while the floor turns under it, so the Earth must be spinning.
 ### g2 · Courtroom of the Sky: argue like an astronomer of the past (20 min)
 - **rules:** One player is the judge. Everyone else takes a role card. With only two or three players, one player may take two roles.; The judge reads one question card aloud, without showing the back.; Each astronomer gets 20 seconds to answer in character, using only what their card says they knew in their own time.; The judge decides whose answer used the best evidence, and gives that player a point.; The judge reads the back of the question card. Everyone talks about what the best answer left out.; After three questions, the judge swaps with another player. After ten questions, the player with the most points wins.; With just one child and a parent, take turns being the judge and the astronomer, and swap after each question. Or the child draws two role cards and answers each question twice, once as each person, and the parent, as judge, picks the better answer.
 - **Printable cards: 8 role cards: a person on the front, what they could say on the back:** PTOLEMY, Alexandria, about 150 CE (back: The Earth is still at the centre. Planets loop because they ride small circles on big circles. My tables work.); ARYABHATA, India, 499 (back: The Earth spins, and the stars only seem to move west, as the bank seems to move backwards from a boat. Eclipses are shadows.); BRAHMAGUPTA, India, 628 (back: I doubt the Earth moves. Birds that fly up from a tree would not find their tree again. Things would be left behind.); NILAKANTHA, Kerala, about 1500 (back: The planets go round the Sun, and the Sun goes round the Earth. This explains their looping paths neatly.); COPERNICUS, Poland, 1543 (back: The Sun is at the centre. The Earth is a planet that spins and goes round the Sun. I still use circles and small circles.); TYCHO BRAHE, Denmark, 1588 (back: I have measured planets to one arcminute for years. The planets go round the Sun and the Sun goes round the Earth. I cannot feel the Earth move.); KEPLER, Germany, 1609 (back: Mars moves on an ellipse. Tycho's readings are never wrong by 8 arcminutes, so I gave up the circle. A planet moves faster when it is closer to the Sun.); GALILEO, Italy, 1610 (back: My telescope shows moons round Jupiter, the phases of Venus, mountains on the Moon and countless stars. Ptolemy's Venus is wrong.)
@@ -288,7 +289,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   - Ask: Which astronomer's answer sounded most convincing at the time? (good: The one who had the most careful readings.; The one who used a telescope.; It depends what they could see in their own time.)
   - Note: Remind players that each person could only use the evidence of their own time, and could not use anything found later.
 - **s3 (4 min)**  
-  *Parent does:* Count the points and talk about which person you liked best.  
+  *Parent does:* Count the points. Then talk about who had the best argument for their time, and who was right but could not yet prove it.  
   *Parent says:* Who had the best argument for their time? Who was right but could not prove it yet?  
   *Child mode:* Who was right but could not prove it yet?
   - Check: In 499, Aryabhata said that the Earth spins, but he could not prove it. Was he right? → **Yes, he was right, though the proof came much later**
@@ -405,6 +406,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 
 ## Activities
 ### a1 · Kepler's Ellipse: draw a planet's path with string and two pins (30 min)
+- **problem:** An ellipse is a stretched circle. Kepler found that every planet moves on one. You will draw ellipses with a loop of thread and two pins. Then you will see how little Mars's path differs from a circle, and why that tiny difference mattered.
 - **safety:** Drawing pins are sharp. A grown-up pushes them in and takes them out, and counts them back into the box when the activity is over.
 - **record:** Keep all four drawings on one page, and fill in a table with the pin distance, the width and the height of each shape.
 - **s1 (5 min)**  
@@ -425,11 +427,12 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   - Check: What happens to the shape as the two pins are moved farther apart, with the same loop? → **It gets flatter and more oval**
 - **s4 (7 min)**  
   *Parent does:* Look at the shape with the pins 2 centimetres apart. Mark each pin spot with a dot. The pin spots are called foci. Ask which one is the Sun. Then look at how far the Sun is from the middle of the shape.  
-  *Parent says:* Mars has a path like the shape with pins 2 centimetres apart. It looks like a circle. But the Sun is at one pin, and the pin is 1 centimetre from the middle. That small gap is what Kepler used. What would a circle say about where the Sun is?  
+  *Parent says:* Mars has a path like the shape with pins 2 centimetres apart. It looks like a circle. But the Sun is at one pin, and the pin is 1 centimetre from the middle. That small gap is what Kepler used. If the path were a circle, where would the Sun sit? How is your shape different?  
   *Child mode:* Put a dot at each pin. The Sun is at one. How far is it from the middle?
   - Note: This shape is close to the real path of Mars, whose Sun is off-centre by about a tenth of the path's radius. A circle with the Sun in the middle would be 1 centimetre wrong. Tycho's readings were good enough to notice that.
   - Check: The path of Mars looks almost exactly like a circle. How did Kepler know it was an ellipse? → **Careful readings showed the Sun is off-centre, and that a circle missed by 8 arcminutes**
 ### a2 · A Sundial for Your City: build a small Samrat Yantra (45 min, 2 days)
+- **problem:** A sundial tells the time from the Sun's shadow. To work well, it must be tilted for the city where it stands. You will build one for your city. Then you will compare it with your phone, and find out why the two do not agree.
 - **safety:** Never look at the Sun. Read the dial only by looking at the shadow on it. Go on a terrace or balcony only with a grown-up.
 - **record:** Fill in a table with the phone time and the dial time at four moments, and the difference between them each time.
 - **schedule:** day 1: Look up your latitude, make the dial plate, mark the hour lines and push the stick through the middle. (25 min); day 2: On a sunny day, prop the dial at your city's tilt, point it north, and compare its shadow with your phone clock at four times. (20 min)
@@ -487,6 +490,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   - Note: A good answer: what I think: planets move among the stars, and sometimes loop backwards. What I saw: the planet shifted against the stars over a week, and the app showed a backward loop. Why: the planets go round the Sun at different speeds, and from our own moving Earth they seem to wander and loop.
   - Check: In the app, Mars seems to slide backwards for a time. What is happening in a Sun-centred picture? → **The faster Earth is overtaking the slower Mars**
 ### a4 · Fix the Calendar: why 1900 was not a leap year but 2000 was (25 min)
+- **problem:** A year is a little longer than 365 days, so a calendar of exactly 365 days slowly slips away from the seasons. You will work out how fast it slips. Then you will see how the leap-year rule fixes it.
 - **record:** Make a table of the years 1896, 1900, 1904, 2000, 2024 and 2100, with a tick if each is a leap year.
 - **s1 (6 min)**  
   *Parent does:* Tell your child that the Sun's year is 365 days, 5 hours and 49 minutes. Ask how far behind a year of exactly 365 days falls. Work it out together, in hours, and then in days over four years.  
@@ -513,6 +517,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 
 ## Projects
 ### p1 · A Pendulum on a Turntable: the idea behind Foucault's proof (50 min)
+- **problem:** A swinging pendulum keeps swinging in the same direction, even if its frame turns. In 1851 Foucault used this to show that the Earth spins. You will build a small pendulum on a turntable and see it happen.
 - **safety:** Keep the book stacks low enough to stay steady, and tape the ruler down so that it cannot slip. Keep fingers clear of the turntable's edge. The nut or washer is a small part, so keep it away from children under five. If you use a swivel chair, a grown-up holds it and turns it slowly.
 - **record:** Draw the turntable seen from above at four stops of a quarter turn, with the tape line on the turntable and the swing direction of the pendulum.
 - **s1 (6 min)**  
@@ -556,7 +561,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
   *Parent does:* Every 15 minutes, mark the tip of the shadow with a cross and write the time. Do this at least five times. Join the crosses with a smooth curve.  
   *Parent says:* Mark the tip again. The shadow is changing length and direction. Is it getting shorter or longer? Which way is it turning?  
   *Child mode:* Every 15 minutes, mark the tip. Write the time. Join the crosses.
-  - Note: While you wait, watch the shadow creep. This is the Earth turning under the Sun. You can do other things between the marks. The marks take an hour, but your own work takes only a few minutes of it.
+  - Note: While you wait, watch the shadow creep. This is the Earth turning under the Sun. You can do other things between the marks. You do not need to watch the whole hour. You only need to come back every 15 minutes and mark the tip.
   - Wait: Mark the tip every 15 minutes for at least an hour.
 - **s3 (10 min)**  
   *Parent does:* Find the cross that is nearest to the stick's base. Draw a straight line from the base through it. This is the north-south line. The time written next to that cross is your local noon.  
@@ -597,7 +602,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 1. (mcq) A passenger in a smooth train shuts her eyes. Why can she not tell whether the train is moving?  
    Options: A steady movement cannot be felt, only changes in movement / Trains make no noise / Her body is too heavy to feel it  
    **Answer:** A steady movement cannot be felt, only changes in movement. *Why:* Our bodies feel starts, stops and turns, not steady movement. This is why nobody could feel the Earth turn.
-2. (write) In The Spinning Chair, with your eyes shut, a slow steady turn was hard to feel, but a sudden stop was easy. Explain why.  
+2. (write) With your eyes shut in a turning chair, a slow steady turn is hard to feel, but a sudden stop is easy to feel. Explain why.  
    **Answer:** The body senses changes in movement. A steady turn has no change to feel. A sudden stop is a big change, so it can be felt.. *Why:* A strong answer says that the body feels changes in movement and not steady movement, and uses both halves of the test.
 3. (fill) Aryabhata wrote that the stars only seem to move west because the ____ turns to the east.  
    **Answer:** ['Earth']. *Why:* Aryabhata's picture was a boat: a person in a boat moving forward sees the bank moving backwards.
@@ -608,7 +613,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
    **Answer:** The faster Earth is overtaking the slower Mars. *Why:* The Earth goes round the Sun faster than Mars does. As the Earth passes Mars, Mars seems to slide back against the stars, as a slower lorry seems to slide back when a car passes it.
 6. (match) Match each word to its meaning.  
    **Answer:** Geocentric → Having the Earth at the centre; Heliocentric → Having the Sun at the centre; Ellipse → A stretched circle with two special points inside; Arcminute → One sixtieth of a degree. *Why:* These four words are used all through the story of how astronomers changed their minds.
-7. (write) In Galileo's Venus, a ball that stayed between you and the lamp never looked more than a thin crescent. What does that tell you about Ptolemy's Venus?  
+7. (write) A ball that always stays between you and a lamp never looks more than a thin crescent. What does that tell you about Ptolemy's model, where Venus stays between the Earth and the Sun?  
    **Answer:** In Ptolemy's model Venus stays between the Earth and the Sun. Then it could only show crescents. Galileo saw Venus nearly full, so Ptolemy's model could not be right.. *Why:* A strong answer links what the ball did to what Galileo saw, and says the model could not make a full Venus.
 8. (order) Put these steps of Kepler's discovery in order, from first to last.  
    **Answer:** ['Tycho measures Mars very carefully for many years', 'Kepler tries circle after circle for Mars', 'Kepler finds that a circle misses by 8 arcminutes', 'Kepler throws out the circle and finds the ellipse']. *Why:* The careful readings came first. Trying circles showed a small gap, and Kepler trusted the gap more than the circle.
@@ -736,13 +741,13 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 4. (mcq) In a Sun-centred picture, what happens when Mars seems to slide backwards?  
    Options: The Earth is passing Mars on the inside track / Mars is slowing to a stop / Mars is turning round the Earth  
    **Answer:** The Earth is passing Mars on the inside track. *Why:* The Earth is on the faster, inner track and overtakes Mars. From the passing Earth, Mars seems to slide back against the stars.
-5. (mcq) In Galileo's Venus, a ball that stays between you and the lamp can look only like what?  
+5. (mcq) A white ball always stays between you and a lamp. What can the ball look like?  
    Options: A thin crescent or dark / A nearly full ball / A half ball  
    **Answer:** A thin crescent or dark. *Why:* The lamp lights the half of the ball that faces the lamp. If the ball stays in front of the lamp, you mostly see the dark half.
 6. (mcq) Galileo saw Venus look nearly full and small, and later look like a big thin crescent. What did this show?  
    Options: Venus goes round the Sun and not only in front of it / Venus is a star / Venus is a Moon  
    **Answer:** Venus goes round the Sun and not only in front of it. *Why:* Venus looks nearly full only when it is on the far side of its path, beyond the Sun. Ptolemy's model could not do this.
-7. (mcq) Resting the quadrant on a table made the readings agree more closely than holding it in the hands. What is the reason?  
+7. (mcq) Why do repeated readings of an angle agree more closely when the instrument rests on a table than when it is held in the hands?  
    Options: The table took away the shaking of the hands / The table made the sticker bigger / The table made the numbers smaller  
    **Answer:** The table took away the shaking of the hands. *Why:* A shaking hand scatters the readings. A steady rest makes each reading nearly the same as the last, which is higher precision.
 8. (mcq) Why did Tycho Brahe build huge, steady brass instruments?  

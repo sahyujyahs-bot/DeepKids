@@ -203,7 +203,7 @@
    "status": "debated",
    "description": "Lonar Lake lies near the town of Lonar in Maharashtra. It fills a round crater about 1.8 kilometres across, dug into hard volcanic rock called basalt. Much of the Moon's dark plains are made of the same kind of rock, which is why scientists study Lonar. The crater was made by a space rock that hit long ago. The lake's salty green water and the thrown-out rock round its rim are still there. But when did it happen? Earlier studies suggested about 50,000 years ago. A later study using the rock's radioactive argon suggested around half a million years. The question matters because it shows how hard it is to date an impact, even when you can walk around the crater.",
    "examples": [
-    "The tests are done on tiny grains of rock that were melted by the impact. When melted rock cools, its natural radioactive clock starts again from zero.",
+    "The tests are done on tiny grains of rock that were melted by the impact. Some rocks hold radioactive atoms that slowly turn into argon gas at a steady rate. Melting lets the argon escape, so the count starts again from zero when the rock cools. Measuring how much argon has built up since then shows how long ago the impact was.",
     "Lonar is one of very few craters in the world dug into basalt, which makes it a useful practice ground for studying the Moon and Mars.",
     "Temples built around the lake are many centuries old, so people have known the lake for a very long time."
    ],
@@ -360,9 +360,9 @@
    "hint": "Think of a steel nut and a steel ship. Both are made of steel. One floats and one sinks."
   },
   {
-   "q": "The Moon keeps every dent for billions of years, while the Earth wipes most of its dents away. Is a world that erases its past more alive than one that keeps it?",
+   "q": "The Moon keeps every dent for billions of years, while the Earth wipes most of its dents away. Why does the Earth wipe them away, and what does that tell us about the Earth?",
    "kind": "big",
-   "hint": "Think about what wipes away the Earth's craters: water, wind, plants and moving ground. Are those things alive?"
+   "hint": "Think about what wipes away the Earth's craters: water, wind, plants and moving ground. The Moon has none of these."
   },
   {
    "q": "The light of the Sun reaches us 8 minutes after it leaves. When you look at the Sun, is it 'now' there?",
@@ -370,9 +370,9 @@
    "hint": "A letter takes days to arrive and is already old when you read it. What is different about the light?"
   },
   {
-   "q": "In a model with the Sun as a 14-centimetre ball, the nearest star is 4,000 kilometres away. What is all that space between the stars for?",
+   "q": "In a model with the Sun as a 14-centimetre ball, the nearest star is 4,000 kilometres away. What does that tell you about how hard it is to travel from one star to another?",
    "kind": "big",
-   "hint": "Is empty space really empty? What can pass through it, and what cannot?"
+   "hint": "Think about how long light and radio signals take to cross even our own solar system."
   },
   {
    "q": "We know of only one planet with life. Is the Earth lucky, or would many worlds like ours happen anyway?",
@@ -482,9 +482,9 @@
    "kid": "Press a finger into some dust. Look at your dent. On the Moon it would stay for ever. On the Earth, wind and rain wipe it away. Breathe slowly three times."
   },
   "ask": [
-   "When a world wipes out its craters, is it forgetting, or is it staying alive?",
+   "The Earth keeps wiping out its craters, and the Moon does not. What does that tell you about which world is still changing?",
    "If you could read the Earth's face like the Moon's, what would it tell you about the last billion years?",
-   "Is a diary that cannot be rewritten more honest than one that can?"
+   "The Moon keeps all its craters, and the Earth wipes most of its craters away. Which world is easier to read the past from, and why?"
   ],
   "art": "The Moon's cratered face and the Earth's smooth blue-and-green face side by side, joined by a thin line, with a hand pressing a fingerprint into dust in the corner."
  },
@@ -1113,6 +1113,7 @@
   {
    "id": "a1",
    "title": "Walk the Solar System: the Sun is a disc 14 centimetres wide",
+   "problem": "In books, the planets are drawn close together and almost as big as the Sun. That is not true. You will build a model where every size and every distance is made smaller by the same amount. Then you will walk it, and see how tiny the planets are and how far apart.",
    "mins": 30,
    "days": 1,
    "materials": [
@@ -1219,7 +1220,7 @@
      "id": "s4",
      "mins": 5,
      "do": "Remind your child that the Earth is 15 metres from the Sun in this model. Tell them the nearest star after the Sun would be about 4,000 kilometres away. Ask where that would be, using a map of India.",
-     "say": "In this model the nearest other star is about 4,000 kilometres away. India is about 3,200 kilometres long, from Kashmir to Kanyakumari. So that star is further than the whole length of India. What is in all that space?",
+     "say": "In this model the nearest other star is about 4,000 kilometres away. India is about 3,200 kilometres long, from Kashmir to Kanyakumari. So that star is further than the whole length of India. What does this tell you about how far apart the stars are?",
      "kid": "The nearest star would be 4,000 kilometres away. That is more than the length of India!",
      "check": {
       "t": "mcq",
@@ -1255,6 +1256,7 @@
   {
    "id": "a2",
    "title": "Planet Data Detective: the rule linking distance and year",
+   "problem": "A planet's year is the time it takes to go once round the Sun. Kepler found a rule that links a planet's year to its distance from the Sun. You will try one simple idea and see it fail. Then you will find the rule that works, using real numbers.",
    "mins": 30,
    "days": 1,
    "materials": [
@@ -1372,6 +1374,7 @@
   {
    "id": "a3",
    "title": "Drive a Rover from Far Away: messages that take 25 minutes",
+   "problem": "A message to Mars takes minutes to arrive, and the answer takes just as long to come back. So nobody can drive a rover on Mars with a joystick. You will act out driving a rover with a long delay. Then you will see why a rover needs a plan and some rules of its own.",
    "mins": 25,
    "days": 1,
    "materials": [
@@ -1478,6 +1481,7 @@
   {
    "id": "a4",
    "title": "Planet in a Jar: why the heavy stuff goes to the middle",
+   "problem": "A young rocky planet was hot and partly melted. The heavy iron sank to the middle, and the lighter rock floated above it. You will shake a jar of heavy and light things and watch them sort themselves in the same way.",
    "mins": 25,
    "days": 1,
    "materials": [
@@ -1611,6 +1615,7 @@
   {
    "id": "p1",
    "title": "Cut-Open Planets: Earth and Jupiter in dough",
+   "problem": "Nobody has dug to the middle of the Earth, yet scientists know its layers from earthquakes. You will build the Earth's layers to scale in dough and cut it open. You will also make a Jupiter, and see which of its layers are known and which are only an idea.",
    "days": 2,
    "mins": 70,
    "materials": [
@@ -1799,7 +1804,7 @@
      "id": "s2",
      "mins": 14,
      "do": "Build your first lander. Cut the parachute to 15 centimetres at most. Pack the tomato in the cup with tissue paper. Drop it from 1.5 metres onto the newspaper. Check the tomato. Write down what happened.",
-     "say": "Build it. Drop it from 1.5 metres. Check the tomato. Did it burst? Did it bruise? How far did it fall before the parachute opened?",
+     "say": "Build it. Drop it from 1.5 metres. Check the tomato. Did it burst? Did it bruise?",
      "kid": "Build your lander. Drop it from 1.5 metres. Check the tomato.",
      "adult": true,
      "parent": "A grown-up does the dropping from 1.5 metres. Keep the drop over the newspaper on a hard floor, away from the edge of a terrace. This first result is the one to beat. Wash the tomato if it bursts, or use a grape instead."

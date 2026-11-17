@@ -178,10 +178,10 @@
       "concept": "A Sun at the centre: Nilakantha and Copernicus",
       "status": "defined",
       "definition": "A heliocentric model puts the Sun at the centre of the planets' paths. In Kerala about 1500, and in Poland in 1543, astronomers made models in which the planets go round the Sun.",
-      "description": "Nilakantha Somayaji, an astronomer of Kerala, wrote a book called the Tantrasangraha about 1500. In his model, Mercury, Venus, Mars, Jupiter and Saturn go round the Sun, and the Sun goes round the Earth. This explained the odd behaviour of the planets in a neat way. In 1543, the Polish astronomer Nicolaus Copernicus went further. In his book he put the Sun at the centre and made the Earth a planet that spins and goes round it. Copernicus still used circles, and still needed small extra circles to match the sky. At first his model was no more accurate than Ptolemy's. It won people over slowly, because it explained why planets loop. The loop is the Earth overtaking a slower, outer planet, as a car overtakes a lorry. The Sun-centred model also gave the order of the planets, and the sizes of their paths, in a simple way.",
+      "description": "Nilakantha Somayaji, an astronomer of Kerala, wrote a book called the Tantrasangraha about 1500. In his model, Mercury, Venus, Mars, Jupiter and Saturn go round the Sun, and the Sun goes round the Earth. This explained the backward loops of the planets in a simple way, because the planets circle the Sun and we watch them from the Earth. In 1543, the Polish astronomer Nicolaus Copernicus went further. In his book he put the Sun at the centre and made the Earth a planet that spins and goes round it. Copernicus still used circles, and still needed small extra circles to match the sky. At first his model was no more accurate than Ptolemy's. It won people over slowly, because it explained why planets loop. The loop is the Earth overtaking a slower, outer planet, as a car overtakes a lorry. The Sun-centred model also gave the order of the planets, and the sizes of their paths, in a simple way.",
       "examples": [
         "Tycho Brahe later made a middle model, in which the planets go round the Sun and the Sun goes round the Earth. Nilakantha's model is similar.",
-        "The loops of Mars seen from the faster Earth are like a lorry that seems to slide backwards while you overtake it.",
+        "When your car overtakes a slower lorry, the lorry seems to slide backwards against the trees behind it. Mars seems to slide backwards in the same way when the faster Earth overtakes it.",
         "Copernicus kept his idea to himself for years, and his book appeared in print only in 1543, the year he died."
       ],
       "perspectives": [],
@@ -472,7 +472,7 @@
       "Ammamma took out her phone again. \"Let me ask my sister in Kolkata.\" She called, and put the call on loudspeaker.",
       "\"Noon?\" said her sister. \"We had it nearly an hour ago. The Sun is already well past the top.\"",
       "Dev's mouth fell open. \"But it is the same day! How can it be noon here and not there?\"",
-      "Ishani had stopped writing. She looked up at the Sun, and then, very slowly, she looked at the stone. The stone had not moved. It had never moved. The shadow crept only because the Sun was moving, or because something else was.",
+      "Ishani had stopped writing. She looked up at the Sun, and then, very slowly, she looked at the stone. The stone had not moved. It had never moved. The shadow crept for one of two reasons. Either the Sun was moving, or the Earth under the stone was.",
       "\"The Sun is not going round us,\" she said quietly. \"We are going round under it. Kolkata is just further ahead on the same big turn.\"",
       "\"Now you are thinking like Jai Singh,\" said Sarika Madam.",
       "That night, in the guest room, Ishani wrote in her notebook: The dial stays still. The Earth turns under the Sun. Every place has its own noon, and the clock is the one we agree to share.",
@@ -645,9 +645,10 @@
         {
           "id": "s3",
           "mins": 4,
-          "do": "Count the pairs. Ask one question.",
-          "say": "Which proof was the hardest to believe? What would you want to check yourself?",
-          "kid": "Which proof surprised you most? Why?"
+          "do": "Count the pairs. Then ask your child to pick the pair they found hardest and explain it again.",
+          "say": "Which pair was the hardest? Tell me again how the proof shows the claim.",
+          "parent": "A good answer says what the proof showed, and then why that means the claim is true. For example, for the pendulum: its swing stays in one direction while the floor turns under it, so the Earth must be spinning.",
+          "kid": "Pick the hardest pair. Say how the proof shows the claim."
         }
       ]
     },
@@ -803,7 +804,7 @@
         {
           "id": "s3",
           "mins": 4,
-          "do": "Count the points and talk about which person you liked best.",
+          "do": "Count the points. Then talk about who had the best argument for their time, and who was right but could not yet prove it.",
           "say": "Who had the best argument for their time? Who was right but could not prove it yet?",
           "kid": "Who was right but could not prove it yet?",
           "check": {
@@ -1419,6 +1420,7 @@
     {
       "id": "a1",
       "title": "Kepler's Ellipse: draw a planet's path with string and two pins",
+      "problem": "An ellipse is a stretched circle. Kepler found that every planet moves on one. You will draw ellipses with a loop of thread and two pins. Then you will see how little Mars's path differs from a circle, and why that tiny difference mattered.",
       "mins": 30,
       "days": 1,
       "materials": [
@@ -1497,7 +1499,7 @@
           "id": "s4",
           "mins": 7,
           "do": "Look at the shape with the pins 2 centimetres apart. Mark each pin spot with a dot. The pin spots are called foci. Ask which one is the Sun. Then look at how far the Sun is from the middle of the shape.",
-          "say": "Mars has a path like the shape with pins 2 centimetres apart. It looks like a circle. But the Sun is at one pin, and the pin is 1 centimetre from the middle. That small gap is what Kepler used. What would a circle say about where the Sun is?",
+          "say": "Mars has a path like the shape with pins 2 centimetres apart. It looks like a circle. But the Sun is at one pin, and the pin is 1 centimetre from the middle. That small gap is what Kepler used. If the path were a circle, where would the Sun sit? How is your shape different?",
           "kid": "Put a dot at each pin. The Sun is at one. How far is it from the middle?",
           "parent": "This shape is close to the real path of Mars, whose Sun is off-centre by about a tenth of the path's radius. A circle with the Sun in the middle would be 1 centimetre wrong. Tycho's readings were good enough to notice that.",
           "check": {
@@ -1532,6 +1534,7 @@
     {
       "id": "a2",
       "title": "A Sundial for Your City: build a small Samrat Yantra",
+      "problem": "A sundial tells the time from the Sun's shadow. To work well, it must be tilted for the city where it stands. You will build one for your city. Then you will compare it with your phone, and find out why the two do not agree.",
       "mins": 45,
       "days": 2,
       "materials": [
@@ -1786,6 +1789,7 @@
     {
       "id": "a4",
       "title": "Fix the Calendar: why 1900 was not a leap year but 2000 was",
+      "problem": "A year is a little longer than 365 days, so a calendar of exactly 365 days slowly slips away from the seasons. You will work out how fast it slips. Then you will see how the leap-year rule fixes it.",
       "mins": 25,
       "days": 1,
       "materials": [
@@ -1885,6 +1889,7 @@
     {
       "id": "p1",
       "title": "A Pendulum on a Turntable: the idea behind Foucault's proof",
+      "problem": "A swinging pendulum keeps swinging in the same direction, even if its frame turns. In 1851 Foucault used this to show that the Earth spins. You will build a small pendulum on a turntable and see it happen.",
       "days": 1,
       "mins": 50,
       "materials": [
@@ -2073,7 +2078,7 @@
           "say": "Mark the tip again. The shadow is changing length and direction. Is it getting shorter or longer? Which way is it turning?",
           "kid": "Every 15 minutes, mark the tip. Write the time. Join the crosses.",
           "wait": "Mark the tip every 15 minutes for at least an hour.",
-          "parent": "While you wait, watch the shadow creep. This is the Earth turning under the Sun. You can do other things between the marks. The marks take an hour, but your own work takes only a few minutes of it."
+          "parent": "While you wait, watch the shadow creep. This is the Earth turning under the Sun. You can do other things between the marks. You do not need to watch the whole hour. You only need to come back every 15 minutes and mark the tip."
         },
         {
           "id": "s3",
@@ -2213,7 +2218,7 @@
         },
         {
           "t": "write",
-          "p": "In The Spinning Chair, with your eyes shut, a slow steady turn was hard to feel, but a sudden stop was easy. Explain why.",
+          "p": "With your eyes shut in a turning chair, a slow steady turn is hard to feel, but a sudden stop is easy to feel. Explain why.",
           "lines": 3,
           "a": "The body senses changes in movement. A steady turn has no change to feel. A sudden stop is a big change, so it can be felt.",
           "why": "A strong answer says that the body feels changes in movement and not steady movement, and uses both halves of the test.",
@@ -2275,7 +2280,7 @@
         },
         {
           "t": "write",
-          "p": "In Galileo's Venus, a ball that stayed between you and the lamp never looked more than a thin crescent. What does that tell you about Ptolemy's Venus?",
+          "p": "A ball that always stays between you and a lamp never looks more than a thin crescent. What does that tell you about Ptolemy's model, where Venus stays between the Earth and the Sun?",
           "lines": 3,
           "a": "In Ptolemy's model Venus stays between the Earth and the Sun. Then it could only show crescents. Galileo saw Venus nearly full, so Ptolemy's model could not be right.",
           "why": "A strong answer links what the ball did to what Galileo saw, and says the model could not make a full Venus.",
@@ -2928,7 +2933,7 @@
     },
     {
       "t": "mcq",
-      "p": "In Galileo's Venus, a ball that stays between you and the lamp can look only like what?",
+      "p": "A white ball always stays between you and a lamp. What can the ball look like?",
       "opts": [
         "A thin crescent or dark",
         "A nearly full ball",
@@ -2953,7 +2958,7 @@
     },
     {
       "t": "mcq",
-      "p": "Resting the quadrant on a table made the readings agree more closely than holding it in the hands. What is the reason?",
+      "p": "Why do repeated readings of an angle agree more closely when the instrument rests on a table than when it is held in the hands?",
       "opts": [
         "The table took away the shaking of the hands",
         "The table made the sticker bigger",

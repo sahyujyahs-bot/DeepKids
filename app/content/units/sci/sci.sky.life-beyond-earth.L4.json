@@ -274,9 +274,9 @@
    "status": "defined",
    "context": "Planets around other stars are many light-years away. This card says how astronomers find them at all and how they read their air.",
    "definition": "Astronomers find many exoplanets by the tiny dip in a star's light when a planet passes in front, called a transit. They read a planet's air from the colours missing in the starlight that passes through it.",
-   "description": "A planet is far too faint to see next to its bright star. But when it crosses in front of the star, the starlight dims a tiny bit. Jupiter would block about 1 part in 100 of the Sun's light, and Earth only about 1 part in 10,000. If the dip repeats, the planet is real, and the time between dips is the length of its year. When the planet is in front, a little starlight also passes through the thin ring of its air. Each gas takes away its own colours from the light. So the spectrum, the starlight spread into a rainbow, has dark gaps that show which gases are there. In 2022 the James Webb Space Telescope found carbon dioxide in the air of a hot gas planet named WASP-39 b. In 2018, scientists at the Physical Research Laboratory in Ahmedabad reported the first planet found from India, using a telescope at Mount Abu.",
+   "description": "A planet is far too faint to see next to its bright star. But when it crosses in front of the star, the starlight dims a tiny bit. A planet as big as Jupiter would block about one hundredth of the Sun's light. A planet as small as Earth would block only about one ten-thousandth. If the dip repeats, the planet is real, and the time between dips is the length of its year. When the planet is in front, a little starlight also passes through the thin ring of its air. Each gas takes away its own colours from the light. So the spectrum, the starlight spread into a rainbow, has dark gaps that show which gases are there. In 2022 the James Webb Space Telescope found carbon dioxide in the air of a hot gas planet named WASP-39 b. In 2018, scientists at the Physical Research Laboratory in Ahmedabad reported the first planet found from India, using a telescope at Mount Abu.",
    "examples": [
-    "A star that dims by 1 part in 100 every 6 days has a big planet with a 6-day year.",
+    "If a star's light dips by one hundredth every 6 days, a big planet is going round it, and that planet's year is 6 days long.",
     "Kepler, a space telescope launched in 2009, found thousands of planets with the transit method.",
     "Each gas in a planet's air takes away its own set of colours from the starlight."
    ],
@@ -728,8 +728,9 @@
      "mins": 4,
      "do": "Spread out the cards that were hard. Sort all 20 cards into the three groups. Ask what the strong hints have in common.",
      "say": "Let's sort all the cards into three piles. What do the strong hints have in common? What does it take to move a card from can't tell yet into a strong hint?",
+     "parent": "A good answer is that in the strong hints something keeps making the gas again and again, or several signs fit together, and non-living chemistry rarely explains them. For the last question, a good answer is to look for more signs and ask other teams to repeat the observation, as with the Wow! signal that nobody could check.",
      "kid": "Sort all the cards into 3 piles. What do the strong hints share?",
-     "think": "If one team found a hint of life and nobody else could repeat it, how many other clues would you want?",
+     "think": "If one team found a hint of life and nobody else could repeat it, what should the scientists do next?",
      "context": "In this step, you sort the cards and think about what makes a clue strong."
     }
    ]
@@ -817,7 +818,7 @@
       },
       {
        "f": "Around TRAPPIST-1. Planet g, about 7.0 million kilometres from the star.",
-       "b": "Just right, possibly. This planet is about as near its star as the imaginary planet 5 million kilometres from the Sun, but its star is much dimmer."
+       "b": "Just right, possibly. This planet is about as far from its star as the imaginary planet is from the Sun, and that one is too hot. But TRAPPIST-1 is much dimmer than the Sun, so here it may not be too hot."
       },
       {
        "f": "Around TRAPPIST-1. Planet h, about 9.3 million kilometres from the star.",
@@ -879,9 +880,10 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask what surprised them. Ask why the moons Europa and Enceladus might still have liquid water though they are in the 'too cold' box.",
-     "say": "Which card surprised you most? Europa and Enceladus are far out, in the too cold box. Why might they still have liquid water?",
-     "kid": "Which card surprised you? How can a far moon still have liquid water?",
+     "do": "Ask what surprised them. Ask why the moons Europa and Enceladus might still have liquid water though they are in the 'too cold' box. The answer is in the note below.",
+     "say": "Europa and Enceladus are far out, in the too cold box. Why might they still have liquid water?",
+     "parent": "A good answer is that the planet's pull squeezes the moon a little more and a little less as it goes round, and this warms the moon inside. So the star's warmth is not the only way to get liquid water.",
+     "kid": "How can a far moon still have liquid water?",
      "think": "If a moon is warmed from inside, does the habitable zone still matter?",
      "context": "In this step, you talk about what the zone leaves out."
     }
@@ -1029,7 +1031,7 @@
     },
     {
      "t": "write",
-     "p": "In the Curd Zones test, cup D got its curd while the milk was too hot, and it stayed liquid. Cup A, from the fridge, set later when it was warmed. What is the difference between what cold does and what too much heat does to tiny living things?",
+     "p": "A cup of milk with curd stayed liquid in the fridge, but it set when moved somewhere warm. Another cup had curd added to milk that had just boiled. It never set, even when moved somewhere warm. What is the difference between what cold does and what too much heat does to tiny living things?",
      "lines": 4,
      "a": "Cold only slows them down, so they can wake up again when it warms up. Too much heat kills them for good, so they cannot wake up. So a cold world may still have sleeping life, and a world that is too hot may not.",
      "why": "A strong answer says that cold pauses and heat destroys, and uses it to say where life might survive.",
@@ -1264,7 +1266,7 @@
     },
     {
      "t": "write",
-     "p": "In the Curd Zones test, the cup of milk and curd in the fridge did not set, but it set later when it was moved to a warm box. What does this say about cold, and why could it matter for a very cold icy moon?",
+     "p": "A cup of milk with curd in a fridge did not set, but it set later when it was moved to a warm box. What does this say about cold, and why could it matter for a very cold icy moon?",
      "lines": 4,
      "a": "Cold does not kill tiny living things. It pauses them, and they wake up when warmed. So microbes could sleep in the cold, and life could survive in a cold place for a long time. It matters because an icy moon may keep sleeping life, or its inside may be warm enough for life to be awake.",
      "why": "A strong answer says that cold pauses life and does not end it, and links this to icy places.",
@@ -1764,7 +1766,7 @@
      "do": "Ask your child three things: what they think now, what they saw that shows it, and why they think it happened. Then ask your child to be a space probe that can see only the balloons. Draw a bar chart of the balloon sizes at 40 minutes.",
      "say": "Let's put it together. First, what do you think now? Second, what did you see that shows it? Third, why do you think it happened? Now pretend you are a space probe that can see only the balloons. Which bottles would you say hold life?",
      "kid": "Say three things: what you think, what you saw, and why it happened. Then pretend you can see only the balloons.",
-     "parent": "A good answer. What I think: living yeast change the gas in the bottle. What I saw: only the bottle with yeast and sugar swelled the balloon. The dead yeast and the sugar alone did nothing. Why: living yeast eat sugar and give out carbon dioxide gas, and the gas swells the balloon. A probe that saw only the balloons would say bottle A holds life, and it would be right. But a probe seeing only a swollen balloon could be fooled by something else that makes gas, so a scientist would want a second sign. Give this last part only after your child has given their own ideas.",
+     "parent": "A good answer. What I think: living yeast change the gas in the bottle. What I saw: only the bottle with yeast and sugar swelled the balloon. The dead yeast and the sugar alone did nothing. Why: living yeast eat sugar and give out carbon dioxide gas, and the gas swells the balloon. A probe that saw only the balloons would say bottle A holds life, and it would be right. But a probe seeing only a swollen balloon could be fooled by something else that makes gas. For example, warm air takes up more room, and baking soda mixed with vinegar makes gas without any life. So a scientist would want a second sign. Give this last part only after your child has given their own ideas.",
      "think": "What other thing could swell a balloon on a bottle, without any life?",
      "context": "In this step, you say what the balloons show, and you play the part of a probe that sees only the gas."
     }
@@ -2102,7 +2104,7 @@
      "say": "Which planet blocks more light, X or Y? So which is bigger? Which has the shorter year? A planet with a shorter year is closer to its star. What do you think? What did you see? Why?",
      "kid": "Which planet is bigger? Which is closer to its star? Say three things: what you think, what you saw, and why.",
      "parent": "A good answer. What I think: planet X is bigger and planet Y is closer to its star. What I saw: X made a deeper dip, and Y's dips came every 4 days. Why: a bigger planet blocks more light, and a planet closer to its star goes round faster. An Earth-sized planet would block only about 1 part in 10,000, so it would be very hard to see.",
-     "think": "How would you check that the dips are a planet and not something else, like a star spot?",
+     "think": "A single dip could be a mistake or a passing speck. What would make you sure that the dips come from a planet?",
      "context": "In this step, you compare the two planets and say what the graphs show."
     }
    ]
@@ -2209,6 +2211,7 @@
   {
    "id": "a4",
    "title": "Colours Taken Away: how light shows what is in the air",
+   "problem": "Scientists cannot visit a far planet, so they read the gases in its air from starlight. Each gas takes away its own colours from the light. You will make a rainbow with a CD and a torch. Then you will take colours away with coloured sheets, as a model of what a gas does.",
    "mins": 20,
    "days": 1,
    "context": "This is a model of how scientists read a planet's air from the light that passes through it. A coloured sheet takes away some colours from a rainbow, as a gas takes away its own colours from starlight.",
@@ -2318,6 +2321,7 @@
   {
    "id": "a5",
    "title": "Alive or Not? Argue it out",
+   "problem": "Scientists looking for life need to know what life is. That is harder than it sounds. You will take eight things, from a seed to a flame, and decide which are alive. Some are easy, and some are not.",
    "mins": 15,
    "days": 1,
    "context": "This is a talking activity. You take eight things and decide which are alive, using a list of signs of life. Some are easy, and some are not. This is the problem scientists face when they look for life elsewhere.",
@@ -2395,7 +2399,7 @@
      "say": "What do you think now? What did you see in your table? Why do you think scientists find it hard to agree? And why does this matter when we look for life on another planet?",
      "kid": "Say three things: what you think, what you saw, and why. Why does this matter in space?",
      "parent": "A good answer. What I think: it is hard to say exactly what life is. What I saw: some things showed a few signs but not all, like fire and viruses. Why: our list was made from life on Earth, so life elsewhere might not fit it. Scientists use a working idea: a self-sustaining chemical system that can evolve.",
-     "think": "If you found something on Mars that showed only some of the signs, what would you do next?",
+     "think": "If something on Mars showed only some of the signs of life, why could scientists not simply say yes or no?",
      "context": "In this step, you say what the table showed and why it matters for finding life elsewhere."
     }
    ]
@@ -2405,6 +2409,7 @@
   {
    "id": "p1",
    "title": "Claim Check: is the news about life in space true?",
+   "problem": "News stories about life in space often say more than the scientists did. You will pick one story and find where it came from. Then you will sort each claim into seen, worked out or guessed, and write a fairer headline.",
    "days": 3,
    "mins": 65,
    "context": "This is a three-day project about checking a news story. You pick a story about life in space, find where it came from, and sort each statement into things seen, things worked out and things guessed. Then you write a fair headline.",
@@ -2940,7 +2945,7 @@
    "art": "A row of steel katoris of curd on a kitchen shelf, one set and one still milky."
   },
   {
-   "text": "Venus, the bright evening star, and a reddish dot of Mars in the sky. Look for them at dusk with a grown-up.",
+   "text": "Venus, the bright planet that people call the evening star, and a reddish dot of Mars in the sky. Look for them at dusk with a grown-up.",
    "art": "A dusk sky over rooftops with a very bright star low on the horizon and a reddish dot higher up."
   },
   {

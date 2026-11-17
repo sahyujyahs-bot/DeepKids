@@ -238,7 +238,7 @@
       "concept": "Tides: the Moon pulls on the oceans",
       "status": "defined",
       "definition": "Tides are the rise and fall of the sea, caused mainly by the Moon's pull on the Earth's water. There are two high tides every day, about 12 and a half hours apart.",
-      "description": "The Moon pulls on everything on the Earth, and the pull is stronger on the side nearest the Moon and weaker on the far side. This stretches the oceans into two bulges, one facing the Moon and one on the opposite side. The Earth turns once a day beneath the two bulges, so a coast sees two high tides and two low tides in a day. The Moon moves on in its orbit while the Earth turns, so the gap between two high tides is about 12 hours and 25 minutes. This means each high tide arrives about 50 minutes later than on the day before, just as moonrise does. Tide times differ from place to place, because of the shape of the coast and the sea floor. The Gulf of Khambhat in Gujarat has some of the biggest tides in India. The Sun also pulls on the oceans, with a bit less than half the Moon's effect.",
+      "description": "The Moon pulls on everything on the Earth, and the pull is stronger on the side nearest the Moon and weaker on the far side. On the near side, the sea is pulled towards the Moon and piles up. The solid Earth is pulled a little less strongly than that water, and the sea on the far side is pulled least of all. So the far-side sea is left behind and piles up as well. This makes two bulges, one facing the Moon and one on the opposite side. The Earth turns once a day beneath the two bulges, so a coast sees two high tides and two low tides in a day. The Moon moves on in its orbit while the Earth turns, so the gap between two high tides is about 12 hours and 25 minutes. This means each high tide arrives about 50 minutes later than on the day before, just as moonrise does. Tide times differ from place to place, because of the shape of the coast and the sea floor. The Gulf of Khambhat in Gujarat has some of the biggest tides in India. The Sun also pulls on the oceans, with a bit less than half the Moon's effect.",
       "examples": [
         "Fishing boats on many coasts of India are launched at high tide and pulled up the beach at low tide.",
         "A tide table in a newspaper or on a phone gives the times for your port."
@@ -384,7 +384,7 @@
       "hint": "Think about a face lit from the front and from the side, or a field at noon and at dawn."
     },
     {
-      "q": "We usually think of a shadow as a dark place where we see nothing. On the Moon, shadows show the shape of the ground. What else do we learn from the dark parts of a picture?",
+      "q": "We usually think of a shadow as a dark place where we see nothing. On the Moon, a shadow shows the shape of the ground. Can you think of another time when a dark part of something helps you understand it?",
       "kind": "deep",
       "hint": "Think of a drawing in pencil, a photograph with a dark background, or a silence in music."
     },
@@ -466,7 +466,7 @@
       "How did a surveyor's trick with early morning light help Abirami find the Moon's mountains?",
       "On which night, and along which line, did the craters show up most clearly?",
       "If you were planning a landing on the Moon and the lander worked only in sunlight, when in the Moon's day would you land?",
-      "Karthik wanted to try Abirami's idea on Saturday. If the half Moon was on Wednesday, would that work? Why or why not?"
+      "If the new Moon is on the 16th, about which night after it is best for seeing craters? Why?"
     ],
     "art": [
       "A girl on a flat rooftop at dusk looking through binoculars at a huge golden full Moon over a water tank, with her grandmother beside her.",
@@ -593,7 +593,7 @@
             },
             {
               "f": "The Moon is 8 days old.",
-              "b": "It looks like a half Moon with a bulge, starting to get round. Seen from India, it is lit on the right. It sets about 6 and a half hours after sunset, so look in the western or southern sky in the evening."
+              "b": "It is a little more than half lit, just past the half Moon and starting to look round. Seen from India, it is lit on the right. It sets about 6 and a half hours after sunset, so look in the western or southern sky in the evening."
             },
             {
               "f": "The Moon is 9 days old.",
@@ -970,7 +970,8 @@
           "mins": 3,
           "do": "Check who won, or whether the night won. Talk about why a lander is timed to land at dawn.",
           "say": "Did anyone reach the finish? If the night won, what could you change next time? Why did we start at lunar dawn?",
-          "kid": "Who won? What could a lander do to save time?",
+          "parent": "A good answer to the first question: a lander that runs on sunlight needs the whole two weeks of daylight, so it lands just after sunrise. For the last question: at night there is no sunlight to make power, so the lander would need power stored in a battery, or another source of power, to stay awake and keep warm.",
+          "kid": "Who won? Why did we start at lunar dawn?",
           "check": {
             "t": "mcq",
             "q": "A lander must work in sunlight for as long as possible. When should it land?",
@@ -982,7 +983,7 @@
             "a": 0,
             "why": "Landing just after sunrise gives about two weeks of daylight. Landing at noon gives only one week, and landing at sunset gives almost none."
           },
-          "think": "What else might a spacecraft do to survive the night, other than sleeping?",
+          "think": "Why does a lander that runs on sunlight go to sleep at night, and what would it need to stay awake?",
           "context": "In this last step, you finish the race and talk about timing."
         }
       ]
@@ -1195,7 +1196,7 @@
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened.",
           "say": "Tell me three things. What do you think now? What did you see? And why do you think it happened?",
           "kid": "Say three things: what you think now, what you saw, and why it happened.",
-          "parent": "A good answer sounds like this. What I think: the best light for seeing craters comes from the side. What I saw: I counted 3 with the torch by my head, 9 with the torch at the side. Why: light from the side makes long shadows, and shadows show shape. On the real Moon, the sideways light along the terminator makes shadows, so a half Moon shows mountains best.",
+          "parent": "A good answer sounds like this. What I think: the best light for seeing craters comes from the side. What I saw: I counted 3 with the torch by my head, 9 with the torch at the side. Why: light from the side makes long shadows, and shadows show shape. On the real Moon, the sideways light along the terminator makes shadows, so a half Moon shows mountains best. For the last question, standing on the Moon at full Moon you would see the Sun high overhead, because it is lunar noon there. Shadows would be short or missing, so the ground there would look flat too.",
           "think": "At full Moon the Sun shines straight on to the Moon from behind us. What would you see if you stood on the Moon at that moment?",
           "context": "In this last step, you say what you found and link it to the Moon."
         }
@@ -1603,7 +1604,7 @@
           "say": "Tell me three things. What do you think now? What did you measure? Why does a small bindi cover a big Moon?",
           "kid": "Say three things: what you think now, what you saw, and why it happened.",
           "parent": "A good answer sounds like this. What I think: the Moon is about 110 of its own widths away. What I saw: a 7 millimetre bindi covered the Moon at about 77 centimetres, so the ratio was about 110. Why: a small thing close to the eye can cover a big thing far away if they are in the same proportion. The same works for the Sun, which is about 400 times wider than the Moon and also about 400 times further away.",
-          "think": "The Sun is about 400 times wider than the Moon. What does that tell you about how far away it is?",
+          "think": "The Sun and the Moon look about the same size in the sky, and the Sun is about 400 times wider. What does that tell you about how far away the Sun is?",
           "context": "In this last step, you say what you found."
         }
       ]
@@ -1702,6 +1703,7 @@
     {
       "id": "a2",
       "title": "Catch Up: why the Moon's month is longer than one trip round",
+      "problem": "The Moon goes once round the Earth in about 27 days. But it takes about 29 and a half days to go from one new Moon to the next. Why are there two extra days? You will find out with a lamp, an orange and a lime.",
       "mins": 20,
       "days": 1,
       "materials": [
@@ -1829,7 +1831,7 @@
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened.",
           "say": "Tell me three things. What do you think now? What did you see? Why is the month longer than one trip round?",
           "kid": "Say three things: what you think now, what you saw, and why it happened.",
-          "parent": "A good answer sounds like this. What I think: the Moon needs extra time to line up with the Sun. What I saw: after one trip, the Moon was not between the Earth and the Sun. Why: the Earth moved along its path round the Sun, so the Sun was in a new direction.",
+          "parent": "A good answer sounds like this. What I think: the Moon needs extra time to line up with the Sun. What I saw: after one trip, the Moon was not between the Earth and the Sun. Why: the Earth moved along its path round the Sun, so the Sun was in a new direction. For the last question, the month would be shorter. If the Earth moved more slowly along its path, the Sun's direction would turn less in a month, so the Moon would have less extra distance to catch up.",
           "think": "If the Earth went round the Sun more slowly, would the month be longer or shorter?",
           "context": "In this last step, you say what you found."
         }
@@ -1954,6 +1956,7 @@
     {
       "id": "p1",
       "title": "The Terminator Log: five evenings of the growing Moon",
+      "problem": "The line between the Moon's lit part and its dark part is where the Sun has only just risen. You will draw the growing Moon on five evenings. You will watch this line move across the Moon and light up one crater after another.",
       "mins": 30,
       "days": 5,
       "materials": [
@@ -2220,6 +2223,7 @@
           "mins": 9,
           "do": "Show your plan to someone else. Talk about what the Moon looks like on landing day, and what you would change.",
           "say": "Explain your plan to someone. What does the Moon look like on landing day? What would you change for a pole landing?",
+          "parent": "A good answer: near the Moon's poles the Sun stays low in the sky, so some crater rims are lit for most of the year, and a lander there could have sunlight for much longer. The risk is that the long shadows make the ground harder to see.",
           "kid": "Tell someone your plan. What does the Moon look like?",
           "check": {
             "t": "mcq",
