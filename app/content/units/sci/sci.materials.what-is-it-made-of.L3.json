@@ -266,7 +266,7 @@
    "description": "Everyone agrees on the easy cases. A pebble is natural, and a plastic bucket is made by people. But where exactly is the line? Thinkers give different answers.",
    "examples": [
     "Plastic is made from oil, and oil formed from tiny living things in the sea that died millions of years ago.",
-    "A beaver's dam is built by an animal. A farmer's mud dam is built by people. Are both natural?"
+    "A beaver's dam is built by an animal. A farmer's mud dam is built by people. Thinkers disagree about whether both count as natural."
    ],
    "perspectives": [
     {
@@ -611,7 +611,7 @@
    "Where was the salt before it appeared on the rim of the hollow?",
    "The old man picked up a lump of salty mud. Why did that small thing matter so much?",
    "Is salt from the sea natural, or made by people? What do people do to it?",
-   "Who do you think should own the salt in the sea?"
+   "Kashi decided that nobody had a right to sell salt as if they had made it. What did she see that made her think so?"
   ],
   "art": [
    "Black rocks on a Gujarat shore at low tide, with round hollows of still water shining in the sun.",
@@ -784,7 +784,8 @@
      "do": "Count the points. Then lay all the sets out together and sort them into three groups: from plants, from animals, from the ground or sea.",
      "say": "Look at all the journeys. Which ones began with a plant? Which with an animal? Which with the ground or the sea? Was there any journey that did not start in nature?",
      "kid": "Count your points. Now sort the sets into three groups: from plants, from animals, and from the ground or sea. Did any journey start somewhere else?",
-     "think": "The plastic bucket started at an oil well. But where did the oil come from, long, long ago?"
+     "think": "The plastic bucket started at an oil well. But where did the oil come from, long, long ago?",
+     "parent": "The oil formed from tiny living things in ancient seas that died millions of years ago. They were buried in mud, then slowly squeezed and warmed."
     }
    ],
    "setup": [
@@ -924,7 +925,8 @@
      "do": "Look at the three mats and the cards on the lines between them.",
      "say": "Look at the cards on the lines between the mats. Is the line between natural and made always sharp?",
      "kid": "Look at the cards on the lines. Is it always easy to say who made a thing?",
-     "think": "Birds build nests and people build houses. Is a house as natural as a nest?"
+     "think": "Birds build nests and people build houses. Is a house as natural as a nest?",
+     "parent": "There is no single right answer. One view says people are animals too, so both are natural. Another view says people change the Earth far more than any other animal does. A good answer gives a reason."
     }
    ],
    "setup": [
@@ -1069,7 +1071,7 @@
      "say": "Which sheet looks most different? Which feels roughest? Could you write on them?",
      "kid": "Peel off your new paper! Compare the three sheets. Try writing your name on each one.",
      "think": "Long ago, people made paper from old rags, rice straw and bark. What else around your home could you make paper from?",
-     "parent": "Handmade paper is thicker and bumpier than shop paper, because factory machines press it much harder and flatter. The sheets with grass or petals will show those bits."
+     "parent": "Handmade paper is thicker and bumpier than shop paper, because factory machines press it much harder and flatter. Anything made of plant fibres can be made into paper, such as old cotton cloth, rice straw, banana stem or coconut husk. The sheets with grass or petals will show those bits."
     },
     {
      "id": "s6",
@@ -1397,7 +1399,7 @@
      "do": "When the washed halves are dry, put them side by side with the unwashed halves. Fill in the table.",
      "say": "Which colour stayed best? Which washed out most?",
      "kid": "Put the halves side by side. Which colour stayed? Which washed away?",
-     "parent": "Usually onion skins and tea stay quite well, and turmeric fades in sunlight and with washing. Beetroot often washes out a lot. If the turmeric cloth turns orange-red when you wash it, that is real: soap changes the colour of turmeric. Dyers in India learned over thousands of years which plants, and which helpers like alum, make colours last. Indigo, the famous blue, came from a plant too. Plain cotton without alum takes colour weakly, so pale results are normal and honest.",
+     "parent": "Usually onion skins and tea stay quite well, and turmeric fades in sunlight and with washing. Beetroot often washes out a lot. If the turmeric cloth turns orange-red when you wash it, that is real: soap changes the colour of turmeric. Dyers in India learned over thousands of years which plants, and which helpers like alum, make colours last. Indigo, the famous blue, came from a plant too. Plain cotton without alum takes colour weakly, so pale results are normal and honest. Perkin's dye was made by people. He started from coal tar, a natural raw material, and changed it with chemistry.",
      "think": "In 1856 a teenager in England, William Perkin, made the first dye from chemicals, a bright purple. Was his dye natural or made?",
      "wait": "Let the washed halves dry completely, a few hours in a warm, airy place."
     },
@@ -1685,7 +1687,8 @@
      "do": "Put the three chains side by side and compare where each one ends.",
      "say": "Did any chain end somewhere other than nature? Which chain was the longest?",
      "kid": "Look at your three chains. Where did each one end? Did any end outside nature?",
-     "think": "Why do you think a spoon is made of steel, and a hanky of cotton?"
+     "think": "Which of your three chains ended at a living thing? Which ended in the ground?",
+     "parent": "The cotton hanky ends at a cotton plant, which is a living thing. The steel spoon ends at iron ore, a rock in the ground. The plastic comb ends at oil in the ground, which formed from tiny living things in ancient seas."
     }
    ],
    "setup": [
@@ -2014,7 +2017,8 @@
      "do": "Measure your longest thread with a ruler. Tape it into the notebook.",
      "say": "How long is your thread? One cotton sari is woven from many kilometres of thread.",
      "kid": "Measure your thread with a ruler. Tape it in your notebook.",
-     "think": "The fine Dhaka muslin of old Bengal was spun by hand. It was so thin that people said a whole length of cloth could pass through a ring. How many hours do you think the spinning took?"
+     "think": "Your thread was probably short and lumpy. The fine Dhaka muslin of old Bengal was spun by hand into thread so thin that a whole sari could pass through a ring. What must a spinner learn to make thread that fine?",
+     "parent": "A spinner must pull out an even amount of fibre and twist at a steady speed. This takes years of practice."
     }
    ],
    "setup": [
@@ -2035,6 +2039,7 @@
   {
    "id": "a6",
    "title": "Same Beads, Different Things",
+   "problem": "There are only about 90 kinds of atom, and everything is built from them. Wood, cotton, sugar and plastic are made mostly from three kinds: carbon, hydrogen and oxygen. In this activity, beads stand for these atoms. You join the same beads in different patterns to see how different materials can be made from the same atoms.",
    "mins": 15,
    "days": 1,
    "context": "This activity uses beads as pretend atoms. You build different 'materials' from the same three kinds of bead, to see how a few atoms make everything.",
@@ -2164,7 +2169,8 @@
      "do": "1. The grown-up 'digs up' the child, or one of the children. That child is the iron atom. They walk to the table. 2. The child holds up the steel spoon.",
      "say": "Miners dug you out. A furnace melted you. A factory pressed you into a spoon. And here you are at our dinner table, a little piece of a star.",
      "kid": "A miner digs you up. A furnace melts you. Now you are a spoon, a little piece of a star!",
-     "think": "Scientists still argue about where gold atoms were made. Was it exploding stars, or two dead stars crashing together?"
+     "think": "Scientists do not yet agree where most gold atoms were made. What are the two main ideas?",
+     "parent": "One idea is that exploding giant stars made the gold. The other is that two dead stars, called neutron stars, crashed together and made it. Both may make some gold, and scientists are still working out how much."
     }
    ],
    "setup": [
@@ -2410,7 +2416,8 @@
      "do": "Read the usual solutions and the creative ideas together. Then improve your design.",
      "say": "Here is how people usually do it, and some creative ideas. Can you make yours better?",
      "kid": "Look at the usual ways and some new ideas. Can you make your plate even better?",
-     "think": "Why do you think so many people switched from leaf plates to plastic and paper plates? Was it a good swap?"
+     "think": "Why do you think so many people switched from leaf plates to plastic and paper plates? Was it a good swap?",
+     "parent": "Plastic and paper plates are light, cheap and easy to store and carry. But plastic stays for hundreds of years, while leaves rot into soil. A good answer weighs both."
     }
    ],
    "setup": [
@@ -2487,7 +2494,8 @@
      "do": "Read the usual solutions and creative ideas. Then try making a simple version of your swap, if you can.",
      "say": "Here are some usual swaps and some creative ones. Could your family really use yours?",
      "kid": "Look at the usual swaps and some new ideas. Try making yours. Will your family use it?",
-     "think": "Is the best swap the one that is most natural, the one that lasts longest, or the one people will really use?"
+     "think": "Is the best swap the one that is most natural, the one that lasts longest, or the one people will really use?",
+     "parent": "A swap that nobody uses changes nothing. A good answer weighs all three, because a swap must do the job, be used by real people and be kind to the Earth."
     }
    ],
    "setup": [

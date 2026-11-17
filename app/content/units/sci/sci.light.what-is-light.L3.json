@@ -3,7 +3,7 @@
  "title": "What is light, and how fast does it travel?",
  "level": 3,
  "summary": {
-  "text": "Light looks as if it arrives instantly, but it takes time to travel. It is energy that crosses even empty space, at about 3 lakh kilometres every second, so sunlight takes about 8 minutes to reach us. Light spreads like a wave, but its energy comes in tiny packets called photons. That is why a blue phone screen can make a glow-in-the-dark star glow, while a red screen cannot, even if you shine it for minutes. Scientists can predict what light will do very well, but they still argue about what it really is.",
+  "text": "Light looks as if it arrives instantly, but it takes time to travel. It is energy that crosses even empty space, at about 3 lakh kilometres every second, so sunlight takes about 8 minutes to reach us. Light spreads like a wave, but its energy comes in tiny packets called photons. A blue packet carries more energy than a red one. A glow-in-the-dark star needs packets with enough energy, so a blue phone screen can make it glow and a red screen cannot, even if you shine it for minutes. Scientists can predict what light will do very well, but they still argue about what it really is.",
   "art": "A beam of sunlight going from the Sun to a child's face in an Indian courtyard, with a small clock beside the beam showing 8 minutes, and the beam drawn half as a wavy line and half as a row of tiny dots."
  },
  "intro": {
@@ -592,7 +592,7 @@
    "How were Aunt Isabelle's letters like the light from Io?",
    "The astronomers smiled into their sleeves. Why do you think some of them did not believe Rømer?",
    "When Marthe looked at the stars walking home, what did she realise?",
-   "Is an old letter, or old starlight, still true? What do you think?"
+   "Aunt Isabelle's letter said 'the sea is calm', but it was five weeks old. What was still true about the letter, and what might have changed?"
   ],
   "art": [
    "A white observatory on a hill above Paris at dusk, a girl carrying a lamp beside her father.",
@@ -922,7 +922,7 @@
      "do": "Sit down together and talk about the game.",
      "say": "Was light more like a wave or more like a crowd of particles in our game? Scientists found that real light is both at once.",
      "kid": "Sit down. Was light a wave or a crowd of dots in the game? Real light is both!",
-     "think": "How can something be a wave and a crowd of dots at the same time?"
+     "think": "The game had a WAVE card and a PARTICLE card. Which card fits the stripes that light makes through two slits, and which fits the glow star test?"
     }
    ]
   }
@@ -1789,6 +1789,7 @@
   {
    "id": "e3",
    "title": "Chocolate in the Microwave: measure the speed of light",
+   "problem": "A wave's speed is how long one wave is, multiplied by how many waves pass each second. A microwave oven makes waves of light that our eyes cannot see, and they travel at the speed of light. In this experiment you use chocolate to measure how long the waves are. The label on the oven tells you how many waves it makes each second.",
    "mins": 24,
    "days": 1,
    "context": "In this experiment, a grown-up melts a plate of chocolate in a microwave oven with the turning plate taken out. The distance between the melted spots shows how long the waves are. From that, you work out their speed. Microwaves are the same kind of wave as light, so they travel at the speed of light.",
@@ -1987,7 +1988,7 @@
        ]
       }
      ],
-     "think": "When you switch off the torch, does the light stop, or does it fly away somewhere?",
+     "think": "When you switch off the torch, the light that already left it keeps going. What does that light do when it reaches the wall?",
      "parent": "This is a noticing step, so don't explain yet. Write down your child's wonders. The rest of the unit will answer many of them. Light does take time to travel, but across a room it is far too fast to notice."
     }
    ]
@@ -2101,6 +2102,7 @@
   {
    "id": "a3",
    "title": "Ripples in an Uruli: what is a wave?",
+   "problem": "A wave is a movement that travels from place to place, while the water itself stays where it is. Scientists once argued about whether light is a wave like this, or a stream of tiny particles. In this activity you make water waves and compare them with rolling marbles.",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -2202,13 +2204,14 @@
      "do": "Do the wave-and-particle dance. When you call 'wave', your child moves smoothly. When you call 'particle', they move in sharp jumps.",
      "say": "When I say 'wave', flow your arms like ripples. When I say 'particle', make sharp, tiny jumps, like a photon landing. Light can be both!",
      "kid": "Dance! Wave means flowing arms. Particle means sharp little jumps. Light is both.",
-     "think": "Is light really a wave and really a particle, or are these just our words for it?"
+     "think": "Two ripples crossed and made a pattern, and so did light through two slits. What did Thomas Young decide light is?"
     }
    ]
   },
   {
    "id": "a4",
    "title": "The Late Moon: act out Rømer's discovery",
+   "problem": "In 1676, Ole Rømer saw that Jupiter's moon Io came out of Jupiter's shadow later when the Earth was further away. In this activity, a slow messenger stands for light. You act out why the moon seemed late.",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -2404,13 +2407,14 @@
      "do": "At home, fill in the table together.",
      "say": "Let's write down how far back in time we looked tonight.",
      "kid": "Write each thing you saw. Next to it, write how old its light was.",
-     "think": "Somewhere far away, someone might be looking at the Sun's light right now. What would they see when they look at us?"
+     "think": "Someone on a planet 4 light-years from the Earth looks at us tonight. How old is the light they see?"
     }
    ]
   },
   {
    "id": "a6",
    "title": "The Street-Light Star: see light's waves in a cloth",
+   "problem": "When waves squeeze through very small gaps, they spread out and cross each other, and this makes a pattern. The tiny gaps between the threads of a cloth are small enough to do this to light. If you see such a pattern, it is a clue that light is a wave.",
    "mins": 15,
    "days": 1,
    "materials": [
@@ -3142,11 +3146,11 @@
   "If the Moon disappeared, how long would it take us to notice?",
   "Is light a wave, or a stream of tiny packets? Can it be both?",
   "Why can't you hear the Sun?",
-  "If you could ride a beam of light, where would you go first?",
+  "If you could ride a beam of light from the Sun, how long would the trip to the Earth take?",
   "That star there: when did its light set out?",
-  "Cassini did not believe Rømer's true idea at first. Who else in history did not believe a true idea at first?",
+  "Cassini did not believe Rømer at first. What did Rømer do that finally showed he was right?",
   "What news do we get that is already a little old when it reaches us?",
-  "If you could send a message by light to anyone, what would you say?",
+  "If you send a message by light to a friend across the street, why does it arrive almost at once?",
   "Why do you think nothing can go faster than light?"
  ],
  "jokes": [
@@ -3550,10 +3554,10 @@
    "kid": "Sit in the daylight. Close your eyes. Feel the light on your face. Breathe in for four. Breathe out for four. Photons from the Sun are landing on you. Open your eyes slowly."
   },
   "ask": [
-   "If everything you see reached you a little late, when is 'now'?",
+   "Everything you see reaches you a little late. How old is the light from a lamp across the room, and how old is the light from the Sun?",
    "Light acts like a wave in one test and like packets in another. Is it a wave, a particle, or something we do not have a word for yet?",
-   "A red photon cannot do what a blue one does, however many red ones there are. Can you think of something else where many small ones cannot do the job of one big one?",
-   "The sage said that when every other light is gone, the self is the light we live by. When you dream in the dark, what lets you see the dream?"
+   "In the Glow Star Test, why did 2 minutes of red light not do what 30 seconds of blue light did?",
+   "The sage said that when every other light is gone, the self is the light we live by. Science can follow photons into the eye. What is the sage asking about that photons do not explain?"
   ],
   "art": "A child in a dark room watching a glow star shine after a blue light, with a red light beside it that left another star dark."
  },
