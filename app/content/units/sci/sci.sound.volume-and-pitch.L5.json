@@ -56,7 +56,7 @@
   {
    "term": "Decibel",
    "meaning": "The unit of volume. It is written dB for short. Every 10 decibels more means ten times as much sound energy.",
-   "example": "Talking at one metre is about 60 decibels. A mixie one metre away is about 85 to 90 decibels.",
+   "example": "Talking at one metre is about 60 decibels. A mixie one metre away is often about 85 decibels or more, and it varies by machine.",
    "art": "A tall scale marked from 0 to 120 with small pictures beside it: a leaf at 20, two people talking at 60, a mixie at 90."
   },
   {
@@ -187,7 +187,7 @@
    "concept": "The decibel scale",
    "status": "defined",
    "definition": "Volume is measured in decibels. Every 10 decibels more means ten times as much sound energy, and it sounds about twice as loud.",
-   "description": "The quietest sound a young person can hear is called 0 decibels. Leaves rustling are about 20 decibels, and a whisper is about 30. Talking at one metre is about 60. A mixie at one metre is about 85 to 90, and a motorcycle horn close by is about 100. The scale grows by multiplying. A sound of 70 decibels has ten times the energy of a sound of 60. A sound of 80 has a hundred times the energy. Yet 70 decibels sounds only about twice as loud as 60 to most people. This is why two singers are not twice as loud as one. Two equal sounds together read only 3 decibels more than one. Sounds above 85 decibels can harm the hair cells in the inner ear if you hear them for hours. The louder the sound, the shorter the safe time. In India, the Noise Pollution Rules of 2000 set a daytime limit of 55 decibels for places where people live.",
+   "description": "The quietest sound a young person can hear is called 0 decibels. Leaves rustling are about 20 decibels, and a whisper is about 30. Talking at one metre is about 60. A mixie at one metre is often 85 or more, and it varies by machine. A horn close by can reach 100 or more. The scale grows by multiplying. A sound of 70 decibels has ten times the energy of a sound of 60. A sound of 80 has a hundred times the energy. Yet 70 decibels sounds only about twice as loud as 60 to most people. This is why two singers are not twice as loud as one. Two equal sounds together read only 3 decibels more than one. Sounds above 85 decibels can harm the hair cells in the inner ear if you hear them for hours. The louder the sound, the shorter the safe time. In India, the Noise Pollution Rules of 2000 set a daytime limit of 55 decibels for places where people live.",
    "examples": [
     "A sound meter app in a quiet bedroom at night reads about 30 to 40 decibels.",
     "Ten people talking at once read about 70 decibels, which is 10 more than one person.",
@@ -200,7 +200,7 @@
    "concept": "Pitch comes from the frequency of the vibration",
    "status": "defined",
    "definition": "Frequency is the number of vibrations each second, measured in hertz. A higher frequency gives a higher pitch.",
-   "description": "Each vibration gives the air one push. A string that vibrates 220 times a second sends 220 pushes a second to your ear. Your ear and brain do not count them. You hear how often they come as a pitch. A tuner app can count them, and it shows the frequency in hertz. A young person can hear from about 20 hertz up to about 20,000 hertz. A man's speaking voice is about 120 hertz, and a woman's is about 210. Other animals hear different ranges. An elephant hears and makes sounds below 20 hertz, called infrasound. A dog hears up to about 45,000 hertz, and many bats hear above 100,000. Sound above 20,000 hertz is called ultrasound.",
+   "description": "Each vibration gives the air one push. A string that vibrates 220 times a second sends 220 pushes a second to your ear. Your ear and brain do not count them. You hear how often they come as a pitch. A tuner app can count them, and it shows the frequency in hertz. A young person can hear from about 20 hertz up to about 20,000 hertz. A man's speaking voice is about 120 hertz, and a woman's is about 210. Other animals hear different ranges. An elephant hears and makes sounds below 20 hertz, called infrasound. A dog hears up to more than 40,000 hertz, and many bats hear above 100,000. Sound above 20,000 hertz is called ultrasound.",
    "examples": [
     "The note A that orchestras tune to is 440 hertz.",
     "A mosquito's wings beat about 500 times a second, so her whine is about 500 hertz.",
@@ -401,7 +401,7 @@
   "title": "The Kanjira That Climbed",
   "mins": 10,
   "read_aloud": true,
-  "note": "Yazhini, Nila, Kathir and Sumathi Akka are made up, and so is the hall. 'Akka' is a Tamil word for elder sister, and pupils often use it for a young teacher. These things are real. A kanjira is a small frame drum of South India. It is a ring of jackfruit wood 18 to 23 centimetres wide, with a skin glued across one side. A few small metal discs are set in a slot in the ring. The skin was once the skin of a monitor lizard. Monitor lizards are now protected by law in India, and most makers use goat skin. A kanjira's pitch rises as its skin dries under hot lamps. Players really do wet the inside of the skin with a few drops of water to bring the pitch down.",
+  "note": "Yazhini, Nila, Kathir and Sumathi Akka are made up, and so is the hall. 'Akka' is a Tamil word for elder sister, and pupils often use it for a young teacher. These things are real. A kanjira is a small frame drum of South India. It is a ring of jackfruit wood about 18 to 23 centimetres wide, with a skin glued across one side. A few small metal discs are set in a slot in the ring. The skin was once the skin of a monitor lizard. Monitor lizards are now protected by law in India, and most makers use goat skin. A kanjira's pitch rises as its skin dries under hot lamps. Players really do wet the inside of the skin with a few drops of water to bring the pitch down.",
   "text": [
    "The hall in Madurai had a tin roof, and by six in the evening it was as hot as a dosa pan. Four stage lamps hung low over the mat where the musicians sat.",
    "Yazhini was ten. She held her kanjira on her knee and tried not to look at the two hundred people on the folding chairs. A kanjira is a small drum, a ring of jackwood about as wide as a small plate, with a goat skin glued across one side. This was her first concert without her teacher beside her. Sumathi Akka's bus was stuck behind a temple procession, and she had phoned to say, \"Start without me. You know everything you need.\"",
@@ -468,7 +468,7 @@
     "link": "The talk rests on the science of this unit: the tension of a string sets its pitch. The Buddha used a fact that every player knew to say something about effort. The fact about strings can be tested. The advice about effort is a teaching."
    },
    {
-    "source": "Bharata, Natya Shastra, chapter 28 (India, about 2,000 years ago)",
+    "source": "Bharata, Natya Shastra, chapter 28 (India, perhaps 2,000 years ago; its date is not certain)",
     "teaching": "The book describes a test with two veenas tuned exactly alike. One is left as it is. On the other, the strings are loosened a little at a time. The two are compared by ear at each step. In this way a listener learns the smallest steps of pitch, which the book calls shrutis.",
     "link": "This is a fair test. One veena is the control, and one thing is changed on the other: the tension. In the Water-Bottle String you did the same. Water took the place of a peg, and a tuner took the place of a trained ear."
    },
@@ -856,7 +856,7 @@
      "kid": "Lay a card in the line. Say why it goes there. Turn it over and check.",
      "ask": [
       {
-       "q": "A dog hears up to about 45,000 hertz, and you hear up to about 20,000. What does that mean for a dog whistle?",
+       "q": "A dog hears up to more than 40,000 hertz, and you hear up to about 20,000. What does that mean for a dog whistle?",
        "good": [
         "A dog can hear a whistle that is silent to me.",
         "The whistle's frequency is above my range and inside the dog's."
@@ -3105,31 +3105,28 @@
  ],
  "videos": [
   {
-   "title": "A plucked string filmed in slow motion beside its sound wave, plucked gently and then hard",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Slow-motion Guitar Strings - 8.2 Sound Waves Lesson 2",
+   "channel": "OpenSciEd Account",
+   "youtube": "UJjpI0qgDFI",
    "mins": 3,
    "why": "To see that a harder pluck gives a wider swing of the string and a taller wave on the screen. The swings come just as often.",
-   "check": "No address yet. Find a clip from a university or a well-known science channel that shows a real string and its wave on an oscilloscope together. Check that it says amplitude sets the loudness and frequency sets the pitch."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "A veena or sitar player tuning the instrument and then playing, with the hands filmed close up",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Learn to Play the Veena with E.Gaayatri | Fretting and Fingering the Saraswati Veena",
+   "channel": "Geethanjali Academy",
+   "youtube": "EYoxFWxaV4Q",
    "mins": 4,
    "why": "To see the three ways of changing a string's pitch in real use: turning a peg, pressing a fret, and pulling the string sideways.",
-   "check": "No address yet. Find a clip from a music school, a museum or a well-known performer. Check that the left hand on the frets and the pegs can be seen clearly."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "A tabla or mridangam being tuned with a small hammer before a concert",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How to tune Tabla by Sulekh Ruparell",
+   "channel": "Tabla Works",
+   "youtube": "r0CI2DQLI8U",
    "mins": 3,
    "why": "To hear a drum skin's pitch rise as the player tightens it by tapping the blocks and the rim.",
-   "check": "No address yet. Find a clip in which the player strikes the skin, taps the blocks, and strikes again, so that the change of pitch can be heard. Check that the sound is not too loud at normal volume."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -3139,7 +3136,7 @@
   "Cinema halls and recording studios line their walls with soft panels and thick curtains. These absorb sound, so that it does not bounce around.",
   "A hearing aid has a tiny microphone, an amplifier and a loudspeaker. It is set to add most volume at the pitches its wearer hears least well.",
   "Doctors use ultrasound, far above 20,000 hertz, to make pictures of a baby before birth. The sound is too high for anyone to hear.",
-  "Elephants call in infrasound, because low frequencies are weakened least by air and forest. A herd can keep in touch over several kilometres."
+  "Elephants call in infrasound, because low frequencies are weakened least by air and forest. A herd can keep in touch over a long distance."
  ],
  "spotted": [
   {
@@ -3463,7 +3460,7 @@
    [
     "A dog can hear sounds too high for a human.",
     true,
-    "A dog hears up to about 45,000 hertz, and a human up to about 20,000."
+    "A dog hears up to more than 40,000 hertz, and a human up to about 20,000."
    ],
    [
     "Water on a drum skin raises its pitch.",
@@ -3603,11 +3600,11 @@
  },
  "how_we_found_out": {
   "context": "Is a sound with more energy always louder? This card tells how two scientists tested that idea, and how it turned out wrong.",
-  "story": "By the 1920s, telephone engineers in America could measure the strength of a sound with instruments. It seemed natural that strength and loudness were the same thing. Two sounds of the same strength should then sound equally loud. Harvey Fletcher and Wilden Munson, at Bell Telephone Laboratories in New York, tested this. Listeners wore earphones and heard two tones in turn. One tone was always 1,000 hertz. The other was lower or higher. Its strength was changed until the listener judged both tones equally loud. Then the scientists compared the two strengths. The idea failed. A quiet tone of 100 hertz needed about a hundred times the energy of the 1,000 hertz tone. Only then did it seem as loud. Human ears were most sensitive at about 3,000 to 4,000 hertz. Fletcher and Munson published their curves in 1933. Later teams measured again with more listeners, and the curves changed a little. The main finding held. Loudness depends on pitch as well as on strength. Sound meters today count low sounds less, as human ears do.",
+  "story": "By the 1920s, telephone engineers in America could measure the strength of a sound with instruments. It seemed natural that strength and loudness were the same thing. Two sounds of the same strength should then sound equally loud. Harvey Fletcher and Wilden Munson, at Bell Telephone Laboratories in New York, tested this. Listeners wore earphones and heard two tones in turn. One tone was always 1,000 hertz. The other was lower or higher. Its strength was changed until the listener judged both tones equally loud. Then the scientists compared the two strengths. The idea failed. A quiet tone of 100 hertz needed many times the energy of the 1,000 hertz tone. Only then did it seem as loud. Human ears were most sensitive at about 3,000 to 4,000 hertz. Fletcher and Munson published their curves in 1933. Later teams measured again with more listeners, and the curves changed a little. The main finding held. Loudness depends on pitch as well as on strength. Sound meters today count low sounds less, as human ears do.",
   "who": "Harvey Fletcher and Wilden Munson, American scientists at Bell Telephone Laboratories",
   "when": "They published their results in 1933. Other teams measured again in 1956 and in 2003.",
   "wrong_idea": "That two sounds of the same strength always sound equally loud. Fletcher and Munson showed that a low tone needs far more energy than a middle tone to sound as loud. Human ears are less sensitive to low sounds.",
   "art": "A listener in 1930s clothes wearing large earphones in a small quiet room, while a scientist turns a dial on a cabinet of instruments, with a low wave and a high wave drawn above them."
  },
- "playtest": "Read through as a parent and child in a city flat would use it, step by step. The experiments were reasoned through carefully, but they have not yet been tried at home. Treat the expected results as likely, and write down what really happens. The Water-Bottle String (core) needs a thin string that hardly stretches, a table with a leg or a grille to tie to, a 1-litre bottle and a phone with a free tuner app. Sewing thread snaps under a full bottle. The note is soft, so the room must be quiet. With a string of 40 cm, the readings should lie somewhere between 100 and 350 hertz, and they should rise with each amount of water by smaller steps than the water does. Friction where the string bends over the table edge can change a reading by several hertz, so the bag is lifted and lowered before each pluck. The winding of a second strand may buzz. Without a tuner app the notes can only be put in order by ear, and the 'four times the pull' result cannot be checked. Gentle Pluck, Hard Pluck (core) uses the same string. Phone sound meters are rough, and a single pluck is short, so the highest reading is used. The order of the three readings is reliable, and the step of 6 decibels is only approximate. The Muffle Test (core) needs two phones. The order of the towel and the dabba may differ from the example table, and the unit says so. The drop for four layers of towel and the rise when the lid is opened are the reliable results. The phone plays at half volume, 50 cm from the meter, and nobody puts an ear near it. The Filling Bottle (core) works best with a tall, narrow bottle and a thin, steady stream. The Sound Grid measures every sound from 1 metre or more, and the mixie from 2 metres for 5 seconds. In the Rubber Band Puzzle, bands differ: most rise a little in pitch and then level off, and the note says so. Blowing across a bottle in Two Instruments, One Tune takes a few minutes of practice, and matching a string to a bottle by ear takes patience. No part needs a garden, a pet or a musical instrument. Facts to treat with care: the frequencies of voices, wings and animal hearing are rounded and vary a great deal. Decibel values for home sounds are typical figures. The Natya Shastra and the Sona Sutta are given as paraphrases. The three videos have no address yet."
+ "playtest": "Read through as a parent and child in a city flat would use it, step by step. The experiments were reasoned through carefully, but they have not yet been tried at home. Treat the expected results as likely, and write down what really happens. The Water-Bottle String (core) needs a thin string that hardly stretches, a table with a leg or a grille to tie to, a 1-litre bottle and a phone with a free tuner app. Sewing thread snaps under a full bottle. The note is soft, so the room must be quiet. With a string of 40 cm, the readings should lie somewhere between 100 and 350 hertz, and they should rise with each amount of water by smaller steps than the water does. Friction where the string bends over the table edge can change a reading by several hertz, so the bag is lifted and lowered before each pluck. The winding of a second strand may buzz. Without a tuner app the notes can only be put in order by ear, and the 'four times the pull' result cannot be checked. Gentle Pluck, Hard Pluck (core) uses the same string. Phone sound meters are rough, and a single pluck is short, so the highest reading is used. The order of the three readings is reliable, and the step of 6 decibels is only approximate. The Muffle Test (core) needs two phones. The order of the towel and the dabba may differ from the example table, and the unit says so. The drop for four layers of towel and the rise when the lid is opened are the reliable results. The phone plays at half volume, 50 cm from the meter, and nobody puts an ear near it. The Filling Bottle (core) works best with a tall, narrow bottle and a thin, steady stream. The Sound Grid measures every sound from 1 metre or more, and the mixie from 2 metres for 5 seconds. In the Rubber Band Puzzle, bands differ: most rise a little in pitch and then level off, and the note says so. Blowing across a bottle in Two Instruments, One Tune takes a few minutes of practice, and matching a string to a bottle by ear takes patience. No part needs a garden, a pet or a musical instrument. Facts checked on 17 Nov 2026 against official or scholarly sources: the Noise Pollution Rules limits, the 85 decibel guidance, the Fletcher and Munson, Dolscheid, Charlton and Heffner papers, the Natya Shastra and Sona Sutta references, the kanjira details and the web links. Softened because they could not be pinned down exactly: decibel values for a mixie and a horn, the dog hearing limit, the 100 hertz energy figure, the age of the Natya Shastra and elephant call distance. Voice, wing and animal hearing frequencies stay rounded and vary a great deal. The three videos have no address yet."
 }
