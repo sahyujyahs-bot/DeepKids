@@ -3,7 +3,7 @@
  "title": "Sorting living things: many good ways, and one that finds relatives",
  "level": 3,
  "summary": {
-  "text": "A green chilli and a cucumber are both green, so a colour sort puts them together. Cut them open, and the chilli's seeds match a tomato's, not the cucumber's. There are many good ways to sort living things, and each one is right for some job. A cook, a farmer and a doctor each sort differently. But one question has a true answer that nobody chooses: which living things are relatives. Relatives share features because they came from the same ancestors. Scientists sort living things by these shared features, into groups inside groups, and people are in those groups too. The biggest groups have changed as scientists found new clues, as Carl Woese did in 1977.",
+  "text": "A green chilli and a cucumber are both green, so a colour sort puts them together. Cut them open, and the chilli's seeds match a tomato's, not the cucumber's. There are many good ways to sort living things, and each one is right for some job. A cook, a farmer and a doctor each sort differently. But there is one kind of sort that nobody chooses, because it has a true answer: which living things are relatives. Relatives share features because they came from the same ancestors. Scientists sort living things by these shared features, into groups inside groups, and people are in those groups too. The biggest groups have changed as scientists found new clues, as Carl Woese did in 1977.",
   "art": "A kitchen counter with a tomato, a brinjal and a green chilli on one side, all with green star-shaped caps, and a cucumber and a pumpkin slice on the other side. Seeds from each are laid out in small rows in front of them."
  },
  "intro": {
@@ -167,7 +167,7 @@
    "examples": [
     "Sort your family by height, and then by who likes rasam best. The groups change, but nobody changed.",
     "A crow and a mosquito are together in 'can fly', and apart in 'has a backbone'.",
-    "A banana is a fruit to a cook. To a botanist, the banana plant is also a close relative of ginger and turmeric plants."
+    "A cook sorts a banana with the fruits. A botanist sorts the banana plant with ginger and turmeric plants, because they are relatives."
    ],
    "perspectives": [],
    "art": "Three people looking at the same pile of vegetables: a cook with a timer, a shopkeeper with a price list and a farmer with a magnifying glass looking at a caterpillar."
@@ -177,7 +177,7 @@
    "status": "defined",
    "context": "This card is about sorting people, and what all people share.",
    "definition": "All people are one species. We share the same body plan, and we differ in many small features, such as height, hair, voice and fingerprints.",
-   "description": "Every person has a backbone, two arms, two legs, two eyes, a heart and lungs. Every person breathes, eats, grows and sleeps. These are the ways people are similar. People also differ. Some differences we are born with, such as the colour of our eyes. Some come from how we live, such as our languages and how far we can run. You can sort people by any of these features. Each feature makes different groups. No sort makes some people better than others. A sort only tells you how people answered one question.",
+   "description": "Every person has a backbone, two arms, two legs, two eyes, a heart and lungs. Every person breathes, eats, grows and sleeps. These are the ways people are similar. People also differ. Some differences we are born with, such as the colour of our eyes. Some come from how we live, such as our languages and how far we can run. You can sort people by any of these features. Each feature makes different groups. No sort makes some people better than others. A sort only shows how people fall into groups for that one question.",
    "examples": [
     "Count the fingers of everyone at home. Everyone has the same number, but the hands are different sizes.",
     "Sort your family by which hand they write with. Then sort them by the month they were born in.",
@@ -233,7 +233,7 @@
    "status": "defined",
    "context": "This card is about living things that look alike but are not close relatives.",
    "definition": "Living things that are not close relatives can look alike, because they have solved the same problem in the same way.",
-   "description": "A crow, a bat and a butterfly all have wings. Each of them had the same problem: how to reach food, and escape danger, through the air. Wings help each of them do that. But their wings are built differently. A crow's wing is an arm covered in feathers. A bat's wing is skin stretched between long fingers. A butterfly's wing is a thin sheet with no bones at all. These wings grew separately in three different families. So 'has wings' is a useful sort for some jobs, but it does not find relatives. To find relatives, scientists look at many features, especially ones that have no clear job. Now they also compare DNA, the instructions in every cell.",
+   "description": "A crow, a bat and a butterfly all have wings. Each of them had the same problem: how to reach food, and escape danger, through the air. Wings help each of them do that. But their wings are built differently. A crow's wing is an arm covered in feathers. A bat's wing is skin stretched between long fingers. A butterfly's wing is a thin sheet with no bones at all. These wings grew separately in three different families. So 'has wings' is a useful sort for some jobs, but it does not find relatives. To find relatives, scientists look at many features, especially how parts are built inside, such as the bones of a wing. Parts that are built the same way inside usually come from a shared ancestor. Now scientists also compare DNA, the instructions in every cell.",
    "examples": [
     "Bats feed their babies milk and have fur, so they are mammals, like cats.",
     "Dolphins have fins and live in the sea like fish, but they breathe air and feed their babies milk. They are mammals.",
@@ -378,7 +378,7 @@
    "for": "Bacteria, archaea and cells with a nucleus differ deeply inside, in the molecule Woese compared.",
    "against": "Some newer studies suggest cells with a nucleus grew out of the archaea, which would make two domains.",
    "status": "debated",
-   "context": "This card is about how many very biggest groups of life there are."
+   "context": "A domain is one of the very biggest groups of life, bigger than a kingdom. Carl Woese said there are three: bacteria, archaea, and living things whose cells have a nucleus. This card is about how many of these biggest groups there are."
   },
   {
    "claim": "People are not animals.",
@@ -392,7 +392,7 @@
    "claim": "Sorting people into groups shows that some groups are better.",
    "who": "An old and harmful idea, used to treat people unfairly",
    "for": "Nothing in science supports it.",
-   "against": "A sort shows only how people answered one question, such as height or eye colour. People are one species, and any two people are almost the same in their DNA.",
+   "against": "A sort shows only how people fall into groups for one question, such as height or eye colour. People are one species, and any two people are almost the same in their DNA.",
    "status": "rejected",
    "context": "This card is about a harmful misuse of sorting."
   }
@@ -698,15 +698,15 @@
      "id": "s4",
      "mins": 3,
      "do": "Count the families and ask one question.",
-     "say": "Who has the most families? Now tell me: which family surprised you most?",
-     "kid": "Count your families. Which family surprised you most?",
+     "say": "Who has the most families? Now pick one member you did not expect to find in its family. Which clue shows that it belongs there?",
+     "kid": "Count your families. Pick a surprising member. Which clue shows it belongs?",
      "ask": [
       {
-       "q": "Which member of a family surprised you?",
+       "q": "Which member surprised you, and which clue shows it belongs?",
        "good": [
-        "Sugarcane is a grass.",
-        "Methi is in the bean family.",
-        "Watermelon is a gourd."
+        "Sugarcane is a grass. Its leaves are long and narrow, with veins side by side.",
+        "Methi is in the bean family. Its seeds grow in a row inside a pod.",
+        "Watermelon is a gourd. It grows on a vine and has flat, oval seeds."
        ]
       }
      ]
@@ -1568,6 +1568,7 @@
      "do": "Ask where a cat, a crow and a monkey would stop.",
      "say": "Now, which boxes would a cat get into? A crow? A monkey?",
      "kid": "Which boxes would a cat get into? A crow? A monkey?",
+     "parent": "A cat gets into four boxes: living thing, animal, backbone animal and mammal. A crow stops at backbone animal. A monkey gets into all five, because a monkey is a primate.",
      "check": {
       "t": "mcq",
       "q": "A crow has feathers and a backbone, but no hair. What is the smallest box a crow fits in?",
@@ -1666,7 +1667,7 @@
        ]
       }
      ],
-     "parent": "The point is that a sort tells you only how people answered one question. All people share the same body plan. If there are only three people, the groups may change less. That is fine."
+     "parent": "The point is that a sort shows only how people fall into groups for one question. All people share the same body plan. If there are only three people, the groups may change less. That is fine."
     }
    ],
    "setup": [
@@ -1859,6 +1860,7 @@
      "do": "Ask where the four branches meet.",
      "say": "All four branches join the same trunk. What could the trunk mean?",
      "kid": "All the branches join one trunk. What do you think the trunk means?",
+     "parent": "The trunk is the shared ancestor. All these plants came from the same long-ago ancestor plants, so they are all relatives, even if far-off ones. Far enough back, that ancestor was a single cell.",
      "think": "If all plants are relatives, what lived at the bottom of the trunk, long ago?"
     }
    ],
@@ -2861,7 +2863,7 @@
     {
      "t": "write",
      "p": "Some people once sorted people into groups to say some groups were better. What does science say?",
-     "a": "A sort only shows how people answered one question, such as height. All people are one species, and any two people are almost the same in their DNA. No sort makes anyone better.",
+     "a": "A sort only shows how people fall into groups for one question, such as height. All people are one species, and any two people are almost the same in their DNA. No sort makes anyone better.",
      "why": "Sorting is a tool for questions, not a ranking of worth."
     },
     {
@@ -2994,7 +2996,7 @@
    "why_open": "Living things change slowly over many generations, and there is no single test for a species that works for all life."
   },
   {
-   "q": "How do the bodies of relatives stay so alike while each family changes?",
+   "q": "How do relatives keep so many of the same features, while each family also slowly changes?",
    "why_open": "Scientists understand a lot about how genes build bodies, but much about how features are kept or changed is still being worked out."
   }
  ],
@@ -3006,7 +3008,7 @@
   "Which groups do you share with our neighbour's cat?",
   "Is the tulsi stem square? Feel it next time you water it.",
   "What sort does the vegetable seller use for her baskets? Why?",
-  "If you were a mushroom, would you rather be called a plant or an animal?",
+  "Is a mushroom more like a tulsi plant or more like you? Think about how each one gets food.",
   "What is one way you and someone you live with are similar, and one way you are different?",
   "Rice and sugarcane are both grasses. What else do they share?"
  ],
@@ -3339,7 +3341,7 @@
   "context": "We have been sorting living things in many ways, and finding which ones are relatives. Now we ask what sorting tells us about ourselves and the world.",
   "deep_truth": {
    "truth": "In Family Clues in the Vegetable Basket, the colour sort put the green chilli with the cucumber. The sort by caps and seeds put the chilli with the tomato and the brinjal. Those three plants share these features because they came from the same ancestor plants. So a living thing's body carries clues to their family, and careful sorting can find them.",
-   "habit": "We think every sort of living things is a choice we make, or that things which look alike must belong together. Many sorts are useful choices. But which living things are relatives was settled long ago, by who came from whom, and their bodies still show it.",
+   "habit": "We tend to think that every way of sorting living things is just a choice we make, or that things which look alike must belong together. Many sorts are useful choices. But which living things are relatives was settled long ago, by who came from whom, and their bodies still show it.",
    "evidence": "In Family Clues in the Vegetable Basket, the colour sort and the cap-and-seed sort made different groups. The cap and the seeds put the chilli with the tomato and the brinjal. Botanists, comparing flowers and DNA, put these three in one family too."
   },
   "three": {
@@ -3404,5 +3406,5 @@
   "wrong_idea": "That every living thing without a nucleus is a kind of bacteria. By comparing ribosomal RNA, Woese and Fox showed that archaea are as different from bacteria as bacteria are from animals and plants.",
   "art": "A scientist in a 1970s laboratory holding up a large film covered in rows of dark smudges against a light box, with a steaming hot spring in a picture on the wall behind him."
  },
- "warm": {"words": ["GROUP", "FUNGI", "WINGS", "BONES", "CELLS"], "quiz": [["A mushroom is a plant because mushrooms grow out of the soil.", false, "Mushrooms are fungi, a kingdom of their own. They have no green leaves and cannot make food from sunlight."], ["Bats, crows and butterflies all have wings, but they are not close relatives.", true, "Animals can end up looking alike by solving the same problem, even when they do not share recent ancestors."], ["A dolphin belongs with the fish because dolphins live in water and swim.", false, "A dolphin breathes air and feeds her baby milk, so she is a mammal, not a fish."], ["Relatives share many features because they inherited them from the same ancestors.", true, "Features pass from parents to young, so living things with shared ancestors end up alike."], ["There is only one correct way to sort living things.", false, "Many sorts are right if the rule is clear. The best sort depends on the job."], ["A cook and a doctor can sort the same plants differently and both be right.", true, "Each sort answers a different question, so each one suits its own job."], ["People are not animals, because we can think and talk.", false, "People breathe, eat, grow and feed babies milk. Every scientific sort puts people with the apes."], ["A small group of living things shares many features, while a big group shares only a few.", true, "Groups sit inside bigger groups. The further out you go, the fewer features everyone shares."], ["Sorting people by height shows that tall people are better than short people.", false, "A sort only shows how people answered one question. All people are one species."], ["A human hand and a bat's wing have the same bones, which hints at a shared ancestor.", true, "Parts built from the same bones suggest the animals inherited them from a common ancestor."]], "odd": [[["chilli", "tomato", "brinjal", "cucumber"], "cucumber", "Chilli, tomato and brinjal are in the tomato family and share seed and flower features. Cucumber is in the gourd family."], [["bat", "dolphin", "cow", "crow"], "crow", "Bat, dolphin and cow are mammals whose mothers make milk. A crow is a bird with feathers."], [["mushroom", "yeast", "mould", "rose"], "rose", "Mushroom, yeast and mould are fungi, which cannot make food from sunlight. A rose is a plant that does."], [["chimpanzee", "monkey", "person", "cat"], "cat", "Chimpanzee, monkey and person are primates with gripping hands and nails. A cat has claws and is not a primate."], [["bat wing", "human hand", "whale flipper", "butterfly wing"], "butterfly wing", "The first three are built from the same bones inherited from an ancestor. A butterfly wing has no bones."]]}
+ "warm": {"words": ["GROUP", "FUNGI", "WINGS", "BONES", "CELLS"], "quiz": [["A mushroom is a plant because mushrooms grow out of the soil.", false, "Mushrooms are fungi, a kingdom of their own. They have no green leaves and cannot make food from sunlight."], ["Bats, crows and butterflies all have wings, but they are not close relatives.", true, "Animals can end up looking alike by solving the same problem, even when they do not share recent ancestors."], ["A dolphin belongs with the fish because dolphins live in water and swim.", false, "A dolphin breathes air and feeds her baby milk, so she is a mammal, not a fish."], ["Relatives share many features because they inherited them from the same ancestors.", true, "Features pass from parents to young, so living things with shared ancestors end up alike."], ["There is only one correct way to sort living things.", false, "Many sorts are right if the rule is clear. The best sort depends on the job."], ["A cook and a doctor can sort the same plants differently and both be right.", true, "Each sort answers a different question, so each one suits its own job."], ["People are not animals, because we can think and talk.", false, "People breathe, eat, grow and feed babies milk. Every scientific sort puts people with the apes."], ["A small group of living things shares many features, while a big group shares only a few.", true, "Groups sit inside bigger groups. The further out you go, the fewer features everyone shares."], ["Sorting people by height shows that tall people are better than short people.", false, "A sort only shows how people fall into groups for one question. All people are one species."], ["A human hand and a bat's wing have the same bones, which hints at a shared ancestor.", true, "Parts built from the same bones suggest the animals inherited them from a common ancestor."]], "odd": [[["chilli", "tomato", "brinjal", "cucumber"], "cucumber", "Chilli, tomato and brinjal are in the tomato family and share seed and flower features. Cucumber is in the gourd family."], [["bat", "dolphin", "cow", "crow"], "crow", "Bat, dolphin and cow are mammals whose mothers make milk. A crow is a bird with feathers."], [["mushroom", "yeast", "mould", "rose"], "rose", "Mushroom, yeast and mould are fungi, which cannot make food from sunlight. A rose is a plant that does."], [["chimpanzee", "monkey", "person", "cat"], "cat", "Chimpanzee, monkey and person are primates with gripping hands and nails. A cat has claws and is not a primate."], [["bat wing", "human hand", "whale flipper", "butterfly wing"], "butterfly wing", "The first three are built from the same bones inherited from an ancestor. A butterfly wing has no bones."]]}
 }

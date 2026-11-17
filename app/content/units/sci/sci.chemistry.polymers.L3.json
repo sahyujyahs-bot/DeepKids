@@ -164,7 +164,7 @@
    "description": "Different small molecules make different plastics. A milk packet is polythene. A water bottle is usually PET. A bucket is often polypropylene. All of them are long chains, so they bend and stretch instead of shattering. Plastic is cheap, light and waterproof, and it lasts a very long time. That is also its problem. Very few living beings can yet break plastic chains, so thrown-away plastic stays in soil, rivers and the sea.",
    "examples": [
     "Look for a small triangle with a number from 1 to 7 on plastic things. The number says which plastic it is.",
-    "Nylon, the first fully made-up fibre, was made in 1935. It is used for toothbrush bristles and ropes."
+    "Nylon was the first fibre made entirely in a factory. It was made in 1935. It is used for toothbrush bristles and ropes."
    ],
    "perspectives": [],
    "art": "A milk packet, a water bottle and a bucket, each with a small triangle and a number on it, and a zoom-in showing long chains."
@@ -206,9 +206,9 @@
    "claim": "Rubber and starch are clumps of small molecules stuck loosely together, not giant molecules.",
    "who": "Most chemists before about 1930",
    "for": "Nobody had seen a giant molecule, and many chemists thought molecules could not be that big.",
-   "against": "Hermann Staudinger, a German chemist, added hydrogen to rubber. A loose clump should have broken into small pieces, but the rubber was still made of giant molecules. Wallace Carothers then built long chains from small molecules on purpose.",
+   "against": "Hermann Staudinger, a German chemist, added hydrogen to rubber. If rubber were a loose clump of small molecules, this should have broken the clump into small pieces. It did not. The rubber was still made of giant molecules. Later, Wallace Carothers built long chains from small molecules on purpose.",
    "status": "rejected",
-   "context": "This card is about an idea most chemists held 100 years ago."
+   "context": "A giant molecule is one very long molecule, made of thousands of small pieces joined by strong bonds. The old idea said that rubber and starch were only loose clumps of small molecules. This card is about what most chemists believed 100 years ago."
   },
   {
    "claim": "Plastic is one material.",
@@ -244,7 +244,7 @@
   {
    "q": "Slime stretches when you pull it slowly and snaps when you pull it fast. Is slime a solid or a liquid?",
    "kind": "deep",
-   "hint": "Leave a slime ball on a plate for ten minutes. Then try to bounce it. Does one word fit?"
+   "hint": "Leave a slime ball on a plate for ten minutes, and it slowly spreads like a liquid. Then bounce it, and it acts like a solid. Does one word fit both?"
   },
   {
    "q": "Your hair, a sheep's wool and a silkworm's silk are all proteins. In what way are you made of the same material as a sheep?",
@@ -266,7 +266,7 @@
   "title": "Ammachi's Rubber Sheets",
   "mins": 12,
   "read_aloud": true,
-  "note": "A made-up story about real work. Rubber tapping in Kerala happens in the early morning, the thin cut, the cup, setting latex with a weak acid, rolling and smoke-drying sheets are all as rubber farmers do them.",
+  "note": "A made-up story about real work. Rubber farmers in Kerala tap their trees in the early morning. They make a thin cut and collect the latex in a cup. They set the latex with a weak acid, roll it into sheets and dry the sheets in smoke. The story shows all of this as it is really done.",
   "text": [
    "It was the summer holidays, and Meenakshi had come from Chennai to stay with Ammachi, her grandmother, in a village near Kottayam. Ammachi's house stood at the edge of a rubber estate. Rows of tall, thin trees went up the hill, all leaning a little the same way.",
    "Her cousin Arjun was there too. He was six, and he followed Meenakshi everywhere.",
@@ -805,6 +805,7 @@
      "do": "Ask your child what they found, what they saw that shows it, and why they think it happened. Then read the explanation card 'How borax turns glue into slime' together.",
      "say": "What did you find? Say it like a scientist: what you think, what you saw, and why.",
      "kid": "Say what you found. What did you see? Why do you think it happened?",
+     "parent": "Each borax tie joins two chains. Every chain is so long that a few ties along it join it to many others. So a tiny amount of borax can join all the chains in the cup into one net.",
      "ask": [
       {
        "q": "Does more borax make firmer slime? What is your evidence?",
@@ -1175,6 +1176,7 @@
      "do": "Talk about what the model shows.",
      "say": "Water and sugar are made of small molecules, a bit like the rice grains. Glue, plastic and rubber are made of very long molecules, more like the noodles. What do you think long molecules do when they are crowded together?",
      "kid": "Rice is like small molecules. Noodles are like long ones. What do long ones do together?",
+     "parent": "Tied noodles would stay together in one heap and could not slide apart. That is what borax does to glue.",
      "ask": [
       {
        "q": "Why might a liquid made of long molecules drip slowly?",
@@ -1381,6 +1383,7 @@
      "do": "1. Group the things by number. 2. Feel each group: stiff or soft, clear or cloudy.",
      "say": "Do things with the same number feel alike? What is different about number 4 and number 5?",
      "kid": "Put things with the same number together. Do they feel alike?",
+     "parent": "Number 4 plastic is soft and bends, like a packet. Number 5 is stiffer, like a tub or a bucket. They are different polymers, made of different small pieces.",
      "ask": [
       {
        "q": "Why do plastics with different numbers feel different?",
@@ -1623,7 +1626,8 @@
      "mins": 5,
      "do": "Show and explain the rope.",
      "say": "Why can your rope lift more than a single strip can? What is happening to the long chains?",
-     "kid": "Show your rope. Why is it strong?"
+     "kid": "Show your rope. Why is it strong?",
+     "parent": "In a twisted or plaited rope, many strips share the load, so no single strip has to hold it all. Pulling a strip slowly also lines up its chains, which makes it stronger."
     }
    ],
    "setup": [
@@ -2415,14 +2419,14 @@
   }
  ],
  "applications": [
-  "Tyres, chappal soles and rubber gloves are vulcanised rubber.",
-  "Clothes from cotton, silk, wool, polyester and nylon.",
+  "Tyres, chappal soles and rubber gloves are made of vulcanised rubber.",
+  "Our clothes are made from fibres such as cotton, silk, wool, polyester and nylon. All of these are polymers.",
   "Milk packets, water bottles, buckets and pipes are different plastics.",
-  "Paper and cardboard are cellulose, a plant polymer.",
-  "Starch thickens payasam, kheer and kadhi when it cooks.",
+  "Paper and cardboard are made of cellulose, a polymer from plants.",
+  "Starch, a plant polymer, thickens payasam, kheer and kadhi when it cooks.",
   "Nappies hold a lot of water because of a polymer that swells into a gel.",
   "Doctors use plastic syringes, drip bags and gloves once, to stop germs spreading.",
-  "Ropes, fishing nets and tennis racket strings are polymer fibres."
+  "Ropes, fishing nets and racket strings are made of polymer fibres."
  ],
  "spotted": [
   {
@@ -2763,7 +2767,7 @@
    "what_is_life": "A silkworm, a spider and a rubber tree each make a polymer to solve a problem in their life: a safe cocoon, a web to catch food, a seal for a cut.",
    "what_is_this_world": "Plastic is a polymer that people made. It lasts a very long time, because few living beings can yet break its chains."
   },
-  "thread": "A polymer is many small pieces joined into one long molecule. One small piece alone slips about like water. Thousands joined in a row make a silk thread or a strand of hair. Tie those chains to each other, and a whole cup of them moves as one piece, as the slime did in the Borax Test.",
+  "thread": "A polymer is many small pieces joined into one long molecule. A small molecule on its own slips about easily, the way water does. Thousands of pieces joined in a row can make a silk thread or a strand of hair. If you tie those chains to each other, a whole cup of them moves as one piece, as the slime did in the Borax Test.",
   "teachings": [
    {
     "source": "Avatamsaka Sutra, the image of Indra's net",
@@ -2788,7 +2792,7 @@
   ],
   "other_view": {
    "who": "Many chemists",
-   "view": "Joining small pieces into chains is simply what chemical bonds do. It is a useful fact about molecules, and it does not tell us anything about how many things become one. When we see nets and wholes in slime, that says more about us than about the slime."
+   "view": "Joining small pieces into chains is simply what chemical bonds do. It is a useful fact about molecules. It does not tell us anything deeper about how many things become one. Seeing a net or a whole in slime is just the way we choose to describe it."
   },
   "practice": {
    "title": "The human chain",
@@ -2798,7 +2802,7 @@
   },
   "ask": [
    "A few ties joined a whole cup of chains into one slime. Is the slime one thing, or many chains?",
-   "Your hair is made of chains your body built from the food you ate. Where did your hair begin?",
+   "Your hair is made of chains that your body built from the food you ate. So where does your hair really come from, you or the food?",
    "A silkworm makes silk for their own cocoon, and people take it for sarees. What do we owe the silkworm?"
   ],
   "art": "A family standing in a line holding hands on a balcony, with a faint drawing of long tied chains over them like a net."

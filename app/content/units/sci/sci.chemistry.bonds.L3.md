@@ -20,7 +20,7 @@
 - **Chemical bond**: The way two atoms hold on to each other. Their electrons are attracted by both atoms at once, so the atoms stay together. *e.g.* In water, each hydrogen atom has one bond with the oxygen atom.
 - **Molecule**: A group of atoms held together by bonds. It is the smallest piece of a substance like water or sugar. *e.g.* A water molecule is one oxygen atom with two hydrogen atoms held on to it.
 - **Compound**: A substance made of two or more kinds of atom held together by bonds. *e.g.* Water is a compound of hydrogen and oxygen. Sugar is a compound of carbon, hydrogen and oxygen.
-- **Hydrogen**: The lightest element. A hydrogen atom usually makes one bond. Hydrogen gas burns easily. *e.g.* In your experiment, the bubbles at the pencil joined to the minus side of the battery were hydrogen.
+- **Hydrogen**: The lightest element. A hydrogen atom usually makes one bond. Hydrogen gas burns easily. *e.g.* In the experiment Split Water with a Pencil and a Battery, the bubbles at the pencil joined to the minus side of the battery are hydrogen.
 - **Oxygen**: An element. The oxygen gas in air is what we breathe in. An oxygen atom usually makes two bonds. *e.g.* Air has oxygen molecules, each made of two oxygen atoms held together.
 - **Carbon**: An element. A carbon atom usually makes four bonds. Diamond and pencil lead are both pure carbon. *e.g.* Carbon is in sugar, in wood, in rice and in every living thing.
 - **Electrolysis**: Splitting a substance using electricity. Electro means electricity, and lysis means splitting. *e.g.* A 9-volt battery and two pencils split water into hydrogen and oxygen.
@@ -39,21 +39,21 @@ Every atom has a centre with a positive electric charge, and electrons around it
 **Definition:** A molecule is a group of atoms held together by bonds. It is the smallest piece of a substance like water.
 
 Scientists write a molecule with letters and small numbers. H stands for hydrogen, O for oxygen, C for carbon and N for nitrogen. H2O means two hydrogen atoms and one oxygen atom. So one drop of water is a huge crowd of H2O molecules. Each molecule is the same, wherever the water came from.
-- e.g. Water: H2O, 3 atoms.
-- e.g. Carbon dioxide, the gas you breathe out: CO2, 3 atoms.
-- e.g. Table sugar: C12H22O11, 45 atoms in one molecule.
+- e.g. Water is written H2O. One water molecule has 3 atoms: two hydrogen and one oxygen.
+- e.g. Carbon dioxide, the gas you breathe out, is written CO2. One molecule has 3 atoms: one carbon and two oxygen.
+- e.g. Table sugar is written C12H22O11. One sugar molecule has 45 atoms: 12 carbon, 22 hydrogen and 11 oxygen.
 ### Each kind of atom has a set number of bonds · *defined*
 **Definition:** Each kind of atom usually makes the same number of bonds. Hydrogen makes 1, oxygen makes 2, nitrogen makes 3 and carbon makes 4.
 
 Think of bonds as hands. Hydrogen has one hand, oxygen two, nitrogen three and carbon four. In a molecule, every hand is held by another atom's hand. Oxygen has two hands, so it holds two hydrogens. That makes H2O. Sometimes two atoms hold each other with two hands, or even three. This is called a double or triple bond.
-- e.g. Methane, the main gas in biogas and in piped cooking gas: one carbon holding four hydrogens, CH4.
-- e.g. Carbon dioxide: one carbon holds each oxygen with two hands, so all four of its hands are used.
-- e.g. Nitrogen gas, most of the air: two nitrogen atoms holding each other with all three hands.
+- e.g. Methane is the main gas in biogas and in piped cooking gas. One carbon atom holds four hydrogen atoms, so methane is written CH4.
+- e.g. In carbon dioxide, one carbon atom holds each oxygen atom with two hands. That uses all four of the carbon's hands.
+- e.g. Most of the air is nitrogen gas. Two nitrogen atoms hold each other with all three of their hands.
 ### Two kinds of holding: inside a molecule and between molecules · *defined*
 **Definition:** Bonds hold the atoms inside a molecule together very strongly. Molecules also pull on each other, but much more weakly.
 
-When ice melts, or water boils, the weak pulls between molecules give way. The molecules move further apart, but each one stays whole H2O. That is why steam drips back from a lid as water. Splitting the molecule itself means breaking the strong bonds inside it. It takes several times more energy than boiling the same water away. Your battery gave that energy, a little at a time.
-- e.g. Ice, water and steam are all H2O molecules. Only the spacing and movement changes.
+When ice melts, or water boils, the weak pulls between molecules give way. The molecules move further apart, but each one is still a whole H2O molecule. That is why steam drips back from a lid as water. Splitting the molecule itself means breaking the strong bonds inside it. That takes several times more energy than boiling the same water away. In the water-splitting test, the battery gave that energy, a little at a time.
+- e.g. Ice, water and steam are all H2O molecules. Only the spacing and the movement of the molecules change.
 - e.g. Sugar dissolving in water: the sugar molecules move apart among the water molecules, but each sugar molecule stays whole.
 ### Breaking and making bonds makes new substances · *defined*
 **Definition:** In a chemical change, atoms let go of some partners and make bonds with new ones. The atoms are all still there, but they now form new substances.
@@ -112,33 +112,33 @@ We draw bonds as sticks. But no atom has a stick. Electrons spread round atoms a
 ## Roots
 We have learned that atoms hold on to each other with bonds, and that a battery can split water. Now we ask what that tells us about the world and about ourselves.
 
-**Deep truth.** Steam from hot water dripped back off your plate as water. Your battery split cool water into two gases instead. So the atoms inside water hold on far more tightly than water holds to water. That is why water stays water through ice, rain and steam.  
+**Deep truth.** In the experiment Split Water with a Pencil and a Battery, steam from hot water dripped back off a cool plate as water. But a battery split cool water into two gases. So the atoms inside a water molecule hold on to each other far more tightly than one water molecule holds on to the next. That is why water stays water through ice, rain and steam.  
 *Habit it breaks:* We think of water as one simple stuff, and of heat as the strongest way to change things. People called water an element for over two thousand years, because heat never broke it.  
 *Evidence:* In the water-splitting test, steam caught on a cool plate turned back into water. A 9-volt battery made hydrogen and oxygen bubbles in cool water, twice as much on the black wire side.
 
 - *who am i:* More than half of your body's weight is water. Every one of those water molecules is three atoms holding on tight.
-- *what is life:* Living things build their bodies by making and breaking bonds all day. A plant splits water with sunlight, and you put the atoms back together when you breathe.
+- *what is life:* Living things build their bodies by making and breaking bonds all day. A plant uses sunlight to split water. When you breathe, the oxygen you take in joins with hydrogen from your food and makes water again.
 - *what is this world:* Only 118 kinds of atom make up everything you see. The world's variety comes from how they hold on to each other.
 
-Atoms of only a few kinds join, by their bonds, into countless different molecules. Every bond is made by the same electric force. The hydrogen in water and the hydrogen in sugar are the same kind of atom, held in different company. So the many substances around us are a few kinds of atom, held together by one force in different ways.
+Atoms of only a few kinds join by bonds into countless different molecules. Every bond is made by the same electric force. The hydrogen in water and the hydrogen in sugar are the same kind of atom. They are just bonded to different partners. So the many different substances around us come from a few kinds of atom, joined in many different ways by one force.
 
 - **Prashastapada, Padarthadharmasangraha (about the 6th century CE), on the Vaisheshika teaching of Kanada:** Two paramanu, the smallest particles, join to make a pair. Three pairs join to make the smallest thing the eye can see, a speck floating in a sunbeam. (The Vaisheshika thinkers said visible things are built from tiny particles joining in small groups. That is close to what molecules are, though they did not know about electrons.)
-- **Empedocles, fragment 17 (Diels and Kranz numbering):** Love brings the elements together into one, and Strife pulls them apart again, over and over. (Empedocles thought water was an element, which turned out to be wrong. But his picture of one force joining and another parting fits what you saw: bonds hold atoms together, and energy from a battery or a flame pulls them apart.)
+- **Empedocles, fragment 17 (Diels and Kranz numbering):** Love brings the elements together into one, and Strife pulls them apart again, over and over. (Empedocles thought water was an element, which turned out to be wrong. But his picture of one force joining and another parting fits what the water-splitting test shows: bonds hold atoms together, and energy from a battery or a flame pulls them apart.)
 - Science (settled): Every chemical bond is made by electrons attracted by two atoms' centres at once. This is the electric force, the same force that makes a balloon stick to a wall.
 - Science (settled): Since 2009, special microscopes have made pictures of single molecules in which the bonds show up as lines.
 - Other view, Charles Coulson, a British chemist, and many physicists: A bond is not a thing in itself. There are only atoms and electrons, and 'bond' is our word for where the electrons gather. Calling it holding hands is a helpful picture, not a fact.
 - Practice, Hold on, let go (3 min): Let's sit in a circle and hold hands. Close your eyes. Feel the grip of the hands on each side of you. Now let go, and rest your hands on your knees. Breathe in slowly. Some oxygen atoms you breathe in will join with hydrogen inside you to make water. Breathe out. Now hold hands again.
 - Ask: If a bond is made of electrons that both atoms share, which atom do those electrons belong to?
-- Ask: Water is two gases holding on. Is water a new thing, or only hydrogen and oxygen together?
+- Ask: Water is made of hydrogen and oxygen holding on to each other. Is water a new thing, or only hydrogen and oxygen together?
 - Ask: When your body makes water from the oxygen you breathe, is that water part of you or part of the world?
 
 ## Deep and big questions
 - *deep:* Water's atoms hold on so tightly that boiling cannot pull them apart. What would the world be like if bonds were as weak as the pulls between molecules? (hint: Think of what would happen to your body, your food and the rocks on a hot day.)
 - *deep:* Diamond and pencil lead are both pure carbon. Is a diamond a different thing from a pencil, or the same thing arranged differently? (hint: What would you need to change to turn one into the other?)
-- *deep:* Nobody has ever seen a bond, only atoms close together. Is a bond a thing, or a name for how atoms behave? (hint: Is a handshake a thing, or two hands doing something?)
+- *deep:* Nobody has ever seen a bond, only atoms close together. Is a bond a thing, or a name for how atoms behave? (hint: A handshake is not an object. It is what two hands are doing. Is a bond like that?)
 - *big:* Some of the oxygen you breathe in ends up inside you as part of water. Where does the air end and you begin? (hint: Your body uses oxygen from air to get energy from food, and makes water and carbon dioxide.)
 - *big:* Every atom in you was once part of other things, held by other bonds. What does it mean for an atom to belong to you? (hint: Think of the rice you ate yesterday. Where are its atoms now?)
-- *big:* Atoms of only about 25 elements make up a human body. How can so few kinds make so many different things? (hint: Think of how 26 letters make every word in English.)
+- *big:* Atoms of only about 25 elements make up a human body. How can so few kinds make so many different things? (hint: The English language uses only 26 letters. Yet they can be put together in many ways to make every word. Atoms can be put together in many ways too.)
 
 ## Story: Bubbles That Were Not Steam
 *A made-up story. The water-splitting test in it is the one in this unit.*
@@ -163,7 +163,7 @@ Kavya sharpened both pencils at both ends. She pushed them through two holes in 
 
 'Now watch the bottom of the pencils,' she said.
 
-At first, nothing. Then a thin line of bubbles began to rise from one pencil tip. A few seconds later, the other tip began to bubble too.
+At first, nothing happened. Then a thin line of bubbles began to rise from one pencil tip. A few seconds later, the other tip began to bubble too.
 
 'It is boiling!' said Arjun.
 
@@ -225,14 +225,15 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
   *Parent does:* Add up the scores.  
   *Parent says:* Who has the most points? Which molecule was the hardest to build?  
   *Child mode:* Add up your points. Which molecule was hardest?
-  - Think: Carbon has four hands. What is the biggest molecule you could build with one carbon?
+  - Note: The biggest is methane, one carbon holding four hydrogens, with 5 atoms. Carbon dioxide has only 3 atoms, because each oxygen needs two of carbon's hands.
+  - Think: Carbon has four hands. With the atom cards in this game, what is the biggest molecule you could build with one carbon?
 ### g2 · Same Stuff or New Stuff? a sorting card game (15 min)
 - **rules:** Shuffle the 16 change cards and put them face down.; Take turns to pick the top card. Read the front aloud, and keep the back hidden.; Everyone except the reader holds up a sign: Same stuff or New stuff.; The reader turns the card and checks. Everyone who was right gets a point.; The reader then explains why, using the back. A good reason earns the reader an extra point.; The game ends when all 16 cards are read. Most points wins. With two players, one reads and the other guesses, then swap.
-- **Printable cards: 16 change cards (the answer is on the back):** An ice cube melts in a tumbler (back: Same stuff. Water molecules move apart a little.) [picture]; Water boils in a kettle (back: Same stuff. Water molecules fly apart as steam.) [picture]; Sugar dissolves in tea (back: Same stuff. Sugar molecules spread among water molecules.); Ghee melts in a hot pan (back: Same stuff. It turns solid again when cool.); Steam turns to drops on a lid (back: Same stuff. Water molecules come close again.); A candle's wax melts and drips (back: Same stuff. The drips harden into wax again.) [picture]; Wet clothes dry on the line (back: Same stuff. Water molecules leave into the air.); Butter goes soft in the sun (back: Same stuff. Its molecules move more freely.); Sugar turns brown on a hot spoon (back: New stuff. Sugar breaks down and makes caramel.); An agarbatti burns to ash (back: New stuff. Its atoms bond with oxygen and make smoke, gases and ash.); An iron gate goes rusty (back: New stuff. Iron bonds with oxygen and makes rust.) [picture]; Milk sets into curd overnight (back: New stuff. Bacteria change milk sugar into a new acid, and milk proteins clump.); Dosa batter turns golden on the tava (back: New stuff. Molecules in the batter break and join in new ways.); A gas stove burns with a blue flame (back: New stuff. The gas bonds with oxygen and makes carbon dioxide and water.) [picture]; A battery splits water into bubbles (back: New stuff. Hydrogen and oxygen gas.); A green banana turns yellow and sweet (back: New stuff. The banana changes starch into sugar.)
+- **Printable cards: 16 change cards (the answer is on the back):** An ice cube melts in a tumbler (back: Same stuff. Water molecules move apart a little.) [picture]; Water boils in a kettle (back: Same stuff. Water molecules fly apart as steam.) [picture]; Sugar dissolves in tea (back: Same stuff. Sugar molecules spread among water molecules.); Ghee melts in a hot pan (back: Same stuff. It turns solid again when cool.); Steam turns to drops on a lid (back: Same stuff. Water molecules come close again.); A candle's wax melts and drips (back: Same stuff. The drips harden into wax again.) [picture]; Wet clothes dry on the line (back: Same stuff. Water molecules leave into the air.); Butter goes soft in the sun (back: Same stuff. Its molecules move more freely.); Sugar turns brown on a hot spoon (back: New stuff. Sugar breaks down and makes caramel.); An agarbatti burns to ash (back: New stuff. Its atoms bond with oxygen and make smoke, gases and ash.); An iron gate goes rusty (back: New stuff. Iron bonds with oxygen and makes rust.) [picture]; Milk sets into curd overnight (back: New stuff. Bacteria change milk sugar into a new acid, and milk proteins clump.); Dosa batter turns golden on the tava (back: New stuff. Molecules in the batter break and join in new ways.); A gas stove burns with a blue flame (back: New stuff. The gas bonds with oxygen and makes carbon dioxide and water.) [picture]; A battery splits water into bubbles (back: New stuff. The battery makes hydrogen gas and oxygen gas from the water.); A green banana turns yellow and sweet (back: New stuff. The banana changes starch into sugar.)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Make two signs, Same stuff and New stuff.  
   *Parent says:* In some changes, the molecules only move apart. In others, atoms make new bonds. Let's see if we can tell.  
-  *Child mode:* Make two signs. Same stuff. New stuff.
+  *Child mode:* Make two signs. One says Same stuff. The other says New stuff.
 - **s2 (10 min)**  
   *Parent does:* Play by the rules, taking turns to read.  
   *Parent says:* What do you think? Same stuff, or new stuff? Why?  
@@ -241,8 +242,9 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
   - Note: A useful test is: could you get the first thing back just by cooling, warming or drying? If yes, it is usually the same stuff.
 - **s3 (2 min)**  
   *Parent does:* Count the points.  
-  *Parent says:* Which card made us argue most?  
-  *Child mode:* Count your points. Which card was hardest?
+  *Parent says:* Which card was hardest to decide? What clue helped you decide it?  
+  *Child mode:* Count your points. Which card was hardest? What clue helped?
+  - Note: A good clue is whether cooling, warming or drying would bring the first thing back. If it would, it is the same stuff.
   - Check: Melted ghee turns solid again in the fridge. What does that tell you? → **Its molecules stayed whole**
 
 ## Experiments
@@ -270,7 +272,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
   *Child mode:* What will happen when the battery is joined? Say why you think so.
   - Note: Wait for both a guess and a reason. Any guess is fine. Write it down.
 - **s4 (6 min) · grown-up needed**  
-  *Parent does:* 1. Snap the clip on the battery. 2. Twist the red wire's bare end round the top lead of one pencil. 3. Twist the black wire round the other. 4. Shine a torch through the glass and watch the tips.  
+  *Parent does:* 1. Snap the clip on the battery. 2. Twist the bare end of the red wire round the lead at the top of one pencil. 3. Twist the bare end of the black wire round the lead at the top of the other pencil. 4. Shine a torch through the glass and watch the tips.  
   *Parent says:* Look closely at the bottom of each pencil. What do you see?  
   *Child mode:* Join the red wire to one pencil. Join the black wire to the other. Shine the torch. What is at the tips?
   - Note: Within a few seconds, tiny bubbles stream up from both tips. If not, check that the wire touches the lead, not the wood, and add a little more soda. Keep the two wires apart.
@@ -279,7 +281,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
   *Parent does:* 1. Watch both tips for a minute. 2. Decide which tip makes more bubbles. 3. Write it in the table, with the colour of its wire.  
   *Parent says:* Do both tips make the same amount of bubbles? Look carefully.  
   *Child mode:* Watch both tips. Which one makes more bubbles? Which wire is on it? Write it down.
-  - Note: The pencil on the black wire, the minus side, usually makes about twice as many bubbles. The bubbles are tiny, so the difference can be hard to see. Use the torch and count for 10 seconds on each side. If both look the same, write that down honestly. That is hydrogen. The red side makes oxygen. The oxygen side may also turn the water a little grey, as bits of lead come off. That is normal.
+  - Note: The pencil on the black wire, the minus side, usually makes about twice as many bubbles. That gas is hydrogen. The pencil on the red wire makes oxygen. The bubbles are tiny, so the difference can be hard to see. Use the torch and count for 10 seconds on each side. If both look the same, write that down honestly. The oxygen side may also turn the water a little grey, as bits of lead come off. That is normal.
 - **s6 (5 min) · grown-up needed**  
   *Parent does:* 1. Unhook both wires. 2. Swap them, so red goes where black was. 3. Watch again for a minute and write down which tip is busier now.  
   *Parent says:* Is it the pencil that decides, or the battery? Let's swap the wires and find out.  
@@ -289,8 +291,8 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 - **s7 (4 min)**  
   *Parent does:* Ask your child to say or write three things: what I think, what I saw, and why.  
   *Parent says:* Tell me what you think now, what you saw that shows it, and why it happened.  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is claim, evidence and reasoning. A good answer: what I think, water can be split, but not by heat. What I saw, steam turned back into water, but the battery made bubbles in cool water, and more on the black wire side. Why, water is made of hydrogen and oxygen held tightly together. The battery pulls them apart, and there are two hydrogens in each molecule.
+  *Child mode:* Say or write three things: what you think, what you saw, and why it happened.
+  - Note: Scientists call these three things claim, evidence and reasoning. A good answer goes like this. What I think: water can be split, but not by heat. What I saw: steam turned back into water, but the battery made bubbles in cool water, with more bubbles on the black wire side. Why: water is made of hydrogen and oxygen held tightly together. The battery pulls them apart, and there are two hydrogens in each molecule.
 ### e2 · Wax or Sugar: which comes back the same after heating? (25 min)
 - **question:** When we heat wax and sugar and let them cool, which one comes back as the same stuff?
 - **predict:** Guess first. Both will melt. When they cool down, will each one be the same as before? Why do you think so?
@@ -319,9 +321,9 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
   - Note: The wax is solid white wax again. The sugar is now a hard, brown, glassy lump that tastes slightly bitter. Soak the sugar spoon in hot water to clean it.
   - Check: The wax came back as wax, but the sugar became brown caramel. Why? → **Heat only moved the wax molecules apart, but it broke the sugar's bonds and made new ones**
 - **s5 (3 min)**  
-  *Parent does:* Ask for claim, evidence and reasoning.  
+  *Parent does:* Ask your child to say or write three things: what I think, what I saw, and why.  
   *Parent says:* What do you think now? What did you see? Why did it happen?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Say or write three things: what you think, what you saw, and why it happened.
   - Note: A good answer: wax melted and came back as wax, so its molecules stayed whole. Sugar turned brown, smelled different, gave off steam and tasted different, so its atoms made new bonds and new substances.
 ### e3 · Plain, Sugar or Soda Water: which splits best? (20 min)
 - **question:** Does plain water, sugar water or cooking soda water make the most bubbles with the battery?
@@ -337,7 +339,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* Put the pencils in each glass in turn, join the battery and watch for one minute. Rinse the pencils between glasses.  
   *Parent says:* Watch the tips. Count roughly: none, few, some or many?  
-  *Child mode:* Put the pencils in the first glass. Join the battery. Watch for one minute. Then the next glass.
+  *Child mode:* Put the pencils in the first glass. Join the battery. Watch for one minute. Then do the same with the next glass.
   - Note: Plain tap water makes very few bubbles, maybe none. Sugar water makes about the same. Soda water makes many. Tap water has a few dissolved minerals, which is why it may make a few bubbles at all.
 - **s3 (6 min)**  
   *Parent does:* Talk about the result.  
@@ -353,7 +355,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
   *Parent says:* Try to pull each one apart. Which is easiest? Which is hardest?  
   *Child mode:* Try to pull each thing into two pieces. Which is easy? Which is hard?
 - **s2 (4 min)**  
-  *Parent does:* Ask the big question and listen.  
+  *Parent does:* Ask what holds the atoms of the spoon together, and listen.  
   *Parent says:* The spoon is made of tiny atoms. Why don't the atoms just fall apart into dust? What do you think holds them?  
   *Child mode:* A spoon is made of tiny atoms. Why do they stay together? What do you think?
   - Ask: What do you think holds the atoms of the spoon together? (good: Something makes them stick.; They hold on to each other.; Some kind of force.)
@@ -375,20 +377,21 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
   *Parent does:* Look at all three models together.  
   *Parent says:* Which one do you breathe in? Which one do you breathe out? Which one do you drink?  
   *Child mode:* Which one do you breathe in? Which do you breathe out? Which do you drink?
+  - Note: You breathe in oxygen gas and breathe out carbon dioxide. You drink water.
   - Check: Your carbon dioxide model has one carbon and two oxygens. How many toothpicks does it use? → **4**
 ### a3 · Be the Atoms: act out melting, boiling and splitting (15 min)
 - **record:** Draw your family as a water molecule.
 - **s1 (4 min)**  
-  *Parent does:* 1. The oxygen person wears the O label and holds out both hands. 2. Each hydrogen person holds one hand. Their other hand stays by their side.  
+  *Parent does:* 1. The oxygen person wears the O label and holds out both hands. 2. Each hydrogen person holds one of the oxygen person's hands. Their other hand stays by their side.  
   *Parent says:* Oxygen has two hands. Hydrogen has one. Now we are a water molecule.  
   *Child mode:* The oxygen holds out two hands. Each hydrogen holds one. You are water!
 - **s2 (5 min)**  
   *Parent does:* 1. If you have two families or friends, make two water molecules. 2. Stand close and still for ice. 3. Shuffle slowly past each other for water. 4. Move fast around the room for steam. Never let go of your partners.  
-  *Parent says:* Now we are boiling. Do the water molecules let go of each other? Do the atoms let go inside the molecule?  
+  *Parent says:* Now we are boiling. The water molecules move far apart from each other. Do the atoms inside each molecule let go of their partners?  
   *Child mode:* Stand still for ice. Shuffle for water. Walk fast for steam. Keep holding hands!
-  - Note: With only one molecule, act it alone: the molecule stands still, shuffles, then moves fast. The point is that the hands stay held through all three.
+  - Note: The answer is no. In ice, water and steam, the atoms inside each molecule keep holding hands. Only the molecules move closer together or further apart. With only one molecule, act it alone. The molecule stands still, then shuffles, then moves fast.
 - **s3 (6 min)**  
-  *Parent does:* 1. Now the battery comes. The hydrogens let go of the oxygen. 2. The two hydrogens hold each other's hand, making hydrogen gas. 3. With a second water molecule, the two oxygens hold each other with both hands, making oxygen gas.  
+  *Parent does:* 1. Now act out the battery splitting the water. The hydrogens let go of the oxygen. 2. The two hydrogens hold each other's hand, making hydrogen gas. 3. With a second water molecule, the two oxygens hold each other with both hands, making oxygen gas.  
   *Parent says:* The battery pulls the atoms apart. Now what do the hydrogens do?  
   *Child mode:* The battery pulls you apart! Hydrogens, let go. Now hold each other's hand. You are hydrogen gas!
   - Note: Oxygen gas needs the oxygens of two water molecules, which takes six people. With only three, act out hydrogen gas, and say that two oxygens would hold each other with both hands.
@@ -422,6 +425,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
   *Parent says:* Which list is longer? Is most of cooking same stuff or new stuff?  
   *Child mode:* Read your two lists. Which is longer?
   - Ask: Can a cooked dosa turn back into batter? (good: No, new stuff was made.; No, the atoms made new bonds.)
+  - Note: Cooking has changes of both kinds. Melting ghee and boiling water are same stuff. Browning onions, frying and baking make new stuff, which is why cooked food cannot go back to raw.
 
 ## Projects
 ### p1 · My Molecule Book (40 min, 2 days)
@@ -436,7 +440,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
   - Check: Nitrogen has three hands. How many hydrogens does it hold in ammonia? → **3**
   - Wait: Soak the chana and moong in water the night before.
 - **s2 (20 min)**  
-  *Parent does:* 1. Build hydrogen peroxide: a chain of H, O, O, H. 2. Draw it on its own page. 3. Finish the book with a page for each of the six molecules. Draw water, oxygen gas and carbon dioxide from your chana models in the earlier activity.  
+  *Parent does:* 1. Build hydrogen peroxide: a chain of H, O, O, H. 2. Draw it on its own page. 3. Finish the book with a page for each of the six molecules. Draw water, oxygen gas and carbon dioxide from the models you made in Build Molecules with Chana and Toothpicks.  
   *Parent says:* Hydrogen peroxide cleans cuts. Can you build it so every hand is held?  
   *Child mode:* Build H, O, O, H. Draw it. Then finish your book with six pages.
   - Wait: Do this on the second day.
@@ -448,13 +452,13 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 - **your turn:** Now invent your own faster bubble machine. Draw it, test it for one minute, and compare it with the first setup.
 - **constraints:** Use the same 9-volt battery.; Use only things from home.; Change one thing at a time, and compare with the first setup.
 - **general:** Put the pencil tips closer together, without touching.; Add more soda, up to 2 teaspoons.; Use warm tap water instead of cold.
-- **creative:** Sharpen the pencils longer, so more grey lead touches the water.; Try two steel safety pins in place of the pencils, and watch what happens to the pins after a few minutes.; Use a wider, shallower dish so you can lay the pencils almost flat, with more lead in the water.
+- **creative:** Sharpen the pencils longer, so more grey lead touches the water.; Try two steel safety pins in place of the pencils. After a few minutes, the pin on the red wire usually starts to rust and turns the water brownish. That is iron bonding with oxygen. Pencil lead does not do this.; Use a wider, shallower dish so you can lay the pencils almost flat, with more lead in the water.
 - **s1 (5 min)**  
   *Parent does:* Set up the water-splitting test with 1 teaspoon of soda, and watch for one minute.  
   *Parent says:* This is our starting machine. Watch how fast the bubbles come.  
   *Child mode:* Set up the first machine. Watch for one minute. How fast are the bubbles?
 - **s2 (20 min) · grown-up needed**  
-  *Parent does:* Change one thing at a time: distance, amount of soda, warmth of water. Watch each for a minute.  
+  *Parent does:* Change one thing at a time: the distance between the pencils, the amount of soda, or how warm the water is. Watch each for a minute.  
   *Parent says:* Which change made the bubbles come fastest? Why do you think so?  
   *Child mode:* Change one thing. Watch for one minute. Faster or slower? Then try another change.
   - Note: Closer pencils and more soda both help, because the electricity has an easier path. Do not use salt, even though it would work well.
@@ -471,7 +475,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 - **s1 (10 min)**  
   *Parent does:* Draw designs for the three pieces on cardboard.  
   *Parent says:* How will you make sure hydrogen can only hold one partner?  
-  *Child mode:* Draw a hydrogen, an oxygen and a carbon piece. Hydrogen joins one. Oxygen two. Carbon four.
+  *Child mode:* Draw a hydrogen, an oxygen and a carbon piece. Hydrogen joins to one piece, oxygen to two and carbon to four.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Cut out 4 hydrogens, 2 oxygens and 1 carbon. Try building water and methane.  
   *Parent says:* Do your pieces only fit the right way?  
@@ -484,7 +488,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 
 ## Worksheets
 ### Atoms Holding On (core) (core, 16 questions)
-1. (mcq) Anjali, a girl in Class 3 in Hyderabad, builds a model of a water molecule. Which model is right?  
+1. (mcq) Which model of a water molecule is right?  
    Options: One oxygen and one hydrogen / One oxygen and two hydrogens / Two oxygens and one hydrogen / Three hydrogens  
    **Answer:** One oxygen and two hydrogens. *Why:* Water is H2O: one oxygen with two hydrogens held on to it. A strong answer explains that oxygen has two hands.
 2. (fill) A group of atoms held together by bonds is called a ____.  
@@ -511,20 +515,20 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
    **Answer:** ['Battery: the small box', 'Black wire: joined to the busier pencil', 'Hydrogen: the pencil on the black wire', 'Oxygen: the pencil on the red wire']. *Why:* The minus, black side makes hydrogen and the red side makes oxygen. A strong answer also says which side had more bubbles.
 12. (truefalse) The oxygen in the air is made of pairs of oxygen atoms, held together by bonds.  
    **Answer:** True. *Why:* True. Each oxygen molecule is two oxygen atoms holding each other with two bonds. It is written O2.
-13. (write) In your water-splitting test, which pencil made more bubbles? What do you think those bubbles were?  
+13. (write) In the experiment Split Water with a Pencil and a Battery, which pencil made more bubbles? What do you think those bubbles were?  
    **Answer:** The pencil on the black wire made more bubbles. They were hydrogen gas. The other pencil made oxygen.. *Why:* A strong answer uses what the child really saw, and links the extra bubbles to the two hydrogens in each water molecule.
 14. (match) Match each atom to the number of bonds it usually makes.  
    **Answer:** Hydrogen → 1 bond; Oxygen → 2 bonds; Nitrogen → 3 bonds; Carbon → 4 bonds. *Why:* Hydrogen makes 1 bond, oxygen 2, nitrogen 3 and carbon 4. A strong answer uses these to explain why water is H2O.
 15. (fill) The tiny particles on the outside of an atom, which make bonds, are called ____.  
    **Answer:** ['electrons']. *Why:* Electrons have a negative charge. They are attracted by the positive centres of atoms, and that holds atoms together.
 16. (perspective) Two cousins in Kochi watch a grown-up melt wax and sugar on spoons.  
-   **Answer:** A strong answer uses the evidence: after cooling, the wax was wax again, but the sugar was brown, glassy and tasted different, and gave off steam. So the sugar's atoms made new bonds. It also gives Farhan his due: the atoms of the sugar are all still there, in the caramel and in the steam.. *Why:* Both see part of it. The substance sugar is gone, but its atoms are not. A strong answer says both.
+   **Answer:** A strong answer uses the evidence: after cooling, the wax was wax again, but the sugar was brown, glassy and tasted different, and gave off steam. So the sugar's atoms made new bonds. It also gives the second child his due: the atoms of the sugar are all still there, in the caramel and in the steam.. *Why:* Both see part of it. The substance sugar is gone, but its atoms are not. A strong answer says both.
 ### Bonds, Breaking and Making (stretch) (stretch, 16 questions)
 1. (mcq) Why is water H2O, and not HO?  
    Options: Hydrogen is too small / Oxygen makes two bonds and hydrogen makes one / There is more hydrogen in the world / Water needs to be wet  
    **Answer:** Oxygen makes two bonds and hydrogen makes one. *Why:* Oxygen has two hands. With only one hydrogen, one of oxygen's hands would be empty. Two hydrogens fill both.
 2. (write) Methane is the main gas in biogas. It has one carbon atom and some hydrogen atoms. Carbon has four hands and hydrogen has one. How many hydrogens does methane have? Explain.  
-   **Answer:** Four. Each of carbon's four hands holds one hydrogen, so methane is CH4.. *Why:* A strong answer uses the hand numbers to reason, not just recalls the formula.
+   **Answer:** Four. Each of carbon's four hands holds one hydrogen, so methane is CH4.. *Why:* A strong answer uses the hand numbers to work it out, instead of just remembering the formula.
 3. (draw) Draw carbon dioxide, CO2. Carbon is in the middle and an oxygen is on each side. Draw a line for every bond, so every atom uses all its hands.  
    **Answer:** O, C, O in a row, with two lines between the carbon and each oxygen.. *Why:* Carbon has four hands and each oxygen has two. So each oxygen holds the carbon with both its hands. A strong drawing shows two double bonds.
 4. (truefalse) Diamond and pencil lead are both made only of carbon atoms.  
@@ -547,8 +551,8 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
    **Answer:** A strong answer says that the iron atoms are all still there, now bonded to oxygen, but the shiny metal iron is gone. So both are partly right, and the argument is about whether 'iron' means the atoms or the metal.. *Why:* This is a real question about what we mean by a substance. A strong answer separates atoms from the substance they make.
 12. (truefalse) When atoms make new bonds in a chemical change, some atoms get used up and disappear.  
    **Answer:** False. *Why:* False. No atoms disappear. They only change partners. Weigh everything in a closed jar before and after, and the weight stays the same.
-13. (mcq) Priya stirs sugar into hot tea and it disappears. How could she get the sugar back?  
-   Options: Let the water dry away, and the sugar is left / She cannot, because dissolving destroys sugar / Add more tea / Freeze the tea until the sugar turns to caramel  
+13. (mcq) Sugar stirred into hot tea disappears. How could you get the sugar back?  
+   Options: Let the water dry away, and the sugar is left / You cannot, because dissolving destroys sugar / Add more tea / Freeze the tea until the sugar turns to caramel  
    **Answer:** Let the water dry away, and the sugar is left. *Why:* Dissolving only spreads whole sugar molecules among the water molecules. Let the water dry away and the sugar is left. It was never destroyed.
 14. (write) In the water-splitting test, you swapped the wires. Why was that a good idea? What did it show?  
    **Answer:** It showed whether the pencil or the battery decided which side made more bubbles. The busier side moved with the black wire, so the battery's minus side decides.. *Why:* A strong answer explains that changing only one thing lets you find the cause.
@@ -563,7 +567,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
    **Answer:** H, O, O, H in a chain: each hydrogen holds one oxygen, and the two oxygens hold each other.. *Why:* Each oxygen uses one hand for a hydrogen and one for the other oxygen. A strong drawing has three lines.
 3. (write) Most of the air is nitrogen gas, N2. Nitrogen has three hands. How can two nitrogen atoms hold all their hands with only each other?  
    **Answer:** They hold each other with all three hands at once. This is a triple bond.. *Why:* A strong answer sees that two atoms can share more than one bond. This triple bond is very strong, which is why nitrogen gas changes so rarely.
-4. (mcq) Vikram, a boy in Class 4, draws a molecule as H, H, O in a row: the middle hydrogen holds the other hydrogen and the oxygen. What is wrong with it?  
+4. (mcq) A molecule is drawn as H, H, O in a row: the middle hydrogen holds the other hydrogen and the oxygen. What is wrong with it?  
    Options: Nothing is wrong / The middle hydrogen has two partners, but hydrogen makes only one bond / Oxygen should be at the end / There are too many atoms  
    **Answer:** The middle hydrogen has two partners, but hydrogen makes only one bond. *Why:* The middle hydrogen is holding two partners, but hydrogen has only one hand. In real water, both hydrogens hold the oxygen.
 5. (write) A candle burns away in a closed jar, and the jar with everything in it weighs the same as before. Where did the wax go, and why does the weight stay the same?  
@@ -575,7 +579,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 8. (mcq) For 2,000 years people thought water was an element. Which finding showed that it is not?  
    Options: Water freezes into ice / Water boils into steam / A battery splits water into hydrogen and oxygen / Water dissolves salt  
    **Answer:** A battery splits water into hydrogen and oxygen. *Why:* A battery split water into two different gases. An element cannot be split into other substances. Freezing and boiling only change how water molecules move.
-9. (write) Astronauts on the International Space Station get oxygen to breathe by splitting water with electricity. In your experiment, which pencil gave the gas they breathe? What else do they get?  
+9. (write) Astronauts on the International Space Station get oxygen to breathe by splitting water with electricity. In the water-splitting test, which pencil gave the gas they breathe? What else do they get?  
    **Answer:** The pencil on the red, plus wire gave oxygen. They also get hydrogen, twice as much, from the black wire side.. *Why:* A strong answer uses the result of the child's own test.
 10. (fill) When two atoms share electrons in a bond, they are held together by the ____ force.  
    **Answer:** ['electric']. *Why:* Opposite electric charges attract. The positive centres of both atoms attract the shared electrons, and that holds the atoms together.
@@ -627,17 +631,17 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 9. (mcq) When something burns, where do most of its atoms go?  
    Options: Into the air, as new gases like carbon dioxide and water / They are destroyed / They all stay in the ash / They turn into heat  
    **Answer:** Into the air, as new gases like carbon dioxide and water. *Why:* Atoms are never destroyed in burning. They bond with oxygen and leave as gases. The ash is only a small part.
-10. (mcq) Bina, a girl in Class 4 in Guwahati, dissolves sugar in one glass and cooking soda in another. With the battery, the soda water bubbles a lot and the sugar water hardly at all. Why?  
+10. (mcq) Sugar is dissolved in one glass of water and cooking soda in another. With the battery and pencils, the soda water bubbles a lot and the sugar water hardly at all. Why?  
    Options: Soda splits into charged particles that carry electricity, but sugar molecules have no charge / Sugar is heavier / Sugar stops the pencils working for ever / Soda water is warmer  
    **Answer:** Soda splits into charged particles that carry electricity, but sugar molecules have no charge. *Why:* Charged particles carry the electricity across the water. Sugar dissolves as whole molecules with no charge, so very little electricity flows and few bubbles form.
 
 ## Applications
-- Making medicines: chemists design molecules atom by atom.
-- Cooking: heat breaks and makes bonds, which gives food new tastes and colours.
-- Splitting water with electricity makes hydrogen fuel, and oxygen for space stations.
+- Chemists who make medicines design new molecules atom by atom.
+- When you cook, heat breaks some bonds and makes new ones. That is how food gets new tastes and colours.
+- Splitting water with electricity makes hydrogen, which can be used as a fuel. It also makes oxygen, which astronauts on space stations breathe.
 - Cutting tools for stone and glass use diamond, the hardest natural material.
 - Pencils use soft graphite, whose sheets slide off onto paper.
-- Fertilisers are made from the nitrogen in air by breaking its strong triple bond.
+- Factories make fertilisers from the nitrogen in the air. To do this, they have to break the strong triple bond that holds two nitrogen atoms together.
 - Biogas plants turn cow dung and food waste into methane for cooking.
 - Rust-proof paint keeps oxygen from bonding with the iron in gates and grills.
 
@@ -660,8 +664,8 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 - When the milk boils over, is it still milk? How could you tell?
 - Is a cooked egg the same stuff as a raw egg?
 - Where do you think the atoms of the wood go when it burns?
-- Why do you think rust forms faster near the sea, in Chennai, Kochi or Mumbai?
-- If you could hold hands with only one person, like hydrogen, who would it be?
+- Iron rusts with the help of water. Which iron things in our home are most likely to rust?
+- Why can one oxygen atom hold on to two hydrogen atoms?
 - Which things in the kitchen could never be turned back after cooking?
 - What do you think a diamond and a pencil have in common?
 - Is your breath made of the same atoms as the air?
@@ -677,11 +681,11 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 - What did the hydrogen say when the battery split the water? *I need a new partner, and I'll take another hydrogen.*
 
 ## Connected maths
-- Priya, a girl in Class 4 in Coimbatore, counted bubbles leaving each pencil for 10 seconds. The black wire pencil made 24 bubbles. The red wire pencil made 12. How many times as many bubbles did the black side make? **2 times as many.**. 24 divided by 12 is 2. So the black side made twice as many bubbles. That fits, because each water molecule has two hydrogen atoms and one oxygen. (queues `math.division.sharing-and-grouping.L3`)
-- Shalini, a girl in Class 3 in Bhubaneswar, wants to build 3 water molecules with chana and moong. How many chana and how many moong does she need? **3 chana and 6 moong.**. Each water molecule is 1 oxygen and 2 hydrogens. 3 groups of 1 is 3 chana. 3 groups of 2 is 6 moong. (queues `math.multiplication.equal-groups.L3`)
+- Bubbles leaving each pencil were counted for 10 seconds. The pencil on the black wire made 24 bubbles. The pencil on the red wire made 12. How many times as many bubbles did the black side make? **2 times as many.**. 24 divided by 12 is 2. So the black side made twice as many bubbles. That fits, because each water molecule has two hydrogen atoms and one oxygen. (queues `math.division.sharing-and-grouping.L3`)
+- You want to build 3 water molecules with chana and moong. How many chana and how many moong do you need? **3 chana and 6 moong.**. Each water molecule is 1 oxygen and 2 hydrogens. 3 groups of 1 is 3 chana. 3 groups of 2 is 6 moong. (queues `math.multiplication.equal-groups.L3`)
 - A sugar molecule has 12 carbon atoms, 22 hydrogen atoms and 11 oxygen atoms. How many atoms is that in all? **45 atoms.**. 12 + 22 = 34. 34 + 11 = 45. So one sugar molecule has 45 atoms, compared with 3 in water. (queues `math.addition-subtraction.mental-strategies.L3`)
 - Methane is 1 carbon and 4 hydrogens. Count all the hands. How many bonds does methane have? **4 bonds.**. Carbon has 4 hands and the 4 hydrogens have 1 each, so 8 hands in all. Each bond uses 2 hands. 8 divided by 2 is 4 bonds. (queues `math.division.division-facts.L3`)
-- Rohan, a boy in Class 3, has 1 oxygen card and 1 hydrogen card. Can he build a molecule where every hand is held? Use the hands to explain. **No.**. Oxygen has 2 hands and hydrogen has 1, so 3 hands in all. Each bond uses 2 hands. 3 is odd, so one hand is always left empty. (queues `math.number-sense.odd-even.L3`)
+- You have 1 oxygen card and 1 hydrogen card. Can you build a molecule where every hand is held? Use the hands to explain. **No.**. Oxygen has 2 hands and hydrogen has 1, so 3 hands in all. Each bond uses 2 hands. 3 is odd, so one hand is always left empty. (queues `math.number-sense.odd-even.L3`)
 
 ## Song
 Hold On Tight (sci.chemistry.L3): Topic-level song for Chemistry L3

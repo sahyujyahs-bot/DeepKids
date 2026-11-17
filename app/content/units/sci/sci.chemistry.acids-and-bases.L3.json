@@ -113,7 +113,7 @@
    "status": "defined",
    "context": "Why does cabbage water change colour? This card is about indicators, and the pigment that does the changing.",
    "definition": "An indicator is a substance whose colour changes with how acidic or basic a liquid is. Red cabbage water is an indicator because of its purple pigment, anthocyanin.",
-   "description": "Red cabbage leaves are full of a purple pigment called anthocyanin. When you blend the leaves with water, the pigment comes out into the water. Each tiny particle of the pigment changes its shape a little when it meets an acid or a base. A particle with a different shape takes in different colours of light. So we see a different colour. In a strong acid the water turns red. In a weak acid it turns pink. In plain water it stays purple. In a weak base it turns blue, then blue-green. In a strong base it turns green and then yellow. Turmeric is an indicator too, but it shows only two colours: yellow, or red in a base. Cabbage water shows many.",
+   "description": "Red cabbage leaves are full of a purple pigment called anthocyanin. When you blend the leaves with water, the pigment comes out into the water. Each tiny particle of the pigment changes its shape a little when it meets an acid or a base. A particle with a different shape soaks up different colours of light. So the light that reaches your eye has a different colour, and we see a different colour. In a strong acid the water turns red. In a weak acid it turns pink. In plain water it stays purple. In a weak base it turns blue, then blue-green. In a strong base it turns green and then yellow. Turmeric is an indicator too, but it shows only two colours: yellow, or red in a base. Cabbage water shows many.",
    "examples": [
     "Lemon juice turns cabbage water pink.",
     "Cooking soda water turns cabbage water blue or blue-green.",
@@ -127,7 +127,7 @@
    "status": "defined",
    "context": "Is every liquid either an acid or a base? This card is about the line that runs between them.",
    "definition": "The pH scale is a line of numbers from 0 to 14. It says how acidic or basic a watery liquid is. 7 is neutral. The smaller the number, the stronger the acid. The bigger the number, the stronger the base.",
-   "description": "People used to sort liquids into two boxes: acids and alkalis. But liquids are not all equally sour or equally soapy. In 1909, a Danish chemist called Søren Sørensen, working at the Carlsberg Laboratory in Copenhagen, gave each liquid a number. He called it pH. Today we know that even plain water holds a tiny number of acid particles and base particles, in equal amounts. An acid adds more of the acid kind. A base adds more of the base kind. So every watery liquid has a place on the line. Lemon juice is about 2. Vinegar is about 3. Buttermilk is about 4 or 5. Milk is about 6 or 7. Pure water is 7. Cooking soda water is about 8. Soapy water is about 9 or 10. Detergent water is about 10 or 11. Red cabbage water lets you see these places as colours.",
+   "description": "People used to sort liquids into two boxes: acids and alkalis. But liquids are not all equally sour or equally soapy. In 1909, a Danish chemist called Søren Sørensen, working at the Carlsberg Laboratory in Copenhagen, gave each liquid a number. He called it pH. Today we know that even plain water holds a tiny number of charged hydrogen particles, which are the acid kind. It also holds a tiny number of another kind of charged particle, which is the base kind. In plain water there are equal amounts of both. An acid adds more of the acid kind. A base adds more of the base kind. So every watery liquid has a place on the line. Lemon juice is about 2. Vinegar is about 3. Buttermilk is about 4 or 5. Milk is about 6 or 7. Pure water is 7. Cooking soda water is about 8. Soapy water is about 9 or 10. Detergent water is about 10 or 11. Red cabbage water lets you see these places as colours.",
    "examples": [
     "Rainwater is a little acidic, about 5 to 6, because it takes in carbon dioxide from the air.",
     "Sea water is a little basic, about 8.",
@@ -140,7 +140,7 @@
    "concept": "When an acid meets a base",
    "status": "defined",
    "context": "What happens when you mix a sour thing with a soapy thing? This card is about acids and bases using each other up.",
-   "definition": "When an acid and a base are mixed, they react and use each other up. This is called neutralising. The mixture moves towards neutral, and a salt and water are made.",
+   "definition": "When an acid and a base are mixed, they react and use each other up. This is called neutralising. The mixture moves towards neutral. Water is made, and so is a new substance called a salt.",
    "description": "Drop lemon juice on cooking soda and it fizzes. The acid and the base react, and the bubbles are a gas called carbon dioxide. Now try it in cabbage water. Pink lemony cabbage water turns purple again when you add enough soda water. Add more soda water, and it goes on to blue and then green. So you can move a liquid along the colour line in both directions. The acid particles from the lemon join up with base particles from the soda and make water. Later units go further into this, with antacid tablets and the acid in our stomach.",
    "examples": [
     "Lemon juice dripped on cooking soda fizzes for a few seconds.",
@@ -248,7 +248,7 @@
   {
    "q": "Your stomach is full of acid, yet the stomach is not burnt by it. How might a body keep a strong acid in one place and not in another?",
    "kind": "big",
-   "hint": "Think of a pickle jar: what keeps the sour pickle from eating through the jar?"
+   "hint": "A pickle jar holds sour pickle without being eaten away, because the jar is made of something that acid does not harm. Your stomach has a thick, slimy coating called mucus that does the same job for its wall."
   },
   {
    "q": "Rain is a little acidic and the sea is a little basic. If people change the air, could the sea's place on the pH scale change?",
@@ -657,7 +657,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Set out the board and tokens. Each player draws a start card.",
-     "say": "You are a glass of cabbage water with something added. Where are you on the line? Your goal is to get back to purple.",
+     "say": "Imagine your token is a glass of cabbage water with one liquid added. Your start card tells you where that glass sits on the colour line. Your goal is to get back to purple.",
      "kid": "Draw a start card. Put your token on that square. Get back to purple to win.",
      "context": "This is the start of Back to Purple, a board game on the colour line."
     },
@@ -1336,6 +1336,7 @@
      "do": "Tell the story of Lémery's idea in one or two sentences, then ask.",
      "say": "Long ago a chemist said acids have tiny spikes that break inside a base, and that makes the fizz. Nobody ever saw the spikes. What would you need to see to believe him?",
      "kid": "A chemist once said acids have tiny spikes. Nobody saw them. Would you believe it? Why?",
+     "parent": "A good answer is that you would want to see the spikes, or find another test that shows them. Chemists looked for 200 years and never found any. Later they found that every acid gives out charged hydrogen particles in water, which explains the sourness and the fizz.",
      "check": {
       "t": "mcq",
       "q": "Only the cooking soda fizzed. Why?",
@@ -1410,6 +1411,7 @@
      "do": "Look at the finished sheet together.",
      "say": "Which box has most of the food? Which box has most of the cleaners?",
      "kid": "Where is most of the food? Where are most of the cleaners?",
+     "parent": "Most foods will be in the Sour and Neutral boxes, because the acids in food are weak. Most cleaners will be in the Soapy and Grown-ups only boxes, because cleaners are made to be strong.",
      "check": {
       "t": "mcq",
       "q": "Most sour things in the kitchen are foods, but some cleaners are strong acids. Why are those cleaners kept high up?",
@@ -1494,6 +1496,7 @@
      "do": "1. Blend three cabbage leaves with just one cup of water, so it is very dark. 2. Strain it into a steel plate. 3. Soak the paper strips for one minute.",
      "say": "We want very strong colour, so we use less water this time. Why do you think strong colour helps?",
      "kid": "Blend the cabbage with less water. Soak the strips in it.",
+     "parent": "A strong colour is still easy to see after it dries into a small strip of paper. A pale colour could fade away.",
      "adult": true,
      "context": "This is the first day of the Cabbage Test Strips project. Here you soak paper in cabbage colour."
     },
@@ -1559,7 +1562,7 @@
    ],
    "creative": [
     "Make the in-between colours by mixing: a pink glass plus a little soda water makes violet.",
-    "Pour a second colour slowly over the back of a spoon into a tall glass. The colours will mix quickly. Why do you think they do not stay in layers?",
+    "Pour a second colour slowly down the back of a spoon into a tall glass. Both colours are mostly water, so they mix and do not stay in layers. Stir gently and look at the colour in between.",
     "Make the rainbow on paper with your cabbage test strips instead of glasses."
    ],
    "your_turn": "Now plan your own rainbow. Write down what you will put in each glass before you start, then test it and see which glasses you need to fix.",
@@ -2486,7 +2489,7 @@
   },
   {
    "q": "How does a sour taste cell on the tongue sense acid?",
-   "why_open": "In 2019, scientists found a channel in sour taste cells that lets hydrogen particles in. They are still working out how this and other parts together give us the feeling of sourness."
+   "why_open": "In 2019, scientists found a tiny opening in sour taste cells that lets hydrogen particles in. They are still working out how this opening and other parts work together to give us the feeling of sourness."
   },
   {
    "q": "How fast, and how much, will the sea's pH keep changing as carbon dioxide rises?",
@@ -2740,16 +2743,16 @@
    "evidence": "In the Cabbage Colour Line test, every liquid had its own place between pink and green. In the Lemon or Buttermilk test, each spoon of soda water moved the same glass a little further, from pink to purple to blue."
   },
   "three": {
-   "who_am_i": "Your tongue can tell when a food is near the acid end of the line from sour to soapy: the food tastes sour. Your blood stays at almost the same place on that line all your life.",
-   "what_is_life": "Curd bacteria make milk sour to keep the milk for themselves. Weaver ants squirt acid to guard their nests. Living beings use acids to live.",
+   "who_am_i": "Your tongue tastes acids as sour. So your tongue can tell you when a food is on the acid side of the line. Your blood stays at almost exactly the same place on the line all your life, at about 7.4.",
+   "what_is_life": "Curd bacteria make milk sour so that they can keep the milk for themselves. Weaver ants squirt acid to guard their nests. Your own stomach makes acid to break down food. So acids are a tool that many living beings make and use.",
    "what_is_this_world": "Rain is a little acidic and the sea is a little basic. Every pond, river and soil has its own place on the line from sour to soapy."
   },
-  "thread": "Even plain water holds a tiny number of acid particles and base particles. In pure water there are exactly as many of each, so they balance. An acid tips the balance one way. A base tips it the other way. One balance, tipped by different amounts, gives every liquid its place, from lemon to soap. All the colours in your row of glasses came from that one balance and one pigment.",
+  "thread": "Even plain water holds a tiny number of acid particles and base particles. In pure water there are exactly as many of each, so they balance. An acid adds more acid particles, so the balance tips towards sour. A base adds more base particles, so it tips towards soapy. How far it tips decides where the liquid sits on the line, and that decides its colour in cabbage water.",
   "teachings": [
    {
     "source": "Charaka Samhita, Sutrasthana 26",
     "teaching": "In this chapter of the old Ayurveda book called the Charaka Samhita, sages argue about how many tastes there are. They agree on six: sweet, sour, salty, pungent, bitter and astringent. The Sanskrit word for sour is amla.",
-    "link": "Long before chemistry, people knew sour was its own taste. The Latin word acidus also means sour, and that is where the word acid comes from. Bases often taste bitter, another of the six. Your tongue was the first indicator."
+    "link": "Long before chemistry, people knew that sour was a taste of its own. The Latin word acidus also means sour, and that is where the word acid comes from. Bases often taste bitter, and bitter is another of the six tastes. So people were using their tongues as a simple tester for acids long before indicators were found."
    },
    {
     "source": "Heraclitus, a Greek thinker of about 500 BCE, fragment 60 (Diels-Kranz numbering)",
@@ -2759,7 +2762,7 @@
   ],
   "science": [
    {
-    "text": "Water always splits a tiny bit into charged hydrogen particles and charged particles of oxygen and hydrogen. In pure water there are equal numbers of each, which is why pure water is neutral at pH 7.",
+    "text": "A tiny bit of any water always splits apart into two kinds of charged particles. One kind is charged particles of hydrogen. The other kind is charged particles made of oxygen and hydrogen joined together. In pure water there are equal numbers of the two kinds, which is why pure water is neutral at pH 7.",
     "status": "settled"
    },
    {
@@ -2774,13 +2777,13 @@
   "practice": {
    "title": "One drop of lemon",
    "mins": 3,
-   "say": "Sit still and close your eyes. I will put one drop of lemon juice on your tongue. Notice where you feel the sourness first. Now notice your mouth filling with water. That is saliva. Keep still and feel the sourness slowly fade. Take three slow breaths. Where did the sourness go?",
-   "kid": "Close your eyes. Put one drop of lemon on your tongue. Where do you feel it first? Feel your mouth fill with water. Feel the sourness fade. Breathe slowly three times."
+   "say": "Sit still and close your eyes. I will put one drop of lemon juice on your tongue. Notice where you feel the sourness first. Now notice your mouth filling with water. That is saliva. Saliva thins the lemon juice and washes the sourness away a little at a time. Keep still and feel the sourness slowly fade. Take three slow breaths.",
+   "kid": "Close your eyes. Put one drop of lemon on your tongue. Where do you feel it first? Your mouth fills with water. That is saliva. It washes the sourness away. Breathe slowly three times."
   },
   "ask": [
-   "If sour and soapy are two ends of one line, is plain water a thing of its own, or just the middle of the line?",
-   "Your tongue tasted that lemon is sour, and cabbage water showed it by turning pink. Which one told you more?",
-   "Curd bacteria change milk to keep the milk for themselves. Is that cooking, or is it the bacteria's own way of living?"
+   "Sour and soapy are two ends of one line. Is plain water a kind of thing on its own, or just the place in the middle of the line?",
+   "Your tongue tells you lemon is sour, and cabbage water shows it by turning pink. Which of the two tells you more? Why?",
+   "Curd bacteria make milk sour so that they can keep the milk for themselves. Is making curd something we do, or something the bacteria do for their own lives?"
   ],
   "art": "A child sitting cross-legged with eyes closed and a drop of lemon on her tongue, and behind her a windowsill of glasses from pink to green glowing in the evening light."
  },

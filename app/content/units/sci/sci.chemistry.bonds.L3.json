@@ -121,9 +121,9 @@
    "definition": "A molecule is a group of atoms held together by bonds. It is the smallest piece of a substance like water.",
    "description": "Scientists write a molecule with letters and small numbers. H stands for hydrogen, O for oxygen, C for carbon and N for nitrogen. H2O means two hydrogen atoms and one oxygen atom. So one drop of water is a huge crowd of H2O molecules. Each molecule is the same, wherever the water came from.",
    "examples": [
-    "Water: H2O, 3 atoms.",
-    "Carbon dioxide, the gas you breathe out: CO2, 3 atoms.",
-    "Table sugar: C12H22O11, 45 atoms in one molecule."
+    "Water is written H2O. One water molecule has 3 atoms: two hydrogen and one oxygen.",
+    "Carbon dioxide, the gas you breathe out, is written CO2. One molecule has 3 atoms: one carbon and two oxygen.",
+    "Table sugar is written C12H22O11. One sugar molecule has 45 atoms: 12 carbon, 22 hydrogen and 11 oxygen."
    ],
    "perspectives": [],
    "art": "Three molecule models in a row: a water molecule, a carbon dioxide molecule in a straight line, and a big sugar molecule with many balls."
@@ -135,9 +135,9 @@
    "definition": "Each kind of atom usually makes the same number of bonds. Hydrogen makes 1, oxygen makes 2, nitrogen makes 3 and carbon makes 4.",
    "description": "Think of bonds as hands. Hydrogen has one hand, oxygen two, nitrogen three and carbon four. In a molecule, every hand is held by another atom's hand. Oxygen has two hands, so it holds two hydrogens. That makes H2O. Sometimes two atoms hold each other with two hands, or even three. This is called a double or triple bond.",
    "examples": [
-    "Methane, the main gas in biogas and in piped cooking gas: one carbon holding four hydrogens, CH4.",
-    "Carbon dioxide: one carbon holds each oxygen with two hands, so all four of its hands are used.",
-    "Nitrogen gas, most of the air: two nitrogen atoms holding each other with all three hands."
+    "Methane is the main gas in biogas and in piped cooking gas. One carbon atom holds four hydrogen atoms, so methane is written CH4.",
+    "In carbon dioxide, one carbon atom holds each oxygen atom with two hands. That uses all four of the carbon's hands.",
+    "Most of the air is nitrogen gas. Two nitrogen atoms hold each other with all three of their hands."
    ],
    "perspectives": [],
    "art": "Four balls with sticks for hands: white hydrogen with 1, red oxygen with 2, blue nitrogen with 3, black carbon with 4."
@@ -149,7 +149,7 @@
    "definition": "Bonds hold the atoms inside a molecule together very strongly. Molecules also pull on each other, but much more weakly.",
    "description": "When ice melts, or water boils, the weak pulls between molecules give way. The molecules move further apart, but each one is still a whole H2O molecule. That is why steam drips back from a lid as water. Splitting the molecule itself means breaking the strong bonds inside it. That takes several times more energy than boiling the same water away. In the water-splitting test, the battery gave that energy, a little at a time.",
    "examples": [
-    "Ice, water and steam are all H2O molecules. Only the spacing and movement changes.",
+    "Ice, water and steam are all H2O molecules. Only the spacing and the movement of the molecules change.",
     "Sugar dissolving in water: the sugar molecules move apart among the water molecules, but each sugar molecule stays whole."
    ],
    "perspectives": [],
@@ -246,7 +246,7 @@
    "for": "Water never seems to change into anything else. Freeze it, boil it or mix it, and you get water back.",
    "against": "In 1800, Nicholson and Carlisle split water into hydrogen and oxygen with a battery. You can do it at home.",
    "status": "rejected",
-   "context": "This card is about one of the oldest ideas in science, and how it was shown wrong."
+   "context": "An element is a substance made of only one kind of atom, such as oxygen or iron. People once thought water was an element, one of the basic stuffs that can never be broken down. This card is about how that old idea was shown wrong."
   },
   {
    "claim": "Boiling water splits it into hydrogen and oxygen.",
@@ -295,7 +295,7 @@
   {
    "q": "Nobody has ever seen a bond, only atoms close together. Is a bond a thing, or a name for how atoms behave?",
    "kind": "deep",
-   "hint": "Is a handshake a thing, or two hands doing something?"
+   "hint": "A handshake is not an object. It is what two hands are doing. Is a bond like that?"
   },
   {
    "q": "Some of the oxygen you breathe in ends up inside you as part of water. Where does the air end and you begin?",
@@ -310,7 +310,7 @@
   {
    "q": "Atoms of only about 25 elements make up a human body. How can so few kinds make so many different things?",
    "kind": "big",
-   "hint": "Think of how 26 letters make every word in English."
+   "hint": "The English language uses only 26 letters. Yet they can be put together in many ways to make every word. Atoms can be put together in many ways too."
   }
  ],
  "story": {
@@ -524,7 +524,8 @@
      "do": "Add up the scores.",
      "say": "Who has the most points? Which molecule was the hardest to build?",
      "kid": "Add up your points. Which molecule was hardest?",
-     "think": "Carbon has four hands. What is the biggest molecule you could build with one carbon?"
+     "parent": "The biggest is methane, one carbon holding four hydrogens, with 5 atoms. Carbon dioxide has only 3 atoms, because each oxygen needs two of carbon's hands.",
+     "think": "Carbon has four hands. With the atom cards in this game, what is the biggest molecule you could build with one carbon?"
     }
    ]
   },
@@ -620,7 +621,7 @@
       },
       {
        "f": "A battery splits water into bubbles",
-       "b": "New stuff. Hydrogen and oxygen gas."
+       "b": "New stuff. The battery makes hydrogen gas and oxygen gas from the water."
       },
       {
        "f": "A green banana turns yellow and sweet",
@@ -678,8 +679,9 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the points.",
-     "say": "Which card made us argue most?",
-     "kid": "Count your points. Which card was hardest?",
+     "say": "Which card was hardest to decide? What clue helped you decide it?",
+     "kid": "Count your points. Which card was hardest? What clue helped?",
+     "parent": "A good clue is whether cooling, warming or drying would bring the first thing back. If it would, it is the same stuff.",
      "check": {
       "t": "mcq",
       "q": "Melted ghee turns solid again in the fridge. What does that tell you?",
@@ -1210,6 +1212,7 @@
      "do": "Look at all three models together.",
      "say": "Which one do you breathe in? Which one do you breathe out? Which one do you drink?",
      "kid": "Which one do you breathe in? Which do you breathe out? Which do you drink?",
+     "parent": "You breathe in oxygen gas and breathe out carbon dioxide. You drink water.",
      "check": {
       "t": "mcq",
       "q": "Your carbon dioxide model has one carbon and two oxygens. How many toothpicks does it use?",
@@ -1271,9 +1274,9 @@
      "id": "s2",
      "mins": 5,
      "do": "1. If you have two families or friends, make two water molecules. 2. Stand close and still for ice. 3. Shuffle slowly past each other for water. 4. Move fast around the room for steam. Never let go of your partners.",
-     "say": "Now we are boiling. Do the water molecules let go of each other? Do the atoms let go inside the molecule?",
+     "say": "Now we are boiling. The water molecules move far apart from each other. Do the atoms inside each molecule let go of their partners?",
      "kid": "Stand still for ice. Shuffle for water. Walk fast for steam. Keep holding hands!",
-     "parent": "With only one molecule, act it alone: the molecule stands still, shuffles, then moves fast. The point is that the hands stay held through all three."
+     "parent": "The answer is no. In ice, water and steam, the atoms inside each molecule keep holding hands. Only the molecules move closer together or further apart. With only one molecule, act it alone. The molecule stands still, then shuffles, then moves fast."
     },
     {
      "id": "s3",
@@ -1423,6 +1426,7 @@
      "do": "Read the two lists together.",
      "say": "Which list is longer? Is most of cooking same stuff or new stuff?",
      "kid": "Read your two lists. Which is longer?",
+     "parent": "Cooking has changes of both kinds. Melting ghee and boiling water are same stuff. Browning onions, frying and baking make new stuff, which is why cooked food cannot go back to raw.",
      "ask": [
       {
        "q": "Can a cooked dosa turn back into batter?",
@@ -1554,7 +1558,7 @@
    ],
    "creative": [
     "Sharpen the pencils longer, so more grey lead touches the water.",
-    "Try two steel safety pins in place of the pencils, and watch what happens to the pins after a few minutes.",
+    "Try two steel safety pins in place of the pencils. After a few minutes, the pin on the red wire usually starts to rust and turns the water brownish. That is iron bonding with oxygen. Pencil lead does not do this.",
     "Use a wider, shallower dish so you can lay the pencils almost flat, with more lead in the water."
    ],
    "your_turn": "Now invent your own faster bubble machine. Draw it, test it for one minute, and compare it with the first setup.",
@@ -2486,12 +2490,12 @@
   }
  ],
  "applications": [
-  "Making medicines: chemists design molecules atom by atom.",
-  "Cooking: heat breaks and makes bonds, which gives food new tastes and colours.",
-  "Splitting water with electricity makes hydrogen fuel, and oxygen for space stations.",
+  "Chemists who make medicines design new molecules atom by atom.",
+  "When you cook, heat breaks some bonds and makes new ones. That is how food gets new tastes and colours.",
+  "Splitting water with electricity makes hydrogen, which can be used as a fuel. It also makes oxygen, which astronauts on space stations breathe.",
   "Cutting tools for stone and glass use diamond, the hardest natural material.",
   "Pencils use soft graphite, whose sheets slide off onto paper.",
-  "Fertilisers are made from the nitrogen in air by breaking its strong triple bond.",
+  "Factories make fertilisers from the nitrogen in the air. To do this, they have to break the strong triple bond that holds two nitrogen atoms together.",
   "Biogas plants turn cow dung and food waste into methane for cooking.",
   "Rust-proof paint keeps oxygen from bonding with the iron in gates and grills."
  ],
@@ -2547,8 +2551,8 @@
   "When the milk boils over, is it still milk? How could you tell?",
   "Is a cooked egg the same stuff as a raw egg?",
   "Where do you think the atoms of the wood go when it burns?",
-  "Why do you think rust forms faster near the sea, in Chennai, Kochi or Mumbai?",
-  "If you could hold hands with only one person, like hydrogen, who would it be?",
+  "Iron rusts with the help of water. Which iron things in our home are most likely to rust?",
+  "Why can one oxygen atom hold on to two hydrogen atoms?",
   "Which things in the kitchen could never be turned back after cooking?",
   "What do you think a diamond and a pencil have in common?",
   "Is your breath made of the same atoms as the air?"
@@ -2820,10 +2824,10 @@
   },
   "three": {
    "who_am_i": "More than half of your body's weight is water. Every one of those water molecules is three atoms holding on tight.",
-   "what_is_life": "Living things build their bodies by making and breaking bonds all day. A plant splits water with sunlight, and you put the atoms back together when you breathe.",
+   "what_is_life": "Living things build their bodies by making and breaking bonds all day. A plant uses sunlight to split water. When you breathe, the oxygen you take in joins with hydrogen from your food and makes water again.",
    "what_is_this_world": "Only 118 kinds of atom make up everything you see. The world's variety comes from how they hold on to each other."
   },
-  "thread": "Atoms of only a few kinds join, by their bonds, into countless different molecules. Every bond is made by the same electric force. The hydrogen in water and the hydrogen in sugar are the same kind of atom, bonded to different partners. So the many substances around us are a few kinds of atom, held together by one force in different ways.",
+  "thread": "Atoms of only a few kinds join by bonds into countless different molecules. Every bond is made by the same electric force. The hydrogen in water and the hydrogen in sugar are the same kind of atom. They are just bonded to different partners. So the many different substances around us come from a few kinds of atom, joined in many different ways by one force.",
   "teachings": [
    {
     "source": "Prashastapada, Padarthadharmasangraha (about the 6th century CE), on the Vaisheshika teaching of Kanada",

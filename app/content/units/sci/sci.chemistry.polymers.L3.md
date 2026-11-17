@@ -61,7 +61,7 @@ A silkworm caterpillar must keep safe while their body changes into a moth. So t
 
 Different small molecules make different plastics. A milk packet is polythene. A water bottle is usually PET. A bucket is often polypropylene. All of them are long chains, so they bend and stretch instead of shattering. Plastic is cheap, light and waterproof, and it lasts a very long time. That is also its problem. Very few living beings can yet break plastic chains, so thrown-away plastic stays in soil, rivers and the sea.
 - e.g. Look for a small triangle with a number from 1 to 7 on plastic things. The number says which plastic it is.
-- e.g. Nylon, the first fully made-up fibre, was made in 1935. It is used for toothbrush bristles and ropes.
+- e.g. Nylon was the first fibre made entirely in a factory. It was made in 1935. It is used for toothbrush bristles and ropes.
 ### Tying rubber's chains: vulcanised rubber · *defined*
 **Definition:** Vulcanising means heating rubber with sulfur. The sulfur makes cross-links between the rubber chains, much as borax ties the chains in slime.
 
@@ -82,7 +82,7 @@ Raw rubber from latex gets soft and sticky on a hot day and stiff on a cold one.
 ## Challenging perspectives
 - **Rubber and starch are clumps of small molecules stuck loosely together, not giant molecules.** (Most chemists before about 1930; *rejected*)  
   For: Nobody had seen a giant molecule, and many chemists thought molecules could not be that big.  
-  Against: Hermann Staudinger changed the chemistry of rubber and it stayed made of giant molecules. Wallace Carothers then built long chains from small molecules on purpose.
+  Against: Hermann Staudinger, a German chemist, added hydrogen to rubber. If rubber were a loose clump of small molecules, this should have broken the clump into small pieces. It did not. The rubber was still made of giant molecules. Later, Wallace Carothers built long chains from small molecules on purpose.
 - **Plastic is one material.** (A very common idea; *rejected*)  
   For: Plastic things look and feel alike: smooth, light and waterproof.  
   Against: There are many different plastics made from different monomers. A milk packet stretches, a bucket is stiff, and thermocol is a foam. The number in the triangle tells them apart.
@@ -97,34 +97,34 @@ Raw rubber from latex gets soft and sticky on a hot day and stiff on a cold one.
 We have learned that plastic, rubber, silk and glue are made of very long chain molecules, and that a few ties can join them into one. Now we ask what long chains tell us about ourselves and the world.
 
 **Deep truth.** A few teaspoons of borax water turned a cup of runny glue into slime you could hold. Each borax tie joined two long glue molecules. Each molecule is so long that a few ties joined it to many others. So in a material made of long chains, a few links can join the whole into one piece.  
-*Habit it breaks:* We picture a material as a heap of separate tiny pieces, like grains of sugar. But tied long chains stop being separate: the whole cup of slime moved and stretched as one piece.  
+*Habit it breaks:* We picture a material as a heap of separate tiny pieces, like grains of sugar. But long chains that are tied to each other are no longer separate: the whole cup of slime moved and stretched as one piece.  
 *Evidence:* In the borax test, the borax water was a small part of each cup. Yet adding it turned dripping glue into a ball, and more of it made the ball spread less.
 
 - *who am i:* Your hair, skin and muscles are made of proteins, which are long chains. The instructions for your body are written along another long chain, called DNA.
 - *what is life:* A silkworm, a spider and a rubber tree each make a polymer to solve a problem in their life: a safe cocoon, a web to catch food, a seal for a cut.
 - *what is this world:* Plastic is a polymer that people made. It lasts a very long time, because few living beings can yet break its chains.
 
-A polymer is many small pieces joined into one long molecule. One small piece alone slips about like water. Thousands joined in a row make a silk thread or a strand of hair. Tie those chains to each other, and a whole cup of them moves as one piece, as in your slime.
+A polymer is many small pieces joined into one long molecule. A small molecule on its own slips about easily, the way water does. Thousands of pieces joined in a row can make a silk thread or a strand of hair. If you tie those chains to each other, a whole cup of them moves as one piece, as the slime did in the Borax Test.
 
 - **Avatamsaka Sutra, the image of Indra's net:** Over the palace of the god Indra hangs a great net. At every knot is a jewel, and each jewel reflects every other jewel. (In slime, every chain is tied to others, so the whole cup is one net. Pull one part, and the whole slime moves, because each chain is joined to all the rest through its ties.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988), on a sheet of paper:** Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. (Paper is cellulose, long chains that a tree built from water and air using sunlight. The chains in the paper really were made from rain and air.)
-- Science (settled): Polymers are real molecules: long chains held by the same strong bonds as small molecules. Staudinger won the Nobel Prize for showing this in 1953.
+- Science (settled): Polymers are real molecules: long chains held by the same strong bonds as small molecules. Hermann Staudinger showed this, and won the Nobel Prize in Chemistry for it in 1953.
 - Science (open): How the first long-chain molecules, such as RNA, formed on the early Earth is not known.
-- Other view, Many chemists: Joining small pieces into chains is simply what chemical bonds do. It is a useful fact about molecules, and it carries no message about the many and the one. Seeing nets and wholes in slime says more about us than about the slime.
+- Other view, Many chemists: Joining small pieces into chains is simply what chemical bonds do. It is a useful fact about molecules. It does not tell us anything deeper about how many things become one. Seeing a net or a whole in slime is just the way we choose to describe it.
 - Practice, The human chain (3 min): Let's stand in a line and hold hands, so we are one chain. Close your eyes. I will pull gently on my end. Say 'now' when you feel the pull reach you. Now let go of hands, and I will pull again. Did the pull reach you this time? Take three slow breaths and feel your hands. One hand is a small piece. Joined, we move as one.
 - Ask: A few ties joined a whole cup of chains into one slime. Is the slime one thing, or many chains?
-- Ask: Your hair is made of chains your body built from the food you ate. Where did your hair begin?
+- Ask: Your hair is made of chains that your body built from the food you ate. So where does your hair really come from, you or the food?
 - Ask: A silkworm makes silk for their own cocoon, and people take it for sarees. What do we owe the silkworm?
 
 ## Deep and big questions
-- *deep:* One polymer chain is far too small to see. So how can it decide whether a slime is runny or firm? (hint: Think about how many chains there are in one spoon of glue, and how each tie joins two of them.)
-- *deep:* Slime stretches when you pull it slowly and snaps when you pull it fast. Is slime a solid or a liquid? (hint: Leave a slime ball on a plate for ten minutes. Then try to bounce it. Does one word fit?)
+- *deep:* One polymer chain is far too small to see. So how can chains that small make a slime runny or firm? (hint: Think about how many chains there are in one spoon of glue, and how each tie joins two of them.)
+- *deep:* Slime stretches when you pull it slowly and snaps when you pull it fast. Is slime a solid or a liquid? (hint: Leave a slime ball on a plate for ten minutes, and it slowly spreads like a liquid. Then bounce it, and it acts like a solid. Does one word fit both?)
 - *big:* Your hair, a sheep's wool and a silkworm's silk are all proteins. In what way are you made of the same material as a sheep? (hint: Think about what proteins are made of, and where those small pieces come from.)
 - *big:* Plastic was invented to last. Now it lasts too long. Is a material good or bad, or does it depend on how we use it? (hint: Think of one plastic thing you would not want to give up, and one you could do without.)
-- *big:* A silkworm makes silk without any factory, at room warmth, from mulberry leaves. What could people learn from the way they do it? (hint: Think about what a plastic factory needs: oil, heat and machines.)
+- *big:* A silkworm makes silk without any factory, at room temperature, from mulberry leaves. What could people learn from the way they do it? (hint: Think about what a plastic factory needs: oil, heat and machines.)
 
 ## Story: Ammachi's Rubber Sheets
-*A made-up story about real work. Rubber tapping in Kerala happens in the early morning, the thin cut, the cup, setting latex with a weak acid, rolling and smoke-drying sheets are all as rubber farmers do them.*
+*A made-up story about real work. Rubber farmers in Kerala tap their trees in the early morning. They make a thin cut and collect the latex in a cup. They set the latex with a weak acid, roll it into sheets and dry the sheets in smoke. The story shows all of this as it is really done.*
 
 It was the summer holidays, and Meenakshi had come from Chennai to stay with Ammachi, her grandmother, in a village near Kottayam. Ammachi's house stood at the edge of a rubber estate. Rows of tall, thin trees went up the hill, all leaning a little the same way.
 
@@ -191,9 +191,9 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
   *Child mode:* Put the three headings in a row. Mix up the cards.
 - **s2 (3 min)**  
   *Parent does:* Take out the card 'A rubber band' and play it as a practice round. Then put it back in the pile.  
-  *Parent says:* Practice card: a rubber band. Where does it go?  
-  *Child mode:* Practice card: a rubber band. Where does it go?
-  - Check: Where does a rubber band go? → **Made by living beings**
+  *Parent says:* This is a practice card: a rubber band. Which heading does it go under?  
+  *Child mode:* This is a practice card: a rubber band. Which heading does it go under?
+  - Check: Which heading does a rubber band go under? → **Made by living beings**
 - **s3 (10 min)**  
   *Parent does:* Play until the pile is gone.  
   *Parent says:* Your turn. Read the card, put it under a heading, and say why.  
@@ -201,9 +201,9 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 ### g2 · Link Up: build the longest chain (20 min)
 - **rules:** Each player starts with no links. Shuffle the question cards and put them face down in a pile.; On your turn, another player reads you a card. Playing alone, read it yourself and check the back.; Answer right, and add one link to your chain. Answer wrong, and the turn passes on.; Put each used card in a discard pile. If the pile of cards runs out, shuffle the discard pile and carry on.; If you get two right in a row, you may make a cross-link: choose another player, and you both add one extra link. Playing alone, there are no cross-links.; The first chain with 10 links is a polymer, and that player wins. Playing alone, try to make 10 links before you have gone through the cards twice.
 - **Printable cards: 16 question cards to cut out (the answer is on the back):** What is a polymer? (back: A very long molecule made of many small pieces joined in a chain); What does borax do to glue? (back: It ties the glue's long molecules to each other); Name a polymer made by a plant. (back: Cotton, rubber, starch, paper, jute or wood); Name a polymer made by an animal. (back: Silk, wool, hair or spider silk); Why does slime snap when you pull it fast? (back: The ties break before they can join again); What is a monomer? (back: One of the small pieces that join up to make a polymer); Why does a rubber tree make latex? (back: It seals cuts in the bark and gums up biting insects); What is a cross-link? (back: A tie between two polymer chains); What do factories add to rubber to make tyres? (back: Sulfur, which ties the rubber chains together); Most plastic is made from what? (back: Oil or natural gas); Why does plastic last so long in soil? (back: Very few living beings can break its chains); Who showed that giant molecules are real? (back: Hermann Staudinger, a German chemist); Which slime spreads less: few ties or many ties? (back: Many ties); What are silk, wool and hair all made of? (back: Protein); What happens to slime left on an open plate? (back: Its water evaporates and it goes hard); In a stretched milk packet strip, what happens to the chains? (back: They straighten and line up side by side)
-- **Printable tokens: Links: paper clips, or paper strips looped into a paper chain, ten for each player:** Paper clips: 10 for each player. If you have none, cut 10 small paper squares for each player and lay them in a row as your chain.
+- **Printable tokens: Links: 10 paper clips or 10 small paper squares for each player:** Paper clips: 10 for each player. If you have none, cut 10 small paper squares for each player and lay them in a row as your chain.
 - **s1 (2 min)**  
-  *Parent does:* 1. Give each player 10 paper clips or paper squares to take from, and keep the pile in the middle. 2. Shuffle the cards face down.  
+  *Parent does:* 1. Give each player a pile of 10 paper clips or paper squares. A player takes one from their pile each time they add a link to their chain. 2. Shuffle the cards and put them face down.  
   *Parent says:* Each right answer adds one small piece to your chain, the way monomers join to make a polymer.  
   *Child mode:* Take your paper clips. Mix up the cards. Each right answer adds a link to your chain.
 - **s2 (18 min)**  
@@ -233,12 +233,12 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - **s3 (3 min)**  
   *Parent does:* Ask for a guess and a reason before adding any borax. Write the guess down.  
   *Parent says:* We will add 1 teaspoon of borax water to the first cup, 3 to the second and 6 to the third. Which cup will make the firmest slime? Which will spread most on a plate? Why do you think so?  
-  *Child mode:* Cup 1 gets 1 teaspoon. Cup 3 gets 3. Cup 6 gets 6. Which will be firmest? Why? Write your guess.
+  *Child mode:* Cup 1 gets 1 teaspoon of borax water. Cup 3 gets 3 teaspoons. Cup 6 gets 6 teaspoons. Which slime will be firmest? Why? Write your guess.
   - Note: Wait for a guess and a reason. Any reason is good. Do not explain cross-links yet.
 - **s4 (6 min) · grown-up needed**  
   *Parent does:* 1. Add 1 teaspoon of borax water to cup 1, 3 teaspoons to cup 3 and 6 teaspoons to cup 6. 2. Stir each cup for one full minute, counting to 60. 3. Watch what happens to the glue.  
   *Parent says:* Let's add the borax water and stir each cup for one minute. Watch the glue closely as you stir. What do you see happening?  
-  *Child mode:* Add the teaspoons. Stir each cup and count to 60. What happens to the glue?
+  *Child mode:* A grown-up adds the borax water. Stir each cup and count to 60. What happens to the glue?
   - Ask: What happened to the glue as you stirred? (good: It got thick and lumpy.; It came together into a clump.; It stuck to the spoon and pulled away from the cup.)
   - Note: A grown-up spoons out the borax water. The glue should clump within a few seconds. Cup 1 may stay sticky and stringy, or never become a ball. That is a result too, so write it down. Cup 6 may leave a little water at the bottom: pour that away.
 - **s5 (5 min)**  
@@ -259,10 +259,11 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
   - Ask: What happened when you pulled slowly, and when you pulled fast? (good: Slowly, it stretched into a long thread.; Fast, it snapped with a clean edge.)
   - Note: Pulled slowly, slime makes a long thin thread. A quick tug snaps it. The ties between chains keep letting go and joining again, which takes a moment. A slow pull gives them time. A fast pull breaks them first.
 - **s8 (3 min)**  
-  *Parent does:* Ask for a claim, the evidence and a reason. Then read the explanation card on borax and slime together.  
+  *Parent does:* Ask your child what they found, what they saw that shows it, and why they think it happened. Then read the explanation card 'How borax turns glue into slime' together.  
   *Parent says:* What did you find? Say it like a scientist: what you think, what you saw, and why.  
   *Child mode:* Say what you found. What did you see? Why do you think it happened?
   - Ask: Does more borax make firmer slime? What is your evidence? (good: Yes. The ball from cup 6 spread least.; The ball from cup 1 was runny and spread most.)
+  - Note: Each borax tie joins two chains. Every chain is so long that a few ties along it join it to many others. So a tiny amount of borax can join all the chains in the cup into one net.
   - Think: Borax was only a small part of each cup. How could so little change the whole slime?
 - **s9 (0 min) · grown-up needed**  
   *Parent does:* 1. Put the slimes in the lidded box. 2. Wash all hands, cups and spoons with soap. 3. Throw old slime in the dustbin, not down the sink.  
@@ -276,14 +277,14 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - **record:** Fill in the table. Draw a balloon and mark with a tick where the skewer went in safely and a cross where it popped.
 - **results table:** Balloon | Where the skewer went in | Popped? (yes or no)
 - **s1 (4 min)**  
-  *Parent does:* 1. Blow up a balloon until it is about three-quarters full, not tight. 2. Tie the knot. 3. Look at the top, opposite the knot, and near the knot. 4. Mark both places with the marker.  
+  *Parent does:* 1. Blow up a balloon until it is about three-quarters full, not tight. 2. Tie the knot. 3. Look at two places: the top of the balloon, opposite the knot, and the rubber near the knot. 4. Mark both places with the marker.  
   *Parent says:* Look closely at the balloon. Where is the rubber darker and thicker? That is where it is stretched least.  
   *Child mode:* Blow up a balloon, not too big. Look at the top and near the knot. Where is the rubber darker?
   - Note: The top of the balloon has a darker, thicker spot. The rubber near the knot is thicker too. On the sides, the rubber is stretched thin and looks paler.
 - **s2 (3 min)**  
   *Parent does:* Ask for a guess and a reason for each place: the side, the knot end and the dark top.  
   *Parent says:* If the skewer goes into the side, will it pop? What about the knot end? Why do you think so?  
-  *Child mode:* Will it pop if the skewer goes in the side? What about the thick end? Why?
+  *Child mode:* Will the balloon pop if the skewer goes in the side? What about the thick end near the knot? Why?
 - **s3 (5 min) · grown-up needed**  
   *Parent does:* 1. Dip the skewer point in oil. 2. Hold the balloon gently. 3. Push the point into the thick rubber near the knot, twisting slowly as you push. 4. Keep going and push it out through the dark spot at the top. 5. If the balloon stays up, repeat on a second new balloon.  
   *Parent says:* We twist the skewer in slowly, near the knot. Let's see if the rubber stretches around it.  
@@ -296,7 +297,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
   - Ask: Why did the side pop, when the ends did not? (good: The rubber on the side is already stretched thin.; At the ends the rubber was thicker and could stretch more around the skewer.)
   - Note: The side almost always pops at once. Pick up every piece of rubber.
 - **s5 (4 min)**  
-  *Parent does:* Ask for a claim, the evidence and a reason. Talk about the rubber's long chains.  
+  *Parent does:* Ask your child what they found, what they saw that shows it, and why they think it happened. Talk about the rubber's long chains.  
   *Parent says:* Rubber is made of long, coiled chains. Where the rubber is thick, the chains still have room to stretch. Where it is thin, they are stretched almost as far as they go. What did you find?  
   *Child mode:* Say what you found. Where did the skewer go in safely? Why?
   - Check: Why can the rubber near the knot hold a skewer without bursting? → **Its long chains are not yet stretched much, so they can stretch around the skewer**
@@ -328,10 +329,10 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
   *Child mode:* Measure each square. Write it down. Which grew most?
   - Note: Stretched squares are often 3 or 4 cm long, while others are still about 1 cm.
 - **s5 (3 min)**  
-  *Parent does:* Ask for a claim, the evidence and a reason.  
+  *Parent does:* Ask your child what they found, what they saw that shows it, and why they think it happened.  
   *Parent says:* Polythene chains start out coiled and tangled. Where the strip went narrow, the chains were pulled straight and lined up side by side. Lined-up chains are harder to stretch further. So the pull moved on to the next part. What did you find?  
   *Child mode:* Say what you found. Did every part stretch the same? Why not?
-  - Check: Why did the narrow part stop stretching and the stretch move on along the strip? → **Its chains were pulled straight and lined up, so it got harder to stretch**
+  - Check: The narrow part stopped stretching, and the next part of the strip began to stretch. Why? → **Its chains were pulled straight and lined up, so it got harder to stretch**
 
 ## Activities
 ### a1 · Noodles and Rice: a model of long molecules (10 min)
@@ -350,9 +351,10 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
   *Parent says:* Water and sugar are made of small molecules, a bit like the rice grains. Glue, plastic and rubber are made of very long molecules, more like the noodles. What do you think long molecules do when they are crowded together?  
   *Child mode:* Rice is like small molecules. Noodles are like long ones. What do long ones do together?
   - Ask: Why might a liquid made of long molecules drip slowly? (good: The long molecules tangle.; They hold on to each other, so they cannot slide past easily.)
+  - Note: Tied noodles would stay together in one heap and could not slide apart. That is what borax does to glue.
   - Think: If you tied some noodles to each other with thread, what would the heap be like?
 ### a2 · Isabgol Jelly: a slime a plant made (20 min)
-- **safety:** A grown-up does the heating. Let the slime cool for 10 minutes before touching it, because it holds heat.
+- **safety:** A grown-up does the heating. Let the jelly cool for 10 minutes before touching it, because it holds heat.
 - **s1 (3 min)**  
   *Parent does:* 1. Look closely at a pinch of dry isabgol. 2. Drop a pinch into a spoon of water and wait one minute.  
   *Parent says:* Isabgol is the thin outer coat of a tiny seed. The plant grows in dry places. What do you think the coat does with water?  
@@ -366,7 +368,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - **s3 (10 min)**  
   *Parent does:* 1. Let it cool for 10 minutes. 2. Pick it up and pull it slowly. 3. Compare it with the borax slime, if you made one.  
   *Parent says:* Now pull it slowly. Is it like the borax slime? What is the same, and what is different?  
-  *Child mode:* Is it cool? Pick it up. Pull it slowly. Is it like your other slime?
+  *Child mode:* Is it cool? Pick it up. Pull it slowly. Is it like the borax slime?
   - Ask: Why can isabgol make slime without any borax? (good: It is already made of long molecules.; The plant made long chains that hold on to each other and to water.)
   - Note: Isabgol slime is a wobbly, wet jelly. It is less bouncy than borax slime and may only make short strings when pulled slowly. Throw it in the dustbin after a day.
 ### a4 · The Burn Test: silk, wool, cotton or plastic? (15 min)
@@ -396,6 +398,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
   *Parent says:* Do things with the same number feel alike? What is different about number 4 and number 5?  
   *Child mode:* Put things with the same number together. Do they feel alike?
   - Ask: Why do plastics with different numbers feel different? (good: They are different polymers.; Their chains are made of different small pieces.)
+  - Note: Number 4 plastic is soft and bends, like a packet. Number 5 is stiffer, like a tub or a bucket. They are different polymers, made of different small pieces.
 
 ## Projects
 ### p1 · The Slime Diary: what happens to slime left in the air? (30 min, 4 days)
@@ -414,7 +417,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
   - Wait: Do this on day 2 and again on day 3.
 - **s3 (10 min)**  
   *Parent does:* 1. Compare both balls. 2. Knead 5 drops of water into the dry one. 3. See whether it softens.  
-  *Parent says:* The open one lost its water. Without water between them, the chains cannot slide. Can a little water bring it back?  
+  *Parent says:* The ball on the open saucer lost its water. Without water between them, the chains cannot slide. Can a little water bring it back?  
   *Child mode:* Compare the balls. Add 5 drops of water to the dry one. Squish it. Does it get soft again?
   - Note: The open ball usually turns stiff, then hard and cracked. Water may soften its outside a little. The boxed ball stays stretchy for many days.
   - Wait: Day 4.
@@ -427,7 +430,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - **general:** Add more borax water, so there are more ties between the chains.; Use less extra water in the glue.; Knead the slime longer so it is smooth.
 - **creative:** Leave the ball on a plate for an hour to dry a little on the outside.; Roll the ball very round and smooth, so it lands evenly.; Try a ball half the size. Does size change the bounce?
 - **s1 (5 min)**  
-  *Parent does:* 1. Make a ball from your cup 3 slime. 2. Hold a ruler upright on the plate. 3. Drop the ball from 30 cm. 4. Watch how high it bounces.  
+  *Parent does:* 1. Make a ball from the cup 3 slime you made in the Borax Test. 2. Hold a ruler upright on the plate. 3. Drop the ball from 30 cm. 4. Watch how high it bounces.  
   *Parent says:* Let's see how well our first slime bounces. Watch the ruler closely.  
   *Child mode:* Drop your slime ball from the top of the ruler. How high does it bounce?
 - **s2 (20 min) · grown-up needed**  
@@ -451,19 +454,20 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
   *Child mode:* Tie one thin strip to the bottle. Lift it gently. Does it hold?
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* 1. Plan a stronger rope. 2. Cut, twist or plait it. 3. Test it on the bottle.  
-  *Parent says:* What will make the rope stronger? Remember how the stretched part of the strip got harder to stretch.  
+  *Parent says:* What will make the rope stronger? In the Milk Packet Stretch, the part of the strip that stretched got harder to stretch further.  
   *Child mode:* Make a stronger rope. Twist or plait it. Test it on the bottle.
 - **s3 (5 min)**  
   *Parent does:* Show and explain the rope.  
-  *Parent says:* Why does your rope hold more than one strip? What is happening to the long chains?  
+  *Parent says:* Why can your rope lift more than a single strip can? What is happening to the long chains?  
   *Child mode:* Show your rope. Why is it strong?
+  - Note: In a twisted or plaited rope, many strips share the load, so no single strip has to hold it all. Pulling a strip slowly also lines up its chains, which makes it stronger.
 
 ## Worksheets
 ### Long Chains (core) (core, 15 questions)
 1. (mcq) What is a polymer?  
    Options: A very long molecule made of many small pieces joined in a chain / A very small, round molecule / A kind of metal / A liquid that never flows  
    **Answer:** A very long molecule made of many small pieces joined in a chain. *Why:* A polymer is a very long chain molecule. 'Poly' means many. A strong answer could add an example, such as silk or plastic.
-2. (sort) Lakshmi, a girl in Class 3 in Mysuru, finds these things at home. Sort each one: is it made of polymers or not?  
+2. (sort) Here are some things found at home. Sort each one: is it made of polymers or not?  
    **Answer:** a woollen shawl → Polymer; a steel tumbler → Not a polymer; a plastic bucket → Polymer; a spoon of salt → Not a polymer; a cotton gamosa → Polymer; a glass of water → Not a polymer; a sheet of newspaper → Polymer; a copper wire → Not a polymer. *Why:* Wool, plastic, cotton and paper are made of long chain molecules. Steel and copper are metals, salt is small pieces packed in a pattern, and water molecules are tiny. A strong answer sorts by what the thing is made of, not by whether it is soft or hard.
 3. (fill) A tie between two polymer chains is called a ____.  
    **Answer:** ['cross-link']. *Why:* A cross-link joins one chain to another. Borax makes cross-links in slime, and sulfur makes them in tyres.
@@ -488,7 +492,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 12. (truefalse) Slime pulled slowly stretches into a long thread, but a quick tug snaps it.  
    **Answer:** True. *Why:* True. The ties in slime keep letting go and joining again, which takes a moment. A slow pull gives them time. A fast pull breaks them first.
 13. (perspective) Two friends in Chennai are arguing about the borax test.  
-   **Answer:** A strong answer sides mostly with Kavitha: the long chains in slime come from the glue, and the borax was only a few teaspoons. It also gives Divya her due: without borax there is no slime, so borax is part of it.. *Why:* Both have a point. The slime's long molecules are the glue's, but the ties are the borax's. Slime is chains and ties together.
+   **Answer:** A strong answer sides mostly with the second child: the long chains in slime come from the glue, and the borax was only a few teaspoons. It also gives the first child her due: without borax there is no slime, so borax is part of it.. *Why:* Both have a point. The slime's long molecules are the glue's, but the ties are the borax's. Slime is chains and ties together.
 14. (fill) Most plastic is made from oil or natural ____.  
    **Answer:** ['gas']. *Why:* Small molecules from oil and natural gas are joined into long chains in factories to make plastic.
 15. (label) Label the parts of this picture of slime: a polymer chain, a cross-link, and water between the chains.  
@@ -502,9 +506,9 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
    **Answer:** The ties in slime keep breaking and joining again, but the ties in vulcanised rubber stay. *Why:* In slime, the borax ties let go and join again, so the chains slowly slide and the slime flows. In vulcanised rubber, sulfur makes ties that stay, so a tyre or a band keeps its shape.
 3. (write) Borax was only a few teaspoons in a cup of glue, but it changed the whole cup into slime. Explain how so little could change so much.  
    **Answer:** Each tie joins two long chains. Because every chain is so long, a few ties along each one are enough to join every chain to others. Then the whole cup is one net.. *Why:* A strong answer uses the length of the chains: long chains need only a few ties each to make one net.
-4. (mcq) Shabnam, a girl in Hyderabad, pulls a strip of milk packet slowly. One part goes narrow and long. As she keeps pulling, what happens next?  
-   Options: The narrow part spreads along the strip, while the narrow part itself stops stretching / The whole strip stretches evenly / The strip snaps at once / The strip gets shorter  
-   **Answer:** The narrow part spreads along the strip, while the narrow part itself stops stretching. *Why:* In the narrow part, the chains line up and get harder to stretch, so the stretch moves on into the next part.
+4. (mcq) You pull a strip of milk packet slowly. One part goes narrow and long. As you keep pulling, what happens next?  
+   Options: The narrow part grows along the strip into the next part, and the part that already went narrow stops stretching / The whole strip stretches evenly / The strip snaps at once / The strip gets shorter  
+   **Answer:** The narrow part grows along the strip into the next part, and the part that already went narrow stops stretching. *Why:* In the narrow part, the chains line up and get harder to stretch, so the stretch moves on into the next part.
 5. (write) Why might a thrown-away plastic bag still be whole after many years in the soil, when a banana peel rots in a few weeks?  
    **Answer:** Microbes in soil can break the chains in a peel, which they have fed on for millions of years. Very few living beings can yet break plastic chains.. *Why:* A strong answer is about who can break the chains, not only about plastic being 'strong'.
 6. (truefalse) Every plastic is the same polymer.  
@@ -530,7 +534,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 15. (label) Label the picture of a rubber tree being tapped: the cut, the latex, and the cup.  
    **Answer:** The slanting groove is the cut, the white liquid running down is the latex, and the coconut shell at the bottom is the cup.. *Why:* A strong answer labels all three and could say that the tree makes latex to seal cuts.
 ### Tying, Stretching and Breaking Chains (challenge) (challenge, 15 questions)
-1. (write) Rekha, a girl in Coimbatore, says, 'Slime is a liquid, because it spreads out on a plate.' Her brother says, 'Slime is a solid, because it bounces.' Explain why both have a point, using the ties between chains.  
+1. (write) One child says, 'Slime is a liquid, because it spreads out on a plate.' Another child says, 'Slime is a solid, because it bounces.' Explain why both have a point, using the ties between chains.  
    **Answer:** The ties in slime keep breaking and joining again. Over minutes, they let go, so the chains slide and slime flows like a liquid. In a quick bounce, there is no time for them to let go, so slime acts like a solid.. *Why:* A strong answer uses time: slow changes let the ties let go, fast ones do not.
 2. (mcq) Hermann Staudinger added hydrogen to rubber and found it was still made of giant molecules. Why did this matter?  
    Options: If rubber were a loose clump of small molecules, changing it should have broken it into small pieces / It made rubber bouncier / It proved rubber comes from trees / It showed that hydrogen is a polymer  
@@ -547,7 +551,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 7. (truefalse) Weight for weight, spider silk is stronger than steel wire.  
    **Answer:** True. *Why:* True. A thread of spider silk is stronger than a steel wire of the same weight. Scientists are trying to copy how spiders make it.
 8. (write) Nylon was made in 1935, but silkworms have made silk for millions of years. What can people learn from how a silkworm makes silk?  
-   **Answer:** A silkworm makes a strong thread at room warmth, from leaves, with no oil and no big machines. Copying this could make strong fibres that use less energy and break down when thrown away.. *Why:* A strong answer compares the silkworm's way with a factory's way: warmth, raw materials, and what happens to the material afterwards.
+   **Answer:** A silkworm makes a strong thread at room temperature, from leaves, with no oil and no big machines. Copying this could make strong fibres that use less energy and break down when thrown away.. *Why:* A strong answer compares the silkworm's way with a factory's way: warmth, raw materials, and what happens to the material afterwards.
 9. (sort) Sort these by what happens after they are thrown on the soil for a year.  
    **Answer:** a cotton cloth → Mostly rots away; a milk packet → Mostly stays; a sheet of newspaper → Mostly rots away; a nylon thread → Mostly stays; a woollen sock → Mostly rots away; a plastic spoon → Mostly stays. *Why:* Microbes can break the chains of cotton, paper and wool, which living beings made. Plastic chains are new to them, so plastic stays.
 10. (mcq) Isabgol makes a slime with no borax. What does that tell us?  
@@ -566,7 +570,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
    **Answer:** It would probably be very firm and rubbery, and might crumble or leave water behind, because there would be so many ties that the chains could hardly move.. *Why:* A strong answer extends the pattern from the test and says why, using ties between chains. It may add that it should be tested.
 
 ## Videos
-- **From DNA to Silly Putty: The diverse world of polymers - Jan Mattingly** (TED-Ed, 5 min) id `UwRVj9rz2QQ`: A short cartoon of what polymers are, from DNA and rubber to plastic, with clear pictures of chains. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here. Length is approximate.
+- **From DNA to Silly Putty: The diverse world of polymers - Jan Mattingly** (TED-Ed, 5 min) id `UwRVj9rz2QQ`: A short cartoon about what polymers are, from DNA and rubber to plastic, with clear pictures of chains. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here. Length is approximate.
 - **Science Max | SLIME | Polymer** (Science Max - Scholastic, 10 min) id `yZBh_h894IA`: A lively show about making slime and why it is a polymer. Watch for the recipe ideas, but use the safety steps in this unit. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so a parent should check the recipe used before copying it. Length not checked.
 - **How natural Rubber is Made from Trees | Rubber Harvesting and Processing | Rubber Tapping Method** (Discover Agriculture, 10 min) id `1Nd41-plHnk`: Shows rubber tapping, latex dripping into cups, and how latex is set and pressed into sheets, as in the story. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here; which country it was filmed in is not checked. Length not checked.
 
@@ -583,7 +587,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 4. (mcq) What does borax do when it is stirred into white glue?  
    Options: It ties the glue's long molecules to each other / It dries the glue / It melts the glue / It cuts the glue's molecules into short pieces  
    **Answer:** It ties the glue's long molecules to each other. *Why:* Borax makes cross-links between the glue's chains. The tied chains form one net, which is slime.
-5. (mcq) Anjali, a girl in Bengaluru, makes two slimes. One has 2 teaspoons of borax water and one has 5. Which will spread out more on a plate?  
+5. (mcq) You make two slimes. One has 2 teaspoons of borax water and the other has 5. Which will spread out more on a plate?  
    Options: The one with 2 teaspoons / The one with 5 teaspoons / Both the same / Neither will spread  
    **Answer:** The one with 2 teaspoons. *Why:* Fewer teaspoons means fewer ties. The chains can slide more, so the slime spreads more.
 6. (mcq) In a fair test of borax and slime, what should change from cup to cup?  
@@ -598,25 +602,25 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 9. (mcq) Slime pulled slowly makes a long thread. What happens when it is pulled with a quick tug?  
    Options: It snaps / It stretches even longer / It melts / It turns into a liquid  
    **Answer:** It snaps. *Why:* The ties between chains need a moment to let go and re-join. A quick tug breaks them first, so the slime snaps.
-10. (mcq) What did Hermann Staudinger say that most chemists in 1920 did not believe?  
-   Options: Rubber is made of giant molecules: very long chains of atoms / Rubber comes from trees / Rubber is a metal / Rubber cannot stretch  
-   **Answer:** Rubber is made of giant molecules: very long chains of atoms. *Why:* Most chemists thought rubber was a clump of small molecules. Staudinger said it was giant chain molecules, and his tests showed he was right.
+10. (mcq) Rubber can stretch to many times its length and spring back. Which idea about what rubber is made of explains this best?  
+   Options: Very long chains of atoms that can uncoil and coil up again / Tiny round balls packed tightly / It is a kind of metal / Nothing: rubber cannot stretch  
+   **Answer:** Very long chains of atoms that can uncoil and coil up again. *Why:* Long, coiled chains can be pulled straight and then curl back up, like a tangle of springs. Small round pieces could not stretch so far. Scientists once doubted giant chain molecules, but tests showed they are real.
 11. (mcq) Why do factories heat rubber with sulfur to make tyres?  
    Options: Sulfur ties the rubber chains together, so the rubber stays springy in heat / Sulfur makes the rubber black / Sulfur makes the rubber lighter / Sulfur makes the rubber smell nice  
    **Answer:** Sulfur ties the rubber chains together, so the rubber stays springy in heat. *Why:* Sulfur makes cross-links, like borax in slime. The tied chains cannot slide apart, so a tyre keeps its shape on a hot road.
-12. (mcq) Pooja, a girl in Pune, pulls a strip of milk packet slowly and one part goes long and narrow. What happened to the chains in that part?  
+12. (mcq) When you pull a strip of milk packet slowly, one part goes long and narrow. What happens to the chains in that part?  
    Options: They were pulled straight and lined up / They melted / They disappeared / They turned into rubber  
    **Answer:** They were pulled straight and lined up. *Why:* Pulling straightens the coiled chains and lines them up side by side. That part gets harder to stretch.
 
 ## Applications
-- Tyres, chappal soles and rubber gloves are vulcanised rubber.
-- Clothes from cotton, silk, wool, polyester and nylon.
+- Tyres, chappal soles and rubber gloves are made of vulcanised rubber.
+- Our clothes are made from fibres such as cotton, silk, wool, polyester and nylon. All of these are polymers.
 - Milk packets, water bottles, buckets and pipes are different plastics.
-- Paper and cardboard are cellulose, a plant polymer.
-- Starch thickens payasam, kheer and kadhi when it cooks.
+- Paper and cardboard are made of cellulose, a polymer from plants.
+- Starch, a plant polymer, thickens payasam, kheer and kadhi when it cooks.
 - Nappies hold a lot of water because of a polymer that swells into a gel.
 - Doctors use plastic syringes, drip bags and gloves once, to stop germs spreading.
-- Ropes, fishing nets and tennis racket strings are polymer fibres.
+- Ropes, fishing nets and racket strings are made of polymer fibres.
 
 ## Spotted around us
 - A rubber estate in Kerala, with a cup tied to each tree to catch latex.
@@ -629,7 +633,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 ## Open questions
 - **How did the first long-chain molecules, such as RNA, form on the early Earth?** Scientists can join small pieces into short chains in the lab, but nobody knows exactly how long chains first formed before there was life.
 - **Can we make plastics that do everything plastic does, and then break down safely?** Some new plastics break down in compost plants, and in 2016 scientists found bacteria that can digest one kind of plastic. None yet does both jobs everywhere.
-- **Exactly how does a spider make silk so strong at room warmth?** Scientists know which proteins are in spider silk, but copying the way spiders spin silk is still very hard.
+- **Exactly how does a spider make silk so strong at room temperature?** Scientists know which proteins are in spider silk, but copying the way spiders spin silk is still very hard.
 - **How long does a plastic bag really last in the sea?** Plastic has existed for only about a hundred years, so nobody has watched one bag for its whole life. Estimates differ a lot.
 
 ## Questions to ask kids
@@ -655,8 +659,8 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 ## Connected maths
 - In the borax test, the ball from cup 3 was 4 cm wide at the start and 7 cm wide after 3 minutes. The ball from cup 6 was 4 cm wide at the start and 5 cm after 3 minutes. How much more did the cup 3 ball spread than the cup 6 ball? **2 cm more.**. The cup 3 ball grew from 4 cm to 7 cm. 7 minus 4 is 3 cm. The cup 6 ball grew from 4 cm to 5 cm. 5 minus 4 is 1 cm. 3 minus 1 is 2. So the cup 3 ball spread 2 cm more. (queues `math.addition-subtraction.word-problems.L3`)
 - Cup 3 got 3 teaspoons of borax water and cup 6 got 6. How many times as much borax water did cup 6 get? If you made a cup with twice as much as cup 6, how many teaspoons would that be? **Twice as much. A cup with twice as much as cup 6 would get 12 teaspoons.**. 6 divided by 3 is 2, so cup 6 got twice as much. Twice 6 is 12. The pattern 3, 6, 12 doubles each time. (queues `math.multiplication.equal-groups.L3`)
-- Lakshmi, a girl in Class 3, marked a milk packet strip in squares 1 cm long. After she pulled it, square 5 was 4 cm long. How many times longer did square 5 become? If three squares each grew to 4 cm and the other seven stayed 1 cm, how long is the marked part now? **4 times longer. The marked part is now 19 cm long.**. 4 cm divided by 1 cm is 4, so square 5 became 4 times longer. Three squares of 4 cm make 12 cm. Seven squares of 1 cm make 7 cm. 12 plus 7 is 19 cm. (queues `math.length.standard-units-length.L3`)
-- Two friends, Mitali and Aaliya, play Link Up, where each player needs 10 links to win. Mitali has 4 links and Aaliya has 7. Mitali answers two right in a row and makes a cross-link with Aaliya, so they both get one extra link. Mitali also gets one link for each right answer. How many links does each have now? **Mitali has 7 links and Aaliya has 8.**. Mitali gets 2 links for her two right answers: 4 plus 2 is 6. The cross-link gives her 1 more: 6 plus 1 is 7. Aaliya gets 1 extra from the cross-link: 7 plus 1 is 8. (queues `math.addition-subtraction.mental-strategies.L3`)
+- A milk packet strip is marked in squares 1 cm long. After the strip is pulled, square 5 is 4 cm long. How many times longer did square 5 become? If three squares each grew to 4 cm and the other seven stayed 1 cm, how long is the marked part now? **4 times longer. The marked part is now 19 cm long.**. 4 cm divided by 1 cm is 4, so square 5 became 4 times longer. Three squares of 4 cm make 12 cm. Seven squares of 1 cm make 7 cm. 12 plus 7 is 19 cm. (queues `math.length.standard-units-length.L3`)
+- Two friends, Mitali and Aaliya, are playing Link Up. Mitali has 4 links and Aaliya has 7. Mitali answers two questions right in a row, so she adds one link for each right answer. She then makes a cross-link with Aaliya, which gives them one extra link each. How many links does each have now? **Mitali has 7 links and Aaliya has 8.**. Mitali gets 2 links for her two right answers: 4 plus 2 is 6. The cross-link gives her 1 more: 6 plus 1 is 7. Aaliya gets 1 extra from the cross-link: 7 plus 1 is 8. (queues `math.addition-subtraction.mental-strategies.L3`)
 
 ## Song
 Hold On Tight (sci.chemistry.L3): Topic-level song for Chemistry L3

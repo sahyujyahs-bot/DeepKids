@@ -1,7 +1,7 @@
 # Sorting living things: many good ways, and one that finds relatives
 `sci.classification.sorting-living-things.L3`
 
-**Summary.** A green chilli and a cucumber are both green, so a colour sort puts them together. Cut them open, and the chilli's seeds match a tomato's, not the cucumber's. There are many good ways to sort living things, and each one is right for some job. A cook, a farmer and a doctor each sort differently. But one question has a true answer that nobody chooses: which living things are relatives. Relatives share features because they came from the same ancestors. Scientists sort living things by these shared features, into groups inside groups, and people are in those groups too. The biggest groups have changed as scientists found new clues, as Carl Woese did in 1977.
+**Summary.** A green chilli and a cucumber are both green, so a colour sort puts them together. Cut them open, and the chilli's seeds match a tomato's, not the cucumber's. There are many good ways to sort living things, and each one is right for some job. A cook, a farmer and a doctor each sort differently. But there is one kind of sort that nobody chooses, because it has a true answer: which living things are relatives. Relatives share features because they came from the same ancestors. Scientists sort living things by these shared features, into groups inside groups, and people are in those groups too. The biggest groups have changed as scientists found new clues, as Carl Woese did in 1977.
 
 **Intro.** *Put a green chilli, a cucumber and a tomato on a plate. Which two belong together? Most people say the chilli and the cucumber, because both are green. Now look at the tops. The chilli and the tomato both wear a small green cap. The cucumber does not. Which two really belong together?* Both answers are good sorts. Colour is a fine way to sort if you are making a green salad. But the caps are a clue to something else. Tomato and chilli plants are relatives, and the cucumber plant comes from a different family. In this unit you sort living things, people included, in many ways. Then you find out how to sort them by who is related to whom, using clues you can see and feel.
 
@@ -50,11 +50,11 @@ There are about two million kinds of living things with names, and many more wit
 A cook sorts vegetables by how long they take to cook. A shopkeeper sorts them by price. A farmer sorts them by which pests attack them. All three sorts are correct, and they make different groups. A living thing belongs to many groups at once. A bat is in the 'can fly' group with crows, and in the 'has hair' group with cats. Neither group is wrong. When you sort, say your rule out loud, so others know which sort you made.
 - e.g. Sort your family by height, and then by who likes rasam best. The groups change, but nobody changed.
 - e.g. A crow and a mosquito are together in 'can fly', and apart in 'has a backbone'.
-- e.g. A banana is a fruit to a cook. To a botanist, the banana plant is also a close relative of ginger and turmeric plants.
+- e.g. A cook sorts a banana with the fruits. A botanist sorts the banana plant with ginger and turmeric plants, because they are relatives.
 ### People: similar and different · *defined*
 **Definition:** All people are one species. We share the same body plan, and we differ in many small features, such as height, hair, voice and fingerprints.
 
-Every person has a backbone, two arms, two legs, two eyes, a heart and lungs. Every person breathes, eats, grows and sleeps. These are the ways people are similar. People also differ. Some differences we are born with, such as the colour of our eyes. Some come from how we live, such as our languages and how far we can run. You can sort people by any of these features. Each feature makes different groups. No sort makes some people better than others. A sort only tells you how people answered one question.
+Every person has a backbone, two arms, two legs, two eyes, a heart and lungs. Every person breathes, eats, grows and sleeps. These are the ways people are similar. People also differ. Some differences we are born with, such as the colour of our eyes. Some come from how we live, such as our languages and how far we can run. You can sort people by any of these features. Each feature makes different groups. No sort makes some people better than others. A sort only shows how people fall into groups for that one question.
 - e.g. Count the fingers of everyone at home. Everyone has the same number, but the hands are different sizes.
 - e.g. Sort your family by which hand they write with. Then sort them by the month they were born in.
 - e.g. Two sisters can share a birthday month and still be in different groups for height.
@@ -82,7 +82,7 @@ The tomato family includes tomato, brinjal, chilli, capsicum and potato. Their f
 ### Looks can mislead · *defined*
 **Definition:** Living things that are not close relatives can look alike, because they have solved the same problem in the same way.
 
-A crow, a bat and a butterfly all have wings. Each of them had the same problem: how to reach food, and escape danger, through the air. Wings help each of them do that. But their wings are built differently. A crow's wing is an arm covered in feathers. A bat's wing is skin stretched between long fingers. A butterfly's wing is a thin sheet with no bones at all. These wings grew separately in three different families. So 'has wings' is a useful sort for some jobs, but it does not find relatives. To find relatives, scientists look at many features, especially ones that have no clear job. Now they also compare DNA, the instructions in every cell.
+A crow, a bat and a butterfly all have wings. Each of them had the same problem: how to reach food, and escape danger, through the air. Wings help each of them do that. But their wings are built differently. A crow's wing is an arm covered in feathers. A bat's wing is skin stretched between long fingers. A butterfly's wing is a thin sheet with no bones at all. These wings grew separately in three different families. So 'has wings' is a useful sort for some jobs, but it does not find relatives. To find relatives, scientists look at many features, especially how parts are built inside, such as the bones of a wing. Parts that are built the same way inside usually come from a shared ancestor. Now scientists also compare DNA, the instructions in every cell.
 - e.g. Bats feed their babies milk and have fur, so they are mammals, like cats.
 - e.g. Dolphins have fins and live in the sea like fish, but they breathe air and feed their babies milk. They are mammals.
 - e.g. A green chilli and a cucumber are both green, but they are in different families.
@@ -150,13 +150,13 @@ Whatever rule you use, one feature is in every group. A crow notices a cat and f
   Against: People breathe, eat, grow, have hair and feed babies milk, like other mammals. Every scientific sort puts people with the apes.
 - **Sorting people into groups shows that some groups are better.** (An old and harmful idea, used to treat people unfairly; *rejected*)  
   For: Nothing in science supports it.  
-  Against: A sort shows only how people answered one question, such as height or eye colour. People are one species, and any two people are almost the same in their DNA.
+  Against: A sort shows only how people fall into groups for one question, such as height or eye colour. People are one species, and any two people are almost the same in their DNA.
 
 ## Roots
 We have been sorting living things in many ways, and finding which ones are relatives. Now we ask what sorting tells us about ourselves and the world.
 
 **Deep truth.** In Family Clues in the Vegetable Basket, the colour sort put the green chilli with the cucumber. The sort by caps and seeds put the chilli with the tomato and the brinjal. Those three plants share these features because they came from the same ancestor plants. So a living thing's body carries clues to their family, and careful sorting can find them.  
-*Habit it breaks:* We think every sort of living things is a choice we make, or that things which look alike must belong together. Many sorts are useful choices. But which living things are relatives was settled long ago, by who came from whom, and their bodies still show it.  
+*Habit it breaks:* We tend to think that every way of sorting living things is just a choice we make, or that things which look alike must belong together. Many sorts are useful choices. But which living things are relatives was settled long ago, by who came from whom, and their bodies still show it.  
 *Evidence:* In Family Clues in the Vegetable Basket, the colour sort and the cap-and-seed sort made different groups. The cap and the seeds put the chilli with the tomato and the brinjal. Botanists, comparing flowers and DNA, put these three in one family too.
 
 - *who am i:* You are a living thing, an animal, a mammal and a primate, all at once. Your body carries the clues: a backbone, hair, gripping hands.
@@ -271,9 +271,9 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   - Note: Each time someone lays down a family, ask them to read the clue card and name one more food from that family. More examples: bajra and bamboo are grasses; rajma, peas and horse gram (kollu) are beans; ridge gourd and snake gourd are gourds.
 - **s4 (3 min)**  
   *Parent does:* Count the families and ask one question.  
-  *Parent says:* Who has the most families? Now tell me: which family surprised you most?  
-  *Child mode:* Count your families. Which family surprised you most?
-  - Ask: Which member of a family surprised you? (good: Sugarcane is a grass.; Methi is in the bean family.; Watermelon is a gourd.)
+  *Parent says:* Who has the most families? Now pick one member you did not expect to find in its family. Which clue shows that it belongs there?  
+  *Child mode:* Count your families. Pick a surprising member. Which clue shows it belongs?
+  - Ask: Which member surprised you, and which clue shows it belongs? (good: Sugarcane is a grass. Its leaves are long and narrow, with veins side by side.; Methi is in the bean family. Its seeds grow in a row inside a pod.; Watermelon is a gourd. It grows on a vine and has flat, oval seeds.)
 ### g2 · Make a Group (15 min)
 - **rules:** Shuffle the cards and put them face down.; Turn over three cards. (Six rounds use 18 of the 24 cards.); Each player says a rule that puts two cards together and leaves one out. For example: crow, bat and cat. 'Has hair' puts the bat and cat together and leaves out the crow.; The rule must be true and something anyone can check. If players disagree, check it together. If it is still unclear, it scores nothing.; Score 1 point for a true rule, and 2 points if nobody else gave the same rule.; Playing alone: find as many different true rules as you can for each set of three. Write them down.; After 6 rounds, the player with the most points wins. If two players tie, they share the win.
 - **Printable cards: 24 living-thing cards to cut out:** crow [picture]; cat [picture]; bat [picture]; butterfly [picture]; ant [picture]; earthworm [picture]; snail [picture]; fish [picture]; frog [picture]; house lizard [picture]; cow [picture]; child; neem tree [picture]; tulsi plant [picture]; coconut tree [picture]; grass [picture]; mushroom [picture]; curd bacteria; spider [picture]; pigeon [picture]; mosquito [picture]; dolphin [picture]; tortoise [picture]; banana plant [picture]
@@ -426,6 +426,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent does:* Ask where a cat, a crow and a monkey would stop.  
   *Parent says:* Now, which boxes would a cat get into? A crow? A monkey?  
   *Child mode:* Which boxes would a cat get into? A crow? A monkey?
+  - Note: A cat gets into four boxes: living thing, animal, backbone animal and mammal. A crow stops at backbone animal. A monkey gets into all five, because a monkey is a primate.
   - Check: A crow has feathers and a backbone, but no hair. What is the smallest box a crow fits in? → **Backbone animal**
 ### a2 · Same and Different: a table of the people at home (15 min)
 - **record:** Keep the table. Under it, write the groups for each of the three sorts.
@@ -444,7 +445,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent says:* What did every person in the table have, whatever group they were in?  
   *Child mode:* What does every person have, in every group?
   - Ask: What is the same about everyone? (good: Two arms, two legs, two eyes.; A backbone.; Everyone breathes and eats.)
-  - Note: The point is that a sort tells you only how people answered one question. All people share the same body plan. If there are only three people, the groups may change less. That is fine.
+  - Note: The point is that a sort shows only how people fall into groups for one question. All people share the same body plan. If there are only three people, the groups may change less. That is fine.
 ### a3 · Everyone Can Be the Odd One Out (8 min)
 - **record:** Write one reason for each animal.
 - **s1 (4 min)**  
@@ -489,6 +490,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent does:* Ask where the four branches meet.  
   *Parent says:* All four branches join the same trunk. What could the trunk mean?  
   *Child mode:* All the branches join one trunk. What do you think the trunk means?
+  - Note: The trunk is the shared ancestor. All these plants came from the same long-ago ancestor plants, so they are all relatives, even if far-off ones. Far enough back, that ancestor was a single cell.
   - Think: If all plants are relatives, what lived at the bottom of the trunk, long ago?
 ### a6 · Window Count: sort what you see (12 min)
 - **safety:** Stay back from the edge of the balcony. A grown-up stays nearby.
@@ -661,7 +663,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
    Options: Horses and donkeys are one species / Horses and donkeys are two species / Mules are a third species of horse / Nobody knows what a mule is  
    **Answer:** Horses and donkeys are two species. *Why:* Members of one species can usually have young that also have young. Mules almost never do, so horses and donkeys count as two species.
 8. (write) Some people once sorted people into groups to say some groups were better. What does science say?  
-   **Answer:** A sort only shows how people answered one question, such as height. All people are one species, and any two people are almost the same in their DNA. No sort makes anyone better.. *Why:* Sorting is a tool for questions, not a ranking of worth.
+   **Answer:** A sort only shows how people fall into groups for one question, such as height. All people are one species, and any two people are almost the same in their DNA. No sort makes anyone better.. *Why:* Sorting is a tool for questions, not a ranking of worth.
 9. (mcq) Archaea that make methane gas live in which of these places?  
    Options: The mud of rice fields / Only on the Moon / Inside rocks in space / Nowhere on Earth now  
    **Answer:** The mud of rice fields. *Why:* Methane-making archaea live in rice field mud, swamps and the stomachs of cows.
@@ -749,7 +751,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **Are there two domains of life, or three?** Some newer studies suggest that cells with a nucleus grew out of the archaea. Scientists are still collecting evidence.
 - **What did the very first living thing look like?** It lived over 3.5 billion years ago and left no clear fossil. Scientists have ideas but no agreed answer.
 - **Where exactly does one species end and the next begin?** Living things change slowly over many generations, and there is no single test for a species that works for all life.
-- **How do the bodies of relatives stay so alike while each family changes?** Scientists understand a lot about how genes build bodies, but much about how features are kept or changed is still being worked out.
+- **How do relatives keep so many of the same features, while each family also slowly changes?** Scientists understand a lot about how genes build bodies, but much about how features are kept or changed is still being worked out.
 
 ## Questions to ask kids
 - Which two vegetables on your plate today are relatives?
@@ -759,7 +761,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - Which groups do you share with our neighbour's cat?
 - Is the tulsi stem square? Feel it next time you water it.
 - What sort does the vegetable seller use for her baskets? Why?
-- If you were a mushroom, would you rather be called a plant or an animal?
+- Is a mushroom more like a tulsi plant or more like you? Think about how each one gets food.
 - What is one way you and someone you live with are similar, and one way you are different?
 - Rice and sugarcane are both grasses. What else do they share?
 

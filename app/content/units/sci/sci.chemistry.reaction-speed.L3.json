@@ -3,7 +3,7 @@
  "title": "Fast and slow changes: why some happen in a second and some take years",
  "level": 3,
  "summary": {
-  "text": "A sparkler burns out in less than a minute, but an iron gate takes months to rust. Both are chemical reactions: changes that make new substances. Some reactions are fast and some are slow. Heat, smaller pieces and a helper can make a reaction go faster. A helper that speeds up a reaction without being used up is called a catalyst. Hydrogen peroxide sits in its bottle for months, but next to raw potato it fizzes at once. The potato holds a catalyst called catalase, and so do your own blood and cells.",
+  "text": "A sparkler burns out in less than a minute, but an iron gate takes months to rust. Both are chemical reactions: changes that make new substances. Some reactions are fast and some are slow. Heat, smaller pieces and a helper can make a reaction go faster. A helper that speeds up a reaction without being used up is called a catalyst. Hydrogen peroxide sits in its bottle for months, but next to raw potato it fizzes at once. The potato holds a catalyst called catalase. Your own blood and cells hold catalase too.",
   "art": "On one side, a child holding a bright sparkler at night. On the other side, a rusty iron balcony grill. In the middle, a clear glass with white foam rising over grated potato."
  },
  "intro": {
@@ -18,7 +18,7 @@
   "I can explain that a catalyst speeds up a reaction and is not used up, and show it with potato and hydrogen peroxide.",
   "I can run a fair test with three cups, measure the foam, and say what I think, what I saw and why.",
   "I can explain that enzymes are catalysts made by living beings, and say how catalase helps a cell stay safe.",
-  "I can tell how Eduard Buchner showed in 1897 that juice squeezed from ground yeast, holding no whole cells, can still change sugar."
+  "I can tell how Eduard Buchner showed in 1897 that the juice squeezed from ground yeast can still change sugar, although the juice holds no whole cells."
  ],
  "cards_mins": 15,
  "terms": [
@@ -104,9 +104,9 @@
    "definition": "The speed of a reaction is how much new substance it makes in a given time.",
    "description": "Reactions run at very different speeds. The powder in a cracker reacts in a tiny part of a second, so it bangs. A sparkler burns for less than a minute. A dosa browns in about two minutes. A banana skin goes from yellow to spotty in a few days. An iron gate rusts over months. A copper roof or a bronze statue turns green over many years. Scientists measure speed by how fast a new substance appears, or how fast an old one disappears. In the Potato and the Peroxide test, you measure it by how high the foam rises in 2 minutes.",
    "examples": [
-    "Fast: crackers, sparklers, a matchstick flaring, baking soda fizzing in lemon juice.",
-    "In between: a dosa browning, a papad roasting, milk turning brown when boiled down for payasam.",
-    "Slow: a banana ripening, an iron grill rusting, a silver anklet turning dark, a copper vessel going dull."
+    "Fast reactions include crackers, sparklers, a matchstick flaring, and baking soda fizzing in lemon juice.",
+    "In-between reactions include a dosa browning, a papad roasting, and milk turning brown when it is boiled down for payasam.",
+    "Slow reactions include a banana ripening, an iron grill rusting, a silver anklet turning dark, and a copper vessel going dull."
    ],
    "perspectives": [],
    "art": "A long ribbon from left to right with pictures on it: a cracker, a sparkler, a dosa, a banana, a rusty gate and a green statue, with labels from 'a second' to 'years'.",
@@ -160,7 +160,7 @@
    "definition": "",
    "description": "Today most enzymes are proteins. But in 1982 Thomas Cech's team found that some RNA can act as a catalyst too. RNA is a substance that cells use to carry instructions. Some scientists think the very first living things used RNA both to carry instructions and as their catalysts, before protein enzymes existed. This is called the RNA world idea. It is an idea, not settled. Nobody knows yet how the first life began.",
    "examples": [
-    "Inside every cell, the machine that builds proteins, the ribosome, uses RNA to join the building blocks together.",
+    "Every cell has a tiny machine called the ribosome that builds proteins. The ribosome uses RNA to join the building blocks together.",
     "Scientists have made new RNA catalysts in the lab."
    ],
    "perspectives": [
@@ -218,14 +218,14 @@
    "for": "In her 1794 book, Fulhame, a Scottish chemist, wrote that water helps some metal reactions happen and is made again at the end. That is the idea of a catalyst. The word 'catalysis' was made up by Jöns Jacob Berzelius in 1835.",
    "against": "Other historians say her idea was about water only, and was not yet the general idea of a catalyst that chemists use today.",
    "status": "debated",
-   "context": "This card is about who first saw the idea of a catalyst, and how much credit an early idea deserves."
+   "context": "Catalysis means speeding up a reaction with a helper that is not used up, like the potato in the peroxide. This card is about who first saw the idea of a catalyst, and how much credit an early idea deserves."
   }
  ],
  "big_questions": [
   {
    "q": "Hydrogen peroxide can break down into water and oxygen on its own, yet a bottle of it hardly changes for months. Why does a change that can happen take so long?",
    "kind": "deep",
-   "hint": "Think about the particles. Are they still bumping? Why do so few bumps lead to a change?"
+   "hint": "The particles in the bottle are always bumping into each other. But only a few bumps are hard enough to break a peroxide particle apart. So the change happens, but very slowly."
   },
   {
    "q": "Raw potato makes hydrogen peroxide break down fast, and the potato comes out the same. Did the potato take part in the change, or only watch it?",
@@ -455,7 +455,7 @@
      "do": "Ask your child to say or write three things: what I think, what I saw, and why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?",
      "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
-     "parent": "A strong answer sounds like this. 'I think raw potato has something that makes peroxide break down fast. The raw cup made 25 mm of foam, the boiled cup 2 mm and the plain cup none. Cooking must spoil the helper.' Now read the card 'A catalyst speeds up a reaction and is not used up' together.",
+     "parent": "A strong answer sounds like this. 'I think raw potato has something that makes peroxide break down fast. The raw cup made 25 mm of foam, the boiled cup 2 mm and the plain cup none. Cooking must spoil the helper.' Now read the card 'A catalyst speeds up a reaction and is not used up' together. For the extra question, one answer is that old peroxide foams less with potato, because some of it has already broken down. So you could compare a fresh bottle with an old one.",
      "think": "The peroxide in the plain cup was breaking down too, just too slowly to see. How could you find out?"
     }
    ]
@@ -825,6 +825,7 @@
      "do": "Read out the rough times. Move any card that is in the wrong place. Talk about the surprises.",
      "say": "Which card moved the most? Which change surprised you? Rust and the sparkler both use oxygen from the air. Why is one so slow?",
      "kid": "Which card moved most? Which one surprised you?",
+     "parent": "Rust is slow because iron and oxygen react slowly at room warmth, and only the outside of the iron touches the air. A sparkler is very hot and made of fine powder, so it reacts in seconds.",
      "check": {
       "t": "mcq",
       "q": "Where does the 'Idli batter rises' card go on the ribbon?",
@@ -1003,6 +1004,7 @@
      "do": "Explain what was happening, after your child has said what they noticed.",
      "say": "Your saliva has an enzyme called amylase. It is a catalyst. It breaks the starch in rice into sugar. Why do you think your body starts this in the mouth?",
      "kid": "Your saliva has a helper. It breaks starch into sugar. Why do you think your body starts this in the mouth?",
+     "parent": "Starting to break starch down in the mouth gives the body a head start. Small sugars are easier for the body to use than long starch chains. This is a guess, so any sensible idea is fine.",
      "check": {
       "t": "mcq",
       "q": "Why does chewed rice start to taste sweet?",
@@ -1219,7 +1221,7 @@
    ],
    "creative": [
     "Warm the cup a little by standing it in a bowl of warm tap water, not hot, before adding the potato.",
-    "Try mixing the potato with the peroxide using a spoon for a few seconds.",
+    "Stir the potato into the peroxide with a spoon for a few seconds, so more of the potato touches the peroxide.",
     "Cut a fresh potato and grate it just before you start, so the catalase has had no time to change."
    ],
    "your_turn": "Now design your own way. Write down your plan, test it, and measure. Then change one thing and test again.",
@@ -1335,7 +1337,8 @@
      "mins": 5,
      "do": "Put both cards on the sunny windowsill, one covered and one not.",
      "say": "Why do we need the uncovered card too?",
-     "kid": "Put both cards in the sun. One covered. One not."
+     "kid": "Put both cards in the sun. One covered. One not.",
+     "parent": "The uncovered card shows how much the yellow fades with no cover at all. Then we can see what the cover did."
     },
     {
      "id": "s4",
@@ -1474,7 +1477,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Play until someone has 6 points. After each round, ask why that change was faster.",
-     "say": "Why do you think the dosa is faster than the idli batter? Is heat helping?",
+     "say": "Why was that change faster? Was there heat, or were the pieces small?",
      "kid": "Pick the faster change. Say why. Flip to check.",
      "parent": "When a heated change beats an unheated one, point out the heat. When a powder beats a piece, point out the surface."
     },
@@ -1482,8 +1485,9 @@
      "id": "s3",
      "mins": 2,
      "do": "End with one question.",
-     "say": "Which two cards were hardest to tell apart? Why?",
-     "kid": "Which two cards were hardest? Why?"
+     "say": "Which card was the slowest change? What do you think made it so slow?",
+     "kid": "Which card was the slowest? Why was it so slow?",
+     "parent": "The slowest cards, such as the bronze statue turning green, react at room warmth, and only the outside of the metal touches the air."
     }
    ]
   },
@@ -2643,7 +2647,7 @@
    "what_is_life": "A living being cannot heat themselves up like a stove to make their changes fast. So every living being, from yeast to a potato to you, makes enzymes to do it.",
    "what_is_this_world": "Everything around you is changing, some things in a second and some over many years. Iron grills, silver anklets and even rocks are changing now, only slowly."
   },
-  "thread": "A bottle of peroxide looks still, but it is breaking down a little all the time. Every substance can change in some way, and most of these changes are too slow to see. A catalyst lets a change that was already possible happen now, and then the catalyst is free again. One small helper can change millions of particles.",
+  "thread": "A bottle of peroxide looks still, but it is breaking down a little all the time. Every substance can change in some way, and most of these changes are too slow to see. A catalyst makes a change that was already possible happen quickly, and then the catalyst is free to help again. One small helper can change millions of particles.",
   "teachings": [
    {
     "source": "Heraclitus, fragment 12 (Diels-Kranz numbering), about 500 BCE",
@@ -2653,7 +2657,7 @@
    {
     "source": "The Buddha, Dhammapada 277",
     "teaching": "All made things do not last. When one sees this with wisdom, one turns away from suffering.",
-    "link": "Rust, fading colours and darkening silver show that made things slowly change. Speed is the only difference between a sparkler and a rusting gate."
+    "link": "Rust, fading colours and darkening silver show that made things slowly change. A sparkler and a rusting gate are both changes with oxygen. The main difference is how fast they go."
    },
    {
     "source": "Tao Te Ching 17",
@@ -2673,7 +2677,7 @@
   ],
   "other_view": {
    "who": "Many chemists",
-   "view": "A catalyst is simply a substance that offers an easier path for a reaction. It is a useful tool, and reading lessons about leaders or helpers into it says more about people than about chemistry."
+   "view": "A catalyst is simply a substance that offers an easier path for a reaction. It is a useful tool. Reading lessons about leaders or helpers into it tells us about people, not about chemistry."
   },
   "practice": {
    "title": "Watch a slow change",
