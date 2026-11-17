@@ -6674,35 +6674,26 @@ body {
 .fxstart {
   width: 100%;
 }
-.fxtiles {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  gap: 10px;
-  margin-top: 4px;
+/* unit page: one list of parts, grouped by kind, with a row of chips that jump to each group */
+.fxjump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
 }
-.fxtile {
-  display: grid;
-  justify-items: center;
-  gap: 2px;
-  padding: 14px 6px 12px;
-  border: 0;
-  border-radius: 18px;
-  background: var(--surface);
-  box-shadow: var(--shadow);
-  color: var(--ink);
-  font: inherit;
+.fxgroup h2 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 18px 0 8px;
 }
-.fxtile .ico {
-  width: 28px;
-  height: 28px;
-  margin-bottom: 4px;
+.fxgroup h2 .ico {
+  width: 24px;
+  height: 24px;
   color: var(--kc);
 }
-.fxtile b {
-  font: 600 var(--fs-3) var(--body);
-}
-.fxtile span {
-  font: 500 var(--fs-2) var(--body);
+.fxgroup h2 span {
+  margin-left: auto;
+  font: 500 var(--fs-3) var(--body);
   color: var(--muted);
 }
 .fxparts button {
@@ -15232,21 +15223,23 @@ function fxMap() {
     groups = [...new Set(SL.map((s) => fxGroup(s.kind)))];
   d.innerHTML = `<div class="fxmap"><div class="fxcover">${fxImg(u, "summary", u.summary.art, "fxhero")}<button class="fxround" data-fx="close" aria-label="Close">${icon("back")}</button></div>
     <div class="fxin fxsheetp"><span class="fxeb2">${esc(u.id.split(".")[1].replace(/-/g, " "))} · Class ${cls}</span><h1>${esc(u.title)}</h1><p class="fxsum">${esc(u.summary.text)}</p><button class="link sm" data-fx="sum">Read all</button>
-    <div class="fxpills">${SD ? `<span>${icon("today")}About ${SD} session${SD === 1 ? "" : "s"}</span>` : ""}<span>${SL.length} parts · about ${Math.max(1, Math.round(tot / day))} days</span>${ref ? `<span>${esc(ref)}</span>` : ""}</div>
+    <div class="fxpills">${SD ? `<span>${icon("today")}About ${SD} session${SD === 1 ? "" : "s"}</span><span>${SL.length} parts</span>` : `<span>${SL.length} parts · about ${Math.max(1, Math.round(tot / day))} days</span>`}${ref ? `<span>${esc(ref)}</span>` : ""}</div>
     ${done || spent ? `<div class="fxbar"><i style="width:${(100 * done) / SL.length}%"></i></div><p class="fxsm">${done} of ${SL.length} parts done · ${fxMin(spent)} spent. ${fxScore(u)}</p>` : ""}
     ${cont >= 0 && cont < SL.length ? `<button class="btn big fxstart" data-fx="sec" data-s="${cont}" data-c="${pos.c || 0}">${icon("play")}Continue: ${fxKC(SL[cont].kind)[0]}</button>` : `<button class="btn big fxstart" data-fx="sec" data-s="0">${icon("play")}Start</button>`}
-    <div class="fxtiles">${groups
+    <div class="fxjump">${groups.map((g) => `<button class="chip" data-fx="jump" data-g="${g}">${FXKC[g][4]}</button>`).join("")}</div>
+    ${groups
       .map((g) => {
         const L = SL.filter((s) => fxGroup(s.kind) === g),
           n = L.filter((s) => fxSecState(u, s) === "done").length;
-        return `<button class="fxtile" data-fx="sec" data-s="${SL.indexOf(L[0])}" style="--kc:${FXKC[g][2]}">${icon(FXKC[g][3])}<b>${FXKC[g][4]}</b><span>${n ? `${n} of ${L.length} done` : `${L.length} part${L.length === 1 ? "" : "s"}`}</span></button>`;
+        return `<section class="fxgroup" data-g="${g}" style="--kc:${FXKC[g][2]}"><h2>${icon(FXKC[g][3])}${FXKC[g][4]}<span>${n ? `${n} of ${L.length} done` : `${L.length} part${L.length === 1 ? "" : "s"}`}</span></h2><ol class="fxparts">${L.map(
+          (s) => {
+            const st = fxSecState(u, s),
+              [, , kc, ki] = fxKC(s.kind);
+            return `<li><button data-fx="sec" data-s="${SL.indexOf(s)}" class="${st}" style="--kc:${kc}"><span class="fxpe">${icon(st === "done" ? "check" : ki)}</span><span><b>${esc(s.title)}</b><span class="fxsm">${s.mins} min planned${T[s.id] ? ` · ${fxMin(T[s.id])} spent` : ""}</span></span>${icon("next")}</button></li>`;
+          },
+        ).join("")}</ol></section>`;
       })
-      .join("")}</div>
-    <h2>All the parts</h2><ol class="fxparts">${SL.map((s, i) => {
-      const st = fxSecState(u, s),
-        [kn, , kc, ki] = fxKC(s.kind);
-      return `<li><button data-fx="sec" data-s="${i}" class="${st}" style="--kc:${kc}"><span class="fxpe">${icon(st === "done" ? "check" : ki)}</span><span><b>${esc(s.title)}</b><span class="fxsm">${kn} · ${s.mins} min planned${T[s.id] ? ` · ${fxMin(T[s.id])} spent` : ""}</span></span>${icon("next")}</button></li>`;
-    }).join("")}</ol></div></div>`;
+      .join("")}</div></div>`;
 }
 function fxShowSection(si, ci) {
   const u = FXU,
@@ -15631,6 +15624,10 @@ function fxClick(e) {
   if (a === "close") return fxClose();
   if (a === "map") return fxMap();
   if (a === "sec") return fxGo(+b.dataset.s, +(b.dataset.c || 0));
+  if (a === "jump")
+    return [...d.querySelectorAll(".fxgroup")]
+      .find((x) => x.dataset.g === b.dataset.g)
+      ?.scrollIntoView({ behavior: "smooth" });
   if (a === "sum") {
     b.textContent = d.querySelector(".fxsum").classList.toggle("open") ? "Show less" : "Read all";
     return;

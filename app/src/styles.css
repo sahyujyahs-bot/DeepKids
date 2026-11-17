@@ -6668,35 +6668,26 @@ body {
 .fxstart {
   width: 100%;
 }
-.fxtiles {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  gap: 10px;
-  margin-top: 4px;
+/* unit page: one list of parts, grouped by kind, with a row of chips that jump to each group */
+.fxjump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
 }
-.fxtile {
-  display: grid;
-  justify-items: center;
-  gap: 2px;
-  padding: 14px 6px 12px;
-  border: 0;
-  border-radius: 18px;
-  background: var(--surface);
-  box-shadow: var(--shadow);
-  color: var(--ink);
-  font: inherit;
+.fxgroup h2 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 18px 0 8px;
 }
-.fxtile .ico {
-  width: 28px;
-  height: 28px;
-  margin-bottom: 4px;
+.fxgroup h2 .ico {
+  width: 24px;
+  height: 24px;
   color: var(--kc);
 }
-.fxtile b {
-  font: 600 var(--fs-3) var(--body);
-}
-.fxtile span {
-  font: 500 var(--fs-2) var(--body);
+.fxgroup h2 span {
+  margin-left: auto;
+  font: 500 var(--fs-3) var(--body);
   color: var(--muted);
 }
 .fxparts button {

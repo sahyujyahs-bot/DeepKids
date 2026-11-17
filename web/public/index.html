@@ -6686,35 +6686,26 @@ body {
 .fxstart {
   width: 100%;
 }
-.fxtiles {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  gap: 10px;
-  margin-top: 4px;
+/* unit page: one list of parts, grouped by kind, with a row of chips that jump to each group */
+.fxjump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
 }
-.fxtile {
-  display: grid;
-  justify-items: center;
-  gap: 2px;
-  padding: 14px 6px 12px;
-  border: 0;
-  border-radius: 18px;
-  background: var(--surface);
-  box-shadow: var(--shadow);
-  color: var(--ink);
-  font: inherit;
+.fxgroup h2 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 18px 0 8px;
 }
-.fxtile .ico {
-  width: 28px;
-  height: 28px;
-  margin-bottom: 4px;
+.fxgroup h2 .ico {
+  width: 24px;
+  height: 24px;
   color: var(--kc);
 }
-.fxtile b {
-  font: 600 var(--fs-3) var(--body);
-}
-.fxtile span {
-  font: 500 var(--fs-2) var(--body);
+.fxgroup h2 span {
+  margin-left: auto;
+  font: 500 var(--fs-3) var(--body);
   color: var(--muted);
 }
 .fxparts button {
@@ -7274,9 +7265,9 @@ select.inp {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="4116603ed5f96ac979";window.DK_APPV="4116603ed5";window.DK_DATAV="f96a11b3b4"</script>
-<script src="/config.js?v=4116603ed5f96ac979"></script>
+<script>window.DK_BUILD="cea14d33caf96ac979";window.DK_APPV="cea14d33ca";window.DK_DATAV="f96a11b3b4"</script>
+<script src="/config.js?v=cea14d33caf96ac979"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=4116603ed5f96ac979"></script>
+<script src="/platform.js?v=cea14d33caf96ac979"></script>
 </body>
 </html>
