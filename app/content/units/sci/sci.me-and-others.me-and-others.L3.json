@@ -215,7 +215,7 @@
    "for": "In their task, many young children picked the picture of their own view when asked what a doll on the other side could see.",
    "against": "In tasks that made sense to children, such as hiding a doll from a policeman doll, most children of three and four got it right. The mountains task was hard for another reason: the child had to choose between pictures of mountains, which is a strange job for a small child.",
    "status": "rejected",
-   "context": "This card is about an old idea about young children, and how it was tested."
+   "context": "Jean Piaget and Bärbel Inhelder showed children a model of three mountains with a doll on the other side. They asked each child to choose the picture that showed what the doll could see. Many young children chose the picture of their own view. This card is about what that test showed, and what later tests found."
   },
   {
    "claim": "Opposites attract, so we choose friends who are very different from us.",
@@ -223,7 +223,7 @@
    "for": "Friends with different skills can help each other, and some friends really are very different.",
    "against": "Many studies find that people, children too, more often make friends with people who are like them in age, interests and habits.",
    "status": "minority",
-   "context": "This card is about a saying about friends, and what studies find."
+   "context": "The saying 'opposites attract' means that people who are very different from each other like each other the most. This card is about whether that is true of friends."
   },
   {
    "claim": "Only humans can tell what another being can see.",
@@ -467,7 +467,8 @@
      "do": "Finish and talk about the game.",
      "say": "Whose card was the hardest to be? Why?",
      "kid": "Which card was hardest to be? Why?",
-     "think": "Can you ever know for sure what a crow sees and wants?"
+     "think": "Can you ever know for sure what a crow sees and wants?",
+     "parent": "No. We can learn a lot by watching what a crow does and what is in its view. But we cannot be sure what it feels. Scientists still argue about how much animals understand of what others see."
     }
    ],
    "setup": [
@@ -610,7 +611,8 @@
        ]
       }
      ],
-     "think": "Is there any one place you could sit and see every side of the tumbler at once?"
+     "think": "Is there any one place you could sit and see every side of the tumbler at once?",
+     "parent": "No. From any one seat, some sides of the tumbler are hidden. You need views from several seats to know the whole table."
     }
    ],
    "context": "In this experiment you try to draw what a person in another chair sees, then check with a photo from their chair.",
@@ -827,7 +829,7 @@
      "say": "Your turn to place the watchmen. Place them so that it is hard for me to hide the toy.",
      "kid": "Your turn. Place the watchmen. Can the grown-up still hide?",
      "think": "How did you know what a toy could see, when a toy has no real eyes?",
-     "parent": "If your child puts the watchmen at the ends of opposite books, no corner is hidden. Then your child has won. Swap and try again."
+     "parent": "If your child puts the watchmen at the ends of opposite books, no corner is hidden. Then your child has won. Swap and try again. As for how a child knows what a toy can see, they imagine themselves standing where the watchman stands, and look along a straight line from there. This is how people picture another person's view."
     }
    ],
    "context": "This is a hiding game to start the unit. A child hides a toy from toy watchmen behind book walls.",
@@ -1110,7 +1112,8 @@
      "do": "Draw the two circles and fill them in. Talk about the answers.",
      "say": "Did any answer surprise you? Is there something your friend finds easy that you find hard?",
      "kid": "Fill in the circles. What surprised you?",
-     "think": "Could you be good friends with someone who is different from you in every answer?"
+     "think": "Could you be good friends with someone who is different from you in every answer?",
+     "parent": "Nobody is the same as a friend in every answer, and nobody is different in every answer. Friends who differ can still get on well, if they listen to each other and see things from each other's side."
     }
    ],
    "context": "In this activity you interview a friend to find what you share and how you differ.",
@@ -1176,7 +1179,8 @@
      "say": "Now the show. After both scenes, we'll ask the audience: what changed, and what stayed the same?",
      "kid": "Act both scenes. Ask the audience: what changed?",
      "adult": true,
-     "think": "Which scene did the audience feel was the true one?"
+     "think": "Which scene did the audience feel was the true one?",
+     "parent": "Both scenes are true. They show the same events from two different places."
     }
    ],
    "context": "In this 2-day project you act one story twice, from two characters' points of view.",
@@ -1243,7 +1247,8 @@
      "do": "Play one round and check the design.",
      "say": "Could everyone tell their piece apart? What would you change?",
      "kid": "Play once. Could everyone find their piece?",
-     "think": "What other things at home use only colour to tell you something?"
+     "think": "What other things at home use only colour to tell you something?",
+     "parent": "For example, traffic lights, coloured wires, pen caps, medicine strips and gas knobs. Adding a shape, a word or a pattern helps people who see colours differently."
     }
    ],
    "setup": [
@@ -1306,7 +1311,8 @@
      "do": "Talk about what made the plan fair or unfair.",
      "say": "Is fair the same as equal? When might a different turn be fairer?",
      "kid": "Is fair the same as everyone getting the same turn? Why?",
-     "think": "Who decides what is fair?"
+     "think": "Who decides what is fair?",
+     "parent": "A plan is fair when each person it affects can see why it is fair from where they stand. So all of them should have a say. There is no single right answer."
     }
    ],
    "setup": [
@@ -1723,7 +1729,7 @@
      "t": "write",
      "p": "In the Other Chair Test, a child drew what the person in the seat opposite could see. The child drew the lime, but put the banana on the wrong side. What does this tell you about the two steps of picturing someone's view?",
      "lines": 4,
-     "a": "The child knew what the person opposite could see, which is the first step. The child got how it looked wrong, which is the second, harder step.",
+     "a": "The child got the first step right: they knew what the person opposite could see. The child got the second, harder step wrong: they did not work out how it looked from there.",
      "why": "A strong answer separates knowing whether something is in view from knowing how it looks from there, including left and right.",
      "how": "e1"
     },
