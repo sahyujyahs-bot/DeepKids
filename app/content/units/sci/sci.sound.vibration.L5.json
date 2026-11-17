@@ -162,7 +162,7 @@
    "concept": "How separate pushes become a note",
    "status": "defined",
    "definition": "Each vibration gives the air one push. Above about 20 pushes a second, human ears stop hearing them one by one and hear a steady note.",
-   "description": "In the Comb Test, each tooth bent the card and let it snap back. Each snap pushed the air once. At 5 or 10 pushes a second you heard every tick. At about 20 the ticks ran together into a rattle. At 80 you heard a low note. Nothing changed except how fast the pushes came. A higher frequency gives a higher note. The note of a string, a drum or a flute is made in the same way. The string pushes the air once in every vibration. So 440 vibrations a second send 440 pushes a second to your ear. In 1681 the English scientist Robert Hooke showed this with a toothed brass wheel. He held a card against the turning teeth. When the wheel turned faster, the note rose.",
+   "description": "In the Comb Test, each tooth bent the card and let it snap back. Each snap pushed the air once. At 5 or 10 pushes a second you heard every tick. At about 20 the ticks ran together into a rattle. At 80 you heard a low note. Nothing changed except how fast the pushes came. A higher frequency gives a higher note. The note of a string, a drum or a flute is made in the same way. The string pushes the air once in every vibration. So 440 vibrations a second send 440 pushes a second to your ear. In 1681 the English scientist Robert Hooke showed this with a toothed wheel. He held a card against the turning teeth. When the wheel turned faster, the note rose.",
    "examples": [
     "A male cricket has a row of tiny teeth on one wing. He draws the edge of the other wing across it, as you drew the card across the comb.",
     "A zip makes a rising 'zzzip' when you pull it faster.",
@@ -227,7 +227,7 @@
    "concept": "Is everything vibration?",
    "status": "debated",
    "definition": "",
-   "description": "Vibration is found far beyond music. The particles of every solid vibrate all the time, about ten million million times a second. That movement is what we call heat. A quartz crystal in a watch vibrates 32,768 times a second and keeps the time. After a very large earthquake the whole Earth rings for weeks. Its slowest vibration takes about 54 minutes. The surface of the Sun rises and falls about every five minutes. Some people go further and say that everything is vibration. Here the views differ.",
+   "description": "Vibration is found far beyond music. The particles of every solid vibrate all the time, millions of millions of times a second. That movement is what we call heat. A quartz crystal in a watch vibrates 32,768 times a second and keeps the time. After a very large earthquake the whole Earth rings for weeks. Its slowest vibration takes about 54 minutes. The surface of the Sun rises and falls about every five minutes. Some people go further and say that everything is vibration. Here the views differ.",
    "examples": [
     "Heat in a steel tumbler is the vibration of its particles.",
     "The Earth rang for weeks after the Sumatra earthquake of December 2004.",
@@ -244,7 +244,7 @@
     },
     {
      "who": "The musician and scholar Sharngadeva, about 800 years ago",
-     "explanation": "His book on music, the Sangita Ratnakara, opens by honouring sound itself as the ground of the world. This is a teaching about meaning. It was not offered as a measurement."
+     "explanation": "In the first chapter of his book on music, the Sangita Ratnakara, sound (nada) is treated as the root of music and, in a deeper sense, of all things. This is a teaching about meaning. It was not offered as a measurement."
     },
     {
      "who": "A careful critic",
@@ -265,7 +265,7 @@
   },
   {
    "text": "Sound needs a medium. It travels through solids, liquids and gases, and it cannot cross empty space.",
-   "evidence": "About 1660, Robert Boyle and Robert Hooke pumped the air out of a glass jar with a bell inside. The bell still moved, but its sound faded away."
+   "evidence": "About 1660, Robert Boyle and Robert Hooke pumped the air out of a glass jar with a bell inside. The bell still moved, but its sound grew much fainter."
   },
   {
    "text": "A bigger vibration gives a louder sound, and it does not change the note.",
@@ -2334,9 +2334,9 @@
     },
     {
      "t": "count",
-     "p": "A honeybee's wings beat 230 times a second. How many times do they beat in 2 seconds?",
+     "p": "A honeybee's wings beat about 230 times a second. How many times do they beat in 2 seconds?",
      "a": 460,
-     "why": "230 beats each second for 2 seconds is 230 × 2, which is 460 beats.",
+     "why": "About 230 beats each second for 2 seconds is 230 × 2, which is about 460 beats.",
      "outcome": 2
     },
     {
@@ -2601,7 +2601,7 @@
     },
     {
      "t": "write",
-     "p": "Antoine Ferrein held the bands in a voice box still, and the sound stopped. What did that show?",
+     "p": "Antoine Ferrein blew air through a voice box and tightened the bands inside it. The note rose. What did that show?",
      "lines": 4,
      "a": "It showed that the bands must vibrate for there to be a voice. So the voice does not come only from air in the windpipe, as in a flute. It did not show how the bands move in a living person, which nobody had yet seen.",
      "why": "A strong answer says what the test proves, that the bands are the source. It also says what the test leaves open.",
@@ -2823,31 +2823,28 @@
  ],
  "videos": [
   {
-   "title": "A guitar string or a rubber band vibrating, filmed in true slow motion with a high-speed camera",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Guitar String Vibration Filmed in High Speed...",
+   "channel": "ManyetikMavi",
+   "youtube": "eFXFkgqYkck",
    "mins": 3,
    "why": "To see a string move back and forth past its rest position, which is too fast to see at home.",
-   "check": "No address yet. Find a clip from a university or a well-known science channel. It must be filmed with a high-speed camera from the side. Avoid clips filmed from inside a guitar with a phone: the wavy strings in those are an effect of the phone camera, and they are not the real movement."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Human vocal folds vibrating, filmed through the mouth with a flashing light or a high-speed camera",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Vocal fold vibration - slow motion",
+   "channel": "DrKoçak",
+   "youtube": "Drns_eV9wWg",
    "mins": 3,
    "why": "To see the two folds in the voice box open and close. Manuel García first saw this in a mirror.",
-   "check": "No address yet. Find a clip from a hospital voice clinic or a university. Watch it first, because some children find pictures from inside a throat unpleasant."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "A mridangam or tabla skin vibrating in slow motion, or sand patterns on a vibrating drum skin",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Circular Membrane (drum head) Vibration",
+   "channel": "Dan Russell",
+   "youtube": "v4ELxKKT5Rw",
    "mins": 4,
    "why": "To see that a struck skin moves up and down, and that some parts of it move more than others.",
-   "check": "No address yet. Find a clip that shows the skin itself moving. Check that it does not claim that sound waves in the air are visible."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -3297,7 +3294,7 @@
    "Other units were checked so that nothing repeats. The twanging ruler, the foil ball on a ringing plate, the dough on a balloon drum, the coin line and the rubber-band veena are in sci.sound.sources-of-sound.L3. The bottle tests and the one-tube challenge are in sci.sound.sources-of-sound.L4. Timing a bouncing bag is in sci.forces.stretching-springs.L4, and pendulums are in sci.sound.waves.L4. The experiments, games and story here are new. The Thali and the Skin is the board's jumping-grains test, made into a fair test of distance."
   ],
   "science": [
-   "Hooke R. (1681). Demonstration to the Royal Society of sounds made by the teeth of turning brass wheels, recorded in Birch T. (1757), The History of the Royal Society of London, volume 4, and in Waller R. (1705), The Posthumous Works of Robert Hooke.",
+   "Hooke R. (1681). Demonstration to the Royal Society of sounds made by the teeth of turning toothed wheels, recorded in Birch T. (1757), The History of the Royal Society of London, volume 4, and in Waller R. (1705), The Posthumous Works of Robert Hooke.",
    "Boyle R. (1660). New Experiments Physico-Mechanicall, Touching the Spring of the Air. Oxford. (The bell in the pumped-out jar.)",
    "Ferrein A. (1741). De la formation de la voix de l'homme. Histoire de l'Académie Royale des Sciences, Paris.",
    "García M. (1855). Observations on the human voice. Proceedings of the Royal Society of London 7: 399-410.",
@@ -3315,11 +3312,11 @@
  },
  "how_we_found_out": {
   "context": "How did people find out what makes the human voice? This card tells the true story, and the idea that turned out wrong.",
-  "story": "For a very long time, many doctors thought the voice worked like a flute. The Greek doctor Galen, about 1,800 years ago, compared the voice box to a pipe that is blown. On this idea the air in the windpipe made the note, and no solid part vibrated. In 1741 the French doctor Antoine Ferrein tested it. He took the voice boxes of dead animals and blew air through the windpipe. They gave a sound. When he held the two small bands inside the voice box still, the sound stopped. When he stretched the bands tighter, the note rose. So the bands were vibrating, as the strings of a violin do. He named them vocal cords. Nobody had yet seen them move in a living person. In 1854 Manuel García, a Spanish singing teacher, held a small dentist's mirror at the back of his own throat. He used a second mirror to shine sunlight on it. He saw his vocal cords open and close as he sang. Today we know they are soft folds and not strings. Breath blows them apart, and they spring shut again.",
+  "story": "For a very long time, doctors thought the voice worked like a wind instrument. The Greek doctor Galen, about 1,800 years ago, compared the voice box to the mouthpiece of a blown pipe. On this idea the blown air made the note. In 1741 the French doctor Antoine Ferrein tested it. He took voice boxes from dead bodies and blew air through the windpipe. They gave a sound. When he stretched the two small bands inside the voice box tighter, the note rose. So the bands were vibrating, as the strings of a violin do, with the air acting like a bow. He named them vocal cords. Nobody had yet seen them move in a living person. In 1854 Manuel García, a Spanish singing teacher, held a small dentist's mirror at the back of his own throat. He used a second mirror to shine sunlight on it. He saw his vocal cords open and close as he sang. Today we know they are soft folds and not strings. Breath blows them apart, and they spring shut again.",
   "who": "Galen, a Greek doctor in Rome, Antoine Ferrein, a French doctor, and Manuel García, a Spanish singing teacher",
   "when": "Galen wrote about 1,800 years ago. Ferrein reported his tests in 1741. García saw his own vocal cords in 1854 and reported it in 1855.",
-  "wrong_idea": "That the voice is like a flute, with only the air in the windpipe making the note. Ferrein showed that the sound stops when the bands in the voice box are held still. He also showed that tightening them raises the note.",
+  "wrong_idea": "That the voice is like a flute, with only the air in the windpipe making the note. Ferrein showed that tightening the bands in the voice box raises the note, so the bands are part of the source.",
   "art": "A man in nineteenth-century clothes sitting by a sunny window, holding a small dentist's mirror in his open mouth and a hand mirror that reflects a beam of sunlight into it."
  },
- "playtest": "Read through as a parent and child in a city flat would use it, step by step. The experiments were reasoned through carefully, but they have not yet been tried at home. Treat the expected results as likely, and write down what really happens. The Comb Test (core) needs a comb with 40 teeth of one size, a stiff card and a stopwatch. Most people should hear separate ticks at 5 and 10 a second, and a rattle near 20. They should hear a buzz near 40 and a low note at 80. A hand cannot keep a steady speed, so each stroke is done three times. Half a second is only roughly timed. The Slow String (core) needs six rubber bands and a clothes peg. With the peg on, the chain should swing about 3 times a second. If it is too quick to follow, hold it looser or add a second peg. The Thali and the Skin (core) needs a tight, smooth film and only 20 to 30 grains of rava. The grains should jump at 10 centimetres and stay still by 80 centimetres. The distances in between will differ from home to home. The clang is loud, so the watcher covers both ears. The Spoon on a String (core) is very reliable for cotton string against air. Wool and rubber bands may give results that differ from the example table. The water step shows only that clicks cross water and the bucket wall. The Palm Pipe works best with a stiff cardboard tube. The listening part at the end is faint. The Dancing Light Spot needs a dim room and a wall 1 to 2 metres away. With a torch the spot is a fuzzy patch, and sunlight gives a sharper one. No laser pointer is used. Quiet the Buzz needs a phone that can be set to vibrate. No part needs a garden, a pet or a musical instrument. Facts to treat with care: frequencies of wings, purrs and voices are rounded and vary a great deal. The speeds of sound are rounded. The Sangita Ratnakara and the Zhuangzi are given as paraphrases, by chapter only. Galen's comparison of the voice box to a pipe is given in outline. The three videos have no address yet."
+ "playtest": "Read through as a parent and child in a city flat would use it, step by step. The experiments were reasoned through carefully, but they have not yet been tried at home. Treat the expected results as likely, and write down what really happens. The Comb Test (core) needs a comb with 40 teeth of one size, a stiff card and a stopwatch. Most people should hear separate ticks at 5 and 10 a second, and a rattle near 20. They should hear a buzz near 40 and a low note at 80. A hand cannot keep a steady speed, so each stroke is done three times. Half a second is only roughly timed. The Slow String (core) needs six rubber bands and a clothes peg. With the peg on, the chain should swing about 3 times a second. If it is too quick to follow, hold it looser or add a second peg. The Thali and the Skin (core) needs a tight, smooth film and only 20 to 30 grains of rava. The grains should jump at 10 centimetres and stay still by 80 centimetres. The distances in between will differ from home to home. The clang is loud, so the watcher covers both ears. The Spoon on a String (core) is very reliable for cotton string against air. Wool and rubber bands may give results that differ from the example table. The water step shows only that clicks cross water and the bucket wall. The Palm Pipe works best with a stiff cardboard tube. The listening part at the end is faint. The Dancing Light Spot needs a dim room and a wall 1 to 2 metres away. With a torch the spot is a fuzzy patch, and sunlight gives a sharper one. No laser pointer is used. Quiet the Buzz needs a phone that can be set to vibrate. No part needs a garden, a pet or a musical instrument. Facts checked on 17 Nov 2026 against scholarly or official sources: the papers and book citations, Hooke's toothed wheel (1681), Boyle's bell in the pumped jar, Ferrein (1741), García (1854/1855), the wingbeat, purr, voice, guitar and quartz frequencies, the Earth's 54-minute mode, the Sun's five-minute rise and fall, and the museum and website links. Softened: Galen's flute comparison (no longer says no solid part moved), Ferrein's tests (only the tightening raising the note is kept), the Boyle bell (the sound grows much fainter), Sharngadeva's chapter 1, the speed of atoms in solids, and the brass wheel. Speeds of sound are rounded. The Zhuangzi and the Sangita Ratnakara are given as paraphrases, by chapter only. The three videos have no address yet."
 }
