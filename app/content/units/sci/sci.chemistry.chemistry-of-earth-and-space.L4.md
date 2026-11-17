@@ -663,6 +663,7 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
 ## Videos
 - **What is acid rain? What are its causes and effects? | 2D Animation** (chrvoje_engineering, 4 min) id `xzTlZ2HmcMg`: To see the whole path from a chimney to a cloud to a lake far away. No home test can show this. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 - **The Story of Salt | How Salt is Made in Thoothukudi | Full Process Explained! 🧂** (Namma South India, 5 min) id `xkTms8bGT94`: To see sea water evaporate and leave its salt on the scale of a whole coast. The Plate That Got Saltier shows the same thing on a plate. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **The Other Carbon Dioxide Problem** (NOAAVisualizations, 4 min) id `9EaLRcVdTbM`: To see that the sea takes in some of the carbon dioxide from the air, and that this makes the water less alkaline, which is the sea-water side of the acid story the unit tells. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Which list gives the three main gases of dry air, largest first?  

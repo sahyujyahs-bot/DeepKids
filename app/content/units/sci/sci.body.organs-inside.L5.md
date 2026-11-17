@@ -659,6 +659,8 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
 
 ## Videos
 - **Cardiovascular System Overview, Animation** (Alila Medical Media, 4 min) id `28CYhgjrBLA`: To watch the blood pass through the heart twice on each trip, which is hard to picture from a drawing. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Swallowing Reflex, Phases and Overview of Neural Control, Animation.** (Alila Medical Media, 3 min) id `YQm5RCz9Pxc`: The child sees the tongue push food to the back of the mouth, the flap over the windpipe close, and the food slide down the food pipe, which shows how swallowing works. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Kabaddi Rules: The Raid ft. Rahul Chaudhari  (English)** (Star Sports, 3 min) id `eyL70h7-_zY`: The child sees a real raider go into the other side's court and come back, which shows the breath-and-chant rule for a raid; the chant itself was not checked by ear. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) What is an organ system?  

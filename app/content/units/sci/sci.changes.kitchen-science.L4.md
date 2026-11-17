@@ -628,6 +628,8 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
 
 ## Videos
 - **Why Do Onions Make You Cry?** (Reactions, 4 min) id `RaZpPwmWZ7Q`: To see the two steps that make the tear gas, which cannot be seen in the Onion Sting. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Why the Maillard Reaction Makes Everything Delicious** (Reactions, 3 min) id `rs1JLYXROVU`: The child sees, in about three minutes, why toast and fried food turn brown and taste better, which supports the Heat browning and Maillard reaction ideas in this unit. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Green Tea vs. Black Tea: Same Plant, Different Drink** (History of Simple Things, 3 min) id `iuXW0iM7rhc`: The child sees how green and black tea come from the same leaf and differ by how long the leaf is left to brown, which supports the tea-browning idea in this unit. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Why does a cut brinjal turn brown?  
