@@ -226,7 +226,7 @@
    "definition": "Respiration is how the tiny living parts of your body, called cells, use oxygen to break down food and release the energy in the food. Carbon dioxide and water are left over.",
    "description": "Your body is made of trillions of tiny living parts called cells. Every cell needs energy to do its job. A muscle cell needs energy to pull. A brain cell needs energy to send messages. The energy is locked inside food, like the sugar from a banana. To unlock it, the cell needs oxygen. The cell joins food and oxygen together, and energy comes out. Carbon dioxide and water are left over. This is called respiration. It is a little like a fire, which also needs fuel and oxygen. But it is slow and gentle, and gives warmth, not flames. That is why you breathe. Breathing is the way oxygen reaches your cells, and the way carbon dioxide leaves.",
    "examples": [
-    "About 240 years ago, the French scientist Antoine Lavoisier showed that breathing is like a very slow burning. Animals take in oxygen and give out carbon dioxide and heat, just like a candle does.",
+    "About 240 years ago, the French scientist Antoine Lavoisier showed that breathing is like a very slow burning. His wife, Marie-Anne Lavoisier, kept his lab notes and drew the breathing experiments. Animals take in oxygen and give out carbon dioxide and heat, just like a candle does.",
     "You are warm partly because of respiration. Trillions of cells releasing energy all day make heat.",
     "Plants respire too, day and night. In sunlight they also make far more oxygen than they use."
    ],
@@ -3434,6 +3434,7 @@
    "Combined lesson sci-C3-health-hygiene-exercise-and-illness: exercise speeds the heart, slow breathing for big feelings"
   ],
   "science": [
+   "Beretta M. (2012). Marie-Anne Lavoisier's drawings of the respiration experiments. Nuncius 27 (she kept notes and drew the experiments of Antoine Lavoisier and Armand Seguin)",
    "William Harvey, De Motu Cordis (1628), the circulation of the blood and his calculation of blood pumped",
    "Ibn al-Nafis, Commentary on the Anatomy of the Canon of Avicenna (about 1242), pulmonary circulation, rediscovered by Muhyo Al-Deen Altawi in 1924",
    "R. T. H. Laennec, De l'auscultation médiate (1819), the stethoscope",

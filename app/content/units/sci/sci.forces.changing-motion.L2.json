@@ -2155,10 +2155,10 @@
  },
  "how_we_found_out": {
   "context": "Do things that move in circles keep curving by themselves? This card tells how people found out.",
-  "who": "Aristotle, a Greek thinker; Robert Hooke and Isaac Newton, English scientists; and Michael McCloskey, Alfonso Caramazza and Bert Green, scientists in the United States",
-  "when": "About 350 BCE, 1679, 1687 and 1980",
+  "who": "Aristotle, a Greek thinker; Robert Hooke and Isaac Newton, English scientists; Émilie du Châtelet, a French scientist who translated and explained Newton's book; and Michael McCloskey, Alfonso Caramazza and Bert Green, scientists in the United States",
+  "when": "About 350 BCE, 1679, 1687, 1759 and 1980",
   "wrong_idea": "Things that move in circles, like the Moon and the planets, keep curving by themselves, without any force.",
-  "story": "For about 2,000 years, many people followed the ideas of Aristotle, a Greek thinker. He taught that the Moon, the Sun and the planets move in circles naturally. Circles, he said, were the perfect motion of the sky, and needed no cause. In 1679, Robert Hooke, an English scientist, wrote a letter to Isaac Newton with a new idea. A planet, he said, would move in a straight line if nothing pulled it. Its path bends into a curve because the Sun pulls it all the time. Newton worked out the maths. In 1687, in his book called the Principia, he showed that one pull, gravity, bends the Moon's path round the Earth and the planets' paths round the Sun. A moving thing goes straight unless a force turns it. In 1980, three scientists in the United States asked university students what a ball does when it shoots out of a curved tube. Many of them guessed it would keep curving. So the old idea, that curving can carry on by itself, is still in many people's heads today.",
+  "story": "For about 2,000 years, many people followed the ideas of Aristotle, a Greek thinker. He taught that the Moon, the Sun and the planets move in circles naturally. Circles, he said, were the perfect motion of the sky, and needed no cause. In 1679, Robert Hooke, an English scientist, wrote a letter to Isaac Newton with a new idea. A planet, he said, would move in a straight line if nothing pulled it. Its path bends into a curve because the Sun pulls it all the time. Newton worked out the maths. In 1687, in his book called the Principia, he showed that one pull, gravity, bends the Moon's path round the Earth and the planets' paths round the Sun. A moving thing goes straight unless a force turns it. In France, Émilie du Châtelet later translated the Principia into French and explained it. In 1980, three scientists in the United States asked university students what a ball does when it shoots out of a curved tube. Many of them guessed it would keep curving. So the old idea, that curving can carry on by itself, is still in many people's heads today.",
   "art": "An old letter with a quill pen on a wooden desk, and beside it a drawing of a planet's path: a straight dotted line bent into a curve by an arrow pointing to the Sun."
  },
  "plan": {
@@ -2222,7 +2222,7 @@
   "science": [
    "Newton's first and second laws; circular motion needs a centripetal force (here the normal force of the wall or rim). Any introductory physics text.",
    "M. McCloskey, A. Caramazza and B. Green, 'Curvilinear motion in the absence of external forces: naive beliefs about the motion of objects', Science 210 (1980) 1139-1141.",
-   "Robert Hooke's letter to Isaac Newton of November 1679, proposing that orbital motion is a straight tangential motion bent by an attraction to the central body. Newton, Philosophiae Naturalis Principia Mathematica (1687).",
+   "Robert Hooke's letter to Isaac Newton of November 1679, proposing that orbital motion is a straight tangential motion bent by an attraction to the central body. Newton, Philosophiae Naturalis Principia Mathematica (1687). Émilie du Châtelet, Principes mathématiques de la philosophie naturelle (1759), her French translation of the Principia with her own commentary.",
    "Aristotle, On the Heavens, on circular motion as the natural motion of the heavenly bodies.",
    "Prashastapada, Padarthadharmasangraha (Vaisheshika, often dated to about the 6th century CE): samskara of three kinds, vega (impetus), bhavana (mental impression) and sthitisthapaka (elastic restoring).",
    "Ernst Mach, The Science of Mechanics (1883), on inertia and the rest of the matter in the universe. Still debated.",

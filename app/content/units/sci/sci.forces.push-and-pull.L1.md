@@ -22,8 +22,8 @@
 ### A push or a pull makes a still thing move · *defined*
 **Definition:** A thing that is still stays still until something pushes or pulls it. Scientists call every push and every pull a force.
 
-The ball on the floor stayed still for a whole minute. It started to roll only when your finger pushed it. The box in the box test stayed by the start line until your hand pushed it. A swing hangs still until someone pushes it. A pull works too: a toy on a string moves when you pull the string. Scientists use one word for every push and every pull. They call it a force.
-- e.g. In the box test, the box stayed still until your hand pushed it.
+The ball on the floor stayed still for a whole minute. It started to roll only when your finger pushed it. In the Little Push, Big Push test, the box stayed behind the start line until your hand pushed it. A swing hangs still until someone pushes it. A pull works too: a toy on a string moves when you pull the string. Scientists use one word for every push and every pull. They call it a force.
+- e.g. In the Little Push, Big Push test, the box stayed still until your hand pushed it.
 - e.g. A football sits on the ground until someone kicks it.
 - e.g. A bucket of water comes up from a well only when someone pulls the rope.
 ### Push means away, pull means towards · *defined*
@@ -36,25 +36,25 @@ When you close a fridge, the door moves away from you, so you push it. When you 
 ### A bigger push sends a thing further · *defined*
 **Definition:** A gentle push makes a thing move slowly, and it stops soon. A big push makes it move fast, and it goes further.
 
-In the box test, your gentle push sent the empty box only a little way. Your big push sent the same box much further. A big push makes the box move faster. The floor rubs on the box and slows it down. A fast box takes longer to slow down, so it slides further before it stops. This is why you kick a ball hard to send it far.
-- e.g. In the box test, the gentle push sent the box about one foot step. The big push sent it many steps.
+In the Little Push, Big Push test, your gentle push sent the empty box only a little way. Your big push sent the same box much further. A big push makes the box move faster. The floor rubs on the box and slows it down. A fast box takes longer to slow down, so it slides further before it stops. This is why you kick a ball hard to send it far.
+- e.g. In the Little Push, Big Push test, the gentle push sent the box about one foot step. The big push sent it many steps.
 - e.g. A bigger push on a swing sends it higher.
 - e.g. A carrom striker flicked hard shoots across the board. A soft flick stops halfway.
 ### A heavy thing needs a bigger push or pull · *defined*
 **Definition:** A heavy thing is harder to start moving than a light thing. It needs a bigger push or a bigger pull.
 
-When you filled the box with rice, the same big push sent it only a short way. In the Pull-Along Train, the rubber band stretched a little for one box. It stretched much longer for three boxes. A longer stretch means a bigger pull. So heavy things need bigger pushes and pulls. That is why people push a stuck car together, and why a tractor, a big machine, pulls a heavy trolley.
-- e.g. In the box test, the full box slid only a short way after a big push.
+In the Little Push, Big Push test, you filled the box with rice. Then the same big push sent it only a short way. In the Pull-Along Train, the rubber band stretched a little for one box. It stretched much longer for three boxes. A longer stretch means a bigger pull. So heavy things need bigger pushes and pulls. That is why people push a stuck car together, and why a tractor, a big machine, pulls a heavy trolley.
+- e.g. In the Little Push, Big Push test, the full box slid only a short way after a big push.
 - e.g. In the Pull-Along Train, the rubber band stretched longest for three loaded boxes.
 - e.g. Many people together push a heavy fishing boat down the beach. One person alone cannot.
 
 ## Mostly agreed
 - Every push and every pull is a force. *How we know:* Scientists use the word force for all of them: a kick, a tug, the wind on a sail, a magnet pulling a pin, and the Earth pulling a mango down from a tree.
 - A still thing starts to move only when a force acts on it. *How we know:* Anyone can test it. A ball left on a flat floor stays put. It moves when a push, a pull, a slope or a gust of wind acts on it.
-- A heavier thing needs a bigger push or pull to move it the same way. *How we know:* An empty box slides far with one push, but a full one hardly moves. People use machines and many hands to move very heavy things.
+- A heavier thing needs a bigger push or pull to move it. *How we know:* An empty box slides far with one push, but a full one hardly moves. People use machines and many hands to move very heavy things.
 
 ## How we found out
-**Aristotle, a Greek thinker; John Philoponus, a thinker in Alexandria, Egypt; Ibn Sina, a doctor and thinker in Central Asia and Persia; Isaac Newton, an English scientist, From about 350 BCE to 1687.** When you throw a ball, your hand pushes it. Then the ball leaves your hand and keeps flying. What keeps it going? About 2,350 years ago, the Greek thinker Aristotle gave an answer. He said the air behind a thrown stone keeps pushing it along. For hundreds of years, many people agreed with him. About 1,500 years ago, John Philoponus, a thinker in Alexandria in Egypt, said this was wrong. If air pushed stones along, he wrote, we could make a stone fly just by moving air hard behind it. But we cannot. He said the throw gives the stone something that keeps it going for a while. About 1,000 years ago, Ibn Sina, a doctor and thinker in Central Asia and Persia, built on this idea. He said the air does not help the stone along. It pushes against the stone and slows it down. In 1687, Isaac Newton in England wrote the rule we use today. A push or a pull starts a thing moving. Then it keeps moving until another push or pull slows it down, stops it or turns it.  
+**Aristotle, a Greek thinker; John Philoponus, a thinker in Alexandria, Egypt; Ibn Sina, a doctor and thinker in Central Asia and Persia; Isaac Newton, an English scientist; Émilie du Châtelet, a French scientist who translated his book, From about 350 BCE to 1759.** When you throw a ball, your hand pushes it. Then the ball leaves your hand and keeps flying. What keeps it going? About 2,350 years ago, the Greek thinker Aristotle gave an answer. He said the air behind a thrown stone keeps pushing it along. For hundreds of years, many people agreed with him. About 1,500 years ago, John Philoponus, a thinker in Alexandria in Egypt, said this was wrong. If air pushed stones along, he wrote, we could make a stone fly just by moving air hard behind it. But we cannot. He said the throw gives the stone something that keeps it going for a while. About 1,000 years ago, Ibn Sina, a doctor and thinker in Central Asia and Persia, built on this idea. He said the air does not help the stone along. It pushes against the stone and slows it down. In 1687, Isaac Newton in England wrote the rule we use today. A push or a pull starts a thing moving. Then it keeps moving until another push or pull slows it down, stops it or turns it. In France, Émilie du Châtelet translated Newton's book and explained it.  
 *What people believed before:* People thought the air behind a thrown stone keeps pushing it along. Philoponus showed that moving air cannot throw a stone, and Ibn Sina said the air only slows it down.
 
 ## Challenging perspectives
@@ -69,10 +69,10 @@ When you filled the box with rice, the same big push sent it only a short way. I
   Against: The air does not push the ball along. It rubs against the ball and slows it down. A moving ball keeps going by itself until a push or pull slows it, stops it or turns it.
 
 ## Roots
-We have pushed boxes, pulled toys and closed a door from both sides. Now we ask what the door that swung the same way both times tells us about ourselves and the world.
+We have pushed boxes, pulled toys and closed a door from both sides. In the Two-Sided Door, the door swung the same way when you pushed it and when you pulled it. Now we ask what that tells us about ourselves and the world.
 
 **Deep truth.** You closed one door by pushing it from one side and pulling it from the other. The door swung the same way both times. A push is a force away from you, and a pull is a force towards you. So whether a force is a push or a pull depends on where you stand.  
-*Habit it breaks:* We think of push and pull as two opposite kinds of thing. The door test shows the same force on the same door gets either name. The name tells us where the person is standing.  
+*Habit it breaks:* We think of push and pull as two opposite kinds of thing. The Two-Sided Door shows that the same force on the same door can be called a push or a pull. The name tells us where the person is standing.  
 *Evidence:* In the Two-Sided Door, the child closed the same door twice, once pushing from inside and once pulling from outside. The door swung and shut the same way both times. In the story, Selvi's push and Muthu's pull both sent the boat towards the sea.
 
 - *who am i:* You are a pusher and a puller. Every jump pushes the floor, and every hug pulls someone close.
@@ -82,17 +82,17 @@ We have pushed boxes, pulled toys and closed a door from both sides. Now we ask 
 Pushes and pulls come from many places: your hands, the wind, a magnet, the Earth and a line of ants. Scientists give them all one name, force. Every force is a meeting of two things, such as your hand and the door. Everything is aware in its own way, so the door meets your hand just as your hand meets the door. Many scientists say only living beings with nerves can feel a touch.
 
 - **Tao Te Ching 2:** Long and short shape each other. High and low lean on each other. Front and back follow each other. (Push and pull are a pair like front and back. The same force on the same door is called a push from one side and a pull from the other.)
-- **Udana 6.4 (a Buddhist text):** People who could not see each touched one part of an elephant. The one who felt the head said an elephant is like a pot. The one who felt the ear said it is like a winnowing basket. The one who felt a leg said it is like a post. Each told the truth about their own part. (A child inside the room says 'I pushed the door'. A friend outside says 'I pulled it'. Each is right about the same door, from where they stand.)
+- **Udana 6.4 (a Buddhist text):** Some people who could not see touched an elephant, each at a different part. The one who felt the head said an elephant is like a pot. The one who felt the ear said it is like a winnowing basket. The one who felt a leg said it is like a post. Each told the truth about their own part. (A child inside the room says 'I pushed the door'. A friend outside says 'I pulled it'. Each is right about the same door, from where they stand.)
 - Science (settled): Scientists call every push and every pull a force. A force can start a thing moving, stop it, or change the way it goes.
 - Science (open): Gravity, the Earth's pull, works without touching. Nobody yet fully understands what gravity is at the very tiniest scale.
-- Other view, Builders and engineers: For the thing being pushed or pulled, they are really different. A pull stretches a rope, and a push squashes a pillar. A rope can pull a boat, but it cannot push one. So builders always ask whether a part must take a push or a pull.
+- Other view, Builders and engineers: For the thing being pushed or pulled, a push and a pull are really different. A pull stretches a rope, and a push squashes a pillar. A rope can pull a boat, but it cannot push one. So builders always ask whether a part must take a push or a pull.
 - Practice, Two hands, one push (3 min): Press your palms together in front of your chest. Push them gently into each other. Count slowly to five. Feel both arms. Now hook your fingers together and gently pull your hands apart. Count to five again. Let your hands rest on your knees. Which hand was pushing? Which hand was pulling?
 - Ask: When your two hands pushed each other, which hand was doing the pushing?
 - Ask: Can you think of something that is a push for one person and a pull for another?
 - Ask: What else in this room can be pushed or pulled, and by whom?
 
 ## Deep and big questions
-- *deep:* In the box test, your hand let go at the start line. Why did the box keep sliding for a while after that? (hint: Nothing pushed it after your hand let go. What slowed it down in the end? Try it on a mat and on tiles.)
+- *deep:* In the Little Push, Big Push test, your hand let go of the box at the start line. Why did the box keep sliding for a while after that? (hint: Nothing pushed it after your hand let go. What slowed it down in the end? Try it on a mat and on tiles.)
 - *deep:* Could you move a boat using only pulls? Could you move it using only pushes? (hint: Think of a rope at the front and hands at the back. Which way does the boat go each time?)
 - *big:* Right now, is anything near you being pushed or pulled, with nobody touching it? (hint: Drop a spoon. What pulled it down? Think of the wind, a magnet and the Earth.)
 - *big:* Can a push or a pull make a moving thing stop? (hint: Roll a ball across the floor, then catch it. What did your hands do?)
@@ -136,7 +136,7 @@ Selvi found an empty fish basket instead. One little push, and it slid right acr
 
 In the evening, the fishers came back. Then it was time to bring in the big net. Out in the sea, a long net was full of fish. Two long ropes ran from it to the beach.
 
-Everyone stood in a line on the rope: Paati at the front, then Selvi, then Muthu at the very end. They pulled together, hand over hand.
+Everyone stood in a line along the rope: Paati at the front, then Selvi, then Muthu at the very end. They pulled together, hand over hand.
 
 Slowly, slowly, the net came up out of the sea. Silver fish jumped and flapped on the sand.
 
@@ -181,7 +181,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
   *Parent does:* Ask the check question.  
   *Parent says:* One last question.  
   *Child mode:* Answer the last one.
-  - Check: A girl called Divya pulls a dupatta off the washing line. Is that a push or a pull? → **A pull**
+  - Check: You pull a dupatta off the washing line. Is that a push or a pull? → **A pull**
 ### g2 · Sock Ball Golf: get it in the box (12 min)
 - **rules:** Roll a pair of socks into a ball. Roll a newspaper tightly into a stick, and tape it.; Lay a box on its side as the goal. Choose a starting spot.; Play 4 holes. Hole 1: push the ball straight into the box. Hole 2: push it under a chair, then into the box. Hole 3: push it round a pillow, then into the box. Hole 4: make your own hole.; Take turns. On your turn, push the sock ball with the stick and count every push. Keep pushing until the ball is in the box.; A small push moves the ball a little. A big push sends it far. Choose the right push.; If the ball gets stuck, take it out and put it back where it was, and count one extra push.; Write your pushes for each hole on your score sheet. Each player has one sheet.; After 4 holes, add up your pushes. The fewest pushes wins. If you tie, you both win. Playing alone, try to beat your own score.
 - **Printable score sheet: Score sheet for 4 holes and the total:** Hole 1: from the door to a box lying on its side. Pushes: ____; Hole 2: under a chair, then into the box. Pushes: ____; Hole 3: round a pillow, then into the box. Pushes: ____; Hole 4: your own hole. Draw it here. Pushes: ____; Total pushes: ____
@@ -241,8 +241,8 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
   *Parent says:* What did the big push do? What did the full box do? Why do you think that happened?  
   *Child mode:* What did the big push do? What did the full box do? Why?
   - Ask: What did you find? (good: A big push sends the box further.; A heavy box needs a bigger push.)
-  - Note: Wait for your child's own claim and evidence first. Then say it plainly: a bigger push sends a thing further, and a heavy thing needs a bigger push.
-  - Check: Kavya, a girl in Class 1, pushes an empty box gently, then hard. Which push sends it further? → **The hard push**
+  - Note: Let your child say what they found, and how they know, first. Then say it plainly: a bigger push sends a thing further, and a heavy thing needs a bigger push.
+  - Check: You push an empty box gently, then hard. Which push sends it further? → **The hard push**
 ### e2 · The Pull-Along Train: does a longer train need a bigger pull? (15 min)
 - **question:** Does a train of three boxes need a bigger pull than one box? How can we see the pull?
 - **predict:** Guess first. Will one box or three boxes need a bigger pull? Will the rubber band stretch more or less? Why do you think so?
@@ -294,7 +294,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
   *Parent does:* Ask the check question.  
   *Parent says:* One question about the kitchen.  
   *Child mode:* Answer one question.
-  - Check: A girl called Meena closes a kitchen drawer. Is that a push or a pull? → **A push**
+  - Check: You close a kitchen drawer. Is that a push or a pull? → **A push**
 ### a2 · The Two-Sided Door: push it shut, pull it shut (8 min)
 - **safety:** A grown-up stays at the door. Keep fingers away from the edge of the door and the gap by the hinges, so they cannot get caught. Close the door slowly.
 - **record:** Draw the door from above, as a bird looking down would. Draw yourself pushing on one side, and pulling on the other.
@@ -315,7 +315,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
   *Child mode:* Same door, same way. Why was it a push once and a pull once?
   - Ask: Why? (good: Because I was on a different side.; From one side it went away from me. From the other side it came towards me.)
   - Note: Let your child explain first. Then say it plainly: push and pull are both forces, and the word depends on where you stand.
-  - Check: Ravi pushes a door shut from inside. His sister Anu pulls the same door shut from outside. Which way does the door go? → **The same way both times**
+  - Check: You push a door shut from inside. Later you pull the same door shut from outside. Which way does the door go? → **The same way both times**
 ### a3 · Ant Helpers: who pushes, who pulls? (10 min)
 - **record:** Draw an ant pulling food, and an ant pushing food.
 - **s1 (2 min)**  
@@ -409,7 +409,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
    **Answer:** Opening a cupboard → Pull; Kicking a football → Push; Pressing a doorbell → Push; Pulling a bucket up from a well → Pull; Pushing a shopping trolley → Push; Taking a book off a shelf → Pull. *Why:* A push moves a thing away from you. A pull moves it towards you. A strong answer says which way the thing moved.
 2. (match) Draw a line from each machine to what it does.  
    **Answer:** Tractor → Pulls a trolley full of sugarcane; Bulldozer → Pushes soil and stones; Crane → Pulls heavy things up; Tugboat → Pulls a big ship into the harbour. *Why:* Machines are made to push or pull for us. A tractor and a tugboat pull, a bulldozer pushes, and a crane pulls up with its cable.
-3. (mcq) Tara, a girl who plays carrom, flicks a striker softly, then flicks it hard. Which time does the striker go further?  
+3. (mcq) You flick a carrom striker softly, then flick it hard. Which time does the striker go further?  
    Options: The gentle push / The hard push / Both the same  
    **Answer:** The hard push. *Why:* A harder flick is a bigger push. The striker moves faster, so it goes further before it stops.
 4. (draw) Draw yourself pushing something. Show it moving away from you.  
@@ -421,19 +421,19 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 7. (odd) Three of these are pulls. Which one is a push?  
    Options: Opening a drawer / Pulling a suitcase along / Closing a door / Pulling a kite string  
    **Answer:** 2. *Why:* Closing a door moves it away from you, so it is a push. The others bring something towards you.
-8. (write) Say out loud, and a grown-up writes it down: why did the full box not slide as far as the empty box?  
+8. (write) In the Little Push, Big Push test, why did the full box not slide as far as the empty box? Say it out loud, and a grown-up writes it down.  
    **Answer:** It was heavy. The same push was not big enough to send it far.. *Why:* A strong answer says the full box was heavier, and a heavier thing needs a bigger push.
-9. (perspective) Nandini, aged 6, and her friend Farhan, aged 5, closed a bedroom door together. Nandini was inside the room. Farhan was outside, holding the handle.  
-   **Answer:** Both are right. From inside, the door moved away from Nandini, so she pushed. From outside, it came towards Farhan, so he pulled.. *Why:* A strong answer notices where each child stood. The door moved the same way, and push or pull depends on where you stand.
+9. (perspective) The first child, aged 6, and her friend the second child, aged 5, closed a bedroom door together. The first child was inside the room. The second child was outside, holding the handle.  
+   **Answer:** Both are right. From inside, the door moved away from the first child, so she pushed. From outside, it came towards the second child, so he pulled.. *Why:* A strong answer notices where each child stood. The door moved the same way, and push or pull depends on where you stand.
 10. (label) Look at the playground. A grown-up points to each child. Say PUSH or PULL for each, and the grown-up writes it.  
-   **Answer:** ['push', 'pull', 'push', 'pull']. *Why:* The swing and the roundabout move away from the hands, so those are pushes. The toy car and the boy's body come towards his hands, so those are pulls.
+   **Answer:** ['push', 'pull', 'push', 'pull']. *Why:* The swing and the roundabout move away from the hands, so those are pushes. The toy car comes towards the boy who holds it, so that is a pull. The boy on the climbing frame brings his body up towards his hands, so that is a pull too.
 ### Pushes and Pulls All Around (stretch) (stretch, 10 questions)
 1. (order) In the Pull-Along Train, put the trains in order, from the shortest rubber band stretch to the longest.  
    **Answer:** ['1 box', '2 boxes', '3 boxes']. *Why:* More boxes are heavier, so they need a bigger pull. A bigger pull stretches the band longer.
 2. (write) Say out loud, and a grown-up writes it: how did the rubber band show you how big your pull was?  
    **Answer:** When I pulled harder, the band stretched longer. Three boxes made it stretch the most.. *Why:* A strong answer links a longer stretch to a bigger pull.
-3. (perspective) Ishita and Gauri are talking about pushes and pulls in Hyderabad.  
-   **Answer:** A strong answer picks a side and gives a reason. For Gauri: both are forces. For Ishita: a floppy rope can only pull, so for a rope they really are different.. *Why:* Both girls see something true. Pushes and pulls are both forces. But some things, like a rope, can only pull, so builders care which one a thing must take.
+3. (perspective) The first child and the second child are talking about pushes and pulls.  
+   **Answer:** A strong answer picks a side and gives a reason. For the second child: both are forces. For the first child: a floppy rope can only pull, so for a rope they really are different.. *Why:* Both girls see something true. Pushes and pulls are both forces. But some things, like a rope, can only pull, so builders need to know whether a part will be pushed or pulled.
 4. (mcq) A cricket ball lies still on the grass. Which of these will NOT start it moving?  
    Options: A kick / A strong wind / Looking at it hard  
    **Answer:** Looking at it hard. *Why:* A still thing starts to move only when a push or a pull acts on it. Looking is not a push or a pull.
@@ -457,9 +457,9 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 - **An astronaut flying through the space station** (NASA, 1 min) id `FKsghZt8bLs`: Shows an astronaut in space pushing off and floating from place to place. *Check:* Found by search: "Astronaut Matthew Dominick Flies Through The International Space Station" by NASA, 21 seconds. A parent may preview it.
 
 ## Quiz
-1. (mcq) A girl called Diya drags a mat across the room by its corner, walking backwards. Is that a push or a pull?  
+1. (mcq) You drag a mat across the room by its corner, walking backwards. Is that a push or a pull?  
    Options: A pull / A push / Neither  
-   **Answer:** A pull. *Why:* The mat comes towards Diya, so it is a pull.
+   **Answer:** A pull. *Why:* The mat comes towards you, so it is a pull.
 2. (mcq) A boy called Arjun pushes a swing. Which way does the swing move?  
    Options: Towards Arjun / Away from Arjun / It stays still  
    **Answer:** Away from Arjun. *Why:* A push moves a thing away from you.
@@ -469,10 +469,10 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 4. (mcq) What do scientists call any push or pull?  
    Options: A force / A machine / A toy  
    **Answer:** A force. *Why:* Force is the scientists' word for every push and every pull.
-5. (mcq) A girl called Bornali wants her toy car to go as far as it can. What should she do?  
+5. (mcq) You want your toy car to go as far as it can. What should you do?  
    Options: Give it a tiny push / Hold it still / Give it a big push  
    **Answer:** Give it a big push. *Why:* A bigger push makes the car go faster, so it goes further.
-6. (mcq) A girl called Thenmozhi pushes her little sister on a swing. Which push sends the swing higher?  
+6. (mcq) You push someone on a swing. Which push sends the swing higher?  
    Options: A smaller push / A bigger push / Both the same  
    **Answer:** A bigger push. *Why:* A bigger push makes the swing move faster, so it goes higher.
 7. (mcq) Which is harder to push across the floor?  
@@ -484,9 +484,9 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 9. (mcq) Which machine is made to pull?  
    Options: A bulldozer / A tractor with a trolley / A road roller  
    **Answer:** A tractor with a trolley. *Why:* A tractor pulls a trolley behind it. A bulldozer pushes soil, and a road roller presses the road flat.
-10. (mcq) In the playground, a girl called Lakshmi pushes a roundabout. What does her push do?  
-   Options: It makes the roundabout start to turn / It pulls the roundabout towards her / Nothing  
-   **Answer:** It makes the roundabout start to turn. *Why:* Her push moves the roundabout away from her hands, so it starts to turn.
+10. (mcq) In the playground, you push a roundabout. What does your push do?  
+   Options: It makes the roundabout start to turn / It pulls the roundabout towards you / Nothing  
+   **Answer:** It makes the roundabout start to turn. *Why:* Your push moves the roundabout away from your hands, so it starts to turn.
 
 ## Applications
 - Cranes on building sites pull heavy loads up with strong cables.
@@ -501,7 +501,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 - A metro or lift door in Kolkata or Bengaluru that slides open and shut, pushed and pulled by a motor.
 
 ## Open questions
-- **How do a group of ants agree which way to pull a big crumb?** Many ants pull together without bumping into each other's way. Scientists have found that some ants seem to steer the group, but they are still studying how the whole group decides.
+- **How do a group of ants agree which way to pull a big crumb?** Many ants pull together without getting in each other's way. Scientists have found that some ants seem to steer the group, but they are still studying how the whole group decides.
 - **What is the Earth's pull, gravity, really?** We can measure gravity very well, and it pulls without touching. But scientists still do not fully understand what gravity is at the very tiniest scale.
 - **Are there pushes and pulls nobody has found yet?** Scientists know a few basic forces that make every push and pull. Some are still looking for new ones, and nobody knows if they will find any.
 
@@ -524,9 +524,9 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 - Why was the bucket so tired? *It was pulled up and down all day!*
 
 ## Connected maths
-- In the box test, Kavya, a girl in Class 1, gave a gentle push that sent the box 2 foot steps. Her big push sent it 7 foot steps. How many more steps did the big push go? **5 more steps.**. Count on from 2 to 7: 3, 4, 5, 6, 7. That is 5 more. So the big push sent the box 5 steps further. (queues `math.addition-subtraction.meaning.L1`)
-- Pooja, a girl in Class 1, watched people at home for ten minutes. She saw 6 pushes and 4 pulls. Did she see more pushes or more pulls? How many did she see in all? **More pushes. 10 in all.**. 6 is more than 4, so she saw more pushes. 6 and 4 make 10, so she saw 10 pushes and pulls in all. (queues `math.data.sorting-and-tallies.L1`)
-- In the Pull-Along Train, Revathi, a girl in Class 1, marked the rubber band on a paper strip three times. Which mark is the longest? Which train made it? **The longest mark is from the train of 3 boxes.**. Lay the marks side by side, all starting from the same end of the strip. The 3-box mark reaches furthest, so it is the longest. The longest stretch means the biggest pull. (queues `math.length.comparing-length.L1`)
+- In the Little Push, Big Push test, a gentle push sent the box 2 foot steps. A big push sent it 7 foot steps. How many more steps did the big push go? **5 more steps.**. Count on from 2 to 7: 3, 4, 5, 6, 7. That is 5 more. So the big push sent the box 5 steps further. (queues `math.addition-subtraction.meaning.L1`)
+- You watch people at home for ten minutes. You see 6 pushes and 4 pulls. Did you see more pushes or more pulls? How many did you see in all? **More pushes. 10 in all.**. 6 is more than 4, so you saw more pushes. 6 and 4 make 10, so you saw 10 pushes and pulls in all. (queues `math.data.sorting-and-tallies.L1`)
+- In the Pull-Along Train, you marked the rubber band on a paper strip three times: for one box, two boxes and three boxes. Which mark is the longest? Which train made it? **The longest mark is from the train of 3 boxes.**. Lay the marks side by side, all starting from the same end of the strip. The 3-box mark reaches furthest, so it is the longest. The longest stretch means the biggest pull. (queues `math.length.comparing-length.L1`)
 
 ## Song
 Push It, Pull It (sci.forces.L1): Topic-level song for Forces and movement L1
@@ -554,6 +554,7 @@ Push It, Pull It (sci.forces.L1): Topic-level song for Forces and movement L1
 ## Sources
 - ideas/by_topic/forces-and-movement.md: the founder's note that the ground pushes back and holds you, and that everything pushes when you push on it, belongs to the Level 3 unit (Push the Wall). Her idea of a relay pushing carts of different weights grew into the full-box push in the box test and the Pull-Along Train. Tug of war and the balloon rocket are already in Level 3, so this unit uses the box slide, the two-sided door, the pull-along train, the bedsheet ride and the ant watch instead.
 - Cambridge Primary Science Stage 1, Unit 5 (In the playground, How toys work, Pushes and pulls around us): the playground pushes and pulls, the pull-along toy, the push or pull hunt, machines that push and pull, and the idea that a heavy thing needs a bigger push.
+- Émilie du Châtelet, Principes mathématiques de la philosophie naturelle, 1759 (her French translation of the Principia with her own commentary).
 - Newton's first law of motion (Principia, 1687): a body at rest stays at rest, and a moving body keeps moving in a straight line, unless a force acts on it.
 - Aristotle's account of projectile motion, in which the air moved by the thrower carries the projectile on (Physics, Book 8).
 - John Philoponus (6th century, Alexandria), commentary on Aristotle's Physics: his argument against air carrying projectiles, and his idea of an impressed force.

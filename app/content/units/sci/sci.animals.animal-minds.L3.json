@@ -219,7 +219,7 @@
    "concept": "Animals use tools",
    "status": "defined",
    "definition": "A tool is an object an animal uses to help them do a job. It is not part of their own body.",
-   "description": "People once said only humans use tools. In 1960, Jane Goodall watched a chimpanzee in Tanzania. She named him David Greybeard. He pulled a grass stem, stripped off its leaves and poked it into a termite mound. Termites grabbed the stem, and he ate them. Since then, scientists have found many tool users. New Caledonian crows, from islands in the Pacific Ocean, make hooks from forked twigs and cut tools from stiff leaves. They use them to pull grubs out of holes. In 2002, a crow called Betty bent a straight wire into a hook to lift a little bucket of food out of a tube.",
+   "description": "People once said only humans use tools. In 1960, Jane Goodall watched a chimpanzee in Tanzania. She named him David Greybeard. He pulled a grass stem, stripped off its leaves and poked it into a termite mound. Termites grabbed the stem, and he ate them. Since then, scientists have found many tool users. New Caledonian crows, from islands in the Pacific Ocean, make hooks from forked twigs and cut tools from stiff leaves. They use them to pull grubs out of holes. In 2002, a crow called Betty bent a straight wire into a hook to lift a little bucket of food out of a tube. The Oxford scientists who tested her were Alex Weir, Jackie Chappell and Alex Kacelnik.",
    "examples": [
     "In Africa, Egyptian vultures throw stones at ostrich eggs to crack them open. Jane Goodall and Hugo van Lawick reported this in 1966. These vultures live in India too.",
     "Sea otters float on their backs and crack shellfish on a stone.",
@@ -233,7 +233,7 @@
    "concept": "Animals solve problems",
    "status": "defined",
    "definition": "Problem solving is finding a new way to get what you want, when the usual way does not work.",
-   "description": "About a hundred years ago, Wolfgang Kohler, a German scientist, put bananas out of reach of chimpanzees. One chimpanzee, Sultan, fitted two short sticks together to make one long one, and pulled the fruit in. In 2009, Christopher Bird and Nathan Emery gave rooks a tube of water with a worm floating too low to reach. The rooks dropped in stones until they could reach it. They picked big stones first. Later, New Caledonian crows passed similar tests, and chose sinking stones over floating things.",
+   "description": "About a hundred years ago, Wolfgang Kohler, a German scientist, put bananas out of reach of chimpanzees. One chimpanzee, Sultan, fitted two short sticks together to make one long one, and pulled the fruit in. Around the same time in Moscow, Nadezhda Ladygina-Kohts raised a young chimpanzee named Joni at home and tested how he solved problems. In 2009, Christopher Bird and Nathan Emery gave rooks a tube of water with a worm floating too low to reach. The rooks dropped in stones until they could reach it. They picked big stones first. Later, New Caledonian crows passed similar tests, and chose sinking stones over floating things.",
    "examples": [
     "A cat learns to pull down a door handle with their paw."
    ],
@@ -3531,6 +3531,7 @@
   ],
   "science": [
    "Weir, Chappell and Kacelnik, Science 2002 (Betty the crow shapes a wire hook)",
+   "Ladygina-Kohts, Infant Chimpanzee and Human Child, 1935 (she began testing the chimpanzee Joni in 1913, about the same time as Kohler worked in Tenerife; her work was less known outside Russia); https://en.wikipedia.org/wiki/Nadezhda_Ladygina-Kohts",
    "Bird and Emery, Current Biology 2009 (rooks and the Aesop's fable task); Jelbert and others, PLoS ONE 2014 (New Caledonian crows)",
    "Pfungst, Clever Hans (The Horse of Mr. von Osten), 1907",
    "Hare and others, Science 2002 (dogs and human social cues); Muller and others, Current Biology 2015 (dogs tell happy from angry faces)",

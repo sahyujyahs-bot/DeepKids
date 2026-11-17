@@ -3360,6 +3360,7 @@
       "Other units were checked so that nothing repeats. The Spit Test is in sci.food.healthy-food.L2. Dry or Wet, the Oil and Soap Bottles, the Pleated Cloth Test and the Sweetcorn Clock are in sci.body.digestion.L4. Say It While You Swallow is in sci.body.organs-inside.L5. The curd and kitchen units hold curd and fermenting. The Run Test goes beyond the Spit Test by adding heat, acid and a control, Starch or Fibre tests a second food, and the lactose story is new."
     ],
     "science": [
+      "Michaelis L., Menten M. L. (1913). Die Kinetik der Invertinwirkung. Biochemische Zeitschrift 49: 333-369 (Maud Menten, a Canadian doctor, worked in Michaelis's Berlin laboratory; her part is sometimes overlooked). https://en.wikipedia.org/wiki/Maud_Menten",
       "Payen A., Persoz J.-F. (1833). Mémoire sur la diastase, les principaux produits de ses réactions et leurs applications aux arts industriels. Annales de chimie et de physique 53.",
       "Prout W. (1824). On the nature of the acid and saline matters usually existing in the stomachs of animals. Philosophical Transactions of the Royal Society 114: 45-49. Read in 1823.",
       "Schwann T. (1836). Ueber das Wesen des Verdauungsprocesses. Annalen der Physik 114: 358-364.",
@@ -3384,9 +3385,9 @@
   },
   "how_we_found_out": {
     "context": "How did people find out that enzymes can work with no living cell at all? This card tells the true story of a juice made from yeast.",
-    "story": "In the 1850s and 1860s, the French scientist Louis Pasteur showed that yeast turn sugar into alcohol. Many scientists then held that only a living cell could cause such a change. In 1877 the German scientist Wilhelm Kühne named the substances that do the work 'enzymes', from Greek words meaning 'in yeast'. But nobody had shown one working with no living cell. In 1897 the German chemist Eduard Buchner ground yeast with sand and pressed out a juice. The juice held no living yeast cells. He stirred in a great deal of sugar. The juice began to bubble. The sugar was turning into alcohol and gas. A juice with no living cell could still do the work. Buchner won the Nobel Prize in Chemistry in 1907. In 1926 James Sumner made crystals of one enzyme and showed that it is a protein.",
-    "who": "Louis Pasteur, Wilhelm Kühne, Eduard Buchner, and James Sumner",
-    "when": "Pasteur in the 1850s and 1860s, the name 'enzyme' in 1877, Buchner's pressed juice in 1897, and Sumner's crystals in 1926",
+    "story": "In the 1850s and 1860s, the French scientist Louis Pasteur showed that yeast turn sugar into alcohol. Many scientists then held that only a living cell could cause such a change. In 1877 the German scientist Wilhelm Kühne named the substances that do the work 'enzymes', from Greek words meaning 'in yeast'. But nobody had shown one working with no living cell. In 1897 the German chemist Eduard Buchner ground yeast with sand and pressed out a juice. The juice held no living yeast cells. He stirred in a great deal of sugar. The juice began to bubble. The sugar was turning into alcohol and gas. A juice with no living cell could still do the work. Buchner won the Nobel Prize in Chemistry in 1907. In 1913 Maud Menten, a doctor from Canada, and Leonor Michaelis measured how fast an enzyme from yeast works, and the rule still carries both names. In 1926 James Sumner made crystals of one enzyme and showed that it is a protein.",
+    "who": "Louis Pasteur, Wilhelm Kühne, Eduard Buchner, Maud Menten with Leonor Michaelis, and James Sumner",
+    "when": "Pasteur in the 1850s and 1860s, the name 'enzyme' in 1877, Buchner's pressed juice in 1897, Menten and Michaelis's measurements in 1913, and Sumner's crystals in 1926",
     "wrong_idea": "That the work of digesting and fermenting can be done only by a living cell. Buchner showed that a juice with no living cells could still turn sugar into alcohol and gas.",
     "art": "A laboratory bench in 1897 with a heavy press, a bowl of pale yeast, a glass flask of bubbling juice and a man in a dark coat writing in a notebook."
   },

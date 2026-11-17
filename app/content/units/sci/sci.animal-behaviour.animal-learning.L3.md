@@ -63,7 +63,7 @@ Chimpanzees shown a clear puzzle box skipped a step that did nothing. Children c
 - **Other scientists, such as Harriet Over and Malinda Carpenter:** People copy to fit in and to show they are like the person who showed them. Copying exactly is a way of being friends.
 - **Others again:** Copying everything is a quick way to pick up skills too hard to work out alone, such as making a fishing net. It helps more often than it wastes time.
 ### Do animals have traditions? · *debated*
-In 1953, on the island of Koshima in Japan, a young macaque monkey called Imo began washing sweet potatoes in water. Over the next years, most of her group did it too. In 2015, Lucy Aplin and her team in Wytham Woods, near Oxford, taught two great tits in each of several groups to open a puzzle box by sliding its door one way. Each group spread its own way, and the habit was still there the next year. Scientists argue about whether to call these traditions 'culture'.
+In 1953, on the island of Koshima in Japan, a young macaque monkey called Imo began washing sweet potatoes in water. Many accounts credit a young researcher, Satsue Mito, with first noticing it. Over the next years, most of her group did it too. In 2015, Lucy Aplin and her team in Wytham Woods, near Oxford, taught two great tits in each of several groups to open a puzzle box by sliding its door one way. In each group, the other birds picked up that same way, and they were still using it the next year. Scientists argue about whether to call these traditions 'culture'.
 - e.g. Macaques on Koshima wash sweet potatoes, a habit that began with Imo.
 - e.g. Great tits in each group slid the puzzle door the same way as their group.
 - e.g. Some groups of chimpanzees crack nuts with stones, and others nearby do not.
@@ -89,7 +89,7 @@ In 1953, on the island of Koshima in Japan, a young macaque monkey called Imo be
   Against: Dogs, crows, bees, fish and chimpanzees all change what they do after experience. Chaser learned over 1,000 names.
 - **Copying is the lazy way to learn. Working things out yourself is always better.** (A common idea; *debated*)  
   For: Working it out helps you understand why something works.  
-  Against: Some skills, like termite fishing or weaving a basket, are too hard to work out alone. Young chimpanzees take years and learn faster by watching.
+  Against: Some skills, like termite fishing or weaving a basket, are too hard to work out alone. Young chimpanzees take years to learn termite fishing, and they learn it by watching their mothers.
 - **Only people have culture.** (Some scientists today; *debated*)  
   For: People build on each other's ideas over thousands of years, from the wheel to the phone. No animal does that as far as we know.  
   Against: Chimpanzees, macaques, great tits, whales and dolphins keep group habits learned from each other for years.
@@ -97,32 +97,32 @@ In 1953, on the island of Koshima in Japan, a young macaque monkey called Imo be
 ## Roots
 We have learned how animals learn by trying, by watching and by working things out, and we tested how people copy. Now we ask what copying tells us about ourselves and the world.
 
-**Deep truth.** In tests like yours, most people copied the tap, though the clear box showed it did nothing. Chimpanzees shown a clear box mostly skipped such a step. People copy whole ways of doing things before they understand them. So a habit can pass down for generations without anyone knowing why.  
-*Habit it breaks:* We call copying the simple way to learn, and say 'monkey see, monkey do'. But the chimpanzees skipped the useless step, and the people copied it. Copying every step exactly is a strong human way of learning, and it carries reasons we may have forgotten.  
-*Evidence:* In Horner and Whiten's clear box test, most chimpanzees skipped the useless poke and most children copied it. Grown-ups copy useless steps even more. In your own test, count how many people tapped the lid and how many could say why.
+**Deep truth.** In the Useless Step Test, most people copy a tap on the lid that the clear box shows does nothing. Chimpanzees shown a clear box mostly skipped such a step. People copy whole ways of doing things before they understand them. So a habit can pass down for generations without anyone knowing why.  
+*Habit it breaks:* People often think copying is the simple way to learn, and say 'monkey see, monkey do'. But in the clear box test, the chimpanzees skipped the useless step and the people copied it. Copying every step exactly is something people do very strongly. It passes on steps even when the reason for them has been forgotten.  
+*Evidence:* In Horner and Whiten's clear box test, most chimpanzees skipped the useless poke and most children copied it. Grown-ups copy useless steps even more. In the Useless Step Test, count how many people tapped the lid and how many could say why.
 
 - *who am i:* Much of what you do, from how you eat to how you draw a kolam, you copied from people before you understood it.
 - *what is life:* A crow, a dog and a chimpanzee keep learning all their lives, from what happens and from each other.
-- *what is this world:* Ways of doing things travel from mind to mind, among birds, apes and people, and some last for years.
+- *what is this world:* Ways of doing things pass from one to another by watching, among birds, apes and people, and some last for years.
 
-One great tit in each group was shown one way to open a box. Within weeks, most of the group used that same way. One bird's way became the way of many birds, carried by watching. Every tradition, in a crow family, a chimpanzee group or a home in Madurai, began as one mind's way of doing something and spread into many minds.
+Two great tits in each group were taught one way to open a puzzle box. The rest of the group then used that same way, because they watched. Every tradition, in a crow family, a chimpanzee group or Paati's home in the story The Tap on the Plate, began with one animal or person doing something a certain way. It spread when others watched and copied.
 
-- **Taittiriya Upanishad 1.11.2:** The teacher tells the students who are leaving: follow the good things we did, and not the others. (The teacher asks the students to copy only what is good, not every step. That is the choice the chimpanzees made with the clear box, and the one people often skip.)
-- **Kalama Sutta (Anguttara Nikaya 3.65):** The Buddha tells the Kalama people not to accept something only because it has been handed down, or because a teacher said it. Test it for yourself, and keep what you find to be good. (In the story, Meenakshi tested the tap and the turn one at a time. She kept the tap, which called the crows, and dropped the turn.)
+- **Taittiriya Upanishad 1.11.2:** The teacher tells the students who are leaving: follow the good things we did, and not the others. (The teacher asks the students to copy only what is good, not every step. Chimpanzees did something like that with the clear box: they copied only the step that worked. People often copy every step.)
+- **Kalama Sutta (Anguttara Nikaya 3.65):** The Buddha tells the Kalama people not to accept something only because it has been handed down, or because a teacher said it. Test it for yourself, and keep what you find to be good. (In the story The Tap on the Plate, Meenakshi tested the tap and the turn of the plate one at a time. She kept the tap, which called the crows, and dropped the turn.)
 - Science (settled): Children in many countries, from Scotland to the Kalahari Desert, copy useless steps, and grown-ups copy them even more.
 - Science (debated): Why people overimitate is still argued. Some scientists say we expect every step to have a reason. Others say we copy to fit in.
 - Other view, Harriet Over and Malinda Carpenter, psychologists: Over-copying may not be about learning at all. Children copy useless steps mainly to show they are like the person who showed them, the way friends copy each other's words.
 - Practice, Copy the breath (3 min): Sit facing each other. I will breathe in a slow way. Watch my shoulders and my belly, and breathe the same way as me. Now close your eyes and breathe your own way. Did your breath change after copying mine? Whose breath is it now?
-- Ask: If you copied a step and never found out why, is it still yours?
-- Ask: Is there a step in your home that holds a reason nobody remembers?
+- Ask: If you copy a step and never find out why it is done, have you really learned it?
+- Ask: Is there something your family always does, where nobody remembers the reason?
 - Ask: When is it wise to copy everything, and when is it wise to test each step?
 
 ## Deep and big questions
 - *deep:* If you copy a step and never find out why, have you learned it? (hint: Think of the tap in the Useless Step Test.)
-- *deep:* The chimpanzees skipped the useless step, and the children copied it. Who was cleverer? (hint: Skipping saves time. Copying keeps steps that might matter. Which would help more in a forest full of new things?)
+- *deep:* In a test with a clear puzzle box, chimpanzees skipped a step that did nothing. Children copied it. Who was cleverer? (hint: Skipping saves time. Copying keeps steps that might matter. Which would help more in a forest full of new things?)
 - *deep:* Chaser knew the names of 1,022 toys. Did she understand them the way you understand words? (hint: She could fetch a toy by name. Could she tell you about it? What else does knowing a word mean?)
 - *big:* How many things you do each day did you learn by copying someone? (hint: Brushing your teeth, folding your hands, the way you say hello.)
-- *big:* If every crow in a city learned from other crows that a person is dangerous, does the city's crow group know something no single crow found out? (hint: Who knows a tradition: each animal, or the group?)
+- *big:* Crows in a city can learn from other crows that a person is dangerous, without ever being harmed by that person. So who knows it: each crow, or the whole group? (hint: Who knows a tradition: each animal, or the group?)
 
 ## Story: The Tap on the Plate
 *Meenakshi, her grandmother, Arjun and the crows are made up. Feeding crows a little rice before lunch is a real custom in many Tamil homes. Animals learning that a sound comes before food is real and well studied, but this story's crows are invented.*
@@ -233,7 +233,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - **s3 (3 min)**  
   *Parent does:* Talk about why some actions arrived and others did not.  
   *Parent says:* Scientists did this with chimpanzees and a puzzle box. A way of opening the box passed along a chain of six chimpanzees. Why do you think some of our actions got lost?  
-  *Child mode:* Scientists tested chimpanzees in lines like this. They passed on a way to open a box.
+  *Child mode:* Scientists tested chimpanzees in a line like this. The chimpanzees passed a way of opening a box along the line.
   - Check: In Action Telephone, why do some actions change along the line? → **Each player copies what the player before them did, not the card**
 
 ## Experiments
@@ -241,7 +241,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - **question:** If you show people how to open a box, and one step clearly does nothing, will they copy that step?
 - **predict:** Guess first. When each person opens the box, will they tap the lid like you did? Will they turn the box around? Why do you think so?
 - **fair test:** Every person sees exactly the same show, with the same words. Test one person at a time, while the others wait in another room, so nobody copies anybody but you. Put the box, the spoon and the prize back in the same place each time.
-- **record:** Fill in the results table, one line for each person. Then write: what I think, what I saw, and why.
+- **record:** Fill in the results table, one line for each person. Then write what you think the answer is, what you saw, and why you think so.
 - **results table:** Person | Tapped the lid? (yes or no) | Turned the box around? (yes or no) | Opened the lid and took the prize? (yes or no) | Why they said they did it
 - **s1 (5 min)**  
   *Parent does:* 1. Put the prize in the clear box and close the lid. 2. Put the box and the spoon on a table. 3. Practise the show three times. Tap the lid twice with the spoon. Turn the box around once. Lift the lid and take the prize.  
@@ -270,9 +270,9 @@ And the crows? The crows had been learning all along. They had learned that a ti
   *Child mode:* Ask each person why they tapped, or why they didn't. Write their answer.
   - Ask: What did people say when you asked why they tapped? (good: 'I thought I had to.'; 'You did it, so I did it.'; 'I didn't think about it.')
 - **s6 (5 min)**  
-  *Parent does:* 1. Count how many people tapped and how many turned the box. 2. Help your child say: what I think, what I saw, and why. 3. Then tell them what chimpanzees did.  
+  *Parent does:* 1. Count how many people tapped and how many turned the box. 2. Help your child say what they think the answer is, what they saw, and why they think so. 3. Then tell them what chimpanzees did.  
   *Parent says:* Scientists did this test with chimpanzees and a clear box. Most chimpanzees skipped the useless step and went straight for the reward. Children kept copying it.  
-  *Child mode:* Count how many people tapped. Say what you think, what you saw, and why. Then hear what the chimpanzees did.
+  *Child mode:* Count how many people tapped. Say what you think the answer is, what you saw, and why you think so. Then hear what the chimpanzees did.
   - Note: If nobody tapped, that is a real result too. Ask them why. Perhaps they saw the tap did nothing, as the chimpanzees did, or guessed it was a test. Scientists find that most people copy, but not everyone.
   - Check: Chimpanzees were shown a clear puzzle box with a useless step. Most skipped that step. What did most children do? → **They copied the useless step**
 ### e2 · Pass It On: does a way of opening a box travel down a chain? (30 min)
@@ -385,7 +385,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
 ## Projects
 ### p1 · The Plate Lesson: can a bird learn which plate has food? (55 min, 5 days)
 - **record:** A tally chart: day, which plate the first bird went to, and how long they took to come.
-- **schedule:** day 1: Put food only on the red plate. Put the empty blue plate next to it. Watch for 5 minutes. Write which plate the first bird lands at. (10 min); day 2: Same as day 1, but swap the places of the two plates. (10 min); day 3: Same again, plates swapped back. (10 min); day 4: Test day. Put a little food on both plates, with the red plate on the side it was not on yesterday. Which plate does the first bird go to? (10 min); day 5: Test again, swapping the sides once more. Make a tally chart of all 5 days and say what the birds learned. (15 min)
+- **schedule:** day 1: Put food only on the red plate. Put the empty blue plate next to it. Watch for 5 minutes. Write which plate the first bird lands at. (10 min); day 2: Same as day 1, but swap the places of the two plates. (10 min); day 3: Same as day 1, with the plates back in their day 1 places. (10 min); day 4: Test day. Put a little food on both plates, with the red plate on the side it was not on yesterday. Which plate does the first bird go to? (10 min); day 5: Test again, swapping the sides once more. Make a tally chart of all 5 days and say what the birds learned. (15 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Put a spoonful of rice on the red plate only. 2. Put both plates on the ledge, a hand-width apart. 3. Step back from the window. 4. Watch for up to 5 minutes and write which plate the first bird lands at.  
   *Parent says:* Birds learn from what happened before. Let's see if they learn that red means food.  
@@ -413,7 +413,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
 ### c1 · Build a Two-Door Prize Box (30 min)
 - **problem:** Scientists who test copying use a box that opens two different ways, both equally easy. Build one at home for the Pass It On test.
 - **your turn:** Now design your own two-way box. Test it: time how long each door takes to open. If one is much quicker, change it until they match.
-- **constraints:** Use only things from home.; Both doors must open just as easily.; A prize inside must be reachable through either door.; Nobody can see which door you used from the outside after it is closed.
+- **constraints:** Use only things from home.; Both doors must open just as easily.; A prize inside must be reachable through either door.; After the box is closed, nobody can tell from the outside which door you used.
 - **general:** Cut a flap in the top and a flap in one side. Tape a handle to each.; Cut one sliding door from cardboard that can slide left or slide right, like the box used for great tits.; Use a steel dabba with a lid that can be lifted, or twisted off.
 - **creative:** Make one door push in and the other pull out.; Hang the prize on a thread in the middle, so it can be reached from either side.; Make the box clear by using a plastic bottle, so people can see inside.
 - **s1 (5 min)**  
@@ -440,7 +440,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
    Options: A piece of biscuit / A loud noise / Being ignored / A bath  
    **Answer:** A piece of biscuit. *Why:* A reward is something good that comes after an action, so the action happens more. Food is a reward for most dogs. A loud noise would make sitting happen less.
 4. (truefalse) A friend says: 'Only people can learn. Animals do everything by instinct.' Is your friend right?  
-   **Answer:** False. *Why:* False. Dogs learn tricks, crows learn which people are dangerous, and bees learn flower colours. A strong answer gives one example.
+   **Answer:** False. *Why:* No, your friend is wrong. Dogs learn tricks, crows learn which people are dangerous, and bees learn flower colours. A strong answer gives one example.
 5. (write) Remember the Useless Step Test, where you tapped the lid of a clear box before opening it. What did the people you tested do? Use your results table.  
    **Answer:** A strong answer gives the numbers, such as '3 out of 4 people tapped the lid', and says what they said when asked why.. *Why:* Using your own results is the evidence. A strong answer gives a number and a reason someone gave.
 6. (mcq) In the Useless Step Test, why does the box need to be clear?  
@@ -459,9 +459,9 @@ And the crows? The crows had been learning all along. They had learned that a ti
 11. (fill) Copying a step that does nothing, even when you can see it does nothing, is called ____.  
    **Answer:** ['overimitation']. *Why:* Over means too much. Overimitation is copying more than you need to. People do it far more than chimpanzees.
 12. (perspective) Two sisters in Chennai watched the Useless Step Test. They argue about the tap.  
-   **Answer:** A strong answer uses evidence from the test, such as how many people tapped and why they said they did. It sees both sides. Divya is right that the tap did nothing in a clear box. Kavya is right that copying every step is often useful, because some steps matter in ways we can't see.. *Why:* Scientists still argue about why people overimitate. Both sisters have part of the answer.
+   **Answer:** A strong answer uses evidence from the test, such as how many people tapped and why they said they did. It sees both sides. The first child is right that the tap did nothing in a clear box. The second child is right that copying every step is often useful, because some steps matter in ways we can't see.. *Why:* Scientists still argue about why people overimitate. Both sisters have part of the answer.
 13. (order) Put the steps of the Useless Step Test in order.  
-   **Answer:** ['Do the show: tap, turn, open', 'Put the prize back and close the lid', "Say 'Now you get the prize out'", 'Ask the person why they tapped the lid']. *Why:* First the show, then reset the box, then let them try, and ask why only at the end, so the question doesn't change what they do.
+   **Answer:** ['Do the show: tap, turn, open', 'Put the prize back and close the lid', "Say 'Now you get the prize out'", 'Ask the person why they tapped the lid']. *Why:* First you do the show. Then you put the prize back and close the lid. Then the person tries. You ask why only at the end, so that the question does not change what they do.
 14. (mcq) A crow pecks at a tied plastic bag in different places until one peck tears it open. What is this way of learning called?  
    Options: Trial and error / Instinct / Imitation / A tradition  
    **Answer:** Trial and error. *Why:* Trying different ways until one works, and keeping the way that works, is trial and error. Imitation would mean copying another crow.
@@ -474,8 +474,8 @@ And the crows? The crows had been learning all along. They had learned that a ti
 2. (mcq) Chaser heard a toy name she had never heard. Only one toy in front of her was new to her. She picked it. What did she do?  
    Options: She worked out that a new name must go with a new toy / She picked at random / She smelled the name / She was born knowing the toy  
    **Answer:** She worked out that a new name must go with a new toy. *Why:* She worked it out by leaving out the toys she already had names for. You do the same with a new word. Picking at random would not give the new toy every time.
-3. (label) Here is a picture of the clear puzzle box from the chimpanzee test. Label the part that did nothing and the part that gave the reward.  
-   **Answer:** ['the hole on top: did nothing', 'the door at the front: gave the reward']. *Why:* The poke into the top hole was the useless step. The reward came out through the front door. Chimpanzees who could see this skipped the top hole.
+3. (label) Here is a picture of a clear puzzle box. The sweet sits behind the door at the front. The hole on top leads to an empty space above the sweet. Label the part that does nothing and the part that gives the reward.  
+   **Answer:** ['the hole on top: did nothing', 'the door at the front: gave the reward']. *Why:* The hole on top does not reach the sweet, so poking it is a useless step. The reward comes out through the front door. Anyone who can see inside the box can tell this.
 4. (mcq) In Termite Fishing, a girl caught 2 grains per dip on her own, and 6 per dip after watching her aunt. What is the best explanation?  
    Options: Watching showed her how deep and how slowly to fish / The honey got stickier / She was born knowing / The bottle got bigger  
    **Answer:** Watching showed her how deep and how slowly to fish. *Why:* She copied the way her aunt pushed in deep and pulled out slowly. To be sure, she could try a few more dips without watching, to check it wasn't just practice.
@@ -504,18 +504,18 @@ And the crows? The crows had been learning all along. They had learned that a ti
    Options: Young dolphins learn it mostly from their mothers, and many dolphins elsewhere do not do it / Dolphins like sponges / All dolphins everywhere do it / It happens only in the sea  
    **Answer:** Young dolphins learn it mostly from their mothers, and many dolphins elsewhere do not do it. *Why:* An instinct would appear in dolphins everywhere. A habit that follows the mothers in one place is learned from them.
 ### Traditions and Tests (challenge) (challenge, 15 questions)
-1. (write) Chimpanzees with a clear box skipped the useless step. Children copied it. Give one reason why copying every step might help a young person learn.  
+1. (write) Chimpanzees shown a clear puzzle box skipped a step that did nothing. Children copied it. Give one reason why copying every step might help a young person learn.  
    **Answer:** A strong answer says that some steps matter in ways you can't see, so copying everything is safer, for example when learning to make a medicine from leaves or to weave a net.. *Why:* Scientists think overimitation helps people learn hard skills whose reasons are hidden.
 2. (mcq) Some chimpanzee groups in West Africa crack nuts with stones. Many other chimpanzee groups never do. What is the best explanation?  
    Options: Nut cracking is a tradition, learned from others in the group / Only some chimpanzees are born knowing it / The other chimpanzees don't like nuts / Stones are only found in West Africa  
-   **Answer:** Nut cracking is a tradition, learned from others in the group. *Why:* Differences between groups that are not explained by instinct or by what is around them point to traditions. Young chimpanzees learn nut cracking by watching for years.
+   **Answer:** Nut cracking is a tradition, learned from others in the group. *Why:* When one group does something and other groups do not, and it is not an instinct, it is probably a tradition learned from others in the group. Young chimpanzees learn nut cracking by watching for years.
 3. (perspective) Scientists argue about whether animals have culture.  
    **Answer:** A strong answer uses real examples, such as the great tits keeping their door into the next year, or people building from the wheel to the cycle. It sees that the two scientists agree on the facts and disagree about the word 'culture'.. *Why:* This is a real debate. Both sides use true evidence.
-4. (mcq) In the Pass It On test, a no-show person picked the top door. Everyone in the chain used the side door, the one you showed. What does the no-show person tell you?  
+4. (mcq) In the Pass It On test, one extra person got the box with no show, and picked the top door. Everyone in the chain used the side door, the one you showed. What does the extra person tell you?  
    Options: The side door is not the obvious choice, so the chain was copying / The test failed / The top door is broken / Nothing at all  
-   **Answer:** The side door is not the obvious choice, so the chain was copying. *Why:* The no-show person shows what people do on their own. If they pick differently from the chain, the chain's choice came from copying. One person is a small sample, so more no-show people would be better.
-5. (write) Ramya, a girl in Class 3, tested only her mother in the Useless Step Test. Her mother tapped the lid. Ramya says, 'Everybody copies useless steps.' What is wrong with her claim, and what should she do?  
-   **Answer:** One person is not enough to say 'everybody'. She should test more people, one at a time, and say 'most of the people I tested' only if most of them copied.. *Why:* A strong answer explains that a claim should be as big as the evidence.
+   **Answer:** The side door is not the obvious choice, so the chain was copying. *Why:* The extra person shows what people do on their own. If they pick differently from the chain, the chain's choice came from copying. One person is a small sample, so more people with no show would be better.
+5. (write) A girl tested only her mother in the Useless Step Test. Her mother tapped the lid. The girl says, 'Everybody copies useless steps.' What is wrong with her claim, and what should she do?  
+   **Answer:** One person is not enough to say 'everybody'. She should test more people, one at a time, and say 'most of the people I tested' only if most of them copied.. *Why:* A strong answer explains that you can only say as much as your evidence shows.
 6. (write) In the Plate Lesson, the first bird went to the red plate on day 4, but to the blue plate on day 5. Give two reasons this could happen.  
    **Answer:** It might be a different bird who never learned the red plate. The bird may not have learned the colour well in only 3 days. A strong answer suggests a fix, such as more days.. *Why:* Odd results are a clue. A strong answer thinks about who the bird was and how much time they had to learn.
 7. (match) Match each scientist to what they found.  
@@ -530,8 +530,8 @@ And the crows? The crows had been learning all along. They had learned that a ti
    **Answer:** That grain comes at that place and time. *Why:* The grain came at that place and time day after day, so the pigeons linked the two. That is learning from what happened before. One missed morning is only one result, so watching more mornings would make it surer.
 11. (write) Think of one thing your family always does in a special way. Is every step needed? How could you find out without upsetting anyone?  
    **Answer:** A strong answer names a real habit, says which step might not be needed, and suggests a gentle, fair test, such as trying it once without that step and comparing.. *Why:* This uses the idea of the unit, that copied steps may or may not still matter, on the child's own life.
-12. (write) Honeybees return to the flower colour that gave them the most nectar. How is this different from the macaques on Koshima washing sweet potatoes?  
-   **Answer:** The bees learn from what happened to them, with no one to watch. The macaques learned by watching others in their group, and the habit spread.. *Why:* A strong answer separates learning from your own experience from learning from others.
+12. (write) Honeybees return to the flower colour that gave them the most nectar. Young monkeys start washing their food after watching an older monkey do it. How are these two ways of learning different?  
+   **Answer:** The bees learn from what happened to them, with no one to watch. The young monkeys learn by watching others in their group, so the habit spreads.. *Why:* A strong answer separates learning from your own experience from learning from others.
 13. (sort) Sort each one: is it imitation, emulation or trial and error?  
    **Answer:** A child sees a friend get a mango with a stick, so she climbs a stool to reach one → Emulation; A child copies every tap on a box lid, exactly as shown → Imitation; A crow pecks a tied bag in different places until it tears open → Trial and error. *Why:* Imitation copies the exact steps. Emulation copies the goal in your own way. Trial and error tries ways until one works.
 14. (fill) When young animals learn a habit from others and a group keeps it for years, it is called a ____.  
@@ -548,7 +548,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
 1. (mcq) A baby sea turtle hatches on a dark beach and crawls straight to the sea. Nobody showed her. How does she know what to do?  
    Options: She learned by watching her mother / She was born knowing: it is an instinct / She was rewarded for it / She worked it out from a map  
    **Answer:** She was born knowing: it is an instinct. *Why:* Sea turtle mothers lay their eggs and swim away, so the babies never meet them. Crawling to the sea is an instinct. Picking 'watching her mother' would fit a chimpanzee, but not a turtle.
-2. (mcq) Revathi, a girl in Kochi, gives her dog a biscuit each time he gives his paw. Soon he gives his paw as soon as she holds out her hand. How did he learn?  
+2. (mcq) A dog gets a biscuit each time he gives his paw. Soon he gives his paw as soon as someone holds out a hand. How did he learn?  
    Options: He was born knowing it / From what happened before: the paw brought a biscuit / By watching another dog / By luck  
    **Answer:** From what happened before: the paw brought a biscuit. *Why:* The biscuit is a reward. Actions that bring a reward happen more often. That is how most dogs learn tricks.
 3. (mcq) At Gombe in Tanzania, young chimpanzees learn to fish for termites with grass stems. How do they mostly learn it?  
@@ -557,24 +557,24 @@ And the crows? The crows had been learning all along. They had learned that a ti
 4. (mcq) Crows in Seattle, in America, scolded a person wearing a certain mask. Some of the scolding crows had never been caught or harmed. How did they learn the mask was dangerous?  
    Options: From other crows scolding the mask / They were born afraid of masks / The mask smelled bad / The person shouted at them  
    **Answer:** From other crows scolding the mask. *Why:* Crows that had never been caught learned from seeing other crows scold the mask. That is social learning. The scolding spread over the years.
-5. (mcq) Chimpanzees and children watched a person open a clear puzzle box. First the person poked a stick in a top hole that did nothing. Then they opened the door. What happened?  
-   Options: Both chimpanzees and children skipped the poke / Both copied the poke / Most chimpanzees skipped the poke, and most children copied it / Most children skipped the poke, and chimpanzees copied it  
-   **Answer:** Most chimpanzees skipped the poke, and most children copied it. *Why:* The clear box showed the poke did nothing. Most chimpanzees went straight for the door. Most children copied every step. This is overimitation.
+5. (mcq) Many children who watch someone open a clear box copy every step, even a poke they can see does nothing. What is a good reason for copying every step?  
+   Options: Some steps might matter in ways you can't see / Children can't see well / The useless poke opens the box / Children don't like prizes  
+   **Answer:** Some steps might matter in ways you can't see. *Why:* Copying every step is often a safe way to learn, because some steps matter in ways we can't see. Copying even a useless step is called overimitation.
 6. (mcq) What is the difference between imitation and emulation?  
    Options: Imitation copies the exact actions. Emulation copies the goal, in your own way. / They mean the same thing / Imitation is for animals, emulation is for people / Emulation is copying sounds  
    **Answer:** Imitation copies the exact actions. Emulation copies the goal, in your own way.. *Why:* Imitation copies every step. Emulation sees what someone got, and gets it your own way. The chimpanzees with the clear box emulated. The children imitated.
 7. (mcq) In the Useless Step Test, why do you test one person at a time, with the others in another room?  
    Options: So it is quicker / So each person copies only you, not the person before them / So nobody eats the prize / Because the box is small  
    **Answer:** So each person copies only you, not the person before them. *Why:* If the next person watched, they might copy the person before instead of you. Then you would not know what your show did. Keeping things the same for every person makes the test fair.
-8. (mcq) Lakshmi, a girl in Mysuru, does the Useless Step Test with 4 people. 3 of them tap the lid. What can she say?  
-   Options: Everyone in the world taps the lid / Most of the people she tested copied the useless tap / The tap opens the box / Nobody copies  
-   **Answer:** Most of the people she tested copied the useless tap. *Why:* Her evidence is about the 4 people she tested. 3 out of 4 is most of them. To say more, she would need to test many more people.
+8. (mcq) You do the Useless Step Test with 4 people. 3 of them tap the lid. What can you say?  
+   Options: Everyone in the world taps the lid / Most of the people you tested copied the useless tap / The tap opens the box / Nobody copies  
+   **Answer:** Most of the people you tested copied the useless tap. *Why:* Your evidence is about the 4 people you tested. 3 out of 4 is most of them. To say more, you would need to test many more people.
 9. (mcq) Great tits in Wytham Woods, in England, were shown a puzzle box that opened by sliding a door left or right. Each group kept using the way their first birds were taught. What is this called?  
    Options: An instinct / A tradition / Trial and error / An accident  
    **Answer:** A tradition. *Why:* A way of doing something that spreads by social learning and lasts in a group is a tradition. Both ways worked, so the birds were copying their group.
-10. (mcq) In 1953, a young macaque called Imo, on the island of Koshima in Japan, began washing sweet potatoes in water. What happened next?  
-   Options: She stopped after a day / Over the next years, most of her group began washing their food too / Only Imo ever did it / The sweet potatoes stopped growing  
-   **Answer:** Over the next years, most of her group began washing their food too. *Why:* Others watched Imo and began to wash their food too. The habit spread and lasted. Macaques on Koshima still wash food today.
+10. (mcq) A young monkey starts washing her sweet potatoes in water, and the others in her group watch her. What is most likely to happen over the next few years?  
+   Options: She stops after a day / Many in her group start washing their food too / No other monkey ever does it / The sweet potatoes stop growing  
+   **Answer:** Many in her group start washing their food too. *Why:* Animals that watch others can copy a useful habit. So the habit spreads through the group and can last for many years. That is social learning.
 
 ## Applications
 - Dog trainers use rewards to teach guide dogs, rescue dogs and sniffer dogs at airports.
@@ -618,8 +618,8 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - Why did Chaser pick the new toy? *Because all the old ones already had names.*
 
 ## Connected maths
-- In the Useless Step Test, Nandini, a girl in Class 3, tested 4 people. 3 of them tapped the lid. What fraction of the people tapped the lid? **3 out of 4, or three quarters.**. 4 people were tested, so the whole is 4. 3 of them tapped. That is 3 out of 4, which we write as 3/4, three quarters. Only 1 out of 4 did not tap. (queues `math.fractions.fractions-of-a-whole.L3`)
-- In Termite Fishing, Anjali, a girl in Class 3, caught 2, 1, 3, 2 and 2 grains in her 5 dips before watching. After watching, she caught 5, 6, 4, 7 and 8. How many grains did she catch before watching, and after? How many times as many did she catch after? **10 before, 30 after. 3 times as many.**. Before: 2 + 1 + 3 + 2 + 2 = 10. After: 5 + 6 + 4 + 7 + 8 = 30. 30 divided by 10 is 3, so she caught 3 times as many after watching. (queues `math.division.sharing-and-grouping.L3`)
+- In the Useless Step Test, 4 people were tested. 3 of them tapped the lid. What fraction of the people tapped the lid? **3 out of 4, or three quarters.**. 4 people were tested, so the whole is 4. 3 of them tapped. That is 3 out of 4, which we write as 3/4, three quarters. Only 1 out of 4 did not tap. (queues `math.fractions.fractions-of-a-whole.L3`)
+- In Termite Fishing, a girl caught 2, 1, 3, 2 and 2 grains in her 5 dips before watching. After watching, she caught 5, 6, 4, 7 and 8. How many grains did she catch before watching, and after? How many times as many did she catch after? **10 before, 30 after. 3 times as many.**. Before: 2 + 1 + 3 + 2 + 2 = 10. After: 5 + 6 + 4 + 7 + 8 = 30. 30 divided by 10 is 3, so she caught 3 times as many after watching. (queues `math.division.sharing-and-grouping.L3`)
 - Chaser, a border collie, learned the names of 1,022 toys. Rico, another border collie, learned about 200 names. About how many more names did Chaser learn than Rico? **About 822 more.**. Take the smaller number from the bigger one. 1,022 take away 200 is 822. So Chaser learned about 822 more names. Rico's number is rounded, so the answer is also 'about'. (queues `math.addition-subtraction.word-problems.L3`)
 - A family kept up the Plate Lesson for 6 test mornings, with food on both plates. The first bird went to: red, red, blue, red, red, red. Make a tally. How many times was it red, and how many blue? Do the results suggest the birds learned that red means food? **Red 5 times, blue once. Yes, it suggests they learned, but 6 mornings is a small test.**. Count the reds: 5. Blue: 1. If birds picked at random, you would expect about 3 of each. 5 out of 6 is well above half, which suggests learning. More mornings would make it surer. (queues `math.data.sorting-and-tallies.L3`)
 
@@ -668,6 +668,7 @@ Watch Me, Then You Try (sci.animal-behaviour.L3): Topic-level song for Animal be
 - Taylor, Elliffe, Hunt and Gray, 'Complex cognition and behavioural innovation in New Caledonian crows', Proceedings of the Royal Society B 277, 2010 (three-stage tool use)
 - Aplin and others, 'Experimentally induced innovations lead to persistent culture via conformity in wild birds', Nature 518, 2015
 - Kawai, 'Newly-acquired pre-cultural behavior of the natural troop of Japanese monkeys on Koshima Islet', Primates 6, 1965 (Imo and sweet potato washing)
+- Kyoto University primatology pages on Satsue Mito, who is credited by many accounts with first observing the sweet potato washing (the year she noticed it is given differently in different sources); https://en.wikipedia.org/wiki/Satsue_Mito
 - Whiten and others, 'Cultures in chimpanzees', Nature 399, 1999 (nut cracking in some groups and not others)
 - Mann and others, on sponging dolphins in Shark Bay, mostly learned from mothers
 - Collias and Collias, on village weaver birds improving nests with experience, 1964

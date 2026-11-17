@@ -1967,9 +1967,9 @@
   "art": "A child sitting cross-legged with palms pressed together in front of the chest, eyes half closed, and a half-open door behind them."
  },
  "how_we_found_out": {
-  "story": "When you throw a ball, your hand pushes it. Then the ball leaves your hand and keeps flying. What keeps it going? About 2,350 years ago, the Greek thinker Aristotle gave an answer. He said the air behind a thrown stone keeps pushing it along. For hundreds of years, many people agreed with him. About 1,500 years ago, John Philoponus, a thinker in Alexandria in Egypt, said this was wrong. If air pushed stones along, he wrote, we could make a stone fly just by moving air hard behind it. But we cannot. He said the throw gives the stone something that keeps it going for a while. About 1,000 years ago, Ibn Sina, a doctor and thinker in Central Asia and Persia, built on this idea. He said the air does not help the stone along. It pushes against the stone and slows it down. In 1687, Isaac Newton in England wrote the rule we use today. A push or a pull starts a thing moving. Then it keeps moving until another push or pull slows it down, stops it or turns it.",
-  "who": "Aristotle, a Greek thinker; John Philoponus, a thinker in Alexandria, Egypt; Ibn Sina, a doctor and thinker in Central Asia and Persia; Isaac Newton, an English scientist",
-  "when": "From about 350 BCE to 1687",
+  "story": "When you throw a ball, your hand pushes it. Then the ball leaves your hand and keeps flying. What keeps it going? About 2,350 years ago, the Greek thinker Aristotle gave an answer. He said the air behind a thrown stone keeps pushing it along. For hundreds of years, many people agreed with him. About 1,500 years ago, John Philoponus, a thinker in Alexandria in Egypt, said this was wrong. If air pushed stones along, he wrote, we could make a stone fly just by moving air hard behind it. But we cannot. He said the throw gives the stone something that keeps it going for a while. About 1,000 years ago, Ibn Sina, a doctor and thinker in Central Asia and Persia, built on this idea. He said the air does not help the stone along. It pushes against the stone and slows it down. In 1687, Isaac Newton in England wrote the rule we use today. A push or a pull starts a thing moving. Then it keeps moving until another push or pull slows it down, stops it or turns it. In France, Émilie du Châtelet translated Newton's book and explained it.",
+  "who": "Aristotle, a Greek thinker; John Philoponus, a thinker in Alexandria, Egypt; Ibn Sina, a doctor and thinker in Central Asia and Persia; Isaac Newton, an English scientist; Émilie du Châtelet, a French scientist who translated his book",
+  "when": "From about 350 BCE to 1759",
   "wrong_idea": "People thought the air behind a thrown stone keeps pushing it along. Philoponus showed that moving air cannot throw a stone, and Ibn Sina said the air only slows it down."
  },
  "plan": {
@@ -2030,7 +2030,7 @@
    "Cambridge Primary Science Stage 1, Unit 5 (In the playground, How toys work, Pushes and pulls around us): the playground pushes and pulls, the pull-along toy, the push or pull hunt, machines that push and pull, and the idea that a heavy thing needs a bigger push."
   ],
   "science": [
-   "Newton's first law of motion (Principia, 1687): a body at rest stays at rest, and a moving body keeps moving in a straight line, unless a force acts on it.",
+   "Émilie du Châtelet, Principes mathématiques de la philosophie naturelle, 1759 (her French translation of the Principia with her own commentary).", "Newton's first law of motion (Principia, 1687): a body at rest stays at rest, and a moving body keeps moving in a straight line, unless a force acts on it.",
    "Aristotle's account of projectile motion, in which the air moved by the thrower carries the projectile on (Physics, Book 8).",
    "John Philoponus (6th century, Alexandria), commentary on Aristotle's Physics: his argument against air carrying projectiles, and his idea of an impressed force.",
    "Ibn Sina (980-1037), Kitab al-Shifa: mayl, an inclination given to a projectile, which the resistance of the air wears away.",
