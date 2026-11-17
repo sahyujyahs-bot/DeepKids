@@ -365,7 +365,7 @@
     }
   ],
   "how_we_found_out": {
-    "story": "For a long time, painters taught that red, yellow and blue are the three basic colours, and that every other colour is a mix of them. In 1802, Thomas Young in England suggested something different for light. He guessed that the eye has only three kinds of detector, so three lights might be enough to make any colour. In the 1850s, James Clerk Maxwell, a Scottish scientist, tested the idea. He built a box of coloured lights and asked people to match colours by changing just three of them. Three were enough. In 1861, he showed a picture of a tartan ribbon. It was made from three black and white photographs, taken through red, green and blue filters, and then shone back through the same filters on one screen. The ribbon appeared in colour. For paints, the old rule is a useful guide. For light, the three that work best are red, green and blue.",
+    "story": "For a long time, painters taught that red, yellow and blue are the three basic colours, and that every other colour is a mix of them. In 1802, Thomas Young in England suggested something different for light. He guessed that the eye has only three kinds of detector, so three lights might be enough to make any colour. In the 1850s, James Clerk Maxwell, a Scottish scientist, tested the idea. He built a box of coloured lights and asked people to match colours by changing just three of them. Three were enough. In 1861, he showed a picture of a tartan ribbon. It was made from three black and white photographs, taken through red, green and blue filters, and then shone back through the same filters on one screen. The ribbon appeared in colour. For paints, the old rule is a useful guide. For light, the three that work best are red, green and blue. In 1892, Christine Ladd-Franklin, an American scientist, put forward a theory of how colour sight grew in stages over a very long time.",
     "who": "Thomas Young and James Clerk Maxwell",
     "when": "1802 to 1861",
     "wrong_idea": "People thought that red, yellow and blue were the three basic colours for everything. Maxwell's picture of a tartan ribbon, made from three photographs taken through filters, showed that red, green and blue light can make the full range of colour."
@@ -2979,7 +2979,8 @@
       "Hart, 'The visual ecology of avian photoreceptors', Progress in Retinal and Eye Research, 2001 (many birds have four kinds of cone)",
       "Crane and Piantanida, 'On seeing reddish green and yellowish blue', Science, 1983",
       "Ishihara, plates for testing colour vision, first published in Japan in 1917",
-      "Ladd-Franklin, theory of the development of colour vision, presented to the International Congress of Psychology, 1892"
+      "Ladd-Franklin, theory of the development of colour vision, presented to the International Congress of Psychology, 1892",
+      "Ladd-Franklin, Colour and Colour Theories, 1929 (her full account of the theory that colour sight developed in stages, from grey, to blue and yellow, to red and green)"
     ]
   },
   "roots": {

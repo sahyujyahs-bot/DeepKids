@@ -500,8 +500,8 @@
   }
  ],
  "how_we_found_out": {
-  "story": "For most of history, people thought sunlight held only the rays their eyes could see, the colours of the rainbow. In 1800, William Herschel, an astronomer living in England, wanted to know if some colours carry more heat than others. He had noticed that coloured glasses on his telescope let through different amounts of warmth. He used a glass prism to spread sunlight into a band of colours on a table. He put a thermometer with a blackened bulb in each colour in turn, and kept two more in the shade nearby as controls. The temperature climbed from violet toward red. Then he moved a thermometer just past the red edge, where nothing could be seen. It got warmest of all. Something invisible was carrying heat. In 1801 Johann Ritter, a German scientist, found invisible rays beyond the violet end too, because they darkened a chemical called silver chloride. Later scientists showed these rays behave like light, and belong to one big family.",
-  "who": "William Herschel, then Johann Ritter",
+  "story": "For most of history, people thought sunlight held only the rays their eyes could see, the colours of the rainbow. In 1800, William Herschel, an astronomer living in England, wanted to know if some colours carry more heat than others. He had noticed that coloured glasses on his telescope let through different amounts of warmth. He used a glass prism to spread sunlight into a band of colours on a table. He put a thermometer with a blackened bulb in each colour in turn, and kept two more in the shade nearby as controls. The temperature climbed from violet toward red. Then he moved a thermometer just past the red edge, where nothing could be seen. It got warmest of all. Something invisible was carrying heat. Sixty years before, in 1737, the French scientist Émilie du Châtelet had written that colours might carry different amounts of heat. Many historians credit her with an early idea of invisible heat rays, though her part is debated. In 1801 Johann Ritter, a German scientist, found invisible rays beyond the violet end too, because they darkened a chemical called silver chloride. Later scientists showed these rays behave like light, and belong to one big family.",
+  "who": "William Herschel, then Johann Ritter, with an early idea from Émilie du Châtelet (her part is debated)",
   "when": "1800 and 1801",
   "wrong_idea": "People thought the rays in sunlight were only the ones the eye can see, and that the dark place beyond the red end was empty. Herschel's thermometer warmed up there, so something unseen was arriving."
  },
@@ -3623,6 +3623,7 @@
    "Melloni, experiments showing that radiant heat is reflected and refracted like light, 1830s",
    "Penzias and Wilson, A Measurement of Excess Antenna Temperature at 4080 Mc/s, Astrophysical Journal, 1965",
    "Hewish, Bell, Pilkington, Scott and Collins, Observation of a Rapidly Pulsating Radio Source, Nature, 1968",
+   "Du Châtelet, Dissertation sur la nature et la propagation du feu, Académie des Sciences, 1737 (she suggested that different colours carry different heat; historians differ on how much this led to Herschel's find)",
    "JAXA, IKAROS solar sail mission, 2010; The Planetary Society, LightSail 2, 2019"
   ]
  },

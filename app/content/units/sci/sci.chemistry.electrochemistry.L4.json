@@ -3322,6 +3322,7 @@
    "de Santana C.D. and others (2019). Unexpected species diversity in electric eels with a description of the strongest living bioelectricity generator. Nature Communications 10: 4000.",
    "Lovley D.R., Phillips E.J.P. (1988). Novel mode of microbial energy metabolism: organic carbon oxidation coupled to dissimilatory reduction of iron or manganese. Applied and Environmental Microbiology 54: 1472-1480.",
    "Mitchell P. (1961). Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism. Nature 191: 144-148.",
+   "Mitchell P. and Moyle J. (1967). Chemiosmotic hypothesis of oxidative phosphorylation. Nature 213: 137-139.",
    "Kelley D.S. and others (2001). An off-axis hydrothermal vent field near the Mid-Atlantic Ridge at 30 degrees N. Nature 412: 145-149.",
    "Russell M.J., Hall A.J. (1997). The emergence of life from iron monosulphide bubbles at a submarine hydrothermal redox and pH front. Journal of the Geological Society 154: 377-402.",
    "Litovitz T., Whitaker N., Clark L., White N.C., Marsolek M. (2010). Emerging battery-ingestion hazard: clinical implications. Pediatrics 125: 1168-1177.",
@@ -3371,7 +3372,7 @@
     "status": "settled"
    },
    {
-    "text": "Living cells get their energy by passing electrons from food to oxygen in small steps. Peter Mitchell proposed in 1961 how cells use this passing, and it is found in almost all living things.",
+    "text": "Living cells get their energy by passing electrons from food to oxygen in small steps. Peter Mitchell proposed in 1961 how cells use this passing. Jennifer Moyle's experiments helped prove it. It is found in almost all living things.",
     "status": "settled"
    },
    {

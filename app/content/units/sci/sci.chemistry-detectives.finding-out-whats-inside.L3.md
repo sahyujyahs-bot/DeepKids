@@ -1,7 +1,7 @@
 # Chemistry detectives: how ink and flames show what things are made of
 `sci.chemistry-detectives.finding-out-whats-inside.L3`
 
-**Summary.** A black sketch pen seems to hold one black ink. Put a dot of it on a paper strip and let water climb the paper. The black spreads out into other colours, such as blue, purple or yellow. Most black ink is a mixture: several dyes mixed together. The water carries each dye a different distance, so the dyes come apart. This way of separating a mixture is called chromatography. A flame can also show what is inside a thing. Salt turns a blue gas flame yellow-orange, because salt has sodium in it. Each element gives a flame its own colour. Chemists use tests like these to find out what things are made of, even the Sun.
+**Summary.** A black sketch pen seems to hold one black ink. Put a dot of it on a paper strip and let water climb the paper. The black spreads out into other colours, such as blue, purple or yellow. Most black ink is a mixture: several dyes mixed together. The water carries each dye a different distance, so the dyes come apart. This way of separating a mixture is called chromatography. A flame can also show what is inside a thing. Salt turns a blue gas flame yellow-orange, because salt has sodium in it. Each element gives a flame its own colour. Chemists use tests like these to find out what things are made of. They have even found out what the Sun is made of.
 
 **Intro.** *Try this. Make a fat dot with a black sketch pen near the bottom of a strip of kitchen towel. Dip the very end of the strip in water, below the dot. Watch for five minutes. The water climbs, and the black dot starts to turn into other colours. Why would black ink turn into other colours?* Chemists are scientists who find out what things are made of, and how they change. Often they cannot see the answer with their eyes alone. So they use tests that make a thing show what is in it. In this unit you use two of their oldest tests. Wet paper pulls a mixture apart. A flame shows a colour for each element. Then you use them like a detective, to find out which pen wrote a secret note.
 
@@ -20,7 +20,7 @@
 - **Dye**: A dye is a coloured substance that dissolves in a liquid and colours what it touches. *e.g.* Sketch pen inks, food colours and the colours in a cotton saree are made with dyes.
 - **Dissolve**: When a substance dissolves, it breaks up into pieces too small to see and spreads all through a liquid. *e.g.* Sugar dissolves in a cup of Assam tea. The dyes in a sketch pen dissolve in water.
 - **Chromatography**: Chromatography is a way of separating a mixture. A liquid moves through paper or powder and carries each substance a different distance. The name comes from Greek words meaning 'colour writing'. *e.g.* A dot of black sketch pen on a wet paper strip spreads into a blue band and a purple band.
-- **Chromatogram**: A chromatogram is the pattern of coloured bands left on the paper after chromatography. *e.g.* Your dried strip, with its bands of colour, is a chromatogram. Each ink makes its own.
+- **Chromatogram**: A chromatogram is the pattern of coloured bands left on the paper after chromatography. *e.g.* A dried paper strip, with its bands of colour, is a chromatogram. Each ink makes its own.
 - **Capillary action**: Capillary action is how water creeps up through tiny gaps, such as the gaps between the fibres in paper or cloth. *e.g.* Dip one corner of a towel in a bucket of water. The wet patch slowly climbs up the towel.
 - **Element**: An element is a substance made of only one kind of atom. Scientists know of 118 elements. *e.g.* Sodium, copper, oxygen and carbon are elements. Salt is not an element, because it is sodium and chlorine joined together.
 - **Sodium**: Sodium is an element. On its own it is a soft, silvery metal, but in nature it is always joined to other elements. Table salt is sodium joined to chlorine. *e.g.* When salty rasam boils over onto a gas flame, the flame turns yellow-orange. That colour comes from sodium.
@@ -59,7 +59,7 @@ Ballpoint ink is a thick paste made with oily liquids. Permanent markers use dye
 ### Chromatography in labs today · *defined*
 **Definition:** Chemists use chromatography to separate and find the substances in almost any mixture, such as food, medicines, blood, water and air.
 
-In a lab, the mixture is often pushed through a long, thin tube packed with powder. Each substance comes out of the far end at its own time. A machine notes when each one comes out and how much of it there is. Food labs check whether spices have added colours. Hospital labs test blood. Sports labs test for banned medicines. Forensic scientists compare the inks on documents. All of them use the same idea as your paper strip.
+In a lab, the mixture is often pushed through a long, thin tube packed with powder. Each substance comes out of the far end at its own time. A machine notes when each one comes out and how much of it there is. Food labs check whether spices have added colours. Hospital labs test blood. Sports labs test for banned medicines. Forensic scientists compare the inks on documents. All of them use the same idea as the paper strip in the Which Pen test.
 - e.g. Food safety labs in India test chilli and turmeric powder for colours that are not allowed.
 - e.g. A hospital lab can test a small sample of blood for many medicines at once.
 ### Every element has its own flame colour · *defined*
@@ -78,7 +78,7 @@ Electrons are the tiny particles on the outside of every atom. Each kind of atom
 ### Reading what the Sun is made of · *defined*
 **Definition:** Sunlight split into its colours has thin dark lines in it. Each element makes its own set of lines, so the lines show which elements are in the Sun.
 
-Sodium gives out two thin yellow lines. Sunlight has two thin dark lines in exactly the same place. In 1859, Gustav Kirchhoff showed why. Sodium in the Sun's outer layers takes in that yellow light, so it goes missing from sunlight. Since then, astronomers have read the light of stars to find what they are made of. Most stars, like the Sun, are mostly hydrogen and helium. Helium was found in the Sun's light 27 years before anyone found it on Earth.
+Split by a prism, sodium's light shows two thin yellow lines. Sunlight split the same way has two thin dark lines in exactly the same place. In 1859, Gustav Kirchhoff showed why. Sodium in the Sun's outer layers takes in that yellow light, so it goes missing from sunlight. Since then, astronomers have read the light of stars to find what they are made of. Most stars, like the Sun, are mostly hydrogen and helium. Helium was found in the Sun's light 27 years before anyone found it on Earth.
 - e.g. Iron, calcium and sodium have all been found in the Sun from its light.
 - e.g. The Sun is about 15 crore kilometres away, and nobody has ever taken a sample of it.
 ### Is anything perfectly pure? · *defined*
@@ -95,8 +95,8 @@ Tap water has small amounts of dissolved salts. That is why a drop of it can mak
 - The Sun and stars are made of the same elements as the Earth. Most stars are mostly hydrogen and helium. *How we know:* The lines in starlight match the lines of elements tested in labs on Earth.
 
 ## How we found out
-**Robert Bunsen, a German chemist, and Gustav Kirchhoff, a German physicist, proving Auguste Comte, a French philosopher, wrong, 1835 (Comte's claim), 1859 (sodium in the Sun) and 1860 (caesium).** In 1835, the French philosopher Auguste Comte wrote about the stars. We can measure their shapes, distances and movements, he said, but we will never know what they are made of. It seemed obvious. Nobody can travel to a star. In Heidelberg, in Germany, the chemist Robert Bunsen was studying the colours that substances give to a flame. His new gas burner made a hot flame that was almost colourless, so each colour showed clearly. But some colours looked alike. His friend Gustav Kirchhoff, a physicist, suggested splitting the light with a prism. In 1859 they found that each element gave its own set of thin coloured lines. Sodium always gave two yellow lines, close together. Sunlight split by a prism has thin dark lines in it, and two of them sat exactly where sodium's yellow lines were. Kirchhoff shone sunlight through a flame with sodium in it, and those dark lines grew darker. Sodium takes in the same colour it gives out. So there is sodium in the Sun. In 1860, the two men saw new blue lines in spring water. They had found a new element, and named it caesium, from a Latin word for sky blue. Comte had died two years before he was shown to be wrong.  
-*What people believed before:* We can never know what the stars are made of, because we cannot go there. Bunsen and Kirchhoff showed that each element's light has its own pattern, and found sodium's pattern in sunlight.
+**Robert Bunsen, a German chemist, and Gustav Kirchhoff, a German physicist. They proved the French philosopher Auguste Comte wrong. Later Cecilia Payne used their method on the stars., 1835 (Comte's claim), 1859 (sodium in the Sun) and 1860 (caesium).** In 1835, the French philosopher Auguste Comte wrote about the stars. We can measure their shapes, distances and movements, he said, but we will never know what they are made of. It seemed obvious. Nobody can travel to a star. In Heidelberg, in Germany, the chemist Robert Bunsen was studying the colours that substances give to a flame. His new gas burner made a hot flame that was almost colourless, so each colour showed clearly. But some colours looked alike. His friend Gustav Kirchhoff, a physicist, suggested splitting the light with a prism. In 1859 they found that each element gave its own set of thin coloured lines. Sodium always gave two yellow lines, close together. Sunlight split by a prism has thin dark lines in it, and two of them sat exactly where sodium's yellow lines were. Kirchhoff shone sunlight through a flame with sodium in it, and those dark lines grew darker. Sodium takes in the same colour it gives out. So there is sodium in the Sun. In 1860, the two men saw new blue lines in spring water. They had found a new element, and named it caesium, from a Latin word for sky blue. Comte had died two years before he was shown to be wrong.  
+*What people believed before:* We can never know what the stars are made of, because we cannot go there. Bunsen and Kirchhoff showed that each element's light has its own pattern, and found sodium's pattern in sunlight. In 1925 Cecilia Payne used the same method to show that stars are mostly hydrogen and helium.
 
 ## Challenging perspectives
 - **Black is one colour, so black ink is one substance.** (A very common idea; *rejected*)  
@@ -115,7 +115,7 @@ Tap water has small amounts of dissolved salts. That is why a drop of it can mak
 ## Roots
 We have pulled ink apart with water and seen salt colour a flame. Now we ask what these tests tell us about ourselves and the world.
 
-**Deep truth.** Two black pens looked exactly alike. On wet paper, each black ink spread into its own set of colours. Each black was a mix of dyes, and water carried each dye its own distance. So things that look the same can be made of different things, and a test can show which.  
+**Deep truth.** In the Which Pen test, two black pens looked exactly alike. On wet paper, each black ink spread into its own set of colours. Each black was a mix of dyes, and water carried each dye its own distance. So things that look the same can be made of different things, and a test can show which.  
 *Habit it breaks:* We decide what a thing is by how it looks: black ink is black ink, and a white powder is a white powder. Looks only show the surface. What a thing is made of shows up in how it behaves when we test it.  
 *Evidence:* In the Which Pen test, black pens that looked the same on paper gave different bands on the wet strips, and the secret letter matched only one of them. In the flame test, salt water and sugar water looked the same, but only the salt water turned the flame yellow-orange.
 
@@ -195,9 +195,9 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 
 ## Games
 ### g1 · Lab Race: from question to answer (20 min)
-- **rules:** Put every counter on square 0, the lab door. You need a die.; On your turn, another player reads you the top card. Playing alone? Read the card, answer it, then turn it over to check.; Right answer: roll the die and move that many squares. Wrong answer: stay where you are, and read the back aloud.; If you land on a square with a message by rolling, do what it says. If a square sends you to another square, do not follow the message there.; When the cards run out, shuffle them and use them again.; The first player to reach or pass square 15 wins. Playing alone? Try to reach square 15 in 10 turns or fewer.
+- **rules:** Put every counter on square 0, the lab door. You need a die.; On your turn, another player reads you the top card. Playing alone? Read the card, answer it, then turn it over to check.; Right answer: roll the die and move that many squares. Wrong answer: stay where you are, and read the back aloud.; If your roll lands you on a square with a message, do what it says. If that message moves you to another square with a message, ignore the second message.; When the cards run out, shuffle them and use them again.; The first player to reach or pass square 15 wins. Playing alone? Try to reach square 15 in 10 turns or fewer.
 - **Printable board: A path of 16 squares, numbered 0 to 15, from the lab door to the answer:** Square 0: Lab door, the start. Everyone's counter begins here.; Square 1: Lab bench. Rest here. Nothing happens.; Square 2: CLEAN STRIP. Your strip is neat and dry. Move on 1 square.; Square 3: SPILLED WATER. Your dot got wet. Go back 2 squares.; Square 4: Lab bench. Rest here. Nothing happens.; Square 5: Lab bench. Rest here. Nothing happens.; Square 6: FAIR TEST. Say one thing you keep the same in the Which Pen test, then move on 1 square. If you cannot, stay.; Square 7: Lab bench. Rest here. Nothing happens.; Square 8: FLAME FLASH. Name one element and its flame colour, then move on 2 squares. If you cannot, stay.; Square 9: Lab bench. Rest here. Nothing happens.; Square 10: SPILLED WATER. Your dot got wet. Go back 2 squares.; Square 11: Lab bench. Rest here. Nothing happens.; Square 12: FAIR TEST. Say one thing you keep the same in the Which Pen test, then move on 1 square. If you cannot, stay.; Square 13: Lab bench. Rest here. Nothing happens.; Square 14: Lab bench. Rest here. Nothing happens.; Square 15: Answer found, the finish. The first counter to reach or pass this square wins.
-- **Printable cards: 16 question cards to cut out (the answer is on the back):** Name one way to separate a mixture, other than paper and water. (back: A sieve (by size), a magnet (picks out iron), or letting the water dry up (leaves the salt).); What is a dye? (back: A coloured substance that dissolves in a liquid and colours what it touches.); Why must two strips in one tumbler not touch each other? (back: The colours would run across from one strip to the other.); A green pen splits into a yellow band and a blue band. Did the water make the yellow? (back: No. The yellow was in the green ink all along. The water only carried each dye a different distance.); In the flame test, who holds the spoon in the flame, and how far away does the child stand? (back: A grown-up holds it. The child stands at least one metre away.); Plain tap water gave a few tiny orange sparks in the flame. Why? (back: Tap water has a little salt dissolved in it.); Which colour does copper give a flame? (back: Green or blue.); Sugar water does not flash yellow-orange in the flame. Why not? (back: Sugar has no sodium in it.); What is an element? (back: A substance made of only one kind of atom.); Two black pens give exactly the same bands on kitchen towel. What can a chemist do next? (back: Try another test, such as a different paper or a different liquid.); A marker dot did not move at all in water. What does that tell you about its ink? (back: It does not dissolve in water, so water cannot carry it.); Which element gives green fireworks their colour? (back: Barium.); What did Kirchhoff see in sunlight that showed there is sodium in the Sun? (back: Two thin dark lines in exactly the place where sodium gives out its two yellow lines.); Why do chemists say almost nothing is perfectly pure? (back: Nearly every substance has tiny traces of other substances in it.); A strip shows that pen B wrote a note. Does it show who held pen B? (back: No. It shows which pen, not whose hand. You need more questions for that.); TEST IT: make a dot with any sketch pen on a dry strip, then run the strip in water. Guess first: how many colours? (back: Do the test and tell everyone what you found.)
+- **Printable cards: 16 question cards to cut out (the answer is on the back):** Name one way to separate a mixture, other than paper and water. (back: A sieve (by size), a magnet (picks out iron), or letting the water dry up (leaves the salt).); What is a dye? (back: A coloured substance that dissolves in a liquid and colours what it touches.); Why must two strips in one tumbler not touch each other? (back: The colours would run across from one strip to the other.); A green pen splits into a yellow band and a blue band. Did the water make the yellow? (back: No. The yellow was in the green ink all along. The water only carried each dye a different distance.); In the flame test, who holds the spoon in the flame, and how far away does the child stand? (back: A grown-up holds it. The child stands at least one metre away.); Plain tap water gave a few tiny orange sparks in the flame. Why? (back: Tap water has a little salt dissolved in it.); Which colour does copper give a flame? (back: Green or blue.); Sugar water does not flash yellow-orange in the flame. Why not? (back: Sugar has no sodium in it.); What is an element? (back: A substance made of only one kind of atom.); Two black pens give exactly the same bands on kitchen towel. What can a chemist do next? (back: Try another test, such as a different paper or a different liquid.); A marker dot did not move at all in water. What does that tell you about its ink? (back: It does not dissolve in water, so water cannot carry it.); Which element gives green fireworks their colour? (back: Barium.); What did Kirchhoff see in sunlight that showed there is sodium in the Sun? (back: Two thin dark lines in exactly the place where sodium gives out its two yellow lines.); Why do chemists say almost nothing is perfectly pure? (back: Nearly every substance has tiny traces of other substances in it.); A strip shows that pen B wrote a note. Does it show who held pen B? (back: No. It shows which pen, not whose hand. You need more questions for that.); TEST IT: make a dot with any sketch pen on a dry strip. First guess how many colours you will see. Then run the strip in water. (back: Do the test and tell everyone what you found.)
 - **Printable tokens: One counter for each player:** 🧪; 🔬; 🔥; 📏
 - **s1 (3 min)**  
   *Parent does:* 1. Draw the 16-square path (squares 0 to 15) on a sheet of paper, or print it. 2. Cut out the 16 cards. 3. Shuffle them face down. 4. Find a die.  
@@ -206,7 +206,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **s2 (15 min)**  
   *Parent does:* Take turns. Read each card aloud to the player whose turn it is. Check the answer on the back.  
   *Parent says:* Here is your card. Take your time. What do you think, and why?  
-  *Child mode:* Listen to your card. Answer it. Right? Roll the die!
+  *Child mode:* Listen to your card and answer it. If you are right, roll the die.
   - Note: On a wrong answer, read the back aloud and ask your child to say it in their own words. The TEST IT card needs a strip of kitchen towel and a tumbler of water nearby.
 - **s3 (2 min)**  
   *Parent does:* Ask the question below.  
@@ -235,15 +235,15 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 ### e1 · Which Pen Wrote the Note? (40 min)
 - **question:** Three dark pens look almost the same. Can water and paper show which one wrote a secret letter?
 - **predict:** Look at the three pens' marks on paper. Do you think their inks are the same? What do you think each ink will do when the water reaches it? Why do you think so?
-- **fair test:** Use the same kind of strip for every pen. Draw every dot on a pencil line 2 cm from the bottom, the same size, gone over 3 times. Dip every strip 1 cm into the same water, for the same time. Only the pen changes.
+- **fair test:** Use the same kind of strip for every pen. Draw every dot the same size, on a pencil line 2 cm from the bottom, and go over each dot 3 times. Dip every strip 1 cm into the same water, for the same time. Only the pen changes.
 - **safety:** A grown-up helps with the scissors.
 - **record:** Fill in the table. Stick the dried strips into your notebook in a row, and write under them which pen wrote the secret letter and how you know.
 - **results table:** Strip | My guess: what will the ink do? | Colours I saw, from bottom to top | Height of the highest colour (cm) | Does it match the secret letter?
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the three pens on the table. Call them A, B and C. 2. Scribble a little with each on scrap paper. 3. Ask the questions below.  
   *Parent says:* These three inks all look dark. Do you think they are the same ink? What will each one do when water reaches it? Why?  
-  *Child mode:* Look at the three scribbles. Are the inks the same? Guess what water will do. Why?
-  - Ask: What do you think will happen to the black dot? (good: It will stay black.; It might spread out.; It might turn into other colours, like the intro strip.)
+  *Child mode:* Look at the three scribbles. Are the inks the same? Guess what water will do to each ink. Why do you think so?
+  - Ask: What do you think will happen to a dot of each ink when water reaches it? (good: It will stay black.; It might spread out.; It might turn into other colours, like the black dot in One Dot, Five Minutes.)
   - Note: Write down your child's guess and their reason in the table before testing. Any guess is fine. The test decides.
 - **s2 (4 min)**  
   *Parent does:* 1. The child turns away. 2. The grown-up picks one pen secretly. 3. On a fourth strip, they draw a pencil line 2 cm from the bottom. 4. They write one thick letter, such as P, sitting on the line. 5. They mark a star at the top and hide the pen.  
@@ -272,9 +272,9 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Child mode:* Lay the strips on a plate. Write each strip's colours, bottom to top. Measure the top colour.
   - Note: Colours fade a little as they dry, so write them down while the strips are still damp.
 - **s7 (5 min)**  
-  *Parent does:* 1. Put the star strip next to strips A, B and C. 2. Find the one with the same colours in the same order. 3. Ask your child to say what they think, what they saw, and why.  
+  *Parent does:* 1. Put the secret letter's strip, the one with the star, next to strips A, B and C. 2. Find the one with the same colours in the same order. 3. Ask your child to say what they think, what they saw, and why.  
   *Parent says:* Which strip matches the secret letter? What is your evidence? Tell me what you think, what you saw, and why.  
-  *Child mode:* Put the star strip next to A, B and C. Which one matches? Say what you think, what you saw, and why.
+  *Child mode:* Put the secret letter's strip, the one with the star, next to A, B and C. Which one matches? Say what you think, what you saw, and why.
   - Note: A good answer: What I think: pen B wrote it. What I saw: the star strip and strip B both had blue at the bottom and pink above it. Why: each ink is its own mix of dyes, so it makes its own pattern.
   - Check: The secret letter's strip shows a blue band low down and a pink band higher up. Strip A shows blue and purple. Strip B shows blue low down and pink higher up. Strip C did not move. Which pen wrote the letter? → **Pen B**
 - **s8 (1 min)**  
@@ -301,7 +301,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Parent does:* Wait until the water is about 1 cm from the top of the strips. Then lift them all out together and lay them flat.  
   *Parent says:* Which colours are splitting? Which are staying together?  
   *Child mode:* Watch. Which colours split? Which stay as one?
-  - Note: Results depend on the maker. Often yellow and blue stay as one dye. Green often splits into yellow and blue, and brown and black into three or more.
+  - Note: Results depend on the maker. Often yellow and blue stay as one dye. Green often splits into yellow and blue. Brown and black often split into three or more colours.
 - **s4 (8 min)**  
   *Parent does:* 1. Count the separate colours on each strip. 2. Fill in the table. 3. Ask the question below.  
   *Parent says:* How many dyes were in each pen? Which surprised you?  
@@ -321,7 +321,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. The child stands at least one metre from the stove. 2. The grown-up lights one burner on low. 3. Look at the flame's colour before testing anything.  
   *Parent says:* Look at the flame first. What colour is it? We need to know that before we test anything.  
-  *Child mode:* Stand back one big step. Look at the flame. What colour is it?
+  *Child mode:* Stand at least one metre from the stove. Look at the flame. What colour is it?
   - Note: A gas flame is mostly blue. Remember this colour, because it is the 'before' for every test.
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* 1. Dip the bowl of spoon 1 into cup 1. 2. Hold the wet spoon in the edge of the flame for 5 seconds. 3. Watch the colour. 4. Cool the spoon in the sink. 5. Do the same for cups 2 and 3, with a clean spoon each time.  
@@ -353,9 +353,9 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   - Ask: What do you notice? What do you wonder? (good: The black is turning blue.; Colours are coming out of the black.; Where did the colours come from?)
 - **s3 (1 min)**  
   *Parent does:* Lift the strip out and lay it on a plate.  
-  *Parent says:* Keep that question in your head. The Which Pen test will help us answer it.  
-  *Child mode:* Lift it out. Keep your question. We will answer it soon.
-  - Check: Which of these is the best question to ask next? → **Was the colour already in the black ink?**
+  *Parent says:* Where did the colours come from? Keep that question in your head. The Which Pen test will help us answer it.  
+  *Child mode:* Lift the strip out. Where did the colours come from? Remember that question. The Which Pen test will help answer it.
+  - Check: A black dot spread into other colours on a wet strip. Which of these is the best question to ask next? → **Was the colour already in the black ink?**
 ### a2 · Chalk Column, Like Tsvet (20 min)
 - **record:** Draw the chalk stick with its colour bands. Compare it with a paper strip of the same pen.
 - **s1 (4 min)**  
@@ -380,7 +380,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Child mode:* Draw a ring of dots round the middle of the circle.
 - **s2 (8 min)**  
   *Parent does:* 1. Lay the circle flat on top of the empty tumbler. 2. Drip water onto the very centre, a few drops at a time, from a teaspoon. 3. Stop when the colours are near the edge.  
-  *Parent says:* Slowly, a few drops at a time. Watch the colours race outwards.  
+  *Parent says:* Drip slowly, a few drops at a time. Watch the colours spread outwards.  
   *Child mode:* Put the circle on the tumbler. Drip water in the middle, slowly. Watch.
   - Note: Too much water at once makes the colours run together into a puddle. Five or six teaspoons over a few minutes is usually enough.
 - **s3 (12 min)**  
@@ -407,7 +407,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Child mode:* Stand back. Watch each powder heat up. What happens?
   - Note: Sugar melts and turns brown, then black, and smells of caramel. Salt does not melt on a stove. It may crackle, and the flame near the spoon may flash yellow-orange. Cooking soda does not melt either. It has sodium in it too, so the flame may flash yellow-orange near it as well. Wash the spoon after each powder. Hold the spoon by its end with the cloth.
 - **s4 (6 min)**  
-  *Parent does:* 1. The grown-up gives the mystery plate. 2. The child chooses which tests to do. 3. They name the powder and give their evidence.  
+  *Parent does:* 1. The grown-up gives the child a plate with the mystery powder on it. 2. The child chooses which tests to do. 3. The child names the powder and gives their evidence.  
   *Parent says:* Here is the mystery powder. Which tests will you use? What is it, and how do you know?  
   *Child mode:* Test the mystery powder. What is it? How do you know?
   - Check: The mystery powder does not fizz with lemon juice. When it is heated, it melts and turns brown. What is it? → **Sugar**
@@ -418,7 +418,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **s1 (5 min)**  
   *Parent does:* Help your child make a spotter page with three columns: where, colour, element.  
   *Parent says:* This week, let's look out for coloured flames and lights. Watch the stove when milk or rasam boils over. Look at orange street lights, if your road still has them.  
-  *Child mode:* Make a page. Where? What colour? Which element? Look all week.
+  *Child mode:* Make a page with three columns: where, what colour, which element. Look for coloured flames and lights all week.
 - **s2 (5 min)**  
   *Parent does:* On day 7, read the page together.  
   *Parent says:* Which colour did you see most? Why do you think so?  
@@ -444,32 +444,32 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 
 ## Challenges
 ### c1 · The Sharpest Bands (30 min)
-- **problem:** On your first strips, the bands may have been blurry and close together. Find a way to make the colours of one black pen come apart further and more sharply.
-- **your turn:** Now design your own way. Change only one thing at a time, run the strip, and compare it with your first one. Which change made the biggest difference?
-- **constraints:** Use the same black pen for every try.; Use only things from home.; Keep your first strip, so you can compare.
+- **problem:** On the strips from the Which Pen test, the bands may have been blurry and close together. Find a way to make the colours of one black pen come apart further and more sharply.
+- **your turn:** Now design your own way. Change only one thing at a time, run the strip, and compare it with the strip from the Which Pen test. Which change made the biggest difference?
+- **constraints:** Use the same black pen for every try.; Use only things from home.; Keep a strip from the Which Pen test, so you can compare.
 - **general:** Make the dot smaller and darker: a tiny dot, gone over several times, gives sharper bands.; Use a longer strip, so the dyes have further to travel and spread out more.; Try blotting paper, which is thicker and more even than kitchen towel.
 - **creative:** Let the first run dry, turn the strip sideways and run it again in a second direction. Chemists do this to separate dyes that sit too close together.; Add a pinch of salt to the water and compare. A different liquid can change how far each dye travels.; Use a stick of chalk instead of paper, like Mikhail Tsvet's chalk column.
 - **s1 (5 min)**  
   *Parent does:* 1. Look at a strip from the Which Pen test. 2. Find the bands that are blurry or too close together.  
   *Parent says:* Engineers start by looking at the problem closely. Where are the colours running into each other?  
-  *Child mode:* Look at your old strip. Which colours are blurry or squashed together?
+  *Child mode:* Look at a strip from the Which Pen test. Which colours are blurry or squashed together?
 - **s2 (5 min)**  
   *Parent does:* Draw three ideas before trying any.  
   *Parent says:* Let's think of three changes. Remember, change only one thing at a time, or we won't know which one worked.  
   *Child mode:* Draw three ideas. Change only one thing each time.
 - **s3 (15 min)**  
-  *Parent does:* 1. Try each idea with a new strip. 2. Measure the gap between the bands. 3. Compare with the first strip.  
+  *Parent does:* 1. Try each idea with a new strip. 2. Measure the gap between the bands. 3. Compare with the strip from the Which Pen test.  
   *Parent says:* Which change spread the colours furthest apart? How do you know?  
   *Child mode:* Try each idea. Measure the gap between colours. Which is best?
 - **s4 (5 min)**  
   *Parent does:* Ask the question below.  
   *Parent says:* Why do you think that change worked best?  
   *Child mode:* Which idea worked best? Why?
-  - Check: Meena, a girl in Class 3, made her strip twice as long, and her bands spread further apart. Why? → **The dyes had further to travel, so the faster ones got further ahead**
+  - Check: A strip is made twice as long, and the bands spread further apart. Why? → **The dyes had further to travel, so the faster ones got further ahead**
 
 ## Worksheets
 ### Ink Detective (core) (core, 15 questions)
-1. (sort) Lakshmi, a girl in Class 3 in Kochi, looks at things in her kitchen. Sort each one: is it a mixture or a pure substance?  
+1. (sort) Sort each of these things: is it a mixture or a pure substance?  
    **Answer:** salt water → Mixture; rasam → Mixture; a spoon of sugar → Pure substance; air → Mixture; black sketch pen ink → Mixture; a spoon of salt → Pure substance; muddy water → Mixture; distilled water, the kind sold for batteries → Pure substance. *Why:* A mixture has two or more substances mixed together. Rasam, air, ink, muddy water and salt water are mixtures. Sugar, salt and distilled water are each one substance, almost pure. A strong answer can say what is mixed in each mixture.
 2. (truefalse) A pure substance, such as sugar, can be separated into different colours with paper and water.  
    **Answer:** False. *Why:* False. Paper and water separate a mixture into the substances in it. A pure substance has only one substance to start with, so there is nothing to separate.
@@ -477,8 +477,8 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
    **Answer:** ['chromatography']. *Why:* The word comes from Greek words meaning 'colour writing', because the first separations were of coloured substances.
 4. (mcq) When you dip the end of a kitchen-towel strip in water, the water climbs up it. What makes it climb?  
    Options: The heat of the room / Capillary action: water creeping through the tiny gaps between the paper's fibres / The ink pulls the water up  
-   **Answer:** Capillary action: water creeping through the tiny gaps between the paper's fibres. *Why:* Paper is made of tiny fibres with tiny gaps between them. Water creeps up through the gaps. This is capillary action. A plain strip with no ink climbs just as well, so the ink is not pulling it.
-5. (order) Put the steps of the Which Pen test in order.  
+   **Answer:** Capillary action: water creeping through the tiny gaps between the paper's fibres. *Why:* Paper is made of tiny fibres with tiny gaps between them. Water creeps up through the gaps. This is capillary action. Water climbs a plain strip with no ink just as well, so the ink is not pulling it.
+5. (order) Put these steps for testing which pen wrote a secret note in a sensible order.  
    **Answer:** ['Draw a pencil line 2 cm from the bottom of each strip', 'Make a dot of ink on each pencil line', 'Hang the strips so their ends dip in the water', 'Wait until the water is near the top, then take the strips out', "Compare the dried strips with the secret letter's strip"]. *Why:* First mark where the dot goes, then put the ink on, then let the water carry the dyes, and only then compare the patterns.
 6. (label) Here is a drawing of one strip hanging in a tumbler during the Which Pen test. Label the parts.  
    **Answer:** ['The clip is at the top, holding the strip to the pencil.', 'The paper strip hangs down into the tumbler.', 'The pencil line is 2 cm from the bottom of the strip.', 'The ink dot sits on the pencil line.', 'The water is at the bottom, below the dot.']. *Why:* A strong answer puts the ink dot above the water line. If the dot is under the water, the ink washes into the tumbler.
@@ -486,7 +486,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
    **Answer:** A strip with a pencil line at the bottom, a band of one colour, such as blue, and a band of another colour, such as yellow, above or below it.. *Why:* Many green sketch pens split into a yellow dye and a blue dye. Which one goes higher depends on the pen. A strong drawing shows two separate bands, both above the pencil line.
 8. (write) Your black sketch pen dot turned into blue and purple bands. Explain why, in two or three sentences.  
    **Answer:** The black ink was a mixture of a blue dye and a purple dye. The water dissolved them and carried them up the paper. Each dye travelled a different distance, so they came apart.. *Why:* A strong answer says the colours were in the ink all along, and that each dye travels its own distance.
-9. (mcq) Arjun puts four dots on one strip: a black sketch pen, a green sketch pen, a ballpoint pen and a brown sketch pen. Which dot will most likely stay where it is?  
+9. (mcq) Four dots are put on one strip: a black sketch pen, a green sketch pen, a ballpoint pen and a brown sketch pen. The strip is dipped in water. Which dot will most likely stay where it is?  
    Options: The black sketch pen / The green sketch pen / The ballpoint pen / The brown sketch pen  
    **Answer:** The ballpoint pen. *Why:* Ballpoint ink does not dissolve in water, so the water cannot carry it. Sketch pen inks dissolve in water and move up the strip.
 10. (truefalse) If two black inks look exactly the same, they must be the same mixture of dyes.  
@@ -494,7 +494,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 11. (match) Match each word to what it means.  
    **Answer:** Mixture → two or more substances mixed but not joined; Dye → a coloured substance that dissolves in a liquid; Dissolve → to break into pieces too small to see and spread through a liquid; Chromatogram → the pattern of bands left on the paper; Evidence → what you saw or measured that shows whether an idea is true. *Why:* These words come up all through the unit. A strong answer could also give an example of each.
 12. (perspective) Two friends in Kochi look at a black sketch pen dot that has split into blue and purple.  
-   **Answer:** A strong answer sees that both have part of it. The ink is a mixture of blue and purple dyes, as the strip shows. Lakshmi is right that the mixture looks black. Farhan is right that blue and purple are in it. The black is not a trick: it is how the dyes look together.. *Why:* This question asks the child to use evidence and to see that 'looks black' and 'is made of blue and purple dyes' can both be true.
+   **Answer:** A strong answer sees that both have part of it. The ink is a mixture of blue and purple dyes, as the strip shows. The first child is right that the mixture looks black. The second child is right that blue and purple are in it. The black is not a trick: it is how the dyes look together.. *Why:* This question asks the child to use evidence and to see that 'looks black' and 'is made of blue and purple dyes' can both be true.
 13. (mcq) Rasam boils over onto the gas flame, and the blue flame turns yellow-orange for a moment. What in the rasam makes that colour?  
    Options: The salt / The water / The tamarind's sour taste  
    **Answer:** The salt. *Why:* Salt has sodium in it, and sodium makes a flame yellow-orange. Water alone does not change the flame much. A taste is not a substance that gives a colour.
@@ -504,13 +504,13 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
    Options: Air / Seawater / Salt / Rasam  
    **Answer:** 2. *Why:* Salt is one substance: sodium joined to chlorine. Air is a mixture of gases, seawater is water with salt and other substances in it, and rasam is many things mixed together.
 ### Flames and Fair Tests (stretch) (stretch, 15 questions)
-1. (mcq) In the Which Pen test, the water climbed 10 cm and a blue dye went 5 cm, half the way. Divya runs the same pen on a strip where the water climbs 20 cm. About how far will the blue dye go?  
+1. (mcq) In the Which Pen test, the water climbed 10 cm and a blue dye went 5 cm, half the way. The same pen is run on a strip where the water climbs 20 cm. About how far will the blue dye go?  
    Options: 5 cm / 10 cm / 20 cm  
    **Answer:** 10 cm. *Why:* With the same paper and water, a dye travels about the same share of the way. Half of 20 cm is 10 cm. Picking 5 cm forgets that the water went further. Picking 20 cm means thinking the dye keeps up with the water.
 2. (write) In the Which Pen test, why must every dot be the same size and on the same pencil line?  
    **Answer:** So the test is fair. If one dot is bigger or starts higher, its bands could look different because of that, not because of the ink. Then we could not tell which pen matched.. *Why:* A strong answer says that only the pen should change, so any difference comes from the ink.
 3. (perspective) In the story, the secret note's strip matched Arun's pen. Two cousins argue about what this proves.  
-   **Answer:** A strong answer says the strip shows which ink wrote the note: Arun's pen. It does not show who held the pen. Divya is right that the evidence points at Arun's pen. Arjun is right that a pen can be used by anyone, so more questions are needed. But the test does tell us something, so it does not prove nothing.. *Why:* Real forensic scientists are careful in the same way: evidence answers one question, not every question.
+   **Answer:** A strong answer says the strip shows which ink wrote the note: Arun's pen. It does not show who held the pen. The first child is right that the evidence points at Arun's pen. The second child is right that a pen can be used by anyone, so more questions are needed. But the test does tell us something, so it does not prove nothing.. *Why:* Real forensic scientists are careful in the same way: evidence answers one question, not every question.
 4. (truefalse) Sodium's yellow-orange colour is so strong that it can hide the colours of other elements in a flame.  
    **Answer:** True. *Why:* True. Even a tiny trace of sodium gives a bright yellow-orange. Chemists who test for other elements have to keep everything very clean, or the sodium colour hides the rest.
 5. (match) Match each element to the colour it gives a flame.  
@@ -532,14 +532,14 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
    Options: The flame was too hot / Tap water has a little salt dissolved in it / The spoon was made of gold  
    **Answer:** Tap water has a little salt dissolved in it. *Why:* Tap water has small amounts of dissolved salts, including a little sodium. So it gives a few sparks, but far fewer than salt water. This is why chemists ask 'how pure?'.
 13. (label) Here is a drawing of a dried strip from the Which Pen test. Label the parts.  
-   **Answer:** ['The pencil line is near the bottom.', 'Where the dot started is on the pencil line.', 'The blue band is the highest colour.', 'The purple band is between the start and the blue band.', 'How far the water reached is a pencil mark near the top.']. *Why:* A strong answer sees that every colour started on the pencil line, and that no colour went further than the water.
+   **Answer:** ['The pencil line is near the bottom.', 'The dot started on the pencil line.', 'The blue band is the highest colour.', 'The purple band is between the start and the blue band.', 'A pencil mark near the top shows how far the water reached.']. *Why:* A strong answer sees that every colour started on the pencil line, and that no colour went further than the water.
 14. (odd) Three of these are elements. Which one is the odd one out?  
    Options: Sodium / Copper / Salt / Oxygen  
    **Answer:** 2. *Why:* Salt is not an element. It is sodium and chlorine joined together. Sodium, copper and oxygen are each made of one kind of atom.
 15. (write) Your friend says, 'My strip tells me the names of the dyes in my pen.' What does the strip really show? What would a chemist do to name a dye?  
    **Answer:** The strip shows how many dyes there are, their colours, and how far each one went. It does not give their names. A chemist would run a dye whose name is known beside it on the same paper, and see if they match, or do more tests.. *Why:* A strong answer separates what the evidence shows from what it does not, and suggests comparing with a known dye.
 ### Thinking Like a Chemist (challenge) (challenge, 15 questions)
-1. (write) Lakshmi has a bottle of green food colour. Design a test to find out whether it is one dye or a mixture. Say what you would use, what you would do, and what each result would mean.  
+1. (write) You have a bottle of green food colour. Design a test to find out whether it is one dye or a mixture. Say what you would use, what you would do, and what each result would mean.  
    **Answer:** Use a strip of kitchen towel, a pencil line 2 cm from the bottom, one small drop of food colour on the line, and a tumbler with 1 cm of water. Hang the strip so the end dips in. If the green stays as one band, it is probably one dye. If it splits into yellow and blue bands, it is a mixture.. *Why:* A strong answer names the materials, the steps and what each result would show. An even stronger one runs a yellow and a blue food colour beside it to compare.
 2. (perspective) Two real people disagreed about the stars. Auguste Comte wrote in 1835. Gustav Kirchhoff did his tests in 1859.  
    **Answer:** A strong answer sees that Comte's view was sensible with what people knew in 1835: nobody could go to a star or test a piece of one. What changed was new evidence. Kirchhoff and Bunsen found that each element's light has its own pattern, and matched sodium's pattern in sunlight. So you do not have to go somewhere to test what it is made of.. *Why:* This question shows that a wise person can be wrong when new evidence has not been found yet.
@@ -548,7 +548,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
    **Answer:** Try another test, such as a different paper or a different liquid. *Why:* One matching test is good evidence, but two different inks could still behave alike on one paper. A different paper or liquid may separate them. Chemists use more than one test before they are sure.
 4. (truefalse) A test that shows which pen wrote a note also shows who wrote it.  
    **Answer:** False. *Why:* False. The strip shows which ink was used. Anyone could have held the pen. In the story, the strip matched Arun's pen, but Ammamma had borrowed it.
-5. (draw) Predict: you put a yellow dot and a blue dot on top of each other on one strip, and run it. Draw what you expect. Then draw what a green sketch pen strip looked like, if you tested one. Are they alike?  
+5. (draw) You put a yellow dot and a blue dot on top of each other on one strip, and run it in water. Draw what you expect to see. Then draw what a green sketch pen strip looked like, if you tested one. Are they alike?  
    **Answer:** Two strips. The yellow and blue mix splits into a yellow band and a blue band. The green strip may show the same two colours.. *Why:* If a green ink gives the same bands as yellow plus blue, that is strong evidence that the green is a mixture of a yellow dye and a blue dye.
 6. (mcq) In 1868, astronomers saw a yellow line in the Sun's light that no known element gave. Why did they decide it was a new element?  
    Options: The line was very bright / Every known element had been tested, and none gave a line in that exact place / The Sun is very hot  
@@ -566,8 +566,8 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
    **Answer:** A food lab checks chilli powder for colours that are not allowed → chromatography; A firework maker wants a red firework → adding an element that gives a red flame; An astronomer finds out what a star is made of → reading the lines in its light; A forensic scientist checks whether a word was added to a cheque → chromatography of the ink; A chemist checks a white powder for sodium → a flame test. *Why:* Chromatography separates mixtures, and light shows which elements are present. A strong answer could say why each test fits its job.
 12. (write) Black ink looked like one thing, but water showed it was several dyes. Can you think of something else that looks like one thing but is really a mixture? How could you test it?  
    **Answer:** For example, air looks like nothing, but it is a mixture of gases. Seawater looks like water, but it has salt in it: let some dry in a plate in the sun and salt is left. Rasam looks like one liquid, but it is many things.. *Why:* A strong answer gives an example and a real way to test it, such as drying, sieving or a flame test.
-13. (write) A friend runs a green pen on a paper strip and sees only one green band. She says, 'So this ink must be one dye.' Is she certain? What could you try next?  
-   **Answer:** She is not certain. Two dyes can travel together on one paper and look like one band. A strong answer suggests trying another paper or another liquid, or dotting the pen next to a yellow pen and a blue pen to compare.. *Why:* A test that shows one band does not prove the ink is one dye. Chemists try a second test before they decide.
+13. (write) A friend runs a green pen on a paper strip and sees only one green band. She says, 'So this ink must be one dye.' Can she be sure? What could you try next?  
+   **Answer:** She cannot be sure. Two dyes can travel together on one paper and look like one band. A strong answer suggests trying another paper or another liquid, or dotting the pen next to a yellow pen and a blue pen to compare.. *Why:* A test that shows one band does not prove the ink is one dye. Chemists try a second test before they decide.
 14. (fill) When light from a flame is split by a prism, each element shows its own thin coloured ____.  
    **Answer:** ['lines']. *Why:* Each element gives out its own set of thin coloured lines. Bunsen and Kirchhoff matched these lines to find elements in the lab and in the Sun.
 15. (mcq) A forensic scientist has a strip from a mystery ink. Why does she also run strips from pens she already knows?  
@@ -582,7 +582,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 ## Quiz
 1. (mcq) Salt water is made of salt and water mixed together. What kind of material is it?  
    Options: A pure substance / A mixture / An element  
-   **Answer:** A mixture. *Why:* Salt water is two substances mixed but not joined, so it is a mixture. When the water dries up, the salt is left behind. Picking 'element' means mixing up an element, one kind of atom, with any material.
+   **Answer:** A mixture. *Why:* Salt water is two substances mixed but not joined, so it is a mixture. When the water dries up, the salt is left behind. An element is a substance made of only one kind of atom, and salt water is not that.
 2. (mcq) A black sketch pen dot on a wet paper strip spreads into blue and purple bands. Where did the blue and purple come from?  
    Options: They were in the black ink all along / The water made them / The paper had them in it  
    **Answer:** They were in the black ink all along. *Why:* The black ink is a mixture of blue and purple dyes. The water only carried them different distances, so they came apart. A plain wet strip with no dot stays white, so the paper and water did not make them.
@@ -591,13 +591,13 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
    **Answer:** So the ink does not just wash off into the tumbler. *Why:* If the dot is under the water, the dyes dissolve into the water in the tumbler instead of climbing the strip. Above the water, the climbing water carries them up the paper.
 4. (mcq) On a strip, the blue dye went 8 cm and the purple dye went 4 cm. Why did the blue go further?  
    Options: Blue is a lighter colour / The blue dye holds on to the paper less strongly than the purple / There was more blue in the dot  
-   **Answer:** The blue dye holds on to the paper less strongly than the purple. *Why:* The water carries each dye up, and the paper holds each dye back. A dye that holds the paper less strongly travels further. Picking 'more blue' is a natural guess, but a bigger amount gives a darker band, not a longer trip.
+   **Answer:** The blue dye holds on to the paper less strongly than the purple. *Why:* The water carries each dye up, and the paper holds each dye back. A dye that holds on to the paper less strongly travels further. Picking 'more blue' is a natural guess, but a bigger amount gives a darker band, not a longer trip.
 5. (mcq) Why do we draw the start line on the strip in pencil, not in pen?  
    Options: Pencil is easier to rub out / Pencil does not dissolve in water, so it will not run / Pencil is darker  
    **Answer:** Pencil does not dissolve in water, so it will not run. *Why:* Pencil marks are made of graphite, which does not dissolve in water. A pen line could dissolve and run up the strip, mixing with the colours you are testing.
-6. (mcq) Kavya, a girl in Class 3, tests three pens. She uses kitchen towel for pen A, blotting paper for pen B and newspaper for pen C. Why is this not a fair test?  
-   Options: She changed the paper as well as the pen / She used too many pens / She should have used ink, not pens  
-   **Answer:** She changed the paper as well as the pen. *Why:* In a fair test only one thing changes. Kavya changed the pen and the paper, so she cannot tell whether a difference came from the ink or from the paper.
+6. (mcq) You test three pens. You use kitchen towel for pen A, blotting paper for pen B and newspaper for pen C. Why is this not a fair test?  
+   Options: The paper changed as well as the pen / Too many pens were used / Ink should have been used, not pens  
+   **Answer:** The paper changed as well as the pen. *Why:* In a fair test only one thing changes. Here the pen and the paper both changed, so you cannot tell whether a difference came from the ink or from the paper.
 7. (mcq) The secret note's strip has the same colours, in the same order, as pen B's strip. What does that show?  
    Options: Pen B's ink is the same mixture as the note's ink / Pen B's owner wrote the note / All the pens are the same  
    **Answer:** Pen B's ink is the same mixture as the note's ink. *Why:* The strip shows which ink, so it points to pen B. It does not show whose hand held pen B. That needs more questions, as Revathi found in the story.
@@ -607,12 +607,12 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 9. (mcq) Firework makers want a red firework. Which element should they add?  
    Options: Sodium / Strontium / Copper  
    **Answer:** Strontium. *Why:* Strontium gives a bright red. Sodium gives yellow-orange and copper gives green or blue. Each element gives its own colours, and that is how fireworks get theirs.
-10. (mcq) In 1835, Auguste Comte said we would never know what stars are made of. How were Bunsen and Kirchhoff able to show he was wrong?  
-   Options: They flew to the Sun / They found that each element's light has its own pattern, and matched sodium's pattern in sunlight / They dug up a fallen star  
-   **Answer:** They found that each element's light has its own pattern, and matched sodium's pattern in sunlight. *Why:* Kirchhoff and Bunsen found that each element gives out its own set of colours. Sodium's yellow matched two dark lines in sunlight, which showed sodium is in the Sun. Nobody had to go there.
-11. (mcq) Bunsen and Kirchhoff found a new element in spring water because of a colour no known element gave. What colour was it?  
-   Options: Sky blue, so they named it caesium / Bright green, so they named it chlorine / Yellow, so they named it sodium  
-   **Answer:** Sky blue, so they named it caesium. *Why:* In 1860 they saw blue lines that no known element made. They named the new element caesium, from a Latin word for sky blue. A year later, red lines led them to rubidium.
+10. (mcq) Someone says we can never know what stars are made of, because we can never go there. How could we find out without going?  
+   Options: Fly to the Sun / Each element's light has its own pattern of colours, so read the pattern in the starlight / Dig up a fallen star  
+   **Answer:** Each element's light has its own pattern of colours, so read the pattern in the starlight. *Why:* Kirchhoff and Bunsen found that each element gives out its own set of colours. Sodium's yellow matched two dark lines in sunlight, which showed sodium is in the Sun. Nobody had to go there.
+11. (mcq) Scientists heat something from spring water in a flame. They see a colour of light that no known element gives. What can they say?  
+   Options: There may be a new element in the water / The flame is broken / The water has no elements in it  
+   **Answer:** There may be a new element in the water. *Why:* Each element gives its own colours. A colour no known element gives must come from an unknown one. This is how caesium was found in 1860.
 12. (mcq) A food safety lab wants to check whether some chilli powder has a colour added that is not allowed. Which method would help most?  
    Options: Weigh the powder / Separate the colours in it, like chromatography / Smell it  
    **Answer:** Separate the colours in it, like chromatography. *Why:* Chromatography separates the coloured substances in the powder, so the lab can see whether there is a dye that should not be there. Weighing or smelling cannot show which colours are mixed in.
@@ -709,6 +709,7 @@ What's Inside? (sci.chemistry-detectives.L3): Topic-level song for Chemistry det
 - Tswett, M., 'Adsorptionsanalyse und chromatographische Methode', Berichte der Deutschen Botanischen Gesellschaft 24, 1906 (chalk columns, the name chromatography)
 - Kirchhoff, G. and Bunsen, R., 'Chemische Analyse durch Spectralbeobachtungen', Annalen der Physik und Chemie 110, 1860 (each element's lines; caesium)
 - Kirchhoff, G., 'Ueber die Fraunhofer'schen Linien', Monatsberichte der Berliner Akademie, October 1859 (sodium in the Sun)
+- Payne, C. H., Stellar Atmospheres, Harvard Observatory Monographs, 1925 (the stars are mostly hydrogen and helium)
 - Comte, A., Cours de philosophie positive, volume 2, 1835 (that the chemical make-up of stars could never be known)
 - Raman, C.V. and Krishnan, K.S., 'A new type of secondary radiation', Nature 121, 1928
 - Flame colours of sodium, potassium, lithium, copper, strontium and barium: standard school chemistry, for example the Royal Society of Chemistry's flame test resources

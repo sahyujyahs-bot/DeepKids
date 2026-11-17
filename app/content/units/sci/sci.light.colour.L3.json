@@ -279,7 +279,7 @@
    "concept": "Colours past the ends of the rainbow",
    "status": "defined",
    "definition": "Infrared is invisible light beyond red, and ultraviolet is invisible light beyond violet. They are light just like the colours we see, with longer or shorter waves.",
-   "description": "The rainbow does not really stop at red and violet. It goes on, but our eyes cannot see the rest. In 1800, William Herschel, an astronomer in England, put thermometers in the colours of a spectrum. The thermometer just past the red end, where there was no colour at all, got the warmest. He had found infrared light. In 1801, Johann Ritter in Germany found invisible light past the violet end. It darkened a special chemical. We call it ultraviolet. Bees can see ultraviolet light. Many flowers have ultraviolet patterns that bees can see but we cannot.",
+   "description": "The rainbow does not really stop at red and violet. It goes on, but our eyes cannot see the rest. In 1737, the French scientist Émilie du Châtelet had written that colours might carry different amounts of heat. Many historians credit her with an early idea of infrared, though her part is debated. In 1800, William Herschel, an astronomer in England, put thermometers in the colours of a spectrum. The thermometer just past the red end, where there was no colour at all, got the warmest. He had found infrared light. In 1801, Johann Ritter in Germany found invisible light past the violet end. It darkened a special chemical. We call it ultraviolet. Bees can see ultraviolet light. Many flowers have ultraviolet patterns that bees can see but we cannot.",
    "examples": [
     "A TV remote talks to the TV with infrared light.",
     "Sunscreen protects skin from ultraviolet light.",
@@ -3314,6 +3314,7 @@
    "Newton, 'A New Theory about Light and Colours', Philosophical Transactions of the Royal Society, 1672; and Opticks, 1704",
    "Kamal al-Din al-Farisi, Tanqih al-Manazir, about 1309; Theodoric of Freiberg, De iride, about 1304-1310",
    "Herschel, Philosophical Transactions, 1800 (infrared); Ritter, 1801 (ultraviolet)",
+   "Du Châtelet, Dissertation sur la nature et la propagation du feu, Académie des Sciences, 1737 (an early idea that colours carry different heat; her part in the later infrared find is debated)",
    "Fraunhofer, 1814 (dark lines in the solar spectrum); Janssen and Lockyer, 1868 (helium line, eclipse seen from Guntur)",
    "Payne, Stellar Atmospheres, PhD thesis, Radcliffe College, 1925",
    "Raman, 'On the molecular scattering of light in water and the colour of the sea', Proceedings of the Royal Society A, 1922; Raman and Krishnan, Nature, 1928",

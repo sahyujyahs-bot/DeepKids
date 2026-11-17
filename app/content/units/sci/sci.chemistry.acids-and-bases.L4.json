@@ -268,7 +268,7 @@
    "status": "defined",
    "context": "Hydrogen ions do more than make things sour. This card is about the job they do in all living cells, including yours.",
    "definition": "Living cells keep a difference in hydrogen ions across a thin wall, and use it like a battery.",
-   "description": "Inside every cell of your body, tiny parts called mitochondria pump hydrogen ions across a thin wall. There are more hydrogen ions on one side than on the other, like water held behind a dam. The ions can flow back only through a tiny machine in the wall, called ATP synthase. As they pour through, they turn the machine like a mill wheel, and it makes ATP. ATP is the small packet of energy that every cell spends. Peter Mitchell worked out this idea in 1961, and he won the Nobel Prize in 1978. Your stomach cells use a similar pump to make stomach acid. Some scientists think the first living cells may have used a difference in pH at warm vents on the sea floor. That idea is not settled.",
+   "description": "Inside every cell of your body, tiny parts called mitochondria pump hydrogen ions across a thin wall. There are more hydrogen ions on one side than on the other, like water held behind a dam. The ions can flow back only through a tiny machine in the wall, called ATP synthase. As they pour through, they turn the machine like a mill wheel, and it makes ATP. ATP is the small packet of energy that every cell spends. Peter Mitchell worked out this idea in 1961. His colleague Jennifer Moyle did many of the experiments that proved it. Mitchell won the Nobel Prize in 1978. Your stomach cells use a similar pump to make stomach acid. Some scientists think the first living cells may have used a difference in pH at warm vents on the sea floor. That idea is not settled.",
    "examples": [
     "Every breath you take feeds a hydrogen ion pump in each of your cells.",
     "The pump in your stomach wall, which makes acid, is the target of some heartburn medicines.",
@@ -2755,7 +2755,8 @@
    "Chandogya Upanishad 6.5.1; Aristotle, Nicomachean Ethics, Book II, chapter 6; Tao Te Ching 42",
    "Warren and Marshall dates (1979, 1981, Easter 1982, 1984): Nobel Prize 2005 ceremony speech, Lasker Foundation and Britannica; sources differ on whether Marshall joined in 1979 or 1981, so treat the year as approximate",
    "Hooi, J. K. Y. and others, 'Global prevalence of Helicobacter pylori infection', Gastroenterology 153, 2017 (about 44 in 100 people)",
-   "Nobel Prize in Chemistry 1978 press release (Peter Mitchell)"
+   "Nobel Prize in Chemistry 1978 press release (Peter Mitchell)",
+"Mitchell, P. and Moyle, J., Chemiosmotic hypothesis of oxidative phosphorylation, Nature 213, 137-139, 1967 (Jennifer Moyle was his long-term experimental partner)"
   ]
  },
  "how_we_found_out": {

@@ -3,7 +3,7 @@
 
 **Summary.** A log can weigh three kilograms and leave a handful of ash, so where did the rest go? Yet a tuft of steel wool does the opposite and gets heavier when it burns. Your child holds a cold plate over a flame and catches drops of water and black soot. They find out how the shape of the same paper changes how fast it burns, and they weigh burning steel wool on a homemade balance. They learn that burning is a chemical reaction in which the same atoms swap partners. They also learn why a blue flame is cleaner than a yellow one, why the Sun is not a fire, and how a flame's colour can tell us what a star is made of.
 
-**Intro.** *A grown-up lights a tea-light candle. A cold steel plate is held a hand's width above the flame for ten seconds. When the plate is lifted, its underside is wet with tiny drops and has a black smudge. The candle was burning, so how can it make water?* Fire seems to use things up. A log turns into a pinch of ash, and a candle gets shorter and shorter. In this unit you catch what a flame really makes. You test what changes how fast something burns, and you weigh things before and after burning. Then you follow the idea out to your own breath, to the Sun, and to flames burning in space.
+**Intro.** *A grown-up lights a tea-light candle. A cold steel plate is held a hand's width above the flame for ten seconds. When the plate is lifted, its underside is wet with tiny drops and has a black smudge. The candle was burning, so how can it make water?* Fire seems to use things up. A log turns into a pinch of ash, and a candle gets shorter and shorter. In this unit you catch what a flame really makes. You test what changes how fast something burns, and you weigh things before and after burning. Then you see how the same idea explains your own breath, why the Sun is not a fire, and how flames burn in space.
 
 ## Learning outcomes
 0. I can explain that burning is a chemical reaction in which a fuel joins with oxygen and makes new substances such as carbon dioxide, water and soot.
@@ -16,7 +16,7 @@
 7. I can say how people once explained burning with phlogiston, and how weighing showed that idea was wrong.
 
 ## Terms
-- **Combustion**: The scientific word for burning. A fuel joins with oxygen very fast and gives out heat and light. *e.g.* A gas stove burner is combustion of LPG.
+- **Combustion**: The scientific word for burning. A fuel joins with oxygen very fast and gives out heat and light. *e.g.* The flame on a gas stove is the combustion of LPG.
 - **Chemical reaction**: A change in which the atoms of some substances come apart and join up in a new way to make different substances. *e.g.* Wax and oxygen change into carbon dioxide and water when a candle burns.
 - **Product**: A new substance that a chemical reaction makes. *e.g.* Carbon dioxide and water vapour are two products of a burning candle.
 - **Carbon dioxide**: A colourless gas made when carbon joins with oxygen. It is heavier than air, and it does not burn. *e.g.* You breathe out carbon dioxide, and so does a burning candle.
@@ -37,28 +37,28 @@
 ### Burning is a chemical reaction · *defined*
 **Definition:** Burning is a chemical reaction in which a fuel joins with oxygen very fast and gives out heat and light. It makes new substances. These new substances are called the products.
 
-Melting wax is a change of state. The wax stays wax. Burning wax is different, because new substances appear. The wax gas joins with oxygen from the air. The atoms of the wax and the atoms of the oxygen come apart and join up again in a new way, and that makes carbon dioxide and water. Scientists call a change like this a chemical reaction. You can tell a chemical reaction has happened when the starting things cannot be got back easily, when new things appear, and when heat or light is given out. Burning shows all three. You cannot turn ash and smoke back into a log.
+Melting wax is a change of state. The wax stays wax. Burning wax is different, because new substances appear. The hot wax turns into a gas, and this gas joins with oxygen from the air. The atoms of the wax and the atoms of the oxygen come apart and join up again in a new way, and that makes carbon dioxide and water. Scientists call a change like this a chemical reaction. You can tell a chemical reaction has happened when the starting things cannot be got back easily, when new things appear, and when heat or light is given out. Burning shows all three. You cannot turn ash and smoke back into a log.
 - e.g. Wax burning makes carbon dioxide and water vapour.
 - e.g. Cooking gas burning makes the same two things.
 - e.g. Rusting is also a reaction with oxygen, only very slow.
 ### What a flame makes: water, carbon dioxide and soot · *defined*
-**Definition:** A candle flame makes water vapour and carbon dioxide, which are invisible, and a little soot, which is black. The cold plate in the first activity catches the water and the soot.
+**Definition:** A candle flame makes water vapour and carbon dioxide, which are invisible, and a little soot, which is black. In the activity Catch What a Flame Makes, a cold katori held over the flame catches the water, and a spoon held in the flame catches the soot.
 
-Wax is made of two kinds of atoms, carbon and hydrogen, joined in long chains. When the wax gas burns, the carbon joins with oxygen to make carbon dioxide. The hydrogen joins with oxygen to make water, which is a hot gas inside the flame. Both gases are invisible, and they rise up and mix into the air. When water vapour touches a cold plate, it cools and turns back into drops. That is the wet patch you saw. The black patch is soot. In a yellow flame, some of the carbon is not burnt, and it comes out as tiny black bits. A candle never vanishes. It turns into things that are spread through the air of the room.
+Wax is made of two kinds of atoms, carbon and hydrogen, joined in long chains. When the wax gas burns, the carbon joins with oxygen to make carbon dioxide. The hydrogen joins with oxygen to make water, which is a hot gas inside the flame. Both gases are invisible, and they rise up and mix into the air. When water vapour touches something cold, such as a steel plate held over the flame, it cools and turns back into drops. That is why the plate gets wet. A plate that touches the flame also gets a black patch. The black patch is soot. In a yellow flame, some of the carbon is not burnt, and it comes out as tiny black bits. A candle never vanishes. It turns into things that are spread through the air of the room.
 - e.g. Drops on a cold plate over a flame are water that the flame made.
 - e.g. Black soot on a spoon held in a flame is unburnt carbon.
 - e.g. The carbon dioxide from a flame is invisible, but it is in the air above it.
 ### Nothing is lost: burning swaps partners · *defined*
 **Definition:** In every chemical reaction the total mass stays the same. The atoms that were there at the start are all still there at the end. They have only changed partners.
 
-When a log burns, it seems to shrink to a little ash. But the log was also joining with oxygen from the air, and most of what it became was gas that floated away. If a log and all the oxygen it used could be weighed, and then all the gas and ash it made, the two weights would match. Steel wool shows this clearly. Iron is not a gas, so when it burns it joins with oxygen and becomes a solid iron oxide. The burnt steel wool is heavier, because it holds the oxygen it took from the air. The French chemist Antoine Lavoisier showed in the 1770s and 1780s that weighing everything, including the gases, gives the same total. Physicists later found that heat leaving a fire carries away a tiny amount of mass, about a fifth of a millionth of a gram for every kilogram of wood. So 'nothing is lost' is true to better than one part in a billion.
+When a log burns, it seems to shrink to a little ash. But the log was also joining with oxygen from the air, and most of what it became was gas that floated away. If a log and all the oxygen it used could be weighed, and then all the gas and ash it made, the two weights would match. Steel wool shows this clearly. When iron burns, it joins with oxygen and becomes iron oxide, which is a solid and not a gas. So nothing floats away. The burnt steel wool is heavier, because it holds the oxygen it took from the air. The French chemist Antoine Lavoisier showed in the 1770s and 1780s that weighing everything, including the gases, gives the same total. Physicists later found that heat leaving a fire carries away a tiny amount of mass, about a fifth of a millionth of a gram for every kilogram of wood. So 'nothing is lost' is true to better than one part in a billion.
 - e.g. Burning steel wool gets heavier, because it takes oxygen from the air.
 - e.g. A log leaves little ash, because most of it became gas that floats away.
 - e.g. A sealed jar with a burning candle weighs the same before and after.
 ### How fast something burns depends on how fast oxygen reaches it · *defined*
 **Definition:** A fuel burns only where oxygen can touch it. The more surface a fuel shows to the air, and the faster fresh air arrives, the faster it burns.
 
-Oxygen has to reach the fuel's surface, or the fuel's gas, for burning to go on. A log lying in the fire burns slowly, because only its outside meets the air. A pile of thin twigs burns fast, because every twig shows a lot of surface. That is why people split wood into kindling before they build a fire, and why they blow on embers. Blowing sends in fresh air, which brings new oxygen. A tightly rolled newspaper may even go out part-way, because the middle gets too little air. Flour is not something that seems to burn, but a cloud of flour dust in the air has so much surface that it can burn in a flash. Mills and grain stores have been wrecked by this, so they keep dust and sparks away.
+Oxygen has to reach the fuel's surface, or the fuel's gas, for burning to go on. A log lying in the fire burns slowly, because only its outside meets the air. A pile of thin twigs burns fast, because every twig shows a lot of surface. That is why people split wood into kindling before they build a fire, and why they blow on embers. Blowing sends in fresh air, which brings new oxygen. A tightly rolled newspaper may even go out part-way, because the middle gets too little air. Flour does not look like something that burns, but a cloud of flour dust in the air has so much surface that it can burn in a flash. Mills and grain stores have been wrecked by this, so they keep dust and sparks away.
 - e.g. Thin kindling lights faster than a thick log.
 - e.g. Blowing on embers makes them glow brighter, because it brings in oxygen.
 - e.g. Flour dust in a mill burns far faster than a heap of flour.
@@ -69,12 +69,12 @@ A gas stove has small air holes at the base of each burner. They let air mix wit
 - e.g. A clean gas stove burns blue, and a smoky chulha burns yellow.
 - e.g. A pan that turns black on the bottom shows soot from incomplete burning.
 - e.g. A coal fire in a shut room can make carbon monoxide.
-### Where the heat and light come from: old sunlight, and your own breath · *defined*
+### Where the heat and light of a fire come from, and how your body does the same thing slowly · *defined*
 **Definition:** A fuel stores energy in the way its atoms are joined. When the atoms rearrange into carbon dioxide and water, they are held together more tightly, and the extra energy is given out as heat and light.
 
 Plants build wood, oil and sugar from carbon dioxide and water, using the energy of sunlight. That energy is stored in the way the atoms are joined. When the fuel burns, the atoms rearrange and give the energy back as heat and light. So a fire is sunlight that a plant stored, set free again. Coal and petrol are stored sunlight from plants and tiny sea animals that lived millions of years ago. Your body does a slow version of the same thing. Cells combine sugar from your food with oxygen from your breath, and make carbon dioxide and water, just like a candle. But they do it slowly, in many small steps, so the energy comes out as body warmth and movement, not as a flame. Breathe on a cold plate, and you will see the same fog that a flame makes.
 - e.g. Burning wood gives back sunlight that the tree stored.
-- e.g. Petrol and coal are old plants and tiny animals, burnt millions of years later.
+- e.g. Petrol and coal were made from plants and tiny sea animals that lived millions of years ago.
 - e.g. Breathing makes carbon dioxide and water, as burning does.
 ### A flame's colour tells which atoms are burning · *defined*
 **Definition:** Atoms of each element give out light of their own colours when they are heated in a flame. So the colour of a flame can show which element is burning.
@@ -98,20 +98,20 @@ If the Sun were a giant ball of coal burning in oxygen, it would have run out of
 - e.g. A coal Sun would have run out in about five thousand years.
 - e.g. Nearly all the fuel on Earth is stored sunlight.
 ### Fire in space: flames that are round and blue · *idea*
-On Earth a flame points up, because hot gas is lighter than cool air and rises, and pulls fresh air in from below. In the weightlessness of the International Space Station, hot gas does not rise. Astronauts' experiments have shown that a candle flame there is a small, round, blue ball. It gets oxygen only by slow drifting, so it burns weakly and soot barely forms. Over some years, scientists on the station found something odd, and reported it in 2014. Tiny drops of fuel kept burning after the visible flame had gone out. They burned at a much lower temperature, in an invisible 'cool flame'. Scientists are still studying how these cool flames work, because they may help make cleaner engines.
+On Earth a flame points up, because hot gas is lighter than cool air and rises, and pulls fresh air in from below. In the weightlessness of the International Space Station, hot gas does not rise. Astronauts' experiments have shown that a candle flame there is a small, round, blue ball. Oxygen reaches it only by drifting in slowly, so it burns weakly and soot barely forms. Over some years, scientists on the station found something odd, and reported it in 2014. Tiny drops of fuel kept burning after the visible flame had gone out. They burned at a much lower temperature, in an invisible 'cool flame'. Scientists are still studying how these cool flames work, because they may help make cleaner engines.
 - e.g. A candle flame on the space station is round and blue.
 - e.g. Weightless hot gas does not rise.
 - e.g. Cool flames burn fuel without a visible flame.
 ### What is a flame made of? · *debated*
 A flame is not a solid, a liquid or a plain gas. It is a glowing place where fuel gas and oxygen are joining. Scientists agree on that, but they disagree on what to call the stuff inside it. Some of the atoms in a flame lose electrons, and this makes a very small share of the flame electrically charged. You can bend a flame with a charged rod.
-- e.g. A flame glows because of hot soot and excited molecules.
+- e.g. A flame glows because of hot soot and gas molecules that have taken in energy.
 - e.g. A flame can be bent a little by a charged object.
 - e.g. A flame is a place where a reaction happens, not a thing you can hold.
 - **Many chemists:** A flame is a hot, glowing gas where a reaction is going on. Only a tiny share of it is charged, so calling it a plasma tells us little.
 - **Many physicists:** Any gas with charged particles that respond to electric fields is a plasma. A flame has them, so it counts as a weakly charged plasma, although a very cool one.
 
 ## Mostly agreed
-- Burning is a chemical reaction in which a fuel joins with oxygen. It gives out heat and light. *How we know:* Weighing the fuel, the oxygen used and the products, as Lavoisier did, gives the same total. Carbon dioxide and water are found in the products of a candle.
+- Burning is a chemical reaction in which a fuel joins with oxygen. It gives out heat and light. *How we know:* When the fuel and the oxygen it uses are weighed, and then the products, as Lavoisier did, the two totals are the same. Carbon dioxide and water are found in the products of a candle.
 - In a chemical reaction, the total mass stays the same. *How we know:* Chemists have weighed sealed flasks before and after thousands of reactions since the 1770s, and the weight does not change.
 - A candle flame makes water vapour, carbon dioxide and soot. *How we know:* A cold plate over a flame collects drops of water and black soot. Carbon dioxide can be shown with limewater, which turns milky.
 - Fire needs fuel, oxygen and enough heat. Take away any one, and it goes out. *How we know:* Every fire extinguisher works by removing one of the three.
@@ -119,13 +119,13 @@ A flame is not a solid, a liquid or a plain gas. It is a glowing place where fue
 - Atoms of each element give out their own colours of light when heated. *How we know:* Salt always makes a flame yellow, and copper always makes it green. Starlight shows the same colours, so astronomers can tell what stars are made of.
 
 ## How we found out
-**Antoine Lavoisier and Marie-Anne Paulze Lavoisier in Paris, building on Georg Stahl's phlogiston and on the oxygen made by Joseph Priestley and Carl Scheele, About 1700 (phlogiston), 1774 (the sealed flask), 1777 onwards (the name oxygen), 1789 (Lavoisier's book).** For about a hundred years, many chemists believed that something escapes from every burning thing. Around 1700, Georg Stahl called it phlogiston. Wood burns, they said, because it gives out phlogiston, and what is left is ash. But there was a puzzle. When metals such as tin or iron burned, the crust that was left weighed more, not less. In the 1770s, the French chemist Antoine Lavoisier began weighing everything, even the air. He heated tin inside a sealed glass flask and weighed the whole flask before and after. The weight did not change, and air rushed in when he opened it. The tin had taken something out of the air. Lavoisier named it oxygen. His wife, Marie-Anne Paulze Lavoisier, drew his apparatus, kept the laboratory notebooks, and translated English chemistry papers for him. Burning, they showed, is joining with oxygen, not letting something escape.  
-*What people believed before:* Chemists believed that burning lets an invisible substance called phlogiston escape. Burning metals gaining weight did not fit. Lavoisier showed that the metal was joining with oxygen from the air, by weighing everything in a sealed flask.
+**Antoine Lavoisier and Marie-Anne Paulze Lavoisier in Paris, building on Georg Stahl's phlogiston and on the oxygen made by Joseph Priestley and Carl Scheele. Émilie du Châtelet wrote on the nature of fire in 1738, About 1700 (phlogiston), 1774 (the sealed flask), 1777 onwards (the name oxygen), 1789 (Lavoisier's book).** For about a hundred years, many chemists believed that something escapes from every burning thing. Around 1700, Georg Stahl called it phlogiston. Wood burns, they said, because it gives out phlogiston, and what is left is ash. But there was a puzzle. When metals such as tin or iron burned, the crust that was left weighed more, not less. In the 1770s, the French chemist Antoine Lavoisier began weighing everything, even the air. He heated tin inside a sealed glass flask and weighed the whole flask before and after. The weight did not change, and air rushed in when he opened it. The tin had taken something out of the air. Lavoisier named it oxygen. His wife, Marie-Anne Paulze Lavoisier, drew his apparatus, kept the laboratory notebooks, and translated English chemistry papers for him. Burning, they showed, is joining with oxygen, not letting something escape. In 1738 Émilie du Châtelet, a French scientist, wrote an essay on the nature of fire for a prize of the French Academy of Sciences.  
+*What people believed before:* Chemists believed that burning lets an invisible substance called phlogiston escape. But metals gain weight when they burn, and that did not fit. Lavoisier showed that the metal was joining with oxygen from the air, by weighing everything in a sealed flask.
 
 ## Challenging perspectives
 - **When something burns, it is destroyed.** (Many people, and many young children.; *rejected*)  
   For: A log really does turn into a pinch of ash, and a candle gets shorter until it is gone.  
-  Against: The missing part has become invisible gases and soot. Weighed with the oxygen it used, a burnt thing has the same total mass.
+  Against: The missing part has become invisible gases and soot. If you weigh a thing together with the oxygen it uses, and then weigh everything it turns into, the total mass is the same.
 - **Burning things give off phlogiston, and that is why they burn.** (Georg Stahl and many chemists of the 1700s.; *rejected*)  
   For: Wood and coal are left as light ash, as if something had escaped. The idea explained many things.  
   Against: When tin or iron burns, it gets heavier. Lavoisier showed that it takes something from the air, which he named oxygen.
@@ -142,36 +142,36 @@ A flame is not a solid, a liquid or a plain gas. It is a glowing place where fue
 ## Roots
 We have caught what a flame makes, tested how fast things burn, and weighed burning steel wool. Now we ask what burning tells us about ourselves and the world.
 
-**Deep truth.** A burning candle does not vanish. It turns into water and gases that spread through the air. A cold plate over the flame catches some of it as drops and soot. Burning swaps the partners of the same atoms, and none is lost.  
+**Deep truth.** A burning candle does not vanish. It turns into water and gases that spread through the air. A cold plate over the flame catches some of it as drops and soot. In burning, the same atoms change partners, and none is lost.  
 *Habit it breaks:* We say that fire 'uses up' or 'burns away' things, as if burning ended them. That mixes up what we can no longer see with what is no longer there. Gases are invisible, so we think the matter has gone.  
-*Evidence:* In Catch What a Flame Makes, a cold steel plate held over a tea-light was wet with drops and marked with soot. In the steel wool test, the burning side got heavier, because it took in oxygen from the air.
+*Evidence:* In Catch What a Flame Makes, a cold steel plate held over a tea-light was wet with drops and marked with soot. In Lighter or Heavier?, one tuft of steel wool was burned on a homemade balance. Its side got heavier, because the iron took in oxygen from the air.
 
-- *who am i:* The carbon in your body was once in the air as carbon dioxide, and your breath sends some of it back. You are also part of this swapping of partners.
+- *who am i:* The carbon in your body was once in the air as carbon dioxide, and your breath sends some of it back. So your body is part of the same passing round of atoms that happens when something burns.
 - *what is life:* Your cells combine food and oxygen, and make carbon dioxide and water. A living body does a slow version of what a flame does fast.
-- *what is this world:* The air, the plants, the fires and the animals share the same carbon, passing it round and round. Nothing in this cycle is added and nothing is lost.
+- *what is this world:* The air, the plants, the fires and the animals share the same carbon, and pass it from one to another. Nothing in this cycle is added and nothing is lost.
 
 A log, a candle and a body all hold carbon, hydrogen and oxygen. In a flame, the atoms leave their old partners and join with oxygen, and become carbon dioxide and water. The same atoms are still there, but they are now invisible and spread out. Plants collect them again from the air and build wood and sugar. So fire is not an ending. It is one step in a circle that carries the same atoms between air, plants, animals and flames.
 
-- **Chandogya Upanishad 6.4.1:** As paraphrased, Uddalaka taught that the red colour of a flaming fire is the colour of fire itself, the white is the colour of water, and the black is the colour of food, which is earth. (A candle flame shows a bright part, and a cold plate held over it catches white drops of water and black soot. The old teacher also looked at a fire and saw three colours, and thought about what each one was made of.)
+- **Chandogya Upanishad 6.4.1:** As paraphrased, Uddalaka taught that the red colour of a flaming fire is the colour of fire itself, the white is the colour of water, and the black is the colour of food, which is earth. (A candle flame shows a bright part, and a cold plate held over it catches white drops of water and black soot. Uddalaka, the old teacher, also looked at a fire and saw three colours, and thought about what each one was made of.)
 - **Bhagavad Gita 2.16:** As paraphrased: of what is not, there is no coming to be. Of what is, there is no ceasing to be. (This is very close to what Lavoisier found by weighing. The wax does not cease to be. It becomes other things.)
-- **Anaxagoras, a Greek thinker of about 450 BCE, fragment 17:** As paraphrased: nothing comes into being or perishes. Things are only joined together or separated from things that already are. (A flame separates the atoms of a fuel and joins them to oxygen. Anaxagoras said the same about all change, 2,200 years before the weighing.)
+- **Anaxagoras, a Greek thinker of about 450 BCE, fragment 17:** As paraphrased: nothing comes into being or perishes. Things are only joined together or separated from things that already are. (A flame separates the atoms of a fuel and joins them to oxygen. Anaxagoras said the same about all change, 2,200 years before Lavoisier's weighing.)
 - Science (settled): In a chemical reaction, the total mass of what goes in equals the total mass of what comes out. This is the conservation of mass.
 - Science (settled): A fire gives out a tiny amount of mass as heat and light, about a fifth of a millionth of a gram for each kilogram of wood. This follows from E equals m c squared.
 - Other view, Some philosophers: The atoms are kept, but the candle is not. A candle, a letter or a forest is a pattern, and patterns really do end. Saying that nothing is lost can hide the fact that something people cared about has gone.
 - Practice, Two fogs (3 min): Take a cold steel plate. Breathe out slowly onto it, as you would onto a mirror. Watch the fog appear, and then fade. Breathe in slowly. Breathe on it again. Think about where the water in your breath came from, and where the fog goes now.
 - Ask: When a candle burns down, what has been lost, and what has only changed place?
 - Ask: If the carbon in a log was once in the air, and goes back into the air, where does the log really begin and end?
-- Ask: What do you think the Chandogya teacher saw in the black part of a fire?
+- Ask: What do you think Uddalaka, the Chandogya teacher, saw in the black part of a fire?
 
 ## Deep and big questions
 - *deep:* A log leaves almost no ash, but burning steel wool gets heavier. Where does the log go, and where does the extra weight on the steel wool come from? (hint: Think about which of the products are gases, and which are solid.)
-- *deep:* If nothing is ever lost when something burns, what do we mean when we say a candle is gone? (hint: Think about the difference between the atoms and the candle as a candle.)
-- *deep:* Is the flame glowing, or are the tiny bits of soot inside the flame glowing? (hint: Think about the hot iron rod that glows red, and about the blue part of a flame that has no soot.)
+- *deep:* If nothing is ever lost when something burns, what do we mean when we say a candle is gone? (hint: Think about the difference between the candle's atoms and the candle as a whole thing.)
+- *deep:* Is the flame glowing, or are the tiny bits of soot inside the flame glowing? (hint: Think about a hot iron rod, which glows red, and about the blue part of a flame, which has no soot.)
 - *deep:* Rusting and burning both join a material with oxygen, but one takes years and the other a few seconds. Is it the same change? (hint: Think about what is the same in the two changes, and what is different.)
 - *big:* Your breath fogs a cold plate in the same way a flame does. What does this tell us about how a living body gets its energy? (hint: Think about food, oxygen, and what comes out of your mouth.)
-- *big:* A snake feels the heat of a flame, and we see the flame's light. Are we seeing the same flame differently, or are we meeting different things? (hint: Think about what each body can sense, and what 'the flame' would be without any body to meet it.)
+- *big:* A snake feels a flame's heat, and we see its light. Are the snake and we sensing the same flame in different ways, or are we sensing two different things? (hint: Think about what each body can sense, and whether there is still a flame when nobody is there to sense it.)
 - *big:* A cooking fire gives a family food, but the smoke harms the people who stand near it, mostly women and children. How should we weigh a gain and a harm that come from the same thing? (hint: Think about who gets the benefit, who gets the harm, and what might make a fire cleaner.)
-- *big:* Wood is old sunlight that a tree stored. When we burn wood, whose sunlight are we spending? (hint: Think about how long the energy waited, and how fast we use it.)
+- *big:* Wood holds sunlight that a tree stored as it grew. When we burn wood, we use up that stored energy. What does it mean that it took so long to store and is used so fast? (hint: Think about how long the tree took to store the energy, and how fast we use it.)
 
 ## Story: The Weight of the Ash
 *The story is made up. Bhogi is a real festival on the morning before Pongal, when families burn old things, and in some cities the smoke from burnt plastic and tyres is a real problem. Everything in the story about what burning makes is true. A hundred and twenty grams of ash from three kilograms of dry fronds is a believable amount.*
@@ -229,7 +229,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 - **Printable tokens: 12 tokens: four of each kind, 'Fast burning', 'Slow joining with oxygen' and 'No new substance':** Fast burning; Slow joining with oxygen; No new substance; Fast burning; Slow joining with oxygen; No new substance; Fast burning; Slow joining with oxygen; No new substance; Fast burning; Slow joining with oxygen; No new substance
 - **s1 (4 min)**  
   *Parent does:* Cut out the cards and tokens. Shuffle the cards into a pile. Give each player a set of three tokens. Read the three kinds aloud, and explain each one with the examples from the first three cards.  
-  *Parent says:* There are three kinds of change. Fast burning joins with oxygen and gives heat and light. Slow joining is the same thing, but slow. In the third kind, nothing new is made.  
+  *Parent says:* There are three kinds of change. In fast burning, something joins with oxygen quickly and gives out heat and light. Slow joining with oxygen is the same change, but slow. In the third kind, no new substance is made.  
   *Child mode:* Three kinds: fast burning, slow joining with oxygen, and no new substance.
   - Ask: Which kind of change do you think rusting is? (good: Slow joining with oxygen.; A slow change.; A new substance, but slow.)
   - Note: Let your child read the tokens aloud. The key idea is that a new substance means a chemical change. Melting, dissolving and boiling are not chemical changes.
@@ -268,14 +268,14 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   - Note: Use the same newspaper page for all six, so the paper is the same thickness. Keep them away from the burning area until it is their turn.
   - Check: Why must all the pieces be cut to the same size? → **So only the shape changes**
 - **s3 (10 min) · grown-up needed**  
-  *Parent does:* Set the sink or tray ready, with the water beside it. Hold the first flat piece at its top with the tongs, over the sink. Light its bottom edge. Your child starts the timer when it catches and stops it when the last flame is out.  
+  *Parent does:* Get the sink or tray ready, with the water beside it. Hold the first flat piece at its top with the tongs, over the sink. Light its bottom edge. Your child starts the timer when the paper catches fire and stops it when the last flame is out.  
   *Parent says:* I hold the paper over the sink and light the bottom. When it catches, you press start. When the last flame is out, you press stop. Read me the time.  
   *Child mode:* A grown-up lights the paper. You time it. Start when it catches. Stop when it is out.
   - Ask: What do you see the flame doing as it moves along the paper? (good: It runs up the paper.; It moves where there is more paper to burn.; It leaves ash behind.)
   - Note: The flat piece may burn in only a few seconds. Count a few more seconds to be sure the glow has gone. If a piece drops, let it burn out in the sink. Never lean over the flame. Only one grown-up lights, one piece at a time, and the other children stand an arm's length back. Typical times, only as a guide: a flat sheet about 5 to 15 seconds, a loose ball about 10 to 30 seconds, a tight roll about 30 seconds to over a minute. Yours will differ.
 - **s4 (10 min) · grown-up needed**  
-  *Parent does:* Burn the loose ball and the tight roll in the same way, one at a time. Burn the second flat piece, the second ball and the second roll. Write each time. Note if any middle stayed unburnt.  
-  *Parent says:* Now the loose ball, and then the tight roll. Time each one. Look at the middle of the roll when it is done. Is any paper left?  
+  *Parent does:* Burn the loose ball and the tight roll in the same way, one at a time. Then burn the second flat piece, the second ball and the second roll. Write each time. Note whether the middle of any piece stayed unburnt.  
+  *Parent says:* Now we burn the loose ball, and then the tight roll. Time each one. Look at the middle of the roll when it is done. Is any paper left?  
   *Child mode:* Time the ball. Time the roll. Look at the middle. Is any paper left?
   - Ask: What is different about how the roll burns, compared with the flat sheet? (good: It burns more slowly.; The middle goes out.; The flame cannot reach inside.)
   - Note: The tight roll may burn slowly, or go out part-way. If it goes out, write 'went out' in the last column and stop the timer at that moment. That is a result too. Times will vary a little between tries.
@@ -289,21 +289,21 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 ### e2 · Lighter or Heavier? Burning steel wool on a homemade balance (30 min)
 - **question:** Two equal tufts of steel wool hang from the ends of a balance. If a grown-up burns one of them, will that side go up, go down, or stay level?
 - **predict:** Before you start, guess. When one tuft burns, will its side of the balance go up, go down or stay level? Why do you think so?
-- **fair test:** Both tufts are pulled from the same pad of steel wool and hung the same distance from the middle. The balance is level before anything is lit. Only one tuft is burned, and the other is the control. Any change in the balance comes from the burning.
+- **fair test:** Both tufts are pulled from the same pad of steel wool and hung the same distance from the middle. The balance is level before anything is lit. Only one tuft is burned. The other is left alone, so you have something to compare with. Any change in the balance comes from the burning.
 - **safety:** A grown-up lights the steel wool. It glows and throws tiny sparks. Work over a steel tray, away from curtains and paper, with a bowl of water close by. Do not touch the burnt wool until it has cooled for ten minutes. Keep faces an arm's length away and do not breathe the smoke. Hang the balance at least 30 centimetres below any shelf or ceiling, and wash your hands after touching steel wool, because tiny slivers can prick.
-- **record:** In the table, write what the balance did before burning, during burning and after cooling. Draw the balance in all three moments. Also measure with the ruler how high each end sits above the table, before and after, in millimetres.
+- **record:** In the table, write what the balance did before burning, during burning and after cooling. Draw the balance at all three moments. Also measure with the ruler how high each end sits above the table, before and after, in millimetres.
 - **results table:** Moment | Is the balance level, or which side is lower? | What does the burned tuft look like?
 - **s1 (5 min)**  
   *Parent does:* Show your child the steel wool. Say that one tuft will be burned. Ask for a guess about the balance, and the reason. Write it down.  
   *Parent says:* When this steel wool burns, it will turn grey and crumbly. Will its side of the balance go up, go down, or stay level? Why do you think so?  
   *Child mode:* One tuft will burn. Will its side go up, go down or stay level? Why?
-  - Ask: Why do you think it will go up? (good: The fire eats it, so it gets lighter.; Burning takes things away.; The smoke carries bits away.)
+  - Ask: Why do you think the burning tuft's side will move that way? (good: The fire eats it, so it gets lighter.; Burning takes things away.; The smoke carries bits away.)
   - Note: Most families guess it will go up, because burning seems to use things up. Do not correct the guess. Write it down.
 - **s2 (8 min)**  
-  *Parent does:* Tie a thread round the middle of the skewer. Tie its other end to a pencil taped to a shelf edge. Slide the thread until the skewer hangs level. Tie a short thread to each end. Hang a straightened paper-clip hook on it, about 8 centimetres long. This keeps the wool well below the thread. Keep both the same distance from the middle.  
+  *Parent does:* Tie a thread round the middle of the skewer. Tie the other end of the thread to a pencil taped to a shelf edge. Slide the thread along the skewer until the skewer hangs level. Tie a short thread to each end of the skewer. On each short thread, hang a hook made from a straightened paper clip, about 8 centimetres long. The long hook keeps the steel wool well below the thread. Keep both hooks the same distance from the middle.  
   *Parent says:* The thread goes round the middle of the stick. Slide it until the stick hangs flat. Then hang one paper-clip hook at each end, the same distance from the middle.  
   *Child mode:* Hang the stick from its middle. Make it level. Hang a clip at each end.
-  - Note: Make this balance first, without the steel wool. It will swing and wobble. Wait until it is still. Tape or clay a tiny weight to the higher end if it will not level. With two to four children, one builds the balance, two make and weigh the tufts by eye and by hand, one is the recorder, and everyone writes a guess. With one child, build it together.
+  - Note: Make this balance first, without the steel wool. It will swing and wobble. Wait until it is still. If it will not hang level, stick a tiny weight to the higher end with tape or clay. With two to four children, one builds the balance, two make the tufts and compare their weight by eye and by hand, one is the recorder, and everyone writes a guess. With one child, build it together.
   - Check: Why must the balance hang level before anything is burned? → **So we can tell if burning changed it**
 - **s3 (5 min)**  
   *Parent does:* Pull two tufts from the steel wool, each about the size of a walnut. Fluff each one gently. Push one onto each paper clip. Adjust the tufts until the balance is level again.  
@@ -315,7 +315,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   *Parent says:* I light one tuft, and then we step back. Watch it glow. See how the glow spreads. What is happening to the balance while it burns?  
   *Child mode:* A grown-up lights one tuft. Watch it glow. Stay back. Watch the balance.
   - Ask: What do you see happening to the steel wool as it burns? (good: It glows orange.; It turns dark grey.; It sparkles.)
-  - Note: Hold the flame on the tuft for several seconds until a red glow starts, then step back. If the tuft only glows a little and stops, light it again at another spot. Often not all of the wool burns, and that is fine. If it does not burn at all, it is probably stainless steel wool, which will not work. A few sparks may drop. The tray will catch them. Wait until it is cold before you touch it. While you wait, draw the balance.
+  - Note: Hold the flame on the tuft for several seconds until a red glow starts, then step back. If the tuft only glows a little and stops, light it again at another spot. Often not all of the wool burns, and that is fine. If it does not burn at all, it is probably stainless steel wool, which will not work. A few sparks may drop. The tray will catch them. Wait until the tuft is cold before you touch it. While you wait, draw the balance.
 - **s5 (5 min)**  
   *Parent does:* When the burnt tuft is cold, look at the balance. Which side is lower? Draw it. Then ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
@@ -332,27 +332,27 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   *Parent does:* Show your child the candle and the cold katori. Ask what they think will happen to the katori when held above the flame. Write down their guess and the reason.  
   *Parent says:* We will hold a cold bowl above a flame. What do you think we will find on the bowl? Why do you think so?  
   *Child mode:* A cold bowl will be held above a flame. What will you find on it? Why?
-  - Ask: Where do you think anything on the bowl will come from? (good: From the candle.; From the air.; The wax turns into it.)
+  - Ask: If something appears on the bowl, where do you think it will come from? (good: From the candle.; From the air.; The wax turns into it.)
   - Note: Do not correct the guess. Any guess with a reason is good. Some children will say that nothing happens, and that is fine.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* Fill both katoris with ice water. Wipe the outsides dry. Light the tea-light. Hold one katori 3 centimetres above the flame tip. Hold the other at the same height beside the flame. Count to 20. Note how many seconds pass before the first mist appears on each katori.  
-  *Parent says:* Two cold bowls, wiped dry. One goes over the flame. The other stays beside it. We count to twenty. Now look at the outsides of both.  
+  *Parent says:* We have two cold bowls, wiped dry. One goes over the flame. The other stays beside it. We count to twenty. Now look at the outsides of both.  
   *Child mode:* Hold one cold bowl over the flame. Hold one beside it. Count to 20. Look at both.
   - Ask: How are the two katoris different? Why would they be different? (good: The one over the flame is wetter.; The flame made drops.; The one beside the flame is nearly dry.)
-  - Note: On a humid day, the bowl beside the flame will fog a little too, because cold steel makes water out of the room air. That is why we have two bowls. The bowl over the flame should be clearly wetter, with big drops that run. If both look the same, hold the first bowl lower, and count to 30. Typically the bowl over the flame mists within about 5 to 15 seconds and shows running drops by 20 to 30 seconds. Make sure the katori is really cold, so use plenty of ice. With two to four children, one child holds the stopwatch, one watches the bowl over the flame, one watches the control bowl, and one writes down the times, and then swap for the spoon and breath tests. With one child, the child counts and watches while you hold.
+  - Note: On a humid day, the bowl beside the flame will fog a little too, because cold steel turns water vapour in the room air into drops. That is why we have two bowls. The bowl over the flame should be clearly wetter, with big drops that run. If both look the same, hold the first bowl lower, and count to 30. Typically the bowl over the flame mists within about 5 to 15 seconds and shows running drops by 20 to 30 seconds. Make sure the katori is really cold, so use plenty of ice. With two to four children, one child holds the stopwatch, one watches the bowl over the flame, one watches the bowl beside the flame, and one writes down the times, and then swap for the spoon and breath tests. With one child, the child counts and watches while you hold.
   - Check: Why do we hold a second cold bowl beside the flame? → **To see if the drops come from the room air and not the flame**
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* Hold the steel spoon in the yellow tip of the flame for two seconds. Take it out. Look at the underside. Rub the black patch with a wet finger. Then hold a second, clean spoon just above the flame tip, outside the yellow. Keep it there for two seconds. Compare the two spoons.  
-  *Parent says:* Now the spoon, in the yellow tip, for two seconds. Look at the black patch. Rub it with a wet finger. What is it? Where did it come from?  
+  *Parent says:* Now I hold the spoon in the yellow tip of the flame for two seconds. Look at the black patch. Rub it with a wet finger. What is it? Where did it come from?  
   *Child mode:* A grown-up holds the spoon in the flame for two seconds. Look at the black patch. What is it?
   - Ask: What do you think the black patch is made of? (good: Smoke.; Burnt wax.; Black dust from the candle.)
-  - Note: The black patch is soot, which is carbon from the wax that did not burn completely. If the spoon is clean, hold it in the yellow tip a little longer, but not in the blue base. The spoon held outside the yellow should stay almost clean. That comparison shows that soot comes from the yellow part.
+  - Note: The black patch is soot, which is carbon from the wax that did not burn completely. If the spoon stays clean, hold it in the yellow tip a little longer, but not in the blue base. The spoon held outside the yellow should stay almost clean. That comparison shows that soot comes from the yellow part.
 - **s4 (3 min)**  
   *Parent does:* Breathe out slowly onto a cold steel plate or a mirror. If you have none, breathe on the outside of a katori of ice water. Look at the fog. Compare it with the drops on the katori from the flame.  
   *Parent says:* Breathe out slowly onto the cold plate. What do you see? How is it like what the flame made?  
   *Child mode:* Breathe on the cold plate. What do you see? Is it like the flame's drops?
   - Ask: Why do you think your breath and the flame make the same thing? (good: Both make water.; We burn food.; Both give out something wet.)
-  - Note: Your breath is full of water vapour and carbon dioxide, just as a flame is. Your body breaks down food with oxygen, slowly. You do not need to explain this yet, only to notice that the two fogs look alike.
+  - Note: Your breath is full of water vapour and carbon dioxide, just as a flame is. Your body breaks down food with oxygen, slowly. You do not need to explain this yet. Your child only needs to notice that the two fogs look alike.
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw and why. Then draw the katoris and the spoon.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
@@ -380,22 +380,22 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   *Parent says:* Dip a wet spoon into the salt, so a few grains stick. Hold it at the edge of the flame. What colour does the flame turn? Why do you think it changed?  
   *Child mode:* A grown-up holds a salty spoon in the flame. What colour does it turn?
   - Ask: What do you think the salt does to the flame? (good: It changes the colour.; The salt burns.; Something in the salt gives light.)
-  - Note: The flame near the spoon should flash a bright yellow-orange for a few seconds. If you see little, use a few more grains and a wetter spoon, and try the edge of the flame. That is the colour of sodium, one of the atoms in salt. After they have answered, tell them that every element gives its own colour of light when it is heated. Fireworks use this for their colours.
+  - Note: The flame near the spoon should flash a bright yellow-orange for a few seconds. That is the colour of sodium, one of the atoms in salt. If you see little colour, use a few more grains and a wetter spoon, and try the edge of the flame. After they have answered, tell them that every element gives its own colour of light when it is heated. Fireworks use this for their colours.
 ### a3 · The Gas Smell Drill: what to do if you smell LPG (15 min)
-- **safety:** No gas is let out and no flame is lit in this drill: it is only a practice. Do not try to smell for a real leak by sniffing at the pipe. If you ever do smell gas, do the steps for real. A grown-up can check pipe joints for a leak with soapy water brushed on them, because bubbles that grow show a leak, but never with a flame.
+- **safety:** No gas is let out and no flame is lit in this drill: it is only a practice. Do not try to smell for a real leak by sniffing at the pipe. If you ever do smell gas, do the steps for real. A grown-up can check pipe joints for a leak by brushing soapy water on them: bubbles that grow show a leak. Never check with a flame.
 - **record:** Write the five steps in order on a card and stick it near the kitchen, with the emergency numbers beside it.
 - **s1 (4 min)**  
   *Parent does:* Say that cooking gas has no smell of its own, and that a smelly chemical is added on purpose. Ask your child why they think this is done.  
-  *Parent says:* LPG has no smell by itself. A smelly chemical is added, like rotten eggs. Why do you think the gas company does that?  
+  *Parent says:* LPG has no smell by itself. A chemical that smells like rotten eggs is added. Why do you think the gas company does that?  
   *Child mode:* Gas has no smell. A smell is added. Why?
   - Ask: Why would a company add a bad smell to gas? (good: So we notice a leak.; To warn us.; Because we could not tell otherwise.)
   - Note: The smell is a chemical called ethyl mercaptan. It is added so that a leak can be noticed before the gas builds up. Gas mixed with air in the right amounts can catch fire or explode from a single spark.
 - **s2 (6 min)**  
-  *Parent does:* Walk through the five steps with your child, in order. First, no flames or switches. Then turn off the regulator, open windows and doors, go outside, and call for help. Let them point at each place as you go. With two to four children, give each child one job (regulator, windows, calling) and then swap.  
+  *Parent does:* Walk through the five steps with your child, in order. First, touch no flames or switches. Then turn off the regulator, open windows and doors, go outside, and call for help. Let them point at each place as you go. With two to four children, give each child one job (regulator, windows, calling) and then swap.  
   *Parent says:* If we smell gas, first we touch no flames and no switches. Then we turn off the regulator, open every window, go outside, and call for help.  
   *Child mode:* No flames. No switches. Turn off the regulator. Open windows. Go outside. Call for help.
   - Ask: Why must we not switch on a light when we smell gas? (good: A spark could set the gas on fire.; Switches make sparks.; The gas could explode.)
-  - Note: A switch can make a tiny spark. If gas has built up in the room, that spark can set it off. In India, the LPG emergency number on your cylinder or bill (the national LPG emergency line is 1906) and the fire service (101) are the ones to call, from outside. Check the numbers for your area and write them on the card.
+  - Note: A switch can make a tiny spark. If gas has built up in the room, that spark can set it off. Call for help from outside. In India, the numbers to call are the LPG emergency number on your cylinder or bill (the national LPG emergency line is 1906) and the fire service (101). Check the numbers for your area and write them on the card.
   - Check: You smell gas in the kitchen. What should you do first? → **Not touch any flame or switch, then turn off the regulator and open the windows**
 - **s3 (5 min)**  
   *Parent does:* Play the drill twice. A grown-up says 'I smell gas.' Your child acts out the steps in order. They point at the regulator and the window. Then swap places, and let the child give the signal.  
@@ -406,7 +406,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 
 ## Projects
 ### p1 · Pour Out a Fire: make carbon dioxide and put out a candle (40 min)
-- **safety:** A grown-up lights the candle. Keep the jar mouth away from faces, and rinse well with water if vinegar gets in an eye. Do not pour the liquid on the candle. Hold the jar tilted only so that the gas pours out, and keep the foam inside. Keep the candle away from curtains and paper.
+- **safety:** A grown-up lights the candle. Keep the jar mouth away from faces, and rinse well with water if vinegar gets in an eye. Do not pour the liquid on the candle. Tilt the jar only far enough for the gas to pour out, and keep the foam inside. Keep the candle away from curtains and paper.
 - **record:** Draw the jar, the candle in the bowl, and an arrow showing the invisible gas pouring. Write why the flame went out.
 - **s1 (5 min)**  
   *Parent does:* Show your child the jar, the baking soda, the vinegar and the candle in its bowl. Ask for a guess about what will happen when you tilt the fizzing jar over the flame. Ask for a reason.  
@@ -415,18 +415,18 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   - Ask: Why do you think the flame will or will not change? (good: The gas will put it out.; Nothing will happen, as you cannot see the gas.; The gas will make it bigger.)
   - Note: Do not correct the guess. Any guess with a reason is good. Most children expect nothing, because the gas cannot be seen.
 - **s2 (10 min)**  
-  *Parent does:* Put 3 spoons of baking soda in the jar. Pour in 100 millilitres of vinegar. It fizzes. Wait until the fizz calms down, about one minute. Then pour within the next minute or two, before the gas mixes with the air. Keep the jar upright.  
+  *Parent does:* Put 3 spoons of baking soda in the jar. Pour in 100 millilitres of vinegar. It fizzes. Wait until the fizz calms down, about one minute. Keep the jar upright while you wait. Use the gas within the next minute or two, before it mixes with the air.  
   *Parent says:* Put the baking soda in the jar. Add the vinegar. It fizzes. That fizz is a gas. Wait until it calms down.  
   *Child mode:* Put baking soda in the jar. Add vinegar. Watch it fizz. Wait until it calms.
   - Ask: What do you see in the jar? What do you think the bubbles are? (good: A gas.; Air.; Something new being made.)
   - Note: Baking soda and vinegar react and make carbon dioxide. This is a chemical reaction, because a new gas appears and it cannot be turned back. Place the jar on a tray in case the foam rises over the top.
   - Check: Why do we say that making the fizz is a chemical reaction? → **A new gas is made that was not there before**
 - **s3 (10 min) · grown-up needed**  
-  *Parent does:* The grown-up stands the tea-light in the deep bowl and lights it. First, as a control, tilt the empty second jar over the bowl in the same way. Watch that the flame stays alight. Then hold the fizzing jar over the bowl. Tilt it slowly, as if pouring water, but keep the liquid in. Stop if the foam reaches the rim.  
+  *Parent does:* The grown-up stands the tea-light in the deep bowl and lights it. First, to compare, tilt the empty second jar over the bowl in the same way. Watch that the flame stays alight. Then hold the fizzing jar over the bowl. Tilt it slowly, as if pouring water, but keep the liquid in. Stop if the foam reaches the rim.  
   *Parent says:* Tilt the jar slowly over the bowl, as if pouring water. Keep the liquid in the jar. Watch the flame. What happens?  
   *Child mode:* A grown-up lights the candle. Tilt the jar like pouring. Keep the liquid in. Watch the flame.
   - Ask: What happened to the flame? What was poured out of the jar? (good: It went out.; An invisible gas.; Carbon dioxide.)
-  - Note: The flame should go out within a few seconds as the gas sinks into the bowl, while the empty jar did nothing. That control shows it is the gas and not the tilting. If it does not go out, make a fresh jar, tilt it with its lip almost touching the bowl rim, and tilt it more steeply. It may take two or three tries, and that is normal. With two to four children, one measures the soda, one pours the vinegar, one tilts the jar and one watches and writes, and then swap with a fresh jar. With one child, the child tilts while you light. The candle should sit well below the rim of the bowl so that the gas pools around it.
+  - Note: The flame should go out within a few seconds as the gas sinks into the bowl, while the empty jar did nothing. That comparison shows it is the gas that puts the flame out, and not the tilting. If the flame does not go out, make a fresh jar, tilt it with its lip almost touching the bowl rim, and tilt it more steeply. It may take two or three tries, and that is normal. With two to four children, one measures the soda, one pours the vinegar, one tilts the jar and one watches and writes, and then swap with a fresh jar. With one child, the child tilts while you light. The candle should sit well below the rim of the bowl so that the gas pools around it.
 - **s4 (10 min)**  
   *Parent does:* Light the candle again. Ask your child to explain what happened, and why. Draw the jar and the arrow of gas. Try once more.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think the flame went out?  
@@ -448,11 +448,11 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
   - Ask: Where should air go in, and where should it go out? (good: In at the sides, out at the middle.; One hole is enough.; Hot gas goes up, so out at the top.)
   - Note: Hot air and gas from a flame rise. This pulls fresh air in from below, if it has a way in. A lid with only one hole makes the air go out and in by the same hole, which does not work well.
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* Make the first lid from foil. A grown-up lights the candle and puts the lid on. Start the timer. Write the time when the flame goes out. Make a change to the lid, and test again. Change only one thing each time. For a baseline, first test a lid with no holes at all.  
+  *Parent does:* First test a foil lid with no holes at all, so you have a time to compare with. A grown-up lights the candle and puts the lid on. Start the timer. Write the time when the flame goes out. Then make a change to the lid, and test again. Change only one thing each time.  
   *Parent says:* Make your first lid. I will light the candle and put it on. You start the timer. When the flame goes out, write down the time.  
   *Child mode:* A grown-up lights the candle and puts on your lid. Time the flame. Write the time.
   - Ask: What did you change between tests? What difference did it make? (good: I added a hole at the edge.; I made a tube.; The flame lasted longer.)
-  - Note: A lid with no holes usually puts the flame out in well under a minute (typically 10 to 40 seconds, depending on the jar). A lid with holes near the edge and one hole in the middle usually lets the flame burn much longer than a lid with a single hole. A rolled card tube over the middle hole often helps further. The jar and foil get hot, so do not touch them until they have cooled, about three minutes, and use a second jar for the next test if you are in a hurry. Only the grown-up lights the candle and fits the lid, and keeps hair and sleeves away from the flame. Keep the lid card away from the flame. With two to four children, each child designs their own lid and the others take turns timing and writing. With one child, the child times and you light. Let the grown-up show the flow of air with a puff of incense smoke near the holes.
+  - Note: A lid with no holes usually puts the flame out in well under a minute (typically 10 to 40 seconds, depending on the jar). A lid with holes near the edge and one hole in the middle usually lets the flame burn much longer than a lid with a single hole. A rolled card tube over the middle hole often helps further. The jar and foil get hot, so do not touch them until they have cooled, about three minutes, and use a second jar for the next test if you are in a hurry. Only the grown-up lights the candle and fits the lid, and keeps hair and sleeves away from the flame. Keep the card of the lid away from the flame. With two to four children, each child designs their own lid and the others take turns timing and writing. With one child, the child times and you light. The grown-up can show how the air flows with a puff of incense smoke near the holes.
   - Check: Your flame lasts much longer after you add small holes near the edge of the lid. Why? → **Fresh air can now flow in, while the hot gas goes out of the middle**
 - **s3 (10 min)**  
   *Parent does:* Compare all your lids. Which lasted longest? Why? Draw the best lid, with arrows showing the air going in and out.  
@@ -474,11 +474,11 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
    **Answer:** Drops on a cold plate held over a flame → The flame makes water vapour; A black patch on a spoon held in a flame → Some carbon did not burn completely, and made soot; Fog on a cold plate when you breathe on it → Your breath holds water vapour too; A blue flame with no soot → The fuel is burning completely. *Why:* Each clue shows one product of burning, or how complete the burning was. Water vapour turns into drops on cold surfaces, and soot is unburnt carbon.
 5. (sort) Sort each change by whether it makes a new substance.  
    **Answer:** wood burning in a chulha → Makes a new substance; wax melting in a diya → No new substance; water boiling in a pan → No new substance; a nail rusting → Makes a new substance; sugar dissolving in tea → No new substance; a candle burning → Makes a new substance. *Why:* Burning and rusting make new substances, because the material joins with oxygen. Melting, boiling and dissolving only change where the particles are or how they sit. The substance is the same.
-6. (mcq) The same newspaper is rolled tightly and burned. It burns more slowly than the same paper crumpled loosely. Why?  
+6. (mcq) A sheet of newspaper rolled tightly burns more slowly than the same sheet crumpled loosely. Why?  
    Options: Less air can reach the paper inside the tight roll / The tight roll is heavier / Rolled paper is made of a different material  
    **Answer:** Less air can reach the paper inside the tight roll. *Why:* Burning goes on only where oxygen reaches the fuel. In a tight roll, the inside gets little air, so the flame is slower. The paper is the same.
-7. (order) Put these in the right order, for how thin twigs help to light a thick log.  
-   **Answer:** ['Thin twigs catch fire quickly', "The twigs' heat warms the log", 'The warm log gives out gas that can burn', 'The log burns with a steady flame']. *Why:* Thin twigs have a lot of surface, so they catch quickly. Their heat starts the log giving out gas. Once the log's gas burns, the flame feeds itself.
+7. (order) Put these steps in the right order to show how thin twigs help to light a thick log.  
+   **Answer:** ['Thin twigs catch fire quickly', "The twigs' heat warms the log", 'The warm log gives out gas that can burn', 'The log burns with a steady flame']. *Why:* Thin twigs have a lot of surface, so they catch quickly. Their heat makes the log give out gas that can burn. Once that gas is burning, its heat keeps the log burning.
 8. (write) Why does blowing gently on glowing embers make them glow brighter? Use the word oxygen.  
    **Answer:** Blowing brings fresh air to the embers. The air carries oxygen, so the embers burn faster and glow brighter.. *Why:* A strong answer says that burning needs oxygen at the surface of the fuel, and that blowing sends in new oxygen. A weaker answer says only that blowing makes the fire bigger.
 9. (mcq) A candle flame is yellow, and a clean gas stove flame is blue. What makes the candle flame yellow?  
@@ -495,8 +495,8 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
    **Answer:** A candle flame with a plate above it, an arrow to drops of water on the plate's underside, and an arrow to a black patch of soot.. *Why:* A strong drawing shows drops of water on the cold plate, soot where the plate touches the yellow tip, and invisible carbon dioxide rising away.
 14. (label) Here is a picture of a candle flame with three arrows. Label each arrow with one of these products.  
    **Answer:** ['Arrow to the invisible gas rising: carbon dioxide', 'Arrow to the drops on the cold plate: water vapour', 'Arrow to the black patch: soot']. *Why:* A flame makes two invisible gases and some black soot. Water vapour can be caught as drops on a cold plate, and soot as a black patch.
-15. (perspective) Kavya and Farhan watch a log burn down to a pile of ash.  
-   **Answer:** Answers vary. A strong answer picks a side and gives a reason. It may say that a cold plate over a burning log would catch water, or that weighing the ash and the log shows the rest became gas.. *Why:* Both have a point. The log has gone as a log. But the atoms in it have not gone anywhere. They are in the gases, the ash and the soot.
+15. (perspective) A log burns down to a pile of ash. Here are two views of what happened.  
+   **Answer:** Answers vary. A strong answer picks a side and gives a reason. It may say that a cold plate over a burning log would catch water, or that weighing the ash and the log shows the rest became gas.. *Why:* Both views have a point. The log has gone as a log. But the atoms in it have not gone anywhere. They are in the gases, the ash and the soot.
 16. (count) A bundle of dry coconut fronds weighs 3,000 grams. After burning, 120 grams of ash is left. How many grams of the fronds became gases and soot that floated away?  
    **Answer:** 2,880. *Why:* 3,000 take away 120 is 2,880. About 2,880 grams of the fronds turned into gases and fine smoke that went into the air.
 ### Where Does the Weight Go? (stretch) (stretch, 17 questions)
@@ -529,14 +529,14 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 12. (mcq) Carbon dioxide can put out a candle, though you cannot see it. How?  
    Options: It is heavier than air, so it pours down and pushes the oxygen away from the flame / It makes the candle colder / It is a kind of water  
    **Answer:** It is heavier than air, so it pours down and pushes the oxygen away from the flame. *Why:* Carbon dioxide does not burn, and it is heavier than air. When poured over a flame, it pushes the air away and cuts off the oxygen.
-13. (perspective) Nila and Hari are talking about the Sun on a hot afternoon.  
-   **Answer:** Answers vary. A strong answer picks Hari's side. It notes that burning needs oxygen, and that a burning Sun would run out in a few thousand years, while the Sun has shone for billions of years.. *Why:* Hari is right. The Sun runs on fusion, not burning. Nila is right that the Sun is hot and bright, but a fire could not last as long as the Sun has.
+13. (perspective) Here are two views about the Sun.  
+   **Answer:** Answers vary. A strong answer picks the second view. It notes that burning needs oxygen, and that a burning Sun would run out in a few thousand years, while the Sun has shone for billions of years.. *Why:* The second view is right. The Sun runs on fusion, not burning. The first view is right that the Sun is hot and bright, but a fire could not last as long as the Sun has.
 14. (count) A jar holds 500 millilitres of air. About one fifth of air is oxygen. How many millilitres of oxygen are in the jar?  
    **Answer:** 100. *Why:* One fifth of 500 is 500 divided by 5, which is 100. So the jar holds about 100 millilitres of oxygen.
 15. (draw) Draw the steel wool balance at three moments: before burning, while it burns, and after it has cooled. Show which side is lower each time.  
    **Answer:** Three drawings of a skewer hung from its middle. Before: level. While burning: level or nearly. After cooling: the burnt side lower.. *Why:* A strong drawing shows the balance level at the start, and the burnt side lower at the end, because the burnt wool is heavier.
 16. (odd) Which one is the odd one out, and why? Rusting, a cut apple turning brown, a candle burning, wax melting.  
-   **Answer:** Wax melting, because it makes no new substance. The other three are the wax, iron or apple joining with oxygen.. *Why:* Rusting, browning and burning all make new substances with oxygen. Melting changes only the state, so the wax is still wax.
+   **Answer:** Wax melting, because it makes no new substance. In the other three, the iron, the apple or the wax joins with oxygen.. *Why:* Rusting, browning and burning all make new substances with oxygen. Melting changes only the state, so the wax is still wax.
 17. (label) Here is a drawing of a gas stove burner. Label the three parts that matter for a blue flame.  
    **Answer:** ['The small holes at the base of the burner: air holes', 'The pipe that leads to the burner: gas coming in', 'The ring of flame above the burner: blue flame']. *Why:* Air comes in through the holes and mixes with the gas before it burns. With plenty of oxygen, the carbon burns completely and the flame is blue.
 ### Think Like Lavoisier (challenge) (challenge, 16 questions)
@@ -552,14 +552,14 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 5. (mcq) A cloud of flour dust in a mill can burn in a flash, but a heap of flour on a shelf does not. Why?  
    Options: The dust has far more surface touching the air, so it burns far faster / The dust is hotter / The dust is a different kind of food  
    **Answer:** The dust has far more surface touching the air, so it burns far faster. *Why:* Burning goes on only where oxygen touches the fuel. A cloud of dust shows a huge surface to the air, so it can burn in a flash. A heap shows only its outside.
-6. (perspective) A village is deciding how to cook. Some use wood fires in the kitchen. Others have an LPG stove.  
-   **Answer:** Answers vary. A strong answer weighs cost against health, and notes that incomplete burning in a closed kitchen makes smoke and carbon monoxide. It may ask who pays for gas, and who breathes the smoke.. *Why:* Both have a point. Wood is cheap, but incomplete burning gives smoke, soot and carbon monoxide. A cleaner fire needs better air supply, a chimney, or a different fuel.
+6. (perspective) A village is deciding how to cook. Some families use wood fires in the kitchen. Others have an LPG stove. Here are two views.  
+   **Answer:** Answers vary. A strong answer weighs cost against health, and notes that incomplete burning in a closed kitchen makes smoke and carbon monoxide. It may ask who pays for gas, and who breathes the smoke.. *Why:* Both views have a point. Wood is cheap, but incomplete burning gives smoke, soot and carbon monoxide. A cleaner fire needs better air supply, a chimney, or a different fuel.
 7. (order) Put these in the right order, to show how the energy in a log came from the Sun.  
    **Answer:** ['A leaf catches sunlight', 'The plant builds wood from air and water', 'The wood is burned in a fire', 'The fire warms a room']. *Why:* A leaf uses sunlight to make wood. Burning gives the stored energy back as heat and light.
 8. (match) Match each element to the colour it gives a flame.  
    **Answer:** Sodium, in salt → bright yellow-orange; Copper → green; Strontium, used in red fireworks → red. *Why:* Atoms of each element give out their own colours of light when heated. That is why fireworks have different colours.
 9. (truefalse) The light from a star can tell us which elements are in it.  
-   **Answer:** True. *Why:* True. Each element gives its own colours of light. Astronomers split starlight into colours and match them to elements, as with a flame at home.
+   **Answer:** True. *Why:* True. Each element gives its own colours of light. Astronomers split starlight into colours and match them to elements, in the same way that the colour of a flame shows which element is in it.
 10. (mcq) Why can the Sun not be burning like a fire?  
    Options: There is almost no oxygen in space, and a burning Sun would have run out of fuel in a few thousand years / The Sun is too far away / The Sun is made of water  
    **Answer:** There is almost no oxygen in space, and a burning Sun would have run out of fuel in a few thousand years. *Why:* Burning needs oxygen, and a burning Sun would last only a few thousand years. The Sun has shone for about 4.6 billion years, because it runs on fusion.
@@ -634,7 +634,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 - Fog on a cold steel tumbler of water on a hot, humid day.
 - Rust on an iron gate or a bicycle chain, which is a slow cousin of burning.
 - A candle flame bending when someone walks past, as the moving air changes how fresh air reaches it.
-- A pressure cooker's gas flame turning yellow when the burner is dirty.
+- The gas flame under a pressure cooker turning yellow when the burner is dirty.
 - Sparks from a firework, in red, green and yellow, which come from different metals.
 - Your own breath as a cloud of fog on a cold winter morning.
 
@@ -649,7 +649,7 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 - When our candle burns down, where do you think it goes?
 - Why does our gas stove have a blue flame, when a candle has a yellow one?
 - What do we do if we ever smell cooking gas?
-- Why do we put a lid on a burning pan, and not throw water?
+- Why do we put a lid on a burning pan, instead of throwing water on it?
 - Why do we split wood into small pieces before lighting a fire?
 - Your breath fogs a cold steel plate. Where did that water come from?
 - When a log burns, what do you think the fire leaves behind, and what goes up in the air?
@@ -667,14 +667,14 @@ Thatha put a hand on her head. "Then I have a lot to learn about letting go," he
 - What did the match say to the candle? *You light up my life.*
 
 ## Connected maths
-- In the paper test, Meena timed the flat sheet at 9 seconds and 11 seconds, and the tight roll at 41 seconds and 47 seconds. What is the average time for each shape? How many times longer does the roll take than the flat sheet? **Flat: 10 seconds. Roll: 44 seconds. The roll takes 4.4 times as long.**. Flat: 9 plus 11 is 20, and 20 divided by 2 is 10. Roll: 41 plus 47 is 88, and 88 divided by 2 is 44. Then 44 divided by 10 is 4.4. (queues `math.data.reading-data.L4`)
+- In Same Paper, Three Shapes, the flat sheet burned in 9 seconds and 11 seconds, and the tight roll burned in 41 seconds and 47 seconds. What is the average time for each shape? How many times longer does the roll take than the flat sheet? **Flat: 10 seconds. Roll: 44 seconds. The roll takes 4.4 times as long.**. Flat: 9 plus 11 is 20, and 20 divided by 2 is 10. Roll: 41 plus 47 is 88, and 88 divided by 2 is 44. Then 44 divided by 10 is 4.4. (queues `math.data.reading-data.L4`)
 - A tuft of steel wool weighs 4 grams. After burning, it weighs 5 grams. What fraction and what percentage of its original weight did it gain? **One quarter, or 25 percent.**. It gained 5 take away 4, which is 1 gram. One gram out of 4 grams is 1 over 4. One quarter is 25 percent. (queues `math.fractions.decimals-and-percentages.L4`)
 - A bundle of fronds weighs 3,000 grams and leaves 120 grams of ash. What percentage of the weight was left as ash? **4 percent.**. 120 out of 3,000 is 120 over 3,000. Dividing top and bottom by 30 gives 4 over 100. That is 4 percent. (queues `math.fractions.decimals-and-percentages.L4`)
 - A gas burner burns 44 grams of propane with 160 grams of oxygen. It makes 132 grams of carbon dioxide and 72 grams of water. Check that the total mass is the same before and after. **Before: 204 grams. After: 204 grams. They match.**. Before: 44 plus 160 is 204. After: 132 plus 72 is 204. The totals are equal, so no mass has been lost. (queues `math.addition-subtraction.written-methods.L4`)
 - If the Sun were a ball of coal burning, it would last about 5,000 years. The Sun has really shone for about 4,600,000,000 years. About how many times longer is that? **About 920,000 times longer.**. 4,600,000,000 divided by 5,000 is 920,000. So the Sun has lasted nearly a million times longer than a coal Sun could. (queues `math.number-sense.big-numbers.L4`)
 - An LPG cylinder holds 14.2 kilograms of gas. A family uses about 0.4 kilograms a day. About how many days will it last? **About 35 days.**. 14.2 divided by 0.4 is the same as 142 divided by 4, which is 35.5. So it lasts about 35 days. (queues `math.fractions.decimals-and-percentages.L4`)
 - A tea-light holds 12 grams of wax and burns steadily for 4 hours. Each gram of wax makes about 3 grams of carbon dioxide. How many grams of wax burn in an hour? How many grams of carbon dioxide does the tea-light make in the 4 hours? **3 grams of wax an hour. About 36 grams of carbon dioxide.**. 12 divided by 4 is 3 grams an hour. 12 times 3 is 36 grams of carbon dioxide. The gas weighs three times as much as the wax, because the wax has joined with oxygen. (queues `math.multiplication.multiplication-facts.L4`)
-- In the jar lid challenge, lid A kept the flame going for 20 seconds, lid B for 1 minute 15 seconds, and lid C for 2 minutes 5 seconds. How much longer did lid C last than lid A? **1 minute 45 seconds, which is 105 seconds.**. Lid B is 75 seconds and lid C is 125 seconds. 125 take away 20 is 105 seconds. That is 1 minute 45 seconds. (queues `math.time.duration.L4`)
+- In the Keep the Flame Going challenge, lid A kept the flame going for 20 seconds, lid B for 1 minute 15 seconds, and lid C for 2 minutes 5 seconds. How much longer did lid C last than lid A? **1 minute 45 seconds, which is 105 seconds.**. Lid B is 75 seconds and lid C is 125 seconds. 125 take away 20 is 105 seconds. That is 1 minute 45 seconds. (queues `math.time.duration.L4`)
 
 ## Song
 Same Atoms, New Partners (sci.changes.L4): Topic-level song
@@ -695,7 +695,7 @@ Same Atoms, New Partners (sci.changes.L4): Topic-level song
 - Burning steel wool gets heavier. Why? → The iron joins with oxygen from the air.
 - What colour is a flame that burns completely? → Blue.
 - Why do we put a lid on a burning pan of oil? → It cuts off the oxygen.
-- What gas has no smell and is poisonous, and forms in incomplete burning? → Carbon monoxide.
+- Which poisonous gas has no smell and forms when burning is incomplete? → Carbon monoxide.
 - Does the Sun burn? → No. It shines by fusion.
 - What is the first thing to do if you smell cooking gas? → Touch no flame or switch, turn off the regulator, and open the windows.
 
@@ -722,3 +722,4 @@ Same Atoms, New Partners (sci.changes.L4): Topic-level song
 - Payne, C. H., Stellar Atmospheres, Harvard Observatory Monographs, 1925 (the Sun is mostly hydrogen and helium)
 - World Health Organization, Household air pollution, fact sheet (harm from cooking fires)
 - Chandogya Upanishad 6.4.1; Bhagavad Gita 2.16; Anaxagoras, fragment 17 (Diels-Kranz 59 B17)
+- Du Chatelet, E., Dissertation sur la nature et la propagation du feu, 1738 (her essay on fire, written for the French Academy of Sciences prize)
