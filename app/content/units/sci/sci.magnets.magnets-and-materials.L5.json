@@ -144,7 +144,7 @@
    "concept": "Only a few metals are magnetic",
    "status": "defined",
    "definition": "At room temperature, only three pure metals are strongly magnetic: iron, nickel and cobalt.",
-   "description": "There are about ninety metals among the elements. A magnet strongly attracts only iron, nickel and cobalt. A fourth metal, gadolinium, joins them only when it is cooler than about 20 degrees Celsius. All the other pure metals, such as copper, aluminium, zinc, tin, lead, silver and gold, are not attracted by an ordinary magnet. So being magnetic is rare among metals. It only seems common because iron is common. About a third of the Earth's mass is iron, and people use more steel than all other metals put together.",
+   "description": "There are about ninety metals among the elements. A magnet strongly attracts only iron, nickel and cobalt. A fourth metal, gadolinium, joins them only when it is cooler than about 20 degrees Celsius. All the other pure metals, such as copper, aluminium, zinc, tin, lead, silver and gold, are not attracted by an ordinary magnet. So being magnetic is rare among metals. It only seems common because iron is common. About a third of the Earth's mass is iron, and steel is the most used metal of all.",
    "examples": [
     "A magnet attracts an iron tawa and a steel nail. It does not attract copper wire or aluminium foil.",
     "Gold and silver jewellery is not attracted. A steel spring inside a clasp is.",
@@ -170,7 +170,7 @@
    "concept": "Indian coins are made of four different alloys",
    "status": "defined",
    "definition": "The coins in use today are made of stainless steel, nickel-brass, aluminium-bronze and cupronickel. A magnet attracts only the stainless steel.",
-   "description": "One-rupee coins have been made of a stainless steel since 1992. Two-rupee coins have been made of the same steel since about 2005. This coin steel is iron with about one sixth chromium, and a magnet attracts it. The golden five-rupee coin, made since about 2009, is nickel-brass. A ten-rupee coin has two alloys. Its golden ring is aluminium-bronze, which is copper with a little aluminium. Its silver centre is cupronickel. A magnet attracts neither part. Older coins can differ. Old two-rupee coins with eleven sides are cupronickel. Thick old five-rupee coins are cupronickel too. For a short time, around 2007 and 2008, some five-rupee coins were made of steel. Mints change the alloy when a metal becomes too costly. Steel costs less than copper and nickel.",
+   "description": "One-rupee coins have been made of a stainless steel since 1992. Two-rupee coins have been made of the same steel since about 2007. This coin steel is iron with about one sixth chromium, and a magnet attracts it. The golden five-rupee coin, made in recent years, is nickel-brass. A ten-rupee coin has two alloys. Its golden ring is aluminium-bronze, which is copper with a little aluminium. Its silver centre is cupronickel. A magnet attracts neither part. Older coins can differ. Old two-rupee coins with eleven sides are cupronickel. Thick old five-rupee coins are cupronickel too. For a short time in the late 2000s, some five-rupee coins are said to have been made of steel. Mints change the alloy when a metal becomes too costly. Steel costs less than copper and nickel.",
    "examples": [
     "In the Coin Year Test, the magnet lifted the one-rupee and two-rupee coins.",
     "The magnet left the golden five-rupee coin and the ten-rupee coin on the table.",
@@ -274,7 +274,7 @@
    "concept": "Choosing an alloy for the job: bone pins and scanners",
    "status": "defined",
    "definition": "Engineers choose an alloy partly by how it answers a magnet. Some jobs need a magnetic alloy, and some need one that a magnet does not attract.",
-   "description": "A hospital MRI scanner takes pictures of the inside of a body with a very strong magnet. Its field is about 30,000 times as strong as the Earth's magnetic field. A loose iron thing near it would fly towards it. So the pins and plates that surgeons put in a broken bone are made of titanium alloy, or of a stainless steel that a magnet does not attract. A compass case is made of brass, so that it does not disturb the needle. Other jobs need the opposite. The base of a pan for an induction stove must be a magnetic steel. The core of a motor is a soft magnetic steel with a little silicon in it.",
+   "description": "A hospital MRI scanner takes pictures of the inside of a body with a very strong magnet. A common hospital scanner has a field about 30,000 times as strong as the Earth's magnetic field, and some are stronger. A loose iron thing near it would fly towards it. So the pins and plates that surgeons put in a broken bone are made of titanium alloy, or of a stainless steel that a magnet does not attract. A compass case is made of brass, so that it does not disturb the needle. Other jobs need the opposite. The base of a pan for an induction stove must be a magnetic steel. The core of a motor is a soft magnetic steel with a little silicon in it.",
    "examples": [
     "Before an MRI scan, people are asked to take off keys, hairpins and belts.",
     "A ship built to find sea mines has a hull that magnets do not attract.",
@@ -287,7 +287,7 @@
    "concept": "The same carbon atoms give two answers to a magnet",
    "status": "defined",
    "definition": "Graphite and diamond are both made only of carbon atoms. A strong magnet pushes graphite away far more than it pushes diamond.",
-   "description": "A very strong magnet pushes weakly on materials we call non-magnetic. The push on graphite, the grey material in pencil lead, is one of the largest. In graphite the carbon atoms lie in flat sheets, and electrons can move around rings of atoms in each sheet. In diamond the same atoms are joined in a different pattern, and the push is much smaller. In the 1930s Kathleen Lonsdale in London and K. S. Krishnan in Kolkata measured how crystals answer a magnet in different directions. Their numbers showed that the pattern of the atoms sets the answer. This is the same lesson as the two steels, in a different element.",
+   "description": "A very strong magnet pushes weakly on materials we call non-magnetic. The push on graphite, the grey material in pencil lead, is one of the largest. In graphite the carbon atoms lie in flat sheets, and electrons can move around rings of atoms in each sheet. In diamond the same atoms are joined in a different pattern, and the push is much smaller. In the 1930s Kathleen Lonsdale and K. S. Krishnan measured how crystals answer a magnet in different directions. Their numbers showed that the pattern of the atoms sets the answer. This is the same lesson as the two steels, in a different element.",
    "examples": [
     "A thin pencil lead can be pushed aside by a very strong magnet.",
     "Lonsdale and Krishnan published their measurements together in 1936.",
@@ -422,7 +422,7 @@
   "title": "The Coin That Went the Wrong Way",
   "mins": 12,
   "read_aloud": true,
-  "note": "A made-up story. The science is real. Indian two-rupee coins made in the 1990s have eleven sides and are cupronickel, which a magnet does not attract. Two-rupee coins made since about 2005 are a stainless steel that a magnet attracts. Visakhapatnam really has a large steel plant. Sravani, Lakshmamma, the judge, the school and the machine are imagined.",
+  "note": "A made-up story. The science is real. Indian two-rupee coins made in the 1990s have eleven sides and are cupronickel, which a magnet does not attract. Two-rupee coins made since about 2007 are a stainless steel that a magnet attracts. Visakhapatnam really has a large steel plant. Sravani, Lakshmamma, the judge, the school and the machine are imagined.",
   "text": [
    "Every afternoon at half past one, Lakshmamma counted coins. She ran the canteen at the school in Visakhapatnam, and children paid for their idlis and lemon rice in coins. By the end of lunch the steel bowl beside her stove was full.",
    "Sravani, who was ten, often stayed to help. She liked the sound the coins made. She did not like how long it took. Ones here, twos there, fives, tens. Lakshmamma's fingers were quick, but the heap was always big.",
@@ -893,7 +893,7 @@
      "do": "1. Look for a coin that breaks a pattern. 2. Good places to look: a two-rupee coin with eleven sides, a thick old five-rupee coin, a silver-coloured five. 3. Test any you find. 4. Write its year beside the result.",
      "say": "A coin that breaks the pattern tells us the most. Is there one coin of a value that answers differently from the rest?",
      "kid": "Hunt for a coin that breaks your pattern. Test it. Write its year.",
-     "parent": "Old two-rupee coins with eleven sides are not attracted. Nor are thick old five-rupee coins. A thin silver-coloured five from around 2007 or 2008 is attracted. If you have none, the next step tells your child about them.",
+     "parent": "Old two-rupee coins with eleven sides are not attracted. Nor are thick old five-rupee coins. A thin silver-coloured five from the late 2000s may be attracted. If you have none, the next step tells your child about them.",
      "context": "This step of the Coin Year Test is a hunt for a coin that breaks the pattern."
     },
     {
@@ -928,7 +928,7 @@
        "The two coins are different alloys"
       ],
       "a": 2,
-      "why": "Two-rupee coins were cupronickel until about 2005 and stainless steel after that. A magnet attracts only the steel. Choosing 'fake' means trusting the stamped value more than the test."
+      "why": "Two-rupee coins were cupronickel until the mid-2000s and stainless steel after that. A magnet attracts only the steel. Choosing 'fake' means trusting the stamped value more than the test."
      },
      "context": "This is the last step of the Coin Year Test. Here you explain your results."
     }
@@ -2775,7 +2775,7 @@
       "Hairpins are made of iron only"
      ],
      "a": 0,
-     "why": "An MRI magnet is about 30,000 times as strong as the Earth's field. A loose steel thing would fly towards it.",
+     "why": "A common MRI magnet is about 30,000 times as strong as the Earth's field. A loose steel thing would fly towards it.",
      "outcome": 6
     },
     {
@@ -2878,7 +2878,7 @@
     "Aluminium foil"
    ],
    "a": 0,
-   "why": "Two-rupee coins made since about 2005 are a stainless steel that a magnet attracts. Eleven-sided coins from the 1990s are cupronickel.",
+   "why": "Two-rupee coins made since about 2007 are a stainless steel that a magnet attracts. Eleven-sided coins from the 1990s are cupronickel.",
    "outcome": 2
   },
   {
@@ -3001,38 +3001,35 @@
  ],
  "videos": [
   {
-   "title": "Ferromagnetism: why iron is magnetic and copper is not",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Curie Effect (3D Animation)",
+   "channel": "ScienceWorld",
+   "youtube": "iDnn78X_tpQ",
    "mins": 6,
    "why": "To see domains and tiny atomic magnets lining up in iron, which no home test can show.",
-   "check": "No address yet. Find a short animation from a university, a science museum or a well-known science channel. Check that it says the tiny magnets of neighbouring atoms line up, and that it does not say every metal is magnetic."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Why a magnet does not stick to some steel",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Is Stainless Steel Magnetic? Some Types Are, Some Aren't   🧲🧲🧲",
+   "channel": "MagnetsAndMotors",
+   "youtube": "ERTXLmYcLVc",
    "mins": 5,
    "why": "To see the difference between the steels that a magnet attracts and the steels that it does not, and why.",
-   "check": "No address yet. Find a short lesson that names ferritic and austenitic stainless steel and shows a magnet on both. Check that it does not say a clinging magnet means poor steel."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "How a vending machine knows a coin",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How Do Vending Machines Know Which Coins Are Real?",
+   "channel": "History of Simple Things",
+   "youtube": "jrmqy70EOFY",
    "mins": 5,
    "why": "To see that a machine checks size, weight and metal together, and that the magnet is one check among several.",
-   "check": "No address yet. Find a clear animation or a factory visit. Check that it names more than one test and does not show how to cheat a machine."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
   "Scrap dealers pull steel out of a mixed heap with a magnet. Copper, brass and aluminium stay behind and are sorted another way.",
   "A magnet test in a steel vessel shop tells a buyer which kind of stainless steel a vessel is. Only some vessels work on an induction stove.",
   "Vending machines, ticket machines and bus fare boxes check how a coin answers a magnet, along with its size and weight.",
-  "A hospital MRI scanner uses a magnet about 30,000 times as strong as the Earth's. Pins in bones are made of metals that a magnet does not attract.",
+  "A hospital MRI scanner uses a magnet at least 30,000 times as strong as the Earth's. Pins in bones are made of metals that a magnet does not attract.",
   "A compass case is brass, so that it does not turn the needle. A steel case would.",
   "The core of an electric motor or a transformer is a soft magnetic steel with a little silicon. It follows the field and lets go quickly.",
   "The mint chooses a coin's alloy. Steel is cheaper than copper and nickel, and a magnet tells the two kinds apart."
@@ -3086,7 +3083,7 @@
   },
   {
    "q": "Are there magnetic alloys that no one has thought of?",
-   "why_open": "Heusler's alloy of 1903 surprised everyone. Hundreds of similar alloys have been made since, and no rule yet tells scientists which new mixtures will be magnetic."
+   "why_open": "Heusler's alloy of 1903 surprised everyone. Many similar alloys have been made since, and no rule yet tells scientists which new mixtures will be magnetic."
   },
   {
    "q": "Why do very small pieces of a magnetic metal sometimes lose their magnetism?",
@@ -3485,17 +3482,18 @@
    "Other units were checked so that nothing repeats. The Floating Needle Compass, the Great Magnet Test, Steel Detectives, the Can That Follows and the Mystery Bag are in the lower levels of this topic and of materials. This unit's coin tests, the T test, the foil balls, the stamps and the bent spoon are new."
   ],
   "science": [
-   "Heusler F. (1903). Magnetisierbare Legierungen aus unmagnetischen Metallen. Verhandlungen der Deutschen Physikalischen Gesellschaft 5.",
+   "Heusler F. (1903). Über magnetische Manganlegierungen. Verhandlungen der Deutschen Physikalischen Gesellschaft, p. 219.",
    "Bradley A. J., Rodgers J. W. (1934). The crystal structure of the Heusler alloys. Proceedings of the Royal Society A 144.",
-   "Curie P. (1895). Propriétés magnétiques des corps à diverses températures. Annales de chimie et de physique.",
+   "Curie P. (1895). Propriétés magnétiques des corps à diverses températures. Annales de chimie et de physique, 7th series, vol. 5, p. 289.",
    "Anderson P. W. (1972). More is different. Science 177: 393-396.",
-   "Lonsdale K., Krishnan K. S. (1936). Magnetic anisotropy of crystals. Proceedings of the Royal Society A.",
-   "Reserve Bank of India, Currency Museum, Mumbai: pages on the coinage of the Republic of India, including the ferritic stainless steel coins of 2005 and 2006."
+   "Lonsdale K., Krishnan K. S. (1936). Diamagnetic anisotropy of crystals in relation to their molecular structure. Proceedings of the Royal Society A 156: 597-613.",
+   "Reserve Bank of India, Currency Museum, Mumbai: pages on the coinage of the Republic of India, including the stainless steel coins of 1992 and the ferritic stainless steel coins decided on in 2006. Reserve Bank of India press releases of 3 August 2007 and 22 July 2011 give the coin metals.",
+   "Ivanov Y. P. and others (2022). Direct formation of hard-magnetic tetrataenite in bulk alloy castings. Advanced Science. University of Cambridge, Department of Materials Science and Metallurgy."
   ]
  },
  "how_we_found_out": {
   "context": "This is the true story of an alloy that broke a rule. For centuries, every magnetic metal that anyone found held iron, nickel or cobalt.",
-  "story": "By 1900 many scientists treated it as a rule: a magnetic alloy must hold iron, nickel or cobalt. Then a German mining engineer and chemist, Friedrich Heusler, melted copper, manganese and aluminium together. None of the three is attracted by a magnet. Yet the new alloy was attracted strongly. He reported this in 1903. A magnetic alloy with no iron, nickel or cobalt broke the rule that people trusted. Later work showed that the alloy was magnetic only when its atoms sat in a neat, ordered pattern. In 1934 two British scientists, Bradley and Rodgers, used X-rays to show this pattern. Today scientists have made hundreds of 'Heusler alloys'. The old rule was true for every alloy tested before 1903, and it was still wrong.",
+  "story": "By 1900 many scientists treated it as a rule: a magnetic alloy must hold iron, nickel or cobalt. Then a German mining engineer and chemist, Friedrich Heusler, melted copper, manganese and aluminium together. None of the three is attracted by a magnet. Yet the new alloy was attracted strongly. He reported this in 1903. A magnetic alloy with no iron, nickel or cobalt broke the rule that people trusted. Later work showed that the alloy was magnetic only when its atoms sat in a neat, ordered pattern. In 1934 two British scientists, Bradley and Rodgers, used X-rays to show this pattern. Today scientists have made many 'Heusler alloys'. The old rule was true for every alloy tested before 1903, and it was still wrong.",
   "who": "Friedrich Heusler in Germany, and A. J. Bradley and J. W. Rodgers in Britain",
   "when": "Heusler reported his alloy in 1903. Bradley and Rodgers studied its atoms with X-rays in 1934.",
   "wrong_idea": "That a magnetic alloy must hold iron, nickel or cobalt. Heusler's alloy showed that three non-magnetic metals, mixed in the right pattern, can make a magnetic alloy.",
@@ -3562,7 +3560,7 @@
   ],
   "art": "A child holding a one-rupee coin in one hand and a zoom circle above the coin showing rows of tiny balls, each with an arrow, all pointing the same way."
  },
- "playtest": "The experiments, activities and games were reasoned through step by step, as a family in a flat would do them. They have not yet been tried at home. The Coin Year Test (core) needs coins of several values and years. Most homes find that every one-rupee and two-rupee coin is lifted and no golden five-rupee or ten-rupee coin is. An old eleven-sided two-rupee coin, or a thick old five-rupee coin, may break the pattern. If a home has none, the step says so. Can You Tell by Looking? (core) needs 12 metal things. A steel plate usually gives no answer. If every steel vessel in a home is strongly attracted, the step tells the family to borrow a plate. The magnet may need to be strong enough to lift a steel spoon by its handle. The Bent Spoon is the least certain test. It needs a steel spoon that the magnet does not attract, and some steels show no change after bending. The step says that no change is also a result. The grown-up does the bending. Two Nails, Then the T Test needs a bar magnet and a nail of about the same length. Same Coins, Two Patterns needs 20 coins of the same size. The heads-and-tails rule is a model of how a pattern can make a rule impossible, and the unit says that it is not how steel works. Fool the Magnet Test and Read the Stamp need only kitchen things and foil. The Coin Sorter needs a shoe box, cardboard and a strong magnet, and a grown-up to cut. Beat the Cheat needs a steel washer. Facts to treat with care: the coin alloys and years come from the Reserve Bank of India and should be checked against its latest notices. The story says that two-rupee coins with eleven sides, made from 1992 to 2004, are cupronickel, and that those made since 2005 are round stainless steel. The 2022 Cambridge report about tetrataenite and phosphorus, and the 1936 paper of Lonsdale and Krishnan, were written from memory and should be checked. The temperatures and the figure of 30,000 times for an MRI scanner are rounded. Heusler's alloy is given as copper, manganese and aluminium. The three videos have no address yet.",
+ "playtest": "The experiments, activities and games were reasoned through step by step, as a family in a flat would do them. They have not yet been tried at home. The Coin Year Test (core) needs coins of several values and years. Most homes find that every one-rupee and two-rupee coin is lifted and no golden five-rupee or ten-rupee coin is. An old eleven-sided two-rupee coin, or a thick old five-rupee coin, may break the pattern. If a home has none, the step says so. Can You Tell by Looking? (core) needs 12 metal things. A steel plate usually gives no answer. If every steel vessel in a home is strongly attracted, the step tells the family to borrow a plate. The magnet may need to be strong enough to lift a steel spoon by its handle. The Bent Spoon is the least certain test. It needs a steel spoon that the magnet does not attract, and some steels show no change after bending. The step says that no change is also a result. The grown-up does the bending. Two Nails, Then the T Test needs a bar magnet and a nail of about the same length. Same Coins, Two Patterns needs 20 coins of the same size. The heads-and-tails rule is a model of how a pattern can make a rule impossible, and the unit says that it is not how steel works. Fool the Magnet Test and Read the Stamp need only kitchen things and foil. The Coin Sorter needs a shoe box, cardboard and a strong magnet, and a grown-up to cut. Beat the Cheat needs a steel washer. Facts checked on 17 Nov 2026: the coin metals and years against Reserve Bank of India pages (the start year of the steel two-rupee coin was changed to about 2007, the five-rupee years were softened), the paper citations for Heusler, Curie, Bradley and Rodgers, Lonsdale and Krishnan, Anderson and the 2022 Cambridge tetrataenite report (corrected where needed), and the 770 and 20 degree figures. The MRI figure is now worded as a common scanner at about 30,000 times, and the claims about hundreds of Heusler alloys, steel use and Krishnan's location were softened or removed. The three videos have no address yet.",
  "song": {
   "topic_level": "sci.magnets.L5",
   "title": "Tiny Magnets, All in Line",
