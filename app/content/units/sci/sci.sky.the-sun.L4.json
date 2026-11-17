@@ -73,7 +73,7 @@
     {
       "term": "Plasma",
       "meaning": "A gas so hot that its atoms are broken apart into tiny charged pieces, so it can carry electricity and is pushed and pulled by magnets.",
-      "example": "The Sun is made of plasma, and so is lightning for a moment.",
+      "example": "The Sun is made of plasma. A bolt of lightning also turns the air into plasma for a moment.",
       "art": "A glowing ball of gas with tiny plus and minus signs inside it."
     },
     {
@@ -148,7 +148,7 @@
       "concept": "The Sun is built in layers, from the core to the corona",
       "status": "defined",
       "definition": "The Sun has six main layers. From the inside out they are the core, the radiative zone, the convection zone, the photosphere, the chromosphere and the corona.",
-      "description": "In the core, at about 15 million degrees Celsius, hydrogen joins into helium and makes the Sun's energy. Around the core is the radiative zone. It is so packed that energy is taken in and sent out again, over and over, and zigzags outwards. In the next layer, the convection zone, hot gas boils upwards like water in a pot. At the top of that boiling layer is the photosphere, the layer we call the surface. It is about 5,500 degrees Celsius. Above it lies the thin chromosphere and then the huge, thin corona. The Sun is about 109 Earths wide. The photosphere is only a few hundred kilometres thick. Compared with the whole Sun, that is thinner than the skin of an apple compared with the apple. All six layers are gas, with no solid ground anywhere.",
+      "description": "In the core, at about 15 million degrees Celsius, hydrogen joins into helium and makes the Sun's energy. Around the core is the radiative zone. It is so packed that energy is taken in and sent out again, over and over, and zigzags outwards. In the next layer, the convection zone, hot gas boils upwards like water in a pot. At the top of that boiling layer is the photosphere, the layer we call the surface. It is about 5,500 degrees Celsius. Above it lies the thin chromosphere and then the huge, thin corona. The Sun is about 109 Earths wide. The photosphere is only a few hundred kilometres thick. Compared with the whole Sun, that is as thin as an apple's skin is next to the whole apple. All six layers are gas, with no solid ground anywhere.",
       "examples": [
         "The core, radiative zone and convection zone are hidden inside. We learn about them from sound waves that shake the Sun and from tiny particles called neutrinos.",
         "The chromosphere and corona are easy to see only in a total solar eclipse, when the Moon blocks the bright photosphere."
@@ -268,7 +268,7 @@
       "concept": "Reading sunlight: the Sun's barcode of dark lines",
       "status": "defined",
       "definition": "When sunlight is spread out into its colours, thin dark lines cut across the rainbow. Each kind of atom takes out its own pattern of lines, so the lines tell us what the Sun is made of.",
-      "description": "In 1814, Joseph von Fraunhofer, a German glassmaker, spread sunlight with a prism and saw hundreds of thin dark lines across the colours. He mapped about 570 of them. Nobody knew what they meant. In about 1859, Gustav Kirchhoff and Robert Bunsen heated different substances in a flame and found that each gave its own pattern of lines. Sodium, the atom in salt, made a pair of bright yellow lines in exactly the place where the Sun had a pair of dark lines. That meant sodium was in the Sun's outer layers, taking out that light. Today astronomers use the same method on every star. The lines also show how hot a star is, how fast it moves, and how strong its magnetic field is. In this way, the lines in a star's light tell us about the star.",
+      "description": "In 1814, Joseph von Fraunhofer, a German glassmaker, spread sunlight with a prism and saw hundreds of thin dark lines across the colours. He mapped about 570 of them. Nobody knew what they meant. In about 1859, Gustav Kirchhoff and Robert Bunsen heated different substances in a flame and found that each gave its own pattern of lines. Sodium, the atom in salt, made a pair of bright yellow lines in exactly the place where the Sun had a pair of dark lines. That meant sodium was in the Sun's outer layers, taking out that light. Today astronomers use the same method on every star. The lines also show how hot a star is, how fast it moves, and how strong its magnetic field is. So the lines in a star's light are a message about what the star is made of.",
       "examples": [
         "A candle flame, a neon sign and the Sun each make a different pattern of colours when split.",
         "The lines also showed helium in the Sun in 1868, before anyone had found helium on Earth."
@@ -400,9 +400,9 @@
       "hint": "Think of a candle in daylight, or a lamp in a dark room."
     },
     {
-      "q": "The Sun is gas, and gas can turn at different speeds in different places. Your body is made mostly of water. Are you more like a solid ball or a ball of gas?",
+      "q": "A solid ball turns all in one piece. The Sun does not, because its middle turns faster than its poles. What does that tell us about what the Sun is made of?",
       "kind": "deep",
-      "hint": "Think about which parts of you move and which parts stay in one place."
+      "hint": "Think of the orange. Imagine a spot near the top going round more slowly than a spot in the middle. Could the orange be solid?"
     },
     {
       "q": "Chinese astronomers recorded dark spots on the Sun for about 2,000 years. But most people did not believe the spots were on the Sun itself until Galileo's time. Why do people sometimes look at something for centuries without seeing what it is?",
@@ -761,8 +761,9 @@
             "a": 1,
             "why": "Deeper in the Sun, the gas is so thick that light is taken in and sent out again after a tiny distance. Only light from the photosphere and above can travel out into space. 'The deeper layers are colder' is wrong, because deeper layers are hotter."
           },
-          "think": "If you could see all the way in to the Sun's core, where would you say the Sun's edge was?",
-          "context": "In this last step, you add up the points and think about the pattern."
+          "think": "The photosphere is called the Sun's surface. Is it a real edge, or only the place where we stop being able to see in? Why?",
+          "context": "In this last step, you add up the points and think about the pattern.",
+          "parent": "A good answer: it is only the place where we stop seeing in. Light from deeper gas cannot get out, so we see no further. The gas does not stop there. Thin gas goes on above it as the chromosphere and the corona."
         }
       ]
     },
@@ -844,7 +845,7 @@
               "b": "The bright surface hides the corona, and our eyes cannot see most of the light. It is unsafe to look at the Sun, and spacecraft and filters are needed."
             },
             {
-              "f": "The ordinary solar wind takes about four days to reach the Earth, and a storm cloud takes a day or more. Is the storm cloud faster or slower than light?",
+              "f": "The Sun's light takes about 8 minutes to reach the Earth. A storm cloud from an eruption takes a day or more. Is the storm cloud faster or slower than light?",
               "b": "Slower. Light takes 8 minutes, and the storm cloud takes a day or more."
             },
             {
@@ -988,8 +989,8 @@
           "id": "s4",
           "mins": 4,
           "do": "Count the shields. Decide if the team won. Talk about the hardest card.",
-          "say": "Count the shields on the Earth. Did we win? Which event was the hardest to guess?",
-          "kid": "Count your shields. Did the team win? Which card was hardest?",
+          "say": "Count the shields on the Earth. Did we win? Then think about the cards on the flare and the cloud. Which one arrives first, and why?",
+          "kid": "Count your shields. Did the team win? Which arrives first, a flare's light or a storm cloud? Why?",
           "check": {
             "t": "mcq",
             "q": "Why do storm clouds from the Sun take longer to arrive than a flare's light?",
@@ -1001,8 +1002,9 @@
             "a": 0,
             "why": "A flare's light travels at the greatest speed there is. A cloud of plasma is made of material, so it is much slower. 'A longer path' is wrong, because both come straight from the Sun."
           },
-          "think": "If you were a space-weather forecaster, what would you want to watch every day?",
-          "context": "In this last step, you count shields and think about what you learned."
+          "think": "What would a space-weather forecaster want to watch on the Sun every day? Think of the cards you just played.",
+          "context": "In this last step, you count shields and think about what you learned.",
+          "parent": "Good answers: sunspot groups, flares and eruptions. Big sunspot groups can make big flares. Flares and eruptions send light and clouds towards the Earth. Some children will also say the solar wind. All of these are signs that a storm may be coming."
         }
       ]
     }
@@ -1195,7 +1197,7 @@
               ]
             }
           ],
-          "parent": "Do not look straight at the torch's bulb from above, as it can dazzle. The glow looks bluish from the side and yellow-orange when you look down through it. The sky is blue and a sunset is orange for the same reason. Use a thin cloud for this step. With a lot of milk the glow is just white and the colours vanish. The colours are faint, so use a very dark room and be honest if you cannot see them; the missing sharp edge is the main thing to notice.",
+          "parent": "Do not look straight at the torch's bulb from above, as it can dazzle. The tiny bits of milk scatter blue light sideways more than red light. So the glow looks bluish from the side, and it looks yellow-orange when you look down through it. The sky is blue by day, and the Sun looks orange at sunset, for the same reason. Use a thin cloud for this step. With a lot of milk the glow is just white and the colours vanish. The colours are faint, so use a very dark room and be honest if you cannot see them; the missing sharp edge is the main thing to notice.",
           "check": {
             "t": "mcq",
             "q": "Where is the top edge of the glow?",
@@ -1215,7 +1217,7 @@
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened.",
           "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
           "kid": "Say three things: what you think, what you saw, and why you think it happened.",
-          "parent": "A good answer sounds like this. What I think: a cloud has no hard edge, and how far we can see in depends on how thick it is. What I saw: with clear water I saw the patch to the bottom, and with four teaspoons I lost it within a centimetre. Why: the milk scatters light, so light from deeper down cannot reach my eyes.",
+          "parent": "A good answer sounds like this. What I think: a cloud has no hard edge, and how far we can see in depends on how thick it is. What I saw: with clear water I saw the patch to the bottom, and with four teaspoons I lost it within a centimetre. Why: the milk scatters light, so light from deeper down cannot reach my eyes. About the Sun: its edge is where we stop being able to see in. There is no wall, just as there was no wall in the milky water. There is no solid skin to stop your hand. But the gas is far too hot to touch.",
           "think": "The Sun is a ball of gas. Where might its edge be? If you could get there, could you put your hand into it?",
           "context": "In this last step, you say what you found and link it to the Sun."
         }
@@ -1381,8 +1383,8 @@
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened.",
           "say": "Tell me three things. What do you think now? What did you see? And why do you think it happened?",
           "kid": "Say three things: what you think, what you saw, and why you think it happened.",
-          "parent": "A good answer sounds like this. What I think: hot water moves in loops, going up where it is hottest and down where it is cooler. What I saw: the pepper rose in the middle, spread out and sank at the edge, and one loop took about 15 seconds. Why: hot water is lighter, so it floats up, and then cools and sinks. The Sun's outer layer is gas that does the same, and each loop is a granule.",
-          "think": "A granule on the Sun is about 1,000 kilometres wide and lasts about ten minutes. Why might a bigger loop last longer?",
+          "parent": "A good answer sounds like this. What I think: hot water moves in loops, going up where it is hottest and down where it is cooler. What I saw: the pepper rose in the middle, spread out and sank at the edge, and one loop took about 15 seconds. Why: hot water is lighter, so it floats up, and then cools and sinks. The Sun's outer layer is gas that does the same, and each loop is a granule. About the granules: a bigger loop is a longer way round. So the gas needs more time to travel it.",
+          "think": "In your pan, one small loop took a few seconds. A granule on the Sun is about 1,000 kilometres wide and lasts about ten minutes. Why would a much bigger loop take longer to go round?",
           "context": "In this last step, you say what you found and link it to the Sun."
         }
       ]
@@ -1566,7 +1568,7 @@
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened. Then show your child a picture of the Sun's spectrum with its dark lines, on a phone or in a book.",
           "say": "Tell me three things. What do you think now? What did you see? Why do you think the three lights made different bands?",
           "kid": "Say three things: what you think, what you saw, and why you think it happened.",
-          "parent": "A good answer sounds like this. What I think: each kind of light makes its own pattern of colours. What I saw: the white torch showed a wide band from red to violet, the red torch only red, and the candle a warm band. Why: each light is made of different colours. Astronomers do this with the Sun, but with a much finer tool. They see hundreds of thin dark lines, and each kind of atom makes its own pattern. Our CD is too coarse to show the Sun's dark lines, so show the picture of the Sun's spectrum on a phone or in a book.",
+          "parent": "A good answer sounds like this. What I think: each kind of light makes its own pattern of colours. What I saw: the white torch showed a wide band from red to violet, the red torch only red, and the candle a warm band. Why: each light is made of different colours. Astronomers do this with the Sun, but with a much finer tool. They see hundreds of thin dark lines, and each kind of atom makes its own pattern. Our CD is too coarse to show the Sun's dark lines, so show the picture of the Sun's spectrum on a phone or in a book. About faraway stars: split the star's light into colours. Then match its dark lines to the patterns that each kind of atom makes. The matches show which atoms are in the star.",
           "think": "If every atom has its own pattern, how could you tell what a faraway star is made of?",
           "context": "In this last step, you say what you found and see how astronomers use it."
         }
@@ -1646,7 +1648,7 @@
             "a": 0,
             "why": "The Sun is gas from the outside to the centre, getting hotter and thicker as you go in. Hot rock is a common guess, because we think of the Sun as a very hot planet."
           },
-          "think": "The picture shows a sharp edge. If there is no ground, what is the edge?",
+          "think": "The picture shows a sharp edge. If there is no ground, what can that edge be? You will find out in the Glowing Fog experiment.",
           "context": "In this step, you draw the Sun and meet the puzzle this unit will answer."
         }
       ]
@@ -1654,6 +1656,7 @@
     {
       "id": "a2",
       "title": "Spin the Orange: how a spot proves the Sun turns",
+      "problem": "A sunspot vanishes at the edge of the Sun. Has it died, or gone round the back? In this activity the orange is the Sun. The stickers are sunspots. Turn the orange once in 27 seconds. One second stands for one day. See how long a spot is hidden, and when it comes back.",
       "mins": 25,
       "days": 1,
       "materials": [
@@ -1799,7 +1802,7 @@
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened.",
           "say": "Tell me three things. What do you think now? What did you see? Why did the spot go away and come back?",
           "kid": "Say three things: what you think, what you saw, and why you think it happened.",
-          "parent": "A good answer sounds like this. What I think: a spot that goes out of sight at one edge goes round the back and can return. What I saw: the spot crossed, looked thin at the edge, hid for about 13 seconds and came back. Why: the orange, like the Sun, is a ball that turns.",
+          "parent": "A good answer sounds like this. What I think: a spot that goes out of sight at one edge goes round the back and can return. What I saw: the spot crossed, looked thin at the edge, hid for about 13 seconds and came back. Why: the orange, like the Sun, is a ball that turns. About the orange: a solid orange turns in one piece. So every spot takes the same time to go round. To copy the Sun, the top of the orange would have to turn more slowly than the middle. A solid orange cannot do that. That is why the Sun cannot be solid.",
           "think": "The Sun is gas, not a solid ball. A spot near its pole takes longer to go round than a spot at its middle. What would the orange need to do to copy that?",
           "context": "In this last step, you say what you found."
         }
@@ -1808,6 +1811,7 @@
     {
       "id": "a3",
       "title": "A Stream Past a Stone: how a wind flows round the Earth",
+      "problem": "The Sun's wind blows past the Earth all the time. Most of it flows round the Earth. In this activity the water is the wind. The steel katori is the Earth. You pour water down a tilted tray. You see how a stream flows round something in its way. This is only a rough model. In space, the Earth's invisible magnetic field bends the wind. That field is much wider than the planet.",
       "mins": 20,
       "days": 1,
       "materials": [
@@ -1922,7 +1926,7 @@
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened.",
           "say": "Tell me three things. What do you think now? What did you see? Why do you think the water bent round the katori?",
           "kid": "Say three things: what you think, what you saw, and why you think it happened.",
-          "parent": "A good answer sounds like this. What I think: a stream bends round an obstacle and leaves a calm tail behind. What I saw: the water split in front of the katori, flowed round and left a quiet patch. Why: the stream cannot go through the katori. In space, the Sun's wind flows round the Earth's magnetic field in a similar way. Some of the wind slips in at the poles, and makes the aurora.",
+          "parent": "A good answer sounds like this. What I think: a stream bends round an obstacle and leaves a calm tail behind. What I saw: the water split in front of the katori, flowed round and left a quiet patch. Why: the stream cannot go through the katori. In space, the Sun's wind flows round the Earth's magnetic field in a similar way. Some of the wind slips in at the poles, and makes the aurora. About the katori: the part of the Earth that is like the katori is its magnetic field.",
           "think": "In space, it is not the solid Earth that makes the Sun's wind bend. What part of the Earth is like the katori?",
           "context": "In this last step, you say what you found and link it to the Earth."
         }
@@ -2080,7 +2084,7 @@
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened.",
           "say": "Tell me three things. What do you think now? What did you see in your diary? Why did the spot move?",
           "kid": "Say three things: what you think, what you saw, and why you think it happened.",
-          "parent": "A good answer sounds like this. What I think: the Sun turns, and the spot is carried across. What I saw: the spot moved about a centimetre a day near the middle. Why: the spot is on the Sun's surface, which turns once in about 27 days as seen from the Earth.",
+          "parent": "A good answer sounds like this. What I think: the Sun turns, and the spot is carried across. What I saw: the spot moved about a centimetre a day near the middle. Why: the spot is on the Sun's surface, which turns once in about 27 days as seen from the Earth. About day 12: the spot is hidden for about two weeks. If it lasts, it comes back at the other edge around day 26.",
           "think": "If your spot reaches the edge on day 12, when will it come back, if it lasts?",
           "context": "In this last step, you say what your diary showed."
         }
@@ -2377,7 +2381,7 @@
         },
         {
           "t": "odd",
-          "p": "Which one is the odd one out?",
+          "p": "Which one of these does not happen on or just above the Sun?",
           "opts": [
             "Sunspot",
             "Solar flare",
@@ -2633,7 +2637,7 @@
         },
         {
           "t": "odd",
-          "p": "Four people studied the Sun. Which one is the odd one out?",
+          "p": "Three of these people worked on the dark lines in the Sun's rainbow. Which one did not?",
           "opts": [
             "Fraunhofer",
             "Kirchhoff",
@@ -3094,7 +3098,7 @@
     "How is the Earth like a stone in a stream?",
     "The Sun's wind blows past us all the time. Why do we not feel it?",
     "What would you want a spacecraft that watches the Sun to look for?",
-    "Why is a compass needle useful, and who might a wobbling compass confuse during a space storm?",
+    "A compass needle shows which way is north. What could go wrong for a traveller using a compass during a space storm?",
     "Can a star be a different colour from the Sun? What would that tell you?",
     "What would you write in a diary of the Sun that people could read a hundred years from now?"
   ],

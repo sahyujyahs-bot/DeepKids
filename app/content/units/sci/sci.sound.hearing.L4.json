@@ -43,7 +43,7 @@
   {
    "term": "Pinna",
    "meaning": "The part of the ear you can see on the side of your head, the ear flap. Its folds change sounds a little depending on the direction they come from.",
-   "example": "Folded forwards, your pinna lets in more sound from the front. Cupped behind with a hand, it catches more sound from the front too, and blocks some from the back.",
+   "example": "Fold your ear flap forwards, or cup a hand behind it. Sounds from the front are a little louder, and sounds from the back are a little softer.",
    "art": "A side view of an ear with its folds and an arrow from the front and an arrow from behind."
   },
   {
@@ -221,7 +221,7 @@
    "status": "defined",
    "context": "This card explains how the inner ear tells high notes from low notes.",
    "definition": "When sound enters the cochlea, it makes a wave travel along the basilar membrane. The wave peaks at a place that depends on the pitch. High pitches peak near the start. Low pitches peak near the far end.",
-   "description": "The cochlea is a coiled tube about 3.5 centimetres long when unrolled, filled with fluid. Inside runs the basilar membrane. At the start it is narrow and stiff. At the far end it is about five times wider and much softer. A stiff, narrow part moves best for high sounds. A soft, wide part moves best for low sounds. So a sound of 10,000 hertz makes the wave peak near the start, and a sound of 100 hertz makes it peak near the far end. Along the membrane there are about 15,000 hair cells in each ear. Each hair cell sits at one place, so each one tells the brain about one pitch. About 30,000 nerve fibres carry the messages to the brain. The brain reads which hair cells are signalling, and so it knows the pitch. A sound with many pitches, such as a voice, makes many places move at once.",
+   "description": "The cochlea is a coiled tube about 3.5 centimetres long when unrolled, filled with fluid. Inside runs the basilar membrane. At the start it is narrow and stiff. At the far end it is about five times wider and much softer. A stiff, narrow part moves best for high sounds. A soft, wide part moves best for low sounds. Pitch is measured in hertz. One hertz is one shake of the wave each second, so a high note has a bigger number of hertz. A sound of 10,000 hertz makes the wave peak near the start, and a sound of 100 hertz makes it peak near the far end. Along the membrane there are about 15,000 hair cells in each ear. Each hair cell sits at one place, so each one tells the brain about one pitch. About 30,000 nerve fibres carry the messages to the brain. The brain reads which hair cells are signalling, and so it knows the pitch. A sound with many pitches, such as a voice, makes many places move at once.",
    "examples": [
     "A high whistle peaks near the start of the cochlea.",
     "A low drum peaks near the far end of the cochlea.",
@@ -756,11 +756,11 @@
      "kid": "Read a card. Guess the band. Turn it over. Place it on the ladder.",
      "ask": [
       {
-       "q": "Which sound surprised you most, and why?",
+       "q": "Which of the sounds on the cards so far are 85 decibels or more?",
        "good": [
-        "Headphones turned up full, because I did not know they can be that loud.",
-        "The mosquito, because she is so tiny.",
-        "A city street, because it is louder than I thought."
+        "The mixer-grinder and the hair dryer.",
+        "Headphones turned up full.",
+        "A motorbike passing close, and the loud things after it."
        ]
       }
      ],
@@ -1480,11 +1480,11 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Look at the map together. Count how many sounds were behind and how many in front. Ask the question below, and let your child answer before you say anything.",
-     "say": "Look at the map. Which sounds were behind you? Which in front? Did you get more of the front ones right? Why do you think that might be?",
-     "kid": "Count the sounds in front. Count the sounds behind. Which were easier?",
-     "think": "Why might sounds from the front be easier to find than sounds from behind?",
-     "parent": "Most children find sounds on the left and right easiest, and front and behind harder. In the Sound Clock experiment, you will find out why."
+     "do": "Look at the map together. Count how many sounds were at your sides, and how many were in front of you or behind you. Ask the question below, and let your child answer before you say anything.",
+     "say": "Look at the map. Which sounds were at your sides? Which were in front or behind? Which were easier to point to?",
+     "kid": "Count the sounds at your sides. Count the sounds in front and behind. Which were easier?",
+     "think": "Why might sounds at your sides be easier to find than sounds in front or behind?",
+     "parent": "Most children find sounds at the sides easiest. A sound at your side reaches one ear first and a little louder. A sound in front or behind reaches both ears together and equally loudly. So there is little difference for the brain to use. You will test this in the Sound Clock experiment."
     }
    ],
    "setup": [
@@ -1505,6 +1505,7 @@
   {
    "id": "a2",
    "title": "The Paper Snail: build a model of the cochlea",
+   "problem": "The inner ear sorts high and low notes. It uses a strip called the basilar membrane. A wave runs along the strip and peaks at one place. The place depends on the pitch. In this activity a paper strip stands for the membrane. One end is narrow. The other end is wide, like the real one. Pitch is measured in hertz. One hertz is one shake of the wave each second. You mark where each pitch peaks. Then you curl the strip into a snail, like the real cochlea.",
    "mins": 25,
    "days": 1,
    "context": "In this activity you make a paper strip that is a model of the basilar membrane, and mark where the high and low pitches peak along it.",
@@ -1698,7 +1699,7 @@
      "say": "Press the balloon to your cheek and hum a low note. Then hum a high note. Which buzzes more? Now touch your throat and hum again. What do you feel?",
      "kid": "Hum a low note against the balloon. Then a high note. Which buzzes more?",
      "think": "Evelyn Glennie, a percussionist who cannot hear well, plays barefoot to feel the music through the floor. Why would feet be good for feeling low sounds?",
-     "parent": "A low hum buzzes a lot more on the cheek than a high hum. Glennie plays without shoes so she can feel the beats and low notes through the floor and her whole body. She says she hears with her whole body, not only with her ears."
+     "parent": "A low hum buzzes a lot more on the cheek than a high hum. Glennie plays without shoes so she can feel the beats and low notes through the floor and her whole body. She says she hears with her whole body, not only with her ears. Low notes are slow, strong shakes that travel into the floor. Feet rest on the floor all the time. So a drummer who stands barefoot feels the low beats well."
     }
    ],
    "setup": [

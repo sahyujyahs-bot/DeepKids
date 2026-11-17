@@ -18,7 +18,7 @@
 - **Sound direction**: Where a sound comes from. Scientists call finding it sound localisation. *e.g.* When a cuckoo calls in a tree, you turn your head to the right tree without thinking. That is your sense of sound direction.
 - **Time difference**: The tiny gap between the moment a sound reaches the nearer ear and the moment it reaches the farther ear. *e.g.* A clap on your right reaches your right ear about six ten-thousandths of a second before your left ear. That is much too short to notice, yet your brain uses it.
 - **Head shadow**: The way your head blocks some sound from reaching the far ear, so the far ear hears it a little softer. *e.g.* A whistle on your left sounds a little softer in your right ear, because your head is in the way.
-- **Pinna**: The part of the ear you can see on the side of your head, the ear flap. Its folds change sounds a little depending on the direction they come from. *e.g.* Folded forwards, your pinna lets in more sound from the front. Cupped behind with a hand, it catches more sound from the front too, and blocks some from the back.
+- **Pinna**: The part of the ear you can see on the side of your head, the ear flap. Its folds change sounds a little depending on the direction they come from. *e.g.* Fold your ear flap forwards, or cup a hand behind it. Sounds from the front are a little louder, and sounds from the back are a little softer.
 - **Decibel**: The unit for how strong a sound is. The short way to write it is dB. Zero decibels is about the faintest sound a young person can hear. *e.g.* A whisper is about 30 decibels. A normal conversation is about 60. A motorbike passing close is about 95.
 - **Masking**: When a loud sound hides a quieter one, so that you cannot hear the quiet one even though it is still reaching your ear. *e.g.* You cannot hear a friend whisper while the water tap is running hard.
 - **Cocktail party effect**: Your ability to pick out one voice in a noisy crowd by listening only to it. It was named after a party, but it happens in any crowd. *e.g.* At a wedding hall full of talk, you can still follow your cousin's voice, and you notice if someone across the hall says your name.
@@ -80,7 +80,7 @@ In the Hiding a Whisper test, the whisper was still reaching your ears when the 
 ### The cochlea sorts high and low pitches along its length · *defined*
 **Definition:** When sound enters the cochlea, it makes a wave travel along the basilar membrane. The wave peaks at a place that depends on the pitch. High pitches peak near the start. Low pitches peak near the far end.
 
-The cochlea is a coiled tube about 3.5 centimetres long when unrolled, filled with fluid. Inside runs the basilar membrane. At the start it is narrow and stiff. At the far end it is about five times wider and much softer. A stiff, narrow part moves best for high sounds. A soft, wide part moves best for low sounds. So a sound of 10,000 hertz makes the wave peak near the start, and a sound of 100 hertz makes it peak near the far end. Along the membrane there are about 15,000 hair cells in each ear. Each hair cell sits at one place, so each one tells the brain about one pitch. About 30,000 nerve fibres carry the messages to the brain. The brain reads which hair cells are signalling, and so it knows the pitch. A sound with many pitches, such as a voice, makes many places move at once.
+The cochlea is a coiled tube about 3.5 centimetres long when unrolled, filled with fluid. Inside runs the basilar membrane. At the start it is narrow and stiff. At the far end it is about five times wider and much softer. A stiff, narrow part moves best for high sounds. A soft, wide part moves best for low sounds. Pitch is measured in hertz. One hertz is one shake of the wave each second, so a high note has a bigger number of hertz. A sound of 10,000 hertz makes the wave peak near the start, and a sound of 100 hertz makes it peak near the far end. Along the membrane there are about 15,000 hair cells in each ear. Each hair cell sits at one place, so each one tells the brain about one pitch. About 30,000 nerve fibres carry the messages to the brain. The brain reads which hair cells are signalling, and so it knows the pitch. A sound with many pitches, such as a voice, makes many places move at once.
 - e.g. A high whistle peaks near the start of the cochlea.
 - e.g. A low drum peaks near the far end of the cochlea.
 - e.g. A sound with many pitches, like a voice, makes many places on the membrane move at once.
@@ -272,7 +272,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
   *Parent does:* Play the rest of the cards. For each, everyone guesses the band first. Then turn it over. Keep a score. After every six cards, ask the question below.  
   *Parent says:* Read the sound on the front. Guess the band. Then turn the card over and read the decibels. The right band scores one point. The band next door scores half a point.  
   *Child mode:* Read a card. Guess the band. Turn it over. Place it on the ladder.
-  - Ask: Which sound surprised you most, and why? (good: Headphones turned up full, because I did not know they can be that loud.; The mosquito, because she is so tiny.; A city street, because it is louder than I thought.)
+  - Ask: Which of the sounds on the cards so far are 85 decibels or more? (good: The mixer-grinder and the hair dryer.; Headphones turned up full.; A motorbike passing close, and the loud things after it.)
   - Note: Children often underestimate headphones and a mixer. Do not lecture. Let the numbers speak, and keep the score light.
 - **s4 (2 min)**  
   *Parent does:* Look at the finished ladder. Ask your child to point to the sounds that are safe all day and the sounds that need a time limit.  
@@ -423,12 +423,13 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
   - Note: Steady humming sounds, such as a fridge or a fan, are usually harder to place than short sounds, such as a clink. Sounds behind and above are also harder.
   - Check: Which kind of sound is usually hardest to find the place of with your eyes shut? → **A steady hum, such as a fridge**
 - **s4 (2 min)**  
-  *Parent does:* Look at the map together. Count how many sounds were behind and how many in front. Ask the question below, and let your child answer before you say anything.  
-  *Parent says:* Look at the map. Which sounds were behind you? Which in front? Did you get more of the front ones right? Why do you think that might be?  
-  *Child mode:* Count the sounds in front. Count the sounds behind. Which were easier?
-  - Note: Most children find sounds on the left and right easiest, and front and behind harder. In the Sound Clock experiment, you will find out why.
-  - Think: Why might sounds from the front be easier to find than sounds from behind?
+  *Parent does:* Look at the map together. Count how many sounds were at your sides, and how many were in front of you or behind you. Ask the question below, and let your child answer before you say anything.  
+  *Parent says:* Look at the map. Which sounds were at your sides? Which were in front or behind? Which were easier to point to?  
+  *Child mode:* Count the sounds at your sides. Count the sounds in front and behind. Which were easier?
+  - Note: Most children find sounds at the sides easiest. A sound at your side reaches one ear first and a little louder. A sound in front or behind reaches both ears together and equally loudly. So there is little difference for the brain to use. You will test this in the Sound Clock experiment.
+  - Think: Why might sounds at your sides be easier to find than sounds in front or behind?
 ### a2 · The Paper Snail: build a model of the cochlea (25 min)
+- **problem:** The inner ear sorts high and low notes. It uses a strip called the basilar membrane. A wave runs along the strip and peaks at one place. The place depends on the pitch. In this activity a paper strip stands for the membrane. One end is narrow. The other end is wide, like the real one. Pitch is measured in hertz. One hertz is one shake of the wave each second. You mark where each pitch peaks. Then you curl the strip into a snail, like the real cochlea.
 - **safety:** A grown-up helps younger children with the scissors. Cut away from your fingers and put the scissors down when you finish.
 - **record:** The strip with six marked pitches and the curled snail. Write under it: 'High pitches peak near the ... end. Low pitches peak near the ... end.'
 - **s1 (7 min)**  
@@ -472,7 +473,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
   *Parent does:* Hold the balloon against your cheek and hum a low note, then a high note. Feel which one buzzes more. Then put your fingers on your throat and do the same. Ask your child what they notice.  
   *Parent says:* Press the balloon to your cheek and hum a low note. Then hum a high note. Which buzzes more? Now touch your throat and hum again. What do you feel?  
   *Child mode:* Hum a low note against the balloon. Then a high note. Which buzzes more?
-  - Note: A low hum buzzes a lot more on the cheek than a high hum. Glennie plays without shoes so she can feel the beats and low notes through the floor and her whole body. She says she hears with her whole body, not only with her ears.
+  - Note: A low hum buzzes a lot more on the cheek than a high hum. Glennie plays without shoes so she can feel the beats and low notes through the floor and her whole body. She says she hears with her whole body, not only with her ears. Low notes are slow, strong shakes that travel into the floor. Feet rest on the floor all the time. So a drummer who stands barefoot feels the low beats well.
   - Think: Evelyn Glennie, a percussionist who cannot hear well, plays barefoot to feel the music through the floor. Why would feet be good for feeling low sounds?
 ### a4 · Stand Like a Flamingo: your ears help you balance (12 min)
 - **safety:** Stand next to a wall or a sturdy table so that you can touch it if you start to fall. Stop if you feel dizzy. Clear the floor of toys and sharp corners. A grown-up stays within arm's reach when the child's eyes are shut.

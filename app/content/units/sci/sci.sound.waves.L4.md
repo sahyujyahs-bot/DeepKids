@@ -173,7 +173,7 @@ A pendulum, a plucked string, a spinning star and a tapping finger all start a w
 
 ## Deep and big questions
 - *deep:* A pendulum takes the same time to swing wide as to swing narrow. So who decides how often it swings, you or the pendulum? (hint: Think about what you changed in the Counting Swings test and what stayed the same.)
-- *deep:* When you tap faster, the ripples get closer together but travel at the same speed. Where did the extra waves go? (hint: Count the crests that leave each second, and think about where they are after one second.)
+- *deep:* When you tap faster, more crests leave each second, but they travel at the same speed. So where do the extra crests fit? (hint: Count the crests that leave each second, and think about where they are after one second.)
 - *deep:* Sound, ripples, radio and light all follow the same rule of speed, frequency and wavelength. Is a wave one thing that shows up in many places, or many different things that follow one rule? (hint: Think about what a ripple, a radio wave and a sound are each made of.)
 - *big:* A pulsar spins hundreds of times each second, far away, and we only know it by counting pulses. Can we really know what is out there, if all we get is a count? (hint: Think about how Jocelyn Bell decided the beat came from a star and not from Earth.)
 - *big:* Your heart, your breath and your brain each keep their own beat. Do you decide your beats, or do they decide you? (hint: Try to change your heartbeat on purpose. Then try to change your breathing.)
@@ -254,7 +254,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
   *Parent does:* Play the rest of the pile. After every four cards, ask the question below. Keep a score of right guesses.  
   *Parent says:* Read the front, choose a token, then turn it over together. Who was right? Then the new card becomes the anchor.  
   *Child mode:* Read the front. Pick a token. Turn it over. Check the back.
-  - Ask: Which card surprised you most, and why? (good: The hummingbird, because I did not know wings could beat that fast.; The Earth turning, because I forgot it is only once a day.; The mosquito, because the whine is made by wings.)
+  - Ask: Which of the wing beats on the cards are faster than a ceiling fan turning? (good: The hummingbird, the bee and the mosquito.; A crow flaps more slowly than a fan turns.; The bee and the mosquito beat their wings over 100 times each second.)
   - Note: Children often guess a living thing is faster than a machine. Let them be surprised. Do not explain in the middle of the game.
 - **s4 (3 min)**  
   *Parent does:* Lay all the cards in a line from the slowest to the fastest. Check your line using the back of each card.  
@@ -370,9 +370,10 @@ That evening Dechen counted the swings again, from the very middle of the bridge
   *Parent does:* Fill in the table together. For each row, write how many times each second. Put the rows in order from the slowest to the fastest.  
   *Parent says:* Look at your table. Which of your three things repeats most often each second, and which least often? Why do you think that is?  
   *Child mode:* Which repeats most often? Which least often? Put them in order.
-  - Note: Expect this order, slowest first: breath (about 0.3 hertz), pulse (about 1.5 hertz), steps (about 2 hertz). A pulse can be changed a little by running. Breath is the beat we can change most easily. This is the idea of frequency, and you will meet it again with pendulums and ripples.
+  - Note: Expect this order, slowest first: breath (about 0.3 hertz), pulse (about 1.5 hertz), steps (about 2 hertz). A pulse can be changed a little by running. Breath is the beat we can change most easily. This is the idea of frequency, and you will meet it again with pendulums and ripples. A pulse is the one you can hardly change on purpose.
   - Think: Which of your three beats can you change on purpose, and which can you hardly change at all?
 ### a2 · The Wave Grid: shift and colour (20 min)
+- **problem:** A wave moves along a line. In this paper activity, each row is one beat of time. Each column is a place along the line. A coloured square is a crest. A wave-maker at the left end makes new crests. Every crest slides along the line. You change how often crests are made. You also change how far they slide each beat. Then you measure the gap between crests.
 - **record:** Three coloured grids. Under each, write the beat, the speed and the gap between coloured squares in a row.
 - **s1 (4 min)**  
   *Parent does:* Draw a grid with 12 columns and 12 rows. Number the rows 1 to 12 down the side. Each row is one beat of time. The columns are places along a line.  
@@ -396,6 +397,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
   - Note: The coloured squares are now 8 apart. A faster wave with the same beat gives a longer wavelength. The gap is the speed (2 squares each beat) times the 4 beats between crests. This is the rule: wavelength is speed times the time between beats. The third grid needs 16 columns so that two crests are on the page together. With 2 to 4 children, each draws one grid and the group compares; alone with a parent, take turns colouring a row each.
   - Check: A wave moves 2 squares each beat, and the source makes a crest every 3 beats. How far apart will the crests be? → **6 squares**
 ### a3 · Rainbow from a CD: light has wavelengths too (15 min)
+- **problem:** White light is a mix of colours. A CD spreads it out into a rainbow. Each colour is light with its own wavelength. A wavelength is the distance from one crest to the next. In this activity you make the rainbow. Then you find which colour has the longest waves.
 - **safety:** Never look straight at the Sun, and never shine sunlight or a torch into anyone's eyes. Keep the shiny side of the CD pointing at the wall, not at faces. Use a CD with no cracks, because a broken edge is sharp. Use a plastic cup or a strong glass for the water, and a grown-up stays close. Do not leave a glass of water in strong sun near paper or cloth, because it can focus the sunlight into a hot spot.
 - **record:** Draw the rainbow in order. Write 'longest waves' under the red end and 'shortest waves' under the violet end.
 - **s1 (4 min) · grown-up needed**  
@@ -475,11 +477,12 @@ That evening Dechen counted the swings again, from the very middle of the bridge
   *Parent does:* Let the swing settle. Switch on the metronome at 60 beats a minute. Tap the washer on every click, even when it is not coming toward you. Tap for 20 taps. Measure how wide the swing is after 10 and after 20 taps, and compare with the swing you got by tapping at the washer's own beat.  
   *Parent says:* Now tap once every second, whatever the washer is doing. That is not its beat. Watch what the swing does. Is it as big as when you tapped at the washer's own beat?  
   *Child mode:* Tap once every second, whatever the washer does. Does the swing grow as big as it did when you tapped at its own beat?
-  - Note: The swing will swell a little and shrink again, and stay much smaller than when your child tapped at the washer's own beat. This is because the taps drift in and out of step with the washer: it swings about every 1.4 seconds and you tap every 1 second. Your numbers will vary, so compare the widest swing here with the widest swing from tapping at the washer's own beat. This is why a crowd walking out of step does not make a bridge swing, but a crowd stepping in time with it can. With 2 to 4 children, take turns tapping while the others measure.
+  - Note: The swing will swell a little and shrink again, and stay much smaller than when your child tapped at the washer's own beat. This is because the taps drift in and out of step with the washer: it swings about every 1.4 seconds and you tap every 1 second. Your numbers will vary, so compare the widest swing here with the widest swing from tapping at the washer's own beat. This is why a crowd walking out of step does not make a bridge swing, but a crowd stepping in time with it can. With 2 to 4 children, take turns tapping while the others measure. For the question about once every second: you would shorten the thread to about 25 centimetres. Then the pendulum's own beat is also one swing each second. So the taps arrive at the right moment every time.
   - Think: What would you have to do to make the pendulum swing wide at a tapping rate of once every second?
 
 ## Projects
 ### p1 · Ripple Speed Machine: work out how fast ripples travel (40 min, 2 days)
+- **problem:** You cannot easily time a ripple. But you can work out its speed. Each tap sends out one crest. The crest travels one gap before the next tap. So speed is the taps each second times the gap between crests. On day 1 you work this out at three tap rates. On day 2 you change the depth of the water.
 - **safety:** Wipe up spilt water straight away, because it makes the floor slippery.
 - **record:** Day 1: a table of taps each second, gap and speed. Day 2: a table of depth, gap and speed, and a line graph of speed against depth.
 - **schedule:** day 1: Tap at 2, 3 and 4 taps each second in 1 centimetre of water. Photograph the ripples, measure the gaps, and multiply taps by gap to get the speed. (20 min); day 2: Tap at 3 taps each second in water 0.5, 1 and 2 centimetres deep. Work out the speed each time, and draw a graph of speed against depth. (20 min)
@@ -503,7 +506,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
   *Parent does:* Make a prediction. At 3 taps each second, will the gap be longer, shorter or the same if the water is deeper? Write the guess and the reason down.  
   *Parent says:* On day 1 we changed the taps. Today we change the depth of the water, and keep the taps at 3 each second. In deeper water, will the gap between ripples be longer, shorter or the same? Why do you think so?  
   *Child mode:* Deeper water, same taps. Will the gap be longer, shorter or the same? Why?
-  - Note: In the Class 3 Tray Test, ripples went faster in deeper water. If they go faster, and the taps are the same, the gap must grow. Let your child work out this link before you say it.
+  - Note: Ripples travel faster in deeper water, as a simple tray test in an earlier class can show. If they travel faster and the taps stay the same, each crest goes further before the next tap. So the gap grows. Let your child work out this link before you say it.
   - Wait: Do this on day 2.
 - **s5 (8 min)**  
   *Parent does:* Make the water 0.5 centimetres, 1 centimetre and 2 centimetres deep in turn. Tap at 3 taps each second. Take a photo at each depth. Measure the gap. Work out the speed.  
@@ -544,7 +547,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
   *Parent does:* Test the pendulum twice in a row. Then use it to time 30 seconds of something fun, such as a dance or a tongue-twister. Ask your child how they know it is accurate.  
   *Parent says:* Test your pendulum twice. When it passes, use it to time 30 seconds of something fun. How do you know your timer is right?  
   *Child mode:* Pass the test twice. Then time 30 seconds of something fun.
-  - Note: Pendulum clocks were the best timekeepers for about 300 years after Christiaan Huygens built the first one in the 1650s. A clock that runs too fast is fixed by lengthening its pendulum, and one that runs too slow is fixed by shortening it.
+  - Note: Pendulum clocks were the best timekeepers for about 300 years after Christiaan Huygens built the first one in the 1650s. A clock that runs too fast is fixed by lengthening its pendulum, and one that runs too slow is fixed by shortening it. A longer pendulum swings more slowly, so the clock counts fewer swings and runs slow. A shorter pendulum swings faster, so the clock counts more swings and runs fast.
   - Think: A pendulum clock keeps time with its swinging pendulum. Why would a longer or shorter pendulum make the clock run wrong?
 
 ## Worksheets
@@ -763,7 +766,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
 
 ## Connected maths
 - In Counting Swings, a 50 centimetre pendulum took 14 seconds for 10 swings. How long did one swing take, in seconds? **1.4 seconds.**. 14 seconds shared among 10 swings is 14 divided by 10, which is 1.4 seconds for each swing. We time 10 swings and divide, because a late press of the stopwatch then matters much less. (queues `math.fractions.decimals-and-percentages.L4`)
-- You count 22 pulse beats in 15 seconds. How many beats would you count in a whole minute? Is this a count of beats each minute or each second? **88 beats in a minute, which is a count of beats each minute.**. A minute has four lots of 15 seconds. 22 times 4 is 88. We can say it is 88 beats each minute. To get beats each second, we would divide 88 by 60, which is a little under one and a half. (queues `math.multiplication.multiplication-facts.L4`)
+- You count 22 pulse beats in 15 seconds. How many beats would you count in a whole minute? About how many beats is that each second? **88 beats in a minute. That is about 1.5 beats each second.**. A minute has four lots of 15 seconds. 22 times 4 is 88. To get beats each second, divide 88 by 60. That is a little under one and a half. (queues `math.multiplication.multiplication-facts.L4`)
 - In a tray, ripples are made 4 times each second, and the gap between them is 7 centimetres. How fast are the ripples travelling? **28 centimetres each second.**. Each second, 4 ripples are made, each 7 centimetres behind the one in front. The front ripple travels 4 times 7, which is 28 centimetres in one second. (queues `math.multiplication.multiplication-facts.L4`)
 - Sound in air travels about 340 metres each second. A bass drum makes a sound of 85 hertz. How long is one wave of the sound? **4 metres.**. The wavelength is the speed divided by the frequency. 340 divided by 85 is 4. So each wave of the drum is 4 metres long. That is longer than a car. (queues `math.division.division-facts.L4`)
 - At 2 taps each second the ripples are 14 centimetres apart. Without testing, what gap would you expect at 4 taps each second, and why? **About 7 centimetres.**. Doubling the taps doubles the ripples made each second, and the speed stays the same. So the same stretch holds twice as many, and each gap is half as big. Half of 14 is 7. (queues `math.fractions.ratio-and-proportion.L4`)

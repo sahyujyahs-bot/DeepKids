@@ -383,7 +383,7 @@
    "hint": "Think about what you changed in the Counting Swings test and what stayed the same."
   },
   {
-   "q": "When you tap faster, the ripples get closer together but travel at the same speed. Where did the extra waves go?",
+   "q": "When you tap faster, more crests leave each second, but they travel at the same speed. So where do the extra crests fit?",
    "kind": "deep",
    "hint": "Count the crests that leave each second, and think about where they are after one second."
   },
@@ -710,11 +710,11 @@
      "kid": "Read the front. Pick a token. Turn it over. Check the back.",
      "ask": [
       {
-       "q": "Which card surprised you most, and why?",
+       "q": "Which of the wing beats on the cards are faster than a ceiling fan turning?",
        "good": [
-        "The hummingbird, because I did not know wings could beat that fast.",
-        "The Earth turning, because I forgot it is only once a day.",
-        "The mosquito, because the whine is made by wings."
+        "The hummingbird, the bee and the mosquito.",
+        "A crow flaps more slowly than a fan turns.",
+        "The bee and the mosquito beat their wings over 100 times each second."
        ]
       }
      ],
@@ -1285,7 +1285,7 @@
      "say": "Look at your table. Which of your three things repeats most often each second, and which least often? Why do you think that is?",
      "kid": "Which repeats most often? Which least often? Put them in order.",
      "think": "Which of your three beats can you change on purpose, and which can you hardly change at all?",
-     "parent": "Expect this order, slowest first: breath (about 0.3 hertz), pulse (about 1.5 hertz), steps (about 2 hertz). A pulse can be changed a little by running. Breath is the beat we can change most easily. This is the idea of frequency, and you will meet it again with pendulums and ripples."
+     "parent": "Expect this order, slowest first: breath (about 0.3 hertz), pulse (about 1.5 hertz), steps (about 2 hertz). A pulse can be changed a little by running. Breath is the beat we can change most easily. This is the idea of frequency, and you will meet it again with pendulums and ripples. A pulse is the one you can hardly change on purpose."
     }
    ],
    "setup": [
@@ -1306,6 +1306,7 @@
   {
    "id": "a2",
    "title": "The Wave Grid: shift and colour",
+   "problem": "A wave moves along a line. In this paper activity, each row is one beat of time. Each column is a place along the line. A coloured square is a crest. A wave-maker at the left end makes new crests. Every crest slides along the line. You change how often crests are made. You also change how far they slide each beat. Then you measure the gap between crests.",
    "mins": 20,
    "days": 1,
    "context": "In this paper activity you colour a grid to show a wave moving along a line. You find out how the beat and the speed decide the wavelength.",
@@ -1412,6 +1413,7 @@
   {
    "id": "a3",
    "title": "Rainbow from a CD: light has wavelengths too",
+   "problem": "White light is a mix of colours. A CD spreads it out into a rainbow. Each colour is light with its own wavelength. A wavelength is the distance from one crest to the next. In this activity you make the rainbow. Then you find which colour has the longest waves.",
    "mins": 15,
    "days": 1,
    "context": "In this activity you spread white light into a rainbow, and see that different colours are different wavelengths.",
@@ -1785,7 +1787,7 @@
      "do": "Let the swing settle. Switch on the metronome at 60 beats a minute. Tap the washer on every click, even when it is not coming toward you. Tap for 20 taps. Measure how wide the swing is after 10 and after 20 taps, and compare with the swing you got by tapping at the washer's own beat.",
      "say": "Now tap once every second, whatever the washer is doing. That is not its beat. Watch what the swing does. Is it as big as when you tapped at the washer's own beat?",
      "kid": "Tap once every second, whatever the washer does. Does the swing grow as big as it did when you tapped at its own beat?",
-     "parent": "The swing will swell a little and shrink again, and stay much smaller than when your child tapped at the washer's own beat. This is because the taps drift in and out of step with the washer: it swings about every 1.4 seconds and you tap every 1 second. Your numbers will vary, so compare the widest swing here with the widest swing from tapping at the washer's own beat. This is why a crowd walking out of step does not make a bridge swing, but a crowd stepping in time with it can. With 2 to 4 children, take turns tapping while the others measure.",
+     "parent": "The swing will swell a little and shrink again, and stay much smaller than when your child tapped at the washer's own beat. This is because the taps drift in and out of step with the washer: it swings about every 1.4 seconds and you tap every 1 second. Your numbers will vary, so compare the widest swing here with the widest swing from tapping at the washer's own beat. This is why a crowd walking out of step does not make a bridge swing, but a crowd stepping in time with it can. With 2 to 4 children, take turns tapping while the others measure. For the question about once every second: you would shorten the thread to about 25 centimetres. Then the pendulum's own beat is also one swing each second. So the taps arrive at the right moment every time.",
      "think": "What would you have to do to make the pendulum swing wide at a tapping rate of once every second?"
     }
    ],
@@ -1809,6 +1811,7 @@
   {
    "id": "p1",
    "title": "Ripple Speed Machine: work out how fast ripples travel",
+   "problem": "You cannot easily time a ripple. But you can work out its speed. Each tap sends out one crest. The crest travels one gap before the next tap. So speed is the taps each second times the gap between crests. On day 1 you work this out at three tap rates. On day 2 you change the depth of the water.",
    "days": 2,
    "mins": 40,
    "context": "In this 2-day project you use your tapping rate and the gap between ripples to work out how fast ripples travel, and then find out what depth does to the speed.",
@@ -1895,7 +1898,7 @@
      "do": "Make a prediction. At 3 taps each second, will the gap be longer, shorter or the same if the water is deeper? Write the guess and the reason down.",
      "say": "On day 1 we changed the taps. Today we change the depth of the water, and keep the taps at 3 each second. In deeper water, will the gap between ripples be longer, shorter or the same? Why do you think so?",
      "kid": "Deeper water, same taps. Will the gap be longer, shorter or the same? Why?",
-     "parent": "In the Class 3 Tray Test, ripples went faster in deeper water. If they go faster, and the taps are the same, the gap must grow. Let your child work out this link before you say it.",
+     "parent": "Ripples travel faster in deeper water, as a simple tray test in an earlier class can show. If they travel faster and the taps stay the same, each crest goes further before the next tap. So the gap grows. Let your child work out this link before you say it.",
      "context": "On day 2, you guess what depth will do to the gap, before you test."
     },
     {
@@ -1922,7 +1925,7 @@
        "Ripples travel at the same speed in all depths"
       ],
       "a": 0,
-      "why": "The line goes up as the water gets deeper, so the speed grows. This matches what you found in the Class 3 Tray Test. If you chose slower, check which axis is speed and which is depth."
+      "why": "The line goes up as the water gets deeper, so the speed grows. This matches the gaps you measured at the three depths. If you chose slower, check which axis is speed and which is depth."
      },
      "context": "On day 2, you draw a line graph of speed against depth."
     }
@@ -2047,7 +2050,7 @@
      "say": "Test your pendulum twice. When it passes, use it to time 30 seconds of something fun. How do you know your timer is right?",
      "kid": "Pass the test twice. Then time 30 seconds of something fun.",
      "think": "A pendulum clock keeps time with its swinging pendulum. Why would a longer or shorter pendulum make the clock run wrong?",
-     "parent": "Pendulum clocks were the best timekeepers for about 300 years after Christiaan Huygens built the first one in the 1650s. A clock that runs too fast is fixed by lengthening its pendulum, and one that runs too slow is fixed by shortening it."
+     "parent": "Pendulum clocks were the best timekeepers for about 300 years after Christiaan Huygens built the first one in the 1650s. A clock that runs too fast is fixed by lengthening its pendulum, and one that runs too slow is fixed by shortening it. A longer pendulum swings more slowly, so the clock counts fewer swings and runs slow. A shorter pendulum swings faster, so the clock counts more swings and runs fast."
     }
    ]
   }
@@ -3046,9 +3049,9 @@
    "why_maths": "Timing many swings and dividing gives a more accurate answer than timing one swing, because a late press of the stopwatch matters less."
   },
   {
-   "problem": "You count 22 pulse beats in 15 seconds. How many beats would you count in a whole minute? Is this a count of beats each minute or each second?",
-   "answer": "88 beats in a minute, which is a count of beats each minute.",
-   "explain": "A minute has four lots of 15 seconds. 22 times 4 is 88. We can say it is 88 beats each minute. To get beats each second, we would divide 88 by 60, which is a little under one and a half.",
+   "problem": "You count 22 pulse beats in 15 seconds. How many beats would you count in a whole minute? About how many beats is that each second?",
+   "answer": "88 beats in a minute. That is about 1.5 beats each second.",
+   "explain": "A minute has four lots of 15 seconds. 22 times 4 is 88. To get beats each second, divide 88 by 60. That is a little under one and a half.",
    "math_unit": "math.multiplication.multiplication-facts.L4",
    "how": "a1",
    "context": "In Hertz Hunt, you count your pulse for 15 seconds and turn it into beats each minute.",

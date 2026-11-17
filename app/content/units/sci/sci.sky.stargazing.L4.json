@@ -165,11 +165,11 @@
   {
    "concept": "Stars that never set, and stars you never see",
    "status": "defined",
-   "definition": "A star is circumpolar if its circle round the Pole Star stays above your horizon. If your latitude is 29 degrees, every star within 29 degrees of the Pole Star is circumpolar for you. Stars that are as close as that to the south pole of the sky never rise for you.",
+   "definition": "A star is circumpolar if its circle round the Pole Star stays above your horizon. If your latitude is 29 degrees, every star within 29 degrees of the Pole Star is circumpolar for you. In the same way, stars within 29 degrees of the south pole of the sky never rise for you.",
    "description": "The Pole Star stands at your latitude in degrees above the horizon. A star that circles the Pole Star at a distance smaller than that never dips below the horizon. In Delhi at 29 degrees, stars within 29 degrees of the Pole Star never set. In Chennai at 13 degrees, only stars within 13 degrees never set. On the equator, nothing is circumpolar, and every star rises and sets. The same rule works in the south. In Chennai, stars within 13 degrees of the south pole never rise. So the stars you can see depend on where you live. From the southern tip of India, the Southern Cross can be seen low in the south on spring evenings, but it can never be seen from Kashmir.",
    "examples": [
     "From Kashmir, at about 34 degrees north, Kratu, the star at the corner of the Saptarishi's bowl, never sets.",
-    "From Chennai, the Saptarishi rides high on spring evenings and sinks to the northern horizon, or below it, on autumn evenings.",
+    "From Chennai, the Saptarishi is high in the sky on spring evenings. On autumn evenings it sinks to the northern horizon, or below it.",
     "A traveller going from Delhi to Kanyakumari sees new stars appear low in the south that were never visible at home."
    ],
    "perspectives": [],
@@ -198,7 +198,7 @@
    "examples": [
     "Proxima Centauri, the nearest star after the Sun, is about 4.2 light-years away, and its parallax is about 0.77 arc-seconds, a tiny fraction of a degree.",
     "A surveyor measuring the width of a river without crossing it uses the same method, with a baseline along the bank.",
-    "For more distant stars, astronomers use other methods. One method uses Cepheid stars, which pulse. Henrietta Leavitt found that their pulsing can be used to measure distance."
+    "For more distant stars, astronomers use other methods. Cepheid stars pulse, which means they get brighter and fainter again and again. Henrietta Leavitt found that a Cepheid that pulses more slowly is truly brighter. That lets astronomers work out how far away a Cepheid is."
    ],
    "perspectives": [],
    "art": "A thumb in front of a face seen from two eyes, beside the Sun with the Earth at opposite points of its orbit seeing a star shift against faraway stars.",
@@ -212,7 +212,7 @@
    "examples": [
     "Alpha Centauri, the nearest bright star, is about 4.4 light-years away and is only a little more powerful than the Sun, yet it looks very bright because it is so close.",
     "If the Sun were as far away as Canopus, it would be far too faint to see without a telescope.",
-    "On the magnitude scale, a star that is 5 steps brighter is 100 times as bright."
+    "Astronomers count brightness in steps called magnitudes. A star that is 5 steps brighter than another gives 100 times as much light. So one step makes a star about two and a half times as bright."
    ],
    "perspectives": [],
    "art": "A near small lamp and a far huge lamp that look equally bright, with a ruler beside them, and a second picture where the far one is shown to be much bigger.",
@@ -574,7 +574,7 @@
       },
       {
        "f": "CLOCK. At 9 pm the pointer stars point to 12 o'clock. Where will they point at 9 pm tomorrow?",
-       "b": "Back at 12 o'clock, or one degree past it. The sky makes one full turn in a day."
+       "b": "Back at 12 o'clock, or just a little past it. The sky makes one full turn in a day. It turns about one degree more than a full circle, so the arrow ends very slightly past the 12."
       },
       {
        "f": "How many degrees does the sky turn in 1 hour? How many hours does it take to turn a quarter of a circle?",
@@ -713,9 +713,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Add up the points. Ask which question was the hardest, and which idea they would like to try for real.",
-     "say": "Which question was hardest? Which idea would you like to test on a real night, with real stars?",
-     "kid": "Add up your points. Which question was hardest? What would you like to try outside?",
+     "do": "Add up the points. Then ask which of the ideas in the game could be checked with real stars on a clear night.",
+     "say": "Add up your points. Now think about the ideas in this game. Which one could you check with real stars, on a clear night?",
+     "kid": "Add up your points. Which idea could you check with real stars?",
      "ask": [
       {
        "q": "Which of the ideas in the game could you check with real stars?",
@@ -1033,7 +1033,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Draw the roof edge and the star in your notebook, with the first measurement. Then go inside or sit down for 30 minutes.",
-     "say": "Draw what you see. Where do you think the star will be in half an hour? Draw a small cross there.",
+     "say": "Draw what you see. Where will the star be in half an hour? Draw a small cross there. We will check your cross after the next measurement.",
      "kid": "Draw the star and the roof edge. Draw where you think the star will be soon.",
      "wait": "Leave it for 30 minutes before the second measurement."
     },
@@ -1265,6 +1265,7 @@
   {
    "id": "a1",
    "title": "The Year in a Room: a lamp, a ring of star cards and a walk round the Sun",
+   "problem": "Different stars are high in the sky at midnight in different months. This activity shows why. The lamp is the Sun, and you are the Earth. The cards on the walls are groups of stars far away. At night you face away from the Sun. So the card ahead of you is your midnight sky. Walk round the lamp, and a new card comes ahead of you.",
    "mins": 30,
    "days": 1,
    "materials": [
@@ -1402,6 +1403,7 @@
   {
    "id": "a2",
    "title": "Ball, Straw and Far Star: why the Pole Star stands higher as you go north",
+   "problem": "The Pole Star is very far away. Its light comes from the same direction to every place on Earth. In this activity the ball is the Earth. A sticker on the wall is the Pole Star. At each place on the ball, a straw points at the sticker. A flat card is the ground there. You measure the angle between the straw and the card. That angle is how high the Pole Star stands at that place.",
    "mins": 30,
    "days": 1,
    "materials": [
@@ -1528,6 +1530,7 @@
   {
    "id": "a3",
    "title": "Twinkle and Colour: why stars flicker and what their colours show",
+   "problem": "Stars twinkle because moving air bends their light. Warm air rises above a hot tawa. In this activity, that warm air stands for the Earth's moving air. A tiny hole in front of a torch stands for a star. A star is one point of light. A wider hole stands for a planet. A planet is a tiny disc. Look at both through the warm air. Which one flickers more? Then compare the colours of flames and of stars.",
    "mins": 25,
    "days": 1,
    "materials": [
