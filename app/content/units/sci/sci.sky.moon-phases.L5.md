@@ -39,7 +39,7 @@
 ### Moonlight is reflected sunlight · *defined*
 **Definition:** The Moon makes no light of its own. The Sun lights it, and some of that sunlight bounces off the Moon to our eyes.
 
-Sunlight takes about 8 minutes and 20 seconds to reach the Moon. The Moon's ground sends back about 12 parts in every 100 of that light. The reflected light reaches the Earth about 1.3 seconds later. Very little of the Sun's light takes this path. So the full Moon is about 400,000 times dimmer than the Sun. That is why you can look at the Moon for as long as you like, and must never look at the Sun. The Earth reflects sunlight too. Seen from the Moon, the Earth shines about 40 times as brightly as the full Moon shines for us.
+Sunlight takes about 8 minutes and 20 seconds to reach the Moon. The Moon's ground sends back about 12 parts in every 100 of that light. The reflected light reaches the Earth about 1.3 seconds later. Very little of the Sun's light takes this path. So the full Moon is about 400,000 times dimmer than the Sun. That is why you can look at the Moon for as long as you like, and must never look at the Sun. The Earth reflects sunlight too. Seen from the Moon, the full Earth shines more than 40 times as brightly as the full Moon shines for us.
 - e.g. The Sun, a lamp and a firefly make their own light.
 - e.g. The Moon, the planets and a white wall only reflect light.
 - e.g. Moonlight is sunlight that left the Sun about eight and a half minutes earlier.
@@ -74,14 +74,14 @@ In The Shadow That Runs Out, you lifted a seed above paper under a lamp. The dar
 ### A solar eclipse is the tip of the Moon's shadow · *defined*
 **Definition:** In a total solar eclipse, the tip of the Moon's umbra touches the Earth. Only people inside that small dark spot see the Sun fully covered.
 
-The Moon's dark shadow is about 375,000 kilometres long. The ground below the Moon is about that far away. So only the narrow tip of the cone reaches the Earth. The dark spot on the ground is never more than about 270 kilometres wide. It moves across the Earth faster than 1,700 kilometres an hour, along a strip called the path of totality. At any one place, totality lasts a few minutes, and never longer than about seven and a half. Round the dark spot lies the penumbra, thousands of kilometres wide. People there see a partial eclipse, with a bite taken out of the Sun. Everyone else sees no eclipse.
+The Moon's dark shadow is about 375,000 kilometres long. The ground below the Moon is about that far away. So only the narrow tip of the cone reaches the Earth. The dark spot on the ground is never more than about 270 kilometres wide. It moves across the Earth at more than 1,000 kilometres an hour, along a strip called the path of totality. At any one place, totality lasts a few minutes, and never longer than about seven and a half. Round the dark spot lies the penumbra, thousands of kilometres wide. People there see a partial eclipse, with a bite taken out of the Sun. Everyone else sees no eclipse.
 - e.g. Inside the umbra: a total eclipse, with the sky dark and the corona showing.
 - e.g. Inside the penumbra: a partial eclipse, with part of the Sun still bright.
 - e.g. Any one town sees a total solar eclipse about once in 375 years, on average.
 ### Total or ring: the Moon's distance changes · *defined*
 **Definition:** The Moon's path round the Earth is a slightly stretched circle. When the Moon is near, its dark shadow reaches the ground and the eclipse is total. When it is far, the shadow ends above the ground and a ring of Sun is left.
 
-In The Coin Eclipse, a coin near your eye hid the whole plate. When you moved the coin a little further away, a ring of plate showed round it. The Moon does the same. Its centre is about 357,000 kilometres from the Earth's centre at its nearest, and about 407,000 at its furthest. The Sun is about 400 times as wide as the Moon, and about 390 times as far away. So the two look almost exactly the same size in our sky. A near Moon looks a little bigger than the Sun, and covers it. A far Moon looks a little smaller. Then people on the centre line see an annular eclipse, a ring of Sun round a black Moon. The sky stays bright and the corona stays hidden.
+In The Coin Eclipse, a coin near your eye hid the whole plate. When you moved the coin a little further away, a ring of plate showed round it. The Moon does the same. Its centre is on average about 363,000 kilometres from the Earth's centre at its nearest, and about 405,000 at its furthest. The Sun is about 400 times as wide as the Moon, and about 390 times as far away. So the two look almost exactly the same size in our sky. A near Moon looks a little bigger than the Sun, and covers it. A far Moon looks a little smaller. Then people on the centre line see an annular eclipse, a ring of Sun round a black Moon. The sky stays bright and the corona stays hidden.
 - e.g. Total: 22 July 2009, seen from Surat, Varanasi and Patna.
 - e.g. Annular: 26 December 2019, seen from Kannur, Ooty and Coimbatore.
 - e.g. Annular: 15 January 2010, seen from Kanyakumari and Rameswaram.
@@ -109,7 +109,7 @@ The two paths cross at two points, called nodes. Indian astronomers named them R
 ### Eclipses repeat: the saros · *defined*
 **Definition:** After 18 years and about 11 days, the Sun, the Moon and the node come back to almost the same places. So each eclipse is followed by a very similar one after that time. This cycle is called the saros.
 
-Sky-watchers in Babylon, in today's Iraq, found this pattern about 2,500 years ago from long lists of eclipses written on clay tablets. They could say when to expect an eclipse without knowing what caused it. The total solar eclipse of 29 March 2006 was followed by a similar one on 8 April 2024. The next in that family comes on 20 April 2042. The extra third of a day in the cycle lets the Earth turn a third of the way round. So each eclipse in the family falls about a third of the way round the world from the last. Today astronomers work out the Moon's path so exactly that eclipses are known to the second, hundreds of years ahead.
+Sky-watchers in Babylon, in today's Iraq, found this pattern more than 2,000 years ago from long lists of eclipses written on clay tablets. They could say when to expect an eclipse without knowing what caused it. The total solar eclipse of 29 March 2006 was followed by a similar one on 8 April 2024. The next in that family comes on 20 April 2042. The extra third of a day in the cycle lets the Earth turn a third of the way round. So each eclipse in the family falls about a third of the way round the world from the last. Today astronomers work out the Moon's path so exactly that eclipses are known to the second, hundreds of years ahead.
 - e.g. One saros is 223 Moon months, which is 18 years and about 11 days.
 - e.g. 29 March 2006, 8 April 2024 and 20 April 2042 are three total solar eclipses in one family.
 - e.g. India's Aryabhata gave rules in 499 CE for working out the time and size of an eclipse.
@@ -124,8 +124,8 @@ About 2,400 years ago the Greek thinker Aristotle pointed out that the Earth's s
 **Definition:** The corona is the Sun's outer layer of thin gas. It is hotter than a million degrees Celsius, far hotter than the Sun's bright surface below it, which is about 5,500 degrees.
 
 The corona is about a million times fainter than the Sun's face. So it shows only when the Moon covers that face exactly. In the last seconds before totality, sunlight shines through valleys on the Moon's edge as a row of bright dots. They are called Baily's beads. Then the sky darkens, bright stars and planets appear, and the corona spreads out round the black Moon. Until the 1930s, total eclipses were the only way to study the corona. Now spacecraft block the Sun with a disc of their own. India's Aditya-L1 carries such an instrument. Nobody yet knows for certain why the corona is so hot.
-- e.g. On 29 July 1878 the American astronomer Maria Mitchell led a team of six women to Denver to study the corona.
-- e.g. On 22 January 1898 Annie Maunder photographed the corona from Talni in Maharashtra. Her picture showed a streamer reaching several Sun-widths into space.
+- e.g. On 29 July 1878 the American astronomer Maria Mitchell took five of her students from Vassar College to Denver to watch the eclipse.
+- e.g. On 22 January 1898 Annie Maunder photographed the corona from Talni in Maharashtra. Her picture showed one of the longest streamers of light seen up to that time.
 - e.g. Helium was first found in light from the Sun's edge, in the eclipse of 18 August 1868, seen from Guntur.
 - **Scientists who study waves in the Sun's gas:** The Sun's magnetic field shakes like a plucked string. These waves carry energy up from the surface and give it to the corona as heat.
 - **Scientists who study small flares:** Millions of tiny explosions, called nanoflares, go off all the time where magnetic lines snap and join again. Together they keep the corona hot. Eugene Parker suggested this in 1988.
@@ -178,7 +178,7 @@ We have learned how the Moon's phases and eclipses work, and that a dark shadow 
 
 The Sun, the Moon and the Earth are three separate bodies. An eclipse happens only when all three stand in one line, and then one shadow joins them. The red light on the eclipsed Moon has passed through the Earth's air, at every place where the Sun is rising or setting. So the Moon, the Earth's air and the Sun all take part in one event. What we call an eclipse of the Moon is also a sunrise for millions of living beings.
 
-- **Aryabhata, Aryabhatiya (499 CE), Golapada, verse 37:** The Moon covers the Sun, and the great shadow of the Earth covers the Moon. (Aryabhata treated the Earth's shadow as a real thing with a size, reaching out into space. From its size he worked out how long an eclipse would last.)
+- **Aryabhata, Aryabhatiya (499 CE), Golapada, the verses on eclipses:** The Moon covers the Sun, and the great shadow of the Earth covers the Moon. (Aryabhata treated the Earth's shadow as a real thing with a size, reaching out into space. From its size he worked out how long an eclipse would last.)
 - **Zhuangzi, chapter 2, 'On Making Things Equal':** Penumbra asks Shadow why it keeps moving and stopping, and has no will of its own. Shadow answers that it depends on something else, and that thing may depend on something else again. (In The Shadow That Runs Out, the dark shadow depended on the seed, the lamp and the distance between them. Change any one, and the shadow changed.)
 - **Plato, Republic, Book 7, 514a to 517a:** Prisoners in a cave see only shadows on a wall, and take the flat shadows for the real things. (We usually take the flat patch on the floor for the whole shadow. The test showed a cone in the air, and the patch is one slice of it.)
 - Science (settled): Eclipses are worked out from the sizes, distances and paths of the Sun, the Earth and the Moon. The predictions are right to within a second, hundreds of years ahead.
@@ -198,7 +198,7 @@ The Sun, the Moon and the Earth are three separate bodies. An eclipse happens on
 - *big:* Aristarchus used the right method and got the wrong answer. Was his work a success or a failure? (hint: Think of Aristarchus's Angle. His method still works. Only the measuring was beyond the human eye.)
 
 ## Story: The Morning That Did Not Go Dark
-*A made-up story. Yazhini, Kathir, Aaya and Shanthi Miss are imagined, and so is everything they say and do. The annular eclipse of 26 December 2019 is real. In Coimbatore the ring lasted about three minutes, a little before half past nine in the morning. That week the Moon was on the far part of its path, and the Earth was close to its nearest point to the Sun. So the Moon looked a little smaller than the Sun. Gaps between leaves really do throw ring-shaped pictures of the Sun on the ground during such an eclipse. Aaya is a word for grandmother in the Kongu region of Tamil Nadu. Many families used to stay indoors during an eclipse. An eclipse harms nobody who does not look at the Sun.*
+*A made-up story. Yazhini, Kathir, Aaya and Shanthi Miss are imagined, and so is everything they say and do. The annular eclipse of 26 December 2019 is real. In Coimbatore the ring lasted about three minutes, a little before half past nine in the morning. That week the Earth was close to its nearest point to the Sun, and the Moon was not at its nearest to the Earth. So the Moon looked a little smaller than the Sun. Gaps between leaves really do throw ring-shaped pictures of the Sun on the ground during such an eclipse. Aaya is a word for grandmother used in parts of Tamil Nadu. Many families used to stay indoors during an eclipse. An eclipse harms nobody who does not look at the Sun.*
 
 On Christmas night in 2019, all of Coimbatore seemed to be talking about the Sun. The next morning, a little before half past nine, the Moon would pass in front of it.
 
@@ -590,7 +590,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
   *Parent says:* Did the smallest disc that worked match your sum? In space, engineers have done this with a disc 1.4 metres wide. How long is its dark shadow in sunlight?  
   *Child mode:* Did your sum match the test? A disc in space is 1.4 metres wide. Multiply by 108. How long is its dark shadow?
   - Ask: How long is the dark shadow of a disc 1.4 metres wide in sunlight? (good: 1.4 times 108 is about 151 metres.)
-  - Note: Proba-3 is a pair of European spacecraft, launched from Sriharikota on an Indian PSLV rocket in December 2024. One carries a disc 1.4 metres wide. The other flies about 150 metres behind it, just inside the tip of the dark shadow, and photographs the corona. India's Aditya-L1 does the same job with a small disc inside its own telescope.
+  - Note: Proba-3 is a pair of European spacecraft, launched from Sriharikota on an Indian PSLV rocket in December 2024. One carries a disc about 1.4 metres wide. The other flies about 150 metres behind it, just inside the tip of the dark shadow, and photographs the corona. India's Aditya-L1 does the same job with a small disc inside its own telescope.
   - Check: A disc must keep a telescope in full shadow from further away. What must change? → **The disc must be wider**
 ### c2 · A True-Scale Eclipse on a Stick (needs a sunny window, balcony or terrace) (30 min)
 - **problem:** Build a model of the Earth and the Moon to one scale. Use real sunlight to make a solar eclipse and a lunar eclipse with the model. Find out which is easier to make, and how carefully the stick must be aimed.
@@ -675,7 +675,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 9. (order) Put these in order, from the narrowest to the widest.  
    **Answer:** ["The Moon's dark spot on the Earth", 'The Moon', "The Earth's dark shadow at the Moon", 'The Earth']. *Why:* The dark spot is at most about 270 km wide. The Moon is 3,474 km. The Earth's dark shadow at the Moon is about 9,200 km. The Earth is 12,742 km.
 10. (truefalse) A far Moon looks smaller in the sky than a near Moon.  
-   **Answer:** True. *Why:* True. The Moon's distance changes from about 357,000 to about 407,000 km. A thing that is further away looks smaller.
+   **Answer:** True. *Why:* True. The Moon's distance changes from about 363,000 to about 405,000 km. A thing that is further away looks smaller.
 11. (mcq) A plate is 8 times as wide as a coin. Where must the coin be to just hide the plate?  
    Options: 8 times nearer the eye than the plate / Halfway to the plate / Touching the plate / 8 times further than the plate  
    **Answer:** 8 times nearer the eye than the plate. *Why:* Two things look the same size when their widths and their distances are in the same ratio. The coin is one-eighth as wide, so it must be one-eighth as far.
@@ -724,9 +724,9 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
    **Answer:** Eclipse glasses marked ISO 12312-2 → Safe; Sunglasses → Not safe; Patches of light under a leafy tree → Safe; X-ray film → Not safe; Binoculars with no filter → Not safe; A pinhole picture on paper → Safe. *Why:* The safe ways either use a tested filter or do not look at the Sun at all. Sunglasses and X-ray film let through light that can burn the eye without any pain.
 
 ## Videos
-- **Lunar Eclipse 101** (National Geographic, 3 min) id `to find`: To see how the Moon moves through the Earth's shadow, and why it turns red. It goes well with the explanation of the red Moon. *Check:* The id has not been confirmed, so it is left blank. A parent should search for the title and channel, and preview it before showing it.
-- **Solar Eclipse 101** (National Geographic, 4 min) id `to find`: To see the umbra and the penumbra of the Moon's shadow, and the difference between total, partial and annular eclipses. *Check:* The id has not been confirmed, so it is left blank. A parent should search for the title and channel, and check that it says never to look at the Sun.
-- **Eclipses: Crash Course Astronomy #5** (CrashCourse, 10 min) id `to find`: For an older child and a parent together. It explains the tilt of the Moon's path, the nodes and why eclipses are rare. The speaker talks fast, so pause often. *Check:* The id has not been confirmed, so it is left blank. A parent should search for the title and channel, and preview it first.
+- **Lunar Eclipse 101 | National Geographic** (National Geographic, 3 min) id `VW2xRR75lKE`: To see how the Moon moves through the Earth's shadow, and why it turns red. It goes well with the explanation of the red Moon. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Solar Eclipse 101 | National Geographic** (National Geographic, 4 min) id `cxrLRbkOwKs`: To see the umbra and the penumbra of the Moon's shadow, and the difference between total, partial and annular eclipses. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Eclipses: Crash Course Astronomy #5** (CrashCourse, 10 min) id `PRgua7xceDA`: For an older child and a parent together. It explains the tilt of the Moon's path, the nodes and why eclipses are rare. The speaker talks fast, so pause often. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) On which night is no Moon seen at all?  
@@ -831,8 +831,7 @@ Star, Planet, Moon (sci.sky.L5): Topic-level song
 - [Stellarium Web](https://stellarium-web.org) · simulation: A free sky program that runs in a browser. Set any date and place to see where the Moon and the Sun are. It helps with The Angle Diary on cloudy evenings.
 - [NASA Scientific Visualization Studio](https://svs.gsfc.nasa.gov/) · interactive: Search it for Moon phase to see the Moon's phase for every hour of the year. Search it for eclipse to see the Moon's shadow crossing the Earth.
 - [Kodaikanal Solar Observatory, Indian Institute of Astrophysics](https://www.iiap.res.in) · place · Kodaikanal: One of the oldest solar observatories in the world. It has a small museum where visitors can see how the Sun is studied.
-- [Jawaharlal Nehru Planetarium](https://www.taralaya.org) · place · Bengaluru: Sky shows, and public viewing on eclipse days with safe filters and projected pictures of the Sun.
-- [Nehru Planetarium, Nehru Centre](https://www.nehru-centre.org) · place · Mumbai: Sky shows on the Sun, the Moon and eclipses, and eclipse-day viewing for the public.
+- [Nehru Planetarium, Nehru Centre](https://www.nehrucentremumbai.in/) · place · Mumbai: Sky shows, and talks on the Sun, the Moon and eclipses.
 
 ## Things to buy
 - [A protractor, or a school geometry box](https://www.amazon.in/s?k=geometry+box) (tool): For Aristarchus's Angle, where you set angles of 80 to 89 degrees. Most children in Class 5 already have one. Used in a4. 
@@ -859,9 +858,9 @@ Star, Planet, Moon (sci.sky.L5): Topic-level song
 - Curriculum entry sci.sky.moon-phases.L5: phases of the Moon explained, the Moon's light is reflected sunlight, and eclipses. The board chapter is NIOS Level B Lesson 11, Solar System and Earth. Its points on phases, Amavasya, Purnima, the two pakshas, the month of 29 and a half days and reflected light are covered in the terms, the first two explanations, the core worksheet and the quiz.
 - Other units were checked so that nothing repeats. The ball, lamp and head model, the torch and football eclipses, the Moon diary and the Moon wheel are in sci.sky.moon-phases.L3. The dough Moon, the bindi on the window and the moonrise times are in sci.sky.moon-phases.L4. The pinhole Sun is in sci.sky.sun-moon-stars.L3. The milky water test is in sci.sky.the-sun.L4. The marble and peppercorn model and the balance point are in sci.sky.solar-system.L5.
 - Aristarchus of Samos (about 270 BCE). On the Sizes and Distances of the Sun and Moon. In: Heath T. (1913). Aristarchus of Samos, the Ancient Copernicus. Oxford: Clarendon Press.
-- Aryabhata (499 CE). Aryabhatiya, Golapada, verses 37 to 47. Translated by Clark W. E. (1930). Chicago: University of Chicago Press.
+- Aryabhata (499 CE). Aryabhatiya, Golapada, the verses on eclipses. Translated by Clark W. E. (1930). Chicago: University of Chicago Press.
 - Espenak F., Meeus J. (2006). Five Millennium Canon of Solar Eclipses: -1999 to +3000. NASA Technical Publication TP-2006-214141.
-- Meeus J. (1982). The frequency of total and annular solar eclipses for a given place. Journal of the British Astronomical Association 92: 124-126.
+- NASA Planetary Fact Sheet: Moon (nssdc.gsfc.nasa.gov), and Vassar College Encyclopedia, Maria Mitchell. Both checked on 17 November 2026.
 - Keen R. A. (1983). Volcanic aerosols and lunar eclipses. Science 222: 1011-1013.
 - Galen C. et al. (2019). Pollination on the dark side: acoustic monitoring reveals impacts of a total solar eclipse on flight behavior and activity schedule of foraging bees. Annals of the Entomological Society of America 112: 20-26.
 - Stephenson F. R., Morrison L. V., Hohenkerk C. Y. (2016). Measurement of the Earth's rotation: 720 BC to AD 2015. Proceedings of the Royal Society A 472: 20160404.
