@@ -120,7 +120,7 @@
   {
    "concept": "A feeling happens in your whole body",
    "status": "defined",
-   "definition": "A strong emotion changes the body. When you are scared or excited, adrenaline makes the heart beat faster and the breath quicker, and blood moves towards the big muscles. When you calm down, the heart and breath slow again.",
+   "definition": "A strong emotion changes the body. When you are scared or excited, your body releases adrenaline, a chemical messenger. Adrenaline makes the heart beat faster and the breath quicker, and blood moves towards the big muscles. When you calm down, the heart and breath slow again.",
    "description": "These changes come before you choose them. If a cooker whistle blows behind you, you jump before you know what the noise was. Fear gets your body ready to run or fight. This is useful when there is real danger. The 'butterflies' in your tummy before a test are part of the same change, because blood moves away from the tummy towards the muscles. Happy feelings change the body too: you may feel light, warm or full of energy, and your face smiles.",
    "examples": [
     "Your heart thumps after a near fall on the stairs.",
@@ -148,7 +148,7 @@
   {
    "concept": "Reading feelings is a guess, so we ask",
    "status": "defined",
-   "definition": "When we read a feeling from a face, we use a few clues, such as the eyebrows, eyes and mouth, and guess the rest from what is happening around us. Empathy starts with this guess, and checking it by asking makes it kind and correct.",
+   "definition": "When we read a feeling from a face, we use a few clues, such as the eyebrows, eyes and mouth. Then we guess the rest from what is happening around us. Empathy means understanding what another person feels, and feeling some of it with them. It starts with this guess. Asking the person to check it makes the guess kind and correct.",
    "description": "A face can match more than one feeling. A wide-eyed face could be scared, surprised or excited. A frowning face could be angry, worried or just thinking hard. People also hide feelings, or show a polite face when they feel something else. So a good friend notices the clues and then asks: 'You look upset. Are you all right?' Asking also shows respect, because the other person gets to say what they feel instead of being told.",
    "examples": [
     "A new girl in class looks cross on her first day, but she is really nervous.",
@@ -579,7 +579,8 @@
      "do": "Swap roles if there is time. Then talk about smiles and laughs.",
      "say": "Now you yawn and I'll watch. And what else spreads like a yawn? Have you noticed a laugh spreading?",
      "kid": "Now you yawn, and I'll watch. What else spreads like a yawn? Laughs? Smiles?",
-     "think": "When you catch someone's yawn, do you decide to do it?"
+     "think": "When you catch someone's yawn, do you decide to do it?",
+     "parent": "Most people say no. A caught yawn comes by itself, the way your heart jumps at a loud noise. You do not choose it. That is one reason scientists think yawns link to how our brains copy each other."
     }
    ]
   }
@@ -722,7 +723,8 @@
       "why": "9 out of 10 is far more than the 5 you would get by guessing, so something in the eyes was different. That is usually the cheeks lifting and the eye corners crinkling. Luck is possible but unlikely with so many right. Smiles happen in the mouth too, which was hidden in this test."
      }
     }
-   ]
+   ],
+   "problem": "People say you can tell a real smile from a polite one by looking at the eyes and cheeks. You will test this. The smiler will hide their mouth behind a notebook, and the guesser will look only at the eyes and cheeks."
   },
   {
    "id": "a3",
@@ -790,7 +792,8 @@
       }
      ]
     }
-   ]
+   ],
+   "problem": "A feeling is not only in your head. Your body changes too. You will remember four feelings and colour in where in your body you felt each one. Then you will compare your maps with someone else's."
   },
   {
    "id": "a4",
@@ -931,7 +934,8 @@
       }
      ]
     }
-   ]
+   ],
+   "problem": "When a feeling gets very big, it is hard to think clearly. Scientists have found that putting a feeling into words often makes it smaller. You will practise three steps: stop, name the feeling, and choose what to do."
   },
   {
    "id": "a6",
@@ -1229,7 +1233,8 @@
       }
      ]
     }
-   ]
+   ],
+   "problem": "Scientists have found that being kind often makes the giver happier. You will test this for one week. Each day you will do one kind act, and rate how you feel before and after it."
   }
  ],
  "challenges": [
@@ -1293,7 +1298,8 @@
      "do": "Build the best design and try it out together.",
      "say": "Build it. Sit in it for two minutes and breathe slowly. Does it help?",
      "kid": "Build your best idea. Sit in it for two minutes. Breathe slowly. Does it help?",
-     "think": "Is a calm corner only for children, or could grown-ups use one too?"
+     "think": "When a feeling gets very big, your heart beats fast and your breath is quick. Which part of your calm corner helps your body slow down again?",
+     "parent": "A good answer names a part of the corner and says what it does. A soft cushion helps the body relax. A calm bottle gives the eyes something slow to watch. A breathing card reminds you to breathe slowly. Slow breathing tells the body it is safe, so the heart and breath slow down again."
     }
    ]
   },
