@@ -172,7 +172,7 @@
    "claim": "Only humans have thumbs.",
    "who": "A common idea among children and grown-ups",
    "for": "Our thumbs are very good at pinching small things, and we use them all day.",
-   "against": "Monkeys and apes have thumbs too, and chimpanzees use them to pick up and hold things. A giant panda has a wrist bone that works like an extra thumb for holding bamboo.",
+   "against": "Monkeys and apes have thumbs too, and chimpanzees use them to pick up and hold things. A giant panda has a bone in her wrist that sticks out like an extra thumb. She presses bamboo against it to hold it.",
    "status": "rejected",
    "context": "This card is about thumbs in humans and other animals."
   },
@@ -187,9 +187,9 @@
  ],
  "big_questions": [
   {
-   "q": "With your thumb taped down, you found new ways to pick things up. Where did those new ways come from?",
+   "q": "With your thumb taped down, you found new ways to pick things up. How did you work out those ways?",
    "kind": "deep",
-   "hint": "Think about how you held the rice with your thumb taped, and who worked out how to do it."
+   "hint": "Did your hand work them out, or your brain, or both together? Think about what you did when the rice slipped."
   },
   {
    "q": "Which part of your body would you miss most if it stopped working for a day? Why?",
@@ -199,7 +199,7 @@
   {
    "q": "A crow's wing has bones like your arm. Why do you think a crow and a child have such similar bones?",
    "kind": "big",
-   "hint": "Humans and crows are both animals. Think about families, and how cousins can look alike."
+   "hint": "Humans and crows are both animals. Long ago, they had the same ancestors. Cousins look alike because they share grandparents. Think about how that could be true for crows and people."
   },
   {
    "q": "Your body is made of many parts. Is there one part that is really 'you'?",
@@ -224,7 +224,7 @@
    "'Take a little flour in your hand,' said Paati. 'Now hold some of the flour between your thumb and your first finger. Rub them together gently, and let the flour fall.'",
    "Kavya grabbed a big handful of flour in her fist. She opened her hand over the ground. Whoomph! The flour fell in one white heap.",
    "Arjun laughed. Kavya laughed too.",
-   "'A fist has no small door,' said Paati. 'Your thumb and your finger make a small door. Only a little flour can get through.'",
+   "'A fist is closed, so all the flour comes out at once,' said Paati. 'Your thumb and your finger leave only a small gap. Only a little flour can get through.'",
    "Kavya tried again. She pinched the flour between her thumb and her first finger. She rubbed them gently and moved her hand along. This time a thin white line came out onto the ground. It wobbled, but it was a line.",
    "'Paati, why don't you do it with your other fingers?' asked Arjun. 'Only your thumb is hurt.'",
    "Paati held up her hand with the tied thumb. She tried to pinch some flour between her first finger and her middle finger. The flour slipped out and fell in lumps.",
@@ -810,10 +810,10 @@
     },
     {
      "t": "perspective",
-     "p": "The first person touched a hot tawa, and her hand jumped back before she felt the pain.",
+     "p": "A girl touched a hot tawa, and her hand jumped back before she felt the pain.",
      "views": [
       {
-       "who": "The first person",
+       "who": "The girl",
        "says": "My hand decided to jump. My hand and my spine did the deciding."
       },
       {
@@ -2086,7 +2086,7 @@
    "what_is_life": "A living body is busy all day with parts helping each other: the eyes guide the hands, the knees bend so the feet can climb.",
    "what_is_this_world": "Other animals have parts like ours, such as a crow's wing bones and a cat's elbows. Each animal uses their parts in their own way."
   },
-  "thread": "A pinch needs a thumb and a finger together. A clap needs two hands. A step needs a foot and the ground. Many jobs need two things to meet, and the job fails if one is missing.",
+  "thread": "A pinch needs a thumb and a finger to press together. A clap needs two hands to meet. A step needs a foot to meet the ground. Many jobs need two things to meet. If one of them is missing, the job cannot be done.",
   "teachings": [
    {
     "source": "Livy, History of Rome 2.32 (the fable of the belly and the limbs)",
@@ -2121,7 +2121,7 @@
   },
   "ask": [
    "When you clap, which hand makes the sound?",
-   "With your thumb taped, you found new ways to pick things up. Who or what found those ways?",
+   "With your thumb taped, you found new ways to pick things up. How did you find those ways?",
    "Is there any job your body does with just one part, and no help from any other part?"
   ],
   "art": "A child sitting with eyes closed, touching the tip of the thumb to the tip of the first finger, with a soft glow where they meet."

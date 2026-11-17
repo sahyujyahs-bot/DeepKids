@@ -3,7 +3,7 @@
  "title": "Caring for the place we share: litter, plants and small animals",
  "level": 1,
  "summary": {
-  "text": "A toffee wrapper dropped on the road does not stay there. Rain and wind carry light litter along, into drains, rivers and the mouths of animals. Your child puts clean litter on the bathroom floor, pours a mug of water to be the rain, and watches where each thing goes. Then we look after the beings who share our home: we water a plant only when the soil is dry, and we gently carry outside a small animal who has come indoors. Our environment is everything around us, and every living being in it needs it clean.",
+  "text": "A toffee wrapper dropped on the road does not stay there. Rain and wind carry light litter along, into drains, rivers and the mouths of animals. Your child puts clean litter on the bathroom floor, pours a mug of water to be the rain, and watches where each thing goes. Then we look after the beings who share our home: we water a plant only when the soil is dry, and we gently carry outside a small animal who has come indoors. Our environment is everything around us. Every living being in it needs a clean place to live.",
   "art": "A city lane in the rain: a toffee wrapper floating along the water towards a drain grill, a crow on a wall, a cow by a gate, and a girl on a balcony with a potted tulsi."
  },
  "intro": {
@@ -81,9 +81,9 @@
    "definition": "Litter can hurt living beings who eat it or get stuck in it, and it can block drains so that rainwater floods the street.",
    "description": "Cows in Indian towns often eat plastic bags with food scraps inside. The plastic stays in the cow's stomach and can make her very ill. Birds and fish can swallow plastic or get tangled in plastic bags and nets. Litter also piles up on drain grills, so rainwater cannot get away and the street floods.",
    "examples": [
-    "A cow nosing at a plastic bag of leftover food by a gate.",
-    "A street in the monsoon flooded because plastic blocked the drain.",
-    "Mosquito eggs in rainwater inside an old paper cup on a terrace. Mosquitoes lay eggs in small pools of still water."
+    "A cow nosing at a plastic bag of leftover food by a gate can swallow the plastic along with the food.",
+    "In the monsoon, a street floods when plastic blocks the drain.",
+    "An old paper cup on a terrace fills with rainwater. Mosquitoes lay their eggs in small pools of still water like this."
    ],
    "perspectives": [],
    "context": "This card explains why litter matters: who it can hurt.",
@@ -92,7 +92,7 @@
   {
    "concept": "Plants and small animals near us feel and choose",
    "status": "debated",
-   "definition": "",
+   "definition": "Plants and small animals sense what is around them and act on it. Scientists disagree about whether this is feeling and thinking, or only automatic.",
    "description": "Plants and animals near us sense what is around them and act on it. A plant in dry soil closes the tiny holes in her leaves to keep water in. An ant who finds sugar leaves a smell trail on the way home, and other ants follow it. Many scientists say plants and ants feel, remember and decide. Other scientists say these are automatic actions, like a machine's. Either way, we care for them gently, as we would want to be cared for.",
    "examples": [
     "A tulsi plant's leaves droop on a hot afternoon when the soil is dry, and lift again after watering.",
@@ -325,7 +325,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Lay all the cards out in two rows: the ones that fly or float, and the ones that stay.",
-     "say": "Look at the two rows. Which row should never be dropped outside? Why?",
+     "say": "Look at the two rows. Which row will travel far from where it was dropped? Why?",
      "kid": "Make two rows: fly or float, and stay. Which row travels far?",
      "check": {
       "t": "mcq",
@@ -421,7 +421,7 @@
        ]
       }
      ],
-     "parent": "Accept any pair your child can explain well. For the snail, the kind act is to leave her where she is. Snails can carry germs, so wash hands if anyone touches one."
+     "parent": "Accept any pair your child can explain well. For the snail, the kind act is to leave her where she is. Snails can carry germs, so wash hands if anyone touches one. Moths fly towards bright lights, so a moth may be stuck at the window because of the light. When you switch the light off and open the window, she can find her way out."
     },
     {
      "id": "s3",
@@ -670,6 +670,7 @@
    "mins": 20,
    "days": 1,
    "context": "In this experiment you leave a few grains of sugar where you have seen ants. You come back after half an hour to see who has found them. Then you wipe across the ants' path with a soapy cloth and watch what the ants do.",
+   "problem": "Ants often walk in a long line. In this experiment you find out how ants find food that is left out, and what they do when something changes their path. It shows how small animals find their way around our homes.",
    "question": "If we leave a few grains of sugar out, will ants find them? If we wipe across their path, what will the ants do?",
    "predict": "Guess first. Will any ants come to the sugar in half an hour? If we wipe across their path, will they keep walking, or stop? Why do you think so?",
    "fair_test": "We put the same pinch of sugar in the same place, and look after the same time. For the wipe, we wipe only one strip across the path, and leave the rest of the path alone.",
@@ -1011,7 +1012,8 @@
      "do": "Look at the plant again in the evening.",
      "say": "This evening, let's look at the leaves again. What do you think we will see?",
      "kid": "Look at the leaves again this evening. Did they change?",
-     "think": "Where does the extra water go when it runs out of the hole at the bottom?"
+     "think": "Why does the pot have a hole at the bottom?",
+     "parent": "The hole lets extra water run out, so the soil does not stay full of water and the roots can breathe. If you watered a drooping plant, the leaves usually stand up again by the evening. If the soil was damp and you did not water, nothing changes, because the plant already had enough water."
     }
    ]
   },
@@ -1584,17 +1586,17 @@
      "p": "Two friends in Mysuru see a chips packet in the park.",
      "views": [
       {
-       "who": "The first child, aged 6",
+       "who": "Meera, aged 6",
        "says": "It's not mine. The person who dropped it should pick it up."
       },
       {
-       "who": "The second child, aged 7",
+       "who": "Joseph, aged 7",
        "says": "If we leave the chips packet, the rain will take it to the drain. Let's put it in the bin."
       }
      ],
      "ask": "Which friend do you agree with? Why? Then say one thing the other friend has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason, for example that the rain will carry the packet away and nobody else may pick it up. It also sees that the first child has a point: the person who dropped it did something unfair.",
+     "a": "A strong answer picks a side and gives a reason, for example that the rain will carry the packet away and nobody else may pick it up. It also sees that Meera has a point: the person who dropped it did something unfair.",
      "why": "Both friends are right about something. It is fair that people clear up their own litter. But the packet will still travel, whoever dropped it."
     },
     {
@@ -1697,7 +1699,7 @@
      "p": "A cow is eating vegetable peels and a plastic bag outside a building in Pune.",
      "views": [
       {
-       "who": "The first child, aged 8",
+       "who": "Divya, aged 8",
        "says": "The cow is hungry. We should put out more peels for her."
       },
       {
@@ -1787,17 +1789,17 @@
      "p": "Two sisters in Bhubaneswar find ants in the sugar jar.",
      "views": [
       {
-       "who": "The first child, aged 9",
+       "who": "The older sister, aged 9",
        "says": "Let's spray the ants. They are stealing our sugar."
       },
       {
-       "who": "The second child, aged 6",
+       "who": "The younger sister, aged 6",
        "says": "Let's close the jar tightly and wipe the shelf, so the ants go back outside."
       }
      ],
      "ask": "Which sister do you agree with? Why? Then say one thing the other sister has right.",
      "lines": 3,
-     "a": "A strong answer gives a reason from the Sugar Test, for example that wiping takes away the smell trail. It also sees the first child's point: the family needs their sugar to stay clean.",
+     "a": "A strong answer gives a reason from the Sugar Test, for example that wiping takes away the smell trail. It also sees the older sister's point: the family needs their sugar to stay clean.",
      "why": "Both sisters want the sugar safe. One way hurts the ants. The other way changes what brings them in.",
      "how": "e2"
     },
@@ -2011,7 +2013,7 @@
   {
    "problem": "Arun, the little boy in the story The Red Wrapper, kept a tally with his pocket bin. Monday: 3 wrappers. Tuesday: 1 wrapper. Wednesday: 4 wrappers. On which day did he keep the most? On which day the fewest?",
    "answer": "Wednesday had the most, 4. Tuesday had the fewest, 1.",
-   "explain": "4 is more than 3, and 3 is more than 1. So Wednesday had the most and Tuesday the fewest. Maybe Wednesday was the day he bought toffees!",
+   "explain": "4 is more than 3, and 3 is more than 1. So Wednesday had the most and Tuesday the fewest.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "p1",
    "context": "This is about The Pocket Bin project, where you kept your litter with you for a week.",

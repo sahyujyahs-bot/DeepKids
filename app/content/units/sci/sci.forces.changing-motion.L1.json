@@ -146,9 +146,9 @@
  ],
  "big_questions": [
   {
-   "q": "In the Tap Test, one tap started the still ball, and a tap from the front slowed the rolling ball. Were they the same kind of push?",
+   "q": "A tap started the still ball. A tap from the front slowed the rolling ball. What made the two taps do different things?",
    "kind": "deep",
-   "hint": "Think about what your hand did each time. Was the side you tapped from the only thing that changed?"
+   "hint": "Think about what the ball was doing before each tap, and which side you tapped from."
   },
   {
    "q": "If there was no floor and no air at all, would a rolling ball ever stop?",
@@ -712,19 +712,19 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Pick two things your child saw, and ask what pushed them.",
-     "say": "The crow landed on the wall. What did she do to slow down? The bus stopped. What pushed against it?",
-     "kid": "How did the crow slow down? What stopped the bus?",
+     "do": "Pick a bus or an auto that your child saw slow down. Ask what pushed against it. Then pick one more thing that slowed down.",
+     "say": "The bus stopped. What pushed against it? Now pick one more thing that slowed down. What pushed against that?",
+     "kid": "What pushed against the bus to stop it?",
      "ask": [
       {
-       "q": "What did the crow do to slow down?",
+       "q": "What pushed against a bus or an auto to slow it down?",
        "good": [
-        "She spread her wings and tail wide.",
-        "She flapped against the way she was going."
+        "The brakes pushed against the wheels.",
+        "The brakes pressed on the wheels, against the way it was going."
        ]
       }
      ],
-     "parent": "A landing bird spreads her wings and tail and tips them against the air, pushing the air forward to slow down. A bus slows when its brakes press on the wheels."
+     "parent": "A bus slows when its brakes press on the wheels. A bird slows when she lands. She spreads her wings and tail and tips them against the air, so the air pushes against her."
     },
     {
      "id": "s3",
@@ -1834,7 +1834,7 @@
    "evidence": "In the Tap Test, the same rolled newspaper and the same gentle tap made the ball faster from behind and slower from the front. A just-right tap from the front stopped it dead, and a bigger one sent it back."
   },
   "three": {
-   "who_am_i": "You start and stop many times a day. Each time, your feet push on the floor, back to start and forward to stop.",
+   "who_am_i": "You start and stop many times a day. To start, your feet push back on the floor, and the floor pushes you forward. To stop, your feet push forward on the floor, and the floor pushes you back.",
    "what_is_life": "Every living being that moves pushes on something to start and to stop. A duck pushes the water, and a crow pushes the air.",
    "what_is_this_world": "Everything in the world is moving somehow. Pushes and pulls change how fast it moves, all the time."
   },

@@ -30,19 +30,19 @@ Eyes see and ears hear. Your nose smells and helps you breathe. Your mouth eats,
 ### Your thumb meets your fingers · *defined*
 **Definition:** Your thumb can bend across your hand and press against each finger. Together, the thumb and a finger can pinch and grip.
 
-Your thumb sits on the side of your hand and swings across to meet each fingertip. To pick up a grain of rice, the thumb presses from one side and a finger from the other. With your thumb taped, your fingers could only press on each other. That is why small things and buttons were so hard.
+Your thumb sits on the side of your hand and swings across to meet each fingertip. To pick up a grain of rice, the thumb presses from one side and a finger from the other. In the Thumb Taped test, your thumb was taped down, so your fingers could only press on each other. That is why small things and buttons were so hard.
 - e.g. Doing up a button needs a pinch on each side of the button.
 - e.g. Holding a crayon needs your thumb on one side and two fingers on the other.
 - e.g. Apes and many monkeys have thumbs that press against their fingers too. Ours is longer, so it reaches every fingertip more easily.
 ### Joints are where your body bends · *defined*
 **Definition:** A joint is a place where two bones meet. Bones do not bend, so your body bends at its joints. Muscles pull on the bones to move them.
 
-Bones are hard and stay straight, like a pencil. Where two bones meet, there is a joint, and the joint can move. Muscles pull on the bones, and the bones swing at the joint. With the newspaper tube on your elbow, your arm could not bend, and your hand could not reach your mouth.
+Bones are hard and stay straight, like a pencil. Where two bones meet, there is a joint, and the joint can move. Muscles pull on the bones, and the bones swing at the joint. In the Straight-Arm Snack, a newspaper tube kept your elbow straight. Your arm could not bend, and your hand could not reach your mouth.
 - e.g. Your elbow and knee bend one way only, like a door on its hinges.
 - e.g. Your shoulder can swing your arm round in a big circle.
 - e.g. Each finger bends at three joints, and your thumb bends at two.
 ### Bodies are alike, and each body is different · *defined*
-**Definition:** Almost all people have the same kinds of body parts. But each person's body is a different size, shape and colour, and works in their own way.
+**Definition:** Almost all people have the same kinds of body parts. But each person's body is a different size, shape and colour, and works in its own way.
 
 You and your grandmother both have two eyes, a nose and two hands. But her hands may be bigger and more wrinkled than yours. Skin, hair and eyes come in many colours. About one person in ten is left-handed. Some people are born with a different body, or lose a part, and find another way to do the job. Many deaf people talk with their hands, in sign language.
 - e.g. The dancer Sudha Chandran lost her right leg after a road accident in the early 1980s. With an artificial leg called a Jaipur Foot, she danced Bharatanatyam on stage again.
@@ -53,7 +53,7 @@ You and your grandmother both have two eyes, a nose and two hands. But her hands
 
 A crow has two eyes, a beak, two legs and two wings. Inside a crow's wing are bones like the bones in your arm. A cat has elbows and knees, like you. An elephant's trunk is a long nose and upper lip joined together, and the tip of the trunk can pick up a single peanut. An ant has six legs and two feelers on their head. The feelers smell and touch.
 - e.g. Watch a crow at the window walk, hop and flap. The crow bends their legs at the joints, like you.
-- e.g. A dog smells far more than we do, because so much of a dog's nose is for smelling.
+- e.g. A dog can smell far better than we can, because so much of a dog's nose is for smelling.
 - e.g. You have a small tailbone at the bottom of your back. Many other animals with a backbone have a tail there.
 ### Does only your brain think? · *debated*
 Your whole body senses, feels and decides, not only your brain. If your hand touches a hot tawa, the hand jumps back before you even know it is hot. The message goes up your arm to your spine, and straight back to the arm muscles. Your tummy has millions of nerve cells of its own, which feel the food and move it along. Many brain scientists say the brain does the real thinking, and the rest of the body only sends and follows messages.
@@ -70,7 +70,7 @@ Your whole body senses, feels and decides, not only your brain. If your hand tou
 
 ## How we found out
 **Ram Chandra Sharma, a craftsman, Dr P. K. Sethi, a bone doctor, and Chugga Bhai, a cycle-tyre repairer, in Jaipur, 1968 onwards.** In the 1960s, many people in India who lost a leg were given an artificial foot made in the West. It was stiff, and it was made to wear inside a shoe. But many people in India walk barefoot, sit on the floor and squat to cook or work. With a stiff foot, they could not. In 1968, in Jaipur, a craftsman named Ram Chandra Sharma brought an idea to Dr P. K. Sethi, a bone doctor at the city's big hospital. Sharma thought an artificial foot should bend like a real one. A cycle-tyre repairer named Chugga Bhai helped him make the first one from rubber, the way tyres are made. After much testing, they made a rubber foot over a wooden core that bends at the ankle and the toes. People could walk barefoot, squat and even climb trees. This Jaipur Foot is cheap, and is now fitted free for many people. The dancer Sudha Chandran danced Bharatanatyam on stage again with one. Dr Sethi was often named first, and Sharma, the craftsman, is less well known.  
-*What people believed before:* That an artificial foot only needs to be a stiff support inside a shoe. Ram Chandra Sharma saw that a real foot bends at the ankle and toes, and his rubber foot bent the same way. People could then squat, sit on the floor and walk barefoot.
+*What people believed before:* People thought an artificial foot only needed to be a stiff support inside a shoe. Ram Chandra Sharma saw that a real foot bends at the ankle and toes, and his rubber foot bent the same way. People could then squat, sit on the floor and walk barefoot.
 
 ## Challenging perspectives
 - **The left hand is the wrong hand. Children should be made to eat and write with the right hand.** (A common idea in many families, in India and in other countries; *rejected*)  
@@ -78,38 +78,38 @@ Your whole body senses, feels and decides, not only your brain. If your hand tou
   Against: About one person in ten is left-handed. Being left-handed is a natural way for a body to be. A left-handed child writes and eats just as well with the left hand.
 - **Only humans have thumbs.** (A common idea among children and grown-ups; *rejected*)  
   For: Our thumbs are very good at pinching small things, and we use them all day.  
-  Against: Monkeys and apes have thumbs too, and chimpanzees use them to pick up and hold things. A giant panda has a wrist bone that works like an extra thumb for holding bamboo.
+  Against: Monkeys and apes have thumbs too, and chimpanzees use them to pick up and hold things. A giant panda has a bone in her wrist that sticks out like an extra thumb. She presses bamboo against it to hold it.
 - **Grown-ups have more bones than children, because they are bigger.** (A common guess; *rejected*)  
   For: Grown-ups are much bigger than children, so it seems they need more bones.  
   Against: A baby has about 300 bones. As the baby grows, many small bones grow together into bigger ones. A grown-up has 206 bones, fewer than a baby.
 
 ## Roots
-We have named our body parts and found what each one helps us do. Now we ask what the thumb test tells us about where a job really happens.
+We have named our body parts and found what each one helps us do. Now we ask what the Thumb Taped test shows: is a job done by one part, or by parts working together?
 
 **Deep truth.** With your thumb taped down, you could hardly pick up one grain of rice. Your fingers were all still there. A pinch needs a thumb on one side and a finger on the other. So a pinch is done by two parts pressing together.  
-*Habit it breaks:* We give each job to one part: eyes see, legs walk, hands hold. A pinch needs a thumb and a finger together.  
+*Habit it breaks:* We usually think each job belongs to one part: eyes see, legs walk, hands hold. But a pinch needs a thumb and a finger together.  
 *Evidence:* In the thumb test, the fingers were free and could still move, but the coin and the button became very hard or impossible. The rice slipped between the fingers. When the tape came off, the thumb and a finger picked up a grain at once.
 
-- *who am i:* You are many parts that do things together. Most of what you do happens where your parts meet.
+- *who am i:* You are many parts that do things together. Most of what you do needs more than one part.
 - *what is life:* A living body is busy all day with parts helping each other: the eyes guide the hands, the knees bend so the feet can climb.
-- *what is this world:* Humans and other animals have parts like ours, such as a crow's wing bones and a cat's elbows. Each animal uses their parts in their own way.
+- *what is this world:* Other animals have parts like ours, such as a crow's wing bones and a cat's elbows. Each animal uses their parts in their own way.
 
-A pinch needs a thumb and a finger together. A clap needs two hands. A step needs a foot and the ground. Many jobs need two things to meet, and the job fails if one is missing.
+A pinch needs a thumb and a finger to press together. A clap needs two hands to meet. A step needs a foot to meet the ground. Many jobs need two things to meet. If one of them is missing, the job cannot be done.
 
-- **Livy, History of Rome 2.32 (the fable of the belly and the limbs):** The hands, the mouth and the teeth grew angry with the belly. They said the belly did no work and only ate. So they stopped feeding the belly. Soon the hands, the mouth and the teeth grew weak too. They learned that the belly was doing a job for all of them. (The fable, which Livy says Menenius Agrippa told in Rome, says each part needs the others, which the thumb test shows too. Neither the thumb nor the fingers could pinch alone.)
+- **Livy, History of Rome 2.32 (the fable of the belly and the limbs):** The hands, the mouth and the teeth grew angry with the belly. They said the belly did no work and only ate. So they stopped feeding the belly. Soon the hands, the mouth and the teeth grew weak too. They learned that the belly was doing a job for all of them. (Livy wrote that Menenius Agrippa told this fable in Rome. It says each part needs the others. The Thumb Taped test shows the same thing: neither the thumb nor the fingers could pinch alone.)
 - **Udana 6.4, a Buddhist text (the blind men and the elephant):** Some men who could not see each touched one part of an elephant. The one who touched the trunk said an elephant is like a plough's pole. The one who touched a leg said an elephant is like a pillar. Each was sure he was right, and they began to quarrel. (Each man knew one part, but the elephant was all the parts together. To know a body, we look at the parts and also at how they work together.)
 - Science (settled): Humans have a long thumb that can press its tip firmly against the tip of each finger. This lets us pinch very small things, like a grain of rice or a thread.
-- Science (debated): The spine, the gut and the skin sense and respond on their own, without waiting for the brain. Whether to call this thinking is argued about.
+- Science (debated): The spine, the gut and the skin sense and respond on their own, without waiting for the brain. Scientists do not agree on whether to call this thinking.
 - Other view, The monk Nagasena, in the Buddhist book Milindapanha: Nagasena told King Milinda that a chariot is not the wheels, the axle or the seat, and not something apart from them. 'Chariot' is only the name for the parts put together. He said a person is the same: there is no fixed 'me' to find in any part, or anywhere else.
 - Practice, Thumb Hello (3 min): Sit comfortably and close your eyes. Breathe in slowly, and breathe out slowly. Now touch your thumb to your first finger, gently. Feel where they meet. Now touch your thumb to your middle finger. Now the next finger. Now your little finger. Go back the other way, slowly. Feel each meeting. Breathe in and out once more. Open your eyes.
 - Ask: When you clap, which hand makes the sound?
-- Ask: With your thumb taped, you found new ways to pick things up. Who or what found those ways?
+- Ask: With your thumb taped, you found new ways to pick things up. How did you find those ways?
 - Ask: Is there any job your body does with just one part, and no help from any other part?
 
 ## Deep and big questions
-- *deep:* When your thumb was taped, you found new ways to pick things up. Where did the new way come from? (hint: Think about how you held the rice with your thumb taped, and who worked out how to do it.)
+- *deep:* With your thumb taped down, you found new ways to pick things up. How did you work out those ways? (hint: Did your hand work them out, or your brain, or both together? Think about what you did when the rice slipped.)
 - *deep:* Which part of your body would you miss most if it stopped working for a day? Why? (hint: Think about all the jobs you did this morning, and which parts helped.)
-- *big:* A crow's wing has bones like your arm. Why do you think a crow and a child have such similar bones? (hint: Humans and crows are both animals. Think about families, and how cousins can look alike.)
+- *big:* A crow's wing has bones like your arm. Why do you think a crow and a child have such similar bones? (hint: Humans and crows are both animals. Long ago, they had the same ancestors. Cousins look alike because they share grandparents. Think about how that could be true for crows and people.)
 - *big:* Your body is made of many parts. Is there one part that is really 'you'? (hint: If you cut your hair, are you still you? If you lose a tooth, are you still you?)
 
 ## Story: Paati's Thumb and the Pongal Kolam
@@ -137,7 +137,7 @@ Kavya grabbed a big handful of flour in her fist. She opened her hand over the g
 
 Arjun laughed. Kavya laughed too.
 
-'A fist has no small door,' said Paati. 'Your thumb and your finger make a small door. Only a little flour can get through.'
+'A fist is closed, so all the flour comes out at once,' said Paati. 'Your thumb and your finger leave only a small gap. Only a little flour can get through.'
 
 Kavya tried again. She pinched the flour between her thumb and her first finger. She rubbed them gently and moved her hand along. This time a thin white line came out onto the ground. It wobbled, but it was a line.
 
@@ -264,7 +264,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
   - Ask: Did you find a new way to do any job? (good: I picked up rice between two fingers, like scissors.; I slid the coin to the wall, then lifted it.)
   - Note: Usually the coin and the button become very hard or impossible. The rice gets slow, and children often pinch grains between two fingers like scissors. Every child finds their own ways round, and that is worth talking about too.
 - **s6 (2 min)**  
-  *Parent does:* 1. Take off the tape. 2. Your child pinches one grain of rice with thumb and first finger. 3. Ask what they think, what they saw, and why.  
+  *Parent does:* 1. Take off the tape. 2. Your child pinches one grain of rice with thumb and first finger. 3. Ask what your child found out, and why some jobs were so hard.  
   *Parent says:* Your thumb is free again. Pick up one grain now. What did you find out? Why were some jobs so hard?  
   *Child mode:* Pinch one grain with your thumb. What did you find out?
   - Ask: Your four fingers were free the whole time. So why was the coin so hard? (good: My fingers had nothing to press against.; To pick it up, the thumb has to push on the other side.)
@@ -296,7 +296,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
   *Child mode:* Let everyone try. Who moved the most beans?
   - Ask: What did you find? (good: Most people moved more with their writing hand.; Amma was nearly the same with both hands.; Left-handed Chithi moved more with her left hand.)
   - Note: Most people move a few more beans with the hand they write with, because they use that hand more. Some people are nearly the same with both. Results change a little each try, so a difference of one or two beans may be luck.
-  - Check: Ammu, a girl in Class 1, writes with her left hand. Which hand will most likely move more beans? → **Her left hand**
+  - Check: A girl writes with her left hand. Which hand will she most likely move more beans with? → **Her left hand**
 
 ## Activities
 ### a1 · Head to Toes: touch it, name it, say its job (8 min)
@@ -323,7 +323,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
   *Parent does:* 1. Roll three sheets of newspaper (or a magazine) into a thick tube round your child's arm, over the elbow. 2. Tape it loosely, so the arm stays straight.  
   *Parent says:* This tube will keep your arm straight. Your elbow cannot bend. Tell me if it is too tight.  
   *Child mode:* Hold your arm out straight. Your grown-up rolls a tube round it.
-  - Note: The tube must cover the elbow, but leave the hand and wrist free. Keep it loose: it should stop bending, not squeeze. If the arm still bends the tube, add a third sheet or a rolled magazine.
+  - Note: The tube must cover the elbow, but leave the hand and wrist free. Keep it loose: it should stop bending, not squeeze. If the arm still bends the tube, add another sheet or a rolled magazine.
 - **s2 (2 min)**  
   *Parent does:* Ask your child to guess first, and to say why.  
   *Parent says:* Your hand is free and your fingers are free. Can you put this snack in your mouth with this hand? Why do you think so?  
@@ -335,12 +335,12 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
   - Ask: What happened? (good: My hand could not reach my mouth.; I had to bend down to my hand.; My hand got near my face, but not into my mouth.)
   - Note: With the elbow straight, the hand swings past the face but cannot come close to the mouth. Some children bend over and bring the mouth to the hand. That is a clever new way, and worth praising.
 - **s4 (2 min)**  
-  *Parent does:* Take the tube off. Your child eats the second snack the usual way, and feels the elbow bend.  
+  *Parent does:* Take the tube off. Your child eats another piece of the snack the usual way, and feels the elbow bend.  
   *Parent says:* Now the tube is off. Eat the other piece. Put your other hand on your elbow. What does it do?  
   *Child mode:* Eat the snack now. Feel your elbow bend.
   - Check: With the tube on, why could your hand not reach your mouth? → **The elbow could not bend**
 ### a3 · One, Two or Many? Count your body (10 min)
-- **record:** Draw one part on each sheet: one part you have one of, two of, and many of.
+- **record:** Draw one part on each sheet: a part you have one of, a part you have two of, and a part you have many of.
 - **s1 (4 min)**  
   *Parent does:* 1. Put the three sheets on the floor. 2. Name a part. 3. Your child counts it on their own body. 4. A grown-up writes it on a slip, and your child puts the slip on the right sheet.  
   *Parent says:* How many noses do you have? One. Put 'nose' on the 1 sheet. How many ears? How many knees?  
@@ -373,7 +373,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 - **s3 (2 min)**  
   *Parent does:* Ask your child to say one thing that is the same and one that is different.  
   *Parent says:* Tell me one way our hands are the same, and one way they are different.  
-  *Child mode:* Say one same thing and one different thing.
+  *Child mode:* Say one way the hands are the same and one way they are different.
 
 ## Projects
 ### p1 · My Body Book: three pages about me (30 min, 3 days)
@@ -391,7 +391,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
   - Ask: Which of those jobs needed your thumb? (good: Holding the tumbler.; Pulling the zip.)
   - Wait: Make page 3 tomorrow.
 - **s3 (10 min)**  
-  *Parent does:* 1. Your child draws themself next to someone at home on page 3. 2. Ask for one way they are the same and one way they are different.  
+  *Parent does:* 1. On page 3, your child draws a picture of themselves next to someone at home. 2. Ask for one way the two of them are the same and one way they are different.  
   *Parent says:* Who will you draw next to you? How are you the same? How are you different?  
   *Child mode:* Draw yourself and someone at home. How are you the same?
   - Ask: How are you the same, and how are you different? (good: We both have two eyes and ten toes.; Amma is taller, and her hair is longer.)
@@ -404,7 +404,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 - **general:** A spoon that scoops the bean up.; A clothes peg that squeezes the bean, like a thumb and finger.; Two pencils used like chopsticks.
 - **creative:** A strip of card folded in half into tongs, which spring open again.; Two ice-cream sticks with a rubber band round one end and a small folded paper wedge between them.; A loop of tape, sticky side out, round one finger.
 - **c1s1 (3 min) · grown-up needed**  
-  *Parent does:* Read the challenge. Tape your child's thumb loosely, as in the thumb test.  
+  *Parent does:* Read the challenge. Tape your child's thumb loosely, as in the Thumb Taped test.  
   *Parent says:* Your thumb is taped. Can you make a tool that does the thumb's job, and picks up beans?  
   *Child mode:* Your thumb is taped. Make a tool to pick up beans.
   - Note: Tape loosely, and take it off at once if the fingertip turns pale or tingles.
@@ -421,11 +421,11 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 ## Worksheets
 ### My Body and What It Does (core) (core, 10 questions)
 1. (label) Here is a drawing of a child. Say the name of each part, and a grown-up writes it in the box: head, arm, hand, knee, foot.  
-   **Answer:** ['the round part at the top: head', 'the long part from the shoulder to the hand: arm', 'the part at the end of the arm: hand', 'the joint in the middle of the leg: knee', 'the part at the bottom that you stand on: foot']. *Why:* A strong answer names each part and can touch the same part on their own body.
+   **Answer:** ['the round part at the top: head', 'the long part from the shoulder to the hand: arm', 'the part at the end of the arm: hand', 'the joint in the middle of the leg: knee', 'the part at the bottom that you stand on: foot']. *Why:* In a strong answer, the child names each part and touches the same part on their own body.
 2. (match) Draw a line from each part to what it helps you do.  
    **Answer:** Eyes → see; Ears → hear; Nose → smell; Feet → walk. *Why:* Each part helps with its own jobs. Feet also help you stand and jump, and your nose also helps you breathe.
-3. (mcq) Meenakshi, a girl of six, tapes her thumb down. Which job will be the hardest for her?  
-   Options: Picking up a coin from the floor / Waving goodbye / Clapping her hands  
+3. (mcq) Your thumb is taped down. Which job will be the hardest?  
+   Options: Picking up a coin from the floor / Waving goodbye / Clapping your hands  
    **Answer:** Picking up a coin from the floor. *Why:* To pick up a flat coin, the thumb presses on one side and a finger on the other. Waving and clapping need no pinch, so they stay easy.
 4. (truefalse) Your elbow is a joint. It lets your arm bend.  
    **Answer:** True. *Why:* True. The elbow is where the bone of the upper arm meets the bones of the lower arm. Your arm bends there.
@@ -435,7 +435,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
    **Answer:** eyes → Head; knee → Leg; nose → Head; ankle → Leg; ears → Head; heel → Leg. *Why:* Eyes, ears and nose are on your head. Knee, ankle and heel are on your leg. Touch each one on your own body to check.
 7. (count) Look at the picture: one girl, one crow and one ant. Count all their legs.  
    **Answer:** 10. *Why:* The girl has 2 legs, the crow has 2 legs and the ant has 6 legs. 2 and 2 make 4, and 4 and 6 make 10.
-8. (write) Say out loud, and a grown-up writes it down: in the thumb test, why was doing up a button so hard?  
+8. (write) In the Thumb Taped test, your thumb was taped down. Why was doing up a button so hard? Say it out loud, and a grown-up writes it down.  
    **Answer:** My thumb could not press on the button. My fingers had nothing to push the button against.. *Why:* A strong answer uses what the child felt: the button slipped between the fingers, and there was no thumb on the other side.
 9. (perspective) Kavya, aged 7, and her cousin Arjun, aged 5, look at their Paati's hand next to theirs.  
    **Answer:** A strong answer sees that both are right. The hands have the same parts, a thumb and four fingers, but they are different sizes and look different.. *Why:* Bodies are alike in their parts and different in size, shape and colour. Both children noticed something true.
@@ -443,9 +443,9 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
    Options: Knee / Elbow / Wrist / Nose  
    **Answer:** 3. *Why:* Your knee, elbow and wrist are joints, where two bones meet and the body bends. Your nose does not bend like a joint.
 ### Thumbs, Joints and Other Animals (stretch) (stretch, 10 questions)
-1. (mcq) Rimi, a girl in Class 1 in Guwahati, has a newspaper tube round her elbow. Which can she not do with that hand?  
-   Options: Put a biscuit in her mouth / Pick up a ball from the floor / Wave to her friend  
-   **Answer:** Put a biscuit in her mouth. *Why:* With the elbow kept straight, her arm cannot fold, so her hand cannot come back to her mouth. Picking up a ball and waving need no bending at the elbow.
+1. (mcq) A newspaper tube is round your elbow, so your arm cannot bend. Which can you not do with that hand?  
+   Options: Put a biscuit in your mouth / Pick up a ball from the floor / Wave to your friend  
+   **Answer:** Put a biscuit in your mouth. *Why:* With the elbow kept straight, your arm cannot fold, so your hand cannot come back to your mouth. Picking up a ball and waving need no bending at the elbow.
 2. (order) Put these in order, from the top of your body to the bottom.  
    **Answer:** ['head', 'shoulder', 'knee', 'ankle']. *Why:* Your head is at the top. Your shoulders are below your neck. Your knees are in the middle of your legs. Your ankles are just above your feet.
 3. (match) Draw a line from each animal's part to the part of you that is most like it.  
@@ -455,11 +455,11 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 5. (draw) Your thumb is taped down. Draw a tool you could make to pick up a bean.  
    **Answer:** Any tool that holds the bean from two sides, like tongs, a clothes peg or two sticks, or one that scoops, like a spoon.. *Why:* A strong drawing shows how the tool does the thumb's job: pressing the bean from the other side.
 6. (write) Farhan writes with his left hand. His aunt says he should use his right hand. Say what you would tell her, and a grown-up writes it.  
-   **Answer:** About one person in ten is left-handed. It is a natural way for a body to be, and Farhan writes well with his left hand.. *Why:* A strong answer is kind to both Farhan and his aunt, and uses a fact or the bean test: most people are quicker with the hand they use most.
+   **Answer:** About one person in ten is left-handed. It is a natural way for a body to be, and Farhan writes well with his left hand.. *Why:* A strong answer is kind to both Farhan and his aunt. It uses a fact, or what the Quick Hands bean test showed: most people are quicker with the hand they use most.
 7. (label) Here is a drawing of an arm. Say the name of each part, and a grown-up writes it: shoulder, elbow, wrist, thumb.  
-   **Answer:** ['where the arm joins the body: shoulder', 'the joint in the middle of the arm: elbow', 'the joint between the arm and the hand: wrist', 'the short thick finger on the side: thumb']. *Why:* A strong answer names each part and bends each joint on their own arm.
-8. (perspective) Lakshmi touched a hot tawa, and her hand jumped back before she felt the pain.  
-   **Answer:** A strong answer picks a side with a reason. The message went from the hand to the spine and straight back, before the brain knew. Many scientists call this a reflex, and some say sensing and deciding happen all through the body.. *Why:* Scientists still argue about where deciding happens. Both views use the same fact: the hand moved before Lakshmi knew it was hot.
+   **Answer:** ['where the arm joins the body: shoulder', 'the joint in the middle of the arm: elbow', 'the joint between the arm and the hand: wrist', 'the short thick finger on the side: thumb']. *Why:* In a strong answer, the child names each part and bends each joint on their own arm.
+8. (perspective) A girl touched a hot tawa, and her hand jumped back before she felt the pain.  
+   **Answer:** A strong answer picks a side with a reason. The message went from the hand to the spine and straight back, before the brain knew. Many scientists call this a reflex, and some say sensing and deciding happen all through the body.. *Why:* Scientists still argue about where deciding happens. Both views use the same fact: the hand moved before the first person knew it was hot.
 9. (mcq) What is an elephant's trunk?  
    Options: A long nose and upper lip joined together / A long arm / A long tail at the front  
    **Answer:** A long nose and upper lip joined together. *Why:* An elephant's trunk is a nose and upper lip joined together. The elephant smells, breathes, drinks and picks things up with the trunk.
@@ -467,7 +467,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
    **Answer:** legs → Move; eyes → Sense; arms → Move; ears → Sense; knees → Move; nose → Sense. *Why:* Legs, arms and knees move you about. Eyes, ears and nose take in what is around you. Your hands and skin do both.
 
 ## Videos
-- **How a Jaipur Foot is made** (Bhagwan Mahaveer Viklang Sahayata Samiti | Jaipur Foot | India's Pride, 8 min) id `E4D1Cuplctg`: Shows how the rubber Jaipur Foot is made by hand, the foot that bends like a real foot. *Check:* Found by search: "How To Make A Prosthetic Leg In Jaipur Foot" by Bhagwan Mahaveer Viklang Sahayata Samiti | Jaipur Foot | India's Pride, 7 minutes 44 seconds. A parent may preview it.
+- **How a Jaipur Foot is made** (Bhagwan Mahaveer Viklang Sahayata Samiti | Jaipur Foot | India's Pride, 8 min) id `E4D1Cuplctg`: Shows how the rubber Jaipur Foot is made by hand. This artificial foot bends like a real foot. *Check:* Found by search: "How To Make A Prosthetic Leg In Jaipur Foot" by Bhagwan Mahaveer Viklang Sahayata Samiti | Jaipur Foot | India's Pride, 7 minutes 44 seconds. A parent may preview it.
 - **Secrets of an elephant's trunk and tusks** (BBC, 4 min) id `QTEJw7WtRRA`: Shows how elephants use the tip of the trunk to pick things up, a little like our thumb and finger pinch. *Check:* Found by search: "Secrets of an elephants's trunk and tusks - BBC" by BBC, 4 minutes 29 seconds. A parent may preview it.
 - **A moving X-ray of fingers** (Pat McKee, 1 min) id `nctBBQSoZ18`: Shows the bones staying straight while the fingers bend at the joints. *Check:* Found by search: "Finger Motion Xray - Fluoroscopy" by Pat McKee, 1 minute 11 seconds. A parent may preview it.
 
@@ -505,7 +505,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 
 ## Applications
 - Makers of artificial limbs, like the Jaipur Foot, copy how a real foot bends, so people can walk, squat and climb again.
-- Doctors called physiotherapists help people move a joint again after an injury, with gentle exercises.
+- Physiotherapists are health workers who help people move a joint again after an injury, with gentle exercises.
 - Designers make big buttons, thick pencils and easy-grip handles for people whose thumbs and fingers are stiff, like many older people.
 - Engineers build robot hands with a thumb that presses against the fingers, so the robot can pick up small things.
 
@@ -518,8 +518,8 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 
 ## Open questions
 - **How does a baby's body know where to grow each part?** Scientists know many of the signals that tell cells to become a hand or a foot. But how the whole body keeps every part the right size and in the right place is still being worked out.
-- **Where does deciding happen in a body?** The spine, the tummy and the skin all sense and respond on their own. Scientists still argue about whether to call this thinking, or only the brain's work.
-- **Why are about one in ten people left-handed?** Left-handedness runs a little in families, but many genes and things before birth play a part. Nobody yet knows the full answer.
+- **Where does deciding happen in a body?** The spine, the tummy and the skin all sense and respond on their own. Scientists still argue about whether this counts as thinking, or whether only the brain thinks.
+- **Why are about one in ten people left-handed?** Left-handedness runs a little in families. Genes are the instructions passed down from parents that help build your body. Many genes, and things before birth, play a part. Nobody yet knows the full answer.
 
 ## Questions to ask kids
 - Which body parts did you use to eat your breakfast?
@@ -541,10 +541,10 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 - Why was the knee so polite? *It always knelt down to say hello!*
 
 ## Connected maths
-- In a thumb test like yours, Ammu picked up 9 rice grains in one minute with her thumb free. With her thumb taped, she picked up 3. How many fewer grains did she pick up with her thumb taped? **6 fewer grains.**. Start at 3 and count on to 9: 4, 5, 6, 7, 8, 9. That is 6 more. So she picked up 6 fewer grains with her thumb taped, because her fingers had no thumb to press against. (queues `math.addition-subtraction.meaning.L1`)
+- In the Thumb Taped test, you pick up 9 rice grains in one minute with your thumb free. With your thumb taped, you pick up 3. How many fewer grains do you pick up with your thumb taped? **6 fewer grains.**. Start at 3 and count on to 9: 4, 5, 6, 7, 8, 9. That is 6 more. So you pick up 6 fewer grains with your thumb taped, because your fingers have no thumb to press against. (queues `math.addition-subtraction.meaning.L1`)
 - Count on your own body: 2 eyes and 2 ears. How many eyes and ears is that in all? **4.**. 2 and 2 make 4. You can count them: one eye, two eyes, then one ear, two ears. That is 1, 2, 3, 4. (queues `math.addition-subtraction.number-facts.L1`)
-- Nithya drew round three hands. Her hand was 4 crayons long, Amma's was 6 crayons long, and baby Kuttan's was 2 crayons long. Put the hands in order, from the smallest to the biggest. **Kuttan (2), Nithya (4), Amma (6).**. 2 is less than 4, and 4 is less than 6. So the order is Kuttan, Nithya, Amma. All three hands have a thumb and four fingers, but they are different sizes. (queues `math.number-sense.comparing-ordering.L1`)
-- In the bean test, four people said which hand they write with: right, right, left, right. Make a tally. How many write with the right hand, and how many with the left? **3 right-handed and 1 left-handed.**. Make a tally mark for each answer. Right gets three marks, and left gets one mark. In most families, more people are right-handed, but there is often one left-hander. (queues `math.data.sorting-and-tallies.L1`)
+- You draw round three hands. Your hand is 4 crayons long, Amma's hand is 6 crayons long, and the baby's hand is 2 crayons long. Put the hands in order, from the smallest to the biggest. **The baby's hand (2), your hand (4), Amma's hand (6).**. 2 is less than 4, and 4 is less than 6. So the order is the baby's hand, your hand, Amma's hand. All three hands have a thumb and four fingers, but they are different sizes. (queues `math.number-sense.comparing-ordering.L1`)
+- In the Quick Hands bean test, four people said which hand they write with: right, right, left, right. Make a tally. How many write with the right hand, and how many with the left? **3 right-handed and 1 left-handed.**. Make a tally mark for each answer. Right gets three marks, and left gets one mark. In most families, more people are right-handed, but there is often one left-hander. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
 Thumb and Finger, Knee and Toe (sci.body.L1): Topic-level song for Our bodies L1

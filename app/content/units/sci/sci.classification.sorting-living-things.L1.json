@@ -85,7 +85,7 @@
    "concept": "No two living beings are exactly the same",
    "status": "defined",
    "definition": "Every living being is one of a kind. Beings in the same group share one feature, and are still different in many other ways.",
-   "description": "Lay two curry leaves on top of each other, and the edges do not match. One leaf grew in more light, and one grew later. It is like this with animals too: two crows both have grey necks, but one is bigger.",
+   "description": "Lay two curry leaves on top of each other, and the edges do not match. One leaf grew in more light, and one grew later. Animals are the same. Two crows can both have grey necks, but one is bigger.",
    "examples": [
     "Two leaves on one tulsi plant are different sizes.",
     "Two crows on the window grill look alike, but one is a little bigger.",
@@ -199,10 +199,10 @@
    "\"Same kind,\" said Ammamma. \"Both are crows. But they are not the same crow. No two crows are exactly alike. You and Arun are both children, and both of you have hair. Are you the same?\"",
    "\"No,\" said Lakshmi at once. \"I am taller.\"",
    "\"And I am faster,\" said Arun.",
-   "That evening, Lakshmi made new labels for the baskets. On one, she drew a feather. On the other, she drew a feather with a big cross over it. Then, in the corner of that label, very small, she drew Arun."
+   "That evening, Lakshmi made new labels for the baskets. On one, she drew a feather. On the other, she drew a feather with a big cross over it. Arun has no feathers, so in the corner of that label, very small, she drew him."
   ],
   "note": "The facts in the story are true: every bird has feathers and a beak, hens can fly a short way, and bats have fur and feed their babies milk. Lakshmi, Arun and Ammamma are made up.",
-  "epiphany": "Lakshmi's first rule, 'birds fly', made mistakes. A feature everyone can see, feathers, put every bird together. Then two crows of one kind turned out to be different from each other.",
+  "epiphany": "Lakshmi's first rule, 'birds fly', put the wrong animals together. The rule 'has feathers' worked, because everyone can see feathers. Then she learned that two crows in one group are still different from each other.",
   "ask": [
    "Why did the hen move into the bird basket?",
    "Why did the bat move out of the bird basket?",
@@ -695,7 +695,7 @@
      "id": "s4",
      "mins": 3,
      "do": "1. Put a leaf from each of two other plants next to a curry leaf. 2. Ask your child to find one thing all three have.",
-     "say": "These leaves come from different plants, so they go in different groups. Can you find one thing they all have?",
+     "say": "These leaves come from different plants. They look different from each other. Can you find one thing they all have?",
      "kid": "These leaves are from different plants. Find one thing they all have.",
      "ask": [
       {
@@ -789,7 +789,7 @@
      "id": "s2",
      "mins": 4,
      "do": "Your child chooses one feature and sorts every leaf onto the two plates by it.",
-     "say": "Choose one thing to sort by. It can be big or small, shiny or dull, or smells strong or not. Put every leaf on one plate.",
+     "say": "Choose one thing to sort by. You could sort by big or small, shiny or dull, or strong smell or no smell. Put every leaf on one plate.",
      "kid": "Choose one rule. Big or small? Shiny or dull? Put each leaf on a plate.",
      "parent": "Let your child choose. If a leaf could go either way, ask them to make the rule clearer: 'bigger than my palm' instead of 'big'."
     },
@@ -858,7 +858,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Call a new rule: 'Everyone with hair or fur.' Your child takes the old cards off the towel and puts on every animal card with hair or fur.",
+     "do": "Call a new rule: 'Everyone with hair or fur.' Your child takes the old cards off the towel. Then your child puts on every animal card with hair or fur.",
      "say": "Now everyone with hair or fur. Who comes onto the towel now?",
      "kid": "Hair or fur? Stand on the towel. Which animals come too?",
      "ask": [
@@ -1339,20 +1339,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two sisters in Madurai, the first child and the second child, watch a hen in their neighbour's yard.",
+     "p": "Two sisters in Madurai watch a hen in their neighbour's yard.",
      "views": [
       {
-       "who": "The first child, aged 6",
+       "who": "The younger sister, aged 6",
        "says": "A hen is not a bird. Hens hardly fly."
       },
       {
-       "who": "The second child, aged 8",
+       "who": "The older sister, aged 8",
        "says": "A hen is a bird. She has feathers and a beak."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other sister has right.",
      "lines": 3,
-     "a": "A strong answer agrees with the second child, because every bird has feathers and a beak, and the hen has both. The first child is right that hens fly much less than crows. A hen can still fly a short way, up onto a wall.",
+     "a": "A strong answer agrees with the older sister, because every bird has feathers and a beak, and the hen has both. The younger sister is right that hens fly much less than crows. A hen can still fly a short way, up onto a wall.",
      "why": "Many children sort birds by flying. Feathers are the feature every bird has, whether they fly far or not."
     },
     {
@@ -1463,20 +1463,20 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and her friend the second person sort bird cards. One card shows a black male koel. Another shows a brown, spotted female koel.",
+     "p": "Meena and her friend Zoya sort bird cards. One card shows a black male koel. Another shows a brown, spotted female koel.",
      "views": [
       {
-       "who": "The first person",
+       "who": "Meena",
        "says": "Sort them by colour. You can see colour at once."
       },
       {
-       "who": "The second person",
+       "who": "Zoya",
        "says": "Colour can fool you. These two are both koels."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one way the other person's idea helps.",
      "lines": 3,
-     "a": "A strong answer agrees with the second person for these cards, because a male and a female koel are the same kind of bird with different colours. The first person is right that colour is quick to see, and bird watchers do use colour to tell many birds apart.",
+     "a": "A strong answer agrees with Zoya for these cards, because a male and a female koel are the same kind of bird with different colours. Meena is right that colour is quick to see, and bird watchers do use colour to tell many birds apart.",
      "why": "Colour is a useful clue, but it can split one kind of animal into two groups."
     },
     {
@@ -1795,11 +1795,11 @@
    "evidence": "In the Leaf Twins experiment, the two most alike curry leaves from one sprig did not match when laid on top of each other. Leaves from different plants all had a stalk and veins."
   },
   "three": {
-   "who_am_i": "You belong to many groups: two legs with the crow, hair with the cow. In every one of those groups, there is only one you.",
+   "who_am_i": "You belong to many groups. In the two-legs group you sit with the crow, and in the hair group you sit with the cow. But in every group, you are still one of a kind.",
    "what_is_life": "Life makes many beings of one kind, and makes each one a little different. Every leaf on the sprig grew its own way.",
    "what_is_this_world": "The world is full of groups, and inside every group each being is one of a kind."
   },
-  "thread": "A curry leaf plant grows hundreds of leaves, and no two come out the same. The plant senses the light at each spot and grows each leaf to suit that spot. Everything is conscious, the plant too.",
+  "thread": "A curry leaf plant grows hundreds of leaves, and no two come out the same. The plant senses the light at each spot and grows each leaf to suit that spot. Plants are conscious beings. They sense the world around them and respond to it.",
   "teachings": [
    {
     "source": "Gottfried Leibniz, fourth letter to Samuel Clarke (1716), section 4",
@@ -1829,8 +1829,8 @@
   "practice": {
    "title": "Two hands, one you",
    "mins": 3,
-   "say": "Put your two hands side by side, palms up. Both hands grew on the same body. Look at the lines on each palm. Are the lines the same? Now close your eyes. Press your palms together and feel their warmth. Breathe in slowly, and breathe out slowly.",
-   "kid": "Put your hands side by side. Look at the lines. Are they the same? Close your eyes. Press your palms together. Breathe in slowly, and out."
+   "say": "Put your two hands side by side, palms up. Both hands grew on the same body. Look at the lines on each palm. Are the lines the same? They are not. Two hands on one body are a little different, just like two leaves on one plant. Now close your eyes. Press your palms together and feel their warmth. Breathe in slowly, and breathe out slowly.",
+   "kid": "Put your hands side by side. Look at the lines. Are they the same? They are a little different, like two leaves on one plant. Close your eyes. Press your palms together. Breathe in slowly, and out."
   },
   "ask": [
    "If you searched every curry leaf in India, do you think you would find two exactly alike? Why?",

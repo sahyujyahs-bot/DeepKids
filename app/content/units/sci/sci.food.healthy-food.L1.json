@@ -101,7 +101,7 @@
    "perspectives": [
     {
      "who": "Scientists who study babies",
-     "explanation": "Liking sweet and disliking bitter is there from birth. Sweet foods usually carry energy, and many bitter things in nature can make you ill."
+     "explanation": "Liking sweet and disliking bitter is there from birth. Sweet foods usually give the body energy, which is the power to grow and move. Many bitter things in nature can make you ill, so a baby pulls a face at them."
     },
     {
      "who": "Scientists who study how children learn to eat, like Leann Birch",
@@ -137,7 +137,7 @@
    "for": "Our bodies do need water every day, and many people forget to drink.",
    "against": "How much water a person needs depends on their size, the weather and how much they run about. Some water also comes in food. Doctors have found no proof for one exact number for everyone. Drinking when you feel thirsty, and more on hot days, works well for most healthy children.",
    "status": "debated",
-   "context": "This card is about a popular rule for drinking water."
+   "context": "Some magazines say that every person should drink eight glasses of water each day. This card asks if one number can be right for everybody."
   },
   {
    "claim": "Sweets make children wild and jumpy.",
@@ -158,7 +158,7 @@
  ],
  "big_questions": [
   {
-   "q": "The water in a cucumber came from rain, through the cucumber plant's roots. When you eat the cucumber, whose water is it?",
+   "q": "The water in a cucumber first fell as rain. Then the plant drank it. Now you eat it. Who does that water belong to?",
    "kind": "deep",
    "hint": "Think about where the water was before the plant drank it, and where the water goes after it leaves you."
   },
@@ -466,10 +466,10 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Guess five fruits and vegetables by touch. Then pick one to eat today."
+     "what": "Guess five fruits and vegetables by touch. Then squeeze a piece of each to find the wettest. Then pick one to eat today."
     }
    ],
-   "record": "Draw the one that was hardest to guess.",
+   "record": "Draw the food that gave the most drops when you squeezed it.",
    "setup": [
     {
      "art": "A grown-up putting a lemon, an onion, a banana, a tomato and a carrot into a cloth pillow cover, while a child covers their eyes.",
@@ -502,9 +502,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Line up the five foods. 2. Ask which one your child thinks has the most water inside. 3. Ask which ones we eat raw and which we cook. 4. Let your child pick one to eat or cook with today.",
-     "say": "Which of these do you think has the most water inside? Which do we eat raw? Which do we cook? Which one would you like to eat today?",
-     "kid": "Which one has the most water inside? Which do we eat raw? Pick one to eat today.",
+     "do": "1. Line up the five foods. 2. Ask which one your child thinks has the most water inside. 3. A grown-up cuts a piece of each food. 4. Your child squeezes each piece over their palm, and sees which gives the most drops. 5. Let your child pick one to eat today.",
+     "say": "Which of these do you think has the most water inside? Squeeze a piece of each over your palm. Which gave the most drops? Now pick one to eat today.",
+     "kid": "Guess which has the most water. Squeeze a piece of each over your palm. Which gave the most drops?",
      "parent": "Children often eat more of a food they have touched and chosen themselves."
     }
    ]
@@ -723,7 +723,7 @@
       },
       {
        "f": "Curd",
-       "b": "Wet. Curd is mostly water, held thick."
+       "b": "Wet. Curd is mostly water, but the water is held inside a thick set, so it does not run."
       },
       {
        "f": "Banana",
@@ -927,7 +927,7 @@
     "Take turns. Turn over a card. A grown-up reads it aloud, then reads the back.",
     "Take out beans or put in beans, as the back says. If your cup is empty, you cannot take out any more.",
     "If you have 4 beans or fewer, say 'I'm thirsty!' On your next turn, you may drink instead of reading a card: put in 2 beans from the heap. Then take the top card off the pile and put it aside without reading it.",
-    "Play until the cards run out. Everyone who ends with 5 to 12 beans had a comfortable day. With more than 12 beans, you drank too much. With fewer than 5, you were thirsty. Can everyone have a comfortable day?"
+    "Play until the cards run out. Everyone who ends with 5 to 12 beans had a comfortable day. With more than 12 beans, you drank too much. With fewer than 5, you were thirsty. Then talk about which cards took water away, and which cards gave it back."
    ],
    "setup": [
     {
@@ -1138,7 +1138,7 @@
    ],
    "creative": [
     "Freeze a half-full bottle of water overnight, then fill it up in the morning. It stays cold for hours and keeps the tiffin cool too.",
-    "Wrap the bottle in a wet cotton cloth. As the water dries off the cloth, the bottle stays cooler.",
+    "Wrap the bottle in a wet cotton cloth. When the water dries off the cloth, it takes some heat from the bottle. So the bottle stays cooler.",
     "Pack a bottle of lemon water with a pinch of salt and a little sugar, for a drink that tastes good and replaces some of the water you sweat out."
    ],
    "your_turn": "Now plan your own tiffin. Draw it. Pack it on a real day, and see if it worked by lunchtime.",
@@ -1513,7 +1513,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Squeeze Test, the biscuit stayed dry when you squeezed it. Why?",
+   "p": "A biscuit stays dry when you squeeze it. Why?",
    "opts": [
     "It is baked until almost all the water is gone",
     "The hanky soaked up the water",
@@ -1576,7 +1576,7 @@
   },
   {
    "t": "mcq",
-   "p": "Before the Squeeze Test, you guessed that banana was dry. Then the banana made a damp mark on paper. What should you say?",
+   "p": "You guess that a banana is dry. Then a banana makes a damp mark on paper. What should you say?",
    "opts": [
     "My guess was wrong. The banana has some water inside.",
     "The test is broken.",
@@ -1601,7 +1601,7 @@
   }
  ],
  "applications": [
-  "Families keep water in clay pots in summer, because water seeping through the clay dries off the outside and keeps the water cool.",
+  "Families keep drinking water in clay pots in summer. A little water seeps through the clay to the outside. When that water dries off, it takes heat with it, so the water inside stays cool.",
   "Doctors give water with a little salt and sugar to people who have lost a lot of water from a tummy upset.",
   "Farmers and cooks know which vegetables keep well and which wilt fast, because of how much water they hold.",
   "Dentists teach children to rinse their mouths after sweets, to wash the sugar off their teeth."
@@ -1647,7 +1647,7 @@
   "When did you last feel thirsty? What were you doing?",
   "Is there a food you did not like before, but like now?",
   "Where do you think the water in a watermelon came from?",
-  "Why do you think we feel more thirsty after salty food?"
+  "Why do we need to drink more on a hot day than on a cool day?"
  ],
  "jokes": [
   {
@@ -1909,5 +1909,5 @@
   "art": "A woman scientist kneeling at a low table with a small child, offering a tiny spoonful from one of several little bowls, with a notebook beside her."
  },
  "playtest": "Walked through every card, game and experiment as a parent and a Class 1 child would, in a city flat. Fixed the squeeze test so the paper test and the squeeze test use the same mashed food, the napkin count is explained, and the hanky is tightly woven. Made the sorting game end clearly with ticks and baskets that match the maths question, gave the bean game a spare heap and a rule for skipped cards, made the feely bag and day-one taste steps match their minutes and schedules, shortened the story and the explanation cards, removed repeated worksheet questions (sweets, sugar, 8 glasses), gave the jokes she/he instead of it, renamed a repeated name. The three videos still have no checked link, so they stay marked to find; I did not invent any.",
- "warm": {"words": ["WATER", "DRINK", "FRUIT", "SWEAT", "TASTE"], "quiz": [["Every person needs to drink water every day.", true, "Your body loses water all day, so you must put some back."], ["Only drinks have water in them.", false, "Foods like cucumber and watermelon are mostly water."], ["A biscuit is full of water.", false, "A biscuit is dry, so nothing comes out when you squeeze it."], ["A cucumber has a lot of water inside it.", true, "When you squeeze it, drops of water come out."], ["Sweat is water that comes out of your skin.", true, "It helps your body cool down when you are hot."], ["Everyone needs exactly the same amount of water each day.", false, "A bigger body, a hot day or lots of running means you need more."], ["Sweets make children wild and jumpy.", false, "Careful tests found that sugar did not change how children behaved."], ["You may start to like a new food after you taste it a few times.", true, "Liking can be learned, one small taste at a time."], ["If you do not like a food once, you will never like it.", false, "Many children come to like a food after many small tastes."], ["Eating many kinds of food helps keep your body healthy.", true, "Different foods give your body different things it needs."]], "odd": [[["Cucumber", "Watermelon", "Orange", "Biscuit"], "Biscuit", "Cucumber, watermelon and orange are full of water; a biscuit is dry."], [["Plant", "Cow", "Child", "Stone"], "Stone", "Plants, cows and children are alive and need water; a stone is not alive."], [["Sweating", "Running in the sun", "A hot day", "Sitting in a cool room"], "Sitting in a cool room", "The first three make your body lose water and feel thirsty; a cool room does not."], [["Toffee stuck on teeth", "Sweet tea sipped all day", "Sugar left on teeth", "Brushing teeth"], "Brushing teeth", "The first three leave sugar on teeth, and sugar can make holes in them; brushing cleans the sugar off."], [["A little taste", "Trying it again", "Seeing others eat it", "Being forced to eat it"], "Being forced to eat it", "The first three help you learn to like a food; pushing you does not."]]}
+ "warm": {"words": ["WATER", "DRINK", "FRUIT", "SWEAT", "TASTE"], "quiz": [["Every person needs to drink water every day.", true, "Your body loses water all day, so you must put some back."], ["Only drinks have water in them.", false, "Foods like cucumber and watermelon are mostly water."], ["A biscuit is full of water.", false, "A biscuit is dry, so nothing comes out when you squeeze it."], ["A cucumber has a lot of water inside it.", true, "When you squeeze it, drops of water come out."], ["Sweat is water that comes out of your skin.", true, "It helps your body cool down when you are hot."], ["Everyone needs exactly the same amount of water each day.", false, "A bigger body, a hot day or lots of running means you need more."], ["Sweets make children wild and jumpy.", false, "Careful tests found that sugar did not change how children behaved."], ["You may start to like a new food after you taste it a few times.", true, "Liking can be learned, one small taste at a time."], ["If you do not like a food once, you will never like it.", false, "Many children come to like a food after many small tastes."], ["Eating many kinds of food helps keep your body healthy.", true, "Different foods give your body different things it needs."]], "odd": [[["Cucumber", "Watermelon", "Orange", "Biscuit"], "Biscuit", "Cucumber, watermelon and orange are full of water. A biscuit is dry."], [["Plant", "Cow", "Child", "Stone"], "Stone", "Plants, cows and children are alive and need water. A stone is not alive."], [["Sweating", "Running in the sun", "A hot day", "Sitting in a cool room"], "Sitting in a cool room", "The first three make your body lose water and feel thirsty. A cool room does not."], [["Toffee stuck on teeth", "Sweet tea sipped all day", "Sugar left on teeth", "Brushing teeth"], "Brushing teeth", "The first three leave sugar on teeth, and sugar can make holes in them. Brushing cleans the sugar off."], [["A little taste", "Trying it again", "Seeing others eat it", "Being forced to eat it"], "Being forced to eat it", "The first three help you learn to like a food. Pushing you does not."]]}
 }

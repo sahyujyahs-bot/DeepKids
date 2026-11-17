@@ -38,7 +38,7 @@ Scientists sort living beings so that they can find them, name them and learn ab
 ### No two living beings are exactly the same · *defined*
 **Definition:** Every living being is one of a kind. Beings in the same group share one feature, and are still different in many other ways.
 
-Lay two curry leaves on top of each other, and the edges do not match. One leaf grew in more light, and one grew later. Animals are the same: two crows both have grey necks, but one is bigger.
+Lay two curry leaves on top of each other, and the edges do not match. One leaf grew in more light, and one grew later. Animals are the same. Two crows can both have grey necks, but one is bigger.
 - e.g. Two leaves on one tulsi plant are different sizes.
 - e.g. Two crows on the window grill look alike, but one is a little bigger.
 - e.g. You and a friend may both have black hair, but you are not the same person.
@@ -56,7 +56,7 @@ You have two legs, so you go in the two-legs group with the crow and the hen. Yo
 - No two living beings are exactly the same. *How we know:* Leaves from one plant differ in size and shape. Even identical twins, who look almost the same, have different fingerprints.
 
 ## How we found out
-**Maria Sibylla Merian, a German painter and naturalist, with her daughter Dorothea, 1679 (her first caterpillar book) and 1705 (her book on the insects of Suriname).** About 350 years ago, many people in Europe believed that insects grew out of mud or rotting things. Maria Sibylla Merian, born in Frankfurt in Germany, wanted to see for herself. Since she was a girl she kept silkworms and other caterpillars in boxes, and fed them the leaves they ate. She watched them every day. She saw each caterpillar stop eating and turn into a still, hard case. Weeks later, a moth or a butterfly came out of the case. If you sort animals only by how they look, a caterpillar and a butterfly go in different groups. Merian showed that they are one animal at two ages. In 1679 she published a book of her paintings, showing each insect at every age on the plant they eat. In 1699, when she was 52, she sailed to Suriname in South America with her daughter Dorothea, to paint the insects there. Her book about them came out in 1705, and scientists still admire it today.  
+**Maria Sibylla Merian, a German painter and naturalist, with her daughter Dorothea, 1679 (her first caterpillar book) and 1705 (her book on the insects of Suriname).** About 350 years ago, many people in Europe believed that insects grew out of mud or rotting things. Maria Sibylla Merian, born in Frankfurt in Germany, wanted to see for herself. From the time she was a girl, she kept silkworms and other caterpillars in boxes, and fed them the leaves they ate. She watched them every day. She saw each caterpillar stop eating and turn into a still, hard case. Weeks later, a moth or a butterfly came out of the case. If you sort animals only by how they look, a caterpillar and a butterfly go in different groups. Merian showed that they are one animal at two ages. In 1679 she published a book of her paintings, showing each insect at every age on the plant they eat. In 1699, when she was 52, she sailed to Suriname in South America with her daughter Dorothea, to paint the insects there. Her book about them came out in 1705, and scientists still admire it today.  
 *What people believed before:* That insects grow out of mud or rotting things. By raising caterpillars and watching every stage, Merian showed that each insect comes from an egg laid by a mother, and that a caterpillar and a butterfly are the same animal.
 
 ## Challenging perspectives
@@ -71,24 +71,24 @@ You have two legs, so you go in the two-legs group with the crow and the hen. Yo
   Against: A male koel is shiny black, and a female koel is brown with white spots. They are the same kind of bird. A peacock is bright blue, and a peahen is mostly brown.
 
 ## Roots
-We have been sorting living beings into groups by what we can see. Now we ask what the leaf test tells us about belonging to a group.
+We have been sorting living beings into groups by what we can see. Now we ask what the Leaf Twins experiment tells us about belonging to a group.
 
-**Deep truth.** We chose the two curry leaves that looked most alike. Laid one on the other, their edges still did not match. A curry leaf and a palak leaf also both had a stalk and a vein down the middle. So leaves on one plant are all different, and leaves on different plants still share features.  
-*Habit it breaks:* We think beings in one group are all the same, and beings in different groups have nothing in common. A group is made from one shared feature. Every member is still different from all the others, and members of different groups still share a lot.  
-*Evidence:* In the leaf test, the two most alike curry leaves from one sprig did not match when laid on top of each other. Leaves from different plants all had a stalk and veins.
+**Deep truth.** In the Leaf Twins experiment, we chose the two curry leaves that looked most alike. When we laid one on the other, their edges still did not match. A curry leaf and a palak leaf also both had a stalk and a vein down the middle. So leaves on one plant are all different, and leaves on different plants still share features.  
+*Habit it breaks:* It is easy to think that beings in one group are all the same, and that beings in different groups have nothing in common. But a group is made from only one shared feature. Every member is still different from all the others, and members of different groups still share a lot.  
+*Evidence:* In the Leaf Twins experiment, the two most alike curry leaves from one sprig did not match when laid on top of each other. Leaves from different plants all had a stalk and veins.
 
-- *who am i:* You belong to many groups: two legs with the crow, hair with the cow. In every one of those groups, there is only one you.
+- *who am i:* You belong to many groups. In the two-legs group you sit with the crow, and in the hair group you sit with the cow. But in every group, you are still one of a kind.
 - *what is life:* Life makes many beings of one kind, and makes each one a little different. Every leaf on the sprig grew its own way.
 - *what is this world:* The world is full of groups, and inside every group each being is one of a kind.
 
-A curry leaf plant grows hundreds of leaves, and no two come out the same. The plant senses the light at each spot and grows each leaf to suit that spot. Everything is conscious, the plant too.
+A curry leaf plant grows hundreds of leaves, and no two come out the same. The plant senses the light at each spot and grows each leaf to suit that spot. Plants are conscious beings. They sense the world around them and respond to it.
 
-- **Gottfried Leibniz, fourth letter to Samuel Clarke (1716), section 4:** Leibniz told of a day in the palace garden at Herrenhausen in Germany. A clever gentleman said he could find two leaves exactly alike. Sophia, who lived in the palace, challenged him to do it. He searched the garden for a long time, and could not find two. Leibniz said that no two real things are ever exactly the same. (You searched one sprig of curry leaves, and found what the gentleman found: no two leaves exactly alike.)
-- **Isha Upanishad, verse 6:** A person who sees all beings in themselves, and themselves in all beings, hates no one. (In the family sort, you stood in the two-legs group with the crow and in the hair group with the cow. Finding what you share with other animals is one small way of seeing yourself in them.)
+- **Gottfried Leibniz, fourth letter to Samuel Clarke (1716), section 4:** Leibniz told of a day in the palace garden at Herrenhausen in Germany. A clever gentleman said he could find two leaves exactly alike. Sophia, who lived in the palace, challenged him to do it. He searched the garden for a long time, and could not find two. Leibniz said that no two real things are ever exactly the same. (In the Leaf Twins experiment, you searched one sprig of curry leaves and found what the gentleman found: no two leaves exactly alike.)
+- **Isha Upanishad, verse 6:** A person who sees all beings in themselves, and themselves in all beings, hates no one. (In Stand in My Group, you stood in the two-legs group with the crow and in the hair group with the cow. Finding what you share with other animals is one small way of seeing yourself in them.)
 - Science (settled): No two leaves are exactly alike, even on one plant. A leaf's size and shape depend on the kind of plant and on the light, water and warmth where that leaf grew.
 - Science (open): How a plant sets the size of each leaf is still being studied.
 - Other view, Plato, a philosopher in ancient Greece: Plato taught that the most real thing is the perfect idea of a leaf, not any one leaf. Every leaf we can touch is a copy of that idea, and the copies are never quite perfect. For him, the group is more real than each leaf in it.
-- Practice, Two hands, one you (3 min): Put your two hands side by side, palms up. Both hands grew on the same body. Look at the lines on each palm. Are the lines the same? Now close your eyes. Press your palms together and feel their warmth. Breathe in slowly, and breathe out slowly.
+- Practice, Two hands, one you (3 min): Put your two hands side by side, palms up. Both hands grew on the same body. Look at the lines on each palm. Are the lines the same? They are not. Two hands on one body are a little different, just like two leaves on one plant. Now close your eyes. Press your palms together and feel their warmth. Breathe in slowly, and breathe out slowly.
 - Ask: If you searched every curry leaf in India, do you think you would find two exactly alike? Why?
 - Ask: You are in the two-legs group with the crow. What else do you and the crow share?
 - Ask: If every curry leaf is different, what makes them all curry leaves?
@@ -146,9 +146,9 @@ Lakshmi went to the window and looked hard. Both crows had grey necks and black 
 
 "And I am faster," said Arun.
 
-That evening, Lakshmi made new labels for the baskets. On one, she drew a feather. On the other, she drew a feather with a big cross over it. Then, in the corner of that label, very small, she drew Arun.
+That evening, Lakshmi made new labels for the baskets. On one, she drew a feather. On the other, she drew a feather with a big cross over it. Arun has no feathers, so in the corner of that label, very small, she drew him.
 
-**For the parent:** Lakshmi's first rule, 'birds fly', made mistakes. A feature everyone can see, feathers, put every bird together. Then two crows of one kind turned out to be different from each other.
+**For the parent:** Lakshmi's first rule, 'birds fly', put the wrong animals together. The rule 'has feathers' worked, because everyone can see feathers. Then she learned that two crows in one group are still different from each other.
 
 - Ask: Why did the hen move into the bird basket?
 - Ask: Why did the bat move out of the bird basket?
@@ -156,7 +156,7 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
 
 ## Games
 ### g1 · Two Baskets: sort the animal cards (15 min)
-- **rules:** Put the two labels on the floor, a little apart. Each label is a basket. You can use two real baskets, two plates or two dupattas.; Mix the animal cards and put them in a pile, face up.; The grown-up calls out a rule: 'Has wings'.; Take turns. Pick up the top card, say the animal's name, and put the card on YES or NO.; If you are not sure, turn the card over. The grown-up reads the back.; When all the cards are sorted, count each basket. Then mix the cards and play again with a new rule: 'Has 4 legs', 'Has fur or hair', 'Has no legs'.
+- **rules:** Put the two labels on the floor, a little apart. Each label is a basket. You can use two real baskets, two plates or two dupattas.; Mix the animal cards and put them in a pile, face up.; The grown-up calls out a rule, for example 'Has wings'.; Take turns. Pick up the top card, say the animal's name, and put the card on YES or NO.; If you are not sure, turn the card over. The grown-up reads the back.; When all the cards are sorted, count each basket. Then mix the cards and play again with a new rule: 'Has 4 legs', 'Has fur or hair', 'Has no legs'.
 - **Printable cards: 16 animal cards to cut out:** 🐦 Crow (back: 2 legs, 2 wings, feathers and a beak.) [picture]; 🐔 Hen (back: 2 legs, 2 wings, feathers and a beak. She can fly a short way, up onto a wall.) [picture]; 🦚 Peacock (back: 2 legs, 2 wings, feathers and a beak. He has a long tail of bright feathers.) [picture]; 🦇 Bat (back: 2 wings, 2 legs and fur. No feathers and no beak. A bat mother feeds her baby milk.) [picture]; 🦋 Butterfly (back: 6 legs and 4 wings. No feathers.) [picture]; 🐜 Ant (back: 6 legs. The ants we see in the kitchen have no wings.) [picture]; 🕷️ Spider (back: 8 legs and no wings.) [picture]; 🦀 Crab (back: 10 legs. The front two end in big claws. A hard shell.) [picture]; 🐍 Snake (back: No legs. Dry skin covered in scales.) [picture]; 🪱 Earthworm (back: No legs. Soft, wet skin.) [picture]; 🐟 Fish (back: No legs. Fins for swimming, and most fish have scales.) [picture]; 🐸 Frog (back: 4 legs. Smooth, wet skin.) [picture]; 🦎 Gecko (back: 4 legs. Dry skin with tiny scales.) [picture]; 🐄 Cow (back: 4 legs and hair. A cow mother feeds her calf milk.) [picture]; 🐘 Elephant (back: 4 legs, a trunk and a little hair.) [picture]; 🧒 You (back: 2 legs, 2 arms and hair. A human mother feeds her baby milk.)
 - **Printable cards: 2 basket labels to cut out:** YES ✔ (back: Put the cards that fit the rule here.); NO ✘ (back: Put the cards that do not fit the rule here.)
 - **s1 (3 min)**  
@@ -185,7 +185,7 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
 - **rules:** Use the 16 animal cards from Two Baskets. Mix the 10 rule cards and put them face down.; The sorter takes a rule card and keeps it secret.; The sorter puts 6 animal cards into two groups using the secret rule. Both groups must have at least one card. If the rule cannot split these 6, take 6 other animals.; The others look at both groups and guess the rule. To help themselves, they can point to an animal card that is not in the groups and ask, 'Which group does the snake go in?' The sorter puts that card in the right group.; When someone guesses right, they become the sorter. With two players, you take turns. Play until everyone has been the sorter once or twice. Everyone who guessed a rule has won.; If the rule cards run out, mix them and use them again. A grown-up helps a child who cannot read yet by reading the rule card in a whisper.
 - **Printable cards: 10 secret rule cards to cut out:** Has wings; Has feathers; Has no legs; Has 2 legs; Has 4 legs; Has 6 legs; Has 8 legs or more; Has fur or hair; Has dry skin with scales; Has a beak
 - **s1 (3 min)**  
-  *Parent does:* You go first. Take the rule card 'Has feathers'. Make two groups: crow, hen, peacock, and bat, cow, snake.  
+  *Parent does:* You go first. Take the rule card 'Has feathers'. Make two groups: the crow, hen and peacock in one, and the bat, cow and snake in the other.  
   *Parent says:* I have a secret rule. Look at my two groups. What is the same about everyone in this group?  
   *Child mode:* Look at the two groups. What is the same in this group?
   - Ask: What is my rule? (good: Feathers.; They are all birds.; They all have beaks.)
@@ -209,7 +209,7 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
 - **record:** Trace the two leaves side by side. Draw a circle round one place where they are different. Then draw the other leaves, and circle one thing they all have.
 - **results table:** What we looked at | Same? | Different? How?
 - **s1 (3 min)**  
-  *Parent does:* 1. Show your child two steel spoons from one set. 2. Then show the sprig. 3. Ask for a guess and a reason. 4. Write the guess down.  
+  *Parent does:* 1. Show your child two steel spoons from one set. 2. Then show a sprig of curry leaves. 3. Ask for a guess and a reason. 4. Write the guess down.  
   *Parent says:* These two spoons came from a factory. Will two leaves from one plant be exactly the same? Why do you think so?  
   *Child mode:* Will two leaves from one plant be exactly the same? Guess. Why do you think so?
   - Ask: Why do you think so? (good: They grew on the same plant, so they must be the same.; Leaves are not made in a factory, so they might be different.)
@@ -218,7 +218,7 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
   *Parent does:* 1. Pull off several leaves and lay them on the white paper. 2. Your child picks the two that look most alike.  
   *Parent says:* Look at all the leaves. Find the two that look most like each other. Take your time.  
   *Child mode:* Look at all the leaves. Find two that look the most alike.
-  - Note: We pick the most alike pair on purpose. If even these two are different, the answer is strong. Small leaves are fiddly, so use big tulsi or money plant leaves if your child finds curry leaves too small.
+  - Note: We pick the most alike pair on purpose. If even these two are different, we can be sure of the answer. Small leaves are fiddly, so use big tulsi or money plant leaves if your child finds curry leaves too small.
 - **s3 (4 min)**  
   *Parent does:* 1. Lay one leaf exactly on top of the other. 2. Look at every edge, the tip and the stalk. 3. Then lay them side by side and trace round each one with the pencil.  
   *Parent says:* Put one leaf right on top of the other. Does any edge peep out? Now let's trace them both.  
@@ -227,14 +227,14 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
   - Note: With a magnifying glass, look at the tip, the stalk and any tiny spots. Children nearly always find a difference in size or tip. If the two outlines seem to match, look for a spot, a hole or a different stalk length.
 - **s4 (3 min)**  
   *Parent does:* 1. Put a leaf from each of two other plants next to a curry leaf. 2. Ask your child to find one thing all three have.  
-  *Parent says:* These leaves come from different plants, so they go in different groups. Can you find one thing they all have?  
+  *Parent says:* These leaves come from different plants. They look different from each other. Can you find one thing they all have?  
   *Child mode:* These leaves are from different plants. Find one thing they all have.
   - Ask: What do all the leaves have? (good: A stalk.; A line down the middle.; They are all green.; Little lines, the veins.)
   - Note: The line down the middle is a vein, which carries water through the leaf. Every one of these leaves has a stalk and veins.
 - **s5 (2 min)**  
-  *Parent does:* Ask your child to say what they found, what they saw, and why.  
+  *Parent does:* Ask your child whether their guess was right, what they saw, and why the two leaves were different.  
   *Parent says:* Was your guess right? What did you see? Why do you think two leaves from one plant came out different?  
-  *Child mode:* Was your guess right? What did you see? Why?
+  *Child mode:* Was your guess right? What did you see? Why were the two leaves different?
   - Ask: Why are the two leaves different? (good: One grew in more sun.; One grew first and one grew later.; Each leaf grew in its own place.)
   - Check: You laid two curry leaves from one sprig on top of each other. What did you find? → **They were alike, but not exactly the same**
 
@@ -247,7 +247,7 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
   - Ask: What do you notice? (good: Some are big and some are small.; This one smells strong.; This one is shiny.)
 - **s2 (4 min)**  
   *Parent does:* Your child chooses one feature and sorts every leaf onto the two plates by it.  
-  *Parent says:* Choose one thing to sort by. It can be big or small, shiny or dull, or smells strong or not. Put every leaf on one plate.  
+  *Parent says:* Choose one thing to sort by. You could sort by big or small, shiny or dull, or strong smell or no smell. Put every leaf on one plate.  
   *Child mode:* Choose one rule. Big or small? Shiny or dull? Put each leaf on a plate.
   - Note: Let your child choose. If a leaf could go either way, ask them to make the rule clearer: 'bigger than my palm' instead of 'big'.
 - **s3 (3 min)**  
@@ -262,13 +262,13 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
   *Child mode:* Two legs? Stand on the towel. Bring the animals with two legs.
   - Ask: Who is in our group? (good: Me, my grown-up, the crow, the hen, the peacock and the bat.; People and birds.)
 - **s2 (3 min)**  
-  *Parent does:* Call a new rule: 'Everyone with hair or fur.' Swap the cards.  
+  *Parent does:* Call a new rule: 'Everyone with hair or fur.' Your child takes the old cards off the towel. Then your child puts on every animal card with hair or fur.  
   *Parent says:* Now everyone with hair or fur. Who comes onto the towel now?  
   *Child mode:* Hair or fur? Stand on the towel. Which animals come too?
   - Ask: Who is in our group now? (good: The cow, the bat and the elephant.; All of us, and the animals with hair.)
   - Note: Humans are animals, and we are in groups with other animals because we share features with them.
 - **s3 (2 min)**  
-  *Parent does:* Ask the last question.  
+  *Parent does:* Ask your child whether they are the same as the crow.  
   *Parent says:* We were in the two-legs group, and in the hair group. You and a crow are both in the two-legs group. Are you the same as the crow?  
   *Child mode:* You and a crow both have two legs. Are you the same as the crow?
   - Check: You and a crow are both in the two-legs group. What does this tell you? → **You and the crow share one feature: two legs**
@@ -300,7 +300,7 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
   - Note: A crow, a pigeon, ants, a fly, a potted plant and people at home are nearly always there. Some may fit on two pages. That is fine.
   - Wait: Leave the book for tomorrow.
 - **s3 (8 min)**  
-  *Parent does:* Your child tells the book to someone at home, page by page, by looking at the drawings.  
+  *Parent does:* Your child shows the book to someone at home and explains each page from the drawings.  
   *Parent says:* Tell me about your book. Who is on the 'two legs' page? Did anyone fit on two pages?  
   *Child mode:* Show your book to someone. Who fits on two pages?
   - Ask: Who fits on two pages? (good: The crow has wings and two legs.; I have two legs, so I am on that page.)
@@ -333,7 +333,7 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
    **Answer:** crow → Wings; butterfly → Wings; bat → Wings; spider → No wings; snake → No wings; cow → No wings. *Why:* The crow, the butterfly and the bat all have wings. The spider, the snake and the cow have none.
 2. (match) Draw a line from each animal to the number of legs.  
    **Answer:** Ant → 6; Spider → 8; Cow → 4; Crow → 2. *Why:* An ant has 6 legs, a spider has 8, a cow has 4 and a crow has 2.
-3. (draw) Draw the two leaves you traced in the leaf test. Circle one place where they are different.  
+3. (draw) Draw the two leaves you traced in the Leaf Twins experiment. Circle one place where they are different.  
    **Answer:** Two leaf outlines, with a circle round a difference such as the tip, the size or a spot.. *Why:* A strong drawing shows two leaves that look alike, and points to a real difference the child found.
 4. (odd) Circle the one who does not belong in the 'has feathers' group.  
    Options: Crow / Peacock / Bat / Hen  
@@ -344,8 +344,8 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
    **Answer:** False. *Why:* False. A spider has 8 legs. An ant has 6, and so does every insect.
 7. (count) A hen and a cow stand in a yard. Count all their legs.  
    **Answer:** 6. *Why:* A hen has 2 legs and a cow has 4. 2 and 4 make 6.
-8. (perspective) Two sisters in Madurai, Anu and Divya, watch a hen in their neighbour's yard.  
-   **Answer:** A strong answer agrees with Divya, because every bird has feathers and a beak, and the hen has both. Anu is right that hens fly much less than crows. A hen can still fly a short way, up onto a wall.. *Why:* Many children sort birds by flying. Feathers are the feature every bird has, whether they fly far or not.
+8. (perspective) Two sisters in Madurai watch a hen in their neighbour's yard.  
+   **Answer:** A strong answer agrees with the older sister, because every bird has feathers and a beak, and the hen has both. The younger sister is right that hens fly much less than crows. A hen can still fly a short way, up onto a wall.. *Why:* Many children sort birds by flying. Feathers are the feature every bird has, whether they fly far or not.
 9. (write) Say it, and a grown-up writes it down: why is 'pretty or not pretty' a poor sorting rule?  
    **Answer:** Because people think different things are pretty, so each person would make different groups.. *Why:* A strong answer says that a good rule is one everyone can check the same way.
 10. (label) Say or write one feature you can see on each animal.  
@@ -361,8 +361,8 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
    **Answer:** 2. *Why:* The spider has 8 legs. The ant and the butterfly are insects, and every insect has 6 legs.
 4. (draw) Draw yourself in a group with two other animals. Draw the feature you all share at the top.  
    **Answer:** The child and two animals who share a feature, for example two legs with a crow and a hen, and that feature drawn at the top.. *Why:* A strong drawing shows a true feature that the child and both animals really have. Humans are animals and share many groups with other animals.
-5. (perspective) Kavya and her friend Farhan sort bird cards. One card shows a black male koel. Another shows a brown, spotted female koel.  
-   **Answer:** A strong answer agrees with Farhan for these cards, because a male and a female koel are the same kind of bird with different colours. Kavya is right that colour is quick to see, and bird watchers do use colour to tell many birds apart.. *Why:* Colour is a useful clue, but it can split one kind of animal into two groups.
+5. (perspective) Meena and her friend Zoya sort bird cards. One card shows a black male koel. Another shows a brown, spotted female koel.  
+   **Answer:** A strong answer agrees with Zoya for these cards, because a male and a female koel are the same kind of bird with different colours. Meena is right that colour is quick to see, and bird watchers do use colour to tell many birds apart.. *Why:* Colour is a useful clue, but it can split one kind of animal into two groups.
 6. (write) Say it, and a grown-up writes it down: two people in your family both have black hair. Name two ways they are different.  
    **Answer:** Any two true differences, such as height, age, voice, or what they like to eat.. *Why:* A strong answer names real differences between two people who share one feature. A group shares one feature, and its members still differ.
 7. (truefalse) Everyone in the 'has 4 legs' group is exactly the same.  
@@ -377,7 +377,7 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
 ## Videos
 
 ## Quiz
-1. (mcq) In the story, Lakshmi puts a crow, a hen and a peacock in one group. What is her rule?  
+1. (mcq) A crow, a hen and a peacock are in one group. What could the rule be?  
    Options: They all have feathers / They are all black / They all live in water  
    **Answer:** They all have feathers. *Why:* Every bird has feathers. The hen and the peacock are not black, and none of them lives in water.
 2. (mcq) Which of these animals has 8 legs?  
@@ -386,27 +386,27 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
 3. (mcq) A butterfly and a crow both have...  
    Options: Feathers / Wings / A beak  
    **Answer:** Wings. *Why:* Both have wings. Only the crow has feathers and a beak.
-4. (mcq) Kavya, a girl in your class, picks two tulsi leaves from one plant. Are they exactly the same?  
+4. (mcq) You pick two tulsi leaves from one plant. Are they exactly the same?  
    Options: Yes, leaves from one plant are exactly the same / No, they are a little different in size or shape / They are the same only when they are small  
-   **Answer:** No, they are a little different in size or shape. *Why:* Each leaf grows in a different spot and gets different light, so no two come out exactly the same. This is what the leaf test showed.
+   **Answer:** No, they are a little different in size or shape. *Why:* Each leaf grows in a different spot and gets different light, so no two come out exactly the same. This is what the Leaf Twins experiment showed.
 5. (mcq) Which group are you in?  
    Options: Has feathers / Has 2 legs / Has 6 legs  
    **Answer:** Has 2 legs. *Why:* You have 2 legs, like a crow and a hen. Humans are animals, and we share groups with other animals.
 6. (mcq) A bat and a cow are both in which group?  
    Options: Has fur or hair / Has a beak / Has 4 legs  
    **Answer:** Has fur or hair. *Why:* Both have fur or hair, and both mothers feed their babies milk. A bat has 2 legs and wings, so the bat is not in the 4-legs group.
-7. (mcq) Before the leaf test, what did you do first?  
-   Options: Guessed what would happen and said why / Threw away the leaves / Looked up the answer  
-   **Answer:** Guessed what would happen and said why. *Why:* Scientists guess first and give a reason. Then the test shows whether the guess was right.
+7. (mcq) What should a scientist do first, before doing a test?  
+   Options: Guess what will happen, and say why / Throw away the things to test / Look up the answer  
+   **Answer:** Guess what will happen, and say why. *Why:* Scientists guess first and give a reason. Then the test shows whether the guess was right.
 8. (mcq) Which of these animals has no legs?  
    Options: An earthworm / A frog / A gecko  
    **Answer:** An earthworm. *Why:* An earthworm has no legs and moves by stretching and squeezing her body. A frog and a gecko each have 4 legs.
-9. (mcq) Meena, a girl in Class 1, sorts leaves into 'big' and 'small'. Her brother says one leaf is in the middle. What can they do?  
+9. (mcq) You sort leaves into 'big' and 'small'. One leaf is in the middle, not clearly big or small. What can you do?  
    Options: Make the rule clearer, like 'bigger than my palm' / Throw that leaf away / Stop sorting  
    **Answer:** Make the rule clearer, like 'bigger than my palm'. *Why:* A clear rule gives a yes or a no for every leaf. Holding the leaf next to a palm settles it.
-10. (mcq) Maria Sibylla Merian watched caterpillars for many days. What did she find?  
-   Options: A caterpillar grows into a moth or a butterfly / Caterpillars grow out of mud / Caterpillars turn into fish  
-   **Answer:** A caterpillar grows into a moth or a butterfly. *Why:* Merian fed caterpillars and watched them. Each one made a hard case, and a moth or butterfly came out. They look different, but they are one animal.
+10. (mcq) You feed a caterpillar and watch her for many days. She makes a hard case, and later a butterfly comes out. What does this show?  
+   Options: A caterpillar grows into a butterfly / Caterpillars grow out of mud / Caterpillars turn into fish  
+   **Answer:** A caterpillar grows into a butterfly. *Why:* Watching the same animal day after day shows the change. A caterpillar and a butterfly look different, but they are one animal. Maria Sibylla Merian found this by watching.
 
 ## Applications
 - Bird watchers across India sort birds by beak, colour, size and tail, so they can name the bird they see.
@@ -444,9 +444,9 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
 - Knock knock. Who's there? Leaf. Leaf who? *Leaf me alone, I'm sorting!*
 
 ## Connected maths
-- In the 'has wings' group are a crow and a butterfly. Count all their legs. **8 legs.**. The crow has 2 legs and the butterfly has 6. 2 and 6 make 8. Both have wings, but they have very different numbers of legs. (queues `math.addition-subtraction.meaning.L1`)
-- Nandini, a girl in Class 1, sorted 9 animal cards. 4 cards have wings. The rest have no wings. How many have no wings? **5 cards have no wings.**. 4 and 5 make 9, so 5 cards are left. You can check by counting on from 4: 5, 6, 7, 8, 9. That is 5 more. (queues `math.addition-subtraction.word-problems.L1`)
-- In the leaf pile sort, Meena, a girl in Class 1, put 5 leaves on the 'big' plate and 3 on the 'small' plate. Which plate has more? How many more? **The 'big' plate has 2 more.**. 5 is more than 3. Count from 3 up to 5: 4, 5. That is 2 more. (queues `math.data.sorting-and-tallies.L1`)
+- A crow and a butterfly are both in the 'has wings' group. Count all their legs. **8 legs.**. The crow has 2 legs and the butterfly has 6. 2 and 6 make 8. Both have wings, but they have very different numbers of legs. (queues `math.addition-subtraction.meaning.L1`)
+- You sort 9 animal cards. 4 cards have wings. The rest have no wings. How many have no wings? **5 cards have no wings.**. 4 and 5 make 9, so 5 cards are left. You can check by counting on from 4: 5, 6, 7, 8, 9. That is 5 more. (queues `math.addition-subtraction.word-problems.L1`)
+- In the Leaf Pile Sort, there are 5 leaves on the 'big' plate and 3 on the 'small' plate. Which plate has more? How many more? **The 'big' plate has 2 more.**. 5 is more than 3. Count from 3 up to 5: 4, 5. That is 2 more. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
 Same and Different (sci.classification.L1): A short song about how living things can be alike and different.

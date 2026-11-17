@@ -64,7 +64,7 @@
    "concept": "Children inherit features from both parents",
    "status": "defined",
    "definition": "Children get features from their mother and from their father. This is called inheriting.",
-   "description": "A child gets features from both parents before birth. Inside every living being are tiny instructions for how to grow. Scientists call them genes. Half of a child's genes come from the mother, and half from the father. So a child may have the father's eyebrows and the mother's chin. A child can also have a feature that neither parent shows. It may come from a grandparent. It is the same for other animals and for plants.",
+   "description": "A child gets features from both parents before birth. Inside every living being are tiny instructions for how to grow. Scientists call them genes. Half of a child's genes come from the mother, and half from the father. So a child may have the father's eyebrows and the mother's chin. A child can also have a feature that neither parent shows. A parent can pass on a gene for a feature, even when the feature does not show on the parent. So the feature can skip a person, and then show up again in a child. It may come from a grandparent. It is the same for other animals and for plants.",
    "examples": [
     "A girl may have her Amma's dimple and her Appa's thick eyebrows.",
     "A boy with curly hair may have two parents with straight hair, and a grandmother with curls.",
@@ -78,7 +78,7 @@
    "concept": "Why children of the same parents are not the same",
    "status": "defined",
    "definition": "Brothers and sisters each get a different mix of features from their parents, and each grows in their own way.",
-   "description": "Two things make children of the same parents different. First, each child gets a different mix of the parents' features. One sister may get Amma's nose, and her brother may get Appa's nose. Second, each child grows in their own place. Peas from one pod are very much alike, because they have the same parent plant. Yet each pea sat in their own spot in the pod, and some may have got more food than others. So they grew to different sizes. Identical twins start from one egg that split in two, and still their fingerprints are different.",
+   "description": "Two things make children of the same parents different. First, each child gets a different mix of the parents' features. One sister may get Amma's nose, and her brother may get Appa's nose. Second, each child grows in their own place. Peas from one pod are very much alike, because they have the same parent plant. Yet each pea sat in their own spot in the pod, and some may have got more food than others. So they grew to different sizes. Identical twins start from one egg that split in two, so they have the same genes. Still, their fingerprints are different, because each twin grows in their own way.",
    "examples": [
     "In the Pod Sisters and Brothers experiment, all the peas were green and round, but no two were the same size.",
     "Kittens from one mother cat can be black, ginger, white or patchy.",
@@ -147,7 +147,7 @@
   {
    "q": "A mint plant grown from a cut stem is almost a copy of the parent. Is the new plant the same being, or someone new?",
    "kind": "big",
-   "hint": "Think about whether the two plants live in the same pot, drink the same water and grow the same new leaves."
+   "hint": "The new plant has the parent's features. But she is a separate plant, with her own roots, her own water and her own new leaves. Does that make her the same being, or someone new?"
   },
   {
    "q": "Why were the peas in one pod different sizes, if they all came from one plant?",
@@ -287,7 +287,7 @@
      "do": "1. Cut out the five feature cards. 2. Help your child draw the two Gumbi parents at the top of a sheet.",
      "say": "These are two pretend creatures, Amma Gumbi and Appa Gumbi. They are going to have four babies. Each baby gets every feature from one parent or the other.",
      "kid": "Meet Amma Gumbi and Appa Gumbi. They will have four babies.",
-     "parent": "This game is a pretend model. Real children get thousands of features from their parents, and some features mix in more complicated ways. But the main idea is true: a baby gets some features from each parent."
+     "parent": "This game is a pretend model. Real children get thousands of features from their parents, and some features mix in more complicated ways. But the main idea is true: a baby gets some features from each parent. The coin stands for chance: a baby gets each feature from one parent or the other, and nobody plans which."
     },
     {
      "id": "s2",
@@ -1161,14 +1161,14 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and the second child, two sisters in Kochi, look at their new baby cousin, Siddharth.",
+     "p": "Two sisters in Kochi look at their new baby cousin, Siddharth.",
      "views": [
       {
-       "who": "The first child, aged 7",
+       "who": "The older sister, aged 7",
        "says": "He looks just like his Amma. He has her round face."
       },
       {
-       "who": "The second child, aged 6",
+       "who": "The younger sister, aged 6",
        "says": "No, he looks like his Appa. He has his Appa's ears."
       }
      ],
@@ -1248,19 +1248,19 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and the second child, two girls in Hyderabad, are talking about pea plants.",
+     "p": "Two girls in Hyderabad are talking about pea plants.",
      "views": [
       {
-       "who": "The first child, aged 7",
+       "who": "Anjali, aged 7",
        "says": "If a tall pea plant and a short pea plant have babies, the babies will be medium, like mixing two paints."
       },
       {
-       "who": "The second child, aged 6",
+       "who": "Fatima, aged 6",
        "says": "The babies might all be tall, or all short."
       }
      ],
      "ask": "Who do you agree with? How could the girls find out? Then say why the other girl's idea makes sense too.",
-     "a": "The second child is closer. When Gregor Mendel did this, all the babies were tall. Short plants came back in the next generation. The first child's idea makes sense, because many children look a bit like both parents.",
+     "a": "Fatima is closer. When Gregor Mendel did this, all the babies were tall. Short plants came back in the next generation. Anjali's idea makes sense too, because many children look a bit like both parents.",
      "why": "A strong answer says to grow the seeds and look, and is fair to the first child's idea."
     },
     {
@@ -1704,7 +1704,7 @@
    {
     "source": "Thirukkural 68",
     "teaching": "When children grow wiser than their parents, it brings joy to everyone in the world.",
-    "link": "A child is never just a copy of the parents. Each child is someone new, who can become more than anyone before them."
+    "link": "A child is not only a copy of the parents. Each child is someone new, who may one day know more than their parents do."
    }
   ],
   "science": [
