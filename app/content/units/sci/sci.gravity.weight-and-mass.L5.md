@@ -40,7 +40,7 @@
 People often use the two words for the same thing, and shops call the mass printed on a packet its 'net weight'. In science they are two different quantities. Mass belongs to the thing. A packet of rice has the same grains, and so the same mass, wherever you take it. Weight is a force between the thing and a world. It depends on how strongly that world pulls. To find a weight, multiply the mass by the strength of gravity. On Earth that strength is about 9.8 newtons for each kilogram, and for quick sums we use 10. So 1 kilogram weighs about 10 newtons, and 100 grams weighs about 1 newton. Mass also shows up in a second way. A thing with more mass is harder to start moving and harder to stop. This is called inertia, and it is the same on every world.
 - e.g. A 3 kilogram school bag weighs about 30 newtons on Earth. On the Moon its mass is still 3 kilograms, and it weighs about 5 newtons.
 - e.g. In Hit the Bottles, a string held up each bottle's weight. The full bottle was still much harder to hit away than the nearly empty one.
-- e.g. An Apollo astronaut with suit and backpack had a mass of about 150 kilograms. On the Moon he felt light, but he was still slow to start, stop and turn.
+- e.g. An Apollo astronaut with suit and backpack had a mass of more than 150 kilograms. On the Moon he felt light, but he was still slow to start, stop and turn.
 ### Gravity pulls towards the centre of the Earth · *defined*
 **Definition:** Gravity is a non-contact force. The Earth's gravity pulls every thing towards the centre of the Earth, whether the thing is still or moving.
 
@@ -124,7 +124,7 @@ The two jobs could have been set by two different amounts. A stone might have ha
 - **Many physicists today:** Einstein's idea fits every test so far. But it has not been joined with the physics of the very small. So the match may yet fail at some very fine level.
 
 ## Mostly agreed
-- Mass stays the same on every world, and weight changes with the strength of gravity. *How we know:* The rocks that Apollo astronauts weighed on the Moon were weighed again on Earth. Each weight was about six times bigger, and each mass was unchanged.
+- Mass stays the same on every world, and weight changes with the strength of gravity. *How we know:* Moon rocks that astronauts carried home weigh about six times as much on Earth as they did on the Moon. Their mass is unchanged.
 - The Earth's gravity pulls everything towards the centre of the Earth. *How we know:* Plumb lines hang towards the centre at every place on Earth, and people stand upright all round the globe.
 - A surface pushes back on anything that presses on it, with a force at right angles to the surface. *How we know:* Scales and force sensors measure this push directly. Engineers use it to design every floor, bridge and chair.
 - Solid surfaces give way a little under every load, even when we cannot see it. *How we know:* Fine instruments measure the tiny bending of floors, bridges and steel beams. A digital scale works by measuring such bending.
@@ -132,7 +132,7 @@ The two jobs could have been set by two different amounts. A stone might have ha
 - Jupiter and Saturn have no solid surface. *How we know:* Their average density is far too low for solid rock. In 1995 the Galileo probe sank into Jupiter for about an hour and met only gas.
 
 ## How we found out
-**The scientists of the International Bureau of Weights and Measures near Paris, who compared the lumps, and Bryan Kibble, who invented the balance, The lump was chosen in 1889. It was compared with its copies from 1988 to 1992 and in 2014. The kilogram was redefined on 20 May 2019..** In 1889, a small cylinder of platinum and iridium was chosen to be the kilogram. It is about as tall and as wide as a plum, and it had been made in 1879. It is kept in a locked vault near Paris, and people call it Le Grand K. Copies were made and sent to many countries. India's copy is kept at the National Physical Laboratory in New Delhi. Everyone believed that the master lump never changed. A kilogram was the mass of that lump, so it could not be wrong. From 1988 to 1992, and again in 2014, scientists compared the master with its copies. The copies had drifted away from it by about 50 micrograms in a hundred years. That is about the mass of a grain of fine dust. No one could say which lump had changed, because each was only measured against the others. So on 20 May 2019, the kilogram was defined through a number of nature, the Planck constant. The new method uses a Kibble balance, invented by Bryan Kibble in 1975. It balances the weight of a mass against an electric force. Because weight depends on gravity, the balance must also measure the strength of gravity at its place very exactly.  
+**The scientists of the International Bureau of Weights and Measures near Paris, who compared the lumps, and Bryan Kibble, who invented the balance, The lump was chosen in 1889. It was compared with its copies from 1988 to 1992 and in 2014. The kilogram was redefined on 20 May 2019..** In 1889, a small cylinder of platinum and iridium was chosen to be the kilogram. It is about as tall and as wide as a plum, and it had been made in 1879. It is kept in a locked vault near Paris, and people call it Le Grand K. Copies were made and sent to many countries. India's copy is kept at the National Physical Laboratory in New Delhi. Everyone believed that the master lump never changed. A kilogram was the mass of that lump, so it could not be wrong. From 1988 to 1992, and again in 2014, scientists compared the master with its copies. The copies had drifted away from it by about 50 micrograms in a hundred years. That is about the mass of a speck of fine dust. No one could say which lump had changed, because each was only measured against the others. So on 20 May 2019, the kilogram was defined through a number of nature, the Planck constant. The new method uses a Kibble balance, invented by Bryan Kibble in 1975. It balances the weight of a mass against an electric force. Because weight depends on gravity, the strength of gravity at its place must be measured very exactly.  
 *What people believed before:* That a master lump of metal never changes, and so can define the kilogram for ever. The comparisons showed the copies and the master drifting apart by about 50 micrograms in a hundred years.
 
 ## Challenging perspectives
@@ -188,7 +188,7 @@ A book, a table, a floor, a pillar and the ground look like separate things. In 
 - *big:* Shops sell rice by the kilogram, which is mass, but they measure it with a pull. Is that fair on every floor of every building? (hint: A balance compares masses. A spring scale measures weight. Which would you trust on a mountain?)
 
 ## Story: The Slow Start
-*A made-up story. Revathi Chithi, Thenu, Karthik and the cable test are imagined. These things are real. The rover Pragyan has six wheels, a mass of about 26 kilograms, and travelled on the Moon at about 1 centimetre each second. It was carried by Chandrayaan-3, which landed on 23 August 2023. ISRO tested its rover on a copy of Moon soil made from rock from Tamil Nadu. Space agencies do use cables and counterweights to make a machine feel as light on Earth as it would on the Moon. The Moon's strength of gravity is about 1.6 newtons for each kilogram, about one sixth of the Earth's.*
+*A made-up story. Revathi Chithi, Thenu, Karthik and the cable test are imagined. These things are real. The rover Pragyan has six wheels, a mass of about 26 kilograms, and travelled on the Moon at about 1 centimetre each second. It was carried by Chandrayaan-3, which landed on 23 August 2023. ISRO tested its Moon rovers on a copy of Moon soil made from rock from Tamil Nadu. Space agencies do use cables, counterweights or balloons to make a machine feel as light on Earth as it would on the Moon. The Moon's strength of gravity is about 1.6 newtons for each kilogram, about one sixth of the Earth's.*
 
 Thenu was ten, and it was her first time inside the satellite centre in Bengaluru. It was Family Day. Her aunt Revathi worked here, and she had promised to show Thenu the rover.
 
@@ -778,9 +778,9 @@ Months later, Thenu sat in front of the television at home on the evening of the
    **Answer:** 600000. *Why:* 60 times 1,000 is 60,000 kilograms. Each kilogram weighs about 10 newtons, so 60,000 times 10 is 600,000 newtons.
 
 ## Videos
-- **A hammer and a feather dropped on the Moon (Apollo 15, 1971)** (, 2 min) id `to find`: To see the two things land together on the Moon, where there is no air, and hear the astronaut say why. *Check:* No address yet. Find the NASA clip of David Scott dropping a hammer and a falcon feather on 2 August 1971. Check that it is the real film from the Moon, and not a re-enactment.
-- **Mass and weight, and why a bathroom scale is really measuring a push** (, 5 min) id `to find`: To see the difference between mass and weight, and the normal force, explained with a scale and a lift. *Check:* No address yet. Find a short lesson from a science museum, a university or a well-known education channel. Check that it gives mass in kilograms and weight in newtons, and that it says a scale measures the normal force.
-- **How the kilogram was redefined in 2019, and how a Kibble balance works** (, 5 min) id `to find`: To see why a lump of metal in Paris no longer defines the kilogram. It also shows how a balance uses an electric force to weigh a mass. *Check:* No address yet. Find a film from a standards laboratory such as NIST, NPL or BIPM. Check that it says the kilogram was redefined on 20 May 2019 and that the balance must know the local strength of gravity.
+- **David Scott does the feather hammer experiment on the moon | Science News** (Science News, 2 min) id `Oo8TaPVsn9Y`: To see the two things land together on the Moon, where there is no air, and hear the astronaut say why. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Normal Force in the Elevator** (C. Stephen Murray, 5 min) id `EJPeXrxOTwo`: To see the difference between mass and weight, and the normal force, explained with a scale and a lift. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **The kg is dead, long live the kg** (Veritasium, 5 min) id `c_e1wITe_ig`: To see why a lump of metal in Paris no longer defines the kilogram. It also shows how a balance uses an electric force to weigh a mass. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Which of these is the same on every world?  
@@ -823,7 +823,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 ## Applications
 - Engineers add up the load on every pillar, beam and foundation of a building, from the roof down to the ground. The lowest parts carry the most.
 - Bathroom scales, kitchen scales and baby scales measure the push between a thing and the scale, and show it as a mass. They are set for the strength of gravity on Earth.
-- Space agencies, such as ISRO, work out the weight of a rover or lander on the Moon and Mars from its mass. They test wheels with cables that take weight away.
+- Space agencies, such as ISRO, work out the weight of a rover or lander on the Moon and Mars from its mass. To test a machine on Earth, they can use cables or balloons that take some of its weight away.
 - Lorries, buses and trains are weighed on weighbridges and the load is limited, so that roads and bridges are not overloaded.
 - A lift has a limit in kilograms. When it starts to rise, its floor and cable must push and pull harder than the weight.
 - Athletes and dancers use the push of the ground. A jumper presses down on the ground and is pushed up with more than her weight.
@@ -884,7 +884,7 @@ Gravity (sci.gravity.L5): Topic-level song
 ## Links
 - [PhET Forces and Motion: Basics](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: Push a crate and a person on a surface, and see the forces on them as arrows.
 - [PhET Gravity Force Lab](https://phet.colorado.edu/en/simulations/gravity-force-lab) · simulation: Change two masses and the distance between them, and see how the pull changes.
-- [Exploratorium: Your Weight on Other Worlds](https://www.exploratorium.edu/ronh/weight/) · interactive: Type in your weight and see it on the Moon, Mars, Jupiter and other worlds.
+- [Exploratorium: Your Weight on Other Worlds](https://www.exploratorium.edu/explore/solar-system/weight/) · interactive: Type in your weight and see it on the Moon, Mars, Jupiter and other worlds.
 - [NASA Planetary Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/) · interactive: For the parent: the masses, widths and surface gravity of the planets, used in Pull Detective.
 - [ISRO, the Indian Space Research Organisation](https://www.isro.gov.in/) · interactive: News and pictures of Chandrayaan-3 and its rover, Pragyan.
 - [CSIR National Physical Laboratory](https://www.nplindia.org/) · place · New Delhi: India's national laboratory for measurement, which keeps the country's standard kilogram. Ask whether visits are open before you go.
@@ -918,7 +918,9 @@ Gravity (sci.gravity.L5): Topic-level song
 - Newton, I. (1687). Philosophiae Naturalis Principia Mathematica, Book 3, Proposition 6 (the pendulum tests with gold, silver, lead, glass, sand, salt, wood, water and wheat).
 - Touboul, P. and others (2022). MICROSCOPE mission: final results of the test of the equivalence principle. Physical Review Letters 129, 121102.
 - Einstein, A. (1915). Die Feldgleichungen der Gravitation. Sitzungsberichte der Koniglich Preussischen Akademie der Wissenschaften.
-- NASA National Space Science Data Center, Planetary Fact Sheet (masses, radii and surface gravity of the planets and the Sun).
+- NASA National Space Science Data Center, Planetary Fact Sheet (masses, radii and surface gravity of the planets and the Sun; the strengths of gravity for the giant planets in this unit are worked out from its masses and widths, so they differ a little from the equator values it prints).
+- CSIR National Physical Laboratory, Mass Metrology (India's copy of the kilogram, NPK-57, is kept there).
+- ISRO, Chandrayaan-3 landing brochure (rover mass 26 kilograms).
 - Seiff, A. and others (1998). Thermal structure of Jupiter's atmosphere near the edge of a 5-micrometre hot spot in the north equatorial belt. Journal of Geophysical Research 103, 22857 (the Galileo probe).
 - Wahl, S. M. and others (2017). Comparing Jupiter interior structure models to Juno gravity measurements and the role of a dilute core. Geophysical Research Letters 44, 4649.
 - Davis, R., Barat, P. and Stock, M. (2016). A brief history of the unit of mass: continuity of successive definitions of the kilogram. Metrologia 53, A12.

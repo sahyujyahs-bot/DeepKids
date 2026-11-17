@@ -129,7 +129,7 @@
    "examples": [
     "A 3 kilogram school bag weighs about 30 newtons on Earth. On the Moon its mass is still 3 kilograms, and it weighs about 5 newtons.",
     "In Hit the Bottles, a string held up each bottle's weight. The full bottle was still much harder to hit away than the nearly empty one.",
-    "An Apollo astronaut with suit and backpack had a mass of about 150 kilograms. On the Moon he felt light, but he was still slow to start, stop and turn."
+    "An Apollo astronaut with suit and backpack had a mass of more than 150 kilograms. On the Moon he felt light, but he was still slow to start, stop and turn."
    ],
    "perspectives": [],
    "art": "A school bag on a two-pan balance reading 3 kilograms on Earth and on the Moon, and the same bag on a spring scale showing a long stretch on Earth and a short stretch on the Moon."
@@ -295,7 +295,7 @@
  "agreed": [
   {
    "text": "Mass stays the same on every world, and weight changes with the strength of gravity.",
-   "evidence": "The rocks that Apollo astronauts weighed on the Moon were weighed again on Earth. Each weight was about six times bigger, and each mass was unchanged."
+   "evidence": "Moon rocks that astronauts carried home weigh about six times as much on Earth as they did on the Moon. Their mass is unchanged."
   },
   {
    "text": "The Earth's gravity pulls everything towards the centre of the Earth.",
@@ -409,7 +409,7 @@
   "title": "The Slow Start",
   "mins": 12,
   "read_aloud": true,
-  "note": "A made-up story. Revathi Chithi, Thenu, Karthik and the cable test are imagined. These things are real. The rover Pragyan has six wheels, a mass of about 26 kilograms, and travelled on the Moon at about 1 centimetre each second. It was carried by Chandrayaan-3, which landed on 23 August 2023. ISRO tested its rover on a copy of Moon soil made from rock from Tamil Nadu. Space agencies do use cables and counterweights to make a machine feel as light on Earth as it would on the Moon. The Moon's strength of gravity is about 1.6 newtons for each kilogram, about one sixth of the Earth's.",
+  "note": "A made-up story. Revathi Chithi, Thenu, Karthik and the cable test are imagined. These things are real. The rover Pragyan has six wheels, a mass of about 26 kilograms, and travelled on the Moon at about 1 centimetre each second. It was carried by Chandrayaan-3, which landed on 23 August 2023. ISRO tested its Moon rovers on a copy of Moon soil made from rock from Tamil Nadu. Space agencies do use cables, counterweights or balloons to make a machine feel as light on Earth as it would on the Moon. The Moon's strength of gravity is about 1.6 newtons for each kilogram, about one sixth of the Earth's.",
   "text": [
    "Thenu was ten, and it was her first time inside the satellite centre in Bengaluru. It was Family Day. Her aunt Revathi worked here, and she had promised to show Thenu the rover.",
    "The test hall was as big as a school ground. Half of the floor was a long grey tray, filled with rock powder. \"It comes from hills in Tamil Nadu,\" said Revathi Chithi. \"We ground it very fine, so that it behaves like the soil on the Moon.\"",
@@ -3165,37 +3165,34 @@
  ],
  "videos": [
   {
-   "title": "A hammer and a feather dropped on the Moon (Apollo 15, 1971)",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "David Scott does the feather hammer experiment on the moon | Science News",
+   "channel": "Science News",
+   "youtube": "Oo8TaPVsn9Y",
    "mins": 2,
    "why": "To see the two things land together on the Moon, where there is no air, and hear the astronaut say why.",
-   "check": "No address yet. Find the NASA clip of David Scott dropping a hammer and a falcon feather on 2 August 1971. Check that it is the real film from the Moon, and not a re-enactment."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Mass and weight, and why a bathroom scale is really measuring a push",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Normal Force in the Elevator",
+   "channel": "C. Stephen Murray",
+   "youtube": "EJPeXrxOTwo",
    "mins": 5,
    "why": "To see the difference between mass and weight, and the normal force, explained with a scale and a lift.",
-   "check": "No address yet. Find a short lesson from a science museum, a university or a well-known education channel. Check that it gives mass in kilograms and weight in newtons, and that it says a scale measures the normal force."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "How the kilogram was redefined in 2019, and how a Kibble balance works",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "The kg is dead, long live the kg",
+   "channel": "Veritasium",
+   "youtube": "c_e1wITe_ig",
    "mins": 5,
    "why": "To see why a lump of metal in Paris no longer defines the kilogram. It also shows how a balance uses an electric force to weigh a mass.",
-   "check": "No address yet. Find a film from a standards laboratory such as NIST, NPL or BIPM. Check that it says the kilogram was redefined on 20 May 2019 and that the balance must know the local strength of gravity."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
   "Engineers add up the load on every pillar, beam and foundation of a building, from the roof down to the ground. The lowest parts carry the most.",
   "Bathroom scales, kitchen scales and baby scales measure the push between a thing and the scale, and show it as a mass. They are set for the strength of gravity on Earth.",
-  "Space agencies, such as ISRO, work out the weight of a rover or lander on the Moon and Mars from its mass. They test wheels with cables that take weight away.",
+  "Space agencies, such as ISRO, work out the weight of a rover or lander on the Moon and Mars from its mass. To test a machine on Earth, they can use cables or balloons that take some of its weight away.",
   "Lorries, buses and trains are weighed on weighbridges and the load is limited, so that roads and bridges are not overloaded.",
   "A lift has a limit in kilograms. When it starts to rise, its floor and cable must push and pull harder than the weight.",
   "Athletes and dancers use the push of the ground. A jumper presses down on the ground and is pushed up with more than her weight.",
@@ -3398,7 +3395,7 @@
   },
   {
    "title": "Exploratorium: Your Weight on Other Worlds",
-   "url": "https://www.exploratorium.edu/ronh/weight/",
+   "url": "https://www.exploratorium.edu/explore/solar-system/weight/",
    "kind": "interactive",
    "why": "Type in your weight and see it on the Moon, Mars, Jupiter and other worlds."
   },
@@ -3668,7 +3665,9 @@
    "Newton, I. (1687). Philosophiae Naturalis Principia Mathematica, Book 3, Proposition 6 (the pendulum tests with gold, silver, lead, glass, sand, salt, wood, water and wheat).",
    "Touboul, P. and others (2022). MICROSCOPE mission: final results of the test of the equivalence principle. Physical Review Letters 129, 121102.",
    "Einstein, A. (1915). Die Feldgleichungen der Gravitation. Sitzungsberichte der Koniglich Preussischen Akademie der Wissenschaften.",
-   "NASA National Space Science Data Center, Planetary Fact Sheet (masses, radii and surface gravity of the planets and the Sun).",
+   "NASA National Space Science Data Center, Planetary Fact Sheet (masses, radii and surface gravity of the planets and the Sun; the strengths of gravity for the giant planets in this unit are worked out from its masses and widths, so they differ a little from the equator values it prints).",
+   "CSIR National Physical Laboratory, Mass Metrology (India's copy of the kilogram, NPK-57, is kept there).",
+   "ISRO, Chandrayaan-3 landing brochure (rover mass 26 kilograms).",
    "Seiff, A. and others (1998). Thermal structure of Jupiter's atmosphere near the edge of a 5-micrometre hot spot in the north equatorial belt. Journal of Geophysical Research 103, 22857 (the Galileo probe).",
    "Wahl, S. M. and others (2017). Comparing Jupiter interior structure models to Juno gravity measurements and the role of a dilute core. Geophysical Research Letters 44, 4649.",
    "Davis, R., Barat, P. and Stock, M. (2016). A brief history of the unit of mass: continuity of successive definitions of the kilogram. Metrologia 53, A12.",
@@ -3682,7 +3681,7 @@
  },
  "how_we_found_out": {
   "context": "How do we know what a kilogram is? This card tells how one lump of metal defined it for 130 years. It also tells which idea about the lump turned out wrong.",
-  "story": "In 1889, a small cylinder of platinum and iridium was chosen to be the kilogram. It is about as tall and as wide as a plum, and it had been made in 1879. It is kept in a locked vault near Paris, and people call it Le Grand K. Copies were made and sent to many countries. India's copy is kept at the National Physical Laboratory in New Delhi. Everyone believed that the master lump never changed. A kilogram was the mass of that lump, so it could not be wrong. From 1988 to 1992, and again in 2014, scientists compared the master with its copies. The copies had drifted away from it by about 50 micrograms in a hundred years. That is about the mass of a grain of fine dust. No one could say which lump had changed, because each was only measured against the others. So on 20 May 2019, the kilogram was defined through a number of nature, the Planck constant. The new method uses a Kibble balance, invented by Bryan Kibble in 1975. It balances the weight of a mass against an electric force. Because weight depends on gravity, the balance must also measure the strength of gravity at its place very exactly.",
+  "story": "In 1889, a small cylinder of platinum and iridium was chosen to be the kilogram. It is about as tall and as wide as a plum, and it had been made in 1879. It is kept in a locked vault near Paris, and people call it Le Grand K. Copies were made and sent to many countries. India's copy is kept at the National Physical Laboratory in New Delhi. Everyone believed that the master lump never changed. A kilogram was the mass of that lump, so it could not be wrong. From 1988 to 1992, and again in 2014, scientists compared the master with its copies. The copies had drifted away from it by about 50 micrograms in a hundred years. That is about the mass of a speck of fine dust. No one could say which lump had changed, because each was only measured against the others. So on 20 May 2019, the kilogram was defined through a number of nature, the Planck constant. The new method uses a Kibble balance, invented by Bryan Kibble in 1975. It balances the weight of a mass against an electric force. Because weight depends on gravity, the strength of gravity at its place must be measured very exactly.",
   "who": "The scientists of the International Bureau of Weights and Measures near Paris, who compared the lumps, and Bryan Kibble, who invented the balance",
   "when": "The lump was chosen in 1889. It was compared with its copies from 1988 to 1992 and in 2014. The kilogram was redefined on 20 May 2019.",
   "wrong_idea": "That a master lump of metal never changes, and so can define the kilogram for ever. The comparisons showed the copies and the master drifting apart by about 50 micrograms in a hundred years.",
@@ -3740,5 +3739,5 @@
   ],
   "art": "A pile of books on a table in a flat, with a row of arrows growing longer down through the table, the floor, a pillar and the ground, ending at the whole Earth."
  },
- "playtest": "The experiments, activities and games were reasoned through step by step, as a family in a flat would do them. They have not yet been tried at home. The Dough Stack (core) needs eight books of about the same size and stiff atta dough. How wide the balls spread depends on the stiffness and the weight of the books, so the trial step tells you to make the dough stiffer or softer first. Dough keeps flowing slowly, so the 5 minutes matter. The widths will not go up in exact steps. Lift, Press and Tilt (core) needs a kitchen scale in grams and a 1 kilogram packet. Some scales are a little off when tilted, so the readings on the board may differ from the expected 980, 940 and 870 grams by a few percent. The scale must be zeroed while tilted and empty. A grown-up should stand by for the tilt part. The Spreading Square needs a dark room and a phone torch, which is nearly a point of light. A torch with a mirror behind the bulb gives a beam that does not spread in the same way. The edges of the lit square are fuzzy, so the sides will be about 6, 12 and 18 centimetres, give or take a centimetre. It is a model of how a pull spreads out, and not a measurement of gravity. Hit the Bottles needs a stick across two heavy chairs and a grown-up to check it. The full bottle may swing only 1 or 2 centimetres, so a phone film helps. The other activities need only paper, a calculator, books and the kitchen scale. Be the Table needs a grown-up to press on the books. The Load on the Pillar needs a building with at least three floors and a grown-up. The Three-Storey Paper Tower depends on how well the tubes are rolled and taped. The first step tests one tube, so the number of loads can be changed. The 50-Newton Pack is a paper and calculator challenge, and the bag of 5 bottles is only to feel the load. No part needs a garden or an animal. Facts to treat with care: the strength of gravity numbers are rounded from NASA's tables, and Jupiter's number is given as about 25. The 1,000 kilograms for each square metre of floor in the Load on the Pillar is a rough rule of thumb, and real engineers add up every part. The wheel grip and cable test in the story is imagined, and it is not known whether ISRO used a cable in this way. India's standard kilogram being kept at the National Physical Laboratory is from memory. The two verses are paraphrased: Atharva Veda 12.1.12 and the passage in chapter 26 of the Zhuangzi. The three videos have no address yet."
+ "playtest": "The experiments, activities and games were reasoned through step by step, as a family in a flat would do them. They have not yet been tried at home. The Dough Stack (core) needs eight books of about the same size and stiff atta dough. How wide the balls spread depends on the stiffness and the weight of the books, so the trial step tells you to make the dough stiffer or softer first. Dough keeps flowing slowly, so the 5 minutes matter. The widths will not go up in exact steps. Lift, Press and Tilt (core) needs a kitchen scale in grams and a 1 kilogram packet. Some scales are a little off when tilted, so the readings on the board may differ from the expected 980, 940 and 870 grams by a few percent. The scale must be zeroed while tilted and empty. A grown-up should stand by for the tilt part. The Spreading Square needs a dark room and a phone torch, which is nearly a point of light. A torch with a mirror behind the bulb gives a beam that does not spread in the same way. The edges of the lit square are fuzzy, so the sides will be about 6, 12 and 18 centimetres, give or take a centimetre. It is a model of how a pull spreads out, and not a measurement of gravity. Hit the Bottles needs a stick across two heavy chairs and a grown-up to check it. The full bottle may swing only 1 or 2 centimetres, so a phone film helps. The other activities need only paper, a calculator, books and the kitchen scale. Be the Table needs a grown-up to press on the books. The Load on the Pillar needs a building with at least three floors and a grown-up. The Three-Storey Paper Tower depends on how well the tubes are rolled and taped. The first step tests one tube, so the number of loads can be changed. The 50-Newton Pack is a paper and calculator challenge, and the bag of 5 bottles is only to feel the load. No part needs a garden or an animal. Facts checked on 17 Nov 2026: the strengths of gravity and masses (NASA fact sheets), the kilogram story (BIPM, NIST, CSIR-NPL), the Pragyan figures, the Galileo probe, the Apollo 15 drop and the two verses. Softened: the astronaut's mass is now 'more than 150 kilograms'; the cable test is now 'cables or balloons'; the Apollo rocks line no longer claims they were weighed on both worlds; the giant-planet numbers are marked as worked out from NASA's masses and widths. Still a rough rule of thumb: 1,000 kilograms for each square metre of floor. The story's wheel grip and cable test is imagined. The Exploratorium page blocks automatic checks, so the link uses its own stated address. The three videos have no address yet."
 }
