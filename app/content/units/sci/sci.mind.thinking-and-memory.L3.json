@@ -37,7 +37,7 @@
   {
    "term": "Synapse",
    "meaning": "The tiny gap where one neuron passes its message to the next. The message crosses the gap as a chemical.",
-   "example": "Each neuron has synapses with thousands of other neurons, like one person passing notes to many friends.",
+   "example": "Each neuron has synapses with thousands of other neurons. It is as if one child passed notes to thousands of friends.",
    "art": "The tail end of one neuron almost touching a branch of another, with tiny dots crossing the gap."
   },
   {
@@ -2692,7 +2692,7 @@
   {
    "problem": "A child practised catching a ball for 7 days. The catches in a row were 4, 7, 9, 8, 12, 14, 15. On which day did the number go down? What was the biggest jump from one day to the next? Why might a number go down for one day?",
    "answer": "It went down on day 4, from 9 to 8. The biggest jump was from day 4 to day 5, 4 more catches. A number can dip on a day when you are tired, distracted or unlucky.",
-   "explain": "The jumps are 3, 2, then down 1, then 4, 2 and 1. One bad day does not mean practice stopped working. The whole line still goes up.",
+   "explain": "From day 1 to day 2 the number went up by 3. Then it went up by 2. Then it went down by 1. After that it went up by 4, then by 2, then by 1. One bad day does not mean practice stopped working. The numbers still rise over the week.",
    "math_unit": "math.data.bar-charts.L3",
    "context": "This is about the 7-Day Practice Diary, where you practise one skill every day and measure it.",
    "why_maths": "Seeing all seven numbers together shows the real pattern, so one bad day does not fool you.",

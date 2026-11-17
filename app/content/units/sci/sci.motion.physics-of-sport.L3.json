@@ -201,7 +201,7 @@
    "concept": "Why a spinning ball curves in the air",
    "status": "debated",
    "definition": "A spinning ball pushes the air around it to one side, and the air pushes the ball the other way. This is called the Magnus effect, after Heinrich Gustav Magnus, who studied it in 1852.",
-   "description": "Scientists have measured that a spinning ball curves, and they all agree that it does. Isaac Newton noticed a spinning tennis ball curving in 1672. Scientists explain why it curves in two ways. Both describe the same thing, but teachers argue about which is clearer. You can check the curve for yourself: watch a spinning ball, and see which way it curves.",
+   "description": "Scientists have measured that a spinning ball curves, and they all agree that it does. Isaac Newton noticed a spinning tennis ball curving in 1672. Scientists explain why it curves in two ways. Both describe the same thing, but teachers argue about which is clearer. You can check the curve for yourself. Kick or throw a ball with spin, and watch it bend as it flies.",
    "examples": [
     "A footballer kicks the side of the ball, and it bends round a wall of players.",
     "In cricket, a spin bowler makes the ball turn sideways when it bounces, and drift a little in the air.",
@@ -385,75 +385,75 @@
      "items": [
       {
        "f": "A rubber ball on a stone floor",
-       "b": "Bounce: hard floor, elastic ball"
+       "b": "Bounce. The floor is hard and the rubber ball is elastic, so the ball squashes and springs back."
       },
       {
        "f": "A rubber ball on a pillow",
-       "b": "Thud: the pillow squashes"
+       "b": "Thud. The pillow squashes instead of the ball, and springs back too slowly to push the ball up."
       },
       {
        "f": "A tennis ball on a cement road",
-       "b": "Bounce"
+       "b": "Bounce. The cement does not give way, so the ball squashes and springs back."
       },
       {
        "f": "A tennis ball on a sofa cushion",
-       "b": "Thud"
+       "b": "Thud. The cushion squashes instead of the ball."
       },
       {
        "f": "A ball of atta dough on the floor",
-       "b": "Thud: dough does not spring back"
+       "b": "Thud. Dough does not spring back, so it stays squashed."
       },
       {
        "f": "A plastic ball on a steel plate",
-       "b": "Bounce"
+       "b": "Bounce. The steel plate is hard, and the plastic ball springs back."
       },
       {
        "f": "A cricket ball on a hard, dry pitch",
-       "b": "Bounce"
+       "b": "Bounce. A hard, dry pitch does not give way, so the ball squashes and springs back."
       },
       {
        "f": "A cricket ball on wet mud",
-       "b": "Thud"
+       "b": "Thud. Wet mud gives way and stays squashed, so it takes the bounce away."
       },
       {
        "f": "A ball on soft beach sand",
-       "b": "Thud"
+       "b": "Thud. Soft sand slides away and does not spring back."
       },
       {
        "f": "A ball on wet, hard sand near the waves",
-       "b": "Bounce, a little"
+       "b": "A little bounce. Wet sand is packed firm, but it still gives way a little."
       },
       {
        "f": "A rubber band ball on the floor",
-       "b": "Bounce"
+       "b": "Bounce. A rubber band ball is elastic, and the floor is hard."
       },
       {
        "f": "A rolled-up pair of socks on the floor",
-       "b": "Thud"
+       "b": "Thud. Rolled socks do not spring back."
       },
       {
        "f": "A ball on a folded quilt",
-       "b": "Thud"
+       "b": "Thud. A quilt is soft, so it squashes instead of the ball."
       },
       {
        "f": "A ball on a trampoline",
-       "b": "Bounce: the trampoline springs back"
+       "b": "Bounce. The trampoline is elastic and springs back fast."
       },
       {
        "f": "A ball on a doormat",
-       "b": "Bounce, but lower"
+       "b": "A lower bounce. A doormat gives way a little, so the bounce is lower than on a hard floor."
       },
       {
        "f": "A balloon on the floor",
-       "b": "Bounce, but very low and slow"
+       "b": "A very low, slow bounce. A balloon is elastic, but it is so light that the air slows it down quickly."
       },
       {
        "f": "A ball of wet clay on the floor",
-       "b": "Thud"
+       "b": "Thud. Wet clay squashes and stays squashed."
       },
       {
        "f": "A rubber ball on a thick carpet",
-       "b": "Bounce, but lower"
+       "b": "A lower bounce. A thick carpet gives way a little, so the bounce is lower than on a hard floor."
       },
       {
        "f": "TEST IT: a ball on your bed. Guess first, then drop it.",
@@ -522,7 +522,7 @@
      "mins": 2,
      "do": "Add up the points. Ask which card surprised everyone most.",
      "say": "Which card surprised you? What does a bounce need?",
-     "kid": "Count your points. Which card surprised you most?",
+     "kid": "Count your points. What two things does a high bounce need?",
      "ask": [
       {
        "q": "What two things does a high bounce need?",
@@ -575,7 +575,7 @@
       },
       {
        "f": "Kicking a football",
-       "b": "Foot pushes the ball"
+       "b": "The foot pushes the ball, and the ball pushes back on the foot."
       },
       {
        "f": "Kabaddi raider turning fast",
@@ -583,11 +583,11 @@
       },
       {
        "f": "Bowling in cricket",
-       "b": "Arm swings, hand lets go of the ball"
+       "b": "The hand pushes the ball forward as the arm swings. Then the hand lets go of the ball."
       },
       {
        "f": "Skipping with a rope",
-       "b": "Legs push on the floor, then land and spring"
+       "b": "The legs push down on the floor, and the floor pushes you up. Then the legs bend and spring as you land."
       },
       {
        "f": "Swimming",
@@ -671,8 +671,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Add up the points.",
-     "say": "In which sport was the ground most important?",
-     "kid": "Count the points. Which sport needed the ground most?"
+     "say": "Which sports on the cards used the ground to push you? Which used water or a ball?",
+     "kid": "Count the points. Which sports pushed against the ground? Which did not?"
     }
    ]
   }
@@ -832,7 +832,7 @@
      "do": "1. For each surface, find the middle number of the three tries. 2. Draw a bar chart, with one bar for each surface.",
      "say": "Let's find the middle number for each surface. If the tries were 50, 55 and 60, the middle one is 55.",
      "kid": "Find the middle number for each surface. Draw a bar for each. Which bar is tallest?",
-     "parent": "The middle number, called the median, is less upset by one odd try than the average is."
+     "parent": "The middle number is called the median. One odd try changes the median less than it changes the average."
     },
     {
      "id": "s6",
@@ -1384,8 +1384,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Ask how a footballer could make a ball spin on purpose.",
-     "say": "Footballers kick the side of the ball on purpose. Why do you think they want it to spin?",
-     "kid": "Why would a footballer want the ball to spin?",
+     "say": "Footballers kick the side of the ball on purpose. A spinning ball curves in the air. Why would a footballer want the ball to curve?",
+     "kid": "A spinning ball curves in the air. Why would a footballer want that?",
      "check": {
       "t": "mcq",
       "q": "You kick a football right through its middle. What will the ball most likely do?",
@@ -1530,7 +1530,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Count the tallies together.",
-     "say": "Which did you spot most? Which surprised you?",
+     "say": "Which did you spot most? Choose one mark and say what pushed on what.",
      "kid": "Count your marks. Which did you see most?"
     }
    ]
@@ -1633,7 +1633,7 @@
    "id": "c1",
    "title": "The Bounciest Floor: make a mini trampoline",
    "mins": 30,
-   "problem": "A pillow takes the bounce away, but a trampoline is soft and gives the bounce back. Make a small surface, softer than the floor, that still gives a ball a good bounce.",
+   "problem": "A pillow takes the bounce away, but a trampoline is soft and gives the bounce back. Make a small surface, softer than the floor, that still gives a ball a good bounce. A trampoline works because its tight cover squashes down and springs back fast, while the ball is still touching it. A pillow springs back too slowly.",
    "constraints": [
     "Use only things from home.",
     "Drop the ball from 100 cm, as in the bounce test.",
@@ -2950,7 +2950,7 @@
    {
     "source": "Jain anekantavada, the story of the blind men and the elephant",
     "teaching": "In the story of the elephant, each person touches one part of the elephant and describes a different animal. Each is partly right.",
-    "link": "The same ball seems bouncy on the floor and not bouncy at all on the pillow. To understand a bounce, you have to look at the ball and the ground together."
+    "link": "Look only at the ball on the floor, and you might say it is bouncy. Look only at the ball on the pillow, and you might say it is not. Each view is only part of the truth, like each person touching one part of the elephant. To understand a bounce, you must look at the ball and the ground together."
    }
   ],
   "science": [
