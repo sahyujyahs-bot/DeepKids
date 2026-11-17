@@ -3,7 +3,7 @@
  "title": "Speeding up and slowing down a change: warmth, stirring, powder, crowds and helpers",
  "level": 4,
  "summary": {
-  "text": "A sachet of fruit salt fizzes for about half a minute in a glass of water. In a glass of fridge-cold water, the same powder takes much longer. The powder and the water are the same, so what changed? Your child times the fizz in cold, room-temperature and warm water, then speeds up and slows down the browning of an apple. They find that every way of speeding up a change works by making particles meet more often or harder. They also meet catalysts, helpers that are not used up, from enzymes in food to the metal in a car's exhaust. They hear how a Scottish chemist, Elizabeth Fulhame, found in 1794 that plain water was acting as a helper. Then they ask why the Delhi Iron Pillar has rusted so little in about 1,600 years.",
+  "text": "A sachet of fruit salt fizzes for about half a minute in a glass of water. In a glass of fridge-cold water, the same powder takes much longer. The powder and the water are the same, so what changed? Your child times the fizz in cold, room-temperature and warm water, then speeds up and slows down the browning of an apple. They find that every way of speeding up a change works by making particles meet more often or harder. They also meet catalysts, helpers that are not used up, from enzymes in food to the metal in a car's exhaust. They hear how a Scottish chemist, Elizabeth Fulhame, suggested in 1794 that plain water was acting as a helper. Then they ask why the Delhi Iron Pillar has rusted so little in about 1,600 years.",
   "art": "Three glasses in a row on a kitchen counter, cold, room-temperature and warm, with a different amount of fizz in each and a clock beside each glass."
  },
  "intro": {
@@ -2723,7 +2723,7 @@
    "id": "b-eno",
    "item": "Fruit salt such as Eno, plain flavour, in sachets or a bottle",
    "kind": "material",
-   "why": "For the Three Cups test and Stir or Stand. Sold at any kirana or medical shop for about Rs 10 a sachet. Four to six sachets are plenty. Check that it is plain, not lemon-flavoured.",
+   "why": "For the Three Cups test and Stir or Stand. Sold at any kirana or medical shop for about Rs 10 to 15 a sachet. Four to six sachets are plenty. Check that it is plain, not lemon-flavoured.",
    "url": "https://www.amazon.in/s?k=eno+fruit+salt+regular",
    "used_in": [
     "e1",
@@ -2734,7 +2734,7 @@
    "id": "b-thermo",
    "item": "A digital kitchen thermometer",
    "kind": "tool",
-   "why": "Optional. It costs about Rs 200 to 400, so skip it if you like: the hand test in Three Cups is enough. Never use a fever thermometer for hot water.",
+   "why": "Optional. It costs a few hundred rupees, so skip it if you like: the hand test in Three Cups is enough. Never use a fever thermometer for hot water.",
    "url": "https://www.amazon.in/s?k=digital+kitchen+thermometer",
    "used_in": [
     "e1"
@@ -2854,7 +2854,7 @@
    "Fulhame, E., An Essay on Combustion, London, 1794; Laidler, K. J. and Cornish-Bowden, A., 'Elizabeth Fulhame and the discovery of catalysis: 100 years before Buchner', in New Beer in an Old Bottle, 1997.",
    "Berzelius, J. J., Jahres-Bericht, 1835 (the word catalysis).",
    "Balasubramaniam, R., 'On the corrosion resistance of the Delhi Iron Pillar', Corrosion Science 42, 2000.",
-   "Wikipedia, Iron pillar of Delhi (age about 1,600 years, Qutb complex, skin about one-twentieth of a millimetre thick, phosphorus above 0.1 percent); Archaeological Survey of India and Visvesvaraya Industrial and Technological Museum sites (links checked); Wikipedia, Emission standards in India (catalytic converters in petrol vehicles); Wikipedia, Proton-proton chain (about 9 billion years).",
+   "Iron pillar of Delhi (Wikipedia, as a lead: age about 1,600 years, Qutb complex, skin about one-twentieth of a millimetre thick, phosphorus above 0.1 percent); Archaeological Survey of India and Visvesvaraya Industrial and Technological Museum sites; Emission standards in India (Wikipedia, catalytic converters in petrol vehicles); Proton-proton chain (Wikipedia, about 9 billion years).",
    "Zanotto, E. D., 'Do cathedral glasses flow?', American Journal of Physics 66, 1998.",
    "van 't Hoff, J. H., Etudes de dynamique chimique, 1884 (how rates change with temperature).",
    "Smil, V., Enriching the Earth, MIT Press, 2001 (about four in ten people around 2000 fed with nitrogen fertiliser made by the Haber-Bosch process); Erisman, J. W. et al., Nature Geoscience 1, 2008 (about 48 percent by 2008); Our World in Data, How many people does synthetic fertilizer feed (about half today).",
@@ -2863,11 +2863,123 @@
   ]
  },
  "how_we_found_out": {
-  "story": "In the 1790s, most chemists thought a metal needed only air or a hot flame to change. They thought water was just a bystander. A Scottish chemist, Elizabeth Fulhame, tested this. She was soaking cloth in solutions of gold and silver and watching the metals appear as the cloth was exposed to hydrogen and other chemicals. When the cloth was bone dry, nothing happened. When it was damp, the metal appeared. She decided that water took part, but did not seem to be used up. In her view it was made again at the end, ready to work once more. She published all this in a book in 1794. Forty years later, the Swedish chemist Jons Jacob Berzelius gave this kind of helping a name, catalysis. Fulhame's book was read in Britain and America, but she was rarely given credit for the idea of catalysis until chemists looked again at her work in the 1990s.",
-  "who": "Elizabeth Fulhame, a Scottish chemist, and later Jons Jacob Berzelius",
+  "story": "In the 1790s, most chemists thought a metal needed only air or a hot flame to change. They thought water was just a bystander. A Scottish chemist, Elizabeth Fulhame, tested this. She was soaking cloth in solutions of gold and silver and watching the metals appear as the cloth was exposed to hydrogen and other chemicals. When the cloth was bone dry, nothing happened. When it was damp, the metal appeared. She decided that water took part, but did not seem to be used up. In her view it was made again at the end, ready to work once more. She published all this in a book in 1794. Forty years later, the Swedish chemist Jöns Jacob Berzelius gave this kind of helping a name, catalysis. Fulhame's book was read in Britain and America, but she was rarely given credit for the idea of catalysis until later chemists looked again at her work.",
+  "who": "Elizabeth Fulhame, a Scottish chemist, and later Jöns Jacob Berzelius",
   "when": "1794 and 1835",
-  "wrong_idea": "Most chemists believed that water was just a bystander in such changes. Fulhame showed that dry cloth did not react at all and damp cloth did, so water was taking part, and coming out ready to work again."
+  "wrong_idea": "Most chemists believed that water was just a bystander in such changes. Fulhame found that dry cloth did not react at all and damp cloth did, so she argued that water was taking part, and coming out ready to work again."
  },
- "playtest": "Read through as a parent and child in a city flat would use it, but not yet cooked or tested at home. Three Cups: the fizz times with half a teaspoon of fruit salt in 150 millilitres are expected to differ clearly (warm shortest, cold longest), but the exact seconds depend on the brand and the room, so the steps ask families to compare the order and repeat each cup twice. Apple Race: a Shimla apple usually browns visibly in 10 to 20 minutes, a slow apple may need up to an hour, and the fridge plate may differ only a little at 30 minutes. Same Lime: foam is small, so compare the time until the fizz stops, and if all three finish together that is written up as a result. Rust Race: salty water usually shows orange rust within a day and plain water in two or three days, and a nail with a chipped coat may rust from the chip. The ideas to check before release: the Delhi Iron Pillar facts (age about 1,600 years, protective skin found at IIT Kanpur), Elizabeth Fulhame's 1794 work and what chemists then believed, the fertiliser figure (now written as four to five in ten people, after Smil and Erisman), the 78 million years enzyme figure (checked, Radzicka and Wolfenden 1995), and the converters claim (now only petrol cars; CNG autos not confirmed). Checked against sources: the pillar's age, location and skin (Wikipedia citing Balasubramaniam), Fulhame 1794 and Berzelius 1835, Zanotto's glass result, and about nine billion years for a proton in the Sun. The videos have no address yet.",
- "warm": {"words": ["SPEED", "BUMPS", "CROWD", "PIECE", "STIRS"], "quiz": [["A reaction can only happen when particles collide.", true, "Anything that makes particles meet more often or harder makes a reaction faster."], ["A catalyst can make a reaction happen that could never happen on its own.", false, "A catalyst only speeds up a reaction that was already possible. It does not change the final amount of product."], ["Stirring makes a reaction faster because it brings fresh particles together.", true, "It carries used-up particles away and brings new ones to meet."], ["Heating an enzyme always makes it work faster.", false, "Too much heat makes an enzyme fall apart, so the reaction can stop."], ["For many reactions near room temperature, a rise of about 10 degrees roughly doubles the rate.", true, "Warmer particles move faster and meet more often and more forcefully."], ["A reaction goes at the same speed from start to finish.", false, "It is usually fastest at the start and slows as the reactants get used up."], ["Cutting a solid into small pieces makes it react faster by giving it more surface area.", true, "A solid can only react where it touches the other substance."], ["Spreading the same particles into a bigger space makes them meet more often.", false, "Less crowding means fewer meetings, so the reaction goes slower."], ["A catalyst comes out of a reaction unchanged, so it can work again.", true, "It speeds up the change without being used up."], ["Slow reactions stop completely, so we never see them again.", false, "They do not stop. They happen so rarely that we cannot see the change."]], "odd": [[["Warming", "Stirring", "Powdering", "Chilling"], "Chilling", "The others make particles meet more often or harder, but chilling slows the particles down."], [["Iron", "Oxygen", "Water", "Rust"], "Rust", "Iron, oxygen and water go into the reaction and are used up, but rust is the new product."], [["Milk in the fridge", "Lemon on cut apple", "Salt on pickles", "Cut apple in warm sun"], "Cut apple in warm sun", "The others slow down the changes that spoil food, but warmth speeds them up."], [["Boiling water", "Frying hot oil", "Roasting heat", "Body warmth"], "Body warmth", "The others are hot enough to destroy enzymes, but body warmth is where most enzymes work best."], [["Powder", "Thin slices", "Small crumbs", "One big lump"], "One big lump", "The others have lots of surface where they can touch the other substance, but a lump has little."]]}
+ "playtest": "Read through as a parent and child in a city flat would use it, but not yet cooked or tested at home. Three Cups: the fizz times with half a teaspoon of fruit salt in 150 millilitres are expected to differ clearly (warm shortest, cold longest), but the exact seconds depend on the brand and the room, so the steps ask families to compare the order and repeat each cup twice. Apple Race: a Shimla apple usually browns visibly in 10 to 20 minutes, a slow apple may need up to an hour, and the fridge plate may differ only a little at 30 minutes. Same Lime: foam is small, so compare the time until the fizz stops, and if all three finish together that is written up as a result. Rust Race: salty water usually shows orange rust within a day and plain water in two or three days, and a nail with a chipped coat may rust from the chip. Facts checked on 17 Nov 2026: the Delhi Iron Pillar (age, place, skin, phosphorus), the 78 million years enzyme figure (Radzicka and Wolfenden 1995, abstract), Zanotto 1998, the fertiliser share (Erisman 2008 and Our World in Data), Fulhame 1794 and Berzelius 1835. Softened: Fulhame \"found\" became \"suggested\" and \"argued\", and the sachet and thermometer prices are now rough. Not confirmed: CNG autos and converters (the unit says only petrol cars), the Class 3 and other units named in the notes. The videos have no address yet.",
+ "warm": {
+  "words": [
+   "SPEED",
+   "BUMPS",
+   "CROWD",
+   "PIECE",
+   "STIRS"
+  ],
+  "quiz": [
+   [
+    "A reaction can only happen when particles collide.",
+    true,
+    "Anything that makes particles meet more often or harder makes a reaction faster."
+   ],
+   [
+    "A catalyst can make a reaction happen that could never happen on its own.",
+    false,
+    "A catalyst only speeds up a reaction that was already possible. It does not change the final amount of product."
+   ],
+   [
+    "Stirring makes a reaction faster because it brings fresh particles together.",
+    true,
+    "It carries used-up particles away and brings new ones to meet."
+   ],
+   [
+    "Heating an enzyme always makes it work faster.",
+    false,
+    "Too much heat makes an enzyme fall apart, so the reaction can stop."
+   ],
+   [
+    "For many reactions near room temperature, a rise of about 10 degrees roughly doubles the rate.",
+    true,
+    "Warmer particles move faster and meet more often and more forcefully."
+   ],
+   [
+    "A reaction goes at the same speed from start to finish.",
+    false,
+    "It is usually fastest at the start and slows as the reactants get used up."
+   ],
+   [
+    "Cutting a solid into small pieces makes it react faster by giving it more surface area.",
+    true,
+    "A solid can only react where it touches the other substance."
+   ],
+   [
+    "Spreading the same particles into a bigger space makes them meet more often.",
+    false,
+    "Less crowding means fewer meetings, so the reaction goes slower."
+   ],
+   [
+    "A catalyst comes out of a reaction unchanged, so it can work again.",
+    true,
+    "It speeds up the change without being used up."
+   ],
+   [
+    "Slow reactions stop completely, so we never see them again.",
+    false,
+    "They do not stop. They happen so rarely that we cannot see the change."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Warming",
+     "Stirring",
+     "Powdering",
+     "Chilling"
+    ],
+    "Chilling",
+    "The others make particles meet more often or harder, but chilling slows the particles down."
+   ],
+   [
+    [
+     "Iron",
+     "Oxygen",
+     "Water",
+     "Rust"
+    ],
+    "Rust",
+    "Iron, oxygen and water go into the reaction and are used up, but rust is the new product."
+   ],
+   [
+    [
+     "Milk in the fridge",
+     "Lemon on cut apple",
+     "Salt on pickles",
+     "Cut apple in warm sun"
+    ],
+    "Cut apple in warm sun",
+    "The others slow down the changes that spoil food, but warmth speeds them up."
+   ],
+   [
+    [
+     "Boiling water",
+     "Frying hot oil",
+     "Roasting heat",
+     "Body warmth"
+    ],
+    "Body warmth",
+    "The others are hot enough to destroy enzymes, but body warmth is where most enzymes work best."
+   ],
+   [
+    [
+     "Powder",
+     "Thin slices",
+     "Small crumbs",
+     "One big lump"
+    ],
+    "One big lump",
+    "The others have lots of surface where they can touch the other substance, but a lump has little."
+   ]
+  ]
+ }
 }

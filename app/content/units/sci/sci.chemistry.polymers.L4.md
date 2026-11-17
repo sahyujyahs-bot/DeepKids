@@ -47,14 +47,14 @@ Rice and cotton are both made of glucose chains. The difference is in the join b
 ### Lined-up chains make a material strong in one direction · *defined*
 **Definition:** A material made of chains or fibres is strongest along the direction they line up in, and weakest across it.
 
-Pulling along a chain pulls on strong bonds. Pulling across chains only pulls on the weak holds between neighbours. Newspaper has a grain because most of its fibres lie one way, so it tears straight along the grain. In a factory, plastics are often stretched on purpose, so that the chains line up. A stretched nylon thread is much stronger than the same nylon before it is stretched. Stephanie Kwolek found that her stiff polymer chains lined up by themselves in a liquid, and the fibre she spun was stronger than steel for the same weight. Bone and wood are the same: strong along the grain, easy to split along it.
+Pulling along a chain pulls on strong bonds. Pulling across chains only pulls on the weak holds between neighbours. Newspaper has a grain because most of its fibres lie one way, so it tears straight along the grain. In a factory, plastics are often stretched on purpose, so that the chains line up. A stretched nylon thread is much stronger than the same nylon before it is stretched. Stephanie Kwolek found that her stiff polymer chains lined up by themselves in a liquid, and the fibre she spun was stronger than steel for the same weight. Bone and wood are the same. They are hard to snap across the grain and easy to split along it.
 - e.g. Newspaper tears straight along its grain.
 - e.g. Wood splits easily along the grain and is hard to snap across.
 - e.g. Nylon thread is stretched in the factory so the chains line up.
 ### Short fibres, long thread: why twist holds · *defined*
 **Definition:** A yarn is made of short fibres twisted together. Twisting presses the fibres against each other, and the grip between them holds the yarn together.
 
-A cotton fibre is usually only about one to three centimetres long. A cotton thread on a spool can be hundreds of metres long. No fibre runs from one end of the thread to the other. Each fibre overlaps the ones next to it. When you pull the yarn, the fibres try to slide past each other. The twist squeezes them together, so they grip, and the harder you pull, the harder they grip. Too little twist and the fibres slide out. Too much twist and the yarn kinks and hurts itself. Silk is different. A silkworm spins one fibre hundreds of metres long, so silk needs far less twist. A rope breaks where its twist has been worn loose, because the fibres slide out.
+A cotton fibre is usually only about two to three centimetres long. A cotton thread on a spool can be hundreds of metres long. No fibre runs from one end of the thread to the other. Each fibre overlaps the ones next to it. When you pull the yarn, the fibres try to slide past each other. The twist squeezes them together, so they grip, and the harder you pull, the harder they grip. With too little twist, the fibres slide out. With too much twist, the yarn curls into loops and kinks. Silk is different. A silkworm spins one fibre hundreds of metres long, so silk needs far less twist. A rope breaks where its twist has been worn loose, because the fibres slide out.
 - e.g. Cotton yarn: short fibres, twisted.
 - e.g. Coir rope: coconut fibres a hand long, twisted into a rope that holds a boat.
 - e.g. Silk: one very long fibre from a cocoon.
@@ -83,23 +83,23 @@ In a thermoset, the strong ties run through the whole piece. Every atom is joine
 - Plastics, rubber, cotton, silk, wool, hair and starch are all polymers: long chains of small pieces joined end to end. *How we know:* Chemists can measure the length of chains and can join monomers into chains in the lab, as Wallace Carothers did when he made nylon in the 1930s.
 - Starch and cellulose are made of the same sugar, glucose, joined in different ways. *How we know:* The shapes of both molecules have been worked out by X-rays and chemistry, and enzymes that cut starch do not cut cellulose.
 - A material made of chains is strongest along the direction the chains are lined up in. *How we know:* Paper tears straight along its grain, wood splits along its grain, and nylon and polythene become stronger when they are stretched in the factory.
-- Twisting short fibres together holds them in a yarn, because the twist makes the fibres grip each other. *How we know:* Yarn made of fibres of a few centimetres can be hundreds of metres long, and a yarn untwisted comes apart into loose fibres.
+- Twisting short fibres together holds them in a yarn, because the twist makes the fibres grip each other. *How we know:* Yarn made of fibres only a few centimetres long can be hundreds of metres long. When a yarn is untwisted, it comes apart into loose fibres.
 - A thermoplastic softens in heat and can be reshaped, and a thermoset does not. *How we know:* Bottles can be melted and recycled, while Bakelite and similar plastics burn or crack when heated too much.
 
 ## How we found out
-**Stephanie Kwolek, a chemist at DuPont, with Paul Morgan, who worked with her on making the polymer, and Charles Smullen, the technician who spun it, 1965.** In 1965, Stephanie Kwolek was a chemist at a company called DuPont in the United States. She was looking for a very light, very strong fibre that could be used inside car tyres. She made a new polymer with very stiff chains and dissolved it. Chemists expected a thick, clear syrup. Hers was thin, cloudy and runny, and most chemists would have thrown it away. She asked a technician to spin it into a fibre. By most accounts, he was unsure the cloudy liquid would work in his machine, but he agreed. The fibre was stiff and very strong. She tested it again and again, because she could hardly believe the numbers. The cloud was a sign that the stiff chains had lined up side by side in the liquid. Spun into a fibre, the lined-up chains made a fibre stronger than steel for the same weight. This fibre is called Kevlar.  
+**Stephanie Kwolek, a chemist at DuPont, with Paul Morgan, who guided her work on these polymers, and Charles Smullen, the technician who spun it, The mid-1960s.** In the mid-1960s, Stephanie Kwolek was a chemist at a company called DuPont in the United States. She was looking for a very light, very strong fibre that could be used inside car tyres. She made a new polymer with very stiff chains and dissolved it. Chemists expected a thick, clear syrup. Hers was thin, cloudy and runny, and most chemists would have thrown it away. She asked a technician to spin it into a fibre. By most accounts, he was unsure the cloudy liquid would work in his machine, but he agreed. The fibre was stiff and very strong. She tested it again and again, because she could hardly believe the numbers. The cloud was a sign that the stiff chains had lined up side by side in the liquid. Spun into a fibre, the lined-up chains made a fibre stronger than steel for the same weight. This fibre is called Kevlar.  
 *What people believed before:* Chemists thought that a good polymer solution should be clear and thick, and that a cloudy, runny one was a failure. Kwolek spun the cloudy liquid anyway and showed that the cloud was a sign of lined-up chains, which make a very strong fibre.
 
 ## Challenging perspectives
 - **A long, strong thread must have long, strong fibres that run from one end to the other.** (Many people.; *rejected*)  
   For: A rope looks like it must be made of fibres as long as the rope.  
-  Against: Cotton fibres are one to three centimetres long, and cotton yarn can be hundreds of metres long. Twist makes the short fibres grip each other.
+  Against: Cotton fibres are about two to three centimetres long, and cotton yarn can be hundreds of metres long. Twist makes the short fibres grip each other.
 - **Pulling on a plastic only damages it.** (Many people.; *rejected*)  
   For: A plastic bag stretches and then tears.  
   Against: Makers stretch nylon and polythene on purpose, because stretching lines up the chains and makes the plastic stronger along the stretch.
-- **Natural materials are always better than plastics.** (Many people, and many shoppers.; *debated*)  
+- **Natural materials are always better than plastics.** (Many people, including many shoppers.; *debated*)  
   For: Cotton, wood and paper can rot back into soil, and plastic bags can stay in the environment for a very long time.  
-  Against: Cotton needs a lot of water to grow. Some people are allergic to natural rubber. Plastic keeps hospitals clean and food fresh. Natural and made are not the same as good and bad.
+  Against: Cotton needs a lot of water to grow. Some people are allergic to natural rubber. Plastic keeps hospitals clean and food fresh. Being natural does not make a material good, and being made by people does not make it bad.
 - **A plastic sold as biodegradable breaks down quickly wherever it ends up.** (Some makers and shoppers.; *debated*)  
   For: Some plastics do break down in a compost heap that is kept hot.  
   Against: In one study, some bags sold as biodegradable could still carry shopping after three years in soil. How fast a plastic breaks down depends on where it is.
@@ -108,20 +108,20 @@ In a thermoset, the strong ties run through the whole piece. Every atom is joine
   Against: A cotton thread, a tyre and a spider's silk are held together by the holds between chains and fibres. How chains are arranged and tied matters as much as the strength of a bond.
 
 ## Roots
-We have torn, twisted, cooked and heated polymers. Now we ask what a thread made of short pieces tells us about wholes, and about ourselves.
+We have torn, twisted, cooked and heated polymers. Now we ask what a thread made of short pieces tells us about things that look like one piece, and about ourselves.
 
-**Deep truth.** A cotton thread is far longer than any cotton fibre in it. Twisted, short fibres grip each other and hold a load together. So the thread's strength is not in any one fibre, but in the way many pieces hold each other.  
+**Deep truth.** A cotton thread is far longer than any cotton fibre in it. When short fibres are twisted, they grip each other and can hold a load together. So the thread's strength is not in any one fibre, but in the way many pieces hold each other.  
 *Habit it breaks:* We picture a long, strong thing as one long, strong piece, like a rod. A thread, a rope and a sheet of paper are not like that, even though they look like one piece.  
 *Evidence:* In the Wisp and Thread activity, a loose wisp of cotton came apart in your fingers. The same cotton, twisted, held together as a thread. A single fibre from it was only a centimetre or two long.
 
 - *who am i:* Your hair, nails and skin are made of protein chains that your body joined from the food you ate. You are made of short pieces that hold on to each other, just as a thread is.
 - *what is life:* Every cell joins amino acids into protein chains, one piece at a time, in the order written in the genes. Making long chains out of short pieces is part of what living things do.
-- *what is this world:* Rope, cloth, paper, wood and bone are all long, strong things made of short pieces holding on. At every size, from chains to fibres to yarn to rope, the holding is done by pieces that are short.
+- *what is this world:* Rope, cloth, paper, wood and bone are all long, strong things made of short pieces holding on to each other. At every size, from chains to fibres to yarn to rope, the holding is done by pieces that are short.
 
 A cotton plant grows short fibres. A spinner twists many of them into a thread much longer than any one fibre, and a weaver crosses threads into cloth. At each step, nothing new is added. The same small pieces are held together in a new way. What they can do together is more than any one of them could do alone.
 
 - **Brihadaranyaka Upanishad 3.6 and 3.8:** The thinker Gargi asks Yajnavalkya what the world is woven on, as a cloth is woven from warp and weft. He answers step by step, and each answer is woven on the next. (The Upanishad pictures the world as woven cloth, and asks what the cloth rests on. A thread gives a plain, physical answer to a similar question: each fibre is held by its neighbours, with nothing else holding the whole thread up.)
-- **Kabir, the poem Jhini Jhini Bini Chadariya (traditionally about the 15th century, Varanasi):** Kabir is remembered as a weaver. In this poem he sings of the body as a fine cloth woven on a loom, and asks who wove it. (Kabir used the work of his own hands to ask about life. A cloth is short fibres twisted into thread and crossed into cloth, and a body is made of small parts held together too.)
+- **Kabir, the poem Jhini Jhini Bini Chadariya (said to be of the 15th century, Varanasi):** Kabir is remembered as a weaver. In this poem he sings of the body as a fine cloth woven on a loom, and says he wore it with care and gave it back clean. (Kabir used the work of his own hands to ask about life. A cloth is short fibres twisted into thread and crossed into cloth, and a body is made of small parts held together too.)
 - Science (settled): Materials are built in layers. Chains pack into fibrils, fibrils into fibres, fibres into yarn, and yarn into cloth. Wood and bone are built this way too, and strength comes from every layer.
 - Science (open): Living things build strong materials from simple foods at room temperature. Scientists would like to design materials that build themselves in the same way, but this is still far from done.
 - Other view, Nagasena, a Buddhist teacher, in the Milindapanha (The Questions of King Milinda): A chariot is only a name for its wheels, axle, frame and pole put together. There is no chariot apart from the parts. In the same way, a thread is only a name for fibres with a twist, and there is nothing more to find.
@@ -132,9 +132,9 @@ A cotton plant grows short fibres. A spinner twists many of them into a thread m
 
 ## Deep and big questions
 - *deep:* No fibre in a cotton thread runs from one end to the other. So what makes the thread one thing? (hint: Think about what happens to the fibres when you pull, and what the twist does.)
-- *deep:* Starch and cellulose are chains of the same sugar. Why can you digest rice but not cotton? (hint: Think about what the chewing of rice does, and what tool would be needed to cut a straight chain.)
+- *deep:* Starch and cellulose are chains of the same sugar. Why can you digest rice but not cotton? (hint: Think about what happens to rice when you chew it, and what tool your body would need to cut a straight cellulose chain.)
 - *deep:* A pressure cooker handle has strong ties through all of it. Is it one giant molecule, or many? (hint: Think about what you mean by one thing, and what you would count if you tried to count its molecules.)
-- *big:* Plastic is made from oil, and most oil formed from tiny sea creatures that lived millions of years ago. In what way is a plastic bottle very old life? (hint: Think about where the atoms in the chains were before they were in the bottle.)
+- *big:* Plastic is made from oil, and most oil formed from tiny sea creatures that lived millions of years ago. In what way is a plastic bottle made of very old life? (hint: Think about where the atoms in the chains were before they were in the bottle.)
 - *big:* The finest cloth in old Bengal was spun by hand, mostly by women, into thread so fine that it almost could not be seen. Who gets remembered for the things we wear? (hint: Think about the people who grow, spin, weave and sew the clothes you wear today.)
 
 ## Story: The Rope That Came Apart
@@ -197,16 +197,16 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 
 ## Games
 ### g1 · Chain Detectives: natural polymer, made polymer or not a polymer? (20 min)
-- **rules:** One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player puts one token face down. Then everyone turns the tokens over together.; The reader reads the back. Every player whose token matches the first words of the back scores one point.; A player who also says one thing about how the material behaves, for example that it stretches, bends or does not melt, scores one more point. The reader decides, using the back of the card.; With two players, the parent and the child swap the reader's job after every card. With one player, read the front, choose a token, then check the back and keep your own score.; After each card, the reader's job passes to the player on the left.; The game ends when all 24 cards have been read. The player with the most points wins. If there is a tie, the tied players share the win.
-- **Printable cards: 24 two-sided cards: something from daily life on the front, and the answer with the reason on the back:** A cotton thread in a sari. (back: Natural polymer. The cotton plant joins glucose pieces into cellulose chains.); A silk thread from a cocoon. (back: Natural polymer. The silkworm joins amino acids into protein chains.); The wool of a sheep. (back: Natural polymer. Wool is a protein called keratin.); Your own hair. (back: Natural polymer. Hair is also keratin, a protein your body built from your food.); A plastic carry bag. (back: Made polymer. Polythene is thousands of ethylene pieces joined in chains.); A clear plastic water bottle. (back: Made polymer. PET is built from two kinds of piece, joined in turn.); A spoon of table salt. (back: Not a polymer. Salt is a crystal of two kinds of atom packed together. It has no long chains of repeating pieces.); A sugar crystal from the sugar bowl. (back: Not a polymer. A sugar molecule is one small piece. Chains of glucose are starch.); A heap of rice. (back: Natural polymer. Rice is mostly starch, which is chains of glucose.); A page of a notebook. (back: Natural polymer. Paper is a mat of cellulose fibres.); The latex that drips from a rubber tree. (back: Natural polymer. Natural rubber is a long chain of a small piece called isoprene.); The black handle of a pressure cooker. (back: Made polymer. It is a thermoset, with chains tied to each other all through, so it does not soften on the stove.); A nylon rope. (back: Made polymer. Nylon is made of two kinds of piece joined in turn, and the chains are lined up by stretching.); A glass of water. (back: Not a polymer. Water molecules are tiny, each only three atoms.); A steel katori. (back: Not a polymer. Steel is metal atoms packed together.); A spider's web thread. (back: Natural polymer. Spider silk is a protein.); A block of thermocol packing foam. (back: Made polymer. Thermocol is polystyrene foam, a long chain filled with air bubbles.); Your fingernail. (back: Natural polymer. Nails are keratin, the same protein as hair.); A polyester shirt. (back: Made polymer. Polyester is the same kind of plastic as a PET bottle, spun into thread.); A spoonful of cooking oil. (back: Not a polymer. An oil molecule is a small piece with three tails. It is not a long chain of repeating pieces.); The DNA inside your cells. (back: Natural polymer. DNA is a long chain of four kinds of piece.); A coconut coir rope. (back: Natural polymer. Coir is made mostly of cellulose and lignin, which are both polymers.); The coating on a non-stick pan. (back: Made polymer. It is a plastic called PTFE, a chain of carbon atoms with fluorine atoms attached.); A gold ring. (back: Not a polymer. Gold is a metal, made of gold atoms packed together.)
+- **rules:** One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every other player puts one token face down. Then everyone turns the tokens over together.; The reader reads the back. Every player whose token matches the first words of the back scores one point.; A player who also says one thing about how the material behaves, for example that it stretches, bends or does not melt, scores one more point. The reader decides, using the back of the card.; With two players, the parent and the child swap the reader's job after every card. With one player, read the front, choose a token, then check the back and keep your own score.; With three or more players, the reader's job passes to the player on the left after each card.; The game ends when all 24 cards have been read. The player with the most points wins. If there is a tie, the tied players share the win.
+- **Printable cards: 24 two-sided cards: something from daily life on the front, and the answer with the reason on the back:** A cotton thread in a sari. (back: Natural polymer. The cotton plant joins glucose pieces into cellulose chains.); A silk thread from a cocoon. (back: Natural polymer. The silkworm joins amino acids into protein chains.); The wool of a sheep. (back: Natural polymer. Wool is a protein called keratin.); Your own hair. (back: Natural polymer. Hair is also keratin, a protein your body built from your food.); A plastic carry bag. (back: Made polymer. Polythene is thousands of ethylene pieces joined in chains.); A clear plastic water bottle. (back: Made polymer. PET is built from two kinds of piece, joined in turn.); A spoon of table salt. (back: Not a polymer. Salt is a crystal of two kinds of atom packed together. It has no long chains of repeating pieces.); A sugar crystal from the sugar bowl. (back: Not a polymer. A sugar molecule is one small piece. Chains of glucose are starch.); A heap of rice. (back: Natural polymer. Rice is mostly starch, which is chains of glucose.); A page of a notebook. (back: Natural polymer. Paper is a mat of cellulose fibres.); The latex that drips from a rubber tree. (back: Natural polymer. Natural rubber is a long chain of a small piece called isoprene.); The black handle of a pressure cooker. (back: Made polymer. It is a thermoset, with chains tied to each other all through, so it does not soften on the stove.); A nylon rope. (back: Made polymer. Nylon is made of two kinds of piece joined in turn, and the chains are lined up by stretching.); A glass of water. (back: Not a polymer. Water molecules are tiny, each only three atoms.); A steel katori. (back: Not a polymer. Steel is metal atoms packed together.); A spider's web thread. (back: Natural polymer. Spider silk is a protein.); A block of thermocol packing foam. (back: Made polymer. Thermocol is polystyrene, a plastic made of long chains, puffed up with air bubbles.); Your fingernail. (back: Natural polymer. Nails are keratin, the same protein as hair.); A polyester shirt. (back: Made polymer. Polyester is the same kind of plastic as a PET bottle, spun into thread.); A spoonful of cooking oil. (back: Not a polymer. An oil molecule is a small piece with three tails. It is not a long chain of repeating pieces.); The DNA inside your cells. (back: Natural polymer. DNA is a long chain of four kinds of piece.); A coconut coir rope. (back: Natural polymer. Coir is made mostly of cellulose and lignin, which are both polymers.); The coating on a non-stick pan. (back: Made polymer. It is a plastic called PTFE, a chain of carbon atoms with fluorine atoms attached.); A gold ring. (back: Not a polymer. Gold is a metal, made of gold atoms packed together.)
 - **Printable tokens: 12 tokens: four that say Natural polymer, four that say Made polymer and four that say Not a polymer:** Natural polymer; Made polymer; Not a polymer; Natural polymer; Made polymer; Not a polymer; Natural polymer; Made polymer; Not a polymer; Natural polymer; Made polymer; Not a polymer
 - **s1 (3 min)**  
   *Parent does:* Cut out the 24 cards and the 12 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.  
-  *Parent says:* These cards show things around us. Each player gets three tokens. Natural polymer, made polymer and not a polymer. We will guess what each thing is.  
+  *Parent says:* These cards show things around us. Each player gets three tokens: Natural polymer, Made polymer and Not a polymer. We will guess what each thing is.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take three tokens.
 - **s2 (6 min)**  
   *Parent does:* Play the first six cards. After each card, read the back aloud. After card three, ask the question below.  
-  *Parent says:* The reader reads the front. Everyone else chooses a token. Turn the tokens over together. Now the reader reads the back. Who scored? Who can say more?  
+  *Parent says:* The reader reads the front. Everyone else chooses a token. Turn the tokens over together. Now the reader reads the back. Who scored? Who can say one thing about how the material behaves, for one more point?  
   *Child mode:* The reader reads a card. Pick a token. Turn it over. Check the back.
   - Ask: What do the polymers on these cards have in common? (good: They are long chains.; They are made of small pieces joined together.; They have a monomer that repeats.)
 - **s3 (6 min)**  
@@ -216,7 +216,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   - Ask: Which card surprised you so far, and why? (good: Hair and plastic are the same kind of thing.; Rice is a polymer.; Salt and sugar are not polymers.)
 - **s4 (3 min)**  
   *Parent does:* Play the last ten cards. When the pile is finished, count each player's points.  
-  *Parent says:* Last cards. Think about chains. Where are the long chains in this thing, and what makes them?  
+  *Parent says:* These are the last cards. For each thing, ask where the long chains are, and what makes them.  
   *Child mode:* Play the last cards. Count your points.
 - **s5 (2 min)**  
   *Parent does:* Say who won. Ask your child which card was the hardest to place, and why.  
@@ -228,7 +228,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 ### e1 · Cornflour Film: what does glycerine do? (53 min, 3 days)
 - **question:** Three films are cooked from the same cornflour mix, with none, one or two teaspoons of glycerine. Which film bends the most before it cracks?
 - **predict:** Before you start, guess. Which film will fold the most times before it cracks, and which will crack first? Why do you think so?
-- **fair test:** All three films start from one pot of the same mix. Each gets the same amount, spread to the same size and thickness, and dried in the same place for the same time. Only the amount of glycerine changes. The film with no glycerine is the control. Each film is folded twice, because one try can be a fluke.
+- **fair test:** All three films start from one pot of the same mix. Each gets the same amount, spread to the same size and thickness, and dried in the same place for the same time. Only the amount of glycerine changes. The film with no glycerine is the control, the one the others are compared with. Each film is tested twice, because one try can be a fluke.
 - **safety:** An adult does the cooking. The mix gets hot and sticky, like hot custard, so keep children back from the stove. Do not taste the films.
 - **record:** For each film, write the glycerine amount, the number of folds before it cracked on each try, and how far it stretched. Draw a bar chart with one bar for each film. Write three lines: what I thought, what I saw, and why.
 - **results table:** Film | Glycerine added (teaspoons) | Folds before it cracks: try 1 | Folds before it cracks: try 2 | Stretch before it tears (cm)
@@ -236,9 +236,9 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 - **s1 (5 min)**  
   *Parent does:* Show your child the cornflour, the vinegar and the glycerine. Say you will make three films with none, one and two teaspoons of glycerine. Write down their guess and reason.  
   *Parent says:* We will cook three films from the same cornflour. One gets no glycerine. One gets one teaspoon. One gets two teaspoons. Which will fold the most times before it cracks? Why do you think so?  
-  *Child mode:* We make three films. Each has different glycerine. Which bends best? Why?
-  - Ask: Why do you think that film will bend the most? (good: It has the most glycerine.; The glycerine makes it soft.; The glycerine gets between the starch.)
-  - Note: Do not correct the guess. Write each guess and reason at the top of the results table. Glycerine is sold at chemist shops, often as glycerin (a small bottle costs about Rs 30 to 50). One child: your child stirs and labels while you cook. Two to four children: one pot is enough. Each child takes one katori to label, pour and spread, and later tests their own strips, then the group pools its folds in one table.
+  *Child mode:* We make three films. Each has a different amount of glycerine. Which will bend best? Why?
+  - Ask: Why do you think the film you chose will bend the most? (good: It has the most glycerine.; The glycerine makes it soft.; The glycerine gets between the starch chains.)
+  - Note: Do not correct the guess. Write each guess and reason at the top of the results table. Glycerine is sold at chemist shops, often as glycerin (a small bottle costs about Rs 30 to 50). One child: your child stirs and labels while you cook. Two to four children: one pot is enough. Each child takes one katori to label, pour and spread, and later tests their own strips. Then the group writes all the fold counts in one table.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* Put 3 tablespoons of cornflour, 12 tablespoons of water and 3 teaspoons of vinegar in the pan. Stir until no lumps remain. Then an adult heats it on low and stirs all the time.  
   *Parent says:* Stir the mix until it is smooth. An adult heats it on low and stirs all the time. After about four to six minutes it turns clear and thick, like custard. Then switch off the heat.  
@@ -254,11 +254,11 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent does:* Rub a few drops of oil on three steel plates or three pieces of foil. Pour one katori onto each. Spread it with the back of a spoon into a circle about 15 centimetres wide, about as thick as a coin.  
   *Parent says:* Pour each katori onto its own plate. Spread it into a circle the same size. Make all three the same thickness. Write 0, 1 and 2 beside them.  
   *Child mode:* Pour each katori onto a plate. Spread it flat. Write the labels.
-  - Note: A thick film takes longer to dry and may stay sticky in the middle. Aim for about 3 to 4 millimetres wet. It dries to a thin sheet. Use the same circle size for all three.
+  - Note: A thick film takes longer to dry and may stay sticky in the middle. Aim for a wet layer about 3 to 4 millimetres thick. It dries to a thin sheet. Use the same circle size for all three.
   - Check: Why must all three films be the same size and thickness? → **So only the glycerine is different**
 - **s5 (2 min)**  
   *Parent does:* Put the plates on a flat shelf where nobody will knock them. Leave them for two to four days, out of the rain. A fan helps in damp weather.  
-  *Parent says:* Now we wait. The water must leave the films. Check the day after tomorrow. They are ready when they are dry and peel off easily.  
+  *Parent says:* Now we wait. The water has to dry out of the films. Check the day after tomorrow. They are ready when they are dry and peel off easily.  
   *Child mode:* Leave the plates on a shelf. Wait two to four days.
   - Note: In the monsoon, drying can take longer. Do not use the oven or the sun's full heat, because the film can curl or bubble. Films are done when they feel dry and peel off cleanly. If a film is still wet after five days, turn it over and let the other side dry.
   - Wait: Leave it for 2 to 4 days.
@@ -273,16 +273,16 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent says:* Fold the strip in half, then open it. That is one fold. Count every fold. Stop when it cracks, or at twenty. Do it twice for each film.  
   *Child mode:* Fold and open a strip. Count the folds. Stop when it cracks.
   - Note: Fold the same way each time, across the middle of the strip. Cut strips from the middle of the film, since the edges are thinner.
-  - Check: Film 1 cracks after 3 folds and film 2 cracks after 4 folds on one try, but after 12 folds on the next. What should you do? → **Test again, and trust the pattern after several tries**
+  - Check: Film 1 cracks after 3 folds. Film 2 cracks after 4 folds on its first try, but after 12 folds on its second try. What should you do? → **Test again, and trust the pattern after several tries**
 - **s8 (6 min)**  
   *Parent does:* Mark two dots 5 centimetres apart on a strip. Hold the strip by its ends and pull slowly. Measure the distance between the dots when it tears.  
-  *Parent says:* Make two dots five centimetres apart on a strip. Pull slowly until it tears. Measure the dots. How far did it stretch?  
-  *Child mode:* Mark dots on a strip. Pull slowly. Measure the dots.
-  - Note: A very stiff film may not stretch at all. Write 5 for no stretch. Stretch numbers vary a lot with thickness, so treat the folds as the main result and the stretch as a rough guide. The film with the most glycerine may stretch the most, or may tear more easily because it is soft.
+  *Parent says:* Make two dots five centimetres apart on a strip. Pull slowly until it tears. Measure the distance between the dots. How far did it stretch?  
+  *Child mode:* Mark two dots on a strip. Pull slowly. Measure the distance between the dots.
+  - Note: A very stiff film may not stretch at all. Write 5, the starting distance, for no stretch. Stretch numbers vary a lot with thickness, so treat the folds as the main result and the stretch as a rough guide. The film with the most glycerine may stretch the most, or may tear more easily because it is soft.
 - **s9 (5 min)**  
   *Parent does:* Draw a bar chart of the folds for each film. Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a bar for each film. Say what you thought, saw and why.
+  *Child mode:* Draw a bar for each film. Say what you thought, what you saw, and why.
   - Note: A strong answer says the film with no glycerine cracked first, and that the glycerine let the starch chains slide past each other. After they have said what they saw, explain: starch chains in a dry film stick tightly to each other, so the film is stiff. Glycerine molecules are small and sit between the chains and keep them a little apart. Now the chains can slide, and the film bends. Too much glycerine leaves the film soft and sticky. If your results are not in this order, write them down as they are and ask why. Films from damp weather, or a thick film, often behave differently.
   - Think: What do you think the glycerine is doing between the starch chains?
 ### e2 · Hot Water Plastics: what does heat do to different plastics? (35 min)
@@ -296,13 +296,13 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent does:* Show your child the plastic things and the kettle. Say you will drop strips of different plastics into hot water. Write down their guess and reason.  
   *Parent says:* We will cut strips from four plastic things and put them in very hot water. Which strip will change the most? What will it do? Why do you think so?  
   *Child mode:* We put plastic strips in hot water. Which changes most? Why?
-  - Ask: Why do you think that plastic will change the most? (good: It is thin.; It is soft already.; It is stretched.)
+  - Ask: Why do you think the plastic you chose will change the most? (good: It is thin.; It is soft already.; It is stretched.)
   - Note: Do not correct the guess. One child: your child numbers, measures and watches the timer. Two to four children: split the jobs, one measures, one watches the timer, one records, and swap for the second round. Only the adult touches hot water. Write each guess and reason down. Children often guess the thinnest plastic changes most.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* An adult cuts four strips from a clear PET bottle, a carry bag, a milk packet and a hard plastic tub. Each strip is 8 centimetres by 2 centimetres. Number each strip with a marker. Measure each one.  
   *Parent says:* A grown-up cuts the strips. Number them one to four. Measure each strip and write its length in the table.  
   *Child mode:* Number the strips. Measure each one. Write the length.
-  - Note: Cut the bottle strip from the straight wall, not the neck, going round the bottle (not up and down), because that is the way the plastic is stretched most. Use scissors; a hard tub is cut with strong scissors by the adult only. Any bottle, bag or tub will do; the results vary with the brand, so write down what you used. Cut edges of hard plastic can be sharp, so round the corners. Wash the strips first.
+  - Note: Cut the bottle strip from the straight wall, not the neck. Cut it going round the bottle, not up and down, because that is the way the plastic is stretched most. Scissors will do for the bottle, the bag and the milk packet. The hard tub needs strong scissors, and only the adult cuts it. Any bottle, bag or tub will do. The results vary with the brand, so write down what you used. Cut edges of hard plastic can be sharp, so round the corners. Wash the strips first.
   - Check: Why do we measure each strip before it goes into the water? → **So we can tell how much it changed**
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* An adult boils a kettle and waits for one minute. Then the adult pours about 1 litre of the hot water into a steel bowl. Everyone else stays back.  
@@ -314,12 +314,12 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent says:* Drop all four strips in together. Watch them for one minute. What do you see happening? Then lift them out with the tongs.  
   *Child mode:* A grown-up drops in the strips. Watch for one minute.
   - Ask: What do you see the strips doing in the water? (good: Curling.; Shrinking.; Not changing.)
-  - Note: Thin film floats, so push it under gently with the tongs. Let the strips cool on the plate for a minute before touching them. Amounts of shrinking are typical, not promised: a bottle strip often shrinks and curls a lot, a thin bag or milk packet only a little, a hard tub very little. Some strips may curl up quickly. Others may stay flat.
+  - Note: Thin film floats, so push it under gently with the tongs. Let the strips cool on the plate for a minute before touching them. How much each strip shrinks varies. A bottle strip often shrinks and curls a lot, a thin bag or milk packet only a little, and a hard tub very little. Some strips may curl up quickly. Others may stay flat.
 - **s5 (5 min)**  
   *Parent does:* When the strips are cool, measure each one again. Feel each one. Write the new length, and write if it is bent, limp, stiff or the same.  
   *Parent says:* Measure each strip again. Which got shorter? Which curled? Which stayed the same? How does each feel now?  
   *Child mode:* Measure each strip again. How did each change?
-  - Note: The bottle strip and the thin bag often shrink or curl. The hard tub often stays the same. If nothing changed, the water was too cool, so re-boil and use it at once; a strip that does not change is still a result. If you can, repeat with a second set of strips from other bottles and bags to see if the pattern holds. Write what you see.
+  - Note: The bottle strip and the thin bag often shrink or curl. The hard tub often stays the same. If none of the strips changed, the water was too cool, so boil it again and use it at once. If only some strips stayed the same, that is still a result. If you can, repeat with a second set of strips from other bottles and bags to see if the pattern holds. Write what you see.
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
@@ -334,7 +334,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent does:* Give your child a sheet of newspaper. Ask them to guess which way it will tear straight, and why. Write down the guess.  
   *Parent says:* Here is a sheet of newspaper. If we tear it from top to bottom, and then from side to side, will the two tears look the same? Why do you think so?  
   *Child mode:* Will paper tear the same both ways? Why?
-  - Ask: Why might one way be straighter? (good: Something in the paper goes one way.; The way it was made.; I do not know, let us try.)
+  - Ask: Why might the paper tear straighter one way than the other? (good: Something in the paper goes one way.; The way it was made.; I do not know, let us try.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (4 min)**  
   *Parent does:* Tear three strips from top to bottom, slowly. Tear three more strips from side to side, slowly. Lay the torn strips in two rows.  
@@ -346,19 +346,19 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent does:* Draw an arrow on the sheet along the direction that tore straight. Try a notebook page and a magazine page the same way. Mark the straight direction on each.  
   *Parent says:* Mark the straight direction with an arrow. Now do the same with the notebook page and the magazine page. Is the straight direction the same?  
   *Child mode:* Draw an arrow on the straight way. Try a notebook page.
-  - Note: If both ways look alike on one sheet, try another sheet. A few papers show it less clearly. Some pages tear straight the same way, and some do not.
-  - Check: Both rows tore with a wavy edge on one page. What should you do? → **Try another sheet and look for the pattern**
+  - Note: If both ways look alike on one sheet, try another sheet. A few papers show it less clearly. The notebook page and the magazine page may tear straight in the same direction as the newspaper, or in the other direction.
+  - Check: On one page, the strips tore with a wavy edge in both directions. What should you do? → **Try another sheet and look for the pattern**
 - **s4 (2 min)**  
   *Parent does:* Hold a torn edge up to a window. Look for tiny hairs sticking out. Ask your child what the hairs could be.  
   *Parent says:* Hold the torn edge up to the light. What do you see sticking out? What could those tiny hairs be?  
   *Child mode:* Look at the torn edge. What are the tiny hairs?
   - Ask: What could those tiny hairs be? (good: Bits of plant.; Fibres.; The ends of tiny threads.)
-  - Note: Paper is a mat of plant fibres, pressed flat. A tear follows between the fibres where they line up, and runs ragged where it must cut across them.
+  - Note: Paper is a mat of plant fibres, pressed flat. A tear runs straight between the fibres where they line up. Where it has to break across them, it wanders.
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw, and why. Then say the answer yourself.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it tore straight one way?  
-  *Child mode:* Say what you thought, saw and why.
-  - Note: After they have said what they saw, explain: when paper is made, most of the fibres end up lying one way. A tear runs easily along lined-up fibres. Across them, the tear must break fibres, so it wanders. Material made of long pieces is stronger along them.
+  *Child mode:* Say what you thought, what you saw, and why.
+  - Note: After they have said what they saw, explain: when paper is made, most of the fibres end up lying one way. A tear runs easily along lined-up fibres. Across them, the tear must break fibres, so it wanders. A material made of lined-up fibres is stronger along the fibres than across them.
   - Think: If paper has a grain like wood, which way would it be stronger?
 ### a2 · Wisp and Thread: how does twisting make cotton hold? (20 min)
 - **record:** Draw the loose wisp and the twisted thread side by side. Write how long one fibre was, and what the twist did. If you tried coins, write how many each thread held.
@@ -372,24 +372,24 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent does:* Pull a loose wisp about 15 centimetres long. Hold one end in each hand, 10 centimetres apart. Pull slowly. Watch what happens to the fibres.  
   *Parent says:* Hold the wisp at both ends. Pull slowly. What do the fibres do? How much pull did it take?  
   *Child mode:* Pull a loose wisp slowly. What do the fibres do?
-  - Note: A loose wisp comes apart almost at once, the fibres sliding past each other. That is the control.
+  - Note: A loose wisp comes apart almost at once, because the fibres slide past each other. This untwisted wisp is the control, the one you compare the twisted wisps with.
 - **s3 (6 min)**  
   *Parent does:* Wrap one end of a new wisp round a pencil. Hold the far end between two fingers, 10 centimetres away. Spin the pencil 30 times, the same way each time. Then pull slowly.  
   *Parent says:* Wrap a new wisp round a pencil. Hold the other end with your fingers. Spin the pencil thirty times, always the same way. Now pull slowly. What is different?  
   *Child mode:* Spin the pencil 30 times. Then pull slowly. What is different?
-  - Note: Hold the far end firmly while you spin, or the twist runs out. Keep a gentle pull on the wisp as you spin. Thirty turns should make a rough thread. One child: you hold the far end while your child spins. Two to four children: pairs work together, one spins and one holds. For a measurement, hang a small paper cup from the thread and add coins one at a time, and count how many it holds before it breaks. The number varies, so compare the loose wisp, 30 turns and 100 turns in the same session. If you saw no difference, add more turns or use a bigger wisp. It holds more than the loose wisp did.
+  - Note: Hold the far end firmly while you spin, or the twist runs out. Keep a gentle pull on the wisp as you spin. Thirty turns should make a rough thread that holds more than the loose wisp did. If you saw no difference, add more turns or use a bigger wisp. One child: you hold the far end while your child spins. Two to four children: pairs work together, one spins and one holds. For a measurement, hang a small paper cup from the thread, add coins one at a time, and count how many it holds before it breaks. The number varies, so compare the loose wisp, 30 turns and 100 turns in the same session.
   - Check: What do the fibres do when you pull the twisted thread? → **They grip each other and the thread holds**
 - **s4 (4 min)**  
   *Parent does:* Make a third wisp. Spin the pencil 100 times. Hold the thread tight, then let the far end go. Watch what the thread does.  
   *Parent says:* Now spin a third wisp one hundred times. Let go of the far end. What does the thread do? Is more twist always better?  
   *Child mode:* Spin 100 times. Let go. What does the thread do?
   - Ask: Do you think more twist is always better? (good: No, it might curl up.; Yes, tighter is stronger.; It might snap.)
-  - Note: With too much twist the thread curls into loops and kinks when you let go. A thread needs enough twist to grip, and not so much that it fights itself.
+  - Note: With too much twist the thread curls into loops and kinks when you let go. A thread needs enough twist to grip, but not so much that it curls up.
 - **s5 (4 min)**  
   *Parent does:* Untwist the thread. Pull one fibre out with your fingers. Lay it beside a ruler and measure it. Ask your child how long the whole thread was, and how long one fibre is.  
   *Parent says:* Untwist the thread. Pull out one single fibre. Measure it. How long is one fibre? How long was the thread? Does any fibre go the whole way?  
   *Child mode:* Pull out one fibre. Measure it. Is it as long as the thread?
-  - Note: Cotton fibres are about 1 to 3 centimetres long. The thread is many times longer. After they have said what they saw, explain: the fibres overlap, and the twist makes them grip.
+  - Note: Cotton fibres are about 2 to 3 centimetres long. The thread is many times longer. After they have said what they saw, explain: the fibres overlap, and the twist makes them grip.
   - Think: If no fibre goes the whole way, what holds the thread together?
 ### a3 · Chew the Rice: what does your mouth do to starch? (15 min)
 - **safety:** Use only plain, unsalted rice or idli that your child already eats and is not allergic to. Use a small spoonful and have the child sit still while chewing, to avoid choking. Each child uses their own clean spoon. Skip this if your child has trouble swallowing.
@@ -405,7 +405,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent says:* Put the rice in your mouth. Chew slowly. I will tell you the time. What do you taste now? And now? Do not swallow yet.  
   *Child mode:* Chew slowly. What do you taste now? And now?
   - Ask: What did the rice taste like at the start, and after a minute? (good: Plain, then a little sweet.; Sweeter.; No change yet.)
-  - Note: Many people notice a sweet taste after about a minute. Some need two or three minutes. If nothing changes, keep chewing a little longer. Some children do not notice the sweetness, and that is a result, so write it down. Freshly cooked, soft, plain white rice works best. Rice cooked with ghee, salt or spice hides the taste. Saliva needs time, and a little to work with.
+  - Note: Many people notice a sweet taste within about a minute. Some need two or three minutes. If nothing changes, keep chewing a little longer. Some children do not notice the sweetness, and that is a result, so write it down. Freshly cooked, soft, plain white rice works best. Rice cooked with ghee, salt or spice hides the taste. Saliva needs time to work on the rice.
 - **s3 (4 min)**  
   *Parent does:* Let your child swallow and rinse with water. Ask them to say what they thought, what they tasted and why.  
   *Parent says:* You can swallow now. Tell me three things. What did you think would happen? What did you taste? Why do you think it happened?  
@@ -421,7 +421,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 - **schedule:** day 1: Make the takli. (20 min); day 2: Practise spinning a short yarn. (20 min); day 3: Spin a longer yarn and test it. (20 min)
 - **s1 (20 min) · grown-up needed**  
   *Parent does:* Push a pencil through a hole in the middle of an old CD or a thick cardboard disc, 8 centimetres wide. Wrap tape around the pencil until the disc grips. Tape a bent paper clip to the top as a hook.  
-  *Parent says:* A takli is a spindle. We make one today. The disc sits low on the stick. The hook sits at the top. The disc keeps the takli spinning.  
+  *Parent says:* A takli is a spindle: a stick with a disc that spins and twists cotton into yarn. We make one today. The disc sits low on the stick. The hook sits at the top. The disc keeps the takli spinning.  
   *Child mode:* Push a pencil through a disc. Tape a hook on top.
   - Note: Use a blunt pencil end. A thick disc spins longer than a thin one. Hold the disc on with several turns of tape above and below it.
 - **s2 (20 min)**  
@@ -440,26 +440,26 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 
 ## Challenges
 ### c1 · Newspaper Tower: hold the most books with four sheets of paper (40 min)
-- **problem:** You have four sheets of newspaper and 40 centimetres of tape. Build a column exactly 25 centimetres tall. It must hold a stack of books on a flat tray for ten seconds. Hold as many books as you can.
+- **problem:** You have four sheets of newspaper and 40 centimetres of tape. Build a column exactly 25 centimetres tall. It must hold a stack of books on a flat tray for ten seconds. Try to make it hold as many books as you can.
 - **your turn:** Sketch your design. Build it and test it. Change one thing, such as how tight the tube is, and test again. Which design held the most books? Why do you think it did?
 - **constraints:** Use only four sheets of newspaper and up to 40 centimetres of tape.; The column must be exactly 25 centimetres tall.; Books are added one at a time, gently, on a flat tray on top.; The column must hold for ten seconds to count.; Write down the number of books it held.
 - **general:** Roll each sheet into a tube and tape it, so the tube has the paper's grain running along its length.; Join several tubes into a bundle and tape them together.; Make the tubes thin and tight, so they are stiffer than fat, loose tubes.
-- **creative:** Fold the paper into triangle-shaped tubes, which do not flatten as round ones do.; Put one tube inside another to make a wall twice as thick.; Tape tubes in a ring around an empty middle, like the legs of a table.
+- **creative:** Fold the paper into triangle-shaped tubes, which do not flatten the way round tubes do.; Put one tube inside another to make a wall twice as thick.; Tape tubes in a ring around an empty middle, like the legs of a table.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Ask your child to sketch two or three column designs, and to say which way the paper should be rolled, and why.  
   *Parent says:* You have four sheets of newspaper and a little tape. How could you make a column that holds the most books? Which way would you roll the paper? Draw some ideas first.  
-  *Child mode:* Draw two or three column ideas. Which way will you roll?
+  *Child mode:* Draw two or three column ideas. Which way will you roll the paper?
   - Ask: What would make a paper column stronger? (good: Rolling it tight.; Rolling it the way the fibres go.; Using more tubes.)
 - **s2 (10 min)**  
   *Parent does:* Tear a strip from each of two sheets to find which way is straight. Roll one sheet so the straight direction runs along the length of the tube. Roll another the other way. Tape both, 25 centimetres tall.  
   *Parent says:* Find the straight-tearing direction on each sheet. Roll one tube with the straight direction along its length. Roll a second the other way. Tape them both, 25 centimetres tall.  
-  *Child mode:* Find the grain. Roll one tube with the grain along its length. Roll one the other way.
+  *Child mode:* Find the direction that tears straight. Roll one tube with that direction along its length. Roll one the other way.
   - Note: Roll tightly around a pencil, then pull the pencil out. Tape in three places. Both tubes must be the same width and height.
 - **s3 (10 min)**  
   *Parent does:* Stand one tube on the table. Put a flat tray on top. Add books one at a time, gently. Count the books when the tube bends or folds. Test the second tube the same way.  
   *Parent says:* Stand a tube up. Put a tray on top. Add the books one at a time, gently. Count how many it holds for ten seconds. Then test the other tube.  
   *Child mode:* Stand a tube up. Add books one at a time. Count them.
-  - Check: Tube A holds 4 books and tube B holds 6 books. What can you say? → **Tube B is stronger as built, but test again to be sure**
+  - Check: Tube A holds 4 books and tube B holds 6 books. What can you say? → **Tube B held more this time, but test again to be sure**
 - **s4 (10 min)**  
   *Parent does:* Now use all four sheets and 40 centimetres of tape to build your best column. Test it. Change one thing and test again.  
   *Parent says:* Use what you found. Build the strongest column you can from four sheets and 40 centimetres of tape. Test it. Then change one thing and test it again.  
@@ -469,38 +469,38 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Parent does:* Ask your child to say how many books their best column held, what made it strong, and why.  
   *Parent says:* How many books did your best column hold? What made it strong? Why do you think that worked?  
   *Child mode:* How many books did it hold? Why did that work?
-  - Note: Paper is stiffer along its grain, so a tube with the grain along its length bends less. A difference between the tubes may be small. Write what you see.
+  - Note: Paper is stiffer along its grain, so a tube with the grain along its length bends less. The difference between the two tubes may be small. Write what you see.
   - Think: Which way would you roll if you were building a bridge from paper?
 ### c2 · Better Film: bendy but not sticky (37 min, 4 days)
-- **problem:** Using what you learned from the cornflour film test, make a film that folds at least ten times before it cracks, and is not sticky. The one thing you choose is the amount of glycerine.
-- **your turn:** Choose your own glycerine amount. Cook and test your film. If you cook a second film, change only the glycerine again, and test it. Which film folded the most times and stayed unsticky? Why do you think it did?
-- **constraints:** Use 1 tablespoon of cornflour, 4 tablespoons of water and 1 teaspoon of vinegar.; Choose a glycerine amount between half a teaspoon and one and a half teaspoons.; Spread the film about the same size and thickness as the earlier films.; Let it dry for two to four days before testing.
-- **general:** Choose the amount that folded best in your first test.; Choose an amount halfway between the best two.; Choose a little less than the amount that felt sticky.
+- **problem:** Using what you learned from the Cornflour Film test, make a film that folds at least ten times before it cracks, and is not sticky. The one thing you choose is the amount of glycerine.
+- **your turn:** Choose your own glycerine amount. Cook and test your film. If you cook a second film, change only the glycerine again, and test it. Which film folded the most times and was not sticky? Why do you think it did?
+- **constraints:** Use 1 tablespoon of cornflour, 4 tablespoons of water and 1 teaspoon of vinegar.; Choose a glycerine amount between half a teaspoon and one and a half teaspoons.; Spread the film about the same size and thickness as the films in the Cornflour Film test.; Let it dry for two to four days before testing.
+- **general:** Choose the amount that folded best in the Cornflour Film test.; Choose an amount halfway between the two amounts that folded best.; Choose a little less than the amount that felt sticky.
 - **creative:** Extra ideas, once your film works. Each one changes a second thing, so test it as a new film. Add a pinch of turmeric for colour, and see if it changes the bending.; Press a thread of cotton yarn into the wet film, like a strengthening wire.; Layer two thin films, one on top of the other, and test the pair.
 - **schedule:** day 1: Choose an amount, cook the film and spread it. (22 min); day 4: Peel the film, test it and judge it. (15 min)
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Look at the results of the Cornflour Film test. Ask your child to choose an amount of glycerine and say why.  
-  *Parent says:* Look at your results from the cornflour films. Which amount made the best bending film without being sticky? What amount will you try? Why?  
-  *Child mode:* Look at your film results. Pick an amount of glycerine. Why?
+  *Parent says:* Look at your results from the Cornflour Film test. Which amount of glycerine made a film that bent well and was not sticky? What amount will you try now? Why?  
+  *Child mode:* Look at your Cornflour Film results. Pick an amount of glycerine. Why that amount?
   - Ask: Which amount do you think is best, and why? (good: The one that folded most.; A little more than the best one.; Somewhere between two of the amounts.)
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Cook one new batch. Use 1 tablespoon of cornflour, 4 tablespoons of water and 1 teaspoon of vinegar. An adult heats it on low until it is clear and thick. Stir in your chosen glycerine. Spread it into a circle on an oiled plate.  
   *Parent says:* Cook a small batch of the same mix. An adult stirs it on low heat until it is clear and thick. Stir in your glycerine amount. Spread it thin on an oiled plate.  
   *Child mode:* A grown-up cooks the mix. Stir in your glycerine. Spread it flat.
-  - Note: Choose a glycerine amount between half a teaspoon and one and a half teaspoons. Make the new film the same size and thickness as the earlier ones, so you can compare.
+  - Note: Choose a glycerine amount between half a teaspoon and one and a half teaspoons. Make the new film the same size and thickness as the films in the Cornflour Film test, so you can compare.
 - **s3 (2 min)**  
   *Parent does:* Leave the plate on a flat shelf for two to four days.  
   *Parent says:* Leave the plate on a shelf. Check the day after tomorrow.  
   *Child mode:* Leave the plate on a shelf for two to four days.
   - Wait: Leave it for 2 to 4 days.
 - **s4 (10 min)**  
-  *Parent does:* Peel the film and cut a strip 2 centimetres wide. Fold and open it, and count the folds until it cracks. Stop at 20. Feel if it is sticky. Compare with your earlier films.  
-  *Parent says:* Peel the film. Fold a strip, open it, and count. Is it sticky? How does it compare with your earlier films?  
+  *Parent does:* Peel the film and cut a strip 2 centimetres wide. Fold and open it, and count the folds until it cracks. Stop at 20. Feel if it is sticky. Compare it with your films from the Cornflour Film test.  
+  *Parent says:* Peel the film. Fold a strip, open it, and count. Is it sticky? How does it compare with your films from the Cornflour Film test?  
   *Child mode:* Peel the film. Fold a strip and count. Is it sticky?
   - Check: Your new film folds 15 times and feels slightly sticky. Another film folds 14 times and is not sticky. Which is the better film for the job? → **It depends on the job, so say what the job is**
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say whether their new film solved the problem, and what they would change next.  
-  *Parent says:* Did your film fold at least ten times and stay unsticky? Which glycerine amount worked best? What would you change next?  
+  *Parent says:* Did your film fold at least ten times? Was it sticky? Which glycerine amount worked best? What would you change next?  
   *Child mode:* Did your film solve the problem? What would you change next?
   - Note: Some films will not reach ten folds, and that is a good result to talk about. Films made in damp weather may stay sticky. Write exactly what you see.
   - Think: What would you add to the film to make it waterproof?
@@ -523,7 +523,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
    **Answer:** Most of its fibres line up in that direction. *Why:* A tear runs easily between lined-up fibres. Across them, it must break fibres, so it wanders.
 7. (count) A cotton thread is 400 metres long. One cotton fibre is 2 centimetres long. If the fibres lay end to end with no overlap, how many fibres would the thread need?  
    **Answer:** 20000. *Why:* 400 metres is 40,000 centimetres. 40,000 divided by 2 is 20,000. A real thread needs far more fibres than this, because the fibres overlap.
-8. (write) Maya says: 'A thread can never be longer than its longest fibre.' Explain why she is wrong.  
+8. (write) Someone says: 'A thread can never be longer than its longest fibre.' Explain why this is wrong.  
    **Answer:** A cotton fibre is only two or three centimetres long, but a cotton thread can be hundreds of metres long. The fibres overlap, and twisting makes them grip each other, so the thread holds together.. *Why:* A strong answer says that the fibres overlap and that twist makes them grip, and uses a measurement such as the length of a fibre and the length of a thread.
 9. (odd) Which is the odd one out, and why? Cotton, silk, steel, wool.  
    **Answer:** Steel, because it is a metal. The others are polymers.. *Why:* Cotton is cellulose, silk and wool are proteins. Steel is metal atoms packed together, not chains.
@@ -534,8 +534,8 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
    **Answer:** False. *Why:* False. A thermoset has chains tied to each other in many places. Heat cannot make them slide, so it chars instead of melting.
 12. (draw) Draw a close-up of a sheet of newspaper showing its fibres. Add an arrow along the direction it tears straight.  
    **Answer:** Many short lines, mostly lying in one direction, and an arrow pointing the same way.. *Why:* A strong drawing shows most fibres lined up, and the arrow in the direction of the lined-up fibres.
-13. (perspective) Lakshmi and Farhan are choosing a shirt for hot, rainy Chennai days.  
-   **Answer:** Answers vary. A strong answer picks a side, gives a reason, and says what to test or look up, such as how fast each dries or how much water each needs.. *Why:* Both have a point. A made material is not good or bad because of where it came from. It depends on what it is used for, and on what it costs to make.
+13. (perspective) Here are two views about the best shirt for hot, rainy Chennai days.  
+   **Answer:** Answers vary. A strong answer picks a side, gives a reason, and says what to test or look up, such as how fast each dries or how much water each needs.. *Why:* Both views have a point. A material is not good or bad because of where it came from. It depends on what it is used for, and on what it costs to make.
 14. (fill) Starch and cellulose are both made of the same sugar, called ____.  
    **Answer:** ['glucose']. *Why:* Both are chains of glucose. They are joined in different ways, so starch coils and cellulose lies straight.
 15. (mcq) A girl tests two films, but the amount of glycerine, the thickness and the drying time are all different. What is wrong with her test?  
@@ -553,7 +553,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
    **Answer:** True. *Why:* True. Stretching lines up the chains, and lined-up chains share a pull well.
 4. (match) Match each thing to what describes it best.  
    **Answer:** Pressure cooker handle → thermoset, tied all through; Water bottle → thermoplastic, can be melted and reshaped; Tyre rubber → chains tied together at a few places; Cotton shirt → straight cellulose chains. *Why:* A cooker handle must not soften, so its chains are tied everywhere. A bottle can be melted and reshaped. Tyre rubber has a few ties that keep it stretchy. Cotton is cellulose.
-5. (count) These made-up results are for three cornflour films. The best film folded how many more times than the worst film?  
+5. (count) These made-up results are for three cornflour films. How many more times did the best film fold than the worst film?  
    **Answer:** 12. *Why:* The best film folded 14 times and the worst folded 2 times. 14 take away 2 is 12.
 6. (count) A strip of plastic is 8 centimetres long. After hot water it is 6 centimetres long. By how many centimetres did it shrink?  
    **Answer:** 2. *Why:* 8 take away 6 is 2. The strip shrank by 2 centimetres, which is one quarter of its length.
@@ -561,8 +561,8 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
    **Answer:** PET bottle → Softens in heat (thermoplastic); carry bag → Softens in heat (thermoplastic); pressure cooker handle → Stays firm (thermoset); melamine plate → Stays firm (thermoset); old Bakelite switch → Stays firm (thermoset); polystyrene foam cup → Softens in heat (thermoplastic). *Why:* Bottles, bags and polystyrene soften because their chains are free to slide. Handles, melamine plates and Bakelite are thermosets, with chains tied to each other.
 8. (write) A coir rope snapped at the place where it had rubbed on a stone all season, and not where it was new. Explain why, using the words fibre and twist.  
    **Answer:** The rubbing wore the twist loose at that place. Loose twist means the fibres no longer grip each other, so they slide out when the rope is pulled.. *Why:* A strong answer says the rope fails where the twist is loose, because twist is what makes the short fibres grip.
-9. (perspective) Asha and Imran are arguing about a rope.  
-   **Answer:** Answers vary. A strong answer picks a side and gives a reason, such as that the rope acts as one piece when pulled, or that untwisting it leaves only loose fibres.. *Why:* Both have a point. The rope does act as one piece, and it is also made of many fibres. It depends on what you are asking.
+9. (perspective) Here are two views about a rope.  
+   **Answer:** Answers vary. A strong answer picks a side and gives a reason, such as that the rope acts as one piece when pulled, or that untwisting it leaves only loose fibres.. *Why:* Both views have a point. The rope does act as one piece, and it is also made of many fibres. It depends on what you are asking.
 10. (odd) Which is the odd one out, and why? Rice, potato, chapati dough, cotton thread.  
    **Answer:** Cotton thread, because it is made of cellulose. The others are mostly starch.. *Why:* Rice, potato and wheat flour are rich in starch. Cotton is mostly cellulose. Both are glucose chains, but they are joined differently.
 11. (mcq) An enzyme that cuts starch cannot cut cellulose. What does this tell us?  
@@ -596,8 +596,8 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
    **Answer:** True. *Why:* True. A thermoplastic softens in heat and sets again when it cools, so it can be reshaped.
 7. (sort) Sort each by what its chains are made of.  
    **Answer:** hair → Protein chains; silk → Protein chains; cotton → Glucose chains; rice → Glucose chains; table salt → Not a polymer; water → Not a polymer. *Why:* Hair and silk are proteins, which are chains of amino acids. Cotton and rice are chains of glucose. Salt and water are made of small units, not long chains.
-8. (perspective) Two children look at a cooker handle that is a net of strong ties right through.  
-   **Answer:** Answers vary. A strong answer picks a side and says what they think counts as one thing.. *Why:* Chemists really do disagree. The question is about what we mean by the word molecule, and a good answer says what the word means to them.
+8. (perspective) A cooker handle is a net of strong ties right through the plastic. Here are two views about it.  
+   **Answer:** Answers vary. A strong answer picks a side and says what counts as one thing.. *Why:* Chemists really do disagree. The question is about what we mean by the word molecule, and a good answer says what the word means to the person answering.
 9. (write) A factory stretches a newly spun nylon thread. Explain what happens to the chains, and why the thread gets stronger.  
    **Answer:** Stretching pulls the chains straight and lines them up along the thread. Lined-up chains share a pull along their strong bonds, so the thread holds more.. *Why:* A strong answer says the chains line up along the thread and use their strong bonds for the pull.
 10. (mcq) A child wants to find out whether more twist makes cotton thread hold more. Which is a fair test?  
@@ -619,8 +619,8 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 
 ## Videos
 - **Spinning Cotton on a Takli Support Spindle** (Spin2Weave, 5 min) id `RUHMTsfhshY`: To watch fibres being drawn out and twisted into yarn, as in the Takli project. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
-- **Stephanie Kwolek: the discovery of Kevlar** (Marloes Peeters, 5 min) id `OehW5i8AMBc`: To hear how the cloudy liquid became a fibre stronger than steel. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
-- **Why does plastic shrink in hot water? Heat shrink explained** (to be found, 5 min) id `to find`: To see stretched chains coil up again when heated. *Check:* Not yet found. Find one, watch it, and check it says that heating relaxes stretched chains.
+- **Stephanie Kwolek: the discovery of Kevlar** (Marloes Peeters, 5 min) id `OehW5i8AMBc`: To hear how Stephanie Kwolek spun a cloudy liquid into a fibre stronger than steel. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Why does Shrink Plastic... Shrink?** (Super Science with Simon, 5 min) id `NjUp_nAJC9M`: To see stretched chains coil up again when heated. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Which of these describes a polymer best?  
@@ -706,9 +706,9 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 
 ## Connected maths
 - In the Wisp and Thread activity, a child found that one cotton fibre was 2 centimetres long. A thread is 5 metres long. If the fibres lay end to end with no overlap, how many would the thread need? Would a real thread need more or fewer, and why? **250 fibres. A real thread needs more.**. 5 metres is 500 centimetres. 500 divided by 2 is 250. Real fibres overlap, so many more are needed to cover the same length. (queues `math.length.kilometres-and-conversions.L4`)
-- These are made-up results from three cornflour films. The best film folded how many times as many as the worst film? Which film would you choose for a bag, and why? **7 times as many. The 1 teaspoon film.**. 14 divided by 2 is 7. The best film folded 7 times as many as the worst. The film with 1 teaspoon bends the most and is probably not too sticky, but you would test it. (queues `math.fractions.ratio-and-proportion.L4`)
+- These are made-up results from three cornflour films. How many times as many folds did the best film manage as the worst film? Which film would you choose for a bag, and why? **7 times as many. The 1 teaspoon film.**. 14 divided by 2 is 7. The best film folded 7 times as many times as the worst. The film with 1 teaspoon bends the most and is probably not too sticky, but you would need to test it to be sure. (queues `math.fractions.ratio-and-proportion.L4`)
 - The recipe for three films uses 3 tablespoons of cornflour and 12 tablespoons of water. A class wants to make 12 films from the same recipe. How many tablespoons of cornflour and of water do they need? **12 tablespoons of cornflour and 48 tablespoons of water.**. 12 films is 4 times as many as 3 films. 3 times 4 is 12 tablespoons of cornflour. 12 times 4 is 48 tablespoons of water. (queues `math.multiplication.multiplication-facts.L4`)
-- Imagine two made-up results from a Hot Water test. One strip was 8 centimetres long and shrank to 6 centimetres. A longer strip was 10 centimetres long and shrank to 5 centimetres. What fraction of its length did each strip lose? Which shrank by the bigger fraction? **The first lost one quarter. The second lost one half. The second shrank by the bigger fraction.**. The first lost 2 centimetres out of 8, which is 2 over 8, or one quarter. The second lost 5 out of 10, which is one half. One half is bigger than one quarter. (queues `math.fractions.fractions-of-a-whole.L4`)
+- Here are two made-up results from the Hot Water Plastics test. One strip was 8 centimetres long and shrank to 6 centimetres. A longer strip was 10 centimetres long and shrank to 5 centimetres. What fraction of its length did each strip lose? Which shrank by the bigger fraction? **The first lost one quarter. The second lost one half. The second shrank by the bigger fraction.**. The first lost 2 centimetres out of 8, which is 2 over 8, or one quarter. The second lost 5 out of 10, which is one half. One half is bigger than one quarter. (queues `math.fractions.fractions-of-a-whole.L4`)
 - In the Wisp and Thread activity, a child spun a pencil 30 times for a thread 10 centimetres long. How many turns is that for each centimetre? If the thread is 25 centimetres long, how many turns would give the same twist? **3 turns for each centimetre. 75 turns.**. 30 divided by 10 is 3 turns for each centimetre. 25 centimetres times 3 turns is 75 turns. Turns for each centimetre is a fair way to compare twist. (queues `math.division.L4`)
 
 ## Song
@@ -747,7 +747,7 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - Notebook items chem:55 (polymers and materials), chem:68, chem:103 (polymerisation) and chem:118 (advanced materials), as listed for sci.chemistry.polymers.L3. The founder's notebook has no topic file for polymers, so no other founder notes were used.
 - Existing lessons read: the Class 3 and Class 4 materials lessons in app/content/combined (sci-C3-materials-and-their-properties, sci-C4-changing-materials), for materials already covered.
 - Nearby units read so that nothing repeats: sci.chemistry.polymers.L3 (slime, noodle model, milk packet stretch, rubber story), sci.materials.testing-materials.L2, sci.materials.using-materials.L3, sci.waste.reduce-reuse-recycle.L3.
-- Kwolek, S. L., Morgan, P. W., Schaefgen, J. R. and Gulrich, L. W., 'Synthesis, anisotropic solutions, and fibers of poly(1,4-benzamide)', Macromolecules 10, 1977 (lined-up rod-like chains in solution; Kevlar's discovery in 1965 is described in the DuPont and Science History Institute accounts of her work).
+- Kwolek, S. L., Morgan, P. W., Schaefgen, J. R. and Gulrich, L. W., 'Synthesis, anisotropic solutions, and fibers of poly(1,4-benzamide)', Macromolecules 10, 1977 (lined-up rod-like chains in solution; her work on the cloudy solutions in the mid-1960s is described in the DuPont and Science History Institute accounts. The tyre aim, the technician Charles Smullen and the 'about five times stronger than steel by weight' figure agree across accounts checked on 17 Nov 2026).
 - Carothers and others at DuPont, nylon 6,6, 1935.
 - Baekeland, L. H., Bakelite, the first fully synthetic plastic, 1907 (patent 1909).
 - Staudinger, 'Über Polymerisation', Berichte der Deutschen Chemischen Gesellschaft 53, 1920 (macromolecules).
