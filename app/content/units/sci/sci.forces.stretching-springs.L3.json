@@ -2939,7 +2939,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Bend a green and a dry twig. Make a ruler 'earthquake'."
+     "what": "Bend a green and a dry twig. Then bend a ruler until it slips, to feel a tiny copy of an earthquake."
     }
    ],
    "record": "Draw the green twig and the dry twig after bending. Write which one sprang back.",
@@ -2950,11 +2950,11 @@
     },
     {
      "art": "A plastic ruler held flat on a table with one end hanging over the edge, a finger pressing the end down.",
-     "caption": "2. Hold a ruler on the table. Press the free end down slowly."
+     "caption": "2. Hold a ruler on the table. Press the free end down slowly, like rock being pushed slowly underground."
     },
     {
      "art": "The ruler end slipping off the finger and springing up with a twang, shaking lines around it.",
-     "caption": "3. Let your finger slip off. Twang! That is an earthquake."
+     "caption": "3. Let your finger slip off. Twang! The ruler lets go of its stored energy all at once. Rock underground does the same in an earthquake."
     }
    ],
    "flow": [
@@ -2964,13 +2964,13 @@
      "do": "1. Ask for a guess and a reason. 2. Gently bend the green twig, then let go. 3. Gently bend the dry twig the same amount.",
      "say": "Before we bend them, guess. Which twig will spring back, and which will snap? Why do you think so?",
      "kid": "Bend the green twig. Let go. Now bend the dry twig. Which one snapped?",
-     "context": "This is the first step of Bend or Snap. You compare a living twig and a dead one. Then you use a ruler to show how earthquakes happen."
+     "context": "This is the first step of Bend or Snap. First you compare a living twig and a dead one. Then you use a ruler to feel a tiny copy of an earthquake. An earthquake happens when rock deep underground is pushed and bent slowly for many years. Then it suddenly slips, springs back, and the ground shakes."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "1. Hold a plastic ruler flat on a table with about half of it over the edge. 2. Press the free end down slowly with one finger. 3. Keep pressing until it slips off your finger.",
-     "say": "Press the end down slowly, and keep going until it slips off your finger. What do you feel and hear when it slips? Where do you think that twang came from?",
+     "say": "Press the end down slowly, and keep going until it slips off your finger. The ruler is like rock underground that is being pushed slowly for years. What do you feel and hear when it slips? Where do you think that twang came from?",
      "kid": "Hold the ruler on the table. Press the end down slowly. Keep going until it slips. Twang!",
      "ask": [
       {
@@ -3003,7 +3003,7 @@
      "think": "Is bending a kind of strength?"
     }
    ],
-   "context": "In this activity you bend a green twig and a dry twig to see which springs back. You bend a ruler until it slips, to feel how an earthquake happens. Then you watch a twig for the warning sign of the elastic limit."
+   "context": "In this activity you bend a green twig and a dry twig to see which springs back. Then you bend a ruler until it slips, which is a tiny copy of an earthquake: something bent slowly lets go all at once. Last, you watch a twig for the warning sign of the elastic limit."
   }
  ],
  "projects": [

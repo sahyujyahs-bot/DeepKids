@@ -599,7 +599,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Child mode:* Bend the green twig. Let go. Now bend the dry twig. Which one snapped?
 - **s2 (5 min)**  
   *Parent does:* 1. Hold a plastic ruler flat on a table with about half of it over the edge. 2. Press the free end down slowly with one finger. 3. Keep pressing until it slips off your finger.  
-  *Parent says:* Press the end down slowly, and keep going until it slips off your finger. What do you feel and hear when it slips? Where do you think that twang came from?  
+  *Parent says:* Press the end down slowly, and keep going until it slips off your finger. The ruler is like rock underground that is being pushed slowly for years. What do you feel and hear when it slips? Where do you think that twang came from?  
   *Child mode:* Hold the ruler on the table. Press the end down slowly. Keep going until it slips. Twang!
   - Ask: What happened when the ruler slipped? (good: It sprang back and shook.; It made a twang and wobbled.)
   - Note: After your child answers: the ruler stored energy as it bent. It let the energy go all at once, as shaking and sound. Rock underground bends slowly for years in the same way. When it slips, the shaking is an earthquake.
