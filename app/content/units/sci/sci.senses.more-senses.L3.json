@@ -549,8 +549,8 @@
      "id": "s3",
      "mins": 3,
      "do": "At the end, pick one trio and talk about it.",
-     "say": "Which of these senses would you most like to have? What would you do with it?",
-     "kid": "Which animal sense would you like? What would you do with it?",
+     "say": "Pick one trio. What would happen to that animal if they lost that sense?",
+     "kid": "Pick one trio. What would happen to that animal if they lost that sense?",
      "check": {
       "t": "mcq",
       "q": "A female mosquito finds people in a dark room. Which sense helps her most?",
@@ -561,7 +561,8 @@
       ],
       "a": 1,
       "why": "She needs blood for her eggs. She senses the carbon dioxide in your breath from metres away, then follows your warmth and smell. Her eyes help only up close."
-     }
+     },
+     "parent": "A good answer says the animal could not solve their problem. For example, a prawn without sand grains would not know which way is up, and a python could not find a rat in the dark."
     }
    ],
    "setup": [
@@ -714,8 +715,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Add up the points.",
-     "say": "Which moment was the hardest? Why?",
-     "kid": "Add up your points. Which card was hardest?",
+     "say": "Which moments used two senses at once? Why did each one need both?",
+     "kid": "Add up your points. Which moments used two senses at once?",
      "check": {
       "t": "mcq",
       "q": "You feel the lift start to go up, though the doors are shut. Which sense noticed?",
@@ -726,7 +727,8 @@
       ],
       "a": 1,
       "why": "The crystals in your inner ear press down harder when the lift speeds up. Your eyes see only the closed doors, and nothing hurts."
-     }
+     },
+     "parent": "Standing on one foot to put on a sock uses balance and body position. Pulling your hand back from a hot tawa uses pain, and a reflex."
     }
    ],
    "setup": [
@@ -1004,7 +1006,7 @@
       "t": "mcq",
       "q": "A girl shuts her eyes and touches her pencil to the paper. It lands 2 centimetres from the dot. What does this show?",
       "options": [
-       "Tashi peeked",
+       "She peeked",
        "Her body can sense where her hand is without her eyes, but not perfectly",
        "Her hand can see"
       ],
@@ -1223,7 +1225,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Your child spins slowly 5 times on the mat, then sits down.",
-     "say": "Spin slowly 5 times, then sit down. What do you notice? What do you wonder?",
+     "say": "Spin slowly 5 times, then sit down. What do you notice?",
      "kid": "Spin slowly 5 times. Sit down. What do you notice?",
      "adult": true,
      "ask": [
@@ -1288,7 +1290,8 @@
      "art": "The bowl held still by two hands, with curved arrows showing the water and the paper arrow still swirling.",
      "caption": "3. Stop the bowl. The water keeps turning."
     }
-   ]
+   ],
+   "problem": "Why does the room seem to keep turning after you stop spinning? Deep in each ear are loops full of liquid. A bowl of water will be a model of one loop. You will turn the bowl, stop it, and watch what the water does."
   },
   {
    "id": "a2",
@@ -1357,7 +1360,8 @@
      "art": "A child with eyes shut touching her left thumb with her right finger, her left arm held out at an odd angle.",
      "caption": "3. Eyes shut: find your thumb."
     }
-   ]
+   ],
+   "problem": "Your muscles send signals to your brain about where your arms are. This is your body-position sense. First you will fool it, so your arms rise by themselves. Then you will find your own thumb with your eyes shut."
   },
   {
    "id": "a3",
@@ -1433,7 +1437,8 @@
      "art": "The child sipping again, with small blue snowflake marks around her mouth.",
      "caption": "3. Sip again. How cold now?"
     }
-   ]
+   ],
+   "problem": "Your skin has cold receptors. They send a signal when something cold touches you. Can a sweet make that signal when nothing is colder? You will sip the same water before and after a mint."
   },
   {
    "id": "a4",
@@ -1577,7 +1582,8 @@
      "art": "A grown-up moving a spoon quickly through the water on the left side of the child's hand, with ripples spreading.",
      "caption": "2. Move the spoon on one side. Point to it."
     }
-   ]
+   ],
+   "problem": "A fish has a row of sensors along each side of their body. It is called the lateral line, and it feels the water move. You will try to feel water move with one hand, and point to where it came from."
   }
  ],
  "projects": [
@@ -2158,14 +2164,14 @@
     },
     {
      "t": "perspective",
-     "p": "The second person and her brother the first person touch the steel railing and the wooden door on their balcony in the morning.",
+     "p": "A girl and her brother touch the steel railing and the wooden door on their balcony in the morning. They say different things.",
      "views": [
       {
-       "who": "The first person",
+       "who": "The brother",
        "says": "The railing is colder than the door. I can feel it."
       },
       {
-       "who": "The second person",
+       "who": "The sister",
        "says": "They are the same temperature. The railing just takes heat from your hand faster."
       }
      ],
@@ -2459,7 +2465,7 @@
       "the liquid keeps swirling and bends the hairs the other way",
       "the liquid slows and stops, and the dizziness ends"
      ],
-     "why": "This is why you feel turning at the start, little while spinning steadily, and turning the other way after you stop.",
+     "why": "This is why you feel turning at the start, feel little while spinning steadily, and feel turning the other way after you stop.",
      "how": "a1"
     },
     {
@@ -2488,7 +2494,7 @@
     },
     {
      "t": "write",
-     "p": "Some people say a sense is 'a window onto the world'. Steel feels colder than wood, but ice melts faster on steel. Would you agree with the saying? What does your sense of cold really show you?",
+     "p": "Some people say our senses show us the world exactly as it is. Steel feels colder than wood, but ice melts faster on steel. Do you agree? What does your sense of cold really show you?",
      "lines": 4,
      "how": "e1",
      "a": "Partly. The sense of cold does tell me about the world, but not the temperature. It shows how fast heat is leaving my hand, which depends on me and on what I touch.",
@@ -2919,11 +2925,11 @@
   "practice": {
    "title": "Feel the heat moving",
    "mins": 3,
-   "say": "Close your eyes. Rest one palm on a steel tumbler and the other on a wooden spoon or a cloth. Keep them still for one minute. Notice how the cold under the steel fades. Your skin is giving its warmth to the steel, and the steel is getting warmer. Now lift both hands, and breathe slowly three times. Can you still feel where the steel was?",
+   "say": "Close your eyes. Rest one palm on a steel tumbler and the other on a wooden spoon or a cloth. Keep them still for one minute. Notice how the cold under the steel fades. Your skin is giving its warmth to the steel, and the steel is getting warmer. Now lift both hands, and breathe slowly three times. Which palm feels cooler now, the one that was on the steel or the one that was on the cloth?",
    "kid": "Shut your eyes. Put one hand on a steel tumbler and the other on a cloth. Keep still for one minute. Does the cold fade? Your warmth is going into the steel."
   },
   "ask": [
-   "Your skin feels heat moving, not temperature. Which other sense might be telling you something different from what you think it tells you?",
+   "Your skin feels heat moving, not temperature. After you spin, the room seems to turn. Is the room really turning? What does that feeling really show?",
    "In Feel the heat moving, the steel tumbler took warmth from your palm until the cold feeling faded. Where does your warmth go when you touch things all day?",
    "A prawn uses sand from outside their body to sense. Can something from outside you become part of how you sense?"
   ],
