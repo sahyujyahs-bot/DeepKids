@@ -15,6 +15,10 @@
   "src": "media/img/sci.sky.moon-phases.L5/expl.5.jpg",
   "drawn": true
  },
+ "intro": {
+  "src": "media/img/sci.sky.moon-phases.L5/intro.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
+ },
  "setup.a1.1": {
   "src": "media/img/sci.sky.moon-phases.L5/setup.a1.1.jpg",
   "drawn": true
@@ -53,6 +57,10 @@
  },
  "story.0": {
   "src": "media/img/sci.sky.moon-phases.L5/story.0.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
+ },
+ "story.2": {
+  "src": "media/img/sci.sky.moon-phases.L5/story.2.jpg",
   "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
  },
  "story.3": {
