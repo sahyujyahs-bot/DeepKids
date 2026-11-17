@@ -57,7 +57,7 @@ Think of DNA as a big family cookbook that never leaves the shelf. When the cell
 
 A cell in a mustard plant's leaf and a cell in the same plant's root carry the same DNA. The leaf cell uses the genes for making chlorophyll and catching light. The root cell uses genes for soaking up water. In your body, a skin cell, a muscle cell and a nerve cell also share one DNA, and read different parts. Your red blood cells are an exception: as they grow, they lose their nucleus, so they carry no DNA at all.
 - e.g. Your eye cells and your toe cells have the same DNA, but use different genes.
-- e.g. A methi seedling's seed leaves turn green only in the light, because light leads their cells to make chlorophyll.
+- e.g. A methi seedling's seed leaves turn green only in the light, because the light makes their cells start building chlorophyll.
 - e.g. Cells in your pancreas use the gene for insulin. Your skin cells carry that gene too, but do not use it.
 ### Half from each parent · *defined*
 **Definition:** A child inherits half of their DNA from their mother and half from their father. A plant's seed gets half from the egg in the flower and half from the pollen.
@@ -118,14 +118,14 @@ We have grown three kinds of seed side by side, and learned that each carries th
 - *what is life:* Every living thing made of cells carries their own instructions, and uses them to build their own body from water, air and food.
 - *what is this world:* A mustard plant, a crow and you all write your instructions in the same four letters, A, T, C and G.
 
-DNA uses only four letters, yet the instructions for every kind of living thing are written in them: a mustard plant, a neem tree, an ant, a crow and you. One code, in countless orders, gives countless bodies. And because every living thing with cells uses this same code, scientists think all of them came from one shared ancestor, long ago. So all the many kinds of life are related, like one very large family.
+DNA uses only four letters, yet the instructions for every kind of living thing are written in them: a mustard plant, a neem tree, an ant, a crow and you. The same four letters, put in many different orders, give the instructions for many different bodies. And because every living thing with cells uses this same code, scientists think all of them came from one shared ancestor, long ago. So all the many kinds of life are related, like one very large family.
 
 - **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that finest part, which you cannot see, this great banyan tree grows.' (Inside a seed so small that you can see nothing in it, there is the plan for a whole tree. Today we know part of what is there: DNA, far too thin to see, in every cell of the seed.)
-- **Bhagavad Gita 7.10:** Krishna says: know me as the eternal seed of all beings. (Every living thing grows from a seed or a cell that carries instructions copied from the living things before. The Gita names one seed behind all of them.)
+- **Bhagavad Gita 7.10:** Krishna says: know me as the eternal seed of all beings. (Every living thing grows from a seed or a cell that carries instructions copied from the living things before. The Gita speaks of one eternal seed behind all living beings.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988):** Look deeply into a sheet of paper and you see the cloud, the rain and the tree that are in the paper. Everything is made of things that are not itself. (A seedling's body is built from water, air, light and the food in the seed. The instructions decide the shape, but the material comes from everything around them.)
 - Science (settled): All known living things with cells keep their instructions in DNA, with the same four letters and almost the same code. This is strong evidence that all of them share one ancestor.
 - Science (open): How a cell weighs everything they sense to choose which genes to use is still being worked out.
-- Other view, Many biologists: Calling DNA 'instructions' or a 'code' is a helpful comparison, but no one wrote the code and nothing reads it the way a person reads a book. It is chemistry: molecules fitting together. Reading meaning into it says more about us than about DNA.
+- Other view, Many biologists: Calling DNA 'instructions' or a 'code' is a helpful comparison, but no one wrote the code and nothing reads it the way a person reads a book. It is chemistry: molecules fitting together. So these words may tell us more about how people think than about what DNA really does.
 - Practice, Hold a seed (3 min): Let's each hold one mustard seed in our palm. Look at how small it is. Now close your eyes and breathe slowly, five times. Inside this seed is the plan for a whole mustard plant, with yellow flowers. Inside your own body, every cell holds a plan too. Some of it came from your grandparents, and from their parents. Open your eyes. Look at the seed again.
 - Ask: Is a mustard plant already inside the mustard seed, or only the plan for one?
 - Ask: Your DNA was copied from your parents, and theirs from their parents. Where does your family really begin?
@@ -342,8 +342,9 @@ Arjun held out his hand and looked at it for a long time.
   *Parent does:* Ask your child to draw a guess of the leaf each seed will grow.  
   *Parent says:* Each of these seeds can grow into a whole plant. Where is the plant now? Draw the leaf you think each one will grow.  
   *Child mode:* Each seed can grow a whole plant. Where is the plant now? Draw your guess of each leaf.
-  - Note: There is no wrong answer here. Keep the drawings, and compare them with the real seed leaves at the end of the Three Seeds experiment.
+  - Note: There is no wrong answer to the drawing. The answer to the question is that the whole plant is already inside the seed, folded up very small, together with its instructions. Keep the drawings, and compare them with the real seed leaves at the end of the Three Seeds experiment.
 ### a2 · Same Letters, New Picture: the four-letter code (15 min)
+- **problem:** DNA is written with only four letters. In this activity each letter is a colour. You colour three grids that use the same letters in different orders, and see whether the order changes the picture.
 - **record:** Stick the three coloured grids side by side and write the code under each.
 - **s1 (3 min)**  
   *Parent does:* 1. Write the key at the top of the page: A red, T yellow, C blue, G green. 2. Draw three 4 by 4 grids.  
@@ -360,6 +361,7 @@ Arjun held out his hand and looked at it for a long time.
   *Child mode:* Count the red squares in each grid. Same number? Then why do they look different?
   - Check: All three grids use four of each letter. What makes the pictures different? → **The order of the letters**
 ### a3 · The RNA Kitchen: copy one recipe, make one drink (20 min)
+- **problem:** In this activity you act out how a cell uses RNA. The recipe book stands for DNA, which stays safe in one place. Your slip of paper stands for RNA, a copy of just one recipe. The drink you make stands for a protein, which the cell builds by following the copy.
 - **record:** Draw a cell as a big circle with a smaller circle inside for the nucleus. Draw the book in the nucleus, the slip on its way out, and the glass of neer mor outside.
 - **s1 (5 min)**  
   *Parent does:* 1. Put the recipe book in a room away from the kitchen. 2. Ask your child to find the neer mor recipe and copy it onto the slip, word by word. 3. The book stays where it is.  
@@ -377,6 +379,7 @@ Arjun held out his hand and looked at it for a long time.
   - Note: Good answers: the book stays safe from spills, the cell needs many copies of some recipes at once, and old copies can be thrown away. All of these are true of cells too.
   - Check: In a cell, what is like the slip of paper? → **RNA**
 ### a4 · Two Metres in a Speck: how much DNA is in one cell? (10 min)
+- **problem:** Every cell in your body holds about 2 metres of DNA, which is longer than most grown-ups are tall. A cell is far too small to see, so the DNA must be folded up very small. You measure 2 metres of thread and try to wind it up as small as you can.
 - **record:** Draw yourself next to a 2-metre line, and next to that a dot for the nucleus.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the measuring tape on the floor. 2. Unroll thread along it to 2 metres. 3. Cut it.  
@@ -392,7 +395,7 @@ Arjun held out his hand and looked at it for a long time.
 - **record:** Make three lists: features that may come from DNA, features from what happened to me, and features from both.
 - **s1 (7 min)**  
   *Parent does:* Sit with photos or family members. Look in the mirror together and compare hair, eyes, eyebrows, nose, smile, ears and hands.  
-  *Parent says:* Which of your features do you see in someone in your family? Is there anything you have that nobody else has?  
+  *Parent says:* Which of your features do you see in someone in your family?  
   *Child mode:* Look in the mirror. Then look at your family or the photos. Who has your nose? Your smile?
   - Note: Be gentle in families where a child is adopted or lives with one parent. You can compare with anyone in the home: we all share some features with people we live with, and many with all people.
 - **s2 (8 min)**  
@@ -417,7 +420,7 @@ Arjun held out his hand and looked at it for a long time.
   - Wait: Day 3
 - **s3 (15 min)**  
   *Parent does:* 1. Day 5: fill three cups with soil from a potted plant. 2. Make a hole with a pencil and lower one seedling of each kind in, root first. 3. Water gently.  
-  *Parent says:* Seedlings on cotton run out of food once their seed is used up. Soil gives them minerals to keep building.  
+  *Parent says:* A seed holds only a little food. When the seedling has used it all up, the cotton gives them nothing more to eat. Soil holds minerals, which a plant needs to keep growing.  
   *Child mode:* Put each seedling into a cup of soil, root first. Water it gently.
   - Note: No soil? Keep them on the cotton. They will still grow for a few more days, though more slowly. Soil from a potted plant, or a small bag from any plant nursery, is enough.
   - Wait: Day 5
@@ -439,7 +442,7 @@ Arjun held out his hand and looked at it for a long time.
 - **problem:** Design a code that uses only the letters A, T, C and G, so that a family member or friend can draw your kolam, rangoli or alpona pattern exactly, without ever seeing it.
 - **your turn:** Now design your own code and key. Write out a pattern as a line of letters. Give it to your partner. Compare their drawing with your hidden pattern. What would you change in your code?
 - **constraints:** You may use only the four letters A, T, C and G, written in one long line.; Your partner gets only the code and your key, never the drawing.; Your pattern must have at least 9 dots or squares.
-- **general:** Give each letter a colour, and fill a grid row by row, as in the Same Letters, New Picture activity.; Give each letter a direction: A is up, T is down, C is left, G is right. Your partner draws a line one step at a time.; Use pairs of letters: AT means a dot, CG means a gap. Using more letters for each meaning lets you say more things.
+- **general:** Give each letter a colour, and fill a grid row by row, as in the Same Letters, New Picture activity.; Give each letter a direction: A is up, T is down, C is left, G is right. Your partner draws a line one step at a time.; Use pairs of letters: AT means a dot, CG means a gap. A pair of letters can say more than one letter can. With four letters you can make 16 different pairs.
 - **creative:** Use groups of three letters, like a ribosome does. With four letters there are 64 different groups of three, enough for many shapes and colours.; Add a 'start' group and a 'stop' group, so your partner knows where the pattern begins and ends. Cells use start and stop groups too.; Make one letter change, and see how much your partner's drawing changes.
 - **s1 (8 min)**  
   *Parent does:* Your child draws a simple kolam or pattern on squared or dot paper, and hides it.  
@@ -646,7 +649,7 @@ Arjun held out his hand and looked at it for a long time.
 
 ## Connected maths
 - DNA has four letters: A, T, C and G. How many different two-letter codes can you make, such as AT, TA or GG? **16 codes.**. The first letter can be any of 4. For each first letter, the second can be any of 4. So there are 4 groups of 4. 4 times 4 is 16. You can check by listing them: AA, AT, AC, AG, then TA, TT, TC, TG, and so on. (queues `math.logic.counting-ways.L3`)
-- A ribosome reads RNA in groups of three letters. With four letters, there are 64 different groups of three. Cells use about 20 amino acids. Are there enough groups for every amino acid to have at least one? **Yes, with 44 groups to spare.**. 64 groups and 20 amino acids. 64 take away 20 is 44. So every amino acid can have a group, and 44 groups are left over. Cells use some of the extra groups as 'stop' signs, and many amino acids have more than one group. (queues `math.addition-subtraction.mental-strategies.L3`)
+- A ribosome reads RNA in groups of three letters. With four letters, there are 64 different groups of three. Cells use about 20 amino acids. Are there enough groups for every amino acid to have at least one? **Yes, with 44 groups to spare.**. There are 64 groups and 20 amino acids. 64 take away 20 is 44. So every amino acid can have a group, and 44 groups are left over. Cells use some of the extra groups as 'stop' signs, and many amino acids have more than one group. (queues `math.addition-subtraction.mental-strategies.L3`)
 - Most of your cells have 46 chromosomes, half from each parent. How many came from your father? **23.**. Half of 46 means 46 shared into 2 equal groups. 46 divided by 2 is 23. Check: 23 + 23 = 46. (queues `math.division.sharing-and-grouping.L3`)
 - In the Big Seed, Small Seed test, the five big-seed seedlings measured 6, 5, 5, 4 and 5 cm. The five small-seed seedlings measured 4, 3, 2, 3 and 3 cm. Add up each row. Which row grew more, and by how much? **Big seeds: 25 cm. Small seeds: 15 cm. The big-seed row grew 10 cm more.**. Big: 6 + 5 + 5 + 4 + 5 = 25. Small: 4 + 3 + 2 + 3 + 3 = 15. 25 take away 15 is 10. Notice that the shortest big-seed seedling, 4 cm, was as tall as the tallest small-seed seedling. That is why we measure five, not one. (queues `math.addition-subtraction.word-problems.L3`)
 - The DNA in one of your cells would be about 2 metres long if stretched out. How many centimetres is that? If you laid the DNA from 5 cells end to end, how long would it be? **200 cm. Five cells: 10 metres.**. 1 metre is 100 cm, so 2 metres is 200 cm. Five cells, each with 2 metres: 2 + 2 + 2 + 2 + 2 is 10 metres. That is longer than a classroom, from just five cells too small to see. (queues `math.length.standard-units-length.L3`)

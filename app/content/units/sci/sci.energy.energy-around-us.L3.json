@@ -133,9 +133,9 @@
    "definition": "Energy can be movement energy, heat, light, sound, electrical energy, or stored energy. These are called forms of energy.",
    "description": "The same energy can change from one form to another. In a torch, stored energy in the cells is carried by electricity to the bulb. The bulb gives out light and a little heat. In your body, stored energy from food becomes movement when you run, and heat that keeps you warm. A falling coconut's stored energy, from being high up, becomes movement energy as it falls. When it hits the ground, there is a thud: some energy has become sound.",
    "examples": [
-    "Cooker: the gas flame's heat makes steam, and the steam pushes up the whistle and makes a sound.",
-    "Phone: stored energy in the battery becomes light on the screen and sound from the speaker.",
-    "Fan: electrical energy becomes movement energy in the blades."
+    "In a pressure cooker, the heat of the gas flame makes steam. The steam pushes up the whistle and makes a sound.",
+    "In a phone, stored energy in the battery becomes light on the screen and sound from the speaker.",
+    "In a ceiling fan, electrical energy becomes movement energy in the blades."
    ],
    "perspectives": [],
    "art": "A torch drawn open, with labels: cells (stored energy), wire (electricity), bulb (light and a little heat).",
@@ -291,7 +291,7 @@
   {
    "claim": "The total energy of the whole universe may be exactly zero.",
    "who": "Edward Tryon, an American physicist, in 1973, and others since",
-   "for": "The energy of all the matter in the universe might be exactly balanced by the negative energy of gravity pulling it together.",
+   "for": "Gravity pulls things together. Scientists count the energy of things held together by gravity as less than zero. That is a little like a hole in the ground having a depth below zero. The energy of all the matter in the universe might be exactly balanced by this less-than-zero energy.",
    "against": "Energy in a whole, expanding universe is hard to define, and some physicists say the question has no clear meaning.",
    "status": "debated",
    "context": "This card is about a big open idea from physics: whether everything adds up to zero."
@@ -785,7 +785,7 @@
       "a": 1,
       "why": "It was the same marble in the same atta. The only change was the height. Dropped from higher, it sped up for longer and landed faster, so it had more movement energy to push the atta aside and make a sound. Picking 'softer atta' is a good thought about a fair test. That is why we smoothed the atta the same way every time."
      },
-     "parent": "From 80 cm the crater is wider and the dark dust is thrown further. But it is usually far less than four times as wide as the 20 cm crater. In our tries it was less than twice as wide. Talk about this in the next steps. The 80 cm mark is about as high as your child's waist."
+     "parent": "From 80 cm the crater is wider and the dark dust is thrown further. But it is usually far less than four times as wide as the 20 cm crater. Do not explain this yet. In the last step of this experiment, ask why the crater was not four times as wide."
     },
     {
      "id": "s6",
@@ -1431,7 +1431,7 @@
     "Use a toy car rolling off a stack of books instead of a marble.",
     "Put a lifted book at one step, so it falls and adds its own stored energy to the chain."
    ],
-   "your_turn": "Now design your own chain. Draw it first, with an arrow for each step. Then build it. Did the bell ring? Which step lost the most energy?",
+   "your_turn": "Now design your own chain. Draw it first, with an arrow for each step. Then build it and see whether the bell rings. If it does not, find the step where it stopped. Then think about how to pass more energy into that step.",
    "flow": [
     {
      "id": "s1",
@@ -1510,7 +1510,7 @@
    "creative": [
     "Stretch a cloth loosely over a bowl, like a hammock, so it sags and slows the marble.",
     "Use a few layers: a cloth, then cotton, then rice.",
-    "Try a tray of water. Is it quiet? Where does the energy go?"
+    "Try a tray of water. Is it quiet? The marble pushes the water aside. So its movement energy goes into moving the water, and a little ends as warmth."
    ],
    "your_turn": "Now invent your own landing pad. Test it 3 times. Is it quieter than all the others? Explain where the marble's energy went.",
    "flow": [
@@ -1635,7 +1635,7 @@
     "the torch's bulb",
     "the cells inside the torch",
     "the light switch on the wall",
-    "Lakshmi's eyes"
+    "your eyes"
    ],
    "a": 1,
    "why": "The cells hold stored energy. The bulb changes it into light.",
@@ -1935,7 +1935,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun, the six-year-old boy in the Pongal story, says, 'My energy is my own. It doesn't come from anywhere.' Write two sentences to tell him where his energy came from.",
+     "p": "A six-year-old boy says, 'My energy is my own. It doesn't come from anywhere.' Write two sentences to tell him where his energy came from.",
      "lines": 3,
      "a": "Your energy came from the food you ate, like idli or rice. That food got its energy from plants, which caught it from sunlight.",
      "why": "A strong answer goes back at least two steps: from Arjun to food, and from food to plants or the Sun."
@@ -2775,5 +2775,5 @@
   "when": "1686 (Leibniz's idea), 1722 (the clay test) and 1740 (du Châtelet's book)",
   "wrong_idea": "Many scientists, following Descartes, thought a ball moving twice as fast carries twice as much and hits twice as hard. The clay dents showed that twice as fast does about four times as much."
  },
- "warm": {"words": ["LIGHT", "SOUND", "SOLAR", "STORE", "MOVES"], "quiz": [["A marble dropped from higher up digs a wider crater because it has more stored energy.", true, "Higher up means more stored energy, which turns into movement energy as the marble falls."], ["A ceiling fan makes its own energy to keep turning.", false, "A fan gets its energy from the wall socket. Things pass energy on; they do not make it."], ["When a rolling ball stops, its energy is gone for ever.", false, "Energy is never destroyed. It passes on, mostly as a tiny bit of warmth."], ["A thing moving twice as fast has about four times as much movement energy.", true, "Movement energy grows much faster than speed, so a small rise in speed means a big rise in energy."], ["A stone lying on a high shelf has energy stored in it.", true, "It is ready to fall, so the stone holds stored energy even though it is not moving."], ["Electricity is where all our energy first comes from.", false, "Electricity only carries energy along wires. It comes from a power station, which got it from coal, gas, wind or sunlight."], ["A machine with no energy put in could keep running for ever.", false, "Some energy always spreads out as heat through rubbing, so every machine slows down and stops."], ["Animals and people get the energy to grow and move from food.", true, "Food holds stored energy. Plants take theirs from sunlight, and animals get it by eating."], ["Plants get the energy they need to grow from the soil.", false, "Plants take their energy from sunlight. The soil gives them water and minerals, not energy."], ["When energy changes from one form to another, some of it nearly always spreads out as warmth.", true, "Each change leaves a little warmth in the air and the things nearby, so energy spreads out but is never lost."]], "odd": [[["Wire", "Sun", "Cooking gas", "Food"], "Wire", "The Sun, gas and food are sources that hold or give energy; a wire only carries energy from a source."], [["Wound-up toy", "Ball on a high shelf", "Full cell", "Rolling ball"], "Rolling ball", "The first three hold stored energy ready for later; a rolling ball has movement energy because it is moving now."], [["Sun", "Lamp", "Phone screen", "Moon"], "Moon", "The Sun, a lamp and a screen make their own light; the Moon only bounces back light from the Sun."], [["Cow", "Child", "Mushroom", "Tulsi plant"], "Tulsi plant", "Cows, children and mushrooms get energy from food; a tulsi plant takes its energy from sunlight."], [["Wood", "Kerosene", "Petrol", "Water"], "Water", "Wood, kerosene and petrol are fuels that can be burned to give heat and light; water cannot be burned."]]}
+ "warm": {"words": ["LIGHT", "SOUND", "SOLAR", "STORE", "MOVES"], "quiz": [["A marble dropped from higher up digs a wider crater because it has more stored energy.", true, "Higher up means more stored energy, which turns into movement energy as the marble falls."], ["A ceiling fan makes its own energy to keep turning.", false, "A fan gets its energy from the wall socket. Things pass energy on; they do not make it."], ["When a rolling ball stops, its energy is gone for ever.", false, "Energy is never destroyed. It passes on, mostly as a tiny bit of warmth."], ["A thing moving twice as fast has about four times as much movement energy.", true, "Movement energy grows much faster than speed, so a small rise in speed means a big rise in energy."], ["A stone lying on a high shelf has energy stored in it.", true, "It is ready to fall, so the stone holds stored energy even though it is not moving."], ["Electricity is where all our energy first comes from.", false, "Electricity only carries energy along wires. It comes from a power station, which got it from coal, gas, wind or sunlight."], ["A machine with no energy put in could keep running for ever.", false, "Some energy always spreads out as heat through rubbing, so every machine slows down and stops."], ["Animals and people get the energy to grow and move from food.", true, "Food holds stored energy. Plants take theirs from sunlight, and animals get it by eating."], ["Plants get the energy they need to grow from the soil.", false, "Plants take their energy from sunlight. The soil gives them water and minerals, not energy."], ["When energy changes from one form to another, some of it nearly always spreads out as warmth.", true, "Each change leaves a little warmth in the air and the things nearby, so energy spreads out but is never lost."]], "odd": [[["Wire", "Sun", "Cooking gas", "Food"], "Wire", "The Sun, gas and food are sources that hold or give energy; a wire only carries energy from a source."], [["Wound-up toy", "Ball on a high shelf", "Full cell", "Rolling ball"], "Rolling ball", "The first three hold stored energy ready for later; a rolling ball has movement energy because it is moving now."], [["Sun", "Lamp", "Phone screen", "Moon"], "Moon", "The Sun, a lamp and a screen make their own light; the Moon only bounces back light from the Sun."], [["Cow", "Child", "Mushroom", "Tulsi plant"], "Tulsi plant", "Cows, children and mushrooms get energy from food. A tulsi plant takes their energy from sunlight."], [["Wood", "Kerosene", "Petrol", "Water"], "Water", "Wood, kerosene and petrol are fuels that can be burned to give heat and light; water cannot be burned."]]}
 }

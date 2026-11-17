@@ -37,9 +37,9 @@
 ### Everything is full of charge · *defined*
 **Definition:** Every atom has a centre with plus charges, called protons, and minus charges around it, called electrons. In most things, there are exactly as many of each, so the charges cancel.
 
-You, the balloon, the wall and the air are all made of atoms. Every atom holds plus charge in its centre and minus charge in its electrons. So a balloon straight from the packet is packed with charge. But it holds exactly as much plus as minus. The pushes and pulls cancel out, so it does nothing. We call it neutral. Things only start to push and pull when the balance is upset, when one thing has a few more electrons than it should, or a few fewer.
+You, the balloon, the wall and the air are all made of atoms. Every atom holds plus charge in its centre and minus charge in its electrons. So a balloon straight from the packet is packed with charge. But it holds exactly as much plus as minus. The pushes and pulls cancel out, so it does nothing. We call it neutral. Things only start to push and pull when the balance is upset. That happens when one thing has a few more electrons than it should, or a few fewer.
 - e.g. A new balloon is neutral. Hold it over paper bits, and none jump.
-- e.g. A single grain of salt holds more electrons than there are people on Earth, and as many protons, so it is neutral.
+- e.g. A single grain of salt holds more electrons than there are people on Earth. It holds exactly as many protons too, so the grain is neutral.
 - e.g. Your body is neutral most of the time, though it is full of charge.
 ### Rubbing moves electrons · *defined*
 **Definition:** When two different materials rub together, some electrons move from one to the other. One ends up with extra minus charge, and the other with the same amount of extra plus charge.
@@ -51,14 +51,14 @@ Rubbing does not make charge. It only moves electrons. Some materials hold on to
 ### Opposite charges attract, the same charges repel · *defined*
 **Definition:** Plus and minus charges attract each other. Two plus charges repel each other, and so do two minus charges. The closer they are, the stronger the push or pull.
 
-After rubbing, your hair has plus charge and the balloon has minus charge. Opposites attract, so the hairs rise up towards the balloon. Each hair also has plus charge, and so do the hairs next to it. The same charges repel, so the hairs push away from each other and stand apart, like a fan. That is why rubbed hair looks fly-away. The forces grow quickly as things get closer. Lift the balloon a little, and the hair still follows. Lift it far away, and the hair falls back down.
+After rubbing, your hair has plus charge and the balloon has minus charge. Opposites attract, so the hairs rise up towards the balloon. Each hair also has plus charge, and so do the hairs next to it. The same charges repel, so the hairs push away from each other and stand apart, like a fan. That is why rubbed hair looks fly-away. The closer two charges are, the stronger the push or pull between them. So if you lift the balloon a little, the hair still follows it. If you lift it far away, the pull becomes too weak and the hair falls back down.
 - e.g. Rubbed hair stands up and spreads out, each strand pushing the next away.
 - e.g. Strips of a plastic bag rubbed with wool spread out like a fan.
 - e.g. Two rubbed balloons hung side by side lean away from each other.
 ### Why a charged balloon attracts things with no charge · *defined*
 **Definition:** A charged thing attracts a neutral thing by pushing or pulling the charges inside it a tiny way, so the near side gets the opposite charge.
 
-A paper bit is neutral. So why does it jump up to a rubbed balloon? The balloon's extra minus charge pushes the electrons in the paper a tiny way back. Now the side of the paper nearest the balloon has a little more plus charge, and the far side a little more minus. The near side is pulled, and the far side is pushed. But the near side is closer, so its pull is stronger. The paper is pulled up overall. A wall, a stream of water and an empty can are attracted in the same way. The thing must be light, because the force is small. A paper bit jumps, but a book does not move.
+A paper bit is neutral. So why does it jump up to a rubbed balloon? The balloon's extra minus charge pushes the electrons in the paper a tiny way towards the far side. Now the side of the paper nearest the balloon has a little more plus charge, and the far side a little more minus. The near side is pulled, and the far side is pushed. But the near side is closer, so its pull is stronger. The paper is pulled up overall. A wall, a stream of water and an empty can are attracted in the same way. The thing must be light, because the force is small. A paper bit jumps, but a book does not move.
 - e.g. A rubbed balloon sticks to a painted wall.
 - e.g. A rubbed comb bends a thin stream of tap water.
 - e.g. A rubbed balloon rolls an empty can along the floor without touching it.
@@ -89,8 +89,8 @@ A storm cloud can be more than 10 kilometres tall. Strong winds carry water drop
 **Definition:** Lightning is a giant spark that heats the air in its path to nearly 30,000 degrees Celsius in a tiny fraction of a second. Thunder is the sound of that air bursting outwards.
 
 The minus charge at the bottom of a storm cloud attracts plus charge on the ground below. When the charge is big enough, a spark jumps across kilometres of air. It is the same kind of spark as the crackle from a sweater, only millions of times bigger. The air in its path gets about five times hotter than the surface of the Sun. It glows white, and that is the flash. The hot air bursts outwards so fast that it makes a huge bang, and that is the thunder. Light reaches you almost at once, but sound takes about 3 seconds to travel 1 kilometre. So you see the flash first and hear the thunder later.
-- e.g. A crackle from a sweater is a tiny flash and a tiny thunder.
-- e.g. A rumble of thunder is the sound from different parts of a long bolt arriving one after another.
+- e.g. The crackle you hear when you pull off a sweater is a very small version of lightning and thunder. The tiny spark is the flash, and the snap is the thunder.
+- e.g. Thunder rumbles for a long time because a lightning bolt is very long. The sound from its nearest part reaches you first, and the sound from its far parts reaches you later.
 - e.g. Lightning tends to strike tall, pointed things, like trees, towers and poles.
 ### Staying safe from lightning · *defined*
 **Definition:** Lightning can kill. The safest place in a thunderstorm is inside a building or a closed car with a metal roof.
@@ -138,34 +138,34 @@ A bumblebee needs to find flowers that still have nectar, and not waste time on 
 ## Roots
 We have rubbed balloons, bent water and learned what lightning is. Now we ask what static electricity tells us about ourselves and the world.
 
-**Deep truth.** Your hair and the balloon were each full of plus and minus charge, in equal amounts. Rubbing moved only a tiny share of the electrons from your hair to the balloon. Yet that small imbalance lifted your hair against the pull of the whole Earth. So the electric force is huge, and it hides only because charges almost always balance.  
+**Deep truth.** Your hair and the balloon were each full of plus and minus charge, in equal amounts. Rubbing moved only a tiny share of the electrons from your hair to the balloon. Yet that small imbalance lifted your hair against the pull of the whole Earth. So the electric force is huge. We rarely notice it only because charges almost always balance.  
 *Habit it breaks:* We think of things as either electric or not electric, and of a plain balloon as having no electricity in it. But every object is packed with charge. What we call 'no charge' is a very exact balance of plus and minus.  
 *Evidence:* In the Rubbing Test, the plain balloon lifted no paper at all. After only ten rubs, the same balloon lifted paper bits, and your hair rose up towards it, against gravity.
 
-- *who am i:* You are made of countless plus and minus charges, held in balance. That balance holds every atom of you together.
+- *who am i:* You are made of countless plus and minus charges, held in balance. Each atom of you is held together by the pull between its plus centre and its minus electrons.
 - *what is life:* A bee feels the faint electric field of a flower, and uses it to choose which flower to visit.
 - *what is this world:* The same force that lifts a paper bit builds the lightning in a monsoon storm.
 
-A plain balloon looks as if nothing is going on inside it. In fact it holds huge amounts of plus and minus charge, which add up to exactly zero. Tip that balance a tiny way, by rubbing, and forces appear at once: hair rises, paper jumps, water bends and sparks crackle. In a storm cloud, the same tipping, on a giant scale, makes lightning. Out of one quiet balance come many different happenings.
+A plain balloon looks as if nothing is going on inside it. In fact it holds huge amounts of plus and minus charge, which add up to exactly zero. Upset that balance a tiny way, by rubbing, and forces appear at once: hair rises, paper jumps, water bends and sparks crackle. In a storm cloud, the same thing happens on a giant scale, and it makes lightning. Every one of these happens because charges that are normally equal were made a little unequal.
 
 - **Tao Te Ching 42:** All things carry the dark, yin, on their back and hold the light, yang, in their arms. Blending the two, they reach harmony. (Every atom holds plus and minus together, and their balance is what makes an ordinary, quiet object. Your balloon showed what happens when that balance is upset a little.)
-- **Rig Veda 1.32:** The hymn tells how Indra struck the serpent Vritra with his thunderbolt, the vajra, and set free the waters held back in the clouds. (People who wrote this hymn saw that lightning and rain come together. Science agrees that lightning is made in tall rain clouds, by the bumping ice and water that also bring the rain. It explains the link with charge instead of with a god.)
+- **Rig Veda 1.32:** The hymn tells how Indra struck the serpent Vritra with his thunderbolt, the vajra, and set free the waters held back in the clouds. (The people who wrote this hymn saw that lightning and rain come together. Science agrees that lightning is made in tall rain clouds, by the bumping ice and water that also bring the rain. Science explains the link with charge instead of with a god.)
 - Science (settled): Electric charge is never made or destroyed. Rubbing only moves it from one thing to another.
 - Science (settled): The electric force between two electrons is far, far stronger than the pull of gravity between them.
 - Science (open): Exactly how the first spark of a lightning bolt starts inside a cloud is not yet known.
 - Other view, Many physicists: Plus and minus are only names that Benjamin Franklin chose, and their balance is a plain fact about particles. Comparing it with yin and yang, or with a god's thunderbolt, is a nice picture, but it tells us nothing new about the balloon.
 - Practice, Feel without touching (3 min): Rub the balloon on your hair ten times. Now close your eyes. Hold the balloon just above your bare arm, without touching it. Move it very slowly. Can you feel the tiny hairs on your arm move? Nothing is touching you. Breathe in slowly, and out slowly, three times. What did you feel?
 - Ask: A plain balloon is full of charge, but does nothing. Is a perfect balance the same as nothing at all?
-- Ask: Your arm felt the balloon without touching it. Where does your arm end and the balloon's field begin?
+- Ask: Your arm hairs moved, although nothing touched them. What do you think reached across the gap between the balloon and your arm?
 - Ask: If the electric force is so strong, why is the world mostly calm and quiet?
 
 ## Deep and big questions
 - *deep:* A new balloon is full of plus and minus charges, but it does nothing. Is a balance of forces the same as no forces at all? (hint: Think about a tug of war where both teams pull equally hard. Is the rope doing nothing?)
-- *deep:* Rubbing moved electrons from your hair to the balloon. How did the electrons know which way to go? (hint: Think about which materials grab electrons and which let them go. What happened when you rubbed a balloon with another balloon?)
-- *deep:* Why does the electric force hide so well, when it can lift your hair against the pull of the whole Earth? (hint: Think about how much plus and minus charge there is in everything, and how exactly they cancel.)
+- *deep:* Rubbing moved electrons from your hair to the balloon. How did the electrons know which way to go? (hint: Think about which materials grab electrons and which let them go. In the Rubbing Test, what happened when you rubbed a balloon with another balloon?)
+- *deep:* The electric force can lift your hair against the pull of the whole Earth. So why do we hardly ever notice it? (hint: Think about how much plus and minus charge there is in everything, and how exactly they cancel.)
 - *big:* Bees feel the electric field of a flower. What would the world feel like if you could sense electric fields too? (hint: Think about the balloon, the storm cloud, your own body and the wires in the walls.)
-- *big:* People once thought lightning was thrown by gods. Today we know it is a spark. Does knowing how it works make lightning less wonderful, or more? (hint: Think about how you felt when your own sweater crackled in the dark.)
-- *big:* Every atom in you holds plus and minus in balance. Are you, too, a kind of balance? (hint: Think about what would happen to you if all your electrons were taken away.)
+- *big:* People once thought lightning was thrown by gods. Today we know it is a spark. Does knowing how it works make lightning less wonderful, or more? (hint: In Sparks in the Dark, a sweater crackled in the dark room. Think about how you felt when you saw and heard it.)
+- *big:* Your body is made of plus and minus charges that cancel almost exactly. Rubbing a balloon upset that balance a tiny bit, and it lifted your hair. What would happen if your body had a big imbalance? (hint: Think about how a tiny imbalance was enough to lift your hair. A big imbalance would make a very strong push or pull, and it could even make a spark.)
 
 ## Story: Sparks in Thatha's Sweater
 *The story is made up. The science in it is true: in dry winter air, pulling off a woollen or synthetic sweater in the dark can make tiny sparks you can see and hear, and a balloon rubbed on wool attracts paper bits.*
@@ -234,7 +234,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 
 **For the parent:** For the parent: rubbing two different materials moves electrons from one to the other. The wool and the shirt rub as the sweater comes off, so they get opposite charges. When enough charge builds up, it jumps across the air as a tiny spark, which glows and crackles. Lightning is the same kind of spark on a giant scale. Revathi's test also shows two things a scientist does: she tested the balloon first with no rubbing, and she took the old charge off before each new cloth, so the test was fair.
 
-- Ask: Why did Revathi know the sparks were not coming from the wiring?
+- Ask: How did Revathi know the sparks were not coming from the wiring?
 - Ask: Why did she hold the balloon over the paper first, before rubbing it?
 - Ask: Why did she pat the balloon with a damp hand before rubbing it on the towel?
 - Ask: Which worked better, the wool or the cotton? What does that tell you about wool?
@@ -242,7 +242,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 
 ## Games
 ### g1 · Plus or Minus: the charge card game (15 min)
-- **rules:** Shuffle the cards and put them face down in a pile. Put the answer cards face up in the middle.; Turn over the top two cards, side by side.; The first player to say 'attract', 'repel' or 'nothing' correctly wins both cards.; If someone says the wrong answer, the other players can win the pair by saying why it is wrong.; If one of the two cards is SPARK!, the first player to explain how a spark happens wins both cards. (Charge builds up, then jumps across the air with a flash and a crackle.) If both are SPARK!, the same.; There are 30 cards, so there are 15 pairs. When the pile is finished, the player with the most cards wins. If two players tie, they play the pairs again with the cards they won.; Playing alone: turn over two cards, say your answer, and check it on the answer cards. Try to get 12 right in a row.
+- **rules:** Shuffle the cards and put them face down in a pile. Put the answer cards face up in the middle.; Turn over the top two cards, side by side.; The first player to say 'attract', 'repel' or 'nothing' correctly wins both cards.; If someone says the wrong answer, the other players can win the pair by saying why it is wrong.; If one of the two cards is SPARK!, the first player to explain how a spark happens wins both cards. (Charge builds up, then jumps across the air with a flash and a crackle.) If both cards are SPARK!, the rule is the same.; There are 30 cards, so there are 15 pairs. When the pile is finished, the player with the most cards wins. If two players tie, they play the pairs again with the cards they won.; Playing alone: turn over two cards, say your answer, and check it on the answer cards. Try to get 12 right in a row.
 - **Printable cards: 30 charge cards to cut out:** PLUS: your hair after a balloon is rubbed on it; PLUS: a woollen sweater after a balloon is rubbed on it; PLUS: a glass bangle rubbed with silk; PLUS: a woollen shawl rubbed on a plastic comb; PLUS: a glass rod rubbed with silk; PLUS: a woollen monkey cap rubbed on a plastic ruler; PLUS: dry hair rubbed with a plastic comb; PLUS: the top of a storm cloud; MINUS: a balloon rubbed on a woollen sweater; MINUS: a balloon rubbed on dry hair; MINUS: a plastic comb pulled through dry hair; MINUS: a plastic ruler rubbed on wool; MINUS: a plastic pen rubbed on wool; MINUS: a plastic straw rubbed on wool; MINUS: a plastic bottle rubbed on wool; MINUS: the bottom of a storm cloud; NEUTRAL: a paper bit; NEUTRAL: a painted wall; NEUTRAL: a thin stream of tap water; NEUTRAL: an empty aluminium can; NEUTRAL: a new balloon straight from the packet; NEUTRAL: a grain of black pepper; NEUTRAL: a feather; NEUTRAL: a tiny scrap of tissue; NEUTRAL: a grain of salt; NEUTRAL: a dry leaf; SPARK! Explain how a spark happens; SPARK! Explain how a spark happens; SPARK! Explain how a spark happens; SPARK! Explain how a spark happens
 - **Printable cards: 5 answer cards (keep them in the middle of the table):** PLUS and MINUS: attract; PLUS and PLUS: repel; MINUS and MINUS: repel; PLUS or MINUS with NEUTRAL: attract, a little; NEUTRAL and NEUTRAL: nothing happens
 - **Printable score sheet: Score sheet (one line for each player):** Player name; Pairs won; SPARK! cards explained
@@ -264,9 +264,10 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent does:* Talk about the storm cloud cards.  
   *Parent says:* The top of a storm cloud is plus. The bottom is minus. What do you think happens when the two get too much charge?  
   *Child mode:* The cloud's top is plus. Its bottom is minus. What happens next?
+  - Note: Air does not let charge cross it easily. So the charge has to build up first. When the pull between the top and the bottom is strong enough, it pushes a spark across the air. That spark is the lightning.
   - Think: Why does lightning not happen all the time, if the top and bottom of a cloud attract?
 ### g2 · Storm Run: a board game about lightning safety (15 min)
-- **rules:** Everyone puts a counter on square 1, the paddy field. Take turns to roll the dice and move that many squares.; The STORM squares are 3, 6, 9, 12, 15, 18 and 21. Land on one and another player reads you a storm card.; Give the safe answer and say why: move ahead 2 squares. Give an unsafe answer: move back 2 squares. (You never land on another STORM square this way, so only one card at a time.); Read the safe answer on the back of the card aloud after every answer, so everyone learns it.; The first player to reach square 24, HOME, or pass it wins. If all 16 cards have been used, shuffle them and use them again.; Playing alone: read a card, say your answer, then turn it over to check. Move your counter as if you were two players taking turns, and see how many turns it takes to get home.
+- **rules:** Everyone puts a counter on square 1, the paddy field. Take turns to roll the dice and move that many squares.; The STORM squares are 3, 6, 9, 12, 15, 18 and 21. Land on one and another player reads you a storm card.; Give the safe answer and say why: move ahead 2 squares. Give an unsafe answer: move back 2 squares. (You never land on another STORM square this way, so you answer only one card on each turn.); Read the safe answer on the back of the card aloud after every answer, so everyone learns it.; The first player to reach square 24, HOME, or pass it wins. If all 16 cards have been used, shuffle them and use them again.; Playing alone: read a card, say your answer, then turn it over to check. Move your counter as if you were two players taking turns, and see how many turns it takes to get home.
 - **Printable board: Storm Run board: 24 squares to cut out and lay in a row:** Square 1: START: the paddy field; Square 2: a bund between two fields; Square 3: STORM: a dark cloud overhead; Square 4: a lone tree by the path; Square 5: a banana grove; Square 6: STORM: a dark cloud overhead; Square 7: a pond; Square 8: a row of mango trees [picture]; Square 9: STORM: a dark cloud overhead; Square 10: the bus stop; Square 11: a tea stall; Square 12: STORM: a dark cloud overhead; Square 13: the temple tank; Square 14: a cow shed; Square 15: STORM: a dark cloud overhead; Square 16: a market lane; Square 17: a bridge over the canal; Square 18: STORM: a dark cloud overhead; Square 19: the school gate; Square 20: a row of houses; Square 21: STORM: a dark cloud overhead; Square 22: your street; Square 23: your gate; Square 24: HOME: inside the house with the door shut
 - **Printable cards: 16 storm cards (question on the front, safe answer on the back):** You hear thunder while playing kho-kho in the school ground. Go home at once, or finish the game? (back: Go home at once. If you can hear thunder, lightning can reach you.); There is a big tree alone in the field. Shelter under it? (back: No. Lightning often strikes tall things standing alone.); Your cousin wants to fly a kite as the clouds gather. Is that safe? (back: No. A wet kite string can carry lightning to the hand that holds it.); You are inside during a storm. Is it a good time for a bath? (back: No. Lightning can travel along water pipes.); You are in a closed car in a storm. Get out and run, or stay in? (back: Stay in. The metal body carries the lightning round you to the ground.); You are swimming in a temple tank and hear thunder. What do you do? (back: Get out of the water at once and go indoors.); The thunder stopped five minutes ago. Go back out to play? (back: Not yet. Wait about 30 minutes after the last thunder.); You are on an open scooter in a storm. Is it as safe as a car? (back: No. A scooter has no metal body around you. Stop and go inside a building.); You are caught in a field with no building near. What is the least risky thing to do? (back: Crouch low with your feet together, away from trees and poles. It is still not safe, so get to a building as soon as you can.); A phone app called Damini says lightning is near. What do you do? (back: Go indoors and stay in.); During the storm, can you stand on the terrace to watch? (back: No. Watch from inside, away from the window.); Your friend says lightning never strikes the same place twice. True? (back: No. Tall towers are struck many times a year.); Lightning flashes and the thunder comes 3 seconds later. Is it far away? (back: No. It is about 1 kilometre away. Go in at once.); You are under a bus stop with a thin metal roof and no walls. Is it a safe shelter? (back: No. Go inside a proper building.); You see a fallen electric wire after the storm. Touch it? (back: Never. Stay away and tell a grown-up.); You are indoors. Should you keep away from corded appliances and taps until the storm passes? (back: Yes. Lightning can travel along wires and pipes.)
 - **Printable tokens: Counters and a dice:** a counter for each player: a coin, a button or a bottle cap; one dice
@@ -280,7 +281,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Child mode:* Roll and move. On a storm square, answer the card. Say why.
   - Check: It starts to thunder while you are in an open field. There is one big tree near you. Where is safest? → **Running to the nearest building, or crouching low away from the tree if there is none**
 - **s3 (2 min)**  
-  *Parent does:* When the car card comes up, or after the game, talk about it.  
+  *Parent does:* When the car card comes up, or after the game, talk about why a closed car is safe in a storm.  
   *Parent says:* A closed car is safe in a storm. Many people think it is because of the rubber tyres. What do you think keeps you safe?  
   *Child mode:* A car is safe in a storm. Is it the tyres? Or something else?
   - Note: The metal body of the car carries the charge round the outside and down to the ground. The tyres are far too thin to stop lightning, which has just crossed kilometres of air.
@@ -289,7 +290,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 ### e1 · The Rubbing Test: which cloth charges a balloon best? (36 min)
 - **question:** If you rub a balloon with different things, which one gives it the most charge? Does a balloon rubbed with another balloon get charged at all?
 - **predict:** Look at the things you will rub the balloon with: dry hair, a woollen sweater, a cotton towel, a newspaper and a second balloon. Which one will make the most paper bits jump up? Which will make the fewest? Why do you think so?
-- **fair test:** Use the same balloon, the same 20 paper bits, the same 10 rubs and the same height every time. Only the thing you rub with changes. Before each new rub, take the old charge off the balloon, and check that it lifts no bits. Do each one twice, because one try can be a fluke.
+- **fair test:** Use the same balloon, the same 20 paper bits, the same 10 rubs and the same height every time. Only the thing you rub with changes. Before each new rub, take the old charge off the balloon, and check that it lifts no bits. Do each one twice, because one try can go wrong by chance.
 - **safety:** Pick up every piece of a popped balloon at once, because small children can choke on them. A grown-up blows up the balloons if the child finds it hard.
 - **record:** Fill in the table. Then draw a bar for each thing you rubbed with, as tall as the number of bits it lifted.
 - **results table:** Rubbed with | My guess | Try 1: bits lifted | Try 2: bits lifted | Most or fewest?
@@ -302,13 +303,13 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent does:* 1. Show the five things: dry hair, wool, cotton, newspaper and the second balloon. 2. Ask your child to put them in order, from most bits to fewest. 3. Write the guesses in the table.  
   *Parent says:* We will rub the balloon with each of these, ten times. Which will make the most bits jump? Which the fewest? Why do you think so?  
   *Child mode:* Which thing will make the most bits jump? Which the fewest? Why?
-  - Ask: Why do you think that one will work best? (good: Because the sweater made sparks in the story.; Because hair stood up to the balloon before.)
+  - Ask: Why do you think that one will work best? (good: Because the sweater made sparks in the story, Sparks in Thatha's Sweater.; Because my hair rose up to the balloon in The Sticky Balloon and the Rising Hair.)
   - Note: Do not say what will happen. Any reason your child gives is good. It tells you what they think now.
 - **s3 (20 min)**  
   *Parent does:* 1. Rub one side of the balloon 10 times on the first thing, firmly, in one direction. 2. Hold the rubbed side 2 cm above the heap for 3 seconds. 3. Count the bits that cling and write the number as Try 1. 4. Pick off the bits. 5. Pat the balloon all over with a damp hand, wait until it is dry (about a minute), and check it lifts no bits. 6. Do the same again for Try 2. 7. Go on to the next thing.  
   *Parent says:* Rub ten times on one side. Hold that side over the paper. Count the bits that stick. Then pat it with a damp hand to take the charge off. We do each thing twice.  
   *Child mode:* Rub ten times. Hold it over the paper. Count the bits. Pat it with a damp hand. Do each thing twice.
-  - Note: Hair, if it is clean, dry and not oiled, and wool usually lift the most bits. Cotton and newspaper usually lift fewer. A balloon rubbed with another balloon usually lifts very few or none, because both are the same material, so neither grabs electrons harder. Results vary from day to day, so a different order is fine, as long as you saw it. If nothing lifts at all, the air is too damp. Try in an AC room, make the bits smaller, or do the water-bending test instead, which works in damper air.
+  - Note: Hair, if it is clean, dry and not oiled, and wool usually lift the most bits. Cotton and newspaper usually lift fewer. A balloon rubbed with another balloon usually lifts very few or none, because both are the same material, so neither grabs electrons harder. Results vary from day to day, so a different order is fine, as long as you saw it. If nothing lifts at all, the air is too damp. Try in an AC room, make the bits smaller, or do the Bend the Water experiment instead, which works in damper air.
   - Check: Why do we pat the balloon with a damp hand and check it before each new rub? → **To take away the old charge, so each result shows only the new rubbing**
 - **s4 (3 min)**  
   *Parent does:* 1. Rub one side of the balloon on wool. 2. Hold the other side, the side you did not rub, over the bits. 3. Then turn the rubbed side to the bits.  
@@ -318,7 +319,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Say or write three things. What I think. What I saw. Why I think it happened.
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: some things give the balloon much more charge than others. What I saw: after wool it lifted 12 bits, after cotton only 3, and after the other balloon none. Why: rubbing moves electrons. Wool lets go of its electrons easily, and the balloon grabs them. Two balloons are the same material, so neither grabs harder.
   - Check: A balloon rubbed with a second balloon lifted no paper bits. What is the best reason? → **Both are the same material, so hardly any electrons moved from one to the other**
 ### e2 · Bend the Water: can every rubbed thing do it? (20 min)
@@ -351,10 +352,10 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Child mode:* Let the comb touch the water once. Does it still work?
   - Note: After touching the water, the wet comb bends the stream much less, or not at all. Water is a conductor, so the charge leaks away. This is also why static works badly on damp days.
 - **s5 (5 min)**  
-  *Parent does:* Ask for claim, evidence and reasoning.  
+  *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
   *Parent says:* Now tell me what you think, what you saw, and why you think it happened.  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: rubbed plastic can bend water, but rubbed metal cannot. What I saw: the comb and the ruler bent the stream, the unrubbed comb and the spoon did not, and the wet comb stopped working. Why: plastic is an insulator and keeps its charge. Steel and water are conductors, so the charge runs away.
+  *Child mode:* Say or write three things. What I think. What I saw. Why I think it happened.
+  - Note: A good answer sounds like this. What I think: rubbed plastic can bend water, but rubbed metal cannot. What I saw: the comb and the ruler bent the stream. The unrubbed comb and the spoon did not, and the wet comb stopped working. Why: plastic is an insulator and keeps its charge. Steel and water are conductors, so the charge runs away. For the think question: dry hair is an insulator too, so the charge stays on it. Wet hair would lose the charge quickly.
   - Think: Your body is a conductor. So how can your hair stay charged after rubbing?
 
 ## Activities
@@ -365,7 +366,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent does:* 1. Rub the balloon on dry hair or wool 10 times. 2. Press it gently against a painted wall and let go. 3. Try a plain balloon, not rubbed, the same way.  
   *Parent says:* Watch this. I rub the balloon and hold it on the wall. Now I let go. What do you notice? What do you wonder?  
   *Child mode:* Rub the balloon ten times. Hold it on the wall. Let go!
-  - Note: On a dry day the rubbed balloon often stays on the wall for many minutes. The plain balloon falls at once. On a damp day it may slide down after a few seconds. That is fine: it still shows the difference.
+  - Note: On a dry day the rubbed balloon often stays on the wall for many minutes. The plain balloon falls at once. On a damp day the rubbed balloon may slide down after a few seconds. That is fine: it still shows the difference.
 - **s2 (4 min)**  
   *Parent does:* 1. Stand in front of the mirror. 2. Rub the balloon on your hair 10 times. 3. Lift it slowly upwards, about 5 cm above your head.  
   *Parent says:* Now rub the balloon on your hair, and lift it slowly. Watch your hair in the mirror. Why do you think the hair rises?  
@@ -376,6 +377,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent does:* Look at the hair closely.  
   *Parent says:* Look at the hairs. They rise to the balloon, but they also spread apart from each other. Why might that be?  
   *Child mode:* Your hairs rise. They also spread apart. Why?
+  - Note: Every hair has lost electrons, so every hair has the same plus charge. The same charges repel, so the hairs push each other apart. The balloon has the opposite charge, so it pulls them up.
   - Check: A plain balloon falls off the wall, but a rubbed one sticks. What did the rubbing change? → **It gave the balloon an electric charge**
   - Think: If the hairs spread apart, what does that tell you about the charge on each hair?
 ### a2 · The Plastic Tassel: charges that push apart (10 min)
@@ -389,12 +391,12 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent does:* 1. Hold the wool around the top of the tassel. 2. Pull it down the strips 5 or 6 times. 3. Let go and step back.  
   *Parent says:* Now we rub every strip in the same way. Before I let go, guess: will the strips stick together, or spread apart? Why?  
   *Child mode:* Pull the wool down the strips five times. Let go. What happens?
-  - Note: The strips spread out into a fan, and push away from your hand too if you bring the wool near. Every strip got the same kind of charge from the wool, and the same charges repel. On a damp day the spread is smaller. Try again in an AC room.
+  - Note: The strips spread out into a fan. If you bring the wool near, the strips lean towards it, because the wool has the opposite charge to the strips. Every strip got the same kind of charge from the wool, and the same charges repel. On a damp day the spread is smaller. Try again in an AC room.
   - Check: The rubbed plastic strips spread apart. Why? → **Every strip has the same kind of charge, and the same charges repel**
 - **s3 (2 min)**  
   *Parent does:* Compare the tassel with rubbed hair.  
-  *Parent says:* Remember your hair after the balloon? How is it like this tassel?  
-  *Child mode:* How is this tassel like your hair after the balloon?
+  *Parent says:* In The Sticky Balloon and the Rising Hair, your hairs spread apart after you rubbed them with the balloon. How is that like this tassel?  
+  *Child mode:* Your hairs spread apart after you rubbed them with a balloon. How is this tassel like that?
   - Note: Rubbed hairs each have the same plus charge, so they spread apart, just like the strips.
 ### a3 · Pepper Jumps, Salt Stays (10 min)
 - **safety:** Pick up every piece of a popped balloon at once, because small children can choke on them. Do not breathe in the pepper, and wash your hands after.
@@ -410,7 +412,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   - Note: The black pepper usually jumps up first, because pepper grains are lighter than salt grains. If you go too low, the salt jumps too. If nothing jumps, the air may be too damp.
   - Check: Why does the pepper jump up to the balloon before the salt does? → **Pepper grains are lighter, so the small electric force can lift them first**
 - **s3 (3 min)**  
-  *Parent does:* Talk about bees.  
+  *Parent does:* Talk about how bees pick up pollen.  
   *Parent says:* A bee needs pollen from flowers. A flying bee picks up a plus charge, and a flower has a small minus charge. What might happen to the pollen when a bee comes close?  
   *Child mode:* A bee has charge, like your balloon. What happens to the pollen?
   - Note: Pollen grains jump across a small gap onto a charged bee, in the same way as the pepper. This helps the bee carry pollen, and helps plants spread their pollen to other flowers.
@@ -449,6 +451,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent does:* 1. Make a start line and a finish line 50 cm apart with tape or chalk. 2. Race the can to the finish, using only the balloon.  
   *Parent says:* Can you roll the can all the way to the finish line, without touching it? How many times did you need to rub the balloon again?  
   *Child mode:* Roll the can to the finish line. Don't touch it!
+  - Note: Each time the can slowed down, the balloon had lost some charge, so it needed rubbing again. A charge does not last for ever, and a touch or damp air takes it away. The can also rolls more easily when the balloon is close, because the pull is stronger up close.
 ### a6 · Our Storm Safety Plan (10 min)
 - **safety:** Do this on a calm day, never during a storm.
 - **record:** Make a poster: 'When we hear thunder, we…', with five rules and a reason for each.
@@ -469,7 +472,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent says:* We are all water drops inside a storm cloud. The wind is carrying us up into the cold top of the cloud, where we freeze.  
   *Child mode:* You are a water drop in a storm cloud. The wind lifts you up!
 - **s2 (5 min)**  
-  *Parent does:* 1. Half of the players are light ice crystals and half are heavy hail. 2. Players walk about and gently bump elbows. 3. After each bump, ice crystals hold up a plus sign and move to one end of the room, the top. 4. Hail hold up a minus sign and move to the other end, the bottom.  
+  *Parent does:* 1. Half of the players are light ice crystals and half are heavy hail. 2. Players walk about and gently bump elbows. 3. After each bump, the ice crystals hold up a plus sign and move to one end of the room, which is the top of the cloud. 4. The hail players hold up a minus sign and move to the other end, which is the bottom of the cloud.  
   *Parent says:* Ice crystals are light. When they bump the hail, they get plus charge and the wind lifts them to the top. Hail is heavy. It gets minus charge and stays near the bottom.  
   *Child mode:* Bump elbows gently. Ice goes to the top with plus. Hail stays low with minus.
   - Note: This is a simple picture of the main idea. Scientists still study exactly how each bump moves the charge.
@@ -498,7 +501,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent does:* 1. Do the test on the last day. 2. Draw a bar for each day. 3. Look for a pattern.  
   *Parent says:* Look at your bars. On which days did the balloon lift the most? What was the air like on those days?  
   *Child mode:* Draw a bar for each day. When did it lift the most?
-  - Check: Meera, a girl in Class 4, kept a Static Weather Diary. Her balloon lifted 15 bits on a dry day and 3 bits on a rainy day. What is the best reason? → **Damp air lets the charge leak away through a thin layer of water**
+  - Check: In a Static Weather Diary, a balloon lifted 15 bits on a dry day and 3 bits on a rainy day. What is the best reason? → **Damp air lets the charge leak away through a thin layer of water**
   - Wait: Day 5: the last test, then draw the chart.
 
 ## Challenges
@@ -507,7 +510,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 - **your turn:** Now invent your own way to win the Can Race. Draw your plan, test it, and beat your best time.
 - **constraints:** Nothing may touch the can.; Use only balloons, cloths and things from home.; Time each try, and change only one thing between tries.
 - **general:** Rub the balloon well, hold it close in front of the can, and walk backwards slowly.; Rub again whenever the can slows down.
-- **creative:** Use two balloons, one rubbed while the other pulls, and swap.; Try a rubbed plastic ruler or a big plastic sheet instead of a balloon.; Find the smoothest floor in your home for the race.
+- **creative:** Use two balloons. Rub one while the other pulls the can, then swap them.; Try a rubbed plastic ruler or a big plastic sheet instead of a balloon.; Find the smoothest floor in your home for the race.
 - **s1 (5 min)**  
   *Parent does:* 1. Mark a start and a finish 1 metre apart. 2. Look at the problem together and draw two ideas.  
   *Parent says:* We need the can to cross the line, and nothing can touch it. What makes the balloon pull best? Let's draw two ideas.  
@@ -523,7 +526,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Parent says:* Here are some other ideas. Which one would you try next? Can you invent a better one?  
   *Child mode:* Read the other ideas. Can you invent a better one?
 ### c2 · Build a Charge Detector (30 min)
-- **problem:** Build a detector that shows when something is charged, even when it is too weak to lift paper. Two thin strips of foil inside a jar must spread apart when a charged thing comes near.
+- **problem:** Build a detector that shows when something is charged, even when the charge is too weak to lift paper. Two thin strips of foil inside a jar must spread apart when a charged thing comes near.
 - **your turn:** Now design your own charge detector, or improve this one so the strips spread further. Draw it, build it and test it.
 - **constraints:** The foil strips must be inside a jar, out of the wind.; Use only things from home.; Nothing charged may touch the strips themselves.
 - **general:** Push the straightened paper clip through the middle of the cardboard. Bend its bottom end into a hook. Hang two strips of foil, each about 1 cm by 4 cm, side by side on the hook. Put the cardboard on the jar with the strips hanging inside. Press a small foil ball onto the top of the clip.; Bring a rubbed balloon near the foil ball, without touching it. The strips should spread apart.
@@ -539,7 +542,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Child mode:* Bring the rubbed balloon close. Don't touch. Watch the strips!
   - Note: The strips spread apart as the balloon comes near, and fall back together when it goes. The balloon pushes electrons down the clip into both strips, so both strips get the same charge, and they repel. The strips move only a little, and only when the balloon is within about 2 cm of the ball. On a damp day they may hardly move, so try it in an AC room.
 - **s3 (5 min)**  
-  *Parent does:* Try the creative ideas and talk about why it works.  
+  *Parent does:* Try the creative ideas and talk about why the detector works.  
   *Parent says:* Why do the two strips push apart? What charge do they both have?  
   *Child mode:* Why do the two strips push apart?
   - Check: Why do the two foil strips spread apart when a rubbed balloon comes near? → **Both strips get the same kind of charge, and the same charges repel**
@@ -554,7 +557,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
    **Answer:** a plus charge and a minus charge → Attract; two plus charges → Repel; two minus charges → Repel; a rubbed balloon and a paper bit → Attract; a rubbed balloon and your rubbed hair → Attract; two rubbed plastic strips → Repel. *Why:* Opposites attract and the same charges repel. A charged thing also attracts a neutral thing, like a paper bit.
 4. (truefalse) A tiny static shock from a car door is just as dangerous as a shock from a mains socket.  
    **Answer:** False. *Why:* False. A static shock moves only a small amount of charge, so it stings but does no harm. Mains electricity keeps pushing, and it can kill.
-5. (mcq) Kavitha rubs only one side of a balloon on wool. She holds the other side over paper bits. What happens?  
+5. (mcq) You rub only one side of a balloon on wool. You hold the other side over paper bits. What happens?  
    Options: Many bits jump / Few or no bits jump / The balloon pops  
    **Answer:** Few or no bits jump. *Why:* Rubber is an insulator, so the charge stays on the patch that was rubbed. The other side has hardly any. That is why it is called static.
 6. (write) In the Rubbing Test, which thing made your balloon lift the most paper bits? Write what you think, what you saw, and why.  
@@ -580,12 +583,12 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 15. (write) Write one question you still have about static electricity or lightning, and say how you might find out the answer.  
    **Answer:** Any real question with a way to find out. For example: does a plastic spoon charge as well as a comb? I could test both over the water stream.. *Why:* A strong answer asks something that can be tested, and says what the test would be.
 ### Sparks and Storms (stretch) (stretch, 15 questions)
-1. (perspective) Nandini and her brother Vikram watch paper bits jump up to a rubbed balloon. They disagree about why.  
-   **Answer:** A strong answer sides mostly with Vikram: the paper was never rubbed, and it is neutral. But it gives Nandini her due: the near side of the paper does get a little opposite charge, because the balloon pushes the paper's electrons a tiny way back. So both are partly right.. *Why:* This tests the hardest idea in the unit: how a charged thing attracts a neutral one.
-2. (mcq) Ranjini rubs a balloon on her hair. The balloon now has 1,000 extra electrons. How many electrons has her hair lost?  
+1. (perspective) A sister and her brother watch paper bits jump up to a rubbed balloon. They disagree about why.  
+   **Answer:** A strong answer sides mostly with the brother: the paper was never rubbed, and it is neutral. But it gives the sister her due. The balloon pushes the paper's electrons a tiny way back, so the near side of the paper does get a little opposite charge. So both are partly right.. *Why:* This tests the hardest idea in the unit: how a charged thing attracts a neutral one.
+2. (mcq) You rub a balloon on your hair. The balloon now has 1,000 extra electrons. How many electrons has your hair lost?  
    Options: 1,000 / 500 / None  
-   **Answer:** 1,000. *Why:* Rubbing does not make or destroy charge. Every electron the balloon gained came from her hair, so her hair lost exactly 1,000. Real numbers are far bigger, but the rule is the same.
-3. (write) Arun says, 'Rubbing a balloon makes electricity.' Use what you saw in this unit to explain what rubbing really does.  
+   **Answer:** 1,000. *Why:* Rubbing does not make or destroy charge. Every electron the balloon gained came from your hair, so your hair lost exactly 1,000. Real numbers are far bigger, but the rule is the same.
+3. (write) Some people say, 'Rubbing a balloon makes electricity.' Use what you have seen with rubbed balloons and hair to explain what rubbing really does.  
    **Answer:** Rubbing does not make charge. It moves electrons from one thing to the other. The balloon gets extra minus charge, and the hair is left with the same amount of plus. My hair rose to the balloon, which shows the hair was charged too.. *Why:* A strong answer corrects the idea and uses the rising hair as evidence that both things got charged.
 4. (truefalse) A steel spoon can never be charged at all.  
    **Answer:** False. *Why:* False. Steel can carry charge, but held in your hand, the charge runs away through the steel and through your body. A steel spoon on a plastic stand, not touched, can hold charge for a while.
@@ -599,8 +602,8 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
    **Answer:** The electric force is small, so it can only lift very light things. *Why:* The force on a neutral thing is small, so it lifts only very light things like paper bits, pepper and hair. A book is far heavier.
 8. (order) Put these in order, from the one that charged the balloon most to least, using these made-up results: cotton 3 bits, wool 12 bits, newspaper 5 bits, dry hair 14 bits.  
    **Answer:** ['dry hair', 'wool', 'newspaper', 'cotton']. *Why:* More bits lifted means more charge. Dry hair 14, wool 12, newspaper 5 and cotton 3.
-9. (write) In the Static Weather Diary, Deepa, a girl in Class 4, finds her balloon lifted 15 bits on Monday and only 2 bits on Thursday. Suggest a reason, and say how she could check it.  
-   **Answer:** Thursday was probably a damper day, so the charge leaked away. She could check the humidity in a weather app for each day, or test on a damp day in an AC room to see if the count goes up.. *Why:* A strong answer gives a reason from the science and a test that could show whether it is right.
+9. (write) In a Static Weather Diary, a balloon lifted 15 bits on Monday and only 2 bits on Thursday. Suggest a reason, and say how you could check it.  
+   **Answer:** Thursday was probably a damper day, so the charge leaked away. You could check the humidity in a weather app for each day, or test on a damp day in an AC room to see if the count goes up.. *Why:* A strong answer gives a reason from the science and a test that could show whether it is right.
 10. (fill) The sound made when lightning heats the air so fast that it bursts outwards is called ____.  
    **Answer:** ['thunder']. *Why:* Thunder is the sound of air heated by lightning to nearly 30,000 degrees Celsius.
 11. (mcq) A petrol tanker is joined to the ground by a wire before it unloads. Why?  
@@ -618,10 +621,10 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 ### Lightning Thinker (challenge) (challenge, 15 questions)
 1. (perspective) In the 1700s, people argued about how to protect a tall building from lightning.  
    **Answer:** A strong answer chooses Franklin's rod, because a metal strip is a conductor and gives the charge an easy path to the ground. It may say that bells were in tall towers, which lightning often struck, so ringing them put the ringers in danger. It gives the third view its due: a rod does not stop lightning, it only guides it safely, which is why the strip to the ground matters.. *Why:* This uses the ideas of conductors and tall things in a real old argument.
-2. (mcq) Ipsita rubs a balloon on a woollen shawl and a second balloon on her hair. She hangs them side by side, and they lean apart. What does this tell her?  
+2. (mcq) You rub one balloon on a woollen shawl and a second balloon on your hair. You hang them side by side, and they lean apart. What does this tell you?  
    Options: Both balloons got the same kind of charge / The balloons got opposite charges / Neither balloon is charged  
    **Answer:** Both balloons got the same kind of charge. *Why:* The balloons repel, so they must have the same kind of charge. Both took electrons, from the wool and from the hair.
-3. (write) Your hair is a conductor when it is wet, but your hair can stay charged after a balloon. Explain how both can be true.  
+3. (write) Your hair is a conductor when it is wet, but your hair can stay charged after you rub it with a balloon. Explain how both can be true.  
    **Answer:** Dry hair is a poor conductor, almost an insulator, so the charge stays on it for a while. Wet hair has water on it, and water is a conductor, so wet hair loses its charge quickly. That is why static tricks need dry hair.. *Why:* A strong answer sees that whether something holds charge depends on whether it is dry.
 4. (mcq) Why does a can roll towards a rubbed balloon even more easily than a paper bit of the same weight?  
    Options: The can is metal, so its electrons can move all the way to the far side / The can is round / The can is charged  
@@ -639,7 +642,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
    **Answer:** ['a crackle from a sweater', 'a static shock from a car door', 'a lightning bolt']. *Why:* All three are sparks of static charge. A sweater crackle is tiny, a car door shock is a little bigger and stings, and lightning carries millions of times more.
 10. (mcq) A young spider has no wings but needs to travel to a new home. How does the Earth's electric field help?  
    Options: It pulls on the spider's charged silk threads and helps lift the spider into the air / It makes the spider lighter / It blows a wind  
-   **Answer:** It pulls on the spider's charged silk threads and helps lift the spider into the air. *Why:* The spider lets out silk threads that carry charge. The Earth's electric field pulls on them and helps lift the spider up, so they can drift to a new place. This is called ballooning.
+   **Answer:** It pulls on the spider's charged silk threads and helps lift the spider into the air. *Why:* Young spiders let out silk threads that carry charge. The Earth's electric field pulls on the threads and helps lift the spiders up, so they can drift to a new place. This is called ballooning.
 11. (fill) An atom with 8 protons and 8 electrons has an overall charge of ____.  
    **Answer:** ['zero', '0', 'nothing']. *Why:* 8 plus charges and 8 minus charges cancel, so the overall charge is zero. The atom is neutral.
 12. (write) Your hair rose up to a balloon against the pull of the whole Earth. What does that tell you about how strong the electric force is, compared with gravity?  
@@ -661,19 +664,19 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 1. (mcq) A new balloon, straight out of the packet, does not lift paper bits. Why not?  
    Options: It has no charge in it at all / It has equal plus and minus charge, so they cancel / It is too big  
    **Answer:** It has equal plus and minus charge, so they cancel. *Why:* Every atom in the balloon has plus and minus charge, in equal amounts, so they cancel. We call it neutral. Picking 'no charge at all' is a very common idea, but the balloon is full of charge. It is only balanced.
-2. (mcq) Swathi rubs a balloon on her dry hair. Electrons move from her hair onto the balloon. What charge does her hair have now?  
+2. (mcq) You rub a balloon on your dry hair. Electrons move from your hair onto the balloon. What charge does your hair have now?  
    Options: Extra minus charge / Extra plus charge / No charge  
-   **Answer:** Extra plus charge. *Why:* Her hair has lost some electrons, which are minus, so it is left with extra plus charge. Picking 'minus' mixes up the two: the balloon gained the electrons, so the balloon is the one with extra minus.
+   **Answer:** Extra plus charge. *Why:* Your hair has lost some electrons, which are minus, so it is left with extra plus charge. Picking 'minus' mixes up the two: the balloon gained the electrons, so the balloon is the one with extra minus.
 3. (mcq) Two balloons are both rubbed on wool and hung side by side on threads. What do they do?  
    Options: Swing towards each other / Lean away from each other / Hang straight down  
    **Answer:** Lean away from each other. *Why:* Both balloons got the same kind of charge from the wool, and the same charges repel. Picking 'towards each other' would be right only if they had opposite charges.
-4. (mcq) After rubbing with a balloon, Bornali's hair stands up and the strands spread apart. Why do the strands spread apart?  
+4. (mcq) After you rub your hair with a balloon, your hair stands up and the strands spread apart. Why do the strands spread apart?  
    Options: Each strand has the same plus charge, and the same charges repel / The wind blows them / The strands are pulled by gravity  
    **Answer:** Each strand has the same plus charge, and the same charges repel. *Why:* Every strand lost electrons to the balloon, so every strand has plus charge. The same charges push each other away. Gravity pulls the hair down, not apart.
 5. (mcq) A rubbed comb bends a thin stream of tap water. The water was never rubbed. Why does it bend?  
    Options: The water is charged by the tap / The comb's charge pushes the water's electrons a tiny way, so the near side is pulled / The comb blows on the water  
    **Answer:** The comb's charge pushes the water's electrons a tiny way, so the near side is pulled. *Why:* The water is neutral. The comb's charge moves the electrons in the water a tiny way, so the side nearest the comb gets the opposite charge and is pulled. Picking 'charged by the tap' is a fair guess, but the stream does not bend at all until the comb comes near.
-6. (mcq) In the Rubbing Test, Fathima rubbed a balloon with five things. Which result shows that rubbing two of the same material moves hardly any charge?  
+6. (mcq) In the Rubbing Test, a balloon is rubbed with five things. Which result shows that rubbing two of the same material moves hardly any charge?  
    Options: Wool: 12 bits / Cotton: 3 bits / Another balloon: 0 bits  
    **Answer:** Another balloon: 0 bits. *Why:* Two balloons are the same material, so neither grabs electrons harder, and the balloon lifted nothing. Picking cotton is close, because cotton charged it only a little, but cotton is a different material from rubber.
 7. (mcq) Why do we test the balloon over the paper before rubbing it at all?  
@@ -682,9 +685,9 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 8. (mcq) Balloon tricks that worked in Bengaluru in January do not work in Kochi in the monsoon. Why?  
    Options: Kochi has different balloons / The damp air leaves a thin layer of water that lets the charge leak away / It is too hot for electrons  
    **Answer:** The damp air leaves a thin layer of water that lets the charge leak away. *Why:* Water lets charge move. In humid air, a thin layer of water on the balloon lets its extra electrons leak away. Picking 'too hot' is a fair thought, but the dampness is what matters: a dry hot day works well.
-9. (mcq) Lalitha rubs a steel spoon on wool, holding its handle. It does not bend the water stream. Why?  
-   Options: Steel is a conductor, so the charge runs through the spoon and her body / The spoon is too shiny / She did not rub it enough  
-   **Answer:** Steel is a conductor, so the charge runs through the spoon and her body. *Why:* Steel and your body are conductors, so any charge on the spoon runs away through her hand. Plastic is an insulator, so a comb keeps its charge.
+9. (mcq) You rub a steel spoon on wool, holding its handle. It does not bend the water stream. Why?  
+   Options: Steel is a conductor, so the charge runs through the spoon and your body / The spoon is too shiny / You did not rub it enough  
+   **Answer:** Steel is a conductor, so the charge runs through the spoon and your body. *Why:* Steel and your body are conductors, so any charge on the spoon runs away through your hand. Plastic is an insulator, so a comb keeps its charge.
 10. (mcq) What is lightning?  
    Options: Fire falling from the clouds / A giant spark of electric charge jumping from a storm cloud / Sunlight shining through rain  
    **Answer:** A giant spark of electric charge jumping from a storm cloud. *Why:* Lightning is a giant spark, the same kind of thing as the tiny crackle from a sweater, only far bigger. Picking 'fire' is how many people once thought of it, but it is electric charge heating the air.
@@ -697,9 +700,9 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 13. (mcq) Why is a closed car a safe place in a thunderstorm?  
    Options: Its rubber tyres stop the lightning / Its metal body carries the charge round the outside to the ground / Lightning cannot see cars  
    **Answer:** Its metal body carries the charge round the outside to the ground. *Why:* The metal body carries the charge around you and into the ground. Picking 'tyres' is the most common belief, but a few centimetres of rubber cannot stop a spark that has crossed kilometres of air.
-14. (mcq) In 1752, what did Thomas-François Dalibard's helper in France get from a tall iron rod during a storm?  
-   Options: Rain water / Electric sparks / A magnet  
-   **Answer:** Electric sparks. *Why:* Sparks jumped from the iron rod, which showed that storm clouds are electrically charged and that lightning is electricity. Benjamin Franklin had suggested the test.
+14. (mcq) Long ago, scientists put up a tall iron rod pointing at the sky during a storm. Sparks jumped from the bottom of the rod. What did this show?  
+   Options: Rain water is made of iron / Storm clouds carry electric charge, and lightning is electricity / Iron makes thunder  
+   **Answer:** Storm clouds carry electric charge, and lightning is electricity. *Why:* Sparks are electricity, so the charge must have come from the storm clouds. This was first done in France in 1752. It is very dangerous: people have been killed trying it.
 
 ## Applications
 - Photocopiers and laser printers use static charge to make black toner powder stick to paper in the shape of the words.
@@ -751,10 +754,10 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 - How do clouds make up after a fight? *They bolt together.*
 
 ## Connected maths
-- In the Rubbing Test, Fathima's balloon lifted these paper bits: dry hair 14, wool 12, newspaper 5, cotton 3, another balloon 0. How many more bits did hair lift than cotton? How many bits were lifted in all? **Hair lifted 11 more than cotton. 34 bits were lifted in all.**. 14 take away 3 is 11. For the total, 14 + 12 = 26, 26 + 5 = 31, 31 + 3 = 34, and 34 + 0 = 34. (queues `math.data.bar-charts.L3`)
-- Sound travels about 1 kilometre in 3 seconds. Gayathri counts 12 seconds between a flash of lightning and the thunder. About how far away was the lightning? **About 4 kilometres.**. Every 3 seconds is about 1 kilometre. 12 divided by 3 is 4. So the lightning was about 4 kilometres away. (queues `math.division.sharing-and-grouping.L3`)
+- In the Rubbing Test, a balloon lifted these paper bits: dry hair 14, wool 12, newspaper 5, cotton 3, another balloon 0. How many more bits did hair lift than cotton? How many bits were lifted in all? **Hair lifted 11 more than cotton. 34 bits were lifted in all.**. 14 take away 3 is 11. For the total, 14 + 12 = 26, 26 + 5 = 31, 31 + 3 = 34, and 34 + 0 = 34. (queues `math.data.bar-charts.L3`)
+- Sound travels about 1 kilometre in 3 seconds. You count 12 seconds between a flash of lightning and the thunder. About how far away was the lightning? **About 4 kilometres.**. Every 3 seconds is about 1 kilometre. 12 divided by 3 is 4. So the lightning was about 4 kilometres away. (queues `math.division.sharing-and-grouping.L3`)
 - Lightning flashes about 45 times every second somewhere on Earth. How many flashes is that in 10 seconds? In one minute? **About 450 in 10 seconds, and about 2,700 in a minute.**. 45 times 10 is 450. One minute is 60 seconds, which is 6 lots of 10 seconds. 450 times 6 is 2,700. (queues `math.multiplication.equal-groups.L3`)
-- Meera, a girl in Class 4, kept a Static Weather Diary. Her balloon lifted 15, 13, 4, 2 and 14 bits on five days. On two of the days it rained. Which two days were probably the rainy ones? Why? **Days 3 and 4, with 4 and 2 bits.**. Damp air lets charge leak away, so a rainy day gives a low count. The counts 4 and 2 are much lower than the others, which are all 13 or more. (queues `math.logic.puzzles.L3`)
+- In a Static Weather Diary, a balloon lifted 15, 13, 4, 2 and 14 bits on five days. On two of the days it rained. Which two days were probably the rainy ones? Why? **Days 3 and 4, with 4 and 2 bits.**. Damp air lets charge leak away, so a rainy day gives a low count. The counts 4 and 2 are much lower than the others, which are all 13 or more. (queues `math.logic.puzzles.L3`)
 - Lightning can heat the air to about 30,000 degrees Celsius. The surface of the Sun is about 6,000 degrees Celsius. About how many times hotter is lightning? **About 5 times hotter.**. How many 6,000s make 30,000? 6,000 times 5 is 30,000. So lightning is about 5 times as hot as the Sun's surface. (queues `math.multiplication.multiplication-facts.L3`)
 
 ## Song

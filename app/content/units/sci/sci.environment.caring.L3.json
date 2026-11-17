@@ -156,7 +156,7 @@
    "concept": "Earth is like a closed box",
    "status": "defined",
    "definition": "Earth gets energy from outside, as sunlight, but almost no new water or air. The same water and air are used again and again.",
-   "description": "Remember the closed box test, with moong seeds on damp cotton? In the closed box, water evaporated from the cotton and the leaves, condensed on the cold lid, and ran back down. The water went round inside the box. Earth works the same way. Earth has no lid, but gravity holds the air and water close to Earth. Sunlight comes in from outside, and heat goes back out to space. But almost no new water arrives, and almost none leaves. So the water in your glass has fallen as rain and flowed in rivers many times. It has been inside many plants and animals before you. Plants, algae and some bacteria made the oxygen in the air. Animals, plants and microbes breathe the oxygen in, and plants make more.",
+   "description": "Remember the closed box test, with moong seeds on damp cotton? In the closed box, water evaporated from the cotton and the leaves, condensed on the cold lid, and ran back down. The water went round inside the box. Earth works the same way. Earth has no lid. But gravity holds the air and the water close to the ground. Gravity is the pull of the Earth on everything near it, so the air and water do not float away into space. Sunlight comes in from outside, and heat goes back out to space. But almost no new water arrives, and almost none leaves. So the water in your glass has fallen as rain and flowed in rivers many times. It has been inside many plants and animals before you. Plants, algae and some bacteria made the oxygen in the air. Animals, plants and microbes breathe the oxygen in, and plants make more.",
    "examples": [
     "Water you pour down the sink does not disappear. It goes to a drain, a treatment plant, a river, a lake or the sea, and later rises again as water vapour.",
     "Smoke from burning rubbish spreads through the air and comes down with rain, or is breathed in by people far away.",
@@ -245,7 +245,7 @@
    "for": "Many things people make, like plastic bags and smoke, do harm, and natural forests and lakes support a lot of life.",
    "against": "Some natural things are harmful, like a snake's venom or a flood. Some made things help, like a sewage treatment plant, a water filter or a bird bath. What matters is what a thing does, not who made it.",
    "status": "rejected",
-   "context": "This card is about the idea that 'natural' means good and 'made by people' means bad."
+   "context": "Some people think everything natural is good and everything made by people is bad. This card asks whether that is true. Think of a flood, which is natural and does harm, and a sewage treatment plant, which people made and which helps."
   },
   {
    "claim": "One family is far too small to change the environment.",
@@ -261,7 +261,7 @@
    "for": "The oxygen fell so low that fresh oxygen had to be pumped in, and many plants and animals died out.",
    "against": "The mission taught scientists exactly why the oxygen fell: rich soil full of microbes and fresh concrete. Small closed worlds, like bottle gardens, can run for decades. Space agencies still study closed life-support systems.",
    "status": "debated",
-   "context": "This card is about Biosphere 2, a large sealed glass building in the USA, and what it really showed."
+   "context": "Biosphere 2 was a huge sealed glass building in Arizona, USA, with plants, animals and soil inside. Eight people lived in it for two years with the doors shut. The oxygen slowly fell, and fresh oxygen had to be pumped in. This card asks whether that means a closed world can never work."
   }
  ],
  "big_questions": [
@@ -318,7 +318,7 @@
    "\"Every day,\" said Ammamma, \"for eight years.\"",
    "\"What about air?\" asked Arjun. \"The plants need air too.\"",
    "\"In the light, the leaves make their food from water and a gas in the air called carbon dioxide,\" said Kavya. \"They give out oxygen. Then the plants, and the tiny microbes in the soil, breathe some of that oxygen and give out carbon dioxide again. So the air goes round too.\"",
-   "Arjun sat back on the stool. He was quiet for a while. Then he said, \"Nothing new goes in. Nothing goes out. Only the light.\"",
+   "Arjun sat back on the stool. He was quiet for a while. Then he said, \"No new water or air goes in, and none goes out. Only light comes in.\"",
    "That evening, after dinner, Arjun scraped the leftover rasam from his plate into the sink. He turned on the tap and washed it down. \"There,\" he said. \"Gone.\"",
    "Kavya looked at him. \"Gone where?\"",
    "Arjun opened his mouth and shut it again.",
@@ -818,7 +818,7 @@
      "id": "s7",
      "mins": 5,
      "do": "Talk about why the closed seedlings did not run out of air. Then talk about Earth.",
-     "say": "The closed box never got new air. In the light, the leaves make oxygen, and the seedlings and microbes breathe it again. Earth is a bit like this box. What comes in from outside?",
+     "say": "The closed box never got new air. In the light, the leaves make food from water and carbon dioxide, and they give out oxygen. The seedlings and the microbes breathe that oxygen in again, and give out carbon dioxide for the leaves to use. So the same air went round and round. Earth is a bit like this box. What do you think comes into Earth from outside?",
      "kid": "Nothing new came into the closed box. Only light. Is Earth like that?",
      "check": {
       "t": "mcq",
@@ -872,7 +872,8 @@
      "art": "Day 7: the closed box misty with drops and tall green seedlings bending under the lid, the open box with dry cotton and drooping seedlings.",
      "caption": "3. Compare after a week. Where did each box's water go?"
     }
-   ]
+   ],
+   "problem": "Earth is one big home where the same water and the same air are used again and again. A closed box is a small copy of it. Only light can get in. You will see what happens to the water and to the seedlings when nothing new comes in."
   },
   {
    "id": "e2",
@@ -1042,7 +1043,8 @@
      "art": "A child measuring the white root of a moong sprout with a ruler, with three cups of different-looking sprouts beside them.",
      "caption": "3. Count the sprouts and measure the longest root."
     }
-   ]
+   ],
+   "problem": "Water from washing clothes and dishes goes down the drain, and some of it reaches lakes where seeds and plants live. You will sprout seeds in plain water and in soapy water, and see whether soap harms them."
   }
  ],
  "activities": [
@@ -1231,7 +1233,8 @@
      "art": "A child's map with two paths, one blue from a sink to a drain to a river, and one brown from a bin to a truck to a dump yard, each ending with a question mark.",
      "caption": "2. Draw where the water and the rubbish go."
     }
-   ]
+   ],
+   "problem": "When water goes down the sink or a wrapper goes in the bin, we say it has gone away. But it cannot leave the Earth. You will follow your kitchen water and your rubbish to find out where they really go."
   },
   {
    "id": "a3",
@@ -1554,7 +1557,8 @@
      "do": "Compare the day 1 drawing with today's. Talk about where the water has been all month.",
      "say": "No water has gone in for a month. Where has the plant's water been all this time?",
      "kid": "Look at day 1 and today. Where did the water go all month?",
-     "wait": "Day 30"
+     "wait": "Day 30",
+     "parent": "The water never left the jar. It went from the soil and the leaves into the air, onto the cooler glass, and back down into the soil, again and again. That is why the plant did not need any more water."
     }
    ],
    "setup": [
@@ -1689,7 +1693,7 @@
    ],
    "general": [
     "A wide, shallow dish is best, about 3 to 5 cm deep, so small birds can stand and drink without falling in.",
-    "Clay keeps water cooler than plastic, because water seeps into the clay and evaporates from the outside.",
+    "Clay keeps water cooler than plastic. Water seeps into the clay and evaporates from the outside, and when water evaporates it takes some heat away with it.",
     "Change the water every day, so mosquito eggs never have time to hatch."
    ],
    "creative": [
@@ -2732,7 +2736,7 @@
   {
    "problem": "In the Closed Box Test, the open box weighed 114 grams on day 1 and 76 grams on day 7. How many grams of water left the open box?",
    "answer": "38 grams.",
-   "explain": "Take the day 7 weight from the day 1 weight. 114 take away 70 is 44. 44 take away 6 more is 38. So 38 grams of water evaporated into the room's air.",
+   "explain": "Take the day 7 weight from the day 1 weight. 114 take away 76 is 38. So 38 grams of water evaporated into the room's air.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "context": "This is about the Closed Box Test. You weigh both boxes on day 1 and day 7 to see whether any water left them.",
    "chart": {
@@ -3063,7 +3067,7 @@
   ],
   "other_view": {
    "who": "Many engineers and city planners",
-   "view": "Things do stay on Earth, but that alone is not the problem. A little waste spread through a lot of water or soil can be broken down safely by microbes. What matters is how much goes where, and whether it is treated. With good treatment plants and recycling, 'away' can be made to work."
+   "view": "Things do stay on Earth, but that alone is not the problem. A little waste spread through a lot of water or soil can be broken down safely by microbes. What matters is how much goes where, and whether it is treated. With good treatment plants and recycling, waste can be sent to places where it is dealt with safely, so it does not harm living things."
   },
   "practice": {
    "title": "Where has this water been?",

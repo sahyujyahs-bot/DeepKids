@@ -35,7 +35,7 @@
   },
   {
    "term": "Conduction",
-   "meaning": "Heat moving through a material, passed from each part to the part next to it. Heat also moves this way from one thing into another thing it touches. Nothing flows.",
+   "meaning": "Heat moving through a material, passed from each part to the part next to it. Heat also moves this way from one thing into another thing it touches. The material itself does not flow along. Only the heat is passed on.",
    "example": "The handle of a steel ladle gets hot by conduction, from the end that sits in the hot sambar.",
    "art": "A zoomed-in drawing of a spoon handle as a row of tiny balls, the ones near the tea shaking hard, the ones further up shaking less."
   },
@@ -111,8 +111,8 @@
    "definition": "A conductor of heat lets heat through quickly. An insulator of heat lets it through only very slowly.",
    "description": "Metals are good conductors of heat. Wood, plastic, cloth, paper and still air are insulators. Metals are not all the same, though. Copper and aluminium carry heat many times faster than the stainless steel most Indian spoons are made of. That is why some steel vessels have a copper or aluminium layer on the bottom. Cooks use both kinds of material together. The pan is metal, so heat reaches the food fast. The handle is wood or plastic, so heat reaches your hand slowly.",
    "examples": [
-    "A dosa tawa: an iron or aluminium plate with a wooden handle.",
-    "A pressure cooker: an aluminium or steel pot with plastic handles.",
+    "A dosa tawa is an iron or aluminium plate with a wooden handle.",
+    "A pressure cooker is an aluminium or steel pot with plastic handles.",
     "A coconut-shell ladle, used in many Kerala kitchens, stays cool to hold in hot curry."
    ],
    "perspectives": [],
@@ -625,7 +625,8 @@
       ],
       "a": 1,
       "why": "The heat comes from the water, so it reaches the nearest part of the steel first. Picking 'the top' is a common guess, because hot air rises. But inside a solid, heat moves from hot to cool, whichever way that is. If you guessed 'all at once', look at your times: the heat needed time to travel."
-     }
+     },
+     "parent": "The waits usually grow longer. For example, the first dot may fall after 1 minute. The next may fall 3 minutes later, and the next 5 minutes after that. Each part of the ladle has to warm up before it can pass heat on. So every part further along has to wait longer than the part before it."
     },
     {
      "id": "s7",
@@ -1475,7 +1476,7 @@
    "items": [
     {
      "t": "perspective",
-     "p": "Two children, the first child and the second child, are arguing about a steel spoon lying flat, with only its bowl in hot water.",
+     "p": "Two children are arguing about a steel spoon lying flat, with only its bowl in hot water.",
      "views": [
       {
        "who": "The first child, aged 8",
@@ -1612,7 +1613,7 @@
     },
     {
      "t": "write",
-     "p": "Someone says, 'If the ladle were twice as long, its top end would get even hotter.' Is that right? Explain.",
+     "p": "If a ladle were twice as long, would its top end get even hotter? Explain.",
      "lines": 3,
      "a": "No. The top end would be further from the hot water. The heat would take longer to get there, and more would leak into the air on the way. So the top would stay cooler.",
      "why": "A strong answer uses what the Ladle Line showed: further parts get heat later and less of it."
@@ -1680,7 +1681,7 @@
        "says": "Buy the plain steel one. It costs less and is easier to keep clean."
       },
       {
-       "who": "The first child, aged 10",
+       "who": "A child in the family, aged 10",
        "says": "Buy the plain steel one, but cook on a lower flame and stir more."
       }
      ],
@@ -1722,9 +1723,9 @@
     },
     {
      "t": "write",
-     "p": "After the Ladle Line test, someone says, 'The 8 cm peppercorn never fell, so no heat got past 6 cm.' Find the mistake in this thinking.",
+     "p": "After the Ladle Line test, the 8 cm peppercorn had never fallen. Does that mean no heat at all got past 6 cm? Explain.",
      "lines": 3,
-     "a": "Some heat did get past 6 cm, but not enough to melt the butter. The steel at 8 cm was a little warmer than before, just not warm enough.",
+     "a": "No. Some heat did get past 6 cm, but not enough to melt the butter. The steel at 8 cm was a little warmer than before, just not warm enough.",
      "why": "A strong answer sees that 'not enough to melt butter' is not the same as 'no heat at all'.",
      "how": "e1"
     },
@@ -2147,8 +2148,8 @@
   },
   "ask": [
    "In the Ladle Line test, the far end of the ladle stayed cool. Did the heat stop, or did it go somewhere else?",
-   "Each part of the ladle was warmed by the part next to it. So where does the ladle's warmth really begin?",
-   "In Warm the Tumbler, your hand warmed the cold steel. Once that warmth is in the steel, is it still yours?"
+   "Each part of the ladle was warmed by the part next to it. So where did the warmth start, and which part was warmed first?",
+   "In Warm the Tumbler, your hand warmed the cold steel. Where is that warmth now, and will it come back into your hand by itself?"
   ],
   "art": "A child on a balcony at dusk holding a steel tumbler in both hands, eyes closed, with a faint warm glow passing from their palms into the steel."
  },

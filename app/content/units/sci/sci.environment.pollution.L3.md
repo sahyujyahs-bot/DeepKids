@@ -19,7 +19,7 @@
 - **Pollutant**: One harmful thing that causes pollution, such as smoke, soot, sewage or plastic. *e.g.* Soot from a diesel lorry is a pollutant in the air.
 - **Particle**: A very small piece of something. Dust and smoke are made of particles floating in the air. *e.g.* Each speck on your sticky card is a particle that fell or blew out of the air.
 - **Soot**: Black particles left when something burns without enough air, such as diesel, wood, kerosene or rubbish. *e.g.* The black mark above an oil lamp's flame is soot.
-- **Fine particles (PM2.5)**: Particles so small that about 30 of them side by side are as wide as one hair. Scientists call them PM2.5. They float in the air for days and can reach deep into the lungs. *e.g.* Smoke from a mosquito coil or incense stick is full of fine particles.
+- **Fine particles (PM2.5)**: Particles so small that about 30 of them side by side are as wide as one hair. Scientists call them PM2.5. The name means particles that are 2.5 micrometres wide or smaller. A micrometre is one thousandth of a millimetre. They float in the air for days and can reach deep into the lungs. *e.g.* Smoke from a mosquito coil or incense stick is full of fine particles.
 - **Mucus**: The wet, sticky layer inside your nose and airways. It catches dust and germs from the air you breathe. *e.g.* After a day near a busy road, the mucus you blow into a tissue can come out grey.
 - **Sewage**: Used water from toilets, kitchens and bathrooms, carrying waste, soap and germs. *e.g.* In many towns, some sewage still flows into rivers and lakes without being cleaned.
 - **Groundwater**: Water that has soaked down through soil and rock and is stored under the ground. Wells and borewells pump it up. *e.g.* Many flats in Chennai and Bengaluru get some of their water from a borewell, which pumps up groundwater.
@@ -44,30 +44,30 @@ Anything that burns gives off smoke. Smoke is made of particles, such as soot, a
 ### Indoor air: smoke inside the home · *defined*
 **Definition:** Indoor air pollution is smoke, dust and harmful gases in the air inside a building. It comes from cooking, incense, mosquito coils, candles and dust brought in from outside.
 
-Many people think the air inside is always cleaner. It is not always so. A tadka of mustard seeds in hot oil, frying papads or a burning incense stick all fill a kitchen with fine particles. A burning mosquito coil gives off a lot of fine smoke for hours, in a closed bedroom. Cooking on a wood or dung fire inside a home is one of the biggest causes of illness in the world, which is why gas stoves help. An exhaust fan or an open window while cooking lets the smoke out. On days when the outside air is very dirty, keeping windows closed for a while can help.
+Many people think the air inside is always cleaner. It is not always so. A tadka of mustard seeds in hot oil, frying papads or a burning incense stick all fill a kitchen with fine particles. In a closed bedroom, a burning mosquito coil gives off a lot of fine smoke for hours. Cooking on a wood or dung fire inside a home is one of the biggest causes of illness in the world. A gas stove makes far less smoke, so it helps. An exhaust fan or an open window while cooking lets the smoke out. On days when the outside air is very dirty, keeping windows closed for a while can help.
 - e.g. After frying, the kitchen smells of oil for an hour. That smell is tiny droplets and gases still floating in the air.
-- e.g. Your sticky card in the kitchen catches oily specks, not only dust.
+- e.g. A sticky card left in the kitchen catches oily specks, not only dust.
 - e.g. Switching on the exhaust fan while cooking carries the smoke outside.
 ### Tiny particles and your body · *defined*
 **Definition:** Your nose and airways clean the air you breathe. Hairs in your nose catch bigger dust. Sticky mucus catches smaller dust. The smallest particles, the fine particles called PM2.5, can slip past and reach deep into the lungs.
 
-You breathe in and out about 20,000 times a day. All that air passes over the wet, sticky mucus in your nose and airways, the way air passed over the jelly on your card. Dust sticks to the mucus. Tiny hairs in your airways, called cilia, sweep the dirty mucus up and out, and you swallow it or blow it out. That is why a tissue can come out grey after a dusty day. The finest particles are about 30 times thinner than a hair. They can float in the air for days and reach the smallest air sacs of the lungs. Breathing them for years can cause coughs, asthma and heart illness. Children breathe more air for their size than grown-ups, so dirty air affects them more.
+You breathe in and out about 20,000 times a day. All that air passes over the wet, sticky mucus in your nose and airways, the way air passed over the jelly on the card in the Sticky Card Test. Dust sticks to the mucus. Tiny hairs in your airways, called cilia, sweep the dirty mucus up and out, and you swallow it or blow it out. That is why a tissue can come out grey after a dusty day. The finest particles are about 30 times thinner than a hair. They can float in the air for days and reach the smallest air sacs of the lungs. Breathing them for years can cause coughs, asthma and heart illness. Children breathe more air for their size than grown-ups, so dirty air affects them more.
 - e.g. After Diwali crackers, many people blow grey or black mucus into a tissue.
 - e.g. A cloth mask or handkerchief stops big dust. A well-fitted N95 mask stops most fine particles too.
 - e.g. People who walk to school along a busy road breathe more soot than those who walk along a quiet lane.
 ### Dust on leaves: a problem for the plant · *defined*
 **Definition:** A leaf makes the plant's food from sunlight, air and water. Dust on a leaf blocks some of the sunlight, and can clog the tiny holes in the leaf that let air in and out.
 
-A plant cannot walk away from a dusty road, so their leaves meet whatever the air brings. A coat of dust means less light reaches the leaf, so the plant makes less food. Plants deal with this in several ways. Rain washes most dust off. Smooth, waxy leaves, like those of a money plant or a banana plant, let dust slide off easily. Hairy or rough leaves, like tulsi and many roadside trees, hold on to dust. That is hard for the plant. Still, less of that dust reaches people. Trees along a road catch a lot of dust on their leaves, which is one reason streets with trees often have cleaner air.
+Plants cannot walk away from a dusty road, so their leaves meet whatever the air brings. A coat of dust means less light reaches the leaf, so the plant makes less food. Plants deal with this in several ways. Rain washes most dust off. Smooth, waxy leaves, like those of a money plant or a banana plant, let dust slide off easily. Hairy or rough leaves, like tulsi and many roadside trees, hold on to dust. That is harder for the plant, because the dust stays on the leaf and keeps blocking the light. But it is good for people nearby, because less of that dust is left in the air for us to breathe. Trees along a road catch a lot of dust on their leaves, which is one reason streets with trees often have cleaner air.
 - e.g. Just before the monsoon, the leaves of roadside trees look grey. After the first heavy rain, they are bright green again.
 - e.g. A damp cotton ball wiped over the top of a balcony leaf comes away grey.
 - e.g. Banana and money plant leaves, which are smooth and waxy, shed water drops and dust quickly.
 ### Water and land pollution · *defined*
 **Definition:** Water pollution is harmful things in rivers, lakes, the sea or groundwater. Land pollution is harmful things on and in the ground, such as rubbish, plastic and poisons.
 
-Sewage is the biggest cause of dirty rivers in India. When sewage pours into a river, microbes feed on the waste and use up the oxygen in the water, so fish can run short of oxygen. Soap, oil, paint and factory waste make water harmful too. Rubbish heaped on open ground, and plastic in drains, pollute the land. Rain soaks through the rubbish and carries some of what is in it down into the soil. Soil is a good filter for pieces, like mud and peels. But things dissolved in water, such as salt and many chemicals, pass through the soil with the water. They can reach the groundwater that borewells pump up.
+Sewage is the biggest cause of dirty rivers in India. When sewage pours into a river, microbes feed on the waste and use up the oxygen in the water, so fish can run short of oxygen. Soap, oil, paint and factory waste make water harmful too. Rubbish heaped on open ground, and plastic in drains, pollute the land. Rain soaks through the rubbish and carries some of what is in it down into the soil. Soil is a good filter for solid pieces, like mud and peels. But things dissolved in water, such as salt and many chemicals, pass through the soil with the water. They can reach the groundwater that borewells pump up.
 - e.g. Foam on some city lakes, such as Bellandur Lake in Bengaluru, comes from sewage with soap and detergent in it.
-- e.g. In your soil test, the muddy water came out clearer, but the salt in it went straight through.
+- e.g. In the Through the Soil experiment, the muddy water came out clearer, but the salt in it went straight through.
 - e.g. A plastic bag in a drain stops the water flowing, and the drain floods in the rain.
 - e.g. After festivals such as Ganesh Chaturthi in Maharashtra and Durga Puja in Kolkata, idols made of plaster of Paris and chemical paint dissolve slowly and leave waste in lakes and rivers. Clay idols do far less harm.
 ### Do house plants clean the air in a room? · *debated*
@@ -90,7 +90,7 @@ Plant leaves and the microbes in potting soil take in some pollutant gases from 
 ## Challenging perspectives
 - **Air that looks clear is clean.** (A very common idea; *rejected*)  
   For: On a clear blue day we cannot see any dust or smoke.  
-  Against: Your sticky card caught specks from air that looked clear. Fine particles are too small to see one by one, and some harmful gases have no colour at all.
+  Against: In the Sticky Card Test, the card caught specks from air that looked clear. Fine particles are too small to see one by one, and some harmful gases have no colour at all.
 - **The air inside a home is always cleaner than outside.** (Many families; *rejected*)  
   For: Walls and windows keep out a lot of road dust.  
   Against: Cooking smoke, incense and mosquito coils add fine particles inside. A kitchen during frying can have dirtier air than the road outside.
@@ -101,32 +101,32 @@ Plant leaves and the microbes in potting soil take in some pollutant gases from 
 ## Roots
 We have caught the air's dust on sticky cards, on leaves and in our own noses. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** After one day, your window card still looked white. After three days, its square was grey with specks. No single speck was big enough to notice, but together they covered the card. Pollution grows the same way, from small amounts added every day, until rain and wind cannot clear them.  
+**Deep truth.** In the Sticky Card Test, the card at your window still looked white after one day. After three days, its square was grey with specks. No single speck was big enough to notice, but together they covered the card. Pollution grows the same way, from small amounts added every day, until rain and wind cannot clear them.  
 *Habit it breaks:* We look for pollution in big, dramatic things, like a black cloud from a chimney. But most of it builds up from tiny amounts, from every vehicle, stove and fire, each too small to notice on its own.  
-*Evidence:* On day 2 the cards still looked almost white. By day 4, three days after you put them out, the window card was grey, while the card in the closed dabba stayed white, so the specks came from the air and had piled up over the days. Clair Patterson's Greenland ice showed the same thing over many years: lead from petrol, too little to see in one year's snow, building up layer after layer.
+*Evidence:* In the Sticky Card Test, the cards still looked almost white on day 2. By day 4, the window card was grey, while the card in the closed dabba stayed white. So the specks came from the air and had piled up over the days. The scientist Clair Patterson found the same thing over many years in Greenland ice. Lead from petrol was too little to see in one year's snow, but it built up layer after layer.
 
-- *who am i:* You are a body that air flows through all day. Some of what the air carries stays in you.
+- *who am i:* Air flows through your body all day. Some of what the air carries stays in you.
 - *what is life:* Every living thing that meets the air, from a crow to a tulsi plant, meets the same dust.
 - *what is this world:* The air over a city is shared. Smoke made in one lane ends up in the breath of people far away.
 
-There is one air over a city, the same air for every creature in it. Every breath is drawn from it: yours, the crow's on the window sill, and the air taken in by the neem tree's leaves. When one person burns a tyre, the smoke does not stay theirs. It spreads into that one air and comes back as many breaths, in many noses and on many leaves.
+A city has one air, and every creature in it shares it. You breathe it, the crow on the window sill breathes it, and the neem tree's leaves take it in. When one person burns a tyre, the smoke does not stay with that person. It spreads through the shared air and ends up in many noses and on many leaves.
 
 - **Atharva Veda 12.1.12 (the Prithvi Sukta, the hymn to the Earth):** The Earth is my mother, and I am her child. (A child's body is built from what the mother gives. Our bodies are built from the Earth's air, water and food, so what we put into the air and water comes back into us.)
 - **Acharanga Sutra, Book 1, Lecture 1 (Jain teaching on not harming):** There are living beings in earth, in water, in fire, in plants and in the air. A careful person does not harm any of them. (Jain teachers saw the air itself as full of life to be cared for. Smoke harms the beings who live by breathing, from the smallest insect to us.)
-- **Rachel Carson, Silent Spring (1962):** In nature, nothing exists alone. (The smoke from one fire never stays alone. It lands on window sills, on leaves, and on the inside of every nose nearby, as your sticky cards showed.)
+- **Rachel Carson, Silent Spring (1962):** In nature, nothing exists alone. (The smoke from one fire never stays alone. It lands on window sills, on leaves, and on the inside of every nose nearby, as the Sticky Card Test showed.)
 - Science (settled): The nose, the airways and their mucus remove most of the bigger particles from the air we breathe. The finest particles reach the deepest air sacs of the lungs.
 - Science (open): Some of the finest particles pass from the lungs into the blood. How much harm they do to the heart and brain over a lifetime is still being studied.
 - Other view, Many scientists: Air is a mixture of gases and particles. Sharing it does not make us one, any more than sharing a road does. Pollution is a problem of chemistry and health, to be solved with cleaner fuels, filters and fair laws, with no need for ideas about oneness.
 - Practice, The breath you share (3 min): Let's sit by the window and close our eyes. Breathe in slowly through your nose while I count to four. Now breathe out while I count to four. Feel the air go in, cool, and come out, warm. Do it five more times. Now think: where was this air a minute ago? Who will breathe it after you? Open your eyes.
-- Ask: No single speck made your card grey. So who made it grey?
-- Ask: The air you breathed out a minute ago is in the room now. Is it still yours?
-- Ask: Your nose cleans the air for your lungs. Who cleans the air for the city?
+- Ask: No single speck made your sticky card grey. Many specks together made it grey. Where did all those specks come from?
+- Ask: The air you breathed out a minute ago is now in the room. Who else might breathe it in?
+- Ask: Your nose cleans the air before it reaches your lungs. What cleans the air of a whole city?
 
 ## Deep and big questions
-- *deep:* Your nose catches dust all day. Where does the dust go after that? (hint: Think about the tissue, and about what you swallow without noticing.)
+- *deep:* Your nose catches dust all day. Where does the dust go after that? (hint: Think about the grey tissue after you blow your nose, and about what you swallow without noticing.)
 - *big:* The air you breathe out goes into the room, and someone else breathes it in. Whose air is it? (hint: Think about a crowded bus, and about the trees on your road.)
 - *big:* A family uses wood for cooking because gas costs too much. Who should pay for cleaner air? (hint: Think about who makes the smoke, who breathes it, and who can afford to change.)
-- *deep:* If a speck of soot is too small to see, how do scientists know it is there? (hint: Think about your card. You could not see one speck land, but you saw many specks together.)
+- *deep:* If a speck of soot is too small to see, how do scientists know it is there? (hint: Think about the sticky card at your window. You could not see one speck land, but you saw many specks together.)
 - *big:* Dust settles on the leaves of a tree beside a busy road, and that is hard for the tree. Does the tree have a say? (hint: Think about how the tree senses light, and what dust does to that.)
 
 ## Story: The Grey Card on Bhogi Morning
@@ -208,13 +208,14 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
   - Note: Some sources pollute more than one: burning plastic dirties the air, and its ash dirties the land. Give the point for any honest reason.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* Which pair would make the biggest difference in our building?  
-  *Child mode:* Which fix could your family try this week?
-  - Check: Joseph, a boy in Class 4, has a neighbour who burns dry leaves every morning. Which fix makes no smoke at all? → **Put the leaves in a compost pit**
+  *Parent says:* Let's check one pair. A neighbour burns dry leaves every morning. Which fix makes no smoke at all?  
+  *Child mode:* A neighbour burns dry leaves every day. Which fix makes no smoke at all?
+  - Check: A neighbour burns dry leaves every morning. Which fix makes no smoke at all? → **Put the leaves in a compost pit**
 
 ## Experiments
 ### e1 · The Sticky Card Test: what is in the air at your window? (30 min, 4 days)
-- **question:** Does the air at our window leave dust on a sticky card, even where nothing can fall on it? How much, compared with a card the air cannot reach?
+- **problem:** Air that looks clear still carries tiny specks. You will catch them on sticky cards and count them. One card goes in a closed dabba, so you can tell that the specks came from the air.
+- **question:** Does the air at our window leave dust on a sticky card, even where nothing can fall on it? Does it leave more than on a card the air cannot reach?
 - **predict:** Guess first. After three days, which card will have the most specks: the flat one on the sill, the upright one on the grill, or the one in the closed dabba? Will the upright card catch anything at all? Why do you think so?
 - **fair test:** All three cards are the same size, with the same square and the same thin layer of jelly, and stay out for the same three days. Only the place changes. The card in the closed dabba is the control: it shows what a card looks like when the air cannot reach it, so we know the specks on the others came from the air.
 - **safety:** A grown-up tapes the card to the outside sill or grill. Children never lean out of a window or climb on the sill.
@@ -261,12 +262,13 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
   *Child mode:* Fill in the table. Which card is dirtiest? Which is cleanest?
   - Check: Card B stood upright on the grill, so nothing could fall onto it. It still caught some specks. What does that show? → **Some dust floats in the air and is blown against things**
 - **s8 (3 min)**  
-  *Parent does:* Ask your child to say or write a claim, the evidence, and the reason.  
+  *Parent does:* Ask your child to say or write three things: what they found out (the claim), what they saw that shows it (the evidence), and why they think it happened (the reason).  
   *Parent says:* Tell me what you found out, what you saw that shows it, and why you think it happened.  
-  *Child mode:* Say three things. What I found. What I saw. Why I think so.
+  *Child mode:* Say three things: what you found out, what you saw that shows it, and why you think it happened.
   - Ask: What did you find out? (good: The air at our window carries dust, even when it looks clear.; The flat card caught the most, but the upright card caught some too.; The card in the dabba stayed clean, so the specks came from the air.)
   - Note: A strong answer uses the dabba card as proof that the specks came from the air. Now is the time to read this unit's explanation cards.
 ### e2 · The Leaf Wipe: where does dust sit on a plant? (20 min)
+- **problem:** Dust lands on plants too. You will wipe leaves with damp cotton to find where the dust sits. Then you will think about what the dust does to the plant.
 - **question:** On a potted plant near a window, is there more dust on the top of a leaf or underneath it? Is there more on an outer leaf or an inner one?
 - **predict:** Guess first. Will the top of a leaf be dirtier than the underside? Will a leaf on the outside of the plant, facing the window, be dirtier than one tucked inside? Why do you think so?
 - **fair test:** Use the same size of cotton ball, damp the same amount, and wipe each leaf with three gentle strokes. Wipe leaves of about the same size and age. Only the side or the place of the leaf changes.
@@ -294,9 +296,10 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
   - Ask: Why is dust a problem for the plant? (good: It blocks some sunlight, so the leaf makes less food.; It can block the tiny holes the leaf breathes through.)
   - Note: Rain washes most dust off leaves. A plant on a covered balcony gets no rain, so a gentle wipe or a spray of water now and then helps the plant. You can offer that as a kindness, not a chore.
 ### e3 · Through the Soil: what does soil stop, and what goes through? (25 min)
+- **problem:** Rain soaks through rubbish and dirty ground into the soil below. You will make a bottle of soil, like a small piece of ground. You will pour in muddy salty water. Then you will see what the soil stops and what goes through.
 - **question:** When dirty water soaks into the ground, does the soil clean it? Does it stop the mud? Does it stop the salt?
 - **predict:** Guess first. We pour muddy, salty water through a bottle of soil. Will the water that comes out be clear? Will the salt stay in the soil, or come through? Why do you think so?
-- **fair test:** Dry one spoonful of the water that came through the soil, and one spoonful of plain tap water, side by side on the same steel plate, in the same place. Only the water changes. The tap water spoonful is the control. Potting soil can add a little salt of its own, so compare the two spoonfuls, not just the crust.
+- **fair test:** Dry one spoonful of the water that came through the soil, and one spoonful of plain tap water, side by side on the same steel plate, in the same place. Only the water changes. The tap water spoonful is the control. Potting soil can add a little salt of its own, so compare what the two spoonfuls leave behind, instead of looking only at the crust from the soil water.
 - **safety:** A grown-up cuts the bottle, because the cut edge is sharp. Never drink or taste the water in this experiment.
 - **record:** Draw the soil filter, with the dirty water going in and the water coming out. Draw the two dry spots on the plate and label them.
 - **results table:** Water | How it looked: cloudy or clear | What was left on the plate after drying
@@ -345,9 +348,9 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 - **s3 (4 min)**  
   *Parent does:* Compare the cloths. Talk about where the dirt came from.  
   *Parent says:* Nobody poured dirt on the grill. Where did it come from?  
-  *Child mode:* Look at both cloths. Where did the black on the first one come from?
+  *Child mode:* Look at both cloths. Where did the black on the window cloth come from?
   - Ask: How did the dirt get onto the grill? (good: It came out of the air.; Dust blew in from the road.; Smoke from vehicles left it there.)
-  - Note: Leave the question open. The Sticky Card Test comes next and answers it.
+  - Note: Leave the question open. Good guesses are window sills, leaves, clothes and our own noses. The Sticky Card Test comes next and starts to answer it.
   - Think: If the air leaves this much on a grill, where else might it leave dust?
 ### a2 · Smoke and Dust Hunt: where does our air pollution come from? (15 min)
 - **record:** Make a tally chart: one row for each source, one tally mark each time you spot it.
@@ -373,12 +376,12 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 - **schedule:** day 1: Look inside your nose with a mirror and torch. In the evening after a day out on busy roads, blow your nose into a white tissue and look. (5 min); day 2: In the evening after a day at home, blow your nose into a white tissue and compare. (3 min)
 - **s1 (3 min)**  
   *Parent does:* Hold a mirror. Shine a torch towards one nostril and look inside.  
-  *Parent says:* Can you see tiny hairs inside your nose? The inside is wet and sticky too. What do you think they are for?  
+  *Parent says:* Can you see tiny hairs inside your nose? The inside is wet and sticky too. What do you think the hairs and the stickiness are for?  
   *Child mode:* Look in the mirror with the torch. Can you see hairs inside your nose?
   - Note: The hairs catch bigger dust. The wet lining is mucus, which catches smaller dust.
 - **s2 (2 min)**  
   *Parent does:* On an evening after a trip on busy roads, blow your nose into a white tissue and look at it.  
-  *Parent says:* Your nose has been catching dust all day, like the sticky card. What colour is the tissue?  
+  *Parent says:* Your nose has been catching dust all day, like the sticky card in the Sticky Card Test. What colour is the tissue?  
   *Child mode:* Blow your nose into a white tissue. What colour is it?
   - Wait: Do this on an evening after a trip out
 - **s3 (3 min)**  
@@ -386,10 +389,10 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
   *Parent says:* Which day did your nose catch more? Why?  
   *Child mode:* Do it again after a day at home. Which tissue is greyer?
   - Note: Not every child's tissue will look grey. In cleaner air, or after a short trip, it may stay white. That is good news, not a failed test.
-  - Check: Divya, a girl in Class 3, blows her nose into a tissue after a day on busy roads and after a day at home. The first tissue is greyer. Why? → **Her nose caught more dust from the dirtier air**
+  - Check: You blow your nose into a tissue after a day on busy roads, and again after a day at home. The first tissue is greyer. Why? → **Your nose caught more dust from the dirtier air**
   - Wait: Do this on an evening after a day at home
 ### a4 · Haze Watch: can you see the far tower today? (10 min, 5 days)
-- **record:** A table with the date, the time, your rating, and the AQI number if you can find it.
+- **record:** Make a table with the date, the time, your rating, and the AQI number if you can find it.
 - **schedule:** day 1: Choose a far landmark. Rate it: sharp, a little blurry, very blurry, or can't see it. (2 min); day 2: Rate the landmark at the same time of morning. (2 min); day 3: Rate the landmark again. (2 min); day 4: Rate the landmark again. (2 min); day 5: Rate the landmark once more, then compare all five days. (2 min)
 - **s1 (2 min)**  
   *Parent does:* Choose a landmark at least a few hundred metres away. Rate it on a scale: sharp, a little blurry, very blurry, can't see it.  
@@ -399,7 +402,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
   *Parent does:* On days 2, 3 and 4, at about the same time each morning, rate the landmark again. If you have an air quality app, write the AQI too.  
   *Parent says:* Same window, same time, every day. Why do you think the time has to be the same?  
   *Child mode:* Look at the same thing at the same time each day. Write how clear it is.
-  - Note: Morning mist after rain is water drops, not pollution. Note if it rained. In winter, haze is often worst early in the morning, when cold air near the ground keeps smoke from rising.
+  - Note: Using the same time each day makes it a fair test. The light, the wind and the traffic change through the day, so the tower would look different at different times even if the air stayed the same. Morning mist after rain is water drops, not pollution. Note if it rained. In winter, haze is often worst early in the morning, when cold air near the ground keeps smoke from rising.
   - Wait: Wait for the next morning, and repeat on days 2, 3 and 4
 - **s3 (2 min)**  
   *Parent does:* On day 5, rate the landmark once more, then compare all five days.  
@@ -411,7 +414,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 ## Projects
 ### p1 · Clean-Air Week at Home (50 min, 5 days)
 - **safety:** A grown-up decides where cards go in the kitchen. Keep cards away from the stove flame.
-- **record:** The two cards side by side, the counts, the two changes, and what each family member thought of them.
+- **record:** Keep the two cards side by side. Write down the counts, the two changes, and what each family member thought of them.
 - **schedule:** day 1: Put one sticky card on top of the kitchen cupboard for two days, with the family cooking as usual. Make a list of smoke sources at home. (15 min); day 3: Count the specks. Choose two changes as a family, such as using the exhaust fan or a lid while frying, or no incense or coils indoors. Put up a new card. (15 min); day 5: Count the specks on the new card. Compare. Make a poster of what worked for the building notice board. (20 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. Make a sticky card. 2. Tape it on top of a kitchen cupboard, away from the flame. 3. Cook as usual for two days. 4. Together, list everything at home that makes smoke.  
@@ -436,7 +439,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 - **problem:** Your window lets in fresh air, and dust from the road comes in with it. Design a filter for the window that stops dust but still lets air through.
 - **your turn:** Now design your own filter. Draw it, build it, and test it with the two cards for two days. Did it stop dust? Did the tissue still flutter?
 - **constraints:** Use only things from home.; Air must still come through: a tissue strip held near the filter must still flutter in the breeze.; Test it with two sticky cards: one behind your filter and one beside it, open to the air.
-- **general:** Stretch a single layer of cotton cloth over a cardboard frame and tape it to the inside of the window.; Use two layers of mosquito net. Each layer catches some of the dust.; Hang a damp cloth across part of the window. Wet cloth is sticky, like your nose.
+- **general:** Stretch a single layer of cotton cloth over a cardboard frame and tape it to the inside of the window.; Use two layers of mosquito net. Each layer catches some of the dust.; Hang a damp cloth across part of the window. Wet cloth is sticky, like the inside of your nose.
 - **creative:** Put pot plants with rough leaves on the window sill, so the leaves catch dust before it comes in.; Make a cloth roll that you only pull down on hazy days or when a building site next door is busy.; Fold the cloth in pleats, so there is more cloth to catch dust in the same space.
 - **s1 (8 min)**  
   *Parent does:* Talk about the problem. Draw two ideas.  
@@ -463,6 +466,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
   *Parent does:* Talk about why families burn old things on Bhogi, and what the smoke does.  
   *Parent says:* Bhogi is about letting go of the old to make space for the new. Does that need a fire?  
   *Child mode:* Why do people burn old things on Bhogi? What does the smoke do?
+  - Note: The answer is no. Letting go only means the old things leave our home. They can go to someone who will use them, or into compost. A fire is not needed.
 - **s2 (15 min)**  
   *Parent does:* List the old things in your home. For each, decide where it could go.  
   *Parent says:* Old clothes, old mats, broken toys. Where could each one go so it is useful again?  
@@ -475,20 +479,20 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 
 ## Worksheets
 ### Air Detective (core) (core, 15 questions)
-1. (mcq) Meenakshi, a girl in Class 3 in Madurai, wipes her window grill with a damp white cloth. The cloth comes away grey. Where did the grey come from?  
+1. (mcq) You wipe a window grill with a damp white cloth. The cloth comes away grey. Where did the grey come from?  
    Options: Dust and soot that came out of the air / The paint on the grill / The water in the cloth  
    **Answer:** Dust and soot that came out of the air. *Why:* Nobody put dirt on the grill. Dust and soot came out of the air, a speck at a time, and stuck to it. A strong answer says the dirt came from the air, and names a source such as vehicles or a building site.
 2. (fill) Harmful things added to air, water or land faster than nature can clear them away are called ____.  
    **Answer:** ['pollution']. *Why:* Pollution is the word for it. One harmful thing, such as smoke, is called a pollutant.
 3. (sort) Sort each one: does it mostly pollute the air, the water or the land?  
    **Answer:** smoke from a diesel lorry → Air; sewage poured into a river → Water; a rubbish heap on an empty plot → Land; dust from a building site → Air; washing a scooter in a lake → Water; plastic bags buried in a field → Land. *Why:* Smoke and dust float in the air. Sewage and scooter washing go into the water. Rubbish and plastic stay on and in the ground. A strong answer notices that some things pollute more than one, such as burning rubbish, which dirties the air and leaves ash on the land.
-4. (truefalse) Pooja, a girl in Class 3, says, 'If the air looks clear, it must be clean.' Is she right?  
-   **Answer:** False. *Why:* False. Fine particles are too small to see one by one, and some harmful gases have no colour. The sticky card caught specks from air that looked clear.
+4. (truefalse) If the air looks clear, it must be clean.  
+   **Answer:** False. *Why:* False. Fine particles are too small to see one by one, and some harmful gases have no colour. In the Sticky Card Test, the card caught specks from air that looked clear.
 5. (match) Match each word to what it means.  
    **Answer:** Soot → black particles from burning; Sewage → used water from toilets and kitchens; Mucus → the sticky layer inside your nose; Haze → a grey look in the air from many fine particles. *Why:* These four words come up all through the unit. A strong answer could also give an example of each.
-6. (mcq) Divya, a girl in Class 3, blows her nose after a day on a busy road. The tissue is grey. Why?  
-   Options: The sticky mucus in her nose caught dust from the air / Her nose made dust / The tissue was dirty  
-   **Answer:** The sticky mucus in her nose caught dust from the air. *Why:* Mucus is sticky, like the jelly on the card. Every breath passes over it, and dust sticks. Dirtier air leaves more dust.
+6. (mcq) You blow your nose after a day on a busy road. The tissue is grey. Why?  
+   Options: The sticky mucus in your nose caught dust from the air / Your nose made dust / The tissue was dirty  
+   **Answer:** The sticky mucus in your nose caught dust from the air. *Why:* Mucus is sticky, like the jelly on a sticky card. Every breath passes over it, and dust sticks. Dirtier air leaves more dust.
 7. (write) Name two things in or near your home that put smoke or dust into the air. For each one, say one way to make less.  
    **Answer:** For example: frying in the kitchen, so switch on the exhaust fan. Vehicles on the road, so switch the engine off at a signal.. *Why:* A strong answer names real sources the child has seen, and a change that really reduces them, not just 'be careful'.
 8. (draw) Draw your three sticky cards after three days: the flat one on the sill, the upright one on the grill, and the one from the dabba. Shade each square as grey as it was.  
@@ -499,7 +503,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
    **Answer:** ['groundwater']. *Why:* Groundwater is water that soaked down through soil and rock. Pollution on the ground can reach it.
 11. (perspective) Two sisters in Kochi talk about their neighbour, who burns the dry leaves from his garden every week.  
    **Answer:** A strong answer uses evidence: smoke from any burning carries soot and fine particles, and the sticky card shows that what is in the air lands near and inside us. It also gives the other side its due: burning plastic is worse, because its smoke has poisons in it as well.. *Why:* Both sisters have a point. Plastic smoke is more poisonous, but smoke from leaves is still full of fine particles that harm lungs. Composting leaves avoids the smoke altogether.
-12. (mcq) Anjali, a girl in Class 4, keeps a tulsi plant on a covered balcony beside a busy road. The leaves look grey. Why is the dust a problem for the plant?  
+12. (mcq) A tulsi plant stands on a covered balcony beside a busy road. The leaves look grey. Why is the dust a problem for the plant?  
    Options: It blocks some of the sunlight the leaves use to make food / It makes the plant heavier / It makes the leaves taste bitter  
    **Answer:** It blocks some of the sunlight the leaves use to make food. *Why:* A leaf makes food from sunlight, air and water. Dust blocks some of the light, so the plant makes less food. On a covered balcony, no rain washes it off.
 13. (truefalse) Smoke from a burning tyre or plastic bag is harmless, because it is only smoke.  
@@ -519,14 +523,14 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
    **Answer:** 0. *Why:* The incense stick, the coil and the frying all give off smoke. A fan only moves the air that is already there.
 4. (label) Label the picture of the soil filter: soil, cotton plug, muddy salt water going in, water coming out.  
    **Answer:** Muddy salt water poured in at the top, soil in the upper half, cotton plug in the bottle neck, water dripping into the lower half.. *Why:* A strong answer shows the water going down through the soil, and labels what the soil stops (mud) and what it lets through (dissolved salt).
-5. (write) A factory spills a chemical that dissolves in water onto the ground. A family nearby drinks water from a borewell. Use the soil test to explain why they should worry.  
-   **Answer:** In the soil test, dissolved salt went straight through the soil with the water. A dissolved chemical could do the same and reach the groundwater, which the borewell pumps up.. *Why:* A strong answer connects the dissolved salt in the test to the dissolved chemical, and follows the water down to the borewell.
+5. (write) A factory spills a chemical onto the ground. The chemical dissolves in water. A family nearby drinks water from a borewell. Use the Through the Soil experiment to explain why they should worry.  
+   **Answer:** In the Through the Soil experiment, dissolved salt went straight through the soil with the water. A dissolved chemical could do the same and reach the groundwater, which the borewell pumps up.. *Why:* A strong answer connects the dissolved salt in the test to the dissolved chemical, and follows the water down to the borewell.
 6. (sort) Sort each change: does it make less smoke, or does it only move the smoke somewhere else?  
    **Answer:** putting leaves in a compost pit → Makes less smoke; burning rubbish behind the building instead of in front → Only moves the smoke; switching off the engine at a signal → Makes less smoke; a taller factory chimney → Only moves the smoke; cooking on gas instead of wood → Makes less smoke. *Why:* A taller chimney or a fire round the back still makes the same smoke, so somebody else breathes it. Composting, switching off and cleaner fuel make less smoke in the first place.
 7. (truefalse) Opening the kitchen window or running the exhaust fan while frying helps the air in the kitchen.  
    **Answer:** True. *Why:* True. The fan or the open window carries the smoke outside, so less stays in the kitchen for people to breathe.
 8. (perspective) A family in Hyderabad argues about the mosquito coil in the bedroom.  
-   **Answer:** A strong answer sees that both dangers are real: dengue is serious, and coil smoke is full of fine particles. It may choose the net because it solves both problems, and it gives each person credit for their point.. *Why:* This is a real trade-off. The mother is right that mosquitoes are dangerous. Ishita is right about the smoke. Ammamma's net removes both problems, though a net must be tucked in well to work.
+   **Answer:** A strong answer sees that both dangers are real: dengue is serious, and coil smoke is full of fine particles. It may choose the net because it solves both problems, and it gives each person credit for their point.. *Why:* This is a real trade-off. The mother is right that mosquitoes are dangerous. The first child is right about the smoke. Ammamma's net removes both problems, though a net must be tucked in well to work.
 9. (write) Many people think the air inside a home is always cleaner than outside. Describe a test that would find out whether that is true in your home.  
    **Answer:** Put one sticky card in the kitchen and one on the window sill for the same three days, with the same jelly and square. Count the specks in one corner of each and compare.. *Why:* A strong answer keeps everything the same except the place, says how long, and says how to compare the results.
 10. (mcq) Which mask stops most of the fine particles (PM2.5) in smoky air?  
@@ -543,11 +547,11 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 15. (truefalse) Burning rubbish is a good way to get rid of it, because it disappears.  
    **Answer:** False. *Why:* False. The smoke goes into the air, and ash and metal bits are left on the land. Nothing disappears: it only changes form and moves.
 ### Who Breathes It? (challenge) (challenge, 15 questions)
-1. (write) Your card on the window sill was dark grey after three days. A friend's card, on the 14th floor in a quiet lane, was light grey. Give two reasons the results could be different.  
+1. (write) Your sticky card on the window sill was dark grey after three days. A friend's card, on the 14th floor in a quiet lane, was light grey. Give two reasons the results could be different.  
    **Answer:** For example: her lane has fewer vehicles, so less soot. Road dust is kicked up near the ground, so less reaches the 14th floor. It may have rained on her side of the city.. *Why:* A strong answer gives two different, testable reasons, not just 'her home is cleaner'.
 2. (perspective) A building in Chennai is planning its Bhogi morning.  
    **Answer:** A strong answer weighs the meaning of the tradition, the evidence from the sticky cards, and the smaller harm of a small, clean fire. It might choose a smokeless Bhogi or Farhan's middle way, and it respects Lakshmi's feeling for the tradition.. *Why:* This is a real disagreement. Traditions matter to people. Smoke harms people. A small fire with no tyres or plastic makes far less harm, and a fire-free Bhogi makes none.
-3. (write) Some people say, 'The air belongs to nobody, so nobody has to keep it clean.' Others say, 'The air belongs to everybody, so everybody has to keep it clean.' What do you think? Use your nose and the sticky card in your answer.  
+3. (write) Some people say, 'The air belongs to nobody, so nobody has to keep it clean.' Others say, 'The air belongs to everybody, so everybody has to keep it clean.' What do you think? Use what you learned about your nose and the sticky card in your answer.  
    **Answer:** A strong answer might say the air passes through every breathing body, so smoke made by one person ends up in other people's noses and lungs, which is why everyone has a share in keeping it clean.. *Why:* A strong answer takes a side, gives a reason from the unit, and fairly states the other view.
 4. (mcq) Clair Patterson measured lead in layers of old Greenland ice. Snow from long ago had almost no lead, but recent snow had far more. What did this show?  
    Options: The lead in the air came from people, not from nature / Ice makes lead / Lead has always been in the air in the same amount  
@@ -564,15 +568,15 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
    Options: A room would need far more plants than anyone keeps, so fresh air does much more / Two plants clean a room completely / Plants make the air dirtier  
    **Answer:** A room would need far more plants than anyone keeps, so fresh air does much more. *Why:* In small sealed boxes, plants did take some gases out of the air. In a real room, air flows in and out all the time, and a few plants make only a tiny difference. Plants are good to live with for other reasons.
 10. (fill) Fine particles are about ____ times thinner than a hair.  
-   **Answer:** ['30']. *Why:* A hair is about 70 micrometres thick. The largest fine particles, PM2.5, are 2.5 micrometres. 70 divided by 2.5 is 28, so about 30 times.
+   **Answer:** ['30']. *Why:* A hair is about 70 micrometres thick. A micrometre is a thousandth of a millimetre. The largest fine particles, PM2.5, are 2.5 micrometres. 70 divided by 2.5 is 28, so about 30 times.
 11. (match) Match each source to the main pollutant it adds.  
    **Answer:** A diesel lorry → soot in the air; A building site → dust in the air; A town's toilets with no treatment plant → sewage in the river; A rubbish dump in the rain → dirty water soaking into the ground. *Why:* Each source adds something different. A strong answer could add a second pollutant for some of them, such as plastic from the dump.
 12. (write) Children breathe more air for their size than grown-ups. Explain why this means dirty air affects children more.  
-   **Answer:** More air for their size means more dust and soot passes into a child's nose and lungs for the size of their body. So the same dirty air puts a bigger load on a child.. *Why:* A strong answer links more air breathed to more particles taken in, compared with body size.
+   **Answer:** A child takes in more dust and soot for the size of their body than a grown-up does. So the same dirty air puts a bigger load on a child.. *Why:* A strong answer links more air breathed to more particles taken in, compared with body size.
 13. (odd) Three of these help clean the air by themselves, without people doing anything. Which is the odd one out?  
    Options: A taller chimney / Rain / Wind / Leaves of roadside trees  
    **Answer:** 0. *Why:* Rain washes particles down, wind spreads smoke out, and leaves catch dust. A taller chimney does not clean anything. It sends the same smoke further away.
-14. (mcq) Rekha, a mother in Pune, puts a sticky card on top of her kitchen cupboard for two days. It catches oily, sticky specks. Where did they most likely come from?  
+14. (mcq) A sticky card is left on top of a kitchen cupboard for two days. It catches oily, sticky specks. Where did they most likely come from?  
    Options: Frying and tadka on the stove / Dust from the road / The cupboard wood  
    **Answer:** Frying and tadka on the stove. *Why:* Hot oil gives off tiny droplets of oil and smoke. They float in the kitchen air and stick to high surfaces. That is why kitchen tops get sticky.
 15. (write) Pick one fix from this unit that costs money and one that costs nothing. Which would more families really do? Why?  
@@ -590,19 +594,19 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 2. (mcq) Which of these puts the most soot into a city's air?  
    Options: Diesel lorries and buses / Bicycles / Electric trains  
    **Answer:** Diesel lorries and buses. *Why:* Diesel engines burn fuel and give off soot. Bicycles burn nothing. Electric trains make no smoke on the street, though the power station that makes their electricity may.
-3. (mcq) Arjun, a boy in Coimbatore, leaves a sticky card on his window sill for three days. Another card stays in a closed dabba. The dabba card stays white. What does that show?  
+3. (mcq) A sticky card is left on a window sill for three days. Another card stays in a closed dabba. The sill card gets specks, but the dabba card stays white. What does that show?  
    Options: The specks on the sill card came from the air / The dabba made the card cleaner / The jelly turns grey by itself  
    **Answer:** The specks on the sill card came from the air. *Why:* Both cards had the same jelly. Only the sill card met the air, and only it got specks. So the air brought them.
-4. (mcq) Why do scientists count the specks in only one corner of the square?  
-   Options: It is quicker, and they can multiply by 4 for the whole square / The other corners are always empty / The corner is the dirtiest part  
-   **Answer:** It is quicker, and they can multiply by 4 for the whole square. *Why:* When specks are spread fairly evenly, a quarter of the square holds about a quarter of them. Counting a part and multiplying saves time.
+4. (mcq) In the Sticky Card Test, why count the specks in only one corner of the square?  
+   Options: It is quicker, and you can multiply by 4 for the whole square / The other corners are always empty / The corner is the dirtiest part  
+   **Answer:** It is quicker, and you can multiply by 4 for the whole square. *Why:* When specks are spread fairly evenly, a quarter of the square holds about a quarter of them. Counting a part and multiplying saves time.
 5. (mcq) What catches dust inside your nose?  
    Options: Tiny hairs and sticky mucus / Your teeth / Your tongue  
    **Answer:** Tiny hairs and sticky mucus. *Why:* Hairs catch the bigger dust, and sticky mucus catches smaller dust. The mucus is then swept out.
 6. (mcq) Which particles in smoke are the most harmful to lungs?  
    Options: The finest ones, too small to see / The biggest ones, which you can see / They are all equally harmful  
    **Answer:** The finest ones, too small to see. *Why:* The nose catches big dust. The finest particles slip past it and reach deep into the lungs. Picking 'the biggest' is a natural guess, because we can see those.
-7. (mcq) In the soil test, muddy salt water went through soil. What came out?  
+7. (mcq) In the Through the Soil experiment, muddy salt water went through soil. What came out?  
    Options: Clearer water that still had the salt in it / Pure clean water / Only mud  
    **Answer:** Clearer water that still had the salt in it. *Why:* Soil stops pieces like mud, but dissolved salt goes through. That is why dissolved chemicals on the ground can reach groundwater.
 8. (mcq) What is the biggest cause of dirty rivers in India?  
@@ -666,9 +670,9 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 - Why did the compost pit win the Bhogi prize? *It took all the old things and made no smoke.*
 
 ## Connected maths
-- Kavya, a girl aged 9, counts 35 specks in the top left corner of her window card's square. The square has 4 equal corners, and the specks look evenly spread. About how many specks are in the whole square? **About 140 specks.**. One corner is a quarter of the square. If one quarter holds 35, four quarters hold 4 times 35. 4 times 35 is 140. Check: 35 + 35 + 35 + 35 = 140. (queues `math.multiplication.equal-groups.L3`)
-- Meenakshi, a girl in Class 3 in Madurai, left three sticky cards for three days. In one corner of each square, she counted: card A on the sill, 35 specks. Card B upright on the grill, 12 specks. Card C in the dabba, 1 speck. How many more specks did card A catch than card B? Why might card C have 1 speck, not 0? **23 more specks. Card C may have caught a speck while the card was being made, before it went in the dabba.**. 35 minus 12 is 23. Card C shows what gets on a card without the outside air, such as a speck from the room while the jelly was spread. That is why a control is useful: it tells us how much to ignore. (queues `math.data.bar-charts.L3`)
-- Sana, a girl in Pune, checked her city's AQI each morning. Monday 85, Tuesday 92, Wednesday 160, Thursday 110, Friday 70. It rained on Thursday night. Which morning had the dirtiest air? How much lower was Friday than Wednesday? What might explain Friday? **Wednesday had the dirtiest air. Friday was 90 lower. The rain on Thursday night probably washed particles out of the air.**. The highest number, 160, is the dirtiest. 160 minus 70 is 90. Rain catches particles as it falls, so the morning after rain is often clearer. (queues `math.addition-subtraction.word-problems.L3`)
+- You count 35 specks in the top left corner of the square on your window card. The corner is one quarter of the square, and the specks look evenly spread. About how many specks are in the whole square? **About 140 specks.**. One corner is a quarter of the square. If one quarter holds 35, four quarters hold 4 times 35. 4 times 35 is 140. Check: 35 + 35 + 35 + 35 = 140. (queues `math.multiplication.equal-groups.L3`)
+- Three sticky cards were left for three days. The specks in one corner of each square were counted. Card A, flat on the sill: 35 specks. Card B, upright on the grill: 12 specks. Card C, in the dabba: 1 speck. How many more specks did card A catch than card B? Why might card C have 1 speck, not 0? **23 more specks. Card C may have caught a speck while the card was being made, before it went in the dabba.**. 35 minus 12 is 23. Card C shows what gets on a card without the outside air, such as a speck from the room while the jelly was spread. That is why a control is useful: it tells us how much to ignore. (queues `math.data.bar-charts.L3`)
+- A city's AQI was checked each morning. Monday 85, Tuesday 92, Wednesday 160, Thursday 110, Friday 70. It rained on Thursday night. Which morning had the dirtiest air? How much lower was Friday than Wednesday? What might explain Friday? **Wednesday had the dirtiest air. Friday was 90 lower. The rain on Thursday night probably washed particles out of the air.**. The highest number, 160, is the dirtiest. 160 minus 70 is 90. Rain catches particles as it falls, so the morning after rain is often clearer. (queues `math.addition-subtraction.word-problems.L3`)
 - Resting quietly, a child of 8 breathes about 20 times a minute. How many breaths is that in 10 minutes? If every breath passes over the sticky mucus in the nose, which would catch more dust in 10 minutes: a child sitting still or a child running? **About 200 breaths in 10 minutes. The running child, because they breathe faster and deeper, so more air and more dust pass through their nose and lungs.**. 20 breaths a minute for 10 minutes is 20 times 10, which is 200. Running makes you breathe faster and take in more air with each breath, so more dust comes in. (queues `math.multiplication.multiplication-facts.L3`)
 
 ## Song
@@ -689,7 +693,7 @@ Round and Round (sci.environment.L3): Topic-level song for Caring for the enviro
 - Name one source of air pollution in a city. → Vehicles, building dust, burning rubbish, factories or cooking smoke.
 - What catches dust inside your nose? → Tiny hairs and sticky mucus.
 - What is soot? → Black particles left when something burns without enough air.
-- In the soil test, what did the soil stop, and what went through? → It stopped the mud. The dissolved salt went through.
+- In the Through the Soil experiment, what did the soil stop, and what went through? → It stopped the mud. The dissolved salt went through.
 - Why does rain make the air clearer? → Raindrops catch dust and soot and bring them to the ground.
 - What is sewage? → Used water from toilets, kitchens and bathrooms.
 

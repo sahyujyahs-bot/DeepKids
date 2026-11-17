@@ -42,9 +42,9 @@ Scientists usually say energy is what is needed to do work, which means to push 
 **Definition:** Energy can be movement energy, heat, light, sound, electrical energy, or stored energy. These are called forms of energy.
 
 The same energy can change from one form to another. In a torch, stored energy in the cells is carried by electricity to the bulb. The bulb gives out light and a little heat. In your body, stored energy from food becomes movement when you run, and heat that keeps you warm. A falling coconut's stored energy, from being high up, becomes movement energy as it falls. When it hits the ground, there is a thud: some energy has become sound.
-- e.g. Cooker: the gas flame's heat makes steam, and the steam pushes up the whistle and makes a sound.
-- e.g. Phone: stored energy in the battery becomes light on the screen and sound from the speaker.
-- e.g. Fan: electrical energy becomes movement energy in the blades.
+- e.g. In a pressure cooker, the heat of the gas flame makes steam. The steam pushes up the whistle and makes a sound.
+- e.g. In a phone, stored energy in the battery becomes light on the screen and sound from the speaker.
+- e.g. In a ceiling fan, electrical energy becomes movement energy in the blades.
 ### Energy passes from one thing to another · *defined*
 **Definition:** Energy transfer means energy passing from one thing to another. Things do not make energy. They get it from somewhere and pass it on.
 
@@ -89,7 +89,7 @@ Scientists can measure energy very exactly, in joules, and they have never found
 
 ## Mostly agreed
 - Energy is never made or destroyed. It only passes on and changes form. *How we know:* In the 1840s, James Joule measured that the same amount of work always made the same amount of heat. Since then, every careful measurement has agreed.
-- A moving thing's energy grows much faster than its speed. Twice as fast means about four times as much energy. *How we know:* Balls dropped into soft clay by Willem 's Gravesande in 1722 made dents that grew this way. Engineers use the same rule today to work out the force of crashes.
+- A moving thing's energy grows much faster than its speed. Twice as fast means about four times as much energy. *How we know:* In 1722, Willem 's Gravesande dropped balls into soft clay. A ball that landed twice as fast made a dent about four times as deep. Engineers use the same rule today to work out the force of crashes.
 - Almost all the energy used by living things on Earth comes from sunlight. *How we know:* Plants and tiny sea life make food from sunlight, and every food chain studied starts with them, except a few deep-sea communities around hot vents.
 - When energy changes form, some of it nearly always spreads out as heat. *How we know:* A bulb, a mixie motor, a running child and a stopping bicycle all get warm. Thermometers show the warming every time.
 - The Sun's energy comes from hydrogen joining into helium in its centre. *How we know:* Physicists worked this out in the 1920s and 1930s. Tiny particles called neutrinos, made by these reactions, have been caught in detectors on Earth.
@@ -101,7 +101,7 @@ Scientists can measure energy very exactly, in joules, and they have never found
 ## Challenging perspectives
 - **Energy gets used up.** (A very common idea, used in everyday talk; *rejected*)  
   For: Cells go flat, petrol tanks run empty, and you feel tired after running. It really looks as if the energy is gone.  
-  Against: The energy has passed on and spread out, mostly as warmth in the air. Careful measurements always find all of it. What is 'used up' is energy in a form that is easy to use.
+  Against: The energy has passed on and spread out, mostly as warmth in the air. Careful measurements always find all of it. What runs out is the energy in a form that is easy to use.
 - **Electricity is where our energy comes from.** (A common idea, because we get it from a socket; *rejected*)  
   For: Plug in a fan and it runs. Unplug it and it stops. So it seems that the socket is the source.  
   Against: Electricity only carries energy along wires. The energy comes from a power station, which got it from coal, gas, wind, sunlight, falling water or uranium.
@@ -112,23 +112,23 @@ Scientists can measure energy very exactly, in joules, and they have never found
   For: Wheels with rolling weights and magnets look as if they should keep turning by themselves.  
   Against: Every one ever tested has slowed down and stopped. Some of the energy always spreads out as heat through rubbing, so a machine needs new energy to keep going.
 - **The total energy of the whole universe may be exactly zero.** (Edward Tryon, an American physicist, in 1973, and others since; *debated*)  
-  For: The energy of all the matter in the universe might be exactly balanced by the negative energy of gravity pulling it together.  
+  For: Gravity pulls things together. Scientists count the energy of things held together by gravity as less than zero. That is a little like a hole in the ground having a depth below zero. The energy of all the matter in the universe might be exactly balanced by this less-than-zero energy.  
   Against: Energy in a whole, expanding universe is hard to define, and some physicists say the question has no clear meaning.
 
 ## Roots
 We have learned that energy makes things happen, and that it is passed on from one thing to another. Now we ask what energy tells us about ourselves and the world.
 
-**Deep truth.** The marble dropped from higher dug a wider crater and made a louder thud. The extra energy came from your arm, which lifted it higher. Your arm's energy came from food, and the food's energy from sunlight. So that crater in the atta was dug, step by step, with sunlight.  
-*Habit it breaks:* We speak of moving, lighting, heating and sounding as separate happenings, and we think each thing makes its own energy. But nothing makes the energy it uses. It is passed on from somewhere else, and you can follow it back, step by step.  
-*Evidence:* From 80 cm the marble made a wider crater and a louder thud than from 20 cm. Lifting the water bottle above your head ten times tired your arm more than lifting it to your knee. More energy went in when you lifted higher, and more came out in the crater and the sound.
+**Deep truth.** In the Atta Crater Test, the marble dropped from higher dug a wider crater and made a louder thud. The extra energy came from your arm, which lifted it higher. Your arm's energy came from food, and the food's energy from sunlight. So that crater in the atta was dug, step by step, with sunlight.  
+*Habit it breaks:* We talk about moving, lighting up, heating up and making a sound as separate things, and we think each thing makes its own energy. But nothing makes the energy it uses. It is passed on from somewhere else, and you can follow it back, step by step.  
+*Evidence:* In the Atta Crater Test, the marble dropped from 80 cm made a wider crater and a louder thud than from 20 cm. Lifting the water bottle above your head ten times tired your arm more than lifting it to your knee. More energy went in when you lifted higher, and more came out in the crater and the sound.
 
 - *who am i:* Every move you make, and the warmth of your body, runs on energy from your food. That energy was sunlight caught by plants.
 - *what is life:* A plant catches sunlight and stores the Sun's energy in food. Every animal, you too, lives on that store, passed from one living thing to the next.
 - *what is this world:* Wind, rain, rivers and the food on your plate are all moved by the Sun's energy. Almost everything that happens on Earth starts with sunlight.
 
-Moving, lighting, heating and sounding all need energy, and in each case the energy was passed on from something else. Follow any of them back and you reach the same place: sunlight caught by plants, or the Sun's heat moving the air and the water. In the atta, the crater, the thud and the warmth are the last steps of one trail that began at the Sun.
+Moving, lighting up, heating up and making a sound all need energy, and in each case the energy was passed on from something else. Follow any of them back and you reach the same place: sunlight caught by plants, or the Sun's heat moving the air and the water. In the Atta Crater Test, the crater, the thud and the warmth are the last steps of one trail that began at the Sun.
 
-- **Taittiriya Upanishad 3.2 (Bhrigu Valli):** Bhrigu asks his father Varuna what the source of all things is. His first answer is food: from food beings are born, by food they live, and into food they go when they die. (Your running, your warmth and the marble you lifted all ran on energy from food. When you die, your body becomes food for other living things, and the energy passes on again.)
+- **Taittiriya Upanishad 3.2 (Bhrigu Valli):** Bhrigu asks his father Varuna what the source of all things is. The first answer Bhrigu finds is food: from food beings are born, by food they live, and into food they go when they die. (Your running, your warmth and the marble you lifted all ran on energy from food. When you die, your body becomes food for other living things, and the energy passes on again.)
 - **Heraclitus, fragment 90 (Diels-Kranz numbering), about 500 BCE:** All things are an exchange for fire, and fire for all things, as goods are exchanged for gold and gold for goods. (Energy works like that gold. Sunlight is exchanged for rice, rice for movement, movement for a crater and a sound. The form changes, but the amount is kept.)
 - **Thich Nhat Hanh, The Heart of Understanding, 1988:** Look deeply into a sheet of paper and you can see the sunshine in it. Without sunshine, the tree could not grow, and there would be no paper. (Look deeply at the atta in your tray, or the idli on your plate, and you can see the sunshine in them too. The wheat and the rice grew from it.)
 - Science (settled): Energy is never made or destroyed. It only passes on and changes form. This is the conservation of energy.
@@ -142,7 +142,7 @@ Moving, lighting, heating and sounding all need energy, and in each case the ene
 
 ## Deep and big questions
 - *deep:* When a marble stops in atta, its energy spreads out as a tiny bit of warmth. Is it lost, or is it just hard to find? (hint: Think about a spoon of sugar stirred into a big pot of water. Is the sugar gone?)
-- *deep:* Energy can't be seen, only what it does. How do we know it is there at all? (hint: Think of the wind. You never see the wind itself, only leaves moving and clothes flapping.)
+- *deep:* You cannot see energy itself. You only see what it does. How do we know it is there at all? (hint: Think of the wind. You never see the wind itself, only leaves moving and clothes flapping.)
 - *big:* If almost all your energy came from the Sun, is part of the Sun in you? (hint: Your breakfast grew in sunlight. Then it became you.)
 - *big:* The Sun will shine for about 5 billion more years. What would happen on Earth if it stopped tomorrow? (hint: Follow the trail: plants, food, wind, rain.)
 - *deep:* A plant in shade spends energy growing tall, and a plant in the open spends their energy on leaves. How does a plant decide? (hint: Plants sense light and its colour all the time, and change how they grow.)
@@ -235,22 +235,22 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **question:** Does a marble dropped from higher up make a wider crater in atta, and a louder thud?
 - **predict:** Guess first. Will a marble dropped from 80 cm make a wider crater than one dropped from 20 cm? How much wider: a little, twice as wide, or four times as wide? Why do you think so?
 - **fair test:** Use the same marble, the same tray of atta and the same way of letting go. Only the height changes. Smooth the atta flat before every drop. Drop 3 times from each height, because one try can be a fluke.
-- **safety:** Drop the marble, never throw it. Haldi stains clothes. Keep marbles away from children under 3, who may swallow them.
+- **safety:** Drop the marble, never throw it. If you dust the atta with haldi instead of ragi flour, remember that haldi stains clothes. Keep marbles away from children under 3, who may swallow them.
 - **record:** Fill in the table. Draw one crater from each height, from above, at its real size.
 - **results table:** Height of the drop | Crater width, try 1 (cm) | Try 2 (cm) | Try 3 (cm) | The thud: soft, medium or loud?
 - **s1 (5 min)**  
-  *Parent does:* 1. Spread newspaper on the floor and put the container on it. 2. Pour in atta about 3 cm deep. 3. Shake it gently from side to side, then smooth the top with the ruler. 4. Sprinkle a thin dusting of ragi flour over the top through the tea strainer. 5. Stick the measuring tape upright on a wall beside the tub. Put 0 level with the top of the atta.  
+  *Parent does:* 1. Spread newspaper on the floor and put the container on it. 2. Pour in atta about 3 cm deep. 3. Shake the container gently from side to side, then smooth the top of the atta with the ruler. 4. Sprinkle a thin dusting of ragi flour over the top through the tea strainer. 5. Stick the measuring tape upright on a wall beside the container. Put 0 level with the top of the atta.  
   *Parent says:* We are going to drop a marble into this atta from different heights. The dark dusting on top will show us where the atta is thrown.  
-  *Child mode:* Pour the atta into the tub. Make the top flat with a ruler. Shake a thin dark dusting on top. Stick the tape upright beside the tub. Now it is ready.
+  *Child mode:* Pour the atta into the container. Make the top flat with a ruler. Shake a thin dark dusting on top. Stick the tape upright beside the container. Now it is ready.
   - Note: Use old atta, or atta you will later use for play dough, because the marble and the dark powder go into it. A layer of 3 cm or more matters: if it is too thin, the marble hits the bottom and the craters stop growing. Ragi flour on white atta shows the thrown atta best.
 - **s2 (3 min)**  
-  *Parent does:* Show your child the marble and the three heights on the ruler: 20 cm, 40 cm and 80 cm. Ask for a guess and a reason, and write both down.  
+  *Parent does:* Show your child the marble and the three heights on the measuring tape: 20 cm, 40 cm and 80 cm. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will drop the marble from 20, 40 and 80 centimetres. Which crater will be widest? Will it be a little wider, or much wider? Why do you think so?  
   *Child mode:* You will drop the marble from three heights. Which crater will be widest? How much wider? Say why you think so.
   - Ask: What do you think will happen, and why? (good: The highest drop will make the biggest crater, because it falls faster.; Four times the height might make it four times as wide.; It will be louder from higher up.)
   - Note: Accept any guess with a reason. Many children guess that four times the height will make a crater four times as wide. Don't correct it now: the atta will answer it.
 - **s3 (7 min)**  
-  *Parent does:* 1. Find the 20 cm mark on the tape. 2. Hold the marble with its bottom at that mark. 3. Open your fingers and let it fall. Do not throw it. 4. Listen to the thud. 5. Lift the marble out with a spoon. 6. Measure the hole from edge to edge with the ruler, not the dark splash lines. 7. Smooth and dust again. Do 3 drops.  
+  *Parent does:* 1. Find the 20 cm mark on the tape. 2. Hold the marble with its bottom at that mark. 3. Open your fingers and let it fall. Do not throw it. 4. Listen to the thud. 5. Lift the marble out with a spoon. 6. Measure across the hole with the ruler, from edge to edge. Do not measure the splash lines around it. 7. Smooth the atta and dust it again. Do 3 drops in all.  
   *Parent says:* Let it drop, don't push it. Then measure across the hole, from one edge to the other. We smooth the atta every time, so each drop starts the same.  
   *Child mode:* Hold the marble at 20 cm. Let go. Don't throw! Listen to the thud. Take the marble out with a spoon. Measure across the hole. Smooth it and do it again. Three drops.
   - Note: Hold a ruler just above the crater, not pressing into it, to measure. Read to the nearest half centimetre. The three widths may differ by half a centimetre or so. That's normal, and is why we drop three times.
@@ -262,7 +262,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
   *Parent does:* 1. Do 3 more drops from 80 cm. 2. Measure and smooth each time.  
   *Parent says:* Now from 80 centimetres. That is four times as high as the first drop. Look at the crater, and at the white streaks of atta thrown out.  
   *Child mode:* Now drop from 80 cm, three times. Measure each hole. Look at the white streaks too.
-  - Note: From 80 cm the crater is wider and the dark dust is thrown further. But it is usually far less than four times as wide as the 20 cm crater. In our tries it was less than twice as wide. Talk about this in the next steps. The 80 cm mark is about as high as your child's waist.
+  - Note: From 80 cm the crater is wider and the dark dust is thrown further. But it is usually far less than four times as wide as the 20 cm crater. Do not explain this yet. In the last step of this experiment, ask why the crater was not four times as wide.
   - Check: The marble from 80 cm made a wider crater and a louder thud than from 20 cm. Why? → **It landed faster, so it carried more energy**
 - **s6 (4 min)**  
   *Parent does:* 1. Give your child a full 1 litre water bottle. 2. Ask them to lift it from the floor to their knee 10 times. 3. Rest. 4. Then from the floor to above their head 10 times. 5. Ask which tired their arm more.  
@@ -273,7 +273,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **s7 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why.
+  *Child mode:* Say or write three things: what you think now, what you saw, and why you think it happened.
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a marble dropped from higher has more energy when it lands. What I saw: from 20 cm the crater was about 4 and a half cm wide, and from 80 cm about 6 and a half cm, with a louder thud. Why: lifting it higher took more energy from my arm. The marble stored that energy and it became movement as it fell. When it landed, the energy pushed atta aside and made the sound. Ask: why was the crater not four times as wide? A good guess is that a wider crater has to move much more atta.
 ### e2 · Sunshine in a Tumbler (25 min)
 - **question:** Does water in sunshine get warmer than the same water in the shade?
@@ -291,7 +291,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
   *Parent does:* 1. Put one tumbler where direct sunshine falls on it. 2. Put the other in the shade, in the same room or balcony. 3. Set a timer for 1 hour.  
   *Parent says:* One in the sun, one in the shade. Now we wait an hour.  
   *Child mode:* Put one tumbler in the sunshine. Put the other in the shade. Set a timer for one hour.
-  - Note: Choose a time when sunshine falls on the spot for the whole hour: check where the Sun's patch moves. If the day is cloudy, try another day. The difference is easy to feel on a sunny day.
+  - Note: Choose a time when sunshine falls on the spot for the whole hour: check which way the patch of sunshine moves. If the day is cloudy, try another day. The difference is easy to feel on a sunny day.
   - Wait: Leave both tumblers for 1 hour.
 - **s3 (6 min)**  
   *Parent does:* 1. After an hour, bring the two tumblers side by side. 2. Your child dips one finger in each at the same time. 3. If you have a thermometer, put it in each for one minute and read it.  
@@ -302,7 +302,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **s4 (6 min)**  
   *Parent does:* Ask your child to say or write three short sentences: what I think, what I saw, and why.  
   *Parent says:* Tell me three things. What do you think now? What did you feel that shows it? Why did it happen?  
-  *Child mode:* Say or write three things. What I think. What I felt. Why.
+  *Child mode:* Say or write three things: what you think now, what you felt, and why you think it happened.
   - Note: A good answer: What I think: sunlight carries energy. What I saw: after an hour, the water in the sun felt warmer than the water in the shade. Why: the Sun's light landed on the tumbler and the water, and its energy turned into heat.
 - **s5 (5 min)**  
   *Parent does:* Talk about one more thing. Ask: on a hot afternoon, why does the balcony floor in the sun burn your feet, while the shady part does not?  
@@ -312,7 +312,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 
 ## Activities
 ### a1 · What Made It Happen? A home hunt (10 min)
-- **safety:** Look, don't touch: never touch the stove, the iron, plugs or switches with wet hands.
+- **safety:** Look, don't touch. Never touch the stove or the iron. Never touch plugs or switches with wet hands.
 - **record:** A table with three columns: the thing, what it does (moves, lights up, heats up or makes a sound), and where its energy comes from.
 - **s1 (2 min)**  
   *Parent does:* Ask your child what a fan, a torch and a running child have in common. Wait for their ideas before saying anything.  
@@ -336,7 +336,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
   *Parent does:* 1. Draw a big yellow Sun at the top of the paper. 2. At the bottom, draw your child eating breakfast. 3. Ask: where did the energy in your breakfast come from? Draw each step upwards, with arrows.  
   *Parent says:* You ran around this morning on energy from breakfast. Where did the breakfast get it? And before that?  
   *Child mode:* Draw the Sun at the top. Draw yourself eating breakfast at the bottom. Where did your breakfast get its energy? Draw each step with an arrow.
-  - Ask: Where did the idli's energy come from? (good: From rice and urad dal.; From the plants, which grew in sunlight.)
+  - Ask: If your breakfast was idli, where did the idli's energy come from? (good: From rice and urad dal.; From the plants, which grew in sunlight.)
 - **s2 (6 min)**  
   *Parent does:* Draw two more chains: one for the ceiling fan, and one for the gas flame. Help with the steps your child doesn't know.  
   *Parent says:* Now the fan. It runs on electricity. Where does a power station get its energy? Wind? Coal? Falling water? And where did those get it?  
@@ -367,7 +367,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
   - Note: One small flame gives only a weak stream of warm air, so the spiral may turn slowly or only a little. If it does not move, check that the spiral hangs open and is not stuck together. Use thinner paper, or light two tea lights side by side. Never hold it closer than 20 cm.
   - Check: Nobody touched the paper spiral, but it spun above the diya. What made it spin? → **Air warmed by the flame rose up and pushed on the spiral**
 - **s4 (3 min)**  
-  *Parent does:* Blow out the diya. Talk about where the energy came from and went.  
+  *Parent does:* Blow out the diya. Talk about where the energy came from and where it went.  
   *Parent says:* The diya's oil had stored energy. The flame turned it into heat and light. The heat moved the air, and the air moved the spiral. Where did the oil get its energy?  
   *Child mode:* The oil had stored energy. The flame made heat and light. The hot air moved the spiral. Where did the oil get its energy?
   - Ask: Where did the oil's energy come from? (good: From sesame or groundnut seeds, which were pressed to make the oil.; From the sunlight that the plant caught.)
@@ -400,13 +400,13 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
   - Wait: Do this the next day.
 - **s3 (10 min)**  
   *Parent does:* Ask: which of these did we leave on when nobody needed it? Choose one change for the family to try for a week.  
-  *Parent says:* Was any energy passed on for nothing? A fan in an empty room, a light in the day? Let's choose one change to try this week.  
+  *Parent says:* Was any energy wasted? A fan in an empty room, a light in the day? Let's choose one change to try this week.  
   *Child mode:* Did anything run when nobody needed it? Pick one change for your family to try this week.
 
 ## Challenges
 ### c1 · The Chain Reaction Bell (30 min)
 - **problem:** Build a chain of things where one small push from your finger passes energy along, step by step, until a steel spoon rings a steel tumbler at the end.
-- **your turn:** Now design your own chain. Draw it first, with an arrow for each step. Then build it. Did the bell ring? Which step lost the most energy?
+- **your turn:** Now design your own chain. Draw it first, with an arrow for each step. Then build it and see whether the bell rings. If it does not, find the step where it stopped. Then think about how to pass more energy into that step.
 - **constraints:** You may touch only the first thing in the chain.; The chain must have at least 4 steps.; Use only things from home.
 - **general:** Stand books or dominoes in a line, so each one knocks the next.; Let the last domino push a marble down a ruler ramp.; Let the marble roll off the ramp and hit a steel spoon that hangs from a thread taped to the table edge, so the spoon swings into the tumbler.
 - **creative:** Add a step: let the marble roll into three playing cards standing on their edges, so the last card tips against the spoon.; Use a toy car rolling off a stack of books instead of a marble.; Put a lifted book at one step, so it falls and adds its own stored energy to the chain.
@@ -424,34 +424,34 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
   *Child mode:* Build it. Push the first thing. Did it ring? If not, find where it stopped. Fix that step. Try again.
   - Note: Chains nearly always fail a few times. That's the fun. Steps with a fall in them, like a domino tipping or a marble rolling down a ramp, add energy from the height. Steps that slide on a cloth lose energy fast.
 - **s4 (5 min)**  
-  *Parent does:* Ask: where did the energy for the bell come from? Was it only your push?  
+  *Parent does:* Ask: where did the energy to ring the tumbler come from? Was it only your push?  
   *Parent says:* Was the ring made only by your finger? What else gave energy to the chain?  
   *Child mode:* Was the ring only from your push? Where else did energy come from?
-  - Check: Rukmini, a girl in Class 5, builds a chain with a book that falls off a table onto a marble. Her finger's push was tiny, but the marble shot off fast. Where did the extra energy come from? → **From the falling book, which had stored energy because it was lifted up on the table**
+  - Check: In one chain, a book falls off a table onto a marble. The finger's push at the start was tiny, but the marble shot off fast. Where did the extra energy come from? → **From the falling book, which had stored energy because it was lifted up on the table**
 ### c2 · The Soft Landing (25 min)
 - **problem:** A marble dropped from 80 cm onto a steel plate lands with a loud clang. Design a landing pad from home things that makes the quietest sound, and stops the marble without letting it bounce away.
 - **your turn:** Now invent your own landing pad. Test it 3 times. Is it quieter than all the others? Explain where the marble's energy went.
 - **constraints:** Drop the marble from 80 cm every time.; The pad must fit on a steel plate.; Use only things from home, and put them back afterwards.
-- **general:** A folded towel squashes as the marble lands.; Cotton wool or a sponge squashes even more.; A bowl of rice or rava lets the marble dig in, like the atta.
-- **creative:** Stretch a cloth loosely over a bowl, like a hammock, so it sags and slows the marble.; Use a few layers: a cloth, then cotton, then rice.; Try a tray of water. Is it quiet? Where does the energy go?
+- **general:** A folded towel squashes as the marble lands.; Cotton wool or a sponge squashes even more.; A bowl of rice or rava lets the marble dig in, as it did in the atta in the Atta Crater Test.
+- **creative:** Stretch a cloth loosely over a bowl, like a hammock, so it sags and slows the marble.; Use a few layers: a cloth, then cotton, then rice.; Try a tray of water. Is it quiet? The marble pushes the water aside. So its movement energy goes into moving the water, and a little ends as warmth.
 - **s1 (3 min)**  
   *Parent does:* Drop the marble from 80 cm onto the bare steel plate. Listen to the clang, and watch it bounce.  
   *Parent says:* Hear that clang? The marble's movement energy went into sound and a bounce. Can we make it go somewhere quieter?  
   *Child mode:* Drop the marble onto the steel plate. Listen. Clang! Watch it bounce. Now let's make it quiet.
 - **s2 (15 min)**  
   *Parent does:* Try at least 4 different pads, 3 drops each. Rank them from loudest to quietest.  
-  *Parent says:* Test each pad three times from the same height. Which is quietest? Which stops the marble dead?  
+  *Parent says:* Test each pad three times from the same height. Which is quietest? Which stops the marble without a bounce?  
   *Child mode:* Test each pad three times from 80 cm. Listen. Which is quietest? Write them in order.
   - Note: Soft, squashy pads are quietest. The marble's movement energy goes into squashing the pad, and ends as a tiny warming. Hard pads send it back as sound and a bounce.
 - **s3 (7 min)**  
   *Parent does:* Build your own best pad from what you learned, and test it.  
   *Parent says:* Now design your own best pad. Why do you think it will be quietest?  
   *Child mode:* Make your own pad. Test it three times. Is it the quietest?
-  - Check: Nandini, a girl in Class 3, drops a marble onto a folded towel. It lands with almost no sound and doesn't bounce. Where did the marble's movement energy go? → **Into squashing the towel, ending as a tiny bit of warmth**
+  - Check: A marble is dropped onto a folded towel. It lands with almost no sound and doesn't bounce. Where did the marble's movement energy go? → **Into squashing the towel, ending as a tiny bit of warmth**
 
 ## Worksheets
 ### Energy Detective (core) (core, 15 questions)
-1. (sort) A girl in Class 3 in Madurai looks around her kitchen. Sort each thing by what its energy is doing.  
+1. (sort) Here are some things in a kitchen. Sort each one by what its energy is doing.  
    **Answer:** the mixie blades spinning → Making it move; the tubelight → Making light; the tawa on the flame → Making heat; the cooker whistle → Making sound; the ceiling fan → Making it move; the phone screen → Making light; the iron box → Making heat; the doorbell → Making sound. *Why:* Each thing is sorted by its main job. Many do more than one: the mixie also hums, and the tubelight also gets a little warm. A strong answer notices that one thing can pass its energy on in more than one form.
 2. (fill) Energy is what is needed to make something ____.  
    **Answer:** ['happen']. *Why:* Anything that moves, lights up, heats up or makes a sound needs energy. 'Work' and 'move' are also fine answers, if the child explains them.
@@ -473,16 +473,16 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 10. (odd) Three of these get their energy from food. Which one is the odd one out?  
    Options: A running child / A flying crow / A solar panel / An ant carrying sugar  
    **Answer:** 2. *Why:* A solar panel gets its energy straight from sunlight. The child, the crow and the ant all get their energy from food. That food got its energy from sunlight too, a step further back.
-11. (mcq) Sneha, a girl in Class 3, puts one tumbler of water in the sun and one in the shade. After an hour, the sunny one is warmer. Why?  
+11. (mcq) One tumbler of water is put in the sun and one in the shade. After an hour, the sunny one is warmer. Why?  
    Options: Sunlight carries energy, which turned into heat in the water / The sunny tumbler had more water / Shade makes water colder by adding cold  
    **Answer:** Sunlight carries energy, which turned into heat in the water. *Why:* Sunlight carries energy from the Sun. When it lands on the water and the tumbler, it turns into heat. Shade does not add cold. It just lets less sunlight in.
-12. (write) Arjun, the six-year-old boy in the Pongal story, says, 'My energy is my own. It doesn't come from anywhere.' Write two sentences to tell him where his energy came from.  
+12. (write) A six-year-old boy says, 'My energy is my own. It doesn't come from anywhere.' Write two sentences to tell him where his energy came from.  
    **Answer:** Your energy came from the food you ate, like idli or rice. That food got its energy from plants, which caught it from sunlight.. *Why:* A strong answer goes back at least two steps: from Arjun to food, and from food to plants or the Sun.
 13. (perspective) Two friends in Kochi argue after a game of football. They are both very tired.  
-   **Answer:** A strong answer agrees with Revathi that energy is never destroyed: it passed into the ball, sounds, and mostly warmth spreading into the air. It gives Anjali her due: the energy is gone from their bodies, in a form they can't use again, so they need to eat and rest.. *Why:* Both friends see part of the truth. Scientists agree with Revathi about the total. Anjali is right about what she feels: the useful energy in her body is lower.
+   **Answer:** A strong answer agrees with the second child that energy is never destroyed: it passed into the ball, sounds, and mostly warmth spreading into the air. It gives the first child her due: the energy is gone from their bodies, in a form they can't use again, so they need to eat and rest.. *Why:* Both friends see part of the truth. Scientists agree with the second child about the total. The first child is right about what she feels: the useful energy in her body is lower.
 14. (label) Label the drawing of a pressure cooker on a gas stove with these words: fuel, heat, steam pushes the whistle, sound.  
    **Answer:** fuel on the gas cylinder, heat at the flame, steam pushes the whistle at the top, sound beside the whistle.. *Why:* A strong answer follows the energy in order: from the fuel, to heat, to steam pushing the whistle up, to the sound.
-15. (mcq) Farhan, a boy in Hyderabad, says, 'Electricity is a source of energy, like the Sun.' What is a better way to say it?  
+15. (mcq) Someone says, 'Electricity is a source of energy, like the Sun.' What is a better way to say it?  
    Options: Electricity carries energy from a power station to our homes / Electricity is made inside the switch / Electricity is a kind of fuel we burn  
    **Answer:** Electricity carries energy from a power station to our homes. *Why:* Electricity carries energy along wires. The energy came from a power station, which got it from coal, gas, wind, sunlight, falling water or uranium.
 ### Energy on the Move (stretch) (stretch, 15 questions)
@@ -505,7 +505,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
    Options: Wind / Coal / Uranium / Falling water in a dam  
    **Answer:** 2. *Why:* Uranium was made in stars before the Sun was born. Wind is moved by the Sun's heat, coal came from ancient plants that grew in sunlight, and the Sun's heat lifted the water into the clouds before it fell as rain.
 9. (perspective) Two cousins in Mysuru argue about a ball on a high shelf.  
-   **Answer:** A strong answer sides with Tanvi: lifting the ball took energy, which is stored, and it comes out when it falls, as in the atta craters. It gives Ishaan his due: we only see energy when something happens, and nothing shows while the ball sits still.. *Why:* Scientists call Tanvi's idea stored energy, or potential energy. Ishaan is right that we notice energy only by what it does.
+   **Answer:** A strong answer sides with the first child: lifting the ball took energy, which is stored, and it comes out when it falls, as in the atta craters. It gives the second child his due: we only see energy when something happens, and nothing shows while the ball sits still.. *Why:* Scientists call the first child's idea stored energy, or potential energy. The second child is right that we notice energy only by what it does.
 10. (mcq) Two bulbs give the same light. One gets very hot and one stays only a little warm. Which one passes less energy on as heat?  
    Options: The one that gets very hot / The one that stays only a little warm / Both pass on the same heat  
    **Answer:** The one that stays only a little warm. *Why:* Both make the same light, but the hot one also passes a lot of energy on as heat. The cooler one, usually an LED, turns more of its energy into light. So it needs less electricity for the same light.
@@ -523,9 +523,9 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 ### Energy Thinker (challenge) (challenge, 15 questions)
 1. (write) In 1722, Willem 's Gravesande dropped brass balls into soft clay. A ball that landed twice as fast made a dent about four times as deep. Why was that a surprise to people at the time?  
    **Answer:** Many scientists thought a ball twice as fast would hit twice as hard. The dent four times as deep showed that a faster ball carries much more energy than they thought.. *Why:* A strong answer names the old idea (twice as fast, twice as hard) and says what the dents showed instead.
-2. (perspective) Scientists in Europe argued about this for many years in the 1700s.  
+2. (perspective) In the 1700s, scientists in Europe argued for many years about what a moving ball carries.  
    **Answer:** The dents support du Châtelet: twice the speed gave four times the dent. But the other side was not simply wrong. Weight times speed is also a real quantity, which scientists now call momentum. It tells how hard a thing is to stop in a given time. Both sides were measuring something true, but different.. *Why:* This was a real argument. A strong answer uses the evidence for du Châtelet, and also sees that the Descartes side had found a different true quantity.
-3. (mcq) Kavya, the girl in the Pongal story, drops a marble from 20 cm. To make it land twice as fast, from what height should she drop it?  
+3. (mcq) A marble is dropped from 20 cm. To make it land twice as fast, from what height should it be dropped?  
    Options: 40 cm / 80 cm / 60 cm / 20 cm, but throw it  
    **Answer:** 80 cm. *Why:* To land twice as fast, a falling thing must fall from four times the height. 4 times 20 cm is 80 cm. This is because energy grows with speed times speed. Twice the speed needs four times the energy, and four times the energy needs four times the height.
 4. (write) We say a cell is 'used up' when the torch stops working. Explain what really happened to its energy.  
@@ -537,11 +537,11 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 7. (mcq) A resting child gives out about as much heat as an old 60 watt bulb. Where does this heat come from?  
    Options: From the air around the child / From the energy in the food the child ate / From the bed / From the Sun shining on the child right now  
    **Answer:** From the energy in the food the child ate. *Why:* Your body uses energy from food all the time, even while resting, to keep your heart beating and your body working. Much of it comes out as heat. That is why a room full of people gets warm.
-8. (write) Padma, a girl in Class 5, says, 'Since energy is never destroyed, we don't need to save electricity.' What would you tell her?  
+8. (write) Someone says, 'Since energy is never destroyed, we don't need to save electricity.' What would you tell them?  
    **Answer:** The total energy stays the same, but after we use it, it is spread out as warmth that we can't use again. Making new electricity often means burning coal or building power stations. So saving electricity means needing less of that.. *Why:* A strong answer separates the total amount of energy, which never changes, from useful energy, which runs down.
 9. (match) Match each Indian power station to the source of its energy.  
    **Answer:** Muppandal, Tamil Nadu → wind; Idukki, Kerala → falling water; Kudankulam, Tamil Nadu → uranium; Pavagada, Karnataka → sunlight. *Why:* Muppandal has hundreds of wind turbines, Idukki uses water stored behind a dam, Kudankulam is a nuclear power station, and Pavagada is a huge solar park. All but Kudankulam trace back to the Sun.
-10. (order) Put these in order, from the one that gives most of its energy as light to the one that gives the least. All three use the same electricity.  
+10. (order) Put these in order, from the one that gives most of its energy as light to the one that gives the least. All three use the same amount of electricity.  
    **Answer:** ['an LED bulb', 'an old filament bulb', 'an electric heater']. *Why:* An LED turns much of its energy into light. An old filament bulb turns only a small part into light and most into heat. A heater is made to turn nearly all of it into heat, with only a little red glow.
 11. (label) Label the parts of a falling marble's journey: stored energy, speeding up, movement energy at the bottom, crater and sound.  
    **Answer:** stored energy at the top where it is held, speeding up along the fall, movement energy just before it lands, crater and sound at the atta.. *Why:* A strong answer follows the energy from stored, to movement, to the crater and sound.
@@ -549,9 +549,9 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
    **Answer:** ['joule']. *Why:* The joule is named after James Joule, who measured how work makes heat in the 1840s.
 13. (sort) Sort these by whether the energy is stored or happening now.  
    **Answer:** a full gas cylinder → Stored energy; a cooker whistling → Energy happening now; a charged phone switched off → Stored energy; a coconut high on the tree → Stored energy; a marble falling → Energy happening now; a sunbeam on the floor → Energy happening now. *Why:* Stored energy waits until something lets it out. Moving, sounding, lighting and heating are energy happening now. A strong answer could say what would let each stored one out.
-14. (mcq) Ishita, a girl in Class 5, runs up four floors of stairs in her building in Pune. At the top she feels hot and out of breath. Why does she feel hot?  
-   Options: The stairs were hot / Her muscles passed on energy from her food, and much of it came out as heat / Running makes cold air leave her body / The building's lift was off  
-   **Answer:** Her muscles passed on energy from her food, and much of it came out as heat. *Why:* Her muscles used energy from her food to lift her up four floors. Much of that energy came out as heat, as it nearly always does when energy changes form. That is why she feels hot. Picking 'cold air leaves her body' mixes up heat and cold: heat is the energy that moves, not cold.
+14. (mcq) You run up four floors of stairs. At the top you feel hot and out of breath. Why do you feel hot?  
+   Options: The stairs were hot / Your muscles passed on energy from your food, and much of it came out as heat / Running makes cold air leave your body / The building's lift was off  
+   **Answer:** Your muscles passed on energy from your food, and much of it came out as heat. *Why:* Your muscles used energy from your food to lift you up four floors. Much of that energy came out as heat, as it nearly always does when energy changes form. That is why you feel hot. Picking 'cold air leaves your body' mixes up heat and cold: heat is the energy that moves, not cold.
 15. (write) Plan a fair test to find out whether a heavier marble digs a wider crater in atta than a lighter one, dropped from the same height. What stays the same, and what changes?  
    **Answer:** Keep the height, the atta, the way of letting go and the smoothing the same. Change only the marble. Drop each marble three times and compare the average widths.. *Why:* A strong answer changes only one thing and says why the other things must stay the same.
 
@@ -570,8 +570,8 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 3. (mcq) A mixie grinds chutney and hums. Which forms of energy come out of it?  
    Options: Only movement / Movement, sound and a little heat / Only sound / Light and movement  
    **Answer:** Movement, sound and a little heat. *Why:* The blades move, the motor hums and the mixie gets a little warm. One machine often passes energy on in more than one form.
-4. (mcq) Lakshmi, a girl in Class 4, lies in bed reading with a torch. The torch's energy came from  
-   Options: the torch's bulb / the cells inside the torch / the light switch on the wall / Lakshmi's eyes  
+4. (mcq) You are reading in bed with a torch. The torch's energy came from  
+   Options: the torch's bulb / the cells inside the torch / the light switch on the wall / your eyes  
    **Answer:** the cells inside the torch. *Why:* The cells hold stored energy. The bulb changes it into light.
 5. (mcq) Where did the energy in a plate of rice and sambar first come from?  
    Options: The stove / The Sun / The plate / The shop  
@@ -579,8 +579,8 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 6. (mcq) Wind turbines at Muppandal turn in the wind. What makes the wind blow?  
    Options: The turbines / The Sun warming some places more than others / The sea pushing the air / The Moon  
    **Answer:** The Sun warming some places more than others. *Why:* The Sun warms the land and the sea by different amounts. Warm air rises and cooler air moves in. That moving air is the wind.
-7. (mcq) Meenakshi, a girl in Class 4, drops a marble into atta from 20 cm and then from 80 cm. Which change made the second crater wider?  
-   Options: The marble was heavier / The marble landed faster, with more energy / The atta was different / She threw it  
+7. (mcq) A marble is dropped into atta from 20 cm and then from 80 cm. Which change made the second crater wider?  
+   Options: The marble was heavier / The marble landed faster, with more energy / The atta was different / The marble was thrown  
    **Answer:** The marble landed faster, with more energy. *Why:* In a fair test only the height changes. From higher up, the marble lands faster, with more movement energy, so it digs a wider crater.
 8. (mcq) In the Atta Crater Test, why do we drop the marble 3 times from each height?  
    Options: To make the atta flatter / Because one try can be a fluke / To make the crater deeper / To tire the marble  
@@ -597,9 +597,9 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 12. (mcq) Willem 's Gravesande, a Dutch scientist, dropped brass balls into soft clay in 1722. A ball that landed twice as fast made a dent  
    Options: half as deep / twice as deep / about four times as deep / the same depth  
    **Answer:** about four times as deep. *Why:* Twice as fast gave about four times the dent. This showed that a moving thing's energy grows much faster than its speed.
-13. (mcq) Émilie du Châtelet was a French scientist. What did she do with 's Gravesande's results?  
-   Options: She explained in her physics book that they showed a faster ball carries much more energy / She proved they were wrong / She built the first wind turbine / She discovered uranium  
-   **Answer:** She explained in her physics book that they showed a faster ball carries much more energy. *Why:* In her book of 1740, she explained that the clay dents agreed with Gottfried Leibniz: twice the speed means four times the effect.
+13. (mcq) A brass ball that lands twice as fast makes a dent about four times as deep in soft clay. What does this tell us?  
+   Options: A faster ball carries much more energy, not just twice as much / The clay was softer the second time / Speed does not change energy / Heavier balls always make smaller dents  
+   **Answer:** A faster ball carries much more energy, not just twice as much. *Why:* Twice the speed gave four times the dent. So a moving thing's energy grows much faster than its speed: twice the speed means four times the energy.
 
 ## Applications
 - Power stations turn wind, falling water, sunlight, coal, gas or uranium into electricity for homes.
@@ -642,9 +642,9 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - What did the solar panel say on a cloudy day? *I'm not feeling very bright today.*
 
 ## Connected maths
-- In the Atta Crater Test, A child's three craters from 20 cm were 4 cm, 5 cm and 6 cm wide. What was the average width? **5 cm.**. Add the three widths: 4 + 5 + 6 = 15 cm. Share 15 among 3 tries: 15 divided by 3 is 5. So the average width is 5 cm. The average is one number that stands for all three tries. (queues `math.division.sharing-and-grouping.L3`)
-- A child dropped the marble from 20 cm, 40 cm and 80 cm. What is the pattern in the heights? What would the next height be? **Each height is double the one before. The next would be 160 cm.**. 20 doubled is 40. 40 doubled is 80. 80 doubled is 160. 160 cm is taller than most grown-ups, so a grown-up would need to stand on a stool. (queues `math.patterns.number-patterns.L3`)
-- Here are made-up results: from 20 cm the crater was 4.5 cm wide, and from 80 cm it was 6.5 cm wide. The height went up 4 times. Did the width go up 4 times? How much wider was it? **No. It was only 2 cm wider, much less than 4 times.**. 4 times 4.5 cm would be 18 cm. The real crater was 6.5 cm. 6.5 minus 4.5 is 2, so it was 2 cm wider. The marble had 4 times the energy, but a wider crater must move much more atta. So the width grows slowly. (queues `math.number-sense.comparing-ordering.L3`)
+- In the Atta Crater Test, three craters from 20 cm were 4 cm, 5 cm and 6 cm wide. What was the average width? **5 cm.**. Add the three widths: 4 + 5 + 6 = 15 cm. Share 15 among 3 tries: 15 divided by 3 is 5. So the average width is 5 cm. The average is one number that stands for all three tries. (queues `math.division.sharing-and-grouping.L3`)
+- In the Atta Crater Test, the marble is dropped from 20 cm, 40 cm and 80 cm. What is the pattern in the heights? What would the next height be? **Each height is double the one before. The next would be 160 cm.**. 20 doubled is 40. 40 doubled is 80. 80 doubled is 160. 160 cm is taller than most grown-ups, so a grown-up would need to stand on a stool. (queues `math.patterns.number-patterns.L3`)
+- Here are made-up results: from 20 cm the crater was 4.5 cm wide, and from 80 cm it was 6.5 cm wide. The height went up 4 times. Did the width go up 4 times? How much wider was it? **No. It was only 2 cm wider, much less than 4 times.**. 4 times 4.5 cm would be 18 cm. The crater from 80 cm was 6.5 cm. 6.5 minus 4.5 is 2, so it was 2 cm wider. The marble had 4 times the energy, but a wider crater must move much more atta. So the width grows slowly. (queues `math.number-sense.comparing-ordering.L3`)
 - Lifting a 100 gram apple 1 metre takes about 1 joule. How many joules does it take to lift 5 such apples 1 metre? What about lifting 1 apple 3 metres? **About 5 joules, and about 3 joules.**. Each apple lifted 1 metre takes about 1 joule, so 5 apples take 5 times as much: 5 joules. One apple lifted 3 metres is like 3 lifts of 1 metre each: 3 joules. More weight or more height means more energy. (queues `math.multiplication.equal-groups.L3`)
 - In Pass the Sunshine, the yellow ball started with 6 sheets. One sheet was torn off into the HEAT bowl at each of the 5 passes. How many sheets were left in the ball? How many in the bowl? How many altogether? **1 sheet in the ball, 5 in the bowl, 6 altogether.**. 6 sheets minus 5 torn off leaves 1. The bowl has 5. 1 + 5 = 6, the same as at the start. Nothing was lost: it was only moved to the bowl. (queues `math.addition-subtraction.word-problems.L3`)
 

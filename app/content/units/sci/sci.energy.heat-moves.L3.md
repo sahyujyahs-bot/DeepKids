@@ -16,7 +16,7 @@
 ## Terms
 - **Heat**: Energy that moves from a hotter thing to a cooler thing. *e.g.* Heat moves from hot tea into the steel spoon standing in it.
 - **Temperature**: How hot or cold something is. We measure it in degrees Celsius, written °C. *e.g.* Hot tea is about 60 °C. A room in Chennai in summer can be about 32 °C.
-- **Conduction**: Heat moving through a material, or from one thing into another thing it touches, part by part, with nothing flowing. *e.g.* The handle of a steel ladle gets hot by conduction, from the end that sits in the hot sambar.
+- **Conduction**: Heat moving through a material, passed from each part to the part next to it. Heat also moves this way from one thing into another thing it touches. The material itself does not flow along. Only the heat is passed on. *e.g.* The handle of a steel ladle gets hot by conduction, from the end that sits in the hot sambar.
 - **Conductor of heat**: A material that lets heat move through it quickly. Metals are good conductors of heat. *e.g.* A steel tawa, an aluminium kadai and a copper-bottomed vessel are all good conductors of heat.
 - **Insulator of heat**: A material that lets heat through only very slowly. Wood, plastic, cloth and still air are insulators of heat. *e.g.* A pressure cooker has a plastic handle, so the heat of the cooker reaches your hand only very slowly.
 - **Particle**: One of the tiny pieces that everything is made of. They are far too small to see, even with a magnifying glass. *e.g.* A steel spoon is made of a huge number of particles packed tightly together.
@@ -26,7 +26,7 @@
 ### Heat moves from hotter to cooler · *defined*
 **Definition:** Heat moves by itself from a hotter thing to a cooler thing. It keeps moving until both are equally warm.
 
-Hot tea warms the spoon in it. The spoon never cools the tea down to colder than the room. An ice cube in your hand melts because heat moves from your hand into the ice. Your hand feels cold because it is losing heat. No cold comes out of the ice. Heat never moves by itself from a cooler thing to a hotter one. A fridge can make that happen only because it uses electricity to pump the heat out.
+Hot tea warms the spoon in it, and the tea cools a little. The tea never gets colder than the room. An ice cube in your hand melts because heat moves from your hand into the ice. Your hand feels cold because it is losing heat. No cold comes out of the ice. Heat never moves by itself from a cooler thing to a hotter one. A fridge can make that happen only because it uses electricity to pump the heat out.
 - e.g. Hot rasam in a steel bowl warms the bowl, and the bowl warms the table under it.
 - e.g. A cold bottle from the fridge gets warmer on the table, because heat moves into it from the warmer room.
 ### Conduction: heat passed from part to part · *defined*
@@ -45,11 +45,11 @@ Before heat can move past a part of the spoon, it must first warm that part. So 
 **Definition:** A conductor of heat lets heat through quickly. An insulator of heat lets it through only very slowly.
 
 Metals are good conductors of heat. Wood, plastic, cloth, paper and still air are insulators. Metals are not all the same, though. Copper and aluminium carry heat many times faster than the stainless steel most Indian spoons are made of. That is why some steel vessels have a copper or aluminium layer on the bottom. Cooks use both kinds of material together. The pan is metal, so heat reaches the food fast. The handle is wood or plastic, so heat reaches your hand slowly.
-- e.g. A dosa tawa: an iron or aluminium plate with a wooden handle.
-- e.g. A pressure cooker: an aluminium or steel pot with plastic handles.
+- e.g. A dosa tawa is an iron or aluminium plate with a wooden handle.
+- e.g. A pressure cooker is an aluminium or steel pot with plastic handles.
 - e.g. A coconut-shell ladle, used in many Kerala kitchens, stays cool to hold in hot curry.
 ### Why metals are such good conductors · *defined*
-**Definition:** In a metal, some tiny particles called electrons are free to move about between the atoms. They carry heat quickly from the hot part to the cool part.
+**Definition:** A metal is made of tiny particles called atoms. Some even smaller particles, called electrons, are free to move about between the atoms. They carry heat quickly from the hot part to the cool part.
 
 Every atom has electrons on its outside. In wood or plastic, the electrons stay tied to their own atoms. Then heat can only be passed on by atoms nudging their neighbours, which is slow. In a metal, some electrons wander freely through the whole piece. They pick up energy in the hot part and quickly carry it to the cool part. These free electrons are also why metals carry electricity. So the best conductors of electricity, like silver and copper, are also the best conductors of heat.
 - e.g. Copper carries both heat and electricity very well. It is used in electric wires and in the bottoms of good cooking pots.
@@ -85,7 +85,7 @@ In a pan of water on the stove, the hot water at the bottom rises and cooler wat
 ## Roots
 We have watched heat travel up a ladle, part by part. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** On your ladle, the peppercorn nearest the water fell first, and each one after took longer. Heat must warm each part of the steel before it can move on to the next. Along the way, some of it leaks into the air. So heat slows down as it travels along a handle, and the far end may stay cool.  
+**Deep truth.** In the Ladle Line test, the peppercorn nearest the hot water fell first, and each one after took longer. Heat must warm each part of the steel before it can move on to the next. Along the way, some of it leaks into the air. So heat slows down as it travels along a handle, and the far end may stay cool.  
 *Habit it breaks:* We picture heat running through a spoon like water through a pipe, at one steady speed. But heat in a solid is handed on part by part, so it gets slower the further it goes, and some escapes on the way.  
 *Evidence:* In the Ladle Line, the waits between the falling peppercorns grew longer, and the 8 cm dot often never fell. A palm held near the handle felt warmth leaving it into the air.
 
@@ -95,15 +95,15 @@ We have watched heat travel up a ladle, part by part. Now we ask what that tells
 
 A steel ladle looks like one solid piece. Heat shows that it is a huge number of tiny parts, each touching the next. The hot water warms the first part, that part warms the next, and so on along the handle. So the warmth at the top is only what the parts below have passed on.
 
-- **Heraclitus, fragment B126 (Diels-Kranz numbering):** Cold things grow warm, the warm grows cold, the wet dries and the dry grows wet. (In your tests, the hot water cooled while the ladle warmed, and your warm hand cooled while the ice melted. Heat keeps moving from warm to cool, so warm and cold things keep changing into each other.)
+- **Heraclitus, fragment B126 (Diels-Kranz numbering):** Cold things grow warm, the warm grows cold, the wet dries and the dry grows wet. (In the Ladle Line test, the hot water cooled while the ladle warmed. In Who Melts the Ice, your warm hand cooled while the ice melted. Heat keeps moving from warm to cool, so warm and cold things keep changing into each other.)
 - **Samyutta Nikaya 12.21 (the Buddha's teaching of dependent arising):** When this is, that is. When this arises, that arises. When this is not, that is not. (Each part of the ladle grew warm only because the part before it was warm. When the water was taken away, the warmth along the handle faded too.)
 - Science (settled): Heat moves by itself only from hotter to cooler things. Scientists call this the second law of thermodynamics.
 - Science (settled): In metals, free electrons carry most of the heat. That is why good conductors of electricity are also good conductors of heat.
 - Other view, Many physicists: Heat moving along a ladle is just particles and electrons bumping into each other. Saying that each part 'depends on' its neighbour is a nice way to put it, but it adds nothing to the physics.
 - Practice, Warm the Tumbler (3 min): Fill a steel tumbler with cool water. Hold it in both hands and close your eyes. Breathe slowly. Feel the cold steel under your fingers. Now keep holding it for one minute. Does the steel under your fingers feel the same, or less cold? Your warmth is moving into the steel, and through it into the water. Open your eyes and put it down.
-- Ask: The far end of your ladle stayed cool. Did the heat stop, or did it go somewhere else?
-- Ask: Each part of the ladle was warmed by the part next to it. So where does the ladle's warmth really begin?
-- Ask: Your hand warmed the cold tumbler. Once that warmth is in the steel, is it still yours?
+- Ask: In the Ladle Line test, the far end of the ladle stayed cool. Did the heat stop, or did it go somewhere else?
+- Ask: Each part of the ladle was warmed by the part next to it. So where did the warmth start, and which part was warmed first?
+- Ask: In Warm the Tumbler, your hand warmed the cold steel. Where is that warmth now, and will it come back into your hand by itself?
 
 ## Deep and big questions
 - *deep:* A steel spoon stands in hot tea and its handle warms. No particle of the spoon travelled up to the handle. So what exactly moved up the spoon? (hint: Think of a line of people passing on a push, each one staying in their place.)
@@ -190,7 +190,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 
 ## Games
 ### g1 · Pass the Heat: a board game along a ladle (20 min)
-- **rules:** Put every player's token on square 1, in the sambar. Shuffle the 24 move cards and put them face down. Put the 12 question cards face down too.; On your turn, take a move card and move your token. Then follow what the square says. Follow only one square per turn.; Instead of a move card, you may answer a question card. Read the front aloud and let the others check the back. Answer right, and move on 2. Answer wrong, and stay where you are.; If the move cards run out, shuffle the used ones and use them again.; The first player to reach or pass square 20, the cook's hand, wins. Playing alone, try to reach the hand in 12 turns.; When you win, say one way the cook could have kept you away from her hand.
+- **rules:** Put every player's token on square 1, in the sambar. Shuffle the 24 move cards and put them face down. Put the 12 question cards face down too.; On your turn, take a move card and move your token. Then do what the square you land on says. Do this only once in a turn.; Instead of a move card, you may answer a question card. Read the front aloud and let the others check the back. Answer right, and move on 2. Answer wrong, and stay where you are.; If the move cards run out, shuffle the used ones and use them again.; The first player to reach or pass square 20, the cook's hand, wins. Playing alone, try to reach the hand in 12 turns.; When you win, say one way the cook could have kept you away from her hand.
 - **Printable board: The ladle board: 20 squares:** Square 1, START: the hot sambar. Every token begins here.; Square 2, steel handle: nothing happens.; Square 3, steel handle: nothing happens.; Square 4, steel handle: nothing happens.; Square 5, Leak into the air: go back 2.; Square 6, steel handle: nothing happens.; Square 7, steel handle: nothing happens.; Square 8, Wooden grip: miss a turn.; Square 9, steel handle: nothing happens.; Square 10, Copper strip: move on 3.; Square 11, steel handle: nothing happens.; Square 12, Leak into the air: go back 2.; Square 13, steel handle: nothing happens.; Square 14, steel handle: nothing happens.; Square 15, steel handle: nothing happens.; Square 16, Wooden grip: miss a turn.; Square 17, steel handle: nothing happens.; Square 18, steel handle: nothing happens.; Square 19, steel handle: nothing happens.; Square 20, FINISH: the cook's hand. Reach it or pass it to win.
 - **Printable cards: 24 move cards to cut out:** STEEL: move on 3; STEEL: move on 3; STEEL: move on 3; STEEL: move on 3; STEEL: move on 3; STEEL: move on 3; COPPER: move on 5; COPPER: move on 5; COPPER: move on 5; COPPER: move on 5; ALUMINIUM: move on 4; ALUMINIUM: move on 4; ALUMINIUM: move on 4; ALUMINIUM: move on 4; WOOD: stay where you are. Wood is an insulator.; WOOD: stay where you are. Wood is an insulator.; WOOD: stay where you are. Wood is an insulator.; WOOD: stay where you are. Wood is an insulator.; PLASTIC: stay where you are. Plastic is an insulator.; PLASTIC: stay where you are. Plastic is an insulator.; PLASTIC: stay where you are. Plastic is an insulator.; AIR: go back 1, because heat leaks into the air. On square 1, stay.; AIR: go back 1, because heat leaks into the air. On square 1, stay.; AIR: go back 1, because heat leaks into the air. On square 1, stay.
 - **Printable cards: 12 question cards: question on the front, answer on the back:** A steel spoon and a wooden spoon stand in hot rasam. Which handle warms first? (back: The steel one. Steel is a conductor and wood is an insulator.); Why do we lift a hot vessel with a folded cloth? (back: Cloth is an insulator. Heat reaches the hand only very slowly.); A cold bottle comes out of the fridge. Which way does heat move? (back: From the warm room into the bottle.); Which carries heat faster, copper or stainless steel? (back: Copper, about 25 times faster.); What do the particles in a hot spoon do? (back: They shake faster and bump the particles next to them. They stay in place.); Why does a coconut-shell ladle stay cool in hot curry? (back: Coconut shell and wood are insulators. Heat moves through them very slowly.); Name two things in a kitchen with a wooden or plastic handle. (back: For example a tawa, a pressure cooker, a kadai or a pan.); Why does the steel under a cloth grip still get warm? (back: Heat still travels up the steel. The cloth only slows the heat reaching your hand.); Why does a steel vessel often have a copper bottom? (back: Copper spreads heat across the bottom fast, so food does not burn in one spot.); Hold a cold steel tumbler. Which way does heat move? (back: From your warm hand into the cold steel.); Does the far end of a long ladle get as hot as the end in the sambar? Why? (back: No. The heat takes longer to reach it, and some leaks into the air on the way.); Is a hot tawa a conductor or an insulator? What about its handle? (back: The plate is a conductor. The wooden handle is an insulator.)
@@ -200,7 +200,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
   *Parent says:* You are a bit of heat in the hot sambar. You want to get to the cook's hand. Metal helps you. Wood and air slow you down.  
   *Child mode:* You are heat in the sambar. Get to the cook's hand first.
 - **s2 (14 min)**  
-  *Parent does:* Play the game. When someone lands on an AIR or WOOD square, ask why it slows the heat.  
+  *Parent does:* Play the game. When someone takes a WOOD or AIR card, ask why it slows the heat.  
   *Parent says:* Why does a wood card not move you at all?  
   *Child mode:* Play. When you get a wood card, say why it stops you.
   - Ask: Why does a wood card not move you? (good: Wood is an insulator.; Heat moves through wood very slowly.)
@@ -217,7 +217,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 - **fair test:** Every butter dot is the same size, about half a pea, with one peppercorn in it. The dots are 2, 4, 6 and 8 cm above the water. Only the distance changes. One more dot sits on a spoon on a plate, out of the water, to show what the room alone does to butter.
 - **safety:** A grown-up pours the hot water and lifts the ladle out with a cloth afterwards. The child does not touch the ladle while it is in the water.
 - **record:** Fill in the table. Then draw the ladle with the four dots and write the time beside each one.
-- **results table:** Dot | Height above the water (cm) | My guess: order it falls | Time it fell (minutes and seconds) | Wait since the dot before
+- **results table:** Dot | Height above the water (cm) | My guess: the order it falls in | Time it fell (minutes and seconds) | Time since the dot before fell
 - **s1 (4 min)**  
   *Parent does:* 1. Stand the empty ladle in the empty tumbler, leaning on the rim. 2. Mark where the top of the water will be, about two-thirds up the tumbler. 3. Measure up the handle from that line and mark 2, 4, 6 and 8 cm.  
   *Parent says:* We are going to see how heat travels up a ladle. First we mark four places on the handle, each 2 cm further from the water.  
@@ -250,23 +250,24 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
   *Parent does:* Look at the times together.  
   *Parent says:* Look at your times together. Which dot fell first? Did each wait get longer than the one before? Why do you think so?  
   *Child mode:* Look at your times. Which dot fell first? Did the waits get longer? Why?
+  - Note: The waits usually grow longer. For example, the first dot may fall after 1 minute. The next may fall 3 minutes later, and the next 5 minutes after that. Each part of the ladle has to warm up before it can pass heat on. So every part further along has to wait longer than the part before it.
   - Check: On a steel ladle in hot water, which peppercorn falls first? → **The one nearest the water**
 - **s7 (2 min)**  
   *Parent does:* Ask your child to say or write three things: what I think, what I saw, and why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see? And why do you think it happened?  
-  *Child mode:* Say three things. What I think. What I saw. Why.
+  *Child mode:* Say three things: what you think, what you saw, and why it happened.
   - Note: This is called claim, evidence and reasoning. A strong answer sounds like this. What I think: heat travels up the steel slowly, near parts first. What I saw: the 2 cm peppercorn fell first, then the 4 cm one, and the 8 cm one never fell. Why: each part of the ladle has to warm up before it passes heat on, and some heat goes into the air.
 ### e2 · Flat or Upright: does heat only go up? (25 min)
 - **question:** Does heat move along a steel spoon as fast when the spoon lies flat as when it stands up?
 - **predict:** One spoon stands up in hot water. One lies flat, with its bowl in the water. Which butter dot will melt first? Why do you think so?
-- **fair test:** Use two spoons of the same kind. Put one butter dot on each, 3 cm along the handle from where the bowl of the spoon ends, the same size. Pour the water until it just covers the bowl of each spoon, from the same kettle at the same time. Only the direction of the spoon changes.
+- **fair test:** Use two spoons of the same kind. Put one butter dot of the same size on each, 3 cm along the handle from where the bowl of the spoon ends. Pour the water from the same kettle at the same time, until it just covers the bowl of each spoon. Only the direction of the spoon changes.
 - **safety:** A grown-up pours the hot water. Do not touch the spoons while they are in the water.
 - **record:** Fill in the table. Draw both spoons with arrows showing which way the heat moved.
 - **results table:** Spoon | Upright or flat | My guess | Time the peppercorn fell
 - **s1 (5 min)**  
-  *Parent does:* 1. Stack books beside the shallow bowl, up to its rim. 2. Lay one spoon with its bowl in the empty bowl and its handle on the books. 3. Lean the other spoon in the tumbler, bowl down. 4. On each handle, put a butter dot with a peppercorn 3 cm from where the bowl of the spoon ends.  
+  *Parent does:* 1. Stack books beside the shallow bowl, up to its rim. 2. Lay one spoon flat, with its bowl end inside the empty shallow bowl and its handle resting on the books. 3. Lean the other spoon in the tumbler, bowl end down. 4. On each handle, put a butter dot with a peppercorn 3 cm from where the bowl of the spoon ends.  
   *Parent says:* One spoon stands up, and one lies flat. Both dots are the same distance from the bowl of the spoon, which is where the water will reach.  
-  *Child mode:* One spoon stands up. One lies flat. Put a dot on each, 3 cm up.
+  *Child mode:* One spoon stands up. One lies flat. Put a butter dot on each, 3 cm along the handle.
   - Note: Keep the flat spoon's handle clear of the bowl's rim, because the hot rim would warm it from the side. If it touches, lay a folded cloth on the rim.
 - **s2 (3 min)**  
   *Parent does:* Ask for a guess and a reason. Write it down.  
@@ -300,7 +301,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
   - Note: The handle of the spoon in the tea should feel warm, and the other should not. If the tea is very hot, the handle can get too hot to hold. Check first. If the two handles feel the same, wait two more minutes. A short teaspoon works best.
 - **s3 (2 min)**  
   *Parent does:* Write down your child's idea about how the handle got warm. Do not explain yet.  
-  *Parent says:* That is a good question to keep. We will test it with a ladle and some butter.  
+  *Parent says:* Keep that idea. We will test it with a ladle and some butter.  
   *Child mode:* How did the heat get up the spoon? Keep your idea. We will test it.
   - Note: Keep the explanation for after the Ladle Line test. Your child's own idea now makes the test more interesting.
 ### a2 · Who Melts the Ice? Your hand or the plate (10 min)
@@ -360,7 +361,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
   *Child mode:* Do not touch the ladles. Watch both dots. Which falls first?
   - Note: The dot on the bare steel should fall within a few minutes. The dot on a thick cloth or sock grip usually stays put for the whole 12 minutes. The steel under the grip still gets warm, but the heat moves through the cloth very slowly.
 - **s4 (2 min)**  
-  *Parent does:* Read the usual and the creative ideas. Then talk about your own.  
+  *Parent does:* Read the ideas given for this challenge. Then talk about your own.  
   *Parent says:* Your grip slowed the heat. What could make it even better?  
   *Child mode:* Your grip slowed the heat. How could you make it better?
 ### c2 · Soften the Butter Fast, with No Flame (20 min)
@@ -391,10 +392,10 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 2. (fill) Heat moving through a solid, from each tiny part to the part next to it, is called ____.  
    **Answer:** ['conduction']. *Why:* Conduction is how heat travels through a solid like a steel spoon.
 3. (sort) Sort these into good conductors of heat and insulators of heat.  
-   **Answer:** steel spoon → Good conductor; wooden spatula → Insulator; aluminium kadai → Good conductor; plastic bucket → Insulator; copper wire → Good conductor; cotton cloth → Insulator; iron tawa → Good conductor; newspaper → Insulator. *Why:* The metals are good conductors of heat. Wood, plastic, cloth and paper are insulators. A strong sorter asks 'Is it a metal?'
+   **Answer:** steel spoon → Good conductor; wooden spatula → Insulator; aluminium kadai → Good conductor; plastic bucket → Insulator; copper wire → Good conductor; cotton cloth → Insulator; iron tawa → Good conductor; newspaper → Insulator. *Why:* The metals are good conductors of heat. Wood, plastic, cloth and paper are insulators. A good way to sort is to ask, 'Is it a metal?'
 4. (draw) Draw a tumbler of hot milk with a steel spoon standing in it. Draw red arrows to show where the heat moves.  
    **Answer:** Arrows from the milk into the spoon, up the spoon handle, and from the handle and the tumbler out into the air.. *Why:* A strong drawing shows heat going from the hot milk to cooler things: up the spoon, and out into the air.
-5. (mcq) Lakshmi, a girl aged 8, pours hot rasam into a cold steel bowl. What happens to the bowl?  
+5. (mcq) Hot rasam is poured into a cold steel bowl. What happens to the bowl?  
    Options: It stays cold, because steel is cold / It warms up, because heat moves from the rasam into the steel / It makes the rasam colder than the room  
    **Answer:** It warms up, because heat moves from the rasam into the steel. *Why:* Heat moves from the hot rasam into the cooler steel, so the bowl warms. It can cool the rasam a little, but never below the room's temperature.
 6. (match) Match each word to what it means.  
@@ -403,8 +404,8 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
    **Answer:** False. *Why:* False. Wood is an insulator of heat, so heat moves up a wooden spoon very slowly. Its handle stays cool for a long time.
 8. (write) Why does a dosa tawa have a metal plate but a wooden handle?  
    **Answer:** The metal plate is a good conductor, so heat from the flame moves quickly into the dosa. The wooden handle is an insulator, so the heat reaches the cook's hand only very slowly.. *Why:* A strong answer explains both parts: where the cook wants heat to go, and where not.
-9. (mcq) Divya, a girl aged 10, tests a ladle. She puts a big butter dot at 2 cm and a tiny butter dot at 6 cm. Why is this not a fair test?  
-   Options: The dots are different sizes, so size changes how fast they melt / The ladle is steel / She used butter, not ghee  
+9. (mcq) In a ladle test, a big butter dot is put at 2 cm and a tiny butter dot at 6 cm. Why is this not a fair test?  
+   Options: The dots are different sizes, so size changes how fast they melt / The ladle is steel / The test used butter, not ghee  
    **Answer:** The dots are different sizes, so size changes how fast they melt. *Why:* A big dot takes longer to melt than a tiny one. In a fair test only the distance should change, so every dot must be the same size.
 10. (label) Label this picture of a spoon in hot tea: the hot end, the cool end, and the way the heat moves.  
    **Answer:** The hot end is the part in the tea. The cool end is the top of the handle. An arrow goes from the hot end up to the cool end.. *Why:* Heat moves from the hot end towards the cool end.
@@ -412,25 +413,25 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
    **Answer:** Wood. *Why:* Wood is an insulator of heat. Steel, copper and aluminium are metals, which are good conductors.
 12. (write) Think about your own Ladle Line test, with butter dots on a steel ladle in hot water. Write what you think, what you saw, and why you think it happened.  
    **Answer:** What I think: heat travels up the steel slowly, nearest parts first. What I saw: the 2 cm peppercorn fell first, and each one after took longer. Why: each part has to warm before it can pass heat to the next.. *Why:* A strong answer uses the child's own times as evidence.
-13. (mcq) Aarti, a girl aged 7, holds a hot steel tumbler of milk. Which way does heat move?  
-   Options: From the tumbler into her hand / From her hand into the tumbler / Heat does not move  
-   **Answer:** From the tumbler into her hand. *Why:* Heat moves from the hotter tumbler into her cooler hand, so her hand warms up.
+13. (mcq) You hold a hot steel tumbler of milk. Which way does heat move?  
+   Options: From the tumbler into your hand / From your hand into the tumbler / Heat does not move  
+   **Answer:** From the tumbler into your hand. *Why:* Heat moves from the hotter tumbler into your cooler hand, so your hand warms up.
 14. (write) Find one thing in your kitchen that has a metal part and a wooden or plastic part. Name it and say why each part is made of its material.  
    **Answer:** For example, a tawa: the metal plate is a conductor so heat reaches the food, and the wooden handle is an insulator so heat reaches the hand slowly.. *Why:* A strong answer names a real object and links each material to where the heat should or should not go.
 15. (truefalse) A steel ladle stands in hot sambar. After a few minutes its handle is as hot at the top as at the bottom.  
    **Answer:** False. *Why:* False. Heat reaches the top later and in smaller amounts, because it is passed on part by part and some leaks into the air.
 ### Heat on the Move (stretch) (stretch, 15 questions)
-1. (perspective) Kavya, a girl aged 8, and Meena, a girl aged 9, are arguing about a steel spoon lying flat, with only its bowl in hot water.  
-   **Answer:** Meena is right for a solid spoon: in the test, the flat spoon's peppercorn fell at about the same time as the upright one. Kavya is partly right that hot air and hot water rise.. *Why:* A strong answer uses the test's result, and gives Kavya fair credit for what is true about hot air.
-2. (mcq) Farhan, a boy aged 9, stands a steel spoon and an aluminium spoon of the same size in the same hot water. Each has a butter dot 4 cm up. Which peppercorn will most likely fall first?  
+1. (perspective) Two children are arguing about a steel spoon lying flat, with only its bowl in hot water.  
+   **Answer:** The second child is right for a solid spoon: a spoon lying flat warms at about the same speed as one standing upright, because heat goes from hot to cool in any direction. The first child is partly right that hot air and hot water rise.. *Why:* A strong answer describes a fair test, and gives the first child fair credit for what is true about hot air.
+2. (mcq) A steel spoon and an aluminium spoon of the same size stand in the same hot water. Each has a butter dot with a peppercorn 4 cm up. Which peppercorn will most likely fall first?  
    Options: The steel one / The aluminium one / They will fall together  
    **Answer:** The aluminium one. *Why:* Aluminium carries heat many times faster than stainless steel. Both are metals, but metals are not all alike.
 3. (order) Three rods of the same length stand in hot water: copper, steel and wood. Put them in order, from the one whose top gets warm first to the one that gets warm last.  
    **Answer:** ['copper', 'steel', 'wood']. *Why:* Copper is one of the best conductors of heat. Steel is a metal too, but slower. Wood is an insulator.
-4. (write) Nila, a girl aged 10, wraps cloth round the middle of a ladle handle and stands the ladle in hot water. Does the steel under the cloth still get warm? Explain.  
+4. (write) Cloth is wrapped round the middle of a ladle handle, and the ladle stands in hot water. Does the steel under the cloth still get warm? Explain.  
    **Answer:** Yes. Heat still travels up the steel inside the cloth. But the cloth is an insulator, so heat goes through it to the outside very slowly, and the outside of the cloth stays cool.. *Why:* A strong answer says the steel still conducts, and the cloth only slows heat getting out to the hand.
-5. (write) Sneha, a girl aged 8, holds an ice cube in a thick woollen glove. Will it melt faster or slower than in her bare hand? Why?  
-   **Answer:** Slower. The wool and the air caught in it are insulators, so heat from Sneha's hand reaches the ice more slowly.. *Why:* A strong answer says which way the heat moves (hand to ice) and why the glove slows it.
+5. (write) You hold an ice cube in a thick woollen glove. Will it melt faster or slower than in your bare hand? Why?  
+   **Answer:** Slower. The wool and the air caught in it are insulators, so heat from your hand reaches the ice more slowly.. *Why:* A strong answer says which way the heat moves (hand to ice) and why the glove slows it.
 6. (fill) The best conductors of heat, like silver and copper, are also the best conductors of ____.  
    **Answer:** ['electricity']. *Why:* In metals, free electrons carry both heat and electricity.
 7. (draw) Draw a zoomed-in picture of the steel inside a ladle handle, with the hot end on the left and the cool end on the right. Show how the tiny particles move.  
@@ -441,16 +442,16 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
    **Answer:** A steel spoon in tea gets a warm handle → conduction; Hot water rises from the bottom of a pan → convection; Sunshine warms your face → radiation. *Why:* Conduction is through a solid. Convection is a moving liquid or gas carrying heat. Radiation is heat travelling as rays, even across empty space.
 10. (label) Label the part of this pan that should be a good conductor of heat, and the part that should be an insulator.  
    **Answer:** The metal pan is the conductor. The handle is the insulator.. *Why:* The pan passes heat to the food. The handle keeps it from the hand.
-11. (write) Arjun, a boy aged 6, says, 'If the ladle were twice as long, its top end would get even hotter.' Is he right? Explain.  
+11. (write) If a ladle were twice as long, would its top end get even hotter? Explain.  
    **Answer:** No. The top end would be further from the hot water. The heat would take longer to get there, and more would leak into the air on the way. So the top would stay cooler.. *Why:* A strong answer uses what the Ladle Line showed: further parts get heat later and less of it.
-12. (mcq) Tanvi, a girl aged 9, wants her hot tea to stay warm longer. Which cup is best?  
+12. (mcq) You want your hot tea to stay warm longer. Which cup is best?  
    Options: A cup of thin steel / A cup with two walls and a layer of air between them / A cup of thin aluminium  
    **Answer:** A cup with two walls and a layer of air between them. *Why:* Air is an insulator, so a layer of air between two walls slows the heat leaving the tea. Thin steel and aluminium let heat out quickly.
-13. (write) Anitha, a girl aged 9, repeats the Ladle Line with a copper spoon of the same size instead of a steel one. What do you expect to happen to the times? Why?  
+13. (write) Suppose the Ladle Line is repeated with a copper spoon of the same size instead of a steel one. What do you expect to happen to the times? Why?  
    **Answer:** The peppercorns fall sooner, and the far one is more likely to fall, because copper carries heat about 25 times faster than stainless steel.. *Why:* A strong answer predicts shorter times and gives the reason: copper is a better conductor.
-14. (fill) In the Ladle Line, the only thing that changes from one butter dot to the next is its ____ from the water.  
+14. (fill) Butter dots are put at different heights on a steel ladle standing in hot water. For a fair test, the only thing that changes from one dot to the next is its ____ from the water.  
    **Answer:** ['distance']. *Why:* A fair test changes one thing. Here it is the distance, so the dots are the same size.
-15. (draw) Draw a graph sketch of the Ladle Line. Put the dot's height (2, 4, 6, 8 cm) along the bottom and the time it fell up the side. Use made-up numbers like the ones you found. Does your line go straight, or curve?  
+15. (draw) Draw a graph sketch of the Ladle Line. Put the dot's height (2, 4, 6, 8 cm) along the bottom and the time it fell up the side. Use times like the ones you found. Does your line go straight, or curve?  
    **Answer:** The line curves upward and gets steeper, because each dot took longer than the last.. *Why:* A strong sketch shows the times growing faster than the distance.
 ### Thinking About Heat (challenge) (challenge, 15 questions)
 1. (write) A steel spoon stands in hot tea and its handle warms. No tiny particle of the spoon travelled up to the handle. So what did move up the spoon? Explain in your own words.  
@@ -466,8 +467,8 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
    **Answer:** For example, a cup with two walls and air between them, a lid, and a wooden or plastic handle.. *Why:* A strong design uses insulators, such as air, plastic or wood, where heat should not escape or reach the hand.
 6. (truefalse) A steel tumbler and a wooden board that have sat in the same room all day are at the same temperature, even though the steel feels colder.  
    **Answer:** True. *Why:* True. Things left together reach the same temperature. The steel feels colder because it carries heat out of your hand faster.
-7. (write) Arjun, a boy aged 6, did the Ladle Line test and says, 'The 8 cm peppercorn never fell, so no heat got past 6 cm.' Find the mistake in his thinking.  
-   **Answer:** Some heat did get past 6 cm, but not enough to melt the butter. The steel at 8 cm was a little warmer than before, just not warm enough.. *Why:* A strong answer sees that 'not enough to melt butter' is not the same as 'no heat at all'.
+7. (write) After the Ladle Line test, the 8 cm peppercorn had never fallen. Does that mean no heat at all got past 6 cm? Explain.  
+   **Answer:** No. Some heat did get past 6 cm, but not enough to melt the butter. The steel at 8 cm was a little warmer than before, just not warm enough.. *Why:* A strong answer sees that 'not enough to melt butter' is not the same as 'no heat at all'.
 8. (fill) In a metal, tiny particles called ____ move freely between the atoms and carry heat quickly.  
    **Answer:** ['electrons']. *Why:* Free electrons are why metals carry heat and electricity so well.
 9. (sort) Sort these by how the heat moves.  
@@ -498,7 +499,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 2. (mcq) A steel spoon stands in hot milk. How does its handle get warm?  
    Options: Hot milk climbs up inside the spoon / Heat is passed up the steel, from part to part / The air pushes cold out of the spoon  
    **Answer:** Heat is passed up the steel, from part to part. *Why:* This is conduction. Each part of the steel warms the part next to it. No milk climbs up.
-3. (mcq) Meena, a girl aged 9, puts butter dots on a steel ladle at 2 cm and 6 cm above hot water. What will most likely happen?  
+3. (mcq) Butter dots are put on a steel ladle at 2 cm and 6 cm above hot water. What will most likely happen?  
    Options: The 6 cm dot melts first / The 2 cm dot melts first, and the 6 cm dot much later or not at all / Both melt at the same moment  
    **Answer:** The 2 cm dot melts first, and the 6 cm dot much later or not at all. *Why:* Heat reaches the nearest part first. The far part waits much longer, and gets less heat, because some leaks into the air.
 4. (mcq) Which of these is a good conductor of heat?  
@@ -507,22 +508,22 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 5. (mcq) Why do pressure cookers have plastic handles?  
    Options: Plastic is cheaper than metal / Plastic is an insulator, so the handle stays cool enough to hold / Plastic makes the food cook faster  
    **Answer:** Plastic is an insulator, so the handle stays cool enough to hold. *Why:* Heat moves through plastic very slowly, so the handle does not get hot quickly.
-6. (mcq) Priya, a girl aged 7, holds an ice cube and her hand gets cold. Why?  
-   Options: Cold moves from the ice into her hand / Heat moves from her hand into the ice / The ice is wet  
-   **Answer:** Heat moves from her hand into the ice. *Why:* Heat moves from warmer to cooler. Her hand loses heat to the ice, so it feels cold, and the ice melts.
-7. (mcq) Farhan, a boy aged 9, wants to test how far heat travels up a ladle. Which test is fair?  
+6. (mcq) You hold an ice cube and your hand gets cold. Why?  
+   Options: Cold moves from the ice into your hand / Heat moves from your hand into the ice / The ice is wet  
+   **Answer:** Heat moves from your hand into the ice. *Why:* Heat moves from warmer to cooler. Your hand loses heat to the ice, so it feels cold, and the ice melts.
+7. (mcq) You want to test how far heat travels up a ladle. Which test is fair?  
    Options: Dots of different sizes at different heights / Dots of the same size at different heights / One dot, moved about during the test  
    **Answer:** Dots of the same size at different heights. *Why:* In a fair test, only one thing changes. Here it is the height, so every dot must be the same size.
 8. (mcq) Why does a ladle for hot sambar have a long handle?  
    Options: The heat takes a long time to reach the far end, and some leaks into the air, so the end stays cooler / A long handle holds more sambar / Long steel is an insulator  
    **Answer:** The heat takes a long time to reach the far end, and some leaks into the air, so the end stays cooler. *Why:* Heat reaches far parts of a handle late and in small amounts, because it is passed on part by part and some leaks into the air.
-9. (mcq) Why do the particles in a hot spoon pass heat along?  
+9. (mcq) How do the particles in a hot spoon pass heat along?  
    Options: They flow up the handle like water / They shake faster and bump the particles next to them / They get bigger  
    **Answer:** They shake faster and bump the particles next to them. *Why:* Hot particles shake faster. They bump their neighbours, which then shake faster too. The particles stay in place.
 10. (mcq) Which metal carries heat fastest?  
    Options: Copper / Stainless steel / Lead  
    **Answer:** Copper. *Why:* Copper is one of the best conductors of heat. Stainless steel and lead are much slower.
-11. (mcq) Kavya, a girl aged 8, timed butter dots on a steel ladle in hot water. They fell at 1 minute, 3 minutes and 8 minutes. What does this tell her?  
+11. (mcq) Butter dots on a steel ladle in hot water were timed. They fell at 1 minute, 3 minutes and 8 minutes. What does this show?  
    Options: Heat moved at one steady speed / Heat took longer and longer to reach parts further from the water / The water was getting hotter  
    **Answer:** Heat took longer and longer to reach parts further from the water. *Why:* The waits grew from 2 minutes to 5 minutes. Heat gets slower as it travels further along the steel.
 12. (mcq) Which of these is mostly conduction?  
@@ -569,10 +570,10 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 - Why did the heat leave the hot tea? *It wanted to chill.*
 
 ## Connected maths
-- Meenakshi, a girl aged 8, timed peppercorns falling off her ladle. They fell at 40 seconds, 150 seconds and 360 seconds. How long was the wait between the first and the second? And between the second and the third? **110 seconds, then 210 seconds.**. 150 minus 40 is 110. 360 minus 150 is 210. The second wait was almost twice as long as the first. So the heat took longer and longer to reach each dot. (queues `math.time.duration.L3`)
-- Kavya, a girl aged 8, has a ladle with 20 cm of handle above the water. She wants a butter dot every 4 cm, starting 4 cm from the water. How many dots can she fit? **5 dots.**. The dots go at 4, 8, 12, 16 and 20 cm. 20 divided by 4 is 5. So she can fit 5 dots. (queues `math.division.sharing-and-grouping.L3`)
-- The upright spoon's peppercorn fell at 95 seconds. The flat spoon's fell at 105 seconds. What is the difference? Is that enough to say heat goes up faster? **10 seconds. That is too small to be sure.**. 105 minus 95 is 10. A difference of 10 seconds can come from a slightly bigger dot or shallower water. To be sure, you would do the test again. If the flat one were not always slower, the difference was luck. (queues `math.measurement-basics.estimation-and-precision.L3`)
-- Divya, a girl aged 10, timed the waits between peppercorns. They were 1 minute, then 2 minutes, then 4 minutes. If the pattern carried on, how long would the next wait be? **8 minutes.**. Each wait is double the one before: 1, 2, 4. Double 4 is 8. In a real test the pattern is not exact, and the far dot may never fall at all, because heat leaks into the air. (queues `math.patterns.number-patterns.L3`)
+- Peppercorns fell off a ladle at 40 seconds, 150 seconds and 360 seconds. How long was the wait between the first and the second? And between the second and the third? **110 seconds, then 210 seconds.**. 150 minus 40 is 110. 360 minus 150 is 210. The second wait was almost twice as long as the first. So the heat took longer and longer to reach each dot. (queues `math.time.duration.L3`)
+- A ladle has 20 cm of handle above the water. You want a butter dot every 4 cm, starting 4 cm from the water. How many dots can you fit? **5 dots.**. The dots go at 4, 8, 12, 16 and 20 cm. 20 divided by 4 is 5. So you can fit 5 dots. (queues `math.division.sharing-and-grouping.L3`)
+- The upright spoon's peppercorn fell at 95 seconds. The flat spoon's fell at 105 seconds. What is the difference? Is that enough to say heat goes up faster? **10 seconds. That is too small to be sure.**. 105 minus 95 is 10. A difference of 10 seconds can come from a slightly bigger dot or shallower water. To be sure, you would do the test again. If the flat spoon is not slower every time, the difference was just chance. (queues `math.measurement-basics.estimation-and-precision.L3`)
+- The waits between peppercorns were 1 minute, then 2 minutes, then 4 minutes. If the pattern carried on, how long would the next wait be? **8 minutes.**. Each wait is double the one before: 1, 2, 4. Double 4 is 8. In a real test the pattern is not exact, and the far dot may never fall at all, because heat leaks into the air. (queues `math.patterns.number-patterns.L3`)
 - The butter in the steel katori went soft in 3 minutes. The butter in the plastic lid took 7 minutes, and in the paper cup 11 minutes. How much longer did the paper cup take than the steel katori? **8 minutes longer.**. 11 minus 3 is 8. The steel katori is a good conductor, so heat reached the butter fastest. (queues `math.addition-subtraction.word-problems.L3`)
 
 ## Song

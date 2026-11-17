@@ -48,7 +48,7 @@
   },
   {
    "term": "Fine particles (PM2.5)",
-   "meaning": "Particles so small that about 30 of them side by side are as wide as one hair. Scientists call them PM2.5. They float in the air for days and can reach deep into the lungs.",
+   "meaning": "Particles so small that about 30 of them side by side are as wide as one hair. Scientists call them PM2.5. The name means particles that are 2.5 micrometres wide or smaller. A micrometre is one thousandth of a millimetre. They float in the air for days and can reach deep into the lungs.",
    "example": "Smoke from a mosquito coil or incense stick is full of fine particles.",
    "art": "One hair drawn as a thick band across the picture, with a row of 30 tiny dots beside it, labelled PM2.5."
   },
@@ -117,7 +117,7 @@
    "status": "defined",
    "context": "This card is about the air inside a home, which can be as dirty as the air outside.",
    "definition": "Indoor air pollution is smoke, dust and harmful gases in the air inside a building. It comes from cooking, incense, mosquito coils, candles and dust brought in from outside.",
-   "description": "Many people think the air inside is always cleaner. It is not always so. A tadka of mustard seeds in hot oil, frying papads or a burning incense stick all fill a kitchen with fine particles. In a closed bedroom, a burning mosquito coil gives off a lot of fine smoke for hours. Cooking on a wood or dung fire inside a home is one of the biggest causes of illness in the world, which is why gas stoves help. An exhaust fan or an open window while cooking lets the smoke out. On days when the outside air is very dirty, keeping windows closed for a while can help.",
+   "description": "Many people think the air inside is always cleaner. It is not always so. A tadka of mustard seeds in hot oil, frying papads or a burning incense stick all fill a kitchen with fine particles. In a closed bedroom, a burning mosquito coil gives off a lot of fine smoke for hours. Cooking on a wood or dung fire inside a home is one of the biggest causes of illness in the world. A gas stove makes far less smoke, so it helps. An exhaust fan or an open window while cooking lets the smoke out. On days when the outside air is very dirty, keeping windows closed for a while can help.",
    "examples": [
     "After frying, the kitchen smells of oil for an hour. That smell is tiny droplets and gases still floating in the air.",
     "A sticky card left in the kitchen catches oily specks, not only dust.",
@@ -145,7 +145,7 @@
    "status": "defined",
    "context": "This card is about the plants along roads and on balconies, and what dust does to their leaves.",
    "definition": "A leaf makes the plant's food from sunlight, air and water. Dust on a leaf blocks some of the sunlight, and can clog the tiny holes in the leaf that let air in and out.",
-   "description": "Plants cannot walk away from a dusty road, so their leaves meet whatever the air brings. A coat of dust means less light reaches the leaf, so the plant makes less food. Plants deal with this in several ways. Rain washes most dust off. Smooth, waxy leaves, like those of a money plant or a banana plant, let dust slide off easily. Hairy or rough leaves, like tulsi and many roadside trees, hold on to dust. That is hard for the plant. Still, less of that dust reaches people. Trees along a road catch a lot of dust on their leaves, which is one reason streets with trees often have cleaner air.",
+   "description": "Plants cannot walk away from a dusty road, so their leaves meet whatever the air brings. A coat of dust means less light reaches the leaf, so the plant makes less food. Plants deal with this in several ways. Rain washes most dust off. Smooth, waxy leaves, like those of a money plant or a banana plant, let dust slide off easily. Hairy or rough leaves, like tulsi and many roadside trees, hold on to dust. That is harder for the plant, because the dust stays on the leaf and keeps blocking the light. But it is good for people nearby, because less of that dust is left in the air for us to breathe. Trees along a road catch a lot of dust on their leaves, which is one reason streets with trees often have cleaner air.",
    "examples": [
     "Just before the monsoon, the leaves of roadside trees look grey. After the first heavy rain, they are bright green again.",
     "A damp cotton ball wiped over the top of a balcony leaf comes away grey.",
@@ -217,7 +217,7 @@
    "for": "On a clear blue day we cannot see any dust or smoke.",
    "against": "In the Sticky Card Test, the card caught specks from air that looked clear. Fine particles are too small to see one by one, and some harmful gases have no colour at all.",
    "status": "rejected",
-   "context": "This card is about a common idea: that you can see whether the air is dirty."
+   "context": "Many people think they can tell whether the air is dirty just by looking at it. This card asks whether air that looks clear is really clean."
   },
   {
    "claim": "The air inside a home is always cleaner than outside.",
@@ -225,7 +225,7 @@
    "for": "Walls and windows keep out a lot of road dust.",
    "against": "Cooking smoke, incense and mosquito coils add fine particles inside. A kitchen during frying can have dirtier air than the road outside.",
    "status": "rejected",
-   "context": "This card is about whether staying indoors always means cleaner air."
+   "context": "Many families think the air inside the home is always cleaner than the air outside. This card asks whether that is true."
   },
   {
    "claim": "Burning dry leaves is natural, so it does no harm.",
@@ -233,7 +233,7 @@
    "for": "Leaves are natural, and forests sometimes burn by themselves.",
    "against": "Burning leaves gives off thick smoke full of fine particles, right where people live and breathe. Leaves left to rot, or put in compost, become soil instead.",
    "status": "rejected",
-   "context": "This card is about whether smoke from natural things is harmless."
+   "context": "Some people think smoke from burning leaves does no harm, because leaves are natural. This card asks whether smoke from natural things is harmless."
   }
  ],
  "big_questions": [
@@ -404,8 +404,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "Which pair would make the biggest difference in our building?",
-     "kid": "Which fix could your family try this week?",
+     "say": "Let's check one pair. A neighbour burns dry leaves every morning. Which fix makes no smoke at all?",
+     "kid": "A neighbour burns dry leaves every day. Which fix makes no smoke at all?",
      "check": {
       "t": "mcq",
       "q": "A neighbour burns dry leaves every morning. Which fix makes no smoke at all?",
@@ -612,7 +612,8 @@
      ],
      "parent": "A strong answer uses the dabba card as proof that the specks came from the air. Now is the time to read this unit's explanation cards."
     }
-   ]
+   ],
+   "problem": "Air that looks clear still carries tiny specks. You will catch them on sticky cards and count them. One card goes in a closed dabba, so you can tell that the specks came from the air."
   },
   {
    "id": "e2",
@@ -721,7 +722,8 @@
      ],
      "parent": "Rain washes most dust off leaves. A plant on a covered balcony gets no rain, so a gentle wipe or a spray of water now and then helps the plant. You can offer that as a kindness, not a chore."
     }
-   ]
+   ],
+   "problem": "Dust lands on plants too. You will wipe leaves with damp cotton to find where the dust sits. Then you will think about what the dust does to the plant."
   },
   {
    "id": "e3",
@@ -849,7 +851,8 @@
      },
      "wait": "Leave the plate for a few hours, until both spoonfuls are dry"
     }
-   ]
+   ],
+   "problem": "Rain soaks through rubbish and dirty ground into the soil below. You will make a bottle of soil, like a small piece of ground. You will pour in muddy salty water. Then you will see what the soil stops and what goes through."
   }
  ],
  "activities": [
@@ -927,7 +930,7 @@
       }
      ],
      "think": "If the air leaves this much on a grill, where else might it leave dust?",
-     "parent": "Leave the question open. The Sticky Card Test comes next and answers it."
+     "parent": "Leave the question open. Good guesses are window sills, leaves, clothes and our own noses. The Sticky Card Test comes next and starts to answer it."
     }
    ]
   },
@@ -1156,7 +1159,7 @@
      "say": "Same window, same time, every day. Why do you think the time has to be the same?",
      "kid": "Look at the same thing at the same time each day. Write how clear it is.",
      "wait": "Wait for the next morning, and repeat on days 2, 3 and 4",
-     "parent": "Morning mist after rain is water drops, not pollution. Note if it rained. In winter, haze is often worst early in the morning, when cold air near the ground keeps smoke from rising."
+     "parent": "Using the same time each day makes it a fair test. The light, the wind and the traffic change through the day, so the tower would look different at different times even if the air stayed the same. Morning mist after rain is water drops, not pollution. Note if it rained. In winter, haze is often worst early in the morning, when cold air near the ground keeps smoke from rising."
     },
     {
      "id": "s3",
@@ -1392,7 +1395,8 @@
      "do": "Talk about why families burn old things on Bhogi, and what the smoke does.",
      "say": "Bhogi is about letting go of the old to make space for the new. Does that need a fire?",
      "kid": "Why do people burn old things on Bhogi? What does the smoke do?",
-     "context": "This is a planning challenge about Bhogi, the first day of Pongal, and the smoke from its bonfires."
+     "context": "This is a planning challenge about Bhogi, the first day of Pongal, and the smoke from its bonfires.",
+     "parent": "The answer is no. Letting go only means the old things leave our home. They can go to someone who will use them, or into compost. A fire is not needed."
     },
     {
      "id": "s2",
@@ -2529,9 +2533,9 @@
    "kid": "Sit by the window. Close your eyes. Breathe in slowly through your nose. Count to four. Breathe out. Count to four. Do it five more times. Where was this air a minute ago? Who will breathe it next?"
   },
   "ask": [
-   "No single speck made your sticky card grey. So who made it grey?",
-   "The air you breathed out a minute ago is in the room now. Is it still yours?",
-   "Your nose cleans the air for your lungs. Who cleans the air for the city?"
+   "No single speck made your sticky card grey. Many specks together made it grey. Where did all those specks come from?",
+   "The air you breathed out a minute ago is now in the room. Who else might breathe it in?",
+   "Your nose cleans the air before it reaches your lungs. What cleans the air of a whole city?"
   ],
   "art": "A child sitting by an open window with eyes closed, breathing in, with faint lines of air flowing from a neem tree outside, past a crow on the sill, into the child's nose, and out again into the city."
  },

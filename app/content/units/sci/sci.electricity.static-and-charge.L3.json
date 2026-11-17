@@ -128,7 +128,7 @@
    "description": "You, the balloon, the wall and the air are all made of atoms. Every atom holds plus charge in its centre and minus charge in its electrons. So a balloon straight from the packet is packed with charge. But it holds exactly as much plus as minus. The pushes and pulls cancel out, so it does nothing. We call it neutral. Things only start to push and pull when the balance is upset. That happens when one thing has a few more electrons than it should, or a few fewer.",
    "examples": [
     "A new balloon is neutral. Hold it over paper bits, and none jump.",
-    "A single grain of salt holds more electrons than there are people on Earth, and as many protons, so it is neutral.",
+    "A single grain of salt holds more electrons than there are people on Earth. It holds exactly as many protons too, so the grain is neutral.",
     "Your body is neutral most of the time, though it is full of charge."
    ],
    "perspectives": [],
@@ -153,7 +153,7 @@
    "concept": "Opposite charges attract, the same charges repel",
    "status": "defined",
    "definition": "Plus and minus charges attract each other. Two plus charges repel each other, and so do two minus charges. The closer they are, the stronger the push or pull.",
-   "description": "After rubbing, your hair has plus charge and the balloon has minus charge. Opposites attract, so the hairs rise up towards the balloon. Each hair also has plus charge, and so do the hairs next to it. The same charges repel, so the hairs push away from each other and stand apart, like a fan. That is why rubbed hair looks fly-away. The forces grow quickly as things get closer. Lift the balloon a little, and the hair still follows. Lift it far away, and the hair falls back down.",
+   "description": "After rubbing, your hair has plus charge and the balloon has minus charge. Opposites attract, so the hairs rise up towards the balloon. Each hair also has plus charge, and so do the hairs next to it. The same charges repel, so the hairs push away from each other and stand apart, like a fan. That is why rubbed hair looks fly-away. The closer two charges are, the stronger the push or pull between them. So if you lift the balloon a little, the hair still follows it. If you lift it far away, the pull becomes too weak and the hair falls back down.",
    "examples": [
     "Rubbed hair stands up and spreads out, each strand pushing the next away.",
     "Strips of a plastic bag rubbed with wool spread out like a fan.",
@@ -234,8 +234,8 @@
    "definition": "Lightning is a giant spark that heats the air in its path to nearly 30,000 degrees Celsius in a tiny fraction of a second. Thunder is the sound of that air bursting outwards.",
    "description": "The minus charge at the bottom of a storm cloud attracts plus charge on the ground below. When the charge is big enough, a spark jumps across kilometres of air. It is the same kind of spark as the crackle from a sweater, only millions of times bigger. The air in its path gets about five times hotter than the surface of the Sun. It glows white, and that is the flash. The hot air bursts outwards so fast that it makes a huge bang, and that is the thunder. Light reaches you almost at once, but sound takes about 3 seconds to travel 1 kilometre. So you see the flash first and hear the thunder later.",
    "examples": [
-    "A crackle from a sweater is a tiny flash and a tiny thunder.",
-    "A rumble of thunder is the sound from different parts of a long bolt arriving one after another.",
+    "The crackle you hear when you pull off a sweater is a very small version of lightning and thunder. The tiny spark is the flash, and the snap is the thunder.",
+    "Thunder rumbles for a long time because a lightning bolt is very long. The sound from its nearest part reaches you first, and the sound from its far parts reaches you later.",
     "Lightning tends to strike tall, pointed things, like trees, towers and poles."
    ],
    "perspectives": [],
@@ -362,9 +362,9 @@
    "hint": "In Sparks in the Dark, a sweater crackled in the dark room. Think about how you felt when you saw and heard it."
   },
   {
-   "q": "Every atom in you holds plus and minus in balance. Are you, too, a kind of balance?",
+   "q": "Your body is made of plus and minus charges that cancel almost exactly. Rubbing a balloon upset that balance a tiny bit, and it lifted your hair. What would happen if your body had a big imbalance?",
    "kind": "big",
-   "hint": "Think about what would happen to you if all your electrons were taken away."
+   "hint": "Think about how a tiny imbalance was enough to lift your hair. A big imbalance would make a very strong push or pull, and it could even make a spark."
   }
  ],
  "story": {
@@ -539,7 +539,8 @@
      "do": "Talk about the storm cloud cards.",
      "say": "The top of a storm cloud is plus. The bottom is minus. What do you think happens when the two get too much charge?",
      "kid": "The cloud's top is plus. Its bottom is minus. What happens next?",
-     "think": "Why does lightning not happen all the time, if the top and bottom of a cloud attract?"
+     "think": "Why does lightning not happen all the time, if the top and bottom of a cloud attract?",
+     "parent": "Air does not let charge cross it easily. So the charge has to build up first. When the pull between the top and the bottom is strong enough, it pushes a spark across the air. That spark is the lightning."
     }
    ],
    "setup": [
@@ -1021,7 +1022,7 @@
      "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
      "say": "Now tell me what you think, what you saw, and why you think it happened.",
      "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
-     "parent": "A good answer sounds like this. What I think: rubbed plastic can bend water, but rubbed metal cannot. What I saw: the comb and the ruler bent the stream, the unrubbed comb and the spoon did not, and the wet comb stopped working. Why: plastic is an insulator and keeps its charge. Steel and water are conductors, so the charge runs away.",
+     "parent": "A good answer sounds like this. What I think: rubbed plastic can bend water, but rubbed metal cannot. What I saw: the comb and the ruler bent the stream. The unrubbed comb and the spoon did not, and the wet comb stopped working. Why: plastic is an insulator and keeps its charge. Steel and water are conductors, so the charge runs away. For the think question: dry hair is an insulator too, so the charge stays on it. Wet hair would lose the charge quickly.",
      "think": "Your body is a conductor. So how can your hair stay charged after rubbing?"
     }
    ],
@@ -1158,7 +1159,8 @@
       "a": 1,
       "why": "Rubbing moved electrons onto the balloon, so it has an electric charge, and the charge attracts the wall. Picking 'sticky' is a natural first thought, but the balloon is not sticky to touch, and a plain balloon of the same rubber falls."
      },
-     "think": "If the hairs spread apart, what does that tell you about the charge on each hair?"
+     "think": "If the hairs spread apart, what does that tell you about the charge on each hair?",
+     "parent": "Every hair has lost electrons, so every hair has the same plus charge. The same charges repel, so the hairs push each other apart. The balloon has the opposite charge, so it pulls them up."
     }
    ],
    "context": "This is a quick activity to start the unit. You stick a balloon to a wall and lift your hair, using only the charge from rubbing.",
@@ -1485,7 +1487,8 @@
      "mins": 6,
      "do": "1. Make a start line and a finish line 50 cm apart with tape or chalk. 2. Race the can to the finish, using only the balloon.",
      "say": "Can you roll the can all the way to the finish line, without touching it? How many times did you need to rub the balloon again?",
-     "kid": "Roll the can to the finish line. Don't touch it!"
+     "kid": "Roll the can to the finish line. Don't touch it!",
+     "parent": "Each time the can slowed down, the balloon had lost some charge, so it needed rubbing again. A charge does not last for ever, and a touch or damp air takes it away. The can also rolls more easily when the balloon is close, because the pull is stronger up close."
     }
    ],
    "context": "In this activity you roll an empty can along the floor using only a rubbed balloon.",
@@ -2326,20 +2329,20 @@
    "items": [
     {
      "t": "perspective",
-     "p": "The first person and her brother the second person watch paper bits jump up to a rubbed balloon. They disagree about why.",
+     "p": "A sister and her brother watch paper bits jump up to a rubbed balloon. They disagree about why.",
      "views": [
       {
-       "who": "The first person",
+       "who": "The sister",
        "says": "The paper must be charged too, with the opposite charge. Only opposite charges attract."
       },
       {
-       "who": "The second person",
+       "who": "The brother",
        "says": "The paper is not charged. The balloon is charged, and that is enough to pull the paper."
       }
      ],
      "ask": "Who do you agree with? Give your evidence. Then say what the other person got right.",
      "lines": 5,
-     "a": "A strong answer sides mostly with the second person: the paper was never rubbed, and it is neutral. But it gives the first person her due: the near side of the paper does get a little opposite charge, because the balloon pushes the paper's electrons a tiny way back. So both are partly right.",
+     "a": "A strong answer sides mostly with the brother: the paper was never rubbed, and it is neutral. But it gives the sister her due. The balloon pushes the paper's electrons a tiny way back, so the near side of the paper does get a little opposite charge. So both are partly right.",
      "why": "This tests the hardest idea in the unit: how a charged thing attracts a neutral one."
     },
     {
@@ -3041,11 +3044,11 @@
    "evidence": "In the Rubbing Test, the plain balloon lifted no paper at all. After only ten rubs, the same balloon lifted paper bits, and your hair rose up towards it, against gravity."
   },
   "three": {
-   "who_am_i": "You are made of countless plus and minus charges, held in balance. That balance holds every atom of you together.",
+   "who_am_i": "You are made of countless plus and minus charges, held in balance. Each atom of you is held together by the pull between its plus centre and its minus electrons.",
    "what_is_life": "A bee feels the faint electric field of a flower, and uses it to choose which flower to visit.",
    "what_is_this_world": "The same force that lifts a paper bit builds the lightning in a monsoon storm."
   },
-  "thread": "A plain balloon looks as if nothing is going on inside it. In fact it holds huge amounts of plus and minus charge, which add up to exactly zero. Upset that balance a tiny way, by rubbing, and forces appear at once: hair rises, paper jumps, water bends and sparks crackle. In a storm cloud, the same thing happens on a giant scale, and it makes lightning. All of these come from one balance being upset a little.",
+  "thread": "A plain balloon looks as if nothing is going on inside it. In fact it holds huge amounts of plus and minus charge, which add up to exactly zero. Upset that balance a tiny way, by rubbing, and forces appear at once: hair rises, paper jumps, water bends and sparks crackle. In a storm cloud, the same thing happens on a giant scale, and it makes lightning. Every one of these happens because charges that are normally equal were made a little unequal.",
   "teachings": [
    {
     "source": "Tao Te Ching 42",
@@ -3084,7 +3087,7 @@
   },
   "ask": [
    "A plain balloon is full of charge, but does nothing. Is a perfect balance the same as nothing at all?",
-   "In Feel without touching, your arm felt the balloon although the balloon did not touch it. Where does your arm end and the balloon's field begin?",
+   "Your arm hairs moved, although nothing touched them. What do you think reached across the gap between the balloon and your arm?",
    "If the electric force is so strong, why is the world mostly calm and quiet?"
   ],
   "art": "A child on a balcony at dusk holding a balloon just above her bare arm, the fine hairs lifting towards it, and far away over the city a single lightning bolt in a monsoon cloud."
