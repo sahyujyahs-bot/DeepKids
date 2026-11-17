@@ -289,16 +289,16 @@
     {
       "concept": "Other animals: the same tube, with different lengths and chambers",
       "status": "defined",
-      "definition": "Humans and other animals with backbones share the same plan of food tube. Its length and its chambers fit the food each animal eats.",
-      "description": "Meat is easy to digest, because an animal's own enzymes can cut it. So a meat-eater has a short food tube. A cat's intestines are about 4 times as long as her body, by rounded textbook figures. Plants are hard to digest, because so much of a plant is fibre. No animal with a backbone is known to make an enzyme that cuts cellulose. So plant-eaters depend on microbes, and they give the microbes room and time. A rabbit's intestines are about 10 times as long as their body. A rabbit also has a large side pouch called the caecum, full of microbes. A cow's intestines are about 20 times as long as her body. A cow has a stomach of four chambers. The first chamber, the rumen, holds many litres of grass, water and microbes. Humans eat both plants and other animals, and our intestines are about 3 to 5 times our height. Our caecum is small. A thin tube called the appendix hangs from it. Teeth fit the food too. A cat's back teeth slice like scissors. A cow's back teeth are broad and flat for grinding. A crow has no teeth. A muscular part of her stomach, the gizzard, grinds the food.",
+      "definition": "Humans and other animals with backbones share the same plan of food tube. What differs most with food is the large intestine and the chambers where microbes work, more than the length of the small intestine.",
+      "description": "Meat is easy to digest, because an animal's own enzymes can cut it. Plants are hard to digest, because so much of a plant is fibre. No animal with a backbone is known to make an enzyme that cuts cellulose. So plant-eaters depend on microbes, and they give the microbes room and time. Many books say that plant-eaters simply have longer guts. In 2021 a team led by Maria Duque-Correa gathered published measurements from 519 kinds of mammal and tested this. They found that the old rule is weak. The small intestine follows body size more than food. Food changes the large intestine most, and the caecum, the side pouch where microbes work. Some plant-eaters also keep a huge chamber in the stomach. The measured lengths below are rounded, and they vary from animal to animal. A cat of about 2.5 kilograms, a meat-eater, has about 1.4 metres of intestine, and only about 25 centimetres of it is large intestine. A rabbit of about 3 kilograms, a plant-eater, has about 3.4 metres, and about 1.5 metres of it is large intestine, with a caecum about 40 centimetres long. A person of about 65 kilograms has about 8 metres of intestine, measured in people who had died, and about 1.6 metres of it is large intestine. Our caecum is small. A thin tube called the appendix hangs from it. Cattle of about 470 kilograms have about 51 metres of intestine, and about 10 metres of it is large intestine. A cow also has a stomach of four chambers. The first chamber, the rumen, holds many litres of grass, water and microbes. Teeth fit the food too. A cat's back teeth slice like scissors. A cow's back teeth are broad and flat for grinding. A crow has no teeth. A muscular part of her stomach, the gizzard, grinds the food.",
       "examples": [
-        "Cat, a meat-eater: intestines about 4 times her body length, with sharp slicing teeth.",
-        "Human, who eats both: intestines about 3 to 5 times our height, with four kinds of teeth.",
-        "Rabbit, a plant-eater: intestines about 10 times their body length, with a large caecum.",
-        "Cow, a plant-eater: intestines about 20 times her body length, with a four-chambered stomach."
+        "Cat, a meat-eater: about 1.4 metres of intestine, only about 25 centimetres of it large intestine, with sharp slicing teeth.",
+        "Human, who eats both: about 8 metres of intestine, about 1.6 metres of it large intestine, with four kinds of teeth.",
+        "Rabbit, a plant-eater: about 3.4 metres of intestine, about 1.5 metres of it large intestine, with a large caecum.",
+        "Cow, a plant-eater: about 51 metres of intestine, about 10 metres of it large intestine, with a four-chambered stomach."
       ],
       "perspectives": [],
-      "art": "Four animals in a row, a cat, a child, a rabbit and a cow, each with a coiled line beneath showing how long the intestines are compared with the body."
+      "art": "Four animals in a row, a cat, a child, a rabbit and a cow, each with a coiled line beneath showing how long the intestines are, with the large intestine part drawn in a different colour."
     },
     {
       "concept": "Did cooking shrink the human gut?",
@@ -366,8 +366,8 @@
       "evidence": "Tests since 1965 on healthy grown-ups in many countries show low lactase in about two in three. A 1981 study found it in about two in three South Indians tested."
     },
     {
-      "text": "Plant-eating animals have longer guts or extra chambers, where microbes cut the fibre.",
-      "evidence": "Anatomists have measured the guts of hundreds of kinds of animal. A cow's rumen holds a great deal, and scientists can take samples of its microbes."
+      "text": "Plant-eating animals have larger spaces for microbes, in the large intestine, the caecum or an extra stomach chamber, where microbes cut the fibre.",
+      "evidence": "Anatomists have measured the guts of hundreds of kinds of animal. In 2021 a study of 519 kinds of mammal found that the small intestine follows body size more than food, and that food changes the large intestine most. A cow's rumen holds a great deal, and scientists can take samples of its microbes."
     }
   ],
   "challenging": [
@@ -714,16 +714,16 @@
               "b": "Cow. She eats plants. Microbes in her rumen cut the fibre of the grass."
             },
             {
-              "f": "Back teeth that slice like scissors. A jaw that cannot move sideways. Intestines only about 4 times the body length.",
-              "b": "Cat. She eats other animals. Meat is easy to digest, so a short gut is enough."
+              "f": "Back teeth that slice like scissors. A jaw that cannot move sideways. A small large intestine, about one-sixth of the gut.",
+              "b": "Cat. She eats other animals. Meat is easy to digest, so she needs little room for microbes."
             },
             {
-              "f": "Front teeth that never stop growing. Intestines about 10 times the body length. A large side pouch full of microbes.",
-              "b": "Rabbit. They eat plants. Microbes in the caecum cut the fibre."
+              "f": "Front teeth that never stop growing. A large intestine that is nearly half of the gut. A large side pouch full of microbes.",
+              "b": "Rabbit. They eat plants. Microbes in the caecum and large intestine cut the fibre."
             },
             {
-              "f": "Four kinds of teeth, 32 in all. Intestines about 3 to 5 times the body height. Most gut microbes live in the large intestine.",
-              "b": "Human. We eat plants and other animals. Our gut is between a cat's and a rabbit's."
+              "f": "Four kinds of teeth, 32 in all. A small caecum. Most gut microbes live in the large intestine, which is about one-fifth of the gut.",
+              "b": "Human. We eat plants and other animals. Our caecum is small, and our gut makes less room for microbes than a rabbit's."
             },
             {
               "f": "Molars as big as a brick, replaced five times in a lifetime. A very long large intestine full of microbes. More than 100 kilograms of food a day.",
@@ -813,7 +813,7 @@
               "q": "Which clues point to a plant-eater?",
               "good": [
                 "Flat, broad teeth for grinding.",
-                "A very long gut.",
+                "A big pouch or large intestine full of microbes.",
                 "A big chamber or pouch full of microbes."
               ]
             }
@@ -829,7 +829,7 @@
           "kid": "Count your points. Sort the cards by food. What do all the plant-eaters share?",
           "check": {
             "t": "mcq",
-            "q": "In Whose Teeth, Whose Gut?, why do the plant-eaters have long guts or extra chambers?",
+            "q": "In Whose Teeth, Whose Gut?, why do the plant-eaters have big pouches, large intestines or extra chambers?",
             "options": [
               "Their microbes need room and time to cut fibre",
               "Plants are bigger than meat",
@@ -1587,10 +1587,10 @@
       "title": "The Gut Ladder: string lengths for a cat, a person, a rabbit and a cow",
       "mins": 20,
       "days": 1,
-      "context": "In this activity you cut a strip of paper for the body of each animal. Then you cut the gut strips to the real length, measured in body lengths. The strips show how the length of the gut follows what each animal eats.",
+      "context": "In this activity you cut a paper strip for the real intestine length of a cat, a person, a rabbit and a cow, measured by scientists. You colour the large intestine part. The strips show that the biggest animal has the longest gut, and that food changes the large intestine most.",
       "materials": [
         {
-          "item": "old newspaper or a roll of string, about 6 metres in all",
+          "item": "old newspaper or a roll of string, about 7 metres in all",
           "qty": 1
         },
         {
@@ -1606,60 +1606,74 @@
           "qty": 1
         },
         {
+          "item": "a red marker pen, for the large intestine part",
+          "qty": 1
+        },
+        {
           "item": "a notebook and a pencil",
           "qty": 1
         }
       ],
-      "record": "Fill in a table of four animals: what each one eats, how many body lengths long the gut is, and the length of your strip.",
+      "record": "Fill in a table of four animals: what each one eats, its weight, and the length of your whole strip and of the large intestine part.",
       "example_chart": {
         "type": "table",
-        "title": "Gut length in body lengths, for a rounded average animal. The strips here are cut with a body length of 20 centimetres",
+        "title": "Intestine length from measured animals, rounded. The strips are cut at 1 centimetre of strip for every 10 centimetres of real intestine",
         "cols": [
           "Animal",
-          "What she or he eats",
-          "Gut length in body lengths",
-          "Strip length"
+          "What it eats",
+          "Weight",
+          "Whole intestine",
+          "Large intestine part",
+          "Strip length (whole, large part)"
         ],
         "rows": [
           [
             "Cat",
             "Other animals",
-            "4",
-            "80 cm"
+            "about 2.5 kg",
+            "about 1.4 m",
+            "about 25 cm",
+            "14 cm, 2.5 cm"
           ],
           [
             "Human",
             "Plants and other animals",
-            "5",
-            "100 cm"
+            "about 65 kg",
+            "about 8 m",
+            "about 1.6 m",
+            "80 cm, 16 cm"
           ],
           [
             "Rabbit",
             "Plants",
-            "10",
-            "200 cm"
+            "about 3 kg",
+            "about 3.4 m",
+            "about 1.5 m",
+            "34 cm, 15 cm"
           ],
           [
             "Cow",
             "Plants",
-            "20",
-            "400 cm"
+            "about 470 kg",
+            "about 51 m",
+            "about 10 m",
+            "510 cm, 100 cm"
           ]
         ],
-        "note": "These are rounded figures, as in textbooks. The length of a living gut varies. For humans, the textbook figure is about 5 times standing height. In a living person it is less."
+        "note": "Source: measurements collected by Duque-Correa and others (2021), from a wild cat, a domestic rabbit, people who had died and cattle. Real animals vary a lot, so treat the numbers as about right. The scientists also found that the rule 'plant-eaters have longer guts' is weak."
       },
       "setup": [
         {
           "art": "Four paper strips of different lengths laid side by side on a floor, labelled cat, human, rabbit and cow, with the cow's strip running off the end of the picture.",
-          "caption": "1. Cut one body strip, 20 centimetres long, for each animal."
+          "caption": "1. Cut one strip for each animal, at 1 centimetre of strip for every 10 centimetres of real intestine."
         },
         {
-          "art": "A child laying a long string along a hallway floor, with a marker note beside it saying 'cow, 20 body lengths'.",
-          "caption": "2. Cut each gut strip to its number of body lengths. Lay them out side by side."
+          "art": "A child laying a long string along a hallway floor, with a marker note beside it saying 'cow, 510 cm, last 100 cm red'.",
+          "caption": "2. Colour the last part of each strip red, the large intestine. Lay the strips out side by side."
         },
         {
           "art": "A table with four rows drawn in a notebook, and a pencil pointing to the cow's row.",
-          "caption": "3. Fill in the table. Say what the long guts have in common."
+          "caption": "3. Fill in the table. Compare the cat and the rabbit, who weigh about the same."
         }
       ],
       "flow": [
@@ -1679,47 +1693,47 @@
               ]
             }
           ],
-          "parent": "Do not correct the order. Most children guess that size decides the order. The strips will show that diet matters more.",
+          "parent": "Do not correct the order. Most children guess that size decides the order, and for the whole intestine they are right. The strips will also show what food changes.",
           "context": "This is the first step of The Gut Ladder. You guess the order of the guts of a cat, a person, a rabbit and a cow."
         },
         {
           "id": "s2",
           "mins": 8,
           "adult": true,
-          "do": "1. Cut a body strip of 20 centimetres for each animal and label it. 2. Cut the cat's gut strip as 4 body lengths, which is 80 centimetres. 3. Cut the human's as 5, the rabbit's as 10 and the cow's as 20. 4. Join strips of newspaper with tape, to make the long ones.",
-          "say": "One body length is 20 centimetres. A cat's gut is 4 body lengths, a person's is 5, a rabbit's is 10 and a cow's is 20. Work out each length with me.",
-          "kid": "One body is 20 centimetres. Cut the gut strips: cat 4 bodies, person 5, rabbit 10, cow 20.",
-          "parent": "The cow's strip is 4 metres, so you need a hallway or a balcony. A string works as well as paper. Your child can do the sums, and you do the cutting.",
+          "do": "1. Cut the strips at 1 centimetre of strip for each 10 centimetres of real intestine: cat 14 centimetres, rabbit 34, human 80 and cow 510. 2. Join strips of newspaper with tape, to make the long ones. 3. Colour the last part of each strip red, for the large intestine: cat 2.5 centimetres, rabbit 15, human 16 and cow 100.",
+          "say": "Scientists measured real animals. A cat's intestine is about 1.4 metres, a rabbit's about 3.4, a person's about 8 and a cow's about 51. We cut one centimetre of strip for every 10 centimetres of real gut. Work out each strip with me.",
+          "kid": "Cut the strips: cat 14 centimetres, rabbit 34, person 80, cow 510. Colour the large intestine red.",
+          "parent": "The cow's strip is 5 metres and 10 centimetres, so you need a hallway or a balcony. A string works as well as paper. Your child can do the sums, and you do the cutting. The figures are rounded from published measurements, and real animals vary.",
           "context": "In this step of The Gut Ladder, a grown-up cuts a body strip and a gut strip for each animal."
         },
         {
           "id": "s3",
           "mins": 5,
           "do": "1. Lay the four gut strips side by side. 2. Lay each body strip beside its gut strip. 3. Ask your child to compare the animals that eat plants with the animal that eats other animals.",
-          "say": "Look at the four gut strips. Which animals have the longest guts? What do they eat? Which animal has the shortest gut?",
-          "kid": "Lay out the four gut strips. Which animals have long guts? What do they eat?",
+          "say": "Look at the four strips. Which is longest? Now look at the red parts. Compare the cat and the rabbit, who weigh about the same. What is different?",
+          "kid": "Lay out the four strips. Which is longest? Compare the cat and the rabbit. What is different?",
           "ask": [
             {
-              "q": "What do the animals with the longest guts have in common?",
+              "q": "The cat and the rabbit weigh about the same. Which part of their strips is most different?",
               "good": [
-                "They all eat plants.",
-                "Plants are mostly fibre.",
-                "Microbes need time to cut the fibre."
+                "The red part of the rabbit's strip is much longer.",
+                "The rabbit's red part is nearly half of its strip.",
+                "The cat's red part is small."
               ]
             }
           ],
           "check": {
             "t": "mcq",
-            "q": "In The Gut Ladder, why is the cat's gut strip the shortest?",
+            "q": "In The Gut Ladder, the cat and the rabbit weigh about the same. Which part of their guts differs most?",
             "options": [
-              "Meat is easy to digest, so a short gut is enough",
-              "A cat is the smallest animal",
-              "A cat does not need to digest food"
+              "The large intestine, the red part, is much longer in the rabbit",
+              "The small intestine is ten times longer in the rabbit",
+              "The cat's whole intestine is longer than the rabbit's"
             ],
             "a": 0,
-            "why": "A cat's own enzymes cut meat, so she needs no microbes and no long wait. If you chose 'smallest animal', look again. The strips are measured in body lengths, so size has been taken out."
+            "why": "The rabbit's large intestine is about six times as long as the cat's, and her whole intestine is about 2 times as long. Microbes work in the large intestine and the caecum. If you chose the small intestine, look again: the rabbit's is only a little longer than the cat's."
           },
-          "context": "In this step of The Gut Ladder, you lay the four strips side by side and compare the guts of animals with different food."
+          "context": "In this step of The Gut Ladder, you lay the four strips side by side and compare the cat and the rabbit, who weigh about the same."
         },
         {
           "id": "s4",
@@ -1727,7 +1741,7 @@
           "do": "1. Ask your child to say what they thought would happen, what they saw, and why it happened. 2. Ask where on the rabbit's strip the microbes live. 3. Read the explanation card on other animals.",
           "say": "Say what you thought would happen, what you saw, and why you think it happened. Which of your four animals needs its microbes the most?",
           "kid": "Say what you thought would happen. Say what you saw. Say why you think it happened.",
-          "parent": "A strip in body lengths removes the effect of size. A mouse and an elephant of the same diet would have guts of the same number of body lengths, near enough. The rabbit's microbes live mostly in the caecum, a large side pouch at the start of the large intestine. The cow's microbes live in her rumen, the first chamber of her stomach. The human strip uses the usual figure of 5 times standing height. Our gut is in between because we eat both plants and other animals.",
+          "parent": "The longest strip belongs to the biggest animal, because body size sets most of the length. Scientists used to teach that plant-eaters simply have longer guts. In 2021 a team that gathered measurements from 519 kinds of mammal found this rule weak. Food changes the large intestine most, and the small intestine follows body size more. The cat and the rabbit are the fair pair, because they weigh about the same. The rabbit's microbes live mostly in the caecum, a large side pouch at the start of the large intestine, and in the rest of the large intestine. The cow's microbes live mostly in her rumen, the first chamber of her stomach, which is not on these strips. Each strip stands for a few animals only: a wild cat for the cat, a domestic rabbit, people who had died, and cattle. Real animals vary a lot, so say 'about'.",
           "context": "This is the last step of The Gut Ladder. You say what the long guts have in common and why."
         }
       ]
@@ -2455,11 +2469,11 @@
             ],
             [
               "Cat",
-              "A short gut for easy meat"
+              "A small large intestine, for easy meat"
             ]
           ],
           "a": "pairs as given",
-          "why": "Each gut fits the food. Plant-eaters house microbes in extra chambers or pouches. A crow grinds food in a muscular gizzard. A cat's gut is short because meat is easy to digest.",
+          "why": "Each gut fits the food. Plant-eaters house microbes in extra chambers or pouches. A crow grinds food in a muscular gizzard. A cat's large intestine is small because meat is easy to digest.",
           "outcome": 6
         },
         {
@@ -2840,15 +2854,15 @@
     },
     {
       "t": "mcq",
-      "p": "Why do rabbits and cows have longer guts than cats?",
+      "p": "Which part of a rabbit's gut is much bigger than a cat's, and why?",
       "opts": [
-        "Plants are mostly fibre, so microbes need time and room",
-        "Cats do not eat enough",
-        "Rabbits and cows are bigger",
-        "Meat is harder to digest than grass"
+        "The large intestine and caecum, where microbes cut plant fibre",
+        "The mouth, to chew faster",
+        "The food pipe, to swallow bigger pieces",
+        "Nothing, a rabbit's gut is the same as a cat's"
       ],
       "a": 0,
-      "why": "Plants are rich in fibre, and no enzyme of an animal with a backbone cuts it. Microbes in a long gut or extra chamber do it slowly.",
+      "why": "Plants are rich in fibre, and no enzyme of an animal with a backbone cuts it. Microbes do it slowly, in the large intestine and the caecum. Measurements show that this is where plant-eaters differ most from meat-eaters.",
       "outcome": 6
     },
     {
@@ -3041,13 +3055,13 @@
       "why_maths": "A pattern repeated in four quarters lets you find the whole by multiplying one part, then compare it with a child's count."
     },
     {
-      "problem": "In The Gut Ladder, a rabbit's body is 40 centimetres long and her intestines are 10 body lengths. A cat's body is 50 centimetres and her intestines are 4 body lengths. Whose intestines are longer, and by how many metres?",
-      "answer": "The rabbit's, by 2 metres.",
-      "explain": "The rabbit: 10 × 40 = 400 centimetres, which is 4 metres. The cat: 4 × 50 = 200 centimetres, which is 2 metres. And 4 - 2 = 2 metres more for the rabbit, who is the smaller animal.",
+      "problem": "In The Gut Ladder, a rabbit of about 3 kilograms has intestines about 340 centimetres long. A cat of about 2.5 kilograms has intestines about 140 centimetres long. Whose intestines are longer, and by how many metres?",
+      "answer": "The rabbit's, by about 2 metres.",
+      "explain": "The rabbit: 340 centimetres is 3.4 metres. The cat: 140 centimetres is 1.4 metres. And 3.4 - 1.4 = 2 metres more for the rabbit, who weighs only a little more than the cat.",
       "math_unit": "math.measurement-basics.scale-models.L5",
       "how": "a3",
-      "context": "In The Gut Ladder, you cut strips to show how many body lengths long each gut is.",
-      "why_maths": "A rabbit is smaller than a cat, yet her gut is longer. Working it out shows that diet, not size, sets the length."
+      "context": "In The Gut Ladder, you cut strips to show the measured length of each animal's gut.",
+      "why_maths": "The rabbit and the cat weigh about the same, so the difference in length is not just size. Subtracting measured lengths compares them fairly."
     },
     {
       "problem": "The body takes in 9 litres of water and juices a day, and only about 100 millilitres leave the body. About how many litres does the body take back, and what fraction of the 9 litres leaves?",
@@ -3242,9 +3256,9 @@
         "Small pieces have far more outside than one lump."
       ],
       [
-        "A cat's gut is longer than a rabbit's, in body lengths.",
-        false,
-        "A rabbit's gut is about 10 body lengths and a cat's about 4."
+        "A rabbit's intestines are longer than a cat's, though the two weigh about the same.",
+        true,
+        "A rabbit's intestines are about 3.4 metres and a cat's about 1.4 metres, in the measurements used here."
       ],
       [
         "A baby makes plenty of lactase.",
@@ -3380,7 +3394,9 @@
       "Bollinger R. R., Barbas A. S., Bush E. L., Lin S. S., Parker W. (2007). Biofilms in the large bowel suggest an apparent function of the human vermiform appendix. Journal of Theoretical Biology 249: 826-831.",
       "Smith H. F. and others (2013). Multiple independent appearances of the cecal appendix in mammalian evolution and an investigation of related ecological and anatomical factors. Comptes Rendus Palevol 12: 339-354.",
       "Sagan L. (1967). On the origin of mitosing cells. Journal of Theoretical Biology 14: 225-274.",
-      "University of Liverpool, Year 1 MBChB, Lecture 12: Gut Secretion. The daily fluid budget of the gut: about 9 litres in (about 2 drunk and about 7 secreted), about 8.9 absorbed, about 0.1 litre lost in the stool. Other sources give 0.1 to 0.2 litre. https://pcwww.liv.ac.uk/~bjcampbl/"
+      "University of Liverpool, Year 1 MBChB, Lecture 12: Gut Secretion. The daily fluid budget of the gut: about 9 litres in (about 2 drunk and about 7 secreted), about 8.9 absorbed, about 0.1 litre lost in the stool. Other sources give 0.1 to 0.2 litre. https://pcwww.liv.ac.uk/~bjcampbl/",
+      "Duque-Correa M. J., Codron D., Meloro C., McGrosky A., Schiffmann C., Edwards M. S., Clauss M. (2021). Mammalian intestinal allometry, phylogeny, trophic level and climate. Proceedings of the Royal Society B 288: 20202888. https://pmc.ncbi.nlm.nih.gov/articles/PMC7893215/ . Data: MammalIntestine_Data.xlsx, 519 species, https://doi.org/10.5061/dryad.z8w9ghxb8. It found the rule that plant-eaters have longer guts weak: body mass links more tightly to small intestine than to large intestine length, and diet has a main effect on the large intestine parts.",
+      "Gut Ladder figures (rounded, from the dataset above; real animals vary). Cat: wild cat Felis silvestris, 2 animals of 2.5 and 2.7 kg, whole intestine 140 and 147 cm, large intestine 22 and 27 cm; McGrosky A. and others (2016), Gross intestinal morphometry and allometry in Carnivora, European Journal of Wildlife Research 62: 395-405. Rabbit: Oryctolagus cuniculus, about 3.2 kg, whole intestine 344 cm (small 195, large 150, caecum 41); average of Snipes R. L., Snipes H. (1997), Quantitative investigation of the intestines in eight species of domestic animals, Journal for mammalian studies 62 (as listed in the dataset references): 359-371, and a wild rabbit of 2.0 kg with 324 cm. Human: average of 206 people, about 66 kg, whole intestine 796 cm (small 636, large 160); Hounnou G. and others (2002), Anatomical study of the length of the human intestine, Surgical and Radiological Anatomy 24: 290-294, and McGrosky A. and others (2019), Gross intestinal morphometry and allometry in primates, American Journal of Primatology 81: e23035; measured in people who had died. Cow: cattle (listed as Bos primigenius), 3 animals averaging 474 kg, whole intestine 5085 cm (small 4073, large 1012); Snipes and Snipes (1997)."
     ]
   },
   "how_we_found_out": {
@@ -3443,5 +3459,5 @@
     ],
     "art": "A cow lying in a green field with a faint inner view of her rumen, where tiny drawn microbes cluster around strands of grass, and a girl beside her holding a bowl of rice."
   },
-  "playtest": "Every experiment, activity, game, project and challenge was reasoned through step by step, as a parent and child would do it in a city flat. None of them has been tried at home yet, so treat the expected results as likely, not certain. The Run Test (core) needs cornflour, a stove, a steel plate and 2 or 3 books. The cooked paste must be cool and as thick as custard. Cup B usually runs far, and the other three stay thick. If nothing runs, the paste was probably still warm. The saliva cups need about a quarter teaspoon of saliva each. Collecting it takes two or three minutes, and the lemon wedge helps. Starch or Fibre (core) needs isabgol husk, or slimy bhindi water. A gel that is too runny gets another half teaspoon of husk. Listen to a Gut needs a quiet room. Counts differ from person to person, and two people are too few to settle the question, as the step says. Mouth Waters (core) is a short activity and its result varies. Whole or Crushed (core) needs kalkandu, or big crystals of ordinary sugar. A whole lump can take 4 minutes or more to vanish, so the step says to stop at 8 minutes. The Gut Ladder needs about 6 metres of newspaper or string. Lock and Key Chains needs card and scissors, and a grown-up cuts the small shapes. The Milk Survey takes three short days and needs ten people willing to answer. Make It Faster needs the paste from the Run Test, and it is open on purpose, since the child chooses what to change. Right Juice, Right Place has 20 cards and a mat of five spaces, so the best score alone is 40. Whose Teeth, Whose Gut? has 12 cards, so the best score alone is 36. Nothing needs a garden or an animal. Take care with the lactose results. A stomach ache that keeps coming back needs a doctor, and the unit says so where it matters. On 17 Nov 2026 the cited papers, the study figures, the history dates, the gut and surface figures and the museum links were checked. Several figures were softened or removed: gut lengths, the rumen size, the number of mammals in the 2013 study, the number of human enzymes, the 32 chews, the Buchner sugar detail, and the unchecked Charaka chapter number. The 9 litres of gut fluid is a rounded textbook figure that was not confirmed. The Gita verse and the passage from the Charaka Samhita are given as paraphrases. The three videos have no address yet."
+  "playtest": "Every experiment, activity, game, project and challenge was reasoned through step by step, as a parent and child would do it in a city flat. None of them has been tried at home yet, so treat the expected results as likely, not certain. The Run Test (core) needs cornflour, a stove, a steel plate and 2 or 3 books. The cooked paste must be cool and as thick as custard. Cup B usually runs far, and the other three stay thick. If nothing runs, the paste was probably still warm. The saliva cups need about a quarter teaspoon of saliva each. Collecting it takes two or three minutes, and the lemon wedge helps. Starch or Fibre (core) needs isabgol husk, or slimy bhindi water. A gel that is too runny gets another half teaspoon of husk. Listen to a Gut needs a quiet room. Counts differ from person to person, and two people are too few to settle the question, as the step says. Mouth Waters (core) is a short activity and its result varies. Whole or Crushed (core) needs kalkandu, or big crystals of ordinary sugar. A whole lump can take 4 minutes or more to vanish, so the step says to stop at 8 minutes. The Gut Ladder needs about 7 metres of newspaper or string. Lock and Key Chains needs card and scissors, and a grown-up cuts the small shapes. The Milk Survey takes three short days and needs ten people willing to answer. Make It Faster needs the paste from the Run Test, and it is open on purpose, since the child chooses what to change. Right Juice, Right Place has 20 cards and a mat of five spaces, so the best score alone is 40. Whose Teeth, Whose Gut? has 12 cards, so the best score alone is 36. Nothing needs a garden or an animal. Take care with the lactose results. A stomach ache that keeps coming back needs a doctor, and the unit says so where it matters. On 17 Nov 2026 the cited papers, the study figures, the history dates, the gut and surface figures and the museum links were checked. Several figures were softened or removed: gut lengths, the rumen size, the number of mammals in the 2013 study, the number of human enzymes, the 32 chews, the Buchner sugar detail, and the unchecked Charaka chapter number. The 9 litres of gut fluid is a rounded textbook figure that was not confirmed. The Gita verse and the passage from the Charaka Samhita are given as paraphrases. The three videos have no address yet."
 }

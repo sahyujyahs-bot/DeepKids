@@ -200,7 +200,7 @@
    "concept": "Do other animals feel a beat?",
    "status": "debated",
    "context": "This card is about whether only humans move in time to music.",
-   "description": "Humans and many other animals make sounds in rhythms, and frogs call in turns. Moving in time to music is rarer. In 2009, scientists filmed a cockatoo called Snowball bobbing his head and lifting his feet in time with a song. When the song was played faster or slower, Snowball often changed his speed to match. Scientists still argue about which animals can do this, and why.",
+   "description": "Humans and many other animals make sounds in rhythms, and frogs call in turns. Moving in time to music is rarer. In 2009, scientists, including his owner Irena Schulz, filmed a cockatoo called Snowball bobbing his head and lifting his feet in time with a song. When the song was played faster or slower, Snowball often changed his speed to match. Scientists still argue about which animals can do this, and why.",
    "examples": [
     "Snowball, a cockatoo, dancing to a pop song.",
     "Ronan, a sea lion, bobbing her head to the beat.",
@@ -208,11 +208,11 @@
    ],
    "perspectives": [
     {
-     "who": "Aniruddh Patel and his team",
+     "who": "Aniruddh Patel, Irena Schulz and their team",
      "explanation": "They studied Snowball. They think animals that learn new sounds by copying, like parrots and humans, are the ones who can feel a beat and move to it."
     },
     {
-     "who": "Peter Cook and his team",
+     "who": "Peter Cook, Colleen Reichmuth and their team",
      "explanation": "They trained Ronan, a sea lion. Sea lions are not known to copy sounds, yet she learned to bob her head to the beat. So they think many more animals may be able to feel a beat."
     },
     {
@@ -2308,8 +2308,8 @@
   "science": [
    "Pitch and frequency, and the lower natural frequencies of larger plates, boxes, bells and air cavities of the same material and shape: any school acoustics text, for example Thomas Rossing, The Science of Sound.",
    "Air-column resonance in a bottle (a Helmholtz resonator): less air gives a higher note.",
-   "Patel, Iversen, Bregman and Schulz, 'Experimental evidence for synchronization to a musical beat in a nonhuman animal', Current Biology, 2009 (Snowball the cockatoo). Keehn, Iversen, Schulz and Patel, Current Biology, 2019 (Snowball's many dance moves).",
-   "Cook, Rouse, Wilson and Reichmuth, 'A California sea lion (Zalophus californianus) can keep the beat', Journal of Comparative Psychology, 2013 (Ronan).",
+   "Patel, Iversen, Bregman and Schulz, 'Experimental evidence for synchronization to a musical beat in a nonhuman animal', Current Biology, 2009 (Snowball the cockatoo; Irena Schulz, Snowball's owner, was a co-author). Keehn, Iversen, Schulz and Patel, Current Biology, 2019 (Snowball's many dance moves).",
+   "Cook, Rouse, Wilson and Reichmuth, 'A California sea lion (Zalophus californianus) can keep the beat', Journal of Comparative Psychology, 2013 (Ronan; Peter Cook, Andrew Rouse, Margaret Wilson and Colleen Reichmuth).",
    "Appel and Cocroft, 'Plants respond to leaf vibrations caused by insect herbivore chewing', Oecologia, 2014.",
    "Savage, Brown, Sakai and Currie, 'Statistical universals reveal the structures and functions of human music', PNAS, 2015 (a steady beat in most of the world's music).",
    "Mehr, Singh and others, 'Universality and diversity in human song', Science, 2019, and Mehr, Singh, York, Glowacki and Krasnow, 'Form and function in human song', Current Biology, 2018 (lullabies tend to be slow and soft).",

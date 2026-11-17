@@ -248,7 +248,7 @@
     {
       "concept": "The dress: the same photo, different colours",
       "status": "debated",
-      "description": "In February 2015, a photo of a dress spread across the world. Some people saw it as blue and black. Others saw it as white and gold. The photo itself had one set of colours, so the different answers had to come from the people. Scientists think that the brain tries to remove the colour of the light to find the true colour of the cloth, and that it is not sure what light the dress is in. If the brain assumes the dress is in bluish shade, it removes blue and sees white and gold. If it assumes the dress is in yellowish lamp light, it removes yellow and sees blue and black. Scientists disagree about why people assume different light. One study found that people who are awake early and spend more time in daylight saw it differently from people who stay up late. Others have not found the same, so the idea is not settled.",
+      "description": "In February 2015, a photo of a dress spread across the world. Some people saw it as blue and black. Others saw it as white and gold. In 2015, Rosa Lafer-Sousa, Katherine Hermann and Bevil Conway tested over a thousand people with it, and showed that the split was real. The photo itself had one set of colours, so the different answers had to come from the people. Scientists think that the brain tries to remove the colour of the light to find the true colour of the cloth, and that it is not sure what light the dress is in. If the brain assumes the dress is in bluish shade, it removes blue and sees white and gold. If it assumes the dress is in yellowish lamp light, it removes yellow and sees blue and black. Scientists disagree about why people assume different light. One study found that people who are awake early and spend more time in daylight saw it differently from people who stay up late. Others have not found the same, so the idea is not settled.",
       "examples": [
         "A white cloth looks white in the shade, though the shade is bluish.",
         "A friend says a shirt is green, and you say it is blue.",
@@ -1753,7 +1753,7 @@
           "do": "Write a common word on a card. Ask your child to guess what will happen to the word if they say it thirty times, and why. Then ask your child to say it aloud thirty times, as fast as they can, while looking at the card. Count with tally marks. Ask what happened to the word.",
           "say": "Say this word thirty times, as fast as you can. Before you start, what do you think will happen to the word? Why?",
           "kid": "Say the word 30 times, fast. What happens to it?",
-          "parent": "Many people say the word starts to sound strange, like a collection of sounds, and that the meaning slips away. Some feel nothing. Both are results. The effect is called semantic satiation, and scientists still discuss how strong it is.",
+          "parent": "Many people say the word starts to sound strange, like a collection of sounds, and that the meaning slips away. Some feel nothing. Both are results. The effect is called semantic satiation. Elizabeth Severance and Margaret Floy Washburn wrote the first study of it in 1907. Scientists still discuss how strong it is.",
           "context": "This is the first step of Say It Thirty Times. Your child says a word again and again."
         },
         {
@@ -3401,9 +3401,9 @@
       "Kanwisher, McDermott and Chun, 'The fusiform face area', Journal of Neuroscience, 1997",
       "Cott, Adaptive Coloration in Animals, 1940, and Cuthill and others, 'Disruptive coloration and background pattern matching', Nature, 2005",
       "Jakob von Uexkull, Streifzuge durch die Umwelten von Tieren und Menschen, 1934",
-      "Lafer-Sousa, Hermann and Conway, 'Striking individual differences in color perception uncovered by the dress photograph', Current Biology, 2015",
+      "Rosa Lafer-Sousa, Katherine Hermann and Bevil Conway, 'Striking individual differences in color perception uncovered by the dress photograph', Current Biology, 2015",
       "John Locke, An Essay Concerning Human Understanding, 1689, Book 2, chapter 32 (the inverted spectrum)",
-      "Severance and Washburn, 'The loss of associative power in words after long fixation of attention', American Journal of Psychology, 1907",
+      "Severance and Washburn, 'The loss of associative power in words after long fixation of attention', American Journal of Psychology, 1907 (Elizabeth Severance and Margaret Floy Washburn, generally credited with the first study of this effect)",
       "Ibn al-Haytham, Book of Optics, about 1011 to 1021"
     ]
   },
