@@ -135,7 +135,7 @@
    "context": "This card is about why things held higher have more energy waiting, from a coconut to the water tank on your roof.",
    "status": "defined",
    "definition": "When you lift a thing against the Earth's pull, called gravity, you store energy. The higher and heavier the thing, the more energy is stored. It comes out as movement when the thing falls.",
-   "description": "Gravity is the pull of the Earth on everything. To lift a water bottle onto a high shelf, your arm works against gravity, and that work is stored. If the bottle falls, the stored energy turns into movement, and it lands with a thud. A bottle on a higher shelf would land harder, because more energy was stored. This is why many buildings in Indian cities have a water tank on the roof. A motor pumps water up into the tank once or twice a day. Then the water stays there, high up, with energy waiting. When anyone opens a tap, the water rushes down the pipes by itself. Taps on the ground floor usually flow harder than taps on the top floor, because the water reaching them has fallen further. Scientists say the stored energy belongs to the bottle and the Earth together, because the Earth's pull is what makes the fall.",
+   "description": "Gravity is the pull of the Earth on everything. To lift a water bottle onto a high shelf, your arm works against gravity, and that work is stored. If the bottle falls, the stored energy turns into movement, and it lands with a thud. A bottle on a higher shelf would land harder, because more energy was stored. This is why many buildings in Indian cities have a water tank on the roof. A motor pumps water up into the tank once or twice a day. Then the water stays there, high up, with energy waiting. When anyone opens a tap, the water rushes down the pipes by itself. Taps on the ground floor usually flow harder than taps on the top floor, because the water reaching them has fallen further. Scientists say the stored energy belongs to the bottle and the Earth together. It comes from the pull between them, and that pull is what makes the bottle fall.",
    "examples": [
     "Hydroelectric power stations, such as the one at the Mettur dam on the Kaveri river or the Koyna dam in Maharashtra, let water stored high behind a dam fall through pipes to spin machines that make electricity.",
     "A child at the top of a slide has stored energy that becomes speed on the way down.",
@@ -309,7 +309,7 @@
   {
    "q": "Where exactly is the energy in a twisted rubber band? In the band, in its tiny particles, or between them?",
    "kind": "deep",
-   "hint": "Think about what changes inside the band when it twists. Nothing is added to it."
+   "hint": "Think about what changes inside the band when it twists. No new material is added to the band. Only its shape changes."
   },
   {
    "q": "The energy in your breakfast was sunlight, caught by a plant. Is part of you made of stored sunlight?",
@@ -322,9 +322,9 @@
    "hint": "Think about what a seed is doing in the packet, and what they need to start growing."
   },
   {
-   "q": "If a still thing can hold energy, how can you tell whether anything is truly at rest?",
+   "q": "A still thing can hold energy that is waiting. So how can you tell whether a still thing has energy stored in it?",
    "kind": "deep",
-   "hint": "Think of the tank on the roof and the coconut on the tree. What would you need to know about them?"
+   "hint": "Think of the tank on the roof and the coconut on the tree. Is it high up? Is it stretched, squashed or twisted? Could it burn, or be eaten?"
   },
   {
    "q": "Coal and petrol are stores of energy from plants and sea creatures that lived millions of years ago. Should we use up stores that took so long to make?",
@@ -634,7 +634,8 @@
       ],
       "a": 1,
       "why": "A store gives back what was put in, so 4 turns gives 4 steps. Waiting does not add energy. A real spring loses only a tiny bit while it waits."
-     }
+     },
+     "parent": "The energy was waiting in the winding. The Winder put it in with each turn, and it stayed there until 'Let go!'. A real wind-up toy keeps its energy in a twisted or coiled spring."
     }
    ],
    "setup": [
@@ -2099,17 +2100,17 @@
      "p": "Two friends in Madurai argue about a ball held high.",
      "views": [
       {
-       "who": "The first person",
+       "who": "The first friend",
        "says": "The stored energy is in the ball. The ball is the thing that falls."
       },
       {
-       "who": "The second person",
+       "who": "The second friend",
        "says": "The stored energy belongs to the ball and the Earth together, because it comes from the pull between them."
       }
      ],
      "ask": "Which friend do you agree with? Give a reason. Then say what the other friend has right.",
      "lines": 5,
-     "a": "A strong answer might agree with the second person: far from the Earth there is no pull, and lifting the ball would store almost nothing, so the Earth matters. Then it says what the first person has right: the ball is the thing that speeds up, so saying the ball has the energy is a handy short way of talking.",
+     "a": "A strong answer might agree with the second friend. Far from the Earth there is no pull, and lifting the ball would store almost nothing, so the Earth matters. Then it says what the first friend has right. The ball is the thing that speeds up, so saying the ball has the energy is a handy short way of talking.",
      "why": "Physicists say the energy belongs to the ball and the Earth together. Most people say it belongs to the ball, which is fine for everyday sums."
     },
     {
@@ -2831,7 +2832,7 @@
  "roots": {
   "context": "We have wound a jar, tested a tired cell and found energy waiting all over the house. Now we ask what a store of energy tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the wait test of the Roll-Back Jar, you wound the jar, held it still for a minute, then let go, and it rolled back. Your push had ended a minute before the rolling began. In between, the energy waited in the twisted band. So a store lets the energy of a push given now come out later, quickly or slowly.",
+   "truth": "In the wait test of the Roll-Back Jar, you wound the jar and held it still for a minute. Then you let go, and it rolled back. Your push had ended a minute before the rolling began. In between, the energy waited in the twisted band. So a store lets energy that you put in now come out later, quickly or slowly.",
    "habit": "We expect a cause and its effect to come together: you push, and the thing moves straight away. With a store, they can be far apart. The cause can end long before the effect begins. In the story, Ammamma wound her clock on Sunday, and it was still ticking on Thursday.",
    "evidence": "In the wait test of the Roll-Back Jar, the jar held still for a minute still rolled back about as far as before. In the story, ten turns of a key kept a clock ticking for eight days."
   },
@@ -2884,7 +2885,7 @@
   },
   "ask": [
    "While you held the wound jar still, was anything happening inside it?",
-   "Ammamma's arm worked on Sunday, and the clock ticked on Thursday. Which day did the ticking really start?",
+   "Ammamma's arm worked on Sunday, and the clock ticked on Thursday. Was the Thursday ticking powered by the Sunday winding? How do you know?",
    "A seed can wait for years. What do you think a seed is doing while they wait?"
   ],
   "art": "A grey heron standing perfectly still on one leg in a shallow pond at dawn, and beside the pond a child standing on one leg in the same pose, holding a clear jar with a twisted rubber band inside."

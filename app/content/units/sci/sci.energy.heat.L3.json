@@ -118,8 +118,8 @@
    "definition": "A clinical thermometer is made for bodies and reads only from about 32 to 42 °C. A laboratory thermometer reads a much wider range, usually from about minus 10 to 110 °C.",
    "description": "A body's temperature changes only a little, so a clinical thermometer has a short range with small, exact steps. Most digital fever thermometers show 'Lo' or 'Hi' outside their range. That is why a fever thermometer cannot measure fridge water or hot tea. A laboratory thermometer is long and has a wide range, so it can measure ice, a room and hot water. But it must never go in the mouth, and it is not made for fevers.",
    "examples": [
-    "A fever thermometer in fridge water shows 'Lo'.",
-    "A laboratory thermometer in the same water might show 8 °C.",
+    "A fever thermometer put into fridge water shows 'Lo', because the water is colder than it can measure.",
+    "A laboratory thermometer put into the same water can measure it, and might show 8 °C.",
     "A glass clinical thermometer has a small kink in its tube, so the line stays put after you take it out."
    ],
    "perspectives": [],
@@ -176,7 +176,7 @@
    "examples": [
     "A drop of hot tea that splashes on your hand stings, but cools in a moment. A cupful would burn.",
     "A big pot of sambar stays hot for much longer than a small bowl of it.",
-    "The sea in Chennai or Kochi warms up and cools down far more slowly than the sand."
+    "The sea at Chennai or Kochi warms up and cools down far more slowly than the sand. There is so much water that it takes a great deal of heat to change its temperature."
    ],
    "perspectives": [],
    "art": "A small katori of hot water with a big ice cube still mostly there, next to a big bucket of warm water where the same ice cube has melted away.",
@@ -190,7 +190,7 @@
    "examples": [
     "After a cold bath, ordinary tap water feels warm.",
     "Coming out of an air-conditioned shop, the street feels even hotter than it is.",
-    "A parent's hand on a child's forehead can tell 'hot' or 'not hot', but not 38.5 or 39.5."
+    "A parent's hand on a child's forehead can tell whether the child feels hot or not. It cannot tell the difference between 38.5 and 39.5 degrees."
    ],
    "perspectives": [],
    "art": "Two hands in the same middle bowl, one with a little blue 'cold?' bubble and one with a little red 'warm?' bubble, and a thermometer in the bowl showing one number.",
@@ -219,8 +219,8 @@
   {
    "claim": "Cold is a thing that flows into warm things, like through an open door.",
    "who": "A very common idea, which some scientists also held in the 1790s",
-   "for": "When you open a door on a winter night, the room feels as if cold is pouring in. In 1790, the scientist Marc-Auguste Pictet put a flask of snow in front of a mirror, and a thermometer across the room fell. It looked as if the snow was sending out cold.",
-   "against": "A thermometer shows heat leaving warm things, never cold arriving. Pierre Prévost explained Pictet's snow: the thermometer gave out more heat than it got back from the snow.",
+   "for": "When you open a door on a winter night, the room feels as if cold is pouring in. In 1790, the scientist Marc-Auguste Pictet put a flask of snow in front of a mirror. The mirror faced a thermometer across the room. The reading on the thermometer fell. It looked as if the snow was sending out cold.",
+   "against": "A thermometer shows heat leaving warm things, never cold arriving. Pierre Prévost explained Pictet's snow. Every warm thing sends out heat, and the thermometer was sending heat towards the snow. The snow sent back less heat than it received, so the thermometer cooled. No cold had to travel.",
    "status": "rejected",
    "context": "This card is about the idea that cold is something that moves."
   },
@@ -266,9 +266,9 @@
    "hint": "Think about what happens when two things touch for a while."
   },
   {
-   "q": "In the Two-Hands Bowl test, your hands and the thermometer said different things about the same water. Which one tells the truth about the world?",
+   "q": "In the Two-Hands Bowl test, your hands gave two answers about the same water, and the thermometer gave one. Which should you trust, and why?",
    "kind": "big",
-   "hint": "Think about what each one is really measuring. Is a feeling of warmth wrong, or is it about something else?"
+   "hint": "Think about what each one is really measuring. A hand feels whether it is gaining or losing heat. A thermometer shows how hot the water is."
   }
  ],
  "story": {
@@ -676,7 +676,7 @@
      "say": "I am making the hot water now, because it can burn. I am filling both tumblers to the same height. Why should they be the same?",
      "kid": "A grown-up pours the hot water. Do not touch that tumbler. Why do we fill both tumblers to the same height?",
      "adult": true,
-     "parent": "Half boiled and half tap water should be about 60 to 65 degrees, which is hot but not scalding. Keep the fan off if you can, or keep it the same all the time, because moving air cools things faster."
+     "parent": "Half boiled and half tap water should be about 60 to 65 degrees, which is hot but not scalding. Keep the fan off if you can. Or keep it the same all the time, because moving air cools things faster. Both tumblers are filled to the same height so that each holds the same amount of water. Then any difference in how they change comes from the starting temperature, not from the amount of water."
     },
     {
      "id": "s4",
@@ -2690,7 +2690,7 @@
   "three": {
    "who_am_i": "Your body is about 37 degrees, warmer than most rooms. So heat leaves you all day long, and the food you eat makes more.",
    "what_is_life": "A lizard on a wall lies in the morning sun to take in heat. Their body is warmed by the world around them.",
-   "what_is_this_world": "Left alone, a hot tumbler, a cold tumbler and a room all end up at one temperature. The Sun keeps making new warm places, and that is why the weather keeps changing."
+   "what_is_this_world": "Left alone, a hot tumbler, a cold tumbler and a room all end up at one temperature. The Sun keeps warming some places more than others. That keeps heat moving, and that is why the weather keeps changing."
   },
   "thread": "In a room where everything is at one temperature, no heat moves. A difference is what makes heat move: a hot stove, a cold drink, a sunny wall. Heat moving makes winds blow, water evaporate and rain fall. So many of the changes in the world start with a difference in temperature, and each change makes that difference smaller.",
   "teachings": [
