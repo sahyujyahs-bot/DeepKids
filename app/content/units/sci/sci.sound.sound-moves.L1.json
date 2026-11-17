@@ -3,7 +3,7 @@
  "title": "Sound travels: how a sound gets from where it is made to your ears",
  "level": 1,
  "summary": {
-  "text": "A grown-up rubs two fingers together. Close by, you hear a soft rustle. Step back a few steps, and the rustle is gone, though the fingers are still rubbing. A sound travels out from its source, through the air, to your ears. It spreads out to every side as it goes, so it gets softer the further it travels. Your child tests how far three sounds can travel in your home, finds that a sound reaches them even from behind and round a corner, and sends their voice one way with a paper cone.",
+  "text": "A grown-up rubs two fingers together. Close by, you hear a soft rustle. Step back a few steps, and the rustle is gone, though the fingers are still rubbing. A sound travels out from its source, through the air, to your ears. It spreads out to every side as it goes, so it gets softer the further it travels. Your child tests how far three sounds can travel in your home. They find that a sound reaches them even from behind and round a corner. Then they send their voice one way with a paper cone.",
   "art": "A grown-up rubbing her fingers beside her ear at one end of a hallway, and a child standing a few steps away with eyes closed, with small sound lines that fade out before they reach her."
  },
  "intro": {
@@ -91,7 +91,7 @@
    "concept": "Sound takes a little time to travel",
    "status": "defined",
    "definition": "A sound does not arrive the moment it is made. It takes a little time to travel. The further away the source, the longer the wait.",
-   "description": "In a thunderstorm, lightning and thunder are made at the same moment. The light of the flash reaches you almost at once. The sound of the thunder travels much more slowly. So you see the flash first, and hear the thunder after. Count slowly after you see a flash. A long count means the storm is far away. A short count means the storm is close.",
+   "description": "In a thunderstorm, lightning and thunder are made at the same moment. The light of the flash reaches you almost at once. The sound of the thunder travels much more slowly. So you see the flash first, and hear the thunder after. Count slowly after you see a flash. A long count means the thunder had a long way to travel, so the storm is far away. A short count means the storm is close.",
    "examples": [
     "Seeing lightning first, then hearing the thunder",
     "Seeing a cricket bat hit a ball across a big ground, then hearing the knock a moment later",
@@ -136,6 +136,7 @@
   },
   {
    "claim": "High sounds travel faster than deep sounds.",
+   "context": "A high sound is thin and sharp, like a whistle. A deep sound is low and heavy, like a big drum. This card asks if a whistle's sound reaches you sooner than a drum's, when both are made far away at the same moment.",
    "who": "Greek writers in Aristotle's school, more than 2,000 years ago, and many people after them",
    "for": "High, sharp sounds can seem to reach us quickly and clearly.",
    "against": "In the 1630s, Pierre Gassendi timed the deep boom of a big gun and the sharp crack of a small gun from far away. Both arrived after the same wait.",
@@ -849,7 +850,7 @@
      "id": "s3",
      "mins": 4,
      "do": "Play the last three cards. The next person whispers each time, so your child whispers too.",
-     "say": "Now you whisper, and I walk. Do you think I will need more steps or fewer than you?",
+     "say": "Now you whisper, and I walk. Let's count how many steps I need before I can hear you. Did I need more steps or fewer than you did?",
      "kid": "Now you whisper. Make it soft!",
      "check": {
       "t": "mcq",
@@ -1817,7 +1818,7 @@
   },
   "ask": [
    "When the finger rub was too far away for you, could someone closer still hear it? Was the sound loud or soft, then?",
-   "One bell rings, and many listeners each hear it a little differently. Which one hears the real sound?",
+   "One bell rings, and one listener hears it louder than another does. Is the bell's sound really different for each listener? Or is it one sound, heard from different places?",
    "Where does a sound go after it has passed you?"
   ],
   "art": "A temple bell ringing in the middle, with rings of sound spreading out to a child close by, a grown-up across a pond, a crow on a roof and a dog far down a lane, each ring a little fainter."

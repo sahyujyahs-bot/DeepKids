@@ -3,7 +3,7 @@
  "title": "Water: where it comes from and what we use it for",
  "level": 1,
  "summary": {
-  "text": "Put dry poha in a little water, and in a few minutes it goes soft. Put the same poha in oil, and it stays hard. Water gets inside things, and oil does not. That is one reason water can do so many jobs: we drink it, cook with it, wash with it, and plants and other animals need it too. Your child tests poha in water and in oil, finds every place water is used at home, and finds out how different animals drink.",
+  "text": "Put dry poha in a little water, and in a few minutes it goes soft. Put the same poha in oil, and it stays hard. Water gets inside things, and oil does not. That is one reason water can do so many jobs: we drink it, cook with it, wash with it, and plants and other animals need it too. Your child tests poha in water and in oil. They find every place water is used at home. They also find out how different animals drink.",
   "art": "Three steel katoris on a kitchen counter: soft swollen poha in water, shiny hard poha in oil, and dry poha, with a child's finger pressing the soft one."
  },
  "intro": {
@@ -158,9 +158,9 @@
    "hint": "Think about what happens when you put a drop of oil on water. Do they mix?"
   },
   {
-   "q": "The water you drink becomes part of you. When does it stop being water and start being you?",
+   "q": "You drink water, and it becomes part of your body. Is the water in your body still the same water that was in the tap?",
    "kind": "big",
-   "hint": "More than half of your body is water. Where did all that water come from?"
+   "hint": "More than half of your body is water. That water came from what you drank and ate. Some of it leaves again when you sweat, breathe out and go to the toilet."
   },
   {
    "q": "A frog drinks through their skin. What would it be like to drink that way?",
@@ -453,10 +453,10 @@
      "kid": "Turn over two cards. Do they go together?",
      "ask": [
       {
-       "q": "Why does a butterfly need a long tube tongue?",
+       "q": "How does a butterfly drink?",
        "good": [
-        "To sip from deep inside a flower.",
-        "To reach drops of water."
+        "With a long tongue like a tube.",
+        "She sips water through her tongue, like a straw."
        ]
       }
      ]
@@ -874,7 +874,7 @@
        ]
       }
      ],
-     "parent": "Most homes get water from a tank, a well, a borewell or a city pipe. All of these are filled by rain in the end."
+     "parent": "Most homes get water from a tank, a well, a borewell or a city pipe. All of these are filled by rain in the end. Most families use the most water for baths, washing clothes and plates, and flushing the toilet. A person drinks only a few tumblers a day."
     }
    ]
   },
@@ -1096,9 +1096,9 @@
      "id": "s3",
      "mins": 5,
      "do": "On day 5, look at the diary together.",
-     "say": "Look at all the days. Who came the most? Why do you think birds need our water bowl in a city?",
+     "say": "Look at all the days. Who came the most? In a city there are few ponds and puddles, so birds can find it hard to get water.",
      "kid": "Look at your diary. Who came the most?",
-     "think": "Where did birds drink before there were buildings here?"
+     "think": "Rain fills ponds, puddles and rivers. Before there were buildings here, where do you think birds drank?"
     }
    ]
   }
@@ -1872,13 +1872,13 @@
   ],
   "other_view": {
    "who": "Many scientists",
-   "view": "Many scientists say water is simply a substance that follows the rules of physics and chemistry. It soaks into poha because its tiny particles stick to the poha. These scientists would not call that giving or helping."
+   "view": "Many scientists say water is simply a substance that follows the rules of physics and chemistry. It soaks into poha because its tiny particles stick to the poha. These scientists would not say that water gives or helps, as the Tao Te Ching says."
   },
   "practice": {
    "title": "Cool breath, warm breath",
    "mins": 3,
-   "say": "Curl your tongue like a tube, if you can, and breathe in slowly through it. Feel the cool air. Now close your mouth and breathe out through your nose onto the back of your hand. Is it warm? Is it a little damp? That damp is water leaving your body. Now take one slow sip from your tumbler. Feel it go down.",
-   "kid": "Curl your tongue like a tube. Breathe in slowly. Feel the cool air. Breathe out onto your hand. Is it damp? Now take one slow sip of water."
+   "say": "Breathe in slowly through your nose. Now breathe out slowly onto the back of your hand. Is it warm? Is it a little damp? That damp is water leaving your body, because you lose some water every time you breathe out. Now take one slow sip from your tumbler. Feel the water go down.",
+   "kid": "Breathe in slowly. Breathe out onto your hand. Is it damp? That is water leaving your body. Now take one slow sip of water."
   },
   "ask": [
    "The water you sip becomes part of you. Was it ever part of a cloud, a river or a plant?",

@@ -3,7 +3,7 @@
  "title": "Where sounds come from, and what makes them loud or soft",
  "level": 1,
  "summary": {
-  "text": "A closed bottle of rice sits on the table in silence. Shake it, and it rattles. Every sound comes from something moving: hands clapping, rain hitting a window, a crow calling, steam rushing out of a pressure cooker. The thing that makes a sound is called its sound source. Your child hunts for sound sources at home, tests which home-made shaker is loudest, and finds that a harder shake or a harder hit makes a louder sound.",
+  "text": "A closed bottle of rice sits on the table in silence. Shake it, and it rattles. Every sound comes from something moving: hands clapping, rain hitting a window, a crow calling, steam rushing out of a pressure cooker. The thing that makes a sound is called its sound source. Your child hunts for sound sources at home and tests which home-made shaker is loudest. They find that a harder shake or a harder hit makes a louder sound.",
   "art": "A girl shaking a plastic bottle half full of chana, with zigzag sound lines around it, and three more bottles lying still and silent on the table beside her."
  },
  "intro": {
@@ -76,7 +76,7 @@
    "concept": "A sound comes from something moving",
    "status": "defined",
    "definition": "Every sound is made by something moving. When it stops moving, its sound stops.",
-   "description": "In the Shaker Test, the bottles were silent while they sat on the table. When you shook them, the chana and the rice hit each other and the sides of the bottle, and you heard a rattle. Your hands make a clap only when they move and meet. Rain makes a sound when the drops hit the window. A crow calls by pushing air out from deep in her chest. Some moving is too small and too fast to see. Inside a phone, a tiny part moves back and forth very fast to make the sound you hear. In Class 3 you will learn the word for this fast shaking: vibrate.",
+   "description": "In the Shaker Test, the bottles were silent while they sat on the table. When you shook them, the chana and the rice hit each other and the sides of the bottle, and you heard a rattle. Your hands make a clap only when they move and meet. Rain makes a sound when the drops hit the window. A crow calls by pushing air out from deep in her chest. Some moving is too small and too fast to see. Inside a phone, a tiny part moves back and forth very fast to make the sound you hear. Scientists say that a thing shaking back and forth this fast is vibrating. You will learn more about vibrating in Class 3.",
    "examples": [
     "Chana hitting the inside of a bottle",
     "Two hands clapping",
@@ -745,8 +745,8 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Play a pattern and ask your child to copy it. Then let them make one for you. Try: clap, clap, stamp. Then soft clap, soft clap, loud stamp.",
-     "say": "Copy me. Clap, clap, stamp. Now soft clap, soft clap, loud stamp. Now you make one for me to copy.",
+     "do": "Play a pattern and ask your child to copy it. Then let them make one for you. Try: clap, clap, stamp. Then soft clap, soft clap, loud stamp. Afterwards ask which parts of their pattern were loud, and what they did to make them loud. The answer is that they moved harder.",
+     "say": "Copy me. Clap, clap, stamp. Now soft clap, soft clap, loud stamp. Now you make one for me to copy. Which parts of yours were loud? What did you do to make them loud?",
      "kid": "Copy the pattern. Now make your own for me to copy."
     }
    ]
@@ -807,7 +807,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Copy each call softly together. Ask how the animal makes that sound.",
+     "do": "Copy each call softly together. Ask how the animal makes that sound. If your child is not sure, tell them that a crow pushes air out from deep in her chest, and that is how she calls.",
      "say": "Let's copy the crow, softly. Caw. How does a crow make that sound?",
      "kid": "Copy the call softly. How does the animal make that sound?",
      "ask": [
@@ -1525,18 +1525,18 @@
     },
     {
      "t": "perspective",
-     "p": "The first person, a girl aged 8, watches rain fall on a window with her mother and her grandfather. They disagree about the sound source.",
+     "p": "A girl aged 8 watches rain fall on a window with her mother and her grandfather. They disagree about the sound source.",
      "views": [
       {
-       "who": "The first person's mother",
+       "who": "The girl's mother",
        "says": "The raindrops are the sound source. They are what is falling."
       },
       {
-       "who": "The first person's grandfather",
+       "who": "The girl's grandfather",
        "says": "The window is the sound source. The glass shakes when the drops hit it."
       },
       {
-       "who": "The first person",
+       "who": "The girl",
        "says": "Both of them. The drops hit, and the glass moves."
       }
      ],
@@ -1935,7 +1935,7 @@
   "practice": {
    "title": "Still hands, moving hands",
    "mins": 3,
-   "say": "Sit comfortably and close your eyes. Hold your hands still in your lap. Can you hear them? Now rub your palms together very slowly. Listen. Now rub them fast. Is the sound louder? Now stop, and hold your hands still again. Listen to the quiet. Where did the sound go?",
+   "say": "Sit comfortably and close your eyes. Hold your hands still in your lap. Can you hear them? Now rub your palms together very slowly. Listen. Now rub them fast. Is the sound louder? Now stop, and hold your hands still again. Listen to the quiet. Did the sound stop by itself, or only when your hands stopped moving?",
    "kid": "Close your eyes. Hold your hands still. Now rub them slowly. Listen. Now rub them fast. Now stop. Listen to the quiet."
   },
   "ask": [
