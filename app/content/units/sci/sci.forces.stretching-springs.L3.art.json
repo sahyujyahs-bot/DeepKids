@@ -47,6 +47,94 @@
  "flow.g1": "media/img/sci.forces.stretching-springs.L3/flow.g1.jpg",
  "flow.p1": "media/img/sci.forces.stretching-springs.L3/flow.p1.jpg",
  "intro": "media/img/sci.forces.stretching-springs.L3/intro.jpg",
+ "setup.a1.0": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.a1.0.jpg",
+  "drawn": true
+ },
+ "setup.a1.2": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.a1.2.jpg",
+  "drawn": true
+ },
+ "setup.a2.0": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.a2.0.jpg",
+  "drawn": true
+ },
+ "setup.a2.1": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.a2.1.jpg",
+  "drawn": true
+ },
+ "setup.a2.2": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.a2.2.jpg",
+  "drawn": true
+ },
+ "setup.a4.0": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.a4.0.jpg",
+  "drawn": true
+ },
+ "setup.a4.1": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.a4.1.jpg",
+  "drawn": true
+ },
+ "setup.a4.2": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.a4.2.jpg",
+  "drawn": true
+ },
+ "setup.a5.0": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.a5.0.jpg",
+  "drawn": true
+ },
+ "setup.a5.1": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.a5.1.jpg",
+  "drawn": true
+ },
+ "setup.a5.2": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.a5.2.jpg",
+  "drawn": true
+ },
+ "setup.a6.0": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.a6.0.jpg",
+  "drawn": true
+ },
+ "setup.a6.1": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.a6.1.jpg",
+  "drawn": true
+ },
+ "setup.a6.2": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.a6.2.jpg",
+  "drawn": true
+ },
+ "setup.c1.0": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.c1.0.jpg",
+  "drawn": true
+ },
+ "setup.c1.1": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.c1.1.jpg",
+  "drawn": true
+ },
+ "setup.c1.2": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.c1.2.jpg",
+  "drawn": true
+ },
+ "setup.c1.3": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.c1.3.jpg",
+  "drawn": true
+ },
+ "setup.c2.0": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.c2.0.jpg",
+  "drawn": true
+ },
+ "setup.c2.1": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.c2.1.jpg",
+  "drawn": true
+ },
+ "setup.c2.2": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.c2.2.jpg",
+  "drawn": true
+ },
+ "setup.c2.3": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.c2.3.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.forces.stretching-springs.L3/setup.e1.0.jpg",
   "drawn": true
@@ -105,6 +193,34 @@
  },
  "setup.e4.3": {
   "src": "media/img/sci.forces.stretching-springs.L3/setup.e4.3.jpg",
+  "drawn": true
+ },
+ "setup.g1.0": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.g1.0.jpg",
+  "drawn": true
+ },
+ "setup.g1.1": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.g1.1.jpg",
+  "drawn": true
+ },
+ "setup.g1.2": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.g1.2.jpg",
+  "drawn": true
+ },
+ "setup.p1.0": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.p1.0.jpg",
+  "drawn": true
+ },
+ "setup.p1.1": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.p1.1.jpg",
+  "drawn": true
+ },
+ "setup.p1.2": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.p1.2.jpg",
+  "drawn": true
+ },
+ "setup.p1.3": {
+  "src": "media/img/sci.forces.stretching-springs.L3/setup.p1.3.jpg",
   "drawn": true
  },
  "story.0": "media/img/sci.forces.stretching-springs.L3/story.0.jpg",
