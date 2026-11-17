@@ -14478,6 +14478,8 @@ function fxSetup(u, x, small) {
   if (!L.length) return "";
   return `<div class="fxsetup${small ? " small" : ""}">${small ? `<p class="fxsm"><b>See how it's done:</b> ${esc(x.title)}</p>` : `<p class="fxeb">How it's done</p>`}<div class="fxsetrow">${L.map((st, i) => `<figure>${st.scene ? fxScene(st) : fxImg(u, `setup.${x.id}.${i}`, st.art || "", "fxsq")}<figcaption>${esc(st.caption || "")}</figcaption></figure>`).join("")}</div></div>`;
 }
+// every step of an activity shows that activity's pictures, so the child sees what to do while doing it
+const fxHasPics = (u, x) => (x.setup || []).some((st, i) => st.scene || u.img?.[`setup.${x.id}.${i}`]);
 const fxHow = (u, o) => {
   if (o?.show?.length)
     return fxSetup(u, { setup: o.show, title: "", id: "show" }, true).replace(
@@ -14589,7 +14591,7 @@ function fxFlowCards(u, kind, x) {
       kind,
       step: s,
       html: `<div class="fxtxt fxstep"><span class="fxeb">${FXE[kind]} ${esc(x.title)} · step ${i + 1} of ${n} · ${s.mins} min</span>
-    ${fxHow(u, s)}${s.adult ? `<p class="fxadult">🧑 A grown-up needs to be here for this step.</p>` : ""}
+    ${fxHow(u, s) || (fxHasPics(u, x) ? fxSetup(u, x, true) : "")}${s.adult ? `<p class="fxadult">🧑 A grown-up needs to be here for this step.</p>` : ""}
     <p class="fxkid">${esc(s.kid)}</p>${fxChart(s.chart)}
     ${s.check ? fxMcq(u, `chk.${x.id}.${s.id}`, s.check.q, s.check.options, s.check.a, s.check.why || "", s.check) : ""}${s.wait ? `<p class="fxsm">⏳ ${esc(s.wait)}: DeepKids brings this back on the right day.</p>` : ""}
     ${s.think ? `<p class="fxthink">🤔 ${esc(s.think)}</p>` : ""}<button class="fxb fxdone" data-fx="done" data-key="step.${x.id}.${s.id}">✓ Done</button></div>`,
@@ -14832,7 +14834,7 @@ function fxCards(u) {
         u.challenging.forEach((c, i) =>
           add(
             "chal." + i,
-            `${fxImg(u, "chal." + i, "")}<div class="fxtxt"><span class="fxeb">⚖️ Is this true?</span><h2>“${esc(c.claim)}”</h2><p class="fxsm">Said by: ${esc(c.who)}</p><p class="fxsm">What do you think?</p><div class="fxrow"><button class="fxb" data-fx="vote">I agree</button><button class="fxb" data-fx="vote">Not sure</button><button class="fxb" data-fx="vote">I disagree</button></div><div class="fxreveal" hidden><div class="fxvoice"><b>For</b><p>${esc(c.for)}</p></div><div class="fxvoice"><b>Against</b><p>${esc(c.against)}</p></div><p class="fxbadge">Most scientists today: ${{ accepted: "accepted", debated: "still debated", minority: "a minority view", rejected: "not true" }[c.status]}</p></div></div>`,
+            `${fxImg(u, "chal." + i, "")}<div class="fxtxt"><span class="fxeb">⚖️ Is this true?</span><h2>“${esc(c.claim)}”</h2>${c.context ? `<p>${esc(c.context)}</p>` : ""}<p class="fxsm">Said by: ${esc(c.who)}</p><p class="fxsm">What do you think?</p><div class="fxrow"><button class="fxb" data-fx="vote">I agree</button><button class="fxb" data-fx="vote">Not sure</button><button class="fxb" data-fx="vote">I disagree</button></div><div class="fxreveal" hidden><div class="fxvoice"><b>For</b><p>${esc(c.for)}</p></div><div class="fxvoice"><b>Against</b><p>${esc(c.against)}</p></div><p class="fxbadge">Most scientists today: ${{ accepted: "accepted", debated: "still debated", minority: "a minority view", rejected: "not true" }[c.status]}</p></div></div>`,
             c.claim,
           ),
         );
