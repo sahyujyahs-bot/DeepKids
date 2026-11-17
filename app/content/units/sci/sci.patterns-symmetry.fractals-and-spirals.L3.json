@@ -279,7 +279,7 @@
    "for": "Most counted sunflowers, pineapples and pine cones do show Fibonacci numbers.",
    "against": "In a 2016 study of 657 sunflowers, some heads had numbers that were not Fibonacci numbers, and some had no neat spirals. Tulsi and mint grow leaves in opposite pairs, with no Fibonacci spirals at all.",
    "status": "rejected",
-   "context": "This card is about a popular claim that all plants follow the Fibonacci numbers."
+   "context": "This card is about a popular claim that all plants follow the Fibonacci numbers. The Fibonacci numbers are 1, 1, 2, 3, 5, 8, 13 and so on, where each number is the two before it added together. Many pineapples have 8 spirals one way and 13 the other."
   },
   {
    "claim": "The nautilus shell is a perfect golden spiral.",
@@ -287,7 +287,7 @@
    "for": "A nautilus shell is a beautiful, even spiral, and it grows by the same rule all its life.",
    "against": "When scientists measure real nautilus shells, they widen more slowly than a golden spiral would. The shell is a spiral of the same family, but not the golden one.",
    "status": "rejected",
-   "context": "This card is about the claim that the nautilus shell is a perfect golden spiral."
+   "context": "This card is about the claim that the nautilus shell is a perfect golden spiral. A golden spiral is a spiral that gets wider by the same amount, about 1.6 times, with every quarter turn."
   },
   {
    "claim": "Fractals are only a mathematician's game and are not really in nature.",
@@ -861,7 +861,8 @@
      "art": "The same pineapple with the rows going up to the left traced in blue.",
      "caption": "3. Count the rows going the other way too."
     }
-   ]
+   ],
+   "problem": "A pineapple's scales sit in spiral rows that wind both ways. In this experiment you count the rows going each way. Then you check whether your counts are Fibonacci numbers, where each number is the two before it added together."
   }
  ],
  "activities": [
@@ -1093,7 +1094,8 @@
      "art": "A hand peeling the top sheet off from one corner, leaving a blue tree-like branching pattern.",
      "caption": "2. Pull them apart. Look at the branches."
     }
-   ]
+   ],
+   "problem": "Trees, lightning and snowflakes all have branches inside branches, and nobody draws them. In this activity you make branches with paint pulled apart between two sheets. You find out what makes a shape grow arms that split again and again."
   },
   {
    "id": "a4",
@@ -1222,7 +1224,8 @@
      "art": "The same squares with a curve drawn corner to corner through them, winding out like a shell.",
      "caption": "2. Draw one curve through all the squares."
     }
-   ]
+   ],
+   "problem": "The Fibonacci numbers are 1, 1, 2, 3, 5, 8 and so on, where each number is the two before it added together. In this activity you draw squares with these sides and draw one curve through them. Then you compare the curve with a snail shell."
   },
   {
    "id": "a6",
@@ -1262,10 +1265,10 @@
      "kid": "Sort your finds. Which did people make? Which grew by themselves?",
      "ask": [
       {
-       "q": "Which spiral surprised you most?",
+       "q": "Which of the spirals you found grew by themselves, and which did people make?",
        "good": [
-        "The hair on my head.",
-        "My fingerprint."
+        "The swirl of hair, the fingerprint and the shankha grew by themselves.",
+        "The murukku, the jalebi and the mosquito coil were made by people."
        ]
       }
      ]
@@ -1347,7 +1350,8 @@
      "do": "On day 3, draw a third thing. Then compare all three pages.",
      "say": "Which thing stayed self-similar for the most zooms? Why might that be?",
      "kid": "Draw one more. Which of your three stayed the same for the most zooms?",
-     "wait": "Come back tomorrow."
+     "wait": "Come back tomorrow.",
+     "parent": "Things that grow by branching, such as broccoli, a fern or a tree, usually stay similar for more zooms than smooth things. Accept any reason that comes from what your child saw."
     }
    ],
    "setup": [
@@ -2397,7 +2401,7 @@
   "If you broke a twig off a tree, what would the twig look like?",
   "How long do you think our road is? Would an ant say the same?",
   "Can you find a spiral in this room?",
-  "Why do you think the snail's shell curls one way and not the other?",
+  "Why does a snail's shell get wider towards the opening?",
   "If you zoom in on your hand, what patterns do you see?",
   "Which do you think is bendier, the coast of Gujarat or of Kerala?",
   "Where in your body do things branch?"
@@ -2698,7 +2702,7 @@
   "practice": {
    "title": "Zoom in, zoom out",
    "mins": 3,
-   "say": "Hold out your hand and look at the whole of it. Now look closely at one finger. Now look at the lines on one fingertip. Breathe in slowly while you look closer. Breathe out slowly while you look back at the whole hand. Let's do that three times. Which of those was your hand?",
+   "say": "Hold out your hand and look at the whole of it. Now look closely at one finger. Now look at the lines on one fingertip. Breathe in slowly while you look closer. Breathe out slowly while you look back at the whole hand. Let's do that three times. Then tell me: when you looked at only a finger, were you still looking at your hand? What about only a fingertip?",
    "kid": "Look at your whole hand. Now one finger. Now the lines on one fingertip. Breathe in as you look closer. Breathe out as you look at the whole hand. Do it three times."
   },
   "ask": [
