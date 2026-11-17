@@ -3,7 +3,7 @@
 
 **Summary.** Pull a toy cart with a small bag of water, and it creeps. Pull it with a bag four times as heavy, and it shoots across the table. Now put a full bottle on the cart, and the same pull moves it much more slowly. A bigger force changes motion more. A bigger mass changes it less. Isaac Newton wrote this as his second law of motion in 1687. It explains why a loaded lorry needs a longer road to stop than a cycle, why a hammer and a feather fall together where there is no air, why you pull your hands back to catch a ball, and why a rocket speeds up faster as it burns its fuel. Scientists still test the law in far-off galaxies, and they still argue about what a force really is.
 
-**Intro.** *Give a toy cart one small tug, and it rolls a little way. Give it a tug four times as big, and it zooms. Now strap a full water bottle on the cart and tug as before. It hardly moves. The cart, the floor and your hand are the same. What made the difference, and can you work out how much?* The size of the tug changed how quickly the cart's motion changed. The load changed it too, in the opposite way. In this unit you measure both with a cart pulled by a hanging bag of water. Then you find the rule Isaac Newton wrote in 1687, called his second law of motion. You use it to see why a heavy lorry needs a long road to stop, why a feather and a hammer fall together on the Moon, why soft hands catch a ball gently, and why a rocket speeds up faster as it gets lighter.
+**Intro.** *Give a toy cart one small tug, and it rolls a little way. Give it a tug four times as big, and it zooms. Now strap a full water bottle on the cart and tug as before. It hardly moves. The cart, the floor and your hand are the same. What made the difference, and can you work out how much?* The size of the tug changed how quickly the cart's motion changed. The load changed it too, in the opposite way. In this unit you measure both with a cart pulled by a hanging bag of water. Then you find the rule Isaac Newton wrote in 1687, called his second law of motion. You use it to see why a heavy lorry needs a long road to stop, why a feather and a hammer fall together on the Moon, why pulling your hands back makes a catch gentler, and why a rocket speeds up faster as it gets lighter.
 
 ## Learning outcomes
 0. I can say Newton's second law in my own words: a bigger force changes motion more, and a bigger mass changes it less.
@@ -51,7 +51,7 @@ Speed tells you how far you go each second. Acceleration tells you how much your
 ### A bigger force changes motion more · *defined*
 **Definition:** When the mass stays the same, a net force that is twice as big gives twice the acceleration.
 
-Imagine a cart that gains 1 metre per second every second when the bag pulls with 2 newtons. With a pull of 4 newtons, the same cart gains 2 metres per second every second. Because the cart speeds up faster, it covers a set distance in less time. But the time does not fall to half. Four times the force gives four times the acceleration, and that makes the trip take about half the time. The cart keeps speeding up all the way, so the early part of the trip is slow and the last part is quick. Friction takes some of every pull, so the smallest bag does worst of all.
+Suppose a cart gains 1 metre per second every second when the bag pulls with 2 newtons. With a pull of 4 newtons, the same cart gains 2 metres per second every second. Because the cart speeds up faster, it covers a set distance in less time. But twice the pull does not halve the time. It takes four times the force, which gives four times the acceleration, to make the trip take about half the time. The cart keeps speeding up all the way, so the early part of the trip is slow and the last part is quick. Friction uses up part of every pull. The smallest bag has the least pull to spare, so friction affects it the most.
 - e.g. A bag with 400 millilitres of water pulls the cart faster than one with 100 millilitres.
 - e.g. Two children pulling a cart together make it speed up more than one child.
 - e.g. A strong kick sends a football off faster than a gentle tap.
@@ -59,7 +59,7 @@ Imagine a cart that gains 1 metre per second every second when the bag pulls wit
 **Definition:** When the net force stays the same, a mass that is twice as big gives half the acceleration.
 
 A cart with a mass of 1 kilogram gains 2 metres per second every second when pulled with 2 newtons. A cart with a mass of 2 kilograms, pulled with the same 2 newtons, gains only 1 metre per second every second. Twice the mass means half the acceleration. This is why a full gas cylinder is harder to get moving than an empty one, and why it is harder to stop. Remember that the mass includes everything that moves: the cart, the load, and even the bag of water that hangs from the string.
-- e.g. A full gas cylinder is harder to start than an empty one.
+- e.g. A full gas cylinder is harder to get moving than an empty one.
 - e.g. A school bag full of books is harder to swing round than an empty bag.
 - e.g. A loaded cart takes longer to cross the table than an empty cart when pulled by the same bag.
 ### Putting a number on a force: the newton · *defined*
@@ -79,8 +79,8 @@ A cart pulled with 5 newtons against 5 newtons of friction has a net force of ze
 ### Why a heavy thing and a light thing fall together · *defined*
 **Definition:** Where air does not get in the way, every falling thing gains speed at the same rate, whatever its mass. The Earth pulls harder on a heavier thing, but the heavier thing also needs a bigger force to speed up in the same way.
 
-The Earth pulls a 1 kilogram bottle with about 10 newtons and a 2 kilogram bottle with about 20 newtons. The second bottle has twice the mass, so it needs twice the force to gain speed at the same rate. And it gets exactly twice the force. So both bottles gain about 10 metres per second every second. A feather falls slowly on Earth only because air resistance pushes up on it. In 1971, the astronaut David Scott of Apollo 15 dropped a hammer and a falcon feather together on the Moon, where there is no air. They landed at the same time. On a ramp, a loaded cart arrives with an empty cart for the same reason.
-- e.g. A book with a sheet of paper lying on top falls together, because the book pushes the air away from the paper.
+The Earth pulls a 1 kilogram bottle with about 10 newtons and a 2 kilogram bottle with about 20 newtons. The second bottle has twice the mass, so it needs twice the force to gain speed at the same rate. And it gets exactly twice the force. So both bottles gain about 10 metres per second every second. A feather falls slowly on Earth only because air resistance pushes up on it. In 1971, the astronaut David Scott of Apollo 15 dropped a hammer and a falcon feather together on the Moon, where there is no air. They landed at the same time. On a ramp, a loaded cart and an empty cart reach the bottom together for the same reason.
+- e.g. A book and a sheet of paper lying on top of it fall together, because the book pushes the air out of the paper's way.
 - e.g. A hammer and a feather dropped on the Moon in 1971 landed together.
 - e.g. A loaded cart and an empty cart reach the bottom of a smooth ramp at about the same time.
 ### Why heavy vehicles need longer to stop · *defined*
@@ -94,13 +94,13 @@ A cycle with two riders is harder to stop than the same cycle with one rider, wh
 **Definition:** To stop a moving thing, the force you need depends on how quickly you stop it. If you take longer to stop it, the force is smaller.
 
 A fielder catching a fast cricket ball pulls their hands back as the ball arrives. The ball still goes from a high speed to zero. But it takes a bit longer to stop, so the force on the hands is smaller and the catch stings less. If you take 5 times as long to stop the ball, the average force is about 5 times smaller. The same idea is used in a cycle helmet with foam that squashes, in a seatbelt that stretches a little, in the crumple zone at the front of a car, and in bending your knees when you land from a jump.
-- e.g. A fielder pulls the hands back while catching a fast ball.
+- e.g. A fielder pulls their hands back while catching a fast ball.
 - e.g. Bending the knees when you land from a jump makes the stop longer and the force smaller.
 - e.g. A helmet's foam squashes slowly, which stops the head more gently than a hard shell alone.
 ### A rocket speeds up faster as it gets lighter · *defined*
 **Definition:** A rocket's engines give a push that stays about the same while the rocket burns fuel. As the fuel burns, the mass falls, so the same push gives more acceleration.
 
-Most of the mass of a rocket on the launch pad is fuel. When ISRO's rockets lift off from Sriharikota, the engines push up harder than the Earth pulls down, so the net force is upwards. As the fuel burns, the rocket gets lighter, so the same push changes its speed more and more every second. Parts that are not needed any more, called stages, are dropped, and that makes the rocket lighter still. This is the second law working in the opposite direction from the loaded cart: less mass, more change.
+Most of the mass of a rocket on the launch pad is fuel. When ISRO's rockets lift off from Sriharikota, the engines push up harder than the Earth pulls down, so the net force is upwards. As the fuel burns, the rocket gets lighter, so the same push changes its speed more and more every second. Parts that are not needed any more, called stages, are dropped, and that makes the rocket lighter still. This is the opposite of loading a cart. Less mass means the same push changes the speed more.
 - e.g. A rocket speeds up faster and faster as its fuel burns.
 - e.g. A rocket drops empty stages so that the rest speeds up more.
 - e.g. A cart that sheds a heavy bottle speeds up more with the same pull.
@@ -110,7 +110,7 @@ Newton's second law passes every everyday test. Spacecraft are steered with it, 
 - e.g. Particle accelerators show that pushes near the speed of light change motion less and less.
 - **Isaac Newton:** Newton wrote that mass is the quantity of matter in a thing, and that a force is what changes a thing's motion. The law is then a discovery about how the two connect.
 - **Ernst Mach, an Austrian scientist, in 1883:** Mach pointed out that the law can also be read as a way of defining mass and force. To measure either one, you seem to need the other. He asked how we could measure a mass without using force, and the question is still discussed.
-- **Albert Einstein, in 1905:** Einstein showed that near the speed of light, the same push changes a thing's speed less and less. Newton's sum is an excellent rule for everyday speeds, and a part of a larger theory.
+- **Albert Einstein, in 1905:** Einstein showed that near the speed of light, the same push changes a thing's speed less and less. Newton's sum is an excellent rule for everyday speeds, and it is one part of a larger theory.
 - **Mordehai Milgrom, an Israeli physicist, in 1983, and a minority of physicists since:** Milgrom suggested that the law may change for extremely faint pulls, such as at the edges of galaxies. Most astronomers instead think unseen dark matter explains what they see there. The question is not settled.
 
 ## Mostly agreed
@@ -148,33 +148,33 @@ Newton's second law passes every everyday test. Spacecraft are steered with it, 
 ## Roots
 We have measured how a pull and a load change the motion of a cart. Now we ask what that says about every push, and about us.
 
-**Deep truth.** When the bag pulled the cart, the cart pulled the bag back just as hard. So the cart sped up, and the bag fell much more slowly than a free bag. Both changed. Mass only decides how the change is shared.  
+**Deep truth.** In the Hanging Bag Cart experiment, the thread joined the bag and the cart. The bag pulled the cart forward, and the cart pulled the bag back just as hard. So the cart sped up, and the bag fell much more slowly than a bag dropped on its own. A force changes both of the things it acts between. Their masses decide how much each one changes.  
 *Habit it breaks:* We say 'the pull moved the cart', as if one thing does the acting and the other is only moved. A force always acts between two things, so both change. We forget the heavy one because it changes so little.  
-*Evidence:* In the hanging bag test, the bag took a second or more to reach the floor, but a bag let go on its own lands in less than half a second. The cart was holding the bag back. If your numbers differ, write them down as they are.
+*Evidence:* In the Hanging Bag Cart experiment, the bag took a second or more to reach the floor when it was pulling the cart. A bag dropped on its own lands in less than half a second. The cart was holding the bag back. If your numbers differ, write them down as they are.
 
-- *who am i:* When you jump, you push the Earth down and the Earth pushes you up. You and the Earth both change your motion. You change a lot. The Earth changes by an amount too tiny to see.
+- *who am i:* A push always works between two things. When you jump, you push the Earth down, and the Earth pushes you up with the same size of force. You and the Earth both change your motion. You change a lot. The Earth changes by an amount too tiny to see.
 - *what is life:* A crow pushes air down to rise. A fish pushes water back to move forward. A snake pushes the ground behind her to slide ahead. Every living being moves by pushing on something else, and the something else moves too.
 - *what is this world:* A cart, a boat, a rocket and the Moon going round the Earth all follow one rule. How much the motion changes depends on the net force and the mass. The same rule works for a toy and for a planet.
 
-Look at the rule again. A cart, a lorry, a rocket, a falling bottle and the Moon going round the Earth all follow it. When forces cancel, nothing changes. When they do not cancel, the difference decides how much the motion changes. Everything that moves, from a toy to a planet, shares out its changes in the same way, according to its mass.
+A cart, a lorry, a rocket, a falling bottle and the Moon going round the Earth all follow Newton's second law. When the forces on a thing cancel, its motion does not change. When they do not cancel, the net force decides how much the motion changes, and a bigger mass changes less. This is true of everything that moves, from a toy to a planet.
 
 - **Nagarjuna, Mulamadhyamakakarika, chapter 2:** Nagarjuna, an Indian Buddhist teacher of about the 2nd century CE, looked closely at motion. He argued that 'the mover', 'the moving' and 'the path' cannot be found apart from each other. Each depends on the others. (A cart does not speed up alone. It speeds up because of a pull, and the pull needs something to pull against. The change belongs to both of them together.)
 - **Isaac Newton, letter to Robert Hooke, February 1675 by the old calendar:** Newton wrote, 'If I have seen further, it is by standing on the shoulders of giants.' He meant that his laws were built on the work of earlier people. (The second law stands on the work of Galileo, Descartes, Huygens and others. In France, Emilie du Chatelet then translated and explained Newton's book, so that many more people could use it.)
 - Science (settled): Newton's second law describes the motion of cars, planets and spacecraft with very high accuracy. Near the speed of light, Einstein's theory corrects it.
 - Science (debated): Whether the second law changes for extremely faint pulls, as in the outer parts of galaxies, is still argued about. Most astronomers favour dark matter instead.
 - Other view, Ernst Mach and many physicists after him: A force is not a hidden thing in the world. It is a handy name for 'mass times the change in motion'. On this view, there is no need to ask who is doing the acting. You only need to say how each mass changes.
-- Practice, Soft jumps (3 min): Stand with your feet apart on the floor. Bend your knees a little and jump a tiny jump, then land softly. Feel the floor push you up and push you back as you land. Breathe out slowly each time you land. Do five tiny jumps. Then stand still. Notice that the floor is pushing up on you, even now.
+- Practice, Soft jumps (3 min): Stand with your feet apart on the floor. Bend your knees a little and jump a tiny jump, then land softly. Feel the floor push you up as you jump, and push up on you again as you land. Breathe out slowly each time you land. Do five tiny jumps. Then stand still. Notice that the floor is pushing up on you, even now.
 - Ask: When the bag pulls the cart, which one is 'doing' and which one is 'receiving'? Can you really tell?
 - Ask: When you jump, the Earth moves a tiny bit too. Where does the effect of your jump stop?
 - Ask: Is a force something in the world, or a name we give to the reason for a change?
 
 ## Deep and big questions
 - *deep:* Doubling the mass doubles the Earth's pull on a thing, and it also doubles how hard the thing is to speed up. So everything falls together. Is it luck that these two match, or is there a reason? (hint: Einstein asked this question and it led him to a new idea about gravity. Why would 'how hard the Earth pulls' and 'how hard it is to push' be connected?)
-- *deep:* When the bag pulls the cart, the cart pulls the bag back just as hard. Which one is 'doing' the pulling, and which one is 'being pulled'? (hint: Both of them change their motion. Think about which changes more, and why.)
-- *deep:* When you jump, you push the Earth down and the Earth pushes you up. The Earth moves too. Why can nobody see it? (hint: Think about the Earth's mass compared with yours. What does the second law say about a very big mass?)
-- *deep:* A cyclist at a steady speed has the same push forward as backward, so the net force is zero. Is nothing happening? (hint: Think about the legs, the chain, the air and the road. Is 'no change' the same as 'no activity'?)
+- *deep:* The thread joins the bag and the cart. When the bag pulls the cart, the cart pulls the bag back just as hard. Which one is 'doing' the pulling, and which one is 'being pulled'? (hint: Both of them change their motion. Think about which changes more, and why.)
+- *deep:* A push always works between two things. When you jump, you push the Earth down, and the Earth pushes you up. The Earth moves too. Why can nobody see it? (hint: Think about the Earth's mass compared with yours. What does the second law say about a very big mass?)
+- *deep:* A cyclist at a steady speed is pushed forward and pushed back equally hard, so the net force is zero. Is nothing happening? (hint: Think about the legs, the chain, the air and the road. Is 'no change' the same as 'no activity'?)
 - *deep:* Nobody has ever seen a force. We see a cart speed up, or a spring stretch. Is a force a real thing in the world, or a name we give to the reason for a change? (hint: Think of a spring balance. It shows a number for a force. What did the spring actually do?)
-- *big:* A huge ship takes many kilometres to stop. What other big things in the world take a very long time to change direction, and what makes them so slow to change? (hint: Think of a huge ship, a river, a big crowd or a planet. What do they have a lot of?)
+- *big:* A huge ship takes many kilometres to stop. What other big things in the world take a very long time to change direction, and what makes them so slow to change? (hint: Think of a huge ship, a river, a big crowd or a planet. What do they all have a lot of, that makes them hard to turn or stop?)
 - *big:* A rocket gets lighter and lighter, so the same push speeds it up more and more. Is there anywhere else where losing something makes change easier? (hint: Think of a bag you carry, or a cart that sheds its load.)
 - *big:* Newton's second law is almost right for everyday things, and needs fixing for very fast things. Is a rule that is almost right still true? (hint: Spacecraft reach the planets using Newton's law. Is it more like a map that is accurate enough, or a statement that is exactly true?)
 
@@ -191,9 +191,9 @@ On the beach, twenty people stood round Murugan Uncle's boat. It was big and blu
 
 Amudha had her science stopwatch in her pocket. Her teacher had asked the class to time something that moves, and she had been meaning to time the boats. She pressed the button without thinking. Nine seconds for the boat to creep one step. Then nine again. Then nine.
 
-She thought of the cart at school. She had pulled it with a bag of water, and she remembered what she had written in her book. Bigger pull, the cart speeds up more. More load, it speeds up less. 'Murugan Uncle,' she said, 'there are only two things we can change. The push, or the weight.'
+She thought of the cart at school. She had pulled it with a bag of water, and she remembered what she had written in her book. A bigger pull makes the cart speed up more. More load makes it speed up less. 'Murugan Uncle,' she said, 'there are only two things we can change. The push, or the load.'
 
-'I have no more people,' said Murugan Uncle. 'And the weight is the weight. It is a boat, child.'
+'I have no more people,' said Murugan Uncle. 'And the load is the load. It is a boat, child.'
 
 'Not all of it is boat,' said Amudha. 'The engine is not the boat. The nets are not the boat. The ice box is not the boat. Take them out, and the same people push less weight.'
 
@@ -223,18 +223,18 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 
 ## Games
 ### g1 · Bigger, Smaller or the Same? (20 min)
-- **rules:** One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every card is about the change in speed each second. The question is always how it compares with the other situation on the card.; Every other player picks one token: Bigger, Smaller, The same, or None. None is for a moment when the speed does not change at all.; Everyone puts the token face down. Then everyone turns the tokens over together.; The reader turns the card over and reads the answer. Each right token scores 1 point. A player who also gives the right reason scores 1 more.; Take turns as the reader. A game is 12 cards. If there is time, shuffle and play 12 more.; The player with the most points wins, and ties share the win. Playing alone? Read the front, pick a token, then check the back. Try to beat your last score out of 12.
+- **rules:** One player is the reader. The reader takes the top card and reads the front aloud. The reader does not show the back.; Every card is about the change in speed each second. The question is always how it compares with the other situation on the card.; Every other player picks one token: Bigger, Smaller, The same, or None. None is for a moment when the speed does not change at all.; Everyone puts the token face down. Then everyone turns the tokens over together.; The reader turns the card over and reads the answer. Each right token scores 1 point. A player who also gives the right reason scores 1 more.; Take turns as the reader. A game is 12 cards. If there is time, shuffle and play 12 more.; The player with the most points wins, and ties share the win. If you play alone, read the front, pick a token, then check the back. Try to beat your last score out of 12.
 - **Printable cards: 24 two-sided cards: a moment on the front, and the answer with the reason on the back:** A cart is pulled by a bag of water. Now the net force on the cart is doubled. The cart is the same. (back: Bigger. Twice the net force gives twice the change in speed each second.); A cart is pulled by a bag of water. Now the cart carries a load, so its total mass is doubled. The net force is the same. (back: Smaller. Twice the mass gives half the change in speed each second.); The net force on a cart is tripled, and the cart's mass is tripled too. (back: The same. Three times the force and three times the mass cancel out.); A full gas cylinder and an empty one get the same push. Compare the empty one with the full one. (back: Bigger. The empty cylinder has less mass, so the same push changes its speed more.); A cyclist rides at a steady speed on a flat road. The push from the legs equals the push of friction and the air. (back: None. The forces are balanced, so the net force is zero and the speed does not change.); A bag of water pulls a cart. The water in the bag is doubled. Compare with before. (back: Bigger. A bigger pull is a bigger net force on the same cart.); A big steel ball and a small steel ball fall together where there is no air. Compare the big ball with the small one. (back: The same. The Earth pulls the big ball harder, but the big ball also has more mass. Both gain about 10 metres per second every second.); A hammer and a feather are dropped together on the Moon. Compare the feather with the hammer. (back: The same. There is no air on the Moon, so nothing slows the feather. David Scott showed this in 1971.); A coin and a sheet of paper are dropped together on Earth. Compare the paper with the coin. (back: Smaller. Air pushes up on the paper with a big force compared with its tiny weight.); A rocket burns fuel while its engines push with the same force. Compare the rocket later with the rocket at the start. (back: Bigger. The same push now acts on a smaller mass.); A helicopter hovers in one place. The air pushes it up exactly as hard as the Earth pulls it down. (back: None. The forces are balanced, so its motion does not change.); A football and a heavy stone get the same kick. Compare the stone with the football. (back: Smaller. The stone has far more mass, so the same kick changes its speed less.); A cart is pulled with the same pull on a smooth floor instead of a doormat. Compare the smooth floor with the doormat. (back: Bigger. The smooth floor gives less friction, so more of the pull is left as net force.); A cycle's brakes squeeze with the same force. A second rider climbs on. Compare the slowing each second with one rider. (back: Smaller. More mass is slowed less by the same brake force, so the cycle needs a longer road to stop.); A lorry and a car are braked with the same braking force. Compare the lorry's slowing each second with the car's. (back: Smaller. The lorry has much more mass.); A car brakes with the same force from 40 kilometres an hour as it did from 20 kilometres an hour. Compare the slowing each second. (back: The same. The braking force and the mass are the same. But the stopping distance is about 4 times as long.); A ball tossed straight up reaches the top of its flight. Compare the change in speed each second now with a moment before. Ignore the air. (back: The same. Gravity pulls the ball all the time, so its speed changes by the same amount every second, even at the top.); A skater glides on very smooth ice. Nobody pushes, and friction is almost zero. (back: None, or almost none. With almost no net force, the speed hardly changes.); A trolley is pushed by 10 newtons against 10 newtons of friction. The pusher adds 5 newtons more. Compare with before. (back: Bigger. Before, there was no net force. Now there are 5 newtons of net force.); Two children pull a cart, each as hard as one child pulled before. Compare with one child pulling. (back: Bigger. Two pulls add up to twice the force.); A child jumps off the ground. Compare the change in the Earth's speed with the change in the child's speed. (back: Smaller. The Earth has so much mass that its change is far too small to notice.); A pebble and a big rock roll down the same smooth slope. Compare the rock with the pebble. (back: The same. The slope pulls the rock harder, but the rock also has more mass.); A rickshaw puller pulls a rickshaw with two passengers, then pulls it empty, pulling just as hard. Compare the empty rickshaw with the full one. (back: Bigger. The same pull acts on a smaller mass.); A boat is pushed by 10 people, then by 20 people who each push as hard as before. Compare the two. (back: Bigger. Twice as many pushers give twice the force.)
 - **Printable tokens: 8 tokens: two sets of four, which say Bigger, Smaller, The same and None:** Bigger; Smaller; The same; None; Bigger; Smaller; The same; None
 - **Printable score sheet: Score sheet:** Player name; Right tokens; Bonus points: a reason given; Total
 - **s1 (3 min)**  
-  *Parent does:* Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them face down. Give each player one set of four tokens. Two sets serve three players. A fourth player writes the four words on scraps of paper.  
+  *Parent does:* Cut out the 24 cards and the 8 tokens. Shuffle the cards and put them face down. Give each player one set of four tokens. Two sets are enough for three players, because the reader does not need tokens. A fourth player writes the four words on scraps of paper.  
   *Parent says:* Each card describes a moment. You pick a token to show how the change in speed each second compares. Each player takes four tokens.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take your four tokens.
 - **s2 (3 min)**  
   *Parent does:* Play one practice card together. A bag of water pulls a cart, and then the water in the bag is doubled. Everyone picks a token and turns it over together.  
-  *Parent says:* Practice card. A bag of water pulls a cart. Now the water in the bag is doubled. Pick a token, then turn it over.  
-  *Child mode:* Practice card. The water in the bag is doubled. Pick a token. Turn it over.
+  *Parent says:* This is a practice card. A bag of water pulls a cart. Now the water in the bag is doubled. Pick a token, then turn it over.  
+  *Child mode:* This is a practice card. The water in the bag is doubled. Pick a token. Turn it over.
   - Check: A bag of water pulls a cart. The water in the bag is doubled. How does the change in speed each second compare? → **Bigger, because the net force is bigger**
 - **s3 (5 min)**  
   *Parent does:* Take turns as the reader. Play the first 6 cards. After each card, ask who can say why.  
@@ -244,10 +244,10 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   - Note: Give 1 bonus point for a reason that uses force, mass, balanced forces or air. A guess that sounds like 'because it is heavier' needs a follow-up: heavier than what, and does the pull get bigger too?
 - **s4 (7 min)**  
   *Parent does:* Play the next 6 cards. Then ask the question below.  
-  *Parent says:* Keep going. Read, pick, turn over and check. Which cards made you change your mind?  
+  *Parent says:* Keep playing in the same way. Which cards made you change your mind?  
   *Child mode:* Play six more cards. Which card made you change your mind?
   - Ask: Look at the cards where the answer was 'The same'. What do they have in common? (good: The force and the mass both changed by the same amount.; A heavier thing is pulled harder, but is also harder to speed up.; The pulling force did not change, even if something else did.)
-  - Note: The 'The same' cards are the hardest. They are about falling and sliding, where a bigger mass means a bigger pull and also a bigger mass to move. The two cancel.
+  - Note: The cards with the answer 'The same' are the hardest. They are about falling and sliding, where a bigger mass means a bigger pull from the Earth, and also a bigger mass to move. The two changes cancel each other, so the speed changes by the same amount each second.
 - **s5 (2 min)**  
   *Parent does:* Add up the points. Ask which card was the hardest, and why.  
   *Parent says:* Add up your points. Which card was the hardest? What would you check next time?  
@@ -279,7 +279,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   *Parent says:* First, a test with no cart. Let the bag drop onto the towel. It lands in a blink. Will the bag fall as fast when it is pulling the cart?  
   *Child mode:* Let the bag drop onto the towel. It lands in a blink. Will it fall as fast with the cart?
   - Ask: Do you think the bag will fall as fast when it pulls the cart? Why? (good: No, the cart holds it back.; It will be slower because it has to pull the cart as well.)
-  - Note: A 60 centimetre fall takes about a third of a second, a blink. Remember this: it is the free fall time for the bag. We will come back to it at the end.
+  - Note: A 60 centimetre fall takes about a third of a second, a blink. Remember this time. It is how long the bag takes to fall when nothing holds it back. You will compare it with the bag pulling the cart in the last step.
 - **s4 (10 min)**  
   *Parent does:* Part A. Put 100 millilitres in the bag, and two bottles on the cart. Hold the cart at the start line. Say 'go', let it go, and time it until it hits the book. Do this 3 times. Then repeat with 200 and with 400 millilitres.  
   *Parent says:* Hold the cart at the line. Ready? Go! Time the trip. Do each bag three times, and write down every time.  
@@ -298,7 +298,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   *Child mode:* Say what you found. Say what you saw. Say why you think it happened.
   - Ask: What happened to the time when the bag got heavier? What happened when the cart got heavier? (good: The time got shorter with a heavier bag.; The time got longer with a heavier cart.; More pull changes the speed more, and more mass changes it less.)
   - Note: After your child has said their ideas, tell them: this is Newton's second law. A bigger force changes motion more, and a bigger mass changes it less. The cart also pulls the bag back, which is why the bag falls more slowly than a free bag. If the results were messy, say that scientists see that too, and that is why we do each setting three times.
-  - Think: The bag fell much more slowly than when you dropped it alone. What was the cart doing to the bag?
+  - Think: When the bag pulled the cart, it fell much more slowly than when you dropped it alone. What was the cart doing to the bag?
 ### e2 · The Ramp Surprise: does a heavy cart take longer to roll down? (30 min)
 - **question:** A cart rolls down a ramp. Does the trip take less time when the ramp is steeper? Does it take longer when the cart carries a load?
 - **predict:** Before you start, guess. Will a steeper ramp make the trip quicker, slower or the same? Will a loaded cart take longer, less time or the same time? Why do you think so?
@@ -320,7 +320,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   - Check: Why do we release the cart by letting go and never by pushing? → **A push would add a force that changes from run to run**
 - **s3 (8 min)**  
   *Parent does:* Part A. With no load, time the cart 3 times at 12 centimetres. Then change the height to 6 centimetres and time 3 runs. Then change the height to 24 centimetres and time 3 runs.  
-  *Parent says:* Hold the cart at the line. Ready? Go! Time it to the finish line. Do each height three times and write down every time.  
+  *Parent says:* The Earth pulls the cart down towards the ground. On a ramp, the cart can only move along the slope. So the part of the pull that runs along the slope is what makes it roll. The steeper the ramp, the bigger that part is. Hold the cart at the line. Ready? Go! Time it to the finish line. Do each height three times and write down every time.  
   *Child mode:* Let the cart go. Time it to the finish line. Do three heights, three times each.
   - Note: A steeper ramp should be quicker. Doubling the height does not halve the time. The new time is typically about two thirds of the earlier time, or a little less. With 2 to 4 children: one releases, one times, one records, one guards the bottom of the ramp. Swap after each height, and each child draws their own chart. If the cart does not move at 6 centimetres, the wheels have a lot of friction: use 9, 18 and 36 instead.
   - Check: The cart took less time on the ramp that was 24 centimetres high than on the one 6 centimetres high. Why? → **The steeper ramp gave a bigger pull along the slope**
@@ -332,9 +332,9 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   - Check: The loaded cart took almost the same time as the empty cart on the ramp. What is the best explanation? → **The heavier cart is pulled harder along the slope, and it also has more mass to move**
 - **s5 (4 min)**  
   *Parent does:* Ask your child what surprised them. Then ask the question below. Write the answer under the chart.  
-  *Parent says:* What surprised you? On the table, a heavier cart was slower. On the ramp, it was not. Why do you think that was?  
-  *Child mode:* What surprised you? Heavy was slower on the table. On the ramp it was not. Why?
-  - Ask: On the table, the heavier cart was slower, but on the ramp it was not. What was different? (good: On the table, the bag's pull stayed the same.; On the ramp, the pull came from the Earth, and a heavier cart is pulled harder.; On the ramp, the pull grew with the load.)
+  *Parent says:* What surprised you? In the Hanging Bag Cart test on the table, a heavier cart was slower. On the ramp, it was not. Why do you think that was?  
+  *Child mode:* What surprised you? The heavier cart was slower on the table. On the ramp it was not. Why?
+  - Ask: In the Hanging Bag Cart test on the table, the heavier cart was slower. On the ramp it was not. What was different? (good: On the table, the bag's pull stayed the same.; On the ramp, the pull came from the Earth, and a heavier cart is pulled harder.; On the ramp, the pull grew with the load.)
   - Note: After they have said their ideas: on the table, the pull was the same bag of water, so more load meant more mass and the same pull. On the ramp, the pull is part of the weight of the cart itself, so a heavier cart is pulled harder along the slope. Force and mass grow together, and the speed changes in the same way. That is why a heavy ball and a light ball fall together.
   - Think: A heavy ball and a light ball fall together. How is that like the loaded cart on the ramp?
 
@@ -376,7 +376,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   - Note: Many people say the heavier bottle will land first. Do not correct it. Write down what your child says.
 - **s2 (5 min)**  
   *Parent does:* 1. Hold the book flat at shoulder height over the cushion, with the paper lying on top. 2. Let go. Watch the paper. 3. Drop the paper alone. 4. Crumple the paper into a ball and drop it beside the book.  
-  *Parent says:* Watch the paper when I let go. Does it stay on the book? Now the paper alone. Now the crumpled paper beside the book.  
+  *Parent says:* Watch the paper when I let go. Does it stay on the book? Now I drop the paper alone. Now I drop the crumpled paper beside the book.  
   *Child mode:* Drop the book with the paper on top. Drop the paper alone. Crumple it and drop it again.
   - Note: The flat paper stays on top of the book as they fall, because the book pushes the air out of the way. The paper alone flutters down slowly. The crumpled ball falls almost as fast as the book. If the paper slides off, hold the book flatter and drop it more gently.
   - Check: The same paper fell slowly on its own, but fell quickly when lying on the book. What is the best reason? → **The air pushes up on the flat paper, and the book kept the air away from it**
@@ -404,7 +404,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   *Parent does:* The helper tosses the ball gently from 2 metres. Catch it 3 times with stiff hands that do not move. Then catch it 3 times, pulling your hands back as it arrives. Feel the difference.  
   *Parent says:* First, catch it with stiff hands. Feel the ball hit. Now catch it again, but pull your hands back as it arrives. Which felt softer?  
   *Child mode:* Catch the ball with stiff hands. Then catch it and pull your hands back. Which feels softer?
-  - Note: Use an underarm toss, not hard. The pulled-back catch should feel gentler, though a soft ball may not sting either way. If you feel no difference, move the ball a little faster. Let the catcher give each catch a score from 1 (soft) to 5 (sharp), and compare the averages. With 2 to 4 children: one tosses, one catches, one writes the scores. Swap after each set.
+  - Note: Use an underarm toss, not hard. The pulled-back catch should feel gentler, though a soft ball may not sting either way. If you feel no difference, toss the ball a little faster. Let the catcher give each catch a score from 1 (soft) to 5 (sharp), and compare the averages. With 2 to 4 children: one tosses, one catches, one writes the scores. Swap after each set.
   - Check: Why does pulling your hands back make the catch feel softer? → **The ball takes longer to stop, so the force on your hands is smaller**
 - **s3 (5 min) · grown-up needed**  
   *Parent does:* A grown-up stands beside you. Step down off the low stair with straight legs, and feel the landing. Then step down with your knees bent, and feel the landing. Do each twice.  
@@ -418,7 +418,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   - Ask: What do the fielder's hands and your bent knees have in common? (good: They make the stop take longer.; They give a bit as the force arrives.; They spread the stop over more time.)
   - Note: After your child has answered: stopping the same motion over a longer time needs a smaller force. This is why helmets have foam, cars have crumple zones, and a trampoline is kinder than a concrete floor.
 ### a4 · The Lift Scale: do you weigh more when the lift starts? (20 min)
-- **safety:** A grown-up must come. Use the lift at a quiet time, hold the rail, stand still and do not jump. Do not hold the lift door open. Put the scale flat on the floor away from the door gap, and step on and off it slowly. At home, do the knee-bend near a wall or a grown-up so you cannot fall off the scale.
+- **safety:** A grown-up must come. Use the lift at a quiet time, hold the rail, stand still and do not jump. Do not hold the lift door open. Put the scale flat on the floor away from the door gap, and step on and off it slowly. If you have no lift and do the knee-bend at home instead, stand near a wall or a grown-up so you cannot fall off the scale.
 - **record:** Write the number at rest, the highest number and the lowest number going up, and the same going down. Draw a small picture of the lift with an arrow for the direction.
 - **s1 (5 min)**  
   *Parent does:* Weigh your child at home on the scale. Write down the number. Ask for a guess about the number in the lift, and a reason.  
@@ -428,9 +428,9 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
   - Note: Many people say the number will not change. Do not correct it. Some digital scales are slow to show a change. A dial scale, or filming the scale, makes it easier to see.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* In the lift, place the scale on the floor and stand on it. Hold the rail. A grown-up presses a button to go up. Watch the number as the lift starts, as it moves, and as it stops. Write the highest and lowest numbers.  
-  *Parent says:* Stand still and hold the rail. Watch the number. What does it do as we start? What does it do while we move? What does it do as we stop?  
+  *Parent says:* A bathroom scale shows how hard you press down on it. It also pushes back up on you just as hard. When you stand still, that push is equal to the Earth's pull on you, so the number is your weight. Stand still and hold the rail. Watch the number. What does it do as we start? What does it do while we move? What does it do as we stop?  
   *Child mode:* Stand on the scale. Hold the rail. Watch the number as the lift starts, moves and stops.
-  - Note: Stand still. Moving about makes the number jump. A phone filming the scale lets you play it back slowly. Digital scales can be slow or blink, so a dial scale or a filmed scale works best. You may only see a change of a fraction of a kilogram to about a kilogram or two, so look at the moments the lift starts and stops.
+  - Note: Stand still. Moving about makes the number jump. A phone filming the scale lets you play it back slowly. Digital scales can be slow or blink, so a dial scale or a filmed scale works best. The change may be small, from a fraction of a kilogram to a kilogram or two, so look at the moments the lift starts and stops.
   - Check: The scale showed more than usual just as the lift started going up. What does that tell you? → **The scale pushed up on you with more than your weight, because you were speeding up**
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* Ride the lift down in the same way. Watch the number as the lift starts down, as it moves and as it stops. Write the highest and lowest numbers.  
@@ -451,7 +451,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 - **s1 (4 min)**  
   *Parent does:* Show your child the car, the ramp and the towel. Say that a car let go from four times the height reaches the bottom at about twice the speed. Ask for a guess and a reason.  
   *Parent says:* A car let go from four times as high reaches the bottom at about twice the speed. How much further will it go on the towel before it stops? Twice as far? Four times? Why do you think so?  
-  *Child mode:* Twice the speed. Will the car go twice as far on the towel? Four times? Why?
+  *Child mode:* A car goes twice as fast. Will it go twice as far on the towel before it stops? Four times as far? Why?
   - Ask: If the car goes twice as fast, how much further do you think it will go before it stops? Why? (good: Twice as far, because it is twice as fast.; More than twice as far.; Four times as far.)
   - Note: Do not correct the guess. Most children say twice as far. Write down the guess and the reason.
 - **s2 (10 min)**  
@@ -481,12 +481,12 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 
 ## Challenges
 ### c1 · The Fastest Cargo Cart: carry a bottle across the table in the shortest time (40 min)
-- **problem:** Build a cart from home things that carries one 500 millilitre bottle of water 60 centimetres across a table, pulled by a bag with 100 millilitres of water hanging over the table edge. Make the trip take the least time you can.
+- **problem:** Build a cart from things you have at home. It must carry one 500 millilitre bottle of water 60 centimetres across a table, pulled by a bag with 100 millilitres of water hanging over the table edge. Make the trip take the least time you can.
 - **safety:** A grown-up cuts any thick cardboard or plastic. Mop up spills at once.
 - **your turn:** Sketch your cart. Build it and time it 3 times. Change one thing, such as the weight of the cart or the way the wheels turn, and time it again. Which change helped most? Why do you think it did?
-- **constraints:** Build the cart from home things, not from a ready-made toy.; The cart must carry the bottle of water without it falling off.; The thread is tied to the front of the cart, and the bag holds exactly 100 millilitres of water.; The cart must be no longer than 25 centimetres.; Every cart is timed 3 times, and the best of the three counts.
+- **constraints:** Build the cart from things you have at home, not from a ready-made toy.; The cart must carry the bottle of water without it falling off.; The thread is tied to the front of the cart, and the bag holds exactly 100 millilitres of water.; The cart must be no longer than 25 centimetres.; Every cart is timed 3 times, and the best of the three counts.
 - **general:** A flat cardboard base with four bottle caps for wheels, and the bottle tied on top.; A short, light cart with a low platform, so it does not tip.; A cart with wheels that turn easily, on axles made from straws and pencils.
-- **creative:** A cart that is nothing but a very light frame, so almost all the mass is the cargo and the cart itself is as light as it can be.; A cart with smooth round pencils as rollers instead of wheels, to reduce the friction.; Two thin runners made from smooth plastic lids instead of wheels. Does it slide better than it rolls?
+- **creative:** A cart that is only a very light frame, so that almost all the mass is the cargo.; A cart with smooth round pencils as rollers instead of wheels, to reduce the friction.; Two thin runners made from smooth plastic lids instead of wheels. Does it slide better than it rolls?
 - **s1 (6 min)**  
   *Parent does:* Read the problem together. Look at the constraints. Ask your child to sketch two or three cart designs.  
   *Parent says:* You have the same pull every time. How could you make the cart cross the table faster? Draw some ideas first.  
@@ -511,20 +511,20 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 
 ## Worksheets
 ### Force, Mass and Change (core) (core, 16 questions)
-1. (mcq) Kavya pulls two carts with the same bag of water. One cart is empty and one carries a full bottle. Which statement is right?  
+1. (mcq) Two carts are pulled with the same bag of water. One cart is empty and one carries a full bottle. Which statement is right?  
    Options: The empty cart speeds up more every second / The loaded cart speeds up more every second / Both speed up the same, because the pull is the same  
    **Answer:** The empty cart speeds up more every second. *Why:* The same pull changes a bigger mass by less. The loaded cart has more mass, so it speeds up less. Picking 'the same' forgets that mass matters as well as the pull.
 2. (fill) The unit that scientists use for force is the ____.  
    **Answer:** ['newton', 'newtons']. *Why:* The newton is named after Isaac Newton. A small apple weighs about 1 newton.
-3. (truefalse) Ananya says, 'A bigger force makes a thing travel at a bigger steady speed.' Is she right?  
+3. (truefalse) 'A bigger force makes a thing travel at a bigger steady speed.' True or false?  
    **Answer:** False. *Why:* False. A steady force keeps changing the speed, so the thing goes faster and faster. A steady speed on a rough floor happens when the push matches friction. A force changes the speed. It does not set the speed.
 4. (match) Match each word to what it means.  
    **Answer:** Force → a push or a pull; Mass → how much matter a thing has; Acceleration → how quickly speed or direction changes; Net force → all the forces on a thing added together; Balanced forces → forces that cancel, so the motion does not change. *Why:* These words come up all through the unit. A strong answer could also give an example of each, such as the bag's pull for force and the loaded cart for mass.
-5. (sort) Anjali lists six moments. Sort each one: is the net force zero, or not zero?  
+5. (sort) Sort these six moments: is the net force zero, or not zero?  
    **Answer:** A book rests on a table → The net force is zero; A rocket lifts off → The net force is not zero; A cyclist rides at a steady speed on a flat road → The net force is zero; A bus brakes to stop at a signal → The net force is not zero; A helicopter hovers in one place → The net force is zero; A kicked football speeds up → The net force is not zero. *Why:* Whenever motion changes, the net force is not zero. Whenever a thing stays still or keeps a steady speed in a straight line, the forces cancel. A strong answer says the book has two forces on it, but they are equal.
 6. (count) A cart has a mass of 4 kilograms. A net force of 12 newtons acts on it. How much does its speed grow every second, in metres per second?  
    **Answer:** 3. *Why:* Acceleration is force divided by mass. 12 divided by 4 is 3. The cart's speed grows by 3 metres per second every second.
-7. (mcq) Rani says a stone falls faster than a feather because it is heavier. Where would a stone and a feather fall together?  
+7. (mcq) Some people say a stone falls faster than a feather because it is heavier. Where would a stone and a feather fall together?  
    Options: On the Moon, where there is no air / On a windy day on a hill / Underwater in a bucket  
    **Answer:** On the Moon, where there is no air. *Why:* The feather falls slowly because air pushes up on it. With no air, nothing slows the feather, and both gain speed at the same rate. In 1971, a hammer and a feather landed together on the Moon.
 8. (order) Put the steps of the Hanging Bag Cart test in order.  
@@ -539,11 +539,11 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 12. (forces) A cart is pulled forward along a table by a thread with 5 newtons. Friction pulls back with 2 newtons. Show the two forces along the table.  
    Options: pull of the thread / friction / magnetism / a push from the wall  
    **Answer:** pull of the thread forward, friction back. *Why:* The thread pulls forward with 5 newtons and friction pulls back with 2. The net force is 3 newtons forward, so the cart speeds up. If the two forces were equal, the cart would keep a steady speed.
-13. (mcq) Anitha lands from a small jump with straight legs, and it hurts her knees. Why does bending the knees help?  
+13. (mcq) Landing from a small jump with straight legs can hurt the knees. Why does bending the knees help?  
    Options: The stop takes longer, so the force on the body is smaller / Bending makes the body lighter / Bent knees stop the Earth pulling  
    **Answer:** The stop takes longer, so the force on the body is smaller. *Why:* The body goes from its speed to zero either way. Bending the knees makes the stop take more time. A change in motion spread over more time needs a smaller force. The body does not get lighter.
 14. (perspective) Two friends in Kochi talk about a loaded cart and an empty cart rolling down the same smooth ramp.  
-   **Answer:** A strong answer agrees with Farhan, using evidence: in the ramp test the loaded cart took about the same time as the empty cart. It is fair to Lakshmi: on a table, pulled by the same bag, the heavier cart is slower, so heavy things are harder to get moving. On the ramp, the pull itself grows with the weight.. *Why:* Both friends have noticed something real. Only a test that changes the load on a ramp can tell the difference between the pull staying the same and the pull growing with the mass.
+   **Answer:** A strong answer agrees with the second child, using evidence: in the ramp test the loaded cart took about the same time as the empty cart. It is fair to the first child: on a table, pulled by the same bag, the heavier cart is slower, so heavy things are harder to get moving. On the ramp, the pull itself grows with the weight.. *Why:* Both friends have noticed something real. Only a test that changes the load on a ramp can tell the difference between the pull staying the same and the pull growing with the mass.
 15. (mcq) On a space station, an astronaut pushes a large floating box. What happens?  
    Options: The box is hard to get moving, because it has a lot of mass / The box moves easily, because it has no weight and so no mass / The box does not move at all in space  
    **Answer:** The box is hard to get moving, because it has a lot of mass. *Why:* Weightless things still have mass. A large box on the space station is hard to get moving and hard to stop. Weight is the pull of gravity. Mass is how much matter a thing has, and it resists a change in motion everywhere.
@@ -560,7 +560,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 4. (mcq) A cart is pulled with 6 newtons against friction of 2 newtons. What is the net force?  
    Options: 8 newtons / 4 newtons / 2 newtons  
    **Answer:** 4 newtons. *Why:* The pull is forward and the friction is backward, so friction takes away from the pull. 6 take away 2 is 4. Adding them is the most common slip.
-5. (truefalse) Heena says, 'A bottle has less mass on the Moon because it weighs less there.' Is she right?  
+5. (truefalse) 'A bottle has less mass on the Moon because it weighs less there.' True or false?  
    **Answer:** False. *Why:* False. The bottle weighs about 6 times less on the Moon, because the Moon pulls less. Its mass, the amount of matter in it, does not change. It would be just as hard to push on the Moon as on Earth.
 6. (mcq) Suppose a car needs 5 metres to stop from 20 kilometres an hour, with a steady braking force. About how many metres would it need from 40 kilometres an hour?  
    Options: 10 metres / 20 metres / 40 metres  
@@ -577,14 +577,14 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 11. (draw) Draw a cyclist riding at a steady speed along a flat road. Draw the forces along the road as arrows. Make the arrows the right lengths.  
    **Answer:** A cyclist with an arrow pointing forward and an arrow of the same length pointing back.. *Why:* At a steady speed the net force is zero. The push forward from the legs and the road equals the push back from the air and friction, so the two arrows are the same length.
 12. (perspective) Two friends in Madurai talk about what a force is.  
-   **Answer:** Either answer is fine if it is backed by evidence. A strong answer agrees with Meenakshi by saying that we feel pushes and pulls with our bodies, and the cart speeds up when the bag pulls. It credits Aarti by saying that what we measure is the cart's change in motion, or a spring's stretch, and a force is how we explain them.. *Why:* Scientists still discuss this. Ernst Mach pointed out in 1883 that the second law can be read as a way of defining force. Both friends have noticed something true.
+   **Answer:** Either answer is fine if it is backed by evidence. A strong answer agrees with the first child by saying that we feel pushes and pulls with our bodies, and the cart speeds up when the bag pulls. It credits the second child by saying that what we measure is the cart's change in motion, or a spring's stretch, and a force is how we explain them.. *Why:* Scientists still discuss this. Ernst Mach pointed out in 1883 that the second law can be read as a way of defining force. Both friends have noticed something true.
 13. (match) Match each safety idea to the reason it works.  
    **Answer:** Foam inside a cycle helmet → it squashes slowly, so the head takes longer to stop; A seatbelt → it holds you to the seat, so you stop with the car; A crumple zone at the front of a car → it squashes, so the car takes longer to stop; A low speed limit near a school → a slower car needs much less road to stop; A big gap behind a lorry on a highway → a heavy fast vehicle needs a long road to stop. *Why:* All five ideas come from the second law. A longer stop needs a smaller force, a lower speed needs a much shorter stop, and a bigger mass needs more road.
-14. (count) In the made-up example, the 100 millilitre bag took 1.8 seconds and the 400 millilitre bag took 0.8 seconds. How many seconds shorter was the trip with the bigger bag?  
+14. (count) In the made-up example chart for the Hanging Bag Cart test, the 100 millilitre bag took 1.8 seconds and the 400 millilitre bag took 0.8 seconds. How many seconds shorter was the trip with the bigger bag?  
    **Answer:** 1. *Why:* 1.8 take away 0.8 is 1.0. The trip took 1 second less.
 15. (mcq) Four times the pull should take about half the time. If a trip takes 1.8 seconds with the 100 millilitre bag, about how long would you expect with the 400 millilitre bag, if friction did not matter?  
    Options: 0.45 seconds / 0.9 seconds / 1.4 seconds  
-   **Answer:** 0.9 seconds. *Why:* Four times the acceleration makes the trip take half the time, because the time depends on the square root of the acceleration. Half of 1.8 is 0.9. In a real test, friction changes the numbers a little.
+   **Answer:** 0.9 seconds. *Why:* Four times the acceleration makes the trip take half the time, not a quarter of the time. Half of 1.8 is 0.9. In a real test, friction changes the numbers a little.
 16. (label) Here is a picture of a cart on a table that is being pulled by a thread. Label the four forces on the cart.  
    **Answer:** ['pull of the thread: forward', 'friction: backward', 'weight of the cart: downward', 'push of the table: upward, equal to the weight']. *Why:* The weight and the table's push are equal, so they cancel. The pull and friction act along the table. When the pull is bigger than friction, the net force is forward, and the cart speeds up.
 17. (odd) Three of these are changes in motion. Which one is not?  
@@ -603,11 +603,11 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
    **Answer:** The lift is speeding up, so the scale has to push up on you with more than your weight. *Why:* To speed you up, the scale must push up with more than the Earth pulls down. The scale shows how hard it pushes. Your mass and the Earth's pull do not change.
 5. (truefalse) In a lift moving up at a steady speed, a bathroom scale reads more than it does when the lift is at rest. True or false?  
    **Answer:** False. *Why:* False. At a steady speed, the forces on you are balanced, so the scale pushes up with exactly your weight. It reads more only while the lift is speeding up.
-6. (write) On the table, the loaded cart was slower. On the ramp, the loaded cart was not slower. Explain the difference using the words 'the pull' and 'the mass'.  
+6. (write) In the Hanging Bag Cart test on the table, the loaded cart was slower. In the Ramp Surprise, the loaded cart was not slower. Explain the difference using the words 'the pull' and 'the mass'.  
    **Answer:** On the table, the pull came from a bag of water that did not change, so a loaded cart had more mass and the same pull, and it sped up less. On the ramp, the pull is part of the cart's own weight, so a loaded cart is pulled harder. The bigger pull and the bigger mass cancel, so both carts speed up equally.. *Why:* A strong answer says that on the table the pull stayed the same while the mass grew, and that on the ramp the pull grew with the mass.
 7. (perspective) Two friends in Hyderabad talk about the hammer and feather dropped on the Moon in 1971.  
-   **Answer:** A strong answer agrees with Kabir. The Moon has gravity, about one sixth of the Earth's, which is why things fall there. They fell together because nothing pushed up on the feather. It credits Anika for noticing that the Moon is different from the Earth, and that without air things fall differently from what we see at home.. *Why:* Anika has mixed up gravity and air. The Moon pulls things down, and the astronauts' hammer fell. Only the lack of air let the feather keep up.
-8. (mcq) Suppose a car needs 4 metres to stop from 20 kilometres an hour, with a steady braking force. About how far would it need from 60 kilometres an hour?  
+   **Answer:** A strong answer agrees with the second child. The Moon has gravity, about one sixth of the Earth's, which is why things fall there. They fell together because nothing pushed up on the feather. It credits the first child for noticing that the Moon is different from the Earth, and that without air things fall differently from what we see at home.. *Why:* The first child has mixed up gravity and air. The Moon pulls things down, and the astronauts' hammer fell. Only the lack of air let the feather keep up.
+8. (mcq) Suppose a car needs 4 metres to stop from 20 kilometres an hour, with a steady braking force. About how many metres would it need from 60 kilometres an hour?  
    Options: 12 metres / 36 metres / 24 metres  
    **Answer:** 36 metres. *Why:* Three times the speed needs 3 times 3, which is 9 times the stopping distance. 4 times 9 is 36 metres. Picking 12 metres only multiplies by 3.
 9. (order) The same net force of 12 newtons acts on three carts. Put the carts in order, from the one that gains the least speed every second to the one that gains the most.  
@@ -662,7 +662,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
    **Answer:** 5. *Why:* Acceleration is force divided by mass. 15 divided by 3 is 5. The speed grows by 5 metres per second every second.
 10. (mcq) Which question about the second law do scientists still argue about?  
    Options: Does the law change for very faint pulls far out in galaxies? / Does a bigger force change motion more? / Do heavy things fall faster than light things?  
-   **Answer:** Does the law change for very faint pulls far out in galaxies?. *Why:* The first two are settled by countless tests. Whether the law changes for extremely faint pulls is an open question, linked to the puzzle of dark matter.
+   **Answer:** Does the law change for very faint pulls far out in galaxies?. *Why:* The other two questions are settled by countless tests. Whether the law changes for extremely faint pulls is an open question, linked to the puzzle of dark matter.
 11. (order) A bag of water pulls three carts. Put the carts in order, from the one that speeds up most to the one that speeds up least.  
    **Answer:** ['an empty cart', 'a cart with one bottle', 'a cart with three bottles']. *Why:* The pull is the same, so the cart with the least mass speeds up most. More bottles mean more mass, so the cart speeds up less.
 12. (mcq) A book rests on a table. Which statement is right?  
@@ -682,13 +682,13 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 - Cricket fielders pull their hands back when they catch, and high jumpers land on thick mats.
 - ISRO plans the path of its rockets and of Mangalyaan with Newton's laws of motion.
 - Cranes, ropes and chains are chosen to be strong enough for the weight of the load plus the extra pull needed to start it moving.
-- Packers load heavy things low and tied down, because a heavy load that starts or stops suddenly needs a big force to hold it.
+- Packers put heavy things low down and tie them, because a heavy load that starts or stops suddenly needs a big force to hold it.
 
 ## Spotted around us
-- An auto pulling away from a signal, slowly at first and then faster, and the same auto when it is full of passengers.
+- An auto pulling away from a signal, slowly at first and then faster, and how the same auto pulls away when it is full of passengers.
 - A loaded lorry climbing a ghat road slowly, with its engine groaning, while cars pass it.
 - A long goods train being pulled out of a station by two engines at the front.
-- A fielder pulling the hands back as a fast ball arrives in a cricket match.
+- A fielder pulling their hands back as a fast ball arrives in a cricket match.
 - A person pushing a fruit seller's cart. It is hard to start, and easy to keep going once it rolls.
 - The feeling of being pressed down into the floor when a lift starts to go up, and of feeling light when it starts to go down.
 - A rocket lifting off on television, slowly at first, then faster and faster.
@@ -726,14 +726,14 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 - Why was the stopwatch so tense? *It was under a lot of time pressure.*
 
 ## Connected maths
-- In the made-up example, the middle times for the 100, 200 and 400 millilitre bags were 1.8, 1.2 and 0.8 seconds. How many seconds shorter was the trip with the 200 millilitre bag than with the 100 millilitre bag? How many seconds shorter with the 400 millilitre bag than with the 200 millilitre bag? Which step saved more time? **0.6 seconds, then 0.4 seconds. The first step saved more time.**. 1.8 take away 1.2 is 0.6. 1.2 take away 0.8 is 0.4. The second step added more water, 200 millilitres against 100, but it saved less time. The more pull you already have, the less each extra bit of pull saves. (queues `math.fractions.decimals-and-percentages.L4`)
+- In the made-up example chart for the Hanging Bag Cart test, the middle times for the 100, 200 and 400 millilitre bags were 1.8, 1.2 and 0.8 seconds. How many seconds shorter was the trip with the 200 millilitre bag than with the 100 millilitre bag? How many seconds shorter with the 400 millilitre bag than with the 200 millilitre bag? Which step saved more time? **0.6 seconds, then 0.4 seconds. The first step saved more time.**. 1.8 take away 1.2 is 0.6. 1.2 take away 0.8 is 0.4. The second step added more water, 200 millilitres against 100, but it saved less time. The more pull you already have, the less each extra bit of pull saves. (queues `math.fractions.decimals-and-percentages.L4`)
 - A cart with a mass of 1 kilogram gains 3 metres per second every second when the net force is 3 newtons. How much does it gain with 6 newtons, 9 newtons and 12 newtons? What pattern do you see? **6, 9 and 12 metres per second every second. For this cart, the gain in metres per second every second is the same number as the force in newtons.**. Doubling the force from 3 to 6 doubled the gain from 3 to 6. Tripling it to 9 tripled the gain. For a 1 kilogram cart, force in newtons and acceleration are the same number. The gain goes up in step with the force. (queues `math.multiplication.multiplication-facts.L4`)
 - A net force of 24 newtons acts on four different carts with masses of 2, 3, 4 and 6 kilograms. How much does each cart gain in speed every second? What happens to the gain when the mass doubles from 3 to 6 kilograms? **12, 8, 6 and 4 metres per second every second. When the mass doubles from 3 to 6 kilograms, the gain halves, from 8 to 4.**. Divide 24 by each mass. 24 divided by 2 is 12. 24 divided by 3 is 8. 24 divided by 4 is 6. 24 divided by 6 is 4. A bigger mass gives a smaller gain, and twice the mass gives half the gain. (queues `math.division.division-facts.L4`)
 - Suppose a car needs 3 metres to stop from 10 kilometres an hour. Each time the speed doubles, the stopping distance is multiplied by 4. Write the stopping distances for 10, 20, 40 and 80 kilometres an hour. **3, 12, 48 and 192 metres. These are made-up numbers, to show the pattern.**. 3 times 4 is 12. 12 times 4 is 48. 48 times 4 is 192. The speed only doubles each time, but the distance is multiplied by 4. A small rise in speed makes a big difference to the road a driver needs. (queues `math.patterns.number-patterns.L4`)
 - In the Hanging Bag Cart test, you time 5 different settings, 3 times each. How many timings is that? If each timing takes 90 seconds, including putting the cart back, how many minutes does it take in all? **15 timings, and 22 and a half minutes.**. 5 times 3 is 15 timings. 15 times 90 seconds is 1,350 seconds. 1,350 divided by 60 is 22 with 30 left over, so 22 and a half minutes. This is why the test takes most of 40 minutes. (queues `math.time.duration.L4`)
 - About 100 millilitres of water pulls with a force of about 1 newton. About how many newtons do the 200 millilitre and the 400 millilitre bags pull with? What about a bag with 250 millilitres? **About 2 newtons, 4 newtons and 2.5 newtons.**. 100 millilitres gives about 1 newton. 200 millilitres is 2 times as much, so about 2 newtons. 400 millilitres is 4 times as much, so about 4 newtons. 250 millilitres is 2.5 times as much, so about 2.5 newtons. (queues `math.fractions.ratio-and-proportion.L4`)
 - Each bottle on the cart has a mass of about 500 grams. What is the total mass of three bottles in kilograms? About how many newtons does the Earth pull them with, if 100 grams is pulled with about 1 newton? **1.5 kilograms, and about 15 newtons.**. 3 times 500 grams is 1,500 grams, which is 1.5 kilograms. 1,500 divided by 100 is 15. So the Earth pulls the three bottles with about 15 newtons. (queues `math.measurement-basics.standard-units.L4`)
-- Draw a bar chart of the made-up middle times 1.8, 1.2 and 0.8 seconds. Use 1 centimetre for every 0.2 seconds. How tall is each bar? **9 centimetres, 6 centimetres and 4 centimetres.**. 1.8 divided by 0.2 is 9. 1.2 divided by 0.2 is 6. 0.8 divided by 0.2 is 4. The shortest bar is the quickest trip, from the biggest bag. (queues `math.data.bar-charts.L4`)
+- In the made-up example chart for the Hanging Bag Cart test, the middle times were 1.8, 1.2 and 0.8 seconds. Draw a bar chart of them. Use 1 centimetre for every 0.2 seconds. How tall is each bar? **9 centimetres, 6 centimetres and 4 centimetres.**. 1.8 divided by 0.2 is 9. 1.2 divided by 0.2 is 6. 0.8 divided by 0.2 is 4. The shortest bar is the quickest trip, from the biggest bag. (queues `math.data.bar-charts.L4`)
 - A cart is pulled with a net force. The net force is doubled, and the cart gets three bottles of extra load, which makes its mass 3 times as big. Is the change in speed each second bigger or smaller than before? By what fraction? **Smaller. It is 2 out of 3 as big, or two thirds of what it was.**. Double the force would double the change. Three times the mass would make it one third as big. 2 times one third is two thirds. So the change in speed each second is two thirds of what it was. (queues `math.fractions.fractions-of-a-whole.L4`)
 
 ## Song

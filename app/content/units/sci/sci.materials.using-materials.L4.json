@@ -54,19 +54,19 @@
   },
   {
    "term": "Composite",
-   "meaning": "A material made of two or more different materials joined together, so that the result can do what neither could do alone.",
+   "meaning": "A material made of two or more different materials joined together, so that the result can do what neither could do alone. Usually one part is a thin thread and the other part is a paste or glue that holds the threads in place.",
    "example": "Mud mixed with straw makes a brick that does not crack as easily as mud alone.",
    "art": "A cross-section of a mud brick with straw fibres running through it."
   },
   {
    "term": "Fibre",
-   "meaning": "A very thin thread. In a composite, the fibres usually carry the pull. Straw, paper, cotton and glass fibre are examples.",
+   "meaning": "A very thin thread. In a composite, the fibres usually carry the pull. That means they resist being stretched or pulled apart. Straw, paper, cotton and glass fibre are examples.",
    "example": "The paper layers in a papier-mâché bar are fibres.",
    "art": "A bundle of thin threads lying in a row, with an arrow pulling at both ends."
   },
   {
    "term": "Matrix",
-   "meaning": "The material that holds the fibres in place and passes the load from one fibre to the next. It is often a glue, a paste, mud or plastic.",
+   "meaning": "The material that holds the fibres in place. When the composite is pulled or pressed, the matrix shares that force out between all the fibres. It is often a glue, a paste, mud or plastic.",
    "example": "Flour paste is the matrix in a paper and paste bar.",
    "art": "A rectangle of paste with paper fibres lying inside it like threads in jelly."
   },
@@ -188,9 +188,9 @@
    "definition": "A decision matrix is a table that scores each material against each need, using weights for how much each need matters.",
    "description": "When a job has many needs, a table helps you compare. Put the materials down the side and the needs along the top. Give each need a weight from 1 to 3 for how much it matters. Then give each material a score from 1 to 5 for each need. Multiply each score by the weight and add up the row. The highest total is the best fit for this job. Suppose you want a tiffin box for school. 'Cost' has weight 2, 'light' has weight 2, 'does not leak' has weight 3 and 'lasts' has weight 1. A plastic box might score 4 on cost, 5 on light, 3 on leaks and 3 on lasting. A steel box might score 2, 3, 5 and 5. Multiply each score by its weight and add up each row to get the totals. But be honest: the scores are your judgement, not facts. Change the weights and the winner may change. That is useful, because it shows what people are really disagreeing about.",
    "examples": [
-    "Plastic: 4 times 2, plus 5 times 2, plus 3 times 3, plus 3 times 1, which is 30.",
-    "Steel: 2 times 2, plus 3 times 2, plus 5 times 3, plus 5 times 1, which is 30. It is a tie, and the weights decide.",
-    "If the box will carry curry in a school bag, the weight for 'does not leak' goes up and steel wins."
+    "Plastic scores 4 for cost, 5 for light, 3 for leaks and 3 for lasting. We multiply each score by its weight and add them up: 4 times 2, plus 5 times 2, plus 3 times 3, plus 3 times 1. That makes 30.",
+    "Steel scores 2 for cost, 3 for light, 5 for leaks and 5 for lasting. Multiplied by the weights, that is 2 times 2, plus 3 times 2, plus 5 times 3, plus 5 times 1. That also makes 30, so it is a tie, and the weights decide.",
+    "Now say the box will carry curry in a school bag. Leaking matters much more, so we raise the weight for 'does not leak'. Steel scores 5 for leaks and plastic only 3, so steel pulls ahead and wins."
    ],
    "perspectives": [],
    "art": "A table on paper with four rows for materials and four columns for needs, numbers in each box and a total on the right, with one total circled.",
@@ -214,7 +214,7 @@
    "concept": "Composites: two weak things that make a strong one",
    "status": "defined",
    "definition": "A composite is a material made of two or more materials joined so that the result can do what neither could do alone.",
-   "description": "A composite is a material made of two or more different materials joined together. Usually one is a fibre and the other is a matrix. The fibre is a thin thread that is strong when pulled. The matrix is a paste, mud or glue that holds the fibres and shares the load between them. Mud alone cracks, because it is brittle and a crack runs straight through it. Straw alone can be pulled, but it has no shape. Mixed together, the straw stops cracks from running far, and the mud holds the straw in place. The brick is better than either part. Paper and paste work the same way. Concrete is a composite too: stone and cement are strong when squeezed, and steel bars inside carry the pull. Bone is a composite of hard mineral and soft protein. Wood is a composite of long cellulose fibres held by a stiff glue. Nature uses this trick everywhere.",
+   "description": "A composite is a material made of two or more different materials joined together. Usually one is a fibre and the other is a matrix. The fibre is a thin thread that is strong when pulled. The matrix is a paste, mud or glue that holds the fibres and shares the pull between them. Mud alone is brittle. That means it snaps or cracks instead of bending, and once a crack starts, it runs straight through. Straw alone is strong when pulled, but it has no shape. Mixed together, the straw stops cracks from running far, and the mud holds the straw in place. The brick is better than either part. Paper and paste work the same way. Concrete is a composite too. Stone and cement are strong when something presses down on them, but weak when something pulls them apart. So steel bars are put inside the concrete, and the bars take the pull. Bone is a composite of hard mineral and soft protein. Wood is a composite of long cellulose fibres held by a stiff glue. Nature uses this trick everywhere.",
    "examples": [
     "Mud and straw bricks, used in many villages, crack less than plain mud.",
     "Reinforced concrete is stone and cement with steel bars inside. Most big buildings use it.",
@@ -228,8 +228,8 @@
   {
    "concept": "Alloys: why mixing metals makes them harder",
    "status": "defined",
-   "definition": "An alloy is a metal mixed with other atoms. The odd-sized atoms stop the layers of metal from sliding, so the alloy is usually harder.",
-   "description": "A pure metal is made of atoms packed in neat layers. When you push hard, the layers slide over each other, so pure copper and pure iron bend easily. An alloy is a metal mixed with other atoms of a different size. The odd-sized atoms get in the way when the layers try to slide, like marbles jammed in a stack of oranges. So the alloy is harder. Bronze is copper mixed with tin. Brass is copper mixed with zinc. Steel is iron mixed with a tiny amount of carbon, often less than two parts in a hundred. Bronze was one of the first alloys people made. The small bronze statue known as the Dancing Girl from Mohenjo-daro, about 4,500 years old, was made of a copper alloy. In India, bell metal, called kansa, is an alloy of copper and tin used for bells, gongs and dinner plates for centuries.",
+   "definition": "An alloy is a metal mixed with other atoms. In a pure metal, layers of atoms slide over each other easily. The odd-sized atoms in an alloy get in the way of that sliding, so the alloy is usually harder.",
+   "description": "A pure metal is made of atoms packed in neat layers. When you push hard, the layers slide over each other, so pure copper and pure iron bend easily. An alloy is a metal mixed with other atoms of a different size. Think of oranges stacked in neat layers at a fruit stall. Each layer slides easily over the one below. Now push a few marbles in between the oranges. The layers can no longer slide, because the marbles are in the way. The odd-sized atoms do the same job inside an alloy, so the alloy is harder. Bronze is copper mixed with tin. Brass is copper mixed with zinc. Steel is iron mixed with a tiny amount of carbon, often less than two parts in a hundred. Bronze was one of the first alloys people made. The small bronze statue known as the Dancing Girl from Mohenjo-daro, about 4,500 years old, was made of a copper alloy. In India, bell metal, called kansa, is an alloy of copper and tin used for bells, gongs and dinner plates for centuries.",
    "examples": [
     "Brass is harder than pure copper, so it is used for taps, locks and instruments.",
     "Stainless steel has chromium mixed in, which keeps it from rusting.",
@@ -257,7 +257,7 @@
    "concept": "What happens after: rot, rust, remake or stay",
    "status": "defined",
    "definition": "After use, a material may rot, rust, be remade or stay for a very long time. Which one depends on what it is made of.",
-   "description": "After we finish with a thing, its material goes one of four ways. Some things rot. Banana leaf, paper, cotton cloth and vegetable peel are food for bacteria and fungi, who break them down into soil. Some things rust. Iron and steel combine slowly with oxygen and water and crumble. Some things can be remade. Steel, aluminium and glass can be melted and made into new things, again and again, without losing their quality. Paper can be pulped and remade a few times, but its fibres get shorter each time, so the paper gets weaker. Some things stay. Most plastics are made of very long, tough molecule chains that bacteria and fungi did not meet until the last hundred years or so, and so they cannot easily break them. Big plastics slowly crack into tiny pieces called microplastics. They get smaller but they do not disappear. A material that cannot rot has to be remade or kept in use, or it piles up.",
+   "description": "After we finish with a thing, its material goes one of four ways. Some things rot. Banana leaf, paper, cotton cloth and vegetable peel are food for bacteria and fungi, who break them down into soil. Some things rust. Iron and steel combine slowly with oxygen and water and crumble. Some things can be remade. Steel, aluminium and glass can be melted and made into new things, again and again, without losing their quality. Paper can be pulped and remade a few times, but its fibres get shorter each time, so the paper gets weaker. Some things stay. Most plastics are made of very long, tough chains of tiny building blocks called molecules. Bacteria and fungi only met these chains in the last hundred years or so, so they cannot easily break them. Big plastics slowly crack into tiny pieces called microplastics. The pieces get smaller, but they do not disappear. A material that cannot rot has to be remade or kept in use, or it piles up.",
    "examples": [
     "Banana peel, left in damp soil, rots within weeks.",
     "An aluminium can can be melted and made into a new can again and again.",
@@ -297,7 +297,7 @@
    "concept": "Old choices, tested by long use",
    "status": "defined",
    "definition": "Old choices of materials were tested by long use. Many have good reasons, and some beliefs about them still need testing.",
-   "description": "Before laboratories and plastics, people chose materials by trying them for generations. Many of their choices have good reasons. Banana leaf plates are light, flat, waterproof enough for a meal and rot in a few weeks, so there is nothing to wash and nothing left. Clay pots keep water cool, because a little water seeps through the clay and dries on the outside. Coir ropes and mats are strong, do not rot quickly in salt water and come from a coconut tree that grows again. Mud and lime plaster let a wall breathe. Brass and copper vessels were used for water and cooking for a very long time. Not every old belief is proved. For example, many people believe that water from a copper vessel is healthier. Studies show copper can kill some germs on its surface, but the claims about health are still being debated. A good scientist honours old knowledge and tests it. Some of it turns out to be wise, and some of it does not.",
+   "description": "Before laboratories and plastics, people chose materials by trying them for generations. Many of their choices have good reasons. Banana leaf plates are light, flat and waterproof enough for a meal. They rot in a few weeks, so there is nothing to wash and nothing left. Clay pots keep water cool, because a little water seeps through the clay and dries on the outside. As that water dries, it takes heat from the pot, and so the water inside gets cooler. Coir ropes and mats are strong, do not rot quickly in salt water and come from a coconut tree that grows again. Mud and lime plaster let a little moisture pass through, so a wall does not stay damp inside. Brass and copper vessels were used for water and cooking for a very long time. Not every old belief is proved. For example, many people believe that water from a copper vessel is healthier. Studies show copper can kill some germs on its surface, but the claims about health are still being debated. A good scientist honours old knowledge and tests it. Some of it turns out to be wise, and some of it does not.",
    "examples": [
     "Banana leaf plates and areca leaf plates are made from leaves, and are used in many parts of India.",
     "Coir mats and ropes are made from the husk of coconuts.",
@@ -392,7 +392,7 @@
   },
   {
    "text": "Mixing a metal with other atoms usually makes it harder.",
-   "evidence": "Bronze, brass and steel are all harder than the pure metals they are made from. Odd-sized atoms stop the layers of metal from sliding."
+   "evidence": "Bronze, brass and steel are all harder than the pure metals they are made from. Inside the metal, the atoms sit in layers. The odd-sized atoms get in the way and stop the layers from sliding."
   },
   {
    "text": "Every object has a whole life: its source, its making, its use and what happens after.",
@@ -490,7 +490,7 @@
   {
    "q": "A banana leaf, a steel spoon and a plastic bag are all made of atoms. Why do they have such different lives after we are done with them?",
    "kind": "deep",
-   "hint": "Think about how the atoms are joined, and who can break the joins apart."
+   "hint": "Think about how strongly the atoms in each one are held together, and whether any living thing can pull them apart."
   },
   {
    "q": "People long ago chose banana leaf plates for good reasons, without ever using a laboratory. How do we know if a tradition is wise?",
@@ -505,7 +505,7 @@
   {
    "q": "Everything we make comes from the ground, and goes back into the ground, the air or the sea. Is there such a thing as 'away' when we throw something away?",
    "kind": "deep",
-   "hint": "Think about where the atoms of a plastic bag are a hundred years from now."
+   "hint": "Atoms do not vanish. Think about where the atoms of a plastic bag will be a hundred years from now."
   },
   {
    "q": "A girl in a village and a woman engineer in a city look at the same river. Why might they choose different bridges, and who should decide?",
@@ -749,7 +749,7 @@
      "id": "s3",
      "mins": 16,
      "do": "Play cards 2 to 16. After every five cards, ask the question below.",
-     "say": "Read the card. Choose. Name the catch. Check the back.",
+     "say": "Now read the next card out loud. Each of you chooses a material and says its catch. Then turn the card over and check the back. Keep going like this through the cards.",
      "kid": "Read, choose, name the catch, check.",
      "ask": [
       {
@@ -777,7 +777,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Play the last four cards. Count the tokens and name the winner.",
-     "say": "Last cards. Then count the tokens.",
+     "say": "These are the last four cards. When they are done, we will count the tokens and see who has the most.",
      "kid": "Play the last cards. Count the tokens.",
      "context": "In this step, you finish the cards and count the score."
     },
@@ -978,7 +978,7 @@
      "id": "s3",
      "mins": 14,
      "do": "Play cards 1 to 14. Turn each card over after you place it. Read the reason aloud.",
-     "say": "Read a card. Put it on a mat. Then check the back.",
+     "say": "Read the next card out loud. Decide which mat the thing will end up on, and put the card there. Then turn the card over and check the back to see if you were right.",
      "kid": "Read a card. Pick a mat. Check the back.",
      "check": {
       "t": "mcq",
@@ -997,7 +997,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Play the last six cards. Count the tokens.",
-     "say": "The last cards. Then count the tokens.",
+     "say": "These are the last six cards. When they are done, we will count the tokens.",
      "kid": "Play the last cards. Count the tokens.",
      "context": "In this step, you finish the cards."
     },
@@ -1114,7 +1114,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Show your child the paper, the paste and the tissue shreds. Ask which bar they think will hold the most water and which the least, and why.",
-     "say": "We will make four kinds of bar. One is paste. One is a stack of paper. One is paper glued with paste. One is paste with fibres. Which holds the most? Which holds the least? Why do you think so?",
+     "say": "We will make four kinds of bar. One is plain paste. One is a stack of paper. One is paper glued with paste. One is paste with tiny fibres mixed in. Fibres are thin threads, and paper is made of them. Which bar holds the most water? Which holds the least? Why do you think so?",
      "kid": "Four bars. Which holds the most water? Which holds the least? Why?",
      "ask": [
       {
@@ -1150,7 +1150,7 @@
      "id": "s3",
      "mins": 12,
      "do": "Bar A: spread a layer of paste about 3 millimetres thick, 20 centimetres by 4 centimetres, on a plastic sheet. Bar B: stack 4 dry strips of paper, and lay them next to the others. Bar C: brush paste on 4 strips, stack them and press flat. Bar D: stir a tablespoon of tissue shreds into some paste, and spread it like bar A. Make two bars of each kind.",
-     "say": "Bar A is plain paste. Bar B is four dry strips. Bar C is four strips glued with paste. Bar D is paste with shreds. Two of each.",
+     "say": "Bar A is plain paste. Bar B is four dry paper strips, not glued. Bar C is four paper strips glued together with paste. Bar D is paste with tissue shreds stirred in. The shreds are tiny paper fibres. Make two of each bar.",
      "kid": "Make two of each bar. Label them A, B, C and D.",
      "parent": "Bar B is not glued. It is just a stack of paper, for comparison. Keep paste thickness the same in A and D. Press C flat with your palm and smooth out bubbles. Make the paste layers about 2 to 3 millimetres thick. A thicker layer cracks and curls as it dries. Label each bar with tape and a letter on the plastic sheet.",
      "check": {
@@ -1180,7 +1180,7 @@
      "id": "s5",
      "mins": 8,
      "do": "Day 3. 1. Stand the two piles of books 12 centimetres apart. 2. Peel the dry bars off the plastic. 3. Make a small loop of thread to hang the cup from. 4. Stand a ruler beside the gap, to measure how far the middle of a bar sinks.",
-     "say": "Today we test. The bar rests across the gap. A cup hangs from its middle. We pour water into the cup slowly.",
+     "say": "Today we test the bars. A bar rests across the gap, and a cup hangs from its middle. We pour water into the cup slowly. The water makes the bar carry a heavier and heavier load, until the bar snaps or sinks.",
      "kid": "Set up the gap and the cup. Peel the bars off the plastic.",
      "ask": [
       {
@@ -1198,10 +1198,10 @@
      "id": "s6",
      "mins": 14,
      "do": "Draw a chit from the bowl to pick the first bar. Rest that bar across the gap. Hang the empty cup from its middle. Pour water into the cup from the jug, slowly and steadily. Stop when the bar snaps or the middle sinks 2 centimetres. Pour the water from the cup into a medicine cup and read the millilitres. Test all eight bars in this way.",
-     "say": "Rest the bar across the gap. Hang the cup. Pour slowly. Stop when the bar snaps or sinks two centimetres. Measure the water.",
+     "say": "Rest one bar across the gap and hang the cup from its middle. Pour the water in slowly. Stop when the bar snaps or its middle sinks two centimetres. Then pour the water from the cup into the measuring cup, and read how many millilitres it was.",
      "kid": "Test one bar at a time. Pour slowly. Measure the water.",
      "parent": "The cup itself weighs a little, so the same cup is used each time. Pour at the same speed. Keep a tray under the cup. Bar B, the loose paper stack, usually sags with only a few millilitres, and that is a good result. Bar C may hold more than a cup of water. If the cup is full and the bar has not failed, empty the cup into the measuring cup, write it down, refill and carry on, then add the totals. Roles for 2 to 4 children: one pours, one watches the ruler and says stop, one reads the millilitres, one writes. Swap roles for each bar.",
-     "context": "In this step, you test each bar. One millilitre of water weighs about one gram."
+     "context": "In this step, you test each bar. The water in the cup is the load that the bar has to carry. One millilitre of water weighs about one gram, so the millilitres tell you how heavy a load the bar held."
     },
     {
      "id": "s7",
@@ -1233,7 +1233,7 @@
      "id": "s8",
      "mins": 4,
      "do": "Look closely at a broken end of bar C. Look for paper fibres sticking out. Talk about what you see.",
-     "say": "Look at the broken end of bar C. What sticks out? What do you think the fibres were doing?",
+     "say": "Look at the broken end of bar C. What sticks out? Paper is made of tiny threads called fibres. What do you think the fibres were doing when the bar was being pulled?",
      "kid": "Look at the broken end of bar C. What sticks out?",
      "check": {
       "t": "mcq",
@@ -1390,7 +1390,7 @@
      "do": "Every three days, touch the soil. It should feel like a squeezed-out sponge. If it feels dry, sprinkle one or two spoons of water on the cup. If it feels wet or sticky, add no water and leave the cover off for a day. In hot dry weather you may need water more often. In the monsoon, you need less. Write the date on the label.",
      "say": "Every three days, touch the soil. If it feels dry, add a spoon or two of water. Keep the soil damp, not wet.",
      "kid": "Check the soil every three days. Add a little water if it is dry.",
-     "context": "In this step, you keep the soil damp. Damp soil is where bacteria and fungi do their work."
+     "context": "In this step, you keep the soil damp. Bacteria and fungi are tiny living things in the soil that break down plants. They need damp soil to do their work."
     },
     {
      "id": "s4",
@@ -3729,7 +3729,7 @@
    {
     "source": "Tao Te Ching, chapter 11, a Chinese text of about 2,300 years ago",
     "teaching": "Clay is shaped into a pot, but it is the empty space inside that makes the pot useful.",
-    "link": "A pot, a bridge and a school bag are useful because of how they are shaped and joined, as well as the material they are made from."
+    "link": "A pot is useful because of the empty space the clay makes, and not only because of the clay. In the same way, a bridge or a school bag is useful because of how it is shaped and joined, as well as the material it is made from."
    }
   ],
   "science": [

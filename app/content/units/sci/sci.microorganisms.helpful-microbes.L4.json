@@ -227,7 +227,7 @@
   {
    "concept": "Microbes inside you: gut bacteria",
    "status": "debated",
-   "definition": "",
+   "definition": "Gut bacteria are the trillions of bacteria that live in your intestines. Most of them are harmless, and many of them help you.",
    "description": "Your intestines hold trillions of bacteria, more than the number of stars you could count in a clear night sky. Most are harmless, and many help you. Some break down fibre that your own body cannot digest. Some make vitamin K. Others take up space so that harmful bacteria have less room to grow. Scientists are now studying how much these bacteria affect our health, our mood and even our weight. This is a young science, and results are still being checked. Many claims in advertisements go further than the evidence. What scientists agree on is that a gut full of many kinds of bacteria is usually a healthy gut, and that eating many kinds of plant food helps.",
    "examples": [
     "Gut bacteria break down some of the fibre in dal, vegetables and fruit.",
@@ -343,7 +343,7 @@
    "hint": "Think about what you did in the Curd Test, and what happened in cup D, which got no starter."
   },
   {
-   "q": "If a spoon of curd is full of living bacteria, are we eating a food or a community?",
+   "q": "A spoon of curd holds millions of living bacteria. When you eat it, are you eating only a food, or also a crowd of living beings?",
    "kind": "big",
    "hint": "Think about what happens to the bacteria in your stomach and gut."
   },
@@ -358,7 +358,7 @@
    "hint": "Think about where microbes come from: the dal, the rice, the grinder, the air."
   },
   {
-   "q": "A yeast cell senses sugar and takes it in. What might sugar mean to a yeast cell?",
+   "q": "A yeast cell senses sugar and takes it in. Does that mean she wants the sugar, in the way you want food?",
    "kind": "big",
    "hint": "Think about how a yeast cell finds, takes in and uses sugar."
   },
@@ -443,7 +443,7 @@
    {
     "source": "Lynn Margulis, Symbiotic Planet (1998)",
     "teaching": "Margulis, an American biologist, argued that life has been shaped as much by partnership as by competition. Her work showed that mitochondria, the parts of our cells that release energy, began as free-living bacteria that moved into other cells.",
-    "link": "The bacteria in your gut and the mitochondria in your own cells show that bodies are built from living partners."
+    "link": "The bacteria in your gut are living partners of your body. The mitochondria inside your own cells began as bacteria too. So a body is made of many living beings working together."
    }
   ],
   "science": [
@@ -700,7 +700,7 @@
    "days": 1,
    "question": "Which bottle makes the most gas: yeast with sugar and warm water, yeast with no sugar, yeast with sugar in the cold, or sugar with no yeast?",
    "predict": "Before you start, guess. Which balloon will fill the most? Which will stay flat? Why do you think so?",
-   "fair_test": "Every bottle is the same size, with 200 millilitres of water and the same kind of balloon. Bottle A has everything. Bottle B has no sugar. Bottle C is kept in the fridge. Bottle D has no yeast. Each bottle differs from A in only one way, so any difference in the balloons comes from that one thing. Bottle D is the control.",
+   "fair_test": "Every bottle is the same size, with 200 millilitres of water and the same kind of balloon. Bottle A has everything. Bottle B has no sugar. Bottle C is kept in the fridge. Bottle D has no yeast. Each bottle differs from A in only one way, so any difference in the balloons comes from that one thing. Bottle D is the control. A control is a bottle that is left without the thing we are testing, so we can compare the other bottles with it.",
    "results_table": [
     "Bottle",
     "What is in it",
@@ -798,7 +798,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Pour 200 millilitres of warm water into bottles A, B and D. Pour 200 millilitres of cold water into bottle C. Add two level teaspoons of sugar to A, C and D. Stir each until the sugar disappears.",
-     "say": "Warm water first, into A, B and D. Cold water goes into C. Now two teaspoons of sugar go into A, C and D, but not into B. Stir until the sugar has dissolved.",
+     "say": "Pour the warm water into bottles A, B and D, and the cold water into bottle C. Put two teaspoons of sugar into bottles A, C and D. Bottle B gets no sugar, because it is the bottle without sugar. Stir until the sugar has dissolved.",
      "kid": "Pour 200 millilitres of warm water into A, B and D. Pour cold water into C. Add two teaspoons of sugar to A, C and D. Stir.",
      "parent": "Warm means about 40 degrees. You can hold a finger in it for 10 seconds. If it is too hot to hold, let it cool first. Hot water kills the yeast. Roles: with one child, you pour and your child stirs and labels. With 2 to 4 children, each child owns one bottle (A, B, C or D), adds its ingredients and measures its balloon; a grown-up checks the water.",
      "check": {
@@ -872,7 +872,7 @@
    "days": 2,
    "question": "Does boiled milk set into curd without a starter? And where does it set fastest: in a warm place, on the counter or in the fridge?",
    "predict": "Before you start, guess. Which cup will set first? Which will not set at all? Why do you think so?",
-   "fair_test": "Every cup has the same amount of the same milk, and the cups are the same kind. Cups A, B and C get the same amount of the same starter curd. They differ only in where they are kept: a warm place, the counter, or the fridge. Cup D gets no starter and is kept on the counter with B. Cup D is the control.",
+   "fair_test": "Every cup has the same amount of the same milk, and the cups are the same kind. Cups A, B and C get the same amount of the same starter curd. They differ only in where they are kept: a warm place, the counter, or the fridge. Cup D gets no starter and is kept on the counter with B. Cup D is the control. A control is a cup that is left without the thing we are testing, so we can compare the other cups with it.",
    "results_table": [
     "Cup",
     "Starter?",
@@ -1513,7 +1513,7 @@
    "id": "c1",
    "title": "Winter Batter: keep the batter warm in a cold kitchen",
    "mins": 40,
-   "problem": "It is winter, and your kitchen is cold. To rise, the batter needs to stay about as warm as a spring day for 10 hours. Design a way to keep a pot warm without a flame, using only things you find at home.",
+   "problem": "It is winter, and your kitchen is cold. To rise, the batter needs to stay comfortably warm, about 25 to 30 degrees, for 10 hours. Design a way to keep a pot warm without a flame, using only things you find at home.",
    "constraints": [
     "Use only things you have at home.",
     "Never leave a flame or a hot stove on.",
@@ -2388,7 +2388,7 @@
   },
   {
    "t": "mcq",
-   "p": "In Pasteur's curved-neck flask, the boiled broth stayed clear. Why?",
+   "p": "A boiled sugar broth sits in a flask with a long, curved neck that keeps dust out. The broth stays clear for months. Why?",
    "opts": [
     "Microbes in the air could not reach the broth",
     "Boiling made the broth too sweet",

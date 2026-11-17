@@ -163,7 +163,7 @@
    "status": "defined",
    "context": "This card follows an infection through a body, day by day, and says what a fever is for.",
    "definition": "The time between germs getting in and the first sign of illness is the incubation period. During it the germs are multiplying, and the body is getting ready.",
-   "description": "Think of a cold virus that lands in your nose on Monday. For the first day or so you feel perfectly well. Inside, the virus is entering cells and making copies, and each new copy enters another cell. Your body notices. Cells that are being attacked send out chemical alarm signals, and defenders hurry to the nose. Those signals are also what make you feel unwell. They tell the brain to raise the body's temperature by a degree or two, which is a fever, and they make you tired. Many of the signs of illness are signs of the fight, not of the germ. The incubation period is different for each germ. For a cold it is about one to three days. For flu it is about one to four days. For measles it is about ten to fourteen days, and for chickenpox about two weeks. After the fight, most people get better because the defenders have cleared the germs away.",
+   "description": "Think of a cold virus that lands in your nose on Monday. For the first day or so you feel perfectly well. Inside, the virus is entering cells and making copies, and each new copy enters another cell. Your body notices. Cells that are being attacked send out chemical alarm signals, and the body's defenders, which are white blood cells, hurry to the nose. Those signals are also what make you feel unwell. They tell the brain to raise the body's temperature by a degree or two, which is a fever, and they make you tired. Many of the signs of illness are signs of the fight, not of the germ. The incubation period is different for each germ. For a cold it is about one to three days. For flu it is about one to four days. For measles it is about ten to fourteen days, and for chickenpox about two weeks. After the fight, most people get better because the defenders have cleared the germs away.",
    "examples": [
     "A runny nose is partly your body washing germs out of the nose with extra mucus.",
     "A child with measles may feel well for a week and a half after catching the virus, and can pass it on in the last days of that time.",
@@ -205,7 +205,7 @@
    "status": "defined",
    "context": "This card says how antibiotics work, and why they cannot work on a virus.",
    "definition": "An antibiotic works by stopping something that bacteria need and that human cells do not have.",
-   "description": "A bacterium is a single cell with a tough wall around the outside. To grow and split, she must keep building that wall. Penicillin stops the building. The wall weakens, and the bacterium bursts. Human cells have no wall, so penicillin has nothing to hit in us. Other antibiotics block the tiny machines inside a bacterium that build proteins. Those machines have a different shape from ours, so the medicine fits theirs and not ours. Viruses are different again. They are not cells, and they have no wall and no machines of their own. They make copies only by taking over a cell that belongs to someone else. So an antibiotic has nothing to attack in a virus. That is also why an antiviral is hard to make. It must stop a virus without stopping the cell the virus is using. Antibiotics are not perfect. They also kill some of the helpful bacteria in the gut, which is why they sometimes cause loose motions.",
+   "description": "A bacterium is a single cell with a tough wall around the outside. To grow and split, she must keep building that wall. Penicillin stops the building. The wall weakens, and the bacterium bursts. Human cells have no wall, so penicillin has nothing to hit in us. Other antibiotics work on something else inside the bacterium. Every cell has tiny machines that build proteins, which are the parts a cell is made from. The machines in a bacterium have a different shape from ours, so the medicine fits theirs and not ours, and she cannot build what she needs. Viruses are different again. They are not cells, and they have no wall and no machines of their own. They make copies only by taking over a cell that belongs to someone else. So an antibiotic has nothing to attack in a virus. That is also why an antiviral is hard to make. It must stop a virus without stopping the cell the virus is using. Antibiotics are not perfect. They also kill some of the helpful bacteria in the gut, which is why they sometimes cause loose motions.",
    "examples": [
     "Penicillin makes the wall of a bacterium weak, so the bacterium bursts as she grows.",
     "A cold virus has no wall, so penicillin has nothing to attack.",
@@ -233,7 +233,7 @@
    "status": "defined",
    "context": "This card explains why a medicine that works today can stop working. It uses the Rice and Dal game, in which rice grains are ordinary germs and dal grains are tough germs.",
    "definition": "Resistance appears when a few germs survive a medicine, multiply, and become the new crowd. The germ becomes resistant. The person does not.",
-   "description": "Bacteria multiply by splitting in two, and each time they copy their genes, a tiny mistake can creep in. Most mistakes change nothing. A very few help the bacterium to survive a medicine, for example by making a chemical that breaks the medicine down. So in a crowd of billions of bacteria, a few may already be tough before any medicine arrives. When a person takes an antibiotic, the ordinary bacteria die. The tough few are left, with plenty of food and room, and they multiply. After a few days, nearly all the bacteria in the body are tough. Bacteria can also hand pieces of their genes to each other, even to bacteria of other kinds, so a tough gene can spread fast. This is natural selection, the same process that shaped every living being. The medicine does not teach the bacteria anything. It only chooses which ones carry on. The more an antibiotic is used, the more chances tough bacteria have. Doctors call this a world-wide problem. A study published in 2022 estimated that more than a million people died in 2019 as a direct result of infections that medicines could not treat.",
+   "description": "Bacteria multiply by splitting in two. Each time, they copy their genes, which are the instructions for building a bacterium, and a tiny mistake can creep in. Most mistakes change nothing. A very few help the bacterium to survive a medicine, for example by making a chemical that breaks the medicine down. So in a crowd of billions of bacteria, a few may already be tough before any medicine arrives. When a person takes an antibiotic, the ordinary bacteria die. The tough few are left, with plenty of food and room, and they multiply. After a few days, nearly all the bacteria in the body are tough. Bacteria can also hand pieces of their genes to each other, even to bacteria of other kinds, so a tough gene can spread fast. This is natural selection, the same process that shaped every living being. The medicine does not teach the bacteria anything. It only chooses which ones carry on. The more an antibiotic is used, the more chances tough bacteria have. Doctors call this a world-wide problem. A study published in 2022 estimated that more than a million people died in 2019 as a direct result of infections that medicines could not treat.",
    "examples": [
     "A person does not become resistant. The bacteria in their body become resistant.",
     "In the Rice and Dal game, the medicine removed most of the rice grains, which were the ordinary germs. The dal grains, which were the tough germs, multiplied in the space that was left.",
@@ -275,7 +275,7 @@
    "status": "defined",
    "context": "This card explains how vaccinated people protect others. A germ chain is the path a germ takes from one person to the next. The card also uses the Ring the Germ game, in which an illness spreads from house to house in a paper village.",
    "definition": "Herd protection means that when most people in a group are protected against a germ, the germ rarely finds anyone to pass to, so people who are not protected are safer too.",
-   "description": "Every germ chain needs a next person. A vaccinated person is a broken link. If most of the people around a germ are vaccinated, the germ keeps meeting broken links, and the chain dies out. This protects babies who are too young for a vaccine, and people whose bodies cannot take it, for example those having cancer treatment. How many people need to be protected depends on the germ. Measles is one of the most contagious illnesses known. One ill child can pass it to twelve to eighteen others who are not protected. So about 95 out of every 100 people need protection to stop measles spreading. Herd protection is not a promise, because it works only while enough people stay vaccinated. When vaccination falls in a place, measles comes back there. The Ring the Germ game shows this. When most houses were vaccinated before the illness arrived, the illness stayed small. When only a third were, it spread far.",
+   "description": "Every germ chain needs a next person. A germ chain is the path of a germ from one person to the next. A vaccinated person cannot easily be infected, so the germ cannot pass through that person. In the chain, that person is a broken link. If most of the people around a germ are vaccinated, the germ keeps meeting broken links, and the chain dies out. This protects babies who are too young for a vaccine, and people whose bodies cannot take it, for example those having cancer treatment. How many people need to be protected depends on the germ. Measles is one of the most contagious illnesses known. One ill child can pass it to twelve to eighteen others who are not protected. So about 95 out of every 100 people need protection to stop measles spreading. Herd protection is not a promise, because it works only while enough people stay vaccinated. When vaccination falls in a place, measles comes back there. The Ring the Germ game shows this. When most houses were vaccinated before the illness arrived, the illness stayed small. When only a third were, it spread far.",
    "examples": [
     "A baby of five months cannot yet have the measles vaccine, but she is safer when her brothers, cousins and neighbours have had it.",
     "A school where almost every child is vaccinated rarely has a measles outbreak, even if one ill child comes in.",
@@ -302,7 +302,7 @@
    "concept": "Boosters and yearly shots: why some protection fades",
    "status": "defined",
    "context": "This card says why some vaccines last for life and others need to be repeated.",
-   "definition": "A vaccine can stop working as well over time, or because the germ has changed. A booster or a new vaccine fixes the problem.",
+   "definition": "Protection from a vaccine can fade over time. Some germs also change from year to year. In both cases, a booster or a new vaccine fixes the problem.",
    "description": "Memory cells last longer for some germs than for others. After two doses of the measles vaccine, protection usually lasts a lifetime. Protection against tetanus and diphtheria fades over some years, so a booster is given, as it is to ten-year-olds in India. Some vaccines need repeating for a different reason: the germ changes. Flu viruses change a little every year, so last year's antibodies may not fit this year's virus, as an old key may not fit a new lock. So scientists study the flu viruses going around every year, and each year's flu vaccine is made to match. Some germs are hard to make a vaccine for, because they change fast or hide from defenders. There is no vaccine yet for the common cold, which is caused by hundreds of kinds of virus. In 2021 and 2023, the World Health Organization recommended the first two vaccines against malaria, for children in places where malaria is common.",
    "examples": [
     "A tetanus booster tops up the memory cells that fade over the years.",
@@ -358,7 +358,7 @@
   },
   {
    "text": "Germs that survive a medicine multiply, so the more a medicine is used, the more common resistant germs become.",
-   "evidence": "Laboratory tests, including the velvet stamp test of Esther and Joshua Lederberg in 1952, show that a few resistant bacteria are already in a crowd before any medicine arrives. Hospital records show resistance rising in places where antibiotics are used a lot."
+   "evidence": "Laboratory tests, including the velvet stamp test of Esther and Joshua Lederberg in 1952, show that a few resistant bacteria are already in a crowd before any medicine arrives. In that test, a round piece of velvet was pressed onto a dish of bacteria and then onto new dishes with a medicine in them, to copy where the bacteria were. Hospital records show resistance rising in places where antibiotics are used a lot."
   },
   {
    "text": "Vaccines teach the body to recognise a germ, without giving the illness.",
@@ -448,12 +448,12 @@
   {
    "q": "A vaccine holds no working germ. Yet afterwards your body remembers a germ that has never been inside you. Where is that memory kept?",
    "kind": "deep",
-   "hint": "Think about memory cells, and how long a single white blood cell can live. Nobody has a complete answer yet."
+   "hint": "Think about memory cells, and compare how long a single white blood cell lives with how long the memory lasts. Nobody has a complete answer yet."
   },
   {
    "q": "Penicillin bursts bacteria but leaves your cells alone. What does that tell you about the difference between a bacterium and a cell of yours?",
    "kind": "deep",
-   "hint": "Think about the cell wall, and about who else has one."
+   "hint": "Think about the wall around a bacterium, and whether the cells of your body have a wall too."
   },
   {
    "q": "Your gut holds trillions of bacteria, and an antibiotic kills some of them too. When you take a medicine, who is being treated: you, or a whole crowd that lives in you?",
@@ -478,7 +478,7 @@
   {
    "q": "We say we fight germs. Is fight the right word, when most microbes are harmless, and the few that make us ill are only living their own lives?",
    "kind": "big",
-   "hint": "Think about a farmer, a doctor, and a Jain monk, who each see a germ differently."
+   "hint": "Think about how a doctor, a farmer and a Jain monk might each look at a germ. A doctor may see something to treat. A farmer may see helpers in the soil. A Jain monk may see a living being that should not be harmed."
   },
   {
    "q": "For a long time, most doctors believed that illness came from bad air, and many laughed at the idea of tiny living germs. What makes a new idea about something too small to see believable?",
@@ -1104,7 +1104,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Show your child the five glasses, the yeast, the sugar and the four test things. 2. Say that yeast is a tiny living fungus who makes bubbles when she eats sugar. 3. Ask for a guess and a reason. 4. Write the guesses in the table.",
-     "say": "Yeast is a tiny living fungus. When she eats sugar, she makes bubbles of gas and a layer of foam. Salt, vinegar, garlic and turmeric are used in pickles and home remedies, and people say they stop microbes. Which will stop the yeast most? Which will stop her least? Why do you think so?",
+     "say": "Yeast is a tiny living fungus. When she eats sugar, she makes bubbles of gas and a layer of foam. Yeast does not make people ill, so we can use her to stand in for a germ. Salt, vinegar, garlic and turmeric are used in pickles and home remedies, and people say they stop microbes. Which will stop the yeast most? Which will stop her least? Why do you think so?",
      "kid": "Yeast is a tiny living fungus. She eats sugar and makes foam. Which kitchen thing will stop her most? Why?",
      "ask": [
       {
@@ -1143,7 +1143,7 @@
      "mins": 6,
      "adult": true,
      "do": "1. Put 1 level teaspoon of sugar into every glass. 2. Add half a level teaspoon of yeast to every glass. 3. Stir each glass for 10 seconds with a clean spoon. 4. Add 2 teaspoons of salt to the Salt glass. 5. Add 4 teaspoons of vinegar to the Vinegar glass. 6. Add the crushed garlic to the Garlic glass. 7. Add 2 teaspoons of turmeric to the Turmeric glass. 8. Stir each glass again for 10 seconds. 9. Write down the start time.",
-     "say": "The Plain glass gets nothing extra. That is our comparison. Stir each glass for the same time. Now write the time, and start the clock.",
+     "say": "The Plain glass gets nothing extra. We keep it so that we can compare every other glass with a glass where nothing was added. Stir each glass for the same time, so that the glasses stay fair. Now write down the time, and start the clock.",
      "kid": "Add sugar and yeast to every glass. Add the test things. Write the start time.",
      "parent": "A grown-up crushes one garlic clove on the board with the flat of the knife until it is a paste, and puts all of it into the Garlic glass. Wash the spoon between glasses. The Salt glass may not dissolve fully, and that is fine.",
      "context": "In this step you add the yeast, the sugar and one test thing to each glass, and start the clock."
@@ -1370,7 +1370,7 @@
      "id": "s5",
      "mins": 8,
      "do": "Play Day 2 and Day 3 on both plates, with the same rules. Write the table after each day. Remember, only Plate A gets the medicine.",
-     "say": "Same rules each day. Double each kind. Pick 40 only if there are more than 40. Plate A gets the medicine again. Write the numbers each day.",
+     "say": "Play Day 2 and Day 3 in the same way. Each night, double each kind of grain. Pick 40 only if there are more than 40. Plate A gets the medicine every day, and Plate B never does. After each day, write down the numbers.",
      "kid": "Play Day 2 and Day 3 on both plates. Write the numbers each day.",
      "check": {
       "t": "mcq",
@@ -1834,7 +1834,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Pour the cooled water into the clean jug. 2. Add 6 level teaspoons of sugar and half a level teaspoon of salt. 3. Stir until both have dissolved. 4. Pour a little plain water into one cup, and a little of the mixture into another.",
-     "say": "Six teaspoons of sugar and half a teaspoon of salt in one litre of clean water. Measure them level, not heaped. Too much salt is not safe.",
+     "say": "Put six level teaspoons of sugar and half a level teaspoon of salt into one litre of clean water. Measure them level, not heaped, because too much salt is not safe.",
      "kid": "Mix 6 spoons of sugar and half a spoon of salt in the water. Stir well.",
      "parent": "Make a third cup of plain sugar water by stirring one level teaspoon of sugar into a cup of the cooled water, with no salt. Keep the jug covered and throw away anything left after a day.",
      "check": {
@@ -2773,7 +2773,7 @@
      "t": "draw",
      "p": "Esther Lederberg used a round velvet stamp to copy bacteria from one dish to other dishes. Draw how the stamp copies a pattern of dots from one dish of bacteria to two new dishes. Show which dish has the medicine in it.",
      "a": "A drawing of a dish with dots, a round velvet pad pressed on it, then pressed on two new dishes where the same pattern of dots appears, one with a label for the medicine.",
-     "why": "The stamp copies the position of each colony, so scientists can compare the same colony on a dish with and without the medicine."
+     "why": "The stamp copies the position of each colony, which is one small dot of bacteria. So scientists can compare the same colony on a dish with the medicine and a dish without it."
     },
     {
      "t": "mcq",

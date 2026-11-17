@@ -149,7 +149,7 @@
    "status": "defined",
    "context": "This card says what a life cycle is, and names the different hosts a parasite can use.",
    "definition": "A life cycle is the series of stages a living being passes through. A parasite's cycle often needs more than one kind of host.",
-   "description": "A free-living animal, such as a frog, has a life cycle too: egg, tadpole, frog, and then eggs again. A parasite's cycle is harder, because every stage must find the right body. A final host is the body where the parasite becomes an adult and makes eggs. An intermediate host is a body where a young stage grows but does not become an adult. A vector is a carrier, like a mosquito, who moves a parasite from one host to the next. Not every parasite uses all three. A louse uses one host for her whole life. The Guinea worm uses two, a copepod and a person. The malaria parasite uses two, a person and a mosquito. A liver fluke uses three, a snail, a plant and a cow. Each extra host is one more place where the journey can fail, and one more place where people can cut it.",
+   "description": "A free-living animal is one that does not live on or inside another animal. A frog is an example, and it has a life cycle too: egg, tadpole, frog, and then eggs again. A parasite's cycle is harder, because every stage must find the right body. A final host is the body where the parasite becomes an adult and makes eggs. An intermediate host is a body where a young stage grows but does not become an adult. A vector is a carrier, like a mosquito, who moves a parasite from one host to the next. Not every parasite uses all three. A louse uses one host for her whole life. The Guinea worm uses two, a copepod and a person. The malaria parasite uses two, a person and a mosquito. A liver fluke uses three, a snail, a plant and a cow. Each extra host is one more place where the journey can fail, and one more place where people can cut it.",
    "examples": [
     "A head louse lives all of her life on one person, so she has only one host.",
     "The Guinea worm needs a copepod and a person, so she has two hosts.",
@@ -177,7 +177,7 @@
    "status": "defined",
    "context": "This card explains how a cloth filter works and what it cannot do. You test this yourself in the Sari Filter Test.",
    "definition": "A filter is a barrier with tiny gaps. It lets water and everything smaller than the gaps pass, and holds back everything bigger.",
-   "description": "A filter is not a trap. It is a gate with a fixed width. Anything wider than the gaps stays on top, and anything narrower goes through. A copepod is about one to two millimetres long, as big as a poppy seed or a little bigger. A fine cotton cloth has gaps much narrower than that, so it holds the copepods back. But a gate that holds back more things also lets less water through. A cloth folded into four layers has narrower and longer gaps than one layer, so it catches more, and the water passes more slowly. A filter has another limit. Germs are a thousand times smaller than a copepod, and dissolved things are smaller still. A cloth does not catch them. So a cloth stops the Guinea worm's copepods, but does not make water free of bacteria, viruses or chemicals. For those, water must be boiled, treated or passed through a finer filter, such as a ceramic candle. A cloth filter is a good first step. It is not the last one.",
+   "description": "A filter is not a trap. It works like a gate of a fixed width. Anything wider than the gaps cannot get through and stays on top. Anything narrower goes through. A copepod is about one to two millimetres long, as big as a poppy seed or a little bigger. A fine cotton cloth has gaps much narrower than that, so it holds the copepods back. But a gate that holds back more things also lets less water through. A cloth folded into four layers has narrower and longer gaps than one layer, so it catches more, and the water passes more slowly. A filter has another limit. Germs are a thousand times smaller than a copepod, and dissolved things are smaller still. A cloth does not catch them. So a cloth stops the Guinea worm's copepods, but does not make water free of bacteria, viruses or chemicals. For those, water must be boiled, treated or passed through a finer filter, such as a ceramic candle. A cloth filter is a good first step. It is not the last one.",
    "examples": [
     "A tea strainer holds back leaves but lets the tea through, and the same idea holds back copepods when the gaps are small enough.",
     "Water with turmeric stirred in is still yellow after it passes through a cloth, because the colour is made of pieces much smaller than the gaps.",
@@ -219,7 +219,7 @@
    "status": "defined",
    "context": "This card goes deeper into the malaria parasite you met in Level 3. It explains why the fever comes in waves.",
    "definition": "The malaria parasite changes shape and place several times in her journey, and each stage has a different job.",
-   "description": "A mosquito injects a stage called a sporozoite. She goes to the liver and multiplies there. Then many new parasites leave the liver and enter red blood cells. Inside each red cell they multiply again. After about two days, for the commonest kinds, many red cells burst at almost the same time and release a new crowd of parasites. The person shivers and then gets a high fever. The same thing happens each time the next crowd bursts out. This is why the fever returns every other day, in waves. Some of the parasites in the blood turn into a different stage that a mosquito can pick up. That is the way the parasite gets back to the insect. One kind, called vivax, has a special sleeping stage in the liver. It can wake weeks or months later and cause a relapse. So the person must finish the whole treatment the doctor gives. India has several kinds of malaria, and people are given a quick blood test to find out which kind they have. In 2021 and 2023, the World Health Organization recommended the first two malaria vaccines, for children in places where malaria is common.",
+   "description": "A mosquito injects a stage of the parasite called a sporozoite. This stage travels in the blood to the liver and multiplies there. Then many new parasites leave the liver and enter red blood cells. Inside each red cell they multiply again. After about two days, for the commonest kinds, many red cells burst at almost the same time and release a new crowd of parasites. The person shivers and then gets a high fever. The same thing happens each time the next crowd bursts out. This is why the fever returns every other day, in waves. Some of the parasites in the blood turn into a different stage that a mosquito can pick up. That is the way the parasite gets back to the insect. One kind, called vivax, has a special sleeping stage in the liver. It can wake weeks or months later and cause a relapse. So the person must finish the whole treatment the doctor gives. India has several kinds of malaria, and people are given a quick blood test to find out which kind they have. In 2021 and 2023, the World Health Organization recommended the first two malaria vaccines, for children in places where malaria is common.",
    "examples": [
     "Fever on Monday evening, again on Wednesday evening and again on Friday evening matches the two day wave of some kinds of malaria.",
     "A person who felt well for months and then had malaria again may have had a relapse from a sleeping stage in the liver.",
@@ -289,7 +289,7 @@
    "status": "defined",
    "context": "This card says how parasites find a body in the first place. They sense the world and act on what they find.",
    "definition": "Parasites find hosts by sensing signs of a living body, such as warmth, breath, smell, light and movement.",
-   "description": "A female mosquito follows the carbon dioxide in your breath from far away. When she is closer, she senses warmth and the smell of your skin. Scientists have found that the malaria mosquito, Anopheles, has a part that senses heat, and she uses it to find warm skin from a short distance. A tick waits on a blade of grass and senses breath and warmth from an animal passing by. Hookworm larvae in damp soil sense warmth and the touch of a bare foot. The tiny swimmers of a liver fluke are drawn to light and to the smell of a snail. A Guinea worm larva in the water cannot find a person, but a copepod swallows her. So each parasite uses the senses she has. To a mosquito, breath and warmth mean food. This is why a fan, which blows away breath and warmth, makes it harder for a mosquito to find you.",
+   "description": "A female mosquito follows the carbon dioxide in your breath from far away. When she is closer, she senses warmth and the smell of your skin. Scientists have found that the malaria mosquito, Anopheles, has a part that senses heat, and she uses it to find warm skin from a short distance. A tick is a tiny animal that feeds on blood. She waits on a blade of grass and senses breath and warmth from an animal passing by. A hookworm is a small worm that lives in the gut. Hookworm larvae live in damp soil, and they sense warmth and the touch of a bare foot. The tiny swimmers of a liver fluke are drawn to light and to the smell of a snail. A Guinea worm larva in the water cannot find a person, but a copepod swallows her. So each parasite uses the senses she has. To a mosquito, breath and warmth mean food. This is why a fan, which blows away breath and warmth, makes it harder for a mosquito to find you.",
    "examples": [
     "A mosquito finds you more easily after you run, because you breathe out more carbon dioxide.",
     "Hookworm larvae sense the touch of a bare foot, which is why chappals help.",
@@ -330,7 +330,7 @@
    "concept": "Should we try to wipe out a whole species of mosquito or parasite?",
    "status": "debated",
    "context": "This card is about a real debate among scientists, with several views. It has no single right answer.",
-   "description": "Mosquitoes carry malaria, filaria and dengue, and mosquito-borne illnesses kill very many people each year. New tools, such as gene drives, may one day let scientists spread a change through a whole mosquito species so that it dies out or cannot carry a parasite. Some scientists and doctors say it would save millions of lives. Others warn that nobody knows what we would lose, because mosquito larvae are food for fish, and adults are food for birds, bats and dragonflies. The Guinea worm raises a similar question. People worked hard to wipe it out, and almost have. Few argue for keeping it. But the question of whether to wipe out a whole kind of living being is bigger than medicine.",
+   "description": "Mosquitoes carry malaria, filaria and dengue, and mosquito-borne illnesses kill very many people each year. New tools, such as gene drives, may one day let scientists spread a change in the genes through a whole mosquito species, so that it dies out or cannot carry a parasite. Some scientists and doctors say it would save millions of lives. Others warn that nobody knows what we would lose, because mosquito larvae are food for fish, and adults are food for birds, bats and dragonflies. The Guinea worm raises a similar question. People worked hard to wipe it out, and almost have. Few argue for keeping it. But the question of whether to wipe out a whole kind of living being is bigger than medicine.",
    "examples": [
     "A gene drive is a change in the genes that can spread through a whole population in only a few generations.",
     "Of more than three thousand kinds of mosquito, only a small number bite people and carry illness."
@@ -469,7 +469,7 @@
   {
    "q": "A Guinea worm is a living being who is only going about her own life. Is it right to wipe out the very last one?",
    "kind": "big",
-   "hint": "Think about what a farmer, a doctor and a Jain monk would each say."
+   "hint": "Think about how a doctor, a farmer and a Jain monk might each answer. A doctor may think of the people the worm hurts. A farmer may think of the villagers who depend on the well. A Jain monk may think that every living being has a right to live."
   },
   {
    "q": "A female mosquito bites only to feed her eggs. Is she an enemy, or a mother finding food for her young?",
@@ -484,7 +484,7 @@
   {
    "q": "Without a lens, nobody can see a copepod swallow a Guinea worm larva. How can we know the parts of a journey that we cannot see?",
    "kind": "big",
-   "hint": "Think about how Manson and Low found out, by cutting open mosquitoes, and what other tools help."
+   "hint": "Think about how two doctors, Patrick Manson and George Low, found out by cutting open mosquitoes and looking inside. Think about what other tools could help."
   }
  ],
  "story": {
@@ -544,7 +544,7 @@
    "what_is_life": "Every being passes through many shapes and places in a life. A parasite shows it more clearly because her shapes and homes are so different from each other.",
    "what_is_this_world": "Water, copepods, people, snails and mosquitoes are joined into circles. A cloth over a pot can change the health of a whole village, because everything in the circle depends on every link."
   },
-  "thread": "The Guinea worm lives as a speck, a larva and a long worm, in water, in a copepod and in a person. No stage looks like the next, and none could live the whole life alone. What goes on is the journey itself, passed from body to body. Cut one link and the whole circle ends, however many stages it has. Your own life, from one cell to a grown person, also passes through many stages.",
+  "thread": "The Guinea worm lives as a speck, a larva and a long worm, in water, in a copepod and in a person. No stage looks like the next, and none could live the whole life alone. What carries on through every stage is the journey itself, passed from one body to the next. Cut one link and the whole circle ends, however many stages it has. Your own life, from one cell to a grown person, also passes through many stages.",
   "teachings": [
    {
     "source": "Bhagavad Gita 2.13",
@@ -1533,7 +1533,7 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Work out how many days the whole string would take. 2. Write the answer. 3. Try a 60 centimetre worm and a 100 centimetre worm, at 2 and at 3 centimetres a day. 4. Fill a small table. 5. Talk about the question below.",
-     "say": "80 centimetres, 2 centimetres a day. How many days? Was your guess close? A Guinea worm larva is about half a millimetre long. How many times longer than the larva is the adult?",
+     "say": "The pretend worm is 80 centimetres long, and we wind on 2 centimetres each day. How many days will it take to wind the whole worm? Was your guess close? A Guinea worm larva is about half a millimetre long. How many times longer than the larva is the adult?",
      "kid": "Work out 80 divided by 2. How many days is that? Was your guess close?",
      "ask": [
       {

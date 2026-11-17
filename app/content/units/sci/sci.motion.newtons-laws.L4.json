@@ -160,7 +160,7 @@
    "concept": "A bigger force changes motion more",
    "status": "defined",
    "definition": "When the mass stays the same, a net force that is twice as big gives twice the acceleration.",
-   "description": "Suppose a cart gains 1 metre per second every second when the bag pulls with 2 newtons. With a pull of 4 newtons, the same cart gains 2 metres per second every second. Because the cart speeds up faster, it covers a set distance in less time. But twice the pull does not halve the time. It takes four times the force, which gives four times the acceleration, to make the trip take about half the time. The cart keeps speeding up all the way, so the early part of the trip is slow and the last part is quick. Friction uses up part of every pull, so the smallest bag is slowed the most.",
+   "description": "Suppose a cart gains 1 metre per second every second when the bag pulls with 2 newtons. With a pull of 4 newtons, the same cart gains 2 metres per second every second. Because the cart speeds up faster, it covers a set distance in less time. But twice the pull does not halve the time. It takes four times the force, which gives four times the acceleration, to make the trip take about half the time. The cart keeps speeding up all the way, so the early part of the trip is slow and the last part is quick. Friction uses up part of every pull. The smallest bag has the least pull to spare, so friction affects it the most.",
    "examples": [
     "A bag with 400 millilitres of water pulls the cart faster than one with 100 millilitres.",
     "Two children pulling a cart together make it speed up more than one child.",
@@ -388,12 +388,12 @@
    "hint": "Einstein asked this question and it led him to a new idea about gravity. Why would 'how hard the Earth pulls' and 'how hard it is to push' be connected?"
   },
   {
-   "q": "When the bag pulls the cart, the cart pulls the bag back just as hard. Which one is 'doing' the pulling, and which one is 'being pulled'?",
+   "q": "The thread joins the bag and the cart. When the bag pulls the cart, the cart pulls the bag back just as hard. Which one is 'doing' the pulling, and which one is 'being pulled'?",
    "kind": "deep",
    "hint": "Both of them change their motion. Think about which changes more, and why."
   },
   {
-   "q": "When you jump, you push the Earth down and the Earth pushes you up. The Earth moves too. Why can nobody see it?",
+   "q": "A push always works between two things. When you jump, you push the Earth down, and the Earth pushes you up. The Earth moves too. Why can nobody see it?",
    "kind": "deep",
    "hint": "Think about the Earth's mass compared with yours. What does the second law say about a very big mass?"
   },
@@ -410,7 +410,7 @@
   {
    "q": "A huge ship takes many kilometres to stop. What other big things in the world take a very long time to change direction, and what makes them so slow to change?",
    "kind": "big",
-   "hint": "Think of a huge ship, a river, a big crowd or a planet. What do they have a lot of?"
+   "hint": "Think of a huge ship, a river, a big crowd or a planet. What do they all have a lot of, that makes them hard to turn or stop?"
   },
   {
    "q": "A rocket gets lighter and lighter, so the same push speeds it up more and more. Is there anywhere else where losing something makes change easier?",
@@ -434,8 +434,8 @@
    "On the beach, twenty people stood round Murugan Uncle's boat. It was big and blue. The engine was still on its back, and the nets and the ice box were still inside. 'Ready?' shouted Murugan Uncle. 'Eyyaa... lessa!' Everyone pushed. The boat moved a hand's width and stopped.",
    "'Again!' Eyyaa, lessa! Another hand's width. Behind them, each wave slid a little further up the sand.",
    "Amudha had her science stopwatch in her pocket. Her teacher had asked the class to time something that moves, and she had been meaning to time the boats. She pressed the button without thinking. Nine seconds for the boat to creep one step. Then nine again. Then nine.",
-   "She thought of the cart at school. She had pulled it with a bag of water, and she remembered what she had written in her book. A bigger pull makes the cart speed up more. More load makes it speed up less. 'Murugan Uncle,' she said, 'there are only two things we can change. The push, or the weight.'",
-   "'I have no more people,' said Murugan Uncle. 'And the weight is the weight. It is a boat, child.'",
+   "She thought of the cart at school. She had pulled it with a bag of water, and she remembered what she had written in her book. A bigger pull makes the cart speed up more. More load makes it speed up less. 'Murugan Uncle,' she said, 'there are only two things we can change. The push, or the load.'",
+   "'I have no more people,' said Murugan Uncle. 'And the load is the load. It is a boat, child.'",
    "'Not all of it is boat,' said Amudha. 'The engine is not the boat. The nets are not the boat. The ice box is not the boat. Take them out, and the same people push less weight.'",
    "Murugan Uncle frowned. The engine was his pride. But Valli Paati folded her arms. 'The girl is right,' she said. 'An engine can walk up the beach on four men's shoulders.' So four men lifted the engine off. Others carried the nets and the ice box up the sand.",
    "'Now push,' called Amudha. 'Eyyaa, lessa!' The same twenty people pushed. This time the boat jumped forward a whole stride. Amudha pressed her watch. Five seconds. She held it up. 'Nine before. Five now. Nobody pushed harder. The boat just had less to carry.'",
@@ -464,12 +464,12 @@
  "roots": {
   "context": "We have measured how a pull and a load change the motion of a cart. Now we ask what that says about every push, and about us.",
   "deep_truth": {
-   "truth": "In the Hanging Bag Cart experiment, the bag pulled the cart, and the cart pulled the bag back just as hard. So the cart sped up, and the bag fell much more slowly than a bag dropped on its own. A force changes both of the things it acts between. Their masses decide how much each one changes.",
+   "truth": "In the Hanging Bag Cart experiment, the thread joined the bag and the cart. The bag pulled the cart forward, and the cart pulled the bag back just as hard. So the cart sped up, and the bag fell much more slowly than a bag dropped on its own. A force changes both of the things it acts between. Their masses decide how much each one changes.",
    "habit": "We say 'the pull moved the cart', as if one thing does the acting and the other is only moved. A force always acts between two things, so both change. We forget the heavy one because it changes so little.",
    "evidence": "In the Hanging Bag Cart experiment, the bag took a second or more to reach the floor when it was pulling the cart. A bag dropped on its own lands in less than half a second. The cart was holding the bag back. If your numbers differ, write them down as they are."
   },
   "three": {
-   "who_am_i": "When you jump, you push the Earth down and the Earth pushes you up. You and the Earth both change your motion. You change a lot. The Earth changes by an amount too tiny to see.",
+   "who_am_i": "A push always works between two things. When you jump, you push the Earth down, and the Earth pushes you up with the same size of force. You and the Earth both change your motion. You change a lot. The Earth changes by an amount too tiny to see.",
    "what_is_life": "A crow pushes air down to rise. A fish pushes water back to move forward. A snake pushes the ground behind her to slide ahead. Every living being moves by pushing on something else, and the something else moves too.",
    "what_is_this_world": "A cart, a boat, a rocket and the Moon going round the Earth all follow one rule. How much the motion changes depends on the net force and the mass. The same rule works for a toy and for a planet."
   },
@@ -738,7 +738,7 @@
        ]
       }
      ],
-     "parent": "The cards with the answer 'The same' are the hardest. They are about falling and sliding, where a bigger mass means a bigger pull and also a bigger mass to move. The two cancel.",
+     "parent": "The cards with the answer 'The same' are the hardest. They are about falling and sliding, where a bigger mass means a bigger pull from the Earth, and also a bigger mass to move. The two changes cancel each other, so the speed changes by the same amount each second.",
      "context": "In this step, you play more cards and look for a pattern in the answers."
     },
     {
@@ -984,7 +984,7 @@
        "Heavy things always go slower, whatever pulls them"
       ],
       "a": 0,
-      "why": "The bag was the same, so the pull was the same. More bottles meant more mass, and the same net force changes a bigger mass by less. The bag's pull did not shrink. And heavy things do not always go slower. A heavy thing that is falling is pulled harder, as the Ramp Surprise experiment shows."
+      "why": "The bag was the same, so the pull was the same. More bottles meant more mass, and the same net force changes a bigger mass by less. The bag's pull did not shrink. And heavy things do not always go slower. When the Earth is the one pulling, it pulls a heavy thing harder, and you will test this in the Ramp Surprise experiment."
      },
      "context": "In this step, you change only the load, and time the cart three times for each load."
     },
@@ -1168,7 +1168,7 @@
      "id": "s3",
      "mins": 8,
      "do": "Part A. With no load, time the cart 3 times at 12 centimetres. Then change the height to 6 centimetres and time 3 runs. Then change the height to 24 centimetres and time 3 runs.",
-     "say": "Hold the cart at the line. Ready? Go! Time it to the finish line. Do each height three times and write down every time.",
+     "say": "The Earth pulls the cart down towards the ground. On a ramp, the cart can only move along the slope. So the part of the pull that runs along the slope is what makes it roll. The steeper the ramp, the bigger that part is. Hold the cart at the line. Ready? Go! Time it to the finish line. Do each height three times and write down every time.",
      "kid": "Let the cart go. Time it to the finish line. Do three heights, three times each.",
      "parent": "A steeper ramp should be quicker. Doubling the height does not halve the time. The new time is typically about two thirds of the earlier time, or a little less. With 2 to 4 children: one releases, one times, one records, one guards the bottom of the ramp. Swap after each height, and each child draws their own chart. If the cart does not move at 6 centimetres, the wheels have a lot of friction: use 9, 18 and 36 instead.",
      "check": {
@@ -1645,7 +1645,7 @@
      "id": "s2",
      "mins": 8,
      "do": "In the lift, place the scale on the floor and stand on it. Hold the rail. A grown-up presses a button to go up. Watch the number as the lift starts, as it moves, and as it stops. Write the highest and lowest numbers.",
-     "say": "Stand still and hold the rail. Watch the number. What does it do as we start? What does it do while we move? What does it do as we stop?",
+     "say": "A bathroom scale shows how hard you press down on it. It also pushes back up on you just as hard. When you stand still, that push is equal to the Earth's pull on you, so the number is your weight. Stand still and hold the rail. Watch the number. What does it do as we start? What does it do while we move? What does it do as we stop?",
      "kid": "Stand on the scale. Hold the rail. Watch the number as the lift starts, moves and stops.",
      "adult": true,
      "parent": "Stand still. Moving about makes the number jump. A phone filming the scale lets you play it back slowly. Digital scales can be slow or blink, so a dial scale or a filmed scale works best. The change may be small, from a fraction of a kilogram to a kilogram or two, so look at the moments the lift starts and stops.",
