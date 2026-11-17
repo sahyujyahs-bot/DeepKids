@@ -160,9 +160,9 @@
    "definition": "Incisors bite and cut, canines grip and tear, premolars crush, and molars grind.",
    "description": "Each kind of tooth does its job in turn as you eat. The flat front incisors bite a piece off. The pointed canines grip and tear tough food. Your tongue pushes the piece to the back, where the wide, bumpy molars grind it into a soft paste. Grown-ups also have premolars, between the canines and the molars. A child of 7 does not have them yet. They grow in when the back milk molars fall out.",
    "examples": [
-    "Biting a piece off a banana: incisors.",
-    "Tearing a piece of chewy roti or dosa: canines.",
-    "Grinding roasted chana: molars, and in grown-ups premolars too."
+    "When you bite a piece off a banana, you use your incisors.",
+    "When you tear a piece off a chewy roti or dosa, you use your canines.",
+    "When you grind roasted chana, you use your molars. A grown-up uses premolars too."
    ],
    "perspectives": [],
    "art": "A big friendly drawing of a mouth with the incisors blue, canines yellow, premolars orange and molars green, and a small arrow showing food moving from front to back."
@@ -189,7 +189,7 @@
    "examples": [
     "Vinegar and lemon juice made bubbles on the eggshell.",
     "Sour foods and drinks, such as lemon juice, tamarind, raw mango and fizzy drinks, have acids in them.",
-    "A tooth is not dropped in vinegar for a day. But a sour sip every hour gives acid many small chances to work."
+    "Nobody leaves a tooth in vinegar for a whole day. But think about sipping something sour every hour. Each sip puts acid on your teeth again. Each time, the acid can wear away a tiny bit."
    ],
    "perspectives": [],
    "art": "A zoom picture: a piece of eggshell in vinegar with bubbles rising, beside a tooth with a thin worn patch on its enamel."
@@ -198,7 +198,7 @@
    "concept": "Where acid in the mouth comes from",
    "status": "defined",
    "context": "This card explains the two places the acid that harms teeth comes from.",
-   "definition": "Acid in the mouth comes from sour food and drinks, and from bacteria in plaque, who make acid as they eat sugar.",
+   "definition": "Acid in the mouth comes from sour food and drinks, and from bacteria in plaque that make acid when they eat sugar.",
    "description": "In the Eggshell Test, the sugar water did not fizz on the eggshell. So how does sugar harm teeth? Your mouth is home to many tiny living beings called bacteria. Some of them live in plaque on your teeth. As they eat sugar, they make acid right on your teeth. After a sweet snack, they keep making acid for about half an hour or more. So how often you eat sugar matters more than how much you eat at one time.",
    "examples": [
     "One sweet after lunch means the bacteria make acid once. Five small sweets through the afternoon mean they make acid five times.",
@@ -350,12 +350,12 @@
   {
    "q": "A shark grows new teeth again and again. Would you want to? What would be good and what would be hard?",
    "kind": "big",
-   "hint": "Think of the fit between your top and bottom teeth."
+   "hint": "Our top and bottom teeth fit together very exactly. Think about whether new teeth coming in again and again would spoil that fit."
   },
   {
    "q": "Your teeth are made with calcium from your food, and that calcium came from rocks long ago. Is a part of a mountain now in your smile?",
    "kind": "big",
-   "hint": "Calcium moves from rock to soil to plant to animal to you."
+   "hint": "Calcium moves from rock to soil. Plants take it up from the soil, and animals eat the plants. That includes you."
   }
  ],
  "story": {
@@ -509,11 +509,11 @@
    "setup": [
     {
      "art": "Four players at a table, each with four tooth cards fanned in their hand, and a pile of food cards in the middle.",
-     "caption": "1. Each player holds 4 tooth cards. Food cards in a pile."
+     "caption": "1. Each player holds the 4 tooth cards. The food cards are in a pile."
     },
     {
      "art": "A girl reading a food card that says 'Grinding roasted chana into a paste', and three players holding up the Molars card.",
-     "caption": "2. Read a food card. Everyone holds up a tooth card."
+     "caption": "2. Read out a food card. Everyone holds up a tooth card."
     }
    ],
    "flow": [
@@ -550,8 +550,8 @@
      "mins": 2,
      "context": "This is the end of the game.",
      "do": "1. Count the points. 2. Ask the question below.",
-     "say": "Which card was hardest? Why do you think humans have all four kinds?",
-     "kid": "Which card was hardest? Why do we need four kinds of teeth?",
+     "say": "Why do you think humans have all four kinds of teeth?",
+     "kid": "Why do we need four kinds of teeth?",
      "ask": [
       {
        "q": "Why do humans have all four kinds of teeth?",
@@ -577,7 +577,7 @@
      "items": [
       {
        "f": "Sipping a sweet, fizzy drink slowly all afternoon",
-       "b": "Acid time. Sugar for the bacteria, and acid in the drink, again and again for hours."
+       "b": "Acid time. The drink gives the bacteria sugar. The drink also has acid. Your teeth get both again and again for hours."
       },
       {
        "f": "Brushing teeth before bed with fluoride toothpaste",
@@ -625,7 +625,7 @@
       },
       {
        "f": "Spitting out the toothpaste foam, and not rinsing with lots of water",
-       "b": "Helper. A little fluoride stays on your teeth."
+       "b": "Helper. If you do not rinse with lots of water, a little fluoride stays on your teeth and keeps working."
       },
       {
        "f": "Falling asleep with sweetened milk still in your mouth",
@@ -633,7 +633,7 @@
       },
       {
        "f": "Chewing a piece of sugarcane",
-       "b": "Acid time. Sugarcane juice is sugar, for the bacteria to eat."
+       "b": "Acid time. Sugarcane juice is full of sugar. The bacteria eat the sugar and make acid."
       },
       {
        "f": "Ending a meal with a few roasted peanuts",
@@ -694,15 +694,15 @@
      "mins": 2,
      "context": "This is the end of the game.",
      "do": "1. Count the points. 2. Ask the question below.",
-     "say": "Which card surprised you? Why?",
-     "kid": "Which card surprised you? Why?",
+     "say": "Which card gave teeth the most acid times? Why?",
+     "kid": "Which card gave teeth the most acid times? Why?",
      "ask": [
       {
-       "q": "Which card surprised you?",
+       "q": "Which card gave teeth the most acid times?",
        "good": [
-        "Brushing hard is not a helper.",
-        "Payasam with a meal is only one acid time.",
-        "Spitting out the foam is better than rinsing with lots of water."
+        "Sipping a sweet drink slowly all afternoon.",
+        "Nibbling biscuits one by one all evening.",
+        "Each time sugar arrives, the bacteria make acid again."
        ]
       }
      ]
@@ -952,9 +952,11 @@
        ]
       }
      ],
-     "think": "Your teeth are harder than eggshell. A tooth is never left in vinegar for a day. So when could acid touch your teeth?"
+     "think": "Your teeth are harder than eggshell. A tooth is never left in vinegar for a day. So when could acid touch your teeth?",
+     "parent": "Good answers: when you sip something sour, and when bacteria in plaque eat sugar and make acid on your teeth. Both are explained next."
     }
-   ]
+   ],
+   "problem": "Your tooth enamel is hard, and it is made with calcium. An eggshell is hard too, and it is also made with calcium. That is why we use an eggshell as a stand-in for a tooth. If a liquid makes the eggshell soft, it may be able to wear away enamel too."
   },
   {
    "id": "e2",
@@ -1104,7 +1106,8 @@
       }
      ]
     }
-   ]
+   ],
+   "problem": "In this test, the dough is a pretend gum, and each pencil is a pretend tooth. A milk tooth wobbles before it falls out because its root has been taken away. We will see if a tooth with a short root stands less firmly than a tooth with a long root."
   }
  ],
  "activities": [
@@ -1378,13 +1381,14 @@
        "good": [
         "Eat the sweet with lunch, not later.",
         "Drink water instead of juice between meals.",
-        "Not sip a sweet drink slowly all afternoon."
+        "Do not sip a sweet drink slowly all afternoon."
        ]
       }
      ],
      "parent": "This is not about being good or bad. It is about noticing. A meal with a sweet in it is one acid time. Sipping a sweet drink slowly for an hour keeps acid on the teeth the whole hour."
     }
-   ]
+   ],
+   "problem": "Each time you eat or drink something sweet or sour, your teeth get an acid time. An acid time is a time when acid can work on your teeth. Sour things have acid in them. Sweet things feed the bacteria on your teeth, and the bacteria make acid. For one day, you will count your acid times."
   },
   {
    "id": "a4",
@@ -2055,21 +2059,21 @@
     },
     {
      "t": "perspective",
-     "p": "The second child and her brother the first child are talking about milk teeth.",
+     "p": "A boy aged 6 and his sister aged 9 are talking about milk teeth.",
      "views": [
       {
-       "who": "The first child, aged 6",
+       "who": "The brother, aged 6",
        "says": "I don't need to brush my milk teeth much. They are going to fall out anyway."
       },
       {
-       "who": "The second child, aged 9",
+       "who": "The sister, aged 9",
        "says": "You must brush them. You will use them for years, and a hole in one can hurt."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right. Say your answer out loud, and a grown-up writes it down.",
      "lines": 3,
-     "a": "A strong answer agrees with the second child, because milk teeth are used for chewing and speaking for many years, a cavity can hurt, and milk teeth hold the space for adult teeth. It also says the first child is right that milk teeth do fall out.",
-     "why": "The first child is right that they fall out. The second child is right that they still matter while they are there."
+     "a": "A strong answer agrees with the sister, because milk teeth are used for chewing and speaking for many years, a cavity can hurt, and milk teeth hold the space for adult teeth. It also says the brother is right that milk teeth do fall out.",
+     "why": "The brother is right that they fall out. The sister is right that they still matter while they are there."
     }
    ]
   },
@@ -2152,14 +2156,14 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and her grandmother are cleaning their teeth.",
+     "p": "A girl aged 8 and her grandmother are cleaning their teeth.",
      "views": [
       {
-       "who": "The first child's grandmother, aged 70",
+       "who": "The girl's grandmother, aged 70",
        "says": "I have cleaned my teeth with a neem twig every morning of my life. It needs no shop and no plastic."
       },
       {
-       "who": "The first child, aged 8",
+       "who": "The girl, aged 8",
        "says": "I use a toothbrush with fluoride toothpaste. The small head reaches my back teeth, and the fluoride makes enamel harder for acid to wear away."
       }
      ],
@@ -2442,7 +2446,7 @@
   {
    "problem": "Your mouth has four quarters: top left, top right, bottom left and bottom right. Each quarter of a child's mouth has 5 milk teeth. How many milk teeth are there in all? A grown-up has 8 teeth in each quarter. How many is that?",
    "answer": "20 milk teeth. 32 adult teeth.",
-   "explain": "4 groups of 5 is 5, 10, 15, 20. 4 groups of 8 is 8, 16, 24, 32.",
+   "explain": "There are 4 groups of 5. Count by fives: 5, 10, 15, 20. So there are 20 milk teeth. There are 4 groups of 8. Count by eights: 8, 16, 24, 32. So a grown-up can have 32 teeth.",
    "math_unit": "math.multiplication.equal-groups.L2",
    "why_maths": "The mouth is made of four matching quarters, so counting one quarter and making four equal groups is quicker than counting every tooth."
   },
