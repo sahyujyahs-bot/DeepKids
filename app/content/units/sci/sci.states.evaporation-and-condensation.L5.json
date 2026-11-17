@@ -216,7 +216,7 @@
    "concept": "Condensation with particles: the reverse of evaporation",
    "status": "defined",
    "definition": "Condensation is a gas turning into a liquid. Particles of water vapour that touch something cool lose energy and slow down. They stick to each other and to the surface. Many of them together make a drop.",
-   "description": "Particles of water vapour fly about at around 600 metres a second, faster than a passenger jet. When one hits a cold tumbler, it gives some of its energy to the steel and slows down. A slow particle cannot break away again, so it stays. More particles join it, and soon there is a drop big enough to see. Condensation is evaporation run backwards, and the heat goes backwards too. Evaporation takes heat in, and condensation gives the same heat out. That is why steam burns the skin more badly than boiling water. In 1958 the weather scientists Joanne Simpson and Herbert Riehl showed what this heat does. It lifts tall rain clouds many kilometres high.",
+   "description": "Particles of water vapour fly about at around 600 metres a second, faster than a passenger jet. When one hits a cold tumbler, it gives some of its energy to the steel and slows down. A slow particle cannot break away again, so it stays. More particles join it, and soon there is a drop big enough to see. Condensation is evaporation run backwards, and the heat goes backwards too. Evaporation takes heat in, and condensation gives the same heat out. That is why steam burns the skin more badly than boiling water. In 1958 the weather scientists Joanne Simpson (then Malkus) and Herbert Riehl argued that this heat powers the tall towers of rain cloud in the tropics.",
    "examples": [
     "Mist forms on a steel tumbler of cold buttermilk, but only as high as the buttermilk inside.",
     "Your warm breath makes a misty patch on a cold window, and the patch evaporates again in seconds.",
@@ -256,12 +256,12 @@
    "concept": "The water cycle explained with particles",
    "status": "defined",
    "definition": "The water cycle is evaporation and condensation on the scale of the whole Earth. Sunlight gives particles at the surface of the sea enough energy to leave. High up, where the air is cold, they slow down and join into the drops of a cloud.",
-   "description": "Sunlight warms the top of the sea. The fastest water particles escape, and the salt stays behind. The vapour mixes into the air, and warm, damp air rises. As the air rises it cools, by about 6 to 10 degrees for every kilometre. When it is cooled to its dew point, the vapour particles slow down. They stick to specks of dust, salt or smoke. Each speck grows into a cloud drop about a fiftieth of a millimetre wide. About a million cloud drops must join to make one raindrop. Drops that are heavy enough fall as rain. In very cold clouds the water falls as snow or hail. Rain runs into rivers and soaks into the ground, and most of it reaches the sea again.",
+   "description": "Sunlight warms the top of the sea. The fastest water particles escape, and the salt stays behind. The vapour mixes into the air, and warm, damp air rises. As the air rises it cools, by about 5 to 10 degrees for every kilometre. When it is cooled to its dew point, the vapour particles slow down. They stick to specks of dust, salt or smoke. Each speck grows into a cloud drop about a fiftieth of a millimetre wide. About a million cloud drops must join to make one raindrop. Drops that are heavy enough fall as rain. In very cold clouds the water falls as snow or hail. Rain runs into rivers and soaks into the ground, and most of it reaches the sea again.",
    "examples": [
     "The south-west monsoon carries vapour from the Arabian Sea. It condenses as the air is pushed up the Western Ghats.",
     "The sea loses more than a metre of depth to evaporation every year, about 3 millimetres a day. Rain and rivers put it back.",
     "A particle of water stays in the air for about 9 days, on average, before it falls.",
-    "A tree is part of the cycle. A large neem tree sends hundreds of litres of water into the air from their leaves on a hot day."
+    "A tree is part of the cycle. A large oak tree can send about 150,000 litres of water into the air from its leaves in a year."
    ],
    "perspectives": [],
    "art": "A cut-away picture of sea, sky and hills with six zoom circles: particles leaving the sea, mixing in air, cooling, joining on a dust speck, falling as a raindrop, and flowing in a river."
@@ -274,7 +274,7 @@
    "examples": [
     "In Find the Dew Point, the mist appeared at a higher temperature in a steamy bathroom than in the bedroom.",
     "Dew forms on parked scooters in Bengaluru on clear winter nights, when the metal cools below the dew point.",
-    "In Chennai in May the dew point is often about 26 degrees. In Delhi in January it may be 5 degrees."
+    "On a humid summer day in Chennai the dew point can be about 25 degrees. On a cold, dry winter morning in Delhi it can be 5 degrees or lower."
    ],
    "perspectives": [],
    "art": "A steel tumbler with a thermometer and floating ice, a clear band at the top of the outside and a misty band below."
@@ -338,7 +338,7 @@
   },
   {
    "text": "The particles of a liquid at one temperature move at many different speeds.",
-   "evidence": "James Clerk Maxwell worked this out for gases in 1860. In the 1920s and 1930s, experiments with beams of atoms measured the spread of speeds he had predicted."
+   "evidence": "James Clerk Maxwell worked this out for gases in 1860. In the 1920s, experiments with beams of atoms tested the spread of speeds he had predicted."
   },
   {
    "text": "Evaporation cools the liquid that is left, and condensation gives the same heat out again.",
@@ -346,7 +346,7 @@
   },
   {
    "text": "Warmth, a bigger surface, moving air and dry air each make evaporation faster.",
-   "evidence": "Each can be tested alone, with everything else kept the same. Weather stations across India measure daily evaporation from open pans and see all four."
+   "evidence": "Each can be tested alone, with everything else kept the same. Weather stations across India measure daily evaporation from open pans."
   },
   {
    "text": "Water vapour is a gas that mixes with the air. The air does not dissolve the water.",
@@ -392,9 +392,9 @@
   },
   {
    "claim": "Light can free water particles from a surface directly, without heating the water.",
-   "who": "Gang Chen and his group at the Massachusetts Institute of Technology, in papers from 2023 and 2024",
+   "who": "Gang Chen and his group at the Massachusetts Institute of Technology, in a paper from 2023",
    "for": "Their wet samples lost water faster under light than the heat in the light could explain. The effect changed with the colour of the light, which plain heating would not do.",
-   "against": "The results are new, and other laboratories have not yet repeated them fully. Some scientists think that small errors in measuring heat could explain the extra evaporation.",
+   "against": "The results are new, and other laboratories have not yet repeated them fully. Some scientists suggest other explanations, such as water in a gel evaporating more easily than plain water.",
    "status": "debated",
    "context": "This card is about a new and unproven idea: that light, and not only heat, can cause evaporation."
   }
@@ -435,7 +435,7 @@
   "title": "The Pot That Dried Too Fast",
   "mins": 12,
   "read_aloud": true,
-  "note": "Yazhini, Ponni Paatti and their shed are made up. The science of drying clay is real. Wet clay shrinks as its water evaporates. Water leaves only from the surface, so the outside and the thin rim dry and shrink first. If they shrink much faster than the wet clay inside, the pot cracks. Potters in Villianur near Puducherry, and all over India, dry their pots slowly in shade and out of the wind. They often cover them with damp cloth, and they turn them. A dry, unbaked pot can be soaked in water and turned back into soft clay.",
+  "note": "Yazhini, Ponni Paatti and their shed are made up. The science of drying clay is real. Wet clay shrinks as its water evaporates. Water leaves only from the surface, so the outside and the thin rim dry and shrink first. If they shrink much faster than the wet clay inside, the pot cracks. Potters in many parts of India dry their pots slowly in shade and out of the wind. They often cover them with damp cloth, and they turn them. A dry, unbaked pot can be soaked in water and turned back into soft clay.",
   "text": [
    "Ponni Paatti made water pots in a tiled shed in Villianur, a short bus ride from Puducherry. In the summer holidays her granddaughter Yazhini, who was ten, came to stay and to get clay under her fingernails.",
    "That May the heat was fierce, and a marriage hall had ordered thirty pots for its drinking water. \"In six days,\" Paatti said. \"One day for the kiln, one day to cool. So the pots have four days to dry.\"",
@@ -3059,31 +3059,28 @@
  ],
  "videos": [
   {
-   "title": "An animation of evaporation and condensation at the level of particles, showing fast particles leaving a liquid surface",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "A Molecular Simulation of Evaporation and Condensation",
+   "channel": "Charles Xie",
+   "youtube": "YOnSISXDILU",
    "mins": 4,
    "why": "To see what no experiment at home can show: single particles of different speeds, with only the fastest ones breaking away.",
-   "check": "No address yet. Find an animation from a university or a science teaching society. Check that the particles have different speeds, that only fast ones at the surface leave, and that it does not show air 'soaking up' water."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "A heat camera view of sweat evaporating from skin, or of a wet cloth cooling under a fan",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Demonstrating Evaporative Cooling with an Infrared Camera",
+   "channel": "Physics with Simon Poliakoff",
+   "youtube": "rSyBDDkodl4",
    "mins": 3,
    "why": "To see evaporative cooling as a change of colour on a heat camera. It is the same cooling as in The Oil Lid.",
-   "check": "No address yet. Find a clip from a science centre or a well-known science channel. Check that it says the cooling comes from evaporation, and not from the fan's air being cold."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "A year of water vapour and clouds moving round the Earth, seen by weather satellites",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "NASA SVS - Earth Timelapse - One Year In The Life of Earth",
+   "channel": "BigKidScience",
+   "youtube": "dNP3yKs3vnM",
    "mins": 4,
    "why": "To see the water cycle on the scale of the whole planet. Vapour rises near the equator, and the monsoon sweeps over India.",
-   "check": "No address yet. Find a clip from a space agency or a weather service, if possible one that shows the Indian monsoon. Check that it says what the colours stand for."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -3132,7 +3129,7 @@
  "open_questions": [
   {
    "q": "Can light free water particles from a surface without heating the water?",
-   "why_open": "A group in the United States reported this in 2023. Other laboratories have not yet repeated it fully, and some suspect small errors in measuring heat."
+   "why_open": "A group in the United States reported this in 2023. Other laboratories have not yet repeated it fully, and some scientists suggest other explanations."
   },
   {
    "q": "Why has evaporation from weather-station pans fallen in many places, while the world has warmed?",
@@ -3369,14 +3366,14 @@
    "url": "",
    "kind": "place",
    "where": "Chennai",
-   "why": "A science centre with hands-on exhibits and a planetarium next door."
+   "why": "A science centre with hands-on exhibits. The Birla Planetarium is on the same campus."
   },
   {
    "title": "Science City",
    "url": "",
    "kind": "place",
    "where": "Kolkata",
-   "why": "A large science centre with hands-on exhibits on water, weather and the Earth."
+   "why": "Said to be the largest science centre in the Indian subcontinent, with a science park and many hands-on exhibits."
   }
  ],
  "buy": [
@@ -3606,7 +3603,7 @@
    "Founder's notebook, gases, evaporation and condensation page: 'heat transfer and kinetic theory', 'evaporation and condensation', and the philosophy line 'invisible motion creates observable effects; chaos yields predictable averages'. These lead the explanations, the dice game Fast Ones Leave and the roots.",
    "Founder's notebook, kinetic theory of gases: 'relation of temperature to molecular kinetic energy' and the SCI Card for Ludwig Boltzmann ('temperature is a measure of how fast atoms jiggle'), used for the deep truth.",
    "Founder's notebook, clouds and precipitation: condensation on specks, the reading 'The Cloud Book' by Tomie dePaola (in the buy list), and the 'mini greenhouse with plastic wrap', which became the challenge More Drops per Hour.",
-   "Cambridge Primary Science Learner's Book 5 (2nd edition), Unit 3.3 'Evaporation and condensation' and the project 'How do people use evaporation?', for coverage only: evaporation and condensation with the particle model, investigating evaporation, the flow chart of changes of state, the water cycle and the survey.",
+   "Cambridge Primary Science Learner's Book 5 (2nd edition), the topic of evaporation and condensation, for coverage only (unit and section numbers not rechecked): evaporation and condensation with the particle model, investigating evaporation, the flow chart of changes of state, the water cycle and the survey.",
    "Other units were checked so that nothing repeats. Closed box, damp air and drying diary tests are in sci.states.evaporation-and-condensation.L3. Liquids racing, lid on or off, the evaporation pan and reading a dew point from an app are in the Level 4 unit. Sun, wind and wide-surface plates, the bowl still, the cloud in a jar and the leaf bag are in sci.water.water-cycle.L3. A wet cloth round a tumbler is in sci.body.keeping-balance.L3, and a wet cloth on a thermometer in sci.energy.heat.L4. This unit measures surface area, isolates evaporative cooling with oil, and explains each result with particles."
   ],
   "science": [
@@ -3620,14 +3617,15 @@
    "Kim H. and others (2017). Water harvesting from air with metal-organic frameworks powered by natural sunlight. Science 356: 430-434.",
    "Chen X., Goodnight D., Gao Z., Cavusoglu A. H., Sabharwal N., DeLay M., Driks A. and Sahin O. (2015). Scaling up nanoscale water-driven energy conversion into evaporation-driven engines and generators. Nature Communications 6: 7346.",
    "Haghighi E., Madani K. and Hoekstra A. Y. (2018). The water footprint of water conservation using shade balls in California. Nature Sustainability 1: 358-360.",
-   "Trenberth K. E., Smith L., Qian T., Dai A. and Fasullo J. (2007). Estimates of the global water budget and its annual cycle using observational and model data. Journal of Hydrometeorology 8: 758-769 (ocean evaporation and the time water stays in the air)."
+   "Trenberth K. E., Smith L., Qian T., Dai A. and Fasullo J. (2007). Estimates of the global water budget and its annual cycle using observational and model data. Journal of Hydrometeorology 8: 758-769 (ocean evaporation and the time water stays in the air).",
+   "Chattopadhyay N. and Hulme M. (1997). Evaporation and potential evapotranspiration in India under conditions of recent and future climate change. Agricultural and Forest Meteorology 87: 55-73 (fall in pan evaporation over India)."
   ]
  },
  "how_we_found_out": {
   "context": "How did people find out that evaporating water mixes into the air as a gas of its own? This card tells the true story, and the idea that turned out wrong.",
-  "story": "In the 1700s most scientists explained evaporation like this: air dissolves water, just as water dissolves sugar. If that were right, water could not evaporate where there is no air. John Dalton was a schoolteacher in Manchester, England, who wrote down the weather every day for 57 years. In 1801 he tested the idea. He let water evaporate into a glass tube that held almost no air. He did the same in a tube full of dry air, at the same temperature. Then he measured how hard the water vapour pushed in each tube. The push was the same. So the air was not dissolving the water. Dalton concluded that water vapour is a gas of its own. Its particles move about among the particles of the air without joining them. The air only gets in their way and slows them down. Thinking about these mixed gases led Dalton, two years later, to his theory that all matter is made of atoms.",
-  "who": "John Dalton, a schoolteacher and weather recorder in Manchester, England",
-  "when": "The experiments were done in 1801 and printed in 1802. Dalton's first table of atoms followed in 1803.",
+  "story": "In the 1700s most scientists explained evaporation like this: air dissolves water, just as water dissolves sugar. If that were right, water could not evaporate where there is no air. John Dalton was a teacher in Manchester, England, who wrote down the weather every day for 57 years. In 1801 he tested the idea. He let water evaporate into a glass tube that held almost no air. He did the same in a tube full of dry air, at the same temperature. Then he measured how hard the water vapour pushed in each tube. The push was the same. So the air was not dissolving the water. Dalton concluded that water vapour is a gas of its own. Its particles move about among the particles of the air without joining them. The air only gets in their way and slows them down. Thinking about these mixed gases led Dalton, a few years later, to his theory that all matter is made of atoms.",
+  "who": "John Dalton, a teacher and weather recorder in Manchester, England",
+  "when": "The experiments were done in 1801 and printed in 1802. His first printed table of atoms followed in 1805.",
   "wrong_idea": "That water evaporates because air dissolves it, as water dissolves sugar. Dalton showed that water gives off the same amount of vapour into an almost empty tube as into air. So air is not needed for evaporation.",
   "art": "A man in plain dark clothes of about 1800 reading the height of mercury in two tall glass tubes on a wooden stand, with a weather diary open on the table."
  },
@@ -3646,7 +3644,7 @@
   "thread": "A tumbler of water looks like one still thing with one temperature. It is a vast crowd of particles, each moving at a speed of its own. The one temperature comes from all of them together. The few fastest leave, and from them come vapour, clouds and rain. Rain feeds the rivers, the trees and you. So the many differences inside one tumbler of water are where the whole water cycle begins.",
   "teachings": [
    {
-    "source": "Lucretius, On the Nature of Things, Book 1, lines 305 to 310 (Rome, about 55 BCE)",
+    "source": "Lucretius, On the Nature of Things, Book 1 (Rome, about 55 BCE)",
     "teaching": "Clothes hung by the sea grow damp, and spread in the sun they dry. Nobody sees the water settle on them or leave them. So, Lucretius says, the water must come and go in pieces too small for the eye to see.",
     "link": "This is evaporation explained with particles, two thousand years before anyone could test it. Lucretius reasoned from washing on a line, as this unit does."
    },
@@ -3656,7 +3654,7 @@
     "link": "Every one of those drops was made by condensation, from particles that evaporated somewhere else. The verse says how much rests on that. The science says where the drops come from."
    },
    {
-    "source": "Milindapanha (The Questions of King Milinda), Book 2, chapter 1, the chariot",
+    "source": "Milindapanha (The Questions of King Milinda), the chariot passage",
     "teaching": "The monk Nagasena asks the king whether the chariot is its wheels, its axle or its pole. It is none of them. 'Chariot' is a name for all the parts working together.",
     "link": "Temperature is like this. No single particle has it. It is a name for what a great many particles are doing together. The science does not prove the Buddhist teaching about the self, which Nagasena goes on to draw."
    }
@@ -3692,5 +3690,5 @@
   ],
   "art": "A child sitting cross-legged with a steel tumbler held in both hands, and a faint trail of tiny dots rising from the water towards an open window and a cloud."
  },
- "playtest": "Reasoned through step by step, as a parent and child in a city flat would do it. Not yet tried at home. Wide or Narrow (core) needs a clear straight-sided glass, a ruler, a rimmed steel plate, a bowl, a tumbler and a jar with a lid. It takes two days, with 24 minutes on the first and 21 on the second. Under a fan in dry weather the plate should lose 20 to 40 mm of height in the measuring glass. On a humid day it loses about 10 mm, and a second day of waiting helps. The plate should lose about 4 times as much as a bowl half as wide. The tumbler often loses less than its area suggests, because its walls shelter the water. The closed jar shows how much water is lost in pouring. The Oil Lid (core) needs a grown-up for the hot water, which is about 50 degrees. The oil must cover the whole surface, so a third spoonful may be needed. The open bowl should feel clearly cooler after 10 to 20 minutes, by about 4 to 8 degrees. It works on humid days too, because hot water evaporates fast into any room air. The Tilting Hanger depends on the weather. The lighter cloth's end should rise 1 to 4 cm after 8 minutes, and less on a very humid day. Tumbler or Davara and What Is in the Bubbles? need a grown-up. Shake the Plate loses 0 to 3 chana with a gentle shake and 8 to 20 with a hard one. Find the Dew Point needs a thermometer that reads from 0 to 50 degrees, and in very dry air no mist may form. More Drops per Hour needs 3 hours of strong sun, and collects only 1 to 4 teaspoons. Catch Water from the Air collects little in a dry or air-conditioned room, so a humid kitchen is better. Fast Ones Leave needs division to one decimal place, and a phone calculator is fine. No part needs a garden. Facts to treat with care: the three-quarters rule for the area of a circle is rounded from 0.785. Three figures are rounded. The sea loses a little over a metre a year. A particle stays in the air for about 9 days. Vapour particles move at about 600 metres a second. The 4 to 8 degree gap in The Oil Lid and the tilt of the hanger are estimates. The light effect reported in 2023 is not yet confirmed by other laboratories. The passages from Lucretius, the Tirukkural and the Milindapanha are given as paraphrases. The three videos have no address yet."
+ "playtest": "Reasoned through step by step, as a parent and child in a city flat would do it. Not yet tried at home. Wide or Narrow (core) needs a clear straight-sided glass, a ruler, a rimmed steel plate, a bowl, a tumbler and a jar with a lid. It takes two days, with 24 minutes on the first and 21 on the second. Under a fan in dry weather the plate should lose 20 to 40 mm of height in the measuring glass. On a humid day it loses about 10 mm, and a second day of waiting helps. The plate should lose about 4 times as much as a bowl half as wide. The tumbler often loses less than its area suggests, because its walls shelter the water. The closed jar shows how much water is lost in pouring. The Oil Lid (core) needs a grown-up for the hot water, which is about 50 degrees. The oil must cover the whole surface, so a third spoonful may be needed. The open bowl should feel clearly cooler after 10 to 20 minutes, by about 4 to 8 degrees. It works on humid days too, because hot water evaporates fast into any room air. The Tilting Hanger depends on the weather. The lighter cloth's end should rise 1 to 4 cm after 8 minutes, and less on a very humid day. Tumbler or Davara and What Is in the Bubbles? need a grown-up. Shake the Plate loses 0 to 3 chana with a gentle shake and 8 to 20 with a hard one. Find the Dew Point needs a thermometer that reads from 0 to 50 degrees, and in very dry air no mist may form. More Drops per Hour needs 3 hours of strong sun, and collects only 1 to 4 teaspoons. Catch Water from the Air collects little in a dry or air-conditioned room, so a humid kitchen is better. Fast Ones Leave needs division to one decimal place, and a phone calculator is fine. No part needs a garden. Facts checked on 17 Nov 2026 against published sources: Dalton's work, the paper citations, the sea evaporation and 9-day figures, the shade balls, the Gujarat canal and the floating solar plants. Softened or removed: Dalton's job and atomic table date, the 2024 papers and the heat-error claim about the light effect, the neem tree figure (now a sourced oak figure), the Cambridge book unit numbers, the Villianur potters, the Lucretius line numbers and the Milindapanha book number, and the Chennai and Delhi dew points (now \"can be\"). The three videos have no address yet."
 }
