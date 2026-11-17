@@ -45,7 +45,7 @@ Everything is made of atoms, which are particles far too small to see. There are
 The centre of an atom holds particles called protons. Hydrogen has 1 proton, so it is element number 1. Carbon has 6, and oxygen has 8. An atom with 79 protons is always gold. There is no element with 6 and a half protons, so there are no gaps in the list. About 90 of the 118 elements are found in nature on the Earth. People made the rest in laboratories, by smashing lighter atoms together. Many of those last less than one second before they break apart. The newest four were named in 2016. Number 118 is oganesson, and only a few atoms of it have ever been made. Nobody knows yet whether more elements can be made.
 - e.g. Hydrogen is number 1, the lightest element.
 - e.g. Uranium is number 92, the heaviest element found in large amounts in nature.
-- e.g. Oganesson is number 118. Its atoms last less than a thousandth of a second.
+- e.g. Oganesson is number 118. Its atoms last about a thousandth of a second.
 ### Every element has a symbol · *defined*
 **Definition:** A symbol is one or two letters that stand for an element. The first letter is a capital and the second is small.
 
@@ -112,7 +112,7 @@ The universe began about 13.8 billion years ago. In its first few minutes it mad
 - Elements heavier than hydrogen and helium were built inside stars. *How we know:* In 1957 Margaret Burbidge, Geoffrey Burbidge, William Fowler and Fred Hoyle showed how stars build each element. The amounts they worked out match what astronomers measure.
 
 ## How we found out
-**Hennig Brand in Hamburg. Later Robert Boyle in England, Johan Gahn and Carl Scheele in Sweden, and Antoine Lavoisier in France., Brand found phosphorus in 1669. Boyle made it in 1680. Gahn found it in bones in 1769, and Scheele made it from bone ash in 1771. Lavoisier's list was printed in 1789..** For hundreds of years, people called alchemists believed that ordinary matter could be turned into gold. Hennig Brand was a merchant in Hamburg in Germany. In 1669 he thought the secret might lie in urine, because urine is golden yellow. He collected many buckets of it. He let it stand for weeks, boiled it down to a paste, and heated the paste very strongly. No gold appeared. A white, waxy solid dripped out, and it glowed pale green in the dark. Brand had found phosphorus. He was the first person known by name to discover an element. He kept his method secret and sold it. Robert Boyle in England worked out the method again in 1680. About a hundred years later, in Sweden, Johan Gahn found phosphorus in bones. Carl Scheele then made it from bone ash. In 1789 Antoine Lavoisier put phosphorus on his list of simple substances that nobody could break down. So a search for gold showed something else. The human body holds an element that no one had known, and that element can be taken out and held.  
+**Hennig Brand in Hamburg. Later Robert Boyle in England, Johan Gahn and Carl Scheele in Sweden, and Antoine Lavoisier in France., Brand found phosphorus in 1669. Boyle made it in 1680. Gahn found it in bones in 1769, and Scheele made it from bone ash in the 1770s. Lavoisier's list was printed in 1789..** For hundreds of years, people called alchemists believed that ordinary matter could be turned into gold. Hennig Brand was a merchant in Hamburg in Germany. In 1669 he thought the secret might lie in urine, because urine is golden yellow. He collected many buckets of it. He let it stand for weeks, boiled it down to a paste, and heated the paste very strongly. No gold appeared. A white, waxy solid dripped out, and it glowed pale green in the dark. Brand had found phosphorus. He is said to be the first person known by name to discover an element. He kept his method secret and sold it. Robert Boyle in England worked out the method again in 1680. About a hundred years later, in Sweden, Johan Gahn found phosphorus in bones. Carl Scheele then made it from bone ash. In 1789 Antoine Lavoisier put phosphorus on his list of simple substances that nobody could break down. So a search for gold showed something else. The human body holds an element that no one had known, and that element can be taken out and held.  
 *What people believed before:* That ordinary matter can be turned into gold. Brand also took the golden colour of urine as a sign of gold in it. His work gave no gold. It gave a new element. Later chemists showed that heating or mixing cannot change one element into another.
 
 ## Challenging perspectives
@@ -166,7 +166,7 @@ Hydrogen is the simplest atom, with one proton. Stars pressed hydrogen together 
 - *big:* Every hydrogen atom in your body is about 13.8 billion years old. So how old are you? (hint: Is a new house old if its bricks are old?)
 - *big:* Most elements are metals. Why might living bodies be built almost entirely from a few non-metals? (hint: Think about what carbon can do that iron cannot: join into long chains.)
 - *big:* People once said the elements were earth, water, air and fire. Their list was wrong. Was their idea wrong? (hint: They thought a few basic kinds make everything. Is that still what we think?)
-- *deep:* Scientists made element 118 for less than a thousandth of a second. Did that element exist before they made it? (hint: Did the number 118 have a place in the list before anyone filled it?)
+- *deep:* Scientists made element 118 for about a thousandth of a second. Did that element exist before they made it? (hint: Did the number 118 have a place in the list before anyone filled it?)
 
 ## Story: The Black in the Lamp
 *Nila, Appu, Ammamma and the baby are made up. These things are real. In Kerala, many families make kanmashi at home for a baby's twenty-eighth day. They burn a cotton wick in oil under a plate or pot and collect the soot. Soot is mostly carbon. Coconut shells are burnt to charcoal for heavy box irons. Doctors today advise families not to put kajal or kanmashi in a baby's eyes.*
@@ -605,15 +605,14 @@ The baby slept through everything, growing.
 13. (odd) Three of these turn black when heated on a tawa. Which is the odd one out?  
    Options: Rice / Cotton / Paper / Salt  
    **Answer:** 3. *Why:* Rice, cotton and paper came from plants and hold carbon. Salt holds no carbon and stays white.
-14. (write) Element 118 lasts less than a thousandth of a second. Should it count as an element? Give a reason.  
+14. (write) Element 118 lasts about a thousandth of a second. Should it count as an element? Give a reason.  
    **Answer:** Yes is the answer chemists give: its atoms have 118 protons, and that is what makes an element. A thoughtful no might say that nothing can be built from it or tested with it.. *Why:* A strong answer uses what an element is: one kind of atom, fixed by its number of protons.
 15. (label) These five squares are numbered 1, 6, 8, 20 and 26. Write each element's symbol in its square.  
    **Answer:** ['1: H, hydrogen', '6: C, carbon', '8: O, oxygen', '20: Ca, calcium', '26: Fe, iron']. *Why:* All five are in your body. Fe is the only one of these whose symbol comes from a Latin name.
 
 ## Videos
-- **Sodium, a metal soft enough to cut with a knife** (, 4 min) id `to find`: To see a metal that is soft, light and quick to lose its shine. It widens the idea of what a metal is. *Check:* No address yet. Find a clip from a university chemistry department or a science museum. Check that it shows the fresh cut shining and then turning dull. It should also warn viewers never to try this at home.
-- **Sugar turning into a column of black carbon** (, 3 min) id `to find`: To see the carbon inside white sugar come out as a black solid, as in the Black Test. *Check:* No address yet. Find a clip from a university or a science channel in which sugar is heated or treated in a laboratory. Check that it says the black is carbon and that the demonstration is done by trained people.
-- **How stars make the elements** (, 6 min) id `to find`: To see where the oxygen, carbon and calcium of the body were made. *Check:* No address yet. Find an animation from a space agency or a university. Check that it says hydrogen came from the start of the universe. It should also say that heavier elements were built in stars and in star collisions.
+- **Sodium metal is soft and squishy** (NileRed, 4 min) id `bej9ECbaKuw`: To see a metal that is soft, light and quick to lose its shine. It widens the idea of what a metal is. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **How Are We Made of Star Stuff? We Asked a NASA Expert** (NASA, 6 min) id `63uNNcCpxHI`: To see where the oxygen, carbon and calcium of the body were made. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Which of these is an element?  
@@ -691,7 +690,7 @@ The baby slept through everything, growing.
 - Why did the pencil lead fail the metal test? *It snapped under pressure.*
 - Does the chemist know the symbol for sodium? *Na.*
 - How many elements does it take to make a child? *About 25, and a lot of rice and dal.*
-- Why did element 118 miss its own birthday party? *It lasted less than a thousandth of a second.*
+- Why did element 118 miss its own birthday party? *It lasted about a thousandth of a second.*
 - What did the copper wire say to the temple bell? *You do the ringing. I will carry the current.*
 - Why was mercury sent out of the metals' class? *It would not sit still. It kept running.*
 - What did the hydrogen atoms say when oxygen called them small? *There are 62 of us and only 24 of you.*
@@ -744,9 +743,9 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - Emsley J. (2011). Nature's Building Blocks: An A-Z Guide to the Elements, new edition. Oxford University Press. (Elements in the human body.)
 - Payne C. H. (1925). Stellar Atmospheres. Harvard Observatory Monographs No. 1.
 - Burbidge E. M., Burbidge G. R., Fowler W. A., Hoyle F. (1957). Synthesis of the Elements in Stars. Reviews of Modern Physics 29, 547-650.
-- Wöhler F. (1828). Ueber künstliche Bildung des Harnstoffs. Annalen der Physik und Chemie 88, 253-256.
+- Wöhler F. (1828). Ueber künstliche Bildung des Harnstoffs. Annalen der Physik und Chemie 87(2), 253-256.
 - Lavoisier A. (1789). Traité élémentaire de chimie. Paris: Cuchet.
-- Weeks M. E. (1932). The discovery of the elements. II. Elements known to the alchemists. Journal of Chemical Education 9(1), 11. (Brand and phosphorus.)
+- Weeks M. E. (1933). The Discovery of the Elements. (First printed as a series of articles in the Journal of Chemical Education, 1932-1933. Brand and phosphorus.)
 - Wigner E., Huntington H. B. (1935). On the Possibility of a Metallic Modification of Hydrogen. Journal of Chemical Physics 3, 764.
 - Dias R. P., Silvera I. F. (2017). Observation of the Wigner-Huntington transition to metallic hydrogen. Science 355, 715-718. (Disputed and not yet repeated.)
 - Abbott B. P. et al. (2017). GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral. Physical Review Letters 119, 161101.
