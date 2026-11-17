@@ -1,0 +1,122 @@
+{
+ "expl.10": {
+  "src": "media/img/sci.habitats.adaptations.L5/expl.10.jpg",
+  "credit": "Stan Rullman, CC BY, via iNaturalist"
+ },
+ "expl.3": {
+  "src": "media/img/sci.habitats.adaptations.L5/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.5": {
+  "src": "media/img/sci.habitats.adaptations.L5/expl.5.jpg",
+  "credit": "Luciano Massa and Cheongweei Gan, CC BY, via iNaturalist"
+ },
+ "intro": {
+  "src": "media/img/sci.habitats.adaptations.L5/intro.jpg",
+  "credit": "CaracalShan, CC BY, via iNaturalist (right half recoloured)"
+ },
+ "setup.e1.0": {
+  "src": "media/img/sci.habitats.adaptations.L5/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.habitats.adaptations.L5/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.habitats.adaptations.L5/setup.e1.2.jpg",
+  "drawn": true
+ },
+ "setup.e1.3": {
+  "src": "media/img/sci.habitats.adaptations.L5/setup.e1.3.jpg",
+  "drawn": true
+ },
+ "setup.e1.4": {
+  "src": "media/img/sci.habitats.adaptations.L5/setup.e1.4.jpg",
+  "drawn": true
+ },
+ "setup.e2.0": {
+  "src": "media/img/sci.habitats.adaptations.L5/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.habitats.adaptations.L5/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.habitats.adaptations.L5/setup.e2.2.jpg",
+  "drawn": true
+ },
+ "setup.e2.3": {
+  "src": "media/img/sci.habitats.adaptations.L5/setup.e2.3.jpg",
+  "drawn": true
+ },
+ "spot.0": {
+  "src": "media/img/sci.habitats.adaptations.L5/spot.0.jpg",
+  "credit": "Ricard Busquets Reverte, CC BY, via iNaturalist"
+ },
+ "spot.1": {
+  "src": "media/img/sci.habitats.adaptations.L5/spot.1.jpg",
+  "credit": "Alen Alex Pathisseril, CC BY, via iNaturalist"
+ },
+ "spot.2": {
+  "src": "media/img/sci.habitats.adaptations.L5/spot.2.jpg",
+  "credit": "Rajesh Balakrishnan, CC BY, via iNaturalist"
+ },
+ "spot.3": {
+  "src": "media/img/sci.habitats.adaptations.L5/spot.3.jpg",
+  "credit": "Harshjeet Singh Bal, CC BY, via iNaturalist"
+ },
+ "spot.5": {
+  "src": "media/img/sci.habitats.adaptations.L5/spot.5.jpg",
+  "credit": "Ram Dayal Vaishnav, CC BY, via iNaturalist"
+ },
+ "story.2": {
+  "src": "media/img/sci.habitats.adaptations.L5/story.2.jpg",
+  "credit": "Cheryl Stinchcomb, CC BY, via iNaturalist"
+ },
+ "summary": {
+  "src": "media/img/sci.habitats.adaptations.L5/summary.jpg",
+  "credit": "Ramesh Shenai and renjus box, CC BY, via iNaturalist"
+ },
+ "term.12": {
+  "src": "media/img/sci.habitats.adaptations.L5/term.12.jpg",
+  "credit": "harry beaman and Gianni Del Bufalo, CC BY, via iNaturalist"
+ },
+ "term.13": {
+  "src": "media/img/sci.habitats.adaptations.L5/term.13.jpg",
+  "credit": "Cheongweei Gan (CC BY) and Min Khant Naing (CC0), via iNaturalist"
+ },
+ "term.14": {
+  "src": "media/img/sci.habitats.adaptations.L5/term.14.jpg",
+  "drawn": true
+ },
+ "term.15": {
+  "src": "media/img/sci.habitats.adaptations.L5/term.15.jpg",
+  "drawn": true
+ },
+ "term.16": {
+  "src": "media/img/sci.habitats.adaptations.L5/term.16.jpg",
+  "credit": "Tejas M, CC BY, via iNaturalist"
+ },
+ "term.4": {
+  "src": "media/img/sci.habitats.adaptations.L5/term.4.jpg",
+  "credit": "Jonathan Maitrot, CC BY, via iNaturalist"
+ },
+ "term.5": {
+  "src": "media/img/sci.habitats.adaptations.L5/term.5.jpg",
+  "credit": "Corey Farwell, CC BY, via iNaturalist"
+ },
+ "term.7": {
+  "src": "media/img/sci.habitats.adaptations.L5/term.7.jpg",
+  "credit": "Redbird Wu, CC BY, via iNaturalist"
+ },
+ "term.8": {
+  "src": "media/img/sci.habitats.adaptations.L5/term.8.jpg",
+  "credit": "Morten Ross, CC BY, via iNaturalist"
+ },
+ "term.9": {
+  "src": "media/img/sci.habitats.adaptations.L5/term.9.jpg",
+  "credit": "Gerard Chartier, CC BY, via iNaturalist"
+ }
+}
