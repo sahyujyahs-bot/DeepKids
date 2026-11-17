@@ -91,7 +91,7 @@
   {
    "term": "Glucose",
    "meaning": "A simple sugar. Each molecule is one small ring with 6 carbon atoms in all.",
-   "example": "Glucose powder stirred into water is glucose. Your blood carries glucose to every cell.",
+   "example": "Glucose powder stirred into water gives a sweet drink of glucose. Your blood carries glucose to every cell.",
    "art": "A spoon of white powder beside a tumbler of water, with a small hexagon ring drawn above the spoon."
   },
   {
@@ -131,7 +131,7 @@
    "concept": "Each carbon atom makes four bonds",
    "status": "defined",
    "definition": "A bond is the hold between two atoms. A carbon atom makes four bonds, a hydrogen atom makes one, and an oxygen atom makes two.",
-   "description": "Atoms join to each other by bonds. Each kind of atom makes a set number of bonds. A hydrogen atom makes one bond. An oxygen atom makes two, and a nitrogen atom makes three. A carbon atom makes four. In the activity One Bond or Four, you draw molecules with these rules. Two hydrogen atoms join, and then neither has a bond to spare, so the molecule ends as a pair. A carbon atom is different. One carbon atom can hold four hydrogen atoms. This molecule is called methane, and it is the main gas in piped cooking gas. A carbon atom can also use one bond to hold a second carbon atom and still have three bonds free. The second carbon atom can hold a third, and so on. There is a second reason too. The bond between two carbon atoms is strong, so a long row of carbon atoms does not fall apart easily. Rows of oxygen atoms do fall apart, which is why long oxygen chains are not found.",
+   "description": "Atoms join to each other by bonds. Each kind of atom makes a set number of bonds. A hydrogen atom makes one bond. An oxygen atom makes two, and a nitrogen atom makes three. A carbon atom makes four. In the activity One Bond or Four, you draw molecules with these rules. Two hydrogen atoms can join. Then neither of them has a bond left over, so the molecule stops at just two atoms. A carbon atom is different. One carbon atom can hold four hydrogen atoms. This molecule is called methane, and it is the main gas in piped cooking gas. A carbon atom can also use one bond to hold a second carbon atom and still have three bonds free. The second carbon atom can hold a third, and so on. So the chain can keep growing. There is a second reason carbon builds chains. The bond between two carbon atoms is strong, so a long row of carbon atoms does not fall apart easily. Rows of oxygen atoms do fall apart, which is why long oxygen chains are not found.",
    "examples": [
     "Methane is one carbon atom bonded to four hydrogen atoms.",
     "Water is one oxygen atom bonded to two hydrogen atoms.",
@@ -170,7 +170,7 @@
    "concept": "Fuels are carbon chains, and the length of the chain matters",
    "status": "defined",
    "definition": "A hydrocarbon is a substance made only of carbon and hydrogen. Cooking gas, petrol, diesel and wax are hydrocarbons with chains of different lengths.",
-   "description": "The gas in a kitchen pipe is mostly methane, with 1 carbon atom in each molecule. The LPG in a cylinder is propane and butane, with 3 and 4 carbon atoms. Petrol molecules have about 5 to 12. Kerosene has about 10 to 16, and diesel is a little longer. Candle wax has about 20 to 40. Short chains hold on to each other weakly, so the substance is a gas. Longer chains hold on to each other along their whole length. So the substance is a liquid, then a thick liquid, then a solid. You sort these in the game Chain Line. All these fuels come from petroleum and natural gas. Those formed from tiny sea plants and other sea creatures, buried for millions of years. Coal formed from buried swamp forests. When a hydrocarbon burns, its carbon joins with oxygen and becomes carbon dioxide, and its hydrogen becomes water. The carbon dioxide stays in the air and traps heat. That is why burning fuels is warming the Earth.",
+   "description": "The gas in a kitchen pipe is mostly methane, with 1 carbon atom in each molecule. The LPG in a cylinder is propane and butane, with 3 and 4 carbon atoms. Petrol molecules have about 5 to 12 carbon atoms. Kerosene molecules have about 10 to 16, and diesel molecules are a little longer. Candle wax molecules have about 20 to 40. Short chains hold on to each other weakly, so the substance is a gas. Longer chains hold on to each other along their whole length. So the substance is a liquid, then a thick liquid, then a solid. You sort these in the game Chain Line. Most of these fuels come from petroleum and natural gas. Petroleum and natural gas formed from tiny sea plants and other sea creatures that were buried for millions of years. Coal formed from buried swamp forests. When a hydrocarbon burns, its carbon joins with oxygen and becomes carbon dioxide, and its hydrogen becomes water. The carbon dioxide stays in the air and traps heat. That is why burning fuels is warming the Earth.",
    "examples": [
     "Methane, with 1 carbon atom, boils at 162 degrees below zero.",
     "Octane in petrol, with 8 carbon atoms, is a liquid that boils at 126 degrees Celsius.",
@@ -196,7 +196,7 @@
    "concept": "Plastics are very long carbon chains made by people",
    "status": "defined",
    "definition": "A plastic is a material made of very long molecules. In most plastics, the frame of each molecule is a chain of carbon atoms.",
-   "description": "The plastic of a milk packet is called polythene. Factories make it from a gas called ethene, which has 2 carbon atoms in each molecule. The ethene comes from petroleum or natural gas. In the factory, thousands of ethene molecules are joined end to end. The result is a chain with many thousands of carbon atoms. A polythene chain is built like candle wax, but it is hundreds of times longer. Long chains tangle and hold each other, so the plastic is tough and bends without breaking. Polyester, nylon and the plastic of water bottles also have carbon frames. Their chains hold a few oxygen or nitrogen atoms too. Plastics are light, cheap and waterproof. They are also a problem. Soil microbes have enzymes that cut the chains of wood and food. Almost none has an enzyme for a chain that people invented less than a hundred years ago. So plastic stays in the soil and the sea for a very long time.",
+   "description": "The plastic of a milk packet is called polythene. Factories make it from a gas called ethene, which has 2 carbon atoms in each molecule. The ethene comes from petroleum or natural gas. In the factory, thousands of ethene molecules are joined end to end. The result is a chain with many thousands of carbon atoms. A polythene chain is built like candle wax, but it is hundreds of times longer. Long chains tangle and hold each other, so the plastic is tough and bends without breaking. Polyester, nylon and the plastic of water bottles also have carbon frames. Their chains hold a few oxygen or nitrogen atoms too. Plastics are light, cheap and waterproof. They are also a problem. Soil microbes have enzymes, which are the tools their cells use to cut molecules. These enzymes cut the chains of wood and food. Almost no microbe has an enzyme for a chain that people invented less than a hundred years ago. So plastic stays in the soil and the sea for a very long time.",
    "examples": [
     "A milk packet and a carry bag are polythene.",
     "A water bottle is a plastic called PET. A polyester sari is the same plastic spun into thread.",
@@ -222,7 +222,7 @@
    "concept": "Carbon atoms were made inside stars",
    "status": "defined",
    "definition": "Carbon atoms are made in the hot centres of old stars. There, three helium atoms are pressed together into one carbon atom.",
-   "description": "The first stars were made of hydrogen and helium, the two lightest elements. There was no carbon. Deep inside a star, hydrogen atoms are pressed together into helium, and this gives the star its light. When an old star runs low on hydrogen, the centre grows even hotter. Then three helium atoms can join into one carbon atom. This step is hard, because all three must meet at almost the same moment. In 1953 the astronomer Fred Hoyle worked out that the step needs carbon to have a special property. A team in California tested carbon and found the property he had predicted. When old stars die, they throw their carbon out into space. New stars and planets form from that dust and gas. In 1957 Margaret Burbidge, Geoffrey Burbidge, William Fowler and Fred Hoyle showed how stars make nearly all the elements. So the carbon in sugar, in a pencil and in you is older than the Sun. It was made in stars that died before the Sun was born.",
+   "description": "The first stars were made of hydrogen and helium, the two lightest elements. There was no carbon. Deep inside a star, hydrogen atoms are pressed together into helium, and this gives the star its light. When an old star runs low on hydrogen, the centre grows even hotter. Then three helium atoms can join into one carbon atom. This step is hard, because all three must meet at almost the same moment. In 1953 the astronomer Fred Hoyle worked out something about this step. It can only happen if carbon atoms have one particular high-energy state. A team in California tested carbon and found that state, just as he had predicted. When old stars die, they throw their carbon out into space. New stars and planets form from that dust and gas. In 1957 Margaret Burbidge, Geoffrey Burbidge, William Fowler and Fred Hoyle showed how stars make nearly all the elements. So the carbon in sugar, in a pencil and in you is older than the Sun. It was made in stars that died before the Sun was born.",
    "examples": [
     "The Sun is turning hydrogen into helium now. It will make carbon near the end of its life.",
     "Dust clouds in space hold carbon thrown out by old stars.",
@@ -281,7 +281,7 @@
   },
   {
    "text": "Carbon atoms are made in stars.",
-   "evidence": "The light of old stars shows carbon in their outer layers. The carbon property that Fred Hoyle predicted in 1953 was found in a laboratory the same year."
+   "evidence": "The light of old stars shows carbon in their outer layers. The high-energy state of carbon that Fred Hoyle predicted in 1953 was found in a laboratory the same year."
   }
  ],
  "challenging": [
@@ -345,7 +345,7 @@
   {
    "q": "Plastic is made from carbon that living things gathered millions of years ago. Why can living things not take it back?",
    "kind": "deep",
-   "hint": "Think about a lock and a key. Microbes have keys for old chains. Who has a key for a new one?"
+   "hint": "Microbes have enzymes that fit the old chains of wood and food, the way a key fits a lock. Plastic chains are new, so almost no microbe has an enzyme that fits them."
   },
   {
    "q": "Burning petrol puts very old carbon into today's air. Who should decide how much we burn?",
@@ -1241,7 +1241,7 @@
    "setup": [
     {
      "art": "A sheet of paper with three circles drawn on it: one with a single line coming out, one with two lines and one with four lines.",
-     "caption": "1. Draw each atom as a circle. A bond is a line. One kind makes 1 bond, one makes 2 and one makes 4."
+     "caption": "1. Draw each atom as a circle. A bond is a line. One kind of atom makes 1 bond, another makes 2 bonds, and a third makes 4 bonds."
     },
     {
      "art": "A drawing of two small circles joined by one line, with a tick beside it.",
@@ -1277,7 +1277,7 @@
        ]
       }
      ],
-     "parent": "One-bond atoms give only a pair. Two-bond atoms give rows, but a row has two loose ends. It is finished only when it closes into a loop. So two-bond atoms make plain loops of different sizes and nothing else. They cannot branch. A child may also join two atoms with two lines, which is allowed. Real oxygen gas is built that way.",
+     "parent": "One-bond atoms give only a pair. Two-bond atoms give rows, but a row has two loose ends. It is finished only when it closes into a loop. So two-bond atoms make plain loops of different sizes and nothing else. They cannot branch. A child may also join two atoms with two lines. That is allowed, and it is how two oxygen atoms are really joined in oxygen gas.",
      "context": "In this step of One Bond or Four you build with atoms that make one bond. Then you build with atoms that make two bonds."
     },
     {
@@ -1297,7 +1297,7 @@
       "a": 0,
       "why": "It uses two bonds to hold its two neighbours, so two are left. Each can hold a small atom or start a branch. If you chose none, count again: four take away two."
      },
-     "parent": "The counts are 4, 6 and 8 small atoms. Four four-bond atoms can make a straight row or a row of three with a branch. These are real gases: methane, ethane, propane and two kinds of butane.",
+     "parent": "With one, two and three four-bond atoms, you need 4, 6 and 8 one-bond atoms. Four four-bond atoms can make a straight row, or a row of three with a branch. These molecules are real gases. They are methane, ethane, propane and two kinds of butane.",
      "context": "In this step of One Bond or Four you build chains with atoms that make four bonds. You fill the spare bonds with one-bond atoms."
     },
     {
@@ -1453,7 +1453,7 @@
     },
     {
      "art": "Two paper loops being linked, with three seeds being dropped into a small bowl.",
-     "caption": "2. Each time you link two loops, put 3 seeds in the bowl. They are one molecule of water."
+     "caption": "2. Each time you link two loops, put 3 seeds in the bowl. Together they stand for one molecule of water."
     },
     {
      "art": "A chain of eight linked paper loops beside a bowl holding seven little groups of three seeds.",
@@ -2520,7 +2520,7 @@
    "art": "A man at a street cart pressing a shirt with a heavy iron box that has glowing charcoal inside."
   },
   {
-   "text": "The number inside the triangle on the base of a plastic bottle or dabba. Each number names a different carbon chain.",
+   "text": "The number inside the triangle on the base of a plastic bottle or dabba. Each number names a different kind of plastic, and each kind is a different carbon chain.",
    "art": "The base of a plastic bottle showing a triangle of arrows with the number 1 inside."
   },
   {
@@ -2528,7 +2528,7 @@
    "art": "A hand turning out the collar of a shirt to show a label that reads cotton and polyester."
   },
   {
-   "text": "A candle or a diya at Karthigai Deepam or Deepavali. The flame is carbon chains joining with oxygen from the air.",
+   "text": "A candle or a diya at Karthigai Deepam or Deepavali. In the flame, the carbon chains of the wax or oil join with oxygen from the air and burn.",
    "art": "A row of clay lamps burning on a doorstep beside a kolam."
   }
  ],
@@ -2558,7 +2558,7 @@
   "The rice on your plate was built from a gas in the air. Which part of the plant took that gas in?",
   "This dosa has a black edge. What is the black, and where was it before the dosa was cooked?",
   "Your shirt label says cotton and polyester. Which of the two grew on a plant?",
-  "The gas in the cylinder is a liquid, and it burns as a gas. How long is its carbon chain?",
+  "Inside the LPG cylinder, the gas is squeezed into a liquid. When it comes out at the burner, it is a gas again. How long is its carbon chain?",
   "A candle and a milk packet are built from the same kind of chain. Why is one soft and one tough?",
   "You breathe out carbon dioxide. Where did the carbon in your breath come from?",
   "Why does a cotton towel not dissolve in the wash, although sugar dissolves in tea?",
@@ -2606,7 +2606,7 @@
   {
    "problem": "In One Bond or Four, a chain of 1 carbon atom held 4 hydrogen atoms. A chain of 2 held 6, and a chain of 3 held 8. How many hydrogen atoms will a chain of 4 hold? How many will a chain of 10 hold?",
    "answer": "A chain of 4 holds 10 hydrogen atoms. A chain of 10 holds 22.",
-   "explain": "Each extra carbon atom adds 2 hydrogen atoms: 4, 6, 8, 10. So the number is 2 for every carbon atom, plus 2 more for the two ends. For 10 carbon atoms, 10 times 2 is 20, and 20 plus 2 is 22.",
+   "explain": "Each extra carbon atom adds 2 hydrogen atoms, so the numbers go 4, 6, 8, 10. So there are 2 hydrogen atoms for every carbon atom, plus 2 more for the two ends of the chain. For 10 carbon atoms, 10 times 2 is 20, and 20 plus 2 is 22.",
    "math_unit": "math.patterns.number-patterns.L4",
    "how": "a1",
    "context": "In One Bond or Four you drew chains of carbon atoms and filled every spare bond with a hydrogen atom.",
@@ -2614,7 +2614,7 @@
   },
   {
    "problem": "In Five Carbons you found 3 skeletons for 5 carbon atoms. Chemists have counted the others: 4 atoms make 2 skeletons, 6 make 5 and 7 make 9. Do the numbers go up by the same amount each time? Will 8 atoms make more or fewer than 12?",
-   "answer": "No. The steps are 1, 2 and 4, so they keep growing. 8 atoms will make more than 12. The real number is 18.",
+   "answer": "No. The steps between the numbers are 1, 2 and 4, so they keep growing. 8 atoms will make more than 12. The real number is 18.",
    "explain": "From 2 to 3 is a step of 1. From 3 to 5 is a step of 2. From 5 to 9 is a step of 4. The next step should be bigger than 4, so the answer is more than 13. It is 18.",
    "math_unit": "math.patterns.number-patterns.L4",
    "how": "a2",
@@ -2637,7 +2637,7 @@
    "math_unit": "math.number-sense.negative-numbers.L4",
    "how": "g1",
    "context": "In the game Chain Line you put carbon chains in order of length. The back of each card gave facts such as the boiling point.",
-   "why_maths": "Comparing numbers above and below zero tells you whether a fuel will be a gas or a liquid. That is why LPG for cold places has more propane in it."
+   "why_maths": "Comparing numbers above and below zero tells you whether a fuel will be a gas or a liquid. That is why LPG sold for cold places has more propane in it. Propane boils at a much lower temperature than butane, so it still works as a gas in the cold."
   },
   {
    "problem": "About 18 of every 100 kilograms of a human body is carbon. A child weighs 30 kilograms. How many kilograms of carbon does the child's body hold?",
@@ -2743,11 +2743,11 @@
  "warmup": [
   {
    "q": "How many bonds does a carbon atom make?",
-   "a": "Four."
+   "a": "A carbon atom makes four bonds."
   },
   {
    "q": "What is the black solid on burnt food mostly made of?",
-   "a": "Carbon."
+   "a": "The black solid is mostly carbon."
   },
   {
    "q": "Name three forms of the element carbon.",
@@ -2759,7 +2759,7 @@
   },
   {
    "q": "What ring are starch and cellulose both built from?",
-   "a": "Glucose."
+   "a": "Both are built from glucose rings."
   },
   {
    "q": "Where does a plant get carbon from?",
@@ -2975,7 +2975,7 @@
   "three": {
    "who_am_i": "About 18 of every 100 kilograms of your body is carbon. Each of those atoms was in your food, before that in the air, and long before that inside a star.",
    "what_is_life": "Every living being we know builds their body on chains and rings of carbon. Plants take carbon from the air. Animals, including us, take it from plants and give it back with every breath.",
-   "what_is_this_world": "The same carbon atom can be air, then a leaf, then a child, then air again. Sugar, wood, petrol and plastic are that one atom joined in different patterns."
+   "what_is_this_world": "The same carbon atom can be in the air, and then in a leaf. Later it can be in a child, and then in the air again. Sugar, wood, petrol and plastic are all built from carbon atoms joined in different patterns."
   },
   "thread": "A grain of sugar, a cotton thread and a milk packet look like three unrelated things. Heat them and each leaves the same element behind. Their carbon atoms were made in stars, drifted through space and became part of the Earth. Plants take those atoms from the air and build them into chains. Every animal borrows the chains for a while. Many sages taught that the many things of the world are forms of one. The science here says something plain and close to that. A very large part of what you see is one kind of atom, joined in different patterns.",
   "teachings": [

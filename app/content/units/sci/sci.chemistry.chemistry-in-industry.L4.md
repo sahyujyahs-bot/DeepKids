@@ -51,21 +51,21 @@ A plant makes sugar from air, water and sunlight. To build leaves, roots and see
 ### Nitrogen: from the air to the field · *defined*
 **Definition:** Air is about four fifths nitrogen gas, but plants cannot use nitrogen in that form. Factories join it with hydrogen to make ammonia, and ammonia is made into urea.
 
-Nitrogen is all around every plant. In every 100 litres of air, about 78 litres are nitrogen gas. But the two atoms in a nitrogen molecule hold each other very tightly. A plant has no way to pull them apart. Some bacteria can pull them apart, such as those who live in the root swellings of beans. Lightning can too. In 1909 the German chemist Fritz Haber found a way to do it in a laboratory. He pressed nitrogen and hydrogen together, very hot, over a metal catalyst. A catalyst is a helper that speeds up a reaction and is not used up. The two gases joined to make ammonia. By 1913 the engineer Carl Bosch had built a factory that did this in huge amounts. Today the hydrogen comes mostly from natural gas and steam. The ammonia is then joined with carbon dioxide to make urea. Scientists estimate that food grown with this nitrogen feeds about half the people on Earth. Making it uses a great deal of fuel.
+Nitrogen is all around every plant. In every 100 litres of air, about 78 litres are nitrogen gas. But the two atoms in a nitrogen molecule hold each other very tightly. A plant has no way to pull them apart. Some bacteria can pull them apart, such as those who live in the root swellings of beans. Lightning can pull them apart too. In 1909 the German chemist Fritz Haber found a way to do it in a laboratory. He squeezed nitrogen and hydrogen together at a very high temperature, over a metal catalyst. A catalyst is a helper that speeds up a reaction and is not used up. The two gases joined to make ammonia. By 1913 the engineer Carl Bosch had built a factory that did this in huge amounts. Today the hydrogen comes mostly from natural gas and steam. The ammonia is then joined with carbon dioxide to make urea. Scientists estimate that food grown with this nitrogen feeds about half the people on Earth. Making it uses a great deal of fuel.
 - e.g. The protein in a grain of wheat holds nitrogen that may have been in the air one year earlier.
 - e.g. Beans, peas and groundnuts get nitrogen from bacteria in their root swellings.
 - e.g. A flash of lightning joins a little nitrogen with oxygen, and rain carries it to the soil.
 ### Fuels: energy stored in substances · *defined*
 **Definition:** A fuel is a substance that gives out heat when it burns. Most fuels used today come from crude oil, natural gas and coal.
 
-Crude oil formed from tiny living beings of the sea who died many millions of years ago. Mud buried them. Heat and pressure slowly changed their remains into oil and gas. Crude oil is a mixture of hydrocarbons. A hydrocarbon molecule is a chain of carbon atoms with hydrogen atoms attached. Some chains are short and some are long. A refinery separates them by boiling. It heats the crude oil, and the vapours rise up a tall tower. Short chains boil at low temperatures, and they are collected near the top. Long chains are collected lower down. The shortest chains have 3 or 4 carbon atoms. They make LPG, the cooking gas. Petrol has chains of about 5 to 12 carbon atoms. Diesel has about 12 to 20. Candle wax has about 20 to 40. The thickest part is bitumen, the black tar that binds a road. The longer the chain, the thicker the substance is and the harder it is to boil. Refineries also supply the starting substances for plastics, paints and many medicines.
+Crude oil formed from tiny living beings of the sea who died many millions of years ago. Mud buried them. Heat and pressure slowly changed their remains into oil and gas. Crude oil is a mixture of hydrocarbons. A hydrocarbon molecule is a chain of carbon atoms with hydrogen atoms attached. Some chains are short and some are long. A refinery separates them by boiling. It heats the crude oil, and the vapours rise up a tall tower. Short chains boil at low temperatures, and they are collected near the top. Long chains are collected lower down. The shortest chains have 3 or 4 carbon atoms. They make LPG, the cooking gas. Petrol has chains of about 5 to 12 carbon atoms. Diesel has chains of about 12 to 20 carbon atoms, and candle wax has about 20 to 40. The thickest part is bitumen, the black tar that binds a road. The longer the chain, the thicker the substance is and the harder it is to boil. Refineries also supply the starting substances for plastics, paints and many medicines.
 - e.g. The refinery at Jamnagar in Gujarat is the largest in the world.
 - e.g. LPG has no smell of its own. A strong-smelling substance is added so that people notice a leak.
 - e.g. Petroleum jelly and candle wax are both made from crude oil.
 ### What burning a fuel makes · *defined*
 **Definition:** When a hydrocarbon fuel burns, it joins with oxygen from the air. The reaction makes carbon dioxide and water, and it gives out heat.
 
-Burning is a chemical reaction between a fuel and oxygen. The carbon atoms of the fuel join with oxygen and become carbon dioxide. The hydrogen atoms join with oxygen and become water vapour. No atom is lost. Burning 1 kilogram of LPG makes about 3 kilograms of carbon dioxide, because oxygen from the air has been added. A flame that gets too little air also makes soot and a poisonous gas called carbon monoxide. Carbon dioxide is not poisonous in small amounts. You breathe it out, and plants take it in. But carbon dioxide holds heat in the air. In 1856 the American scientist Eunice Foote filled glass tubes with different gases and stood them in the sun. The tube of carbon dioxide grew the hottest. She wrote that more of this gas in the air would make the Earth warmer. People now burn so much fuel that this is happening. So chemists work on fuels that add less carbon dioxide. Biogas is made by microbes from dung and food waste. Ethanol is made from sugarcane, and in India it is mixed into petrol. Hydrogen burns to give only water.
+Burning is a chemical reaction between a fuel and oxygen. The carbon atoms of the fuel join with oxygen and become carbon dioxide. The hydrogen atoms join with oxygen and become water vapour. No atom is lost. Burning 1 kilogram of LPG makes about 3 kilograms of carbon dioxide, because oxygen from the air has been added. A flame that gets too little air also makes soot and a poisonous gas called carbon monoxide. Carbon dioxide is not poisonous in small amounts. You breathe it out, and plants take it in. But carbon dioxide holds heat in the air. In 1856 the American scientist Eunice Foote filled glass tubes with different gases and stood them in the sun. The tube of carbon dioxide grew the hottest. She wrote that more of this gas in the air would make the Earth warmer. People now burn so much fuel that the Earth really is getting warmer. So chemists work on fuels that add less carbon dioxide. Biogas is made by microbes from dung and food waste. Ethanol is made from sugarcane, and in India it is mixed into petrol. Hydrogen burns to give only water.
 - e.g. A cold steel plate held above a candle flame mists over with water and turns black with soot.
 - e.g. A yellow, smoky stove flame is getting too little air. A blue flame is burning cleanly.
 - e.g. A full home cylinder holds 14.2 kilograms of LPG. Burning all of it makes about 43 kilograms of carbon dioxide.
@@ -165,15 +165,15 @@ A nitrogen atom may be in the air one year and in a bag of urea the next. A year
 - Science (settled): The atoms in factory urea are the same kinds of atoms as those in the urea your body makes. No test can tell the two apart.
 - Science (debated): Some scientists think that very small doses of some harmful things can do a body good. This idea is called hormesis, and scientists disagree about how often it is true.
 - Other view, Many scientists who study poisons and public health: The line 'the dose makes the poison' can be misused. Factories have used it to say that a little of their waste does no harm. For lead, and for some substances that cause cancer, no safe amount has been found. The same dose also acts differently on a baby before birth, a child and a grown-up. On this view, some substances are simply harmful, and the safest dose of them is none.
-- Practice, Three breaths of air (3 min): Sit still and put one hand on your belly. Breathe in slowly. Four fifths of that breath is nitrogen. It goes in, and it comes out again unchanged. Breathe in again. One fifth is oxygen, and your body keeps a little of it. Breathe a third time. The nitrogen you cannot use from the air reached you another way. It came in your food. Sit quietly for five more breaths.
+- Practice, Three breaths of air (3 min): Sit still and put one hand on your belly. Breathe in slowly. Four fifths of that breath is nitrogen. It goes in, and it comes out again unchanged. Breathe in again. One fifth is oxygen, and your body keeps a little of it. Breathe a third time. You cannot use the nitrogen in the air you breathe. The nitrogen in your body reached you another way, in your food. Sit quietly for five more breaths.
 - Ask: In One Dose, Two Bodies, the same drops were strong in the glass and weak in the pot. Is anything strong or weak by itself?
 - Ask: Urea feeds the paddy field and harms the pond below it. Is urea a good substance or a bad one?
 - Ask: The nitrogen in your body was once in the air, and some of it passed through a factory. Is it yours, the air's or the factory's?
 
 ## Deep and big questions
-- *deep:* Your body needs salt, and too much salt can make you ill. So is salt a food or a poison? (hint: Think about what changed between the helpful salt and the harmful salt. Was it the salt?)
+- *deep:* Your body needs salt, and too much salt can make you ill. So is salt a food or a poison? (hint: Think about what changed between the helpful salt and the harmful salt. Was it the salt itself, or something else?)
 - *deep:* Urea from a factory and urea from your own body are the same substance. Does it matter where a substance was made? (hint: Could any test tell the two apart? If none can, what is the difference?)
-- *deep:* Some of the nitrogen in your muscles passed through a fertiliser factory. Is that part of you natural or made? (hint: The nitrogen atom is the same atom it was in the air. Only its partners changed.)
+- *deep:* Some of the nitrogen in your muscles passed through a fertiliser factory. Is that part of you natural or made? (hint: A nitrogen atom in a fertiliser is the same atom that was in the air. Only the atoms it is joined to have changed.)
 - *big:* Ammonia from Haber's reaction grows food for billions. It was also used to make explosives in a war. Is a discovery good or bad? (hint: Think about a kitchen knife. Who decides what a knife does?)
 - *big:* A factory gives a town jobs and medicines. The people who live beside it breathe its smoke. Who should decide where a factory is built? (hint: Think about who gains, who bears the harm, and whether they are the same people.)
 - *big:* Crude oil took millions of years to form. People may burn most of it within a few hundred years. What do we owe the people who come after us? (hint: Think about the oil itself, and also about the carbon dioxide that burning it leaves in the air.)
@@ -436,12 +436,12 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
   *Parent says:* Tea is the product. What else came out? Which of those things could still be used? We call a useful one a by-product. What can nobody use?  
   *Child mode:* List everything that came out. Label each one: product, by-product or waste.
   - Ask: What could the used tea leaves be used for? (good: They can go into compost.; They can be mixed into the soil of a pot plant.; They need not go in the dustbin.)
-  - Note: Out: tea, used leaves, steam, carbon dioxide, heat and the water used for washing up. Used leaves are a by-product if they go to compost. They are waste if they go to the dustbin.
+  - Note: What comes out is tea, used leaves, steam, carbon dioxide, heat and the water used for washing up. Used leaves are a by-product if they go to compost. They are waste if they go to the dustbin.
 - **s4 (3 min)**  
   *Parent does:* Read your child the urea factory list in the note below. Ask the question below.  
   *Parent says:* Here is what goes into a urea factory, and what comes out. Listen for a by-product that the factory uses again. Which one is it?  
   *Child mode:* Listen to the urea factory list. Which by-product does the factory use again?
-  - Note: A urea factory. In: air, natural gas, water and energy. Out: urea, carbon dioxide and heat. The carbon dioxide comes from making hydrogen, and the factory uses much of it to make the urea.
+  - Note: Here is the list for a urea factory. What goes in is air, natural gas, water and energy. What comes out is urea, carbon dioxide and heat. The carbon dioxide comes from making hydrogen, and the factory uses much of it to make the urea.
   - Check: A urea factory makes carbon dioxide as a by-product. What does it do with much of it? → **Uses it to make the urea**
 
 ## Projects
@@ -463,7 +463,7 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
   *Parent does:* Day 3. Choose one change together and use it all day. Time the stove as on day 2. Compare the two totals.  
   *Parent says:* Choose one change. We could keep a lid on every pot, or soak the dal first, or use the pressure cooker. Time the stove again. Did the minutes go down? Say what you thought would happen, what you found, and why.  
   *Child mode:* Pick one change. Time the stove again. Did the minutes go down? Say why.
-  - Ask: Every minute of flame turns LPG into carbon dioxide. What does saving 10 minutes a day mean over a year? (good: 3,650 minutes less burning.; Less gas bought and less carbon dioxide made.; Small savings add up.)
+  - Ask: Every minute of flame turns LPG into carbon dioxide. What does saving 10 minutes a day mean over a year? (good: Saving 10 minutes on each of 365 days is 3,650 minutes less burning.; Less gas bought and less carbon dioxide made.; Small savings add up.)
   - Note: The meals differ from day to day, so a small difference may be chance. A difference of more than about 10 minutes is likely to be real. A lid keeps heat in the pot, so the food cooks sooner.
 
 ## Challenges
@@ -500,7 +500,7 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
    Options: The air / Sea water / Crushed rock / Cow's milk  
    **Answer:** The air. *Why:* About four fifths of the air is nitrogen gas. A factory joins it with hydrogen to make ammonia, and then urea.
 2. (match) Match each product to the raw material it starts from.  
-   **Answer:** LPG → Crude oil and natural gas; Urea → Air and natural gas; Quinine → The bark of a tree; Red ochre → A coloured rock. *Why:* Each product is made from a raw material taken from nature. The four here come from under the ground, the air, a living tree and a rock.
+   **Answer:** LPG → Crude oil and natural gas; Urea → Air and natural gas; Quinine → The bark of a tree; Red ochre → A coloured rock. *Why:* Each product is made from a raw material taken from nature. These four products come from different places. They come from crude oil under the ground, the air, a living tree and a rock.
 3. (fill) The part of a paint that sticks the pigment to the wall is the ____.  
    **Answer:** ['binder']. *Why:* The binder dries into a solid that holds the pigment and grips the surface.
 4. (truefalse) A pigment mixed with water alone makes a paint that stays on.  
@@ -584,7 +584,7 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
 6. (truefalse) A medicine that kills germs in a glass dish is ready to be sold.  
    **Answer:** False. *Why:* False. It must still be tested for years, first in the laboratory and then on thousands of volunteers. Most new medicines fail these tests.
 7. (match) Match each cause to its result.  
-   **Answer:** Too much urea on a field → Algae cover the pond; Too little air for a flame → Soot and carbon monoxide; No binder in a paint → The colour rubs off; A grown-up's dose in a child → Too strong for the body. *Why:* In each pair an amount or a missing part explains the result. Extra nitrogen feeds algae, and a starved flame burns badly. Loose pigment falls off, and a small body makes a dose stronger.
+   **Answer:** Too much urea on a field → Algae cover the pond; Too little air for a flame → Soot and carbon monoxide; No binder in a paint → The colour rubs off; A grown-up's dose in a child → Too strong for the body. *Why:* In each pair, an amount or a missing part explains the result. Extra nitrogen feeds algae. A flame with too little air burns badly. Pigment with no binder falls off. A small body makes the same dose stronger.
 8. (count) Urea is 46 parts nitrogen in 100. To the nearest kilogram, how much nitrogen does a 45 kilogram bag hold?  
    **Answer:** 21. *Why:* 46 hundredths of 45 is 20.7 kilograms, which rounds to 21 kilograms. Nearly half of every bag was once nitrogen gas in the air.
 9. (fill) Designing reactions that make less waste and need no dangerous substances is called ____ chemistry.  
@@ -714,7 +714,7 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - [White craft glue, one small bottle](https://www.amazon.in/s?k=white+craft+glue) (material): For Three Paints. Most homes with a school child have it. Liquid office gum works in its place. Used in e1. 
 
 ## Warm-up
-- Where does the nitrogen in urea come from? → From the air.
+- Where does the nitrogen in urea come from? → It comes from the air.
 - Name the three main plant nutrients in fertiliser. → Nitrogen, phosphorus and potassium.
 - What is a fuel? → A substance that gives out heat when it burns.
 - What does burning LPG make? → Mainly carbon dioxide and water.

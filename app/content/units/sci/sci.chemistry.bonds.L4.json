@@ -141,7 +141,7 @@
    "description": "A sodium atom holds its one outer electron weakly. A chlorine atom attracts one more electron strongly. When they meet, the electron moves from the sodium to the chlorine. The sodium now has one electron too few, so it has a plus charge. The chlorine has one too many, so it has a minus charge. Both are now ions. The chlorine ion is called chloride. A sodium ion is not like a sodium atom. The atom reacts fiercely because it gives its electron away so easily. The ion has already given it away, so it does not react in that way. This is how a fiery metal and a poisonous gas become table salt. The ions do not pair off. Each plus ion attracts every minus ion near it. So they pack into a pattern called a lattice, plus next to minus in every direction. In salt, every sodium ion has six chloride ions around it. Every chloride ion has six sodium ions around it. There is no salt molecule. The formula NaCl only says there is one sodium ion for every chloride ion.",
    "examples": [
     "Table salt is sodium ions and chloride ions.",
-    "Cooking soda has sodium ions, and toothpaste often has sodium fluoride.",
+    "Cooking soda is made of sodium ions and other ions. Toothpaste often has sodium fluoride, which is made of ions too.",
     "A sea shell is mostly calcium carbonate, which is held together by ionic bonds."
    ],
    "perspectives": [],
@@ -152,7 +152,7 @@
    "status": "defined",
    "context": "This card explains the experiment Three Solids, Three Tests. In it, salt cracked when pressed and stayed solid over a candle flame.",
    "definition": "An ionic solid is hard and brittle, and it melts only at a very high temperature. This is because every ion is held by strong attractions on all sides.",
-   "description": "In Three Solids, Three Tests, the salt cracked under the spoon. It did not melt over the candle, and it dissolved in water. To melt salt, the ions must break free of all their neighbours. That needs about 800 degrees Celsius. A spoon held over a candle does not get that hot. Salt is hard for the same reason. It is brittle because of the pattern. Press hard, and one layer of ions slips one place sideways. Now plus ions sit next to plus ions, and minus next to minus. Like charges repel each other. So the two layers push apart, and the crystal splits along a flat face. Water takes salt apart more gently. Water molecules attract the ions and pull them out of the lattice one by one.",
+   "description": "In Three Solids, Three Tests, the salt cracked under the spoon. It did not melt over the candle, and it dissolved in water. To melt salt, the ions must break free of all their neighbours. That needs about 800 degrees Celsius. A spoon held over a candle does not get that hot. Salt is hard for the same reason, because every ion is held tightly by its neighbours. Salt is brittle because of the way its ions sit in a regular pattern. Press hard, and one layer of ions slips one place sideways. Now plus ions sit next to plus ions, and minus next to minus. Like charges repel each other. So the two layers push apart, and the crystal splits along a flat face. Water takes salt apart more gently. Water molecules attract the ions and pull them out of the lattice one by one.",
    "examples": [
     "A crystal of rock salt breaks into pieces with flat faces.",
     "Salt stays solid on a hot dosa tawa.",
@@ -233,9 +233,9 @@
    "definition": "Ionic, covalent and metallic are three pure types. Most real bonds lie somewhere between them.",
    "description": "In 1932 the American chemist Linus Pauling gave each element a number. The number says how strongly its atoms attract shared electrons. If two atoms have the same number, they share equally. That is a pure covalent bond, as in oxygen gas. If the numbers differ a little, the sharing is unequal, as in water. If they differ a lot, one atom takes the electron almost fully, as in salt. So there is no sharp line between sharing and giving. Even in salt, the electron is not given completely. Later chemists drew a triangle with the three pure types at its corners. Salt sits near the ionic corner, and copper near the metallic corner. Most substances sit somewhere inside the triangle.",
    "examples": [
-    "Oxygen gas is shared equally.",
-    "Water is shared unequally.",
-    "Salt is almost fully given."
+    "In oxygen gas, the two atoms share their electrons equally.",
+    "In water, the oxygen atom pulls the shared electrons harder than the hydrogen atoms do.",
+    "In salt, the sodium atom gives its electron almost completely to the chlorine atom."
    ],
    "perspectives": [],
    "art": "A triangle with the words ionic, covalent and metallic at its corners, and dots labelled salt, water, oxygen gas, copper and graphite placed at different spots inside it."
@@ -247,7 +247,7 @@
    "description": "The kind of bond is not fixed for ever by the kind of atom. It also depends on how hard the atoms are pressed together. In 1935 Eugene Wigner and Hillard Huntington worked out that hydrogen should become a metal under great pressure. The atoms would be pushed so close that their electrons would be shared by all. In 1996 a team in California squeezed liquid hydrogen with a shock for a tiny moment. It carried electricity like a metal. Deep inside Jupiter the pressure is millions of times greater than our air pressure. Scientists think most of Jupiter's hydrogen is a liquid metal. Currents in it would explain Jupiter's very strong magnetism. Nobody has been there to check. In 2017 two scientists at Harvard reported solid metallic hydrogen made in a laboratory. Other teams doubt the result, and it has not been confirmed.",
    "examples": [
     "Hydrogen gas in a balloon is made of molecules of two atoms.",
-    "Jupiter's magnetism is the strongest of any planet.",
+    "Jupiter has the strongest magnetism of any planet in our Sun's family.",
     "Earth's own magnetism comes from liquid iron moving in its core."
    ],
    "perspectives": [],
@@ -257,9 +257,9 @@
    "concept": "Is a bond a thing?",
    "status": "debated",
    "definition": "Chemists draw a bond as a line between two atoms. They disagree about whether that line stands for a real object.",
-   "description": "Nobody has picked up a bond. What exists for certain is nuclei and electrons. A bond is where electrons gather between nuclei and lower the energy. Whether to call that a thing is argued.",
+   "description": "Nobody has ever picked up a bond. What exists for certain is the nuclei and the electrons. A bond is the place where electrons gather between two nuclei, and this makes the atoms steadier together than apart. People argue about whether that place should be called a thing.",
    "examples": [
-    "A chemist draws water as H, a line, O, a line, H.",
+    "A chemist draws a water molecule as an H, a line, an O, another line, and a second H. Each line stands for one bond.",
     "In 2009 a microscope picture of a molecule showed bright lines where chemists draw bonds."
    ],
    "perspectives": [
@@ -306,7 +306,7 @@
    "claim": "Salt is made of salt molecules, each with one sodium atom and one chlorine atom.",
    "who": "Most chemists before 1913, and Henry Armstrong as late as 1927.",
    "for": "The formula NaCl looks like a molecule. Water and sugar really are made of molecules.",
-   "against": "X-rays show that each ion has six equal neighbours and no partner of its own. NaCl gives only the ratio, one to one.",
+   "against": "X-rays show that each ion has six equal neighbours and no partner of its own. The formula NaCl only tells us the ratio, which is one sodium ion for every chloride ion.",
    "status": "rejected"
   },
   {
@@ -347,9 +347,9 @@
  ],
  "big_questions": [
   {
-   "q": "Sodium metal burns in water, and the sodium ions in salt do not. Are they the same thing?",
+   "q": "Sodium metal burns in water, but the sodium ions in salt do not burn. Are they the same thing?",
    "kind": "deep",
-   "hint": "The nucleus is the same. Only one electron is missing. What makes a thing what it is?"
+   "hint": "A sodium ion has the same nucleus as a sodium atom. The only difference is one electron that is missing. So what is it that makes a thing what it is?"
   },
   {
    "q": "Dry salt does not carry electricity, and wet salt does. Is carrying electricity a fact about salt, or about salt and water together?",
@@ -357,9 +357,9 @@
    "hint": "Think about what you found in Dry Salt, Wet Salt. Could you call salt a conductor, an insulator, or neither?"
   },
   {
-   "q": "In a copper wire, the free electrons belong to no single atom. Is the wire many atoms, or one thing?",
+   "q": "In a copper wire, the free electrons belong to no single atom. So is the wire many separate atoms, or one thing?",
    "kind": "deep",
-   "hint": "A salt crystal has no pairs either. Where would you draw the edge of one piece?"
+   "hint": "In a salt crystal, no ion belongs to just one partner either. So where would you say one piece ends and the next begins?"
   },
   {
    "q": "Nobody has picked up a bond. Is a bond a thing, or a name for what electrons do?",
@@ -583,7 +583,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the 24 cards and the tokens. Shuffle the cards into a pile. Give each player one set of three tokens.",
-     "say": "Each card names a material and the kinds of atoms in it. Your three tokens are the three kinds of bond. Here is the guide. A metal with a non-metal gives. Non-metals share. Metals alone pool.",
+     "say": "Each card names a material and the kinds of atoms in it. Your three tokens are the three kinds of bond. Here is the guide. When a metal meets a non-metal, the metal atom gives its electrons away. When non-metals meet, they share electrons. When there are only metal atoms, they pool their electrons together.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take three tokens.",
      "context": "This is the first step of Give, Share or Pool. You set up the cards and the tokens."
     },
@@ -717,7 +717,7 @@
     "Shuffle the cards. Deal 5 to each player. Put the rest face down as the pile.",
     "On your turn, take one card from the pile. Then you may lay down one set.",
     "A set has one kind of metal and one kind of non-metal. The electrons given must equal the electrons taken.",
-    "One calcium gives 2, so it needs two chlorines, which take 1 each. Two aluminiums give 6, so they need three oxygens.",
+    "One calcium atom gives away 2 electrons. Each chlorine atom takes only 1, so one calcium needs two chlorine atoms. Two aluminium atoms give away 6 electrons in all. Each oxygen atom takes 2, so they need three oxygen atoms.",
     "Say the name of your compound. Score 1 point for each card in the set.",
     "If you cannot lay a set, your turn ends. You keep your cards.",
     "The game ends when the pile is empty and nobody can lay a set. The player with the most points wins.",
@@ -736,8 +736,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Play two practice turns with the cards face up. Build sodium chloride first, then calcium chloride.",
-     "say": "Sodium gives 1 and chlorine takes 1. So one of each makes a set. Calcium gives 2. How many chlorines does one calcium need?",
-     "kid": "Sodium gives 1. Chlorine takes 1. How many chlorines does calcium need?",
+     "say": "Sodium gives away 1 electron, and chlorine takes 1 electron. So one sodium and one chlorine make a set. Calcium gives away 2 electrons. How many chlorine atoms does one calcium need?",
+     "kid": "Sodium gives away 1 electron. Chlorine takes 1 electron. How many chlorines does calcium need?",
      "ask": [
       {
        "q": "Why does one calcium need two chlorines?",
@@ -763,7 +763,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Count the points. Lay the biggest set on the table and count its charges together.",
-     "say": "Look at aluminium oxide. Two aluminiums give 3 each. Three oxygens take 2 each. Count both sides. Are they equal?",
+     "say": "Look at aluminium oxide. Each of the two aluminium atoms gives away 3 electrons. Each of the three oxygen atoms takes 2 electrons. Count the electrons given and the electrons taken. Are they equal?",
      "kid": "Count the electrons given. Count the electrons taken. Are they equal?",
      "check": {
       "t": "mcq",
@@ -1042,7 +1042,7 @@
     },
     {
      "art": "A 9-volt battery with its red wire twisted round the top tip of one pencil, a foil ribbon clipped to the top tip of the other pencil, and the black wire and the foil ribbon ending as two loose ends.",
-     "caption": "2. Red wire to one pencil. Foil ribbon to the other. The two loose ends are your probes."
+     "caption": "2. Fix the red wire to one pencil. Fix a foil ribbon to the other pencil. The two loose ends are your probes."
     },
     {
      "art": "A child's hands touching the two loose ends to a steel spoon, and fine bubbles rising from both pencil tips in the tumbler.",
@@ -1366,9 +1366,9 @@
       {
        "q": "Which minus ion belongs to this plus ion?",
        "good": [
-        "None of them more than the others.",
+        "No single minus ion belongs to it more than the others do.",
         "All four hold it equally.",
-        "There are no pairs."
+        "No ion has just one partner."
        ]
       }
      ],
@@ -1391,7 +1391,7 @@
        ]
       }
      ],
-     "parent": "This is why salt cracked in Bend or Break. A push slides one layer, like charges meet, and the layers push apart along a flat face.",
+     "parent": "This is why salt cracked in Bend or Break. A push slides one layer sideways. Then like charges meet, and they push the layers apart along a flat face.",
      "context": "In this step of Slide a Row you slide the top half of the salt model one place sideways."
     },
     {
@@ -1447,7 +1447,7 @@
    "setup": [
     {
      "art": "Two paper circles labelled Na and Cl on a table, with one chana on the Na circle and seven on the Cl circle, and a child's hand moving the single chana across.",
-     "caption": "1. Sodium has 1 outer electron. Chlorine has 7. Move sodium's electron to chlorine."
+     "caption": "1. Sodium has 1 outer electron. Chlorine has 7 outer electrons. Move the sodium electron to chlorine."
     },
     {
      "art": "A paper circle labelled O overlapping two smaller circles labelled H, with two chana lying in each overlap.",
@@ -1462,7 +1462,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Label the nine circles: Na, Cl, O, H, H and four marked Cu. Count out the chana. Na gets 1, Cl gets 7 and O gets 6. Each H and each Cu gets 1.",
+     "do": "Label the nine circles with the short letters chemists use. Write Na for sodium and Cl for chlorine. Write O for oxygen, H twice for hydrogen, and Cu four times for copper. Count out the chana. Sodium gets 1, chlorine gets 7 and oxygen gets 6. Each hydrogen and each copper gets 1.",
      "say": "Each circle is an atom. Each chana is one of its outer electrons. Sodium has 1, chlorine has 7, oxygen has 6, and hydrogen and copper have 1 each.",
      "kid": "Label the circles. Put the chana on each atom.",
      "context": "This is the first step of Give, Share, Pool. You make paper atoms and give each one its outer electrons."
@@ -1470,7 +1470,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Put Na and Cl side by side. Ask your child to move sodium's one chana onto chlorine. Write a plus sign on Na and a minus sign on Cl.",
+     "do": "Put the sodium circle and the chlorine circle side by side. Ask your child to move the one chana of sodium onto chlorine. Then write a plus sign on the sodium circle and a minus sign on the chlorine circle.",
      "say": "Sodium holds its outer electron weakly, and chlorine attracts it strongly. Move it across. Sodium has lost a minus charge. What charge does sodium have now? What about chlorine?",
      "kid": "Move sodium's electron to chlorine. Which atom is plus now? Which is minus?",
      "ask": [
@@ -1482,13 +1482,13 @@
        ]
       }
      ],
-     "parent": "Chlorine now has 8 outer electrons. For many atoms, a set of 8 is a steady arrangement. This is an ionic bond.",
+     "parent": "Chlorine now has 8 outer electrons. Many atoms are steadiest with 8 outer electrons, so chlorine holds on to the new one. The attraction between the plus sodium and the minus chlorine is an ionic bond.",
      "context": "In this step of Give, Share, Pool you move one electron from sodium to chlorine to make two ions."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "Lay O so that it overlaps each H a little. In each overlap, put one chana from the hydrogen and one from the oxygen. Count the chana that oxygen can reach, and the chana that each hydrogen can reach.",
+     "do": "Lay the oxygen circle so that it overlaps each hydrogen circle a little. In each overlap, put one chana from the hydrogen and one from the oxygen. Count the chana that oxygen can reach, and the chana that each hydrogen can reach.",
      "say": "Oxygen and hydrogen are both non-metals, so neither gives an electron away. They share. Put one electron from each atom in the overlap. How many electrons can oxygen count now?",
      "kid": "Overlap the circles. Put two electrons in each overlap. Count oxygen's electrons.",
      "parent": "Oxygen counts 8, and each hydrogen counts 2, which is a full set for hydrogen. Each shared pair is one covalent bond.",
@@ -1578,14 +1578,14 @@
        ]
       }
      ],
-     "parent": "Likely finds in salt are sodium chloride and potassium iodate. Toothpaste has sodium fluoride or calcium carbonate. ORS has potassium chloride and sodium citrate. Bottled water often lists magnesium sulphate.",
+     "parent": "In a salt packet, you will probably find sodium chloride and potassium iodate. Toothpaste has sodium fluoride or calcium carbonate. ORS has potassium chloride and sodium citrate. Bottled water often lists magnesium sulphate.",
      "context": "In this step of Ion Hunt on Labels you read five ingredient lists and write down the ionic compounds."
     },
     {
      "id": "s3",
      "mins": 4,
      "do": "Look at the ORS sachet together. Find the one ingredient that is not ionic. Then ask the question below.",
-     "say": "ORS has salts and one more thing, glucose. Glucose is carbon, hydrogen and oxygen. Is it ionic or covalent? Why does the label call the salts electrolytes?",
+     "say": "ORS has salts and one more thing, glucose. Glucose is made of carbon, hydrogen and oxygen atoms. Is it ionic or covalent? Why does the label call the salts electrolytes?",
      "kid": "Find glucose on the ORS packet. Is it ionic or covalent?",
      "check": {
       "t": "mcq",
@@ -1674,9 +1674,9 @@
      "id": "s1",
      "mins": 15,
      "do": "Day 1. Draw the table. Read out the atoms in each thing from the note below. Your child writes them, then predicts yes or no for each: will it carry electricity in water?",
-     "say": "Use the guide. A metal with a non-metal is ionic, and ions carry electricity in water. Non-metals alone make molecules. Write yes or no for each thing, and say why.",
+     "say": "Use this rule. A metal atom with non-metal atoms makes an ionic compound, and ions carry electricity in water. Non-metal atoms alone make molecules, which carry no electricity. Write yes or no for each thing, and say why.",
      "kid": "Write the atoms in each thing. Predict yes or no. Say why.",
-     "parent": "Salt is sodium and chlorine. Cooking soda is sodium with hydrogen, carbon and oxygen. Sugar, glucose, lemon juice and vinegar are all carbon, hydrogen and oxygen.",
+     "parent": "Salt is made of sodium and chlorine atoms. Cooking soda is made of sodium atoms with hydrogen, carbon and oxygen atoms. Sugar, glucose, lemon juice and vinegar are all made of carbon, hydrogen and oxygen atoms.",
      "context": "This is the first step of Powder Detective. You predict which kitchen things will carry electricity in water."
     },
     {
@@ -1705,15 +1705,15 @@
      "kid": "Which guesses were right? Which thing surprised you? Why might that be?",
      "ask": [
       {
-       "q": "The guide said lemon juice has only non-metals. The tester still bubbled. What does that tell you about the guide?",
+       "q": "The rule said lemon juice has only non-metal atoms. The tester still bubbled. What does that tell you about the rule?",
        "good": [
-        "The guide is a good start, but it is not always right.",
+        "The rule is a good start, but it is not always right.",
         "A test can show what a rule misses.",
         "Some molecules must make ions in water."
        ]
       }
      ],
-     "parent": "The reason: lemon juice and vinegar hold acids. An acid is a covalent molecule, but in water some of its molecules split into ions. Lemon juice also holds a little potassium salt from the fruit. So a rule from the kinds of atoms is a first guess, and the test decides.",
+     "parent": "The reason: lemon juice and vinegar hold acids. An acid is a covalent molecule, but in water some of its molecules split into ions. Lemon juice also holds a little potassium salt from the fruit. So a rule based on the kinds of atoms is only a first guess, and the test decides.",
      "context": "This is the last step of Powder Detective. You compare the bubble results with your predictions."
     }
    ]
@@ -2034,7 +2034,7 @@
      "t": "draw",
      "p": "Draw a flat piece of a salt crystal as a pattern of plus and minus ions. Show eight of each.",
      "a": "Four rows of four circles. Plus and minus take turns along every row and down every column. So each ion has only the other kind beside it.",
-     "why": "A strong drawing has no pairs set apart from the rest. Every plus touches only minuses along its sides.",
+     "why": "A strong drawing does not show any ion paired up with just one neighbour. Every plus ion touches only minus ions along its sides.",
      "art": "A blank square frame with one circle marked plus drawn in the top left corner.",
      "outcome": 1
     }
@@ -2069,7 +2069,7 @@
       "Eight"
      ],
      "a": 0,
-     "why": "Each sodium ion has four chloride ions around it in its own layer, one above and one below. If you chose one, remember that salt has no pairs.",
+     "why": "Each sodium ion has four chloride ions beside it in its own layer. It has one more above and one more below, which makes six. If you chose one, remember that no ion in salt has just one partner.",
      "outcome": 1
     },
     {
@@ -2266,7 +2266,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A white powder cracks when pressed and will not melt on a flame. Its solution carries electricity. Which bond?",
+     "p": "A white powder cracks when pressed and will not melt on a flame. Its solution carries electricity. Which bond is it?",
      "opts": [
       "Ionic",
       "Covalent",
@@ -2421,8 +2421,8 @@
      "t": "write",
      "p": "In Powder Detective, lemon juice made bubbles, though it has no metal atoms. What does this show?",
      "lines": 3,
-     "a": "Some covalent molecules split into ions in water. So the guide from the kinds of atoms is a first guess, and a test is needed to check it.",
-     "why": "A strong answer keeps the guide and marks its limit. It does not throw the guide away because of one exception.",
+     "a": "Some covalent molecules split into ions in water. So the rule based on the kinds of atoms is only a first guess. A test is needed to check it.",
+     "why": "A strong answer keeps the rule and says where it stops working. It does not throw the rule away because of one exception.",
      "outcome": 6,
      "how": "p1"
     },
@@ -2452,7 +2452,7 @@
       }
      ],
      "ask": "Which view do you agree with most? Give a reason, using what you know about bonds. Then answer one of the other views.",
-     "a": "Any view with a reason. One reason is that salt has no single lines to draw, yet it is held very strongly. Another is that bond lengths can be measured.",
+     "a": "Any view with a reason. One reason is that salt has no single pairs of atoms to join with a line. Yet it is held very strongly. Another is that bond lengths can be measured.",
      "why": "Each view has something right in it. A strong answer says what would count as evidence for a bond being a thing.",
      "outcome": 7
     },
@@ -2781,13 +2781,13 @@
    "why_maths": "Dividing the whole area by the area of one leaf shows how far a metal can spread without breaking."
   },
   {
-   "problem": "In Powder Detective, a child predicted 6 results from the kinds of atoms. The guide was right for salt, cooking soda, sugar and glucose. It was wrong for lemon juice and vinegar. What fraction did the guide get right? Is the guide still worth using?",
+   "problem": "In Powder Detective, a child predicted 6 results from the kinds of atoms. The rule was right for salt, cooking soda, sugar and glucose. It was wrong for lemon juice and vinegar. What fraction did the rule get right? Is the rule still worth using?",
    "answer": "4 out of 6, which is two thirds. Yes, as a first guess that a test must check.",
-   "explain": "4 right out of 6 is the fraction four sixths. Dividing both numbers by 2 gives two thirds. A guide that is right two times in three is useful. The two misses are both acids, so they show where the guide needs care.",
+   "explain": "4 right out of 6 is the fraction four sixths. Dividing both numbers by 2 gives two thirds. A rule that is right two times in three is useful. The two misses are both acids, so they show where the rule needs care.",
    "math_unit": "math.fractions.fractions-of-a-whole.L4",
    "how": "p1",
    "context": "In the project Powder Detective you predict which kitchen things carry electricity in water. Then you test them with the bubble tester.",
-   "why_maths": "A fraction says how far a rule of thumb can be trusted. Looking at what the misses share shows where the rule fails."
+   "why_maths": "A fraction says how far a rough rule can be trusted. Looking at what the misses have in common shows where the rule fails."
   },
   {
    "problem": "A grain of table salt is a tiny cube. About 1 million ions sit in a line along one edge. About how many ions are on one flat face of the grain?",
@@ -2896,15 +2896,15 @@
   },
   {
    "q": "Why does salt crack when it is pressed?",
-   "a": "A layer slips, like charges meet, and they push apart."
+   "a": "When a layer of ions slips sideways, plus ions end up next to plus ions. Minus ions end up next to minus ions. Like charges push each other apart, so the crystal cracks."
   },
   {
    "q": "Why does a metal bend without breaking?",
-   "a": "Its atoms slide, and the free electrons still hold them."
+   "a": "Its atoms can slide past each other to new places. The free electrons still hold the atoms together, so the metal does not break."
   },
   {
    "q": "Why does wax melt so easily?",
-   "a": "Its molecules hold each other only weakly."
+   "a": "Wax is made of molecules that attract each other only weakly, so they slide apart easily when heated."
   },
   {
    "q": "When does salt carry electricity?",
@@ -3102,7 +3102,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "Before 1913, chemists were sure that salt was made of molecules. Each molecule was thought to be one sodium atom joined to one chlorine atom. In 1912 William Bragg and his son Lawrence, in England, began to shine X-rays through crystals. The rays bounced off the layers of atoms and made a pattern of spots on a photographic plate. From the spots, the two men could work out where the atoms sat. In 1913 Lawrence, aged 23, worked out the pattern of salt. There were no pairs at all. Sodium and chlorine sat in turns, like the squares of a chessboard. Each had six of the other kind around it. Many chemists disliked this. In 1927 the well-known chemist Henry Armstrong wrote to the journal Nature. He wrote against the chessboard idea. But every later measurement agreed with the Braggs. In 1915 father and son shared the Nobel Prize in Physics. Lawrence was 25, and nobody younger has won that prize.",
+  "story": "Before 1913, chemists were sure that salt was made of molecules. Each molecule was thought to be one sodium atom joined to one chlorine atom. In 1912 William Bragg and his son Lawrence, in England, began to shine X-rays through crystals. The rays bounced off the layers of atoms and made a pattern of spots on a photographic plate. From the spots, the two men could work out where the atoms sat. In 1913 Lawrence, aged 23, worked out the pattern of salt. No sodium atom was paired with one chlorine atom. Instead, sodium and chlorine sat in turns, like the squares of a chessboard. Each had six of the other kind around it. Many chemists disliked this. In 1927 the well-known chemist Henry Armstrong wrote to the journal Nature. He wrote against the chessboard idea. But every later measurement agreed with the Braggs. In 1915 father and son shared the Nobel Prize in Physics. Lawrence was 25, and nobody younger has won that prize.",
   "who": "William Bragg and his son Lawrence Bragg in England, and the chemist Henry Armstrong, who objected",
   "when": "The Braggs began in 1912. Lawrence Bragg published the structure of salt in 1913. They shared the Nobel Prize in 1915. Armstrong's letter appeared in 1927.",
   "wrong_idea": "That salt is made of separate molecules, each with one sodium atom and one chlorine atom. X-ray patterns showed a lattice in which every ion has six equal neighbours and no partner of its own.",
@@ -3117,8 +3117,8 @@
   },
   "three": {
    "who_am_i": "Your nerves and muscles work by ions moving through water. Sodium ions from the salt you eat are part of how you move your hand.",
-   "what_is_life": "A living body uses every kind of bond at once. Covalent chains make its flesh, ionic crystals make its bones and shells, and free ions carry its messages.",
-   "what_is_this_world": "A salt pan, a river and a copper mine are built from the same kinds of particles. They differ in where the outer electrons sit."
+   "what_is_life": "A living body uses covalent bonds and ionic bonds together. Long covalent chains make up its flesh. Ionic crystals make up bones and shells. Free ions carry messages along the nerves.",
+   "what_is_this_world": "A salt pan, a river and a copper mine are all built from atoms. Each atom has a plus centre with minus electrons around it. They are very different because the outer electrons sit in different places."
   },
   "thread": "Every bond in this unit is the same attraction, between plus charges and minus electrons. Salt, water and copper differ only in where the outer electrons end up. They are given, or shared by two atoms, or shared by all. From that one attraction come hardness, melting, shine and the signals in your nerves. Many sages taught that the many things of the world come from one source. The science here says something close and plain: thousands of materials come from one attraction, arranged in different ways.",
   "teachings": [
@@ -3160,7 +3160,7 @@
   },
   "ask": [
    "In Dry Salt, Wet Salt, the same salt was an insulator and then a conductor. Which one is salt really?",
-   "A grain of salt has no pairs, and a copper wire shares its electrons among all its atoms. Where does one piece of salt or copper end?",
+   "In a grain of salt, no ion belongs to just one partner. In a copper wire, the electrons are shared among all the atoms. So where does one piece of salt or copper end?",
    "The sodium in salt was once a metal that burns in water. Is it still the same thing now?"
   ],
   "art": "A child holding a single salt crystal up to the light between finger and thumb, with a faint pattern of plus and minus signs drawn inside the crystal."

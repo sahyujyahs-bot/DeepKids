@@ -151,7 +151,7 @@
    "concept": "Nitrogen: from the air to the field",
    "status": "defined",
    "definition": "Air is about four fifths nitrogen gas, but plants cannot use nitrogen in that form. Factories join it with hydrogen to make ammonia, and ammonia is made into urea.",
-   "description": "Nitrogen is all around every plant. In every 100 litres of air, about 78 litres are nitrogen gas. But the two atoms in a nitrogen molecule hold each other very tightly. A plant has no way to pull them apart. Some bacteria can pull them apart, such as those who live in the root swellings of beans. Lightning can too. In 1909 the German chemist Fritz Haber found a way to do it in a laboratory. He pressed nitrogen and hydrogen together, very hot, over a metal catalyst. A catalyst is a helper that speeds up a reaction and is not used up. The two gases joined to make ammonia. By 1913 the engineer Carl Bosch had built a factory that did this in huge amounts. Today the hydrogen comes mostly from natural gas and steam. The ammonia is then joined with carbon dioxide to make urea. Scientists estimate that food grown with this nitrogen feeds about half the people on Earth. Making it uses a great deal of fuel.",
+   "description": "Nitrogen is all around every plant. In every 100 litres of air, about 78 litres are nitrogen gas. But the two atoms in a nitrogen molecule hold each other very tightly. A plant has no way to pull them apart. Some bacteria can pull them apart, such as those who live in the root swellings of beans. Lightning can pull them apart too. In 1909 the German chemist Fritz Haber found a way to do it in a laboratory. He squeezed nitrogen and hydrogen together at a very high temperature, over a metal catalyst. A catalyst is a helper that speeds up a reaction and is not used up. The two gases joined to make ammonia. By 1913 the engineer Carl Bosch had built a factory that did this in huge amounts. Today the hydrogen comes mostly from natural gas and steam. The ammonia is then joined with carbon dioxide to make urea. Scientists estimate that food grown with this nitrogen feeds about half the people on Earth. Making it uses a great deal of fuel.",
    "examples": [
     "The protein in a grain of wheat holds nitrogen that may have been in the air one year earlier.",
     "Beans, peas and groundnuts get nitrogen from bacteria in their root swellings.",
@@ -164,7 +164,7 @@
    "concept": "Fuels: energy stored in substances",
    "status": "defined",
    "definition": "A fuel is a substance that gives out heat when it burns. Most fuels used today come from crude oil, natural gas and coal.",
-   "description": "Crude oil formed from tiny living beings of the sea who died many millions of years ago. Mud buried them. Heat and pressure slowly changed their remains into oil and gas. Crude oil is a mixture of hydrocarbons. A hydrocarbon molecule is a chain of carbon atoms with hydrogen atoms attached. Some chains are short and some are long. A refinery separates them by boiling. It heats the crude oil, and the vapours rise up a tall tower. Short chains boil at low temperatures, and they are collected near the top. Long chains are collected lower down. The shortest chains have 3 or 4 carbon atoms. They make LPG, the cooking gas. Petrol has chains of about 5 to 12 carbon atoms. Diesel has about 12 to 20. Candle wax has about 20 to 40. The thickest part is bitumen, the black tar that binds a road. The longer the chain, the thicker the substance is and the harder it is to boil. Refineries also supply the starting substances for plastics, paints and many medicines.",
+   "description": "Crude oil formed from tiny living beings of the sea who died many millions of years ago. Mud buried them. Heat and pressure slowly changed their remains into oil and gas. Crude oil is a mixture of hydrocarbons. A hydrocarbon molecule is a chain of carbon atoms with hydrogen atoms attached. Some chains are short and some are long. A refinery separates them by boiling. It heats the crude oil, and the vapours rise up a tall tower. Short chains boil at low temperatures, and they are collected near the top. Long chains are collected lower down. The shortest chains have 3 or 4 carbon atoms. They make LPG, the cooking gas. Petrol has chains of about 5 to 12 carbon atoms. Diesel has chains of about 12 to 20 carbon atoms, and candle wax has about 20 to 40. The thickest part is bitumen, the black tar that binds a road. The longer the chain, the thicker the substance is and the harder it is to boil. Refineries also supply the starting substances for plastics, paints and many medicines.",
    "examples": [
     "The refinery at Jamnagar in Gujarat is the largest in the world.",
     "LPG has no smell of its own. A strong-smelling substance is added so that people notice a leak.",
@@ -177,7 +177,7 @@
    "concept": "What burning a fuel makes",
    "status": "defined",
    "definition": "When a hydrocarbon fuel burns, it joins with oxygen from the air. The reaction makes carbon dioxide and water, and it gives out heat.",
-   "description": "Burning is a chemical reaction between a fuel and oxygen. The carbon atoms of the fuel join with oxygen and become carbon dioxide. The hydrogen atoms join with oxygen and become water vapour. No atom is lost. Burning 1 kilogram of LPG makes about 3 kilograms of carbon dioxide, because oxygen from the air has been added. A flame that gets too little air also makes soot and a poisonous gas called carbon monoxide. Carbon dioxide is not poisonous in small amounts. You breathe it out, and plants take it in. But carbon dioxide holds heat in the air. In 1856 the American scientist Eunice Foote filled glass tubes with different gases and stood them in the sun. The tube of carbon dioxide grew the hottest. She wrote that more of this gas in the air would make the Earth warmer. People now burn so much fuel that this is happening. So chemists work on fuels that add less carbon dioxide. Biogas is made by microbes from dung and food waste. Ethanol is made from sugarcane, and in India it is mixed into petrol. Hydrogen burns to give only water.",
+   "description": "Burning is a chemical reaction between a fuel and oxygen. The carbon atoms of the fuel join with oxygen and become carbon dioxide. The hydrogen atoms join with oxygen and become water vapour. No atom is lost. Burning 1 kilogram of LPG makes about 3 kilograms of carbon dioxide, because oxygen from the air has been added. A flame that gets too little air also makes soot and a poisonous gas called carbon monoxide. Carbon dioxide is not poisonous in small amounts. You breathe it out, and plants take it in. But carbon dioxide holds heat in the air. In 1856 the American scientist Eunice Foote filled glass tubes with different gases and stood them in the sun. The tube of carbon dioxide grew the hottest. She wrote that more of this gas in the air would make the Earth warmer. People now burn so much fuel that the Earth really is getting warmer. So chemists work on fuels that add less carbon dioxide. Biogas is made by microbes from dung and food waste. Ethanol is made from sugarcane, and in India it is mixed into petrol. Hydrogen burns to give only water.",
    "examples": [
     "A cold steel plate held above a candle flame mists over with water and turns black with soot.",
     "A yellow, smoky stove flame is getting too little air. A blue flame is burning cleanly.",
@@ -347,7 +347,7 @@
   {
    "q": "Your body needs salt, and too much salt can make you ill. So is salt a food or a poison?",
    "kind": "deep",
-   "hint": "Think about what changed between the helpful salt and the harmful salt. Was it the salt?"
+   "hint": "Think about what changed between the helpful salt and the harmful salt. Was it the salt itself, or something else?"
   },
   {
    "q": "Urea from a factory and urea from your own body are the same substance. Does it matter where a substance was made?",
@@ -357,7 +357,7 @@
   {
    "q": "Some of the nitrogen in your muscles passed through a fertiliser factory. Is that part of you natural or made?",
    "kind": "deep",
-   "hint": "The nitrogen atom is the same atom it was in the air. Only its partners changed."
+   "hint": "A nitrogen atom in a fertiliser is the same atom that was in the air. Only the atoms it is joined to have changed."
   },
   {
    "q": "Ammonia from Haber's reaction grows food for billions. It was also used to make explosives in a war. Is a discovery good or bad?",
@@ -1404,7 +1404,7 @@
        ]
       }
      ],
-     "parent": "Out: tea, used leaves, steam, carbon dioxide, heat and the water used for washing up. Used leaves are a by-product if they go to compost. They are waste if they go to the dustbin.",
+     "parent": "What comes out is tea, used leaves, steam, carbon dioxide, heat and the water used for washing up. Used leaves are a by-product if they go to compost. They are waste if they go to the dustbin.",
      "context": "In this step of the Tea Factory you sort what came out into product, by-product and waste."
     },
     {
@@ -1424,7 +1424,7 @@
       "a": 0,
       "why": "Urea is made by joining ammonia with carbon dioxide, so the factory feeds its own by-product back in. If you chose cooking gas, remember that carbon dioxide does not burn."
      },
-     "parent": "A urea factory. In: air, natural gas, water and energy. Out: urea, carbon dioxide and heat. The carbon dioxide comes from making hydrogen, and the factory uses much of it to make the urea.",
+     "parent": "Here is the list for a urea factory. What goes in is air, natural gas, water and energy. What comes out is urea, carbon dioxide and heat. The carbon dioxide comes from making hydrogen, and the factory uses much of it to make the urea.",
      "context": "This is the last step of the Tea Factory. You compare your tea lists with what goes into and comes out of a urea factory."
     }
    ]
@@ -1515,7 +1515,7 @@
       {
        "q": "Every minute of flame turns LPG into carbon dioxide. What does saving 10 minutes a day mean over a year?",
        "good": [
-        "3,650 minutes less burning.",
+        "Saving 10 minutes on each of 365 days is 3,650 minutes less burning.",
         "Less gas bought and less carbon dioxide made.",
         "Small savings add up."
        ]
@@ -1675,7 +1675,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each product is made from a raw material taken from nature. The four here come from under the ground, the air, a living tree and a rock.",
+     "why": "Each product is made from a raw material taken from nature. These four products come from different places. They come from crude oil under the ground, the air, a living tree and a rock.",
      "outcome": 0
     },
     {
@@ -2171,7 +2171,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "In each pair an amount or a missing part explains the result. Extra nitrogen feeds algae, and a starved flame burns badly. Loose pigment falls off, and a small body makes a dose stronger.",
+     "why": "In each pair, an amount or a missing part explains the result. Extra nitrogen feeds algae. A flame with too little air burns badly. Pigment with no binder falls off. A small body makes the same dose stronger.",
      "outcome": 6
     },
     {
@@ -2677,7 +2677,7 @@
  "warmup": [
   {
    "q": "Where does the nitrogen in urea come from?",
-   "a": "From the air."
+   "a": "It comes from the air."
   },
   {
    "q": "Name the three main plant nutrients in fertiliser.",
@@ -2950,8 +2950,8 @@
   "practice": {
    "title": "Three breaths of air",
    "mins": 3,
-   "say": "Sit still and put one hand on your belly. Breathe in slowly. Four fifths of that breath is nitrogen. It goes in, and it comes out again unchanged. Breathe in again. One fifth is oxygen, and your body keeps a little of it. Breathe a third time. The nitrogen you cannot use from the air reached you another way. It came in your food. Sit quietly for five more breaths.",
-   "kid": "Sit still. Put a hand on your belly. Breathe in slowly, three times. Most of each breath is nitrogen. Your nitrogen came in your food."
+   "say": "Sit still and put one hand on your belly. Breathe in slowly. Four fifths of that breath is nitrogen. It goes in, and it comes out again unchanged. Breathe in again. One fifth is oxygen, and your body keeps a little of it. Breathe a third time. You cannot use the nitrogen in the air you breathe. The nitrogen in your body reached you another way, in your food. Sit quietly for five more breaths.",
+   "kid": "Sit still. Put a hand on your belly. Breathe in slowly, three times. Most of each breath is nitrogen. The nitrogen in your body came in your food."
   },
   "ask": [
    "In One Dose, Two Bodies, the same drops were strong in the glass and weak in the pot. Is anything strong or weak by itself?",

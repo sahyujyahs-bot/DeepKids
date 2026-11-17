@@ -255,9 +255,9 @@
       "concept": "Air, seas and soils on other worlds",
       "status": "defined",
       "definition": "Other planets and moons have air, seas and soils too, but each has a different recipe from the Earth's.",
-      "description": "The air of Venus is about 96 parts carbon dioxide in every 100, and it is very thick. High in that air, clouds of sulfuric acid rain acid drops. The air below is so hot that the drops evaporate before they reach the ground. The air of Mars is 95 parts carbon dioxide, but it is more than 100 times thinner than ours. Titan, a moon of Saturn, has air that is mostly nitrogen, like ours. Enceladus is a small icy moon of Saturn with a sea under its ice. In 2009 the Cassini spacecraft found grains of ice from that sea, and they held sodium salts. So that sea is salty too. In 2023 India's Chandrayaan-3 rover, Pragyan, tested the Moon's soil near its south pole and found sulfur in it. The Earth's own recipe is unusual in one way. So much oxygen is in our air only because plants, algae and bacteria keep making this gas.",
+      "description": "The air of Venus is about 96 parts carbon dioxide in every 100, and it is very thick. High in that air are clouds made of drops of sulfuric acid. These drops fall as rain. But the air below is so hot that the drops evaporate before they reach the ground. The air of Mars is 95 parts carbon dioxide, but it is more than 100 times thinner than ours. Titan, a moon of Saturn, has air that is mostly nitrogen, like ours. Enceladus is a small icy moon of Saturn with a sea under its ice. In 2009 the Cassini spacecraft found grains of ice from that sea, and they held sodium salts. So that sea is salty too. In 2023 India's Chandrayaan-3 rover, Pragyan, tested the Moon's soil near its south pole and found sulfur in it. The Earth's own recipe is unusual in one way. So much oxygen is in our air only because plants, algae and bacteria keep making this gas.",
       "examples": [
-        "Venus has acid rain that never lands.",
+        "On Venus, acid rain falls from the clouds, but it evaporates before it reaches the ground.",
         "The sea inside Enceladus holds salts, as the Earth's sea does.",
         "Moon soil has no humus, no water between its grains and no air."
       ],
@@ -363,7 +363,7 @@
   ],
   "big_questions": [
     {
-      "q": "The water in the sea is replaced every few thousand years, but the salt stays for millions. Which one is the sea?",
+      "q": "The water in the sea is replaced every few thousand years, but the salt stays for millions. So which one is the real sea, the water or the salt?",
       "kind": "deep",
       "hint": "Think of a school. The children change every few years, and the building stays. Which one is the school?"
     },
@@ -375,7 +375,7 @@
     {
       "q": "Argon was in every breath anyone ever took, and nobody knew until 1894. What else might be around us that nobody has measured yet?",
       "kind": "deep",
-      "hint": "Argon was found because two numbers that should have matched differed by a tiny amount."
+      "hint": "Argon was found because two careful weighings of nitrogen, which should have matched, differed by a tiny amount."
     },
     {
       "q": "Smoke from one country falls as acid rain on another country. Who should pay to stop it?",
@@ -538,7 +538,7 @@
             },
             {
               "f": "I am water vapour, a gas nobody can see.",
-              "b": "Air. Water vapour makes up from almost nothing to 4 parts in 100 of air."
+              "b": "Air. The share of water vapour in air goes from almost nothing to about 4 parts in 100."
             },
             {
               "f": "I am red iron oxide, the same substance as rust.",
@@ -1583,10 +1583,10 @@
           "mins": 5,
           "do": "Put the second mustard seed on the table, outside the plate. Explain the carbon dioxide number. Then ask your child to say what they guessed and what they found.",
           "say": "Where is the carbon dioxide? Only about 4 grains in 10,000 are carbon dioxide. You would need 25 plates like this one to hold a single grain of it. Say what you guessed about oxygen, and what you found.",
-          "kid": "Carbon dioxide is 1 grain in 25 plates. Say what you guessed and found.",
+          "kid": "You would need 25 plates of air to find 1 grain of carbon dioxide. Say what you guessed and found.",
           "ask": [
             {
-              "q": "With every breath you take in 78 parts of nitrogen. What do you think your body does with it?",
+              "q": "Of every 100 parts of air you breathe in, 78 are nitrogen. What do you think your body does with it?",
               "good": [
                 "Nothing. It breathes it out again.",
                 "It does not use it."
@@ -2316,7 +2316,7 @@
             "sea water",
             "Dead Sea water"
           ],
-          "why": "Rain holds almost no salts. River water has dissolved a little rock. The sea has kept its salts for ages. The Dead Sea has no way out and a hot sun.",
+          "why": "Rain holds almost no salts. River water has dissolved a little rock. The sea has kept its salts for ages. The Dead Sea has no river flowing out of it. The hot sun keeps evaporating its water, so it is the saltiest.",
           "outcome": 2
         },
         {
@@ -3023,11 +3023,11 @@
   "warmup": [
     {
       "q": "Which gas makes up most of the air?",
-      "a": "Nitrogen: 78 parts in every 100."
+      "a": "Nitrogen. It makes up 78 parts in every 100."
     },
     {
       "q": "How much salt does a litre of sea water hold?",
-      "a": "About 35 grams."
+      "a": "A litre of sea water holds about 35 grams of salts."
     },
     {
       "q": "River water is fresh. Why is the sea salty?",

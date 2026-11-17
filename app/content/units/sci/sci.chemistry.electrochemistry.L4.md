@@ -41,7 +41,7 @@ Everything is made of atoms, and every atom has electrons. In a metal, each atom
 ### A lemon cell: two different metals and a liquid with ions · *defined*
 **Definition:** A cell is two different metals, or other substances, with an electrolyte between them. A chemical change in the cell pushes electrons round a wire.
 
-Zinc gives away electrons more easily than copper does. In a lemon cell, zinc atoms leave their electrons behind in the nail. The atoms go into the juice as zinc ions. The electrons left behind crowd the nail, so the nail is the minus terminal. A wire gives them a path to the copper, and they flow along it. At the copper, the electrons are taken by hydrogen ions from the acid in the juice. These become tiny bubbles of hydrogen gas. The copper itself does not change. Inside the lemon, ions drift through the juice and complete the loop. The energy of the current comes from the zinc as it changes. The lemon gives the path and the acid. When the zinc is used up, the cell is dead.
+Zinc gives away electrons more easily than copper does. In a lemon cell, zinc atoms leave their electrons behind in the nail. The atoms go into the juice as zinc ions. The electrons left behind crowd the nail, so the nail is the minus terminal. A wire gives them a path to the copper, and they flow along it. At the copper, the electrons are taken by hydrogen ions from the acid in the juice. These become tiny bubbles of hydrogen gas. The copper itself does not change. Inside the lemon, ions drift through the juice and complete the loop. The energy of the current comes from the zinc as it changes. The lemon only supplies the juice, which carries the ions and holds the acid. When the zinc is used up, the cell is dead.
 - e.g. A zinc nail and a copper wire in a lemon give about 0.9 volts.
 - e.g. Two copper wires in a lemon give nothing, because neither one gives electrons more easily than the other.
 - e.g. The same two metals work in a potato, in vinegar or in salt water.
@@ -56,7 +56,7 @@ Chemists have tested metals against each other and put them in order. From the t
 **Definition:** A volt is the unit for how hard a cell pushes electrons. The number of electrons that pass each second is called the current.
 
 A lemon cell pushes with about 0.9 volts, and an AA cell with 1.5 volts. Cells joined in a row, plus to minus, add their pushes. Four lemon cells give about 3.6 volts, which is more than two AA cells. Yet four lemons light only a small red LED, and only faintly. They can never light a torch bulb. The reason is that a lemon cell lets very few electrons through each second. Its ions drift slowly through the juice, and the metals touch only a little juice. A torch bulb needs hundreds of times more electrons each second than a lemon can pass. An AA cell is built to pass that many. So a battery has two different numbers: how hard it pushes, and how much it can deliver. A wall socket pushes with 230 volts and can deliver enough to kill. That is why this unit uses only small cells.
-- e.g. One lemon cell: about 0.9 volts. Four in a row: about 3.6 volts.
+- e.g. One lemon cell gives about 0.9 volts. Four lemon cells joined in a row give about 3.6 volts.
 - e.g. A red LED needs about 1.8 volts and very few electrons each second, so lemons can light it.
 - e.g. A torch bulb needs many electrons each second, so lemons cannot light it.
 ### Inside the cells you buy · *defined*
@@ -69,7 +69,7 @@ In a common AA cell, the giver of electrons is zinc, just as in the lemon. In th
 ### Electrolysis: a current forces a change, and splits water · *defined*
 **Definition:** Electrolysis is using an electric current to force a chemical change. In the electrolysis of water, the current splits water into hydrogen gas and oxygen gas.
 
-A water molecule is two hydrogen atoms joined to one oxygen atom. The atoms hold on to each other strongly, and boiling does not separate them. A current can. Two electrodes joined to a pack of cells dip into water with a little baking soda in it. The soda gives the water ions, so that it can carry a current. The cells push electrons into the minus electrode. Water molecules there take the electrons and break up, and hydrogen gas bubbles off. What is left behind there is a base. The cells pull electrons out of the plus electrode. Water molecules there give up electrons, and oxygen gas bubbles off. Twice as much hydrogen comes off as oxygen, because water has two hydrogen atoms for each oxygen atom. A battery gives energy as its change runs. Electrolysis uses energy to push a change the other way. Charging a phone is electrolysis inside its battery.
+A water molecule is two hydrogen atoms joined to one oxygen atom. The atoms hold on to each other strongly, and boiling does not separate them. A current can. Two electrodes joined to a pack of cells dip into water with a little baking soda in it. The soda gives the water ions, so that it can carry a current. The cells push electrons into the minus electrode. Water molecules there take the electrons and break up, and hydrogen gas bubbles off. What is left behind there turns the water into a base, which is the opposite of an acid. The cells pull electrons out of the plus electrode. Water molecules there give up electrons, and oxygen gas bubbles off. Twice as much hydrogen comes off as oxygen, because water has two hydrogen atoms for each oxygen atom. A battery gives energy as its change runs. Electrolysis uses energy to push a change the other way. Charging a phone is electrolysis inside its battery.
 - e.g. Two pencil leads joined to four AA cells bubble in baking soda water.
 - e.g. A space station splits water by electrolysis to make oxygen for the crew to breathe.
 - e.g. A phone charger pushes the change inside the phone's battery backwards.
@@ -150,12 +150,12 @@ On the deep sea floor there are vents where warm water full of minerals seeps ou
 ## Roots
 In this unit you made a lemon cell crackle, rusted a nail in ten minutes and split water. Here we ask what it means that a useful battery and a rusting gate are the same change.
 
-**Deep truth.** In the Lemon Battery test, the zinc nail gave away electrons and turned dull. In Rust in Ten Minutes, the nail that gave away electrons was eaten into rust. A rusting gate gives its electrons to oxygen in the same way. So a battery is corrosion that sends its electrons through a wire first.  
+**Deep truth.** In the Lemon Battery test, the zinc nail gave away electrons and turned dull. In Rust in Ten Minutes, the nail that gave away electrons was eaten into rust. A rusting gate gives its electrons to oxygen in the same way. So a battery is a kind of corrosion in which the electrons are first sent through a wire.  
 *Habit it breaks:* We put batteries with useful things that people make, and rust with damage and decay. They are one change. The only difference is whether the electrons pass through a wire, where they can do some work on the way.  
 *Evidence:* In the Lemon Battery test, the earphones crackled only when a zinc nail and a copper wire shared the lemon. By the next day the zinc was dull and rough, and the copper was unchanged. In Rust in Ten Minutes, only the nail joined to the plus end of the cells turned to rust. That is the nail that the cells pulled electrons out of.
 
 - *who am i:* Your cells take electrons from your food and pass them to the oxygen you breathe. You stay alive because electrons keep moving through you.
-- *what is life:* Every living being, from a bacterium to a banyan tree, lives by passing electrons from one substance to another. Life does in small steps what a flame does all at once.
+- *what is life:* Every living being, from a bacterium to a banyan tree, lives by passing electrons from one substance to another. A flame passes electrons from fuel to oxygen all at once. A living being does the same thing in many small steps.
 - *what is this world:* A steel bridge is iron that people have pulled away from oxygen. The air and the rain slowly join the two again.
 
 A battery, a rusting gate, a breathing child and a bacterium in mud look like four different things. In each of them, electrons leave one substance and go to another. The electron that lights an LED is the same kind of particle as the electron that rusts a nail. Many sages taught that one reality appears in many forms. The science here says something smaller and exact: several changes that we name separately are one kind of change.
@@ -167,7 +167,7 @@ A battery, a rusting gate, a breathing child and a bacterium in mud look like fo
 - Science (settled): Living cells get their energy by passing electrons from food to oxygen in small steps. Peter Mitchell proposed in 1961 how cells use this passing. Jennifer Moyle's experiments helped prove it. It is found in almost all living things.
 - Science (idea): Life may have begun at deep-sea vents. Rocks and sea water there made a natural electrical difference, like the two sides of a cell.
 - Other view, Aristotle, in his Physics, Book 2: To understand a thing, you must know what it is for, as well as what it is made of. A battery is made for a purpose, and rust is made for none. On this view, calling a battery and rust the same change leaves out what matters most about each.
-- Practice, One breath, followed inwards (3 min): Sit still and hold a steel spoon in your closed hand. Breathe in slowly. The oxygen you just took in is travelling to every cell of your body. In each cell it takes electrons that came from your food. Breathe out slowly. Now feel the spoon. It has grown warm. That warmth came from electrons passing to oxygen inside you. The spoon is steel, and it would take years of rain to pass its electrons to oxygen. Which of you two is changing faster?
+- Practice, One breath, followed inwards (3 min): Sit still and hold a steel spoon in your closed hand. Breathe in slowly. The oxygen you just took in is travelling to every cell of your body. In each cell it takes electrons that came from your food. Breathe out slowly. Now feel the spoon. It has grown warm from your hand. Some of that warmth comes from electrons passing to oxygen inside you. The spoon is steel, and it would take years of rain to pass its electrons to oxygen. Which of you two is changing faster?
 - Ask: In Rust in Ten Minutes, a nail turned to rust and lit nothing. Where did its energy go?
 - Ask: A battery is used up as it works. A body rebuilds itself as it works. What makes that difference?
 - Ask: If a battery and rust are one kind of change, why do people have two words for them?
@@ -178,7 +178,7 @@ A battery, a rusting gate, a breathing child and a bacterium in mud look like fo
 - *big:* Iron comes out of the ground as a kind of rust, and it goes back to rust. Is a steel bridge ever finished? (hint: Think about how often a railing is painted, and what happens if nobody paints it.)
 - *deep:* You breathe oxygen so that it can take electrons from your food. Iron rusts when oxygen takes its electrons. Are you rusting? (hint: Both pass electrons to oxygen. A body does it in small steps and uses the energy.)
 - *big:* Mars is red with iron oxide. What might that tell us about the past of Mars? (hint: On Earth, iron rusts where there is water and oxygen.)
-- *big:* The metals in a phone battery are dug up by miners, some of whom are children. Who should pay the real cost of a battery? (hint: Much of the world's cobalt comes from mines in the Democratic Republic of the Congo.)
+- *big:* The metals in a phone battery are dug up by miners, some of whom are children. Who should pay the real cost of a battery? (hint: Think about who digs up the metals, who buys the phones, and who gains from each. Much of the world's cobalt comes from mines in the Democratic Republic of the Congo.)
 
 ## Story: The Grey Lumps Under the Boat
 *Jenifer, Stella Periyamma, Xavier Mama and the two boats are made up, and so are the weights and the price. These facts are real. Fishing boats on India's east coast stay out of the sea for about two months from mid-April. Steel boats with bronze propellers carry blocks of zinc bolted to the hull. The zinc is eaten away and is replaced when the boat is hauled out. A zinc block must touch bare metal and must never be painted.*
@@ -273,7 +273,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
   - Check: A rusting gate and a torch cell both pass electrons from a metal. What is the main difference? → **In the cell, the electrons go through a wire**
 ### g2 · Volt Makers: a metal ladder card game (15 min)
 - **rules:** Put the ladder in the middle. Shuffle the 24 cards. Deal four cards to each player, and put the rest face down in a pile.; On your turn, lay down two cards from your hand, side by side. They are the two metals of a cell.; Say which of the two metals gives the electrons. It is the one higher on the ladder, with the smaller rung number.; If you are right, score the number of rungs between the two metals. Zinc and copper score 3. Two cards of the same metal score 0.; Take two new cards from the pile, if any are left. Then the next player has a turn.; The game ends when the pile is empty and every card has been laid down. The player with the most points wins.; Playing alone? Deal yourself four cards and play through the whole pack. A total of 36 or more is a very good score. The most anyone can get is 48.
-- **Printable board: 1 metal ladder: eight metals in order, from the easiest giver of electrons to the strongest holder:** Rung 1: Magnesium. Burns with a bright white light.; Rung 2: Aluminium. Kitchen foil. A thin skin of oxide protects it.; Rung 3: Zinc. The coat on a galvanised bucket.; Rung 4: Iron. Steel is mostly iron.; Rung 5: Tin. The thin coat inside a food tin.; Rung 6: Copper. Electric wires.; Rung 7: Silver. Anklets and old coins.; Rung 8: Gold. Found in the ground as shiny metal.
+- **Printable board: 1 metal ladder: eight metals in order, from the easiest giver of electrons to the strongest holder:** Rung 1: Magnesium. Burns with a bright white light.; Rung 2: Aluminium. It is used for kitchen foil, and a thin skin of oxide protects it.; Rung 3: Zinc. It makes the coat on a galvanised bucket.; Rung 4: Iron. Steel is mostly iron.; Rung 5: Tin. It makes the thin coat inside a food tin.; Rung 6: Copper. It is used for electric wires.; Rung 7: Silver. It is used for anklets and old coins.; Rung 8: Gold. Found in the ground as shiny metal.
 - **Printable cards: 24 metal cards: three of each metal, with its rung on the ladder:** Magnesium, rung 1; Magnesium, rung 1; Magnesium, rung 1; Aluminium, rung 2; Aluminium, rung 2; Aluminium, rung 2; Zinc, rung 3; Zinc, rung 3; Zinc, rung 3; Iron, rung 4; Iron, rung 4; Iron, rung 4; Tin, rung 5; Tin, rung 5; Tin, rung 5; Copper, rung 6; Copper, rung 6; Copper, rung 6; Silver, rung 7; Silver, rung 7; Silver, rung 7; Gold, rung 8; Gold, rung 8; Gold, rung 8
 - **s1 (3 min)**  
   *Parent does:* Cut out the ladder and the 24 cards. Shuffle and deal four cards to each player. Read the rules aloud.  
@@ -577,7 +577,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 2. (fill) A liquid with ions in it, such as lemon juice or salt water, is called an ____.  
    **Answer:** ['electrolyte']. *Why:* The ions in an electrolyte carry charge through the liquid. Without them the loop is not complete.
 3. (truefalse) The electricity of a lemon battery comes out of the lemon.  
-   **Answer:** False. *Why:* False. The energy comes from the zinc as it gives away electrons and is used up. The lemon gives the path. Salt water works in its place.
+   **Answer:** False. *Why:* False. The energy comes from the zinc as it gives away electrons and is used up. The lemon only gives the juice that carries the ions. Salt water works in its place.
 4. (match) Match each part of a lemon cell to its job.  
    **Answer:** The zinc nail → Gives away electrons; The copper wire in the lemon → Passes electrons on to the juice; The lemon juice → Carries ions between the metals; The wire outside the lemon → Gives the electrons a path. *Why:* Each part has one job. Take any one away and the loop is broken, so the current stops.
 5. (mcq) In a lemon cell with zinc and copper, which metal is slowly used up?  
@@ -628,7 +628,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 8. (order) Put these metals in order, from the easiest giver of electrons to the strongest holder.  
    **Answer:** ['Zinc', 'Iron', 'Copper', 'Gold']. *Why:* This is their order on the metal ladder. It is why zinc protects iron, and why gold is found as metal.
 9. (sort) Sort these. Does a chemical change make the current, or does a current force the change?  
-   **Answer:** a lemon cell → A chemical change makes a current; an AA cell in a clock → A chemical change makes a current; a fuel cell in a bus → A chemical change makes a current; charging a phone → A current forces a chemical change; splitting water → A current forces a chemical change; coating a spoon with silver → A current forces a chemical change. *Why:* The first group are batteries. The second group are electrolysis. One is the other run backwards.
+   **Answer:** a lemon cell → A chemical change makes a current; an AA cell in a clock → A chemical change makes a current; a fuel cell in a bus → A chemical change makes a current; charging a phone → A current forces a chemical change; splitting water → A current forces a chemical change; coating a spoon with silver → A current forces a chemical change. *Why:* The first group are batteries, where a chemical change makes the current. The second group are electrolysis, where a current forces the change. Each one is the other run backwards.
 10. (write) Two nails in salt water are joined to cells. Only the nail on the plus wire rusts. Explain why.  
    **Answer:** The cells pull electrons out of the plus nail. Iron atoms that lose electrons become ions and leave the nail, and they form rust. The cells push electrons into the minus nail, so it loses none.. *Why:* A strong answer says that rusting is iron losing electrons, and that only the plus nail is losing them.
 11. (write) A galvanised bucket gets a deep scratch. Explain why the bare steel in the scratch still does not rust.  
@@ -660,7 +660,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 6. (truefalse) When a steel plate rusts under a drop of water, the steel itself carries the electrons.  
    **Answer:** True. *Why:* True. The electrons travel through the metal from the middle of the drop to its edge. The plate does the job of a wire.
 7. (match) Match each change to the thing that gives away the electrons.  
-   **Answer:** A lemon cell with zinc and copper → Zinc; A rusting gate → Iron; A fuel cell in a bus → Hydrogen; A cell in your body → Food. *Why:* In every one of these, electrons leave one substance and go to another. Only the giver changes.
+   **Answer:** A lemon cell with zinc and copper → Zinc; A rusting gate → Iron; A fuel cell in a bus → Hydrogen; A cell in your body → Food. *Why:* In every one of these, electrons leave one substance and go to another. The only thing that differs is which substance gives the electrons.
 8. (count) Split water gives 2 litres of hydrogen for each litre of oxygen. How much hydrogen comes with 7 litres of oxygen?  
    **Answer:** 14. *Why:* There is twice as much hydrogen as oxygen. 7 times 2 is 14.
 9. (fill) The slow change of a metal as it gives electrons to oxygen is called ____.  
@@ -736,7 +736,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 - A white or green crust on the ends of old cells inside a TV remote.
 - Green patches on an old brass lamp or a copper pot.
 - The Iron Pillar in the Qutb complex in Delhi. It has stood in the open for about 1,600 years with very little rust.
-- Painters at work on a steel railway bridge over the sea, such as a long railway bridge over a sea channel.
+- Painters at work on a steel railway bridge that crosses a sea channel.
 - E-rickshaws and electric autos plugged in at a charging stand.
 
 ## Open questions

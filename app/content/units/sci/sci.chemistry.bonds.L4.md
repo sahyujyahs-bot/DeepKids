@@ -46,12 +46,12 @@ Every atom has a centre called the nucleus, which has a plus charge. Around it m
 
 A sodium atom holds its one outer electron weakly. A chlorine atom attracts one more electron strongly. When they meet, the electron moves from the sodium to the chlorine. The sodium now has one electron too few, so it has a plus charge. The chlorine has one too many, so it has a minus charge. Both are now ions. The chlorine ion is called chloride. A sodium ion is not like a sodium atom. The atom reacts fiercely because it gives its electron away so easily. The ion has already given it away, so it does not react in that way. This is how a fiery metal and a poisonous gas become table salt. The ions do not pair off. Each plus ion attracts every minus ion near it. So they pack into a pattern called a lattice, plus next to minus in every direction. In salt, every sodium ion has six chloride ions around it. Every chloride ion has six sodium ions around it. There is no salt molecule. The formula NaCl only says there is one sodium ion for every chloride ion.
 - e.g. Table salt is sodium ions and chloride ions.
-- e.g. Cooking soda has sodium ions, and toothpaste often has sodium fluoride.
+- e.g. Cooking soda is made of sodium ions and other ions. Toothpaste often has sodium fluoride, which is made of ions too.
 - e.g. A sea shell is mostly calcium carbonate, which is held together by ionic bonds.
 ### Why salt is hard, brittle and hard to melt · *defined*
 **Definition:** An ionic solid is hard and brittle, and it melts only at a very high temperature. This is because every ion is held by strong attractions on all sides.
 
-In Three Solids, Three Tests, the salt cracked under the spoon. It did not melt over the candle, and it dissolved in water. To melt salt, the ions must break free of all their neighbours. That needs about 800 degrees Celsius. A spoon held over a candle does not get that hot. Salt is hard for the same reason. It is brittle because of the pattern. Press hard, and one layer of ions slips one place sideways. Now plus ions sit next to plus ions, and minus next to minus. Like charges repel each other. So the two layers push apart, and the crystal splits along a flat face. Water takes salt apart more gently. Water molecules attract the ions and pull them out of the lattice one by one.
+In Three Solids, Three Tests, the salt cracked under the spoon. It did not melt over the candle, and it dissolved in water. To melt salt, the ions must break free of all their neighbours. That needs about 800 degrees Celsius. A spoon held over a candle does not get that hot. Salt is hard for the same reason, because every ion is held tightly by its neighbours. Salt is brittle because of the way its ions sit in a regular pattern. Press hard, and one layer of ions slips one place sideways. Now plus ions sit next to plus ions, and minus next to minus. Like charges repel each other. So the two layers push apart, and the crystal splits along a flat face. Water takes salt apart more gently. Water molecules attract the ions and pull them out of the lattice one by one.
 - e.g. A crystal of rock salt breaks into pieces with flat faces.
 - e.g. Salt stays solid on a hot dosa tawa.
 - e.g. Factories melt salt and pass electricity through it to make sodium metal.
@@ -94,21 +94,21 @@ In a water molecule, the oxygen atom attracts the shared electrons more strongly
 **Definition:** Ionic, covalent and metallic are three pure types. Most real bonds lie somewhere between them.
 
 In 1932 the American chemist Linus Pauling gave each element a number. The number says how strongly its atoms attract shared electrons. If two atoms have the same number, they share equally. That is a pure covalent bond, as in oxygen gas. If the numbers differ a little, the sharing is unequal, as in water. If they differ a lot, one atom takes the electron almost fully, as in salt. So there is no sharp line between sharing and giving. Even in salt, the electron is not given completely. Later chemists drew a triangle with the three pure types at its corners. Salt sits near the ionic corner, and copper near the metallic corner. Most substances sit somewhere inside the triangle.
-- e.g. Oxygen gas is shared equally.
-- e.g. Water is shared unequally.
-- e.g. Salt is almost fully given.
+- e.g. In oxygen gas, the two atoms share their electrons equally.
+- e.g. In water, the oxygen atom pulls the shared electrons harder than the hydrogen atoms do.
+- e.g. In salt, the sodium atom gives its electron almost completely to the chlorine atom.
 ### Bonds can change under pressure: hydrogen inside Jupiter · *idea*
 **Definition:** Hydrogen on Earth is a gas of covalent molecules. Scientists think that deep inside Jupiter, it is squeezed into a liquid metal.
 
 The kind of bond is not fixed for ever by the kind of atom. It also depends on how hard the atoms are pressed together. In 1935 Eugene Wigner and Hillard Huntington worked out that hydrogen should become a metal under great pressure. The atoms would be pushed so close that their electrons would be shared by all. In 1996 a team in California squeezed liquid hydrogen with a shock for a tiny moment. It carried electricity like a metal. Deep inside Jupiter the pressure is millions of times greater than our air pressure. Scientists think most of Jupiter's hydrogen is a liquid metal. Currents in it would explain Jupiter's very strong magnetism. Nobody has been there to check. In 2017 two scientists at Harvard reported solid metallic hydrogen made in a laboratory. Other teams doubt the result, and it has not been confirmed.
 - e.g. Hydrogen gas in a balloon is made of molecules of two atoms.
-- e.g. Jupiter's magnetism is the strongest of any planet.
+- e.g. Jupiter has the strongest magnetism of any planet in our Sun's family.
 - e.g. Earth's own magnetism comes from liquid iron moving in its core.
 ### Is a bond a thing? · *debated*
 **Definition:** Chemists draw a bond as a line between two atoms. They disagree about whether that line stands for a real object.
 
-Nobody has picked up a bond. What exists for certain is nuclei and electrons. A bond is where electrons gather between nuclei and lower the energy. Whether to call that a thing is argued.
-- e.g. A chemist draws water as H, a line, O, a line, H.
+Nobody has ever picked up a bond. What exists for certain is the nuclei and the electrons. A bond is the place where electrons gather between two nuclei, and this makes the atoms steadier together than apart. People argue about whether that place should be called a thing.
+- e.g. A chemist draws a water molecule as an H, a line, an O, another line, and a second H. Each line stands for one bond.
 - e.g. In 2009 a microscope picture of a molecule showed bright lines where chemists draw bonds.
 - **Many working chemists:** Bonds are real. They have a length and a strength that can be measured. In 2009 Leo Gross and his team in Zurich pictured a single molecule with a very fine microscope. The picture showed lines where the bonds were drawn.
 - **Some chemists and physicists who work with quantum theory:** Only nuclei and electrons are real. The electrons spread through the whole molecule as a cloud. A bond is our name for one part of that cloud. The lines in the picture show where electrons are thick, which fits both views.
@@ -122,13 +122,13 @@ Nobody has picked up a bond. What exists for certain is nuclei and electrons. A 
 - There is no sharp line between sharing an electron and giving it. *How we know:* In 1932 Linus Pauling measured bond strengths and gave each element a number for how strongly it attracts electrons. Bonds between elements with different numbers come out part shared and part given.
 
 ## How we found out
-**William Bragg and his son Lawrence Bragg in England, and the chemist Henry Armstrong, who objected, The Braggs began in 1912. Lawrence Bragg published the structure of salt in 1913. They shared the Nobel Prize in 1915. Armstrong's letter appeared in 1927..** Before 1913, chemists were sure that salt was made of molecules. Each molecule was thought to be one sodium atom joined to one chlorine atom. In 1912 William Bragg and his son Lawrence, in England, began to shine X-rays through crystals. The rays bounced off the layers of atoms and made a pattern of spots on a photographic plate. From the spots, the two men could work out where the atoms sat. In 1913 Lawrence, aged 23, worked out the pattern of salt. There were no pairs at all. Sodium and chlorine sat in turns, like the squares of a chessboard. Each had six of the other kind around it. Many chemists disliked this. In 1927 the well-known chemist Henry Armstrong wrote to the journal Nature. He wrote against the chessboard idea. But every later measurement agreed with the Braggs. In 1915 father and son shared the Nobel Prize in Physics. Lawrence was 25, and nobody younger has won that prize.  
+**William Bragg and his son Lawrence Bragg in England, and the chemist Henry Armstrong, who objected, The Braggs began in 1912. Lawrence Bragg published the structure of salt in 1913. They shared the Nobel Prize in 1915. Armstrong's letter appeared in 1927..** Before 1913, chemists were sure that salt was made of molecules. Each molecule was thought to be one sodium atom joined to one chlorine atom. In 1912 William Bragg and his son Lawrence, in England, began to shine X-rays through crystals. The rays bounced off the layers of atoms and made a pattern of spots on a photographic plate. From the spots, the two men could work out where the atoms sat. In 1913 Lawrence, aged 23, worked out the pattern of salt. No sodium atom was paired with one chlorine atom. Instead, sodium and chlorine sat in turns, like the squares of a chessboard. Each had six of the other kind around it. Many chemists disliked this. In 1927 the well-known chemist Henry Armstrong wrote to the journal Nature. He wrote against the chessboard idea. But every later measurement agreed with the Braggs. In 1915 father and son shared the Nobel Prize in Physics. Lawrence was 25, and nobody younger has won that prize.  
 *What people believed before:* That salt is made of separate molecules, each with one sodium atom and one chlorine atom. X-ray patterns showed a lattice in which every ion has six equal neighbours and no partner of its own.
 
 ## Challenging perspectives
 - **Salt is made of salt molecules, each with one sodium atom and one chlorine atom.** (Most chemists before 1913, and Henry Armstrong as late as 1927.; *rejected*)  
   For: The formula NaCl looks like a molecule. Water and sugar really are made of molecules.  
-  Against: X-rays show that each ion has six equal neighbours and no partner of its own. NaCl gives only the ratio, one to one.
+  Against: X-rays show that each ion has six equal neighbours and no partner of its own. The formula NaCl only tells us the ratio, which is one sodium ion for every chloride ion.
 - **Salt water has no ions until an electric current makes them.** (Michael Faraday and most chemists before the 1880s.; *rejected*)  
   For: Ions were first noticed only when a current was flowing.  
   Against: Svante Arrhenius showed in the 1880s that dissolved salt is already split into ions. Salt lowers the freezing point of water about twice as much as the same number of sugar molecules. That fits two particles for every unit of salt.
@@ -153,8 +153,8 @@ In this unit you found three ways that atoms hold on to each other. Here we ask 
 *Evidence:* In Dry Salt, Wet Salt, the same two teaspoons of salt gave no bubbles dry and many bubbles wet. Plain water and wet sugar gave almost none. In Slide a Row, every ion in the coin model was held on all sides.
 
 - *who am i:* Your nerves and muscles work by ions moving through water. Sodium ions from the salt you eat are part of how you move your hand.
-- *what is life:* A living body uses every kind of bond at once. Covalent chains make its flesh, ionic crystals make its bones and shells, and free ions carry its messages.
-- *what is this world:* A salt pan, a river and a copper mine are built from the same kinds of particles. They differ in where the outer electrons sit.
+- *what is life:* A living body uses covalent bonds and ionic bonds together. Long covalent chains make up its flesh. Ionic crystals make up bones and shells. Free ions carry messages along the nerves.
+- *what is this world:* A salt pan, a river and a copper mine are all built from atoms. Each atom has a plus centre with minus electrons around it. They are very different because the outer electrons sit in different places.
 
 Every bond in this unit is the same attraction, between plus charges and minus electrons. Salt, water and copper differ only in where the outer electrons end up. They are given, or shared by two atoms, or shared by all. From that one attraction come hardness, melting, shine and the signals in your nerves. Many sages taught that the many things of the world come from one source. The science here says something close and plain: thousands of materials come from one attraction, arranged in different ways.
 
@@ -166,13 +166,13 @@ Every bond in this unit is the same attraction, between plus charges and minus e
 - Other view, Many chemists and physicists: Words such as 'gives', 'shares' and 'holds on' are only figures of speech. Charges attract each other by the electric force, and electrons settle where the energy is lowest. On this view, wet salt carrying electricity is an ordinary fact of physics. It says nothing deeper about what a thing is.
 - Practice, One grain on the tongue (3 min): Hold a steel spoon in one hand and one grain of salt in the other. Feel how hard each one is. Now put the grain on your tongue and close your eyes. Notice the moment the taste begins. The ions are leaving the crystal and moving into the water of your mouth. Sit quietly for five breaths while the taste spreads.
 - Ask: In Dry Salt, Wet Salt, the same salt was an insulator and then a conductor. Which one is salt really?
-- Ask: A grain of salt has no pairs, and a copper wire shares its electrons among all its atoms. Where does one piece of salt or copper end?
+- Ask: In a grain of salt, no ion belongs to just one partner. In a copper wire, the electrons are shared among all the atoms. So where does one piece of salt or copper end?
 - Ask: The sodium in salt was once a metal that burns in water. Is it still the same thing now?
 
 ## Deep and big questions
-- *deep:* Sodium metal burns in water, and the sodium ions in salt do not. Are they the same thing? (hint: The nucleus is the same. Only one electron is missing. What makes a thing what it is?)
+- *deep:* Sodium metal burns in water, but the sodium ions in salt do not burn. Are they the same thing? (hint: A sodium ion has the same nucleus as a sodium atom. The only difference is one electron that is missing. So what is it that makes a thing what it is?)
 - *deep:* Dry salt does not carry electricity, and wet salt does. Is carrying electricity a fact about salt, or about salt and water together? (hint: Think about what you found in Dry Salt, Wet Salt. Could you call salt a conductor, an insulator, or neither?)
-- *deep:* In a copper wire, the free electrons belong to no single atom. Is the wire many atoms, or one thing? (hint: A salt crystal has no pairs either. Where would you draw the edge of one piece?)
+- *deep:* In a copper wire, the free electrons belong to no single atom. So is the wire many separate atoms, or one thing? (hint: In a salt crystal, no ion belongs to just one partner either. So where would you say one piece ends and the next begins?)
 - *deep:* Nobody has picked up a bond. Is a bond a thing, or a name for what electrons do? (hint: A wave on the sea can be seen and measured. Is a wave a thing?)
 - *big:* Your nerves send messages by moving ions through water. Where did the ions in your body come from? (hint: Think about salt, food, the sea and the rocks that rivers wear down.)
 - *big:* Lawrence Bragg was 23, and a famous older chemist argued against his idea. How should people decide whom to trust? (hint: Think about what each of them could show, and whether other people could repeat it.)
@@ -259,7 +259,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 - **Printable tokens: 3 bond tokens: Ionic, Covalent, Metallic. Print one set for each player:** Ionic: a metal gives electrons to a non-metal; Covalent: non-metals share electrons; Metallic: metal atoms pool their electrons
 - **s1 (3 min)**  
   *Parent does:* Cut out the 24 cards and the tokens. Shuffle the cards into a pile. Give each player one set of three tokens.  
-  *Parent says:* Each card names a material and the kinds of atoms in it. Your three tokens are the three kinds of bond. Here is the guide. A metal with a non-metal gives. Non-metals share. Metals alone pool.  
+  *Parent says:* Each card names a material and the kinds of atoms in it. Your three tokens are the three kinds of bond. Here is the guide. When a metal meets a non-metal, the metal atom gives its electrons away. When non-metals meet, they share electrons. When there are only metal atoms, they pool their electrons together.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take three tokens.
 - **s2 (7 min)**  
   *Parent does:* Play the first twelve cards. After each card, read the back aloud. Ask the question below after card six.  
@@ -277,7 +277,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
   *Child mode:* Sort the cards into three piles. What is the same in the ionic pile?
   - Check: Calcium is a metal and fluorine is a non-metal. Which bond joins them? → **Ionic**
 ### g2 · Give and Take: an ion card game (20 min)
-- **rules:** Shuffle the cards. Deal 5 to each player. Put the rest face down as the pile.; On your turn, take one card from the pile. Then you may lay down one set.; A set has one kind of metal and one kind of non-metal. The electrons given must equal the electrons taken.; One calcium gives 2, so it needs two chlorines, which take 1 each. Two aluminiums give 6, so they need three oxygens.; Say the name of your compound. Score 1 point for each card in the set.; If you cannot lay a set, your turn ends. You keep your cards.; The game ends when the pile is empty and nobody can lay a set. The player with the most points wins.; Playing alone? Lay all 32 cards face up. Try to put every card into a set, with none left over. It can be done.
+- **rules:** Shuffle the cards. Deal 5 to each player. Put the rest face down as the pile.; On your turn, take one card from the pile. Then you may lay down one set.; A set has one kind of metal and one kind of non-metal. The electrons given must equal the electrons taken.; One calcium atom gives away 2 electrons. Each chlorine atom takes only 1, so one calcium needs two chlorine atoms. Two aluminium atoms give away 6 electrons in all. Each oxygen atom takes 2, so they need three oxygen atoms.; Say the name of your compound. Score 1 point for each card in the set.; If you cannot lay a set, your turn ends. You keep your cards.; The game ends when the pile is empty and nobody can lay a set. The player with the most points wins.; Playing alone? Lay all 32 cards face up. Try to put every card into a set, with none left over. It can be done.
 - **Printable cards: 32 atom cards: 15 metal cards that give electrons and 17 non-metal cards that take electrons:** Sodium (Na), a metal. GIVES 1 electron.; Sodium (Na), a metal. GIVES 1 electron.; Sodium (Na), a metal. GIVES 1 electron.; Sodium (Na), a metal. GIVES 1 electron.; Potassium (K), a metal. GIVES 1 electron.; Potassium (K), a metal. GIVES 1 electron.; Potassium (K), a metal. GIVES 1 electron.; Magnesium (Mg), a metal. GIVES 2 electrons.; Magnesium (Mg), a metal. GIVES 2 electrons.; Magnesium (Mg), a metal. GIVES 2 electrons.; Calcium (Ca), a metal. GIVES 2 electrons.; Calcium (Ca), a metal. GIVES 2 electrons.; Calcium (Ca), a metal. GIVES 2 electrons.; Aluminium (Al), a metal. GIVES 3 electrons.; Aluminium (Al), a metal. GIVES 3 electrons.; Chlorine (Cl), a non-metal. TAKES 1 electron.; Chlorine (Cl), a non-metal. TAKES 1 electron.; Chlorine (Cl), a non-metal. TAKES 1 electron.; Chlorine (Cl), a non-metal. TAKES 1 electron.; Chlorine (Cl), a non-metal. TAKES 1 electron.; Chlorine (Cl), a non-metal. TAKES 1 electron.; Fluorine (F), a non-metal. TAKES 1 electron.; Fluorine (F), a non-metal. TAKES 1 electron.; Fluorine (F), a non-metal. TAKES 1 electron.; Oxygen (O), a non-metal. TAKES 2 electrons.; Oxygen (O), a non-metal. TAKES 2 electrons.; Oxygen (O), a non-metal. TAKES 2 electrons.; Oxygen (O), a non-metal. TAKES 2 electrons.; Oxygen (O), a non-metal. TAKES 2 electrons.; Oxygen (O), a non-metal. TAKES 2 electrons.; Sulphur (S), a non-metal. TAKES 2 electrons.; Sulphur (S), a non-metal. TAKES 2 electrons.
 - **Printable score sheet: Name sheet and score sheet: how to name a compound, and a row for each player's points:** To name a compound, say the metal first. Then say the non-metal with its ending changed to -ide.; Chlorine becomes chloride. Fluorine becomes fluoride. Oxygen becomes oxide. Sulphur becomes sulphide.; Sodium with chlorine is sodium chloride, which is table salt.; Calcium with oxygen is calcium oxide, which is quicklime.; Sodium with fluorine is sodium fluoride, which is in toothpaste.; Aluminium with oxygen is aluminium oxide, which is what rubies are mostly made of.; Magnesium with chlorine is magnesium chloride, which is in sea salt.; Player 1 points: ____   Player 2 points: ____   Player 3 points: ____
 - **s1 (3 min)**  
@@ -286,8 +286,8 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
   *Child mode:* Cut out the cards. Read the name sheet. Take 5 cards.
 - **s2 (5 min)**  
   *Parent does:* Play two practice turns with the cards face up. Build sodium chloride first, then calcium chloride.  
-  *Parent says:* Sodium gives 1 and chlorine takes 1. So one of each makes a set. Calcium gives 2. How many chlorines does one calcium need?  
-  *Child mode:* Sodium gives 1. Chlorine takes 1. How many chlorines does calcium need?
+  *Parent says:* Sodium gives away 1 electron, and chlorine takes 1 electron. So one sodium and one chlorine make a set. Calcium gives away 2 electrons. How many chlorine atoms does one calcium need?  
+  *Child mode:* Sodium gives away 1 electron. Chlorine takes 1 electron. How many chlorines does calcium need?
   - Ask: Why does one calcium need two chlorines? (good: Calcium gives 2 electrons, and each chlorine takes only 1.; The electrons given must equal the electrons taken.)
   - Note: Let your child move the cards. The matching is easier to see than to hear.
 - **s3 (9 min)**  
@@ -297,7 +297,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
   - Note: A child playing alone lays all the cards face up and tries to use every one. One answer uses sodium oxide, magnesium chloride and aluminium oxide.
 - **s4 (3 min)**  
   *Parent does:* Count the points. Lay the biggest set on the table and count its charges together.  
-  *Parent says:* Look at aluminium oxide. Two aluminiums give 3 each. Three oxygens take 2 each. Count both sides. Are they equal?  
+  *Parent says:* Look at aluminium oxide. Each of the two aluminium atoms gives away 3 electrons. Each of the three oxygen atoms takes 2 electrons. Count the electrons given and the electrons taken. Are they equal?  
   *Child mode:* Count the electrons given. Count the electrons taken. Are they equal?
   - Check: Magnesium gives 2 electrons. Chlorine takes 1. How many chlorines join one magnesium? → **Two**
 
@@ -418,14 +418,14 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
   *Parent does:* Ask your child to count the heads and the tails. Then point to one coin in the middle and ask how many of the other kind touch its sides. Ask which one is its partner.  
   *Parent says:* How many plus ions are there, and how many minus? Look at this plus ion in the middle. How many minus ions touch its sides? Which one is its partner?  
   *Child mode:* Count heads and tails. Pick a middle coin. How many opposite neighbours?
-  - Ask: Which minus ion belongs to this plus ion? (good: None of them more than the others.; All four hold it equally.; There are no pairs.)
+  - Ask: Which minus ion belongs to this plus ion? (good: No single minus ion belongs to it more than the others do.; All four hold it equally.; No ion has just one partner.)
   - Note: There are 8 of each. A middle coin has 4 opposite neighbours. In a real crystal there are layers above and below too, so each ion has 6.
 - **s3 (4 min)**  
   *Parent does:* Lay the ruler along the top two rows. Push them one coin to the right, keeping the rows straight. Look at the line where the top half meets the bottom half.  
   *Parent says:* I will slide the top two rows one place. Look at the middle line now. What is facing what? What do like charges do to each other?  
   *Child mode:* Slide the top two rows one place. What faces what now?
   - Ask: What will happen along the middle line in a real crystal? (good: Plus faces plus and minus faces minus, so they repel.; The two halves push apart.; The crystal cracks there.)
-  - Note: This is why salt cracked in Bend or Break. A push slides one layer, like charges meet, and the layers push apart along a flat face.
+  - Note: This is why salt cracked in Bend or Break. A push slides one layer sideways. Then like charges meet, and they push the layers apart along a flat face.
 - **s4 (4 min)**  
   *Parent does:* Now turn all 16 coins heads up, back in a 4 by 4 square. Each coin is a metal atom that has given its outer electron to the pool. Scatter the rice grains in the gaps as the free electrons. Slide the top two rows one place again.  
   *Parent says:* Now every coin is a plus metal atom. The rice grains are the free electrons between them. Slide the top two rows again. Has anything changed along the middle line?  
@@ -435,17 +435,17 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 ### a3 · Give, Share, Pool: move the electrons yourself (15 min)
 - **record:** Draw three pictures: salt, water and copper. Show where the outer electrons are in each.
 - **s1 (2 min)**  
-  *Parent does:* Label the nine circles: Na, Cl, O, H, H and four marked Cu. Count out the chana. Na gets 1, Cl gets 7 and O gets 6. Each H and each Cu gets 1.  
+  *Parent does:* Label the nine circles with the short letters chemists use. Write Na for sodium and Cl for chlorine. Write O for oxygen, H twice for hydrogen, and Cu four times for copper. Count out the chana. Sodium gets 1, chlorine gets 7 and oxygen gets 6. Each hydrogen and each copper gets 1.  
   *Parent says:* Each circle is an atom. Each chana is one of its outer electrons. Sodium has 1, chlorine has 7, oxygen has 6, and hydrogen and copper have 1 each.  
   *Child mode:* Label the circles. Put the chana on each atom.
 - **s2 (4 min)**  
-  *Parent does:* Put Na and Cl side by side. Ask your child to move sodium's one chana onto chlorine. Write a plus sign on Na and a minus sign on Cl.  
+  *Parent does:* Put the sodium circle and the chlorine circle side by side. Ask your child to move the one chana of sodium onto chlorine. Then write a plus sign on the sodium circle and a minus sign on the chlorine circle.  
   *Parent says:* Sodium holds its outer electron weakly, and chlorine attracts it strongly. Move it across. Sodium has lost a minus charge. What charge does sodium have now? What about chlorine?  
   *Child mode:* Move sodium's electron to chlorine. Which atom is plus now? Which is minus?
   - Ask: Why do the two ions now hold on to each other? (good: One is plus and one is minus.; Opposite charges attract.)
-  - Note: Chlorine now has 8 outer electrons. For many atoms, a set of 8 is a steady arrangement. This is an ionic bond.
+  - Note: Chlorine now has 8 outer electrons. Many atoms are steadiest with 8 outer electrons, so chlorine holds on to the new one. The attraction between the plus sodium and the minus chlorine is an ionic bond.
 - **s3 (4 min)**  
-  *Parent does:* Lay O so that it overlaps each H a little. In each overlap, put one chana from the hydrogen and one from the oxygen. Count the chana that oxygen can reach, and the chana that each hydrogen can reach.  
+  *Parent does:* Lay the oxygen circle so that it overlaps each hydrogen circle a little. In each overlap, put one chana from the hydrogen and one from the oxygen. Count the chana that oxygen can reach, and the chana that each hydrogen can reach.  
   *Parent says:* Oxygen and hydrogen are both non-metals, so neither gives an electron away. They share. Put one electron from each atom in the overlap. How many electrons can oxygen count now?  
   *Child mode:* Overlap the circles. Put two electrons in each overlap. Count oxygen's electrons.
   - Note: Oxygen counts 8, and each hydrogen counts 2, which is a full set for hydrogen. Each shared pair is one covalent bond.
@@ -466,10 +466,10 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
   *Parent says:* Read the list on each packet. Each time you find a metal name with a second word, write it down. Which packet has the most?  
   *Child mode:* Read each label. Write every name that starts with a metal.
   - Ask: Which metal turned up most often? (good: Sodium.; Sodium and potassium.)
-  - Note: Likely finds in salt are sodium chloride and potassium iodate. Toothpaste has sodium fluoride or calcium carbonate. ORS has potassium chloride and sodium citrate. Bottled water often lists magnesium sulphate.
+  - Note: In a salt packet, you will probably find sodium chloride and potassium iodate. Toothpaste has sodium fluoride or calcium carbonate. ORS has potassium chloride and sodium citrate. Bottled water often lists magnesium sulphate.
 - **s3 (4 min)**  
   *Parent does:* Look at the ORS sachet together. Find the one ingredient that is not ionic. Then ask the question below.  
-  *Parent says:* ORS has salts and one more thing, glucose. Glucose is carbon, hydrogen and oxygen. Is it ionic or covalent? Why does the label call the salts electrolytes?  
+  *Parent says:* ORS has salts and one more thing, glucose. Glucose is made of carbon, hydrogen and oxygen atoms. Is it ionic or covalent? Why does the label call the salts electrolytes?  
   *Child mode:* Find glucose on the ORS packet. Is it ionic or covalent?
   - Check: Which of these names is an ionic compound? → **Potassium chloride**
 
@@ -480,9 +480,9 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 - **schedule:** day 1: Find out which atoms are in each of six kitchen things, and predict which will carry electricity in water. (15 min); day 2: Dissolve each one, test it with the bubble tester, and compare the results with your predictions. (25 min)
 - **s1 (15 min)**  
   *Parent does:* Day 1. Draw the table. Read out the atoms in each thing from the note below. Your child writes them, then predicts yes or no for each: will it carry electricity in water?  
-  *Parent says:* Use the guide. A metal with a non-metal is ionic, and ions carry electricity in water. Non-metals alone make molecules. Write yes or no for each thing, and say why.  
+  *Parent says:* Use this rule. A metal atom with non-metal atoms makes an ionic compound, and ions carry electricity in water. Non-metal atoms alone make molecules, which carry no electricity. Write yes or no for each thing, and say why.  
   *Child mode:* Write the atoms in each thing. Predict yes or no. Say why.
-  - Note: Salt is sodium and chlorine. Cooking soda is sodium with hydrogen, carbon and oxygen. Sugar, glucose, lemon juice and vinegar are all carbon, hydrogen and oxygen.
+  - Note: Salt is made of sodium and chlorine atoms. Cooking soda is made of sodium atoms with hydrogen, carbon and oxygen atoms. Sugar, glucose, lemon juice and vinegar are all made of carbon, hydrogen and oxygen atoms.
 - **s2 (8 min)**  
   *Parent does:* Day 2. Label the seven cups. Put 3 tablespoons of drinking water in each. Leave the first as plain water. Stir half a teaspoon of each powder, or 1 teaspoon of each liquid, into the others. Set up the bubble tester.  
   *Parent says:* Every cup gets the same amount of the same water. Then only one thing differs from cup to cup. Stir until each powder has dissolved.  
@@ -496,8 +496,8 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
   *Parent does:* Compare the results with the predictions. Ask your child to say what they predicted, what they found, and why they think it happened. Then read the note below.  
   *Parent says:* Which predictions were right? Which were wrong? Lemon juice and vinegar have no metal atoms. What might be happening to their molecules in water?  
   *Child mode:* Which guesses were right? Which thing surprised you? Why might that be?
-  - Ask: The guide said lemon juice has only non-metals. The tester still bubbled. What does that tell you about the guide? (good: The guide is a good start, but it is not always right.; A test can show what a rule misses.; Some molecules must make ions in water.)
-  - Note: The reason: lemon juice and vinegar hold acids. An acid is a covalent molecule, but in water some of its molecules split into ions. Lemon juice also holds a little potassium salt from the fruit. So a rule from the kinds of atoms is a first guess, and the test decides.
+  - Ask: The rule said lemon juice has only non-metal atoms. The tester still bubbled. What does that tell you about the rule? (good: The rule is a good start, but it is not always right.; A test can show what a rule misses.; Some molecules must make ions in water.)
+  - Note: The reason: lemon juice and vinegar hold acids. An acid is a covalent molecule, but in water some of its molecules split into ions. Lemon juice also holds a little potassium salt from the fruit. So a rule based on the kinds of atoms is only a first guess, and the test decides.
 
 ## Challenges
 ### c1 · Tank-Full Alarm: make the tester bubble when the water reaches the line (25 min)
@@ -563,14 +563,14 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 14. (write) In Dry Salt, Wet Salt, dry salt gave no bubbles and wet salt gave many. What did the water do?  
    **Answer:** The water pulled the ions out of the lattice. Then the ions could move through the water and carry the electricity.. *Why:* A strong answer says the ions were already in the dry salt. The water freed them. It did not carry the electricity itself.
 15. (draw) Draw a flat piece of a salt crystal as a pattern of plus and minus ions. Show eight of each.  
-   **Answer:** Four rows of four circles. Plus and minus take turns along every row and down every column. So each ion has only the other kind beside it.. *Why:* A strong drawing has no pairs set apart from the rest. Every plus touches only minuses along its sides.
+   **Answer:** Four rows of four circles. Plus and minus take turns along every row and down every column. So each ion has only the other kind beside it.. *Why:* A strong drawing does not show any ion paired up with just one neighbour. Every plus ion touches only minus ions along its sides.
 ### Why each solid behaves as it does (stretch, 15 questions)
 1. (mcq) Sodium atoms react fiercely. Sodium ions in salt do not. Why?  
    Options: The ion has already given its electron / The ion is much bigger / Salt holds no sodium / The ion is frozen  
    **Answer:** The ion has already given its electron. *Why:* A sodium atom reacts by giving away its outer electron. The ion has no such electron left to give, so it does not react in that way.
 2. (mcq) In a salt crystal, how many chloride ions surround each sodium ion?  
    Options: Six / One / Two / Eight  
-   **Answer:** Six. *Why:* Each sodium ion has four chloride ions around it in its own layer, one above and one below. If you chose one, remember that salt has no pairs.
+   **Answer:** Six. *Why:* Each sodium ion has four chloride ions beside it in its own layer. It has one more above and one more below, which makes six. If you chose one, remember that no ion in salt has just one partner.
 3. (truefalse) Melting ice breaks the covalent bonds inside water molecules.  
    **Answer:** False. *Why:* False. Melting only lets whole water molecules slide past each other. Each molecule is still one oxygen atom and two hydrogen atoms.
 4. (mcq) Why does sugar water carry almost no electricity?  
@@ -600,7 +600,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 15. (draw) Draw a piece of metal before and after it is bent. Show the atoms and the free electrons.  
    **Answer:** Both drawings show rows of plus atoms with small electron dots in every gap. In the second, some rows have slid sideways, and the dots still fill the gaps.. *Why:* A strong drawing keeps the electrons between the atoms after the bend. That is why the metal stays in one piece.
 ### Testing ideas about bonds (challenge, 15 questions)
-1. (mcq) A white powder cracks when pressed and will not melt on a flame. Its solution carries electricity. Which bond?  
+1. (mcq) A white powder cracks when pressed and will not melt on a flame. Its solution carries electricity. Which bond is it?  
    Options: Ionic / Covalent / Metallic / It has no bonds  
    **Answer:** Ionic. *Why:* Brittle, hard to melt and an electrolyte in water are the three signs of an ionic solid.
 2. (mcq) Pencil lead is covalent, yet it carries electricity. What does that show?  
@@ -627,11 +627,11 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 11. (write) A doorbell button by the sea rings by itself on misty mornings. Explain why, using ions.  
    **Answer:** Sea wind leaves salt on the button. Mist wets the salt, and its ions become free to move. They carry a small current between the two contacts, as a finger on the button would.. *Why:* A strong answer says why the dry salt did nothing at noon. The ions were there all day, but they could not move.
 12. (write) In Powder Detective, lemon juice made bubbles, though it has no metal atoms. What does this show?  
-   **Answer:** Some covalent molecules split into ions in water. So the guide from the kinds of atoms is a first guess, and a test is needed to check it.. *Why:* A strong answer keeps the guide and marks its limit. It does not throw the guide away because of one exception.
+   **Answer:** Some covalent molecules split into ions in water. So the rule based on the kinds of atoms is only a first guess. A test is needed to check it.. *Why:* A strong answer keeps the rule and says where it stops working. It does not throw the rule away because of one exception.
 13. (write) Steel is harder to bend than pure iron. Use the idea of sliding layers to explain why.  
    **Answer:** Steel has other atoms mixed in among the iron atoms. Atoms of a different size get in the way, so the layers cannot slide as easily.. *Why:* A strong answer links bending to layers of atoms sliding, and says what the added atoms do to the sliding.
 14. (perspective) Is a chemical bond a real thing?  
-   **Answer:** Any view with a reason. One reason is that salt has no single lines to draw, yet it is held very strongly. Another is that bond lengths can be measured.. *Why:* Each view has something right in it. A strong answer says what would count as evidence for a bond being a thing.
+   **Answer:** Any view with a reason. One reason is that salt has no single pairs of atoms to join with a line. Yet it is held very strongly. Another is that bond lengths can be measured.. *Why:* Each view has something right in it. A strong answer says what would count as evidence for a bond being a thing.
 15. (draw) Draw what happens when salt dissolves. Show one sodium ion and the water molecules around it.  
    **Answer:** A sodium ion marked plus, away from the lattice, with several water molecules around it. The oxygen end of each water molecule points towards the ion.. *Why:* A strong drawing shows the ion still charged and separate, with water molecules turned the right way round.
 
@@ -725,7 +725,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 - In Give and Take, an aluminium card gives 3 electrons and an oxygen card takes 2. What is the smallest set in which the electrons given equal the electrons taken? **2 aluminium cards and 3 oxygen cards.**. The electrons given must be a multiple of 3. The electrons taken must be a multiple of 2. The smallest number that is both is 6. Two aluminiums give 6, and three oxygens take 6. (queues `math.multiplication.multiplication-facts.L4`)
 - Ice melts at 0 degrees Celsius, candle wax at 60, aluminium at 660 and salt at 800. Suppose a spoon over a candle reaches 300 degrees. Which of the four melt in the spoon? How much hotter must it get to melt salt? **Ice and wax melt. The spoon must get 500 degrees hotter to melt salt.**. 0 and 60 are below 300, so ice and wax melt. 660 and 800 are above 300, so aluminium and salt stay solid. 800 minus 300 is 500. (queues `math.addition-subtraction.written-methods.L4`)
 - One gram of gold can be beaten into leaf that covers nearly 1 square metre, which is about 10,000 square centimetres. A square leaf is 10 centimetres long and 10 centimetres wide. How many such leaves does one gram make? **100 leaves.**. One leaf covers 10 times 10, which is 100 square centimetres. 10,000 divided by 100 is 100. (queues `math.division.division-facts.L4`)
-- In Powder Detective, a child predicted 6 results from the kinds of atoms. The guide was right for salt, cooking soda, sugar and glucose. It was wrong for lemon juice and vinegar. What fraction did the guide get right? Is the guide still worth using? **4 out of 6, which is two thirds. Yes, as a first guess that a test must check.**. 4 right out of 6 is the fraction four sixths. Dividing both numbers by 2 gives two thirds. A guide that is right two times in three is useful. The two misses are both acids, so they show where the guide needs care. (queues `math.fractions.fractions-of-a-whole.L4`)
+- In Powder Detective, a child predicted 6 results from the kinds of atoms. The rule was right for salt, cooking soda, sugar and glucose. It was wrong for lemon juice and vinegar. What fraction did the rule get right? Is the rule still worth using? **4 out of 6, which is two thirds. Yes, as a first guess that a test must check.**. 4 right out of 6 is the fraction four sixths. Dividing both numbers by 2 gives two thirds. A rule that is right two times in three is useful. The two misses are both acids, so they show where the rule needs care. (queues `math.fractions.fractions-of-a-whole.L4`)
 - A grain of table salt is a tiny cube. About 1 million ions sit in a line along one edge. About how many ions are on one flat face of the grain? **About 1 million million, which is 1,000,000,000,000.**. A face is a square with 1 million ions along each side. 1 million times 1 million is 1 million million. That is 1 followed by 12 zeros. (queues `math.number-sense.big-numbers.L4`)
 
 ## Song
@@ -749,9 +749,9 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - What is an ion? → An atom with an electric charge, because it has lost or gained electrons.
 - Name the three kinds of bond. → Ionic, covalent and metallic.
 - What do the outer electrons do in each kind of bond? → In ionic bonds they are given. In covalent bonds two atoms share them. In metallic bonds all the atoms share them.
-- Why does salt crack when it is pressed? → A layer slips, like charges meet, and they push apart.
-- Why does a metal bend without breaking? → Its atoms slide, and the free electrons still hold them.
-- Why does wax melt so easily? → Its molecules hold each other only weakly.
+- Why does salt crack when it is pressed? → When a layer of ions slips sideways, plus ions end up next to plus ions. Minus ions end up next to minus ions. Like charges push each other apart, so the crystal cracks.
+- Why does a metal bend without breaking? → Its atoms can slide past each other to new places. The free electrons still hold the atoms together, so the metal does not break.
+- Why does wax melt so easily? → Wax is made of molecules that attract each other only weakly, so they slide apart easily when heated.
 - When does salt carry electricity? → When it is dissolved or melted, because then its ions can move.
 - A compound has a metal and a non-metal. Which bond do you expect? → Ionic.
 

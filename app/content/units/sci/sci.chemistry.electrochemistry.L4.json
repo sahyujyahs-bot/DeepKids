@@ -120,7 +120,7 @@
    "concept": "A lemon cell: two different metals and a liquid with ions",
    "status": "defined",
    "definition": "A cell is two different metals, or other substances, with an electrolyte between them. A chemical change in the cell pushes electrons round a wire.",
-   "description": "Zinc gives away electrons more easily than copper does. In a lemon cell, zinc atoms leave their electrons behind in the nail. The atoms go into the juice as zinc ions. The electrons left behind crowd the nail, so the nail is the minus terminal. A wire gives them a path to the copper, and they flow along it. At the copper, the electrons are taken by hydrogen ions from the acid in the juice. These become tiny bubbles of hydrogen gas. The copper itself does not change. Inside the lemon, ions drift through the juice and complete the loop. The energy of the current comes from the zinc as it changes. The lemon gives the path and the acid. When the zinc is used up, the cell is dead.",
+   "description": "Zinc gives away electrons more easily than copper does. In a lemon cell, zinc atoms leave their electrons behind in the nail. The atoms go into the juice as zinc ions. The electrons left behind crowd the nail, so the nail is the minus terminal. A wire gives them a path to the copper, and they flow along it. At the copper, the electrons are taken by hydrogen ions from the acid in the juice. These become tiny bubbles of hydrogen gas. The copper itself does not change. Inside the lemon, ions drift through the juice and complete the loop. The energy of the current comes from the zinc as it changes. The lemon only supplies the juice, which carries the ions and holds the acid. When the zinc is used up, the cell is dead.",
    "examples": [
     "A zinc nail and a copper wire in a lemon give about 0.9 volts.",
     "Two copper wires in a lemon give nothing, because neither one gives electrons more easily than the other.",
@@ -148,7 +148,7 @@
    "definition": "A volt is the unit for how hard a cell pushes electrons. The number of electrons that pass each second is called the current.",
    "description": "A lemon cell pushes with about 0.9 volts, and an AA cell with 1.5 volts. Cells joined in a row, plus to minus, add their pushes. Four lemon cells give about 3.6 volts, which is more than two AA cells. Yet four lemons light only a small red LED, and only faintly. They can never light a torch bulb. The reason is that a lemon cell lets very few electrons through each second. Its ions drift slowly through the juice, and the metals touch only a little juice. A torch bulb needs hundreds of times more electrons each second than a lemon can pass. An AA cell is built to pass that many. So a battery has two different numbers: how hard it pushes, and how much it can deliver. A wall socket pushes with 230 volts and can deliver enough to kill. That is why this unit uses only small cells.",
    "examples": [
-    "One lemon cell: about 0.9 volts. Four in a row: about 3.6 volts.",
+    "One lemon cell gives about 0.9 volts. Four lemon cells joined in a row give about 3.6 volts.",
     "A red LED needs about 1.8 volts and very few electrons each second, so lemons can light it.",
     "A torch bulb needs many electrons each second, so lemons cannot light it."
    ],
@@ -172,7 +172,7 @@
    "concept": "Electrolysis: a current forces a change, and splits water",
    "status": "defined",
    "definition": "Electrolysis is using an electric current to force a chemical change. In the electrolysis of water, the current splits water into hydrogen gas and oxygen gas.",
-   "description": "A water molecule is two hydrogen atoms joined to one oxygen atom. The atoms hold on to each other strongly, and boiling does not separate them. A current can. Two electrodes joined to a pack of cells dip into water with a little baking soda in it. The soda gives the water ions, so that it can carry a current. The cells push electrons into the minus electrode. Water molecules there take the electrons and break up, and hydrogen gas bubbles off. What is left behind there is a base. The cells pull electrons out of the plus electrode. Water molecules there give up electrons, and oxygen gas bubbles off. Twice as much hydrogen comes off as oxygen, because water has two hydrogen atoms for each oxygen atom. A battery gives energy as its change runs. Electrolysis uses energy to push a change the other way. Charging a phone is electrolysis inside its battery.",
+   "description": "A water molecule is two hydrogen atoms joined to one oxygen atom. The atoms hold on to each other strongly, and boiling does not separate them. A current can. Two electrodes joined to a pack of cells dip into water with a little baking soda in it. The soda gives the water ions, so that it can carry a current. The cells push electrons into the minus electrode. Water molecules there take the electrons and break up, and hydrogen gas bubbles off. What is left behind there turns the water into a base, which is the opposite of an acid. The cells pull electrons out of the plus electrode. Water molecules there give up electrons, and oxygen gas bubbles off. Twice as much hydrogen comes off as oxygen, because water has two hydrogen atoms for each oxygen atom. A battery gives energy as its change runs. Electrolysis uses energy to push a change the other way. Charging a phone is electrolysis inside its battery.",
    "examples": [
     "Two pencil leads joined to four AA cells bubble in baking soda water.",
     "A space station splits water by electrolysis to make oxygen for the crew to breathe.",
@@ -371,7 +371,7 @@
   {
    "q": "The metals in a phone battery are dug up by miners, some of whom are children. Who should pay the real cost of a battery?",
    "kind": "big",
-   "hint": "Much of the world's cobalt comes from mines in the Democratic Republic of the Congo."
+   "hint": "Think about who digs up the metals, who buys the phones, and who gains from each. Much of the world's cobalt comes from mines in the Democratic Republic of the Congo."
   }
  ],
  "story": {
@@ -633,12 +633,12 @@
      "title": "1 metal ladder: eight metals in order, from the easiest giver of electrons to the strongest holder",
      "items": [
       "Rung 1: Magnesium. Burns with a bright white light.",
-      "Rung 2: Aluminium. Kitchen foil. A thin skin of oxide protects it.",
-      "Rung 3: Zinc. The coat on a galvanised bucket.",
+      "Rung 2: Aluminium. It is used for kitchen foil, and a thin skin of oxide protects it.",
+      "Rung 3: Zinc. It makes the coat on a galvanised bucket.",
       "Rung 4: Iron. Steel is mostly iron.",
-      "Rung 5: Tin. The thin coat inside a food tin.",
-      "Rung 6: Copper. Electric wires.",
-      "Rung 7: Silver. Anklets and old coins.",
+      "Rung 5: Tin. It makes the thin coat inside a food tin.",
+      "Rung 6: Copper. It is used for electric wires.",
+      "Rung 7: Silver. It is used for anklets and old coins.",
       "Rung 8: Gold. Found in the ground as shiny metal."
      ]
     },
@@ -2033,7 +2033,7 @@
      "t": "truefalse",
      "p": "The electricity of a lemon battery comes out of the lemon.",
      "a": false,
-     "why": "False. The energy comes from the zinc as it gives away electrons and is used up. The lemon gives the path. Salt water works in its place.",
+     "why": "False. The energy comes from the zinc as it gives away electrons and is used up. The lemon only gives the juice that carries the ions. Salt water works in its place.",
      "outcome": 2
     },
     {
@@ -2343,7 +2343,7 @@
       ]
      ],
      "a": "see items",
-     "why": "The first group are batteries. The second group are electrolysis. One is the other run backwards.",
+     "why": "The first group are batteries, where a chemical change makes the current. The second group are electrolysis, where a current forces the change. Each one is the other run backwards.",
      "outcome": 4
     },
     {
@@ -2518,7 +2518,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "In every one of these, electrons leave one substance and go to another. Only the giver changes.",
+     "why": "In every one of these, electrons leave one substance and go to another. The only thing that differs is which substance gives the electrons.",
      "outcome": 2
     },
     {
@@ -2817,7 +2817,7 @@
    "art": "A tall dark iron pillar standing in a stone courtyard among old arches, with visitors looking up at it."
   },
   {
-   "text": "Painters at work on a steel railway bridge over the sea, such as a long railway bridge over a sea channel.",
+   "text": "Painters at work on a steel railway bridge that crosses a sea channel.",
    "art": "A long steel railway bridge low over blue sea water, with two painters on a platform painting one of its girders."
   },
   {
@@ -3339,13 +3339,13 @@
  "roots": {
   "context": "In this unit you made a lemon cell crackle, rusted a nail in ten minutes and split water. Here we ask what it means that a useful battery and a rusting gate are the same change.",
   "deep_truth": {
-   "truth": "In the Lemon Battery test, the zinc nail gave away electrons and turned dull. In Rust in Ten Minutes, the nail that gave away electrons was eaten into rust. A rusting gate gives its electrons to oxygen in the same way. So a battery is corrosion that sends its electrons through a wire first.",
+   "truth": "In the Lemon Battery test, the zinc nail gave away electrons and turned dull. In Rust in Ten Minutes, the nail that gave away electrons was eaten into rust. A rusting gate gives its electrons to oxygen in the same way. So a battery is a kind of corrosion in which the electrons are first sent through a wire.",
    "habit": "We put batteries with useful things that people make, and rust with damage and decay. They are one change. The only difference is whether the electrons pass through a wire, where they can do some work on the way.",
    "evidence": "In the Lemon Battery test, the earphones crackled only when a zinc nail and a copper wire shared the lemon. By the next day the zinc was dull and rough, and the copper was unchanged. In Rust in Ten Minutes, only the nail joined to the plus end of the cells turned to rust. That is the nail that the cells pulled electrons out of."
   },
   "three": {
    "who_am_i": "Your cells take electrons from your food and pass them to the oxygen you breathe. You stay alive because electrons keep moving through you.",
-   "what_is_life": "Every living being, from a bacterium to a banyan tree, lives by passing electrons from one substance to another. Life does in small steps what a flame does all at once.",
+   "what_is_life": "Every living being, from a bacterium to a banyan tree, lives by passing electrons from one substance to another. A flame passes electrons from fuel to oxygen all at once. A living being does the same thing in many small steps.",
    "what_is_this_world": "A steel bridge is iron that people have pulled away from oxygen. The air and the rain slowly join the two again."
   },
   "thread": "A battery, a rusting gate, a breathing child and a bacterium in mud look like four different things. In each of them, electrons leave one substance and go to another. The electron that lights an LED is the same kind of particle as the electron that rusts a nail. Many sages taught that one reality appears in many forms. The science here says something smaller and exact: several changes that we name separately are one kind of change.",
@@ -3387,8 +3387,8 @@
   "practice": {
    "title": "One breath, followed inwards",
    "mins": 3,
-   "say": "Sit still and hold a steel spoon in your closed hand. Breathe in slowly. The oxygen you just took in is travelling to every cell of your body. In each cell it takes electrons that came from your food. Breathe out slowly. Now feel the spoon. It has grown warm. That warmth came from electrons passing to oxygen inside you. The spoon is steel, and it would take years of rain to pass its electrons to oxygen. Which of you two is changing faster?",
-   "kid": "Hold a steel spoon in your hand. Breathe in slowly, then out. Feel the spoon grow warm. The warmth came from electrons moving inside you."
+   "say": "Sit still and hold a steel spoon in your closed hand. Breathe in slowly. The oxygen you just took in is travelling to every cell of your body. In each cell it takes electrons that came from your food. Breathe out slowly. Now feel the spoon. It has grown warm from your hand. Some of that warmth comes from electrons passing to oxygen inside you. The spoon is steel, and it would take years of rain to pass its electrons to oxygen. Which of you two is changing faster?",
+   "kid": "Hold a steel spoon in your hand. Breathe in slowly, then out. Feel the spoon grow warm. Some of the warmth comes from electrons moving inside you."
   },
   "ask": [
    "In Rust in Ten Minutes, a nail turned to rust and lit nothing. Where did its energy go?",
