@@ -613,6 +613,7 @@ The baby slept through everything, growing.
 ## Videos
 - **Sodium metal is soft and squishy** (NileRed, 4 min) id `bej9ECbaKuw`: To see a metal that is soft, light and quick to lose its shine. It widens the idea of what a metal is. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 - **How Are We Made of Star Stuff? We Asked a NASA Expert** (NASA, 6 min) id `63uNNcCpxHI`: To see where the oxygen, carbon and calcium of the body were made. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Mendeleev's Periodic Table** (SciShow, 4 min) id `-wu0LixSBpk`: The child sees how Mendeleev lined up the elements by weight and by how they behave, and left gaps for ones not yet found, which shows how the table is organised. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Which of these is an element?  
