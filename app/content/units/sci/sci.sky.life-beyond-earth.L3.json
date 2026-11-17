@@ -311,9 +311,9 @@
    "hint": "Think about whether life could have travelled between worlds on rocks, or started again on its own."
   },
   {
-   "q": "A microbe from a hot spring cannot grow at your body's warmth, and you could not survive in the spring. So which of you lives in an 'extreme' place?",
+   "q": "A microbe from a hot spring cannot grow at your body's warmth, and you could not survive in its spring. Which of you lives in an 'extreme' place?",
    "kind": "deep",
-   "hint": "Think about who decides what is normal. Is 37 degrees normal for everyone?"
+   "hint": "The microbe would find your body's warmth too cool, and you would find its spring too hot. Each of you thinks your own place is normal. Who decides what counts as extreme?"
   },
   {
    "q": "Why does life need liquid water, and not ice or steam?",
@@ -328,7 +328,7 @@
   {
    "q": "Would we know alien life if we saw it?",
    "kind": "big",
-   "hint": "Think about the signs of life you know. Would a living thing that does not use water still be alive?"
+   "hint": "Think about the signs of life you know, such as growing, using energy and needing water. Would alien life have to show all of them?"
   },
   {
    "q": "Could life be made of something other than carbon, or live in a liquid other than water?",
@@ -367,13 +367,13 @@
    "In the morning, the tap-water cubes were hard. The sea-water cubes had frozen at last. But Kavya's katori of very salty water was still liquid. When she tilted it, it moved like water, though the steel was so cold it stuck to her fingers for a moment.",
    "Arjun put his face close to it. \"Hello,\" he whispered to the water. \"Is anybody in there?\""
   ],
-  "epiphany": "For the parent: salt lowers the freezing point of water. Sea water freezes at about minus 2 degrees, so it froze more slowly than tap water. Very salty water stays liquid down to about minus 21 degrees, which is colder than home freezers, so Kavya's katori never froze. As sea water freezes, the ice crystals push the salt out into the leftover water, which is why the runny part tasted saltier. Microbes really do live in those brine channels in sea ice, and in Lake Vida's brine. Every living thing needs liquid water, so salty water under ice, on Earth or on Europa, is a place where life is possible.",
+  "epiphany": "For the parent: salt lowers the freezing point of water. Sea water freezes at about minus 2 degrees, so it froze more slowly than tap water. Very salty water stays liquid down to about minus 21 degrees, which is colder than home freezers, so Kavya's katori never froze. As sea water freezes, the ice crystals push the salt out into the leftover water, which is why the runny part tasted saltier. Microbes really do live in those brine channels in sea ice, and in Lake Vida's brine. Every living thing needs liquid water, so salty water under ice, on Earth or on Europa, is a place where life is possible. Microbes are too small to see, so scientists look at water samples under a microscope, and test for the chemicals that living things leave behind.",
   "ask": [
    "Why were the sea-water cubes still soft when the tap-water cubes were hard?",
    "Why did the runny water taste saltier than the ice crystals?",
    "Why do scientists look for life wherever there is liquid water?",
    "Kavya's katori of very salty water did not freeze. What does that tell you about Europa's ocean?",
-   "Arjun asked the water, 'Is anybody in there?' What would you need to do to find out?"
+   "Arjun asked the water, 'Is anybody in there?' Microbes are too small to see. How could scientists find out if any live in a water sample?"
   ],
   "art": [
    "A girl and a small boy walking up the stairs of a Chennai flat with sandy feet, the boy proudly holding a plastic bottle of sea water.",
@@ -563,10 +563,11 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Add up the scores. Ask which card surprised them most.",
-     "say": "Which place surprised you most? Why?",
-     "kid": "Which card surprised you most? Why?",
-     "think": "Look at the YES cards again. Is there any YES card without liquid water?"
+     "do": "Add up the scores. Then look at the YES cards together.",
+     "say": "Look at the YES cards. What did every one of those places have?",
+     "kid": "Look at the YES cards. What did every one of those places have?",
+     "think": "Look at the YES cards again. Is there any YES card without liquid water?",
+     "parent": "Every YES place has liquid water: hot spring water, salty liquid under ice, damp moss, and the liquid in curd and saliva. So no YES card is without liquid water. This is the main idea of the unit."
     }
    ],
    "setup": [
@@ -1134,13 +1135,13 @@
      "say": "This string is a giant thermometer. This end is minus 20 degrees, colder than a freezer. That end is 120 degrees, hotter than boiling water.",
      "kid": "Lay out the string. Put the numbers in order, from minus 20 to 120.",
      "context": "This is an activity where you make a long thermometer on the floor, and find where on it living things have been found.",
-     "parent": "The 10 place cards: plain water freezes, 0. Your body, 37. A hot day in many Indian cities, 45. Boiling water near the sea, 100. A big home freezer, minus 18. Curd bacteria work best, about 40. Thermus aquaticus, about 70. Lake Vida bacteria, minus 13. Microbes at deep-sea vents, up to about 113. Very salty water freezes, minus 21."
+     "parent": "The 10 place cards are these. Plain water freezes at 0. Your body is at 37. A hot day in many Indian cities is about 45. Boiling water near the sea is 100. A big home freezer is at minus 18. Curd bacteria work best at about 40. Thermus aquaticus lives best at about 70. Lake Vida bacteria live at minus 13. Microbes at deep-sea vents grow at up to about 113. Very salty water freezes at minus 21."
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "Read each place card aloud. Your child puts it on the string at the right number.",
-     "say": "Where does this go? Water freezes, 0. Your body, 37. A hot day in many Indian cities, about 45. Boiling water near the sea, 100. Pick up a card, say what it is, and put it at its number.",
+     "say": "Where does this card go? Water freezes at 0. Your body is at 37. A hot day in many Indian cities is about 45. Boiling water near the sea is 100. Pick up a card, say what it is, and put it at its number.",
      "kid": "Put each card on the string at its number."
     },
     {
@@ -1159,7 +1160,8 @@
       ],
       "a": 1,
       "why": "Microbes have been found growing in brine at about minus 13 degrees and in deep-sea vents above 110 degrees. People are comfortable in a tiny part of that range. Picking 'only where people are comfortable' is the most common guess, because we judge from our own bodies."
-     }
+     },
+     "parent": "The string runs from minus 20 to 120. Life has been found from about minus 13 to about 113, which is nearly the whole string. People are comfortable only between about 0 and 40."
     }
    ],
    "context": "In this activity you lay a giant thermometer on the floor, and place people, food, ice and microbes on it at their temperatures.",
@@ -1177,6 +1179,7 @@
   {
    "id": "a3",
    "title": "Design a Living Thing for Europa",
+   "problem": "Real scientists think tiny life might live under the ice of Europa, in the cold dry ground of Mars, or in the ocean of Enceladus. Each of these worlds is a hard place to live. On Earth, living things called extremophiles already live in hard places, and each one has a trick for the problem its place gives it. You pick a world, list its problems, and draw a living thing with a trick for each problem.",
    "mins": 25,
    "days": 1,
    "materials": [
@@ -1228,7 +1231,8 @@
      "do": "Ask how big the creature is, and why.",
      "say": "How big is your creature? Is it more likely that life on Europa would be big or tiny? Why?",
      "kid": "How big is your creature? Would life there be big or tiny?",
-     "think": "On Earth, microbes lived alone for billions of years before any animals. What does that suggest about the first life we find elsewhere?"
+     "think": "On Earth, microbes lived alone for billions of years before any animals. What does that suggest about the first life we find elsewhere?",
+     "parent": "It suggests that the first life we find elsewhere will most likely be microbes, as it was on Earth."
     }
    ],
    "context": "In this activity you design a living thing who could survive on Europa, Mars or Enceladus, using tricks real Earth creatures use.",
@@ -1362,7 +1366,8 @@
      "do": "Label the rings from hottest to coolest.",
      "say": "Which ring is hottest? Which is coolest? Why does each ring have different microbes?",
      "kid": "Label the hottest and the coolest ring. Why are they different?",
-     "think": "Each kind of microbe lives best in their own ring. What would happen to an orange-ring microbe moved to the middle?"
+     "think": "Each kind of microbe lives best in their own ring. What would happen to an orange-ring microbe moved to the middle?",
+     "parent": "They would stop growing or die, because the middle is hotter than their working parts can take. Each kind of microbe lives best at their own temperature."
     }
    ],
    "context": "In this art activity you paint a hot spring whose colourful rings are made by microbes who love heat.",
@@ -1509,7 +1514,8 @@
      "mins": 5,
      "do": "Read how the Arecibo and Voyager teams solved it.",
      "say": "Real scientists have done this twice. They used counting, pictures, and a map of the planets. Why do you think counting was a good start?",
-     "kid": "Scientists used counting and pictures. Why would counting work?"
+     "kid": "Scientists used counting and pictures. Why would counting work?",
+     "parent": "Counting is the same everywhere. Two dots mean two to anyone, in any language, so a message that starts with counting can be understood."
     },
     {
      "id": "s3",
@@ -1524,7 +1530,8 @@
      "do": "Show the message to another person at home or a neighbour, without explaining. See what they understand.",
      "say": "Let's test it. Show it to someone who has not seen it, without saying anything. What do they think it says?",
      "kid": "Show it to someone. Don't explain. What do they think it says?",
-     "think": "Would a being with no eyes understand a picture? What else could you send?"
+     "think": "Would a being with no eyes understand a picture? What else could you send?",
+     "parent": "Probably not. A being with no eyes could not see a drawing. You could send sounds, as the Voyager record does, or a pattern of radio pulses, as the Arecibo message did."
     }
    ],
    "setup": [
@@ -1967,7 +1974,7 @@
       "a hot spring with Thermus aquaticus",
       "boiling water near the sea"
      ],
-     "why": "Lake Vida is about minus 13, freezing is 0, your body is 37, the spring about 70, and boiling 100.",
+     "why": "Lake Vida's water is about minus 13 degrees. Plain water freezes at 0. Your body is at 37. The hot spring is about 70. Boiling water is at 100.",
      "how": "a2"
     },
     {
@@ -2404,14 +2411,14 @@
   }
  ],
  "ask_kids": [
-  "Why does the sea not freeze at the beach, even at night?",
+  "Sea water freezes at a colder temperature than tap water. Why do you think that is?",
   "When you put salt on a cut cucumber, what happens? Why would that be a problem for a microbe?",
   "What is the hottest place you have ever been? Could any living thing live somewhere hotter?",
   "If you were a microbe, would you rather live in ice or in a hot spring? Why?",
   "Why do you think pickle keeps for so long?",
   "If you could send a spacecraft anywhere to look for life, where would you send it?",
   "What would you say to an alien first?",
-  "Is our flat an 'extreme' place for an ant? For a fish? For a tardigrade?"
+  "Think of our flat as a place to live. Is it a hard place for an ant? For a fish? For a tardigrade? Why?"
  ],
  "jokes": [
   {
@@ -2752,7 +2759,7 @@
   },
   "ask": [
    "If we found microbes in Europa's ocean, would they be related to us, or a completely separate kind of life?",
-   "Who decides what counts as an 'extreme' place to live?",
+   "A hot-spring microbe would find your body's warmth too cool, and you would find its spring too hot. So who decides what counts as an 'extreme' place to live?",
    "If life is found on another world, how would it change the way you see Earth?"
   ],
   "art": "A child on a flat's balcony at night holding a melting ice cube in an open palm, with Jupiter bright in the sky and a faint drawing of Europa's cracked ice beside it."

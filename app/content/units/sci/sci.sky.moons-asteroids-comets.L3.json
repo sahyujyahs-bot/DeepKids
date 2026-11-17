@@ -166,7 +166,7 @@
    "examples": [
     "The Fan and Tail experiment shows this. With the fan on, the tissue tail points away from the fan, even when you walk away from the fan.",
     "Comet NEOWISE, seen from India in July 2020, showed a curved dust tail and a faint straight gas tail.",
-    "The Sun's push is very gentle, but in space there is no air to slow the dust down."
+    "The Sun's push is very gentle. But in space there is no air to slow the dust down, so even a gentle push moves it a long way."
    ],
    "perspectives": [],
    "art": "The Sun in the middle and a comet drawn at four places round its path, with its tail always pointing straight away from the Sun.",
@@ -293,7 +293,7 @@
    "for": "Comets appear without warning and look strange, so people linked them to sad events that happened at the same time.",
    "against": "Comets come back on paths we can work out, like Halley's Comet every 76 years or so. Bad and good things happen whether a comet is in the sky or not.",
    "status": "rejected",
-   "context": "This card is about the old fear of comets."
+   "context": "Many people long ago believed that a comet in the sky was a sign of bad luck, war or disaster. This card asks whether that is true."
   },
   {
    "claim": "Shooting stars are stars falling from the sky.",
@@ -324,17 +324,17 @@
   {
    "q": "A comet, its tail, a shooting star and dust on your balcony can all be the same stuff at different times. When does a comet stop being a comet?",
    "kind": "deep",
-   "hint": "Is it when it loses its last bit of ice? Or when a grain leaves it? Who decides where the line is?"
+   "hint": "Think of the dust left along a comet's path. It was once part of the comet, and it can later become a shooting star. At what point would you stop calling it the comet?"
   },
   {
    "q": "Space dust falls on the Earth every day. Is the Earth finished, or is it still being made?",
    "kind": "big",
-   "hint": "Think about what is added to the Earth from space, and what the Earth loses."
+   "hint": "Dust from space keeps landing on the Earth, so the Earth keeps getting a little heavier. The lightest gases also slowly escape from its air into space. So the Earth is always changing a little."
   },
   {
    "q": "Galileo saw four dots move round Jupiter, and it changed what people thought about the whole sky. Can one small thing you notice change a big idea?",
    "kind": "big",
-   "hint": "Think of how many people looked at Jupiter before him, and what he did differently."
+   "hint": "Many people had looked at Jupiter before Galileo. He used a telescope and looked night after night, and he noticed that the dots changed places."
   },
   {
    "q": "A meteor is a grain that we see only because it is burning up. Are there things we only notice when they change?",
@@ -560,7 +560,8 @@
       ],
       "a": 0,
       "why": "Comets lose most ice close to the Sun, where sunlight warms them most, just like the sunny ice comet in the Ice Comet experiment. Picking 'the same everywhere' would mean the Sun makes no difference, but the shady ice comet changed much more slowly."
-     }
+     },
+     "parent": "For the questions in the say line: on a yellow square your comet loses ice, and the tail is growing. A comet's tail grows near the Sun and points away from it."
     },
     {
      "id": "s3",
@@ -716,6 +717,7 @@
   {
    "id": "e1",
    "title": "The Ice Comet: what happens to its dirt in the sun?",
+   "problem": "A real comet is a lump of ice and dust. Near the Sun, its ice turns to gas and its dust is left behind. In this test, a ball of crushed ice and dirt is your comet, and the warmth of the sun stands for the heat of the Sun on a real comet. One comet sits in the sun and one in the shade. On Earth the ice melts instead of turning to gas, but the dirt is left behind in the same way.",
    "mins": 57,
    "days": 2,
    "question": "When an icy, dirty ball is warmed by the sun, what happens to its ice and to its dirt?",
@@ -936,6 +938,7 @@
   {
    "id": "e2",
    "title": "Fan and Tail: does a comet's tail stream out behind it?",
+   "problem": "Sunlight and a stream of tiny particles from the Sun, called the solar wind, push on a comet's tail. In this test, a fan stands for the Sun that pushes. A lemon is the comet's head, and tissue strips are its tail. You walk the comet in different directions near the fan, and watch which way the tail points.",
    "mins": 20,
    "days": 1,
    "question": "Does a comet's tail always stream out behind it, or does it point away from the Sun?",
@@ -1060,7 +1063,7 @@
      "mins": 3,
      "do": "Tell your child how this fits a real comet.",
      "say": "The Sun pushes on a comet's tail all the time. It pushes with its light, and with a stream of tiny particles called the solar wind. So a comet's tail always points away from the Sun. When the comet is going away from the Sun, its tail goes in front. The real Sun pushes outwards in every direction, not just one way like our fan.",
-     "kid": "The Sun pushes a comet's tail away. So the tail always points away from the Sun, even when the comet is moving away from the Sun.",
+     "kid": "The Sun pushes a comet's tail away. So the tail always points away from the Sun. It does this even when the comet is going away.",
      "ask": [
       {
        "q": "How is the real Sun different from our fan?",
@@ -1853,7 +1856,7 @@
      "mins": 5,
      "do": "Read the problem aloud. Ask your child for one test idea.",
      "say": "A man found a heavy dark stone in his field after a loud bang in the night. How could we find out if it came from space?",
-     "kid": "A heavy dark stone was found in a field after a bang in the night. How could you test if it came from space?",
+     "kid": "A heavy dark stone was found in a field. It came after a bang in the night. How could you test if it came from space?",
      "context": "This is the first step of the space stone challenge. You think of ways to test a stone."
     },
     {
@@ -2661,7 +2664,7 @@
   "Where in our flat could some space dust have landed today?",
   "How old will you be when Halley's Comet comes back in 2061?",
   "If the Earth had two moons, how would our nights be different?",
-  "Is a shooting star more like a spark, a raindrop or a firework? Why?"
+  "A grain of rava does not glow on your plate. What makes a grain glow as a shooting star: its size, or its speed?"
  ],
  "jokes": [
   {
@@ -3021,13 +3024,13 @@
   "practice": {
    "title": "Watch a drop leave",
    "mins": 3,
-   "say": "Let's put an ice cube on a steel plate and sit very still. Watch one drop form at the bottom of the ice. Breathe in slowly. As the drop runs away, breathe out slowly. Let's do this for five drops. The ice is getting smaller, and the water is going somewhere new. Where will it go next?",
-   "kid": "Put an ice cube on a plate. Sit still. Watch a drop form. Breathe in. As it runs away, breathe out. Do this five times. Where does the water go next?"
+   "say": "Let's put an ice cube on a steel plate and sit very still. Watch one drop form at the bottom of the ice. Breathe in slowly. As the drop runs away, breathe out slowly. Let's do this for five drops. The ice is getting smaller, and the water is going somewhere new. A comet's ice does the same near the Sun. It leaves the comet and spreads out into space.",
+   "kid": "Put an ice cube on a plate. Sit still. Watch a drop form. Breathe in. As it runs away, breathe out. Do this five times. The ice is going somewhere new, like a comet's ice near the Sun."
   },
   "ask": [
-   "A comet, its dust and a shooting star are made of the same stuff. Are they one thing or three?",
+   "A comet, its dust and a shooting star are made of the same stuff at different moments. Should we call them one thing or three? Why do you think so?",
    "In the Ice Comet experiment, the ice comet lost ice but kept its dirt. Is it still the same comet at the end?",
-   "Some of the dust on your balcony may have come from space. Where does the sky end and the Earth begin?"
+   "Some of the dust on your balcony may have come from space. Is that dust now part of the sky, or part of the Earth? Why do you think so?"
   ],
   "art": "A child on a balcony at night, cupping a hand under a falling streak of light, with a faint comet high above and a dotted trail of dust linking the comet to the shooting star."
  },

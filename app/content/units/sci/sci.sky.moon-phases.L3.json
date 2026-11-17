@@ -193,7 +193,7 @@
    "concept": "Each phase rises at its own time",
    "status": "defined",
    "definition": "The Moon rises about 50 minutes later each day, on average. So each phase is up at a different time of day and night.",
-   "description": "The Moon moves a little further round the Earth every day. So the spinning Earth needs a little extra time to turn us back to face it. That extra time is about 50 minutes, though it varies. A new Moon rises and sets with the Sun, hidden in its glare. A growing half Moon rises around noon and is high in the sky at sunset. A full Moon rises as the Sun sets and is up all night. A shrinking half Moon rises around midnight and is still up in the morning. For about half of each month you can see the Moon in the daytime, if you know where to look.",
+   "description": "The Moon moves a little further round the Earth every day. So each day the Earth has to turn a little more before we face the Moon again. That extra turning takes about 50 minutes, though it varies. A new Moon rises and sets with the Sun, hidden in its glare. A growing half Moon rises around noon and is high in the sky at sunset. A full Moon rises as the Sun sets and is up all night. A shrinking half Moon rises around midnight and is still up in the morning. For about half of each month you can see the Moon in the daytime, if you know where to look.",
    "examples": [
     "On Purnima, look east at sunset. The full Moon rises as the Sun goes down in the west.",
     "A few days after Purnima, look west in the morning on the way to school. The Moon is often still there, pale against the blue sky."
@@ -319,7 +319,7 @@
    "concept": "Eclipses are shadows in space",
    "status": "defined",
    "definition": "An eclipse happens when the Sun, the Earth and the Moon line up. In a solar eclipse, the Moon blocks the Sun from part of the Earth. In a lunar eclipse, the Earth's shadow falls on the Moon.",
-   "description": "Everything lit by the Sun throws a shadow behind it, far out into space. Usually the Moon's shadow and the Earth's shadow fall on nothing. A solar eclipse can only happen at new Moon, when the Moon is between us and the Sun. The Moon is small, so its dark shadow only touches a small patch of the Earth. Only people in that patch see the Sun fully covered. A lunar eclipse can only happen at full Moon, when the Earth is between the Sun and the Moon. The Earth's shadow is much bigger than the Moon, so it can swallow the whole Moon. Everyone on the night side of the Earth can see it. During a total lunar eclipse the Moon turns coppery red. A little sunlight bends through the Earth's air and reaches it. The air lets the red light through and scatters the blue away, the same way it makes sunsets red. So the red Moon is lit by all the sunrises and sunsets on Earth at that moment.",
+   "description": "Everything lit by the Sun throws a shadow behind it, far out into space. Usually the Moon's shadow and the Earth's shadow fall on nothing. A solar eclipse can only happen at new Moon, when the Moon is between us and the Sun. The Moon is small, so its dark shadow only touches a small patch of the Earth. Only people in that patch see the Sun fully covered. A lunar eclipse can only happen at full Moon, when the Earth is between the Sun and the Moon. The Earth's shadow is much bigger than the Moon, so it can swallow the whole Moon. Everyone on the night side of the Earth can see it. During a total lunar eclipse the Moon turns coppery red. A little sunlight bends through the Earth's air and reaches it. The air lets the red light through and scatters the blue away, the same way it makes sunsets red. So the red light on the Moon is sunlight that has passed through the air at the edge of the Earth, where it is sunrise or sunset all the way round.",
    "examples": [
     "On the night of 7 September 2025, people all over India watched a total lunar eclipse turn the Moon red.",
     "A solar eclipse is the only kind that is dangerous to watch, because people may look at the Sun. Never look at the Sun directly, eclipse or not. A lunar eclipse is safe to watch with bare eyes."
@@ -384,7 +384,7 @@
    "concept": "The Indian Moon calendar",
    "status": "defined",
    "definition": "Indian calendars count months by the Moon. Each lunar month has 30 tithis, split into a bright half, Shukla Paksha, and a dark half, Krishna Paksha. An extra month is added about once every three years to keep in step with the seasons.",
-   "description": "A tithi is the time the Moon takes to move a set step further from the Sun in the sky. Because the Moon's speed changes, a tithi can be a few hours shorter or longer than a day. In much of North India, a month ends on Purnima. In much of South and West India, a month ends on Amavasya. Twelve Moon months make about 354 days. That is 11 days short of a Sun year of 365 days. So every three years or so, an extra month, the adhik maas, is slipped in. That keeps Diwali in autumn and Ugadi in spring. The Islamic calendar is a pure Moon calendar with no extra month. So Eid and Ramzan come about 11 days earlier each year, and slowly move through every season. Chinese, Jewish and Buddhist calendars also follow the Moon. Easter falls on the Sunday after the first full Moon of spring.",
+   "description": "A tithi is the time the Moon takes to move 12 degrees further from the Sun in the sky. Thirty tithis make a full circle of 360 degrees. Because the Moon's speed changes, a tithi can be a few hours shorter or longer than a day. In much of North India, a month ends on Purnima. In much of South and West India, a month ends on Amavasya. Twelve Moon months make about 354 days. That is 11 days short of a Sun year of 365 days. So every three years or so, an extra month, the adhik maas, is slipped in. That keeps Diwali in autumn and Ugadi in spring. The Islamic calendar is a pure Moon calendar with no extra month. So Eid and Ramzan come about 11 days earlier each year, and slowly move through every season. Chinese, Jewish and Buddhist calendars also follow the Moon. Easter falls on the Sunday after the first full Moon of spring.",
    "examples": [
     "Diwali falls on Amavasya. Holi, Karthigai Deepam, Guru Purnima, Buddha Purnima and Sharad Purnima fall on full Moons. Ugadi comes just after a new Moon. Eid begins when the new crescent is seen.",
     "Sun festivals stay on nearly the same date each year. Makar Sankranti and Pongal fall around 14 January, and Vishu around 14 April."
@@ -517,12 +517,12 @@
   {
    "q": "The Moon is always a whole round ball, but we call it 'new', 'half' and 'full'. What other things do we name by how they look to us, not by what they are?",
    "kind": "big",
-   "hint": "Think of the 'rising' Sun, or calling a person by one thing they did once."
+   "hint": "Think of the 'rising' Sun. We say it rises, but really the Earth turns. We name it by how it looks to us. Or think of a nickname that comes from one thing a person did once."
   },
   {
    "q": "If you stood on the Moon on the night of Amavasya, what would the Earth look like in your sky?",
    "kind": "deep",
-   "hint": "On Amavasya, the Moon is between the Earth and the Sun. Which side of the Earth faces the Moon?"
+   "hint": "On Amavasya, the Moon is between the Earth and the Sun. So the side of the Earth that faces the Moon is the side in daylight. What shape would that look like from the Moon?"
   },
   {
    "q": "The Moon's pull is slowly slowing the Earth's spin. What would life be like if a day lasted much longer?",
@@ -785,7 +785,8 @@
       "a": 0,
       "why": "We see the whole lit half only when the Moon is on the far side of us from the Sun, at space 5. At space 1 the lit half faces away, so it is the new Moon. Picking space 1 usually means thinking the Moon is brightest when nearest the Sun. At space 3 it is a half Moon."
      },
-     "think": "The ring is round, and the month starts again after space 8. What else in your life goes round in a circle like this?"
+     "think": "The ring is round, and the month starts again after space 8. What else in your life goes round in a circle like this?",
+     "parent": "Any cycle that starts again counts. Examples are the hours on a clock, the days of the week, the seasons of the year, and the Moon festivals that come round each year."
     }
    ],
    "context": "This is a memory card game. Each pair is a card showing one Moon shape and a clue saying when you see it. At the end you put the Moon shapes in order round a ring.",
@@ -898,7 +899,7 @@
      "mins": 12,
      "do": "1. Take turns to roll and move. 2. Name the Moon shape you land on. 3. Each time your Moon lands on or passes space 1 or space 5, turn over a tilt card.",
      "say": "You landed on the full Moon! Turn a tilt card. Is the Moon on the line this month?",
-     "kid": "Roll and move. Name your Moon shape. If you land on or pass the new Moon or the full Moon, turn over a tilt card. ON THE LINE means an eclipse!",
+     "kid": "Roll and move. Name your Moon shape. Did you land on or pass new Moon or full Moon? Then turn over a tilt card. ON THE LINE means an eclipse!",
      "ask": [
       {
        "q": "You turned ABOVE on a full Moon. Why is there no eclipse?",
@@ -941,7 +942,8 @@
      "do": "Count the marks on the tally sheet and find the winner. Then count how many times anyone passed new or full Moon without an eclipse.",
      "say": "How many times did someone pass a new or full Moon with no eclipse? Why are eclipses so rare?",
      "kid": "Count your eclipse marks. How many times did you pass new or full Moon with no eclipse? Why?",
-     "think": "People long ago were frightened by eclipses because they seemed to come from nowhere. Once you know the rule, are they less amazing, or more?"
+     "think": "People long ago were frightened by eclipses because they came with no warning. Today astronomers can say the minute an eclipse will happen, years ahead. What do they need to know to work it out?",
+     "parent": "They need to know how the Moon and the Earth move, and that the Moon's path is tilted. Eclipses are rare because at most new and full Moons the shadow misses, as with the tilt cards."
     }
    ],
    "context": "This is a board game about eclipses. Your Moon token goes round the Earth. Each time it reaches or passes a new Moon or a full Moon, you turn a card. The card says whether the Moon passes right through the line from the Sun to the Earth. If it does, you catch an eclipse and make a mark on your tally.",
@@ -1237,7 +1239,7 @@
      "p": "In a total lunar eclipse, the Moon does not vanish. It turns a coppery red. Some sunlight bends through the Earth's air and reaches the Moon. Use what you know about red sunsets to explain why the Moon goes red.",
      "lines": 4,
      "a": "The sunlight has to pass through a lot of the Earth's air. The air scatters away the blue light and lets the red light through, just like at sunset. So only red light reaches the Moon, and the Moon looks red.",
-     "why": "A strong answer joins the two cases: sunsets and an eclipsed Moon are both lit by light that has gone a long way through air. The blue is scattered out. The red gets through. Some people say the eclipsed Moon is lit by all the world's sunrises and sunsets at once."
+     "why": "A strong answer joins the two cases: sunsets and an eclipsed Moon are both lit by light that has gone a long way through air. The blue is scattered out. The red gets through. You can also say that the red Moon is lit by the sunrises and sunsets all round the edge of the Earth."
     },
     {
      "t": "perspective",
@@ -1516,6 +1518,7 @@
   {
    "id": "e1",
    "title": "Make Every Moon: a ball, a lamp and your head",
+   "problem": "In this test, a lamp stands for the Sun, a ball stands for the Moon, and your head stands for the Earth. The lamp always lights half of the ball. You turn slowly, as the Moon goes round the Earth, and watch how much of the lit half you can see from where you are.",
    "mins": 25,
    "days": 1,
    "question": "Why does the Moon seem to change shape during the month?",
@@ -1622,8 +1625,8 @@
      "mins": 3,
      "do": "1. Your child turns until the lamp is behind them again, for a full Moon. 2. They lower the ball slowly, until it is exactly level with their head.",
      "say": "Lower the ball until it is exactly in line with your head and the lamp. What happens?",
-     "kid": "Turn until the lamp is behind you and the full Moon is in front of you. Now lower the ball until it is level with your head. What happens?",
-     "parent": "The ball goes dark, because the shadow of your child's head falls on it. That is a lunar eclipse: the Earth's shadow on the Moon. Most months the real Moon passes a little above or below the shadow, just as the ball did when you held it higher. That is why we don't get an eclipse every full Moon.",
+     "kid": "Turn until the lamp is behind you. The ball is a full Moon. Now lower the ball until it is level with your head. What happens?",
+     "parent": "The ball goes dark, because the shadow of your child's head falls on it. That is a lunar eclipse: the Earth's shadow on the Moon. Most months the real Moon passes a little above or below the shadow, just as the ball did when you held it higher. That is why we don't get an eclipse every full Moon. For the question at the end: if the ball were exactly between your eyes and the lamp, it would block the lamp's light. That would be a solar eclipse, where the Moon blocks the Sun.",
      "think": "If you put the ball between your eyes and the lamp, exactly in line, what would happen to the lamp? What kind of eclipse would that be?"
     },
     {
@@ -1690,6 +1693,7 @@
   {
    "id": "e2",
    "title": "Which Shadow Is Bigger? Wang Zhenyi's eclipses at home",
+   "problem": "About 240 years ago, a young woman in China called Wang Zhenyi made eclipses with a lamp, a round table and a mirror. In this test, a torch stands for the Sun, a football stands for the Earth, and a lime stands for the Moon. The lime is about a quarter as wide as the football, as the real Moon is about a quarter as wide as the Earth. You make both kinds of eclipse and see which shadow is bigger.",
    "mins": 20,
    "days": 1,
    "question": "Why can everyone on the night side of the Earth see a lunar eclipse, but only a few people see a total solar eclipse?",
@@ -2035,7 +2039,7 @@
      "do": "1. Now your child walks round the chair again, but this time always faces the same wall, without turning. 2. Ask what the chair can see of them.",
      "say": "Now go round again, but don't turn at all. Always face the door. What does the chair see now?",
      "kid": "Go round again. This time always face the door. Don't turn. What does the chair see now? Your face, your side or your back?",
-     "parent": "If the Moon did not spin at all, the Earth would see all of its sides during a month: front, side, back and other side. We only see one face because the Moon spins exactly once each trip. Long ago it spun faster. The Earth's pull on a slight bulge in the Moon's rock worked like a brake, until the spin matched the trip. This is called tidal locking.",
+     "parent": "If the Moon did not spin at all, the Earth would see all of its sides during a month: front, side, back and other side. We only see one face because the Moon spins exactly once each trip. Long ago it spun faster. The Earth's pull on a slight bulge in the Moon's rock worked like a brake, until the spin matched the trip. This is called tidal locking. For the question at the end: if the Moon spun twice for each trip, it would turn all its sides towards the Earth during a month. So we would see the far side too.",
      "think": "What if the Moon spun twice for each trip round the Earth? Try it round the chair. Would we see its far side?"
     }
    ],
@@ -2193,7 +2197,8 @@
       "a": 0,
       "why": "The lit side always faces the Sun. In the evening the Sun has set in the west, to the right of the Moon when you face it. So a growing Moon is lit on its right. After Purnima, the lit side swaps to the left. Picking 'it changed every night' usually means some nights were missed or drawn from memory. Look again at your drawings."
      },
-     "think": "If you kept your diary for a whole year, how many Purnimas would you draw? Would it be exactly 12?"
+     "think": "If you kept your diary for a whole year, how many Purnimas would you draw? Would it be exactly 12?",
+     "parent": "A year is about 365 days, and a Moon month is about 29 and a half days. So a year holds about 12 and a third Moon months. You would draw 12 Purnimas in most years, and 13 in some."
     }
    ],
    "context": "This is a diary you keep for about two weeks. Every second evening, you draw the Moon's shape, write the time and the direction, and in the end you find its pattern for yourself.",
@@ -2270,7 +2275,8 @@
      "do": "Talk about why people long ago counted by the Moon.",
      "say": "Before printed calendars, how could a whole village agree on the day of a festival?",
      "kid": "Long ago there were no printed calendars. How could a whole village know when the festival was? Hint: look up at the sky.",
-     "think": "Anyone, anywhere, can look up and see the Moon's shape. Is a calendar in the sky fairer than one printed on paper? Who decided our calendars?"
+     "think": "Anyone, anywhere, can look up and see the Moon's shape. What did that give a village that a calendar printed in one place could not?",
+     "parent": "Everyone in the village could see the same Moon shape for free. So everyone agreed on the day, and nobody needed a printed calendar or a message from far away."
     }
    ],
    "context": "In this activity you use a calendar to sort festivals into ones set by the Moon and ones set by the Sun.",
@@ -2349,7 +2355,8 @@
       "a": 0,
       "why": "The Moon rises about 50 minutes later each day, so for half of the month it is up during some of the daytime. It is much brighter than any star, so it shows even against a blue sky. Picking 'two Moons' is a sweet idea, but there is only one Moon, and it is the same one you saw at night."
      },
-     "think": "When you see a thin crescent from Earth, someone on the Moon would see a big, nearly full Earth. What would the Earth look like from the Moon on Purnima?"
+     "think": "When you see a thin crescent from Earth, someone on the Moon would see a big, nearly full Earth. What would the Earth look like from the Moon on Purnima?",
+     "parent": "On Purnima the Earth is between the Sun and the Moon, so the Earth's lit half faces away from the Moon. From the Moon you would see a dark Earth. The Earth's phase is always the opposite of the Moon's."
     }
    ],
    "context": "This activity has two short sky watches. First, you look for earthshine, the faint glow on the dark part of a crescent Moon. Then you find the Moon in the daytime sky.",
@@ -2421,7 +2428,8 @@
       "a": 0,
       "why": "Astronauts brought back Moon rocks, and scientists found they are almost a perfect match for the Earth's outer rock. A crash that splashed out the Earth's outer layers would make a Moon like that. Picking 'the Moon is round' is a fair guess, but all big moons and planets are round, because gravity pulls them into balls. That does not tell us how they were made."
      },
-     "think": "If the Moon was made partly from the Earth, is the Moon a piece of home?"
+     "think": "If the Moon was made mostly from the Earth's own rock, is the Moon a piece of the Earth? What do you think, and why?",
+     "parent": "The Moon's rock matches the Earth's outer rock because the Moon was probably made from it. So in a way the Moon is a piece of the Earth, with some of Theia mixed in."
     }
    ],
    "context": "This is a short play about how the Moon was probably made: a planet called Theia crashing into the young Earth.",
@@ -2496,7 +2504,7 @@
      "mins": 10,
      "do": "1. A grown-up cuts a window in the smaller plate, halfway out from the centre. It must be big enough to show one Moon shape. 2. A grown-up makes a hole through the middle of both plates. 3. Put the smaller plate on top and join them with a split pin, so the top plate turns.",
      "say": "Now let's join the plates, so the window can turn round to each Moon.",
-     "kid": "Ask a grown-up to cut a window in the small plate, and to make a hole in the middle of both plates. Join the plates with a split pin. Turn the top plate. Does each Moon show in the window?",
+     "kid": "Ask a grown-up to cut a window in the small plate. Ask them to make a hole in the middle of both plates. Join the plates with a split pin. Turn the top plate. Does each Moon show in the window?",
      "adult": true
     },
     {
@@ -2702,7 +2710,8 @@
      "do": "Read the usual solutions and the creative ideas together. Then try one of your own.",
      "say": "Here is what real engineers did, and some creative ideas. Can you improve on them?",
      "kid": "Read what real engineers did. Now try your own idea. Is it better?",
-     "think": "The relay satellite Queqiao is named after a bridge of magpies in an old Chinese story, which lets two separated lovers meet once a year. Why do you think the engineers chose that name?"
+     "think": "The relay satellite Queqiao is named after a bridge of magpies in an old Chinese story. The bridge lets two separated lovers meet once a year. How is the satellite like that bridge?",
+     "parent": "The satellite is a bridge too. It joins the Earth and the rover, which cannot reach each other directly."
     }
    ],
    "context": "This is an engineering challenge. You must get a torch signal to a toy rover hidden behind a pot, the way engineers talk to rovers on the far side of the Moon.",
@@ -3046,7 +3055,7 @@
   "Is the Moon up right now, in the daytime? Where should we look?",
   "If the Moon makes no light, why is it so bright?",
   "Which side of the Moon is lit tonight? Is it growing or shrinking?",
-  "Do you think the Moon looks at the Earth the same way we look at it?",
+  "We always see the same face of the Moon. Do you think someone on the Moon sees the same view of the Earth every night? Why?",
   "Why is Diwali on a different date this year?",
   "If you lived on the Moon, how long would one day last?",
   "Which animals do you think notice the full Moon?",
@@ -3491,9 +3500,9 @@
    "kid": "Look at the Moon, or a picture of it. Breathe in for four counts, out for four. Point the way the lit side faces. The Sun is that way. Who else sees this shape tonight?"
   },
   "ask": [
-   "Everyone on Earth sees the same Moon phase tonight. Is the crescent in the Moon, or in the way we see it from here?",
-   "The Earth and the Moon were made from the same rock. Are they two things, or one?",
-   "Does the Moon matter only because we look at it, or for itself?"
+   "Everyone on Earth sees the same Moon phase tonight. Is the crescent a part of the Moon itself, or does it come only from how we see the Moon from here? Think of the ball and the lamp.",
+   "The Moon was probably made from the Earth's own rock. So are the Earth and the Moon two separate things, or two parts of one thing? Why do you think so?",
+   "Would the Moon still matter if nobody looked at it? Think of the tides, the corals and the way the Moon slows the Earth's spin."
   ],
   "art": "A girl and a hare sitting side by side on a hill at night, looking up at a full Moon whose dark seas make the shape of a hare, the Moon reflected in a pond below."
  },
