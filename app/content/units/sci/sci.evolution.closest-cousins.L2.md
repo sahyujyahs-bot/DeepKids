@@ -1,9 +1,9 @@
 # Apes, our closest cousins: how they live, play and care for each other
 `sci.evolution.closest-cousins.L2`
 
-**Summary.** When a young chimpanzee is tickled, they laugh. Their laugh sounds like soft panting, but it comes in play, just like yours. Chimpanzees, bonobos, gorillas and orangutans are apes, and so are humans. Chimpanzees and bonobos are our closest cousins. You test which way your own laugh breathes, then find out how each kind of ape lives, plays, grooms and looks after their babies.
+**Summary.** When a young chimpanzee is tickled, they laugh. Their laugh sounds like soft panting, but it comes in play, just like yours. Chimpanzees, bonobos, gorillas and orangutans are apes, and so are humans. Chimpanzees and bonobos are our closest cousins. You test whether the air goes out or comes in when you laugh. Then you find out how each kind of ape lives, plays, grooms and looks after their babies.
 
-**Intro.** *Hold your hand in front of your mouth and laugh out loud. Can you feel air on your hand? Is the air going out of your mouth, or coming in?* A young chimpanzee laughs when tickled, too. But a chimpanzee's laugh sounds different from yours. Today you make a tissue flag and test which way your own laugh breathes. Then you try laughing like a chimpanzee. After that, you meet the four great apes: chimpanzees, bonobos, gorillas and orangutans. You find out where they live, who they live with, and how they look after each other. Before you start, make a guess. When you laugh, does the air go out, come in, or both?
+**Intro.** *Hold your hand in front of your mouth and laugh out loud. Can you feel air on your hand? Is the air going out of your mouth, or coming in?* A young chimpanzee laughs when tickled, too. But a chimpanzee's laugh sounds different from yours. Today you make a tissue flag and test whether the air goes out or comes in when you laugh. Then you try laughing like a chimpanzee. After that, you meet the four great apes: chimpanzees, bonobos, gorillas and orangutans. You find out where they live, who they live with, and how they look after each other. Before you start, make a guess. When you laugh, does the air go out, come in, or both?
 
 ## Learning outcomes
 0. By the end I can name the apes, humans among them, and tell an ape from a monkey: apes have no tail.
@@ -36,7 +36,7 @@ People often mix up apes and monkeys. The easiest clue is the tail. Langurs and 
 ### Why your laugh and a chimpanzee's laugh sound different · *defined*
 **Definition:** A laugh is a sound made in play or when something is funny. Most human laughs are many 'ha' sounds on one breath out. A chimpanzee's laugh is a soft pant, with sounds on the breath out and on the breath in.
 
-In your test, the tissue flag blew away from your mouth all through your laugh. So the air was going out. When you laughed like a chimpanzee, the flag moved away and then back, again and again. In 2009, a scientist named Marina Davila-Ross and her team recorded young orangutans, gorillas, chimpanzees and bonobos being tickled, and human babies too. Every one of them laughed. The apes who are closest cousins to us had laughs most like each other's.
+In the Laugh Test, the tissue flag blew away from your mouth all through your laugh. So the air was going out. When you laughed like a chimpanzee, the flag moved away and then back, again and again. In 2009, a scientist named Marina Davila-Ross and her team recorded young orangutans, gorillas, chimpanzees and bonobos being tickled, and human babies too. Every one of them laughed. The more closely two kinds of ape are related, the more alike their laughs were.
 - e.g. A tickled human baby laughs on the breath out.
 - e.g. A tickled young chimpanzee pants 'ah-ha, ah-ha', breathing out and in.
 - e.g. Young gorillas laugh when they wrestle and chase each other.
@@ -71,7 +71,7 @@ Their name comes from the Malay words 'orang' and 'hutan', which mean 'person of
 ### How ape mothers care for their babies · *defined*
 **Definition:** Ape mothers feed their babies milk, carry them and teach them for years. An ape baby holds on to the mother's hair with hands and feet.
 
-A newborn chimpanzee clings to the hair on their mother's belly. When older, the baby rides on her back. Because the baby holds on, the mother's hands and feet stay free to climb and find food. A human baby grips a finger tightly too, but cannot hold on to a mother for long. So people all over the world carry babies in slings, like a saree tied over the shoulder. Ape mothers have only a few babies in their whole lives, and each one is cared for for years.
+A newborn chimpanzee clings to the hair on their mother's belly. When older, the baby rides on her back. Because the baby holds on, the mother's hands and feet stay free to climb and find food. A human baby grips a finger tightly too, but cannot hold on to a mother for long. So people all over the world carry babies in slings, like a saree tied over the shoulder. Ape mothers have only a few babies in their whole lives, and they care for each one for years.
 - e.g. A baby chimpanzee rides on her mother's back like a jockey.
 - e.g. A newborn human baby grips an adult's finger tightly.
 - e.g. A mother in Odisha carries her baby in a cloth sling while she works.
@@ -83,7 +83,7 @@ Grooming picks out dirt, dead skin and tiny insects such as lice and ticks. It a
 - e.g. Two bonobos groom each other's faces after a quarrel.
 - e.g. A gorilla mother picks bits out of her baby's fur.
 ### Apes think and feel · *debated*
-Apes think, feel, remember and plan. They feel joy when they play, fear when they are in danger, and grief when someone they love dies. Chimpanzee mothers have been seen carrying a dead baby for days. In 1960, Jane Goodall, a young English woman with no university degree, began watching wild chimpanzees at Gombe, in what is now Tanzania. She gave the chimpanzees names, such as David Greybeard, and wrote about their feelings. Some scientists said she should use numbers instead. Today many scientists study ape feelings, as she did.
+Apes think, feel, remember and plan. They feel joy when they play, fear when they are in danger, and grief when someone they love dies. Chimpanzee mothers have been seen carrying a dead baby for days. In 1960, Jane Goodall, a young English woman with no university degree, began watching wild chimpanzees at Gombe, in what is now Tanzania. She gave the chimpanzees names, such as David Greybeard, and wrote about their feelings. Some scientists said she should give them numbers instead of names. In 1971, Biruté Galdikas, a scientist from Canada, began watching wild orangutans in Borneo, and she kept watching them for decades. Today many scientists study ape feelings, as they did.
 - e.g. Young chimpanzees laugh and come back for more tickling.
 - e.g. An orangutan plans where to find ripe fruit the next day.
 - e.g. Chimpanzees who saw a friend die stay close and quiet.
@@ -91,7 +91,7 @@ Apes think, feel, remember and plan. They feel joy when they play, fear when the
 - **Some careful scientists:** We should watch closely before we name an ape's feeling with a human word. A chimpanzee's grin can mean fear, not happiness. Each feeling must be checked by what the ape does next.
 
 ## Mostly agreed
-- Chimpanzees and bonobos are our closest living cousins, and gorillas come next. *How we know:* Scientists compared the DNA, the instructions inside the cells, of humans and other apes. Ours is most like a chimpanzee's and a bonobo's. Our bones and bodies tell the same story.
+- Chimpanzees and bonobos are our closest living cousins, and gorillas come next. *How we know:* Scientists compared the DNA, the instructions inside the cells, of humans and other apes. Ours is most like a chimpanzee's and a bonobo's. Our bones and bodies show the same thing.
 - Apes have no tail. *How we know:* Every ape, from the small hoolock gibbon to the gorilla, has no tail. Humans have a few tiny bones at the end of the spine, called the tailbone, where a tail would be.
 - Young apes laugh when they are tickled or play. *How we know:* In 2009, Marina Davila-Ross and her team recorded young orangutans, gorillas, chimpanzees and bonobos laughing while being tickled, and compared the sounds with tickled human babies.
 - Great apes build a nest to sleep in nearly every night. *How we know:* Scientists who watch wild chimpanzees, bonobos, gorillas and orangutans for years see them do it. They count old nests in a forest to find out how many apes live there.
@@ -107,7 +107,7 @@ Apes think, feel, remember and plan. They feel joy when they play, fear when the
   For: Humans and chimpanzees look alike in many ways and share most of their DNA.  
   Against: Chimpanzees did not turn into humans. Both come from the same ancestors, apes who lived millions of years ago and were neither chimpanzees nor humans. So we are cousins, not grandparents and grandchildren.
 - **Only humans laugh.** (An old idea, held by many people; *rejected*)  
-  For: Human laughter is loud and easy to know. Most animals do not make a sound like 'ha ha ha'.  
+  For: Human laughter is loud and easy to recognise. Most animals do not make a sound like 'ha ha ha'.  
   Against: Young apes laugh when tickled, with a panting sound. Charles Darwin wrote about it in 1872, and Marina Davila-Ross recorded it in 2009. Rats make high squeaks when tickled, too.
 - **Bonobos are always peaceful.** (A popular idea about bonobos; *debated*)  
   For: Killing has been seen much less often in wild bonobos than in wild chimpanzees. Females stick together and calm things down, and bonobos share food a lot.  
@@ -117,21 +117,21 @@ Apes think, feel, remember and plan. They feel joy when they play, fear when the
   Against: Other people say rights belong to humans, and that apes are better protected by strong animal laws and by saving their forests.
 
 ## Roots
-We tested which way our laugh breathes, and found out how apes live, play and groom. Now we ask what this tells us about ourselves and the world.
+In the Laugh Test, we found that the air goes out when we laugh. We also found out how apes live, play and groom. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** When you laughed, your tissue flag blew away from you on every 'ha'. A tickled young chimpanzee laughs too, and so do young gorillas, bonobos and orangutans. So laughing is probably older than people.  
+**Deep truth.** In the Laugh Test, the tissue flag blew away from you on every 'ha'. A tickled young chimpanzee laughs too, and so do young gorillas, bonobos and orangutans. So laughing is probably older than people.  
 *Habit it breaks:* We think of laughing as something only people do. But every great ape laughs in play, so laughter is probably far older than humans.  
-*Evidence:* In the laugh test, human laughs were many 'ha' sounds on one breath out, and the chimpanzee pant moved the flag both ways. In 2009, Marina Davila-Ross and her team recorded tickled young orangutans, gorillas, chimpanzees, bonobos and human babies. All of them laughed, and the closest cousins had the most alike laughs.
+*Evidence:* In the Laugh Test, human laughs were many 'ha' sounds on one breath out. When we laughed like a chimpanzee, the flag moved both ways. In 2009, Marina Davila-Ross and her team recorded tickled young orangutans, gorillas, chimpanzees, bonobos and human babies. All of them laughed. The more closely two kinds are related, the more alike their laughs were.
 
 - *who am i:* You are a great ape. Your laugh, your gripping hands and your love of being groomed come from ancestors you share with chimpanzees.
-- *what is life:* Life is lived together. Ape mothers carry, feed and teach their young for years, and apes keep friends by grooming and play.
+- *what is life:* A big part of life is looking after each other. Ape mothers carry, feed and teach their young for years, and apes keep friends by grooming and play.
 - *what is this world:* The world has many ape families, each living their own way: in big communities, in small families or mostly alone, in Africa and in Asia.
 
-Millions of years ago, one kind of ape lived in the forests of Africa. From those ancestors came many kinds: chimpanzees, bonobos, gorillas, and humans. Orangutans and gibbons branched off even earlier. Each kind went its own way, but kept the same old gifts: laughing in play, grooming, and mothers who care for years. Apes feel joy, fear and grief, and each ape has their own mind. One old family of apes became many kinds, and their laughter came down to every one of them, to you too.
+Millions of years ago, one kind of ape lived in the forests of Africa. From those ancestors came many kinds: chimpanzees, bonobos, gorillas, and humans. Orangutans and gibbons branched off even earlier. Each kind came to live in their own way, but all of them kept the same old habits: laughing in play, grooming, and mothers who care for years. Apes feel joy, fear and grief, and each ape has their own mind. One old family of apes became many kinds. All of them still laugh, and so do you.
 
 - **Taittiriya Upanishad 3.6:** Bhrigu learned that joy, ananda, is the ground of all things. From joy beings are born, by joy they live, and into joy they return. (The laugh test showed that the joy of play has a sound, in us and in every great ape. Joy did not begin with people.)
 - **Isha Upanishad, verse 6:** One who sees all beings in their own self, and their own self in all beings, does not turn away from anyone. (When you see your own laugh in a chimpanzee's pant, and your Sunday hair oiling in a chimpanzee's grooming, an ape is no longer a stranger.)
-- **Charles Darwin, The Expression of the Emotions in Man and Animals (1872):** Darwin wrote that young chimpanzees make a chuckling or laughing sound when they are tickled, as children do. (More than 130 years before the tickling recordings, Darwin noticed the same thing. He took it as a sign that humans and other apes are one family.)
+- **Charles Darwin, The Expression of the Emotions in Man and Animals (1872):** Darwin wrote that young chimpanzees make a chuckling or laughing sound when they are tickled, as children do. (Darwin noticed this more than 130 years before Marina Davila-Ross recorded tickled young apes in 2009. He took it as a sign that humans and other apes are one family.)
 - Science (settled): All the great apes, humans included, make laughing sounds in play and when tickled.
 - Science (idea): Laughter probably began in the shared ancestors of the great apes, millions of years ago.
 - Other view, Some careful scientists: They say we should not be too quick to call an ape's pant a laugh, or to say the ape feels what we feel. A pant may be a signal that means 'this is play', and we should check each feeling by what the ape does next.
@@ -142,7 +142,7 @@ Millions of years ago, one kind of ape lived in the forests of Africa. From thos
 
 ## Deep and big questions
 - *deep:* When a chimpanzee is tickled and pants, are they feeling what you feel when you laugh? (hint: Think about what the chimpanzee does next. Do they come back for more? Do you?)
-- *deep:* Your laugh breathes out, and a chimpanzee's breathes out and in. Why might our laugh have changed? (hint: Think about talking. Talking also happens on the breath out.)
+- *deep:* You laugh on the breath out. A chimpanzee laughs on the breath out and the breath in. Why might our laugh have changed? (hint: Think about talking. Talking also happens on the breath out.)
 - *deep:* A young orangutan stays with her mother for about 8 years. What would you need to learn if you lived alone in a forest? (hint: Think about food, a bed, and staying safe.)
 - *big:* If apes are our cousins, are they part of our family? (hint: Think about what makes someone family. Is it sharing ancestors, living together, or caring for each other?)
 - *big:* Who should decide what happens to the forests where apes live? (hint: Think about the apes, the people who live near the forest, and the people who buy what is grown there.)
@@ -200,7 +200,7 @@ Kavya stood up. 'Paati, now it is my turn. Sit down.' Paati sat on the stool. Ka
 
 'Now I am the groomer,' she said.
 
-She thought about a chimpanzee mother, far away in a forest in Africa, parting her child's hair with careful fingers. The same slow fingers. The same quiet. Grooming and laughing were much older than Madurai. They were older than people.
+She thought about a chimpanzee mother, far away in a forest in Africa, parting her child's hair with careful fingers. Her fingers would be just as slow, and it would be just as quiet. Grooming and laughing were much older than Madurai. They were older than people.
 
 **For the parent:** Kavya sees that the things her family does every Sunday, grooming each other and laughing together, are things all the great apes do. They are much older than people, because humans and other apes come from the same ancestors.
 
@@ -244,7 +244,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
   - Check: Which of these do people do too? → **Hug and make up after a quarrel**
 
 ## Experiments
-### e1 · The Laugh Test: does your laugh breathe out or in? (20 min)
+### e1 · The Laugh Test: when you laugh, does the air go out or in? (20 min)
 - **question:** When you laugh, does the air go out of your mouth, come in, or both? How many 'ha' sounds come out on one breath? Is a chimpanzee's laugh the same?
 - **predict:** Soon someone will make you laugh while a tissue flag hangs in front of your mouth. Will the flag blow away from you, move towards you, or do both? How many 'ha' sounds do you think you make in one breath? Why do you think so?
 - **fair test:** We hold the flag the same distance from every mouth, about three fingers away. We count the 'ha' sounds the same way for everyone: from the first 'ha' until the laugher breathes in. Each person laughs three times, because one laugh can be unusual.
@@ -259,19 +259,19 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 - **s2 (2 min)**  
   *Parent does:* 1. Ask for a guess and a reason. 2. Write the guesses at the top of the results table. 3. Don't say what will happen.  
   *Parent says:* Soon you will laugh with the flag in front of your mouth. Will the flag blow away, move towards you, or both? How many 'ha' sounds will you make in one breath? Why do you think so?  
-  *Child mode:* Soon you will laugh with the flag near your mouth. Which way will it move? How many 'ha' sounds in one breath? Say why.
+  *Child mode:* Soon you will laugh with the flag near your mouth. Which way will the flag move? How many 'ha' sounds will you make in one breath? Say why you think so.
   - Ask: Why do you think so? (good: Laughing makes a noise, and noises come out.; I gasp when I laugh, so the air might come in.; I think I can say lots of 'ha' sounds at once.)
   - Note: Many children guess 'both', because laughing feels like gasping. Any guess with a reason is a good guess.
 - **s3 (5 min) · grown-up needed**  
   *Parent does:* 1. Hold the flag three fingers from your child's mouth. 2. Make them laugh: tickle gently or tell a joke. 3. Watch the flag. 4. Count the 'ha' sounds until they breathe in. 5. Do this three times and write each count.  
   *Parent says:* Ready? I am going to make you laugh. Don't try to laugh in a special way. Just laugh. I'll watch the flag and count your 'ha' sounds.  
-  *Child mode:* A grown-up makes you laugh. Just laugh as you always do. They watch the flag. They count your 'ha' sounds.
+  *Child mode:* A grown-up makes you laugh. Just laugh as you always do. The grown-up watches the flag and counts your 'ha' sounds.
   - Note: The flag blows away from the mouth all through the laugh. Most people make several 'ha' sounds on one breath out, then take a big breath in that makes little or no sound. The number changes from laugh to laugh, and that is fine. If you have a phone, record the laughs and count the 'ha' sounds slowly afterwards.
 - **s4 (4 min)**  
   *Parent does:* 1. Swap jobs. 2. Your child holds the flag in front of your mouth. 3. Another family member tells a joke, or your child does. 4. Your child watches the flag and counts your 'ha' sounds. 5. Do it three times. Add one more person if you can.  
   *Parent says:* Now you hold the flag for me. Make me laugh if you can. Watch the flag and count my 'ha' sounds. Are mine the same as yours?  
   *Child mode:* Now hold the flag near a grown-up's mouth. Make them laugh. Watch the flag. Count their 'ha' sounds.
-  - Note: A real laugh works best, so let your child tell their best joke. If you can't stop laughing, that is good data too. Write all the counts in the table.
+  - Note: A real laugh works best, so let your child tell their best joke. If you can't stop laughing, that is a useful result too. Write all the counts in the table.
 - **s5 (3 min)**  
   *Parent does:* 1. Show how a young chimpanzee laughs: pant softly and fast, 'ah-ha, ah-ha', with one sound breathing out and one breathing in. 2. Your child tries it with the flag in front of their mouth. 3. Watch the flag.  
   *Parent says:* A young chimpanzee laughs too, when tickled. But it sounds like this. Listen. Ah-ha, ah-ha, ah-ha. I make a sound when I breathe out and when I breathe in. You try, with the flag. What does the flag do now?  
@@ -285,14 +285,14 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
   - Check: When you laughed, which way did the flag blow? → **Away from my mouth, because the air went out**
 ### e2 · The Hands-Free Test: how should a mother carry a baby? (20 min)
 - **question:** Which way of carrying a baby lets you get more work done: holding the baby in your arm, or carrying the baby in a cloth sling?
-- **predict:** You will move small things from one bowl to another for one minute, carrying a pretend baby. First in your arm, then in a sling. How many things do you think you will move each way? Why do you think so?
-- **fair test:** The same baby, the same bowls and the same 20 things, for exactly one minute each time. You move one thing in each free hand at a time. You try each way twice, because the first try is often slower.
+- **predict:** You will move small things from one bowl to another for one minute while you carry a pretend baby. The first time, you hold the baby in your arm. The second time, the baby is in a sling. How many things do you think you will move each way? Why do you think so?
+- **fair test:** We use the same baby, the same bowls and the same 20 things, for exactly one minute each time. You carry only one thing in each free hand at a time. You try each way twice, because the first try is often slower.
 - **record:** Fill in the results table. Draw yourself carrying the baby both ways, and draw how a chimpanzee baby holds on.
 - **results table:** How I carried the baby | Try 1: things moved | Try 2: things moved
 - **s1 (3 min)**  
-  *Parent does:* 1. Wrap the packet in a small towel. 2. Put 20 small things in one bowl. 3. Put the empty bowl one big step away.  
+  *Parent does:* 1. Wrap the packet of atta in a small towel. This is the pretend baby. 2. Put 20 small things in one bowl. 3. Put the empty bowl one big step away.  
   *Parent says:* This is our baby. Babies are heavy, and they need carrying for months. Your job is to move these things to the other bowl while you look after the baby. How many can you move in one minute? Why do you think so?  
-  *Child mode:* This packet is your baby. Move things from one bowl to the other. Carry the baby the whole time. Guess how many you can move. Say why.
+  *Child mode:* This packet is your baby. Move things from one bowl to the other. Carry the baby the whole time. Guess how many things you can move in one minute. Say why.
   - Note: Write the guesses down. Most children guess a number for the arm and a bigger one for the sling, but have no idea how big the difference will be.
 - **s2 (4 min)**  
   *Parent does:* 1. Your child holds the baby in one arm. 2. Start the timer. 3. They move one thing at a time with the free hand. 4. Stop after one minute and count. 5. Rest, then try again.  
@@ -306,8 +306,8 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
   - Note: Tie the knot yourself and check it does not press on the neck. Most children move many more things with the sling.
 - **s4 (4 min)**  
   *Parent does:* 1. Compare the counts. 2. Ask what made the difference. 3. Then tell them about ape babies.  
-  *Parent says:* Which way moved more? Why? A chimpanzee mother has no sling. Her baby holds on to the hair on her belly, with hands and feet. Later, the baby rides on her back. So her hands and feet stay free to climb.  
-  *Child mode:* Which way moved more? Why? A chimpanzee baby holds on to their mother's hair. So she can climb with free hands.
+  *Parent says:* Which way let you move more things? Why? A chimpanzee mother has no sling. Her baby holds on to the hair on her belly, with hands and feet. Later, the baby rides on her back. So her hands and feet stay free to climb.  
+  *Child mode:* Which way let you move more things? Why? A chimpanzee baby holds on to their mother's hair. So she can climb with free hands.
   - Ask: Why can a chimpanzee mother climb a tree with her baby, but a human mother needs a sling? (good: The chimpanzee baby holds on by themself.; A human baby can't hold on for long, so the mother needs a cloth.)
   - Note: A newborn human baby grips a finger tightly, but cannot hold on to a mother for long. That is why people everywhere invented slings and carrying cloths.
 - **s5 (3 min)**  
@@ -345,10 +345,10 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 - **record:** Write how many seconds each try took. Draw your foot and a chimpanzee's foot side by side.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child sits on the floor with bare feet. 2. Put the handkerchief on the floor. 3. Time how many seconds it takes to lift it with the toes of one foot.  
-  *Parent says:* Can your foot be a hand? Pick up the handkerchief with your toes only. I'll count the seconds.  
-  *Child mode:* Sit on the floor with bare feet. Pick up the cloth with your toes. Count the seconds.
+  *Parent says:* Can your foot grip like a hand? Pick up the handkerchief with your toes only. I'll count the seconds.  
+  *Child mode:* Sit on the floor with bare feet. Pick up the handkerchief with your toes. Count the seconds.
 - **s2 (4 min)**  
-  *Parent does:* 1. Now try the pencil with the toes. 2. Count the seconds, or stop after 1 minute. 3. Then pick up the pencil with your hand and count.  
+  *Parent does:* 1. Your child tries to pick up the pencil with their toes. 2. Count the seconds, or stop after 1 minute. 3. Then they pick up the pencil with a hand, and you count again.  
   *Parent says:* Now try the pencil with your toes. Is it harder? Now pick it up with your hand. How many seconds?  
   *Child mode:* Now try the pencil with your toes. Then try with your hand. Which was faster?
   - Note: The pencil is much harder with the toes, because the big toe sits in line with the others and cannot wrap round.
@@ -369,12 +369,12 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
   *Parent says:* A hoolock gibbon family is small: a mother, a father and their young. In the morning, the pair sing together, very loudly. Grown-up males are black and grown-up females are a pale golden brown. Why might a family sing together every morning?  
   *Child mode:* A gibbon family is a mother, a father and their young. In the morning, the pair sing together, very loudly. Why might they sing?
   - Ask: Why might a gibbon family sing together every morning? (good: To tell other gibbons this is their part of the forest.; To say hello to each other.; Because they like singing.)
-  - Note: Scientists think the songs tell other gibbons where a family lives, and help the pair stay together. They also keep finding out more.
+  - Note: Scientists think the songs tell other gibbons where a family lives, and help the pair stay together. Scientists are still finding out more about the songs.
 - **s3 (4 min)**  
   *Parent does:* 1. Make up a call: a rising 'hoo-ah'. 2. Your child answers with the same call. 3. Go faster and faster, then louder, then stop together.  
   *Parent says:* Let's sing a duet. I call, 'Hoo-ah!' You answer, 'Hoo-ah!' Then faster. Listen to me, so we stay together.  
   *Child mode:* A grown-up calls, 'Hoo-ah!' You answer, 'Hoo-ah!' Go faster and faster. Stop together at the end.
-  - Note: This is play, not an exact copy of a gibbon song. Real hoolock songs carry far through the forest. You may find a recording to listen to after.
+  - Note: This is play, not an exact copy of a gibbon song. Real hoolock songs carry far through the forest. You could look for a recording to listen to afterwards.
 
 ## Projects
 ### p1 · Where Apes Live: a map of ape homes (40 min, 2 days)
@@ -396,7 +396,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 ### c1 · Build an Orangutan Nest that Holds a Baby (20 min)
 - **problem:** Make a bed across the gap between two stacks of books, about 25 centimetres apart. It must hold a soft toy and 3 notebooks for one minute without falling through.
 - **your turn:** Design your own nest. Test it with the toy and the notebooks. Then change one thing and test again. Which nest held best, and why?
-- **constraints:** Use at most 10 newspaper sticks. Make each stick by rolling one sheet of newspaper tightly and taping the end.; You may use string or old ribbon, and a towel or dupatta for a soft lining.; Do not tape the bed to the books.; The stacks of books must be on the floor, about as high as your hand is long.
+- **constraints:** Use at most 10 newspaper sticks. Make each stick by rolling one sheet of newspaper tightly and taping the end.; You may use string or old ribbon, and a towel or dupatta for a soft lining.; Do not tape the bed to the books.; Put the two stacks of books on the floor. Make each stack about as high as your hand is long.
 - **general:** Lay the sticks side by side across the gap, then lay more sticks crossing them on top.; Weave sticks over and under each other, like a mat, so they hold each other in place.
 - **creative:** Bend sticks round into a ring and fill the ring with more sticks, like a bowl.; Tie the sticks together with string where they cross, then add a soft towel lining, the way orangutans add leafy twigs.
 - **s1 (5 min)**  
@@ -417,8 +417,8 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 ### Apes, Laughing and Grooming (core) (core, 11 questions)
 1. (mcq) In the laugh test, what did the tissue flag do while you laughed?  
    Options: It blew away from my mouth / It was pulled into my mouth / It did not move  
-   **Answer:** It blew away from my mouth. *Why:* Your laugh is many 'ha' sounds on one breath out, so the air pushed the flag away. Picking 'pulled in' may come from the big gasp after a laugh, which is a quiet breath in.
-2. (count) Anu, a girl in Kochi, laughed: 'ha ha ha ha ha ha', all on one breath. How many 'ha' sounds did she make?  
+   **Answer:** It blew away from my mouth. *Why:* Your laugh is many 'ha' sounds on one breath out, so the air pushed the flag away. A child who picks 'pulled into my mouth' may be thinking of the big gasp after a laugh. That gasp is a quiet breath in.
+2. (count) Here is a laugh: 'ha ha ha ha ha ha', all on one breath. How many 'ha' sounds are in it?  
    **Answer:** 6. *Why:* Count each 'ha': 1, 2, 3, 4, 5, 6. All six came on one breath out, as most human laughs do.
 3. (truefalse) A langur with a long tail is an ape.  
    **Answer:** False. *Why:* False. Apes have no tail. A langur has a long tail, so the langur is a monkey.
@@ -428,13 +428,13 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
    **Answer:** A laughing face with the flag blown away from the mouth, and an arrow pointing away from the mouth.. *Why:* A strong drawing shows the flag blown outward and the arrow going out, as the child saw in their own test.
 6. (fill) The easiest way to tell an ape from a monkey is that an ape has no ____.  
    **Answer:** ['tail']. *Why:* Monkeys such as langurs and macaques have tails. Apes, including humans, do not.
-7. (write) Say out loud, and a grown-up writes it down: give two reasons why chimpanzees groom each other.  
+7. (write) Give two reasons why chimpanzees groom each other. (A grown-up can write it for you.)  
    **Answer:** To take out dirt and tiny insects such as lice, and to stay friends or make up after a fight.. *Why:* A strong answer gives one reason about keeping clean and one about friendship or calming down.
 8. (odd) Three of these are apes. Which one is not an ape?  
    Options: Chimpanzee / Gorilla / Orangutan / Bonnet macaque  
    **Answer:** 3. *Why:* The bonnet macaque of South India is a monkey with a long tail. Chimpanzees, gorillas and orangutans are apes, with no tail.
-9. (perspective) Sameer, a boy in Class 2, and his sister Divya watch a film of a young chimpanzee being tickled.  
-   **Answer:** A strong answer agrees with Divya: young apes pant-laugh when tickled and playing, and scientists recorded it. It also says Sameer is right that the sound is like fast breathing, in and out.. *Why:* Sameer noticed something true about the sound. But the pant comes in play and tickling, just as our laugh does, so scientists call it laughter.
+9. (perspective) The first person and his sister the second person watch a film of a young chimpanzee being tickled.  
+   **Answer:** A strong answer agrees with the second person: young apes pant-laugh when tickled and playing, and scientists recorded it. It also says the first person is right that the sound is like fast breathing, in and out.. *Why:* The first person noticed something true about the sound. But the pant comes in play and tickling, just as our laugh does, so scientists call it laughter.
 10. (label) Label the chimpanzee: hands that grip, feet that grip, no tail, eyes at the front.  
    **Answer:** ['hands: hands that grip', 'feet: feet that grip', 'bottom of the back: no tail', 'face: eyes at the front']. *Why:* These are the signs of a primate and of an ape. The gripping feet, with a big toe like a thumb, are what make a chimpanzee's foot different from yours.
 11. (sort) Sort these apes: lives mostly alone, or lives in a group or family.  
@@ -442,13 +442,13 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 ### How Apes Live (stretch) (stretch, 10 questions)
 1. (mcq) When you laughed like a chimpanzee, the flag moved away and back again and again. Why?  
    Options: I made sounds as I breathed out and as I breathed in / I laughed more quietly / The tissue got wet  
-   **Answer:** I made sounds as I breathed out and as I breathed in. *Why:* A chimpanzee laugh is a pant, with a sound on each breath out and each breath in, so the air moved both ways. Picking 'more quietly' may mean thinking only loudness changed, but the direction of the air changed too.
+   **Answer:** I made sounds as I breathed out and as I breathed in. *Why:* A chimpanzee laugh is a pant, with a sound on each breath out and each breath in, so the air moved both ways. A child who picks 'more quietly' may think only the loudness changed. But the direction of the air changed too.
 2. (write) Your laugh and a chimpanzee's laugh sound different. Write one way they are the same.  
    **Answer:** Both come when someone tickles you or plays with you. Both are a sound of play.. *Why:* A strong answer looks past the sound to when the laugh happens: in play and when tickled, for apes and for us.
-3. (order) Put these in order, from a chimpanzee's baby days to growing up.  
+3. (order) Put these in order, from when a chimpanzee is a newborn to when they are grown up.  
    **Answer:** [0, 1, 2, 3]. *Why:* A newborn holds on to the mother's belly. Later the young one rides on her back, then walks beside her and learns for years before growing up.
-4. (perspective) Nandini and her friend Farah, both in Class 2, talk about who leads an ape group.  
-   **Answer:** A strong answer agrees with Farah: bonobo females often hold the top places and stick together. It also says Nandini is partly right, because a gorilla family is often led by a big silverback.. *Why:* Different apes live differently. Gorillas fit Nandini's idea, bonobos do not. So 'always' is the wrong word.
+4. (perspective) The first person and her friend the second person talk about who leads an ape group.  
+   **Answer:** A strong answer agrees with the second person: bonobo females often hold the top places and stick together. It also says the first person is partly right, because a gorilla family is often led by a big silverback.. *Why:* Different apes live differently. Gorillas fit the first person's idea, bonobos do not. So 'always' is the wrong word.
 5. (draw) Draw an orangutan's nest high in a tree. Show the bent branches, and the soft leafy lining on top.  
    **Answer:** A tree with a round platform of bent branches near the top, leaves on top, and an orangutan lying in it.. *Why:* A strong drawing shows thick branches bent across each other underneath and softer leaves on top, the way orangutans build.
 6. (fill) A grown-up male gorilla with grey hair on his back is called a ____.  
@@ -457,14 +457,14 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
    **Answer:** ['forest']. *Why:* 'Orang' means person and 'hutan' means forest, in the Malay language.
 8. (match) Draw a line from what the ape does to the ape who does it.  
    **Answer:** cracks nuts with a stone → chimpanzee; holds a leaf over the head in rain → orangutan; sings loud duets in the morning → hoolock gibbon; females lead and stick together → bonobo. *Why:* Each ape has their own ways. These four are all things scientists have watched wild apes do.
-9. (write) Arjun, a boy in Class 2, says: 'People came from chimpanzees.' What would you tell him? (A grown-up can write it for you.)  
+9. (write) Someone says: 'People came from chimpanzees.' What would you tell them? (A grown-up can write it for you.)  
    **Answer:** That people did not come from chimpanzees. People and chimpanzees are cousins. We both come from the same ancestors, apes who lived millions of years ago.. *Why:* A strong answer uses the word cousins and says both come from shared ancestors, the way two cousins share a grandmother.
 10. (truefalse) Gorillas often build their nests on the ground.  
    **Answer:** True. *Why:* True. Gorillas are heavy, so they often make their beds of leaves on the ground. Chimpanzees, bonobos and orangutans mostly sleep up in trees.
 ### Apes and Us (challenge) (challenge, 10 questions)
-1. (perspective) Meera, a girl in Class 2, and her aunt Rehana talk about apes in zoos.  
-   **Answer:** Any side, argued with a reason. For example: Rehana, because an orangutan in the wild travels through many trees and a chimpanzee lives with a big community. Meera also makes a good point: people protect what they have seen and care about.. *Why:* This is a real argument. A strong answer uses facts about how apes live, and is fair to the other side.
-2. (write) Ammu, a girl in Class 3, says: 'The chimpanzee laughed, so the chimpanzee must be happy.' What could you watch the chimpanzee do, to find out more? (A grown-up can write it for you.)  
+1. (perspective) The first person and her aunt the second person talk about apes in zoos.  
+   **Answer:** Either side is a good answer if it comes with a reason. For example: The second person, because an orangutan in the wild travels through many trees and a chimpanzee lives with a big community. The first person also makes a good point: people protect what they have seen and care about.. *Why:* This is a real argument. A strong answer uses facts about how apes live, and is fair to the other side.
+2. (write) Someone says: 'The chimpanzee laughed, so the chimpanzee must be happy.' What could you watch the chimpanzee do, to find out more? (A grown-up can write it for you.)  
    **Answer:** Watch whether the chimpanzee comes back for more tickling, keeps playing, and makes a relaxed play face.. *Why:* A strong answer says we learn about feelings from what someone does next, the way we know a friend enjoyed a game when they ask to play again.
 3. (write) An orangutan mother has a baby only about once every 8 years. Why does this make it hard for orangutans when their forests are cut down? (A grown-up can write it for you.)  
    **Answer:** Each mother has only a few babies in her whole life. So when orangutans are lost, it takes many years for new ones to be born and grow up.. *Why:* A strong answer links few babies and a long childhood to slow growth in numbers.
@@ -485,7 +485,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
    **Answer:** For example, an orangutan: a mother cares for her child for years, and the child learns by watching her. But orangutans mostly live alone, not in a family home.. *Why:* A strong answer uses true facts about one ape and compares them carefully with the child's own family.
 
 ## Videos
-- **A bonobo loves being tickled** (BBC Earth, 4 min) id `TumK4bem3fg`: Lets the child see and hear a great ape (a bonobo, a close cousin of the chimpanzee) laugh when it is tickled, after doing the laugh test. *Check:* Found by search: "Bonobo Loves Being Tickled | Animals In Love | BBC Earth" by BBC Earth, 4 minutes. A parent may preview it.
+- **A bonobo loves being tickled** (BBC Earth, 4 min) id `TumK4bem3fg`: Lets the child see and hear a great ape (a bonobo, a close cousin of the chimpanzee) laugh when they are tickled, after doing the laugh test. *Check:* Found by search: "Bonobo Loves Being Tickled | Animals In Love | BBC Earth" by BBC Earth, 4 minutes. A parent may preview it.
 - **Orangutans get a crash course in nest building** (Smithsonian Channel, 2 min) id `q5ic4j7s7j4`: Shows how orangutans bend and weave branches into a bed in the trees, before the nest challenge. *Check:* Found by search: "These Orangutans Get a Crash Course in Nest Building" by Smithsonian Channel, 2 minutes. A parent may preview it.
 - **The orchestra of Hollongapar: Assam's forest of gibbons** (Roundglass Sustain, 3 min) id `vq9-5NASj9M`: Lets the child hear India's own ape singing in Assam, after the gibbon duet. *Check:* Found by search: "🎶The Orchestra of Hollongapar: Assam’s Forest Island of Gibbons" by Roundglass Sustain, 3 minutes. A parent may preview it.
 
@@ -495,7 +495,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
    **Answer:** Gorilla. *Why:* Gorillas have no tail, so they are apes. Langurs and bonnet macaques have long tails, so they are monkeys.
 2. (mcq) Are humans apes?  
    Options: Yes, humans are great apes / No, humans are monkeys / No, humans are not animals  
-   **Answer:** Yes, humans are great apes. *Why:* Humans are animals and great apes, with no tail, like chimpanzees and gorillas. Picking 'not animals' may mean thinking people are separate from the other animals, but we are one animal among many.
+   **Answer:** Yes, humans are great apes. *Why:* Humans are animals and great apes, with no tail, like chimpanzees and gorillas. A child who picks 'not animals' may think people are separate from the other animals. But humans are one kind of animal among many.
 3. (mcq) How does a young chimpanzee laugh when tickled?  
    Options: With a soft pant, breathing out and in / With no sound at all / Exactly like a person, 'ha ha ha'  
    **Answer:** With a soft pant, breathing out and in. *Why:* A chimpanzee's laugh is a pant, with sound on the breath out and the breath in. Ours is many 'ha' sounds on one breath out.
@@ -517,15 +517,15 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 9. (mcq) Why are all the great apes except humans in danger?  
    Options: Their forests are being cut down / They eat too much fruit / They laugh too loudly  
    **Answer:** Their forests are being cut down. *Why:* Apes need big forests. Forests are cut down for farms, oil palm and wood, and some apes are hunted. That is why they are endangered.
-10. (mcq) Jane Goodall gave the chimpanzees she watched names, such as David Greybeard. What did she find out about them?  
+10. (mcq) A scientist watches wild chimpanzees for years. She sees them poke grass stems into termite mounds to pull termites out, and hug each other after a fight. What does this tell her?  
    Options: They make and use tools, and have feelings / They only eat leaves / They live alone  
-   **Answer:** They make and use tools, and have feelings. *Why:* Goodall saw chimpanzees fish for termites with stems, and saw their joy, fear and grief. Chimpanzees eat many foods and live in big communities.
+   **Answer:** They make and use tools, and have feelings. *Why:* Choosing and using a stem to catch termites is using a tool. Hugging after a fight shows feelings. Chimpanzees eat many foods and live in big groups.
 
 ## Applications
 - Wildlife scientists count the old nests of apes in a forest to find out how many apes live there.
-- Doctors and nurses who care for newborn babies check the grasp reflex, the tight grip a baby is born with, our own ape grip.
+- Doctors and nurses who care for newborn babies check the grasp reflex. This is the tight grip a baby is born with, the same kind of grip an ape baby uses to hold on to the mother.
 - People who run orangutan sanctuaries in Borneo teach rescued orphan orangutans to climb and build nests before they are set free.
-- Families who choose foods and soaps made without palm oil from cut forests help keep orangutan forests standing.
+- Some families choose foods and soaps made without palm oil from farms where forests were cut down. This helps keep orangutan forests standing.
 
 ## Spotted around us
 - Look at monkeys in a temple, a park or on a rooftop: langurs and macaques have long tails, so they are monkeys, not apes.
@@ -536,7 +536,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 
 ## Open questions
 - **Why did human laughter change to many 'ha' sounds on one breath out?** Some scientists think it came with better control of breathing for talking. Nobody knows for sure.
-- **What does a chimpanzee feel when they laugh?** We can see that tickled apes come back for more. But nobody can feel another's feeling from the inside, in an ape or in a friend.
+- **What does a chimpanzee feel when they laugh?** We can see that tickled apes come back for more. But nobody can feel what someone else is feeling, whether that is an ape or a friend.
 - **How many orangutans, gorillas, chimpanzees and bonobos are left in the wild?** Apes live in deep forests and are hard to count. Scientists count nests and use cameras, but the numbers are estimates.
 - **Why do bonobos and chimpanzees, who are such close cousins, live so differently?** Some scientists think it is because of the foods in their forests. Others think it began with how females team up. It is still argued about.
 
@@ -593,6 +593,7 @@ One Long Family, from the Sea to Me (sci.evolution.L2): Topic-level song for Evo
 ## Sources
 - ideas/by_topic/our-closest-cousins.md: the Jane Goodall SCI card (tools, naming the chimpanzees instead of numbering them, her feelings for them being attacked, and the line between humans and other animals being thinner than people thought). Used in the explanation of ape minds, the agreed card on tools and the quiz. The termite-fishing discovery story is already told in sci.classification.sorting-living-things.L2, so this unit's true story is Dian Fossey's gorillas instead.
 - This unit has no level below it. It leads on to sci.evolution.closest-cousins.L5 (DNA, culture, Jane Goodall in depth, 'are we special?'). It does not repeat the experiments of sci.animals.animal-minds.L3 (mirror and crow tests), sci.animal-behaviour.animal-learning.L3 (copying a puzzle box) or sci.evolution.inheritance.L2 (practice test).
+- Galdikas, B. M. F. (1995). Reflections of Eden: My Years with the Orangutans of Borneo. Little, Brown. She began her orangutan study at Tanjung Puting, Borneo, in 1971 (Orangutan Foundation International; Encyclopaedia Britannica).
 - Davila Ross, M., Owren, M. J. and Zimmermann, E. (2009). Reconstructing the evolution of laughter in great apes and humans. Current Biology 19: 1106-1111.
 - Provine, R. R. (2000). Laughter: A Scientific Investigation. Viking. (Chimpanzee laughter as panting on the breath out and in, human laughter on one breath out.)
 - Darwin, C. (1872). The Expression of the Emotions in Man and Animals. London: John Murray.

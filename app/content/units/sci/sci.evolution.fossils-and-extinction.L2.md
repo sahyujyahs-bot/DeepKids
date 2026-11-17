@@ -36,13 +36,13 @@ When a living being dies, the body usually rots away or is eaten. Sometimes mud 
 **Definition:** Hard parts of a body, like bones, teeth, shells and wood, become fossils far more often than soft parts.
 
 Soft parts rot away quickly or get eaten, by animals and by tiny living beings called bacteria. Hard parts last longer, so mud has time to cover them. In your Print Test, the key and the coin left sharp prints, and the banana and the tomato left blurry dents. So most fossils are bones, teeth and shells. Worms and jellyfish have lived in the sea for hundreds of millions of years, but we have found very few of their fossils.
-- e.g. A shark's skeleton is made of soft cartilage, but its teeth are hard. Fossil shark teeth are common, and whole fossil sharks are rare.
+- e.g. A shark's skeleton is made of soft cartilage, but the teeth are hard. Fossil shark teeth are common, and whole fossil sharks are rare.
 - e.g. An ammonite was a sea animal with a soft body and a coiled shell. We find the shells, and almost never the soft body.
 - e.g. Very rarely, soft bodies are kept too, when they are buried fast in very fine mud. Feathers and skin have been found this way.
 ### Deeper layers are older · *defined*
 **Definition:** When layers pile up one on top of another, the layer at the bottom was laid down first, so it is the oldest.
 
-Mud and sand settle at the bottom of rivers, lakes and seas. Each new layer lies on top of the last one. Over millions of years the layers turn into rock. So the deeper you dig, the further back in time you go, and a deep fossil is usually older than one above it. Your newspaper pile worked the same way: the oldest paper was at the bottom. Sometimes the Earth folds or tips the layers, and then scientists look for other clues.
+Mud and sand settle at the bottom of rivers, lakes and seas. Each new layer lies on top of the last one. Over millions of years the layers turn into rock. So the deeper you dig, the further back in time you go, and a deep fossil is usually older than one above it. The Newspaper Pile activity works the same way: the oldest paper is at the bottom. Sometimes the Earth folds or tips the layers, and then scientists look for other clues.
 - e.g. A pile of old newspapers waiting for the raddi collector has the oldest paper at the bottom.
 - e.g. The striped sides of a quarry show many layers, with the oldest at the bottom.
 - e.g. The Grand Canyon in the United States shows layers of rock almost two kilometres deep.
@@ -58,7 +58,7 @@ About 66 million years ago, the big dinosaurs, the ammonites and many other kind
 - e.g. In 1980, Luis Alvarez, Walter Alvarez, Frank Asaro and the chemist Helen Michel found a thin layer of a rare metal called iridium in rocks of that age. Asteroids have much more iridium than the Earth's crust.
 - e.g. The Deccan Traps are the layers of old lava in western India. The Western Ghats near Mahabaleshwar are made of them.
 - e.g. The asteroid left a crater about 180 kilometres wide, called Chicxulub, now buried under the ground in Mexico.
-- **Most scientists:** The asteroid was the main cause. The iridium layer and the giant crater both date to the very time the dinosaurs vanish.
+- **Most scientists:** The asteroid was the main cause. The iridium layer and the giant crater are both from the very time the dinosaurs vanished.
 - **Gerta Keller, a scientist at Princeton University, and others:** The Deccan volcanoes in India were the main cause. They were already changing the air and the seas before the asteroid came.
 - **Many other scientists:** Both mattered. The volcanoes made life harder, and the asteroid was the final blow.
 ### The animals that came after · *defined*
@@ -75,13 +75,13 @@ Mammals lived alongside the dinosaurs for millions of years. Most were small, ab
 - Birds come from dinosaurs. *How we know:* Fossils from China show small dinosaurs with feathers. Birds and these dinosaurs share many bones, like a wishbone and hollow bones.
 
 ## How we found out
-**Georges Cuvier, a French scientist in Paris (1796); later Mary Anning, a fossil hunter in Lyme Regis, England (early 1800s), Cuvier read his paper on living and fossil elephants in Paris in 1796. Mary Anning made her finds from about 1811 onwards..** Before about 1800, many people in Europe thought no kind of animal could ever die out. When huge bones were dug up, they said the animals must still be alive somewhere far away. Georges Cuvier was a young scientist at the natural history museum in Paris. In 1796, he compared the teeth and jaws of elephants from India and from Africa. He showed that they were two different kinds of elephant. Then he looked at mammoth bones dug up in Siberia, in the far north of Russia. Their teeth were different from both kinds of living elephant. A mammoth was a huge animal. Travellers could not have missed herds of them. So Cuvier said that the mammoth was a kind that had died out for ever. Later, fossil hunters like Mary Anning, a young woman from a poor family in England, found many more animals that no longer lived anywhere. Today we know the last mammoths lived on Wrangel Island, in the Arctic Ocean, until about 4,000 years ago.  
-*What people believed before:* That no kind of animal could ever die out, so huge fossil bones must belong to animals still living somewhere unexplored. Cuvier showed the mammoth was a different kind from any living elephant, and far too big to stay hidden.
+**Georges Cuvier, a French scientist in Paris (1796); later Mary Anning, a fossil hunter in Lyme Regis, England (early 1800s), Cuvier read his paper on living and fossil elephants in Paris in 1796. Mary Anning made her finds from about 1811 onwards..** Before about 1800, many people in Europe thought no kind of animal could ever die out. When huge bones were dug up, they said the animals must still be alive somewhere far away. Georges Cuvier was a young scientist at the natural history museum in Paris. In 1796, he compared the teeth and jaws of elephants from India and from Africa. He showed that they were two different kinds of elephant. Then he looked at mammoth bones dug up in Siberia, in the far north of Russia. Their teeth were different from both kinds of living elephant. A mammoth was a huge animal. Travellers could not have missed herds of them. So Cuvier said that the mammoth was a kind that had died out for ever. Later, fossil hunters like Mary Anning, a young woman from a poor family in England, and her friend Elizabeth Philpot, found many more animals that no longer lived anywhere. Today we know the last mammoths lived on Wrangel Island, in the Arctic Ocean, until about 4,000 years ago.  
+*What people believed before:* The wrong idea was that no kind of animal could ever die out, so huge fossil bones must belong to animals still living somewhere unexplored. Cuvier showed the mammoth was a different kind from any living elephant, and far too big to stay hidden.
 
 ## Challenging perspectives
 - **Dinosaurs were slow, cold, tail-dragging lizards.** (Many scientists, about 100 years ago; *rejected*)  
   For: Dinosaurs are reptiles, and most lizards today are slow when they are cold.  
-  Against: Most dinosaur trackways have no mark of a tail dragging behind. Many dinosaurs walked tall and fast, and some had feathers to keep warm.
+  Against: Most dinosaur trackways, which are lines of footprints in rock, have no mark of a tail dragging behind. Many dinosaurs walked tall and fast, and some had feathers to keep warm.
 - **The dinosaurs were already dying out slowly before the asteroid hit.** (Some scientists; *debated*)  
   For: In some places, fewer kinds of dinosaurs are found in the last few million years before the end.  
   Against: Other scientists say we have found fewer fossils from those years, not fewer dinosaurs. In other places the dinosaurs look healthy right up to the end.
@@ -90,20 +90,20 @@ Mammals lived alongside the dinosaurs for millions of years. Most were small, ab
   Against: Georges Cuvier showed in 1796 that mammoths were a different kind from any living elephant. No one had ever seen one alive. Many kinds are gone, like the dodo of Mauritius.
 
 ## Roots
-We have pressed hard and soft things into dough, and dug down through layers. Now we ask what the rocks tell us about life, and about ourselves.
+In the Print Test we pressed hard and soft things into dough. In the Newspaper Pile we dug down through layers of paper. Now we ask what the rocks tell us about life, and about ourselves.
 
-**Deep truth.** In your dough, the key and the spoon left sharp prints, but the banana left a blurry dent. Rocks keep hard parts much better than soft bodies. Most fossils are bones, teeth, shells and wood. So the story in the rocks leaves out most soft animals, like worms and jellyfish.  
-*Habit it breaks:* We think the fossils show us everything that lived long ago, and that no fossil means no animal. The Print Test shows that rocks keep mostly hard parts, so many soft beings lived and left no trace at all.  
+**Deep truth.** In the Print Test, the key and the spoon left sharp prints in the dough, but the banana left a blurry dent. Rocks work the same way: they keep hard parts much better than soft bodies. Most fossils are bones, teeth, shells and wood. So the story in the rocks leaves out most soft animals, like worms and jellyfish.  
+*Habit it breaks:* It is easy to think that fossils show us everything that lived long ago, and that no fossil means no animal. The Print Test shows that rocks keep mostly hard parts, so many soft beings lived and left no trace at all.  
 *Evidence:* In the Print Test, every hard thing left a clear print, and every soft thing squashed into a blurry mark. Worms and jellyfish have lived for hundreds of millions of years, yet their fossils are very rare.
 
-- *who am i:* You are an animal and a mammal, in a family of life far older than the dinosaurs. Your thumb print in the dough is a trace of you.
+- *who am i:* You are an animal and a mammal, in a family of life far older than the dinosaurs. When you press your thumb into dough, the print is a trace of you.
 - *what is life:* Life keeps changing shape. Kinds of beings appear, live for a long time, and some die out, while others carry on as new kinds.
 - *what is this world:* The ground under your feet was once sea floor and forest. The rocks hold traces of beings who lived there long before us.
 
 Every being in the rocks once lived, sensed the world and made choices, just as the crow at the window does today. When the big dinosaurs died out, small mammals and birds spread into the empty places. Over millions of years, they became many new kinds: elephants, whales, bats and, much later, us. One family of life keeps carrying on in new shapes, even when some of its kinds are lost.
 
 - **Dhammapada 277:** The Buddha taught that everything that is made will change and pass away. Seeing this clearly helps us suffer less. (Kinds of animals pass too. Ammonites and the big dinosaurs lived for millions of years, and then they were gone.)
-- **Udana 6.4, the blind men and the elephant:** Some men who cannot see each touch one part of an elephant. One feels the leg and says an elephant is like a pillar. One feels the ear and says it is like a winnowing basket. Each is sure he is right. (Scientists often find only a few bones of an animal. When Gideon Mantell first drew Iguanodon in the 1800s, he put a spike on the animal's nose. Whole skeletons found later showed it was a thumb spike.)
+- **Udana 6.4, the blind men and the elephant:** A few men who cannot see touch an elephant. Each one touches a different part. One feels the leg and says an elephant is like a pillar. One feels the ear and says it is like a winnowing basket. Each is sure he is right. (Scientists often find only a few bones of an animal. When Gideon Mantell first drew Iguanodon in the 1800s, he put a spike on the animal's nose. Whole skeletons found later showed that the spike belonged on the thumb.)
 - **Rig Veda 10.129.7, the Nasadiya Sukta:** The hymn asks where all of creation came from, and ends: perhaps the one who watches from the highest heaven knows, or perhaps even that one does not know. (Honest not-knowing is part of science too. Nobody knows for sure yet what ended the big dinosaurs.)
 - Science (settled): All living beings today, and those we find as fossils, belong to one family of life with shared ancestors.
 - Science (debated): What ended the big dinosaurs: a giant asteroid, the Deccan volcanoes of India, or both together.
@@ -179,7 +179,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 
 ## Games
 ### g1 · Fossil Clues: what does this fossil tell us? (15 min)
-- **rules:** Shuffle the cards and put them in a pile, words up.; On your turn, take the top card and read it aloud. A grown-up reads it if you cannot.; Say what the fossil tells us about life long ago, and why.; The player next to you turns the card over and reads the back. If your idea matches, you keep the card.; If it does not match, put the card in a middle pile. Read the back aloud so everyone learns it.; The game ends when the pile is gone. The player with the most cards wins. If two players have the same number, they both win.
+- **rules:** Shuffle the cards and put them in a pile, with the answer side face down.; On your turn, take the top card and read it aloud. A grown-up reads it if you cannot.; Say what the fossil tells us about life long ago, and why.; The player next to you turns the card over and reads the back. If your idea matches, you keep the card.; If it does not match, put the card in a middle pile. Read the back aloud so everyone learns it.; The game ends when the pile is gone. The player with the most cards wins. If two players have the same number, they both win.
 - **Printable cards: 12 clue cards to cut out:** A line of footprints in rock, each with three long toes. (back: A dinosaur walked here, over soft mud that later turned to rock.) [picture]; A sea shell inside a rock on a hill, far from the sea. (back: The sea once covered this land.); Big, sharp, curved teeth, with tiny ridges like a saw. (back: The animal ate meat. Sharp teeth cut through flesh.); Flat, wide teeth with rough tops. (back: The animal ate plants. Flat teeth grind up leaves.); Many dinosaur eggs in nests close together, in Gujarat. (back: Many dinosaur mothers laid their eggs in the same place.); A snake curled round a dinosaur egg, found in Gujarat. (back: A snake like this one may have hunted baby dinosaurs. This snake is called Sanajeh.); The print of a leaf, with all its veins, in a dark rock. (back: Plants grew here. The leaf fell into mud before it rotted.); Footprints of the same dinosaur, very far apart. (back: The dinosaur was moving fast. Longer steps mean faster.); A whole tree trunk made of stone, at Sattanur in Tamil Nadu. (back: A forest grew here long ago. Minerals in water slowly turned the wood to stone.); An insect trapped inside a clear yellow lump. (back: Sticky tree resin trapped the insect, then went hard. This is called amber.); Feathers pressed into a rock, next to small dinosaur bones. (back: Some dinosaurs had feathers. Birds come from dinosaurs like these.); A rock with no fossils in it at all. (back: That does not mean nothing lived there. Soft bodies rot away and leave no trace.)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Read the rules aloud. 3. Decide who goes first.  
@@ -189,15 +189,15 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
   *Parent does:* 1. Take turns with the cards. 2. Ask for a reason each time. 3. The next player turns the card over to check.  
   *Parent says:* A sea shell in a rock on a hill. What does that tell us? Why do you think so?  
   *Child mode:* Read the card. Say what it tells us. Say why. Turn it over.
-  - Ask: Why can't we say nothing lived where a rock has no fossils? (good: Soft bodies rot away.; Maybe they were soft, like worms.)
-  - Note: Accept any answer that fits the clue, even if the words differ from the back. The last card, the rock with no fossils, is the hardest. Link it to the Print Test if your child has done it. If you play with one child, you take turns too, and your child reads your backs.
+  - Ask: A rock has no fossils in it. Why can't we be sure that nothing lived there? (good: Soft bodies rot away.; Maybe they were soft, like worms.)
+  - Note: Accept any answer that fits the clue, even if the words differ from the back. The last card, the rock with no fossils, is the hardest. Link it to the Print Test if your child has done it. If you play with one child, you take turns too, and your child reads the back of your cards.
 - **s3 (3 min)**  
   *Parent does:* Count the cards each player kept, then ask the last question.  
   *Parent says:* Count your cards. Which clue was the biggest surprise? Why?  
   *Child mode:* Count your cards. Which clue surprised you most?
   - Check: A fossil shows big, sharp, curved teeth with ridges like a saw. What does it tell us about the animal? → **The animal ate meat**
 ### g2 · Who Lived Through the Big Change? (15 min)
-- **rules:** Put the two mat labels on the floor: Lived through it, and Died out.; Shuffle the animal cards and put them in a pile, words up.; On your turn, take the top card and read it aloud. A grown-up reads it if you cannot.; Say which mat it goes on, and why. Put the card on that mat.; The player next to you turns the card over and reads the back. If you were right, make a tally mark for yourself on the paper.; If you were wrong, move the card to the right mat. Nobody loses a point.; When the pile is gone, the player with the most tally marks wins. Then look at the Lived through it mat. What do those animals have in common?
+- **rules:** Put the two mat labels on the floor: Lived through it, and Died out.; Shuffle the animal cards and put them in a pile, with the answer side face down.; On your turn, take the top card and read it aloud. A grown-up reads it if you cannot.; Say which mat it goes on, and why. Put the card on that mat.; The player next to you turns the card over and reads the back. If you were right, make a tally mark for yourself on the paper.; If you were wrong, move the card to the correct mat. Nobody loses a point.; When the pile is gone, the player with the most tally marks wins. Then look at the Lived through it mat. What do those animals have in common?
 - **Printable cards: 12 animal cards to cut out:** Tyrannosaurus rex. Huge. Ate only meat, and needed a lot of it. (back: Died out. There was not enough food for such a big meat-eater.) [picture]; A tiny furry mammal, about the size of a mouse. Ate insects and seeds. Hid in burrows. (back: Lived through it. Small mammals could hide underground and eat many kinds of food.); A crocodile. Lived in rivers. Could go for months without eating. (back: Lived through it. Crocodiles are still here today.) [picture]; A turtle. Lived in ponds and rivers, and could rest for a long time. (back: Lived through it. Turtles are still here today.) [picture]; A small bird who lived on the ground and ate seeds. (back: Lived through it. Some birds survived, and scientists think they were small ground birds who could eat seeds.); An ammonite. A sea animal with a coiled shell. (back: Died out. Every kind of ammonite was gone.) [picture]; A titanosaur. A long-necked dinosaur, one of the biggest land animals ever. Ate huge amounts of plants. (back: Died out. When the plants died, there was not enough food.); A pterosaur. A flying reptile with skin wings, not a bird. (back: Died out. Every kind of pterosaur was gone.); A frog. Lived in ponds and could hide in the mud. (back: Lived through it. Frogs are still here today.) [picture]; A small snake. Could hide in holes and go a long time without food. (back: Lived through it. Snakes are still here today.) [picture]; A shark. Lived in the sea and ate many kinds of food. (back: Lived through it. Many sharks died, but some kinds lived on.); A mosasaur. A huge sea reptile who hunted big fish and ammonites. (back: Died out. The sea animals they hunted were disappearing.)
 - **Printable board: 2 mat labels to put on the floor:** Lived through it; Died out
 - **s1 (3 min)**  
@@ -246,7 +246,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
   - Ask: What happened to the banana when you pressed it? (good: It squashed flat.; It went mushy and stuck to the dough.)
   - Note: Press each thing the same way, so the test is fair. Pick soft things off with a spoon if they stick.
 - **s5 (4 min)**  
-  *Parent does:* 1. Look at each print together. 2. For each one, write clear, blurry or none in the table. 3. Look at the key print closely for its small lines.  
+  *Parent does:* 1. Look at each print together. 2. For each one, write clear, blurry or none in the table. 3. Look closely at the print of the key for small lines.  
   *Parent says:* Look at each print. Can you see the shape clearly? Can you see any tiny lines? Is it clear, blurry, or nothing at all?  
   *Child mode:* Look at each print. Is it clear, blurry or nothing? Fill in the table.
   - Check: Which row of prints was clearer? → **The hard things**
@@ -265,7 +265,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
   *Parent does:* 1. Stack the newspapers with the oldest at the bottom. 2. Slip the leaf in near the bottom. 3. Put the ticket in the middle and the wrapper near the top, while your child is not looking. 4. Ask your child the question.  
   *Parent says:* This pile grew one paper a day. Which paper do you think is the oldest, the top one or the bottom one? Why?  
   *Child mode:* This pile grew one paper each day. Is the oldest one at the top or the bottom? Why?
-  - Note: If your pile has been mixed up, sort the papers by date first, with the newest on top. The activity only works if the pile grew in order. Pretend that each paper came on a different day, and that the three small things fell into the pile on the days they were put in.
+  - Note: If your pile has been mixed up, sort the papers by date first, with the newest on top. The activity only works if the pile grew in order. Pretend that each paper came on a different day, and that the leaf, the ticket and the wrapper each fell onto the pile on a different day, as the pile grew.
 - **s2 (7 min)**  
   *Parent does:* 1. Your child lifts off one paper at a time. 2. Read the date together, and your child writes it on the list. 3. When a buried thing turns up, your child draws a star next to the date of the paper just above it.  
   *Parent says:* Lift off the top paper. What date does it say? Write it down. Now the next one.  
@@ -273,7 +273,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
   - Ask: Are the dates getting older or newer as you dig down? (good: Older. Each paper down is from an earlier day.)
 - **s3 (5 min)**  
   *Parent does:* 1. Look at the list and the stars together. 2. Ask which buried thing is the oldest.  
-  *Parent says:* Look at the dates next to the stars. Which thing is under the oldest papers? That one fell into the pile first. How do you know?  
+  *Parent says:* Look at the dates next to the stars. Which thing was buried under the oldest papers? How do you know that one fell into the pile first?  
   *Child mode:* Which thing was buried first? How do you know?
   - Note: This is how scientists tell which fossils are older. Rock layers pile up like newspapers, with the oldest at the bottom.
   - Check: A scientist finds one fossil deep down and another near the top. Which is usually older? → **The deep one**
@@ -284,7 +284,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the newspaper in two lines and tape the ends. 2. Put the plate of water and the towel at the start of the first line. 3. Ask the question.  
   *Parent says:* When you walk fast, will your footprints be closer together or farther apart than when you walk slowly? Why do you think so?  
-  *Child mode:* Walk slow, then walk fast. Will the prints be closer or farther apart? Why?
+  *Child mode:* Walk slowly, then walk fast. Will the prints be closer or farther apart? Why?
 - **s2 (5 min)**  
   *Parent does:* 1. Your child dips both feet in the water and walks slowly along the first line. 2. Then they dry their feet and stand at the start of the second line. 3. They dip again and walk with big quick steps, without running.  
   *Parent says:* Dip your feet and walk slowly along the paper. Now dry your feet. This time take big, quick steps, but do not run.  
@@ -300,7 +300,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
   *Parent says:* Look at the prints again. What else could a detective tell about you from them?  
   *Child mode:* What else do your footprints tell about you?
   - Ask: What else do your prints show? (good: How big my feet are.; That I have five toes.; That I walk on two legs.)
-  - Note: Footprints are trace fossils. A trace fossil is a mark an animal left, not their body. Dinosaur trackways have been found in many places around the world.
+  - Note: Footprints are trace fossils. A trace fossil is a mark an animal left, not their body. Lines of dinosaur footprints, called trackways, have been found in many places around the world.
 
 ## Projects
 ### p1 · My Fossil Museum: salt dough prints that last (30 min, 3 days)
@@ -316,7 +316,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
   *Child mode:* Turn each one over. Is it getting hard?
   - Wait: Leave the prints to dry for a day
 - **s3 (15 min)**  
-  *Parent does:* 1. Your child writes a label for each print: what made it, and one thing it tells. 2. Set them out on a shelf. 3. Your child shows someone at home round the museum.  
+  *Parent does:* 1. Your child writes a label for each print: what made it, and one thing it tells us. 2. Set them out on a shelf. 3. Your child shows someone at home round the museum.  
   *Parent says:* Write what made each print. Then add one thing a visitor can learn from it. Who will you show round your museum?  
   *Child mode:* Write a label for each fossil. Show someone your museum.
   - Ask: What does your museum visitor learn from one of your prints? (good: The print was made by a shell with ridges, so we can tell what made it.; Hard things make clear prints.)
@@ -332,15 +332,15 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 - **creative:** Let a salt dough print dry hard, then brush a thin coat of school glue over it. Glue dries hard and keeps water out.; Sprinkle a thin layer of dry atta over the dried print to cover it, the way new mud covers a real footprint. Brush it off gently before the water test.; Press the print into thick mud from a plant pot. Dry the mud in the sun. Mud dries hard, like the mud of a real footprint.
 - **s1 (3 min)**  
   *Parent does:* 1. Read the problem aloud. 2. Your child picks two or three materials to try.  
-  *Parent says:* Real footprints in mud lasted millions of years. Can you make a print that is still clear tomorrow, even after some water?  
-  *Child mode:* Make a print that lasts until tomorrow. Even after drops of water.
+  *Parent says:* Real footprints in mud lasted millions of years. Can you make a print that is still clear two days later, even after some water falls on it?  
+  *Child mode:* Make a print that is still clear two days later, even after drops of water fall on it.
 - **s2 (8 min)**  
   *Parent does:* 1. Your child makes the same print in each material. 2. Put them all on a sunny windowsill to dry.  
   *Parent says:* Make the same print in each one, pressed in the same way. Then let them dry.  
   *Child mode:* Make the same print in each one. Let them dry.
 - **s3 (9 min)**  
   *Parent does:* 1. Sprinkle five drops of water on each print. 2. Wait one minute and look. 3. Talk about which lasted best, and why.  
-  *Parent says:* Five drops on each. Now look. Which print is still clear? Why do you think that one lasted?  
+  *Parent says:* Sprinkle five drops of water on each print. Now look. Which print is still clear? Why do you think that one lasted?  
   *Child mode:* Put five drops on each. Which print is still clear? Why?
   - Check: Five drops of water fall on a print that dried hard and on a print left soft and wet. Which is more likely to stay clear? → **The print that dried hard**
   - Wait: Leave the prints for two days
@@ -358,22 +358,22 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
    **Answer:** False. *Why:* False. The big dinosaurs died out about 66 million years ago. The first humans came about 300,000 years ago.
 5. (match) Draw a line from each fossil to what it tells us.  
    **Answer:** A footprint in rock → How the animal walked; A sharp, curved tooth → The animal ate meat; A nest of eggs → How the babies began; A sea shell in a hill → The sea once covered this land. *Why:* Each fossil is a clue. Footprints show how an animal moved, teeth show what they ate, eggs show how babies began, and sea shells show where the sea was.
-6. (write) Say it to a grown-up, who writes it down. In your Print Test, why did the banana slice not leave a sharp print?  
+6. (write) In the Print Test, why did the banana slice not leave a sharp print? Say your answer to a grown-up, who writes it down.  
    **Answer:** The banana is soft. It squashed and spread out when I pressed it, so its edges were not sharp.. *Why:* A strong answer says the banana is soft, so it changed shape when pressed instead of pushing its shape into the dough.
-7. (perspective) Nila, a girl in Class 2, and her brother Ravi are talking about dinosaurs.  
+7. (perspective) Two children are talking about dinosaurs.  
    **Answer:** Both are partly right. The big dinosaurs, like Rajasaurus and the titanosaurs, all died out. But some small feathered dinosaurs lived on, and birds come from them.. *Why:* A strong answer picks a side with a reason, and sees that it depends on what we mean by dinosaurs: the big ones are gone, and the birds are their family.
 8. (label) Here is the side of a hill with three layers of rock. Write 1 on the oldest layer and 3 on the newest layer.  
-   **Answer:** 1 on the bottom layer, 2 on the middle layer and 3 on the top layer.. *Why:* Layers pile up one on top of another, so the bottom one was laid down first and is the oldest. Your newspaper pile showed the same thing.
+   **Answer:** 1 on the bottom layer, 2 on the middle layer and 3 on the top layer.. *Why:* Layers pile up one on top of another, so the bottom one was laid down first and is the oldest. The Newspaper Pile activity shows the same thing: the oldest paper is at the bottom.
 9. (fill) Soft bodies, like a jellyfish, hardly ever become fossils, because they ________ away before mud can cover them.  
    **Answer:** rot. *Why:* Soft bodies rot away or are eaten quickly. Hard parts last long enough to be buried.
-10. (count) Asha, a girl in Class 2, makes a pile of 7 newspapers, one for each day of a week, with the oldest at the bottom. She hides a leaf under the 3rd paper from the top. How many papers are under the leaf?  
+10. (count) A pile has 7 newspapers, one for each day of a week, with the oldest at the bottom. A leaf is hidden under the 3rd paper from the top. How many papers are under the leaf?  
    **Answer:** 4 papers. *Why:* 7 papers in all, and 3 are above the leaf. 7 take away 3 is 4. So 4 papers are under the leaf, and they are older than the leaf's day.
 ### Dinosaurs and After (stretch) (stretch, 10 questions)
 1. (perspective) Scientists still argue about what made the big dinosaurs die out 66 million years ago.  
-   **Answer:** Any side, with a reason. For the asteroid: a giant crater and a layer of iridium date to that very time. For the volcanoes: the Deccan lava poured out around the same time and changed the air. For both: they happened close together.. *Why:* A strong answer picks a side, gives a piece of evidence, and fairly says one point from another side. Nobody knows for sure yet.
+   **Answer:** Any side, with a reason. For the asteroid: a giant crater and a layer of iridium are both from that very time. For the volcanoes: the Deccan lava poured out around the same time and changed the air. For both: they happened close together.. *Why:* A strong answer picks a side, gives a piece of evidence, and fairly says one point from another side. Nobody knows for sure yet.
 2. (order) Put these in order, from longest ago to most recent.  
    **Answer:** ['The first dinosaurs', 'The big dinosaurs die out', 'The last mammoths', 'You are born']. *Why:* The first dinosaurs lived about 230 million years ago. The big ones died out about 66 million years ago. The last mammoths lived about 4,000 years ago. You were born only a few years ago.
-3. (write) Kavya, a girl in Class 2, finds a fossil sea shell in a rock on a hill in Ariyalur, far from the sea. What does this tell her about that place? Say it, and a grown-up writes it down.  
+3. (write) A fossil sea shell is found in a rock on a hill in Ariyalur, far from the sea. What does this tell us about that place? Say it, and a grown-up writes it down.  
    **Answer:** The sea once covered that land, long ago. The shell sank into the mud on the sea floor, and the mud turned to rock.. *Why:* A strong answer says the sea used to be there, and explains how a sea shell came to be inside rock.
 4. (odd) Which one is the odd one out? Elephant, whale, Tyrannosaurus rex, human.  
    Options: Elephant / Whale / Tyrannosaurus rex / Human  
@@ -385,7 +385,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
    **Answer:** Plants once grew here. *Why:* A leaf print is a trace of a plant. The plant lived there long ago, even if the place is dry now.
 7. (truefalse) Every animal who dies becomes a fossil.  
    **Answer:** False. *Why:* False. Most bodies rot or are eaten before mud can cover them. Only a tiny few become fossils, and those are mostly the hard parts.
-8. (write) Anjali, a girl in Class 2, says: 'The dinosaurs died out because they were stupid and slow.' What would you tell her? Say it, and a grown-up writes it down.  
+8. (write) Someone says: 'The dinosaurs died out because they were stupid and slow.' What would you tell them? Say it, and a grown-up writes it down.  
    **Answer:** The dinosaurs lived on Earth for about 165 million years, so they were very good at living. They died out because the world changed suddenly, and many could not find enough food.. *Why:* A strong answer says the dinosaurs did well for a very long time, and that a sudden change, not being slow or stupid, ended the big ones. Many fast and clever animals died too.
 9. (match) Draw a line from each animal to what is true about them.  
    **Answer:** Crow → A bird, from the dinosaur family; Elephant → A mammal, who came after the dinosaurs; Crocodile → A reptile who lived with the dinosaurs and is still here; Ammonite → A sea animal with a shell, now extinct. *Why:* Birds come from dinosaurs. Elephants are mammals who spread after the dinosaurs. Crocodiles lived through the big change. Ammonites died out.
@@ -398,7 +398,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 - **What happened when the asteroid hit** (BBC Earth Science, 4 min) id `DGu6ZPyKyJ0`: Looks at the asteroid and the Deccan volcanoes as causes of the dinosaurs dying out, and shows that scientists still study the cause. *Check:* Found by search: "What Exactly Killed The Dinosaurs? | Earth | BBC Earth Science" by BBC Earth Science, 3 min 55 s. A parent may preview it.
 
 ## Quiz
-1. (mcq) Lakshmi, a girl in Class 2, finds the shape of a leaf in a dark rock. What is it?  
+1. (mcq) You find the shape of a leaf in a dark rock. What is it?  
    Options: A fossil / A drawing / A new leaf  
    **Answer:** A fossil. *Why:* A leaf print kept in rock is a fossil, a trace of a plant from long ago.
 2. (mcq) Which of these is a trace fossil?  
@@ -407,7 +407,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 3. (mcq) Why do we find many fossil bones but very few fossil worms?  
    Options: Worms are soft and rot away / Worms did not live long ago / Worms live only in gardens  
    **Answer:** Worms are soft and rot away. *Why:* Worms have lived for hundreds of millions of years. Their soft bodies rot away before mud can turn to rock round them.
-4. (mcq) In the Print Test, Meena, a girl in Class 2, pressed a key and a tomato into dough. What did she see?  
+4. (mcq) In the Print Test, a key and a tomato were pressed into dough. What prints did they leave?  
    Options: The key left a sharp print, and the tomato left a blurry one / Both left sharp prints / The tomato left the sharpest print  
    **Answer:** The key left a sharp print, and the tomato left a blurry one. *Why:* The key is hard and keeps its shape. The tomato is soft, so it squashes and spreads.
 5. (mcq) In a cliff, a fossil is found in the bottom layer and another in the top layer. Which is older?  
@@ -416,13 +416,13 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 6. (mcq) What does extinct mean?  
    Options: Every last one of that kind has died / The animal is asleep / The animal lives far away  
    **Answer:** Every last one of that kind has died. *Why:* Extinct means that kind of being is gone for ever.
-7. (mcq) About how long ago did the big dinosaurs die out?  
-   Options: About 66 million years ago / About 100 years ago / Last year  
-   **Answer:** About 66 million years ago. *Why:* Fossils of the big dinosaurs stop in rocks about 66 million years old.
+7. (mcq) How do scientists know when the big dinosaurs died out?  
+   Options: Their fossils are not found in rocks younger than a certain age / Someone saw the last one / From old books  
+   **Answer:** Their fossils are not found in rocks younger than a certain age. *Why:* Rocks form in layers, and scientists can tell how old each layer is. Big dinosaur fossils are found in older layers, and not in any layer younger than about 66 million years.
 8. (mcq) Which group spread into many new kinds after the big dinosaurs died out?  
    Options: Mammals, like elephants and whales / Ammonites / Pterosaurs  
    **Answer:** Mammals, like elephants and whales. *Why:* Mammals had been small. After the big dinosaurs were gone, they spread into many new kinds, including humans much later. Ammonites and pterosaurs died out.
-9. (mcq) Farida, a girl in Class 2, says humans are mammals. Is she right?  
+9. (mcq) Are humans mammals?  
    Options: Yes. Humans have hair and feed babies on milk / No. Mammals are only animals with four legs / No. Humans are not animals  
    **Answer:** Yes. Humans have hair and feed babies on milk. *Why:* Humans are animals, and mammals like cows, cats and elephants. We have hair and feed our babies on milk.
 10. (mcq) What do scientists still argue about?  
@@ -464,9 +464,9 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 - Why do palaeontologists never get bored? *There is always a bone to pick.*
 
 ## Connected maths
-- Asha did the Print Test with 8 things. 5 left clear prints, 2 left blurry prints and 1 left almost nothing. How many more clear prints than blurry prints were there? What does this tell you? **3 more clear prints than blurry prints.**. 5 take away 2 is 3. So there were 3 more clear prints. Most of the clear prints came from hard things, which tells us hard things leave better prints. (queues `math.data.sorting-and-tallies.L2`)
+- In a Print Test with 8 things, 5 left clear prints, 2 left blurry prints and 1 left almost nothing. How many more clear prints than blurry prints were there? What does this tell you? **3 more clear prints than blurry prints.**. 5 take away 2 is 3. So there were 3 more clear prints. Most of the clear prints came from hard things, which tells us hard things leave better prints. (queues `math.data.sorting-and-tallies.L2`)
 - A Tyrannosaurus rex was about 12 metres long. A car is about 4 metres long. How many cars, parked nose to tail, would be as long as one Tyrannosaurus rex? **3 cars.**. 4 metres and 4 metres and 4 metres make 12 metres. That is 3 groups of 4. So 3 cars in a row are about as long as one Tyrannosaurus rex. (queues `math.multiplication.equal-groups.L2`)
-- In Footprint Detective, a girl called Revathi took slow steps 2 hand spans apart. Her quick steps were 4 hand spans apart. A scientist finds two lines of prints from the same kind of dinosaur. In one line the gaps are 2 metres, and in the other the gaps are 4 metres. Which dinosaur was moving faster? **The one whose prints were 4 metres apart.**. Revathi's quick steps had the bigger gaps, 4 spans instead of 2. So bigger gaps mean faster. 4 metres is more than 2 metres, so that dinosaur was moving faster. (queues `math.measurement-basics.comparing-and-non-standard.L2`)
+- In Footprint Detective, slow steps were 2 hand spans apart and quick steps were 4 hand spans apart. A scientist finds two lines of prints from the same kind of dinosaur. In one line the gaps are 2 metres. In the other line the gaps are 4 metres. Which dinosaur was moving faster? **The one whose prints were 4 metres apart.**. In Footprint Detective, the quick steps had the bigger gaps, 4 hand spans instead of 2. So bigger gaps mean faster. 4 metres is more than 2 metres, so that dinosaur was moving faster. (queues `math.measurement-basics.comparing-and-non-standard.L2`)
 
 ## Song
 What I Got and What I Learned (sci.evolution.L2): Topic-level song for Evolution L2
@@ -498,6 +498,7 @@ What I Got and What I Learned (sci.evolution.L2): Topic-level song for Evolution
 - ideas/by_topic/evolution-the-tree-of-life.md: the timeline of life (dinosaurs about 230 million years ago, birds from dinosaurs, the dinosaur extinction 66 million years ago, mammals spreading after) shaped the explanation cards and the Who Lived Through the Big Change game. The SCI card on Mary Anning is kept for the level 4 unit, and named here in the how-we-found-out card.
 - No board chapters are listed for this subtopic. The unit follows the covers line: fossils as traces of old life, dinosaurs, and the animals that came after.
 - Cuvier, G. (1796). Mémoire sur les espèces d'éléphans vivantes et fossiles, read at the Institut National, Paris. Showed Indian and African elephants are different species and that the mammoth differs from both.
+- Elizabeth Philpot (1780 to 1857) collected fossils at Lyme Regis with Mary Anning and had her own fossil fish collection, and the fish Eugnathus philpotae was named for her by Louis Agassiz. See Lyme Regis Museum and the Wikipedia article on Elizabeth Philpot.
 - Alvarez, L. W., Alvarez, W., Asaro, F. and Michel, H. V. (1980). Extraterrestrial cause for the Cretaceous-Tertiary extinction. Science 208: 1095 to 1108.
 - Keller, G. and others: work arguing that Deccan Traps volcanism was a main cause of the end-Cretaceous extinction. Schoene, B. and others (2019), Science 363: 862 to 866, dated Deccan eruptions around the boundary.
 - Wilson, J. A., Sereno, P. C., Srivastava, S., Bhatt, D. K., Khosla, A. and Sahni, A. (2003). A new abelisaurid (Dinosauria, Theropoda) from the Lameta Formation of India. Rajasaurus narmadensis.
