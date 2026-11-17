@@ -361,7 +361,7 @@
    "status": "debated",
    "context": "This card is about remedies from Ayurveda, Siddha, Unani and family kitchens. People disagree about how they should be judged.",
    "definition": "An old remedy is a treatment handed down in a medical tradition or a family. Some work, some do nothing and a few do harm. People disagree about how to judge them.",
-   "description": "Some of the best modern medicines began as old remedies. In India, the root of the sarpagandha plant was given for centuries to calm people. In 1931 two Indian doctors, Gananath Sen and Kartick Chandra Bose, reported that it lowered blood pressure. In 1949 Dr Rustom Jal Vakil of Bombay tested the root on patients. A medicine made from the root was soon used across the world. In 1972 Tu Youyou in China found the malaria medicine artemisinin. She had tested a plant named in a book 1,600 years old. In about 1916 Alice Ball, a young chemist in Hawaii, worked on chaulmoogra oil. She changed the oil so that the body could absorb it from an injection. The oil was an old Indian remedy for leprosy, and her method was the best treatment for about twenty years. Other old remedies failed when tested, and bloodletting was one of them. A few do harm. In 2004 a study found lead, mercury or arsenic in one in five Ayurvedic products bought in shops in Boston. So age does not show that a remedy works, and 'natural' does not show that a remedy is safe.",
+   "description": "Some of the best modern medicines began as old remedies. In India, the root of the sarpagandha plant was given for centuries to calm people. In 1931 two Indian doctors, Gananath Sen and Kartick Chandra Bose, reported that it lowered blood pressure. In 1949 Dr Rustom Jal Vakil of Bombay tested the root on patients. A medicine made from the root was soon used across the world. In 1972 Tu Youyou in China found the malaria medicine artemisinin. She had tested a plant named in a book 1,600 years old. In about 1916 Alice Ball, a young chemist in Hawaii, is credited with a way to change chaulmoogra oil so that the body could absorb it from an injection. The oil was an old Indian remedy for leprosy, and her method was used for decades. She died young, and for some years her name was left off the work. Other old remedies failed when tested, and bloodletting was one of them. A few do harm. In 2004 a study found lead, mercury or arsenic in one in five Ayurvedic products bought in shops in Boston. So age does not show that a remedy works, and 'natural' does not show that a remedy is safe.",
    "examples": [
     "Sarpagandha root gave the world a medicine for high blood pressure, after it was tested.",
     "Honey eases a child's night cough a little, as a trial in 2007 showed. Honey is never given to a baby under one year.",
@@ -388,7 +388,7 @@
    "status": "idea",
    "context": "This card is about a new field of study. Scientists have watched other animals treat their own illnesses with plants.",
    "definition": "Some animals eat or apply particular plants when they are ill. Scientists call this self-medication. They are still working out how the animals know what to take.",
-   "description": "People are not the only animals who use medicines. In 1987, at Mahale in Tanzania, a chimpanzee named Chausiku was ill, with a bad stomach and little strength. She chewed the bitter pith of a shrub that chimpanzees normally avoid, and she swallowed only the juice. A day later she was eating and travelling again. Mohamedi Seifu Kalunde, a Tanzanian ranger and healer, was watching with the scientist Michael Huffman. He recognised the shrub at once. His own people use it for stomach trouble and worms. In 2022, in Sumatra, an orangutan named Rakus had a deep wound on his cheek. He chewed the leaves of a climbing plant. He put the juice and the mash on the wound, again and again. The wound closed in five days. People in that region use the same plant as a medicine. Woolly bear caterpillars with parasites inside them eat more of certain bitter leaves, and more of them survive. Scientists agree on what these animals did. They still argue about how the animals know what to take.",
+   "description": "People are not the only animals who use medicines. In 1987, at Mahale in Tanzania, a chimpanzee named Chausiku was ill, with a bad stomach and little strength. She chewed the bitter pith of a shrub that chimpanzees normally avoid, and she swallowed only the juice. A day later she was eating and travelling again. Mohamedi Seifu Kalunde, a Tanzanian park worker, was watching with the scientist Michael Huffman. He knew the shrub as a strong medicine. In 2022, in Sumatra, an orangutan named Rakus had a deep wound on his face. He chewed the leaves of a climbing plant. He put the juice and then the mash on the wound. The wound closed in about a week. People in Southeast Asia use the same plant as a traditional medicine. Woolly bear caterpillars with parasites inside them eat more of certain bitter leaves, and more of them survive. Scientists agree on what these animals did. They still argue about how the animals know what to take.",
    "examples": [
     "Chausiku the chimpanzee chewed a bitter pith when she had a stomach illness.",
     "Rakus the orangutan put chewed leaves on his own wound.",
@@ -404,7 +404,7 @@
      "explanation": "For caterpillars and many insects, the taste for bitter leaves when ill is probably inherited, and no learning is needed. For apes there are still only a few clear cases, so more watching is needed before anyone can be sure."
     }
    ],
-   "art": "An orangutan with a small wound on his cheek chewing a green leaf, sitting high in a rainforest tree."
+   "art": "An orangutan with a small wound on his face chewing a green leaf, sitting high in a rainforest tree."
   },
   {
    "concept": "Protection: stopping a disease before it starts",
@@ -446,7 +446,7 @@
   },
   {
    "text": "A deficiency disease is cured by the missing nutrient, and no germ-killing medicine helps.",
-   "evidence": "In 1897 Adolphe Vorderman compared the prisons of Java. Where prisoners ate polished white rice, about 1 in 39 had beriberi. Where they ate brown rice, about 1 in 10,000 had it."
+   "evidence": "In 1897 Adolphe Vorderman compared the prisons of Java. Where prisoners ate mostly polished white rice, beriberi was common. Where they ate brown rice, it was very rare."
   },
   {
    "text": "Some medicines replace what the body has lost or cannot make, and they save lives without curing the disease.",
@@ -454,7 +454,7 @@
   },
   {
    "text": "The right medicines work as well at home as in a hospital, if they are taken properly.",
-   "evidence": "From 1956, a trial in Madras, now Chennai, studied about 190 tuberculosis patients. Chance sent each one to home treatment or to a year in a sanatorium. After a year, close to nine in ten in both groups were free of active disease."
+   "evidence": "From 1956, a trial in Madras, now Chennai, studied about 190 tuberculosis patients. Chance sent each one to home treatment or to a year in a sanatorium. After a year, the home group had done nearly as well as the sanatorium group."
   },
   {
    "text": "Vaccines and clean water prevent more illness than medicines cure.",
@@ -3340,29 +3340,26 @@
   {
    "title": "How does your body process medicine? - Céline Valéry",
    "channel": "TED-Ed",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "youtube": "uOcpsXMJcJk",
+   "mins": 4,
    "why": "To see a swallowed tablet dissolve, pass into the blood and go round the body. The liver and kidneys then remove it. The Medicine's Journey drawing shows the same path.",
-   "check": "No address yet. This TED-Ed lesson exists under this title, but the address was not confirmed. Check that it shows the liver and the kidneys removing the medicine. Watch it first."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
    "title": "The power of the placebo effect - Emma Bryce",
    "channel": "TED-Ed",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "z03FQGlGgo0",
    "mins": 5,
    "why": "To see how dummy treatments are used in trials, and what they can and cannot change. It follows the Label Test.",
-   "check": "No address yet. This TED-Ed lesson exists under this title, but the address was not confirmed. Check that it says a placebo does not cure diseases. Watch it first."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "How a fair trial of a medicine works: two groups, chance and a dummy",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
+   "title": "What Is a Randomised Clinical Trial? | Clinical Trials | Cancer Research UK",
+   "channel": "Cancer Research UK",
+   "youtube": "fkOCYov1p-o",
+   "mins": 2,
    "why": "To see a real trial with a treated group and a control group, as in the Wilted Stems Trial.",
-   "check": "No address yet. Find a short film from a medical research body, a university or a science museum. Check that it explains chance, the dummy and blind measuring. Watch it first."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -3870,10 +3867,10 @@
  },
  "how_we_found_out": {
   "context": "How did people learn to tell a medicine that works from one that does not? This card tells the true story of a treatment that failed the test, and of the first fair trial.",
-  "story": "For about two thousand years, doctors in Europe and Asia treated fevers by bloodletting. They opened a vein and let out a bowl of blood. Patients often felt calmer afterwards, and most recovered, so nobody doubted the treatment. In 1835 a doctor in Paris, Pierre Louis, did something new. He counted. He compared 77 patients with pneumonia who had been bled early or late in their illness. Those bled early did no better, and more of them died. But Louis could not decide who got which treatment. In 1948 the British scientist Austin Bradford Hill solved that problem. He planned a trial of streptomycin, a new medicine for tuberculosis. Random numbers in sealed envelopes put 107 patients into two groups. After six months, 4 of the 55 patients given streptomycin had died. Of the 52 given bed rest alone, 14 had died. The doctors who read the chest X-rays did not know which group each patient was in. Since then, a new medicine is trusted only after such a trial.",
+  "story": "For about two thousand years, doctors in Europe and Asia treated fevers by bloodletting. They opened a vein and let out a bowl of blood. Patients often felt calmer afterwards, and most recovered, so nobody doubted the treatment. In 1835 a doctor in Paris, Pierre Louis, did something new. He counted. He compared 77 patients with pneumonia who had been bled early or late in their illness. More of those bled early died than of those bled late. But Louis could not decide who got which treatment. In 1948 the British scientist Austin Bradford Hill solved that problem. He planned a trial of streptomycin, a new medicine for tuberculosis. Random numbers in sealed envelopes put 107 patients into two groups. After six months, 4 of the 55 patients given streptomycin had died. Of the 52 given bed rest alone, about 14 had died. The doctors who read the chest X-rays did not know which group each patient was in. Since then, a new medicine is trusted only after such a trial.",
   "who": "Pierre Louis, a doctor in Paris. Austin Bradford Hill, a British scientist of statistics, with the doctors Marc Daniels and Philip D'Arcy Hart.",
   "when": "Louis published his counts in 1835. The streptomycin trial was published in October 1948.",
-  "wrong_idea": "That bloodletting cures fevers, because patients who were bled usually recovered. They recovered in spite of it. Louis's counts showed no benefit, and the 1948 trial showed how to test any treatment fairly: two groups, chosen by chance, counted by people who do not know the groups.",
+  "wrong_idea": "That bloodletting cures fevers, because patients who were bled usually recovered. They recovered in spite of it. Louis's counts showed no clear benefit, and the 1948 trial showed how to test any treatment fairly: two groups, chosen by chance, counted by people who do not know the groups.",
   "art": "A doctor in an 1830s coat sitting at a desk covered with patient notes, drawing up two long columns of tally marks by lamplight."
  },
  "roots": {
@@ -3893,7 +3890,7 @@
    {
     "source": "Tirukkural 948, by Thiruvalluvar, in the chapter on medicine",
     "teaching": "Find out the disease. Find out its root cause. Find out the way to remove it. Then act in the way that fits.",
-    "link": "This couplet is the first rule of this unit, written in Tamil nearly two thousand years ago. Five tired people had five causes, and each needed a different answer."
+    "link": "This couplet is the first rule of this unit, written in Tamil more than 1,500 years ago. Five tired people had five causes, and each needed a different answer."
    },
    {
     "source": "Charaka Samhita, Sutra Sthana, chapter 9",
@@ -3941,5 +3938,5 @@
   ],
   "art": "A child sitting on a step touching an old scar on her knee, with a potted plant beside her showing one healed, calloused leaf edge."
  },
- "playtest": "The experiments, activities and games were reasoned through step by step, as a family in a flat would do them. They have not yet been tried at home. No part uses a real medicine. Tea, rajma seeds and a made-up label stand in for medicines. Every part says that only a grown-up gives a medicine, as a doctor says. The Half-Glass Test (core) needs four matching clear glasses and strong black tea. The amounts of tea are worked out by halving, and the colours should follow them. The colours of 1, 2 and 4 teaspoons differ clearly on white paper only if the tea is strong. The first step says how to check this. The pour removes half all at once, and a body removes a medicine little by little. So the glass is a model. The Wilted Stems Trial (core) needs fresh coriander and about three hours in all, most of it waiting. Limp stems usually stand up again in water within one to two hours, in sugar water and plain water alike. Stems that have dried crisp do not recover, and the steps say what to do then. With six stems in a glass, a difference of one stem is luck. The Label Test needs at least four willing tasters, and they must be told the truth afterwards. In some homes the label makes no difference, and the step says that this is a real result. In the Potato's New Skin, the cut face usually turns dry and tough in two days in open air. In very damp weather mould may grow instead, and the step says to try again in a drier place. Both card games were checked: Find the Cause has 16 cards for five mats. Tale, Hint or Trial has six cards for each of three mats. The Lid a Toddler Cannot Open must never be tested on a real toddler. Plan a Fair Trial of a Kashaya is a plan on paper only. Facts to treat with care, since they were written from memory of the sources and not opened: the counts of the 1948 streptomycin trial, the Madras tuberculosis trial and the Rotavac trial. The same is true of Vorderman's prison figures and Pierre Louis's 77 patients. It is also true of the dates and names for sarpagandha and Alice Ball. The details of Chausiku the chimpanzee and Rakus the orangutan need the same check. The health rules are general. A doctor who knows the child knows best. The Tirukkural couplet and the passages from Charaka and the Hippocratic writings are paraphrased. The three videos have no address yet."
+ "playtest": "The experiments, activities and games were reasoned through step by step, as a family in a flat would do them. They have not yet been tried at home. No part uses a real medicine. Tea, rajma seeds and a made-up label stand in for medicines. Every part says that only a grown-up gives a medicine, as a doctor says. The Half-Glass Test (core) needs four matching clear glasses and strong black tea. The amounts of tea are worked out by halving, and the colours should follow them. The colours of 1, 2 and 4 teaspoons differ clearly on white paper only if the tea is strong. The first step says how to check this. The pour removes half all at once, and a body removes a medicine little by little. So the glass is a model. The Wilted Stems Trial (core) needs fresh coriander and about three hours in all, most of it waiting. Limp stems usually stand up again in water within one to two hours, in sugar water and plain water alike. Stems that have dried crisp do not recover, and the steps say what to do then. With six stems in a glass, a difference of one stem is luck. The Label Test needs at least four willing tasters, and they must be told the truth afterwards. In some homes the label makes no difference, and the step says that this is a real result. In the Potato's New Skin, the cut face usually turns dry and tough in two days in open air. In very damp weather mould may grow instead, and the step says to try again in a drier place. Both card games were checked: Find the Cause has 16 cards for five mats. Tale, Hint or Trial has six cards for each of three mats. The Lid a Toddler Cannot Open must never be tested on a real toddler. Plan a Fair Trial of a Kashaya is a plan on paper only. Facts checked on 17 Nov 2026 against published sources: the 1948 streptomycin trial (107 patients, 55 and 52), Rotavac (6,799 babies, Delhi, Pune, Vellore), the Madras trial (193 patients), Pierre Louis (77 patients), Sen and Bose 1931, Vakil 1949, Tu Youyou 1972, insulin in 1922, Chausiku in 1987, Rakus in 2022, and the placebo papers. Softened: the control deaths in 1948 (sources give 14 or 15), the Madras result, Vorderman's prison figures (exact ratios removed), Alice Ball's credit, and details of Kalunde and Rakus. Not re-checked: the Tirukkural, Charaka and Hippocratic passages are paraphrased. The health rules are general. A doctor who knows the child knows best. The three videos have no address yet."
 }
