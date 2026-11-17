@@ -25,7 +25,7 @@
 ### What our environment is · *defined*
 **Definition:** Our environment is everything around us. It has living parts and non-living parts.
 
-The living parts are plants, animals, fungi and tiny microbes. People are animals too, so we are part of it. The non-living parts are air, water, soil, rock and sunlight. Every being needs the others to live.
+The living parts are plants, animals, fungi and microbes, which are living things too small to see. People are animals too, so we are part of it. The non-living parts are air, water, soil, rock and sunlight. Every being needs the others to live.
 - e.g. A crow needs trees for a nest and clean water to drink.
 - e.g. A neem tree needs soil, sunlight, rain and air.
 - e.g. You need clean air, clean water and food that grew in soil.
@@ -35,7 +35,7 @@ The living parts are plants, animals, fungi and tiny microbes. People are animal
 Birds get caught in kite string and in loops of plastic. Cows on Indian streets eat plastic bags that have food scraps inside. Vets have taken heaps of plastic out of cows' stomachs. Turtles in the sea can swallow floating bags.
 - e.g. A pigeon with kite string wound round a foot.
 - e.g. A cow eating a plastic bag with vegetable peels inside.
-- e.g. A dog cutting a paw on broken glass.
+- e.g. A turtle swallowing a floating plastic bag.
 ### Why plastic is the most dangerous litter · *defined*
 **Definition:** Plastic stays strong in water and does not rot away quickly. So a plastic loop or string can trap an animal for a long time.
 
@@ -44,7 +44,7 @@ Water makes paper soft and weak, so a wet paper loop tears. Plastic does not soa
 - e.g. Cotton kite string breaks more easily than nylon string, which is a plastic.
 - e.g. A plastic bag can float in a lake for years.
 ### How long plastic lasts · *debated*
-Everyone agrees that most plastic lasts much longer than paper, cloth or peels. But nobody has watched a plastic bag for hundreds of years, because plastic bags are only about 60 years old. So the numbers are careful guesses.
+Everyone agrees that most plastic lasts much longer than paper, cloth or peels. But nobody has watched a plastic bag for hundreds of years, because plastic bags have only been around for about 60 years. So the numbers are careful guesses.
 - e.g. A plastic bag left in sunlight cracks into small bits, but the bits stay.
 - e.g. A plastic bottle in the sea can last a very long time.
 - **Many scientists:** Plastic breaks into tiny pieces in sunlight and waves, and those pieces may last hundreds of years.
@@ -66,7 +66,7 @@ In 1974, Gaura Devi and the women of Reni village hugged the trees so that logge
 
 ## Mostly agreed
 - Litter harms many animals, by trapping them or when they eat it. *How we know:* Vets and bird rescuers in India treat birds cut by kite string and cows sick from eating plastic bags. Scientists find plastic in the stomachs of many sea birds and turtles.
-- Plastic lasts far longer in water and soil than paper, cloth or peels. *How we know:* In your wet loop test, the paper tore and the plastic held. Tests that bury things in soil find peels and paper rotting in weeks, while plastic looks the same.
+- Plastic lasts far longer in water and soil than paper, cloth or peels. *How we know:* In the Wet Loop Test, the wet paper loop tore and the wet plastic loop held. Tests that bury things in soil find peels and paper rotting in weeks, while plastic looks the same.
 - Nylon kite string is dangerous to birds and people. *How we know:* In 2017 India's National Green Tribunal, a court for the environment, banned nylon and other plastic kite string across the country, because it was hurting birds, other animals and people.
 
 ## How we found out
@@ -87,9 +87,9 @@ In 1974, Gaura Devi and the women of Reni village hugged the trees so that logge
 ## Roots
 We have tested which wet loops tear and which hold, and learned how litter traps animals. Now we ask what that tells us about the things we throw away and the beings who meet them.
 
-**Deep truth.** In your bowl, the wet paper loop tore at the first gentle pull. The wet plastic loop only stretched and held. A bird caught in paper can pull free, but not from plastic. So what litter is made of decides how much harm it can do.  
+**Deep truth.** In the Wet Loop Test, the wet paper loop tore at the first gentle pull. The wet plastic loop only stretched and held. A bird caught in a paper loop can pull free. A bird caught in a plastic loop cannot. So what litter is made of decides how much harm it can do.  
 *Habit it breaks:* We think all litter is the same: just mess that looks untidy. But a wrapper, a peel and a rubber band are not the same to the animal who meets them. The material decides whether it rots away, tears, or traps.  
-*Evidence:* In the Wet Loop Test, the dry paper held and the wet paper tore, so the water made it weak. The wet cloth and the wet plastic held for all five pulls. In 2023, scientists found that plastic scarred the stomachs of sea bird chicks, while pumice stones did not.
+*Evidence:* In the Wet Loop Test, the dry paper loop held and the wet paper loop tore, so the water made the paper weak. The wet cloth and the wet plastic held for all five pulls. In 2023, scientists found that plastic scarred the stomachs of sea bird chicks, while the light pumice stones the chicks also swallow did not.
 
 - *who am i:* You are one of the many animals who share this place. What you drop, another animal meets.
 - *what is life:* A pigeon feels the string tighten and pulls to get free. Plants also sense touch, light and harm, and they respond.
@@ -104,7 +104,7 @@ Litter does not stop mattering when it leaves our hand. The litter goes on to me
 - Other view, Some people who study waste: Some people say that one family snipping loops makes only a small difference. Most plastic litter comes from how things are made, packed and sold, and from places with no proper waste collection. They say laws, companies and good city waste systems matter more than one family's habits. Others reply that families, villages and laws work best together.
 - Practice, Feel the Loop (3 min): Put a rubber band loosely round two of your fingers. Close your eyes. Breathe in slowly, and out slowly, three times. Now gently spread your fingers. Feel the band hold them. Think of a bird who feels this round their foot. Now take the band off and snip it open. How does the strip feel now?
 - Ask: When you throw something away, who do you think meets it next?
-- Ask: Does a cow searching a rubbish heap know which things are safe to eat?
+- Ask: A cow on a rubbish heap smells food scraps inside a plastic bag. Can she tell that the bag is not safe to eat?
 - Ask: Who does a lake belong to?
 
 ## Deep and big questions
@@ -181,7 +181,7 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
   *Child mode:* Lay out the sorting cards. Mix the litter cards.
 - **s2 (8 min)**  
   *Parent does:* Take turns turning over a card, sorting it and reading the back.  
-  *Parent says:* Why do you think this one is a trap? Let's check the back.  
+  *Parent says:* Why did you put the card there? Now let's read the back and check.  
   *Child mode:* Take turns. Sort each card and say why. Check the back.
   - Check: A rubber band is lying on the road. How could the rubber band harm a bird? → **The band could close round the bird's foot and trap the bird**
 - **s3 (2 min)**  
@@ -189,7 +189,7 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
   *Parent says:* How can we stop the trap cards from trapping anyone?  
   *Child mode:* Count your cards. Say one way to stop each harm.
 ### g2 · Clean Lake: a team board game (15 min)
-- **rules:** Put one litter token on each of the 10 spots. Put the raincloud token on rain step 1.; Mix the action cards and put them face down in a pile.; Take turns. Turn over one action card and read both sides aloud. Do what the back says. If it says to take litter tokens, you choose which ones. If fewer are left, take what is left.; Put the used card face up beside the pile. When the pile is gone, shuffle the used cards and make a new pile.; Say which animal near the lake you helped, or who is now in danger. When you take a litter token, name an animal that litter could have harmed.; If all 10 litter tokens are gone before the raincloud reaches rain step 8, the team wins.; If the raincloud reaches rain step 8 first, the rain washes more litter in and the team loses. Talk about what could stop it, then play again.
+- **rules:** Put one litter token on each of the 10 spots. Put the raincloud token on rain step 1.; Mix the action cards and put them face down in a pile.; Take turns. Turn over one action card and read both sides aloud. Do what the back says. If it says to take litter tokens, you choose which ones. If fewer are left, take what is left.; Put the used card face up beside the pile. When the pile is gone, shuffle the used cards and make a new pile.; After each card, say who it helped or hurt. If you took a litter token, name an animal that litter could have harmed. If the raincloud moved, name an animal near the lake who is now in danger.; If all 10 litter tokens are gone before the raincloud reaches rain step 8, the team wins.; If the raincloud reaches rain step 8 first, the rain washes more litter in and the team loses. Talk about what could stop it, then play again.
 - **Printable board: The lake board: a lake with 10 litter spots and a rain track of 8 steps:** Spot 1: kite string on a reed; Spot 2: a plastic bag in the water; Spot 3: a fishing net near the bank; Spot 4: a bottle cap on the mud; Spot 5: a chips packet by a duck; Spot 6: a rubber band near a frog; Spot 7: a plastic straw in the lotus leaves; Spot 8: a broken bottle on the path; Spot 9: a mask with loops on a bush; Spot 10: a milk packet floating; Rain step 1: a small cloud (the raincloud starts here); Rain step 2: a grey cloud; Rain step 3: a darker cloud; Rain step 4: a cloud with a few drops; Rain step 5: light rain; Rain step 6: heavy rain; Rain step 7: thunder; Rain step 8: a big storm cloud
 - **Printable tokens: 10 litter tokens and 1 raincloud token to cut out:** kite string; plastic bag; fishing net; bottle cap; chips packet; rubber band; plastic straw; broken bottle; mask; milk packet; raincloud
 - **Printable cards: 10 action cards to cut out:** A family picks up litter (back: Take 2 litter tokens off the lake.); Someone drops a wrapper (back: Move the raincloud 1 step along the rain track.); Neighbours snip their loops (back: Take 1 litter token off the lake.); A cloth bag for shopping (back: Take 1 litter token off the lake.); A drain full of plastic (back: Move the raincloud 2 steps along the rain track.); A school clean-up day (back: Take 3 litter tokens off the lake.); Kites flown with nylon string (back: Move the raincloud 1 step along the rain track.); Bins with lids by the lake (back: Take 1 litter token off the lake.); Waste thrown in the lake (back: Move the raincloud 2 steps along the rain track.); Cotton string for kites (back: Take 1 litter token off the lake.)
@@ -199,7 +199,7 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
   *Child mode:* Set up the lake. Put a litter token on every spot.
 - **s2 (10 min)**  
   *Parent does:* Take turns turning over cards and doing what they say.  
-  *Parent says:* Which animal did you just help? Who could that bag have harmed?  
+  *Parent says:* Which animal did you just help? Who could that piece of litter have harmed?  
   *Child mode:* Take turns with the action cards. Name each animal you help.
   - Check: Why does the rain bring more litter into the lake? → **Rain washes litter from the roads and drains into the lake**
 - **s3 (2 min)**  
@@ -209,6 +209,7 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 
 ## Experiments
 ### e1 · The Wet Loop Test: which litter could a bird pull free from? (27 min)
+- **problem:** Litter can trap an animal when it forms a loop or a long string that the animal cannot break. In this test you make loops from paper, cloth and plastic and soak them in water. Then you pull each one gently. You find out which loops a bird could break, and which loops a bird could not break.
 - **question:** After a soak in water, which loops tear when you pull them gently: paper, cloth or plastic? Which loops stay whole?
 - **predict:** Guess first. Which wet loop will tear: paper, cloth or plastic? Which will stay whole? Why do you think so?
 - **fair test:** Every strip is the same size: two fingers wide and as long as a school ruler. Every wet loop soaks for the same 10 minutes. You pull every loop the same gentle way, up to 5 pulls. We also keep one dry paper loop, so we can see what the water did to the paper.
@@ -238,12 +239,13 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
   *Child mode:* Hook a loop over your fingers. Pull gently. Count each pull.
   - Note: The wet paper usually tears at the first or second pull. The dry paper, the cloth and the plastic usually hold for all 5 pulls. The plastic stretches and goes thin, but stays whole. If the plastic pinches, stop.
 - **s5 (4 min)**  
-  *Parent does:* Fill in the table together. Ask your child three things: what they think, what they saw, and why.  
+  *Parent does:* Fill in the table together. Then ask your child what they found, and why they think it happened.  
   *Parent says:* Which loop tore? Which loops stayed whole? Look at the two paper loops. What did the water do to the paper?  
   *Child mode:* Look at your table. What did you find? Why?
   - Check: Which wet loop tore when you pulled it? → **The paper loop**
   - Think: A pigeon gets a foot caught in a wet plastic loop in a puddle. Can she pull free?
 ### e2 · Bag in the Bucket: does a floating plastic bag look like a living animal? (15 min)
+- **problem:** Some sea turtles eat jellyfish. Jellyfish are soft, pale animals that drift in the sea. A thin plastic bag in water can puff open and drift in the same way. In this test you look at how a bag moves in water. Then you can see why a hungry turtle might mistake a bag for food.
 - **question:** In water, does a thin plastic bag look and move like a floating jellyfish? Do paper and cloth look like that too?
 - **predict:** Guess first. Which one will look most like a floating jellyfish: the plastic bag, the paper or the cloth? Why do you think so?
 - **fair test:** Each thing goes into the same bucket of water. You stir the water the same way, three slow turns with a spoon. You watch each one from the side for the same time, one minute.
@@ -252,7 +254,7 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 - **results table:** Thing in the water | My guess: looks like a jellyfish? | Does it float, sink or drift? | Does it look like a jellyfish? Draw it.
 - **s1 (3 min)**  
   *Parent does:* Show a picture of a jellyfish, or draw one: a round soft dome with long thin arms hanging down. Ask for a guess and a reason.  
-  *Parent says:* Some sea turtles eat jellyfish. Which of these three will look most like a jellyfish in water? Why do you think so?  
+  *Parent says:* Some sea turtles eat jellyfish. Which will look most like a jellyfish in water: the plastic bag, the paper or the cloth? Why do you think so?  
   *Child mode:* Look at the jellyfish picture. Guess which thing will look like a jellyfish. Why?
   - Ask: Which one will look like a jellyfish? Why? (good: The plastic bag, because it is thin and see-through.; The cloth, because it is white and soft.)
 - **s2 (9 min)**  
@@ -268,6 +270,7 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 
 ## Activities
 ### a1 · Loop Hunt: find the traps in our dry waste (15 min)
+- **problem:** A loop of rubber, string or plastic can close round a bird's foot or a dog's nose and trap them. In this activity you look through one day's dry waste for loops. Then you snip each loop open, so it becomes a strip that cannot trap anyone.
 - **safety:** Use only clean, dry waste. Leave out anything sharp, such as broken glass or tins. Wash hands with soap after. A grown-up snips any used mask.
 - **record:** Make a tally mark for each loop you find and snip.
 - **s1 (5 min)**  
@@ -286,13 +289,13 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
   *Child mode:* Count your marks. Put the waste back in the dry bin.
 ### a2 · Spot the Care: three places near home (15 min)
 - **safety:** Look at litter, but do not touch it. Stay with a grown-up outside.
-- **record:** Draw a table with three rows: the place, a smiling or sad face, and one way to make it better.
+- **record:** Draw a table with one row for each of the three places. In each row, write the place, draw a smiling or sad face, and write one way to make the place better.
 - **s1 (3 min)**  
   *Parent does:* Choose three places, such as the parking area, the street and a garden or the building's entrance.  
   *Parent says:* Before we look, guess. Which place will be the cleanest? Why do you think so?  
   *Child mode:* Choose three places. Guess which one is cared for best.
 - **s2 (9 min) · grown-up needed**  
-  *Parent does:* Look at each place for 2 or 3 minutes. Your child looks for litter, plants and animals, and draws a face.  
+  *Parent does:* Look at each place for 2 or 3 minutes. Your child looks for litter, plants and animals, and draws a smiling or sad face for the place.  
   *Parent says:* Is there litter here? Is there anything that could trap an animal? Do any plants or animals live here?  
   *Child mode:* Look at each place. Is there litter? Are there plants and animals?
 - **s3 (3 min)**  
@@ -310,7 +313,7 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
   - Note: Do not reach over the edge or into trees. If you see a trapped bird, call a vet or an animal rescue group.
 - **s2 (5 min)**  
   *Parent does:* Count the sticks together. Put the string in a bag in the dry waste.  
-  *Parent says:* How many sticks did we fill? Where could this string have ended up?  
+  *Parent says:* How many sticks did we fill? What could this string have done to a bird if we had left the string here?  
   *Child mode:* Count your sticks. Put the string in the dry waste.
 
 ## Projects
@@ -341,7 +344,7 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 - **creative:** Fly kites in the middle of the day. Bird groups ask people to avoid early morning and evening, when many birds fly to and from their roosts.; Make a string collection box for the whole building.; Make a poster with the phone number of a nearby bird rescue group.
 - **s1 (5 min)**  
   *Parent does:* Read the problem aloud. List together what can hurt birds on a kite day.  
-  *Parent says:* What can hurt a bird on a kite day? Think of the pigeon in the story.  
+  *Parent says:* What can hurt a bird on a kite day? Think of the pigeon in the story The String on the Balcony, whose foot was caught in kite string.  
   *Child mode:* Read the problem. What hurts birds on a kite day?
   - Ask: What hurts birds on a kite day? (good: Strong string they cannot break.; String left in trees and on roofs.; Flying kites when birds are flying.)
 - **s2 (15 min)**  
@@ -349,7 +352,7 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
   *Parent says:* What string will you use? When will you fly? What will you do when you finish?  
   *Child mode:* Draw your plan. Show the string, the time and what you do after.
 - **s3 (5 min)**  
-  *Parent does:* Check the plan against the list. Ask the your-turn question.  
+  *Parent does:* Check the plan against the list. Then ask your child what else could make the kite day safe for birds.  
   *Parent says:* Does your plan stop every danger on our list? What else could you add?  
   *Child mode:* Check your plan. Add one idea of your own.
   - Check: Which kite string is safest for birds? → **Plain cotton string**
@@ -368,16 +371,16 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
    **Answer:** A neem tree → Living; A crow → Living; You → Living; Rain water → Non-living; Soil → Non-living; Sunlight → Non-living. *Why:* Trees, crows and people grow, feed and have young. Water, soil and sunlight are not alive, but every living being needs them.
 6. (write) Say it to a grown-up, who writes it down: why is a plastic loop more dangerous to a bird than a paper loop?  
    **Answer:** Plastic stays strong when wet, so a bird cannot break free. Paper tears when wet, so a bird could break free.. *Why:* A strong answer uses the wet loop test as evidence.
-7. (count) Priya, a girl in Class 2, found these in her family's dry waste: 3 rubber bands, 2 masks with 2 loops each, and 1 packet with no loops. How many loops did she need to snip?  
+7. (count) A family's dry waste has 3 rubber bands, 2 masks with 2 loops each, and 1 packet with no loops. How many loops need to be snipped?  
    **Answer:** 7. *Why:* 3 rubber bands make 3 loops. 2 masks with 2 loops each make 4 loops. 3 + 4 = 7. The packet has no loops.
 8. (fill) To keep birds safe, we ___ every loop open before it goes in the bin.  
    **Answer:** snip. *Why:* A snipped loop becomes a strip, which cannot close round a foot or a neck.
 9. (perspective) Two friends in Chennai are going shopping for vegetables.  
-   **Answer:** Either side, with a reason. Divya is right that paper rots away and tears when wet, so an animal is less likely to get trapped. Ammu is right that a bag used many times makes the least waste.. *Why:* A strong answer gives a reason from the unit for one side, and fairly says what the other side has right.
+   **Answer:** Either side, with a reason. The first child is right that paper rots away and tears when wet, so an animal is less likely to get trapped. The second child is right that a bag used many times makes the least waste.. *Why:* A strong answer gives a reason from the unit for one side, and fairly says what the other side has right.
 10. (label) Look at the picture of a balcony. Label two things that could harm a bird, and one thing that helps a bird.  
    **Answer:** Harm: kite string on the railing, a rubber band on the floor. Help: a bowl of clean water.. *Why:* A strong answer finds the loops or strings as traps and the water bowl as care.
 ### Caring for our environment (stretch) (stretch, 10 questions)
-1. (write) Arun, a boy of 5, says, 'The pigeon could break the kite string if she pulled harder.' What would you tell him? Use what you found in the wet loop test.  
+1. (write) Someone says, 'The pigeon could break the kite string if she pulled harder.' What would you tell them? Use what you found in the Wet Loop Test.  
    **Answer:** Nylon string is a plastic. In the test, the plastic loop only stretched and did not tear, even when wet. So pulling harder would not break it, and it could cut her foot.. *Why:* A strong answer uses the plastic loop as evidence, and says that plastic stays strong when wet.
 2. (mcq) In the wet loop test, why did we keep one paper loop dry?  
    Options: To see what the water did to the paper / Because there was not enough water / To have a spare loop  
@@ -389,9 +392,9 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 5. (truefalse) Plastic lasts much longer than paper or banana peels.  
    **Answer:** True. *Why:* True. Paper and peels rot away in weeks or months. Most plastic lasts many years, breaking only into smaller bits.
 6. (perspective) After Sankranti, a family in Ahmedabad talks about kites.  
-   **Answer:** Any view, with a reason. Hetal is right that birds get hurt. The grandmother is right that the festival matters, and that cotton string and picking up help. The rescuer gives facts that help us choose safer ways.. *Why:* A strong answer uses a fact from the unit and is fair to another view.
-7. (write) The women of the Hargila Army are not the government. Say to a grown-up, who writes it down: how can ordinary people still protect animals?  
-   **Answer:** Thousands of village women in Assam guard the nests of the rare stork and look after the nesting trees. People working together can protect animals even without special powers.. *Why:* A strong answer uses the Hargila Army story as evidence.
+   **Answer:** Any view, with a reason. The first child is right that birds get hurt. The grandmother is right that the festival matters, and that cotton string and picking up help. The rescuer gives facts that help us choose safer ways.. *Why:* A strong answer uses a fact from the unit and is fair to another view.
+7. (write) Ordinary people are not the government. Say to a grown-up, who writes it down: how can ordinary people still protect animals?  
+   **Answer:** They can guard nests, look after the trees animals live in, pick up litter, and tell others why the animals matter. Many people working together can protect animals even without special powers.. *Why:* A strong answer gives a real thing people can do, and why it helps the animal.
 8. (label) Label the parts of this lake that are living and the parts that are non-living.  
    **Answer:** Living: fish, ducks, frog, lotus. Non-living: water, mud, stones, sunlight.. *Why:* A strong answer labels at least three of each.
 9. (odd) Which one is the odd one out, and why? Kite string, rubber band, banana peel, mask ear loop.  
@@ -429,12 +432,12 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 8. (mcq) Which bag makes the least litter?  
    Options: A cloth bag used again and again / A new plastic bag each day / A new paper bag each day  
    **Answer:** A cloth bag used again and again. *Why:* A bag used hundreds of times means hundreds fewer bags thrown away.
-9. (mcq) In 1974, what did Gaura Devi and other women of Reni village do?  
-   Options: They held on to the trees so they could not be cut down / They planted rice / They built a dam  
-   **Answer:** They held on to the trees so they could not be cut down. *Why:* This was part of the Chipko movement. 'Chipko' means 'to hug' or 'to stick to'. The loggers went away.
-10. (mcq) Who leads the Hargila Army of women in Assam?  
-   Options: Purnima Devi Barman, a scientist who studies birds / A king / A football team  
-   **Answer:** Purnima Devi Barman, a scientist who studies birds. *Why:* Purnima Devi Barman and thousands of village women protect the nests of the greater adjutant stork, called hargila in Assamese.
+9. (mcq) Village women hear that loggers are coming to cut down their forest. They have no weapons and no power. What could they do that might save the trees?  
+   Options: Hold on to the trees so they cannot be cut down / Plant rice / Build a dam  
+   **Answer:** Hold on to the trees so they cannot be cut down. *Why:* Standing with the trees means the loggers cannot cut them without hurting people. Many people together, peacefully, are hard to ignore. Women in the Himalayas really did this, and it was called Chipko, 'to hug'.
+10. (mcq) A rare stork nests in tall trees near villages. People cut the trees and chase the birds away. What would help the storks most?  
+   Options: Village people guarding the nests and the nesting trees / A king giving an order / A football team playing nearby  
+   **Answer:** Village people guarding the nests and the nesting trees. *Why:* The storks need their nesting trees and peace while they raise their young. People who live nearby can protect both every day.
 11. (truefalse) Nylon kite string is banned in India because it hurts birds and people.  
    **Answer:** True. *Why:* True. In 2017 the National Green Tribunal banned nylon and other plastic kite string across India.
 
@@ -453,7 +456,7 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 - Greater adjutant storks nesting in village trees in Assam, guarded by the Hargila Army.
 
 ## Open questions
-- **How long does a plastic bag really last?** Plastic bags are only about 60 years old, so nobody has watched one for hundreds of years. Scientists make careful guesses, and they do not all agree.
+- **How long does a plastic bag really last?** Plastic bags have only been around for about 60 years, so nobody has watched one for hundreds of years. Scientists make careful guesses, and they do not all agree.
 - **How often do sea turtles mistake plastic bags for jellyfish?** Scientists find plastic in many turtles' stomachs, but they cannot easily watch turtles choosing food in the deep sea.
 - **What do the tiny bits of broken plastic do inside animals, and inside us?** Tiny plastic bits are now found in water, soil, animals and people. Scientists are still finding out how much harm they do.
 
@@ -474,8 +477,8 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 - Why was the dry bin so proud? *Every loop inside had been snipped!*
 
 ## Connected maths
-- Lakshmi, a girl in Class 2, pulled 4 loops in the wet loop test. 1 loop tore. How many loops stayed whole? **3 loops.**. 4 loops take away the 1 that tore leaves 3. 4 - 1 = 3. (queues `math.addition-subtraction.meaning.L2`)
-- In the Loop-Free Week, Kavya, a girl in Class 2, and her family snipped 3 loops on Monday, 5 on Tuesday and 2 on Wednesday. On which day did they snip the most? How many loops in all? **Tuesday. 10 loops in all.**. 5 is the biggest number, so Tuesday. 3 + 5 + 2 = 10. (queues `math.data.sorting-and-tallies.L2`)
+- In the Wet Loop Test, you pull 4 loops. 1 loop tears. How many loops stay whole? **3 loops.**. Start with 4 loops. Take away the 1 loop that tore, and 3 loops are left. 4 - 1 = 3. (queues `math.addition-subtraction.meaning.L2`)
+- In the Loop-Free Week, a family snipped 3 loops on Monday, 5 on Tuesday and 2 on Wednesday. On which day did they snip the most? How many loops did they snip in all? **Tuesday. 10 loops in all.**. 5 is the biggest number, so Tuesday. 3 + 5 + 2 = 10. (queues `math.data.sorting-and-tallies.L2`)
 - In a building, each of 5 homes snips 2 loops a day. How many loops do they snip in one day? **10 loops.**. 5 groups of 2 make 10. 2 + 2 + 2 + 2 + 2 = 10. (queues `math.multiplication.equal-groups.L2`)
 
 ## Song

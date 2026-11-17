@@ -55,7 +55,7 @@ There were many kinds of dinosaurs. Some ate plants, and some ate meat. Titanosa
 - e.g. Sanajeh, a snake found coiled round a dinosaur egg in Gujarat. The fossil was found in 1984 and named in 2010.
 ### What made the big dinosaurs die out · *debated*
 About 66 million years ago, the big dinosaurs, the ammonites and many other kinds of life died out. Scientists agree on that. They still argue about why. A huge asteroid hit the Earth in what is now Mexico. At about the same time, giant volcanoes in western India poured out lava for thousands of years. Their rock still covers much of Maharashtra. Both could have filled the air with dust and gases, made the world dark and cold, and killed plants. Without plants, the plant-eaters starved, and then the meat-eaters.
-- e.g. In 1980, Luis Alvarez, Walter Alvarez, Frank Asaro and the chemist Helen Michel found a thin layer of a rare metal called iridium in rocks of that age. Asteroids have much more iridium than the Earth's crust.
+- e.g. In 1980, Luis Alvarez, Walter Alvarez, Frank Asaro and the chemist Helen Michel found a thin layer of a rare metal called iridium in rocks of that age. Asteroids have much more iridium than the Earth's crust. So the iridium layer was a sign that an asteroid had hit the Earth at that time.
 - e.g. The Deccan Traps are the layers of old lava in western India. The Western Ghats near Mahabaleshwar are made of them.
 - e.g. The asteroid left a crater about 180 kilometres wide, called Chicxulub, now buried under the ground in Mexico.
 - **Most scientists:** The asteroid was the main cause. The iridium layer and the giant crater are both from the very time the dinosaurs vanished.
@@ -70,7 +70,7 @@ Mammals lived alongside the dinosaurs for millions of years. Most were small, ab
 - e.g. Humans are mammals too. We feed babies on milk and have hair, like a cat or a cow.
 
 ## Mostly agreed
-- Fossils are the remains and traces of real beings who lived long ago. *How we know:* Fossil bones have the same shapes as the bones of living animals, and fossil shells match living shells. We can see bone turning to stone, and footprints in rock are the same shape as footprints in mud.
+- Fossils are the remains and traces of real beings who lived long ago. *How we know:* Fossil bones have the same shapes as the bones of living animals, and fossil shells match living shells. Scientists can see how minerals have slowly filled a bone and turned it to stone. And footprints in rock have the same shape as footprints in mud today.
 - The big dinosaurs died out about 66 million years ago, and people came much later. *How we know:* Dinosaur fossils are found only in rock layers older than 66 million years. Human fossils are found only in layers less than about 300,000 years old. No human fossil has ever been found with a big dinosaur.
 - Birds come from dinosaurs. *How we know:* Fossils from China show small dinosaurs with feathers. Birds and these dinosaurs share many bones, like a wishbone and hollow bones.
 
@@ -87,7 +87,7 @@ Mammals lived alongside the dinosaurs for millions of years. Most were small, ab
   Against: Other scientists say we have found fewer fossils from those years, not fewer dinosaurs. In other places the dinosaurs look healthy right up to the end.
 - **A kind of animal can never die out completely.** (Many thinkers in Europe before about 1800; *rejected*)  
   For: They believed nature was complete and perfect, so no kind of being could be lost from it.  
-  Against: Georges Cuvier showed in 1796 that mammoths were a different kind from any living elephant. No one had ever seen one alive. Many kinds are gone, like the dodo of Mauritius.
+  Against: Georges Cuvier showed in 1796 that mammoths were a different kind from any living elephant. No one had ever seen one alive. Many kinds are gone, like the dodo of Mauritius. So a whole kind of animal had been lost.
 
 ## Roots
 In the Print Test we pressed hard and soft things into dough. In the Newspaper Pile we dug down through layers of paper. Now we ask what the rocks tell us about life, and about ourselves.
@@ -103,15 +103,15 @@ In the Print Test we pressed hard and soft things into dough. In the Newspaper P
 Every being in the rocks once lived, sensed the world and made choices, just as the crow at the window does today. When the big dinosaurs died out, small mammals and birds spread into the empty places. Over millions of years, they became many new kinds: elephants, whales, bats and, much later, us. One family of life keeps carrying on in new shapes, even when some of its kinds are lost.
 
 - **Dhammapada 277:** The Buddha taught that everything that is made will change and pass away. Seeing this clearly helps us suffer less. (Kinds of animals pass too. Ammonites and the big dinosaurs lived for millions of years, and then they were gone.)
-- **Udana 6.4, the blind men and the elephant:** A few men who cannot see touch an elephant. Each one touches a different part. One feels the leg and says an elephant is like a pillar. One feels the ear and says it is like a winnowing basket. Each is sure he is right. (Scientists often find only a few bones of an animal. When Gideon Mantell first drew Iguanodon in the 1800s, he put a spike on the animal's nose. Whole skeletons found later showed that the spike belonged on the thumb.)
+- **Udana 6.4, the blind men and the elephant:** A few men who cannot see touch an elephant. Each one touches a different part. One feels the leg and says an elephant is like a pillar. One feels the ear and says it is like a winnowing basket. Each is sure he is right. (Scientists often find only a few bones of an animal. When Gideon Mantell first drew Iguanodon in the 1800s, he put a spike on the animal's nose. Whole skeletons found later showed that the spike belonged on the thumb. Like the men touching the elephant, he judged a whole animal from only one part.)
 - **Rig Veda 10.129.7, the Nasadiya Sukta:** The hymn asks where all of creation came from, and ends: perhaps the one who watches from the highest heaven knows, or perhaps even that one does not know. (Honest not-knowing is part of science too. Nobody knows for sure yet what ended the big dinosaurs.)
 - Science (settled): All living beings today, and those we find as fossils, belong to one family of life with shared ancestors.
 - Science (debated): What ended the big dinosaurs: a giant asteroid, the Deccan volcanoes of India, or both together.
 - Other view, Some people in many faiths: Some people believe the Earth is only a few thousand years old, so fossils cannot be millions of years old. Most scientists disagree, because many kinds of evidence agree that the Earth is very old. It is good to know that people see this differently, and to look at the evidence together.
 - Practice, Thumb Print, Slow Breath (3 min): Take a small piece of dough. Press your thumb into it, and lift it away. Look at the print your thumb left. Now sit still and breathe in slowly while I count to four. Breathe out slowly while I count to four. Do it three times, looking at the print. Your thumb has moved away, but its print is still there. Long ago, a dinosaur's foot pressed into mud just like that.
 - Ask: If a kind of animal died out long ago, but we can hold their bone, are they still part of our world?
-- Ask: Which part of you would you like the rocks to keep? Why?
-- Ask: The ammonites are gone, but the crow is here. What decides who carries on?
+- Ask: Which part of your body would the rocks keep, and which part would they lose? Why?
+- Ask: After the big change, small animals who could hide and eat many foods often lived on. Why would that help them?
 
 ## Deep and big questions
 - *deep:* Most animals who ever lived left no fossil at all. How can we find out about beings who left no trace? (hint: Think about your Print Test. Which things left nothing? What other clues could there be?)
@@ -192,9 +192,9 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
   - Ask: A rock has no fossils in it. Why can't we be sure that nothing lived there? (good: Soft bodies rot away.; Maybe they were soft, like worms.)
   - Note: Accept any answer that fits the clue, even if the words differ from the back. The last card, the rock with no fossils, is the hardest. Link it to the Print Test if your child has done it. If you play with one child, you take turns too, and your child reads the back of your cards.
 - **s3 (3 min)**  
-  *Parent does:* Count the cards each player kept, then ask the last question.  
-  *Parent says:* Count your cards. Which clue was the biggest surprise? Why?  
-  *Child mode:* Count your cards. Which clue surprised you most?
+  *Parent does:* Count the cards each player kept. Then ask your child to pick one clue card and say what the fossil told us.  
+  *Parent says:* Count your cards. Then pick one clue card and tell me, in your own words, what that fossil told us.  
+  *Child mode:* Count your cards. Pick one clue. Say what the fossil told us.
   - Check: A fossil shows big, sharp, curved teeth with ridges like a saw. What does it tell us about the animal? → **The animal ate meat**
 ### g2 · Who Lived Through the Big Change? (15 min)
 - **rules:** Put the two mat labels on the floor: Lived through it, and Died out.; Shuffle the animal cards and put them in a pile, with the answer side face down.; On your turn, take the top card and read it aloud. A grown-up reads it if you cannot.; Say which mat it goes on, and why. Put the card on that mat.; The player next to you turns the card over and reads the back. If you were right, make a tally mark for yourself on the paper.; If you were wrong, move the card to the correct mat. Nobody loses a point.; When the pile is gone, the player with the most tally marks wins. Then look at the Lived through it mat. What do those animals have in common?
@@ -218,6 +218,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 
 ## Experiments
 ### e1 · The Print Test: which things leave a fossil print? (25 min)
+- **problem:** Many fossils begin as a print in mud. In this test you press hard things and soft things into dough, to see which ones leave a clear print. Then you can see why we find so many fossil bones and shells, and so few fossil worms.
 - **question:** When we press hard things and soft things into dough in the same way, which ones leave a clear print?
 - **predict:** Guess first. Which of the eight things will leave the clearest print? Which will leave the worst? Why do you think so?
 - **fair test:** Every thing is pressed into the same dough, rolled to the same thickness. Each one is covered with the same steel plate and pressed for a count of 10. Each is lifted straight up. Only the thing we press changes.
@@ -260,6 +261,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 
 ## Activities
 ### a1 · The Newspaper Pile: dig down through time (15 min)
+- **problem:** Rock forms in layers, with each new layer on top of the older ones. A pile of newspapers grows in the same way, one paper at a time. In this activity you dig down through a pile and read the dates, to see whether deeper means older.
 - **record:** A list of the dates from top to bottom, with a star next to each place you found a buried thing.
 - **s1 (3 min)**  
   *Parent does:* 1. Stack the newspapers with the oldest at the bottom. 2. Slip the leaf in near the bottom. 3. Put the ticket in the middle and the wrapper near the top, while your child is not looking. 4. Ask your child the question.  
@@ -279,6 +281,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
   - Check: A scientist finds one fossil deep down and another near the top. Which is usually older? → **The deep one**
   - Think: Rock layers take thousands of years to pile up. Newspapers take one day each. What else in our home piles up in layers?
 ### a2 · Footprint Detective: what can footprints tell us? (15 min)
+- **problem:** Scientists measure the gaps between dinosaur footprints to work out how fast the dinosaur was moving. In this activity you make your own wet footprints, first walking slowly and then taking quick steps, and you measure the gaps.
 - **safety:** Walk, do not run. Tape the ends of the newspaper so it does not slide on a smooth floor. Dry your feet before stepping off the paper.
 - **record:** Write how many hand spans apart the slow prints were, and how many the quick prints were.
 - **s1 (3 min)**  
@@ -385,7 +388,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
    **Answer:** Plants once grew here. *Why:* A leaf print is a trace of a plant. The plant lived there long ago, even if the place is dry now.
 7. (truefalse) Every animal who dies becomes a fossil.  
    **Answer:** False. *Why:* False. Most bodies rot or are eaten before mud can cover them. Only a tiny few become fossils, and those are mostly the hard parts.
-8. (write) Someone says: 'The dinosaurs died out because they were stupid and slow.' What would you tell them? Say it, and a grown-up writes it down.  
+8. (write) Some people think the dinosaurs died out because they were slow and not clever. Is that why? Say your answer, and a grown-up writes it down.  
    **Answer:** The dinosaurs lived on Earth for about 165 million years, so they were very good at living. They died out because the world changed suddenly, and many could not find enough food.. *Why:* A strong answer says the dinosaurs did well for a very long time, and that a sudden change, not being slow or stupid, ended the big ones. Many fast and clever animals died too.
 9. (match) Draw a line from each animal to what is true about them.  
    **Answer:** Crow → A bird, from the dinosaur family; Elephant → A mammal, who came after the dinosaurs; Crocodile → A reptile who lived with the dinosaurs and is still here; Ammonite → A sea animal with a shell, now extinct. *Why:* Birds come from dinosaurs. Elephants are mammals who spread after the dinosaurs. Crocodiles lived through the big change. Ammonites died out.

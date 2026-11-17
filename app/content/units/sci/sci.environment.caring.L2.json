@@ -82,7 +82,7 @@
    "examples": [
     "A pigeon with kite string wound round a foot.",
     "A cow eating a plastic bag with vegetable peels inside.",
-    "A dog cutting a paw on broken glass."
+    "A turtle swallowing a floating plastic bag."
    ],
    "perspectives": [],
    "art": "Three small pictures: a pigeon caught in string, a cow eating a plastic bag, and a turtle near a floating bag."
@@ -265,6 +265,7 @@
    "mins": 27,
    "days": 1,
    "context": "In this experiment you make loops from paper, cloth and plastic. You soak them in water, like litter in a lake or a puddle. Then you try to pull each loop apart, the way a trapped bird would.",
+   "problem": "Litter can trap an animal when it forms a loop or a long string that the animal cannot break. In this test you make loops from paper, cloth and plastic and soak them in water. Then you pull each one gently. You find out which loops a bird could break, and which loops a bird could not break.",
    "question": "After a soak in water, which loops tear when you pull them gently: paper, cloth or plastic? Which loops stay whole?",
    "predict": "Guess first. Which wet loop will tear: paper, cloth or plastic? Which will stay whole? Why do you think so?",
    "fair_test": "Every strip is the same size: two fingers wide and as long as a school ruler. Every wet loop soaks for the same 10 minutes. You pull every loop the same gentle way, up to 5 pulls. We also keep one dry paper loop, so we can see what the water did to the paper.",
@@ -423,6 +424,7 @@
    "mins": 15,
    "days": 1,
    "context": "Some sea turtles eat jellyfish. Jellyfish are soft, see-through animals who float and drift in the sea. In this experiment you put a thin plastic bag in a bucket of water and watch how it moves. You compare it with paper and cloth.",
+   "problem": "Some sea turtles eat jellyfish. Jellyfish are soft, pale animals that drift in the sea. A thin plastic bag in water can puff open and drift in the same way. In this test you look at how a bag moves in water. Then you can see why a hungry turtle might mistake a bag for food.",
    "question": "In water, does a thin plastic bag look and move like a floating jellyfish? Do paper and cloth look like that too?",
    "predict": "Guess first. Which one will look most like a floating jellyfish: the plastic bag, the paper or the cloth? Why do you think so?",
    "fair_test": "Each thing goes into the same bucket of water. You stir the water the same way, three slow turns with a spoon. You watch each one from the side for the same time, one minute.",
@@ -527,6 +529,7 @@
    "mins": 15,
    "days": 1,
    "context": "In this activity you look through one day's dry waste for loops and strings that could trap an animal. Then you snip each loop open.",
+   "problem": "A loop of rubber, string or plastic can close round a bird's foot or a dog's nose and trap them. In this activity you look through one day's dry waste for loops. Then you snip each loop open, so it becomes a strip that cannot trap anyone.",
    "materials": [
     {
      "item": "one day's clean dry waste from your home",
@@ -690,7 +693,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Count the sticks together. Put the string in a bag in the dry waste.",
-     "say": "How many sticks did we fill? Where could this string have ended up?",
+     "say": "How many sticks did we fill? What could this string have done to a bird if we had left the string here?",
      "kid": "Count your sticks. Put the string in the dry waste."
     }
    ]
@@ -799,7 +802,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Take turns turning over a card, sorting it and reading the back.",
-     "say": "Why do you think this one is a trap? Let's check the back.",
+     "say": "Why did you put the card there? Now let's read the back and check.",
      "kid": "Take turns. Sort each card and say why. Check the back.",
      "check": {
       "t": "mcq",
@@ -1842,7 +1845,7 @@
   },
   "ask": [
    "When you throw something away, who do you think meets it next?",
-   "Does a cow searching a rubbish heap know which things are safe to eat?",
+   "A cow on a rubbish heap smells food scraps inside a plastic bag. Can she tell that the bag is not safe to eat?",
    "Who does a lake belong to?"
   ],
   "art": "A girl holding a snipped-open rubber band in her palm, with a pigeon on the railing behind her and a faint lake with a turtle and a cow on the road drawn in the distance."

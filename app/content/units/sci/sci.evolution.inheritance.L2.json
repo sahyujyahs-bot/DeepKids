@@ -170,7 +170,7 @@
    "for": "Children of strong, hard-working parents are often strong, and children of musicians are often musical.",
    "against": "Tests found that changes to a parent's body, such as muscles built by hard work, are not passed on. Children of musicians usually grow up hearing music every day, so they learn it at home.",
    "status": "rejected",
-   "context": "This card is about an old idea: that what parents do to their bodies passes to their babies."
+   "context": "This card is about an old idea. The idea is that what parents do to their own bodies is passed on to their babies. For example, a father who builds strong arms by lifting sacks would have babies born with strong arms."
   },
   {
    "claim": "Being left-handed is a bad habit, so children should be made to write with the right hand.",
@@ -383,8 +383,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Count the cards on each mat together and add up the points, then ask the last question.",
-     "say": "Which mat has the most cards? Which player has the most points? Was any card a surprise?",
-     "kid": "Count the cards on each mat. Count your points. Which card surprised you?",
+     "say": "Which mat has the most cards? Which player has the most points? Now pick one card from the Both mat. What part of it comes from genes, and what part from life?",
+     "kid": "Count the cards on each mat. Count your points. Pick one Both card. What comes from genes? What comes from life?",
      "check": {
       "t": "mcq",
       "q": "Which card goes on the Both mat?",
@@ -497,6 +497,7 @@
    "mins": 25,
    "days": 1,
    "context": "In this experiment you practise two things for five minutes. One is throwing paper balls into a bucket. The other is wiggling and stretching your thumb. You measure both before and after, to see what practice changes.",
+   "problem": "A skill is something you can do because you practised it. A feature like the length of your thumb comes from your genes. In this test you practise throwing and stretching your thumb for five minutes. You measure both before and after, to see which one practice can change.",
    "question": "If you practise throwing for five minutes, will more balls land in the bucket? If you practise stretching your thumb, will your thumb get longer?",
    "predict": "Guess first. After five minutes of practice, will more balls go in the bucket? Will your thumb be longer? Why do you think so?",
    "fair_test": "We throw from the same line, at the same bucket, with the same three balls, every round. We count 10 throws in each round, because one throw can be lucky. We measure the thumb with the same strip of paper each time, in the same way.",
@@ -783,9 +784,9 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the last question and let your child think.",
-     "say": "Your list of things you learned is much longer than your list of things you were born able to do. Why do you think that is?",
-     "kid": "Which list is longer? Why?",
-     "parent": "There is no single answer. Human babies are born able to do only a few things, and learn most things later from the people around them."
+     "say": "Your list of things you learned is much longer than your list of things you were born able to do. Where did you learn all those things? Who or what helped you?",
+     "kid": "Which list is longer? Where did you learn all those things?",
+     "parent": "Human babies are born able to do only a few things. They learn most things later, from the people around them and by trying again and again."
     }
    ]
   },
@@ -1124,20 +1125,20 @@
     },
     {
      "t": "perspective",
-     "p": "Mala and her brother the first child listen to their aunt sing Carnatic music.",
+     "p": "Mala and her little brother listen to their aunt sing Carnatic music.",
      "views": [
       {
        "who": "Mala, aged 7",
        "says": "Our aunt sings so well because she practised for years."
       },
       {
-       "who": "The first child, aged 6",
+       "who": "Mala's brother, aged 6",
        "says": "Our aunt was born a singer. It is in her genes."
       }
      ],
      "ask": "Who do you agree with? Say why. Then say one thing the other child might be right about.",
-     "a": "Mala is closer. Nobody is born singing Carnatic music, so the aunt practised a lot. The first child may be a little right: genes can help a voice, but they do not teach a song.",
-     "why": "A strong answer says singing is learned by practice, and is fair to the first child's idea that genes can help."
+     "a": "Mala is closer. Nobody is born singing Carnatic music, so the aunt practised a lot. Mala's brother may be a little right: genes can help a voice, but they do not teach a song.",
+     "why": "A strong answer says singing is learned by practice, and is fair to the idea that genes can help."
     },
     {
      "t": "label",
@@ -1211,10 +1212,10 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and Grace are talking about the first child's uncle. He lifts heavy sacks at the market every day, and his arms are very strong. He and his wife are expecting a baby.",
+     "p": "Grace and her friend talk about the friend's uncle. He lifts heavy sacks at the market every day, and his arms are very strong. He and his wife are expecting a baby.",
      "views": [
       {
-       "who": "The first child, aged 7",
+       "who": "Grace's friend, aged 7",
        "says": "The baby will be born with strong arms, because the baby's father has strong arms."
       },
       {
@@ -1223,8 +1224,8 @@
       }
      ],
      "ask": "Who do you agree with? What test could show who is right?",
-     "a": "Grace is right. Muscles built by work are not passed on at birth. The first child is right that strong parents often have strong children, because genes help shape a body.",
-     "why": "A strong answer picks Grace and is fair to the first child's idea."
+     "a": "Grace is right. Muscles built by work are not passed on at birth. Scientists tested this with mice: August Weismann cut the tails off mice, and their babies were still born with full tails. Grace's friend is right that strong parents often have strong children, because genes help shape a body.",
+     "why": "A strong answer picks Grace and is fair to her friend's idea."
     },
     {
      "t": "draw",
@@ -1458,7 +1459,7 @@
   },
   {
    "q": "Can a parent's life leave small marks that pass to a child?",
-   "why_open": "Genes can be switched on and off. Some scientists think things like hunger in a parent may change these switches in a child. Others say the evidence is weak. It is still argued about."
+   "why_open": "Genes are the body's instructions, and each one can be switched on or off. Some scientists think that things like hunger in a parent may change these switches in a child. Others say the evidence is weak. It is still argued about."
   },
   {
    "q": "Why do young children usually learn a new language more easily than grown-ups?",

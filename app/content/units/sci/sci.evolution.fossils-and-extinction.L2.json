@@ -134,7 +134,7 @@
    "definition": "",
    "description": "About 66 million years ago, the big dinosaurs, the ammonites and many other kinds of life died out. Scientists agree on that. They still argue about why. A huge asteroid hit the Earth in what is now Mexico. At about the same time, giant volcanoes in western India poured out lava for thousands of years. Their rock still covers much of Maharashtra. Both could have filled the air with dust and gases, made the world dark and cold, and killed plants. Without plants, the plant-eaters starved, and then the meat-eaters.",
    "examples": [
-    "In 1980, Luis Alvarez, Walter Alvarez, Frank Asaro and the chemist Helen Michel found a thin layer of a rare metal called iridium in rocks of that age. Asteroids have much more iridium than the Earth's crust.",
+    "In 1980, Luis Alvarez, Walter Alvarez, Frank Asaro and the chemist Helen Michel found a thin layer of a rare metal called iridium in rocks of that age. Asteroids have much more iridium than the Earth's crust. So the iridium layer was a sign that an asteroid had hit the Earth at that time.",
     "The Deccan Traps are the layers of old lava in western India. The Western Ghats near Mahabaleshwar are made of them.",
     "The asteroid left a crater about 180 kilometres wide, called Chicxulub, now buried under the ground in Mexico."
    ],
@@ -173,7 +173,7 @@
  "agreed": [
   {
    "text": "Fossils are the remains and traces of real beings who lived long ago.",
-   "evidence": "Fossil bones have the same shapes as the bones of living animals, and fossil shells match living shells. We can see bone turning to stone, and footprints in rock are the same shape as footprints in mud.",
+   "evidence": "Fossil bones have the same shapes as the bones of living animals, and fossil shells match living shells. Scientists can see how minerals have slowly filled a bone and turned it to stone. And footprints in rock have the same shape as footprints in mud today.",
    "context": "This card is about what scientists agree on: fossils are real traces of old life."
   },
   {
@@ -208,7 +208,7 @@
    "claim": "A kind of animal can never die out completely.",
    "who": "Many thinkers in Europe before about 1800",
    "for": "They believed nature was complete and perfect, so no kind of being could be lost from it.",
-   "against": "Georges Cuvier showed in 1796 that mammoths were a different kind from any living elephant. No one had ever seen one alive. Many kinds are gone, like the dodo of Mauritius.",
+   "against": "Georges Cuvier showed in 1796 that mammoths were a different kind from any living elephant. No one had ever seen one alive. Many kinds are gone, like the dodo of Mauritius. So a whole kind of animal had been lost.",
    "status": "rejected",
    "context": "This card is about the old idea that extinction cannot happen."
   }
@@ -393,9 +393,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Count the cards each player kept, then ask the last question.",
-     "say": "Count your cards. Which clue was the biggest surprise? Why?",
-     "kid": "Count your cards. Which clue surprised you most?",
+     "do": "Count the cards each player kept. Then ask your child to pick one clue card and say what the fossil told us.",
+     "say": "Count your cards. Then pick one clue card and tell me, in your own words, what that fossil told us.",
+     "kid": "Count your cards. Pick one clue. Say what the fossil told us.",
      "check": {
       "t": "mcq",
       "q": "A fossil shows big, sharp, curved teeth with ridges like a saw. What does it tell us about the animal?",
@@ -576,6 +576,7 @@
    "mins": 25,
    "days": 1,
    "context": "In this experiment you press eight things into flat rounds of dough, four hard and four soft. Then you look at the prints they leave. A print in mud is how many fossils begin.",
+   "problem": "Many fossils begin as a print in mud. In this test you press hard things and soft things into dough, to see which ones leave a clear print. Then you can see why we find so many fossil bones and shells, and so few fossil worms.",
    "question": "When we press hard things and soft things into dough in the same way, which ones leave a clear print?",
    "predict": "Guess first. Which of the eight things will leave the clearest print? Which will leave the worst? Why do you think so?",
    "fair_test": "Every thing is pressed into the same dough, rolled to the same thickness. Each one is covered with the same steel plate and pressed for a count of 10. Each is lifted straight up. Only the thing we press changes.",
@@ -785,6 +786,7 @@
    "mins": 15,
    "days": 1,
    "context": "In this activity you dig down through a pile of old newspapers, the way a scientist digs down through rock layers. You read the date on each paper to find out which layer is oldest.",
+   "problem": "Rock forms in layers, with each new layer on top of the older ones. A pile of newspapers grows in the same way, one paper at a time. In this activity you dig down through a pile and read the dates, to see whether deeper means older.",
    "materials": [
     {
      "item": "a pile of old newspapers or magazines with dates on them, at least 7, like the pile kept for the raddi collector",
@@ -873,6 +875,7 @@
    "mins": 15,
    "days": 1,
    "context": "In this activity you make wet footprints on newspaper, once walking slowly and once taking big quick steps. Then you see how far apart the prints are. Scientists read dinosaur footprints in rock the same way.",
+   "problem": "Scientists measure the gaps between dinosaur footprints to work out how fast the dinosaur was moving. In this activity you make your own wet footprints, first walking slowly and then taking quick steps, and you measure the gaps.",
    "safety": "Walk, do not run. Tape the ends of the newspaper so it does not slide on a smooth floor. Dry your feet before stepping off the paper.",
    "materials": [
     {
@@ -1244,7 +1247,7 @@
       },
       {
        "who": "The second child",
-       "says": "Not all of them. Birds come from dinosaurs, so the crow on our window is a kind of dinosaur."
+       "says": "Not all of them. Birds come from dinosaurs, so a crow on a window ledge is a kind of dinosaur."
       }
      ],
      "ask": "Who do you agree with? Say why. Then say one thing the other child is right about.",
@@ -1362,7 +1365,7 @@
     },
     {
      "t": "write",
-     "p": "Someone says: 'The dinosaurs died out because they were stupid and slow.' What would you tell them? Say it, and a grown-up writes it down.",
+     "p": "Some people think the dinosaurs died out because they were slow and not clever. Is that why? Say your answer, and a grown-up writes it down.",
      "lines": 3,
      "a": "The dinosaurs lived on Earth for about 165 million years, so they were very good at living. They died out because the world changed suddenly, and many could not find enough food.",
      "why": "A strong answer says the dinosaurs did well for a very long time, and that a sudden change, not being slow or stupid, ended the big ones. Many fast and clever animals died too."
@@ -1848,7 +1851,7 @@
    {
     "source": "Udana 6.4, the blind men and the elephant",
     "teaching": "A few men who cannot see touch an elephant. Each one touches a different part. One feels the leg and says an elephant is like a pillar. One feels the ear and says it is like a winnowing basket. Each is sure he is right.",
-    "link": "Scientists often find only a few bones of an animal. When Gideon Mantell first drew Iguanodon in the 1800s, he put a spike on the animal's nose. Whole skeletons found later showed that the spike belonged on the thumb."
+    "link": "Scientists often find only a few bones of an animal. When Gideon Mantell first drew Iguanodon in the 1800s, he put a spike on the animal's nose. Whole skeletons found later showed that the spike belonged on the thumb. Like the men touching the elephant, he judged a whole animal from only one part."
    },
    {
     "source": "Rig Veda 10.129.7, the Nasadiya Sukta",
@@ -1878,8 +1881,8 @@
   },
   "ask": [
    "If a kind of animal died out long ago, but we can hold their bone, are they still part of our world?",
-   "Which part of you would you like the rocks to keep? Why?",
-   "The ammonites are gone, but the crow is here. What decides who carries on?"
+   "Which part of your body would the rocks keep, and which part would they lose? Why?",
+   "After the big change, small animals who could hide and eat many foods often lived on. Why would that help them?"
   ],
   "art": "A girl sitting cross-legged on a balcony, looking at her thumb print in a small round of dough, with a crow on the railing and a fossil ammonite on the floor beside her."
  },

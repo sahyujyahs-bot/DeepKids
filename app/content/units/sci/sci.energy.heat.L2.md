@@ -35,21 +35,21 @@ Your skin can tell hot from cold. A tumbler of fridge water feels cold, and a cu
 ### Things that make warmth · *defined*
 **Definition:** Warmth is made when sunlight lands on things, when things burn, when electricity flows through an iron or a kettle, when things rub, and inside living bodies.
 
-Some things make warmth. The Sun does, and its light warms what it lands on. A gas flame or a diya burns, and burning makes warmth. An iron box and a kettle turn electricity into warmth. Rubbing your hands together makes them warm. Living bodies make warmth from food all the time, yours, a dog's and a hen's.
+Some things make warmth. The Sun does, and its light warms what it lands on. A gas flame or a diya burns, and burning makes warmth. An iron box and a kettle turn electricity into warmth. Rubbing your hands together makes them warm. Living bodies make warmth from food all the time: your body, a dog's body and a hen's body.
 - e.g. The sunny spot on the floor where a cat likes to sleep.
 - e.g. The flame under the dosa tawa.
 - e.g. Your two palms, after you rub them fast.
 ### A sweater keeps warmth in, but makes none · *defined*
 **Definition:** A sweater, a blanket or a quilt is an insulator. It slows heat moving through it, in either direction.
 
-In the Sweater and Coconut Oil test, the bare oil melted first, and the oil in the sweater stayed hard for longer. The room's warmth was moving into both katoris, and the sweater slowed it down. If the sweater made warmth, the wrapped oil would have melted first. When you wear a sweater, your body makes the warmth, and the sweater slows it from leaving you. Wool holds still air between its hairs, and still air lets heat through slowly.
+In the Sweater and Coconut Oil test, the bare oil melted first, and the oil in the sweater stayed hard for longer. The room's warmth was moving into both katoris, and the sweater slowed it down. If the sweater made warmth, the wrapped oil would have melted first. When you wear a sweater, your body makes the warmth, and the sweater slows it from leaving you. Wool has many tiny pockets of air between its hairs. Air that stays still lets heat pass through very slowly. That is why wool is a good insulator.
 - e.g. A quilt keeps you warm at night because it keeps your body heat in.
 - e.g. Chapatis wrapped in a cloth stay warm, because the cloth keeps their heat in.
 - e.g. An ice lolly wrapped in newspaper melts more slowly on the way home.
 ### Your body makes its own warmth · *defined*
 **Definition:** Your body makes warmth from food, all day and all night. Inside, you are about 37 degrees Celsius, about as warm as a warm bath.
 
-Food is your body's fuel. Your cells use it slowly, together with the air you breathe, and this gives out warmth. That is why you are warm even while you sleep. When you run or jump, your muscles work harder and make more warmth. Other animals with fur or feathers make their warmth in the same way.
+Food is your body's fuel. Your cells slowly use up food, together with the air you breathe, and this gives out warmth. That is why you are warm even while you sleep. When you run or jump, your muscles work harder and make more warmth. Other animals with fur or feathers make their warmth in the same way. Parts of your body that stick out, like your nose, ears, fingers and toes, lose their warmth to the air faster. That is why they feel cooler than your tummy.
 - e.g. After running up the stairs, your cheeks feel warm.
 - e.g. A hen sits on her eggs, and her body keeps them warm.
 - e.g. Puppies sleep in a heap and keep each other warm.
@@ -66,7 +66,7 @@ When you get cold, you start to shiver. Tiny bumps called goosebumps come up on 
 - e.g. Goosebumps on your arms on a cold morning.
 - e.g. A crow fluffing up their feathers on a cold window ledge.
 - **Many scientists who study living things:** Every living cell senses what is around it and responds. A body is full of these sensing parts, working together. Shivering is the body taking care of itself.
-- **Many brain and body scientists:** Shivering is a reflex. Nerves send signals to a part of the brain, and it switches on shivering, like a switch on a heater. They say no one part of the body is deciding.
+- **Many brain and body scientists:** Shivering is a reflex. Nerves send signals to a part of the brain, and that part switches on shivering, like a switch on a heater. These scientists say no one part of the body is deciding.
 ### Cooling down · *defined*
 **Definition:** We cool down when heat leaves our body faster than we make it.
 
@@ -88,13 +88,13 @@ On a hot day, your body still makes warmth. To stay comfortable, that warmth mus
 ## Challenging perspectives
 - **A sweater or a blanket makes heat.** (A common idea among children and grown-ups; *rejected*)  
   For: When we put on a sweater, we feel warm, and we call woollens warm clothes.  
-  Against: In the coconut oil test, the oil inside the sweater stayed cold and hard longest. A sweater on a chair is as cool as the chair.
+  Against: In the Sweater and Coconut Oil test, two katoris of cold coconut oil sat on a table, one wrapped in a sweater and one bare. The oil inside the sweater stayed cold and hard for longer. And a sweater lying on a chair feels only as warm as the chair.
 - **You lose most of your body heat through your head, so a cap matters most.** (A common saying in many countries; *rejected*)  
   For: Your head often sticks out of your clothes, so it does lose heat on a cold day.  
   Against: Tests show the head loses about as much heat as any other bare part of the body of the same size. A bare head loses a lot only because the rest of you is covered.
 - **Being cold gives you a cold.** (A common idea in many homes; *debated*)  
   For: Colds are more common in cool, wet weather. In one test in Britain, people who sat with their feet in cold water got cold symptoms more often in the next few days.  
-  Against: A cold is caused by tiny germs called viruses, not by cold air. Ellen Foxman, Akiko Iwasaki and their team found that one common cold virus grows better in a cool nose. So cold may help a virus, but the virus is needed.
+  Against: A cold is caused by tiny germs called viruses, not by cold air. Ellen Foxman, Akiko Iwasaki and their team found that one common cold virus grows better in a cool nose. So cold air may help a virus grow, but you do not get a cold without the virus.
 - **Some foods heat the body and some cool it, like mango and curd.** (A common idea in many Indian homes, from Ayurveda and Siddha; *debated*)  
   For: People say they feel hot or cool after some foods. Hot chilli can make you sweat.  
   Against: Scientists have not found that a mango or a bowl of curd changes body temperature by much. In these traditions, 'hot' and 'cold' foods may describe other effects on the body, not temperature.
@@ -102,32 +102,32 @@ On a hot day, your body still makes warmth. To stay comfortable, that warmth mus
 ## Roots
 We have hunted for warm things, wrapped cold coconut oil in a sweater and felt our own warmth. Now we ask what the sweater test tells us about ourselves and the world.
 
-**Deep truth.** Your sweater kept the cold coconut oil hard, while the bare oil melted. So the sweater made no warmth. It only slowed the room's warmth getting in. When you wear it, the warmth you feel is your own body's.  
-*Habit it breaks:* We call sweaters, shawls and quilts 'warm', as if warmth were stored in them. The coconut oil test shows a sweater keeps a cold thing cold just as well. It only slows heat moving in or out.  
+**Deep truth.** In the Sweater and Coconut Oil test, the cold oil wrapped in the sweater stayed hard, while the bare oil melted. So the sweater made no warmth. It only slowed the room's warmth getting in. When you wear a sweater, the warmth you feel is your own body's.  
+*Habit it breaks:* We call sweaters, shawls and quilts 'warm', as if warmth were stored in them. The Sweater and Coconut Oil test shows that a sweater keeps a cold thing cold just as well. It only slows heat moving in or out.  
 *Evidence:* In the Sweater and Coconut Oil test, the bare oil melted first, and the oil inside the sweater stayed white and hard for longer. The same sweater, put on, felt warm within two minutes. In the Warm Spot Race, ice melted fastest in your own hand.
 
-- *who am i:* You are a warm body. Your cells make warmth from food all day and night, even while you sleep.
+- *who am i:* Your body is warm because your cells make warmth from food all day and night, even while you sleep.
 - *what is life:* Living bodies make warmth and keep it. A hen warms her eggs with her body, and a dog curls up to keep their warmth in.
-- *what is this world:* The world is full of warmth on the move: from the Sun, from fire and from bodies into the cooler things around them.
+- *what is this world:* Warmth is always moving in the world. It goes from the Sun, from fire and from living bodies into the cooler things around them.
 
-The Sun, a diya flame and your body look like very different things. Each of them is giving out energy as warmth. Your warmth came from your food, and your food got its energy from sunlight that a plant caught. So the warmth inside your sweater began as sunshine on a rice field. A sweater, a nest or a parent's arms keep that warmth near.
+The Sun, a diya flame and your body look like very different things. Each one gives out warmth, and each one uses energy to do it. Your warmth came from your food, and your food got its energy from sunlight that a plant caught. So the warmth inside your sweater began as sunshine on a rice field. A sweater, a nest or a parent's arms keep that warmth near.
 
 - **Taittiriya Upanishad 3.2:** Bhrigu asked his father Varuna what the world comes from. After thinking hard, he understood: from food, living beings are born, by food they live. (Your body heat is made from food. Without food, a body has nothing to make warmth from.)
-- **Bhagavad Gita 15.14:** Krishna says he is the fire inside the bodies of living beings, which digests their food, joined with the breath going in and out. (Long ago, people called the body's warmth a fire inside. Science agrees that your cells slowly use food with the air you breathe, and this gives out warmth.)
+- **Bhagavad Gita 15.14:** Krishna says he is the fire inside the bodies of living beings. This fire works together with the breath going in and out, and digests their food. (Long ago, people called the body's warmth a fire inside. Science agrees that your cells slowly use food and the air you breathe, and this gives out warmth.)
 - Science (settled): Your cells use food and oxygen to get energy, and much of that energy comes out as warmth. This is why a living body stays warm.
 - Science (idea): Why animals like us keep our insides at about 37 degrees is not known for sure. One idea is that it keeps most fungi from growing in us.
-- Other view, Many brain and body scientists: Shivering and goosebumps are reflexes, switched on by nerves and one part of the brain, like a switch on a heater. They say the cells in your skin only send signals, and only the brain feels warm or cold.
-- Practice, Feel your own warmth (3 min): Sit still and shut your eyes. Cup your hands in front of your face, without touching it. Breathe out slowly through your mouth. Feel your breath warm your hands. Now rest both hands on your tummy. Feel the warmth there. You made that warmth yourself, from your breakfast. Where was it before it was in your breakfast?
+- Other view, Many brain and body scientists: Shivering and goosebumps are reflexes, switched on by nerves and one part of the brain, like a switch on a heater. These scientists say the cells in your skin only send signals, and only the brain feels warm or cold.
+- Practice, Feel your own warmth (3 min): Sit still and shut your eyes. Cup your hands in front of your face, without touching it. Breathe out slowly through your mouth. Feel your breath warm your hands. Now rest both hands on your tummy. Feel the warmth there. You made that warmth yourself, from your breakfast. Your breakfast came from plants, and plants grow in sunlight. So where did the warmth first come from?
 - Ask: A small baby is held skin to skin on a parent's chest. Whose warmth is keeping the baby warm?
 - Ask: The Sun, a flame and your body all make warmth. What do they have in common?
 - Ask: Shivering and goosebumps happen without you planning them. Who or what decides to start them?
 
 ## Deep and big questions
 - *deep:* If a sweater makes no warmth, why do we call it a warm sweater? (hint: Think about who feels warm, and where that warmth comes from.)
-- *deep:* Is a sweater a warm thing or a cold thing? (hint: Remember the coconut oil. What did the sweater do to the cold oil?)
+- *deep:* Is a sweater a warm thing or a cold thing? (hint: In the Sweater and Coconut Oil test, the cold oil wrapped in the sweater stayed hard for longer than the bare oil. What did the sweater do to the cold oil?)
 - *big:* When two people hug, who is warming whom? (hint: Both bodies make warmth. Does heat move both ways, or from the warmer one?)
-- *big:* Your warmth comes from your food. Where did the food get it from? (hint: Think about the rice plant in the sunny field.)
-- *big:* A fish in a cold river is as cold as the water. Does the fish feel cold? (hint: Every animal lives in their own kind of warmth. What would cold mean to them?)
+- *big:* Your warmth comes from your food. Where did the food get it from? (hint: Think about a rice plant growing in a sunny field.)
+- *big:* A fish in a cold river is as cold as the water. Does the fish feel cold? (hint: A fish's body is always as warm or as cold as the water around them. What would cold mean to a fish?)
 
 ## Story: Arjun's Cold Idli
 *Paati means grandmother in Tamil. Ooty, also called Udhagamandalam, is a hill town in the Nilgiris in Tamil Nadu, where winter mornings can bring frost. Meenakshi, Arjun, Paati and Rosie are made up.*
@@ -156,7 +156,7 @@ Paati put down her coffee. 'Feel your sweater now, on your arm,' she said. 'Wher
 
 Meenakshi thought about it. The chair was not warm. The room was not warm. 'From me?' she said slowly.
 
-'From you,' said Paati. 'Your body makes warmth all day and all night, from the food you eat. Your sweater makes none of its own. It only keeps your warmth close to you. So it does not escape into the cold air.'
+'From you,' said Paati. 'Your body makes warmth all day and all night, from the food you eat. Your sweater makes none of its own. It only keeps your warmth close to you, so that it does not escape into the cold air.'
 
 'Then why did my idli stay cold?' asked Arjun.
 
@@ -198,15 +198,15 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
   *Child mode:* Read your card. Does it make warmth, keep warmth in, or cool you down?
 - **s2 (11 min)**  
   *Parent does:* Play. After each card, ask the player for their reason.  
-  *Parent says:* A woollen cap. Does a cap make warmth? Where does the warmth under a cap come from?  
+  *Parent says:* Suppose the card says a woollen cap. Does a cap make warmth? Where does the warmth under a cap come from?  
   *Child mode:* Why did you put it there? Say your reason.
   - Ask: Where does the warmth under a cap come from? (good: From my head. The cap keeps it in.; From my body.)
   - Note: The hen card is 'makes warmth', because her body makes it. Her feathers keep it in. If a child says both, that is a very good answer: give them the card.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* One last tricky one.  
-  *Child mode:* Answer one last tricky card.
-  - Check: A cat sleeps in a sunny spot. Which thing there makes warmth? → **The Sun and the cat's own body**
+  *Parent says:* Here is one last card to think about. A cat is asleep in a sunny spot. What is making warmth there?  
+  *Child mode:* A cat sleeps in a sunny spot. What makes warmth there?
+  - Check: A cat sleeps in a sunny spot. What makes warmth there? → **The Sun and the cat's own body**
 
 ## Experiments
 ### e1 · The Sweater and the Coconut Oil: does a sweater warm things up? (45 min)
@@ -236,7 +236,7 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
   *Parent does:* 1. At 10 minutes, open the sweater just enough to peep in, then close it. 2. Tilt each katori a little. Is there runny oil? 3. Draw both. 4. Do the same at 20 and 30 minutes.  
   *Parent says:* Time to peep. Tilt the bare katori. Is the oil runny? Now peep into the sweater, quickly. Is that oil runny?  
   *Child mode:* Peep into both katoris. Tilt them gently. Which oil is runny?
-  - Note: While you wait between checks, do the warmth hunt (the Make It or Keep It activity). In a warm room, the bare oil usually turns clear at the edges within about 10 to 15 minutes. It is mostly runny by about 20 to 30 minutes. The wrapped oil stays white much longer. If it is still hard at 30 minutes, that is your answer: the sweater made it slower. You can look again later. In a cooler room, keep checking until the bare oil has melted.
+  - Note: While you wait between checks, do the Make It or Keep It warmth hunt. In a warm room, the bare oil usually turns clear at the edges within about 10 to 15 minutes. It is mostly runny by about 20 to 30 minutes. The wrapped oil stays white much longer. If it is still hard at 30 minutes, that is your answer: the sweater slowed the melting. You can look again later. In a cooler room, keep checking until the bare oil has melted.
 - **s5 (5 min)**  
   *Parent does:* Put the two katoris side by side, both open. Ask what your child saw, and why. Then ask the check question.  
   *Parent says:* Which oil melted first? What did the sweater do to the cold oil? Did it warm it up, or keep it cold?  
@@ -258,35 +258,35 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 - **results table:** Place | My guess (1st to 4th) | Minutes until no ice is left | What came 1st, 2nd, 3rd, 4th
 - **s1 (3 min)**  
   *Parent does:* 1. Choose four places with your child: your child's hand, a sunny spot, the table and the floor in the shade. 2. Take four ice cubes of the same size from the freezer tray, only when everyone is ready.  
-  *Parent says:* We will race four ice cubes. One will sit in your hand. Which one will melt first? Which last? Why?  
-  *Child mode:* Which ice cube will melt first? Which will melt last? Why?
+  *Parent says:* We will race four ice cubes. One sits in your hand, one in a sunny spot, one on the table and one on the floor. Which one will melt first? Which last? Why?  
+  *Child mode:* Four ice cubes: one in your hand, one in a sunny spot, one on the table and one on the floor. Which will melt first? Which will melt last? Why?
   - Ask: Why do you think so? (good: My hand, because I am warm.; The sunny spot, because the Sun is hot.)
   - Note: Keep the tray in the freezer until you start. If no sunlight comes into your home, use a spot next to a warm machine instead, such as a television or a wifi box that has been on for a while.
 - **s2 (12 min)**  
   *Parent does:* 1. Put the cubes in their places at the same time. 2. Your child holds one cube in a closed hand, over a plate. 3. Every 2 minutes, look at all four. 4. Write the order they melt in.  
   *Parent says:* Hold the ice cube in your closed hand, over the plate. Every 2 minutes we look at all four. Which one has melted?  
-  *Child mode:* Hold the ice in your hand. Every 2 minutes, check all four. Which is gone?
-  - Note: The cube in the hand, or the one in strong sun, usually melts first, in a few minutes. The table and the floor are slower, and they may melt at nearly the same time. If so, give them the same number. If the hand gets too cold, swap hands. Stop at 20 minutes and compare how much ice is left on each plate.
+  *Child mode:* Hold the ice in your hand. Every 2 minutes, check all four ice cubes. Which one has melted?
+  - Note: The cube in the hand, or the one in strong sun, usually melts first, in a few minutes. The cubes on the table and the floor are slower, and they may melt at nearly the same time. If so, give them the same number. If the hand gets too cold, swap hands. Stop at 20 minutes and compare how much ice is left on each plate.
 - **s3 (5 min)**  
   *Parent does:* Talk about the order together. Ask what your child found, and why.  
-  *Parent says:* Which ice cube melted first? Which melted last? What does the cube in your hand tell you about your hand?  
-  *Child mode:* Which ice melted first? What does that tell you about your hand?
-  - Ask: Why did the ice in your hand melt so fast? (good: My hand is warmer than the room.; My body makes warmth, and it went into the spoon.)
+  *Parent says:* Which ice cube melted first? Which melted last? What does the ice in your hand tell us about how warm your hand is?  
+  *Child mode:* Which ice melted first? What does that tell you about how warm your hand is?
+  - Ask: Why did the ice in your hand melt so fast? (good: My hand is warmer than the room.; My body makes warmth, and it went into the ice.)
   - Check: Why does ice melt faster in your hand than on the table? → **Your body makes warmth, so your hand is warmer than the table.**
 
 ## Activities
 ### a1 · Make It or Keep It? A warmth hunt at home (10 min)
 - **record:** Draw each thing in its column. Count how many are in each column.
 - **s1 (2 min)**  
-  *Parent does:* Show the two columns. Do one example together: a quilt.  
-  *Parent says:* Some things make warmth. Some things only keep warmth in. A quilt on the bed. Is it warm by itself, or does it keep your warmth in?  
+  *Parent does:* Show the two columns: 'Makes warmth' and 'Keeps warmth in'. Do one example together: a quilt.  
+  *Parent says:* Some things make warmth. Some things only keep warmth in. Think of a quilt on the bed. Is it warm by itself, or does it keep your warmth in?  
   *Child mode:* Look at a quilt. Does it make warmth, or keep it in?
   - Ask: Does a quilt make warmth? (good: No, it keeps my warmth in.; It is only warm when I am under it.)
 - **s2 (6 min)**  
   *Parent does:* 1. Walk round the home together. 2. Find at least 6 warm things or things that keep warmth in. 3. Your child draws each one in a column.  
   *Parent says:* Let's hunt. Look in the kitchen, the bedroom and at the windows. What makes warmth? What keeps warmth in?  
-  *Child mode:* Hunt for warm things. Draw each one in a column.
-  - Note: Good finds: sunlight at a window, the gas stove (look, don't touch), an iron box, a kettle, a pet, a family member. Keepers: a quilt, a sweater, a cap, socks, a pot lid, a cloth over chapatis, a flask. Never touch the stove or a hot iron.
+  *Child mode:* Hunt for warm things at home. Draw each one under 'Makes warmth' or 'Keeps warmth in'.
+  - Note: Things that make warmth: sunlight at a window, the gas stove (look, don't touch), an iron box, a kettle, a pet, a family member. Things that keep warmth in: a quilt, a sweater, a cap, socks, a pot lid, a cloth over chapatis, a flask. Never touch the stove or a hot iron.
 - **s3 (2 min)**  
   *Parent does:* Count each column together. Ask the check question.  
   *Parent says:* How many things make warmth? How many keep it in? Is there anything you are not sure about?  
@@ -304,7 +304,7 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
   *Parent says:* Now make your lips small and round. Blow hard: whoo. Is it the same breath? Why does it feel different?  
   *Child mode:* Make your lips small. Blow 'whoo'. Warm or cool now?
   - Ask: Why does it feel different? (good: It comes out fast.; It feels like a fan.)
-  - Note: Both breaths come from inside your warm body. Slow 'haa' breath reaches your hand still warm. Fast 'whoo' breath drags cooler room air along with it. Moving air also carries warmth off your skin, like a fan does.
+  - Note: Both breaths come from inside your warm body. Slow 'haa' breath reaches your hand still warm. Fast 'whoo' breath drags cooler room air along with it. Moving air also carries warmth off your skin, like a fan does. If your child is stuck, ask what a fan does to your skin on a hot day.
 - **s3 (1 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* So which way would you breathe to warm cold hands?  
@@ -318,7 +318,7 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
   *Child mode:* Touch your neck. Warm or cool? Now your nose. Now your toes.
   - Note: Most children find the neck and tummy warmest, and the nose, ears, fingers and toes cooler. These parts stick out, so they lose heat faster.
 - **s2 (2 min)**  
-  *Parent does:* Your child colours the outline.  
+  *Parent does:* Your child colours the outline. If they do not see a pattern, tell them this. The cool parts are the ones that stick out, where more air touches them.  
   *Parent says:* Colour the warm parts red and the cool parts blue. Which parts are cool? Do you see a pattern?  
   *Child mode:* Colour warm parts red. Colour cool parts blue. Do you see a pattern?
   - Ask: Which parts were coolest? (good: My nose, ears, fingers and toes.; The parts that stick out.)
@@ -357,7 +357,7 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
   *Child mode:* How can you keep a dosa warm for 20 minutes?
   - Ask: What could you use? (good: A cloth.; A box with a lid.; My sweater, but a clean cloth is better for food.)
 - **s2 (4 min) · grown-up needed**  
-  *Parent does:* 1. The grown-up makes two dosas. 2. Your child wraps one with their design. 3. The other goes on a bare plate.  
+  *Parent does:* 1. The grown-up makes two dosas. 2. Your child wraps one in their own way. 3. The other goes on a bare plate.  
   *Parent says:* Wrap one dosa your way. Put the other on a plate, with nothing over it. Start the timer.  
   *Child mode:* Wrap one dosa. Leave one bare. Start the timer.
 - **s3 (20 min)**  
@@ -372,7 +372,7 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
   - Check: Why did the wrapped dosa stay warm? → **The cloth slowed its heat from leaving.**
 ### c2 · Warm Your Cold Hands, No Fire Allowed (15 min)
 - **problem:** After holding a cold tumbler, your hands are cold. Find ways to warm them up in one minute, without fire, a heater or hot water.
-- **your turn:** Which idea warmed your hands best? Did any idea make warmth, and which only kept it in? Draw your best idea.
+- **your turn:** Which idea warmed your hands best? Which ideas made warmth, and which only kept it in? Draw your best idea.
 - **constraints:** No stove, heater, hot water or hair dryer.; Try each idea for one minute.; Cool your hands on the cold tumbler again before each new idea.
 - **general:** Rub your hands together fast.; Tuck your hands under your arms.; Sit on your hands for a minute.
 - **creative:** Jump up and down for a minute, then feel your hands.; Ask someone at home to hold your hands in theirs.; Pull socks over your hands like gloves.
@@ -385,7 +385,7 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
   *Parent does:* Try three ideas, one minute each. Cool the hands on the tumbler again before each one.  
   *Parent says:* Try your first idea for one minute. Then cool your hands again, and try the next one. Which works best?  
   *Child mode:* Try one idea for a minute. Then try the next.
-  - Note: Rubbing, jumping and the armpits work well. Rubbing makes warmth by friction. Jumping makes your muscles make more warmth. Armpits, socks and sitting on your hands keep your body's warmth close to your hands.
+  - Note: Rubbing, jumping and tucking the hands under the arms work well. Rubbing makes warmth by friction, which is two things rubbing against each other. Jumping makes your muscles make more warmth. Tucking your hands under your arms, pulling socks over them and sitting on them keep your body's warmth close to your hands.
 - **s3 (3 min)**  
   *Parent does:* Talk about which ideas made warmth and which kept it in. Ask the check question.  
   *Parent says:* Which ideas made new warmth? Which ones only kept your warmth in?  
@@ -405,24 +405,24 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
    **Answer:** True. *Why:* True. Your body makes warmth, so your hand is warmer than the ice. Heat moves from your hand into the ice.
 5. (draw) Draw one thing in your home that makes warmth, and one thing that keeps warmth in.  
    **Answer:** For example, the Sun at the window, and a quilt on the bed.. *Why:* A strong drawing shows one maker of warmth, like the Sun, a flame or a body, and one keeper, like a quilt, a cap or a lid.
-6. (fill) When you are cold, your muscles shake without you meaning to. This is called to ______.  
+6. (fill) When you are cold, your muscles shake without you meaning to. To shake like this is to ______.  
    **Answer:** ['shiver']. *Why:* Shivering makes warmth. Your muscles shake and give out heat.
 7. (write) Say out loud, and a grown-up writes it down: why does your sweater feel warm when you wear it?  
    **Answer:** Because my body makes warmth, and the sweater keeps it close to me.. *Why:* A strong answer says the warmth comes from the body, and the sweater only keeps it in.
-8. (count) Kavya, a girl in Class 2, found 3 things that make warmth and 4 things that keep warmth in. How many things did she find?  
-   **Answer:** 7. *Why:* 3 and 4 more make 7.
-9. (perspective) Arjun, a boy aged 5, and his sister Meenakshi, aged 8, talk about the coconut oil test before they try it.  
+8. (count) You found 3 things that make warmth and 4 things that keep warmth in. How many things did you find?  
+   **Answer:** 7. *Why:* 3 things plus 4 things is 7 things altogether.
+9. (perspective) Arjun, a boy aged 5, and his sister Meenakshi, aged 8, talk about the Sweater and Coconut Oil test before they try it. In the test, one katori of cold, hard coconut oil is wrapped in a sweater and one is left bare.  
    **Answer:** Meenakshi. The wrapped oil stayed hard longer, so the sweater kept the cold oil cold. Arjun is right that we feel warm in a sweater, but that warmth comes from our body.. *Why:* A strong answer uses the test result as evidence, and is fair to Arjun's idea.
 10. (mcq) Why do your hands get warm when you rub them together?  
    Options: Rubbing makes warmth. / Rubbing takes warmth from the air. / Your hands were hot inside all along.  
    **Answer:** Rubbing makes warmth.. *Why:* Rubbing makes warmth. That is one way things get warm, along with the Sun, fire, electricity and living bodies.
 ### Keeping warm and cooling down (stretch) (stretch, 10 questions)
-1. (mcq) Why did the bare coconut oil melt first?  
+1. (mcq) In the Sweater and Coconut Oil test, why did the bare oil melt before the oil wrapped in the sweater?  
    Options: The room was warmer than the oil, and the room's heat moved into it. / The bare katori made heat. / The oil in the sweater was a different oil.  
    **Answer:** The room was warmer than the oil, and the room's heat moved into it.. *Why:* The oil came from the cold fridge, so the room was warmer. Heat moves from warmer to cooler things, and nothing slowed it down for the bare oil.
 2. (order) Put these in order, from the hottest to the coldest.  
    **Answer:** ['a cup of hot tea', 'your hand', 'water from the fridge', 'an ice cube']. *Why:* Hot tea is much hotter than a hand. A hand is warmer than fridge water. Ice is the coldest.
-3. (label) Label the body outline: warm, or cooler? Use what you felt in the touch map.  
+3. (label) Label the body outline: warm, or cooler? Use what you felt in the Where Is My Body Warmest? touch map, when you touched the back of your hand to different parts of your body.  
    **Answer:** ['neck: warm', 'tummy: warm', 'nose: cooler', 'toes: cooler']. *Why:* The middle of the body is warmest. Parts that stick out, like the nose and toes, lose warmth faster.
 4. (write) A puppy sleeping in a heap with other puppies stays warmer than a puppy sleeping alone. Why? You can say it and a grown-up can write it down.  
    **Answer:** Every puppy's body makes warmth. In a heap, less of each puppy is out in the cold air, so less warmth escapes. They also warm each other.. *Why:* A strong answer says the warmth comes from the puppies' bodies, and the heap keeps more of it in.
@@ -436,12 +436,12 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 8. (mcq) A ceiling fan cools you on a hot day. How?  
    Options: The moving air carries warmth away from your skin. / The fan blows out cold air it makes. / The fan makes the room colder than the fridge.  
    **Answer:** The moving air carries warmth away from your skin.. *Why:* A fan makes no cold. It moves the air, and the moving air carries your warmth away and dries sweat.
-9. (perspective) It is a cold morning in Shillong. Kavya and her friend Divya want to get warm before school.  
+9. (perspective) It is a cold morning in Shillong. The first child and her friend the second child want to get warm before school.  
    **Answer:** Both help. Running makes new warmth fast, but you can't run all day. A sweater makes no warmth, but it keeps the warmth you make for hours. The best plan uses both.. *Why:* A strong answer sees that one idea makes warmth and the other keeps it, and that both have a use.
 10. (fill) A material that slows heat moving in or out is called an ______.  
    **Answer:** ['insulator']. *Why:* Wool, cloth and feathers are insulators. They slow heat moving through them.
 ### Thinking about warmth (challenge) (challenge, 10 questions)
-1. (write) Arjun, a boy aged 5, wrapped his cold idli in his sweater to warm it up. What will happen? What could he do instead? You can say it and a grown-up can write it down.  
+1. (write) In the story Arjun's Cold Idli, Arjun wrapped his cold idli in his sweater to warm it up. What will happen? What could he do instead? You can say it and a grown-up can write it down.  
    **Answer:** The idli will stay cold, because the sweater makes no warmth. He could ask a grown-up to warm it on the stove or in steam.. *Why:* A strong answer says the sweater can only keep the warmth that is already there, and names a real maker of warmth.
 2. (mcq) Some people say mango heats the body and curd cools it. What have scientists found?  
    Options: They have not found that these foods change body temperature by much. / A mango raises body temperature by 5 degrees. / Curd is colder than ice, so it cools you.  
@@ -459,8 +459,8 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 8. (mcq) You forget a hot cup of filter coffee on the table. An hour later it is cool. Where did its heat go?  
    Options: Into the air and the table around it / Nowhere, it just stopped / Into the fridge  
    **Answer:** Into the air and the table around it. *Why:* Heat moves from a hotter thing into the cooler things around it. The coffee warmed the air and the table a tiny bit.
-9. (write) A friend says: 'A sweater kept the cold oil cold. So wear a sweater in summer to stay cool!' Is your friend right? Say why. You can say it and a grown-up can write it down.  
-   **Answer:** No. Your body keeps making warmth, and a sweater would keep that warmth in. You would get hotter. The oil makes no warmth, so the sweater only kept its cold.. *Why:* A strong answer remembers that the body makes its own warmth, while the oil does not.
+9. (write) In the Sweater and Coconut Oil test, the sweater kept the cold oil cold. A friend says: 'So wear a sweater in summer to stay cool!' Is your friend right? Say why. You can say it and a grown-up can write it down.  
+   **Answer:** No. Your body keeps making warmth, and a sweater would keep that warmth in. You would get hotter. The oil makes no warmth, so the sweater only kept it cold.. *Why:* A strong answer remembers that the body makes its own warmth, while the oil does not.
 10. (match) Match each animal to how they keep warm.  
    **Answer:** A dog on a cold night → Curls up into a ball; A crow on a cold morning → Fluffs up their feathers; Emperor penguins in a storm → Huddle close together; A very small baby → Held skin to skin on a parent's chest. *Why:* Each one keeps the warmth their body makes: curling up, fluffing feathers, huddling and skin-to-skin care all slow heat from leaving.
 
@@ -475,17 +475,17 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
    **Answer:** Temperature. *Why:* Temperature tells how hot or cold something is. Weight tells how heavy, and colour is what we see.
 2. (mcq) Which of these makes warmth?  
    Options: A diya flame / A woollen shawl / A pair of socks  
-   **Answer:** A diya flame. *Why:* A flame burns and makes warmth. Choosing the shawl or socks may mean thinking woollens make warmth. They only keep it in.
+   **Answer:** A diya flame. *Why:* A flame burns and makes warmth. A shawl and socks make no warmth. They only keep it in.
 3. (mcq) A sweater has been lying on a chair all night. How warm is it?  
    Options: As warm as the chair and the room / Warmer than the room / Colder than the fridge  
    **Answer:** As warm as the chair and the room. *Why:* A sweater makes no warmth, so it is as warm as the things around it.
 4. (mcq) Where does the warmth inside your sweater come from?  
    Options: From your body / From the wool / From the cupboard  
    **Answer:** From your body. *Why:* Your body makes warmth from food. The wool only keeps it close to you.
-5. (mcq) Usha, a girl in Class 2, tests a sweater on cold coconut oil. What should be the same for both katoris?  
+5. (mcq) You test a sweater on cold coconut oil. One katori of oil is wrapped in the sweater and one is bare. What should be the same for both katoris?  
    Options: The oil, the katori, the table and the time / Nothing / Only the colour of the katoris  
    **Answer:** The oil, the katori, the table and the time. *Why:* In a fair test, only one thing changes: here, the sweater. Everything else stays the same.
-6. (mcq) Usha wants her coconut oil test to be fair. Which change would make it unfair?  
+6. (mcq) You want your coconut oil test to be fair. One katori of cold oil is wrapped in a sweater and one is bare. Which change would make the test unfair?  
    Options: Putting one katori in the sun and one in the shade / Using the same amount of oil in both / Starting the timer for both at the same time  
    **Answer:** Putting one katori in the sun and one in the shade. *Why:* In a fair test, only the sweater is different. Sun on one katori would change the test too, so we could not tell what melted the oil.
 7. (mcq) A hot idli sits on a plate for an hour. What happens?  
@@ -507,7 +507,7 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 - Hospitals keep very small babies warm skin to skin on a parent's chest. This is called kangaroo mother care.
 - Soldiers on the cold mountains of Ladakh and Siachen wear many layers, because each layer keeps more body heat in.
 - Ice-cream sellers keep their boxes thickly lined, so the ice cream stays frozen in the hot sun.
-- In 1948, Mária Telkes, a scientist from Hungary working in America, built the heating for a house warmed by stored sunshine. The house was designed by the architect Eleanor Raymond.
+- In 1948, Mária Telkes, a scientist from Hungary working in America, built a heating system that stored the Sun's warmth to heat a house. The house was designed by the architect Eleanor Raymond.
 
 ## Spotted around us
 - In winter in Kashmir, people wear a long woollen cloak called a pheran, and some carry a small clay pot of hot coals, called a kangri, under it.
@@ -518,9 +518,9 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 - In a cowshed in winter, calves lie close to their mothers and to each other.
 
 ## Open questions
-- **Why is the inside of the human body about 37 degrees, and not cooler or warmer?** Nobody knows for sure. One idea, from the scientist Arturo Casadevall and others, is that this warmth keeps most kinds of fungus from growing inside us, while not costing too much food.
-- **How does a plant feel a long winter, and remember the cold?** Some plants flower only after a long cold spell. Caroline Dean and other scientists have found that cold slowly switches off a flowering brake in their cells, and the plant remembers this for months. Exactly how the cold is sensed is still being worked out.
-- **How much warmth do grown-ups make from special 'brown fat'?** Babies have brown fat that makes warmth. Scientists found in 2009 that many grown-ups have some too. How much it matters for keeping a grown-up warm is still being studied.
+- **Why is the inside of the human body about 37 degrees, and not cooler or warmer?** Nobody knows for sure. One idea, from the scientist Arturo Casadevall and others, is that this warmth stops most kinds of fungus from growing inside us. Another part of the idea is that this warmth does not use up too much of our food.
+- **How does a plant feel a long winter, and remember the cold?** Some plants flower only after a long cold spell. Caroline Dean and other scientists have found that the cold slowly switches off the part of the plant's cells that stops flowering. The plant remembers this for months. Exactly how the cold is sensed is still being worked out.
+- **How much warmth do grown-ups make from a special fat called brown fat?** Babies have brown fat, which is a kind of body fat that makes warmth. Scientists found in 2009 that many grown-ups have some too. How much it matters for keeping a grown-up warm is still being studied.
 
 ## Questions to ask kids
 - What warmed you up today?
@@ -540,10 +540,10 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 - Why do fans make good friends on a hot day? *They're always cool about everything!*
 
 ## Connected maths
-- In the coconut oil test, Lakshmi, a girl in Class 2, checked every 10 minutes. The bare oil was all runny at the 2nd check. The wrapped oil was all runny at the 5th check. How many minutes is that for each? **20 minutes for the bare oil and 50 minutes for the wrapped oil.**. Count in tens. 2 checks is 10, 20, so 20 minutes. 5 checks is 10, 20, 30, 40, 50, so 50 minutes. (queues `math.multiplication.equal-groups.L2`)
-- In the Warm Spot Race, the ice cube in the hand of Farhan, a boy in Class 2, melted at 4 minutes. The ice cube on the floor melted at 14 minutes. How many minutes longer did the floor ice take? **10 minutes longer.**. Count on from 4 to 14. That is 10. So the floor ice took 10 more minutes. (queues `math.addition-subtraction.meaning.L2`)
-- In the warmth hunt, Nila, a girl in Class 2, made a tally: Makes warmth: |||| . Keeps warmth in: |||| | . Which column has more, and by how many? **Keeps warmth in has more, by 1. It has 6 and Makes warmth has 5.**. Count the tally marks. The first column has 5 and the second has 6. 6 is 1 more than 5. (queues `math.data.sorting-and-tallies.L2`)
-- Divya, a girl in Class 2, says: 'The bare oil melted in 20 minutes. So the oil in the sweater will melt in 20 minutes too.' Will it? What would you expect instead? **No. It will take longer than 20 minutes, because the sweater slows the room's warmth getting in.**. The sweater changes how fast warmth reaches the oil. So the times will not be the same. We expect a bigger number for the wrapped oil. (queues `math.number-sense.comparing-ordering.L2`)
+- In the Sweater and Coconut Oil test, you check both katoris every 10 minutes. The bare oil is all runny at the 2nd check. The wrapped oil is all runny at the 5th check. How many minutes is that for each? **20 minutes for the bare oil and 50 minutes for the wrapped oil.**. Count in tens. 2 checks is 10, 20, so 20 minutes. 5 checks is 10, 20, 30, 40, 50, so 50 minutes. (queues `math.multiplication.equal-groups.L2`)
+- In the Warm Spot Race, the ice cube in your hand melted at 4 minutes. The ice cube on the floor melted at 14 minutes. How many minutes longer did the floor ice take? **10 minutes longer.**. Count on from 4 to 14. That is 10. So the floor ice took 10 more minutes. (queues `math.addition-subtraction.meaning.L2`)
+- In the Make It or Keep It warmth hunt, you made a tally: Makes warmth: ||||| . Keeps warmth in: ||||| | . Which column has more, and by how many? **Keeps warmth in has more, by 1. It has 6 and Makes warmth has 5.**. Count the tally marks. The first column has 5 and the second has 6. 6 is 1 more than 5. (queues `math.data.sorting-and-tallies.L2`)
+- A friend says: 'The bare oil melted in 20 minutes. So the oil in the sweater will melt in 20 minutes too.' Will it? What would you expect instead? **No. It will take longer than 20 minutes, because the sweater slows the room's warmth getting in.**. The sweater changes how fast warmth reaches the oil. So the times will not be the same. We expect a bigger number for the wrapped oil. (queues `math.number-sense.comparing-ordering.L2`)
 
 ## Song
 I Make My Own Warm (sci.energy.L2): Topic-level song for Energy L2
