@@ -483,11 +483,11 @@ Test It and See (sci.materials.L2): Topic-level song for Materials L2
 - ideas/by_topic/materials-and-their-properties.md: the science journal pages 'SuperHero Suit Design', used for the monsoon superhero suit drawing in the stretch worksheet.
 - ideas/by_topic/materials-and-their-properties.md: the C. V. Raman SCI card, used for the deep blue sea in the transparent, translucent and opaque card.
 - Cambridge Primary Science Stage 2, Unit 3 'Getting materials right': the property words (waterproof, flexible, strong, transparent) and one material having many properties. The tests here are new, so as not to repeat the testing materials unit at the same level.
-- Water passes through porous materials (paper, cotton) through the gaps between fibres. Polyethylene film and aluminium foil are non-porous.
+- Water passes through porous materials (paper, cotton) through the gaps between fibres; polyethylene film and aluminium foil are non-porous.
 - Transparency of glass and clear polymers: visible light is not absorbed by their electrons and is little scattered, because the material is uniform with no internal boundaries (any optics or materials textbook).
 - C. V. Raman, 'On the molecular scattering of light in water and the colour of the sea', Proceedings of the Royal Society A 101 (1922), 64-80, written after his 1921 sea voyage. Lord Rayleigh had said the deep blue of the sea is the sky seen by reflection.
-- Stephanie Kwolek at DuPont, 1965: a cloudy, low-viscosity solution of a para-aramid polymer, spun after persuading Charles Smullen, gave the fibre later sold as Kevlar (Science History Institute. Kwolek's own accounts).
-- Kevlar's strength-to-weight is about five times that of steel (DuPont). Breaking elongation only a few percent.
+- Stephanie Kwolek at DuPont, 1965: a cloudy, low-viscosity solution of a para-aramid polymer, spun after persuading Charles Smullen, gave the fibre later sold as Kevlar (Science History Institute; Kwolek's own accounts).
+- Kevlar's strength-to-weight is about five times that of steel (DuPont); breaking elongation only a few percent.
 - Spider dragline silk combines high strength with high extensibility (Gosline and others, Journal of Experimental Biology, 1999).
 - E. D. Zanotto, 'Do cathedral glasses flow?', American Journal of Physics 66 (1998), 392-395: room-temperature flow of glass would take far longer than the age of the Universe.
 - Neutrinos from the Sun pass through the Earth almost without interacting (any particle physics textbook).
