@@ -44,7 +44,7 @@
   {
    "term": "Rain shadow",
    "meaning": "The drier land on the far side of a mountain range. The air has already dropped most of its rain on the near side.",
-   "example": "Coimbatore lies in the rain shadow of the Western Ghats. It gets less than a quarter of the rain of Kozhikode.",
+   "example": "Coimbatore lies in the rain shadow of the Western Ghats. It gets about a fifth of the rain of Kozhikode.",
    "art": "A mountain in side view with heavy rain on the left slope and a dry, sunny plain on the right."
   },
   {
@@ -164,7 +164,7 @@
    "definition": "Four things decide most of what can live in a region: how much rain falls, how high the land is, how salty the water is, and what the soil is like.",
    "description": "Rain matters most. Evergreen forest needs about 200 centimetres of rain a year or more. Dry thorn forest grows on less than 75 centimetres. Below about 25 centimetres there is desert. Height comes next, because high land is cold land. Salt matters on the coast, where the sea soaks the mud twice a day. Most plants die there, and only mangroves and a few others grow. Soil matters too. The black soil of the Deccan holds water for months, and sand lets water run straight through. These four things work together. Ladakh is dry because mountains block the rain, and cold because Ladakh is high. That is why Ladakh is a cold desert, and the Thar is a hot one.",
    "examples": [
-    "Rain: Mawsynram in Meghalaya gets about 1,190 centimetres a year. Jaisalmer in the Thar gets about 20.",
+    "Rain: Mawsynram in Meghalaya gets about 1,190 centimetres a year. Jaisalmer in the Thar gets about 25.",
     "Height: Ooty, at 2,240 metres, is about 13 degrees cooler than the plains below.",
     "Salt: in the Sundarbans the water in the mud is salty, so only trees who can deal with salt grow there.",
     "Soil: rainforest soil keeps its plant food in the top few centimetres, so even giant trees have shallow roots."
@@ -190,10 +190,10 @@
    "concept": "Mountains and rain: the wet side and the dry side",
    "status": "defined",
    "definition": "When wet air is pushed up a mountain range, the air cools. Most of its rain falls on the side facing the wind. The far side stays much drier and is called the rain shadow.",
-   "description": "From June to September the monsoon wind blows in from the Arabian Sea, full of water vapour. Water vapour is water as an invisible gas. The Western Ghats stand in the wind's way, so the air has to climb. Higher up there is less air pressing on it, so the air spreads out and cools. Cool air holds less water vapour than warm air. The extra vapour turns into drops, clouds form, and rain pours on the sea side of the hills. When the air crosses the top, most of its water is gone. As the air sinks down the far side it warms again, and the clouds thin out. So Mangaluru, on the coast, gets about 350 centimetres of rain a year. Bengaluru, behind the hills, gets about 100. The same thing happens in Meghalaya. Wet wind from the Bay of Bengal is pushed up the steep Khasi hills. Mawsynram, on those hills, gets about 1,190 centimetres. The Himalaya do it on the largest scale. They stop the monsoon, and Ladakh behind them gets about 10 centimetres. You compare three pairs of towns in the activity Two Sides of One Hill.",
+   "description": "From June to September the monsoon wind blows in from the Arabian Sea, full of water vapour. Water vapour is water as an invisible gas. The Western Ghats stand in the wind's way, so the air has to climb. Higher up there is less air pressing on it, so the air spreads out and cools. Cool air holds less water vapour than warm air. The extra vapour turns into drops, clouds form, and rain pours on the sea side of the hills. When the air crosses the top, most of its water is gone. As the air sinks down the far side it warms again, and the clouds thin out. So Mangaluru, on the coast, gets about 375 centimetres of rain a year. Bengaluru, behind the hills, gets about 110. The same thing happens in Meghalaya. Wet wind from the Bay of Bengal is pushed up the steep Khasi hills. Mawsynram, on those hills, gets about 1,190 centimetres. The Himalaya do it on the largest scale. They stop the monsoon, and Leh in Ladakh behind them gets about 4 centimetres. You compare three pairs of towns in the activity Two Sides of One Hill.",
    "examples": [
-    "Wet side: Kozhikode, about 310 centimetres of rain a year. Dry side: Coimbatore, about 70.",
-    "Wet side: Mumbai, about 240 centimetres. Dry side: Pune, about 75.",
+    "Wet side: Kozhikode, about 300 centimetres of rain a year. Dry side: Coimbatore, about 60.",
+    "Wet side: Mumbai, about 250 centimetres. Dry side: Pune, about 85.",
     "Wet side: Mawsynram, about 1,190 centimetres. A hundred kilometres north, Guwahati gets about 170."
    ],
    "perspectives": [],
@@ -314,7 +314,7 @@
    "concept": "Knowledge fits the land where it was tested",
    "status": "defined",
    "definition": "A way of farming, building or finding water is tested by the land where people use it. So it fits that land, and may fail in a different one.",
-   "description": "In the Two Lands Test, the tall tower that won in still air fell in the wind. Real knowledge behaves the same way. A flat mud roof is right for Ladakh, with 10 centimetres of rain a year. In Meghalaya the same roof would wash away in a week. Short, heavy-yielding rice gives far more grain than Pokkali in a field of fresh, shallow water. In a tidal field near Kochi the short rice drowns. This also explains some large mistakes. Foresters trained in Europe saw the grasslands of the Nilgiris as waste land and planted trees on them. In Kutch, a thorny tree from the Americas was planted from the 1960s to hold the soil. These trees now cover more than half of the Banni grassland. Some knowledge does travel well. The way to test an idea fairly works in every land, and so does a vaccine. What changes from land to land is the rain, the height, the salt and the soil. A design has to meet these.",
+   "description": "In the Two Lands Test, the tall tower that won in still air fell in the wind. Real knowledge behaves the same way. A flat mud roof is right for Leh in Ladakh, with about 4 centimetres of rain a year. In Meghalaya the same roof would wash away in a week. Short, heavy-yielding rice gives far more grain than Pokkali in a field of fresh, shallow water. In a tidal field near Kochi the short rice drowns. This also explains some large mistakes. Foresters trained in Europe saw the grasslands of the Nilgiris as waste land and planted trees on them. In Kutch, a thorny tree from the Americas was planted from the 1960s to hold the soil. These trees now cover more than half of the Banni grassland. Some knowledge does travel well. The way to test an idea fairly works in every land, and so does a vaccine. What changes from land to land is the rain, the height, the salt and the soil. A design has to meet these.",
    "examples": [
     "A stilt house from the Assam flood plain would also suit the backwaters of Kerala, because both lands flood.",
     "A kund works in the Thar and in Kutch, because both get their rain in a few storms.",
@@ -392,7 +392,7 @@
  "agreed": [
   {
    "text": "Rain is shared out very unevenly across India, and mountain ranges cause much of the difference.",
-   "evidence": "Weather offices have measured rain with gauges for more than 100 years. Mangaluru, on the sea side of the Western Ghats, gets about 350 centimetres a year. Bengaluru, behind the hills, gets about 100."
+   "evidence": "Weather offices have measured rain with gauges for more than 100 years. Mangaluru, on the sea side of the Western Ghats, gets about 375 centimetres a year. Bengaluru, behind the hills, gets about 110."
   },
   {
    "text": "Air is colder at greater heights, by about 6 degrees Celsius for every 1,000 metres on a wet mountain.",
@@ -467,8 +467,8 @@
   {
    "claim": "A desert has too little rain for people to live on rain alone.",
    "who": "A common belief.",
-   "for": "Jaisalmer gets about 20 centimetres of rain a year. Chennai gets about seven times as much.",
-   "against": "Each square metre of ground in Jaisalmer still receives about 200 litres of rain a year. A kund with a wide saucer of hard ground collects enough for a family. People have lived this way in the Thar for centuries.",
+   "for": "Jaisalmer gets about 25 centimetres of rain a year. Chennai gets about 140, more than five times as much.",
+   "against": "Each square metre of ground in Jaisalmer still receives about 250 litres of rain a year. A kund with a wide saucer of hard ground collects enough for a family. People have lived this way in the Thar for centuries.",
    "status": "rejected",
    "context": "This card is about the belief that a desert cannot supply its own water."
   }
@@ -594,7 +594,7 @@
      "kind": "cards",
      "title": "30 land cards: five each from six regions of India",
      "items": [
-      "About 10 centimetres of rain a year, at 3,500 metres. Winter nights can fall to minus 20 degrees.",
+      "About 4 centimetres of rain a year, at 3,500 metres. Winter nights can fall to minus 20 degrees.",
       "Seabuckthorn, a thorny bush with orange berries, growing beside icy streams.",
       "A snow leopard with thick fur, wide paws and a tail as long as her body.",
       "A house with thick mud-brick walls and a flat roof, with fodder stacked on top.",
@@ -630,7 +630,7 @@
      "kind": "score sheet",
      "title": "Answer key: the six regions, their five cards and the reasons",
      "items": [
-      "LADAKH, the cold desert. Land: 10 centimetres of rain at 3,500 metres. Plant: seabuckthorn. Animal: snow leopard. Home: thick mud-brick walls and a flat roof. Knowledge: meltwater channels shared by a chosen villager. Because: the Himalaya block the rain, and height makes the air cold. Thick walls hold warmth, and a flat mud roof is safe where it hardly rains.",
+      "LADAKH, the cold desert. Land: about 4 centimetres of rain at 3,500 metres. Plant: seabuckthorn. Animal: snow leopard. Home: thick mud-brick walls and a flat roof. Knowledge: meltwater channels shared by a chosen villager. Because: the Himalaya block the rain, and height makes the air cold. Thick walls hold warmth, and a flat mud roof is safe where it hardly rains.",
       "THE THAR, the hot desert. Land: 10 to 50 centimetres of rain in a few storms. Plant: khejri. Animal: chinkara. Home: round mud house with a cone-shaped thatch. Knowledge: the kund. Because: rain is rare, so plants, animals and people all save water. The kund's wide saucer catches a storm, and its cover keeps the Sun off the water.",
       "THE WESTERN GHATS. Land: hills facing the monsoon, 200 to 700 centimetres of rain. Plant: neelakurinji. Animal: lion-tailed macaque. Home: steep tiled roof with a deep overhang. Knowledge: the Kani people's arogyapacha. Because: wet sea air is pushed up the hills and drops its rain. A steep roof sheds heavy rain, and rainforest people know hundreds of plants.",
       "NORTH-EAST INDIA. Land: the wettest hills, above a flooding river valley. Plant: pitcher plant. Animal: sangai. Home: house on bamboo stilts. Knowledge: living root bridge. Because: the Brahmaputra floods most years, so floors are raised. Cut wood rots in the wet hills, so bridges are grown. Rain washes food from the soil, so the pitcher plant catches insects.",
@@ -727,7 +727,7 @@
      "items": [
       {
        "f": "A flat mud roof from Ladakh, built in Cherrapunji in Meghalaya.",
-       "b": "BAD IDEA. Ladakh gets about 10 centimetres of rain a year. Cherrapunji gets more than 1,000. The mud would wash away."
+       "b": "BAD IDEA. Leh, in Ladakh, gets about 4 centimetres of rain a year. Cherrapunji gets more than 1,000. The mud would wash away."
       },
       {
        "f": "A living root bridge from Meghalaya, grown in the Thar desert.",
@@ -771,7 +771,7 @@
       },
       {
        "f": "A deep borewell and a green lawn, in Jaisalmer.",
-       "b": "BAD IDEA. About 20 centimetres of rain refill the ground each year. The well would take water out faster than rain puts it back."
+       "b": "BAD IDEA. About 25 centimetres of rain refill the ground each year. The well would take water out faster than rain puts it back."
       },
       {
        "f": "Mangrove trees planted along a muddy creek near Mumbai.",
@@ -1683,27 +1683,27 @@
     "data": [
      {
       "label": "Mangaluru (sea side)",
-      "value": 350
+      "value": 375
      },
      {
       "label": "Bengaluru (behind the hills)",
-      "value": 100
+      "value": 110
      },
      {
       "label": "Kozhikode (sea side)",
-      "value": 310
+      "value": 300
      },
      {
       "label": "Coimbatore (behind the hills)",
-      "value": 70
+      "value": 60
      },
      {
       "label": "Mumbai (sea side)",
-      "value": 240
+      "value": 250
      },
      {
       "label": "Pune (behind the hills)",
-      "value": 75
+      "value": 85
      }
     ]
    },
@@ -1752,9 +1752,9 @@
      "id": "s3",
      "mins": 8,
      "do": "Read out the six rain figures from the chart. Your child draws a bar for each town, in pairs. One small square stands for 25 centimetres. They use one colour for the sea side and another for the far side.",
-     "say": "Mangaluru gets about 350 centimetres of rain a year, and Bengaluru about 100. Kozhikode gets about 310, and Coimbatore about 70. Mumbai gets about 240, and Pune about 75. Draw the six bars in pairs.",
+     "say": "Mangaluru gets about 375 centimetres of rain a year, and Bengaluru about 110. Kozhikode gets about 300, and Coimbatore about 60. Mumbai gets about 250, and Pune about 85. Draw the six bars in pairs.",
      "kid": "Draw six bars, in pairs. One small square is 25 centimetres of rain. Use two colours.",
-     "parent": "At one square for 25 centimetres, the Mangaluru bar is 14 squares tall and the Coimbatore bar is about 3.",
+     "parent": "At one square for 25 centimetres, the Mangaluru bar is 15 squares tall and the Coimbatore bar is about 2 and a half.",
      "context": "In this step of Two Sides of One Hill you draw a bar chart. It shows the yearly rain in six towns."
     },
     {
@@ -2654,7 +2654,7 @@
     },
     {
      "t": "write",
-     "p": "Mangaluru gets about 350 centimetres of rain a year, and Bengaluru about 100. Explain why.",
+     "p": "Mangaluru gets about 375 centimetres of rain a year, and Bengaluru about 110. Explain why.",
      "lines": 3,
      "a": "Mangaluru is on the sea side of the Western Ghats. The wet monsoon air is pushed up the hills, cools, and drops its rain there. Bengaluru is behind the hills, in the rain shadow.",
      "why": "A strong answer names the hills and says that rising air cools and rains. It also says that little water is left for the far side.",
@@ -2876,7 +2876,7 @@
      "t": "write",
      "p": "A flat mud roof is right in Ladakh and wrong in Meghalaya. Explain why, using rain figures.",
      "lines": 3,
-     "a": "Ladakh gets about 10 centimetres of rain a year, so a mud roof stays dry and firm. The Khasi hills of Meghalaya get about 1,190 centimetres. That much rain would wash a mud roof away.",
+     "a": "Leh, in Ladakh, gets about 4 centimetres of rain a year, so a mud roof stays dry and firm. The Khasi hills of Meghalaya get about 1,190 centimetres. That much rain would wash a mud roof away.",
      "why": "A strong answer gives both rain figures. It says that the roof was tested only by the land where people built it.",
      "outcome": 6
     },
@@ -3022,7 +3022,7 @@
       "It is far from any river"
      ],
      "a": 2,
-     "why": "Height makes the air cold. The Himalaya stop the monsoon, so Ladakh lies in a rain shadow and gets about 10 centimetres of rain.",
+     "why": "Height makes the air cold. The Himalaya stop the monsoon, so Ladakh lies in a rain shadow. Leh gets about 4 centimetres of rain a year.",
      "outcome": 2
     },
     {
@@ -3054,9 +3054,9 @@
     },
     {
      "t": "count",
-     "p": "Jaisalmer gets 20 centimetres of rain a year. How many litres fall on one square metre of ground?",
+     "p": "Jaisalmer gets 25 centimetres of rain a year. How many litres fall on one square metre of ground?",
      "a": 200,
-     "why": "200 litres. One centimetre of rain on one square metre is 10 litres. 20 times 10 is 200.",
+     "why": "250 litres. One centimetre of rain on one square metre is 10 litres. 25 times 10 is 250.",
      "outcome": 5
     },
     {
@@ -3093,7 +3093,7 @@
       "Mumbai",
       "Mawsynram"
      ],
-     "why": "Leh gets about 10 centimetres, Jaisalmer 20, Bengaluru 100, Mumbai 240 and Mawsynram about 1,190. Mountains explain the two ends of the list.",
+     "why": "Leh gets about 4 centimetres, Jaisalmer 25, Bengaluru 110, Mumbai 250 and Mawsynram about 1,190. Mountains explain the two ends of the list.",
      "outcome": 2
     },
     {
@@ -3442,9 +3442,9 @@
  ],
  "maths": [
   {
-   "problem": "Mangaluru gets about 350 centimetres of rain a year, and Bengaluru about 100. Mumbai gets about 240, and Pune about 75. In each pair, how many times as much rain does the sea-side town get?",
-   "answer": "Mangaluru gets 3 and a half times as much as Bengaluru. Mumbai gets a little more than 3 times as much as Pune.",
-   "explain": "Divide the larger figure by the smaller. 350 divided by 100 is 3.5. 240 divided by 75 is 3.2. Both pairs give about the same answer. This suggests that the same thing is happening on both stretches of the hills.",
+   "problem": "Mangaluru gets about 375 centimetres of rain a year, and Bengaluru about 110. Mumbai gets about 250, and Pune about 85. In each pair, how many times as much rain does the sea-side town get?",
+   "answer": "Mangaluru gets a little more than 3 times as much as Bengaluru. Mumbai gets almost 3 times as much as Pune.",
+   "explain": "Divide the larger figure by the smaller. 375 divided by 110 is about 3.4. 250 divided by 85 is about 2.9. Both pairs give about the same answer. This suggests that the same thing is happening on both stretches of the hills.",
    "math_unit": "math.fractions.ratio-and-proportion.L5",
    "how": "a2",
    "context": "In Two Sides of One Hill you draw a bar chart of yearly rain. The towns lie on both sides of the Western Ghats. These are the rounded figures for two of the pairs.",
@@ -3456,19 +3456,19 @@
     "data": [
      {
       "label": "Mangaluru (sea side)",
-      "value": 350
+      "value": 375
      },
      {
       "label": "Bengaluru (behind the hills)",
-      "value": 100
+      "value": 110
      },
      {
       "label": "Mumbai (sea side)",
-      "value": 240
+      "value": 250
      },
      {
       "label": "Pune (behind the hills)",
-      "value": 75
+      "value": 85
      }
     ]
    },
@@ -3756,7 +3756,7 @@
    [
     "Ladakh is a desert.",
     true,
-    "Ladakh gets about 10 centimetres of rain a year. It is a cold desert."
+    "Leh, in Ladakh, gets about 4 centimetres of rain a year. It is a cold desert."
    ],
    [
     "A flat mud roof suits a place with very heavy rain.",
@@ -3895,7 +3895,7 @@
    "Nanda M. (2003). Prophets Facing Backward: Postmodern Critiques of Science and Hindu Nationalism in India. Rutgers University Press.",
    "Gadgil M. and Guha R. (1992). This Fissured Land: An Ecological History of India. Oxford University Press.",
    "The Kani benefit-sharing case: arogyapacha (Trichopus zeylanicus) and the medicine Jeevani, Tropical Botanic Garden and Research Institute, Kerala, 1987 to 1997. The turmeric patent case: United States patent 5,401,504, granted 1995 and cancelled 1997 after a challenge by India's Council of Scientific and Industrial Research.",
-   "India Meteorological Department climate normals, for the rounded rainfall figures of Mangaluru, Bengaluru, Kozhikode, Coimbatore, Mumbai, Pune, Jaisalmer, Leh and Mawsynram.",
+   "India Meteorological Department (2022). Climatological Tables of Observatories in India 1991-2020 (ninth edition), National Data Centre, Pune. https://imdpune.gov.in/library/public/Climatological%20Tables%201991-2020.pdf. Annual average rainfall, rounded to the nearest 5 centimetres: Mangaluru (Bajpe airport) 375, Bengaluru 110, Kozhikode 300, Coimbatore (airport) 60, Mumbai (Santacruz) 250, Pune 85, Jaisalmer 25, Guwahati 170, Chennai (Nungambakkam) 140, Cherrapunji (Sohra) 1,115. Leh is 3.5 centimetres, shown as about 4. Mawsynram is not an observatory in these tables, so its figure of about 1,190 centimetres is a rough value and not an IMD normal. Station values may differ from nearby stations by 10 centimetres or more (for example Bengaluru HAL 95, Mumbai Colaba 220).",
    "Facts checked on 17 November 2026 against: Rodgers and Panwar zone shares as tabulated in the National Biodiversity Strategy (Deccan 41.99, Semi-arid 16.60, Gangetic Plain 10.79, Western Ghats 4.03, Islands 0.25 parts in 100); the 2022 tiger census (about 100 tigers in the Indian Sundarbans); Crook and others (1997) abstract; Ludwig and others (2019) paper; Sukumar and others (1993) abstract; Pokkali notes from Hakai Magazine and ICAR."
   ]
  },

@@ -173,25 +173,25 @@ Friction is one force, and we meet it in many forms. It is the grip of a shoe, t
 - *big:* Tyres and brakes wear into dust that ends up in rivers and the sea. Is the friction we use on roads free? (hint: Somebody, somewhere, breathes or drinks what is rubbed off.)
 
 ## Story: A Handful of Sand
-*A made-up story. The science and the railway are real. The Braganza Ghat runs between Kulem in Goa and Castle Rock in Karnataka. It is a very steep railway climb. Extra engines push trains up it, and the Dudhsagar waterfall falls beside the track. Indian engines carry sand to drop on slippery rails. Yazhini, Shanta Chithi, the passengers and this journey are imagined, and the five engines are imagined. Real trains here usually have about three engines, two in front and one pushing.*
+*A made-up story. The science and the railway are real. The Braganza Ghat runs between Kulem in Goa and Castle Rock in Karnataka. It is a very steep railway climb. Trains usually climb it with two engines in front and one pushing at the back, and the Dudhsagar waterfall falls beside the track. Indian engines carry sand to drop on slippery rails. Yazhini, Shanta Chithi, the passengers and this journey are imagined.*
 
 The train left Kulem station in the rain. It was July, and Yazhini was ten. She sat with her nose against the window bars, because somewhere up this hill was the Dudhsagar waterfall.
 
 Her aunt, Shanta Chithi, sat across from her with a steel tiffin box on her knees. Chithi drove goods trains for the railway. Today she was only a passenger, going home to Hubballi on leave.
 
-The hill ahead was called the Braganza Ghat. For twenty-six kilometres the track climbed through wet forest. It was a very steep railway climb. At Kulem the railway had joined extra engines to the back of the train, to push.
+The hill ahead was called the Braganza Ghat. For twenty-six kilometres the track climbed through wet forest. It was a very steep railway climb. At Kulem the railway had joined one more engine to the back of the train, to push.
 
 "How many engines do we have?" Yazhini asked.
 
-"Two in front and three pushing from behind," said Chithi. "Each one is as strong as about four thousand horses."
+"Three. Two in front and one pushing from behind," said Chithi. "Each one is as strong as about four thousand horses."
 
-Yazhini tried to picture twenty thousand horses. She could not. The train climbed slowly, through one tunnel and then another. Rain ran down the bars. Wet leaves lay stuck to the sleepers, and on the shining tops of the rails.
+Yazhini tried to picture twelve thousand horses. She could not. The train climbed slowly, through one tunnel and then another. Rain ran down the bars. Wet leaves lay stuck to the sleepers, and on the shining tops of the rails.
 
 Then the forest opened, and there was the waterfall. White water came down the whole height of the mountain, so close that spray blew in through the window. Everyone in the coach stood up to look.
 
 The train slowed. It slowed some more. Then a sound came from the front of the train, a rising whirr, like a mixer running with nothing in the jar. The coach shook. Outside, the trees stood perfectly still.
 
-"We have stopped," said a man by the door. "Five engines, and they are still too weak for this rain. They should have sent a bigger one."
+"We have stopped," said a man by the door. "Three engines, and they are still too weak for this rain. They should have sent a bigger one."
 
 "The train is too heavy," said a woman with a basket of bananas. "Half of us should get down and walk."
 
@@ -205,9 +205,9 @@ Chithi put the lid back on her tiffin box. "Go on," she said.
 
 "An engine only turns its wheels," said Yazhini. "The wheel pushes backward on the rail. If the rail holds the wheel, the rail pushes the train forward. But the rail is wet, and there are leaves on it. So the wheel just slides round. Nothing is pushing us."
 
-"And if you were the loco pilot?" asked Chithi. "Would you ask for a sixth engine?"
+"And if you were the loco pilot?" asked Chithi. "Would you ask for a fourth engine?"
 
-Yazhini shook her head. "A sixth engine would spin too. I would not make the wheels stronger. I would make the rail hold them. I would put something rough under the wheels."
+Yazhini shook her head. "A fourth engine would spin too. I would not make the wheels stronger. I would make the rail hold them. I would put something rough under the wheels."
 
 Chithi smiled. "Listen," she said.
 
@@ -221,13 +221,13 @@ The coach gave a small jerk. A tree trunk slid past the window, then another. Th
 
 "Less," said Yazhini, but only Chithi heard her.
 
-At the top of the ghat the train stopped at Castle Rock, and the three pushing engines were taken off. Yazhini climbed down and walked along the wet platform to the front. She bent to look at the place where a great steel wheel stood on the rail.
+At the top of the ghat the train stopped at Castle Rock, and the pushing engine was taken off. Yazhini climbed down and walked along the wet platform to the front. She bent to look at the place where a great steel wheel stood on the rail.
 
 The wheel was more than a metre across. But the place where it touched the rail was tiny, smaller than a one-rupee coin. On the rail beside it lay a little pale dust, the last of the crushed sand.
 
 "All those horses," she said, "and they push through a patch that size."
 
-"Twenty thousand horses," said Chithi, "and a handful of sand."
+"Twelve thousand horses," said Chithi, "and a handful of sand."
 
 Yazhini walked back along the platform. It was wet, so she walked carefully. At each step she felt her sandal press backward on the stone, and the stone push her on.
 
