@@ -3,12 +3,12 @@
  "title": "Taking without emptying: how much can we take and still leave enough?",
  "level": 4,
  "summary": {
-  "text": "Fish, clams and tigers have young, and grass grows back, so it seems they should never run out. Yet people have emptied lakes, seas and forests that refilled themselves for thousands of years. Your child counts beans they cannot see all at once, using the same trick scientists use for tigers and fish. They run a pond where a whole village shares the fish, and they see how a small mistake can empty it. They also build a model of groundwater, test which seeds in the kitchen are still alive, and find out why a village of rice farmers keeps five kinds of rice.",
+  "text": "Fish, clams and tigers have young, and grass grows back, so it seems they should never run out. Yet people have emptied lakes, seas and forests that refilled themselves for thousands of years. Your child works out how many beans are in a jar without counting them all, using the same method scientists use to count tigers and fish. They run a pond where a whole village shares the fish, and they see how a small mistake can empty it. They also build a model of groundwater, test which seeds in the kitchen are still alive, and find out why a village of rice farmers keeps five kinds of rice.",
   "art": "A kitchen table with a glass jar of beans, a bowl of fish-shaped tokens beside a drawn pond, and a row of small paper seed packets."
  },
  "intro": {
   "hook": "Fill a jar with beans. Take out 40, mark each with a dot, and shake them back in. Now scoop out 40 beans again. Only 6 have a dot. Without counting every bean, how many beans are in the jar?",
-  "text": "You can work it out. If 6 of the 40 beans in the second scoop have a dot, then about 6 in every 40 beans in the jar have a dot. You marked 40 in all, so the jar holds about 40 times 40 divided by 6, which is about 270. Scientists use this trick to count fish in a lake and tigers in a forest, where nobody can count every one. In this unit you use it, and then you look at a harder question: if fish, grass and trees all grow back, why do they still run out?",
+  "text": "You can work it out. If 6 of the 40 beans in the second scoop have a dot, then about 6 out of every 40 beans in the jar have a dot. You marked 40 beans in all, and those 40 are about 6 out of every 40 in the jar. So the whole jar holds about 40 times 40 divided by 6 beans, which is about 270. Scientists use this method to count fish in a lake and tigers in a forest, where nobody can count every one. In this unit you use it, and then you look at a harder question: if fish, grass and trees all grow back, why do they still run out?",
   "art": "A glass jar of dried chickpeas with a few beans marked with a dot, and a hand holding a cup of beans, three of them dotted."
  },
  "outcomes": [
@@ -332,7 +332,7 @@
    "perspectives": [
     {
      "who": "Supporters of the plan",
-     "explanation": "India lost its cheetahs. Grasslands, which are shrinking, also need protecting. A new group of cheetahs brings money and attention to grassland animals that are also in danger, such as the great Indian bustard."
+     "explanation": "India lost its cheetahs, and these people feel they should be brought back. Grasslands are shrinking and need protecting too. They say a new group of cheetahs would bring money and attention to the grasslands. That would also help other grassland animals in danger, such as the great Indian bustard."
     },
     {
      "who": "Critics of the plan",
@@ -515,7 +515,7 @@
    "evidence": "In the Beans in the Jar test, nobody saw all the beans, yet a few scoops gave a good estimate. In the Ask an Elder activity, what a person remembered being here depended on how old they were. If your results differ, write them as they are and say why."
   },
   "three": {
-   "who_am_i": "Your eyes and ears take a small sample of the world, and your mind works out the rest. A bee takes a different sample, and a bat takes another.",
+   "who_am_i": "Your eyes and ears take a small sample of the world, and your mind works out the rest. A bee senses different parts of the world than you do, and so does a bat. Each of them works with only a small part of everything that is there.",
    "what_is_life": "A group of fish can go on for thousands of years, though each fish lives only a few years. Fish are born and fish die all the time, and the group carries on.",
    "what_is_this_world": "Fish in a lake, water under the ground and seeds in a jar are all stocks. Something comes in, like water from a tap, and something goes out, like water down a drain. Many of these changes are too slow for one person to see in a lifetime."
   },
@@ -646,7 +646,7 @@
     "The breeding: if 4 or more fish are left, add 1 new fish for every 2 fish left. Ignore a leftover single fish. The pond holds at most 24 fish.",
     "The weather: turn over a weather card and do what it says. Put the card at the bottom of the pile.",
     "After 8 years, if the pond is still alive, the villager with the most fish in their bowl wins. If two have the same, they share the win.",
-    "The Council game: before each year, players may talk and agree on how many fish each will catch. The village wins together if the pond is alive after 8 years and all the bowls hold at least 40 fish in all.",
+    "The Council game: before each year, players may talk and agree on how many fish each will catch. The village wins together if the pond is alive after 8 years and the bowls together hold at least 40 fish.",
     "Playing alone: play all three villagers yourself. Win by catching at least 45 fish in 8 years while the pond stays alive."
    ],
    "flow": [
@@ -941,7 +941,7 @@
    "title": "Beans in the Jar: how many are there, if you cannot count them all at once?",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment, you estimate how many beans are in a jar by marking some, mixing them back and scooping again. Scientists use the same trick to count fish and tigers.",
+   "context": "In this experiment, you estimate how many beans are in a jar by marking some, mixing them back and scooping again. Scientists use the same method to count fish and tigers.",
    "question": "If you mark 40 beans, mix them back into a jar and scoop again, can the number of marked beans in the scoop tell you how many beans are in the whole jar?",
    "predict": "Before you start, guess how many beans are in the jar just by looking. Then guess whether a few scoops can give a better answer than your eyes. Why do you think so?",
    "fair_test": "Every scoop uses the same small spoon, and you shake the jar the same way before each scoop. You return all the beans to the jar each time, so the jar never changes. Only the scoop changes, so any difference between estimates comes from chance, and from how many scoops you take.",
@@ -991,7 +991,7 @@
     },
     {
      "art": "A child scooping a small katori of chickpeas onto a plate and counting them in a row.",
-     "caption": "2. Scoop one katori of beans. Count them. This number is M."
+     "caption": "2. Scoop one spoonful of beans. Count them. This number is M."
     },
     {
      "art": "A child making a dot on each chickpea with a marker pen, a plate of dotted chickpeas in front.",
@@ -1038,7 +1038,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "context": "In this step, you put the marked beans back and mix them well, because the trick only works if they are well mixed.",
+     "context": "In this step, you put the marked beans back and mix them well, because the method only works if they are well mixed.",
      "do": "Pour the marked beans back into the jar. Put the lid on. Shake the jar 20 times, turning it over and around. Wait a moment for the beans to settle.",
      "say": "The marked beans must mix in with all the others. We shake the jar well. If they stayed at the top, the scoop would be unfair.",
      "kid": "Pour the marked beans back. Put the lid on. Shake it 20 times.",
@@ -1100,7 +1100,7 @@
      "do": "Open the slip under the lid and read the true number. Compare it with your average. Say or write three things: what I think, what I saw, and why.",
      "say": "Now read the real number. How close was your guess from looking? How close was your average from the scoops? Tell me what you think, what you saw and why.",
      "kid": "Read the true number. Compare. Say what you think, what you saw, and why.",
-     "parent": "A good answer: What I think: a few scoops tell you more than looking. What I saw: my average was close to the true number, but single scoops were far off. Why: each scoop shows the fraction of marked beans, and the fraction is about the same in the scoop as in the jar. Link to the card: Counting what you cannot see."
+     "parent": "A good answer sounds like this. I thought that a few scoops would tell me more than looking would. I saw that my average was close to the true number, but single scoops were far off. This is because each scoop shows the fraction of marked beans, and that fraction is about the same in the scoop as in the whole jar. You can link this to the card called Counting what you cannot see."
     }
    ]
   },
@@ -1445,7 +1445,7 @@
       "a": 0,
       "why": "Stones and sand have big gaps for water to travel through, so rain passes down quickly instead of lying on the top. Soil holds water and passes it on slowly, and pressed soil hardly passes it at all."
      },
-     "parent": "A good answer: What I think: stones let the most water through and pressed soil the least. What I saw: nearly all the water ran through the stones in seconds and almost none ran through the pressed soil. Why: the gaps between the grains are big in stones and small in pressed soil. Link to the card: Groundwater is a bank account."
+     "parent": "A good answer sounds like this. I thought that stones would let the most water through and pressed soil the least. I saw that nearly all the water ran through the stones in seconds, and almost none ran through the pressed soil. This is because the gaps between the stones are big, and the gaps in pressed soil are tiny. You can link this to the card called Groundwater is a bank account."
     }
    ]
   }
@@ -2174,7 +2174,7 @@
        ]
       }
      ],
-     "parent": "A good answer: What I think: whole raw seeds are alive, and roasted or split ones are not. What I saw: most of the whole moong, kala chana, mustard and methi sprouted, and none of the roasted chana or split dal. Why: a seed holds a tiny plant, and heat or breaking kills it. Seed banks test their seeds in the same way every few years."
+     "parent": "A good answer sounds like this. I thought that whole raw seeds would be alive, and roasted or split seeds would not. I saw that most of the whole moong, kala chana, mustard and methi sprouted, and none of the roasted chana or split dal did. This is because a seed holds a tiny plant, and heat or breaking kills that plant. Seed banks test their seeds in the same way every few years."
     }
    ]
   }
@@ -2343,7 +2343,7 @@
      "do": "Reset the pond to 16 fish. Play 8 years. Every villager follows the rule. Count the fish in the bowls at the end, and write down if the pond stayed alive.",
      "say": "Everyone follows the rule, with no cheating. Play it through. Is the pond alive at the end? How many fish did you catch?",
      "kid": "Reset the pond. Play 8 years with your rule. Count the fish.",
-     "parent": "A rule of 2 each collapses the pond in about 5 years. A rule to always leave 16 fish gives about 56 fish. A rule of 1 each is safe but only gives 24."
+     "parent": "If every villager catches 2 fish each year, the pond collapses in about 5 years. If the rule is to always leave 16 fish in the pond, the village catches about 56 fish. If every villager catches 1 fish each year, the pond is safe, but the village catches only 24 fish."
     },
     {
      "id": "s3",
@@ -2385,7 +2385,7 @@
      ],
      "a": 0,
      "outcome": 1,
-     "why": "Fish have young every year, so a lake can keep giving fish if enough are left to breed. Coal and iron ore took millions of years to form. Picking them means thinking everything natural grows back."
+     "why": "Fish have young every year, so a lake can keep giving fish if enough are left to breed. Coal and iron ore took millions of years to form. Choosing coal or iron ore would mean believing that everything natural grows back, and these do not."
     },
     {
      "t": "mcq",
@@ -2409,7 +2409,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Someone says, 'Fish can have young, so a lake of fish can never run out.' Is this right?",
+     "p": "True or false: Fish can have young, so a lake of fish can never run out.",
      "a": false,
      "why": "False. Fish can run out if the catch is bigger than the births, or if too few parents are left. Renewable only works if we take less than nature replaces."
     },
@@ -2424,7 +2424,7 @@
      "a": 1,
      "outcome": 2,
      "how": "e1",
-     "why": "5 of the 30 beans in the scoop are marked, which is 1 in 6. The 20 marked beans are about 1 in 6 of the jar. So the jar holds about 6 times 20, which is 120. Picking 150 means adding when you should multiply."
+     "why": "5 of the 30 beans in the scoop are marked, which is 1 in 6. The 20 marked beans are about 1 in 6 of the jar. So the jar holds about 6 times 20, which is 120. An answer of 150 comes from adding numbers instead of using the fraction."
     },
     {
      "t": "match",
@@ -2530,7 +2530,7 @@
      ],
      "a": 0,
      "outcome": 3,
-     "why": "Young come from parents. With very few parents, few young are born, and the few animals may be too far apart to find each other. Picking 'forget' puts a human habit on an animal."
+     "why": "Young come from parents. With very few parents, few young are born, and the few animals may be too far apart to find each other. Animals do not forget how to breed, so that choice is wrong."
     },
     {
      "t": "truefalse",

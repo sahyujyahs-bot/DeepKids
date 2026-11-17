@@ -1,7 +1,7 @@
 # Gone from sight: how dirty water hides, travels and builds up
 `sci.environment.pollution.L4`
 
-**Summary.** Five drops of colour turn a tumbler of water bright. Pour one spoonful into fresh water, and again, and again, and the colour fades until your eyes cannot find it. Is it gone? Your nose may say no. In this unit you thin out colour and scent step by step and test your eyes against your nose. Then you follow dirty water further. You see how oil spreads and how hard it is to clear, how a little pollution piles up inside fish and the animals that eat them, and how a sewage plant uses living microbes to clean water. You also find out why 'clean' always depends on what is being checked, and by whom.
+**Summary.** Five drops of colour turn a tumbler of water bright. Stir one spoonful of it into a tumbler of fresh water, then do the same a few more times, and the colour fades until your eyes cannot find it. Is it gone? Your nose may say no. In this unit you thin out colour and scent step by step and test your eyes against your nose. Then you follow dirty water further. You see how oil spreads and how hard it is to clear, how a little pollution piles up inside fish and the animals that eat them, and how a sewage plant uses living microbes to clean water. You also find out why 'clean' always depends on what is being checked, and by whom.
 
 **Intro.** *Two tumblers of water stand side by side. Both look exactly like water from the tap. Into one of them, someone stirred a spoonful of kewra essence. Can you tell which one, without tasting?* Look as hard as you like, and the two look the same. Now bring each tumbler to your nose. One smells of flowers and the other of nothing. Your eyes could not find the difference, but your nose could. So when a river, a pond or a well 'looks clear', what has been checked, and what has not?
 
@@ -16,19 +16,19 @@
 
 ## Terms
 - **Dilution**: Mixing something into more water so that it is spread thinner. The same amount is there, but it is weaker. *e.g.* One spoon of coloured water stirred into a full tumbler of clear water.
-- **Concentration**: How much of a substance is in a certain amount of water. A strong mix has a high concentration. A thin mix has a low one. *e.g.* Sweet tea has a higher concentration of sugar than tea with one pinch.
+- **Concentration**: How much of a substance is in a certain amount of water. A strong mix has a high concentration. A thin mix has a low one. *e.g.* Very sweet tea has a higher concentration of sugar than tea with only a pinch of sugar.
 - **Parts per million**: A way to write a very small concentration. One part per million means one tiny part in every million parts of water. *e.g.* One drop of colour in a full bathtub of water is less than one part per million.
 - **Sewage**: Used water from toilets, bathrooms and kitchens, with the waste it carries. *e.g.* The water that goes down the drain of a flat goes into a sewer pipe.
 - **Effluent**: Liquid waste that flows out of a factory, a farm or a treatment plant. *e.g.* The water that a dyeing factory lets out after washing cloth.
 - **Runoff**: Rain water that runs over the ground and carries things with it into drains, streams and lakes. *e.g.* After a storm, rain washes oil and dust from a road into the drain.
 - **Nutrient**: A substance that living things use as food to grow. Too much of it in water can be a problem. *e.g.* The nitrogen in fertiliser feeds crops, and also feeds algae in a pond.
 - **Algal bloom**: A sudden crowd of algae that turns the water green and thick. It happens when the water has a lot of nutrients. *e.g.* A pond covered in green scum in the summer.
-- **Dissolved oxygen**: Oxygen gas mixed into water, in tiny bubbles too small to see. Fish and many other water animals breathe it through their gills. *e.g.* A cold glass of water grows bubbles as it warms, because dissolved air comes out.
+- **Dissolved oxygen**: Oxygen gas mixed into water. You cannot see it. Fish and many other water animals breathe it through their gills. *e.g.* A cold glass of water grows bubbles as it warms, because dissolved air comes out.
 - **Biodegradable**: Able to be eaten and broken down by microbes into simple things that soil and water can use. *e.g.* A banana peel rots in a few weeks, but a plastic cover stays for many years.
 - **Bioaccumulation**: A substance building up inside a living body, because the body takes it in faster than it can get rid of it. *e.g.* Mercury builds up in the body of a big fish over her whole life.
 - **Sewage treatment plant**: A place that cleans used water before it goes back to a river or a lake, or is used again. *e.g.* Many large apartment blocks have a small plant in the basement or at the back.
 - **Indicator species**: A living being whose presence tells you how clean the water is, because they can live only in clean water, or only in dirty water. *e.g.* Mayfly nymphs live in clean streams. Red sludge worms live in very dirty ones.
-- **Turbidity**: How cloudy water is, because of tiny bits floating in it. *e.g.* Water after rain in a river is muddy and has high turbidity.
+- **Turbidity**: How cloudy water is, because of tiny bits floating in it. *e.g.* River water after rain is muddy and has high turbidity.
 - **Oil slick**: A thin layer of oil floating on the surface of water. *e.g.* A rainbow shine on a puddle in a car park.
 
 ## Explanations
@@ -51,7 +51,7 @@ A point source is easy to find and to stop. You can walk to the pipe and put a f
 **Definition:** Dilution means spreading a substance through more water. The concentration, which is the strength, goes down. The amount does not.
 
 Stir one spoonful of coloured water into a tumbler of clear water. The mix has a pale colour. Take one spoonful of that and stir it into another clear tumbler, and the colour fades again. After a few steps your eyes see nothing. But the colour was never destroyed. Atoms and molecules are not used up when they mix. Each spoonful carries a little of the colour, and the rest stays behind in the earlier tumblers. Your nose usually keeps finding a scent for longer than your eyes keep finding a colour, but it gives out in the end too. Scientists write tiny strengths as parts per million.
-- e.g. A spoonful of coloured water stirred into a tumbler of clear water makes a mix 41 times weaker than the spoonful.
+- e.g. One level teaspoon of coloured water holds 5 millilitres. Stir it into a tumbler of 200 millilitres of clear water, and the mix is 41 times weaker than the spoonful was.
 - e.g. One drop of ink in a bucket vanishes to the eye, but a chemist's instrument can still find it.
 - e.g. A chemist's instrument can find some chemicals at less than one part in a billion.
 ### Is the sea big enough to take our waste? · *debated*
@@ -60,12 +60,12 @@ For a long time, engineers said, 'The solution to pollution is dilution.' A rive
 - e.g. Mercury poured into Minamata Bay in Japan did not thin out to nothing. It built up in fish and then in people.
 - e.g. Plastic waste thrown into rivers in one country is found on beaches far away.
 - **Old engineering rule (mid 1900s):** Rivers and seas are so large that waste put into them is thinned to harmless levels. Cities can pour sewage and factory waste into them.
-- **Modern scientists:** Thinning lowers the strength, but not the amount. Many pollutants do not break down, settle in mud and build up in animals. Waste must be treated before it is let out.
+- **Modern scientists:** Thinning lowers the strength, but not the amount. Many pollutants do not break down. They settle in mud and build up in animals. Waste must be treated before it is let out.
 - **Water engineers today:** Mixing is still part of safe design. A treated stream is let into a river at a rate that the river can mix and clean. The key is to measure, and not to guess from how the water looks.
 ### Dissolved things: too small for any cloth · *defined*
 **Definition:** Dissolved means spread out into single atoms, ions or molecules, so small that no cloth or sand can catch them.
 
-A grain of mud is made of billions of atoms and can be seen with a magnifying glass. When salt dissolves, the salt breaks into single ions. An ion is an atom, or a small group of atoms, with an electric charge. Water holds each one apart. A single ion is thousands of times narrower than a grain of fine mud. A filter has gaps that are far too big to stop it. That is why sand and cloth clean muddy water but leave salty water as salty. Cleaning dissolved pollution needs other methods, such as charcoal that holds chemicals on its surface, or reverse osmosis, which pushes water through a skin with the tiniest holes.
+A grain of mud is made of billions of atoms and can be seen with a magnifying glass. When salt dissolves, the salt breaks into single ions. An ion is an atom, or a small group of atoms, with an electric charge. Water holds each one apart. A single ion is thousands of times narrower than a grain of fine mud. A filter has gaps that are far too big to stop it. That is why sand and cloth clean muddy water but leave salty water just as salty. Cleaning dissolved pollution needs other methods, such as charcoal that holds chemicals on its surface, or reverse osmosis, which pushes water through a skin with the tiniest holes.
 - e.g. Salty water poured through a cloth stays salty.
 - e.g. Charcoal in a water filter takes out some dissolved chemicals and smells.
 - e.g. A reverse osmosis purifier removes most dissolved salts, but also wastes a lot of water.
@@ -79,7 +79,7 @@ Kitchen waste, sewage and dead plants are food for microbes. When a lot of food 
 ### Too much plant food: algal blooms · *defined*
 **Definition:** Nutrients such as nitrogen and phosphorus feed algae. When too much reaches a lake, the algae grow into a thick green crowd called an algal bloom.
 
-Fertiliser, detergent and sewage all carry nitrogen and phosphorus. These are the same foods that make crops grow. In a lake they make algae grow too. The algae cover the surface and block the sunlight from plants below. When the algae die, microbes eat them, and use up the oxygen, as in the last card. So a lake can turn green first and then run short of oxygen. Some blooms also make poisons. In Bengaluru, lakes such as Bellandur have been covered with white foam and floating weed, which people link to detergents and sewage.
+Fertiliser, detergent and sewage all carry nitrogen and phosphorus. These are the same foods that make crops grow. In a lake they make algae grow too. The algae cover the surface and block the sunlight from plants below. When the algae die, microbes eat them and use up the oxygen dissolved in the water. So a lake can turn green first and then run short of oxygen. Some blooms also make poisons. In Bengaluru, lakes such as Bellandur have been covered with white foam and floating weed, which people link to detergents and sewage.
 - e.g. A farm pond that turns green a week after fertiliser is spread nearby.
 - e.g. Foam on a polluted lake, made partly of detergent.
 - e.g. Lilies or water hyacinth covering a lake so thickly that boats cannot pass.
@@ -87,15 +87,15 @@ Fertiliser, detergent and sewage all carry nitrogen and phosphorus. These are th
 **Definition:** Bioaccumulation is a pollutant building up inside a living body over time. When it passes up a food chain and grows stronger at each step, it is called biomagnification.
 
 Some pollutants are not broken down or passed out of the body. Methylmercury is one. Tiny plankton take it in from the water. A small fish eats thousands of plankton and keeps all the mercury in them. A bigger fish eats many small fish and keeps theirs. A person or a heron at the end of the chain eats the biggest fish and gets the most. The water itself may have almost none. In the fish at the top there can be many thousands of times more. This is why pollution that looks tiny in a river can still harm the animals at the top of the food chain.
-- e.g. Mercury in large fish such as swordfish and shark, which some countries warn pregnant women not to eat.
+- e.g. Large fish such as swordfish and shark hold mercury, and some countries warn pregnant women not to eat them.
 - e.g. DDT, a pesticide, built up in birds at the top of food chains and thinned their eggshells. Rachel Carson warned about it in Silent Spring in 1962.
-- e.g. The Minamata story: cats, then people, fell ill from fish.
+- e.g. At Minamata in Japan, cats and then people fell ill from eating fish that held mercury.
 ### Why some pollution goes away and some does not · *defined*
 **Definition:** Biodegradable waste is eaten by microbes and turned into simple things. An element, such as lead or mercury, cannot be broken down by anyone. It can only move, or be locked away.
 
-Microbes are very good cooks. They can eat sewage, vegetable waste, cooking oil and even some oil spills. These are made of carbon, hydrogen and oxygen joined together in ways microbes have met for millions of years. But a mercury atom is an element. Nothing in a living body can turn it into something else. It can sit in mud, be washed to the sea or be swallowed by a fish, but the mercury stays mercury. Some plastics sit in between. Microbes have only just begun to meet them, and most have no way to eat them yet.
+Microbes can eat a great many things. They can eat sewage, vegetable waste, cooking oil and even some oil spills. These are made of carbon, hydrogen and oxygen joined together in ways that microbes have come across for millions of years. But a mercury atom is an element. Nothing in a living body can turn it into something else. It can sit in mud, be washed to the sea or be swallowed by a fish, but the mercury stays mercury. Some plastics sit in between. Microbes have only just begun to meet them, and most have no way to eat them yet.
 - e.g. A banana peel is food for microbes and rots away in weeks.
-- e.g. Lead from old petrol, once in the air, is still found in soil and in ice from long ago.
+- e.g. Lead from old petrol once went into the air. It is still found today in soil and in ice from long ago.
 - e.g. Most plastic bags last for many years, breaking into smaller pieces and not into soil.
 ### Oil on water: contain it, soak it, skim it · *defined*
 **Definition:** Oil is lighter than water and does not mix with it, so it spreads into a thin floating layer. Because it floats on top, it can be held in with a floating barrier, skimmed off, or soaked up.
@@ -107,9 +107,9 @@ A drop of oil on water spreads out wider and wider. The thinner it gets, the har
 ### How a sewage treatment plant cleans water · *defined*
 **Definition:** A sewage treatment plant cleans used water in stages. It takes out big bits, then lets solids settle, then lets microbes eat the waste, and last kills germs.
 
-First, screens catch big things such as plastic and rags. Second, the water stands still in a tank and heavy bits settle as sludge. Third, air is bubbled through the water and microbes that breathe air eat the waste in the water. This is the stage that does most of the cleaning, and it is alive. Fourth, the cleaned water is disinfected with chlorine or ultraviolet light. The clean water can be used to flush toilets or water gardens, or it can be let into a river. The sludge is dried and used for compost. A plant cannot take out everything, and it cannot take out most dissolved chemicals from factories.
+First, screens catch big things such as plastic and rags. Second, the water stands still in a tank and heavy bits settle as sludge. Third, air is bubbled through the water and microbes that breathe air eat the waste in the water. This stage does most of the cleaning, and living microbes do the work. Fourth, the cleaned water is disinfected with chlorine or ultraviolet light. The clean water can be used to flush toilets or water gardens, or it can be let into a river. The sludge is dried and used for compost. A plant cannot take out everything, and it cannot take out most dissolved chemicals from factories.
 - e.g. Many large apartment blocks in Indian cities have a small treatment plant at the back, and use its water for gardens.
-- e.g. In the East Kolkata Wetlands, a Ramsar site, the city's sewage runs through shallow fish ponds, where algae and microbes clean it.
+- e.g. In the East Kolkata Wetlands, a Ramsar site (a wetland that many countries have agreed to protect), the city's sewage runs through shallow fish ponds, where algae and microbes clean it.
 - e.g. Reed beds, which are shallow ponds planted with reeds, clean small amounts of water in some villages and schools.
 ### How we check water: tests and living signs · *defined*
 **Definition:** No single test says whether water is clean. Each test checks one thing. Scientists use many tests, and also living beings that show the health of the water.
@@ -117,7 +117,7 @@ First, screens catch big things such as plastic and rags. Second, the water stan
 A turbidity test checks how cloudy the water is. A pH test checks how sour or soapy it is. A dissolved oxygen meter checks how much air the fish have. A coliform test checks for the bacteria found in human and animal waste, which means germs may be present. The Central Pollution Control Board gives rivers a best-use class, from A, which is drinking after disinfection, to E, which is only for irrigation and cooling. So 'clean' always means clean for a use. Streams also have living signs. Mayfly nymphs need clean, oxygen-rich water. Red sludge worms live in very dirty mud.
 - e.g. A river stretch can pass the test for bathing and fail the test for drinking.
 - e.g. Finding mayfly nymphs under the stones of a hill stream means the water is rich in oxygen.
-- e.g. A coliform test on a village well after a flood.
+- e.g. A village well can be tested for coliform bacteria after a flood.
 ### Microplastics: tiny bits, everywhere · *idea*
 **Definition:** Microplastics are pieces of plastic smaller than five millimetres. Some are made that small, and most come from bigger plastic that has broken up.
 
@@ -144,7 +144,7 @@ A plastic bottle left in the sun and rain slowly cracks and breaks into smaller 
   Against: Salt, dye, petrol, many germs and chemicals such as arsenic and fluoride dissolve in water and leave it clear. Only a test can tell.
 - **A river or the sea is so big that it can take any amount of waste.** (Many engineers in the 1900s.; *rejected*)  
   For: Rivers do clean themselves a little. Microbes eat natural waste, and the flowing water brings in fresh oxygen.  
-  Against: Some wastes do not break down, and they build up in mud and in animals. Too much waste even of the kind microbes can eat uses up all the oxygen.
+  Against: Some wastes do not break down, and they build up in mud and in animals. Even waste that microbes can eat uses up all the oxygen when there is too much of it.
 - **Boiling makes any water safe to drink.** (Many families, and some health posters.; *rejected*)  
   For: Boiling kills germs, such as the ones that cause cholera and typhoid.  
   Against: Boiling does not remove dissolved chemicals such as pesticides, fluoride or arsenic. As the water boils away, the chemicals left behind get stronger.
@@ -158,35 +158,35 @@ A plastic bottle left in the sun and rain slowly cracks and breaks into smaller 
 ## Roots
 We have thinned colour and scent into water, and followed dirty water into fish, rivers and sewage plants. Now we ask what this tells us about who is doing the checking, and about what 'away' really means.
 
-**Deep truth.** In the tumbler test, the colour vanished from the water after a few steps. The smell lasted one tumbler longer. So 'clean' is not only about the water, but also about who is checking and what they check with. Water that passes one check can fail another.  
-*Habit it breaks:* We talk as if water were clean or dirty in itself, the way a stone is hard or soft. But 'clean' is a verdict that someone reaches with one check, such as looking, sniffing or reading a meter.  
-*Evidence:* Your eyes lost the colour in a tumbler where your nose could still find the scent, and a chemist's instrument goes on finding things long after both give up. If your own results differ, write them down as they are and test again.
+**Deep truth.** In the Gone from Sight experiment, you thinned coloured, scented water step by step. After a few steps your eyes could not see the colour, but your nose could still find the smell one tumbler later. So 'clean' is not only about the water, but also about who is checking and what they check with. Water that passes one check can fail another.  
+*Habit it breaks:* We talk as if water were clean or dirty in itself, the way a stone is hard or soft. But 'clean' is what someone decides after one check, such as looking, sniffing or reading a meter.  
+*Evidence:* In the Gone from Sight experiment, your eyes lost the colour in a tumbler where your nose could still find the scent. A chemist's instrument goes on finding things long after both give up. If your own results differ, write them down as they are and test again.
 
 - *who am i:* Your body is mostly water, and that water has been rain, river and cloud before it reached you. What goes into a river can come round to you.
-- *what is life:* Every living being checks water in their own way. A fish uses gills, a mayfly lives or dies by it, and a person uses eyes and nose. Living beings are some of the best water meters there are.
+- *what is life:* Every living being checks water in their own way. A fish uses gills, a mayfly nymph can live only in clean water, and a person uses eyes and nose. Living beings are some of the best water meters there are.
 - *what is this world:* Water carries salt, soil, seeds and sewage from high places to low places. 'Away' only ever means somewhere else downstream.
 
-A river looks like one thing, but it is water going round and round: sea, cloud, rain, river, sea. It carries the mountain's soil, the field's plant food, the town's sewage and the fish's bodies. Whatever one person puts in, a person further down drinks, and a fish further on keeps. The water is one water, and it shows up as every river, tank and tumbler. Clean and dirty are two ways that this one water meets different beings.
+A river looks like one thing that stays in its place, but her water keeps moving in a circle: from sea to cloud, to rain, to river, and back to the sea. On the way it carries soil from the mountain, plant food from the field, sewage from the town and the bodies of fish. Whatever one person puts in, a person further down drinks, and a fish further on keeps. It is the same water in every river, tank and tumbler. Whether we call it clean or dirty depends on who is using it and how they check it.
 
 - **Rig Veda 1.23.22:** A hymn asks the Waters to carry away whatever is unclean in the speaker. (The hymn trusts water to carry things away. Science says that carrying away means carrying somewhere else, where someone else lives.)
 - **Tao Te Ching, chapter 8:** The highest good is like water. Water does good to all things and does not compete. She rests in the low places that others avoid. (Water settles in low places, so the lowest village on a river meets everything that all the villages above it put in.)
-- **Chandogya Upanishad 6.13:** Uddalaka asks his son Shvetaketu to put salt in water and bring the water back the next morning. The salt cannot be seen, but each sip from the top, middle and bottom tastes of salt. (In the tumbler test, the colour left the eyes but the scent stayed for the nose. Something unseen was still in every sip.)
+- **Chandogya Upanishad 6.13:** Uddalaka asks his son Shvetaketu to put salt in water and bring the water back the next morning. The salt cannot be seen, but each sip from the top, middle and bottom tastes of salt. (In the Gone from Sight experiment, the eyes could no longer see the colour, but the nose could still find the scent. Like the salt, something unseen was still in the water.)
 - Science (settled): Matter is not made or lost when it mixes. Thinning something out spreads its atoms through more water, but every atom is still there.
 - Science (open): Microplastics have been found in human blood. What they do to a body over a lifetime is not yet known.
 - Other view, Many water engineers and regulators: 'Clean' has a plain meaning: below the safe limit for each named substance, set from health studies. That limit does not depend on who is checking. A look or a sniff is a poor guide, and the measurement is what counts.
 - Practice, One glass, three ways of checking (3 min): Pour a glass of clean drinking water and sit with it. Look at it for ten seconds and say what you find. Now smell it and say what you find. Now hold it to the light and tilt it slowly. Ask what your eyes, nose and hands cannot tell you about this water. Ask where this water was last year.
 - Ask: If your eyes say a glass of water is clean and your nose says it is not, which one is right?
-- Ask: A fish, a dog and a lab machine each check the same pond. Are they checking the same water?
-- Ask: When we send water 'away', where is away, and who lives there?
+- Ask: A fish, a dog and a lab machine each check the same pond. Do they all find out the same things about the water?
+- Ask: When we send used water away, where does it actually go, and who lives there?
 
 ## Deep and big questions
 - *deep:* Your eyes say a glass of water is clean, and your nose says it is not. Which one is right, and who decides? (hint: Think about what each check can find and what each check misses.)
-- *big:* A fish, a dog and a chemist's machine each check the same pond. Do they find the same water, or three different waters? (hint: Think of a dog, who smells far more than you do, and a chemist's machine, which measures what no nose can. Are they seeing the same pond in different ways, or different ponds?)
-- *deep:* Mercury is an element, and nothing alive can turn it into anything else. When we say we threw it 'away', where is away? (hint: Follow the mercury from the factory pipe to the bay mud, to a fish, to a person.)
+- *big:* A fish, a dog and a chemist's machine each check the same pond. Do they find out the same things about the water, or different things? (hint: Think of a dog, who smells far more than you do, and a chemist's machine, which measures what no nose can. Are they seeing the same pond in different ways, or different ponds?)
+- *deep:* Mercury is an element, and nothing alive can turn it into anything else. When people say they threw it away, where does it actually go? (hint: Follow the mercury from the factory pipe to the bay mud, to a fish, to a person.)
 - *big:* A factory's waste is too small to harm anyone in one day. Is it fair to let it go on for fifty years? (hint: Think of a small amount of waste added every single day for fifty years, and where all of it goes.)
-- *big:* The cats of Minamata fell ill before the people did. Why was it so hard to listen to them? (hint: Think about who gets believed, who gets blamed and who has a company's name on their pay slip.)
+- *big:* In Minamata in Japan, cats fell ill from eating fish before people did. Why was the cats' illness not taken as a warning? (hint: Think about who gets believed, who gets blamed, and who is paid by the company.)
 - *deep:* In the East Kolkata Wetlands, the city's sewage feeds fish and vegetables. Is sewage waste, or is it food in the wrong place? (hint: Think of what microbes, algae and fish do with it.)
-- *big:* Many people wash away their sins in a river and drink from it too. How can a river carry both a prayer and a pesticide? (hint: Think about what 'carry away' means for the water and for the people downstream.)
+- *big:* Many people wash away their sins in a river, and many also drink from it. What happens to the pesticides and waste that are washed into the same river? (hint: Think about where waste goes when a river carries it away, and who lives downstream.)
 - *big:* If a river were allowed to take people to court, what would she ask for? (hint: Think about what the river needs, and who would speak for her.)
 
 ## Story: The Well You Could See Through
@@ -220,7 +220,7 @@ Thamarai still smells the well every morning. 'The eyes are good at finding what
 
 And Paati, who had looked into that well for sixty years and trusted her eyes, now sniffs the water before she pours it for the rice. 'Not because my eyes are old,' she says. 'Because they are only one of the ways to look.'
 
-**For the parent:** Clear only means the eyes found nothing. It does not mean there is nothing.
+**For the parent:** Water that looks clear has only passed one check, the check by eye. Your eyes finding nothing does not mean there is nothing in the water.
 
 - Ask: How could you find out by testing, and not by arguing, whether a well has a smell?
 - Ask: A nose found the petrol and a machine measured it. What can each one do that the other cannot?
@@ -235,18 +235,18 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   *Parent does:* Cut out the 24 cards and the 12 tokens. Shuffle the cards and put them in a pile. Give each player one token of each kind.  
   *Parent says:* These cards show things in dirty water. Each player gets three tokens. We guess whether a net, a cloth, or neither can take it out.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take three tokens.
-  - Note:  Cutting 36 pieces takes a while, and young children need care with scissors, so a parent can cut the cards while the child cuts the tokens. With 2 to 4 players, one child reads at a time. Alone, play both parts.
+  - Note: Cutting 36 pieces takes a while, and young children need care with scissors, so a parent can cut the cards while the child cuts the tokens. With 2 to 4 players, one child reads at a time. A child playing alone plays both parts.
 - **s2 (6 min)**  
   *Parent does:* Play the first six cards. After each card, read the back aloud. Ask the question below after the third card.  
   *Parent says:* The reader reads the front. Everyone else picks a token. Turn the tokens over together. Now the reader reads the back. Who scored?  
   *Child mode:* The reader reads a card. Pick a token. Turn it over. Check the back.
-  - Ask: Why do you think a net or a cloth could not catch that one? (good: It is dissolved.; It is too small.; It is a germ, which is alive.; It floats, so a cloth is not needed.)
+  - Ask: Think of the card you just played. Why do you think a net or a cloth could not catch it? (good: It is dissolved.; It is too small.; It is a germ, which is alive.; It floats, so a cloth is not needed.)
 - **s3 (8 min)**  
   *Parent does:* Play the next twelve cards. Keep score. After the sixth card of this round, ask the question below.  
   *Parent says:* Keep going. Keep your own score. Is there a pattern in what a net can catch, and what it cannot?  
   *Child mode:* Keep playing. Keep your score. Is there a pattern?
   - Ask: What do the Neither works cards have in common? (good: They are dissolved.; They are too small to see.; Most of them are clear.)
-  - Note: Most Neither works cards are dissolved things, germs, or heat. The cards that a net can catch float, and the cards that need a cloth sink. The clear point is that dissolved pollution cannot be seen and cannot be caught.
+  - Note: Most Neither works cards are dissolved things, germs, or heat. The cards that a net can catch float, and the cards that need a cloth sink. The main point is that dissolved pollution cannot be seen and cannot be caught.
 - **s4 (3 min)**  
   *Parent does:* Play the last six cards. Add up the scores. Ask your child which kinds of pollution are the hardest to clean, and which kinds are the easiest.  
   *Parent says:* Play the last six cards and count up your points. Which kind of dirt is the hardest to clean up? Which is the easiest? Why?  
@@ -266,13 +266,13 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   *Parent does:* Show the five numbered tumblers, the colour and the essence. Explain the plan. Write down your child's guess and the reason for it.  
   *Parent says:* We will make coloured, scented water, and then thin it out again and again. In which tumbler will the colour vanish? In which will the smell vanish? Which goes first, and why do you think so?  
   *Child mode:* We will thin out coloured, scented water again and again. Where will the colour vanish? Where will the smell vanish? Which goes first, and why?
-  - Ask: Why do you think that one goes first? (good: Eyes need a strong colour to see it.; Smells travel in the air, so the nose finds them easily.; I do not know, so let us test it.)
-  - Note: Do not correct the guess. Wait for a place and a reason. Write both at the top of the table.
+  - Ask: Why do you think the colour, or the smell, will vanish first? (good: Eyes need a strong colour to see it.; Smells travel in the air, so the nose finds them easily.; I do not know, so let us test it.)
+  - Note: Do not correct the guess. Wait until your child names a tumbler and gives a reason. Write both at the top of the table.
 - **s2 (6 min)**  
   *Parent does:* Label five tumblers 0 to 4 with a marker or a sticker. Pour 200 millilitres of clean water into each. Leave tumbler 0 plain. Add 5 drops of food colour and 1 teaspoon of essence to tumbler 1. Stir well.  
   *Parent says:* Pour clean water into all five tumblers, 200 millilitres each. Tumbler 0 stays plain. It is our control, the water we compare with. Into tumbler 1 go five drops of colour and one teaspoon of essence. Stir it well.  
   *Child mode:* Pour 200 millilitres of water into each tumbler. Leave tumbler 0 plain. Put the colour and essence into tumbler 1. Stir.
-  - Note: Any food essence works, for example vanilla, rose or kewra. A fresh bottle is stronger than an old one. Level the teaspoon with a knife. If you have no food colour, use two tablespoons of strong tea that has cooled. With 2 to 4 children: one pours and labels, one stirs and measures with the spoon, and everyone swaps for the next tumbler. A level spoon is 5 millilitres. If you have no measuring spoon, a clean medicine cap or a steel teaspoon levelled with a knife is close enough. The sniff cups need no extra kit; steel katoris are fine if they are washed with no soap smell.
+  - Note: Any food essence works, for example vanilla, rose or kewra. A fresh bottle is stronger than an old one. Level the teaspoon with a knife. If you have no food colour, use two tablespoons of strong tea that has cooled. With 2 to 4 children: one pours and labels, one stirs and measures with the spoon, and everyone swaps for the next tumbler. A level spoon is 5 millilitres. If you have no measuring spoon, a clean medicine cap or a steel teaspoon levelled with a knife is close enough. You need no special cups for the sniff test. Steel katoris are fine, as long as they are washed and have no soap smell.
   - Check: Why does tumbler 0 get no colour and no essence? → **So we have plain water to compare with**
 - **s3 (6 min)**  
   *Parent does:* Take one level teaspoon from tumbler 1 and stir it into tumbler 2. Rinse the spoon. Take one teaspoon from tumbler 2 into tumbler 3. Stir and rinse. Take one teaspoon from tumbler 3 into tumbler 4. Stir and rinse.  
@@ -294,10 +294,10 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   - Note: Do not look at the child, and give no hints with your face. Roll the die again for each trial, so the odd cup moves around. Rinse and dry the cups between trials. Tumbler 2 is the easy warm-up and most noses find it. Tumbler 3 is near the edge: some noses find it and some do not, and tumbler 4 is usually too weak for anyone. Rose and kewra essence are stronger than vanilla, and a fresh bottle is stronger than an old one. If even tumbler 2 has no smell, your essence is weak, so write that down and compare tumbler 1 with tumbler 0 instead. With several children, each takes a turn as the sniffer while another rolls the die and arranges the cups, and the others stay out of sight. Where your child's nose stops is the result, whichever tumbler it is.
   - Check: Three cups, and only one has the scent. If a child just guesses, how often will they point to the right cup? → **1 time in 3**
 - **s6 (5 min)**  
-  *Parent does:* Ask your child to say or write three things. What I thought. What I saw and smelled. Why I think it happened. Then read the parent note together.  
+  *Parent does:* Ask your child to say or write three things: what they thought would happen, what they saw and smelled, and why they think it happened. Then read the parent note together.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see and smell? Why do you think the colour and the smell stopped where they did?  
   *Child mode:* Say three things. What did you think? What did you see and smell? Why did it happen?
-  - Note: A strong answer says that the colour was too thin for the eyes by tumbler 3 (often by tumbler 2 on a white background), while the nose could still find the scent in tumbler 2 and sometimes in tumbler 3. So the eyes gave up before the nose did, and tumbler 3 was not plain water even though it looks like it. If your child's nose gave up at tumbler 2, say that it just means the scent was thinner for that nose. Each tumbler is far more than 41 times thinner than the first, so the stuff is certainly still there. After the child has said this, add that a chemist's instrument can go on finding things long after the nose gives up. Neither eyes nor nose are measuring tools.
+  - Note: A strong answer says that the colour was too thin for the eyes by tumbler 3 (often by tumbler 2 on a white background), while the nose could still find the scent in tumbler 2 and sometimes in tumbler 3. So the eyes gave up before the nose did, and tumbler 3 was not plain water even though it looks like it. If your child's nose gave up at tumbler 2, say that the scent was just too thin for that nose. Each tumbler is 41 times thinner than the one before, but the scent is certainly still there. After the child has said this, add that a chemist's instrument can go on finding things long after the nose gives up. Neither eyes nor nose are measuring tools.
   - Check: Suppose a tumbler of thinned scented water looks like plain water, but a nose picks it out three times out of three. What does this show? → **The scent is still there. The eyes stopped finding it before the nose did.**
   - Think: Tumbler 3 looks like plain water. Is it plain water?
 - **s7 (2 min)**  
@@ -310,7 +310,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 - **question:** A tumbler of water looks almost clear. If a paper strip hangs in it overnight, does the strip collect the hidden colour near its top? What about a tumbler where you saw no colour at all?
 - **predict:** Before you start, guess. In which tumbler will the strip show colour in the morning? In which will it show none? Why do you think so?
 - **fair test:** The three tumblers each hold 200 millilitres. The strips are the same paper, the same size, and dip the same 2 centimetres. One tumbler holds plain water, as the control. The tumbler marked 'tint' is the last one in which you could see a faint colour. The tumbler marked 'none' is the first one in which you saw no colour. All three stand in the same place overnight.
-- **safety:** Do not drink the water. Wash hands after handling the coloured strips. Make the tumblers again if you did the first test more than a day ago.
+- **safety:** Do not drink the water. Wash hands after handling the coloured strips. Make the tumblers again if you did the Gone from Sight test more than a day ago.
 - **record:** Write what each strip looks like in the morning, and measure how high any colour has climbed. Draw the three strips side by side.
 - **results table:** Tumbler | What it held | Colour on the strip? (none, faint or clear) | Height of the colour from the water (cm)
 - **schedule:** day 1: Guess. Make the three tumblers if needed. Hang the strips and leave them overnight in a breezy spot. (15 min); day 2: Take out the strips. Compare them. Measure where any colour has climbed. Say what you found and why. (10 min)
@@ -319,18 +319,18 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   *Parent says:* Here are three tumblers, and each gets a paper strip. One tumbler has plain water, one has a very faint tint, and one looks like plain water. In which will the strip show colour tomorrow? Why do you think so?  
   *Child mode:* Three tumblers get a paper strip each. In which will the strip show colour tomorrow? Why do you think so?
   - Ask: Why do you think that strip will show colour? (good: Water climbs up the paper and leaves the colour behind.; The paper drinks the colour.; I am not sure, so let us test it.)
-  - Note: Do not correct the guess. Write it down. Use the tumblers from the Gone from Sight test, or make a new row of five and use tumbler 0, the last tint and the first one with no colour.
+  - Note: Do not correct the guess. Write it down. Use the tumblers from the Gone from Sight test, or make a new row of five. Use tumbler 0, the last tumbler with a faint colour, and the first tumbler with no colour.
 - **s2 (8 min)**  
   *Parent does:* Cut three strips, 2 centimetres wide and 12 centimetres long. Tape the top of each strip to a pencil. Rest each pencil across a tumbler so that the strip dips 2 centimetres in the water. Mark the water level with the marker. Write the labels plain, tint and none on the tumblers.  
   *Parent says:* Tape each strip to a pencil. Lay the pencil across the tumbler. The strip should just dip into the water, about two centimetres. Label the tumblers plain, tint and none.  
   *Child mode:* Tape a strip to a pencil. Lay the pencil across a tumbler. Dip the strip 2 centimetres. Label the tumblers.
-  - Note: The strip must hang free and not touch the glass. If it touches, the water can creep down the glass instead. Make sure all three strips are cut from the same sheet of paper. With 2 to 4 children, each child can cut, tape and hang one strip, and the fourth child can read out the labels. If you have a spare strip, hang it in the strong tumbler 1 as a sure-to-work comparison.
+  - Note: The strip must hang free and not touch the glass. If it touches, the water can creep down the glass instead. Make sure all three strips are cut from the same sheet of paper. With 2 to 4 children, each child can cut, tape and hang one strip, and the fourth child can read out the labels. If you have a spare strip, hang it in tumbler 1, the strong mix. That strip is sure to show colour, so you can compare the others with it.
   - Check: Why do all three strips dip the same 2 centimetres? → **So the only difference is the water in the tumbler**
 - **s3 (3 min)**  
-  *Parent does:* Put the three tumblers on a plate in a breezy place, such as by a window or in a gentle fan's breeze. Leave them overnight. Do not move them.  
+  *Parent does:* Put the three tumblers on a plate in a breezy place, such as by a window or in the breeze of a slow fan. Leave them overnight. Do not move them.  
   *Parent says:* Put the tumblers somewhere with moving air, by a window or in the breeze of a slow fan. Leave them overnight. We will look in the morning.  
   *Child mode:* Put the tumblers in a breezy spot. Leave them overnight. Do not touch them.
-  - Note: Moving air makes the water dry off the strip faster. As water dries off the top of the strip, more climbs up to replace it and brings its colour along. The colour stays when the water leaves. In damp or rainy weather the strip dries off slowly, so put the tumblers right in front of a fan and give them 24 hours instead of overnight. If the strip has dried out completely and never climbed, check that it dips into the water.
+  - Note: Moving air makes the water dry off the strip faster. As water dries off the top of the strip, more climbs up to replace it and brings its colour along. The colour stays when the water leaves. In damp or rainy weather the strip dries off slowly, so put the tumblers right in front of a fan and give them 24 hours instead of overnight. If the strip is dry and the water never climbed up it, check that it dips into the water.
   - Wait: Leave it overnight, for at least 8 hours.
 - **s4 (6 min)**  
   *Parent does:* Take out the strips and lay them side by side on a white plate. Look for colour near the top of each one. Write none, faint or clear. Measure the height of any colour from the water line. Look at each tumbler again beside the plain one.  
@@ -364,8 +364,8 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   - Ask: What does the oil do when it hits the water? (good: It floats.; It spreads out into a round patch.; It does not mix.)
   - Note: Pour the oil slowly onto the middle of the water. Oil floats because it is lighter than water, and it does not mix with water. Over a minute it spreads into a thin round patch.
 - **s3 (10 min)**  
-  *Parent does:* Start the timer for bowl 1. Skim with the spoon for exactly two minutes. Stop. Then do bowl 2 with the paper towel, dabbing and replacing the squares. Do bowl 3 with cotton wool and bowl 4 with the tuft of hair. For bowl 5, add 3 drops of dishwash liquid and stir with the spoon for 10 seconds. Leave bowl 6 alone.  
-  *Parent says:* Time two minutes for each bowl. Bowl 1, the spoon. Bowl 2, paper towel. Bowl 3, cotton wool. Bowl 4, hair. Bowl 5, three drops of dishwash liquid and a ten-second stir. Do not touch bowl 6.  
+  *Parent does:* Start the timer for bowl 1. Skim with the spoon for exactly two minutes. Stop. Then do bowl 2 with the paper towel: dab with a square of it, and take a fresh square each time one is soaked. Do bowl 3 with cotton wool and bowl 4 with the tuft of hair. For bowl 5, add 3 drops of dishwash liquid and stir with the spoon for 10 seconds. Leave bowl 6 alone.  
+  *Parent says:* Each bowl gets two minutes with its tool. Use the spoon on bowl 1, the paper towel on bowl 2, cotton wool on bowl 3 and hair on bowl 4. Bowl 5 gets three drops of dishwash liquid and a ten-second stir. Do not touch bowl 6.  
   *Child mode:* Two minutes per bowl. Use the tool on its bowl. Do not touch bowl 6.
   - Ask: What do you notice about the oil in bowl 5 after the dishwash liquid? (good: It breaks into lots of little drops.; It moved to the sides.; The water looks cloudy.)
   - Note: Use the same effort for each tool. Dishwash liquid usually pushes the oil to the edges first, and the stirring then breaks it into small drops that spread through the water. Squeeze the paper towel and cotton wool over the spare container, not over the bowls. With 2 to 4 children: one child works the tools one after another, one keeps the timer, one scores and writes. If you want every child to try, repeat with fresh bowls and swap jobs; the scores will differ a little, and that is worth talking about.
@@ -378,8 +378,8 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 - **s5 (6 min)**  
   *Parent does:* Hold a clean straw shut with your thumb. Push it 3 centimetres under the surface in the middle of a bowl. Lift your thumb for a second, then close it. Lift the straw out and wipe the outside with a tissue. Let the water fall on one spot of the paper, twice. Label the spot with the bowl number. Use a new straw for every bowl. Let the paper dry for 15 to 20 minutes, near a fan if the air is damp. Then hold it up to the light and look for a see-through spot.  
   *Parent says:* Take a little water from just under the surface of each bowl with a straw, and drop it on the paper. Oil makes paper see-through when it dries. Water does not. Let us see which bowls have oil down in the water, below the shine.  
-  *Child mode:* Dip a paper strip in each bowl. Let it dry. Look for see-through spots.
-  - Ask: A bowl looks clear, but its strip has a see-through spot. What does that tell us? (good: There is still oil in the water.; Our eyes cannot find it all.; The tool did not get all the oil.)
+  *Child mode:* Take a little water from under the surface of each bowl with a straw. Drop it on the paper. Let it dry. Look for see-through spots.
+  - Ask: A bowl looks clear, but its water leaves a see-through spot on the paper. What does that tell us? (good: There is still oil in the water.; Our eyes cannot find it all.; The tool did not get all the oil.)
   - Note: Bowls 1 to 4 have oil only on top, so their paper usually stays plain, or shows only a faint spot. Bowl 5 is the surprise. The surface looks cleaner, but the stirred-in oil has been broken into tiny drops that sit in the water, so its paper usually shows a see-through spot. If bowl 5 shows no spot, stir longer and sample again. Do not skip the control: bowl 6 should show no spot, because its oil is all on top. Write what you really see.
   - Wait: Leave the paper to dry for 15 to 20 minutes.
 - **s6 (3 min)**  
@@ -432,13 +432,13 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   - Note: Do not correct the guess. Write it down.
 - **s2 (6 min)**  
   *Parent does:* Line up six small bowls. Each bowl is a small fish. Move the seeds from five squares into each bowl. Count the seeds in one bowl and write the number.  
-  *Parent says:* Six small fish. Each eats five plankton. Move the seeds from five squares into one bowl. Do it six times. How many seeds does one small fish hold?  
-  *Child mode:* Six small fish bowls. Move five seeds into each. How many seeds in one bowl?
+  *Parent says:* There are six small fish, and each one eats five plankton. Move the seeds from five squares into one bowl. Do it six times. How many seeds does one small fish hold?  
+  *Child mode:* Line up six small fish bowls. Move five seeds into each. How many seeds are in one bowl?
   - Note: Each small fish bowl holds 5 seeds. In real life, a small fish eats thousands of plankton, so the numbers are far larger. The seeds are only a way to see how it works.
 - **s3 (5 min)**  
   *Parent does:* Take two larger bowls. Each is a big fish. Tip three small fish bowls into each big fish bowl. Count the seeds in one big fish bowl and write the number.  
-  *Parent says:* Two big fish. Each eats three small fish. Tip three small bowls into each big bowl. How many seeds does one big fish hold?  
-  *Child mode:* Two big fish bowls. Tip three small bowls into each. How many seeds?
+  *Parent says:* There are two big fish, and each one eats three small fish. Tip three small bowls into each big bowl. How many seeds does one big fish hold?  
+  *Child mode:* Take two big fish bowls. Tip three small bowls into each. How many seeds are in one big bowl?
   - Note: Each big fish bowl holds 15 seeds. The big fish cannot get rid of the pollution, so the pollution stays and adds up.
   - Check: A big fish eats three small fish, and each small fish holds 5 seeds. How many seeds will the big fish hold? → **15 seeds**
 - **s4 (3 min)**  
@@ -450,7 +450,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   *Parent does:* Ask what would change if the fish could pass the pollution out of their bodies. Ask what a person could do to take in less.  
   *Parent says:* What would change if the fish could get rid of the pollution? Why is it a problem when the pollution is not broken down?  
   *Child mode:* What if fish could get rid of the pollution? What changes?
-  - Note: Pollution builds up when a body takes it in faster than it can get rid of it. Mercury leaves a body very slowly, so it adds up over a whole life. In this game every seed stays. Real animals do pass out some pollutants, and some pollutants go much faster than others.
+  - Note: Pollution builds up when a body takes it in faster than it can get rid of it. Mercury leaves a body very slowly, so it adds up over a whole life. In this game every seed stays. Real animals do pass out some pollutants, and some pollutants leave the body much faster than others.
   - Think: Which would hold more pollution, a small fish or a big fish? Which would you eat more often?
 ### a3 · Ask About the Pipe: where does our used water go? (20 min, 2 days)
 - **safety:** Never open a manhole or a tank cover. Stay out of any plant room unless the caretaker takes you in. Wash your hands afterwards.
@@ -473,7 +473,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   *Parent says:* Draw the path of your used water, with arrows. Start at your kitchen and toilet. Where does it end? Is it cleaned on the way? What do you still wonder about?  
   *Child mode:* Draw the path of your used water. Where does it end? Is it cleaned?
   - Note: If your building has no treatment, this is a good thing to talk about as a family or as a building. If there is a plant, ask who checks the water that leaves it, and how often.
-  - Think: When your water goes out of the building, where is 'away'?
+  - Think: We say used water goes 'away'. When your water leaves the building, where does it really go?
 ### a4 · Our Nearest Water: what is it used for, and what does it carry? (15 min)
 - **safety:** If you go to see the water, a grown-up comes too. Keep well back from the edge, and do not touch the water.
 - **record:** Write the name of the water, what it is used for, and one thing it may carry. Write how its water is checked, or write that you could not find out.
@@ -484,7 +484,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   - Ask: What do people use this water for? (good: Washing clothes.; Bathing.; Fishing.; Farming.; Drinking.)
   - Note: Zoom in until you can see where the water comes from. In a city, the nearest water may be a lake or a canal. If you cannot find one, use the biggest river in your state.
 - **s2 (6 min)**  
-  *Parent does:* Search for the water's name with the words water quality, and add the pollution control board of your state. Look for a table, a news story or a report. Write one number or fact, or write that you could not find one.  
+  *Parent does:* Search online for the water's name with the words 'water quality' and the name of your state's pollution control board. Look for a table, a news story or a report. Write one number or fact, or write that you could not find one.  
   *Parent says:* Search for your water's name and the words water quality. What do you find? Is there a table or a report? Write one fact, or write that there is nothing to find.  
   *Child mode:* Search for the water's name and water quality. Write one fact you find.
   - Note: Rivers in India are given a best-use class from A to E by the Central Pollution Control Board. Class A is drinking water after disinfection and Class B is outdoor bathing. Class E is only for irrigation and cooling. The reports are on the board's website at cpcb.nic.in. Many local waters have no report, and that is itself something to note. The data may be hard to read, so help your child find one fact. With 2 to 4 children, one searches, one reads the result aloud, and one writes the fact.
@@ -566,10 +566,10 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
    **Answer:** The colour is still there, but too thin for our eyes. *Why:* Each step spread the colour through more water. The colour was too thin to show up to the eye, but it was still in the water, and a nose or an instrument may find what an eye cannot.
 3. (truefalse) If water looks clear, there is nothing in it.  
    **Answer:** False. *Why:* False. Salt, dye, petrol, germs and many chemicals can be in clear water. Looking is only one way of checking.
-4. (fill) In the tumbler test, each step made the mix about ____ times weaker.  
+4. (fill) In the Gone from Sight test, each step made the mix about ____ times weaker.  
    **Answer:** ['41', 'forty-one', 'forty one']. *Why:* A spoonful of 5 millilitres ended up in 205 millilitres of water. 205 divided by 5 is 41.
 5. (match) Match each kind of dirt in water to the tool that can take it out.  
-   **Answer:** A floating plastic bag → a net; Mud that has stirred up in still water → letting it settle, then a cloth; Salt dissolved in water → none of the simple tools: it needs special filters or evaporation. *Why:* Things that float can be lifted out. Things that sink settle, and a cloth catches the rest. Dissolved things are too small for any net or cloth.
+   **Answer:** A floating plastic bag → a net; Mud that has been stirred up in water → letting it settle, then a cloth; Salt dissolved in water → none of the simple tools: it needs special filters or evaporation. *Why:* Things that float can be lifted out. Things that sink settle, and a cloth catches the rest. Dissolved things are too small for any net or cloth.
 6. (sort) Sort each thing by how it behaves in water.  
    **Answer:** a plastic bag → Floats; mud → Sinks; salt → Dissolves; thermocol → Floats; sand → Sinks; sugar → Dissolves. *Why:* Light things float and heavy grains sink. Salt and sugar break into single tiny pieces and spread through the water.
 7. (mcq) A thick cloth is held over a glass and salty water is poured through it. Is the water in the glass still salty?  
@@ -581,17 +581,17 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
    **Answer:** ['Pour plain water in two cups and scented water in one', 'Roll a die to decide where the odd cup goes', 'The child shuts their eyes and sniffs all three', 'The child points, and the grown-up writes right or wrong', 'Repeat the test three times']. *Why:* The die stops the grown-up from choosing the place by habit. Shut eyes stop the child from seeing a difference. Repeating the test shows whether the result was luck.
 10. (truefalse) In a fair blind test, the person who sniffs may look at the cups first.  
    **Answer:** False. *Why:* False. If the person can look, they might see a difference, such as a trace of colour or the way the cups are placed. Shut eyes make sure only the nose is being tested.
-11. (write) A friend says: 'The river near our house looks clear, so it must be clean.' What would you tell your friend, using what you know about water?  
-   **Answer:** Looking only checks for things the eye can see. Dissolved things like dye, chemicals and some germs can be in clear water. Colour can also get too thin to see. To know if water is clean, it must be tested for the things we care about, and clean also depends on what it is for.. *Why:* A strong answer says that clear does not mean clean, names something that hides in clear water, and says that testing is needed.
+11. (write) True or false: if a river looks clear, it must be clean. Explain your answer using what you know about water.  
+   **Answer:** Looking only checks for things the eye can see. Dissolved things like dye and chemicals, and some germs, can be in clear water. Colour can also get too thin to see. To know if water is clean, it must be tested for the things we care about, and clean also depends on what it is for.. *Why:* A strong answer says that clear does not mean clean, names something that hides in clear water, and says that testing is needed.
 12. (label) Here is a drawing of a pond with too much waste in it. Label the three parts: the thick green layer, the crowd of tiny living beings feeding on waste, and the fish gasping.  
-   **Answer:** ['Thick green layer on the surface: algae', 'Tiny living beings around floating waste: bacteria', 'Fish near the surface with open mouths: fish gasping for oxygen']. *Why:* Plant food grows the algae. When the waste and dead algae feed bacteria, the bacteria use up the oxygen, and the fish go up to find air.
+   **Answer:** ['Thick green layer on the surface: algae', 'Tiny living beings around floating waste: bacteria', 'Fish near the surface with open mouths: fish gasping for oxygen']. *Why:* Plant food makes the algae grow. When the waste and dead algae feed bacteria, the bacteria use up the oxygen, and the fish go up to find air.
 13. (mcq) Why do fish gasp at the surface of a pond that has a lot of rotting waste in it?  
    Options: The microbes eating the waste have used up the oxygen in the water / The waste is poisonous gas / The fish want to eat the waste  
    **Answer:** The microbes eating the waste have used up the oxygen in the water. *Why:* Microbes eating the waste breathe in oxygen, so there is less left for the fish. At the surface a little oxygen comes in from the air.
 14. (draw) Draw a food chain with plankton, a small fish, a big fish and a heron. Show a little pollution in the plankton, and draw how much builds up in each animal after that.  
    **Answer:** Four animals in a row, with a few dots in the plankton and more and more dots in each one that comes after, ending with the most in the heron.. *Why:* A strong drawing shows the dots growing along the chain, because each animal keeps the pollution of everything they eat.
 15. (odd) Which one is the odd one out, and why? Salt, sugar, mud, dye. Think about which can be caught by a cloth.  
-   **Answer:** Mud. Salt, sugar and dye all dissolve in water and pass through a cloth. Mud does not dissolve, and a cloth can catch it.. *Why:* Dissolved things are too small to be caught. Mud grains are bigger than the gaps in a cloth, so it is held back.
+   **Answer:** Mud. Salt, sugar and dye all dissolve in water and pass through a cloth. Mud does not dissolve, and a cloth can catch it.. *Why:* Dissolved things are too small to be caught. Mud grains are bigger than the gaps in a cloth, so they are held back.
 16. (perspective) A factory lets its treated waste water into a big river. Its manager says the river is so big that it will thin out any waste.  
    **Answer:** Answers vary. A strong answer picks a view, gives a reason, and says what measurement would help, such as testing the water above and below the pipe, or testing the fish.. *Why:* This question has no single right answer. A strong answer weighs the claim and asks for evidence, rather than trusting what the water looks like.
 17. (mcq) A river is marked 'best for outdoor bathing'. What does that tell you about drinking it straight from the river?  
@@ -607,7 +607,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
    **Answer:** ['accumulation', 'bioaccumulation']. *Why:* Accumulation means piling up. The pollutant is taken in faster than the body can get rid of it, so it adds up.
 4. (mcq) Health warnings tell some people to eat large sea fish, such as shark, less often than small fish. What is the reason?  
    Options: Large fish eat many fish and so keep more of the mercury in them / Large fish taste bad / Small fish have no mercury at all  
-   **Answer:** Large fish eat many fish and so keep more of the mercury in them. *Why:* Mercury is not passed out of a body quickly. A large fish eats many smaller fish over many years and keeps what is in them, so it holds the most.
+   **Answer:** Large fish eat many fish and so keep more of the mercury in them. *Why:* Mercury is not passed out of a body quickly. A large fish eats many smaller fish over many years and keeps what is in them, so she holds the most.
 5. (count) A plankton holds 1 unit of a pollutant. A small fish eats 20 plankton. A big fish eats 10 small fish. How many units does the big fish hold, if nothing is passed out?  
    **Answer:** 200. *Why:* A small fish holds 20 units. A big fish eats 10 of them, so the big fish holds 10 times 20, which is 200 units.
 6. (match) Match each stage of a sewage treatment plant to what it takes out.  
@@ -651,50 +651,50 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 7. (mcq) Why does a lake with a heavy algal bloom often lose its fish a week or two later?  
    Options: The dead algae feed microbes, which use up the oxygen / The algae eat the fish / The algae make the water too cold  
    **Answer:** The dead algae feed microbes, which use up the oxygen. *Why:* When the algae die, microbes eat them and breathe in the oxygen. With less oxygen left, the fish cannot breathe.
-8. (count) Each step of a thinning test makes the mix 41 times weaker. After three steps, how many times weaker is the last tumbler than the first? Use 41 times 41 is 1,681.  
+8. (count) Each step of a thinning test makes the mix 41 times weaker. After three steps, how many times weaker is the last tumbler than the first? It may help to know that 41 times 41 is 1,681.  
    **Answer:** 68921. *Why:* After two steps the mix is 1,681 times weaker. One more step multiplies by 41 again. 1,681 times 41 is 68,921.
 9. (odd) Which one is the odd one out, and why? Plastic bag, thermocol, rice husk, salt.  
    **Answer:** Salt. It dissolves and cannot be netted. The other three float, and a net can lift them out.. *Why:* Floating things can be taken out with a net. Dissolved things cannot.
 10. (draw) Draw a river from the hills to the sea. Mark one point source of pollution with a P and one place where runoff comes in with an R.  
    **Answer:** A river drawn from the hills to the sea, with one pipe marked P from a factory or a town, and many thin streams marked R coming off fields or roads.. *Why:* A strong drawing shows a point source as one pipe or drain, and runoff as many streams across the land.
 11. (mcq) If the sea has a little mercury, which fish should people eat less often: a tiny sardine, or a large shark?  
-   Options: A large shark, because it has eaten many fish and kept their mercury / A tiny sardine, because it is smaller / Both hold the same amount  
-   **Answer:** A large shark, because it has eaten many fish and kept their mercury. *Why:* Mercury builds up along a food chain. A large fish at the top holds far more than a small one near the bottom.
-12. (truefalse) A fish in water that has only a tiny amount of mercury can still hold a lot of it in its body.  
+   Options: A large shark, because she has eaten many fish and kept their mercury / A tiny sardine, because she is smaller / Both hold the same amount  
+   **Answer:** A large shark, because she has eaten many fish and kept their mercury. *Why:* Mercury builds up along a food chain. A large fish at the top holds far more than a small one near the bottom.
+12. (truefalse) A fish in water that has only a tiny amount of mercury can still hold a lot of it in her body.  
    **Answer:** True. *Why:* True. A fish takes in a little with every meal and cannot get rid of it quickly, so over her life it adds up.
 13. (fill) Fish in a polluted pond gasp at the surface because the water has too little dissolved ____.  
    **Answer:** ['oxygen']. *Why:* Fish breathe the oxygen that is dissolved in water. Microbes eating waste can use it up.
 14. (order) Put the response to an oil spill in the best order.  
-   **Answer:** ['Float a boom round the spill', 'Skim or soak up the oil', 'Clean the shore and check the water']. *Why:* A boom first, so the oil stops spreading. The thicker the oil, the easier it is to remove. Cleaning the shore and checking the water comes last.
+   **Answer:** ['Float a boom round the spill', 'Skim or soak up the oil', 'Clean the shore and check the water']. *Why:* The boom comes first, so the oil stops spreading. Oil that is kept thick is easier to remove than oil that has spread thin. Cleaning the shore and checking the water comes last.
 15. (label) Here is a drawing of an oil boom. Label the three parts: the float above the water, the skirt below the water and the oil.  
    **Answer:** ['The part that sits above the water: the float', 'The strip that hangs below the water: the skirt', 'The layer on the water inside the ring: the oil']. *Why:* The float keeps the boom on the surface, and the skirt stops oil slipping underneath.
 16. (write) Write a short notice for your building or village that says why 'it looks clear' is not enough to say that water is safe.  
-   **Answer:** Water that looks clear can still carry things we cannot see, such as dissolved chemicals and germs. Our eyes lose a colour before our nose loses a smell, and an instrument finds even less. So water must be tested for the things that matter, and tested again from time to time.. *Why:* A strong answer says clear does not mean clean, gives one example of something hidden, and asks for testing.
-17. (mcq) Kavya gets 2 of 3 trials right in a three-cup sniff test. What is the best conclusion?  
-   Options: It could easily be luck, so repeat with more trials / She definitely smelled it / She definitely did not smell it  
+   **Answer:** Water that looks clear can still carry things we cannot see, such as dissolved chemicals and germs. Our eyes lose a colour before our nose loses a smell, and an instrument can find amounts too small for either. So water must be tested for the things that matter, and tested again from time to time.. *Why:* A strong answer says clear does not mean clean, gives one example of something hidden, and asks for testing.
+17. (mcq) A child gets 2 of 3 trials right in a three-cup sniff test. What is the best conclusion?  
+   Options: It could easily be luck, so repeat with more trials / The child definitely smelled it / The child definitely did not smell it  
    **Answer:** It could easily be luck, so repeat with more trials. *Why:* Getting 2 or more of 3 right by pure guessing happens about 1 time in 4. A better test has more trials.
 
 ## Videos
-- **STP Treatment process in Animation** (WATER CAMPUS, 5 min) id `f2nhSMRqzwg`: A short animation that follows used water through the screens, the settling tank, the air tank and the last disinfection stage. It shows the four stages in the Roots and explanation cards. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **STP Treatment process in Animation** (WATER CAMPUS, 5 min) id `f2nhSMRqzwg`: A short animation that follows used water through the screens, the settling tank, the air tank and the last disinfection stage. These are the four stages described in the card 'How a sewage treatment plant cleans water'. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Mercury and Minamata Disease: a Lesson from Japan | United Nations | UN in Action** (United Nations, 4 min) id `80KJ9gqHrYo`: For the parent and older children: how cats, fish and then people fell ill, and how the cause was found. It explains the How We Found Out card in more depth. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Oil Spill Containment Booms Explained | How Oil Booms Protect the Ocean** (SkyTech Engineering, 5 min) id `-q_YFJxPOGc`: Shows booms, skimmers and absorbent pads at work, and why a thin film is so hard to remove. It follows the Oil Spill Race and the Spill Boom challenge. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
-1. (mcq) Sneha stirs one spoonful of red water into a full tumbler of clean water and stirs it well. What is true about the red stuff?  
+1. (mcq) One spoonful of red water is stirred well into a full tumbler of clean water. What is true about the red stuff?  
    Options: It is all still there, spread through more water / Half of it disappears / It all disappears  
    **Answer:** It is all still there, spread through more water. *Why:* Mixing spreads the red stuff out, but it does not destroy it. The strength falls and the amount stays the same.
 2. (mcq) A cup of water looks exactly like tap water, but a nose can pick it out. What is the best explanation?  
    Options: Something is in the water that the eye cannot see but the nose can find / The nose is always more correct than the eye / The cup is empty  
-   **Answer:** Something is in the water that the eye cannot see but the nose can find. *Why:* Both senses check different things. The nose found something in the water that was too thin for the eye to see.
+   **Answer:** Something is in the water that the eye cannot see but the nose can find. *Why:* The two senses check different things. The nose found something in the water that was too thin for the eye to see.
 3. (mcq) Which tool could lift a floating plastic bag off a pond?  
    Options: A net / A cloth / A tumbler  
    **Answer:** A net. *Why:* A plastic bag floats and is big, so a net can lift it out.
 4. (mcq) Salty water is poured through a thick cloth. Why does it come out just as salty?  
    Options: Dissolved salt is in single tiny pieces that pass through the gaps / The cloth adds salt / Salt cannot be seen  
    **Answer:** Dissolved salt is in single tiny pieces that pass through the gaps. *Why:* The gaps in a cloth are much bigger than the pieces of dissolved salt. So the salt goes through with the water.
-5. (mcq) Farhan sniffs three cups with one scented cup, and points to the right one three times in a row. What is the best conclusion?  
-   Options: He probably smelled it, because guessing would rarely give three in a row / He must have looked / It proves he has a very good nose  
-   **Answer:** He probably smelled it, because guessing would rarely give three in a row. *Why:* Guessing right three times in a row happens only 1 time in 27. So it is likely he smelled it, though one test cannot prove more than that.
+5. (mcq) A child sniffs three cups. Only one cup is scented. The child points to the right cup three times in a row. What is the best conclusion?  
+   Options: The child probably smelled it, because guessing would rarely give three in a row / The child must have looked / It proves the child has a very good nose  
+   **Answer:** The child probably smelled it, because guessing would rarely give three in a row. *Why:* Guessing right three times in a row happens only 1 time in 27. So it is likely the child smelled it, though one test cannot prove more than that.
 6. (mcq) Why can too much kitchen waste in a pond kill fish?  
    Options: Microbes eating the waste use up the oxygen / The waste is a poison / The waste makes the water too hot  
    **Answer:** Microbes eating the waste use up the oxygen. *Why:* Microbes that eat the waste breathe in the oxygen dissolved in the water. If it runs low, fish cannot breathe.
@@ -722,10 +722,10 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 - Pollution control boards give rivers a best-use class, and check whether each stretch is clean enough for its use.
 - Floating booms and skimmers hold and clear oil after a ship accident.
 - Factories have effluent treatment plants that clean their waste water before it leaves.
-- Health warnings about mercury in large fish, such as shark and swordfish.
+- Health warnings tell people about mercury in large fish, such as shark and swordfish.
 - Farmers who use less fertiliser, or spread it in the right amount and at the right time, keep it from washing into ponds and rivers.
 - Scientists use mussels and oysters as living collectors, because they filter lots of water and keep what they cannot break down.
-- Clay idols and natural colours at festivals, so that less paint and plaster go into lakes and rivers.
+- People use clay idols and natural colours at festivals, so that less paint and plaster go into lakes and rivers.
 - Citizens who test their local pond or lake and share the results, so that the people in charge can see the problem.
 
 ## Spotted around us
@@ -741,7 +741,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 ## Open questions
 - **What do microplastics do to a body over a whole lifetime?** They have been found in blood and in many organs, but it takes many years and many people to find out what harm they do. The studies so far are early.
 - **Can microbes be found or made that eat plastic fast enough to help clean the world?** In 2016, Japanese scientists reported a bacterium that digests one common plastic, PET, but very slowly. Whether this can be made fast and safe at a large scale is not known.
-- **Is there any amount of a harmful chemical in water that is completely safe?** For some chemicals, harm has been found even at low amounts. For others, scientists have not found a level below which there is no harm at all.
+- **Is there any amount of a harmful chemical in water that is completely safe?** For some chemicals, harm has been found even at low amounts. For others, scientists have not yet found any amount that is low enough to do no harm at all.
 - **How much can a river take before she can no longer clean herself?** Each river is different. It depends on her flow, her temperature, her microbes and the season, and measuring all of it is hard.
 - **How do dispersants change the long-term harm of an oil spill?** Studies after big spills disagree. Some find that oil breaks down faster. Others find that fish and corals take in more of it.
 - **How should we measure the health of a river: by chemicals, or by the fish, birds and plants who live there too?** Both give part of the picture. Scientists and communities still argue about which counts more, and whose measures should decide.
@@ -770,12 +770,12 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 - Why did the cloth fail to catch the salt? *The salt was too small to be caught out.*
 
 ## Connected maths
-- Each step in the tumbler test makes the mix 41 times weaker. How many times weaker than tumbler 1 is tumbler 3? **1,681 times weaker.**. Tumbler 2 is 41 times weaker than tumbler 1. Tumbler 3 is 41 times weaker again, so it is 41 times 41. 40 times 41 is 1,640, and one more 41 makes 1,681. (queues `math.multiplication.multi-digit.L4`)
-- Zainab sniffs three cups and just guesses. She does three trials. How many different ways can her three guesses go, if each trial has three cups to pick from? How many of them are all right? **27 ways, and only 1 of them is all right.**. The first guess can go 3 ways, the second 3 ways and the third 3 ways. 3 times 3 times 3 is 27. Only one of the 27 has all three right. So by luck alone she gets all three right 1 time in 27. (queues `math.probability.likely-and-unlikely.L4`)
+- Each step in the Gone from Sight test makes the mix 41 times weaker. How many times weaker than tumbler 1 is tumbler 3? **1,681 times weaker.**. Tumbler 2 is 41 times weaker than tumbler 1. Tumbler 3 is 41 times weaker again, so it is 41 times 41. 40 times 41 is 1,640, and one more 41 makes 1,681. (queues `math.multiplication.multi-digit.L4`)
+- A child sniffs three cups and just guesses. The child does three trials. Each trial has three cups to pick from. How many different ways can the three guesses go? In how many of those ways are all three guesses right? **27 ways, and only 1 of them is all right.**. The first guess can go 3 ways, the second 3 ways and the third 3 ways. 3 times 3 times 3 is 27. Only one of the 27 has all three right. So by luck alone the child gets all three right 1 time in 27. (queues `math.probability.likely-and-unlikely.L4`)
 - A level teaspoon holds 5 millilitres. How many teaspoons of water are there in 205 millilitres? **41 teaspoons.**. 205 divided by 5 is 41. So one teaspoon is one forty-first of the mix. That is why each step made the mix 41 times weaker. (queues `math.division.division-facts.L4`)
-- In an imagined class result, the shine left on the bowls after two minutes was: control 5, spoon 2, paper towel 3, cotton wool 2, hair 3 and dishwash liquid 1. Which tool had the lowest score? Does that mean its water was the cleanest? **Dishwash liquid had the lowest score, 1. It does not mean the cleanest water.**. The bar for dishwash liquid is the shortest. But the paper strip test showed oil spots in the bowls, and dishwash liquid breaks oil into tiny drops that stay in the water. So a low shine score alone does not show clean water. (queues `math.data.bar-charts.L4`)
+- In an imagined class result, the shine left on the bowls after two minutes was: control 5, spoon 2, paper towel 3, cotton wool 2, hair 3 and dishwash liquid 1. Which tool had the lowest score? Does that mean its water was the cleanest? **Dishwash liquid had the lowest score, 1. It does not mean the cleanest water.**. The bar for dishwash liquid is the shortest. But dishwash liquid breaks oil into tiny drops that stay in the water, and the paper test in the Oil Spill Race shows them as oil spots. So a low shine score alone does not show clean water. (queues `math.data.bar-charts.L4`)
 - In Pass-It-On Seeds, a small fish eats 5 plankton, a big fish eats 3 small fish and a person eats 2 big fish. Each plankton holds 1 seed. How many seeds does the person hold, and how many times more is that than one plankton? **30 seeds, which is 30 times as many as one plankton.**. A small fish holds 5 seeds. A big fish holds 3 times 5, which is 15. A person holds 2 times 15, which is 30. One plankton holds 1, so the person holds 30 times as much. (queues `math.multiplication.multiplication-facts.L4`)
-- A town makes 20 million litres of sewage a day. Its plant can treat 12 million litres. This is an imagined town. What fraction of the sewage is not treated? **2 out of 5, or two fifths.**. 20 million take away 12 million is 8 million litres not treated. 8 out of 20 is the same as 2 out of 5. In many Indian towns, less than half of the sewage is treated. (queues `math.fractions.fractions-of-a-whole.L4`)
+- An imagined town makes 20 million litres of sewage a day. Its plant can treat 12 million litres. What fraction of the sewage is not treated? **2 out of 5, or two fifths.**. 20 million take away 12 million is 8 million litres not treated. 8 out of 20 is the same as 2 out of 5. In many Indian towns, less than half of the sewage is treated. (queues `math.fractions.fractions-of-a-whole.L4`)
 - A village's well is polluted, so a tanker brings 6,000 litres of water for 900 rupees. The village uses 18,000 litres a day. What does the water cost for one day? What for 30 days? **2,700 rupees a day, and 81,000 rupees for 30 days.**. 18,000 litres is 3 tankers, because 18,000 divided by 6,000 is 3. 3 times 900 is 2,700 rupees a day. 30 times 2,700 is 81,000 rupees. (queues `math.money.money-in-life.L4`)
 - In an imagined pond, the oxygen readings were 8 milligrams per litre at 6 pm, 6 at 10 pm, 3 at 2 am and 2 at 6 am. Fish need at least 4. Between which two readings did the oxygen fall below 4? About when did it reach 4? **Between 10 pm and 2 am, at about 12:40 am.**. At 10 pm it was 6 and at 2 am it was 3. It fell 3 in 4 hours, which is three quarters of a unit each hour. To fall from 6 to 4 takes 2 divided by three quarters, which is about 2 hours 40 minutes. 10 pm plus 2 hours 40 minutes is about 12:40 am. (queues `math.data.line-graphs.L4`)
 - In an oil spill test, 1 tablespoon of oil is 15 millilitres, and a bowl holds 300 millilitres of water. What fraction of the liquid in the bowl is oil, in its simplest form? **One twenty-first.**. The total liquid is 300 plus 15, which is 315 millilitres. 15 out of 315 is the same as 1 out of 21, because 315 divided by 15 is 21. (queues `math.fractions.fractions-of-a-whole.L4`)
@@ -800,7 +800,7 @@ Downstream (sci.environment.L4): Topic-level song for Caring for the environment
 - If you thin out coloured water until you can't see the colour, is the colour gone? → No. It is spread out, but it is still there.
 - Which tool can lift a floating plastic bag from a pond? → A net.
 - Can a cloth catch dissolved salt? → No. Dissolved salt is too small.
-- What do bacteria that eat waste breathe in water? → Oxygen.
+- Bacteria in water eat waste. What do they breathe as they do it? → Oxygen.
 - What happens to the algae in a pond when fertiliser washes in? → They grow thickly.
 - What is the name for pollution building up in a body? → Bioaccumulation.
 - What are the four stages of a sewage plant? → Screens, settling, air and microbes, then killing germs.

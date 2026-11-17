@@ -147,7 +147,7 @@
       "definition": "Dilution means spreading a substance through more water. The concentration, which is the strength, goes down. The amount does not.",
       "description": "Stir one spoonful of coloured water into a tumbler of clear water. The mix has a pale colour. Take one spoonful of that and stir it into another clear tumbler, and the colour fades again. After a few steps your eyes see nothing. But the colour was never destroyed. Atoms and molecules are not used up when they mix. Each spoonful carries a little of the colour, and the rest stays behind in the earlier tumblers. Your nose usually keeps finding a scent for longer than your eyes keep finding a colour, but it gives out in the end too. Scientists write tiny strengths as parts per million.",
       "examples": [
-        "A spoonful of coloured water stirred into a tumbler of clear water makes a mix 41 times weaker than the spoonful.",
+        "One level teaspoon of coloured water holds 5 millilitres. Stir it into a tumbler of 200 millilitres of clear water, and the mix is 41 times weaker than the spoonful was.",
         "One drop of ink in a bucket vanishes to the eye, but a chemist's instrument can still find it.",
         "A chemist's instrument can find some chemicals at less than one part in a billion."
       ],
@@ -279,7 +279,7 @@
       "examples": [
         "A river stretch can pass the test for bathing and fail the test for drinking.",
         "Finding mayfly nymphs under the stones of a hill stream means the water is rich in oxygen.",
-        "A coliform test on a village well after a flood."
+        "A village well can be tested for coliform bacteria after a flood."
       ],
       "perspectives": [],
       "art": "A scientist with four test strips and a meter at a stream edge, and a small drawing of a mayfly nymph on a stone."
@@ -368,12 +368,12 @@
       "hint": "Think about what each check can find and what each check misses."
     },
     {
-      "q": "A fish, a dog and a chemist's machine each check the same pond. Do they find the same water, or three different waters?",
+      "q": "A fish, a dog and a chemist's machine each check the same pond. Do they find out the same things about the water, or different things?",
       "kind": "big",
       "hint": "Think of a dog, who smells far more than you do, and a chemist's machine, which measures what no nose can. Are they seeing the same pond in different ways, or different ponds?"
     },
     {
-      "q": "Mercury is an element, and nothing alive can turn it into anything else. When we say we threw it 'away', where is away?",
+      "q": "Mercury is an element, and nothing alive can turn it into anything else. When people say they threw it away, where does it actually go?",
       "kind": "deep",
       "hint": "Follow the mercury from the factory pipe to the bay mud, to a fish, to a person."
     },
@@ -393,9 +393,9 @@
       "hint": "Think of what microbes, algae and fish do with it."
     },
     {
-      "q": "Many people wash away their sins in a river and drink from it too. How can a river carry both a prayer and a pesticide?",
+      "q": "Many people wash away their sins in a river, and many also drink from it. What happens to the pesticides and waste that are washed into the same river?",
       "kind": "big",
-      "hint": "Think about what 'carry away' means for the water and for the people downstream."
+      "hint": "Think about where waste goes when a river carries it away, and who lives downstream."
     },
     {
       "q": "If a river were allowed to take people to court, what would she ask for?",
@@ -424,7 +424,7 @@
       "Thamarai still smells the well every morning. 'The eyes are good at finding what you can see,' she told Karthik. 'But clear only means the eyes found nothing. It does not mean there is nothing.'",
       "And Paati, who had looked into that well for sixty years and trusted her eyes, now sniffs the water before she pours it for the rice. 'Not because my eyes are old,' she says. 'Because they are only one of the ways to look.'"
     ],
-    "epiphany": "Clear only means the eyes found nothing. It does not mean there is nothing.",
+    "epiphany": "Water that looks clear has only passed one check, the check by eye. Your eyes finding nothing does not mean there is nothing in the water.",
     "ask": [
       "How could you find out by testing, and not by arguing, whether a well has a smell?",
       "A nose found the petrol and a machine measured it. What can each one do that the other cannot?",
@@ -2165,7 +2165,7 @@
         },
         {
           "t": "write",
-          "p": "A friend says: 'The river near our house looks clear, so it must be clean.' What would you tell your friend, using what you know about water?",
+          "p": "True or false: if a river looks clear, it must be clean. Explain your answer using what you know about water.",
           "lines": 4,
           "a": "Looking only checks for things the eye can see. Dissolved things like dye and chemicals, and some germs, can be in clear water. Colour can also get too thin to see. To know if water is clean, it must be tested for the things we care about, and clean also depends on what it is for.",
           "why": "A strong answer says that clear does not mean clean, names something that hides in clear water, and says that testing is needed.",
@@ -2566,7 +2566,7 @@
         },
         {
           "t": "count",
-          "p": "Each step of a thinning test makes the mix 41 times weaker. After three steps, how many times weaker is the last tumbler than the first? You can use this: 41 times 41 is 1,681.",
+          "p": "Each step of a thinning test makes the mix 41 times weaker. After three steps, how many times weaker is the last tumbler than the first? It may help to know that 41 times 41 is 1,681.",
           "a": "68921",
           "why": "After two steps the mix is 1,681 times weaker. One more step multiplies by 41 again. 1,681 times 41 is 68,921.",
           "outcome": 0
@@ -3139,8 +3139,8 @@
     },
     "ask": [
       "If your eyes say a glass of water is clean and your nose says it is not, which one is right?",
-      "A fish, a dog and a lab machine each check the same pond. Are they checking the same water?",
-      "When we send water 'away', where is away, and who lives there?"
+      "A fish, a dog and a lab machine each check the same pond. Do they all find out the same things about the water?",
+      "When we send used water away, where does it actually go, and who lives there?"
     ],
     "art": "A child holding a glass of water up to a window, with a river, a cloud and a fish drawn faintly inside the glass."
   },

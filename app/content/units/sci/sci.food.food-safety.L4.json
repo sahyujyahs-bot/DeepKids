@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Stir a spoon of yeast into sugary water and share it between four glasses. Put one in the fridge, one on the counter and one in a bowl of warm water. Heat the fourth until it steams, let it cool, and put it on the counter too. Two hours later, the warm glass is foaming up to the brim, the counter glass has foamed a little, more slowly, and the other two have barely changed. All four had the same yeast, the same sugar and the same water. What made the difference?",
-  "text": "Yeast is a microbe, a living being too small to see. The glass in warm water gave her the best conditions, so she multiplied fastest. The bacteria that make people ill behave in the same way. In this unit you test how temperature changes how fast microbes grow. You find out why smell is not a safe test, why a healthy cook can still pass on an illness, and how a table of who ate what can point to the guilty food. You also learn why salt and sugar keep food safe and how soap lifts microbes off your skin.",
+  "text": "Yeast is a microbe, a living being too small to see. The yeast in the warm water had the best conditions, so she multiplied fastest. The bacteria that make people ill behave in the same way. In this unit you test how temperature changes how fast microbes grow. You find out why smell is not a safe test, why a healthy cook can still pass on an illness, and how a table of who ate what can point to the guilty food. You also learn why salt and sugar keep food safe and how soap lifts microbes off your skin.",
   "art": "Four glasses in a row: one in a fridge, one on a counter, one in a bowl of warm water and one beside a pan, with the warm one overflowing with foam."
  },
  "outcomes": [
@@ -252,7 +252,7 @@
    "concept": "Finding the cause of an outbreak: who ate what",
    "status": "defined",
    "definition": "When many people fall ill after sharing food, scientists ask each person what they ate, and compare the fraction who fell ill among those who ate each food with the fraction among those who did not. The food with the biggest difference is the main suspect.",
-   "description": "Say 22 people ate the same lunch at a picnic, and 9 fell ill the next day. You cannot smell the problem. So you write a table. For each food you count how many people ate it, and how many of them fell ill. Then you count how many did not eat it, and how many of them fell ill. The food everybody ate cannot be the answer, since it cannot explain why some did not get ill. A food that half the ill people and half the well people ate tells you nothing. The clue is a food where most of the eaters fell ill and very few of the non-eaters did. That is called a high attack rate among those who ate it, and a low one among those who did not. The table points to a suspect, but does not prove it. Scientists then test leftover food in a laboratory, ask when people ate and when they fell ill, and look for a way that microbes could have got in. This kind of detective work is how outbreaks at weddings, schools and restaurants are tracked down.",
+   "description": "Say 22 people ate the same lunch at a picnic, and 9 fell ill the next day. You cannot smell the problem. So you write a table. For each food you count how many people ate it, and how many of them fell ill. Then you count how many did not eat it, and how many of them fell ill. The food everybody ate cannot be the answer, since it cannot explain why some did not get ill. A food that about half of the ill people ate, and about half of the well people ate too, tells you nothing. The clue is a food where most of the eaters fell ill and very few of the non-eaters did. That is called a high attack rate among those who ate it, and a low one among those who did not. The table points to a suspect, but does not prove it. Scientists then test leftover food in a laboratory, ask when people ate and when they fell ill, and look for a way that microbes could have got in. This kind of detective work is how outbreaks at weddings, schools and restaurants are tracked down.",
    "examples": [
     "At the picnic, 8 of 14 chutney eaters fell ill, and only 1 of 8 who did not eat it. Chutney is the suspect.",
     "The time between eating and falling ill, the incubation period, can point to the kind of microbe. A toxin can act within hours, while a bacterium may take a day or more.",
@@ -265,7 +265,7 @@
    "concept": "Friend or foe? The same microbe in different places",
    "status": "defined",
    "definition": "Whether a microbe harms us depends on where she is, how many there are, and which exact strain she is. The same kind of microbe can be harmless in one place and harmful in another.",
-   "description": "Your gut is home to trillions of bacteria. Scientists estimate that the human body holds about as many bacterial cells as human cells. Most of them are harmless, and many help to digest food and keep harmful microbes out. One of them, Escherichia coli, or E. coli, lives in the guts of almost everyone, and nearly all strains do no harm. A few strains make toxins, and they can cause serious illness if they get into food or water. In a bowl of yoghurt, lactobacilli are friends. In a pot of old dal, other bacteria are enemies. And the same yeast that makes idli batter rise will fill a sugary drink with froth and spoil it. This is why sorting microbes into good germs and bad germs is too simple. A better question is: which microbe, in which place, in what numbers, meeting which person?",
+   "description": "Your gut is home to trillions of bacteria. Scientists estimate that the human body holds about as many bacterial cells as human cells. Most of them are harmless, and many help to digest food and keep harmful microbes out. One of them, Escherichia coli, or E. coli, lives in the guts of almost everyone, and nearly all strains do no harm. A few strains make toxins, and they can cause serious illness if they get into food or water. In a bowl of yoghurt, lactobacilli are friends. In a pot of old dal, other bacteria are enemies. And the same yeast that makes idli batter rise will fill a sugary drink with froth and spoil it. This is why sorting microbes into good germs and bad germs is too simple. A better question is to ask which microbe it is, where she is, how many there are, and which person she meets.",
    "examples": [
     "Most E. coli live quietly in the gut. A few strains in a contaminated salad can cause bloody loose motions.",
     "Curd bacteria make milk sour in a useful way. The same sourness in a pot of sambar is spoilage.",
@@ -551,7 +551,7 @@
   "ask": [
    "If most of the microbes in and on you are harmless, why do we wash our hands at all?",
    "Is a bacterium in your dal an enemy, or just someone who found a meal?",
-   "Where does the 'you' end and the microbes begin?"
+   "Your body is home to trillions of microbes. Are they part of you, or are they separate from you?"
   ],
   "art": "A child holding a glass of curd with a faint picture of her gut behind her, full of tiny bacteria, and a bowl of dal on the table with a different crowd above it."
  },
@@ -683,7 +683,7 @@
      "do": "Do the other 12 guests. Add up each column in each row. Write the totals at the end of each row.",
      "say": "Keep going, one guest at a time. Every guest goes in every row. At the end, each row should add up to 16.",
      "kid": "Do all 16 guests. Add up each column. Each row adds up to 16.",
-     "parent": "Each row must add up to 16. If one does not, a card was missed. The totals for Mystery A are: samosa, 7 ate and 4 ill, 9 did not eat and 5 ill. Paneer roll, 9 ate and 5 ill, 7 did not eat and 4 ill. Mango lassi, 7 ate and 4 ill, 9 did not eat and 5 ill. Fruit chaat, 10 ate and 8 ill, 6 did not eat and 1 ill. With 2 to 4 players, give each player one or two foods to tally, while one player reads the cards aloud. Then compare the rows. Cut the 16 cards from a sheet of paper before you start, or just read them from the page and tally on paper."
+     "parent": "Each row must add up to 16. If one does not, a card was missed. The totals for Mystery A are these. For the samosa, 7 guests ate it and 4 of them were ill, and 9 guests did not eat it and 5 of them were ill. For the paneer roll, 9 guests ate it and 5 of them were ill, and 7 did not eat it and 4 of them were ill. For the mango lassi, 7 ate it and 4 were ill, and 9 did not eat it and 5 were ill. For the fruit chaat, 10 ate it and 8 were ill, and 6 did not eat it and 1 was ill. With 2 to 4 players, give each player one or two foods to tally, while one player reads the cards aloud. Then compare the rows. Cut the 16 cards from a sheet of paper before you start, or just read them from the page and tally on paper."
     },
     {
      "id": "s4",
@@ -712,7 +712,7 @@
      "say": "A table points but it does not prove. What would you ask the cook? What would the laboratory test? Now try Mystery B, a family lunch in Lucknow.",
      "kid": "How sure are you? What would you test? Now try Mystery B.",
      "think": "Why can a food that everyone ate never be the answer?",
-     "parent": "Mystery A: the fruit chaat. It was cut in the morning and left in a covered bowl in the sun until the party in the afternoon. Mystery B has 12 guests and four foods: biryani, raita, gulab jamun and papad. The totals are: biryani, 8 ate and 6 ill, 4 did not eat and 0 ill. Raita, 5 ate and 2 ill, 7 did not eat and 4 ill. Gulab jamun, 7 ate and 3 ill, 5 did not eat and 3 ill. Papad, 5 ate and 2 ill, 7 did not eat and 4 ill. The suspect is the biryani, which was cooked in the morning and kept warm in a covered pot until the afternoon."
+     "parent": "The suspect in Mystery A is the fruit chaat. It was cut in the morning and left in a covered bowl in the sun until the party in the afternoon. Mystery B has 12 guests and four foods: biryani, raita, gulab jamun and papad. The totals for Mystery B are these. For the biryani, 8 guests ate it and 6 of them were ill, and 4 did not eat it and none of them were ill. For the raita, 5 ate it and 2 were ill, and 7 did not eat it and 4 were ill. For the gulab jamun, 7 ate it and 3 were ill, and 5 did not eat it and 3 were ill. For the papad, 5 ate it and 2 were ill, and 7 did not eat it and 4 were ill. The suspect in Mystery B is the biryani, which was cooked in the morning and kept warm in a covered pot until the afternoon."
     }
    ]
   },
@@ -791,7 +791,7 @@
       },
       {
        "f": "A closed jar of lemon pickle. The pickle is always taken out with a dry spoon.",
-       "b": "SAFE. Salt, acid and oil leave microbes little water to use, and the dry spoon adds none."
+       "b": "SAFE. Salt pulls water out of microbes, and the acid and the oil make it hard for them to grow. A dry spoon adds no water."
       },
       {
        "f": "A packet of milk puffed up like a balloon.",
@@ -1056,7 +1056,7 @@
      "say": "Look at the foam on each glass and measure it from the rubber band. Which glass has the most? Which has none? Is the order changing?",
      "kid": "Every 30 minutes, measure the foam. Write it in the table.",
      "wait": "Wait 30 minutes between measurements. Four measurements take two hours.",
-     "parent": "Typical: glass C foams well within 30 to 60 minutes, often several centimetres. Glass B foams more slowly, and faster in a hot kitchen. Glass A hardly changes. Glass D should stay flat. If D foams, the heating was not enough, and the test should be repeated. Write down what really happens. In a hot kitchen (above 30 degrees) B may foam almost as fast as C. That is a real result, and shows why a warm kitchen is in the danger zone, so write the room temperature. Foam height depends on the glass and the yeast, so the numbers are 'typical', not promised. If nothing foams even in C after 45 minutes, the yeast is probably old or the water was too hot. Start again with fresh yeast and cooler water."
+     "parent": "Typically, glass C foams well within 30 to 60 minutes, often several centimetres. Glass B foams more slowly, and faster in a hot kitchen. Glass A hardly changes. Glass D should stay flat. If D foams, the heating was not enough, and the test should be repeated. Write down what really happens. In a hot kitchen (above 30 degrees) B may foam almost as fast as C. That is a real result, and shows why a warm kitchen is in the danger zone, so write the room temperature. Foam height depends on the glass and the yeast, so the numbers are 'typical', not promised. If nothing foams even in C after 45 minutes, the yeast is probably old or the water was too hot. Start again with fresh yeast and cooler water."
     },
     {
      "id": "s5",
@@ -1076,7 +1076,7 @@
       "a": 0,
       "why": "Cold slows microbes a great deal, but does not kill them. If you took glass A out and warmed it, the yeast would start to foam. This is why a fridge slows food spoilage, but does not stop it."
      },
-     "parent": "A good answer: What I think: warmth makes yeast grow faster, cold slows her, and heat stops her. What I saw: glass C had the most foam, A had almost none, and D stayed flat. Why: yeast is a living being, and her growth speeds up with warmth until it gets too hot. Link to the card: The danger zone."
+     "parent": "A good answer sounds like this. I thought that warmth would make yeast grow faster, that cold would slow her, and that heat would stop her. I saw that glass C had the most foam, glass A had almost none, and glass D stayed flat. This is because yeast is a living being, and her growth speeds up with warmth until it gets too hot. You can link this to the card called The danger zone."
     }
    ]
   },
@@ -1250,7 +1250,7 @@
       "a": 0,
       "why": "Washing lowers the number of microbes a great deal, but a washed hand is not sterile. That is why we also wash again after touching raw meat, and why a clean-looking hand can still carry some microbes."
      },
-     "parent": "A good answer: What I think: soap and 20 seconds of washing take most microbes off the finger, and a quick rinse takes fewer. What I saw: slice B had the most spots, and D had fewer than C. Why: soap lifts oily dirt and microbes, and the water carries them away. If your result differs, such as C having fewer than D, write it down. One finger and one potato is a small test. Link to the card: How soap works."
+     "parent": "A good answer sounds like this. I thought that soap and 20 seconds of washing would take most microbes off the finger, and that a quick rinse would take fewer. I saw that slice B had the most spots, and slice D had fewer than slice C. This is because soap lifts oily dirt and microbes, and the water carries them away. If your result differs, such as slice C having fewer spots than slice D, write it down. One finger and one potato is a small test. You can link this to the card called How soap works."
     }
    ]
   },
@@ -1384,7 +1384,7 @@
      "say": "How much liquid is at the low edge of each plate? Count the teaspoons. Now bend a slice. Is it stiff, or floppy? Which plate has the floppiest slices?",
      "kid": "Spoon up the liquid. Count the teaspoons. Bend a slice. Is it stiff or floppy?",
      "wait": "Wait 30 minutes before the first measurement, then another 30 minutes before the second.",
-     "parent": "Typical: by 60 minutes the salt plate has gathered roughly half to one and a half teaspoons of liquid and its slices bend limply. The sugar plate gathers less, and the liquid is sticky. The plain plate has only a few drops, and its slices stay stiff. Exact numbers differ with the cucumber, the slice thickness and the room. If there is hardly any liquid, wait to 90 minutes. The order, salt then sugar then plain, is more reliable than the amounts. Salt draws more water than the same weight of sugar because the grains are smaller and there are more of them in a teaspoon."
+     "parent": "Typically, by 60 minutes the salt plate has gathered roughly half to one and a half teaspoons of liquid and its slices bend limply. The sugar plate gathers less, and the liquid is sticky. The plain plate has only a few drops, and its slices stay stiff. Exact numbers differ with the cucumber, the slice thickness and the room. If there is hardly any liquid, wait to 90 minutes. The order, salt then sugar then plain, is more reliable than the amounts. Salt draws more water than the same weight of sugar. The reason is the number of tiny particles. A spoonful of salt has many more particles than a spoonful of sugar, because each salt particle is much lighter, and salt also splits into two kinds of particle when it dissolves. The more particles there are, the more water is pulled towards them."
     },
     {
      "id": "s5",
@@ -1405,7 +1405,7 @@
       "why": "Water moves through the thin skin towards the saltier side. In a salty pickle, water leaves the microbe, as it left the cucumber slices, and she shrivels. This is how salt, and sugar in jam, keep food safe."
      },
      "think": "If salt and sugar keep food safe, why can a pickle still grow mould if you put a wet spoon in it?",
-     "parent": "A good answer: What I think: salt pulls out the most water, sugar a little, and plain slices keep theirs. What I saw: the salt plate had a puddle and floppy slices. Why: water moves through the cucumber's thin skin towards the saltier side. Link to the card: How salt, sugar and drying keep food safe."
+     "parent": "A good answer sounds like this. I thought that salt would pull out the most water, sugar would pull out a little, and the plain slices would keep their water. I saw that the salt plate had a puddle and floppy slices. This is because water moves through the cucumber's thin skin towards the saltier side. You can link this to the card called How salt, sugar and drying keep food safe."
     }
    ]
   }
@@ -1718,7 +1718,7 @@
       "a": 0,
       "why": "Raw fish and meat carry bacteria. If they were on a high shelf, juice could drip onto cooked food or fruit below, and nothing would kill those bacteria. The bottom shelf, in a covered box, keeps the drips away from everything else."
      },
-     "parent": "A good plan: raw fish in a covered box on the bottom shelf. Cooked dal, rice and cut papaya in covered containers on the middle shelves. Curd and milk covered. Vegetables in the drawer. Jam and pickle can stay in a cupboard, and the jam should go in the fridge once opened. Idli batter in a large covered container, because the cold slows its rising. Score yourself: 1 point for each card placed where this plan puts it, and 1 more for a good reason, out of 24. Then, with a grown-up opening the real fridge, check if anything raw sits above cooked food and if everything is covered. If there is a fridge thermometer, it should read 5 degrees or less. With 2 to 4 children, each child places 3 or 4 cards, and the others agree or argue."
+     "parent": "A good plan puts raw fish in a covered box on the bottom shelf. Cooked dal, rice and cut papaya go in covered containers on the middle shelves. Curd and milk go in covered. Vegetables go in the drawer. Jam and pickle can stay in a cupboard, and the jam should go in the fridge once it is opened. Idli batter goes in a large covered container, because the cold slows its rising. Score yourself: 1 point for each card placed where this plan puts it, and 1 more for a good reason, out of 24. Then, with a grown-up opening the real fridge, check if anything raw sits above cooked food and if everything is covered. If there is a fridge thermometer, it should read 5 degrees or less. With 2 to 4 children, each child places 3 or 4 cards, and the others agree or argue."
     },
     {
      "id": "s3",
@@ -1964,7 +1964,7 @@
      "say": "Tilt each cup a little. Has it set? Is it thick? Is it still milk? Which cup is ahead?",
      "kid": "Tilt each cup gently. Is the milk set, thick or runny? Write it down.",
      "wait": "Leave the cups for 6 to 12 hours before the first check.",
-     "parent": "Typical in a warm kitchen at about 30 degrees: cup 3 sets first, in about 6 to 8 hours, and cup 2 a little later, in about 8 to 10 hours. Cup 1 stays liquid, and may smell sour or look odd after a day. Cup 4 in the fridge is still liquid. In a cold kitchen everything is slower, and may take a day. These times are typical, not promised. If nothing has set in cup 3 after 24 hours, the milk was probably too hot when the starter went in, or the starter was old. Say so, and try again with fresh curd."
+     "parent": "In a warm kitchen at about 30 degrees, cup 3 usually sets first, in about 6 to 8 hours, and cup 2 a little later, in about 8 to 10 hours. Cup 1 stays liquid, and may smell sour or look odd after a day. Cup 4 in the fridge is still liquid. In a cold kitchen everything is slower, and may take a day. These times are typical, not promised. If nothing has set in cup 3 after 24 hours, the milk was probably too hot when the starter went in, or the starter was old. Say so, and try again with fresh curd."
     },
     {
      "id": "s5",
@@ -1984,7 +1984,7 @@
       "a": 0,
       "why": "The curd bacteria multiply and make acid. The acid thickens the milk, and it makes life hard for many harmful microbes. Useful microbes that get there first can protect the food."
      },
-     "parent": "A good answer: What I think: curd microbes in the starter turn milk into curd, and more starter works faster. What I saw: cup 3 set first, and cup 1 did not set. Why: the bacteria in the starter multiply in warm milk and make acid. The cold in the fridge slows them. Link to the card: Friend or foe? Never taste cup 1 or any cup that smells off. Extra test of 'cold does not kill': on day 3, take cup 4 out of the fridge and leave it in the warm cupboard overnight. It will usually start to thicken, which shows the cold only slowed the curd bacteria. Cup 4 may also thicken a little in the fridge by day 3."
+     "parent": "A good answer sounds like this. I thought that the curd microbes in the starter would turn milk into curd, and that more starter would work faster. I saw that cup 3 set first, and cup 1 did not set. This is because the bacteria in the starter multiply in warm milk and make acid, and the cold in the fridge slows them. You can link this to the card called Friend or foe. Never taste cup 1 or any cup that smells off. Here is an extra test to show that cold does not kill. On day 3, take cup 4 out of the fridge and leave it in the warm cupboard overnight. It will usually start to thicken, which shows the cold only slowed the curd bacteria. Cup 4 may also thicken a little in the fridge by day 3."
     }
    ]
   }
@@ -2365,7 +2365,7 @@
     },
     {
      "t": "write",
-     "p": "A friend says, 'This dal smells fine, so it must be safe to eat.' Write what you would tell your friend.",
+     "p": "True or false: if dal smells fine, it must be safe to eat. Explain your answer.",
      "lines": 3,
      "a": "A fine smell does not prove that dal is safe. Many harmful bacteria do not change the smell. I would ask how long the dal sat warm. If it sat for many hours, it is better to throw it away.",
      "why": "A strong answer says that smell is not a safe test, and names time spent warm as the thing to ask about."
@@ -2597,7 +2597,7 @@
     },
     {
      "t": "write",
-     "p": "A friend says that washing your hands with water alone is enough. Use what you saw in the Handprints on a Potato test to answer.",
+     "p": "True or false: washing your hands with water alone is enough. Use what you saw in the Handprints on a Potato test to explain your answer.",
      "lines": 4,
      "how": "e2",
      "a": "In my test, the finger washed with soap and rubbed for 20 seconds had fewer spots than the one rinsed with water. Soap lifts oily dirt and microbes off the skin, and water alone leaves many behind. A rinse helps a little, but soap helps more.",
@@ -2776,7 +2776,7 @@
     },
     {
      "t": "mcq",
-     "p": "A scientist says, 'Harmful describes a meeting, not a kind of microbe.' What does she mean?",
+     "p": "Whether a microbe is harmful depends on the meeting between the microbe and the person. What does this mean?",
      "opts": [
       "The same microbe can be harmless in one place and harmful in another",
       "Microbes are never harmful",
@@ -2788,7 +2788,7 @@
     },
     {
      "t": "write",
-     "p": "A cook says, 'I feel perfectly well, so my hands cannot spread illness.' Write what you would say, using the idea of a carrier.",
+     "p": "True or false: a cook who feels perfectly well cannot spread illness through her hands. Explain your answer, using the idea of a carrier.",
      "lines": 4,
      "a": "A carrier has disease microbes in her body but feels well. She can pass them on through her hands if they are not washed well. So everyone who cooks must wash with soap, even when she feels fine, and stay away from food if she has loose motions.",
      "why": "A strong answer uses the word carrier, says that feeling well is not proof of being microbe-free, and ends with a habit that helps."
@@ -2940,7 +2940,7 @@
   },
   {
    "t": "mcq",
-   "p": "A friend says that E. coli is a germ, so she is always bad. What is a better way to say it?",
+   "p": "Which statement about E. coli is best?",
    "opts": [
     "She is harmless in most guts, and only some strains make people ill",
     "She is bad in the gut and good in food",
@@ -3193,8 +3193,8 @@
   },
   {
    "problem": "In the Handprints on a Potato test, slice B had 36 spots, slice C had 21, slice D had 9 and slice A had 3. How many times as many spots as D did B have? By what fraction did D have fewer spots than C?",
-   "answer": "B had 4 times as many spots as D. D had 4 sevenths fewer spots than C.",
-   "explain": "36 divided by 9 is 4, so B had 4 times as many. C minus D is 21 take away 9, which is 12. 12 out of 21 simplifies to 4 out of 7.",
+   "answer": "B had 4 times as many spots as D. D had fewer spots than C by 4 sevenths of the number C had.",
+   "explain": "36 divided by 9 is 4, so B had 4 times as many. C minus D is 21 take away 9, which is 12. 12 out of 21 simplifies to 4 out of 7. So D had 4 sevenths fewer spots than C did.",
    "math_unit": "math.data.bar-charts.L4",
    "context": "This is about the Handprints on a Potato test, where you count the spots on each slice.",
    "how": "e2",

@@ -1,9 +1,9 @@
-# Stored energy: why twice the pull-back gives more than twice the shot, and twice the height only twice
+# Stored energy: pull a band back twice as far and it stores more than twice the energy, but lift a ball twice as high and it stores only twice the energy
 `sci.energy.stored-energy.L4`
 
-**Summary.** Pull a rubber band back 2 centimetres and let go, and a bar of soap slides a short way. Pull it back 4 centimetres, twice as far, and the soap slides far more than twice as far. Yet a ball dropped from twice the height bounces only twice as high. Each kind of store fills up in its own way. You measure two of them, find out what lets a store out, and trace stores back to where their energy first came from.
+**Summary.** Pull a rubber band back 2 centimetres and let go, and a bar of soap slides a short way. Pull it back 4 centimetres, twice as far, and the soap slides far more than twice as far. Yet a ball dropped from twice the height bounces only twice as high. A stretched band and a lifted ball both hold energy, and each kind of store fills up in its own way. In this unit you measure both, find out what lets stored energy out, and trace it back to where it first came from.
 
-**Intro.** *Stand two pencils in clay with a rubber band round them. Put a bar of soap against the band, and pull the soap back 2 centimetres. Let go, and the soap slides away. Now pull it back 4 centimetres, twice as far. How far will it slide?* Most people guess twice as far. Try it and see. Before you let go, the pulled band was holding energy, and a longer pull put more energy in. In this unit you measure how much more, for a band and for a lifted ball. You also find out what holds a store in place, where a store's energy first came from, and why a ball bounces lower every time.
+**Intro.** *Stand two pencils in clay with a rubber band round them. Put a bar of soap against the band, and pull the soap back 2 centimetres. Let go, and the soap slides away. Now pull it back 4 centimetres, twice as far. How far will it slide?* Most people guess twice as far. Try it and see. Before you let go, the pulled band was holding energy. Energy that is held like this is called stored energy, and the thing that holds it is called a store. A longer pull put more energy in. In this unit you measure how much more, for a band and for a lifted ball. You also find out what holds stored energy in place, where it first came from, and why a ball bounces lower every time.
 
 ## Learning outcomes
 0. I can name three kinds of store, which are height, stretch or squash, and chemical, and say what lets each one out.
@@ -41,14 +41,14 @@ A lifted ball is not moving, yet it can fall. A pulled-back band is not moving, 
 ### Energy stored in height: twice as high, or twice as heavy, stores twice as much · *defined*
 **Definition:** The energy stored in height is the weight of the thing times the height it was lifted. Twice the height stores twice the energy, and twice the weight stores twice the energy.
 
-To lift a thing, you pull against the Earth's pull, and the energy you spend is stored. The scientists' unit is the joule. Lifting a small apple, which weighs about 100 grams, up by 1 metre stores about 1 joule. Lifting it 2 metres stores 2 joules. Lifting 2 apples 1 metre also stores 2 joules. A full roof tank of 1000 litres, lifted 10 metres, holds about 98 000 joules. When a thing falls, the stored energy turns into movement. A thing dropped from twice the height hits harder, and your bounce test shows that a ball also comes back up twice as high.
+To lift a thing, you pull against the Earth's pull, and the energy you spend is stored. The scientists' unit is the joule. Lifting a small apple, which weighs about 100 grams, up by 1 metre stores about 1 joule. Lifting it 2 metres stores 2 joules. Lifting 2 apples 1 metre also stores 2 joules. A full roof tank of 1000 litres, lifted 10 metres, holds about 98 000 joules. When a thing falls, the stored energy turns into movement. A thing dropped from twice the height hits harder. The Bounce Ratio test shows that a ball dropped from twice the height also comes back up twice as high.
 - e.g. A 1000 litre tank on a roof 10 metres up holds about 98 000 joules.
 - e.g. A child at the top of a slide stores more energy than one halfway up.
 - e.g. A coconut falls from the top of a tall palm with more energy than from a low one.
 ### Energy stored in a stretch or a squash: it grows faster than the stretch · *defined*
 **Definition:** When a spring or a band is pulled further, the energy it stores grows faster than the pull. For a good spring, twice the stretch stores four times the energy.
 
-Pull a rubber band slowly and feel it. The first centimetre is easy. The last centimetre is hard. The band pulls back harder the more you stretch it, so every extra centimetre costs more energy than the one before. Stretch a band twice as far, and you pull twice as hard at the end, over twice the distance. Twice as hard over twice as far is 2 times 2, which is 4. That is why twice the pull-back stores more than twice the energy. The English scientist Robert Hooke published in 1678 that, for a spring, the pull grows in step with the stretch. From that, scientists work out that the stored energy grows with the stretch multiplied by itself. Real rubber bands follow this only roughly, and a stretched band also warms up a little. Air works like a spring too. When you squash air into less room, it pushes back harder.
+Pull a rubber band slowly and feel it. The first centimetre is easy. The last centimetre is hard. The band pulls back harder the more you stretch it, so every extra centimetre costs more energy than the one before. Now stretch the band twice as far. At the end you are pulling twice as hard as before. You are also pulling through twice the distance. Twice as hard, through twice the distance, makes 2 times 2, which is 4 times the energy. That is why twice the pull-back stores more than twice the energy. The English scientist Robert Hooke published in 1678 that, for a spring, the pull grows in step with the stretch. From that, scientists work out that the stored energy grows with the stretch multiplied by itself. Real rubber bands follow this only roughly, and a stretched band also warms up a little. Air works like a spring too. When you squash air into less room, it pushes back harder.
 - e.g. A bow drawn back twice as far sends the arrow much faster.
 - e.g. A squashed spring on a pen stores more energy the further you press the button.
 - e.g. A bicycle pump gets harder to push as the air inside is squeezed.
@@ -60,7 +60,7 @@ A stretched band waits because your fingers hold it. A tank of water waits becau
 - e.g. Letting go of a band lets out its stretch.
 - e.g. Pressing a switch closes a circuit and lets out the energy of a cell.
 ### Chemical energy: energy stored in how atoms are joined · *defined*
-**Definition:** Chemical energy is energy stored in the way atoms are joined into molecules. It comes out when the atoms rearrange into a more tightly held arrangement.
+**Definition:** Chemical energy is energy stored in the way atoms are joined into molecules. It comes out when the atoms join up in a new way that holds them more tightly.
 
 Food and fuel are made of atoms joined in particular patterns. When your body, or a flame, rearranges them with oxygen into carbon dioxide and water, energy comes out as movement and heat. Chemical stores are very big. One medium banana holds about 100 kilocalories, which is about 420 000 joules. To store that much in height, you would have to lift a small apple about 420 kilometres up, if gravity stayed as strong as it is on the ground. A cell or a phone battery is also a chemical store. Its chemicals react slowly, and push electrons round a wire. Fat holds about 9 kilocalories in every gram, and sugar and starch hold about 4.
 - e.g. A banana holds about 420 000 joules.
@@ -69,7 +69,7 @@ Food and fuel are made of atoms joined in particular patterns. When your body, o
 ### Refilling a store: charging, eating and pumping · *defined*
 **Definition:** A store is refilled when energy is put back into it. A rechargeable battery is charged, a body is fed, and a high tank is pumped full.
 
-A charger pushes the chemical change in a rechargeable battery backwards, so the chemicals are ready to react again. A plant fills her own store when sunlight builds sugar from air and water. You fill yours when you eat. Pumped storage fills a store of height. A power station pumps water uphill when electricity is cheap and plentiful, and runs it back down through a turbine when electricity is needed. Such a power station gets back about 70 to 80 of every 100 units it put in. The rest is lost as heat. A store moves energy through time, from when it is plentiful to when it is wanted, even though it gives back a little less than it took.
+A charger pushes the chemical change in a rechargeable battery backwards, so the chemicals are ready to react again. A plant fills her own store when sunlight builds sugar from air and water. You fill yours when you eat. Pumped storage fills a store of height. A power station pumps water uphill when electricity is cheap and plentiful, and runs it back down through a turbine when electricity is needed. Such a power station gets back about 70 to 80 of every 100 units it put in. The rest is lost as heat. A store lets you keep energy from a time when there is plenty and use it at a time when you need it. It does give back a little less than it took, but that is often worth it.
 - e.g. A phone charges overnight and runs all day.
 - e.g. A parent plant fills each seed with starch before the dry season.
 - e.g. The Kadamparai dam in Tamil Nadu pumps water uphill when power is cheap.
@@ -83,12 +83,12 @@ Follow a dosa back. You eat it, so its energy came from rice. The rice plant bui
 ### Stores turn into movement and back, but a little always spreads out as heat · *defined*
 **Definition:** Energy moves between stores and movement, and the total stays the same. Each time, a little of it ends up as spread-out heat and sound that cannot be gathered back.
 
-Drop a ball. The energy of height turns into movement, then into a squash in the ball, then back into movement and height again. But the ball never rises quite as high as it began. Some energy turned into a little sound and a little heat in the ball and the floor. It is not lost from the world. It is spread out so thinly that you cannot use it to lift the ball again. So a ball dropped on its own can never bounce above its starting height. This is why a perpetual motion machine fails. Movement energy also grows faster than speed. A thing moving twice as fast has four times the energy. That is why a cycle going at 20 kilometres an hour needs about four times the distance to stop as one going at 10.
+Drop a ball. The energy of height turns into movement, then into a squash in the ball, then back into movement and height again. But the ball never rises quite as high as it began. Some energy turned into a little sound and a little heat in the ball and the floor. It is not lost from the world. It is spread out so thinly that you cannot use it to lift the ball again. So a ball dropped on its own can never bounce above its starting height. This is why a perpetual motion machine, which is a machine meant to run for ever with no energy put in, always fails. Movement energy also grows faster than speed. A thing moving twice as fast has four times the energy. That is why a cycle going at 20 kilometres an hour needs about four times the distance to stop as one going at 10.
 - e.g. A ball bounces lower each time.
 - e.g. A swing slowly stops unless you keep pumping.
 - e.g. A speeding auto needs a much longer stop than a slow one.
 ### Where is the energy of a lifted ball? · *debated*
-Schools often say that the ball has potential energy. Physicists mostly say that the energy belongs to the ball and the Earth together, because lift the ball with no Earth below it and no energy is stored. The amount also depends on how far the ball can fall. Held over a table, it can give back a little. Held over a floor, the same ball can give back more. So physicists say that only changes in stored energy have meaning, and that where we start counting from is a choice. Some physicists go further and say the energy sits in the field of gravity between the two. Einstein's theory of gravity has no agreed answer on where gravity's energy is. This is still discussed.
+Schools often say that the ball has potential energy. Physicists mostly say that the energy belongs to the ball and the Earth together. If you lifted the ball with no Earth below it, no energy would be stored. The amount also depends on how far the ball can fall. Held over a table, it can give back a little. Held over a floor, the same ball can give back more. So physicists say that only the change in stored energy matters. Where we choose to start counting from is up to us. Some physicists go further and say the energy sits in the field of gravity between the two. In Einstein's theory of gravity, nobody has agreed on where gravity's energy is. This is still discussed.
 - e.g. The same ball over a table and over a floor gives back different amounts.
 - e.g. A stretched band stores its energy in the long chains of molecules in the rubber, which are pulled out of their loose tangle.
 - e.g. A ball lifted in empty space far from any planet would store almost nothing.
@@ -96,23 +96,23 @@ Schools often say that the ball has potential energy. Physicists mostly say that
 - **Many physicists:** The energy belongs to the ball and the Earth together. Pull them apart and you store energy. It depends on where the ball can fall to.
 - **Field theory and general relativity:** The energy is in the field of gravity between them. In Einstein's theory, nobody has found a way to say exactly where gravity's energy sits, and this is still discussed.
 ### The deepest store: the energy in matter itself · *defined*
-**Definition:** Matter is itself a store of energy. Einstein's equation E = mc² says that every gram of matter is equal to about 90 trillion joules.
+**Definition:** Matter is itself a store of energy. Einstein's equation E = mc² says that every gram of matter has about 90 trillion joules of energy locked inside it.
 
-In 1905 Albert Einstein showed that mass and energy are two forms of one thing. One gram, about the mass of a paper clip, is equal to about 90 trillion joules. That is the energy of about 21 000 tonnes of explosive. Nearly all of it stays locked up. When a Sun-like star joins hydrogen atoms into helium, only about 0.7 percent of the mass turns to energy. Even so, the Sun turns about 4 million tonnes of itself into light every second. Fission, where a heavy atom splits, also releases a little of this store. Lise Meitner and Otto Frisch explained fission in 1939 and worked out the energy it releases. Meitner's colleague Otto Hahn alone received the 1944 Nobel Prize in Chemistry for the discovery.
+In 1905 Albert Einstein showed that mass and energy are two forms of one thing. One gram is about the mass of a paper clip. The energy locked inside that one gram is about 90 trillion joules. That is as much energy as about 21 000 tonnes of explosive gives out. Nearly all of it stays locked up. When a Sun-like star joins hydrogen atoms into helium, only about 0.7 percent of the mass turns to energy. Even so, the Sun turns about 4 million tonnes of itself into light every second. Fission, where a heavy atom splits, also releases a little of this store. Lise Meitner and Otto Frisch explained fission in 1939 and worked out the energy it releases. Meitner's colleague Otto Hahn alone received the 1944 Nobel Prize in Chemistry for the discovery.
 - e.g. The Sun turns about 4 million tonnes of mass into light each second.
 - e.g. A nuclear power station releases a little of the energy in uranium atoms.
-- e.g. A paper clip, if all its mass could become energy, would equal about 21 000 tonnes of explosive.
+- e.g. If all the mass of a paper clip could become energy, it would give as much energy as about 21 000 tonnes of explosive.
 
 ## Mostly agreed
-- Lifting a thing stores energy in proportion to its weight and its height. Twice the height or twice the weight stores twice the energy. *How we know:* Balls dropped from different heights make dents or bounces that grow in step with the drop height, in clay tests since the 1720s and in simple home tests.
-- For a spring, the pull grows in step with the stretch, so the stored energy grows faster than the stretch. Twice the stretch stores about four times the energy. *How we know:* Robert Hooke's work, published in 1678, and every spring tested since, follow this rule until the spring is overstretched.
+- Lifting a thing stores energy in proportion to its weight and its height. Twice the height or twice the weight stores twice the energy. *How we know:* In clay tests since the 1720s and in simple home tests, balls dropped from different heights make dents or bounces that grow in step with the drop height.
+- For a spring, the pull grows in step with the stretch, so the stored energy grows faster than the stretch. Twice the stretch stores about four times the energy. *How we know:* Robert Hooke published this rule in 1678. Every spring tested since follows it until the spring is overstretched.
 - Energy is never made or destroyed. It moves between stores and between things, and some of it spreads out as heat. *How we know:* James Joule's experiments in the 1840s showed that a falling weight turning a paddle in water warmed the water by a small and exact amount.
 - Almost all the energy stored in food, fuel, rain and wind began as sunlight. *How we know:* Plants build sugar from light, coal and oil come from ancient plants and sea life, and the Sun lifts the water and drives the winds.
 - Fat holds about 9 kilocalories in a gram, while sugar and starch hold about 4. Chemical stores in food are much larger than the stores of height we use at home. *How we know:* Burning food in a sealed container and measuring the heat, a method used since the 1800s, gives these figures.
 - A ball dropped alone cannot bounce higher than it fell, because every bounce loses a little energy as heat and sound. *How we know:* Every bounce test ever made shows lower bounces. A ball can rise higher only if another store gives it more energy.
 
 ## How we found out
-**Willem 's Gravesande, a Dutch professor, and Émilie du Châtelet, a French scientist and translator, The early 1720s for the clay tests, and the early 1740s for her book.** In the early 1700s, scientists argued about how to measure the force of a moving ball. Most followers of Descartes and Newton said it was the mass times the speed. So a ball moving twice as fast should hit twice as hard. In the early 1720s, the Dutch professor Willem 's Gravesande dropped brass balls into soft clay from different heights. A ball that hit twice as fast made a dent four times as deep. The French scientist Émilie du Châtelet read about his clay and was convinced. In the early 1740s, in her book Institutions de Physique, she argued that the force of motion grows with the square of the speed, as the philosopher Leibniz had said. Some members of the French Academy argued against her. Over the next century her side won, and today movement energy is half the mass times the speed squared. She also translated Newton's Principia into French, and her translation is still read.  
+**Willem 's Gravesande, a Dutch professor, and Émilie du Châtelet, a French scientist and translator, The early 1720s for the clay tests, and the early 1740s for her book.** In the early 1700s, scientists argued about how to measure the force of a moving ball. Most followers of Descartes and Newton said it was the mass times the speed. So a ball moving twice as fast should hit twice as hard. In the early 1720s, the Dutch professor Willem 's Gravesande dropped brass balls into soft clay from different heights. A ball that hit twice as fast made a dent four times as deep. The French scientist Émilie du Châtelet read about his clay tests and was convinced. In the early 1740s, in her book Institutions de Physique, she argued that the force of motion grows with the square of the speed, as the philosopher Leibniz had said. Some members of the French Academy argued against her. Over the next century her side won, and today movement energy is half the mass times the speed squared. She also translated Newton's Principia into French, and her translation is still read.  
 *What people believed before:* Many scientists thought that a moving body's force was simply its mass times its speed, so twice the speed would give twice the dent. The clay showed four times the dent for twice the speed.
 
 ## Challenging perspectives
@@ -120,7 +120,7 @@ In 1905 Albert Einstein showed that mass and energy are two forms of one thing. 
   For: A battery goes flat, a ball stops bouncing and a moving cycle slows down.  
   Against: Measurements find the energy again as heat in the battery, the floor and the air. Nothing disappears, but the spread-out heat is too thin to use.
 - **A moving ball hits twice as hard if it moves twice as fast.** (Descartes, and many followers of Newton in the early 1700s.; *rejected*)  
-  For: It seems natural, and a simple rule, that twice the speed gives twice the force.  
+  For: It is a simple rule and it seems natural: twice the speed gives twice the force.  
   Against: Willem 's Gravesande's clay tests in the 1720s showed that twice the speed digs a dent four times as deep. Movement energy grows with the square of the speed.
 - **The ball holds its own energy, like a number written on it.** (Most school books.; *debated*)  
   For: It is a short way of speaking, and the sums come out right.  
@@ -130,7 +130,7 @@ In 1905 Albert Einstein showed that mass and energy are two forms of one thing. 
   Against: A single ball cannot. With two balls, the extra height comes from energy passed on by the big ball, which almost stops. No energy is made.
 - **A machine can be built that gives out more energy than it takes in.** (Inventors for many centuries, including the Indian mathematician Bhaskara II, who described a wheel of this kind around 1150.; *rejected*)  
   For: A wheel with weights that swing out looks as if it should always fall on one side.  
-  Against: Nobody has ever built one that works, and the rule that energy is never made would be broken. Patent offices today refuse such claims.
+  Against: Nobody has ever built one that works. It would break the rule that energy is never made. Patent offices today refuse such claims.
 
 ## Roots
 We have measured stores of stretch and height, and followed their energy back to the Sun. Now we ask what a store really is, and what that tells us about the world.
@@ -143,24 +143,24 @@ We have measured stores of stretch and height, and followed their energy back to
 - *what is life:* A seed holds a first meal for a plant. A bird holds fat for a long flight. Living beings store energy so that they can act later, when food is not there.
 - *what is this world:* The world is full of stores of height, stretch, chemicals and matter. Energy is rarely made or lost. It mostly moves from one store to another.
 
-A store looks like a thing, but it is really a relationship. The ball and the Earth are held apart, and the atoms in a band are pulled out of line. In food, the sugar and the oxygen are kept from joining. Each store is two parts held apart that can come together again. When they do, the energy comes out as movement, and then as heat. Some physicists think that, in the whole universe, all the stores might add up to exactly zero. That is an idea, and nobody knows for sure.
+A store looks like a single thing, but it always has two parts that are held apart. The ball and the Earth are held apart. The atoms in a stretched band are pulled out of line. In food, the sugar and the oxygen are kept from joining. When the two parts come together again, the energy comes out as movement, and then as heat. Some physicists think that, in the whole universe, all the stores might add up to exactly zero. That is an idea, and nobody knows for sure.
 
 - **Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1):** That is whole, and this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains. (When a store lets its energy out, the world's total stays exactly the same. The whole remains whole.)
 - **Tao Te Ching 5:** The space between heaven and earth is like a bellows. It is empty, yet it gives and never runs dry. The more it moves, the more it gives. (The energy of a lifted ball is held in the gap between the ball and the Earth, in the empty-looking space between them.)
 - **Avatamsaka Sutra, the net of Indra:** Imagine a net of jewels in which every jewel reflects every other jewel, so that nothing shines alone. (A ball's stored energy needs the whole Earth below it. No store belongs to one thing alone.)
 - Science (settled): Energy is never made or lost. It moves between stores, and some of it spreads out as heat.
 - Science (idea): Some physicists think the total energy of the whole universe might be exactly zero, because the energy of matter is cancelled by gravity. Edward Tryon suggested it in 1973.
-- Other view, Many physics teachers: It is fine to say the ball has potential energy. Everyone gets the same numbers, so where the energy sits is only a way of talking. The question has no use.
+- Other view, Many physics teachers: It is fine to say the ball has potential energy. Everyone gets the same numbers, so where the energy sits is only a way of talking. They say that asking where it is does not help anyone solve a problem.
 - Practice, Feel a store waiting (3 min): Hold a rubber band gently between your two thumbs, away from your face. Pull it a little, not far. Breathe in slowly three times and feel it pull both hands. Let one thumb go. Notice how the energy came out.
 - Ask: Is the energy of a stretched band in the band, in your two hands, or in the gap between them?
 - Ask: A stone on the ground cannot fall any further. Does it hold no energy at all, or does it depend on where you say the bottom is?
-- Ask: If every store is two things held apart, what is being held apart when you are hungry?
+- Ask: If every store is two things held apart, what two things are held apart in the food you eat?
 
 ## Deep and big questions
-- *deep:* A ball held high stores energy. If the Earth vanished, would the ball still hold that energy? What does your answer tell you about where the energy is? (hint: Think about what you did when you held the ball over the table and then over the floor.)
-- *deep:* A band pulled back twice as far makes a soap slide more than twice as far. Why might the last centimetre of pull put in more energy than the first? (hint: Think about what the band does to your fingers as you stretch it.)
-- *deep:* A flat battery and a bouncing ball that has stopped have not lost their energy. It has spread out as heat. If it is still there, why can we not use it? (hint: Think about trying to gather the warmth out of a whole room.)
-- *deep:* A gram of anything holds as much energy as 21 000 tonnes of explosive, if it could all come out. Where is all that energy hiding? (hint: Einstein's equation says mass is a store of energy. Nobody knows all of what that means.)
+- *deep:* A ball held high stores energy. If the Earth vanished, would the ball still hold that energy? What does your answer tell you about where the energy is? (hint: In the Table or Floor activity, you held a ball in the same place over a stool and then over the floor. Think about why the bounce was higher over the floor.)
+- *deep:* A band pulled back twice as far makes a bar of soap slide more than twice as far. Why might the last centimetre of pull put in more energy than the first? (hint: Think about what the band does to your fingers as you stretch it.)
+- *deep:* A flat battery and a ball that has stopped bouncing have not lost their energy. Their energy has spread out as heat. If it is still there, why can we not use it? (hint: Think about trying to gather the warmth out of a whole room.)
+- *deep:* Every gram of anything has energy locked inside it. If all of it came out, it would equal 21 000 tonnes of explosive. Where is all that energy hiding? (hint: Einstein's equation says mass is a store of energy. Nobody knows all of what that means.)
 - *big:* Coal and oil are sunlight stored over millions of years, and people have used much of it in about two hundred. Is it fair to use a store that took so long to fill? (hint: Think about who comes after us, and who has used the most so far.)
 - *big:* A family with a battery or a roof tank can keep going in a power cut, but a family without one cannot. Should energy stores be something everyone can share? (hint: Think about who can afford a store, and what a school or a clinic needs.)
 - *big:* Lise Meitner helped explain fission, but the Nobel Prize for it went to Otto Hahn alone. How should we decide who gets the credit for an idea? (hint: Think about the people who explained it, the people who found it, and the people who were left out.)
@@ -233,7 +233,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Parent does:* Play the first eight cards. For each, read the front, say the store and the trigger, and then check the back.  
   *Parent says:* Take a card. Read the front. Which label does it go under? What is the trigger? Then turn it over and check.  
   *Child mode:* Take a card. Pick a label. Say the trigger. Turn it over.
-  - Ask: What is holding the energy back in this card? (good: A hand.; A closed tap.; A spring that is held.; The chemicals are kept apart.)
+  - Ask: What is holding the energy back on this card? (good: A hand.; A closed tap.; A spring that is held.; The chemicals are kept apart.)
   - Note: Let your child answer before they turn the card. If they pick the wrong store, read the back together and move on. It is a game, not a test.
 - **s3 (4 min)**  
   *Parent does:* Find the four trick cards in the pile: the book, the football, the loose band and the chai. Play them now. Let your child spot why each is not a store.  
@@ -246,7 +246,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Child mode:* Add up your points. Which store was hardest to spot?
 ### g2 · Back to the Sun: trace the energy home (15 min)
 - **rules:** Shuffle the 16 cards and make a pile with the writing side up.; On your turn, take a card and read the front. You have 30 seconds to say the chain from where it began to the thing on the card.; Turn the card over. Score 1 point for each link you got right.; Some cards do not begin with the Sun. If you spot that, score 3 points.; Put the card at the bottom of the pile.; When the pile is done, add up the points. The player with the most points wins. Playing alone, try to beat your own score the next day.
-- **Printable cards: 16 two-sided cards: something that uses energy on the front, and its chain back to the source on the back:** A hot idli on your plate. (back: Sunlight, then rice and dal plants that build their grain from light, then the grain, then the idli, then you.); An LED bulb lit by a coal power station. (back: Sunlight long ago, then ancient plants, then coal, then heat and steam, then a turbine, then electricity, then the bulb.); An auto-rickshaw running on petrol. (back: Sunlight long ago, then tiny sea plants and animals, then oil, then petrol, then the engine.); Water falling through a hydro power station, such as the one at Idukki in Kerala. (back: The Sun heats the sea, then the water rises and falls as rain on the hills, then it is held high in the dam, then it falls through the turbine.); A wind turbine turning near Muppandal in Tamil Nadu. (back: The Sun heats land and sea unevenly, then the air moves as wind, then the wind turns the blades.); A lamp lit by a rooftop solar panel. (back: Sunlight, then the panel, then electricity, then the lamp. This is the shortest chain.); A lit diya of ghee. (back: Sunlight, then grass, then a cow, then milk, then butter, then ghee, then the flame.); You throw a cricket ball. (back: Sunlight, then plants, then your food, then your muscles, then the throw.); Firewood burning in a chulha. (back: Sunlight, then a tree that builds wood, then the dry wood, then the fire.); Biogas burning in a village kitchen. (back: Sunlight, then plants, then cattle eating them, then dung, then microbes that make gas, then the flame.); A migrating bar-headed goose flying over the Himalayas. (back: Sunlight, then plants, then seeds and grass, then the goose's fat, then her flight.); A coconut hanging high on a palm. (back: Sunlight, then the palm, which builds her trunk and lifts her fruit high with the light she collects.); A nuclear power station, such as the one at Kudankulam in Tamil Nadu. (back: Not the Sun. Uranium atoms were made in exploding and colliding stars, long before the Sun was born. Score 3 for spotting this.); The tide coming in at a beach. (back: Not the Sun alone. The tides come mostly from the Moon's pull and the Earth's spinning, and the Sun adds a little. Score 3 for spotting this.); A hot spring at Manikaran in Himachal Pradesh. (back: Not the Sun. The heat comes from inside the Earth, left over from when the Earth formed, and from the slow breakdown of radioactive atoms. Score 3 for spotting this.); A phone charging from the mains. (back: It depends on the power station. In India most mains electricity comes from coal, which is ancient sunlight. Trace as far as you can.)
+- **Printable cards: 16 two-sided cards: something that uses energy on the front, and its chain back to the source on the back:** A hot idli on your plate. (back: Sunlight, then rice and dal plants that build their grain from light, then the grain, then the idli, then you.); An LED bulb lit by a coal power station. (back: Sunlight long ago, then ancient plants, then coal, then heat and steam, then a turbine, then electricity, then the bulb.); An auto-rickshaw running on petrol. (back: Sunlight long ago, then tiny sea plants and animals, then oil, then petrol, then the engine.); Water falling through a hydro power station, such as the one at Idukki in Kerala. (back: The Sun heats the sea, then the water rises and falls as rain on the hills, then it is held high in the dam, then it falls through the turbine.); A wind turbine turning near Muppandal in Tamil Nadu. (back: The Sun heats land and sea unevenly, then the air moves as wind, then the wind turns the blades.); A lamp lit by a rooftop solar panel. (back: Sunlight, then the panel, then electricity, then the lamp. This is the shortest chain.); A lit diya of ghee. (back: Sunlight, then grass, then a cow, then milk, then butter, then ghee, then the flame.); You throw a cricket ball. (back: Sunlight, then plants, then your food, then your muscles, then the throw.); Firewood burning in a chulha. (back: Sunlight, then a tree that builds wood, then the dry wood, then the fire.); Biogas burning in a village kitchen. (back: Sunlight, then plants, then cattle eating them, then dung, then microbes that make gas, then the flame.); A migrating bar-headed goose flying over the Himalayas. (back: Sunlight, then plants, then seeds and grass, then the goose's fat, then her flight.); A coconut hanging high on a palm. (back: Sunlight, then the palm. She uses the light to build her tall trunk and to raise her coconuts high, and that height is where the energy is stored.); A nuclear power station, such as the one at Kudankulam in Tamil Nadu. (back: Not the Sun. Uranium atoms were made in exploding and colliding stars, long before the Sun was born. Score 3 for spotting this.); The tide coming in at a beach. (back: Not the Sun alone. The tides come mostly from the Moon's pull and the Earth's spinning, and the Sun adds a little. Score 3 for spotting this.); A hot spring at Manikaran in Himachal Pradesh. (back: Not the Sun. The heat comes from inside the Earth, left over from when the Earth formed, and from the slow breakdown of radioactive atoms. Score 3 for spotting this.); A phone charging from the mains. (back: It depends on the power station. In India most mains electricity comes from coal, which is ancient sunlight. Trace as far as you can.)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Shuffle them into a pile. 3. Agree on 30 seconds for each card.  
   *Parent says:* Each card shows something that uses energy. You trace its energy back to where it began. You have thirty seconds for each card.  
@@ -256,7 +256,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Parent does:* Play eight cards. For each, say the chain out loud before you check the back.  
   *Parent says:* Take a card. Say the chain out loud, from where the energy began to the thing on the card. Then check the back.  
   *Child mode:* Take a card. Say the chain. Then check the back.
-  - Ask: What did the energy do before it reached this thing? (good: It was sunlight.; It was stored in a plant.; It was held in water high up.)
+  - Ask: Where was the energy before it reached this thing? (good: It was sunlight.; It was stored in a plant.; It was held in water high up.)
   - Note: Most chains start with the Sun. A chain with fewer links is not worse. The aim is to find where the energy began.
 - **s3 (4 min)**  
   *Parent does:* Finish the pile. Ask which cards did not begin with the Sun, and why.  
@@ -275,8 +275,8 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 - **s1 (5 min)**  
   *Parent does:* Show your child the soap, the band and the pencils. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will pull a rubber band back and let go. It will push a bar of soap along the floor. How far will the soap slide after a 2 centimetre pull-back? And after a 4 centimetre pull-back, which is twice as far? Why do you think so?  
-  *Child mode:* A band will push a soap along the floor. Pull it back 2 centimetres, then 4. How far will it slide each time? Why do you think so?
-  - Ask: If we pull back twice as far, will the soap slide twice as far, or more, or less? Why? (good: Twice as far, because twice the pull.; More, because the band is stretched more.; Less, because the band gets tired.)
+  *Child mode:* A band will push a bar of soap along the floor. Pull the soap back 2 centimetres, then 4. How far will it slide each time? Why do you think so?
+  - Ask: If we pull back twice as far, will the soap slide twice as far, or more, or less? Why? (good: Twice as far, because the pull is twice as long.; More, because the band is stretched more.; Less, because the band gets tired.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guess and the reason at the top of the table. Use a smooth tile or cement floor, because a carpet will not work. With 2 to 4 children, give each child a job: one pulls and lets go, one reads the tape and calls the number, one writes. Swap jobs after each pull-back size. Every child writes their own guess first. With one child, you read the tape and write while your child pulls and lets go.
 - **s2 (7 min)**  
   *Parent does:* 1. Push the pointed end of each pencil into a lump of clay and tape the clay to the floor. 2. Stand the pencils exactly 10 centimetres apart. 3. Loop the band round both pencils, low down, about 2 centimetres above the floor, so it is straight and just snug. 4. Lay the ruler behind the band and the tape in front, with their zeros at the band.  
@@ -293,19 +293,19 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 - **s4 (5 min)**  
   *Parent does:* 1. Slide the soap back until its front edge is at 4 centimetres on the ruler. 2. Let go. 3. Read where the front edge stops on the tape, and write the number. 4. Do this three times.  
   *Parent says:* Now pull the soap back to 4 centimetres. That is twice as far as before. Let go, and read where it stops. Do it three times. Is the slide twice as far?  
-  *Child mode:* Now pull it back 4 centimetres, twice as far. Let go. Read where it stops. Three times.
+  *Child mode:* Now pull the soap back 4 centimetres, twice as far. Let go. Read where it stops. Do it three times.
   - Ask: How does this slide compare with the 2 centimetre slide? (good: It is much longer.; It is more than twice as far.; It is about four times as far.)
   - Note: Do not explain yet. Let your child compare the numbers. Expect the slide to be more than twice the first one, often 3 to 10 times. Yours may differ.
 - **s5 (5 min)**  
   *Parent does:* 1. Slide the soap back until its front edge is at 6 centimetres on the ruler. 2. Stand to the side. 3. Let go, read where it stops, and write the number. 4. Do this three times.  
   *Parent says:* Last, pull the soap back to 6 centimetres. Stand to one side. Let go, and read where it stops. Do it three times. Do not go further than 6.  
-  *Child mode:* Pull the soap back 6 centimetres. Stand to the side. Let go. Read where it stops. Three times.
+  *Child mode:* Pull the soap back 6 centimetres. Stand to the side. Let go. Read where it stops. Do it three times.
   - Note: If the soap flies off the end of the tape, write 'more than' and the length of the tape. If the band feels very tight or thin, stop and use a thicker band. Do not pull back more than 6 centimetres.
 - **s6 (8 min)**  
   *Parent does:* 1. In each row of the table, circle the middle of the three slides. 2. Draw a bar for each pull-back. 3. Divide the 4 centimetre slide by the 2 centimetre slide. 4. Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? How many times as far did the soap slide when we doubled the pull-back?  
   *Child mode:* Draw a bar for each pull-back. Say what you thought, what you saw, and why.
-  - Note: After your child has said what they saw, you can explain. The soap slides until friction with the floor uses up all the energy the band gave it. So the slide shows how much energy the band passed on. Bands differ a lot, so your numbers may be small or large. Twice the pull-back usually gives much more than twice the slide, often 3 to 10 times, but with a very small first slide the ratio is not reliable. If the 2 centimetre slide is under 2 centimetres, compare the 6 centimetre slide with the 4 centimetre slide instead. Two things add up. The band pulls harder the more it is stretched, and the V shape stretches it more and more for each extra centimetre. If your numbers differ, say so. Real rubber is not a perfect spring.
+  - Note: After your child has said what they saw, you can explain. The soap slides until friction uses up all the energy the band gave it. Friction is the grip between two things that touch. Here it is the grip between the soap and the floor. So the slide shows how much energy the band passed on. Bands differ a lot, so your numbers may be small or large. Twice the pull-back usually gives much more than twice the slide, often 3 to 10 times, but with a very small first slide the ratio is not reliable. If the 2 centimetre slide is under 2 centimetres, compare the 6 centimetre slide with the 4 centimetre slide instead. There are two reasons. The first is that the band pulls back harder the more it is stretched. The second is that the soap pulls the middle of the band into a V shape. Each extra centimetre of pull-back then stretches the band by a little more than the one before. If your numbers differ, say so. Real rubber is not a perfect spring.
   - Check: The 2 centimetre pull-back gave a slide of 12 centimetres. The 4 centimetre pull-back gave 48 centimetres. What does this show? → **Doubling the pull-back stored about four times the energy**
   - Think: Why did a pull-back twice as long make the soap slide more than twice as far?
 ### e2 · The Bounce Ratio: how high does a ball come back from different heights? (40 min)
@@ -319,30 +319,30 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Parent does:* Show your child the ball and the dough ball. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will drop this ball from 30, 60 and 90 centimetres. Will it come back up to where we dropped it from? If we drop it from twice as high, will it bounce twice as high? Why do you think so?  
   *Child mode:* Drop a ball from 30, 60 and 90 centimetres. Will it bounce back up to the start? Why do you think so?
-  - Ask: When the ball comes back up, will it reach the place it was dropped from? Why? (good: Yes, because the ball springs back.; No, because some energy is lost.; A bit lower, because the floor takes some.)
+  - Ask: When the ball comes back up, will it reach the place it was dropped from? Why? (good: Yes, because the ball springs back.; No, because some energy is lost.; A bit lower, because the floor takes some of the energy.)
   - Note: Do not correct the guess. Write the guess and reason at the top of the table. Most people think the ball comes back all the way, or they have not thought about it.
 - **s2 (6 min)**  
   *Parent does:* 1. Stick the tape upright on the wall, with zero at the floor. 2. Put a flag of masking tape at 30, 60 and 90 centimetres. 3. Practise one drop at 30. The helper crouches so their eyes are level with the flag.  
   *Parent says:* Stick the tape on the wall. Zero is at the floor. Put a flag at 30, 60 and 90. Your helper crouches next to the tape. Their eyes should be level with the top of the bounce.  
   *Child mode:* Stick the tape on the wall. Put flags at 30, 60 and 90. The helper crouches beside it.
-  - Note: A bounce is quick. If you have a phone, film each drop in slow motion with the tape in view, then pause at the top of the bounce. Without a phone, practise a few drops so the helper learns where to look. With 2 to 4 children, give jobs: one drops, one reads the bounce at eye level, one films, one writes. Swap after each height, and let a second reader check. With one child, stand the phone on a pile of books, film each drop, and read the bounce when you play it back. Two readers can differ by a few centimetres; that is why we take the middle of three.
+  - Note: A bounce is quick. If you have a phone, film each drop in slow motion with the tape in view, then pause at the top of the bounce. Without a phone, practise a few drops so the helper learns where to look. With 2 to 4 children, give jobs: one drops, one reads the bounce at eye level, one films, one writes. Swap after each height, and let a second reader check. With one child, stand the phone on a pile of books, film each drop, and read the bounce when you play it back. Two readers can differ by a few centimetres. That is why we take the middle of three.
   - Check: Why does the helper always crouch at the same eye level? → **So the height is read from the same angle every time**
 - **s3 (7 min)**  
   *Parent does:* 1. Hold the ball with its top at the 30 centimetre flag. 2. Let go, without pushing it. 3. The helper reads the highest point of the top of the ball. 4. Write it down. 5. Do this three times.  
   *Parent says:* Hold the ball with its top at 30. Let go, and do not push. Your helper reads how high the top of the ball goes. Do it three times.  
-  *Child mode:* Hold the ball at 30. Let go. The helper reads the top of the bounce. Three times.
+  *Child mode:* Hold the ball at 30. Let go. The helper reads the top of the bounce. Do it three times.
   - Ask: How high did the ball come back compared with where it started? (good: Lower than the start.; About two thirds of the way.; Not all the way back.)
   - Note: For 30 centimetres, a cricket tennis ball often bounces about 15 to 22 centimetres, but balls differ, so yours may be higher or lower. If the readings differ by more than 4 centimetres, try again. If the ball bounces hardly at all, it is too soft or the floor is too soft; try a different ball or a tile.
 - **s4 (7 min)**  
   *Parent does:* 1. Hold the ball with its top at the 60 centimetre flag. 2. Let go. 3. The helper reads the top of the bounce. 4. Write it down. 5. Do this three times.  
   *Parent says:* Now drop the ball from 60. That is twice as high. Let go, and your helper reads the top of the bounce. Do it three times. Is it twice as high as before?  
-  *Child mode:* Now drop from 60, twice as high. The helper reads the bounce. Three times.
+  *Child mode:* Now drop the ball from 60, twice as high. The helper reads the bounce. Do it three times.
   - Ask: The drop was twice as high. How does the bounce compare with the 30 centimetre bounce? (good: About twice as high.; Higher, but still below the start.; A bit less than twice.)
   - Note: For 60 centimetres, about 30 to 44 centimetres is common. Do not explain yet. Let your child compare the numbers.
 - **s5 (7 min)**  
   *Parent does:* 1. Hold the ball with its top at the 90 centimetre flag. 2. Let go. 3. The helper reads the top of the bounce. 4. Write it down. 5. Do this three times.  
   *Parent says:* Last, drop the ball from 90. That is three times as high as the first drop. The helper reads the top of the bounce. Do it three times.  
-  *Child mode:* Last, drop from 90. The helper reads the bounce. Three times.
+  *Child mode:* Last, drop the ball from 90. The helper reads the bounce. Do it three times.
   - Note: For 90 centimetres, about 45 to 65 centimetres is common. You can try a drop from 120 centimetres if the tape is long enough.
 - **s6 (3 min)**  
   *Parent does:* 1. Hold the dough ball with its top at the 90 centimetre flag. 2. Let go. 3. Write how high it bounces.  
@@ -369,37 +369,37 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   - Ask: Will every 100 millilitres stretch the band by the same amount? Why? (good: Yes, because the weight is the same.; No, the band gets harder to stretch.; No, it stretches more each time.)
   - Note: Do not correct the guess. A guess with a reason is a good start. Water is a good weight, because 100 millilitres weighs about 100 grams. With 2 to 4 children, one pours, one marks, one measures and one writes; swap after each step. With one child, you pour and your child marks and measures.
 - **s2 (7 min)**  
-  *Parent does:* 1. Hang the band from the handle. 2. Hook the string loop of the empty bottle on the band. 3. Tape the ruler upright beside the band. 4. Mark on the ruler where the string hangs. That mark is zero.  
-  *Parent says:* Hang the band from the handle. Hook the empty bottle on the band. Tape a ruler beside it. Mark where the string hangs. That is zero stretch.  
-  *Child mode:* Hang the band. Hook on the bottle. Tape a ruler beside it. Mark zero.
+  *Parent does:* 1. Hang the band from a door handle. 2. Hook the string loop of the empty bottle on the band. 3. Tape the ruler upright beside the band. 4. Mark on the ruler where the string hangs. That mark is zero.  
+  *Parent says:* Hang the band from a door handle. Hook the empty bottle on the band. Tape a ruler beside it. Mark where the string hangs. That is zero stretch.  
+  *Child mode:* Hang the band from a door handle. Hook on the empty bottle. Tape a ruler beside it. Mark where the string hangs. That is zero.
   - Note: A band hung from a door handle works well. The ruler must not touch the string. If the bottle swings, stop it before you read.
   - Check: Why do we mark zero with the empty bottle hanging, and not with nothing hanging? → **The empty bottle already pulls on the band, so the stretch is counted from there**
 - **s3 (10 min)**  
   *Parent does:* 1. Pour in 100 millilitres of water, slowly. 2. Wait 10 seconds. 3. Mark where the string hangs and measure from zero. 4. Write the stretch. 5. Add 100 millilitres more and repeat, up to 400 millilitres.  
   *Parent says:* Pour in 100 millilitres, slowly. Wait ten seconds. Mark where the string hangs. Measure from zero. Do the same with 200, 300 and 400 millilitres.  
-  *Child mode:* Add 100 millilitres. Wait. Mark. Measure. Do 200, 300 and 400.
+  *Child mode:* Add 100 millilitres of water. Wait ten seconds. Mark where the string hangs and measure from zero. Do the same at 200, 300 and 400.
   - Ask: Does each 100 millilitres stretch the band by the same amount? (good: About the same each time.; A bit less each time.; It stretches in even steps.)
-  - Note: Rubber slowly creeps, so wait before you read. A thin band may stretch in steps of about 1 centimetre, a thick one about half a centimetre. The steps are usually about equal, and often slightly smaller near the end. Stop at 400 millilitres. The numbers are only about right: a thin band might stretch about 1 centimetre per 100 millilitres, a thick one about half a centimetre, and the first step is often a little different from the rest. If the band stretches less than 3 millimetres per step, it is too stiff to read, so use a thinner band or two thin bands together.
+  - Note: Rubber slowly creeps, so wait before you read. The numbers are only about right: a thin band might stretch about 1 centimetre for each 100 millilitres, and a thick one about half a centimetre. The steps are usually about equal. The first step is often a little different from the rest, and the last steps are often slightly smaller. Stop at 400 millilitres. If the band stretches less than 3 millimetres per step, it is too stiff to read, so use a thinner band or two thin bands together.
 - **s4 (5 min)**  
   *Parent does:* 1. Draw a graph with water on the bottom and stretch up the side. 2. Mark each pair of numbers and join the dots with a ruler. 3. Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Where would the line be for 200 millilitres more?  
   *Child mode:* Draw the graph. Say what you thought, what you saw, and why.
-  - Note: After your child has said what they saw, you can explain. A straight line means that the stretch grows in step with the weight, so the band pulls back twice as hard when it is stretched twice as far. Now think about storing energy. To stretch the band twice as far, you pull twice as hard at the end, and you pull through twice the distance. Twice as hard over twice as far is 2 times 2, which is 4. That is why twice the pull-back stores about four times the energy.
+  - Note: After your child has said what they saw, you can explain. A straight line means that the stretch grows in step with the weight, so the band pulls back twice as hard when it is stretched twice as far. Now think about storing energy. To stretch the band twice as far, you pull twice as hard at the end. You also pull through twice the distance. Twice as hard, through twice the distance, is 2 times 2, which is 4. That is why twice the pull-back stores about four times the energy.
   - Check: A band stretches 2 centimetres with 200 millilitres of water. About how much would it stretch with 400 millilitres? → **About 4 centimetres**
   - Think: If twice the weight gives about twice the stretch, how hard must you pull to hold a band stretched twice as far?
 ### a2 · Table or Floor: the same ball in the same place (15 min)
-- **safety:** Keep the stool steady and by the wall, and nobody should stand on it. Do not play near glass or fans.
+- **safety:** Keep the stool steady and by the wall. Nobody should stand on it. Do not play near glass or fans.
 - **record:** Write the bounce height above the stool and the bounce height above the floor. Say how many times higher the second one is.
 - **s1 (3 min)**  
   *Parent does:* Show your child the stool and the ball. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will hold the ball in one place, and drop it onto the stool. Then we take the stool away and drop it from the same place. Will the bounces be the same height? Why do you think so?  
-  *Child mode:* Drop the ball onto a stool. Take the stool away. Drop it from the same spot. Same bounce? Why?
+  *Child mode:* Drop the ball onto a stool. Take the stool away. Drop the ball from the same spot. Will the bounce be the same? Why?
   - Ask: The ball is held in exactly the same place. Will it bounce the same height both times? Why? (good: Yes, because it is the same ball.; No, it falls further the second time.; Higher the second time, because it drops from higher.)
   - Note: Do not correct the guess. The key point is that your child's hand and the ball do not move. Only the stool does.
 - **s2 (5 min)**  
   *Parent does:* 1. Stand the stool by the wall. 2. Put a flag on the wall 30 centimetres above the top of the stool. 3. Hold the ball with its top at the flag. 4. Let go. 5. The helper holds the ruler upright on the stool and reads the top of the bounce. Do it three times.  
   *Parent says:* Put a flag on the wall, 30 centimetres above the stool top. Hold the ball with its top at the flag. Let go. Your helper reads the bounce above the stool. Do it three times.  
-  *Child mode:* Flag 30 centimetres above the stool. Drop the ball. The helper reads the bounce. Three times.
+  *Child mode:* Put a flag 30 centimetres above the stool. Drop the ball from the flag. The helper reads the bounce. Do it three times.
   - Note: Expect a bounce of about 15 to 22 centimetres above the stool top. The stool top can be a different hardness from the floor, so the bounce may differ a little. We are looking for a big change, not a small one. With 2 to 4 children, one drops, one reads the bounce, one writes; swap each round. With one child, the parent reads the bounce.
 - **s3 (5 min)**  
   *Parent does:* 1. Move the stool well away. Do not move the flag. 2. Hold the ball with its top at the same flag. 3. Let go, and it falls to the floor. 4. The helper reads the top of the bounce on the tape, with zero at the floor. Do it three times.  
@@ -424,9 +424,9 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 - **s2 (4 min)**  
   *Parent does:* 1. Pull the plunger out to 10 millilitres. 2. Press the nozzle firmly into the clay. 3. Push the plunger in slowly to 5 millilitres. 4. Feel the push back. 5. Let go and watch.  
   *Parent says:* Pull the plunger out to 10. Block the nozzle with clay. Push the plunger in slowly, to 5. What do you feel? Now let go.  
-  *Child mode:* Pull to 10. Block the end. Push to 5. Feel the push back. Let go.
+  *Child mode:* Pull the plunger out to 10. Block the end with clay. Push the plunger in to 5. Feel the push back. Let go.
   - Ask: What did the plunger do when you let go? Why? (good: It sprang back.; The air pushed it back.; The air was squashed and wanted more room.)
-  - Note: The plunger should spring back to near 10. If it stays at 5, the clay plug leaks. Press the plug harder, or use a bigger lump of clay. A syringe may stop short of 10 a little, because the rubber rubs on the barrel; that is fine. Squashed air pushes back because its tiny particles hit the walls more often when there is less room.
+  - Note: The plunger should spring back to near 10. If it stays at 5, the clay plug leaks. Press the plug harder, or use a bigger lump of clay. The plunger may stop a little short of 10, because the rubber rubs on the barrel. That is fine. Squashed air pushes back because its tiny particles hit the walls more often when there is less room.
 - **s3 (4 min)**  
   *Parent does:* 1. Try to push the plunger in to 4 millilitres, but no further. 2. Notice how hard you have to push. 3. Let go, and watch.  
   *Parent says:* Try pushing the plunger in a bit further, to 4, but not past it. Is it harder or easier to push the last bit? What does that remind you of?  
@@ -439,8 +439,8 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Parent says:* Now fill the syringe with water and block the end. Try to push the plunger in. Can you squash the water like the air? What is different?  
   *Child mode:* Fill the syringe with water. Block the end. Try to push. Can you squash it like air?
   - Ask: Can you squash the water as easily as the air? What does that tell you? (good: No, the water hardly moves.; Air can be squashed, water cannot.; Only the air can be a spring.)
-  - Note: Do this over a tray or sink. Push gently, because the clay can pop out and squirt water. The plunger barely moves with water, while the air squashed to half. Air has room between its particles, so it can be squeezed, and then it pushes back. Water has hardly any room to squeeze.
-  - Think: Why is air a spring, and water is not?
+  - Note: Do this over a tray or sink. Push gently, because the clay can pop out and squirt water. With water, the plunger hardly moves. With air, it moved in to about half the space. Air has room between its particles, so it can be squeezed, and then it pushes back. Water has hardly any room to squeeze.
+  - Think: Why can air act as a spring when water cannot?
 
 ## Projects
 ### p1 · The Valley Track: can a marble climb higher than it started? (40 min)
@@ -450,7 +450,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Parent does:* Show your child the marble and the cardboard. Ask for a guess and a reason, and write both down.  
   *Parent says:* A marble starts at the top of one side of a valley, 20 centimetres up. It rolls down and up the other side. How high can the other side be before the marble cannot climb out? Why do you think so?  
   *Child mode:* A marble rolls down a valley and up the far side. How high can the far side be? Why?
-  - Ask: Could the far side be higher than the start and still let the marble out? Why? (good: No, it started lower than that.; Yes, if it goes fast enough.; Only up to the same height.)
+  - Ask: Could the marble climb out if the far side were higher than the start? Why? (good: No, it started lower than that.; Yes, if it goes fast enough.; Only up to the same height.)
   - Note: Do not correct the guess. Some children expect the marble to gain speed and go higher. Write the guess and reason. With 2 to 4 children, each writes a guess for the highest far end. Jobs: one releases, one watches the far end, one writes; swap after each setting.
 - **s2 (12 min)**  
   *Parent does:* 1. Fold up both long edges of the card strip by 1 centimetre, to make a groove. 2. Lay the strip so its middle 10 centimetres lie flat on the floor, and tape them down. 3. Lift one end and tape it to the top of a stack of books 20 centimetres high. 4. Lift the other end and tape it to a stack 10 centimetres high. The strip now curves up on both sides, like a smile. 5. Put the catching box beyond the far end. 6. Roll the marble down once to test.  
@@ -463,13 +463,13 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Parent says:* Set the far end low and release the marble. Raise the far end by 2 centimetres each time. Always start from the same mark. Write what the marble does each time. Last, put the far end high and mark where the marble turns back.  
   *Child mode:* Raise the far end 2 centimetres at a time. Release from the same mark. Write what happens. Last, mark where it turns back.
   - Ask: At what height does the marble stop being able to climb out? (good: Just below where it started.; A bit lower than the start.; About the same height as the start, but not quite.)
-  - Note: A marble should climb out of far ends a little below the start, often within a few centimetres of it, but card, tape joins and wobble take energy, so yours may stop several centimetres short. None climbs out of a far end higher than the start. Try each setting twice, because one try can be a fluke. The turn-back mark is hard to see by eye, so film it on a phone if you can. If the marble stops far short even at the lowest setting, the track is bumpy: smooth the joins and press out the wrinkles.
+  - Note: A marble should climb out of a far end that is a little below the start, often within a few centimetres of it. But card, tape joins and wobble take energy, so yours may stop several centimetres short. No marble climbs out of a far end higher than the start. Try each setting twice, because one try can be a fluke. The turn-back mark is hard to see by eye, so film it on a phone if you can. If the marble stops far short even at the lowest setting, the track is bumpy: smooth the joins and press out the wrinkles.
 - **s4 (9 min)**  
   *Parent does:* 1. Write the highest far end that worked. 2. Compare it with the turn-back height from the last test. 3. Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think the marble could not climb higher than where it started?  
   *Child mode:* Say what you thought, what you saw, and why.
   - Note: After your child has said what they saw, you can explain. At the start the marble held energy in its height. Rolling down turned it into movement, and climbing up turned it back into height. Some energy went into rubbing between the marble and the groove, and into the marble's spin and the track's wobble, as small amounts of heat and sound. So the marble reached a little less than its start, and never more. Energy cannot be made on the way.
-  - Think: Where did the marble's energy go on the way, to stop it short of the start height?
+  - Think: The marble stopped short of its start height. Where did the missing energy go?
 
 ## Challenges
 ### c1 · Beat the Drop: make a ball bounce higher than the place it was dropped from (35 min)
@@ -485,14 +485,14 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   - Ask: Can a ball bounce higher than where it was dropped from? How? (good: No, it loses energy.; Yes, if something gives it extra energy.; Maybe with another ball.)
   - Note: Most children and many adults think it is impossible. That is a fair idea. A ball dropped alone cannot do it. Write down their guess and reason.
 - **s2 (5 min)**  
-  *Parent does:* 1. Stick the tape on the wall, with zero at the floor. 2. Flag 50 centimetres. 3. Drop the small ball alone from the flag, three times. 4. Write how high it bounces.  
+  *Parent does:* 1. Stick the tape on the wall, with zero at the floor. 2. Put a flag at 50 centimetres. 3. Drop the small ball alone from the flag, three times. 4. Write how high it bounces.  
   *Parent says:* Drop the small ball on its own from 50 centimetres. Your helper reads the bounce. Do it three times. This is the number we want to beat.  
-  *Child mode:* Drop the small ball alone from 50. The helper reads the bounce. Three times.
+  *Child mode:* Drop the small ball alone from 50. The helper reads the bounce. Do it three times.
   - Note: The small ball alone should bounce to about 25 to 40 centimetres, lower than the start. Use 50 centimetres for every test, so the results can be compared.
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* 1. Rest the small ball exactly on top of the big ball. 2. Hold them with the big ball's top at the 50 centimetre flag. 3. Let go of both at the same moment. 4. The helper reads the top of the small ball's bounce. 5. Try five times.  
   *Parent says:* Rest the small ball on top of the big ball. Hold them together at 50. Let go of both at the same moment. Your helper reads the small ball's bounce. Try five times.  
-  *Child mode:* Small ball on top of the big ball. Hold at 50. Let go of both together. Five tries.
+  *Child mode:* Rest the small ball on top of the big ball. Hold them at 50. Let go of both together. Try five times.
   - Ask: What did the small ball do compared with when it was dropped alone? (good: It went much higher.; It shot above the flag.; The big ball hardly bounced.)
   - Note: Stand clear. The small ball may fly sideways or hit the ceiling, so play where nothing can break and keep faces out of its path. Hold the big ball low on its sides with both hands, balance the small ball on top, and pull your hands away sideways at the same moment. A small wobble sends the small ball sideways, so it may take many tries. When the balls line up, the small ball often reaches about 1.5 to 3 times the start height; with a poor line-up, it may only do a little better or go sideways. Film it if you can. With 2 to 4 children, one drops, one steadies the tape and reads, one films, one writes; swap after each try. With one child, a parent reads the bounce.
 - **s4 (7 min)**  
@@ -528,7 +528,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
    **Answer:** It removes what was holding the energy back. *Why:* A trigger lets a store release its energy. It does not supply the energy. A tiny match can start a huge fire, because the energy comes from the wood.
 8. (count) Lifting a small apple of about 100 grams up by 1 metre stores about 1 joule. How many joules are stored by lifting 5 such apples up by 2 metres?  
    **Answer:** 10. *Why:* Five apples store 5 times as much as one. Two metres stores twice as much as one metre. 5 times 2 is 10 joules.
-9. (write) A friend wants to find out how far a band pushes a soap. She changes the band and the pull-back every time. Why can she not tell what made the difference?  
+9. (write) A friend wants to find out how far a band pushes a bar of soap. She changes the band and the pull-back every time. Why can she not tell what made the difference?  
    **Answer:** If two things change at once, she cannot tell which one caused the difference. She should change only the pull-back and keep the band the same.. *Why:* A fair test changes one thing and keeps the rest the same. A strong answer says that two changes mix together, so the cause is hidden.
 10. (truefalse) A ball dropped on its own can bounce higher than the place it was dropped from.  
    **Answer:** False. *Why:* False. A ball loses a little energy as heat and sound at every bounce, so it rises less than it fell. It can rise higher only if something else gives it more energy.
@@ -542,17 +542,17 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 14. (mcq) A banana gives you energy. Where did that energy first come from?  
    Options: Sunlight that the banana plant collected / The banana's peel / The shop that sold it  
    **Answer:** Sunlight that the banana plant collected. *Why:* The banana plant built the fruit from sunlight, air and water. So the banana's energy was sunlight before it was fruit.
-15. (write) Meenakshi pulls a rubber band back and holds it. What is holding the energy back, and what could be the trigger that lets it out?  
-   **Answer:** Her fingers hold the band back. The trigger is letting go of the band.. *Why:* A store waits while something holds it back. A strong answer names the thing that holds it, which is her fingers, and the trigger, which is letting go.
+15. (write) You pull a rubber band back and hold it. What is holding the energy back, and what could be the trigger that lets it out?  
+   **Answer:** Your fingers hold the band back. The trigger is letting go of the band.. *Why:* A store waits while something holds it back. A strong answer names the thing that holds it, which is your fingers, and the trigger, which is letting go.
 ### Stored energy (stretch) (stretch, 15 questions)
 1. (mcq) A good spring is stretched twice as far. About how many times as much energy is stored?  
    Options: About four times as much / Twice as much / The same amount  
-   **Answer:** About four times as much. *Why:* Twice the stretch means twice the pull at the end, over twice the distance. 2 times 2 is 4. For a good spring, the energy grows with the stretch multiplied by itself.
+   **Answer:** About four times as much. *Why:* Twice the stretch means twice the pull at the end, through twice the distance. Twice as much pull and twice as much distance makes 2 times 2, which is 4. For a good spring, the energy grows with the stretch multiplied by itself.
 2. (count) A good spring stores 3 joules when it is stretched 1 centimetre. About how many joules does it store when stretched 3 centimetres?  
    **Answer:** 27. *Why:* Stretch 3 times as far, and the energy grows 3 times 3, which is 9 times. 9 times 3 joules is 27 joules.
 3. (truefalse) Lifting a thing twice as heavy to the same height stores twice as much energy.  
    **Answer:** True. *Why:* True. The energy stored in height is the weight times the height. Twice the weight stores twice the energy.
-4. (perspective) Two friends are talking about a ball held above a table.  
+4. (perspective) Here are two views about a ball held above a table.  
    **Answer:** Answers vary. A strong answer picks a side and uses the fact that the same ball over the floor gives back more.. *Why:* Both views describe the numbers correctly. The second view shows why the numbers change when the floor changes, so physicists often prefer it.
 5. (label) Here is a drawing of a ball just after it is let go, just before it hits the floor, and squashed against the floor. Label each moment with the store that holds most of the energy.  
    **Answer:** ['A: height', 'B: movement', 'C: squash']. *Why:* At the top, the ball holds its energy in height. Just before it lands, the energy is movement. At the floor, the ball is squashed and holds it as a squash, like a spring.
@@ -609,13 +609,13 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
    **Answer:** rice → Began as sunlight; wind → Began as sunlight; water in a dam → Began as sunlight; firewood → Began as sunlight; uranium → Did not begin as sunlight; the tide → Did not begin as sunlight; a hot spring → Did not begin as sunlight. *Why:* Rice, wind, rain in a dam and firewood all trace back to the Sun. Uranium comes from old stars, the tide from the Moon's pull, and a hot spring from heat inside the Earth.
 13. (count) A cycle stops in 2 metres when it is going 10 kilometres an hour. Going 4 times as fast needs 16 times the distance to stop. How many metres is that?  
    **Answer:** 32. *Why:* 16 times 2 metres is 32 metres. Four times the speed gives 4 times 4, which is 16 times the movement energy to get rid of.
-14. (fill) Einstein's equation says that every gram of matter is equal to about ____ trillion joules.  
+14. (fill) Einstein's equation says that every gram of matter has about ____ trillion joules of energy locked inside it.  
    **Answer:** ['90']. *Why:* One gram times the speed of light squared is about 90 trillion joules. Almost all of it stays locked up in ordinary matter.
 15. (truefalse) The energy of a hot cup of chai that cools is spread into the air and is not destroyed.  
    **Answer:** True. *Why:* True. The heat spreads into the cup and the air. It is still in the world, but too spread out to be of use.
 
 ## Videos
-- **Double Ball Bounce  in SLOW MOTION!** (Questacon, 3 min) id `afxN3RSwB_4`: To see a small ball bounce much higher than the height it was dropped from, and hear why in slow motion. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Double Ball Bounce  in SLOW MOTION!** (Questacon, 3 min) id `afxN3RSwB_4`: To see, in slow motion, a small ball bounce much higher than the height it was dropped from, and to hear why. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How does pumped hydro energy storage work?** (Queensland Hydro, 4 min) id `GKupzcJbSqE`: For the parent and older children: how a power station stores electricity by pumping water uphill and lets it fall again. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Simple Physics Experiment Anyone Can Do | Willem Gravesande Lead Balls | Emilie du Chatelet Clay** (STEPHEN BROUGH, 5 min) id `SgBWk_Tt7yQ`: For the parent and older children: how clay dents showed that movement energy grows with the square of the speed. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
@@ -638,7 +638,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 6. (mcq) Where did the energy in the uranium of a nuclear power station first come from?  
    Options: From the Sun / From exploding and colliding stars / From the Moon's pull  
    **Answer:** From exploding and colliding stars. *Why:* Uranium atoms were made in stars that exploded or collided, long before the Sun. So not every store begins with the Sun.
-7. (mcq) Which chain shows the order of energy for a hydro power station?  
+7. (mcq) Which chain shows, in the right order, how energy reaches a hydro power station?  
    Options: The Sun, then evaporation, then rain on the hills, then the dam, then the turbine / The turbine, then the dam, then the Sun, then rain / The dam, then the Sun, then the turbine, then rain  
    **Answer:** The Sun, then evaporation, then rain on the hills, then the dam, then the turbine. *Why:* The Sun lifts water by evaporating it, rain brings it to the hills, and the dam holds it high. Falling water turns the turbine.
 8. (mcq) The same ball is held in the same place. Once there is a table below it, and once there is only the floor. When is more energy stored?  
@@ -709,11 +709,11 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 - What did the spring say to the pen? *I am ready to click when you are.*
 
 ## Connected maths
-- In a made-up Soap Slider test, a pull-back of 2 centimetres made the soap slide 10 centimetres. A pull-back of 4 centimetres made it slide 40 centimetres, and 6 centimetres made it slide 90 centimetres. How many times as far did it slide when the pull-back doubled from 2 to 4? If the pattern goes on, how far would a pull-back of 8 centimetres slide the soap? **4 times as far. About 160 centimetres.**. 40 divided by 10 is 4. So doubling the pull-back made the slide 4 times as far. The slides are 10 times 1, 10 times 4 and 10 times 9. Those are 10 times 1 by 1, 2 by 2 and 3 by 3. For 8 centimetres, the number is 4 by 4, which is 16. 10 times 16 is 160. A real band stops following the pattern if it is stretched too far. (queues `math.number-sense.powers-and-roots.L4`)
+- In a made-up Soap Slider test, a pull-back of 2 centimetres made the soap slide 10 centimetres. A pull-back of 4 centimetres made it slide 40 centimetres, and 6 centimetres made it slide 90 centimetres. How many times as far did it slide when the pull-back doubled from 2 to 4? If the pattern goes on, how far would a pull-back of 8 centimetres slide the soap? **4 times as far. About 160 centimetres.**. 40 divided by 10 is 4. So doubling the pull-back made the slide 4 times as far. Look at the three slides again. They are 10 times 1, 10 times 4 and 10 times 9. The numbers 1, 4 and 9 are 1 times 1, 2 times 2 and 3 times 3. The pull-backs of 2, 4 and 6 centimetres are the first, second and third steps. A pull-back of 8 centimetres is the fourth step, and 4 times 4 is 16. So the slide would be 10 times 16, which is 160 centimetres. A real band stops following the pattern if it is stretched too far. (queues `math.number-sense.powers-and-roots.L4`)
 - In the Bounce Ratio test, a ball dropped from 90 centimetres bounced back to 60 centimetres. What fraction of the drop height came back? If every bounce keeps the same fraction, how high is the second bounce? **2/3 came back. The second bounce is 40 centimetres.**. 60 out of 90 is 2/3, because 60 is 2 lots of 30 and 90 is 3 lots of 30. The second bounce keeps 2/3 of 60. A third of 60 is 20, so two thirds is 40. (queues `math.fractions.ratio-and-proportion.L4`)
 - Lifting a small apple of 100 grams up by 1 metre stores about 1 joule. How many joules are stored by lifting 3 such apples up by 4 metres? **About 12 joules.**. One apple lifted 1 metre stores 1 joule. Three apples is 3 times as much, and 4 metres is 4 times as much. 3 times 4 is 12. (queues `math.multiplication.multiplication-facts.L4`)
 - A full roof tank of 1000 litres lifted 10 metres holds about 98 000 joules. A full phone battery holds about 54 000 joules. About how many phone batteries is the tank worth? **About 2 phone batteries.**. 98 000 is close to 100 000. 54 000 is close to 50 000. 100 000 divided by 50 000 is 2. The exact figure is a little below 2, because 98 000 divided by 54 000 is about 1.8. (queues `math.number-sense.estimation.L4`)
-- A banana holds about 420 000 joules. Lifting a small apple up by 1 metre stores about 1 joule. How many kilometres high would you have to lift the apple to store as much as the banana? **About 420 kilometres.**. 420 000 joules is 420 000 metres, because each metre is 1 joule. There are 1000 metres in a kilometre. 420 000 divided by 1000 is 420 kilometres. (queues `math.length.kilometres-and-conversions.L4`)
+- A banana holds about 420 000 joules. Lifting a small apple up by 1 metre stores about 1 joule. How many kilometres high would you have to lift the apple to store as much as the banana? **About 420 kilometres.**. Each metre of lift stores 1 joule, so 420 000 joules needs 420 000 metres. There are 1000 metres in a kilometre. 420 000 divided by 1000 is 420 kilometres. (queues `math.length.kilometres-and-conversions.L4`)
 - In a made-up Hanging Water test, a band stretched 0 centimetres with no water, 1 centimetre with 100 millilitres, 2 centimetres with 200 millilitres and 3 centimetres with 300 millilitres. How much would it stretch with 500 millilitres, if the pattern keeps going? Why should you not trust that for a very heavy load? **5 centimetres. A band stops following the pattern when it is stretched very far.**. Each 100 millilitres adds 1 centimetre, so 500 millilitres adds 5. A real band stretches less for each extra 100 millilitres at the end, and it may snap, so a pattern is only good inside the range you tested. (queues `math.data.line-graphs.L4`)
 - A pumped storage dam uses 100 units of electricity to pump water uphill, and gives back 75 units when the water runs down. What fraction of the energy is lost? What happens to it? **1/4 is lost, as heat.**. 100 take away 75 is 25. 25 out of 100 is 1/4. The 25 units turned into heat in the pumps, pipes and turbines. The heat spreads into the air and cannot be used to make electricity again. (queues `math.fractions.fractions-of-a-whole.L4`)
 - A cycle going 10 kilometres an hour stops in about 2 metres. Going twice as fast needs 4 times the distance to stop. How far does the cycle need to stop at 20 kilometres an hour? At 30 kilometres an hour, which is 3 times as fast, it needs 9 times the distance. How far is that? **8 metres at 20 kilometres an hour. 18 metres at 30 kilometres an hour.**. At 20, the distance is 4 times 2, which is 8 metres. At 30, the distance is 9 times 2, which is 18 metres. Movement energy grows with the square of the speed. (queues `math.patterns.number-patterns.L4`)
