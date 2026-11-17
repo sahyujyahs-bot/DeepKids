@@ -12,7 +12,7 @@
 3. I can show that a magnet is strongest at its poles and that the pull fades quickly as the distance grows.
 4. I can explain why two magnets side by side can add their pulls or cancel them, depending on which way round they are.
 5. I can say what blocks a magnet's pull and what does not, and explain why iron takes the field away from the space beyond it.
-6. I can explain why attracting and repelling are one force seen in the field, and say what is still not known about fields.
+6. I can explain how attracting and repelling both come from one magnetic field, and say what is still not known about fields.
 
 ## Terms
 - **Pole**: One of the two places on a magnet where its force is strongest. Every magnet has a north pole and a south pole. *e.g.* On a bar magnet, the poles are at the two ends.
@@ -43,7 +43,7 @@ When you push a trolley, your hand touches it. A magnet is different. It can pul
 ### The magnetic field: the space around a magnet · *defined*
 **Definition:** A magnetic field is the region around a magnet where its force can be felt. At every place in the field, the force has a strength and a direction.
 
-Imagine standing in a room and asking, at every spot, which way a small north pole would be pushed and how hard. The answer at each spot makes up the field. It is strongest right next to the magnet, and weaker far away. It has a direction at every spot. You cannot see a field, but you can find it with a compass, with iron filings or with a paper clip. Physicists treat the field as a real thing in space, and not only as a way of describing what magnets do. Michael Faraday, who was a bookbinder's apprentice before he became a scientist, was the first to take the idea seriously in the 1800s. Where the field comes from is settled: it is made by moving electric charge. In a magnet, it comes mostly from the spinning of electrons in the iron.
+Pick any spot near a magnet and ask which way a small north pole would be pushed there, and how hard. The answers at all the spots together make up the field. It is strongest right next to the magnet, and weaker far away. It has a direction at every spot. You cannot see a field, but you can find it with a compass, with iron filings or with a paper clip. Physicists treat the field as a real thing in space, and not only as a way of describing what magnets do. Michael Faraday, who was a bookbinder's apprentice before he became a scientist, was the first to take the idea seriously in the 1800s. Where the field comes from is settled: it is made by moving electric charge. In a magnet, it comes mostly from the spinning of electrons in the iron.
 - e.g. A compass near a magnet turns to point along the field at that spot.
 - e.g. The Earth has a magnetic field that reaches far into space.
 - e.g. A paper clip near a magnet becomes a small magnet itself, because it sits in the field.
@@ -71,14 +71,14 @@ Scatter paper clips near a bar magnet and most cling to the two ends. Almost non
 ### How quickly the pull fades with distance · *defined*
 **Definition:** The pull of a magnet fades much faster than the distance grows. For small magnets that are some way apart, doubling the distance can make the force around 16 times weaker.
 
-If a magnet pulled half as hard each time you doubled the distance, it would still be strong a long way off. But the field of a magnet spreads out in all directions, like the light of a torch, and bends back to the other pole. Both of these make it fade very fast. When you move a compass away from a bar magnet, its deflection drops quickly at first and then slowly, because the Earth's own field takes over. That is why you can feel a fridge magnet at a hand-width but not across the room. A stronger magnet reaches a little further, but not twice as far. To double the reach of a magnet, you may need a magnet many times stronger.
+If a magnet pulled half as hard each time you doubled the distance, it would still be strong a long way off. But the field of a magnet spreads out in all directions, the way the light of a torch spreads out and gets dimmer the further you go. The field also bends round and goes back to the other pole, so it does not carry far in a straight line. Both of these things make the pull fade very fast. When you move a compass away from a bar magnet, the turn of its needle drops quickly at first and then slowly, because the Earth's own field takes over. That is why you can feel a fridge magnet at a hand-width but not across the room. A stronger magnet reaches a little further, but not twice as far. To double the reach of a magnet, you may need a magnet many times stronger.
 - e.g. A fridge magnet holds paper but cannot lift a clip from 10 centimetres away.
 - e.g. A clip that jumps to a magnet from 3 centimetres might not move at all from 6 centimetres.
 - e.g. Two bar magnets held side by side reach a little further than one, not twice as far.
 ### Fields add and cancel · *defined*
 **Definition:** When two fields meet, they add at each spot as arrows do. If the arrows point the same way they add up, and if they point against each other they partly cancel.
 
-Place two bar magnets side by side with their north poles together. Both fields point the same way outside the pair, so they add, and the pair reaches further than one magnet. Turn one round, so a north pole sits next to a south pole. Now one magnet's field points one way and the other magnet's field points the other way, so they largely cancel in the space around them. The pair then reaches much less far, even though both magnets are as strong as before. This is why shops and schools store magnets in pairs with unlike poles together, often with a steel bar across the ends. The bar is called a keeper, and it keeps the field inside. It also keeps the magnets from slowly weakening. Never stack strong magnets carelessly, because the pull can pinch fingers.
+At every spot, a field has a direction, so you can draw it there as an arrow. Two arrows that point the same way add up to a longer arrow. Two arrows that point against each other partly cancel, and leave a shorter arrow. Now try this with magnets. Place two bar magnets side by side with their north poles together. Both fields point the same way outside the pair, so they add, and the pair reaches further than one magnet. Turn one round, so a north pole sits next to a south pole. Now one magnet's field points one way and the other magnet's field points the other way, so they largely cancel in the space around them. The pair then reaches much less far, even though both magnets are as strong as before. This is why shops and schools store magnets in pairs with unlike poles together, often with a steel bar across the ends. The bar is called a keeper, and it keeps the field inside. It also keeps the magnets from slowly weakening. Never stack strong magnets carelessly, because the pull can pinch fingers.
 - e.g. Two magnets with unlike poles together usually reach less far than one.
 - e.g. A pair of magnets with a steel keeper across the ends will not disturb a nearby compass.
 - e.g. The speaker in a headphone has a magnet whose field can disturb a compass placed near it.
@@ -89,15 +89,15 @@ Hold a magnet on one side of a plate of glass, and put a clip on the other side.
 - e.g. A paper clip held on the other side of a plate of glass is still pulled by a magnet.
 - e.g. A thick iron lid between a magnet and a clip stops the clip from moving.
 - e.g. A tin box shields a compass inside it from a magnet outside.
-### Attract and repel are one picture · *idea*
+### One picture that explains both attract and repel · *idea*
 **Definition:** A model that works well is to imagine field lines as stretched rubber bands that also push sideways on each other. Lines joining unlike poles pull the poles together. Lines meeting between like poles push apart.
 
 Faraday imagined the field lines as springy bands. A line from a north pole to a south pole is like a stretched band, and it tries to shorten, which pulls the poles together. Lines also repel their neighbours sideways. When two like poles face each other, the lines from both squash together in the gap, and push the poles apart. This picture works well for working out which way a force goes. It is a model and not a fact about space. It tells us that attract and repel come from one field, and not two different forces. Whether a field is really a thing in space or only a good way to calculate is a question physicists and philosophers still discuss.
 - e.g. Between unlike poles, the lines join the poles in short curved bridges.
 - e.g. Between like poles, the lines bunch and bend away.
-- e.g. A stretched rubber band along a line explains why unlike poles try to come closer.
+- e.g. Think of each field line as a stretched rubber band. That explains why unlike poles try to come closer.
 ### Where a magnet's field comes from · *defined*
-**Definition:** Every magnetic field is made by moving electric charge. In a magnet, it comes mostly from the spin of electrons. In iron, groups of electrons called domains line up and add their fields together.
+**Definition:** Every magnetic field is made by moving electric charge. In a magnet, it comes mostly from the spin of electrons. In iron, tiny regions called domains line up and add their fields together.
 
 Every electron is a tiny magnet, because it has charge and spin. In most materials, the electrons' tiny magnets point every which way and cancel. In iron, neighbouring atoms line up their tiny magnets in groups called domains. In an ordinary piece of iron, the domains point every which way too, and cancel. In a magnet, most of them have been lined up, so their fields add up to a strong field outside. Because every domain has a north and a south end, a magnet always has two poles. Cut it in two and each piece has its own two poles. No single pole has ever been found, though physicists have looked hard. Stroking, hammering or heating a piece of steel can line up the domains or scramble them. Heating iron to about 770 degrees Celsius scrambles them completely.
 - e.g. An iron nail stroked with a magnet becomes a weak magnet because its domains line up.
@@ -106,7 +106,7 @@ Every electron is a tiny magnet, because it has charge and spin. In most materia
 
 ## Mostly agreed
 - A magnet's force acts across a gap, and it is stronger near the poles than in the middle of the side. *How we know:* Anyone can see paper clips cluster at the ends of a bar magnet and measure how far a magnet reaches.
-- The pull of a magnet fades quickly as the distance grows, much faster than in proportion. *How we know:* Measurements of the force between magnets at different distances have been made with great care for over a century.
+- The pull of a magnet fades quickly as the distance grows. Doubling the distance cuts the pull by much more than half. *How we know:* Measurements of the force between magnets at different distances have been made with great care for over a century.
 - Every magnetic field is made by moving electric charge. *How we know:* Hans Christian Oersted found in 1820 that an electric current turns a compass needle. Later experiments showed that the magnetism of a magnet comes from the spin of electrons.
 - The magnetic force works in a vacuum as well as in air. *How we know:* The Earth's field reaches far into space, and magnets work in a vacuum chamber and on spacecraft.
 - Fields from two magnets add as arrows do. They can add up or partly cancel, depending on which way round the magnets are. *How we know:* A compass near a pair of magnets with unlike poles together is disturbed far less than near a single magnet.
@@ -136,7 +136,7 @@ Every electron is a tiny magnet, because it has charge and spin. In most materia
 ## Roots
 We have drawn the invisible field around a magnet, measured how it fades and seen how two fields can add or cancel. Now we ask what that tells us about space and about ourselves.
 
-**Deep truth.** Two magnets side by side reached further than one when their north poles were together. Turn one round, and the same pair reached much less far. The magnets had not changed, only the way their fields met. So one pull can cancel another, and what a magnet does depends on its neighbours.  
+**Deep truth.** In the Add or Cancel test, two magnets side by side reached further than one when their north poles were together. When one was turned round, the same pair reached much less far. The magnets had not changed, only the way their fields met. So one pull can cancel another, and what a magnet does depends on its neighbours.  
 *Habit it breaks:* We think of a magnet as having a fixed strength, like its colour or its weight, that it carries everywhere. But the pull outside a magnet depends on the whole set-up around it, and not on the magnet alone.  
 *Evidence:* In the Add or Cancel test, two taped magnets with north poles together reached further than one, and the same two turned north to south reached much less. If your results differ, write them down as they are and test again.
 
@@ -144,22 +144,22 @@ We have drawn the invisible field around a magnet, measured how it fades and see
 - *what is life:* Some bacteria make a chain of tiny magnets inside their bodies and line up with the Earth's field. Scientists think this helps them find the muddy water where they live.
 - *what is this world:* The Earth, the Sun and many stars have magnetic fields that reach far into space. The space between a magnet and a clip is not empty of force, and neither is the space between planets.
 
-At the start, the magnet looked like a lump of steel, and the clip looked far away. The compass showed that the magnet is more than the lump. It has a field that reaches out and shapes the space around it. A clip, a compass or another magnet that enters the field is changed by it. Fields add and cancel, so one magnet changes what its neighbour does. Nothing in the space stands alone.
+At the start, the magnet looked like a lump of steel, and the space between the magnet and the clip looked empty. The compass showed that the magnet is more than a lump of steel. It has a field that reaches out and shapes the space around it. A clip, a compass or another magnet that enters the field is changed by it. Fields add and cancel, so one magnet changes what its neighbour does. What happens at any spot depends on everything nearby, and not on one magnet alone.
 
 - **Chandogya Upanishad 6.13:** Uddalaka asks his son Shvetaketu to put salt in water and bring it in the morning. The boy cannot see the salt, but the water is salty at the top, in the middle and at the bottom. (You cannot see a magnet's field, yet a compass finds it at every spot around the magnet.)
-- **Tao Te Ching 11:** Thirty spokes share one hub, but it is the empty space at the centre that makes the wheel useful. Clay is shaped into a pot, but it is the emptiness inside that makes the pot useful. (The empty space around a magnet is where the field lives, and where a clip or a compass feels the pull.)
+- **Tao Te Ching 11:** Thirty spokes share one hub, but it is the empty space at the centre that makes the wheel useful. Clay is shaped into a pot, but it is the emptiness inside that makes the pot useful. (The space around a magnet looks empty, but that is where the field is, and where a clip or a compass feels the pull.)
 - Science (settled): Every magnetic field is made by moving electric charge. Oersted found in 1820 that a current turns a compass needle, and the magnetism of a magnet comes from the spin of its electrons.
 - Science (debated): Whether a field is a real thing in space or only a very good way of calculating forces is still discussed by physicists and philosophers.
 - Other view, Some physicists and philosophers of science: A field is a tool for calculating. All we ever measure is the force on a clip or a compass. We can say a field fills the space, but that does not prove that something is really there.
 - Practice, Feel the push in the gap (3 min): Hold one magnet in each hand with the same poles facing. Move them slowly towards each other. Feel the push grow before they touch. Breathe in as they come closer. Breathe out as you let them move apart. Do this five times. Notice that you can feel a push where you can see nothing.
 - Ask: A compass finds the field at every spot around a magnet. Is the field part of the magnet, or something the magnet makes around itself?
 - Ask: The space between a magnet and a clip looks empty. What would it mean for empty space to be able to push?
-- Ask: The same two magnets pulled one way round and cancelled the other. Does a thing have a strength of its own, or only in relation to what is near it?
+- Ask: In the Add or Cancel test, the same two magnets reached further one way round and partly cancelled the other way round. Does a thing have a strength of its own, or does its strength depend on what is near it?
 
 ## Deep and big questions
 - *deep:* The magnet never touched the paper clip. So how did it move it? (hint: Think about what a compass shows at every spot around a magnet.)
 - *deep:* Why is the pull of a magnet so much weaker a hand-width away than a finger-width away? (hint: Think about how the field spreads out and bends back to the other pole.)
-- *deep:* Two magnets side by side pulled harder one way round and hardly at all the other. The magnets did not change. What did? (hint: Think about arrows pointing the same way and pointing against each other.)
+- *deep:* Two magnets side by side pull a clip from further away one way round, and hardly at all the other way round. The magnets are the same. What changed? (hint: Think about arrows pointing the same way and pointing against each other.)
 - *deep:* Why can paper, water and your hand not block a magnet, while a thick iron lid can? (hint: Think about which path the field lines find easiest.)
 - *deep:* A compass far from any magnet still turns to point north. What is it turning towards? (hint: A compass turns when it sits in a magnetic field.)
 - *big:* Field lines are a drawing, yet they match what iron filings do. Is a field a real thing in space, or only a good way to describe forces? (hint: Is a line of latitude real? Is the weather forecast map the weather?)
@@ -169,7 +169,7 @@ At the start, the magnet looked like a lump of steel, and the clip looked far aw
 ## Story: The Mouse That Would Not Run
 *The story is made up. The science in it is real. A magnet in a toy can be led by another magnet through a board. The toy runs away if turned round. A thick sheet of iron under the board can take most of the field away. Two magnets side by side with like poles together reach further, and with unlike poles together they partly cancel. The Chithirai festival in Madurai is real.*
 
-In the month of Chithirai, the festival filled the streets of Madurai with drums, flower sellers and a crowd as wide as a river. Selvi was ten, and this year she had a plan. Her school library had almost no books. She had a table at the school fair stall, a hand-written sign, and a toy mouse.
+In the month of Chithirai, the festival filled the streets of Madurai with drums, flower sellers and a crowd as wide as a river. Selvi was ten, and this year she had a plan. Her school library had almost no books, so she wanted to raise money for some. She had a stall at the school fair, with a table, a hand-written sign and a toy mouse.
 
 The sign said: THE MOUSE THAT RUNS BY ITSELF. TWO RUPEES. CAN YOU GUESS HOW?
 
@@ -197,9 +197,9 @@ Selvi put the card on the new table, set the mouse on the card, and slid the mag
 
 "The magic is gone," whispered Karthik.
 
-"It is not gone," said Selvi, though she was not sure either. She slid the magnet out and looked at it. It was stuck to the underside of the iron sheet, and she had to pull hard to get it off. "Look! The sheet is iron. It took the pull for itself." She thought of the school experiment with the lid and the paper clip. "The magnet's field goes into the iron and stays inside. Almost none reaches the card."
+"It is not gone," said Selvi, though she was not sure either. She slid the magnet out and looked at it. It was stuck to the underside of the iron sheet, and she had to pull hard to get it off. "Look! The sheet is iron. It took the pull for itself." She remembered a science lesson at school, where a thick iron lid had stopped a magnet from pulling a paper clip. "The iron takes the magnet's field into itself, and the field stays inside the iron. Almost none of it reaches the card."
 
-She asked the man for a different table, a wooden one this time. But the only free one was a thick plank on two stools. She put the card on it, with the mouse on top, and slid the magnet below. The mouse twitched. It crept after the magnet, very slowly, and fell behind whenever the magnet was low.
+She asked the man for a different table, a wooden one this time. But the only free one was a thick plank on two stools. She put the card on it, with the mouse on top, and slid the magnet below. The mouse twitched. It crept after the magnet, very slowly, and fell behind whenever she held the magnet a little lower.
 
 "The plank is thicker than the card," said Selvi. "The mouse is further from the magnet, so the pull is much weaker." She tried a second magnet. She put it beside the first, with the blue dot side next to the blue dot side, so the two norths were together. The mouse followed quickly, from much further away.
 
@@ -211,9 +211,9 @@ Karthik turned the magnet round. The mouse sprang to life.
 
 By evening, the tin was heavy. There was enough money for a whole shelf of books. Karthik carried the tin home with both hands. "Selvi," he said, "the magnet reached up through the plank and moved the mouse, with nothing in between."
 
-"There is something in between," said Selvi slowly. "We just can't see it."
+"There is something in between," said Selvi slowly. "It is the magnet's field. It fills the space all around the magnet, and we just can't see it."
 
-**For the parent:** For the parent: a magnet's force reaches across a gap through a field that fills the space around it. A toy with a magnet inside is attracted to or repelled by another magnet depending on which way round it is. The pull falls quickly with distance, a thick iron sheet takes the field away, and two magnets side by side add their fields when like poles are together and partly cancel when unlike poles are together.
+**For the parent:** A magnet's force reaches across a gap through a field that fills the space around it. A toy with a magnet inside is attracted to or repelled by another magnet depending on which way round it is. The pull falls quickly with distance, a thick iron sheet takes the field away, and two magnets side by side add their fields when like poles are together and partly cancel when unlike poles are together.
 
 - Ask: Why did the mouse run away when Karthik turned it round?
 - Ask: Why did the mouse stop moving on the iron table, even though the magnet was right below it?
@@ -229,7 +229,7 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
   *Parent does:* Cut out the 24 cards and the 12 tokens. Shuffle the cards and put them in a pile. Give each player one of each kind of token.  
   *Parent says:* Each card tells you about a magnet and something near it. You say whether they attract, repel or do nothing.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take three tokens.
-  - Note: Plays with 1 to 4 children; with more, make teams of two that share tokens. A parent can join as a player or as the reader. Children use safe scissors; a parent cuts for a child under 7. The reader job passes round, so everyone reads aloud.
+  - Note: This game works with 1 to 4 children. With more, make teams of two that share tokens. A parent can join as a player or as the reader. Children use safe scissors, and a parent cuts for a child under 7. The reader's job passes round, so everyone reads aloud.
 - **s2 (3 min)**  
   *Parent does:* Play one practice card together. Use the card about a magnet and a ball of aluminium foil. Show how to turn the tokens over together.  
   *Parent says:* A magnet is held next to a ball of foil. Which token would you choose? Choose and say why.  
@@ -243,8 +243,8 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
   - Note: Listen for reasons that use poles, fields and distance. A child who says the force fades with distance is thinking like a scientist.
 - **s4 (4 min)**  
   *Parent does:* Play the last ten cards. Pay attention to the cards about distance, shielding, and two magnets side by side. Talk about why they are different.  
-  *Parent says:* Some cards depend on how far away, or on what is in between. Say what is happening to the field.  
-  *Child mode:* Some cards are about distance or what is between. Say what the field does.
+  *Parent says:* On some cards, the answer depends on how far away the magnet is, or on what is in between. Say what is happening to the field.  
+  *Child mode:* Some cards are about distance, or about what is in between. Say what the field does.
   - Ask: Why does an iron lid stop a magnet from pulling a clip, but paper does not? (good: The iron lid takes the field into itself.; Paper does not take any of the field.)
 - **s5 (2 min)**  
   *Parent does:* Add up the points. Then choose the card that surprised everyone most, and talk about why.  
@@ -254,20 +254,20 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
 
 ## Experiments
 ### e1 · Add or Cancel? How far does a paper clip jump? (40 min)
-- **question:** Does a paper clip jump from further away for the end of a magnet than the side, and what happens to the reach when two magnets are put side by side with like poles together, and with unlike poles together?
-- **predict:** Before you start, guess. Which set-up will make the clip jump from furthest away? Which from the shortest distance? Why do you think so?
+- **question:** Does a paper clip jump from further away at the end of a magnet than at its side? And how does the reach change when two magnets are put side by side, first with like poles together and then with unlike poles together?
+- **predict:** Before you start, guess. Which set-up will make the clip jump from furthest away? Which will make it jump from the shortest distance? Why do you think so?
 - **fair test:** Use the same clip, the same smooth table and the same speed of moving the magnet each time. Slide the magnet one centimetre at a time. Only the set-up of the magnets changes. Do each set-up three times and find the mean.
 - **safety:** Keep magnets away from phones, watches and bank cards. Strong magnets can pinch fingers, so stick to school bar magnets. When you bring the two magnets together they can snap and pinch, so hold them by their sides, not between the ends. Keep small magnets away from children under five, who might swallow them.
 - **record:** Fill in the table. For each set-up, work out the mean reach. Draw a bar chart with one bar for each set-up. Circle the set-up with the longest reach.
 - **results table:** Set-up | Our guess for the reach (cm) | Try 1 (cm) | Try 2 (cm) | Try 3 (cm) | Mean reach (cm)
 - **s1 (8 min)**  
-  *Parent does:* 1. Hold the compass near one end of a magnet. 2. If the red end points at the magnet, that end is a south pole. 3. Mark the other end of each magnet with a piece of tape and an N. 4. Lay the ruler on the smooth surface. 5. Put the clip flat on the 0 line.  
+  *Parent does:* 1. Hold the compass near one end of a magnet. 2. If the red end of the compass points at the magnet, that end of the magnet is a south pole, and the other end is the north pole. 3. Mark the north end of each magnet with a piece of tape and an N. 4. Lay the ruler on the smooth surface. 5. Put the clip flat on the 0 line.  
   *Parent says:* The red end of a compass points to a south pole. That tells us which end is the north pole. We mark the north ends, so we always know which way round the magnets are.  
   *Child mode:* Find the north end of each magnet with the compass. Mark it with tape.
   - Note: Test both magnets, as they may be marked differently. Keep the compass 2 centimetres from the end, not touching. Keep other magnets away while you do it. Use a fresh clip for each set-up. Wipe the table so it is clean and smooth, because a dusty table makes the clip stick.
 - **s2 (4 min)**  
   *Parent does:* Ask for a guess and a reason for the reach of each set-up. Write the guesses in the table.  
-  *Parent says:* We will test four set-ups. One magnet pointing its end at the clip. One magnet pointing its side. Two magnets side by side, north with north. Two magnets, north with south. Which jumps the clip from furthest? Why do you think so?  
+  *Parent says:* We will test four set-ups: one magnet with its end towards the clip, one magnet with its side towards the clip, two magnets side by side with north next to north, and two magnets side by side with north next to south. Which will make the clip jump from furthest away? Why do you think so?  
   *Child mode:* Guess which set-up reaches furthest. Say why.
   - Ask: Which set-up do you think will reach furthest, and why? (good: Two magnets side by side, because two are stronger than one.; The end of one magnet, because the poles are at the ends.; They will all be the same, because they are all magnets.)
   - Note: Do not say which is right. Many children think two magnets always give twice the pull. That is a good guess to test.
@@ -275,15 +275,15 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
   *Parent does:* 1. Start with one magnet, end first, 10 centimetres from the clip on the ruler line. 2. Slide it towards the clip, 1 centimetre every second. 3. Stop the moment the clip moves. 4. Read the gap between the magnet and the clip. 5. Do it three times. 6. Then repeat with the side of the magnet facing the clip.  
   *Parent says:* Slide the magnet slowly, one centimetre every second. Stop the moment the clip moves. How far apart are they? Write the gap in the table.  
   *Child mode:* Slide the magnet to the clip. Stop when it moves. Read the gap.
-  - Note: Expect a reach of about 2 to 4 centimetres at the end, and much less at the side. If the clip does not move at all down to 1 centimetre, write under 1. If the clip jumps and sticks, use the spare for the next try. With 2 to 4 children, share the jobs: one slides the magnet, one watches the clip and says stop, one reads the gap on the ruler, one writes it down. Swap after each set-up. With 2 or 3 children each does their own three tries, so everyone gets a mean to compare. If the clip does not move even at 2 centimetres, check the clip is steel and the magnet is a bar magnet with the end towards the clip. If the reach is under 1 centimetre, slide in half-centimetre steps. A school bar magnet typically moves a clip from about 2 to 4 centimetres; your numbers depend on your magnets, so write what you really see.
+  - Note: Expect a reach of about 2 to 4 centimetres at the end, and much less at the side. If the clip does not move at all down to 1 centimetre, write under 1. If the clip jumps and sticks, use a spare clip for the next try. With 2 to 4 children, share the jobs: one slides the magnet, one watches the clip and says stop, one reads the gap on the ruler, one writes it down. Swap after each set-up. With 2 or 3 children, each child can do their own three tries, so everyone gets a mean to compare. If the clip does not move even at 2 centimetres, check that the clip is steel and that the magnet is a bar magnet with its end towards the clip. If the reach is under 1 centimetre, slide in half-centimetre steps. A school bar magnet typically moves a clip from about 2 to 4 centimetres. Your numbers depend on your magnets, so write what you really see.
 - **s4 (8 min)**  
   *Parent does:* 1. Tape the two magnets side by side with the north ends together. 2. Point the ends at the clip. 3. Slide them towards the clip as before. 4. Stop when the clip moves. 5. Write the gap. 6. Do it three times.  
-  *Parent says:* Now two magnets side by side with the north ends together. Slide them as before. Does the clip jump from further away than for one magnet?  
+  *Parent says:* Now use two magnets side by side, with the north ends together. Slide them as before. Does the clip jump from further away than for one magnet?  
   *Child mode:* Tape two magnets together, north with north. Test the reach three times.
   - Note: Expect a reach a little longer than for one magnet, not double. Do not worry if it is only a centimetre more. Like poles push each other apart, so the taped pair tries to spring apart. Hold it together with two rubber bands or wide tape, ends level, and check that the two N marks are on the same side. Typically the pair reaches a little further than one magnet, not twice as far.
 - **s5 (6 min)**  
   *Parent does:* 1. Take the tape off. 2. Turn one magnet round so a north end sits next to a south end. 3. Tape them side by side again. 4. Slide them towards the clip. 5. Write the gap. 6. Do it three times.  
-  *Parent says:* Now turn one magnet round. The same two magnets, but north now sits beside south. Where does the clip jump now?  
+  *Parent says:* Now turn one magnet round. These are the same two magnets, but a north end now sits beside a south end. From how far away does the clip jump now?  
   *Child mode:* Turn one magnet round. Tape them again. Test the reach.
   - Note: Expect a much smaller reach, often less than for a single magnet. The two fields partly cancel. If the clip jumps from further away than you expected, check that the north end is next to a south end.
   - Check: Two magnets are taped side by side with a north pole next to a south pole. Compared with one magnet on its own, the reach is... → **About the same, or smaller**
@@ -292,7 +292,7 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
   *Parent says:* Which set-up reached furthest? Which reached least? Tell me what you think, what you saw and why.  
   *Child mode:* Find each mean. Draw the bars. What do you see?
   - Ask: What did you find out? (good: What I think: the way round matters. What I saw: like poles together reached furthest, and unlike poles together reached least. Why: the fields add in one case and cancel in the other.)
-  - Note: The example chart is made up. Real results depend on your magnets. The pattern to expect is: pair with like poles reaches a little more than one magnet, and pair with unlike poles reaches clearly less. Write your results down as they are, even if they differ.
+  - Note: The example chart is made up. Real results depend on your magnets. The pattern to expect is this: the pair with like poles together reaches a little further than one magnet, and the pair with unlike poles together reaches clearly less. Write your results down as they are, even if they differ.
 ### e2 · Walk the Compass: draw the field of a magnet (35 min)
 - **question:** What path does a compass needle follow as you walk it away from the north pole of a bar magnet, and where does it end?
 - **predict:** Before you start, guess. Draw on paper the path you think a compass would take from the north pole of a magnet. Where will it end up? Why do you think so?
@@ -301,7 +301,7 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
 - **record:** Keep the paper with your field lines. Write on it which pole is north and which is south. Write one sentence about where the lines are close and where they are far apart.
 - **results table:** Line number | Where it started | Where it ended | Did it end at the south pole?
 - **s1 (6 min)**  
-  *Parent does:* 1. Tape the paper to a wooden table. 2. Put the bar magnet in the middle and draw round it. 3. Use the compass to find the north end, as in the last test. 4. Write N and S on the paper by the ends. 5. Tape the magnet down with a small piece of tape on one side.  
+  *Parent does:* 1. Tape the paper to a wooden table. 2. Put the bar magnet in the middle and draw round it. 3. Use the compass to find the north end, as you did in the Add or Cancel test. If the red end points at one end of the magnet, that end is the south pole. The other end is the north pole. 4. Write N and S on the paper by the ends. 5. Tape the magnet down with a small piece of tape on one side.  
   *Parent says:* The paper will keep our drawing. The red end of the compass points to a south pole, so it tells us which end is north.  
   *Child mode:* Tape the paper down. Draw round the magnet. Mark N and S.
   - Note: Keep metal objects away from the table, because iron can bend the field and give a wrong picture. A steel table leg or a metal tray nearby can confuse the compass. Tap the compass gently and let the needle settle before each mark, because a cheap needle can stick. Keep phones, watches and steel at least 30 centimetres away.
@@ -318,30 +318,30 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
   - Ask: What do you notice about the red end near the poles? (good: It points straight away from the north pole.; It points straight towards the south pole.; Further away it points along a curve.)
   - Note: Near a pole, the needle points almost straight at or away from it. Far away, it points more and more sideways. Very far away, it points north along the Earth's field.
 - **s4 (12 min)**  
-  *Parent does:* 1. Put the compass 1 centimetre from the north pole. 2. Mark a dot at each end of the needle. 3. Move the compass so its white end sits on the red-end dot. 4. Mark a new dot at the red end. 5. Keep going until you reach the south pole or the edge of the paper. 6. Join the dots into a smooth line and add an arrow.  
-  *Parent says:* Mark the two ends of the needle. Then slide the compass along, so the white end sits on the last dot. Keep going. The dots draw a field line.  
+  *Parent does:* 1. Put the compass 1 centimetre from the north pole. 2. Mark a dot at each end of the needle. 3. Move the compass so its white end (the end of the needle that is not red) sits on the dot you made at the red end. 4. Mark a new dot at the red end. 5. Keep going until you reach the south pole or the edge of the paper. 6. Join the dots into a smooth line and add an arrow.  
+  *Parent says:* Mark the two ends of the needle. Then slide the compass along. Put the white end, the end that is not red, on the last dot. Keep going. The dots draw a field line.  
   *Child mode:* Mark the needle ends. Slide the compass on. Keep going. Join the dots.
-  - Note: This takes practice. If the dots wander, the compass needle may be sticking, so tap the paper lightly. If the line leaves the paper, start a new one. Make at least four lines, starting at different places around the north pole. Use a different colour for each. Each line takes about 5 minutes, so two lines are enough; more is a bonus. With 2 to 4 children, one slides the compass and one marks the dots, then swap, or each child draws a different line from a different spot on the same paper and you join them. For two separate maps (3 or 4 children), use two magnets, two papers and two compasses at least 1 metre apart, or one magnet pulls the other group's compass. Lines that start within about 2 centimetres of the pole usually reach the south pole. A line that starts further out may bend away towards the Earth's north instead: that is the Earth's own field, and worth talking about.
+  - Note: This takes practice. If the dots wander, the compass needle may be sticking, so tap the paper lightly. If the line leaves the paper, start a new one. Make at least two lines, starting at different places around the north pole. Use a different colour for each. Each line takes about 5 minutes, so two lines are enough, and more is a bonus. With 2 to 4 children, one slides the compass and one marks the dots, then they swap. Or each child draws a different line from a different spot on the same paper, and you join them. For two separate maps (3 or 4 children), use two magnets, two papers and two compasses at least 1 metre apart. Otherwise one group's magnet pulls the other group's compass. Lines that start within about 2 centimetres of the pole usually reach the south pole. A line that starts further out may bend away towards the Earth's north instead. That is the Earth's own field, and worth talking about.
 - **s5 (5 min)**  
-  *Parent does:* 1. Look at the lines you drew. 2. Compare them with your guess from earlier. 3. Say where the lines are close together and where they are far apart.  
+  *Parent does:* 1. Look at the lines you drew with the compass. 2. Compare them with the lines you drew as a guess before you started. 3. Say where the lines are close together and where they are far apart.  
   *Parent says:* Look at your lines. Where do they start and where do they end? Where are they close together, and where are they spread out?  
   *Child mode:* Where do the lines start and end? Where are they close together?
   - Check: Where do the field lines you drew leave the magnet and where do they end up? → **They leave the north pole and end at the south pole**
 ### e3 · The Fading Pull: how far away can a compass feel a magnet? (30 min)
 - **question:** As you move a compass further from a magnet, how does the turn of the needle change? Is it half as much when the distance doubles?
-- **predict:** Before you start, guess. At 5 centimetres the needle will turn a lot. At 10 centimetres, will it turn half as much? At 20 centimetres? Why do you think so?
+- **predict:** Before you start, guess. At 5 centimetres the needle will turn a lot. At 10 centimetres, will it turn half as much? What about at 20 centimetres? Why do you think so?
 - **fair test:** Use the same magnet, the same compass and the same line on the paper. Only the distance changes. Keep steel things away. Do each distance twice, and use the mean.
 - **safety:** Keep magnets away from phones, watches and bank cards.
 - **record:** Fill in the table. Draw a line graph with distance across and the turn of the needle up. Write one sentence about how the line goes down.
 - **results table:** Distance from the end of the magnet (cm) | Turn of the needle, try 1 (degrees) | Turn of the needle, try 2 (degrees) | Mean turn (degrees)
 - **s1 (8 min)**  
-  *Parent does:* 1. Tape the paper to the table. 2. Put the compass at one end, far from the magnet. 3. Mark dots at the two ends of the needle and join them. This is the north line. 4. Draw a second line across it at right angles. Mark the distances 5, 10, 15, 20 and 30 centimetres along it.  
+  *Parent does:* 1. Tape the paper to the table. 2. Put the compass at one end of the paper, far from the magnet. 3. Mark dots at the two ends of the needle and join them. This is the north line. 4. Draw a second line across it at right angles. Mark the distances 5, 10, 15, 20 and 30 centimetres along it.  
   *Parent says:* With no magnet near, the needle points north. We draw that line first. Then we draw a second line across it, where the compass will go.  
   *Child mode:* Mark the north line. Draw a line across it. Mark five distances.
   - Note: Keep the magnet and any other magnet at least a metre away while you draw the north line. Draw the north line through the point on the paper where the compass will sit each time. Measure each distance from the end of the magnet to the middle of the compass. Tap the compass so the needle settles. Make sure all other magnets, including those of the other children, are at least 1 metre away, or they will turn your needle.
 - **s2 (4 min)**  
   *Parent does:* Ask for a guess and a reason. Write it in the table.  
-  *Parent says:* We will place the compass at five distances. At 5 centimetres the needle turns a lot. Will it turn half as much at 10? Why do you think so?  
+  *Parent says:* We will place the compass at five distances. At 5 centimetres the needle turns a lot. Will it turn half as much at 10 centimetres? Why do you think so?  
   *Child mode:* Guess how much the needle turns at 10 and 20 centimetres. Say why.
   - Ask: How much do you think the needle will turn at 10 centimetres? Why? (good: Half as much as at 5, because the distance is double.; A lot less than half, because the magnet fades quickly.; The same, because it is the same magnet.)
   - Note: Do not correct the guess. Many children say half. The real answer is a surprise.
@@ -360,18 +360,18 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
   *Parent says:* Look at the graph. Does the turn halve each time the distance doubles? Tell me what you think, what you saw and why.  
   *Child mode:* Look at the graph. Does the turn halve when the distance doubles?
   - Ask: What did you find out? (good: What I think: the pull fades faster than the distance grows. What I saw: from 5 to 10 centimetres the turn dropped by more than a quarter, and at 30 centimetres it was tiny. Why: the field spreads out and bends back.)
-  - Note: Typical: a big turn close to the magnet, which falls quickly, then a small tail. Near the magnet the needle cannot turn more than about 90 degrees, so the first step can look gentle. Between 10 and 20 centimetres the turn usually drops to well under half. The example numbers are made up; yours will differ.
+  - Note: A typical result is a big turn close to the magnet, which falls quickly and then tails off slowly. Near the magnet the needle cannot turn more than about 90 degrees, so the first step can look gentle. Between 10 and 20 centimetres the turn usually drops to well under half. The example numbers are made up. Yours will differ.
   - Check: As the compass moved further from the magnet, the turn of the needle... → **Dropped quickly at first, and then slowly**
 
 ## Activities
 ### a1 · The Floating Clip: a clip held in the air (10 min)
-- **record:** Draw the magnet, the gap and the clip. Measure the highest gap in centimetres at which the clip still floats, and write it as about that many centimetres. Write one thing you noticed and one thing you wonder.
+- **record:** Draw the magnet, the gap and the clip. Measure the biggest gap at which the clip still floats, and write it down as about that many centimetres. Write one thing you noticed and one thing you wonder.
 - **s1 (4 min)**  
   *Parent does:* 1. Tie one end of the thread to the clip. 2. Tape the other end to the table. 3. Hold the magnet above the clip and lift it slowly. 4. Stop when the clip lifts and hangs in the air, not touching the magnet.  
   *Parent says:* Hold the magnet above the clip, and lift slowly. Find the spot where the clip floats in the air with the thread tight.  
   *Child mode:* Hold the magnet over the clip. Lift slowly. Make the clip float.
   - Ask: What do you notice about the clip? (good: It hangs in the air without touching the magnet.; It moves when I move the magnet.; It only floats if the magnet is close enough.)
-  - Note: It can take a few tries. Hold the magnet still, and lower it a little if the clip drops. If the clip jumps up and sticks, lift the magnet a few centimetres higher and start again. A shorter thread, about 15 centimetres, is easier. Keep the thread short, about 2 to 3 centimetres between the tape and the clip, so it is shorter than your magnet's reach (about 2 to 4 centimetres for a school magnet). A long thread goes slack and the clip just jumps on to the magnet. If the clip sticks to the magnet, lower the magnet and lift it more slowly. With 2 to 4 children, one holds the magnet, one slides in things, one measures the gap; swap round.
+  - Note: It can take a few tries. Hold the magnet still, and lower it a little if the clip drops. If the clip jumps up and sticks, lift the magnet a few centimetres higher and start again. A short thread is easier. Keep about 2 to 3 centimetres of thread between the tape and the clip, so it is shorter than your magnet's reach (about 2 to 4 centimetres for a school magnet). A long thread goes slack and the clip just jumps on to the magnet. If the clip sticks to the magnet, lower the magnet and lift it more slowly. With 2 to 4 children, one holds the magnet, one slides in things, one measures the gap; swap round.
 - **s2 (3 min)**  
   *Parent does:* With the clip floating, slide a sheet of paper into the gap. Try a piece of cloth. Then try a plastic lid.  
   *Parent says:* Slide something into the gap, between the magnet and the clip. Does the clip fall? Try paper, then cloth, then plastic.  
@@ -381,13 +381,13 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
   *Parent does:* Ask for a guess and a reason, and write it down for later.  
   *Parent says:* What do you think is holding the clip up? How far could we raise the magnet before the clip falls? Why do you think so?  
   *Child mode:* What holds the clip up? Make a guess and say why.
-  - Ask: What do you think is reaching across the gap? Why? (good: Any guess with a reason. Keep it for the Reach test.)
+  - Ask: What do you think is reaching across the gap? Why? (good: Any guess with a reason. Keep it for the Add or Cancel test.)
   - Note: Do not give the answer. Your child will test it in the Add or Cancel test.
 ### a2 · What Stands Between? Which things block a magnet's pull (20 min)
 - **safety:** Tin lids can have sharp edges, so a grown-up should check them first. The magnet can jump on to a steel lid, so keep fingers out of the gap.
 - **record:** Make a table with the things you tried, a guess for each, and whether the clip still moved. Circle the things that blocked the pull.
 - **s1 (5 min)**  
-  *Parent does:* 1. Put the clip on the table. 2. Slide the magnet towards it, as in the Add or Cancel test, until the clip just moves. 3. Note the gap. 4. Move the magnet back to half that gap, and mark its spot with tape.  
+  *Parent does:* 1. Put the clip on the table. 2. Slide the magnet towards it, as in the Add or Cancel test, until the clip just moves. 3. Note the gap. 4. Now place the magnet at half that gap from the clip, and mark its spot with tape.  
   *Parent says:* We find the gap where the clip just moves. Then we use half that gap, so the magnet is well within reach.  
   *Child mode:* Find the gap where the clip moves. Then use half that gap.
   - Note: If the reach is 4 centimetres, use a gap of 2. This leaves space to slide things in without moving the magnet. Mark the magnet's spot with tape so it is the same each time. If your gap is smaller than the wood or lid, use a thinner thing or start the magnet closer.
@@ -412,10 +412,10 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
 - **safety:** A grown-up does the pouring. Iron filings are sharp. Do not touch them, breathe the dust or get them near the eyes. Keep them sealed in the bag, with tape over the zip. Keep filings dry, because they rust and stain, and away from small children, who may put things in the mouth. Wash hands afterwards. Keep the magnet away from phones.
 - **record:** Draw what you see. Compare it with the field lines you drew with the compass.
 - **s1 (6 min)**  
-  *Parent does:* 1. A grown-up puts a small pinch of filings in the zip-lock bag. 2. Seal the bag, pressing out the air. 3. Shake the filings flat so they spread out. 4. Lay the bag flat on a sheet of paper.  
+  *Parent does:* 1. A grown-up puts a teaspoon of filings in the zip-lock bag. 2. Seal the bag, pressing out the air. 3. Shake the filings flat so they spread out. 4. Lay the bag flat on a sheet of paper.  
   *Parent says:* The bag keeps the sharp filings safe. Press out the air and spread the filings thin.  
   *Child mode:* Ask a grown-up to seal the filings in a bag. Spread them flat.
-  - Note: A teaspoon of filings is plenty. Check the bag is sealed all along its edge. Do not let a small child open it. No filings? Skip this activity: the compass map from Walk the Compass shows the same pattern. About a teaspoon in a small flat bag gives a clear picture; a pinch is too thin. One grown-up runs it; children take turns tapping the bag, and all can look and draw.
+  - Note: A teaspoon of filings in a small flat bag is plenty and gives a clear picture. Check the bag is sealed all along its edge. Do not let a small child open it. No filings? Skip this activity: the compass map from Walk the Compass shows the same pattern. One grown-up runs it; children take turns tapping the bag, and all can look and draw.
 - **s2 (8 min)**  
   *Parent does:* 1. Lay the bar magnet flat on the table. 2. Lay the bag on top of it. 3. Tap the bag gently with a finger. 4. Watch the filings line up.  
   *Parent says:* Put the bag over the magnet and tap it gently. What do the filings do? Where are they thickest?  
@@ -432,10 +432,10 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
 - **record:** Make a table with the magnet, your guess for its rank, three readings and the mean. Number the magnets from furthest reach to shortest.
 - **s1 (6 min)**  
   *Parent does:* 1. Walk round the home with a grown-up. 2. Find five magnets that can be taken out or lifted off. 3. Lay them on the table. 4. Write down what each one is.  
-  *Parent says:* Let's find five magnets in the house. A fridge magnet, a cupboard catch, a clasp and more. Which do you think reaches furthest?  
+  *Parent says:* Let's find five magnets in the house. Look for a fridge magnet, a cupboard catch, a clasp and others. Which do you think reaches furthest?  
   *Child mode:* Find five magnets. Lay them out. Guess which reaches furthest.
   - Ask: Which magnet do you think reaches furthest? Why? (good: The biggest one.; The school magnet, because it is made to be strong.; The tiny one, because it looks strong.)
-  - Note: Do not correct the guess. Flat fridge magnets are weak and have stripes of poles. A cupboard door catch can be quite strong for its size. Not a phone, speaker or anything with a screen. If you cannot find five, borrow from a neighbour or relative, or use three.
+  - Note: Do not correct the guess. Flat fridge magnets are weak and have stripes of poles. A cupboard door catch can be quite strong for its size. Do not use a phone, a speaker or anything with a screen. If you cannot find five, borrow from a neighbour or relative, or use three.
 - **s2 (14 min)**  
   *Parent does:* 1. Lay the ruler on the table with the clip on the 0 line. 2. Slide the first magnet slowly towards the clip from about 6 centimetres (a weak fridge magnet needs to start at 3 centimetres and go in half-centimetre steps). 3. Stop when the clip moves. 4. Read the gap. 5. Do it three times. 6. Repeat for each magnet.  
   *Parent says:* Slide each magnet at the same slow speed. Stop the moment the clip moves. Write the gap three times for each magnet.  
@@ -454,7 +454,7 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
 - **record:** Draw your maze. Write how many layers of card the magnet led the clip through and the total thickness, including the lid. Compare it with the reach you measured in the Add or Cancel test.
 - **schedule:** day 1: Plan a maze on paper and build it on the lid with card strips. Rest the lid on two stacks of books. (25 min); day 2: Lead the clip through the maze. Add layers of card under the maze to find the thickest board the magnet can lead through. (20 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Draw a maze on paper, with a start and an end. 2. Make the walls from card strips, glued to the lid. 3. Leave paths about 3 centimetres wide. 4. Let the glue dry.  
+  *Parent does:* 1. Draw a maze on paper, with a start and an end. 2. Make the walls from card strips, glued to the shoebox lid. The lid is the floor of the maze. 3. Leave paths about 3 centimetres wide. 4. Let the glue dry.  
   *Parent says:* Plan the maze first. Make the paths wide enough for a clip to move along. Which walls will make it hard?  
   *Child mode:* Draw a maze. Glue card walls to the lid. Make the paths wide.
   - Note: Keep the maze simple. Four or five walls are enough. The glue needs time to dry, so you may prefer tape. Plain glue takes hours to dry, so tape the walls for a quick start or build on Day 1 and test on Day 2. With 2 to 4 children, each builds a small maze on their own lid, or all build one big one, then swap and lead each other's clip: one leads, one times the run with a phone, one watches the clip. One magnet and one clip can be shared.
@@ -471,10 +471,10 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
   - Wait: Day 2: continue from here.
 - **s4 (10 min)**  
   *Parent does:* 1. Measure the total thickness when the clip stopped following. 2. Compare it with the reach from the Add or Cancel test. 3. Try two magnets side by side, north with north, and see if they lead the clip through a thicker pile.  
-  *Parent says:* Measure the pile at the point where the clip stopped. Is it close to the reach you measured before? What happens with two magnets?  
+  *Parent says:* Measure the pile at the point where the clip stopped. Is it close to the reach you measured in the Add or Cancel test? What happens with two magnets?  
   *Child mode:* Measure the pile of card. Try two magnets side by side. What changes?
   - Note: Typically the thickness the clip follows through is a little less than the reach measured in Add or Cancel, because the clip must also be dragged against friction. For two magnets, hold them together with rubber bands, north with north.
-  - Check: A magnet leads a clip through 3 centimetres of card but not 5. A second magnet taped beside it, north to north, is added. The best prediction is... → **It will now lead through about 4 centimetres**
+  - Check: A magnet leads a clip through 3 centimetres of card but not 5. You tape a second magnet beside it, north to north. What is the best prediction? → **It will now lead through about 4 centimetres**
 - **s5 (5 min)**  
   *Parent does:* Draw your maze and write down the thickest pile your magnet could lead the clip through.  
   *Parent says:* What was the thickest pile? Why can't the magnet reach through more? What would let it?  
@@ -490,7 +490,7 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
 - **creative:** Try laying a steel strip across both ends as a keeper. Does it make the pair quieter?; Try different arrangements, such as end to end or at an angle, and find which is quietest.; Put the pair on the other side of the compass and see if the turn changes.
 - **s1 (8 min)**  
   *Parent does:* Place the compass on its spot with the north line drawn. Put one magnet 10 centimetres away, end towards the compass. Measure how far the needle turns.  
-  *Parent says:* How far does one magnet turn the needle from 10 centimetres? That is the number to beat.  
+  *Parent says:* We call a pair of magnets quiet when it turns the needle only a little. First, how far does one magnet turn the needle from 10 centimetres? That is the number to beat.  
   *Child mode:* Test one magnet at 10 centimetres. Measure the turn. That is your score to beat.
   - Ask: What arrangement do you think will be quietest? Why? (good: Side by side with opposite ends together, so the fields cancel.; End to end, so the pulls cancel.)
 - **s2 (17 min)**  
@@ -531,7 +531,7 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
 12. (mcq) A magnet is held 2 centimetres from a clip, with a sheet of paper between them. What happens?  
    Options: The clip is pulled, because paper does not block the field / The clip is not pulled, because the paper is in the way / The clip is pushed away / The paper is pulled instead  
    **Answer:** The clip is pulled, because paper does not block the field. *Why:* Paper does not block a magnetic field, so the clip is pulled as if nothing were there.
-13. (mcq) On a bar magnet, where do most paper clips cling when you dip it in a heap of them?  
+13. (mcq) You dip a bar magnet in a heap of paper clips. Where on the magnet do most of the clips cling?  
    Options: At the middle of the long side / At the two ends / Only at the north end / Evenly all along it  
    **Answer:** At the two ends. *Why:* The field is strongest at the poles, which are at the ends, so most clips cling there.
 14. (mcq) Three tries of a reach test gave 3, 4 and 5 centimetres. What is the mean?  
@@ -540,8 +540,8 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
 15. (mcq) Which of these best describes a magnetic field?  
    Options: A metal wire inside the magnet / The region around a magnet where its force can be felt / The paint on a magnet / The weight of a magnet  
    **Answer:** The region around a magnet where its force can be felt. *Why:* A field is the region around a magnet where the magnetic force acts. At every spot in it, the force has a strength and a direction.
-16. (perspective) Two friends, Aarav in Mumbai and Zainab in Kochi, argue about why a magnet can pull a paper clip across a gap.  
-   **Answer:** A strong answer agrees with Zainab, because a magnet's force works in empty space, as the Earth's field does far above the air. It gives Aarav his due: the field does pass through air, but the air is not what carries the force.. *Why:* This question checks that the child understands that the field, and not the air, reaches across the gap.
+16. (perspective) Two friends argue about why a magnet can pull a paper clip across a gap.  
+   **Answer:** A strong answer agrees with the second friend, because a magnet's force works in empty space, as the Earth's field does far above the air. It also says what the first friend has right: the field does pass through air, but the air is not what carries the force.. *Why:* This question checks that the child understands that the field, and not the air, reaches across the gap.
 ### Add, Cancel and Shield (stretch) (stretch, 17 questions)
 1. (mcq) Two identical bar magnets are taped side by side with their north poles together. Compared with one magnet, the pair reaches...  
    Options: Much less far / A little further / Exactly twice as far / The same  
@@ -570,8 +570,8 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
    **Answer:** A magnetic field has a direction at each spot, and two fields add like arrows. With like poles together the arrows point the same way and add up. With unlike poles together they point against each other and partly cancel.. *Why:* A strong answer says that fields have direction, and that they add or cancel.
 11. (write) Describe how you could test whether a lid shields a paper clip from a magnet, and what you would see if it did.  
    **Answer:** Find a gap where the magnet just moves the clip. Put the lid between the magnet and the clip. If the clip no longer moves, the lid takes the field into itself and shields the clip.. *Why:* A strong answer uses a fair test, with the same gap and only the lid changing.
-12. (perspective) Two students in Pune, Gauri and Rohit, look at a picture of iron filings making lines around a magnet and talk about what the lines are.  
-   **Answer:** A strong answer agrees with Rohit, because each filing turns into a tiny magnet and lines up with the field, so the lines show direction and are not threads. It gives Gauri her due: the filings really do form lines, and the field is a real thing that makes them.. *Why:* This question checks that the child can tell the lines of a drawing from the field behind them.
+12. (perspective) Two students look at a picture of iron filings making lines around a magnet and talk about what the lines are.  
+   **Answer:** A strong answer agrees with the second student, because each filing turns into a tiny magnet and lines up with the field, so the lines show direction and are not threads. It also says what the first student has right: the filings really do form lines, and the field is a real thing that makes them.. *Why:* This question checks that the child can tell the lines of a drawing from the field behind them.
 13. (odd) Three of these let a magnetic field pass through easily. Which one gathers the field into itself?  
    Options: A sheet of glass / A glass of water / A wooden board / A thick iron plate  
    **Answer:** 3. *Why:* Glass, water and wood let the field pass. A thick iron plate gathers it into itself.
@@ -610,13 +610,13 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
    **Answer:** The second compass is a small magnet with its own field. It pushes your compass needle off the direction of the bar magnet's field, so your dots would not follow the true field.. *Why:* A strong answer says that the second compass has its own field and disturbs the first.
 10. (write) A magnet can lead a clip through 3 centimetres of card but not through 6. Explain why, using the word field.  
    **Answer:** The field of the magnet fades quickly with distance. At 6 centimetres the field at the clip is too weak to pull it, but at 3 centimetres it is strong enough.. *Why:* A strong answer says the field is weaker further away, and that the card does not block it.
-11. (write) A scientist says that two field lines can never cross. Explain why they cannot.  
+11. (write) Two field lines can never cross. Explain why.  
    **Answer:** At any spot, the field has only one direction. A line shows that direction. If two lines crossed, the field would have two directions at the crossing spot, which is impossible.. *Why:* A strong answer says that the field has one direction at each spot.
-12. (perspective) Two students, Priya in Madurai and Daniel in Pune, talk about whether a magnetic field is a real thing in space.  
-   **Answer:** A strong answer says this is still argued, and gives each student something. Priya has the evidence that fields carry energy and make waves of light. Daniel is right that we only ever measure forces on things, and that field lines are drawings.. *Why:* This question checks that the child can weigh two reasonable ideas and say what is known and what is not.
+12. (perspective) Two students talk about whether a magnetic field is a real thing in space.  
+   **Answer:** A strong answer says this is still argued, and says what each student has right. The first student has the evidence that fields carry energy and make waves of light. The second student is right that we only ever measure forces on things, and that field lines are drawings.. *Why:* This question checks that the child can weigh two reasonable ideas and say what is known and what is not.
 13. (odd) Three of these keep a magnet strong. Which one weakens it?  
-   Options: Storing it with unlike poles of another magnet together / Laying a steel keeper across its poles / Keeping it away from heat / Dropping it on a hard floor many times  
-   **Answer:** 3. *Why:* Storing magnets in pairs with unlike poles together, adding a keeper and keeping them away from heat all protect them. Dropping it many times shakes the domains out of line.
+   Options: Storing it beside another magnet, with unlike poles together / Laying a steel keeper across its poles / Keeping it away from heat / Dropping it on a hard floor many times  
+   **Answer:** 3. *Why:* Storing magnets in pairs with unlike poles together, adding a keeper and keeping them away from heat all protect them. Dropping a magnet many times shakes the domains out of line.
 14. (draw) Draw a bar magnet next to a thick iron tin. Show how the field lines bend into the wall of the tin.  
    **Answer:** The lines from the magnet bend towards the tin and run along its walls. Few lines reach the inside.. *Why:* A strong drawing shows the lines taking the easy path through the iron, so the inside of the tin is shielded.
 15. (label) Label this pair of magnets stored side by side with unlike poles together and a steel keeper across the ends: the north poles, the south poles and the keeper.  
@@ -624,7 +624,7 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
 
 ## Videos
 - **Magnetism (1 of 13) Magnets & Magnetic Field Lines, An Explanation** (Step by Step Science, 8 min) id `RDNQl-B9UXM`: For the parent: how field lines run from north to south, and how to draw them for poles that attract and repel. *Check:* Id, title and channel confirmed earlier through YouTube's public lookup. Not watched from here: a parent should preview it and check its length.
-- **Iron filings and the magnetic field of a bar magnet** (to be found, 4 min) id `to find`: To see iron filings line up in curves from one pole to the other, and bunch near the poles. *Check:* Not yet found. Find one, watch it, and check that it shows the filings making loops from pole to pole before adding it.
+- **SEE a Magnetic Field with Iron Fillings** (Chris Pattison, 5 min) id `1Nr-KtlMIKI`: To see iron filings line up in curves from one pole to the other, and bunch near the poles. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How the field of two magnets adds and cancels** (to be found, 4 min) id `to find`: To see the field lines of two magnets placed with like poles together and with unlike poles together. *Check:* Not yet found. Find one, watch it, and check that it shows both arrangements correctly before adding it.
 
 ## Quiz
@@ -646,7 +646,7 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
 6. (mcq) Which of these would stop a magnet from pulling a clip on the other side?  
    Options: A sheet of glass / A thick iron plate / A glass of water / A sheet of paper  
    **Answer:** A thick iron plate. *Why:* Iron takes the field into itself. The others let the field pass.
-7. (mcq) In the field picture, why do unlike poles attract and like poles repel?  
+7. (mcq) Using field lines, why do unlike poles attract and like poles repel?  
    Options: They are two different forces / They come from one field, and the lines join unlike poles and bunch between like poles / Because north is stronger than south / Because of gravity  
    **Answer:** They come from one field, and the lines join unlike poles and bunch between like poles. *Why:* Both come from the same field. Lines join unlike poles, and meet and push apart between like poles.
 8. (mcq) Field lines drawn close together in one place show that the field there is...  
@@ -688,7 +688,7 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
 - A necklace or bracelet with a magnetic clasp.
 
 ## Open questions
-- **What is a magnetic field, really? Is it a real thing in space, or a very good way to calculate forces?** Physicists use fields every day, and they predict radio waves and light. But whether a field is a thing or a way of describing is still discussed by philosophers of science.
+- **What is a magnetic field, really? Is it a real thing in space, or a very good way to calculate forces?** Physicists use fields every day, and fields predict radio waves and light. But whether a field is a thing or a way of describing is still discussed by philosophers of science.
 - **Could a single magnetic pole, a north without a south, exist somewhere in the universe?** Some theories of physics say it could. Careful searches since the 1980s have found none, but nobody can say it does not exist.
 - **How do some birds and other animals sense the Earth's magnetic field?** There is good evidence that some birds, turtles and bacteria use this field to find their way. How birds do it is debated, and scientists are still testing ideas.
 - **Why can we shield a magnetic field with iron but never shield gravity?** Gravity has only one kind of pull, and magnetism has two kinds of pole. Physicists have good explanations, but the deeper link between forces is still being searched for.
@@ -722,7 +722,7 @@ By evening, the tin was heavy. There was enough money for a whole shelf of books
 - In the Add or Cancel test, three tries for one magnet's end gave reaches of 3.5, 4.0 and 4.5 centimetres. What is the mean reach? **4.0 centimetres.**. Add the three reaches: 3.5 plus 4.0 plus 4.5 is 12.0. Divide by 3. 12 divided by 3 is 4. The mean reach is 4.0 centimetres. (queues `math.data.bar-charts.L4`)
 - A magnet's mean reach at its end was 6 centimetres and at the middle of its side was 2 centimetres. How many times as far does the end reach as the side? **3 times as far.**. Divide the end reach by the side reach. 6 divided by 2 is 3. The end reaches 3 times as far as the side. (queues `math.division.division-facts.L4`)
 - In a compass test, the needle turned 80 degrees at 5 centimetres, 55 degrees at 10 centimetres and 15 degrees at 20 centimetres. Between which two distances did the turn drop faster for each centimetre of distance? **From 5 to 10 centimetres.**. From 5 to 10 centimetres the turn dropped 25 degrees over 5 centimetres, which is 5 degrees for each centimetre. From 10 to 20 centimetres it dropped 40 degrees over 10 centimetres, which is 4 degrees for each centimetre. So the drop for each centimetre was faster between 5 and 10. (queues `math.data.line-graphs.L4`)
-- Inside a magnet, a square of iron is shown as 20 small arrows. Sixteen of the arrows point to the right and 4 point in other directions. What fraction of the arrows point to the right? What does that suggest about the iron? **4 out of 5, or four fifths. The iron is mostly lined up, so it is a magnet.**. 16 out of 20 can be shared into groups of 4. 16 divided by 4 is 4, and 20 divided by 4 is 5. So the fraction is 4 out of 5. Most arrows line up, so the fields add up. (queues `math.fractions.fractions-of-a-whole.L4`)
+- Inside a magnet, a square of iron is shown as 20 small arrows. Sixteen of the arrows point to the right and 4 point in other directions. What fraction of the arrows point to the right? What does that suggest about the iron? **4 out of 5, or four fifths. The iron is mostly lined up, so it is a magnet.**. The fraction is 16 out of 20. Divide both numbers by 4: 16 divided by 4 is 4, and 20 divided by 4 is 5. So the fraction is 4 out of 5. Most arrows line up, so their fields add up. (queues `math.fractions.fractions-of-a-whole.L4`)
 - You place a compass at 12 spots, spaced evenly round a magnet, to map its field. A full turn is 360 degrees. How many degrees apart are neighbouring spots, measured from the middle of the magnet? **30 degrees.**. Twelve equal gaps share the 360 degrees. 360 divided by 12 is 30. Each neighbouring pair of spots is 30 degrees apart. (queues `math.lines-angles.angles.L4`)
 - Four tries of a magnet's reach gave 3.0, 3.2, 6.0 and 3.1 centimetres. One reading does not fit. What should you do first, and what is the mean of the three that fit? **Test again to see if the odd reading repeats. The mean of the three that fit is 3.1 centimetres.**. The 6.0 is far from the others, so it may be a slip, like moving the magnet too fast. Test again. The three that fit add to 9.3 (3.0 plus 3.2 plus 3.1). Divide by 3 to get 3.1. (queues `math.addition-subtraction.mental-strategies.L4`)
 - A sheet of thin card is 0.5 millimetre thick. A magnet can lead a clip through 4 centimetres of card. How many sheets is that? Remember that 1 centimetre is 10 millimetres. **80 sheets.**. 4 centimetres is 40 millimetres. Each sheet is half a millimetre, so there are 2 sheets in every millimetre. 40 times 2 is 80 sheets. (queues `math.length.standard-units-length.L4`)

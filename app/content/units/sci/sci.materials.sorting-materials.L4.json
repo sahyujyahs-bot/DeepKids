@@ -188,7 +188,7 @@
    "concept": "Clumps and gaps: groups that show themselves",
    "status": "defined",
    "definition": "A clump is a set of dots lying close together on a map. A gap is an empty stretch between clumps. Scientists call this finding clusters.",
-   "description": "When you put many things on a map, the dots do not always spread evenly. Sometimes they gather in clumps with empty space between them. Nobody drew those clumps. The numbers made them. On the Katori Map, the fine flours may all sit together, light and steep. The smooth round seeds may sit together, middling and flatter. Salt and sugar may form a third clump. Then you can draw a ring around each clump, and name the group. This is a very different way of making groups. On a ladder, you choose a line and the line makes the groups. On a map, the dots may show you the groups first, and then you draw the ring round what you see. Some dots stay alone. These are outliers. An outlier is not a mistake. It may be the most interesting dot on the map.",
+   "description": "When you put many things on a map, the dots do not always spread evenly. Sometimes they gather in clumps with empty space between them. Nobody drew those clumps. The numbers made them. On the Katori Map, the fine flours may all sit together, because they are light and pile up into tall, steep heaps. The smooth round seeds may sit together, because they are middling in weight and pile up into flatter heaps. Salt and sugar may form a third clump. Then you can draw a ring around each clump, and name the group. This is a very different way of making groups. On a ladder, you choose a line and the line makes the groups. On a map, the dots may show you the groups first, and then you draw the ring round what you see. Some dots stay alone. These are outliers. An outlier is not a mistake. It may be the most interesting dot on the map.",
    "examples": [
     "Atta, maida and ragi flour may sit close together on the Katori Map.",
     "Salt, sugar and rice may form a group of heavy, smooth crystals and grains.",
@@ -223,7 +223,7 @@
    "concept": "The star map: Hertzsprung, Russell and the families of stars",
    "status": "defined",
    "definition": "A star map, called the Hertzsprung–Russell diagram, places each star by its colour across and its brightness up. Most stars fall on a band called the main sequence, with giants above it and white dwarfs below it.",
-   "description": "About 1900, astronomers at Harvard sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. Their types were really a sorting by colour and surface heat. In the early 1900s, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. In 1913, the American astronomer Henry Norris Russell showed a map that put brightness against type for many stars. The stars were not scattered everywhere. Most lay along a long band from hot and bright to cool and faint. Above the band sat bright cool giants, and below it sat faint hot white dwarfs. The map showed families of stars before anybody knew what made them different. In 1925, Cecilia Payne showed that the types were really a ladder of temperature. Later, physics showed that the band is made of stars of different masses, all burning hydrogen.",
+   "description": "About 1900, astronomers at Harvard sorted thousands of stars by the dark lines in their light. Annie Jump Cannon led the sorting, and Antonia Maury added careful notes on how sharp the lines were. The types they used were really a way of sorting stars by colour and by how hot their surface is. In the early 1900s, a Danish astronomer named Ejnar Hertzsprung noticed that among the red stars, some were enormously bright and others very faint, with few in between. In 1913, the American astronomer Henry Norris Russell showed a map that put brightness against type for many stars. The stars were not scattered everywhere. Most lay along a long band from hot and bright to cool and faint. Above the band sat bright cool giants, and below it sat faint hot white dwarfs. The map showed families of stars before anybody knew what made them different. In 1925, Cecilia Payne showed that the types were really a ladder of temperature. Later, physics showed that the band is made of stars of different masses, all burning hydrogen.",
    "examples": [
     "The Sun sits in the middle of the main sequence.",
     "Betelgeuse is a red giant, cool and very bright.",
@@ -1794,7 +1794,7 @@
      "id": "s3",
      "mins": 8,
      "do": "Set the timer for 30 seconds. Say go. Your child moves into the toor bowl only the pieces they are very sure are toor dal. Stop when the timer ends. Then count the pieces in the bowl, and count carefully how many of them are chana dal.",
-     "say": "Strict round. Take only the pieces you are very sure are toor dal. You have thirty seconds. Ready, go. Now stop, and count.",
+     "say": "Strict round. Take only the pieces you are very sure are toor dal. You have thirty seconds. Ready, go. Now stop, and count. When you count, look for two kinds of mistake. A chana dal in the toor bowl was wrongly let through. A toor dal left in the heap was wrongly kept back.",
      "kid": "Strict round. Take only pieces you are sure of. Thirty seconds. Go.",
      "parent": "After the round, count slowly, with no time limit, because the aim now is to find every mistake. Toor dal not in the bowl is 20 minus the toor dal that is in the bowl. A strict round often leaves many good pieces behind and has almost no chana dal in the bowl.",
      "check": {
@@ -3204,7 +3204,7 @@
    {
     "source": "Zhuangzi, chapter 2",
     "teaching": "Zhuangzi says that 'this' and 'that' give birth to each other. Without a 'that' there is no 'this'.",
-    "link": "When you draw a cut-off, 'heavy' and 'light' are born at the same moment. Neither group exists before the line."
+    "link": "When you draw a cut-off, the groups 'heavy' and 'light' both come into being at the same moment. Neither group exists before the line is drawn."
    },
    {
     "source": "Chandogya Upanishad 6.10.1-2",

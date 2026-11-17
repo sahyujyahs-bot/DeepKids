@@ -195,7 +195,7 @@
    "status": "defined",
    "context": "This card explains why a magnet's pull falls away so fast as you move back from it.",
    "definition": "The pull of a magnet fades much faster than the distance grows. For small magnets that are some way apart, doubling the distance can make the force around 16 times weaker.",
-   "description": "If a magnet pulled half as hard each time you doubled the distance, it would still be strong a long way off. But the field of a magnet spreads out in all directions, like the light of a torch, and bends back to the other pole. Both of these make it fade very fast. When you move a compass away from a bar magnet, the turn of its needle drops quickly at first and then slowly, because the Earth's own field takes over. That is why you can feel a fridge magnet at a hand-width but not across the room. A stronger magnet reaches a little further, but not twice as far. To double the reach of a magnet, you may need a magnet many times stronger.",
+   "description": "If a magnet pulled half as hard each time you doubled the distance, it would still be strong a long way off. But the field of a magnet spreads out in all directions, the way the light of a torch spreads out and gets dimmer the further you go. The field also bends round and goes back to the other pole, so it does not carry far in a straight line. Both of these things make the pull fade very fast. When you move a compass away from a bar magnet, the turn of its needle drops quickly at first and then slowly, because the Earth's own field takes over. That is why you can feel a fridge magnet at a hand-width but not across the room. A stronger magnet reaches a little further, but not twice as far. To double the reach of a magnet, you may need a magnet many times stronger.",
    "examples": [
     "A fridge magnet holds paper but cannot lift a clip from 10 centimetres away.",
     "A clip that jumps to a magnet from 3 centimetres might not move at all from 6 centimetres.",
@@ -209,7 +209,7 @@
    "status": "defined",
    "context": "In the Add or Cancel test, two magnets side by side reach further one way round and much less far the other way round. This card explains why.",
    "definition": "When two fields meet, they add at each spot as arrows do. If the arrows point the same way they add up, and if they point against each other they partly cancel.",
-   "description": "Place two bar magnets side by side with their north poles together. Both fields point the same way outside the pair, so they add, and the pair reaches further than one magnet. Turn one round, so a north pole sits next to a south pole. Now one magnet's field points one way and the other magnet's field points the other way, so they largely cancel in the space around them. The pair then reaches much less far, even though both magnets are as strong as before. This is why shops and schools store magnets in pairs with unlike poles together, often with a steel bar across the ends. The bar is called a keeper, and it keeps the field inside. It also keeps the magnets from slowly weakening. Never stack strong magnets carelessly, because the pull can pinch fingers.",
+   "description": "At every spot, a field has a direction, so you can draw it there as an arrow. Two arrows that point the same way add up to a longer arrow. Two arrows that point against each other partly cancel, and leave a shorter arrow. Now try this with magnets. Place two bar magnets side by side with their north poles together. Both fields point the same way outside the pair, so they add, and the pair reaches further than one magnet. Turn one round, so a north pole sits next to a south pole. Now one magnet's field points one way and the other magnet's field points the other way, so they largely cancel in the space around them. The pair then reaches much less far, even though both magnets are as strong as before. This is why shops and schools store magnets in pairs with unlike poles together, often with a steel bar across the ends. The bar is called a keeper, and it keeps the field inside. It also keeps the magnets from slowly weakening. Never stack strong magnets carelessly, because the pull can pinch fingers.",
    "examples": [
     "Two magnets with unlike poles together usually reach less far than one.",
     "A pair of magnets with a steel keeper across the ends will not disturb a nearby compass.",
@@ -391,16 +391,16 @@
    "At noon, a man in a white shirt came by. He was the fair's organiser, and he said the stall's table was wobbly. He moved them to a sturdier one beside the tea stall. Its top was a flat sheet of rusty iron. \"It will last,\" he said. \"Go on.\"",
    "Selvi put the card on the new table, set the mouse on the card, and slid the magnet underneath. The mouse did not move. She pushed the magnet closer. The mouse stayed where it was. People waited. Someone started to snigger.",
    "\"The magic is gone,\" whispered Karthik.",
-   "\"It is not gone,\" said Selvi, though she was not sure either. She slid the magnet out and looked at it. It was stuck to the underside of the iron sheet, and she had to pull hard to get it off. \"Look! The sheet is iron. It took the pull for itself.\" She thought of the school experiment with the lid and the paper clip. \"The magnet's field goes into the iron and stays inside. Almost none reaches the card.\"",
+   "\"It is not gone,\" said Selvi, though she was not sure either. She slid the magnet out and looked at it. It was stuck to the underside of the iron sheet, and she had to pull hard to get it off. \"Look! The sheet is iron. It took the pull for itself.\" She remembered a science lesson at school, where a thick iron lid had stopped a magnet from pulling a paper clip. \"The iron takes the magnet's field into itself, and the field stays inside the iron. Almost none of it reaches the card.\"",
    "She asked the man for a different table, a wooden one this time. But the only free one was a thick plank on two stools. She put the card on it, with the mouse on top, and slid the magnet below. The mouse twitched. It crept after the magnet, very slowly, and fell behind whenever she held the magnet a little lower.",
    "\"The plank is thicker than the card,\" said Selvi. \"The mouse is further from the magnet, so the pull is much weaker.\" She tried a second magnet. She put it beside the first, with the blue dot side next to the blue dot side, so the two norths were together. The mouse followed quickly, from much further away.",
    "Karthik wanted to try. He held the second magnet beside the first, but by mistake he had it the wrong way round. At once, the mouse stopped, as if it had never heard of magnets at all.",
    "\"Now the two magnets are fighting each other,\" said Selvi. \"The north of one is next to the south of the other. Their fields point in opposite directions, and they cancel. The magnets are as strong as before, but together they give almost nothing.\"",
    "Karthik turned the magnet round. The mouse sprang to life.",
    "By evening, the tin was heavy. There was enough money for a whole shelf of books. Karthik carried the tin home with both hands. \"Selvi,\" he said, \"the magnet reached up through the plank and moved the mouse, with nothing in between.\"",
-   "\"There is something in between,\" said Selvi slowly. \"We just can't see it.\""
+   "\"There is something in between,\" said Selvi slowly. \"It is the magnet's field. It fills the space all around the magnet, and we just can't see it.\""
   ],
-  "epiphany": "For the parent: a magnet's force reaches across a gap through a field that fills the space around it. A toy with a magnet inside is attracted to or repelled by another magnet depending on which way round it is. The pull falls quickly with distance, a thick iron sheet takes the field away, and two magnets side by side add their fields when like poles are together and partly cancel when unlike poles are together.",
+  "epiphany": "A magnet's force reaches across a gap through a field that fills the space around it. A toy with a magnet inside is attracted to or repelled by another magnet depending on which way round it is. The pull falls quickly with distance, a thick iron sheet takes the field away, and two magnets side by side add their fields when like poles are together and partly cancel when unlike poles are together.",
   "ask": [
    "Why did the mouse run away when Karthik turned it round?",
    "Why did the mouse stop moving on the iron table, even though the magnet was right below it?",
@@ -924,7 +924,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Tape the paper to a wooden table. 2. Put the bar magnet in the middle and draw round it. 3. Use the compass to find the north end, as you did in the Add or Cancel test. 4. Write N and S on the paper by the ends. 5. Tape the magnet down with a small piece of tape on one side.",
+     "do": "1. Tape the paper to a wooden table. 2. Put the bar magnet in the middle and draw round it. 3. Use the compass to find the north end, as you did in the Add or Cancel test. If the red end points at one end of the magnet, that end is the south pole. The other end is the north pole. 4. Write N and S on the paper by the ends. 5. Tape the magnet down with a small piece of tape on one side.",
      "say": "The paper will keep our drawing. The red end of the compass points to a south pole, so it tells us which end is north.",
      "kid": "Tape the paper down. Draw round the magnet. Mark N and S.",
      "parent": "Keep metal objects away from the table, because iron can bend the field and give a wrong picture. A steel table leg or a metal tray nearby can confuse the compass. Tap the compass gently and let the needle settle before each mark, because a cheap needle can stick. Keep phones, watches and steel at least 30 centimetres away.",
@@ -971,8 +971,8 @@
     {
      "id": "s4",
      "mins": 12,
-     "do": "1. Put the compass 1 centimetre from the north pole. 2. Mark a dot at each end of the needle. 3. Move the compass so its white end sits on the red-end dot. 4. Mark a new dot at the red end. 5. Keep going until you reach the south pole or the edge of the paper. 6. Join the dots into a smooth line and add an arrow.",
-     "say": "Mark the two ends of the needle. Then slide the compass along, so the white end sits on the last dot. Keep going. The dots draw a field line.",
+     "do": "1. Put the compass 1 centimetre from the north pole. 2. Mark a dot at each end of the needle. 3. Move the compass so its white end (the end of the needle that is not red) sits on the dot you made at the red end. 4. Mark a new dot at the red end. 5. Keep going until you reach the south pole or the edge of the paper. 6. Join the dots into a smooth line and add an arrow.",
+     "say": "Mark the two ends of the needle. Then slide the compass along. Put the white end, the end that is not red, on the last dot. Keep going. The dots draw a field line.",
      "kid": "Mark the needle ends. Slide the compass on. Keep going. Join the dots.",
      "parent": "This takes practice. If the dots wander, the compass needle may be sticking, so tap the paper lightly. If the line leaves the paper, start a new one. Make at least two lines, starting at different places around the north pole. Use a different colour for each. Each line takes about 5 minutes, so two lines are enough, and more is a bonus. With 2 to 4 children, one slides the compass and one marks the dots, then they swap. Or each child draws a different line from a different spot on the same paper, and you join them. For two separate maps (3 or 4 children), use two magnets, two papers and two compasses at least 1 metre apart. Otherwise one group's magnet pulls the other group's compass. Lines that start within about 2 centimetres of the pole usually reach the south pole. A line that starts further out may bend away towards the Earth's north instead. That is the Earth's own field, and worth talking about.",
      "context": "In this step, you walk the compass to draw one field line, and then repeat it to draw several."
@@ -1672,7 +1672,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Draw a maze on paper, with a start and an end. 2. Make the walls from card strips, glued to the lid. 3. Leave paths about 3 centimetres wide. 4. Let the glue dry.",
+     "do": "1. Draw a maze on paper, with a start and an end. 2. Make the walls from card strips, glued to the shoebox lid. The lid is the floor of the maze. 3. Leave paths about 3 centimetres wide. 4. Let the glue dry.",
      "say": "Plan the maze first. Make the paths wide enough for a clip to move along. Which walls will make it hard?",
      "kid": "Draw a maze. Glue card walls to the lid. Make the paths wide.",
      "parent": "Keep the maze simple. Four or five walls are enough. The glue needs time to dry, so you may prefer tape. Plain glue takes hours to dry, so tape the walls for a quick start or build on Day 1 and test on Day 2. With 2 to 4 children, each builds a small maze on their own lid, or all build one big one, then swap and lead each other's clip: one leads, one times the run with a phone, one watches the clip. One magnet and one clip can be shared.",
@@ -1790,7 +1790,7 @@
      "id": "s1",
      "mins": 8,
      "do": "Place the compass on its spot with the north line drawn. Put one magnet 10 centimetres away, end towards the compass. Measure how far the needle turns.",
-     "say": "How far does one magnet turn the needle from 10 centimetres? That is the number to beat.",
+     "say": "We call a pair of magnets quiet when it turns the needle only a little. First, how far does one magnet turn the needle from 10 centimetres? That is the number to beat.",
      "kid": "Test one magnet at 10 centimetres. Measure the turn. That is your score to beat.",
      "ask": [
       {
@@ -3025,7 +3025,7 @@
    "what_is_life": "Some bacteria make a chain of tiny magnets inside their bodies and line up with the Earth's field. Scientists think this helps them find the muddy water where they live.",
    "what_is_this_world": "The Earth, the Sun and many stars have magnetic fields that reach far into space. The space between a magnet and a clip is not empty of force, and neither is the space between planets."
   },
-  "thread": "At the start, the magnet looked like a lump of steel, and the clip looked far away. The compass showed that the magnet is more than the lump. It has a field that reaches out and shapes the space around it. A clip, a compass or another magnet that enters the field is changed by it. Fields add and cancel, so one magnet changes what its neighbour does. What happens at any spot depends on everything nearby, and not on one magnet alone.",
+  "thread": "At the start, the magnet looked like a lump of steel, and the space between the magnet and the clip looked empty. The compass showed that the magnet is more than a lump of steel. It has a field that reaches out and shapes the space around it. A clip, a compass or another magnet that enters the field is changed by it. Fields add and cancel, so one magnet changes what its neighbour does. What happens at any spot depends on everything nearby, and not on one magnet alone.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.13",

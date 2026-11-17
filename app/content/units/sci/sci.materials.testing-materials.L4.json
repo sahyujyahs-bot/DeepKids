@@ -172,7 +172,7 @@
       "concept": "The same test gives a different number every time",
       "status": "defined",
       "definition": "Variation means that repeating a test gives results that are close but not equal. Every test has it.",
-      "description": "Drop a rubber ball from 50 centimetres onto the kitchen floor ten times. It will not bounce to the same height ten times. You might see 31, 33, 30, 34 and so on. Nothing went wrong. Many tiny things change from drop to drop. Your fingers let go a little differently. The ball lands on a slightly different spot of the floor. It spins a little. A speck of dust is under it once. The ball's rubber is a tiny bit warmer after a few bounces. Each tiny thing nudges the bounce up or down by a little. Together they make a spread of results. Scientists call this variation. Variation is in every test of every material, including tests done by experts in a laboratory. It is not a fault of the child or the ball. It is how the world is.",
+      "description": "Drop a rubber ball from 50 centimetres onto the kitchen floor ten times. It will not bounce to the same height ten times. You might see 31, 33, 30, 34 and so on. Nothing went wrong. Many tiny things change from drop to drop. Your fingers let go a little differently. The ball lands on a slightly different spot of the floor. It spins a little. A speck of dust is under it once. The ball's rubber is a tiny bit warmer after a few bounces. Each tiny thing nudges the bounce up or down by a little. Together they make a spread of results. Scientists call this variation. Variation is in every test of every material, including tests done by experts in a laboratory. It is not a fault of the child or the ball. It is simply how the real world behaves.",
       "examples": [
         "Ten drops of one rubber ball gave heights from 30 to 35 centimetres.",
         "Ten strips cut from the same roll of kitchen paper held different numbers of coins before tearing.",
@@ -266,7 +266,7 @@
       "concept": "How many tries are enough?",
       "status": "defined",
       "definition": "Repeating a test makes luck matter less. It cannot fix an error that always pushes the same way.",
-      "description": "More tries make the middle value steadier. One drop can be far from the usual. The middle of three is better. The middle of ten is better still. But there is a limit. Ten tries is much better than three. A hundred is only a little better than ten. And no number of tries can fix a ruler with a chipped end, or a tester who always hopes for the same answer. Repeating a test reduces the effect of luck, but it does not remove an error that always pushes the same way. Also, tries must be fair copies of each other. Ten strips cut from ten different rolls, bought at ten different shops, are a better picture of 'kitchen paper' than ten strips next to each other on one roll. That is why scientists think about the sample. The sample must look like the whole bunch. Engineers who test lift cables break many pieces, taken from different places along different reels.",
+      "description": "More tries make the middle value steadier. One drop can be far from the usual. The middle of three is better. The middle of ten is better still. But there is a limit. Ten tries is much better than three. A hundred is only a little better than ten. And no number of tries can fix a ruler with a chipped end, or a tester who always hopes for the same answer. Repeating a test reduces the effect of luck, but it does not remove an error that always pushes the same way. Also, the things you test must be a fair picture of the whole bunch, and not only of one lucky corner of it. Ten strips cut from ten different rolls, bought at ten different shops, are a better picture of 'kitchen paper' than ten strips next to each other on one roll. That is why scientists think about the sample. The sample must look like the whole bunch. Engineers who test lift cables break many pieces, taken from different places along different reels.",
       "examples": [
         "Three drops of one ball: one lucky drop can mislead. Ten drops: much safer.",
         "Ten strips from one roll tell you about that roll. Strips from five rolls tell you about the brand.",
@@ -280,7 +280,7 @@
       "concept": "Measuring is rough: error, zero error and resolution",
       "status": "defined",
       "definition": "Error is the small gap between a reading and the true size. Zero error is a fault that is always the same size. Resolution is the smallest step a tool can show.",
-      "description": "Every measuring tool has a smallest step it can show. This is its resolution. A school ruler shows millimetres, so a reading of 31.4 centimetres is a guess between two marks. Every reading also has a small error, because eyes, fingers and light are not perfect. Two people reading the same bounce may write 31 and 33. That is measurement error, and it is normal. A second kind of fault is different. If a ruler has a chipped end, every reading is wrong by the same amount. That is a zero error. You can check for it by putting the ruler beside another ruler, which is called calibrating. Scientists describe good measuring with two words. Precise means that readings agree with each other. Accurate means that readings are close to the true size. A target shows the difference. Arrows close together but far from the middle are precise but not accurate. Arrows scattered evenly around the middle are accurate on average, but not precise. The best tools are both.",
+      "description": "Every measuring tool has a smallest step it can show. This is its resolution. A school ruler shows millimetres, so a reading of 31.4 centimetres is a guess between two marks. Every reading also has a small error, because eyes, fingers and light are not perfect. Two people reading the same bounce may write 31 and 33. That is measurement error, and it is normal. A second kind of fault is different. If a ruler has a chipped end, every reading is wrong by the same amount. That is a zero error. You can check for it by putting the ruler beside another ruler, which is called calibrating. Scientists describe good measuring with two words. Precise means that readings agree with each other. Accurate means that readings are close to the true size. To see the difference, picture arrows shot at a target. If the arrows land close together but far from the middle of the target, they are precise but not accurate. If the arrows are scattered evenly all round the middle, they are accurate on average, but not precise. The best tools are both.",
       "examples": [
         "A phone video of a bounce, played slowly, lets you read the top of the bounce from one frame, so the error is smaller than reading it by eye.",
         "A ruler that begins at 1 centimetre has a zero error of 1 centimetre.",
@@ -336,7 +336,7 @@
       "concept": "A control: do nothing, and watch",
       "status": "defined",
       "definition": "A control is a sample that gets everything except the thing you are testing.",
-      "description": "Sometimes things change by themselves while you are testing. A wet paper strip dries a little. A ball warms up. Ink fades in sunlight. To know what happens anyway, scientists keep a control. A control is a sample that gets everything except the thing you are testing. Say you want to know if rubbing makes a cloth thinner. Keep a piece of the same cloth that is not rubbed, in the same room for the same time. If the untouched piece is also thinner, something else is thinning it. Or say you drop a rubber ball and wonder if the floor matters. Drop it once on a different, harder floor, and keep everything else the same. Every fair test needs a control. Without it, you may give the credit for a change to the wrong cause.",
+      "description": "Sometimes things change by themselves while you are testing. A wet paper strip dries a little. A ball warms up. Ink fades in sunlight. To know what happens anyway, scientists keep a control. A control is a sample that gets everything except the thing you are testing. Say you want to know if rubbing makes a cloth thinner. Keep a piece of the same cloth that is not rubbed, in the same room for the same time. If the untouched piece is also thinner, something else is thinning it. Or say you want to know whether the floor changes the bounce. Drop the ball on the floor you are testing, and also on a floor you already know well, with everything else the same. The floor you know is the control, because it shows what the ball does anyway. Every fair test needs a control. Without it, you may give the credit for a change to the wrong cause.",
       "examples": [
         "A strip of cloth in a drawer, while its twin is rubbed, is a control.",
         "A glass of plain water beside the salty water in a floating test is a control.",
@@ -1166,7 +1166,7 @@
           "mins": 3,
           "do": "Drop the rubber ball three times for practice. Let go with the bottom of the ball at the flag. Crouch so your eyes are level with the top of the bounce.",
           "say": "Let go, do not throw. Crouch down. Look at the bottom of the ball when it is highest. Read that number.",
-          "kid": "Let go. Crouch. Look at the top of the bounce.",
+          "kid": "Let go. Crouch. Read the height of the ball's bottom at the top of the bounce.",
           "parent": "Reading a bounce by eye is hard. If you have a phone, film the three practice drops in slow motion next to the tape measure, then play them back. Show your child how the eye misses the highest point. Roles: with one child and a parent, the child lets go and both of you read. With 2 to 4 children, one lets go, two read, one writes. Swap jobs after each ball, but keep the same person letting go for all ten drops of one ball.",
           "context": "In this step, you practise reading a bounce. A bounce is quick, so you need a few tries to learn to read it."
         },
@@ -1238,7 +1238,7 @@
           "id": "s8",
           "mins": 6,
           "do": "Write a claim, the evidence and the reasoning for the pair of balls whose rows are closest. Add one sentence that says how sure you are, and why.",
-          "say": "Pick the two closest balls. Write what you can honestly say about them. Then say how sure you are.",
+          "say": "Pick the two closest balls. A claim is what you think is true. The evidence is the numbers that you saw. The reasoning says why the numbers support your claim. Write all three for these two balls. Then say how sure you are.",
           "kid": "Pick two balls. Write claim, evidence and reasoning. Say how sure you are.",
           "parent": "A good answer sounds like this (example numbers only; yours will differ, and a marble on a tile can bounce as high as a rubber ball): Claim: the rubber ball bounces higher than the marble. Evidence: the rubber ball's ten drops ranged from 30 to 35 and the marble's from 23 to 28. Reasoning: the ranges do not touch, so the gap is bigger than the wobble. I am fairly sure, but the test used one floor.",
           "check": {
@@ -2390,7 +2390,7 @@
               ]
             }
           ],
-          "parent": "Good projects are small. Two things, ten pieces each, one measurement. Keep the test safe: no flame, hot water, chemicals, blades or foods that anyone is allergic to, and a grown-up checks the plan. Use the planning board from Claim Detective.",
+          "parent": "Good projects are small. Two things, ten pieces each, one measurement. Keep the test safe: no flame, hot water, chemicals, blades or foods that anyone is allergic to, and a grown-up checks the plan. Use the six questions from Claim Detective to check your plan.",
           "context": "This is the first step of the Family Test Report. You choose and plan."
         },
         {
@@ -3990,7 +3990,7 @@
   "roots": {
     "context": "In this unit you drop balls, draw every bounce as a dot, and learn that no test gives the same number twice. Now we ask what that means for the things around us, and for ourselves.",
     "deep_truth": {
-      "truth": "Drop one ball ten times and you get ten different heights. Often the wobble in one ball is wider than the gap between two balls. So a ball has no single bounce. It has a habit, a range of bounces.",
+      "truth": "Drop one ball ten times and you get ten different heights. Often the wobble in one ball is wider than the gap between two balls. So a ball does not have one single bounce height. It has a usual way of bouncing, which shows up as a range of heights.",
       "habit": "We say 'this ball bounces 31 centimetres' or 'this paper holds 14 coins' as if one number belonged to the thing, like its colour. That leaves out the wobble every test shows.",
       "evidence": "In the Bounce Test, each ball's ten drops spread over several centimetres, and some balls' ranges overlapped. In made-up results, the rubber ball and the table-tennis ball overlapped almost completely. Your own dots will show how wide your wobble is. Write them as they are."
     },
@@ -3999,7 +3999,7 @@
       "what_is_life": "Seeds from one packet sprout on different days, in the same pot. Because of this variation, some of a group of living beings can get through a late monsoon, a new disease or a hot summer.",
       "what_is_this_world": "Even a ball, which makes no choices, does not do exactly the same thing twice. Many tiny causes, such as a speck of dust or a slightly different touch, add up. The world repeats its patterns, but never exactly."
     },
-    "thread": "Every test in this unit gave a spread. The same ball, strips from the same roll and grains of the same rice each gave a range of numbers. A material does not have one bounce, one strength or one length. It has a habit that shows up as a range. We learned to describe that range with dots, a range and a middle value. And we learned that our own hopes and tools add their own wobble. A believable result states the habit, the wobble and how sure we are. Saying 'it is exactly this' is a small untruth, even when it is a handy one.",
+    "thread": "Every test in this unit gave a spread. The same ball, strips from the same roll and grains of the same rice each gave a range of numbers. A material does not have one bounce, one strength or one length. It has a usual way of behaving, which shows up as a range of numbers. We learned to describe that range with dots, a range and a middle value. And we learned that our own hopes and tools add their own wobble. A believable result states the usual result, the wobble and how sure we are. Saying 'it is exactly this' is a small untruth, even when it is a handy one.",
     "teachings": [
       {
         "source": "Heraclitus of Ephesus, a Greek thinker of about 500 BCE (reported by later writers)",
