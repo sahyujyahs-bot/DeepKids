@@ -3,7 +3,7 @@
 
 **Summary.** A mango tree never eats, yet the tree grows big and makes mangoes. Plants make their own food from sunlight, air and water. Animals, including us, cannot do that, so we eat plants and other animals. Some of our food comes from plants, like rice, coconut and palak. Some comes from animals, like milk, eggs and honey. In this unit you make pretend flower nectar from sugar water and find out how bees turn nectar into thick honey.
 
-**Intro.** *Hold a spoon of honey and tip it slowly. The honey creeps off the spoon. Now tip a spoon of water. The water runs off at once. Bees make honey from a thin, watery juice inside flowers. How do they make it so thick?* Every food we eat comes from somewhere. Most of it comes from plants or from animals. In this unit you sort your lunch into food from plants and food from animals. You find out that plants make their own food, and animals must eat. Then you test what happens to thin sugar water under a fan, the way bees make honey.
+**Intro.** *Hold a spoon of honey and tip it slowly. The honey creeps off the spoon. Now tip a spoon of water. The water runs off at once. Bees make honey from a thin, watery juice inside flowers. How do they make it so thick?* Every food we eat comes from somewhere. Most of it comes from plants or from animals. In this unit you sort your lunch into food from plants and food from animals. You find out that plants make their own food, and animals must eat. Then you test what happens to thin sugar water under a fan. Bees make honey in a similar way.
 
 ## Learning outcomes
 0. By the end I can sort foods into food from plants and food from animals, and give two examples of each.
@@ -51,17 +51,17 @@ A cow, buffalo or goat makes milk for her calf or kid. A hen lays eggs. Honey be
 ### How bees make honey · *defined*
 **Definition:** Honey bees drink flower nectar, carry it home, and dry it into thick honey.
 
-A worker bee sucks up nectar and carries the nectar home in her body. At the hive, the bees mix it with juices from their own bodies. They spread it in the wax cells and fan their wings over it. The moving air makes water evaporate. When the honey is thick, they close the cell with wax.
+A worker bee sucks up nectar and carries it home in her body. At the hive, the bees mix the nectar with juices from their own bodies. They spread it in the wax cells and fan their wings over it. The moving air makes water evaporate. When the honey is thick, they close the cell with wax.
 - e.g. All the honey-making bees in a hive are female. The male bees make no honey.
 - e.g. One worker bee makes less than one teaspoon of honey in her whole life.
 - e.g. In Kerala, people also collect cheruthen, honey from tiny bees who do not sting.
 ### Do bees and flowers choose? · *debated*
-Bees choose which flowers to visit, and they remember where the best ones are. A honey bee can tell her sisters where flowers are by dancing on the comb. Flowers make nectar and bright colours, and bees carry their pollen. Some scientists say this is all instinct, not choosing.
+Bees choose which flowers to visit, and they remember where the best ones are. A honey bee can tell her sisters where flowers are by dancing on the comb. Flowers make nectar and bright colours, and bees carry their pollen. Some scientists say this is all instinct, not choosing. Instinct means doing something without having to learn it or decide it.
 - e.g. Karl von Frisch, an Austrian scientist, found that honey bees dance to show the way to flowers.
 - e.g. A bee visits the same kind of flower again and again on one trip.
 - e.g. Flowers that bees visit grow fruits and seeds.
-- **Many scientists who study bee behaviour:** Bees learn, remember, decide and tell each other where food is. Flowers sense and respond too. Both are minds at work.
-- **Many other scientists:** Bees and flowers follow instincts built over a very long time. They prefer words like 'behaviour' and 'response' to 'choose'.
+- **Many scientists who study bee behaviour:** Bees learn, remember, decide and tell each other where food is. Flowers sense and respond too. These scientists say both bees and flowers have a kind of mind.
+- **Many other scientists:** Bees and flowers follow instincts built over a very long time. These scientists prefer words like 'behaviour' and 'response' to 'choose'.
 
 ## Mostly agreed
 - Green plants make their own food from sunlight, air and water. *How we know:* A plant in a dark cupboard goes pale and weak. A plant in light grows, though nobody feeds the plant.
@@ -70,7 +70,7 @@ Bees choose which flowers to visit, and they remember where the best ones are. A
 
 ## How we found out
 **Luis Méndez de Torres, Charles Butler and Jan Swammerdam, 1586, 1609, and Swammerdam's dissections between 1669 and the 1670s.** For a very long time, people in Europe believed that a king bee ruled every hive. The Greek thinker Aristotle wrote about the king bee about 2,350 years ago. He also wrote that honey falls from the air, and the bees only gather it. Beekeepers watched their bees closely, and saw them drinking from flowers. In 1586, a Spanish beekeeper named Luis Méndez de Torres wrote that the big bee in the hive is a female who lays eggs. In 1609, the English beekeeper Charles Butler said the same in a book called The Feminine Monarchie. Many people still did not believe it. Then, around 350 years ago, the Dutch scientist Jan Swammerdam cut open the big bee and looked inside with a microscope. He found the parts that make eggs. The king was a queen, the mother of the whole hive. Today we know more. The queen lays the eggs. The worker bees, who are all female too, gather nectar and make the honey. The male bees make no honey at all.  
-*What people believed before:* That a male king bee rules the hive, and that honey falls from the air. Swammerdam's microscope showed the big bee makes eggs, so she is a mother, and watching bees showed honey is made from flower nectar.
+*What people believed before:* People believed that a male king bee rules the hive, and that honey falls from the air. Swammerdam's microscope showed that the big bee makes eggs, so she is a mother. Watching bees showed that honey is made from flower nectar.
 
 ## Challenging perspectives
 - **Honey falls from the air like dew, and bees only gather it.** (Aristotle, a Greek thinker, about 2,350 years ago; *rejected*)  
@@ -84,19 +84,19 @@ Bees choose which flowers to visit, and they remember where the best ones are. A
   Against: The shop only sells the milk. A cow, a buffalo or a goat made the milk, from the plants she ate.
 
 ## Roots
-We have sorted foods from plants and foods from animals, and turned thin sugar water thick. Now we ask what honey tells us about how plants, animals and we are joined.
+We have sorted foods from plants and foods from animals, and turned thin sugar water thick. Now we ask what honey shows about how plants, animals and people depend on each other.
 
-**Deep truth.** Our thin sugar water, left under the fan, turned thick and sticky like honey. The moving air took its water away. Bees thicken flower nectar the same way, by fanning it. A flower made the nectar and bees made the honey, so honey needs a plant and an animal.  
+**Deep truth.** In the Nectar to Honey experiment, thin sugar water left under the fan turned thick and sticky like honey. The moving air took its water away. Bees thicken flower nectar the same way, by fanning it. A flower made the nectar and bees made the honey, so honey needs a plant and an animal.  
 *Habit it breaks:* We sort every food into two boxes, plant or animal, as if each food has one maker. Honey needs both: a flower made the nectar, and bees changed it into honey.  
 *Evidence:* In the sugar water test, the open drop under the fan turned thick and barely moved when tilted, while the covered drop stayed runny. Bees dry nectar in the comb by fanning it with their wings.
 
 - *who am i:* You are an animal too. Like every animal, you must eat what plants and other animals made.
 - *what is life:* Life passes food along. A flower makes nectar, a bee makes honey, and you eat the honey.
-- *what is this world:* A world where flowers and bees feed each other. The bee gets nectar, and the flower gets pollen carried to the next flower.
+- *what is this world:* In this world, flowers and bees help each other. The bee gets nectar from the flower, and the bee carries the flower's pollen to the next flower.
 
-Sunlight falls on a leaf, and the plant makes sugar. The flower turns some of that sugar into nectar. A bee drinks the nectar, and bees dry the nectar into honey, and you eat the honey. The same sunlight has become a plant's food, a bee's food and your food.
+Sunlight falls on a leaf, and the plant makes sugar. The flower turns some of that sugar into nectar. A bee drinks the nectar, and the bees dry it into honey. Then you eat the honey. The same sunlight has become a plant's food, a bee's food and your food.
 
-- **Brihadaranyaka Upanishad 2.5.1 (the Madhu Vidya, the teaching of honey):** This earth is honey for all beings, and all beings are honey for this earth. (In honey, a flower feeds the bees and the bees help the flower make seeds. Each one is food and help for the other, as the teaching says.)
+- **Brihadaranyaka Upanishad 2.5.1 (the Madhu Vidya, the teaching of honey):** This earth is honey for all beings, and all beings are honey for this earth. (To make honey, a flower feeds the bees, and the bees help the flower make seeds. Each one is food and help for the other, as the teaching says.)
 - **Dhammapada, verse 49:** A bee gathers nectar from a flower without harming the flower's colour or smell, and flies away. A wise person moves through the village in the same way. (A bee takes nectar but leaves the flower whole, and carries the flower's pollen on. Taking food does not have to mean harming.)
 - Science (settled): Many fruits and vegetables grow only when bees and other insects carry pollen between their flowers.
 - Science (settled): A honey bee dances on the comb to tell her sisters which way the flowers are, and how far.
@@ -117,7 +117,7 @@ Sunlight falls on a leaf, and the plant makes sugar. The flower turns some of th
 
 Divya lived on the fourth floor of a tall building in Bengaluru. She was six. One morning she heard a soft, steady hum outside her window.
 
-Under the water tank of the next building hung a huge brown shape. The shape was as big as a door, and the shape was moving.
+Under the water tank of the next building hung a huge brown shape. It was as big as a door, and it was moving.
 
 'Ajji!' she called. Ajji, her grandmother, came slowly with her glasses.
 
@@ -131,7 +131,7 @@ So every day, Divya watched through the glass. Bees flew away from the comb in a
 
 'Where do they go?' she asked.
 
-'To the flowers,' said Ajji. 'Look at the drumstick tree in the park, and the yellow flowers on the gulmohar road. Inside each flower is a drop of sweet juice called nectar. A bee drinks the nectar and carries the nectar home inside her.'
+'To the flowers,' said Ajji. 'Look at the drumstick tree in the park, and the yellow flowers on the gulmohar road. Inside each flower is a drop of sweet juice called nectar. A bee drinks the nectar and carries it home inside her.'
 
 'Is it honey already?' asked Divya.
 
@@ -167,9 +167,9 @@ Divya pressed her nose to the window. 'Thank you for not burning them, Appa,' sh
 
 'Thank Ajji,' said Appa. 'She taught me to look first.'
 
-Divya tried it at home the next day. She made sugar water, thin like nectar. She put a little on a plate under the fan. By morning it was thick and sticky, just like honey.
+The next day, Divya tried drying nectar herself. She made sugar water, thin like nectar. She put a little on a plate under the fan. By morning it was thick and sticky, just like honey.
 
-'The fan was my bee,' she said.
+'The fan did the bees' job,' she said. 'It moved the air over the sugar water, and the water dried out.'
 
 **For the parent:** For the parent: Divya sorts her dinner into food from plants and food from animals, and then sees that honey belongs to both. A flower made the nectar, and the bees dried it into honey.
 
@@ -179,7 +179,7 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
 
 ## Games
 ### g1 · Leaf Plate, Cow Plate: a food sorting game (15 min)
-- **rules:** Before you play, your child draws the food on each card under the word, so a child who cannot read can play. The reader reads out each word.; Put the four plate labels on the floor. Put the leaf plate and the cow plate in front, and Both and Neither at the side.; Mix the cards and put them in a pile, words up.; On your turn, take the top card and say the food. Put the card on the plate where you think the card belongs.; The reader turns the card over and reads the back. If you were right, make a mark by your name on a sheet of paper. If not, move the card to the right plate.; When the pile is empty, count your marks. The most marks wins. If two players have the same, they both win. Playing alone, try to beat your marks from last time.
+- **rules:** Before you play, your child draws the food on each card under the word, so a child who cannot read can play. The reader reads out each word.; Put the four plate labels on the floor. Put the leaf plate and the cow plate in front, and Both and Neither at the side.; Mix the cards and put them in a pile, words up.; On your turn, take the top card and say the food. Put the card on the plate where you think it belongs.; The reader turns the card over and reads the back. If you were right, make a mark by your name on a sheet of paper. If you were wrong, move the card to the correct plate.; When the pile is empty, count your marks. The player with the most marks wins. If two players have the same number, they both win. If you are playing alone, try to beat your marks from last time.
 - **Printable cards: 24 food cards, with the answer on the back:** Rice (back: Plant. Rice grains are the seeds of the rice plant.); Milk (back: Animal. A cow, a buffalo or a goat makes milk.) [picture]; Banana (back: Plant. A banana is the fruit of the banana plant.) [picture]; Egg (back: Animal. A hen lays the egg.); Coconut (back: Plant. A coconut is the fruit of the coconut palm.) [picture]; Curd (back: Animal. Curd is made from milk.); Palak (back: Plant. Palak is the leaf of the palak plant.) [picture]; Ghee (back: Animal. Ghee is made from the cream of milk.); Carrot (back: Plant. A carrot is the root of the carrot plant.) [picture]; Paneer (back: Animal. Paneer is made from milk.); Mango (back: Plant. A mango is the fruit of the mango tree.); Fish (back: Animal. A fish lives in the sea, a river or a pond.) [picture]; Peanuts (back: Plant. Peanuts are seeds. Their pods grow under the soil.); Moong dal (back: Plant. Moong are the seeds of the moong plant.); Jaggery (back: Plant. Jaggery is made from sugarcane juice. Sugarcane is a stem.); Tomato (back: Plant. A tomato is the fruit of the tomato plant.); Ragi (back: Plant. Ragi grains are the seeds of the ragi plant.) [picture]; Buttermilk (back: Animal. Buttermilk is made from curd, and curd from milk.); Honey (back: Both. A flower made the nectar, and bees made it into honey.); Curd rice (back: Both. The rice is from a plant, and the curd is from milk.); Payasam (back: Both. Rice and jaggery are from plants, and the milk is from an animal.); Salt (back: Neither. Salt comes from sea water or from the ground. No plant or animal made salt.); Water (back: Neither. No plant or animal makes water. It comes from rain, rivers and wells.); Mushroom (back: Neither. A mushroom is a fungus, not a plant and not an animal.) [picture]
 - **Printable board: 4 plate labels:** Leaf plate: food from plants; Cow plate: food from animals; Both; Neither
 - **s1 (4 min)**  
@@ -207,7 +207,7 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
 - **s2 (9 min)**  
   *Parent does:* 1. Take turns turning over two cards. 2. Each time someone finds a pair, say the pair out loud.  
   *Parent says:* Honey and honey bees! The bees made the honey from flower nectar.  
-  *Child mode:* Turn two cards. Is it a food and their maker?
+  *Child mode:* Turn over two cards. Are they a food and its maker?
   - Ask: You found milk and a cow. What does the cow eat to make the milk? (good: Grass.; Grass and leaves and other plants.)
 - **s3 (2 min)**  
   *Parent does:* Count the pairs. Then ask the check question.  
@@ -217,12 +217,12 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
 
 ## Experiments
 ### e1 · Nectar to Honey: what turns thin sugar water thick? (24 min, 2 days)
-- **question:** We leave thin sugar water out overnight, one drop under a fan and one drop covered. Which one will turn thick, like honey?
+- **question:** Bees make honey from thin, watery nectar. Here we make pretend nectar from sugar and water. We leave one drop open to the moving air, and we cover one drop with a katori. Which one will turn thick, like honey?
 - **predict:** Guess first. Tomorrow, will the drop under the fan be runny like water, or thick like honey? What about the covered drop? Why do you think so?
 - **fair test:** Both drops are the same sugar water, the same size, on the same kind of plate, in the same room. Only one thing is different: one drop is open to the moving air, and one is covered by a katori.
 - **record:** Draw the two plates after you tilted them. Show which drop ran and which one stayed.
 - **results table:** Which drop | How the drop looks and feels | What happens when we tilt the plate
-- **schedule:** day 1: Make sugar water. Feel how runny it is. Guess. Put one drop under the fan, and cover one drop with a katori. (10 min); day 1: In the evening, peep at both drops without touching them. (3 min); day 2: Touch both drops. Tilt both plates. Say what you saw and why. (11 min)
+- **schedule:** day 1: Make sugar water. Feel how runny it is. Guess which drop will turn thick. Put one drop under the fan, and cover one drop with a katori. (10 min); day 1: In the evening, peep at both drops without touching them. (3 min); day 2: Touch both drops. Tilt both plates. Say what you saw and why. (11 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Put 4 spoons of water in a cup. 2. Your child adds 1 spoon of sugar. 3. Stir until the water is clear again. 4. Your child tastes a drop on a clean finger.  
   *Parent says:* This is pretend nectar. Flower nectar is thin and sweet like this. Taste it. Is it runny like water, or thick like honey?  
@@ -253,7 +253,7 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
   - Ask: What happened to the drop under the fan? What happened to the covered drop? (good: The fan drop went thick and sticky. It hardly moved.; The covered drop was still wet and ran down the plate.)
   - Note: The open drop is usually thick, sticky and smaller. It may even dry into a hard, shiny crust. The covered drop stays runny, and you may see tiny water drops inside the katori. In very damp weather, leave the plates one more day.
 - **s6 (5 min)**  
-  *Parent does:* 1. Ask your child what they think, what they saw and why. 2. Then tell them how bees make honey.  
+  *Parent does:* 1. Ask your child what they saw, and why they think it happened. 2. Then tell them how bees make honey.  
   *Parent says:* The moving air took water out of the open drop. The water evaporated. Bees fan their wings over nectar in the same way, until the nectar turns thick. That is honey.  
   *Child mode:* The fan dried the open drop. Bees fan nectar with their wings. Then nectar turns into honey.
   - Ask: Why did the covered drop stay runny? (good: The katori kept the moving air away.; The water could not go off into the room.)
@@ -266,14 +266,14 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
   *Parent does:* 1. Draw a leaf and a cow on two pieces of paper. 2. Put one beside each plate. 3. Set out the foods.  
   *Parent says:* This is the leaf plate, for food from plants. This is the cow plate, for food from animals.  
   *Child mode:* This is the leaf plate. This is the cow plate.
-  - Ask: What do you notice about the foods on the table? (good: Some are seeds, like rice.; Some are white and runny, like curd.)
+  - Ask: Which of these foods do you think came from a plant? Which came from an animal? (good: Rice and banana came from plants.; Milk and eggs came from animals.)
 - **s2 (5 min)**  
   *Parent does:* Your child picks up each food, says what it is, and puts it on a plate. Ask why each time.  
   *Parent says:* Where does this go? Who made this food, a plant or an animal?  
   *Child mode:* Pick a food. Put it on the leaf plate or the cow plate. Say why.
   - Ask: Where does ghee go? Why? (good: The cow plate, because ghee is made from milk.)
-  - Ask: What do you wonder? (good: Where does salt go?; Is an egg from a plant or an animal?)
-  - Note: Salt goes in the small katori. Salt comes from sea water or the ground, and no plant or animal made salt. Don't explain the others yet. Let your child argue.
+  - Ask: Where does salt go, and why? (good: On the side, because no plant or animal makes salt.; It is neither, because salt comes from sea water or the ground.)
+  - Note: Salt fits neither plate. Put it in a small katori (a small bowl) to one side. Salt comes from sea water or the ground, and no plant or animal made salt. Don't explain the others yet. Let your child argue.
 - **s3 (3 min)**  
   *Parent does:* Count the foods on each plate together.  
   *Parent says:* Which plate has more food on it? Why do you think so?  
@@ -281,13 +281,13 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
   - Ask: Why do you think the leaf plate has more? (good: We eat lots of plants.; Rice and dal and vegetables are all plants.)
   - Note: In most Indian kitchens, the leaf plate wins easily. Even in families who eat fish or meat, most of a meal is rice, wheat, dal and vegetables.
 ### a2 · The Feely Bag: guess the food by touch (10 min)
-- **record:** Draw the food that was hardest to guess.
+- **record:** Draw the foods from the bag. Put a green dot by each food from a plant, and a red dot by each food from an animal.
 - **s1 (2 min)**  
   *Parent does:* Without your child seeing, put the foods in the bag.  
   *Parent says:* There are some foods in this bag. You can only use your hands. No peeping!  
   *Child mode:* Put your hand in the bag. No peeping!
 - **s2 (6 min)**  
-  *Parent does:* 1. Your child feels one food and describes the food out loud. 2. They guess. 3. They take it out to check. 4. They say plant or animal.  
+  *Parent does:* 1. Your child feels one food and describes the food out loud. 2. They guess what it is. 3. They take it out to check. 4. They say if it came from a plant or an animal.  
   *Parent says:* Is it smooth or rough? Hard or soft? What do you think it is? Did a plant or an animal make this food?  
   *Child mode:* Feel one food. Is it smooth or rough? Guess. Then take it out.
   - Ask: How did you know it was a peanut? (good: It was bumpy and light.; It rattled when I shook it.)
@@ -295,12 +295,12 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
   *Parent does:* Look at all the foods together.  
   *Parent says:* How many came from plants? How many came from animals?  
   *Child mode:* Count the plant foods. Count the animal foods.
-  - Ask: Which part of a plant is the potato, and which part is the peanut? (good: The potato grows under the soil.; The peanut is a seed.)
+  - Ask: Which part of a plant is the potato, and which part is the peanut? (good: The potato is a stem that grows under the soil.; The peanut is a seed.)
   - Note: A potato is a fat stem that grows under the soil. A peanut is a seed, and peanut pods grow under the soil too. An onion is made of thick leaves.
 ### a3 · The Ants' Menu: what do ants carry home? (15 min)
 - **record:** Draw the four foods and draw ants next to the ones they visited.
 - **s1 (4 min)**  
-  *Parent does:* 1. Find where ants walk: the kitchen floor, a window ledge, or near the dustbin. 2. Put the paper there. 3. Put the four bits in a row, a finger apart.  
+  *Parent does:* 1. Find where ants walk: the kitchen floor, a window ledge, or near the dustbin. 2. Put a sheet of paper there. 3. Put the four food bits in a row on the paper, a finger apart.  
   *Parent says:* Which food do you think the ants will like best? Why?  
   *Child mode:* Put four foods near the ants. Which one will ants like?
   - Ask: Why do you think so? (good: Sugar, because ants like sweet things.; The egg, because ants eat insects.)
@@ -322,7 +322,7 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
 - **schedule:** day 1: Fold the paper into 7 boxes. Draw today's lunch in the first box. Add green and red dots. (5 min); day 2: Draw today's lunch. Add the dots. (4 min); day 3: Draw today's lunch. Add the dots. (4 min); day 4: Draw today's lunch. Add the dots. (4 min); day 5: Draw today's lunch. Add the dots. (4 min); day 6: Draw today's lunch. Add the dots. (4 min); day 7: Draw today's lunch. Count all the green dots and all the red dots. Talk about what you found. (10 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Fold a sheet into 7 boxes. 2. Write a day in each box. 3. Your child draws today's lunch in the first box. 4. Put a green dot by each food from a plant and a red dot by each food from an animal.  
-  *Parent says:* Draw your lunch. Then a green dot for each plant food and a red dot for each animal food.  
+  *Parent says:* Draw your lunch. Then put a green dot by each food from a plant and a red dot by each food from an animal.  
   *Child mode:* Draw your lunch. Green dot for plants. Red dot for animals.
   - Wait: Do the same every day for six more days.
 - **s2 (4 min)**  
@@ -341,7 +341,7 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
 ## Challenges
 ### c1 · Be a Bee: which tongue carries the most nectar? (20 min)
 - **problem:** A bee must carry nectar home from many flowers. Which of five tools carries the most sugar water from a cup to a bottle cap in 10 dips?
-- **your turn:** Make your own bee tongue from things at home. Give your tool 10 dips. Did your tool beat the best tool?
+- **your turn:** Make your own bee tongue from things at home. Give your tool 10 dips. Did it carry more sugar water than the best of the five tools?
 - **constraints:** Use only things from home.; Each tool gets exactly 10 dips.; Dip, carry, and tap or squeeze the water into the cap each time. No pouring.
 - **general:** A spoon, because a spoon can scoop.; A straw, with a finger over the top to hold the water in.; A strip of cloth, which soaks up the water.
 - **creative:** A paintbrush, whose hairs hold water between them, like a real honey bee's hairy tongue.; Two cotton buds tied together.; A fold of paper shaped like a little cup.
@@ -351,7 +351,7 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
   *Child mode:* You are a bee. Which tool carries the most nectar home?
   - Ask: Which tool do you think will carry the most? Why? (good: The spoon, because the spoon is the biggest.; The cloth, because cloth soaks up water.)
 - **c1s2 (10 min)**  
-  *Parent does:* 1. Your child gives each tool 10 dips into the cup and taps or squeezes each one into its own cap. 2. Line up the caps.  
+  *Parent does:* 1. Your child dips one tool into the cup, carries it to a bottle cap, and taps or squeezes the sugar water into the cap. 2. Do this 10 times. 3. Do the same with each tool, using a new cap each time. 4. Line up the caps.  
   *Parent says:* Dip, carry, drip. Ten times. Count with me.  
   *Child mode:* Dip, carry, drip. Do it ten times with each tool.
 - **c1s3 (4 min)**  
@@ -375,18 +375,18 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
 3. (mcq) Which one of these did a plant make?  
    Options: An egg / A mango / A glass of milk  
    **Answer:** A mango. *Why:* A mango is the fruit of the mango tree. Eggs and milk are made by animals.
-4. (draw) Draw your two plates from the sugar water test, the morning after. Show which drop ran when you tilted the plate.  
+4. (draw) In the Nectar to Honey experiment, you left one drop of sugar water under a fan and covered another drop with a katori. Draw the two plates as they looked the next morning. Show which drop ran when you tilted the plate.  
    **Answer:** The open drop thick and still. The covered drop running down the plate.. *Why:* A strong drawing shows the open drop staying put and the covered drop running in a line.
 5. (truefalse) Green plants make their own food, using sunlight, air and water.  
    **Answer:** True. *Why:* True. Leaves use the energy in sunlight to make sugar from air and water. The sugar is the plant's food.
-6. (write) Say out loud, and a grown-up writes it down: why did the drop under the fan turn thick?  
+6. (write) In the Nectar to Honey experiment, why did the drop of sugar water under the fan turn thick? Say your answer out loud, and a grown-up writes it down.  
    **Answer:** The moving air made the water evaporate. Less water was left, so the sugar water turned thick.. *Why:* A strong answer says the water went into the air, and uses what the child saw: the open drop got smaller and stickier.
-7. (perspective) Kavya, aged 7, and her brother Arun, aged 5, live in Chennai. They are eating honey on dosa.  
+7. (perspective) The first child, aged 7, and her brother the second child, aged 5, live in Chennai. They are eating honey on dosa.  
    **Answer:** A strong answer picks a side with a reason, then sees the other side. The flower made the nectar, and the bees dried the nectar into honey. So both are right.. *Why:* Honey needs both a plant and an animal. Some foods do not fit only one group.
 8. (odd) Three of these grew on a plant. Which one did not?  
    Options: An idli / A coconut / An egg / A tomato  
    **Answer:** 2. *Why:* An idli is made from rice and urad dal, which are seeds. A coconut and a tomato are fruits. A hen laid the egg.
-9. (count) Lalitha's lunch is rice, sambar, curd, a banana and a glass of buttermilk. How many of these came from an animal?  
+9. (count) A lunch is rice, sambar, curd, a banana and a glass of buttermilk. How many of these came from an animal?  
    **Answer:** 2. *Why:* Curd and buttermilk are both made from milk, so 2 came from an animal. Rice, sambar and the banana came from plants.
 10. (label) Here is the journey of honey. Write or say what is in each box: flower, bee, honeycomb, honey jar.  
    **Answer:** ['where the nectar is made: flower', 'who carries the nectar home: bee', 'where the nectar is dried: honeycomb', 'what we eat: honey jar']. *Why:* The flower makes nectar. A worker bee carries the nectar home. Bees dry the nectar in the honeycomb. Then it is honey.
@@ -395,7 +395,7 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
 12. (draw) Draw one food from a plant and one food from an animal that you ate today.  
    **Answer:** Any two true examples, such as a dosa and a glass of milk.. *Why:* A strong drawing names both foods and can say who made each one.
 ### Honey, Milk and Eggs (stretch) (stretch, 11 questions)
-1. (write) Think of the sugar water drop under the fan. What would it look like after two more days? Why?  
+1. (write) In the Nectar to Honey experiment, the drop of sugar water under the fan turned thick overnight. What would the drop look like after two more days under the fan? Why?  
    **Answer:** Even smaller and harder, maybe a shiny crust. The moving air keeps taking water away until almost none is left.. *Why:* A strong answer says what the child would see and says the water keeps leaving into the air.
 2. (write) A hen eats grain. A cow eats grass. Where did the food inside an egg and inside milk first come from?  
    **Answer:** From plants. The hen made the egg from the grain she ate, and the cow made the milk from the grass she ate.. *Why:* Animals make milk and eggs from the food they eat, and that food was mostly plants.
@@ -403,10 +403,10 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
    **Answer:** False. *Why:* False. Salt comes from sea water or from the ground, and no plant or animal makes water. A mushroom is a fungus, neither a plant nor an animal.
 4. (sort) Sort these dishes: from plants only, from animals only, or both?  
    **Answer:** plain rice → Plants only; a boiled egg → Animals only; curd rice → Both; payasam made with milk → Both. *Why:* Plain rice is a seed. A boiled egg is from a hen. Curd rice and payasam mix rice with milk, so they are both.
-5. (perspective) Meera keeps honey bees in wooden boxes in Kodagu. Her friend Salma does not eat honey.  
+5. (perspective) Meera keeps honey bees in wooden boxes in Kodagu. Her friend the first person does not eat honey.  
    **Answer:** A strong answer gives a reason for one side and a fair reason for the other: the beekeeper's bees help flowers make fruit, and the honey was made for the bees' own hive.. *Why:* This is a real choice families make. Both sides care about the bees.
-6. (draw) In the Be a Bee challenge, which tool carried the most sugar water? Draw that tool and its bottle cap.  
-   **Answer:** A drawing of the best tool and a full cap.. *Why:* A strong drawing shows the tool and how full its cap was, and the child can say why that tool held more.
+6. (draw) A real bee's tongue is hairy, and nectar sticks between the hairs. Draw a tool from home that works in the same way.  
+   **Answer:** A paintbrush, with drops of sugar water held between its hairs.. *Why:* A strong drawing shows a tool with hairs or a soft surface that holds drops, and the child can say why nectar sticks to it.
 7. (mcq) Why do bees fan their wings over the honeycomb?  
    Options: To dry the nectar into honey / To keep the flowers away / To make the honey colder  
    **Answer:** To dry the nectar into honey. *Why:* The moving air from their wings makes water evaporate from the nectar, until it is thick honey.
@@ -418,7 +418,7 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
 10. (fill) Bees make honey from the sweet ____ inside flowers.  
    **Answer:** ['nectar']. *Why:* Nectar is the thin sweet juice that flowers make. Bees carry nectar home and dry it into honey.
 11. (write) Plants make their own food from sunlight. You cannot. So where does all your food come from?  
-   **Answer:** From plants, from animals, and a little, like salt and water, from the Earth.. *Why:* A strong answer says that people, like other animals, must eat food that plants or other animals made.
+   **Answer:** From plants and from animals. A little, like salt and water, comes from the Earth.. *Why:* A strong answer says that people, like other animals, must eat food that plants or other animals made.
 
 ## Videos
 - **Why honey bees fan their wings at the hive** (Carolina Honeybees with Charlotte Anderson, 3 min) id `X6ZlmUsWExo`: Shows bees fanning their wings to move air through the hive, the way the fan dried the sugar water. *Check:* Found by search: "Honey Bee Fanning - Why do bees fan their Wings?" by Carolina Honeybees with Charlotte Anderson, 2 minutes 31 seconds. A parent may preview it.
@@ -437,7 +437,7 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
    **Answer:** Salt. *Why:* Salt comes from sea water or from the ground. Rice is a seed, and ghee is made from milk.
 4. (mcq) How does a mango tree get food?  
    Options: The tree makes food in the leaves, from sunlight, air and water / The tree eats insects / The tree eats the soil  
-   **Answer:** The tree makes food in the leaves, from sunlight, air and water. *Why:* Green plants make their own food in their leaves. The soil gives water and a little of some minerals, not food.
+   **Answer:** The tree makes food in the leaves, from sunlight, air and water. *Why:* Green plants make their own food in their leaves. The soil gives the tree water and small amounts of minerals, but not food.
 5. (mcq) A goat eats leaves all day. Why does the goat need to eat?  
    Options: Goats, like all animals, get their food by eating / Goats eat only for fun / Goats make food from sunlight  
    **Answer:** Goats, like all animals, get their food by eating. *Why:* Animals, including goats and people, cannot make food from sunlight. So they eat plants, or other animals, or both.
@@ -456,9 +456,9 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
 10. (mcq) Where does an egg come from?  
    Options: A hen lays the egg / Eggs grow on trees / Eggs are made in shops  
    **Answer:** A hen lays the egg. *Why:* A hen lays eggs. The shop only sells them.
-11. (mcq) Before you left the drops under the fan, what did you do first?  
-   Options: Made a guess and said why / Ate the sugar / Washed the plates  
-   **Answer:** Made a guess and said why. *Why:* Scientists guess first and give a reason. Then the test shows if the guess was right.
+11. (mcq) You are about to test whether a fan makes a drop of sugar water dry faster. What should you do first?  
+   Options: Make a guess and say why / Eat the sugar / Wash the plates  
+   **Answer:** Make a guess and say why. *Why:* Scientists guess first and give a reason. Then the test shows if the guess was right.
 
 ## Applications
 - Beekeepers in Kodagu, Kerala and many other places keep honey bees in wooden boxes. The bees make honey and also carry pollen to coffee, coconut and fruit flowers.
@@ -481,9 +481,9 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
 ## Questions to ask kids
 - Which food on your plate came from a plant? Which came from an animal?
 - Who made the milk in your glass, and what did she eat?
-- If you were a bee, which flower would you visit first? Why?
+- Why do bees visit flowers?
 - Can you find a food at dinner that is from a plant and an animal at once?
-- What would you eat if you could make food from sunlight, like a plant?
+- Why do you need to eat, when a mango tree does not?
 - Where do you think the rice in your house was grown?
 
 ## Jokes
@@ -498,8 +498,8 @@ Divya tried it at home the next day. She made sugar water, thin like nectar. She
 - What is a bee's favourite haircut? *A buzz cut!*
 
 ## Connected maths
-- Ammu sorted her lunch. She put 5 foods on the leaf plate and 2 foods on the cow plate. How many more foods are on the leaf plate? **3 more foods are on the leaf plate.**. Start at 2 and count on to 5: 3, 4, 5. That is 3 more. Most of her lunch came from plants. (queues `math.addition-subtraction.meaning.L1`)
-- In a second go at the Be a Bee challenge, Sundari counted the dips each tool needed to fill a cap. The spoon needed 4 dips, the paintbrush 7 and the cotton bud 12. Put them in order, from the fewest dips to the most. **Spoon 4, paintbrush 7, cotton bud 12.**. 4 is less than 7, and 7 is less than 12. The fewer dips a tool needs, the more it carries each time. So the spoon carried most each dip, and the cotton bud least. (queues `math.number-sense.comparing-ordering.L1`)
+- A lunch is sorted onto two plates. 5 foods go on the leaf plate, for food from plants. 2 foods go on the cow plate, for food from animals. How many more foods are on the leaf plate? **3 more foods are on the leaf plate.**. Start at 2 and count on to 5: 3, 4, 5. That is 3 more. Most of this lunch came from plants. (queues `math.addition-subtraction.meaning.L1`)
+- In a second go at the Be a Bee challenge, count the dips each tool needs to fill a bottle cap. The spoon needs 4 dips, the paintbrush 7 and the cotton bud 12. Put them in order, from the fewest dips to the most. **Spoon 4, paintbrush 7, cotton bud 12.**. 4 is less than 7, and 7 is less than 12. The fewer dips a tool needs, the more it carries each time. So the spoon carried most each dip, and the cotton bud least. (queues `math.number-sense.comparing-ordering.L1`)
 - Zoya's food week had 30 green dots and 6 red dots. Her cousin Bindu, who eats fish every day, had 24 green dots and 14 red dots. Who ate more food from animals? Who ate more food from plants? **Bindu had more red dots, so she ate more food from animals. Zoya had more green dots, so she ate more food from plants.**. 14 is more than 6, so Bindu had more red dots. 30 is more than 24, so Zoya had more green dots. Both girls still had more green dots than red dots. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
@@ -518,7 +518,7 @@ From the Flower and the Field (sci.food.L1): Topic-level song for Food and nutri
 - How does a plant get food? → Plants make their own food in their leaves, from sunlight, air and water.
 - What do bees make honey from? → Flower nectar.
 - Is curd from a plant or an animal? → From an animal. Curd is made from milk.
-- Why did the sugar water under the fan turn thick? → The moving air made the water evaporate.
+- In the Nectar to Honey experiment, why did the sugar water under the fan turn thick? → The moving air made the water evaporate.
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards

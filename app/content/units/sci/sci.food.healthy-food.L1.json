@@ -158,9 +158,9 @@
  ],
  "big_questions": [
   {
-   "q": "The water in a cucumber first fell as rain. Then the plant drank it. Now you eat it. Who does that water belong to?",
+   "q": "The water in a cucumber first fell as rain. Then the plant drank that water. Now you eat the cucumber. Who does the water belong to?",
    "kind": "deep",
-   "hint": "Think about where the water was before the plant drank it, and where the water goes after it leaves you."
+   "hint": "Think about where the water was before the plant drank that water, and where the water goes after it leaves you."
   },
   {
    "q": "How does your body know it is short of water, before you even think about it?",

@@ -79,7 +79,7 @@ We have pushed boxes, pulled toys and closed a door from both sides. In the Two-
 - *what is life:* People and other animals move by pushing and pulling. An ant pulls a grain of rice, an elephant pushes a log, and a plant's roots push down through the soil.
 - *what is this world:* Things in the world start to move when they are pushed or pulled. The wind pushes the clouds, and the Earth pulls every falling mango down.
 
-Pushes and pulls come from many places: your hands, the wind, a magnet, the Earth and a line of ants. Scientists give them all one name, force. Every force is a meeting of two things, such as your hand and the door. Everything is aware in its own way, so the door meets your hand just as your hand meets the door. Many scientists say only living beings with nerves can feel a touch.
+Pushes and pulls come from many places: your hands, the wind, a magnet, the Earth and a line of ants. Scientists give them all one name, force. Every force needs two things, such as your hand and the door. Your hand pushes the door, and the door pushes back on your hand. Everything is aware in its own way, so the door meets your hand just as your hand meets the door. Many scientists say only living beings with nerves can feel a touch.
 
 - **Tao Te Ching 2:** Long and short shape each other. High and low lean on each other. Front and back follow each other. (Push and pull are a pair like front and back. The same force on the same door is called a push from one side and a pull from the other.)
 - **Udana 6.4 (a Buddhist text):** Some people who could not see touched an elephant, each at a different part. The one who felt the head said an elephant is like a pot. The one who felt the ear said it is like a winnowing basket. The one who felt a leg said it is like a post. Each told the truth about their own part. (A child inside the room says 'I pushed the door'. A friend outside says 'I pulled it'. Each is right about the same door, from where they stand.)
@@ -244,7 +244,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
   - Note: Let your child say what they found, and how they know, first. Then say it plainly: a bigger push sends a thing further, and a heavy thing needs a bigger push.
   - Check: You push an empty box gently, then hard. Which push sends it further? → **The hard push**
 ### e2 · The Pull-Along Train: does a longer train need a bigger pull? (15 min)
-- **question:** Does a train of three boxes need a bigger pull than one box? How can we see the pull?
+- **question:** A rubber band stretches more when you pull harder, so the length of the stretch shows how big the pull is. Does a train of three boxes need a bigger pull than one box?
 - **predict:** Guess first. Will one box or three boxes need a bigger pull? Will the rubber band stretch more or less? Why do you think so?
 - **fair test:** We use the same rubber band, the same string and the same floor each time. We pull slowly each time. Each box has one book inside, so every box weighs about the same.
 - **safety:** Keep the rubber band away from faces and pull slowly, so it does not snap back at anyone.
@@ -339,7 +339,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 - **record:** Draw yourself on the bedsheet ride, and draw who is pulling.
 - **s1 (3 min)**  
   *Parent does:* Your child jumps on the spot three times, then pushes a wall with both hands.  
-  *Parent says:* Jump three times. What do your feet push on? Now push the wall. Where do you feel it?  
+  *Parent says:* Jump three times. What do your feet push on? Now push the wall with both hands. The wall does not move, because it is far too heavy for your push. You still feel your arms push.  
   *Child mode:* Jump three times. Your feet push the floor. Now push the wall.
   - Ask: What did your feet push when you jumped? (good: The floor.; I pushed down and went up.)
 - **s2 (3 min) · grown-up needed**  
@@ -372,7 +372,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
   *Parent does:* Your child pulls the toy on tiles, then on a mat or carpet, and says which was easier.  
   *Parent says:* Pull your toy on the tiles. Now pull it on the mat. Which was easier? Why do you think so?  
   *Child mode:* Pull your toy on the tiles. Now on the mat. Which was easier?
-  - Ask: Which floor was easier? (good: The tiles. They are smooth.; The mat. It slowed the toy down.)
+  - Ask: Which floor was easier? (good: The tiles. They are smooth.; The tiles. The mat rubbed the box and made it harder to pull.)
   - Note: The rough mat rubs the box more, so it needs a bigger pull. This rubbing is called friction, and children meet it properly in a later unit.
 - **s3 (3 min)**  
   *Parent does:* Tape the old pencil to the back of the toy as a push stick. Your child pushes the toy with it.  
@@ -506,7 +506,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 - **Are there pushes and pulls nobody has found yet?** Scientists know a few basic forces that make every push and pull. Some are still looking for new ones, and nobody knows if they will find any.
 
 ## Questions to ask kids
-- Is opening the tap a push, a pull or a twist?
+- Is pressing a light switch a push or a pull?
 - What is the heaviest thing you have ever pushed?
 - Can you find three pulls in the kitchen today?
 - When you ride a cycle, what do your feet push on?

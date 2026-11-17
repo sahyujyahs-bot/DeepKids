@@ -86,7 +86,7 @@
    "status": "defined",
    "context": "This card says what happens to a ball when it bounces.",
    "definition": "When a ball hits the floor, it squashes a little. Then it springs back into its round shape, and that push sends it up again.",
-   "description": "A rubber ball squashes for a moment when it hits the floor, too fast to see. Then it springs back into shape and pushes off the floor. A ball of atta dough squashes but does not spring back, so it stays down. A dropped ball never bounces as high as it fell from, because some of its movement turns into sound and a little warmth.",
+   "description": "A rubber ball squashes for a moment when it hits the floor, too fast to see. Then it springs back into shape and pushes off the floor. A ball of atta dough squashes but does not spring back, so it stays down. A dropped ball never bounces as high as it fell from. Each bounce makes a thud you can hear. The ball also gets a tiny bit warmer. The sound and the warmth use up some of the ball's movement. So the ball has less movement left, and the next bounce is lower.",
    "examples": [
     "In High Drop, Low Drop, the ball dropped from high up bounced higher than the ball dropped from low down.",
     "In High Drop, Low Drop, the ball never came back up as high as the hand that dropped it.",
@@ -131,7 +131,7 @@
   },
   {
    "text": "A dropped ball never bounces back as high as it was dropped from.",
-   "evidence": "Anyone can test it by dropping a ball beside a wall. Scientists have measured it: on each bounce, some movement turns into sound and warmth."
+   "evidence": "Anyone can test it by dropping a ball beside a wall. Scientists have measured it. Each bounce makes a sound and a tiny bit of warmth, and these use up some of the ball's movement."
   },
   {
    "text": "Rubbing, called friction, slows down every rolling and spinning thing.",
@@ -206,7 +206,7 @@
    "Kiran laughed. 'It is going to Ammamma!'",
    "They tried again. Again the cup curved round. 'Why does it do that?' asked Kiran.",
    "Ammamma held up the cup. 'Look at its two ends,' she said. 'One is wide and one is narrow.'",
-   "Tara rolled the cup slowly along the floor with her hand. She watched both ends. 'The wide end goes a long way on each turn,' she said. 'The narrow end goes only a little way. So the cup turns round, like a cart with one big wheel and one small wheel.'",
+   "Tara rolled the cup slowly along the floor with her hand. She watched both ends. 'The wide end goes a long way on each turn,' she said. 'The narrow end goes only a little way. When one side of a cart goes further than the other side, the cart turns. So the cup turns round.'",
    "Kiran looked at the bottle. 'The bottle is the same at both ends,' he said slowly. 'So it goes straight.'",
    "'You two worked it out yourselves,' said Ammamma, and she smiled.",
    "Then she opened her old tin box. Inside was a wooden top, painted red and yellow. 'My grandmother bought me this in Etikoppaka, when I was as small as you,' she said.",
@@ -565,8 +565,8 @@
      "id": "s5",
      "mins": 2,
      "do": "Ask what your child found, and why. Then ask the check question.",
-     "say": "What did you find out? Where did the rest of the ball's movement go? Listen when it bounces.",
-     "kid": "What did you find? What do you hear when it bounces?",
+     "say": "What did you find out? The ball never came back to the hand. Why do you think that is? Listen to a bounce. What do you hear?",
+     "kid": "The ball never reached the hand. Why? What do you hear when it bounces?",
      "check": {
       "t": "mcq",
       "q": "You drop a ball from the height of your head. How high will it bounce back?",
@@ -576,9 +576,9 @@
        "Exactly as high as your head"
       ],
       "a": 0,
-      "why": "A dropped ball never bounces back as high as it fell from. On each bounce, some of its movement turns into sound and a tiny bit of warmth."
+      "why": "A dropped ball never bounces back as high as it fell from. Each bounce makes a sound and a tiny bit of warmth. These use up some of the ball's movement."
      },
-     "parent": "Say it plainly after your child's own words: a higher drop gives a higher bounce, but the ball never comes back to the hand. Some movement goes into the sound of the bounce."
+     "parent": "Say it plainly after your child's own words. A higher drop gives a higher bounce, but the ball never comes back to the hand. Each bounce makes a sound and a tiny bit of warmth, and these use up some of the ball's movement."
     }
    ]
   }
@@ -1456,7 +1456,7 @@
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other child has right. Say it out loud and a grown-up writes it.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason. For the first child: the bottle rolled straight on the same floor, so the shape made the difference. For the second child: the floor's grip holds the two ends as they roll. On a very slippery floor the cup would slide, not roll.",
+     "a": "A strong answer picks a side and gives a reason. For the first child: the bottle rolled straight on the same floor, so the shape made the difference. For the second child: the floor's grip stops the cup from slipping, so it really rolls on its two ends. On a very slippery floor the cup would slide, not roll.",
      "why": "Both children see something true. The shape decides which way the cup turns, and the floor's grip, called friction, is what lets it roll at all.",
      "how": "e1"
     },
@@ -1711,7 +1711,7 @@
     "The same"
    ],
    "a": 0,
-   "why": "A ball loses some movement on each bounce, to sound and warmth. So each bounce is lower, until the ball stops.",
+   "why": "Each bounce makes a sound and a tiny bit of warmth. These use up some of the ball's movement. So each bounce is lower, until the ball stops.",
    "outcome": 2
   },
   {
@@ -1965,7 +1965,7 @@
    "evidence": "In the slope test, the bottle and the cup were let go at the same place on the same slope. The bottle rolled straight on, and the cup curved round in a circle. Two cups taped wide end to wide end rolled straight."
   },
   "three": {
-   "who_am_i": "Your body has its own shape, as the cup does. The same push does not move you and your friend in the same way.",
+   "who_am_i": "Your body is built in its own way, just as a cup is built in its own way. So two children who get the same push may not move in the same way.",
    "what_is_life": "Living beings move in their own ways too. A snail glides, a crow hops, a winged seed spins down from a tree, and you roll on the mat.",
    "what_is_this_world": "The world is full of round things that roll and spin, from balls and wheels to the Earth, which spins like a top."
   },
@@ -1988,13 +1988,13 @@
     "status": "settled"
    },
    {
-    "text": "A dropped ball never bounces back as high as it fell from. On each bounce, some of its movement turns into sound and warmth.",
+    "text": "A dropped ball never bounces back as high as it fell from. Each bounce makes a sound and a tiny bit of warmth. These use up some of the ball's movement, so the next bounce is lower.",
     "status": "settled"
    }
   ],
   "other_view": {
    "who": "A physicist",
-   "view": "The shape alone does not steer the cup. The floor's grip, called friction, holds both ends as they roll, so the wide end runs ahead. On a floor as slippery as ice, the cup would slide and not turn at all. So the path comes from the shape and the floor together."
+   "view": "The shape alone does not steer the cup. The floor's grip, called friction, stops both ends from slipping. So the wide end really does cover more ground on each turn, and the cup curves. On a floor as slippery as ice, the cup would slide and not turn at all. So the path comes from the shape and the floor together."
   },
   "practice": {
    "title": "The still middle",
@@ -2005,7 +2005,7 @@
   "ask": [
    "The same slope sent the bottle straight and the cup round. What decided the path: the slope, or the shape of the thing?",
    "If two children get the same push, why might they go different ways?",
-   "The Earth spins like a top. Which part of the Earth moves least?"
+   "In a spinning top, the middle hardly moves and the edge races round. Why must the edge move faster?"
   ],
   "art": "A child sitting cross-legged, drawing a slow circle on an open palm, with a spinning top and a paper cup on the floor beside her."
  },
