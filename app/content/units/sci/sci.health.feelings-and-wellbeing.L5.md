@@ -391,18 +391,18 @@ On Monday she came out two minutes early again. Three children were already stan
   *Parent does:* Open each of five doors fully, such as the front door, the bathroom, the kitchen, a bedroom and the balcony. Hold the 65 cm string across the narrowest gap. Then measure the gap with the tape. Write the number.  
   *Parent says:* Open the door fully. Does the 65 centimetre string fit across the narrowest gap? Measure it and write the number.  
   *Child mode:* Open each door fully. Measure the narrowest gap. Does the 65 cm string fit?
-  - Note: The clear width is smaller than the door leaf, because the open door and its handle stand in the way. Measure the gap between the frame and the open door. Narrow doors of 60 to 70 cm are common in older bathrooms.
+  - Note: The clear width is smaller than the door leaf, because the open door and its handle stand in the way. Measure the gap between the frame and the open door. Narrow doors are common in older bathrooms.
   - Check: In the Doorway Test, which part of a door do you measure? → **The narrowest gap with the door open**
 - **s3 (5 min)**  
-  *Parent does:* At each doorway, look for a step or a raised edge on the floor. Stand a ruler upright on the floor and measure its height. Write the number. A small front wheel cannot cross an edge higher than about 1 cm without help.  
+  *Parent does:* At each doorway, look for a step or a raised edge on the floor. Stand a ruler upright on the floor and measure its height. Write the number. A small front wheel can be stopped by a low raised edge.  
   *Parent says:* Look at the floor at each doorway. Is there a step or a raised edge? Stand the ruler up beside it and measure the height.  
   *Child mode:* Look for steps at each doorway. Measure their height.
-  - Note: Most bathrooms have a raised edge of 2 to 10 cm to hold water in. A grown-up, a trolley or a pram can bump over it. A wheelchair often cannot.
+  - Note: Many bathrooms have a raised edge to hold water in. A grown-up, a trolley or a pram can bump over it. A wheelchair often cannot.
 - **s4 (6 min) · grown-up needed**  
   *Parent does:* Mark 40 cm and 120 cm up a wall with masking tape. Guides say controls should sit between these marks for a seated person to reach. Measure three switches, the door handle and a tap from the floor. Write the numbers.  
   *Parent says:* Stick tape at 40 and 120 centimetres up the wall. A seated person reaches between the tapes. Measure the switches, a handle and a tap from the floor.  
   *Child mode:* Put tape at 40 and 120 cm on the wall. Measure a switch, a handle and a tap.
-  - Note: A grown-up holds the ruler for anything above your child's reach. Most ceiling fan and tube light switches sit near 120 to 140 cm. The aim is only to measure, so no one climbs.
+  - Note: A grown-up holds the ruler for anything above your child's reach. Many fan and light switches sit high on the wall, at the top of that range or above it. The aim is only to measure, so no one climbs.
   - Think: Who else, apart from a person in a wheelchair, finds a high switch hard to reach?
 - **s5 (5 min)**  
   *Parent does:* Look at the table. Ask your child to say what they thought would happen, what they saw, and why they think it happened. Then ask for one change that would help the most, and whether it would also help others.  
@@ -545,8 +545,8 @@ On Monday she came out two minutes early again. Three children were already stan
 ### c1 · The Ramp That Fits: a 15 cm step and only 120 cm of ground in front (30 min)
 - **problem:** A library door has one step that is 15 cm high. Guides say a ramp may rise no more than 1 cm for every 12 cm of length. But the ground in front of the step is only 120 cm deep, because a wall stands there. The step itself is 600 cm wide. Design a ramp that a wheelchair can use.
 - **your turn:** Design your own ramp. Draw it from above and from the side. Write its total length, its rise and how many centimetres of length it has for each 1 cm of rise. Say who else it helps.
-- **constraints:** In your model, 1 cm stands for 10 cm. The step is 1.5 cm high and 60 cm wide. The ground in front is 12 cm deep.; The ramp must rise 1.5 cm in total. It needs at least 12 cm of length for each 1 cm of rise. So the whole ramp needs at least 18 cm in your model.; The ramp must be at least 9 cm wide in the model, which stands for 90 cm.; Any turn needs a flat landing at least 15 cm long and 15 cm wide.
-- **general:** A straight ramp that runs sideways along the front of the step. It is 18 cm long and only 9 cm deep.; A straight ramp that starts at one end of the step and rises as it runs along the wall.; A longer ramp that starts further along the step, so that the slope is gentler.
+- **constraints:** In your model, 1 cm stands for 10 cm. The step is 1.5 cm high and 60 cm wide. The ground in front is 12 cm deep.; The ramp must rise 1.5 cm in total. It needs at least 12 cm of length for each 1 cm of rise. So the whole ramp needs at least 18 cm in your model.; The ramp must be at least 12 cm wide in the model, which stands for 120 cm.; Any turn needs a flat landing at least 15 cm long and 15 cm wide.
+- **general:** A straight ramp that runs sideways along the front of the step. It is 18 cm long and 12 cm deep.; A straight ramp that starts at one end of the step and rises as it runs along the wall.; A longer ramp that starts further along the step, so that the slope is gentler.
 - **creative:** A ramp that starts at one end of the step, turns on a landing, and ends at the door.; A ramp that curves along the front of the step in a gentle arc.; A ramp built from the side, where there is more ground, and joined to the path.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Set up the model: a notebook 1.5 cm thick for the step, with a wall 12 cm in front of it. Ask your child for three ideas, and which they expect to work best.  
@@ -564,7 +564,7 @@ On Monday she came out two minutes early again. Three children were already stan
   *Parent does:* Your child makes a ramp at least 18 cm long that still fits in the 12 cm of ground. They build it from card strips and tape. They measure its length and roll the toy car along it.  
   *Parent says:* Now make a ramp at least 18 centimetres long that still fits in 12 centimetres of ground. Remember that the step is 60 centimetres wide.  
   *Child mode:* Make an 18 cm ramp that fits in 12 cm of ground.
-  - Note: The usual answer runs sideways along the front of the step. A strip 18 cm long and 9 cm wide fits in the 12 cm of ground. 18 ÷ 1.5 = 12, which just meets the guide. Accept any design that measures well.
+  - Note: The usual answer runs sideways along the front of the step. A strip 18 cm long and 12 cm wide fits in the 12 cm of ground. 18 ÷ 1.5 = 12, which just meets the guide. Accept any design that measures well.
 - **s4 (3 min)**  
   *Parent does:* Compare the two ramps. Ask the question below.  
   *Parent says:* Compare the two ramps. Which one would you rather push a wheelchair up? What does the longer ramp cost, and who does it help?  
@@ -701,9 +701,9 @@ On Monday she came out two minutes early again. Three children were already stan
    **Answer:** Someone is being hurt and threatened → Tell a trusted grown-up at once; A tap is left running → Turn it off yourself; A classmate is left out of a game → Stand beside her and invite her; A classmate laughs at how someone reads aloud → Say calmly, 'Let her finish'. *Why:* Someone being hurt must always be told to a grown-up. The others can be put right by a child, calmly and kindly.
 
 ## Videos
-- **What happens in your body when you feel stress: adrenaline, heart and muscles** (, 5 min) id `to find`: To see the stress response that the Hurry Test is about: the adrenal glands, the heart and the tightening muscles. No home test can show what happens inside. *Check:* No address yet. Find a short animation from a university, a hospital or a well-known education channel. Check that it names adrenaline and the heart, and that it does not diagnose or give medical advice.
-- **Bandura's Bobo doll study: children copy what they see** (, 5 min) id `to find`: To see how children copy what grown-ups do, even when nobody rewards them. It shows the real test that the discovery story describes. *Check:* No address yet. Find a clip of the 1960s film or a careful explanation from a university. Check that the age of the children and the three groups match the story, and that it is suitable for children.
-- **Why a ramp must be long: slope and the 1 in 12 rule** (, 5 min) id `to find`: To see how a wheelchair ramp is measured and built, so the Ramp That Fits challenge makes sense. *Check:* No address yet. Find a short explanation from a disability access group or an architecture school. Check that it gives a gradient of 1 in 12 and shows a landing at a turn.
+- **Le stress expliqué aux enfants** (Inserm, 5 min) id `V8T02Tt-nSI`: To see the stress response that the Hurry Test is about: the adrenal glands, the heart and the tightening muscles. No home test can show what happens inside. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. Note: the video is in French; it is from Inserm, a French national health research institute.
+- **Bobo Doll Experiment** (Simply Psychology, 5 min) id `btIdoHA16_Y`: To see how children copy what grown-ups do, even when nobody rewards them. It shows the real test that the discovery story describes. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. Note: an explainer, not the 1960s film itself; the search turned up no clean original-footage upload with confirmed quality.
+- **What 1:12 Slope really means for ADA Compliance.** (SafePath Products Official, 5 min) id `NMGRdXKv8Tk`: To see how a wheelchair ramp is measured and built, so the Ramp That Fits challenge makes sense. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. Note: a product company's channel, not an official or academic source; landings are not confirmed in the video from here.
 
 ## Quiz
 1. (mcq) Which place is most likely to be a happy one?  
@@ -801,10 +801,10 @@ Clean, Strong and Happy (sci.health.L5): Topic-level song
 ## Links
 - [CHILDLINE India Foundation](https://www.childlineindia.org/) · interactive: For the parent: the national helpline for children, on 1098, for a child who is in danger or needs someone to talk to.
 - [Tele-MANAS, the national mental health helpline](https://telemanas.mohfw.gov.in/) · interactive: For the parent: a free helpline for any person of any age who needs to talk. A trusted doctor or counsellor can also help.
-- [Department of Empowerment of Persons with Disabilities](https://disabilityaffairs.gov.in/) · interactive: For the parent: the government's guidelines and the law on accessible buildings and the rights of people with disabilities.
+- [Department of Empowerment of Persons with Disabilities](https://depwd.gov.in/) · interactive: For the parent: the government department for the rights of people with disabilities, and the law that asks for accessible buildings.
 - [Greater Good Science Center, University of California, Berkeley](https://greatergood.berkeley.edu/) · interactive: For the parent: plain accounts of research on kindness, empathy and how feelings spread between people.
 - [NCERT: textbooks and learning materials](https://ncert.nic.in/) · interactive: For the parent: the Class 5 chapter 'Our School: A Happy Place', which this unit goes deeper into.
-- [Ramon Magsaysay Award Foundation](https://www.rmaf.org.ph/) · interactive: For the parent: the record of the 2016 award to Bezwada Wilson for his work to end hand cleaning of dry toilets.
+- [Ramon Magsaysay Award Foundation](https://www.rmaward.asia/awardees/wilson-bezwada/) · interactive: For the parent: the record of the 2016 award to Bezwada Wilson for his work to end hand cleaning of dry toilets.
 
 ## Things to buy
 - [A tape measure or a metre ruler, 3 metres long](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): For measuring doors, steps and switches in the Doorway Test. Most homes have a ruler, and a long string and ruler also work. Used in e3. 
@@ -846,6 +846,6 @@ Clean, Strong and Happy (sci.health.L5): Topic-level song
 - Bandura A., Ross D., Ross S. A. (1961). Transmission of aggression through imitation of aggressive models. Journal of Abnormal and Social Psychology 63: 575-582.
 - Centola D., Becker J., Brackbill D., Baronchelli A. (2018). Experimental evidence for tipping points in social convention. Science 360: 1116-1119.
 - Hass R. G. (1984). Perspective taking and self-awareness: drawing an E on your forehead. Journal of Personality and Social Psychology 46: 788-798.
-- Government of India, Department of Empowerment of Persons with Disabilities (2016). Harmonised Guidelines and Space Standards for Barrier-Free Built Environment for Persons with Disabilities and Elderly Persons.
+- Ministry of Urban Development, Government of India (2016). Harmonised Guidelines and Space Standards for Barrier-Free Built Environment for Persons with Disability and Elderly Persons. (Door clear opening 900 mm, ramp gradient 1:12, ramp width 1200 mm, landing 1500 mm and forward reach 380 to 1200 mm checked in this document on 17 Nov 2026.)
 - Rights of Persons with Disabilities Act, 2016. Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013.
 - Ramon Magsaysay Award Foundation (2016). Citation for Bezwada Wilson.

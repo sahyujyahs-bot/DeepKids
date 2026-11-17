@@ -1284,16 +1284,16 @@
       "a": 0,
       "why": "A wheelchair must pass the narrowest point. The open door and its handle often take up some of the width. If you chose the width of the door, remember that the door itself can stand in the way."
      },
-     "parent": "The clear width is smaller than the door leaf, because the open door and its handle stand in the way. Measure the gap between the frame and the open door. Narrow doors of 60 to 70 cm are common in older bathrooms.",
+     "parent": "The clear width is smaller than the door leaf, because the open door and its handle stand in the way. Measure the gap between the frame and the open door. Narrow doors are common in older bathrooms.",
      "context": "In this step of the Doorway Test you measure five doors in your home."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "At each doorway, look for a step or a raised edge on the floor. Stand a ruler upright on the floor and measure its height. Write the number. A small front wheel cannot cross an edge higher than about 1 cm without help.",
+     "do": "At each doorway, look for a step or a raised edge on the floor. Stand a ruler upright on the floor and measure its height. Write the number. A small front wheel can be stopped by a low raised edge.",
      "say": "Look at the floor at each doorway. Is there a step or a raised edge? Stand the ruler up beside it and measure the height.",
      "kid": "Look for steps at each doorway. Measure their height.",
-     "parent": "Most bathrooms have a raised edge of 2 to 10 cm to hold water in. A grown-up, a trolley or a pram can bump over it. A wheelchair often cannot.",
+     "parent": "Many bathrooms have a raised edge to hold water in. A grown-up, a trolley or a pram can bump over it. A wheelchair often cannot.",
      "context": "In this step of the Doorway Test you measure the steps and raised edges at the doorways."
     },
     {
@@ -1303,7 +1303,7 @@
      "say": "Stick tape at 40 and 120 centimetres up the wall. A seated person reaches between the tapes. Measure the switches, a handle and a tap from the floor.",
      "kid": "Put tape at 40 and 120 cm on the wall. Measure a switch, a handle and a tap.",
      "adult": true,
-     "parent": "A grown-up holds the ruler for anything above your child's reach. Most ceiling fan and tube light switches sit near 120 to 140 cm. The aim is only to measure, so no one climbs.",
+     "parent": "A grown-up holds the ruler for anything above your child's reach. Many fan and light switches sit high on the wall, at the top of that range or above it. The aim is only to measure, so no one climbs.",
      "think": "Who else, apart from a person in a wheelchair, finds a high switch hard to reach?",
      "context": "In this step of the Doorway Test you measure how high the switches, handles and taps in your home are."
     },
@@ -1897,18 +1897,18 @@
    "constraints": [
     "In your model, 1 cm stands for 10 cm. The step is 1.5 cm high and 60 cm wide. The ground in front is 12 cm deep.",
     "The ramp must rise 1.5 cm in total. It needs at least 12 cm of length for each 1 cm of rise. So the whole ramp needs at least 18 cm in your model.",
-    "The ramp must be at least 9 cm wide in the model, which stands for 90 cm.",
+    "The ramp must be at least 12 cm wide in the model, which stands for 120 cm.",
     "Any turn needs a flat landing at least 15 cm long and 15 cm wide."
    ],
    "materials": [
-    "thick card, a flat tray lid or a thin wooden board, cut into strips 9 cm wide",
+    "thick card, a flat tray lid or a thin wooden board, cut into strips 12 cm wide",
     "a notebook about 1.5 cm thick for the step",
     "a ruler and a pencil",
     "tape or sticky tack",
     "a small toy car"
    ],
    "general": [
-    "A straight ramp that runs sideways along the front of the step. It is 18 cm long and only 9 cm deep.",
+    "A straight ramp that runs sideways along the front of the step. It is 18 cm long and 12 cm deep.",
     "A straight ramp that starts at one end of the step and rises as it runs along the wall.",
     "A longer ramp that starts further along the step, so that the slope is gentler."
    ],
@@ -1978,7 +1978,7 @@
      "do": "Your child makes a ramp at least 18 cm long that still fits in the 12 cm of ground. They build it from card strips and tape. They measure its length and roll the toy car along it.",
      "say": "Now make a ramp at least 18 centimetres long that still fits in 12 centimetres of ground. Remember that the step is 60 centimetres wide.",
      "kid": "Make an 18 cm ramp that fits in 12 cm of ground.",
-     "parent": "The usual answer runs sideways along the front of the step. A strip 18 cm long and 9 cm wide fits in the 12 cm of ground. 18 ÷ 1.5 = 12, which just meets the guide. Accept any design that measures well.",
+     "parent": "The usual answer runs sideways along the front of the step. A strip 18 cm long and 12 cm wide fits in the 12 cm of ground. 18 ÷ 1.5 = 12, which just meets the guide. Accept any design that measures well.",
      "context": "In this step of The Ramp That Fits you build a ramp that is long enough and still fits the space."
     },
     {
@@ -2869,31 +2869,28 @@
  ],
  "videos": [
   {
-   "title": "What happens in your body when you feel stress: adrenaline, heart and muscles",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Le stress expliqué aux enfants",
+   "channel": "Inserm",
+   "youtube": "V8T02Tt-nSI",
    "mins": 5,
    "why": "To see the stress response that the Hurry Test is about: the adrenal glands, the heart and the tightening muscles. No home test can show what happens inside.",
-   "check": "No address yet. Find a short animation from a university, a hospital or a well-known education channel. Check that it names adrenaline and the heart, and that it does not diagnose or give medical advice."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. Note: the video is in French; it is from Inserm, a French national health research institute."
   },
   {
-   "title": "Bandura's Bobo doll study: children copy what they see",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Bobo Doll Experiment",
+   "channel": "Simply Psychology",
+   "youtube": "btIdoHA16_Y",
    "mins": 5,
    "why": "To see how children copy what grown-ups do, even when nobody rewards them. It shows the real test that the discovery story describes.",
-   "check": "No address yet. Find a clip of the 1960s film or a careful explanation from a university. Check that the age of the children and the three groups match the story, and that it is suitable for children."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. Note: an explainer, not the 1960s film itself; the search turned up no clean original-footage upload with confirmed quality."
   },
   {
-   "title": "Why a ramp must be long: slope and the 1 in 12 rule",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "What 1:12 Slope really means for ADA Compliance.",
+   "channel": "SafePath Products Official",
+   "youtube": "NMGRdXKv8Tk",
    "mins": 5,
    "why": "To see how a wheelchair ramp is measured and built, so the Ramp That Fits challenge makes sense.",
-   "check": "No address yet. Find a short explanation from a disability access group or an architecture school. Check that it gives a gradient of 1 in 12 and shows a landing at a turn."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. Note: a product company's channel, not an official or academic source; landings are not confirmed in the video from here."
   }
  ],
  "applications": [
@@ -3094,9 +3091,9 @@
   },
   {
    "title": "Department of Empowerment of Persons with Disabilities",
-   "url": "https://disabilityaffairs.gov.in/",
+   "url": "https://depwd.gov.in/",
    "kind": "interactive",
-   "why": "For the parent: the government's guidelines and the law on accessible buildings and the rights of people with disabilities."
+   "why": "For the parent: the government department for the rights of people with disabilities, and the law that asks for accessible buildings."
   },
   {
    "title": "Greater Good Science Center, University of California, Berkeley",
@@ -3112,7 +3109,7 @@
   },
   {
    "title": "Ramon Magsaysay Award Foundation",
-   "url": "https://www.rmaf.org.ph/",
+   "url": "https://www.rmaward.asia/awardees/wilson-bezwada/",
    "kind": "interactive",
    "why": "For the parent: the record of the 2016 award to Bezwada Wilson for his work to end hand cleaning of dry toilets."
   }
@@ -3360,7 +3357,7 @@
    "Bandura A., Ross D., Ross S. A. (1961). Transmission of aggression through imitation of aggressive models. Journal of Abnormal and Social Psychology 63: 575-582.",
    "Centola D., Becker J., Brackbill D., Baronchelli A. (2018). Experimental evidence for tipping points in social convention. Science 360: 1116-1119.",
    "Hass R. G. (1984). Perspective taking and self-awareness: drawing an E on your forehead. Journal of Personality and Social Psychology 46: 788-798.",
-   "Government of India, Department of Empowerment of Persons with Disabilities (2016). Harmonised Guidelines and Space Standards for Barrier-Free Built Environment for Persons with Disabilities and Elderly Persons.",
+   "Ministry of Urban Development, Government of India (2016). Harmonised Guidelines and Space Standards for Barrier-Free Built Environment for Persons with Disability and Elderly Persons. (Door clear opening 900 mm, ramp gradient 1:12, ramp width 1200 mm, landing 1500 mm and forward reach 380 to 1200 mm checked in this document on 17 Nov 2026.)",
    "Rights of Persons with Disabilities Act, 2016. Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013.",
    "Ramon Magsaysay Award Foundation (2016). Citation for Bezwada Wilson."
   ]
@@ -3430,5 +3427,5 @@
   ],
   "art": "Five children sitting in a row on a school step, a small smile passing from the first child's face to the last, drawn as a thin curved line joining their faces."
  },
- "playtest": "The experiments, activities and games were reasoned through step by step, as a family in a flat would do them. They have not yet been tried at home. The Hurry Test (core) needs only a plastic bottle, a plate, 15 chana and a helper. A 1-litre bottle with a 30 cm drop gives about 1 to 3 misses in a calm round, and the step says how to change the height or the bottle if it gives none or too many. A few families will see no difference between calm and hurried runs, and the step says that this is a real result. The test cannot separate the hurry words from the hurry itself, and the last step asks the child how it could. The Smile Count needs a place where about 20 people pass in 20 minutes, with a grown-up beside the child. In a quiet building it may need two days. A city crowd may return fewer smiles, so the unit asks the child to compare within their own count. The Doorway Test needs only a tape measure or a ruler, two pieces of string and a few pencil marks. Most homes will find at least one door or edge that stops a 65 cm wheelchair. The Ramp That Fits uses card and a notebook as a 1 to 10 model, and its numbers were checked: a 12 cm ramp rises 1.5 cm at 1 in 8, which is too steep, and an 18 cm ramp that runs sideways along the step fits in the 12 cm of ground at 1 in 12. Keep the Lane Clean was simulated 100,000 times. With 2 wrappers and early pick-ups it is won about 9 times in 10. With 4 wrappers it is won about 1 time in 4, even with the best play. What Helped? is a small log, and pulse differences of a few beats are normal, so the step says one trial is not enough. Nothing in this unit diagnoses or treats a feeling, and each time a feeling is too big the child is told to tell a trusted grown-up. Facts to treat with care: the wheelchair width of 65 cm, the door width of 90 cm, the 1 in 12 slope and the reach range of 40 to 120 cm are rounded from common access guides and should be checked against India's 2016 harmonised guidelines. The Tirukkural number, the Ubuntu and Indra's net teachings are paraphrased. The three videos have no address yet."
+ "playtest": "The experiments, activities and games were reasoned through step by step, as a family in a flat would do them. They have not yet been tried at home. The Hurry Test (core) needs only a plastic bottle, a plate, 15 chana and a helper. A 1-litre bottle with a 30 cm drop gives about 1 to 3 misses in a calm round, and the step says how to change the height or the bottle if it gives none or too many. A few families will see no difference between calm and hurried runs, and the step says that this is a real result. The test cannot separate the hurry words from the hurry itself, and the last step asks the child how it could. The Smile Count needs a place where about 20 people pass in 20 minutes, with a grown-up beside the child. In a quiet building it may need two days. A city crowd may return fewer smiles, so the unit asks the child to compare within their own count. The Doorway Test needs only a tape measure or a ruler, two pieces of string and a few pencil marks. Most homes will find at least one door or edge that stops a 65 cm wheelchair. The Ramp That Fits uses card and a notebook as a 1 to 10 model, and its numbers were checked: a 12 cm ramp rises 1.5 cm at 1 in 8, which is too steep, and an 18 cm ramp that runs sideways along the step fits in the 12 cm of ground at 1 in 12. Keep the Lane Clean was simulated 100,000 times. With 2 wrappers and early pick-ups it is won about 9 times in 10. With 4 wrappers it is won about 1 time in 4, even with the best play. What Helped? is a small log, and pulse differences of a few beats are normal, so the step says one trial is not enough. Nothing in this unit diagnoses or treats a feeling, and each time a feeling is too big the child is told to tell a trusted grown-up. Facts checked on 17 Nov 2026: the 90 cm door, the 1 in 12 slope, the 120 cm ramp width, the 150 cm landing and the 40 to 120 cm reach range against India's 2016 Harmonised Guidelines (the reach range is rounded from 38 to 120 cm); the 65 cm wheelchair is a round figure for chairs of about 60 to 70 cm; the study details, years, counts and the Tirukkural number were checked; the ramp width was corrected from 90 to 120 cm, and the figures for bathroom edges, door widths and switch heights were removed. The Ubuntu and Indra's net teachings are paraphrased. The three videos have no address yet."
 }
