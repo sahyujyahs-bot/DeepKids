@@ -214,7 +214,7 @@
    "concept": "Diseases of dirty water and food",
    "status": "defined",
    "definition": "Cholera, typhoid, diarrhoea, dysentery and hepatitis A spread when germs from the stools of an ill person reach water or food.",
-   "description": "The germs leave the body in stools. They reach drinking water where sewage leaks or where people have no toilets. Unwashed hands and flies carry them to food. Cholera causes sudden, watery loose motions, many times a day. Diarrhoea means loose, watery stools from any cause. Dysentery is loose stools with blood or mucus. All three can dry the body out within hours, and this dehydration is the danger. Small children are at most risk. The treatment is oral rehydration solution, called ORS, given in sips again and again. A doctor is needed if the child cannot drink or passes blood. Typhoid causes a fever that climbs over days, with headache and stomach pain. It needs a doctor and an antibiotic. Hepatitis A harms the liver and turns the eyes and skin yellow, which is called jaundice. Protection is the same for all. Drink boiled or filtered water, wash hands with soap, cover food, and use a toilet. Vaccines protect against typhoid, hepatitis A and rotavirus. Rotavirus is the commonest cause of severe diarrhoea in babies. Gagandeep Kang, a doctor and scientist in Vellore, led the tests of India's first rotavirus vaccine.",
+   "description": "The germs leave the body in stools. They reach drinking water where sewage leaks or where people have no toilets. Unwashed hands and flies carry them to food. Cholera causes sudden, watery loose motions, many times a day. Diarrhoea means loose, watery stools from any cause. Dysentery is loose stools with blood or mucus. All three can dry the body out within hours, and this dehydration is the danger. Small children are at most risk. The treatment is oral rehydration solution, called ORS, given in sips again and again. A doctor is needed if the child cannot drink or passes blood. Typhoid causes a fever that climbs over days, with headache and stomach pain. It needs a doctor and an antibiotic. Hepatitis A harms the liver and turns the eyes and skin yellow, which is called jaundice. Protection is the same for all. Drink boiled or filtered water, wash hands with soap, cover food, and use a toilet. Vaccines protect against typhoid, hepatitis A and rotavirus. Rotavirus is the commonest cause of severe diarrhoea in babies. Gagandeep Kang, a doctor and scientist in Vellore, took a leading part in testing the first rotavirus vaccine made in India.",
    "examples": [
     "Cholera: many watery stools, vomiting and fast dehydration.",
     "Typhoid: a slowly rising fever for a week or more.",
@@ -379,10 +379,10 @@
    "perspectives": [
     {
      "who": "David Strachan, a British doctor, in 1989",
-     "explanation": "He studied more than 17,000 British children. Those with more older brothers and sisters had less hay fever. He suggested that infections caught from older children in early life protect against allergy."
+     "explanation": "He studied thousands of British children. Those with more older brothers and sisters had less hay fever. He suggested that infections caught from older children in early life protect against allergy."
     },
     {
-     "who": "Graham Rook, a British scientist, from 2003",
+     "who": "Graham Rook, a British scientist, from the early 2000s",
      "explanation": "He argued that colds and other infections are not what protects. What matters is meeting the harmless microbes of soil, farm animals and other people. Human bodies lived with these for millions of years. He calls them 'old friends'."
     },
     {
@@ -416,7 +416,7 @@
   },
   {
    "text": "In India, non-infectious diseases now cause more deaths than infectious diseases.",
-   "evidence": "A large study of every Indian state counted the causes of death. In 1990, non-infectious diseases caused about 38 in every 100 deaths. In 2016 they caused about 62 in every 100."
+   "evidence": "A large study of every Indian state counted the causes of death. In 1990, non-infectious diseases caused about 38 in every 100 deaths. In 2016 they caused more than 60 in every 100."
   }
  ],
  "challenging": [
@@ -510,7 +510,7 @@
   "title": "The Tally on the Wall",
   "mins": 10,
   "read_aloud": true,
-  "note": "Gowri, her family, Sharadakka and the tally are made up. These facts are real. In March 1957, monkeys were found dead in the Kyasanur forest in Shimoga district, in what was then Mysore State and is now Karnataka. People in the villages nearby fell ill with a high fever. Scientists from the Virus Research Centre in Poona, now Pune, found a new virus in the dead monkeys and in the patients. They found that forest ticks carry the virus, and that the disease does not pass from one person to another. It is called Kyasanur Forest disease, or monkey fever. Most people recover, some die, and a vaccine now exists.",
+  "note": "Gowri, her family, Sharadakka and the tally are made up. These facts are real. In 1957, monkeys were found dead in the Kyasanur forest in Shimoga district, in what was then Mysore State and is now Karnataka. People in the villages nearby fell ill with a high fever. Scientists from the Virus Research Centre in Poona, now Pune, found a new virus in the dead monkeys and in the patients. They found that forest ticks carry the virus, and that the disease does not pass from one person to another. It is called Kyasanur Forest disease, or monkey fever. Most people recover, some die, and a vaccine now exists.",
   "text": [
    "The langurs began to die in the month of March, when the forest floor above Gowri's village was deep in dry leaves.",
    "Gowri's brother Shivu found the first one. He grazed the family's cattle under the trees, and he came home that evening very quiet. 'A big grey one,' he said. 'Lying on the leaves as if asleep. And another by the stream.'",
@@ -3078,31 +3078,28 @@
  ],
  "videos": [
   {
-   "title": "How health workers trace an outbreak with maps and dates",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "CDC NERD Academy Student Quick Learn: How is an outbreak investigated? - Audio Description",
+   "channel": "Centers for Disease Control and Prevention (CDC)",
+   "youtube": "Xt9xzg20S0c",
    "mins": 5,
    "why": "To see a real team mark cases on a map and a calendar, as in the Two Maps Test.",
-   "check": "No address yet. Find a short film from a public health body or a science museum. Check that it shows dots on a map and a chart of cases by day. Watch it first."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "How a mosquito passes malaria or dengue from one person to the next",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Malaria Life Cycle Animation: Mosquito Host — HHMI BioInteractive Video",
+   "channel": "biointeractive",
+   "youtube": "0uyE046It3o",
    "mins": 5,
    "why": "To see the journey of the germ inside the mosquito, which is too small to watch at home.",
-   "check": "No address yet. Find a short explainer from a health organisation or a university. Check that it says only female mosquitoes bite and that the germ grows inside the mosquito. Watch it first."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "What diabetes is: insulin and the sugar in the blood",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "What is Diabetes for Kids? | Diabetes Explained",
+   "channel": "Fresberg Cartoon – Learning & History for Students",
+   "youtube": "Oq56rDDfNWU",
    "mins": 5,
    "why": "To see how insulin lets sugar pass from the blood into the cells.",
-   "check": "No address yet. Find a short explainer from a hospital, a university or a science channel. Check that it separates type 1 from type 2, and that it does not say that sweets cause type 1. Watch it first."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -3264,17 +3261,17 @@
    "why_maths": "A fraction turns a huge number into something we can picture, such as 1 person in a crowd of 14."
   },
   {
-   "problem": "In India, non-infectious diseases caused about 38 in every 100 deaths in 1990 and about 62 in every 100 in 2016. Did the share double? How much did it rise by?",
-   "answer": "No. It rose by 24 in every 100, which is about 1.6 times as large.",
-   "explain": "62 minus 38 is 24. Double 38 would be 76, which is more than 62. So the share did not double. 62 divided by 38 is about 1.6.",
+   "problem": "In India, non-infectious diseases caused about 38 in every 100 deaths in 1990 and more than 60 in every 100 in 2016. Did the share double? How much did it rise by?",
+   "answer": "No. It rose by more than 22 in every 100, which is about 1.6 times as large.",
+   "explain": "60 minus 38 is 22, and the real rise is a little more. Double 38 would be 76, which is far more than 60. So the share did not double. 60 divided by 38 is about 1.6.",
    "math_unit": "math.data.reading-data.L5",
    "context": "This is about the changing causes of death in India. A large study counted the causes of death in every state in 1990 and in 2016.",
    "why_maths": "Checking 'did it double?' stops us from saying a change is bigger than it is."
   },
   {
-   "problem": "A mosquito takes about 7 days to grow from an egg to an adult. A family empties a bucket every 5 days. Another family empties theirs every 9 days. Which family stops mosquitoes from growing in the bucket? Why?",
-   "answer": "The first family. An egg laid just after emptying has 5 days to grow, which is fewer than 7, and then the bucket is emptied again.",
-   "explain": "Eggs need about 7 days to become adults. If the water is thrown out every 5 days, no egg lasts long enough. If it is thrown out every 9 days, eggs laid just after emptying have 9 days and some grow into adults.",
+   "problem": "A mosquito can take about a week to grow from an egg to an adult. A family empties a bucket every 5 days. Another family empties theirs every 9 days. Which family stops mosquitoes from growing in the bucket? Why?",
+   "answer": "The first family. An egg laid just after emptying has 5 days to grow, which is less than a week, and then the bucket is emptied again.",
+   "explain": "Eggs can become adults in about a week. If the water is thrown out every 5 days, no egg lasts long enough. If it is thrown out every 9 days, eggs laid just after emptying have 9 days and some grow into adults.",
    "math_unit": "math.time.duration.L5",
    "context": "This is about dengue and the Aedes mosquito, who lays her eggs in clean standing water in buckets, coolers and tyres.",
    "why_maths": "Comparing two time gaps against a growing time tells a family how often they must empty the water."
@@ -3551,12 +3548,13 @@
    "Rook G. A. W. (2010). 99th Dahlem conference on infection, inflammation and chronic inflammatory disorders: Darwinian medicine and the 'hygiene' or 'old friends' hypothesis. Clinical and Experimental Immunology 160: 70-79.",
    "Morawska L., Milton D. K. (2020). It is time to address airborne transmission of coronavirus disease 2019 (COVID-19). Clinical Infectious Diseases 71: 2311-2313.",
    "India State-Level Disease Burden Initiative Collaborators (2017). Nations within a nation: variations in epidemiological transition across the states of India, 1990-2016. Lancet 390: 2437-2460.",
-   "Anjana R. M. and others (2023). Metabolic non-communicable disease health report of India: the ICMR-INDIAB national cross-sectional study. Lancet Diabetes and Endocrinology 11: 474-489."
+   "Anjana R. M. and others (2023). Metabolic non-communicable disease health report of India: the ICMR-INDIAB national cross-sectional study. Lancet Diabetes and Endocrinology 11: 474-489.",
+   "Checked 17 Nov 2026: CDC pages on typhoid, chickenpox and influenza incubation periods; PubMed record of Work and Trapido (1957); news report of the ICMR-INDIAB study (101 million with diabetes in India, 2021)."
   ]
  },
  "how_we_found_out": {
   "context": "How did people learn to tell an infectious disease from a non-infectious one? This card tells the true story of a disease that almost every doctor put in the wrong group.",
-  "story": "In the early 1900s a disease called pellagra spread across the southern United States. It caused a rough red rash, loose motions and confusion, and thousands died each year. Cases crowded together in orphanages, prisons and poor villages. So most doctors were sure that a germ caused it. In 1914 the government sent Dr Joseph Goldberger to find the germ. He noticed something else. In the orphanages and hospitals, the children and patients got pellagra. The nurses and staff, who touched them every day, never did. The staff ate meat, milk and vegetables. The patients ate mostly maize bread and syrup. Goldberger gave children in two orphanages fresh meat, milk and beans, and their pellagra went away. In 1916 he, his wife Mary and other volunteers swallowed capsules of scabs from patients. They also took injections of patients' blood. None of them fell ill. Pellagra was a deficiency disease. In 1937 Conrad Elvehjem found the missing nutrient, a B vitamin now called niacin.",
+  "story": "In the early 1900s a disease called pellagra spread across the southern United States. It caused a rough red rash, loose motions and confusion, and thousands died each year. Cases crowded together in orphanages, prisons and poor villages. So most doctors were sure that a germ caused it. In 1914 the government sent Dr Joseph Goldberger to find the germ. He noticed something else. In the orphanages and hospitals, the children and patients got pellagra. The nurses and staff, who touched them every day, never did. The staff ate meat, milk and vegetables. The patients ate mostly maize bread and syrup. Goldberger gave children in two orphanages fresh meat, milk and vegetables, and their pellagra went away. In 1916 he, his wife Mary and other volunteers swallowed capsules of scabs from patients. They also took injections of patients' blood. None of them fell ill. Pellagra was a deficiency disease. In 1937 Conrad Elvehjem found the missing nutrient, a B vitamin now called niacin.",
   "who": "Joseph Goldberger, a doctor in the United States Public Health Service. Mary Farrar Goldberger, his wife, who volunteered. Conrad Elvehjem, an American chemist.",
   "when": "Goldberger began in 1914. The volunteer tests were in 1916. Niacin was identified in 1937.",
   "wrong_idea": "That pellagra was an infectious disease, because the cases crowded together. The cases crowded together because poor people in one place ate the same poor food. Staff who shared the rooms but not the food stayed well, and volunteers who took in material from patients stayed well.",
@@ -3623,5 +3621,5 @@
   ],
   "art": "A child and a grandmother sitting by an open window at dusk, looking out over the roofs of a town where many windows are lit."
  },
- "playtest": "Every experiment, activity, game and challenge was reasoned through step by step for a family in a city flat. None has yet been tried at home. So the numbers and times below are expected, and not measured. The Two Maps Test (core) needs only squared paper and a die. Map A reaches 12 or more ill houses in about 4 or 5 days, and about once in 30 maps the illness dies out first, so the step says to start again. Map B takes about 7 to 10 days of rolls, and usually 3 to 9 of its ill houses stand beside an earlier ill house by chance. So one pair of neighbours proves nothing, and the whole pattern is the evidence. The Risk Dice Test (core) needs a die and paper. Expect about 5 ill people in the first group of 30 and about 15 in the second, and anything from 2 to 9 and from 10 to 20 is common. In small groups of 6 the tobacco group comes out no worse in about one round in six, which is the point of the step. The numbers 1 in 6 and 1 in 2 are made up to suit a die, and real risks differ from disease to disease. One Opening or Two needs a clear 1-litre bottle, an agarbatti and a torch. A grown-up lights the stick and does the cutting. The closed bottle should still show haze after 3 minutes. The one-opening bottle thins slowly, and the two-opening bottle should clear in well under a minute with a fan or a moving breeze. In a still room the times may all be longer, and the step says what to do. Smoke is not germs. It stands for the fine particles of a cough, which float and move in the same way. The Waiting Room challenge uses a tissue streamer, and the air may flow the other way on another day. Ten Grown-Ups, Three Questions needs a grown-up to go with the child, and no names are written. The Kyasanur Forest story is made up, but the disease, the dates, the dead monkeys, the ticks and the finding that nurses did not fall ill are real. Facts to treat with care: incubation periods are the usual ranges, and real people vary. The 100 million figure for diabetes in India is rounded, and so are the shares of deaths. The date of the Charaka Samhita is debated, and the unit says only that it is roughly two thousand years old. The three videos have no address yet."
+ "playtest": "Every experiment, activity, game and challenge was reasoned through step by step for a family in a city flat. None has yet been tried at home. So the numbers and times below are expected, and not measured. The Two Maps Test (core) needs only squared paper and a die. Map A reaches 12 or more ill houses in about 4 or 5 days, and about once in 30 maps the illness dies out first, so the step says to start again. Map B takes about 7 to 10 days of rolls, and usually 3 to 9 of its ill houses stand beside an earlier ill house by chance. So one pair of neighbours proves nothing, and the whole pattern is the evidence. The Risk Dice Test (core) needs a die and paper. Expect about 5 ill people in the first group of 30 and about 15 in the second, and anything from 2 to 9 and from 10 to 20 is common. In small groups of 6 the tobacco group comes out no worse in about one round in six, which is the point of the step. The numbers 1 in 6 and 1 in 2 are made up to suit a die, and real risks differ from disease to disease. One Opening or Two needs a clear 1-litre bottle, an agarbatti and a torch. A grown-up lights the stick and does the cutting. The closed bottle should still show haze after 3 minutes. The one-opening bottle thins slowly, and the two-opening bottle should clear in well under a minute with a fan or a moving breeze. In a still room the times may all be longer, and the step says what to do. Smoke is not germs. It stands for the fine particles of a cough, which float and move in the same way. The Waiting Room challenge uses a tissue streamer, and the air may flow the other way on another day. Ten Grown-Ups, Three Questions needs a grown-up to go with the child, and no names are written. The Kyasanur Forest story is made up, but the disease, the dates, the dead monkeys, the ticks and the finding that nurses did not fall ill are real. Facts checked on 17 Nov 2026 against CDC, a Lancet-reported study of India, PubMed records and other sources: incubation periods (chickenpox, flu, typhoid), the Riley, Doll and Hill, Ross, Allison and Goldberger stories, the 2022 Indian HPV vaccine, the diabetes figure, ASHA numbers and the Kyasanur Forest disease facts. Softened: the month of the Kyasanur outbreak, the size of Strachan's study, the start year of Rook's idea, Gagandeep Kang's role, the 2016 death share and the mosquito growth time. Removed: beans from the orphanage meals. The date of the Charaka Samhita is debated, and the unit says only that it is roughly two thousand years old. The three videos have no address yet."
 }

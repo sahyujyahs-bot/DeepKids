@@ -266,8 +266,8 @@
      "explanation": "Unbroken filament makes the strongest, shiniest silk. Many families earn their living from it, and the cooked pupae are used as feed and as food."
     },
     {
-     "who": "Kusuma Rajaiah, a handloom officer from Hyderabad",
-     "explanation": "In the 1990s he worked out a way to let the moths come out first and then spin the broken cocoons. He called the cloth ahimsa silk."
+     "who": "Kusuma Rajaiah, a handloom technical officer from Hyderabad",
+     "explanation": "Around the year 2000 he worked out a way to let the moths come out first and then spin the broken cocoons. He called the cloth ahimsa silk."
     },
     {
      "who": "A critic of ahimsa silk",
@@ -280,7 +280,7 @@
    "concept": "Synthetic fibres, blends, and what all fibres share",
    "status": "defined",
    "definition": "A synthetic fibre is made in a factory from chemicals, mostly from petroleum. A blend mixes two or more fibres in one yarn.",
-   "description": "Nylon was the first fully synthetic fibre. A team led by Wallace Carothers made it in the United States in 1935. Polyester followed in Britain in 1941. To make a filament, the hot liquid is pushed through a plate of very fine holes, the way dough is pushed through an idiyappam press. Polyester and nylon are strong and cheap, dry fast and hardly crease. They take in very little water, so they feel sticky in hot weather. Near a flame they melt and stick to skin, which is why cotton is safer in the kitchen. Viscose, also called rayon, is made from wood or bamboo. The plant cellulose is dissolved and pushed out as new filaments. Elastane is a synthetic fibre that stretches to several times its length. A little of it in socks and leggings makes them cling. Under all these differences, every fibre is built the same way. Its molecules are very long chains, lying mostly along the fibre. Cotton's chains are cellulose, which the plant builds from air, water and sunlight. Wool and silk are chains of protein. Polyester's chains are built in a factory.",
+   "description": "Nylon was one of the first fully synthetic fibres. A team led by Wallace Carothers made it in the United States in 1935. Polyester followed, patented in Britain in 1941. To make a filament, the hot liquid is pushed through a plate of very fine holes, the way dough is pushed through an idiyappam press. Polyester and nylon are strong and cheap, dry fast and hardly crease. They take in very little water, so they feel sticky in hot weather. Near a flame they melt and stick to skin, which is why cotton is safer in the kitchen. Viscose, also called rayon, is made from wood or bamboo. The plant cellulose is dissolved and pushed out as new filaments. Elastane is a synthetic fibre that stretches to several times its length. A little of it in socks and leggings makes them cling. Under all these differences, every fibre is built the same way. Its molecules are very long chains, lying mostly along the fibre. Cotton's chains are cellulose, which the plant builds from air, water and sunlight. Wool and silk are chains of protein. Polyester's chains are built in a factory.",
    "examples": [
     "A label that says 65% polyester and 35% cotton names a blend. The cotton soaks up sweat, and the polyester adds strength and dries fast.",
     "A nylon school bag keeps books drier in rain than a cotton bag, because nylon takes in very little water.",
@@ -293,7 +293,7 @@
    "concept": "Weaving and stitching by other animals",
    "status": "defined",
    "definition": "Many animals make thread or build with it. Birds weave and stitch nests, spiders and caterpillars spin silk, and weaver ants join leaves with silk.",
-   "description": "A male baya weaver tears long strips from paddy, grass or palm leaves. He nicks the leaf with his beak and flies off, holding the strip. He knots the first strips around a thin twig, often on a thorny tree or a palm over water. Then he weaves strips in and out to make a ring, a roof and a round chamber. One nest takes about 500 trips and about 18 days. When the nest is half built, females come to look at it. If a female accepts the nest, the male finishes it with a long entrance tube that hangs down. A tailorbird pierces the edges of a large living leaf with their beak. They pull plant fibre, cotton fluff or spider silk through the holes. The ends fluff out like rivets and hold without a knot. Weaver ants, the red ants of mango trees, pull leaves together in living chains. Other workers carry larvae, who give out silk that glues the leaves. Young weaver birds weave badly at first and improve with practice, as careful studies of African weaver birds showed.",
+   "description": "A male baya weaver tears long strips from paddy, grass or palm leaves. He nicks the leaf with his beak and flies off, holding the strip. He knots the first strips around a thin twig, often on a thorny tree or a palm over water. Then he weaves strips in and out to make a ring, a roof and a round chamber. One nest is said to take up to 500 trips and about 18 days. When the nest is half built, females come to look at it. If a female accepts the nest, the male finishes it with a long entrance tube that hangs down. A tailorbird pierces the edges of a large living leaf with their beak. They pull plant fibre, cotton fluff or spider silk through the holes. The ends fluff out like rivets and hold without a knot. Weaver ants, the red ants of mango trees, pull leaves together in living chains. Other workers carry larvae, who give out silk that glues the leaves. Young weaver birds weave badly at first and improve with practice, as careful studies of African weaver birds showed.",
    "examples": [
     "Baya nests hang from babul trees and palms beside paddy fields in much of India.",
     "The common tailorbird lives in gardens in almost every Indian city and calls 'towit, towit' loudly.",
@@ -321,7 +321,7 @@
    "definition": "A handloom is worked by a person. A power loom is driven by a motor. Khadi is cloth that is both spun and woven by hand.",
    "description": "For many centuries, Indian handwoven cotton was sold across Asia, Africa and Europe. In the 1700s and 1800s, machines for spinning and weaving were built in Britain. Mill cloth became cheap, British rule taxed and blocked Indian cloth, and lakhs of spinners and weavers lost their work. The Swadeshi movement began on 7 August 1905 and asked Indians to buy cloth made in India. Later Gandhi asked people to spin on the charkha and wear khadi. Today most cloth in India comes from power looms and mills. A power loom weaves many metres in the time a handloom weaves one. Still, about 35 lakh people work in handloom weaving, and about 7 in every 10 of them are women. The 7th of August is National Handloom Day. People do not agree on what should happen to handloom, and each side has real evidence.",
    "examples": [
-    "A Kanchipuram silk sari can take a weaver one to three weeks. A power loom copy takes hours.",
+    "A Kanchipuram silk sari can take a weaver from about ten days to many weeks. A power loom copy takes far less time.",
     "The Jacquard loom of 1804 used cards with punched holes to lift the right threads for a pattern. Early computers borrowed the idea.",
     "A khadi shop sells cloth whose yarn was spun on a charkha and woven on a handloom."
    ],
@@ -345,7 +345,7 @@
    "concept": "What happens to old cloth",
    "status": "debated",
    "definition": "Old cloth can be worn longer, mended, passed on, remade into something else, or broken down into fibre and spun again.",
-   "description": "Making cloth uses land, water and energy. By one widely used estimate, growing the cotton for one T-shirt takes about 2,700 litres of water. So the best use of a garment is to wear it for a long time. After that comes passing it on, and then remaking it into something new. Many Indian homes do this without calling it recycling. Old saris become kantha quilts in Bengal, godhadi quilts in Maharashtra and kaudi quilts in Karnataka. Strips of old cloth are woven into chindi rugs. Worn banians become dusters, and old cotton becomes lamp wicks. Last comes true recycling. At Panipat in Haryana, old woollen clothes from many countries are sorted by colour, torn back into fibre and spun into yarn for blankets. Each round of tearing shortens the fibres, so recycled yarn is weaker. Polyester can be melted and spun again, and some polyester is made from used plastic bottles. One problem is still being studied. When synthetic clothes are washed, they shed microfibres that pass into rivers and the sea.",
+   "description": "Making cloth uses land, water and energy. Growing the cotton for one T-shirt takes a great deal of water. Estimates range from hundreds to thousands of litres. So the best use of a garment is to wear it for a long time. After that comes passing it on, and then remaking it into something new. Many Indian homes do this without calling it recycling. Old saris become kantha quilts in Bengal, godhadi quilts in Maharashtra and kaudi quilts in Karnataka. Strips of old cloth are woven into chindi rugs. Worn banians become dusters, and old cotton becomes lamp wicks. Last comes true recycling. At Panipat in Haryana, old woollen clothes from many countries are sorted by colour, torn back into fibre and spun into yarn for blankets. Each round of tearing shortens the fibres, so recycled yarn is weaker. Polyester can be melted and spun again, and some polyester is made from used plastic bottles. One problem is still being studied. When synthetic clothes are washed, they shed microfibres that pass into rivers and the sea.",
    "examples": [
     "In The Sweater That Went Back to Wool, a sweater is unravelled and knitted again in a smaller size.",
     "In many cities, traders give steel vessels in exchange for old clothes and sell the clothes at second-hand markets.",
@@ -407,7 +407,7 @@
    "claim": "A female baya chooses the male who weaves the neatest nest.",
    "who": "A common belief, found in many books",
    "for": "Females do visit nests, tug at the strips and sit inside before they accept. Young males build rough nests and are often refused.",
-   "against": "In 2006, Suhel Quader measured many baya nests in India. Where the nest hung mattered more to the females than how the nest was built. Nests in places that hunters could not easily reach did best.",
+   "against": "In 2006, Suhel Quader studied many baya nests in India. Where a nest hung predicted its success a little better than how it was built. This fits females choosing by place more than by weaving.",
    "status": "debated",
    "context": "This card is about how a female baya weaver chooses a nest. A study in India tested a common belief."
   },
@@ -764,7 +764,7 @@
        "b": "Muga silk."
       },
       {
-       "f": "Clue 1: I was first made in 1935, the first fully synthetic fibre. Clue 2: I am made from petroleum, and I melt near a flame. Clue 3: Toothbrush bristles and fishing lines are made of me.",
+       "f": "Clue 1: I was first made in 1935, one of the first fully synthetic fibres. Clue 2: I am made from petroleum, and I melt near a flame. Clue 3: Toothbrush bristles and fishing lines are made of me.",
        "b": "Nylon, a synthetic fibre."
       },
       {
@@ -2880,7 +2880,7 @@
     {
      "t": "write",
      "p": "Someone says natural fibres are always better for the Earth. Give one piece of evidence for and one against.",
-     "a": "For: cotton, wool and jute rot back into soil, while polyester lasts for centuries and sheds plastic microfibres. Against: growing cotton takes a great deal of water, about 2,700 litres for one T-shirt by one estimate, and often much pesticide.",
+     "a": "For: cotton, wool and jute rot back into soil, while polyester lasts for centuries and sheds plastic microfibres. Against: growing cotton takes a great deal of water, hundreds to thousands of litres for one T-shirt by different estimates, and often much pesticide.",
      "why": "A strong answer gives real evidence on both sides before deciding.",
      "lines": 4
     },
@@ -2947,12 +2947,12 @@
       "Prints of woven cloth in clay at Pavlov",
       "Cotton thread in a copper bead at Mehrgarh",
       "The Jacquard loom with punched cards",
-      "Nylon, the first fully synthetic fibre"
+      "Nylon, an early fully synthetic fibre"
      ],
      "why": "The clay prints are about 26,000 years old and the Mehrgarh thread about 7,000 to 8,000. The Jacquard loom dates from 1804 and nylon from 1935.",
      "items": [
       "The Jacquard loom with punched cards",
-      "Nylon, the first fully synthetic fibre",
+      "Nylon, an early fully synthetic fibre",
       "Prints of woven cloth in clay at Pavlov",
       "Cotton thread in a copper bead at Mehrgarh"
      ]
@@ -3158,31 +3158,28 @@
  ],
  "videos": [
   {
-   "title": "A male baya weaver building a nest, from the first knot to the entrance tube",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Baya Weaver Male Weaves a Nest 4K",
+   "channel": "Thailand Wild",
+   "youtube": "4FVjotOabSU",
    "mins": 4,
    "why": "To watch a bird knot and weave grass with beak and feet, which few city children can see for themselves.",
-   "check": "No address yet. Find a film from a wildlife channel or a natural history museum. Check that it shows the male tearing strips, the first knot and the half-built stage, and that it names the bird as the baya weaver."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "How a handloom works: warp, weft, shuttle and the lifting of threads",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How a Handloom Turns Thread Into Cloth",
+   "channel": "Our Living History",
+   "youtube": "XR3nTYGnlt0",
    "mins": 5,
    "why": "To see the warp threads lift and the shuttle pass through, which the card loom in this unit cannot show.",
-   "check": "No address yet. Find a film of a real Indian handloom, such as an ikat or silk loom, from a museum, a weavers' cooperative or a craft organisation. Check that the warp and the weft are named correctly."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. It is an explainer on warp, weft, shuttle, heddles and reed; check that it is set on an Indian loom or the parent should say so."
   },
   {
-   "title": "From cocoon to silk thread: the life of the silk moth and how silk is unwound",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Silkworms Spin Cocoons That Spell Their Own Doom",
+   "channel": "Deep Look",
+   "youtube": "cgavTIBQ_Z0",
    "mins": 5,
    "why": "To see the caterpillar spin and the filament being unwound from many cocoons at once.",
-   "check": "No address yet. Find a film from a silk research institute or a well-known science channel. Check that it shows all four stages. Watch it first, because the cocoons are put in hot water with the pupae inside, and this can upset some children."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. It shows the silk cocoon stage and why the pupa is killed before the thread is unwound; the boiling step may upset some children, so watch it first."
   }
  ],
  "applications": [
@@ -3354,13 +3351,13 @@
    "why_maths": "Counting crossings shows why a cloth with no glue and no knots still holds: friction acts at crores of places at once."
   },
   {
-   "problem": "A male baya weaver makes about 500 trips to build one nest, in about 18 days. About how many trips is that each day? If he works 10 hours a day, about how often does he arrive with a new strip?",
-   "answer": "About 28 trips a day, so about one strip every 21 minutes.",
-   "explain": "500 divided by 18 is a little less than 28. Ten hours is 600 minutes. 600 divided by 28 is a little more than 21. So he brings a new strip about every 21 minutes, all day, for 18 days.",
+   "problem": "A male baya weaver is said to make up to 500 trips to build one nest, in about 18 days. About how many trips is that each day, at most? If he works 10 hours a day, about how often does he arrive with a new strip?",
+   "answer": "At most about 28 trips a day, so a new strip about every 21 minutes.",
+   "explain": "500 divided by 18 is a little less than 28. Ten hours is 600 minutes. 600 divided by 28 is a little more than 21. So he would bring a new strip about every 21 minutes, all day, for 18 days.",
    "math_unit": "math.division.division-facts.L5",
    "how": "p1",
    "context": "In the Chindi Coaster project you weave 16 rows in two short sittings. A male baya weaver weaves a whole nest with his beak.",
-   "why_maths": "Dividing turns two big numbers into something you can picture: one strip of grass every 21 minutes."
+   "why_maths": "Dividing turns two big numbers into something you can picture: one strip of grass every 21 minutes or so."
   }
  ],
  "song": {
@@ -3440,7 +3437,7 @@
   },
   {
    "id": "b-book",
-   "item": "Women's Work: The First 20,000 Years, a book by Elizabeth Wayland Barber (1994)",
+   "item": "Women's Work: The First 20,000 Years, a book by Elizabeth Wayland Barber",
    "kind": "book",
    "why": "For the parent: how string, spinning and weaving began, and why this work was mostly done by women.",
    "url": "https://www.amazon.in/s?k=Women%27s+Work+The+First+20000+Years+Barber",
@@ -3667,8 +3664,9 @@
    "Salim Ali, Journal of the Bombay Natural History Society 1931, 'The nesting habits of the Baya (Ploceus philippinus)'",
    "Collias and Collias, 1964, 'Evolution of nest-building in the weaverbirds (Ploceidae)', University of California Publications in Zoology",
    "Fourth All India Handloom Census 2019-20, Ministry of Textiles, Government of India (number of handloom workers and the share who are women)",
-   "Barber, Women's Work: The First 20,000 Years, 1994",
-   "The estimate of about 2,700 litres of water for one cotton T-shirt is from WWF. Other estimates differ, so the unit calls it one estimate."
+   "Barber, Women's Work: The First 20,000 Years (W. W. Norton)",
+   "Estimates of the water used to grow the cotton for one T-shirt differ a lot, so the unit gives no single figure.",
+   "Checked 17 Nov 2026: Hardy and others 2020 (cord dated 41,000 to 52,000 years ago); Toups and others 2011 (split at least 83,000, perhaps 170,000 years ago); Browne and others 2011 (18 sites, six continents, over 1,900 fibres per wash); Fourth All India Handloom Census 2019-20 (35.22 lakh workers, about 72% women)."
   ]
  },
  "how_we_found_out": {
@@ -3736,5 +3734,5 @@
   ],
   "art": "A child holding the hem of a cotton shirt up to a sunny window, with one thread drawn in gold running through the weave."
  },
- "playtest": "The experiments, activities, games, project and challenges were reasoned through step by step, as a family in a city flat would do them. They have not yet been tried at home. Three things need old cloth that can be cut: a woven cotton cloth, a cotton T-shirt or banian, and a thin cotton cloth such as an old dupatta. In Woven or Knitted, check the T-shirt label for elastane first. Pulling one row of thread out of T-shirt cloth takes patience: try both cut edges, or use an old sock or sweater, whose yarn is thicker. In the Leaky Seam Test, the counts depend on how flat the cloth is pulled over the tumbler, so pull all three seams the same. In the Fray Test, a tightly woven cloth may hardly fray in 300 shakes: use the thinnest cloth you have, or shake longer. All sewing steps need a grown-up beside the child. The three videos have no address yet, so find and watch them before showing them. Numbers, titles and answers were checked against each other."
+ "playtest": "The experiments, activities, games, project and challenges were reasoned through step by step, as a family in a city flat would do them. They have not yet been tried at home. Three things need old cloth that can be cut: a woven cotton cloth, a cotton T-shirt or banian, and a thin cotton cloth such as an old dupatta. In Woven or Knitted, check the T-shirt label for elastane first. Pulling one row of thread out of T-shirt cloth takes patience: try both cut edges, or use an old sock or sweater, whose yarn is thicker. In the Leaky Seam Test, the counts depend on how flat the cloth is pulled over the tumbler, so pull all three seams the same. In the Fray Test, a tightly woven cloth may hardly fray in 300 shakes: use the thinnest cloth you have, or shake longer. All sewing steps need a grown-up beside the child. The three videos have no address yet, so find and watch them before showing them. Facts were checked against sources on 17 Nov 2026: the Pavlov, Mehrgarh, Neanderthal cord, louse, microfibre and handloom-census figures and citations were confirmed. The water-per-T-shirt number, the baya nest trips and days, the ahimsa silk date, the Kanchipuram weaving time and the \"first fully synthetic fibre\" claim were softened or removed. Museum and government websites could not be opened from outside India, so check those links before use. Numbers, titles and answers were checked against each other."
 }
