@@ -89,11 +89,11 @@
    "definition": "We look at what grows on the outside of each animal, and put animals with the same covering together.",
    "description": "Most animals have one of a few coverings. Hair or fur grows on cows, cats, bats and humans. Feathers grow only on birds. Scales cover fish, snakes and lizards. Some animals have a hard shell or a hard outer case, like snails, tortoises and ants. Frogs and earthworms have soft, bare, wet skin.",
    "examples": [
-    "Hair or fur: cow, goat, bat, human.",
-    "Feathers: crow, hen, parrot.",
-    "Scales: fish, snake, gecko.",
-    "Hard shell or case: snail, tortoise, ant.",
-    "Bare wet skin: frog, earthworm."
+    "Cows, goats, bats and humans have hair or fur.",
+    "Crows, hens and parrots have feathers.",
+    "Fish, snakes and geckos have scales.",
+    "Snails, tortoises and ants have a hard shell or a hard outer case.",
+    "Frogs and earthworms have bare, wet skin."
    ],
    "perspectives": [],
    "context": "This card is about the first way to sort: by what covers an animal's body.",
@@ -105,11 +105,11 @@
    "definition": "We count each animal's legs, and put animals with the same number together.",
    "description": "Snakes, fish and earthworms have no legs. Birds and humans walk on 2 legs. Cows, cats, frogs and lizards have 4 legs. Every insect, like an ant or a butterfly, has 6 legs. A spider has 8 legs. A crab has 10, counting the two big claws. A centipede has many legs, in pairs.",
    "examples": [
-    "No legs: snake, earthworm, fish.",
-    "2 legs: crow, hen, you.",
-    "4 legs: cow, frog, gecko.",
-    "6 legs: ant, cockroach, butterfly.",
-    "8 legs: spider."
+    "Snakes, earthworms and fish have no legs.",
+    "Crows, hens and you have 2 legs.",
+    "Cows, frogs and geckos have 4 legs.",
+    "Ants, cockroaches and butterflies have 6 legs.",
+    "A spider has 8 legs."
    ],
    "perspectives": [],
    "context": "This card is about the second way to sort: by counting legs.",
@@ -121,9 +121,9 @@
    "definition": "Herbivores eat plants. Carnivores eat other animals. Omnivores eat both plant food and animal food.",
    "description": "You cannot tell what an animal eats by looking at their body. You find out by watching what they eat. A cow eats grass all day, so a cow is a herbivore. A gecko by the tube light eats moths, so a gecko is a carnivore. A crow eats rice, fruit, insects and scraps, so a crow is an omnivore. A human body can eat both kinds of food. Many people choose to eat only plant food and milk.",
    "examples": [
-    "Herbivores: cow, goat, parrot, fruit bat, butterfly.",
-    "Carnivores: tiger, gecko, spider, frog, snake.",
-    "Omnivores: crow, hen, ant, humans."
+    "Cows, goats, parrots, fruit bats and butterflies are herbivores.",
+    "Tigers, geckos, spiders, frogs and snakes are carnivores.",
+    "Crows, hens, ants and humans are omnivores."
    ],
    "perspectives": [],
    "context": "This card is about the third way to sort: by what an animal eats. Read it after the Ant Lunch experiment.",
@@ -135,9 +135,9 @@
    "definition": "Each sorting rule makes its own groups, so one animal can sit with different animals under different rules.",
    "description": "Sort by covering, and the hen sits with the crow and the parrot, because they all have feathers. Sort by legs, and the hen sits with the crow and with you, because you all have 2 legs. Sort by food, and the hen sits with the crow, the ant and you, because you all eat both plant food and animal food. The hen did not change. Only the rule changed.",
    "examples": [
-    "Covering: hen with crow and parrot.",
-    "Legs: hen with crow and you.",
-    "Food: hen with crow, ant and you."
+    "When we sort by covering, the hen sits with the crow and the parrot.",
+    "When we sort by legs, the hen sits with the crow and with you.",
+    "When we sort by food, the hen sits with the crow, the ant and you."
    ],
    "perspectives": [],
    "context": "This card is about the activity Who Sits With the Hen?, where the same hen card moved to new groups each time the rule changed.",
@@ -149,8 +149,8 @@
    "definition": "To compare two animals, we list the features they share and the features only one of them has.",
    "description": "A crow and a hen are similar in many ways. Both have feathers, a beak, 2 legs and 2 wings, and both lay eggs. They are different too. A crow flies far, and a hen flies only a short way, up onto a wall. Two overlapping hoops show this well. What both share goes in the middle. What only one has goes on that animal's side.",
    "examples": [
-    "You and a cow: both have hair, both feed babies milk. Different: you walk on 2 legs, a cow on 4.",
-    "An ant and a spider: both have a hard outer case. Different: 6 legs and 8 legs."
+    "You and a cow both have hair, and both feed babies milk. You are different because you walk on 2 legs and a cow walks on 4.",
+    "An ant and a spider both have a hard outer case. They are different because an ant has 6 legs and a spider has 8."
    ],
    "perspectives": [],
    "context": "This card is about comparing two animals, as in the Same and Different Hoops activity.",
@@ -164,7 +164,7 @@
    "examples": [
     "A frog tadpole eats tiny water plants, but a grown frog eats insects.",
     "A female mosquito drinks blood for her eggs, and also drinks flower nectar.",
-    "A red panda in Sikkim belongs to the same big group as tigers, yet eats mostly bamboo."
+    "A red panda in Sikkim is related to meat-eaters like tigers, but it eats mostly bamboo."
    ],
    "perspectives": [
     {
@@ -187,7 +187,7 @@
    "concept": "Animals choose their food",
    "status": "debated",
    "definition": "Animals sense food and choose what to eat.",
-   "description": "Ants sense food with their antennae, the two thin feelers on their heads. They decide which food to carry home. A colony collects both kinds of food, because the young ants need protein to grow, and the workers mostly drink sugary food. Animals sense food and choose between foods, and many remember where good food is.",
+   "description": "Ants sense food with their antennae, the two thin feelers on their heads. They decide which food to carry home. A colony is all the ants that live together in one nest. A colony collects both kinds of food. The young ants need protein, a food that helps them grow, and a dead insect has plenty of protein. The workers mostly drink sugary food. Animals sense food and choose between foods, and many remember where good food is.",
    "examples": [
     "Ants found the banana and the dead insect, and carried bits home.",
     "A crow remembers the window where rice is put out each morning."
@@ -239,7 +239,7 @@
    "for": "The Indian pangolin is covered in hard scales, like a lizard.",
    "against": "A pangolin has some hair on the belly, and the mother feeds her baby milk. A pangolin is a mammal. One feature alone can fool you.",
    "status": "rejected",
-   "context": "This card is about the Indian pangolin, an animal with scales and hair."
+   "context": "A reptile is an animal like a lizard or a snake, with scaly skin. This card is about the Indian pangolin, an animal with scales and hair."
   },
   {
    "claim": "A plant-eater never eats animal food.",
@@ -259,7 +259,7 @@
   {
    "q": "A butterfly has wings and 6 legs. A fruit bat has wings and 2 legs. Are wings a good way to sort animals?",
    "kind": "deep",
-   "hint": "Think about what else the butterfly and the fruit bat share: covering, legs and food."
+   "hint": "Compare the butterfly and the fruit bat by covering, legs and food. Which things are the same, and which are different?"
   },
   {
    "q": "A human body can eat both plant food and animal food. Many people choose to eat only plants and milk. Which food group are they in?",
@@ -620,7 +620,16 @@
       ],
       "a": 1,
       "why": "A gecko has tiny scales and 4 legs. A rat snake has scales but no legs. A frog has 4 legs but bare, wet skin."
-     }
+     },
+     "ask": [
+      {
+       "q": "Which question helped you most? Why?",
+       "good": [
+        "Do you eat other animals? About half the cards say yes, so it cuts the cards into two big groups.",
+        "A question that animals answer differently helps most, because it rules out many animals at once."
+       ]
+      }
+     ]
     }
    ]
   }
@@ -860,7 +869,7 @@
      "do": "1. Spread out the 16 cards. 2. Your child sorts them by covering onto the plates. 3. Ask who is with the hen.",
      "say": "Sort every animal by what covers their body. Who is on the same plate as the hen?",
      "kid": "Sort the animals by their covering. Who is with the hen?",
-     "parent": "Feathers: crow, hen, parrot. The butterfly has tiny scales on the wings and a hard case, so either plate is fine if your child says why."
+     "parent": "The crow, the hen and the parrot all have feathers, so they sit on the same plate. The butterfly has tiny scales on the wings and a hard outer case. The butterfly can go on either the scales plate or the hard case plate, if your child says why."
     },
     {
      "id": "s2",
@@ -1547,14 +1556,14 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and her sister the second person are sorting animal cards.",
+     "p": "Two sisters are sorting animal cards.",
      "views": [
       {
-       "who": "The first person",
+       "who": "The first sister",
        "says": "Sort by covering. You can see it in one look."
       },
       {
-       "who": "The second person",
+       "who": "The second sister",
        "says": "Sort by food. Then you know how to feed each animal."
       }
      ],
@@ -1678,14 +1687,14 @@
     },
     {
      "t": "perspective",
-     "p": "Dr Meenakshi, a vet, and her nephew the first person are talking about dogs.",
+     "p": "Dr Meenakshi, a vet, and her nephew are talking about dogs.",
      "views": [
       {
        "who": "Dr Meenakshi",
        "says": "Dogs are meat-eaters. They come from wolves, and they have sharp teeth."
       },
       {
-       "who": "The first person",
+       "who": "Her nephew",
        "says": "Dogs eat both. Street dogs live on rice and chapati, and their bodies digest it well."
       }
      ],
@@ -1761,7 +1770,7 @@
   "At lunch: which foods on your plate came from plants, and which came from animals?",
   "What do you think that crow on the wall will eat today?",
   "Which animal at home is in the 'eats both' group with you?",
-  "If you could have any body covering, which would you choose, and why?"
+  "Which animals on your street have hair, and which have feathers?"
  ],
  "jokes": [
   {
@@ -1805,7 +1814,7 @@
   {
    "problem": "Three ants walk onto the banana in the ant test. Each ant has 6 legs. How many legs is that altogether?",
    "answer": "18 legs.",
-   "explain": "3 groups of 6 legs: 6, 12, 18. So 3 ants have 18 legs.",
+   "explain": "There are 3 groups of 6 legs. Count by sixes: 6, 12, 18. So 3 ants have 18 legs.",
    "math_unit": "math.multiplication.equal-groups.L2",
    "how": "e1",
    "context": "This is about the ant test, where ants came to the foods you put out.",

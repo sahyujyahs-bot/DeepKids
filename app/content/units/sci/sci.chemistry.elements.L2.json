@@ -3,7 +3,7 @@
  "title": "Elements: things made of just one kind of atom",
  "level": 2,
  "summary": {
-  "text": "A silver anklet that has gone black can shine again without any rubbing. Lay it on aluminium foil in hot water with cooking soda, and the black fades. The black was silver joined with another element, sulfur, and the foil takes the sulfur away. Gold, silver, iron, copper, carbon and oxygen are elements, each made of just one kind of atom. Water, salt and sugar are elements joined together.",
+  "text": "A silver anklet that has gone black can shine again without any rubbing. Lay it on aluminium foil in hot water with cooking soda, and the black fades. The black was silver joined with another element, sulfur, and the foil takes the sulfur away. Gold, silver, iron, copper, carbon and oxygen are elements, each made of just one kind of atom. Water, salt and sugar are not elements. Each one is made of two or more elements joined together.",
   "art": "A steel bowl lined with shiny foil, with a silver anklet lying in steaming water. One half of the anklet is black and the other half is bright silver."
  },
  "intro": {
@@ -91,9 +91,9 @@
    "definition": "An element is a substance made of just one kind of atom.",
    "description": "There are many kinds of atoms, and each kind has a name, like gold, iron, oxygen or carbon. A lump of pure gold has only gold atoms, and the oxygen in the air has only oxygen atoms. An iron nail is mostly iron atoms. Scientists know of 118 elements, and about 90 of them are found in nature.",
    "examples": [
-    "Gold: a pure gold coin has only gold atoms.",
-    "Oxygen: a gas in the air, made only of oxygen atoms.",
-    "Aluminium: kitchen foil is almost all aluminium atoms."
+    "A pure gold coin has only gold atoms in it.",
+    "Oxygen is a gas in the air, and it is made only of oxygen atoms.",
+    "Kitchen foil is aluminium. It is almost all aluminium atoms."
    ],
    "perspectives": [],
    "context": "This card says what an element is.",
@@ -105,9 +105,9 @@
    "definition": "Most substances are made of two or more kinds of atoms, joined together.",
    "description": "Water is not an element. Each tiny bit of water is two hydrogen atoms joined to one oxygen atom. Salt is sodium and chlorine joined, and sugar is carbon, hydrogen and oxygen joined. When elements join, they make something new: oxygen is a gas, but water is a liquid.",
    "examples": [
-    "Water: hydrogen and oxygen joined.",
-    "Salt: sodium and chlorine joined.",
-    "Sugar: carbon, hydrogen and oxygen joined."
+    "Water is made of hydrogen and oxygen joined together.",
+    "Salt is made of sodium and chlorine joined together.",
+    "Sugar is made of carbon, hydrogen and oxygen joined together."
    ],
    "perspectives": [],
    "context": "This card says why most things are not elements.",
@@ -117,7 +117,7 @@
    "concept": "Why silver goes dark and gold does not",
    "status": "defined",
    "definition": "Some elements join easily with other elements, and some hardly join at all.",
-   "description": "Silver joins with sulfur from the air, eggs and onions, and the black layer that forms is tarnish. Iron joins with oxygen and water and makes orange rust. Gold hardly joins with anything, so pure gold stays shiny for hundreds of years. On foil in hot soda water, the sulfur moves from the silver to the aluminium, and the silver shines again.",
+   "description": "Silver joins with sulfur from the air, eggs and onions, and the black layer that forms is tarnish. Iron joins with oxygen and water and makes orange rust. Gold hardly joins with anything, so pure gold stays shiny for hundreds of years. Aluminium holds on to sulfur more strongly than silver does. So on foil in hot soda water, the sulfur leaves the silver and joins the aluminium. Then the silver shines again.",
    "examples": [
     "Silver anklets and toe rings go grey, then black, over months.",
     "An iron gate goes rusty in the rain.",
@@ -193,7 +193,7 @@
    "for": "Water looks the same everywhere, and boiling or freezing it only gives you more water.",
    "against": "Water can be split into two gases, hydrogen and oxygen, using electricity. So water is two elements joined, not one element.",
    "status": "rejected",
-   "context": "This card is about an old idea of what elements are."
+   "context": "In this unit, an element is a substance made of just one kind of atom. This card is about an old idea, from long before anyone knew about atoms, that water was one of the basic things everything is made of."
   },
   {
    "claim": "Water kept in a copper pot overnight has fewer germs.",
@@ -213,17 +213,17 @@
   {
    "q": "Gold hardly joins with anything. Silver and iron join with other elements easily. Is it better to stay the same, or to join with others?",
    "kind": "big",
-   "hint": "Think about what water, salt and sugar would be if no element ever joined another."
+   "hint": "If no element ever joined with another, there would be no water, salt or sugar. Each of them is made of elements joined together."
   },
   {
    "q": "The oxygen you breathe out may later be breathed in by a crow or a neem tree. Whose oxygen is it?",
    "kind": "big",
-   "hint": "Think about where the oxygen was before you breathed it in."
+   "hint": "Before you breathed it in, that oxygen was in the air, where anyone could breathe it."
   },
   {
    "q": "If everything is made of about 90 natural elements, how can there be so many different things in the world?",
    "kind": "deep",
-   "hint": "Think about how many words you can make from just a few letters."
+   "hint": "About 26 letters can be put together in many ways to make every word in a book. In the same way, about 90 kinds of atoms can join in many ways to make many different things."
   }
  ],
  "story": {
@@ -478,7 +478,8 @@
      },
      "parent": "This is the main idea of the unit. Tell your child now: the dark layer was silver joined with sulfur. The foil, which is aluminium, took the sulfur. The same silver atoms stayed on the anklet. Scrubbing rubs a little silver off with the black. The foil bowl keeps all the silver."
     }
-   ]
+   ],
+   "problem": "The black on old silver is silver joined with sulfur from the air. Aluminium foil holds on to sulfur more strongly than silver does. So when dark silver touches foil in hot soda water, the sulfur may leave the silver and join the foil. We will test if the foil makes a difference."
   },
   {
    "id": "e2",
@@ -601,7 +602,8 @@
      },
      "parent": "Here the dull layer is washed away into the tamarind water, so a very thin bit of metal goes with it. In the foil bowl, the silver stayed on the anklet. These are two different ways to get a shine back."
     }
-   ]
+   ],
+   "problem": "Brass and copper go dull because a thin layer forms on them when the metal joins with oxygen and other things in the air. Tamarind is sour, which means it has an acid in it. An acid can dissolve this dull layer. We will test if tamarind brings back the shine."
   }
  ],
  "activities": [
@@ -815,7 +817,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Your child colours a square, about two fingers wide, very dark. 2. They tilt the paper in the light.",
-     "say": "Colour it really dark. Now tilt the paper towards the window. What do you see?",
+     "say": "Colour it really dark. Now tilt the paper towards the window. Does it shine a little, like a metal?",
      "kid": "Colour a square very dark. Tilt it in the light. Does it shine?",
      "parent": "A thick pencil patch shines a little like metal. That is why people long ago thought it was the metal lead."
     },
@@ -843,7 +845,8 @@
       }
      ]
     }
-   ]
+   ],
+   "problem": "People call the black part of a pencil 'lead', as if it were the metal lead. But it is not lead. It is graphite, which is a form of the element carbon. Look at what a pencil leaves on paper, and you will see why people long ago thought it was a metal."
   },
   {
    "id": "a4",
@@ -1047,8 +1050,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Look at the cards left on the mat, then ask the question below.",
-     "say": "These cards stayed on the mat because someone guessed wrong. Which one surprised you? Why do you think most things are made of two or more elements?",
-     "kid": "Look at the cards left on the mat. Which one surprised you?",
+     "say": "These cards stayed on the mat because someone guessed wrong. What is the right answer for each one? Why do you think most things are made of two or more elements?",
+     "kid": "Look at the cards left on the mat. What is the right answer for each one?",
      "check": {
       "t": "mcq",
       "q": "A steel tumbler is…",
@@ -1215,8 +1218,8 @@
      "id": "s2",
      "mins": 6,
      "do": "On day 5, make a cover and read the whole book together.",
-     "say": "Read me your book. Which element was the most surprising? Why?",
-     "kid": "Make a cover. Read your book out loud. Which element surprised you?",
+     "say": "Read me your book. Which of your five elements is a gas? Which ones are metals?",
+     "kid": "Make a cover. Read your book out loud. Which element is a gas? Which are metals?",
      "check": {
       "t": "mcq",
       "q": "Which element in your book is a gas?",
@@ -1227,7 +1230,8 @@
       ],
       "a": 2,
       "why": "Oxygen is a gas in the air. Gold and iron are solid metals."
-     }
+     },
+     "parent": "The gas is oxygen. The metals are gold, silver and iron. Carbon is neither. It is a black solid that is not a metal."
     }
    ]
   }
@@ -1238,7 +1242,7 @@
    "title": "Keep the Silver Bright: design a better silver box",
    "mins": 20,
    "context": "This is a design challenge. Silver goes dark when sulfur from the air reaches it. Can you design a way to store silver so it stays bright for longer?",
-   "problem": "Design a way to store a silver coin or anklet at home so that it goes dark as slowly as possible.",
+   "problem": "Silver goes dark when it joins with sulfur from the air. So a good box keeps as much air, and the sulfur in it, away from the silver as it can. Design a way to store a silver coin or anklet at home so that it goes dark as slowly as possible.",
    "constraints": [
     "Use only things from home.",
     "The silver must be easy to take out and wear.",
@@ -1360,7 +1364,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Gold, oxygen and aluminium foil each have one kind of atom. Water, salt and sugar are elements joined together."
+     "why": "Gold, oxygen and aluminium foil each have one kind of atom. Water, salt and sugar are each made of elements joined together."
     },
     {
      "t": "draw",
@@ -1555,20 +1559,20 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and the second person want to make a dark silver coin shine for Diwali.",
+     "p": "Two cousins want to make a dark silver coin shine for Diwali.",
      "views": [
       {
-       "who": "The first person",
+       "who": "The first cousin",
        "says": "Let's scrub it with toothpaste. It's quick, and we can see the black come off."
       },
       {
-       "who": "The second person",
+       "who": "The second cousin",
        "says": "Let's use the foil bowl. It takes longer, but the silver stays on the coin."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer gives a reason. For example: 'The second person, because scrubbing rubs a little silver away, and the foil bowl keeps all the silver.' Then it is fair to the first person: scrubbing is quick and works on silver that cannot go in hot water.",
+     "a": "A strong answer gives a reason. For example: 'The second cousin, because scrubbing rubs a little silver away, and the foil bowl keeps all the silver.' Then it is fair to the first cousin: scrubbing is quick and works on silver that cannot go in hot water.",
      "why": "Both work. Scrubbing takes the tarnish off along with a little silver. The foil method takes away only the sulfur, so the silver stays. But silver with stones or a dark design should not go in the foil bowl.",
      "how": "e1"
     }
@@ -1705,7 +1709,7 @@
     "Water"
    ],
    "a": 1,
-   "why": "Gold has only one kind of atom. Salt and water are elements joined together.",
+   "why": "Gold has only one kind of atom. Salt and water are each made of elements joined together.",
    "outcome": 1
   },
   {
@@ -2115,7 +2119,7 @@
   "three": {
    "who_am_i": "You are made of elements too, like carbon, oxygen and iron. They joined to make you, and they are still themselves inside you.",
    "what_is_life": "Living beings take in elements from food, water and air, use them, and give them back. The oxygen in your breath goes back into the air.",
-   "what_is_this_world": "The whole world is made of about 90 natural elements, joined in endless ways, like a few letters making every word."
+   "what_is_this_world": "The whole world is made of about 90 natural elements. They join in many different ways, just as a few letters can be put together to make every word."
   },
   "thread": "A few kinds of atoms make up everything: the anklet, the tamarind, the air and you. Each element joins with others to make new things, then can come out again, still itself. Silver joined with sulfur and went black, then came back as silver. Everything is conscious, down to each atom, so the silver and the sulfur take part in this joining and parting. Many scientists say atoms only follow forces, and have no inner life.",
   "teachings": [
@@ -2147,7 +2151,7 @@
   "practice": {
    "title": "Breathe the same oxygen",
    "mins": 3,
-   "say": "Sit still and close your eyes. Breathe in slowly through your nose. The air going in has oxygen in it. Some of that oxygen was given out by a tree or a plant, not long ago. Now breathe out slowly. Some of your oxygen goes back into the air, joined with carbon. Breathe in and out three more times. Each time, think: the same oxygen, passing through many beings.",
+   "say": "Sit still and close your eyes. Breathe in slowly through your nose. The air going in has oxygen in it. Some of that oxygen was given out by a tree or a plant, not long ago. Now breathe out slowly. Some of that oxygen leaves your body again, joined with carbon in a gas called carbon dioxide. Breathe in and out three more times. Each time, think: the same oxygen, passing through many beings.",
    "kid": "Close your eyes. Breathe in slowly. That air has oxygen. A tree or a plant gave out some of that oxygen. Breathe out. Do it three more times."
   },
   "ask": [

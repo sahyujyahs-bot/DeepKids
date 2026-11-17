@@ -186,12 +186,12 @@
   {
    "q": "Melted butter set again, but ghee never became butter again. When does a thing stop being itself and become something new?",
    "kind": "big",
-   "hint": "Think about butter, ghee, milk and curd. Which ones still have the same parts inside?"
+   "hint": "Melted butter still has all the same parts as before, so it can set again. Ghee has lost its water, so its parts are different. What about milk and curd?"
   },
   {
    "q": "Bacteria set the curd while you slept. Who made the curd: you, or the bacteria?",
    "kind": "big",
-   "hint": "Think about who stirred in the curd, who did the changing, and who ate it."
+   "hint": "You stirred a spoon of curd into the milk. The bacteria did the changing overnight. Then you ate the curd. So who made it?"
   },
   {
    "q": "Could anything change and then go back to exactly how it was, with nothing at all different?",
@@ -201,7 +201,7 @@
   {
    "q": "A spoon of curd can turn a whole bowl of milk into curd. How can something so small change something so big?",
    "kind": "big",
-   "hint": "Think about what the bacteria do while the milk is warm."
+   "hint": "A spoon of curd holds millions of bacteria. While the milk is warm, they eat the milk sugar and make acid, and the acid thickens all of the milk."
   }
  ],
  "story": {
@@ -626,7 +626,8 @@
      "do": "1. While the timer runs, your child draws one dry grain, large. 2. Next to it, they draw how they think a boiled grain will look.",
      "say": "Draw a dry grain, big. Now draw what you think a boiled grain will look like. Will it be the same shape?",
      "kid": "Draw a dry grain. Then draw how you think a boiled one will look.",
-     "think": "Where might the water go?"
+     "think": "If the grain gets bigger as it cooks, what might it be taking in from the pan?",
+     "parent": "A good guess is the water. You will check this when you measure the lines of grains."
     },
     {
      "id": "s6",
@@ -972,7 +973,8 @@
      },
      "parent": "The gently melted butter sets solid and pale yellow again. It may look a little different, with a thin watery layer underneath. The ghee may stay soft or set grainy. It is golden, has brown bits and smells nutty. Both are worth eating with rice afterwards."
     }
-   ]
+   ],
+   "problem": "Butter is mostly fat, with a little water and some milk mixed in. When butter is warmed gently, it melts, and when it cools, it sets again. If butter is heated for longer, the water in it boils away. We will see what happens when each spoon of butter cools."
   },
   {
    "id": "a2",
@@ -1254,13 +1256,13 @@
      "id": "s2",
      "mins": 6,
      "do": "On day 5, lay out all five pages. Your child ticks the ones that can go back.",
-     "say": "How many of your five changes can go back? Which change surprised you most?",
+     "say": "How many of your five changes can go back? How do you know?",
      "kid": "Which changes can go back? Count them.",
      "ask": [
       {
-       "q": "Which change surprised you most?",
+       "q": "How can you tell if a change can go back?",
        "good": [
-        "Any change with a reason, for example popcorn, because it was so much bigger."
+        "If I can cool or warm it and get back what I started with, it can go back. Melted butter is one."
        ]
       }
      ]
@@ -1274,7 +1276,7 @@
    "title": "Set the Butter Fast, Without the Fridge",
    "mins": 20,
    "context": "This is a design challenge. Can you make melted butter set again quickly, without putting it in the fridge or freezer?",
-   "problem": "A grown-up melts four spoons of butter: three for the three ways below and one for your own idea. Find the fastest way to make melted butter set solid again, without putting it in the fridge or freezer.",
+   "problem": "A grown-up melts four spoons of butter: three for the three ways below and one for your own idea. Melted butter sets when it loses its heat and gets cold. So the way to make it set fast is to take its heat away fast. Find the fastest way to make melted butter set solid again, without putting it in the fridge or freezer.",
    "constraints": [
     "The butter itself does not go in the fridge or freezer.",
     "Use only things from home. Ice cubes are allowed.",
@@ -1313,7 +1315,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. A grown-up melts the butter in katoris standing in hot water. 2. Your child chooses three ways to cool it.",
-     "say": "Today the butter cannot go in the fridge. How could we make it set fast? What takes heat away?",
+     "say": "Today the butter cannot go in the fridge. Melted butter sets when it loses its heat. What could take the heat away fast?",
      "kid": "How can you make the butter set fast, without the fridge?",
      "adult": true
     },
@@ -1635,20 +1637,20 @@
     },
     {
      "t": "perspective",
-     "p": "The second person, a girl of 8, and her brother the first person, who is 6, melted some butter. Then they put it in the freezer, and it set again.",
+     "p": "A girl of 8 and her brother, who is 6, melted some butter. Then they put it in the freezer, and it set again.",
      "views": [
       {
-       "who": "The first person",
+       "who": "The brother, aged 6",
        "says": "It is solid butter again. So nothing changed."
       },
       {
-       "who": "The second person",
+       "who": "The sister, aged 8",
        "says": "It looks a little different now. There is a watery layer underneath. So it did change a bit."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason. For example: 'The first person, because it is butter and it is solid again.' Then it is fair to the second person: it may look a little different, because the water and milk bits settled.",
+     "a": "A strong answer picks a side with a reason. For example: 'The brother, because it is butter and it is solid again.' Then it is fair to the sister: it may look a little different, because the water and milk bits settled.",
      "why": "Both are partly right. The fat melted and set again, so that part went back. But the water and milk bits may have moved, so it is not exactly the same as before.",
      "how": "a1"
     },
@@ -1717,20 +1719,20 @@
     },
     {
      "t": "perspective",
-     "p": "The first person, a girl of 8, and her friend the second person, who is 8 too, are eating curd rice.",
+     "p": "Two friends, both aged 8, are eating curd rice.",
      "views": [
       {
-       "who": "The first person",
+       "who": "The first friend",
        "says": "Rice is a food. You chew it, so it is not a drink."
       },
       {
-       "who": "The second person",
+       "who": "The second friend",
        "says": "Cooked rice is mostly water. So eating rice is a bit like drinking water."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side with a reason, for example: 'The second person, because the rice drank two cups of water when it cooked.' Then it is fair to the first person: the water is held inside the grains, so you chew it as food.",
+     "a": "A strong answer picks a side with a reason, for example: 'The second friend, because the rice drank two cups of water when it cooked.' Then it is fair to the first friend: the water is held inside the grains, so you chew it as food.",
      "why": "Both are right in a way. Cooked rice is more than half water, so it does give your body water. But the water is held inside the soft grains, so we eat it as a food."
     },
     {
@@ -1798,20 +1800,20 @@
     },
     {
      "t": "perspective",
-     "p": "Two cooks make rice in different ways. Lakshmi Paati, in Chennai, soaks rice for 20 minutes before cooking. The first person, in Kolkata, cooks it straight from the packet.",
+     "p": "Two cooks make rice in different ways. Lakshmi Paati, in Chennai, soaks rice for 20 minutes before cooking. Another cook, in Kolkata, cooks it straight from the packet.",
      "views": [
       {
        "who": "Lakshmi Paati",
        "says": "Soaking lets the water start going in. So the rice cooks faster and uses less gas."
       },
       {
-       "who": "The first person",
+       "who": "The cook in Kolkata",
        "says": "In the morning rush, I have no time to wait 20 minutes. It only saves a few minutes anyway."
       }
      ],
      "ask": "Whose way would you choose? Why? Then say one thing the other cook has right.",
      "lines": 3,
-     "a": "A strong answer chooses a way and gives a reason, then is fair to the other cook. For example: 'Lakshmi Paati, because saving gas matters. But the first person is right that soaking takes planning.'",
+     "a": "A strong answer chooses a way and gives a reason, then is fair to the other cook. For example: 'Lakshmi Paati, because saving gas matters. But the cook in Kolkata is right that soaking takes planning.'",
      "why": "This is a real trade-off. Soaking saves a few minutes of cooking and some gas. Not soaking saves planning time. Both are sensible."
     },
     {
@@ -2007,7 +2009,7 @@
   {
    "problem": "One tumbler of dry rice makes about 3 tumblers of cooked rice. A cook is making rice for a family lunch with 3 tumblers of dry rice. About how many tumblers of cooked rice will there be?",
    "answer": "About 9 tumblers.",
-   "explain": "Each tumbler of dry rice becomes 3 tumblers. 3 and 3 and 3 makes 9.",
+   "explain": "Each tumbler of dry rice becomes 3 tumblers. So 3 tumblers become 3 plus 3 plus 3, which is 9.",
    "math_unit": "math.multiplication.equal-groups.L2",
    "how": "a4",
    "context": "This is about counting tumblers of rice before and after cooking.",

@@ -125,7 +125,7 @@
    "examples": [
     "A ruler bent a little springs back.",
     "A paper clip bent a lot stays bent.",
-    "A strip of foil stays bent even after a small bend.",
+    "A strip of foil stays bent, even after a small bend. It does not spring back.",
     "A toothpick snaps when bent too far."
    ],
    "perspectives": [],
@@ -214,7 +214,7 @@
   {
    "q": "If a change cannot be undone, is that always bad?",
    "kind": "big",
-   "hint": "Think of a dosa, a clay pot and a seed growing into a plant."
+   "hint": "A dosa, a clay pot and a seed that grows into a plant are all changes that cannot be undone. Would you want to undo any of them?"
   }
  ],
  "how_we_found_out": {
@@ -262,7 +262,7 @@
   "ask": [
    "What could Selvi do to her crooked pot before the fire? Why?",
    "Why did the dried piece go soft in water, but the fired piece stay hard?",
-   "Selvi's fingerprint stayed in her pot for ever. What else around you keeps a mark of how it was made?"
+   "Why will Selvi's fingerprint stay in her pot for ever?"
   ],
   "art": [
    "A girl kneeling in a sunny yard, pressing a lump of grey clay into a little pot, with a boy watching.",
@@ -653,7 +653,7 @@
      "kid": "Bend it gently. Count to five. Let go. What did it do? Tick a box.",
      "ask": [
       {
-       "q": "Was anything a surprise?",
+       "q": "Did any thing do something different from your guess? What did it do?",
        "good": [
         "The broom stick sprang back. I thought it would break.",
         "The foil stayed bent even after a little bend."
@@ -766,7 +766,7 @@
       }
      ],
      "think": "Can you think of a way to get the lines out?",
-     "parent": "The sheet is flat again, but it is covered in crease lines that do not go away. Let your child decide whether the change was undone. Both 'yes' and 'partly' are good answers if they give a reason."
+     "parent": "The sheet is flat again, but it is covered in crease lines that do not go away. Let your child decide whether the change was undone. Both 'yes' and 'partly' are good answers if they give a reason. Your child may suggest pressing it under a heavy book or ironing it. These can make the lines fainter, but they rarely take them away completely."
     }
    ]
   },
@@ -859,7 +859,7 @@
        ]
       }
      ],
-     "parent": "Two things can look alike and still act very differently when squashed. Eat the bread, or give it to the crows at the window."
+     "parent": "A good answer is that the sponge is springy, but the soft walls of the bread stick together when they are squashed. Two things can look alike and still act very differently when squashed. Then eat the bread, or give it to the crows at the window."
     }
    ]
   },
@@ -1365,7 +1365,7 @@
      "mins": 7,
      "wait": "The day after",
      "do": "1. Your child finds two more changes. 2. Then reads the whole diary aloud to someone at home.",
-     "say": "Read me your diary. Which page has the change you liked best? Why?",
+     "say": "Read me your diary. Which of your changes could be undone, and which could not? How do you know?",
      "kid": "Find two more changes. Then read your diary to someone at home.",
      "parent": "Praise the reasons more than the drawings. 'I can't undo it because the heat made it a new thing' is a strong reason."
     }
@@ -1378,7 +1378,7 @@
    "title": "The Folded Paper Bridge: how many coins can it hold?",
    "mins": 20,
    "context": "This is a design challenge. A flat sheet of paper laid across two tumblers sags when you put a coin on it. You change its shape by bending and folding, to make it hold as many coins as you can.",
-   "problem": "Make one sheet of paper hold as many coins as you can between two steel tumblers. You may only bend and fold the paper.",
+   "problem": "Make one sheet of paper hold as many coins as you can between two steel tumblers. You may only bend and fold the paper. Bending and folding change only the shape of the paper. A new shape can make a thing stiffer, and that is what you will test.",
    "constraints": [
     "Use one sheet of paper the size of a notebook page.",
     "Do not use glue or tape.",
@@ -1447,6 +1447,13 @@
        "good": [
         "I can unfold it, but the fold lines stay.",
         "Partly. The shape goes back, the lines don't."
+       ]
+      },
+      {
+       "q": "Why did folding make the paper hold more coins?",
+       "good": [
+        "Folding made the paper stiffer. It is still the same paper, and only its shape changed.",
+        "The folds make the paper hard to bend, so it sags less."
        ]
       }
      ],
@@ -1587,20 +1594,20 @@
     },
     {
      "t": "perspective",
-     "p": "The first person crumples a sheet of paper and then presses it flat again. She and her friend the second person look at it.",
+     "p": "A girl crumples a sheet of paper and then presses it flat again. She and her friend look at it.",
      "views": [
       {
-       "who": "The first person",
+       "who": "The girl",
        "says": "It is flat again, so the change is undone."
       },
       {
-       "who": "The second person",
+       "who": "Her friend",
        "says": "It still has lines all over it, so the change is not undone."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer picks a side and gives a reason, for example agreeing with the second person because the crease lines stay. It also says the first person is right that the shape and the size have gone back.",
+     "a": "A strong answer picks a side and gives a reason, for example agreeing with the friend because the crease lines stay. It also says the girl is right that the shape and the size have gone back.",
      "why": "Both are partly right. The shape went back but the creases did not. Some changes can be undone only partly."
     },
     {
@@ -1752,10 +1759,10 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and her Ajji, her grandmother, look at a boiled egg.",
+     "p": "A girl aged 7 and her Ajji, her grandmother, look at a boiled egg.",
      "views": [
       {
-       "who": "The first child, aged 7",
+       "who": "The girl, aged 7",
        "says": "A boiled egg can never be uncooked. Nobody can do it."
       },
       {
@@ -1765,7 +1772,7 @@
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing the other person has right.",
      "lines": 3,
-     "a": "A strong answer sees that both have a point. Ajji is right that scientists in 2015 undid one small part of boiled egg white. The first child is right that nobody can turn a boiled egg back into a raw egg in a kitchen.",
+     "a": "A strong answer sees that both have a point. Ajji is right that scientists in 2015 undid one small part of boiled egg white. The girl is right that nobody can turn a boiled egg back into a raw egg in a kitchen.",
      "why": "Science sometimes undoes a change people thought was for ever, but only a part of it, with special tools."
     },
     {
