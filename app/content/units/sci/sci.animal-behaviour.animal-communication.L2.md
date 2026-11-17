@@ -27,14 +27,14 @@
 ### What communicating is · *defined*
 **Definition:** Communicating is sending a signal that another being notices and acts on.
 
-Every message needs two: a sender and a receiver. The sender gives a signal. The signal can be a sound, a movement, a touch or a smell. The receiver notices the signal and does something because of it. A crow caws at a cat, and the other crows fly up. A hen clucks, and her chicks come running. Humans are animals too, and we communicate with words, faces, hands and the tune of our voice.
+Every message needs two beings: a sender and a receiver. The sender gives a signal. The signal can be a sound, a movement, a touch or a smell. The receiver notices the signal and does something because of it. A crow caws at a cat, and the other crows fly up. A hen clucks, and her chicks come running. Humans are animals too, and we communicate with words, faces, hands and the tune of our voice.
 - e.g. A street dog barks at a stranger, and the watchman comes to the gate.
 - e.g. Two ants meet and touch antennae, then one turns round and follows the other's path.
 - e.g. A baby cries, and her mother picks her up.
 ### How birds talk: songs and calls · *defined*
 **Definition:** A bird's call is short and carries one message. A bird's song is longer, is repeated again and again, and often says 'this is my place' or 'choose me'.
 
-Calls are for everyday messages: 'danger', 'I am here', 'feed me'. Songs are longer, and many songbirds learn them by listening to grown-up birds, the way you learned to talk. People once thought only male birds sing. In 2014 a team led by Karan Odom checked over a thousand kinds of songbirds. In most of the kinds that they could check, the females sing too.
+Calls are for everyday messages. A call can mean 'danger', 'I am here' or 'feed me'. Songs are longer, and many songbirds learn them by listening to grown-up birds, the way you learned to talk. People once thought only male birds sing. In 2014 a team led by Karan Odom checked over a thousand kinds of songbirds. In most of the kinds that they could check, the females sing too.
 - e.g. A male koel calls 'ku-oo, ku-oo', higher each time, again and again in the hot months. A female koel has her own sharp 'kik-kik-kik' call.
 - e.g. A magpie robin sings a long, sweet song from a rooftop at dawn.
 - e.g. A bulbul gives a sharp alarm call when a cat comes near the nest.
@@ -54,7 +54,7 @@ A cat purrs with her voice box, the part of the throat that makes sounds. The pu
 - **Karen McComb and her team, in England (2009):** When some cats purr for food, they hide a high cry inside the purr. People find this purr harder to ignore. So a purr can also be a way of asking.
 - **Other scientists:** A cat may purr when hurt to calm herself. Some think the buzz may even help the body heal. This idea has not been shown yet.
 ### The tune carries the message · *idea*
-In 1977 Eugene Morton, a bird scientist in America, compared the sounds of many birds and mammals. Low, rough sounds often mean 'stay away'. High, soft, clear sounds often mean 'I am friendly', 'I am scared' or 'help me'. A big body makes a deeper sound, so a low growl makes an animal sound bigger. In 2017 Piera Filippi and her team played sounds of frogs, alligators, pandas and elephants to people, and most people could hear whether the animal was calm or excited. This is a pattern with exceptions, not a rule for every sound.
+The tune of a sound is how high or low it is, how rough or smooth it is, and how loud or soft it is. Scientists have found that the tune can carry a message. In 1977 Eugene Morton, a bird scientist in America, compared the sounds of many birds and mammals. Low, rough sounds often mean 'stay away'. High, soft, clear sounds often mean 'I am friendly', 'I am scared' or 'help me'. A big body makes a deeper sound, so a low growl makes an animal sound bigger. In 2017 Piera Filippi and her team played sounds of frogs, alligators, pandas and elephants to people, and most people could hear whether the animal was calm or excited. This is a pattern with exceptions, not a rule for every sound.
 - e.g. A dog growls low over a bone. A puppy whines high when left alone.
 - e.g. A cat hisses with a rough sound when a strange dog comes near.
 - e.g. People speak low and rough when they are angry, and high and soft to a baby.
@@ -76,7 +76,7 @@ A cat with her tail straight up is saying hello. A cat with puffed-up fur and an
 *What people believed before:* That animal calls are only cries of feeling and cannot tell others about the world. The hidden-speaker tests showed that each vervet call tells the others which danger is near.
 
 ## Challenging perspectives
-- **Only male birds sing.** (A common idea in many old bird books, written mostly in Europe and North America, where in many kinds of birds mostly males sing.; *rejected*)  
+- **Only male birds sing.** (A common idea in old bird books. Most of them were written in Europe and North America, where in many kinds of birds it is mostly the males who sing.; *rejected*)  
   For: In many birds near those scientists' homes, the males sang far more than the females.  
   Against: In 2014, a team led by Karan Odom checked over a thousand kinds of songbirds around the world. In most of the kinds they could check, females sing too. In many tropical birds, a female and male even sing a duet together.
 - **A wagging tail always means a dog is happy and friendly.** (A very common idea; *rejected*)  
@@ -92,8 +92,8 @@ A cat with her tail straight up is saying hello. A cat with puffed-up fur and an
 ## Roots
 We have listened to barks, purrs and birdsong, and sent messages with only 'la-la'. Now we ask what the la-la test tells us about ourselves and other animals.
 
-**Deep truth.** In your test, the listener guessed 'go away' or 'scared' from a sound with no words. Dogs, cats and people all make low, rough sounds to warn others off. High, soft sounds often mean 'I am friendly' or 'help me'. So the tune of a sound carries a message that many kinds of animals understand.  
-*Habit it breaks:* We think a message lives in its words, so animals without words have nothing to say. But in your test the word never changed, and the message still got through.  
+**Deep truth.** In the la-la test, the listener guessed 'go away' or 'scared' from a sound with no words. Dogs, cats and people all make low, rough sounds to warn others off. High, soft sounds often mean 'I am friendly' or 'help me'. So the tune of a sound carries a message that many kinds of animals understand.  
+*Habit it breaks:* We think a message lives in its words, so animals without words have nothing to say. But in the la-la test the word was always 'la-la', and the message still got through.  
 *Evidence:* In the la-la test, the listener got far more right than guessing alone would give. In 1977 Eugene Morton found that many birds and mammals use low, rough sounds to threaten and high, clear sounds when friendly or afraid. In 2017 Piera Filippi and her team found that people can hear whether frogs, alligators, pandas and elephants are calm or excited.
 
 - *who am i:* You are an animal who talks with words, and also with the tune of your voice. A dog notices your tune as well as your words.
@@ -107,7 +107,7 @@ Every message needs two beings: one who sends and one who receives. A crow's ala
 - Science (settled): Vervet monkeys have different alarm calls for leopards, eagles and snakes, and act on each call even when no danger is there.
 - Science (open): Whether any animal other than humans has words, or a language like ours, is still argued about.
 - Other view, Many scientists who study language, such as Noam Chomsky: They say animal sounds are signals, not language. A call can say 'danger', but animals do not put sounds together to say endless new things, as people do with words. Some scientists also think many animal calls simply burst out with a feeling, the way you shout 'ow!', and are not chosen.
-- Practice, Listen for the tune (3 min): Sit by the window and close your eyes. Listen for three sounds outside. For each one, ask yourself: is this sound calm or excited? Now put your hand on your chest. Hum low and slow, like a purr, for three long breaths. How do you feel now?
+- Practice, Listen for the tune (3 min): Sit by the window and close your eyes. Listen for three sounds outside. For each one, ask yourself: is this sound calm or excited? Now put your hand on your chest. Hum low and slow, like a purr, for three long breaths. Does the low, slow hum feel calm or excited?
 - Ask: When you are cross, does your voice go higher or lower? Why do you think that happens?
 - Ask: A purr can mean 'I am calm' and 'I am hurt'. How do you know what someone means, when the sound is the same?
 - Ask: Why does a message need two beings, one to send it and one to notice it?
@@ -195,7 +195,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 - Ask: How did Kavya know that Rani's evening bark meant 'let's play'?
 - Ask: Why was Bekku purring on the vet's table?
 - Ask: In the la-la game, how did Rohan guess 'Go away!' with no words?
-- Ask: What do you think Kavya and Rohan will try with Rani tomorrow?
+- Ask: Kavya says Rani hears our tune. How could they test whether Rani knows her own name?
 
 ## Games
 ### g1 · Who Said That? Act the sound, guess the message (15 min)
@@ -215,6 +215,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   *Parent does:* Ask which cards were easiest to guess, and why.  
   *Parent says:* Which cards were easiest to guess? Were they the low, rough ones or the high, soft ones?  
   *Child mode:* Which ones were easy? Why?
+  - Note: Many children find the low, rough 'stay away' cards easiest, such as the growl and the hiss. That matches the unit: a low, rough sound often means 'stay away'.
   - Check: A cat arches her back, puffs up her fur and hisses. What is her message? → **Stay away from me!**
 ### g2 · Find My Chick: a voice game (15 min)
 - **rules:** One player is the parent penguin. Everyone else is a chick. Use one call card for each chick.; Each chick picks one call card. One chick, chosen by the players, is the parent's own chick.; The parent's own chick says their call once in the parent's ear, so the parent learns it.; The parent puts on a soft blindfold, like a dupatta. A grown-up spins the parent gently once.; All the chicks stand around the room and say their own call again and again, at the same time.; The parent walks slowly with hands in front and listens, then touches one chick. If it is the parent's own chick, the parent takes a fish token. If not, that chick goes quiet, and the parent may try once more.; Swap roles. The game ends when everyone has been the parent twice. The player with the most fish wins. If it is a tie, the family shares the catch.; With only two players, the chick hides behind a sofa or a curtain and calls again and again. The parent finds the chick by the call.
@@ -261,7 +262,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   *Child mode:* Take the bowl behind the door. Do not let the listener see you.
   - Note: Hiding matters. If the listener can see a face, the face gives the answer away. Then we would not know what the sound alone can do.
 - **s4 (10 min)**  
-  *Parent does:* 1. The sender picks one slip and reads it silently. 2. The sender says 'la-la' once or twice, in the way the slip says. 3. The listener says their guess. 4. Write the slip, the guess, and right or wrong. 5. Put the slip aside. 6. Do all 12 slips.  
+  *Parent does:* 1. The sender picks one slip and reads it silently. 2. The sender says 'la-la' once or twice, in a voice that fits the message on the slip. 3. The listener says their guess. 4. Write down the message on the slip, the guess, and whether the guess was right or wrong. 5. Put the slip aside. 6. Do all 12 slips.  
   *Parent says:* Pick a slip. Don't tell me what it says. Just say 'la-la' the way the message feels. I'll guess.  
   *Child mode:* Pick a slip. Say only 'la-la'. Make it sound like the message.
   - Note: Do not give hints, and do not say whether a guess was right until all 12 are done. A hint helps the next guess and makes the test unfair. If your child says a real word by mistake, put that slip back in the bowl.
@@ -275,7 +276,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   *Parent says:* How many did we get right? Which message got through best? When you said 'go away', was your voice high or low? Rough or smooth? And when you were scared?  
   *Child mode:* Count the right guesses. Which message was easiest? Was 'go away' low or high?
   - Ask: What did you hear that told you the message? (good: The 'go away' was low and loud and rough.; The scared one was high and shaky.; The happy one went up and down, like singing.)
-  - Note: A strong answer uses what your child saw: 'I got 9 right. The go away one was low and rough, and I got it every time.' Now read the card 'The tune carries the message'. Messages that are often mixed up, like 'happy' and 'come here', are normal. Both are friendly sounds.
+  - Note: A strong answer uses what your child saw: 'I got 9 right. The go away one was low and rough, and I got it every time.' Now read the card 'The tune carries the message'. It is normal to mix up 'I am happy' and 'Come here!'. Both are friendly sounds.
   - Check: In the la-la test, the word was the same every time. What carried the message? → **The tune of the voice: high or low, rough or smooth, loud or soft**
 ### e2 · Do They Know Their Name? A test with a pet cat or dog (if you have one) (20 min)
 - **question:** Does a pet cat or dog move more when they hear their own name than when they hear other words like it?
@@ -298,7 +299,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   *Parent does:* 1. Stand where the pet cannot see your face. 2. Say the first word in a normal voice. 3. Watch for 15 seconds. Did the ears move? Did the head turn? 4. Write ticks or crosses. 5. Do the same for words 2, 3 and 4. 6. Then say the name, the same way.  
   *Parent says:* Same voice every time. Now watch closely. Did the ears move? Did the head turn?  
   *Child mode:* Watch the ears and the head. Tick what you see.
-  - Note: Ears can move very quickly. Watch the ears, not just the head. If the pet walks away, stop and try another day. A pet who comes to you is giving a big answer.
+  - Note: Ears can move very quickly. Watch the ears, not just the head. If the pet walks away, stop and try another day. If the pet comes to you, that is a strong sign that they noticed the word.
 - **s4 (4 min)**  
   *Parent does:* Another day, or after an hour, let a different family member say the words and the name. Use the same words in the same order.  
   *Parent says:* Let's try with another voice. Does the pet notice their name from a different person too?  
@@ -354,6 +355,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   *Parent does:* Ask which message would work best in the dark, and which would work far away.  
   *Parent says:* Which of our messages would work in the dark? Which one could a friend hear far away?  
   *Child mode:* Which message works in the dark? Which one goes far?
+  - Note: Good answers are the comb chirp and the drumming, because sound needs no light. Drumming on a hard thing, like a dead branch, also carries far.
   - Check: A cricket sings at night in a potted plant. Why is a sound a good message at night? → **Sound works in the dark, when nobody can see a movement**
 ### a3 · Say Hello Like a Cat: the slow blink (if a cat is near) (10 min)
 - **safety:** Stay about two big steps away, and let the cat choose whether to come to you. Do not try this with a cat who is hiding, hissing or has her ears flat.
@@ -399,7 +401,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 
 ## Challenges
 ### c1 · Be a Tree Cricket: make a phone louder with no electricity (20 min)
-- **problem:** Can you make a phone's music reach farther across your flat using only paper, cups, tumblers or cardboard, with no extra speaker and no electricity?
+- **problem:** Can you make a phone's music reach farther across your flat using only paper, cups, tumblers or cardboard, with no extra speaker and no electricity? A leaf with a hole in it works like a wall between the front and the back of the cricket's wing. The wall stops the sound from going all around the wing and fading, so the song carries farther. Hard sides, like a tumbler or a paper cone, also push the sound the way you want it to go.
 - **your turn:** Design your own phone speaker. Count how many steps away you can still hear the music with no speaker, and then with your design. Change one thing and test again.
 - **constraints:** Keep the phone at the same low loudness every time, so the sound fades away in a few steps.; Use only things from home: paper, a steel tumbler, a plastic cup, a bowl, a cardboard tube.; Do not cut or wet the phone. A grown-up handles any scissors.; Test by walking away from the phone until you can no longer hear the music. Count your steps.
 - **general:** Stand the phone upright in a steel tumbler or a bowl, with the speaker facing up.; Roll a sheet of newspaper into a cone and hold the narrow end over the phone's speaker.
@@ -410,7 +412,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   *Child mode:* A tree cricket sings through a hole in a leaf. The leaf makes him louder. Can you do that for a phone?
   - Note: This is real. Natasha Mhatre, Rohini Balakrishnan and their team studied tree crickets in India. In 2017 they showed that the leaf makes the male's song louder, and that the crickets pick leaves of a good size and make the hole in a good place.
 - **s2 (4 min)**  
-  *Parent does:* 1. Play music on the phone at the a low loudness. 2. Lay it on the table. 3. Your child walks away slowly, counting steps, until they cannot hear it. 4. Write the number.  
+  *Parent does:* 1. Play music on the phone at a low loudness. 2. Lay the phone on the table. 3. Your child walks away slowly, counting steps, until they cannot hear the music. 4. Write the number of steps.  
   *Parent says:* First, the phone alone. Walk away slowly. Stop when you can't hear the music. How many steps?  
   *Child mode:* Walk away from the phone. Count your steps. Stop when you can't hear it.
   - Note: Turn off the fan and close the windows if you can. Set the music low, so your child stops hearing it within a few steps. Keep the loudness the same for every test.
@@ -421,7 +423,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   - Ask: Which design let you walk the most steps away? (good: The tumbler. I could hear it from the kitchen.; The tube with the cups, because the sound came out of both ends.)
   - Note: A tumbler, bowl or cone may make the music a little louder, because the hard sides send more of the sound the same way. The difference can be small. If you hear no difference, write that down. It is a real result, and another shape may do better.
 - **s4 (3 min)**  
-  *Parent does:* Ask why the designs worked, and link back to the cricket.  
+  *Parent does:* Ask why the designs worked, and why a cricket might want to be loud.  
   *Parent says:* Why do you think the tumbler or cone changed the music? Why might a cricket want to be loud?  
   *Child mode:* Why was it louder? Why does a cricket want to be loud?
   - Check: Why does a male tree cricket want his song to be loud? → **So female crickets far away can hear him and come to him**
@@ -430,7 +432,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 ### Who Is Talking? (core) (core, 10 questions)
 1. (match) Draw a line from each sound to its message.  
    **Answer:** A cat's purr on a lap → I am calm. Stay close.; Low, fast barks at the gate → A stranger is here. Stay back.; Loud caws, and more crows flying in → Danger! A cat is here.; A male koel's 'ku-oo, ku-oo' → I am here.. *Why:* Each sound carries one message. A purr on a lap means calm and close. Low, fast barks warn a stranger. Loud caws call other crows to a danger. A koel's 'ku-oo' says 'I am here'.
-2. (mcq) A boy sees a dog give a low, rough growl over a bone. What is the dog most likely saying?  
+2. (mcq) A dog gives a low, rough growl over a bone. What is the dog most likely saying?  
    Options: Come and play with me. / This is my bone. Stay away. / I am lost.  
    **Answer:** This is my bone. Stay away.. *Why:* A low, rough sound, often with lips pulled back, usually means 'stay away'. A play invitation sounds higher, with gaps, and comes with a play bow.
 3. (truefalse) A dog's bark always means the same thing.  
@@ -445,11 +447,11 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
    Options: A dog barking / A cat walking with her tail straight up / A koel calling / A cat purring  
    **Answer:** 1. *Why:* A cat with her tail straight up is giving a body signal that means 'hello'. Barking, calling and purring are all sounds.
 8. (fill) When a cat's voice box buzzes very fast while she breathes in and out, the sound is called a ________.  
-   **Answer:** purr. *Why:* A purr is made by the voice box, more than 20 times every second, through both breaths.
-9. (perspective) Meera, aged 7, lives in Chennai. A street dog barks at her every morning at the gate of her building.  
+   **Answer:** purr. *Why:* A purr is made by the voice box, which shakes more than 20 times every second. It goes on while the cat breathes in and while she breathes out.
+9. (perspective) A girl aged 7 lives in Chennai. A street dog barks at her every morning at the gate of her building.  
    **Answer:** A strong answer picks a view and gives a reason, then says what to check: is the bark low and fast, or higher with gaps? Is his tail stiff or loose? Does he stop when she walks past, or follow her to where food is?. *Why:* A bark can mean 'stay back', 'feed me' or 'let's play'. The tune of the bark and the dog's body help to tell them apart.
-10. (write) Rohan, a boy aged 5, says, 'Only people can talk. Animals just make noise.' Is he right? Say one thing from this unit that helps you answer.  
-   **Answer:** He is not quite right. A dog barks differently at a stranger and in play, and the watchman comes. Vervet monkeys have a different call for each danger.. *Why:* A strong answer uses one example where an animal's sound carries a message that others act on. It may also say that humans are animals too.
+10. (write) Someone says, 'Only people can talk. Animals just make noise.' Is that right? Say one thing from this unit that helps you answer.  
+   **Answer:** It is not quite right. A dog barks differently at a stranger and in play, and the watchman comes. Vervet monkeys have a different call for each danger.. *Why:* A strong answer uses one example where an animal's sound carries a message that others act on. It may also say that humans are animals too.
 ### Songs, Calls and Purrs (stretch) (stretch, 10 questions)
 1. (mcq) Which of these is a bird's song, not a call?  
    Options: A sharp 'chip!' as a cat comes near / A long tune sung again and again from the same rooftop every morning / A quick 'tik' as a bird flies off  
@@ -462,21 +464,21 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
    **Answer:** ['tail straight up: hello, I am friendly', 'fur puffed up: I am scared or angry, stay away', 'eyes half shut: I feel calm and safe', 'ears flat back: I am frightened or cross']. *Why:* A cat sends messages with her whole body. Read the tail, the fur, the eyes and the ears together.
 5. (write) A kitten is born with her eyes and ears shut. How might her mother's purr help her in the first days? Say it, and a grown-up can write it.  
    **Answer:** The kitten can feel the buzz of the purr through her body, so she can find her mother and stay close, even before she can see or hear.. *Why:* A strong answer says that a purr can be felt as well as heard, so it reaches a kitten who cannot yet see or hear. Scientists think this may help, but it is not fully shown.
-6. (mcq) Dorothy Cheney and Robert Seyfarth hid a speaker in a bush in Kenya. They played a vervet monkey's eagle alarm call. No eagle was there. What did the monkeys do?  
-   Options: They ran up into the trees. / They looked up at the sky and ran into the bushes. / They stood up and looked at the grass.  
-   **Answer:** They looked up at the sky and ran into the bushes.. *Why:* At the eagle call, vervets looked up and hid in bushes. At the leopard call they ran up trees, and at the snake call they stood up and looked down. The sound alone told them which danger.
+6. (mcq) Scientists hid a speaker in a bush and played a monkey's eagle alarm call, with no eagle there. Why did they use a speaker and no real eagle?  
+   Options: So they knew the monkeys were reacting to the sound alone / Because eagles are too big / So the monkeys would sleep  
+   **Answer:** So they knew the monkeys were reacting to the sound alone. *Why:* With no eagle to see, only the call could tell the monkeys what to do. They looked up and hid in bushes, so the sound itself carried the message 'eagle'.
 7. (draw) Draw two birds. One sings a song on a rooftop at dawn. The other gives a short alarm call at a cat. Show how the two sounds are different.  
    **Answer:** A bird with a long, wavy line of notes, and a bird with one short, sharp mark pointed at a cat.. *Why:* A strong drawing shows the song as long and repeating, and the call as short and sharp, aimed at the danger.
 8. (match) Draw a line from each animal to how they make their message.  
    **Answer:** A male cricket → rubs one wing against the other; A woodpecker → drums on wood with the beak; A cat → purrs with the voice box; A human → speaks with the voice box, tongue and lips. *Why:* A cricket's chirp comes from the wings, a woodpecker's drumming from the beak on wood, and a purr and human speech from the voice box.
-9. (perspective) Lakshmi and Farhan, two friends in Hyderabad, hear a male koel calling 'ku-oo, ku-oo' from a tree every morning.  
+9. (perspective) Two friends in Hyderabad hear a male koel calling 'ku-oo, ku-oo' from a tree every morning.  
    **Answer:** A strong answer picks a side with a reason, then names a clue to watch: does the koel call more in the hot months, does another koel call back, or does a female come near?. *Why:* We cannot know how a koel feels, but we can watch what happens after the call. A call that others answer is a message.
 10. (fill) A short sound that warns others that danger is near is called an ________ call.  
    **Answer:** alarm. *Why:* An alarm call warns others of danger, like a crow's loud caws at a cat or a squirrel's fast 'chip-chip-chip'.
 ### Can We Understand Them? (challenge) (challenge, 10 questions)
-1. (write) Many animals use low, rough sounds to say 'stay away'. Why might a low sound help an animal look stronger?  
+1. (write) Many animals use low, rough sounds to say 'stay away'. Why might a low sound help an animal seem bigger and stronger?  
    **Answer:** Big animals and big drums make low sounds. So a low growl makes an animal sound bigger than they are, and others keep away.. *Why:* A strong answer links low pitch with big size: bigger bodies make deeper sounds, so a low sound is a way of sounding big.
-2. (mcq) Sita is doing the la-la test. She makes her 'Go away!' la-la high and squeaky. What will the listener most likely guess?  
+2. (mcq) In the la-la test, a sender makes the 'Go away!' la-la high and squeaky. What will the listener most likely guess?  
    Options: Help, I'm scared! / Go away! / The listener will always get it right anyway  
    **Answer:** Help, I'm scared!. *Why:* High, shaky sounds usually mean fear or 'help'. A 'go away' message is usually low and rough. So the listener will probably guess 'scared'.
 3. (perspective) Two people argue about whether animal calls are like words.  
@@ -491,7 +493,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
    **Answer:** a koel's call → Works in the dark; a cat's tail held straight up → Needs light to be seen; a cricket's chirp → Works in the dark; a cat's slow blink → Needs light to be seen; a mother cat's purr against her kittens → Works in the dark; a peacock spreading his tail feathers → Needs light to be seen. *Why:* Sounds and touch work in the dark. Body signals, like a raised tail or a spread of feathers, must be seen, so they need light.
 8. (mcq) A small tree cricket chews a hole in a leaf and sings with his head pushed through the hole. Why?  
    Options: To hide from birds / The leaf makes his song louder / To eat the leaf while he sings  
-   **Answer:** The leaf makes his song louder. *Why:* The leaf stops the sound from the front and the back of his wings from cancelling each other out. So the song is much louder and can be heard from farther away.
+   **Answer:** The leaf makes his song louder. *Why:* The sound from the front of his wings and the sound from the back would cancel each other out. The leaf keeps the two apart. So the song is much louder and can be heard from farther away.
 9. (mcq) In the la-la test, why were the slips mixed in a bowl before the sender picked one?  
    Options: So the listener could not guess the order of the messages / So the slips would not get lost / So the sender could read them more easily  
    **Answer:** So the listener could not guess the order of the messages. *Why:* If the slips were in a fixed order, the listener could guess the next message without listening to the tune. Mixing them makes the test fair.
@@ -512,7 +514,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
    **Answer:** A dog doing a play bow, front legs down and back end up. *Why:* A play bow is a body signal that others see. Purring and cawing are sounds.
 3. (mcq) How does a cat make a purr?  
    Options: By clicking her teeth together / Her voice box vibrates very fast as she breathes in and out / Her tummy rumbles after food  
-   **Answer:** Her voice box vibrates very fast as she breathes in and out. *Why:* A purr comes from the voice box, more than 20 times every second, through both breaths. That is why you can feel it.
+   **Answer:** Her voice box vibrates very fast as she breathes in and out. *Why:* A purr comes from the voice box, which shakes more than 20 times every second, while the cat breathes in and while she breathes out. That is why you can feel it.
 4. (mcq) A cat is purring while her paw is hurt. What does this tell you?  
    Options: A purr can mean more than 'I am happy'. / The cat is happy to be hurt. / Only kittens purr.  
    **Answer:** A purr can mean more than 'I am happy'.. *Why:* Cats purr when hurt or frightened too. You read a purr with the rest of the cat and with what is happening.
@@ -577,10 +579,10 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 - What do you call a cat who loves to bowl? *An alley cat!*
 
 ## Connected maths
-- In the story, Rohan, a boy aged 5, listened in the la-la test. He got 3 right for 'Go away!', 2 for 'Come here!', 2 for 'I am happy' and 2 for 'Help, I'm scared!'. How many did he get right in all, out of 12? How many were wrong? **9 right and 3 wrong.**. 3 and 2 make 5. 5 and 2 make 7. 7 and 2 make 9. There were 12 tries, and 12 take away 9 is 3. (queues `math.data.sorting-and-tallies.L2`)
-- There were 4 kinds of message and 12 tries. If Rohan had covered his ears and only guessed, about how many would he get right? He got 9. How many times more is that? **About 3 by guessing. 9 is 3 times as many as 3.**. A pure guess is right about 1 time in 4. 12 shared into 4 equal groups is 3. 3 and 3 and 3 make 9, so 9 is three times 3. (queues `math.division.sharing-and-grouping.L2`)
-- A cat purrs about 25 buzzes every second. How many buzzes in 4 seconds? **About 100 buzzes.**. 4 groups of 25. 25 and 25 make 50. 50 and 50 make 100. (queues `math.multiplication.equal-groups.L2`)
-- In her sound dictionary, Ayesha, a girl in Class 2, heard the crow caw 14 times, the pigeon coo 6 times and the street dog bark 9 times. Put the animals in order, from most sounds to fewest. How many more caws than coos? **Crow 14, dog 9, pigeon 6. There were 8 more caws than coos.**. 14 is more than 9, and 9 is more than 6. Count on from 6 to 14: 7, 8, 9, 10, 11, 12, 13, 14. That is 8 more. (queues `math.number-sense.comparing-ordering.L2`)
+- In the la-la test, a listener got 3 right for 'Go away!', 2 for 'Come here!', 2 for 'I am happy' and 2 for 'Help, I'm scared!'. How many did the listener get right in all, out of 12? How many were wrong? **9 right and 3 wrong.**. 3 and 2 make 5. 5 and 2 make 7. 7 and 2 make 9. There were 12 tries, and 12 take away 9 is 3. (queues `math.data.sorting-and-tallies.L2`)
+- In the la-la test there are 4 kinds of message and 12 tries. If a listener covered their ears and only guessed, about how many would they get right? One listener got 9 right. How many times as many is that? **About 3 by guessing. 9 is 3 times as many as 3.**. A pure guess is right about 1 time in 4. 12 shared into 4 equal groups is 3. 3 and 3 and 3 make 9, so 9 is three times 3. (queues `math.division.sharing-and-grouping.L2`)
+- A cat's purr has about 25 buzzes every second. How many buzzes is that in 4 seconds? **About 100 buzzes.**. 4 groups of 25. 25 and 25 make 50. 50 and 50 make 100. (queues `math.multiplication.equal-groups.L2`)
+- In a sound dictionary, the crow cawed 14 times, the pigeon cooed 6 times and the street dog barked 9 times. Put the animals in order, from most sounds to fewest. How many more caws than coos were there? **Crow 14, dog 9, pigeon 6. There were 8 more caws than coos.**. 14 is more than 9, and 9 is more than 6. Count on from 6 to 14: 7, 8, 9, 10, 11, 12, 13, 14. That is 8 more. (queues `math.number-sense.comparing-ordering.L2`)
 - A cricket chirps in a pattern: chirp, chirp, rest, chirp, chirp, rest. What comes after the third rest? If the pattern goes round 5 times, how many chirps is that? **Chirp comes next. 5 rounds make 10 chirps.**. Each round is chirp, chirp, rest, so it has 2 chirps. 5 rounds of 2 chirps: 2, 4, 6, 8, 10. (queues `math.patterns.repeating-patterns.L2`)
 
 ## Song

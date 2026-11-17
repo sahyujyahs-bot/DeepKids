@@ -85,7 +85,7 @@
    "status": "defined",
    "context": "This card is about how much a child grows each year, and when growing stops.",
    "definition": "Babies grow fastest. Children then grow slowly and steadily, teenagers have a growth spurt, and then growing taller stops.",
-   "description": "A newborn baby is about 50 centimetres long. In the first year a baby grows about 25 centimetres, which is the fastest anyone grows after birth. After the age of 2, children grow about 5 to 6 centimetres a year. That is about a millimetre a week, too slow to see. In the teens there is a growth spurt, and then growing taller stops: at about 15 or 16 for most girls and 17 or 18 for most boys.",
+   "description": "A newborn baby is about 50 centimetres long. In the first year a baby grows about 25 centimetres, which is the fastest anyone grows after birth. After the age of 2, children grow about 5 to 6 centimetres a year. That is only about one millimetre a week. Growing that slowly is far too slow to see. In the teens there is a growth spurt, and then growing taller stops: at about 15 or 16 for most girls and 17 or 18 for most boys.",
    "examples": [
     "Newborn: about 50 centimetres.",
     "One year old: about 75 centimetres.",
@@ -174,7 +174,7 @@
    "for": "Children in different countries were often different heights on average. Adults in different places are different heights too.",
    "against": "The WHO study of 1997 to 2003 followed healthy, well-fed babies in Brazil, Ghana, India, Norway, Oman and the United States. Babies in all six grew almost the same.",
    "status": "rejected",
-   "context": "This card is about whether babies in India grow differently from babies elsewhere."
+   "context": "A growth chart shows how tall a healthy child is expected to be at each age. This card is about whether babies in India grow differently from babies elsewhere, so that they would need a different chart."
   },
   {
    "claim": "Children grow in sudden jumps, not a little every day.",
@@ -530,7 +530,7 @@
      "id": "s5",
      "mins": 2,
      "do": "Talk about what you found.",
-     "say": "Was your guess right? Why do you think arm span and height are so close?",
+     "say": "Was your guess right? Whose two strings were closest, and whose were furthest apart?",
      "kid": "Was your guess right? Are your two strings close?",
      "check": {
       "t": "mcq",
@@ -936,10 +936,10 @@
      "kid": "Read a card. Show your hand. Read the back.",
      "ask": [
       {
-       "q": "Which card surprised you?",
+       "q": "Which people on the cards had stopped getting taller?",
        "good": [
-        "The astronaut grows in space!",
-        "Grown-ups don't get taller."
+        "The woman of 30 and the man of 20.",
+        "Grown-ups, because adults have stopped getting taller."
        ]
       }
      ],
@@ -1871,7 +1871,7 @@
   {
    "problem": "A girl of 7 and her mother did the Bedtime Tall, Morning Tall experiment. The girl's red morning line was 6 millimetres above her blue bedtime line. Her mother's was 12 millimetres above. How many times bigger was her mother's change?",
    "answer": "2 times bigger.",
-   "explain": "6 and 6 make 12. So her mother's change was two lots of the girl's change.",
+   "explain": "Two lots of 6 make 12. So her mother's change was twice the girl's change.",
    "math_unit": "math.addition-subtraction.meaning.L2",
    "how": "e1",
    "context": "This is about the Bedtime Tall, Morning Tall experiment, where you marked your height at bedtime and again in the morning.",
@@ -1880,7 +1880,7 @@
   {
    "problem": "A newborn baby is 50 centimetres long. After one year, the baby is 75 centimetres. How much did the baby grow?",
    "answer": "25 centimetres.",
-   "explain": "Count on from 50 to 75: that is 25. That is about four or five times what a child of 7 grows in a year.",
+   "explain": "Count on from 50 up to 75. The difference is 25 centimetres. That is about four times what a child of 7 grows in a year.",
    "math_unit": "math.length.standard-units-length.L2",
    "context": "This is about the card on how fast children grow.",
    "why_maths": "Taking away the first length from the second shows how much growing happened."

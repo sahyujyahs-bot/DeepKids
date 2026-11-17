@@ -1,13 +1,13 @@
 # Born knowing and learning: what animals can do from birth, and what they learn
 `sci.animal-behaviour.born-knowing.L2`
 
-**Summary.** A baby spider spins her first web with no one to show her how. Some things an animal can do from the day they are born, with no teaching. This is called instinct. Other things an animal learns, by trying again and again, or by watching others. Humans are animals too: a newborn baby grips your finger without being taught, but has to learn to talk. Your child tests their own knee kick, a born-with action, to find out whether they can stop it by trying.
+**Summary.** A baby spider spins her first web with no one to show her how. Animals can do some things from the day they are born, with no teaching. This is called instinct. Other things an animal learns, by trying again and again, or by watching others. Humans are animals too: a newborn baby grips your finger without being taught, but has to learn to talk. Your child tests their own knee kick, a born-with action, to find out whether they can stop it by trying.
 
-**Intro.** *Many spider mothers leave before their babies hatch. Nobody ever shows the babies how to spin a web. Yet each one spins a web of the right shape. How does she know how?* Some things you could do on the day you were born. You could cry, drink milk and hold a finger tight. Nobody taught you. Other things you learned later, like talking and brushing your teeth. Other animals are the same. A spider is born ready to spin. A kitten learns to hunt by watching her mother. In this unit you meet animals who are born knowing, and animals who learn. Then you test a born-with action in your own body: can you stop it if you try?
+**Intro.** *Many spider mothers leave before their babies hatch. Nobody ever shows the babies how to spin a web. Yet each one spins a web of the right shape. How does each baby know how?* Some things you could do on the day you were born. You could cry, drink milk and hold a finger tight. Nobody taught you. Other things you learned later, like talking and brushing your teeth. Other animals are the same. A spider is born ready to spin. A kitten learns to hunt by watching her mother. In this unit you meet animals who are born knowing, and animals who learn. Then you test a born-with action in your own body: can you stop it if you try?
 
 ## Learning outcomes
-0. By the end I can say that some things an animal can do from birth, with no teaching, and that this is called instinct.
-1. By the end I can say that other things an animal learns, by trying again and again or by watching others.
+0. By the end I can say that an animal can do some things from birth, with no teaching, and that this is called instinct.
+1. By the end I can say that an animal learns other things, by trying again and again or by watching others.
 2. By the end I can give examples of both in humans and other animals: a spider spins a web by instinct, and a child learns to talk.
 3. By the end I can say that many things are both: an animal is born ready to do them and gets better with practice.
 4. By the end I can make a guess with a reason, test whether I can stop my knee kick by trying, count my results and say what I found.
@@ -18,7 +18,7 @@
 - **Learning**: Learning is getting a new skill or knowing something new, by trying, by watching others or by being taught. *e.g.* A child learns to speak Kannada by hearing her family speak Kannada every day.
 - **Practice**: Practice means doing something again and again, so that you get better at it. *e.g.* Your first kolam may be wobbly. After a week of drawing one every morning, the lines get straighter.
 - **Reflex**: A reflex is a very quick action that the body does by itself, before you decide to do it. *e.g.* When something flies at your face, you blink. When dust tickles your nose, you sneeze. Both are reflexes.
-- **Spiderling**: A spiderling is a baby spider, just come out of the egg. *e.g.* Spiderlings come out of a silk egg bag. Each spiderling goes off alone, and spins her own web.
+- **Spiderling**: A spiderling is a baby spider who has just come out of the egg. *e.g.* Spiderlings come out of a silk egg bag. Each spiderling goes off alone, and spins her own web.
 - **Hatchling**: A hatchling is a baby animal who has just come out of an egg. *e.g.* Olive ridley turtle hatchlings dig out of the sand on Odisha's beaches and crawl straight to the sea.
 - **Genes**: Genes are tiny instructions inside every living body. Parents pass them on to their young. *e.g.* A spider's genes, passed on from her parents, help her body build a web of the right shape.
 
@@ -26,7 +26,7 @@
 ### Born knowing: instinct · *defined*
 **Definition:** An instinct is something an animal can do from birth, the first time, without being taught.
 
-In many kinds of spider, the mother lays her eggs in a silk bag and leaves. The spiderlings hatch alone. Yet each one spins a web of the right shape for her kind. A newborn calf stands up and walks within a few hours. A turtle hatchling crawls towards the sea the moment she comes out of the sand. Human babies have instincts too. A newborn baby turns her head to a touch on the cheek, and sucks to drink milk. The know-how for an instinct comes from the parents, passed on in the body. Scientists say it is carried in genes, the tiny instructions inside every cell.
+In many kinds of spider, the mother lays her eggs in a silk bag and leaves. The spiderlings hatch alone. Yet each one spins a web of the right shape for her kind. A newborn calf stands up and walks within a few hours. A turtle hatchling crawls towards the sea the moment she comes out of the sand. She crawls towards the brightest light she sees. On a dark beach, that is usually the sky shining over the sea. Human babies have instincts too. A newborn baby turns her head to a touch on the cheek, and sucks to drink milk. The know-how for an instinct comes from the parents, passed on in the body. Scientists say it is carried in genes, the tiny instructions inside every cell.
 - e.g. A spiderling spins her first web with no teacher.
 - e.g. A newborn calf stands up and walks on the day he is born.
 - e.g. A newborn baby sucks to drink milk, and grips a finger tight.
@@ -42,7 +42,7 @@ Some things nobody is born knowing. A kitten is born with the urge to pounce. Bu
 ### Most things are both · *defined*
 **Definition:** Many actions start as an instinct and get better with practice. Instinct and learning work together.
 
-A chick pecks at grains on the day she hatches. Nobody teaches her, but she misses many grains at first. After a few days she hits more of them. Weaver birds are born ready to weave a nest of grass. Elsie Collias and her husband Nicholas, scientists in the United States, studied the village weaver, an African cousin of the baya. Young males weave untidy nests at first, and get better with practice. A human baby is born moving her legs in steps when she is held up. But walking takes about a year of falling and trying again. Every baby is born ready to learn a language, but the one she speaks depends on what she hears.
+A chick pecks at grains on the day she hatches. Nobody teaches her, but she misses many grains at first. After a few days she hits more of them. Weaver birds are born ready to weave a nest of grass. Elsie Collias and her husband Nicholas, scientists in the United States, studied the village weaver, an African cousin of the baya weaver bird. They found that young males weave untidy nests at first, and get better with practice. A newborn human baby moves her legs in steps when she is held up. But walking takes about a year of falling and trying again. Every baby is born ready to learn a language, but the one she speaks depends on what she hears.
 - e.g. A chick pecks from birth, and her aim gets better with practice.
 - e.g. A weaver bird is born ready to weave, and young males' nests get neater with practice.
 - e.g. A baby is born ready to learn a language, but learns the one she hears.
@@ -54,7 +54,7 @@ When someone taps just below your kneecap, the tap stretches the big muscle on t
 - e.g. A sneeze when dust tickles your nose.
 - e.g. Pulling your hand back from a hot tawa before you even feel it hurt.
 ### Does an instinct need thinking? · *debated*
-A spider is born knowing how to spin. But she still makes many choices. She picks a place for her web, such as a corner where flies come. She fixes holes after the wind. In 1973, two garden spiders were taken to a space station, where nothing has weight. Arabella's first web was messy. Her next webs were much more like the webs spiders spin on Earth. So she seemed to change what she did, to suit a strange new place. Scientists agree on what spiders do. They argue about what goes on inside the spider while she spins.
+A spider is born knowing how to spin. But she still makes many choices. She picks a place for her web, such as a corner where flies come. She fixes holes after the wind. In 1973, two garden spiders were taken to a space station, where nothing has weight. One of them, Arabella, spun a messy first web. Her next webs were much more like the webs spiders spin on Earth. So she seemed to change what she did, to suit a strange new place. Scientists agree on what spiders do. They argue about what goes on inside the spider while she spins.
 - e.g. A spider chooses the corner for her web.
 - e.g. A spider mends a hole in her web.
 - e.g. Arabella, a spider in space, spun better webs after her first messy one.
@@ -62,13 +62,13 @@ A spider is born knowing how to spin. But she still makes many choices. She pick
 - **Scientists who call instinct automatic:** An instinct is a set of steps built into the body, and it runs the same way every time it is switched on. They prefer to say that the spider responds, not that she thinks.
 
 ## Mostly agreed
-- Some actions animals can do from birth, with no teaching. Spiders spin webs, newborn calves stand, and human babies suck and grip. *How we know:* Spiderlings that hatch alone, away from any other spider, still spin the web shape of their own kind. Doctors check a newborn baby's grip and sucking on the first day.
-- Many things are learned after birth, such as which foods are safe, where food can be found and which language to speak. *How we know:* Children speak the language they hear around them as babies, whatever language their parents' parents spoke. Crows and pigeons come to the places where people feed them every day.
+- Animals can do some actions from birth, with no teaching. Spiders spin webs, newborn calves stand, and human babies suck and grip. *How we know:* Spiderlings that hatch alone, away from any other spider, still spin the web shape of their own kind. Doctors check a newborn baby's grip and sucking on the first day.
+- Many things are learned after birth, such as which foods are safe, where food can be found and which language to speak. *How we know:* Children speak the language they hear around them as babies, whatever language their grandparents spoke. Crows and pigeons come to the places where people feed them every day.
 - Many born-with actions get better with practice. *How we know:* Scientists who counted a chick's pecks found that newly hatched chicks miss many grains, and miss fewer after a few days of pecking. Elsie and Nicholas Collias, scientists in the United States, found in the 1960s that young male village weavers weave better with practice.
 
 ## How we found out
 **Judith Miles, a high school student who suggested the test, with NASA and the astronaut Owen Garriott, who watched the spiders Arabella and Anita, 1973, on the Skylab space station.** In 1973, astronauts lived for weeks on Skylab, a space station going round the Earth. Judith Miles, a high school student from Lexington in the United States, asked a question. Could a spider spin her web in space, where nothing has weight? On Earth, a spider uses her own weight as she drops and swings on her threads. Many people expected the web-spinning would go wrong without it. NASA sent up two garden spiders, Arabella and Anita, and the astronaut Owen Garriott watched them. At first, Arabella spun a messy, uneven web. But her next webs looked much more like the round webs that spiders spin on Earth. Anita spun a fine web too. The spiders were born knowing how to spin. Arabella's later webs show that her spinning could change a little in a strange new place.  
-*What people believed before:* That a spider's web-spinning is a fixed set of steps that would fail in a strange place with no weight. Arabella's first web was messy, but her next webs were much better.
+*What people believed before:* People thought that a spider's web-spinning was a fixed set of steps, and that it would fail in a strange place with no weight. Arabella's first web was messy, but her next webs were much better.
 
 ## Challenging perspectives
 - **A newborn baby knows nothing at all. Everything has to be learned.** (John Locke, an English thinker, in 1690, and many people since; *rejected*)  
@@ -82,45 +82,45 @@ A spider is born knowing how to spin. But she still makes many choices. She pick
   Against: Humans have instincts too, like sucking and gripping as babies, and reflexes like the knee kick. And other animals learn all the time. A crow learns which window gives rice, and a kitten learns to hunt from her mother.
 - **When an animal acts by instinct, the animal is not thinking.** (Some scientists, for over a hundred years; *debated*)  
   For: An instinct can run in the same steps every time, even in an animal who has never seen the job done.  
-  Against: Animals use their instincts with choices: a spider picks her web's place and mends holes, and Arabella changed her webs in space. Many scientists say instinct and thinking work together.
+  Against: Animals make choices while they use their instincts. A spider picks the place for her web and mends holes. Arabella, a spider taken to a space station, changed her webs there. Many scientists say instinct and thinking work together.
 
 ## Roots
-We have met animals who are born knowing and animals who learn, and tried to stop our own knee kick. Now we ask what this tells us about who is in charge of a body.
+We have met animals who are born knowing and animals who learn. In the Stop Test, we tried to stop our own knee kick. Now we ask what this tells us about who is in charge of a body.
 
-**Deep truth.** When you tried hard not to kick, your leg often kicked anyway. Nobody ever taught you that kick, and trying could not switch it off. It was ready in your body on the day you were born. So knowing how to do something can come before any lesson.  
+**Deep truth.** In the Stop Test, a grown-up tapped below your kneecap while you tried hard not to kick. Your leg often kicked anyway. Nobody ever taught you that kick, and trying could not switch it off. It was ready in your body on the day you were born. So knowing how to do something can come before any lesson.  
 *Habit it breaks:* We think that knowing how to do something always starts with being taught. But some know-how is ready in the body at birth, like the knee kick and a spider's web, and this know-how works without any lesson.  
 *Evidence:* In the stop test, the knee often kicked even when the child tried hard not to kick, and kicked biggest when the mind was busy pulling the fingers. Spiderlings spin the web of their own kind with no teacher.
 
 - *who am i:* You are the one who decides, and you are also a body that knew how to grip, sneeze and kick before you ever decided anything.
 - *what is life:* Every living being starts life already knowing some things, and then keeps learning. A spider, a calf and a baby all do both.
-- *what is this world:* The world is full of know-how passed from parents to young, in every web on every balcony and every nest in every palm tree.
+- *what is this world:* The world is full of know-how passed from parents to young. You can see it in a spider's web on a balcony and in a weaver bird's nest in a palm tree.
 
 Every spider alive today got her web know-how in her genes from her parents, who got theirs from their parents. Nobody wrote it down, and no spider taught another. It travelled inside bodies, from one life to the next, for millions of years. So one small spider on a balcony grill carries the know-how of a long line of spiders before her. Your knee kick and your grip came to you the same way, down a long line of people and the animals before them.
 
-- **Chandogya Upanishad 6.12:** Uddalaka asks his son to split a tiny banyan seed. The son sees nothing inside. Uddalaka says the whole great banyan tree grows from that nothing you cannot see. (A spiderling's know-how to spin cannot be seen inside her either. Yet the whole round web comes out of her, the first time she spins.)
+- **Chandogya Upanishad 6.12:** Uddalaka asks his son to split a tiny banyan seed. The son sees nothing inside. Uddalaka says the whole great banyan tree grows from something in the seed that is too fine to see. (A spiderling's know-how to spin cannot be seen inside her either. Yet the whole round web comes out of her, the first time she spins.)
 - **Tirukkural 391:** Thiruvalluvar says: learn well, without mistakes, what is worth learning. Then live by what you have learned. (Some things we are born with, like the knee kick. But most skills, like a kolam or a language, have to be learned well, through practice.)
-- **Plato, Meno:** In this old Greek book, Socrates asks a boy who has never studied geometry a series of questions. The boy works out a hard answer. Socrates says that some knowing was already in him before any lesson. (Scientists today say that born-with know-how is passed on in genes from parents, not remembered from before. But Plato also noticed that we do not start with nothing.)
+- **Plato, Meno:** In an old Greek book called the Meno, written by Plato, Socrates asks a boy who has never studied geometry a series of questions. The boy works out a hard answer. Socrates says that some knowing was already in him before any lesson. (Scientists today say that born-with know-how is passed on in genes from parents. It is not remembered from before birth. But Plato also noticed that we do not start with nothing.)
 - Science (settled): Spiderlings spin the web of their own kind with no teacher, and newborn babies have reflexes such as gripping and sucking.
 - Science (open): How genes carry know-how such as a web pattern, from parent to young, is not yet understood.
 - Other view, John Locke, an English thinker, in 1690: Locke said a baby's mind at birth is like a blank sheet of white paper, and everything we know comes from what we see, hear and do. Many people still think most of what makes a person comes from learning, and in a way they are right: most of our skills are learned.
 - Practice, Born-With Breath (3 min): Sit still and close your eyes. Notice your breath going in and out. Nobody taught you to breathe. You did it from your first minute. Now slow it down on purpose. Breathe in while I count to four. Breathe out while I count to four. Do this three times. Your breath came with you, and you can also guide it.
-- Ask: If your leg kicks before you decide, who kicked: you, or your leg?
+- Ask: Your knee kicked before you decided anything. Which parts of your body made it kick, if your thinking did not?
 - Ask: Which matters more to who you are: what you were born with, or what you learned?
-- Ask: Is a gift passed down to you from long ago still yours?
+- Ask: Your knee kick and your grip came to you from your parents and the animals before them. Does that make them any less yours?
 
 ## Deep and big questions
 - *deep:* Nobody taught the spider to spin. So where did her know-how come from? (hint: Think about her mother, and her mother's mother. What did each spider pass on to her babies, even without meeting them?)
 - *deep:* In the stop test, why was the kick so hard to stop, even though it is your own leg? (hint: Where does the message from your knee go? Does it wait for you to decide?)
-- *deep:* A chick is born pecking, but her aim gets better. Is pecking born or learned? (hint: Could it be a bit of both? Which part came with her, and which part did she work out?)
+- *deep:* A chick pecks from the day she hatches, but her aim gets better. Is she born knowing how to peck, or does she learn it? (hint: Could it be a bit of both? Which part was she born with, and which part did she work out?)
 - *big:* If you had grown up in a different family far away, which things about you would be the same, and which would be different? (hint: Think of your language, your favourite food, your knee kick and the way you sneeze.)
-- *big:* Are the things you were born knowing really yours, or did you get them from everyone before you? (hint: Your parents passed on genes from their parents, and they from theirs. Is a gift from long ago still yours?)
+- *big:* Are the things you were born knowing really yours, or did you get them from everyone before you? (hint: Your parents passed on genes that came from their parents, and so on. Do you think something you got from your family is still yours?)
 
 ## Story: The Grip and the Web
 *A made-up story. The facts in it are true: newborn babies grip a finger tight, the knee kick happens by itself at every age, and many spiders that spin round webs build them at dusk and rebuild them in the same place.*
 
 Kayal lived on the third floor of a building in Visakhapatnam. She was seven. Her little brother Sabari was five. Their grandmother, Ammamma, lived with them.
 
-One Sunday, Pinni came to visit. Pinni was their mother's younger sister. That is what a mother's younger sister is called in Telugu. She carried a bundle wrapped in a soft cotton towel. Inside was baby Nila, only two weeks old.
+One Sunday, Pinni came to visit. Pinni is the Telugu word for a mother's younger sister. She carried a bundle wrapped in a soft cotton towel. Inside was baby Nila, only two weeks old.
 
 Kayal sat very still on the sofa, and Pinni laid Nila in her lap. Nila's fingers were tiny and pink. Kayal put one finger into Nila's open hand.
 
@@ -184,7 +184,7 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 
 'I don't know,' said Kayal. 'But I can find out.'
 
-**For the parent:** For the parent: Kayal notices two kinds of know-how side by side: the baby's grip, the spider's web and the knee kick, which nobody taught, and waving and whistling, which have to be learned. The story ends on a real question that the stop test will answer: can you stop a born-with action just by trying?
+**For the parent:** For the parent: Kayal notices two kinds of know-how. Nobody taught the baby's grip, the spider's web or the knee kick. Waving and whistling have to be learned. The story ends on a real question that the Stop Test experiment will answer: can you stop a born-with action just by trying?
 
 - Ask: What could baby Nila do that nobody had taught her?
 - Ask: How did Ammamma know that Sabari was not born whistling?
@@ -192,8 +192,8 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 
 ## Games
 ### g1 · Born Ready, Learn Steady: a race through the first year (20 min)
-- **rules:** Print the board, or draw 20 squares on a big sheet of paper, in a snake shape. Write 'Born' on the first square and 'One year old' on the last. Number the squares.; Each player uses a coin or a button as a counter, and starts on 'Born'.; Mix the cards and put them face down in a pile.; Take turns. Turn over the top card, read the front aloud, then read the back and move as it says. You can never go back past 'Born'.; Put used cards at the bottom of the pile, so the pile never runs out.; If you land on a 'Say it!' square, tell the others one thing you learned to do, then move forward 1. This extra move does not count as landing again.; The first player to reach or pass 'One year old' wins. With two players, you can also play on until both reach the end.
-- **Printable cards: 16 race cards, with the move on the back:** You are a spiderling. You spin your first web, with no teacher. (back: Born ready. Move forward 3.); You are a calf. You stand up an hour after you are born. (back: Born ready. Move forward 3.); You are a turtle hatchling. You crawl to the bright sea. (back: Born ready. Move forward 3.) [picture]; You are a baby. You drink milk on your first day. (back: Born ready. Move forward 3.); You are a baby. You grip a grown-up's finger tight. (back: Born ready. Move forward 2.); You are a turtle hatchling. A street light is brighter than the sea, and you crawl to it. (back: Born-with know-how fooled by something new. Go back 2.) [picture]; You are a spiderling. Wind tears your web in the night. (back: Spin a new one in the same place. Move forward 1.); You are a kitten. Your first pounce misses the leaf. (back: Learning takes tries. Stay where you are this turn.); You are a kitten. You watch your mother hunt, then try again. (back: You learned. Move forward 3.); You are a baby. You try to walk and fall down. (back: Learning takes tries. Stay where you are this turn.); You are a baby. You take your first steps after months of trying. (back: You learned. Move forward 3.); You are a crow chick. A new balcony starts putting out rice. (back: You learn the new place and time. Move forward 3.); You are a chick. You miss most grains on your first day. (back: Born ready, but your aim needs practice. Move forward 1.); You are a chick. After a few days of pecking, you hit most grains. (back: Practice made your aim better. Move forward 2.); You are a baby. You hear your family talk every day. (back: You are learning your language. Move forward 2.); You are a weaver bird. Your first nest is untidy. (back: Weave again. Practice makes it neater. Move forward 1.) [picture]
+- **rules:** Print the board, or draw 20 squares on a big sheet of paper, in a snake shape. Write 'Born' on the first square and 'One year old' on the last. Number the squares.; Each player uses a coin or a button as a counter, and starts on 'Born'.; Mix the cards and put them face down in a pile.; Take turns. Turn over the top card, read the front aloud, then read the back and move as it says. You can never go back past 'Born'.; Put used cards at the bottom of the pile, so the pile never runs out.; If you land on a 'Say it!' square, tell the others one thing you learned to do, then move forward 1. Your turn ends on the new square, and nothing more happens there.; The first player to reach or pass 'One year old' wins. With two players, you can also play on until both reach the end.
+- **Printable cards: 16 race cards, with the move on the back:** You are a spiderling. You spin your first web, with no teacher. (back: Born ready. Move forward 3.); You are a calf. You stand up an hour after you are born. (back: Born ready. Move forward 3.); You are a turtle hatchling. You crawl to the bright sea. (back: Born ready. Move forward 3.) [picture]; You are a baby. You drink milk on your first day. (back: Born ready. Move forward 3.); You are a baby. You grip a grown-up's finger tight. (back: Born ready. Move forward 2.); You are a turtle hatchling. A street light is brighter than the sea, and you crawl to it. (back: Your born-with know-how was fooled by something new. Go back 2.) [picture]; You are a spiderling. Wind tears your web in the night. (back: Spin a new one in the same place. Move forward 1.); You are a kitten. Your first pounce misses the leaf. (back: Learning takes tries. Stay where you are this turn.); You are a kitten. You watch your mother hunt, then try again. (back: You learned. Move forward 3.); You are a baby. You try to walk and fall down. (back: Learning takes tries. Stay where you are this turn.); You are a baby. You take your first steps after months of trying. (back: You learned. Move forward 3.); You are a crow chick. A new balcony starts putting out rice. (back: You learn the new place and time. Move forward 3.); You are a chick. You miss most grains on your first day. (back: Born ready, but your aim needs practice. Move forward 1.); You are a chick. After a few days of pecking, you hit most grains. (back: Practice made your aim better. Move forward 2.); You are a baby. You hear your family talk every day. (back: You are learning your language. Move forward 2.); You are a weaver bird. Your first nest is untidy. (back: Weave again. Practice makes it neater. Move forward 1.) [picture]
 - **Printable board: A board of 20 squares to draw on paper:** Square 1: Born; Square 2; Square 3; Square 4; Square 5: Say it! Tell one thing you learned to do. Then move forward 1.; Square 6; Square 7; Square 8; Square 9; Square 10: Say it! Tell one thing you learned to do. Then move forward 1.; Square 11; Square 12; Square 13; Square 14; Square 15: Say it! Tell one thing you learned to do. Then move forward 1.; Square 16; Square 17; Square 18; Square 19; Square 20: One year old
 - **s1 (4 min)**  
   *Parent does:* 1. Print or draw the board of 20 squares. 2. Cut out the 16 cards. 3. Give each player a coin or a button.  
@@ -226,9 +226,9 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
   - Note: On a dark beach, the sky over the sea is usually brighter than the land behind the beach. Hatchlings are born knowing to crawl towards it. Lights from roads, houses and shops can lead them the wrong way.
 - **s3 (2 min)**  
   *Parent does:* Talk about it.  
-  *Parent says:* The hatchlings were born knowing the way. What can people do so that their born-with know-how works?  
+  *Parent says:* The hatchlings were born knowing the way. What can people do so that the hatchlings' born-with know-how leads them to the sea?  
   *Child mode:* How can people help baby turtles find the sea?
-  - Check: A shop near a turtle beach puts a dark shade over the bright sign. What will the hatchlings do? → **Crawl to the sea, because the sea sky is now the brightest light**
+  - Check: A shop near a turtle beach puts a dark shade over the bright sign. What will the hatchlings do? → **Crawl to the sea, because the sky over the sea is now the brightest light**
 
 ## Experiments
 ### e1 · The Stop Test: can you stop your knee kick by trying? (20 min)
@@ -246,7 +246,7 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
   *Parent does:* Ask your child to guess, and why. Write the guess on the paper.  
   *Parent says:* When I tap your knee and you try hard not to kick, will your leg still kick? And if you pull your fingers hard, what will the kick do? Why do you think so?  
   *Child mode:* Guess. Can you stop the kick if you try? Why?
-  - Ask: Why do you think so? (good: I can stop it, because it is my leg and I move it.; I cannot stop it, because the boy's leg in the story kicked by itself.; Pulling will make it smaller, because I will be busy.)
+  - Ask: Why do you think so? (good: I can stop it, because it is my leg and I move it.; I cannot stop it, because Sabari's leg kicked by itself in the story The Grip and the Web.; Pulling will make it smaller, because I will be busy.)
   - Note: Any guess is fine, as long as there is a reason. Do not tell your child what will happen.
 - **s3 (3 min) · grown-up needed**  
   *Parent does:* Way 1, relaxed: 1. Your child looks away and lets the leg hang loose. 2. Tap gently just below the kneecap, 5 times, a few seconds apart. 3. Count the kicks and say how big they were.  
@@ -274,7 +274,7 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
   *Parent says:* Look at your table. Could you stop the kick by trying? When was it biggest? Why do you think that happened?  
   *Child mode:* Look at your table. Could you stop the kick? When was it biggest?
   - Ask: Why is the kick so hard to stop? (good: It happens before I decide anything.; The message goes from my knee to my backbone and back, without asking me.; I was born with it, so it works by itself.)
-  - Note: A strong answer uses the numbers: 'Relaxed, I kicked 5 times. Trying to stop, I still kicked 3 times, but small. Pulling, I kicked 5 big kicks.' Now read the card on reflexes.
+  - Note: A strong answer uses the numbers: 'Relaxed, I kicked 5 times. Trying to stop, I still kicked 3 times, but small. Pulling, I kicked 5 big kicks.' Now read the card called 'Your born-with actions: reflexes'.
   - Check: In the stop test, what usually happens when you try hard not to kick? → **The leg often still kicks, maybe smaller**
 
 ## Activities
@@ -294,6 +294,7 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
   *Parent does:* Talk about who taught the spider.  
   *Parent says:* Most spider mothers are not there to teach their babies. Each kind of spider spins the web of her own kind. How do you think she knows how?  
   *Child mode:* Who taught this spider? How does she know how to spin?
+  - Note: Not usually. Each kind of spider spins the web shape of her own kind, so a round web and a tangle web were most likely spun by different kinds of spider.
   - Think: If you saw a round web and a tangle web, were they spun by the same kind of spider?
 ### a2 · A Newborn's Grip (only if there is a baby under three months in the family) (10 min)
 - **safety:** Wash your hands with soap first. Only do this with the baby's parent there, and when the baby is calm and awake. Never pull or lift the baby by the grip.
@@ -319,7 +320,7 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
   *Parent does:* Listen to someone say 'Tamizh' (the name of the Tamil language) and 'mazhai' (rain) and 'vaazhaipazham' (banana).  
   *Parent says:* Listen to this sound. It is in Tamil and Malayalam. 'Tamizh'. 'Mazhai'. Can you hear the 'zh'?  
   *Child mode:* Listen. 'Tamizh'. 'Mazhai'. Can you hear the 'zh' sound?
-  - Note: The sound is made by curling the tip of the tongue up and back, and letting the sound flow without touching. If nobody at home speaks Tamil or Malayalam, many free videos and dictionary apps say these words aloud.
+  - Note: To make the sound, curl the tip of your tongue up and back, and let the sound flow without the tongue touching the roof of the mouth. If nobody at home speaks Tamil or Malayalam, many free videos and dictionary apps say these words aloud.
 - **s2 (4 min)**  
   *Parent does:* Your child tries the words five times.  
   *Parent says:* Your turn. Curl your tongue up and back. Try 'mazhai' five times. Is it easy or hard?  
@@ -338,6 +339,7 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 
 ## Projects
 ### p1 · Night Light Count: three nights at the window (30 min, 3 days)
+- **problem:** At night, turtle hatchlings crawl towards the brightest light they see. On a dark beach, that is usually the sky over the sea. A bright street light or shop sign on land can lead them the wrong way. You count the lights you can see from your window, and then decide which ones could be switched off near a turtle beach.
 - **record:** A tally table for each night, and a poster.
 - **schedule:** day 1: At 8 in the evening, count the lights you can see from one window for 5 minutes. Sort them: street lights, homes, shops and signs, vehicles. (8 min); day 2: Count again from the same window at the same time. Which lights are on every night? (8 min); day 3: Count for the last time. Then make a poster: which lights could be dimmed or switched off near a turtle beach? (14 min)
 - **s1 (8 min) · grown-up needed**  
@@ -360,7 +362,7 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 
 ## Challenges
 ### c1 · Beak Weaving: weave like a baya (25 min)
-- **problem:** Can you weave a small mat from paper strips, with one hand as a beak, that stays together when you lift it by the pencil and holds 10 chana lying on it?
+- **problem:** Weave a small mat from paper strips, using one hand as a beak. Does the mat stay together when you lift it by the pencil? Does it hold 10 chana when it lies flat?
 - **your turn:** Weave your mat. Lay it flat and put 10 chana on it. Do any fall through? Then weave a second mat. Is it better than your first? What did you learn from the first try?
 - **constraints:** Weave with only the thumb and first finger of one hand. Your other hand may only hold the pencil, like a branch.; Use 24 paper strips, each about as wide as your finger and as long as a ruler. Twelve are for the first mat and twelve for the second.; No glue and no tape.; Fold 6 strips over the pencil so they hang down. Weave the other 6 across them, over and under.
 - **general:** Lay a strip across the hanging strips, over one and under the next, like a mat.; Push each new strip up close to the one before, so there are no big gaps.; Tuck the ends in tightly, so the weave does not come apart.
@@ -386,11 +388,11 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 1. (mcq) A baby spider spins her first web. Who taught her how?  
    Options: Her mother / Nobody. She was born knowing how / The other spiders in the house  
    **Answer:** Nobody. She was born knowing how. *Why:* In many kinds of spider, the mother is gone before the babies hatch. Each spiderling spins her first web with no teacher. This is instinct.
-2. (sort) Sort these baby animals: can do this on the first day, or needs months to learn?  
+2. (sort) Sort these. Can the baby animal do this on the first day, or does she need months to learn it?  
    **Answer:** a spiderling spinning a web → Ready on the first day; a baby talking → Needs months to learn; a calf standing up → Ready on the first day; a kitten catching a lizard → Needs months to learn; a hatchling crawling to the sea → Ready on the first day; a baby walking → Needs months to learn. *Why:* A spiderling, a calf and a hatchling do these on the first day. Talking, walking and hunting take months of learning and practice.
-3. (draw) Remember the stop test. Draw your leg three times: relaxed, trying to stop, and pulling your fingers. Show how big each kick was with an arrow.  
+3. (draw) In the Stop Test, a grown-up tapped below your kneecap in three ways. Draw your leg three times: when you relaxed, when you tried not to kick, and when you pulled your hooked fingers. Draw an arrow on each leg to show how big the kick was.  
    **Answer:** Three legs. Usually a long arrow for relaxed, a shorter arrow or none for trying to stop, and the longest arrow for pulling.. *Why:* A strong drawing shows a different arrow for each way, and matches the results table.
-4. (write) Say out loud, and a grown-up writes it down: in the stop test, could you stop your knee kick by trying? What did you see?  
+4. (write) Say your answer out loud, and a grown-up writes it down. In the Stop Test, could you stop your knee kick by trying? What did you see?  
    **Answer:** Not always. When I tried hard not to kick, my leg still kicked on some taps, but smaller.. *Why:* A strong answer uses the result from the test, with numbers if possible, and says that the kick happens before you decide.
 5. (truefalse) Humans have no instincts. People have to learn everything.  
    **Answer:** False. *Why:* False. Human babies are born able to suck, grip and cry, and everyone has reflexes like sneezing and the knee kick.
@@ -400,9 +402,9 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
    **Answer:** ['born with it: the baby gripping a finger and the spider spinning', 'learned it: the girl reading and the boy riding a cycle']. *Why:* The baby's grip and the spider's web need no teaching. Reading and cycling must be learned.
 8. (fill) Something an animal can do from birth, without being taught, is called an ________.  
    **Answer:** instinct. *Why:* An instinct is something an animal can do from birth, the first time, with no teaching.
-9. (perspective) Lakshmi, aged 7, lives in Chennai. A spider has spun a round web on the balcony grill.  
+9. (perspective) A girl aged 7 lives in Chennai. A spider has spun a round web on the balcony grill.  
    **Answer:** Any side, with a reason. For example: 'I agree with the grandmother, because the web catches mosquitoes. But the mother's idea means we can still watch the spider.'. *Why:* A strong answer picks a side, gives a reason, and is fair to another point of view.
-10. (count) A girl does the stop test. Her knee kicked 5 times relaxed, 3 times when she tried to stop it, and 5 times when she pulled her fingers. How many kicks in all?  
+10. (count) A girl did the Stop Test. Her knee kicked 5 times when she relaxed, 3 times when she tried to stop it, and 5 times when she pulled her fingers. How many kicks is that in all?  
    **Answer:** 13. *Why:* 5 and 3 make 8, and 5 more makes 13. Even when she tried to stop it, her leg kicked 3 times.
 ### Practice and Reflexes (stretch) (stretch, 10 questions)
 1. (odd) Three of these are born-with actions. Which one is learned?  
@@ -432,14 +434,14 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
    **Answer:** Many children agree with Farhan: the weaver is born ready to weave, and his nests get neater with practice. Meera is right that nobody teaches him, and Thenmozhi is right that practice helps.. *Why:* A strong answer uses a fact, such as young weavers' nests getting neater, and gives each view its fair part.
 2. (write) In the stop test, pulling your hooked fingers usually made the kick bigger. Why do you think that happened?  
    **Answer:** For example: when I was busy pulling, I was not holding my leg stiff, so the kick could happen fully.. *Why:* A strong answer links the bigger kick to the leg being loose, because the mind was busy with the hands.
-3. (mcq) Anjali's baby cousin was born in Kolkata to a Telugu-speaking family. The family speaks only Telugu at home. Which language will the baby speak first?  
+3. (mcq) A baby is born in Kolkata. Her family speaks only Telugu at home. Which language will the baby speak first?  
    Options: Bengali, because she was born in Kolkata / Telugu, because that is what she hears every day / English, because babies are born knowing English  
    **Answer:** Telugu, because that is what she hears every day. *Why:* Babies are born ready to learn any language. They learn the one they hear around them every day.
-4. (write) Arabella, a spider in a space station, spun a messy first web. Her next webs were much better. Was web spinning an instinct or learned for her? Explain.  
+4. (write) Arabella, a spider in a space station, spun a messy first web. Her next webs were much better. For her, was web spinning an instinct, or was it learned? Explain.  
    **Answer:** Both. She was born knowing how to spin, so she spun a web straight away. But she did better after trying, so she also changed what she did.. *Why:* A strong answer sees both parts: the know-how she was born with, and the way she got better in a strange place.
 5. (draw) Draw a cartoon in two boxes. Box 1: something you could do as a newborn baby. Box 2: something you learned this year.  
    **Answer:** Box 1 might show a baby gripping, crying or drinking milk. Box 2 might show reading, swimming or cycling.. *Why:* A strong drawing shows one born-with action and one learned skill, and the child can say which is which.
-6. (sort) Sort: instinct, learned, or both?  
+6. (sort) Sort each one: is it an instinct, is it learned, or is it both?  
    **Answer:** a calf standing on his first day → Instinct; a dog sitting when asked → Learned; a kitten hunting → Both; a spiderling spinning → Instinct; a child cycling → Learned; a chick pecking at grains → Both. *Why:* A calf standing and a spiderling spinning need no teaching. A dog sitting and a child cycling are learned. A kitten and a chick start with an instinct and get better with practice.
 7. (truefalse) If something is an instinct, practice can never make it any better.  
    **Answer:** False. *Why:* False. Many instincts get better with practice. A chick's aim improves, young weavers' nests get neater, and Arabella spun better webs after her first one.
@@ -448,11 +450,11 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 9. (odd) Which one is not learned?  
    Options: A crow coming to the window that gives rice / A child reading Hindi / A newborn baby turning to a touch on her cheek / A girl skipping rope  
    **Answer:** 2. *Why:* A newborn baby turns her head to a touch on her cheek, looking for milk. She is born doing this. The others are learned.
-10. (write) Grace, in Shillong, says: 'An animal acting by instinct is just like a machine.' What would you say back? Use the spider to help you.  
-   **Answer:** For example: a spider is born knowing how to spin, but she still picks where to put her web and mends holes. So she is making choices too.. *Why:* A strong answer uses a fact about choices the spider makes, and can also say what Grace's idea gets right: the know-how is the same in every spider of a kind.
+10. (write) Someone says: 'An animal acting by instinct is just like a machine.' What would you say back? Use the spider to help you.  
+   **Answer:** For example: a spider is born knowing how to spin, but she still picks where to put her web and mends holes. So she is making choices too.. *Why:* A strong answer uses a fact about choices the spider makes. It can also say what the machine idea gets right: the know-how is the same in every spider of a kind.
 
 ## Videos
-- **Beautiful spider web build time-lapse** (BBC Earth, 5 min) id `zNtSAQHNONo`: Shows the spokes going out from the middle and the spiral laid round them, as in the Web Watch. *Check:* Found by search: "Beautiful Spider Web Build Time-lapse | BBC Earth" by BBC Earth, 4 min 37 s. A parent may preview it.
+- **Beautiful spider web build time-lapse** (BBC Earth, 5 min) id `zNtSAQHNONo`: Shows the spokes going out from the middle and the spiral laid round them, as in the Web Watch activity. *Check:* Found by search: "Beautiful Spider Web Build Time-lapse | BBC Earth" by BBC Earth, 4 min 37 s. A parent may preview it.
 - **Baby sea turtles hatch and walk to the ocean** (The Dodo, 2 min) id `fKPKfC7SnDM`: Shows hatchlings coming out of the sand and heading straight for the sea, as in the Turtle Run game (sea turtles, not filmed in Odisha). *Check:* Found by search: "Baby Sea Turtles Hatch and Walk To The Ocean" by The Dodo, 1 min 46 s. A parent may preview it.
 - **Arabella and Anita: spiders spinning webs in space, 1973** (, 3 min) id `to find`: Shows the webs spun on the Skylab space station, for the How We Found Out card. *Check:* Find a NASA clip or an accurate short film. Check that Judith Miles is named as the student who suggested the test.
 
@@ -469,7 +471,7 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 4. (mcq) How does a kitten learn to hunt?  
    Options: She was born knowing everything about hunting / By watching her mother and trying many times / She never hunts  
    **Answer:** By watching her mother and trying many times. *Why:* A kitten is born with the urge to pounce, but learns how to hunt by watching her mother and practising.
-5. (mcq) Priya, a girl in Kochi, does the stop test. Relaxed, her knee kicks 5 times. Trying to stop it, her knee still kicks 4 times. What does this show?  
+5. (mcq) A girl does the Stop Test. When she relaxes, her knee kicks 5 times. When she tries to stop it, her knee still kicks 4 times. What does this show?  
    Options: She is not trying hard enough / The kick happens by itself, before she decides / Knee kicks are learned  
    **Answer:** The kick happens by itself, before she decides. *Why:* The knee kick is a reflex she was born with. It happens before she can decide, so trying does not switch it off.
 6. (mcq) What is a reflex?  
@@ -545,13 +547,13 @@ Born Knowing, Learning Too (sci.animal-behaviour.L2):
 ## Things to buy
 
 ## Warm-up
-- What is something an animal can do from birth, without being taught, called? → An instinct.
+- An animal can do some things from birth, without being taught. What is this called? → An instinct.
 - Who teaches a baby spider to spin? → Nobody. She is born knowing how.
 - Is talking an instinct or learned? → Learned. A child learns the language she hears.
 - What is a reflex? → A very quick action the body does by itself, like a sneeze.
 - Can you stop your knee kick just by trying? → Usually not fully. It happens before you decide.
 - Which way do turtle hatchlings crawl? → Towards the brighter sky over the sea.
-- Is a chick pecking born or learned? → Both. She pecks from birth, and her aim gets better with practice.
+- Is a chick born knowing how to peck, or does she learn it? → Both. She pecks from birth, and her aim gets better with practice.
 
 ## Plan
 - Start options: intro, story, e1, g2, g1, cards

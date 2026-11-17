@@ -90,7 +90,7 @@
    "status": "defined",
    "context": "This card is about the two kinds of sounds birds make.",
    "definition": "A bird's call is short and carries one message. A bird's song is longer, is repeated again and again, and often says 'this is my place' or 'choose me'.",
-   "description": "Calls are for everyday messages: 'danger', 'I am here', 'feed me'. Songs are longer, and many songbirds learn them by listening to grown-up birds, the way you learned to talk. People once thought only male birds sing. In 2014 a team led by Karan Odom checked over a thousand kinds of songbirds. In most of the kinds that they could check, the females sing too.",
+   "description": "Calls are for everyday messages. A call can mean 'danger', 'I am here' or 'feed me'. Songs are longer, and many songbirds learn them by listening to grown-up birds, the way you learned to talk. People once thought only male birds sing. In 2014 a team led by Karan Odom checked over a thousand kinds of songbirds. In most of the kinds that they could check, the females sing too.",
    "examples": [
     "A male koel calls 'ku-oo, ku-oo', higher each time, again and again in the hot months. A female koel has her own sharp 'kik-kik-kik' call.",
     "A magpie robin sings a long, sweet song from a rooftop at dawn.",
@@ -145,7 +145,7 @@
    "status": "idea",
    "context": "This card is about a pattern that scientists found in the sounds of many kinds of animals.",
    "definition": "",
-   "description": "In 1977 Eugene Morton, a bird scientist in America, compared the sounds of many birds and mammals. Low, rough sounds often mean 'stay away'. High, soft, clear sounds often mean 'I am friendly', 'I am scared' or 'help me'. A big body makes a deeper sound, so a low growl makes an animal sound bigger. In 2017 Piera Filippi and her team played sounds of frogs, alligators, pandas and elephants to people, and most people could hear whether the animal was calm or excited. This is a pattern with exceptions, not a rule for every sound.",
+   "description": "The tune of a sound is how high or low it is, how rough or smooth it is, and how loud or soft it is. Scientists have found that the tune can carry a message. In 1977 Eugene Morton, a bird scientist in America, compared the sounds of many birds and mammals. Low, rough sounds often mean 'stay away'. High, soft, clear sounds often mean 'I am friendly', 'I am scared' or 'help me'. A big body makes a deeper sound, so a low growl makes an animal sound bigger. In 2017 Piera Filippi and her team played sounds of frogs, alligators, pandas and elephants to people, and most people could hear whether the animal was calm or excited. This is a pattern with exceptions, not a rule for every sound.",
    "examples": [
     "A dog growls low over a bone. A puppy whines high when left alone.",
     "A cat hisses with a rough sound when a strange dog comes near.",
@@ -214,7 +214,7 @@
    "for": "Humans put words together to say endless new things, even things that are far away or did not happen. No other animal has been shown to do this the way we do.",
    "against": "Vervet monkeys have different alarm calls for leopards, eagles and snakes, and other vervets act on each call in its own way. Some birds and monkeys put calls together in a set order. Scientists are still finding out how much other animals can say.",
    "status": "debated",
-   "context": "This card is about whether animal calls are a kind of language."
+   "context": "Language here means putting words together in new ways, to say endless new things, even about things that are far away or did not happen. This card asks whether animal calls count as a language."
   }
  ],
  "big_questions": [
@@ -290,7 +290,7 @@
    "How did Kavya know that Rani's evening bark meant 'let's play'?",
    "Why was Bekku purring on the vet's table?",
    "In the la-la game, how did Rohan guess 'Go away!' with no words?",
-   "What do you think Kavya and Rohan will try with Rani tomorrow?"
+   "Kavya says Rani hears our tune. How could they test whether Rani knows her own name?"
   ],
   "art": [
    "A brown street dog with one white ear barking hard at a man in a red shirt holding a parcel at a building gate in Mysuru, while a girl and a small boy watch from a balcony.",
@@ -738,7 +738,8 @@
       ],
       "a": 0,
       "why": "In the dark, others cannot see a tail or a wing. But they can still hear a sound. That is one reason many night animals, like crickets and frogs, call loudly."
-     }
+     },
+     "parent": "Good answers are the comb chirp and the drumming, because sound needs no light. Drumming on a hard thing, like a dead branch, also carries far."
     }
    ]
   },
@@ -951,7 +952,8 @@
       ],
       "a": 0,
       "why": "Puffed-up fur makes a cat look bigger, and a hiss is a rough sound. Both say 'stay away'. If you picked 'stroke me', look again at the card: a friendly cat walks with her tail straight up."
-     }
+     },
+     "parent": "Many children find the low, rough 'stay away' cards easiest, such as the growl and the hiss. That matches the unit: a low, rough sound often means 'stay away'."
     }
    ]
   },
@@ -1155,7 +1157,7 @@
    "title": "Be a Tree Cricket: make a phone louder with no electricity",
    "mins": 20,
    "context": "This is a design challenge. In India, a small tree cricket chews a hole in a leaf, pushes his head through, and sings. The leaf makes his song louder. Can you make a phone's sound louder, the cricket's way, with only things from home?",
-   "problem": "Can you make a phone's music reach farther across your flat using only paper, cups, tumblers or cardboard, with no extra speaker and no electricity?",
+   "problem": "Can you make a phone's music reach farther across your flat using only paper, cups, tumblers or cardboard, with no extra speaker and no electricity? A leaf with a hole in it works like a wall between the front and the back of the cricket's wing. The wall stops the sound from going all around the wing and fading, so the song carries farther. Hard sides, like a tumbler or a paper cone, also push the sound the way you want it to go.",
    "constraints": [
     "Keep the phone at the same low loudness every time, so the sound fades away in a few steps.",
     "Use only things from home: paper, a steel tumbler, a plastic cup, a bowl, a cardboard tube.",
@@ -1369,22 +1371,22 @@
     },
     {
      "t": "perspective",
-     "p": "The first child, aged 7, lives in Chennai. A street dog barks at her every morning at the gate of her building.",
+     "p": "A girl aged 7 lives in Chennai. A street dog barks at her every morning at the gate of her building.",
      "views": [
       {
-       "who": "The first child",
+       "who": "The girl",
        "says": "That dog hates me."
       },
       {
-       "who": "The first child's grandmother",
+       "who": "The girl's grandmother",
        "says": "He sleeps at that gate. He is saying, 'This is my place.'"
       },
       {
-       "who": "The first child's friend Joseph",
+       "who": "The girl's friend Joseph",
        "says": "People feed him at the gate. Maybe he is asking you for food."
       }
      ],
-     "ask": "Who do you agree with? Give one reason. What could the first child listen for or look for to find out?",
+     "ask": "Who do you agree with? Give one reason. What could the girl listen for or look for to find out?",
      "lines": 4,
      "a": "A strong answer picks a view and gives a reason, then says what to check: is the bark low and fast, or higher with gaps? Is his tail stiff or loose? Does he stop when she walks past, or follow her to where food is?",
      "why": "A bark can mean 'stay back', 'feed me' or 'let's play'. The tune of the bark and the dog's body help to tell them apart."
@@ -1507,14 +1509,14 @@
     },
     {
      "t": "perspective",
-     "p": "The first person and the second person, two friends in Hyderabad, hear a male koel calling 'ku-oo, ku-oo' from a tree every morning.",
+     "p": "Two friends in Hyderabad hear a male koel calling 'ku-oo, ku-oo' from a tree every morning.",
      "views": [
       {
-       "who": "The first person",
+       "who": "One friend",
        "says": "He calls because he is happy."
       },
       {
-       "who": "The second person",
+       "who": "The other friend",
        "says": "He calls so that other koels know where he is. When a female is near, she can find him."
       }
      ],
@@ -1539,7 +1541,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Many animals use low, rough sounds to say 'stay away'. Why might a low sound help an animal look stronger?",
+     "p": "Many animals use low, rough sounds to say 'stay away'. Why might a low sound help an animal seem bigger and stronger?",
      "lines": 3,
      "a": "Big animals and big drums make low sounds. So a low growl makes an animal sound bigger than they are, and others keep away.",
      "why": "A strong answer links low pitch with big size: bigger bodies make deeper sounds, so a low sound is a way of sounding big."
@@ -1638,7 +1640,7 @@
       "To eat the leaf while he sings"
      ],
      "a": 1,
-     "why": "The leaf stops the sound from the front and the back of his wings from cancelling each other out. So the song is much louder and can be heard from farther away."
+     "why": "The sound from the front of his wings and the sound from the back would cancel each other out. The leaf keeps the two apart. So the song is much louder and can be heard from farther away."
     },
     {
      "t": "mcq",
@@ -2150,7 +2152,7 @@
   "practice": {
    "title": "Listen for the tune",
    "mins": 3,
-   "say": "Sit by the window and close your eyes. Listen for three sounds outside. For each one, ask yourself: is this sound calm or excited? Now put your hand on your chest. Hum low and slow, like a purr, for three long breaths. How do you feel now?",
+   "say": "Sit by the window and close your eyes. Listen for three sounds outside. For each one, ask yourself: is this sound calm or excited? Now put your hand on your chest. Hum low and slow, like a purr, for three long breaths. Does the low, slow hum feel calm or excited?",
    "kid": "Close your eyes. Listen for three sounds. Is each one calm or excited? Put a hand on your chest. Hum low, like a purr, for three breaths."
   },
   "ask": [

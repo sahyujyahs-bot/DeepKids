@@ -242,7 +242,7 @@
    "for": "The popping sound is loud, and it seems as if something must be getting hurt.",
    "against": "A doctor named Donald Unger cracked the knuckles of only his left hand for about 60 years. When he checked, both hands were just as healthy. Larger studies have found no clear link either.",
    "status": "rejected",
-   "context": "This card is about the popping sound some people make with their fingers."
+   "context": "Cracking a knuckle means pulling or bending a finger until the joint makes a pop. This card is about whether doing this harms the joint later in life."
   },
   {
    "claim": "The pop when you crack a knuckle is a bubble forming in the joint liquid.",
@@ -250,7 +250,7 @@
    "for": "Their pictures showed a gap of gas appearing in the joint liquid at the moment of the pop.",
    "against": "Earlier scientists, and some who made computer models later, said the sound comes from a bubble collapsing, partly or fully.",
    "status": "debated",
-   "context": "This card is about what really makes the popping sound."
+   "context": "Every joint holds a slippery liquid. This card is about what happens in that liquid when a knuckle pops."
   },
   {
    "claim": "Bones are dead, like stones, once they have finished growing.",
@@ -561,11 +561,11 @@
      "kid": "Press gently with two fingers. If it is hard, put a red dot. If it is soft, put a blue dot.",
      "ask": [
       {
-       "q": "Which place surprised you?",
+       "q": "Which places felt hard, and which felt soft or bendy?",
        "good": [
-        "The tip of my nose bends!",
-        "My tummy has no bone at the front.",
-        "My ear is bendy, not hard."
+        "The shin and the kneecap felt hard.",
+        "My tummy felt soft.",
+        "The tip of my nose and my ear were bendy."
        ]
       }
      ],
@@ -1023,11 +1023,11 @@
      "kid": "Read a card. Show your sign. Check on your body. Read the back.",
      "ask": [
       {
-       "q": "Which card surprised you?",
+       "q": "Which places on the cards were soft and not bone?",
        "good": [
-        "My nose tip is not bone!",
-        "My tummy has no bone at the front.",
-        "My calf is soft but there is bone inside."
+        "The tip of the nose and the flap of the ear.",
+        "The front of the tummy.",
+        "The calf and the middle of the upper arm, because they are muscle."
        ]
       }
      ],
@@ -1634,24 +1634,24 @@
     },
     {
      "t": "perspective",
-     "p": "Revathi, her cousin the first person and her aunt are talking about whether bones are alive.",
+     "p": "Three people are talking about whether bones are alive.",
      "views": [
       {
-       "who": "Revathi",
+       "who": "The first person",
        "says": "Bones are alive. A broken arm mends by itself in a few weeks."
       },
       {
-       "who": "The first person",
+       "who": "The second person",
        "says": "A skeleton in a museum is bone, and it is not alive. So bone is not alive."
       },
       {
-       "who": "Revathi's aunt",
+       "who": "The third person",
        "says": "The hard part of bone is made of minerals, a bit like chalk. Living bone cells live inside it and keep building it."
       }
      ],
      "ask": "Talk it over. Who do you agree with? Give one reason. Then say one thing another person has right. A grown-up writes down your answer.",
      "lines": 3,
-     "a": "A strong answer picks one view with a reason. Revathi is right that a living bone mends. The first person is right that a museum skeleton is no longer alive, because the bone cells have died. The aunt explains both: the hard part is mineral, and the cells inside it are alive.",
+     "a": "A strong answer picks one view with a reason. The first person is right that a living bone mends. The second person is right that a museum skeleton is no longer alive, because the bone cells have died. The third person explains both: the hard part is mineral, and the cells inside it are alive.",
      "why": "Bone in a living body is alive, because it has living cells and blood. When an animal dies, the cells die, and the hard mineral part is left."
     },
     {
@@ -2196,7 +2196,7 @@
   "context": "We have felt our bones, found our joints and tested which joints can draw a circle. Now we ask what the Torch on the Wall experiment tells us about ourselves.",
   "deep_truth": {
    "truth": "In the Torch on the Wall experiment, when you moved only your elbow, the torch light could only go up and down. When you moved only your shoulder, the light drew a whole circle. The elbow fits together like a door hinge, and the shoulder like a ball in a cup. So the ways your body can move are set by the shapes where its bones meet.",
-   "habit": "We think of moving as something we simply decide to do, or something our muscles do. But muscles can only pull a bone the ways its joint allows. The shape where the bones meet decides which paths are possible.",
+   "habit": "We think of moving as something we simply decide to do, or something our muscles do. But a muscle can only pull a bone in the directions its joint allows. The shape of the joint decides which movements are possible.",
    "evidence": "In the Torch on the Wall experiment, the shoulder could draw a circle, while the elbow and middle finger joint could only go back and forth. In an X-ray or a skeleton, the top of the arm bone is a round ball in a cup, and the elbow is a hinge."
   },
   "three": {

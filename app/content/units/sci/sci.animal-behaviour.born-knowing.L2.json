@@ -3,11 +3,11 @@
  "title": "Born knowing and learning: what animals can do from birth, and what they learn",
  "level": 2,
  "summary": {
-  "text": "A baby spider spins her first web with no one to show her how. Some things an animal can do from the day they are born, with no teaching. This is called instinct. Other things an animal learns, by trying again and again, or by watching others. Humans are animals too: a newborn baby grips your finger without being taught, but has to learn to talk. Your child tests their own knee kick, a born-with action, to find out whether they can stop it by trying.",
+  "text": "A baby spider spins her first web with no one to show her how. Animals can do some things from the day they are born, with no teaching. This is called instinct. Other things an animal learns, by trying again and again, or by watching others. Humans are animals too: a newborn baby grips your finger without being taught, but has to learn to talk. Your child tests their own knee kick, a born-with action, to find out whether they can stop it by trying.",
   "art": "A small brown spider spinning a round web on a balcony grill at dusk, and inside the flat a girl holding out her finger to a newborn baby who grips her finger tight."
  },
  "intro": {
-  "hook": "Many spider mothers leave before their babies hatch. Nobody ever shows the babies how to spin a web. Yet each one spins a web of the right shape. How does she know how?",
+  "hook": "Many spider mothers leave before their babies hatch. Nobody ever shows the babies how to spin a web. Yet each one spins a web of the right shape. How does each baby know how?",
   "text": "Some things you could do on the day you were born. You could cry, drink milk and hold a finger tight. Nobody taught you. Other things you learned later, like talking and brushing your teeth. Other animals are the same. A spider is born ready to spin. A kitten learns to hunt by watching her mother. In this unit you meet animals who are born knowing, and animals who learn. Then you test a born-with action in your own body: can you stop it if you try?",
   "art": "Two halves of one picture: on the left a newborn baby gripping a grown-up's finger, on the right the same child, now seven, wobbling on a cycle with a grown-up holding the seat."
  },
@@ -70,7 +70,7 @@
    "status": "defined",
    "context": "This card is about the things an animal can do from the day they are born.",
    "definition": "An instinct is something an animal can do from birth, the first time, without being taught.",
-   "description": "In many kinds of spider, the mother lays her eggs in a silk bag and leaves. The spiderlings hatch alone. Yet each one spins a web of the right shape for her kind. A newborn calf stands up and walks within a few hours. A turtle hatchling crawls towards the sea the moment she comes out of the sand. Human babies have instincts too. A newborn baby turns her head to a touch on the cheek, and sucks to drink milk. The know-how for an instinct comes from the parents, passed on in the body. Scientists say it is carried in genes, the tiny instructions inside every cell.",
+   "description": "In many kinds of spider, the mother lays her eggs in a silk bag and leaves. The spiderlings hatch alone. Yet each one spins a web of the right shape for her kind. A newborn calf stands up and walks within a few hours. A turtle hatchling crawls towards the sea the moment she comes out of the sand. She crawls towards the brightest light she sees. On a dark beach, that is usually the sky shining over the sea. Human babies have instincts too. A newborn baby turns her head to a touch on the cheek, and sucks to drink milk. The know-how for an instinct comes from the parents, passed on in the body. Scientists say it is carried in genes, the tiny instructions inside every cell.",
    "examples": [
     "A spiderling spins her first web with no teacher.",
     "A newborn calf stands up and walks on the day he is born.",
@@ -218,7 +218,7 @@
   {
    "q": "Are the things you were born knowing really yours, or did you get them from everyone before you?",
    "kind": "big",
-   "hint": "Your parents passed on genes from their parents, and they from theirs. Is a gift from long ago still yours?"
+   "hint": "Your parents passed on genes that came from their parents, and so on. Do you think something you got from your family is still yours?"
   }
  ],
  "story": {
@@ -491,7 +491,8 @@
      "do": "Talk about who taught the spider.",
      "say": "Most spider mothers are not there to teach their babies. Each kind of spider spins the web of her own kind. How do you think she knows how?",
      "kid": "Who taught this spider? How does she know how to spin?",
-     "think": "If you saw a round web and a tangle web, were they spun by the same kind of spider?"
+     "think": "If you saw a round web and a tangle web, were they spun by the same kind of spider?",
+     "parent": "Not usually. Each kind of spider spins the web shape of her own kind, so a round web and a tangle web were most likely spun by different kinds of spider."
     }
    ]
   },
@@ -1039,7 +1040,8 @@
       "why": "Hatchlings crawl towards the brightest light, which is usually the sky over the sea. A bright light on land can lead them away from the sea."
      }
     }
-   ]
+   ],
+   "problem": "At night, turtle hatchlings crawl towards the brightest light they see. On a dark beach, that is usually the sky over the sea. A bright street light or shop sign on land can lead them the wrong way. You count the lights you can see from your window, and then decide which ones could be switched off near a turtle beach."
   }
  ],
  "challenges": [
@@ -1252,18 +1254,18 @@
     },
     {
      "t": "perspective",
-     "p": "The first child, aged 7, lives in Chennai. A spider has spun a round web on the balcony grill.",
+     "p": "A girl aged 7 lives in Chennai. A spider has spun a round web on the balcony grill.",
      "views": [
       {
-       "who": "The first child",
+       "who": "The girl",
        "says": "Let's sweep the web away. It is messy."
       },
       {
-       "who": "The first child's grandmother",
+       "who": "The girl's grandmother",
        "says": "Leave it. The spider spun the web with nobody to teach her, and the web catches mosquitoes."
       },
       {
-       "who": "The first child's mother",
+       "who": "The girl's mother",
        "says": "Leave it tonight so we can watch how she mends it. We can look again tomorrow."
       }
      ],
@@ -2007,9 +2009,9 @@
    "kid": "Sit still. Close your eyes. Feel your breath. Nobody taught you to breathe. Now breathe in slowly for four counts. Breathe out for four counts. Do it three times."
   },
   "ask": [
-   "If your leg kicks before you decide, who kicked: you, or your leg?",
+   "Your knee kicked before you decided anything. Which parts of your body made it kick, if your thinking did not?",
    "Which matters more to who you are: what you were born with, or what you learned?",
-   "Is a gift passed down to you from long ago still yours?"
+   "Your knee kick and your grip came to you from your parents and the animals before them. Does that make them any less yours?"
   ],
   "art": "A girl sitting cross-legged with her eyes closed on a balcony at dusk, with a round spider web glowing on the grill beside her."
  },
@@ -2021,5 +2023,5 @@
   "art": "Two garden spiders in small clear boxes floating inside a space station, one with a round web, and an astronaut looking in through the window, with a photo of a smiling girl student pinned beside the boxes."
  },
  "playtest": "Walked through the unit as a parent and child in a flat. The 20-square board is now written out square by square, with three Say-it squares, and the race rules say what happens at the start and the end. The Turtle Run game could never have a winner, because everyone crawls to the same light; it is now one shared goal, with torches a single grown-up can switch, and a shaded-sign card. The weaving challenge now has strips for two mats and a lift test, the family names and mothers assumed in steps were removed, and repeated questions and one weak joke were cut.",
- "warm": {"words": ["CHICK", "LEARN", "BIRTH", "GRIPS", "SKILL"], "quiz": [["A baby spider can spin a web without anyone showing her how.", true, "Spinning is an instinct: she is born knowing how."], ["If an animal acts by instinct, she does it perfectly the first time.", false, "A chick's first pecks miss many grains, and her aim gets better with practice."], ["You can only learn something if a teacher shows you.", false, "We also learn by trying again and again and by watching others."], ["A newborn baby can already suck milk and grip a finger.", true, "These are instincts. Human babies are born able to do some things without being taught."], ["Only humans learn; other animals do everything by instinct.", false, "Animals learn too, such as where to find food and which foods are safe."], ["A spider still makes choices, like where to put her web.", true, "Instinct and thinking work together: she picks a good place and mends holes."], ["Your knee kicks by itself before you decide to do it.", true, "That is a reflex, a very quick action the body does by itself."], ["A baby is born already knowing which language her family speaks.", false, "Babies learn to talk by listening to the people around them."], ["Instinct and learning never work together in the same action.", false, "Many actions start as instinct and get better with practice, like a chick's pecking."], ["Which foods are safe to eat is something many animals learn after birth.", true, "Learning means getting new know-how after birth, by trying or by watching others."]], "odd": [[["Spider spinning a web", "Calf standing up", "Baby gripping a finger", "Child reading a book"], "Child reading a book", "The first three are born-with instincts; reading must be learned."], [["Knee kick", "Pulling a hand from a hot pan", "Blinking at dust", "Choosing a snack"], "Choosing a snack", "The first three are reflexes the body does before you decide; choosing a snack is a decision."], [["Trying again and again", "Watching others", "Being taught", "Being born with it"], "Being born with it", "The first three are ways of learning after birth; something you are born with is not learned."], [["Instructions inside the body", "Passed on by parents", "Found in every living body", "Taught by a teacher"], "Taught by a teacher", "Genes are inside every body and come from parents; a teacher's lesson is not a gene."], [["Chick's pecking aim", "Young weaver bird's nest", "Child's handwriting", "Knee kick"], "Knee kick", "The first three get better with practice; the knee kick is a reflex that happens by itself."]]}
+ "warm": {"words": ["CHICK", "LEARN", "BIRTH", "GRIPS", "SKILL"], "quiz": [["A baby spider can spin a web without anyone showing her how.", true, "Spinning is an instinct: she is born knowing how."], ["If an animal acts by instinct, she does it perfectly the first time.", false, "A chick's first pecks miss many grains, and her aim gets better with practice."], ["You can only learn something if a teacher shows you.", false, "We also learn by trying again and again and by watching others."], ["A newborn baby can already suck milk and grip a finger.", true, "These are instincts. Human babies are born able to do some things without being taught."], ["Only humans learn; other animals do everything by instinct.", false, "Animals learn too, such as where to find food and which foods are safe."], ["A spider still makes choices, like where to put her web.", true, "Instinct and thinking work together: she picks a good place and mends holes."], ["Your knee kicks by itself before you decide to do it.", true, "That is a reflex, a very quick action the body does by itself."], ["A baby is born already knowing which language her family speaks.", false, "Babies learn to talk by listening to the people around them."], ["Instinct and learning never work together in the same action.", false, "Many actions start as instinct and get better with practice, like a chick's pecking."], ["Which foods are safe to eat is something many animals learn after birth.", true, "Learning means getting new know-how after birth, by trying or by watching others."]], "odd": [[["Spider spinning a web", "Calf standing up", "Baby gripping a finger", "Child reading a book"], "Child reading a book", "The first three are born-with instincts. Reading must be learned."], [["Knee kick", "Pulling a hand from a hot pan", "Blinking at dust", "Choosing a snack"], "Choosing a snack", "The first three are reflexes, which the body does before you decide. Choosing a snack is a decision."], [["Trying again and again", "Watching others", "Being taught", "Being born with it"], "Being born with it", "The first three are ways of learning after birth. Something you are born with is not learned."], [["Instructions inside the body", "Passed on by parents", "Found in every living body", "Taught by a teacher"], "Taught by a teacher", "Genes are inside every body and come from parents. A teacher's lesson is not a gene."], [["Chick's pecking aim", "Young weaver bird's nest", "Child's handwriting", "Knee kick"], "Knee kick", "The first three get better with practice. The knee kick is a reflex that happens by itself."]]}
 }

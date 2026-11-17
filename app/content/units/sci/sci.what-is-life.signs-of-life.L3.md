@@ -191,7 +191,7 @@ A dry seed and a boiled seed are made of the same kinds of atoms, and they look 
 ## Deep and big questions
 - *deep:* Is a dry seed in a packet alive right now, or only alive later? (hint: Think about what happens when you boil a seed. A boiled seed never wakes up. So what was in the dry seed that the boiled seed lost?)
 - *deep:* Why does a car need a factory, but a hen does not need a factory to make a chick? (hint: Where are the instructions for making a chick kept? Where are the instructions for a car kept?)
-- *big:* If you breathe out, and a tree takes in your breath to make sugar, and you eat a mango from that tree, where do you end and the tree begin? (hint: Think about one atom of carbon. You breathe it out, and a tree uses it to make sugar. Then you eat the mango that the sugar became part of. Where is that atom at each step?)
+- *big:* If you breathe out, and a tree takes in your breath to make sugar, and you eat a mango from that tree, where do you end and the tree begin? (hint: Think about one atom of carbon. You breathe the atom out, and a tree takes it in and makes sugar. Then you eat the mango that the sugar became part of. Where is that atom at each step?)
 - *deep:* Is your body the same body you had last year? (hint: Many of your cells have been replaced since then. Your blood cells last only about four months.)
 - *big:* If we found something on Mars, how would we know if it was alive? (hint: Which of the seven signs could a robot test from far away?)
 - *big:* Could something be a little bit alive? (hint: Think of a dry seed, a virus, or J.C. Bose's tired metal. Is being alive like a switch, on or off, or more like a dimmer?)

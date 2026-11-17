@@ -53,7 +53,7 @@ A bone is stiff. It does not bend. So you can only bend where two bones meet. Ea
 ### Hinge joints and ball and socket joints · *defined*
 **Definition:** A hinge joint moves one way and back, like a door. A ball and socket joint can move in almost every direction, because a round ball of bone turns in a cup.
 
-At your elbow, the bones fit together like a hinge. So the torch light could only go up and down in a line. At your shoulder, the round top of your arm bone sits in a shallow cup. So the light could go round in a whole circle. Your knee and the middle joints of your fingers are hinges. Your hip is a ball and socket joint. Your wrist and big knuckles are in between, and draw a small circle.
+At your elbow, the bones fit together like a hinge. So in the Torch on the Wall experiment, the torch light could only go up and down in a line. At your shoulder, the round top of your arm bone sits in a shallow cup. So the light could go round in a whole circle. Your knee and the middle joints of your fingers are hinges. Your hip is a ball and socket joint. Your wrist and big knuckles are in between. They can draw a small circle.
 - e.g. Hinge joints: elbow, knee, the middle and end joints of your fingers.
 - e.g. Ball and socket joints: shoulder and hip.
 - e.g. In between: wrist, ankle, and the big knuckles where your fingers join your hand.
@@ -111,20 +111,20 @@ A crow, a cat, a house lizard and you all have a backbone, a skull and ribs. The
   Against: Bones in a living body have blood and living cells. They mend when broken and get thicker when used more.
 
 ## Roots
-We have felt our bones, found our joints and tested which joints can draw a circle. Now we ask what the torch test tells us about ourselves.
+We have felt our bones, found our joints and tested which joints can draw a circle. Now we ask what the Torch on the Wall experiment tells us about ourselves.
 
-**Deep truth.** When you moved only your elbow, the torch light could only go up and down. When you moved only your shoulder, the light drew a whole circle. The elbow fits together like a door hinge, and the shoulder like a ball in a cup. So the ways your body can move are set by the shapes where its bones meet.  
-*Habit it breaks:* We think of moving as something we simply decide to do, or something our muscles do. But muscles can only pull a bone the ways its joint allows. The shape where the bones meet decides which paths are possible.  
-*Evidence:* In the torch test, the shoulder and hip could draw circles, while the elbow, knee and middle finger joints could only go back and forth. In an X-ray or a skeleton, the top of the arm bone is a round ball in a cup, and the elbow is a hinge.
+**Deep truth.** In the Torch on the Wall experiment, when you moved only your elbow, the torch light could only go up and down. When you moved only your shoulder, the light drew a whole circle. The elbow fits together like a door hinge, and the shoulder like a ball in a cup. So the ways your body can move are set by the shapes where its bones meet.  
+*Habit it breaks:* We think of moving as something we simply decide to do, or something our muscles do. But a muscle can only pull a bone in the directions its joint allows. The shape of the joint decides which movements are possible.  
+*Evidence:* In the Torch on the Wall experiment, the shoulder could draw a circle, while the elbow and middle finger joint could only go back and forth. In an X-ray or a skeleton, the top of the arm bone is a round ball in a cup, and the elbow is a hinge.
 
-- *who am i:* You are a frame of about 206 living bones, joined at many joints, and moved by muscles that pull.
+- *who am i:* Inside you is a frame of living bones, about 206 in a grown-up. They are joined at many joints and moved by muscles that pull.
 - *what is life:* Your bones are alive. Bone cells feel the pushes of your running and jumping, and build bone thicker where it is pushed most.
 - *what is this world:* A crow, a cat, a fish and you all have a backbone, a skull and ribs. Many animals share one plan of bones, in different shapes.
 
 Bone cells feel the pressing of your weight and the jolts of your jumping. They answer by building bone where it is needed and taking it away where it is not. So the shape of your bones is a record of how you have lived and moved. Some scientists call this an automatic response to pressure.
 
-- **Sushruta Samhita, Sharira Sthana, chapter 5:** Sushruta, a surgeon in ancient India, named the joints of the body by their shapes. He called the joints of the fingers, knees and elbows kora, like a hinge. He called the joints of the shoulders and hips ulukhala, like a mortar with its pestle. (This is what your torch test found: the hinge joints swing one way, and the shoulder and hip turn in a cup like a pestle in a mortar.)
-- **Tao Te Ching, chapter 76:** The Tao Te Ching, an old Chinese book, says that a living person is soft and bending, and a dead body is stiff and hard. A living plant is soft and bends, and a dead one is dry and breaks. (Both link life with moving and changing. A living body bends at its joints, and living bone is always being rebuilt. A museum skeleton is hard and still, because its living cells have gone.)
+- **Sushruta Samhita, Sharira Sthana, chapter 5:** Sushruta, a surgeon in ancient India, named the joints of the body by their shapes. He called the joints of the fingers, knees and elbows kora, like a hinge. He called the joints of the shoulders and hips ulukhala, like a mortar with its pestle. (The Torch on the Wall experiment found the same thing: the hinge joints swing one way, and the shoulder and hip turn in a cup like a pestle in a mortar.)
+- **Tao Te Ching, chapter 76:** The Tao Te Ching, an old Chinese book, says that a living person is soft and bending, and a dead body is stiff and hard. A living plant is soft and bends, and a dead one is dry and breaks. (This unit says something similar: life goes with moving and changing. A living body bends at its joints, and living bone is always being rebuilt. A museum skeleton is hard and still, because its living cells have died.)
 - Science (settled): Bone is living. Bone cells build and remove bone all through life, and build more bone where it is pressed and pushed.
 - Science (open): Exactly how bone cells sense pressure and pass the message to other cells is still being worked out.
 - Other view, Many biologists: Many biologists say bone cells do not listen or answer in any way like a person does. They say the cells follow chemical rules when they are squeezed, the way a switch turns on when it is pressed.
@@ -201,9 +201,9 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
   *Child mode:* Fist means bone. Bending finger means joint. Open hand means soft.
 - **s2 (11 min)**  
   *Parent does:* Take turns reading the cards. Everyone shows a sign, then checks on their own body, then reads the back.  
-  *Parent says:* The tip of your nose. Show me! Now press it gently. Were you right?  
+  *Parent says:* This card says: the tip of your nose. Show me your sign! Now press it gently. Were you right?  
   *Child mode:* Read a card. Show your sign. Check on your body. Read the back.
-  - Ask: Which card surprised you? (good: My nose tip is not bone!; My tummy has no bone at the front.; My calf is soft but there is bone inside.)
+  - Ask: Which places on the cards were soft and not bone? (good: The tip of the nose and the flap of the ear.; The front of the tummy.; The calf and the middle of the upper arm, because they are muscle.)
   - Note: Let your child press each place before turning the card. Feeling it is the point of the game.
 - **s3 (2 min)**  
   *Parent does:* Count the points and talk.  
@@ -226,8 +226,8 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
 - **s3 (3 min)**  
   *Parent does:* Look at the finished skeletons together.  
   *Parent says:* Point to every joint in your skeleton. Which ones are hinges? Which are ball and socket joints?  
-  *Child mode:* Point to each joint. Which are hinges? Which are balls?
-  - Check: In the skeleton game, Divya puts the thigh bone between the hip and the knee. Is she right? → **Yes, the thigh bone goes from the hip to the knee**
+  *Child mode:* Point to each joint. Which are hinges? Which are ball and socket joints?
+  - Check: In the Build a Skeleton game, a player puts the thigh bone between the hip and the knee. Is that right? → **Yes, the thigh bone goes from the hip to the knee**
 
 ## Experiments
 ### e1 · Torch on the Wall: which joints can draw a circle? (25 min)
@@ -262,7 +262,7 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
   *Parent does:* 1. Your child rests the forearm flat on a table or a bed edge, with the hand and torch past the edge. 2. Press the forearm gently down. 3. Your child moves only the hand, at the wrist. 4. Try three times.  
   *Parent says:* Your arm stays on the table. Move only your wrist. Can the light go round?  
   *Child mode:* Keep your arm on the table. Move only your wrist. Can the light go round?
-  - Note: The wrist can usually draw a small circle or an oval. It moves up and down and side to side. It is in between a hinge and a ball.
+  - Note: The wrist can usually draw a small circle or an oval. It moves up and down and side to side. It is in between a hinge joint and a ball and socket joint.
 - **s6 (3 min)**  
   *Parent does:* 1. Put a small sketch-pen dot on the nail of your child's pointing finger. 2. Your child lays the hand flat on the table and you hold the back of the hand down. 3. First they lift the finger from the big knuckle and try to draw a circle in the air. 4. Then you hold the finger below the middle joint, and they move only the top part.  
   *Parent says:* Watch the dot on your nail. First move only the big knuckle. Can the dot go round? Now I hold your finger. Move only the top part. Can it go round now?  
@@ -272,9 +272,9 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
   *Parent does:* Look at the table together. Ask your child what they think, what they saw, and why.  
   *Parent says:* Which joints drew a circle? Which only drew a line? Why do you think the shoulder and the elbow are so different?  
   *Child mode:* Which joints made a circle? Which made a line? Why are they different?
-  - Ask: Why can the shoulder draw a circle when the elbow cannot? (good: The bones fit together in a different shape.; The shoulder is round, so it turns every way.; The elbow is like a door, it only opens and shuts.)
+  - Ask: Why can the shoulder draw a circle when the elbow cannot? (good: The bones fit together in a different shape.; The shoulder is round, so it turns every way.; The elbow is like a door. It only opens and shuts.)
   - Note: A strong answer uses the table: 'My shoulder made a circle, but my elbow only made a line.' Then read the card on hinge joints and ball and socket joints.
-  - Check: Meenakshi, a girl of 7, holds a torch and moves only her elbow. What does the light on the wall do? → **It goes up and down in a line**
+  - Check: You hold a torch and move only your elbow. What does the light on the wall do? → **It goes up and down in a line**
 ### e2 · Bone Hunt: where is bone close to your skin? (20 min)
 - **question:** On which parts of your body can you feel hard bone just under the skin, and on which parts can you feel only soft muscle and fat?
 - **predict:** Look at the list of 14 places. For each one, guess: will you feel hard bone, or only soft parts? Why do you think so?
@@ -288,9 +288,9 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
   - Note: The 14 places are: top of the head, forehead, top of the nose, tip of the nose, ear flap, collarbone, sides of the chest, front of the tummy, point of the elbow, middle of the upper arm, kneecap, front of the shin, back of the calf, and the knobs at the ankle. Write the guesses in the table. Do not say the answers yet.
 - **s2 (8 min)**  
   *Parent does:* Your child presses each place gently with two fingertips, one at a time. After each one, they put a red or a blue dot on the body outline.  
-  *Parent says:* Press gently, like you are feeling a ripe mango. Is it hard and does not squash? Then it is bone. Red dot. Is it soft? Blue dot.  
-  *Child mode:* Press gently with two fingers. Hard? Red dot. Soft? Blue dot.
-  - Ask: Which place surprised you? (good: The tip of my nose bends!; My tummy has no bone at the front.; My ear is bendy, not hard.)
+  *Parent says:* Press gently, like you are feeling a ripe mango. If it is hard and does not squash, it is bone. Put a red dot. If it is soft, put a blue dot.  
+  *Child mode:* Press gently with two fingers. If it is hard, put a red dot. If it is soft, put a blue dot.
+  - Ask: Which places felt hard, and which felt soft or bendy? (good: The shin and the kneecap felt hard.; My tummy felt soft.; The tip of my nose and my ear were bendy.)
   - Note: Hard bone is easy to feel on the head, the top of the nose, the collarbone, the ribs, the elbow, the kneecap, the shin and the ankle knobs. The tummy and the middle of the upper arm and calf feel soft. The nose tip and the ear flap bend, because they are cartilage, not bone. Press gently on the chest and tummy, never hard.
 - **s3 (4 min)**  
   *Parent does:* Your child presses the same places on you. Talk about whether your body felt the same.  
@@ -303,7 +303,7 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
   *Child mode:* Count the red dots and the blue dots. Why is there no bone on your tummy?
   - Ask: Why is there bone over your chest but not at the front of your tummy? (good: The ribs keep my heart and lungs safe.; My tummy has to bend and get bigger after I eat.)
   - Note: Most children find about 9 or 10 red places and 4 or 5 blue ones. There is bone at the back of the tummy: the backbone. The front needs to bend and stretch when you bend over, breathe and eat.
-  - Check: Pooja, a girl of 7, presses the tip of her nose and it bends. Why? → **The tip of the nose is cartilage, which is bendy**
+  - Check: You press the tip of your nose and it bends. Why? → **The tip of the nose is cartilage, which is bendy**
 
 ## Activities
 ### a1 · Bend and Dot: how many bones are in your hand? (8 min)
@@ -314,7 +314,7 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
   *Child mode:* Bend one finger very slowly. Where does it bend? How many places?
   - Note: Do not explain yet. Let your child notice that the finger bends in only a few places.
 - **s2 (3 min)**  
-  *Parent does:* 1. Put a small dot on the back of the finger at each bend, including the big knuckle. 2. Do the same for every finger and the thumb. 3. Press between the dots.  
+  *Parent does:* 1. Put a small sketch-pen dot on the back of the finger at each bend, including the big knuckle. 2. Do the same for every finger and the thumb. 3. Press between the dots.  
   *Parent says:* Let's put a dot at every bend. Now press between the dots. Is it hard or soft in there?  
   *Child mode:* Put a dot at every bend. Press between the dots. Hard or soft?
   - Note: Each finger bends in three places, so it has three bones. The thumb bends in two places that are easy to see, so it has two bones in the thumb part. Its third long bone is inside the palm.
@@ -323,7 +323,7 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
   *Parent says:* Draw a short line for each bone, and a dot for each joint. How many bones are in your four fingers and thumb altogether?  
   *Child mode:* Draw a line for each bone. Count them all. How many?
   - Note: Four fingers with 3 bones each make 12. The thumb adds 2. That makes 14 bones in the fingers and thumb of one hand. The whole hand, with the palm and the wrist, has 27 bones.
-  - Check: Arjun bends his middle finger slowly and counts three bends. How many bones are in that finger? → **3 bones**
+  - Check: You bend your middle finger slowly and count three bends. How many bones are in that finger? → **3 bones**
 ### a2 · Floppy Sock Arm: why do we need bones? (10 min)
 - **record:** Draw the three socks: floppy, stiff, and bending in the middle.
 - **s1 (3 min)**  
@@ -339,8 +339,8 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
 - **s3 (4 min)**  
   *Parent does:* Take out the ruler. Push in two pencils, one after the other, so they meet in the middle of the sock. Bend the sock where they meet.  
   *Parent says:* Now it has two bones and a joint between them. What can it do now? Which part of your own arm is like this?  
-  *Child mode:* Two bones now. Bend it where they meet. Which part of you is like this?
-  - Ask: Which part of your body is like the sock with two pencils? (good: My elbow, it bends in the middle of my arm.; My finger, it has bones and bends between them.)
+  *Child mode:* Now it has two bones. Bend it where they meet. Which part of you is like this?
+  - Ask: Which part of your body is like the sock with two pencils? (good: My elbow. It bends in the middle of my arm.; My finger. It has bones and bends between them.)
   - Note: A body needs both: stiff bones to hold it up, and joints so it can bend. In a real arm, muscles do the bending.
 ### a3 · Muscle Feel: what does a muscle do when it works? (8 min)
 - **record:** Draw your arm twice: once straight, with a long thin muscle, and once bent, with a short fat muscle.
@@ -355,12 +355,12 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
   *Parent says:* Stand on tiptoe. Feel just above your heel at the back. What is that hard cord? What happens to it when you go up?  
   *Child mode:* Stand on tiptoe. Feel above your heel at the back. What is that cord?
   - Note: This is a tendon. It joins the big calf muscle to the heel bone. When the calf muscle pulls, the tendon pulls the heel up.
-  - Check: Lakshmi lifts a bottle and feels the muscle in her upper arm get short and hard. What is the muscle doing? → **Pulling on a bone to bend her arm**
+  - Check: You lift a bottle and feel the muscle in your upper arm get short and hard. What is the muscle doing? → **Pulling on a bone to bend your arm**
 ### a4 · Backward Knees? Look at a bird's leg (10 min)
 - **record:** Draw a bird's leg and your leg on tiptoe side by side. Label the knee, the ankle and the toes on both.
 - **s1 (3 min)**  
   *Parent does:* Watch a bird at the window, or look at a picture. Point to the bend halfway down the bird's leg.  
-  *Parent says:* Look at the crow's leg. Which way does the middle bend point? Is it like your knee? Why do you think so?  
+  *Parent says:* Look at the crow's leg. Which way does the bend in the middle point? Is it like your knee? Why do you think so?  
   *Child mode:* Look at the bird's leg. Which way does it bend? Is it like your knee?
   - Note: If no bird comes, a clear photo from a book or the internet works. The bend points backwards, the opposite way to a human knee.
 - **s2 (4 min)**  
@@ -398,14 +398,14 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
   *Parent says:* Which do you think is longer, your thigh bone or your upper arm bone? Why? Let's measure with string.  
   *Child mode:* Which is longer, your thigh bone or your arm bone? Measure with string.
   - Note: These string lengths are rough, because you are measuring over skin. The thigh bone should come out longest. It is about one quarter of a person's height.
-  - Check: Farhan measured his bones with string. Which one is most likely the longest? → **His thigh bone**
+  - Check: You measure your bones with string. Which one is most likely the longest? → **Your thigh bone**
 
 ## Challenges
 ### c1 · Make a Paper Finger That Bends (25 min)
-- **problem:** Can you make a paper finger with three bones and three joints, which curls up when you pull a thread, like a real finger?
+- **problem:** Can you make a paper finger with three bones and two joints, which curls up when you pull a thread, like a real finger?
 - **your turn:** Make your own finger. Does it bend only at the joints? If it bends in the wrong place, what can you change? Try again.
 - **constraints:** Use only paper or card, tape, thread or wool, and scissors.; The finger must bend only at the joints, not in the middle of a bone.; Pulling one thread must make it curl.
-- **general:** Fold the card lightly in two places to make joints, so it has three bones.; Roll three short paper tubes round a pencil and tape one on each bone, on the same side.; Thread the string through all three tubes, and tape the end to the tip of the finger. Pull the string, and the finger curls.
+- **general:** Fold the card lightly in two places to make joints, so it has three bones.; Roll three short paper tubes round a pencil and tape one on each bone, on the same side.; Pass the thread through all three tubes, and tape the end to the tip of the finger. Pull the thread, and the finger curls.
 - **creative:** Make a whole hand of five fingers, each with its own thread, and pull them all to make a fist.; Add a second thread on the back of the finger, so you can pull it straight again, the way a second muscle does.
 - **s1 (3 min)**  
   *Parent does:* Read the challenge with your child. Let them bend their own finger and feel the back of the hand.  
@@ -414,7 +414,7 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
 - **s2 (17 min) · grown-up needed**  
   *Parent does:* Your child builds the finger. A grown-up helps cut the card and tubes.  
   *Parent says:* Make your finger. Where will the joints go? What will the thread be?  
-  *Child mode:* Build your finger. Fold for joints. The thread is your tendon.
+  *Child mode:* Build your finger. Fold the card to make joints. The thread is your tendon.
   - Note: Use scissors with care. If the tubes are taped across the folds, the finger will not bend, so leave the folds clear.
 - **s3 (5 min)**  
   *Parent does:* Test the finger and improve it.  
@@ -438,7 +438,7 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
    **Answer:** front of the shin → Hard bone near the skin; front of the tummy → Soft; kneecap → Hard bone near the skin; back of the calf → Soft. *Why:* The shin bone and kneecap are just under the skin. The tummy has no bone at the front, and the calf is a thick muscle with the bone deep inside.
 7. (fill) A place where two bones meet is called a ___.  
    **Answer:** joint. *Why:* A joint is where two bones meet. Most joints let you bend or turn.
-8. (draw) In the torch test, what did the light do when you moved only your elbow? Draw it on the wall.  
+8. (draw) In the Torch on the Wall experiment, what did the light on the wall do when you moved only your elbow? Draw the shape it made.  
    **Answer:** A straight or curved line going up and down, not a circle.. *Why:* The elbow is a hinge joint, like a door. It moves one way and back, so the light makes a line.
 9. (odd) Which one is not a joint? Elbow, knee, shin, wrist.  
    Options: Elbow / Knee / Shin / Wrist  
@@ -446,10 +446,10 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
 10. (truefalse) True or false: a crow has a backbone, like you.  
    **Answer:** True. *Why:* True. Birds, cats, fish and humans all have a skull, a backbone and ribs inside, in different shapes.
 ### How Joints Move (stretch) (stretch, 10 questions)
-1. (write) In the Floppy Sock test, the sock with one long ruler inside could point but could not bend. What did it need to bend?  
+1. (write) In the Floppy Sock Arm activity, the sock with one long ruler inside could point but could not bend. What did it need to bend?  
    **Answer:** It needed two bones with a joint between them, like the two pencils.. *Why:* A strong answer says that stiff bones hold you up, but bending needs a joint where two bones meet.
 2. (perspective) Three cousins are arguing about which joint is the best.  
-   **Answer:** A strong answer picks a side and gives a reason. Kavya is right that the shoulder moves the most. Meena is right that a hinge is steady: a shoulder can slip out of its cup more easily than a knee or an elbow. Ammu is right that each joint fits what it does.. *Why:* A ball and socket joint moves more ways, but it is less steady. A hinge moves fewer ways, but it is steadier. Both kinds are useful in different places.
+   **Answer:** A strong answer picks a side and gives a reason. The first person is right that the shoulder moves the most. The second person is right that a hinge is steady: a shoulder can slip out of its cup more easily than a knee or an elbow. The third person is right that each joint fits what it does.. *Why:* A ball and socket joint moves more ways, but it is less steady. A hinge moves fewer ways, but it is steadier. Both kinds are useful in different places.
 3. (order) Put these bones in order, from the longest to the shortest.  
    **Answer:** ['the thigh bone', 'the upper arm bone', 'a finger bone', 'a tiny bone in the ear']. *Why:* The thigh bone is the longest bone in the body. The upper arm bone is shorter. Finger bones are small, and the tiniest bone, in the ear, is smaller than a grain of rice.
 4. (truefalse) True or false: a muscle can push a bone as well as pull it.  
@@ -468,14 +468,14 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
    Options: Bone cells build more bone where the body pushes on it most / She eats more than other people / Bones grow thicker if you do not use them  
    **Answer:** Bone cells build more bone where the body pushes on it most. *Why:* Bone is alive. Bone cells build more bone where it is pushed and pressed, so a hard-working arm gets stronger bones.
 ### Bone Puzzles (challenge) (challenge, 10 questions)
-1. (write) Say your answer out loud, and a grown-up writes it down. Imagine your knee were a ball and socket joint, like your hip. What new things could you do? What could go wrong?  
+1. (write) Say your answer out loud, and a grown-up writes it down. Suppose your knee was a ball and socket joint, like your hip. What new things could you do? What could go wrong?  
    **Answer:** I could swing my lower leg round in a circle. But my knee might wobble or slip when I stand or jump.. *Why:* A strong answer gives one thing gained, more ways to move, and one thing lost, a steady knee to stand on.
-2. (perspective) Revathi, a girl in Class 2, talks with her cousin Anitha and her aunt about whether bones are alive.  
-   **Answer:** A strong answer picks one view with a reason. Revathi is right that a living bone mends. Anitha is right that a museum skeleton is no longer alive, because the bone cells have died. The aunt explains both: the hard part is mineral, and the cells inside it are alive.. *Why:* Bone in a living body is alive, because it has living cells and blood. When an animal dies, the cells die, and the hard mineral part is left.
+2. (perspective) Three people are talking about whether bones are alive.  
+   **Answer:** A strong answer picks one view with a reason. The first person is right that a living bone mends. The second person is right that a museum skeleton is no longer alive, because the bone cells have died. The third person explains both: the hard part is mineral, and the cells inside it are alive.. *Why:* Bone in a living body is alive, because it has living cells and blood. When an animal dies, the cells die, and the hard mineral part is left.
 3. (mcq) Astronauts who live in space for months come back with weaker bones. Why?  
    Options: In space, nothing presses on their bones, so bone cells build less bone / There is no food in space / Their bones melt in the cold  
    **Answer:** In space, nothing presses on their bones, so bone cells build less bone. *Why:* Bone cells build bone where it is pushed and pressed. In space, the body has no weight pressing down, so some bone is lost. Astronauts exercise every day to slow this.
-4. (draw) Design a robot arm that must stir a pot of sambar round and round. Draw it, and mark which joints are hinges and which are balls.  
+4. (draw) Design a robot arm that must stir a pot of sambar round and round. Draw it, and mark which joints are hinges and which are ball and socket joints.  
    **Answer:** An arm with at least one ball and socket joint or a turning joint, so the spoon can go round.. *Why:* A strong design uses a ball and socket joint, or a joint that turns, because stirring needs a circle. Hinges alone only go back and forth.
 5. (write) Say your answer out loud, and a grown-up writes it down. Many people say that cracking your knuckles is bad for your joints. How could you test this?  
    **Answer:** One person cracks the knuckles of only one hand for many years. Then a doctor checks both hands and compares them.. *Why:* A strong answer compares two groups or two hands that are the same except for the cracking. A doctor named Donald Unger did this with his own hands for about 60 years and found no difference.
@@ -485,14 +485,14 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
    **Answer:** giraffe → has 7 neck bones, like you; crow → the backward bend in the leg is the ankle; ant → has a hard skeleton on the outside; fish → has a backbone and ribs inside. *Why:* Giraffes and humans are both mammals with 7 neck bones. Birds stand on their toes. Ants have no bones, and their hard skeleton is outside. Fish have a backbone, like us.
 8. (label) Label the finger drawing: bone, joint, tendon.  
    **Answer:** ['bone: the stiff parts between the bends', 'joint: the places where the finger bends', 'tendon: the cord along the finger that pulls it']. *Why:* The bones are stiff, the joints are where it bends, and the tendons are pulled by muscles in the forearm to curl the finger.
-9. (sort) Sort these joints by what the torch light did: a line or a circle.  
-   **Answer:** knee → Only a line; hip → A circle; elbow → Only a line; shoulder → A circle; middle joint of a finger → Only a line. *Why:* The knee, elbow and middle finger joint are hinges, so they move one way and back. The hip and shoulder are ball and socket joints, so they can go round.
+9. (sort) In the Torch on the Wall experiment, the torch light drew a line or a circle. Sort these joints by which one they can draw.  
+   **Answer:** knee → Only a line; hip → A circle; elbow → Only a line; shoulder → A circle; middle joint of a finger → Only a line. *Why:* The elbow and middle finger joint are hinges, so they move one way and back. The shoulder is a ball and socket joint, so it can go round.
 10. (write) Say your answer out loud, and a grown-up writes it down. In the Bone Hunt, you felt ribs over your chest but no bone at the front of your tummy. Why might a body be built that way?  
    **Answer:** The ribs keep my heart and lungs safe. My tummy needs to bend when I bend over, and to stretch when I eat a big meal.. *Why:* A strong answer gives a reason for both: soft parts that need guarding get bone, and parts that must bend and stretch do not.
 
 ## Videos
 - **Your Super Skeleton!** (SciShow Kids, 4 min) id `vRuh9aBwUdM`: Shows the main bones of the skeleton and their jobs, after your child has felt their own bones. *Check:* Found by search: "Your Super Skeleton!" by SciShow Kids, 4 minutes. A parent may preview it.
-- **How Do Our Bodies Move?** (SciShow Kids, 4 min) id `j918PoWWaB0`: Shows how bones, joints and muscles let the body move, to go with the torch test. *Check:* Found by search: "How Do Our Bodies Move?" by SciShow Kids, 3 minutes, 36 seconds. A parent may preview it.
+- **How Do Our Bodies Move?** (SciShow Kids, 4 min) id `j918PoWWaB0`: Shows how bones, joints and muscles let the body move, to go with the Torch on the Wall experiment. *Check:* Found by search: "How Do Our Bodies Move?" by SciShow Kids, 3 minutes, 36 seconds. A parent may preview it.
 - **How Do Broken Bones Heal?** (Peekaboo Kidz, 5 min) id `yovH2-Uw7i8`: Shows how a broken bone mends itself, to go with the story of Thatha's wrist. *Check:* Found by search: "How Bone Fractures Heal? | How Does a Broken Bone Heal? | Process of Bone Healing | Dr. Binocs Show" by Peekaboo Kidz, 5 minutes, 27 seconds. A parent may preview it.
 
 ## Quiz
@@ -501,7 +501,7 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
    **Answer:** Bones. *Why:* Bones are the hard parts inside you. Muscles are soft and can pull. Skin covers the outside.
 2. (mcq) About how many bones does a grown-up have?  
    Options: About 206 / About 20 / About 2,000  
-   **Answer:** About 206. *Why:* A grown-up has about 206 bones. A newborn baby has more pieces, about 300, which join as they grow.
+   **Answer:** About 206. *Why:* A grown-up has about 206 bones. A newborn baby has more pieces, about 300, and many of them join as the child grows.
 3. (mcq) What is a joint?  
    Options: A place where two bones meet / The middle of a bone / A kind of muscle  
    **Answer:** A place where two bones meet. *Why:* A joint is where two bones meet. Your body bends at its joints.
@@ -516,11 +516,11 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
    **Answer:** Keep your heart and lungs safe. *Why:* The ribs make a cage of bone round the heart and lungs.
 7. (mcq) What would a body be like with no bones at all?  
    Options: Floppy, like an empty sock / Just the same / Stiff, like a ruler  
-   **Answer:** Floppy, like an empty sock. *Why:* Bones hold the body up. Without them, a body would flop, like the empty sock in the Floppy Sock test.
+   **Answer:** Floppy, like an empty sock. *Why:* Bones hold the body up. Without them, a body would flop, like the empty sock in the Floppy Sock Arm activity.
 8. (mcq) How does a muscle move a bone?  
    Options: It gets shorter and pulls / It pushes the bone away / It gets longer and pushes  
    **Answer:** It gets shorter and pulls. *Why:* Muscles can only pull. They get shorter and harder as they pull a bone.
-9. (mcq) Selvi, a nurse, puts a plaster cast on a broken arm. Why?  
+9. (mcq) A nurse puts a plaster cast on a broken arm. Why?  
    Options: To keep the pieces still while the bone cells mend it / Because the cast makes new bone / To keep the arm warm  
    **Answer:** To keep the pieces still while the bone cells mend it. *Why:* Bone is alive. Bone cells build new bone across the crack. The cast only holds the pieces still so they join straight.
 10. (mcq) Why can a broken bone mend, when a cracked stone cannot?  
@@ -571,9 +571,9 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
 ## Connected maths
 - In the Bend and Dot activity, each finger had 3 bones and the thumb had 2. How many bones are in the fingers and thumb of one hand? **14 bones.**. Four fingers with 3 bones each: 3, 6, 9, 12. Add the thumb's 2 bones: 12 and 2 make 14. (queues `math.multiplication.equal-groups.L2`)
 - If one hand has 14 bones in its fingers and thumb, how many are in the fingers and thumbs of both hands? **28 bones.**. 14 and 14 make 28. That is double 14. (queues `math.addition-subtraction.mental-strategies.L2`)
-- In the Bone Hunt, Nandini made 9 red dots for hard bone and 5 blue dots for soft. Did she find more hard places or more soft places, and how many more? **More hard places, 4 more.**. Count on from 5 to 9: 6, 7, 8, 9. That is 4 more red dots than blue dots. (queues `math.data.sorting-and-tallies.L2`)
+- In the Bone Hunt, a child made 9 red dots for hard bone and 5 blue dots for soft. Did the child find more hard places or more soft places, and how many more? **More hard places, 4 more.**. Count on from 5 to 9: 6, 7, 8, 9. That is 4 more red dots than blue dots. (queues `math.data.sorting-and-tallies.L2`)
 - A giraffe has 7 neck bones. You have 7 neck bones. A giraffe's neck is much longer than yours. What must be different about the giraffe's neck bones? **Each of the giraffe's neck bones is much longer.**. The number is the same: 7 and 7. So the extra length must come from the size of each bone, not from more bones. (queues `math.number-sense.comparing-ordering.L2`)
-- Revathi is 120 centimetres tall. Her thigh bone is about one quarter of her height. About how long is her thigh bone? **About 30 centimetres.**. One quarter is half of a half. Half of 120 is 60. Half of 60 is 30. So her thigh bone is about 30 centimetres, as long as a school ruler. (queues `math.fractions.halves-and-quarters.L2`)
+- A child is 120 centimetres tall. The thigh bone is about one quarter of a person's height. About how long is the child's thigh bone? **About 30 centimetres.**. One quarter is half of a half. Half of 120 is 60. Half of 60 is 30. So the thigh bone is about 30 centimetres, as long as a school ruler. (queues `math.fractions.halves-and-quarters.L2`)
 
 ## Song
 I Grow a Little Every Day (sci.body.L2): Topic-level song for Our bodies L2

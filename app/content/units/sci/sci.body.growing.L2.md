@@ -15,7 +15,7 @@
 
 ## Terms
 - **Grow**: To grow is to get bigger and change as time passes. *e.g.* A baby grows into a child. Your feet grow, so old chappals stop fitting.
-- **Height**: Your height is how tall you are, from the floor to the top of your head. *e.g.* Meenakshi, a girl of 7, is 120 centimetres tall. Her grandmother, Ajji, is 150 centimetres tall.
+- **Height**: Your height is how tall you are, from the floor to the top of your head. *e.g.* A child of 7 may be 120 centimetres tall. A grandmother may be 150 centimetres tall.
 - **Centimetre**: A centimetre is a small, fixed length we use to measure. It is about as wide as your little fingernail. *e.g.* A school ruler is 15 or 30 centimetres long. Each centimetre has ten tiny lines, called millimetres.
 - **Adult**: An adult is a person, or another animal, who has finished growing up. *e.g.* Your parents, aunts and grandparents are adults. Adults stop getting taller.
 - **Life stage**: A life stage is one part of a life: baby, toddler, child, teenager, adult or older adult. *e.g.* You are in the child stage. A grandparent may be in the older adult stage.
@@ -34,7 +34,7 @@ Every person goes through the same life stages: baby, toddler, child, teenager, 
 ### How fast children grow · *defined*
 **Definition:** Babies grow fastest. Children then grow slowly and steadily, teenagers have a growth spurt, and then growing taller stops.
 
-A newborn baby is about 50 centimetres long. In the first year a baby grows about 25 centimetres, which is the fastest anyone grows after birth. After the age of 2, children grow about 5 to 6 centimetres a year. That is about a millimetre a week, too slow to see. In the teens there is a growth spurt, and then growing taller stops: at about 15 or 16 for most girls and 17 or 18 for most boys.
+A newborn baby is about 50 centimetres long. In the first year a baby grows about 25 centimetres, which is the fastest anyone grows after birth. After the age of 2, children grow about 5 to 6 centimetres a year. That is only about one millimetre a week. Growing that slowly is far too slow to see. In the teens there is a growth spurt, and then growing taller stops: at about 15 or 16 for most girls and 17 or 18 for most boys.
 - e.g. Newborn: about 50 centimetres.
 - e.g. One year old: about 75 centimetres.
 - e.g. Seven years old: often about 115 to 125 centimetres.
@@ -83,14 +83,14 @@ Most growth charts draw a smooth curve. In 1992, Michelle Lampl, an American sci
   Against: Other studies found only small or mixed season effects. Nobody knows for sure why there would be one.
 
 ## Roots
-We have learnt how a body grows from a baby to a grown-up, and how to measure growing carefully. Now we ask what the bedtime and morning test tells us about ourselves.
+We have learnt how a body grows from a baby to a grown-up, and how to measure growing carefully. Now we ask what the Bedtime Tall, Morning Tall experiment tells us about ourselves.
 
-**Deep truth.** At bedtime you marked your height, and next morning the mark was a little higher. You did not grow that much in one night. The discs in your backbone are pressed thin by day and fill up again as you lie down. So a body's size goes up and down every day, as well as growing over the years.  
+**Deep truth.** In the Bedtime Tall, Morning Tall experiment, you marked your height at bedtime, and next morning the mark was a little higher. You did not grow that much in one night. The discs in your backbone are pressed thin during the day and fill up again when you lie down. So a body's size goes up and down every day, as well as growing over the years.  
 *Habit it breaks:* We think of our height as one fixed number about us, like our name. But a body is always changing, even in a single day. Every measurement is a measurement at one time.  
-*Evidence:* In the bedtime and morning test, the red morning lines were higher than the blue bedtime lines, usually by a few millimetres for a child and more for a grown-up. A doctor in England wrote about the same change 300 years ago, and studies of children since then find a daily change of about half a centimetre to one and a half centimetres.
+*Evidence:* In the Bedtime Tall, Morning Tall experiment, the red morning lines were higher than the blue bedtime lines, usually by a few millimetres for a child and more for a grown-up. A doctor in England wrote about the same change 300 years ago. Studies of children since then find a daily change of about half a centimetre to one and a half centimetres.
 
 - *who am i:* You are a body that keeps changing: bigger every year, taller every morning, a little shorter every evening. And you are still you.
-- *what is life:* Being alive means building yourself again and again, out of food, sleep and the care of others.
+- *what is life:* A living body keeps building itself, again and again. It builds with food and sleep, and it needs the care of other people.
 - *what is this world:* Everything that lives is growing or changing all the time, even when it is too slow to see: a mango tree, a calf, a grandmother, you.
 
 You began very small, and every part of you since then has been built from food: milk, rice, dal, greens. The food came from plants, and the plants grew from sunlight, water and soil. So the water and soil of a paddy field in Thanjavur can become part of your thigh bone. Your body is always taking in new material and changing.
@@ -106,8 +106,8 @@ You began very small, and every part of you since then has been built from food:
 - Ask: Your bones were built from food. Where did that food come from before?
 
 ## Deep and big questions
-- *big:* Almost every part of your body has grown and changed since you were a baby. So what is it that stays you? (hint: Your size changed, your teeth changed and your hair changed. Your name and your memories stayed. Is that what makes you you?)
-- *deep:* If your height is different in the morning and at night, what is your real height? (hint: Think about the bedtime and morning test. Is one of the marks wrong? Or are both true?)
+- *big:* Almost every part of your body has grown and changed since you were a baby. So what makes you still you? (hint: Your size changed, your teeth changed and your hair changed. Your name and your memories stayed. Is that what makes you you?)
+- *deep:* If your height is different in the morning and at night, what is your real height? (hint: In the Bedtime Tall, Morning Tall experiment, your morning mark was higher than your bedtime mark. Is one of the marks wrong? Or are both true?)
 - *deep:* You did not see yourself grow even one day. How do you know you grew at all? (hint: Think of old clothes, old chappals and marks on the wall. What do they show?)
 - *big:* The food you ate last week is now part of your bones. Where does the food end and where do you begin? (hint: Your bones are built from milk, dal, ragi and greens. Is it still food, or is it you?)
 - *big:* Why do humans take so many years to grow up, when a calf can walk on her first day? (hint: Think about how much a child learns while growing up.)
@@ -165,7 +165,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 ## Games
 ### g1 · Taller, Shorter or Same? (15 min)
 - **rules:** Mix the cards and put them face down in a pile.; One player reads the front of the top card aloud, and keeps the back hidden.; Everyone shows an answer at the same time: hand held high for taller, hand held low for shorter, hand flat in front for the same.; Turn the card over and read the back aloud. Everyone with the right answer gets one point.; Take turns reading. When the pile is finished, the player with the most points wins. If two players have the same number, they both win.
-- **Printable cards: 14 cards to cut out, with the answer on the back:** A baby of 1, and a child of 7. Is the child taller, shorter or the same? (back: Taller. A child of 7 is often about 45 centimetres taller than a baby of 1.); A girl of 7, and the same girl at 8. Taller, shorter or the same at 8? (back: Taller. Children grow about 5 to 6 centimetres a year.); A woman of 30, and the same woman at 40. Taller, shorter or the same at 40? (back: The same. Adults have stopped getting taller.); You at bedtime, and you the next morning. Taller, shorter or the same in the morning? (back: Taller, a little. The discs in your backbone fill up again at night.); A newborn baby, and the same baby at 1. Taller, shorter or the same at 1? (back: Taller. A baby grows about 25 centimetres in the first year.); A grandfather at 40, and the same grandfather at 80. Taller, shorter or the same at 80? (back: Often a little shorter. Many older people lose a little height.); A girl of 12, and the same girl at 13. Taller, shorter or the same at 13? (back: Taller. Many girls have their growth spurt around this age.); A boy of 20, and the same boy at 25. Taller, shorter or the same at 25? (back: The same. Most men stop getting taller at about 17 or 18.); An astronaut on Earth, and the same astronaut in space. Taller, shorter or the same in space? (back: Taller, by a few centimetres. Nothing presses the discs in the backbone together in space.); You in the morning, and you after a long day of play. Taller, shorter or the same after play? (back: Shorter, a little. Standing and running press the discs in your backbone.); A toddler of 2, and the same toddler at 3. Taller, shorter or the same at 3? (back: Taller. A toddler grows about 8 centimetres in a year.); A grown-up's height this year, and next year. Taller, shorter or the same next year? (back: The same. Grown-ups do not get taller.); Two children of 7. One eats well and is healthy. The other is often ill and hungry. After a year, is the child who eats well usually taller, shorter or the same as the other? (back: Taller. Food and good health help a body grow.); A child of 5, and the same child at 10. Taller, shorter or the same at 10? (back: Taller. Five years of growing is often about 25 to 30 centimetres.)
+- **Printable cards: 14 cards to cut out, with the answer on the back:** A baby of 1, and a child of 7. Is the child taller, shorter or the same? (back: Taller. A child of 7 is often about 45 centimetres taller than a baby of 1.); A girl of 7, and the same girl at 8. Taller, shorter or the same at 8? (back: Taller. Children grow about 5 to 6 centimetres a year.); A woman of 30, and the same woman at 40. Taller, shorter or the same at 40? (back: The same. Adults have stopped getting taller.); You at bedtime, and you the next morning. Taller, shorter or the same in the morning? (back: Taller, a little. The discs in your backbone fill up again at night.); A newborn baby, and the same baby at 1. Taller, shorter or the same at 1? (back: Taller. A baby grows about 25 centimetres in the first year.); A grandfather at 40, and the same grandfather at 80. Taller, shorter or the same at 80? (back: Often a little shorter. Many older people lose a little height.); A girl of 12, and the same girl at 13. Taller, shorter or the same at 13? (back: Taller. Many girls have their growth spurt around this age.); A man of 20, and the same man at 25. Taller, shorter or the same at 25? (back: The same. Most men stop getting taller at about 17 or 18.); An astronaut on Earth, and the same astronaut in space. Taller, shorter or the same in space? (back: Taller, by a few centimetres. Nothing presses the discs in the backbone together in space.); You in the morning, and you after a long day of play. Taller, shorter or the same after play? (back: Shorter, a little. Standing and running press the discs in your backbone.); A toddler of 2, and the same toddler at 3. Taller, shorter or the same at 3? (back: Taller. A toddler grows about 8 centimetres in a year.); A grown-up's height this year, and next year. Taller, shorter or the same next year? (back: The same. Grown-ups do not get taller.); Two children of 7. One eats well and is healthy. The other is often ill and hungry. After a year, is the child who eats well usually taller, shorter or the same as the other? (back: Taller. Food and good health help a body grow.); A child of 5, and the same child at 10. Taller, shorter or the same at 10? (back: Taller. Five years of growing is often about 25 to 30 centimetres.)
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards. Show the three hand signs.  
   *Parent says:* Hand up high means taller. Hand down low means shorter. Hand flat means the same.  
@@ -174,7 +174,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
   *Parent does:* Take turns reading the cards. Everyone shows a hand sign. Read the back aloud.  
   *Parent says:* A woman of 30, and the same woman at 40. Show me! Now let's read the back.  
   *Child mode:* Read a card. Show your hand. Read the back.
-  - Ask: Which card surprised you? (good: The astronaut grows in space!; Grown-ups don't get taller.)
+  - Ask: Which people on the cards had stopped getting taller? (good: The woman of 30 and the man of 20.; Grown-ups, because adults have stopped getting taller.)
   - Note: Let your child explain each answer in their own words before you turn the card.
 - **s3 (2 min)**  
   *Parent does:* Count the points and talk.  
@@ -184,7 +184,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 ### g2 · Grow to Grown-up: a board game (20 min)
 - **rules:** Each player puts a button or a coin on Start. Put the growing cards face down in a pile.; On your turn, roll a dice and move that many squares. If you have no dice, write 1, 2 and 3 on three small papers, fold them, and pick one each turn.; If you land on square 3, 6, 9, 12, 15 or 18 by moving, take a growing card and do what it says. If a card moves you onto another card square, do not take a second card. You cannot move back past Start.; When the card pile is finished, mix the used cards and make a new pile.; The first player to reach or pass Finish has grown up and wins. The others keep playing until everyone has grown up.
 - **Printable board: A track of 20 squares to draw on paper:** Start: newborn, 50 cm; Square 1; Square 2; Square 3: 1 year old, 75 cm. Take a card; Square 4; Square 5; Square 6: toddler. Take a card; Square 7; Square 8; Square 9: 7 years old, about 120 cm. Take a card; Square 10; Square 11; Square 12: Take a card; Square 13: teenager; Square 14; Square 15: Take a card; Square 16; Square 17; Square 18: Take a card; Finish: grown-up, about 155 cm
-- **Printable cards: 12 growing cards to cut out:** Babies grow about 25 centimetres in their first year, faster than at any other time. Move 3 squares.; In deep sleep your body makes growth hormone, which helps bones grow. You slept well. Move 1 square.; You ate dal, rice and greens. Your body built new bone. Move 1 square.; You had a fever for a week. Growing slowed down. Miss a turn.; Growth spurt! Many teenagers grow very fast for a year or two. Move 3 squares.; Children lose their first milk tooth at about 6 or 7 years. Move 1 square.; A whole year of slow, steady growing: about 6 centimetres. Move 1 square.; You stood and played all day. The discs in your backbone squashed a little. Move back 1 square.; You slept all night. The discs in your backbone filled up again. Move 1 square.; You grew out of your school uniform. Move 1 square.; You drank milk and ate ragi. Your body built new bone and muscle. Move 1 square.; A grown-up measured you and drew a new line on the door. Move 1 square.
+- **Printable cards: 12 growing cards to cut out:** Babies grow about 25 centimetres in their first year, faster than at any other time. Move 3 squares.; In deep sleep your body makes growth hormone, which helps bones grow. You slept well. Move 1 square.; You ate dal, rice and greens. Your body built new bone. Move 1 square.; You had a fever for a week. Growing slowed down. Miss a turn.; Growth spurt! Many teenagers grow very fast for a year or two. Move 3 squares.; Children lose their first milk tooth at about 6 or 7 years. Move 1 square.; A whole year of slow, steady growing: about 6 centimetres. Move 1 square.; You stood and played all day. The discs in your backbone were squashed a little. Move back 1 square.; You slept all night. The discs in your backbone filled up again. Move 1 square.; You grew out of your school uniform. Move 1 square.; You drank milk and ate ragi. Your body built new bone and muscle. Move 1 square.; A grown-up measured you and drew a new line on the door. Move 1 square.
 - **s1 (4 min)**  
   *Parent does:* Draw the track of 20 squares on paper. Cut out the growing cards and put them face down.  
   *Parent says:* This is a life, from a newborn to a grown-up. Let's draw it.  
@@ -242,7 +242,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
   *Child mode:* Was your guess right? Why was the red line higher?
   - Ask: Why was the morning line higher? (good: Something in me got squashed in the day and came back at night.; Lying down all night made me longer.)
   - Note: A strong answer uses the lines: 'My red line was 6 millimetres higher than my blue line.' Now read the card on why you are taller in the morning.
-  - Check: Meenakshi, a girl of 7, was measured at bedtime and again in the morning. What usually happens? → **She is a little taller in the morning**
+  - Check: You are measured at bedtime and again the next morning. What usually happens? → **You are a little taller in the morning**
 ### e2 · Arms Out: is your arm span the same as your height? (20 min)
 - **question:** Is a person's arm span the same as their height, longer, or shorter?
 - **predict:** Guess first. Is your arm span longer than your height, shorter, or the same? Why do you think so?
@@ -271,9 +271,9 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
   - Note: For most people the two strings are close, within a few centimetres. Some people's arm span is a little longer, and some a little shorter. Both are normal.
 - **s5 (2 min)**  
   *Parent does:* Talk about what you found.  
-  *Parent says:* Was your guess right? Why do you think arm span and height are so close?  
+  *Parent says:* Was your guess right? Whose two strings were closest, and whose were furthest apart?  
   *Child mode:* Was your guess right? Are your two strings close?
-  - Check: Kavya, a girl of 9, measured her family. What did she most likely find? → **Arm span and height are close for most people**
+  - Check: You measure the arm span and the height of everyone in a family. What will you most likely find? → **Arm span and height are close for most people**
 
 ## Activities
 ### a1 · Too Small Now: the old clothes test (10 min)
@@ -286,13 +286,13 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
   *Parent does:* Your child tries them on. Look together at the sleeves, the length, the waist and the chappal heels.  
   *Parent says:* Where is it too short? Where is it too tight? Show me with your finger.  
   *Child mode:* Put them on. Where are they too short? Where are they tight?
-  - Ask: Which part of you grew the most? (good: My arms, the sleeves are short.; My legs, the frock is too short now.; My feet stick out of the chappals.)
+  - Ask: Which part of you grew the most? (good: My arms. The sleeves are short.; My legs. The frock is too short now.; My feet stick out of the chappals.)
   - Note: Most children find the sleeves and the length too short. Arms and legs grow a lot in childhood.
 - **s3 (3 min)**  
   *Parent does:* Talk about it.  
   *Parent says:* You grew all this, but you never saw yourself grow. How did the clothes show it?  
   *Child mode:* You did not see yourself grow. How did the clothes show it?
-  - Check: Lakshmi, a girl of 7, finds her old frock from when she was 4. The sleeves stop above her wrists. What does this show? → **Her arms have grown longer**
+  - Check: A girl of 7 tries on a frock she wore when she was 4. The sleeves stop above her wrists. What does this show? → **Her arms have grown longer**
 ### a2 · Feet in a Row: is the oldest foot the biggest? (15 min)
 - **record:** Glue or tape the feet in a row on the floor or in your notebook, with names and ages.
 - **s1 (7 min)**  
@@ -300,7 +300,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
   *Parent says:* Stand still while I draw round your foot. Now you draw round mine.  
   *Child mode:* Draw round each person's foot. Cut it out. Write their name and age.
 - **s2 (4 min)**  
-  *Parent does:* Your child puts the feet in a row from smallest to biggest. Then measures each with the ruler.  
+  *Parent does:* Your child puts the feet in a row from smallest to biggest. Then your child measures each one with the ruler.  
   *Parent says:* Put the feet in a row, from the smallest to the biggest. How long is each one?  
   *Child mode:* Line up the feet, smallest to biggest. Measure each one.
 - **s3 (4 min)**  
@@ -317,8 +317,8 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
   *Child mode:* Hold the bundle. You were about this heavy when you were born.
 - **s2 (4 min)**  
   *Parent does:* If you have a bathroom scale, weigh your child. If not, ask how many packets they think they weigh.  
-  *Parent says:* How many packets heavy do you think you are now? Let's check.  
-  *Child mode:* How many packets heavy are you now? Guess, then check.
+  *Parent says:* How many packets do you think you weigh now? Let's check.  
+  *Child mode:* How many packets do you weigh now? Guess, then check.
   - Note: Many 7-year-olds weigh about 18 to 25 kilograms, so about 6 to 8 times their birth weight. Every child is different. Do not compare children's weights in a way that hurts.
 - **s3 (2 min)**  
   *Parent does:* Talk about it.  
@@ -333,25 +333,25 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
   *Child mode:* Ask your family. How long were you when you were born? How heavy?
   - Note: Many Indian families have a Mother and Child Protection card from the anganwadi or hospital, with these numbers. If nobody knows the length, use 50 centimetres, which is close for most babies.
 - **s2 (4 min)**  
-  *Parent does:* Cut a string as long as your child's birth length. Then lay it next to your child, lying down.  
+  *Parent does:* Cut a string as long as your child's birth length. Then ask your child to lie down, and lay the string next to them.  
   *Parent says:* This string is as long as you were when you were born. Lie down next to it.  
   *Child mode:* Lie down next to the string. That is how long you were.
 - **s3 (2 min)**  
-  *Parent does:* Lay the birth-length string along the floor, end to end, beside your child lying down. Count how many strings make the whole child.  
-  *Parent says:* How many baby-you strings would make you now?  
+  *Parent does:* Your child stays lying down. Move the birth-length string along the floor beside them, end to end, from feet to head. Count how many string lengths it takes.  
+  *Parent says:* How many of these baby strings does it take to make you now?  
   *Child mode:* How many baby strings make you now?
   - Ask: How many? (good: More than two.; Two and a bit.)
   - Note: A child of 120 centimetres is a bit more than two 50-centimetre strings.
 
 ## Projects
 ### p1 · My Growing Chart: measure three times, a month apart (30 min, 61 days)
-- **record:** The chart with three dated lines, and a small table of the three heights.
+- **record:** Keep the chart with its three dated lines, and write the three heights in a small table.
 - **schedule:** day 1: Tape the chart on the wall. In the morning, measure your height. Draw a line and write the date. (10 min); day 31: In the morning, measure again. Draw a line, write the date, and measure the gap from last month. (10 min); day 61: Measure for the third time. Measure how much you grew in two months, and guess how much you will grow in a year. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Tape the strip so it does not move. 2. In the morning, measure your child the same way as in the bedtime test. 3. Draw a line and write the date and the time.  
+  *Parent does:* 1. Tape the strip so it does not move. 2. In the morning, measure your child the same way as in the Bedtime Tall, Morning Tall experiment: barefoot, against the wall, with a flat book on the head. 3. Draw a line and write the date and the time.  
   *Parent says:* We will measure you once a month, always in the morning. Why do we always choose the morning?  
   *Child mode:* Stand straight. Draw your line. Write the date.
-  - Ask: Why the morning? (good: Because I am taller in the morning, so it must be the same time each month.)
+  - Ask: Why do we always measure in the morning? (good: Because I am taller in the morning, so it must be the same time each month.)
 - **s2 (10 min)**  
   *Parent does:* One month later, measure again in the morning. Measure the gap between the lines in millimetres.  
   *Parent says:* One month has gone by. Did you grow? How many millimetres?  
@@ -385,7 +385,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
   *Parent does:* Compare the three answers and improve the design.  
   *Parent says:* Were your three answers the same? What made them different?  
   *Child mode:* Were your answers the same? What can you change?
-  - Check: Lakshmi, a girl of 7, measured her doll three times and got 30, 34 and 31 centimetres. What should she do? → **Find out what changed, and make her way of measuring the same each time**
+  - Check: You measure a doll three times and get 30, 34 and 31 centimetres. What should you do? → **Find out what changed, and make your way of measuring the same each time**
 
 ## Worksheets
 ### How We Grow (core) (core, 10 questions)
@@ -393,17 +393,17 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
    **Answer:** ['baby', 'toddler', 'child', 'teenager', 'adult', 'older adult']. *Why:* Every person goes through the stages in this order: baby, toddler, child, teenager, adult and older adult.
 2. (match) Draw a line from each person to how much they usually grow taller in one year.  
    **Answer:** a baby in the first year → about 25 centimetres; a child of 7 → about 5 or 6 centimetres; a woman of 40 → nothing. *Why:* Babies grow fastest. Children grow slowly and steadily. Adults have stopped getting taller.
-3. (draw) Remember the bedtime and morning test. Draw the paper strip with your blue bedtime line and your red morning line.  
+3. (draw) In the Bedtime Tall, Morning Tall experiment, you marked your height in blue at bedtime and in red in the morning. Draw the paper strip with both lines.  
    **Answer:** A strip with a red line a little above the blue line, with names.. *Why:* A strong drawing shows the red morning line a little higher than the blue bedtime line, and says whose lines they are.
-4. (write) Say out loud, and a grown-up writes it down: why were you a little taller in the morning?  
+4. (write) Why were you a little taller in the morning? Say your answer aloud. A grown-up can write it down.  
    **Answer:** At night I lay down, and the soft discs in my backbone filled up again.. *Why:* A strong answer names the backbone or the discs, and says that lying down takes the weight off them.
 5. (truefalse) True or false: grown-ups keep getting taller every year.  
    **Answer:** False. *Why:* False. Most people stop getting taller at about 15 to 18. Some older people even get a little shorter.
-6. (mcq) Farhan, a boy of 7, wants to see if he has grown since last month. When should he measure himself?  
+6. (mcq) You want to see if you have grown since last month. When should you measure yourself?  
    Options: At the same time of day as last month / Any time at all / Only after playing outside  
    **Answer:** At the same time of day as last month. *Why:* Height changes during the day. Measuring at the same time each time is fair, so only real growth shows.
 7. (sort) Sort these into things that help a body grow, and things that slow growing down.  
-   **Answer:** sleeping well at night → Helps growing; being ill again and again → Slows growing; eating dal, eggs and greens → Helps growing; not getting enough food → Slows growing. *Why:* Bones and muscles are built from food. Deep sleep sends out the body's growing message. Long illness and hunger slow growing down.
+   **Answer:** sleeping well at night → Helps growing; being ill again and again → Slows growing; eating dal, eggs and greens → Helps growing; not getting enough food → Slows growing. *Why:* Bones and muscles are built from food. In deep sleep the body makes more growth hormone, which tells bones to grow. Long illness and hunger slow growing down.
 8. (label) Label the drawing of a backbone: bone, disc.  
    **Answer:** ['the hard blocks are bones', 'the soft pads between them are discs']. *Why:* A backbone is a stack of small bones. The soft pads between them are discs.
 9. (fill) A newborn baby is about ___ centimetres long.  
@@ -411,15 +411,15 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 10. (draw) Draw yourself in clothes from three years ago. Show with arrows where they are too small.  
    **Answer:** A drawing with arrows at the wrists, knees or waist.. *Why:* A strong drawing shows the sleeves or the length too short, because arms and legs grow a lot in childhood.
 ### Measuring Growing (stretch) (stretch, 10 questions)
-1. (write) Meenakshi, a girl of 7, drew round the feet of everyone at home. Her grandmother's foot was smaller than her mother's, though her grandmother is older. Why might that be? A grown-up can write down what you say.  
-   **Answer:** Grown-ups stop growing. Ajji's feet stopped growing long ago, and people's adult sizes are all different.. *Why:* A strong answer says that adults have stopped growing, so age does not set foot size after the teens.
+1. (write) A child drew round the feet of everyone at home. The grandmother's foot was smaller than the mother's, though the grandmother is older. Why might that be? A grown-up can write down what you say.  
+   **Answer:** Grown-ups stop growing. The grandmother's feet stopped growing long ago, and grown-ups' sizes are all different.. *Why:* A strong answer says that adults have stopped growing, so age does not set foot size after the teens.
 2. (mcq) Why do doctors write the time of day next to a child's height?  
    Options: Height changes a little during the day / Doctors like to write times / Children grow only at some hours  
    **Answer:** Height changes a little during the day. *Why:* Height changes a little between morning and evening. With the time written down, two measurements can be compared fairly.
-3. (perspective) Kavya, aged 9, and her family are talking about the bedtime and morning test.  
-   **Answer:** A strong answer picks one view and gives a reason. Kavya is right that the morning is the most stretched height. Amma is right that we spend most of the day shorter. Ajji is right that both are measurements of real heights.. *Why:* There is no single true height. A fair answer uses the test and says why writing the time matters.
+3. (perspective) Kavya, Amma and Ajji did the Bedtime Tall, Morning Tall experiment. Everyone was a little taller in the morning. Now they are talking about which height is the real one.  
+   **Answer:** A strong answer picks one view and gives a reason. Kavya is right that the morning is the most stretched height. Amma is right that we spend most of the day shorter. Ajji is right that both are measurements of real heights.. *Why:* There is no single true height. A fair answer uses the Bedtime Tall, Morning Tall experiment and says why writing the time matters.
 4. (order) Put these in order, from the shortest to the tallest.  
-   **Answer:** ['a newborn baby', 'a toddler of 2', 'a girl of 7', 'a woman of 30']. *Why:* Newborn about 50 centimetres, toddler about 85, girl of 7 about 120, woman about 150 to 160.
+   **Answer:** ['a newborn baby', 'a toddler of 2', 'a girl of 7', 'a woman of 30']. *Why:* A newborn is about 50 centimetres, a toddler about 85, a girl of 7 about 120, and a woman about 150 to 160.
 5. (odd) Which one is the odd one out? A girl of 8, a boy of 12, a woman of 50, a toddler of 3.  
    Options: A girl of 8 / A boy of 12 / A woman of 50 / A toddler of 3  
    **Answer:** 2. *Why:* The woman of 50 has stopped getting taller. The other three are still growing.
@@ -429,14 +429,14 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
    **Answer:** True. *Why:* True. In space nothing presses the discs of the backbone together, so astronauts get a few centimetres taller. They shrink back on Earth.
 8. (fill) A child grows about 6 centimetres in a year. In two years, that child grows about ___ centimetres.  
    **Answer:** 12. *Why:* 6 centimetres and 6 centimetres make 12 centimetres.
-9. (write) Arjun, Meenakshi's brother, is a boy of 3. He wants to be measured on tiptoes. Why is that not fair? A grown-up can write down what you say.  
+9. (write) A boy of 3 wants to be measured standing on tiptoes. Why is that not fair? A grown-up can write down what you say.  
    **Answer:** Tiptoes make him look taller than he is. Every measurement must be done the same way, heels down.. *Why:* A strong answer says the method must be the same each time, so only real growing shows.
-10. (mcq) Lakshmi, a girl of 7, grows 5 millimetres in a month. Why can she not see herself growing?  
+10. (mcq) A girl of 7 grows 5 millimetres in a month. Why can she not see herself growing?  
    Options: It is far too slow to notice / She is not growing at all / Growing only happens at birthdays  
    **Answer:** It is far too slow to notice. *Why:* 5 millimetres a month is only about a millimetre a week. That is too slow to see, so we draw lines and measure.
 ### Growing Puzzles (challenge) (challenge, 10 questions)
-1. (write) A doctor measures Priya, a girl of 8, at 9 in the morning. Next month a different doctor measures her at 6 in the evening. She seems to have grown nothing. Has she really stopped growing? Explain. A grown-up can write down what you say.  
-   **Answer:** Maybe not. She was measured in the evening, when people are a little shorter. Her growth may be hidden by the time of day.. *Why:* A strong answer uses the bedtime and morning test: evening height is lower, so the two times are not fair to compare.
+1. (write) A doctor measures a girl of 8 at 9 in the morning. Next month a different doctor measures her at 6 in the evening. She seems to have grown nothing. Has she really stopped growing? Explain. A grown-up can write down what you say.  
+   **Answer:** Maybe not. She was measured in the evening, when people are a little shorter. Her growth may be hidden by the time of day.. *Why:* A strong answer uses the Bedtime Tall, Morning Tall experiment: people are a little shorter in the evening, so a morning height and an evening height are not fair to compare.
 2. (perspective) Two scientists are arguing about how babies grow.  
    **Answer:** A strong answer picks one side, then suggests a test: measure a baby very carefully, many times, in the same way each day, and see whether the jumps stay.. *Why:* This is still argued about. A good answer suggests careful, repeated measuring, like the Measure the Wriggler challenge.
 3. (mcq) In the WHO growth study, well-fed, healthy babies in India, Ghana, Brazil and Norway were measured. What did the scientists find?  
@@ -444,22 +444,22 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
    **Answer:** They grew almost the same. *Why:* Healthy babies with good food and care grew almost the same in all six countries. So food and health matter a lot.
 4. (draw) Draw a picture graph of how tall a person is at 0, 1, 7, 15 and 30 years old.  
    **Answer:** Five people getting taller quickly at first, then more slowly, with the 15-year-old and 30-year-old close in height.. *Why:* A strong graph shows fast growing as a baby, steady growing in childhood, and no growing after the teens.
-5. (write) Meenakshi, a girl of 7, grew 6 centimetres last year. Her mother grew nothing. Both ate the same food. Why the difference? A grown-up can write down what you say.  
-   **Answer:** Amma is an adult. The growing parts of her bones turned to hard bone in her teens, so she cannot get taller.. *Why:* A strong answer says adults have stopped growing taller, whatever they eat.
+5. (write) A girl of 7 grew 6 centimetres last year. Her mother grew nothing. Both ate the same food. Why the difference? A grown-up can write down what you say.  
+   **Answer:** Her mother is an adult. The growing parts of her bones turned to hard bone in her teens, so she cannot get taller.. *Why:* A strong answer says adults have stopped growing taller, whatever they eat.
 6. (truefalse) True or false: a person grows at exactly the same speed every year of their life.  
    **Answer:** False. *Why:* False. Babies grow fastest, children grow slowly and steadily, teenagers have a growth spurt, and adults do not grow taller.
-7. (match) Draw a line from each to the way it is measured.  
+7. (match) Draw a line from each one to the way of measuring that fits.  
    **Answer:** a baby → lying on a measuring board; a child of 7 → standing against a wall with a flat book on the head; a family tracking growth → dated pencil lines on a door frame. *Why:* Babies cannot stand, so they are measured lying down. Children stand. Dated lines let a family see growth over the years.
 8. (label) Look at the growth chart and label the parts: baby grows fast, child grows steadily, teen growth spurt, grown-up stops.  
    **Answer:** ['steep start', 'gentle middle', 'steep part in the teens', 'flat end']. *Why:* A height chart rises steeply in the first year, gently through childhood, steeply again in the teens, and then goes flat.
-9. (sort) Sort these changes: happens to children as they grow, or happens to many older adults.  
+9. (sort) Sort these changes into two groups: changes that happen to children as they grow, and changes that happen to many older adults.  
    **Answer:** milk teeth fall out → Children; hair turns grey → Older adults; feet get longer → Children; get a little shorter → Older adults. *Why:* Children lose milk teeth and their feet grow. Many older adults get grey hair and lose a little height.
 10. (write) Why do health workers measure a baby lying down, but a child of 7 standing up? A grown-up can write down what you say.  
    **Answer:** A baby cannot stand still, so lying down is the way to measure the same each time. A child can stand straight against a wall.. *Why:* A strong answer says the method must suit the body and be the same each time.
 
 ## Videos
-- **The Life Cycle of a Human, from baby to grown-up** (Twinkl Kids TV, 4 min) id `2vUPhZUofco`: Shows the life stages from baby to grown-up, to go with the growing cards. *Check:* Found by search: "The Life Cycle of a Human" by Twinkl Kids TV, 4 minutes. A parent may preview it.
-- **Why you are taller in the morning than at night** (Business Insider, 1 min) id `tcq0y_lL_O4`: Explains the discs of the backbone, after your child has done the bedtime and morning test. *Check:* Found by search: "Why You're Taller In The Morning Than At Night" by Business Insider, 1 minute. A parent may preview it.
+- **The Life Cycle of a Human, from baby to grown-up** (Twinkl Kids TV, 4 min) id `2vUPhZUofco`: Shows the life stages from baby to grown-up, to go with the card 'Growing up means getting bigger and changing'. *Check:* Found by search: "The Life Cycle of a Human" by Twinkl Kids TV, 4 minutes. A parent may preview it.
+- **Why you are taller in the morning than at night** (Business Insider, 1 min) id `tcq0y_lL_O4`: Explains the discs of the backbone. Watch it after your child has done the Bedtime Tall, Morning Tall experiment. *Check:* Found by search: "Why You're Taller In The Morning Than At Night" by Business Insider, 1 minute. A parent may preview it.
 - **Why do you grow taller in space?** (National Space Centre, 2 min) id `q__ShYA0dM8`: Shows the same backbone change on a bigger scale, with no weight pressing down. *Check:* Found by search: "Why Do You Grow Taller In Space?" by National Space Centre, 2 minutes. A parent may preview it.
 
 ## Quiz
@@ -478,7 +478,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 5. (mcq) What are the soft pads between the bones of your backbone called?  
    Options: Discs / Muscles / Teeth  
    **Answer:** Discs. *Why:* They are called discs. They squash a little in the day and fill up at night.
-6. (mcq) Kavya, a girl of 9, measures herself every month. What makes her measuring fair?  
+6. (mcq) You measure yourself every month. What makes your measuring fair?  
    Options: The same wall, the same book, the same time of day, heels down / A different wall each month / Standing on tiptoes  
    **Answer:** The same wall, the same book, the same time of day, heels down. *Why:* If everything else stays the same, only real growing can change the line.
 7. (mcq) Why do we measure three times, not once?  
@@ -487,9 +487,9 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 8. (mcq) Which of these helps a child's body grow?  
    Options: Good food and sleep / Staying awake late every night / Skipping meals  
    **Answer:** Good food and sleep. *Why:* The body builds bone from food, and makes more growth hormone in deep sleep.
-9. (mcq) Arjun's morning line is 8 millimetres above his bedtime line. Farhan's is 5 millimetres above his. How much more did Arjun's change?  
+9. (mcq) One child's morning line is 8 millimetres above the bedtime line. Another child's morning line is 5 millimetres above. How much more did the first child's height change?  
    Options: 3 millimetres more / 13 millimetres more / 5 millimetres more  
-   **Answer:** 3 millimetres more. *Why:* 8 take away 5 is 3. Arjun's height changed 3 millimetres more than Farhan's.
+   **Answer:** 3 millimetres more. *Why:* 8 take away 5 is 3. The first child's height changed 3 millimetres more than the other child's.
 10. (mcq) A newborn is about 50 centimetres long. A girl of 7 is about 120 centimetres. Is the girl more than twice as long as the newborn?  
    Options: Yes, two newborns make 100, and she is 120 / No, she is less than twice as long / They are the same  
    **Answer:** Yes, two newborns make 100, and she is 120. *Why:* 50 and 50 make 100. 120 is more than 100, so she is more than twice as long.
@@ -529,10 +529,10 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 - Why did the tall child never win at hide and seek? *He kept growing out of his hiding place!*
 
 ## Connected maths
-- Meenakshi, a girl of 7, and her mother did the bedtime and morning test. Meenakshi's red morning line was 6 millimetres above her blue line. Her mother's was 12 millimetres above. How many times bigger was her mother's change? **2 times bigger.**. 6 and 6 make 12. So her mother's change was two lots of Meenakshi's change. (queues `math.addition-subtraction.meaning.L2`)
-- A newborn baby is 50 centimetres long. After one year, the baby is 75 centimetres. How much did the baby grow? **25 centimetres.**. Count on from 50 to 75: that is 25. That is about four or five times what a child of 7 grows in a year. (queues `math.length.standard-units-length.L2`)
-- Kavya grows about 6 centimetres a year. She is 130 centimetres now. About how tall will she be in two years? **About 142 centimetres.**. 6 and 6 make 12. 130 and 12 make 142. This is only a guess, because children do not grow exactly the same every year. (queues `math.length.standard-units-length.L2`)
-- Farhan, a boy of 7, measured his height three times: 121 centimetres, 122 centimetres and 121 centimetres. Which number should he write down, and why? **121 centimetres.**. Two of the three tries say 121, and the middle number, when put in order, is 121. One try was a little off. (queues `math.length.standard-units-length.L2`)
+- A girl of 7 and her mother did the Bedtime Tall, Morning Tall experiment. The girl's red morning line was 6 millimetres above her blue bedtime line. Her mother's was 12 millimetres above. How many times bigger was her mother's change? **2 times bigger.**. Two lots of 6 make 12. So her mother's change was twice the girl's change. (queues `math.addition-subtraction.meaning.L2`)
+- A newborn baby is 50 centimetres long. After one year, the baby is 75 centimetres. How much did the baby grow? **25 centimetres.**. Count on from 50 up to 75. The difference is 25 centimetres. That is about four times what a child of 7 grows in a year. (queues `math.length.standard-units-length.L2`)
+- A child grows about 6 centimetres a year. The child is 130 centimetres tall now. About how tall will the child be in two years? **About 142 centimetres.**. 6 and 6 make 12. 130 and 12 make 142. This is only a guess, because children do not grow exactly the same every year. (queues `math.length.standard-units-length.L2`)
+- You measure your height three times and get 121 centimetres, 122 centimetres and 121 centimetres. Which number should you write down, and why? **121 centimetres.**. Two of the three tries say 121. When you put the three numbers in order, the middle one is also 121. The try that gave 122 was a little off. (queues `math.length.standard-units-length.L2`)
 
 ## Song
 I Grow a Little Every Day (sci.body.L2): 
