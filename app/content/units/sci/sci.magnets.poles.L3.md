@@ -262,7 +262,7 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
   - Ask: Why did the boats end up together, even when they started north facing north? (good: The magnet turned round until south faced north, and unlike poles attract.; Repelling pushes and twists the magnet, so it turns.)
   - Think: The boats pushed apart only for a moment. What does that tell you about magnets that are free to turn?
 ### e2 · The Bumpy Slide: how many poles does a fridge magnet have? (20 min)
-- **problem:** When you slide one flat magnet over another, you feel a bump each time the two faces switch from attracting to repelling. So the bumps let you count poles that you cannot see. In this experiment you count them.
+- **problem:** When you slide one flat magnet over another, you feel bumps. Each bump is where the two faces switch from attracting to repelling. So the bumps let you count poles that you cannot see. In this experiment, you count them.
 - **question:** Does a bendy fridge magnet have just one north pole and one south pole, like a bar magnet?
 - **predict:** Guess first. Press two bendy fridge magnets face to face and slide one along. Will it slide smoothly, or will you feel bumps? Why do you think so?
 - **fair test:** Slide the same two magnets across the same distance, 5 cm, at the same slow speed, with their edges lined up. Only change the direction: along the length, then across the width. Count the bumps 3 times each way.
@@ -284,13 +284,13 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
   *Parent does:* 1. Try the printed sides together. 2. Try the paper clip on the printed side, then on the magnetic side.  
   *Parent says:* Does the printed side of the magnet attract anything?  
   *Child mode:* Try the printed sides together. Try the paper clip on the printed side. Then on the magnetic side.
-  - Note: The printed side hardly attracts anything. The stripes of poles are on the magnetic face only, so the paper clip clings to that side and hardly at all to the printed side.
+  - Note: The printed side hardly attracts anything. The stripes of poles are on the magnetic face only. The paper clip clings to that side. It hardly clings to the printed side.
 - **s4 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts a thin strip, about 1 cm wide, off one magnet. 2. Test the strip on the fridge. 3. Ask your child what they found, what they saw, and why they think it happened.  
   *Parent says:* If we cut a strip off, will it still be a magnet? Let's see. Then tell me what you found and why.  
   *Child mode:* Watch the grown-up cut a strip. Does it stick to the fridge? What did you find out?
   - Ask: How many poles do you think the fridge magnet has? (good: Many: one for each bump, in stripes.; More than two, because it bumped many times.)
-  - Think: The stripes of poles are only on the magnetic face. Which side of a fridge magnet sticks to the fridge, and which side does not?
+  - Think: The stripes of poles are only on the magnetic face. Which side sticks to a fridge?
 
 ## Activities
 ### a1 · The Push You Can Feel (10 min)
@@ -346,7 +346,7 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
   *Child mode:* The magnets push. What job does the pencil do?
   - Ask: Why did the ring flip over without the pencil? (good: It turned round until it could attract.; The pencil stopped it turning.)
 ### a4 · Draw the Magnet Inside (15 min)
-- **problem:** Inside a magnet, countless tiny magnets all point the same way. Each tiny magnet has its own north and south end. In this activity you draw them, and then you cut the drawing in two to see which poles appear.
+- **problem:** Inside a magnet, countless tiny magnets all point the same way. Each tiny magnet has its own north and south end. In this activity you draw them. Then you cut the drawing in two, to see which poles appear.
 - **record:** Keep the drawing in your science notebook.
 - **s1 (6 min)**  
   *Parent does:* 1. Draw a long rectangle. 2. Fill it with 20 small arrows, all pointing to the right. 3. Colour each arrow's head red and its tail blue.  

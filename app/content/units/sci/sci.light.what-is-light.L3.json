@@ -922,7 +922,7 @@
      "do": "Sit down together and talk about the game.",
      "say": "Was light more like a wave or more like a crowd of particles in our game? Scientists found that real light is both at once.",
      "kid": "Sit down. Was light a wave or a crowd of dots in the game? Real light is both!",
-     "think": "The game had a WAVE card and a PARTICLE card. Which card fits the stripes that light makes through two slits, and which fits the glow star test?"
+     "think": "The game had a WAVE card and a PARTICLE card. Which fits the stripes from two slits? Which fits the glow star test?"
     }
    ]
   }
@@ -1789,7 +1789,7 @@
   {
    "id": "e3",
    "title": "Chocolate in the Microwave: measure the speed of light",
-   "problem": "A wave's speed is how long one wave is, multiplied by how many waves pass each second. A microwave oven makes waves of light that our eyes cannot see, and they travel at the speed of light. In this experiment you use chocolate to measure how long the waves are. The label on the oven tells you how many waves it makes each second.",
+   "problem": "A wave's speed is its length times the number of waves each second. A microwave oven makes waves of light our eyes cannot see. They travel at the speed of light. In this experiment, chocolate shows how long the waves are. The oven's label says how many waves it makes each second.",
    "mins": 24,
    "days": 1,
    "context": "In this experiment, a grown-up melts a plate of chocolate in a microwave oven with the turning plate taken out. The distance between the melted spots shows how long the waves are. From that, you work out their speed. Microwaves are the same kind of wave as light, so they travel at the speed of light.",
@@ -1988,7 +1988,7 @@
        ]
       }
      ],
-     "think": "When you switch off the torch, the light that already left it keeps going. What does that light do when it reaches the wall?",
+     "think": "Light that already left the torch keeps going. What does it do when it reaches the wall?",
      "parent": "This is a noticing step, so don't explain yet. Write down your child's wonders. The rest of the unit will answer many of them. Light does take time to travel, but across a room it is far too fast to notice."
     }
    ]
@@ -2102,7 +2102,7 @@
   {
    "id": "a3",
    "title": "Ripples in an Uruli: what is a wave?",
-   "problem": "A wave is a movement that travels from place to place, while the water itself stays where it is. Scientists once argued about whether light is a wave like this, or a stream of tiny particles. In this activity you make water waves and compare them with rolling marbles.",
+   "problem": "A wave is a movement that travels, while the water stays put. Scientists once asked whether light is a wave like this. Or is it a stream of tiny particles? In this activity, you make water waves and roll marbles to compare.",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -2204,14 +2204,14 @@
      "do": "Do the wave-and-particle dance. When you call 'wave', your child moves smoothly. When you call 'particle', they move in sharp jumps.",
      "say": "When I say 'wave', flow your arms like ripples. When I say 'particle', make sharp, tiny jumps, like a photon landing. Light can be both!",
      "kid": "Dance! Wave means flowing arms. Particle means sharp little jumps. Light is both.",
-     "think": "Two ripples crossed and made a pattern, and so did light through two slits. What did Thomas Young decide light is?"
+     "think": "Ripples crossing made a pattern. Light through two slits did too. What did Thomas Young decide light is?"
     }
    ]
   },
   {
    "id": "a4",
    "title": "The Late Moon: act out Rømer's discovery",
-   "problem": "In 1676, Ole Rømer saw that Jupiter's moon Io came out of Jupiter's shadow later when the Earth was further away. In this activity, a slow messenger stands for light. You act out why the moon seemed late.",
+   "problem": "In 1676, Ole Rømer timed Io, a moon of Jupiter. Io came out later when the Earth was further away. Here, a slow messenger stands for light. You act out why the moon seemed late.",
    "mins": 20,
    "days": 1,
    "materials": [
@@ -2407,14 +2407,14 @@
      "do": "At home, fill in the table together.",
      "say": "Let's write down how far back in time we looked tonight.",
      "kid": "Write each thing you saw. Next to it, write how old its light was.",
-     "think": "Someone on a planet 4 light-years from the Earth looks at us tonight. How old is the light they see?"
+     "think": "A planet is 4 light-years from the Earth. Someone there looks at us tonight. How old is the light they see?"
     }
    ]
   },
   {
    "id": "a6",
    "title": "The Street-Light Star: see light's waves in a cloth",
-   "problem": "When waves squeeze through very small gaps, they spread out and cross each other, and this makes a pattern. The tiny gaps between the threads of a cloth are small enough to do this to light. If you see such a pattern, it is a clue that light is a wave.",
+   "problem": "Waves that squeeze through tiny gaps spread out and cross. That makes a pattern. A fine cloth has gaps tiny enough to do this to light. So a pattern is a clue that light is a wave.",
    "mins": 15,
    "days": 1,
    "materials": [
@@ -3556,7 +3556,7 @@
   "ask": [
    "Everything you see reaches you a little late. How old is the light from a lamp across the room, and how old is the light from the Sun?",
    "Light acts like a wave in one test and like packets in another. Is it a wave, a particle, or something we do not have a word for yet?",
-   "In the Glow Star Test, why did 2 minutes of red light not do what 30 seconds of blue light did?",
+   "In the Glow Star Test, why did 2 minutes of red light fail when 30 seconds of blue worked?",
    "The sage said that when every other light is gone, the self is the light we live by. Science can follow photons into the eye. What is the sage asking about that photons do not explain?"
   ],
   "art": "A child in a dark room watching a glow star shine after a blue light, with a red light beside it that left another star dark."

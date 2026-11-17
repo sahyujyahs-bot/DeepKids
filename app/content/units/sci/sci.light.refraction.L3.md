@@ -335,7 +335,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Parent says:* Run your finger down the pencil, under the water. Does it feel broken? Now pull it out. Is it broken?  
   *Child mode:* Put your finger in the water. Feel the pencil all the way down. Does it feel broken? Now pull it out and look.
   - Ask: Your eyes said broken. Your finger said straight. Which was right? (good: My finger, because the pencil is straight when I pull it out.; The pencil is straight. It only looks broken in the water.)
-  - Think: Your eyes thought the light came straight, but it had bent. Name one other thing at home that looks to be in the wrong place because light bends.
+  - Think: Your eyes thought the light came straight, but it had bent. Name one other thing at home that looks moved because light bends.
 - **s5 (5 min)**  
   *Parent does:* 1. Ask your child to draw two pictures. 2. First, the pencil as it looked from the side. 3. Second, the pencil as it really is. 4. Then add a dotted line for the path of the light, from the bottom of the pencil to the eye.  
   *Parent says:* Let's draw a model, a picture that explains. Draw the pencil as it looked. Then draw it as it really is. Draw how you think the light travels from the bottom of the pencil to your eye.  
@@ -470,7 +470,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   - Ask: What is strange about the picture? (good: It is upside down.; It is small.; Left and right are swapped too.)
   - Check: When you caught a picture of a bright window on paper with a magnifying glass, which way up was it? → **Upside down**
 ### a4 · March Like Light (act it out) (15 min)
-- **problem:** Light goes fast in air and more slowly in water and glass. In this activity, a line of people holding hands is a beam of light. The floor is air, and a mattress is water. You march from the floor onto the mattress and watch what happens to the line.
+- **problem:** Light goes fast in air and more slowly in water and glass. Here, a line of people holding hands is a beam of light. The floor is air, and a mattress is water. You march from the floor onto the mattress. Watch what happens to the line.
 - **record:** Draw the line of people from above, before and after the mattress, with arrows showing which way they walked.
 - **s1 (4 min)**  
   *Parent does:* 1. Stand in a line, side by side, holding hands. 2. Face the mattress straight on. 3. March forward, taking big quick steps on the floor and tiny slow steps once on the mattress.  
@@ -489,7 +489,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Child mode:* Draw the march, as if you were a lizard on the ceiling. Draw arrows. Where did the line turn?
   - Think: What do you think would happen if we marched from the mattress back onto the floor, at a slant?
 ### a5 · The Bottle Lens and the Flipping Words (15 min)
-- **problem:** A round bottle of water is curved, so it bends light like a lens. In this activity you look at words through the bottle and see what the bend does to them.
+- **problem:** A round bottle of water is curved, like a lens. It bends light. In this activity, you look at words through the bottle. See what the bend does to them.
 - **safety:** Use a plastic bottle, not glass. Never leave a water bottle or marble lying in strong sunshine on paper or cloth. It can focus sunlight and start a fire.
 - **record:** Write which words flipped and which looked the same. Draw a word looking wide through the bottle.
 - **s1 (4 min)**  
@@ -509,7 +509,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Child mode:* Put a marble on the newspaper. Look through it. Does it make letters bigger than the bottle does?
   - Check: A round glass marble and a big round water bottle are both lenses. Which one bends light more sharply? → **The small marble, because it is more curved**
 ### a6 · A Galaxy in a Wine Glass: gravity's lens (15 min)
-- **problem:** In space, the gravity of a huge cluster of galaxies bends the light of galaxies far behind it. Space telescopes photograph this as bright rings and arcs. The thick foot of a wine glass bends light in a similar way, so you can make the same shapes at home.
+- **problem:** In space, gravity can bend the light of far galaxies. A huge cluster of galaxies does this. Space telescopes photograph it as bright rings and arcs. The thick foot of a wine glass bends light in a similar way. So you can make the same shapes at home.
 - **safety:** A grown-up holds the glass, because it can break.
 - **record:** Draw the rings and arcs you saw. Write: in space, what bends the light instead of glass?
 - **s1 (4 min) · grown-up needed**  
@@ -530,7 +530,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 
 ## Projects
 ### p1 · Make a Leeuwenhoek Drop Microscope (60 min, 2 days)
-- **problem:** About 350 years ago, Antonie van Leeuwenhoek made microscopes from tiny glass beads. A tiny round bead is very curved, so it bends light sharply and magnifies strongly. A tiny drop of water is round in the same way. In this project you use a drop of water as your lens.
+- **problem:** About 350 years ago, Antonie van Leeuwenhoek made tiny glass-bead microscopes. A tiny bead is very curved, so it magnifies strongly. A tiny drop of water is round in the same way. In this project, you use a drop of water as your lens.
 - **safety:** A grown-up cuts the card and makes the hole in the foil. Look at things near a window or a lamp, never at the Sun.
 - **record:** Draw a hair and the onion skin as you saw them through the drop. Under each, write which showed more: the tiny drop or the magnifying glass.
 - **schedule:** day 1: Make the drop microscope. Test it on a hair and on newspaper print. (30 min); day 2: Look at onion skin under the drop. Draw what you see and compare it with the magnifying glass. (30 min)

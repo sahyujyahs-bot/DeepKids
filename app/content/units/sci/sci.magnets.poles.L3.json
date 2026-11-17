@@ -535,7 +535,7 @@
    "days": 1,
    "context": "In this experiment you slide two bendy fridge magnets over each other and feel for bumps. The bumps tell you how many poles are hidden on the magnet's face.",
    "question": "Does a bendy fridge magnet have just one north pole and one south pole, like a bar magnet?",
-   "problem": "When you slide one flat magnet over another, you feel a bump each time the two faces switch from attracting to repelling. So the bumps let you count poles that you cannot see. In this experiment you count them.",
+   "problem": "When you slide one flat magnet over another, you feel bumps. Each bump is where the two faces switch from attracting to repelling. So the bumps let you count poles that you cannot see. In this experiment, you count them.",
    "predict": "Guess first. Press two bendy fridge magnets face to face and slide one along. Will it slide smoothly, or will you feel bumps? Why do you think so?",
    "fair_test": "Slide the same two magnets across the same distance, 5 cm, at the same slow speed, with their edges lined up. Only change the direction: along the length, then across the width. Count the bumps 3 times each way.",
    "results_table": [
@@ -643,7 +643,7 @@
      "mins": 4,
      "do": "1. Try the printed sides together. 2. Try the paper clip on the printed side, then on the magnetic side.",
      "say": "Does the printed side of the magnet attract anything?",
-     "parent": "The printed side hardly attracts anything. The stripes of poles are on the magnetic face only, so the paper clip clings to that side and hardly at all to the printed side.",
+     "parent": "The printed side hardly attracts anything. The stripes of poles are on the magnetic face only. The paper clip clings to that side. It hardly clings to the printed side.",
      "kid": "Try the printed sides together. Try the paper clip on the printed side. Then on the magnetic side."
     },
     {
@@ -662,7 +662,7 @@
        ]
       }
      ],
-     "think": "The stripes of poles are only on the magnetic face. Which side of a fridge magnet sticks to the fridge, and which side does not?"
+     "think": "The stripes of poles are only on the magnetic face. Which side sticks to a fridge?"
     }
    ]
   }
@@ -907,7 +907,7 @@
    "mins": 15,
    "days": 1,
    "context": "In this drawing activity you draw what you think is inside a magnet, and what happens when it is cut in two.",
-   "problem": "Inside a magnet, countless tiny magnets all point the same way. Each tiny magnet has its own north and south end. In this activity you draw them, and then you cut the drawing in two to see which poles appear.",
+   "problem": "Inside a magnet, countless tiny magnets all point the same way. Each tiny magnet has its own north and south end. In this activity you draw them. Then you cut the drawing in two, to see which poles appear.",
    "materials": [
     {
      "item": "paper, a pencil, and red and blue crayons",

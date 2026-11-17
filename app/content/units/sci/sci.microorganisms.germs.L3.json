@@ -8,7 +8,7 @@
   "sci.what-is-life.cells.L3"
  ],
  "summary": {
-  "text": "You can catch a cold from someone you never touched. Germs are the few microbes that can make us ill, and they cannot walk or fly from one person to the next. They ride on hands, on the things hands touch, in the drops of a cough, in water and food, and on flies and mosquitoes. Once inside a body, a few germs can multiply into millions, and that is an infection. An illness spreads along a chain, from the ill person, to a ride, to the next person. Breaking one link of that chain stops the illness there.",
+  "text": "You can catch a cold from someone you never touched. Germs are the few microbes that can make us ill, and they cannot walk or fly from one person to the next. They ride on hands, on the things hands touch, in the drops of a cough, in water and food, and on flies and mosquitoes. Once inside a body, a few germs can multiply into millions, and that is an infection. An illness spreads along a chain of links. The first link is the ill person. Next, the germs ride on something, such as a hand or a door handle. Last, they reach the next person. If you break any one link, the illness stops there.",
   "art": "A chain of pictures joined by dotted arrows: a girl coughing into her hand, the hand on a door handle, a second hand on the same handle, that hand near a boy's mouth, with a big pair of scissors cutting the chain at the door handle."
  },
  "intro": {
@@ -59,7 +59,7 @@
   {
    "term": "Multiply",
    "meaning": "To grow in number. Bacteria multiply by splitting in two, again and again.",
-   "example": "1 bacterium splits into 2, then 4, then 8.",
+   "example": "One bacterium splits into two. Those two split into four. Then those four split into eight.",
    "art": "One bacterium splitting into two, then four, then eight, in a row of pictures."
   },
   {
@@ -294,7 +294,7 @@
   {
    "q": "When you stay home with a cold, who are you protecting? Can you ever know?",
    "kind": "big",
-   "hint": "Think about a chain that never starts. Nobody can count the illnesses that did not happen."
+   "hint": "Think about the illnesses that never happened because you stayed home. Nobody can count them, because nothing happened to count."
   },
   {
    "q": "Germs are living beings trying to keep their family going, as all living beings do. How should we think about killing them with medicines?",
@@ -941,7 +941,7 @@
        "They all get the same"
       ],
       "a": 1,
-      "why": "Each shake passes on only part of the glitter, and keeps some on the hand that gave it. So less reaches each hand further down. Picking 'all the same' would mean the glitter makes more of itself as it goes. Glitter cannot do that, but some germs can, as you will see."
+      "why": "Each shake passes on only part of the glitter, and keeps some on the hand that gave it. So less reaches each hand further down. If every hand got the same amount, no glitter would stay on the hand that gave it. But some always stays behind. Glitter cannot make more of itself, but some germs can, as you will see."
      }
     },
     {
@@ -1267,7 +1267,7 @@
      "mins": 4,
      "do": "Look at the table together.",
      "say": "After 2 hours there were 64. If the doubling carried on for 2 more hours, there would be more than 4,000. Why does warm food left out for hours worry doctors?",
-     "kid": "64 after 2 hours! What about after 4 hours? Why does that matter?",
+     "kid": "After 2 hours there were 64 bacteria. If they kept doubling for 2 more hours, there would be thousands. Why does that matter for food left out?",
      "ask": [
       {
        "q": "Why should leftover food go in the fridge soon?",
@@ -1412,7 +1412,7 @@
      "mins": 9,
      "do": "Walk round the rooms together. For each heading, your child finds one place and draws it.",
      "say": "Where do the most hands touch? Where do we cough? Where does our drinking water come from? Is any food left open? Is there still water where mosquitoes could lay eggs?",
-     "kid": "Walk round. Find a handle, a water pot, open food, still water. Draw each one.",
+     "kid": "Walk round your home. Look for a handle that many hands touch. Look for a water pot, open food and still water. Draw each one you find.",
      "parent": "Common finds: the fridge handle, the remote, a shared tumbler, an uncovered water pot, a flower-pot tray with standing water, fruit left open on the table."
     },
     {
@@ -1551,7 +1551,7 @@
      "mins": 5,
      "do": "Draw two ideas.",
      "say": "Draw two ways to open this door without your hand. Which part of your body could do it instead?",
-     "kid": "Draw two ideas. Elbow? Foot? Something else?"
+     "kid": "Draw two ideas for opening the door. You could use an elbow or a foot, or think of something else."
     },
     {
      "id": "s3",
@@ -2469,7 +2469,7 @@
   {
    "problem": "In the door handle count, a family touched the handle 18 times between 5 and 9 in the evening. That is 4 hours. About how many touches is that each hour?",
    "answer": "About 4 or 5 touches each hour.",
-   "explain": "18 touches in 4 hours. 4 times 4 is 16 and 4 times 5 is 20. 18 is between them, so about 4 or 5 touches an hour.",
+   "explain": "There were 18 touches in 4 hours. Four touches an hour would make 16, and five touches an hour would make 20. 18 is between 16 and 20, so it is about 4 or 5 touches an hour.",
    "math_unit": "math.division.sharing-and-grouping.L3",
    "context": "In the door handle count, everyone makes a tally mark each time they touch the main door handle in one evening.",
    "how": "a1",
@@ -2645,7 +2645,7 @@
    "a": "Germs getting inside the body and multiplying."
   },
   {
-   "q": "1 bacterium splits into 2, then 4. What comes next?",
+   "q": "One bacterium splits into two. Those two split into four. How many will there be when they split again?",
    "a": "8."
   },
   {

@@ -204,7 +204,7 @@ Radio waves, microwaves, the light we see and X-rays seem like very different th
 - Practice, The Old Light Breath (3 min): Sit near a window or in a patch of daylight. Close your eyes and feel the light warming your face. Breathe in slowly while I count to four. Breathe out while I count to four. This warmth is photons landing on your skin, one packet after another. They left the Sun about 8 minutes ago. Breathe in once more. Open your eyes slowly and look at the light in the room.
 - Ask: Everything you see reaches you a little late. How old is the light from a lamp across the room, and how old is the light from the Sun?
 - Ask: Light acts like a wave in one test and like packets in another. Is it a wave, a particle, or something we do not have a word for yet?
-- Ask: In the Glow Star Test, why did 2 minutes of red light not do what 30 seconds of blue light did?
+- Ask: In the Glow Star Test, why did 2 minutes of red light fail when 30 seconds of blue worked?
 - Ask: The sage said that when every other light is gone, the self is the light we live by. Science can follow photons into the eye. What is the sage asking about that photons do not explain?
 
 ## Deep and big questions
@@ -336,7 +336,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Parent does:* Sit down together and talk about the game.  
   *Parent says:* Was light more like a wave or more like a crowd of particles in our game? Scientists found that real light is both at once.  
   *Child mode:* Sit down. Was light a wave or a crowd of dots in the game? Real light is both!
-  - Think: The game had a WAVE card and a PARTICLE card. Which card fits the stripes that light makes through two slits, and which fits the glow star test?
+  - Think: The game had a WAVE card and a PARTICLE card. Which fits the stripes from two slits? Which fits the glow star test?
 
 ## Experiments
 ### e1 · Flash and Bang: does light beat sound? (30 min)
@@ -413,7 +413,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Child mode:* Say or write three things: what you think now, what you saw, and why you think it happened.
   - Note: A good answer sounds like this. What I think: blue light can make a glow star glow, but red light cannot. What I saw: the red screen left star 1 dark, even for 2 minutes, but the blue screen made star 2 glow in 30 seconds. Why: light comes in packets called photons. Each blue photon has enough energy, but each red photon does not.
 ### e3 · Chocolate in the Microwave: measure the speed of light (24 min)
-- **problem:** A wave's speed is how long one wave is, multiplied by how many waves pass each second. A microwave oven makes waves of light that our eyes cannot see, and they travel at the speed of light. In this experiment you use chocolate to measure how long the waves are. The label on the oven tells you how many waves it makes each second.
+- **problem:** A wave's speed is its length times the number of waves each second. A microwave oven makes waves of light our eyes cannot see. They travel at the speed of light. In this experiment, chocolate shows how long the waves are. The oven's label says how many waves it makes each second.
 - **question:** Can we measure the speed of light in our own kitchen?
 - **predict:** Before you start, guess. Will the chocolate melt evenly all over, or only in some spots? Why do you think so?
 - **fair test:** Take the turning glass plate out, so the chocolate stays still. Heat in short bursts of 15 seconds, up to about 40 seconds in all, so only the hottest spots melt. Measure between the centres of melted spots, more than once, and take the middle value.
@@ -460,7 +460,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Child mode:* Try to catch the light in your hand. Open your hand. Is it there? Where does the light go when you switch off?
   - Ask: What do you wonder about light? (good: How fast is it?; What is it made of?; Where does it go?; Can it run out?)
   - Note: This is a noticing step, so don't explain yet. Write down your child's wonders. The rest of the unit will answer many of them. Light does take time to travel, but across a room it is far too fast to notice.
-  - Think: When you switch off the torch, the light that already left it keeps going. What does that light do when it reaches the wall?
+  - Think: Light that already left the torch keeps going. What does it do when it reaches the wall?
 ### a2 · The 8-Minute Wait (25 min)
 - **safety:** Never look straight at the Sun, not even for a second. It can hurt your eyes for ever.
 - **record:** Write: the sunlight on my arm left the Sun about 8 minutes ago. Draw what you did during the 8-minute wait.
@@ -486,7 +486,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Child mode:* The nearest star's light takes over 4 years to reach us. That is more than 20 lakh minutes. Our string is far too short for it!
   - Think: When you see a star tonight, how old is the light you are seeing?
 ### a3 · Ripples in an Uruli: what is a wave? (20 min)
-- **problem:** A wave is a movement that travels from place to place, while the water itself stays where it is. Scientists once argued about whether light is a wave like this, or a stream of tiny particles. In this activity you make water waves and compare them with rolling marbles.
+- **problem:** A wave is a movement that travels, while the water stays put. Scientists once asked whether light is a wave like this. Or is it a stream of tiny particles? In this activity, you make water waves and roll marbles to compare.
 - **record:** Draw the ripples from one coin. Then draw the ripples from two coins crossing each other.
 - **s1 (5 min)**  
   *Parent does:* 1. Put the uruli (a wide, shallow bowl) on the floor and pour in water about 1 centimetre deep. 2. Wait until it is still. 3. Drop one marble or coin in the middle.  
@@ -507,9 +507,9 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Parent does:* Do the wave-and-particle dance. When you call 'wave', your child moves smoothly. When you call 'particle', they move in sharp jumps.  
   *Parent says:* When I say 'wave', flow your arms like ripples. When I say 'particle', make sharp, tiny jumps, like a photon landing. Light can be both!  
   *Child mode:* Dance! Wave means flowing arms. Particle means sharp little jumps. Light is both.
-  - Think: Two ripples crossed and made a pattern, and so did light through two slits. What did Thomas Young decide light is?
+  - Think: Ripples crossing made a pattern. Light through two slits did too. What did Thomas Young decide light is?
 ### a4 · The Late Moon: act out Rømer's discovery (20 min)
-- **problem:** In 1676, Ole Rømer saw that Jupiter's moon Io came out of Jupiter's shadow later when the Earth was further away. In this activity, a slow messenger stands for light. You act out why the moon seemed late.
+- **problem:** In 1676, Ole Rømer timed Io, a moon of Jupiter. Io came out later when the Earth was further away. Here, a slow messenger stands for light. You act out why the moon seemed late.
 - **record:** Write the number you had reached at 'Now!' when you stood close, and when you stood far away. Draw Jupiter, and the Earth near it and far from it.
 - **s1 (4 min)**  
   *Parent does:* 1. Put the chair at one end of the corridor. It is Jupiter. 2. The grown-up plays Io, Jupiter's moon, and stands by the chair with the torch and the paper star. 3. The child is the observer. They stand with their back turned and count aloud, steadily, 1, 2, 3, up to 10. At 10, Io flashes the torch, to show the moon coming out of Jupiter's shadow.  
@@ -552,9 +552,9 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Parent does:* At home, fill in the table together.  
   *Parent says:* Let's write down how far back in time we looked tonight.  
   *Child mode:* Write each thing you saw. Next to it, write how old its light was.
-  - Think: Someone on a planet 4 light-years from the Earth looks at us tonight. How old is the light they see?
+  - Think: A planet is 4 light-years from the Earth. Someone there looks at us tonight. How old is the light they see?
 ### a6 · The Street-Light Star: see light's waves in a cloth (15 min)
-- **problem:** When waves squeeze through very small gaps, they spread out and cross each other, and this makes a pattern. The tiny gaps between the threads of a cloth are small enough to do this to light. If you see such a pattern, it is a clue that light is a wave.
+- **problem:** Waves that squeeze through tiny gaps spread out and cross. That makes a pattern. A fine cloth has gaps tiny enough to do this to light. So a pattern is a clue that light is a wave.
 - **safety:** Do it at night only. Never look at the Sun through anything, not even cloth.
 - **record:** Draw the pattern you saw around the street light.
 - **s1 (5 min) · grown-up needed**  

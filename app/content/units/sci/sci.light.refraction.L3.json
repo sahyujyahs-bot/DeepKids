@@ -1441,7 +1441,7 @@
        ]
       }
      ],
-     "think": "Your eyes thought the light came straight, but it had bent. Name one other thing at home that looks to be in the wrong place because light bends."
+     "think": "Your eyes thought the light came straight, but it had bent. Name one other thing at home that looks moved because light bends."
     },
     {
      "id": "s5",
@@ -2062,7 +2062,7 @@
   {
    "id": "a4",
    "title": "March Like Light (act it out)",
-   "problem": "Light goes fast in air and more slowly in water and glass. In this activity, a line of people holding hands is a beam of light. The floor is air, and a mattress is water. You march from the floor onto the mattress and watch what happens to the line.",
+   "problem": "Light goes fast in air and more slowly in water and glass. Here, a line of people holding hands is a beam of light. The floor is air, and a mattress is water. You march from the floor onto the mattress. Watch what happens to the line.",
    "mins": 15,
    "days": 1,
    "materials": [
@@ -2151,7 +2151,7 @@
   {
    "id": "a5",
    "title": "The Bottle Lens and the Flipping Words",
-   "problem": "A round bottle of water is curved, so it bends light like a lens. In this activity you look at words through the bottle and see what the bend does to them.",
+   "problem": "A round bottle of water is curved, like a lens. It bends light. In this activity, you look at words through the bottle. See what the bend does to them.",
    "mins": 15,
    "days": 1,
    "materials": [
@@ -2242,7 +2242,7 @@
   {
    "id": "a6",
    "title": "A Galaxy in a Wine Glass: gravity's lens",
-   "problem": "In space, the gravity of a huge cluster of galaxies bends the light of galaxies far behind it. Space telescopes photograph this as bright rings and arcs. The thick foot of a wine glass bends light in a similar way, so you can make the same shapes at home.",
+   "problem": "In space, gravity can bend the light of far galaxies. A huge cluster of galaxies does this. Space telescopes photograph it as bright rings and arcs. The thick foot of a wine glass bends light in a similar way. So you can make the same shapes at home.",
    "mins": 15,
    "days": 1,
    "materials": [
@@ -2333,7 +2333,7 @@
   {
    "id": "p1",
    "title": "Make a Leeuwenhoek Drop Microscope",
-   "problem": "About 350 years ago, Antonie van Leeuwenhoek made microscopes from tiny glass beads. A tiny round bead is very curved, so it bends light sharply and magnifies strongly. A tiny drop of water is round in the same way. In this project you use a drop of water as your lens.",
+   "problem": "About 350 years ago, Antonie van Leeuwenhoek made tiny glass-bead microscopes. A tiny bead is very curved, so it magnifies strongly. A tiny drop of water is round in the same way. In this project, you use a drop of water as your lens.",
    "days": 2,
    "mins": 60,
    "materials": [

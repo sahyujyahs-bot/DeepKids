@@ -189,7 +189,7 @@ In this unit, the same torch light met glass, butter paper and a steel plate. Gl
 - *big:* When is it good to let people see through, and when is it good to hide? Think of homes, schools and governments. (hint: Some people say a fair government should be 'transparent'. What do you think they mean?)
 - *big:* Mica is a mineral that splits into thin, see-through sheets. Ground up, it makes the sparkle in some paints and make-up. Much of it is dug in Jharkhand, sometimes by children. Should we ask where our shiny things come from? (hint: People we never see often work to make our shiny things. Is it fair not to know about them?)
 - *big:* The universe was once a fog that light could not cross. What is still hidden from us today, like a fog? (hint: Think of dark matter, which no light shows us.)
-- *big:* A glass frog hides their blood to become see-through. Why does being see-through help an animal that sleeps in the open? (hint: Think about what an animal that hunts them would see when it looks at them.)
+- *big:* A glass frog hides their blood to become see-through. Why does being see-through help an animal that sleeps in the open? (hint: Think about what a hunter sees when they look at a see-through animal.)
 - *big:* In the story The Flowers That Bloomed at Night, Meenu's mother stitched white flowers on a curtain. Nobody saw how beautiful they were until a light shone behind them at night. Is there work in your home that is hard to see? (hint: Who does a quiet job that you only notice when it is not done?)
 
 ## Story: The Flowers That Bloomed at Night
@@ -268,7 +268,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   *Parent does:* 1. Count everyone's tokens to find the winner. 2. Look at the three piles together.  
   *Parent says:* Look at the three piles. Were there any cards we argued about? Why could they go in two places?  
   *Child mode:* Count your tokens. Who won? Which card was hardest to place? Why?
-  - Think: Some cards could go on two mats. Name one job where a translucent material or an opaque one would both do.
+  - Think: Name one job where a translucent or an opaque material would do.
 ### g2 · Guess Behind the Sheet (15 min)
 - **rules:** Hang a thin white bedsheet across a doorway, or hold it up between two chairs.; The hider stands behind the sheet with the things from the cards. A torch stands on a stool or a pile of books about 2 metres behind the sheet, switched on and pointing at it. The guessers sit in front, in the dark.; Shuffle the 12 object cards and put them face down. The hider takes the top card, picks up that thing and holds it close to the sheet, between the torch and the sheet. If you do not have that thing at home, put its card back and take the next.; Guessers say what it is, and whether its shadow is dark, pale or almost none.; One point for the right object. One more for the right group: opaque, translucent or transparent.; Swap hiders after six objects. When all 12 have been guessed, the player with the most points wins.
 - **Printable cards: 12 object cards to cut out, for the hider:** a steel spoon [picture]; a glass of water [picture]; a leaf; a plastic comb; a sheet of butter paper; a clear plastic bottle; a cotton handkerchief; a toy car; a pair of sunglasses [picture]; an onion [picture]; a cling film sheet in a cardboard frame; a hand making a bird shape
@@ -429,7 +429,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   *Parent says:* The sugar is invisible now. Is it gone? Taste and see.  
   *Child mode:* Taste a sip. Is the sugar gone? Or is it still there, just too small to see?
   - Note: This links to the Roots card, where a father, Uddalaka, asks his son to put salt in water to make the same point. The sugar is everywhere in the water, but no light shows it.
-  - Think: If you left a plate of this sugar water to dry in the sun, what do you think would be left on the plate? Why?
+  - Think: Imagine a plate of this sugar water drying in the sun. What would be left on the plate?
 ### a3 · Cloudy Ice, Clear Ice (15 min, 2 days)
 - **safety:** Only a grown-up boils the water. Wrap ice in a cloth before crushing it, so no sharp bits fly.
 - **record:** Draw both pieces of ice. Mark where the cloudy parts are. Draw the crushed ice too.
@@ -473,7 +473,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   *Child mode:* Hang a thick quilt in front of the curtain. Look again. What can you see?
   - Think: Why do many homes have two curtains, one thin and one thick?
 ### a5 · Act It Out: The Light Party (15 min)
-- **problem:** Light goes straight through some materials, is scattered by others, and is stopped by others. In this activity, one person is the light, and the others are the tiny atoms in each material. You act out what the atoms do to the light.
+- **problem:** Light goes straight through some materials. Others scatter it, and others stop it. In this activity, one person is the light. The others are the tiny atoms in a material. You act out what the atoms do to the light.
 - **record:** Draw yourself as light, going into each material.
 - **s1 (5 min)**  
   *Parent does:* 1. Hold up the GLASS sign. 2. One person is the 'light'. Everyone else is an 'atom' and stands still, a step apart, with arms folded. If there are only two of you, one atom is enough: the light walks past it again and again. 3. The light walks straight past the atoms from one side of the room to the other.  
@@ -489,7 +489,7 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   *Parent does:* 1. Hold up the STEEL PLATE sign. 2. The atoms stand close together with arms held out. With two of you, the one atom holds out both arms. 3. When the light walks up, the atoms catch it. 4. The light either turns back, to show it is sent back, or sits down, to show it is absorbed.  
   *Parent says:* This is a steel plate. Its loose electrons catch the light. Most of it is sent back. A little is absorbed and warms the plate. None gets through.  
   *Child mode:* Now the atoms catch you. You can't get through. Turn back to show you were sent back, or sit down to show you were absorbed.
-  - Think: In which of the three materials did the light come out on the far side still walking straight?
+  - Think: In which material did the light walk straight through?
 ### a6 · Hand Shadow Animals (20 min)
 - **record:** Draw the outline of the shadow animal you invented. Write one sentence on why your hand made a dark shape.
 - **s1 (4 min)**  

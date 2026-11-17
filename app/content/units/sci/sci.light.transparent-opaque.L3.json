@@ -437,7 +437,7 @@
   {
    "q": "A glass frog hides their blood to become see-through. Why does being see-through help an animal that sleeps in the open?",
    "kind": "big",
-   "hint": "Think about what an animal that hunts them would see when it looks at them."
+   "hint": "Think about what a hunter sees when they look at a see-through animal."
   },
   {
    "q": "In the story The Flowers That Bloomed at Night, Meenu's mother stitched white flowers on a curtain. Nobody saw how beautiful they were until a light shone behind them at night. Is there work in your home that is hard to see?",
@@ -640,7 +640,7 @@
      "do": "1. Count everyone's tokens to find the winner. 2. Look at the three piles together.",
      "say": "Look at the three piles. Were there any cards we argued about? Why could they go in two places?",
      "kid": "Count your tokens. Who won? Which card was hardest to place? Why?",
-     "think": "Some cards could go on two mats. Name one job where a translucent material or an opaque one would both do.",
+     "think": "Name one job where a translucent or an opaque material would do.",
      "context": "This is the last step of the game Clear, Cloudy or Blocked?. You find the winner and look back at the tricky cards."
     }
    ]
@@ -1429,7 +1429,7 @@
      "say": "The sugar is invisible now. Is it gone? Taste and see.",
      "kid": "Taste a sip. Is the sugar gone? Or is it still there, just too small to see?",
      "parent": "This links to the Roots card, where a father, Uddalaka, asks his son to put salt in water to make the same point. The sugar is everywhere in the water, but no light shows it.",
-     "think": "If you left a plate of this sugar water to dry in the sun, what do you think would be left on the plate? Why?",
+     "think": "Imagine a plate of this sugar water drying in the sun. What would be left on the plate?",
      "context": "This is the last step of the sugar activity. You taste the water to check whether the sugar is still there."
     }
    ]
@@ -1631,7 +1631,7 @@
   {
    "id": "a5",
    "title": "Act It Out: The Light Party",
-   "problem": "Light goes straight through some materials, is scattered by others, and is stopped by others. In this activity, one person is the light, and the others are the tiny atoms in each material. You act out what the atoms do to the light.",
+   "problem": "Light goes straight through some materials. Others scatter it, and others stop it. In this activity, one person is the light. The others are the tiny atoms in a material. You act out what the atoms do to the light.",
    "mins": 15,
    "days": 1,
    "materials": [
@@ -1702,7 +1702,7 @@
      "do": "1. Hold up the STEEL PLATE sign. 2. The atoms stand close together with arms held out. With two of you, the one atom holds out both arms. 3. When the light walks up, the atoms catch it. 4. The light either turns back, to show it is sent back, or sits down, to show it is absorbed.",
      "say": "This is a steel plate. Its loose electrons catch the light. Most of it is sent back. A little is absorbed and warms the plate. None gets through.",
      "kid": "Now the atoms catch you. You can't get through. Turn back to show you were sent back, or sit down to show you were absorbed.",
-     "think": "In which of the three materials did the light come out on the far side still walking straight?",
+     "think": "In which material did the light walk straight through?",
      "context": "This is the last step of the Light Party drama. You act out light being stopped by a steel plate."
     }
    ]

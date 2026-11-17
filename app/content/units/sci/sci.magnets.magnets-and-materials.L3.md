@@ -184,7 +184,7 @@ Inside a plain nail, countless tiny magnets point in every direction, so their f
 - Ask: A turtle finds their beach without a map. What do they sense that we do not notice?
 
 ## Deep and big questions
-- *deep:* Every electron in your body is a tiny magnet. So why doesn't a fridge magnet stick to you? (hint: Two magnets turned opposite ways partly cancel each other, and they attract a pin much less than one magnet alone. In your body, the electrons' tiny magnets are in pairs that point opposite ways, so they cancel in the same way.)
+- *deep:* Every electron in your body is a tiny magnet. So why doesn't a fridge magnet stick to you? (hint: Two magnets turned opposite ways partly cancel, so they attract a pin much less than one magnet. In your body, the electrons' tiny magnets are in pairs that point opposite ways, and they cancel too.)
 - *deep:* A magnet attracts a pin through paper, through wood, even through your hand. How can its force act across a gap, with nothing touching? (hint: Scientists say the force acts through the magnet's magnetic field. Is the field something real in the space around the magnet, or only a way of describing what the magnet does?)
 - *deep:* When you stroke a needle and it becomes a magnet, nothing is added and nothing is taken away. So what changed? (hint: Think about the tiny magnets inside the needle. Which way did they point before the stroking, and which way after?)
 - *deep:* The Earth's magnetic field has flipped many times. What might happen to birds and turtles during a flip? (hint: A flip takes thousands of years. Turtles and birds have lived through many flips.)
@@ -277,7 +277,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent does:* Finish the game and talk about the turtles square.  
   *Parent says:* On square 11, turtles helped you. Real sea turtles find their way across oceans, with no compass. How do you think they do it?  
   *Child mode:* Who reached Aden? On square 11, turtles helped you. Real turtles cross oceans with no compass. How?
-  - Think: Sailors needed an iron fish and a magnet stone to find the way. Turtles seem to use only their own bodies. What do the iron fish and the turtles both sense?
+  - Think: Sailors used an iron fish and a magnet stone. Turtles seem to use only their own bodies. What do the fish and the turtles both sense?
 ### g2 · Magnet Says: be the tiny magnets (15 min)
 - **rules:** One person is the caller. Everyone else, even just one child, is a tiny magnet, an atom of iron. Stand around the room, facing any way.; The caller reads a card out loud. The tiny magnets must do what it says within three seconds.; On trick cards (WOOD, PLASTIC, BRASS) nothing happens, so stand still. Anyone who moves on a trick card, or does the wrong thing on any card, sits out the next card and then comes back.; The game ends after the 12th card. The player who sat out least wins. With one child and a caller, count how many of the 12 cards the child got right, and try to beat that next time.; Playing alone: lay the 12 paper arrows on the table, pointing every which way. Shuffle the caller cards and draw one at a time. Turn the arrows to match the card. For MAGNET COMING or STROKE, point all the arrows one way. For HEAT, mix them up so they point every way. For COPPER, lay them in pairs pointing opposite ways. For WOOD, PLASTIC or BRASS, leave them alone. Count how many cards you got right out of 12.
 - **Printable cards: 12 caller cards:** MAGNET COMING! (everyone turns to face the caller); MAGNET GONE, SOFT IRON! (everyone turns any way they like); MAGNET GONE, HARD STEEL! (everyone stays facing the same way); HEAT! RED-HOT! (everyone jiggles, then faces any way); COPPER! (the tiny magnets cancel in pairs: with a partner, stand back to back and freeze; with no partner, fold your arms and freeze); WOOD! (trick card: nothing happens, stand still); PLASTIC! (trick card: nothing happens); STROKE! (the caller walks past slowly, and each player turns to face the same way as the caller walks); HAMMER! (everyone wobbles, then turns a quarter turn); COMPASS! (everyone points to north); BRASS! (trick card: nothing happens); EARTH FLIP! (everyone points to south)
@@ -375,7 +375,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Child mode:* Hold the top clip. Move the magnet away slowly. What happens to the other clips?
   - Ask: Why did the clips fall apart when the magnet left? (good: They were only magnets while the magnet was there.; Their tiny magnets went back to pointing in different directions.)
   - Note: Clips are made of steel, so they may keep a tiny bit of magnetism, and one clip may still cling for a moment. Most of the chain falls apart.
-  - Think: A clip is a magnet only while a magnet is near. A stroked needle stays a magnet afterwards. What must the tiny magnets inside the needle keep doing once the stroking stops?
+  - Think: A clip is a magnet only while a magnet is near. A stroked needle stays a magnet afterwards. What must the needle's tiny magnets keep doing afterwards?
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -432,9 +432,9 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent does:* Leave your child with a question.  
   *Parent says:* So what is it about the pin that the key doesn't have? That's what we'll find out.  
   *Child mode:* The pin stuck. The key didn't. Both are metal. Why? Keep that question in your head!
-  - Think: A steel pin is mostly iron, and a brass key has no iron in it. What do you think a metal needs inside it before a magnet attracts it?
+  - Think: A steel pin is mostly iron. A brass key has no iron in it. What must a metal contain for a magnet to attract it?
 ### a2 · Draw the Invisible: the shape of a magnetic field (20 min)
-- **problem:** We cannot see a magnet's magnetic field. Near a magnet, each black grain becomes a tiny magnet and turns to line up with the field. So the lines that the grains make show the shape of the field.
+- **problem:** We cannot see a magnet's magnetic field. Near a magnet, each black grain becomes a tiny magnet. It turns to line up with the field. So the lines the grains make show the shape of the field.
 - **safety:** Never put the black sand or filings straight onto the magnet. Keep them on the paper. Wash your hands afterwards and keep filings away from eyes.
 - **record:** Draw the pattern you see. Mark the two places where the grains bunch up most.
 - **s1 (5 min)**  
@@ -476,7 +476,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   - Note: The answer is no. People in Greece, China, India, Europe and the USA each added a piece, and ideas travelled along trade routes.
   - Think: Two women are on our timeline, Marie Curie and Inge Lehmann. What did each of them find out?
 ### a4 · Gilbert's Little Earth: a needle on a thread (20 min)
-- **problem:** In 1600, William Gilbert carved a ball from lodestone and moved a tiny compass over it. The compass pointed the way compasses point on the real Earth. This made him think the Earth is a giant magnet. In this activity you do the same with a hanging needle and a magnet.
+- **problem:** In 1600, William Gilbert carved a ball from lodestone. He moved a tiny compass over it. The compass pointed the way compasses point on the real Earth. This made him think the Earth is a giant magnet. Here you do the same with a hanging needle and a magnet.
 - **safety:** Needles are sharp. A grown-up ties the thread, and puts the needle away afterwards.
 - **record:** Draw the magnet in the middle of the paper, and an arrow at each place for where the needle pointed.
 - **s1 (5 min) · grown-up needed**  
@@ -495,7 +495,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Child mode:* Your needle pointed along curved lines around the magnet. A compass on the Earth does the same. What did Gilbert decide?
   - Check: William Gilbert's tiny compass behaved the same around his magnet ball as compasses do on the real Earth. What did he decide? → **The Earth is a giant magnet**
 ### a5 · Find Your Beach: be a sea turtle (15 min)
-- **problem:** A young sea turtle has no map. Scientists think the Earth's magnetic field is a little different in every part of the ocean. Each place has its own strength, like an address. In this game you are the turtle, and the strength of the field is your only clue.
+- **problem:** A young sea turtle has no map. Every part of the ocean has a slightly different magnetic field. Scientists think turtles can sense this. Each place has its own strength, like an address. In this game you are the turtle. The strength of the field is your only clue.
 - **safety:** Play in a clear room. A grown-up walks beside the blindfolded child.
 - **record:** Draw the path the turtle took.
 - **s1 (3 min)**  
@@ -513,7 +513,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Child mode:* You found home without seeing! Real olive ridley turtles cross the sea to Odisha's beaches. What did you use to tell you that you were getting closer?
   - Check: How do scientists think young sea turtles find their way across the ocean? → **They sense the strength and the angle of the Earth's magnetic field**
 ### a6 · Draw an Aurora (20 min)
-- **problem:** Auroras are coloured lights in the night sky near the North and South Poles. The Sun sends out tiny charged particles, and the Earth's magnetic field steers them towards the poles. There they hit the air high up and make it glow. You draw an aurora and the field lines that steer it.
+- **problem:** Auroras are coloured lights in the night sky near the poles. The Sun sends out tiny charged particles. The Earth's magnetic field steers them towards the poles. There they hit the air high up and make it glow. You draw an aurora and the field lines that steer it.
 - **record:** Write one sentence under your picture about what makes auroras.
 - **s1 (3 min)**  
   *Parent does:* Look together at an aurora photo (search 'aurora' on a phone, or find one in a book), and at the picture on the explanation card 'The Earth's magnetic field shields us, and makes auroras'.  
@@ -529,7 +529,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Child mode:* Write one sentence. What makes an aurora?
   - Check: Why are auroras seen mostly near the North and South Poles? → **Because the Earth's magnetic field steers the Sun's tiny charged particles towards the poles**
 ### a7 · Heat Takes the Magnet Away (15 min)
-- **problem:** Heat makes the atoms in a needle jiggle. In this activity a grown-up heats a magnetised needle until it glows. You find out what the heat did to its magnetism, and whether you can get it back.
+- **problem:** Heat makes the atoms in a needle jiggle. In this activity, a grown-up heats a magnetised needle until it glows. You find out what the heat did to its magnetism. Then you try to get it back.
 - **safety:** Only a grown-up does the heating. Hold the needle with tongs or pliers, never fingers. The needle stays hot for a minute after it stops glowing. No gas stove? Skip this activity.
 - **record:** Write yes or no: picks up a pin before heating, after heating, and after stroking again.
 - **s1 (2 min)**  
@@ -550,7 +550,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent does:* Talk about what happened.  
   *Parent says:* Nothing was added and nothing was taken away. Only the direction of the tiny magnets changed, twice.  
   *Child mode:* Heat shook the tiny magnets out of line. Stroking lined them up again. Nothing was added. Nothing was taken away.
-  - Think: The Earth's core is far hotter than 770 degrees, so its iron cannot stay lined up like the iron in a magnet. What does the Earth's magnetic field come from instead?
+  - Think: The Earth's core is far hotter than 770 degrees. Its iron cannot stay lined up like a magnet's. What does the Earth's magnetic field come from?
 
 ## Projects
 ### p1 · My Compass Diary (50 min, 3 days)
@@ -597,7 +597,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent does:* Read the usual and creative solutions together, then invent one more.  
   *Parent says:* Here's what compass makers usually do, and some creative ideas. Can you beat them?  
   *Child mode:* Look at the usual ways and some creative ideas. Now invent your own. Can you beat them?
-  - Think: Turtles and robins may sense the Earth's magnetic field with their own bodies, and nothing sloshes. One idea is a protein in the eye. Another is tiny magnetite crystals, like the ones in magnetic bacteria. Which of these two would turn like your needle?
+  - Think: Turtles and robins may sense the Earth's field with their bodies. Nothing sloshes. One idea is a protein in the eye. Another is tiny magnetite crystals, like those in magnetic bacteria. Which of these two would turn like your needle?
 ### c2 · Iron-Proof: how far from iron must a compass be? (30 min)
 - **problem:** In the story 'The Iron Fish', a big iron pot made the ship's compass point the wrong way. Find out how close iron things at home must be before they turn your compass needle. Then choose the best spot in your home for a compass station.
 - **your turn:** Now find the safest spot in your home for a compass station, and explain why you chose it.
