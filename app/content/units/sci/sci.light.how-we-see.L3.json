@@ -394,7 +394,7 @@
   {
    "claim": "Eating lots of carrots lets you see in the dark.",
    "who": "A story spread in Britain during the Second World War, about pilots who ate carrots.",
-   "for": "Carrots have something the body turns into vitamin A. The rod cells need vitamin A, and people who badly lack it get night blindness. Eating carrots and green leafy vegetables really does fix that.",
+   "for": "Carrots contain a substance that the body turns into vitamin A. The rod cells need vitamin A, and people who badly lack it get night blindness. Eating carrots and green leafy vegetables really does fix that.",
    "against": "If your body already has enough vitamin A, extra carrots will not give you better night vision than normal. The wartime story also helped to hide the fact that the pilots were really using radar.",
    "status": "rejected",
    "context": "This card is about a famous food myth about seeing."
@@ -436,7 +436,7 @@
   {
    "q": "Why can't you see your own eyes without a mirror or a photo?",
    "kind": "deep",
-   "hint": "For you to see something, its light has to travel into your eyes. Where would the light from your eye have to go?"
+   "hint": "To see your own eye, light bouncing off it would have to travel into that same eye. But your eye faces outwards, so that light goes away from you. A mirror sends the light back."
   },
   {
    "q": "Is a colour in the mango, in the light, or in your brain?",
@@ -768,8 +768,8 @@
      "do": "Count the tokens. Then ask the closing question.",
      "say": "Count your seeing tokens. Who won? Now think back over all the chains. Which way did every arrow point?",
      "kid": "Count your tokens. Who has the most? Now look at all the arrows. Which way did they all point?",
-     "think": "Can you think of anything you can see that is not at the end of a chain like this?",
-     "parent": "Every arrow points towards an eye. That is the big idea of the unit. Seeing is light arriving."
+     "think": "Can you see a lamp without any object in between? How does its light reach your eye?",
+     "parent": "Every arrow points towards an eye. That is the big idea of the unit. Seeing is light arriving. A light source can be seen with no object in between. Its light goes straight from the lamp into your eye. Even then, the arrow points towards the eye."
     }
    ],
    "setup": [
@@ -875,7 +875,8 @@
      "do": "Play one more round of 10 balls. This time a CLOUD (an extra player, or a big book on a chair) goes between the SUN and the MANGO.",
      "say": "Now the CLOUD comes. What happens to the light reaching the EYE?",
      "kid": "CLOUD, go in front of the SUN. What happens now? Does the EYE still get any light?",
-     "think": "The MANGO is still there when the cloud comes. Why can't the EYE see it?"
+     "think": "The MANGO is still there when the cloud comes. Why can't the EYE see it?",
+     "parent": "The mango is still there, but no light lands on it. So no light bounces off it towards the eye, and the eye catches nothing from the mango."
     },
     {
      "id": "s5",
@@ -1615,7 +1616,8 @@
      "do": "Compare what happened with the guesses from the start.",
      "say": "Were your guesses right? Which thing showed up first, and why do you think it did?",
      "kid": "Were you right? Which thing did you see first? Why do you think it came first?",
-     "think": "If you sat inside a cave with no light for an hour, would you start to see? Why or why not?"
+     "think": "If you sat inside a cave with no light for an hour, would you start to see? Why or why not?",
+     "parent": "No. In a cave with no light at all, there is nothing for the eyes to catch. You would see nothing, however long you waited."
     },
     {
      "id": "s6",
@@ -1786,7 +1788,7 @@
      "do": "Ask your child to say or write three short sentences: what I think, what I saw, and why.",
      "say": "Now tell me three things. What do you think now about your pupil? What did you see that shows it? Why do you think your eye does this?",
      "kid": "Say three things: what you think now about your pupil, what you saw, and why your eye does this.",
-     "parent": "A good answer sounds like this. What I think: my pupil gets smaller in bright light. What I saw: it was 7 mm in the dim room and 3 mm next to the lamp. Why: the pupil is a hole that lets in light, so it opens wide when there is little light and closes when there is a lot.",
+     "parent": "A good answer sounds like this. What I think: my pupil gets smaller in bright light. What I saw: it was 7 mm in the dim room and 3 mm next to the lamp. Why: the pupil is a hole that lets in light, so it opens wide when there is little light and closes when there is a lot. A cat's pupil opens wider because cats hunt in dim light. A wider pupil lets in more of the little light there is.",
      "think": "Why do you think a cat's pupil can open even wider than yours?"
     }
    ],
@@ -2038,7 +2040,8 @@
      "art": "A close-up of mist drops in the beam, each with tiny arrows of light spraying out, some towards a child's eye.",
      "caption": "3. Each drop reflects a little light into your eyes."
     }
-   ]
+   ],
+   "problem": "A torch beam is almost invisible when you look at it from the side, even though the light is there. In this activity you find out why, and what makes the beam show up."
   },
   {
    "id": "a2",
@@ -2102,7 +2105,8 @@
       "a": 0,
       "why": "The dot's light landed on your blind spot, where the optic nerve leaves the eye and there are no light-catching cells. Your brain fills the gap with what is around it, plain white card. Picking 'the dot really disappeared' is easy to check: open both eyes and it is back. Picking 'the eye sent out a ray' is the old eye-rays idea. Eyes do not send anything out."
      },
-     "think": "You have a blind spot in each eye all day long, and you never notice it. What else might your brain be filling in?"
+     "think": "You have a blind spot in each eye all day long. Why don't you notice a hole when you look around?",
+     "parent": "There are two reasons. The brain fills the gap with what is around it. And with both eyes open, each eye sees what the other eye misses."
     }
    ],
    "setup": [
@@ -2118,7 +2122,8 @@
      "art": "The same child with the card closer, and in the card the dot has vanished, leaving plain white, with a ruler measuring from eye to card.",
      "caption": "3. When the dot vanishes, measure how far away the card is."
     }
-   ]
+   ],
+   "problem": "Everyone has one small spot in each eye that cannot catch light. In this activity you use a cross and a dot on a card to find yours, and to see what your brain shows you in its place."
   },
   {
    "id": "a3",
@@ -2233,7 +2238,8 @@
      "art": "The same patch of sky seen through the tube three times, with more stars visible each time.",
      "caption": "3. Count again at 10 and 20 minutes."
     }
-   ]
+   ],
+   "problem": "Your eyes slowly get better at seeing in dim light after you sit in the dark. In this activity you count stars, or small things in a dark room, at the start, after 10 minutes and after 20 minutes."
   },
   {
    "id": "a4",
@@ -2318,7 +2324,7 @@
      "do": "Ask your child to say what they think, what they saw, and why.",
      "say": "Like Ibn al-Haytham, tell me: what do you think now about where light goes? What did you see? Why?",
      "kid": "Say three things: what you think now about where light goes, what you saw on the screen, and why.",
-     "parent": "A good answer: What I think: light goes from each torch into the box. What I saw: when one torch was covered, only its spot vanished. Why: each torch sends its own light, and blocking it stops that light arriving. Your eye works the same way: it is a dark room with a small hole, the pupil.",
+     "parent": "A good answer: What I think: light goes from each torch into the box. What I saw: when one torch was covered, only its spot vanished. Why: each torch sends its own light, and blocking it stops that light arriving. Your eye works the same way: it is a dark room with a small hole, the pupil. The screen inside your eye is called the retina.",
      "think": "Your eye is a small dark room with a hole at the front. What is the 'screen' inside your eye called?"
     }
    ],
@@ -2335,7 +2341,8 @@
      "art": "A hand covering one torch, and on the screen only two spots left.",
      "caption": "3. Cover one torch. Only its spot goes out."
     }
-   ]
+   ],
+   "problem": "About 1,000 years ago, Ibn al-Haytham put lamps outside a small hole into a dark room. He watched where each lamp's light landed. You do the same with torches, to find out which way light travels."
   },
   {
    "id": "a5",
@@ -2412,7 +2419,8 @@
      "art": "A phone screen showing a flash photo of a smiling girl with red pupils.",
      "caption": "3. Take a flash photo in dim light. Look for red eyes."
     }
-   ]
+   ],
+   "problem": "Cats' and dogs' eyes seem to glow in torchlight, and eyes in flash photos look red. In this activity you find out whether the eyes make this light, or whether it is light bouncing back."
   },
   {
    "id": "a6",
@@ -2468,7 +2476,8 @@
      "do": "Put both drawings side by side and talk about what changed.",
      "say": "Look at both drawings. What's different? What made you change your mind?",
      "kid": "Put your two drawings side by side. What changed? What made you change your mind?",
-     "think": "Scientists change their drawings when they find new evidence. What was your evidence?"
+     "think": "Scientists change their ideas when they find new evidence. What did you see or do in this unit that changed your drawing?",
+     "parent": "A good answer names one test. For example, in the dark box nothing could be seen with no light, so eyes cannot be sending out rays."
     }
    ],
    "setup": [
@@ -2484,7 +2493,8 @@
      "art": "The two drawings pinned side by side on a wall.",
      "caption": "3. Compare your two drawings."
     }
-   ]
+   ],
+   "problem": "At the start of the unit, you draw how you think you see a ball. At the end, you draw it again. Comparing the two drawings shows how your idea changed."
   }
  ],
  "projects": [
@@ -2586,7 +2596,8 @@
      "do": "Help your child label the box eye: cornea, iris, pupil, retina and optic nerve. Then they show it to the family and explain how we see.",
      "say": "Now you're the teacher. Show the family your eye and tell them how light gets in and where it lands.",
      "kid": "Label the parts. Then show your family. Tell them how light gets into the eye, and where it lands.",
-     "think": "Your box eye catches light, but it sends no signals on. What does a real eye have that the box doesn't?"
+     "think": "Your box eye catches light, but it sends no signals on. What does a real eye have that the box doesn't?",
+     "parent": "A real retina has light-catching cells, the rods and cones, that turn light into signals. A real eye also has a lens to make a sharp picture. The box has only a paper screen. It catches the picture, but it cannot send signals on."
     }
    ],
    "setup": [
@@ -2602,7 +2613,8 @@
      "art": "A child in a dark room pointing the box at a lamp, with a small glowing image of the lamp on the tracing-paper back.",
      "caption": "3. Point it at a lamp. Try each pupil size."
     }
-   ]
+   ],
+   "problem": "An eye is like a dark box with a hole at the front and a screen at the back. In this project you build one from a shoebox, with a pupil that you can make bigger or smaller."
   }
  ],
  "challenges": [
@@ -3393,12 +3405,12 @@
    {
     "source": "Brihadaranyaka Upanishad 4.3.2 to 4.3.6",
     "teaching": "King Janaka asks the sage Yajnavalkya: 'What light does a person live by?' 'The Sun,' says Yajnavalkya. 'And when the Sun has set?' 'The Moon.' 'And when the Moon has set?' 'Fire.' 'And when the fire has gone out?' 'Speech, a voice to follow.' 'And when all of these are gone?' 'Then the self is the person's own light.'",
-    "link": "We have learned that eyes see only by light from outside, from the Sun, the Moon or a fire. The sage then asks about a different kind of light: the awareness that knows the seeing, even in the dark."
+    "link": "We have learned that eyes see only by light from outside, from the Sun, the Moon or a fire. The sage answers that when all of these are gone, a person still has their own awareness. It knows about seeing even in the dark."
    },
    {
     "source": "Kena Upanishad 1.2",
     "teaching": "It is the ear of the ear, the mind of the mind, and the eye of the eye.",
-    "link": "The eye catches light, and the brain makes sense of it. But who, or what, is aware of the seeing? The Upanishad points to something behind the eye."
+    "link": "The eye catches light, and the brain makes sense of it. But who, or what, is aware of the seeing? The Upanishad says there is something behind the eye that is aware. It calls this 'the eye of the eye'."
    },
    {
     "source": "Majjhima Nikaya 18, the Madhupindika Sutta",
@@ -3427,7 +3439,7 @@
    "kid": "Sit by a window. Close your eyes. Breathe slowly three times. Open them very slowly. Don't try to look. Let the light come in to you. Close them again. Open once more."
   },
   "ask": [
-   "Light from the mango is inside your eye. Is the mango you see out there, or in here?",
+   "The light from the mango is inside your eye. So is the mango you see out there in the room, or is it a picture made inside you?",
    "If seeing just happens when light comes in, who is the one who sees?",
    "Is the world still there when you close your eyes? How do you know?",
    "When you and a friend look at each other, what are you sharing?"
@@ -3435,5 +3447,117 @@
   "art": "A child sitting by a sunny window with eyes gently open, fine threads of light coming from a mango, a tree and a bird outside and flowing softly into the child's eyes."
  },
  "playtest": "Played Light Chain and Photon Relay in the head with 2 and with 4 players, and went through every experiment, activity, project and challenge step by step as a family in a flat. Games: Light Chain now says what happens to the chain's cards, who keeps the tokens when a chain is blocked, and what to do if a chain is wrong; the 20 tokens are each written out with a size; the grandparent card is an older person's eye. Photon Relay now has a clear end (10 socks, two rounds) and the cloud works with 2 players. Experiments: the dark box lid is no longer taped shut (the lid has to lift later); the results of the crack-of-light step are marked as depending on the room; the pupil test has the duplicate note removed, a fair single-eye plan, and an honest warning for dark brown eyes; the toy test says light leaks round the card and has a table row for the ceiling step. Project: the iris slider now runs in a track made of card strips, not slits that could not work, and the upside-down picture is explained. Night Eyes says the room version needs a dim, not black, room and that a flat result is fine. Safety lines were removed where there was no real hazard (invisible beam, torch tests) and kept for cutting, lamps near eyes, the Sun, terrace edges and street dogs. The two buy items were removed: a torch or phone torch is at home, and the children's book could not be checked to exist. Jokes cut to the 8 real ones. Three worksheet questions that repeated a step check were removed (dark box lid shut, blind spot, three lamps) plus the red-torch question that a3 and the challenge sheet already cover; four new questions (pupil fill-in, eyes closed, steel tumbler test, two eyes drawing) keep each sheet at 15. The night path challenge no longer assumes a grandparent. Rule 28: a Magh Bihu bonfire card and a Guwahati girl replace North-leaning defaults. Not done: the three YouTube ids could not be opened here and need a check; the a6 'draw again' step comes at the end of the unit but a6 appears once in the default order.",
- "warm": {"words": ["LIGHT", "PUPIL", "BRAIN", "NERVE", "SIGHT"], "quiz": [["We see a mango because light bounces off it and goes into our eyes.", true, "A mango makes no light, so we see it only by the light that bounces off it into our eyes."], ["Our eyes send out rays that touch things so that we can see them.", false, "If eyes sent out rays, we could see in the dark. Light comes into the eye instead."], ["In dim light, the pupil of the eye gets bigger.", true, "A wider pupil lets in more of the little light there is."], ["If you wait long enough in a room with no light at all, you will start to see.", false, "Eyes become more sensitive in the dark, but they still need at least a little light."], ["A lamp makes its own light, but a mango does not.", true, "A lamp is a light source, and a mango is only seen when light bounces off it."], ["Eating lots of carrots lets you see in a room with no light.", false, "Carrots give vitamin A that the eye needs, but no one can see when there is no light."], ["The retina catches light, and the optic nerve carries signals to the brain.", true, "The retina turns light into signals, and the nerve works like a cable to the brain."], ["A cat's eyes glow in the dark because they make their own light.", false, "The glow is light bouncing back from the eye, so a cat sees nothing with no light at all."], ["Most things bounce light off in every direction, so many people can see the same thing.", true, "Light from the thing reaches every eye in the room at once."], ["The eye sends the brain a ready-made photo, and the brain just looks at it.", false, "The eye sends millions of tiny signals, and the brain builds the picture and fills in gaps."]], "odd": [[["The Sun", "A lit lamp", "A burning diya", "Your friend's face"], "Your friend's face", "The first three make their own light, but a face is seen only by light bouncing off it."], [["Cornea", "Pupil", "Lens", "Retina"], "Retina", "Light passes through the cornea, pupil and lens, but the retina catches it and turns it into signals."], [["Dim room", "Dark evening", "Inside a cave", "Bright sunshine"], "Bright sunshine", "The first three make the pupil open wide for more light, but bright light makes it shrink."], [["Eyes catch light", "Pupil is a hole", "Retina makes signals", "Cats see with no light"], "Cats see with no light", "The first three are true, but even a cat cannot see where there is no light at all."], [["Starlight", "Moonlight", "A crack of light under a door", "A sealed pitch-dark cave"], "A sealed pitch-dark cave", "The first three give a little light for eyes to use, but a sealed cave has none, so nothing can be seen."]]}
+ "warm": {
+  "words": [
+   "LIGHT",
+   "PUPIL",
+   "BRAIN",
+   "NERVE",
+   "SIGHT"
+  ],
+  "quiz": [
+   [
+    "We see a mango because light bounces off it and goes into our eyes.",
+    true,
+    "A mango makes no light, so we see it only by the light that bounces off it into our eyes."
+   ],
+   [
+    "Our eyes send out rays that touch things so that we can see them.",
+    false,
+    "If eyes sent out rays, we could see in the dark. Light comes into the eye instead."
+   ],
+   [
+    "In dim light, the pupil of the eye gets bigger.",
+    true,
+    "A wider pupil lets in more of the little light there is."
+   ],
+   [
+    "If you wait long enough in a room with no light at all, you will start to see.",
+    false,
+    "Eyes become more sensitive in the dark, but they still need at least a little light."
+   ],
+   [
+    "A lamp makes its own light, but a mango does not.",
+    true,
+    "A lamp is a light source, and a mango is only seen when light bounces off it."
+   ],
+   [
+    "Eating lots of carrots lets you see in a room with no light.",
+    false,
+    "Carrots give vitamin A that the eye needs, but no one can see when there is no light."
+   ],
+   [
+    "The retina catches light, and the optic nerve carries signals to the brain.",
+    true,
+    "The retina turns light into signals, and the nerve works like a cable to the brain."
+   ],
+   [
+    "A cat's eyes glow in the dark because they make their own light.",
+    false,
+    "The glow is light bouncing back from the eye, so a cat sees nothing with no light at all."
+   ],
+   [
+    "Most things bounce light off in every direction, so many people can see the same thing.",
+    true,
+    "Light from the thing reaches every eye in the room at once."
+   ],
+   [
+    "The eye sends the brain a ready-made photo, and the brain just looks at it.",
+    false,
+    "The eye sends millions of tiny signals, and the brain builds the picture and fills in gaps."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "The Sun",
+     "A lit lamp",
+     "A burning diya",
+     "Your friend's face"
+    ],
+    "Your friend's face",
+    "The first three make their own light, but a face is seen only by light bouncing off it."
+   ],
+   [
+    [
+     "Cornea",
+     "Pupil",
+     "Lens",
+     "Retina"
+    ],
+    "Retina",
+    "Light passes through the cornea, pupil and lens, but the retina catches it and turns it into signals."
+   ],
+   [
+    [
+     "Dim room",
+     "Dark evening",
+     "Inside a cave",
+     "Bright sunshine"
+    ],
+    "Bright sunshine",
+    "The first three make the pupil open wide for more light, but bright light makes it shrink."
+   ],
+   [
+    [
+     "Eyes catch light",
+     "Pupil is a hole",
+     "Retina makes signals",
+     "Cats see with no light"
+    ],
+    "Cats see with no light",
+    "The first three are true, but even a cat cannot see where there is no light at all."
+   ],
+   [
+    [
+     "Starlight",
+     "Moonlight",
+     "A crack of light under a door",
+     "A sealed pitch-dark cave"
+    ],
+    "A sealed pitch-dark cave",
+    "The first three give a little light for eyes to use, but a sealed cave has none, so nothing can be seen."
+   ]
+  ]
+ }
 }

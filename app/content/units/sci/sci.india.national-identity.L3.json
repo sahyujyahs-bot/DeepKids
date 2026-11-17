@@ -169,7 +169,7 @@
    "concept": "The tiger, the peacock and the lotus in their own lives",
    "status": "defined",
    "definition": "The tiger is India's national animal, the peacock is the national bird and the lotus is the national flower. Each one's body helps them with a problem in their own life.",
-   "description": "A tiger's problem is food. Tigers cannot run fast for long, so they must creep very close to a deer before they leap. Their stripes break up their shape among tall grass and shadows. Deer see colours differently from us. To a deer, a tiger's orange looks much like green. So the deer does not see the tiger until too late. A peacock's problem is to be chosen. Peahens choose which male they mate with. In the rainy season, males spread their long trains and shake them to show themselves. The shining blue and green of the feathers is not paint. It comes from tiny ridges in the feathers that send back light in different ways. Lotus plants grow in muddy ponds. Their leaves are covered in tiny waxy bumps, so water rolls off in balls and carries the dust away. A clean leaf can catch more sunlight. The tiger became the national animal in 1973, when Project Tiger began. Before that, the national animal was the lion. The peacock became the national bird in 1963.",
+   "description": "A tiger has to catch food to live. Tigers cannot run fast for long, so they must creep very close to a deer before they leap. Their stripes break up their shape among tall grass and shadows. Deer see colours differently from us. To a deer, a tiger's orange looks much like green. So the deer does not see the tiger until too late. A male peacock has to be chosen by a peahen. Peahens choose which male they mate with. In the rainy season, males spread their long trains and shake them to show themselves. The shining blue and green of the feathers is not paint. It comes from tiny ridges in the feathers that send back light in different ways. Lotus plants grow in muddy ponds. Their leaves are covered in tiny waxy bumps, so water rolls off in balls and carries the dust away. A clean leaf can catch more sunlight. The tiger became the national animal in 1973, when Project Tiger began. Before that, the national animal was the lion. The peacock became the national bird in 1963.",
    "examples": [
     "Hold a peacock feather and tilt it. The 'eye' changes colour as you turn it.",
     "A tiger photographed in tall dry grass is hard to spot, even for people.",
@@ -599,9 +599,10 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "Add up the points. Ask which card surprised your child most.",
-     "say": "Which card surprised you the most?",
-     "kid": "Add up your points. Which card surprised you?"
+     "do": "1. Add up the points. 2. Pick one card that was wrong. 3. Ask your child what the right way is, and why it matters.",
+     "say": "Pick one wrong card. What is the right way to treat the flag in that case? Why does it matter?",
+     "kid": "Add up your points. Pick one wrong card. What is the right way? Why does it matter?",
+     "parent": "Good answers match the card. A torn flag is replaced, because the flag stands for the whole country and should be kept neat. A flag with green on top is upside down, because saffron always goes on top. Any reason about showing respect to the country is a good one."
     }
    ],
    "setup": [
@@ -735,7 +736,7 @@
      "do": "1. Your child looks away while you make one print in the damp atta, pressing as hard as you like. 2. Smooth a fresh patch. You look away while your child makes one print. 3. Look at the two prints together and guess whose is whose. Say how sure you are.",
      "say": "Now let's be forest guards. I will make one print while you look away, and then you make one while I look away. Can we tell whose is whose?",
      "kid": "Look away while your parent makes a print. Then your parent looks away while you make one. Can you tell whose is whose?",
-     "parent": "Others at home can join in, each making one print. If one press is hard and the other gentle, the smaller hand can leave the bigger print. Ask how sure your child feels, and why."
+     "parent": "Others at home can join in, each making one print. If one press is hard and the other gentle, the smaller hand can leave the bigger print. Ask how sure your child feels, and why. Usually you cannot tell for sure whose print is whose. That is the point of this step. One print alone cannot say whose hand made it."
     },
     {
      "id": "s7",
@@ -1067,7 +1068,7 @@
      "do": "1. Turn a note over. 2. Find the panel where the value is written in many languages. 3. Count the languages and find any your family can read.",
      "say": "On the back of a note, the amount is written in many Indian languages. How many can you count? Can anyone here read one?",
      "kid": "Turn the note over. Find the box of many languages. Count them. Can anyone read one?",
-     "parent": "The panel on the back of rupee notes has 15 languages, such as Tamil, Telugu, Kannada, Malayalam, Bengali, Marathi, Odia and Assamese. Hindi and English are on the front. Ask why the government prints so many."
+     "parent": "The panel on the back of rupee notes has 15 languages, such as Tamil, Telugu, Kannada, Malayalam, Bengali, Marathi, Odia and Assamese. Hindi and English are on the front. Ask why the government prints so many. The panel is there so that people in every part of India can read the amount in their own language."
     }
    ],
    "context": "In this activity you hunt for India's emblem and the ₹ symbol on coins and notes, and count the languages on a rupee note.",
@@ -1153,7 +1154,8 @@
      "art": "The same notebook with tally marks beside 'hockey', and a note saying 'Official? No sport declared, 2012'.",
      "caption": "2. Count the answers. Tell them what the government said."
     }
-   ]
+   ],
+   "problem": "Many books and quiz books say that hockey is India's official national game. In this activity you ask five people what they believe. Then you find out what the government itself said when someone asked."
   },
   {
    "id": "a4",
@@ -1259,7 +1261,7 @@
      "what": "Open the museum. Guide the family round and answer their questions."
     }
    ],
-   "record": "Write the labels. After the tour, write which question from a visitor was the hardest.",
+   "record": "Write the labels. After the tour, write one thing a visitor learned that they did not know before.",
    "flow": [
     {
      "id": "s1",
@@ -2022,7 +2024,7 @@
       "The emblem has no lions"
      ],
      "a": 1,
-     "why": "The Lion Capital has four lions sitting back to back. From the front you see three. What you see from one side isn't always all there is, which is also why camera traps photograph both sides of a tiger."
+     "why": "The Lion Capital has four lions sitting back to back. From the front you see three. In the same way, one side of a tiger shows only the stripes on that side. That is why camera traps photograph both sides of a tiger."
     },
     {
      "t": "write",
@@ -2505,7 +2507,7 @@
    "what_is_life": "A tigress walks her forest every night. She does not know she is a symbol. Her stripes are for hiding from deer, and her life is her own.",
    "what_is_this_world": "A country is many millions of people who have never met. A flag, a song and a shared animal help them know they belong together."
   },
-  "thread": "A tiger leaves thousands of prints in a life, and no two are quite the same. Wet mud spreads them and dry dust crumbles them. The tigress herself stays the same, and so do her stripes. A country is a little like this. Its people speak many languages, and every place is different. A few things are shared by all of them: a flag, an anthem, a constitution. A tiger scientist looks for what stays the same, and checks it carefully. A citizen can do the same.",
+  "thread": "A tiger leaves thousands of prints in a life, and no two are quite the same. Wet mud spreads them and dry dust crumbles them. The tigress herself stays the same, and so do her stripes. A country is like this in one way. Its people speak many languages, and every place is different. A few things are shared by all of them: a flag, an anthem, a constitution. A tiger scientist looks for what stays the same, and checks it carefully. A citizen can do the same.",
   "teachings": [
    {
     "source": "Mundaka Upanishad 3.1.6, the line written under India's emblem",
@@ -2544,7 +2546,7 @@
   "practice": {
    "title": "Be a camera trap",
    "mins": 3,
-   "say": "Let's sit very still by a window, like a camera trap on a tree. We won't move or speak for two minutes. Notice everything that passes: a crow, a sound, a leaf moving. Then tell me what you saw. A camera trap waits like this every night in the forest.",
+   "say": "Let's sit very still by a window, like a camera trap on a tree. A camera trap catches only what passes in front of it, so it never moves. We won't move or speak for two minutes. Notice everything that passes: a crow, a sound, a leaf moving. Then tell me what you saw. You will notice more when you keep still and quiet.",
    "kid": "Sit very still by the window. Don't move or speak. Notice everything that passes. After two minutes, say what you saw."
   },
   "ask": [
@@ -2561,5 +2563,117 @@
   "when": "Camera-trap studies from the early 1990s; Sariska found empty in 2004 and 2005; camera-trap counts across India from 2006",
   "wrong_idea": "People thought each tiger's pugmark was different enough to count tigers by footprints alone. But one tiger leaves different prints on different ground, and the empty forest at Sariska showed that the footprint counts could be badly wrong. Stripes photographed by camera traps now tell each tiger apart."
  },
- "warm": {"words": ["TIGER", "LIONS", "WHEEL", "COUNT", "PRINT"], "quiz": [["Each tiger has their own stripe pattern that stays the same for life.", true, "A photo of the stripes shows exactly which tiger it is."], ["A tiger's footprint is always the same, so footprints alone can count tigers.", false, "The same tiger leaves different prints on different ground, so prints can mislead."], ["The tiger has always been India's national animal.", false, "The lion was the national animal until 1973, when the tiger took the lion's place."], ["Republic Day remembers the Constitution coming into force, not freedom from British rule.", true, "Independence Day, 15 August, remembers freedom; Republic Day, 26 January, remembers the Constitution."], ["Hockey is India's official national game.", false, "In 2012 the government replied that no sport has been declared the national game."], ["Counting tigers matters because protecting them needs knowing how many there are.", true, "Without a good count, nobody can tell whether the tigers are growing or shrinking."], ["Jana Gana Mana was written to praise King George V.", false, "Tagore wrote that the giver of India's destiny in his song could never be a king."], ["Whether a thing is a national symbol is decided by people, not by the animal.", true, "A tiger does not know they are a symbol; people chose the tiger to stand for the country."], ["A republic is a country whose head is born into the job.", false, "In a republic the head is chosen, not born into the job like a king or queen."], ["A country picks symbols, such as a flag or an animal, to stand for all its people.", true, "A symbol is a shared sign that every person in the country can call their own."]], "odd": [[["Stripe pattern", "Stripes in a photo", "Stripes at age two", "Footprint on mud"], "Footprint on mud", "The first three stay the same for a tiger's whole life; a footprint changes with the ground."], [["Tricolour", "Lion Capital", "Jana Gana Mana", "A shop's signboard"], "A shop's signboard", "The first three were chosen to stand for the whole country; a signboard stands for one shop."], [["Tiger", "Peacock", "Lotus", "Flag"], "Flag", "The first three are living things whose bodies help them live; a flag is only cloth and dye."], [["Photo of stripes", "Count of animals", "Measured print", "A story that sounds true"], "A story that sounds true", "The first three are evidence you can see or check; a story that only sounds true has not been checked."], [["Head chosen by vote", "Voting by people", "A written Constitution", "King by birth"], "King by birth", "The first three belong to a republic; a king by birth is the opposite of a chosen head."]]}
+ "warm": {
+  "words": [
+   "TIGER",
+   "LIONS",
+   "WHEEL",
+   "COUNT",
+   "PRINT"
+  ],
+  "quiz": [
+   [
+    "Each tiger has their own stripe pattern that stays the same for life.",
+    true,
+    "A photo of the stripes shows exactly which tiger walked past."
+   ],
+   [
+    "A tiger's footprint is always the same, so footprints alone can count tigers.",
+    false,
+    "The same tiger leaves different prints on different ground, so prints can mislead."
+   ],
+   [
+    "The tiger has always been India's national animal.",
+    false,
+    "The lion was the national animal until 1973, when the tiger took the lion's place."
+   ],
+   [
+    "Republic Day remembers the Constitution coming into force, not freedom from British rule.",
+    true,
+    "Independence Day, 15 August, remembers freedom; Republic Day, 26 January, remembers the Constitution."
+   ],
+   [
+    "Hockey is India's official national game.",
+    false,
+    "In 2012 the government replied that no sport has been declared the national game."
+   ],
+   [
+    "Counting tigers matters because protecting them needs knowing how many there are.",
+    true,
+    "Without a good count, nobody can tell whether the tigers are growing or shrinking."
+   ],
+   [
+    "Jana Gana Mana was written to praise King George V.",
+    false,
+    "Tagore wrote that the giver of India's destiny in his song could never be a king."
+   ],
+   [
+    "Whether a thing is a national symbol is decided by people, not by the animal.",
+    true,
+    "A tiger does not know they are a symbol; people chose the tiger to stand for the country."
+   ],
+   [
+    "A republic is a country whose head is born into the job.",
+    false,
+    "In a republic the head is chosen, not born into the job like a king or queen."
+   ],
+   [
+    "A country picks symbols, such as a flag or an animal, to stand for all its people.",
+    true,
+    "A symbol is a shared sign that every person in the country can call their own."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Stripe pattern",
+     "Stripes in a photo",
+     "Stripes at age two",
+     "Footprint on mud"
+    ],
+    "Footprint on mud",
+    "The first three stay the same for a tiger's whole life; a footprint changes with the ground."
+   ],
+   [
+    [
+     "Tricolour",
+     "Lion Capital",
+     "Jana Gana Mana",
+     "A shop's signboard"
+    ],
+    "A shop's signboard",
+    "The first three were chosen to stand for the whole country; a signboard stands for one shop."
+   ],
+   [
+    [
+     "Tiger",
+     "Peacock",
+     "Lotus",
+     "Flag"
+    ],
+    "Flag",
+    "The first three are living things whose bodies help them live; a flag is only cloth and dye."
+   ],
+   [
+    [
+     "Photo of stripes",
+     "Count of animals",
+     "Measured print",
+     "A story that sounds true"
+    ],
+    "A story that sounds true",
+    "The first three are evidence you can see or check; a story that only sounds true has not been checked."
+   ],
+   [
+    [
+     "Head chosen by vote",
+     "Voting by people",
+     "A written Constitution",
+     "King by birth"
+    ],
+    "King by birth",
+    "The first three belong to a republic; a king by birth is the opposite of a chosen head."
+   ]
+  ]
+ }
 }
