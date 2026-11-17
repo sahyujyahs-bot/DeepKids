@@ -11,6 +11,10 @@
   "src": "media/img/sci.seeds-and-life-cycles.pollination.L5/intro.jpg",
   "drawn": true
  },
+ "roots.0": {
+  "src": "media/img/sci.seeds-and-life-cycles.pollination.L5/roots.0.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.seeds-and-life-cycles.pollination.L5/setup.e1.0.jpg",
   "drawn": true
@@ -30,6 +34,18 @@
  "spot.2": {
   "src": "media/img/sci.seeds-and-life-cycles.pollination.L5/spot.2.jpg",
   "credit": "Gerry van Tonder, CC BY, via iNaturalist"
+ },
+ "story.0": {
+  "src": "media/img/sci.seeds-and-life-cycles.pollination.L5/story.0.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
+ },
+ "story.3": {
+  "src": "media/img/sci.seeds-and-life-cycles.pollination.L5/story.3.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
+ },
+ "story.5": {
+  "src": "media/img/sci.seeds-and-life-cycles.pollination.L5/story.5.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
  },
  "summary": {
   "src": "media/img/sci.seeds-and-life-cycles.pollination.L5/summary.jpg",

@@ -3,6 +3,10 @@
   "src": "media/img/sci.ecology.biodiversity.L5/expl.10.jpg",
   "drawn": true
  },
+ "expl.11": {
+  "src": "media/img/sci.ecology.biodiversity.L5/expl.11.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
+ },
  "expl.7": {
   "src": "media/img/sci.ecology.biodiversity.L5/expl.7.jpg",
   "drawn": true
@@ -59,6 +63,26 @@
   "src": "media/img/sci.ecology.biodiversity.L5/setup.g1.1.jpg",
   "drawn": true
  },
+ "story.0": {
+  "src": "media/img/sci.ecology.biodiversity.L5/story.0.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
+ },
+ "story.2": {
+  "src": "media/img/sci.ecology.biodiversity.L5/story.2.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
+ },
+ "story.3": {
+  "src": "media/img/sci.ecology.biodiversity.L5/story.3.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
+ },
+ "story.4": {
+  "src": "media/img/sci.ecology.biodiversity.L5/story.4.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
+ },
+ "story.5": {
+  "src": "media/img/sci.ecology.biodiversity.L5/story.5.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
+ },
  "summary": {
   "src": "media/img/sci.ecology.biodiversity.L5/summary.jpg",
   "drawn": true
@@ -78,6 +102,10 @@
  "term.16": {
   "src": "media/img/sci.ecology.biodiversity.L5/term.16.jpg",
   "drawn": true
+ },
+ "term.17": {
+  "src": "media/img/sci.ecology.biodiversity.L5/term.17.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
  },
  "term.2": {
   "src": "media/img/sci.ecology.biodiversity.L5/term.2.jpg",

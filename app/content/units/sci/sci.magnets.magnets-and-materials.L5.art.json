@@ -55,9 +55,21 @@
   "src": "media/img/sci.magnets.magnets-and-materials.L5/setup.e1.2.jpg",
   "drawn": true
  },
+ "story.0": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L5/story.0.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
+ },
+ "story.2": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L5/story.2.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
+ },
  "story.3": {
   "src": "media/img/sci.magnets.magnets-and-materials.L5/story.3.jpg",
   "drawn": true
+ },
+ "story.4": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L5/story.4.jpg",
+  "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
  },
  "summary": {
   "src": "media/img/sci.magnets.magnets-and-materials.L5/summary.jpg",
