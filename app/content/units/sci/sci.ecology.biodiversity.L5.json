@@ -48,7 +48,7 @@
   },
   {
    "term": "Population",
-   "meaning": "All the members of one species who live in one place. A population is counted as a number.",
+   "meaning": "All the members of one species who live in one place. Scientists can count them, and the count tells us how many there are.",
    "example": "The population of Asiatic lions in and around Gir was 674 in 2020.",
    "art": "A group of lions resting under a tree with a forest guard counting them on a notepad from a distance."
   },
@@ -90,7 +90,7 @@
   },
   {
    "term": "Biodiversity hotspot",
-   "meaning": "A region with at least 1,500 endemic plant species, which has already lost at least 70 in every 100 parts of its natural plants.",
+   "meaning": "A region with at least 1,500 plant species found nowhere else, which has already lost at least 70 out of every 100 parts of the natural plant cover that the region once had.",
    "example": "The Western Ghats and Sri Lanka together are one hotspot. The world has 36 hotspots.",
    "art": "A world map with 36 red patches, and the Western Ghats patch drawn larger in a circle."
   },
@@ -169,7 +169,7 @@
    "concept": "Why islands and hilltops have species of their own",
    "status": "defined",
    "definition": "A new species can form when a group is cut off from the rest of their kind for a very long time. Islands, mountain tops and old lakes cut groups off, so they hold many endemic species.",
-   "description": "Birds who reach a far island cannot easily fly back and mix with the others. Over thousands of generations, the island group changes in their own way. In the end they are a new species. A cold, wet hilltop works like an island. The beings who need the cold cannot cross the hot valleys in between. The high grasslands and shola forests of the Nilgiris and the Anamalais are such 'sky islands'. The Cold Hilltop shows what happens to such a hill when the air warms. The purple frog shows how long this can last. Their nearest relatives live on the Seychelles islands, far across the sea. India and the Seychelles were joined about 65 million years ago.",
+   "description": "Birds who reach a far island cannot easily fly back and mix with the others. Over thousands of generations, the island group changes in their own way. In the end they are a new species. A cold, wet hilltop works like an island. The beings who need the cold cannot cross the hot valleys in between. The high grasslands and shola forests of the Nilgiris and the Anamalais are such 'sky islands'. The Cold Hilltop test shows what happens to such a hill when the air warms. Species can also stay on an island or a hilltop for a very long time. The purple frog is an example. Their nearest relatives live on the Seychelles islands, far across the sea. India and the Seychelles were joined about 65 million years ago, so the frogs have been separated from their relatives for a very long time.",
    "examples": [
     "Madagascar has been an island for about 88 million years. Lemurs live there and nowhere else.",
     "In the Western Ghats, most species of frog are endemic.",
@@ -195,7 +195,7 @@
   {
    "concept": "Biodiversity hotspots",
    "status": "defined",
-   "definition": "A biodiversity hotspot is a region with at least 1,500 endemic plant species which has already lost at least 70 in every 100 parts of its natural plants.",
+   "definition": "A biodiversity hotspot is a region with at least 1,500 plant species found nowhere else. The region must also have lost at least 70 out of every 100 parts of the natural plant cover that the region once had.",
    "description": "The British scientist Norman Myers gave this idea its name in 1988. He asked where money for conservation would save the most species. Endemic species are not spread evenly over the Earth. They are crowded into a few regions. Today 36 regions count as hotspots. Their remaining natural habitat covers only about 2 and a half parts in 100 of the Earth's land. Yet more than half of the world's plant species are endemic to these regions. Four hotspots include parts of India: the Himalaya, Indo-Burma, the Western Ghats and Sri Lanka, and Sundaland, which includes the Nicobar Islands. In the game Two Safe Squares, one square holds three rare species. Protecting that one square saves all three.",
    "examples": [
     "The Western Ghats and Sri Lanka form one hotspot.",
@@ -235,7 +235,7 @@
    "concept": "A smaller forest holds fewer species",
    "status": "defined",
    "definition": "The smaller an area of habitat is, the fewer species it holds. The rare species and the species with a small range are lost first.",
-   "description": "In the Shrinking Forest Test, the half sheet still held about 8 of the 10 kinds. The quarter held about 6. The kinds that went missing first were the ones with only 1 or 2 pieces. A common species is found in every part of a forest, so any part that is left still has some. A rare species lives in only a few spots, and the part that is left may hold none of them. Scientists have counted species on islands and in forests of many sizes, and they find the same pattern. A rough rule is that when 90 in every 100 parts of a habitat are lost, about half the species are lost. This also means that the first cut can look harmless. Most species are still there, and the missing ones were hard to see even before.",
+   "description": "In the Shrinking Forest Test, the half sheet still held about 8 of the 10 kinds. The quarter held about 6. The kinds that went missing first were the ones with only 1 or 2 pieces. A common species is found in every part of a forest, so any part that is left still has some. A rare species lives in only a few spots, and the part that is left may hold none of them. Scientists have counted species on islands and in forests of many sizes, and they find the same pattern. A rough rule is that when 90 in every 100 parts of a habitat are lost, about half the species are lost. This also means that the first cut can look harmless. Most species are still there. The ones that went missing were rare, so hardly anyone would have noticed them even before the cut.",
    "examples": [
     "In the Shrinking Forest Test: the whole sheet had 10 kinds, the half about 8, the quarter about 6 and the sixteenth about 3.",
     "Large islands hold more species of birds than small islands of the same kind.",
@@ -261,7 +261,7 @@
    "concept": "Measuring the risk: the Red List",
    "status": "defined",
    "definition": "The Red List places each species on a step, from Least Concern to Extinct. The steps in between are Near Threatened, Vulnerable, Endangered and Critically Endangered.",
-   "description": "A step is picked from measurements. How much people like an animal plays no part. Scientists use three measures. How many adults are left? How fast is the number falling? How small is the range? A species with fewer than 250 adults who are still falling in number can be Critically Endangered. So can a species who has lost 80 in every 100 members in ten years. The list is checked again and again, and a species can move up or down. A species can move down the ladder when things get better. In 2008 the Indian rhinoceros moved from Endangered to Vulnerable, because their numbers had grown. More than 40,000 species are now listed as threatened with extinction. Most species have never been checked at all.",
+   "description": "A step is picked from measurements. It does not depend on how much people like an animal. Scientists use three measures. How many adults are left? How fast is the number falling? How small is the range? A species with fewer than 250 adults who are still falling in number can be Critically Endangered. So can a species who has lost 80 in every 100 members in ten years. The list is checked again and again, and a species can move up or down. A species can move to a safer step when things get better. In 2008 the Indian rhinoceros moved from Endangered to Vulnerable, because their numbers had grown. More than 40,000 species are now listed as threatened with extinction. Most species have never been checked at all.",
    "examples": [
     "Least Concern: house crow, peafowl.",
     "Vulnerable: Indian rhinoceros, snow leopard.",
@@ -417,7 +417,7 @@
   {
    "q": "A lioness kills a herder's buffalo. Who should pay for the lions of Gir: the herder, the state or the whole world?",
    "kind": "big",
-   "hint": "The lions belong to no one, and everyone gains from them being alive. The loss falls on one family."
+   "hint": "The lions belong to no single person, and people everywhere gain from knowing they are alive. But when a lioness kills a buffalo, only one family loses the animal and the money. Think about whether it is fair that one family carries that cost."
   },
   {
    "q": "There is not enough money to save every species. How should people choose? Should people choose at all?",
@@ -2355,7 +2355,7 @@
       "All 10"
      ],
      "a": 1,
-     "why": "Common species live in every part of a forest, so the half that stays still holds most of them. The first to go are the rare species with a few members. Choosing exactly 5 treats every species as if she lived in only one part."
+     "why": "Common species live in every part of a forest, so the half that stays still holds most of them. The first to go are the rare species with a few members. Choosing exactly 5 would only be right if every species lived in just one part of the forest, and that is not so."
     },
     {
      "t": "write",
@@ -2388,7 +2388,7 @@
      "t": "truefalse",
      "p": "True or false: a biodiversity hotspot is a region with many endemic plants that has already lost most of its natural plants.",
      "a": true,
-     "why": "True. A hotspot has at least 1,500 endemic plant species and has lost at least 70 in every 100 parts of its natural plants. Both parts of the meaning matter."
+     "why": "True. A hotspot has at least 1,500 plant species found nowhere else, and the region has lost at least 70 out of every 100 parts of its natural plant cover. Both parts of the meaning matter."
     },
     {
      "t": "order",
@@ -2499,7 +2499,7 @@
      "t": "sort",
      "p": "Sort these cases by their cause.",
      "a": "see items",
-     "why": "Each case matches one of the five main causes of species loss. A mine and a road cut up a habitat. Too many fish or tigers are taken. Rats are carried to a new place. A medicine is a pollutant. Warm seas bleach corals.",
+     "why": "Each case matches one of the five main causes of species loss. A mine and a road both cut up a habitat. Catching too many fish, or killing too many tigers, is taking too many. Rats carried on a ship are a brought-in species. A medicine that poisons vultures is a kind of pollution. Warm seas that bleach corals are a changing climate.",
      "cats": [
       "Habitat loss",
       "Taking too many",
@@ -3497,16 +3497,16 @@
  "roots": {
   "context": "We have learned why rare species need protected places, and how a small group can be lost by chance. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the Coin Years Test, 4 coins all landed tails far more often than 16 coins did. Nobody hunted either group, and the rule was the same. A species lasts only while enough of her members live in enough places. So a species is something many beings hold together, and no one member holds it alone.",
+   "truth": "In the Coin Years Test, 4 coins all landed tails far more often than 16 coins did. Nobody hunted either group, and the rule was the same. A species lasts only while enough of her members live in enough places. So a species survives because many members live together in many places. One member alone cannot keep the species going.",
    "habit": "We speak of 'the tiger' or 'the hornbill' as if she were one animal who is safe or in danger. A species is a whole group spread over places, and the risk belongs to the group. One strong animal does not make a species safe.",
-   "evidence": "In the Coin Years Test, groups of 4 and 16 followed the same rule, but the group of 4 died out far more often. On a computer, about 3 groups of 4 in every 4 died out within 10 generations, and about 1 group of 16 in every 8. In 2018, 23 lions died in a few weeks in the Gir forest, where all the wild lions of Asia live."
+   "evidence": "In the Coin Years Test, groups of 4 and 16 followed the same rule, but the group of 4 died out far more often. On a computer, about 3 out of every 4 groups of 4 animals died out within 10 generations. Only about 1 out of every 8 groups of 16 animals did. In 2018, 23 lions died in a few weeks in the Gir forest, where all the wild lions of Asia live."
   },
   "three": {
    "who_am_i": "You belong to a species of about 8 billion members, living on every continent. No single flood or fire can reach all of us. A species of 600 lions in one forest has no such safety.",
-   "what_is_life": "Life goes on as lines of families. A species is a line that has run for thousands or millions of years, and it ends when the last member dies without young.",
+   "what_is_life": "Life goes on because parents have young, and the young grow up and have young of their own. A species is a long line of such families that may have run for thousands or millions of years. It ends when the last member dies without leaving young.",
    "what_is_this_world": "The world is made of many places, and each place holds beings found nowhere else. When a place is lost, what lived only there is lost with it."
   },
-  "thread": "All living beings share one ancestor, so every species is a branch of one tree of life. When a group is cut off on an island or a hilltop for a very long time, a new branch can form, and she lives nowhere else. That is how one life became many kinds. A branch can also be lost, and when the last member dies, that kind is gone for ever. The rest of the tree goes on with fewer branches.",
+  "thread": "All living beings share one ancestor, so every species is a branch of one tree of life. When a group is cut off on an island or a hilltop for a very long time, a new branch can form, and the new species lives nowhere else. That is how one life became many kinds. A branch can also be lost, and when the last member dies, that kind is gone for ever. The rest of the tree goes on with fewer branches.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.11, where Uddalaka teaches his son Shvetaketu with a great tree",

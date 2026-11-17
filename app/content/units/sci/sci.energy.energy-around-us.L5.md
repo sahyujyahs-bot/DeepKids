@@ -25,7 +25,7 @@
 - **Stored energy**: Energy that is kept in something and can come out later. *e.g.* Food, a charged cell, a stretched rubber band and water in a roof tank all hold stored energy.
 - **Chemical energy**: Energy stored in the way the atoms of a material are joined. It comes out when the material burns or is digested. *e.g.* Rice, petrol, wood and the chemicals in a cell hold chemical energy.
 - **Energy chain**: A line of arrows that shows where energy came from, step by step. *e.g.* Sun → paddy plant → rice → your muscles → the pedals of a cycle.
-- **Heat energy**: The energy of the moving particles inside a thing. The faster the particles move, the hotter the thing is. Scientists also call it thermal energy. *e.g.* A table at room temperature holds heat energy. A cup of hot tea holds more in every spoonful.
+- **Heat energy**: The energy of the moving particles inside a thing. The faster the particles move, the hotter the thing is. Scientists also call it thermal energy. *e.g.* A table at room temperature holds heat energy. A spoonful of hot tea holds more heat energy than a spoonful-sized piece of the table, because the tea is hotter.
 - **Particle**: A very tiny piece of matter, far too small to see. Atoms and molecules are particles. *e.g.* The air in a bottle is made of particles that fly about and hit the walls.
 - **Absolute zero**: The coldest temperature there can be: about 273 degrees below zero on the Celsius scale. At that temperature, particles have the least movement they can ever have. *e.g.* A room at 27 degrees is 300 degrees above absolute zero. So everything in the room holds a lot of heat energy.
 - **Electricity**: A form of energy that travels through wires. It is easy to send far and easy to change into other forms. *e.g.* Electricity runs the fan, the fridge, the lights and the water pump.
@@ -33,7 +33,7 @@
 - **Turbine**: A wheel with blades. Moving steam, water or wind pushes the blades and turns the wheel. *e.g.* In a dam, falling water turns a turbine.
 - **Generator**: A machine that changes movement into electrical energy. A turbine turns the generator. *e.g.* A cycle dynamo is a small generator. The turning wheel makes the lamp light up.
 - **Appliance**: A machine at home that runs on electricity or fuel and does one job. *e.g.* A fan, a mixie, an iron, a fridge and a gas stove are appliances.
-- **Energy efficiency**: How much of the energy going into a machine does the job we want. An efficient machine wastes less. *e.g.* A 9 watt LED bulb gives about the same light as an old 60 watt bulb.
+- **Energy efficiency**: How much of the energy going into a machine does the job we want. An efficient machine wastes less. *e.g.* A 9 watt LED bulb gives about the same light as an old 60 watt bulb. So the LED bulb needs far less electrical energy to do the same job.
 - **Clean energy**: Electricity made without smoke or harmful gases, from sunlight, wind or flowing water. *e.g.* Solar panels on a roof make clean energy.
 - **Pollution**: Harmful smoke, gases or waste that make the air, water or land dirty. *e.g.* Smoke from burning coal and wood pollutes the air.
 
@@ -51,21 +51,21 @@ You cannot see energy itself. You see what it does. In a kitchen you can find al
 **Definition:** An energy changer takes energy in one form and gives it out in another. No machine makes energy, and no machine uses energy up.
 
 Ask two questions about any working thing. What energy goes in? What energy comes out? A fan takes in electrical energy and gives out movement, with a little heat and sound. A gas stove takes in the chemical energy of cooking gas and gives out heat and light. A loudspeaker takes in electrical energy and gives out sound. Your body is a changer too. It takes in the chemical energy of food and gives out movement, heat and sound. Often one form is what we wanted, and the rest is given out as warmth that nobody asked for. Add up everything that comes out, and it equals what went in.
-- e.g. Mixie: electrical energy in. Movement, sound and heat out.
-- e.g. Electric iron: electrical energy in. Heat out.
-- e.g. Scooter engine: the chemical energy of petrol in. Movement, heat and sound out.
-- e.g. Solar panel: light in. Electrical energy out.
-- e.g. A child running: the chemical energy of food in. Movement and heat out.
+- e.g. A mixie takes in electrical energy. It gives out movement, sound and heat.
+- e.g. An electric iron takes in electrical energy. It gives out heat.
+- e.g. A scooter engine takes in the chemical energy of petrol. It gives out movement, heat and sound.
+- e.g. A solar panel takes in light. It gives out electrical energy.
+- e.g. A child running takes in the chemical energy of food. She gives out movement and heat.
 ### Six sources of energy we use every day · *defined*
 **Definition:** A source of energy is where the energy for something comes from. At home and in town we use the Sun, food, fuel, electricity, wind and flowing water.
 
 The Sun dries clothes and papads, warms water on a roof and lights the day. Food gives energy to every animal, including us. Fuels are burned for heat or movement. Cooking gas runs the stove, petrol runs a scooter, diesel runs a bus, coal feeds a power station, and oil feeds a diya. Electricity runs fans, lights, pumps and phones. Wind dries clothes, lifts kites, moves sailing boats and turns wind turbines. Flowing and falling water turns the turbines in dams. In the hills of Uttarakhand, a stream turns the stone of a small flour mill called a gharat. Electricity is a special case. Nobody finds electricity in nature ready to use. It is always made from one of the other sources, and wires carry it to us.
-- e.g. Sun: clothes on a line, a solar water heater, salt pans by the sea near Thoothukudi.
-- e.g. Food: a child cycling, a bullock pulling a cart, a crow flying.
-- e.g. Fuel: an LPG stove, an auto on CNG, a diesel lorry.
-- e.g. Electricity: a fan, a lift, a metro train.
-- e.g. Wind: a kite at Uttarayan, a wind turbine near Kanyakumari.
-- e.g. Flowing water: the Idukki dam in Kerala, a gharat in the hills.
+- e.g. The Sun dries clothes on a line, heats water in a solar water heater, and dries sea water into salt in the salt pans near Thoothukudi.
+- e.g. Food gives energy to a child who is cycling, to a bullock pulling a cart and to a crow flying.
+- e.g. Fuel gives energy to an LPG stove, to an auto that runs on CNG and to a diesel lorry.
+- e.g. Electricity gives energy to a fan, to a lift and to a metro train.
+- e.g. Wind lifts a kite at Uttarayan, and it turns a wind turbine near Kanyakumari.
+- e.g. Flowing water turns the turbines at the Idukki dam in Kerala, and it turns the stone of a gharat in the hills.
 ### Follow the energy back: an energy chain · *defined*
 **Definition:** An energy chain is a line of arrows that shows where energy came from, step by step. Most chains on Earth start at the Sun.
 
@@ -78,19 +78,19 @@ Start with something happening and keep asking where its energy came from. A chi
 **Definition:** Stored energy is energy kept in something, ready to come out later.
 
 Energy does not have to be used at once. A cell stores chemical energy until you switch on the torch. Food stores it until your body needs it. A stretched rubber band stores energy in the stretch. A blown-up balloon stores it in the stretched rubber and the squeezed air. Water pumped up to a roof tank stores energy by being high up. Petrol, coal and wood are stores that took millions of years, or many years, to fill. A store lets us carry energy about and use it when we choose. That is why a phone has a battery and a scooter has a tank.
-- e.g. A charged phone battery.
-- e.g. A wound-up toy or a stretched rubber band.
-- e.g. A full gas cylinder.
-- e.g. A roof tank full of water.
-- e.g. A banana in your school bag.
+- e.g. A charged phone battery holds stored energy until you use the phone.
+- e.g. A wound-up toy or a stretched rubber band holds stored energy in the winding or the stretch.
+- e.g. A full gas cylinder holds stored energy in the gas, which is a fuel.
+- e.g. A roof tank full of water holds stored energy, because the water is high up.
+- e.g. A banana in your school bag holds stored chemical energy that your body can use later.
 ### A still table has energy too · *defined*
 **Definition:** A table that is doing nothing still holds energy in four ways. It holds heat energy, chemical energy, stored energy of height, and energy in its mass.
 
-First, heat energy. The particles of the wood never stop shaking. A room at 27 degrees is 300 degrees above the coldest temperature there can be, so the table holds a lot of heat energy. Very roughly, a 10 kilogram table holds as much as an iron uses in an hour. Second, chemical energy. Wood burns. Burning that table would give out about 160 million joules, as much as 44 units of electricity. A tree stored that energy from sunlight. Third, height. A table on the third floor would fall if the floor were not there, so its position stores energy. Fourth, mass. Albert Einstein showed in 1905 that mass itself is a store of energy. The mass of a 10 kilogram table equals about 250 billion units of electricity, more than all of India uses in a month. Nobody can get that energy out of a table. It is there all the same.
+First, heat energy. The particles of the wood never stop shaking. A room at 27 degrees is 300 degrees above the coldest temperature there can be, so the table holds a lot of heat energy. Very roughly, the heat energy in a 10 kilogram table is about the same as the electrical energy that an iron uses in one hour. Second, chemical energy. Wood burns. Burning that table would give out about 160 million joules. A unit of electricity is what your electricity meter counts, and 160 million joules is about 44 of those units. A tree stored that energy from sunlight. Third, height. A table on the third floor would fall if the floor were not there, so its position stores energy. Fourth, mass. Albert Einstein showed in 1905 that mass itself is a store of energy. The mass of a 10 kilogram table holds as much energy as about 250 billion units of electricity. That is more than all of India uses in a month. Nobody can get that energy out of a table. It is there all the same.
 - e.g. Heat energy: the table melts an ice cube placed on it, with no flame.
 - e.g. Chemical energy: a wooden matchstick is the same material, and it burns.
 - e.g. Stored energy of height: an eraser pushed off the table edge falls and lands with a tap.
-- e.g. Mass: all matter is stored energy. This is how the Sun shines.
+- e.g. Mass: all matter is stored energy, and the Sun shines because it turns a tiny part of its mass into light and heat.
 ### Why the table's energy does nothing · *defined*
 **Definition:** Energy makes something happen only when it moves from one thing to another or changes form. Heat energy moves only when one thing is warmer than another.
 
@@ -103,9 +103,9 @@ In the Clicking Coin Test, a room-warm bottle stands on the table and the coin n
 **Definition:** The particles of air fly about all the time, even in a closed room with no breeze. Their movement is the heat energy of the air.
 
 At room temperature, the particles of air move at about 500 metres every second. That is faster than a passenger aeroplane. They move in every direction and hit each other, so the air as a whole goes nowhere. You feel no wind. The air in a small bedroom holds roughly 9 million joules of heat energy. That is about two and a half units of electricity. Warm the air and the particles fly faster and hit the walls harder. In the cold bottle, that is what lifts the coin. Cool a thing and its particles slow down. They would have the least movement they can ever have at absolute zero, about 273 degrees below zero. Even there, physicists have found that a little movement remains. Nothing is ever perfectly still.
-- e.g. Still air in a closed room: particles at about 500 metres a second.
-- e.g. Air warmed in a bottle: faster particles push the coin up.
-- e.g. A steel spoon, a stone and a table: their particles shake in place.
+- e.g. Still air in a closed room has particles that fly about at about 500 metres every second.
+- e.g. Air that is warmed in a bottle has faster particles, and they push the coin up.
+- e.g. A steel spoon, a stone and a table are solid, so their particles shake in place.
 - e.g. Liquid helium stays liquid even close to absolute zero, because its particles keep moving.
 ### What a fan really does · *defined*
 **Definition:** A fan changes electrical energy into the movement of air. It does not make the air colder.
@@ -126,7 +126,7 @@ Most of India's electricity, about 7 units in every 10, still comes from burning
 ### Five rules for using electricity safely · *defined*
 **Definition:** Electricity from a wall socket is strong enough to kill. Five rules keep you safe.
 
-Rule one: keep water away from electricity. Never touch a switch, a plug or an appliance with wet hands. Rule two: never push a finger, a pin or anything else into a socket. Rule three: never touch a wire that is broken, worn or bare, and tell a grown-up at once. Rule four: stay far away from a fallen wire, an electricity pole and a transformer, and never fly a kite near power lines. Rule five: switch off before you pull a plug out, and pull the plug, not the wire. Your body is mostly water with salts in it, and it carries electricity. That is why the rules matter. The small cells in a torch are safe to handle, because they push very gently.
+Rule one: keep water away from electricity. Never touch a switch, a plug or an appliance with wet hands. Rule two: never push a finger, a pin or anything else into a socket. Rule three: never touch a wire that is broken, worn or bare, and tell a grown-up at once. Rule four: stay far away from a fallen wire, an electricity pole and a transformer, and never fly a kite near power lines. Rule five: switch off before you pull a plug out, and pull the plug, not the wire. Your body is mostly water with salts in it, and it carries electricity. That is why the rules matter. The electricity from a wall socket pushes very strongly, so it can send a dangerous current through you. The small cells in a torch push only very weakly, so they are safe to handle.
 - e.g. Dry your hands before you touch the fan switch.
 - e.g. After a storm, a wire lies on the road. Keep away and call a grown-up.
 - e.g. The cover of a socket is cracked. Do not use it. Tell a grown-up.
@@ -135,18 +135,18 @@ Rule one: keep water away from electricity. Never touch a switch, a plug or an a
 **Definition:** An efficient machine does the same job with less energy. Clean energy is made without smoke.
 
 Every changer gives out some warmth that nobody wanted. An old glass bulb turns most of its electricity into heat, so it is too hot to touch. An LED bulb gives the same light with about one sixth of the electricity. Burning coal, wood and petrol puts smoke and harmful gases into the air. Smoke from a wood fire inside a kitchen harms the lungs of the person cooking, who is most often a woman. Sunlight, wind and flowing water make electricity without smoke, and they do not run out. So a family can help in two ways: use less, and choose cleaner. Switch off fans and lights in empty rooms. Put a lid on the pot. Dry clothes in the Sun.
-- e.g. An LED bulb of 9 watts in place of an old bulb of 60 watts.
-- e.g. A lid on a pot, so that less cooking gas is needed.
-- e.g. A solar water heater on the roof in place of an electric geyser.
-- e.g. Walking or cycling for short trips.
+- e.g. Use a 9 watt LED bulb in place of an old 60 watt bulb. You get the same light for much less electricity.
+- e.g. Put a lid on a pot, so that less cooking gas is needed.
+- e.g. Use a solar water heater on the roof in place of an electric geyser.
+- e.g. Walk or cycle for short trips, instead of using a vehicle that burns fuel.
 ### Living bodies are energy changers that never switch off · *defined*
 **Definition:** Every living being takes in energy and gives it out again, every moment, even while still or asleep.
 
-A sleeping child looks as still as a table. Inside, the heart beats, the lungs fill, and every cell is at work. A resting grown-up uses the energy of food at about 80 to 100 watts, like a bright old bulb left on. Most of it leaves the body as heat. In parts of Ladakh, Himachal Pradesh and Uttarakhand, families keep their cattle on the ground floor and live upstairs. The warmth of the animals' bodies rises and heats the home. Plants are changers too. A leaf takes in light and stores it as the chemical energy of sugar. Many animals also use energy from outside their bodies. A kite soars on rising warm air without flapping. A crocodile lies in the sun to warm up.
+A sleeping child looks as still as a table. Inside, the heart beats, the lungs fill, and every cell is at work. A resting grown-up uses the energy of food at about 80 to 100 watts, like a bright old bulb left on. Most of it leaves the body as heat. In parts of Ladakh, Himachal Pradesh and Uttarakhand, families keep their cattle on the ground floor and live upstairs. The warmth of the animals' bodies rises and heats the home. Plants are changers too. A leaf takes in light and stores it as the chemical energy of sugar. Many animals also use energy from outside their bodies. A kite, the bird of prey, soars on rising warm air without flapping. A crocodile lies in the sun to warm up.
 - e.g. A sleeping baby is warm to touch: energy is leaving her body as heat.
 - e.g. Cattle on the ground floor warm a mountain home.
 - e.g. A leaf changes light into the stored energy of sugar.
-- e.g. A kite circles upward on warm rising air and saves her own energy.
+- e.g. A kite, the bird of prey, circles upward on warm rising air and saves her own energy.
 ### Will everything one day reach one temperature? · *debated*
 **Definition:** If heat moves only from warmer things to cooler things, then after a very long time all differences might vanish. Physicists do not agree that the universe will end this way.
 
@@ -182,10 +182,10 @@ In the Clicking Coin Test, the clicks stopped when the bottle matched the room. 
   Against: The electricity has to be made somewhere. In India, about 7 units in every 10 come from burning coal, and the smoke comes out at the power station. Electric vehicles are as clean as the electricity that charges them. They get cleaner as more of it comes from the Sun, wind and water.
 - **The warm sea is full of heat energy, so ships could run on it for nothing.** (Inventors, for more than a hundred years; *rejected*)  
   For: The sea really does hold a huge amount of heat energy. It seems wasteful not to use it.  
-  Against: Heat energy does work only when it can move into something colder. A ship floating in warm water has nothing colder to send the heat to. Where there is a difference, it can be used. At Kavaratti in Lakshadweep, a plant opened in 2005 uses warm surface water and cold deep water to make drinking water from the sea.
+  Against: Heat energy does work only when it can move into something colder. A ship floating in warm water has nothing colder to send the heat to. Where a warm place lies next to a cold place, the heat can be used. At Kavaratti in Lakshadweep, a plant opened in 2005 uses warm surface water and cold deep water to make drinking water from the sea.
 - **Only humans use energy from outside their own bodies.** (A common belief; *rejected*)  
   For: Only humans burn fuel, build dams and make electricity.  
-  Against: Kites and vultures climb on rising warm air. Albatrosses cross oceans on the wind. Lizards and crocodiles warm their bodies in sunshine. Termites build mounds that the wind and the Sun keep aired. Humans are one of many animals who borrow energy from the world around them.
+  Against: Kites, the birds of prey, and vultures climb on rising warm air. Albatrosses cross oceans on the wind. Lizards and crocodiles warm their bodies in sunshine. Termites build mounds that the wind and the Sun keep aired. Humans are one of many animals who borrow energy from the world around them.
 - **A body at rest uses no energy.** (A common belief; *rejected*)  
   For: A sleeping person does not move, and seems to be doing nothing.  
   Against: A sleeping body breathes, pumps blood, keeps warm and repairs itself. A resting grown-up uses about 80 to 100 watts all night. That is why we wake up hungry.
@@ -193,21 +193,21 @@ In the Clicking Coin Test, the clicks stopped when the bottle matched the room. 
 ## Roots
 We have found that a still table holds energy, and that energy makes something happen only when it moves. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** In the Clicking Coin Test, a room-warm bottle did nothing on the table. A freezer bottle made the coin click until the bottle was as warm as the room. The room-warm bottle held plenty of heat energy, and it gave away as much as it took in. So nothing shows while energy passes equally both ways, and a click comes only when more passes one way.  
-*Habit it breaks:* We say that a thing which does nothing has no energy, as if energy belonged only to things that move. 'Still' only describes how a thing looks from outside.  
+**Deep truth.** In the Clicking Coin Test, a room-warm bottle did nothing on the table. A freezer bottle made the coin click until the bottle was as warm as the room. The room-warm bottle held plenty of heat energy, and it gave away as much as it took in. So while the same amount of heat passes in each direction, nothing shows. A click comes only when more heat passes in one direction than in the other.  
+*Habit it breaks:* We say that a thing which does nothing has no energy, as if energy belonged only to things that move. 'Still' only describes how a thing looks from the outside. Inside, the particles are always moving.  
 *Evidence:* In the Clicking Coin Test, the room-warm bottle held heat energy and its coin stayed still. In the Fan and the Ice, moving air carried the room's heat to the ice, and the ice melted sooner. In both, things happened only where one thing was warmer than another.
 
 - *who am i:* You are warm because your body turns food into heat every second. You hold heat energy like the table does, and you pass it on to every cooler thing you touch.
-- *what is life:* A living being stays warmer than the room by using the energy of food. Food keeps coming, so her warmth keeps moving into the world.
+- *what is life:* A living being stays warmer than the room by using the energy of food. She keeps eating, so she keeps giving her warmth out into the world around her.
 - *what is this world:* Everything holds energy. What happens in the world happens where there is a difference, such as warm next to cool or high next to low.
 
-A table, a bottle, the air and your hand all hold heat energy of the same kind. At one temperature, they trade energy equally, and nothing shows. Put something cold beside them and the trade tilts, so a coin clicks and ice melts. So the quiet and the click are one energy in two states. A still room is busy with exchange in every direction, and it only looks calm.
+A table, a bottle, the air and your hand all hold heat energy of the same kind. When they are all at one temperature, they trade energy equally in both directions, so nothing shows. When something cold is put beside them, the trade is no longer equal, and then a coin clicks or ice melts. So the quiet and the click come from the same energy. A still room looks calm, but heat is passing between things in every direction all the time.
 
 - **Tao Te Ching, chapter 16:** Reach the greatest emptiness and hold to stillness. Everything rises and moves, and everything returns to its root, which is stillness. (A still table is quiet on the outside. Inside, its particles never stop shaking. Stillness is a balance of many small movements, and movement begins when the balance is broken.)
 - **Taittiriya Upanishad 3.2:** Beings are born from food. By food they live. When they die, they enter into food. (An energy chain from rice to a rider's muscles to the heat of her body shows this. Plants store sunlight as food, and every body spends that food as movement and heat.)
-- Science (settled): Mass is a store of energy (Einstein, 1905). A 10 kilogram table holds about 900 million billion joules in its mass, though nobody can take it out.
+- Science (settled): Albert Einstein showed in 1905 that mass is a store of energy. A 10 kilogram table holds about 900 million billion joules of energy in its mass, though nobody can take it out.
 - Science (open): Why the early universe was arranged so that heat could flow from hot places to cold ones is still not fully explained.
-- Other view, Most physicists: Energy is a number that stays the same through every change. The shaking of particles and their exchange of heat follow the laws of motion. The pattern is complete without anything more being added to it.
+- Other view, Most physicists: Energy is a number that stays the same through every change. The shaking of particles and the passing of heat between things follow the laws of motion. These laws already explain everything we see, so most physicists say that nothing more needs to be added.
 - Practice, Warm the table (3 min): Sit still. Rest your palm flat on a wooden table for 20 seconds. Lift it and touch the spot with your fingertips. The spot is a little warmer. Your hand gave heat to the table. Breathe slowly three times and feel how busy this still room is.
 - Ask: A room at one temperature looks like a place where nothing happens. Is it quiet, or is it busy?
 - Ask: If everything in the universe reached one temperature, would anything ever happen again?
@@ -611,7 +611,7 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 ### Energy at work: changers, sources and the table (core) (core, 15 questions)
 1. (mcq) Which sentence about energy is true?  
    Options: Energy makes things happen / Energy is a liquid in wires / Energy is only in moving things / Energy is used up by a bulb  
-   **Answer:** Energy makes things happen. *Why:* Energy is what is needed to make anything happen: move, light up, sound, heat or cool. It is not a liquid and it is not used up. A bulb changes electrical energy into light and heat.
+   **Answer:** Energy makes things happen. *Why:* Energy is what is needed to make anything happen. It makes things move, light up, make a sound, get hotter or cooler. It is not a liquid and it is not used up. A bulb changes electrical energy into light and heat.
 2. (truefalse) True or false: a machine makes new energy.  
    **Answer:** False. *Why:* False. A machine only changes energy from one form to another. A fan takes in electrical energy and gives out movement and a little heat.
 3. (match) Match each thing to the energy that goes into it.  
@@ -804,10 +804,10 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 - A freezer bottle clicked 14, 8, 4 and 2 times in four half-minutes. How many clicks in all, and how many in the first minute? **28 clicks in all. 22 clicks in the first minute.**. Add all four: 14 + 8 + 4 + 2 = 28. The first minute is the first two half-minutes: 14 + 8 = 22. (queues `math.data.reading-data.L5`)
 - The clicks fell from 14 to 8 to 4 to 2. By what fraction did they fall each time? What does that say about the heat moving in? **They fell by about a half each time. The heat moved in more slowly as the bottle got closer to room temperature.**. 8 is a little more than half of 14. 4 is half of 8. 2 is half of 4. The gap between the bottle and the room shrinks, so less heat moves in each half minute. (queues `math.fractions.ratio-and-proportion.L5`)
 - In the Fan and the Ice, a cube in the wind melted in 16 minutes and a cube behind the screen in 20 minutes. What fraction of the time did the wind take? **Four fifths of the time. The wind saved 4 minutes, one fifth.**. 16 ÷ 20 = 4 ÷ 5, so the wind cube took four fifths of the time. 20 − 16 = 4 minutes saved, which is 4 out of 20, or one fifth. (queues `math.fractions.fractions-of-a-whole.L5`)
-- A town uses 1,000 units of electricity in an hour, and 7 of every 10 units come from coal. How many units come from coal? **700 units.**. 7 out of 10 is 7 ÷ 10 of 1,000. 1,000 ÷ 10 = 100, and 100 × 7 = 700 units. (queues `math.fractions.decimals-and-percentages.L5`)
+- A town uses 1,000 units of electricity in an hour, and 7 of every 10 units come from coal. How many units come from coal? **700 units.**. Seven out of every 10 units means 7 tenths of 1,000. One tenth of 1,000 is 1,000 ÷ 10 = 100, and 7 tenths is 100 × 7 = 700 units. (queues `math.fractions.decimals-and-percentages.L5`)
 - A coal power station takes in 300 units of energy from burning coal and sends out 100 units as electricity. What fraction becomes electricity, and where does the rest go? **One third. The other two thirds leave as heat in the air and water.**. 100 ÷ 300 = 1 ÷ 3. The energy that does not become electricity is 300 − 100 = 200 units, which spreads out as heat. (queues `math.fractions.fractions-of-a-whole.L5`)
-- Burning a 10 kilogram table would give out about 160 million joules. One unit of electricity is 3.6 million joules. About how many units is that? **About 44 units.**. 160 ÷ 3.6 is about 44.4. So the wood of a table holds about 44 units of electricity. (queues `math.number-sense.big-numbers.L5`)
-- A resting grown-up gives out about 90 watts of heat. How many watt-hours is that in one night of 8 hours? How many 9 watt LED bulbs is that? **720 watt-hours. That is the same as ten 9 watt LED bulbs.**. 90 watts for 8 hours is 90 × 8 = 720 watt-hours. A 9 watt bulb uses 9 W. 90 ÷ 9 = 10 bulbs. (queues `math.multiplication.multi-digit.L5`)
+- Burning a 10 kilogram table would give out about 160 million joules. One unit of electricity is 3.6 million joules. About how many units is that? **About 44 units.**. 160 ÷ 3.6 is about 44.4. So the wood of a table holds as much energy as about 44 units of electricity. (queues `math.number-sense.big-numbers.L5`)
+- A resting grown-up gives out about 90 watts of heat. How many watt-hours is that in one night of 8 hours? How many 9 watt LED bulbs is that? **720 watt-hours. That is the same as ten 9 watt LED bulbs.**. 90 watts for 8 hours is 90 × 8 = 720 watt-hours. Each 9 watt bulb gives out 9 watts. 90 ÷ 9 = 10, so a resting grown-up gives out as much heat as 10 such bulbs. (queues `math.multiplication.multi-digit.L5`)
 
 ## Song
 Where Did It Come From? (sci.energy.L5): Topic-level song for Energy L5

@@ -18,7 +18,7 @@
 ## Terms
 - **Solar system**: The Sun and everything that goes round it: eight planets, their moons, dwarf planets, asteroids, comets and dust. Gravity holds it all together. *e.g.* The Earth, the Moon, Jupiter, Pluto and Halley's Comet all belong to the solar system.
 - **Star**: A huge ball of very hot gas that makes its own light and heat. The Sun is the star nearest to us. *e.g.* The Sun is a star. Every other star in the night sky is a far-away sun.
-- **Planet**: A large round world that goes round a star and gives off no light of its own. A planet has also cleared most other bodies from its path. *e.g.* The Earth is a planet. It goes round the Sun once in about 365 days.
+- **Planet**: A large round world that goes round a star and gives off no light of its own. A planet has also cleared its path, which means that no other large bodies share the path it travels round the Sun. *e.g.* The Earth is a planet. It goes round the Sun once in about 365 days.
 - **Orbit**: The path one body follows round another body. Gravity keeps the body on that path. *e.g.* The Moon's orbit round the Earth takes about 27 days. The Earth's orbit round the Sun takes one year.
 - **Satellite**: A body that goes round a planet or another world that is not a star. A natural satellite is also called a moon. *e.g.* The Moon is the Earth's natural satellite. Ganymede is a satellite of Jupiter.
 - **Artificial satellite**: A machine that people have put into orbit. It goes round the Earth or another world, as a moon does. *e.g.* The International Space Station goes round the Earth about 400 kilometres up. India's first satellite was Aryabhata, in 1975.
@@ -40,9 +40,9 @@
 **Definition:** A star makes its own light. A planet is a large round world that goes round a star. A satellite goes round a planet or another world that is not a star.
 
 The Sun is a star, because it makes light and heat deep inside itself. The Earth makes no light, and it goes round the Sun, so it is a planet. The Moon goes round the Earth, so it is a satellite. These names say nothing about size. Ganymede is 5,268 kilometres wide and Mercury is 4,879 kilometres wide. Ganymede is the wider world, yet it is a satellite, because it goes round Jupiter. If Ganymede went round the Sun alone, it would be called a planet.
-- e.g. The Sun: makes its own light, so it is a star.
-- e.g. Mercury: goes round the Sun, so it is a planet, though it is smaller than two moons.
-- e.g. Ganymede and Titan: both wider than Mercury, but they go round Jupiter and Saturn, so they are satellites.
+- e.g. The Sun makes its own light, so it is a star.
+- e.g. Mercury goes round the Sun, so it is a planet, even though it is smaller than two moons.
+- e.g. Ganymede and Titan are both wider than Mercury. But they go round Jupiter and Saturn, so they are satellites.
 ### The eight planets, and the Earth among them · *defined*
 **Definition:** Eight planets go round the Sun. In order from the Sun they are Mercury, Venus, the Earth, Mars, Jupiter, Saturn, Uranus and Neptune.
 
@@ -60,7 +60,7 @@ Mercury and Venus have no moons. The Earth has one and Mars has two. The giant p
 ### Two worlds both go round their balance point · *defined*
 **Definition:** Two bodies held by gravity both go round one point between them, called the balance point or barycentre. The point lies nearer the heavier body.
 
-In The Two-Ball Balance, a pencil with a heavy dough ball and a light one balanced nearer the heavy ball. A ball twice as heavy sat half as far from the point. Worlds follow the same rule. The Earth has 81 times the mass of the Moon. So the Earth is 81 times nearer to their balance point than the Moon is. That puts the point about 4,700 kilometres from the Earth's centre, which is inside the Earth. The Moon goes round this point in a wide circle. The Earth goes round it too, in a small circle, once every 27 days. The Sun and Jupiter also share a balance point. It lies just outside the Sun's surface.
+In The Two-Ball Balance, you balanced a heavy dough ball and a light dough ball on a pencil. The pencil balanced at a point nearer the heavy ball. A ball twice as heavy sat half as far from the point. Worlds follow the same rule. The Earth has 81 times the mass of the Moon. So the Earth is 81 times nearer to their balance point than the Moon is. That puts the point about 4,700 kilometres from the Earth's centre, which is inside the Earth. The Moon goes round this point in a wide circle. The Earth goes round it too, in a small circle, once every 27 days. The Sun and Jupiter also share a balance point. It lies just outside the Sun's surface.
 - e.g. The Earth and the Moon: the balance point is inside the Earth, about 1,700 kilometres below the ground.
 - e.g. Pluto and its moon Charon: the balance point is in the empty space between them, so both circle a point outside Pluto.
 - e.g. The Sun and Jupiter: the balance point is about 46,000 kilometres above the Sun's surface.
@@ -86,7 +86,7 @@ Astronomers list five dwarf planets so far: Ceres, Pluto, Eris, Haumea and Makem
 In Marble Earth, Peppercorn Moon, 1 centimetre stood for 8,000 kilometres. The Earth became a marble 1.6 centimetres wide. The Moon became a peppercorn 48 centimetres away. On the same scale the Sun is a ball 1.74 metres wide, as tall as a grown-up. It stands about 190 metres away, at the far end of a long street. Jupiter is a ball about 17 centimetres wide, nearly a kilometre from the Sun. Neptune is a lemon about 5.6 kilometres away. Pictures in books cannot show this. They shrink the distances far more than the sizes, so the planets fit on one page.
 - e.g. The Earth and the Moon: a marble and a peppercorn, 48 centimetres apart.
 - e.g. The Sun: a ball 1.74 metres wide, about 190 metres from the marble.
-- e.g. The nearest star after the Sun: about 50,000 kilometres away on this scale, which is further than once round the real Earth.
+- e.g. The nearest star after the Sun is about 50,000 kilometres away on this scale. That is further than the distance once round the real Earth.
 ### A ball twice as wide holds eight times as much · *defined*
 **Definition:** When a ball becomes twice as wide, it also becomes twice as deep and twice as tall. So its volume becomes 2 x 2 x 2 = 8 times as much.
 
@@ -129,7 +129,7 @@ In The Hidden Ball, the visible ball swung in a circle, and the circle was wider
 ### The Earth's two movements and its tilt · *defined*
 **Definition:** The Earth spins once on its axis in about 24 hours, which gives day and night. It goes once round the Sun in about 365 and a quarter days, which is one year.
 
-The Earth's axis leans about 23.5 degrees from the upright line to its path round the Sun. This tilt gives the seasons. The Earth's distance from the Sun does not. The Earth is nearest the Sun in early January, when north India has winter. It is furthest in early July, in the middle of the monsoon. The gap is only about 3 percent, so it changes the heat very little. Mars leans about 25 degrees, so it has seasons too. Each Martian season lasts about twice as long as one on the Earth, because a Martian year is 687 Earth days. Uranus leans about 98 degrees, so for years one pole faces the Sun.
+The Earth's axis leans about 23.5 degrees away from the upright line, where upright means at right angles to the flat surface of the Earth's path round the Sun. This tilt gives the seasons. The Earth's distance from the Sun does not. The Earth is nearest the Sun in early January, when north India has winter. It is furthest in early July, in the middle of the monsoon. The gap is only about 3 percent, so it changes the heat very little. Mars leans about 25 degrees, so it has seasons too. Each Martian season lasts about twice as long as one on the Earth, because a Martian year is 687 Earth days. Uranus leans about 98 degrees, so for years one pole faces the Sun.
 - e.g. Spin: one turn in about 24 hours, so every place has a day and a night.
 - e.g. Journey: one trip round the Sun in about 365 and a quarter days.
 - e.g. Tilt: about 23.5 degrees for the Earth, and about 25 degrees for Mars.
@@ -142,7 +142,7 @@ The Earth's axis leans about 23.5 degrees from the upright line to its path roun
 - Two bodies held by gravity both go round a shared balance point, and the heavier body moves less. *How we know:* Isaac Newton showed it in 1687. Astronomers have measured the wobble of the Sun, of Pluto and of thousands of stars with planets.
 
 ## How we found out
-**Giuseppe Piazzi, Clyde Tombaugh, James Christy, and Mike Brown with Chad Trujillo and David Rabinowitz, Ceres was found in 1801 and Pluto in 1930. Charon was found in 1978 and Eris in 2005. The vote was on 24 August 2006..** On 1 January 1801, Giuseppe Piazzi, an astronomer in Palermo in Italy, found a new world between Mars and Jupiter. He named it Ceres, and books listed it as a planet. Then more small worlds were found in the same region. By the 1850s there were many, and astronomers moved them all to a new list, the asteroids. In 1930 Clyde Tombaugh, at the Lowell Observatory in the United States, found Pluto. Astronomers expected a large planet, heavier than the Earth, because Percival Lowell had predicted one. The sums behind his prediction were done by his team of human computers, led by the mathematician Elizabeth Williams. That idea was wrong. In 1978 James Christy found Pluto's moon, Charon. The moon's orbit let astronomers weigh Pluto. It had only about 2 parts in 1,000 of the Earth's mass. From 1992, more icy worlds were found beyond Neptune. In 2005 Mike Brown, Chad Trujillo and David Rabinowitz found Eris, which has more mass than Pluto. Either Eris was a tenth planet, or Pluto was not a planet. On 24 August 2006, in Prague, astronomers voted for three tests, and Pluto became a dwarf planet.  
+**Giuseppe Piazzi, Clyde Tombaugh, James Christy, and Mike Brown with Chad Trujillo and David Rabinowitz, Ceres was found in 1801 and Pluto in 1930. Charon was found in 1978 and Eris in 2005. The vote was on 24 August 2006..** On 1 January 1801, Giuseppe Piazzi, an astronomer in Palermo in Italy, found a new world between Mars and Jupiter. He named it Ceres, and books listed it as a planet. Then more small worlds were found in the same region. By the 1850s there were many, and astronomers moved them all to a new list, the asteroids. In 1930 Clyde Tombaugh, at the Lowell Observatory in the United States, found Pluto. Astronomers expected a large planet, heavier than the Earth, because Percival Lowell had predicted one. The sums behind his prediction were done by his team of human computers, led by the mathematician Elizabeth Williams. But that expectation was wrong. In 1978 James Christy found Pluto's moon, Charon. The moon's orbit let astronomers weigh Pluto. It had only about 2 parts in 1,000 of the Earth's mass. From 1992, more icy worlds were found beyond Neptune. In 2005 Mike Brown, Chad Trujillo and David Rabinowitz found Eris, which has more mass than Pluto. Either Eris was a tenth planet, or Pluto was not a planet. On 24 August 2006, in Prague, astronomers voted for three tests, and Pluto became a dwarf planet.  
 *What people believed before:* That Pluto was a large planet, heavier than the Earth. In 1978 the orbit of its moon Charon showed that Pluto has only about 2 parts in 1,000 of the Earth's mass.
 
 ## Challenging perspectives
@@ -171,16 +171,16 @@ We have learned what planets and satellites are, how far apart they are, and tha
 
 - *who am i:* You live on a world that moves in several ways at once. The Earth carries you round the Sun, and round the balance point it shares with the Moon. You feel still only because everything near you moves with you.
 - *what is life:* The Moon and the Sun pull on every living being on the Earth. Each being pulls back on them, a very little. The tides that feed crabs and shore birds twice a day come from that pull.
-- *what is this world:* The solar system has no fixed middle. It is the Sun, the planets and the moons all holding one another, and all moving.
+- *what is this world:* The solar system has no fixed middle that stays still. It is the Sun, the planets and the moons, all pulling on one another with gravity and all moving.
 
-The Sun, the planets and the moons all formed from one cloud of gas and dust. They are separate bodies now, but gravity still joins every one of them to every other. The Moon pulls the Earth, the Earth pulls the Moon, and both pull the Sun. So no body rules from a still centre. The many worlds move as one system, round balance points that they make together.
+The Sun, the planets and the moons all formed from one cloud of gas and dust. They are separate bodies now, but gravity still joins every one of them to every other. The Moon pulls the Earth, the Earth pulls the Moon, and both pull the Sun. So no body rules from a still centre. The many worlds move together as one system, and each pair of them goes round a balance point that the two share.
 
 - **Nicholas of Cusa, On Learned Ignorance (1440), Book 2, chapters 11 and 12:** The universe has no fixed centre. The Earth is not at the middle of everything, and it is not at rest. (Cusa reasoned this out a hundred years before Copernicus. The Two-Ball Balance shows a small part of it: even the heavy ball moved.)
 - **Isha Upanishad, verse 5:** It moves, and it moves not. It is far, and it is near. It is inside all this, and it is outside all this. (The verse speaks of the one Self, not of planets. Science finds no body that stands still. The sages say there is a stillness of another kind, which holds all movement.)
-- **Ernst Mach, The Science of Mechanics (1883), chapter 2:** We can only say that one thing moves compared with other things. Nobody can point to a place that is truly at rest. (When we say the Earth goes round the Sun, we have chosen to treat the Sun as still. The balance point is a better choice, and it moves too, round the galaxy.)
+- **Ernst Mach, The Science of Mechanics (1883), chapter 2:** We can only say that one thing moves compared with other things. Nobody can point to a place that is truly at rest. (When we say the Earth goes round the Sun, we have chosen to treat the Sun as still. A balance point is a better choice than the Sun, but it also moves, round the centre of the galaxy.)
 - Science (settled): Two bodies held by gravity both go round their shared balance point. Isaac Newton showed in 1687 that the Sun itself is always moving for this reason.
 - Science (idea): The Moon formed when a world about the size of Mars struck the young Earth. If so, the Moon is made partly of the young Earth's own rock.
-- Other view, A practical astronomer: The Sun holds 99.86 percent of the mass, and its wobble is tiny beside the orbits of the planets. Saying that the planets go round the Sun is true enough for almost every purpose. Stressing the balance point can make a small correction sound like a new picture.
+- Other view, A practical astronomer: The Sun holds 99.86 percent of the mass, and its wobble is tiny beside the orbits of the planets. Saying that the planets go round the Sun is true enough for almost every purpose. Talking a great deal about the balance point can make a small correction sound like a completely new picture of the solar system.
 - Practice, Pulled and pulling (3 min): Stand facing each other and hold each other's wrists. Lean back slowly, both together, until your arms are straight. Stay there for three slow breaths. Feel that each of you is holding the other up. Now turn slowly, a quarter of a circle, and notice whose feet move further. Then stand up straight and let go gently.
 - Ask: In The Two-Ball Balance, even the heavy ball moved. Is there anything in your life that pulls on you without being pulled by you?
 - Ask: If nothing in the solar system stays still, what do we mean when we say 'sit still'?
@@ -188,7 +188,7 @@ The Sun, the planets and the moons all formed from one cloud of gas and dust. Th
 
 ## Deep and big questions
 - *deep:* Pluto did not change in 2006, but its name did. Does a name tell you about the thing, or about the people who chose the name? (hint: Think of the three tests for a planet. Who wrote them, and could they have written other tests?)
-- *deep:* The Earth moves round the Moon a little, as well as the Moon round the Earth. Can one thing pull on another without being pulled back? (hint: Think of The Two-Ball Balance. The heavy ball also moved in a circle when the pair turned on its thread.)
+- *deep:* The Moon goes round the Earth, and the Earth also moves in a small circle round the point it shares with the Moon. Can one thing pull on another without being pulled back? (hint: Think of The Two-Ball Balance. The heavy ball also moved in a circle when the pair turned on its thread.)
 - *big:* On the marble scale, the Earth is a marble 190 metres from the Sun. Why does the Earth feel so big to us? (hint: Think of how long a journey round the Earth takes, and how far you have ever travelled.)
 - *big:* If you had grown up on Ganymede, would you call Ganymede a moon or a world? (hint: From Ganymede, Jupiter would fill a large part of the sky. The Sun would be a small bright dot.)
 - *deep:* Scientists voted on what a planet is. Can a vote decide what is true? (hint: A vote can decide how to use a word. Ask whether it can decide how wide Pluto is.)
@@ -277,7 +277,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 - **Printable score sheet: Score sheet: a guess, a working and an answer for each card:** Card number; My guess: inside or outside (1 point); My working: the distance ÷ (the mass ratio + 1); My answer: the distance from the heavier body's centre, to the nearest 100 km (1 point)
 - **s1 (6 min)**  
   *Parent does:* 1. Remind your child of the rule from The Two-Ball Balance. A ball twice as heavy sits half as far from the balance point. 2. Say how to find the balance point: divide the total distance by the mass ratio plus 1. 3. Work the first card together, but do not turn it over until you have written a guess.  
-  *Parent says:* A body 81 times as heavy sits 81 times nearer to the balance point. So the distance from the heavy body is the total distance divided by 82. Let us try the first card. Do you think the point is inside the Earth?  
+  *Parent says:* A body 81 times as heavy sits 81 times nearer to the balance point. So the balance point is the total distance divided by 82 away from the heavy body. Let us try the first card. Do you think the point is inside the Earth?  
   *Child mode:* Take the top card. Guess if the point is inside the heavy body. Then divide the distance by the ratio plus 1.
   - Note: The Two-Ball Balance gave a pencil that balanced at 6 cm and 12 cm when one ball was twice as heavy. The total length was 18 cm. 18 ÷ (2 + 1) = 6 cm from the heavy ball. The rule is the same one.
 - **s2 (15 min)**  
@@ -729,9 +729,9 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 - Television, phone and weather satellites sit about 36,000 km above the Earth. At that height they go round once a day. So a rooftop dish can point at one spot in the sky for ever.
 - India's Aditya-L1 spacecraft stays about 1.5 million km from the Earth, in a spot between the Earth and the Sun. The pulls of the Earth and the Sun are balanced there.
 - Map makers, architects and model engineers all use one scale for every length in a model. A model with two scales would mislead people.
-- A cook who needs a pot that holds 8 times as much rice buys a pot only twice as wide. The same cube rule tells engineers how much a tank holds.
+- A cook who needs a pot that holds 8 times as much rice buys a pot of the same shape that is only twice as wide. The same cube rule tells engineers how much a tank holds.
 - Astronomers use the three tests of 2006 to sort each new round, icy world found beyond Neptune. This tells them how it fits into the solar system.
-- The Moon's pull on the Earth lifts the tides. The pull of the Earth and the Moon on each other follows from their balance point.
+- The Moon's pull on the Earth lifts the tides. The Earth and the Moon pull on each other, and that is why both go round the balance point they share.
 
 ## Spotted around us
 - A very bright, steady light low in the west after sunset, or low in the east before sunrise. It is usually Venus, which does not twinkle like a star.
@@ -741,12 +741,12 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 - A planet next to the crescent Moon, on an evening when the two come close. A phone sky app tells you which planet it is.
 - The Aryabhata satellite on the back of an old 2-rupee note, in a family collection or a museum.
 - A planetarium show, such as in Chennai, Bengaluru, Hyderabad or Kolkata, with the planets and moons projected on a dome.
-- A ball of any size in a shop, and the question of how many smaller balls would fit inside it. For a ball twice as wide, the answer is eight.
+- Look at a ball of any size in a shop and ask how many smaller balls would fit inside it. If the small ball is half as wide, the answer is eight.
 
 ## Open questions
 - **Is there a ninth planet far beyond Neptune?** Several icy bodies have paths that lean the same way, which an unseen planet could explain. Nobody has found one, and some astronomers think the pattern is chance.
 - **How exactly did the Moon form?** The leading idea is a crash with a world the size of Mars. But Moon rock is very like Earth rock, which a simple crash does not explain, so the details are still argued over.
-- **How did Triton, Neptune's big moon, come to go round the wrong way?** Some scientists think Neptune caught Triton from the Kuiper belt. Nobody has shown how a world that big could be caught and settle into a round path.
+- **How did Triton, Neptune's big moon, come to go round Neptune backwards, against the way Neptune spins?** Some scientists think Neptune caught Triton from the Kuiper belt. Nobody has shown how a world that big could be caught and settle into a round path.
 - **What is in the Oort cloud, and how far does it reach?** Nobody has seen it. Its size and its number of icy bodies are worked out from the paths of comets, so they could be wrong.
 - **Why do other planetary systems often have planets between the sizes of the Earth and Neptune, when ours has none?** Many systems found so far have such planets close to their star. Astronomers do not yet know whether ours is unusual, or whether telescopes find those planets more easily.
 
@@ -773,12 +773,12 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 
 ## Connected maths
 - In Marble Earth, Peppercorn Moon, 1 cm stands for 8,000 km. Mars is 6,779 km wide. How wide is a model Mars? **About 0.85 cm, or 8.5 millimetres.**. 6,779 divided by 8,000 is about 0.85. So a model Mars is a little over half as wide as the 1.6 cm marble Earth. (queues `math.measurement-basics.scale-models.L5`)
-- In the made-up results of The Two-Ball Balance, 4 pieces against 1 gave parts of 14.1 cm and 3.9 cm. How many times as long is the long part? Is that close to 4? **About 3.6 times, a little under 4.**. 14.1 divided by 3.9 is about 3.6. The rule says 4. The pencil has weight too, and that pulls the balance point a little towards the middle. (queues `math.fractions.ratio-and-proportion.L5`)
+- In the made-up results of The Two-Ball Balance, 4 pieces against 1 gave parts of 14.1 cm and 3.9 cm. How many times as long is the long part? Is that close to 4? **About 3.6 times, a little under 4.**. 14.1 divided by 3.9 is about 3.6. The rule says 4. The pencil itself has weight too. Its weight is spread along its whole length, so it moves the balance point a little towards the middle of the pencil. (queues `math.fractions.ratio-and-proportion.L5`)
 - In Twice as Wide, a dough ball is 12 cm wide. A small ball is 2 cm wide. How many small balls would fill it? **216 small balls.**. 12 divided by 2 is 6, so the big ball is 6 times as wide. 6 x 6 x 6 = 216. (queues `math.number-sense.powers-and-roots.L5`)
 - In A Thousand Grains of Rice, Jupiter has 1 grain of the 1,000. What percentage of the solar system's mass is that? **0.1 percent.**. 1 divided by 1,000 is 0.001. As a percentage, that is 0.1 percent. So 99.9 percent of the mass is not Jupiter. (queues `math.fractions.decimals-and-percentages.L5`)
 - A book's picture shows the Earth 3 mm wide and the Sun 30 mm from it. The true distance is 11,700 Earth-widths. How many times too small is the drawn distance? **1,170 times too small.**. The true distance on the same scale is 3 x 11,700 = 35,100 mm. 35,100 divided by 30 is 1,170. So the picture has squeezed the gap 1,170 times. (queues `math.number-sense.big-numbers.L5`)
 - On the strip in An Honest Solar System, 1 astronomical unit is 3.5 cm. Saturn is 9.5 astronomical units from the Sun. How far along the strip is Saturn? **33.25 cm, about 33 cm.**. 9.5 x 3.5 = 33.25. So Saturn's dot goes about 33 cm from the Sun. (queues `math.measurement-basics.estimation-and-precision.L5`)
-- In The Hidden Ball, the visible ball has 3 pieces. The pencil is 20 cm long. The visible ball swings 10 cm wide. How many pieces are hidden? **1 piece.**. The visible ball is 5 cm from the thread, so the hidden ball is 15 cm from it. 15 is 3 times 5, so the visible ball is 3 times as heavy. So 3 divided by 3 is 1 piece. (queues `math.algebra.balance-and-missing-numbers.L5`)
+- In The Hidden Ball, the visible ball has 3 pieces. The pencil is 20 cm long. The visible ball swings 10 cm wide. How many pieces are hidden? **1 piece.**. The visible ball swings in a circle 10 cm wide, so it is 5 cm from the thread. The pencil is 20 cm long, so the hidden ball is 20 - 5 = 15 cm from the thread. 15 is 3 times 5, so the visible ball is 3 times as heavy as the hidden ball. The visible ball has 3 pieces, so the hidden ball has 3 divided by 3, which is 1 piece. (queues `math.algebra.balance-and-missing-numbers.L5`)
 
 ## Song
 Star, Planet, Moon (sci.sky.L5): Topic-level song

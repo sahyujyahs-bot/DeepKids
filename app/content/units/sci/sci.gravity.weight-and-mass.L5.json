@@ -151,7 +151,7 @@
    "concept": "Weight on the Moon and the planets",
    "status": "defined",
    "definition": "A thing's weight on any world is its mass multiplied by the strength of gravity there, in newtons for each kilogram.",
-   "description": "The strength of gravity is about 1.6 on the Moon. It is 3.7 on Mercury and on Mars, and 8.9 on Venus and on Uranus. It is 9.8 on Earth, 10.4 on Saturn, 11.2 on Neptune and about 25 on Jupiter. For the four giant planets, the number is measured at the cloud tops, because they have no ground. So a child with a mass of 30 kilograms weighs about 300 newtons on Earth. The same child weighs 48 newtons on the Moon, 111 on Mars and 750 on Jupiter. The child has not changed at all. On the Moon the child could jump about six times as high. A thrown ball would also fly about six times as far. Catching that ball would feel the same as on Earth, because its mass is the same.",
+   "description": "The strength of gravity, in newtons for each kilogram, is about 1.6 on the Moon. It is 3.7 on Mercury and on Mars, and 8.9 on Venus and on Uranus. It is 9.8 on Earth, 10.4 on Saturn, 11.2 on Neptune and about 25 on Jupiter. For the four giant planets, the number is measured at the cloud tops, because they have no ground. So a child with a mass of 30 kilograms weighs about 300 newtons on Earth. The same child weighs 48 newtons on the Moon, 111 on Mars and 750 on Jupiter. The child has not changed at all. On the Moon the child could jump about six times as high. A thrown ball would also fly about six times as far. Catching that ball would feel the same as on Earth, because its mass is the same.",
    "examples": [
     "Pragyan, the rover that Chandrayaan-3 carried to the Moon in 2023, has a mass of about 26 kilograms. It weighs about 260 newtons on Earth and about 42 newtons on the Moon.",
     "A 1 litre bottle of water weighs about 10 newtons on Earth, 3.7 newtons on Mars and 25 newtons on Jupiter.",
@@ -164,7 +164,7 @@
    "concept": "A bigger world does not always pull harder",
    "status": "defined",
    "definition": "The strength of gravity at the surface of a world depends on two things: the mass of the world, and how far the surface is from its centre.",
-   "description": "More mass makes the pull stronger. More distance from the centre makes it weaker. At twice the distance, the pull is one quarter as strong. At three times the distance, it is one ninth. In the Spreading Square, the light from a small torch covered 4 times the area at twice the distance. The pull of a world spreads out round it in the same way. This is a model, and Newton showed in 1687 that gravity follows it. To compare a world with the Earth, divide its mass by its width multiplied by its width. Use the Earth as 1 for both. Saturn has 95 times the mass of the Earth, so you might expect a crushing pull. But Saturn is also about 9.5 times as wide, so its cloud tops are very far from its centre. 9.5 times 9.5 is about 90, and 95 divided by 90 is just over 1. So the pull at Saturn's cloud tops is only a little stronger than on Earth. Uranus has 14.5 times the Earth's mass and is 4 times as wide. 14.5 divided by 16 is about 0.9, so Uranus pulls a little less than the Earth.",
+   "description": "More mass makes the pull stronger. More distance from the centre makes it weaker. At twice the distance, the pull is one quarter as strong. At three times the distance, it is one ninth. In the Spreading Square, the light from a small torch covered 4 times the area at twice the distance. The pull of a world spreads out round it in the same way. This is a model of how the pull spreads out, and Newton showed in 1687 that gravity follows it. To compare a world with the Earth, take its mass and divide it by its width multiplied by itself. Measure the mass and the width in Earths, so that the Earth counts as 1 for each. Saturn has 95 times the mass of the Earth, so you might expect a crushing pull. But Saturn is also about 9.5 times as wide, so its cloud tops are very far from its centre. 9.5 times 9.5 is about 90, and 95 divided by 90 is just over 1. So the pull at Saturn's cloud tops is only a little stronger than on Earth. Uranus has 14.5 times the Earth's mass and is 4 times as wide. 14.5 divided by 16 is about 0.9, so Uranus pulls a little less than the Earth.",
    "examples": [
     "In the Spreading Square, the lit square at 90 centimetres had 9 times the area of the one at 30. At 3 times the distance, each part got one ninth of the light.",
     "Jupiter has 318 times the Earth's mass and is about 11.2 times as wide. 318 divided by 125 is about 2.5, so its pull is about two and a half times the Earth's.",
@@ -218,7 +218,7 @@
    "concept": "Applied forces",
    "status": "defined",
    "definition": "An applied force is a push or a pull that a person, another animal or a machine puts on a thing. It is a contact force.",
-   "description": "You apply a force when you lift a bag or press a rolling pin. You also do it when you pull a drawer, kick a ball or push a swing. A bullock applies a force to a cart, and a crane applies one to a beam. An applied force can point any way: up, down or sideways. It starts when the touching starts and stops when the touching stops. A ball that has left your hand has no force from the hand on it any more. It keeps moving because moving things keep moving. Gravity then curves its path down, and the air slows it. Applied forces also change normal forces. Press down on a table and the floor under the table legs pushes up harder. Lift one end of a bench and the floor under that end pushes less.",
+   "description": "You apply a force when you lift a bag or press a rolling pin. You also do it when you pull a drawer, kick a ball or push a swing. A bullock applies a force to a cart, and a crane applies one to a beam. An applied force can point any way: up, down or sideways. It starts when the touching starts and stops when the touching stops. A ball that has left your hand has no force from the hand on it any more. It keeps moving because a moving thing goes on moving unless some force slows it or turns it. Gravity then curves its path down, and the air slows it. Applied forces also change normal forces. Press down on a table and the floor under the table legs pushes up harder. Lift one end of a bench and the floor under that end pushes less.",
    "examples": [
     "A person pressing dosa batter out of a ladle, a potter pressing clay and a tailor pulling thread all apply forces.",
     "In Be the Table, a grown-up pressed down on the books, and your palm had to push up harder.",
@@ -235,7 +235,7 @@
    "examples": [
     "A bag held still in your hand: gravity points down, and the applied force from your hand points up, with the same length.",
     "The bottom book of a pile: gravity and the push of the books above point down. One long normal force arrow points up.",
-    "A ball at the top of a throw: one arrow only, gravity pointing down. So the ball does not stay there."
+    "A ball at the top of a throw has only one arrow, which is gravity pointing down. So the ball cannot stay there, and it starts to fall."
    ],
    "perspectives": [],
    "art": "A notebook page with three neat force diagrams: a packet on a table, a packet lifted partly by a string and a bag held in a hand."
@@ -257,7 +257,7 @@
    "concept": "Worlds with nothing to stand on",
    "status": "defined",
    "definition": "Jupiter and Saturn are gas giants, and Uranus and Neptune are ice giants. None of them has a solid surface, so nothing there gives a normal force to stand on.",
-   "description": "Jupiter is mostly hydrogen and helium. What we see in photographs is the top of its clouds. Below the clouds the gas gets thicker, hotter and more squeezed. Deep down the hydrogen is pressed into a liquid. A person there would have weight, because Jupiter's gravity would pull hard. But nothing would push back, so the person would keep sinking. A scale needs both forces. It can only show the push between you and a surface. That is why we give a giant planet's strength of gravity at its cloud tops. The Sun has no surface either. Its strength of gravity at the top of its glowing gas is about 274 newtons for each kilogram.",
+   "description": "Jupiter is mostly hydrogen and helium. What we see in photographs is the top of its clouds. Below the clouds the gas gets thicker, hotter and more squeezed. Deep down the hydrogen is pressed into a liquid. A person there would have weight, because Jupiter's gravity would pull hard. But nothing would push back, so the person would keep sinking. A scale works by measuring the push between you and a surface. On Jupiter there is no surface to push back, so a scale would have nothing to measure. That is why we give a giant planet's strength of gravity at its cloud tops. The Sun has no surface either. Its strength of gravity at the top of its glowing gas is about 274 newtons for each kilogram.",
    "examples": [
     "In 1995 the Galileo probe dropped into Jupiter on a parachute. It sank for about an hour and never met a surface.",
     "Saturn has less mass in each litre than water has. A piece of Saturn would float in a big enough sea.",
@@ -270,9 +270,9 @@
    "concept": "Why does mass do two jobs?",
    "status": "idea",
    "definition": "Mass sets how hard gravity pulls a thing. Mass also sets how hard the thing is to speed up. Scientists have ideas about why the two always match, but no agreed answer.",
-   "description": "The two jobs could have been set by two different amounts. A stone might have had a lot of 'gravity mass' and only a little inertia. But every test finds that the two are equal. That is why a heavy and a light thing fall together when no air is in the way. Isaac Newton checked it in the 1680s with two pendulums. He filled their boxes with gold, lead, glass, sand, salt, wood, water and wheat. All of them swung in step, to within one part in a thousand. In 2022 a French satellite called MICROSCOPE reported a far finer test. Two metal cylinders fell round the Earth together, equal to about one part in a thousand million million.",
+   "description": "The two jobs could have been set by two different amounts. A stone might have had a lot of 'gravity mass' and only a little inertia. But every test finds that the two are equal. That is why a heavy and a light thing fall together when no air is in the way. Isaac Newton checked it in the 1680s with two pendulums. He filled their boxes with gold, lead, glass, sand, salt, wood, water and wheat. All of them swung in step, to within one part in a thousand. In 2022 a French satellite called MICROSCOPE reported a far finer test. Two metal cylinders fell around the Earth together, and they matched each other to about one part in a thousand million million.",
    "examples": [
-    "A full bottle is pulled ten times as hard as a bottle one tenth full. It is also ten times as hard to speed up. So both fall together.",
+    "A full bottle is pulled ten times as hard as a bottle that is one tenth full. It is also ten times as hard to speed up. The two effects cancel out, so both bottles fall together.",
     "On the Moon in 1971, the astronaut David Scott dropped a hammer and a falcon's feather. They landed together."
    ],
    "perspectives": [
@@ -730,7 +730,7 @@
      "id": "s2",
      "mins": 12,
      "do": "1. Turn up 3 cards. 2. Everyone writes the three worlds in order, heaviest first. 3. Turn the cards over and read the numbers. 4. Score the points. 5. Play 6 rounds.",
-     "say": "Which world will make you heaviest? Remember the pull depends on the mass of the world and also on its width. A big world is not always a strong puller.",
+     "say": "Which world will make you heaviest? Remember the pull depends on the mass of the world and also on its width. A bigger world does not always pull harder.",
      "kid": "Turn up 3 cards. Write them in order, heaviest first. Check the numbers.",
      "ask": [
       {
@@ -2572,8 +2572,8 @@
     {
      "t": "write",
      "p": "Saturn has 95 times the Earth's mass. Explain why its pull at the cloud tops is only a little bigger.",
-     "a": "The pull depends on the mass of the world and on how far you are from its centre. Saturn's cloud tops are about 9.5 times as far from its centre as the Earth's surface is. The distance counts twice, so it cancels most of the extra mass.",
-     "why": "A strong answer says that distance from the centre matters, and that it counts twice. It does not say that gas has no weight.",
+     "a": "The pull depends on the mass of the world and on how far you are from its centre. Saturn's cloud tops are about 9.5 times as far from its centre as the Earth's surface is. The pull gets weaker by the distance multiplied by itself, so the distance counts twice. That cancels most of the extra mass.",
+     "why": "A strong answer says that distance from the centre matters, and that it counts twice because the pull gets weaker by the distance multiplied by itself. It does not say that gas has no weight.",
      "lines": 4,
      "outcome": 2
     },
@@ -2611,7 +2611,7 @@
        "size": "small"
       }
      ],
-     "why": "Gravity, 10 newtons, pulls down. The scale pushes up with 7 newtons and the string pulls up with 3. The two small up forces add up to the big down force, so the packet stays still.",
+     "why": "Gravity pulls down with 10 newtons. The scale pushes up with 7 newtons and the string pulls up with 3. The two small up forces add up to the big down force, so the packet stays still.",
      "outcome": 6
     },
     {
@@ -2740,7 +2740,7 @@
     {
      "t": "write",
      "p": "In Lift, Press and Tilt, the scale read less on a tilted board. Explain why, with words and an arrow.",
-     "a": "The slope only stops the packet sinking into the board. The board pushes straight out from its surface, and that push is smaller than the weight. The tape held the rest along the slope.",
+     "a": "The slope only stops the packet sinking into the board. The board pushes straight out from its surface, and that push is smaller than the weight. Something else, such as the tape in the experiment, has to hold the packet so that it does not slide down the slope.",
      "why": "A strong answer says that the normal force points straight out from the surface. On a slope it is smaller than the weight. It may draw a leaning arrow.",
      "lines": 3,
      "outcome": 4,
@@ -3055,7 +3055,7 @@
     "Saturn spins fast"
    ],
    "a": 0,
-   "why": "Saturn has 95 times the Earth's mass. But its cloud tops are about 9.5 times as far from its centre. Distance counts twice, so it cancels most of the extra mass.",
+   "why": "Saturn has 95 times the Earth's mass, which alone would give a much bigger pull. But its cloud tops are about 9.5 times as far from its centre. The pull gets weaker by the distance multiplied by itself, which is about 9.5 times 9.5, or 90. That cancels most of the extra mass.",
    "outcome": 2
   },
   {
@@ -3229,7 +3229,7 @@
    "art": "A row of stone pillars in a temple hall in South India, each standing on a wide square base stone."
   },
   {
-   "text": "The Moon in the evening sky, with a six-wheeled rover's tracks in your mind.",
+   "text": "Look at the Moon in the evening sky. Remember that the rover Pragyan left its wheel tracks on the Moon's surface.",
    "art": "A crescent Moon in an evening sky above the roofs of a town, with a small star near it."
   }
  ],
@@ -3681,7 +3681,7 @@
  },
  "how_we_found_out": {
   "context": "How do we know what a kilogram is? This card tells how one lump of metal defined it for 130 years. It also tells which idea about the lump turned out wrong.",
-  "story": "In 1889, a small cylinder of platinum and iridium was chosen to be the kilogram. It is about as tall and as wide as a plum, and it had been made in 1879. It is kept in a locked vault near Paris, and people call it Le Grand K. Copies were made and sent to many countries. India's copy is kept at the National Physical Laboratory in New Delhi. Everyone believed that the master lump never changed. A kilogram was the mass of that lump, so it could not be wrong. From 1988 to 1992, and again in 2014, scientists compared the master with its copies. The copies had drifted away from it by about 50 micrograms in a hundred years. That is about the mass of a speck of fine dust. No one could say which lump had changed, because each was only measured against the others. So on 20 May 2019, the kilogram was defined through a number of nature, the Planck constant. The new method uses a Kibble balance, invented by Bryan Kibble in 1975. It balances the weight of a mass against an electric force. Because weight depends on gravity, the strength of gravity at its place must be measured very exactly.",
+  "story": "In 1889, a small cylinder of platinum and iridium was chosen to be the kilogram. It is about as tall and as wide as a plum, and it had been made in 1879. It is kept in a locked vault near Paris, and people call it Le Grand K. Copies were made and sent to many countries. India's copy is kept at the National Physical Laboratory in New Delhi. Everyone believed that the master lump never changed. A kilogram was the mass of that lump, so it could not be wrong. From 1988 to 1992, and again in 2014, scientists compared the master with its copies. The copies had drifted away from it by about 50 micrograms in a hundred years. That is about the mass of a speck of fine dust. No one could say which lump had changed, because each was only measured against the others. So on 20 May 2019, the kilogram was defined using a fixed number from nature, called the Planck constant. The new method uses a Kibble balance, invented by Bryan Kibble in 1975. It balances the weight of a mass against an electric force. Because weight depends on gravity, the strength of gravity at its place must be measured very exactly.",
   "who": "The scientists of the International Bureau of Weights and Measures near Paris, who compared the lumps, and Bryan Kibble, who invented the balance",
   "when": "The lump was chosen in 1889. It was compared with its copies from 1988 to 1992 and in 2014. The kilogram was redefined on 20 May 2019.",
   "wrong_idea": "That a master lump of metal never changes, and so can define the kilogram for ever. The comparisons showed the copies and the master drifting apart by about 50 micrograms in a hundred years.",
@@ -3699,7 +3699,7 @@
    "what_is_life": "Every animal that stands, sits or walks is held up by the ground. A tree stands because her roots and trunk push on the ground, and the ground pushes back.",
    "what_is_this_world": "In a pile of books, a building or a planet, each part rests on another. The weight of everything above is passed down, and in the end the Earth holds it."
   },
-  "thread": "A book, a table, a floor, a pillar and the ground look like separate things. In the Dough Stack and the Load on the Pillar, they work as one chain. Each link pushes up on the link above with the weight that all the links above give it. At the bottom is the Earth, which pulls the whole pile down and also holds it up. Many sages taught that nothing stands alone. A pile of books is one exact case, and you can draw it with arrows.",
+  "thread": "A book, a table, a floor, a pillar and the ground look like separate things. In the Dough Stack and the Load on the Pillar, they work as one chain. Each link pushes up on the link above it with a force equal to the weight of everything above. At the bottom is the Earth, which pulls the whole pile down and also holds it up. Many sages taught that nothing stands alone. A pile of books is a case where we can see this clearly, and we can draw it with arrows.",
   "teachings": [
    {
     "source": "Atharva Veda 12.1.12 (the hymn to the Earth)",
@@ -3724,7 +3724,7 @@
   ],
   "other_view": {
    "who": "Many physicists",
-   "view": "Saying that a thing is held up by something is our way of adding up forces between atoms. For them there is no chain of holders, only a very large number of pushes between neighbouring atoms."
+   "view": "Many physicists say that 'being held up by something' is only our way of adding up the forces between atoms. In their view there is no chain of holders, only a very large number of pushes between neighbouring atoms."
   },
   "practice": {
    "title": "Feel your whole weight go down",
