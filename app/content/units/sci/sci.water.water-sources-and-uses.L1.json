@@ -628,7 +628,7 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Wait ten minutes. While you wait, look at the katoris from the side every few minutes, and read the story, The Big Pot in Madurai, aloud.",
+     "do": "Wait ten minutes. While you wait, look at the katoris from the side every few minutes. You can also read the story The Big Pot in Madurai aloud.",
      "say": "Look at the katoris from the side. Is anything changing? Is the water going down? Is the oil going down?",
      "kid": "Look at the katoris from the side. Is anything changing?",
      "ask": [
@@ -1151,7 +1151,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Your child picks an idea or invents one. 2. Help build it. If you have a second pot plant, water it the same way but give it no waterer, so you can compare the two. For the string waterer, wet the string first and stand the tumbler higher than the pot.",
+     "do": "1. Your child picks an idea or invents one. 2. Help build it. If you have a second pot plant, water that plant by hand. Give it no waterer, so you can compare the two. For the string waterer, wet the string first and stand the tumbler higher than the pot.",
      "say": "Which idea will you try? Let's make it.",
      "kid": "Pick an idea. Make it with a grown-up.",
      "adult": true,

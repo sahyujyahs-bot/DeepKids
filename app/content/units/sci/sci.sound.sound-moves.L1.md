@@ -1,7 +1,7 @@
 # Sound travels: how a sound gets from where it is made to your ears
 `sci.sound.sound-moves.L1`
 
-**Summary.** A grown-up rubs two fingers together. Close by, you hear a soft rustle. Step back a few steps, and the rustle is gone, though the fingers are still rubbing. A sound travels out from its source, through the air, to your ears. It spreads out to every side as it goes, so it gets softer the further it travels. Your child tests how far three sounds can travel in your home, finds that a sound reaches them even from behind and round a corner, and sends their voice one way with a paper cone.
+**Summary.** A grown-up rubs two fingers together. Close by, you hear a soft rustle. Step back a few steps, and the rustle is gone, though the fingers are still rubbing. A sound travels out from its source, through the air, to your ears. It spreads out to every side as it goes, so it gets softer the further it travels. Your child tests how far three sounds can travel in your home. They find that a sound reaches them even from behind and round a corner. Then they send their voice one way with a paper cone.
 
 **Intro.** *Shut your eyes. A grown-up will tap a spoon on a steel tumbler somewhere in the room. Point to where the sound is. How did the sound find you?* You did not touch the tumbler, and you did not see it. Still, the sound reached you. A sound starts at its source, the thing that makes it. Then it travels through the air, all the way to your ears. In this unit you find out how far a sound can travel, which way it goes, and why far-away sounds are soft.
 
@@ -22,7 +22,7 @@
 ### A sound travels from its source to your ears · *defined*
 **Definition:** A sound starts at its source. It travels through the air until it reaches your ears. Then you hear it.
 
-When you tapped the tumbler, it shook very fast. It pushed the air next to it. That air pushed the air next to it, and so on, all the way to your ears. You cannot see this, but you hear the result. A sound can also travel through a wall, so you can hear the neighbour's mixie.
+When the spoon tapped the tumbler, the tumbler shook very fast. It pushed the air next to it. That air pushed the air next to it, and so on, all the way to your ears. You cannot see this, but you hear the result. A sound can also travel through a wall, so you can hear the neighbour's mixie.
 - e.g. The cooker's whistle travelling from the kitchen to the bedroom
 - e.g. A koel's call travelling from a tree to your window
 - e.g. The neighbour's mixie heard through the wall
@@ -45,7 +45,7 @@ Without a cone, your voice spreads out to every side. Some goes to the walls, so
 ### Sound takes a little time to travel · *defined*
 **Definition:** A sound does not arrive the moment it is made. It takes a little time to travel. The further away the source, the longer the wait.
 
-In a thunderstorm, lightning and thunder are made at the same moment. The light of the flash reaches you almost at once. The sound of the thunder travels much more slowly. So you see the flash first, and hear the thunder after. Count slowly after you see a flash. A long count means the storm is far away. A short count means the storm is close.
+In a thunderstorm, lightning and thunder are made at the same moment. The light of the flash reaches you almost at once. The sound of the thunder travels much more slowly. So you see the flash first, and hear the thunder after. Count slowly after you see a flash. A long count means the thunder had a long way to travel, so the storm is far away. A short count means the storm is close.
 - e.g. Seeing lightning first, then hearing the thunder
 - e.g. Seeing a cricket bat hit a ball across a big ground, then hearing the knock a moment later
 - e.g. Seeing fireworks burst in the sky, then hearing the bang
@@ -75,30 +75,30 @@ In a thunderstorm, lightning and thunder are made at the same moment. The light 
   Against: The sound spreads out to every side as it travels. So only a little of it reaches each ear far away. A cone stops some of the spreading, and the far sound becomes louder.
 
 ## Roots
-We have walked away from sounds, listened from behind a door and called through a paper cone. Now we ask what a travelling sound tells us about the world, and about ourselves.
+In the Walk Away test, you walked away from three sounds until each one faded. In All Around the Tumbler, you heard a tap from behind and from round a door. In The Paper Cone, a cone sent a voice one way. Here we look at what these tests show: one sound is shared among everyone around it.
 
 **Deep truth.** In All Around the Tumbler, one tap reached you in front, behind and round the door. The sound spread out to fill the whole room at once. Far away, it had spread over more space, so less of it reached you. So one sound is shared out among every place around it.  
 *Habit it breaks:* We picture a sound going from one thing to one ear, like a ball thrown to a catcher. But a sound spreads out to every side, and every ear around it catches a share of the same sound.  
 *Evidence:* In All Around the Tumbler, the same tap reached every spot in the room and round the door. In the Walk Away test, the same finger rub was clear close by and gone a few steps back, where its share had become too small to hear.
 
-- *who am i:* You are a listener in one spot. Every sound you hear has travelled to that spot, from somewhere else, to reach you.
+- *who am i:* You are a listener in one spot. Every sound you hear has travelled to that spot from somewhere else.
 - *what is life:* Many living beings send sounds across distances to stay together: a calf calling her mother, crows calling across the city, people calling each other home.
 - *what is this world:* The world is full of sounds spreading out from many places at once, crossing each other in the air, reaching everyone a little differently.
 
 One bell rings in one place. Its sound spreads out on every side and reaches everyone around it: a child near the bell, a grandmother across the pond, a crow on the roof. One sound becomes a different sound in each ear, louder or softer. The air that carries it is aware in its own way, and so are the bell and every listener. Many scientists disagree: they say only beings with nerves are aware.
 
-- **The Nyaya philosophers of India, as summed up by Vishvanatha in the Bhasha-pariccheda (17th century), in the verses on sound:** A sound makes the next sound next to it, and that one makes the next, until a sound reaches the ear. It spreads like ripples on a pond, one ring after another. Some teachers said it spreads like a kadamba flower, whose buds open on every side at once. (In All Around the Tumbler, the tap reached you in front, behind and at the sides. In Be the Air, the tap was passed from person to person. These old thinkers described the same spreading and passing on, by thinking about ripples and flowers.)
-- **The Udana 6.4, a Buddhist text, which tells the story of the blind men and the elephant (Jain teachers tell this story too):** Several blind men each touched one part of an elephant. One felt the trunk, one the ear, one the leg. Each one described a different elephant, and each was right about the part he touched. (In Who Hears It Louder?, Meena by the bell heard a loud sound, and her friend at the end of the street heard a soft one. It was one bell. Each of them told the truth about what reached their own ears.)
+- **The Nyaya philosophers of India, as summed up by Vishvanatha in the Bhasha-pariccheda (17th century), in the verses on sound:** Old thinkers taught that a sound makes another sound next to it, and that one makes the next, until a sound reaches the ear. They said it spreads like ripples on a pond, one ring after another. Some teachers said it spreads like a kadamba flower, whose buds open on every side at once. (In All Around the Tumbler, the tap reached you in front, behind and at the sides. In Be the Air, the tap was passed from person to person. These old thinkers described the same spreading and passing on, by thinking about ripples and flowers.)
+- **The Udana 6.4, a Buddhist text, which tells the story of the blind men and the elephant (Jain teachers tell this story too):** Several blind men each touched one part of an elephant. One felt the trunk, one the ear, one the leg. Each one described a different elephant, and each was right about the part he touched. (In Who Hears It Louder?, the person next to the temple bell heard a loud sound, and the friend at the end of the street heard a soft one. It was one bell. Each of them told the truth about what reached their own ears.)
 - Science (settled): A sound spreads out to every side from its source. The further it travels, the more it has spread out, so it sounds softer.
 - Science (settled): Sound takes time to travel through air: about three seconds to go one kilometre.
 - Other view, Many scientists today: They say air, bells and tumblers are not aware of anything. To them, sound is only air pushing on air. They think awareness belongs to living beings with nerves or brains.
 - Practice, The furthest sound (3 min): Sit comfortably and close your eyes. First, listen to the closest sound you can hear. Maybe your own breathing. Now listen a little further, to a sound in this room. Now further, to a sound outside the room. Now as far as you can. What is the furthest sound you can hear? Every one of those sounds has travelled all the way to you.
 - Ask: When the finger rub was too far away for you, could someone closer still hear it? Was the sound loud or soft, then?
-- Ask: One bell, many listeners, each hearing it a little differently. Which one hears the real sound?
+- Ask: One bell rings, and one listener hears it louder than another does. Is the bell's sound really different for each listener? Or is it one sound, heard from different places?
 - Ask: Where does a sound go after it has passed you?
 
 ## Deep and big questions
-- *deep:* When the finger rub was too far away to hear, was there still a sound in the room? (hint: The fingers were still rubbing. Could someone closer still hear it? Could an ant or a cat?)
+- *deep:* In the Walk Away test, when the finger rub was too far away to hear, was there still a sound in the room? (hint: The fingers were still rubbing. Could someone closer still hear it? Could an ant or a cat?)
 - *deep:* How does a sound find its way round the corner of a door? (hint: The sound spreads out to every side. Some of it goes through the doorway and spreads out again on the other side.)
 - *deep:* Why can you hear a cooker whistle in every room, but not a whisper? (hint: Think about how big each sound is when it starts, and how much it spreads out on the way.)
 - *big:* When one bell rings, everyone around it hears it at once. Is it one sound, or many sounds, one for each person? (hint: There is one bell. But the sound reaches each ear, and each person hears it a little louder or softer.)
@@ -188,7 +188,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
 
 ## Games
 ### g1 · Whisper Walk (10 min)
-- **rules:** Cut out the cards and put them face down.; The whisperer stands at one end of the room or the hallway.; The walkers stand at the far end, next to each other.; The whisperer picks a card and whispers the word. A child who cannot read yet gets the word whispered to them by a grown-up first.; If no walker can hear it, every walker takes one step closer, and the whisperer whispers the same word again.; The first walker to say the word right keeps the card.; Everyone goes back to the far end for the next card, and the next person becomes the whisperer. When the 6 cards run out, the most cards wins. If the cards are level, everyone wins.
+- **rules:** Cut out the cards and put them face down.; The whisperer stands at one end of the room or the hallway.; The walkers stand at the far end, next to each other.; The whisperer picks a card and whispers the word. If the whisperer cannot read yet, a grown-up reads the card and whispers the word to them first.; If no walker can hear it, every walker takes one step closer, and the whisperer whispers the same word again.; The first walker to say the word right keeps the card.; Everyone goes back to the far end for the next card, and the next person becomes the whisperer. When the 6 cards run out, the player with the most cards wins. If players have the same number of cards, everyone wins.
 - **Printable cards: 6 Whisper Walk word cards:** Elephant [picture]; Peacock [picture]; Coconut [picture]; Dosa; Kite; Boat
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards. Read the rules together. You whisper first.  
@@ -203,13 +203,13 @@ It was only a whisper. But across the road, the light blinked off and on again.
   - Note: Keep the whisper equally soft each time, so the game is fair.
 - **s3 (4 min)**  
   *Parent does:* Play the last three cards. The next person whispers each time, so your child whispers too.  
-  *Parent says:* Now you whisper, and I walk. Do you think I will need more steps or fewer than you?  
+  *Parent says:* Now you whisper, and I walk. Let's count how many steps I need before I can hear you. Did I need more steps or fewer than you did?  
   *Child mode:* Now you whisper. Make it soft!
   - Note: Read the card to your child quietly, so they can whisper the word to you.
   - Check: The walkers could not hear the whisper. What made it easier to hear? → **Coming closer**
 ### g2 · Who Hears It Louder? A card game (10 min)
-- **rules:** Shuffle the cards and put them face down.; A grown-up reads the top card out loud. The players take turns to answer.; The player whose turn it is answers, and gives a reason. Then they act it out if they can: ring, clap, whisper or whistle.; The grown-up turns the card and reads the answer. A good answer with a reason keeps the card. If not, the card is put aside.; The game ends when all 10 cards have been read. The most cards wins. If the cards are level, everyone wins. With one player, keep as many of the 10 cards as you can, then play again and try to beat your score.
-- **Printable cards: 10 Who Hears It Louder cards:** A temple bell rings. Meena stands next to the bell. Her friend is at the end of the street. Who hears it louder? (back: Meena. She is close, so more of the sound reaches her.); The cooker whistles in the kitchen. Arjun is in the bedroom. Can he hear it? (back: Yes. The whistle travels through the air, out of the kitchen door, to the bedroom.); Kavya's grandmother claps behind Kavya's back. Can Kavya hear the clap? (back: Yes. A sound spreads out to every side, so it reaches you from behind too.); A storm is far away. You see a flash of lightning. What comes next? (back: The thunder, a little later. The sound takes time to travel to you.); Lakshmi whispers to Farhan from across a big room. He can't hear. What can he do? (back: Come closer. A whisper fades as it travels, so it is easier to hear close by.); Riya calls through a paper cone. Should the wide end point at her friend, or at the floor? (back: At her friend. The cone sends more of the sound out of the wide end.); A koel calls from a tree far away, and another koel calls just outside the window. Both calls are equally loud to start with. Which call sounds louder to you? (back: The call outside the window. That sound has travelled less far.); A boy rides his cycle down the lane towards your door, ringing his bell. Does the bell get louder or softer as he comes closer? (back: Louder. Each step he comes closer, the sound has less far to travel.); The neighbour's mixie is running behind the wall. Can you hear it? (back: Yes. Sound can travel through walls, as well as through air.); Ammu stands round the corner of a door. Amma rings a bell in the room. Can Ammu hear it? (back: Yes, a little softer. The sound spreads out through the doorway and round the corner.)
+- **rules:** Shuffle the cards and put them face down.; A grown-up reads the top card out loud. The players take turns to answer.; The player whose turn it is answers, and gives a reason. Then they act it out if they can: ring, clap, whisper or whistle.; The grown-up turns the card and reads the answer. If the player's answer is right and has a reason, the player keeps the card. If not, the card is put aside.; The game ends when all 10 cards have been read. The player with the most cards wins. If players have the same number of cards, everyone wins. With one player, keep as many of the 10 cards as you can, then play again and try to beat your score.
+- **Printable cards: 10 Who Hears It Louder cards:** A temple bell rings. You stand next to the bell. Your friend is at the end of the street. Who hears it louder? (back: You do. You are close, so more of the sound reaches you.); The cooker whistles in the kitchen. You are in the bedroom. Can you hear it? (back: Yes. The whistle travels through the air, out of the kitchen door, to the bedroom.); Someone claps behind your back. Can you hear the clap? (back: Yes. A sound spreads out to every side, so it reaches you from behind too.); A storm is far away. You see a flash of lightning. What comes next? (back: The thunder, a little later. The sound takes time to travel to you.); A friend whispers to you from across a big room. You can't hear the whisper. What can you do? (back: Come closer. A whisper fades as it travels, so it is easier to hear close by.); You call to a friend through a paper cone. Should the wide end point at your friend, or at the floor? (back: At your friend. The cone sends more of the sound out of the wide end.); A koel calls from a tree far away, and another koel calls just outside the window. Both calls are equally loud to start with. Which call sounds louder to you? (back: The call outside the window. That sound has travelled less far.); A boy rides his cycle down the lane towards your door, ringing his bell. Does the bell get louder or softer as he comes closer? (back: Louder. The closer he comes, the less far the sound has to travel.); The neighbour's mixie is running behind the wall. Can you hear it? (back: Yes. Sound can travel through walls, as well as through air.); You stand round the corner of a door. Someone rings a bell in the room. Can you hear it? (back: Yes, a little softer. The sound spreads out through the doorway and round the corner.)
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards. Read the rules together.  
   *Parent says:* I will read a card. You tell me who hears the sound, or what happens. Then we try it.  
@@ -228,7 +228,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
 ### e1 · Walk Away: how far can you hear it? (25 min)
 - **question:** Does every sound travel the same distance before you stop hearing it? And does a hard crinkle travel further than a gentle one?
 - **predict:** The grown-up will rub fingers, crinkle a plastic bag and tap a spoon on a steel tumbler. Which sound will you hear from furthest away? Which will fade first? Why do you think so?
-- **fair test:** The grown-up stays on the same spot and holds each sound at the same height, next to their shoulder. They make each sound the same way each time. You take the same small steps, one heel touching the other toe, and you close your eyes before each sound.
+- **fair test:** The grown-up stays on the same spot and makes each sound at the same height, next to their shoulder. They make each sound the same way each time. You take the same small steps, with the heel of one foot touching the toes of the other, and you close your eyes before each sound.
 - **record:** Draw the hallway as a long box. Draw the grown-up at one end. Draw a chappal for each sound where it faded, with a small picture of the sound next to it: fingers, a bag, a tumbler.
 - **results table:** Sound | My guess: near, middle or far? | Steps until I could not hear it
 - **s1 (3 min)**  
@@ -250,7 +250,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
   - Note: Keep your fingers at the same height each time, and rub the same way. The finger rub usually fades after a few small steps. Sometimes say 'now', and make no sound. This checks that your child is listening, not guessing.
 - **s4 (5 min)**  
   *Parent does:* 1. Your child comes back to your side. 2. Do the same with the bag, crinkled gently. 3. Then with the spoon tapped gently on the tumbler. 4. Put a chappal where each sound faded.  
-  *Parent says:* Now the bag, crinkled gently. Same rules. Close your eyes, say yes, and step back. Now the tumbler.  
+  *Parent says:* Now I will crinkle the bag gently. The rules are the same: close your eyes, say yes if you hear it, and step back. After the bag, we do the tumbler.  
   *Child mode:* Now the bag. Then the tumbler. Step back each time you hear it.
   - Ask: Which sound did you hear from furthest away? (good: The tumbler.; The spoon on the steel.)
   - Note: If your child reaches the wall and can still hear the sound, put the chappal at the wall. That sound travels further than your home is long. The tumbler often goes the whole way.
@@ -261,7 +261,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
   - Ask: Which crinkle reached you? (good: The hard one.; I heard the hard one, not the gentle one.)
   - Check: Which sound can travel further before it fades? → **A hard crinkle**
 - **s6 (4 min)**  
-  *Parent does:* 1. Look at the three chappals together. 2. Count the steps to each one. 3. Ask your child to tell you three things, and write them in their words.  
+  *Parent does:* 1. Look at the three chappals together. 2. Count the steps to each one. 3. Ask your child what they think now, what they heard, and why they think it happened. Write the answers in their words.  
   *Parent says:* Look at our chappals. Which sound went furthest? Tell me what you think now, what you heard, and why you think it happened.  
   *Child mode:* Look at the chappals. Which sound went furthest? Why?
   - Note: A strong answer sounds like this. 'The fingers faded first and the tumbler went furthest. Far away, the sounds got softer. A big sound can travel further before it fades.' Later you can add: the sound spreads out to every side, so less of it reaches you far away.
@@ -278,18 +278,18 @@ It was only a whisper. But across the road, the light blinked off and on again.
   - Note: Make the narrow end about as wide as your mouth, and the wide end about as wide as a plate. A cone about as long as your arm works well.
 - **s2 (3 min)**  
   *Parent does:* 1. Your child stands far away, at the spot where a quiet voice is only just clear. 2. Ask them to guess which way will be clearest, and why.  
-  *Parent says:* I will say some words three ways: no cone, cone at you, and cone at the wall. Which will be clearest? Why?  
+  *Parent says:* I will say some words three ways: with no cone, with the cone pointing at you, and with the cone pointing at the wall. Which way will be clearest? Why?  
   *Child mode:* Which way will you hear best? Why do you think so?
   - Ask: Which way do you think will be clearest? (good: The cone pointing at me.; The cone, because it is like a loudspeaker.)
   - Note: Find the spot by talking quietly and asking your child to step back until your words are only just clear. A whisper works too.
 - **s3 (5 min)**  
   *Parent does:* 1. Say a short sentence quietly with no cone. 2. Say a new sentence the same way through the cone, pointing at your child. 3. Say a third sentence with the cone pointing at the side wall. 4. Each time, your child says what they heard.  
-  *Parent says:* Listen. Tell me the words you heard. Was it clear, a little, or not at all?  
+  *Parent says:* Listen. Tell me the words you heard. Did you hear them clearly, a little, or not at all?  
   *Child mode:* Listen. Say the words you heard. Was it clear?
   - Ask: When was the voice clearest? (good: When the cone pointed at me.; With the cone, facing me.)
   - Note: Keep your voice at exactly the same loudness. Use new words each time, like 'Idli for breakfast', 'The crow is on the wall', 'Ten red bangles'. Usually the cone pointing at your child is clearest, and the cone pointing at the wall is the hardest to hear. The change is small but real. If you cannot tell the difference, stand a few steps further back.
 - **s4 (4 min)**  
-  *Parent does:* Ask your child to tell you three things. Write them down in their words.  
+  *Parent does:* Ask your child what they think now, what they heard, and why they think the cone helped. Write the answers down in their words.  
   *Parent says:* What do you think now? What did you hear? Why do you think the cone helped?  
   *Child mode:* Say what you think. Say what you heard. Say why.
   - Note: A strong answer sounds like this. 'With the cone pointing at me, the words were clearest. Pointing at the wall, they were hard to hear. The cone sends the voice one way, instead of to every side.'
@@ -335,9 +335,10 @@ It was only a whisper. But across the road, the light blinked off and on again.
   - Ask: What does a bigger count mean? (good: The storm is further away.; The sound had further to travel.)
   - Note: Lightning and thunder are made at the same moment. The light arrives almost at once. The sound takes about three seconds to travel one kilometre. So a longer count means a storm further away.
 ### a3 · Be the Air: pass the sound along (8 min)
-- **record:** Draw your family in a line, with a drum at one end and a big ear at the other. Draw arrows from each person to the next.
+- **problem:** We cannot see a sound move, so this act-out shows how it travels. The steel plate is the sound source, and the people in the line are the air. Each person gently taps the next, the way each bit of air pushes the next bit, until the push reaches the paper ear.
+- **record:** Draw your family in a line, with a steel plate at one end and a big ear at the other. Draw arrows from each person to the next.
 - **s1 (2 min)**  
-  *Parent does:* Draw a big ear on a paper and tape it to a wall. Everyone else stands in a line between the steel plate and the ear, facing the ear.  
+  *Parent does:* Draw a big ear on a sheet of paper and tape it to a wall. Everyone else stands in a line between the steel plate and the ear, facing the ear.  
   *Parent says:* The plate is the sound source. The paper is an ear. We are the air in between.  
   *Child mode:* The plate makes the sound. The paper is an ear. We are the air.
   - Note: With only two people, you tap the plate and your child is the air. They pass the tap on to the paper ear.
@@ -420,14 +421,14 @@ It was only a whisper. But across the road, the light blinked off and on again.
 8. (match) Draw a line from each problem to the best fix.  
    **Answer:** I can't hear a whisper from far away → Come closer; My friend across the road can't hear me → Use a paper cone; Someone in the far room can't hear the doorbell → Open the doors on the way. *Why:* Coming closer means the sound travels less far. A cone sends more of your voice one way. With the doors open, the sound has an open path and does not have to go round them.
 9. (odd) Three of these people will hear the temple bell. One is too far away to hear it. Circle the one who is too far.  
-   Options: Meena, standing by the bell / Her friend at the temple gate / Her aunt across the temple pond / Her cousin in another town  
+   Options: A child standing by the bell / A child at the temple gate / A child across the temple pond / A child in another town  
    **Answer:** 3. *Why:* The bell's sound spreads out and gets softer as it travels. In another town, it is far too soft to hear. The others are close enough.
-10. (perspective) Kavya wants her grandmother on the balcony to hear her. Three children have ideas.  
+10. (perspective) You want your grandmother on the balcony to hear you. Three children have ideas.  
    **Answer:** Any choice with a good reason. A shout is loud but can hurt your throat and disturb others. A cone sends more of the sound to the balcony without shouting. Walking over is clearest, because the sound has only a short way to travel, but it takes longer.. *Why:* A strong answer gives a reason that uses how sound travels, and says fairly what is good about another idea.
 ### Sound Travels (stretch) (stretch, 10 questions)
 1. (order) Put the Walk Away test in order. Number them 1, 2 and 3.  
    **Answer:** ['Guess which sound will go furthest', 'Close your eyes and step back each time you hear it', 'Put a chappal where the sound faded']. *Why:* First we guess, then we test by stepping back and listening, then we mark where each sound faded.
-2. (truefalse) The finger rub was too far away to hear, so the sound had stopped.  
+2. (truefalse) In the Walk Away test, the finger rub was too far away to hear, so the sound had stopped.  
    **Answer:** False. *Why:* False. The fingers were still rubbing, so the sound was still being made. It had spread out so much that too little of it reached your ears.
 3. (fill) Say the missing word. A sound gets ____ the further it travels.  
    **Answer:** softer. *Why:* As a sound travels, it spreads out. So less of it reaches each ear, and it sounds softer.
@@ -436,14 +437,14 @@ It was only a whisper. But across the road, the light blinked off and on again.
    **Answer:** The child 10 steps away. *Why:* The further away you stand, the more the sound has spread out. So the child 10 steps away hears the least of it.
 5. (draw) Draw yourself calling a friend with a paper cone. Draw the sound lines coming out of the cone.  
    **Answer:** A child speaking into the narrow end of a cone, with most sound lines going out of the wide end towards the friend.. *Why:* A strong drawing shows most of the sound lines going one way, out of the wide end, towards the friend.
-6. (write) Say it out loud, and a grown-up writes it down. You stood round the corner of the door and still heard the tumbler. How did the sound get to you?  
+6. (write) Say it out loud, and a grown-up writes it down. In All Around the Tumbler, you stood round the corner of the door and still heard the tumbler. How did the sound get to you?  
    **Answer:** The sound spread out to every side. Some of it went through the doorway and spread round the corner to me.. *Why:* A strong answer says the sound spreads out on every side, so it can go through the doorway and round the corner.
 7. (label) Look at the picture of a girl tapping a tumbler. Three children stand near and far. A grown-up points to each child. Say 'loud', 'soft' or 'can't hear', and the grown-up writes it.  
    **Answer:** ['loud', 'soft', "can't hear"]. *Why:* The closer you are, the less the sound has spread out, and the louder it is. Far down the road, the sound is too soft to hear.
-8. (count) In the Walk Away test, Meenakshi, a girl in Class 1, heard the finger rub for 3 steps and the crinkly bag for 7 steps. How many more steps did the bag travel?  
+8. (count) In the Walk Away test, a child heard the finger rub for 3 steps and the crinkly bag for 7 steps. How many more steps did the sound of the bag travel?  
    **Answer:** 4. *Why:* Count on from 3 to 7: 4, 5, 6, 7. That is 4 more steps. The bag made a bigger sound, so it travelled further before it faded.
 9. (perspective) A cooker whistles in the kitchen. Two friends talk about why it sounds soft in the far bedroom.  
-   **Answer:** Zoya's idea matches the tests. The sound spreads out to every side, so less of it reaches far away. Divya is right that far means soft, but sounds do not get tired. With a cone, which stops some of the spreading, a far voice sounds louder.. *Why:* A strong answer uses evidence, like the cone test or the finger rub fading, and is fair to Divya: she noticed that far sounds are softer.
+   **Answer:** Zoya's idea matches the tests. The sound spreads out to every side, so less of it reaches far away. The first child is right that far means soft, but sounds do not get tired. With a cone, which stops some of the spreading, a far voice sounds louder.. *Why:* A strong answer uses evidence, like the cone test or the finger rub fading, and is fair to the first child: she noticed that far sounds are softer.
 10. (write) Say it out loud, and a grown-up writes it down. A friend says: 'A sound only goes the way the speaker is facing.' What would you ask your friend to try, to see if that is true?  
    **Answer:** Stand behind the person who is making the sound, or round a door, and listen. If you can still hear it, the sound goes every way.. *Why:* A strong answer is a test the friend can do, such as listening from behind, and says what they would expect to hear if the sound goes every way.
 
@@ -480,7 +481,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
 9. (mcq) After a flash, you count to 2 before the thunder. Is the storm near or far?  
    Options: Quite near / Very far away / You can't tell  
    **Answer:** Quite near. *Why:* A short count means the sound did not have far to travel. So the storm is quite near. A long count means it is far.
-10. (mcq) An ambulance siren is heard from far away. Why?  
+10. (mcq) Why can you hear an ambulance siren from far away?  
    Options: It is a big sound to start with, so it can spread a long way and still be heard / The siren sends its sound only to your ears / Sound does not get softer when it travels  
    **Answer:** It is a big sound to start with, so it can spread a long way and still be heard. *Why:* A loud sound starts big. It spreads out as it travels, but enough of it still reaches ears far away.
 
@@ -522,10 +523,10 @@ It was only a whisper. But across the road, the light blinked off and on again.
 - Why is the lightning always on time, but the thunder always late? *The lightning runs. The thunder has to walk!*
 
 ## Connected maths
-- In the Walk Away test, Lakshmi heard the finger rub for 3 steps, the crinkly bag for 6 steps, and the tumbler for 10 steps. Put the sounds in order, from the one that travelled least far to the one that travelled furthest. **The finger rub (3 steps), then the bag (6 steps), then the tumbler (10 steps).**. 3 is less than 6, and 6 is less than 10. So the finger rub went least far and the tumbler went furthest. (queues `math.number-sense.comparing-ordering.L1`)
-- Nila counted to 6 after the first lightning flash and to 3 after the second. Was the storm closer the first time or the second time? How many fewer did she count the second time? **Closer the second time. She counted 3 fewer.**. A shorter count means the thunder had less far to travel, so the storm was closer. Count down from 6 to 3: 5, 4, 3. That is 3 fewer. (queues `math.addition-subtraction.meaning.L1`)
-- Zoya can hear the whisper from 2 steps away. Her brother is 5 steps away. How many steps must he walk to hear it? **3 steps.**. He is at 5. He needs to get to 2. Count down from 5: 4, 3, 2. That is 3 steps. (queues `math.addition-subtraction.word-problems.L1`)
-- Look at your cooker map. Count the rooms you coloured red, yellow and blue. Which colour has the most rooms? **It depends on your home. For example: red 2 rooms, yellow 2 rooms, blue 1 room. Red and yellow are equal, and blue has the fewest.**. Count each colour and write the number. Then compare the numbers. The biggest number has the most rooms. (queues `math.data.sorting-and-tallies.L1`)
+- In the Walk Away test, a child heard the finger rub for 3 steps, the crinkly bag for 6 steps, and the tumbler for 10 steps. Put the sounds in order, from the one that travelled least far to the one that travelled furthest. **The finger rub (3 steps), then the bag (6 steps), then the tumbler (10 steps).**. 3 is less than 6, and 6 is less than 10. So the finger rub went least far and the tumbler went furthest. (queues `math.number-sense.comparing-ordering.L1`)
+- In the story Ammamma's Paper Cone, Nila counted to 6 after the first lightning flash and to 3 after the second. Was the storm closer the first time or the second time? How many fewer did she count the second time? **Closer the second time. She counted 3 fewer.**. A shorter count means the thunder had less far to travel, so the storm was closer. Count down from 6 to 3: 5, 4, 3. That is 3 fewer. (queues `math.addition-subtraction.meaning.L1`)
+- In Whisper Walk, one walker can hear the whisper from 2 steps away. Another walker is 5 steps away. How many steps closer must the second walker come to hear it? **3 steps.**. The second walker is at 5 steps and needs to get to 2. Count down from 5: 4, 3, 2. That is 3 steps. (queues `math.addition-subtraction.word-problems.L1`)
+- Look at the map you coloured in Where Can You Hear the Cooker? Count the rooms you coloured red, yellow and blue. Which colour has the most rooms? **It depends on your home. For example: red 2 rooms, yellow 2 rooms, blue 1 room. Red and yellow are equal, and blue has the fewest.**. Count each colour and write the number. Then compare the numbers. The biggest number has the most rooms. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
 Who Made That Sound? (sci.sound.L1): Topic-level song for Sound L1

@@ -36,8 +36,8 @@ The Moon looks bright at night, so many children think it makes light, like a la
 ### The stars are in the sky in the daytime too · *defined*
 **Definition:** The stars shine all the time, by day and by night. In the day, sunlight makes the whole sky so bright that we cannot see the stars' small light.
 
-In the torch test, the little torch star was hard to see in the bright spot by the window. In the dark room, the same torch star shone brightly. The torch was the same both times. Only the light around it changed. The real stars work the same way. In the day, the Sun's light lights up the air, and the whole sky glows blue. The stars are still there, but their light is too faint to see in that bright sky. When the Sun sets and the sky goes dark, we can see them again.
-- e.g. In the torch test, the star was hard to see by the sunny window and bright in the dark room.
+In the torch star test, a torch covered with cardboard shone through one tiny hole, like a star. By the bright window, that torch star was hard to see. In the dark room, the same torch star shone brightly. The torch was the same both times. Only the light around it changed. The real stars work the same way. In the day, the Sun's light lights up the air, and the whole sky glows blue. The stars are still there, but their light is too faint to see in that bright sky. When the Sun sets and the sky goes dark, we can see them again.
+- e.g. In the torch star test, the torch star was hard to see by the sunny window and bright in the dark room.
 - e.g. During a total eclipse of the Sun, the Moon covers the Sun for a few minutes. The sky goes dark and bright stars appear in the middle of the day.
 - e.g. Big telescopes can find bright stars even in the daytime.
 ### Why a city sky shows fewer stars · *defined*
@@ -66,13 +66,13 @@ On a clear night in a big city, you may see only a few stars. In a village far f
   Against: In the torch test, the torch star was still shining by the sunny window. It was only hard to see. During a total eclipse of the Sun, stars appear in the middle of the day, because the sky goes dark.
 
 ## Roots
-We have felt the Sun's heat, and found that a small light can shine without being seen. Now we ask what that tells us about the sky, about ourselves and about the world.
+In the ice test, we felt that sunshine brings heat. In the torch star test, the torch kept shining by the bright window, but we could hardly see it. Now we ask what that tells us about the sky, about ourselves and about the world.
 
-**Deep truth.** By the sunny window, our torch star was hard to see. In the dark room, it shone brightly. The torch did not change, and the real stars do not change from day to night either. They shine all day, but we see them only when the sky around them is dark.  
+**Deep truth.** In the torch star test, the torch star was hard to see by the sunny window. In the dark room, it shone brightly. The torch did not change, and the real stars do not change from day to night either. They shine all day, but we see them only when the sky around them is dark.  
 *Habit it breaks:* We say the stars 'come out' at night, as if they switch on like street lights. The torch test shows that a star can stay the same while the light around it changes.  
 *Evidence:* In the torch star test, the same star was faint by the bright window and bright in the dark room. In a total eclipse of the Sun, stars appear at midday.
 
-- *who am i:* You are someone who lives in sunshine. The warmth on your skin and the light in your eyes come from the Sun.
+- *who am i:* You live in sunshine every day. The warmth on your skin and the light in your eyes come from the Sun.
 - *what is life:* Almost all life on Earth runs on the Sun. Plants turn their leaves to the sunshine and make their food from it, and humans and other animals eat the plants.
 - *what is this world:* The world is under a sky full of stars, all day and all night. Our Sun is one of them, the one close enough to warm us.
 
@@ -88,10 +88,10 @@ The Sun is one star among countless others. In the day, its light fills our sky 
 - Ask: The Sun's light hides the other stars. Can something very bright stop us seeing something else?
 
 ## Deep and big questions
-- *deep:* In the torch test, the star was still shining by the sunny window, but you could hardly see it. What else might be there all the time that we cannot see? (hint: Think of the stars in the day, the Moon on a cloudy night, or the air around you.)
+- *deep:* In the torch star test, the torch was still shining by the sunny window, but you could hardly see its light. What else might be there all the time that we cannot see? (hint: Think of the stars in the day, the Moon on a cloudy night, or the air around you.)
 - *deep:* The Moon has no light of its own, but it lights up the night. Is it right to call the Moon bright? (hint: Think of a steel plate next to a lamp. Where does its brightness come from?)
-- *deep:* The ice in the sunshine melted first. How did the heat get from the Sun, so far away, to the ice? (hint: Nothing touched the ice except sunlight. The heat came with the light.)
-- *big:* Every star at night is a sun. Could a child far away, near another star, be looking at our Sun as a tiny dot tonight? (hint: Our Sun is a star too. From very far away, it would look like a small dot.)
+- *deep:* In the Sun or Shade test, one ice cube sat in the sunshine and one in the shade. The one in the sunshine melted first. How did the heat get from the Sun, so far away, to the ice? (hint: Nothing touched the ice except sunlight. The heat came with the light.)
+- *big:* Every star you see at night is a sun like ours, only much farther away. Could a child living near one of those stars be looking at our Sun tonight, as a tiny dot? (hint: Our Sun is a star too. From very far away, it would look like a small dot.)
 
 ## Story: Tara and the Hidden Stars
 *Ajji means grandmother in Kannada. Tara, Manu, Amma and Ajji are made up. Villages far from towns have much darker night skies than cities, so many more stars can be seen there.*
@@ -155,8 +155,8 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 
 ## Games
 ### g1 · Day Sky or Night Sky? A card sorting game (10 min)
-- **rules:** Mix the 13 cards and put them in a pile, face down.; Make three places on the floor: a yellow paper for DAY, a dark paper for NIGHT, and a place in the middle for BOTH.; Players take turns. On your turn, take the top card. A grown-up reads the front out.; Put it on DAY, NIGHT or BOTH, and say why.; A grown-up turns the card over and reads the back. If you were right, keep the card in front of you. If not, put it on the right place.; When all 13 cards are sorted, count the cards each player kept. The player with the most cards wins. With one child, try to beat your last count. Play again to keep more.; At the end, talk about the stars card: are the stars in the sky in the day?
-- **Printable cards: 13 sky cards:** The Sun, shining (back: DAY. When we can see the Sun, it is day where we are.) [picture]; A bright blue sky (back: DAY. Sunlight lights up the air and makes the sky blue.); Many twinkling stars (back: NIGHT, to see them. The stars are there all day too, but the bright sky hides them.); A full Moon (back: NIGHT. A full Moon rises as the Sun sets, and shines all night with sunlight.) [picture]; A pale half Moon (back: BOTH. A half Moon can often be seen in the afternoon sky, and in the evening too.); Clothes drying in the sunshine (back: DAY. The Sun's heat dries them.); An owl hunting (back: NIGHT. Many owls hunt at night, with their big eyes and sharp ears.) [picture]; A crow warming up on a ledge (back: DAY. Crows sit in the morning sun to get warm.) [picture]; Street lights switched on (back: NIGHT. We switch on lights when the Sun's light is gone.); A shadow on the floor from the window (back: DAY. Sunlight through the window makes the shadow.); Clouds (back: BOTH. Clouds float in the sky by day and by night.); A bat flying (back: NIGHT. Many bats fly out at dusk to find food.) [picture]; Fireflies flashing (back: NIGHT. Fireflies make their own light. We see it best in the dark.)
+- **rules:** Mix the 13 cards and put them in a pile, face down.; Make three places on the floor: a yellow paper for DAY, a dark paper for NIGHT, and a place in the middle for BOTH.; Players take turns. On your turn, take the top card. A grown-up reads the front out.; Put it on DAY, NIGHT or BOTH, and say why.; A grown-up turns the card over and reads the back. If you were right, keep the card in front of you. If not, put it on the right place.; When all 13 cards are sorted, count the cards each player kept. The player with the most cards wins. If one child plays alone, play again and try to keep more cards than last time.; At the end, talk about the stars card: are the stars in the sky in the day?
+- **Printable cards: 13 sky cards:** The Sun, shining (back: DAY. When we can see the Sun, it is day where we are.) [picture]; A bright blue sky (back: DAY. Sunlight lights up the air and makes the sky blue.); Many twinkling stars (back: NIGHT is when we can see them. The stars are there all day too, but the bright sky hides them.); A full Moon (back: NIGHT. A full Moon rises as the Sun sets, and shines all night with sunlight.) [picture]; A pale half Moon (back: BOTH. A half Moon can often be seen in the afternoon sky, and in the evening too.); Clothes drying in the sunshine (back: DAY. The Sun's heat dries them.); An owl hunting (back: NIGHT. Many owls hunt at night, with their big eyes and sharp ears.) [picture]; A crow warming up on a ledge (back: DAY. Crows sit in the morning sun to get warm.) [picture]; Street lights switched on (back: NIGHT. We switch on lights when the Sun's light is gone.); A shadow on the floor from the window (back: DAY. Sunlight through the window makes the shadow.); Clouds (back: BOTH. Clouds float in the sky by day and by night.); A bat flying (back: NIGHT. Many bats fly out at dusk to find food.) [picture]; Fireflies flashing (back: NIGHT. Fireflies make their own light. We see it best in the dark.)
 - **s1 (1 min)**  
   *Parent does:* Lay out the papers. Read the rules together.  
   *Parent says:* Yellow is for the day sky. Dark is for the night sky. The middle is for things we see in both.  
@@ -190,6 +190,7 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 
 ## Experiments
 ### e1 · Where Do the Stars Go in the Day? The torch star test (22 min)
+- **problem:** A real star is a small light that is very far away. In this test, a torch with one tiny hole stands for a star. A bright window stands for the daytime sky, and a dark room stands for the night sky. We look at the same torch star in both places, to find out where the stars go in the day.
 - **question:** Does a small light still shine in a bright place? Can we see it there?
 - **predict:** We will look at the torch star by a bright window, and then in a dark room. Where will you see it best? Why do you think so?
 - **fair test:** We use the same torch, the same tiny hole and the same thin paper every time. You stand the same distance away, three big steps, every time. Only one thing changes: how bright it is around the star.
@@ -204,12 +205,12 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
   - Note: Many children say the stars go away, go to sleep or switch off. Any answer is fine. The test will answer it.
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. Put the cardboard over the front of the torch. 2. Hold it on with a rubber band or tape. 3. Poke one tiny hole in the middle with a sharp pencil point. 4. Tape one small square of thin paper over the hole. 5. Switch the torch on to check that only a dim dot of light comes out.  
-  *Parent says:* We are making a pretend star. The torch light can only come out of this tiny hole, through a thin paper. That makes one small dim dot of light, like a star.  
+  *Parent says:* We are making a pretend star. The torch light can only come out of this tiny hole, through thin paper. That makes one small dim dot of light, like a star.  
   *Child mode:* Watch the grown-up make the star. Light comes out of one tiny hole.
-  - Note: Push the pencil gently, with the torch lying on a table, away from fingers. The paper makes the dot dim, as real stars are. If the cardboard glows all over, use thicker cardboard or two layers.
+  - Note: Push the pencil gently, with the torch lying on a table, away from fingers. Real stars look small and dim to us because they are so far away. The paper makes the torch dot small and dim in the same way. If the cardboard glows all over, use thicker cardboard or two layers.
 - **s3 (3 min)**  
   *Parent does:* Ask your child to guess. Write or draw the guesses in the table.  
-  *Parent says:* First we will hold the star by the bright window. Then we will take it into the dark bathroom. Where will you see it best? Why do you think so?  
+  *Parent says:* First we will hold the star by the bright window. Then we will take it into a dark room. Where will you see it best? Why do you think so?  
   *Child mode:* Where will you see the star best? By the window, or in the dark? Why?
   - Ask: Why do you think so? (good: It is the same torch, so it will look the same.; It will look brighter in the dark.; In the sunshine it will get lost.)
   - Note: Wait for a guess and a reason. Do not say what will happen.
@@ -218,25 +219,25 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
   *Parent says:* Here is our star, shining. Look at the hole in the cardboard. Can you see the star? Is it bright, faint, or can you not see it at all?  
   *Child mode:* Look at the hole in the cardboard. Can you see the star?
   - Ask: What do you see? (good: I can only just see it.; It is very faint.; I can't see it.)
-  - Note: Stand so the Sun is off to one side, not in your child's view. By a bright window, the dim star should look very faint or vanish. If your child still sees it clearly, tape on another square of paper and look again. Use that same star in the dark room. Let your child walk one step closer and back again.
+  - Note: Stand so the Sun is off to one side, not in your child's view. By a bright window, the dim star should look very faint or vanish. If your child still sees it clearly, tape on another square of paper and look again. Use that same star in the dark room.
 - **s5 (4 min)**  
   *Parent does:* 1. Go into a dark room, such as a bathroom, and shut the door. 2. Switch off the light. 3. Stand three big steps apart again. 4. Switch the star on.  
   *Parent says:* Same torch, same hole, same three steps. Now we are in the dark. Can you see the star now? Is it bright or faint?  
   *Child mode:* Same star, now in the dark. Can you see it? Bright or faint?
   - Ask: What is different now? (good: Now it is bright.; I can see it clearly.; It looks like a real star.)
-  - Note: In the dark, the same dim dot looks bright and sharp. This is the surprise. If you cannot see it in the dark either, take off one square of paper, then look again by the window with the same star. A little light under the door is fine.
+  - Note: In the dark, the same dim dot looks bright and sharp. This is the surprise. If you cannot see it in the dark either, take off one square of paper. Then look again by the window and in the dark room with this brighter star. A little light under the door is fine.
 - **s6 (2 min)**  
   *Parent does:* Keep the star shining. Switch the room light on, then off, then on again. Ask your child to watch the star each time.  
   *Parent says:* I am switching on the room light. Watch the star. Now I am switching it off. What happens to the star?  
   *Child mode:* Watch the star. The room light goes on. Then off. What happens?
   - Ask: Did the torch stop shining when the room light came on? (good: No, it was still on.; It was still shining, but hard to see.)
-  - Note: The room light is like the Sun coming up. The star does not stop shining. The light around it makes it hard to see.
+  - Note: Switching on the room light is like the Sun coming up in the morning. The torch star does not stop shining. The light around it makes the star hard to see.
 - **s7 (2 min)**  
   *Parent does:* Back in the bright room, look at the guesses. Ask your child what they think now, what they saw, and why.  
   *Parent says:* Was the star shining by the window? Why was it hard to see there? So where do you think the real stars are in the daytime?  
   *Child mode:* Was the star shining by the window? Where are the real stars in the day?
   - Ask: Where are the real stars in the day? (good: Still in the sky, shining.; They are there, but the sky is too bright to see them.)
-  - Check: Nila, a girl in Class 1, holds the torch star by a sunny window. Her brother can hardly see it. Why? → **The bright light around it hides the star**
+  - Check: The torch star is held by a sunny window. It is switched on, but it is very hard to see. Why? → **The bright light around it hides the star**
 ### e2 · Sun or Shade: which ice cube melts first? (20 min)
 - **question:** Does an ice cube melt faster in sunshine or in shade?
 - **predict:** One ice cube goes in the sunshine, one in the shade. Which will melt first? Why do you think so?
@@ -269,7 +270,7 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
   *Parent says:* Which ice melted first? Nothing touched it except sunshine. So what did the sunshine bring?  
   *Child mode:* Which ice melted first? What did the sunshine bring?
   - Ask: What did the sunshine bring? (good: Heat.; Warmth from the Sun.; Light and heat.)
-  - Check: Revathi, a girl in Class 1, puts one ice cube in the sunshine and one in the shade. Which melts first? → **The one in the sunshine**
+  - Check: You put one ice cube in the sunshine and one in the shade. Which melts first? → **The one in the sunshine**
 
 ## Activities
 ### a1 · What Is in the Sky Right Now? A window look (8 min)
@@ -291,7 +292,7 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
   *Parent says:* Tonight, what will we see in the sky? Will the Moon be there? Will there be stars?  
   *Child mode:* What will the night sky show?
   - Ask: What will the night sky show? (good: The Moon.; Stars.; Lights on the buildings.)
-  - Note: Don't give answers. The torch star test will help your child find out about the stars.
+  - Note: Do not give answers. Write the guesses down, and check them at the window tonight. The torch star test will help your child find out where the stars are in the day.
 ### a2 · Window Star Count: lights on, lights off (10 min)
 - **safety:** A grown-up stays with your child on the balcony at all times.
 - **record:** Make two rows of tally marks: stars seen with the lights on, and stars seen with the lights off.
@@ -360,7 +361,7 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 
 ## Challenges
 ### c1 · Save the Ice Cube from the Sunshine (if you have a sunny spot) (15 min)
-- **problem:** Kamala, a girl in Class 1, must keep an ice cube in a patch of sunshine. She wants it to last as long as it can. What can she use to help it?
+- **problem:** An ice cube must stay in a patch of sunshine. You want it to last as long as it can. What can you use to help it?
 - **your turn:** Try one idea on one ice cube. Leave the other ice cube with nothing. Which melted slower? Why do you think your idea worked or did not work?
 - **constraints:** The ice cube must stay in the same sunny spot.; Use only things you already have at home.; You may not put it back in the fridge.
 - **general:** People sit in the shade of a tree or an umbrella on hot days.; Shops put cloth or tin sheets over their fronts to make shade.; Many people keep water cool in a clay pot in the shade.
@@ -374,12 +375,12 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
   *Parent does:* Your child sets up their idea on one ice cube, and leaves the other with nothing. Check both after 5 and 10 minutes.  
   *Parent says:* Put your idea on one ice cube. Leave the other one with nothing. Let's check them after five minutes.  
   *Child mode:* Try your idea on one ice cube. Check both after five minutes.
-  - Note: Anything that makes shade will help, because it stops the sunshine from reaching the ice. A steel lid in full sun can get warm itself, which is a good thing to notice.
+  - Note: Anything that makes shade will help, because it stops the sunshine from reaching the ice. A steel lid in full sun gets warm itself, so it may not protect the ice well. Let your child touch the lid and notice this.
 - **s3 (2 min)**  
   *Parent does:* Ask which ice lasted longer and why.  
   *Parent says:* Which ice cube lasted longer? Why did your idea help?  
   *Child mode:* Which lasted longer? Why?
-  - Check: Kamala, a girl in Class 1, puts a cardboard roof over one ice cube in the sunshine. Why does that ice last longer? → **The roof makes shade, so less sunshine reaches the ice**
+  - Check: You put a cardboard roof over one ice cube in the sunshine. Why does that ice last longer? → **The roof makes shade, so less sunshine reaches the ice**
 
 ## Worksheets
 ### Sun, Moon and Stars (core) (core, 10 questions)
@@ -388,7 +389,7 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 2. (odd) Three of these are safe to do in the sun. Which one is not safe? Circle it.  
    Options: Feeling the sunshine on your hand / Drying clothes on a sunny line / Looking straight at the Sun / Sitting in the shade of a tree  
    **Answer:** 2. *Why:* Looking straight at the Sun, even for a moment, can hurt your eyes. The other three are safe.
-3. (mcq) Meena has wet clothes. Where will they dry fastest?  
+3. (mcq) Where will wet clothes dry fastest?  
    Options: On a sunny balcony line / In a shady cupboard / Under the bed  
    **Answer:** On a sunny balcony line. *Why:* The Sun's heat dries clothes. In the sunshine they get more heat, so the water goes into the air faster.
 4. (truefalse) The Moon is a ball of rock that goes round the Earth.  
@@ -397,7 +398,7 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
    **Answer:** A drawing with sunshine on one side and shade on the other, and the child sitting in the shade.. *Why:* A strong drawing shows shade where something blocks the sunlight, and sunshine where it does not.
 6. (match) Draw a line from each sky thing to where its light comes from.  
    **Answer:** The Sun → Its own light; The Moon → Light from the Sun; A star → Its own light. *Why:* The Sun and the stars make their own light. The Moon has none of its own: it shines with sunlight.
-7. (write) Say out loud, and a grown-up writes it down: why was the torch star hard to see by the bright window?  
+7. (write) In the torch star test, why was the torch star hard to see by the bright window? Say it out loud, and a grown-up writes it down.  
    **Answer:** The light all around it was so bright that the small star got lost. The torch was still shining.. *Why:* A strong answer says the torch kept shining, and that the bright light around it hid the star.
 8. (count) Look at this picture of a night sky over a city. Count the stars. Write the number.  
    **Answer:** 4. *Why:* There are 4 stars. In a city, the lights hide most of the faint stars, so we see only a few bright ones.
@@ -413,13 +414,13 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
    **Answer:** [1, 2, 3, 4]. *Why:* First the star was made. It was hard to see in a bright place, and easy to see in the dark. So the torch had been shining all along.
 3. (truefalse) A white cloud can look bright in the day because sunlight falls on it.  
    **Answer:** True. *Why:* True. A cloud makes no light of its own. It looks bright and white because the Sun shines on it.
-4. (write) A friend says, 'The Sun is so far away that it cannot warm me.' What would you tell your friend? Use the ice test. Say it, and a grown-up writes it down.  
+4. (write) A friend says, 'The Sun is so far away that it cannot warm me.' What would you tell your friend? Use the Sun or Shade test, where one ice cube sat in the sunshine and one in the shade. Say it, and a grown-up writes it down.  
    **Answer:** The Sun's light travels all the way here, and it brings heat. In the ice test, nothing touched the ice except sunshine, but the ice in the sunshine melted first.. *Why:* A strong answer uses the ice test as evidence: only sunshine reached the ice, and it melted first, so the sunshine brought heat.
 5. (draw) Draw the Sun, the Moon and the Earth. Draw an arrow to show the Sun's light going to the Moon, and another arrow from the Moon to the Earth.  
    **Answer:** A Sun with an arrow to the Moon, and an arrow from the Moon to the Earth.. *Why:* A strong drawing shows the light starting at the Sun, landing on the Moon, and bouncing on to the Earth.
-6. (mcq) Kavya, a girl in Class 1, counts 3 stars from her balcony with all the lights on. She switches off the lights and waits. What will she most likely see?  
+6. (mcq) You count 3 stars from your balcony with all the lights on. Then you switch off the lights and wait. What will you most likely see?  
    Options: A few more stars / No stars at all / Exactly 3 stars, no more  
-   **Answer:** A few more stars. *Why:* The lights near her made the sky around her a little brighter. With them off, some fainter stars can be seen. They were there all along.
+   **Answer:** A few more stars. *Why:* The lights near you made the sky around you a little brighter. With them off, some fainter stars can be seen. They were there all along.
 7. (odd) Three of these happen because of the Sun's heat. Which one does not? Circle it.  
    Options: Ice melting on a sunny ledge / Wet clothes drying on a sunny balcony / The Moon shining at night / A railing getting warm in the sunshine  
    **Answer:** 2. *Why:* The Moon shines with the Sun's light, not its heat. The other three happen because sunshine brings heat.
@@ -428,7 +429,7 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 9. (write) Why do children in a village far from a town see more stars than children in a big city? Say it, and a grown-up writes it down.  
    **Answer:** The city has many lights, which make the night air glow. That hides the faint stars. In the village the sky is darker, so more stars can be seen.. *Why:* A strong answer says the stars are the same, and the lights around us change how many we can see.
 10. (perspective) Two friends are talking about the stars in the daytime.  
-   **Answer:** Most children agree with Priya and show the torch star test, or tell Arjun about a total eclipse, when stars appear in the day. Arjun's question is still a good one: a scientist asks how we know.. *Why:* A strong answer picks a side and gives evidence. It also says why Arjun's question is fair: we should ask how we know something we cannot see.
+   **Answer:** Most children agree with the first child and show the torch star test, or tell the second child about a total eclipse, when stars appear in the day. The second child's question is still a good one: a scientist asks how we know.. *Why:* A strong answer picks a side and gives evidence. It also says why the second child's question is fair: we should ask how we know something we cannot see.
 
 ## Videos
 - **Night sky time-lapse from 7 PM to 7 AM** (Drew Cotten, 1 min) id `Bbp1-p2FoXU`: Real time-lapse footage of the sky going from evening light to a night full of stars, so a child sees the stars were there all along, hidden by daylight. *Check:* Found by search: "7PM to 7AM Night Sky Stars Timelapse" by Drew Cotten, 1 minute, 5 seconds. A parent may preview it.
@@ -454,10 +455,10 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 6. (mcq) Which of these is safe?  
    Options: Feeling the Sun's warmth on your hand / Looking straight at the Sun for a moment / Looking at the Sun through sunglasses  
    **Answer:** Feeling the Sun's warmth on your hand. *Why:* Feeling the warmth is safe. Looking at the Sun, even for a moment or through sunglasses, can hurt your eyes.
-7. (mcq) Meera's ice cube is in a sunny spot. What will help it last longer?  
+7. (mcq) An ice cube is in a sunny spot. What will help it last longer?  
    Options: Putting a cardboard roof over it to make shade / Moving it closer to the window / Putting it on a black plate in the sun  
    **Answer:** Putting a cardboard roof over it to make shade. *Why:* Shade blocks the sunshine, so less of the Sun's heat reaches the ice.
-8. (mcq) Ravi puts one steel spoon in the sunshine and one in the shade for 10 minutes. Which spoon feels warmer?  
+8. (mcq) One steel spoon is left in the sunshine and one in the shade for 10 minutes. Which spoon feels warmer?  
    Options: The one in the sunshine / The one in the shade / They feel the same  
    **Answer:** The one in the sunshine. *Why:* Sunshine brings heat. The spoon in the sunshine gets more of it.
 9. (mcq) Why is the sky bright in the daytime?  
@@ -486,7 +487,7 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 ## Open questions
 - **How many stars are there?** Our galaxy alone has hundreds of billions of stars, and there are billions of galaxies. Nobody can count them all, and scientists' best guesses still differ.
 - **Is anyone living near another star, looking at our Sun?** Scientists have found thousands of planets going round other stars. Nobody knows yet if any of them has life.
-- **Why does the Sun's outer glow get hotter than the Sun's surface?** The Sun's faint outer glow, the corona, is much hotter than the bright surface below it. Scientists have ideas about why, and spacecraft like Aditya-L1 are studying it, but they do not know for sure yet.
+- **Why is the Sun's outer glow hotter than the Sun's surface?** The Sun's faint outer glow, the corona, is much hotter than the bright surface below it. Scientists have ideas about why, and spacecraft like Aditya-L1 are studying it, but they do not know for sure yet.
 
 ## Questions to ask kids
 - Where is the sunniest spot in our home right now?
@@ -506,10 +507,10 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 - Why did the Moon skip dinner? *The Moon was already full!*
 
 ## Connected maths
-- Kavya, a girl in Class 1, counted 3 stars from her balcony with the lights on. With the lights off she counted 7. How many more stars did she see? **4 more.**. Count on from 3 to 7: 4, 5, 6, 7. That is 4. So she saw 4 more stars once the lights near her were off. Those stars were there all along. (queues `math.addition-subtraction.meaning.L1`)
-- Divya, a girl in Class 1, did the ice test. She looked at both ice cubes every 5 minutes. The sunny one was gone at the 3rd look. The shady one was gone at the 6th look. Which lasted longer? How many more looks did it last? **The shady one, by 3 looks.**. 6 is more than 3, so the shady ice lasted longer. From 3 to 6 is 3 more looks. Each look was 5 minutes apart, so that is 15 more minutes in the shade. (queues `math.number-sense.comparing-ordering.L1`)
-- Tara, the girl in the story, draws a sky pattern: Sun, Moon, star, Sun, Moon, star, Sun, Moon. What comes next? **A star.**. The pattern is Sun, Moon, star, again and again. After Sun and Moon comes a star. (queues `math.patterns.repeating-patterns.L1`)
-- Nila, a girl in Class 1, played the sorting game. She put 5 cards on DAY, 6 on NIGHT and 2 on BOTH. Which pile had the most cards? Nila says, 'So there are more things in the night sky than in the day sky.' Is she right? **NIGHT had the most. But the stars are in the day sky too, just hidden, so the night pile is only what we can see.**. 6 is more than 5 and more than 3, so NIGHT had the most. But the stars card went on NIGHT only because we can see the stars at night. They are in the sky in the day too. (queues `math.data.sorting-and-tallies.L1`)
+- You count 3 stars from your balcony with the lights on. With the lights off you count 7. How many more stars do you see with the lights off? **4 more.**. Count on from 3 to 7: 4, 5, 6, 7. That is 4. So you see 4 more stars once the lights near you are off. Those stars were there all along. (queues `math.addition-subtraction.meaning.L1`)
+- In the ice test, one ice cube sat in the sunshine and one in the shade. You looked at both every 5 minutes. The sunny one was gone at the 3rd look. The shady one was gone at the 6th look. Which lasted longer? How many more looks did it last? **The shady one, by 3 looks.**. 6 is more than 3, so the shady ice lasted longer. From 3 to 6 is 3 more looks. Each look was 5 minutes apart, so that is 15 more minutes in the shade. (queues `math.number-sense.comparing-ordering.L1`)
+- Here is a sky pattern: Sun, Moon, star, Sun, Moon, star, Sun, Moon. What comes next? **A star.**. The pattern is Sun, Moon, star, again and again. After Sun and Moon comes a star. (queues `math.patterns.repeating-patterns.L1`)
+- In the Day Sky or Night Sky card game, 5 cards went on DAY, 6 on NIGHT and 2 on BOTH. Which pile had the most cards? Does that mean there are more things in the night sky than in the day sky? **NIGHT had the most. But the stars are in the day sky too, just hidden, so the night pile is only what we can see.**. 6 is more than 5 and more than 2, so NIGHT had the most. But the stars card went on NIGHT only because we can see the stars at night. They are in the sky in the day too. (queues `math.data.sorting-and-tallies.L1`)
 
 ## Song
 Sun by Day, Stars All Day (sci.sky.L1): Topic-level song for Sun, Moon, stars and planets L1

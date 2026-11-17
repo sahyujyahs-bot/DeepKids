@@ -173,7 +173,7 @@
   {
    "q": "Your breath goes out into the air. Where does it go after that?",
    "kind": "big",
-   "hint": "Think about the wind, and how air moves from place to place."
+   "hint": "Your breath mixes into the air around you. The wind carries that air along, from place to place."
   },
   {
    "q": "Many animals have fur, feathers or thick skin for the weather. Humans have skin and hair too, and also make clothes. Why do you think we need clothes?",
@@ -673,6 +673,7 @@
    "mins": 10,
    "days": 1,
    "context": "In this activity you shine a torch on a toy to make a sharp shadow, like on a sunny day. Then you hold a thin white cloth in front of the torch, like a cloud, and watch the shadow change.",
+   "problem": "On a sunny day, shadows are dark and sharp. On a cloudy day, they are soft and pale. In this activity a torch stands for the Sun, and a thin white cloth stands for a cloud. We look at what the cloth does to the shadow, to find out what a cloud does to sunlight.",
    "materials": [
     {
      "item": "a torch, or the torch on a phone",
@@ -799,7 +800,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Hold up the sweater. Ask which pile it goes on, and what it can't do. Remind your child of the fan test if you have done it.",
+     "do": "Hold up the sweater. Ask which pile it goes on, and which job it cannot do. Remind your child of the fan test if you have done it.",
      "say": "The sweater keeps us warm. But in the fan test, what happened when the fan blew on it? What could we wear on top on a windy day?",
      "kid": "Where does the sweater go? What can you wear on top when it is windy?",
      "ask": [
@@ -1668,7 +1669,7 @@
   },
   "three": {
    "who_am_i": "You are warm all the time, warmer than the air around you. Your body makes that warmth from your food.",
-   "what_is_life": "A living body keeps making warmth and giving it away. The wind takes it, and food makes more.",
+   "what_is_life": "A living body keeps making warmth and giving it away. Wind carries some of that warmth away, and the food you eat helps your body make more.",
    "what_is_this_world": "The same air wraps the whole Earth, and it is always moving. Today's wind in your city will be somewhere else tomorrow."
   },
   "thread": "One layer of air wraps the whole Earth. The same air is a still afternoon in Chennai, a sea breeze in Kochi and a cold wind on a pass in Ladakh. Your warmth goes out into that air, and the wind carries it on. Your breath joins it too. Everything in the world is conscious, the moving air too, in its own way.",
@@ -1706,14 +1707,14 @@
   },
   "ask": [
    "Where does the warmth go, after the wind carries it away from you?",
-   "Is the wind one thing, or a lot of air passing by?",
-   "If you could ask the wind one question, what would you ask?"
+   "Is wind a separate thing, or is it only air that is moving? How do you know?",
+   "On a windy day your bare arm feels cold, but a steel tumbler does not get colder. What does that tell you about what wind does?"
   ],
   "art": "A child sitting cross-legged, holding one hand just above their other arm, with soft warm lines rising from the skin and a small curl of breath blowing between."
  },
  "how_we_found_out": {
   "context": "How did people find out how much the wind cools us? This card tells the true story.",
-  "story": "People in cold places knew that a windy day feels far colder than a still day, even when a thermometer reads the same. Around 1940, two men tested this in Antarctica. Paul Siple was an American explorer. Charles Passel was a scientist on the same expedition. At their camp, Little America III, they filled a plastic tube with about 250 grams of water and hung it outside. They timed how long it took to freeze. They did this about a hundred times, in still air and in strong wind. In strong wind, the water froze much faster, though the thermometer read the same. In 1945 they published their results. These became the 'wind chill' numbers in weather reports. Later, scientists found that a tube of water loses warmth faster than skin does. So in 2001, new numbers were worked out from tests on real people's faces.",
+  "story": "People in cold places knew that a windy day feels far colder than a still day, even when a thermometer reads the same. Around 1940, two men tested this in Antarctica. Paul Siple was an American explorer. Charles Passel was a scientist on the same expedition. At their camp, Little America III, they filled a plastic tube with about 250 grams of water and hung it outside. They timed how long it took to freeze. They did this about a hundred times, in still air and in strong wind. In strong wind, the water froze much faster, though the thermometer read the same. In 1945 they published their results. These became the 'wind chill' numbers in weather reports, which tell how cold the wind makes you feel. Later, scientists found that a tube of water loses warmth faster than skin does. So in 2001, new numbers were worked out from tests on real people's faces.",
   "who": "Paul Siple, an American explorer, and Charles Passel, a scientist on the same expedition to Antarctica",
   "when": "Their tests were around 1940, at Little America III in Antarctica. They published them in 1945. New wind chill numbers came in 2001.",
   "wrong_idea": "The wrong idea was that a thermometer alone tells how cold it is for a body. At the same thermometer reading, water froze much faster in the wind, so wind matters too.",

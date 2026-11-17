@@ -212,6 +212,7 @@
    "mins": 22,
    "days": 1,
    "context": "In this experiment you make a tiny star from a torch and a piece of cardboard. Then you look at it in a bright place and in a dark room, to find out where the stars go in the daytime.",
+   "problem": "A real star is a small light that is very far away. In this test, a torch with one tiny hole stands for a star. A bright window stands for the daytime sky, and a dark room stands for the night sky. We look at the same torch star in both places, to find out where the stars go in the day.",
    "question": "Does a small light still shine in a bright place? Can we see it there?",
    "predict": "We will look at the torch star by a bright window, and then in a dark room. Where will you see it best? Why do you think so?",
    "fair_test": "We use the same torch, the same tiny hole and the same thin paper every time. You stand the same distance away, three big steps, every time. Only one thing changes: how bright it is around the star.",

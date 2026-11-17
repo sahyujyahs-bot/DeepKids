@@ -3,7 +3,7 @@
 
 **Summary.** Sit in front of a fan and your arm feels cold. Yet a steel tumbler in the same wind gets no colder at all. Wind is moving air, and it carries your body's warmth away. Your child tests which clothes stop the fan's wind: a cotton dupatta, a thick woollen sweater, a thin raincoat and a newspaper. Then they learn the four kinds of weather, sunny, rainy, windy and cloudy, and what to wear for each.
 
-**Intro.** *Switch on the fan and hold your bare arm in front of it. It feels cold. Now touch a steel tumbler that has stood in front of the fan for five minutes. Is the tumbler cold too?* Guess first, and say why. Then touch it and find out. If the tumbler is not cold, why did your arm feel cold? In this unit we find out what wind does to a warm body. We test which clothes keep the wind out. And we look at sunny, rainy, windy and cloudy days, and how people all over India dress for each one.
+**Intro.** *Switch on the fan and hold your bare arm in front of it. It feels cold. Now touch a steel tumbler that has stood in front of the fan for five minutes. Is the tumbler cold too?* Guess first whether the steel tumbler in front of the fan is cold, and say why. Then touch it and find out. If the tumbler is not cold, why did your arm feel cold? In this unit we find out what wind does to a warm body. We test which clothes keep the wind out. And we look at sunny, rainy, windy and cloudy days, and how people all over India dress for each one.
 
 ## Learning outcomes
 0. By the end I can name four kinds of weather: sunny, rainy, windy and cloudy.
@@ -31,7 +31,7 @@ Weather changes all the time. A morning can be sunny and the afternoon rainy. It
 ### Wind is moving air, and it carries warmth away · *defined*
 **Definition:** Wind is air moving from one place to another. When moving air passes a warm body, it carries some of the body's warmth away.
 
-Your body is warm. Your skin warms the thin layer of air touching it. In still air, that warm layer stays on you. Wind blows it away and brings new air. So you lose your warmth faster, and you feel cold. This works when the air is cooler than your skin. The steel tumbler is only as warm as the room. It has no extra warmth to lose.
+Your body is warm. Your skin warms the thin layer of air touching it. In still air, that warm layer stays on you. Wind blows it away and brings new air. So you lose your warmth faster, and you feel cold. This happens when the air is cooler than your skin. A steel tumbler in the same wind is only as warm as the room. It has no extra warmth to lose.
 - e.g. A fan feels cool on your skin, but it does not make the room colder.
 - e.g. On a windy beach at Kanyakumari, you can feel cool even when the air is warm.
 - e.g. Wet clothes feel colder in the wind than dry clothes, because the wind dries them and takes warmth from your skin.
@@ -45,7 +45,7 @@ Clouds look soft, like cotton, but they are water. Each drop is much smaller tha
 ### Clothes do a job for each kind of weather · *defined*
 **Definition:** Clothes help our bodies in the weather: they keep off the sun, keep off the rain, keep out the wind, and keep in our warmth.
 
-Each kind of weather needs a different job from clothes. In hot sun, a cap and loose cotton clothes shade you. In rain, a raincoat or umbrella keeps the water off. In cold, a woollen sweater keeps your warmth in. But a sweater has tiny gaps, and wind blows straight through them. So on a cold, windy day, people wear a thin layer that stops wind on top.
+Each kind of weather needs a different job from clothes. In hot sun, a cap and loose cotton clothes shade you. In rain, a raincoat or umbrella keeps the water off. In cold, a woollen sweater keeps your warmth in. But a sweater has tiny gaps, and wind blows straight through them. So on a cold, windy day, people wear a thin layer on top that stops the wind.
 - e.g. Farmers in Kerala used the thoppikkuda, a hat made of palm leaves, shaped like a small umbrella.
 - e.g. Khasi farmers in Meghalaya wear the knup, a rain shield of bamboo and leaves, on their head and back. It leaves both hands free to work.
 - e.g. In Assam, the japi, a wide hat of bamboo and palm leaves, shades farmers from the sun.
@@ -53,18 +53,18 @@ Each kind of weather needs a different job from clothes. In hot sun, a cap and l
 ### Does getting cold give you a cold? · *debated*
 A cold is an illness caused by tiny viruses, which pass from person to person. Getting chilly does not make a virus. But scientists still argue about one thing. Does being chilled make it easier for a virus you already have to make you ill?
 - e.g. In 1968, scientists in the United States put cold viruses into people's noses, and kept some of them in the cold. The chilled people did not get more colds.
-- e.g. In 2005, Ron Eccles and Claire Johnson in Cardiff, Wales, had some people sit with their feet in cold water for 20 minutes. More of them got cold symptoms in the next few days.
+- e.g. In 2005, Ron Eccles and Claire Johnson in Cardiff, Wales, had some people sit with their feet in cold water for 20 minutes. More of them got cold symptoms in the next few days than the people whose feet did not get cold.
 - **Many doctors:** Colds come from viruses, not from cold weather. We catch more colds in winter and in the monsoon because people stay indoors close together, and the viruses pass more easily.
 - **Some scientists, like Ron Eccles:** Chilling the body may make the inside of the nose colder, so it fights viruses less well. So a person who already has a virus may get ill more easily after a chill.
 
 ## Mostly agreed
 - Wind is moving air. *How we know:* We cannot see air, but we see wind move leaves, clothes and kites. A fan blows air, and we feel it on our skin.
-- Wind makes a warm body lose warmth faster, but it does not make the air itself colder. *How we know:* A thermometer in front of a fan reads the same as one in still air in the same room. Water in a wind freezes faster than water in still air at the same cold.
+- Wind makes a warm body lose warmth faster, but it does not make the air itself colder. *How we know:* A thermometer in front of a fan reads the same as one in still air in the same room. Water freezes faster in wind than in still air, even when both are equally cold.
 - Clouds are made of tiny drops of water, or of tiny bits of ice high up. *How we know:* Walking through a cloud on a hill feels like wet mist. Scientists in planes have flown into clouds and caught the drops.
 
 ## How we found out
-**Paul Siple, an American explorer, and Charles Passel, a scientist on the same expedition to Antarctica, Their tests were around 1940, at Little America III in Antarctica. They published them in 1945. New wind chill numbers came in 2001..** People in cold places knew that a windy day feels far colder than a still day, even when a thermometer reads the same. Around 1940, two men tested this in Antarctica. Paul Siple was an American explorer. Charles Passel was a scientist on the same expedition. At their camp, Little America III, they filled a plastic tube with about 250 grams of water and hung it outside. They timed how long it took to freeze. They did this about a hundred times, in still air and in strong wind. In strong wind, the water froze much faster, though the thermometer read the same. In 1945 they published their results. These became the 'wind chill' numbers in weather reports. Later, scientists found that a tube of water loses warmth faster than skin does. So in 2001, new numbers were worked out from tests on real people's faces.  
-*What people believed before:* That a thermometer alone tells how cold it is for a body. At the same thermometer reading, water froze much faster in the wind, so wind matters too.
+**Paul Siple, an American explorer, and Charles Passel, a scientist on the same expedition to Antarctica, Their tests were around 1940, at Little America III in Antarctica. They published them in 1945. New wind chill numbers came in 2001..** People in cold places knew that a windy day feels far colder than a still day, even when a thermometer reads the same. Around 1940, two men tested this in Antarctica. Paul Siple was an American explorer. Charles Passel was a scientist on the same expedition. At their camp, Little America III, they filled a plastic tube with about 250 grams of water and hung it outside. They timed how long it took to freeze. They did this about a hundred times, in still air and in strong wind. In strong wind, the water froze much faster, though the thermometer read the same. In 1945 they published their results. These became the 'wind chill' numbers in weather reports, which tell how cold the wind makes you feel. Later, scientists found that a tube of water loses warmth faster than skin does. So in 2001, new numbers were worked out from tests on real people's faces.  
+*What people believed before:* The wrong idea was that a thermometer alone tells how cold it is for a body. At the same thermometer reading, water froze much faster in the wind, so wind matters too.
 
 ## Challenging perspectives
 - **The thickest clothes keep out the wind best.** (A very common guess, among children and grown-ups; *rejected*)  
@@ -82,7 +82,7 @@ We have felt the fan's wind cool our arm, but not the steel tumbler. Now we ask 
 *Evidence:* In the fan test, a steel tumbler stood in the fan's wind for five minutes. It felt just like a tumbler kept far from the fan. A bare arm in the same wind felt cold within a minute.
 
 - *who am i:* You are warm all the time, warmer than the air around you. Your body makes that warmth from your food.
-- *what is life:* A living body keeps making warmth and giving it away. The wind takes it, and food makes more.
+- *what is life:* A living body keeps making warmth and giving it away. Wind carries some of that warmth away, and the food you eat helps your body make more.
 - *what is this world:* The same air wraps the whole Earth, and it is always moving. Today's wind in your city will be somewhere else tomorrow.
 
 One layer of air wraps the whole Earth. The same air is a still afternoon in Chennai, a sea breeze in Kochi and a cold wind on a pass in Ladakh. Your warmth goes out into that air, and the wind carries it on. Your breath joins it too. Everything in the world is conscious, the moving air too, in its own way.
@@ -94,13 +94,13 @@ One layer of air wraps the whole Earth. The same air is a still afternoon in Che
 - Other view, Most scientists: Most scientists say wind is only air moving from one place to another, pushed by warm and cool places. They say air has no awareness of any kind, and that only living bodies with nerves feel things.
 - Practice, Feel your own warmth (3 min): Hold your hand a finger's width from your cheek. Do not touch. Can you feel warmth? That is your own warmth. Now wave a piece of paper like a fan between your hand and your cheek. What happens? The moving air carried your warmth away.
 - Ask: Where does the warmth go, after the wind carries it away from you?
-- Ask: Is the wind one thing, or a lot of air passing by?
-- Ask: If you could ask the wind one question, what would you ask?
+- Ask: Is wind a separate thing, or is it only air that is moving? How do you know?
+- Ask: On a windy day your bare arm feels cold, but a steel tumbler does not get colder. What does that tell you about what wind does?
 
 ## Deep and big questions
 - *deep:* The fan's wind cooled your arm but not the tumbler. What makes your arm different from the tumbler? (hint: Think about which one was warm to begin with.)
 - *deep:* A cloud is made of water. Why doesn't all that water fall down at once? (hint: Think about how tiny the drops are, and what happens when they join.)
-- *big:* Your breath goes out into the air. Where does it go after that? (hint: Think about the wind, and how air moves from place to place.)
+- *big:* Your breath goes out into the air. Where does it go after that? (hint: Your breath mixes into the air around you. The wind carries that air along, from place to place.)
 - *big:* Many animals have fur, feathers or thick skin for the weather. Humans have skin and hair too, and also make clothes. Why do you think we need clothes? (hint: Think about what a crow does in the rain, and what you do.)
 
 ## Story: Appa's Sweater on the Windy Hill
@@ -193,23 +193,23 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
   *Child mode:* Hold your arm in the wind. Will the tumbler get cold too? Which cloth will stop the wind? Why?
   - Ask: Will the tumbler in the wind get cold? Why? (good: Yes, because the wind is cold.; No, because the fan doesn't make cold.)
   - Ask: Which cloth will stop the wind best? Why? (good: The sweater, because it is thickest.; The raincoat, because water can't get through it.)
-  - Note: Most children guess the tumbler will get cold, and that the thick sweater will stop the wind. Write the guesses down. Don't say what will happen. With only a ceiling fan, stand under it. Hold each cloth flat like a roof, and hang the strip just under its middle.
+  - Note: Most children guess the tumbler will get cold, and that the thick sweater will stop the wind. Write the guesses down. Don't say what will happen. If you only have a ceiling fan, stand under it. Hold each cloth flat like a roof, and hang the strip just under its middle.
 - **s3 (2 min)**  
-  *Parent does:* After five minutes, ask your child to touch the tumbler in the wind, then the tumbler far away. Then hold a hand in the wind again.  
+  *Parent does:* After five minutes, ask your child to touch the tumbler in the wind, then the tumbler far away. Then ask your child to hold a hand in the fan's wind again.  
   *Parent says:* Touch the tumbler from the fan. Now touch the one from far away. Is one colder? Now put your hand in the wind. How does it feel?  
   *Child mode:* Touch both tumblers. Is one colder? Now feel the wind on your hand.
   - Ask: Did the wind make the tumbler colder? (good: No, they feel the same.; No, but my hand feels cold in the wind.)
   - Note: Both tumblers feel the same, a little cool, as steel always does. That is the surprise. The fan cools your hand because your hand is warmer than the air.
   - Check: The tumbler sat in the fan's wind for five minutes. How did it feel? → **The same as the other tumbler**
 - **s4 (4 min) · grown-up needed**  
-  *Parent does:* 1. The grown-up holds each cloth flat, one arm's length in front of the fan. 2. Your child holds the strip just behind the middle of the cloth. 3. Try nothing, the dupatta, the sweater, the raincoat and the newspaper, in turn.  
+  *Parent does:* 1. The grown-up holds each cloth flat, one arm's length in front of the fan. 2. Your child holds the strip just behind the middle of the cloth. 3. Test with no cloth first, then the dupatta, the sweater, the raincoat and the newspaper, one at a time.  
   *Parent says:* Hold the strip just behind the cloth. Watch it. Does it fly, wave a little, or hang still?  
   *Child mode:* Hold the strip just behind the cloth. Does it fly? Or hang still?
   - Ask: What did the strip do behind the sweater? (good: It still moved.; It waved, so wind came through.)
-  - Ask: What did it do behind the raincoat? (good: It hung still.; No wind came through.)
-  - Note: Hold the cloth bigger than the strip, so wind does not curl round the edge. If the strip twitches a little behind the raincoat, that is air curling round the edges. Compare it with the sweater.
+  - Ask: What did the strip do behind the raincoat? (good: It hung still.; No wind came through.)
+  - Note: The cloth must be wider than the paper strip, so wind does not curl round the edge. If the strip twitches a little behind the raincoat, that is air curling round the edges. Compare it with how much the strip moved behind the sweater.
 - **s5 (2 min)**  
-  *Parent does:* 1. Your child puts on the sweater and holds that arm in the wind. 2. Then the grown-up wraps the raincoat or plastic sheet over the sweater sleeve. 3. Hold the arm in the wind again.  
+  *Parent does:* 1. Your child puts on the sweater and holds one arm in the fan's wind. 2. Then the grown-up wraps the raincoat or plastic sheet over the sweater sleeve. 3. Your child holds the same arm in the wind again.  
   *Parent says:* Feel the wind through the sweater. Now we put the raincoat over the top. What changed? Why did wind go through the sweater but not the raincoat?  
   *Child mode:* Feel the wind through your sweater. Now cover it with the raincoat. What changed? Why?
   - Ask: Why did your arm feel warmer with the raincoat on top? (good: The raincoat stopped the wind.; The wind couldn't take my warmth away.)
@@ -230,6 +230,7 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
   *Child mode:* Look outside. Is it sunny, rainy, windy or cloudy? Were your clues right?
   - Note: Sometimes it is two at once, like sunny and windy. That is fine. Let your child say both.
 ### a2 · A Cloud for the Torch: why are shadows soft on a cloudy day? (10 min)
+- **problem:** On a sunny day, shadows are dark and sharp. On a cloudy day, they are soft and pale. In this activity a torch stands for the Sun, and a thin white cloth stands for a cloud. We look at what the cloth does to the shadow, to find out what a cloud does to sunlight.
 - **record:** Draw the sharp shadow and the soft shadow side by side.
 - **s1 (4 min)**  
   *Parent does:* 1. Dim the room. 2. Stand the toy a hand-length in front of the white wall. 3. Shine the torch on the toy from about one arm's length away.  
@@ -249,21 +250,21 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 ### a3 · Sort the Cupboard: clothes for each weather (12 min)
 - **record:** Draw one thing from each pile.
 - **s1 (8 min)**  
-  *Parent does:* Lay out the four papers. Your child picks one thing at a time, puts it on a paper, and says its job.  
+  *Parent does:* Lay out the four papers, one for each pile: sun, rain, wind and cold. Your child picks one thing at a time, puts it on a paper, and says its job.  
   *Parent says:* Which weather is this for? What job does it do? Does it keep off the sun, the rain or the wind, or keep warmth in?  
   *Child mode:* Pick a thing. Which weather is it for? What job does it do?
   - Ask: What job does a cap do? (good: It shades my head from the sun.; It keeps the sun out of my eyes.)
   - Note: Some things fit two piles. A raincoat works in rain and in wind. Let your child put it between the two papers and say why.
 - **s2 (4 min)**  
-  *Parent does:* Hold up the sweater. Ask which pile it goes on, and what it can't do. Remind your child of the fan test if you have done it.  
-  *Parent says:* The sweater keeps us warm. But what happened when the fan blew on it? What could we wear on top on a windy day?  
+  *Parent does:* Hold up the sweater. Ask which pile it goes on, and which job it cannot do. Remind your child of the fan test if you have done it.  
+  *Parent says:* The sweater keeps us warm. But in the fan test, what happened when the fan blew on it? What could we wear on top on a windy day?  
   *Child mode:* Where does the sweater go? What can you wear on top when it is windy?
   - Ask: What can we wear over a sweater on a windy day? (good: A raincoat.; A jacket with no holes.)
 
 ## Projects
 ### p1 · Dress the Window Doll: five mornings (30 min, 5 days)
 - **record:** A chart with five boxes, one for each morning, with a weather picture in each.
-- **schedule:** day 1: Make the doll and clothes: a cap, a cotton dress or shirt, a raincoat, a sweater and a jacket. Dress the doll for today. (12 min); day 2: Look out. Dress the doll. Draw today's weather picture on the chart. (3 min); day 3: Look out. Dress the doll. Draw today's weather picture. (3 min); day 4: Look out. Dress the doll. Draw today's weather picture. (3 min); day 5: Dress the doll. Count each kind of weather on the chart. (9 min)
+- **schedule:** day 1: Make the doll and clothes: a cap, a cotton dress or shirt, a raincoat, a sweater and a jacket. Dress the doll for today. (12 min); day 2: Look out of the window. Dress the doll. Draw today's weather picture on the chart. (3 min); day 3: Look out of the window. Dress the doll. Draw today's weather picture on the chart. (3 min); day 4: Look out of the window. Dress the doll. Draw today's weather picture on the chart. (3 min); day 5: Dress the doll. Count each kind of weather on the chart. (9 min)
 - **s1 (12 min)**  
   *Parent does:* 1. Draw and cut out a doll from card. 2. Draw and cut out a cap, a cotton dress or shirt, a raincoat, a sweater and a jacket. 3. Give the doll a name. 4. Draw a chart with five boxes. 5. Dress the doll for today and draw today's weather in box 1.  
   *Parent says:* This doll will live by our window. Every morning we will dress her for the weather. What clothes will she need?  
@@ -273,7 +274,7 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 - **s2 (9 min)**  
   *Parent does:* Each morning, look out of the window together. Your child says the weather, dresses the doll and draws a weather picture in that day's box.  
   *Parent says:* What is the weather this morning? What will the doll wear? Why?  
-  *Child mode:* Look out. What is the weather? Dress the doll. Draw the weather.
+  *Child mode:* Look out of the window. What is the weather? Dress the doll. Draw the weather.
   - Note: If the weather is mixed, let your child draw both, like a sun behind a cloud.
   - Wait: Come back each morning on days 2, 3 and 4.
 - **s3 (9 min)**  
@@ -310,10 +311,10 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 ### Sun, Rain, Wind and Clouds (core) (core, 10 questions)
 1. (match) Draw a line from each weather to its picture.  
    **Answer:** Sunny → A bright sun and a dark, sharp shadow; Rainy → Drops falling and a puddle; Windy → A tree bending and clothes flapping; Cloudy → A grey sky and a soft shadow. *Why:* Each weather has its own clues. A sharp shadow means sun. A bending tree means wind.
-2. (mcq) Remember the fan test? One tumbler stood in the fan's wind for five minutes. How did it feel next to the other tumbler?  
+2. (mcq) In the fan test, one steel tumbler stood in the fan's wind for five minutes. The other tumbler was kept far from the fan. How did the tumbler from the wind feel next to the other one?  
    Options: Much colder / The same / Wet  
    **Answer:** The same. *Why:* The fan moves air but does not make it colder. The tumbler was as warm as the room, so it had no extra warmth to lose.
-3. (draw) Draw the paper strip behind the sweater, and behind the raincoat. Show what each strip did.  
+3. (draw) In the fan test, you held a paper strip behind each cloth. Draw the strip behind the sweater, and the strip behind the raincoat. Show what each strip did.  
    **Answer:** Behind the sweater, the strip waves or flies. Behind the raincoat, the strip hangs straight down.. *Why:* A strong drawing shows the difference: wind came through the sweater's tiny gaps, but not through the raincoat.
 4. (sort) Circle the things that let wind through. Put a box round the things that stop it.  
    **Answer:** a woollen sweater → Lets wind through; a raincoat → Stops wind; a thin dupatta → Lets wind through; a sheet of newspaper → Stops wind; a cotton T-shirt → Lets wind through; a plastic sheet → Stops wind. *Why:* Cloth made of threads has tiny gaps, so wind gets through. Plastic and paper sheets have no gaps.
@@ -328,17 +329,17 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
    **Answer:** 2. *Why:* A woollen shawl soaks up water. A raincoat, an umbrella and a knup all keep the rain off.
 9. (draw) Draw yourself dressed for a hot, sunny day in May.  
    **Answer:** A drawing with a cap or hat and light, loose clothes, maybe in the shade.. *Why:* A strong drawing shows something to shade the head, and light clothes that let sweat dry.
-10. (perspective) Two friends in Bengaluru are going up a cold, windy hill.  
-   **Answer:** Farhan will be warmer in the wind, because the raincoat stops the wind. But Divya is right that a thick sweater keeps warmth in well on a still day.. *Why:* A strong answer uses the fan test: wind went through the sweater but not the raincoat. It is also fair to Divya: wool is good at keeping warmth in.
+10. (perspective) Two friends are going up a cold, windy hill.  
+   **Answer:** The second friend will be warmer in the wind, because the raincoat stops the wind. But the first friend is right that a thick sweater keeps warmth in well on a still day.. *Why:* A strong answer uses the fan test: wind went through the sweater but not the raincoat. It is also fair to the first friend: wool is good at keeping warmth in.
 ### Wind, Warmth and Clouds (stretch) (stretch, 10 questions)
-1. (mcq) A bus is racing along in the wind. Nandini, a girl in Kolkata, sits at the window in a dry shirt. Her friend sits beside her in a wet shirt. Who feels colder?  
-   Options: Nandini, in the dry shirt / Her friend, in the wet shirt / Both the same  
-   **Answer:** Her friend, in the wet shirt. *Why:* The wind dries the water in the shirt, and drying takes warmth from the skin. That is why wet clothes feel cold in the wind.
+1. (mcq) A bus is racing along in the wind. Two children sit at the window. One wears a dry shirt. The other wears a wet shirt. Who feels colder?  
+   Options: The child in the dry shirt / The child in the wet shirt / Both the same  
+   **Answer:** The child in the wet shirt. *Why:* The wind dries the water in the shirt, and drying takes warmth from the skin. That is why wet clothes feel cold in the wind.
 2. (write) In the fan test, why did we hold every cloth at the same place, one arm's length from the fan? Say it to a grown-up, who writes it down.  
    **Answer:** So that only the cloth is different. If one cloth were closer to the fan, it could look different only because of where it was.. *Why:* A strong answer says that only one thing should change in a fair test.
 3. (order) Put the pictures in order, from first to last.  
    **Answer:** ['A cloud of tiny drops floats in the sky', 'The tiny drops join and grow bigger', 'Big drops fall as rain']. *Why:* Cloud drops are too small to fall. When they join into bigger, heavier drops, they fall as rain.
-4. (mcq) Remember the torch and the white cloth? What did the cloth do to the toy's shadow?  
+4. (mcq) In A Cloud for the Torch, you held a thin white cloth in front of the torch. What did the cloth do to the toy's shadow?  
    Options: Made it sharper / Made it soft and pale / Made it red  
    **Answer:** Made it soft and pale. *Why:* The cloth spread out the torch's light, like a cloud spreads sunlight. So the shadow went soft.
 5. (draw) Draw a windy day. Show three things that the wind is moving.  
@@ -349,7 +350,7 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
    **Answer:** Knup, of bamboo and leaves → Meghalaya; Thoppikkuda, a palm-leaf hat → Kerala; Japi, a wide bamboo hat → Assam. *Why:* People all over India made clever hats and shields from plants that grow near them.
 8. (label) Here is the fan test. Colour the fan yellow, the paper strip green and the cloth purple.  
    **Answer:** The fan is yellow, the paper strip behind the cloth is green and the cloth held in front is purple.. *Why:* The fan makes the wind, the cloth is tested, and the strip shows if wind came through.
-9. (write) Kavya, a girl in Class 1, says: 'My sweater is so thick, no wind can get through it.' What would you tell Kavya? Say it to a grown-up, who writes it down.  
+9. (write) Someone says: 'My sweater is so thick, no wind can get through it.' What would you tell them? Say it to a grown-up, who writes it down.  
    **Answer:** In the fan test, wind came through the thick sweater. It has tiny gaps between the wool. A thin raincoat on top would stop the wind.. *Why:* A strong answer uses the evidence from the test, not only an opinion, and suggests what would work.
 10. (odd) Which one tells you it is windy?  
    Options: A sharp shadow / A puddle / Clothes flapping on the line / A grey sky  
@@ -379,18 +380,18 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 6. (mcq) What is a cloud made of?  
    Options: Cotton / Tiny drops of water / Smoke from fires  
    **Answer:** Tiny drops of water. *Why:* A cloud is millions of tiny water drops floating in the air. It only looks like cotton.
-7. (mcq) Lakshmi is going out in the hot May sun in Madurai. What should she wear?  
+7. (mcq) You are going out in the hot May sun. What should you wear?  
    Options: A thick sweater / A cap and loose cotton clothes / A raincoat  
-   **Answer:** A cap and loose cotton clothes. *Why:* A cap shades her head, and loose cotton lets her sweat dry and cool her.
-8. (mcq) It is cold and windy on a hill. What should Anjali wear?  
+   **Answer:** A cap and loose cotton clothes. *Why:* A cap shades your head, and loose cotton lets your sweat dry and cool you.
+8. (mcq) It is cold and windy on a hill. What should you wear?  
    Options: Only a cotton shirt / A sweater with a jacket on top / Only a cap  
-   **Answer:** A sweater with a jacket on top. *Why:* The sweater keeps her warmth in. The jacket on top stops the wind blowing it away.
+   **Answer:** A sweater with a jacket on top. *Why:* The sweater keeps your warmth in. The jacket on top stops the wind blowing it away.
 9. (mcq) What are shadows like on a cloudy day?  
    Options: Soft and pale / Sharp and dark / Blue  
    **Answer:** Soft and pale. *Why:* Clouds spread out the Sun's light, so shadows go soft and pale.
-10. (mcq) Rani guessed the sweater would stop the wind. In the test, wind came through it. What should Rani do?  
-   Options: Say the test was wrong / Change her idea to fit what she saw / Never test again  
-   **Answer:** Change her idea to fit what she saw. *Why:* A good scientist changes her idea when the test shows something new. A wrong guess helps you learn.
+10. (mcq) You guessed the sweater would stop the wind. In the fan test, wind came through it. What should you do?  
+   Options: Say the test was wrong / Change your idea to fit what you saw / Never test again  
+   **Answer:** Change your idea to fit what you saw. *Why:* A good scientist changes her idea when the test shows something new. A wrong guess helps you learn.
 
 ## Applications
 - People on cold, windy hills wear a windproof jacket over their woollens.
@@ -428,8 +429,8 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 - What is a cloud's favourite game? *Hide and seek with the Sun!*
 
 ## Connected maths
-- Meera dressed her window doll for five mornings. 3 mornings were sunny and 2 were rainy. Were there more sunny mornings or rainy mornings? How many more? **More sunny mornings. There was 1 more sunny morning than rainy mornings.**. 3 sunny and 2 rainy. 3 is more than 2. 3 take away 2 is 1. (queues `math.number-sense.comparing-ordering.L1`)
-- In the fan test, Priya tested 5 things. The paper strip moved behind 3 of them. Behind how many did it hang still? **2 things. The strip hung still behind 2 things, the raincoat and the newspaper.**. 5 things take away the 3 where the strip moved leaves 2. (queues `math.addition-subtraction.word-problems.L1`)
+- A window doll was dressed for five mornings. 3 mornings were sunny and 2 were rainy. Were there more sunny mornings or rainy mornings? How many more? **More sunny mornings. There was 1 more sunny morning than rainy mornings.**. 3 sunny and 2 rainy. 3 is more than 2. 3 take away 2 is 1. (queues `math.number-sense.comparing-ordering.L1`)
+- In the fan test, 5 things were tested. The paper strip moved behind 3 of them. Behind how many did it hang still? **2 things. The strip hung still behind 2 things, the raincoat and the newspaper.**. 5 things take away the 3 where the strip moved leaves 2. (queues `math.addition-subtraction.word-problems.L1`)
 - Sort these 8 weather pictures and make a tally: sun, sun, rain, cloud, sun, rain, sun, cloud. How many of each? **Sun: 4. Rain: 2. Cloud: 2. That makes 8 in all.**. Make one tally mark for each picture under its kind. Count the marks. 4 + 2 + 2 = 8, which checks we counted every picture. (queues `math.data.sorting-and-tallies.L1`)
 - In Kochi in July, it rains on most days. Is it likely or unlikely that it will rain tomorrow in Kochi? **Likely. Rain comes on most July days in Kochi, but not on every one.**. Something that happens on most days is likely, but not certain. So it will probably rain, and it might not. (queues `math.probability.likely-and-unlikely.L1`)
 

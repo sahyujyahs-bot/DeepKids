@@ -651,6 +651,7 @@
    "mins": 25,
    "days": 1,
    "context": "In this experiment you put droopy picked mint, a dry tej patta and a paper leaf into water. Then you wait one hour and see which ones change. This tells us if picked mint is still alive.",
+   "problem": "A leaf that is alive takes in water and goes firm. A leaf that is not alive cannot do this. So if droopy picked mint stands up in water, the living parts inside it are still working. We test a dry tej patta and a paper leaf too, because they are not alive now, and we want to compare.",
    "question": "Is mint that was picked from the plant still alive? What happens to droopy mint, a dry leaf and a paper leaf in water?",
    "predict": "Guess first. Which ones will stand up in water: the droopy mint, the dry tej patta, or the paper leaf? Why do you think so?",
    "fair_test": "Each thing gets the same cup and the same water, for the same time. One droopy mint sprig stays on a dry plate, so we can see what water does.",
@@ -710,7 +711,7 @@
        ]
       }
      ],
-     "parent": "The mint should be floppy but still green, not dry and crisp. If it is still firm after three hours, leave it longer. In a cool room it can take half a day to droop. Coriander or palak leaves work too if you have no mint. Paper is made from wood, so it was once alive too. That is fine: it is now a flat sheet, not a leaf."
+     "parent": "The mint should be floppy but still green, not dry and crisp. If it is still firm after three hours, leave it longer. In a cool room it can take half a day to droop. Coriander or palak leaves work too if you have no mint. Paper is made from wood, so it was once alive too. But it is now only a flat sheet, so it cannot take in water the way a leaf does."
     },
     {
      "id": "s2",
@@ -741,7 +742,7 @@
      "id": "s4",
      "mins": 1,
      "do": "Leave the cups for one hour. Play Wiggle, Sit or Statue while you wait.",
-     "say": "Now we wait one hour. Living things need time.",
+     "say": "Now we wait one hour. Water takes some time to move into a leaf.",
      "kid": "Now we wait one hour.",
      "wait": "Leave the cups for one hour."
     },
@@ -929,6 +930,7 @@
    "mins": 5,
    "days": 1,
    "context": "In this activity you breathe out on a cool steel plate and see a cloudy patch. Then you test a doll or a toy. Breathing is a sign of life.",
+   "problem": "The air you breathe out is warm and wet. On a cool plate, the wet part makes a cloudy patch. So a cloudy patch shows that someone is breathing out. We try the plate near you and near a doll, to see which one breathes.",
    "materials": [
     {
      "item": "a steel plate chilled in the fridge for ten minutes and wiped dry, or a clean mirror",
@@ -2041,7 +2043,7 @@
   {
    "problem": "Kitchen things were sorted onto three plates. The alive plate had 2 things. The once alive plate had 4 things. The never alive plate had 3 things. Which plate had the most?",
    "answer": "The once alive plate had the most, with 4 things.",
-   "explain": "2, 4 and 3. 4 is bigger than 3, and 3 is bigger than 2. So the once alive plate had the most. Many kitchen things come from plants and animals.",
+   "explain": "The plates had 2, 4 and 3 things. 4 is bigger than 3, and 3 is bigger than 2. So the once alive plate had the most. Many kitchen things come from plants and animals.",
    "math_unit": "math.number-sense.comparing-ordering.L1",
    "how": "a1",
    "context": "This is about the Three Plates activity, where you sorted kitchen things into alive, once alive and never alive.",
@@ -2223,7 +2225,7 @@
   "three": {
    "who_am_i": "You are alive. You eat, grow, move and breathe every day, even while you sleep.",
    "what_is_life": "Being alive is something a body keeps doing: taking in water and food, growing and having young. The picked mint kept taking in water for days.",
-   "what_is_this_world": "Many things around us were once alive: the wooden spoon, the cotton shirt, the paper in your book. Living things become part of the world around them."
+   "what_is_this_world": "Many things around us were once alive: the wooden spoon, the cotton shirt, the paper in your book. A tree gives wood, and a cotton plant gives cotton. So a living thing can become part of the things we use every day."
   },
   "thread": "The mint, the snail, the crow and you are all alive, each in their own way. All life on Earth comes from other life, going back a very long time. The wooden spoon and the paper were part of that life once. Everything is conscious, and every living thing feels and acts in their own way. The mint feels the water, and takes it in.",
   "teachings": [

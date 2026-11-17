@@ -1,7 +1,7 @@
 # Where sounds come from, and what makes them loud or soft
 `sci.sound.sources-of-sound.L1`
 
-**Summary.** A closed bottle of rice sits on the table in silence. Shake it, and it rattles. Every sound comes from something moving: hands clapping, rain hitting a window, a crow calling, steam rushing out of a pressure cooker. The thing that makes a sound is called its sound source. Your child hunts for sound sources at home, tests which home-made shaker is loudest, and finds that a harder shake or a harder hit makes a louder sound.
+**Summary.** A closed bottle of rice sits on the table in silence. Shake it, and it rattles. Every sound comes from something moving: hands clapping, rain hitting a window, a crow calling, steam rushing out of a pressure cooker. The thing that makes a sound is called its sound source. Your child hunts for sound sources at home and tests which home-made shaker is loudest. They find that a harder shake or a harder hit makes a louder sound.
 
 **Intro.** *Close your eyes. Sit very still and listen for one whole minute. How many sounds can you hear? What is making each one?* Even a quiet room is full of sounds: the fan, a bird outside, a scooter in the street, your own breathing. Every one of those sounds is made by something that is moving. In this unit you hunt for the things that make sounds. You also find out what makes a sound loud, and what makes it soft.
 
@@ -24,7 +24,7 @@
 ### Every sound has a source · *defined*
 **Definition:** A sound source is the thing that makes a sound.
 
-In the listening minute, every sound you heard came from somewhere. The whirr came from the fan. The caw came from a crow. The honk came from a scooter. Each of these is a sound source. Sometimes you can see the source, like a hand that claps. Sometimes it is hidden, like a neighbour's mixie behind a wall. Then you can find it by following the sound. As you walk towards the source, the sound gets louder.
+In One Minute of Listening, every sound you heard came from somewhere. The whirr came from the fan. The caw came from a crow. The honk came from a scooter. Each of these is a sound source. Sometimes you can see the source, like a hand that claps. Sometimes it is hidden, like a neighbour's mixie behind a wall. Then you can find it by following the sound. As you walk towards the source, the sound gets louder.
 - e.g. A ceiling fan whirring
 - e.g. A crow cawing at the window
 - e.g. A neighbour's mixie behind the wall
@@ -32,7 +32,7 @@ In the listening minute, every sound you heard came from somewhere. The whirr ca
 ### A sound comes from something moving · *defined*
 **Definition:** Every sound is made by something moving. When it stops moving, its sound stops.
 
-In the Shaker Test, the bottles were silent while they sat on the table. When you shook them, the chana and the rice hit each other and the sides of the bottle, and you heard a rattle. Your hands make a clap only when they move and meet. Rain makes a sound when the drops hit the window. A crow calls by pushing air out from deep in the chest. Some moving is too small and too fast to see. Inside a phone, a tiny part moves back and forth very fast to make the sound you hear. In Class 3 you will learn the word for this fast shaking: vibrate.
+In the Shaker Test, the bottles were silent while they sat on the table. When you shook them, the chana and the rice hit each other and the sides of the bottle, and you heard a rattle. Your hands make a clap only when they move and meet. Rain makes a sound when the drops hit the window. A crow calls by pushing air out from deep in her chest. Some moving is too small and too fast to see. Inside a phone, a tiny part moves back and forth very fast to make the sound you hear. Scientists say that a thing shaking back and forth this fast is vibrating. You will learn more about vibrating in Class 3.
 - e.g. Chana hitting the inside of a bottle
 - e.g. Two hands clapping
 - e.g. Raindrops hitting a window
@@ -40,7 +40,7 @@ In the Shaker Test, the bottles were silent while they sat on the table. When yo
 ### Loud and soft sounds · *defined*
 **Definition:** A loud sound is a big sound, and a soft sound is a small one. The harder something hits, shakes or blows, the louder its sound.
 
-In the Shaker Test, a gentle shake made a soft rattle. A hard shake made a loud one. The same bottle can make a loud sound or a soft sound, depending on how hard you shake it. What hits matters too. Hard chana made a loud rattle. Soft cotton made almost no sound. And what it lands on matters. A spoon dropped on the bare floor goes clang. The same spoon dropped on a pillow makes almost no sound. A sound also gets softer as you move away from its source.
+In the Shaker Test, a gentle shake made a soft rattle. A hard shake made a loud one. The same bottle can make a loud sound or a soft sound, depending on how hard you shake it. What hits matters too. Hard chana made a loud rattle. Soft cotton made almost no sound. What a thing lands on matters as well. A spoon dropped on the bare floor goes clang. The same spoon dropped on a pillow makes almost no sound. A sound also gets softer as you move away from its source.
 - e.g. Shaking the chana bottle hard, then gently
 - e.g. A whisper and a shout
 - e.g. A spoon landing on the floor and on a pillow
@@ -90,23 +90,23 @@ In many Indian cities, crows, mynas, bulbuls and koels are loudest around sunris
 ## Roots
 We have shaken bottles, dropped spoons and listened with our eyes closed. Now we ask what sounds tell us about the world, and about ourselves.
 
-**Deep truth.** Your bottle of chana made no sound while it sat still. Shake it, and it rattled at once. Every sound you found came from something moving. So whenever you hear a sound, something somewhere is moving right now.  
+**Deep truth.** In the Shaker Test, the bottle of chana made no sound while it sat still. When you shook it, it rattled at once. Every sound you found came from something moving. So whenever you hear a sound, something somewhere is moving right now.  
 *Habit it breaks:* We talk as if a sound belongs to a thing, as in 'the bell's ring'. Yet a still bell is silent. A sound comes from something happening: a moment when something moves.  
-*Evidence:* In the Shaker Test, every shaker was silent on the table and rattled only while it was shaken. In the listening minute and in Sound Detective, each sound led back to something moving: a fan, a bird, keys, paper, water.
+*Evidence:* In the Shaker Test, every shaker was silent on the table and rattled only while it was shaken. In One Minute of Listening and in Sound Detective, each sound led back to something moving: a fan, a bird, keys, paper, water.
 
 - *who am i:* You are a sound source too. When you talk, sing or clap, part of you moves, and other people hear it.
 - *what is life:* Many living beings make sounds to find each other: a calf calling her mother, crows warning their family, crickets chirping at night.
 - *what is this world:* The world is always moving, so it is full of sounds: wind, rain, waves, birds and traffic. Even a quiet room has a fan or a fridge moving.
 
-Your still hands made no sound, and your moving hands did. The chana, the bell and the crow were the same: each sound came from something moving. Everything that moves is aware in its own way, the chana and the bottle too. Many scientists disagree: they say only beings with nerves are aware.
+In Still hands, moving hands, your still hands made no sound, and your moving hands did. The chana, the bell and the crow were the same: each sound came from something moving. Everything that moves is aware in its own way, the chana and the bottle too. Many scientists disagree: they say only beings with nerves are aware.
 
-- **Hakuin Ekaku, a Zen teacher in Japan (1686 to 1769), who gave this question to his students:** Two hands clap, and there is a sound. What is the sound of one hand? (In the Body Band, a clap came only when two hands moved and met. Hakuin asked this question to make his students stop and listen deeply. It has no quick answer.)
-- **Hatha Yoga Pradipika, chapter 4, on listening to nada, the inner sound:** Sit still and listen closely. The text says the sounds you hear at first are loud, like the sea or drums. As you keep listening, they grow finer, like a flute or a humming bee. (In the listening minute, you heard the loud sounds first. The longer you stayed still, the more soft sounds you noticed.)
+- **Hakuin Ekaku, a Zen teacher in Japan (1686 to 1769), who gave this question to his students:** Two hands clap, and there is a sound. What is the sound of one hand? (In My Body Band, a clap came only when two hands moved and met. Hakuin asked this question to make his students stop and listen deeply. It has no quick answer.)
+- **Hatha Yoga Pradipika, chapter 4, on listening to nada, the inner sound:** Sit still and listen closely. The text says the sounds you hear at first are loud, like the sea or drums. As you keep listening, they grow finer, like a flute or a humming bee. (In One Minute of Listening, you heard the loud sounds first. The longer you stayed still, the more soft sounds you noticed.)
 - Science (settled): Every sound is made by something moving back and forth. When the movement stops, the sound stops.
 - Science (settled): Many animals make sounds that people rarely notice, like fish drumming underwater.
 - Other view, Many scientists today: They say chana, bottles and bells are not aware of anything. To them, a sound is only moving things pushing on the air. They think awareness belongs to living beings with nerves or brains.
-- Practice, Still hands, moving hands (3 min): Sit comfortably and close your eyes. Hold your hands still in your lap. Can you hear them? Now rub your palms together very slowly. Listen. Now rub them fast. Is the sound louder? Now stop, and hold your hands still again. Listen to the quiet. Where did the sound go?
-- Ask: Your still hands made no sound, and your rubbing hands did. Was the sound in your hands, or in the rubbing?
+- Practice, Still hands, moving hands (3 min): Sit comfortably and close your eyes. Hold your hands still in your lap. Can you hear them? Now rub your palms together very slowly. Listen. Now rub them fast. Is the sound louder? Now stop, and hold your hands still again. Listen to the quiet. Did the sound stop by itself, or only when your hands stopped moving?
+- Ask: In Still hands, moving hands, your still hands made no sound, and your rubbing hands did. Was the sound in your hands, or in the rubbing?
 - Ask: If everything in the world stopped moving, what would you hear?
 - Ask: When you hear a crow, you know a crow is there and calling. What else can a sound tell you?
 
@@ -187,7 +187,7 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
 
 ## Games
 ### g1 · Sound Detective: what made that sound? (12 min)
-- **rules:** Shuffle the cards and put them in a pile, front side down. Choose a detective and a sound maker.; The sound maker turns over the top card and reads the front quietly. If the sound maker cannot read yet, the grown-up whispers it to them.; Then the detective sits with their back turned and eyes closed.; The sound maker makes that sound, two times.; The detective says what made the sound, and what moved.; The detective turns round. The sound maker shows the back of the card. If the detective was right, they keep the card. If not, the card goes to the side.; With 2 players, swap roles after six cards. With 3 or more, everyone else is a detective, the first to say the right answer keeps the card, and the sound maker's turn passes to the next person after each card.; The game ends when the pile is finished. The player with the most cards is the best detective. If it is a tie, you are all best detectives.
+- **rules:** Shuffle the cards and put them in a pile, front side down. Choose a detective and a sound maker.; The sound maker turns over the top card and reads the front quietly. If the sound maker cannot read yet, the grown-up whispers it to them.; Then the detective sits with their back turned and eyes closed.; The sound maker makes that sound, two times.; The detective says what made the sound, and what moved.; The detective turns round. The sound maker shows the back of the card. If the detective was right, they keep the card. If not, the card goes to the side.; With 2 players, swap roles after six cards. With 3 or more, everyone except the sound maker is a detective. The first detective to say the right answer keeps the card. After each card, the next person becomes the sound maker.; The game ends when the pile is finished. The player with the most cards is the best detective. If it is a tie, you are all best detectives.
 - **Printable cards: 12 Sound Detective cards:** Shake a bunch of keys. (back: Keys. The keys hit each other.); Tear a sheet of newspaper. (back: Paper. The paper rips apart.); Pour water from a jug into a steel tumbler. (back: Water. The water splashes into the tumbler.); Clap your hands twice. (back: Hands. Your hands hit each other.); Close a door gently. (back: A door. The door hits its frame.); Tap a pencil on a table. (back: A pencil. The pencil hits the table.); Open and close a zip on a bag. (back: A zip. Its little teeth click together.); Rub your hands together fast. (back: Hands. Your hands rub against each other.); Crumple a plastic bag. (back: A plastic bag. It crinkles as it folds.); Blow out a long breath: whoosh. (back: Breath. Air rushes out of your mouth.); Drop a coin on the floor. (back: A coin. It hits the floor and bounces.); Shake a closed bottle with chana inside. (back: A bottle of chana. The chana hits the inside of the bottle.)
 - **s1 (2 min)**  
   *Parent does:* Read the rules together. Decide who is the first detective. Collect what the cards need. You need keys, newspaper, a jug of water and a steel tumbler. You also need a pencil, a bag with a zip, a plastic bag, a coin and a closed bottle with chana inside.  
@@ -203,7 +203,7 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
   *Parent does:* Swap roles for the last six cards. Whisper each card to your child, then close your eyes and guess.  
   *Parent says:* Now you are the sound maker. I will whisper the card to you. Make the sound, and I will guess.  
   *Child mode:* Now you make the sounds. Can you trick me?
-  - Check: In every sound in this game, what was always happening? → **Something was moving**
+  - Check: Every time a sound was made in this game, what was happening? → **Something was moving**
 ### g2 · Stamp, Tiptoe, Freeze (8 min)
 - **rules:** The drummer turns a plastic bucket or a big steel vessel upside down, and beats it with a wooden spoon.; The drummer takes a card and plays what it says.; Loud beats: players stamp around with big, heavy steps.; Soft beats: players tiptoe, quiet as a cat.; No sound: players freeze like statues until the next beat.; Anyone who moves in the silence swaps places with the drummer, and the new drummer plays the cards that are left. With one player, the player and the grown-up swap.; The game ends when all eight cards are played. Shuffle them and play again if you like.
 - **Printable cards: 8 drummer cards:** LOUD: 4 big beats; SOFT: 4 tiny beats; STOP: no sound, count to 5; LOUD: 6 big beats; SOFT: 2 tiny beats; LOUD, then SOFT; SOFT, then LOUD; STOP: no sound, count to 5
@@ -227,7 +227,7 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
 ### e1 · The Shaker Test: which shaker is loudest? (25 min)
 - **question:** Does what is inside a shaker change how loud it sounds? And does shaking harder make it louder?
 - **predict:** Look at the four shakers: chana, rice, cotton and nothing. Which will be loudest? Which will be softest? Why do you think so?
-- **fair test:** All four shakers are the same kind of bottle or box. Chana and rice are two big spoons each. The cotton is two balls, which fill about the same space. The empty one has nothing in it. Only what is inside is different. We shake each one five times, the same way.
+- **fair test:** All four shakers are the same kind of bottle or box. We put in two big spoons of chana and two big spoons of rice. The cotton is two balls, which fill about the same space. The empty one has nothing in it. Only what is inside is different. We shake each one five times, the same way.
 - **safety:** Chana and rice are small. Watch younger children so they do not put them in their mouth, nose or ears. Close the caps tightly.
 - **record:** Draw the four shakers in a line, from the loudest to the softest. Draw big zigzag lines around the loudest one, and tiny lines, or none, around the softest.
 - **results table:** Shaker | My guess: loud, middle or soft? | What I heard: loud, middle or soft?
@@ -254,10 +254,10 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
   *Child mode:* Shake each one five times. Now close your eyes. Is it loud, middle or soft?
   - Ask: Which was the loudest? (good: The chana.; The beans were loudest.)
   - Ask: Which was the softest? (good: The cotton.; The empty one made almost no sound.)
-  - Note: Usually the chana is loudest, and the rice makes a softer, hissing rattle. The cotton and the empty bottle are nearly silent. If two sound alike, shake them one after the other, again. Write what your child heard in the table.
+  - Note: Usually the chana is loudest, and the rice makes a softer, hissing rattle. The cotton and the empty bottle are nearly silent. If two shakers sound alike, shake them again, one after the other. Write what your child heard in the table.
 - **s5 (3 min)**  
   *Parent does:* 1. Give your child the chana shaker. 2. Ask them to shake it very gently. 3. Then very hard. 4. Then very gently again.  
-  *Parent says:* Now shake the chana one very gently. Now shake it hard. Now gently again. What changes?  
+  *Parent says:* Now shake the chana shaker very gently. Now shake it hard. Now gently again. What changes?  
   *Child mode:* Shake it gently. Now shake it hard. What changes?
   - Ask: When was it loudest? (good: When I shook it hard.; A hard shake made a big sound.)
   - Check: How do you make the chana shaker louder? → **Shake it harder**
@@ -268,14 +268,14 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
   - Ask: What did you hear? (good: The chana goes tak.; The cotton is soft, so it makes almost no sound.)
   - Note: This shows why the cotton shaker was so quiet. Hard things hitting make loud sounds. Soft things hitting make soft sounds.
 - **s7 (2 min)**  
-  *Parent does:* Ask your child to tell you three things. Write them down in your child's words. Ask what the shakers did while they sat still.  
+  *Parent does:* Ask your child three things: what they think now, what they heard, and why they think it happened. Write the answers down in your child's words. Then ask what the shakers did while they sat still.  
   *Parent says:* Tell me three things. What do you think now? What did you hear? Why do you think it happened?  
   *Child mode:* Say what you think. Say what you heard. Say why.
   - Note: A strong answer sounds like this. 'The shakers were silent when they sat still. The chana was loudest. Shaking hard made it louder. Hard chana makes a loud sound, and soft cotton makes a soft sound.'
 ### e2 · Soft Landing: what makes a falling spoon quiet? (15 min)
 - **question:** When a steel spoon falls, does what it lands on change how loud the sound is?
 - **predict:** We will drop a spoon onto the bare floor, a folded newspaper, a folded towel and a pillow. Which will be loudest? Which will be softest? Why do you think so?
-- **fair test:** We use the same spoon every time. We drop it from the same height, your knee. We let it fall, and never throw it. At the end we change the height on purpose, to see what it does.
+- **fair test:** We use the same spoon every time. We drop it from the same height every time: as high as your knee. We let it fall, and never throw it. At the end we change the height on purpose, to see what changes.
 - **record:** Draw the four landing places in a row. Draw big zigzag lines next to the loudest landing, and one tiny line next to the softest.
 - **results table:** What the spoon lands on | My guess: loud or soft? | What I heard: loud or soft?
 - **s1 (2 min)**  
@@ -302,7 +302,7 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
   - Ask: Which drop was louder? (good: From my shoulder.; The higher drop hit the floor harder.)
   - Check: The spoon was dropped from a knee and from a shoulder. Which drop was louder? → **From the shoulder**
 - **s5 (2 min)**  
-  *Parent does:* Ask your child to tell you three things. Write them down in your child's words.  
+  *Parent does:* Ask your child three things: what they think now, what they heard, and why they think it happened. Write the answers down in your child's words.  
   *Parent says:* What do you think now? What did you hear? Why do you think it happened?  
   *Child mode:* Say what you think. Say what you heard. Say why.
   - Note: A strong answer: 'The floor was loudest and the pillow was softest. The spoon hits the hard floor hard. The soft pillow catches it gently.'
@@ -339,8 +339,8 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
   - Ask: How did you make the clap soft? (good: I clapped gently.; I used only two fingers.)
   - Note: Look for the idea that a gentle movement makes a soft sound and a hard movement makes a loud one.
 - **s3 (3 min)**  
-  *Parent does:* Play a pattern and ask your child to copy it. Then let them make one for you. Try: clap, clap, stamp. Then soft clap, soft clap, loud stamp.  
-  *Parent says:* Copy me. Clap, clap, stamp. Now soft clap, soft clap, loud stamp. Now you make one for me to copy.  
+  *Parent does:* Play a pattern and ask your child to copy it. Then let them make one for you. Try: clap, clap, stamp. Then soft clap, soft clap, loud stamp. Afterwards ask which parts of their pattern were loud, and what they did to make them loud. The answer is that they moved harder.  
+  *Parent says:* Copy me. Clap, clap, stamp. Now soft clap, soft clap, loud stamp. Now you make one for me to copy. Which parts of yours were loud? What did you do to make them loud?  
   *Child mode:* Copy the pattern. Now make your own for me to copy.
 ### a3 · Who Is Calling? Listening at the window (10 min)
 - **record:** Draw each animal you heard, with their call written next to them by a grown-up.
@@ -351,7 +351,7 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
   - Ask: Who did you hear? (good: A crow.; Pigeons cooing.; A dog barking.)
   - Note: Crows, pigeons, mynas, dogs and cats live in almost every Indian city. If you hear no animals today, listen for people and traffic instead, and try again early tomorrow morning.
 - **s2 (3 min)**  
-  *Parent does:* Copy each call softly together. Ask how the animal makes that sound.  
+  *Parent does:* Copy each call softly together. Ask how the animal makes that sound. If your child is not sure, tell them this. A crow pushes air out from deep in her chest to call.  
   *Parent says:* Let's copy the crow, softly. Caw. How does a crow make that sound?  
   *Child mode:* Copy the call softly. How does the animal make that sound?
   - Ask: How does a crow call? (good: With her mouth.; She pushes air out.)
@@ -366,11 +366,11 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
   *Parent says:* We are going to hunt for ten sound sources. Five from nature, like rain or a bird. Five made by people, like a bell or a mixie.  
   *Child mode:* Find five sounds from nature. Find five sounds people made.
 - **s2 (8 min)**  
-  *Parent does:* Walk around the home and look out of the windows. For each sound your child finds, they draw it on the right half.  
+  *Parent does:* Walk around the home and look out of the windows. Your child draws each sound source they find on the half of the paper where it belongs.  
   *Parent says:* What can you hear? What is making it? Is it from nature, or did people make it?  
   *Child mode:* Listen. What is making that sound? Nature or people?
   - Ask: Is the wind from nature or made by people? (good: Nature.; Nobody makes the wind.)
-  - Note: Nature: wind, rain, birds, dogs, insects, a person's own voice and breathing. Made by people: fan, mixie, fridge, doorbell, scooter, TV. Let your child decide where people's own voices go, and ask why.
+  - Note: Nature: wind, rain, birds, dogs, insects. Made by people: fan, mixie, fridge, doorbell, scooter, TV. A person's own voice and breathing can go under nature, but let your child decide where they go, and ask why.
 - **s3 (2 min)**  
   *Parent does:* Count each half together.  
   *Parent says:* How many from nature? How many made by people? Which side has more?  
@@ -440,12 +440,12 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
    **Answer:** ['loud', 'loud', 'soft', 'silent']. *Why:* The pressure cooker and the mixie make loud sounds. A drip makes a soft sound. The spoon is not moving, so it is silent.
 9. (count) Look at the street picture. Count the sound sources that are making a sound. Write the number.  
    **Answer:** 5. *Why:* There are 5 sound sources making sounds: an auto honking, a vegetable seller calling, a dog barking, a crow cawing and a temple bell ringing. The parked bicycle is not making a sound, because nothing is moving it.
-10. (perspective) Divya, a girl in Class 1, wants to call her friend from across the playground. Three children have ideas.  
+10. (perspective) You want to call your friend from across the playground. Three children have ideas.  
    **Answer:** Any choice with a good reason. A shout is loud and goes far but can disturb others. A clap is loud and saves your voice, but your friend may not know it is for her. Walking over is quiet and clear but takes longer.. *Why:* A strong answer gives a reason, and fairly says what is good about another idea. Each idea makes a different sound source loud or soft.
 ### Loud, Soft and Silent (stretch) (stretch, 10 questions)
 1. (order) A grown-up reads these steps of the Shaker Test. Number them 1, 2 and 3 in the right order.  
    **Answer:** ['Guess which shaker will be loudest', 'Shake each shaker five times and listen', 'Line up the shakers from loud to soft']. *Why:* First we guess, then we test by shaking and listening, then we line them up by what we heard.
-2. (mcq) Meera, a girl in Class 1, rings a bell on the table. Then she walks to the other side of the room and listens. How does the ring sound from far away?  
+2. (mcq) You ring a bell on the table. Then you walk to the other side of the room and listen. How does the ring sound from far away?  
    Options: Louder than close up / Softer than close up / Just the same  
    **Answer:** Softer than close up. *Why:* A sound gets softer as you move away from its source. That is why you can find a hidden sound by walking towards where it gets louder.
 3. (mcq) A phone is playing a song. Where is the sound coming from?  
@@ -461,13 +461,13 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
    **Answer:** No. A tiny cricket can chirp loudly enough to fill a room. A big pillow makes almost no sound when it falls. How hard something moves, and what it hits, matter more than its size.. *Why:* A strong answer uses an example of a small, loud thing or a big, quiet thing to show the idea is wrong.
 8. (draw) Draw yourself tapping a steel dabba twice: once to make a soft sound and once to make a loud sound. Show how your hand moves each time.  
    **Answer:** Two drawings. For the soft sound, a small, gentle movement and small sound lines. For the loud sound, a big swing and big sound lines.. *Why:* A strong drawing shows that a bigger, harder movement makes a louder sound.
-9. (perspective) Meera, a girl aged 8, watches rain fall on a window with her mother and her grandfather. They disagree about the sound source.  
+9. (perspective) A girl aged 8 watches rain fall on a window with her mother and her grandfather. They disagree about the sound source.  
    **Answer:** A strong answer sees that both the drops and the glass move when a drop hits. Rain sounds different on a window, a tin roof and a leaf, so what the drops land on matters too.. *Why:* A sound often comes from two things meeting. The drop moves, and the glass it hits moves too. A strong answer gives a reason and fairly says what is right about another view.
 10. (write) Guess before you try. Would a shaker full of coins be louder or softer than a shaker full of cotton? Why? Say it out loud, and a grown-up writes it.  
    **Answer:** Louder. Coins are hard and heavy, so they hit the bottle hard. Cotton is soft, so it hits gently and makes almost no sound.. *Why:* A strong answer uses what the Shaker Test showed: hard things hitting make loud sounds and soft things make soft sounds.
 
 ## Videos
-- **Why crickets chirp, close up** (Deep Look, 4 min) id `fh3uNUrAnss`: Shows a tiny sound source making a loud sound, by rubbing the wings together. *Check:* Found by search: "Why Crickets Just Won't Shut Up | Deep Look" by Deep Look, 4 minutes. A parent may preview it.
+- **Why crickets chirp, close up** (Deep Look, 4 min) id `fh3uNUrAnss`: Shows a cricket, a tiny sound source, making a loud sound by rubbing his wings together. *Check:* Found by search: "Why Crickets Just Won't Shut Up | Deep Look" by Deep Look, 4 minutes. A parent may preview it.
 - **Fish sounds from a coral reef** (Guardian News, 2 min) id `97M2muq9JQc`: Lets children hear sound sources most people never hear: fish whooping, purring and grunting underwater. *Check:* Found by search: "Previously unheard fish sounds from restored coral reef: 'Whoops, purrs and grunts'" by Guardian News, 1 minute 36 seconds. A parent may preview it.
 - **Common bird sounds of India, backyard birds** (Indian Bird Videos, 15 min) id `ssiP9ZGUKRk`: Real Indian birds to listen to with eyes closed, and to pick out the different callers. A parent can play just the first few minutes. *Check:* Found by search: "Common bird sounds of India - Backyard bird sounds- Indian Bird sounds for kids" by Indian Bird Videos, about 15 minutes. A parent may preview it.
 
@@ -484,10 +484,10 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
 4. (mcq) A temple bell hangs still. Nobody touches it. What do you hear from the bell?  
    Options: A loud ring / A soft ring / Nothing  
    **Answer:** Nothing. *Why:* A still bell makes no sound. It rings only when something moves it, like a hand pulling the rope.
-5. (mcq) Farhan, a boy in Class 1, claps his hands. What moved to make the sound?  
+5. (mcq) A boy claps his hands. What moved to make the sound?  
    Options: His ears / His hands / The floor  
    **Answer:** His hands. *Why:* His hands moved and hit each other. That is what made the clap.
-6. (mcq) Lakshmi, a girl in Class 1, wants a louder sound from her drum. What should she do?  
+6. (mcq) A girl wants a louder sound from her drum. What should she do?  
    Options: Hit it harder / Hit it more gently / Stop hitting it  
    **Answer:** Hit it harder. *Why:* A harder hit makes a louder sound. A gentle hit makes a soft sound, and no hit makes no sound.
 7. (mcq) Remember the Shaker Test, with chana, rice, cotton and an empty bottle. Which shaker with something inside made the softest sound?  
@@ -499,9 +499,9 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
 9. (mcq) Your eyes are closed. You hear keys jingling. What is moving?  
    Options: Nothing is moving / Only your ears / The keys, hitting each other  
    **Answer:** The keys, hitting each other. *Why:* Every sound comes from something moving. Jingling keys are moving and hitting each other.
-10. (mcq) Sneha, a girl in Class 1, hears a sound behind a door, but she cannot see what made it. How can she find the sound source?  
-   Options: Walk towards where the sound gets louder / Cover her ears / Walk away from the sound  
-   **Answer:** Walk towards where the sound gets louder. *Why:* A sound gets louder as you get closer to its source. Following the sound leads you to it, as the children did in the story.
+10. (mcq) You hear a sound behind a door, but you cannot see what made it. How can you find the sound source?  
+   Options: Walk towards where the sound gets louder / Cover your ears / Walk away from the sound  
+   **Answer:** Walk towards where the sound gets louder. *Why:* A sound gets louder as you get closer to its source. Following the sound leads you to it, as Kavya and Arjun did in the story The Ting in the Night.
 
 ## Applications
 - Horns on buses, autos and scooters, and bells on bicycles, warn people to move out of the way.
@@ -541,10 +541,10 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
 - What key never jingles? *A donkey!*
 
 ## Connected maths
-- In the listening minute, Kavya, a girl in Class 1, heard 3 sounds made by things and 2 sounds made by animals. How many sounds did she hear in all? **5 sounds.**. Start at 3 and count on 2 more: 4, 5. So Kavya heard 5 sounds in all. (queues `math.addition-subtraction.meaning.L1`)
-- On the Sound Scavenger Hunt, Meera, a girl in Class 1, found these sound sources: a fan, a crow, a mixie, rain, a dog, a scooter and the wind. Sort them into 'from nature' and 'made by people'. Which group has more? **From nature: the crow, the rain, the dog and the wind, so 4. Made by people: the fan, the mixie and the scooter, so 3. Nature has 1 more.**. Put each source in its group and count each group. 4 is 1 more than 3. (queues `math.data.sorting-and-tallies.L1`)
+- In One Minute of Listening, you heard 3 sounds made by things and 2 sounds made by animals. How many sounds did you hear in all? **5 sounds.**. Start at 3 and count on 2 more: 4, 5. So you heard 5 sounds in all. (queues `math.addition-subtraction.meaning.L1`)
+- On the Sound Scavenger Hunt, a child found these sound sources: a fan, a crow, a mixie, rain, a dog, a scooter and the wind. Sort them into 'from nature' and 'made by people'. Which group has more? **From nature: the crow, the rain, the dog and the wind, so 4. Made by people: the fan, the mixie and the scooter, so 3. Nature has 1 more.**. Put each source in its group and count each group. 4 is 1 more than 3. (queues `math.data.sorting-and-tallies.L1`)
 - Put these sounds in order, from the softest to the loudest: a bus horn, a whisper, people talking. **A whisper, then people talking, then a bus horn.**. A whisper is the softest, because only a little air moves. Talking is louder. A bus horn is the loudest of the three. (queues `math.number-sense.comparing-ordering.L1`)
-- In the Body Band, Asha, a girl in Class 1, plays a pattern: clap, clap, stamp, clap, clap, stamp. What sound comes next? **Clap.**. The pattern is clap, clap, stamp, and it starts again. After the second stamp comes a new clap, clap, stamp. So the next sound is a clap. (queues `math.patterns.repeating-patterns.L1`)
+- In My Body Band, a child plays a pattern: clap, clap, stamp, clap, clap, stamp. What sound comes next? **Clap.**. The pattern is clap, clap, stamp, and it starts again. After the second stamp comes a new clap, clap, stamp. So the next sound is a clap. (queues `math.patterns.repeating-patterns.L1`)
 
 ## Song
 Who Made That Sound? (sci.sound.L1): 
