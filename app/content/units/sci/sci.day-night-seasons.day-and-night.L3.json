@@ -164,7 +164,7 @@
    "description": "The Sun shines all the time. It never switches off at night. But sunlight can only reach the side of the Earth that faces the Sun. The far side is dark, like the back of your head when you face a lamp. So at every moment, half of the Earth has day and half has night. When it is 9 at night in India, it is morning in parts of America. Their Sun is the very same Sun as ours.",
    "examples": [
     "Hold an orange in front of a lamp in a dark room. The side facing the lamp is bright. The back is dark.",
-    "When you go to bed in Chennai, children in California are getting up for school.",
+    "When it is morning in Chennai, it is evening in California.",
     "From space, astronauts see the Earth as half bright and half dark, with cities glowing on the dark half."
    ],
    "perspectives": [],
@@ -447,7 +447,7 @@
   {
    "concept": "Spinning compared with what?",
    "status": "debated",
-   "description": "A Foucault pendulum keeps its swing still compared with the far-away stars and galaxies, while the Earth turns underneath. Water in a spinning bucket climbs up the sides. In both cases, the spin seems to be measured against the whole distant universe. But why should the far stars decide what counts as spinning? Physicists have argued about this for more than 300 years.",
+   "description": "A Foucault pendulum keeps swinging in the same direction compared with the far-away stars, while the Earth turns underneath it. Water in a spinning bucket climbs up the sides of the bucket. In both cases, spin seems to be measured against the whole distant universe. But why should far-away stars decide what counts as spinning? Physicists have argued about this for more than 300 years.",
    "examples": [
     "Stir water fast in a steel bowl, then stop stirring. While the water spins, it climbs up the sides and dips in the middle.",
     "In a spinning room with no windows, a pendulum would still show the spin."
@@ -557,7 +557,7 @@
    "for": "At noon the Sun is at its highest, and shadows are shortest.",
    "against": "In most of the world, the Sun is never exactly overhead, so there is always some shadow at noon. In places between the equator and the Tropic of Cancer, like Bengaluru and Chennai, there are just two days each year with no noon shadow. People in India call them Zero Shadow Days.",
    "status": "rejected",
-   "context": "This card is about whether the noon Sun is always straight above our heads."
+   "context": "This card is about whether the noon Sun is always straight above our heads. A Zero Shadow Day is a day when the Sun is exactly overhead at noon, so an upright stick makes no shadow at all."
   },
   {
    "claim": "Water going down a sink swirls one way in India and the other way in Australia, because the Earth spins.",
@@ -807,7 +807,8 @@
      "do": "1. Count the suns to find the winner. 2. Read the whole line out loud, from first sunrise to last.",
      "say": "Let's read our line from east to west. This is the order the morning arrives in.",
      "kid": "Count your suns. Who won? Now read the line from east to west. That is how the morning travels.",
-     "think": "When New York has its sunrise, what time of day is it for you?"
+     "think": "When New York has its sunrise, what time of day is it for you?",
+     "parent": "New York is about 9 and a half hours behind India in summer, and 10 and a half in winter. So when the Sun rises in New York, it is afternoon or early evening in India. The Earth ball shows why. New York is far round the back of the ball from India."
     }
    ]
   },
@@ -970,7 +971,8 @@
      "do": "Tell your child that the Earth also travels round the Sun. Then ask what would happen if the ring stopped turning.",
      "say": "The real Earth also travels slowly round the Sun once a year. It spins about 365 times on that journey. In the activity Be the Earth, you will try turning and travelling at the same time.",
      "kid": "The Earth also goes round the Sun, once a year. It spins about 365 times on the way.",
-     "think": "If the ring stopped turning, what would happen to the players on the night side?"
+     "think": "If the ring stopped turning, what would happen to the players on the night side?",
+     "parent": "They would stay facing away from the Sun, so it would stay night for them. The players facing the Sun would have day for ever. This is why the spin matters: it keeps carrying every place into the light and out again."
     }
    ]
   }
@@ -2147,7 +2149,8 @@
      "do": "Later, on your next ride in a bus, car or train, remind your child to look out of the side window.",
      "say": "Look out of the window. Are the trees running? Or are we?",
      "kid": "On your next ride, look out of the window. Are the trees running away? Or are you moving?",
-     "think": "If you could not see out, and the ride was perfectly smooth, would you know you were moving?"
+     "think": "If you could not see out, and the ride was perfectly smooth, would you know you were moving?",
+     "parent": "The answer is no. We feel changes in speed, such as bumps, brakes and sharp turns. A perfectly smooth ride gives us nothing to feel. This is also why we cannot feel the Earth spin."
     }
    ]
   },
@@ -2321,7 +2324,8 @@
      "do": "1. Find India on the map or globe. Which of the 4 places are east of India, and which are west? 2. On the ball, the home dot is India. Put the flags for eastern places east of it, and western places west of it. 3. If it is day in India now, put the home dot in the torchlight. If it is night, put it in the dark. 4. Which flags are in the light? Check them against the times you found.",
      "say": "Let's put India on the ball where it is right now. Where are New York and London? Does the ball agree with the clock?",
      "kid": "Put a flag on the ball for each place. Put India in the light if it is day here. Put it in the dark if it is night. Is New York in the light?",
-     "think": "If you call a friend in New York at bedtime, what will they be doing?"
+     "think": "If you call a friend in New York at bedtime, what will they be doing?",
+     "parent": "When it is bedtime in India, it is around midday in New York. Your friend is probably at school or at work. The ball shows why. When India turns into the dark, New York is still in the light."
     }
    ]
   },
@@ -2405,7 +2409,8 @@
       "a": 1,
       "why": "The Earth turns, so the whole sky seems to turn around the point above the North Pole. Dhruva Tara sits almost at that point. Picking 'the stars are flying' is the same mix-up as thinking the Sun goes round us."
      },
-     "think": "In 24 hours, how far round would the Saptarishi go?"
+     "think": "In 24 hours, how far round would the Saptarishi go?",
+     "parent": "All the way round, one full circle. The Earth makes one full spin in about 24 hours, so the stars make one full circle too. In 2 hours, they go one twelfth of the way round."
     }
    ]
   },
@@ -2602,7 +2607,8 @@
      "do": "Look up true noon for a town far east and far west of you. Talk about it.",
      "say": "When is true noon in Guwahati? And in Ahmedabad? Why are they different?",
      "kid": "Find true noon in a far-east town and a far-west town. Why are they different?",
-     "think": "If every town set its clocks by its own noon, what would happen to train timetables?"
+     "think": "If every town set its clocks by its own noon, what would happen to train timetables?",
+     "parent": "Every town would have a different time, so a train timetable would need a new time at every station. One shared clock time keeps timetables simple, even though the Sun rises at different times in different places."
     }
    ]
   }
@@ -2677,7 +2683,8 @@
      "do": "Read the usual and creative solutions together.",
      "say": "Here's what people really do, and some creative ideas. Can you invent something better?",
      "kid": "Look at what people really do. Now invent your own. Can you beat them?",
-     "think": "Do you think animals in the Arctic sleep less in summer? How could we find out?"
+     "think": "Astronauts see 16 sunrises a day, and the scientists at Himadri see no sunset for weeks. What do both groups need to keep their sleep steady?",
+     "parent": "A good answer says that they cannot use the Sun to tell their body clock when it is night. So they need a clock and a set bedtime, and lights or curtains that make a day and a night on purpose."
     }
    ]
   },
@@ -2743,7 +2750,8 @@
      "do": "Read the usual and creative ideas. Then improve your model.",
      "say": "Here are some ideas. Can you make yours even better, so your friend could really understand it?",
      "kid": "Look at the ideas. Now make your model even better. Test it with your eyes shut.",
-     "think": "Sunlight brings warmth as well as light. What else does it bring to the Earth?"
+     "think": "Sunlight brings warmth as well as light. What else does it bring to the Earth?",
+     "parent": "Plants catch sunlight and make food from it, and we get our food from plants. So sunlight brings the energy for almost all of the food on Earth, as well as light and warmth."
     }
    ],
    "safety": "An old-style bulb gets hot. Keep your hands and the ball a hand's width away from it, and never touch the bulb."
@@ -3384,7 +3392,7 @@
  "roots": {
   "context": "We have been learning that day and night come from the spinning Earth. Now we ask what that spin tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "In the torch-and-ball test, the far side of the ball was dark because the ball itself blocked the light. The Earth does the same. The Sun never stops shining, and night is the half of the Earth turned away from it. So at night, the whole Earth is between you and the Sun.",
+   "truth": "In the torch-and-ball test, the far side of the ball was dark because the ball itself blocked the light. The Earth does the same. The Sun never stops shining, and night is the half of the Earth turned away from it. So at night, the body of the Earth is between you and the Sun.",
    "habit": "We say 'night falls' and 'the Sun goes down', as if darkness came from somewhere or the Sun went away. The Sun never stops shining. At night, our own planet is in the way.",
    "evidence": "In the torch and ball experiment, the back of the ball was dark because the ball itself blocked the torch. Just after sunset, the Earth's shadow shows as a dark blue band low in the eastern sky. And when Bhuj has sunset, Dong already has night, under the same Sun."
   },
@@ -3434,7 +3442,7 @@
   "ask": [
    "At night, the ground under you is between you and the Sun. Is night something that comes to us, or somewhere we go?",
    "If you watched from space, would you see day and night as two different things, or as one lit ball?",
-   "The Sun moves too, round the middle of our galaxy. Is anything in the universe really still?"
+   "The Earth spins, and it also goes round the Sun. The Sun itself travels round the middle of our galaxy, which is the huge group of stars that we live in. Is anything in the universe really still?"
   ],
   "art": "A child standing on the curve of the Earth at the day-night line, one arm in golden sunlight and one in starry night, the whole ball turning slowly beneath them."
  },

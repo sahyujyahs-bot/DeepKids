@@ -272,7 +272,7 @@
    "for": "About 1,700 years ago, Makara Sankranti and the day the Sun starts moving north fell on nearly the same day. So the saying was close to true then.",
    "against": "Today the Sun starts moving north on about 21 or 22 December, the shortest day of the year. Earth's tilted axis slowly wobbles, so the two dates have drifted about 24 days apart.",
    "status": "rejected",
-   "context": "This card is about a famous saying about Sankranti and the Sun."
+   "context": "This card is about a famous saying about Sankranti and the Sun. The word Uttarayan means the Sun's journey to the north. In winter, the Sun rises a little further south each day until the shortest day of the year. Then it turns, and starts to rise further north again. The saying claims that Makara Sankranti is that turning day."
   },
   {
    "claim": "Colours from plants are always safe, and colours from factories are always harmful.",
@@ -394,7 +394,7 @@
       "MAKARA SANKRANTI (Karnataka)",
       "Ellu bella: sesame, jaggery, coconut and groundnut, shared with neighbours",
       "VISHU (Kerala)",
-      "Vishukkani: rice, fruit, gold and yellow konna flowers to see first in the morning",
+      "Vishukkani: a tray of rice, fruit, gold and yellow konna flowers, which people look at first thing in the morning",
       "LOHRI (Punjab)",
       "A bonfire, with sesame and popcorn thrown into it",
       "MAGH BIHU (Assam)",
@@ -748,10 +748,10 @@
      "parent": "Soapy water and baking soda water turn the turmeric orange-red or red-brown. If the baking soda bowl is only orange, add a pinch of dry baking soda and stir. Lemon, tamarind, curd, salt and sugar leave it yellow, like the plain water. Lemon may make it a little paler.",
      "check": {
       "t": "mcq",
-      "q": "Which bowl did you keep with only plain water added?",
+      "q": "Why did one bowl get only plain water?",
       "options": [
-       "None, every bowl had a different liquid",
-       "One bowl, so we can see what no change looks like"
+       "It was a spare bowl in case one spilled",
+       "So we can see what no change looks like"
       ],
       "a": 1,
       "why": "The plain water bowl shows what turmeric water looks like when nothing special is added. Every other bowl is compared with it. Scientists call this a control."
@@ -943,7 +943,7 @@
      "mins": 5,
      "do": "Compare the hibiscus results with the results of the Turmeric Test.",
      "say": "Turmeric changed colour only with the base. Hibiscus changed with both. What does that tell you?",
-     "kid": "Turmeric changed with soap only. Hibiscus changed with both. Why might that be?",
+     "kid": "Turmeric changed with soap only. Hibiscus changed with both. Which one tells you more?",
      "ask": [
       {
        "q": "Which is the better indicator for telling an acid from plain water?",
@@ -1500,7 +1500,7 @@
       {
        "q": "What has changed in this festival since the person you interviewed was young? What has stayed the same?",
        "good": [
-        "We buy sweets now, but they made them.",
+        "Now we buy sweets, but in those days the family made them.",
         "We still draw a kolam."
        ]
       }
@@ -1839,7 +1839,7 @@
     "Tasting an acid"
    ],
    "a": 0,
-   "why": "One clear case that breaks a rule is enough to show the rule is wrong. The acid made from salt, which is also in your stomach, is made of hydrogen and chlorine, with no oxygen. Finding more acids with oxygen cannot prove the rule, because the next one might break it.",
+   "why": "One clear case that breaks a rule is enough to show the rule is wrong. For example, hydrochloric acid is made of hydrogen and chlorine, with no oxygen. It can be made from salt, and it is also the acid in your stomach. Finding more acids that have oxygen cannot prove the rule, because the next acid might break it.",
    "outcome": 6
   }
  ],
@@ -2292,7 +2292,7 @@
     },
     {
      "t": "perspective",
-     "p": "In the 1770s, Antoine Lavoisier said all acids contain oxygen. In 1810, Humphry Davy studied the acid made from salt.",
+     "p": "In the 1770s, Antoine Lavoisier said all acids contain oxygen. In 1810, Humphry Davy studied hydrochloric acid, the strong acid that can be made from salt.",
      "views": [
       {
        "who": "Antoine Lavoisier, a French chemist",
@@ -2300,7 +2300,7 @@
       },
       {
        "who": "Humphry Davy, an English chemist",
-       "says": "The acid from salt is made of hydrogen and chlorine. It has no oxygen at all, yet it is a strong acid."
+       "says": "Hydrochloric acid, the acid from salt, is made of hydrogen and chlorine. It has no oxygen at all, yet it is a strong acid."
       }
      ],
      "ask": "Whose idea fits the evidence better? Explain. Then say what Lavoisier did right, even though his idea was wrong.",
@@ -2813,7 +2813,7 @@
   "three": {
    "who_am_i": "Like turmeric, you show different sides with different people: one way with an older relative, another way with your friends, and you are still you.",
    "what_is_life": "Curd bacteria make the acid that makes curd sour. Living things change the world around them, and that changes how other things look and act.",
-   "what_is_this_world": "Yellow turmeric and white lime together make red. In this world, new things appear when two things meet."
+   "what_is_this_world": "When two things meet, something new can show up that neither had alone. Turmeric is yellow and lime is white, but together they look red. Nothing red was added."
   },
   "thread": "Turmeric on its own looks yellow. Lime on its own looks white. Put them together, and a red appears that neither had alone. A festival works the same way. Rice, jaggery, a pot, the Sun and many people are each ordinary on their own. Brought together on one morning, they make Pongal.",
   "teachings": [
@@ -2857,7 +2857,7 @@
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. The Turmeric Test uses only kitchen things: turmeric, lemon, tamarind, curd, salt, sugar, baking soda and soap. Soap and baking soda are the bases most homes have. Bar soap gives a clear red-brown, and baking soda an orange-red, so the step says to add a pinch of dry baking soda if the colour is weak. Turmeric does not dissolve fully in water, so the turmeric water stays cloudy, and the step says so. Lemon turns a red bowl yellow again, but may need a teaspoon or more. Lime paste is a strong base, so only the grown-up handles it, in the aarathi water activity, which is outside the spine. Baking soda works in its place. The hibiscus test needs a flower, which flower sellers and temple stalls sell, so it is outside the spine. The rice-flour kolam relies on ants, so the step says what to do if none come, and it is outside the spine. The calendar hunt needs a phone calendar or printed calendars, and a grown-up. The spine is the first look at turmeric, the Turmeric Test, the explanation cards, roots and the quiz, about 85 minutes.",
  "how_we_found_out": {
-  "story": "In 1664, Robert Boyle in England wrote that some plant juices change colour with sour things and with soapy things. He used these colour changes to sort substances into acids and alkalis, which we now call bases. About a hundred years later, in Paris, Antoine Lavoisier and his wife Marie-Anne Paulze Lavoisier worked together in their laboratory. She kept the records, drew the equipment and translated English science papers for him. Lavoisier noticed that every acid he made had oxygen in it. So he decided that oxygen is what makes a substance an acid. He even named the gas oxygen from Greek words meaning 'acid maker'. In 1810, Humphry Davy in London tested the strong acid made from salt. He showed that it is made of hydrogen and chlorine, with no oxygen at all. One acid without oxygen was enough to show that Lavoisier's rule was wrong. Later chemists found that acids share hydrogen instead. The acid Davy studied is the same acid your stomach makes to break down food.",
+  "story": "In 1664, Robert Boyle in England wrote that some plant juices change colour with sour things and with soapy things. He used these colour changes to sort substances into acids and alkalis, which we now call bases. About a hundred years later, in Paris, Antoine Lavoisier and his wife Marie-Anne Paulze Lavoisier worked together in their laboratory. She kept the records, drew the equipment and translated English science papers for him. Lavoisier noticed that every acid he made had oxygen in it. So he decided that oxygen is what makes a substance an acid. He even named the gas oxygen from Greek words meaning 'acid maker'. In 1810, Humphry Davy in London tested hydrochloric acid, the strong acid that can be made from salt. He showed that it is made of hydrogen and chlorine, with no oxygen at all. One acid without oxygen was enough to show that Lavoisier's rule was wrong. Later chemists found that acids share hydrogen instead. The acid Davy studied is the same acid your stomach makes to break down food.",
   "who": "Robert Boyle in England, Antoine and Marie-Anne Paulze Lavoisier in Paris, and Humphry Davy in London",
   "when": "1664 (Boyle's book on colours), the 1770s and 1780s (Lavoisier's oxygen idea), and 1810 (Davy's work on the acid from salt)",
   "wrong_idea": "Lavoisier thought every acid must contain oxygen, and named oxygen 'acid maker'. Davy showed that the acid made from salt contains only hydrogen and chlorine, so oxygen is not what makes an acid."

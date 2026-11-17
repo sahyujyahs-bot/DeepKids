@@ -267,7 +267,7 @@
   {
    "claim": "A shared thing will always be ruined, unless a government or an owner controls it.",
    "who": "Garrett Hardin, The Tragedy of the Commons, 1968",
-   "context": "This card is about whether people who share a thing can look after it themselves.",
+   "context": "This card is about whether people who share a thing can look after it themselves. Garrett Hardin's idea is called the tragedy of the commons. It says that a person who takes a little more keeps all of the extra, while the loss is spread over everyone. So everyone keeps taking more, until the shared thing is ruined.",
    "for": "Many shared things have been ruined, such as polluted rivers and empty fishing grounds.",
    "against": "Elinor Ostrom found many villages that have looked after meadows, forests and water for centuries with their own rules. Hardin himself later said he should have called it the tragedy of the unmanaged commons.",
    "status": "rejected"
@@ -511,7 +511,8 @@
        ]
       }
      ],
-     "think": "Which helper would you most like to be, and why?"
+     "think": "Pick one helper on the cards that is paid by taxes. What would your street lose if that service stopped?",
+     "parent": "A good answer sounds like this: if the garbage collectors stopped, the garbage would pile up and people would fall ill. That is why services that everyone needs are paid for by everyone, through taxes."
     }
    ],
    "setup": [
@@ -533,9 +534,10 @@
    "mins": 35,
    "days": 1,
    "context": "In this experiment your family shares a bowl of chana, which stand for the fish in a pond. You play once without talking and once after agreeing a rule, and see which pond lasts.",
+   "problem": "In this experiment, the chana are fish in a pond that your family shares. Each round, every player secretly takes some fish. Then the fish that are left in the pond have babies, so their number doubles. But the pond can never hold more than 20 fish. If every fish is taken, none are left to have babies, and the pond stays empty. You play once in silence and once after talking, to find out whether agreeing a rule keeps the pond full.",
    "question": "When people share a pond, does it last longer if they talk and agree a rule first?",
    "predict": "Guess first. In which game will the pond last longer: the silent game, or the game where you talk first? Will players catch more fish in one game than in the other? Why do you think so?",
-   "fair_test": "Play both games with the same people, the same 20 fish, the same limit on how many each player may take (2 players: up to 8; 3 players: up to 6; 4 players: up to 5), and the same 6 rounds. In both games, every player tries to end up with as many fish as they can. Only one thing changes: in the second game, players may talk and agree a rule before they choose. Everyone still writes their choice in secret, so nobody is forced.",
+   "fair_test": "Play both games with the same people, the same 20 fish, the same limit on how many each player may take (with 2 players, up to 8 each, with 3 players, up to 6 each, and with 4 players, up to 5 each), and the same 6 rounds. In both games, every player tries to end up with as many fish as they can. Only one thing changes: in the second game, players may talk and agree a rule before they choose. Everyone still writes their choice in secret, so nobody is forced.",
    "results_table": [
     "Game",
     "Round",
@@ -611,7 +613,7 @@
        "20"
       ],
       "a": 1,
-      "why": "Doubling means two times as many. 6 and 6 make 12. The pond only stops at 20 when doubling would give more than 20. If you chose 20, you filled the pond to the top, but 12 is less than 20."
+      "why": "Doubling means two times as many, so 6 fish become 12 fish. The pond never holds more than 20, and 12 is less than 20, so all 12 fit. If you chose 20, you may have thought the pond always refills to the top. But it only doubles the fish that are left."
      }
     },
     {
@@ -743,7 +745,7 @@
     },
     {
      "art": "Four folded slips being opened at the same time beside the bowl, showing the numbers 5, 5, 4 and 5.",
-     "caption": "2. Write a number from 0 to 5 in secret. Open the slips together."
+     "caption": "2. Write a number from 0 up to your limit in secret. Open the slips together."
     },
     {
      "art": "A child counting the few chana left in the bowl and adding the same number again from a spare pile.",
@@ -959,7 +961,8 @@
        ]
       }
      ],
-     "think": "Which of these helpers have you never thanked?"
+     "think": "Pick one helper. What could your family not do without that person's work?",
+     "parent": "A good answer names something real. For example: without the milk delivery person, we would have to walk to the shop every morning before school. This is the idea of the unit. People depend on each other's work."
     }
    ],
    "setup": [
@@ -1539,7 +1542,8 @@
      "do": "With a grown-up, show the helper your change and ask whether it helps.",
      "say": "Would this make your work easier? Is there something else we could do?",
      "kid": "Show the helper. Ask if it helps.",
-     "think": "How did the helper feel when you asked?"
+     "think": "Did your change save the helper any time? How can you tell?",
+     "parent": "A good answer uses what the helper said. For example: the milk delivery person said she no longer waits at the door. If the helper says it did not help, that is a useful result too. Talk about what to change next."
     }
    ],
    "setup": [
@@ -1727,7 +1731,7 @@
      "t": "match",
      "p": "Match each helper to their work.",
      "a": "pairs as given",
-     "why": "These helpers come up all through the unit.",
+     "why": "Each helper does one kind of work that the neighbourhood needs. Matching them shows who you would go to for each job.",
      "pairs": [
       [
        "Postwoman",
@@ -2200,7 +2204,7 @@
      "t": "mcq",
      "p": "In Kerala, the government bans most fishing by big boats in the sea for some weeks each monsoon. Why might this help the fish?",
      "a": 0,
-     "why": "The ban falls in the season when many fish breed. Leaving the fish alone then lets more young fish grow, like leaving fish in the pond to double.",
+     "why": "The ban falls in the season when many fish breed. When the fish are left alone then, more young fish grow up. This is like leaving fish in the pond, so that they have babies and the pond fills again.",
      "opts": [
       "Many fish breed in those weeks, so more young fish grow",
       "The fish like the rain",
@@ -2437,9 +2441,9 @@
    "how": "e1"
   },
   {
-   "problem": "In the story The Tank on the Roof, Revathi's family played the pond game twice. In the silent game they caught these fish in all: Amma 6, Paati 5, Karthik 5 and Revathi 5. In the talking game, each of the 4 players caught 12. How many more fish did the family catch in all in the talking game?",
-   "answer": "27 more fish. The silent game gave 21 fish, and the talking game gave 48.",
-   "explain": "Silent game: 6 + 5 + 5 + 5 = 21. Talking game: 4 players times 12 is 48. 48 take away 21 is 27. So holding back each round gave everyone more in the end.",
+   "problem": "In the story The Tank on the Roof, Revathi's family played the pond game twice. In the silent game, the four players took 5, 4, 5 and 5 fish. After that, the pond was empty. In the talking game, each of the 4 players caught 12 fish in all. How many more fish did the family catch in all in the talking game?",
+   "answer": "29 more fish. The silent game gave 19 fish, and the talking game gave 48.",
+   "explain": "Silent game: 5 + 4 + 5 + 5 = 19. Talking game: 4 players times 12 is 48. 48 take away 19 is 29. So holding back each round gave the family many more fish in the end.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "context": "This is about the Shared Pond Test, played once in silence and once after agreeing a rule.",
    "why_maths": "Adding up both games shows that taking less each round can mean catching more in all.",

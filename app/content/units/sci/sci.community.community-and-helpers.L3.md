@@ -1,9 +1,9 @@
 # Community helpers and shared things: how a neighbourhood keeps going
 `sci.community.community-and-helpers.L3`
 
-**Summary.** A neighbourhood runs on the work of many people: the milk delivery person, the sweeper, the postwoman, the nurse and the shopkeeper. It also runs on things that many people share, such as a water tank, a lift, a park or a pond. In this unit you list the helpers who keep your building going, and find out what public services like schools, health centres, the post office and the municipality do. Then you play a real test with a pond of chana fish, once in silence and once after agreeing a rule. You find out why some shared things run out and others last for hundreds of years.
+**Summary.** A neighbourhood runs on the work of many people: the milk delivery person, the sweeper, the postwoman, the nurse and the shopkeeper. It also runs on things that many people share, such as a water tank, a lift, a park or a pond. In this unit you list the helpers who keep your building going, and find out what public services like schools, health centres, the post office and the municipality do. Then you run the Shared Pond Test with your family. A bowl of chana stands for a pond of fish, and you play once in silence and once after agreeing a rule. You find out why some shared things run out and others last for hundreds of years.
 
-**Intro.** *Twelve families share one water tank. Nobody owns it alone. Why does it sometimes run dry by afternoon, even on a day the lorry came?* A community is a group of people who live near each other and depend on each other. Some of them do work for everyone: they bring milk, sweep the road, teach, nurse and deliver letters. Some things belong to everyone together, like a tank, a lift or a park. A shared thing can be used up when each person takes what they want. In this unit you test what keeps a shared thing going, with a bowl of chana and your own family.
+**Intro.** *Twelve families share one water tank. Nobody owns it alone. Why does it sometimes run dry by afternoon, even on a day the water lorry came?* A community is a group of people who live near each other and depend on each other. Some of them do work for everyone: they bring milk, sweep the road, teach, nurse and deliver letters. Some things belong to everyone together, like a tank, a lift or a park. A shared thing can be used up when each person takes what they want. In this unit you test what keeps a shared thing going, with a bowl of chana and your own family.
 
 ## Learning outcomes
 0. I can name helpers in my neighbourhood, say what each one does, and explain how my family depends on them.
@@ -16,16 +16,16 @@
 
 ## Terms
 - **Community**: A group of people who live near each other, share places and things, and depend on each other. *e.g.* The 40 families of one apartment block in Chennai, with their watchman, their sweeper and the shop at the gate, are a community.
-- **Neighbourhood**: The streets and buildings near your home, and the people in them. *e.g.* Lakshmi, a girl in Class 4, lives in Madurai. Her neighbourhood has her school, a temple, a ration shop, a tailor and a bus stop, all within a short walk.
-- **Profession**: The work a person does to earn a living, which needs skill and learning. *e.g.* Divya, a girl in Class 3, has an aunt who is a nurse. A neighbour is a tailor. Nursing and tailoring are professions.
+- **Neighbourhood**: The streets and buildings near your home, and the people in them. *e.g.* A neighbourhood in Madurai might have a school, a temple, a ration shop, a tailor and a bus stop, all within a short walk.
+- **Profession**: The work a person does to earn a living, which needs skill and learning. *e.g.* A nurse and a tailor both have professions: nursing and tailoring.
 - **Livelihood**: The way a person earns the money or food they need to live. *e.g.* The flower seller at a temple gate in Kolkata earns her livelihood by stringing and selling marigolds.
 - **Depend**: To need someone or something to live or to do your work. *e.g.* A sweet shop in Kolkata depends on the dairy farmer for milk, on the gas delivery man for a cylinder and on the municipality for water.
-- **Public service**: A service set up for everyone in a place, such as a government school, a health centre, the post office or the water supply. *e.g.* Arjun, a boy in Class 3, gets his water from the city's water board. His baby sister got her vaccines free at the government health centre. Both are public services.
+- **Public service**: A service set up for everyone in a place, such as a government school, a health centre, the post office or the water supply. *e.g.* Water from the city's water board and free vaccines at the government health centre are both public services.
 - **Tax**: Money that people and shops pay to the government, which it uses to run public services. *e.g.* When Amma buys a packet of biscuits, part of the price is a tax called GST. Some of that money helps pay for roads, schools and hospitals.
 - **Municipality**: The local government of a town or city. It looks after water, drains, roads, street lights, garbage and the record of births. A big city has a municipal corporation. *e.g.* The Greater Chennai Corporation sends the garbage collectors who come to a street in Chennai every morning.
-- **Gram panchayat**: The elected local government of a village. It looks after village roads, water, cleanliness and other shared work. *e.g.* In the village near Nashik where Farhan, a boy in Class 3, has his grandfather, the gram panchayat repaired the hand pump and cleaned the village pond.
+- **Gram panchayat**: The elected local government of a village. It looks after village roads, water, cleanliness and other shared work. *e.g.* In a village near Nashik, the gram panchayat repaired the hand pump and cleaned the village pond.
 - **Shared resource**: Something useful that many people use together and nobody owns alone, such as a pond, a park, a lift or the fish in the sea. Scientists also call this a commons. *e.g.* The overhead tank in a building is a shared resource. Water one flat uses is water another flat cannot use.
-- **Rule**: An agreement about what people may and may not do, which everyone knows. *e.g.* Kavya, a girl in Class 4, lives in a building where the rule says nobody washes cars with tank water in summer.
+- **Rule**: An agreement about what people may and may not do, which everyone knows. *e.g.* In one building, the rule says nobody washes cars with tank water in summer.
 - **Cooperate**: To work together towards something that helps everyone. *e.g.* The families in one lane in Mumbai cooperate to keep the drain clear before the rains.
 - **Dignity of labour**: The idea that every honest job deserves respect, whether it is done with the hands or with the head. *e.g.* The sweeper who cleans the street and the doctor at the clinic both do work the neighbourhood cannot live without.
 - **Emergency**: A sudden danger to someone's life, health or home, which needs help at once. *e.g.* A fire in a kitchen, a person who has fallen and will not wake, or a serious accident on the road is an emergency. In India, the number to call is 112.
@@ -48,7 +48,7 @@ Think of one plate of idli. A farmer grew the rice and the urad dal. A truck dri
 ### Every job needs skill, and every worker deserves respect · *defined*
 **Definition:** Dignity of labour is the idea that every honest job deserves respect. In India, the Constitution gives every citizen the right to choose their work.
 
-Some jobs look simple from outside. Try stringing jasmine as fast as the flower seller, or ironing a shirt as smoothly as the presswala, and you find how much skill they need. For a long time in India, many people were expected to do only the work their family did. Some were called 'untouchable' and kept out of schools and wells. Dr B.R. Ambedkar faced this as a child. He led the writing of India's Constitution, which came into force in 1950. It ended untouchability and gives every person the right to choose their work.
+Some jobs look simple from outside. Try stringing jasmine as fast as the flower seller, or ironing a shirt as smoothly as the presswala, and you will find out how much skill they need. For a long time in India, many people were expected to do only the work their family did. Some were called 'untouchable' and kept out of schools and wells. Dr B.R. Ambedkar faced this as a child. He led the writing of India's Constitution, which came into force in 1950. It ended untouchability and gives every person the right to choose their work.
 - e.g. A sweeper who clears a drain before the rains stops the street from flooding.
 - e.g. A nurse learns for years before she can work in a hospital.
 - e.g. Ambedkar's father worked in the army, and Ambedkar became a lawyer, an economist and a writer of the Constitution.
@@ -69,7 +69,7 @@ An emergency is a sudden danger to someone's life, health or home. In an emergen
 ### Shared resources · *defined*
 **Definition:** A shared resource, also called a commons, is something useful that many people use together, where what one person takes is not there for the next.
 
-A water tank, a village pond, a park, a lift, a parking space, the fish in the sea and the clean air of a city are shared resources. They are different from a pencil, which is yours alone. They are also different from a song on the radio. Your listening does not leave less song for anyone else. With a shared resource, every bucket one flat fills is water the other flats cannot use. That is why a shared thing can run out.
+A water tank, a village pond, a park, a lift, a parking space, the fish in the sea and the clean air of a city are shared resources. They are different from a pencil, which is yours alone. They are also different from a song on the radio. When you listen to the song, there is no less of it for anyone else. With a shared resource, every bucket one flat fills is water the other flats cannot use. That is why a shared thing can run out.
 - e.g. The overhead tank of an apartment block.
 - e.g. The eri, the old rain-fed tanks of Tamil Nadu villages, which farmers shared for watering fields.
 - e.g. The fish off the coast of Kerala, caught by many boats.
@@ -78,23 +78,23 @@ Some shared things are spoiled, like rivers full of waste. Others have lasted fo
 - e.g. In the Shared Pond Test, the silent game often ends with an empty pond.
 - e.g. The farmers of Törbel, a village in Switzerland, have shared their mountain meadows under rules written down since at least 1517.
 - e.g. Many fish in the sea are still caught faster than they breed.
-- **Garrett Hardin, an American ecologist, in 1968:** Each person gets the whole gain from taking a bit more, and shares the loss with everyone. So each person keeps taking more, and the shared thing is ruined. Only a government or an owner can stop this.
+- **Garrett Hardin, an American ecologist, in 1968:** A person who takes a bit more keeps all of the extra. The loss is spread over everyone. So each person keeps taking more, and the shared thing is ruined. Only a government or an owner can stop this.
 - **Elinor Ostrom, an American political scientist, from the 1970s to 2012:** Many communities make their own rules and look after shared things for centuries. They do best when they make the rules together, someone watches that the rules are kept, and breaking a rule has a small cost.
 - **Many scientists today:** Both can happen. Small groups who know each other, and can talk, often look after a shared thing well. Very big shared things, like the sea or the air, with millions of strangers, are much harder.
 ### What helps a shared thing last · *defined*
-**Definition:** Elinor Ostrom found that shared things last best when everyone knows who shares them, the users make the rules together, someone checks the rules are kept, breaking a rule has a small cost that grows, and there is a fair way to settle quarrels.
+**Definition:** Elinor Ostrom found that shared things last best when five things are true. Everyone knows who shares them. The users make the rules together. Someone checks the rules are kept. Breaking a rule has a small cost that grows. There is a fair way to settle quarrels.
 
-Ostrom studied village meadows, forests, fishing grounds and water channels in many countries, including farmers sharing water channels in Nepal. Where the shared thing lasted, the same kinds of rules kept appearing. In old Tamil Nadu villages, a water keeper called the neerkatti opened the tank's sluice for each field in turn. Your building's notice board, the turn for the lift and the time for the water motor are rules of the same kind.
+Ostrom studied village meadows, forests, fishing grounds and water channels in many countries, including farmers sharing water channels in Nepal. Where the shared thing lasted, the same kinds of rules kept appearing. In old Tamil Nadu villages, a water keeper called the neerkatti opened the tank's sluice, the gate that lets water out, for each field in turn. Your building's notice board, the turn for the lift and the time for the water motor are rules of the same kind.
 - e.g. A building where the caretaker writes down who used the tank motor, and when.
 - e.g. A fishing village that agrees not to fish in the months when the fish breed.
 - e.g. Children at a park who agree on turns for the one swing.
 
 ## Mostly agreed
-- No person or family can meet all their needs alone. People depend on each other's work. *How we know:* Every city and village has many kinds of work, and studies of trade and work everywhere show it.
+- No person or family can meet all their needs alone. People depend on each other's work. *How we know:* Every city and village has many kinds of work. Studies of trade and work everywhere show that people depend on each other.
 - Shared resources can be used up when each person takes as much as they like. *How we know:* Fish catches have fallen in many seas, and many city lakes have shrunk. In the Shared Pond Test, the silent game often empties the pond.
 - Many communities have looked after shared resources for hundreds of years with rules they made themselves. *How we know:* Elinor Ostrom's studies of meadows in Switzerland, water channels in Spain and Nepal, and forests and fishing grounds in many countries.
 - People who can talk to each other share a resource better than people who cannot. *How we know:* In laboratory tests by Ostrom, Roy Gardner and James Walker in the early 1990s, groups allowed to talk took far less from a shared pool than groups kept silent.
-- Vaccines given free through public health centres have saved millions of children's lives in India. *How we know:* India's national vaccination programme for children. Gagandeep Kang helped develop Rotavac, a vaccine made in India against rotavirus, which causes severe diarrhoea in babies. It joined the programme in 2016.
+- Vaccines given free through public health centres have saved millions of children's lives in India. *How we know:* This comes from India's national vaccination programme for children. Gagandeep Kang helped develop Rotavac, a vaccine made in India against rotavirus, which causes severe diarrhoea in babies. It joined the programme in 2016.
 
 ## How we found out
 **Garrett Hardin, and Elinor Ostrom of Indiana University with her colleagues, including Roy Gardner and James Walker, 1968 (Hardin's essay), 1990 (Governing the Commons), 2009 (Ostrom's Nobel Prize).** In 1968, the American ecologist Garrett Hardin wrote an essay called The Tragedy of the Commons. He pictured herders sharing one field. Each herder gains a whole cow by adding one more, but the harm to the grass is shared by all. So, he wrote, each herder keeps adding cows until the field is ruined. Many people took this as a law: shared things are always spoiled, unless a government or an owner takes control. Elinor Ostrom, a political scientist at Indiana University, wanted to see what really happened. With her team, she studied real places: mountain meadows shared by Swiss villages for centuries, water channels in Spain and Nepal, forests and fishing grounds. Many had lasted for hundreds of years, kept by rules the users made themselves. In laboratory games, she and her colleagues found that people allowed to talk took far less from a shared pool. Her book Governing the Commons came out in 1990. In 2009 she became the first woman to win the Nobel Prize in Economics.  
@@ -103,7 +103,7 @@ Ostrom studied village meadows, forests, fishing grounds and water channels in m
 ## Challenging perspectives
 - **Some jobs are high and some are low.** (A common view, and the old caste system; *rejected*)  
   For: Some jobs are paid much more, and some need many years at college.  
-  Against: Every job needs skill, and the neighbourhood falls apart without any of them. A street floods if nobody clears the drain. India's Constitution ended untouchability and gives everyone the right to choose their work.
+  Against: Every job needs skill, and the neighbourhood cannot do without any one of them. A street floods if nobody clears the drain. India's Constitution ended untouchability and gives everyone the right to choose their work.
 - **A shared thing will always be ruined, unless a government or an owner controls it.** (Garrett Hardin, The Tragedy of the Commons, 1968; *rejected*)  
   For: Many shared things have been ruined, such as polluted rivers and empty fishing grounds.  
   Against: Elinor Ostrom found many villages that have looked after meadows, forests and water for centuries with their own rules. Hardin himself later said he should have called it the tragedy of the unmanaged commons.
@@ -117,17 +117,17 @@ Ostrom studied village meadows, forests, fishing grounds and water channels in m
 ## Roots
 We have met the helpers who keep our neighbourhood going, and tested a shared pond in silence and after talking. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** In the silent game, each player took a lot, and the pond was empty within a few rounds. In the talking game, you agreed a rule, and the pond stayed full to the end. Each player also caught more fish in all. So a shared thing can last when the people who use it make rules together.  
-*Habit it breaks:* We split things into 'mine' and 'nobody's'. We look after what is ours, and think a shared thing is nobody's job, so it is bound to be spoiled. The pond showed a third kind: a thing that is ours together, and lasts when we act together.  
+**Deep truth.** In the silent game of the Shared Pond Test, each player took a lot, and the pond was empty within a few rounds. In the talking game, you agreed a rule, and the pond stayed full to the end. Each player also caught more fish in all. So a shared thing can last when the people who use it make rules together.  
+*Habit it breaks:* We split things into 'mine' and 'nobody's'. We look after what is ours, and think a shared thing is nobody's job, so it is bound to be spoiled. The Shared Pond Test showed a third kind: a thing that is ours together, and lasts when we act together.  
 *Evidence:* In the Shared Pond Test, the pond ran out quickly when players chose in silence, and lasted when they talked and agreed a limit first. Ostrom's studies found village meadows, water channels and forests kept for centuries in the same way.
 
 - *who am i:* You are one of many people who use the same water, roads and air. What you take, and what you leave, reaches all of them.
-- *what is life:* Life in a community is always shared: the work of many hands, and the things that many people use.
+- *what is life:* Life in a community is shared. We live on the work of many people, and on things that many people use.
 - *what is this world:* It is a world where the same tank can run dry or last, depending on what the people around it agree.
 
 A pond is one body of water, but many families drink from it. Each family has its own bucket and its own wants. When they talk and agree a rule, they stop taking separately and begin taking as a group, and the pond can feed all of them. A community is many people learning to act together.
 
-- **Tirukkural 215:** The wealth of a wise person who loves the world is like the village tank, the ooruni, full of water: everyone can drink from it. (Valluvar picked the shared village tank as his picture of good wealth. A full tank is good because it is open to everyone, which only lasts if everyone takes care of it.)
+- **Tirukkural 215:** The wealth of a wise person who loves the world is like the village tank, the ooruni, full of water: everyone can drink from it. (Valluvar picked the shared village tank as his picture of good wealth. A full tank is good because it is open to everyone. It stays full only if everyone takes care of it.)
 - **Rig Veda 10.191.2:** Come together, speak together, let your minds agree. (In the Shared Pond Test, the only change between the two games was speaking together. That was enough to keep the pond full.)
 - **Tirukkural 322:** To share your food and protect many lives is the first of all the good things the wise have taught. (Keeping fish in the pond for others is a kind of sharing food. It protects the families and the fish too.)
 - Science (settled): Groups who can talk with each other take less from a shared pool, and keep it longer, than groups who cannot talk.
@@ -135,14 +135,14 @@ A pond is one body of water, but many families drink from it. Each family has it
 - Other view, Garrett Hardin, in The Tragedy of the Commons (1968), and people who agree with him today: Talking is not enough when millions of strangers share something, like the sea or the sky. Each one gains from cheating a little. So we need laws, owners or governments with the power to stop people, not only promises.
 - Practice, Listen to the neighbourhood (3 min): Let's sit by the window and close our eyes. Breathe in slowly, and breathe out. Now listen. Can you hear a broom? A vegetable seller calling? A scooter, a bell, a pressure cooker? Each sound is someone's work. Count them on your fingers, without speaking. Breathe out slowly. Now open your eyes. How many people did you hear working?
 - Ask: Is a shared pond owned by everyone, or by no one?
-- Ask: If you took fewer fish so the pond would last, did you lose something or gain something?
-- Ask: Can a whole city agree a rule, the way your family did?
+- Ask: In the Shared Pond Test, if you took fewer fish so the pond would last, did you lose something or gain something?
+- Ask: Can a whole city agree a rule, the way your family did in the Shared Pond Test?
 
 ## Deep and big questions
-- *deep:* When the pond ran out in the silent game, whose fault was it? (hint: Each player took only what they thought was fair for themselves. Think about what each one could see.)
+- *deep:* In the silent game of the Shared Pond Test, the pond ran out. Whose fault was it? (hint: Each player took only what they thought was fair for themselves. Think about what each one could see.)
 - *big:* Is the air of a city a shared resource? Who makes the rules for it? (hint: Think about who breathes it, who fills it with smoke, and whether they can talk to each other.)
 - *big:* Why do we say thank you to a shopkeeper we pay, but not to a sweeper who is paid by the city? (hint: Think about whose work you see being done for you.)
-- *deep:* If everyone in your building talked for five minutes, would the tank stop running dry? (hint: Remember the talking game. What else did it need besides the talk?)
+- *deep:* If everyone in your building talked for five minutes, would the tank stop running dry? (hint: In the talking game of the Shared Pond Test, the players talked first. What else did the pond need besides the talk?)
 - *big:* Should a child have a say in the rules of the building? (hint: Children use the lift, the park and the water too.)
 - *deep:* Is a road a shared thing, like a pond? What runs out on a road? (hint: Think about space, at the busiest time of day.)
 
@@ -161,7 +161,7 @@ That night, Revathi's Paati sat on the mat and listened to all of this. Then she
 
 "Why not?" asked Revathi. "Didn't everyone take what they wanted?"
 
-"No," said Paati. "We had a neerkatti. He was the water keeper. He opened the sluice for one field, then the next, in turn. Everyone knew the order. If a farmer cut the bank to steal water, the whole village knew by evening. The farmers paid the neerkatti with a share of their harvest."
+"No," said Paati. "We had a neerkatti. He was the water keeper. He opened the sluice, the gate that lets the water out, for one field, then the next, in turn. Everyone knew the order. If a farmer cut the bank to steal water, the whole village knew by evening. The farmers paid the neerkatti with a share of their harvest."
 
 Revathi thought about it. "But the neerkatti was only one man. Why did everyone listen to him?"
 
@@ -209,7 +209,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 ## Games
 ### g1 · Who Helps Here? A card game of problems and the helpers who fix them (20 min)
 - **rules:** Shuffle the problem cards and put them in a pile, problem side up. Decide who goes first.; On your turn, take the top card and read the problem aloud.; Say who helps with it, and what they do.; Turn the card over and read the back. If your answer matches, or you gave a good reason, keep the card.; If not, put the card in the middle. Cards in the middle do not score.; When the pile is empty, read the middle cards together and learn them. The player with the most cards wins. If you tie, you share the win.
-- **Printable cards: 16 problem cards to cut out (the helper is on the back):** Water is leaking from a pipe under the kitchen sink. (back: A plumber. She or he mends pipes and taps.); A baby needs her vaccines. (back: The nurse at the government health centre. Children's vaccines there are free.); Smoke is coming out of a flat downstairs. (back: The fire service. Call 112 or 101.); A letter must reach a relative in another town. (back: The post office, and the postwoman or postman who delivers it.); The street light outside has stopped working. (back: The municipality, which looks after street lights.); Garbage bags are piling up at the corner. (back: The municipal garbage collectors. Tell the ward office if they have not come.); A chappal strap has broken. (back: The cobbler, who mends shoes and chappals.); Someone has fallen on the road and is not moving. (back: An ambulance. Call 112 or 108.); Your school uniform is too short. (back: The tailor, who can let out the hem or stitch a new one.); The family needs rice and dal at a low price. (back: The ration shop, a public service that sells grain at a fair price.); A child is being hurt by a grown-up. (back: Childline. Call 1098.); The fan stopped and the lights went off in the whole building. (back: The electricity board's lineman, who mends the supply.); Someone's bicycle was stolen from the gate. (back: The police. A complaint can be made at the police station.); A grandparent wants to save money safely and earn a little extra. (back: A bank or a post office savings account.); The village pond is full of plastic. (back: The gram panchayat, with the villagers working together.); You have a high fever and a sore throat. (back: A doctor, at a clinic or a government health centre.)
+- **Printable cards: 16 problem cards to cut out (the helper is on the back):** Water is leaking from a pipe under the kitchen sink. (back: A plumber. She or he mends pipes and taps.); A baby needs her vaccines. (back: The nurse at the government health centre. Children's vaccines there are free.); Smoke is coming out of a flat downstairs. (back: The fire service. Call 112 or 101.); A letter must reach a relative in another town. (back: The post office, and the postwoman or postman who delivers it.); The street light outside has stopped working. (back: The municipality, which looks after street lights.); Garbage bags are piling up at the corner. (back: The municipal garbage collectors. Tell the ward office if they have not come.); A chappal strap has broken. (back: The cobbler, who mends shoes and chappals.); Someone has fallen on the road and is not moving. (back: An ambulance. Call 112 or 108.); Your school uniform is too short. (back: The tailor, who can let out the hem or stitch a new uniform.); The family needs rice and dal at a low price. (back: The ration shop, a public service that sells grain at a fair price.); A child is being hurt by a grown-up. (back: Childline. Call 1098.); The fan stopped and the lights went off in the whole building. (back: The electricity board's lineman, who mends the supply.); Someone's bicycle was stolen from the gate. (back: The police. A complaint can be made at the police station.); A grandparent wants to save money safely and earn a little extra. (back: A bank or a post office savings account.); The village pond is full of plastic. (back: The gram panchayat, with the villagers working together.); You have a high fever and a sore throat. (back: A doctor, at a clinic or a government health centre.)
 - **Printable score sheet: Score sheet:** Player name; Cards won; A helper I did not know about
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Shuffle them. 3. Read the rules together.  
@@ -226,24 +226,26 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
   *Parent says:* Which helpers did we pay ourselves? Which are paid for by everyone's taxes?  
   *Child mode:* Which helpers do we pay ourselves? Which are paid by taxes?
   - Ask: Name one helper paid by taxes, and one you pay yourself. (good: The fire service is paid by taxes. The tailor is paid by us.)
-  - Think: Which helper would you most like to be, and why?
+  - Note: A good answer sounds like this: if the garbage collectors stopped, the garbage would pile up and people would fall ill. That is why services that everyone needs are paid for by everyone, through taxes.
+  - Think: Pick one helper on the cards that is paid by taxes. What would your street lose if that service stopped?
 
 ## Experiments
 ### e1 · The Shared Pond Test: does agreeing a rule keep a pond from running out? (35 min)
+- **problem:** In this experiment, the chana are fish in a pond that your family shares. Each round, every player secretly takes some fish. Then the fish that are left in the pond have babies, so their number doubles. But the pond can never hold more than 20 fish. If every fish is taken, none are left to have babies, and the pond stays empty. You play once in silence and once after talking, to find out whether agreeing a rule keeps the pond full.
 - **question:** When people share a pond, does it last longer if they talk and agree a rule first?
-- **predict:** Guess first. In which game will the pond last longer: the silent game, or the game where you talk first? Will anyone end up with more fish in one game? Why do you think so?
-- **fair test:** Play both games with the same people, the same 20 fish, the same limit on how many each player may take (2 players: up to 8; 3 players: up to 6; 4 players: up to 5), and the same 6 rounds. In both games, every player tries to end up with as many fish as they can. Only one thing changes: in the second game, players may talk and agree a rule before they choose. Everyone still writes their choice in secret, so nobody is forced.
+- **predict:** Guess first. In which game will the pond last longer: the silent game, or the game where you talk first? Will players catch more fish in one game than in the other? Why do you think so?
+- **fair test:** Play both games with the same people, the same 20 fish, the same limit on how many each player may take (with 2 players, up to 8 each, with 3 players, up to 6 each, and with 4 players, up to 5 each), and the same 6 rounds. In both games, every player tries to end up with as many fish as they can. Only one thing changes: in the second game, players may talk and agree a rule before they choose. Everyone still writes their choice in secret, so nobody is forced.
 - **safety:** Dried chana can choke children under 3. Keep them away from the bowl.
-- **record:** Fill in the results table for both games. Add up how many fish each player caught in each game. Draw a line for each game, showing the fish in the pond after each round.
+- **record:** Fill in the results table for both games. Add up how many fish each player caught in each game. Draw a line graph with one line for each game, showing the fish in the pond after each round.
 - **results table:** Game | Round | Fish in the pond at the start | Fish taken by all players | Fish left | Fish after the pond doubles (no more than 20)
 - **s1 (5 min)**  
-  *Parent does:* 1. Count the players (2 to 4). Write their limit in the notebook: 8 fish a round for 2 players, 6 for 3, 5 for 4. 2. Put 20 chana in the bowl. Keep the rest as a spare pile. 3. Give each player 12 slips and a pencil. 4. Read the rules aloud. 5. Write your child's guess and reason.  
+  *Parent does:* 1. Count the players (2 to 4). Write the limit for each player in the notebook: 8 fish a round for 2 players, 6 for 3, 5 for 4. 2. Put 20 chana in the bowl. Keep the rest as a spare pile. 3. Give each player 12 slips and a pencil. 4. Read the rules aloud. 5. Write your child's guess and reason.  
   *Parent says:* These 20 chana are fish in a pond we all share. Each round, you secretly write how many fish you take, from 0 up to our limit. Then the fish left in the pond have babies, so the number doubles. But the pond can never hold more than 20. If it ever reaches 0, no fish are left to have babies. Your aim is to catch as many fish as you can. Which game will last longer, silent or talking? Why?  
   *Child mode:* The chana are fish. Each round, write how many you take, from 0 up to the limit. The fish left will double. The pond holds 20 at most. Guess: will the silent game or the talking game last longer? Why?
   - Ask: Which game do you think will last longer, and why? (good: The talking game, because we can agree not to take too much.; The same, because everyone wants fish in both games.)
-  - Note: The limits keep the test fair for the number of players: the most any group can take in one round is about the whole pond. Write the guess down before you start, because a wrong guess is a useful result too.
+  - Note: The limit changes with the number of players. This way, in any group, the players together can take about the whole pond in one round. Write the guess down before you start, because a wrong guess is a useful result too.
 - **s2 (8 min)**  
-  *Parent does:* 1. Each round, every player writes a number from 0 to the limit on a slip, folds it and puts it down. 2. Open the slips together. 3. Each player takes that many fish. If there are not enough, take turns picking one fish at a time, youngest first, until the pond is empty. 4. Count the fish left, double them, and add fish from the spare pile, up to 20. 5. Your child writes the round in the table. 6. Play 6 rounds, or stop when the pond is empty.  
+  *Parent does:* 1. Each round, every player writes a number from 0 to the limit on a slip, folds it and puts it down. 2. Open the slips together. 3. Each player takes that many fish. If there are not enough, take turns picking one fish at a time, youngest first, until the pond is empty. 4. Count the fish left. Add fish from the spare pile until the pond has double that number, but never more than 20. 5. Your child writes the round in the table. 6. Play 6 rounds, or stop when the pond is empty.  
   *Parent says:* No talking in this game. Write your number and fold the slip. Ready? Open them. How many fish are left? Double them. That is the pond for the next round.  
   *Child mode:* No talking. Write your number. Fold it. Open together. Take your fish. Count what is left, then double it.
   - Note: Grown-ups should really try to catch the most fish for themselves, as they would in any game. Do not hold back to help the child win, or the test will not be fair. With 4 players taking 5 each, the pond usually empties in one or two rounds. With 2 players it may last a few rounds more. If your pond lasts all 6 rounds, that is a real result: ask why later.
@@ -257,14 +259,14 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
   *Parent says:* Now we may talk for 3 minutes before we play. Is there a rule that would help? How many fish can we all take each round and still have 20 next time?  
   *Child mode:* Now you may talk. Can you agree a rule? How many fish can you all take and still keep the pond full?
   - Ask: How many fish must stay in the pond so the pond doubles back to 20? (good: 10, because 10 doubled is 20.; At least 10.)
-  - Note: Let your child lead the talk if they can. Do not give them the answer. If nobody sees it, ask: 'If 10 fish stay in the pond, how many will there be after doubling?' A rule usually sounds like: 'We take 10 fish in all each round at most.' That is 5 each for 2 players, 3 each for 3 players and 2 each for 4 players. Some families also choose a person to count the pond after each round.
+  - Note: Let your child lead the talk if they can. Do not give them the answer. If nobody sees it, ask: 'If 10 fish stay in the pond, how many will there be after doubling?' A rule usually sounds like: 'All of us together take at most 10 fish each round.' That is 5 each for 2 players, 3 each for 3 players and 2 each for 4 players. Some families also choose a person to count the pond after each round.
 - **s5 (9 min)**  
-  *Parent does:* 1. Play 6 rounds exactly as before: secret slips, open together, take fish, double what is left. 2. Players may now talk between rounds too. 3. Your child writes each round in the table.  
-  *Parent says:* Same rules as before, but now we have our rule. Still write your number in secret. Did everyone keep the rule this round?  
-  *Child mode:* Same game. Write your number in secret. Did everyone keep the rule?
+  *Parent does:* 1. Play 6 rounds exactly as in the silent game: secret slips, open together, take fish, double what is left. 2. Players may now talk between rounds too. 3. Your child writes each round in the table.  
+  *Parent says:* We play the same way as in the silent game, but now we have the rule we agreed. Still write your number in secret. Did everyone keep the rule this round?  
+  *Child mode:* Play the same way as in the silent game. Write your number in secret. Did everyone keep the rule?
   - Note: Grown-ups still try to catch as many fish as they can, but they may now keep or break the rule as they really would. If someone breaks it, let the players talk about it. That is part of the test.
 - **s6 (5 min)**  
-  *Parent does:* 1. Each player counts their fish from the talking game. 2. Compare both tables. 3. Ask your child for a claim, the evidence and a reason. 4. Compare with the guess from the start.  
+  *Parent does:* 1. Each player counts their fish from the talking game. 2. Compare both tables. 3. Ask your child what they think happened, what they saw, and why. 4. Compare with the guess from the start.  
   *Parent says:* In which game did the pond last longer? In which game did each of us catch more fish? What changed between the two games? Was your guess right?  
   *Child mode:* Which pond lasted longer? When did you catch more fish? What was different? Was your guess right?
   - Ask: Why did the pond run out, or last, in each game? (good: In the silent game everyone took a lot, so too few fish were left to double.; In the talking game we took 10 in all each round, so 10 stayed and doubled back to 20.; We caught more in the talking game, because the pond kept making fish.)
@@ -297,14 +299,14 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
   *Parent says:* How many days did it take? Was your guess close? How many people do you think touched our card on the way?  
   *Child mode:* Count the days. Was your guess close? Draw the card's path. Who carried it?
   - Ask: What could make a card slower? (good: A wrong PIN code.; A holiday or a Sunday.; A far village where the post comes only some days.)
-  - Note: A card often passes through a post box collector, a sorting office, a mail van or a train, another sorting office and a delivery person. That is at least five people, all paid from the stamp and from taxes.
-  - Check: Lakshmi, a girl in Class 4, posts a card in Madurai on Monday. It reaches her aunt in Kochi on Thursday. How many days did it take? → **3 days**
+  - Note: A card often passes through a post box collector, a sorting office, a mail van or a train, another sorting office and a delivery person. That is at least five people. They are all paid from the price of the stamp and from taxes.
+  - Check: A card is posted in Madurai on Monday. It reaches Kochi on Thursday. How many days did it take? → **3 days**
 
 ## Activities
 ### a1 · Who Keeps Our Building Going? A list of the helpers we hardly see (15 min)
 - **record:** A list of helpers sorted into five groups: food, water, cleaning, health and safety, and messages and things.
 - **s1 (6 min)**  
-  *Parent does:* 1. Ask your child to think about yesterday, from waking up to bedtime. 2. List every person whose work they used, seen or unseen. 3. Write each one down.  
+  *Parent does:* 1. Ask your child to think about yesterday, from waking up to bedtime. 2. List every person whose work they used, whether they saw the person or not. 3. Write each one down.  
   *Parent says:* Who brought the milk packet? Who collected the garbage? Who sent the water to our taps? Who drove the bus? Let's write every one.  
   *Child mode:* Think about yesterday. Who brought the milk? Who took the garbage? Who sent the water? Write each one.
   - Note: Help your child think of people they never see: the person who fills the gas cylinder, the electricity lineman, the farmer, the water board worker. Most families reach 15 to 25 people.
@@ -312,13 +314,14 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
   *Parent does:* Draw five boxes: food, water, cleaning, health and safety, messages and things. Sort each helper into a box.  
   *Parent says:* Which box does the sweeper go in? And the postwoman? Which box has the most people?  
   *Child mode:* Draw five boxes. Put each helper in a box. Which box is fullest?
-  - Check: Selvi akka is the caretaker of a building. She switches on the motor that pumps water to the tank on the roof. Which box does she go in? → **Water**
+  - Check: The caretaker of a building switches on the motor that pumps water to the tank on the roof. Which box does the caretaker go in? → **Water**
 - **s3 (4 min)**  
   *Parent does:* Your child picks one helper and says what would happen if that person did not come for a week.  
   *Parent says:* Pick one helper. What would our home be like if they did not come for a week?  
   *Child mode:* Pick one helper. What if they did not come for a week?
   - Ask: What would happen without the garbage collector for a week? (good: The bins would overflow and smell.; Flies and rats would come, and people could get sick.)
-  - Think: Which of these helpers have you never thanked?
+  - Note: A good answer names something real. For example: without the milk delivery person, we would have to walk to the shop every morning before school. This is the idea of the unit. People depend on each other's work.
+  - Think: Pick one helper. What could your family not do without that person's work?
 ### a2 · Meet a Helper: a short interview with a worker near home (20 min)
 - **safety:** A grown-up goes with the child and stays with them the whole time.
 - **record:** A drawing of the worker with their tool, their name, their work and one thing they said.
@@ -353,7 +356,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
   *Parent does:* Stick the card near the door.  
   *Parent says:* Why must we only call these numbers in a real emergency?  
   *Child mode:* Stick the card by the door. Why only call in a real emergency?
-  - Ask: Why only in a real emergency? (good: Someone else might need the ambulance at the same time.)
+  - Ask: Why must we call these numbers only in a real emergency? (good: Someone else might need the ambulance at the same time.)
 ### a4 · The Water Trail: where does our tap water come from? (25 min)
 - **safety:** A grown-up goes with the child to see the sump, the motor or the tank. The child never climbs onto a tank or opens a sump lid.
 - **record:** A drawing of the water's path from the tap back to a lake, a river or the ground, with each helper on the way.
@@ -383,15 +386,15 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
   *Parent does:* Make a table: the shared thing, the rule, who made it and why. Talk about one rule that is often broken.  
   *Parent says:* Why do you think this rule is here? What would happen without it? Who checks that it is kept?  
   *Child mode:* Why is each rule there? What if nobody kept it? Who checks?
-  - Check: Nandini, a girl in Class 4, lives in a building where the lift says 'No more than 6 people'. Why is the rule there? → **So the lift is not too heavy to carry safely**
+  - Check: A sign in a lift says 'No more than 6 people'. Why is the rule there? → **So the lift is not too heavy to carry safely**
 ### a6 · The Public Services Map: what is near our home? (20 min)
 - **record:** A map with your home in the middle and the public services around it, with how far each one is.
 - **s1 (12 min)**  
   *Parent does:* 1. Draw your home in the middle of the paper. 2. Mark each public service you know nearby. Look for a school, a health centre, the post office and the police station. Add the fire station, the ration shop, the bus stop and the park. 3. Draw a small sign for each.  
   *Parent says:* Where is the nearest government health centre? The post office? The fire station? Let's mark how far each one is.  
-  *Child mode:* Draw your home in the middle. Mark the school, the hospital, the post office and more. Draw a sign for each.
+  *Child mode:* Draw your home in the middle. Mark the school, the health centre, the post office and more. Draw a sign for each.
 - **s2 (8 min)**  
-  *Parent does:* Write the walking minutes or the kilometres next to each one. Talk about which you would need first in an emergency.  
+  *Parent does:* Write the walking minutes or the kilometres next to each service. Talk about which you would need first in an emergency.  
   *Parent says:* Which service is farthest? Which would we need first if someone was badly hurt?  
   *Child mode:* How far is each one? Which would you need first in an emergency?
   - Think: Who pays for all these services?
@@ -403,8 +406,8 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 - **schedule:** day 1: Choose a shared plant. Meet the people who will share it: neighbours' children or your family. Agree a rule and make a turn list. (20 min); day 2: Check the turn list and the soil. (3 min); day 3: Check the turn list and the soil. (3 min); day 4: Check the turn list and the soil. (3 min); day 5: Check the turn list and the soil. (3 min); day 6: Check the turn list and the soil. (3 min); day 7: Meet again. Look at the plant and the turn list. Was the rule kept? Change it if needed. (15 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Choose one plant that several people pass every day. 2. Meet with the others who will share it. 3. Agree a rule together, for example 'one mug of water when the soil is dry, one person each day'. 4. Make a turn list with the days and names, and a box to tick.  
-  *Parent says:* This plant belongs to all of us. If nobody waters it, it dries out. If everyone waters it, it drowns. What rule should we make?  
-  *Child mode:* Many people share this plant. Too little water dries it. Too much drowns it. Make a rule together.
+  *Parent says:* This plant belongs to all of us. A plant nobody waters dries out. A plant everyone waters drowns. What rule should we make?  
+  *Child mode:* Many people share this plant. Too little water dries the plant out. Too much drowns the plant. Make a rule together.
   - Note: If there are no neighbours' children, share the plant within the family: each person has a day. The point is to see whether a shared plant does well with a rule and a list.
 - **s2 (3 min)**  
   *Parent does:* Each day, your child checks the turn list and touches the soil. They write 'dry', 'damp' or 'soggy'. If the soil is dry, the person whose turn it is gives one mug of water and ticks the list.  
@@ -431,12 +434,12 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
   *Child mode:* List all the ways a family uses water. Which are needed? Which can wait?
 - **s2 (12 min)**  
   *Parent does:* Write a rule in three parts: what each flat may do, who checks, and what happens if someone breaks it.  
-  *Parent says:* Remember the pond. What made it last? Who will check our water rule?  
+  *Parent says:* In the Shared Pond Test, what made the pond last? Who will check our water rule?  
   *Child mode:* Write the rule. Who checks? What if someone breaks it?
   - Note: Ostrom found that rules last better when the users make them, someone checks them, and the first cost of breaking them is small.
 - **s3 (8 min)**  
   *Parent does:* Read the rule aloud to the family. Ask each person whether it is fair to their flat.  
-  *Parent says:* Imagine you live on the top floor. Is the rule fair to you? And if you live on the ground floor?  
+  *Parent says:* Suppose you live on the top floor. Is the rule fair to you? And if you live on the ground floor?  
   *Child mode:* Read your rule aloud. Is it fair to the top floor? To the ground floor?
   - Think: Which part of your rule would be hardest to check?
 ### c2 · Make a Helper's Work Easier (30 min)
@@ -457,13 +460,14 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
   *Parent does:* With a grown-up, show the helper your change and ask whether it helps.  
   *Parent says:* Would this make your work easier? Is there something else we could do?  
   *Child mode:* Show the helper. Ask if it helps.
-  - Think: How did the helper feel when you asked?
+  - Note: A good answer uses what the helper said. For example: the milk delivery person said she no longer waits at the door. If the helper says it did not help, that is a useful result too. Talk about what to change next.
+  - Think: Did your change save the helper any time? How can you tell?
 
 ## Worksheets
 ### Helpers, Services and Shared Things (core) (core, 15 questions)
 1. (match) Match each helper to their work.  
-   **Answer:** Postwoman → delivers letters and parcels; Cobbler → mends shoes and chappals; Caretaker → runs the water motor and looks after the building; Nurse → cares for sick people and gives vaccines. *Why:* These helpers come up all through the unit.
-2. (mcq) Lakshmi, a girl in Class 4, lives in a flat that gets water from the city's water board. What kind of service is this?  
+   **Answer:** Postwoman → delivers letters and parcels; Cobbler → mends shoes and chappals; Caretaker → runs the water motor and looks after the building; Nurse → cares for sick people and gives vaccines. *Why:* Each helper does one kind of work that the neighbourhood needs. Matching them shows who you would go to for each job.
+2. (mcq) A flat gets its water from the city's water board. What kind of service is this?  
    Options: A private shop / A public service / A family job  
    **Answer:** A public service. *Why:* The water board is run by the city government for everyone, so it is a public service. A strong answer says who it is for.
 3. (fill) India's single emergency number for police, fire and ambulance is ____.  
@@ -472,15 +476,15 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
    **Answer:** True. *Why:* True. The Right to Education Act of 2009 gives every child from 6 to 14 free schooling in a government school.
 5. (sort) Sort these. Is each one a shared resource, or owned by one person?  
    **Answer:** the park in a colony → Shared resource; a child's cricket bat → Owned by one person; the lift in a building → Shared resource; the fish off the coast of Kerala → Shared resource; a grandparent's spectacles → Owned by one person; the water tank on the roof → Shared resource. *Why:* A shared resource is used by many people, and what one takes is not there for the others.
-6. (order) Put the steps of one round of the Shared Pond Test in order.  
+6. (order) In a pond-sharing game, each player secretly chooses how many fish to take, and the fish left over breed. Put one round in a sensible order.  
    **Answer:** ['Each player writes a number in secret', 'Open the slips together', 'Each player takes their fish', 'Double the fish left, up to 20']. *Why:* Players choose in secret first, so nobody copies. Then the fish are taken, and the ones left breed.
-7. (count) In one round of the Shared Pond Test in the story The Tank on the Roof, Amma takes 3 fish, Paati takes 2, Karthik takes 4 and Revathi takes 1. How many fish did they take in all?  
+7. (count) In a pond game with 20 fish, four players take 3, 2, 4 and 1 fish in one round. How many fish did they take in all?  
    **Answer:** 10. *Why:* 3 + 2 + 4 + 1 = 10. A strong answer adds that 10 fish are left from 20, and 10 doubled is 20, so the pond stays full.
 8. (write) In your Shared Pond Test, which game made the pond last longer? Use your numbers to say why.  
    **Answer:** For example: the talking game. We took 10 fish in all each round, so 10 were left and doubled back to 20. In the silent game we took 19, so only 1 was left.. *Why:* A strong answer names the game, gives real numbers from the table, and says how many fish were left to double.
 9. (draw) Draw one helper who comes to your building, with the tool they use. Write their name and what they do.  
    **Answer:** A drawing of a real helper with their tool, their name and their work.. *Why:* A strong drawing shows the tool clearly, such as the broom, the iron or the post bag, and uses the helper's real name.
-10. (mcq) Divya, a girl in Class 3, buys a notebook at a shop. Part of the price is a tax called GST. Where does that tax money go?  
+10. (mcq) You buy a notebook at a shop. Part of the price is a tax called GST. Where does that tax money go?  
    Options: To the shopkeeper only / To the notebook factory / To the government, to pay for things like roads and schools  
    **Answer:** To the government, to pay for things like roads and schools. *Why:* Taxes go to the government, which uses them for public services. That is how a child buying a notebook helps pay for schools and roads.
 11. (label) Here is a picture of the water's path to a flat. Label each part: the sump, the motor, the tank on the roof, the tap.  
@@ -493,14 +497,14 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 14. (write) Choose one helper from your list. What would happen to your family if they did not come for a whole week?  
    **Answer:** For example: without the garbage collector, our bins would overflow, flies would come, and we might fall ill.. *Why:* A strong answer names a real helper and gives at least two things that would go wrong.
 15. (perspective) Two children talk about the shared swing in their building's park.  
-   **Answer:** A strong answer picks one side, gives a reason from the Shared Pond Test, and says one thing the other child has right. For example: Anjali is right that the swing gets broken, but a rule made together, like turns of 20 pushes, may keep it in use for everyone.. *Why:* Both have a point. A lock stops overuse but wastes the swing. A rule made together keeps it in use, but only if people keep it.
+   **Answer:** A strong answer picks one side, gives a reason from the Shared Pond Test, and says one thing the other child has right. For example: The first child is right that the swing gets broken, but a rule made together, like turns of 20 pushes, may keep it in use for everyone.. *Why:* Both have a point. A lock stops overuse but wastes the swing. A rule made together keeps it in use, but only if people keep it.
 ### Why Shared Things Last or Run Out (stretch) (stretch, 15 questions)
-1. (mcq) In the story The Tank on the Roof, Revathi's building has 12 flats. Every flat says, "I only take my share." Yet the tank is empty by afternoon. What is the most likely reason?  
+1. (mcq) A building has 12 flats sharing one water tank. Every flat says, "I only take my share." Yet the tank is empty by afternoon. What is the most likely reason?  
    Options: The lorry brought no water / Each flat's share added up to more than the tank holds / The water leaked out of the sky  
-   **Answer:** Each flat's share added up to more than the tank holds. *Why:* Each flat's share seemed small to them, but all the shares added up to more than the tank holds. This is just what happened in the silent pond game.
+   **Answer:** Each flat's share added up to more than the tank holds. *Why:* Each flat's share seemed small, but all the shares added up to more than the tank holds. The same thing happens in the silent game of the Shared Pond Test.
 2. (write) Garrett Hardin said shared things are always ruined. Elinor Ostrom found villages that kept them for centuries. Write how both could be right about different shared things.  
    **Answer:** For example: a small village where people know each other can talk and agree rules, so the meadow lasts. The sea is shared by millions of strangers who cannot all talk, so fish get used up.. *Why:* A strong answer gives one example where Ostrom's view fits and one where Hardin's fits, and says what is different between them.
-3. (perspective) Three people talk about the village pond in a village near Thanjavur.  
+3. (perspective) Three people talk about the pond in a village near Thanjavur.  
    **Answer:** A strong answer picks one view, gives a reason, and says what another view has right. For example: the panchayat can make fair rules for the whole village, but the fisherwoman is right that the people who use the pond know it best.. *Why:* Each view has truth. Ostrom found that rules made by the users often work best, but a government can help when users cannot agree.
 4. (match) Match each public service to what it does.  
    **Answer:** Municipality → street lights, drains and garbage; Gram panchayat → village roads, water and cleanliness; Ration shop → grain at a fair price; Health centre → vaccines and care for the sick. *Why:* Each public service does a job too big for one family.
@@ -510,9 +514,9 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
    **Answer:** Two lines: the silent game falling to 0, and the talking game staying near 20.. *Why:* A strong graph labels both axes and both lines, and the reader can see at a glance which pond lasted.
 7. (sort) Sort these helpers. Is each one usually paid by the family, or by taxes?  
    **Answer:** the tailor → Paid by the family; the government school teacher → Paid by taxes; the presswala → Paid by the family; the firefighter → Paid by taxes; the municipal sweeper → Paid by taxes; the cobbler → Paid by the family. *Why:* Public services are paid for by taxes. Other helpers are paid by the family that uses them.
-8. (mcq) In the story The Tank on the Roof, Paati tells of her village near Kanchipuram, where farmers shared one rain tank, called an eri. Who opened the sluice so each field got water in turn?  
-   Options: The neerkatti, the village water keeper / The postman / Each farmer, whenever they liked  
-   **Answer:** The neerkatti, the village water keeper. *Why:* The neerkatti was the water keeper of a Tamil Nadu village tank. He opened the sluice for each field in turn, and the farmers paid him with a share of their harvest.
+8. (mcq) Long ago, farmers in a Tamil Nadu village shared one rain tank. A water keeper opened the gate so each field got water in turn. Why was this better than each farmer opening the gate whenever they liked?  
+   Options: The far fields still got water, and the tank did not empty in one day / The water keeper wanted to stay busy / Water flows faster when one person opens the gate  
+   **Answer:** The far fields still got water, and the tank did not empty in one day. *Why:* Taking turns, with one person in charge, shares the water fairly and makes it last. If everyone opened the gate at once, the nearest fields would take most of it.
 9. (fill) A shared resource, which many people use and nobody owns alone, is also called a ____.  
    **Answer:** ['commons']. *Why:* Scientists call a shared resource a commons.
 10. (write) Your building's notice board says, 'No car washing with tank water in May.' Explain why the rule is there, and how people would know if someone broke it.  
@@ -529,38 +533,38 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 15. (fill) The 6-digit number on a letter that leads it to the right post office is the ____ code.  
    **Answer:** ['PIN', 'pin']. *Why:* PIN stands for Postal Index Number.
 ### Making Rules That Work (challenge) (challenge, 15 questions)
-1. (write) In the silent game, everyone took 5 fish and the pond ran out. Nobody was trying to empty it. Write why it still ran out, in your own words.  
+1. (write) In a silent game of the Shared Pond Test, four players each took 5 fish and the pond ran out. Nobody was trying to empty it. Write why it still ran out, in your own words.  
    **Answer:** Each player only thought about their own fish. Nobody could see what the others would take. Together they took 20, so nothing was left to breed.. *Why:* A strong answer says that each choice was small, but all the choices added together were too many.
-2. (perspective) Moumita in Kolkata and Shalini in Bengaluru argue about how to keep their city's lake clean.  
-   **Answer:** A strong answer picks one side with a reason, perhaps from the Shared Pond Test or the Rule Hunt, and says one thing the other side has right. For example: Shalini is right that people who live by the lake can watch it every day, but Moumita is right that a city government can stop a big factory that does not listen.. *Why:* Both are real views. Ostrom found that local groups often do well, but they may need help from a government against big polluters.
-3. (mcq) Arjun, a boy in Class 3, plays the pond game with 4 players. They agree 'each takes 2 fish'. Then one player secretly takes 5. The pond starts the round with 20. How many fish are left after the round, before doubling?  
+2. (perspective) The first child in Kolkata and the second child in Bengaluru argue about how to keep their city's lake clean.  
+   **Answer:** A strong answer picks one side with a reason, perhaps from the Shared Pond Test or the Rule Hunt, and says one thing the other side has right. For example: The second child is right that people who live by the lake can watch it every day, but the first child is right that a city government can stop a big factory that does not listen.. *Why:* Both are real views. Ostrom found that local groups often do well, but they may need help from a government against big polluters.
+3. (mcq) Four players play the pond game. They agree 'each takes 2 fish'. Then one player secretly takes 5. The pond starts the round with 20. How many fish are left after the round, before doubling?  
    Options: 12 / 9 / 5  
    **Answer:** 9. *Why:* Three players take 2 each, which is 6, and one takes 5. 6 and 5 make 11. 20 take away 11 is 9. Then 9 doubles to 18, so the pond is a little lower. If this happens every round, the pond slowly shrinks.
 4. (write) Ostrom found that a rule lasts better when someone checks it and breaking it has a small cost. Design a rule for the lift in a 10-floor building at the busy morning hour. Say who checks it and what happens if someone breaks it.  
    **Answer:** For example: in the morning, people going down from the top floors go first, and people on floors 1 and 2 take the stairs. The watchman stands by the lift from 8 to 9. The first time someone breaks it, he reminds them. The second time, the residents' meeting talks about it.. *Why:* A strong rule says exactly what people do, who checks, and a small cost that grows.
-5. (truefalse) Elinor Ostrom showed that shared things never get used up.  
-   **Answer:** False. *Why:* False. She showed that many communities keep shared things for a long time with good rules. Without good rules, shared things are often used up, as Hardin warned.
+5. (truefalse) Shared things, like a village pond, are never used up, whatever people do.  
+   **Answer:** False. *Why:* False. With good rules that people agree and check, shared things can last a long time. Without good rules, they are often used up.
 6. (mcq) In Kerala, the government bans most fishing by big boats in the sea for some weeks each monsoon. Why might this help the fish?  
    Options: Many fish breed in those weeks, so more young fish grow / The fish like the rain / The boats need painting  
-   **Answer:** Many fish breed in those weeks, so more young fish grow. *Why:* The ban falls in the season when many fish breed. Leaving the fish alone then lets more young fish grow, like leaving fish in the pond to double.
+   **Answer:** Many fish breed in those weeks, so more young fish grow. *Why:* The ban falls in the season when many fish breed. When the fish are left alone then, more young fish grow up. This is like leaving fish in the pond, so that they have babies and the pond fills again.
 7. (sort) Sort these changes. Would each one help a shared tank last longer, or make it run out faster?  
    **Answer:** a caretaker writes the tank level every afternoon → Helps it last; each flat fills as many drums as it wants → Makes it run out faster; no car washing with tank water in summer → Helps it last; nobody knows who is using the water → Makes it run out faster; the residents agree the rules at a meeting → Helps it last; a tap left dripping in the lobby → Makes it run out faster. *Why:* Anything that limits use, or lets people check use, helps a shared thing last.
-8. (draw) Draw your building or street as a pond. Draw the shared things in it, such as the tank, the lift and the park, and the people who use them. Add one rule for each.  
+8. (draw) Draw your building or street. Draw the shared things in it, such as the tank, the lift and the park, and the people who use them. Add one rule for each shared thing.  
    **Answer:** A drawing of the building with its shared things, the people who use them and one rule for each.. *Why:* A strong drawing shows at least three shared things, with a rule that says who may use each and how much.
-9. (write) Many people think a job is 'small' if it is done with the hands. Use your helper interview to argue against this.  
+9. (write) Many people think a job is 'small' if it is done with the hands. Use what you learned in Meet a Helper to argue against this.  
    **Answer:** For example: the presswala told me he learned for years, and his iron is heavy and hot. If he did not come, our clothes would not be ready for school.. *Why:* A strong answer uses something the helper really said, names the skill the job needs, and says who depends on it.
 10. (odd) Three of these helped a shared thing last in the stories and tests of this unit. Which one is the odd one out?  
    Options: Agreeing a rule together / The neerkatti opening the sluice in turn / Each player choosing in silence / Selvi akka's notebook of the tank level  
    **Answer:** 2. *Why:* Agreeing a rule, a water keeper and a caretaker's notebook all helped. Choosing in silence is what made the pond run out.
 11. (label) Here is a picture of an old village tank in Tamil Nadu. Label the parts: the tank, the bank, the sluice, the fields.  
    **Answer:** ['A: the tank, which stores rain', 'B: the bank, which holds the water in', 'C: the sluice, the gate that lets water out', 'D: the fields that get the water']. *Why:* The tank stores the monsoon rain. The sluice lets out water a little at a time, so the fields get water in turn.
-12. (fill) In 2009, ____ became the first woman to win the Nobel Prize in Economics, for her work on how people share things.  
-   **Answer:** ['Elinor Ostrom', 'Ostrom']. *Why:* Elinor Ostrom studied shared meadows, forests and water around the world.
-13. (mcq) Gauri, a girl in Class 4 in Pune, says, "Public services are free." What is the best answer to her?  
-   Options: She is right, they cost nothing / Only rich people pay for them / They are free to use, but everyone pays for them through taxes  
+12. (fill) When a group shares a pond, a rule works best when the people who use it ____ it together, and someone checks it.  
+   **Answer:** ['agree', 'make', 'decide', 'make up']. *Why:* People keep a rule they helped to make, and checking shows whether everyone keeps it.
+13. (mcq) Someone says, "Public services are free." What is the best answer?  
+   Options: That is right, they cost nothing / Only rich people pay for them / They are free to use, but everyone pays for them through taxes  
    **Answer:** They are free to use, but everyone pays for them through taxes. *Why:* Using them is free or cheap, but they cost money to run. That money comes from taxes, which almost everyone pays, for example through GST on things they buy.
-14. (write) In the story The Tank on the Roof, Revathi's family talked before the second pond game. What else, besides talking, helped the pond last?  
-   **Answer:** For example: Paati counted the bowl after every round, so everyone could see whether the rule was kept. Everyone also knew the number to leave, which was 10.. *Why:* A strong answer names something more than talk: a clear limit, a person who checks, or a way to see the pond.
+14. (write) Two families played the same pond game. Both talked first, but one family's pond still ran out. Besides talking, what else helps a shared pond last?  
+   **Answer:** For example: a clear limit everyone knows, such as 'leave 10 fish', and someone who counts after every round, so everyone can see whether the rule was kept.. *Why:* A strong answer names something more than talk: a clear limit, a person who checks, or a way to see the pond.
 15. (mcq) A building tries a new water rule for a month. Which is the best sign that the rule is working?  
    Options: Nobody ever talks about the rule / The tank is still half full at two o'clock, and everyone can read the notebook / The rule is very long  
    **Answer:** The tank is still half full at two o'clock, and everyone can read the notebook. *Why:* A rule works when people can see it working. A tank still half full at two o'clock, with a notebook everyone can read, is evidence. A rule nobody talks about or a very long rule proves nothing.
@@ -574,36 +578,36 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 1. (mcq) A family eats idli for breakfast. Whose work was needed to make it?  
    Options: Only the person who cooked it / The farmer, the shopkeeper, the gas delivery man and the cook / Only the shopkeeper, who sold the rice  
    **Answer:** The farmer, the shopkeeper, the gas delivery man and the cook. *Why:* Many people's work is in one plate: the farmer grew the rice and dal, the shopkeeper sold them, the gas delivery man brought the cylinder and the cook made the idli. Choosing only one person means seeing only the last step.
-2. (mcq) Meenakshi, a girl in Class 4, says a sweeper's work is less important than a doctor's. What would happen if no sweeper came to her street for a month?  
+2. (mcq) Some people say a sweeper's work is less important than a doctor's. What would happen if no sweeper came to a street for a month?  
    Options: Nothing would change / Garbage would pile up, drains would block, and people could fall ill / The doctors would sweep the street  
    **Answer:** Garbage would pile up, drains would block, and people could fall ill. *Why:* Without sweepers, garbage and blocked drains bring flies, mosquitoes and illness. Then the doctor has more sick people. Both jobs keep the street healthy, so neither is small.
 3. (mcq) Who pays for the government school, the fire service and the street lights?  
    Options: Nobody, they are free / Everyone, through taxes / Only the people who use them that day  
    **Answer:** Everyone, through taxes. *Why:* Public services are paid for with taxes, which people and shops pay to the government. Most things you buy include a tax called GST. So they are free to use, but not free to run.
-4. (mcq) Kavya, a girl in Class 4, sees smoke coming from the flat below. Which number should she call?  
+4. (mcq) You see smoke coming from the flat below. Which number should you call?  
    Options: 1098 / 112 / A friend's number  
    **Answer:** 112. *Why:* 112 is India's single emergency number. It brings the fire service, the police or an ambulance. 1098 is the helpline for children who need help.
 5. (mcq) Which of these is a shared resource?  
    Options: A child's own water bottle / The water tank on the roof of a building / A song on the radio  
-   **Answer:** The water tank on the roof of a building. *Why:* Many flats use the tank, and the water one flat uses is not there for the others. A child's own bottle is hers or his alone. A song on the radio is shared, but your listening does not leave less song for anyone.
-6. (mcq) Four players share a pond of 20 fish in the Shared Pond Test. Each one takes 5 fish in the first round. What happens?  
+   **Answer:** The water tank on the roof of a building. *Why:* Many flats use the tank, and the water one flat uses is not there for the others. A child's own bottle is hers or his alone. A song on the radio is shared, but when you listen to it there is no less of the song for anyone else.
+6. (mcq) A pond has 20 fish. After each round, the fish left in the pond double, up to 20. Four players each take 5 fish in the first round. What happens?  
    Options: The pond fills up again / No fish are left, so the pond is empty for good / Each player gets 10 fish  
    **Answer:** No fish are left, so the pond is empty for good. *Why:* 5 fish each for 4 players is 20 fish, the whole pond. No fish are left to double, so no new fish come. Taking everything at once ends the game for everyone.
-7. (mcq) In Revathi's family, the pond lasted in the talking game but ran out in the silent game. What made the difference?  
-   Options: They used different chana / They talked and agreed a rule before choosing / They played fewer rounds  
-   **Answer:** They talked and agreed a rule before choosing. *Why:* The fish, the players and the rounds were the same. Only the talking changed, so the talking and the rule made the difference.
-8. (mcq) What did Elinor Ostrom find when she studied villages that share meadows, forests and water?  
-   Options: Shared things are always ruined / Many villages keep shared things for hundreds of years with their own rules / Only governments can look after shared things  
-   **Answer:** Many villages keep shared things for hundreds of years with their own rules. *Why:* Ostrom found that many communities make their own rules, check them and keep their shared things for centuries. In 2009 she became the first woman to win the Nobel Prize in Economics.
-9. (mcq) Garrett Hardin wrote in 1968 that shared things are always spoiled. Why did he think so?  
-   Options: Because each person gets the whole gain from taking more, but shares the loss with everyone / Because people do not like fish / Because ponds dry up in summer  
-   **Answer:** Because each person gets the whole gain from taking more, but shares the loss with everyone. *Why:* Hardin said each user gets all the gain from taking more, but the harm is shared by all. So each keeps taking. Ostrom showed this is not always what happens.
-10. (mcq) Divya, a girl in Class 3, lives in a building where 8 families share one terrace to dry clothes. The lines are always full by 9 a.m. Which rule is most likely to work?  
+7. (mcq) Two groups play the same fish-sharing game with the same pond. One group chooses in silence. The other talks first and agrees a rule. Which pond is more likely to last, and why?  
+   Options: The silent group's, because nobody argues / The talking group's, because they agreed how much to leave / Both the same, because the fish are the same  
+   **Answer:** The talking group's, because they agreed how much to leave. *Why:* The fish, the players and the rounds are the same. Only the talking changes. Agreeing a rule lets everyone leave enough fish to breed.
+8. (mcq) A village has shared one forest for 300 years without using it up. What is the most likely reason?  
+   Options: Nobody ever took anything from the forest / The villagers made their own rules about how much each could take, and checked that the rules were kept / The forest grew faster every year by luck  
+   **Answer:** The villagers made their own rules about how much each could take, and checked that the rules were kept. *Why:* Shared things can last a very long time when the people who use them agree rules and check them. Scientists have found many villages like this around the world.
+9. (mcq) Some people say a shared pond will always be emptied. What reason do they give?  
+   Options: Because a person who takes more keeps all of the extra, but the loss is spread over everyone / Because people do not like fish / Because ponds dry up in summer  
+   **Answer:** Because a person who takes more keeps all of the extra, but the loss is spread over everyone. *Why:* A person who takes one more fish keeps that whole fish, but the loss is spread over everyone. So each person keeps taking. Villages with good rules show this does not always happen.
+10. (mcq) In one building, 8 families share one terrace to dry clothes. The lines are always full by 9 a.m. Which rule is most likely to work?  
    Options: The family on the top floor decides alone / The families agree two lines for each flat, and the caretaker checks / Nobody dries clothes on the terrace  
    **Answer:** The families agree two lines for each flat, and the caretaker checks. *Why:* A rule that the users agree together, with someone checking, is what Ostrom found works best. One family deciding alone is not fair, and banning the terrace wastes it.
-11. (mcq) Which of these did India's Constitution do, under Dr B.R. Ambedkar's lead?  
-   Options: It said each person must do their family's work / It ended untouchability and gave every citizen the right to choose their work / It made all jobs pay the same  
-   **Answer:** It ended untouchability and gave every citizen the right to choose their work. *Why:* The Constitution came into force in 1950. It ended untouchability and gives every citizen the right to choose their profession. It did not make every job pay the same.
+11. (mcq) In India today, can a child grow up to do any job she chooses, even if her family has always done a different job?  
+   Options: No, each person must do their family's work / Yes, every citizen has the right to choose their work, and treating anyone as untouchable is against the law / Only if all jobs pay the same  
+   **Answer:** Yes, every citizen has the right to choose their work, and treating anyone as untouchable is against the law. *Why:* India's Constitution gives every citizen the right to choose their work, and it ended untouchability. It did not make every job pay the same.
 
 ## Applications
 - Residents' associations in apartment blocks use water rules, tank records and meeting votes to share water in summer.
@@ -621,7 +625,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 
 ## Open questions
 - **How can millions of people who never meet share the air and the sea?** Small groups who can talk often share well. Nobody has found a way that works as well for the whole world. Scientists and countries are still arguing about it.
-- **Why do some people keep a rule when nobody is watching?** Some scientists say it is trust, some say it is habit or wanting to be seen as fair. Studies find all of these matter, but not how much each one does.
+- **Why do some people keep a rule when nobody is watching?** Some scientists say it is trust. Some say it is habit, or wanting to be seen as fair. Studies find that all of these matter, but nobody knows how much each one matters.
 - **Which jobs will people still do in fifty years?** Machines already do some work people once did, and new jobs keep appearing. Nobody can say for sure which jobs will stay.
 
 ## Questions to ask kids
@@ -645,10 +649,10 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 - Why did the swing want a turn list? *It was tired of going back and forth about it.*
 
 ## Connected maths
-- In the Shared Pond Test, the pond holds at most 20 fish. Fill in what the pond will have after doubling, if 4, 7, 10 and 13 fish are left. **4 becomes 8. 7 becomes 14. 10 becomes 20. 13 would be 26, but the pond holds only 20, so it becomes 20.**. Doubling means adding a number to itself: 4 and 4 make 8, 7 and 7 make 14, 10 and 10 make 20. 13 and 13 make 26, which is more than 20, so the pond stops at 20. So any number from 10 up refills the pond. (queues `math.multiplication.equal-groups.L3`)
-- In the silent game, 4 players caught these fish in all: Amma 6, Paati 5, Karthik 5 and Revathi 5. In the talking game, each caught 12. How many more fish did the family catch in all in the talking game? **27 more fish. The silent game gave 21 fish, and the talking game gave 48.**. Silent game: 6 + 5 + 5 + 5 = 21. Talking game: 4 players times 12 is 48. 48 take away 21 is 27. So holding back each round gave everyone more in the end. (queues `math.addition-subtraction.word-problems.L3`)
+- In the Shared Pond Test, the pond holds at most 20 fish. How many fish will the pond have after doubling if 4 fish are left? If 7 are left? If 10? If 13? **4 becomes 8. 7 becomes 14. 10 becomes 20. 13 would be 26, but the pond holds only 20, so it becomes 20.**. Doubling means adding a number to itself: 4 and 4 make 8, 7 and 7 make 14, 10 and 10 make 20. 13 and 13 make 26, which is more than 20, so the pond stops at 20. So any number from 10 up refills the pond. (queues `math.multiplication.equal-groups.L3`)
+- In the story The Tank on the Roof, Revathi's family played the pond game twice. In the silent game, the four players took 5, 4, 5 and 5 fish. After that, the pond was empty. In the talking game, each of the 4 players caught 12 fish in all. How many more fish did the family catch in all in the talking game? **29 more fish. The silent game gave 19 fish, and the talking game gave 48.**. Silent game: 5 + 4 + 5 + 5 = 19. Talking game: 4 players times 12 is 48. 48 take away 19 is 29. So holding back each round gave the family many more fish in the end. (queues `math.addition-subtraction.word-problems.L3`)
 - A building's tank holds 6,000 litres. 12 flats share it. If each flat uses the same amount, how much water can each flat use in a day? **500 litres for each flat.**. Share 6,000 litres into 12 equal parts. 12 times 500 is 6,000, so each flat gets 500 litres. If one flat uses 1,000 litres, another flat gets only what is left. (queues `math.division.sharing-and-grouping.L3`)
-- Revathi posts a postcard on the 3rd of the month. It arrives on the 7th. Her cousin's card to a far town arrives on the 10th. How many more days did the far card take? **3 more days. Revathi's card took 4 days, and the far card took 7.**. From the 3rd to the 7th is 4 days. From the 3rd to the 10th is 7 days. 7 take away 4 is 3. The far card travelled further and went through more sorting offices. (queues `math.time.calendar.L3`)
+- A postcard is posted on the 3rd of the month. It arrives on the 7th. A second card, posted on the same day to a far town, arrives on the 10th. How many more days did the far card take? **3 more days. The first card took 4 days, and the far card took 7.**. From the 3rd to the 7th is 4 days. From the 3rd to the 10th is 7 days. 7 take away 4 is 3. The far card travelled further and went through more sorting offices. (queues `math.time.calendar.L3`)
 - A family pays the presswala 10 rupees for each shirt. They send 7 shirts a week. How much do they pay in 4 weeks? **280 rupees.**. 7 shirts at 10 rupees is 70 rupees a week. 4 weeks of 70 rupees is 280 rupees. This money is the presswala's livelihood: what he earns to live. (queues `math.money.money-in-life.L3`)
 
 ## Song

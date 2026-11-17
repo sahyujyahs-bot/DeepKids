@@ -229,7 +229,7 @@
   {
    "concept": "How a radio message gets past the curve of the Earth",
    "status": "defined",
-   "definition": "Some radio waves bounce off a layer of charged air high above the Earth, called the ionosphere. This lets them reach places far beyond the horizon. Today, satellites also pass on signals across the world.",
+   "definition": "Some radio waves bounce off a layer high above the Earth called the ionosphere. In that layer, sunlight has given the thin air an electric charge. That charge is what bounces the radio waves back down. This lets them reach places far beyond the horizon. Today, satellites also pass on signals across the world.",
    "description": "Radio waves travel in straight lines, like light. The Earth is round, so a straight line soon leaves the ground and heads into space. In 1901, Guglielmo Marconi reported a radio signal sent across the Atlantic Ocean, much further than straight lines should allow. Later, scientists showed that a layer high in the air, the ionosphere, sends some radio waves back down. Now communication satellites go round the Earth high above us. They catch signals from one place and send them down to another, far away.",
    "examples": [
     "Short-wave radio from other countries can be heard at night in India because of the ionosphere.",
@@ -247,7 +247,7 @@
    "examples": [
     "Put a grain of sugar near an ant line and watch others come along the same path.",
     "A crow cawing loudly at a cat on the wall brings other crows.",
-    "Freshly cut grass smells strong: those smells are messages the grass sends."
+    "Grass that has just been cut smells strong. Scientists think that smell is a warning the grass sends to nearby plants."
    ],
    "perspectives": [
     {
@@ -300,7 +300,7 @@
    "for": "Fluorescent colours look very bright in the daytime and at dusk.",
    "against": "Fluorescent colours glow using some of the invisible light in sunlight. Most headlights give out almost none of it. At night a fluorescent jacket is seen about as well as a plain pale one. Reflective strips work far better.",
    "status": "rejected",
-   "context": "This card is about which clothes keep a walker safe in the dark."
+   "context": "This card is about which clothes keep a walker safe in the dark. Fluorescent colours are the very bright neon colours, such as green or orange, that you see on some jackets. In daylight they glow, because they turn some of the Sun's invisible ultraviolet light into visible light."
   },
   {
    "claim": "Marconi invented radio.",
@@ -387,7 +387,7 @@
    "When they came back with the milk, Arjun was thinking hard. 'Paati,' he said, 'when I see you, does anything go from my eyes to you?'",
    "Paati laughed. 'Now that is a question even I never asked on the night bus. What do you think?'"
   ],
-  "epiphany": "a driver sees a walker only by the headlight that bounces off the walker and returns to the driver's eyes. A white mundu reflects much of that light, so the man was seen from far away. The dark blue shirt reflected very little, so the boy was seen only when the auto was very close. Seeing the bright lamp does not mean the driver can see you. A reflector, like the red one on a cycle or the strip on a school bag, sends light straight back towards its source, so it shines brightly for the driver and much less for someone standing to the side. Many road signs are covered with the same kind of sheeting. Arjun's last question has a plain answer: nothing goes out from our eyes to make us see. We see when light comes into them.",
+  "epiphany": "A driver sees a walker only by the headlight that bounces off the walker and returns to the driver's eyes. A white mundu reflects much of that light, so the man was seen from far away. The dark blue shirt reflected very little, so the boy was seen only when the auto was very close. Seeing the bright lamp does not mean the driver can see you. A reflector, like the red one on a cycle or the strip on a school bag, sends light straight back towards its source, so it shines brightly for the driver and much less for someone standing to the side. Many road signs are covered with the same kind of sheeting. Arjun's last question has a plain answer: nothing goes out from our eyes to make us see. We see when light comes into them.",
   "ask": [
    "Why could Kavya see the man in the white mundu long before the auto reached him?",
    "Arjun could see the auto's headlight from the balcony. Why did that not mean the driver could see the boy?",
@@ -1048,7 +1048,7 @@
      "context": "This is the first step of the Words Only test. Here you set up the chairs and the picture cards.",
      "do": "1. Draw 4 picture cards and label them A, B, C and D. Each has the same 4 shapes: a circle, a square, a triangle and a straight line, in different sizes and places. 2. Put two chairs back to back. 3. The describer takes cards A and B, face down. The listener takes paper and a pencil. 4. Ask for guesses and reasons.",
      "say": "You will describe a picture using only words. I will draw it without seeing it. First, guess. Will my drawing be better if I stay silent, or if I can ask questions? Why?",
-     "kid": "Sit back to back. Hide your pictures. Guess: will the drawing be better when the listener is silent, or when the listener can ask questions? Why?",
+     "kid": "Sit back to back. Hide your pictures. Guess which drawing will be better. Will it be better when the listener is silent? Or when the listener can ask questions? Why?",
      "parent": "Keep the shapes simple so the four cards are equally hard. Cards A and B are for the first two rounds. Cards C and D are for the swap."
     },
     {
@@ -1263,7 +1263,8 @@
       ],
       "a": 0,
       "why": "The telegraph came in the 1800s, before the telephone in 1876. Radio followed in the early 1900s, and mobile phones came to India in 1995."
-     }
+     },
+     "parent": "Good answers name a real change. For example: after the wheel, animals could pull heavy loads instead of people carrying them. After the telephone, a family could talk to a relative in another town at once."
     }
    ]
   },
@@ -1461,7 +1462,8 @@
         "Less smoke and less traffic for each person."
        ]
       }
-     ]
+     ],
+     "parent": "A car with only one person in it makes the most exhaust for each person. A full bus makes the least, because many people share one engine. That is why a city wants more people in each vehicle."
     }
    ]
   },
@@ -1727,14 +1729,14 @@
      "mins": 15,
      "do": "Your child chooses materials and makes a band for the bag.",
      "say": "In the Seen in the Dark test, which cloth did you see from furthest away? Use that to design your band.",
-     "kid": "In the Seen in the Dark test, which cloth did you see from furthest away? Use that to make your band.",
+     "kid": "Think about the Seen in the Dark test. Which cloth did you see from furthest away? Use it to make your band.",
      "adult": true,
      "parent": "Help with scissors. If you cut a CD, a grown-up does the cutting, because the edges can be sharp."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Test the band in the dark with the dim torch held next to your eye, as in the Seen in the Dark test. Count foot-steps.",
+     "do": "Test the band in the dark. Hold the dim torch next to your eye, as in the Seen in the Dark test. Count foot-steps.",
      "say": "Let's test it in the dark. Step back until you can't see the band. How far?",
      "kid": "Test your band in the dark. Count your foot-steps. Did it beat the white cloth?",
      "adult": true
@@ -2564,7 +2566,7 @@
   "Goods trains and ships carry food, coal and fuel across India and the world.",
   "Pipelines bring drinking water, petrol and cooking gas to cities.",
   "Phone alerts, radio and TV warn people when a cyclone is coming.",
-  "Ambulances have their name written back to front on the front, so drivers ahead can read it in their mirrors.",
+  "Ambulances have the word AMBULANCE written back to front on the front. A driver ahead then sees the word the right way round in their mirror.",
   "Metros and buses carry many people with less smoke for each person.",
   "Satellites pass on TV, phone and weather signals across India.",
   "PIN codes help post offices sort millions of letters and parcels."
@@ -2630,7 +2632,7 @@
   "Can you see the auto's headlight from our window? Could the auto driver see you?",
   "What do you think a crow is telling the other crows when they caw loudly at a cat?",
   "What did people do before phones when they needed to send urgent news?",
-  "Which would you rather have: a road to every village, or a phone in every home? Why?",
+  "A road and a phone both join faraway people. What can a phone carry that a road cannot, and what can a road carry that a phone cannot?",
   "How did the vegetables in today's sambar get to our kitchen?"
  ],
  "jokes": [
@@ -2700,13 +2702,13 @@
    "why_maths": "Saying 'five times further' tells a driver much more than saying 'white is better'."
   },
   {
-   "problem": "In the Seen in the Dark test, a yellow dupatta was seen at 12 foot-steps on try 1 and 14 foot-steps on try 2. What is the middle value of the two tries?",
+   "problem": "In the Seen in the Dark test, a yellow dupatta was seen at 12 foot-steps on try 1 and 14 foot-steps on try 2. What is the average of the two tries? The average is the number exactly in the middle of the two.",
    "answer": "13 foot-steps.",
-   "explain": "12 + 14 = 26. Half of 26 is 13. So the middle value is 13 foot-steps. This is called the average of the two tries.",
+   "explain": "12 + 14 = 26. Half of 26 is 13. So the average is 13 foot-steps. It is the number exactly in the middle of the two tries.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
    "context": "This is about the Seen in the Dark test, where each cloth is tested twice.",
    "how": "e1",
-   "why_maths": "Two tries rarely give the same number. Taking the middle value gives one fair number for each cloth."
+   "why_maths": "Two tries rarely give the same number. Taking the average gives one fair number for each cloth."
   },
   {
    "problem": "You watch the road for 10 minutes. You count 20 cars with 2 people in each, and 1 bus with about 40 people. Which carried more people: all the cars together, or the one bus?",
@@ -2922,7 +2924,7 @@
    "evidence": "In the Seen in the Dark test, every cloth stayed on the chair and got the same torch light. Only the light reflected back to the eye changed, and the black cloth vanished first. A reflective strip, which sends light straight back to the lamp, shone brightest of all."
   },
   "three": {
-   "who_am_i": "Others see you only by the light that bounces off you into their eyes. Your face reaches your friend as light.",
+   "who_am_i": "Other people see you only because light bounces off you and goes into their eyes. When your friend looks at your face, that light is what has travelled from you to them.",
    "what_is_life": "Bees dance, ants leave smell trails, crows call and plants release smells that warn their neighbours. Living beings are always sending messages.",
    "what_is_this_world": "Roads, rails, wires and radio waves join far places, so rice from Andhra Pradesh reaches a kitchen in Kochi."
   },

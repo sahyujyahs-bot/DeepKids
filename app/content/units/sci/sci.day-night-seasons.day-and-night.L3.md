@@ -1,9 +1,9 @@
 # Day and night: how the spinning Earth makes them
 `sci.day-night-seasons.day-and-night.L3`
 
-**Summary.** The Sun never stops shining. When it is night here, our side of the Earth has simply turned away from it. The Earth is a huge ball that spins once in about 24 hours. Half of it always faces the Sun and has day. The other half has night. The spin carries every place into the light and out again. That is why the Sun seems to rise in the east and set in the west. We notice no spin, but a swinging pendulum, the stars turning round the Pole Star and photos from space all show it. The spin is very slowly getting slower. Scientists are still working out the details of how the Earth first got its spin.
+**Summary.** The Sun never stops shining. When it is night here, our side of the Earth has simply turned away from it. The Earth is a huge ball that spins once in about 24 hours. Half of it always faces the Sun and has day. The other half has night. The spin carries every place into the light and out again. That is why the Sun seems to rise in the east and set in the west. We cannot feel the spin. But a swinging pendulum, the stars turning round the Pole Star and photos from space all show it. The spin is very slowly getting slower. Scientists are still working out the details of how the Earth first got its spin.
 
-**Intro.** *Right now, as you read this, you are moving faster than an aeroplane. You are not in a car or a train. You are sitting still. So how can that be?* In most of India, the ground under your feet is moving at about 1,500 kilometres an hour. A passenger jet flies at about 900. Your house, the trees, the air and you all move together, so you feel nothing. In the afternoon here, it is night for children in America, and their Sun has not gone anywhere. Their side of the Earth is facing away from it. So why can't we feel the Earth spin, and how does the spin give us day and night?
+**Intro.** *Right now, as you read this, you are moving faster than an aeroplane. You are not in a car or a train. You are sitting still. So how can that be?* In most of India, the ground under your feet is moving at about 1,500 kilometres an hour. A passenger jet flies at about 900. Your house, the trees, the air and you all move together, so you feel nothing. When it is afternoon here, it is night for children in America. The Sun has not gone anywhere. Their side of the Earth is facing away from it. So why can't we feel the Earth spin, and how does the spin give us day and night?
 
 ## Learning outcomes
 0. I can explain that day and night happen because the Earth spins, so each place turns towards the Sun and then away from it.
@@ -45,7 +45,7 @@
 
 The Sun shines all the time. It never switches off at night. But sunlight can only reach the side of the Earth that faces the Sun. The far side is dark, like the back of your head when you face a lamp. So at every moment, half of the Earth has day and half has night. When it is 9 at night in India, it is morning in parts of America. Their Sun is the very same Sun as ours.
 - e.g. Hold an orange in front of a lamp in a dark room. The side facing the lamp is bright. The back is dark.
-- e.g. When you go to bed in Chennai, children in California are getting up for school.
+- e.g. When it is morning in Chennai, it is evening in California.
 - e.g. From space, astronauts see the Earth as half bright and half dark, with cities glowing on the dark half.
 ### The Earth spins, once in about 24 hours · *defined*
 **Definition:** The Earth spins around an imaginary line called its axis. One whole spin takes about 24 hours. This spin is called rotation.
@@ -130,7 +130,7 @@ Air scatters sunlight, sending it off in all directions, and this lights up the 
 This sounds like a silly question, but it puzzled great scientists. There are so many stars that, wherever you look, your eye should end up on a star. So why isn't the whole night sky as bright as the Sun? Johannes Kepler wondered about this in 1610. Heinrich Olbers, a German doctor and astronomer, wrote about it in 1823. Then in 1848, Edgar Allan Poe, a writer of stories and poems, made a clever guess. Maybe light from the most distant stars has not reached us yet. Today scientists agree he was largely right. The universe began about 13.8 billion years ago, so light has only had that long to travel. Also, space is stretching, which stretches far-away light until it is too dim and too red to see.
 - e.g. Stand in a big forest. Wherever you look, you see a tree trunk. A night sky full of stars should be like that, but it is not.
 ### Spinning compared with what? · *debated*
-A Foucault pendulum keeps its swing still compared with the far-away stars and galaxies, while the Earth turns underneath. Water in a spinning bucket climbs up the sides. In both cases, the spin seems to be measured against the whole distant universe. But why should the far stars decide what counts as spinning? Physicists have argued about this for more than 300 years.
+A Foucault pendulum keeps swinging in the same direction compared with the far-away stars, while the Earth turns underneath it. Water in a spinning bucket climbs up the sides of the bucket. In both cases, spin seems to be measured against the whole distant universe. But why should far-away stars decide what counts as spinning? Physicists have argued about this for more than 300 years.
 - e.g. Stir water fast in a steel bowl, then stop stirring. While the water spins, it climbs up the sides and dips in the middle.
 - e.g. In a spinning room with no windows, a pendulum would still show the spin.
 - **Isaac Newton, an English scientist, in 1687:** Space itself is a fixed stage. Spinning means turning compared with that stage, even if nothing else existed.
@@ -139,7 +139,7 @@ A Foucault pendulum keeps its swing still compared with the far-away stars and g
 ### Living things keep time with the spin · *defined*
 **Definition:** Plants, animals and people have body clocks inside them. Body clocks follow a rhythm of about 24 hours, matching the Earth's spin.
 
-In 1729, a French astronomer, Jean-Jacques d'Ortous de Mairan, put a touch-me-not plant in a dark cupboard. Their leaves still opened in the day and folded at night, without any sunlight. So the plant had their own clock. In 1962, a young French cave explorer, Michel Siffre, lived alone in a cave for about two months, with no clock and no daylight. He kept a rhythm of waking and sleeping. But it drifted, and when he came out he thought it was about 25 days earlier than it really was. In 2017, three American scientists won the Nobel Prize for finding the genes that work the clock, in fruit flies. Almost every cell in our body has a clock like that. Morning light reaching our eyes resets the main clock, in the brain, every day.
+In 1729, a French astronomer, Jean-Jacques d'Ortous de Mairan, put a touch-me-not plant in a dark cupboard. The plant's leaves still opened in the day and folded at night, without any sunlight. So the plant had their own clock. In 1962, a young French cave explorer, Michel Siffre, lived alone in a cave for about two months, with no clock and no daylight. He kept a rhythm of waking and sleeping. But it drifted, and when he came out he thought it was about 25 days earlier than it really was. In 2017, three American scientists won the Nobel Prize for finding the genes that run the clock, in fruit flies. Genes are the instructions inside every cell. Almost every cell in our body has a clock like that. Morning light reaching our eyes resets the main clock, in the brain, every day.
 - e.g. Owls, bats and many moths are active at night. Scientists call them nocturnal.
 - e.g. Long flights across the world give people jet lag. Their body clock is still on home time.
 ### Where daylight comes from · *defined*
@@ -183,7 +183,7 @@ In 1925, a young astronomer, Cecilia Payne, showed that the Sun and the stars ar
 ## Roots
 We have been learning that day and night come from the spinning Earth. Now we ask what that spin tells us about ourselves and the world.
 
-**Deep truth.** In the torch-and-ball test, the far side of the ball was dark because the ball itself blocked the light. The Earth does the same. The Sun never stops shining, and night is the half of the Earth turned away from it. So at night, the whole Earth is between you and the Sun.  
+**Deep truth.** In the torch-and-ball test, the far side of the ball was dark because the ball itself blocked the light. The Earth does the same. The Sun never stops shining, and night is the half of the Earth turned away from it. So at night, the body of the Earth is between you and the Sun.  
 *Habit it breaks:* We say 'night falls' and 'the Sun goes down', as if darkness came from somewhere or the Sun went away. The Sun never stops shining. At night, our own planet is in the way.  
 *Evidence:* In the torch and ball experiment, the back of the ball was dark because the ball itself blocked the torch. Just after sunset, the Earth's shadow shows as a dark blue band low in the eastern sky. And when Bhuj has sunset, Dong already has night, under the same Sun.
 
@@ -198,11 +198,11 @@ Day and night look like two opposite things. But they are made by one Sun shinin
 - **Aryabhatiya, Golapada verse 9 (Aryabhata, 499 CE):** A man in a moving boat sees the still trees on the bank moving backwards. In the same way, the still stars seem to move west. (Aryabhata's boat is about science, and also about seeing. What seems to move may be ourselves. Before deciding what is moving, it helps to ask where we are standing.)
 - Science (settled): The Earth spins once in about 24 hours, and the Sun's daily movement across the sky is only apparent. This is shown by Foucault pendulums, star trails and photos from space.
 - Science (idea): The Sun and the planets formed from one slowly swirling cloud of gas and dust, about 4.6 billion years ago. Most of the planets' spin comes from that cloud's turning, though giant crashes changed some of it.
-- Other view, Most physicists: Day and night are fully explained by physics: leftover spin from the cloud the Earth formed from, light travelling in straight lines, and a ball blocking it. They see no need for any deeper oneness behind it. That is an honest view, and it is how science works.
+- Other view, Most physicists: Some people say day and night are fully explained by physics: leftover spin from the cloud the Earth formed from, light travelling in straight lines, and a ball blocking it. They see no need for any deeper oneness behind it. That is an honest view, and it is how science works.
 - Practice, Feel the ground turn (3 min): Let's go to a window or terrace at sunset, or stand facing a lamp. Stand still, facing the light, but don't look straight at the Sun. Look at the glow on the buildings or the sky beside it. Try not to picture the Sun going down. Imagine the ground under your feet slowly tipping you backwards, away from it. Breathe in slowly. Breathe out slowly. The whole Earth is turning with you. Stay quiet for a moment. Who else is turning with us right now?
 - Ask: At night, the ground under you is between you and the Sun. Is night something that comes to us, or somewhere we go?
 - Ask: If you watched from space, would you see day and night as two different things, or as one lit ball?
-- Ask: The Sun moves too, round the middle of our galaxy. Is anything in the universe really still?
+- Ask: The Earth spins, and it also goes round the Sun. The Sun itself travels round the middle of our galaxy, which is the huge group of stars that we live in. Is anything in the universe really still?
 
 ## Deep and big questions
 - *big:* You are moving at nearly 1,500 kilometres an hour right now, and you notice nothing. What else might be true that you do not notice? (hint: Think of the air pressing on you, the blood moving in you, and the light from stars arriving in your eyes.)
@@ -256,7 +256,7 @@ That night, I thought about the line of light. It swept across India every morni
 
 The next day, I woke at my Dong time. I waited in the dark, quietly, for about two hours. When the first grey came, I climbed onto the wall and crowed, softly at first, then loud. Not to call the Sun. Just to tell Bhuj that it had turned round into the morning once again.
 
-**For the parent:** For the parent: the rooster thinks the Sun comes to him. The turn comes when the Sun rises without his crow, and Grandmother's sky in Dong is dark while Bhuj still has sunset. The mausambi on a pencil shows why. The Earth turns from west to east, so Dong turns into the sunlight about two hours before Bhuj. Nothing rises. The ground turns. The rooster's crow was not wrong, only still on Dong time, the way our body clocks keep home time after a long journey.
+**For the parent:** For the parent: the rooster thinks the Sun comes to him. He learns otherwise when the Sun rises without his crow, and when Grandmother's sky in Dong is dark while Bhuj still has sunset. The mausambi on a pencil shows why. The Earth turns from west to east, so Dong turns into the sunlight about two hours before Bhuj. Nothing rises. The ground turns. The rooster's crow was not wrong, only still on Dong time, the way our body clocks keep home time after a long journey.
 
 - Ask: Why did Raja think he made the Sun rise?
 - Ask: On the train, why did the dark after Raja's crow last a little longer every morning?
@@ -294,6 +294,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Parent does:* 1. Count the suns to find the winner. 2. Read the whole line out loud, from first sunrise to last.  
   *Parent says:* Let's read our line from east to west. This is the order the morning arrives in.  
   *Child mode:* Count your suns. Who won? Now read the line from east to west. That is how the morning travels.
+  - Note: New York is about 9 and a half hours behind India in summer, and 10 and a half in winter. So when the Sun rises in New York, it is afternoon or early evening in India. The Earth ball shows why. New York is far round the back of the ball from India.
   - Think: When New York has its sunrise, what time of day is it for you?
 ### g2 · Turn, Earth, Turn! (15 min)
 - **rules:** One player holds the yellow SUN sign and stands still at one side. The Sun never moves.; Everyone else stands in a small ring in the middle, holding hands and facing outwards. The ring is the Earth. With only two players, the Earth is one person standing on the spot.; The Earth turns on the spot, anticlockwise when seen from above. The ring shuffles slowly sideways, or the single player turns in small steps. The ring does not walk anywhere.; When the Sun calls 'Freeze!', everyone stops. Players facing the Sun take a DAY card and act it. Players facing away take a NIGHT card and act it. A player who has just turned to face the Sun says 'Sunrise!'. A player who has just turned away says 'Sunset!'. The Sun player makes a tick on the spin counter for each sunrise and each sunset.; Then swap, so a new player is the Sun, and add one to the turns made on the spin counter. If a pile of cards runs out, shuffle the used cards back in. Play until everyone has been the Sun once.
@@ -316,9 +317,10 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Child mode:* Go all the way round once. How many sunrises did you get?
   - Ask: One full turn of the ring gave each of you how many sunrises? What is that like on the real Earth? (good: One. One full spin of the Earth gives one day and one night.; One sunrise each turn, and one turn of the Earth takes about 24 hours.)
 - **s4 (2 min)**  
-  *Parent does:* Ask the bonus question.  
-  *Parent says:* The real Earth also travels slowly round the Sun once a year. It spins about 365 times on that journey. You will try turning and travelling at once in Be the Earth.  
-  *Child mode:* Bonus! The Earth also goes round the Sun. It spins 365 times on the way.
+  *Parent does:* Tell your child that the Earth also travels round the Sun. Then ask what would happen if the ring stopped turning.  
+  *Parent says:* The real Earth also travels slowly round the Sun once a year. It spins about 365 times on that journey. In the activity Be the Earth, you will try turning and travelling at the same time.  
+  *Child mode:* The Earth also goes round the Sun, once a year. It spins about 365 times on the way.
+  - Note: They would stay facing away from the Sun, so it would stay night for them. The players facing the Sun would have day for ever. This is why the spin matters: it keeps carrying every place into the light and out again.
   - Think: If the ring stopped turning, what would happen to the players on the night side?
 
 ## Experiments
@@ -357,9 +359,9 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   - Check: In the experiment, what made the dots go from day into night? → **The ball turning**
   - Think: Right now, is somebody on the real Earth just going into the night?
 - **s6 (4 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then read their first answer from step 1 together.  
-  *Parent says:* Now tell me three things. What do you think makes night? What did you see that shows it? Why does it happen? Now let's read your first idea. Would you change it?  
-  *Child mode:* Now say or write three things. What I think. What I saw. Why. Then read your first idea. Would you change it?
+  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then read together the answer they gave at the start, about where the Sun goes at night.  
+  *Parent says:* Now tell me three things. What do you think makes night? What did you see that shows it? Why does it happen? Now let's read your first idea about where the Sun goes at night. Would you change it?  
+  *Child mode:* Now say or write three things. What I think. What I saw. Why. Then read your first idea about where the Sun goes at night. Would you change it?
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: night comes because the Earth turns away from the Sun. What I saw: the torch never moved, but the dots went into the dark when I turned the ball. Why: light only reaches the side facing the Sun.
 ### e2 · The Shadow Stick: does the Sun really move across the sky? (30 min)
 - **question:** How does a stick's shadow change during one day? What does it tell us about the Sun and the Earth?
@@ -386,8 +388,8 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   - Ask: Why was the shadow short around noon? (good: Because the Sun was high in the sky.; Because the light came from above, so the stick blocked only a little.)
   - Check: In the shadow stick experiment, when was the shadow shortest? → **Around noon**
 - **s4 (3 min)**  
-  *Parent does:* Do this indoors in a dark room. Push a toothpick into the Earth ball as a tiny stick, next to the dot for home. Shine the torch from one side and turn the ball slowly, west to east.  
-  *Parent says:* The shadow moved because the Sun seemed to move across the sky. But remember the ball and the torch. Let's put a tiny stick on our ball and turn it.  
+  *Parent does:* Do this indoors in a dark room. Take the Earth ball from the Torch and Ball experiment. Push a toothpick into it as a tiny stick, next to the dot for home. Shine the torch from one side and turn the ball slowly, west to east.  
+  *Parent says:* The shadow moved because the Sun seemed to move across the sky. But in the Torch and Ball experiment, the torch stayed still and the ball turned. Let's put a tiny stick on our ball and turn it.  
   *Child mode:* Push a toothpick into your Earth ball. Shine the torch. Turn the ball slowly. Watch the tiny shadow move!
   - Think: If the torch stays still and the ball turns, does the little shadow still move?
 - **s5 (4 min)**  
@@ -458,6 +460,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Parent does:* Later, on your next ride in a bus, car or train, remind your child to look out of the side window.  
   *Parent says:* Look out of the window. Are the trees running? Or are we?  
   *Child mode:* On your next ride, look out of the window. Are the trees running away? Or are you moving?
+  - Note: The answer is no. We feel changes in speed, such as bumps, brakes and sharp turns. A perfectly smooth ride gives us nothing to feel. This is also why we cannot feel the Earth spin.
   - Think: If you could not see out, and the ride was perfectly smooth, would you know you were moving?
 ### a3 · Sunrise and Sunset Diary (20 min, 7 days)
 - **safety:** Never look straight at the Sun. Look at the sky near it, or at the light on buildings.
@@ -481,7 +484,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **record:** Write 4 places, their time now, and whether it is day or night there.
 - **s1 (5 min)**  
   *Parent does:* Look up the time now in London, New York, Tokyo and Sydney.  
-  *Parent says:* It's our time now. What time do you think it is in New York? Let's check.  
+  *Parent says:* Look at the clock. This is our time. What time do you think it is in New York right now? Let's check.  
   *Child mode:* Guess the time in New York right now. Now check. Were you close?
 - **s2 (5 min)**  
   *Parent does:* For each place, guess what people are doing: sleeping, eating breakfast, at school or having dinner.  
@@ -492,6 +495,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Parent does:* 1. Find India on the map or globe. Which of the 4 places are east of India, and which are west? 2. On the ball, the home dot is India. Put the flags for eastern places east of it, and western places west of it. 3. If it is day in India now, put the home dot in the torchlight. If it is night, put it in the dark. 4. Which flags are in the light? Check them against the times you found.  
   *Parent says:* Let's put India on the ball where it is right now. Where are New York and London? Does the ball agree with the clock?  
   *Child mode:* Put a flag on the ball for each place. Put India in the light if it is day here. Put it in the dark if it is night. Is New York in the light?
+  - Note: When it is bedtime in India, it is around midday in New York. Your friend is probably at school or at work. The ball shows why. When India turns into the dark, New York is still in the light.
   - Think: If you call a friend in New York at bedtime, what will they be doing?
 ### a5 · The Star Clock: stars turning round Dhruva Tara (15 min)
 - **safety:** On a terrace, stay well away from the edge, and go out at night with a grown-up.
@@ -510,6 +514,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Parent does:* Compare the two drawings. Look at what moved and what stayed still.  
   *Parent says:* The rooftop stayed still. The Saptarishi swung round the Pole Star. But the Pole Star stayed put. Why?  
   *Child mode:* The rooftop did not move. The Saptarishi swung round. Did the Pole Star move?
+  - Note: All the way round, one full circle. The Earth makes one full spin in about 24 hours, so the stars make one full circle too. In 2 hours, they go one twelfth of the way round.
   - Check: Why did the Saptarishi stars swing round the Pole Star? → **The Earth is turning, and the Pole Star is above the North Pole**
   - Think: In 24 hours, how far round would the Saptarishi go?
 ### a6 · See the Earth's Own Shadow (15 min)
@@ -561,6 +566,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Parent does:* Look up true noon for a town far east and far west of you. Talk about it.  
   *Parent says:* When is true noon in Guwahati? And in Ahmedabad? Why are they different?  
   *Child mode:* Find true noon in a far-east town and a far-west town. Why are they different?
+  - Note: Every town would have a different time, so a train timetable would need a new time at every station. One shared clock time keeps timetables simple, even though the Sun rises at different times in different places.
   - Think: If every town set its clocks by its own noon, what would happen to train timetables?
 
 ## Challenges
@@ -569,11 +575,11 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **your turn:** Now invent your own way. Draw it, make a model in a shoebox, and test it on your family for one evening. Did it help anyone feel sleepy?
 - **constraints:** It cannot use the Sun to tell the time, because the Sun is up all day and all night.; It must help people's body clocks, not just tell the time.; Draw it, and make a small model from things at home.
 - **general:** Thick dark curtains, called blackout curtains, keep the bedroom dark.; Eye masks block light from your eyes.; Everyone agrees to follow one clock, and sticks to the same bedtime every day.; Keep the bedroom cool and quiet.
-- **creative:** A lamp that slowly turns orange and dim in the evening, like a sunset, and bright white in the morning.; A 'sunset song' that plays at bedtime, so the body learns the signal.; Grow a touch-me-not plant inside. Their leaves fold at their own 'night', like a living clock.; Astronauts on the space station see 16 sunsets a day. They use special lights that change colour to help their body clocks.
+- **creative:** A lamp that slowly turns orange and dim in the evening, like a sunset, and bright white in the morning.; A 'sunset song' that plays at bedtime, so the body learns the signal.; Grow a touch-me-not plant inside. The plant's leaves fold at their own 'night', like a living clock.; Astronauts on the space station see 16 sunsets a day. They use special lights that change colour to help their body clocks.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Look at the art of the Sun at midnight.  
-  *Parent says:* Imagine the Sun is still up at midnight. How would you know it was time for bed?  
-  *Child mode:* Imagine the Sun never sets. How would you know it is bedtime?
+  *Parent does:* Read the problem together. Look at the picture of the Sun at midnight.  
+  *Parent says:* What if the Sun were still up at midnight? How would you know it was time for bed?  
+  *Child mode:* What if the Sun never set? How would you know it is bedtime?
 - **s2 (5 min)**  
   *Parent does:* List three ideas together before building anything.  
   *Parent says:* Engineers think before they build. Let's list three ideas.  
@@ -587,7 +593,8 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Parent does:* Read the usual and creative solutions together.  
   *Parent says:* Here's what people really do, and some creative ideas. Can you invent something better?  
   *Child mode:* Look at what people really do. Now invent your own. Can you beat them?
-  - Think: Do you think animals in the Arctic sleep less in summer? How could we find out?
+  - Note: A good answer says that they cannot use the Sun to tell their body clock when it is night. So they need a clock and a set bedtime, and lights or curtains that make a day and a night on purpose.
+  - Think: Astronauts see 16 sunrises a day, and the scientists at Himadri see no sunset for weeks. What do both groups need to keep their sleep steady?
 ### c2 · Day and Night You Can Feel (25 min)
 - **problem:** Your friend is blind. Design a model they can touch and feel, to show that day and night happen because the Earth spins.
 - **safety:** An old-style bulb gets hot. Keep your hands and the ball a hand's width away from it, and never touch the bulb.
@@ -608,6 +615,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Parent does:* Read the usual and creative ideas. Then improve your model.  
   *Parent says:* Here are some ideas. Can you make yours even better, so your friend could really understand it?  
   *Child mode:* Look at the ideas. Now make your model even better. Test it with your eyes shut.
+  - Note: Plants catch sunlight and make food from it, and we get our food from plants. So sunlight brings the energy for almost all of the food on Earth, as well as light and warmth.
   - Think: Sunlight brings warmth as well as light. What else does it bring to the Earth?
 
 ## Worksheets
@@ -617,8 +625,8 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
    **Answer:** Our side of the Earth spins round, away from the Sun. *Why:* The Earth spins once in about 24 hours. Each place turns into the sunlight, which is day, then away from it, which is night. The Sun shines all the time. The old idea matched what people saw, which is why it lasted so long.
 2. (fill) The imaginary line that the Earth spins around is called its ____.  
    **Answer:** ['axis']. *Why:* The axis goes through the North Pole and the South Pole. A pencil through an orange is a good model.
-3. (write) Arun, who is 7, says, 'The Earth takes a whole year to spin round once.' His big sister Meenakshi says, 'No, one spin takes a day.' Who is right? What does take a year?  
-   **Answer:** Meenakshi is right. One spin takes about 24 hours, one day and one night. A year is how long the Earth takes to travel all the way round the Sun. Arun has mixed up the spin with the journey round the Sun.. *Why:* A strong answer names both movements: the spin makes a day, and the trip round the Sun makes a year.
+3. (write) Does one spin of the Earth take a day or a year? What does take a year?  
+   **Answer:** One spin takes a day: about 24 hours, one day and one night. A year is how long the Earth takes to travel all the way round the Sun. Saying 'a year' mixes up the spin with the journey round the Sun.. *Why:* A strong answer names both movements: the spin makes a day, and the trip round the Sun makes a year.
 4. (truefalse) At any moment, about half of the Earth has day and half has night.  
    **Answer:** True. *Why:* True. The Sun can only light the half of the Earth that faces it.
 5. (mcq) In which direction does the Sun seem to rise?  
@@ -634,7 +642,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
    **Answer:** The side facing away from the torch. *Why:* The side facing away from the torch gets no light, like the night side of the Earth. Picking 'the whole ball' forgets that the torch always lights one half.
 9. (sort) Sort these. Does each one mostly happen in the day or at night?  
    **Answer:** an owl hunting mice → Night; a sunbird sipping nectar → Day; bats flying round a street lamp → Night; clothes drying in sunshine → Day; fireflies flashing → Night; your long shadow in the evening sunlight → Day. *Why:* Owls, bats and fireflies are nocturnal, which means active at night. Sunbirds feed in the day. Clothes dry in sunshine, and shadows from the Sun only happen in the day.
-10. (write) In a smooth train with your eyes shut, you can hardly tell you are moving. Use this to explain why we notice no spin.  
+10. (write) In a smooth train with your eyes shut, you can hardly tell you are moving. Use this to explain why we do not feel the Earth spin.  
    **Answer:** We only feel movement when it changes, like a bump, a speed-up or a brake. A smooth train hardly changes, so it is hard to feel. The Earth's spin is smoother than any train. It never bumps or brakes, and the air and everything around us move with us. So we feel nothing.. *Why:* A strong answer says what we really feel: changes in movement, not movement itself. Feeling nothing is not evidence that nothing moves.
 11. (match) Match each word to what it means.  
    **Answer:** Sunrise → our place turns into the sunlight; Sunset → our place turns away from the sunlight; Noon → the Sun is at its highest; Axis → the line the Earth spins around. *Why:* These are the key words of the unit. Sunrise and sunset are really about our place on the turning Earth.
@@ -667,7 +675,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
    **Answer:** 30 degrees. *Why:* The Earth turns 15 degrees every hour, because 360 divided by 24 is 15. In 2 hours that is 30 degrees. Picking 15 forgets the second hour.
 7. (truefalse) Places near the equator move faster as the Earth spins than places near the poles.  
    **Answer:** True. *Why:* True. The equator is the fattest part of the Earth, so it has the longest circle to go round in the same 24 hours.
-8. (perspective) Long ago, two great astronomers disagreed about whether the Earth spins. Imagine you lived then, with no pendulum and no photos from space.  
+8. (perspective) Long ago, two great astronomers disagreed about whether the Earth spins. Suppose you lived then, with no pendulum and no photos from space.  
    **Answer:** A strong answer works with what people knew then. For Ptolemy: it really does look and feel as if the Earth is still, and nobody could see it move. For Aryabhata: the boat shows that what seems to move is not always what moves. The answer-back uses something from this unit, for example: the air and the birds are already moving with the Earth, like a ball tossed up in a smooth train.. *Why:* Both men had good reasons. Ptolemy trusted what he felt. Aryabhata trusted a clever argument. Proof came much later, with Foucault's pendulum in 1851.
 9. (match) Match each world to its day.  
    **Answer:** Jupiter → about 10 hours; Earth → 24 hours; Mars → a little more than 24 hours; Venus → longer than 100 of our days. *Why:* Every planet spins at its own speed. Jupiter is the fastest. Venus is very slow, and spins backwards.
@@ -690,7 +698,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
    **Answer:** At about 8:56. *Why:* One spin measured against the stars takes about 23 hours and 56 minutes. So stars come back 4 minutes earlier each night. Picking '9:00 exactly' assumes a spin is exactly 24 hours. Our 24-hour day is measured by the Sun, not the stars.
 2. (mcq) In Paris, a Foucault pendulum's swing goes all the way round in about 32 hours. In Delhi it takes about 50 hours. At the North Pole, how long would it take?  
    Options: About 24 hours / About 100 hours / It would never turn / About 1 hour  
-   **Answer:** About 24 hours. *Why:* At the North Pole, the floor turns all the way round under the pendulum once a day, so the swing goes round in about 24 hours. Closer to the equator it takes longer. Exactly on the equator, it would not turn at all. Picking 'about 100 hours' follows the wrong direction of the pattern.
+   **Answer:** About 24 hours. *Why:* At the North Pole, the floor turns all the way round under the pendulum once a day, so the swing goes round in about 24 hours. Closer to the equator it takes longer. Exactly on the equator, it would not turn at all. Picking 'about 100 hours' gets the pattern backwards: the swing takes less time nearer the Pole, not more.
 3. (truefalse) In summer the Earth spins more slowly, and that is why summer days are longer.  
    **Answer:** False. *Why:* False. The Earth spins at the same speed all year, so a day and a night together always take about 24 hours. In summer, more of those 24 hours are daylight, and the night is shorter. That comes from the tilt of the Earth's axis, not from a slower spin.
 4. (mcq) On the International Space Station, astronauts see about 16 sunrises every 24 hours. Why?  
@@ -711,8 +719,8 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 10. (mcq) Cyclones in the Bay of Bengal spin anticlockwise. Which way do cyclones spin near Australia, south of the equator?  
    Options: Also anticlockwise / Clockwise / They do not spin / It changes every day  
    **Answer:** Clockwise. *Why:* The Earth's spin turns giant storms one way north of the equator and the other way south of it. Picking 'also anticlockwise' assumes the spin pushes the same way everywhere.
-11. (perspective) Aryabhata said the Earth spins in 499 CE, in India. Copernicus said it in 1543, in Poland. Heraclides of Pontus said it in Greece even earlier. Many school books name only Copernicus. Three girls argue about who should get the credit.  
-   **Answer:** A strong answer uses dates and what each person did. For Kavitha: 499 CE is over 1,000 years before 1543. For Leela: Copernicus's book was read across Europe, and led on to Galileo and Foucault. For Sana: Heraclides, Aryabhata and Copernicus each reached the idea, and none of them could prove it alone. The answer-back must use a fact too.. *Why:* There is no single right answer. Being first and changing the world are two different kinds of credit.
+11. (perspective) Aryabhata said the Earth spins in 499 CE, in India. Copernicus said it in 1543, in Poland. Heraclides of Pontus said it in Greece even earlier. Many school books name only Copernicus. Here are three views about who should get the credit.  
+   **Answer:** A strong answer uses dates and what each person did. For the first view: 499 CE is over 1,000 years before 1543. For the second view: Copernicus's book was read across Europe, and led on to Galileo and Foucault. For the third view: Heraclides, Aryabhata and Copernicus each reached the idea, and none of them could prove it alone. The answer-back must use a fact too.. *Why:* There is no single right answer. Being first and changing the world are two different kinds of credit.
 12. (write) The tides, made mainly by the Moon, rub on the sea floor and slowly brake the Earth's spin. Predict: in millions of years, will days be longer or shorter than now? Why?  
    **Answer:** Longer. A brake makes a spin slower. If the Earth spins more slowly, one turn takes more time, so each day and night is longer. Fossil corals show the change has already happened: long ago a day was about 22 hours.. *Why:* A strong answer links slower spin to a longer day, and uses evidence. Today a day gets about 2 thousandths of a second longer every 100 years.
 13. (order) Put these in order of who sees the Sun rise first on the same morning: Mumbai, Tokyo, London, Kolkata.  
@@ -733,18 +741,18 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 1. (mcq) Right now it is night in Chennai. What is the Sun doing?  
    Options: Still shining, on the side of the Earth that faces it / Switched off until morning / Hiding behind the Moon / Resting behind the hills  
    **Answer:** Still shining, on the side of the Earth that faces it. *Why:* The Sun never stops shining. Chennai has simply turned away from it. On the other side of the Earth, it is daytime.
-2. (mcq) A girl says, 'At night, we are in the Earth's own shadow.' Is she right?  
+2. (mcq) Is it true that at night we are in the Earth's own shadow?  
    Options: Yes. Night is when our place is on the far side of the Earth, which the Earth itself shades from the Sun / No. Night is the Moon's shadow / No. Night is when clouds cover the Sun / No. Shadows only happen in the day  
    **Answer:** Yes. Night is when our place is on the far side of the Earth, which the Earth itself shades from the Sun. *Why:* The Earth blocks sunlight from reaching its far side, just as the ball shades its back from the torch. So the night half of the Earth is in the Earth's own shadow. Picking 'the Moon's shadow' gives the Moon a job it does not do.
-3. (mcq) Divya, a girl in Class 4, uses a torch and a ball to show 'it is midnight in Chennai'. Where should she put the dot for Chennai?  
+3. (mcq) You use a torch and a ball to show 'it is midnight in Chennai'. Where should you put the dot for Chennai?  
    Options: On the side facing the torch / In the middle of the side facing away from the torch / On the edge between the bright and the dark side / Inside the ball  
    **Answer:** In the middle of the side facing away from the torch. *Why:* At midnight, Chennai faces directly away from the Sun, so its dot belongs in the middle of the dark half. Picking the edge between bright and dark would show sunrise or sunset, not midnight.
 4. (mcq) The Earth turns from west to east. Which way does the Sun seem to move across our sky?  
    Options: From east to west / From west to east / From north to south / It does not seem to move  
    **Answer:** From east to west. *Why:* We turn towards the east, so the Sun seems to slide the other way, from east to west. It rises in the east and sets in the west.
-5. (mcq) Selvi, who is 8, watches the Sun from her balcony all day. In the morning it is in the east. In the evening it is in the west. What is really moving?  
-   Options: Selvi's balcony, carried round by the spinning Earth / The Sun / Both the Sun and the balcony, at the same speed / Nothing moves  
-   **Answer:** Selvi's balcony, carried round by the spinning Earth. *Why:* The Sun stays put. The Earth turns, and carries Selvi and her balcony round with it. That makes the still Sun seem to cross the sky, like still trees seem to move past a train.
+5. (mcq) You watch the Sun from a balcony all day. In the morning it is in the east. In the evening it is in the west. What is really moving?  
+   Options: Your balcony, carried round by the spinning Earth / The Sun / Both the Sun and the balcony, at the same speed / Nothing moves  
+   **Answer:** Your balcony, carried round by the spinning Earth. *Why:* The Sun stays put. The Earth turns, and carries you and your balcony round with it. That makes the still Sun seem to cross the sky, like still trees seem to move past a train.
 6. (mcq) How long does one spin of the Earth take, from one noon to the next?  
    Options: About 12 hours / About 24 hours / About 7 days / About 365 days  
    **Answer:** About 24 hours. *Why:* One day and one night together take about 24 hours. Picking '12 hours' counts only the daytime. Picking '365 days' mixes up the spin with the trip round the Sun.
@@ -760,9 +768,9 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 10. (mcq) In 1851, Léon Foucault hung a long pendulum in Paris. Over many hours, its swing seemed to turn round the floor. What did this show?  
    Options: The pendulum was broken / The Earth turns under the pendulum / Wind pushed it / The Sun pulled it  
    **Answer:** The Earth turns under the pendulum. *Why:* A pendulum keeps swinging the same way unless something pushes it sideways. So it was the floor, and the Earth, that turned. Picking 'wind' is a sensible doubt. But the swing turned at the same slow, steady rate, in the same direction, hour after hour, which wind would not do.
-11. (mcq) Meera lives in Kanyakumari, in the far south of India. Tara lives in Delhi, in the north. Both look for Dhruva Tara, the Pole Star. Who sees it lower in the sky?  
-   Options: Meera, because the further south you live, the lower it sits / Tara, because the further north you live, the lower it sits / Both see it at the same height / Neither can see it  
-   **Answer:** Meera, because the further south you live, the lower it sits. *Why:* The Pole Star sits above the North Pole. Its height in your sky is about the same as how far north of the equator you live. Kanyakumari is about 8 degrees north, so the star is very low. Delhi is about 28 degrees north, so it is much higher.
+11. (mcq) Kanyakumari is in the far south of India. Delhi is in the north. From which city does Dhruva Tara, the Pole Star, look lower in the sky?  
+   Options: Kanyakumari, because the further south you live, the lower it sits / Delhi, because the further north you live, the lower it sits / It looks the same height from both / It cannot be seen from either city  
+   **Answer:** Kanyakumari, because the further south you live, the lower it sits. *Why:* The Pole Star sits above the North Pole. Its height in your sky is about the same as how far north of the equator you live. Kanyakumari is about 8 degrees north, so the star is very low. Delhi is about 28 degrees north, so it is much higher.
 12. (truefalse) Scientists know for certain exactly how fast the Earth spun when it was first formed.  
    **Answer:** False. *Why:* False. Scientists agree the young Earth spun much faster, so days were shorter. But how short the very first days were is still uncertain.
 13. (mcq) Why do we use a model, like a torch and a ball, to understand day and night?  
@@ -771,7 +779,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 14. (mcq) A woman flies from Chennai to New York, on the other side of the world. For a few days she feels sleepy at lunchtime and wide awake at night. Why?  
    Options: Her body clock is still on Chennai time / The air on the plane made her tired / New York has no proper night / She ate too much  
    **Answer:** Her body clock is still on Chennai time. *Why:* Lunchtime in New York is night-time in Chennai. Her body clock keeps home time until a few days of New York daylight reset it. This is called jet lag.
-15. (mcq) A touch-me-not plant was kept in a dark cupboard. Their leaves still opened and closed each day. What does this show?  
+15. (mcq) A touch-me-not plant was kept in a dark cupboard. The plant's leaves still opened and closed each day. What does this show?  
    Options: The plant has their own body clock / Light got into the cupboard / Plants do not need light / The plant was broken  
    **Answer:** The plant has their own body clock. *Why:* The plant kept their daily rhythm with no sunlight, so the timer must be inside them. Jean-Jacques d'Ortous de Mairan found this in 1729. Picking 'light got in' is a good scientist's doubt, and later tests ruled it out.
 
