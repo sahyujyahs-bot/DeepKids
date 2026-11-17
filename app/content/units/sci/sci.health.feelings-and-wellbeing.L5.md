@@ -146,7 +146,7 @@ Three kinds of evidence point in different directions. Toddlers help before anyo
 - **When many people are watching, nobody helps.** (John Darley and Bibb Latané in 1968, and many textbooks since.; *debated*)  
   For: In their test, a person heard someone fall ill over an intercom. Of those who thought they were the only listener, 85 in 100 went for help. Of those who thought four others could hear, 31 in 100 did.  
   Against: In 2020 Richard Philpot's team studied street cameras in Amsterdam, Lancaster and Cape Town. They watched 219 real quarrels. In 9 of every 10, at least one bystander stepped in, and more bystanders made help more likely.
-- **Telling people how many others break a rule will make them stop.** (Many notice boards and signs.; *rejected*)  
+- **Telling people how many others break a rule will make them stop.** (Many notice boards and signs are written as if this were true.; *rejected*)  
   For: It shows that the problem is serious.  
   Against: Robert Cialdini's team tested signs in the Petrified Forest park in Arizona. A sign saying that many visitors took the ancient stone wood led to more theft: about 8 of every 100 marked pieces. A sign that simply asked visitors not to take wood led to fewer than 2 in 100.
 - **Teasing toughens children up.** (A common belief.; *rejected*)  
@@ -155,7 +155,7 @@ Three kinds of evidence point in different directions. Toddlers help before anyo
 - **Cleaning is unskilled work, so it deserves less respect.** (A common belief.; *rejected*)  
   For: The work needs no degree, and it is often poorly paid.  
   Against: A cleaner must know how to handle sharp and infected waste, and which chemicals must never be mixed. The work stops disease for everyone else. How long a person studied for a job does not measure how much others depend on it.
-- **All kindness is hidden selfishness.** (Some philosophers and some biologists.; *debated*)  
+- **All kindness is hidden selfishness.** (Some philosophers and some biologists say this.; *debated*)  
   For: Helpers often get help back later, and helping feels good to the helper.  
   Against: Toddlers and rats help with no reward in sight. People return lost purses to strangers they will never meet. A good feeling afterwards does not show that the feeling was the aim.
 
@@ -170,7 +170,7 @@ In the Hurry Test and the Smile Count, another person's words and face changed w
 - *what is life:* Living beings change each other's bodies all the time. Rats free trapped companions, elephants comfort an upset elephant, and a toddler hands back a dropped peg.
 - *what is this world:* A place is made of the people in it. Its mood and its rules pass from one person to the next, so no place stands apart from the people who use it.
 
-A mood, a habit or a skill passes from one body to another through faces, voices and actions. A giggling row, a line at a tap and a quiet room are each one shared state held by many people. Many sages taught that all beings are one awareness looking out through many eyes. This unit shows one small, measurable case of it. The state of a place is held by all of its people together.
+A mood, a habit or a skill passes from one body to another through faces, voices and actions. A giggling row, a line at a tap and a quiet room are each one shared state held by many people. Many sages taught that all beings share one awareness, even though each of us looks out from a different body. This unit shows one small, measurable case of it. The state of a place is held by all of its people together.
 
 - **Avatamsaka Sutra, the image of Indra's net:** In Indra's net, a bright jewel hangs at every knot, and each jewel shows the reflection of all the others. (A face in a room shows the faces around it. A smile or a frown is reflected from one person to the next. The sutra is a picture from a Buddhist text, and the unit's measurements stand without it.)
 - **Ubuntu, a saying of the Zulu and Xhosa peoples of southern Africa: 'umuntu ngumuntu ngabantu':** A person is a person through other persons. (The Hurry Test shows one exact case. A person's aim, pulse and mood are shaped by what other people say and do near them.)
@@ -344,7 +344,7 @@ On Monday she came out two minutes early again. Three children were already stan
   *Parent says:* Add up the misses in the three calm runs, and in the three hurried runs. Say what you thought would happen, what you saw, and why you think it happened.  
   *Child mode:* Add up the misses for each kind of run. Say what you thought, what you saw, and why.
   - Ask: Did the hurried runs have more misses than the calm runs? What else changed? (good: Yes, there were more misses, and my pulse was higher.; My body felt tighter.; Not much changed, and that is a real result too.)
-  - Ask: How could you find out whether the words or only the speed caused the misses? (good: Hurry myself in silence and compare.; Have the helper say 'faster' in a slow, calm voice.; Run the same test with a helper who says 'take your time'.)
+  - Ask: How could you find out whether the words or only the speed caused the misses? (good: Hurry myself with no words, then compare.; Have the helper say 'faster' in a slow, calm voice.; Run the same test with a helper who says 'take your time'.)
   - Note: The reason: hurry words can set off the stress response. Adrenaline speeds the heart, and the muscles tighten. Tight, quick hands aim less well. The test cannot separate the words from the speed, and a grown-up can say so honestly. A small test of one family is only a hint. Scientists would repeat it with many people.
   - Think: Think of a time someone hurried you. What did your body do?
 ### e2 · The Smile Count: does a smile come back more often than a plain face? (30 min)
@@ -448,7 +448,7 @@ On Monday she came out two minutes early again. Three children were already stan
   *Parent does:* Ask the question below. Then say that places are built the same way, by people who think about their own view.  
   *Parent says:* Why might a person draw the E for themselves? A place can be built from one person's side, too. Where have you seen that?  
   *Child mode:* A place can be built from one person's side. Where have you seen that?
-  - Ask: Where have you seen a place built from only one person's side? (good: A switch too high for a child.; A step with no ramp.; A notice only in one language.)
+  - Ask: Where have you seen a place built from only one person's side? (good: A switch that is too high for a child to reach.; A step with no ramp.; A notice written in only one language.)
 ### a3 · Lost for Words: what helps when you do not know the language? (12 min)
 - **record:** Draw a table with four rows: said again, said louder, pointed, showed. Write a tick if the helper understood the instruction.
 - **s1 (4 min) · grown-up needed**  
@@ -537,7 +537,7 @@ On Monday she came out two minutes early again. Three children were already stan
   *Parent does:* Day 4. Tick again. Count the ticks for each rule. Ask your child to say what they thought would happen, what they saw, and why they think it happened. Change one rule if it did not work.  
   *Parent says:* Count the ticks for each rule. Which rule was kept most? Which least? Say what you thought would happen, what you saw, and why you think it happened.  
   *Child mode:* Count the ticks. Which rule was kept most? Why?
-  - Ask: Which rule was kept most, and why do you think so? (good: The easy rules, such as putting shoes on the rack.; The one where a person did it first.; The one that is next to the thing it is about.)
+  - Ask: Which rule was kept most, and why do you think so? (good: The easy rules, such as putting shoes on the rack.; The one where a person did it first.; The one with a reminder right beside it.)
   - Note: A rule that is easy to do and easy to see tends to last. If a rule slipped, ask what would make it easier, such as a hook, a basket or a sign beside the place. Change one rule, with everyone's agreement, and sign again.
   - Wait: Do this the day after day 3
 
@@ -667,8 +667,8 @@ On Monday she came out two minutes early again. Three children were already stan
    **Answer:** ['out']. *Why:* A long out-breath slows the heart a little. The body can then settle sooner.
 ### Testing ideas about feelings, norms and kindness (challenge, 15 questions)
 1. (mcq) A test finds that hurried hands miss more. How could you show that the words, not only the speed, caused it?  
-   Options: Hurry yourself in silence and compare / Use a bigger bottle / Test one run only / Use fewer chana  
-   **Answer:** Hurry yourself in silence and compare. *Why:* If the hand also misses more when it hurries itself in silence, the speed alone matters. If it misses more only with the hurry words, the words matter. Changing the bottle, the run count or the chana would not separate these.
+   Options: Hurry yourself with no words, then compare / Use a bigger bottle / Test one run only / Use fewer chana  
+   **Answer:** Hurry yourself with no words, then compare. *Why:* If the hand also misses more when it hurries itself in silence, the speed alone matters. If it misses more only with the hurry words, the words matter. Changing the bottle, the run count or the chana would not separate these.
 2. (mcq) A park sign says 'Most visitors take wood.' Which sign would work better?  
    Options: Please leave the wood where it is / Thieves will be caught / Many visitors take wood / Wood is very valuable  
    **Answer:** Please leave the wood where it is. *Why:* A sign that says many people break a rule makes breaking it look normal. A simple, friendly request that shows the right action worked better in tests.

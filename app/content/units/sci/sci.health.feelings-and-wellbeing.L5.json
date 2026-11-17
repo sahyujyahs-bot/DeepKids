@@ -350,7 +350,7 @@
   },
   {
    "claim": "Telling people how many others break a rule will make them stop.",
-   "who": "Many notice boards and signs.",
+   "who": "Many notice boards and signs are written as if this were true.",
    "for": "It shows that the problem is serious.",
    "against": "Robert Cialdini's team tested signs in the Petrified Forest park in Arizona. A sign saying that many visitors took the ancient stone wood led to more theft: about 8 of every 100 marked pieces. A sign that simply asked visitors not to take wood led to fewer than 2 in 100.",
    "status": "rejected",
@@ -374,7 +374,7 @@
   },
   {
    "claim": "All kindness is hidden selfishness.",
-   "who": "Some philosophers and some biologists.",
+   "who": "Some philosophers and some biologists say this.",
    "for": "Helpers often get help back later, and helping feels good to the helper.",
    "against": "Toddlers and rats help with no reward in sight. People return lost purses to strangers they will never meet. A good feeling afterwards does not show that the feeling was the aim.",
    "status": "debated",
@@ -986,7 +986,7 @@
       {
        "q": "How could you find out whether the words or only the speed caused the misses?",
        "good": [
-        "Hurry myself in silence and compare.",
+        "Hurry myself with no words, then compare.",
         "Have the helper say 'faster' in a slow, calm voice.",
         "Run the same test with a helper who says 'take your time'."
        ]
@@ -1481,9 +1481,9 @@
       {
        "q": "Where have you seen a place built from only one person's side?",
        "good": [
-        "A switch too high for a child.",
+        "A switch that is too high for a child to reach.",
         "A step with no ramp.",
-        "A notice only in one language."
+        "A notice written in only one language."
        ]
       }
      ],
@@ -1877,7 +1877,7 @@
        "good": [
         "The easy rules, such as putting shoes on the rack.",
         "The one where a person did it first.",
-        "The one that is next to the thing it is about."
+        "The one with a reminder right beside it."
        ]
       }
      ],
@@ -2554,7 +2554,7 @@
      "t": "mcq",
      "p": "A test finds that hurried hands miss more. How could you show that the words, not only the speed, caused it?",
      "opts": [
-      "Hurry yourself in silence and compare",
+      "Hurry yourself with no words, then compare",
       "Use a bigger bottle",
       "Test one run only",
       "Use fewer chana"
@@ -3382,7 +3382,7 @@
    "what_is_life": "Living beings change each other's bodies all the time. Rats free trapped companions, elephants comfort an upset elephant, and a toddler hands back a dropped peg.",
    "what_is_this_world": "A place is made of the people in it. Its mood and its rules pass from one person to the next, so no place stands apart from the people who use it."
   },
-  "thread": "A mood, a habit or a skill passes from one body to another through faces, voices and actions. A giggling row, a line at a tap and a quiet room are each one shared state held by many people. Many sages taught that all beings are one awareness looking out through many eyes. This unit shows one small, measurable case of it. The state of a place is held by all of its people together.",
+  "thread": "A mood, a habit or a skill passes from one body to another through faces, voices and actions. A giggling row, a line at a tap and a quiet room are each one shared state held by many people. Many sages taught that all beings share one awareness, even though each of us looks out from a different body. This unit shows one small, measurable case of it. The state of a place is held by all of its people together.",
   "teachings": [
    {
     "source": "Avatamsaka Sutra, the image of Indra's net",

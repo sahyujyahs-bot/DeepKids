@@ -60,9 +60,9 @@ In the Comb Test, each tooth bent the card and let it snap back. Each snap pushe
 **Definition:** Most musical instruments make sound with one of three vibrating things: a tight string, a tight skin, or the air inside a tube.
 
 A string is plucked, bowed or struck. Its note depends on its length, its tightness and its weight. A thin string moves very little air. So it is joined through a bridge to a soundboard or a hollow body. A skin is struck with a hand or a stick. Its note depends on its size, its tightness and its weight. The black patch on a tabla is a paste of rice flour and fine iron or stone powder. It adds weight in the middle of the skin. An air column is the air inside a tube. Something must start it: a reed, the player's lips, or a stream of breath across an edge. Air is springy and it has weight, so it vibrates back and forth along the tube. A longer column vibrates more slowly and gives a lower note.
-- e.g. Strings: veena, sitar, sarod, violin, guitar, tanpura and the Bauls' ektara.
-- e.g. Skins: mridangam, tabla, chenda, parai, dhol and the pung of Manipur.
-- e.g. Air columns: bansuri, nadaswaram, shehnai, the conch and the trumpet. In the Palm Pipe, the air in a cardboard tube gave a note when you slapped the end.
+- e.g. String instruments include the veena, the sitar, the sarod, the violin, the guitar, the tanpura and the ektara of the Bauls.
+- e.g. Instruments with skins include the mridangam, the tabla, the chenda, the parai, the dhol and the pung of Manipur.
+- e.g. Instruments with an air column include the bansuri, the nadaswaram, the shehnai, the conch and the trumpet. In the Palm Pipe, the air in a cardboard tube gave a note when you slapped the end.
 ### Your voice, and the voices of other animals · *defined*
 **Definition:** A voice is made by two small folds in the voice box, called the vocal folds. Breath from the lungs blows them apart, and they spring shut again, many times a second.
 
@@ -133,7 +133,7 @@ In this unit you turned separate ticks into a note, and watched a slow string pa
 - *what is life:* Living beings make and catch vibrations all day. A male cricket draws one wing across the other. A spider reads her web through her feet. You do it with a throat and two eardrums.
 - *what is this world:* Anything that is springy and has weight can vibrate: a string, the air, the ground, the Sun. The world goes on ringing for a while after every push.
 
-In the Comb Test, 40 separate ticks became one note. Looked at closely, the one note is still many pushes. So 'one' and 'many' can be two true descriptions of the same event. Which one you get depends on how fast the pushes come, and on who is listening. Many sages taught that the many things of the world are one thing, met in parts. The Comb Test does not prove that. It does show, with a comb and a card, how many can be heard as one.
+In the Comb Test, 40 separate ticks became one note. Looked at closely, the one note is still many pushes. So 'one' and 'many' can be two true descriptions of the same event. Which one you get depends on how fast the pushes come, and on who is listening. Many sages taught that the many different things in the world are really one thing, which we meet only a part at a time. The Comb Test does not prove that. It does show, with a comb and a card, how many can be heard as one.
 
 - **Zhuangzi, chapter 2, 'On Making Things Equal' (China, about 2,300 years ago):** A teacher describes the wind blowing through all the hollows of a forest. Each hollow gives its own sound: some roar, some whistle, some sigh. Then he asks who does the sounding. (This is an air column, described long ago. In the Palm Pipe, a long tube and a short tube gave different notes from the same slap. Each hollow gives the note that its own length sets. The book leaves its question open, and so do we.)
 - **Sharngadeva, Sangita Ratnakara, chapter 1 (India, 13th century):** This book on music speaks of two kinds of sound. The struck sound is made when things meet, and it is the sound of all music. The unstruck sound is said to be heard only in deep stillness. (Every sound in this unit is a struck sound. Something was plucked, hit, rubbed or blown, and then it vibrated. Science studies this kind. The unstruck sound is a teaching about the mind, and science does not measure it.)
@@ -191,7 +191,7 @@ She ran back inside and picked up the two curls of the broken string. She had al
 
 "Why would a string need a coat?"
 
-"To be heavy. A heavy string moves slowly, even when it is pulled tight. Tight, so that it rings. Heavy, so that it is slow. And slow is low."
+"To be heavy. A heavy string moves slowly, even when it is pulled tight. The string must be tight so that it rings. It must be heavy so that it moves slowly. And a string that moves slowly gives a low note."
 
 Ammayi did not look up from the harmonium. "There is copper wire in the dead fan motor under the bench," she said.
 
@@ -227,7 +227,7 @@ Tresa was already working it out.
   *Parent does:* 1. The reader reads the top card. 2. The others vote with a token, face down, then turn the tokens over. 3. The reader reads the back. 4. Give 1 point for a right vote and 1 more for the right reason.  
   *Parent says:* Before you vote, ask yourself two things. Is it pulled back harder or less hard? Is there more to move or less?  
   *Child mode:* Listen to the card. Vote faster, slower or the same. Say your reason. Then check the back.
-  - Ask: Plucking a string harder does not change how fast it vibrates. What does it change? (good: The amplitude: the string moves further.; The loudness.)
+  - Ask: Plucking a string harder does not change how fast it vibrates. What does it change? (good: The amplitude. The string moves farther away from its rest position.; The loudness.)
   - Note: Two cards have the answer THE SAME. They catch a common mix-up between loudness and the height of a note.
 - **s3 (4 min)**  
   *Parent does:* 1. Count the points. 2. Sort the cards into three heaps by their reason: pulled back harder or less hard, more or less to move, and no change. 3. Ask the check question.  
@@ -414,7 +414,7 @@ Tresa was already working it out.
   *Parent says:* Now I will pinch the chain, so that only a short part can move. Pluck the short part. What do you hear? Say what you thought would happen, what happened, and why you think it happened.  
   *Child mode:* Pluck the short part of the chain. What do you hear? Say why you think it happened.
   - Ask: The same chain gave a slow swing, then a blur, then a note. What changed each time? (good: First the weight, when the peg came off.; Then the tightness, when I stepped back.; Then the length, when it was pinched short.)
-  - Note: The short part gives a clear twang. A short string has less to move, so it vibrates faster. Slow enough to watch and fast enough to hear are the same movement at different frequencies.
+  - Note: The short part gives a clear twang. A short string has less to move, so it vibrates faster. A slow vibration that you can watch and a fast vibration that you can hear are the same kind of movement. Only the frequency is different.
   - Think: A veena player presses a string against a fret to play a higher note. Which of your three changes is that?
 ### a3 · The Palm Pipe: play an air column with a slap (15 min)
 - **safety:** A grown-up cuts the tube.
@@ -698,7 +698,7 @@ Tresa was already working it out.
 - Why did the string refuse to stop in the middle? *It was going too fast to stay.*
 - What did the comb say to the card? *Slow down, I can still hear myself tick.*
 - Why was the drum skin so tired? *It had been up and down all day.*
-- What did the veena string say to the wooden body? *I set the note. You tell the room.*
+- What did the veena string say to the wooden body? *I choose the note. You make it loud enough for the whole room.*
 - Why did the phone like the sponge? *It was the only place it could buzz in peace.*
 - What is a mosquito's favourite number? *Any number of beats that keeps you awake.*
 - Why did the air column never win an argument? *It kept going back and forth.*

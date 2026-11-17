@@ -101,7 +101,7 @@ A seed bank follows six steps. First, the seeds are collected, with a note of th
 A frozen seed is safe from floods, pests and war, but the seed does not change. The world outside keeps changing: new pests arrive, and the weather shifts. A crop that farmers sow every year keeps adapting. Each year, the plants that do well leave the most seed. But a field can be lost in one bad season. Some seeds cannot be frozen at all, because they die when they are dried. Mango, jackfruit and cocoa are like this, and they are kept as living trees.
 - e.g. Rahibai Popere, a farmer in Maharashtra, has saved many old crop varieties by growing and sharing them.
 - e.g. Women farmers of the Deccan Development Society in Telangana run village seed banks of millets. Seed is lent, and paid back after harvest.
-- e.g. After the tsunami of 2004, farmers in Nagapattinam in Tamil Nadu went back to old paddy that stands salty soil.
+- e.g. After the tsunami of 2004, farmers in Nagapattinam in Tamil Nadu went back to old paddy that can grow in salty soil.
 - **Scientists who run frozen seed banks:** A freezer keeps thousands of varieties in one small room for a hundred years, at low cost. When a variety is lost from the fields, the bank can give it back. No village could keep growing so many varieties every year.
 - **Farmers and scientists who keep seeds growing, such as the ecologist Debal Deb in Odisha:** A seed in a freezer stops adapting to new weather and new pests. A variety also needs farmers who know how to grow, cook and choose that crop. So the seeds should be sown every year, in many fields.
 - **Many people who work with both:** The two ways cover each other's risks. Fields keep seeds adapting, and frozen banks are the back-up when a field is lost.
@@ -241,7 +241,7 @@ On the seventh day she counted three times, moving each sprouted grain to one si
 
 Maama squatted beside the cloth. "Twenty-nine dead," he said.
 
-"Seventy-one alive," said Thenmozhi. "After twenty months. Out of every ten grains, seven will grow. So where you would sow seven, sow ten."
+"Seventy-one alive," said Thenmozhi. "After twenty months. Out of every ten grains, seven will grow. So for every seven plants we want, we should sow ten grains."
 
 Maama looked at the cloth for a long time. Then he laughed. "So now the pot has spoken," he said. "Through half a handful."
 
@@ -264,7 +264,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 ## Games
 ### g1 · Scoop and Guess: how many seeds must you test? (25 min)
 - **rules:** You need 45 rajma, 25 kabuli chana, a steel dabba with a lid, a spoon, and the mix cards. A rajma is a living seed. A chana is a dead seed.; One player is the setter. The setter picks a mix card in secret, puts those seeds in the dabba, closes the lid and shakes.; The other player is the guesser. The guesser shuts their eyes, stirs with the spoon and lifts out 5 seeds, one at a time.; The guesser looks at the 5 seeds and says what percent of the whole dabba is alive. The setter writes the guess.; The guesser lifts out 5 more seeds, to make 10, and guesses again. Then 15 more, to make 25, and guesses a third time.; The setter shows the mix card. Each guess within 10 of the true percent scores 1 point. A round can score 3 points.; Put all the seeds back, swap jobs and play again. After 3 rounds each, the player with more points wins.; Playing alone? Use the 80 percent mix. Take 5 seeds and write the percent alive. Put them back and shake. Do this 10 times. Then do 10 scoops of 25 seeds. Count how many scoops of each size came within 10 of 80.
-- **Printable cards: 5 mix cards for the setter: cut them out and keep them face down:** 5 chana and 45 rajma: 90 percent alive; 10 chana and 40 rajma: 80 percent alive; 15 chana and 35 rajma: 70 percent alive; 20 chana and 30 rajma: 60 percent alive; 25 chana and 25 rajma: 50 percent alive
+- **Printable cards: 5 mix cards for the setter: cut them out and keep them face down:** 5 chana and 45 rajma. This mix is 90 percent alive.; 10 chana and 40 rajma. This mix is 80 percent alive.; 15 chana and 35 rajma. This mix is 70 percent alive.; 20 chana and 30 rajma. This mix is 60 percent alive.; 25 chana and 25 rajma. This mix is 50 percent alive.
 - **Printable score sheet: Score sheet: one row for each round:** Round number; Guess after 5 seeds (percent alive); Guess after 10 seeds (percent alive); Guess after 25 seeds (percent alive); True percent alive on the mix card; Points: 1 for each guess within 10 of the true percent
 - **s1 (5 min)**  
   *Parent does:* 1. Cut out the mix cards. 2. Count 45 rajma and 25 chana into two bowls. 3. Explain that rajma are living seeds and chana are dead seeds. 4. Practise turning a small count into a percentage.  
@@ -482,7 +482,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
   *Parent says:* Find the plumule between the halves. Has it grown? Now write, in order, everything that has happened to a chana since day 1.  
   *Child mode:* Open one more chana. Find the tiny shoot. Draw it. Write the steps in order.
   - Ask: Say the steps of germination in order. (good: The seed takes in water and swells.; The seed coat splits.; The radicle comes out and grows down.; The plumule grows up, and then the first leaves open.)
-  - Note: The first two halves often look a little thinner by day 4. The embryo is using the food. You can plant the remaining chana in a pot.
+  - Note: The two halves often look a little thinner by day 4, because the embryo is using the food. You can plant the remaining chana in a pot.
 
 ## Projects
 ### p1 · Three Jars, Three Weeks: what makes stored seeds die? (80 min, 25 days)
@@ -590,7 +590,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 ### Dry, cold and counted (stretch) (stretch, 15 questions)
 1. (write) In the Freezer Test, dry seeds germinated equally well from the freezer and from the shelf. What does this show?  
    **Answer:** It shows that cold alone does not kill a dry seed. The two groups differ only in the freezer, and the result is the same.. *Why:* A strong answer names the one difference between the groups and says that this difference did not change the result.
-2. (mcq) Soaked seeds on a shelf: 100 percent. Soaked, frozen: 0 percent. Dry, frozen: 90 percent. What killed the seeds?  
+2. (mcq) Soaked seeds germinated 100 percent on a shelf and 0 percent frozen. Frozen dry seeds germinated 90 percent. What killed the seeds?  
    Options: Cold and water together / Cold alone / Water alone / Old age  
    **Answer:** Cold and water together. *Why:* Dry frozen seeds lived, so cold alone is not the cause. Soaked seeds on the shelf lived, so water alone is not the cause. Only the group with both died.
 3. (truefalse) A dormant seed is a dead seed.  
@@ -747,10 +747,10 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 
 ## Connected maths
 - In the Freezer Test, 19 of 20 dry seeds from the shelf germinated. From the freezer, 18 of 20 dry seeds germinated. What is each percentage? Is the difference big enough to matter? **95 percent and 90 percent. The difference is too small to matter.**. Each seed out of 20 is worth 5 percent. 19 times 5 is 95, and 18 times 5 is 90. The difference is one seed, and one seed can fail by chance. (queues `math.fractions.decimals-and-percentages.L5`)
-- Look at the made-up Freezer Test chart. By how many percentage points did freezing lower the dry seeds? And the soaked seeds? What do the two answers tell you together? **Dry seeds: 5 points lower. Soaked seeds: 100 points lower. The harm from cold depends on whether the seed is wet.**. Dry: 95 minus 90 is 5. Soaked: 100 minus 0 is 100. The same freezer did almost nothing to dry seeds and killed every soaked seed. So cold and water act together. (queues `math.data.reading-data.L5`)
+- Look at the made-up Freezer Test chart. By how many percentage points did freezing lower the dry seeds? And the soaked seeds? What do the two answers tell you together? **Freezing lowered the dry seeds by 5 percentage points, and the soaked seeds by 100 percentage points. So the harm from cold depends on whether the seed is wet.**. Dry: 95 minus 90 is 5. Soaked: 100 minus 0 is 100. The same freezer did almost nothing to dry seeds and killed every soaked seed. So cold and water act together. (queues `math.data.reading-data.L5`)
 - A Rag Doll Test shows that a sack of paddy seed germinates at 80 percent. A farmer wants 2,000 seedlings. How many seeds should she sow? **2,500 seeds.**. 80 percent means 8 of every 10 seeds grow. 2,000 seedlings are 250 lots of 8. So she needs 250 lots of 10 seeds, which is 2,500. (queues `math.fractions.ratio-and-proportion.L5`)
-- In Scoop and Guess, 80 percent of the seeds in the dabba are rajma. In a scoop of 5, which counts of rajma give a guess within 10 of 80 percent? In a scoop of 25? **In a scoop of 5: only 4 rajma. In a scoop of 25: 18, 19, 20, 21 or 22 rajma.**. Out of 5, each seed is 20 percent, so 3, 4 and 5 rajma give 60, 80 and 100. Only 80 is within 10. Out of 25, each seed is 4 percent, so 18 to 22 rajma give 72 to 88. A bigger scoop has more ways to land close. (queues `math.probability.experiments.L5`)
-- William Beal buried bottles of seeds in 1879. One bottle was opened in 2021, and the last is due in 2100. How long was each wait? How old will a child born in 2016 be in 2100? **About 140 years and 221 years. The child will be 84.**. 2021 minus 1879 is 142, which is about 140. 2100 minus 1879 is 221. 2100 minus 2016 is 84. (queues `math.time.duration.L5`)
+- In Scoop and Guess, 80 percent of the seeds in the dabba are rajma. In a scoop of 5, which counts of rajma give a guess within 10 of 80 percent? In a scoop of 25? **In a scoop of 5, only 4 rajma gives a guess within 10 of 80 percent. In a scoop of 25, any count from 18 to 22 rajma does.**. Out of 5, each seed is 20 percent, so 3, 4 and 5 rajma give 60, 80 and 100. Only 80 is within 10. Out of 25, each seed is 4 percent, so 18 to 22 rajma give 72 to 88. A bigger scoop has more ways to land close. (queues `math.probability.experiments.L5`)
+- William Beal buried bottles of seeds in 1879. One bottle was opened in 2021, and the last is due in 2100. How long was each wait? How old will a child born in 2016 be in 2100? **The first wait was about 140 years, and the last will be 221 years. A child born in 2016 will be 84 in 2100.**. 2021 minus 1879 is 142, which is about 140. 2100 minus 1879 is 221. 2100 minus 2016 is 84. (queues `math.time.duration.L5`)
 - In Three Jars, Three Weeks, the damp jar gave these made-up results. Between which two tests did germination fall most? A seed bank regrows seeds below 85 percent. By which test should these seeds have been regrown? **It fell most between week 1 and week 2. The seeds should have been regrown by week 1.**. The first fall is 95 to 80, which is 15 points. The second is 80 to 45, which is 35 points. The third is 45 to 15, which is 30 points. The line first goes below 85 at week 1, when it reads 80. (queues `math.data.line-graphs.L5`)
 
 ## Song

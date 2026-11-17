@@ -177,9 +177,9 @@
    "definition": "Most musical instruments make sound with one of three vibrating things: a tight string, a tight skin, or the air inside a tube.",
    "description": "A string is plucked, bowed or struck. Its note depends on its length, its tightness and its weight. A thin string moves very little air. So it is joined through a bridge to a soundboard or a hollow body. A skin is struck with a hand or a stick. Its note depends on its size, its tightness and its weight. The black patch on a tabla is a paste of rice flour and fine iron or stone powder. It adds weight in the middle of the skin. An air column is the air inside a tube. Something must start it: a reed, the player's lips, or a stream of breath across an edge. Air is springy and it has weight, so it vibrates back and forth along the tube. A longer column vibrates more slowly and gives a lower note.",
    "examples": [
-    "Strings: veena, sitar, sarod, violin, guitar, tanpura and the Bauls' ektara.",
-    "Skins: mridangam, tabla, chenda, parai, dhol and the pung of Manipur.",
-    "Air columns: bansuri, nadaswaram, shehnai, the conch and the trumpet. In the Palm Pipe, the air in a cardboard tube gave a note when you slapped the end."
+    "String instruments include the veena, the sitar, the sarod, the violin, the guitar, the tanpura and the ektara of the Bauls.",
+    "Instruments with skins include the mridangam, the tabla, the chenda, the parai, the dhol and the pung of Manipur.",
+    "Instruments with an air column include the bansuri, the nadaswaram, the shehnai, the conch and the trumpet. In the Palm Pipe, the air in a cardboard tube gave a note when you slapped the end."
    ],
    "perspectives": [],
    "art": "Three instruments side by side, a veena, a mridangam and a bansuri, each with the vibrating part coloured: the string, the skin and the air inside."
@@ -368,7 +368,7 @@
    "She ran back inside and picked up the two curls of the broken string. She had always taken it for one fat wire. Now she held the broken end under the lamp and bent it. Something was coming undone. A wire as fine as a hair was unwinding, round and round, from a plain thin string in the middle.",
    "\"Joby,\" she said. \"It was never a thick string. It is a thin string wearing a coat.\"",
    "\"Why would a string need a coat?\"",
-   "\"To be heavy. A heavy string moves slowly, even when it is pulled tight. Tight, so that it rings. Heavy, so that it is slow. And slow is low.\"",
+   "\"To be heavy. A heavy string moves slowly, even when it is pulled tight. The string must be tight so that it rings. It must be heavy so that it moves slowly. And a string that moves slowly gives a low note.\"",
    "Ammayi did not look up from the harmonium. \"There is copper wire in the dead fan motor under the bench,\" she said.",
    "It took them until late. They gripped one end of a thin string in the hand drill and tied the other end to the vice. Joby turned the handle slowly. Tresa fed the copper wire on, each turn tight against the last, like thread on a bobbin. Twice the coat came loose, and twice they began again.",
    "At last she fitted the string to the guitar and turned the peg. The string tightened. She plucked it.",
@@ -404,7 +404,7 @@
    "what_is_life": "Living beings make and catch vibrations all day. A male cricket draws one wing across the other. A spider reads her web through her feet. You do it with a throat and two eardrums.",
    "what_is_this_world": "Anything that is springy and has weight can vibrate: a string, the air, the ground, the Sun. The world goes on ringing for a while after every push."
   },
-  "thread": "In the Comb Test, 40 separate ticks became one note. Looked at closely, the one note is still many pushes. So 'one' and 'many' can be two true descriptions of the same event. Which one you get depends on how fast the pushes come, and on who is listening. Many sages taught that the many things of the world are one thing, met in parts. The Comb Test does not prove that. It does show, with a comb and a card, how many can be heard as one.",
+  "thread": "In the Comb Test, 40 separate ticks became one note. Looked at closely, the one note is still many pushes. So 'one' and 'many' can be two true descriptions of the same event. Which one you get depends on how fast the pushes come, and on who is listening. Many sages taught that the many different things in the world are really one thing, which we meet only a part at a time. The Comb Test does not prove that. It does show, with a comb and a card, how many can be heard as one.",
   "teachings": [
    {
     "source": "Zhuangzi, chapter 2, 'On Making Things Equal' (China, about 2,300 years ago)",
@@ -604,7 +604,7 @@
       {
        "q": "Plucking a string harder does not change how fast it vibrates. What does it change?",
        "good": [
-        "The amplitude: the string moves further.",
+        "The amplitude. The string moves farther away from its rest position.",
         "The loudness."
        ]
       }
@@ -1632,7 +1632,7 @@
        ]
       }
      ],
-     "parent": "The short part gives a clear twang. A short string has less to move, so it vibrates faster. Slow enough to watch and fast enough to hear are the same movement at different frequencies.",
+     "parent": "The short part gives a clear twang. A short string has less to move, so it vibrates faster. A slow vibration that you can watch and a fast vibration that you can hear are the same kind of movement. Only the frequency is different.",
      "think": "A veena player presses a string against a fret to play a higher note. Which of your three changes is that?",
      "context": "This is the last step of the Slow String. You pluck a short part of the tight chain of rubber bands and hear a clear note."
     }
@@ -2937,7 +2937,7 @@
   },
   {
    "j": "What did the veena string say to the wooden body?",
-   "a": "I set the note. You tell the room."
+   "a": "I choose the note. You make it loud enough for the whole room."
   },
   {
    "j": "Why did the phone like the sponge?",
@@ -2968,7 +2968,7 @@
    "math_unit": "math.division.division-facts.L5",
    "how": "e1",
    "context": "In the Comb Test you draw a card along 40 teeth of a comb. A slow stroke gives separate ticks, and a quick stroke gives a note.",
-   "why_maths": "Ticks each second is a number you can compare from one stroke to the next. 'Fast' and 'slow' are not."
+   "why_maths": "The number of ticks each second is something you can compare from one stroke to the next. The words 'fast' and 'slow' cannot be compared in that way."
   },
   {
    "problem": "In the Comb Test, the strokes gave 5, 10, 20, 40 and 80 ticks each second. What is the pattern? What stroke time would give the next number?",
@@ -2995,7 +2995,7 @@
    "math_unit": "math.fractions.ratio-and-proportion.L5",
    "how": "e3",
    "context": "In the Spoon on a String you tap a hanging spoon and count the seconds you hear the ring. You listen through the air and then through the string. These counts are made up.",
-   "why_maths": "'Six times as long' says how big the difference is. 'Longer' does not."
+   "why_maths": "Saying that the ring lasted six times as long tells you how big the difference is. Saying only that it lasted longer does not."
   },
   {
    "problem": "In the Thali and the Skin, the total scores were 6 at 10 cm and 5 at 20 cm. They were 2 at 40 cm and 0 at 80 cm. A friend then gets 4 at 80 cm. Is that likely to be right? Explain.",

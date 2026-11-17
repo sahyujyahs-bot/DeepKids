@@ -245,7 +245,7 @@
    "examples": [
     "Rahibai Popere, a farmer in Maharashtra, has saved many old crop varieties by growing and sharing them.",
     "Women farmers of the Deccan Development Society in Telangana run village seed banks of millets. Seed is lent, and paid back after harvest.",
-    "After the tsunami of 2004, farmers in Nagapattinam in Tamil Nadu went back to old paddy that stands salty soil."
+    "After the tsunami of 2004, farmers in Nagapattinam in Tamil Nadu went back to old paddy that can grow in salty soil."
    ],
    "perspectives": [
     {
@@ -431,7 +431,7 @@
    "On the fifth day she counted fifty-eight.",
    "On the seventh day she counted three times, moving each sprouted grain to one side of the cloth so that none was counted twice. Seventy-one grains had a root and a pale green spike. Twenty-nine lay as they had lain on the first day.",
    "Maama squatted beside the cloth. \"Twenty-nine dead,\" he said.",
-   "\"Seventy-one alive,\" said Thenmozhi. \"After twenty months. Out of every ten grains, seven will grow. So where you would sow seven, sow ten.\"",
+   "\"Seventy-one alive,\" said Thenmozhi. \"After twenty months. Out of every ten grains, seven will grow. So for every seven plants we want, we should sow ten grains.\"",
    "Maama looked at the cloth for a long time. Then he laughed. \"So now the pot has spoken,\" he said. \"Through half a handful.\"",
    "They sowed the nursery bed the next morning, thicker than Maama had ever sown it. The seedlings came up dark green. Thenmozhi went to look at the tips every day. They stayed green.",
    "In January the paddy stood chest high in the field where the shop seedlings had died, and the long hairs on the grains shone in the sun. Paatti filled three pots from the first threshing, before a single grain was sold. One went back under the roof. Two went to the neighbours on either side.",
@@ -471,11 +471,11 @@
      "kind": "cards",
      "title": "5 mix cards for the setter: cut them out and keep them face down",
      "items": [
-      "5 chana and 45 rajma: 90 percent alive",
-      "10 chana and 40 rajma: 80 percent alive",
-      "15 chana and 35 rajma: 70 percent alive",
-      "20 chana and 30 rajma: 60 percent alive",
-      "25 chana and 25 rajma: 50 percent alive"
+      "5 chana and 45 rajma. This mix is 90 percent alive.",
+      "10 chana and 40 rajma. This mix is 80 percent alive.",
+      "15 chana and 35 rajma. This mix is 70 percent alive.",
+      "20 chana and 30 rajma. This mix is 60 percent alive.",
+      "25 chana and 25 rajma. This mix is 50 percent alive."
      ]
     },
     {
@@ -1878,7 +1878,7 @@
        ]
       }
      ],
-     "parent": "The first two halves often look a little thinner by day 4. The embryo is using the food. You can plant the remaining chana in a pot.",
+     "parent": "The two halves often look a little thinner by day 4, because the embryo is using the food. You can plant the remaining chana in a pot.",
      "context": "This is the last step of Four Days, Four Drawings. You put the steps of germination in order from your own four drawings."
     }
    ]
@@ -2459,7 +2459,7 @@
     },
     {
      "t": "mcq",
-     "p": "Soaked seeds on a shelf: 100 percent. Soaked, frozen: 0 percent. Dry, frozen: 90 percent. What killed the seeds?",
+     "p": "Soaked seeds germinated 100 percent on a shelf and 0 percent frozen. Frozen dry seeds germinated 90 percent. What killed the seeds?",
      "opts": [
       "Cold and water together",
       "Cold alone",
@@ -3160,7 +3160,7 @@
   },
   {
    "problem": "Look at the made-up Freezer Test chart. By how many percentage points did freezing lower the dry seeds? And the soaked seeds? What do the two answers tell you together?",
-   "answer": "Dry seeds: 5 points lower. Soaked seeds: 100 points lower. The harm from cold depends on whether the seed is wet.",
+   "answer": "Freezing lowered the dry seeds by 5 percentage points, and the soaked seeds by 100 percentage points. So the harm from cold depends on whether the seed is wet.",
    "explain": "Dry: 95 minus 90 is 5. Soaked: 100 minus 0 is 100. The same freezer did almost nothing to dry seeds and killed every soaked seed. So cold and water act together.",
    "math_unit": "math.data.reading-data.L5",
    "how": "e1",
@@ -3202,7 +3202,7 @@
   },
   {
    "problem": "In Scoop and Guess, 80 percent of the seeds in the dabba are rajma. In a scoop of 5, which counts of rajma give a guess within 10 of 80 percent? In a scoop of 25?",
-   "answer": "In a scoop of 5: only 4 rajma. In a scoop of 25: 18, 19, 20, 21 or 22 rajma.",
+   "answer": "In a scoop of 5, only 4 rajma gives a guess within 10 of 80 percent. In a scoop of 25, any count from 18 to 22 rajma does.",
    "explain": "Out of 5, each seed is 20 percent, so 3, 4 and 5 rajma give 60, 80 and 100. Only 80 is within 10. Out of 25, each seed is 4 percent, so 18 to 22 rajma give 72 to 88. A bigger scoop has more ways to land close.",
    "math_unit": "math.probability.experiments.L5",
    "how": "g1",
@@ -3211,7 +3211,7 @@
   },
   {
    "problem": "William Beal buried bottles of seeds in 1879. One bottle was opened in 2021, and the last is due in 2100. How long was each wait? How old will a child born in 2016 be in 2100?",
-   "answer": "About 140 years and 221 years. The child will be 84.",
+   "answer": "The first wait was about 140 years, and the last will be 221 years. A child born in 2016 will be 84 in 2100.",
    "explain": "2021 minus 1879 is 142, which is about 140. 2100 minus 1879 is 221. 2100 minus 2016 is 84.",
    "math_unit": "math.time.duration.L5",
    "context": "This is about the buried bottle test. A botanist buried bottles of weed seeds in 1879. Every few years, people dig up one bottle and see whether the seeds still germinate.",
