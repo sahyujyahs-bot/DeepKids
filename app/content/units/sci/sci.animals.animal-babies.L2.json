@@ -87,8 +87,8 @@
    "definition": "Some young animals can walk and feed soon after birth. Others are born helpless and need a lot of care.",
    "description": "A calf stands up within about an hour of birth and soon follows her mother. A goat kid, a duckling and a hen's chick can walk within a day. A sparrow chick hatches with almost no feathers and shut eyes. A newborn kitten cannot see or walk properly. A human baby cannot even hold up their head at first, and needs years of care. Humans have one of the longest childhoods of any animal.",
    "examples": [
-    "Born ready: a calf, a goat kid, a hen's chick, a duckling, a baby gecko.",
-    "Born needing care: a kitten, a puppy, a sparrow chick, a crow chick, a baby mouse, a human baby."
+    "A calf, a goat kid, a hen's chick, a duckling and a baby gecko are all born ready.",
+    "A kitten, a puppy, a sparrow chick, a crow chick, a baby mouse and a human baby are all born needing care."
    ],
    "perspectives": [],
    "art": "Two groups: on the left a calf standing and a chick pecking, on the right a bare sparrow chick in a nest and a human baby in a cradle."
@@ -129,8 +129,8 @@
    "context": "This card is about a question scientists still argue about: why so many chicks have brightly coloured mouths.",
    "description": "Many chicks have bright mouths. Sparrow chicks have yellow edges around the mouth. Crow chicks are red inside the mouth. Scientists have tested two main ideas, and the answer may be different for different birds.",
    "examples": [
-    "House sparrow chicks: bright yellow mouth edges, in nests inside holes.",
-    "Crow chicks: a red mouth inside, in open nests of sticks.",
+    "House sparrow chicks have bright yellow mouth edges, and they live in nests inside holes.",
+    "Crow chicks have a red mouth inside, and they live in open nests made of sticks.",
     "In the Find the Hungry Mouth experiment, yellow paper mouths were found more often than dark ones in dim light."
    ],
    "perspectives": [
@@ -196,7 +196,7 @@
  ],
  "big_questions": [
   {
-   "q": "When a baby cries and a grown-up picks them up, who started the caring: the baby or the grown-up?",
+   "q": "When a baby cries and a grown-up picks them up, did the baby help to start the caring? How?",
    "kind": "deep",
    "hint": "Think about the Find the Hungry Mouth experiment. Did the paper mouths do anything to get fed? What do real chicks do?"
   },
@@ -249,7 +249,7 @@
    "Then, one day, there was a chick sitting on the stair railing, fluffing out their feathers. The chick could fly a little, but not far. The father sparrow landed next to them. The chick shivered their wings and opened their yellow mouth wide. The father fed them a moth.",
    "'The chick has left the nest, and the father is still feeding them,' said Kavya.",
    "'Young birds keep begging for a while after they leave the nest,' said Ammachi. 'The parents keep feeding them until the young ones learn to find food by themselves.'",
-   "That evening, Rahul's mother rang from Bengaluru. Rahul told her all about the sparrows. 'Kavya says I was a baby who begged too,' he said. 'I cried, and you came.'",
+   "That evening, Rahul's mother rang from Bengaluru. Rahul told her all about the sparrows. 'Kavya says baby birds beg for food, and babies beg too,' he said. 'When I was a baby, I cried, and you came.'",
    "His mother laughed. 'You did. You cried very loudly. And you held my finger so tight, I could not let go.'",
    "Kavya drew one last picture in the notebook. It showed a dark hole, three yellow mouths, and a sparrow flying in. Under it she wrote: 'Who did the caring? Everyone did.'"
   ],
@@ -936,10 +936,11 @@
      "kid": "Turn over two cards. Do they match?",
      "ask": [
       {
-       "q": "Which carer surprised you most?",
+       "q": "Which of these babies have more than one carer?",
        "good": [
-        "The tilapia mother keeps babies in her mouth!",
-        "The bees are fed by their sisters."
+        "Langur babies, because other langurs also hold them.",
+        "Young honeybees, because many worker sisters feed them.",
+        "Human babies, because parents, grandparents and others care for them."
        ]
       }
      ],
@@ -1041,7 +1042,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Count up both columns. Compare them.",
-     "say": "Which column has more marks? Did you care for anyone? Who cares for the grown-ups?",
+     "say": "Which column has more marks? Did you care for anyone today?",
      "kid": "Count both columns. Which has more? Why?",
      "wait": "Day 3",
      "ask": [
@@ -1074,7 +1075,7 @@
    "title": "Find Me in the Dark: design the easiest mouth to find",
    "mins": 20,
    "context": "This is a design challenge. In the Find the Hungry Mouth test, yellow paper mouths were found more than dark ones in the dim nest. Now you design a paper mouth that is even easier to find in the dark.",
-   "problem": "Can you make a paper chick mouth that a grown-up finds faster than a plain yellow one, in a dim nest?",
+   "problem": "Can you make a paper chick mouth that a grown-up finds faster than a plain yellow one, in a dim nest? In the Find the Hungry Mouth test, a mouth was easy to find when its colour was very different from the dark cloth around it. So a good design is a bright mouth that stands out from the cloth.",
    "constraints": [
     "The mouth must be the same size as the others: a bottle-cap circle.",
     "Use only paper, crayons or sketch pens, glue, and silver foil if you have some.",
@@ -1285,14 +1286,14 @@
     },
     {
      "t": "perspective",
-     "p": "The first child, aged 7, and her friend the second child, aged 7, live in Mysuru. They are watching a hen with five chicks.",
+     "p": "Two friends, both aged 7, live in Mysuru. They are watching a hen with five chicks.",
      "views": [
       {
-       "who": "The first child",
+       "who": "One friend",
        "says": "The chicks don't need their mother. They can walk and peck by themselves."
       },
       {
-       "who": "The second child",
+       "who": "The other friend",
        "says": "The chicks need their mother. She keeps them warm and safe."
       }
      ],
@@ -1386,14 +1387,14 @@
     },
     {
      "t": "perspective",
-     "p": "The first child, aged 8, and her grandmother live in Madurai. A tiny sparrow chick is sitting on the ground below a tree. The chick has feathers, but cannot fly far.",
+     "p": "A girl aged 8 and her grandmother live in Madurai. A tiny sparrow chick is sitting on the ground below a tree. The chick has feathers, but cannot fly far.",
      "views": [
       {
-       "who": "The first child",
+       "who": "The girl",
        "says": "We must take the chick home and feed them, or they will die."
       },
       {
-       "who": "The first child's grandmother",
+       "who": "The girl's grandmother",
        "says": "Leave the chick where they are. The parents are nearby and will keep feeding them."
       },
       {
@@ -1468,14 +1469,14 @@
     },
     {
      "t": "perspective",
-     "p": "The first child, aged 9, and her brother the second child, aged 7, live in Kolkata. They are talking about why chick mouths are bright.",
+     "p": "A girl aged 9 and her brother aged 7 live in Kolkata. They are talking about why chick mouths are bright.",
      "views": [
       {
-       "who": "The first child",
+       "who": "The girl",
        "says": "Bright mouths help the parents find the chicks in the dark."
       },
       {
-       "who": "The second child",
+       "who": "Her brother",
        "says": "Bright mouths tell the parents which chick is hungriest."
       }
      ],
@@ -1808,7 +1809,7 @@
   "Can you spot an animal parent with young on the way to the shop?",
   "Which baby animals can walk on their first day?",
   "When a baby cries, what might the baby be telling us?",
-  "Who looks after the grown-ups in our family?"
+  "Can you think of one way a baby helps the grown-ups look after them?"
  ],
  "jokes": [
   {
@@ -2052,8 +2053,8 @@
    "kid": "Put your hands on your belly. Breathe in slowly. Breathe out, like blowing a bubble. Do it three times. Think of someone who cared for you. Then think of someone you care for."
   },
   "ask": [
-   "When a baby cries and a grown-up comes, who started the caring?",
-   "A sparrow chick opens a yellow mouth, and the parent feeds them. Is the chick asking, or is the chick helping?",
+   "When a baby cries and a grown-up comes, what did the baby do to help get care?",
+   "How does a sparrow chick's yellow mouth help the parent to feed them?",
    "Who are you caring for now, and who is caring for you?"
   ],
   "art": "A dark hole in a wall with three yellow-edged chick mouths open, a sparrow flying in with food, and below, a grandmother holding a baby who grips her finger."
@@ -2066,5 +2067,5 @@
   "art": "A woman scientist with a notebook sitting on a mat in a village home, watching a mother and a crawling baby who reaches towards the mother."
  },
  "playtest": "Played both games in my head with 2 and with 4 players: the sorting race has every player racing and says what happens when nobody is right, and the memory game's 16 cards are all listed. Followed the dark-nest experiment in a flat: each mouth gets only one chana, so the example numbers in the parent notes, maths, quiz and worksheets were impossible and now fit (for example 5 for yellow and 1 for black). Fixed the walking line (a missing 'one hour' mark and the card list), replaced three copies of the same ordering and 'why humans take long' questions, introduced Kavya and Rahul where they appear, cut the jokes to 8 real ones, and removed an unneeded safety warning and an internal source note. On a second walk-through I made the kitten and puppy walking age one plain figure (about three weeks) in all places, added picking the chana back up between rounds, swapped two weak jokes, and made the Ainsworth question clearer. The three video ids are still to be found.",
- "warm": {"words": ["CHICK", "YOUNG", "FEEDS", "CALLS", "ADULT"], "quiz": [["A chick opens a wide mouth to tell the parent that the chick is hungry.", true, "Young animals send signals, and parents answer them with food and care."], ["Only mothers feed and look after baby birds.", false, "Sparrow fathers feed chicks about as often as mothers do, and other helpers care for young too."], ["A calf can walk soon after birth, but a human baby needs years of care.", true, "Some young are born ready to walk and feed, and others are born helpless and need long care."], ["A parent bird leaves a chick for good if a person touches the chick.", false, "Most small birds cannot smell well, so the parents come back to the chick."], ["A chick may beg for more food than the parent wants to give.", true, "Parent and baby do not always want the same thing, so a chick may ask for too much."], ["Only baby birds beg for food, and mammal babies never ask for it.", false, "Mammal babies ask too: puppies whine and human babies cry when they are hungry."], ["A young animal keeps getting bigger and changing until the animal is an adult.", true, "Growth is how a young animal gets bigger and changes, and human children grow this way too."], ["A baby always loves most the person who feeds the baby.", false, "Babies attach most to people who answer them warmly and quickly, not just to whoever feeds them."], ["A parent bird sits over small chicks to keep them warm.", true, "Small chicks cannot keep warm alone, so the parent gives them heat from her body."], ["A calf that can walk on the first day needs no care from the mother.", false, "A calf still needs milk, warmth and safety from the mother, even though the calf can walk early."]], "odd": [[["Calf", "Foal", "Goat kid", "Human baby"], "Human baby", "Calves, foals and kids walk soon after birth, but a human baby is helpless and needs years of care."], [["Cow", "Bat", "Dolphin", "Crow"], "Crow", "Cows, bats and dolphins are mammals whose mothers feed milk; a crow is a bird and feeds her chicks other food."], [["Chick opening mouth", "Baby crying", "Puppy whining", "Cub sleeping"], "Cub sleeping", "The first three are young animals asking for food or care; a sleeping cub is not sending any signal."], [["Brooding eggs", "Licking young clean", "Bringing food", "Chick begging"], "Chick begging", "The first three are things carers do for the young; begging is something the young animal does to ask."], [["Kitten", "Puppy", "Lamb", "Buffalo"], "Buffalo", "Kittens, puppies and lambs are young animals still growing; a buffalo has finished growing and is an adult."]]}
+ "warm": {"words": ["CHICK", "YOUNG", "FEEDS", "CALLS", "ADULT"], "quiz": [["A chick opens a wide mouth to tell the parent that the chick is hungry.", true, "Young animals send signals, and parents answer them with food and care."], ["Only mothers feed and look after baby birds.", false, "Sparrow fathers feed chicks about as often as mothers do, and other helpers care for young too."], ["A calf can walk soon after birth, but a human baby needs years of care.", true, "Some young are born ready to walk and feed, and others are born helpless and need long care."], ["A parent bird leaves a chick for good if a person touches the chick.", false, "Most small birds cannot smell well, so the parents come back to the chick."], ["A chick may beg for more food than the parent wants to give.", true, "Parent and baby do not always want the same thing, so a chick may ask for too much."], ["Only baby birds beg for food, and mammal babies never ask for it.", false, "Mammal babies ask too: puppies whine and human babies cry when they are hungry."], ["A young animal keeps getting bigger and changing until the animal is an adult.", true, "Growth is how a young animal gets bigger and changes, and human children grow this way too."], ["A baby always loves most the person who feeds the baby.", false, "Babies attach most to people who answer them warmly and quickly, not just to whoever feeds them."], ["A parent bird sits over small chicks to keep them warm.", true, "Small chicks cannot keep warm alone, so the parent gives them heat from her body."], ["A calf that can walk on the first day needs no care from the mother.", false, "A calf still needs milk, warmth and safety from the mother, even though the calf can walk early."]], "odd": [[["Calf", "Foal", "Goat kid", "Human baby"], "Human baby", "Calves, foals and kids walk soon after birth, but a human baby is helpless and needs years of care."], [["Cow", "Bat", "Dolphin", "Crow"], "Crow", "Cows, bats and dolphins are mammals whose mothers feed them milk. A crow is a bird and feeds her chicks other food."], [["Chick opening mouth", "Baby crying", "Puppy whining", "Cub sleeping"], "Cub sleeping", "The first three are young animals asking for food or care. A sleeping cub is not sending any signal."], [["Brooding eggs", "Licking young clean", "Bringing food", "Chick begging"], "Chick begging", "The first three are things carers do for the young. Begging is something the young animal does to ask."], [["Kitten", "Puppy", "Lamb", "Buffalo"], "Buffalo", "Kittens, puppies and lambs are young animals still growing. A buffalo has finished growing and is an adult."]]}
 }

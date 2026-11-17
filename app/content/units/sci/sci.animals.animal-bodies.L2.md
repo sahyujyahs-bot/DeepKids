@@ -32,7 +32,7 @@
 ### How legs move a body · *defined*
 **Definition:** Legs move a body by pushing back and down on the ground. The ground pushes back, and the body moves forward and up.
 
-A leg is made of bones joined at joints, such as the knee. Muscles pull on the bones to bend and straighten the leg. When a leg straightens against the ground, the ground pushes the body the other way. A bent leg can push for longer than a straight one, and a longer push gives a faster start.
+A leg is made of bones joined at joints, such as the knee. Muscles pull on the bones to bend and straighten the leg. When a leg straightens against the ground, the ground pushes the body the other way. When the knee is bent, the leg has a long way to straighten. So a bent leg pushes on the ground for longer than a straight leg. A longer push gives a faster start, and a longer jump.
 - e.g. When you walk, each foot pushes back on the floor, and you move forward.
 - e.g. On a slippery floor your foot slides back, so the push is lost and you hardly move.
 - e.g. A cat crouches low before jumping onto a wall, so her legs can push for longer.
@@ -46,7 +46,7 @@ A frog's back legs fold in three parts under her body, like a letter Z. When she
 ### How wings fly · *defined*
 **Definition:** A wing flies by pushing air down and back. The air pushes the wing up and forward, and that holds the animal up.
 
-On the way down, a bird spreads the wing wide and flat, so the wing pushes a lot of air. On the way up, many birds bend the wing in a little, so it pushes less air the wrong way. A bird's wing is covered in feathers. A bat's wing is skin stretched over very long finger bones, and a butterfly has four thin wings.
+On the way down, a bird spreads the wing wide and flat, so the wing pushes a lot of air. On the way up, many birds bend the wing in a little, so it meets less air. That way the up-stroke does not push the bird back down much. A bird's wing is covered in feathers. A bat's wing is skin stretched over very long finger bones, and a butterfly has four thin wings.
 - e.g. A pigeon claps her wings loudly as she takes off.
 - e.g. A black kite circles high over the city, hardly flapping, on rising warm air.
 - e.g. A fruit bat flies at dusk on wings made of skin.
@@ -88,10 +88,10 @@ A sparrow's beak is short and thick, strong enough to crack open seeds. A parrot
 ### One bone plan in many limbs · *defined*
 **Definition:** The arm of a human, the wing of a bat and a bird, the front leg of a frog and the flipper of a whale are built from the same set of bones.
 
-Each one has one long upper bone, then two bones side by side, then a group of small wrist bones, then fingers or toes. In a bat the finger bones are very long, to hold the skin of the wing. In a whale they are wrapped inside a stiff flipper. This is because all these animals come from the same long-ago ancestors: fish with bony, fleshy fins.
+Each one has one long upper bone, then two bones side by side, then a group of small wrist bones, then fingers or toes. In a bat the finger bones are very long, to hold the skin of the wing. In a whale they are wrapped inside a stiff flipper. The reason is that all these animals come from the same long-ago ancestors. Those ancestors were fish with bony, fleshy fins.
 - e.g. Feel your own arm: one bone above the elbow, two below it.
-- e.g. A bat's wing is mostly hand.
-- e.g. A frog's front leg has the same bones as your arm, shorter.
+- e.g. Most of a bat's wing is a hand with very long fingers.
+- e.g. A frog's front leg has the same bones as your arm, only shorter.
 ### How did flying begin? · *debated*
 Birds come from small dinosaurs with feathers. But nobody saw the first flights, so scientists argue about how flying began.
 - e.g. Some small feathered dinosaurs had feathers on all four limbs.
@@ -103,7 +103,7 @@ Birds come from small dinosaurs with feathers. But nobody saw the first flights,
 ## Mostly agreed
 - To move, an animal must push on something: the ground, the water or the air. *How we know:* On ice or a very slippery floor, feet slide back and a walker hardly moves. Slow-motion films show wings pushing air down and fish tails pushing water back.
 - Teeth and beaks are shaped for the food an animal eats. *How we know:* Scientists can often tell what an animal ate from the shape of their teeth, even in fossils. Plant-eaters have wide grinding teeth. Meat-eaters have sharp tearing teeth.
-- The limbs of birds, bats, frogs, whales and humans are built from the same set of bones. *How we know:* When scientists compare the skeletons, they find the same pattern of bones in each limb: one, then two, then small wrist bones, then fingers or toes.
+- The limbs of birds, bats, frogs, whales and humans are built from the same set of bones. *How we know:* When scientists compare the skeletons, they find the same pattern of bones in each limb: one bone, then two bones, then small wrist bones, then fingers or toes.
 
 ## How we found out
 **Charles Darwin and John Gould, then Rosemary Grant and Peter Grant, 1835 and 1837, then 1973 to 1978.** In 1835, Charles Darwin visited the Galápagos Islands in the Pacific Ocean. He collected many small brown birds. Their beaks were very different. Some were thick and strong, and some were thin and pointed. Darwin thought they were different kinds of birds, such as wrens, blackbirds and finches. Back in England in 1837, the bird expert John Gould looked at them closely. He found that they were all finches, close relatives of each other. Their beaks fitted different foods: big seeds, small seeds or insects. Darwin came to think that beaks change over many, many generations. He thought this was far too slow for anyone to watch. Then, in 1973, Rosemary Grant and Peter Grant began to measure every finch on Daphne Major, one tiny island. In 1977 almost no rain fell. The small, soft seeds ran out, and only big, hard seeds were left. Most of the finches died. Finches with deeper, stronger beaks could crack the big seeds, so more of them lived. Their chicks had bigger beaks too. The Grants had watched beaks change in just a few years.  
@@ -121,34 +121,34 @@ Birds come from small dinosaurs with feathers. But nobody saw the first flights,
   Against: Scientists filmed birds taking off and measured the push of their feet. Many birds get most of their starting speed from a jump with their legs, then the wings take over.
 - **Bigger animals always jump farther.** (A common guess; *rejected*)  
   For: A big kangaroo or a horse can jump a long way.  
-  Against: A tiny flea or grasshopper jumps many times the length of their own body. An elephant cannot jump at all. Size is only one part of the story.
+  Against: A tiny flea or grasshopper jumps many times the length of their own body. An elephant cannot jump at all. Size alone does not decide how far an animal jumps.
 
 ## Roots
 We have tested our own jumps, flapped like a bird, wiggled like a snake and ground leaves like a cow. Now we ask what the Jump Test tells us about moving, and about ourselves.
 
-**Deep truth.** With straight legs you jumped only a short way, but with knees well bent you jumped much farther. Your feet push on the floor only while your legs straighten. A bigger bend gives a longer push, so you leave the floor faster. So a jump is made on the ground, before you ever leave it.  
+**Deep truth.** In the Jump Test, you jumped only a short way with straight legs, but much farther with knees well bent. Your feet push on the floor only while your legs straighten. A bigger bend gives a longer push, so you leave the floor faster. So a jump is made on the ground, before you ever leave it.  
 *Habit it breaks:* We think of a jump as the flying part, through the air. But once your feet leave the floor, nothing more can push you. The whole jump was made in the short push before, while you still touched the ground.  
 *Evidence:* In the Jump Test, straight-legged jumps went only a little way, and jumps with a big knee bend went much farther. A frog's long back legs fold up in a Z, so her push on the ground lasts a long time.
 
 - *who am i:* You are an animal who jumps the same way a frog does: bend first, then push.
 - *what is life:* Every moving animal is always pushing on something: the ground, the water or the air.
-- *what is this world:* The world is full of bodies shaped for different pushes: legs, wings, fins and webbed feet. And mouths shaped for different foods.
+- *what is this world:* The world is full of bodies shaped for different pushes: legs, wings, fins and webbed feet. It is also full of mouths shaped for different foods.
 
-Your arm, a bat's wing, a frog's leg and a whale's flipper look very different. Inside, they are built from the same set of bones: one, then two, then small wrist bones, then fingers. All these animals came from the same long-ago fish with bony, fleshy fins. One plan of bones has grown into jumping legs, flapping wings, paddling flippers and your own hands. And each of them moves by pushing on the same ground, water and air that we all share.
+Your arm, a bat's wing, a frog's leg and a whale's flipper look very different. Inside, they are built from the same set of bones: one bone, then two bones, then small wrist bones, then fingers. All these animals came from the same long-ago fish with bony, fleshy fins. One plan of bones has grown into jumping legs, flapping wings, paddling flippers and your own hands. And each of them moves by pushing on the same ground, water and air that we all share.
 
 - **Tirukkural 490, chapter 49, 'Knowing the fitting time':** Tiruvalluvar says: when the time is not right, wait still, like a heron. When the right moment comes, strike quickly, like a heron striking a fish. (A heron, a kingfisher and a frog all wait very still, ready, and then move in one fast strike or push. The waiting, with legs or neck bent, is part of the move.)
-- **Tao Te Ching, chapter 76:** Laozi says that living things are soft and bendable, and dead things are stiff and hard. What is stiff will break. What is soft and bendable will last. (In the Jump Test, stiff, straight legs pushed only a little. Bent legs, ready to straighten, gave the longest jumps. Being able to bend is what let your legs act.)
+- **Tao Te Ching, chapter 76:** Laozi says that living things are soft and bendable, and dead things are stiff and hard. What is stiff will break. What is soft and bendable will last. (In the Jump Test, stiff, straight legs pushed only a little. Bent legs, ready to straighten, gave the longest jumps. Your legs could push only because they could bend.)
 - Science (settled): A jump's length is set by how fast the body leaves the ground, and that depends on how hard and how long the legs push.
 - Science (settled): The limbs of birds, bats, frogs, whales and humans are built from the same set of bones, because these animals share ancestors.
 - Science (open): A frog chooses when to jump: she watches, waits and decides. How much a frog feels and knows as she does this is still an open question for science.
 - Other view, Many biologists: A frog's fast escape jump is mostly a reflex: nerves in the body and brain set off the jump very quickly, without the frog stopping to think. In this view, choosing belongs to slower actions, like hunting.
-- Practice, Crouch Like a Heron (3 min): Stand with your feet a little apart. Bend your knees, as if you are about to jump. Stay there, very still, like a heron by the water. Breathe in slowly, and out slowly, three times. Feel your legs ready to push. Now, very slowly, straighten your legs and stand tall. Did you feel the push in your legs, even slowly?
-- Ask: When you were crouched and still, was the jump already there in your legs?
+- Practice, Crouch Like a Heron (3 min): Stand with your feet a little apart. Bend your knees, as if you are about to jump. Stay there, very still, like a heron by the water. Breathe in slowly, and out slowly, three times. Feel your legs ready to push. Now, very slowly, straighten your legs and stand tall. Where in your legs did you feel the work of standing up?
+- Ask: When you were crouched and still, were your legs resting or getting ready? How could you tell?
 - Ask: Your arm and a bat's wing have the same bones. In what ways are you and a bat built alike?
-- Ask: A frog waits, then jumps. Who decides the moment: the frog, her legs, or both together?
+- Ask: A frog waits, then jumps. How does she know the right moment to jump?
 
 ## Deep and big questions
-- *deep:* Before you jumped, your legs were bent and still. Was the jump already in your legs, waiting? (hint: Think about what your legs did in the small moment before your feet left the floor.)
+- *deep:* In the Jump Test, your legs were bent and still just before each jump. Where did the push for the jump come from? (hint: Think about what your muscles did in the small moment before your feet left the floor. They straightened your legs against the floor.)
 - *deep:* Your arm, a bat's wing and a whale's flipper have the same bones. Are they three different things, or one thing in three shapes? (hint: Feel the bones of your arm. Then look at a picture of a bat's wing.)
 - *deep:* A frog decides when to jump. What does a frog notice before she jumps? (hint: Watch how still a frog or a cat sits before a jump. What might they be watching for?)
 - *big:* Every animal moves by pushing on the ground, the water or the air. Could anything move in a place with nothing to push on? (hint: Think about a person floating in space. What could they push on?)
@@ -232,7 +232,7 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 
 ## Games
 ### g1 · Message Relay: who can get there? (15 min)
-- **rules:** Before you play, draw each animal on that animal's card, so that a child who cannot read yet can play.; Lay the 8 animal cards face up in a row. Put a coin on Start as the message.; Mix the 12 place cards and put them face down in a pile.; Turn over the top place card and read the place aloud, but do not read the back.; The team chooses one animal who can get through that place, and says how: with legs, wings, fins, sticky toes or the whole body. If the team is stuck, read the back aloud and choose from it.; Check the back. If your animal is named there, move the message one square forward. If not, nothing moves, and you choose again.; Each animal can carry the message only twice. When an animal has gone twice, turn that card face down to rest.; If every animal who can get through is resting, wake them all: turn all 8 cards face up again. You can do this once in a game. After that, put the place card aside, and the message stays where it is.; The game ends when all 12 place cards are used. The team wins if the message is at Home. If not, count how far it got, and play again to beat it.
+- **rules:** Before you play, draw each animal on that animal's card, so that a child who cannot read yet can play.; Lay the 8 animal cards face up in a row. Put a coin on Start as the message.; Mix the 12 place cards and put them face down in a pile.; Turn over the top place card and read the place aloud, but do not read the back.; The team chooses one animal who can get through that place, and says how: with legs, wings, fins, sticky toes or the whole body. If the team is stuck, read the back aloud and choose from it.; Check the back. If your animal is named there, move the message one square forward. If not, nothing moves, and you choose again.; Each animal can carry the message only twice. When an animal has gone twice, turn that card face down to rest.; If every animal who can get through is resting, turn all 8 animal cards face up again. You can do this only once in a game. If it happens again, put the place card aside, and the message stays where it is.; The game ends when all 12 place cards are used. The team wins if the message is at Home. If not, count how many squares the message moved, and play again to beat that number.
 - **Printable cards: 8 animal cards to cut out, with how they move on the back:** Duck (back: Walks on two webbed feet, swims by paddling, and flies with wings.) [picture]; Frog (back: Hops with long back legs, and swims by kicking webbed feet.) [picture]; Rohu fish (back: Swims with a tail fin and steers with side fins. Cannot leave the water.) [picture]; Snake (back: Slides by pushing curves of the body on bumps. Swims and climbs too.) [picture]; Crow (back: Walks and hops on two legs, and flies with wings.) [picture]; Gecko (back: Runs on four legs, and climbs walls and ceilings with gripping toes.) [picture]; Ant (back: Walks on six legs, climbs walls, and fits through tiny cracks.) [picture]; You, a human (back: Walks, runs and jumps on two legs. Climbs with hands and feet.)
 - **Printable cards: 12 place cards to cut out, with who can get through on the back:** 1. A pond (back: Swimmers can cross: duck, frog, rohu fish, snake.); 2. A dry, dusty road (back: Walkers and sliders can cross: duck, frog, snake, crow, gecko, ant, you. Not the fish.); 3. A tall, smooth wall (back: Climbers and fliers can get over: gecko, ant, crow, duck.); 4. A wide river (back: Swimmers and fliers can cross: duck, rohu fish, crow, snake, frog.); 5. A tiny crack in the wall (back: Only very small bodies fit: ant, gecko.); 6. Up to a high branch (back: Climbers and fliers can get there: crow, gecko, ant, snake, you.); 7. Down to the mud at the bottom of a pond (back: Divers can get there: rohu fish, frog, snake.); 8. A ditch too wide to step over (back: Jumpers and fliers can cross: frog, you, crow, duck.); 9. High in the sky over the city (back: Only fliers can go: crow, duck.); 10. Upside down along a ceiling (back: Only grippers can go: gecko, ant.); 11. The middle of a deep lake (back: Strong swimmers can get there: rohu fish, duck.); 12. Inside a narrow pipe (back: Long thin bodies and tiny bodies fit: snake, ant, gecko.)
 - **Printable board: A track of 13 squares to draw on paper:** Start; 1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; Home: the message has arrived
@@ -245,11 +245,12 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
   *Parent says:* A tiny crack in the wall! Who can get through? How?  
   *Child mode:* Who can get through? How do they move?
   - Ask: Why can the crow cross the wide river, but not the narrow pipe? (good: The crow can fly over the river.; The crow is too big for the pipe, and her wings don't fit.)
-  - Note: Let your child plan ahead. The ant and the gecko are the only ones for the ceiling, so save them for later.
+  - Note: Let your child plan ahead. Only the ant and the gecko can go along the ceiling, so they should be saved for that card.
 - **s3 (2 min)**  
   *Parent does:* When the game ends, ask the check question.  
   *Parent says:* Which animal could get through the most places? Which could get through the fewest?  
   *Child mode:* Who could go to the most places?
+  - Note: Count the places on the back of each place card. The duck can get through the most places, seven, because a duck can walk, swim and fly. A human can get through the fewest, three.
   - Check: Which animal could go only where there is water? → **The rohu fish**
 ### g2 · Mouth Detective: guess the animal from the mouth (15 min)
 - **rules:** Mix the clue cards and put them face down in a pile.; The reader takes the top card and reads clue 1 aloud.; The other players may guess. A right guess after clue 1 wins 3 points.; If nobody is right, read clue 2. A right guess now wins 2 points. After clue 3, a right guess wins 1 point. If nobody is right after clue 3, nobody scores.; Each player gets one guess for each clue.; After each card, the reader turns it over and reads the answer aloud. Then the next player becomes the reader.; When all 12 cards are done, the player with the most points wins. With 2 players, you take turns as reader and guesser. A grown-up can read for a child who cannot read yet.
@@ -262,7 +263,7 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 - **s2 (11 min)**  
   *Parent does:* 1. Take turns being the reader. 2. Read one clue at a time. 3. Score the guesses.  
   *Parent says:* Clue one: I have a beak and no teeth. Who am I?  
-  *Child mode:* Listen. Guess. Get points!
+  *Child mode:* Listen to each clue and guess. An early guess gets more points.
   - Ask: How did the shape of the mouth help you guess? (good: A hooked beak means tearing meat or cracking nuts.; Long pointed teeth mean a meat-eater.)
   - Note: Every first clue says beak or teeth. That alone is not enough to guess, so the second clue matters most.
 - **s3 (2 min)**  
@@ -275,7 +276,7 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 ### e1 · The Jump Test: do bent knees make you jump farther? (25 min)
 - **question:** Does bending your knees before a jump make you jump farther? And does a bigger bend make a longer jump?
 - **predict:** Guess first. Which jump will go farthest: straight legs, a small bend, or a big bend? Why do you think so?
-- **fair test:** The same child jumps every time, from the same start line, with both feet together and hands on hips. Hands on hips stop the arms from helping, so only the knee bend changes. We try each way three times, because one jump can be a fluke, and we keep the longest.
+- **fair test:** The same child jumps every time, from the same start line, with both feet together and hands on hips. Hands on hips stop the arms from helping, so only the knee bend changes. We try each way three times, because one jump can be lucky or unlucky, and we keep the longest.
 - **safety:** Jump barefoot on a dry floor, or on a dhurrie or mat that does not slide. Socks on tiles are slippery. Move chairs and tables out of the way, and land with soft, bent knees.
 - **record:** Fill in the results table. Draw a stick picture of yourself just before your longest jump.
 - **results table:** How I bent my knees | Jump 1 | Jump 2 | Jump 3 | Longest jump
@@ -284,13 +285,13 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
   *Parent says:* This is our jumping track. Every jump starts with your toes behind the dupatta and your hands on your hips.  
   *Child mode:* Stand with your toes behind the line. Put your hands on your hips.
 - **s2 (3 min)**  
-  *Parent does:* Show the three ways: straight legs, a small bend, a big bend like sitting on a low stool. Ask for a guess and a reason. Write the guess down.  
+  *Parent does:* Show the three ways to jump: with straight legs, with a small bend, and with a big bend like sitting on a low stool. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* Which jump do you think will go farthest? Why do you think so?  
   *Child mode:* Which jump will go farthest? Straight, small bend or big bend? Why?
   - Ask: Why do you think so? (good: The big bend, because a frog crouches low.; Straight legs, because my legs are longer when they are straight.)
   - Note: Any guess is fine. Write it down exactly as your child says it. Do not explain anything yet. The test will answer it.
 - **s3 (5 min) · grown-up needed**  
-  *Parent does:* 1. Your child keeps the knees straight and stiff, and jumps forward using only ankles and toes. 2. Put a coin where the back of the nearest heel lands. 3. Measure from the line to the coin. 4. Do it three times.  
+  *Parent does:* 1. Your child keeps the knees straight and stiff, and jumps forward using only ankles and toes. 2. Put a coin at the back of the heel that lands nearest the start line. 3. Measure from the line to the coin. 4. Do it three times.  
   *Parent says:* Straight legs first. Keep your knees stiff, like sticks. Now jump as far as you can.  
   *Child mode:* Keep your knees stiff. Jump forward as far as you can.
   - Note: Measure from the start line to the back of the heel that landed nearest the line. With stiff knees most children only hop a short way.
@@ -321,7 +322,7 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 - **record:** Stick or draw one pressed leaf and one rubbed leaf side by side, and write which way made smaller bits.
 - **results table:** Way of crushing | What the leaf looked like after 10 moves | Any green juice on the plate?
 - **s1 (3 min)**  
-  *Parent does:* 1. Put two leaves at one side of the plate and two at the other. 2. Show the two ways: press straight down and lift, or press and rub round and round.  
+  *Parent does:* 1. Put two leaves at one side of the plate and two at the other. 2. Show the two ways to crush a leaf with the bottom of the tumbler: press straight down and lift, or press and rub round and round.  
   *Parent says:* The tumbler is our tooth, and the plate is another tooth. We can crush the leaf two ways.  
   *Child mode:* The tumbler is a tooth. The plate is a tooth too.
 - **s2 (2 min)**  
@@ -338,7 +339,7 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
   *Parent says:* Now press and rub round and round. Count to ten. What happens to this leaf?  
   *Child mode:* Press and rub round and round, ten times. What happens?
   - Ask: What do the rubbed leaves look like? (good: They are torn into little bits.; There is green juice on the plate.; They are mushy.)
-  - Note: Rubbed leaves tear into shreds and leave a green smear on the plate. Rubbing breaks the leaf because the two surfaces slide past each other, tearing it, instead of only squeezing it.
+  - Note: Rubbed leaves tear into shreds and leave a green smear on the plate. Rubbing breaks the leaf because the tumbler and the plate slide past each other. That tears the leaf instead of only squeezing it.
 - **s5 (4 min)**  
   *Parent does:* 1. Your child puts two fingers on each cheek, just in front of the ears. 2. Then they chew a piece of roti slowly. 3. Ask how the jaw moves.  
   *Parent says:* Put your fingers here, in front of your ears. Now chew slowly. Does your jaw only go up and down?  
@@ -388,10 +389,10 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
   *Parent does:* 1. Your child lies on their tummy on the bare floor. 2. Arms stay by the sides, and feet do not push. 3. They try to move forward by wiggling for one minute.  
   *Parent says:* You are a snake. No arms and no feet. Can you move forward just by wiggling?  
   *Child mode:* Lie on your tummy. Keep arms and feet still. Wiggle forward!
-  - Note: On a smooth floor your child will twist about a lot and move very little. That is the point. Keep it playful.
+  - Note: On a smooth floor your child will twist about a lot and move very little. That is what this step is meant to show. Keep it playful.
 - **s2 (5 min)**  
   *Parent does:* 1. Put cushions in two zigzag rows along the path, a little apart. 2. Your child tries again, pushing the sides of the body against the cushions.  
-  *Parent says:* Now there are stones on the path. Push your sides against them as you wiggle.  
+  *Parent says:* These cushions are the stones on a snake's path. Push your sides against them as you wiggle.  
   *Child mode:* Push your sides on the cushions. Can you move now?
   - Ask: Was it easier with the cushions? Why? (good: Yes, because I could push on them.; The cushions gave me something to push against.)
   - Note: Cushions are softer than stones, so your child may still move only a little. Stack the cushions against a wall or use rolled-up mats to give a firmer push.
@@ -407,13 +408,13 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
   *Parent does:* 1. At the mirror, your child counts the top teeth, then the bottom teeth. 2. Count gaps and new big teeth too. 3. Draw a top row and a bottom row of little boxes, one box for each tooth.  
   *Parent says:* Let's count your top teeth first, from one side to the other. Now the bottom ones.  
   *Child mode:* Count your top teeth. Now count your bottom teeth.
-  - Note: A child has 20 milk teeth. Between about 6 and 12, these fall out one by one and bigger teeth grow in. A seven-year-old often has gaps at the front, and some new big front teeth or new back molars.
+  - Note: A child has 20 milk teeth. Between about 6 and 12 years of age, these fall out one by one and bigger teeth grow in. A seven-year-old often has gaps at the front, and some new big front teeth or new back molars.
 - **s2 (3 min)**  
   *Parent does:* Colour the map: front cutting teeth blue, pointed teeth yellow, back grinding teeth green.  
   *Parent says:* The flat front ones are cutting teeth. The pointed ones are canines. The wide back ones are molars.  
   *Child mode:* Colour cutting teeth blue, pointed ones yellow, back ones green.
 - **s3 (4 min)**  
-  *Parent does:* 1. Your child bites into the cucumber slice with only the front teeth. 2. Look at the marks together. 3. Compare with a cow, who has no top front teeth.  
+  *Parent does:* 1. Your child bites into the cucumber slice with only the front teeth. 2. Look at the marks together. 3. Compare your child's bite with a cow's: a cow has no top front teeth.  
   *Parent says:* Bite with just your front teeth. What shape are the marks?  
   *Child mode:* Bite with your front teeth. Look at the marks!
   - Ask: What shape did your front teeth leave? (good: A curved row of flat cuts.; Straight lines, like a knife.; A gap where my tooth fell out.)
@@ -427,7 +428,7 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
   - Note: Many birds bend their legs and push off with a jump, then start flapping. Pigeons often clap their wings as they leave. If no bird comes, try another day.
 - **s2 (4 min)**  
   *Parent does:* Talk about what you saw.  
-  *Parent says:* Did the bird jump first, or flap first? How is that like your jump test?  
+  *Parent says:* Did the bird jump first, or flap first? How is that like the Jump Test, where you bent your knees before jumping?  
   *Child mode:* Did the bird jump first, or flap first?
   - Ask: What did the bird do first? (good: The bird bent the legs and jumped.; The bird crouched and then flapped.)
 
@@ -454,9 +455,9 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 
 ## Challenges
 ### c1 · Make a Flying Lizard: the slowest paper glider (20 min)
-- **problem:** Can you make a paper lizard that takes the longest time to reach the floor, when dropped from the same height?
+- **problem:** Can you make a paper lizard that takes the longest time to reach the floor, when dropped from the same height? A wide, flat shape pushes on a lot of air as it falls. The air pushes back and slows the fall. The flying lizard does this when she spreads the flaps of skin on her sides.
 - **your turn:** Make your own slowest glider. Then tell someone at home why your shape falls slowly.
-- **constraints:** Use one sheet of paper, no bigger than a notebook page, and one paper clip as the lizard's head.; Drop every lizard from the same height, such as your shoulder, held flat.; No throwing: just let go.
+- **constraints:** Use one sheet of paper, no bigger than a notebook page, and one paper clip as the lizard's head.; Hold each paper lizard flat and drop each one from the same height, such as your shoulder.; No throwing: just let go.
 - **general:** Make the paper lizard wide and flat, like the lizard's spread-out skin flaps.; Put the paper clip at the front as a head, so the lizard falls nose first and goes forward.; Fold the side edges up a little to keep the lizard steady.
 - **creative:** Cut the wings into a long, wavy ribbon shape, like a flying snake.; Try a small tail at the back, and see if the lizard flies straighter.
 - **s1 (3 min)**  
@@ -481,7 +482,7 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
    **Answer:** a cat → Legs; a crow flying → Wings; a rohu fish → Fins; an earthworm → Whole body; a butterfly → Wings; a snake → Whole body. *Why:* A cat walks on four legs. A flying crow and a butterfly use wings. A fish swims with fins. An earthworm and a snake have no legs and move with the whole body.
 2. (match) Draw a line from each beak to the food it is best for.  
    **Answer:** Short, thick beak → Seeds; Long, straight, sharp beak → Fish; Long, thin, curved beak → Nectar from flowers; Hooked, sharp beak → Meat. *Why:* Short, thick beaks crack seeds. Long, sharp beaks grab fish. Long, curved beaks reach nectar deep in flowers. Hooked beaks tear meat.
-3. (count) Count the legs: one duck, one frog and one ant.  
+3. (count) How many legs do one duck, one frog and one ant have altogether?  
    **Answer:** 12. *Why:* A duck has 2 legs, a frog has 4 and an ant has 6. 2 and 4 make 6, and 6 more makes 12.
 4. (mcq) Which body part pushes on the water when a rohu fish swims forward?  
    Options: Her eyes / Her tail fin / Her scales  
@@ -489,9 +490,9 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 5. (truefalse) Birds have teeth inside their beaks.  
    **Answer:** False. *Why:* False. Birds alive today have no teeth. Their beaks are shaped to crack, grab, tear, sip or strain their food.
 6. (draw) Pick a food: seeds, fish or nectar. Draw the head of a bird with a beak that fits that food.  
-   **Answer:** A bird head with a short, thick beak for seeds, a long, straight, sharp beak for fish, or a long, thin, curved beak for nectar.. *Why:* A strong drawing gives the beak a shape that suits the food it picked, because each beak is shaped for the way that bird gets food.
+   **Answer:** A bird head with a short, thick beak for seeds, a long, straight, sharp beak for fish, or a long, thin, curved beak for nectar.. *Why:* A strong drawing gives the beak a shape that suits the chosen food, because each beak is shaped for the way that bird gets food.
 7. (write) Say out loud, and a grown-up writes it down: in the Jump Test, why did you hardly move with straight legs?  
-   **Answer:** With stiff legs, my legs could not straighten any more, so they could not push on the floor for long.. *Why:* A strong answer says that legs push only while they straighten, and straight legs have no bend left to straighten.
+   **Answer:** My legs were already straight, so they could not straighten any more and could not push on the floor for long.. *Why:* A strong answer says that legs push only while they straighten, and straight legs have no bend left to straighten.
 8. (label) Label the teeth in this mouth: cutting teeth, pointed teeth, grinding teeth.  
    **Answer:** ['cutting teeth: the flat ones at the very front', 'pointed teeth: one on each side of the front teeth', 'grinding teeth: the wide ones at the back']. *Why:* Incisors at the front cut. Canines beside them grip and tear. Molars at the back grind food into small bits.
 9. (odd) Three of these animals have wings. Which one does not?  
@@ -502,11 +503,11 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 11. (order) Put the steps of a frog's jump in order.  
    **Answer:** [0, 1, 2, 3]. *Why:* A jump starts with bent legs. The push happens while the legs straighten, and only then does the frog leave the ground.
 ### Moving and Eating (stretch) (stretch, 10 questions)
-1. (perspective) Meenakshi and her friend Farhan live in Madurai. They are looking at pictures of a cow's teeth and a tiger's teeth.  
+1. (perspective) Two friends live in Madurai. They are looking at pictures of a cow's teeth and a tiger's teeth.  
    **Answer:** A strong answer picks a side with a reason, then says what the other side gets right. For example: the tiger's teeth are best for meat, but they could not grind grass. The cow's teeth are best for grass, but they could not catch and tear meat.. *Why:* Each set of teeth is very good at one kind of food. Which is better depends on what the animal eats. A strong answer uses the shape of the teeth as evidence.
 2. (write) Say out loud, and a grown-up writes it down: in the Press or Grind test, which way broke the leaf into small bits? Say why that helps a cow.  
    **Answer:** Rubbing round and round tore the leaf into bits and made green juice. Pressing only flattened it. A cow rubs her flat back teeth from side to side, so the grass is ground up small.. *Why:* A strong answer gives the result of the test (rubbing tore the leaf) and links it to the side-to-side chewing of a cow.
-3. (mcq) Kavya, a girl in Class 2, sees two frogs of the same size. One has short back legs and one has long back legs. Which frog most likely jumps farther?  
+3. (mcq) Two frogs are the same size. One has short back legs and one has long back legs. Which frog most likely jumps farther?  
    Options: The frog with short back legs / The frog with long back legs / They jump the same  
    **Answer:** The frog with long back legs. *Why:* Long legs that fold up can push on the ground for longer as they straighten. A longer push gives a faster start and a longer jump. That is what your bent knees showed in the Jump Test.
 4. (sort) Sort these animals by what they eat.  
@@ -522,26 +523,26 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 9. (odd) Three of these animals swallow food without chewing it. Which one chews?  
    Options: A snake / A cow / A kingfisher / A frog  
    **Answer:** 1. *Why:* A cow chews and grinds her food with flat molars. Snakes, kingfishers and frogs swallow their food whole.
-10. (count) A child has 20 milk teeth. Zoya, who is seven, has lost 4 of them. How many milk teeth does Zoya still have?  
-   **Answer:** 16. *Why:* 20 take away 4 is 16. Zoya still has 16 milk teeth. Big new teeth will grow where the 4 fell out.
+10. (count) A child has 20 milk teeth. A seven-year-old has lost 4 of them. How many milk teeth does the child still have?  
+   **Answer:** 16. *Why:* 20 take away 4 is 16. The child still has 16 milk teeth. Big new teeth will grow where the 4 fell out.
 ### Moving and Eating (challenge) (challenge, 10 questions)
-1. (perspective) Lakshmi and her brother Arjun live in Mysuru. They are talking about legs.  
+1. (perspective) A girl aged 8 and her brother aged 6 live in Mysuru. They are talking about legs.  
    **Answer:** A strong answer picks a side with a reason, and says what the other side has right. For example: legs let you jump a ditch, but a snake can slide into a narrow crack where legs would get in the way.. *Why:* Every body is good for some places and not others. A strong answer gives at least one real thing that each body can do.
 2. (write) Say out loud, and a grown-up writes it down: many people think that bigger animals always jump farther. What would you test to find out if that is true?  
    **Answer:** I would ask a big person and a small person to jump from the same line in the same way, three times each, and measure. I could also look up how far a grasshopper jumps compared to her body length.. *Why:* A strong answer describes a fair test: the same start line, the same way of jumping, more than one try, and a measurement. It may also say that tiny animals like grasshoppers jump many times their own length.
-3. (draw) Look at the card 'One bone plan in many limbs'. Draw your arm and a bat's wing side by side. Colour the same bones the same colour.  
+3. (draw) Your arm and a bat's wing have the same bones: one long upper bone, then two bones side by side, then small wrist bones, then finger bones. Draw your arm and a bat's wing side by side. Colour the same bones the same colour.  
    **Answer:** An arm and a bat wing, each with one long upper bone, two lower bones, small wrist bones and long finger bones in the wing.. *Why:* A strong drawing shows the same pattern in both: one bone, then two, then wrist bones, then fingers. The bat's fingers are very long to hold the skin of the wing.
 4. (write) Say out loud, and a grown-up writes it down: invent an animal who lives in a pond and eats seeds that float on the water. How does the animal move, and what does the mouth look like?  
    **Answer:** My animal has webbed feet to paddle, and a short, thick beak with comb-like edges to scoop up floating seeds and crack them.. *Why:* A strong answer gives the animal a body part that pushes on water, such as webbed feet or fins, and a mouth that fits seeds, such as a short, thick beak.
-5. (mcq) Bidisha, a girl in Kolkata, wonders where a snake would have the hardest time moving. Which place is hardest?  
+5. (mcq) Where would a snake have the hardest time moving?  
    Options: A rough doormat / A smooth glass table / Both are the same  
    **Answer:** A smooth glass table. *Why:* A snake moves by pushing the curves of her body against bumps. Smooth glass has almost no bumps to push on, so a snake slides about and moves slowly. A rough doormat gives her plenty to push on.
-6. (order) Put these in order, from the animal who jumps the shortest distance for their size to the longest: an elephant, you, a grasshopper.  
+6. (order) Who jumps farthest for their own body size? Put these in order, from the shortest jump to the longest: an elephant, you, a grasshopper.  
    **Answer:** [0, 1, 2]. *Why:* An elephant cannot jump at all. You can jump about as far as your own height, or a little less. A grasshopper can jump many times the length of their own body.
 7. (truefalse) A bat's wing has the same kinds of bones as your arm and hand.  
    **Answer:** True. *Why:* True. A bat's wing has one upper bone, two lower bones, wrist bones and very long finger bones. The skin of the wing is stretched between the fingers.
 8. (label) Label the bird's wing on the way down and on the way up: wide and flat, bent in.  
-   **Answer:** ['wide and flat: on the way down, pushing a lot of air', 'bent in: on the way up, pushing less air']. *Why:* On the way down, the wing spreads wide and flat to push a lot of air down. On the way up, many birds bend the wing in, so it pushes less air the wrong way. Your notebook did the same: flat it pushed a lot of air, and edge first it pushed very little.
+   **Answer:** ['wide and flat: on the way down, pushing a lot of air', 'bent in: on the way up, pushing less air']. *Why:* On the way down, the wing spreads wide and flat to push a lot of air down. On the way up, many birds bend the wing in, so it meets less air and does not push the bird back down much. In Wing Push, your notebook did the same: flat it pushed a lot of air, and edge first it pushed very little.
 9. (fill) An animal who eats both plants and other animals is called an ________.  
    **Answer:** omnivore. *Why:* Crows, sloth bears and most humans eat both plants and animals, so they are omnivores.
 10. (match) Match each glider to how the glider spreads out.  
@@ -558,13 +559,13 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
    **Answer:** By stretching and squeezing the body, while tiny bristles grip the soil. *Why:* An earthworm makes her body long and thin, then short and fat, one part at a time. Tiny bristles grip the soil so she does not slide back. If you said jumping, think of the frog: jumping needs legs.
 2. (mcq) What do a bird's wings push on to hold the bird up?  
    Options: The air / The ground / The bird's own body  
-   **Answer:** The air. *Why:* Wings push air down, and the air pushes the wings up. You felt this when the flat notebook was hard to swing.
+   **Answer:** The air. *Why:* Wings push air down, and the air pushes the wings up. In Wing Push, you felt this when the flat notebook was hard to swing.
 3. (mcq) Why do a frog's back legs fold up in a Z shape when she sits?  
    Options: To keep them warm / So they can straighten fast and give a long push when she jumps / Because they are broken  
    **Answer:** So they can straighten fast and give a long push when she jumps. *Why:* Folded legs are ready to straighten. Long, folded legs push on the ground for a long time, so the frog jumps far.
 4. (mcq) Which teeth grind food into small bits?  
    Options: The flat front teeth (incisors) / The pointed teeth (canines) / The wide back teeth (molars)  
-   **Answer:** The wide back teeth (molars). *Why:* Molars are wide and bumpy, and grind food. Incisors cut, and canines grip and tear. If you picked the front teeth, remember the cucumber bite: they made cuts, not mush.
+   **Answer:** The wide back teeth (molars). *Why:* Molars are wide and bumpy, and grind food. Incisors cut, and canines grip and tear. If you picked the front teeth, remember the cucumber bite in My Teeth Map: your front teeth made cuts, not mush.
 5. (mcq) A tiger has very long pointed canines. What does a tiger eat?  
    Options: Grass / Meat / Nectar  
    **Answer:** Meat. *Why:* Long canines grip and tear meat. A tiger is a carnivore. Grass-eaters like cows have wide, flat grinding teeth instead.
@@ -610,7 +611,7 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 - Can you see the bird's beak? What food do you think that beak is good for?
 - When the cat jumps, what does she do first?
 - Which of your teeth did you use to bite that? Which did you use to chew?
-- If you could have one other animal's way of moving for a day, which would you pick, and why?
+- Which animal's way of moving could take you somewhere a human cannot go? Where?
 
 ## Jokes
 - Why are frogs so happy? *They eat whatever bugs them!*
@@ -624,10 +625,10 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 - How do you count cows? *With a cow-culator!*
 
 ## Connected maths
-- In the Jump Test, Harini's longest straight-legged jump was 2 foot-lengths. Her longest big-bend jump was 5 foot-lengths. How many foot-lengths farther did the big bend take her? **3 foot-lengths farther.**. Count up from 2 to 5: 3, 4, 5. That is 3 more. So the big bend took Harini 3 foot-lengths farther. (queues `math.number-sense.comparing-ordering.L2`)
+- In the Jump Test, a child's longest straight-legged jump was 2 foot-lengths. The longest big-bend jump was 5 foot-lengths. How many foot-lengths farther was the big-bend jump? **3 foot-lengths farther.**. Count up from 2 to 5: 3, 4, 5. That is 3 more. So the big-bend jump was 3 foot-lengths farther. (queues `math.number-sense.comparing-ordering.L2`)
 - A frog jumps across the kitchen floor. Each jump covers 3 tiles. After 4 jumps, how many tiles has the frog crossed? **12 tiles.**. Each jump is 3 tiles. 3, 6, 9, 12. After 4 jumps, the frog has crossed 12 tiles. (queues `math.multiplication.equal-groups.L2`)
-- Riya counted her teeth in the mirror. She has 10 teeth on top and 8 on the bottom, because 2 bottom teeth fell out. How many teeth does she have now? How many will she have when the 2 new teeth grow in? **18 teeth now, and 20 when the 2 new ones grow.**. 10 and 8 make 18. When 2 new teeth grow in, 18 and 2 make 20. (queues `math.addition-subtraction.meaning.L2`)
-- Nandini's family played Message Relay. Each animal could carry the message twice. There were 8 animals. What is the most number of turns the animals could carry the message in one game? **16 turns.**. Each of the 8 animals can go twice. 8 and 8 make 16. There are only 12 places, so the team has 4 turns to spare, but only if they choose carefully. (queues `math.logic.problem-solving.L2`)
+- A child counts the teeth in the mirror. There are 10 teeth on top and 8 on the bottom, because 2 bottom teeth fell out. How many teeth does the child have now? How many will there be when the 2 new teeth grow in? **18 teeth now, and 20 when the 2 new ones grow.**. 10 and 8 make 18. When 2 new teeth grow in, 18 and 2 make 20. (queues `math.addition-subtraction.meaning.L2`)
+- In Message Relay, each animal can carry the message twice. There are 8 animals. What is the largest number of turns the animals can carry the message in one game? **16 turns.**. Each of the 8 animals can go twice. 8 and 8 make 16. There are only 12 places, so the team has 4 turns to spare, but only if they choose carefully. (queues `math.logic.problem-solving.L2`)
 
 ## Song
 Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
