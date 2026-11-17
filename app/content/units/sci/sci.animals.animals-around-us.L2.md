@@ -70,7 +70,7 @@ Wild animals do not only live in forests. Crows, pigeons, squirrels, geckos and 
 ### Sorting by more than one part · *defined*
 **Definition:** Scientists sort animals by looking at many body parts together, not just one.
 
-Wings alone do not make a bird: butterflies and bats have wings too. Fins alone do not make a fish: dolphins have fins. Scales alone do not make a reptile: the Indian pangolin is a mammal covered in scales, and the mother feeds her baby on milk. So scientists look at the covering, the legs, how the animal breathes and how the babies are fed, all together. Humans are mammals: you have hair, you breathed air from your first minute, and babies drink milk.
+Wings alone do not make a bird: butterflies and bats have wings too. Fins alone do not make a fish: dolphins have fins. Scales alone do not make a reptile: the Indian pangolin is a mammal covered in scales, and the mother feeds her baby on milk. So scientists look at the covering, the legs, how the animal breathes and how the babies are fed, all together. Humans are mammals: you have hair, you have breathed air from your first minute, and human babies drink milk.
 - e.g. A bat has wings and fur, so a bat is a mammal.
 - e.g. A pangolin has scales and drinks milk as a baby, so a pangolin is a mammal.
 - e.g. A penguin has wings and feathers but cannot fly, and a penguin is a bird.
@@ -108,28 +108,28 @@ Fossils show that some dinosaurs had feathers, millions of years before birds fl
 ## Roots
 We have compared animals by their coverings, legs, wings and fins, and tested how many legs a body needs to stand. Now we ask what standing on two legs tells us about ourselves.
 
-**Deep truth.** Your dough animal stood up without help on three or four legs, but fell over on two. Standing on two legs with your eyes shut, you felt your feet and ankles keep shifting. Each shift catches your body before it tips, so you do not fall. So standing on two legs is work your body keeps doing, every second you stand.  
-*Habit it breaks:* We think standing still means doing nothing. But a body on two legs is acting all the time to stay up, and the body decides each tiny shift without you having to think about it.  
-*Evidence:* In the Dough Legs test, the dough animal fell over on two legs every time, and stood on three or four. Standing with eyes shut, children feel their toes press and their ankles tighten and loosen to keep them up.
+**Deep truth.** In the Dough Legs test, your dough animal stood without help on three or four legs, but fell over on two. Then you stood on two legs with your eyes shut, and felt your feet and ankles keep shifting. Each shift catches your body before it tips, so you do not fall. So standing on two legs is work that your body keeps doing, every second you stand.  
+*Habit it breaks:* We think standing still means doing nothing. But a body on two legs is working all the time to stay up. Your body makes each tiny shift without you having to think about it.  
+*Evidence:* In the Dough Legs test, the dough animal fell over on two legs every time, and stood on three or four. When children stand with their eyes shut, they feel their toes press and their ankles tighten and loosen to keep them up.
 
 - *who am i:* You are an animal with hair, skin and two legs. Your body keeps you standing, second by second.
-- *what is life:* A living body keeps acting to stay as it is. Standing up on two legs is one of the things your body does without stopping.
+- *what is life:* A living body keeps working to stay as it is. Standing on two legs is one of the things your body does without stopping.
 - *what is this world:* The world is full of bodies built in different ways: two legs or eight, feathers or fins. Each body suits the life that animal lives.
 
-Animal bodies come in many forms: two legs or eight, feathers or fur, fins or wings. Underneath, many of these different coverings are one material: your hair, a crow's feathers and a gecko's scales are all keratin. And every body keeps itself going in their own way. A stool stands by its shape, but a crow and you stand by sensing and correcting all the time. Your feet and ankles feel the floor, and your muscles answer each shift.
+Animal bodies come in many forms: two legs or eight, feathers or fur, fins or wings. But many of these different coverings are made of one material: your hair, a crow's feathers and a gecko's scales are all keratin. Bodies also stay up in different ways. A stool stands because of its shape. A crow and you stand by feeling each small tilt and correcting it, all the time. Your feet and ankles feel the floor, and your muscles answer each shift.
 
-- **Yoga Sutras of Patanjali 2.46 and 2.47:** A posture should be steady and comfortable. Patanjali says it becomes steady when effort is relaxed and the mind rests on the endless. (In the eyes-shut stand, you were steady only because your feet and ankles kept working. Your effort could relax, because your body kept correcting below what you noticed.)
+- **Yoga Sutras of Patanjali 2.46 and 2.47:** Patanjali says that the way you sit or stand, your posture, should be steady and comfortable. He says it becomes steady when effort is relaxed and the mind rests on the endless. (When you stood with your eyes shut in the Dough Legs experiment, you were steady only because your feet and ankles kept working. You did not have to try hard, because your body made the corrections without you noticing.)
 - **Udana 6.4, the Tittha Sutta (Buddhist Pali Canon):** Some men who could not see each felt one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the trunk and said an elephant is like a snake. Each was partly right, and they quarrelled. (In this unit, one body part alone often fooled us. Wings did not make the bat a bird, and scales did not make the pangolin a reptile. We knew each animal only by putting all the parts together.)
 - Science (settled): When a person stands still, the body sways a little all the time, and ankle muscles correct the sway. With the eyes shut, the sway gets bigger.
-- Science (open): Many of these corrections are run by the spinal cord and brain without our attention. Whether the body feels or knows each correction in its own way is an open question.
-- Other view, Many neuroscientists: These quick corrections are reflexes: fixed, automatic loops of nerves, with no awareness needed. In this view, awareness belongs to the brain, and only some of what the body does reaches it.
+- Science (open): The brain and the spinal cord, the bundle of nerves inside the backbone, run many of these corrections without our attention. Nobody knows yet whether the body feels or knows each correction in its own way.
+- Other view, Many neuroscientists: These quick corrections are reflexes: the nerves do them automatically, the same way every time, and you do not need to be aware of them. In this view, awareness belongs to the brain, and only some of what the body does reaches the brain.
 - Practice, Let the Floor Hold You (3 min): Stand up tall and shut your eyes. Feel your feet working to keep you up. Now lie down flat on the floor. Let your arms and legs go loose. Feel how your feet can rest now. The floor is holding you. Breathe in and out slowly, three times.
 - Ask: When you stand still, who is doing the work of keeping you up?
 - Ask: A stool stands by its shape. You stand by moving. Which way of standing is more like being alive?
 - Ask: A crow sleeps on a branch without falling. What do you think the crow's feet feel?
 
 ## Deep and big questions
-- *deep:* When you stand still, which parts of you are working? Who decides each tiny shift? (hint: Remember standing with your eyes shut. Did you decide to move your ankle, or did your ankle move by itself?)
+- *deep:* When you stand still, your feet and ankles keep making tiny moves. Who decides each move: you, or your body by itself? (hint: In the Dough Legs experiment, you stood with your eyes shut. Did you decide to move your ankle, or did your ankle move by itself?)
 - *big:* Is a pet a kind of animal, or a kind of friendship between an animal and a family? (hint: A parrot can be wild in the forest. A street dog can be fed by a whole lane. What makes an animal a pet?)
 - *big:* We sort animals by their bodies. How might a crow sort the animals they see? (hint: A crow might sort animals into ones that are dangerous and ones that are not, or ones that share food and ones that do not.)
 - *deep:* If you met an animal with feathers and four legs, what group would you put them in? (hint: No animal like this is alive today. Would you make a new group, or change the rules of the old groups?)
@@ -214,7 +214,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 
 ## Games
 ### g1 · Covering Snap (15 min)
-- **rules:** Before you play, share the cards and draw a quick animal under each name, so that a child who cannot read yet can play. A simple shape is enough.; Lay the five covering mats in a circle on the floor.; Mix the cards and put them face down in a pile.; One player turns over the top card and reads the name aloud.; Everyone races to put a hand on the right mat. A hand on a wrong mat means you sit out that card.; Turn the card over to check. The first hand on the right mat wins the card.; When the pile is finished, the player with the most cards wins. If two players have the same number, they both win.
+- **rules:** Before you play, share out the cards between the players. Each player draws a quick animal under the name on each of their cards, so that a child who cannot read yet can play. A simple shape is enough.; Lay the five covering mats in a circle on the floor.; Mix the cards and put them face down in a pile.; One player turns over the top card and reads the name aloud.; Everyone races to put a hand on the right mat. A hand on a wrong mat means you sit out that card.; Turn the card over to check. The first hand on the right mat wins the card.; When the pile is finished, the player with the most cards wins. If two players have the same number, they both win.
 - **Printable cards: 24 animal cards to cut out, with the covering on the back:** Crow (back: Feathers) [picture]; Peacock (back: Feathers) [picture]; Penguin (back: Feathers. A bird that swims and does not fly.) [picture]; Hen (back: Feathers) [picture]; Dog (back: Hair or fur) [picture]; Cow (back: Hair or fur) [picture]; Bat (back: Hair or fur. A bat is a mammal with wings.) [picture]; You (back: Hair or fur. You have hair and skin.); Elephant (back: Hair or fur. Elephants have thin, bristly hairs.) [picture]; Squirrel (back: Hair or fur) [picture]; Fish (back: Scales) [picture]; Snake (back: Scales) [picture]; Gecko (back: Scales) [picture]; Indian pangolin (back: Scales. A pangolin is a mammal with scales!); Crocodile (back: Scales) [picture]; Snail (back: Shell or hard case) [picture]; Tortoise (back: Shell or hard case) [picture]; Crab (back: Shell or hard case) [picture]; Ant (back: Shell or hard case. An ant's outside is a hard case.) [picture]; Beetle (back: Shell or hard case) [picture]; Frog (back: Bare skin) [picture]; Earthworm (back: Bare skin) [picture]; Dolphin (back: Bare skin. A dolphin is a mammal with almost no hair.) [picture]; Butterfly (back: Scales. A butterfly's wings are covered in tiny scales!) [picture]
 - **Printable board: 5 covering mats to lay on the floor:** Feathers; Hair or fur; Scales; Shell or hard case; Bare skin
 - **s1 (4 min)**  
@@ -226,7 +226,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Parent says:* Crow! Which mat? Quick!  
   *Child mode:* Turn over a card. Slap the right mat. Check the back.
   - Ask: The bat has wings. Why does the bat go on the hair or fur mat? (good: Because a bat has fur.; Because a bat is a mammal, not a bird.)
-  - Note: The tricky cards are the bat, the pangolin, the butterfly, the ant and the dolphin. Let the race stop for these, and talk about them.
+  - Note: The tricky cards are the bat, the pangolin, the butterfly, the ant and the dolphin. Stop the race for these cards, and talk about them.
 - **s3 (3 min)**  
   *Parent does:* Count the cards. Then pick up the pangolin card and ask the check question.  
   *Parent says:* Who has the most cards? Now, a tricky one.  
@@ -257,7 +257,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 ## Experiments
 ### e1 · Dough Legs: how many legs does a body need to stand? (25 min)
 - **question:** How many legs does a body need to stand still without help? And how do we stand on only two?
-- **predict:** Guess first. How many legs will the dough animal need to stand without help without falling over? Why do you think so?
+- **predict:** Guess first. How many legs will the dough animal need to stand without help? Why do you think so?
 - **fair test:** We use the same dough body and legs of the same length every time. Only the number of legs changes. We let go and count to five each time, and try each number twice, because one try can be luck.
 - **safety:** Toothpicks have sharp points. A grown-up cuts any sticks, and nobody waves the legs near eyes. Stand near a wall or a grown-up when you shut your eyes.
 - **record:** Fill in the results table. Draw the dough animals that stood and the ones that fell.
@@ -270,14 +270,14 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Parent does:* Ask your child to guess and to say why. Write the guess on the paper.  
   *Parent says:* How many legs will our animal need to stand without help? Why do you think so?  
   *Child mode:* Guess. How many legs does it need to stand? Why?
-  - Ask: Why do you think so? (good: Two, because I stand on two legs.; Four, because a cow and a dog stand on four.)
+  - Ask: Why do you think the dough animal needs that many legs? (good: Two, because I stand on two legs.; Four, because a cow and a dog stand on four.)
   - Note: Many children guess two, because they stand on two legs themselves. Do not correct the guess. The test will answer it.
 - **s3 (9 min)**  
   *Parent does:* 1. Stand the body on the board on one leg and let go. 2. Count to five. 3. Write down what happened. 4. Add a second leg and test again. 5. Then test three legs, four legs and six legs. 6. Try each number twice.  
   *Parent says:* Let go gently and count to five. Did the animal stand, wobble or fall?  
   *Child mode:* Let go. Count to five. Did it stand or fall?
   - Ask: What happened with two legs? (good: The dough animal fell over, forward or backward.; It fell every time unless I held it.)
-  - Note: Push the legs in so they spread out a little, like the legs of a stool. With one or two legs, the body tips over every time. With three legs spread out, it stands. Four and six stand easily. If three legs fall, spread them wider and keep the body in the middle.
+  - Note: Push the legs in so they spread out a little, like the legs of a stool. With one or two legs, the body tips over every time. With three legs spread out, the body stands. With four and six legs, the body stands easily. If the body falls on three legs, spread the legs wider and keep the body in the middle.
 - **s4 (3 min)**  
   *Parent does:* 1. Take out all but two legs. 2. Press a flat dough foot, about as wide as a coin, onto the end of each leg. 3. Test again.  
   *Parent says:* Birds stand on two legs with wide, spread toes. Will big feet help our animal stand on two legs?  
@@ -288,9 +288,9 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Parent says:* Stand still and shut your eyes. Don't move on purpose. What do your feet and ankles feel?  
   *Child mode:* Stand near a wall. Shut your eyes. What do your feet do?
   - Ask: What did you feel in your feet? (good: My toes pressed down and let go.; My ankles kept moving a tiny bit.; I kept swaying and stopping.)
-  - Note: Your child will feel the toes press, the ankles tighten and loosen, and the body sway a little. Shutting the eyes makes the sway bigger, so the corrections are easier to feel. Standing on one foot makes them bigger still.
+  - Note: Your child will feel the toes press, the ankles tighten and loosen, and the body sway a little. Shutting the eyes makes the sway bigger, so these tiny moves are easier to feel. Standing on one foot makes them bigger still.
 - **s6 (3 min)**  
-  *Parent does:* Ask your child to say what they think, what they saw, and why.  
+  *Parent does:* Ask your child what they think the answer is, what they saw in the test, and why it happened.  
   *Parent says:* So, how many legs did the dough animal need? And how do you stand on two?  
   *Child mode:* How many legs did it need? How do you stand on two?
   - Ask: Why can you stand on two legs, when the dough animal could not? (good: Because my feet and ankles keep moving to catch me.; Because my body keeps balancing, and the dough does not.)
@@ -325,20 +325,20 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Parent says:* Flick it just like before. What happens now?  
   *Child mode:* Flick it the same way. Count the turns.
   - Ask: What happened with the fin? (good: The bottle rocked and stopped.; It did not roll over at all.)
-  - Note: With the fin, the bottle rocks a little and stops. The fin has to push a lot of water out of the way to turn, so it hardly turns.
+  - Note: With the fin, the bottle rocks a little and stops. To turn, the fin has to push a lot of water out of the way, so the bottle hardly turns.
 - **s6 (3 min)**  
-  *Parent does:* Ask your child to say what they think, what they saw, and why.  
+  *Parent does:* Ask your child what they think the answer is, what they saw in the test, and why it happened.  
   *Parent says:* So what does a fin on a fish's back or belly do?  
   *Child mode:* What does a fin do for a fish?
   - Ask: Why did the fin stop the rolling? (good: Because the fin pushes against the water.; Because the water holds the fin back.)
-  - Note: A strong answer uses the counts: no fin, the bottle rolled. With a fin, it stopped. Fins on a fish's back and belly do the same job. They push against the water and keep the fish upright.
+  - Note: A strong answer uses the counts: without a fin, the bottle rolled. With a fin, the bottle rocked and stopped. Fins on a fish's back and belly do the same job. They push against the water and keep the fish upright.
   - Check: With a fin, the bottle stopped rolling. What does the fin on a fish's back do? → **Keeps the fish from rolling over**
 
 ## Activities
 ### a1 · Count an Ant's Legs (12 min)
 - **record:** Draw the ant with every leg. Write the number of legs.
 - **s1 (2 min)**  
-  *Parent does:* 1. About an hour before, put a pinch of sugar on a white plate. 2. Put the plate on the floor where you have seen ants.  
+  *Parent does:* 1. About an hour before you start, put a pinch of sugar on a white plate. 2. Put the plate on the floor where you have seen ants.  
   *Parent says:* Ants find sugar fast. Let's give them some and see who comes.  
   *Child mode:* Put sugar on a plate where the ants walk.
 - **s2 (3 min)**  
@@ -353,9 +353,9 @@ That night the tube light went on, and the moths came, and so did Chikki.
   - Note: An ant has six legs, three on each side, and two feelers called antennae on the head. Children sometimes count the feelers as legs. If no ants come, try again later, or look at an ant on the kitchen counter or the balcony.
 - **s4 (3 min)**  
   *Parent does:* Compare the ant's legs with your child's legs and a crow's legs.  
-  *Parent says:* You have two legs. A crow has two. The ant has six. Why might an ant need more legs?  
-  *Child mode:* You have 2 legs. The ant has 6. Why so many?
-  - Ask: Why might six legs help an ant? (good: To walk fast and not fall over.; To carry food and hold on to walls.)
+  *Parent says:* You have two legs. A crow has two. The ant has six. How many more legs does the ant have than you?  
+  *Child mode:* You have 2 legs. The ant has 6. How many more?
+  - Ask: How many more legs does the ant have than you? (good: Four more. The ant has six and I have two.; Six take away two is four.)
   - Check: How many legs does an ant have? → **6**
 ### a2 · Up Close: my hair, skin and nails (10 min)
 - **safety:** If you use a feather you found outside, hold it by the end and wash your hands after.
@@ -367,11 +367,11 @@ That night the tube light went on, and the moths came, and so did Chikki.
   - Ask: Where does each hair come out of? (good: Out of a tiny hole in my skin.; Out of my skin.)
 - **s2 (3 min)**  
   *Parent does:* If you have a feather, zoom in on it and compare with the hair.  
-  *Parent says:* A feather grows out of a bird's skin, as your hair grows out of yours. How are they the same? How are they different?  
+  *Parent says:* A feather grows out of a bird's skin, just as your hair grows out of your skin. How are they the same? How are they different?  
   *Child mode:* Look at the feather. How is it like your hair?
   - Note: Your hair, your nails, a bird's feathers, a cow's horns and a gecko's scales are all made of the same tough material, called keratin. Fish scales are made of a bony material instead.
 - **s3 (3 min)**  
-  *Parent does:* Talk about coverings.  
+  *Parent does:* Talk about what body coverings are made of.  
   *Parent says:* Your covering is skin and hair. Which animals have a covering made of the same material as your nails?  
   *Child mode:* Which animals are covered in the same material as your nails?
   - Check: Your nails and a crow's feathers are made of the same material. What is it called? → **Keratin**
@@ -385,7 +385,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 - **s2 (4 min)**  
   *Parent does:* Take turns: one person moves like an animal, and the others guess.  
   *Parent says:* Which animal am I? How do you know?  
-  *Child mode:* Move like an animal. Can they guess?
+  *Child mode:* Move like an animal. Can the others guess which animal you are?
   - Ask: How did you know I was a snake? (good: Because you had no legs and slid along.; Because you moved your whole body.)
   - Check: Which animal moves with no legs? → **A snake**
 ### a4 · Pet, Farm or Wild? (15 min)
@@ -403,7 +403,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Parent does:* Talk about the tricky ones: a street dog, a cow walking on the road, a parrot in a cage.  
   *Parent says:* A street dog is fed by the whole lane. Is she a pet, or wild? What do you think?  
   *Child mode:* Is a street dog a pet or wild? Why?
-  - Note: There is no single right answer for a street dog. Some people say community dog. The important thing is the reason your child gives.
+  - Note: There is no single right answer for a street dog. Some people call her a community dog. The important thing is the reason your child gives.
   - Check: A crow lives on the water tank of your building. What kind of animal is the crow? → **A wild animal**
 ### a5 · Feather and Water (if you find a feather) (10 min)
 - **safety:** Hold the feather by the end and wash your hands after.
@@ -416,9 +416,9 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Parent does:* Drip three drops of water on the feather and three on the paper. Watch.  
   *Parent says:* Look at the drops. Which ones soak in? Which ones roll?  
   *Child mode:* Drip the water. Watch the drops.
-  - Note: On most feathers, the drops stay round and roll off. On the paper they soak in. Feathers hook together tightly, and birds spread oil on them from a spot near the tail. If the drops soak in, the feather may be dirty or fluffy down. Try a bigger, smooth feather, such as a pigeon's wing feather.
+  - Note: On most feathers, the drops stay round and roll off. On the paper they soak in. Feathers hook together tightly, and birds spread oil on them from a spot near the tail. Wet feathers would be heavy and cold, so a bird whose feathers shed water stays light enough to fly and stays warm in the rain. If the drops soak into the feather, the feather may be dirty, or may be a soft, fluffy one. Try a bigger, smooth feather, such as a pigeon's wing feather.
 - **s3 (3 min)**  
-  *Parent does:* Talk about it.  
+  *Parent does:* Talk about what the water did on the feather and on the paper.  
   *Parent says:* Why does a crow need feathers that keep water off?  
   *Child mode:* Why does a crow need dry feathers?
   - Check: The water rolled off the feather but soaked into the paper. Why is this useful for a bird? → **It keeps the bird dry and light in the rain**
@@ -434,7 +434,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Child mode:* Watch the fish. Which fin moves most?
   - Note: Most fish swim forward by sweeping the tail fin from side to side. The side fins flutter to turn, to stay still and to stop.
 - **s3 (3 min)**  
-  *Parent does:* Talk about what you saw.  
+  *Parent does:* Talk about which fins moved when the fish swam, turned and stopped.  
   *Parent says:* What did the side fins do when the fish stopped?  
   *Child mode:* What did the side fins do?
   - Check: Which fin pushes most fish forward? → **The tail fin**
@@ -469,7 +469,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 - **creative:** Add a long, heavy tail that touches the ground, like a third leg. Kangaroos lean on their tail like this.; Put the legs far apart, one at the front and one at the back, with wide feet.
 - **s1 (3 min)**  
   *Parent does:* Read the challenge. Remind your child what happened with two legs in the Dough Legs test.  
-  *Parent says:* Our dough animal fell over on two legs. Can you make one that stands?  
+  *Parent says:* In the Dough Legs test, our dough animal fell over on two legs. Can you make one that stands?  
   *Child mode:* Make a two-legged dough animal that stands!
 - **s2 (12 min)**  
   *Parent does:* Your child designs and tests. Let them try, fail and change the design.  
@@ -496,9 +496,9 @@ That night the tube light went on, and the moths came, and so did Chikki.
    **Answer:** An ant. *Why:* An ant is an insect, and every adult insect has six legs. A spider has eight legs. A crow has two.
 5. (truefalse) A bat is a bird, because a bat has wings.  
    **Answer:** False. *Why:* False. Bats have wings, but they have fur, not feathers, and bat babies drink milk. Bats are mammals.
-6. (draw) Draw the dough animal that stood up in the Dough Legs test. Show how many legs it had.  
-   **Answer:** A dough body on three or more legs, spread out.. *Why:* A strong drawing shows three or more legs spread out under the body, because those stood by themselves.
-7. (write) Say out loud, and a grown-up writes it down: why did the dough animal with two legs fall over?  
+6. (draw) Draw a dough animal that could stand up by itself. Show how many legs it needs and where they go.  
+   **Answer:** A dough body on three or more legs, spread out.. *Why:* A strong drawing shows three or more legs spread out under the body, because spread-out legs make a steady base to stand on.
+7. (write) Say your answer out loud, and ask a grown-up to write it down. In the Dough Legs test, why did the dough animal with two legs fall over?  
    **Answer:** Two legs only make a thin line to stand on, so the dough tipped forward or back. The dough cannot move to catch itself.. *Why:* A strong answer says that two legs are not enough to hold the body up by themselves, and may say that three legs make a triangle.
 8. (odd) Three of these animals have legs. Which one has no legs?  
    Options: A lizard / A snake / A frog / A crow  
@@ -509,7 +509,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
    **Answer:** mammals. *Why:* Mammals have hair or fur, and mammal babies drink milk. Cows, dogs, bats and humans are mammals.
 11. (sort) Sort these animals into pet, farm animal and wild animal.  
    **Answer:** a cat that sleeps at home and is fed every day → Pet; a buffalo kept for milk → Farm animal; a crow on the water tank → Wild animal; a hen kept for eggs → Farm animal; a gecko on the wall → Wild animal; a goldfish in a bowl at home → Pet. *Why:* Pets live with a family who look after them. Farm animals are kept for milk, eggs or work. Wild animals find their own food and home, even in a city.
-12. (perspective) Kavya and her friend Arjun live in Kochi. A brown street dog sleeps outside their building. Many people in the lane feed her.  
+12. (perspective) A brown street dog sleeps outside a building. Many people in the lane feed her. Two children disagree about her.  
    **Answer:** A strong answer picks one side and gives a reason, such as 'she is fed every day, like a pet' or 'no family owns her and she goes where she likes'. Then the child says what the other person has right.. *Why:* This is a real question with no single answer. Many people call such dogs community dogs: looked after by many people, but owned by no one family.
 13. (mcq) Which one is a mammal?  
    Options: A hen / A cow / A crocodile  
@@ -537,15 +537,15 @@ That night the tube light went on, and the moths came, and so did Chikki.
    **Answer:** A fish with a tail fin, a back fin and side fins, and an arrow on the tail fin.. *Why:* Most fish push forward by sweeping the tail fin from side to side. A strong drawing has the arrow on the tail fin.
 8. (order) Put these animals in order, from fewest legs to most legs.  
    **Answer:** ['a snake', 'a crow', 'a dog', 'an ant', 'a spider']. *Why:* A snake has 0 legs, a crow 2, a dog 4, an ant 6 and a spider 8.
-9. (perspective) Meenakshi's grandmother in Madurai keeps a green parakeet in a cage. The parakeet copies her voice.  
+9. (perspective) A grandmother keeps a green parakeet in a cage. The parakeet copies her voice. Three people say what they think.  
    **Answer:** A strong answer picks one view and gives a reason, for example that parakeets fly in flocks, or that the law protects wild birds. It also says one thing another person has right, such as the grandmother caring for the bird.. *Why:* People really disagree about keeping birds. The Wildlife Protection Act of 1972 protects wild Indian birds, so catching and keeping them is against the law.
 10. (sort) Sort these animals: which lay eggs, and which have babies that drink milk?  
    **Answer:** a hen → Lays eggs; a cow → Babies drink milk; a crow → Lays eggs; a goat → Babies drink milk; a gecko → Lays eggs; a human → Babies drink milk. *Why:* Birds and lizards lay eggs. Mammals, like cows, goats and humans, feed their babies milk.
 11. (label) Label the crow: beak, feathers, wing, two legs.  
    **Answer:** ['beak: at the front of the head', 'feathers: all over the body', 'wing: on the side', 'two legs: underneath']. *Why:* A crow, like every bird, has a beak, feathers, two wings and two legs.
-12. (mcq) In the Roll Stopper test, a floating bottle rolled over when flicked. What happened when a fin was taped on underneath?  
-   Options: The bottle rolled more / The bottle rocked and stopped / The bottle sank  
-   **Answer:** The bottle rocked and stopped. *Why:* The fin pushes against the water when the bottle starts to roll, so it rocks and stops. A fish's back fin does the same job.
+12. (mcq) A floating bottle rolls over when you flick it. What do you think happens if a fin is taped on underneath?  
+   Options: The bottle rolls more / The bottle rocks and stops / The bottle sinks  
+   **Answer:** The bottle rocks and stops. *Why:* The fin pushes against the water when the bottle starts to roll, so the bottle rocks and stops. A fish's back fin does the same job.
 13. (fill) A spider has eight legs, so a spider is not an ________.  
    **Answer:** insect. *Why:* Every adult insect has six legs. Spiders have eight, so spiders are not insects.
 14. (truefalse) A whale has fins, but a whale breathes air, like you.  
@@ -554,8 +554,8 @@ That night the tube light went on, and the moths came, and so did Chikki.
    **Answer:** We both walk on two legs. A crow has feathers and wings, and I have hair and no wings.. *Why:* A strong answer gives a real body part that is the same, such as two legs or two eyes, and one that is different, such as feathers or wings.
 ### Think Like a Scientist (challenge) (challenge, 15 questions)
 1. (write) A three-legged stool never rocks, even on a bumpy floor. A four-legged chair sometimes rocks. Why do you think this is?  
-   **Answer:** Three legs always all touch the floor, even if it is bumpy. With four legs, if one leg is short or the floor is bumpy, one leg lifts and the chair rocks.. *Why:* A strong answer says that three feet can always all touch the ground. This is why old milking stools often had three legs.
-2. (perspective) Revathi and her friend Sana argue about legs.  
+   **Answer:** All three legs always touch the floor, even if the floor is bumpy. With four legs, if one leg is short or the floor is bumpy, one leg lifts and the chair rocks.. *Why:* A strong answer says that all three feet can always touch the ground. This is why old milking stools often had three legs.
+2. (perspective) Two children argue about how many legs are best.  
    **Answer:** A strong answer picks one side with a reason, such as 'four legs stand still easily, as the dough test showed', or 'two legs leave hands free'. It also says what the other side has right.. *Why:* Both have a real point. Four legs are steadier. Two legs leave the arms free, but the body must keep balancing.
 3. (mcq) An animal has scales and four legs, and lays eggs on land. Which animal could this be?  
    Options: A fish / A gecko / A frog  
@@ -567,7 +567,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
    **Answer:** A made-up animal with feet that grip, such as sticky toes, hooks or many legs.. *Why:* A strong drawing shows a real way to hold on, such as tiny hairs like a gecko's toes, or hooked claws like a squirrel's.
 6. (truefalse) Fish scales and snake scales are made of the same material.  
    **Answer:** False. *Why:* False. Snake scales are made of keratin, like your nails. Fish scales are made of a bony material. They look alike, but are made differently.
-7. (write) Guess: if the fin on the floating bottle sticks up into the air instead of down into the water, will the fin still stop the rolling? Why?  
+7. (write) In the Roll Stopper test, a fin taped under a floating bottle stopped the bottle rolling. If the fin sticks up into the air instead of down into the water, will the fin still stop the rolling? Why?  
    **Answer:** No, or much less. The fin works by pushing against the water. Air is much thinner than water, so a fin in the air hardly pushes.. *Why:* A strong answer says the fin must be in water to work, because water pushes back much harder than air. A fish is under water, so all of their fins work.
 8. (count) An ant walking keeps three legs on the ground at a time. An ant has six legs. How many legs are in the air?  
    **Answer:** 3. *Why:* 6 take away 3 is 3. The three legs on the ground make a triangle, so the ant does not tip over while walking.
@@ -581,9 +581,9 @@ That night the tube light went on, and the moths came, and so did Chikki.
    **Answer:** keratin. *Why:* Hair, nails, feathers, horns and the scales of snakes and lizards are all keratin, shaped in different ways.
 13. (sort) Sort these animals: insect, or not an insect?  
    **Answer:** an ant → Insect (6 legs); a spider → Not an insect; a butterfly → Insect (6 legs); a centipede → Not an insect; a mosquito → Insect (6 legs); an earthworm → Not an insect. *Why:* Ants, butterflies and mosquitoes have six legs. Spiders have eight, centipedes have many, and earthworms have none.
-14. (mcq) Lakshmi, a girl in Class 2, says: 'All animals with wings are birds.' Which animal shows that she is wrong?  
+14. (mcq) Someone says: 'All animals with wings are birds.' Which animal shows that this is wrong?  
    Options: A crow / A butterfly / A peacock  
-   **Answer:** A butterfly. *Why:* A butterfly has wings but is an insect, with six legs and no feathers. Crows and peacocks are birds, so they do not show she is wrong.
+   **Answer:** A butterfly. *Why:* A butterfly has wings but is an insect, with six legs and no feathers. Crows and peacocks are birds, so they do not show that it is wrong.
 15. (write) Two cats look the same. One lives in a flat and is fed by a family. The other lives in the lane and catches rats. Is one of them a different kind of animal? Which one is a pet? Give a reason.  
    **Answer:** No, they are the same kind of animal. The cat in the flat is a pet, because a family feeds and looks after her. The lane cat finds her own food.. *Why:* A strong answer says that being a pet depends on how an animal lives, not on what kind of animal she is.
 
@@ -602,9 +602,9 @@ That night the tube light went on, and the moths came, and so did Chikki.
 3. (mcq) Which animal swims with fins?  
    Options: A rohu fish / A goat / A sparrow  
    **Answer:** A rohu fish. *Why:* A rohu is a fish, and fish swim with fins. Goats walk on four legs, and sparrows fly with wings.
-4. (mcq) In the Dough Legs test, which dough animal stood without help?  
+4. (mcq) You make three dough animals: one with one leg, one with two thin legs, and one with three legs spread out. Which one will stand without help?  
    Options: The one with three legs spread out / The one with one leg / The one with two thin legs  
-   **Answer:** The one with three legs spread out. *Why:* Three legs spread out stood, and one leg or two thin legs fell over. Three feet make a triangle to stand on.
+   **Answer:** The one with three legs spread out. *Why:* Three legs spread out make a triangle to stand on. One leg or two thin legs only give a point or a line, so they fall over.
 5. (mcq) A crow lives on the roof of a building in Hyderabad. What kind of animal is the crow?  
    Options: A pet / A wild animal / A farm animal  
    **Answer:** A wild animal. *Why:* The crow finds their own food and home, and nobody owns them. Wild animals live in cities too.
@@ -616,8 +616,8 @@ That night the tube light went on, and the moths came, and so did Chikki.
    **Answer:** 6. *Why:* A butterfly is an insect, so a butterfly has six legs. Wings do not make an animal a bird.
 8. (mcq) What does the fin on a fish's back do?  
    Options: Pushes the fish forward / Keeps the fish from rolling over / Helps the fish breathe  
-   **Answer:** Keeps the fish from rolling over. *Why:* The back fin pushes against the water when the fish starts to roll, like the fin on the floating bottle. The tail fin pushes the fish forward.
-9. (mcq) When you stood still with your eyes shut, what did your feet and ankles do?  
+   **Answer:** Keeps the fish from rolling over. *Why:* The back fin pushes against the water when the fish starts to roll, like the fin on the floating bottle in the Roll Stopper test. The tail fin pushes the fish forward.
+9. (mcq) In the Dough Legs experiment, you stood still with your eyes shut. What did your feet and ankles do?  
    Options: Nothing at all / Kept making tiny moves to keep you up / Went to sleep  
    **Answer:** Kept making tiny moves to keep you up. *Why:* Your feet and ankles keep making tiny moves to catch you before you tip. With your eyes shut, you sway more, so you feel them more.
 10. (mcq) A green parakeet lives in a forest in Kerala. What kind of animal is the parakeet?  
@@ -687,7 +687,7 @@ Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
 - Name an animal with no legs. → A snake, a fish or an earthworm.
 - Is a bat a bird or a mammal? → A mammal. Bats have fur, and their babies drink milk.
 - Name a wild animal that lives in a city. → A crow, a pigeon, a squirrel, a gecko or an ant.
-- How many legs did the dough animal need to stand without help? → Three, spread out in a triangle.
+- In the Dough Legs test, how many legs did the dough animal need to stand without help? → Three, spread out in a triangle.
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards

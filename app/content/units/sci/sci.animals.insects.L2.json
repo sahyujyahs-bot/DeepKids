@@ -119,7 +119,7 @@
    "status": "defined",
    "context": "This card explains why an ant can carry such a big crumb. Read it after the crumb test.",
    "definition": "For the size of their body, a small animal can carry a much bigger load than a big animal can.",
-   "description": "Many ants can carry things heavier than their own bodies. A person cannot carry a load as heavy as a car. Here is why size matters. A muscle's strength depends on how thick it is, and a body's weight depends on how much of it there is. Suppose an ant were made twice as long, twice as wide and twice as tall. Her muscles would be about 4 times as strong, but her body would be about 8 times as heavy. So a small body is very light for the strength of its muscles. That is why ants can carry so much.",
+   "description": "Many ants can carry things heavier than their own bodies. A person cannot carry a load as heavy as a car. Here is why size matters. A muscle's strength depends on how thick the muscle is. A body's weight depends on the whole size of the body: its length, width and height together. Suppose an ant were made twice as long, twice as wide and twice as tall. Her muscles would be about 4 times as strong, but her body would be about 8 times as heavy. So a small body is very light for the strength of its muscles. That is why ants can carry so much.",
    "examples": [
     "An ant carrying a sugar grain bigger than her own head.",
     "A group of ants dragging a crumb too big for one ant.",
@@ -180,7 +180,7 @@
    "for": "An ant can carry a load heavier than her own body. So a person-sized ant sounds as if she could lift something very heavy.",
    "against": "When a body gets bigger, the weight grows much faster than the strength. A person-sized ant would be very heavy, and would struggle even to hold up her own body. She would not lift a car.",
    "status": "rejected",
-   "context": "This card is about what would happen to an ant's strength if she grew huge."
+   "context": "Remember that when a body grows twice as long, wide and tall, its muscles become about 4 times as strong, but its weight becomes about 8 times as great. This card is about what that means for a giant ant."
   },
   {
    "claim": "Cut an earthworm in two, and you get two worms.",
@@ -727,6 +727,7 @@
    "mins": 15,
    "days": 1,
    "context": "In this activity your child compares their body with an ant's. You draw round your child on newspaper. Then you draw a crumb next to the outline, bigger than your child's head, because an ant can carry a crumb bigger than her own head.",
+   "problem": "An ant can carry a crumb bigger than her own head. A person cannot carry a load as heavy as their own body. The reason is size. When a body gets bigger, its weight grows faster than the strength of its muscles. So a very small body is light for its muscles, and a big body is heavy for its muscles. In this activity you see how big the ant's load is, compared with a body your size.",
    "materials": [
     {
      "item": "old newspapers, taped together to be as long as your child",
@@ -1048,7 +1049,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the cards on each mat together.",
-     "say": "Which mat has the most cards? Why do you think there are so many insects?",
+     "say": "Which mat has the most cards? That is because there are more kinds of insects than of any other animal group.",
      "kid": "Which mat has the most cards?",
      "parent": "There are more kinds of insects than of any other animal group. Scientists have named about a million kinds."
     }
@@ -1121,8 +1122,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Talk about what the game shows.",
-     "say": "Was it easy to find the flower from a dance? How do you think the bee sisters learn to read the dance?",
-     "kid": "Was the dance easy to follow? How do bees learn it?"
+     "say": "Was it easy to find the flower from a dance? What did the waggle show you: the way, how far, or both?",
+     "kid": "Was the dance easy to follow? What did the waggle show you?"
     }
    ]
   }
@@ -1427,24 +1428,24 @@
     },
     {
      "t": "perspective",
-     "p": "The first child, aged 7, lives in Kochi. A thin-legged spider has made a web in the corner of her bathroom.",
+     "p": "A girl of 7 lives in Kochi. A thin-legged spider has made a web in the corner of her bathroom.",
      "views": [
       {
-       "who": "The first child",
+       "who": "The girl",
        "says": "The spider is scary. Let's sweep the web away."
       },
       {
-       "who": "The first child's mother",
+       "who": "The girl's mother",
        "says": "Leave her there. She catches mosquitoes for us."
       },
       {
-       "who": "The first child's aunt",
+       "who": "The girl's aunt",
        "says": "Gently move the spider outside on a piece of paper. Then nobody is scared, and she can still catch insects."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing another person has right. Say it out loud, or a grown-up can write it for you.",
      "lines": 4,
-     "a": "A strong answer picks one view and gives a reason. The mother is right that house spiders catch mosquitoes and flies. The first child is right that her feelings matter. The aunt finds a way that helps both the first child and the spider.",
+     "a": "A strong answer picks one view and gives a reason. The mother is right that house spiders catch mosquitoes and flies. The girl is right that her feelings matter. The aunt finds a way that helps both the girl and the spider.",
      "why": "Common house spiders are not dangerous and they catch insects. Moving a spider gently, or leaving her, both avoid harming her."
     },
     {
@@ -1586,24 +1587,24 @@
    "items": [
     {
      "t": "perspective",
-     "p": "The first person lives in a flat in Mysuru. A line of ants walks from a crack in the kitchen wall to the sugar tin.",
+     "p": "A girl lives in a flat in Mysuru. A line of ants walks from a crack in the kitchen wall to the sugar tin.",
      "views": [
       {
-       "who": "The first person's grandmother",
+       "who": "The girl's grandmother",
        "says": "Draw a chalk line round the tin, or spray the ants. They are in our food."
       },
       {
-       "who": "The first person",
+       "who": "The girl",
        "says": "The ants are only taking crumbs home to their sisters. Let them be."
       },
       {
-       "who": "The first person's mother",
+       "who": "The girl's mother",
        "says": "Close the sugar tin tightly and wipe up the crumbs. The ants will stop coming, and nobody gets hurt."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say what one other person has right. Say it out loud, or a grown-up can write it for you.",
      "lines": 4,
-     "a": "A strong answer picks a view and gives a reason. The grandmother is right that food must stay clean. The first person is right that the ants are doing their own work and mean no harm. The mother's way keeps food clean without killing ants, by removing what draws them.",
+     "a": "A strong answer picks a view and gives a reason. The grandmother is right that food must stay clean. The girl is right that the ants are doing their own work and mean no harm. The mother's way keeps food clean without killing ants, by removing what draws them.",
      "why": "Ants come where they find food. Closing tins and wiping crumbs works well, and is kinder than spray. Some chalks sold for ants have poison in them, so they must be kept away from children."
     },
     {

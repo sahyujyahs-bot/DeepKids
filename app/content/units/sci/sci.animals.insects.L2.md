@@ -47,9 +47,9 @@ An earthworm's body is made of many rings, with muscles under the skin. First th
 - e.g. Earthworms on a wet path after the first monsoon rain.
 - e.g. Earthworms in a vermicompost bin, turning vegetable peels into soil.
 ### Small bodies are strong for their size · *defined*
-**Definition:** A small animal can carry a much bigger load, for the size of their body, than a big animal can.
+**Definition:** For the size of their body, a small animal can carry a much bigger load than a big animal can.
 
-Many ants can carry things heavier than their own bodies. A person cannot carry a load as heavy as a car. Here is why size matters. A muscle's strength depends on how thick it is, and a body's weight depends on how much of it there is. Imagine an ant made twice as long, twice as wide and twice as tall. Her muscles would be about 4 times as strong, but her body would be about 8 times as heavy. So a small body is very light for the strength of its muscles, and ants can carry so much.
+Many ants can carry things heavier than their own bodies. A person cannot carry a load as heavy as a car. Here is why size matters. A muscle's strength depends on how thick the muscle is. A body's weight depends on the whole size of the body: its length, width and height together. Suppose an ant were made twice as long, twice as wide and twice as tall. Her muscles would be about 4 times as strong, but her body would be about 8 times as heavy. So a small body is very light for the strength of its muscles. That is why ants can carry so much.
 - e.g. An ant carrying a sugar grain bigger than her own head.
 - e.g. A group of ants dragging a crumb too big for one ant.
 - e.g. A person can carry a school bag, but not a load as big as the person.
@@ -88,14 +88,14 @@ Ants, bees, spiders and worms sense the world, remember and make choices. A hone
 We have counted legs, met insects, spiders and worms, and watched ants carry crumbs. Now we ask what the crumb test tells us about size, strength and ourselves.
 
 **Deep truth.** An ant can carry a crumb bigger than her own head. You cannot carry a load as heavy as your own body. A small body weighs very little for the strength of its muscles. So smaller animals are usually stronger for their size.  
-*Habit it breaks:* We think of big as strong and small as weak. But strength depends on size in a surprising way: as a body grows, the weight grows faster than the strength. So a small body is not a weaker copy of a big one. Being small brings its own powers.  
+*Habit it breaks:* We think of big as strong and small as weak. But strength depends on size in a surprising way: as a body grows, the weight grows faster than the strength. So a small body is not a weaker copy of a big one. Being small has its own advantages.  
 *Evidence:* In the crumb test, ants carried the tiny crumbs, and teams sometimes moved bigger ones. In 1638 Galileo worked out that when a body is made bigger, the weight grows faster than the strength.
 
 - *who am i:* You are a big animal, millions of times heavier than an ant. Your size decides what you can lift, and what you cannot.
 - *what is life:* Life comes in every size. Each size has its own strengths: an ant lifts big loads, and a person can carry a baby a long way.
 - *what is this world:* The world is full of small creatures, far more of them than of us. Ants, bees, spiders and worms do huge work together, one small load at a time.
 
-An ant colony carries home far more food than any one ant could. Each ant brings a crumb, and thousands of sisters together feed the whole nest. A honeybee brings home a tiny drop of nectar, and many trips make a comb of honey. Worms move a little soil each, and together they turn over whole fields. The work of one small life joins the work of millions, and the colony, the hive and the soil are what the many build together.
+An ant colony carries home far more food than any one ant could. Each ant brings a crumb, and thousands of sisters together feed the whole nest. A honeybee brings home a tiny drop of nectar, and many trips make a comb of honey. Worms move a little soil each, and together they turn over whole fields. Each small creature does a little, and millions of them together feed the colony, fill the hive and turn the soil.
 
 - **Acharanga Sutra 1.2.3:** This old Jain text says that all beings love their life. They want to be happy and do not want to be hurt. To all of them, life is dear. (An ant who carries a crumb home is working for her own life and her sisters' lives. The Jain teaching asks us to care for the smallest beings, which is why this unit says: watch the ants, but do not spray or squash them.)
 - **Proverbs 6:6-8:** The Bible says: go to the ant and watch her ways. She has no ruler or boss, yet she gathers her food in summer. (In the crumb test, no ant gave orders. Each ant carried what she could, and the colony's food arrived anyway.)
@@ -104,15 +104,15 @@ An ant colony carries home far more food than any one ant could. Each ant brings
 - Science (debated): Bumblebees rolled small balls with no food as a reward, and some scientists think this is play. Whether insects have feelings like ours is still argued about.
 - Other view, Many scientists who study insects: An ant carrying a crumb is following ways of acting built into her body from birth. In this view, we should not say that the ant cares about her sisters, or chooses her crumb, the way a person would.
 - Practice, Ant's-Eye View (3 min): Lie down on your tummy and put your cheek near the floor. Look along the floor, the way an ant would see the room. What looks huge from down here? Breathe in slowly and out slowly, three times. Now think of the ant carrying her crumb all the way home.
-- Ask: Is a small life less strong than a big one, or strong in a different way?
+- Ask: Is a small animal weaker than a big one, or strong in a different way?
 - Ask: If you were as small as an ant, what could you do that you cannot do now?
-- Ask: An ant carries one crumb, and the nest is fed. What do you carry that helps your family?
+- Ask: Each ant carries one crumb, and together the ants feed the nest. What do you do that helps your family?
 
 ## Deep and big questions
 - *deep:* If an ant grew as big as a dog, could she still carry a crumb bigger than her head? (hint: Think about the crumb test. Then think: when a body gets bigger, which grows faster, the weight or the strength?)
 - *deep:* Why do insects have six legs, not two or four? (hint: Watch an ant walk. Many insects keep three legs on the ground at a time, in a triangle, like a stool with three legs. Can a stool with three legs fall over?)
 - *deep:* An earthworm has no eyes, but moves away from light. How can a body sense light without eyes? (hint: Close your eyes and stand in the sun. Can your skin tell where the Sun is?)
-- *big:* A bee sees colours on a flower that you cannot see. Is the colour in the flower, or in the eyes looking at the flower? (hint: A bee sees ultraviolet patterns on many flowers. A person sees no pattern there. Who is seeing the real flower?)
+- *big:* A bee sees colours on a flower that you cannot see. Is the colour in the flower, or in the eyes looking at the flower? (hint: A bee sees patterns on many flowers in ultraviolet, a kind of light that people cannot see. A person sees no pattern there. Who is seeing the real flower?)
 - *big:* There are far more ants on Earth than people. Whose planet is it? (hint: Scientists guess there are about two and a half million ants for every person on Earth.)
 
 ## Story: The Crumb That Walked
@@ -219,11 +219,11 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
   - Note: The tricky cards are the butterfly, the scorpion and the centipede. Let the children argue, then read the back.
 - **s3 (2 min)**  
   *Parent does:* Count the cards on each mat together.  
-  *Parent says:* Which mat has the most cards? Why do you think there are so many insects?  
+  *Parent says:* Which mat has the most cards? That is because there are more kinds of insects than of any other animal group.  
   *Child mode:* Which mat has the most cards?
   - Note: There are more kinds of insects than of any other animal group. Scientists have named about a million kinds.
 ### g2 · Bee Dance: find the hidden flower (15 min)
-- **rules:** The first dancer takes a hiding card, hides the paper flower in that place, and the others close their eyes.; The dancer stands in the middle of the room. No talking!; The dancer waggles their body from side to side while walking towards the flower, then walks back to the middle. They do this three times.; A short waggle walk of two or three steps means the flower is near. A long waggle walk of many steps means the flower is far.; The other players follow the dance and search. The first to find the flower is the next dancer.; Play until everyone has been the dancer once. With two players, the finder always becomes the dancer, so you take turns.
+- **rules:** The other players close their eyes. The first dancer takes a hiding card and hides the paper flower in that place.; The dancer stands in the middle of the room. No talking!; The dancer waggles their body from side to side while walking towards the flower, then walks back to the middle. They do this three times.; A short waggle walk of two or three steps means the flower is near. A long waggle walk of many steps means the flower is far.; The other players follow the dance and search. The first to find the flower is the next dancer.; Play until everyone has been the dancer once. With two players, the finder always becomes the dancer, so you take turns.
 - **Printable cards: 8 hiding cards to cut out:** Hide the flower near the front door.; Hide the flower under a cushion.; Hide the flower near the kitchen sink.; Hide the flower on a bookshelf.; Hide the flower near a window.; Hide the flower behind a curtain.; Hide the flower near your bed.; Hide the flower on a chair.
 - **Printable tokens: 1 paper flower to cut out and colour:** Flower
 - **s1 (3 min)**  
@@ -237,14 +237,14 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
   - Note: Real bees dance on the honeycomb in the dark hive. The direction of the waggle walk shows which way to fly, and the length shows how far. In the game, the dancer simply walks towards the flower.
 - **s3 (2 min)**  
   *Parent does:* Talk about what the game shows.  
-  *Parent says:* Was it easy to find the flower from a dance? How do you think the bee sisters learn to read the dance?  
-  *Child mode:* Was the dance easy to follow? How do bees learn it?
+  *Parent says:* Was it easy to find the flower from a dance? What did the waggle show you: the way, how far, or both?  
+  *Child mode:* Was the dance easy to follow? What did the waggle show you?
 
 ## Experiments
 ### e1 · The Crumb Test: how big a crumb can an ant carry? (40 min)
 - **question:** Which sizes of crumb can ants carry away, and which are too big?
 - **predict:** Guess first. Which crumbs will the ants carry away: the tiny ones, the rice-sized ones, the chana-sized ones, or even the big ones? Why do you think so?
-- **fair test:** All the crumbs come from the same biscuit, so they taste the same. There are 5 crumbs of each size, because one crumb can be luck. All 20 crumbs go in one line, with the sizes mixed up, so every size is the same distance from the ants. We count at 10 minutes and again at 20 minutes.
+- **fair test:** All the crumbs come from the same biscuit, so they taste the same. There are 5 crumbs of each size, because what happens to one crumb could be luck. All 20 crumbs go in one line, with the sizes mixed up, so every size is the same distance from the ants. We count at 10 minutes and again at 20 minutes.
 - **safety:** Some red ants bite or sting. Watch the ants, but do not touch them or put your hand in the ant line. When you finish, wipe the place with a damp cloth so the ants go home. Do not spray or squash them.
 - **record:** Fill in the results table. A grown-up can write the numbers while your child counts.
 - **results table:** Crumb size | Crumbs at the start | Left after 10 minutes | Left after 20 minutes | How the ants moved them: one ant, a team, or bit by bit
@@ -280,20 +280,20 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
   *Parent says:* Ten more minutes. Which crumbs are moving now? Then we count again.  
   *Child mode:* Watch ten more minutes. Then count again. How many of each size are left?
 - **s7 (2 min)**  
-  *Parent does:* Ask what your child thinks, what they saw, and why.  
+  *Parent does:* Ask your child which crumbs the ants carried away, which ones stayed, and why.  
   *Parent says:* Which crumbs did the ants carry? Was your guess right? Did any ant carry a crumb bigger than her own head?  
   *Child mode:* Which crumbs went? Did an ant carry a crumb bigger than her head?
   - Ask: Why did the big crumbs stay? (good: They were too heavy for the ants.; The ants ate them in little bits instead.)
-  - Note: A strong answer uses the numbers: 'All 5 tiny crumbs went, 2 rice crumbs went, and no big pieces moved.' Different ants give different results, and that is fine. Now read the card on why small bodies are strong for their size.
+  - Note: A strong answer uses the numbers: 'All 5 tiny crumbs went, 2 rice crumbs went, and no big pieces moved.' Different ants give different results, and that is fine. Now read the card 'Small bodies are strong for their size'.
 ### e2 · Damp or Dry: where does an earthworm go? (if you can get earthworms) (20 min)
-- **question:** If an earthworm can choose, will they go to damp paper or dry paper?
+- **question:** If earthworms can choose, will they go to damp paper or dry paper?
 - **predict:** Guess first. Will the worms go to the damp side, the dry side, or stay in the middle? Why do you think so?
 - **fair test:** Both sides are the same paper and the same size. Both are covered, so both are equally dark. Only one thing is different: one side is damp. We use 3 or more worms, because one worm could go either way by chance.
 - **safety:** Wash your hands with soap after touching soil and worms. Handle the worms gently, with wet hands or a leaf, and put them back in the soil afterwards.
 - **record:** Draw the tray, the damp side and the dry side, and where each worm was after 10 minutes.
 - **results table:** Worm | Where at the start | Where after 10 minutes
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. Put two paper towels side by side on the tray. 2. Sprinkle water on one, until damp but not dripping. 3. Leave the other dry.  
+  *Parent does:* 1. Put two paper towels side by side on the tray. 2. Sprinkle water on one, until it is damp but not dripping. 3. Leave the other dry.  
   *Parent says:* One side is damp and one is dry. Everything else is the same.  
   *Child mode:* Make one side damp. Keep the other side dry.
   - Note: A grown-up should help collect and hold the worms. Wet your hands first, because dry hands can harm a worm's skin.
@@ -303,13 +303,13 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
   *Child mode:* Guess. Damp side or dry side? Why?
   - Ask: Why do you think so? (good: The damp side, because worms live in wet soil.; The dry side, because worms come out when it rains.)
 - **s3 (12 min)**  
-  *Parent does:* 1. Lay the worms gently across the middle line. 2. Cover the tray. 3. Wait 10 minutes. 4. Lift the cover and see where each worm is.  
+  *Parent does:* 1. Lay the worms gently along the middle, where the two paper towels meet. 2. Cover the tray. 3. Wait 10 minutes. 4. Lift the cover and see where each worm is.  
   *Parent says:* Let's cover them, so it is dark on both sides. In ten minutes we will look.  
   *Child mode:* Cover the tray. Wait ten minutes. Then look.
   - Note: Most worms usually move to the damp side. An earthworm breathes through the skin, and the skin must stay damp to do that. If the worms stay in the middle or go to the dry side, write that down too. Worms sometimes do not move much.
   - Check: Why do earthworms choose damp places? → **They breathe through their skin, and the skin must stay damp**
 - **s4 (2 min)**  
-  *Parent does:* Put the worms back on damp soil, in a pot or in the garden. Wash hands.  
+  *Parent does:* Put the worms back on damp soil, in a pot or in the garden. Wash your hands.  
   *Parent says:* Thank you, worms. Let's put them back in the soil, where they live.  
   *Child mode:* Put the worms back in the soil. Wash your hands.
 
@@ -351,6 +351,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
   - Ask: What is different? (good: The ant has six legs and the spider has eight.; The ant has three parts and the spider has two.; Only the ant has antennae.)
   - Check: On an insect, where do all six legs join the body? → **The middle part, the thorax**
 ### a3 · If I Were an Ant: draw a load my size (15 min)
+- **problem:** An ant can carry a crumb bigger than her own head. A person cannot carry a load as heavy as their own body. The reason is size. When a body gets bigger, its weight grows faster than the strength of its muscles. So a very small body is light for its muscles, and a big body is heavy for its muscles. In this activity you see how big the ant's load is, compared with a body your size.
 - **record:** A photo or a small drawing of your outline and your giant crumb.
 - **s1 (5 min)**  
   *Parent does:* 1. Tape the newspapers together on the floor. 2. Your child lies on them. 3. Draw round your child's body.  
@@ -431,9 +432,9 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
    **Answer:** ['head: the front part, with the eyes and mouth', 'thorax: the middle part, where the six legs join', 'abdomen: the back part, the biggest', 'antennae: the two feelers on the head']. *Why:* An insect's body has three parts. The legs join the middle part, the thorax, and the antennae are on the head.
 3. (sort) Sort these small creatures: six legs, or eight legs?  
    **Answer:** an ant → Six legs; a spider → Eight legs; a honeybee → Six legs; a scorpion → Eight legs; a butterfly → Six legs; a tick → Eight legs. *Why:* Ants, honeybees and butterflies are insects, with six legs. Spiders, scorpions and ticks belong to the spider group, with eight legs.
-4. (draw) Remember the crumb test. Draw the four sizes of crumb on the paper, and draw what the ants did with each size.  
+4. (draw) In the crumb test, you put biscuit crumbs of four sizes beside a line of ants. Draw the four sizes of crumb, and draw what the ants did with each size.  
    **Answer:** Four sizes of crumb. Ants carrying the tiny ones, a team pulling a rice-sized one, and many ants crowded on the big ones.. *Why:* A strong drawing shows the four sizes, and shows that the small crumbs were carried away and the big ones were not.
-5. (write) Say out loud, and a grown-up writes it down: an ant has six legs and a spider has eight. Say one more way a spider's body is different from an ant's.  
+5. (write) An ant has six legs and a spider has eight. Say one more way a spider's body is different from an ant's. (Say it out loud, or a grown-up can write it for you.)  
    **Answer:** A spider's body has two parts, not three, and a spider has no antennae.. *Why:* A strong answer says two body parts, or no antennae. It may also say that a spider has no wings.
 6. (truefalse) A butterfly drinks from a flower with a long, thin tongue, like a straw.  
    **Answer:** True. *Why:* True. A butterfly uncurls her long tongue and puts the tongue into the flower to drink.
@@ -441,8 +442,8 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
    **Answer:** False. *Why:* False. An earthworm has no legs. Tiny stiff bristles on each ring of the body grip the soil, and muscles squeeze and stretch the body.
 8. (match) Draw a line from each creature to the way they move.  
    **Answer:** Butterfly → flies with four big wings; Earthworm → squeezes and stretches, with no legs; Ant → walks on six legs; Snail → glides on one slimy foot. *Why:* A butterfly flies, an ant walks on six legs, an earthworm squeezes and stretches, and a snail glides on one foot.
-9. (perspective) Kavya, aged 7, lives in Kochi. A thin-legged spider has made a web in the corner of her bathroom.  
-   **Answer:** A strong answer picks one view and gives a reason. The mother is right that house spiders catch mosquitoes and flies. Kavya is right that her feelings matter. The aunt finds a way that helps both Kavya and the spider.. *Why:* Common house spiders are not dangerous and they catch insects. Moving a spider gently, or leaving her, both avoid harming her.
+9. (perspective) A girl of 7 lives in Kochi. A thin-legged spider has made a web in the corner of her bathroom.  
+   **Answer:** A strong answer picks one view and gives a reason. The mother is right that house spiders catch mosquitoes and flies. The girl is right that her feelings matter. The aunt finds a way that helps both the girl and the spider.. *Why:* Common house spiders are not dangerous and they catch insects. Moving a spider gently, or leaving her, both avoid harming her.
 10. (fill) Ants and honeybees live together in big families called ________.  
    **Answer:** colonies. *Why:* A colony is a big family who live together and share the work. In an ant colony, nearly all the ants are sisters.
 ### Looking Closer (stretch) (stretch, 10 questions)
@@ -464,19 +465,19 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
    **Answer:** ['front part: where the legs, eyes and mouth are', 'back part: the round part, where the silk comes out', 'legs: eight, all joined to the front part', 'eyes: on the top of the front part, often eight']. *Why:* A spider's body has two parts. All eight legs join the front part, and the silk comes out of the back part.
 8. (match) Match each small creature to one job they do.  
    **Answer:** Honeybee → carries pollen from flower to flower; Earthworm → turns dead leaves into rich soil; House spider → catches mosquitoes and flies; Ant → carries away fallen crumbs and dead insects. *Why:* Bees carry pollen while they collect food, worms eat dead leaves and soil, spiders catch insects, and ants clear up crumbs and dead insects.
-9. (write) Fatima, a girl in Hyderabad, says: 'Ants are the strongest animals in the world.' Is she right? Say what you think, and why. (Say it out loud, or a grown-up can write it for you.)  
-   **Answer:** She is partly right. For their size, ants are very strong: they carry crumbs bigger than their heads. But an elephant can lift a much heavier log than any ant. It depends on whether you compare the size of the load with the size of the animal.. *Why:* A strong answer says ants are strong for their size, but not the strongest in total, and explains the difference.
+9. (write) Someone says: 'Ants are the strongest animals in the world.' Is that right? Say what you think, and why. (Say it out loud, or a grown-up can write it for you.)  
+   **Answer:** This is partly right. For their size, ants are very strong: they carry crumbs bigger than their heads. But an elephant can lift a much heavier log than any ant. The answer depends on whether you compare the load with the size of the animal.. *Why:* A strong answer says ants are strong for their size, but not the strongest in total, and explains the difference.
 10. (fill) The two feelers on an insect's head are called ________.  
    **Answer:** antennae. *Why:* Antennae are the two feelers on an insect's head. Insects smell and touch with them.
 ### Small and Strong (challenge) (challenge, 10 questions)
-1. (perspective) Lakshmi lives in a flat in Mysuru. A line of ants walks from a crack in the kitchen wall to the sugar tin.  
-   **Answer:** A strong answer picks a view and gives a reason. The grandmother is right that food must stay clean. Lakshmi is right that the ants are doing their own work and mean no harm. The mother's way keeps food clean without killing ants, by removing what draws them.. *Why:* Ants come where they find food. Closing tins and wiping crumbs works well, and is kinder than spray. Some chalks sold for ants have poison in them, so they must be kept away from children.
-2. (write) Imagine an ant made as big as a dog. Would she still carry a crumb bigger than her own head? Say why. (Say it out loud, or a grown-up can write it for you.)  
+1. (perspective) A girl lives in a flat in Mysuru. A line of ants walks from a crack in the kitchen wall to the sugar tin.  
+   **Answer:** A strong answer picks a view and gives a reason. The grandmother is right that food must stay clean. The girl is right that the ants are doing their own work and mean no harm. The mother's way keeps food clean without killing ants, by removing what draws them.. *Why:* Ants come where they find food. Closing tins and wiping crumbs works well, and is kinder than spray. Some chalks sold for ants have poison in them, so they must be kept away from children.
+2. (write) Suppose an ant grew as big as a dog. Would she still carry a crumb bigger than her own head? Say why. (Say it out loud, or a grown-up can write it for you.)  
    **Answer:** No. When a body gets bigger, the weight grows much faster than the strength of the muscles. A dog-sized ant would be very heavy, and would have little strength left for a load.. *Why:* A strong answer says that weight grows faster than strength as a body gets bigger. It may use numbers: twice as big each way means about 4 times the strength but about 8 times the weight.
 3. (mcq) Which of these gives the best reason why a small ant can carry a big crumb?  
    Options: Ants eat a lot of sugar / A small body is very light for the strength of the muscles / Ants have more legs than people  
    **Answer:** A small body is very light for the strength of the muscles. *Why:* A small body weighs very little compared with how strong the muscles are, so there is strength left over for a load. Sugar and the number of legs do not explain it.
-4. (write) Ishaan, a boy in Class 2, did the crumb test with tiny red ants. His big crumbs stayed, but the ants ate them in little bits. His cousin Divya used big black ants, and one ant carried a rice crumb alone. Why were the results different? (Say it out loud, or a grown-up can write it for you.)  
+4. (write) One child did the crumb test with tiny red ants. The big crumbs stayed, but the ants ate them in little bits. Another child used big black ants, and one ant carried a rice-sized crumb alone. Why were the results different? (Say it out loud, or a grown-up can write it for you.)  
    **Answer:** The ants were different kinds and sizes. A big black ant is stronger than a tiny red ant, so she can carry a bigger crumb alone. The tiny ants worked as a team or ate the crumb bit by bit.. *Why:* A strong answer says different kinds of ants are different sizes and strengths, so a fair comparison must use the same kind of ant.
 5. (draw) Draw how an earthworm moves, in three pictures: long and thin, then short and fat, then long and thin again, further along.  
    **Answer:** Three drawings of a worm. In the second, the body is short and fat. In the third, the front end has moved further forward.. *Why:* A strong drawing shows the worm stretching forward, then bunching up and pulling the back along, so the whole worm moves forward.
@@ -504,7 +505,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 2. (mcq) Which of these is an insect?  
    Options: A honeybee / A spider / An earthworm  
    **Answer:** A honeybee. *Why:* A honeybee has six legs, three body parts and two antennae, so she is an insect. A spider has eight legs and an earthworm has none.
-3. (mcq) Meera, a girl in Pune, counts eight legs on a small creature in a corner. What is the creature?  
+3. (mcq) You count eight legs on a small creature in a corner. What is the creature?  
    Options: An insect / A spider, or one of the spider group / A worm  
    **Answer:** A spider, or one of the spider group. *Why:* Eight legs means the spider group. If you picked an insect, remember that insects have six legs.
 4. (mcq) How many parts does a spider's body have?  
@@ -513,16 +514,16 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 5. (mcq) How does an earthworm move without legs?  
    Options: The body squeezes and stretches, and tiny bristles grip the soil / The worm rolls like a ball / The worm jumps  
    **Answer:** The body squeezes and stretches, and tiny bristles grip the soil. *Why:* Muscles make the body long and thin, then short and fat. Tiny bristles on each ring hold on to the soil, so the worm moves forward.
-6. (mcq) Roshni, a girl in Kolkata, sees a butterfly standing on four legs. What is true?  
+6. (mcq) You see a butterfly standing on four legs. What is true?  
    Options: The butterfly has lost two legs / The butterfly has six legs, but keeps two folded up / Butterflies have four legs  
    **Answer:** The butterfly has six legs, but keeps two folded up. *Why:* Many butterflies keep their two small front legs folded up near the head. They still have six legs.
 7. (mcq) In the crumb test, what did the ants usually do with the biggest crumbs?  
    Options: Carried them away fast / Crowded on them and bit off small bits / Ran away from them  
    **Answer:** Crowded on them and bit off small bits. *Why:* The biggest crumbs were too big for one ant to carry, so many ants crowded on them and took small bits home. If you picked 'carried them away', look again at how many big crumbs were left.
-8. (mcq) Why did we put all the crumbs along one line, with the sizes mixed up?  
+8. (mcq) In the crumb test, why did we put all 20 crumbs along one line, with the sizes mixed up?  
    Options: So every size was the same distance from the ants / So the paper looked nice / So the ants could not find them  
    **Answer:** So every size was the same distance from the ants. *Why:* Mixing the sizes along one line makes the test fair. No size was closer to the ants than another.
-9. (mcq) Why can a small ant carry a load bigger than her head, when a person cannot carry a load bigger than the person?  
+9. (mcq) A small ant can carry a load bigger than her own head. A person cannot carry a load bigger than their own body. Why can the ant carry so much?  
    Options: A small body is very light for the strength of the muscles / Ants eat more food than people / Ants have stronger bones  
    **Answer:** A small body is very light for the strength of the muscles. *Why:* A small body weighs very little compared with the strength of the muscles. Ants have no bones inside at all. Their hard skin is on the outside.
 10. (mcq) What does a honeybee's dance tell her sisters?  
@@ -574,7 +575,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 - In the crumb test, 5 tiny crumbs went and 2 rice crumbs went. No chana crumbs or big pieces went. How many crumbs did the ants carry away in all? How many were left, out of 20? **7 crumbs went, and 13 were left.**. 5 and 2 make 7. There were 20 crumbs at the start. 20 take away 7 is 13. (queues `math.addition-subtraction.meaning.L2`)
 - A spider and an ant stand side by side. The spider has 8 legs and the ant has 6. How many more legs does the spider have? How many legs are there altogether? **The spider has 2 more legs. There are 14 legs altogether.**. Count up from 6 to 8: that is 2 more. 8 and 6 make 14. (queues `math.addition-subtraction.meaning.L2`)
 - On a mat there are some ants and some spiders. Altogether there are 20 legs. There is one spider. How many ants are there? **2 ants.**. One spider has 8 legs. 20 take away 8 is 12. Each ant has 6 legs, and 6 and 6 make 12. So there are 2 ants. (queues `math.multiplication.equal-groups.L2`)
-- In the Small Creature Diary, Kavya made these marks over five days. Ants: |||| |||| ||. Spiders: |||. Flies: ||||. Which creature did she see most often, and how many more times than spiders? **Ants, 12 times. That is 9 more times than spiders, who were seen 3 times.**. Count each group of tally marks: 5 and 5 and 2 make 12 ants. Spiders have 3 marks. 12 take away 3 is 9. (queues `math.data.sorting-and-tallies.L2`)
+- Here are the tally marks from a Small Creature Diary kept for five days. Ants: |||| |||| ||. Spiders: |||. Flies: ||||. Which creature was seen most often, and how many more times than spiders? **Ants, 12 times. That is 9 more times than spiders, who were seen 3 times.**. Count each group of tally marks: 5 and 5 and 2 make 12 ants. Spiders have 3 marks. 12 take away 3 is 9. (queues `math.data.sorting-and-tallies.L2`)
 
 ## Song
 Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2

@@ -231,7 +231,7 @@
     },
     {
      "who": "Scientists who draw family trees of animals",
-     "explanation": "A group should hold animals who are related to each other. Birds and crocodiles came from the same ancestors, so birds belong inside the reptile family. And 'fish' is really several groups."
+     "explanation": "A group should hold animals who are related to each other. Birds and crocodiles came from the same ancestors, so birds belong inside the reptile family. In the same way, the word 'fish' covers several different families, so it does not name one true group."
     }
    ],
    "art": "A simple family tree with branches ending in a shark, a sardine, a frog, a lizard, a crocodile, a bird and a cow."
@@ -1671,21 +1671,21 @@
     },
     {
      "t": "perspective",
-     "p": "After the Clue Test, two children, the first person and the second person, argue about the best clue.",
+     "p": "After the Clue Test, two children argue about the best clue.",
      "views": [
       {
-       "who": "The first person",
+       "who": "One child",
        "says": "The body covering is the best clue. It put almost every animal in the right group."
       },
       {
-       "who": "The second person",
+       "who": "Another child",
        "says": "Milk is the best clue. It put the pangolin and the dolphin with the mammals."
       }
      ],
      "ask": "Who do you agree with? Use what you found in the Clue Test. Then say one thing the other person has right. A grown-up can write down what you say.",
      "lines": 3,
      "how": "e2",
-     "a": "A strong answer uses the test results. Covering sorted most animals well, so the first person is partly right. But milk only tells you about mammals, and does nothing for a frog or a lizard. Using both clues together got every animal right.",
+     "a": "A strong answer uses the test results. Covering sorted most animals well, so the child who chose covering is partly right. But milk only tells you about mammals, and does nothing for a frog or a lizard. Using both clues together got every animal right.",
      "why": "Each clue does part of the job. Checking more than one clue works best."
     },
     {

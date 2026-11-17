@@ -230,7 +230,7 @@
    "for": "Most animals with fins that live in water are fish, like rohu, sardines and goldfish.",
    "against": "Dolphins and whales have fins, but they breathe air and feed their babies milk. The river dolphin of the Ganga and the Brahmaputra is a mammal.",
    "status": "rejected",
-   "context": "This card is about a mistake people made for a long time."
+   "context": "Fins help animals swim. This card is about whether having fins means an animal is a fish."
   },
   {
    "claim": "Wild animals live only in forests.",
@@ -246,7 +246,7 @@
    "for": "Bats have wings and fly, like birds.",
    "against": "Bats have fur, not feathers. Bat babies drink their mother's milk. So bats are mammals.",
    "status": "rejected",
-   "context": "This card is about a tricky animal."
+   "context": "A mammal is an animal with fur or hair, and the mother feeds her babies milk. This card is about whether a bat is a bird or a mammal."
   },
   {
    "claim": "Dogs became pets because people caught wolf pups and tamed them.",
@@ -1148,14 +1148,14 @@
      "id": "s4",
      "mins": 3,
      "do": "Compare the ant's legs with your child's legs and a crow's legs.",
-     "say": "You have two legs. A crow has two. The ant has six. Why might an ant need more legs?",
-     "kid": "You have 2 legs. The ant has 6. Why so many?",
+     "say": "You have two legs. A crow has two. The ant has six. How many more legs does the ant have than you?",
+     "kid": "You have 2 legs. The ant has 6. How many more?",
      "ask": [
       {
-       "q": "Why might six legs help an ant?",
+       "q": "How many more legs does the ant have than you?",
        "good": [
-        "To walk fast and not fall over.",
-        "To carry food and hold on to walls."
+        "Four more. The ant has six and I have two.",
+        "Six take away two is four."
        ]
       }
      ],
@@ -1457,7 +1457,7 @@
      "do": "Drip three drops of water on the feather and three on the paper. Watch.",
      "say": "Look at the drops. Which ones soak in? Which ones roll?",
      "kid": "Drip the water. Watch the drops.",
-     "parent": "On most feathers, the drops stay round and roll off. On the paper they soak in. Feathers hook together tightly, and birds spread oil on them from a spot near the tail. If the drops soak into the feather, the feather may be dirty, or may be a soft, fluffy one. Try a bigger, smooth feather, such as a pigeon's wing feather."
+     "parent": "On most feathers, the drops stay round and roll off. On the paper they soak in. Feathers hook together tightly, and birds spread oil on them from a spot near the tail. Wet feathers would be heavy and cold, so a bird whose feathers shed water stays light enough to fly and stays warm in the rain. If the drops soak into the feather, the feather may be dirty, or may be a soft, fluffy one. Try a bigger, smooth feather, such as a pigeon's wing feather."
     },
     {
      "id": "s3",
