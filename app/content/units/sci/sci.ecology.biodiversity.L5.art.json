@@ -1,0 +1,90 @@
+{
+ "expl.10": {
+  "src": "media/img/sci.ecology.biodiversity.L5/expl.10.jpg",
+  "drawn": true
+ },
+ "expl.7": {
+  "src": "media/img/sci.ecology.biodiversity.L5/expl.7.jpg",
+  "drawn": true
+ },
+ "expl.8": {
+  "src": "media/img/sci.ecology.biodiversity.L5/expl.8.jpg",
+  "drawn": true
+ },
+ "intro": {
+  "src": "media/img/sci.ecology.biodiversity.L5/intro.jpg",
+  "credit": "rajesh rocky, CC BY, via iNaturalist"
+ },
+ "setup.e1.0": {
+  "src": "media/img/sci.ecology.biodiversity.L5/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.ecology.biodiversity.L5/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.ecology.biodiversity.L5/setup.e1.2.jpg",
+  "drawn": true
+ },
+ "setup.e2.0": {
+  "src": "media/img/sci.ecology.biodiversity.L5/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.ecology.biodiversity.L5/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.ecology.biodiversity.L5/setup.e2.2.jpg",
+  "drawn": true
+ },
+ "setup.e3.0": {
+  "src": "media/img/sci.ecology.biodiversity.L5/setup.e3.0.jpg",
+  "drawn": true
+ },
+ "setup.e3.1": {
+  "src": "media/img/sci.ecology.biodiversity.L5/setup.e3.1.jpg",
+  "drawn": true
+ },
+ "setup.e3.2": {
+  "src": "media/img/sci.ecology.biodiversity.L5/setup.e3.2.jpg",
+  "drawn": true
+ },
+ "setup.g1.0": {
+  "src": "media/img/sci.ecology.biodiversity.L5/setup.g1.0.jpg",
+  "drawn": true
+ },
+ "setup.g1.1": {
+  "src": "media/img/sci.ecology.biodiversity.L5/setup.g1.1.jpg",
+  "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.ecology.biodiversity.L5/summary.jpg",
+  "drawn": true
+ },
+ "term.0": {
+  "src": "media/img/sci.ecology.biodiversity.L5/term.0.jpg",
+  "credit": "avocat, CC BY, via iNaturalist"
+ },
+ "term.10": {
+  "src": "media/img/sci.ecology.biodiversity.L5/term.10.jpg",
+  "drawn": true
+ },
+ "term.15": {
+  "src": "media/img/sci.ecology.biodiversity.L5/term.15.jpg",
+  "drawn": true
+ },
+ "term.16": {
+  "src": "media/img/sci.ecology.biodiversity.L5/term.16.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.ecology.biodiversity.L5/term.2.jpg",
+  "credit": "Ramesh Shenai, CC BY, via iNaturalist"
+ },
+ "term.6": {
+  "src": "media/img/sci.ecology.biodiversity.L5/term.6.jpg",
+  "credit": "Pål A. Olsvik, CC BY, via iNaturalist"
+ }
+}
