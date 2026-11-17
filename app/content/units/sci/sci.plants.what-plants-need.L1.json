@@ -77,11 +77,11 @@
   {
    "concept": "A sprout makes their green in the light",
    "status": "debated",
-   "description": "The green in a leaf is made by the plant. Methi makes their green only when they sense light. In the dark a sprout stays yellow and stretches tall. Put the sprout in the light, and within a day they turn green. Scientists agree that light sets this off. They argue about how to describe what the plant does.",
+   "description": "The green in a leaf is made by the plant. Methi makes their green only when they sense light. In the dark a sprout stays yellow and stretches tall. Put the sprout in the light, and within a day they turn green. Scientists agree that light sets this off. They disagree about how to describe it. Some say the sprout senses the light and chooses to turn green. Others say the light starts a chemical change that happens the same way every time.",
    "examples": [
     "Yellow methi sprouts from under the bowl turn green within a day on the windowsill.",
     "Moong sprouts sold in a closed packet are white and yellow, and turn green if left in the light.",
-    "Farmers tie leaves over a cauliflower so the white part stays white."
+    "Farmers tie the leaves over a cauliflower to keep the light out. The part inside stays white, in the same way that methi under a bowl stays yellow."
    ],
    "perspectives": [
     {
@@ -139,7 +139,7 @@
  ],
  "big_questions": [
   {
-   "q": "The yellow methi sprouts turned green in the light. Who made the green?",
+   "q": "The yellow methi sprouts turned green in the light. What made the green appear?",
    "kind": "deep",
    "hint": "Nobody painted the sprouts. Think about what changed, and what stayed the same."
   },
@@ -190,7 +190,7 @@
   "ask": [
    "Why were the sprouts under the bucket yellow?",
    "The soil under the bucket was still damp. Why does that matter?",
-   "What do you think Kannan's sprout felt under his hand?"
+   "When Kannan covered a sprout with his hand, what did the sprout sense?"
   ],
   "art": [
    "A girl sprinkling water with her fingers over a steel tray of soil on a balcony, with her little brother holding a red bucket.",
@@ -321,9 +321,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "At the end, look at the cards on the green label together. Ask your child what they have in common.",
-     "say": "Look at all the cards on the green label. What do they have in common?",
-     "kid": "Look at the green label. What does methi need?",
+     "do": "At the end, look at the cards on the green label together. Ask your child to name the three things they show: water, light and air.",
+     "say": "Look at all the cards on the green label. They show three things that methi needs. Can you name them?",
+     "kid": "Look at the green label. Name the three things methi needs.",
      "check": {
       "t": "mcq",
       "q": "Which one does a plant need?",
@@ -668,7 +668,7 @@
      "mins": 5,
      "wait": "Come back on day 6.",
      "do": "1. Look at plate 3 again, after a day in the light. 2. Put it next to your drawing from yesterday.",
-     "say": "Yesterday these sprouts were yellow. Look at them now. What happened? Who made the change?",
+     "say": "Yesterday these sprouts were yellow. Look at them now. What changed, and why do you think it changed?",
      "kid": "Look at plate 3 again. Are the sprouts still yellow? What changed?",
      "ask": [
       {
@@ -1444,7 +1444,7 @@
   },
   {
    "t": "mcq",
-   "p": "Who made the green in the methi leaves?",
+   "p": "What made the green colour in the methi leaves?",
    "opts": [
     "The water",
     "The methi plant",
@@ -1491,7 +1491,7 @@
   },
   {
    "t": "mcq",
-   "p": "In Three Plates of Methi, what does a good scientist do before lifting the bowl?",
+   "p": "In Three Plates of Methi, what did a good scientist do before lifting the bowl?",
    "opts": [
     "Guessed what would happen, and said why",
     "Threw the seeds away",
@@ -1775,7 +1775,7 @@
    {
     "source": "Rig Veda 1.115.1",
     "teaching": "The Sun is the self of all that moves and all that stays still.",
-    "link": "Plants stay in one place, yet they grow, turn green and make food with the Sun's light. Humans and other animals, who move, eat what plants make."
+    "link": "The teaching says the Sun is the self of everything that moves, like animals, and everything that stays still, like plants. Plants stay in one place, yet they use the Sun's light to grow and make food. Humans and other animals, who move, eat what plants make."
    },
    {
     "source": "Thirukkural 16, by Thiruvalluvar",
@@ -1804,15 +1804,15 @@
    "kid": "Sit by a bright window. Do not look at the Sun. Close your eyes. What colour do you see? Cover your eyes with your hands. Now take them away. Feel the light come back."
   },
   "ask": [
-   "When the methi turned green, who decided: the methi, or the light?",
+   "When the methi turned green, the light started it, but the methi made the green. How would you explain what each one did?",
    "Your skin darkens in the sun, and methi turns green. How are they alike? How are they different?",
-   "If you lived under a bowl for four days, what would you miss most?"
+   "Methi can live for four days under a bowl, with no light. What kept the sprouts alive all that time?"
   ],
   "art": "A child sitting by a sunny window with eyes closed and face lit up, next to a plate of green methi sprouts in the same sunlight."
  },
  "how_we_found_out": {
   "context": "Do plants need light to do their work? This card tells the true story of how people found out.",
-  "story": "In 1771, Joseph Priestley, an English scientist, put a sprig of mint in a closed glass jar. A candle had burned out in that jar, and the air inside was used up. After some days, a candle could burn in the jar again. The mint had freshened the air. But when other people tried this, sometimes it worked and sometimes it did not. Nobody knew why. In the summer of 1779, Jan Ingenhousz, a Dutch doctor working in England, did more than 500 tests. He put leaves under water in glass jars. In sunlight, tiny bubbles came out of the green leaves. In the shade and at night, no bubbles came. He found that plants freshen the air only in light, and only with their green parts. In the dark, plants use up air, just as humans and other animals do. Today we know the bubbles were oxygen, which green leaves give out while they make food using light.",
+  "story": "In 1771, Joseph Priestley, an English scientist, put a sprig of mint in a closed glass jar. A candle had burned out in that jar. The air inside was used up, so no flame could burn there. After some days, a candle could burn in the jar again. The mint had freshened the air. But when other people tried this, sometimes it worked and sometimes it did not. Nobody knew why. In the summer of 1779, Jan Ingenhousz, a Dutch doctor working in England, did more than 500 tests. He put leaves under water in glass jars. In sunlight, tiny bubbles came out of the green leaves. In the shade and at night, no bubbles came. He found that plants freshen the air only in light, and only with their green parts. In the dark, plants use up air, just as humans and other animals do. Today we know the bubbles were oxygen, which green leaves give out while they make food using light.",
   "who": "Joseph Priestley, an English scientist (1771); Jan Ingenhousz, a Dutch doctor working in England (1779)",
   "when": "Priestley's mint jar in 1771; Ingenhousz's tests in the summer of 1779, published the same year",
   "wrong_idea": "That plants freshen the air all the time, in the light and in the dark. Ingenhousz showed that green leaves do it only in light, and that in the dark plants use up air like humans and other animals.",

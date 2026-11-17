@@ -78,7 +78,7 @@
    "concept": "When you smell a thing, a little of it is in your nose",
    "status": "defined",
    "definition": "A smell is tiny bits of a thing, floating in the air. They are far too small to see. When they reach your nose, you smell the thing.",
-   "description": "When you peel an orange, tiny drops of oil spray out of the peel. Tiny bits of that oil float through the air. Some go into your nose when you breathe in. Inside your nose are smell catchers. They catch the bits and send a message to your brain: orange! The closer you are, the more bits reach you. A fan or a breeze carries the bits further.",
+   "description": "When you peel an orange, tiny drops of oil spray out of the peel. Tiny bits of that oil float through the air. Some go into your nose when you breathe in. Inside your nose are tiny smell catchers, called receptors. They catch the bits and send a message to your brain: orange! The closer you are, the more bits reach you. A fan or a breeze carries the bits further.",
    "examples": [
     "In the Smell Steps test, you smelled the peeled orange a few steps away, with your eyes shut.",
     "Jasmine in someone's hair can be smelled before they come into the room.",
@@ -140,7 +140,7 @@
    "for": "The map came from a German study in 1901, and was copied again and again.",
    "against": "Every part of your tongue that has taste buds can taste sweet, sour, salty and bitter. Put a little sugar on the side of your tongue, and you taste sweet there too.",
    "status": "rejected",
-   "context": "This card is about a common mistake: the tongue map."
+   "context": "The tongue map is a drawing that shows sweet only at the tip of the tongue and bitter only at the back. Many school books printed it. This card asks if it is true."
   },
   {
    "claim": "We have only five senses.",
@@ -153,7 +153,7 @@
  ],
  "big_questions": [
   {
-   "q": "In the Smell Steps test, you smelled the orange from a few steps away. Is the smell in the orange, or in you?",
+   "q": "In the Smell Steps test, you smelled the orange from a few steps away. Was the smell in the orange, or did it happen when it reached your nose?",
    "kind": "deep",
    "hint": "Tiny bits floated from the orange to you. The smell happened when they reached your nose. Can there be a smell with no nose?"
   },
@@ -168,9 +168,9 @@
    "hint": "Think about what a dog does on a walk, and how long the dog sniffs one spot."
   },
   {
-   "q": "If you could have one new sense, what would you want to find out about the world?",
+   "q": "Some snakes sense the warmth of a mouse in the dark. Why would that sense help a snake?",
    "kind": "big",
-   "hint": "Some snakes sense the warmth of a mouse in the dark. Many birds find their way home across the sea. What would you choose?"
+   "hint": "Think about when snakes hunt. What does a mouse give off that a snake can sense without any light?"
   }
  ],
  "story": {
@@ -186,7 +186,7 @@
    "Ammu looked up. 'How do you know? Fatima Aunty lives on the ground floor. You can't see her kitchen from here.'",
    "'My nose told me,' said Ammamma. 'Come and smell.'",
    "Ammu sniffed. She smelled nothing. She came to the window and sniffed again. And there it was: warm oil and banana, floating up from below.",
-   "Then a pressure cooker whistled next door, once, twice, three times. 'Lakshmi's dal is ready,' said Ammamma. Far away, a woman called out, 'Meen! Meen!' 'And the fish seller is at the gate,' said Ammamma. 'Today she has sardines. I can hear her calling, and I know her sardine basket.'",
+   "Then a pressure cooker whistled next door, once, twice, three times. 'Lakshmi's dal is ready,' said Ammamma. Far away, a woman called out, 'Meen! Meen!' 'And the fish seller is at the gate,' said Ammamma. 'I can hear her calling. I can smell her sardines too.'",
    "Ammu laughed. 'Ammamma, you know everything that happens in this building, and you don't even look!'",
    "'My ears and my nose look for me,' said Ammamma.",
    "Ammu thought about the chips. 'But how did the smell come all the way up here? Fatima Aunty did not bring it.'",
@@ -1008,7 +1008,7 @@
        ]
       }
      ],
-     "parent": "Steel often feels colder than cloth, though both are in the same room. Your child may notice this. You do not need to explain it now."
+     "parent": "Steel often feels colder than cloth, though both are in the same room. Steel takes warmth from your hand faster, so your skin feels cold. You can say this if your child notices."
     },
     {
      "id": "s2",
@@ -1829,7 +1829,7 @@
   "Close your eyes. How many sounds can you hear?",
   "What does the floor feel like under your feet?",
   "If you were an ant, how would you find the sugar?",
-  "Which sense would you miss most? Why?"
+  "Which sense would help you most if the lights went out? Why?"
  ],
  "jokes": [
   {
@@ -2018,7 +2018,7 @@
   "context": "We have tested our five senses, and found which ones reach far and which need touching. Now we ask what the Smell Steps test tells us about us and the world.",
   "deep_truth": {
    "truth": "In the Smell Steps test, with your eyes shut, you smelled the orange a few steps away, before you touched it. Tiny bits of the peel had floated through the air into your nose. Your tongue could taste the orange only by touching it. So when you smell something, a little of that thing has already reached you.",
-   "habit": "We think of smelling like looking: the thing stays over there, and we notice it from here. But the Smell Steps test shows that bits of the orange travel and come into us. Smelling happens where the orange and your body meet.",
+   "habit": "We think of smelling like looking: the thing stays over there, and we notice it from here. But the Smell Steps test shows that bits of the orange travel and come into us. Smelling happens when bits of the orange reach your body.",
    "evidence": "In the Smell Steps test, with eyes shut, the child smelled nothing at the empty plate, then smelled the peeled orange before reaching the plate. Taste came only when the orange touched the tongue."
   },
   "three": {
@@ -2036,7 +2036,7 @@
    {
     "source": "Kabir, a doha often quoted as 'Kasturi kundal basai'",
     "teaching": "The musk deer smells the sweet smell of musk and runs through the forest looking for it. But the musk is in the deer's own body.",
-    "link": "The deer follows a smell. A real smell is also tiny bits of a thing carried by the air, as you found with the orange in the Smell Steps test."
+    "link": "The deer thinks the smell is far away, but it comes from his own body. In the Smell Steps test, you also found that a smell is tiny bits of a thing, carried through the air to your nose."
    },
    {
     "source": "Buddhist teaching of the six sense bases (Salayatana Samyutta, Samyutta Nikaya 35)",
@@ -2067,7 +2067,7 @@
   "ask": [
    "When you smell the ground after rain, is a little of the ground inside your nose?",
    "If you smell jasmine in a friend's hair, what has travelled from her hair to you?",
-   "What would the world be like if you could smell as well as a dog?"
+   "A dog can follow the path where a person walked. What is the dog smelling on the ground?"
   ],
   "art": "A girl with her eyes closed, holding a curry leaf near her nose, with tiny faint dots drifting from the leaf towards her as she breathes in."
  },

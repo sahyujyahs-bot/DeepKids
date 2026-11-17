@@ -138,9 +138,9 @@
  ],
  "big_questions": [
   {
-   "q": "In Peek Under the Soil, nothing showed above the soil for days, but the seed was busy growing a root. What else might be busy where we cannot see?",
+   "q": "In Peek Under the Soil, nothing showed above the soil for days, but the seed was busy growing a root. Can you name something else that is busy where we cannot see?",
    "kind": "big",
-   "hint": "Think about your own body, the ground under a building, and the sky at night."
+   "hint": "Think about your own body, with your heart beating inside you. Think about ants under the ground."
   },
   {
    "q": "How does a root know which way is down, in the dark under the soil?",
@@ -155,7 +155,7 @@
   {
    "q": "Every tree you know started as one small seed. Where did all the wood come from?",
    "kind": "big",
-   "hint": "The seed was tiny. Think about what the plant took in, every day, for years."
+   "hint": "The seed was tiny. A tree takes in air through the leaves and water through the roots, every day, for years."
   }
  ],
  "story": {
@@ -679,7 +679,7 @@
      "id": "s8",
      "mins": 5,
      "do": "1. On day 5, dig up seed 4. 2. Look at the top of the soil by stick 5. 3. Put all four drawings in a row, from seed 1 to seed 4.",
-     "say": "Seed 5 is coming up now. But was the seed doing nothing before today? What did you find out?",
+     "say": "Look at the top of the soil by stick 5. Nothing may show yet. But was seed 5 doing nothing? Look at your drawings. What did you find out?",
      "kid": "Look at all your drawings. What came out first? What came next?",
      "ask": [
       {
@@ -1163,7 +1163,7 @@
      "do": "Look for curled shoots coming up. Draw the cup.",
      "say": "Look! What is coming up? Why do you think the shoot is curled over?",
      "kid": "Look for a curled shoot. Draw what you see.",
-     "parent": "Pumpkin and melon seeds usually come up in 4 to 8 days in warm weather. Tomato seeds can take up to 2 weeks. In a cold room, they take longer.",
+     "parent": "The shoot is curled like a bent finger, so the soil does not scrape the soft tip. Pumpkin and melon seeds usually come up in 4 to 8 days in warm weather. Tomato seeds can take up to 2 weeks. In a cold room, they take longer.",
      "wait": "Come back on day 9."
     },
     {
@@ -1972,7 +1972,7 @@
    "what_is_life": "A living seed senses water and which way is down, and chooses where to grow, even in the dark.",
    "what_is_this_world": "Under every pot, field and forest, roots are growing where we cannot see. Much of the world's living happens out of sight."
   },
-  "thread": "A seed starts in the dark. The root senses which way is down and grows towards water. The shoot grows up towards the light. So one tiny seed becomes two parts going two ways, down into the soil and up into the air.",
+  "thread": "A seed starts in the dark. The root senses which way is down and grows towards water. The shoot grows up towards the light. So from one tiny seed, a root grows down into the soil and a shoot grows up into the air.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.12",
@@ -1982,7 +1982,7 @@
    {
     "source": "Tao Te Ching 64",
     "teaching": "A tree as wide as your arms can reach grows from a tiny shoot. A journey of a thousand miles begins with one step.",
-    "link": "Every big tree began as one small seed growing one small root. The start is small and slow, and it is still the start."
+    "link": "Every big tree began as one small seed growing one small root. The teaching says that every big thing begins with something very small. A big tree is a small seed that kept growing."
    }
   ],
   "science": [

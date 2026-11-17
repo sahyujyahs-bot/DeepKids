@@ -82,7 +82,7 @@
    "examples": [
     "Thiruvathirai, also called Ardra, is a bright reddish orange star in the winter evening sky.",
     "Sirius, the brightest star at night, looks bluish white and often twinkles in many colours when low.",
-    "A gas flame is blue where it is hottest, and a dying coal glows red."
+    "A gas flame is blue where it is hottest. A dying coal glows red because it is cooler. Stars are the same: their colour shows how hot they are."
    ],
    "perspectives": [],
    "context": "This card says what stars are, and why they have colours.",
@@ -92,7 +92,7 @@
    "concept": "Stars twinkle, and planets usually shine steadily",
    "status": "defined",
    "definition": "Starlight flickers because the moving air above us bends it this way and that. Planets usually shine more steadily.",
-   "description": "Starlight passes through a thick blanket of moving air before it reaches us, and the air wobbles it. A star is so far away that its light is one tiny point, so the wobble makes it flicker. A planet looks like a tiny round patch, not a single point. The wobbles in different parts of the patch mostly cancel out, so the planet shines steadily. Planets also wander slowly among the stars from week to week.",
+   "description": "Starlight passes through a thick blanket of moving air before it reaches us, and the air wobbles it. A star is so far away that its light is one tiny point, so the wobble makes it flicker. A planet looks like a tiny round patch, not a single point. Each part of the patch wobbles a different way, so the wobbles mostly cancel out and the planet shines steadily. Planets also wander slowly among the stars from week to week.",
    "examples": [
     "Stars low down near the rooftops twinkle more, because their light passes through more air.",
     "Jupiter usually shines steadily, like a calm lamp.",
@@ -150,14 +150,14 @@
    "hint": "Walk a few steps and watch which light slides more against the sky."
   },
   {
-   "q": "In the hot tawa test, the light never changed, but it looked as if it did. When a star twinkles, is the star changing, or is it the air, or is it you?",
+   "q": "In the hot tawa test, the light stayed the same, but it looked as if it shivered. When a star twinkles, what is really shivering: the star, the air, or your eyes?",
    "kind": "deep",
    "hint": "In the hot tawa test, think about what changed when the stove was switched off."
   },
   {
-   "q": "A dung beetle, some birds and people all use the night sky to find their way. What do you think the sky looks like to them?",
+   "q": "A dung beetle rolls a ball straight at night by watching the sky. What happens to the beetle's line when the sky is hidden?",
    "kind": "big",
-   "hint": "Each animal has different eyes. A beetle may see the glow of the Milky Way as one bright stripe."
+   "hint": "Think about what happened when you rolled the paper ball with your eyes shut."
   },
   {
    "q": "A planet moves slowly among the stars from week to week. How could you check that a bright dot is a planet, with no gadget?",
@@ -223,7 +223,7 @@
    "mins": 22,
    "days": 1,
    "context": "In this experiment you walk past a window and watch the Moon. You find out if the Moon really comes along with you.",
-   "question": "When you walk, do near things and the faraway Moon seem to move in the same way?",
+   "question": "At night, the Moon seems to follow a bus. When you walk, do near things and the faraway Moon seem to move in the same way?",
    "predict": "When you walk past the window, will the Moon slide away like the paper strips, or stay with you? Why do you think so?",
    "fair_test": "We walk the same path each time, between two slippers. We keep our head at the same height, and close the same eye, so only our steps change what we see.",
    "results_table": [
@@ -378,7 +378,7 @@
    "mins": 14,
    "days": 1,
    "context": "In this experiment you look at a small light through the warm air above a hot dosa tawa. You find out what makes a star twinkle. It needs the stove, so do it when a grown-up can use the kitchen.",
-   "question": "Does a small, steady light shiver when we look at it through moving warm air?",
+   "question": "Stars twinkle. The air high above us is always moving, and starlight passes through it. Does a small steady light shiver when we look at it through moving warm air?",
    "predict": "We will look at a small light across a hot tawa. Will the light stay steady, or will it shiver? Why do you think so?",
    "fair_test": "We look at the same small light, from the same place, with our eyes at the height of the tawa. We look once with the tawa cold and once with it hot, so only the air above it changes.",
    "results_table": [
@@ -669,7 +669,7 @@
      "id": "s4",
      "mins": 2,
      "do": "Talk about what happened, and about the real beetles.",
-     "say": "Which time did you go straight? In 2013, the scientist Marie Dacke and her team tested this with dung beetles. When the beetles could see the starry sky, they rolled straight. When the sky was hidden, they wandered.",
+     "say": "Which time did you go straight? Without something to look at, we curve away from a straight line. In 2013, the scientist Marie Dacke and her team tested this with dung beetles. When the beetles could see the starry sky, they rolled straight. When the sky was hidden, they wandered.",
      "kid": "Eyes open, you went straight. Eyes shut, you wandered. Beetles need the sky too."
     }
    ]
@@ -745,7 +745,7 @@
       },
       {
        "f": "A very bright, steady dot high up at midnight",
-       "b": "PLANET paper. Maybe Jupiter, Saturn or Mars. Venus is never up at midnight."
+       "b": "PLANET paper. It may be Jupiter, Saturn or Mars. Venus is never up at midnight, because Venus stays close to the Sun in our sky."
       },
       {
        "f": "A red light on top of a tall tower that blinks but never moves",
@@ -883,7 +883,7 @@
      "id": "s2",
      "mins": 6,
      "do": "Play. Call the cards in any order, faster and faster.",
-     "say": "Planet! Moon! Star! Hot air! Who shivers the most?",
+     "say": "Planet! Moon! Star! Hot air! Which shivers more in moving air, a star or a planet?",
      "kid": "Listen for the call. Do the move fast!",
      "parent": "At HOT AIR, ask: why do stars shiver more than planets? A star's light comes from one tiny point, so moving air shakes it more. At MOON, walk round the Moon player. The Moon player stands still, as the real Moon seems to stay put when we move."
     },
@@ -1569,7 +1569,7 @@
   "Which is the brightest dot in the sky tonight? Does it twinkle?",
   "Which bright dot do you think is a planet? Why?",
   "Who else might be looking at the same Moon right now?",
-  "If you stood on the Moon, what would you see in the sky?"
+  "Which is nearer to you, the lamp post outside or the Moon? How can you tell?"
  ],
  "jokes": [
   {
@@ -1785,7 +1785,7 @@
    "what_is_life": "Many living beings use the night sky. A dung beetle rolls straight by the Milky Way, birds fly by the stars at night, and you find the Moon from your window.",
    "what_is_this_world": "The world is much bigger than it looks. The Moon seems to sit just above the rooftops, but it is much farther than any building or hill."
   },
-  "thread": "There is one Moon. Tonight it shines in the window of every home that faces it, from Kochi to Kohima. Each child sees it from their own place, and each thinks it came along with them. Everything is aware in its own way, the Moon too. Many scientists disagree: they say only living beings with nerves are aware.",
+  "thread": "There is one Moon. Tonight it shines in the window of every home that faces it, from Kochi to Kohima. Each child sees it from their own place, and each thinks it came along with them. Everything is aware in its own way, even the Moon. Many scientists disagree. They say only living beings with nerves are aware.",
   "teachings": [
    {
     "source": "Brahmabindu Upanishad 12",
@@ -1819,8 +1819,8 @@
    "kid": "Find the Moon. Breathe in and out slowly, five times. Think of someone far away. They may see this Moon too."
   },
   "ask": [
-   "The Moon seemed to come along with you, and with someone far away, at the same time. Whose Moon is it?",
-   "The Moon's light started at the Sun. When you see the Moon, are you also seeing the Sun?",
+   "The same Moon seemed to come along with you, and with someone far away, at the same time. How can that be?",
+   "The Moon's light started at the Sun. When you see the Moon, what are you really seeing?",
    "If nobody in the whole world looked at the Moon tonight, would it still be shining?"
   ],
   "art": "Many windows of different homes across India, from a Kerala house to a hill town flat, each with a child looking up at the same Moon in one sky."
