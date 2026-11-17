@@ -120,7 +120,7 @@
    "concept": "Why a spinning top stays up",
    "status": "defined",
    "definition": "A spinning top keeps its axis pointing the same way. When gravity tries to tip it, the lean slowly circles round instead of falling. This slow circling is called precession.",
-   "description": "Every bit of a spinning top is racing round in a circle. To tip the top over, gravity would have to change the direction all those bits are moving. A fast top resists that change. So when the top leans, it does not fall. Instead its handle slowly moves round in a circle. You can see this when a top leans: its head draws slow circles in the air. The faster the top spins, the better it stays up. A spinning cycle wheel held by its axle does the same thing.",
+   "description": "Every bit of a spinning top is racing round in a circle. To tip the top over, gravity would have to change the direction all those bits are moving. A fast top resists that change. So when the top leans, it does not fall. Instead its handle slowly moves round in a circle. You can see this when a top leans: its head draws slow circles in the air. The faster the top spins, the better it stays up. A spinning cycle wheel held by its axle does the same thing. In 1888, the Russian mathematician Sofia Kovalevskaya worked out the maths of one hard kind of spinning top, and won a big prize for it.",
    "examples": [
     "A leaning bambaram circles slowly round instead of falling.",
     "A coin spun on its edge stands up while it spins, and falls when it stops.",
@@ -2782,7 +2782,8 @@
    "Kooijman, Meijaard, Papadopoulos, Ruina and Schwab, 'A bicycle can be self-stable without gyroscopic or caster effects', Science 332, 2011.",
    "Hugh Hunt, University of Cambridge, Spinning tops (www3.eng.cam.ac.uk/~hemh/gyroscopes/spinningtop.htm).",
    "Berg, H. C., 'The rotary motor of bacterial flagella', Annual Review of Biochemistry, 2003.",
-   "Precession of the Earth's axis, about 26,000 years: any astronomy textbook; first noticed by Hipparchus, about 130 BCE."
+   "Precession of the Earth's axis, about 26,000 years: any astronomy textbook; first noticed by Hipparchus, about 130 BCE.",
+   "Sofya Kovalevskaya, 'Sur le problème de la rotation d'un corps solide autour d'un point fixe', Acta Mathematica, 1889, the work that won the Prix Bordin of the Paris Academy of Sciences in 1888."
   ]
  },
  "roots": {

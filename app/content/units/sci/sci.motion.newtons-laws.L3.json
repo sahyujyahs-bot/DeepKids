@@ -217,7 +217,7 @@
    "concept": "Newton's three laws of motion",
    "status": "defined",
    "definition": "Newton wrote three laws of motion in his book Principia in 1687. The first is inertia. The second says a bigger force changes motion more, and more mass needs more force. The third says forces come in pairs: when you push something, it pushes back on you just as hard.",
-   "description": "This unit is mostly about the first law, because the other two build on it. You can feel the second law when you push an empty trolley and a full one with the same push: the empty one speeds up much more. You can feel the third law when you push a wall: the wall pushes you back. Newton built on the work of many others, including Galileo Galilei in Italy and Pierre Gassendi and René Descartes in France.",
+   "description": "This unit is mostly about the first law, because the other two build on it. You can feel the second law when you push an empty trolley and a full one with the same push: the empty one speeds up much more. You can feel the third law when you push a wall: the wall pushes you back. Newton built on the work of many others, including Galileo Galilei in Italy and Pierre Gassendi and René Descartes in France. In 1749, the French scientist Emilie du Chatelet finished translating the Principia into French, with her own notes, so that many more people could read it.",
    "examples": [
     "First law: a coin stays still when a card is flicked from under it.",
     "Second law: the same push speeds up an empty trolley more than a full one.",
@@ -3041,7 +3041,8 @@
    "Galileo, Dialogue Concerning the Two Chief World Systems, 1632 (the stone dropped from a ship's mast)",
    "Gassendi, De motu impresso a motore translato, 1642 (the 1640 galley experiment off Marseille)",
    "Mach, The Science of Mechanics, 1883 (Mach's idea about the origin of inertia)",
-   "NASA Voyager mission pages (Voyager 1 launched 1977, speed about 17 km per second)"
+   "NASA Voyager mission pages (Voyager 1 launched 1977, speed about 17 km per second)",
+   "Emilie du Chatelet, her French translation and commentary on Newton's Principia, finished 1749 and printed in 1756 and 1759."
   ]
  },
  "roots": {
