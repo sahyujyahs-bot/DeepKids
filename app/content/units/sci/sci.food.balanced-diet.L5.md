@@ -174,7 +174,7 @@ A drumstick leaf makes carotene, which helps the leaf catch sunlight and protect
 - Practice, Watching the room come back (3 min): Switch off the light at night and sit still. At first the room is black. Breathe slowly and keep your eyes open. Notice the first thing that appears, and then the next. Your eyes are rebuilding their light-catching substance now. Think of the last orange or green food you ate. Some of that food is at work in your eyes.
 - Ask: In the Dark Room Test, your eyes rebuilt their light-catching substance from vitamin A. That vitamin A began in a plant. Is the substance yours or the plant's?
 - Ask: A goat makes her own vitamin C, and you must get yours from fruit and leaves. What does your body gain or lose by depending on plants?
-- Ask: Two grains of salt hold about a day's iodine. If so little can change how your whole body works, what else might be doing large jobs unseen?
+- Ask: A whole day's iodine weighs about as much as two grains of salt. If so little can change how your whole body works, what else might be doing large jobs unseen?
 
 ## Deep and big questions
 - *deep:* The vitamin A in your eye began as carotene in a plant. Is the substance that catches dim light yours, or the plant's? (hint: Your gut wall split the carotene and your eye built the substance. The plant made the starting material.)
@@ -775,7 +775,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
 - Which costs more for the same weight: roasted chana or chips? Which nourishes you more?
 
 ## Jokes
-- Why did the two grains of salt feel important? *They were carrying the whole day's iodine.*
+- Why did the two grains of salt feel important? *Together they weigh about as much as a whole day's iodine.*
 - Why did the rice ask the dal to dinner? *It was short of lysine and good company.*
 - What did the carrot say to the eye? *See you at dusk.*
 - Why did the cabbage refuse a long bath? *They did not want to lose their vitamin C.*

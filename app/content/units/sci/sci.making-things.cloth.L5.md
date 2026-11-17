@@ -728,7 +728,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 
 ## Videos
 - **Baya Weaver Male Weaves a Nest 4K** (Thailand Wild, 4 min) id `4FVjotOabSU`: To watch a bird knot and weave grass with beak and feet, which few city children can see for themselves. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
-- **How a Handloom Turns Thread Into Cloth** (Our Living History, 5 min) id `XR3nTYGnlt0`: To see the warp threads lift and the shuttle pass through, which the card loom in this unit cannot show. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. It is an explainer on warp, weft, shuttle, heddles and reed; check that it is set on an Indian loom or the parent should say so.
+- **Weaving silk saree on a wooden loom in Madurai, Tamil Nadu** (WildFilmsIndia, 4 min) id `IyjyHmmNfKc`: To see the warp threads lift and the shuttle pass through on a real Indian loom, which the card loom in this unit cannot show. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 - **Silkworms Spin Cocoons That Spell Their Own Doom** (Deep Look, 5 min) id `cgavTIBQ_Z0`: To see the caterpillar spin and the filament being unwound from many cocoons at once. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. It shows the silk cocoon stage and why the pupa is killed before the thread is unwound; the boiling step may upset some children, so watch it first.
 
 ## Quiz
