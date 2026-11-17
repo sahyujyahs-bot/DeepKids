@@ -3,7 +3,7 @@
 
 **Summary.** Your heart beats about 85 times a minute while you sit still. Yet a heart left on its own beats nearer 100. So something is holding yours back. You count your pulse before, during and after exercise, and measure your chest as you breathe. You find out how a nerve acts like a brake on the heart, why breathing is the one automatic job you can also take over, and how scientists first caught a nerve slowing an organ.
 
-**Intro.** *Put two fingers on your wrist and count the beats for 15 seconds. Now hold your breath for five seconds. Which of these two could you stop if you really wanted to?* You can hold your breath, and you can breathe out slowly or sing a long note. You cannot decide to stop your heart. Yet both organs work all day and all night without you thinking about them. Why can you take over one and not the other? And what is your heart doing while you sit still and do nothing?
+**Intro.** *Put two fingers on your wrist and count the beats for 15 seconds. Now hold your breath for five seconds. Which could you stop if you really wanted to: your heartbeat or your breathing?* You can hold your breath, and you can breathe out slowly or sing a long note. You cannot decide to stop your heart. Yet both organs work all day and all night without you thinking about them. Why can you take over one and not the other? And what is your heart doing while you sit still and do nothing?
 
 ## Learning outcomes
 0. I can find my pulse, count it for 15 seconds, and work out beats per minute.
@@ -11,7 +11,7 @@
 2. I can explain that the heart has its own pacemaker, and that a nerve acts like a brake that keeps a resting heart slower than its own speed.
 3. I can explain how breathing works: the diaphragm and rib muscles change the size of the chest, and the air outside flows in.
 4. I can explain that breathing is automatic but can be taken over, and say what happens when I hold my breath.
-5. I can sort body jobs into automatic only, automatic but steerable, and decided by me, and give a reason.
+5. I can sort body jobs into automatic only, automatic but I can take over, and decided by me, and give a reason.
 6. I can compare heart rates and breathing across people and other animals, and say what a bigger or smaller number tells us.
 7. I can say how scientists found that a nerve can slow an organ, and which idea this proved wrong.
 
@@ -44,26 +44,26 @@ Each time the heart squeezes, it pushes blood into the arteries, and the artery 
 ### The heart has its own pacemaker · *defined*
 **Definition:** A small patch of special cells at the top of the heart, called the pacemaker or the sinoatrial node, starts each heartbeat by itself.
 
-Your heart does not wait for a message from the brain to beat. Special cells in the pacemaker make a tiny electrical signal again and again. The signal spreads over the heart muscle, and the heart squeezes. A frog's heart taken out of the body and kept in the right salty water goes on beating for hours. A transplanted human heart has its nerves cut, and it still beats. Left alone, a human pacemaker fires at about 100 to 115 times a minute. That is faster than the resting pulse of most people, and this puzzle is what the next card answers.
+Your heart does not wait for a message from the brain to beat. Special cells in the pacemaker make a tiny electrical signal again and again. The signal spreads over the heart muscle, and the heart squeezes. A frog's heart taken out of the body and kept in the right salty water goes on beating for hours. A transplanted human heart has its nerves cut, and it still beats. Left alone, a human pacemaker fires at about 100 to 115 times a minute. That is faster than the resting pulse of most people, so something must be slowing the heart down at rest.
 - e.g. A frog's heart in salty water keeps beating on a laboratory dish.
 - e.g. After a heart transplant, the new heart beats with its nerves cut, usually at about 90 to 110 beats a minute at rest.
 - e.g. Heart cells grown in a dish beat by themselves, and cells that touch fall into the same rhythm.
 ### The brake: why a resting heart is slower than its own speed · *defined*
 **Definition:** The vagus nerve sends steady signals to the pacemaker that slow it down. This is why a resting heart beats more slowly than a heart on its own.
 
-Imagine a bicycle with its brake lever held half on. The wheel could spin faster, but the brake holds it back. In a resting person, the vagus nerve is the brake on the heart. Its signals release a chemical onto the pacemaker cells, and the cells fire less often. When you start to move, the first thing that changes is that these signals ease off. This happens within a second or two, so the pulse jumps up very quickly. Then a second set of nerves and the chemical adrenaline press on the gas, and the pulse climbs higher. After exercise, the brake comes back fast, which is why the pulse falls steeply in the first minute.
+Think of a bicycle with its brake lever held half on. The wheel could spin faster, but the brake holds it back. In a resting person, the vagus nerve is the brake on the heart. Its signals release a chemical onto the pacemaker cells, and the cells fire less often. When you start to move, the first thing that changes is that these signals ease off. This happens within a second or two, so the pulse jumps up very quickly. Then a second set of nerves and the chemical adrenaline do the opposite of the brake. They act like the gas pedal, and the pulse climbs higher. After exercise, the brake comes back fast, which is why the pulse falls steeply in the first minute.
 - e.g. Your pulse rises in the first few seconds of a run, before your muscles have used up much oxygen.
 - e.g. After you stop, your pulse falls fastest in the first 30 to 60 seconds.
 - e.g. A transplanted heart has no vagus signals, so it beats at its own faster speed at rest.
-### Why the pulse rises fast at first and then slows down its climb · *defined*
+### Why the pulse rises fast at first and then more slowly · *defined*
 **Definition:** Most of the rise in pulse at the start of exercise happens in the first 15 to 30 seconds, because easing the brake is quick. Later rises come from slower signals.
 
-In the pulse timeline test, you meet a curve that rises steeply and then flattens. The steep part is the brake easing off, which takes a second or two. The slow part is adrenaline and the nerves that press the gas, plus the warming of your body. After you stop, the same happens in reverse. The brake returns quickly, so the pulse falls fast, and then the last part falls slowly because your body is still warm and still has adrenaline. In grown-ups, doctors sometimes time how far the pulse falls in the first minute as a rough sign of how fit the heart is. It is not a test for children.
+In the Pulse Timeline test, you count your pulse after 15, 30 and 60 seconds of step-ups and draw a line graph. The line rises steeply and then flattens. The steep part is the brake easing off, which takes a second or two. The slow part is adrenaline and the nerves that press the gas, plus the warming of your body. After you stop, the same happens in reverse. The brake returns quickly, so the pulse falls fast, and then the last part falls slowly because your body is still warm and still has adrenaline. In grown-ups, doctors sometimes time how far the pulse falls in the first minute as a rough sign of how fit the heart is. It is not a test for children.
 - e.g. A child's pulse of 84 at rest may reach about 108 after only 15 seconds of step-ups.
 - e.g. After a minute of step-ups, it may be about 140 and climbing slowly.
 - e.g. In the first minute of rest, it may fall by 30 or more beats, and then fall only a little each minute.
 ### The pulse is a wave, not the blood itself · *defined*
-**Definition:** The pulse you feel in your wrist is a wave of stretch passing along the artery wall. It is not the same blood that left the heart a moment ago.
+**Definition:** The pulse you feel in your wrist is a ripple of stretching that passes along the artery wall. It is not the same blood that left the heart a moment ago.
 
 When the heart squeezes, it pushes a bit of blood into the aorta, the biggest artery. The elastic wall stretches and then springs back, and that stretch runs along all the arteries like a ripple along a rope you flick. The ripple moves at about 5 to 10 metres per second. That is much faster than the blood itself, which moves at well under one metre a second in the aorta and much more slowly in small vessels. So your wrist feels the tap almost at once, though the blood from that beat takes much longer to arrive.
 - e.g. A flick along a long rope sends a ripple down it, though the rope itself does not travel.
@@ -72,14 +72,14 @@ When the heart squeezes, it pushes a bit of blood into the aorta, the biggest ar
 ### How you breathe: muscles change the size of your chest · *defined*
 **Definition:** You breathe in when the diaphragm and the rib muscles make your chest bigger. The air pressure outside then pushes air into your lungs.
 
-The diaphragm tightens and flattens downwards, and the rib muscles lift your ribs up and out like the handles of a bucket. The space in the chest grows, so the pressure inside drops a little below the pressure of the air outside. The air outside then flows in. The lungs have no muscle of their own, and they are pushed out by the larger chest. When you breathe out quietly, the muscles relax and the stretched lungs and chest spring back, like a squeezed sponge. After hard exercise, your belly muscles help push the air out faster. At rest, a child aged 6 to 10 takes about 18 to 25 breaths a minute.
+The diaphragm tightens and flattens downwards, and the rib muscles lift your ribs up and out like the handles of a bucket. The space in the chest grows, so the pressure inside drops a little below the pressure of the air outside. The air outside then flows in. The lungs have no muscle of their own. They get bigger only because the chest around them gets bigger. When you breathe out quietly, the muscles relax and the stretched lungs and chest spring back, like a squeezed sponge. After hard exercise, your belly muscles help push the air out faster. At rest, a child aged 6 to 10 takes about 18 to 25 breaths a minute.
 - e.g. Put a tape measure round your chest, and it grows when you breathe in.
 - e.g. A baby breathes mostly with the belly, as the diaphragm pulls down.
 - e.g. A frog breathes in a different way and gulps air down with its throat.
 ### Rate and depth: two ways to breathe more · *defined*
 **Definition:** You can take more air in a minute by breathing faster, by breathing deeper, or both.
 
-Breathing rate is how many breaths there are in a minute. Breath depth is how much air each breath moves. In gentle exercise, you mostly breathe deeper. In hard exercise, you breathe both deeper and faster. A fit person can move about ten times more air a minute in a sprint than while sitting still. Because the depth changes so much, counting breaths alone does not tell you how much air is moving. This is one reason the chest tape test is useful, because the tape shows the depth.
+Breathing rate is how many breaths there are in a minute. Breath depth is how much air each breath moves. In gentle exercise, you mostly breathe deeper. In hard exercise, you breathe both deeper and faster. A fit person can move about ten times more air a minute in a sprint than while sitting still. Because the depth changes so much, counting breaths alone does not tell you how much air is moving. This is one reason the Chest Tape test is useful, because the tape shows the depth.
 - e.g. Sitting: about 20 breaths a minute, each one quiet.
 - e.g. Walking fast: a similar number of breaths, but each is deeper.
 - e.g. Running hard: more than 40 breaths a minute, each one deep.
@@ -90,22 +90,22 @@ In 1991, a team led by Jack Feldman found a small group of cells in the brainste
 - e.g. Breathing goes on in your sleep, and you cannot forget to do it.
 - e.g. You choose to breathe out in a long note when you sing.
 - e.g. A swimmer holds her breath for a few seconds, and then the urge to breathe forces her to come up.
-### The pulse dances with your breath. Nobody agrees on why. · *debated*
+### Your pulse speeds up and slows down with your breath. Nobody agrees on why. · *debated*
 Look closely at a young person's pulse. It speeds up a little as they breathe in and slows down a little as they breathe out. Doctors call this respiratory sinus arrhythmia, and it is strongest in children and young adults and in slow, relaxed breathing. It is a normal and healthy sign. The fact is settled. The reason is not. Scientists have three main ideas, and each may be partly right.
-- e.g. Slow breathing at about 6 breaths a minute makes the dance biggest.
-- e.g. The dance is usually smaller in older people.
-- e.g. It is hard to feel by hand, and a heart monitor shows it clearly.
+- e.g. Slow breathing at about 6 breaths a minute makes the speed-up and slow-down biggest.
+- e.g. The speed-up and slow-down is usually smaller in older people.
+- e.g. It is hard to feel by hand, but a heart monitor shows it clearly.
 - **Match the blood to the air:** More beats while the lungs are full of fresh air might pick up more oxygen in each minute, and fewer beats when the lungs are emptying might save energy. A 1996 study by Hayano and others, in dogs, found that the lungs swapped gases a little better when the heart rate followed the breath.
-- **A leak between two brain circuits:** The brainstem circuits that run breathing sit right next to those that send the brake signal to the heart. Perhaps the breathing circuit simply leaks into the brake as it works, with no purpose.
-- **A sign of a flexible body:** A heart that can speed up and slow down quickly is a heart with good control. Perhaps the dance does not do a job, but it shows that the brake and the gas are working well.
-### The dive reflex: a brake you can borrow · *defined*
+- **A leak between two brain circuits:** The brainstem circuits that run breathing sit right next to those that send the brake signal to the heart. Perhaps the signal from the breathing circuit simply leaks into the brake circuit, and it has no purpose.
+- **A sign of a flexible body:** A heart that can speed up and slow down quickly is a heart with good control. Perhaps the speed-up and slow-down does no job of its own, but it shows that the brake and the gas are working well.
+### The dive reflex: cold water on the face slows the heart · *defined*
 **Definition:** When cold water touches the face, and especially when the breath is held, the heart slows down. This is called the dive reflex.
 
 Seals, dolphins and whales slow their hearts a lot on a deep dive, which saves oxygen. Humans have a smaller version. Cold water on the face sets off a reflex that increases the brake on the heart, and the pulse can fall by about a tenth or more in many people. This is the same vagus nerve doing its work. It is a reason why washing your face in cool water can feel calming. Never test it by putting your face in water without a grown-up beside you.
 - e.g. A blue whale's heart has been recorded as slow as about 2 beats a minute during a deep feeding dive.
 - e.g. A cool damp cloth on the face can slow the pulse a little in many people.
 - e.g. A swimmer's pulse often drops a little when her face goes into cool water.
-### Other bodies, other clocks · *defined*
+### Heart rates in other animals · *defined*
 **Definition:** The smaller an animal is, the faster the heart usually beats. Heart rates run from a few beats a minute to over a thousand.
 
 An elephant's heart beats about 30 times a minute at rest. A person's beats about 70. A cat's beats about 150. A mouse's heart beats about 500 to 700 times a minute, and a hummingbird's can pass 1,000 in flight. Small bodies lose heat quickly and burn food fast, so their cells need oxygen very quickly. A blue whale is the other extreme. Scientists tagged blue whales in 2019 and recorded heart rates as slow as about 2 beats a minute during deep dives, and up to about 37 at the surface. Not every animal has a heart like ours. An insect has a long tube-shaped heart and breathes through tiny tubes that carry air to every part, so the blood does not need to carry oxygen. An octopus has three hearts.
@@ -116,7 +116,7 @@ An elephant's heart beats about 30 times a minute at rest. A person's beats abou
 
 ## Mostly agreed
 - The heart starts its own beat. Its pacemaker cells fire without any signal from the brain. *How we know:* Hearts taken out of animals and kept in salty water go on beating. Transplanted human hearts, whose nerves are cut, go on beating in their new owners.
-- The vagus nerve acts as a brake on the heart, and it is on in a resting person. *How we know:* A transplanted heart with no vagus nerve beats faster at rest than a normal heart. Also, a drug that blocks the vagus signal speeds up the resting pulse.
+- The vagus nerve acts as a brake on the heart, and the brake is on whenever a person is resting. *How we know:* A transplanted heart with no vagus nerve beats faster at rest than a normal heart. Also, a drug that blocks the vagus signal speeds up the resting pulse.
 - Nerves can slow an organ as well as speed it up, and they do so by releasing chemicals. *How we know:* In 1921, Otto Loewi showed that fluid from a slowed frog heart could slow a second frog heart. The chemical was later named acetylcholine.
 - Breathing is made by the diaphragm and rib muscles, and the rhythm is set by cells in the brainstem. *How we know:* Chest measurements show the ribs swinging out. Cutting the connection between the brainstem and the breathing muscles stops breathing, and a team led by Jack Feldman located the rhythm cells in 1991.
 - The urge to breathe comes mostly from rising carbon dioxide, not from falling oxygen. *How we know:* Experiments with changed air mixtures show that extra carbon dioxide gives a strong urge to breathe, while a small fall in oxygen gives very little.
@@ -144,38 +144,38 @@ An elephant's heart beats about 30 times a minute at rest. A person's beats abou
   Against: Children normally have higher resting pulses than grown-ups. A very low pulse can also come from illness or some medicines. The number is only a clue, and a doctor looks at more than one.
 
 ## Roots
-We have counted pulses and measured breaths. Now we ask what a heart that keeps its own time, and a breath that we can borrow, tell us about who we are and what a body is.
+We have counted pulses and measured breaths. The heart keeps its own beat, and breathing is a job we can take over for a while. Now we ask what these two facts tell us about who we are and what a body is.
 
-**Deep truth.** Left alone, a heart beats more than 100 times a minute. A steady signal along a nerve from your brain slows it. Speeding up starts with that signal easing, before anything is added.  
+**Deep truth.** Left alone, a heart beats more than 100 times a minute. A steady signal along a nerve from your brain slows it. When the heart speeds up, the first thing that happens is that this slowing signal eases off. Only after that do other signals push it faster.  
 *Habit it breaks:* We think of rest as the plain, natural state, and effort as something added on top. For the heart, it is the other way round. A resting heart is a heart being held back, and speeding up begins by taking something away.  
-*Evidence:* In the Pulse Timeline test, most of the rise in pulse came in the first 15 seconds, long before the muscles ran short of oxygen. A transplanted heart, with its nerves cut, beats faster at rest than a normal heart. Frog hearts slowed by the vagus nerve gave Otto Loewi the same answer in 1921.
+*Evidence:* In the Pulse Timeline test, most of the rise in pulse came in the first 15 seconds, long before the muscles ran short of oxygen. A transplanted heart, with its nerves cut, beats faster at rest than a normal heart. In 1921, Otto Loewi showed that fluid from a frog heart slowed by the vagus nerve could slow a second frog heart.
 
-- *who am i:* The signal that holds your heart back is made by your own body without you asking. 'You' includes a great deal that you never decide.
-- *what is life:* A living heart makes its own rhythm. Taken out of a frog and put in the right salty water, the heart goes on beating. Rhythm is part of what being alive is.
+- *who am i:* The signal that holds your heart back is made by your own body without you asking. So the 'you' that is your whole body includes a great deal that you never decide.
+- *what is life:* A living heart makes its own rhythm. Taken out of a frog and put in the right salty water, the heart goes on beating. Having a steady rhythm of its own is part of what it means to be alive.
 - *what is this world:* Heartbeats, breaths, days and tides are all rhythms. Living bodies keep their own time, and keep it in step with the world around them.
 
-Your heart is made of billions of cells, and each one can beat alone. In the pacemaker, cells that touch fall into one shared rhythm, and the whole heart beats as one. A nerve from the brain then adjusts that single beat, and the lungs next door keep a rhythm that is linked to it. Many cells become one beat, and one beat is steered by something wider than the heart. That is how a body is a single thing made of many.
+Your heart is made of billions of cells, and each one can beat alone. In the pacemaker, cells that touch fall into one shared rhythm, and the whole heart beats as one. A nerve from the brain then adjusts that single beat, and the lungs next door keep a rhythm that is linked to it. So many cells become one beat, and a nerve from outside the heart steers that one beat. In this way a body is one thing that is made of many parts working together.
 
-- **Katha Upanishad 2.2.5:** No mortal lives by the in-breath or the out-breath alone. They live by something else, on which both of these depend. (In this unit, the rhythm of breath comes from cells in the brainstem, and both the in-breath and the out-breath depend on them. The old verse also points to something behind the breath.)
-- **Bhagavad Gita 4.29:** Some people offer the in-breath into the out-breath, and the out-breath into the in-breath, and so hold the course of both. This practice is called pranayama. (Breathing is the one automatic job we can steer, and many traditions noticed that long ago. The science of the longer breath out and the calmer pulse is a modern way of meeting the same practice.)
-- **Thich Nhat Hanh, Peace Is Every Step, 1991:** Breathing in, I calm my body. Breathing out, I smile. (A longer breath out is one of the few ways we can steer the heart's brake, and the tests in this unit are a way to see that it can work.)
+- **Katha Upanishad 2.2.5:** No mortal lives by the in-breath or the out-breath alone. They live by something else, on which both of these depend. (In this unit, the rhythm of breath comes from cells in the brainstem, and both the in-breath and the out-breath depend on them. The old verse also says that something other than the breath itself keeps a being alive. Both breaths depend on that something.)
+- **Bhagavad Gita 4.29:** Some people offer the in-breath into the out-breath, and the out-breath into the in-breath, and so hold the course of both. This practice is called pranayama. (Breathing is the one automatic job we can steer, and many traditions noticed that long ago. Today, science studies the same practice when it measures how a longer breath out calms the pulse.)
+- **Thich Nhat Hanh, Peace Is Every Step, 1991:** Breathing in, I calm my body. Breathing out, I smile. (A longer breath out is one of the few ways that we can influence the brake on the heart. The tests in this unit let you see for yourself that this can work.)
 - Science (settled): Heart cells grown alone in a dish each beat at their own pace. When they touch, they fall into one shared rhythm.
-- Science (open): How the thinking part of the brain takes over an automatic rhythm, and what makes a choice feel like mine, is not known.
-- Other view, Most neuroscientists, and the old Indian Charvaka school: The pacemaker, the brake and the choice to hold a breath are all signals between cells. There is no extra 'you' beyond the body who steers. The feeling of being the one who chooses is itself something the brain makes. This is an honest view, and many careful people hold it.
+- Science (open): Nobody knows yet how the thinking part of the brain takes over an automatic rhythm, or what makes a choice feel like your own.
+- Other view, Most neuroscientists, and the old Indian Charvaka school: The pacemaker, the brake and the choice to hold a breath are all signals between cells. There is no separate 'you' outside the body who steers it. The feeling of being the one who chooses is itself something the brain makes. This is an honest view, and many careful people hold it.
 - Practice, A longer breath out (3 min): Sit comfortably and find your pulse with two fingers. Breathe in through your nose for four counts. Breathe out slowly for six counts. Do this five times. Notice whether your pulse feels any different. Then notice who is breathing, you or your body.
-- Ask: When you hold your breath, who is holding, and who is gasping? Are they both you?
+- Ask: When you hold your breath, one part of you holds it, and another part of you makes you gasp. Are both of those parts you?
 - Ask: If the brake on your heart is on even while you sleep, is that something you do, or something that is done to you?
 - Ask: Do heart cells that fall into the same beat when they touch know about each other? How would you find out?
 
 ## Deep and big questions
-- *deep:* Your heart left alone would beat at about 100, yet yours beats at about 85, so something is holding it back all your life. Who or what decides how hard to hold the brake? (hint: Think about which parts of the body measure things, and which parts send signals.)
-- *big:* When you hold your breath, who is doing the holding, and who is the one that gasps at the end? Are they both you? (hint: Think about which one of you decided, and which one did not.)
-- *deep:* Imagine that you had to remember to make every heartbeat yourself. What would sleeping be like? What would an automatic heart let you do instead? (hint: Think about what your attention is free to do because the heart looks after itself.)
-- *big:* A hummingbird's heart beats over 1,000 times a minute and a blue whale's sometimes 2 times. Do they live at different speeds of time? (hint: Some scientists have noticed that many mammals have a similar number of heartbeats in a lifetime. This idea is debated, and some animals break the pattern.)
+- *deep:* Left alone, your heart would beat about 100 times a minute, but it beats about 85 times. Something holds it back all your life. Who or what decides how hard to hold the brake? (hint: Think about which parts of the body measure things, and which parts send signals.)
+- *big:* When you hold your breath, one part of you decides to hold it. At the end, a different part of you forces you to gasp. Are both of them you? (hint: Think about which one of you decided, and which one did not.)
+- *deep:* Suppose you had to remember to make every heartbeat yourself. What would sleeping be like? What does an automatic heart let you do instead? (hint: Think about what your attention is free to do because the heart looks after itself.)
+- *big:* A hummingbird's heart beats over 1,000 times a minute. A blue whale's heart sometimes beats only 2 times a minute. Does time pass at a different speed for each of them? (hint: Some scientists have noticed that many mammals have a similar number of heartbeats in a lifetime. This idea is debated, and some animals break the pattern.)
 - *deep:* The pulse in your wrist is a wave, not the blood itself. What else do we feel as a thing, when it is really a wave passing through something else? (hint: Think of a sound, a Mexican wave in a stadium or a ripple on a pond.)
 - *big:* A frog's heart on a laboratory dish goes on beating. Is that heart alive, or is only the frog alive? Where does one living thing stop and the next begin? (hint: Think about the heart cells in a dish that fall into the same rhythm as they touch.)
 - *big:* Fear speeds up your pulse before you have decided to be afraid. Do feelings begin in the body and reach the mind, or begin in the mind and reach the body? (hint: William James thought the body came first, and Walter Cannon thought both came together. Scientists still argue.)
-- *big:* Every creature has its own clock for its heart and its breath. If a mouse and a whale could compare their worlds, what would each one find strange? (hint: Think about what it is like to live where one heartbeat lasts a tenth of a second, or a half a minute.)
+- *big:* Every creature has its own clock for its heart and its breath. If a mouse and a whale could compare their worlds, what would each one find strange? (hint: Think about what it is like to live where one heartbeat lasts a tenth of a second, or half a minute.)
 
 ## Story: Before the First Stroke
 *A made-up story. The girls, the boat and the regatta are imagined, though snake-boat and small-boat races on the lakes near Alappuzha at Onam are real. The science is real: a pulse can rise in someone who is waiting for a race to start, and a pulse falls quickly in the first minute after hard exercise.*
@@ -234,17 +234,17 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
 
 ## Games
 ### g1 · Who Is in Charge? A card game about body jobs (20 min)
-- **rules:** Each card names one job of a body. Decide who is in charge of that job.; There are three kinds. Automatic only means you cannot decide it. Automatic, but I can take over means it runs by itself, and you can also do it on purpose. I decide means you choose it.; Each player has three tokens, one of each kind. On your own, say your answer out loud instead.; The reader reads only the front of a card. Everyone puts one token face down, then turns it over together.; The reader reads the back. Each player with the right kind scores one point. If nobody is right, talk about why.; The next reader sits to the left. When all the cards are read, the player with the most points wins. On your own, count how many you got right, and try to beat that number another day.
+- **rules:** Each card names one job your body does. Decide who is in charge of that job.; There are three kinds. Automatic only means you cannot decide it. Automatic, but I can take over means it runs by itself, and you can also do it on purpose. I decide means you choose it.; Each player has three tokens, one of each kind. On your own, say your answer out loud instead.; The reader reads only the front of a card. Everyone puts one token face down, then turns it over together.; The reader reads the back. Each player with the right kind scores one point. If nobody is right, talk about why.; The next reader sits to the left. When all the cards are read, the player with the most points wins. On your own, count how many you got right, and try to beat that number another day.
 - **Printable cards: 24 two-sided cards: a body job on the front, and who is in charge on the back:** Your heart squeezes about once every second. (back: Automatic only. The pacemaker in your heart starts each beat by itself. You can change your pulse by other routes, but you cannot decide a single beat.); Breathing in and out. (back: Automatic, but you can take over. The brainstem breathes for you in your sleep. You can also hold your breath, sigh or sing.); Blinking your eyes. (back: Automatic, but you can take over. You blink about 15 times a minute without thinking. You can also hold your eyes open or blink on purpose.); Swallowing a spoonful of curd rice. (back: Automatic, but you can take over. You decide to start. Then muscles in your throat carry on by themselves.); Digesting your lunch. (back: Automatic only. Your gut squeezes the food along without one decision from you.); Your pupils getting smaller in bright sunlight. (back: Automatic only. Tiny muscles in your eyes react to light in a fraction of a second.); Sweating after you run in the heat. (back: Automatic only. Your skin sweats to let heat out, and you cannot order it to stop.); Walking to the door. (back: You decide. You choose to go, and your legs then run on a kind of autopilot. You can stop at any moment.); Goosebumps on a cold morning. (back: Automatic only. Tiny muscles at the base of each hair tighten, and you cannot order them to.); Hiccups. (back: Automatic only. Your diaphragm gives a sudden jerk. You cannot start hiccups on purpose.); Yawning. (back: Automatic, but you can take over. A yawn comes by itself, though you can fake one or hold one back.); Your mouth watering at the smell of hot pakoras. (back: Automatic only. Your spit glands react to a smell, and nobody has to decide.); Waving your hand at a friend. (back: You decide. A signal goes from your brain along a nerve to the arm muscles on your command.); Your leg kicking when a doctor taps just below the knee. (back: Automatic only. This is a reflex, and the signal turns round in your spinal cord.); Laughing. (back: Automatic, but you can take over. A real laugh bursts out on its own, and you can also laugh on purpose.); Shivering when you are cold. (back: Automatic only. Muscles shake to make heat, and you cannot order them to start or stop.); Chewing a piece of roti. (back: Automatic, but you can take over. You can chew on purpose, and you also chew without thinking about it.); Your tummy rumbling. (back: Automatic only. Gas and liquid moving in your gut make the sound. The gut moves by itself.); Pulling your hand off a hot tava. (back: Automatic only. A reflex pulls your hand back before the pain message reaches your brain.); Reading a story out loud. (back: You decide. You choose the words. Your breathing quietly adjusts itself to the sentences.); More blood flowing to your leg muscles when you run. (back: Automatic only. Blood vessels widen and the heart speeds up without any decision.); Your kidneys cleaning your blood. (back: Automatic only. Your kidneys filter your blood all day and all night.); Jumping when there is a sudden loud bang. (back: Automatic only. This startle reflex starts in the brainstem faster than a thought.); Choosing to hold your breath for ten seconds. (back: You decide. You chose it. After a while, your body pushes you to breathe again, so you cannot hold it for ever.)
 - **Printable tokens: 12 tokens: four of each of three kinds:** Automatic only; Automatic only; Automatic only; Automatic only; Automatic, but I can take over; Automatic, but I can take over; Automatic, but I can take over; Automatic, but I can take over; I decide; I decide; I decide; I decide
 - **s1 (3 min)**  
   *Parent does:* Cut out the 24 cards and the 12 tokens. Shuffle the cards into a pile, face down. Give each player one token of each kind.  
-  *Parent says:* We will sort the jobs of a body. For each job, we decide who is in charge. Take one token of each kind.  
+  *Parent says:* We will sort the jobs your body does. For each job, we decide who is in charge. Take one token of each kind.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take one token of each kind.
-  - Note: Cutting 36 pieces takes a while: a grown-up cuts, or the child uses blunt-ended scissors with an adult beside them. No printer? Copy each card on a scrap of paper, and use any three small things, such as a coin, a pebble and a bottle cap, as the three tokens. Up to 4 players share one set; the reader rotates.
+  - Note: Cutting 36 pieces takes a while. A grown-up can cut, or the child can use blunt-ended scissors with an adult beside them. If you have no printer, copy each card onto a scrap of paper, and use any three small things, such as a coin, a pebble and a bottle cap, as the three tokens. Up to 4 players can share one set, and they take turns as the reader.
 - **s2 (3 min)**  
   *Parent does:* Read the three kinds of token aloud. Then read one practice card together, and ask the child to explain the choice before turning it over.  
-  *Parent says:* Automatic only means you cannot decide it. Automatic but steerable means it runs itself, and you can take over. Let us try one card together.  
+  *Parent says:* Automatic only means you cannot decide it. Automatic, but I can take over means it runs by itself, and you can also do it on purpose. I decide means you choose it. Let us try one card together.  
   *Child mode:* Read the three kinds. Try one card together. Say why you chose your token.
   - Ask: Which kind do you think breathing is, and why? (good: Automatic, because I breathe asleep.; Automatic but I can take over, because I can hold my breath.; Both, because it works by itself and I can also change it.)
   - Note: Do not explain the card first. Any choice with a reason is a good start. Breathing is the central example of the game.
@@ -256,14 +256,14 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   - Note: When a card is argued over, ask the player for the reason before reading the back. A good reason matters more than the point.
 - **s4 (3 min)**  
   *Parent does:* Count the points. Put the cards marked Automatic, but you can take over in a row, and read their fronts aloud.  
-  *Parent says:* Look at the jobs in the middle kind. Which of these is also in the other body jobs we met today?  
-  *Child mode:* Find the cards in the middle kind. What do they have in common?
-  - Ask: What do the middle cards have in common? (good: They all work by themselves but I can change them.; They all use muscles I can also move on purpose.; They are jobs that matter for staying alive and also for speaking or feeling.)
+  *Parent says:* Look at the cards marked Automatic, but you can take over. What do these jobs have in common?  
+  *Child mode:* Find the cards marked Automatic, but you can take over. What do they have in common?
+  - Ask: What do the cards marked Automatic, but you can take over have in common? (good: They all work by themselves but I can change them.; They all use muscles I can also move on purpose.; They are jobs that matter for staying alive and also for speaking or feeling.)
 - **s5 (3 min)**  
   *Parent does:* Ask the question below, and let the child think before giving any answer. Write down what the child says.  
-  *Parent says:* Your heart is automatic only, and your breathing is automatic but steerable. Why do you think the body is built this way?  
-  *Child mode:* The heart is automatic only. Breathing is steerable. Why might that be?
-  - Ask: Why might breathing be steerable when the heart is not? (good: We need to speak and sing.; We need to hold our breath in water.; We need to cough to clear our throat.)
+  *Parent says:* Your heart is automatic only. Your breathing is automatic, but you can take over. Why do you think the body is built this way?  
+  *Child mode:* The heart is automatic only. You can take over your breathing. Why might that be?
+  - Ask: Why might you be able to take over your breathing but not your heart? (good: We need to speak and sing.; We need to hold our breath in water.; We need to cough to clear our throat.)
   - Note: Possible answers: breathing is needed for speech, swallowing, coughing and diving, and the heart has no such jobs. Many other answers are fine.
   - Think: If the heart worked only when you decided, what would happen when you fell asleep?
 
@@ -273,7 +273,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
 - **predict:** Before you start, guess. After only 15 seconds of step-ups, will your pulse be a little higher or a lot higher than at rest? After you stop, will it fall quickly at first or slowly at first? Why do you think so?
 - **fair test:** The same child does every round, on the same step, at one step-up every two seconds. The child rests for at least 2 minutes before each round, until the pulse is back within 4 beats a minute of the rest number. The same person counts every time, on the same wrist, with two fingers, for exactly 15 seconds. Only one thing changes between rounds, which is how long the child exercises: 15, 30 or 60 seconds.
 - **safety:** Use a low, firm step with nothing slippery on it, and keep a grown-up beside the child. Stop at once if the child feels dizzy, has pain in the chest or cannot catch their breath. A child with a heart or breathing condition should ask the doctor first.
-- **record:** Write the beats in 15 seconds at rest, after 15, 30 and 60 seconds of step-ups, in the four windows after the last round, and at 2 and 3 minutes of rest. Multiply by 4 for each. Draw one line graph for the rise and a second for the fall.
+- **record:** Write the beats in 15 seconds at rest, after 15, 30 and 60 seconds of step-ups, in each of the four 15-second counts straight after the 60-second round, and at 2 and 3 minutes of rest. Multiply each by 4. Draw one line graph for the rise and a second for the fall.
 - **results table:** Moment | Beats in 15 seconds | Beats per minute (times 4)
 - **s1 (4 min)**  
   *Parent does:* Show the child the results table. Ask for a guess and a reason for the rise and for the fall. Write both down before any counting.  
@@ -298,7 +298,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Parent says:* Step up and down for fifteen seconds. When I say stop, count your taps right away for fifteen seconds.  
   *Child mode:* Step up and down for 15 seconds. Stop. Count your pulse for 15 seconds.
   - Ask: What did you notice in your chest? (good: It is already thumping.; It is not much faster yet.; My pulse is higher already.)
-  - Note: Count right away, because the pulse starts to fall within seconds. This count is a little lower than the true peak. After the count, the child sits for 2 to 3 minutes. Take a 15-second count near the end to check that it is back near the rest number.
+  - Note: Count right away, because the pulse starts to fall within seconds. This count is a little lower than the true peak. After the count, the child sits for 2 to 3 minutes. Take a 15-second count near the end to check that the pulse is back near the rest number.
 - **s5 (9 min) · grown-up needed**  
   *Parent does:* When the pulse is back near the rest number, ask the child to step up and down for 30 seconds. Count the pulse for 15 seconds straight away. Write it down.  
   *Parent says:* Same step, same pace, but thirty seconds this time. Count your taps as soon as I say stop.  
@@ -320,14 +320,14 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Child mode:* Multiply each count by 4. Draw two line graphs, one for rising and one for falling.
   - Check: A child counted 28 beats in 15 seconds. What is that in beats per minute? → **112 beats per minute**
 - **s9 (6 min)**  
-  *Parent does:* Ask the child to write a claim, the evidence and the reasoning. Compare the claim with the first guess. Do not explain until the child has said what they think.  
+  *Parent does:* Ask the child to write what they think happened to the pulse (the claim), the numbers that show it (the evidence) and why they think it happened (the reasoning). Compare the claim with the first guess. Do not explain until the child has said what they think.  
   *Parent says:* What do you think happened to your pulse? What numbers show it? Why do you think your heart did that?  
   *Child mode:* Write what you think, what you saw and why. Compare it with your guess.
   - Ask: In which stretch did your pulse change the most? (good: In the first 15 seconds of stepping.; In the first 15 seconds after stopping.)
   - Ask: Why do you think it changed so fast at the start? (good: The heart reacts at once.; Something tells it to speed up before muscles run out of oxygen.)
-  - Note: Expect the pulse to rise by roughly 20 to 30 beats a minute in the first 15 seconds, and then to climb more slowly. After stopping, expect the biggest fall in the first 30 to 60 seconds. Counts wobble by a few beats, so look at the shape and not at single numbers. Do not explain the brake until the child has made a claim.
+  - Note: Expect the pulse to rise by roughly 20 to 30 beats a minute in the first 15 seconds, and then to climb more slowly. After stopping, expect the biggest fall in the first 30 to 60 seconds. Counts wobble by a few beats, so look at the shape and not at single numbers. Do not explain the nerve that acts as a brake on the heart until the child has made a claim.
 ### e2 · The Chest Tape: how far does your chest move when you breathe? (30 min)
-- **question:** How much does your chest grow when you breathe in, in a quiet breath, a deepest breath, and a deepest breath while slumped?
+- **question:** How much does your chest grow when you breathe in quietly, when you take your deepest breath sitting straight, and when you take your deepest breath while slumped?
 - **predict:** Before you start, guess. Which breath will make your chest grow the most? Will sitting slumped make a difference? Why do you think so?
 - **fair test:** The same grown-up reads the tape every time. The tape goes round the chest just under the armpits, over a thin vest, at the same height each time. The child sits on the same chair, and only the way of breathing changes: quiet, deepest breath sitting straight, or deepest breath slumped.
 - **safety:** Hold the tape snug and never tight. Stop if the child feels dizzy, and rest with normal breathing. Do not do more than three deep breaths in a row.
@@ -360,7 +360,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Child mode:* Slump forward. Breathe out. Now breathe in as deep as you can.
   - Note: Slumping usually makes the deepest breath smaller, because the ribs and diaphragm have less room. A child with a very deep slump may not see a difference. Report what you see.
 - **s6 (6 min)**  
-  *Parent does:* Help the child work out the growth for each kind of breath. Ask for a claim, the evidence and the reasoning. Compare it with the first guess. Do not explain yet.  
+  *Parent does:* Help the child work out the growth for each kind of breath. Ask what the child thinks the numbers show, which numbers show it, and why. Compare it with the first guess. Do not explain yet.  
   *Parent says:* Subtract the small number from the big number for each breath. Which breath grew your chest the most? What does the tape show?  
   *Child mode:* Subtract to find the growth. Which breath grew your chest the most?
   - Ask: Why do you think the tape got longer when you breathed in? (good: My ribs moved out.; My chest got bigger.; Air went in and filled my lungs.)
@@ -417,7 +417,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   - Note: Be honest about the result. If the waiting count was higher in all three pairs, that is real evidence that the heart starts getting ready before the body moves. If it was mixed, the effect may be too small to count by hand, and that is also a true result.
 ### a3 · The Pulse and the Breath: do they dance together? (15 min)
 - **safety:** Breathe slowly and gently and never strain. Stop if the child feels dizzy.
-- **record:** Write the dots counted in the in-breaths and the out-breaths, and work out beats per 10 seconds for each. Write which was higher.
+- **record:** Write the number of pencil dots (one dot for each beat) counted in the in-breaths and in the out-breaths, and work out beats per 10 seconds for each. Write which was higher.
 - **s1 (5 min)**  
   *Parent does:* Ask the child to sit still and practise for one minute. Breathe in for a count of 4 and out for a count of 6. A grown-up counts aloud.  
   *Parent says:* Breathe in slowly while I count to four. Breathe out slowly while I count to six. Let us practise for a minute.  
@@ -432,7 +432,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Parent does:* Count all the dots in the five in-sections, and then all the dots in the five out-sections. Divide the in-breath dots by 2, since five in-breaths take 20 seconds. Divide the out-breath dots by 3, since five out-breaths take 30 seconds. Compare the two numbers.  
   *Parent says:* Five in-breaths took twenty seconds, so divide those dots by two. Five out-breaths took thirty seconds, so divide those dots by three. Which number is bigger?  
   *Child mode:* Count the in-dots and the out-dots. Divide by 2 and by 3. Compare.
-  - Ask: Were there more beats for each 10 seconds while you breathed in or out? (good: More while I breathed in.; They were about the same.; More while I breathed out.)
+  - Ask: Were there more beats in every 10 seconds while you breathed in, or while you breathed out? (good: More while I breathed in.; They were about the same.; More while I breathed out.)
   - Note: Many families will see no difference, because the effect is a tiny speed-up and slow-down, and one missed dot can hide it. When it shows, the in-breath is a little faster. A heart monitor shows it clearly. Report what you see, and say whether it was the same on a second try. Do the whole round twice and add up the dots from both rounds before you divide, because more breaths make a tiny difference easier to see. If the two numbers are within one beat of each other, that is a normal result with hand counting, not a failure. A phone or watch with a pulse reader can show it more clearly.
 ### a4 · Clap the Animal Clocks: how fast is a heart? (15 min)
 - **safety:** Use only your hands to clap. Do not use sticks or bangers in the house.
@@ -443,18 +443,18 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Child mode:* Clap once every 2 seconds, for 10 seconds. How many claps?
   - Ask: How many claps did the elephant make in 10 seconds? (good: 5 claps.)
 - **s2 (5 min)**  
-  *Parent does:* Clap the child's heart at about 85 beats a minute, which is 14 claps in 10 seconds. Then clap the cat's heart at about 150 beats a minute, which is 25 claps in 10 seconds. First count your own pulse for 10 seconds and compare it with 14, because 14 claps is only a typical number.  
+  *Parent does:* First count your own pulse for 10 seconds. Then clap a child's heart at about 85 beats a minute, which is 14 claps in 10 seconds. Compare your own count with 14, because 14 claps is only a typical number. Then clap the cat's heart at about 150 beats a minute, which is 25 claps in 10 seconds.  
   *Parent says:* Your heart beats about eighty-five times a minute, so about fourteen claps in ten seconds. A cat's heart beats about a hundred and fifty times a minute. Try twenty-five claps in ten seconds.  
   *Child mode:* Clap 14 times in 10 seconds. Now clap 25 times in 10 seconds.
   - Ask: Which was harder to clap, the child or the cat? (good: The cat.; The cat was too fast to keep steady.)
-  - Note: Twenty-five claps in ten seconds is hard to keep even. It is fine if the child gets close. With 2 to 4 children: one claps, one times, and one counts the claps aloud, then swap. Everyone can also clap together. Heart rates here are about figures for resting animals, and real animals vary.
+  - Note: Twenty-five claps in ten seconds is hard to keep even. It is fine if the child gets close. With 2 to 4 children: one claps, one times, and one counts the claps aloud, then swap. Everyone can also clap together. The heart rates here are rough figures for resting animals, and real animals vary.
 - **s3 (5 min)**  
   *Parent does:* Work out how many claps a mouse and a hummingbird would need in 10 seconds. A mouse's heart beats about 600 times a minute, and a hummingbird's can reach about 1,200 times a minute in flight. Try to flutter your fingers as fast as you can for 10 seconds.  
   *Parent says:* A mouse's heart beats about six hundred times a minute. How many beats is that in ten seconds? A hummingbird's in flight can reach about twelve hundred times a minute. How many in ten seconds?  
   *Child mode:* A mouse's heart beats 600 times a minute. How many beats is that in 10 seconds?
   - Ask: How many beats would a mouse's heart make in 10 seconds? (good: 100 beats.; 600 divided by 6 is 100.)
   - Ask: Why do you think a small animal's heart beats faster than a big one's? (good: Small bodies lose heat fast.; Small bodies burn food faster for their size.; Small hearts squeeze less blood at a time.)
-  - Note: A mouse's heart makes 100 beats in 10 seconds, and a hummingbird's 200. Nobody can clap that fast, and that is the point. Reasons for the pattern are in the card on other bodies and other clocks.
+  - Note: A mouse's heart makes 100 beats in 10 seconds, and a hummingbird's 200. Nobody can clap that fast, and that is the point. Reasons for the pattern are in the explanation called Heart rates in other animals.
 
 ## Projects
 ### p1 · A Day in Pulse: two days, two lines (60 min, 2 days)
@@ -477,13 +477,13 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Parent does:* During the day, count the pulse at the other five moments. Count for 15 seconds, multiply by 4, and write it in the table. Write what you were doing.  
   *Parent says:* Through the day, stop at each of the moments in your table, count for fifteen seconds, and write the number.  
   *Child mode:* Count your pulse at each moment. Write the number and what you were doing.
-  - Note: Count right after play, before the child sits down. Counts after meals are done sitting quietly for a minute first.
+  - Note: Count right after play, before the child sits down. After a meal, the child sits quietly for a minute before the count.
 - **s4 (20 min)**  
-  *Parent does:* On day 2, count at the same six moments. Then draw a graph with the time of day along the bottom and beats per minute up the side. Draw day 1 in one colour and day 2 in the other.  
+  *Parent does:* On day 2, count at the same six moments. Then draw a graph with the time of day along the bottom and beats per minute up the side. Draw day 1 in one colour and day 2 in another colour.  
   *Parent says:* Today we count at the same six moments. Then we draw both days on one graph, in two colours.  
   *Child mode:* Count again at the same six moments. Draw both days on one graph.
 - **s5 (10 min)**  
-  *Parent does:* Look at the two lines together. Ask what is the same and what is different. Ask for a claim, the evidence and the reasoning about which moments were highest and lowest.  
+  *Parent does:* Look at the two lines together. Ask what is the same and what is different. Ask which moments were highest and lowest, which numbers show it, and why the child thinks so.  
   *Parent says:* Look at your two lines. What is the same on both days? What is different? What do you think caused each difference?  
   *Child mode:* Look at your two lines. What is the same? What is different?
   - Ask: What stayed the same on both days? (good: The highest point was after play.; The lowest point was in bed.)
@@ -506,7 +506,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Parent does:* Test sitting still. The child does 45 seconds of step-ups and sits straight down. After 45 seconds of sitting, count the pulse for 15 seconds. Write the number and multiply by 4.  
   *Parent says:* Do forty-five seconds of step-ups, then sit still for forty-five seconds. Then we count your pulse for fifteen seconds. This is the comparison.  
   *Child mode:* Step for 45 seconds. Sit still for 45 seconds. Count your pulse for 15 seconds.
-  - Note: The count covers the 45 to 60 second window after stopping. Use the same window for every test. Stop at once if the child feels dizzy.
+  - Note: The count runs from 45 to 60 seconds after stopping. Use the same timing for every test. Stop at once if the child feels dizzy.
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* After a full rest of at least 5 minutes, repeat the same step-ups. This time use the first idea for 45 seconds, then count the pulse for 15 seconds. Rest, and test the second idea in the same way.  
   *Parent says:* Same exercise, same count, but this time we try your idea. After a full rest, we try the second idea in the same way.  
@@ -518,11 +518,11 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   *Child mode:* Which idea worked best? By how many beats? How sure are you?
   - Ask: Which idea brought the pulse down the most, and by how many beats? (good: The slow breathing, by 8 beats.; Sitting still was as good as anything.)
   - Ask: How could you make the test more trustworthy? (good: Repeat each test three times.; Test on another day.; Ask another person to do the test.)
-  - Note: A difference of fewer than 8 beats a minute could easily be counting error. An honest answer is that no idea beat sitting still by much, and that repeating the test would help. Later tests start a little tired, which can make them look worse. To check, sit still once more at the end and compare it with the first sit. With 2 to 4 children: each child tests their own plan, and one child times for all. Do not run the step-ups side by side. Keep the cloth cool and damp from the tap, never cold from the fridge.
+  - Note: A difference of fewer than 8 beats a minute could easily be counting error. An honest answer is that no idea beat sitting still by much, and that repeating the test would help. In later tests the child starts a little tired, which can make those ideas look worse. To check, sit still once more at the end and compare it with the first sit. With 2 to 4 children: each child tests their own plan, and one child times for all. Do not run the step-ups side by side. Keep the cloth cool and damp from the tap, never cold from the fridge.
 
 ## Worksheets
 ### Pulse and Breath Detective (core) (core, 15 questions)
-1. (mcq) Rani counts 18 beats in 10 seconds. How many beats per minute is that?  
+1. (mcq) You count 18 beats in 10 seconds. How many beats per minute is that?  
    Options: 108 beats per minute / 28 beats per minute / 180 beats per minute  
    **Answer:** 108 beats per minute. *Why:* There are six 10-second spells in a minute. 18 times 6 is 108. If you chose 28, you added 10. If you chose 180, you multiplied by 10.
 2. (truefalse) You should feel your pulse with your thumb, because the thumb has the strongest pulse.  
@@ -534,8 +534,8 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
    **Answer:** A wave of stretch moving along the artery wall. *Why:* The heart pushes blood into the arteries, and their elastic walls stretch. The stretch travels as a wave at 5 to 10 metres a second, much faster than the blood.
 5. (order) Put these steps in the right order for counting a fair pulse.  
    **Answer:** ['Sit quietly for two minutes', 'Find the pulse with two fingers', 'Count the taps for exactly 15 seconds', 'Multiply the count by 4']. *Why:* A fair count starts with a calm body. You then find the pulse, count for the same time every time, and finish with the sum.
-6. (count) Zainab's pulse was 80 beats per minute at rest and 112 beats per minute after 15 seconds of step-ups. By how many beats per minute did it rise?  
-   **Answer:** 32. *Why:* 112 take away 80 is 32. So her pulse rose by 32 beats per minute in only 15 seconds.
+6. (count) A pulse was 80 beats per minute at rest and 112 beats per minute after 15 seconds of step-ups. By how many beats per minute did it rise?  
+   **Answer:** 32. *Why:* 112 take away 80 is 32. So the pulse rose by 32 beats per minute in only 15 seconds.
 7. (mcq) In a pulse test, the first count after stopping is a little lower than the highest pulse during the exercise. Why?  
    Options: The pulse starts to fall the moment you stop / The exercise was too easy / Counting is always wrong  
    **Answer:** The pulse starts to fall the moment you stop. *Why:* The brake on the heart comes back within seconds. By the time the first 15-second count is over, the pulse is already falling.
@@ -549,7 +549,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
    **Answer:** My pulse was 84 at rest. It rose to 108 after only 15 seconds of stepping, and to 140 after a minute. It changed the most in the first 15 seconds.. *Why:* A strong answer uses real numbers from the test and names the stretch where the change was biggest. The first 15 seconds usually show the steepest rise.
 12. (draw) Draw the shape of a pulse rising when exercise starts and falling when it stops. Mark with an arrow where it changes fastest.  
    **Answer:** A line that rises steeply at the start and then flattens, and then falls steeply after stopping and flattens again. The arrows point to the steepest parts.. *Why:* A strong drawing shows steep parts at the beginning of the rise and at the beginning of the fall, with flatter parts after them.
-13. (write) You held your breath for five seconds. What did your body want to do, and what does it tell you about who runs your breathing?  
+13. (write) In the activity Two Clocks, you held your breath for five seconds. What did your body want to do, and what does that tell you about who runs your breathing?  
    **Answer:** My body wanted to breathe. Breathing is run by my brainstem all the time, and I can take over for a short while, but the brainstem pushes me to breathe again.. *Why:* A strong answer says that breathing is automatic, that you can steer it for a while, and that the body brings back the rhythm.
 14. (mcq) In a quiet breath, a tape round the chest grows only about 1 centimetre. Why does the tape not show all the extra room the lungs get?  
    Options: The diaphragm moving down adds room that the tape cannot see / The lungs do not grow when you breathe in / The tape is too long  
@@ -575,7 +575,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
    **Answer:** 100. *Why:* 10 seconds is one sixth of a minute. 600 divided by 6 is 100.
 8. (odd) Which one is the odd one out? Pulling your hand off a hot tava, jumping at a loud bang, your leg kicking when the doctor taps your knee, or deciding to wave at a friend.  
    **Answer:** Deciding to wave. The other three are reflexes that happen without a decision.. *Why:* A reflex is a very fast automatic reaction. Waving is a choice that starts in the thinking part of the brain.
-9. (mcq) Here is a made-up graph of a child's pulse. Between which two points does the pulse rise fastest for each second?  
+9. (mcq) Here is a made-up graph of a child's pulse. Between which two points does the pulse rise the most in each second?  
    Options: Rest to 15 seconds / 15 seconds to 30 seconds / 30 seconds to 60 seconds  
    **Answer:** Rest to 15 seconds. *Why:* In the first 15 seconds the pulse rose by 24 beats, which is about 1.6 beats every second. Later it rose more slowly.
 10. (mcq) Why is it dangerous to breathe fast and deep many times before holding your breath underwater?  
@@ -586,19 +586,19 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
 12. (write) In your own words, explain why a resting heart beats more slowly than its own pacemaker would. Use the word brake.  
    **Answer:** The pacemaker would beat at about 100 or more. A nerve called the vagus nerve sends steady signals that act like a brake and slow the pacemaker. At rest the brake is on, so the pulse is lower.. *Why:* A strong answer says that the pacemaker has its own faster speed, that a nerve slows it, and that the brake is on at rest.
 13. (write) A hummingbird is tiny and a blue whale is huge. Give one reason their hearts beat at such different speeds.  
-   **Answer:** A tiny hummingbird loses heat quickly and burns food very fast, so their cells need oxygen very fast and their heart beats over 1,000 times a minute. A blue whale is huge and can slow the heart to a few beats a minute when it dives.. *Why:* A strong answer says that small bodies burn food faster for their size, so they need a faster heart. It may also say that a diving whale slows the heart to save oxygen.
+   **Answer:** Tiny hummingbirds lose heat quickly and burn food very fast, so their cells need oxygen very fast and their hearts beat over 1,000 times a minute. A blue whale is huge and can slow the heart to a few beats a minute when diving.. *Why:* A strong answer says that small bodies burn food faster for their size, so they need a faster heart. It may also say that a diving whale slows the heart to save oxygen.
 14. (draw) Draw a side view of a chest breathing in and breathing out. Show the diaphragm and the ribs in both pictures.  
    **Answer:** Two pictures. Breathing in: the diaphragm is flat and the ribs are lifted. Breathing out: the diaphragm is domed upwards and the ribs are lower.. *Why:* A strong drawing shows the diaphragm flat and the ribs lifted for breathing in, and domed and lowered for breathing out.
 15. (label) Here is a picture of a heart with two nerves coming to it. Label what each part does.  
    **Answer:** ['Small patch at the top that starts each beat: pacemaker', 'Nerve that slows the pacemaker, the brake: vagus nerve', 'Nerve that speeds the pacemaker up, the gas: nerve that adds speed']. *Why:* The pacemaker starts the beats. The vagus nerve acts as a brake, and a second set of nerves, helped by adrenaline, acts as the gas.
-16. (perspective) Your pulse speeds up a little when you breathe in and slows down a little when you breathe out. Three friends argue about why.  
-   **Answer:** Answers vary. A strong answer picks one view, gives a reason, and suggests a test. For example, to test the first idea, measure how well the lungs swap gases when the heart follows the breath and when it does not.. *Why:* Scientists still do not agree about the reason. A good answer shows that you can say what evidence would change your mind.
+16. (perspective) Your pulse speeds up a little when you breathe in and slows down a little when you breathe out. Here are three ideas about why.  
+   **Answer:** Answers vary. A strong answer picks one idea, gives a reason, and suggests a test. For example, to test the first idea, measure how well the lungs swap gases when the heart follows the breath and when it does not.. *Why:* Scientists still do not agree about the reason. A good answer shows that you can say what evidence would change your mind.
 ### Think Like a Heart Scientist (challenge) (challenge, 15 questions)
-1. (write) Priya counts 21, 22 and 29 beats in three counts of 15 seconds at rest. She wants one number for her resting pulse. What should she do, and why?  
-   **Answer:** She should count again, because 29 is far from the other two and may be a miscount, or she may have moved. Then she can use the numbers that agree, such as 21 and 22, and say her pulse is about 86 beats per minute.. *Why:* A strong answer spots the odd number, offers a reason, and uses repeated counts to get a trustworthy number. A miscount of one beat in 15 seconds is 4 beats per minute.
+1. (write) You count 21, 22 and 29 beats in three counts of 15 seconds at rest. You want one number for your resting pulse. What should you do, and why?  
+   **Answer:** Count again, because 29 is far from the other two and may be a miscount, or you may have moved. Then use the numbers that agree, such as 21 and 22, and say the pulse is about 86 beats per minute.. *Why:* A strong answer spots the odd number, offers a reason, and uses repeated counts to get a trustworthy number. A miscount of one beat in 15 seconds is 4 beats per minute.
 2. (count) A child's heart beats 85 times a minute. About how many beats is that in one hour?  
    **Answer:** 5,100. *Why:* There are 60 minutes in an hour. 85 times 60 is 5,100.
-3. (write) After exercise, Kabir's pulse falls from 150 to 120 in the first minute. In the next minute it falls from 120 to 108. Explain why the second fall is smaller.  
+3. (write) After exercise, a pulse falls from 150 to 120 in the first minute. In the next minute it falls from 120 to 108. Explain why the second fall is smaller.  
    **Answer:** The brake on the heart comes back quickly, so the pulse falls fast in the first minute. After that the body is still warm and still has some adrenaline, so the pulse comes down slowly.. *Why:* A strong answer says that the fast part of the fall is the brake returning, and that the slow part is the body winding down. The first fall was 30 beats and the second was 12.
 4. (mcq) Doctors give a rested grown-up a drug that blocks the vagus nerve. What do they find?  
    Options: The pulse rises towards the pacemaker's own speed of about 100 / The pulse falls to nearly zero / Nothing changes  
@@ -616,7 +616,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
    **Answer:** ['You breathe in and hold', 'Carbon dioxide slowly builds up in the blood', 'Sensors notice the carbon dioxide', 'An urge to breathe grows', 'The brainstem forces you to breathe']. *Why:* Holding your breath lets carbon dioxide build up. Sensors notice it, and the urge grows until the brainstem takes over.
 10. (write) Many scientists once thought nerves could only make organs do more. What finding showed this was wrong, and why was it a surprise?  
    **Answer:** In 1845 two brothers, the Webers, sent a small current into the vagus nerve of a frog, and the heart slowed down. It was a surprise because people thought a nerve could only push an organ to work harder.. *Why:* A strong answer says that a nerve was shown to slow an organ, and that this was a surprise because nerves were thought to make organs do more.
-11. (count) After a minute of step-ups, a child's pulse is 140. After one minute of rest it is 110. Before the step-ups it was 84. How many of the extra beats gained were lost in the first minute of rest?  
+11. (count) Before step-ups, a child's pulse is 84. After a minute of step-ups it is 140. After one minute of rest it is 110. The step-ups added extra beats to the pulse. How many of those extra beats were lost in the first minute of rest?  
    **Answer:** 30. *Why:* The pulse rose from 84 to 140, which is 56 extra beats. After one minute of rest it was 110, so it had fallen by 140 take away 110, which is 30 beats.
 12. (draw) Draw a diagram of the two routes that control your breathing. Use arrows to show the automatic route from the brainstem and the take-over route from the thinking part of the brain.  
    **Answer:** A brain with two arrows. One arrow goes from the brainstem to the breathing muscles, marked automatic. A second arrow goes from the top of the brain to the same muscles, marked I decide.. *Why:* A strong drawing shows that both routes lead to the same muscles. This is why you can hold your breath, and why the body takes over again when you let go.
@@ -640,7 +640,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
 2. (mcq) Why does a resting heart beat more slowly than a heart with no nerves attached?  
    Options: A nerve keeps sending signals that slow the pacemaker / The heart is lazy when you rest / The lungs squeeze the heart  
    **Answer:** A nerve keeps sending signals that slow the pacemaker. *Why:* The vagus nerve acts like a brake on the pacemaker. A heart with no nerves attached beats at its own faster speed.
-3. (mcq) A child's pulse is 84 at rest, 108 after 15 seconds of step-ups and 140 after 60 seconds. When did the pulse rise the most for each second?  
+3. (mcq) A child's pulse is 84 at rest, 108 after 15 seconds of step-ups and 140 after 60 seconds. During which stretch was the pulse rising fastest?  
    Options: In the first 15 seconds / In the last 30 seconds / It rose by the same amount each second  
    **Answer:** In the first 15 seconds. *Why:* It rose by 24 beats in the first 15 seconds, which is about 1.6 beats a second. After that it rose by less than 1 beat a second (about 0.7), and then less.
 4. (mcq) What does your diaphragm do when you breathe in?  
@@ -659,7 +659,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
 9. (mcq) Which of these animals has the fastest heart at rest?  
    Options: A mouse / An elephant / A child  
    **Answer:** A mouse. *Why:* A mouse's heart beats about 600 times a minute. A child's beats about 85, and an elephant's about 30. Small bodies burn food faster for their size.
-10. (mcq) A frog's heart slows when the vagus nerve is stimulated. Which old idea did this surprise?  
+10. (mcq) A frog's heart slows when the vagus nerve is stimulated. Which old idea did this prove wrong?  
    Options: That nerves can only make organs do more / That frogs have hearts / That hearts beat  
    **Answer:** That nerves can only make organs do more. *Why:* Many scientists thought a nerve could only push an organ to work harder. The result showed that a nerve can also slow an organ.
 11. (mcq) A child counts 20, 21 and 29 beats in three counts of 15 seconds at rest. What is the best thing to do?  
@@ -687,12 +687,12 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
 - Children panting and laughing after a game of kho-kho or kabaddi.
 - A doctor at a clinic clipping a pulse oximeter on a child's finger and looking at the number.
 - A fitness band or a smartwatch showing a heart rate on someone's wrist.
-- Someone singing a long note or playing the shehnai and the nadaswaram, taking quick breaths in and long breaths out.
+- Someone singing a long note or playing the shehnai or the nadaswaram, taking quick breaths in and long breaths out.
 - A queue of runners at the start of a race, shaking out their arms and bouncing.
 - A hiccup that jerks your chest, which is your diaphragm giving a sudden pull.
 
 ## Open questions
-- **Why does the pulse speed up a little on every in-breath, and does that help the body?** Scientists have three main ideas, and none has been proved. It is hard to test, because the dance is hard to switch off.
+- **Why does the pulse speed up a little on every in-breath, and does that help the body?** Scientists have three main ideas, and none has been proved. It is hard to test, because this speed-up and slow-down is hard to switch off.
 - **How does the thinking part of the brain take over a rhythm that the brainstem makes?** Scientists know which parts of the brain are involved, but not how a decision becomes a signal to a muscle.
 - **Is there a limit to how many heartbeats a body can have in a life?** Many mammals have a similar number of heartbeats in a lifetime, but humans live much longer, and birds and bats break the pattern. Nobody agrees on the reason.
 - **How much does slow breathing change health over the long term?** Slow breathing clearly changes pulse and calm in the short term. Longer studies are still small, and results are mixed.
@@ -721,15 +721,15 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
 - What did the elephant's heart say to the mouse's heart? *Slow down, we have all day.*
 
 ## Connected maths
-- Three counts at rest were 20, 21 and 20 beats in 15 seconds. Then Dev counts 29 on the next try. Which is more likely to be right for his resting pulse, 84 or 116 beats per minute, and why? **84 beats per minute is more likely.**. 20, 21 and 20 times 4 give 80, 84 and 80. The count of 29 gives 116, which is far from the others. It was probably a miscount or came after he had moved. A mistake of one beat in 15 seconds is 4 beats a minute, so repeated counts are better than one. (queues `math.data.reading-data.L4`)
+- Three counts of your resting pulse were 20, 21 and 20 beats in 15 seconds. On the next try you count 29. Which is more likely to be your resting pulse, 84 or 116 beats per minute, and why? **84 beats per minute is more likely.**. 20, 21 and 20 times 4 give 80, 84 and 80. The count of 29 gives 116, which is far from the others. It was probably a miscount or came after you had moved. A mistake of one beat in 15 seconds is 4 beats a minute, so repeated counts are better than one. (queues `math.data.reading-data.L4`)
 - Look at the line graph of a child's pulse. How many beats a minute did it rise in the first 15 seconds, and how many in the next 45 seconds? Which stretch was faster? **24 beats a minute in the first 15 seconds, and 32 beats a minute in the next 45 seconds. The first stretch was more than twice as fast.**. From rest at 84 to 108 is 24. From 108 to 140 is 32. In the first stretch, 24 divided by 15 seconds is 1.6 beats each second. In the second, 32 divided by 45 seconds is about 0.7 beats each second. So the first stretch was more than twice as fast. (queues `math.data.line-graphs.L4`)
 - After a minute of step-ups, a child counts 44, 38, 34 and 31 beats in four 15-second windows in a row. What is the pulse in beats per minute for each window? How many beats a minute did it fall from the first window to the second, and from the third to the fourth? **176, 152, 136 and 124 beats per minute. It fell by 24 from the first to the second, and by 12 from the third to the fourth.**. 44 times 4 is 176, 38 times 4 is 152, 34 times 4 is 136, and 31 times 4 is 124. The fall from the first to the second is 176 take away 152, which is 24. The fall from the third to the fourth is 136 take away 124, which is 12. The fall slows down as the pulse comes back. (queues `math.multiplication.multiplication-facts.L4`)
 - A child's resting heart beats about 85 times a minute. About how many times does it beat in one whole day? **About 122,400 times.**. A day has 24 hours and each hour has 60 minutes, so a day has 24 times 60, which is 1,440 minutes. 85 times 1,440 is 122,400. So a child's heart beats more than a hundred thousand times every day. (queues `math.multiplication.multi-digit.L4`)
 - At rest, a child's heart pushes out about 40 millilitres of blood with each beat, and beats 85 times a minute. In hard exercise it pushes out about 55 millilitres and beats 160 times a minute. How much blood does it pump in a minute each way? How many times more is the exercise amount? **3,400 millilitres at rest and 8,800 millilitres in exercise. That is about 2.6 times more.**. At rest, 40 times 85 is 3,400. In exercise, 55 times 160 is 8,800. 8,800 divided by 3,400 is about 2.6. The heart does more by beating faster and by pushing out more blood with each beat. (queues `math.fractions.ratio-and-proportion.L4`)
-- In the Chest Tape test, a child's chest measures 61 and 62 centimetres in a quiet breath. In a deepest breath it goes from 61 to 66 centimetres. Slumped, her deepest breath goes from 60 to 63 centimetres. How much did the chest grow in each, and how many times bigger was the deepest growth than the quiet growth? **1 centimetre for quiet, 5 for deepest, and 3 for slumped. The deepest growth was 5 times the quiet growth.**. 62 take away 61 is 1. 66 take away 61 is 5. 63 take away 60 is 3. 5 divided by 1 is 5. Sitting up straight gave 2 centimetres more growth than slumping, since 5 take away 3 is 2. (queues `math.measurement-basics.standard-units.L4`)
+- In the Chest Tape test, a child's chest goes from 61 to 62 centimetres in a quiet breath. In a deepest breath it goes from 61 to 66 centimetres. Slumped, the deepest breath goes from 60 to 63 centimetres. How much did the chest grow in each, and how many times bigger was the deepest growth than the quiet growth? **1 centimetre for quiet, 5 for deepest, and 3 for slumped. The deepest growth was 5 times the quiet growth.**. 62 take away 61 is 1. 66 take away 61 is 5. 63 take away 60 is 3. 5 divided by 1 is 5. Sitting up straight gave 2 centimetres more growth than slumping, since 5 take away 3 is 2. (queues `math.measurement-basics.standard-units.L4`)
 - An elephant's heart beats about 30 times a minute, and a mouse's beats about 600 times a minute. In the 2 seconds between two elephant heartbeats, how many times does a mouse's heart beat? **20 times.**. The elephant's heart beats once every 2 seconds, since 60 divided by 30 is 2. In 2 seconds, a mouse's heart beats 600 divided by 30 times, which is 20. So a mouse's heart beats 20 times for each beat of an elephant's. (queues `math.division.division-facts.L4`)
 - In the Pulse Timeline test, a child steps up once every 2 seconds for a full minute, and her pulse is 140 beats per minute at the end. How many step-ups did she make in the minute, and about how many heartbeats came for each step-up? **30 step-ups, and between 4 and 5 heartbeats for each step-up.**. One step every 2 seconds gives 60 divided by 2, which is 30 steps. 140 divided by 30 is a little under 5, about 4.7. So there were between 4 and 5 heartbeats for each step. (queues `math.division.L4`)
-- A made-up child counted her pulse at six moments in a day. Lying in bed it was 72. After breakfast it was 88. At study time it was 84. Right after play it was 132. After dinner it was 90. In bed before sleep it was 76. What is the difference between her highest and lowest, and which two moments were within 4 beats of each other? **The difference is 60 beats a minute. Lying in bed (72) and in bed before sleep (76) were 4 apart. Breakfast (88) and dinner (90) were 2 apart, and study time (84) and breakfast (88) were 4 apart.**. The highest is 132 and the lowest is 72, and 132 take away 72 is 60. 76 take away 72 is 4. 90 take away 88 is 2, and 88 take away 84 is 4 as well. The sitting moments are all near each other, and play is far above them. (queues `math.data.line-graphs.L4`)
+- A pulse was counted at six moments in one day. Lying in bed it was 72. After breakfast it was 88. At study time it was 84. Right after play it was 132. After dinner it was 90. In bed before sleep it was 76. What is the difference between the highest and the lowest count, and which moments were within 4 beats of each other? **The difference is 60 beats a minute. Lying in bed (72) and in bed before sleep (76) were 4 apart. Breakfast (88) and dinner (90) were 2 apart, and study time (84) and breakfast (88) were 4 apart.**. The highest is 132 and the lowest is 72, and 132 take away 72 is 60. 76 take away 72 is 4. 90 take away 88 is 2, and 88 take away 84 is 4 as well. The sitting moments are all near each other, and play is far above them. (queues `math.data.line-graphs.L4`)
 
 ## Song
 This Body Is a Universe (sci.body.L4): Topic-level song
@@ -754,9 +754,9 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 - Which nerve acts as a brake on the heart? → The vagus nerve.
 - Which part of the pulse rise happens first when you start to run? → The brake easing off.
 - Which muscle flattens when you breathe in? → The diaphragm.
-- Is breathing automatic, steerable or both? → Both. It is automatic, and you can take over for a while.
+- Is breathing automatic, something you can take over, or both? → Both. It is automatic, and you can take over for a while.
 - Which animal has a faster heart, a mouse or an elephant? → A mouse.
-- What is the pulse you feel at your wrist? → A wave of stretch moving along the artery wall.
+- What is the pulse you feel at your wrist? → A ripple of stretching that moves along the artery wall.
 - Does a heart ever rest between beats? → Yes. It relaxes for a little more than half of every beat.
 
 ## Plan

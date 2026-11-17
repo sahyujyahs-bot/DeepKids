@@ -176,7 +176,7 @@
     {
       "concept": "The pulse is a wave, not the blood itself",
       "status": "defined",
-      "definition": "The pulse you feel in your wrist is a wave of stretch passing along the artery wall. It is not the same blood that left the heart a moment ago.",
+      "definition": "The pulse you feel in your wrist is a ripple of stretching that passes along the artery wall. It is not the same blood that left the heart a moment ago.",
       "description": "When the heart squeezes, it pushes a bit of blood into the aorta, the biggest artery. The elastic wall stretches and then springs back, and that stretch runs along all the arteries like a ripple along a rope you flick. The ripple moves at about 5 to 10 metres per second. That is much faster than the blood itself, which moves at well under one metre a second in the aorta and much more slowly in small vessels. So your wrist feels the tap almost at once, though the blood from that beat takes much longer to arrive.",
       "examples": [
         "A flick along a long rope sends a ripple down it, though the rope itself does not travel.",
@@ -349,7 +349,7 @@
       "hint": "Think about which parts of the body measure things, and which parts send signals."
     },
     {
-      "q": "When you hold your breath, who is doing the holding, and who is the one that gasps at the end? Are they both you?",
+      "q": "When you hold your breath, one part of you decides to hold it. At the end, a different part of you forces you to gasp. Are both of them you?",
       "kind": "big",
       "hint": "Think about which one of you decided, and which one did not."
     },
@@ -2312,7 +2312,7 @@
     },
     {
       "t": "mcq",
-      "p": "A child's pulse is 84 at rest, 108 after 15 seconds of step-ups and 140 after 60 seconds. When did the pulse rise the most in each second?",
+      "p": "A child's pulse is 84 at rest, 108 after 15 seconds of step-ups and 140 after 60 seconds. During which stretch was the pulse rising fastest?",
       "opts": [
         "In the first 15 seconds",
         "In the last 30 seconds",
@@ -2790,7 +2790,7 @@
     },
     {
       "q": "What is the pulse you feel at your wrist?",
-      "a": "A wave of stretch moving along the artery wall."
+      "a": "A ripple of stretching that moves along the artery wall."
     },
     {
       "q": "Does a heart ever rest between beats?",
@@ -2880,16 +2880,16 @@
       "evidence": "In the Pulse Timeline test, most of the rise in pulse came in the first 15 seconds, long before the muscles ran short of oxygen. A transplanted heart, with its nerves cut, beats faster at rest than a normal heart. In 1921, Otto Loewi showed that fluid from a frog heart slowed by the vagus nerve could slow a second frog heart."
     },
     "three": {
-      "who_am_i": "The signal that holds your heart back is made by your own body without you asking. 'You' includes a great deal that you never decide.",
-      "what_is_life": "A living heart makes its own rhythm. Taken out of a frog and put in the right salty water, the heart goes on beating. Rhythm is part of what being alive is.",
+      "who_am_i": "The signal that holds your heart back is made by your own body without you asking. So the 'you' that is your whole body includes a great deal that you never decide.",
+      "what_is_life": "A living heart makes its own rhythm. Taken out of a frog and put in the right salty water, the heart goes on beating. Having a steady rhythm of its own is part of what it means to be alive.",
       "what_is_this_world": "Heartbeats, breaths, days and tides are all rhythms. Living bodies keep their own time, and keep it in step with the world around them."
     },
-    "thread": "Your heart is made of billions of cells, and each one can beat alone. In the pacemaker, cells that touch fall into one shared rhythm, and the whole heart beats as one. A nerve from the brain then adjusts that single beat, and the lungs next door keep a rhythm that is linked to it. Many cells become one beat, and that one beat is steered from outside the heart. That is how a body is a single thing made of many.",
+    "thread": "Your heart is made of billions of cells, and each one can beat alone. In the pacemaker, cells that touch fall into one shared rhythm, and the whole heart beats as one. A nerve from the brain then adjusts that single beat, and the lungs next door keep a rhythm that is linked to it. So many cells become one beat, and a nerve from outside the heart steers that one beat. In this way a body is one thing that is made of many parts working together.",
     "teachings": [
       {
         "source": "Katha Upanishad 2.2.5",
         "teaching": "No mortal lives by the in-breath or the out-breath alone. They live by something else, on which both of these depend.",
-        "link": "In this unit, the rhythm of breath comes from cells in the brainstem, and both the in-breath and the out-breath depend on them. The old verse also points to something behind the breath."
+        "link": "In this unit, the rhythm of breath comes from cells in the brainstem, and both the in-breath and the out-breath depend on them. The old verse also says that something other than the breath itself keeps a being alive. Both breaths depend on that something."
       },
       {
         "source": "Bhagavad Gita 4.29",
@@ -2899,7 +2899,7 @@
       {
         "source": "Thich Nhat Hanh, Peace Is Every Step, 1991",
         "teaching": "Breathing in, I calm my body. Breathing out, I smile.",
-        "link": "A longer breath out is one of the few ways we can steer the heart's brake, and the tests in this unit are a way to see that it can work."
+        "link": "A longer breath out is one of the few ways that we can influence the brake on the heart. The tests in this unit let you see for yourself that this can work."
       }
     ],
     "science": [
@@ -2914,7 +2914,7 @@
     ],
     "other_view": {
       "who": "Most neuroscientists, and the old Indian Charvaka school",
-      "view": "The pacemaker, the brake and the choice to hold a breath are all signals between cells. There is no extra 'you' beyond the body who steers. The feeling of being the one who chooses is itself something the brain makes. This is an honest view, and many careful people hold it."
+      "view": "The pacemaker, the brake and the choice to hold a breath are all signals between cells. There is no separate 'you' outside the body who steers it. The feeling of being the one who chooses is itself something the brain makes. This is an honest view, and many careful people hold it."
     },
     "practice": {
       "title": "A longer breath out",
@@ -2923,12 +2923,12 @@
       "kid": "Sit still. Find your pulse. Breathe in for 4 counts. Breathe out for 6 counts. Do it five times. Does your pulse feel different? Who is breathing, you or your body?"
     },
     "ask": [
-      "When you hold your breath, who is holding, and who is gasping? Are they both you?",
+      "When you hold your breath, one part of you holds it, and another part of you makes you gasp. Are both of those parts you?",
       "If the brake on your heart is on even while you sleep, is that something you do, or something that is done to you?",
       "Do heart cells that fall into the same beat when they touch know about each other? How would you find out?"
     ],
     "art": "A child sitting still with a hand on her wrist, while a faint ring of rhythm spreads from her chest out into a room full of ticking clocks, tides and birds."
   },
   "playtest": "Read as a parent and a child in a city flat would use it, but not yet done with a real child at home. Pulse Timeline: the step needs to be low and firm, and the 15-second step-up round, the 30-second round and the 60-second round each need about 2 to 3 minutes of rest, so the whole test takes close to an hour, and the spine counts it as the one long investigation. Counts wobble by one or two beats, so look at the shape of the curve and not single numbers. The rise should be easy to see (about 20 to 30 beats a minute in the first 15 seconds), and the recovery windows should fall steadily. If a child cannot count a fast pulse, a grown-up can count the neck pulse, or the child can count for 10 seconds and multiply by 6. Chest Tape: a quiet breath moves the tape by only about 1 centimetre, so read it right at the end of each breath and repeat once. Slumping usually, but not always, shrinks the deepest breath. Waiting for the Bell: the effect is small, perhaps 1 to 3 beats in 15 seconds, and it may not show in every family. That is a true result, and the activity says so. Pulse and Breath Dance: many families will not see a difference by hand. Who Is in Charge: all 24 cards were checked against the three kinds, and the game works for one player by answering aloud. Facts checked: the blue whale rates (2 beats a minute in dives, up to 37 at the surface, Goldbogen 2019) and the Weber brothers' 1845 frog result were confirmed online. Still to confirm from a book or paper before release: the resting pulse and breathing ranges for ages 6 to 10, the pacemaker rate (about 100 to 115, Jose and Collison 1970), the pulse wave speed of 5 to 10 metres a second, the mouse and hummingbird rates, the Hayano 1996 and Wenger, Bagchi and Anand 1961 findings, and Loewi's dream account. The video entries still need their ids found.",
- "warm": {"words": ["PULSE", "HEART", "LUNGS", "NERVE", "BRAKE"], "quiz": [["A heart left on its own would beat faster than your resting heart.", true, "A nerve acts like a brake on the pacemaker, so a resting heart beats more slowly."], ["The heart cannot start a beat unless the brain tells it to.", false, "Pacemaker cells at the top of the heart start every beat by themselves."], ["The heart muscle gets a short rest between every beat.", true, "At rest, a little more than half of each beat's time is spent relaxed."], ["Your heart speeds up only after your muscles run short of oxygen.", false, "The pulse rises within seconds of starting exercise, long before oxygen runs low."], ["The pulse at your wrist is the same blood that just left the heart.", false, "It is a wave of stretch passing along the artery wall, not the blood itself."], ["Slow breathing can change your pulse, even though the heart beats automatically.", true, "You steer the pulse by other routes, such as breathing and feelings, not by commanding the heart."], ["You breathe in when the muscles under your lungs make your chest bigger.", true, "The air outside then pushes air into your lungs."], ["A lower resting pulse always means a healthier person.", false, "Children normally have higher pulses than grown-ups, and a very low pulse can come from illness."], ["Breathing is automatic, but you can also take it over for a while.", true, "Brainstem cells keep the rhythm going, and the thinking brain can take over the breathing muscles."], ["Breathing deeper is the only way to take in more air each minute.", false, "You can also breathe faster. Rate and depth are two ways, and often both change."]], "odd": [[["Vagus nerve signals", "Cold water on the face", "Holding your breath", "Start of a race"], "Start of a race", "The other three slow the heart; the start of a race speeds it up."], [["Diaphragm", "Rib muscles", "Chest getting bigger", "Pacemaker cells"], "Pacemaker cells", "The other three help you breathe in; the pacemaker cells start the heartbeat."], [["Beats per minute", "Breathing rate", "Resting pulse", "Breath depth"], "Breath depth", "The other three count something each minute; breath depth is how much air moves in one breath."], [["Pulse in your wrist", "Ripple on a pond", "Sound in air", "Blood in an artery"], "Blood in an artery", "The other three are waves passing through something; the blood is the liquid that the wave moves through."], [["Pacemaker starting a beat", "Breathing rhythm in the brainstem", "Vagus nerve braking the heart", "Holding your breath on purpose"], "Holding your breath on purpose", "The other three happen automatically; holding your breath is a choice made by the thinking brain."]]}
+ "warm": {"words": ["PULSE", "HEART", "LUNGS", "NERVE", "BRAKE"], "quiz": [["A heart left on its own would beat faster than your resting heart.", true, "A nerve acts like a brake on the pacemaker, so a resting heart beats more slowly."], ["The heart cannot start a beat unless the brain tells it to.", false, "Pacemaker cells at the top of the heart start every beat by themselves."], ["The heart muscle gets a short rest between every beat.", true, "At rest, a little more than half of each beat's time is spent relaxed."], ["Your heart speeds up only after your muscles run short of oxygen.", false, "The pulse rises within seconds of starting exercise, long before oxygen runs low."], ["The pulse at your wrist is the same blood that just left the heart.", false, "It is a ripple of stretching that passes along the artery wall, not the blood itself."], ["Slow breathing can change your pulse, even though the heart beats automatically.", true, "You steer the pulse by other routes, such as breathing and feelings, not by commanding the heart."], ["You breathe in when the muscles under your lungs make your chest bigger.", true, "The air outside then pushes air into your lungs."], ["A lower resting pulse always means a healthier person.", false, "Children normally have higher pulses than grown-ups, and a very low pulse can come from illness."], ["Breathing is automatic, but you can also take it over for a while.", true, "Brainstem cells keep the rhythm going, and the thinking brain can take over the breathing muscles."], ["Breathing deeper is the only way to take in more air each minute.", false, "You can also breathe faster. Rate and depth are two ways, and often both change."]], "odd": [[["Vagus nerve signals", "Cold water on the face", "Holding your breath", "Start of a race"], "Start of a race", "The other three slow the heart; the start of a race speeds it up."], [["Diaphragm", "Rib muscles", "Chest getting bigger", "Pacemaker cells"], "Pacemaker cells", "The other three help you breathe in; the pacemaker cells start the heartbeat."], [["Beats per minute", "Breathing rate", "Resting pulse", "Breath depth"], "Breath depth", "The other three count something each minute; breath depth is how much air moves in one breath."], [["Pulse in your wrist", "Ripple on a pond", "Sound in air", "Blood in an artery"], "Blood in an artery", "The other three are waves passing through something; the blood is the liquid that the wave moves through."], [["Pacemaker starting a beat", "Breathing rhythm in the brainstem", "Vagus nerve braking the heart", "Holding your breath on purpose"], "Holding your breath on purpose", "The other three happen automatically; holding your breath is a choice made by the thinking brain."]]}
 }

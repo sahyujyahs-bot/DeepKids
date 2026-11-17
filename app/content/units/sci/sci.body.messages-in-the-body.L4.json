@@ -3,7 +3,7 @@
  "title": "Nerves and hormones: the body's fast messages and slow messages",
  "level": 4,
  "summary": {
-  "text": "Touch a hot pot, and your hand pulls back before you feel any pain. Drink two tumblers of water, and your kidneys answer about half an hour later. Your body sends messages in two ways. Nerves carry fast messages along thin fibres to one exact place. Hormones are chemicals that travel in the blood and reach every part more slowly. Your child times a hormone message from a drink of water to the toilet. They also test what makes the mouth water, which is a reflex.",
+  "text": "Touch a hot pot, and your hand pulls back before you feel any pain. Drink two tumblers of water, and your kidneys answer about half an hour later. Your body sends messages in two ways. Nerves carry fast messages along thin fibres to one exact place. Hormones are chemicals that travel in the blood and reach every part more slowly. Your child drinks two tumblers of water and times how long it takes before the kidneys answer. This shows how slow a hormone message is. They also test what makes the mouth water, which is a reflex.",
   "art": "A child of nine pulling her hand back from a hot steel pot, with a thin yellow line drawn from her fingertip up her arm to her backbone and back to her arm muscle."
  },
  "intro": {
@@ -68,7 +68,7 @@
   {
    "term": "Reflex arc",
    "meaning": "The path that a reflex message takes. It runs from a sensor to the spinal cord or brain stem, and out to a muscle or gland.",
-   "example": "Hot pot, fingertip, arm nerve, spinal cord, arm nerve, arm muscle. That is one reflex arc.",
+   "example": "Your fingertip touches a hot pot. A signal runs up an arm nerve to the spinal cord. Then it runs back down an arm nerve to an arm muscle. That whole path is one reflex arc.",
    "art": "A simple line drawing of an arm and backbone with arrows going from a fingertip to the backbone and back to the upper arm."
   },
   {
@@ -86,7 +86,7 @@
   {
    "term": "Receptor",
    "meaning": "A tiny part on or in a cell that one kind of hormone fits, as a key fits a lock.",
-   "example": "A heart muscle cell has receptors for adrenaline. A hair has none, because the part you see is not alive.",
+   "example": "A heart muscle cell has receptors for adrenaline. A hair has no receptors, because the part of a hair that you can see is not alive.",
    "art": "A round cell with small cup-shaped parts on the surface, and one small shape fitting exactly into one cup."
   },
   {
@@ -104,7 +104,7 @@
   {
    "term": "ADH",
    "meaning": "A hormone that tells the kidneys to save water. It is released by a small gland under the brain.",
-   "example": "On a hot day you have more ADH in your blood, so you make less pee and it is darker.",
+   "example": "On a hot day you have more ADH in your blood. So you make less urine, and the urine is darker.",
    "art": "Two kidneys with a small gland drawn under the brain above them, and a dotted arrow running from the gland down to the kidneys."
   }
  ],
@@ -124,7 +124,7 @@
    "art": "A child's body outline drawn twice: one with thin yellow lines branching from the backbone, the other with red blood vessels and small coloured dots flowing through them."
   },
   {
-   "concept": "A nerve signal is a wave of ions moving along a fibre",
+   "concept": "A nerve signal is a wave of electrical change moving along a fibre",
    "status": "defined",
    "definition": "A nerve signal is a short electrical change that moves along a nerve fibre. It is made by ions crossing the skin of the fibre.",
    "description": "A nerve fibre is a long, thin part of a neuron. Salty liquid lies inside it and outside it. The salt is there as ions, which are atoms with a small electric charge. When a signal starts, tiny gates open in the skin of the fibre. Sodium ions rush in at that spot. This makes the gates just ahead open too, and so the change moves along. The ions themselves hardly travel. The change is what travels, as a fall travels along a row of dominoes. The fastest nerve fibres carry a signal at about 100 metres per second. The slowest carry it at about 1 metre per second. Electricity in a copper wire is millions of times faster. After each signal, tiny pumps push the ions back, and this uses energy from food.",
@@ -243,7 +243,7 @@
    "concept": "Where the message systems came from",
    "status": "idea",
    "definition": "",
-   "description": "Chemical messages are far older than nerves. Bacteria give off chemicals that other bacteria sense and act on. They were doing this billions of years before any animal lived. Sponges are animals with no neurons at all. Their cells still signal to each other with chemicals, and a sponge can squeeze their whole body slowly. Jellyfish have a net of neurons spread through the body, with no brain. Animals with a head and a tail came later, and their neurons gathered into a brain and a cord. Scientists think the first neurons appeared more than 600 million years ago. Nobody knows exactly how. One idea is that neurons began as ordinary cells that sent chemical messages to their neighbours. Over time some of them grew long fibres. The chemical was then let out far away, right next to its target. If so, a synapse is a very small, very private hormone message.",
+   "description": "Chemical messages are far older than nerves. Bacteria give off chemicals that other bacteria sense and act on. They were doing this billions of years before any animal lived. Sponges are animals with no neurons at all. Their cells still signal to each other with chemicals, and a sponge can squeeze their whole body slowly. Jellyfish have a net of neurons spread through the body, with no brain. Animals with a head and a tail came later, and their neurons gathered into a brain and a cord. Scientists think the first neurons appeared more than 600 million years ago. Nobody knows exactly how. One idea is that neurons began as ordinary cells that sent chemical messages to their neighbours. Over time some of them grew long fibres. The chemical was then let out at the far end of the fibre, right next to its target. If so, a synapse works like a hormone message that has been made very small and very private. The chemical goes only to the one cell next to it.",
    "examples": [
     "Bacteria in a group sense how many neighbours they have by the chemicals around them.",
     "A sponge has no nerves, yet they can slowly squeeze water out of their body.",
@@ -330,9 +330,9 @@
    "hint": "The message turned round in your spinal cord. Is your spinal cord part of 'you'?"
   },
   {
-   "q": "A hormone passes every cell, but only cells with the receptor answer. Is it a message to the other cells?",
+   "q": "A hormone passes every cell, but only cells with the receptor answer. Is the hormone still a message to the cells that do not answer?",
    "kind": "deep",
-   "hint": "Think of a letter in a language you cannot read."
+   "hint": "Think of a letter written in a language you cannot read. Is it a message for you?"
   },
   {
    "q": "After a fright your heart pounds for minutes. Is the fear in your brain, in your blood, or in both?",
@@ -345,7 +345,7 @@
    "hint": "There may be more than one good answer."
   },
   {
-   "q": "Hormones were found by a test on a dog who was asleep and did not wake again. The finding has helped millions. Was the test right?",
+   "q": "Hormones were found by tests on dogs. In one test, the dog was put to sleep with a drug and did not wake up again. The finding has helped millions of people. Was the test right?",
    "kind": "big",
    "hint": "People argued about this in London at the time. Laws on such tests are much stricter now."
   },
@@ -1537,7 +1537,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Put one drop into the second tumbler and stir once with the spoon. Count the seconds until the colour is even. Then talk about the questions below.",
-     "say": "Now one drop and one stir. Count the seconds until the colour is even. In your body, what does the stirring?",
+     "say": "Now one drop and one stir. Count the seconds until the colour is even. In your body, what does the job that the spoon did?",
      "kid": "One drop, one stir. Count the seconds until the colour is even.",
      "ask": [
       {
@@ -3051,7 +3051,7 @@
    "what_is_life": "Every living being sends messages inside their own body. Plants and bacteria send theirs with chemicals and electrical signals, without any neurons.",
    "what_is_this_world": "The sodium that carries your nerve signals is the same sodium as in sea salt. Your messages are made from the ordinary matter of the Earth."
   },
-  "thread": "You began as one cell. That cell divided again and again, and the cells became different from each other: skin, nerve, kidney and bone. Messages are what keep those trillions of cells working as one body. Many sages taught that the many come from the One and stay joined to it. In a body you can see one way that many parts stay one: they never stop sending each other news.",
+  "thread": "You began as one cell. That cell divided again and again, and the cells became different from each other: skin, nerve, kidney and bone. Messages are what keep those trillions of cells working as one body. Many traditions teach that everything comes from one source and stays joined to it. In a body you can see one way this is true. The many parts stay one body because they never stop sending each other news.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 5.1.6 to 5.1.15",

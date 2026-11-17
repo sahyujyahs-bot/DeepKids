@@ -274,7 +274,7 @@
    "concept": "Down to the genes: how a body makes billions of shapes",
    "status": "defined",
    "definition": "Your B cells build their antibody genes by picking pieces at random from lists and joining them, so a few hundred pieces can make billions of shapes.",
-   "description": "You have only about 20,000 genes, yet your B cells can make billions of different antibodies. How? The gene for an antibody is not read from one place. Each new B cell picks one piece from each of three short lists and joins them. Then the cell adds a few random letters at the joins. Think of making a word by choosing one syllable from each of three bags. With ten syllables in each bag, you can make a thousand different words. Add random letters at the joins, and the number grows much larger. The Japanese scientist Susumu Tonegawa showed this shuffling in the 1970s, and won a Nobel Prize for it in 1987.",
+   "description": "You have only about 20,000 genes, yet your B cells can make billions of different antibodies. How? The gene for an antibody is not read from one place. Each new B cell picks one piece from each of three short lists and joins them. Then the cell adds a few random letters of its gene code at the joins. Think of making a word by choosing one syllable from each of three bags. With ten syllables in each bag, you can make a thousand different words. Add random letters at the joins, and the number grows much larger. The Japanese scientist Susumu Tonegawa showed this shuffling in the 1970s, and won a Nobel Prize for it in 1987.",
    "examples": [
     "Three bags of ten syllables give a thousand words.",
     "Each B cell shuffles in its own random way.",
@@ -300,7 +300,7 @@
     },
     {
      "who": "Researchers on the body's wider messaging",
-     "explanation": "The immune system may be better understood as one part of the body's signals, linked to sleep, stress and the gut, and not as a separate army."
+     "explanation": "The immune system may be better understood as working together with the nervous system and the hormones. It is linked to sleep, stress and the gut, so it is not a separate army on its own."
     }
    ],
    "art": "A large question mark above a shelf of Y-shaped keys, with a few keys lit and many keys dark."
@@ -382,12 +382,12 @@
  ],
  "big_questions": [
   {
-   "q": "Your body made defenders for germs that have never existed on Earth, before any germ arrived. Is that planning, or is it just a very large lottery?",
+   "q": "Before any germ arrives, your body makes defenders, even for germs that have never existed on Earth. Is that planning, or is it just a very large lottery?",
    "kind": "deep",
    "hint": "Think about the Key Shop test. Did anyone plan which key would fit?"
   },
   {
-   "q": "Edward Jenner first tested the first vaccine on an eight-year-old boy. It worked, but would it be allowed today? Who should decide, and how?",
+   "q": "Edward Jenner tested the very first vaccine on an eight-year-old boy. It worked, but would it be allowed today? Who should decide, and how?",
    "kind": "big",
    "hint": "Think about what Jenner knew, what he did not know, and what we require now."
   },
@@ -442,7 +442,7 @@
    "“On purpose,” he said slowly. “And I am not sure I should. But if I am right, it could save many lives.”",
    "The boy was James Phipps, who was eight. He was the son of Jenner's gardener. James rolled up his sleeve and held out his arm. Jenner made two small scratches on it and pressed in the liquid from Sarah's hand. James winced and then grinned.",
    "Sarah went back to her cows. But she could not stop thinking about it.",
-   "“Why should a cow's sickness stop a person's sickness?” she asked Blossom as she milked. Blossom flicked her tail. “They are two different sicknesses.”",
+   "“Why should a cow's sickness stop a person's sickness?” she asked Blossom as she milked. Blossom only flicked her tail. So Sarah answered herself. “They are two different sicknesses, after all.”",
    "She turned it over all that week. And then, one evening, she thought of something.",
    "There were two cows at the farm that looked almost alike. Blossom and her sister, Primrose, were both brown, and both had a star on their foreheads. Strangers could not tell them apart. Sarah could, but only by the notch in Primrose's ear. If Sarah had only ever met Primrose, she would still stop Blossom at the gate and say, “Hello, Primrose.” She would be nearly right.",
    "Sarah put down the pail. “That's it,” she whispered. “The body must keep a picture of every sickness it has beaten. Then it knows that sickness next time. And cowpox and smallpox must look nearly alike. So the picture of one nearly fits the other.”",
@@ -481,10 +481,10 @@
   },
   "three": {
    "who_am_i": "Your body carries defenders for germs that have not been born yet. So part of you is ready for things you have never met and know nothing about.",
-   "what_is_life": "A living being holds many answers in advance and lets the world choose among them. This is how a body learns, and how living things change over many lifetimes.",
-   "what_is_this_world": "Germs and bodies change each other. When a body gets better at stopping a germ, the germs that slip past spread best. Neither side ever finishes."
+   "what_is_life": "A living being makes many different possible answers before they are needed. Then the world decides which answer gets used. A body learns about germs in this way. Living things also change over many lifetimes in a similar way, because nature keeps the ones that fit.",
+   "what_is_this_world": "Germs and bodies change each other. When bodies get better at stopping a germ, the germs that slip past spread best. So the germs change, and then the bodies have to answer again. This goes on all the time and never comes to an end."
   },
-  "thread": "Before any germ arrives, your body makes billions of different shapes by shuffling a few hundred pieces. Each B cell holds one shape. When a germ fits one of them, that cell splits into a crowd of identical cells. So one set of genes can make a huge number of shapes, and each germ that arrives brings out the one that fits. This is the One and the many in a body: one source, many forms, and the world choosing among them.",
+  "thread": "Before any germ arrives, your body makes billions of different shapes by shuffling a few hundred pieces. Each B cell holds one shape. When a germ fits one of them, that cell splits into a crowd of identical cells. So one set of genes can make a huge number of different shapes. Each germ that arrives brings out the one shape that fits it. The body is the single source, and the many shapes all come from it. The world outside then decides which shape gets used.",
   "teachings": [
    {
     "source": "Charles Darwin, On the Origin of Species (1859), chapter 4",
@@ -494,7 +494,7 @@
    {
     "source": "Avatamsaka Sutra, as told in the Huayan tradition (Indra's net)",
     "teaching": "Think of a net with a jewel at every knot. Each jewel shows a reflection of every other jewel. Nothing stands alone.",
-    "link": "Your B cells together hold a reflection of every shape a germ could have. Like the jewels in the net, they mirror a world the body has not yet met."
+    "link": "Your B cells together cover nearly every shape a germ could have, long before any germ arrives. So your body holds a kind of picture of the world outside it, even of germs it has never met. In the same way, each jewel in the net shows all the others."
    },
    {
     "source": "Isha Upanishad, opening verse",
@@ -520,11 +520,11 @@
    "title": "Find your memory scar",
    "mins": 3,
    "say": "Find the small round scar on the top of your upper arm. Many children in India have one, from the BCG injection. If you cannot find it, put your hand there anyway. Close your eyes. Breathe in slowly. Imagine the many small cells resting in your body. Imagine one of them holding a memory of a germ from long ago. Breathe out slowly. Stay still for three breaths.",
-   "kid": "Find the small round scar on your upper arm. If there is none, put your hand there. Close your eyes. Breathe in slowly. Cells in your body are resting, ready. Some hold a memory. Breathe out. Do it three times."
+   "kid": "Find the small round scar on your upper arm. If there is none, put your hand there. Close your eyes. Breathe in slowly. The cells in your body are resting and ready. Some of them hold the memory of a germ. Breathe out. Do it three times."
   },
   "ask": [
    "If your body made defenders for germs that have never existed, what else might your body be ready for that you have never met?",
-   "When a B cell splits, are there two cells, or one cell in two places?",
+   "When a B cell splits into two, are there now two cells? Or is it still one cell, in two places?",
    "Is choosing from what was already made a kind of learning, or a different thing?"
   ],
   "art": "A child sitting still, with a faint outline of a long shelf of tiny Y-shaped keys inside her chest, and one key glowing softly."
@@ -1454,7 +1454,7 @@
        ]
       }
      ],
-     "think": "A body keeps its memory of one germ in cells, not in a mind. What would the puzzle be like if your hands remembered, but you did not?",
+     "think": "A body keeps its memory of a germ in cells, and not in a mind that thinks. Imagine your hands knew the six words but you did not. How would the puzzle feel then?",
      "parent": "The new words will usually take about as long as the first try, or a little less. That shows the speed-up was memory of those very words, as a memory cell remembers one germ. A strong answer says the puzzle is like memory cells because the second time is faster, and the new words are slow again because memory fits one thing. It is different because the body does it with cells and chemicals, not by thinking, and the memory can last for years. With siblings, one solves while another times, and then swap roles with new words.",
      "context": "This is the last step of Faster the second time. You compare the puzzle with the body, and say where the comparison stops working."
     }
@@ -1842,7 +1842,7 @@
       }
      ],
      "think": "Smallpox only lived in people, and it was easy to spot. Why would those two things help?",
-     "parent": "Strong answers say that smallpox only infected people, showed clear spots so cases could be found, and the vaccine gave strong memory. Teams went everywhere, found each case, and vaccinated the people around it. The cases ran out of paths.",
+     "parent": "Strong answers say that smallpox only infected people, showed clear spots so cases could be found, and the vaccine gave strong memory. Teams went everywhere, found each case, and vaccinated the people around it. In the end the germ had nobody left to spread to, so the cases stopped.",
      "context": "This is the last step of the smallpox timeline. You finish the poster and explain why smallpox could be stopped."
     }
    ]
@@ -2693,7 +2693,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Key Shop test, the average number of cells rose when each code had more flips. What does this show about a body's defender cells?",
+   "p": "In the Key Shop test, you made random cells by flipping coins. The average number of cells you needed rose when each code had more flips. What does this show about a body's defender cells?",
    "opts": [
     "The more shapes are possible, the more random cells are needed to find a match",
     "More flips make the germ weaker",

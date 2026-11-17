@@ -2204,7 +2204,7 @@
      "t": "truefalse",
      "p": "A person with one healthy kidney can live a full life.",
      "a": true,
-     "why": "True. One kidney can do the work of two. The kidney that stays grows larger and filters more.",
+     "why": "True. One healthy kidney is enough to clean the blood. The kidney that stays grows larger and filters more.",
      "outcome": 7
     },
     {
@@ -2879,7 +2879,7 @@
    [
     "A person can live with one healthy kidney.",
     true,
-    "One kidney can do the work of two."
+    "One healthy kidney is enough to clean the blood, and it grows larger to do more work."
    ],
    [
     "Urine is yellow because of the water we drink.",
@@ -2926,7 +2926,7 @@
      "Guava seeds"
     ],
     "Guava seeds",
-    "Carbon dioxide, urea and extra salt come out of the blood, but guava seeds never left the gut."
+    "Carbon dioxide, urea and extra salt come out of the blood. Guava seeds were never in the blood. They stayed inside the gut and passed straight through."
    ],
    [
     [
@@ -3028,7 +3028,7 @@
   "three": {
    "who_am_i": "About half the water in your body is replaced every week or two. Your body keeps its shape while the water and salt in it keep changing.",
    "what_is_life": "A living body takes things in, keeps what it needs for a while and lets the rest go. A body that stopped letting go would die within days.",
-   "what_is_this_world": "There is no place outside the world to throw things. The urea and the water that you let go are taken up by soil bacteria, plants, rivers and clouds."
+   "what_is_this_world": "There is no \"away\" to throw things to, because everything stays inside the same world. The urea and the water that you let go are taken up by soil bacteria, plants, rivers and clouds."
   },
   "thread": "The water in your urine was rain, river water and tap water before it was blood. The nitrogen in your urea was in the protein of a dal seed. Before that it was in the soil and the air. After the urea leaves you, bacteria in the soil turn the urea into food for plants. So the same atoms pass through cloud, plant, animal and soil in turn. The teacher Thich Nhat Hanh called this interbeing, which means that each thing is made of other things.",
   "teachings": [
@@ -3040,7 +3040,7 @@
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988), the chapter 'Roses and Garbage'",
     "teaching": "A rose becomes garbage within a few weeks, and garbage becomes compost that feeds the next rose. A good gardener looks at a rose and sees the garbage, and looks at garbage and sees a rose.",
-    "link": "Urea leaves your body as a waste and reaches a plant as food. The word 'waste' says what a thing is to one body at one time."
+    "link": "Urea leaves your body as a waste and reaches a plant as food. So the word 'waste' only describes what a thing is for one body at one moment. For another living being, the same thing can be food."
    }
   ],
   "science": [
@@ -3049,7 +3049,7 @@
     "status": "settled"
    },
    {
-    "text": "In 1953 the kidney scientist Homer Smith wrote about what sets the make-up of the blood. He said it is what the kidneys keep, more than what the mouth takes in. He also argued that this steady inner liquid allowed animals to leave the sea for the land.",
+    "text": "In 1953 the kidney scientist Homer Smith wrote about what decides what the blood is made of. He said it is decided mostly by what the kidneys keep, and less by what goes in through the mouth. He also argued that this steady inner liquid allowed animals to leave the sea for the land.",
     "status": "idea"
    }
   ],

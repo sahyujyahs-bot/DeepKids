@@ -8,7 +8,7 @@
   },
   "intro": {
     "hook": "Stand on one leg for 20 seconds and look at your foot. It seems still, but it is not. Your ankle is shaking a little, left, right, left. Why does a thing that looks still need so much movement?",
-    "text": "Your body keeps many things steady. You already know about warmth and water. Now look at sugar, breath, pulse and the black dots in your eyes. All of them stay near a good level, and all of them do it the same way. Something pushes up, and something else pushes down. Where the two pushes meet, the level stays. In this unit you find those two pushes in a plastic bottle, in your ankle, in your blood and in your eyes.",
+    "text": "Your body keeps many things steady. You already know about warmth and water. Now look at sugar, breath, pulse and the black dots in your eyes. All of them stay near a good level, and all of them do it the same way. Something pushes the level up, and something else pushes it down. The level stays steady at the point where the two pushes are equal. In this unit you find those two pushes in a plastic bottle, in your ankle, in your blood and in your eyes.",
     "art": "A child standing on one leg in a kitchen, with thin arrows drawn on the ankle pointing left and right, and a faint wobbly outline of the foot around it."
   },
   "outcomes": [
@@ -263,7 +263,7 @@
       "concept": "When a loop pushes the same way: positive feedback",
       "status": "defined",
       "definition": "Positive feedback is a loop in which a change causes more of the same change.",
-      "description": "Most body loops push back, but a few push forward on purpose and then stop. When you cut your finger, the first platelets that stick at the cut release chemicals that call more platelets, and more still, until a plug seals the hole. Once the cut is sealed, the calling stops. In a nerve cell, a small electrical change opens channels that cause a bigger change, so a nerve signal fires like a spark. A microphone too close to its speaker squeals the same way, because the sound gets louder each time round. Positive feedback is good for sealing a cut or sending a signal quickly. But it has to be switched off by something, or it runs away.",
+      "description": "Most body loops push back, but a few push forward on purpose and then stop. When you cut your finger, tiny sticky pieces of blood called platelets stick at the cut. They release chemicals that call more platelets, and then more still. Together they make a plug that seals the hole. Once the cut is sealed, the calling stops. In a nerve cell, a small electrical change opens channels that cause a bigger change, so a nerve signal fires like a spark. A microphone too close to its speaker squeals the same way, because the sound gets louder each time round. Positive feedback is good for sealing a cut or sending a signal quickly. But it has to be switched off by something, or it runs away.",
       "examples": [
         "A cut finger: more platelets call more platelets until the cut is sealed.",
         "A microphone and speaker squealing.",
@@ -350,7 +350,7 @@
     }
   ],
   "how_we_found_out": {
-    "story": "For thousands of years doctors knew a sad illness in which people grew thin and thirsty and their urine was sweet. Old Indian medical texts attributed to Sushruta call it madhumeha, honey urine, and say that ants gather where it falls. Nobody knew the cause. In 1889, in Strasbourg, Oskar Minkowski and Joseph von Mering took out a dog's pancreas to see how much the body needs this gland to digest fat. They thought the pancreas was only a digestive gland. Minkowski tested the dog's urine and found a lot of sugar. (A popular tale says flies crowding round the urine gave the clue, but Minkowski himself said it was not so.) So the pancreas did a second job, steering the sugar in the blood. In 1921, in Toronto, Frederick Banting and Charles Best, in John Macleod's laboratory, made an extract that lowered the sugar of a diabetic dog. James Collip purified it for people. In January 1922 a boy of fourteen, Leonard Thompson, was among the first to be treated, and the first whose recovery became famous.",
+    "story": "For thousands of years doctors knew a sad illness in which people grew thin and thirsty and their urine was sweet. Old Indian medical texts attributed to Sushruta call it madhumeha, honey urine, and say that ants gather where it falls. Nobody knew the cause. In 1889, in Strasbourg, Oskar Minkowski and Joseph von Mering took out a dog's pancreas to see how much the body needs this gland to digest fat. They thought the pancreas was only a digestive gland. Minkowski tested the dog's urine and found a lot of sugar. (A popular tale says flies crowding round the urine gave the clue, but Minkowski himself said it was not so.) So the pancreas had a second job. It helps to keep the sugar in the blood steady. In 1921, in Toronto, Frederick Banting and Charles Best, in John Macleod's laboratory, made an extract that lowered the sugar of a diabetic dog. James Collip purified it for people. In January 1922 a boy of fourteen, Leonard Thompson, was among the first to be treated, and the first whose recovery became famous.",
     "who": "Oskar Minkowski and Joseph von Mering, then Frederick Banting, Charles Best, John Macleod and James Collip",
     "when": "1889 to 1922",
     "wrong_idea": "That the pancreas was only a gland for digesting food, and had nothing to do with the sugar in the blood."
@@ -421,7 +421,7 @@
       "Devaki ran. She found the brown lump wrapped in paper, broke off a piece and put it in Ammal's hand. Then she held the tea glass to her mouth. For a minute, nobody said anything. Slowly the grey went out of Ammal's face.",
       "'I ate late,' said Ammal at last, 'and the needle did not wait for me. It pushed my sugar down, and nothing was there to push it back up.'",
       "'Your body used to do that?' said Devaki. 'Push it back up?'",
-      "'My body used to do both. When I was a girl, I ate a sweet and the sugar in my blood went up, and a little gland pushed it down. I ran all day and it went down, and the same body pushed it up. Two hands, you see. The one that pushes down stopped working when I was twelve. So now I do that push by hand, with the needle. And I have to guess how much.' She sipped her tea. 'Guess too much, and I wobble.'",
+      "'My body used to do both. When I was a girl, I ate a sweet and the sugar in my blood went up. Then my pancreas, a little gland behind my stomach, pushed it back down. I ran all day and it went down, and the same body pushed it up. Two hands, you see. The one that pushes down stopped working when I was twelve. So now I do that push by hand, with the needle. And I have to guess how much.' She sipped her tea. 'Guess too much, and I wobble.'",
       "'Like on the wire,' said Devaki.",
       "'Like the wire,' said Ammal. 'Only I wish I could do the wire without thinking, and the sugar too.' She patted the bucket. 'You did the wire without thinking tonight. Did you notice?'",
       "Devaki had not noticed. She had been doing nothing at all, very hard."
@@ -891,7 +891,7 @@
           "p": "In Late Warmer-Colder, a walker looks for a hidden coin while a helper calls 'warmer' or 'colder'. When the calls came late, the walker went past the coin. Explain why.",
           "lines": 3,
           "a": "The late call told them about where they were a few seconds before, not where they were now. By the time they heard 'warmer', they had already gone past the coin.",
-          "why": "A strong answer says the message was out of date. A correction based on old news goes past the target.",
+          "why": "A strong answer says the message was out of date. A correction based on where the walker was a few seconds ago goes past the target.",
           "outcome": 5
         },
         {
@@ -1088,7 +1088,7 @@
             "Hot water is heavier than cold water"
           ],
           "a": 0,
-          "why": "Nothing changes at first, so you turn the tap more. When the first change arrives, you have already turned too far. Late news causes overshoot.",
+          "why": "Nothing changes at first, so you turn the tap more. When the hot water finally arrives, you have already turned the tap too far. A message that arrives late makes the correction go too far.",
           "outcome": 5
         },
         {
@@ -1241,7 +1241,7 @@
           "p": "A driver steers a car in thick fog and swerves left and right. Use the idea of delay to explain why.",
           "lines": 4,
           "a": "In fog the driver sees the road late, so they correct for where the car was a moment ago. They steer too far, then too far the other way, like walking past the coin in Late Warmer-Colder.",
-          "why": "A strong answer says that the news is late, and a correction based on old news overshoots.",
+          "why": "A strong answer says that the driver sees the road late. A correction based on where the car was a moment ago goes too far.",
           "outcome": 5
         },
         {
@@ -2012,7 +2012,7 @@
               "Resting"
             ],
             "a": 0,
-            "why": "To stay up, your ankle keeps tilting a little and your muscles keep correcting it. Standing still is made of many small movements."
+            "why": "To stay up, your ankle keeps tilting a little and your muscles keep correcting it. Standing still is really many small movements, one after another."
           },
           "context": "In this step, you stand on one leg and your helper counts the shifts of your ankle."
         },
@@ -2363,7 +2363,7 @@
               "The coin moved"
             ],
             "a": 0,
-            "why": "A delayed message is out of date. By the time it arrived, you had moved on. A correction based on old news overshoots. Small, slow steps give the message time to catch up."
+            "why": "A delayed message is out of date. By the time it arrived, you had already moved on. A correction based on where you were a few seconds ago makes you go too far. Small, slow steps give the message time to catch up."
           },
           "context": "In this step, you play Warmer-Colder with calls that come late. This is Round 2."
         },
@@ -2459,7 +2459,7 @@
           "do": "Three times each day for three days, your child sits quietly for 3 minutes. Then they count the pulse for 15 seconds and a helper counts the breaths for 30 seconds. Write the numbers and one word for how they feel.",
           "say": "Sit still for three minutes. Count your pulse for fifteen seconds. I will count your breaths for thirty seconds. Write the numbers, and one word for how you feel: sleepy, calm, excited, hungry.",
           "kid": "Sit for three minutes. Count your pulse. Your helper counts your breaths.",
-          "parent": "Take the readings at about the same times each day: just after waking, mid-afternoon, and just before bed. Sit and rest first, because even walking to the chair raises the pulse. Excitement, worry, illness and a big meal can change the numbers. Write how your child felt, to see the pattern. Counting for 15 seconds is only accurate to a few beats, so a small difference between two readings may be noise.",
+          "parent": "Take the readings at about the same times each day: just after waking, mid-afternoon, and just before bed. Sit and rest first, because even walking to the chair raises the pulse. Excitement, worry, illness and a big meal can change the numbers. Write how your child felt, to see the pattern. Counting for 15 seconds is only accurate to a few beats, so a small difference between two readings may only be a counting error, not a real change.",
           "context": "In this step, you take your measurements. You do this three times a day, for three days."
         },
         {
@@ -2722,7 +2722,7 @@
         "The tap gets tired"
       ],
       "a": 0,
-      "why": "A correction based on old news goes past the target. Waiting between small turns of the tap stops the swinging.",
+      "why": "A correction based on how things were a moment ago goes past the target. Waiting between small turns of the tap stops the swinging.",
       "outcome": 5
     },
     {
@@ -3020,7 +3020,7 @@
     },
     {
       "q": "Why do corrections that arrive late cause swinging?",
-      "a": "They are based on old news, so they go past the target."
+      "a": "They are based on how things were a moment ago, so they go past the target."
     },
     {
       "q": "Where is insulin made?",
@@ -3122,7 +3122,7 @@
       "what_is_life": "A living body stays itself by keeping things flowing through it: food and water in, heat and waste out. The levels stay the same while the material passing through keeps changing.",
       "what_is_this_world": "A river keeps its shape while its water changes every second. A star keeps its size because gravity pulling in meets pressure pushing out."
     },
-    "thread": "The same pattern shows up again and again: a pair of opposites that balance. In and out, up and down, pull and push. In the Level Bottle, the trickle and the leak balance at one level. In the ankle, the pull to the left balances the pull to the right. In the blood, insulin balances glucagon. In a star, gravity balances pressure. The steady things we see are places where two pushes balance. Nothing has to sit in the middle and hold them still.",
+    "thread": "The same pattern shows up again and again: a pair of opposite pushes that balance each other. In and out, up and down, pull and push. In the Level Bottle, the trickle and the leak balance at one level. In the ankle, the pull to the left balances the pull to the right. In the blood, insulin balances glucagon. In a star, gravity balances pressure. The steady things we see are places where two pushes balance. Nobody has to stand in the middle and hold them in place. The balance comes from the two pushes themselves.",
     "teachings": [
       {
         "source": "Tao Te Ching 77",
@@ -3142,7 +3142,7 @@
     ],
     "science": [
       {
-        "text": "Claude Bernard, a French physiologist, argued in the 1800s that a body must keep its inside steady in order to live freely. Walter Cannon named the idea homeostasis in 1926.",
+        "text": "Claude Bernard, a French physiologist, argued in the 1800s that a body can only live freely if its inner conditions stay steady. The outside keeps changing, but the inside must not. Walter Cannon named the idea homeostasis in 1926.",
         "status": "settled"
       },
       {
@@ -3172,5 +3172,5 @@
     "art": "A child standing on one leg by a river at dusk, with faint arrows at the ankle pulling left and right and a star beginning to show overhead."
   },
   "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Level Bottle: the bottle, hole and tap trickle were worked out from the way water leaves a hole, so the steady level rises as the trickle speeds up. The exact levels depend on the hole and the tap, so the steps say to write down what you see. A hole that is too big never fills, and a trickle that is too fast goes over the rim, and the steps say what to do then. Recovery Race: a grown-up must stay with the child. Pulse counting is hard at first, so practise at rest. Pupil Gauge: very dark brown eyes make the pupil hard to see, so a lamp at the side or a phone film is suggested. Sugar See-Saw: the cards and the rules were read through for a full game, but not played with a real family. Late Warmer-Colder works in any room. Facts checked against sources: about 4 to 5 grams of glucose in a grown-up's blood (Harvard BioNumbers gives about 4 g, so 'about' stays), the resting pulse and breathing ranges (softened to 16 to 25 breaths), about 101 million people with diabetes in India (Lancet 2023), ants and honey urine in the Sushruta texts (secondary sources only), and the one-dollar patent sale (confirmed; 'each' removed). The flies story is disputed and was removed. The three videos have no address yet. Feasibility review: Level Bottle settles slowly in a wide bottle, so the steps now read until two readings match and keep the water between tests. Pupil Gauge: reading a pupil by eye in one second is hard, so a phone film and a cover test are the main methods. Not yet tried by a family.",
- "warm": {"words": ["SUGAR", "PULSE", "PUPIL", "BLOOD", "LEVEL"], "quiz": [["When blood sugar goes up, the body pushes it back down.", true, "Negative feedback pushes against a change, so the level comes back to steady."], ["A steady blood sugar level means nothing is happening in the body.", false, "A steady level is two flows that match: sugar goes in and out all the time."], ["The bigger a change is, the smaller the push back in negative feedback.", false, "In negative feedback the bigger the change, the bigger the push back against it."], ["Insulin and glucagon push blood sugar in opposite directions.", true, "An opposing pair lets the body correct a level that went too high or too low."], ["Low oxygen is the main thing that makes you feel the urge to breathe.", false, "Rising carbon dioxide in the blood is the main signal. Low oxygen matters only a little."], ["Your pupils get smaller in bright light without you deciding anything.", true, "A quick automatic loop through the brainstem changes the size of the pupil, and it needs no thought."], ["Eating sugar is what causes type 1 diabetes.", false, "Type 1 happens when the body's own defences destroy the cells that make insulin."], ["A correction that arrives late can push a level past its target.", true, "While the delay lasts the push carries on, so the level overshoots before it settles."], ["The body holds each thing at one fixed set point that never changes.", false, "Set points move: the body is cooler in the early morning, warmer in the afternoon and in fever."], ["After hard exercise, your pulse falls fast at first and then more slowly.", true, "Pulse falls back to rest in a curve, with the biggest drop at the start."]], "odd": [[["Pupils shrink in bright light", "Sweating when hot", "Insulin after a meal", "Snowball rolling downhill"], "Snowball rolling downhill", "The other three push back against a change; a snowball grows bigger, so the change makes more change."], [["Pupil getting smaller", "Pulse rising in exercise", "Gut churning food", "Choosing to run"], "Choosing to run", "The other three happen automatically without a decision; running is something you decide to do."], [["Glucagon", "Liver letting out stored sugar", "Eating a sweet", "Insulin"], "Insulin", "The other three raise the sugar in the blood; insulin takes sugar out of the blood and lowers it."], [["Bath with tap and drain both open", "Level Bottle with water pouring through", "Blood sugar between meals", "Water in a closed glass"], "Water in a closed glass", "The other three stay steady because flow in matches flow out; the closed glass has no flow at all."], [["Insulin", "Glucagon", "Adrenaline", "Pulse"], "Pulse", "The other three are hormones, chemical messages in the blood; the pulse is a wave of stretch in an artery."]]}
+ "warm": {"words": ["SUGAR", "PULSE", "PUPIL", "BLOOD", "LEVEL"], "quiz": [["When blood sugar goes up, the body pushes it back down.", true, "Negative feedback pushes against a change, so the level comes back to steady."], ["A steady blood sugar level means nothing is happening in the body.", false, "A steady level is two flows that match: sugar goes in and out all the time."], ["The bigger a change is, the smaller the push back in negative feedback.", false, "In negative feedback the bigger the change, the bigger the push back against it."], ["Insulin and glucagon push blood sugar in opposite directions.", true, "An opposing pair lets the body correct a level that went too high or too low."], ["Low oxygen is the main thing that makes you feel the urge to breathe.", false, "Rising carbon dioxide in the blood is the main signal. Low oxygen matters only a little."], ["Your pupils get smaller in bright light without you deciding anything.", true, "A quick automatic loop through the brainstem changes the size of the pupil, and it needs no thought."], ["Eating sugar is what causes type 1 diabetes.", false, "Type 1 happens when the body's own defences destroy the cells that make insulin."], ["A correction that arrives late can push a level past its target.", true, "While the delay lasts the push carries on, so the level overshoots before it settles."], ["The body holds each thing at one fixed set point that never changes.", false, "Set points move: the body is cooler in the early morning, warmer in the afternoon and in fever."], ["After hard exercise, your pulse falls fast at first and then more slowly.", true, "Pulse falls back to rest in a curve, with the biggest drop at the start."]], "odd": [[["Pupils shrink in bright light", "Sweating when hot", "Insulin after a meal", "Snowball rolling downhill"], "Snowball rolling downhill", "The other three push back against a change; a snowball grows bigger, so the change makes more change."], [["Pupil getting smaller", "Pulse rising in exercise", "Gut churning food", "Choosing to run"], "Choosing to run", "The other three happen automatically without a decision; running is something you decide to do."], [["Glucagon", "Liver letting out stored sugar", "Eating a sweet", "Insulin"], "Insulin", "The other three raise the sugar in the blood; insulin takes sugar out of the blood and lowers it."], [["Bath with tap and drain both open", "Level Bottle with water pouring through", "Blood sugar between meals", "Water in a closed glass"], "Water in a closed glass", "The other three stay steady because flow in matches flow out; the closed glass has no flow at all."], [["Insulin", "Glucagon", "Adrenaline", "Pulse"], "Pulse", "The other three are hormones, which are chemical messages in the blood. The pulse is a beat you feel in an artery each time the heart pushes blood out."]]}
 }

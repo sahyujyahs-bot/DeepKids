@@ -1,7 +1,7 @@
 # Nerves and hormones: the body's fast messages and slow messages
 `sci.body.messages-in-the-body.L4`
 
-**Summary.** Touch a hot pot, and your hand pulls back before you feel any pain. Drink two tumblers of water, and your kidneys answer about half an hour later. Your body sends messages in two ways. Nerves carry fast messages along thin fibres to one exact place. Hormones are chemicals that travel in the blood and reach every part more slowly. Your child times a hormone message from a drink of water to the toilet. They also test what makes the mouth water, which is a reflex.
+**Summary.** Touch a hot pot, and your hand pulls back before you feel any pain. Drink two tumblers of water, and your kidneys answer about half an hour later. Your body sends messages in two ways. Nerves carry fast messages along thin fibres to one exact place. Hormones are chemicals that travel in the blood and reach every part more slowly. Your child drinks two tumblers of water and times how long it takes before the kidneys answer. This shows how slow a hormone message is. They also test what makes the mouth water, which is a reflex.
 
 **Intro.** *You step on a sharp plastic brick in the dark. Your foot lifts before you can say 'ow'. You did not choose to lift it. So who told your leg to move?* A nerve carried the message. It went from your foot to your spinal cord, which runs inside your backbone. The spinal cord sent a message straight back to your leg muscles. Your brain heard about it a moment later. A quick answer like this is called a reflex. Your body also sends slow messages. They are chemicals called hormones, and they travel in your blood. A hormone told your bones to grow this year. In this unit you time a slow message with two tumblers of water. You also test a reflex with drops of lemon juice.
 
@@ -23,13 +23,13 @@
 - **Synapse**: The tiny gap where a neuron passes a message on to the next cell. Chemicals carry the message across. *e.g.* A message from your fingertip crosses at least two synapses before it reaches your brain.
 - **Spinal cord**: A thick rope of neurons inside your backbone. It links your brain to the rest of your body. *e.g.* Run a finger down the bumps of your backbone. The spinal cord is inside those bones.
 - **Reflex**: A quick answer that your body gives without waiting for you to decide. *e.g.* You blink when something flies at your eye. Your mouth waters when sour juice touches your tongue.
-- **Reflex arc**: The path that a reflex message takes. It runs from a sensor to the spinal cord or brain stem, and out to a muscle or gland. *e.g.* Hot pot, fingertip, arm nerve, spinal cord, arm nerve, arm muscle. That is one reflex arc.
+- **Reflex arc**: The path that a reflex message takes. It runs from a sensor to the spinal cord or brain stem, and out to a muscle or gland. *e.g.* Your fingertip touches a hot pot. A signal runs up an arm nerve to the spinal cord. Then it runs back down an arm nerve to an arm muscle. That whole path is one reflex arc.
 - **Hormone**: A chemical message that a gland puts into the blood. The blood carries it to the whole body. *e.g.* Growth hormone tells your bones to grow longer.
 - **Gland**: A group of cells that makes something and sends it out. Some glands make hormones, and some make sweat, tears or saliva. *e.g.* The pancreas is a gland behind your stomach. It makes the hormone insulin.
-- **Receptor**: A tiny part on or in a cell that one kind of hormone fits, as a key fits a lock. *e.g.* A heart muscle cell has receptors for adrenaline. A hair has none, because the part you see is not alive.
+- **Receptor**: A tiny part on or in a cell that one kind of hormone fits, as a key fits a lock. *e.g.* A heart muscle cell has receptors for adrenaline. A hair has no receptors, because the part of a hair that you can see is not alive.
 - **Target cell**: A cell that has the receptor for a hormone. Only target cells answer that hormone. *e.g.* The cells of the kidney tubes are target cells for the hormone ADH.
 - **Adrenaline**: A hormone from two small glands above the kidneys. It gets the body ready for sudden hard work. *e.g.* After a sudden fright, adrenaline keeps your heart beating hard for some minutes.
-- **ADH**: A hormone that tells the kidneys to save water. It is released by a small gland under the brain. *e.g.* On a hot day you have more ADH in your blood, so you make less pee and it is darker.
+- **ADH**: A hormone that tells the kidneys to save water. It is released by a small gland under the brain. *e.g.* On a hot day you have more ADH in your blood. So you make less urine, and the urine is darker.
 
 ## Explanations
 ### The body has two ways to send a message · *defined*
@@ -40,7 +40,7 @@ Your body is made of trillions of cells, and they must work together. To do that
 - e.g. Nerve: your fingers move over the keys of a harmonium.
 - e.g. Hormone: your bones grow a few centimetres longer each year.
 - e.g. Hormone: after a meal, sugar moves out of your blood and into your muscles.
-### A nerve signal is a wave of ions moving along a fibre · *defined*
+### A nerve signal is a wave of electrical change moving along a fibre · *defined*
 **Definition:** A nerve signal is a short electrical change that moves along a nerve fibre. It is made by ions crossing the skin of the fibre.
 
 A nerve fibre is a long, thin part of a neuron. Salty liquid lies inside it and outside it. The salt is there as ions, which are atoms with a small electric charge. When a signal starts, tiny gates open in the skin of the fibre. Sodium ions rush in at that spot. This makes the gates just ahead open too, and so the change moves along. The ions themselves hardly travel. The change is what travels, as a fall travels along a row of dominoes. The fastest nerve fibres carry a signal at about 100 metres per second. The slowest carry it at about 1 metre per second. Electricity in a copper wire is millions of times faster. After each signal, tiny pumps push the ions back, and this uses energy from food.
@@ -100,7 +100,7 @@ Plants have no neurons. Yet plants sense, decide and send messages through their
 - **Plant scientists such as Jagadish Chandra Bose, and later Stefano Mancuso and Frantisek Baluska:** Plants carry electrical signals and use some of the same chemicals that animal neurons use. Bose measured such signals in Kolkata more than a hundred years ago. These scientists say plants have their own kind of signalling system, and they study it under the name plant neurobiology.
 - **Plant scientists such as Amedeo Alpi and more than 30 others, writing in 2007:** Plants have no neurons and no synapses, so the word 'neurobiology' misleads. On this view the signals are real, but they are automatic responses. They are better described in the plant's own terms.
 ### Where the message systems came from · *idea*
-Chemical messages are far older than nerves. Bacteria give off chemicals that other bacteria sense and act on. They were doing this billions of years before any animal lived. Sponges are animals with no neurons at all. Their cells still signal to each other with chemicals, and a sponge can squeeze their whole body slowly. Jellyfish have a net of neurons spread through the body, with no brain. Animals with a head and a tail came later, and their neurons gathered into a brain and a cord. Scientists think the first neurons appeared more than 600 million years ago. Nobody knows exactly how. One idea is that neurons began as ordinary cells that sent chemical messages to their neighbours. Over time some of them grew long fibres. The chemical was then let out far away, right next to its target. If so, a synapse is a very small, very private hormone message.
+Chemical messages are far older than nerves. Bacteria give off chemicals that other bacteria sense and act on. They were doing this billions of years before any animal lived. Sponges are animals with no neurons at all. Their cells still signal to each other with chemicals, and a sponge can squeeze their whole body slowly. Jellyfish have a net of neurons spread through the body, with no brain. Animals with a head and a tail came later, and their neurons gathered into a brain and a cord. Scientists think the first neurons appeared more than 600 million years ago. Nobody knows exactly how. One idea is that neurons began as ordinary cells that sent chemical messages to their neighbours. Over time some of them grew long fibres. The chemical was then let out at the far end of the fibre, right next to its target. If so, a synapse works like a hormone message that has been made very small and very private. The chemical goes only to the one cell next to it.
 - e.g. Bacteria in a group sense how many neighbours they have by the chemicals around them.
 - e.g. A sponge has no nerves, yet they can slowly squeeze water out of their body.
 - e.g. An octopus has about two thirds of their neurons in their arms.
@@ -148,7 +148,7 @@ In this unit you timed a slow message with two tumblers of water. You watched a 
 - *what is life:* Every living being sends messages inside their own body. Plants and bacteria send theirs with chemicals and electrical signals, without any neurons.
 - *what is this world:* The sodium that carries your nerve signals is the same sodium as in sea salt. Your messages are made from the ordinary matter of the Earth.
 
-You began as one cell. That cell divided again and again, and the cells became different from each other: skin, nerve, kidney and bone. Messages are what keep those trillions of cells working as one body. Many sages taught that the many come from the One and stay joined to it. In a body you can see one way that many parts stay one: they never stop sending each other news.
+You began as one cell. That cell divided again and again, and the cells became different from each other: skin, nerve, kidney and bone. Messages are what keep those trillions of cells working as one body. Many traditions teach that everything comes from one source and stays joined to it. In a body you can see one way this is true. The many parts stay one body because they never stop sending each other news.
 
 - **Chandogya Upanishad 5.1.6 to 5.1.15:** Speech, sight, hearing and the mind quarrel over who is the greatest. Each leaves the body for a year, and the body lives on without them. When the breath begins to leave, all the others are pulled up with it. They beg the breath to stay. (The story is about the breath, and it knows nothing of nerves or hormones. Yet it pictures a body as many powers that depend on each other, with none of them ruling alone. This unit found the same thing in the way the parts send and answer messages.)
 - **Zhuangzi, chapter 2, 'Discussion on Making All Things Equal':** Zhuangzi lists the hundred joints, the nine openings and the six organs of his body. He asks which of them he should feel closest to. He asks whether they are all servants, or whether they take turns as ruler. He leaves the question open. (This is the question that a reflex raises. Your spinal cord moved your hand, your kidneys answered the water, and your brain was told afterwards. Zhuangzi's question about which part rules is still a fair one.)
@@ -162,10 +162,10 @@ You began as one cell. That cell divided again and again, and the cells became d
 
 ## Deep and big questions
 - *deep:* Your hand pulls back from a hot pot before you feel pain. Who decided to move it? (hint: The message turned round in your spinal cord. Is your spinal cord part of 'you'?)
-- *deep:* A hormone passes every cell, but only cells with the receptor answer. Is it a message to the other cells? (hint: Think of a letter in a language you cannot read.)
+- *deep:* A hormone passes every cell, but only cells with the receptor answer. Is the hormone still a message to the cells that do not answer? (hint: Think of a letter written in a language you cannot read. Is it a message for you?)
 - *deep:* After a fright your heart pounds for minutes. Is the fear in your brain, in your blood, or in both? (hint: In 1884 the thinker William James asked whether we feel afraid because our heart pounds.)
 - *big:* Your kidneys, your heart and your gut each answer messages without asking your brain. Where in your body are you? (hint: There may be more than one good answer.)
-- *big:* Hormones were found by a test on a dog who was asleep and did not wake again. The finding has helped millions. Was the test right? (hint: People argued about this in London at the time. Laws on such tests are much stricter now.)
+- *big:* Hormones were found by tests on dogs. In one test, the dog was put to sleep with a drug and did not wake up again. The finding has helped millions of people. Was the test right? (hint: People argued about this in London at the time. Laws on such tests are much stricter now.)
 - *big:* A plant has no nerves, yet a bitten leaf sends a signal to the other leaves. What does a body need in order to send a message? (hint: Think about a sender, a path and a receiver that can answer.)
 
 ## Story: The Last Line of the Kolam
@@ -459,7 +459,7 @@ That evening the border was still there. One hand's length of it shook like a be
   - Note: After 3 minutes the colour is still in streaks and patches. Left alone, it would take hours to become even.
 - **s4 (3 min)**  
   *Parent does:* Put one drop into the second tumbler and stir once with the spoon. Count the seconds until the colour is even. Then talk about the questions below.  
-  *Parent says:* Now one drop and one stir. Count the seconds until the colour is even. In your body, what does the stirring?  
+  *Parent says:* Now one drop and one stir. Count the seconds until the colour is even. In your body, what does the job that the spoon did?  
   *Child mode:* One drop, one stir. Count the seconds until the colour is even.
   - Ask: In your body, what does the job of the spoon? (good: The heart.; The heart pumps the blood round, so the hormone is mixed in.)
   - Note: The model leaves one thing out. In the body, only cells with the right receptor answer the hormone. In the tumbler, the colour reaches everything alike.
