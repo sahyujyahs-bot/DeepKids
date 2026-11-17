@@ -149,7 +149,7 @@
    "concept": "Why seeds wait inside a fruit",
    "status": "defined",
    "definition": "Inside a juicy fruit, the juice holds the seeds back from sprouting. Once the flesh is gone, the seeds can sprout.",
-   "description": "In the Juice Test, seeds lying in tomato juice did not sprout, while washed seeds from the same tomato did. Scientists have found two reasons. First, the juice is full of dissolved sugars and salts, which hold on to water. So the seed cannot drink enough water to swell and start growing. Second, the juice holds a plant hormone that tells seeds to rest. When an animal eats the fruit, or the fruit rots, the flesh is gone. The seeds are then on soil, washed by rain, and they can sprout. Very rarely, in a tomato kept too long, the seeds do sprout inside the fruit.",
+   "description": "In the Juice Test, seeds lying in tomato juice did not sprout, while washed seeds from the same tomato did. Scientists have found two reasons. First, the juice is full of dissolved sugars and salts, which hold on to water. So the seed cannot drink enough water to swell and start growing. Second, the juice holds a plant hormone. A hormone is a chemical message, and this one tells seeds to rest. When an animal eats the fruit, or the fruit rots, the flesh is gone. The seeds are then on soil, washed by rain, and they can sprout. Very rarely, in a tomato kept too long, the seeds do sprout inside the fruit.",
    "examples": [
     "Seeds in a ripe papaya or guava sit in soft flesh for days without sprouting.",
     "Gardeners who save tomato seeds wash off the jelly first, so the seeds keep and sprout well.",
@@ -901,7 +901,8 @@
      "do": "End by asking your child why seeds don't sprout inside the fruit.",
      "say": "So the plant grows sweet fruit, and animals carry the seeds away. But why don't the seeds just sprout inside the fruit? We will test it in the Juice Test.",
      "kid": "Plants grow sweet fruit. Animals carry the seeds away. But why don't the seeds sprout inside the fruit?",
-     "think": "What might be in the fruit that keeps the seeds waiting?"
+     "think": "What might be in the fruit that keeps the seeds waiting?",
+     "parent": "Any guess with a reason is welcome. Write the guess down and keep it for the Juice Test, which answers this question."
     }
    ],
    "setup": [
@@ -973,7 +974,8 @@
      "do": "Talk about what the creature you moved does for other living things.",
      "say": "Spiders eat mosquitoes. Ants carry away crumbs and dead insects. What might this little creature do for the other living things around them?",
      "kid": "Spiders eat mosquitoes. Ants clear away crumbs. What might your creature do for others?",
-     "think": "Who might need the creature you just set free?"
+     "think": "Who might need the creature you just set free?",
+     "parent": "Many creatures need her. Spiders eat mosquitoes and flies. Ants clear away crumbs and dead insects. Lizards and birds eat beetles and moths. Accept any answer that says who eats the creature or what the creature does for others."
     }
    ],
    "setup": [
@@ -1503,7 +1505,7 @@
        }
       },
       {
-       "f": "Peepal fig (her flowers are inside; the wasp's young grow there)",
+       "f": "Peepal fig (her flowers are inside, and the fig wasp's young grow up there)",
        "img": {
         "src": "media/cards/interdependence-g1-0-03.jpg",
         "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
@@ -1517,7 +1519,7 @@
        }
       },
       {
-       "f": "Neem fruit (the crow eats her; the crow drops her seed far away)",
+       "f": "Neem fruit (the crow eats the fruit and drops the neem seed far away)",
        "img": {
         "src": "media/cards/interdependence-g1-0-05.jpg",
         "credit": "P Jeganathan, CC BY, via iNaturalist"
@@ -1539,7 +1541,7 @@
        }
       },
       {
-       "f": "Red chilli (the burn does not bother the bulbul; the bulbul carries her seeds)",
+       "f": "Red chilli (the burn does not bother the bulbul, and the bulbul carries the chilli seeds away)",
        "img": {
         "src": "media/cards/interdependence-g1-0-09.jpg",
         "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
@@ -1552,7 +1554,7 @@
         "credit": "Rejoice Gassah, CC BY, via iNaturalist"
        }
       },
-      "Mango (the monkey eats her flesh and drops the stone)",
+      "Mango (the monkey eats the mango flesh and drops the stone)",
       {
        "f": "Earthworm",
        "img": {
@@ -1560,7 +1562,7 @@
         "credit": "R K, CC BY, via iNaturalist"
        }
       },
-      "Plant roots (worm tunnels let air and water in; fallen leaves feed the worm)",
+      "Plant roots (worm tunnels let air and water reach the roots, and fallen leaves feed the worm)",
       {
        "f": "Cow",
        "img": {
@@ -1569,7 +1571,7 @@
        }
       },
       {
-       "f": "Grass (the cow eats grass; her dung feeds the soil where grass grows)",
+       "f": "Grass (the cow eats the grass, and the cow's dung feeds the soil where grass grows)",
        "img": {
         "src": "media/cards/interdependence-g1-0-15.jpg",
         "credit": "Haneesh K M, CC0, via iNaturalist"
@@ -1596,7 +1598,7 @@
         "credit": "sunnyjosef, CC BY, via iNaturalist"
        }
       },
-      "Big leaves (the leaves shelter her nest; she eats insects on the plant)",
+      "Big leaves (the leaves shelter the tailorbird's nest, and the tailorbird eats insects on the plant)",
       {
        "f": "Hawk moth in Madagascar",
        "img": {
@@ -1899,7 +1901,7 @@
       "The juice has no air"
      ],
      "a": 1,
-     "why": "A seed must drink water and swell to sprout. The sugars and salts in juice hold on to the water. The juice also has a plant hormone that tells seeds to rest."
+     "why": "A seed must drink water and swell to sprout. The sugars and salts in juice hold on to the water. The juice also has a plant hormone. A hormone is a chemical message, and this one tells seeds to rest."
     },
     {
      "t": "fill",
@@ -2671,5 +2673,5 @@
   ]
  },
  "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, in a city flat, with the materials listed. The Juice Test needs only a ripe tomato, two tiffin or takeaway boxes, tissue and a tea strainer. Washed tomato seeds on wet tissue usually show roots in 3 to 6 days in a warm Indian home, so the test runs 8 days; the steps say what to do if the room is cold or the tomato was picked green. The juice for topping up is kept in the fridge, because juice left out ferments. Mould may grow in Box J: the safety note says not to sniff it and to bin it in a closed bag, and Waiting or Dead tells the parent to leave mouldy seeds out. Seeds don't need light to sprout, so the boxes stay closed on top of the fridge. Ripe or Green relies on fruit flies, which are common in Indian kitchens but not certain, so it is outside the spine and says to count ants or house flies instead. The rice-flour kolam needs real rice flour or rava, since chalk kolams feed nobody. Cup and Card practises on a paper beetle when no creature turns up, and a grown-up handles anything that might sting. The tomato project needs a balcony or window with at least 5 hours of sun; a shady window gives thin plants with few flowers. It compares a tapped flower cluster with an untapped one on the same plant; with so few flowers, the result is a hint, not proof, and the steps say so. Timings were checked step by step. The spine (intro, the Fruit Bowl Question, the Juice Test set-up and daily checks, the explanation cards, Roots and the quiz) fits about 85 minutes over two sessions, plus 2 or 3 minutes a day of checking.",
- "warm": {"words": ["SEEDS", "FRUIT", "JUICE", "HONEY", "PLANT"], "quiz": [["Plants give animals food, shelter and the oxygen they breathe.", true, "Animals depend on plants for the things they need to live."], ["A seed must pass through an animal's tummy before the seed can sprout.", false, "For most plants, removing the juicy flesh is enough, and washed tomato seeds sprout with no animal."], ["Animals carry the pollen of most kinds of flowering plants.", true, "About 87 in every 100 kinds of flowering plant need an animal to carry their pollen."], ["Plants grow fruit so that animals and people have food.", false, "A fruit has a job in the plant's own life: getting her seeds carried away."], ["Without fig wasps, fig trees could not make seeds.", true, "Only a tiny fig wasp can get inside a fig to carry pollen between its flowers."], ["Bees visit flowers so that the flowers can make seeds.", false, "A bee may visit only for food, and some bees steal nectar without carrying any pollen."], ["Animal droppings and dead bodies feed the soil, and the soil feeds plants.", true, "Soil gets back what living things used, so plants can grow again."], ["Harming one kind of living thing only hurts that kind.", false, "Other living things depend on them for food, shelter, pollen or seeds, so the harm spreads."], ["A fig wasp's young can grow up only inside a fig.", true, "The fig tree and the fig wasp need each other, so neither can live apart."], ["In nature everyone only helps everyone, and nobody harms anybody.", false, "Living things also eat each other, compete and harm each other, as well as help."]], "odd": [[["Butterfly", "Sunbird", "Fruit bat", "Earthworm"], "Earthworm", "Butterflies, sunbirds and fruit bats drink nectar and carry pollen between flowers; earthworms do not visit flowers."], [["Mango", "Jamun", "Ber", "Dandelion fluff"], "Dandelion fluff", "Mango, jamun and ber are juicy fruits that animals eat and carry away; dandelion seeds fly on the wind."], [["Fig and wasp", "Bee and flower", "Sunbird and flower", "Tick on a dog"], "Tick on a dog", "In the first three both partners are helped; the tick feeds on the dog and harms her."], [["Carrying pollen", "Carrying seeds", "Feeding the soil", "Making oxygen"], "Making oxygen", "Animals carry pollen, carry seeds and feed the soil for plants; plants are the ones that give out oxygen."], [["Tomato juice", "Fruit flesh", "Wet pulp", "Washed seed"], "Washed seed", "Juice, flesh and pulp hold seeds back from sprouting; a washed seed is free to sprout."]]}
+ "warm": {"words": ["SEEDS", "FRUIT", "JUICE", "HONEY", "PLANT"], "quiz": [["Plants give animals food, shelter and the oxygen they breathe.", true, "Animals depend on plants for the things they need to live."], ["A seed must pass through an animal's tummy before the seed can sprout.", false, "For most plants, removing the juicy flesh is enough, and washed tomato seeds sprout with no animal."], ["Animals carry the pollen of most kinds of flowering plants.", true, "About 87 in every 100 kinds of flowering plant need an animal to carry their pollen."], ["Plants grow fruit so that animals and people have food.", false, "A fruit has a job in the plant's own life: getting her seeds carried away."], ["Without fig wasps, fig trees could not make seeds.", true, "Only a tiny fig wasp can get inside a fig to carry pollen between the flowers hidden there."], ["Bees visit flowers so that the flowers can make seeds.", false, "A bee may visit only for food, and some bees steal nectar without carrying any pollen."], ["Animal droppings and dead bodies feed the soil, and the soil feeds plants.", true, "Soil gets back what living things used, so plants can grow again."], ["Harming one kind of living thing only hurts that kind.", false, "Other living things depend on them for food, shelter, pollen or seeds, so the harm spreads."], ["A fig wasp's young can grow up only inside a fig.", true, "The fig tree and the fig wasp need each other, so neither can live apart."], ["In nature everyone only helps everyone, and nobody harms anybody.", false, "Living things also eat each other, compete and harm each other, as well as help."]], "odd": [[["Butterfly", "Sunbird", "Fruit bat", "Earthworm"], "Earthworm", "Butterflies, sunbirds and fruit bats drink nectar and carry pollen between flowers; earthworms do not visit flowers."], [["Mango", "Jamun", "Ber", "Dandelion fluff"], "Dandelion fluff", "Mango, jamun and ber are juicy fruits that animals eat and carry away; dandelion seeds fly on the wind."], [["Fig and wasp", "Bee and flower", "Sunbird and flower", "Tick on a dog"], "Tick on a dog", "In the first three both partners are helped; the tick feeds on the dog and harms her."], [["Carrying pollen", "Carrying seeds", "Feeding the soil", "Making oxygen"], "Making oxygen", "Animals carry pollen, carry seeds and feed the soil for plants; plants are the ones that give out oxygen."], [["Tomato juice", "Fruit flesh", "Wet pulp", "Washed seed"], "Washed seed", "Juice, flesh and pulp hold seeds back from sprouting; a washed seed is free to sprout."]]}
 }

@@ -3,7 +3,7 @@
  "title": "Seasons: how plants, animals and people change through the year",
  "level": 3,
  "summary": {
-  "text": "Every year in India, the hot months, the rains and the cool months come round again in the same order. These parts of the year are called seasons. Summer is hotter because the midday Sun is higher, so its light falls more straight down and is packed into a smaller patch of ground. Plants, animals and people all change with the seasons. Many trees drop their leaves in the dry months, frogs breed in monsoon puddles, ducks fly in from Central Asia for the winter, and families switch to cotton, buttermilk and mangoes in summer. In this unit you pull a hidden yellow colour out of a green leaf, and find out why leaves turn yellow before they fall.",
+  "text": "Every year in India, the hot months, the rains and the cool months come round again in the same order. These parts of the year are called seasons. Summer is hotter because the midday Sun is higher, so its light falls more straight down and lands on a smaller patch of ground. Each bit of ground then gets more of the light. Plants, animals and people all change with the seasons. Many trees drop their leaves in the dry months, frogs breed in monsoon puddles, ducks fly in from Central Asia for the winter, and families switch to cotton, buttermilk and mangoes in summer. In this unit you pull a hidden yellow colour out of a green leaf, and find out why leaves turn yellow before they fall.",
   "art": "A round picture split into three parts: a hot summer street in Chennai with a mango seller and a neer mor pot, a monsoon street with umbrellas and frogs in a puddle, and a cool winter morning with a kolam, a shawl and ducks on a lake."
  },
  "intro": {
@@ -13,7 +13,7 @@
  },
  "outcomes": [
   "I can name India's seasons, say which months they come in where I live, and give one clue for each.",
-  "I can explain why summer is hotter than winter, using the torch test: straight light is packed into a smaller patch.",
+  "I can explain why summer is hotter than winter, using the torch test: straight light lands on a smaller patch, so each square gets more of it.",
   "I can describe how plants change with the seasons, and explain why many trees drop their leaves in the dry months.",
   "I can separate the colours in a leaf on a paper strip, and use my result to explain why leaves turn yellow before they fall.",
   "I can give examples of animals that change with the seasons, and say what problem each change solves for them.",
@@ -151,7 +151,7 @@
   {
    "concept": "Why summer is hotter than winter",
    "status": "defined",
-   "definition": "In summer, the midday Sun is higher in the sky, so its light falls more straight down and is packed into a smaller patch of ground. The days are also longer. Both make the ground warmer.",
+   "definition": "In summer, the midday Sun is higher in the sky, so its light falls more straight down and lands on a smaller patch of ground. Each bit of ground then gets more of the light. The days are also longer. Both make the ground warmer.",
    "description": "In the Straight or Slanting test, you shine a torch on squared paper. When the torch shines straight down, its light makes a small, bright patch. When it shines at a slant, the same light spreads over a much bigger patch, so each square gets less. Sunlight works the same way. In summer, the midday Sun in India is high, nearly overhead, and your shadow at noon is very short. Each patch of ground gets a lot of light. In winter, the midday Sun is lower in the sky, and your noon shadow is longer. The same sunlight is spread over more ground, so each patch warms less. The days are shorter in winter too, so there are fewer hours of sunshine. Why does the Sun climb higher in some months? Because the Earth's axis is tilted. For part of the year, our half of the Earth leans towards the Sun. Six months later, it leans away. You will learn more about the tilt in Class 5. Many people think summer comes when the Earth is closest to the Sun. But the Earth is closest to the Sun in early January, during India's winter.",
    "examples": [
     "At noon in Chennai in May, your shadow is so short it hides under your feet.",
@@ -562,7 +562,8 @@
      "do": "Count the points.",
      "say": "Which clue was hardest? Which one would be different in Chennai?",
      "kid": "Which clue was hardest? Which is different in Chennai?",
-     "think": "Is there a clue that happens in two seasons?"
+     "think": "Is there a clue that happens in two seasons?",
+     "parent": "Yes, some clues fit two seasons, because one season slides into the next. For example, new neem leaves and the first koel calls come at the end of the cool months and the start of summer. Accept any clue with a reason."
     }
    ],
    "setup": [
@@ -650,7 +651,7 @@
      "title": "10 problem cards",
      "items": [
       "The soil is dry for months, and leaves lose water all day.",
-      "My eggs need someone to hatch them while it is warm and food is plenty.",
+      "My eggs need a nest where someone will keep them warm, at a time when there is plenty of food.",
       "My eggs and tadpoles need water.",
       "My lake freezes in winter, and I cannot reach the food.",
       "I have few sweat glands, and summer afternoons are very hot.",
@@ -1373,7 +1374,8 @@
      "do": "Look at the finished wheel together.",
      "say": "The wheel comes back to January after December. What does that tell us about the seasons?",
      "kid": "December leads back to January. What does that tell you?",
-     "think": "Does a year have a beginning, or is it a circle?"
+     "think": "Does a year have a beginning, or is it a circle?",
+     "parent": "A good answer: the seasons come round again in the same order every year, so the year has no end. After the cool months the hot months start again, and the wheel goes on turning."
     }
    ],
    "context": "An activity to make a wheel of the year where you live, with its seasons, foods, festivals, plants and animals.",
@@ -1577,7 +1579,7 @@
     "A few stones in the water give small birds a place to stand."
    ],
    "creative": [
-    "Put the clay saucer inside a slightly bigger one with a little water between them, so it stays cool for longer.",
+    "Put the clay saucer inside a slightly bigger one, with a little water between them. The water slowly dries and takes heat away, so the bowl stays cool for longer.",
     "Hang a second bowl under the edge of a sunshade, so it is in shade all afternoon."
    ],
    "your_turn": "Now design your own bird water bowl. Draw it, build it, put it out, and record which birds visit in a week.",
@@ -2087,10 +2089,10 @@
     },
     {
      "t": "perspective",
-     "p": "The first child's family is looking at a peepal tree that is dropping leaves in March, in front of their building.",
+     "p": "A peepal tree drops her leaves in March. A girl, her mother and a neighbour talk about it.",
      "views": [
       {
-       "who": "The first child, aged 9",
+       "who": "A girl, aged 9",
        "says": "The tree is fine. Peepal trees drop their leaves every dry season and grow new pink ones."
       },
       {
@@ -2098,13 +2100,13 @@
        "says": "The tree must be sick. We should call someone to cut the tree down before she falls."
       },
       {
-       "who": "The first child's mother",
+       "who": "The girl's mother",
        "says": "We can't be sure from one look. Let's watch the tree for a month and see if new leaves come."
       }
      ],
      "ask": "Whose idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side with evidence: peepal trees are deciduous and drop leaves in the dry season every year, so the first child is probably right. It then gives another view its due: Amma's plan to watch is how a scientist would check, and Mr Rao is right that a sick tree can fall and hurt someone. So checking for other signs, such as rotten wood, is wise.",
+     "a": "A strong answer picks a side with evidence: peepal trees are deciduous and drop leaves in the dry season every year, so the girl is probably right. It then gives another view its due: the mother's plan to watch is how a scientist would check, and Mr Rao is right that a sick tree can fall and hurt someone. So checking for other signs, such as rotten wood, is wise.",
      "why": "There is a real choice between knowing a pattern, checking with evidence, and being careful about safety. The best answers use the seasonal pattern and the idea of watching over time."
     },
     {
@@ -2742,7 +2744,7 @@
   },
   {
    "q": "Why is summer hotter than winter?",
-   "a": "The Sun is higher, so its light is packed into a smaller patch, and the days are longer."
+   "a": "The Sun is higher, so its light lands on a smaller patch of ground and each bit gets more of it. The days are also longer."
   },
   {
    "q": "What colour is hidden in a green leaf?",
@@ -2897,7 +2899,7 @@
    "kid": "Sit by the window. Close your eyes. What can you hear? What can you smell? How does the air feel? Open your eyes. Find one living thing. How are they changing?"
   },
   "ask": [
-   "The yellow was hidden in the leaf all along. What changed, the leaf or how we saw it?",
+   "The yellow was always in the leaf. Did the leaf make a new colour, or did we just see it?",
    "A tree takes back what is useful before the leaf falls. Is the fallen leaf still part of the tree?",
    "Every place in India has its own seasons. Is there one 'winter', or many?"
   ],
@@ -2910,5 +2912,5 @@
   "when": "1918 to 1920, with the night-length experiments in 1938",
   "wrong_idea": "People thought plants flower when they are old enough, big enough or warm enough. Garner and Allard showed that many plants flower when the days reach a certain length, by shortening the days of tobacco plants with a dark hut. Later work showed that the plants are really measuring the length of the night."
  },
- "warm": {"words": ["EARTH", "TREES", "SLANT", "DUCKS", "NIGHT"], "quiz": [["Summer comes when the Earth is closest to the Sun.", false, "The Earth is closest in early January, India's winter, and Australia has summer when India has winter."], ["Sunlight falling straight down warms the ground more than sunlight falling at a slant.", true, "Straight light packs into a smaller patch, so each bit of ground gets more heat."], ["Trees that drop their leaves in the dry months are dying or sick.", false, "Deciduous trees do this every year, take back useful nutrients first, and then grow new leaves."], ["Yellow and orange leaf colours show up when the green chlorophyll breaks down first.", true, "Those colours were in the leaf all along, hidden by the stronger green."], ["Plants cannot sense the length of the night.", false, "Many plants measure the night and start to flower when it reaches the right length."], ["Ducks fly to India from Central Asia in winter to find food.", true, "Their summer homes turn cold and frozen, so they travel to places with food."], ["India really has six seasons, so counting four is a mistake.", false, "Seasons are a way people choose to split the year, and four fits India's rain well."], ["A hibernating animal's body slows right down, and the animal lives on stored fat.", true, "Hibernation saves energy through the cold months when food is hard to find."], ["Evergreen trees never lose any leaves.", false, "Evergreens drop old leaves a few at a time while new ones keep growing."], ["Tamil Nadu gets rain from the north-east monsoon from about October to December.", true, "Winds blowing from the north-east bring this second rainy season to the south-east."]], "odd": [[["Teak", "Gulmohar", "Silk-cotton", "Mango"], "Mango", "Teak, gulmohar and silk-cotton drop their leaves in the dry months; mango keeps green leaves all year."], [["Duck flying to India", "Amur falcon crossing the sea", "Bar-headed goose crossing the Himalaya", "Hibernating bear"], "Hibernating bear", "The first three travel far to cope with a season; the bear stays put and sleeps through it."], [["Chlorophyll", "Yellow pigment", "Orange pigment", "Nutrients"], "Nutrients", "The first three are colours in a leaf; nutrients are food materials a tree takes back, not colours."], [["Tilt of the Earth's axis", "Angle of sunlight", "Length of the day", "Distance from the Sun"], "Distance from the Sun", "Tilt, sunlight angle and day length cause the seasons; the Earth's distance from the Sun does not."], [["Records kept for 100 years", "Plants flowering earlier than before", "Warming measured over many years", "One hot afternoon"], "One hot afternoon", "A long-term change shows only in many years of records; one hot day cannot show it."]]}
+ "warm": {"words": ["EARTH", "TREES", "SLANT", "DUCKS", "NIGHT"], "quiz": [["Summer comes when the Earth is closest to the Sun.", false, "The Earth is closest in early January, India's winter, and Australia has summer when India has winter."], ["Sunlight falling straight down warms the ground more than sunlight falling at a slant.", true, "Straight light lands on a smaller patch, so each bit of ground gets more of the light, and more heat."], ["Trees that drop their leaves in the dry months are dying or sick.", false, "Deciduous trees do this every year, take back useful nutrients first, and then grow new leaves."], ["Yellow and orange leaf colours show up when the green chlorophyll breaks down first.", true, "Those colours were in the leaf all along, hidden by the stronger green."], ["Plants cannot sense the length of the night.", false, "Many plants measure the night and start to flower when it reaches the right length."], ["Ducks fly to India from Central Asia in winter to find food.", true, "Their summer homes turn cold and frozen, so they travel to places with food."], ["India really has six seasons, so counting four is a mistake.", false, "Seasons are a way people choose to split the year, and four fits India's rain well."], ["A hibernating animal's body slows right down, and the animal lives on stored fat.", true, "Hibernation saves energy through the cold months when food is hard to find."], ["Evergreen trees never lose any leaves.", false, "Evergreens drop old leaves a few at a time while new ones keep growing."], ["Tamil Nadu gets rain from the north-east monsoon from about October to December.", true, "Winds blowing from the north-east bring this second rainy season to the south-east."]], "odd": [[["Teak", "Gulmohar", "Silk-cotton", "Mango"], "Mango", "Teak, gulmohar and silk-cotton drop their leaves in the dry months; mango keeps green leaves all year."], [["Duck flying to India", "Amur falcon crossing the sea", "Bar-headed goose crossing the Himalaya", "Hibernating bear"], "Hibernating bear", "The first three travel far to cope with a season; the bear stays put and sleeps through it."], [["Chlorophyll", "Yellow pigment", "Orange pigment", "Nutrients"], "Nutrients", "The first three are colours in a leaf; nutrients are food materials a tree takes back, not colours."], [["Tilt of the Earth's axis", "Angle of sunlight", "Length of the day", "Distance from the Sun"], "Distance from the Sun", "Tilt, sunlight angle and day length cause the seasons; the Earth's distance from the Sun does not."], [["Records kept for 100 years", "Plants flowering earlier than before", "Warming measured over many years", "One hot afternoon"], "One hot afternoon", "A long-term change shows only in many years of records; one hot day cannot show it."]]}
 }

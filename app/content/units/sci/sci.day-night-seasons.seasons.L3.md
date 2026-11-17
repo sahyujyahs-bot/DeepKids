@@ -1,13 +1,13 @@
 # Seasons: how plants, animals and people change through the year
 `sci.day-night-seasons.seasons.L3`
 
-**Summary.** Every year in India, the hot months, the rains and the cool months come round again in the same order. These parts of the year are called seasons. Summer is hotter because the midday Sun is higher, so its light falls more straight down and is packed into a smaller patch of ground. Plants, animals and people all change with the seasons. Many trees drop their leaves in the dry months, frogs breed in monsoon puddles, ducks fly in from Central Asia for the winter, and families switch to cotton, buttermilk and mangoes in summer. In this unit you pull a hidden yellow colour out of a green leaf, and find out why leaves turn yellow before they fall.
+**Summary.** Every year in India, the hot months, the rains and the cool months come round again in the same order. These parts of the year are called seasons. Summer is hotter because the midday Sun is higher, so its light falls more straight down and lands on a smaller patch of ground. Each bit of ground then gets more of the light. Plants, animals and people all change with the seasons. Many trees drop their leaves in the dry months, frogs breed in monsoon puddles, ducks fly in from Central Asia for the winter, and families switch to cotton, buttermilk and mangoes in summer. In this unit you pull a hidden yellow colour out of a green leaf, and find out why leaves turn yellow before they fall.
 
-**Intro.** *A neem tree is dropping yellow leaves in March, the hottest, driest time of year. A week later, the same tree is covered in soft new leaves. Is the tree sick, or does she know something?* The neem tree is not sick. She is changing with the season, the way you change into cotton clothes in summer. In this unit you look out of your window for signs of the season. You find a colour hiding inside a green leaf. You use a torch to see why summer sunlight is stronger. And you meet the koel, the frog, the pintail duck, the farmer and the fisher, who all change what they do as the year turns.
+**Intro.** *A neem tree is dropping yellow leaves in March, the hottest, driest time of year. A week later, the same tree is covered in soft new leaves. Is the tree sick, or is she doing this on purpose?* The neem tree is not sick. She is changing with the season, the way you change into cotton clothes in summer. In this unit you look out of your window for signs of the season. You find a colour hiding inside a green leaf. You use a torch to see why summer sunlight is stronger. And you meet the koel, the frog, the pintail duck, the farmer and the fisher, who all change what they do as the year turns.
 
 ## Learning outcomes
 0. I can name India's seasons, say which months they come in where I live, and give one clue for each.
-1. I can explain why summer is hotter than winter, using the torch test: straight light is packed into a smaller patch.
+1. I can explain why summer is hotter than winter, using the torch test: straight light lands on a smaller patch, so each square gets more of it.
 2. I can describe how plants change with the seasons, and explain why many trees drop their leaves in the dry months.
 3. I can separate the colours in a leaf on a paper strip, and use my result to explain why leaves turn yellow before they fall.
 4. I can give examples of animals that change with the seasons, and say what problem each change solves for them.
@@ -48,16 +48,16 @@ People split the year in different ways. The weather department uses four season
 - e.g. Vasanta ritu is the time of Holi in the north and Ugadi in the south.
 - e.g. In Srinagar it can snow in January. In Thiruvananthapuram it never does.
 ### Why summer is hotter than winter · *defined*
-**Definition:** In summer, the midday Sun is higher in the sky, so its light falls more straight down and is packed into a smaller patch of ground. The days are also longer. Both make the ground warmer.
+**Definition:** In summer, the midday Sun is higher in the sky, so its light falls more straight down and lands on a smaller patch of ground. Each bit of ground then gets more of the light. The days are also longer. Both make the ground warmer.
 
-Remember the torch test. When the torch shone straight down, its light made a small, bright patch. When it shone at a slant, the same light spread over a much bigger patch, so each square got less. Sunlight works the same way. In summer, the midday Sun in India is high, nearly overhead, and your shadow at noon is very short. Each patch of ground gets a lot of light. In winter, the midday Sun is lower in the sky, and your noon shadow is longer. The same sunlight is spread over more ground, so each patch warms less. The days are shorter in winter too, so there are fewer hours of sunshine. Why does the Sun climb higher in some months? Because the Earth's axis is tilted. For part of the year, our half of the Earth leans towards the Sun. Six months later, it leans away. You will learn more about the tilt in Class 5. Many people think summer comes when the Earth is closest to the Sun. But the Earth is closest to the Sun in early January, during India's winter.
+In the Straight or Slanting test, you shine a torch on squared paper. When the torch shines straight down, its light makes a small, bright patch. When it shines at a slant, the same light spreads over a much bigger patch, so each square gets less. Sunlight works the same way. In summer, the midday Sun in India is high, nearly overhead, and your shadow at noon is very short. Each patch of ground gets a lot of light. In winter, the midday Sun is lower in the sky, and your noon shadow is longer. The same sunlight is spread over more ground, so each patch warms less. The days are shorter in winter too, so there are fewer hours of sunshine. Why does the Sun climb higher in some months? Because the Earth's axis is tilted. For part of the year, our half of the Earth leans towards the Sun. Six months later, it leans away. You will learn more about the tilt in Class 5. Many people think summer comes when the Earth is closest to the Sun. But the Earth is closest to the Sun in early January, during India's winter.
 - e.g. At noon in Chennai in May, your shadow is so short it hides under your feet.
 - e.g. At noon in Delhi in December, your shadow is about as long as you are tall, or a little longer.
 - e.g. Kerala and Tamil Nadu are close to the equator, where the Sun is high all year. That is why their winters are mild.
 ### Why many trees drop their leaves in the dry months · *defined*
 **Definition:** Deciduous trees drop their leaves for part of the year. In most of India, they do this in the hot, dry months before the rains. Before a leaf falls, the tree breaks down the green chlorophyll and takes useful nutrients back into the branches. The yellow colour that was hidden under the green then shows.
 
-Leaves lose water all the time, through tiny holes underneath. In the rains, the soil is wet, and the roots easily replace that water. From about February to May, many places get almost no rain, and the soil dries out. A big tree with thousands of leaves could lose more water than her roots can find. So trees such as teak, peepal, neem, gulmohar and the Indian almond drop many or all of their leaves. A leaf is full of useful nutrients, such as nitrogen, that the tree took from the soil. Throwing them away would be a waste. So before the leaf falls, the tree breaks down the green chlorophyll and moves much of the nitrogen back into the branches, to use for new leaves. Your strip test showed that a green leaf also holds yellow pigments. They stay in the leaf longer than the green does. So as the green goes, the leaf turns yellow. Some trees, such as the Indian almond, also make new red colours in their leaves before they drop them. Then, often before the rains, new leaves come out, soft and pale green or coppery pink.
+Leaves lose water all the time, through tiny holes underneath. In the rains, the soil is wet, and the roots easily replace that water. From about February to May, many places get almost no rain, and the soil dries out. A big tree with thousands of leaves could lose more water than her roots can find. So trees such as teak, peepal, neem, gulmohar and the Indian almond drop many or all of their leaves. A leaf is full of useful nutrients, such as nitrogen, that the tree took from the soil. Throwing them away would be a waste. So before the leaf falls, the tree breaks down the green chlorophyll and moves much of the nitrogen back into the branches, to use for new leaves. In the Hidden Colours test, a green leaf leaves a yellow band on the paper strip as well as a green one. So a green leaf also holds yellow pigments. They stay in the leaf longer than the green does. So as the green goes, the leaf turns yellow. Some trees, such as the Indian almond, also make new red colours in their leaves before they drop them. Then, often before the rains, new leaves come out, soft and pale green or coppery pink.
 - e.g. Peepal trees drop their leaves for a short time in the dry season. Their new leaves come out coppery pink.
 - e.g. Neem trees drop many old leaves around February and March. By Ugadi, they have new leaves and tiny white flowers, used in Ugadi pachadi.
 - e.g. Coconut palms and mango trees are evergreen. They never stand bare.
@@ -71,16 +71,16 @@ A plant cannot read a calendar, but the length of the night is a very good clock
 - **Many plant scientists today:** Plants sense the night and make a choice about when to flower. Their senses and signals are real, and their choice is theirs.
 - **Other plant scientists:** The flowering is set off by a chain of chemical changes, and it is best called an automatic response, not a choice.
 ### How animals change with the seasons · *defined*
-**Definition:** Animals change what they do, where they live and sometimes how their bodies look as the seasons change. Each change helps them with a problem that season brings, such as heat, cold, dry food or a safe time for their young.
+**Definition:** Animals change what they do, where they live and sometimes how their bodies look as the seasons change. Each change helps them with a problem that season brings, such as heat, cold, a shortage of food or water, or finding a safe time to have their young.
 
-Each season brings its own problems and chances. In summer, water is short and the afternoons are very hot. Buffaloes have fewer sweat glands than cows, so they lie in mud or water to cool off. The koel calls loudly from March to June. This is her breeding time, and she lays her eggs in crows' nests, which are busy then too. The monsoon fills puddles and ponds. Frogs need water for their eggs and tadpoles, so they call and lay eggs after the first heavy rains. Winged termites fly out of the ground after the first rains, looking for a place to start a new colony. In winter, lakes in Central Asia and Siberia freeze, and the food under the water is locked under ice. So ducks such as the northern pintail fly thousands of kilometres to India's lakes, and fly back in spring. In the Himalayas, some black bears sleep in a den through the snowy months, living on their fat. Olive ridley turtles come ashore on Chennai and Odisha beaches from about January to March to lay their eggs.
+Each season brings its own problems and chances. In summer, water is short and the afternoons are very hot. Buffaloes have fewer sweat glands than cows, so they lie in mud or water to cool off. The koel calls loudly from March to June. This is her breeding time. She lays her eggs in crows' nests, and the crows are busy nesting then too. The monsoon fills puddles and ponds. Frogs need water for their eggs and tadpoles, so they call and lay eggs after the first heavy rains. Winged termites fly out of the ground after the first rains, looking for a place to start a new colony. In winter, lakes in Central Asia and Siberia freeze, and the food under the water is locked under ice. So ducks such as the northern pintail fly thousands of kilometres to India's lakes, and fly back in spring. In the Himalayas, some black bears sleep in a den through the snowy months, living on their fat. Olive ridley turtles come ashore on Chennai and Odisha beaches from about January to March to lay their eggs.
 - e.g. Openbill storks, egrets and other water birds fill Vedanthangal Bird Sanctuary near Chennai from about November to March.
 - e.g. After the first big rain of the monsoon, winged termites fly round street lights at night.
 - e.g. On hot afternoons, crows sit with their beaks open to lose heat.
 ### How people change with the seasons · *defined*
 **Definition:** People change their clothes, food, homes, work and festivals with the seasons, to stay comfortable and to fit in with the plants and animals they depend on.
 
-In summer, families wear loose cotton clothes and drink buttermilk, tender coconut water and panakam. They eat mangoes, watermelon and nungu, the ice apple of the palmyra palm. Many families dry vadams and make mango pickle on the terrace, because the strong sun dries food fast. In the rains, farmers sow rice and other crops, because the fields finally have enough water. Umbrellas and raincoats come out. In the cool months, people in the north wear sweaters, monkey caps and shawls, and sit in the sun at midday. Many festivals mark a harvest: Onam in Kerala in August or September, Pongal in Tamil Nadu, Makar Sankranti and Magh Bihu in Assam in January, and Baisakhi in Punjab in April. Even fishing changes. Every year the Government of India stops most fishing at sea for 61 days, while many fish breed. On the east coast this is from 15 April to 14 June. On the west coast it is from 1 June to 31 July.
+In summer, families wear loose cotton clothes and drink buttermilk, tender coconut water and panakam. They eat mangoes, watermelon and nungu, the ice apple of the palmyra palm. Many families dry vadams and make mango pickle on the terrace, because the strong sun dries food fast. In the rains, farmers sow rice and other crops, because the fields finally have enough water. Umbrellas and raincoats come out. In the cool months, people in the north wear sweaters, monkey caps and shawls, and sit in the sun at midday. Many festivals mark a harvest. Onam comes in Kerala in August or September. Pongal in Tamil Nadu, Makar Sankranti, and Magh Bihu in Assam all come in January. Baisakhi comes in Punjab in April. Even fishing changes. Every year the Government of India stops most fishing at sea for 61 days, while many fish breed. On the east coast this is from 15 April to 14 June. On the west coast it is from 1 June to 31 July.
 - e.g. Jasmine flowers are plentiful in Madurai in summer, and costly in the cool months, when the plants make fewer.
 - e.g. Pongal is cooked with the new rice of the January harvest.
 - e.g. In Delhi in winter, people sell roasted sweet potatoes and peanuts on the street.
@@ -93,12 +93,12 @@ Scientists agree that the Earth as a whole is getting warmer, mostly because peo
 ## Mostly agreed
 - The seasons come round in the same order every year. *How we know:* Weather records kept in India since the 1800s show the same pattern every year: hot months, the rains, then cool months.
 - Seasons are caused by the tilt of the Earth's axis, not by the Earth's distance from the Sun. *How we know:* The Earth is closest to the Sun in early January, during India's winter. And when it is winter in India, it is summer in Australia, under the same Sun.
-- Sunlight falling straight down warms the ground more than sunlight falling at a slant. *How we know:* In the torch test, slanting light spread the same light over many more squares. Measurements of sunshine on the ground show the same thing.
+- Sunlight falling straight down warms the ground more than sunlight falling at a slant. *How we know:* In the Straight or Slanting test, a torch held at a slant spreads the same light over many more squares of paper. Measurements of sunshine on the ground show the same thing.
 - Green leaves hold yellow and orange pigments as well as green chlorophyll. Before a leaf falls, the chlorophyll breaks down first. *How we know:* Paper strip tests separate the pigments. Scientists have also measured the pigments in leaves as they age.
 - Many plants use the length of the night to tell the season. *How we know:* Garner and Allard made tobacco plants flower in summer by shutting them in the dark for part of each day. Many experiments since have shown the same with other plants.
 
 ## How we found out
-**Wightman Garner and Harry Allard, scientists in the United States Department of Agriculture, and later Karl Hamner and James Bonner, 1918 to 1920, with the night-length experiments in 1938.** About 1906, farmers in Maryland, in the United States, found a new kind of tobacco plant. It grew huge, taller than a man, but it would not flower in the summer, so it gave no seeds. People thought plants flowered when they were old enough or big enough, or when the weather was warm. This plant broke that idea. It was big, warm and well fed, and still did not flower. Then farmers noticed it did flower in winter, in a glasshouse. Wightman Garner and Harry Allard, two scientists in the United States government's farm department, wondered if the plant could tell the length of the day. In 1918 they tested it. Every afternoon they pushed some plants into a dark hut, so their days were short, like winter days. Other plants stayed outside. In the middle of summer, the plants with short days flowered, and the others did not. They published their results in 1920 and called this photoperiodism. In 1938, Karl Hamner and James Bonner showed that a short flash of light in the middle of the night could stop such plants from flowering. So what plants really measure is the length of the night.  
+**Wightman Garner and Harry Allard, scientists in the United States Department of Agriculture, and later Karl Hamner and James Bonner, 1918 to 1920, with the night-length experiments in 1938.** About 1906, farmers in Maryland, in the United States, found a new kind of tobacco plant. The plants grew huge, taller than a man, but they would not flower in the summer, so they gave no seeds. People thought plants flowered when they were old enough or big enough, or when the weather was warm. These plants broke that idea. They were big, warm and well fed, and still did not flower. Then farmers noticed that they did flower in winter, in a glasshouse. Wightman Garner and Harry Allard, two scientists in the United States government's farm department, wondered if the plants could tell the length of the day. In 1918 they tested it. Every afternoon they pushed some plants into a dark hut, so their days were short, like winter days. Other plants stayed outside. In the middle of summer, the plants with short days flowered, and the others did not. They published their results in 1920 and called this photoperiodism. In 1938, Karl Hamner and James Bonner showed that a short flash of light in the middle of the night could stop such plants from flowering. So what plants really measure is the length of the night.  
 *What people believed before:* People thought plants flower when they are old enough, big enough or warm enough. Garner and Allard showed that many plants flower when the days reach a certain length, by shortening the days of tobacco plants with a dark hut. Later work showed that the plants are really measuring the length of the night.
 
 ## Challenging perspectives
@@ -119,17 +119,17 @@ Scientists agree that the Earth as a whole is getting warmer, mostly because peo
   Against: Plants feel the length of the night, remember it over many nights, and choose when to flower. Sensing, remembering and choosing are what knowing is.
 
 ## Roots
-We have pulled hidden colours out of a leaf, watched light spread at a slant, and met the animals and people who change with the year. Now we ask what the seasons tell us about ourselves and the world.
+In this unit you find a hidden yellow colour in a green leaf, see torchlight spread out when it shines at a slant, and read about the animals and people who change with the year. This part asks what the seasons tell us about ourselves and the world.
 
-**Deep truth.** Your strip drew a yellow band out of a leaf that looked only green. The yellow was there all along, hidden under the green. In the dry season a tree breaks down the green in her leaves and takes back what is useful. Then the hidden yellow shows, and the leaf falls.  
-*Habit it breaks:* We say a leaf 'turns' yellow, as if a new colour is painted on as the leaf dies. And we read yellow leaves as a sign of a sick tree. In the dry season, the yellow is the colour that was always there, showing once the tree has taken back the green.  
+**Deep truth.** In the Hidden Colours test, a paper strip shows a yellow band from a leaf that looked only green. The yellow was there all along, hidden under the green. In the dry season a tree breaks down the green in her leaves and takes back what is useful. Then the hidden yellow shows, and the leaf falls.  
+*Habit it breaks:* We say a leaf 'turns' yellow, as if a new colour is painted on as the leaf dies. And we read yellow leaves as a sign of a sick tree. But in the dry season, the yellow is a colour that was in the leaf all along. It shows once the tree has broken down the green.  
 *Evidence:* In the Hidden Colours test, the green palak leaf gave a green band and a yellow band. The yellowing palak leaf gave a strong yellow band and much less green. Scientists have measured that trees take back about half of the nitrogen from their leaves before the leaves fall.
 
-- *who am i:* You change with the seasons too: your clothes, your food, even how long you sleep in the light evenings.
-- *what is life:* A tree feels the dry months coming, takes back what she needs from her leaves, and lets them go to grow new ones.
+- *who am i:* You change with the seasons too: your clothes, your food, even how long you sleep when the evenings stay light.
+- *what is life:* A tree feels the dry months coming, takes back what she needs from her leaves, lets them fall, and later grows new ones.
 - *what is this world:* One tilted Earth going round one Sun gives every place its own pattern of seasons, and every living thing fits into it.
 
-There is one Sun, and one Earth going round it, tilted the same way all year. From that one simple tilt come summer, the rains and the cool months, different in every place. And from each season come many answers: the neem drops her leaves, the koel calls, the frog sings in the puddle, the farmer sows rice, the duck flies south. Each living thing meets the same turning year in their own way.
+There is one Sun, and one Earth going round it, tilted the same way all year. That tilt gives us summer, the rains and the cool months, and they are different in every place. Each living thing deals with the season in their own way: the neem drops her leaves, the koel calls, the frog sings in the puddle, the farmer sows rice, the duck flies south. The year is the same for all of them, but each one does something different.
 
 - **Ecclesiastes 3:1-2 (the Bible):** There is a time for everything, and a season for every activity under the heavens. A time to be born and a time to die, a time to plant and a time to pull up what is planted. (In this unit, every living thing has their time: the sevanthi flowers in the long nights, the frog lays eggs in the rains, and the farmer sows with the monsoon.)
 - **Tao Te Ching 16:** All things grow and flourish, and then each one goes back to their root. Going back to the root is stillness. (Before a tree drops a leaf, she takes the useful nutrients back into her branches. In the dry season, she goes quiet and holds on to what she needs, until it is time for new leaves.)
@@ -139,7 +139,7 @@ There is one Sun, and one Earth going round it, tilted the same way all year. Fr
 - Science (open): How exactly a plant combines night length, warmth and many other signals into one choice to flower is still being worked out.
 - Other view, Many plant scientists: Trees that drop their leaves are following a chain of chemical steps set off by dryness and the season. Calling it 'taking back' or 'getting ready' is a helpful way to talk. But these scientists would say a tree does not plan anything.
 - Practice, Three signs of the season (3 min): Let's sit by the window and close our eyes for a minute. Listen. What sound tells you the season? Now breathe in slowly through your nose. What can you smell? Feel the air on your skin. Is it hot, damp or cool? Open your eyes. Find one living thing outside. How are they changing right now?
-- Ask: The yellow was hidden in the leaf all along. What changed, the leaf or how we saw it?
+- Ask: The yellow was always in the leaf. Did the leaf make a new colour, or did we just see it?
 - Ask: A tree takes back what is useful before the leaf falls. Is the fallen leaf still part of the tree?
 - Ask: Every place in India has its own seasons. Is there one 'winter', or many?
 
@@ -238,11 +238,12 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
   *Parent does:* Count the points.  
   *Parent says:* Which clue was hardest? Which one would be different in Chennai?  
   *Child mode:* Which clue was hardest? Which is different in Chennai?
+  - Note: Yes, some clues fit two seasons, because one season slides into the next. For example, new neem leaves and the first koel calls come at the end of the cool months and the start of summer. Accept any clue with a reason.
   - Think: Is there a clue that happens in two seasons?
 ### g2 · Ready for the Season: a matching game (20 min)
 - **rules:** Shuffle the problem cards and the answer cards separately, so they are not in the order they were printed.; Lay all the cards face up in three rows: living things, problems and answers.; On your turn, pick one living thing card. Find its problem card and its answer card.; Say the set out loud as one sentence: who they are, what the season's problem is, and what they do.; If the other player agrees it is right, keep the set and score 1 point. If not, put the cards back and the next player goes.; When all 10 sets are made, the player with the most sets wins. Equal sets means you both win. Playing alone, try to make all 10 sets in 10 minutes.
 - **Printable cards: 10 living thing cards:** Neem tree [picture]; Koel [picture]; Frog [picture]; Pintail duck [picture]; Buffalo [picture]; Sevanthi plant [picture]; Rice farmer; Fisher family on the east coast; Olive ridley turtle [picture]; Himalayan black bear
-- **Printable cards: 10 problem cards:** The soil is dry for months, and leaves lose water all day.; My eggs need someone to hatch them while it is warm and food is plenty.; My eggs and tadpoles need water.; My lake freezes in winter, and I cannot reach the food.; I have few sweat glands, and summer afternoons are very hot.; I need to flower at the right time of year.; My rice needs a lot of water to grow.; The fish are breeding, and if we catch them now there will be fewer later.; I need a warm, sandy, safe place to lay my eggs.; In the snowy months there is almost no food.
+- **Printable cards: 10 problem cards:** The soil is dry for months, and leaves lose water all day.; My eggs need a nest where someone will keep them warm, at a time when there is plenty of food.; My eggs and tadpoles need water.; My lake freezes in winter, and I cannot reach the food.; I have few sweat glands, and summer afternoons are very hot.; I need to flower at the right time of year.; My rice needs a lot of water to grow.; The fish are breeding, and if we catch them now there will be fewer later.; I need a warm, sandy, safe place to lay my eggs.; In the snowy months there is almost no food.
 - **Printable cards: 10 answer cards:** I take back the useful parts of my leaves and drop them, then grow new ones.; I lay my eggs in crows' nests in summer, and the crows raise my chicks.; I wait for the monsoon, then lay my eggs in the puddles.; I fly thousands of kilometres to a warm Indian lake.; I lie in mud or water to cool off.; I measure the nights, and flower when they are long.; I sow my seeds when the monsoon rains come.; We stop fishing at sea from 15 April to 14 June.; I come ashore on a beach from January to March and bury my eggs in the sand.; I eat a lot in autumn, then sleep in a den all winter.
 - **Printable score sheet: Score sheet:** Player name; Full sets made
 - **s1 (3 min)**  
@@ -257,7 +258,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - **s3 (12 min)**  
   *Parent does:* 1. Take turns to make sets. 2. Say each set as one sentence.  
   *Parent says:* Say each set as one sentence. For example: the neem tree's soil dries out, so she drops her leaves.  
-  *Child mode:* Make a set. Say it in one sentence. Who, what problem, what they do.
+  *Child mode:* Make a set. Say it in one sentence: who they are, what their problem is, and what they do.
   - Note: Every set starts with the living thing's own problem, then how their change helps them. Ask: which change happens in the body, and which is something they do?
 - **s4 (2 min)**  
   *Parent does:* Count the sets and talk.  
@@ -288,14 +289,14 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
   *Parent does:* 1. Lay the green palak leaf over the pencil line on the 'green' strip. 2. Roll the edge of the coin firmly along the line, pressing hard, so the leaf leaves a dark green line. 3. Move to a fresh part of the leaf and roll again. Do 10 rolls in all. 4. Do the same with the yellowing leaf on the other strip, also 10 rolls.  
   *Parent says:* Press the coin's edge down hard and roll it along the line. Each roll squeezes a little colour out of the leaf onto the paper. We do 10 rolls on each strip, so it's fair.  
   *Child mode:* Put the leaf on the line. Roll the coin's edge hard along it. Do 10 rolls.
-  - Note: The green line should be dark and thin, just on the pencil line. A thick, dark line gives clearer colours. The yellowing leaf gives a paler line, and that is fine. Count the rolls out loud together.
+  - Note: The green line should be dark and narrow, just on the pencil line. The darker the line, the clearer the colours. The yellowing leaf gives a paler line, and that is fine. Count the rolls out loud together.
 - **s4 (3 min) · grown-up needed**  
   *Parent does:* 1. Open a window. 2. Pour nail polish remover into each tumbler, just 1 cm deep. 3. Stand one strip in each tumbler, with the leaf line above the liquid. 4. Tape the top of the strip to the rim. 5. Cover each tumbler with a small plate.  
   *Parent says:* The leaf line must stay above the liquid, or the colours would wash off into it. The plate on top stops the liquid drying up.  
-  *Child mode:* A grown-up pours the liquid. Keep the green line above it. Put a plate on top.
+  *Child mode:* A grown-up pours the liquid. Keep the leaf line above the liquid. Put a plate on top.
   - Note: If the liquid is deeper than 2 cm, it will touch the leaf line and the colours will just dissolve into the tumbler. Pour less. Keep the bottle closed and away from any flame.
 - **s5 (15 min) · grown-up needed**  
-  *Parent does:* 1. Watch the liquid climb the paper. 2. Every few minutes, look at the colours through the side of the tumbler. 3. After about 15 minutes, or when the liquid is 1 cm from the top, lift the strips out. 4. Mark the top of the liquid with a pencil. 5. Lay them on a plate to dry.  
+  *Parent does:* 1. Watch the liquid climb the paper. 2. Every few minutes, look at the colours through the side of the tumbler. 3. After about 15 minutes, or when the liquid is 1 cm from the top, lift the strips out. 4. On each strip, mark with a pencil how high the liquid climbed. 5. Lay the strips on a plate to dry.  
   *Parent says:* Watch the line. What is happening to the green? Is any other colour moving away from it?  
   *Child mode:* Watch the strip. Does the green move? Can you see another colour?
   - Note: On the green leaf's strip, the green spreads up into a band, and a thin yellow or yellow-orange band runs ahead of it, near the top. On the yellowing leaf's strip, the yellow band is usually clear, and there is much less green, or none. The colours fade as the strip dries, so look at them straight away. If you see only green, the line was too faint. Make a new strip with 20 rolls, or let it run longer. Hand sanitiser works more slowly than nail polish remover.
@@ -304,7 +305,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
   *Parent does:* 1. Put the two strips side by side. 2. Ask your child to say or write three things: what I think, what I saw, and why I think it happened.  
   *Parent says:* Put the strips side by side. What do you think now about the colours in a leaf? What did you see that shows it? Why do you think the yellowing leaf looked different?  
   *Child mode:* Compare the strips. What do you think now? What did you see? Why?
-  - Note: This is claim, evidence and reasoning. A strong answer sounds like this. What I think: a green leaf has yellow inside it too. What I saw: the green leaf made a green band and a yellow band. The yellowing leaf made a yellow band and hardly any green. Why: when a leaf gets old, the green goes first, and the yellow that was there is left. Now tell your child that trees do this before dropping leaves in the dry season, and take the useful parts of the green back.
+  - Note: Here your child says what they think, what they saw that shows it, and why it happened. A strong answer sounds like this. What I think: a green leaf has yellow inside it too. What I saw: the green leaf made a green band and a yellow band. The yellowing leaf made a yellow band and hardly any green. Why: when a leaf gets old, the green goes first, and the yellow that was there is left. Now tell your child that trees do this before they drop their leaves in the dry season: they break down the green and take the useful parts back.
   - Check: The yellowing leaf showed a strong yellow band but little green. What does this tell you? → **The leaf lost the green, and the yellow stayed**
 ### e2 · Straight or Slanting: how far does the same torchlight spread? (25 min)
 - **question:** Does the same torch light up more squares when it shines straight down, or at a slant?
@@ -319,7 +320,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess, and write the guesses in the table.  
   *Parent says:* First the torch will shine straight down. Then at a slant, like the Sun in the afternoon. Then very low, like the Sun near sunset. Which patch will be biggest? Which will be brightest? Why do you think so?  
-  *Child mode:* Straight down, a slant, or very low. Which patch is biggest? Why?
+  *Child mode:* The torch will shine straight down, at a slant, and very low. Which patch will be biggest? Why?
   - Note: Don't give the answer. Some children think the light will be the same size every time, because it is the same torch.
 - **s3 (6 min)**  
   *Parent does:* 1. Hold the torch straight above the dot, with the glass 20 cm from the paper. Use the ruler to check. 2. Your child draws round the edge of the bright patch in pencil. 3. Count the squares inside. Count a square if more than half of it is lit. 4. Do it twice.  
@@ -330,12 +331,12 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
   *Parent does:* 1. Now hold the torch at a slant, half-way between straight down and flat, still 20 cm from the dot. Rest it on a pile of books to keep it still. 2. Draw round the patch and count. 3. Then hold the torch very low, nearly flat, still 20 cm from the dot. 4. Draw round the patch and count. Do each twice.  
   *Parent says:* The torch is the same distance from the dot. Only the angle has changed. Is the patch bigger or smaller? Is it brighter or dimmer?  
   *Child mode:* Now shine at a slant. Then very low. Draw and count each patch.
-  - Note: The slanting patch is an oval, bigger than the straight one, and dimmer. The very low patch is a long oval, often two to three times the squares of the straight patch, and clearly dim. Your numbers depend on your torch, so they will not match anyone else's exactly.
+  - Note: The slanting patch is an oval, bigger than the straight one, and dimmer. The very low patch is a long oval, clearly dim. It often covers two to three times as many squares as the straight patch. Your numbers depend on your torch, so they will not match anyone else's exactly.
   - Check: The torch gave out the same light each time. When it shone at a slant, the patch was bigger. What happened to the light in each square? → **Each square got less light, because the same light was spread over more squares**
 - **s5 (5 min)**  
-  *Parent does:* 1. Look at the three outlines together. 2. Ask: what I think, what I saw, and why. 3. Then link it to the Sun.  
-  *Parent says:* In summer, the Sun at noon is high, nearly straight above us. In winter, it is lower in the sky. Which torch was like the summer Sun? Which ground would get warmer?  
-  *Child mode:* Which torch was like the summer Sun? Which ground warms more?
+  *Parent does:* 1. Look at the three outlines together. 2. Ask your child to say what they think, what they saw, and why it happened. 3. Then link it to the Sun.  
+  *Parent says:* In summer, the Sun at noon is high, nearly straight above us. In winter, it is lower in the sky. Which way of holding the torch was like the summer Sun? Which patch of ground would get warmer?  
+  *Child mode:* Which way of holding the torch was like the summer Sun? Which patch of ground warms more?
   - Note: A strong answer: what I think is that straight light warms the ground more. What I saw: the straight patch was smallest and brightest, and the low patch was biggest and dimmest. Why: the same light is packed into fewer squares when it falls straight down. The high summer Sun is like the straight torch. The days are also longer in summer, so the ground gets more hours of sunshine.
 
 ## Activities
@@ -369,19 +370,19 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
   *Parent does:* Talk about where in India coconut oil goes solid, and when.  
   *Parent says:* In Chennai and Kochi, the bottle stays liquid almost all year. In Bengaluru it often sets on cool winter mornings. In Delhi, it sets for most of the winter. What does that tell us about winter in these places?  
   *Child mode:* Where in India does coconut oil go hard? What does that tell you?
-  - Check: A girl in Delhi finds her coconut oil hard and white in January. A girl in Kochi finds hers clear and runny in the same month. Why? → **January in Delhi is much colder than January in Kochi**
+  - Check: In January, coconut oil in Delhi is hard and white. In the same month, coconut oil in Kochi is clear and runny. Why? → **January in Delhi is much colder than January in Kochi**
 ### a3 · Sun Patch on the Floor (if sunlight comes in through a window) (20 min, 22 days)
 - **safety:** Never look straight at the Sun.
 - **record:** Write the date on each tape mark. After a few months, draw where the patch has moved.
 - **schedule:** day 1: Mark the edge of the sun patch on the floor and write the date. (5 min); day 8: At the same time of day, mark the edge again. (5 min); day 15: Mark the edge again. (5 min); day 22: Mark the edge again and compare all four marks. Keep going every week for as long as you like. (5 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Choose a time when sunlight comes through the window onto the floor, for example 11 o'clock. 2. Stick a short strip of tape at the inner edge of the sun patch, the edge furthest into the room. 3. Write the date on the tape.  
-  *Parent says:* The Sun's light makes a patch on our floor. If the Sun is lower in the sky, the light comes further into the room. Let's mark where the edge is today, at the same time every week.  
+  *Parent says:* The Sun's light makes a patch on our floor. If the Sun is lower in the sky, the light comes further into the room. Let's mark where the edge is today. Then we will mark it again every week, at the same time of day.  
   *Child mode:* Put tape at the edge of the sun patch. Write today's date on it.
 - **s2 (5 min)**  
   *Parent does:* 1. At the same time of day, mark the edge of the sun patch again. 2. Write the date.  
   *Parent says:* Is the patch further into the room or nearer the window than last week? What does that tell you about how high the Sun is now?  
-  *Child mode:* Mark the edge again. Has it moved in or out?
+  *Child mode:* Mark the edge again. Has it moved further into the room, or nearer the window?
   - Wait: One week later
 - **s3 (5 min)**  
   *Parent does:* Mark the edge again and write the date.  
@@ -410,6 +411,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
   *Parent does:* Look at the finished wheel together.  
   *Parent says:* The wheel comes back to January after December. What does that tell us about the seasons?  
   *Child mode:* December leads back to January. What does that tell you?
+  - Note: A good answer: the seasons come round again in the same order every year, so the year has no end. After the cool months the hot months start again, and the wheel goes on turning.
   - Think: Does a year have a beginning, or is it a circle?
 ### a5 · Ask an Elder: one season, then and now (15 min)
 - **record:** Write down their answers. Draw one thing they told you.
@@ -453,7 +455,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
   *Parent does:* 1. Draw a fourth time. 2. Lay all four pages side by side. 3. Write three changes you saw, and whether the days got longer or shorter.  
   *Parent says:* Put all four pages side by side. What changed in the tree? What changed in the day length? Do you think the two are linked?  
   *Child mode:* Look at all four pages. What changed? Did the days get longer or shorter?
-  - Check: Ananya, a girl in Class 4, keeps a diary of the neem tree outside her window. From February to March the tree drops yellow leaves, then grows new ones. What is the best reason? → **The tree is changing with the dry season, as neem trees do every year**
+  - Check: From February to March, a neem tree drops yellow leaves and then grows new ones. What is the best reason? → **The tree is changing with the dry season, as neem trees do every year**
   - Wait: Three weeks after the start
 
 ## Challenges
@@ -462,11 +464,11 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - **your turn:** Now design your own bird water bowl. Draw it, build it, put it out, and record which birds visit in a week.
 - **constraints:** Use things from home only.; The water must be shallow, no deeper than 3 cm, so small birds cannot drown.; It must not tip over when a crow lands on the edge.; It must be easy to wash and refill every day.
 - **general:** People put a shallow clay saucer of water in a shady corner of the balcony, and refill it every morning.; A few stones in the water give small birds a place to stand.
-- **creative:** Put the clay saucer inside a slightly bigger one with a little water between them, so it stays cool for longer.; Hang a second bowl under the edge of a sunshade, so it is in shade all afternoon.
+- **creative:** Put the clay saucer inside a slightly bigger one, with a little water between them. The water slowly dries and takes heat away, so the bowl stays cool for longer.; Hang a second bowl under the edge of a sunshade, so it is in shade all afternoon.
 - **s1 (8 min)**  
   *Parent does:* Read the problem together and draw two ideas.  
   *Parent says:* Birds need water most in the hottest weeks, when puddles have dried up. What would make a bowl safe, cool and steady? Let's each draw two ideas.  
-  *Child mode:* Birds need water in summer. Draw two bowl ideas. Safe, cool and steady.
+  *Child mode:* Birds need water in summer. Draw two ideas for a bowl. Each bowl must be safe, cool and steady.
 - **s2 (15 min)**  
   *Parent does:* 1. Build the best idea. 2. Put it in a shady place on the balcony or window sill. 3. Press on the edge to test that it does not tip.  
   *Parent says:* Let's build it. Put it in the shade. Press on the edge like a crow landing. Does it stay steady?  
@@ -474,8 +476,8 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
   - Note: Clay keeps water cooler than steel, because a little water soaks through the clay and dries from the outside. Wash the bowl and change the water every day, so mosquitoes cannot breed in it.
 - **s3 (7 min)**  
   *Parent does:* Read the usual and creative ideas, and plan a week of watching.  
-  *Parent says:* Here are some other ideas. Can you make yours better? Who do you think will come first?  
-  *Child mode:* Read the other ideas. Who will come first, do you think?
+  *Parent says:* Here are some other ideas. Can you make yours better? Which bird do you think will come first?  
+  *Child mode:* Read the other ideas. Which bird do you think will come first?
   - Check: Why should the water in a bird bowl be changed every day? → **So mosquitoes cannot lay eggs and breed in it**
 ### c2 · A Shade for Summer: keep the ice in a box (on a sunny balcony) (40 min)
 - **problem:** In summer, people shade their windows and roofs to keep their homes cool. Design a shade for a shoebox house, so that an ice cube inside melts more slowly than one in a box with no shade, in the same sunshine.
@@ -485,12 +487,12 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - **creative:** Leave a gap of air between the shade and the box, so the shade's heat doesn't touch the box.; Use a wet cloth as the shade, so it cools as it dries, like a wet khus curtain.; Copy a thatched roof with dry grass or a jute sack.
 - **s1 (8 min)**  
   *Parent does:* Read the problem and draw two shade ideas.  
-  *Parent says:* How do homes in summer stop the Sun heating them? Think of sunshades, curtains and thatch. Draw two ideas for a shade for this box.  
+  *Parent says:* How do people stop the Sun heating their homes in summer? Think of sunshades, curtains and thatch. Draw two ideas for a shade for this box.  
   *Child mode:* How do homes stay cool in summer? Draw two shade ideas.
 - **s2 (27 min)**  
   *Parent does:* 1. Build the shade on one box. 2. Take the ice cubes out of the freezer only when you are ready, and put one on a plate inside each box. 3. Put both boxes side by side in full sunshine, facing the same way. 4. Check every 10 minutes. 5. Note which ice cube is smaller.  
   *Parent says:* Both boxes are in the same sun. Only the shade is different. Check every 10 minutes. Which ice is melting slower?  
-  *Child mode:* Both boxes in the sun. Check every 10 minutes. Which ice melts slower?
+  *Child mode:* Put both boxes in the sun. Check every 10 minutes. Which ice cube melts slower?
   - Note: The ice in the shaded box should stay bigger. If both melt at the same speed, the shade may be touching the box and passing its heat on. Try leaving a gap of air.
 - **s3 (5 min)**  
   *Parent does:* Compare the ice cubes and read the other ideas.  
@@ -504,10 +506,10 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
    **Answer:** mangoes in the market → Summer; frogs croaking at night → Rainy season; fog on Delhi mornings → Winter; vadams drying on the terrace → Summer; farmers planting rice seedlings → Rainy season; pintail ducks on a lake → Winter; the koel calling all day → Summer; Pongal with new rice → Winter; hilsa fish swimming up Bengal rivers → Rainy season. *Why:* A strong sorter thinks about why each clue happens then: mangoes ripen in the heat, frogs need puddles, ducks come when their own lakes freeze.
 2. (write) Look out of your window today. Write three clues that tell you what season it is, and say what each one tells you.  
    **Answer:** Any three real clues with a reason, for example: 'The fan is on all day, so it is hot. The tree is bare, which means the dry season. Mangoes are in the kitchen, so it is summer.'. *Why:* A strong answer uses clues the child really saw, and links each one to the season.
-3. (mcq) Kavya lives in Chennai. In which months does Chennai get most of its rain?  
+3. (mcq) In which months does Chennai get most of its rain?  
    Options: June to September / October to December / January to March / April and May  
    **Answer:** October to December. *Why:* Chennai gets most of its rain from the north-east monsoon, from October to December. Most of the rest of India gets most rain from June to September. Picking June to September is right for Kochi or Mumbai, but not for Chennai.
-4. (write) Why is the ground hotter at noon in May than at noon in December? Use the torch test in your answer.  
+4. (write) Why is the ground hotter at noon in May than at noon in December? Use the Straight or Slanting torch test in your answer.  
    **Answer:** In May, the noon Sun is high, nearly straight above us, like the torch shining straight down. Its light is packed into a small patch, so each bit of ground gets a lot. In December, the Sun is lower, like the slanting torch, so the same light is spread over more ground. The days are also longer in May.. *Why:* A strong answer compares the high Sun to the straight torch and the low Sun to the slanting torch, and says the light is packed or spread.
 5. (fill) Trees that drop all or most of their leaves for part of the year are called ____ trees.  
    **Answer:** ['deciduous']. *Why:* Deciduous trees, such as teak and peepal, drop their leaves in the dry months and grow new ones later.
@@ -517,29 +519,29 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
    **Answer:** wear loose cotton clothes → Summer; drink buttermilk and tender coconut → Summer; sit in the sun at noon → Winter; wear sweaters in Delhi → Winter; eat nungu, the ice apple → Summer; cook Pongal with new rice → Winter. *Why:* People change clothes and food to stay comfortable, and festivals often follow the harvest of each season.
 8. (mcq) Why do many families dry vadams and make pickles in summer?  
    Options: The strong summer sun dries food quickly / Vadams only taste good in summer / There is no rice in other seasons  
-   **Answer:** The strong summer sun dries food quickly. *Why:* Summer sunshine is strong and the air is dry, so food dries in hours. In the rains, food would stay damp and could go mouldy. The vadams then keep for months.
-9. (write) Nila, a girl in Class 3, says: 'Summer is hot because the Earth is close to the Sun then.' Give one fact that shows she is wrong.  
+   **Answer:** The strong summer sun dries food quickly. *Why:* Summer sunshine is strong and the air is dry, so food dries in hours. Dried vadams keep for months. In the rains, food would stay damp and could go mouldy.
+9. (write) Some people say: 'Summer is hot because the Earth is close to the Sun then.' Give one fact that shows this is wrong.  
    **Answer:** The Earth is closest to the Sun in early January, and that is winter in India. Or: when it is summer in India, it is winter in Australia, under the same Sun. So distance cannot be the reason.. *Why:* A strong answer gives a real fact, not just 'it is the tilt', and says why the fact proves the idea wrong.
 10. (fill) The green colouring in leaves, which plants use to catch sunlight, is called ____.  
    **Answer:** ['chlorophyll']. *Why:* Chlorophyll is the green pigment that plants use to catch sunlight and make their food.
 11. (truefalse) Every place in India gets its big rains at the same time of year.  
    **Answer:** False. *Why:* False. Kochi and Mumbai get most rain from June to September. Chennai gets most of its rain from October to December.
-12. (mcq) Imran, a boy in Class 3, measures his shadow at noon in May and again in December. What will he find?  
+12. (mcq) Measure your shadow at noon in May and again in December. What will you find?  
    Options: The shadow is shorter in May / The shadow is shorter in December / The shadow is the same length  
    **Answer:** The shadow is shorter in May. *Why:* In May the noon Sun is high, nearly overhead, so shadows are very short. In December the Sun is lower, so shadows are longer.
 13. (fill) A tree that keeps green leaves all year round, such as the coconut palm, is called ____.  
    **Answer:** ['evergreen']. *Why:* Evergreen trees drop old leaves a few at a time and keep growing new ones, so they are never bare.
 14. (write) Choose one: the frog, the buffalo or the koel. Which season is it, what problem or chance does the season bring, and what do they do about it?  
    **Answer:** Any one animal with a true reason. For example: in summer the buffalo has few sweat glands, so she lies in mud or water to cool off. Or: after the first rains, frogs call and lay eggs in puddles, because their eggs and tadpoles need water.. *Why:* A strong answer starts with the animal's problem or chance in that season, then says what the animal does.
-15. (mcq) In the torch test, which shine gave each square the most light?  
+15. (mcq) In the Straight or Slanting test, which way of shining the torch gave each square the most light?  
    Options: Straight down / At a slant / Very low  
    **Answer:** Straight down. *Why:* Straight down, the same light is packed into the fewest squares, so each square gets the most. That is like the high summer Sun.
 ### Leaves, Light and Long Nights (stretch) (stretch, 15 questions)
 1. (write) Before a tree drops her leaves, she breaks down the green chlorophyll and moves useful nutrients back into the branches. Why is this better for the tree than just dropping green leaves?  
    **Answer:** The leaves hold nutrients such as nitrogen, which the tree worked hard to take from the soil. If the tree dropped green leaves, those nutrients would be lost on the ground. By taking them back first, the tree can use them again for new leaves.. *Why:* A strong answer says the nutrients are saved and reused, not wasted.
-2. (perspective) Sushila's family is looking at a peepal tree that is dropping leaves in March, in front of their building.  
-   **Answer:** A strong answer picks a side with evidence: peepal trees are deciduous and drop leaves in the dry season every year, so Sushila is probably right. It then gives another view its due: Amma's plan to watch is how a scientist would check, and Mr Rao is right that a sick tree can fall and hurt someone. So checking for other signs, such as rotten wood, is wise.. *Why:* There is a real choice between knowing a pattern, checking with evidence, and being careful about safety. The best answers use the seasonal pattern and the idea of watching over time.
-3. (mcq) Rani, a girl in Class 4, does the torch test. Straight down, the torch lights 30 squares. Very low, it lights 90 squares. How much light does each square get when the torch is low, compared with straight down?  
+2. (perspective) A peepal tree drops her leaves in March. A girl, her mother and a neighbour talk about it.  
+   **Answer:** A strong answer picks a side with evidence: peepal trees are deciduous and drop leaves in the dry season every year, so the girl is probably right. It then gives another view its due: the mother's plan to watch is how a scientist would check, and Mr Rao is right that a sick tree can fall and hurt someone. So checking for other signs, such as rotten wood, is wise.. *Why:* There is a real choice between knowing a pattern, checking with evidence, and being careful about safety. The best answers use the seasonal pattern and the idea of watching over time.
+3. (mcq) In the Straight or Slanting test, a torch lights 30 squares when it shines straight down. Held very low, it lights 90 squares. How much light does each square get when the torch is low, compared with straight down?  
    Options: About a third as much / Three times as much / The same  
    **Answer:** About a third as much. *Why:* The same light is spread over 3 times as many squares, 90 instead of 30. So each square gets about a third of the light. That is why the low Sun of a winter evening feels weak.
 4. (order) Put these in order through one year for a teak tree in India, starting in the rains.  
@@ -552,7 +554,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
    **Answer:** In May, the Sun is high, nearly overhead, and the shadow is very short. In December, the Sun is lower in the south, and the shadow is longer, pointing north.. *Why:* A strong drawing shows the high Sun with a short shadow and the low Sun with a long shadow.
 8. (fill) A long journey that animals make every year at the same season is called ____.  
    **Answer:** ['migration']. *Why:* Migration is a yearly journey, like the pintail duck's flight to India for the winter.
-9. (sort) Sort these trees. Are they evergreen, green all year, or deciduous, dropping their leaves in the dry months?  
+9. (sort) Sort these trees. Is each one evergreen (green all year) or deciduous (drops her leaves in the dry months)?  
    **Answer:** coconut palm → Evergreen; teak → Deciduous; mango → Evergreen; peepal → Deciduous; gulmohar → Deciduous; banana plant → Evergreen. *Why:* Coconut, mango and banana stay green all year. Teak, peepal and gulmohar drop their leaves in the dry season. Peepal is bare only for a short time.
 10. (write) The koel lays her eggs in crows' nests, and the crows raise her chicks. Why might summer be a good time for this?  
    **Answer:** In summer, crows are building nests and laying their own eggs too, so there are nests to use. Summer and the early rains also bring lots of food, such as fruit and insects, for the chicks.. *Why:* A strong answer links the koel's plan to what the crows are doing in the same season, and to food for the young.
@@ -561,27 +563,27 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
    **Answer:** Many fish breed then, so leaving them alone means more fish later. *Why:* Many fish breed in these weeks. If they are caught then, fewer young fish are born, and there are fewer fish in the years after. The fishing ban protects them.
 12. (match) Match each ritu, from the old Indian calendar, with what it means.  
    **Answer:** Vasanta → spring; Grishma → summer; Varsha → the rains; Sharad → early autumn; Hemanta → the cool time before winter; Shishira → winter. *Why:* The six ritus split the year into two-month seasons. Vasanta is the time of Holi and Ugadi.
-13. (write) A girl in Class 3 says the yellow in a falling leaf is a new colour that the leaf makes as the leaf dies. What would you show her to change her mind?  
+13. (write) Some people say the yellow in a falling leaf is a new colour that the leaf makes as the leaf dies. What would you show them to change their mind?  
    **Answer:** I would do the Hidden Colours test with a fresh green leaf. The green leaf also makes a yellow band on the strip. So the yellow was already in the leaf while it was green. It only shows when the green goes.. *Why:* A strong answer uses the strip test as evidence, and explains that the yellow was there all along.
 14. (write) Name two things your family wears or eats in one season but not in another. Say why each change helps.  
    **Answer:** Any two real examples with a reason. For example: cotton clothes in summer, because they keep us cooler; sweaters in a cold winter, because they hold in body heat.. *Why:* A strong answer links each change to the weather or the harvest of that season.
-15. (mcq) Rekha, a girl in Class 4, wants to test whether sevanthi plants flower because of long nights. Which test is fairest?  
-   Options: Two pots of the same plant side by side. Cover one with a dark cloth for the same long night every day, and leave the other uncovered / Two pots in different places, one in sun and one in shade / One pot watched for a whole year  
-   **Answer:** Two pots of the same plant side by side. Cover one with a dark cloth for the same long night every day, and leave the other uncovered. *Why:* In a fair test only one thing changes. Here the two plants are the same and in the same place, and only the length of the night is different.
+15. (mcq) You want to test whether sevanthi plants flower because of long nights. Which test is fairest?  
+   Options: Two pots of the same plant side by side. Every day, cover one with a dark cloth for the same number of hours, to give that plant a long night. Leave the other uncovered / Two pots in different places, one in sun and one in shade / One pot watched for a whole year  
+   **Answer:** Two pots of the same plant side by side. Every day, cover one with a dark cloth for the same number of hours, to give that plant a long night. Leave the other uncovered. *Why:* In a fair test only one thing changes. Here the two plants are the same and in the same place, and only the length of the night is different.
 ### Questions the Seasons Raise (challenge) (challenge, 15 questions)
 1. (perspective) Two scientists in the 1920s are arguing about why a tobacco plant flowered only in winter.  
    **Answer:** A strong answer sides with Garner and gives his test: shut some plants in a dark hut each afternoon to make their days short, keep others outside, and see which flower. It then says what the first scientist got right: many plants do need to reach a certain size before they can flower at all.. *Why:* Both ideas can be partly true. Garner and Allard showed that day length decides when many plants flower. But a seedling that is too young often cannot flower yet, whatever the day length.
 2. (write) Garner and Allard's tobacco plants flowered when they were shut in the dark every afternoon. Later scientists found that a short flash of light in the middle of a long night stopped plants like these from flowering. What does this tell you the plant is really measuring?  
    **Answer:** The plant is measuring how long the dark lasts without a break, the length of the night. A flash in the middle splits the long night into two short nights, so the plant acts as if the nights are short.. *Why:* A strong answer says the plant measures the night, and explains why the flash matters: it breaks the night into two short ones.
 3. (mcq) Street lights shine all night near some trees in a city. What might happen to a plant that uses night length to know when to flower?  
-   Options: The plant might flower at the wrong time, or not at all / It will flower twice as much / Nothing, because plants only feel daytime light  
+   Options: The plant might flower at the wrong time, or not at all / The plant will flower twice as much / Nothing, because plants only feel daytime light  
    **Answer:** The plant might flower at the wrong time, or not at all. *Why:* Bright light at night can make the night seem short to a plant. A plant that flowers in long nights might then flower late, or not at all. Scientists have found street lights can change when some plants flower and when their leaves fall.
 4. (write) In Australia, the summer holidays are in December and January. Use what you know about the tilted Earth to explain why.  
    **Answer:** The Earth's axis is tilted. In December, the southern half of the Earth, where Australia is, leans towards the Sun. The Sun is high there and the days are long, so it is summer. India's half leans away then, so India has winter.. *Why:* A strong answer uses the tilt and says that the two halves of the Earth lean towards the Sun at opposite times of year.
-5. (mcq) Shreya, a girl in Class 4, repeats the torch test, but she holds the torch twice as far away for the slanting shine. Why is this not a fair test?  
+5. (mcq) You repeat the Straight or Slanting test, but you hold the torch twice as far away for the slanting shine. Why is this not a fair test?  
    Options: Two things changed: the angle and the distance / The torch got tired / The squares got smaller  
-   **Answer:** Two things changed: the angle and the distance. *Why:* In a fair test only one thing changes. If the distance changes too, she cannot tell whether the bigger patch came from the slant or from the extra distance.
-6. (order) A neem tree in Hyderabad, from February to April. Put the changes in order.  
+   **Answer:** Two things changed: the angle and the distance. *Why:* In a fair test only one thing changes. If the distance changes too, you cannot tell whether the bigger patch came from the slant or from the extra distance.
+6. (order) These changes happen to a neem tree in Hyderabad from February to April. Put them in order.  
    **Answer:** ['Old leaves turn yellow and fall', 'Reddish buds appear at the twig tips', 'Soft pale-green new leaves hang down', 'Tiny white flowers open, ready for Ugadi pachadi']. *Why:* The neem drops old leaves in the dry months, then buds open into new leaves, then the flowers come, often around Ugadi in March or April.
 7. (write) Old Indian calendars have six seasons. The weather department has four. Many people in Chennai say there are really three: hot, hotter and rainy. Which count would you choose for where you live, and why?  
    **Answer:** Any choice with a reason from local weather. For example: 'For Chennai, I would choose three: hot from March to June, the rains from October to December, and a cooler, drier time in January and February, because those are the biggest changes.'. *Why:* A strong answer understands that seasons are a way of splitting the year, and chooses the split that fits the real weather of a place.
@@ -600,11 +602,11 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
    **Answer:** A strong answer values both: the farmer notices real things every day and may be right, and the scientist's records can check the memory and show how big the change is. A good check is written rain records for the same place over many years.. *Why:* Both are useful. Memory gives the first clue, and records show whether it is true. The best answers use both.
 14. (draw) Draw a year in the life of a pintail duck. Show where she is in summer, in autumn, in winter and in spring, and why.  
    **Answer:** Summer: on a lake in Central Asia, laying eggs. Autumn: flying south to India as the lakes freeze. Winter: on a warm Indian lake, feeding. Spring: flying back north to lay eggs.. *Why:* A strong drawing follows the duck's year and gives the reason for each move: frozen lakes and food in winter, a place for eggs in summer.
-15. (draw) Draw a lamp as the Sun and a tilted ball as the Earth. Show India in June and in December, and label which time of year leans towards the Sun and which leans away.  
+15. (draw) Draw a lamp as the Sun and a tilted ball as the Earth. Show India in June and in December. Label the month when India's half of the Earth leans towards the Sun, and the month when it leans away.  
    **Answer:** Two drawings with the ball tilted the same way both times. In June, India's half leans towards the Sun. In December it leans away.. *Why:* A strong drawing keeps the tilt pointing the same way while the Earth moves round the Sun, so that the two halves lean towards the Sun at opposite times.
 
 ## Videos
-- **Why Do Leaves Change Colors in the Fall? | Biology for Kids | SciShow Kids** (SciShow Kids, 4 min) id `Xk4-6II8l5Q`: A short, clear cartoon about chlorophyll and the yellow pigments hidden under it, which is what your strip test showed. It is set in a cold country, where leaves fall in autumn. In most of India, they fall in the dry months instead. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Why Do Leaves Change Colors in the Fall? | Biology for Kids | SciShow Kids', channel SciShow Kids). Not watched from here, so the length is a guess: a parent should preview it.
+- **Why Do Leaves Change Colors in the Fall? | Biology for Kids | SciShow Kids** (SciShow Kids, 4 min) id `Xk4-6II8l5Q`: A short, clear cartoon about chlorophyll and the yellow pigments hidden under it, which is what the Hidden Colours test shows. It is set in a cold country, where leaves fall in autumn. In most of India, they fall in the dry months instead. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Why Do Leaves Change Colors in the Fall? | Biology for Kids | SciShow Kids', channel SciShow Kids). Not watched from here, so the length is a guess: a parent should preview it.
 - **Leaf Color Chromatography - Bite Sci-zed** (Alex Dainis, 4 min) id `qH-AJDqsSII`: A scientist shows the same kind of leaf colour test as Hidden Colours, and explains the bands. Good to watch before or after your own test. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Leaf Color Chromatography - Bite Sci-zed', channel Alex Dainis). Not watched from here: a parent should preview it, and check which liquid is used.
 - **What causes seasons on Earth? | Star Walk Kids** (Star Walk, 4 min) id `ib_SdGar07k`: An animation of the tilted Earth going round the Sun, showing why each half of the Earth has summer at a different time of year. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'What causes seasons on Earth? | Star Walk Kids', channel Star Walk). Not watched from here: a parent should preview it.
 
@@ -615,12 +617,12 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 2. (mcq) In most of India, which months are the main rainy season?  
    Options: June to September / December to February / March to May  
    **Answer:** June to September. *Why:* The south-west monsoon brings most of India's rain from June to September. Tamil Nadu is different: Chennai gets most rain from October to December.
-3. (mcq) In the torch test, what happened when the torch shone at a slant from the same distance?  
+3. (mcq) In the Straight or Slanting test, you shone a torch on squared paper. What happened to the patch of light when the torch shone at a slant, from the same distance?  
    Options: The patch got bigger and dimmer / The patch got smaller / The torch got brighter  
    **Answer:** The patch got bigger and dimmer. *Why:* The same light spread over more squares, so the patch was bigger and dimmer. Each square got less light.
-4. (mcq) In the Hidden Colours test, which colours came out of a fresh green leaf?  
+4. (mcq) You crush a fresh green leaf and let its colours climb up a paper strip. Which colours would you expect to see?  
    Options: Green and yellow / Only green / Red and blue  
-   **Answer:** Green and yellow. *Why:* The green leaf made a green band and a yellow band. The yellow was in the leaf all along, hidden under the green.
+   **Answer:** Green and yellow. *Why:* A green leaf gives a green band and a yellow band. The yellow is in the leaf all along, hidden under the green. When the green fades, the yellow shows.
 5. (mcq) Why do leaves often turn yellow before they fall?  
    Options: The tree breaks down the green, and the yellow that was there shows / The leaf is painted by the sun / Yellow is the colour of dry soil  
    **Answer:** The tree breaks down the green, and the yellow that was there shows. *Why:* Before dropping a leaf, the tree breaks down the green chlorophyll and takes useful nutrients back. The yellow pigments stay longer, so the leaf looks yellow.
@@ -633,12 +635,12 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 8. (mcq) Which of these is something people in India do in summer?  
    Options: Drink buttermilk and wear cotton clothes / Wear sweaters and monkey caps / Sow rice in flooded fields  
    **Answer:** Drink buttermilk and wear cotton clothes. *Why:* In the summer heat, people wear loose cotton and drink buttermilk to keep cool. Sweaters are for winter, and rice is sown in the rains.
-9. (mcq) Pongal, in Tamil Nadu, celebrates what?  
-   Options: The rice harvest in January / The first rain of the monsoon / The hottest day of summer  
-   **Answer:** The rice harvest in January. *Why:* Pongal, in mid-January, celebrates the harvest. The Pongal dish is cooked with the new rice.
-10. (mcq) What did Garner and Allard find out about plants?  
+9. (mcq) Pongal, Lohri and Magh Bihu all come in mid-January. What do farmers in many parts of India have to celebrate at that time?  
+   Options: The new harvest, such as rice / The first rain of the monsoon / The hottest day of summer  
+   **Answer:** The new harvest, such as rice. *Why:* Crops sown in the rainy months are ready to cut by winter. Harvest festivals come when the new crop is in. The Pongal dish is cooked with the new rice.
+10. (mcq) A gardener puts one plant in a dark box every afternoon, so that plant gets short days. The plant in the box flowers. The same kind of plant left outside does not flower yet. What does this show?  
    Options: Many plants use the length of the day and night to know when to flower / Plants flower only when they are very big / Plants flower only in the rain  
-   **Answer:** Many plants use the length of the day and night to know when to flower. *Why:* They gave tobacco plants short days by putting them in a dark hut each afternoon. The plants flowered in summer. So day length, and really night length, tells many plants the season.
+   **Answer:** Many plants use the length of the day and night to know when to flower. *Why:* Only the length of light and dark was changed, and the flowering changed. So the length of the day, or really the length of the night, tells many plants the season.
 11. (mcq) Sevanthi flowers when the nights are long. When are the nights longest in India?  
    Options: Around December / Around June / Around April  
    **Answer:** Around December. *Why:* The nights are longest around 21 or 22 December, so sevanthi flowers in the cool months.
@@ -646,7 +648,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 ## Applications
 - Farmers decide when to sow by the season. Rice is sown with the monsoon, and wheat in the cool months.
 - The weather department forecasts when the monsoon will reach Kerala, so farmers and cities can plan.
-- Flower growers use lamps at night to stop sevanthi flowering too early, or black covers to make it flower sooner.
+- Flower growers use lamps at night to stop sevanthi plants flowering too early, or black covers to make them flower sooner.
 - Builders put deep sunshades over windows, so the high summer Sun is kept out and the low winter Sun comes in.
 - Solar panels are tilted to face the Sun, so its light falls on them as straight as possible.
 - The 61-day fishing ban protects fish while many of them breed.
@@ -697,7 +699,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - How does the year keep fit? *It goes round and round.*
 
 ## Connected maths
-- Divya, a girl in Class 3, does the torch test. Her torch lit 40 squares when it shone straight down. When it shone very low, the same light lit 120 squares. How many times as many squares did the low torch light? What share of the light did each square get? **3 times as many squares. Each square got about a third of the light.**. 120 divided by 40 is 3. The same light was shared among 3 times as many squares, so each square got a third as much. That is why the low light looked dim. (queues `math.division.sharing-and-grouping.L3`)
+- In the Straight or Slanting test, a torch lit 40 squares when it shone straight down. When it shone very low, the same light lit 120 squares. How many times as many squares did the low torch light? Compared with straight down, how much of the light did each square get? **3 times as many squares. Each square got about a third of the light.**. 120 divided by 40 is 3. The same light was shared among 3 times as many squares, so each square got a third as much. That is why the low light looked dim. (queues `math.division.sharing-and-grouping.L3`)
 - In Delhi, the longest day in June has about 14 hours of daylight, and the shortest day in December has about 10 hours. In Chennai, the longest day has about 12 hours 50 minutes, and the shortest about 11 hours 20 minutes. How much longer is the longest day than the shortest, in each city? **Delhi: about 4 hours longer. Chennai: about 1 hour 30 minutes longer.**. Delhi: 14 hours take away 10 hours is 4 hours. Chennai: from 11 hours 20 minutes, add 40 minutes to reach 12 hours, then 50 more minutes to reach 12 hours 50 minutes. 40 + 50 = 90 minutes, which is 1 hour 30 minutes. So the seasons change the day length much more in Delhi, which is further from the equator. (queues `math.time.duration.L3`)
 - Every year, fishing at sea on the east coast stops from 15 April to 14 June, both days included. How many days is that? **61 days.**. April: from 15 to 30 is 16 days. May has 31 days. June: from 1 to 14 is 14 days. 16 + 31 + 14 = 61 days. (queues `math.time.calendar.L3`)
 - The weather department splits the year into four seasons: winter is 2 months, summer is 3 months, the south-west monsoon is 4 months and the post-monsoon season is 3 months. What fraction of the year is the south-west monsoon? Which two seasons together make half the year? **The monsoon is 4 out of 12 months, which is one third of the year. Summer and the post-monsoon season together make 6 months, half the year.**. 4 out of 12 is the same as 1 out of 3, because 12 is 3 lots of 4. Half of 12 months is 6. Summer (3) and post-monsoon (3) make 6. Winter (2) and the monsoon (4) also make 6. (queues `math.fractions.fractions-of-a-whole.L3`)
@@ -722,7 +724,7 @@ Turning Into the Light (sci.day-night-seasons.L3): Topic-level song for Day, nig
 - Name India's three main seasons. → Summer, the rainy season and winter.
 - When does Chennai get most of its rain? → From October to December, from the north-east monsoon.
 - Is the Earth closest to the Sun in summer or winter in India? → In winter, in early January.
-- Why is summer hotter? → The Sun is higher, so its light is packed into a smaller patch, and the days are longer.
+- Why is summer hotter than winter? → The Sun is higher, so its light lands on a smaller patch of ground and each bit gets more of it. The days are also longer.
 - What colour is hidden in a green leaf? → Yellow.
 - What are trees called that drop their leaves for part of the year? → Deciduous.
 - Which ducks fly to India for the winter? → Pintail ducks, and many others.

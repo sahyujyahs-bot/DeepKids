@@ -972,7 +972,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Cut a cucumber into 4 slices, each about as thick as your finger. 2. Lay them on a plate for one hour, uncovered.",
-     "say": "Pickles keep for a year. Fresh cucumber rots in a week. Is it the salt? Let's test.",
+     "say": "A jar of pickle can last a whole year, but a fresh cucumber goes bad in about a week. Could the salt be the reason? Let's test it.",
      "kid": "A grown-up cuts 4 cucumber slices. Leave them on a plate for one hour.",
      "adult": true,
      "context": "This is the first step of the Pickle Test. You find out whether salt stops mould, the way it does in pickles."
@@ -1427,7 +1427,7 @@
      "mins": 3,
      "do": "For each food, write what the way it is kept takes away from the decomposers: water, warmth or air.",
      "say": "Drying takes away water. What does salt do? What does the fridge do?",
-     "kid": "For each food, write: no water, no warmth or no air."
+     "kid": "For each food, write what is missing for the decomposers: water, warmth or air."
     }
    ],
    "context": "This is a family interview and kitchen search about how food is kept from rotting.",
@@ -1857,6 +1857,7 @@
      "do": "Think about what decomposers need: food, water, warmth and air.",
      "say": "Which of these can we take away from a tomato without ruining it?",
      "kid": "What do decomposers need? Which one can we take away?",
+    "parent": "Good answers: keep the tomato cool, and keep it dry. The tomato is the food, so that cannot be taken away. Accept any answer that gives a reason.",
      "context": "This is a challenge to keep a tomato fresh the old way, without a fridge."
     },
     {
@@ -2189,7 +2190,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the story The Leaves That Waited for the Rain, Arjun says the rain melted the leaves in the pot. What really made the leaves rot?",
+     "p": "Someone says, 'The monsoon rain melted the dead leaves in the pot.' What really made the leaves rot?",
      "opts": [
       "Decomposers, who could feed once the rain gave them water",
       "The rain dissolved them like sugar",
@@ -2300,7 +2301,7 @@
        "says": "The compost gives free soil for the building's plants. Sending waste away on a lorry wastes it."
       },
       {
-       "who": "The first child, aged 9",
+       "who": "A girl, aged 9",
        "says": "Compost smells only when the heap is too wet. We can cover each layer with dry leaves."
       }
      ],
@@ -3011,5 +3012,5 @@
   "when": "1837 (Darwin's first talk on worms) to 1881 (his book on worms)",
   "wrong_idea": "People thought worms were garden pests, far too small and weak to change the land. Darwin's measurements of casts and buried layers showed that worms slowly turn over and build the topsoil."
  },
- "warm": {"words": ["MOULD", "WORMS", "WATER", "DECAY", "FUNGI"], "quiz": [["A fungus digests food outside the body, then soaks up the watery result.", true, "Their threads give out chemicals that break the food down, so the threads can soak it up."], ["Fungi are plants that make their own food from sunlight.", false, "Fungi are not plants. They feed by digesting food around them, not by using sunlight."], ["Drying, salt and sugar keep food from rotting because they take away water.", true, "Decomposers need water, so food without usable water lasts for a long time."], ["Mould grows inside food by itself, with no spores needed.", false, "Mould grows from spores floating in the air that land on damp food."], ["A ripe papaya rots in days, but dry wood takes months or years.", true, "Soft, wet things are easy for decomposers; dry, tough things are slow to break down."], ["Earthworms harm gardens by eating living roots.", false, "Worms eat dead leaves, their burrows let in air and water, and their casts feed plants."], ["Earthworms, millipedes and termites help decomposers by chewing dead things into small pieces.", true, "Small pieces are easier for fungi and bacteria to break down."], ["If you cut off the mouldy part of a chapati, the rest is safe to eat.", false, "Mould threads spread far inside soft food before you see them, and some make harmful chemicals."], ["Without decomposers, dead leaves would pile up and plants would run short of nutrients.", true, "Decomposers return the materials in dead things to the soil, where plants can use them."], ["Mould needs light to grow, so food kept in the dark stays fresh.", false, "Mould needs food, water, warmth and air. Mould does not need light."]], "odd": [[["Earthworm", "Bread mould", "Mushroom", "Neem tree"], "Neem tree", "Earthworms, moulds and mushrooms feed on dead things; a neem tree makes their own food from sunlight."], [["Dried chillies", "Salted fish", "Sugary jam", "Fresh cut papaya"], "Fresh cut papaya", "The first three keep well because water is removed or held by salt or sugar; fresh papaya is full of water."], [["Ripe papaya", "Cooked rice", "Cut banana", "Coconut shell"], "Coconut shell", "The first three are soft and wet, so they rot fast; a coconut shell is dry and tough, so it takes years."], [["Food", "Water", "Warmth", "Bright light"], "Bright light", "Decomposers need food, water and warmth; they can grow well in the dark."], [["Spore", "Hypha", "Mycelium", "Gizzard"], "Gizzard", "Spores, hyphae and mycelium are parts of a fungus; the gizzard is the part of an earthworm that grinds food."]]}
+ "warm": {"words": ["MOULD", "WORMS", "WATER", "DECAY", "FUNGI"], "quiz": [["A fungus digests food outside the body, then soaks up the watery result.", true, "Their threads give out chemicals that break the food down, so the threads can soak it up."], ["Fungi are plants that make their own food from sunlight.", false, "Fungi are not plants. They feed by digesting food around them, not by using sunlight."], ["Drying, salt and sugar keep food from rotting because they take away water.", true, "Decomposers need water, so food without usable water lasts for a long time."], ["Mould grows inside food by itself, with no spores needed.", false, "Mould grows from spores floating in the air that land on damp food."], ["A ripe papaya rots in days, but dry wood takes months or years.", true, "Soft, wet things are easy for decomposers to eat. Dry, tough things are slow to break down."], ["Earthworms harm gardens by eating living roots.", false, "Worms eat dead leaves, their burrows let in air and water, and their casts feed plants."], ["Earthworms, millipedes and termites help decomposers by chewing dead things into small pieces.", true, "Small pieces are easier for fungi and bacteria to break down."], ["If you cut off the mouldy part of a chapati, the rest is safe to eat.", false, "Mould threads spread far inside soft food before you see them, and some make harmful chemicals."], ["Without decomposers, dead leaves would pile up and plants would run short of nutrients.", true, "Decomposers return the materials in dead things to the soil, where plants can use them."], ["Mould needs light to grow, so food kept in the dark stays fresh.", false, "Mould needs food, water, warmth and air. Mould does not need light."]], "odd": [[["Earthworm", "Bread mould", "Mushroom", "Neem tree"], "Neem tree", "Earthworms, moulds and mushrooms feed on dead things; a neem tree makes their own food from sunlight."], [["Dried chillies", "Salted fish", "Sugary jam", "Fresh cut papaya"], "Fresh cut papaya", "The first three keep well because water is removed or held by salt or sugar; fresh papaya is full of water."], [["Ripe papaya", "Cooked rice", "Cut banana", "Coconut shell"], "Coconut shell", "The first three are soft and wet, so they rot fast; a coconut shell is dry and tough, so it takes years."], [["Food", "Water", "Warmth", "Bright light"], "Bright light", "Decomposers need food, water and warmth; they can grow well in the dark."], [["Spore", "Hypha", "Mycelium", "Gizzard"], "Gizzard", "Spores, hyphae and mycelium are parts of a fungus; the gizzard is the part of an earthworm that grinds food."]]}
 }
