@@ -592,6 +592,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Child mode:* A veena and a tabla use stretched strings and skins. C. V. Raman, an Indian scientist, found out why the drums sound so musical.
   - Think: Which instruments in your home or temple use something stretched?
 ### a6 · Bend or Snap? Twigs and the Ruler Earthquake (15 min)
+- **problem:** An earthquake happens like this. Deep underground, rock is pushed and bent slowly for years. It gets stuck. Then it suddenly slips, springs back, and the ground shakes. In this activity you make a tiny copy of that with a ruler. When you press a ruler down slowly and let your finger slip off, the same thing happens on a small scale. The ruler stores energy as it bends. Then it lets all of that energy go at once, as a twang and a wobble.
 - **safety:** Snap twigs pointing away from faces. Do not bend the ruler until it breaks.
 - **record:** Draw the green twig and the dry twig after bending. Write which one sprang back.
 - **s1 (5 min)**  
