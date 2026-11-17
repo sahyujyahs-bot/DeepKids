@@ -53,10 +53,10 @@
    "definition": "A shape has symmetry when a line can cut it into two halves that match. The line is called the line of symmetry.",
    "description": "Look at a butterfly. Draw a line down the middle of her body. Her left wings and right wings have the same shape and the same spots. Fold her along that line, and the two sides would meet. That is symmetry. A leaf, a steel spoon, the letter A and your face have it. A chappal has none, because it is shaped for one foot.",
    "examples": [
-    "A butterfly: the line goes down her body.",
-    "A steel spoon: the line goes along it, from the tip to the end of the handle.",
-    "The letter A: the line goes straight down the middle.",
-    "A chappal and the letter F: no line works."
+    "A butterfly has symmetry. The line goes down her body.",
+    "A steel spoon has symmetry. The line goes along it, from the tip to the end of the handle.",
+    "The letter A has symmetry. The line goes straight down the middle.",
+    "A chappal and the letter F have no line of symmetry. No line works."
    ],
    "perspectives": [],
    "context": "This card says what symmetry means. You looked for it in the Leaf Look and the Mirror Test.",
@@ -96,8 +96,8 @@
    "definition": "The two halves of a living being nearly match, but never exactly. Each half grows in its own place and has its own small differences.",
    "description": "In the Mirror Test, half a face and the mirror made a face that looked like the person, but not quite. That is because the two halves of a real face are not exactly the same. One eye may be a little higher, or one side of the smile a little wider. A folded leaf never meets perfectly at every edge. A butterfly may have a nick in one wing. Every living being is nearly even, with small differences of their own.",
    "examples": [
-    "Your face: each mirror face looked a little different from the real you.",
-    "A folded leaf: the two edges almost meet, but not all the way round.",
+    "Your face is nearly even. Each mirror face looked a little different from the real you.",
+    "A folded leaf has two edges that almost meet, but not all the way round.",
     "Your heart sits a little to the left of the middle."
    ],
    "perspectives": [],
@@ -126,7 +126,7 @@
    "for": "From a little distance, the wings on each side look identical, with the same spots in the same places.",
    "against": "Look very closely, and there are tiny differences: a spot a little bigger, a scale rubbed off, or a nick where a bird pecked. The sides match nearly, never exactly.",
    "status": "rejected",
-   "context": "This card asks whether a real butterfly is perfectly even."
+   "context": "From a little distance, a butterfly's two wings look the same. Are her two sides exactly the same?"
   },
   {
    "claim": "Only people make shapes with two matching halves.",
@@ -134,7 +134,7 @@
    "for": "People do plan their kolams, rangolis and buildings to be even on both sides.",
    "against": "Butterflies, leaves, flowers, fish and our own bodies grow with matching halves too. Nobody draws them.",
    "status": "rejected",
-   "context": "This card asks who makes symmetry: people, or living beings as well."
+   "context": "People plan kolams, rangolis and buildings to match on both sides. Do only people make shapes with two matching halves?"
   },
   {
    "claim": "The most symmetric faces are the most beautiful.",
@@ -142,14 +142,14 @@
    "for": "In some studies, many people picked the more symmetric face of two as the more attractive one.",
    "against": "Other studies find the effect is small, and that a perfectly mirrored face can look strange. What people find beautiful also changes from person to person and place to place.",
    "status": "debated",
-   "context": "This card asks whether more even faces really look more beautiful. Scientists still argue about it."
+   "context": "Some studies ask people to pick the more beautiful of two faces. Scientists still argue about whether more even faces really look more beautiful."
   }
  ],
  "big_questions": [
   {
    "q": "Half a butterfly and a mirror showed you the whole butterfly. Was the other half already there, inside the half you had?",
    "kind": "deep",
-   "hint": "Where did the mirror get the other half from? What did it need to make it?"
+   "hint": "The mirror only flips the half you have. It makes a whole butterfly because the other half is the same shape, flipped. So the half you have already tells you what the other half looks like."
   },
   {
    "q": "Your two halves nearly match, but not exactly. Which half is the real you?",
@@ -520,7 +520,8 @@
       ],
       "a": 0,
       "why": "A leaf grows one half on each side of the middle vein. The halves nearly match, but never perfectly."
-     }
+     },
+     "parent": "Each half grows in its own place, so each half has its own small differences. Accept any sensible idea."
     }
    ]
   },
@@ -607,7 +608,8 @@
      }
     }
    ],
-   "safety": "A grown-up watches, so that no grain goes into a mouth, nose or ear. Keep the grains away from any small child."
+   "safety": "A grown-up watches, so that no grain goes into a mouth, nose or ear. Keep the grains away from any small child.",
+   "problem": "In a symmetric pattern, every grain on one side has a matching grain on the other side. It is the same kind of grain, and it is the same distance from the middle line. In this activity you build the second half of a butterfly this way."
   },
   {
    "id": "a3",
@@ -696,7 +698,8 @@
       "why": "The copy is made by folding, so the two halves meet at the fold. The fold is the line of symmetry."
      }
     }
-   ]
+   ],
+   "problem": "When you fold a paper and rub a drawing on one half, the drawing is copied onto the other half. The copy comes out flipped, like a mirror image. The fold is the middle line of the whole picture."
   }
  ],
  "games": [
@@ -783,7 +786,16 @@
       ],
       "a": 0,
       "why": "A mirror copies on the same side. So the mirror lifts the arm on the window side too. Together, the two of them make one symmetric shape."
-     }
+     },
+     "ask": [
+      {
+       "q": "What did your two bodies make together?",
+       "good": [
+        "One shape with two matching halves.",
+        "A symmetric shape."
+       ]
+      }
+     ]
     }
    ]
   },
@@ -909,8 +921,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "Which card was the hardest to choose? Why?",
-     "kid": "Which card was hardest? Why?",
+     "say": "Think about the card 'Your face'. Why did the back say 'nearly'?",
+     "kid": "Why did the face card say 'nearly'?",
      "check": {
       "t": "mcq",
       "q": "The card says 'Your face'. The back says 'Nearly two halves, never exactly'. Why does it say 'nearly'?",
@@ -1020,7 +1032,7 @@
    "title": "The Balancing Butterfly",
    "mins": 15,
    "context": "This is a making challenge. You cut a paper butterfly and try to balance her on a pencil, along her middle line.",
-   "problem": "Make a paper butterfly that balances on a pencil laid along her body. When does the butterfly balance, and when does she tip over?",
+   "problem": "Make a paper butterfly that balances on a pencil laid along her body. A butterfly with two matching wings has the same weight on each side of her middle line, so she balances. If one side is heavier, she tips towards it. When does your butterfly balance, and when does she tip over?",
    "constraints": [
     "Use one piece of card or thick paper.",
     "The pencil must lie under the butterfly's middle line, from head to tail."
@@ -1197,20 +1209,20 @@
     },
     {
      "t": "perspective",
-     "p": "The first child and the second child are talking about the Mirror Test.",
+     "p": "Pooja, aged 6, and her sister Nandini, aged 7, are talking about the Mirror Test.",
      "views": [
       {
-       "who": "The first child, aged 6",
+       "who": "Pooja, aged 6",
        "says": "My face is symmetric. I have one eye and one ear on each side, and my nose is in the middle."
       },
       {
-       "who": "The second child, aged 7",
+       "who": "Nandini, aged 7",
        "says": "My face is not symmetric. When I put the mirror on my photo, the mirror face did not look like me."
       }
      ],
      "ask": "Who do you agree with? Why? Then say one thing the other one has right.",
      "lines": 3,
-     "a": "A strong answer says both are partly right. The first child is right that a face has matching parts on each side. The second child is right that the halves are not exactly the same, because the mirror face looked a little different.",
+     "a": "A strong answer says both are partly right. Pooja is right that a face has matching parts on each side. Nandini is right that the halves are not exactly the same, because the mirror face looked a little different.",
      "why": "A face is nearly symmetric, never exactly. A child who picks either side and uses the Mirror Test as evidence is thinking well.",
      "how": "e1"
     },
@@ -1706,7 +1718,7 @@
    "what_is_life": "A butterfly feels the air with both her antennae and tastes with her feet. Her matching wings carry her straight to the flowers she chooses.",
    "what_is_this_world": "Matching halves are all around us: in leaves, flowers, butterflies and faces, and in the kolams people draw."
   },
-  "thread": "A butterfly grows all four of her wings at the same time, inside her chrysalis, from the same instructions. So her left wings carry the same pattern as her right wings, flipped over. A leaf grows two halves, one on each side of the middle vein. Your body grew its left side and right side together too, from one tiny cell. One pattern, made twice, gives many living beings their shape.",
+  "thread": "A butterfly grows all four of her wings at the same time, inside her chrysalis. Her cells use the same set of instructions, called genes, for her left wings and her right wings. So her left wings carry the same pattern as her right wings, flipped over. A leaf grows two halves, one on each side of the middle vein. Your body grew its left side and right side together too, from one tiny cell. In many living beings, one pattern is used twice, once for each side, and that gives them their shape.",
   "teachings": [
    {
     "source": "Tao Te Ching 2",
@@ -1741,7 +1753,7 @@
   },
   "ask": [
    "If you saw only your left half in a mirror, would you know what your right half looks like?",
-   "A butterfly's two sides match. Is she one pattern made twice, or two patterns that agree?",
+   "A butterfly's two sides match. Did her body grow one pattern twice, or two separate patterns that happen to agree?",
    "When you breathed with a hand on each side of your chest, did both sides move the same?"
   ],
   "art": "A child sitting cross-legged with one hand on each side of her chest, eyes closed, and a butterfly with matching wings resting on a plant beside her."

@@ -1,7 +1,7 @@
 # Two matching halves: symmetry in butterflies, leaves and faces
 `sci.patterns-symmetry.symmetry-in-nature.L1`
 
-**Summary.** A butterfly's left wings have the same shape and spots as her right wings, flipped over. When the two halves of a shape match like this, we say the shape has symmetry. Your child stands a small mirror on the middle line of a butterfly picture, a leaf, a spoon, a chappal and a photo of a face. With half of a butterfly and the mirror, the whole butterfly appears. With a chappal, the mirror makes a shape no chappal has. Half a face makes a face that looks like the person, but not quite, because real living halves nearly match but never exactly. Then your child makes symmetric art of their own.
+**Summary.** A butterfly's left wings have the same shape and spots as her right wings, flipped over. When the two halves of a shape match like this, we say the shape has symmetry. Your child stands a small mirror on the middle line of a butterfly picture, a leaf, a spoon, a chappal and a photo of a face. With half of a butterfly and the mirror, the whole butterfly appears. With a chappal, the mirror makes a shape no chappal has. Half a face and the mirror make a face that looks like the person, but not quite, because the two halves of a living being nearly match but never exactly. Then your child makes symmetric art of their own.
 
 **Intro.** *Look at this butterfly. Is her left side the same as her right side?* Show your child a butterfly, in a book, on a phone or at a balcony plant. Ask them to look at the wings on one side, then the other. What do they notice? Ask: if you could only see one side, could you draw the other side? Why do you think so? Don't answer yet. This unit finds out, with a mirror.
 
@@ -24,30 +24,30 @@
 **Definition:** A shape has symmetry when a line can cut it into two halves that match. The line is called the line of symmetry.
 
 Look at a butterfly. Draw a line down the middle of her body. Her left wings and right wings have the same shape and the same spots. Fold her along that line, and the two sides would meet. That is symmetry. A leaf, a steel spoon, the letter A and your face have it. A chappal has none, because it is shaped for one foot.
-- e.g. A butterfly: the line goes down her body.
-- e.g. A steel spoon: the line goes along it, from the tip to the end of the handle.
-- e.g. The letter A: the line goes straight down the middle.
-- e.g. A chappal and the letter F: no line works.
+- e.g. A butterfly has symmetry. The line goes down her body.
+- e.g. A steel spoon has symmetry. The line goes along it, from the tip to the end of the handle.
+- e.g. The letter A has symmetry. The line goes straight down the middle.
+- e.g. A chappal and the letter F have no line of symmetry. No line works.
 ### Why a mirror shows the other half · *defined*
 **Definition:** A mirror shows a thing flipped from side to side. So if you stand a mirror on the line of symmetry, the mirror shows the other half, and you see the whole shape.
 
-In the Mirror Test, the mirror showed the paper half, flipped. For a butterfly, the flipped half looks just like her other half, so you saw a whole butterfly. For a chappal, the flipped half is different from the other half. So the mirror made a strange chappal that fits no foot.
+In the Mirror Test, the mirror showed the half in front of it, flipped over. For a butterfly, the flipped half looks just like her other half, so you saw a whole butterfly. For a chappal, the flipped half is different from the other half. So the mirror made a strange chappal that fits no foot.
 - e.g. A mirror on a butterfly's middle line shows a whole butterfly.
 - e.g. A mirror on the letter A shows a whole A.
 - e.g. A mirror on the letter F shows a new shape, not an F.
 ### Why butterflies, fish and people have two matching sides · *defined*
 **Definition:** Most animals that walk, swim or fly have a left side and a right side that nearly match. This helps them move straight ahead.
 
-A butterfly flaps her left and right wings together. Wings of the same size push the same amount of air, so she can fly straight. If one wing were much smaller, she would fly crooked. A fish has a fin on each side. You have a leg on each side, so you can walk straight. We all have eyes and a nose at the front, where we are going.
+A butterfly flaps her left and right wings together. Wings of the same size push the same amount of air, so she can fly straight. If one wing were much smaller, she would fly crooked. A fish has a fin on each side. You have a leg on each side, so you can walk straight. We all have eyes and a nose at the front, facing the way we are going.
 - e.g. A butterfly has two wings on the left and two on the right.
 - e.g. A fish has a fin on each side of her body.
 - e.g. You have one leg on each side, so you can walk straight.
 ### Nearly, never exactly · *defined*
 **Definition:** The two halves of a living being nearly match, but never exactly. Each half grows in its own place and has its own small differences.
 
-In the Mirror Test, half a face and the mirror made a face that looked like the person, but not quite. That is because the two halves of a real face are not exactly the same. One eye may be a little higher, or one side of the smile a little wider. A folded leaf never meets perfectly at every edge. A butterfly may have a nick in one wing. Living beings are nearly even, each in their own way.
-- e.g. Your face: each mirror face looked a little different from the real you.
-- e.g. A folded leaf: the two edges almost meet, but not all the way round.
+In the Mirror Test, half a face and the mirror made a face that looked like the person, but not quite. That is because the two halves of a real face are not exactly the same. One eye may be a little higher, or one side of the smile a little wider. A folded leaf never meets perfectly at every edge. A butterfly may have a nick in one wing. Every living being is nearly even, with small differences of their own.
+- e.g. Your face is nearly even. Each mirror face looked a little different from the real you.
+- e.g. A folded leaf has two edges that almost meet, but not all the way round.
 - e.g. Your heart sits a little to the left of the middle.
 
 ## Mostly agreed
@@ -81,20 +81,20 @@ We have tested halves with a mirror and made matching art. Now we ask what two m
 - *what is life:* A butterfly feels the air with both her antennae and tastes with her feet. Her matching wings carry her straight to the flowers she chooses.
 - *what is this world:* Matching halves are all around us: in leaves, flowers, butterflies and faces, and in the kolams people draw.
 
-A butterfly grows all four of her wings at the same time, inside her chrysalis, from the same instructions. So her left wings carry the same pattern as her right wings, flipped over. A leaf grows two halves, one on each side of the middle vein. Your body grew its left side and right side together too, from one tiny cell. One pattern, made twice, gives many living beings their shape.
+A butterfly grows all four of her wings at the same time, inside her chrysalis. Her cells use the same set of instructions, called genes, for her left wings and her right wings. So her left wings carry the same pattern as her right wings, flipped over. A leaf grows two halves, one on each side of the middle vein. Your body grew its left side and right side together too, from one tiny cell. In many living beings, one pattern is used twice, once for each side, and that gives them their shape.
 
 - **Tao Te Ching 2:** Long and short shape each other. High and low lean on each other. Front and back follow each other. (Left and right go together in the same way. A left half is a half only because a right half goes with it. Together they make one butterfly.)
-- **Udana 6.4, the story of the blind men and the elephant (Jain teachers tell the story too):** Some men who could not see each touched one part of an elephant. The one who felt her head said an elephant is like a pot. The one who felt her ear said a winnowing basket. The one who felt her leg said a post. Each knew only a part, and they argued. (An elephant's trunk cannot tell you about her tail, because her front and back are different. But a butterfly's left side really does tell you her right side, because the two halves match. Even then, half the outside cannot tell you what is inside, like a heart sitting a little to the left.)
+- **Udana 6.4, the story of the blind men and the elephant (Jain teachers tell the story too):** Some men who could not see each touched one part of an elephant. The one who felt her head said an elephant is like a pot. The one who felt her ear said a winnowing basket. The one who felt her leg said a post. Each knew only a part, and they argued. (An elephant's trunk cannot tell you about her tail, because her front and back are different. But a butterfly's left side really does tell you her right side, because the two halves match. Even then, the outside cannot tell you what is inside. Your heart, for example, sits a little to the left.)
 - Science (settled): Most animals, including humans, have a left side and a right side that nearly match. Scientists call this bilateral symmetry. It is common in animals that move forward, head first.
 - Science (debated): Bees can learn to tell a symmetric pattern from an uneven one, and many people find symmetric faces pleasing. Why living beings notice symmetry is still argued about.
 - Other view, Many biologists: The matching halves come from genes and growth alone. On this view, the symmetry of a butterfly is a pattern that we notice when we look, and nothing more.
 - Practice, Two sides, one breath (3 min): Sit up straight on the floor. Put one hand flat on each side of your chest. Breathe in slowly through your nose. Feel both hands rise together. Breathe out slowly. Feel both hands fall together. Let's do it five times. Now close your eyes and breathe once more. Do both sides move the same, or does one side move a little more?
 - Ask: If you saw only your left half in a mirror, would you know what your right half looks like?
-- Ask: A butterfly's two sides match. Is she one pattern made twice, or two patterns that agree?
+- Ask: A butterfly's two sides match. Did her body grow one pattern twice, or two separate patterns that happen to agree?
 - Ask: When you breathed with a hand on each side of your chest, did both sides move the same?
 
 ## Deep and big questions
-- *deep:* Half a butterfly and a mirror showed you the whole butterfly. Was the other half already there, inside the half you had? (hint: Where did the mirror get the other half from? What did it need to make it?)
+- *deep:* Half a butterfly and a mirror showed you the whole butterfly. Was the other half already there, inside the half you had? (hint: The mirror only flips the half you have. It makes a whole butterfly because the other half is the same shape, flipped. So the half you have already tells you what the other half looks like.)
 - *big:* Your two halves nearly match, but not exactly. Which half is the real you? (hint: Is one half more you than the other? Or do you need both?)
 - *deep:* Why do animals that move forward, like butterflies, fish and people, have a left side and a right side? (hint: Think about flying, swimming or walking in a straight line. What would happen if one side were much bigger?)
 - *big:* Bees can learn to tell an even pattern from an uneven one. Is the symmetry in the butterfly, or in the eyes that look at her? (hint: Would the butterfly still have matching wings if nobody looked? Who notices that they match?)
@@ -163,24 +163,25 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
 
 ## Games
 ### g1 · Mirror Moves: copy me like a mirror (10 min)
-- **rules:** Stand facing each other, about one big step apart.; The leader picks a move card and does the move very slowly.; The mirror copies at the same time, on the same side as a real mirror would. If the leader lifts the arm on the window side, the mirror lifts the arm on the window side too.; After 5 cards, swap: the mirror becomes the leader.; With 4 players, each pair uses its own 5 cards at a time, then the pairs swap piles. The game ends when all 10 cards are used. There is no winner. You both do well if you moved like one person.
+- **rules:** Stand facing each other, about one big step apart.; The leader picks a move card and does the move very slowly.; The mirror copies at the same time, on the same side as a real mirror would. If the leader lifts the arm on the window side, the mirror lifts the arm on the window side too.; After 5 cards, swap: the mirror becomes the leader.; With 4 players, each pair takes 5 cards. When both pairs have used their cards, they swap piles. The game ends when all 10 cards are used. There is no winner. You both do well if you moved like one person.
 - **Printable cards: 10 move cards:** Lift one arm up high, slowly.; Touch your nose with one finger.; Make butterfly wings with both arms.; Stand on one leg.; Lean slowly to one side.; Touch one ear.; Wave slowly with one hand.; Put both hands on your head.; Make a big smile, then a sad face.; Step one foot out to the side.
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the move cards and put them in a pile. 2. Stand facing each other. 3. Stand together in front of a real mirror first, and lift one arm.  
   *Parent says:* Look in the mirror. When I lift the hand near the window, which hand does my mirror image lift? Now you will be my mirror.  
   *Child mode:* Lift a hand at the mirror. Which hand does your mirror image lift?
-  - Note: In a real mirror, if you lift the hand nearest the window, your image lifts the hand nearest the window too. So when two people face each other, the mirror person lifts their other hand (left for right).
+  - Note: In a real mirror, if you lift the hand nearest the window, your image lifts the hand nearest the window too. So when two people face each other, the player who is the mirror lifts the hand on the same side of the room. That is their left hand if the leader lifts the right hand.
 - **s2 (6 min)**  
   *Parent does:* 1. Take turns to be the leader, 5 cards each. 2. The leader does each move slowly. 3. The other player copies like a mirror.  
   *Parent says:* I am the leader. Copy me like a mirror, at the same time. Ready? Slowly now.  
   *Child mode:* Copy the leader like a mirror. Same side. Same time.
   - Ask: How did you know which arm to lift? (good: I lifted the arm on the same side as yours.; Like the mirror: the window side.)
-  - Note: Children often lift the same hand as the leader, which is the opposite side. Point to the window or the door to help them use the same side.
+  - Note: Children often lift the same hand as the leader, right for right. That hand is on the opposite side of the room. Point to the window or the door to help them use the same side.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* If I lift the arm on the window side, which arm do you lift as my mirror? What did our two bodies make together?  
   *Child mode:* When you were a mirror, what did you two make together?
-  - Check: Meenakshi, a girl in Class 1, is the leader. She lifts the arm on the window side. Her friend is the mirror, facing her. Which arm does the friend lift? → **The arm on the window side**
+  - Ask: What did your two bodies make together? (good: One shape with two matching halves.; A symmetric shape.)
+  - Check: The leader lifts the arm on the window side. You are the mirror, facing the leader. Which arm do you lift? → **The arm on the window side**
 ### g2 · Two Halves or Not? Run to a side (10 min)
 - **rules:** Choose one wall for 'Two halves' and one wall for 'No'.; The reader reads the front of a card out loud. Everyone else runs to the wall they choose.; The reader reads the back of the card. Everyone at the right wall gets a point.; For cards whose back says 'Nearly', a player at the 'Two halves' wall gets a point, and so does a player who stands in the middle and says why.; After each card, the next player becomes the reader. With 2 players, you swap after every card.; Play until all 12 cards are read. The most points wins. If points are level, you both win.
 - **Printable cards: 12 thing cards:** A butterfly (back: Two halves. Her left wings match her right wings.) [picture]; A chappal (back: No. Each chappal is shaped for one foot.); A steel spoon (back: Two halves, along its length.); Your hand (back: No. Your thumb is on one side only.); A hibiscus flower (back: Two halves. Several lines work.) [picture]; The letter A (back: Two halves, down the middle.); The letter F (back: No. No line works.); A flat steel plate (thali) (back: Two halves, down the middle.); A curry leaf (back: Nearly two halves, one on each side of the middle vein.) [picture]; A door key (back: No, for most keys.); Your face (back: Nearly two halves, never exactly.); A question mark (back: No. No line works.)
@@ -193,18 +194,18 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent says:* A chappal! Two halves or not? Run! Now, why did you choose that wall?  
   *Child mode:* Run to a wall. Then say why you chose it.
   - Ask: Why did you run to that wall? (good: The mirror made a funny chappal.; A butterfly's wings match.; My face nearly matches, so I went in the middle!)
-  - Note: If your child is not sure, let them fetch the real thing and try the mirror. The mirror is the real answer.
+  - Note: If your child is not sure, let them fetch the real thing and try the mirror. The mirror gives the real answer.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* Which card was the hardest to choose? Why?  
-  *Child mode:* Which card was hardest? Why?
+  *Parent says:* Think about the card 'Your face'. Why did the back say 'nearly'?  
+  *Child mode:* Why did the face card say 'nearly'?
   - Check: The card says 'Your face'. The back says 'Nearly two halves, never exactly'. Why does it say 'nearly'? → **The two sides of a face are close but never exactly the same**
 
 ## Experiments
 ### e1 · The Mirror Test: can half a thing and a mirror make the whole? (20 min)
 - **question:** Can half of a thing and a mirror show you the whole thing? Which things work, and which do not?
 - **predict:** For each thing, guess first: will half of it and the mirror make the whole thing again? Why do you think so?
-- **fair test:** Hold the mirror straight up every time, with its bottom edge on the line. When a thing does not work, try at least three different lines before you say no.
+- **fair test:** Hold the mirror straight up every time, with its bottom edge on the line. When a thing does not come out whole, try at least three different lines before you say no.
 - **safety:** Use a mirror with a frame or plastic edges. If its glass edges are bare, a grown-up holds it.
 - **record:** Make two heaps on the floor, 'whole again' and 'new shape'. A grown-up writes each thing's name on a scrap of paper to put in a heap. Then draw one thing from each heap, with a dotted line where you put the mirror.
 - **results table:** Thing | My guess | What the mirror showed
@@ -243,7 +244,7 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent says:* What did you find out? Which things did the mirror make whole? What did you see that tells you so?  
   *Child mode:* What did you find? Which things came out whole?
   - Note: A good answer has two parts. A claim: 'Things with two matching halves came out whole.' Evidence: 'The butterfly and the A did, but the chappal and the F made new shapes.'
-  - Check: Lakshmi, a girl in Class 1, stands a mirror on the middle of a letter F. What does she see? → **A new shape that is not an F**
+  - Check: You stand a mirror on the middle of a letter F. What do you see? → **A new shape that is not an F**
 
 ## Activities
 ### a1 · Leaf Look: run a finger down the middle (10 min)
@@ -263,8 +264,10 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent does:* 1. Look at the folded leaves together. 2. Ask the check question.  
   *Parent says:* So, is the left half of a leaf the same as the right half? Why might they be a little different?  
   *Child mode:* Are the two halves the same? Why might they be a little different?
-  - Check: Kavya, a girl in Class 1, folds a tulsi leaf along the middle vein. What does she see? → **The halves nearly match**
+  - Note: Each half grows in its own place, so each half has its own small differences. Accept any sensible idea.
+  - Check: You fold a tulsi leaf along the middle vein. What do you see? → **The halves nearly match**
 ### a2 · Dal Butterfly: build the other half (15 min)
+- **problem:** In a symmetric pattern, every grain on one side has a matching grain on the other side. It is the same kind of grain, and it is the same distance from the middle line. In this activity you build the second half of a butterfly this way.
 - **safety:** A grown-up watches, so that no grain goes into a mouth, nose or ear. Keep the grains away from any small child.
 - **record:** Draw your Dal Butterfly before you put the grains away, or take a photo.
 - **s1 (4 min)**  
@@ -282,8 +285,9 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent does:* 1. Your child stands the mirror on the middle line to check. 2. Swap jobs. Your child makes a pattern, and you copy it, with one grain in the wrong place on purpose. 3. Your child finds the mistake.  
   *Parent says:* Let's check with the mirror. Now you make a pattern, and I will copy it. Can you find the grain I put in the wrong place?  
   *Child mode:* Check with the mirror. Now you make a pattern. Find the grain in the wrong place.
-  - Check: Fathima, a girl in Class 1, puts 2 chana next to the middle line on the left wing. Where should she put 2 chana on the right wing, to match? → **Next to the middle line**
+  - Check: There are 2 chana next to the middle line on the left wing. Where should 2 chana go on the right wing, to match? → **Next to the middle line**
 ### a3 · Rub-and-Copy Art: fold, rub, and the other half appears (15 min)
+- **problem:** When you fold a paper and rub a drawing on one half, the drawing is copied onto the other half. The copy comes out flipped, like a mirror image. The fold is the middle line of the whole picture.
 - **record:** Colour both halves of your picture the same, and stick it on the wall.
 - **s1 (5 min)**  
   *Parent does:* 1. Fold the paper in half and open it again. 2. Your child draws half a butterfly, half a flower or half a face on one side, right against the fold. 3. They press hard and go over the lines twice.  
@@ -300,7 +304,7 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent does:* 1. Your child goes over the faint copy with the pencil. 2. They colour both halves the same. 3. Ask the check question.  
   *Parent says:* Go over the faint lines. Now colour both halves the same. Is your picture symmetric? Where is its line of symmetry?  
   *Child mode:* Go over the faint lines. Colour both halves the same.
-  - Check: Mrunal, a girl in Class 1, rubbed her folded drawing and opened it. Where is the line of symmetry of her picture? → **Along the fold**
+  - Check: You rubbed your folded drawing and opened it. Where is the line of symmetry of your picture? → **Along the fold**
 
 ## Projects
 ### p1 · My Leaf Rubbing Book: one leaf a day (24 min, 3 days)
@@ -320,12 +324,12 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent does:* 1. Your child rubs a third leaf. 2. Look through the whole book together. 3. Ask the check question.  
   *Parent says:* Which of your three leaves has the halves that match best? Do any of them match exactly?  
   *Child mode:* Rub one more leaf. Which leaf matches best?
-  - Check: Bornali, a girl in Class 1, draws a line down the middle vein of her leaf rubbing. What is this line called? → **The line of symmetry**
+  - Check: You draw a line down the middle vein of your leaf rubbing. What is this line called? → **The line of symmetry**
   - Wait: The next day.
 
 ## Challenges
 ### c1 · The Balancing Butterfly (15 min)
-- **problem:** Nila, a girl in Class 1, wants to make a paper butterfly that balances on a pencil laid along her body. When does the butterfly balance, and when does she tip over?
+- **problem:** Make a paper butterfly that balances on a pencil laid along her body. A butterfly with two matching wings has the same weight on each side of her middle line, so she balances. If one side is heavier, she tips towards it. When does your butterfly balance, and when does she tip over?
 - **your turn:** Make your butterfly balance with two paper clips on her. Where did you put them? Why does that work?
 - **constraints:** Use one piece of card or thick paper.; The pencil must lie under the butterfly's middle line, from head to tail.
 - **general:** Fold the card in half and cut half a butterfly against the fold. When you open it, both wings are the same.; Bend the wings down a little, like a tent. A butterfly with matching wings balances on the pencil along her middle line.; If one side is heavier, she tips towards that side.
@@ -345,7 +349,7 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
   *Parent does:* 1. Your child makes the butterfly balance with two clips. 2. Ask the check question.  
   *Parent says:* Make her balance with two clips. Where did you put them? Why does that work?  
   *Child mode:* Make her balance with two clips. Where did you put them?
-  - Check: Gurpreet, a girl in Class 1, puts a paper clip on the left wing of her paper butterfly, and the butterfly tips over. What can Gurpreet do? → **Put a clip on the right wing in the same place**
+  - Check: You put a paper clip on the left wing of your paper butterfly, and the butterfly tips over. What can you do? → **Put a clip on the right wing in the same place**
 
 ## Worksheets
 ### Two Matching Halves (core) (core, 10 questions)
@@ -354,13 +358,13 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
 2. (draw) Here is half a butterfly, next to a dotted line. Draw the other half, so the two sides match. Then colour both sides the same.  
    **Answer:** A whole butterfly, with the same wing shapes and spots on both sides of the dotted line.. *Why:* A strong drawing puts each spot the same distance from the line on both sides, and uses the same colours.
 3. (truefalse) Your left hand is a mirror image of your right hand.  
-   **Answer:** True. *Why:* True. Put your two hands palm to palm, and they match, flipped over. A mirror image is the same shape, turned from side to side.
+   **Answer:** True. *Why:* True. Put your two hands palm to palm, and they match, flipped over. A mirror image is the same shape, flipped from side to side.
 4. (sort) Sort these into two heaps: two matching halves, or no matching halves.  
    **Answer:** The letter A → Two matching halves; The letter F → No matching halves; A flat steel plate → Two matching halves; A door key → No matching halves; A leaf → Two matching halves; A chappal → No matching halves. *Why:* In the Mirror Test, the A, the plate and the leaf came out whole. The F, the key and the chappal made new shapes.
 5. (write) Say it out loud, and a grown-up writes it down: what happened when you stood the mirror on the chappal?  
    **Answer:** The mirror made a strange chappal that fits no foot. No line made the real chappal again.. *Why:* A strong answer says what the child saw, and that the chappal's two halves do not match.
-6. (perspective) Priya and Farida are talking about the Mirror Test.  
-   **Answer:** A strong answer says both are partly right. Priya is right that a face has matching parts on each side. Farida is right that the halves are not exactly the same, because the mirror face looked a little different.. *Why:* A face is nearly symmetric, never exactly. A child who picks either side and uses the Mirror Test as evidence is thinking well.
+6. (perspective) Pooja, aged 6, and her sister Nandini, aged 7, are talking about the Mirror Test.  
+   **Answer:** A strong answer says both are partly right. Pooja is right that a face has matching parts on each side. Nandini is right that the halves are not exactly the same, because the mirror face looked a little different.. *Why:* A face is nearly symmetric, never exactly. A child who picks either side and uses the Mirror Test as evidence is thinking well.
 7. (odd) Three of these have two matching halves. Circle the one that does not.  
    Options: The letter A / A butterfly / A flat steel plate / The letter F  
    **Answer:** 3. *Why:* No line cuts the letter F into two matching halves. The A, the butterfly and the plate each have a line of symmetry.
@@ -368,15 +372,15 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
    **Answer:** A face with a line down the nose, and one small difference marked, such as one eyebrow higher or a mole on one cheek.. *Why:* A strong drawing shows matching parts on both sides and one real difference, because faces nearly match but never exactly.
 9. (count) A butterfly has 3 legs on her left side and 3 legs on her right side. How many legs does she have in all?  
    **Answer:** 6. *Why:* Three on the left and three on the right make 6. The two sides match, so each side has the same number.
-10. (mcq) Sunita, a girl in Class 1, folds a paper in half and cuts a shape on the fold. She opens the paper. What does she see?  
+10. (mcq) You fold a paper in half and cut a shape on the fold. Then you open the paper. What do you see?  
    Options: A shape with two matching halves / A shape with no middle / Two different shapes  
    **Answer:** A shape with two matching halves. *Why:* The two halves were cut together, so they match. The fold becomes the line of symmetry.
 ### Halves, Mirrors and Art (stretch) (stretch, 10 questions)
 1. (order) Put the Mirror Test in order.  
    **Answer:** ['Guess for each thing', 'Stand the mirror on the middle line', 'Sort the things into two heaps']. *Why:* First we guess, so the test can tell us whether we were right. Then we try the mirror. Then we sort what we found.
-2. (mcq) Bornali, a girl in Class 1, stands a mirror on the middle line of a hibiscus flower. What does she see?  
+2. (mcq) You stand a mirror on the middle line of a hibiscus flower. What do you see?  
    Options: A whole flower / Half a flower and an empty mirror / A new shape, not a flower  
-   **Answer:** A whole flower. *Why:* A hibiscus flower has a line through its centre that cuts it into two matching halves. So the mirror shows the other half, and she sees a whole flower.
+   **Answer:** A whole flower. *Why:* A hibiscus flower has a line through its centre that cuts it into two matching halves. So the mirror shows the other half, and you see a whole flower.
 3. (label) Say whether each thing has two matching halves: yes, nearly or no. A grown-up writes your answers.  
    **Answer:** ['yes, or nearly', 'nearly', 'no', 'yes']. *Why:* A strong answer says 'nearly' for the face, because the Mirror Test showed small differences. Flowers are living too, so 'nearly' is also a good answer for the hibiscus.
 4. (truefalse) Your heart sits right in the middle of your chest.  
@@ -385,10 +389,10 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
    **Answer:** A pattern with a line down the middle, where each loop or dot on one side has a matching one on the other side.. *Why:* A strong drawing puts each part the same distance from the line on both sides, so the mirror shows the same pattern.
 6. (fill) The middle line where a shape folds into two matching halves is called the line of ___.  
    **Answer:** symmetry. *Why:* The line of symmetry cuts a shape into two halves that match.
-7. (mcq) Tsering, a girl in Class 1, cuts a paper butterfly. One wing comes out much bigger than the other. She rests the butterfly on a pencil along her middle. What happens?  
+7. (mcq) You cut a paper butterfly. One wing comes out much bigger than the other. You rest the butterfly on a pencil along her middle. What happens?  
    Options: She tips towards the bigger wing / She balances / She flies away  
    **Answer:** She tips towards the bigger wing. *Why:* The bigger wing is heavier. The two sides no longer match, so the butterfly tips towards the heavier side.
-8. (write) Divya, a girl aged 7, says: 'Only people make shapes with two matching halves.' Say it out loud, and a grown-up writes it down: what would you tell Divya?  
+8. (write) Someone says: 'Only people make shapes with two matching halves.' What would you tell them? Say it out loud, and a grown-up writes it down.  
    **Answer:** Butterflies, leaves and people grow two matching halves, and nobody draws them. People make symmetric kolams too, but they are not the only ones.. *Why:* A strong answer uses something the child saw, such as the leaf or the butterfly, as evidence.
 9. (match) Draw a line from each piece of art to how you made its second half.  
    **Answer:** Dal Butterfly → Copy each grain on the other side; Rub-and-Copy Art → Fold the paper and rub it; Balancing Butterfly → Fold the card and cut against the fold. *Why:* All three ways make a second half that matches the first, flipped over. A strong answer can say which way made the most exact copy.
@@ -413,16 +417,16 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
 4. (mcq) Where is the line of symmetry on your face?  
    Options: Down the middle of your nose / Across your eyes / Along your chin  
    **Answer:** Down the middle of your nose. *Why:* A line down the middle of your nose has one eye, one ear and one cheek on each side.
-5. (mcq) Anjali, a girl in Class 1, stands a mirror on the middle vein of a leaf. She sees a whole leaf. What does that show?  
+5. (mcq) You stand a mirror on the middle vein of a leaf. You see a whole leaf. What does that show?  
    Options: The leaf's two halves match / The leaf is broken / The mirror makes leaves  
-   **Answer:** The leaf's two halves match. *Why:* The mirror shows the paper half flipped. A whole leaf appears only when the two halves match.
+   **Answer:** The leaf's two halves match. *Why:* The mirror shows one half of the leaf, flipped over. A whole leaf appears only when the two halves match.
 6. (mcq) Are the two sides of your face exactly the same?  
    Options: Nearly, but not exactly / Yes, exactly the same / No, not at all alike  
    **Answer:** Nearly, but not exactly. *Why:* In the Mirror Test, the mirror face looked like the person, but not quite. Faces nearly match, never exactly.
 7. (mcq) Why does a butterfly need her two sides to match?  
    Options: So both sides push the same air, and she flies straight / So she can hear better / So she stays warm at night  
    **Answer:** So both sides push the same air, and she flies straight. *Why:* Matching wings push the same amount of air on each side. If one side were much smaller, she would fly crooked.
-8. (mcq) Mrunal draws half a flower next to a fold. She folds the paper shut and rubs it hard. What appears on the other half?  
+8. (mcq) You draw half a flower next to a fold. You fold the paper shut and rub it hard. What appears on the other half?  
    Options: The matching other half, flipped / A different flower / Nothing at all  
    **Answer:** The matching other half, flipped. *Why:* Rubbing copies the drawing onto the other half, flipped like a mirror image. Together the two halves make a whole flower.
 9. (mcq) What do we call the middle line where a shape folds into two matching halves?  
@@ -449,7 +453,7 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
 ## Open questions
 - **Why does the heart sit a little to the left in nearly every person?** Scientists have found some of the first steps that tell a tiny growing baby which side is left. Why the body picks left, and not right, is still not fully understood.
 - **Why do many people find symmetric faces pleasing?** Some scientists think a very even face is a sign of good health. Others think our eyes simply find even shapes easier to see. Studies do not agree yet.
-- **How does a growing butterfly put the same spots in the same places on both sides?** Scientists know some of the genes that make the spots. How the two sides keep so closely in step is still being studied.
+- **How does a growing butterfly put the same spots in the same places on both sides?** Scientists know some of the genes that make the spots. How the two sides come out so alike is still being studied.
 
 ## Questions to ask kids
 - Can you find something in this room with two matching halves?
@@ -462,7 +466,7 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
 ## Jokes
 - What did the left ear say to the right ear? *Hear, hear! We are a pair!*
 - What did the left wing say to the right wing? *You look just like me, only backwards!*
-- Why did the chappal not smile at the mirror? *Because the mirror made a chappal for no foot, and that was no laughing matter!*
+- Why did the chappal not smile at the mirror? *Because the mirror made a chappal that fits no foot, and that was no laughing matter!*
 - Why did half a dosa go to the mirror? *To feel like a whole dosa again!*
 - Why did the butterfly's wings never argue? *Because each wing always agreed with the other side!*
 - Why did the letter A get full marks? *Because both its halves gave the same answer!*
@@ -471,8 +475,8 @@ Revathi looked at the butterfly. Then she looked in the mirror at her own face, 
 
 ## Connected maths
 - A butterfly has 4 wings. Half of them are on her left side. How many wings are on her left side? **2 wings.**. Half of 4 is 2. Share the 4 wings into two equal groups, one for each side: 2 and 2. (queues `math.fractions.halves-and-quarters.L1`)
-- In the Mirror Test, Nila, a girl in Class 1, tested 8 things. 5 came out whole again, and 3 made new shapes. Make a tally. Which heap was bigger, and by how many? **The 'whole again' heap was bigger, by 2.**. Draw 5 strokes for 'whole again' and 3 strokes for 'new shape'. Match them up one by one. 2 strokes in the first heap have no partner, so it is bigger by 2. (queues `math.data.sorting-and-tallies.L1`)
-- In the Dal Butterfly, a girl puts 3 rajma and 4 moong on the left wings. Her partner must make the right wings match. How many grains does the partner need? How many grains are on the butterfly in all? **The partner needs 7 grains: 3 rajma and 4 moong. There are 14 grains in all.**. To match, the right side needs the same as the left: 3 and 4 make 7. Both sides together are 7 and 7, which make 14. (queues `math.addition-subtraction.word-problems.L1`)
+- Suppose you tested 8 things in the Mirror Test. 5 came out whole again, and 3 made new shapes. Make a tally. Which heap was bigger, and by how many? **The 'whole again' heap was bigger, by 2.**. Draw 5 strokes for 'whole again' and 3 strokes for 'new shape'. Match them up one by one. 2 strokes in the first heap have no partner, so it is bigger by 2. (queues `math.data.sorting-and-tallies.L1`)
+- In the Dal Butterfly, one person puts 3 rajma and 4 moong on the left wings. The partner must make the right wings match. How many grains does the partner need? How many grains are on the butterfly in all? **The partner needs 7 grains: 3 rajma and 4 moong. There are 14 grains in all.**. To match, the right side needs the same as the left: 3 and 4 make 7. Both sides together are 7 and 7, which make 14. (queues `math.addition-subtraction.word-problems.L1`)
 
 ## Song
 Two Sides the Same (sci.patterns-symmetry.L1): Topic-level song for Patterns and symmetry L1
