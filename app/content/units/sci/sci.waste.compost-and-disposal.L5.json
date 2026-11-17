@@ -169,9 +169,9 @@
    "definition": "Organic waste came from living beings, and decomposers can break it down. Inorganic waste came from rocks, sand and metal ores, and decomposers cannot break it down.",
    "description": "Fungi and bacteria have fed on dead plants and animals for hundreds of millions of years. They have enzymes, which are tiny tools that cut food into pieces small enough to take in. So anything built by a living being has someone who can eat it. That is why peels, paper, cotton, wood and leather rot. Glass is melted sand, and metals come from ores dug out of rock. No decomposer feeds on them, so they do not rot. Organic does not mean wet. Paper and cotton are dry, but they are organic. Plastic is harder to place. It is made from oil, and oil formed from tiny sea beings who died millions of years ago. But factories join its atoms into very long chains that almost no decomposer can cut. So waste rules put plastic with inorganic waste.",
    "examples": [
-    "Organic: vegetable peels, leftover food, dry leaves, flowers, paper, cardboard, cotton, jute, wood, hair.",
-    "Inorganic: glass bottles, steel tins, aluminium foil, broken cups and tiles.",
-    "Plastic: milk packets, bottles, wrappers and thermocol. Made from ancient living beings, but treated as inorganic because it does not rot.",
+    "Organic waste includes vegetable peels, leftover food, dry leaves, flowers, paper, cardboard, cotton, jute, wood and hair.",
+    "Inorganic waste includes glass bottles, steel tins, aluminium foil, broken cups and broken tiles.",
+    "Plastic includes milk packets, bottles, wrappers and thermocol. It is made from ancient living beings, but it is treated as inorganic waste because it does not rot.",
     "In Once Alive or Never Alive, an eggshell and a coconut shell are organic, though they rot slowly."
    ],
    "perspectives": [],
@@ -223,13 +223,13 @@
    "definition": "'Plastic' is a name for many different materials. The resin code is a number from 1 to 7 in a small triangle. It tells which kind a thing is made of.",
    "description": "Every plastic is made of very long chain molecules, but the chains differ. In a drink bottle, marked 1, the chains hold carbon, hydrogen and oxygen atoms and pack closely. That plastic is denser than water, so a piece of it sinks. In a bottle cap or a milk packet, the chains hold only carbon and hydrogen, like candle wax. Those plastics are less dense than water, so they float. Different plastics also melt at different temperatures and do not mix well when melted. A batch with two kinds in it makes a weak, cloudy plastic. So a recycling factory wants one kind at a time. The triangle on a thing only names the kind. It is not a promise that the thing will be recycled.",
    "examples": [
-    "1 (PET): water and soft drink bottles. Sinks in water.",
-    "2 (HDPE): shampoo bottles, many bottle caps. Floats.",
-    "3 (PVC): pipes, some shrink labels. Sinks.",
-    "4 (LDPE): milk packets, carry bags. Floats.",
-    "5 (PP): takeaway boxes, many caps, straws. Floats.",
-    "6 (PS): some disposable cups and spoons, thermocol. Solid pieces sink slowly in plain water and float in salty water.",
-    "7: all other plastics, and mixtures."
+    "Code 1 is PET. It is used for water and soft drink bottles, and it sinks in water.",
+    "Code 2 is HDPE. It is used for shampoo bottles and many bottle caps, and it floats.",
+    "Code 3 is PVC. It is used for pipes and some shrink labels, and it sinks.",
+    "Code 4 is LDPE. It is used for milk packets and carry bags, and it floats.",
+    "Code 5 is PP. It is used for takeaway boxes, many caps and straws, and it floats.",
+    "Code 6 is PS. It is used for some disposable cups and spoons, and for thermocol. Solid pieces sink slowly in plain water, and float in salty water.",
+    "Code 7 is used for all other plastics, and for mixtures of plastics."
    ],
    "perspectives": [],
    "art": "Seven small plastic things in a row, each with its triangle and number drawn large beside it: a drink bottle, a shampoo bottle, a pipe, a milk packet, a takeaway box, a disposable cup and a mixed-plastic toy."
@@ -267,8 +267,8 @@
    "definition": "Hazardous waste can poison, burn or cut, even in small amounts. E-waste is any thrown-out thing that used electricity. Both are kept apart from wet and dry waste.",
    "description": "A used battery holds metals such as lead, cadmium or lithium. In a dump its case rusts open, and the metals leak into the leachate. A crushed lithium battery can also catch fire in a waste truck. Tube lights and CFL bulbs hold a little mercury, which is set free when they break. Old medicines, paint, insect sprays and strong cleaners are poisons. Broken glass, blades and needles cut the hands of the people who sort waste. So these go in a separate, closed box, and blades and glass are wrapped in thick paper and marked. Used sanitary pads and nappies are wrapped in paper too. E-waste is a special case. An old phone holds lead and also copper, silver and gold. A tonne of old phones holds many times more gold than a tonne of gold ore. So e-waste goes to an authorised e-waste collector, who can recover the metals safely.",
    "examples": [
-    "Hazardous: batteries, tube lights, CFL bulbs, old medicines, paint tins, insect spray cans, blades, broken thermometers.",
-    "E-waste: phones, chargers, earphones, remotes, toys with circuits, old computers.",
+    "Hazardous waste includes batteries, tube lights, CFL bulbs, old medicines, paint tins, insect spray cans, blades and broken thermometers.",
+    "E-waste includes phones, chargers, earphones, remotes, toys with circuits and old computers.",
     "India makes millions of tonnes of e-waste every year, the third most of any country."
    ],
    "perspectives": [],
@@ -280,11 +280,11 @@
    "definition": "The waste hierarchy puts the choices about waste in order. Refuse and reduce come first, then reuse, then recycle, then recover, and dispose comes last.",
    "description": "The order follows one idea. The earlier the step, the less matter has to be moved, melted or stored. Refusing a carry bag makes no waste at all. Reusing a jar needs only washing. Recycling needs collecting, sorting and melting. Recovering means getting something back from what cannot be recycled, such as compost or biogas from wet waste. Disposing in a landfill gets nothing back. India's Solid Waste Management Rules of 2016 follow this order. They ask every home to keep three kinds of waste apart: wet waste, dry waste and domestic hazardous waste. Flats and offices that make a lot of waste must compost their own wet waste. Other rules make the companies that sell things in plastic packets pay to collect that plastic back. In 2022 India also banned some plastic things that are used once, such as plastic straws and thermocol plates.",
    "examples": [
-    "Refuse and reduce: carry a cloth bag and a steel bottle, and buy loose vegetables.",
-    "Reuse: keep glass jars for dal, and pass on outgrown clothes.",
-    "Recycle: sell paper, metal, glass and clean plastic to the kabadiwala.",
-    "Recover: compost the wet waste, or send it to a biogas plant.",
-    "Dispose: only what is left goes to a landfill."
+    "To refuse and reduce, carry a cloth bag and a steel bottle, and buy loose vegetables.",
+    "To reuse, keep glass jars for dal, and pass on outgrown clothes.",
+    "To recycle, sell paper, metal, glass and clean plastic to the kabadiwala.",
+    "To recover, compost the wet waste, or send it to a biogas plant.",
+    "To dispose, send only what is left to a landfill."
    ],
    "perspectives": [],
    "art": "An upside-down triangle in five coloured bands labelled from the top: refuse and reduce, reuse, recycle, recover, dispose."
@@ -295,8 +295,8 @@
    "definition": "A city handles its waste well when three things happen. Homes segregate the waste. Wet waste is composted or made into gas nearby. Dry waste is sorted and sold.",
    "description": "Indore in Madhya Pradesh once had bins overflowing on its streets. From 2016 the city removed the street bins and sent a truck to every door each day. The truck has separate boxes, so wet and dry waste never mix. Wet waste goes to compost plants and to a large biogas plant. Dry waste goes to sorting centres. Indore was ranked India's cleanest city in the national survey every year from 2017, for at least seven years in a row. Alappuzha in Kerala took another path. In 2012 the people of the village beside its dump blocked the trucks, because the dump was spoiling their water. The town then asked each home and each street to compost its own wet waste. People used pipes, pots and shared bins. Both cities began with the same step, which was keeping wet and dry waste apart at home.",
    "examples": [
-    "Indore: one truck to every door, with separate boxes for each kind of waste.",
-    "Alappuzha: compost bins in homes and at street corners, and a small biogas plant where there is room.",
+    "In Indore, one truck comes to every door, with separate boxes for each kind of waste.",
+    "In Alappuzha, there are compost bins in homes and at street corners, and a small biogas plant where there is room.",
     "In The Last Landfill, you run a city and choose what to build first."
    ],
    "perspectives": [],
@@ -345,7 +345,7 @@
    "concept": "There is no 'away': the same atoms go round",
    "status": "defined",
    "definition": "Matter is not made or destroyed when waste rots, burns or is buried. Its atoms only move to a new place and join in new ways.",
-   "description": "The Earth has had almost the same atoms for more than four billion years. Living beings pass them round. A leaf falls, decomposers eat it, and its atoms go into soil, air and new plants. In a forest there is no waste heap, because every leftover is food for someone. Human waste breaks this pattern in two ways. First, we gather huge amounts in one place, faster than decomposers can work. Second, we make materials such as plastic that decomposers have never met. So the question about any waste is where its atoms will go next, and how long that will take. This is true beyond the Earth too. Tens of thousands of pieces of old rockets and dead satellites now circle the Earth. Nobody planned where they would go.",
+   "description": "The Earth has had almost the same atoms for more than four billion years. Living beings pass them round. A leaf falls, decomposers eat it, and its atoms go into soil, air and new plants. In a forest there is no waste heap, because every leftover is food for someone. Human waste breaks this pattern in two ways. First, we gather huge amounts in one place, faster than decomposers can work. Second, we make materials such as plastic that decomposers have never met. So the question about any waste is where its atoms will go next, and how long that will take. The same is true beyond the Earth. Tens of thousands of pieces of old rockets and dead satellites now circle the Earth, and nobody planned where they would go.",
    "examples": [
     "The carbon in a banana peel can be in the air next month, and in a spinach leaf next year.",
     "A glass bottle thrown in a lake is still glass for a very, very long time.",
@@ -784,7 +784,7 @@
      "id": "s2",
      "mins": 15,
      "do": "1. Each year, take 3 coins and buy or save. 2. Turn over 6 cards. 3. Send each card to something you have bought, or to the landfill. 4. Tick the landfill boxes. 5. Cross off the year. 6. Play 8 years, or until the landfill is full.",
-     "say": "Three new coins. Will you buy now or save for something bigger? Turn over six cards. Where can each one go?",
+     "say": "It is a new year, so add three new coins. Will you buy something now, or save for something bigger? Then turn over six cards. Where can each card go?",
      "kid": "Take 3 coins. Buy or save. Turn over 6 cards. Send each card somewhere. Tick the landfill boxes. Play 8 years.",
      "ask": [
       {
@@ -1541,7 +1541,7 @@
        ]
       }
      ],
-     "parent": "Made by a living being: peel, newspaper, cotton, leaf, wood or coconut shell, eggshell. Made from rock, sand or ore: glass, steel, foil. The eggshell is a good puzzle. A hen made it, but it is mostly a mineral, so it breaks down very slowly.",
+     "parent": "These were made by a living being: a peel, newspaper, cotton, a leaf, wood, a coconut shell and an eggshell. These were made from rock, sand or ore: glass, steel and foil. The eggshell is a good puzzle. A hen made it, but it is mostly a mineral, so it breaks down very slowly.",
      "context": "This is the main step of Once Alive or Never Alive. Here you sort twelve things by where their material came from."
     },
     {
@@ -1654,7 +1654,7 @@
      "say": "Let's ask the person who knows. Ask the price for one kilogram of each thing, and write it down.",
      "kid": "Go with a grown-up to a scrap dealer. Ask the price of one kilogram of each material. Write each price down.",
      "adult": true,
-     "parent": "If you cannot ask anyone, use these example prices for 1 kilogram. Aluminium 100 rupees, iron and steel 25, clear plastic bottles 15, newspaper 12, cardboard 6, glass 2, chips packets nothing. Real prices change by city and by month.",
+     "parent": "If you cannot ask anyone, use these example prices for 1 kilogram. Aluminium is 100 rupees, iron and steel are 25, clear plastic bottles are 15, and newspaper is 12. Cardboard is 6, glass is 2, and chips packets are worth nothing. Real prices change by city and by month.",
      "context": "This step of The Scrap Price Chart collects the prices. You ask a scrap dealer what one kilogram of each material sells for."
     },
     {
@@ -1962,7 +1962,7 @@
      "do": "1. Take one box at a time. 2. Ask who or what changes the peel there. 3. Ask what the peel turns into. 4. Draw an arrow for each thing that leaves, and write where it goes: AIR, SOIL, WATER or A LIVING BODY.",
      "say": "Who changes the peel in this box? What does the peel turn into? Draw an arrow for each thing, and write where it goes.",
      "kid": "Take one box at a time. Who changes the peel there? What does the peel turn into? Draw an arrow to where each thing goes.",
-     "parent": "Compost pot: decomposers with air. Carbon dioxide and water vapour go to the air, and compost goes to the soil. Deep in a dump: microbes without air. Methane and carbon dioxide go to the air, and leachate goes to the water under the dump. Street fire: carbon dioxide, water vapour and smoke go to the air, and ash goes to the soil. Cow: some of the peel builds her body and her milk. Some leaves in her breath, and the rest leaves as dung, which decomposers eat.",
+     "parent": "In a compost pot, decomposers work with air. Carbon dioxide and water vapour go to the air, and compost goes to the soil. Deep in a dump, microbes work without air. Methane and carbon dioxide go to the air, and leachate goes to the water under the dump. In a street fire, carbon dioxide, water vapour and smoke go to the air, and ash goes to the soil. A cow uses some of the peel to build her body and her milk. Some leaves in her breath, and the rest leaves as dung, which decomposers eat.",
      "context": "This is the main step of Where Did the Peel Go. Here you draw arrows to show where the matter of the peel goes in each of four places."
     },
     {
@@ -2094,7 +2094,7 @@
        ]
       }
      ],
-     "parent": "PLASTIC THAT SELLS means bottles, rinsed milk packets and hard plastic. PACKETS AND WRAPPERS means chips packets, sachets and wrappers. The bottle on the hanger has some mass of its own. To cancel it, put an empty bottle of the same kind in the other bag. Keep sanitary waste and hazardous waste out of the count. Just note how many pieces there are.",
+     "parent": "PLASTIC THAT SELLS means bottles, rinsed milk packets and hard plastic. PACKETS AND WRAPPERS means chips packets, sachets and wrappers. If you use the hanger scale, the bottle in one bag has a mass of its own. To cancel it out, put an empty bottle of the same kind in the other bag, beside the waste. Keep sanitary waste and hazardous waste out of the count. Just note how many pieces there are.",
      "context": "This is the first step of The Seven-Day Waste Count. Here you set up five labelled containers and learn how to weigh them."
     },
     {
@@ -2920,7 +2920,7 @@
     },
     {
      "t": "sort",
-     "p": "Where is most of the matter one year later?",
+     "p": "Sort each thing by where most of its matter is one year later.",
      "a": "see items",
      "why": "Burning and rotting without air send matter into the air. Compost and ash join the soil. Glass and plastic stay as they are.",
      "cats": [
@@ -3308,7 +3308,7 @@
   "Who touches our waste after it leaves our door?",
   "If the waste truck stopped coming for a month, what would we do differently?",
   "Which thing in our kitchen has never been waste, though it is older than you?",
-  "This packet is shiny inside. Is it metal? How could we find out?",
+  "A chips packet is shiny inside. Is it metal? How could we find out?",
   "What would a shop look like if it sold nothing in packets?"
  ],
  "jokes": [
@@ -3797,10 +3797,10 @@
   },
   "three": {
    "who_am_i": "Your body is built from atoms that were once in peels, leaves and other bodies. One day those atoms will be part of someone else.",
-   "what_is_life": "Living beings pass their materials round. Life has a decomposer for everything that life makes. It has almost none yet for what factories make.",
+   "what_is_life": "Living beings pass their materials round. For almost everything that living beings make, there is a decomposer that can eat it. For most of what factories make, there is not.",
    "what_is_this_world": "The Earth keeps the same atoms. Nothing you throw out leaves the world. It only changes its place and its form."
   },
-  "thread": "The Earth has one stock of atoms, and everything is made from it. The same carbon atoms have been air, leaf, peel, soil and child, many times over. Plastic is made of that carbon too, taken from sea beings who died millions of years ago. So a banana peel and a milk packet are the same stock of atoms in two arrangements. Decomposers know how to undo one arrangement, and nobody alive has yet learned to undo the other.",
+  "thread": "The Earth has one stock of atoms, and everything is made from it. The same carbon atoms have been air, leaf, peel, soil and child, many times over. Plastic is made of that carbon too, taken from sea beings who died millions of years ago. So a banana peel and a milk packet are made from the same stock of atoms, joined in two different ways. Decomposers can take the peel apart. For most plastics, almost no living being can yet do the same.",
   "teachings": [
    {
     "source": "Thich Nhat Hanh, in his teaching on roses and garbage, found in several of his books",

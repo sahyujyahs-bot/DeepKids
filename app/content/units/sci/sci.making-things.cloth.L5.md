@@ -178,11 +178,11 @@ We have learned how thread is woven, knitted and stitched into cloth, and how cl
 *Habit it breaks:* We call old cloth 'waste', as if a thing simply ends when we stop using it. We also sort things for reuse by their material alone. But two cloths of the same cotton have different second lives, because one was looped from a single thread and the other was crossed from many.  
 *Evidence:* In Woven or Knitted, a row of the knitted piece came out as one long thread. In the Fray Test, the woven piece lost threads only at its cut edges and stayed whole inside. In The Sweater That Went Back to Wool, the cut pieces were wasted and the unravelled wool was not.
 
-- *who am i:* Your body is also many strands held in an arrangement. The food you eat is taken apart and built into you, and you stay yourself while the material changes.
+- *who am i:* Your body is built from many tiny parts, held together in a particular arrangement. The food you eat is taken apart and built into you. So the material in you keeps changing, while you stay yourself.
 - *what is life:* Living beings were spinning and weaving long before people. A caterpillar spins, a baya weaves and a tailorbird stitches. Making is part of being alive.
-- *what is this world:* The world keeps very little as waste. Cotton was air, water and sunlight. A shirt can become a quilt, then a duster, then soil that grows new cotton.
+- *what is this world:* In nature, almost nothing is thrown away for good. A cotton plant builds the fibre in cotton from air, water and sunlight. A shirt can become a quilt, then a duster, and at last soil that can grow new cotton.
 
-A cotton plant builds fibre out of air, water and sunlight. People twist that fibre into one thread. From one thread come many cloths: woven, knitted, dyed and stitched in hundreds of ways across India. When a cloth wears out, the same thread and fibre can pass into a quilt, a rug or new yarn. So the many cloths are one kind of thread arranged in different ways, and the thread is one kind of fibre, and the fibre came from the same air and water that made you.
+A cotton plant builds fibre out of air, water and sunlight. People twist that fibre into one thread. From threads we make many kinds of cloth. They are woven, knitted, dyed and stitched in hundreds of ways across India. When a cloth wears out, its thread and fibre can become a quilt, a rug or new yarn. All these cloths are made of the same few things, which are fibre and thread, arranged in different ways. The fibre came from the same air and water that your own body is made from.
 
 - **Brihadaranyaka Upanishad 3.6 and 3.8:** The philosopher Gargi Vachaknavi asks the sage Yajnavalkya a weaver's question. If all this world is woven, like warp and weft, on water, then on what is water woven? She asks again and again, down to the last thing on which everything is woven. (Gargi used the picture of a loom to ask what holds the world together. In this unit your child asks the same kind of question of a cloth, and finds threads, then plies, then fibres, then long molecules.)
 - **Kabir, the song 'Jhini jhini bini chadariya':** Kabir was a weaver of Varanasi. In this song, sung in his name, he calls the body a finely woven cloth and asks what its warp and weft are. He says he wore the cloth with care and gave it back as he received it. (A weaver saw his own life in his work. The song treats a cloth as something lent, to be looked after and returned, which is how this unit treats old cloth.)
@@ -197,7 +197,7 @@ A cotton plant builds fibre out of air, water and sunlight. People twist that fi
 
 ## Deep and big questions
 - *deep:* A woven cloth has no glue and no knots. So what holds millions of threads together? (hint: Pull one thread out of an old handkerchief. Feel where the pull resists. Then think about what happens at each crossing.)
-- *deep:* When a sweater is unravelled into a ball of wool, nothing is lost. So where has the sweater gone? (hint: Ask what a sweater is: the wool, or the way the wool is arranged. Could it be both?)
+- *deep:* A sweater is unravelled into a ball of wool, and no wool is lost. Is the sweater gone, or is it still there in the wool? (hint: Ask what a sweater is: the wool, or the way the wool is arranged. Could it be both?)
 - *deep:* In ikat, the pattern is dyed into loose threads before any cloth exists. Is the pattern in the thread or in the cloth? (hint: Think about Paper Ikat. Could you see the shape on one strip alone? What had to happen before it showed?)
 - *big:* A young baya weaves a rough nest and an older one weaves a fine nest. Is weaving something a baya knows, or something a baya learns? (hint: Think about your own first running stitches. What did you know before you began, and what came only with practice?)
 - *big:* How many living beings and people had a hand in the shirt you are wearing? (hint: Start with the cotton plant and the soil. Count the farmer, the spinner, the weaver or knitter, the dyer, the tailor and the seller.)
@@ -318,7 +318,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
   - Ask: Why do you think so? (good: The T-shirt feels springy when I pull it, so it will stretch more.; The threads in the T-shirt look loopy, and loops can open out.)
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Cut a strip 4 cm wide and 40 cm long from the woven cloth, straight along the threads. 2. Cut a strip the same size from the T-shirt, running from the neck end to the hem. Write 'along' on it. 3. Cut a ring 4 cm wide right around the body of the T-shirt. 4. Cut the ring open and trim it to 40 cm. Write 'across' on it. 5. Keep the leftover cloth for later.  
-  *Parent says:* We need three strips of the same size. One is woven. Two are knitted, cut in two directions.  
+  *Parent says:* We need three strips of cloth, all the same size. One strip is woven. The other two are knitted. We cut them in two different directions.  
   *Child mode:* Cut three strips with a grown-up. Each is 4 cm wide and 40 cm long. Label the T-shirt strips 'along' and 'across'.
   - Note: The knitted strips curl into tubes at the edges. That is normal for T-shirt cloth. Write the labels near one end, where the knot will be.
 - **s3 (6 min)**  
@@ -334,7 +334,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
   - Note: Knitted strips usually stretch by a few centimetres along the shirt and by much more across it. Results differ from one T-shirt to another.
 - **s5 (8 min)**  
   *Parent does:* 1. Cut a piece 5 cm wide from the leftover woven cloth. Pull one thread out of it, right across. 2. Lay the thread straight beside the ruler and measure it. 3. Cut a piece of T-shirt cloth 5 cm wide, across the shirt. 4. With the pin, pick loose bits off one cut edge until a single thread runs all the way across. 5. Pull that thread out, hold it straight without stretching it, and measure it.  
-  *Parent says:* The pieces of cloth are both 5 cm wide. Let's see how long a thread each one holds across that width.  
+  *Parent says:* Now take a piece of the woven cloth and a piece of the knitted cloth, each 5 cm wide. We will pull one thread out of each. Then we will see how long a thread each piece holds across that width.  
   *Child mode:* Cut a piece 5 cm wide from each cloth. Pull one thread right across each piece. Measure both threads.
   - Ask: The knitted thread is much longer than 5 cm. Where was all that thread, inside a piece only 5 cm wide? (good: It was bent into loops.; It went up and down in loops, not straight across.)
   - Note: Expect a little over 5 cm for the woven thread and about 15 to 20 cm for the knitted thread. If the knitted thread will not run, try the opposite cut edge. If it keeps breaking, use an old sock or sweater, whose yarn is thicker.
@@ -410,7 +410,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
   - Note: Expect the widest fringe on the straight cut, clearly less on the slant cut and the zigzag cut, and none on the selvedge. If almost nothing has frayed, the cloth is tightly woven. Shake 300 more times.
 - **s5 (5 min)**  
   *Parent does:* 1. Ask your child for their claim, evidence and reasoning. 2. Look at a hemmed edge on a shirt or a kurta together. 3. Ask the check question.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then look at this hem. What job is it doing?  
+  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then look at the hem on a piece of clothing. What job is it doing?  
   *Child mode:* Say what you guessed and what you saw. Then say why it happened. What does a hem do?
   - Check: In the Fray Test, why did the selvedge not fray? → **The cross thread turns back there, so no cut ends exist**
 
@@ -539,7 +539,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
   - Note: Good answers use how the cloth was made. A knitted wool sweater can be unravelled. A woven sheet can be cut and hemmed into handkerchiefs or bags. A cotton banian makes a soft duster.
 - **s2 (8 min)**  
   *Parent does:* 1. Sit with an older person, or phone one. 2. Ask the three questions below and write the answers. 3. Thank them.  
-  *Parent says:* Ask: When you were ten, what happened to old clothes in your home? Who mended them? Was anything made from old cloth that you still remember?  
+  *Parent says:* Let's ask a grown-up, or someone older, a few questions. When you were ten, what happened to old clothes in your home? Who mended them? Do you remember anything that was made from old cloth?  
   *Child mode:* Ask an older person three questions about old clothes. Write the answers.
   - Note: Listen for quilts, cradles made from old saris, pot holders, lamp wicks, dusters and clothes handed down. Many families exchanged old clothes for steel vessels.
 - **s3 (5 min)**  
@@ -560,7 +560,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
   - Note: Pull each T-shirt strip gently and its edges curl in, so it becomes a soft round yarn. T-shirt cloth is knitted, so the cut edges do not fray.
 - **s2 (15 min)**  
   *Parent does:* 1. Fix one end of a strip in the hair pin. 2. Weave the first row: over one string, under the next, right across. Leave a tail of 3 cm at the start. 3. Weave back the other way: under where the last row went over. 4. Push each row down with the comb. 5. Do not pull the strip tight at the edges. 6. To join a new strip, lay its end over the old end for 3 cm and weave them together. 7. Weave 8 rows.  
-  *Parent says:* Over, under, over, under. On the way back, do the opposite. What would happen if two rows went the same way?  
+  *Parent says:* Weave the strip over one string, then under the next, and keep going. On the way back, do the opposite. Go under the strings that you went over. What would happen if two rows went the same way?  
   *Child mode:* Weave over one string and under the next. Go back the opposite way. Push each row down. Weave 8 rows.
   - Ask: What would happen if two rows went over and under the same strings? (good: They would slide together into one thick row.; They would not lock each other, so the cloth would be loose there.)
   - Note: If the edges are pulled tight, the coaster grows narrow in the middle. Leave a small loop of strip at each turn.

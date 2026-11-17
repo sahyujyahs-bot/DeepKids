@@ -33,7 +33,7 @@
 - **Annular eclipse**: A solar eclipse in which the Moon is too far from the Earth to cover the whole Sun. A bright ring of Sun shows round the Moon. Annular means ring-shaped. *e.g.* On 26 December 2019 people in Coimbatore, Ooty and Kannur saw a ring of Sun.
 - **Corona**: The Sun's faint outer layer of very hot, thin gas. It is always there, but the Sun's glare hides it. It shows only when the Sun's bright face is covered. *e.g.* In totality the corona appears as a pale white glow round the black Moon.
 - **Node**: One of the two points where the Moon's tilted path crosses the Earth's path round the Sun. Eclipses happen only near a node. Indian astronomers named the two nodes Rahu and Ketu. *e.g.* If Purnima comes when the Moon is near a node, there is a lunar eclipse.
-- **Eclipse season**: A stretch of about five weeks when the Sun is near a node, so eclipses can happen. One comes about every six Moon months. *e.g.* In 2026 the eclipse seasons were in February and March, and again in August.
+- **Eclipse season**: A stretch of about five weeks when the Sun is near a node, so eclipses can happen. Eclipse seasons come about every six Moon months. *e.g.* In 2026 the eclipse seasons were in February and March, and again in August.
 
 ## Explanations
 ### Moonlight is reflected sunlight · *defined*
@@ -47,15 +47,15 @@ Sunlight takes about 8 minutes and 20 seconds to reach the Moon. The Moon's grou
 **Definition:** The Sun always lights the half of the Moon that faces it. The Moon goes round the Earth, so we see a different share of that lit half each night.
 
 At Amavasya the Moon is between us and the Sun. Its lit half faces away from us, and we see nothing. Over the next two weeks the Moon moves round the Earth, and we see more of the lit half each night. This fortnight is Shukla Paksha. At Purnima the Earth is between the Sun and the Moon, and we see the whole lit half. Then the lit part shrinks through Krishna Paksha. One full round, from Amavasya to Amavasya, takes about 29 and a half days. The phases are not made by the Earth's shadow. The Earth's shadow touches the Moon only during a lunar eclipse. A crescent Moon is often in the sky beside the Sun, where the Earth's shadow cannot reach.
-- e.g. Amavasya: the lit half faces away from the Earth.
-- e.g. Half Moon: we see half of the lit half, which is a quarter of the whole ball.
-- e.g. Purnima: the whole lit half faces the Earth.
+- e.g. At Amavasya, the lit half of the Moon faces away from the Earth.
+- e.g. At a half Moon, we see half of the lit half. That is a quarter of the whole ball.
+- e.g. At Purnima, the whole lit half of the Moon faces the Earth.
 ### How much of the Moon is lit: the angle rule · *defined*
 **Definition:** The share of the Moon's face that looks lit depends on the angle between the Moon and the Sun in our sky. It is 0 at 0 degrees, half at 90 degrees and all at 180 degrees.
 
 In How Much of the Moon Is Lit, a ball half covered by a dark sock stood at seven places round a viewer. At 30 degrees from the Sun, only about 7 parts in 100 of its face looked lit. At 60 degrees it was 25, at 90 degrees 50, at 120 degrees 75, and at 150 degrees about 93. The lit share does not grow evenly. It grows slowly near Amavasya and near Purnima, and fastest near the half Moon. The reason is the direction we look from. Near Amavasya the lit half is turned almost fully away, and we see only its edge. The Moon moves about 12 degrees further from the Sun each day. So the angle tells you the phase, and the phase tells you the angle.
-- e.g. 2 and a half days after Amavasya: 30 degrees from the Sun, about 7 parts in 100 lit.
-- e.g. About 7 and a half days after Amavasya: 90 degrees, a half Moon.
+- e.g. About 2 and a half days after Amavasya, the Moon is 30 degrees from the Sun. About 7 parts in 100 of its face are lit.
+- e.g. About 7 and a half days after Amavasya, the Moon is 90 degrees from the Sun. It looks like a half Moon.
 - e.g. The shares at 60 and 120 degrees add up to 100. So do the shares at 30 and 150 degrees.
 ### The Moon is dark, but it looks white · *defined*
 **Definition:** The Moon's ground is dark grey. It reflects about 12 parts in every 100 of the light that falls on it, about the same as an old tar road.
@@ -75,29 +75,29 @@ In The Shadow That Runs Out, you lifted a seed above paper under a lamp. The dar
 **Definition:** In a total solar eclipse, the tip of the Moon's umbra touches the Earth. Only people inside that small dark spot see the Sun fully covered.
 
 The Moon's dark shadow is about 375,000 kilometres long. The ground below the Moon is about that far away. So only the narrow tip of the cone reaches the Earth. The dark spot on the ground is never more than about 270 kilometres wide. It moves across the Earth at more than 1,000 kilometres an hour, along a strip called the path of totality. At any one place, totality lasts a few minutes, and never longer than about seven and a half. Round the dark spot lies the penumbra, thousands of kilometres wide. People there see a partial eclipse, with a bite taken out of the Sun. Everyone else sees no eclipse.
-- e.g. Inside the umbra: a total eclipse, with the sky dark and the corona showing.
-- e.g. Inside the penumbra: a partial eclipse, with part of the Sun still bright.
+- e.g. Someone standing inside the umbra sees a total eclipse. The sky is dark and the corona shows.
+- e.g. Someone standing inside the penumbra sees a partial eclipse. Part of the Sun is still bright.
 - e.g. Any one town sees a total solar eclipse about once in 375 years, on average.
 ### Total or ring: the Moon's distance changes · *defined*
 **Definition:** The Moon's path round the Earth is a slightly stretched circle. When the Moon is near, its dark shadow reaches the ground and the eclipse is total. When it is far, the shadow ends above the ground and a ring of Sun is left.
 
 In The Coin Eclipse, a coin near your eye hid the whole plate. When you moved the coin a little further away, a ring of plate showed round it. The Moon does the same. Its centre is on average about 363,000 kilometres from the Earth's centre at its nearest, and about 405,000 at its furthest. The Sun is about 400 times as wide as the Moon, and about 390 times as far away. So the two look almost exactly the same size in our sky. A near Moon looks a little bigger than the Sun, and covers it. A far Moon looks a little smaller. Then people on the centre line see an annular eclipse, a ring of Sun round a black Moon. The sky stays bright and the corona stays hidden.
-- e.g. Total: 22 July 2009, seen from Surat, Varanasi and Patna.
-- e.g. Annular: 26 December 2019, seen from Kannur, Ooty and Coimbatore.
-- e.g. Annular: 15 January 2010, seen from Kanyakumari and Rameswaram.
+- e.g. A total solar eclipse was seen on 22 July 2009 from Surat, Varanasi and Patna.
+- e.g. A ring eclipse was seen on 26 December 2019 from Kannur, Ooty and Coimbatore.
+- e.g. Another ring eclipse was seen on 15 January 2010 from Kanyakumari and Rameswaram.
 ### A lunar eclipse: the Moon inside the Earth's shadow · *defined*
 **Definition:** In a lunar eclipse the Moon passes through the Earth's shadow. It can happen only at Purnima, when the Earth is between the Sun and the Moon.
 
 The Earth's dark shadow is about 1.4 million kilometres long, far longer than the distance to the Moon. Where the Moon crosses it, the dark shadow is still about 9,200 kilometres wide. That is about 2.6 times the width of the Moon. So the whole Moon can go inside, and it can stay there for up to about an hour and three-quarters. Everyone on the night side of the Earth can watch, because the shadow is on the Moon itself. A lunar eclipse is safe to watch with bare eyes. If only part of the Moon enters the dark shadow, the eclipse is partial. If the Moon passes only through the pale penumbra, it dims so little that most people notice nothing.
-- e.g. Total lunar eclipse: the whole Moon is inside the umbra.
-- e.g. Partial lunar eclipse: a curved dark edge covers part of the Moon.
-- e.g. Penumbral lunar eclipse: the Moon is only in the pale outer shadow.
+- e.g. In a total lunar eclipse, the whole Moon is inside the umbra.
+- e.g. In a partial lunar eclipse, a curved dark edge covers part of the Moon.
+- e.g. In a penumbral lunar eclipse, the Moon is only in the pale outer shadow.
 ### Why the eclipsed Moon turns red · *defined*
 **Definition:** During a total lunar eclipse a little sunlight still reaches the Moon. The Earth's air bends this light into the shadow, and the air lets mostly red light through.
 
 The Earth's air works like a thin lens all round the planet. Sunlight that skims through the air is bent inwards, into the Earth's shadow. On the way, the air scatters most of the blue light out sideways. The same thing reddens the Sun at sunrise and sunset. So the light that reaches the Moon is the red light of every sunrise and sunset on the Earth at that moment. An astronaut on the Moon would see the black Earth cover the Sun, with a thin red ring of glowing air round it. The colour changes from one eclipse to the next. When a big volcano has filled the high air with dust, less light gets through. After Mount Pinatubo erupted in 1991, the eclipsed Moon of December 1992 was so dark that it almost vanished.
-- e.g. Clear high air: a bright copper-red or orange Moon.
-- e.g. Dusty high air after a volcano: a dark brown or grey Moon.
+- e.g. When the high air is clear, the eclipsed Moon is a bright copper-red or orange.
+- e.g. When the high air is dusty after a volcano, the eclipsed Moon is dark brown or grey.
 - e.g. Astronomers rate the brightness from 0 to 4 on the Danjon scale, made by Andre Danjon in 1921.
 ### Why there is not an eclipse every month · *defined*
 **Definition:** The Moon's path is tilted about 5 degrees against the Earth's path round the Sun. So at most Amavasyas and Purnimas, the Moon passes above or below the straight line, and the shadows miss.
@@ -133,8 +133,8 @@ The corona is about a million times fainter than the Sun's face. So it shows onl
 **Definition:** Never look at the Sun, eclipse or no eclipse. Looking at a lunar eclipse is completely safe.
 
 Even when most of the Sun is covered, the part that still shows can burn the back of the eye. It does not hurt while it happens, because that part of the eye has no pain nerves. Sunglasses, smoked glass, X-ray film and water in a bowl are not safe. Use eclipse glasses marked ISO 12312-2, and check them for scratches first. You can also watch without looking up at all. Small gaps between the leaves of a tree throw tiny pictures of the Sun on the ground. During a partial eclipse each round patch turns into a crescent. During an annular eclipse each patch turns into a ring. Eating, drinking and going outdoors during an eclipse are safe. An eclipse is a shadow, and a shadow adds nothing to the air, the water or the food.
-- e.g. Safe: eclipse glasses marked ISO 12312-2, and the patches of light under a tree.
-- e.g. Not safe: sunglasses, X-ray film, smoked glass, or a camera or binoculars without a proper filter.
+- e.g. These are safe: eclipse glasses marked ISO 12312-2, and the patches of light under a tree.
+- e.g. These are not safe: sunglasses, X-ray film, smoked glass, or a camera or binoculars without a proper filter.
 - e.g. A lunar eclipse needs no protection at all.
 
 ## Mostly agreed
@@ -145,7 +145,7 @@ Even when most of the Sun is covered, the part that still shows can burn the bac
 - The eclipsed Moon is red because sunlight is bent and reddened by the Earth's air. *How we know:* The eclipsed Moon is darker after big volcanic eruptions, when the high air is dusty. Japan's Kaguya spacecraft, going round the Moon, filmed the Earth covering the Sun in February 2009, with a bright ring of air round it.
 
 ## How we found out
-**Aristarchus of Samos, and later Giovanni Cassini and Jean Richer, Aristarchus worked about 270 BCE. Cassini and Richer measured Mars in 1672..** About 2,300 years ago, on the Greek island of Samos, Aristarchus tried to measure the sky with eclipses. During a lunar eclipse he watched the Earth's curved shadow cross the Moon. He judged that the shadow was about two Moons wide. From that he worked out that the Moon is roughly a third as wide as the Earth, which was close. Then he measured the angle between the half Moon and the Sun as 87 degrees. From this he worked out that the Sun is about 19 times as far away as the Moon. That idea was wrong, but astronomers repeated it for nearly 2,000 years. His method was sound. The true angle is 89.85 degrees, and no eye can tell that from 90. In 1672 Giovanni Cassini in Paris and Jean Richer in South America measured the position of Mars from two places at the same time. Their result put the Sun about 140 million kilometres away. So the Sun is about 390 times as far away as the Moon.  
+**Aristarchus of Samos, and later Giovanni Cassini and Jean Richer, Aristarchus worked about 270 BCE. Cassini and Richer measured Mars in 1672..** About 2,300 years ago, on the Greek island of Samos, Aristarchus tried to measure the sky with eclipses. During a lunar eclipse he watched the Earth's curved shadow cross the Moon. He judged that the shadow was about two Moons wide. From that he worked out that the Moon is roughly a third as wide as the Earth, which was close. Then he measured the angle between the half Moon and the Sun as 87 degrees. From this he worked out that the Sun is about 19 times as far away as the Moon. That number for the Sun's distance was wrong, but astronomers repeated it for nearly 2,000 years. His method was sound. The true angle is 89.85 degrees, and no eye can tell that from 90. In 1672 Giovanni Cassini in Paris and Jean Richer in South America measured the position of Mars from two places at the same time. Their result put the Sun about 140 million kilometres away. So the Sun is about 390 times as far away as the Moon.  
 *What people believed before:* That the Sun is only about 19 times as far away as the Moon. Measurements of Mars from two places in 1672 showed that the Sun is about 390 times as far.
 
 ## Challenging perspectives
@@ -172,11 +172,11 @@ We have learned how the Moon's phases and eclipses work, and that a dark shadow 
 *Habit it breaks:* We think of a shadow as a flat dark patch on a floor or a wall. The patch is only the slice where a surface cuts through the shadow. The shadow fills the space behind the thing, even where nothing is there to show it.  
 *Evidence:* Take a bulb 6 centimetres wide, 180 centimetres above the paper. A peppercorn's dark shadow ends about 15 centimetres below the peppercorn, and a chana's about 24 centimetres below. Above and below the paper the shadow was still there, in the air. In sunlight the rule gives 108 widths. For the Moon that is 3,474 times 108, which is about 375,000 kilometres.
 
-- *who am i:* Every evening the turning Earth carries you into the Earth's own shadow, and every morning it carries you out. Night is the inside of a dark cone about 1.4 million kilometres long.
+- *who am i:* Every evening the turning Earth carries you into the Earth's own shadow, and every morning it carries you out. Night is simply the time when your side of the Earth is inside that shadow. The shadow is a dark cone in space, about 1.4 million kilometres long.
 - *what is life:* When the Moon's shadow passes, bees stop flying and birds go to roost. Living beings read the light all day long, and answer when it changes.
-- *what is this world:* Every planet and every moon carries a dark cone behind it, pointing away from the Sun. We notice one only when something moves into it.
+- *what is this world:* Every planet and every moon has a dark cone of shadow behind it, pointing away from the Sun. We notice a cone only when something moves into it.
 
-The Sun, the Moon and the Earth are three separate bodies. An eclipse happens only when all three stand in one line, and then one shadow joins them. The red light on the eclipsed Moon has passed through the Earth's air, at every place where the Sun is rising or setting. So the Moon, the Earth's air and the Sun all take part in one event. What we call an eclipse of the Moon is also a sunrise for millions of living beings.
+The Sun, the Moon and the Earth are three separate bodies. An eclipse happens only when all three stand in one line, and then one shadow joins them. The red light on the eclipsed Moon has passed through the Earth's air, at every place where the Sun is rising or setting. So the Moon, the Earth's air and the Sun all take part in one event. When we see the Moon turn red, we are seeing the light of sunrises and sunsets that are happening on the Earth at that very moment.
 
 - **Aryabhata, Aryabhatiya (499 CE), Golapada, the verses on eclipses:** The Moon covers the Sun, and the great shadow of the Earth covers the Moon. (Aryabhata treated the Earth's shadow as a real thing with a size, reaching out into space. From its size he worked out how long an eclipse would last.)
 - **Zhuangzi, chapter 2, 'On Making Things Equal':** Penumbra asks Shadow why it keeps moving and stopping, and has no will of its own. Shadow answers that it depends on something else, and that thing may depend on something else again. (In The Shadow That Runs Out, the dark shadow depended on the seed, the lamp and the distance between them. Change any one, and the shadow changed.)
@@ -194,7 +194,7 @@ The Sun, the Moon and the Earth are three separate bodies. An eclipse happens on
 - *deep:* The Moon is as dark as an old tar road, but everyone calls it white. Who is right? (hint: Think of A Black Card in the Dark. The card looked pale alone, and black beside a white strip.)
 - *deep:* Babylonian sky-watchers could predict eclipses without knowing what caused them. Is predicting the same as understanding? (hint: Think of what you could do after Eclipse Detective, and what you could explain after The Shadow That Runs Out.)
 - *big:* The Sun and the Moon look the same size in our sky. Would people have learned less about the sky if they did not? (hint: Think of what a total eclipse shows that nothing else did: the corona, and helium in 1868.)
-- *big:* During a lunar eclipse, the Moon is lit by every sunrise and sunset on the Earth at once. What does that tell you about where a sunset is? (hint: A sunset happens at one place for you. Somewhere on the Earth, it is sunset at every moment.)
+- *big:* During a lunar eclipse, the Moon is lit by every sunrise and sunset on the Earth at the same moment. Is a sunset something that happens in one place, or all around the Earth at once? (hint: A sunset happens at one place for you. Somewhere on the Earth, it is sunset at every moment.)
 - *big:* Aristarchus used the right method and got the wrong answer. Was his work a success or a failure? (hint: Think of Aristarchus's Angle. His method still works. Only the measuring was beyond the human eye.)
 
 ## Story: The Morning That Did Not Go Dark
@@ -368,7 +368,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
   *Parent says:* Lift the seed very slowly and watch the dark middle of the shadow. The dark middle gets smaller and smaller. Tell me the moment it is gone. What is left on the paper then?  
   *Child mode:* Lift the seed slowly beside the ruler. Watch the dark middle shrink. Stop when it vanishes. Read the height. Do it twice for each thing.
   - Ask: What do you notice when you divide each height by the width? (good: The answer is nearly the same number for all four things.; A thing twice as wide has a dark shadow twice as long.)
-  - Note: A second person reads the ruler while your child watches the shadow. The stick has a thin shadow too. Ignore it. Take a bulb 6 cm wide and 180 cm away. Expect about 6 cm for the mustard seed and 15 cm for the peppercorn. Expect about 24 cm for the chana and 36 cm for the button. Most people stop a little early, so answers from 25 to 32 are good for this lamp.
+  - Note: A second person reads the ruler while your child watches the shadow. The stick has a thin shadow too. Ignore it. Take a bulb 6 cm wide and 180 cm away. Expect about 6 cm for the mustard seed and 15 cm for the peppercorn. Expect about 24 cm for the chana and 36 cm for the button. Most people stop a little early, so a ratio from 25 to 32 is good for this lamp.
 - **s4 (6 min)**  
   *Parent does:* 1. Move the paper and the book to the floor under the same bulb. 2. Measure from the bulb to the paper again. 3. Repeat the test with the peppercorn and the chana, twice each. 4. Divide each mean height by the width, as before.  
   *Parent says:* Now the paper is further from the lamp. Will the dark shadows end at the same heights as before? Measure them and see.  
@@ -377,7 +377,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
   - Note: With the floor 260 cm from the bulb, expect about 22 cm for the peppercorn. Expect about 35 cm for the chana. That gives about 43 for both. If you have no table under the bulb, use a chair seat and the floor.
 - **s5 (7 min)**  
   *Parent does:* 1. Divide the distance from the bulb to the table by the width of the bulb. 2. Compare the answer with the numbers in the table. 3. Do the same for the floor. 4. Ask your child to say the rule. 5. Ask your child to say what they thought would happen, what they saw, and why it happened. Then read the parent note aloud.  
-  *Parent says:* Divide the lamp's distance by the lamp's width. Does that number look familiar? Now tell me three things. What did you think would happen? What did you see? Why did it happen?  
+  *Parent says:* Divide the lamp's distance by the lamp's width. Compare that number with the number you got by dividing each height by each width. What do you notice? Then tell me three things. What did you think would happen? What did you see? Why did it happen?  
   *Child mode:* Divide the lamp's distance by the lamp's width. Compare it with your table. Say the rule. Say what you thought would happen, what you saw, and why it happened.
   - Ask: What rule joins the lamp and the dark shadow? (good: The dark shadow is as many seed-widths long as the lamp is lamp-widths away.; A wider lamp or a nearer lamp makes a shorter dark shadow.)
   - Note: For a bulb 6 cm wide, 180 cm from the paper, 180 ÷ 6 = 30. The dark shadow of every small thing ends about 30 widths behind it. After your child has explained, tell them this. The Sun is about 108 Sun-widths away from us. So in sunlight every dark shadow ends about 108 widths behind the thing. The Moon is 3,474 km wide. Its dark shadow ends about 375,000 km behind it, and the Earth is about that far from the Moon.
@@ -412,7 +412,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
   - Note: Alone in the beam, the black card usually looks pale grey, silvery or even white. With the white strip in the same light, it looks black or dark grey at once. Your child knows the card is black, so it may look darker to them than to the viewers. That is a result too. Write it down.
 - **s4 (4 min)**  
   *Parent does:* 1. Take down the black card and hang the newspaper card in its place. 2. Ask each viewer what colour it is. 3. Slide the white strip into the light and ask again.  
-  *Parent says:* This is a different card. What colour is it? And now, with the strip in front?  
+  *Parent says:* Now we try a sheet of newspaper in the same way. What colour does it look by itself? And what colour does it look with the white strip in front?  
   *Child mode:* Hang the newspaper card instead. Ask what colour it is. Slide in the white strip. Ask again.
   - Note: Newspaper alone usually looks white. Beside white paper it looks grey. Printed newspaper reflects about half of the light that falls on it.
 - **s5 (6 min)**  
@@ -513,7 +513,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
   - Note: Expect about 28 cm at 80 degrees and 57 cm at 85 degrees. Expect about 95 cm at 87 degrees and 286 cm at 89 degrees. A small protractor cannot set 89 degrees exactly. Any answer from 2 to 4 metres is fine, and that wide spread is the point of the activity.
 - **s3 (5 min)**  
   *Parent does:* 1. Ask your child to divide each distance by 5. The answers show how many times as far the Sun is as the Moon. 2. Tell them Aristarchus measured 87 degrees. 3. Tell them the true angle is 89.85 degrees. On this floor the Sun would be about 19 metres away.  
-  *Parent says:* Divide each distance by five. Aristarchus measured eighty-seven degrees, so he said the Sun is nineteen times as far as the Moon. The true angle is 89.85 degrees. Where is the Sun then?  
+  *Parent says:* Divide each crossing distance by 5. In our drawing the Moon is 5 centimetres from the Earth, so this gives the Sun's distance in Moon-distances. Aristarchus measured 87 degrees, so he said the Sun is 19 times as far as the Moon. The true angle is 89.85 degrees. Where is the Sun then?  
   *Child mode:* Divide each distance by 5. Aristarchus measured 87 degrees. What did he get? The true angle is 89.85 degrees.
   - Note: The answers are about 6, 11, 19 and 57 times. At 89.85 degrees the answer is about 380 times, close to the real figure of about 390. On the floor that is about 19 metres, which is longer than most flats.
 - **s4 (5 min)**  
@@ -793,7 +793,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 - **Did Thales really predict the eclipse of 585 BCE?** The only account was written about 150 years later. No method known at the time could say where a solar eclipse would be seen. Historians still argue about it.
 
 ## Questions to ask kids
-- Tonight's Moon: how many degrees from the Sun do you think it is? How much of it is lit?
+- Look at tonight's Moon. How many degrees from the Sun do you think it is? How much of it is lit?
 - Where does the shadow of your hand end, if you lift your hand towards the ceiling lamp?
 - If the Moon were twice as far away, would we ever see a total solar eclipse?
 - Why can half the Earth watch a lunar eclipse, but only a narrow strip watch a total solar eclipse?

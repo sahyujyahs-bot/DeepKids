@@ -185,9 +185,9 @@
    "definition": "An alloy can be non-magnetic though it holds a magnetic metal. An alloy can be magnetic though none of its metals is.",
    "description": "Nickel is a magnetic metal. The centre of a ten-rupee coin is one quarter nickel, and a magnet does not attract it. A steel plate is about seven tenths iron, and a magnet does not attract it either. Railway crossings are made of a steel with about 13 parts manganese in every 100. It is mostly iron, and a magnet hardly attracts it. The wire that glows in an electric heater is four fifths nickel, and it is not magnetic. The surprise also runs the other way. In 1903 Friedrich Heusler mixed copper, manganese and aluminium. None of the three is magnetic, yet a magnet attracted the alloy strongly. So you cannot add up the metals in the recipe. You have to test the alloy itself.",
    "examples": [
-    "Cupronickel: one quarter nickel, and not attracted.",
-    "Kitchen stainless steel: mostly iron, and not attracted, or only faintly.",
-    "Heusler's alloy: copper, manganese and aluminium, and strongly attracted."
+    "The centre of a ten-rupee coin is cupronickel. It is about one quarter nickel, yet a magnet does not attract it.",
+    "Kitchen stainless steel is mostly iron. Even so, a magnet does not attract it, or attracts it only faintly.",
+    "Heusler's alloy is made only of copper, manganese and aluminium. None of them is magnetic, and a magnet still attracts the alloy strongly."
    ],
    "perspectives": [],
    "art": "Two recipe cards side by side: one says copper plus nickel with a crossed-out magnet, the other says copper plus manganese plus aluminium with a magnet holding the metal."
@@ -200,7 +200,7 @@
    "examples": [
     "A one-rupee coin holds more than ten thousand billion billion iron atoms.",
     "In a steel nail, groups of atoms called domains each point one way. A magnet nearby turns them to face it.",
-    "The iron in your blood is spread out, one atom at a time, so a magnet does not attract blood."
+    "Your blood holds iron, but the iron atoms are spread far apart. Because they are not packed together in a crowd, a magnet does not attract blood."
    ],
    "perspectives": [],
    "art": "A zoom circle into a nail showing rows of tiny balls, each with a small arrow, all pointing the same way."
@@ -287,11 +287,11 @@
    "concept": "The same carbon atoms give two answers to a magnet",
    "status": "defined",
    "definition": "Graphite and diamond are both made only of carbon atoms. A strong magnet pushes graphite away far more than it pushes diamond.",
-   "description": "A very strong magnet pushes weakly on materials we call non-magnetic. The push on graphite, the grey material in pencil lead, is one of the largest. In graphite the carbon atoms lie in flat sheets, and electrons can move around rings of atoms in each sheet. In diamond the same atoms are joined in a different pattern, and the push is much smaller. In the 1930s Kathleen Lonsdale and K. S. Krishnan measured how crystals answer a magnet in different directions. Their numbers showed that the pattern of the atoms sets the answer. This is the same lesson as the two steels, in a different element.",
+   "description": "A very strong magnet pushes weakly on materials we call non-magnetic. The push on graphite, the grey material in pencil lead, is one of the largest. In graphite the carbon atoms lie in flat sheets, and electrons can move around rings of atoms in each sheet. In diamond the same atoms are joined in a different pattern, and the push is much smaller. In the 1930s Kathleen Lonsdale and K. S. Krishnan measured how crystals answer a magnet in different directions. Their numbers showed that the pattern of the atoms sets the answer. The same thing is true of the two steels. Coin steel and kitchen steel hold the same iron atoms, and only the pattern is different.",
    "examples": [
     "A thin pencil lead can be pushed aside by a very strong magnet.",
     "Lonsdale and Krishnan published their measurements together in 1936.",
-    "Coin steel and kitchen steel are the iron version of the same idea."
+    "Coin steel and kitchen steel show the same idea with iron. The atoms are the same, and the pattern decides how a magnet answers."
    ],
    "perspectives": [],
    "art": "Two zoom circles, one showing carbon atoms in flat honeycomb sheets labelled graphite and one showing a tight three-dimensional net labelled diamond."
@@ -425,7 +425,7 @@
   "note": "A made-up story. The science is real. Indian two-rupee coins made in the 1990s have eleven sides and are cupronickel, which a magnet does not attract. Two-rupee coins made since about 2007 are a stainless steel that a magnet attracts. Visakhapatnam really has a large steel plant. Sravani, Lakshmamma, the judge, the school and the machine are imagined.",
   "text": [
    "Every afternoon at half past one, Lakshmamma counted coins. She ran the canteen at the school in Visakhapatnam, and children paid for their idlis and lemon rice in coins. By the end of lunch the steel bowl beside her stove was full.",
-   "Sravani, who was ten, often stayed to help. She liked the sound the coins made. She did not like how long it took. Ones here, twos there, fives, tens. Lakshmamma's fingers were quick, but the heap was always big.",
+   "Sravani, who was ten, often stayed to help. She liked the sound the coins made. She did not like how long it took. There were ones in one heap, twos in another, and then fives and tens. Lakshmamma's fingers were quick, but the heap was always big.",
    "Three weeks before Science Day, Sravani found a round black magnet in her uncle's box of broken things. It had come out of an old speaker. She took it to the canteen and dipped it into the bowl, just to see.",
    "It came up bristling with coins. She looked at them. Every one was a one or a two. She dipped again. Ones and twos. Not a single golden five clung to it, and not a single ten.",
    "'It likes the small money,' said Lakshmamma, and laughed.",
@@ -1097,7 +1097,7 @@
      "id": "s6",
      "mins": 6,
      "do": "1. Put the one-rupee coin beside the steel plate. 2. Ask what is the same about them, and what the magnet found. 3. Ask for the three sentences. 4. Only then read 'Why a magnet attracts coin steel and not kitchen steel' together.",
-     "say": "Both are silver-coloured, shiny and called steel. Both are mostly iron. Say what you thought would happen, what you saw, and why it happened.",
+     "say": "Look at the one-rupee coin and the steel plate. Both are silver-coloured, both are shiny, and both are called steel. Both are mostly iron. Say what you thought would happen, what you saw, and why it happened.",
      "kid": "Put the coin beside the plate. What is the same? What did the magnet find? Say why you think so.",
      "ask": [
       {
@@ -1421,7 +1421,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Lay two nails side by side, 2 centimetres apart. 2. Push them slowly together. 3. Then touch one nail to the magnet and hold a paper clip to the nail.",
-     "say": "Two nails side by side. Do they pull each other? Now a nail on the magnet. Can it lift a clip?",
+     "say": "First, put two nails side by side. Do they pull on each other? Then put one nail on the magnet. Can that nail lift a paper clip?",
      "kid": "Push two nails together. Do they pull? Touch a nail to the magnet. Try a clip.",
      "ask": [
       {
@@ -1460,7 +1460,7 @@
        ]
       }
      ],
-     "parent": "The magnet's end touching the other bar's middle holds firmly. The plain bar's end touching the magnet's middle pulls only faintly. Unwrap to check.",
+     "parent": "The magnet's end touching the other bar's middle holds firmly. The plain bar's end touching the magnet's middle pulls only faintly. When you have decided, unwrap the bars to check which one is the magnet.",
      "context": "This step of Two Nails, Then the T Test is the T test itself. Here you find the magnet."
     },
     {
@@ -1551,7 +1551,7 @@
      "id": "s3",
      "mins": 8,
      "do": "1. Make pattern A again with 9 coins in 3 rows of 3. 2. The rule: two touching coins must show different faces, one heads and one tails. 3. Try to follow the rule. 4. Then try it in pattern B with 3 coins that all touch one another.",
-     "say": "Rule: every two coins that touch must show different faces. Does the rule work in pattern A? Does it work in a triangle of three touching coins?",
+     "say": "Here is a rule. Every two coins that touch must show different faces. Does the rule work in pattern A? Does it work for a triangle of three touching coins?",
      "kid": "Touching coins must show different faces. Try it in rows. Try it in a triangle.",
      "ask": [
       {
@@ -1636,10 +1636,10 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Out of your child's sight, wrap the coin, the pin and the pebble each in one sheet of foil. 2. Wrap the golden five-rupee coin in one sheet. 3. Wrap the second one-rupee coin in four sheets, packed tight. 4. Number the five balls.",
-     "say": "I have hidden five things in foil. A one-rupee coin, a five-rupee coin, a pin, a pebble and a coin in a thick ball. Which will the magnet say yes to?",
+     "say": "I have hidden five things, each wrapped in foil. Ball 1 holds a one-rupee coin and ball 2 holds a golden five-rupee coin. Ball 3 holds a pin and ball 4 holds a pebble. Ball 5 holds a one-rupee coin under many layers of foil. Which balls will the magnet say yes to?",
      "kid": "Five things are hidden in foil. Which will stick to the magnet? Guess.",
      "adult": true,
-     "parent": "You need two one-rupee coins: one for ball 1 and one for ball 5 with four sheets. Pack ball 5 until it is about as big as a walnut. Keep a note of what is in each ball.",
+     "parent": "You need two one-rupee coins. One goes in ball 1, wrapped in a single sheet of foil. The other goes in ball 5, wrapped in four sheets, until the ball is about as big as a walnut. Keep a note of what is in each ball.",
      "context": "In this step of Fool the Magnet Test a grown-up hides things in balls of foil."
     },
     {
@@ -1877,7 +1877,7 @@
      "say": "We build a coin sorter. A coin slides down a slope. A magnet under the slope stops the coins it attracts. Which coins do you think will stop?",
      "kid": "Build a slope. Tape a magnet under it. Put a cup at the bottom. Try 5 coins.",
      "adult": true,
-     "parent": "If the magnet is too weak, steel coins slide over it without stopping. Tape a second magnet on top of the first. If the slope is too steep, even steel coins slide past. Try 30 degrees, a little steeper than a book leaning on a wall.",
+     "parent": "If the magnet is too weak, steel coins slide over it without stopping. Tape a second magnet on top of the first. If the slope is too steep, even steel coins slide past. Try a slope of 30 degrees. That is about as steep as a normal staircase.",
      "context": "This is day 1 of the Coin Sorter. You build the slope and fix the magnet."
     },
     {
@@ -3181,7 +3181,7 @@
    "explain": "770 minus 30 is 740. So the iron must become 740 degrees hotter, and a little more, before the magnet lets go.",
    "math_unit": "math.addition-subtraction.written-methods.L5",
    "context": "In this unit you read that Pierre Curie showed in 1895 that iron stops being attracted above a fixed temperature.",
-   "why_maths": "The difference between two temperatures shows how far from ordinary life the change happens."
+   "why_maths": "Taking one temperature away from the other tells you how much hotter than a kitchen the iron must become before a magnet lets go."
   },
   {
    "problem": "A made-up coin steel weighs 6 grams and is one sixth chromium. How many grams of chromium does it hold, and how many grams of other metals?",

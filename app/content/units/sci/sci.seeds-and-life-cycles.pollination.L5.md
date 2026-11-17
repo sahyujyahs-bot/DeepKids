@@ -3,7 +3,7 @@
 
 **Summary.** The pollen of a hibiscus flower lands on the stigma, at the very top of the flower. The ovules, which become the seeds, are several centimetres below, sealed inside the ovary. So how does pollen on the outside start a seed on the inside? Your child takes a flower apart and names the four rings of parts: sepals, petals, stamens and carpels. They learn that pollination only brings the pollen to the stigma. After that, each pollen grain grows a thin tube down to one ovule. A male cell joins the egg cell there. That joining is fertilisation. Then the ovary grows into the fruit, and each fertilised ovule grows into a seed. In the Empty Places Test, your child opens 20 pods and counts the seeds and the ovules that never grew.
 
-**Intro.** *Open a pea pod and count. You may find five fat peas, and two tiny pale specks that never grew. All seven sat in the same pod, on the same plant, with the same water and light. Why did five become seeds and two did not?* The answer starts in the flower, weeks before the pod was picked. In this unit you first take a hibiscus flower apart, ring by ring. You find the parts that make pollen and the part that holds the ovules. You learn how pollen travels from flower to flower, and what happens after the pollen lands. Then you open 20 pods and count the seeds and the empty places. You also drop a rain of moong seeds to see how much pollen the wind wastes. By the end you can say what each seed needed before that seed could begin.
+**Intro.** *Open a pea pod and count. You may find five fat peas, and two tiny pale specks that never grew. All seven sat in the same pod, on the same plant, with the same water and light. Why did five become seeds and two did not?* The answer starts in the flower, weeks before the pod was picked. In this unit you first take a hibiscus flower apart, ring by ring. You find the parts that make pollen and the part that holds the ovules. You learn how pollen travels from flower to flower, and what happens after the pollen lands. Then you open 20 pods and count the seeds and the empty places. You also drop a rain of moong seeds to see how much pollen the wind wastes. By the end you can say what has to happen before one seed can form.
 
 ## Learning outcomes
 0. I can find the four rings of a real flower, and name the parts of a stamen and a carpel.
@@ -43,9 +43,9 @@
 **Definition:** A complete flower has four rings of parts, one inside the other. From the outside in, they are the sepals, the petals, the stamens and the carpels.
 
 Look at a flower from the outside in. The outer ring is the sepals. They are usually green, and they cover the bud before the flower opens. The second ring is the petals. Petals are often large and coloured, and many have a scent. They help animal visitors find the flower. The third ring is the stamens, which are the male parts. Each stamen makes pollen. In the middle are the carpels, which are the female part. The carpels hold the ovules, and the ovules can become seeds. The number of parts in each ring is often the same, or one number is a multiple of the other. A hibiscus has 5 sepals, 5 petals and 5 carpels. A mustard flower has 4 sepals, 4 petals and 6 stamens. Not every flower has all four rings. A paddy flower has no petals. A pumpkin vine makes some flowers with only stamens and other flowers with only carpels.
-- e.g. Hibiscus: 5 sepals, 5 petals, more than 50 stamens joined in a tube, and 5 carpels joined together.
-- e.g. Mustard: 4 sepals, 4 yellow petals in a cross, 6 stamens and 1 long, thin ovary.
-- e.g. Tuberose (rajnigandha or sampangi): 6 white petal-like parts, 6 stamens and 3 joined carpels.
+- e.g. A hibiscus has 5 sepals and 5 petals. It has more than 50 stamens joined in a tube, and 5 carpels joined together.
+- e.g. A mustard flower has 4 sepals and 4 yellow petals, which make a cross. It has 6 stamens and 1 long, thin ovary.
+- e.g. A tuberose, which is called rajnigandha or sampangi, has 6 white parts that look like petals. It has 6 stamens and 3 carpels joined together.
 ### The stamen: where pollen is made · *defined*
 **Definition:** A stamen is the male part of a flower. A stamen has a stalk called the filament, and a head called the anther. The anther makes the pollen grains.
 
@@ -71,9 +71,9 @@ A plant cannot walk to another plant, so something must carry the pollen. In mos
 **Definition:** A flower pollinated by animals has features that bring visitors and put pollen on them. A flower pollinated by wind has features that release pollen into the air and catch it from the air.
 
 You can often tell how a flower is pollinated by looking. A flower pollinated by insects usually has bright or white petals, a scent and nectar. The pollen is sticky or spiky, and there is not very much of it. The stigma is sticky and sits where the visitor's body will touch it. A flower pollinated by birds is often red or orange, with a lot of thin nectar and little scent. A flower pollinated by moths or bats is often white or pale. It opens in the evening and smells strongest at night. A flower pollinated by wind has no need of visitors. The petals are tiny or missing, and there is no scent and no nectar. The anthers hang out of the flower on long filaments. The pollen is dry, smooth and light, and there is a huge amount of it. The stigmas are long and feathery, and they stand out in the moving air. Colour, scent and nectar all cost the plant food. A wind flower spends that food on extra pollen.
-- e.g. Paddy: no petals, anthers hanging out, feathery stigmas. Wind.
-- e.g. Red silk cotton tree: large red cups full of nectar, little scent. Birds such as mynas and sunbirds.
-- e.g. Tuberose: white, opens in the evening, strong scent at night. Moths.
+- e.g. A paddy flower has no petals, anthers that hang out of the flower, and feathery stigmas. The wind pollinates it.
+- e.g. The red silk cotton tree has large red cups full of nectar and very little scent. Birds such as mynas and sunbirds pollinate it.
+- e.g. A tuberose is white, opens in the evening and has a strong scent at night. Moths pollinate it.
 ### Fertilisation: the pollen tube and the joining of two cells · *defined*
 **Definition:** Fertilisation is the joining of a male cell from a pollen grain with the egg cell inside an ovule. A pollen tube carries the male cell from the stigma to the ovule.
 
@@ -85,9 +85,9 @@ Pollination ends when a pollen grain lands on a stigma. The grain is still on th
 **Definition:** After fertilisation, the ovary grows into the fruit and each fertilised ovule grows into a seed. The petals and stamens have finished their work, and they dry up and fall.
 
 A fruit is a grown ovary. A seed is a grown ovule. The wall of the ovary becomes the wall of the fruit: the skin and flesh of a mango, the green case of a pea pod, the shell of a groundnut. The coat of the ovule becomes the seed coat. Inside, the fertilised egg cell becomes the embryo. The other parts of the flower leave signs that you can find. The petals and stamens usually fall within a few days. The sepals often stay on. They are the green cap of a brinjal and the green star on a tomato. The dry tip at the far end of a pea pod is what is left of the style and stigma. The brown threads at the end of a maize cob are dried styles. To a botanist, anything that grew from an ovary and holds seeds is a fruit. So a tomato, a bhindi, a cucumber, a chilli, a pea pod and a grain of paddy are all fruits.
-- e.g. Bhindi: the yellow flower lasts one day. The ovary left behind grows into the pod we eat.
-- e.g. Mango: thousands of tiny flowers open on one branch, and only a few ovaries grow into mangoes.
-- e.g. Pea: the pod is the ovary wall, and each pea is one ovule grown into a seed.
+- e.g. A bhindi flower is yellow and lasts only one day. The ovary left behind grows into the pod that we eat.
+- e.g. Thousands of tiny mango flowers open on one branch. Only a few of their ovaries grow into mangoes.
+- e.g. In a pea pod, the pod is the wall of the ovary. Each pea is one ovule that grew into a seed.
 ### One pollen grain for each seed: why fruits have empty places · *defined*
 **Definition:** Each ovule is fertilised separately, by one pollen tube from one pollen grain. An ovule that is not fertilised does not grow into a seed. That ovule stays as a tiny empty place in the fruit.
 
@@ -121,7 +121,7 @@ A pollen tube has a long way to go and no eyes. For more than a hundred years, b
 
 A plant's leaves use the energy of sunlight to make sugar from water and carbon dioxide. Nectar is sugar dissolved in water, and the plant gives the nectar away. A bee drinks the nectar and uses the energy of the sugar to fly. So the energy that carries pollen from flower to flower came from the Sun, through a leaf. Petals, scent and pollen are also built from that sugar, together with minerals from the soil. This is a cost, and plants spend with care. A flower that has been pollinated often stops making nectar and drops the petals within a day. A wind-pollinated plant spends nothing on nectar or petals. The wind is free, but most of the pollen is lost. So the plant spends the food on making far more pollen. The wind itself is also moved by the Sun, which warms some parts of the Earth more than others.
 - e.g. A hibiscus flower lasts one day. Keeping a large petal fresh costs water and food.
-- e.g. Honey is nectar that bees have dried and stored. A spoon of honey is sunlight caught by many leaves.
+- e.g. Honey is nectar that bees have dried and stored. The sugar in nectar was made by leaves, using sunlight. So the energy in a spoon of honey came from the Sun.
 - e.g. A paddy flower opens for only a short time, sheds pollen into the air and closes.
 ### Does a plant choose which pollen fertilises the ovules? · *debated*
 **Definition:** Scientists agree that a stigma can recognise pollen and stop some grains from growing tubes. They disagree about how far a plant goes on choosing among the grains that are allowed.
@@ -179,7 +179,7 @@ In this unit you took a flower apart, and you counted the seeds and the empty pl
 - *what is life:* In a flowering plant, a new life begins when a male cell and an egg cell meet. The plant makes many chances for that meeting, and only some of them happen.
 - *what is this world:* A fruit on your plate is the result of many meetings: a carrier and a flower, a pollen grain and a stigma, a male cell and an egg cell.
 
-A flower has four rings of parts, and two of the rings make the cells that must meet. The plant cannot bring those cells together alone. The wind, a bee or a bird carries the pollen. Then the pollen grain grows a tube the rest of the way. Each seed is two parents joined into one new plant. Many sages taught that every being arises from a meeting of others, and that all come from one source.
+A flower has four rings of parts, and two of the rings make the cells that must meet. The plant cannot bring those cells together alone. The wind, a bee or a bird carries the pollen. Then the pollen grain grows a tube the rest of the way. Each seed is two parents joined into one new plant. Many teachers, in India and elsewhere, have said that every being comes from a meeting of others. Fertilisation is one clear example of this.
 
 - **Tao Te Ching 42:** Laozi says that the Tao gives birth to One, and One gives birth to Two. Two gives birth to Three, and Three gives birth to all things. (In fertilisation, two cells from two parents join and make a third being, a new plant. All the cells of a banyan tree come from that one cell. Laozi was writing about the whole world, long before anyone saw a pollen tube. The verse and the science share a pattern, and the science does not prove the verse.)
 - **The Jain teaching of anekantavada, many-sidedness, with the old story of the blind men and the elephant:** Each blind man touches one part of the elephant and describes the whole animal by that part. Each is right about what he touched. Jain teachers say that truth has many sides, and one view sees only one of them. (A cook sees a pea pod as one vegetable. A botanist sees one ovary grown big. Your count shows several young, each begun separately, and some places never begun. All three are true of the same pod.)
@@ -196,7 +196,7 @@ A flower has four rings of parts, and two of the rings make the cells that must 
 ## Deep and big questions
 - *deep:* A pea pod holds five peas. Is the pod one fruit, or five young plants with a shared case? (hint: Think about what grew from the mother plant's ovary, and what began at each fertilisation.)
 - *deep:* Every seed has two parents. Why is having two parents worth the trouble of moving pollen? (hint: Think about a field where every plant is exactly the same, and a new disease arrives.)
-- *deep:* A plant makes the colour of a flower, but the colour fits the eyes of a bee. So whose colour is it? (hint: Think about red flowers in a place with no birds, or scented flowers in a place with no insects.)
+- *deep:* A flower's colour is made by the plant, but the colour suits the eyes of a bee. Did the plant decide that colour, or did bees help shape it over a very long time? (hint: Think about red flowers in a place with no birds, or scented flowers in a place with no insects.)
 - *deep:* A stigma lets some pollen grow and stops other pollen. Is that choosing? (hint: Think about what you mean when you say that you choose. Then ask which parts of that the stigma does.)
 - *big:* Most of the food on your plate began with a pollen grain landing. Who should look after the carriers of pollen? (hint: Think about farmers, city families with balconies, and people who make and sell insect sprays.)
 - *big:* Farmers grow bananas that make no seeds. Is it fair to the plant to grow fruit that can never become new plants by seed? (hint: Think about what the banana plant gets from farmers, and what the plant loses.)
@@ -479,7 +479,7 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
   *Parent does:* 1. Your child reads each of the eight rows. 2. For each flower they write 'wind' or 'animal', with two clues. 3. For the animal flowers, they guess the kind of animal.  
   *Parent says:* Read each flower's features. Decide: wind or animal? Write the two clues that helped you most. For an animal flower, guess who comes.  
   *Child mode:* Read each row. Write wind or animal. Write two clues. For an animal flower, guess who visits.
-  - Note: Paddy, maize and doob grass: wind. Hibiscus: animals, mostly butterflies and birds. Tuberose: moths, because the flower is white and scented at night. Pumpkin: bees. Red silk cotton tree: birds, because the flower is red, with much nectar and little scent. Coconut: both bees and wind.
+  - Note: Paddy, maize and doob grass are pollinated by the wind. Hibiscus is pollinated by animals, mostly butterflies and birds. Tuberose is pollinated by moths, because the flower is white and scented at night. Pumpkin is pollinated by bees. The red silk cotton tree is pollinated by birds, because the flower is red, with much nectar and little scent. Coconut is pollinated by both bees and the wind.
 - **s3 (5 min)**  
   *Parent does:* 1. Check the answers together. 2. Ask which flower was hardest to place, and why. 3. If you have a flowering grass stalk, shake it over dark paper and look for pollen. 4. Ask the check question.  
   *Parent says:* Which flower was hardest to place? Why? Some flowers use both the wind and animals. Which one in the table does?  
@@ -599,7 +599,7 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 - **creative:** Put the male flowers and the female flowers on separate plants.; Give the stigma a way to recognise pollen from the same plant and stop that pollen growing a tube.; Make a flower that pollinates itself only on the last day, if no visitor has come.
 - **s1 (10 min)**  
   *Parent does:* 1. Draw a simple flower with anthers beside the stigma, and show pollen falling onto the stigma. 2. Ask why a plant might do better with pollen from another plant. 3. Your child draws a design that keeps the plant's own pollen out.  
-  *Parent says:* This flower's pollen falls on the same flower's stigma. Seeds from two different parents differ more from each other. How could a plant keep out pollen from the same plant? Draw your idea.  
+  *Parent says:* In some flowers, the pollen falls on the stigma of the same flower. Seeds from two different parents differ more from each other. How could a plant keep out pollen from the same plant? Draw your idea.  
   *Child mode:* This flower's pollen falls on the same flower's stigma. How could a plant keep that pollen out? Draw your idea.
   - Ask: Why might seeds with two different parents do better than seeds with one? (good: The young plants differ more from each other.; If a disease comes, some of them may live through it.)
 - **s2 (10 min)**  
@@ -800,10 +800,10 @@ Next June she drew her plot in the dust with a stick before she sowed it: eight 
 
 ## Questions to ask kids
 - Which of the vegetables in tonight's dinner are fruits to a botanist? How can we tell?
-- This flower has no smell and no bright petals. Who do you think carries the pollen?
-- How many chambers do you think this lemon has? Let's count when we cut it.
+- Imagine a flower with no smell and no bright petals. Who do you think carries its pollen?
+- Take a lemon from the kitchen. How many chambers do you think it has? Let's count when we cut it.
 - If you were a flower on our balcony, how would you get a bee to come up here?
-- This pod has a thin place in the middle. What do you think happened there?
+- Look at a pea pod with a thin, pinched place in the middle. What do you think happened there?
 - Why do you think a hibiscus flower lasts only one day?
 - Is a marigold one flower or many? What would you look for to decide?
 - A seed has two parents. What might a seed get from having two that one alone could not give?
