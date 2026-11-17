@@ -283,7 +283,7 @@
    "description": "Most of India's electricity, about 7 units in every 10, still comes from burning coal. The burning coal boils water. The steam turns a turbine, and the turbine turns a generator. Only about one third of the coal's energy becomes electricity. The rest leaves as warmth. Dams, wind turbines and solar panels make most of the rest. Wires on tall towers join the power stations and towns of the whole country in one network, called the grid. Electricity cannot easily be stored, so it is made at the moment it is used. Now think of a town with no electricity for a day. The water pump stops, so the roof tank runs dry. Lifts and metro trains stop. Phone towers and hospital machines run on batteries and diesel generators for a while. Gas stoves, cycles and the Sun go on working.",
    "examples": [
     "Coal → heat → steam → turbine → generator → wires → your fan.",
-    "Bengaluru's streets were lit by electricity in 1905. The power came from falling water on the Kaveri, more than 100 kilometres away.",
+    "Bengaluru's streets were lit by electricity in 1905. The power came from falling water on the Kaveri, far from the city.",
     "A hospital keeps a diesel generator for the hours when the power fails.",
     "A solar street light makes and stores its own electricity."
    ],
@@ -2742,31 +2742,28 @@
  ],
  "videos": [
   {
-   "title": "A coin clicking on a cold bottle: the science of the jumping coin",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "Jumping coin",
+   "channel": "4SciFun",
+   "youtube": "tYIo7CfYZMs",
    "mins": 3,
    "why": "To see a coin click on a bottle from the freezer. It also explains why air swells as it warms.",
-   "check": "No address yet. Find a short science demonstration. Check that the bottle is glass, the coin is wet and the explanation says that warm air takes more room."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "How a coal power station makes electricity: boiler, turbine and generator",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How a Coal Power Plant Works | Step-by-Step Explanation",
+   "channel": "WebMaxi ENG",
+   "youtube": "LnTU8BfpZ0g",
    "mins": 5,
    "why": "To follow energy from burning coal to steam, a turbine, a generator and the wires to a town.",
-   "check": "No address yet. Find a clip from an engineering channel or a power company. Check that it shows the boiler, the turbine and the generator, and says that much of the heat is lost."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   },
   {
-   "title": "Why a fan makes you feel cooler without cooling the air",
-   "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "title": "How does a Fan give us Cool Air? How do fans make you feel cooler? |ThinkingMind",
+   "channel": "ThinkingMind  DARK.",
+   "youtube": "Gv42Hwyjtwk",
    "mins": 4,
    "why": "To see why moving air cools skin by carrying heat away and drying sweat, even when the air is not colder.",
-   "check": "No address yet. Find a short explainer. Check that it says a fan does not change the air's temperature and mentions sweat drying."
+   "check": "Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it."
   }
  ],
  "applications": [
@@ -3298,5 +3295,5 @@
   "wrong_idea": "That a good enough engine could turn all the heat from its fuel into movement. Carnot showed that heat does work only as it falls from hot to cold, so some heat must always pass to a colder place.",
   "art": "A young man in an 1820s coat sketching a water mill beside a stream, next to a small steam engine with a chimney."
  },
- "playtest": "The experiments and activities in this unit were reasoned through step by step. They have not yet been tried at home. Please treat the amounts as a starting point. The Clicking Coin Test (core) needs three glass bottles with narrow mouths and a coin wider than the mouth. A plastic bottle usually does not click, because its soft sides give way. Cool the bottles for at least 30 minutes. If a freezer bottle gives no clicks, check three things. The coin must cover the whole mouth, the coin must be wet, and nobody should have warmed the bottle with their hands. The number of clicks depends on the bottle and the room. Expect the order from most to fewest to be freezer, then fridge, then room. Never pour hot water on a cold bottle. The Fan and the Ice (core) needs a wind screen that really stops the wind from reaching one plate. Hang a tissue strip behind it to check. If the two cubes melt at the same speed, move the plates or use a wider screen. A light fan may show only a small gap. Light Out for Half an Hour needs a grown-up at the main switch. Do not do it if anyone at home needs a machine that runs on electricity. The Sail Race keeps water away from the fan: put the fan on a dry stool and dry your hands before touching it. The street survey needs a grown-up beside the child at every door. Facts to treat with care: about 7 of 10 units of Indian electricity from coal is a recent round figure that changes each year. The table's 160 million joules from burning assumes dry wood of about 16 million joules a kilogram. Resting power of 80 to 100 watts is an average for a grown-up. Carnot used the caloric theory of heat, which was later replaced, and his main result still holds. The Tao Te Ching and Taittiriya Upanishad lines are given as paraphrases. The three videos have no address yet."
+ "playtest": "The experiments and activities in this unit were reasoned through step by step. They have not yet been tried at home. Please treat the amounts as a starting point. The Clicking Coin Test (core) needs three glass bottles with narrow mouths and a coin wider than the mouth. A plastic bottle usually does not click, because its soft sides give way. Cool the bottles for at least 30 minutes. If a freezer bottle gives no clicks, check three things. The coin must cover the whole mouth, the coin must be wet, and nobody should have warmed the bottle with their hands. The number of clicks depends on the bottle and the room. Expect the order from most to fewest to be freezer, then fridge, then room. Never pour hot water on a cold bottle. The Fan and the Ice (core) needs a wind screen that really stops the wind from reaching one plate. Hang a tissue strip behind it to check. If the two cubes melt at the same speed, move the plates or use a wider screen. A light fan may show only a small gap. Light Out for Half an Hour needs a grown-up at the main switch. Do not do it if anyone at home needs a machine that runs on electricity. The Sail Race keeps water away from the fan: put the fan on a dry stool and dry your hands before touching it. The street survey needs a grown-up beside the child at every door. Facts checked on 17 Nov 2026: Kavaratti plant (2005), Bengaluru street lights (1905), Carnot dates, the Einstein and Feynman citations and about 7 in 10 units from coal (the figure changes each year). The distance from the Kaveri to Bengaluru was softened to 'far from the city'. The table's energy figures, resting power and the Tao Te Ching and Upanishad lines are calculations or paraphrases. The three videos have no address yet."
 }

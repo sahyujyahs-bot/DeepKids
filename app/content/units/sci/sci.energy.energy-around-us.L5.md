@@ -120,7 +120,7 @@ In the Fan and the Ice, an ice cube in the fan's wind melts faster than one in s
 
 Most of India's electricity, about 7 units in every 10, still comes from burning coal. The burning coal boils water. The steam turns a turbine, and the turbine turns a generator. Only about one third of the coal's energy becomes electricity. The rest leaves as warmth. Dams, wind turbines and solar panels make most of the rest. Wires on tall towers join the power stations and towns of the whole country in one network, called the grid. Electricity cannot easily be stored, so it is made at the moment it is used. Now think of a town with no electricity for a day. The water pump stops, so the roof tank runs dry. Lifts and metro trains stop. Phone towers and hospital machines run on batteries and diesel generators for a while. Gas stoves, cycles and the Sun go on working.
 - e.g. Coal → heat → steam → turbine → generator → wires → your fan.
-- e.g. Bengaluru's streets were lit by electricity in 1905. The power came from falling water on the Kaveri, more than 100 kilometres away.
+- e.g. Bengaluru's streets were lit by electricity in 1905. The power came from falling water on the Kaveri, far from the city.
 - e.g. A hospital keeps a diesel generator for the hours when the power fails.
 - e.g. A solar street light makes and stores its own electricity.
 ### Five rules for using electricity safely · *defined*
@@ -714,9 +714,9 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
    **Answer:** ['sunlight', 'the Sun']. *Why:* Coal is the remains of forests, and petrol comes from tiny sea beings. They lived on sunlight, and their energy was stored for millions of years.
 
 ## Videos
-- **A coin clicking on a cold bottle: the science of the jumping coin** (, 3 min) id `to find`: To see a coin click on a bottle from the freezer. It also explains why air swells as it warms. *Check:* No address yet. Find a short science demonstration. Check that the bottle is glass, the coin is wet and the explanation says that warm air takes more room.
-- **How a coal power station makes electricity: boiler, turbine and generator** (, 5 min) id `to find`: To follow energy from burning coal to steam, a turbine, a generator and the wires to a town. *Check:* No address yet. Find a clip from an engineering channel or a power company. Check that it shows the boiler, the turbine and the generator, and says that much of the heat is lost.
-- **Why a fan makes you feel cooler without cooling the air** (, 4 min) id `to find`: To see why moving air cools skin by carrying heat away and drying sweat, even when the air is not colder. *Check:* No address yet. Find a short explainer. Check that it says a fan does not change the air's temperature and mentions sweat drying.
+- **Jumping coin** (4SciFun, 3 min) id `tYIo7CfYZMs`: To see a coin click on a bottle from the freezer. It also explains why air swells as it warms. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **How a Coal Power Plant Works | Step-by-Step Explanation** (WebMaxi ENG, 5 min) id `LnTU8BfpZ0g`: To follow energy from burning coal to steam, a turbine, a generator and the wires to a town. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **How does a Fan give us Cool Air? How do fans make you feel cooler? |ThinkingMind** (ThinkingMind  DARK., 4 min) id `Gv42Hwyjtwk`: To see why moving air cools skin by carrying heat away and drying sweat, even when the air is not colder. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) A ceiling fan, a mixie and a loudspeaker all do what with energy?  
