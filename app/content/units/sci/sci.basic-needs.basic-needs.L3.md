@@ -138,7 +138,7 @@ Air goes in and out of you about 20 times a minute. Water leaves your skin, your
 
 - **Taittiriya Upanishad 3.2 (Bhrigu Valli):** Bhrigu asks his father Varuna what the source of life is. Varuna tells him to look deeply. Bhrigu first finds that food is the answer: beings are born from food, live by food and return to food. (Your body is built from food and water and keeps giving them back. Bhrigu's first answer matches what this unit teaches. The Upanishad then keeps going deeper, to breath, mind and joy.)
 - **Heraclitus, a Greek thinker, as quoted by Plato in Cratylus 402a:** You cannot step into the same river twice, because new water is always flowing in. (Your body is like the river. It looks the same each day, but water keeps flowing out of your skin and breath and new water flows in.)
-- **Thich Nhat Hanh, The Heart of Understanding (1988):** Look deeply at a sheet of paper and you can see the cloud in it, because without the rain from the cloud no tree could grow to make the paper. (Look deeply at a tumbler of water and you can see the clouds, the rain and the people and plants it passed through. The mist in the bag from the Hidden Water Test will be in a cloud one day.)
+- **Thich Nhat Hanh, The Heart of Understanding (1988):** Look deeply at a sheet of paper and you can see the cloud in it, because without the rain from the cloud no tree could grow to make the paper. (Look deeply at a tumbler of water and you can see the clouds, the rain and the people and plants it passed through. The water that misted your bag in the Hidden Water Test may become part of a cloud one day.)
 - Science (settled): In a grown-up, roughly a tenth of the water in the body is lost and replaced every day.
 - Science (settled): Plants give out oxygen in sunlight, and animals and people breathe it in. Animals and people give out carbon dioxide, and plants take it in.
 - Other view, Many doctors and biologists: The body has a clear boundary, the skin, and it works hard to keep its inside steady and different from the outside. Water passing through it is just chemistry. Calling it the world flowing through us is a way of speaking, not a new fact.
@@ -232,7 +232,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 
 ## Games
 ### g1 · Pack the Boat: a needs-and-wants card game (15 min)
-- **rules:** Lay all 24 packing cards face up, with the names showing. The backs say what kind of card each one is. Do not turn them over yet.; Each player picks 8 cards for their boat. If another player has already taken a card, write its name on your score sheet instead of taking the card.; Everyone starts with 10 points.; Shuffle the 10 event cards. Turn them over one by one and read each aloud.; Each player checks their 8 cards and changes their points.; After all 10 events, turn your 8 cards over and count how many were wants. The player with the most points wins. If points are equal, the players share the win.; Playing alone: try to finish with 10 points or more, which means you lost no points.
+- **rules:** Lay all 24 packing cards face up, with the names showing. The backs say what kind of card each one is. Do not turn them over yet.; Each player picks 8 cards for their boat. Two players may want the same card. That is allowed. The second player writes the card's name on their score sheet, and it counts as in their boat.; Everyone starts with 10 points.; Shuffle the 10 event cards. Turn them over one by one and read each aloud.; Each player checks their 8 cards and changes their points.; After all 10 events, turn your 8 cards over and count how many were wants. This shows how many of your choices were things you could live without. The player with the most points wins. If points are equal, the players share the win.; Playing alone: try to finish with 10 points or more, which means you lost no points.
 - **Printable cards: 24 packing cards to cut out:** Bottle of drinking water (back: Need: water); Big can of drinking water (back: Need: water); Rice and dal (back: Need: food); Bananas and groundnuts (back: Need: food); Idli and chutney (back: Need: food); Cotton shirt (back: Need: clothes); Woollen shawl (back: Need: clothes); Raincoat (back: Need: clothes) [picture]; Small tent (back: Need: shelter) [picture]; Plastic sheet and rope (back: Need: shelter); Mosquito net (back: Need: shelter (keeps mosquitoes off)) [picture]; Soap (back: Helps you stay clean and well, but is not one of the five needs); Water filter bottle (back: Helps keep water safe to drink); Torch (back: Helpful, but not one of the five needs); First-aid box (back: Helpful: keeps you well if you are hurt); Cooking pot (back: Helpful: rice and dal need it); Mobile phone (back: Want); Video game (back: Want); Chocolates (back: Want); Cricket bat (back: Want); Comic books (back: Want); Teddy bear (back: Want, but comfort can matter); Sunglasses (back: Want); Fancy shoes (back: Want)
 - **Printable cards: 10 weather and event cards:** Hot sun all day. Did you pack drinking water? If not, lose 2 points.; Heavy rain at night. Did you pack a tent, a plastic sheet and rope, or a raincoat? If not, lose 2 points.; A cold wind. Did you pack a woollen shawl or a tent? If not, lose 1 point.; Mosquitoes at dusk. Did you pack a mosquito net or a tent? If not, lose 1 point.; The well water is muddy. Did you pack a water filter bottle, or both water cards? If not, lose 2 points.; You are hungry. Did you pack food you can eat? Rice and dal count only if you also packed the cooking pot. If not, lose 2 points.; You cut your foot. Did you pack a first-aid box? If not, lose 1 point.; Night falls and the island is dark. Did you pack a torch? If not, lose 1 point.; Time to wash before you eat. Did you pack soap? If not, lose 1 point.; A quiet evening. If you packed a want card, gain 1 point for fun.
 - **Printable score sheet: Score sheet:** Player name; Points at start: 10; Points after each event; Final points
@@ -252,6 +252,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
   *Parent does:* Add up the points. Turn your 8 cards over and count the wants. Then talk about it.  
   *Parent says:* Who did best? What would you pack differently next time? Was any want card useful?  
   *Child mode:* Add up your points. Turn your cards over. How many were wants? What would you change next time?
+  - Note: There is no single right answer. A teddy bear is not one of the five needs, but a frightened child may sleep better holding one. Doctors and scientists still argue about whether love and comfort are basic needs too. Any answer with a reason is a good answer.
   - Think: The teddy bear is a want. Could comfort ever be a need?
 
 ## Experiments
@@ -292,8 +293,8 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
   *Parent does:* Ask your child to say or write three things: what I think, what I saw, and why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why does it matter for your body?  
   *Child mode:* Say three things: what you think now, what you saw, and why you think it happened.
-  - Note: This is how scientists explain a result: a claim, the evidence for it, and the reasoning. A good answer: My skin gives out water even when it feels dry. The hand bag misted and dripped, but the tumbler bag stayed clear. My body is losing water all the time, so I need to drink every day. Scientists call this insensible perspiration, which means sweat you cannot sense.
-  - Think: If you did 20 jumps first, would the bag mist faster or slower? Try it another day.
+  - Note: ~ For the jumping question: after jumping you breathe faster and your skin gets warm, so the bag usually mists sooner. That is a good thing to test another day.
+  - Think: When you jump about, you breathe faster and your skin gets warm. If you did 20 jumps first, would the bag mist faster or slower? Try it another day and see.
 ### e2 · The Water Ring: can a moat keep ants off the sugar? (30 min)
 - **question:** Ants need food, and they come to our kitchens for it. Can a ring of water around the sugar stop them reaching it?
 - **predict:** Which sugar cap will the ants reach: the one on the dry plate, the one inside the water ring, or both? Why do you think so?
@@ -315,7 +316,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 - **s3 (5 min)**  
   *Parent does:* 1. Put half a teaspoon of sugar in each cap. 2. Put one cap on a dry plate. 3. Turn the katori upside down in the middle of the other plate. 4. Pour water round it, about 1 cm deep. 5. Put the second cap on top of the katori.  
   *Parent says:* This sugar sits on a dry plate. This one sits on an island with a moat of water round it, like a fort. Make sure nothing touches the island.  
-  *Child mode:* Put sugar in both caps. Put one cap on a dry plate. Put the other cap on the upturned katori, the island, with water all round it.
+  *Child mode:* Put sugar in both caps. Put one cap on a dry plate. Put the other on the upturned katori, with water all round it.
   - Note: Check that the island is dry on top and that no spoon, cloth or wall touches it. Put the two plates about 30 cm apart, both near the ant path.
 - **s4 (5 min)**  
   *Parent does:* After 30 minutes, count the ants on each cap and at the edge of the water. Use the magnifying glass if you have one.  
@@ -332,7 +333,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
   *Parent does:* 1. Your child says what they think, what they saw, and why. 2. Put the sugar away. 3. Wipe the ant trail with a damp cloth. 4. Wash hands.  
   *Parent says:* Tell me what you think, what you saw, and why. Then let's put the sugar away and wipe their trail, so the ants go back to look outside.  
   *Child mode:* Say what you think, what you saw and why. Then clean up.
-  - Note: A good answer: A ring of water keeps ants away from food. The dry-plate sugar had many ants and the island had none. Ants needed the food, but they could not walk across water. This is why many Indian families stand a sugar dabba or a food cupboard's legs in a dish of water. Wiping the trail removes the scent that guides the ants.
+  - Note: A good answer: A ring of water keeps ants away from food. The dry-plate sugar had many ants and the island had none. Ants needed the food, but they could not walk across water. This is why many Indian families stand a sugar dabba or a food cupboard's legs in a dish of water. Wiping the trail removes the scent that guides the ants. For the last question, good answers are the garden or a park, a crack in the wall outside, fallen fruit, dead insects, and the sweet juice of plants.
   - Think: The ants came because they needed food, just as you do. Where else could they find food, outside your home?
 
 ## Activities
@@ -347,7 +348,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 - **s2 (3 min)**  
   *Parent does:* Talk about it: you could save a snack, and you can wait for a drink. Why can't you save up air?  
   *Parent says:* You can save a laddu for later. You can wait an hour for a drink. But you can't wait a minute for air. Why do you think that is?  
-  *Child mode:* You can save a snack. Why can't you save up air?
+  *Child mode:* You can save a snack for later. Why can't you save up air for later?
   - Ask: Why can't we save up air? (good: My body uses air all the time.; There is no space inside to keep it.; Every part of me needs air every minute.)
   - Note: Do not explain yet. The 'Why we need air' card explains it later. Accept every idea, and ask your child to remember theirs.
 ### a2 · Need or Want? The sorting slips (12 min)
@@ -367,6 +368,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
   *Child mode:* Look at the middle slips. When is each one a need?
   - Check: When is medicine a need? → **When a person is ill and the medicine keeps them well**
 ### a3 · The Mosquito Hunt: find still water at home (15 min)
+- **problem:** Mosquitoes lay their eggs in water that stays still. The young mosquitoes grow in that water for about a week, and then they fly out. If you empty the still water every week, they never get the chance to fly. In this activity you search your home for still water and empty it.
 - **safety:** Do not lean over a balcony railing. A grown-up empties or moves heavy things such as a cooler or a big bucket.
 - **record:** Make a list of every place you found still water. Tick each one when it has been emptied.
 - **s1 (10 min) · grown-up needed**  
@@ -380,6 +382,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
   *Child mode:* Empty them. Make a list. Why check every week?
   - Ask: Why do we need to check every week? (good: Young mosquitoes grow up in about a week, so emptying every week stops them before they fly.; Water collects again when it rains or when we water the plants.)
 ### a4 · The Breeze Path: does air need a way in and a way out? (15 min)
+- **problem:** Air in a room only keeps moving when it has a way in and a way out. A light strip of paper moves when air moves past it, so it shows us the flow. First you watch the strip with one opening. Then you open a second opening across the room and watch it again.
 - **safety:** Stay away from the window edge on high floors. A grown-up opens and closes windows.
 - **record:** Draw the room from above. Draw arrows to show where the air went with one opening, and with two.
 - **s1 (5 min) · grown-up needed**  
@@ -402,6 +405,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
   *Parent does:* Your child feels each piece of clothing, holds it up to the light, and breathes through it gently.  
   *Parent says:* Feel each one. Hold it up to the light. Which one lets air through? Which one feels thick and fluffy? Which one is smooth and shiny?  
   *Child mode:* Feel each one. Which lets air through? Which is thick?
+  - Note: Cotton lets light and air through, so it feels thin and cool. Wool is thick and fluffy, and it traps still air. A raincoat is smooth and does not let water through. These three differences are why each one suits different weather.
 - **s2 (10 min)**  
   *Parent does:* Your child draws a child in Jaipur in May, Darjeeling in December and Kochi in the monsoon. They write a reason under each.  
   *Parent says:* Draw a child in each place. What would keep them comfortable and safe? Write why.  
@@ -487,7 +491,8 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
   *Parent does:* Compare with the usual and creative ideas. Ask a grown-up what to add.  
   *Parent says:* Here are some ideas. Did you forget anything? Which want would you still pack, and why?  
   *Child mode:* Read the ideas. Did you forget anything?
-  - Think: Which of your three days would be hardest? Why?
+  - Note: Water usually runs out first. Every person drinks several glasses a day, and water is heavy, so a bag cannot hold three days of it for a whole family. That is why families in a cyclone area also fill pots and buckets with clean water before the storm arrives.
+  - Think: Which need would run out first in your bag: water, food or clothes? Why?
 
 ## Worksheets
 ### Why We Need Them (core) (core, 15 questions)
@@ -630,7 +635,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 10. (mcq) A kitchen has only one small window. What would make the air in it flow better?  
    Options: Open a door or window on another side, or fit an exhaust fan / Keep the window shut so the smoke stays in one place / Switch on a bright light  
    **Answer:** Open a door or window on another side, or fit an exhaust fan. *Why:* Air keeps flowing only when it has a way in and a way out. A second opening or an exhaust fan lets used air leave.
-11. (mcq) A man weighs everything he eats and drinks, and everything that leaves his body as urine and stools. The waste weighs much less, yet his own weight stays about the same. What does this show?  
+11. (mcq) A man weighs everything he eats and drinks. He also weighs everything that leaves his body as urine and stools. The waste weighs much less than the food and drink, yet his own weight stays about the same. What does this show?  
    Options: That the body loses a lot of water we cannot see / That food makes us heavier forever / That breathing does nothing  
    **Answer:** That the body loses a lot of water we cannot see. *Why:* Much of what goes in must leave the body unseen, as water through the skin and in the breath. We lose water all the time, even when we cannot feel it.
 12. (mcq) Why can a person live weeks without food but only minutes without air?  

@@ -191,7 +191,7 @@ One heart and about 2 litres of blood keep trillions of cells alive. Every cell,
 - *deep:* Your heart has beaten every second since before you were born. What would it be like if you had to remember to make it beat? (hint: Think about sleeping. Who would make it beat then?)
 - *deep:* The blood that leaves your heart now will be back in about a minute. Is it the same blood, or is it now different blood? (hint: What has it picked up and dropped off on the way?)
 - *deep:* Why do you think the lungs need such a huge inside surface, nearly as big as a badminton court, folded into your chest? (hint: Think about drying clothes. Do they dry faster folded up or spread out?)
-- *big:* When you breathe out, the carbon dioxide may later go into a neem tree. When the tree gives out oxygen, someone else may breathe it in. Where does your breath end? (hint: Follow one breath for a day. Where might it go?)
+- *big:* When you breathe out, the carbon dioxide may later go into a neem tree. When the tree gives out oxygen, someone else may breathe it in. Does your breath ever really end, or does it keep moving from one living being to another? (hint: Follow one breath for a day. Where might it go?)
 - *big:* Some of the tiny particles in your next breath were breathed out by people who lived hundreds of years ago. Is the air in your lungs yours, or only passing through? (hint: The air is shared by everyone who has ever lived. Can anyone own it?)
 - *big:* Helen Taussig could hardly hear, so she felt heartbeats with her fingers. What other ways might there be to know something, besides the usual way? (hint: Think of a person who is blind reading with their fingers, or a dog smelling who is home.)
 - *big:* Ibn al-Nafis worked out where blood goes almost 400 years before William Harvey, but Europe forgot him. Who decides whose discoveries are remembered? (hint: Think of the language the book was in, and who could read it.)
@@ -287,6 +287,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent does:* Compare the score sheet numbers. Then feel your own pulses.  
   *Parent says:* Look at our numbers. Which minute delivered the most oxygen? Which delivered the least? What was the card each time? Now feel your own pulse after all that moving. Your real heart does the same thing as our game.  
   *Child mode:* Look at the numbers. Which minute delivered the most oxygen? Which the least? Now feel your real pulse. Is it fast?
+  - Note: Fear is a signal of danger. Running away would need more oxygen in the leg muscles very quickly. So the body speeds up the heart before you move, just in case.
   - Think: Your heart speeds up when you feel scared, even if you are sitting still. Why might your body get ready to run before you even move?
 
 ## Experiments
@@ -318,6 +319,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent does:* 1. Rest for 2 minutes, sitting still. 2. Count for 30 seconds again. 3. Write it in Count 1 and leave Count 2 empty.  
   *Parent says:* Now rest for two minutes. Let's see how fast your heart comes back down.  
   *Child mode:* Sit and rest for two minutes. Then count your pulse again. Is it back to normal yet?
+  - Note: A fit heart pushes more blood with each beat, so it does not need to beat as fast. When the muscles stop asking for extra oxygen, a fit heart settles down sooner.
   - Think: A fit heart slows down quickly after exercise. Why do you think that might be?
 - **s5 (6 min)**  
   *Parent does:* Help your child turn the numbers into a bar chart. Draw one bar for sitting still, one for just after jumping and one for after the rest.  
@@ -330,6 +332,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Child mode:* Say or write three things. First, what you think now. Next, what you saw. Last, why you think it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: jumping makes my heart beat faster. What I saw: sitting still it was 88 beats a minute, after jumping it was 148, and after resting it went down to 102. Why: my muscles needed more oxygen to jump, so my heart pumped blood faster to bring it.
 ### e2 · The Milky Breath: is breathed-out air different? (25 min, 2 days)
+- **problem:** Limewater is clear, but it turns milky when carbon dioxide gas goes through it. Your cells make carbon dioxide when they use food for energy, and you breathe it out. So limewater lets us see whether the air you breathe out has more carbon dioxide than the air in the room.
 - **question:** Is the air I breathe out the same as the air in the room?
 - **predict:** Before you test, guess. Air goes into you and comes out again. Do you think it comes out the same, or changed? What might be different, and why do you think so?
 - **fair test:** To make it fair, use two glasses with the same amount of limewater. Push about the same amount of air through each: room air through one, breathed-out air through the other. Only the kind of air changes.
@@ -361,6 +364,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent says:* Room air hardly changed the limewater. Your breath turned it milky fast. Where do you think the extra carbon dioxide came from?  
   *Child mode:* Room air hardly changed the limewater. Your breath made it milky. Where did that gas come from?
   - Ask: Where did the carbon dioxide come from? (good: From inside my body.; My body made it.; My cells made it when they used food.)
+  - Note: Yes. Plants could use the carbon dioxide in your breath. Plants take in carbon dioxide from the air. They use it, with water and sunlight, to make their food, and they give out oxygen.
   - Think: Plants take in carbon dioxide. Could a plant use your breath?
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -368,6 +372,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Child mode:* Say or write three things. First, what you think now. Next, what you saw. Last, why you think it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the air I breathe out is different from room air. What I saw: my breath turned limewater milky, but room air did not, and my breath fogged the cold plate. Why: my body uses oxygen and makes carbon dioxide and water, and I breathe them out.
 ### e3 · How Big Is One Breath? The upside-down bottle (35 min)
+- **problem:** You cannot see air, so it is hard to tell how much of it you breathe out. But air pushes water out of its way. In this test, your breath pushes water out of a bottle, and the marks on the bottle show how much air you blew out.
 - **question:** How much air do I push out in one ordinary breath? And in my biggest breath?
 - **predict:** Before you test, guess. Will one ordinary breath fill a small cup, a big bottle or a bucket? Will a grown-up's biggest breath be bigger than yours? Why do you think so?
 - **fair test:** To make it fair, everyone uses the same bottle and blows out through the same kind of tube. Each person has their own tube, to keep it clean. Do the biggest breath 2 times, because one try can be a fluke.
@@ -394,6 +399,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent does:* Test other people at home, if you have them, each with their own tube. Make a bar chart of everyone's biggest breath.  
   *Parent says:* Now let's test everyone who wants to try. Everyone gets their own tube. Who do you think has the biggest breath?  
   *Child mode:* Test other people at home. Each person uses their own tube. Draw a bar for each person's biggest breath.
+  - Note: A bigger breath holds more air. A singer or a nadaswaram player can then blow out slowly and steadily for longer before they need to breathe in again.
   - Think: Singers and nadaswaram players train to make long, steady breaths out. How might a big breath help them?
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -428,6 +434,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Child mode:* Draw a body. Mark where the heartbeat was loudest.
   - Note: It is usually loudest just left of the breastbone, a little below the middle of the chest. The heart sits almost in the middle, with its tip pointing left.
 ### a2 · The Bottle Lung: a model of breathing (20 min)
+- **problem:** Your lungs cannot move by themselves. They fill with air because the muscle under them, the diaphragm, moves down and makes more room in your chest. Then the air outside pushes in. In this model, the bottle is your chest, the balloon inside is a lung, and the stretched balloon at the bottom is the diaphragm.
 - **safety:** Only a grown-up cuts the bottle. Cover the cut edge with tape, because it can be sharp.
 - **record:** Draw the bottle lung twice: once with the bottom pulled down, once pushed up. Label the lung, the windpipe and the diaphragm.
 - **s1 (8 min) · grown-up needed**  
@@ -456,6 +463,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent does:* Talk about how the heart never gets tired like this.  
   *Parent says:* Your hand got tired in one minute. Your heart has done this since before you were born, more than 100,000 times every day. Heart muscle is a special kind. It rests for a tiny moment after every single beat, and it has its own big supply of blood.  
   *Child mode:* Your hand got tired fast. Your heart squeezes all day and all night. It rests a tiny bit after every beat. It has been doing this all your life.
+  - Note: A rough answer is enough. About 100,000 beats a day is about 4,000 beats an hour. If your child woke up 5 hours ago, that is about 20,000 beats.
   - Check: Your hand got tired after one minute of squeezing. Why doesn't your heart get tired the same way? → **Heart muscle is special: it rests between every beat and has lots of blood bringing it oxygen**
   - Think: Your heart beats more than 100,000 times a day. How many times has it beaten since you woke up today?
 ### a4 · The Pulse Watcher: see your heartbeat (10 min)
@@ -488,6 +496,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent does:* Count the pulse again for 30 seconds, and compare.  
   *Parent says:* Let's count again. Is it the same, faster or slower?  
   *Child mode:* Count your pulse again. Is it the same, faster or slower than before?
+  - Note: Take slow breaths, in for 4 and out for 6. The long breath out gently slows the heart, and many people feel calmer.
   - Check: After slow breathing, many people's pulse goes down a little. Why might that be? → **Long, slow breaths out send a calming message to the heart**
   - Think: When you feel angry or scared, what could you do with your breath?
 ### a6 · A Jar of Blood (made from the kitchen) (15 min)
@@ -507,6 +516,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent does:* Stir the jar, then leave it still for a minute. Watch the beans drop to the bottom.  
   *Parent says:* Look. The beans drop to the bottom at once and the yellow water stays on top. Real blood does this too, but much more slowly. In a hospital, blood is kept in a tube with a medicine that stops it clotting. Left standing for a few hours, its red cells sink and the yellow plasma stays on top.  
   *Child mode:* Stir the jar and leave it still. Watch the beans drop. Blood in a tube does this too, but it takes hours.
+  - Note: Inside you, your heart keeps pushing the blood round all the time, so the cells never get a chance to settle. In a tube the blood stands still, so the heavy red cells sink.
   - Think: Why do you think your blood doesn't settle like this inside you?
 
 ## Projects
@@ -529,6 +539,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent says:* Let's put everyone in order of age and draw their bars. Do you see a pattern?  
   *Child mode:* Draw a bar for each person. Put them in order from youngest to oldest. Is there a pattern? Show your family at dinner.
   - Ask: What pattern did you find? (good: The youngest have the fastest hearts.; Grown-ups have slower hearts.; People who exercise a lot have slower resting hearts.)
+  - Note: Multiply 100,000 by the number of people in your family. For a family of 4, that is 400,000 heartbeats every day.
   - Think: If every heart in your family beats about 100,000 times a day, how many beats is that for your whole family each day?
   - Wait: Do this on the third day.
 
@@ -552,11 +563,13 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent does:* Now try adding a flap door, a valve, to the straw.  
   *Parent says:* Real hearts have flap doors called valves. Let's make one and see if it helps the water go only one way.  
   *Child mode:* Make a little flap door from balloon and tape. Put it on the end of the straw. Does the water go only one way now?
+  - Note: Some blood would leak backwards instead of going forward, so the heart would have to work harder to move the same amount of blood. A doctor can hear this as a swishing sound through a stethoscope.
   - Think: What would happen in your heart if a valve did not close properly?
 - **s4 (5 min)**  
   *Parent does:* Read the usual solutions and the creative ideas together. Then invent a new one.  
   *Parent says:* Here is what most people do, and some creative ideas. Can you invent something new?  
   *Child mode:* Look at the usual ways, and some creative ideas. Now invent your own. Can you beat them?
+  - Note: Good ideas are very strong, hard-wearing parts, a power supply that never runs out, valves that never leak, and materials that the body accepts. This is why artificial hearts are still very hard to make.
   - Think: The first artificial hearts were built by engineers and doctors working together. What would you need to make a pump that works for 80 years?
 ### c2 · The Best Home Stethoscope (30 min)
 - **problem:** Design the stethoscope that lets you hear a heartbeat most clearly, using only things from home.
@@ -577,6 +590,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent does:* Read the usual and creative ideas, then build a new design and test it.  
   *Parent says:* Here are some other ideas. Can you invent a better one and beat your best score?  
   *Child mode:* Look at the other ideas. Invent your own. Can it beat your best score?
+  - Note: Helen Taussig used her fingers. Doctors today also use ultrasound machines, which show the heart on a screen, and ECG machines, which draw the heart's electric sparks as a wavy line.
   - Think: A doctor who cannot hear well still needs to know about the heart. What could they use instead of their ears?
 
 ## Worksheets

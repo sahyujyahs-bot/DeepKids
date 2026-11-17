@@ -280,7 +280,7 @@
       "for": "The body does lose a lot of water every day, and drinking enough is important.",
       "against": "How much a person needs depends on their size, the weather and how active they are. Food such as rice, fruit, curd and rasam gives water too. For healthy children, drinking when thirsty and more in hot weather is a good guide.",
       "status": "debated",
-      "context": "This card is about a popular rule for how much water to drink."
+      "context": "This card is about a popular rule for how much water to drink. The rule says that every person should drink exactly 8 glasses of water a day. Think about a child playing in the May sun and a child sitting in a cool room. Do they need the same amount?"
     },
     {
       "claim": "A cool room with the AC on has fresh air.",
@@ -296,7 +296,7 @@
       "for": "A starving person thinks mostly about food. It makes sense that the body's needs come first.",
       "against": "Large surveys in many countries found that people who are poor or hungry can still feel loved and respected, and that these needs matter to them at the same time as food. Maslow himself did not draw his idea as a strict pyramid.",
       "status": "debated",
-      "context": "This card is about a famous idea that our needs come in a ladder, one step at a time."
+      "context": "This card is about a famous idea called Maslow's pyramid. It says that people meet their needs in a fixed order. First come air, water and food. Then safety, then love and friends, then respect. A person only moves up to the next step when the one below is met. For example, a very hungry person thinks about food before anything else."
     },
     {
       "claim": "Ants come only to dirty homes.",
@@ -558,11 +558,11 @@
       ],
       "rules": [
         "Lay all 24 packing cards face up, with the names showing. The backs say what kind of card each one is. Do not turn them over yet.",
-        "Each player picks 8 cards for their boat. If another player has already taken a card, write its name on your score sheet instead of taking the card.",
+        "Each player picks 8 cards for their boat. Two players may want the same card. That is allowed. The second player writes the card's name on their score sheet, and it counts as in their boat.",
         "Everyone starts with 10 points.",
         "Shuffle the 10 event cards. Turn them over one by one and read each aloud.",
         "Each player checks their 8 cards and changes their points.",
-        "After all 10 events, turn your 8 cards over and count how many were wants. The player with the most points wins. If points are equal, the players share the win.",
+        "After all 10 events, turn your 8 cards over and count how many were wants. This shows how many of your choices were things you could live without. The player with the most points wins. If points are equal, the players share the win.",
         "Playing alone: try to finish with 10 points or more, which means you lost no points."
       ],
       "flow": [
@@ -594,7 +594,8 @@
           "do": "Add up the points. Turn your 8 cards over and count the wants. Then talk about it.",
           "say": "Who did best? What would you pack differently next time? Was any want card useful?",
           "kid": "Add up your points. Turn your cards over. How many were wants? What would you change next time?",
-          "think": "The teddy bear is a want. Could comfort ever be a need?"
+          "think": "The teddy bear is a want. Could comfort ever be a need?",
+          "parent": "There is no single right answer. A teddy bear is not one of the five needs, but a frightened child may sleep better holding one. Doctors and scientists still argue about whether love and comfort are basic needs too. Any answer with a reason is a good answer."
         }
       ]
     }
@@ -760,8 +761,8 @@
           "do": "Ask your child to say or write three things: what I think, what I saw, and why I think it happened.",
           "say": "Tell me three things. What do you think now? What did you see that shows it? And why does it matter for your body?",
           "kid": "Say three things: what you think now, what you saw, and why you think it happened.",
-          "parent": "This is how scientists explain a result: a claim, the evidence for it, and the reasoning. A good answer: My skin gives out water even when it feels dry. The hand bag misted and dripped, but the tumbler bag stayed clear. My body is losing water all the time, so I need to drink every day. Scientists call this insensible perspiration, which means sweat you cannot sense.",
-          "think": "If you did 20 jumps first, would the bag mist faster or slower? Try it another day."
+          "parent": "~ For the jumping question: after jumping you breathe faster and your skin gets warm, so the bag usually mists sooner. That is a good thing to test another day.",
+          "think": "When you jump about, you breathe faster and your skin gets warm. If you did 20 jumps first, would the bag mist faster or slower? Try it another day and see."
         }
       ]
     },
@@ -898,7 +899,7 @@
           "mins": 5,
           "do": "1. Put half a teaspoon of sugar in each cap. 2. Put one cap on a dry plate. 3. Turn the katori upside down in the middle of the other plate. 4. Pour water round it, about 1 cm deep. 5. Put the second cap on top of the katori.",
           "say": "This sugar sits on a dry plate. This one sits on an island with a moat of water round it, like a fort. Make sure nothing touches the island.",
-          "kid": "Put sugar in both caps. Put one cap on a dry plate. Put the other cap on the upturned katori, the island, with water all round it.",
+          "kid": "Put sugar in both caps. Put one cap on a dry plate. Put the other on the upturned katori, with water all round it.",
           "parent": "Check that the island is dry on top and that no spoon, cloth or wall touches it. Put the two plates about 30 cm apart, both near the ant path."
         },
         {
@@ -934,7 +935,7 @@
           "do": "1. Your child says what they think, what they saw, and why. 2. Put the sugar away. 3. Wipe the ant trail with a damp cloth. 4. Wash hands.",
           "say": "Tell me what you think, what you saw, and why. Then let's put the sugar away and wipe their trail, so the ants go back to look outside.",
           "kid": "Say what you think, what you saw and why. Then clean up.",
-          "parent": "A good answer: A ring of water keeps ants away from food. The dry-plate sugar had many ants and the island had none. Ants needed the food, but they could not walk across water. This is why many Indian families stand a sugar dabba or a food cupboard's legs in a dish of water. Wiping the trail removes the scent that guides the ants.",
+          "parent": "A good answer: A ring of water keeps ants away from food. The dry-plate sugar had many ants and the island had none. Ants needed the food, but they could not walk across water. This is why many Indian families stand a sugar dabba or a food cupboard's legs in a dish of water. Wiping the trail removes the scent that guides the ants. For the last question, good answers are the garden or a park, a crack in the wall outside, fallen fruit, dead insects, and the sweet juice of plants.",
           "think": "The ants came because they needed food, just as you do. Where else could they find food, outside your home?"
         }
       ]
@@ -992,7 +993,7 @@
           "mins": 3,
           "do": "Talk about it: you could save a snack, and you can wait for a drink. Why can't you save up air?",
           "say": "You can save a laddu for later. You can wait an hour for a drink. But you can't wait a minute for air. Why do you think that is?",
-          "kid": "You can save a snack. Why can't you save up air?",
+          "kid": "You can save a snack for later. Why can't you save up air for later?",
           "ask": [
             {
               "q": "Why can't we save up air?",
@@ -1144,7 +1145,8 @@
             }
           ]
         }
-      ]
+      ],
+      "problem": "Mosquitoes lay their eggs in water that stays still. The young mosquitoes grow in that water for about a week, and then they fly out. If you empty the still water every week, they never get the chance to fly. In this activity you search your home for still water and empty it."
     },
     {
       "id": "a4",
@@ -1217,7 +1219,8 @@
             "why": "Air needs a way in and a way out to keep flowing. With one opening, the room's air mostly stays where it is. Sunlight is good for a home, but it does not make air."
           }
         }
-      ]
+      ],
+      "problem": "Air in a room only keeps moving when it has a way in and a way out. A light strip of paper moves when air moves past it, so it shows us the flow. First you watch the strip with one opening. Then you open a second opening across the room and watch it again."
     },
     {
       "id": "a5",
@@ -1260,7 +1263,8 @@
           "do": "Your child feels each piece of clothing, holds it up to the light, and breathes through it gently.",
           "say": "Feel each one. Hold it up to the light. Which one lets air through? Which one feels thick and fluffy? Which one is smooth and shiny?",
           "kid": "Feel each one. Which lets air through? Which is thick?",
-          "context": "This is a drawing activity about clothes for different weather."
+          "context": "This is a drawing activity about clothes for different weather.",
+          "parent": "Cotton lets light and air through, so it feels thin and cool. Wool is thick and fluffy, and it traps still air. A raincoat is smooth and does not let water through. These three differences are why each one suits different weather."
         },
         {
           "id": "s2",
@@ -1554,7 +1558,8 @@
           "do": "Compare with the usual and creative ideas. Ask a grown-up what to add.",
           "say": "Here are some ideas. Did you forget anything? Which want would you still pack, and why?",
           "kid": "Read the ideas. Did you forget anything?",
-          "think": "Which of your three days would be hardest? Why?"
+          "think": "Which need would run out first in your bag: water, food or clothes? Why?",
+          "parent": "Water usually runs out first. Every person drinks several glasses a day, and water is heavy, so a bag cannot hold three days of it for a whole family. That is why families in a cyclone area also fill pots and buckets with clean water before the storm arrives."
         }
       ]
     }
@@ -1713,7 +1718,7 @@
     },
     {
       "t": "mcq",
-      "p": "A man weighs everything he eats and drinks, and everything that leaves his body as urine and stools. The waste weighs much less, yet his own weight stays about the same. What does this show?",
+      "p": "A man weighs everything he eats and drinks. He also weighs everything that leaves his body as urine and stools. The waste weighs much less than the food and drink, yet his own weight stays about the same. What does this show?",
       "opts": [
         "That the body loses a lot of water we cannot see",
         "That food makes us heavier forever",
@@ -2615,7 +2620,7 @@
       {
         "source": "Thich Nhat Hanh, The Heart of Understanding (1988)",
         "teaching": "Look deeply at a sheet of paper and you can see the cloud in it, because without the rain from the cloud no tree could grow to make the paper.",
-        "link": "Look deeply at a tumbler of water and you can see the clouds, the rain and the people and plants it passed through. The mist in the bag from the Hidden Water Test will be in a cloud one day."
+        "link": "Look deeply at a tumbler of water and you can see the clouds, the rain and the people and plants it passed through. The water that misted your bag in the Hidden Water Test may become part of a cloud one day."
       }
     ],
     "science": [
