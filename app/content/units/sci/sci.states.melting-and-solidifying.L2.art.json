@@ -3,6 +3,26 @@
   "src": "media/img/sci.states.melting-and-solidifying.L2/intro.jpg",
   "credit": "Rashid Idrees Rana, CC BY 4.0, via Wikimedia Commons"
  },
+ "setup.c1.0": {
+  "src": "media/img/sci.states.melting-and-solidifying.L2/setup.c1.0.jpg",
+  "drawn": true
+ },
+ "setup.c1.1": {
+  "src": "media/img/sci.states.melting-and-solidifying.L2/setup.c1.1.jpg",
+  "drawn": true
+ },
+ "setup.c2.0": {
+  "src": "media/img/sci.states.melting-and-solidifying.L2/setup.c2.0.jpg",
+  "drawn": true
+ },
+ "setup.c2.1": {
+  "src": "media/img/sci.states.melting-and-solidifying.L2/setup.c2.1.jpg",
+  "drawn": true
+ },
+ "setup.c2.2": {
+  "src": "media/img/sci.states.melting-and-solidifying.L2/setup.c2.2.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.states.melting-and-solidifying.L2/setup.e1.0.jpg",
   "drawn": true
@@ -33,6 +53,18 @@
  },
  "setup.e2.3": {
   "src": "media/img/sci.states.melting-and-solidifying.L2/setup.e2.3.jpg",
+  "drawn": true
+ },
+ "setup.p1.0": {
+  "src": "media/img/sci.states.melting-and-solidifying.L2/setup.p1.0.jpg",
+  "drawn": true
+ },
+ "setup.p1.1": {
+  "src": "media/img/sci.states.melting-and-solidifying.L2/setup.p1.1.jpg",
+  "drawn": true
+ },
+ "setup.p1.2": {
+  "src": "media/img/sci.states.melting-and-solidifying.L2/setup.p1.2.jpg",
   "drawn": true
  },
  "summary": {
