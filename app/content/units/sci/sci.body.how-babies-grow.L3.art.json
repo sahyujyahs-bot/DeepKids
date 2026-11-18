@@ -1,4 +1,44 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.body.how-babies-grow.L3/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.body.how-babies-grow.L3/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.11": {
+  "src": "media/img/sci.body.how-babies-grow.L3/expl.11.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.body.how-babies-grow.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.body.how-babies-grow.L3/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.body.how-babies-grow.L3/expl.4.jpg",
+  "drawn": true
+ },
+ "expl.5": {
+  "src": "media/img/sci.body.how-babies-grow.L3/expl.5.jpg",
+  "drawn": true
+ },
+ "expl.6": {
+  "src": "media/img/sci.body.how-babies-grow.L3/expl.6.jpg",
+  "drawn": true
+ },
+ "expl.7": {
+  "src": "media/img/sci.body.how-babies-grow.L3/expl.7.jpg",
+  "drawn": true
+ },
+ "expl.9": {
+  "src": "media/img/sci.body.how-babies-grow.L3/expl.9.jpg",
+  "drawn": true
+ },
  "flow.a1": {
   "src": "media/img/sci.body.how-babies-grow.L3/flow.a1.jpg",
   "drawn": true
@@ -215,6 +255,10 @@
   "src": "media/img/sci.body.how-babies-grow.L3/term.0.jpg",
   "drawn": true
  },
+ "term.1": {
+  "src": "media/img/sci.body.how-babies-grow.L3/term.1.jpg",
+  "drawn": true
+ },
  "term.10": {
   "src": "media/img/sci.body.how-babies-grow.L3/term.10.jpg",
   "drawn": true
@@ -229,6 +273,10 @@
  },
  "term.13": {
   "src": "media/img/sci.body.how-babies-grow.L3/term.13.jpg",
+  "drawn": true
+ },
+ "term.14": {
+  "src": "media/img/sci.body.how-babies-grow.L3/term.14.jpg",
   "drawn": true
  },
  "term.16": {
