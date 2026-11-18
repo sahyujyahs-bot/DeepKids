@@ -94,7 +94,7 @@ We have watched rice grains grow in boiling water, butter turn into ghee, and mi
 Rice, water and heat sit on the stove as three separate things. In the pot, the water moves into the grain and the grain swells round it, until you cannot point to where the water is. From the same rice, water and heat, cooks make idli, dosa, pongal, payasam and pulao. Everything is conscious, down to the smallest particles, so the grain and the water take part in this change too. Many scientists see only particles moving and sticking.
 
 - **Chandogya Upanishad 6.5.1:** Food, when it is eaten, is split three ways. The roughest part leaves the body, the middle part becomes flesh, and the finest part becomes mind. (Cooking is the first change food goes through. In the body it keeps changing, until it becomes part of you.)
-- **Bhagavad Gita 15.14:** Krishna says he becomes the fire inside living bodies that digests their food. (Outside, the fire of the stove changes rice. Inside you, the body goes on changing it, and the Gita speaks of that as a fire too.)
+- **Bhagavad Gita 15.14:** “अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः। / प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्।।” Krishna says he becomes the fire inside living bodies that digests their food. (Outside, the fire of the stove changes rice. Inside you, the body goes on changing it, and the Gita speaks of that as a fire too.)
 - Science (settled): Heat makes the starch in rice absorb water and swell. Scientists call this gelatinisation.
 - Science (debated): Some scientists think cooking changed our ancestors' bodies, giving them smaller teeth and guts. Others disagree.
 - Other view, Many scientists: Many scientists say a grain taking in water is only particles moving and sticking together. They see no need to say that the grain or the water takes part in anything.
@@ -476,7 +476,7 @@ Meenakshi did not know that. She decided to test it next.
    **Answer:** False. *Why:* False. It freezes again, but it turns hard and icy. A change can go back and still leave something a little different.
 
 ## Videos
-- **What happens to rice when it cooks: starch and water** (, 4 min) id `to find`: Shows starch grains swelling as they take in water when heated. *Check:* Find a short, accurate video. Check it shows swelling starch, and does not say the water simply disappears.
+- **What happens to rice when it cooks: starch and water** (, 4 min) id `bCyvFg0LxB0`: Shows starch grains swelling as they take in water when heated. *Check:* Found by YouTube search: Why Does Rice Turn Soft When You Cook It, The Curious Plate Title checked automatically; a parent may still preview it.
 - **Where does yogurt come from? Bacteria turn milk into yogurt** (SciShow Kids, 3 min) id `yNxiQEu3C6Q`: Shows that tiny living bacteria turn milk into yogurt, the same change that makes curd. *Check:* Found by search: "Where Does Yogurt Come From?" by SciShow Kids, 3 minutes 27 seconds. A parent may preview it.
 - **How to make ghee from butter at home** (Bhavna's Kitchen & Living, 3 min) id `TcQbIuoC3PA`: Shows butter melting on low heat, the fizzing and the milk bits browning, and clear golden ghee. *Check:* Found by search: "How to make Ghee (Clarified Butter) Video Recipe by Bhavna" by Bhavna's Kitchen & Living, 2 minutes 35 seconds. A parent may preview it.
 

@@ -95,7 +95,7 @@ We have learnt how a body grows from a baby to a grown-up, and how to measure gr
 
 You began very small, and every part of you since then has been built from food: milk, rice, dal, greens. The food came from plants, and the plants grew from sunlight, water and soil. So the water and soil of a paddy field in Thanjavur can become part of your thigh bone. Your body is always taking in new material and changing.
 
-- **Bhagavad Gita 2.13:** Krishna tells Arjuna that a person passes through childhood, youth and old age in the same body. A wise person is not confused by these changes. (In this unit, a body changes from baby to child to adult, and even from night to morning. Yet the person inside feels like the same person.)
+- **Bhagavad Gita 2.13:** “देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा। / तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति।।” Krishna tells Arjuna that a person passes through childhood, youth and old age in the same body. A wise person is not confused by these changes. (In this unit, a body changes from baby to child to adult, and even from night to morning. Yet the person inside feels like the same person.)
 - **Heraclitus, as quoted in Plato's Cratylus 402a:** Heraclitus, a Greek thinker who lived about 2,500 years ago, said you cannot step into the same river twice, because new water is always flowing. (Your body is a little like the river. It looks the same from day to day, but it is always taking in new food and changing its size, even overnight.)
 - Science (settled): People are a little taller in the morning than in the evening, because the discs in the backbone lose and regain water.
 - Science (debated): Whether children grow smoothly or in sudden jumps is still argued about.

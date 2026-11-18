@@ -1962,7 +1962,9 @@
    {
     "source": "Bhagavad Gita 2.14",
     "teaching": "Krishna tells Arjuna that heat and cold, joy and sorrow, come from the senses meeting the world. They come and they go, and they do not last. So bear them patiently.",
-    "link": "My Feelings Chart showed the same thing: joy and sorrow came and went in one day. Waiting patiently with a feeling lets it change."
+    "link": "My Feelings Chart showed the same thing: joy and sorrow came and went in one day. Waiting patiently with a feeling lets it change.",
+    "verse": ["मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।", "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।"],
+    "verse_lang": "sa"
    },
    {
     "source": "Dhammapada, verse 5",
@@ -1973,7 +1975,8 @@
     "source": "Tirukkural 303, by Thiruvalluvar",
     "teaching": "Let go of anger towards anyone, because harmful things come from it.",
     "link": "Anger is a normal feeling. But when we act on it by hitting or shouting, we and other people get hurt. Letting it settle first helps everyone.",
-    "verse": ["மறத்தல் வெகுளியை யார்மாட்டும் தீய", "பிறத்தல் அதனான் வரும்."]
+    "verse": ["மறத்தல் வெகுளியை யார்மாட்டும் தீய", "பிறத்தல் அதனான் வரும்."],
+    "verse_lang": "ta"
    }
   ],
   "science": [

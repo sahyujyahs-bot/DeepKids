@@ -2058,7 +2058,9 @@
    {
     "source": "Bhagavad Gita 15.14",
     "teaching": "Krishna says he is the fire inside the bodies of living beings. This fire works together with the breath going in and out, and digests their food.",
-    "link": "Long ago, people called the body's warmth a fire inside. Science agrees that your cells slowly use food and the air you breathe, and this gives out warmth."
+    "link": "Long ago, people called the body's warmth a fire inside. Science agrees that your cells slowly use food and the air you breathe, and this gives out warmth.",
+    "verse": ["अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।", "प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्।।"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

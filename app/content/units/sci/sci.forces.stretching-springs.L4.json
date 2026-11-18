@@ -3301,7 +3301,9 @@
    {
     "source": "Bhagavad Gita 2.50",
     "teaching": "Yoga is skill in action.",
-    "link": "A parent who pushes a swing well does not push harder. She pushes at the right moment, and the swing does the rest."
+    "link": "A parent who pushes a swing well does not push harder. She pushes at the right moment, and the swing does the rest.",
+    "verse": ["बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।", "तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्।।"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

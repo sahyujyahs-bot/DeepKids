@@ -3906,7 +3906,8 @@
         "source": "Thirukkural 1037, Thiruvalluvar",
         "teaching": "The Tamil poet Thiruvalluvar wrote that if the farmer ploughs so well that the soil dries down to a quarter of its weight, the crop will grow even without a handful of manure.",
         "link": "Ploughing opens the soil and lets air into the gaps. Thiruvalluvar saw, long before roots were studied, that air in the soil matters.",
-        "verse": ["தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும்", "வேண்டாது சாலப் படும்."]
+        "verse": ["தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும்", "வேண்டாது சாலப் படும்."],
+        "verse_lang": "ta"
       }
     ],
     "science": [

@@ -2409,7 +2409,9 @@
    {
     "source": "Bhagavad Gita 11.12",
     "teaching": "If the light of a thousand suns blazed out together in the sky, it might be like the splendour of that great being.",
-    "link": "The pale band of the Milky Way really is the light of countless suns shining together. Each is too far and too faint to see alone. Together they make a glow you can see from a dark hill."
+    "link": "The pale band of the Milky Way really is the light of countless suns shining together. Each is too far and too faint to see alone. Together they make a glow you can see from a dark hill.",
+    "verse": ["दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता।", "यदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः।।"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

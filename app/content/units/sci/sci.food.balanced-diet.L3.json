@@ -3633,7 +3633,9 @@
    {
     "source": "Bhagavad Gita 6.16 to 6.17",
     "teaching": "Yoga is not for someone who eats too much, nor for someone who does not eat at all. It is for someone who is balanced in eating, sleeping, waking and work.",
-    "link": "Science also finds that health comes from balance, not from too much or too little of any one food."
+    "link": "Science also finds that health comes from balance, not from too much or too little of any one food.",
+    "verse": ["नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः।", "न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन।।", "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।", "युक्तस्वप्नावबोधस्य योगो भवति दुःखहा।।"],
+    "verse_lang": "sa"
    },
    {
     "source": "The Buddha's first teaching, the Dhammacakkappavattana Sutta (Samyutta Nikaya 56.11)",

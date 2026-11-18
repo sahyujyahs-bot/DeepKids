@@ -2935,7 +2935,9 @@
    {
     "source": "Bhagavad Gita 3.33",
     "teaching": "The verse says that even a wise person acts according to their own nature. All beings follow their nature, and forcing alone achieves little.",
-    "link": "In Find the Trigger you knew the sock ball could not hit you, and you blinked anyway. The next verse of the Gita adds that a person need not be ruled by every pull. Humans can notice an urge and still choose what to do after it."
+    "link": "In Find the Trigger you knew the sock ball could not hit you, and you blinked anyway. The next verse of the Gita adds that a person need not be ruled by every pull. Humans can notice an urge and still choose what to do after it.",
+    "verse": ["सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि।", "प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति।।"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

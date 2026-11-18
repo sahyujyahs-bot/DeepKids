@@ -3137,7 +3137,9 @@
       {
         "source": "Bhagavad Gita 6.16 and 6.17",
         "teaching": "As paraphrased, Krishna says that a steady practice is not for one who eats too much or too little, or sleeps too much or too little. It belongs to one who is moderate in eating, play, sleep and waking.",
-        "link": "The Gita is speaking about the mind and the way we live. But the body shows the same thing: balance means neither too much nor too little, and it has to be kept up all the time."
+        "link": "The Gita is speaking about the mind and the way we live. But the body shows the same thing: balance means neither too much nor too little, and it has to be kept up all the time.",
+        "verse": ["नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः।", "न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन।।", "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।", "युक्तस्वप्नावबोधस्य योगो भवति दुःखहा।।"],
+        "verse_lang": "sa"
       }
     ],
     "science": [

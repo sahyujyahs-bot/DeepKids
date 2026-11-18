@@ -2630,7 +2630,8 @@
     "source": "Tirukkural 215",
     "teaching": "The wealth of a wise person who loves the world is like the village tank, the ooruni, full of water: everyone can drink from it.",
     "link": "Valluvar picked the shared village tank as his picture of good wealth. A full tank is good because it is open to everyone. It stays full only if everyone takes care of it.",
-    "verse": ["ஊருணி நீர்நிறைந் தற்றே உலகவாம்", "பேரறி வாளன் திரு."]
+    "verse": ["ஊருணி நீர்நிறைந் தற்றே உலகவாம்", "பேரறி வாளன் திரு."],
+    "verse_lang": "ta"
    },
    {
     "source": "Rig Veda 10.191.2",
@@ -2641,7 +2642,8 @@
     "source": "Tirukkural 322",
     "teaching": "To share your food and protect many lives is the first of all the good things the wise have taught.",
     "link": "Keeping fish in the pond for others is a kind of sharing food. It protects the families and the fish too.",
-    "verse": ["பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்", "தொகுத்தவற்றுள் எல்லாந் தலை."]
+    "verse": ["பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்", "தொகுத்தவற்றுள் எல்லாந் தலை."],
+    "verse_lang": "ta"
    }
   ],
   "science": [

@@ -104,7 +104,7 @@ We have tossed coins, rolled a die and picked slips without looking. Now we ask 
 
 Each toss on its own is a surprise. Put many together, and a steady pattern appears: close to half heads. That pattern is not in any one toss. It shows up only when many tosses are counted together. Everything is conscious, including the coin and the die, each in their own way. Many scientists disagree, and say awareness belongs only to living beings with brains.
 
-- **Bhagavad Gita 2.47:** Krishna tells Arjuna that his part is to act, and that the result is not his to control. (In the coin test, you could choose how to shake the tumbler, but not how the coin landed. Your part was the toss and the honest count.)
+- **Bhagavad Gita 2.47:** “कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। / मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि।।” Krishna tells Arjuna that his part is to act, and that the result is not his to control. (In the coin test, you could choose how to shake the tumbler, but not how the coin landed. Your part was the toss and the honest count.)
 - **Jain thought, syadvada (the teaching of 'maybe', part of anekantavada):** Jain thinkers taught people to begin a claim with 'syat', which means 'in some way' or 'maybe'. This keeps us from saying more than we really know. (Saying 'heads is likely' or 'a six is unlikely' is the same kind of careful speaking. It says what we know, and no more.)
 - Science (settled): The more times something is tried, the closer the count usually comes to its chance. Jacob Bernoulli first proved this, in a book published in 1713. It is called the law of large numbers.
 - Science (settled): A coin tossed by hand lands on the side that started on top about 51 times in 100. A team found this in 2023 by tossing coins over 350,000 times.

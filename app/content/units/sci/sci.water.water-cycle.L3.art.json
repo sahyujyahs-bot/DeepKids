@@ -75,6 +75,10 @@
   "src": "media/img/sci.water.water-cycle.L3/flow.a3.jpg",
   "drawn": true
  },
+ "flow.a4": {
+  "src": "media/img/sci.water.water-cycle.L3/flow.a4.jpg",
+  "credit": "Illustration made with OpenArt (Seedream 4.5) from a DeepKids brief"
+ },
  "flow.a5": {
   "src": "media/img/sci.water.water-cycle.L3/flow.a5.jpg",
   "drawn": true

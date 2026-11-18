@@ -139,7 +139,7 @@ We have learned how elephant families, ant colonies and wolf packs live and deci
 
 One ant alone can find a drop of sugar. Thousands of ants, each sensing and choosing, find the best food and build roads to it. In an elephant family, what the oldest member remembers is passed on to every calf. In each society, the members act together, and each member still senses and chooses for herself.
 
-- **Bhagavad Gita 3.21:** Whatever a great person does, others do too. The example they set, the world follows. (An elephant family follows the matriarch because of what she does: where she walks, where she digs, when she stops to listen. She leads by example, not by orders.)
+- **Bhagavad Gita 3.21:** “यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः। / स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते।।” Whatever a great person does, others do too. The example they set, the world follows. (An elephant family follows the matriarch because of what she does: where she walks, where she digs, when she stops to listen. She leads by example, not by orders.)
 - **Tao Te Ching 17:** The best leaders are hardly noticed. When the work is done, the people say, 'We did it ourselves.' (In the sugar drop test, no ant leads, yet most ants usually end up at the sweeter drop. The choice comes from the ants themselves.)
 - **Ubuntu, a teaching of the Nguni-speaking peoples of southern Africa: umuntu ngumuntu ngabantu:** A person is a person through other people. (A worker ant, an elephant calf and a wolf pup each grow up through their family. What each one becomes depends on the others around them.)
 - Science (settled): In lab tests, ant colonies end up mostly at the sweeter of two sugar drops, because ants lay more trail scent for sweeter food.

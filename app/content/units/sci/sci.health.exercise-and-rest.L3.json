@@ -2920,7 +2920,9 @@
    {
     "source": "Bhagavad Gita 6.16–6.17",
     "teaching": "Yoga is not for someone who eats too much or too little, or sleeps too much or too little. It is for someone who keeps a balance in eating, playing, working, sleeping and waking.",
-    "link": "The Tired Peg test and the sleep diary both show that the body needs a balance of work and rest, not only one of them."
+    "link": "The Tired Peg test and the sleep diary both show that the body needs a balance of work and rest, not only one of them.",
+    "verse": ["नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः।", "न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन।।", "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।", "युक्तस्वप्नावबोधस्य योगो भवति दुःखहा।।"],
+    "verse_lang": "sa"
    },
    {
     "source": "Yoga Sutras of Patanjali 2.46",

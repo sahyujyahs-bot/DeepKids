@@ -501,7 +501,9 @@
    {
     "source": "Bhagavad Gita 2.27",
     "teaching": "The Gita says that for one who is born, death is certain, and for one who dies, birth is certain. Birth and death follow each other round and round.",
-    "link": "In a life cycle, every ending is also a beginning. A hen lays an egg at the end of her work as a parent, and that egg is the start of another hen's life."
+    "link": "In a life cycle, every ending is also a beginning. A hen lays an egg at the end of her work as a parent, and that egg is the start of another hen's life.",
+    "verse": ["जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च।", "तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि।।"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

@@ -459,7 +459,9 @@
    {
     "source": "Bhagavad Gita 15.14",
     "teaching": "The verse speaks of a fire in the body of every living being that digests the four kinds of food. The Ayurvedic tradition calls this digestive fire agni.",
-    "link": "Your cells really do burn food, but slowly and in small steps. The fire in the verse and the flame in the Burning Nuts experiment release the same energy."
+    "link": "Your cells really do burn food, but slowly and in small steps. The fire in the verse and the flame in the Burning Nuts experiment release the same energy.",
+    "verse": ["अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।", "प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्।।"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

@@ -2691,7 +2691,9 @@
    {
     "source": "Bhagavad Gita 7.10",
     "teaching": "Krishna says: know me as the eternal seed of all beings.",
-    "link": "Every living thing grows from a seed or a cell that carries instructions copied from the living things before. The Gita speaks of one eternal seed behind all living beings."
+    "link": "Every living thing grows from a seed or a cell that carries instructions copied from the living things before. The Gita speaks of one eternal seed behind all living beings.",
+    "verse": ["बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम्।", "बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम्।।"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988)",

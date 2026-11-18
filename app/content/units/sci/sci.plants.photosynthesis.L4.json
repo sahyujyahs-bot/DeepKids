@@ -3713,13 +3713,16 @@
    {
     "source": "Bhagavad Gita 3.14 to 3.16",
     "teaching": "Beings live on food, food comes from rain, and everything gives back to keep the great wheel turning. The Gita says that someone who only takes from the wheel and does not help it turn lives in vain.",
-    "link": "The carbon cycle is a wheel like this. A leaf takes carbon dioxide from the air, and an animal gives carbon dioxide back. Nothing in the wheel only takes."
+    "link": "The carbon cycle is a wheel like this. A leaf takes carbon dioxide from the air, and an animal gives carbon dioxide back. Nothing in the wheel only takes.",
+    "verse": ["अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः।", "यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।", "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्।", "तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्।।", "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः।", "अघायुरिन्द्रियारामो मोघं पार्थ स जीवति।।"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thirukkural 12, Thiruvalluvar",
     "teaching": "Thiruvalluvar, the Tamil poet, wrote that rain makes the food for those who eat, and the rain is also itself a part of the food.",
     "link": "Water falls as rain, rises in a leaf, and goes back into the air. The rain is both what feeds the plant and a part of the plant.",
-    "verse": ["துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்", "துப்பாய தூஉம் மழை."]
+    "verse": ["துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத்", "துப்பாய தூஉம் மழை."],
+    "verse_lang": "ta"
    }
   ],
   "science": [

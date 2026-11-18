@@ -3318,7 +3318,9 @@
       {
         "source": "Bhagavad Gita 2.13",
         "teaching": "The one who lives in the body passes through childhood, youth and old age. In the same way, it passes on to another body. The wise are not confused by this.",
-        "link": "The Gita says the body changes at every stage, but the one living in it stays the same. Science shows the body really does change, cell by cell."
+        "link": "The Gita says the body changes at every stage, but the one living in it stays the same. Science shows the body really does change, cell by cell.",
+        "verse": ["देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा।", "तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति।।"],
+        "verse_lang": "sa"
       },
       {
         "source": "Heraclitus, the Greek thinker, as quoted in Plato's Cratylus 402a",

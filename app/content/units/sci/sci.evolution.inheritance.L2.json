@@ -1683,12 +1683,15 @@
     "source": "Thirukkural 396",
     "teaching": "The deeper you dig a well in the sand, the more water flows. The more a person learns, the more their understanding flows.",
     "link": "In the Practice Test, your throws got better with practice. Learning builds up a little at a time, the way a well gets deeper with each dig.",
-    "verse": ["தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்", "கற்றனைத் தூறும் அறிவு."]
+    "verse": ["தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்", "கற்றனைத் தூறும் அறிவு."],
+    "verse_lang": "ta"
    },
    {
     "source": "Bhagavad Gita 6.35",
     "teaching": "Krishna tells Arjuna that the restless mind is hard to steady. But it can be steadied by practice and by letting go.",
-    "link": "Practice does not only change a hand or an aim. Even the mind can be changed by practice."
+    "link": "Practice does not only change a hand or an aim. Even the mind can be changed by practice.",
+    "verse": ["असंशयं महाबाहो मनो दुर्निग्रहं चलं।", "अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते।।"],
+    "verse_lang": "sa"
    },
    {
     "source": "Aristotle, Nicomachean Ethics, Book II, chapter 1",

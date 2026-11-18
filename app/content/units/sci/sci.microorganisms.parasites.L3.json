@@ -2720,7 +2720,8 @@
     "source": "Thirukkural 948 (chapter on medicine)",
     "teaching": "Find the illness, then find its cause, then find what will end it, and then act.",
     "link": "This is how malaria was solved. Laveran found the parasite, Ross found the mosquito who carries the parasite, and now we act by closing that path with nets, covered water and medicine.",
-    "verse": ["நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்", "வாய்நாடி வாய்ப்பச் செயல்."]
+    "verse": ["நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்", "வாய்நாடி வாய்ப்பச் செயல்."],
+    "verse_lang": "ta"
    }
   ],
   "science": [

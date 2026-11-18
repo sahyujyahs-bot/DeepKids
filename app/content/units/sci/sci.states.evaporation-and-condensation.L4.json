@@ -499,13 +499,16 @@
    {
     "source": "Bhagavad Gita 9.19",
     "teaching": "Krishna says to Arjuna: 'I give heat. I hold back the rain and I send it forth.' The verse speaks of heat and rain together, as two parts of one act of giving and holding back.",
-    "link": "In the monsoon, the Sun's heat lifts water from the sea. Later, that same water falls as rain. So the heat and the rain are connected, because both are part of one journey of the water."
+    "link": "In the monsoon, the Sun's heat lifts water from the sea. Later, that same water falls as rain. So the heat and the rain are connected, because both are part of one journey of the water.",
+    "verse": ["तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च।", "अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन।।"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tirukkural 20, in the chapter on the excellence of rain",
     "teaching": "Thiruvalluvar says that as the world cannot go on without water, so no one's way of life can go on without rain.",
     "link": "Water that evaporated from the sea and condensed in clouds is what fills every river, tank and well. The cycle of leaving and returning is what keeps everything going.",
-    "verse": ["நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்", "வான்இன்று அமையாது ஒழுக்கு."]
+    "verse": ["நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்", "வான்இன்று அமையாது ஒழுக்கு."],
+    "verse_lang": "ta"
    }
   ],
   "science": [

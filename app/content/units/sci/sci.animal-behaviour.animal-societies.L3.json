@@ -2713,7 +2713,9 @@
    {
     "source": "Bhagavad Gita 3.21",
     "teaching": "Whatever a great person does, others do too. The example they set, the world follows.",
-    "link": "An elephant family follows the matriarch because of what she does: where she walks, where she digs, when she stops to listen. She leads by example, not by orders."
+    "link": "An elephant family follows the matriarch because of what she does: where she walks, where she digs, when she stops to listen. She leads by example, not by orders.",
+    "verse": ["यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः।", "स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते।।"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 17",

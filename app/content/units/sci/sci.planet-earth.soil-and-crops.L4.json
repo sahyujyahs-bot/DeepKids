@@ -524,7 +524,9 @@
       {
         "source": "Bhagavad Gita 3.14",
         "teaching": "From food, living beings come into being. From rain, food is born.",
-        "link": "The verse follows the chain backwards from the body to the rain. This unit adds two more links in the chain: the soil that holds the rain, and the bacteria that put nitrogen into the food."
+        "link": "The verse follows the chain backwards from the body to the rain. This unit adds two more links in the chain: the soil that holds the rain, and the bacteria that put nitrogen into the food.",
+        "verse": ["अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः।", "यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।"],
+        "verse_lang": "sa"
       },
       {
         "source": "Tao Te Ching 78",

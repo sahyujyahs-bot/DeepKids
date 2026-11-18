@@ -3000,7 +3000,9 @@
    {
     "source": "Bhagavad Gita 17.10",
     "teaching": "The Gita describes food that was cooked long before, that has lost its taste, that smells bad and is stale, as food that dulls the mind and body.",
-    "link": "Long ago, people noticed that cooked food left for many hours changes and can harm us. The Three Dabbas test shows why: time lets microbes multiply."
+    "link": "Long ago, people noticed that cooked food left for many hours changes and can harm us. The Three Dabbas test shows why: time lets microbes multiply.",
+    "verse": ["यातयामं गतरसं पूति पर्युषितं च यत्।", "उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम्।।"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

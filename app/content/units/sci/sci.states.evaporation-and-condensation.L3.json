@@ -347,12 +347,15 @@
     "source": "Tirukkural 17, in the chapter on the excellence of rain",
     "teaching": "Even the wide sea will lose its richness if the clouds take up its water and do not give it back as rain.",
     "link": "The sea stays full because the water that evaporates from it comes back as rain. Tiruvalluvar saw that water must be both taken and given back. In the same way, water in the closed box both left the cloth and landed back on it.",
-    "verse": ["நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி", "தான்நல்கா தாகி விடின்."]
+    "verse": ["நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி", "தான்நல்கா தாகி விடின்."],
+    "verse_lang": "ta"
    },
    {
     "source": "Bhagavad Gita 2.16",
     "teaching": "What is not real never comes to be. What is real never stops being.",
-    "link": "The Gita says this about the true self, not about water. But something similar is true of water. A puddle seems to vanish into nothing, but its water still exists as vapour, and it comes back when the vapour is cooled."
+    "link": "The Gita says this about the true self, not about water. But something similar is true of water. A puddle seems to vanish into nothing, but its water still exists as vapour, and it comes back when the vapour is cooled.",
+    "verse": ["नासतो विद्यते भावो नाभावो विद्यते सतः।", "उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः।।"],
+    "verse_lang": "sa"
    }
   ],
   "science": [
