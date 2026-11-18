@@ -1,4 +1,8 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.body.teeth.L2/expl.0.jpg",
+  "drawn": true
+ },
  "expl.1": {
   "src": "media/img/sci.body.teeth.L2/expl.1.jpg",
   "drawn": true
@@ -9,6 +13,22 @@
  },
  "expl.3": {
   "src": "media/img/sci.body.teeth.L2/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.body.teeth.L2/expl.4.jpg",
+  "drawn": true
+ },
+ "expl.5": {
+  "src": "media/img/sci.body.teeth.L2/expl.5.jpg",
+  "drawn": true
+ },
+ "expl.6": {
+  "src": "media/img/sci.body.teeth.L2/expl.6.jpg",
+  "drawn": true
+ },
+ "expl.7": {
+  "src": "media/img/sci.body.teeth.L2/expl.7.jpg",
   "drawn": true
  },
  "expl.8": {
@@ -35,12 +55,24 @@
   "src": "media/img/sci.body.teeth.L2/flow.a5.jpg",
   "credit": "Tejas M, CC BY, via iNaturalist"
  },
+ "flow.c1": {
+  "src": "media/img/sci.body.teeth.L2/flow.c1.jpg",
+  "drawn": true
+ },
  "flow.e1": {
   "src": "media/img/sci.body.teeth.L2/flow.e1.jpg",
   "drawn": true
  },
  "flow.e2": {
   "src": "media/img/sci.body.teeth.L2/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.g1": {
+  "src": "media/img/sci.body.teeth.L2/flow.g1.jpg",
+  "drawn": true
+ },
+ "flow.g2": {
+  "src": "media/img/sci.body.teeth.L2/flow.g2.jpg",
   "drawn": true
  },
  "flow.p1": {
@@ -170,5 +202,65 @@
  "summary": {
   "src": "media/img/sci.body.teeth.L2/summary.jpg",
   "credit": "DRosenbach (talk)., Public domain, via Wikimedia Commons"
+ },
+ "term.0": {
+  "src": "media/img/sci.body.teeth.L2/term.0.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.body.teeth.L2/term.1.jpg",
+  "drawn": true
+ },
+ "term.10": {
+  "src": "media/img/sci.body.teeth.L2/term.10.jpg",
+  "drawn": true
+ },
+ "term.11": {
+  "src": "media/img/sci.body.teeth.L2/term.11.jpg",
+  "drawn": true
+ },
+ "term.12": {
+  "src": "media/img/sci.body.teeth.L2/term.12.jpg",
+  "drawn": true
+ },
+ "term.13": {
+  "src": "media/img/sci.body.teeth.L2/term.13.jpg",
+  "drawn": true
+ },
+ "term.15": {
+  "src": "media/img/sci.body.teeth.L2/term.15.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.body.teeth.L2/term.2.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.body.teeth.L2/term.3.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.body.teeth.L2/term.4.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.body.teeth.L2/term.5.jpg",
+  "drawn": true
+ },
+ "term.6": {
+  "src": "media/img/sci.body.teeth.L2/term.6.jpg",
+  "drawn": true
+ },
+ "term.7": {
+  "src": "media/img/sci.body.teeth.L2/term.7.jpg",
+  "drawn": true
+ },
+ "term.8": {
+  "src": "media/img/sci.body.teeth.L2/term.8.jpg",
+  "drawn": true
+ },
+ "term.9": {
+  "src": "media/img/sci.body.teeth.L2/term.9.jpg",
+  "drawn": true
  }
 }

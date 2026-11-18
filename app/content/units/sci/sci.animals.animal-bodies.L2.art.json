@@ -35,6 +35,10 @@
   "src": "media/img/sci.animals.animal-bodies.L2/expl.8.jpg",
   "drawn": true
  },
+ "expl.9": {
+  "src": "media/img/sci.animals.animal-bodies.L2/expl.9.jpg",
+  "credit": "James L. Amos, CC0, via Wikimedia Commons"
+ },
  "flow.a1": {
   "src": "media/img/sci.animals.animal-bodies.L2/flow.a1.jpg",
   "drawn": true
@@ -66,6 +70,14 @@
  "flow.e2": {
   "src": "media/img/sci.animals.animal-bodies.L2/flow.e2.jpg",
   "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
+ },
+ "flow.g1": {
+  "src": "media/img/sci.animals.animal-bodies.L2/flow.g1.jpg",
+  "credit": "Sunny Joseph, CC BY, via iNaturalist"
+ },
+ "flow.g2": {
+  "src": "media/img/sci.animals.animal-bodies.L2/flow.g2.jpg",
+  "credit": "Subhadra Devi, CC BY, via iNaturalist"
  },
  "flow.p1": {
   "src": "media/img/sci.animals.animal-bodies.L2/flow.p1.jpg",
