@@ -35,6 +35,10 @@
   "src": "media/img/sci.habitats.water-habitats.L3/expl.8.jpg",
   "drawn": true
  },
+ "expl.9": {
+  "src": "media/img/sci.habitats.water-habitats.L3/expl.9.jpg",
+  "drawn": true
+ },
  "flow.a1": {
   "src": "media/img/sci.habitats.water-habitats.L3/flow.a1.jpg",
   "credit": "Ashwin A, CC BY, via iNaturalist"
@@ -45,6 +49,10 @@
  },
  "flow.a3": {
   "src": "media/img/sci.habitats.water-habitats.L3/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.habitats.water-habitats.L3/flow.a4.jpg",
   "drawn": true
  },
  "flow.a5": {
