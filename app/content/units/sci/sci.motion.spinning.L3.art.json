@@ -1,10 +1,18 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.motion.spinning.L3/expl.0.jpg",
+  "drawn": true
+ },
  "expl.1": {
   "src": "media/img/sci.motion.spinning.L3/expl.1.jpg",
   "drawn": true
  },
  "expl.2": {
   "src": "media/img/sci.motion.spinning.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.motion.spinning.L3/expl.3.jpg",
   "drawn": true
  },
  "expl.4": {
@@ -17,6 +25,10 @@
  },
  "expl.6": {
   "src": "media/img/sci.motion.spinning.L3/expl.6.jpg",
+  "drawn": true
+ },
+ "expl.7": {
+  "src": "media/img/sci.motion.spinning.L3/expl.7.jpg",
   "drawn": true
  },
  "flow.a1": {

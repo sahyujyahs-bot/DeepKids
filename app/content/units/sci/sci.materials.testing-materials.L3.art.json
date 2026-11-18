@@ -1,10 +1,22 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.materials.testing-materials.L3/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.materials.testing-materials.L3/expl.1.jpg",
+  "drawn": true
+ },
  "expl.12": {
   "src": "media/img/sci.materials.testing-materials.L3/expl.12.jpg",
   "credit": "Dario Taraborelli, CC0, via iNaturalist"
  },
  "expl.2": {
   "src": "media/img/sci.materials.testing-materials.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.materials.testing-materials.L3/expl.3.jpg",
   "drawn": true
  },
  "expl.4": {
@@ -15,8 +27,16 @@
   "src": "media/img/sci.materials.testing-materials.L3/expl.5.jpg",
   "drawn": true
  },
+ "expl.6": {
+  "src": "media/img/sci.materials.testing-materials.L3/expl.6.jpg",
+  "drawn": true
+ },
  "expl.7": {
   "src": "media/img/sci.materials.testing-materials.L3/expl.7.jpg",
+  "drawn": true
+ },
+ "expl.8": {
+  "src": "media/img/sci.materials.testing-materials.L3/expl.8.jpg",
   "drawn": true
  },
  "flow.a1": {
@@ -283,8 +303,48 @@
   "src": "media/img/sci.materials.testing-materials.L3/setup.p1.2.jpg",
   "drawn": true
  },
+ "story.1": {
+  "src": "media/img/sci.materials.testing-materials.L3/story.1.jpg",
+  "drawn": true
+ },
+ "story.4": {
+  "src": "media/img/sci.materials.testing-materials.L3/story.4.jpg",
+  "drawn": true
+ },
  "summary": {
   "src": "media/img/sci.materials.testing-materials.L3/summary.jpg",
+  "drawn": true
+ },
+ "term.0": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.0.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.1.jpg",
+  "drawn": true
+ },
+ "term.11": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.11.jpg",
+  "drawn": true
+ },
+ "term.12": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.12.jpg",
+  "drawn": true
+ },
+ "term.13": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.13.jpg",
+  "drawn": true
+ },
+ "term.14": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.14.jpg",
+  "drawn": true
+ },
+ "term.15": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.15.jpg",
+  "drawn": true
+ },
+ "term.16": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.16.jpg",
   "drawn": true
  },
  "term.17": {
@@ -299,8 +359,16 @@
   "src": "media/img/sci.materials.testing-materials.L3/term.19.jpg",
   "drawn": true
  },
+ "term.2": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.2.jpg",
+  "drawn": true
+ },
  "term.20": {
   "src": "media/img/sci.materials.testing-materials.L3/term.20.jpg",
+  "drawn": true
+ },
+ "term.21": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.21.jpg",
   "drawn": true
  },
  "term.22": {
@@ -311,8 +379,32 @@
   "src": "media/img/sci.materials.testing-materials.L3/term.25.jpg",
   "drawn": true
  },
+ "term.27": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.27.jpg",
+  "drawn": true
+ },
  "term.3": {
   "src": "media/img/sci.materials.testing-materials.L3/term.3.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.4.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.5.jpg",
+  "drawn": true
+ },
+ "term.6": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.6.jpg",
+  "drawn": true
+ },
+ "term.8": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.8.jpg",
+  "drawn": true
+ },
+ "term.9": {
+  "src": "media/img/sci.materials.testing-materials.L3/term.9.jpg",
   "drawn": true
  }
 }
