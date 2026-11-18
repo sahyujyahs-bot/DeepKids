@@ -1,7 +1,19 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.forces.simple-machines.L3/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.forces.simple-machines.L3/expl.1.jpg",
+  "drawn": true
+ },
  "expl.10": {
   "src": "media/img/sci.forces.simple-machines.L3/expl.10.jpg",
   "credit": "NASA, public domain"
+ },
+ "expl.2": {
+  "src": "media/img/sci.forces.simple-machines.L3/expl.2.jpg",
+  "drawn": true
  },
  "expl.3": {
   "src": "media/img/sci.forces.simple-machines.L3/expl.3.jpg",
@@ -13,6 +25,22 @@
  },
  "expl.5": {
   "src": "media/img/sci.forces.simple-machines.L3/expl.5.jpg",
+  "drawn": true
+ },
+ "expl.6": {
+  "src": "media/img/sci.forces.simple-machines.L3/expl.6.jpg",
+  "drawn": true
+ },
+ "expl.7": {
+  "src": "media/img/sci.forces.simple-machines.L3/expl.7.jpg",
+  "drawn": true
+ },
+ "expl.8": {
+  "src": "media/img/sci.forces.simple-machines.L3/expl.8.jpg",
+  "drawn": true
+ },
+ "expl.9": {
+  "src": "media/img/sci.forces.simple-machines.L3/expl.9.jpg",
   "drawn": true
  },
  "flow.a1": {
@@ -57,6 +85,10 @@
   "drawn": true
  },
  "flow.g1": "media/img/sci.forces.simple-machines.L3/flow.g1.jpg",
+ "flow.g2": {
+  "src": "media/img/sci.forces.simple-machines.L3/flow.g2.jpg",
+  "drawn": true
+ },
  "flow.p1": "media/img/sci.forces.simple-machines.L3/flow.p1.jpg",
  "intro": "media/img/sci.forces.simple-machines.L3/intro.jpg",
  "setup.a1.0": {
@@ -241,6 +273,10 @@
   "src": "media/img/sci.forces.simple-machines.L3/term.0.jpg",
   "drawn": true
  },
+ "term.1": {
+  "src": "media/img/sci.forces.simple-machines.L3/term.1.jpg",
+  "drawn": true
+ },
  "term.10": {
   "src": "media/img/sci.forces.simple-machines.L3/term.10.jpg",
   "credit": "Designed in Canva"
@@ -273,12 +309,24 @@
   "src": "media/img/sci.forces.simple-machines.L3/term.17.jpg",
   "drawn": true
  },
+ "term.18": {
+  "src": "media/img/sci.forces.simple-machines.L3/term.18.jpg",
+  "drawn": true
+ },
+ "term.19": {
+  "src": "media/img/sci.forces.simple-machines.L3/term.19.jpg",
+  "drawn": true
+ },
  "term.2": {
   "src": "media/img/sci.forces.simple-machines.L3/term.2.jpg",
   "drawn": true
  },
  "term.20": {
   "src": "media/img/sci.forces.simple-machines.L3/term.20.jpg",
+  "drawn": true
+ },
+ "term.21": {
+  "src": "media/img/sci.forces.simple-machines.L3/term.21.jpg",
   "drawn": true
  },
  "term.3": {
@@ -303,6 +351,10 @@
  },
  "term.8": {
   "src": "media/img/sci.forces.simple-machines.L3/term.8.jpg",
+  "drawn": true
+ },
+ "term.9": {
+  "src": "media/img/sci.forces.simple-machines.L3/term.9.jpg",
   "drawn": true
  }
 }
