@@ -31,6 +31,18 @@
   "src": "media/img/sci.energy.energy-around-us.L4/flow.p1.jpg",
   "drawn": true
  },
+ "setup.c1.0": {
+  "src": "media/img/sci.energy.energy-around-us.L4/setup.c1.0.jpg",
+  "drawn": true
+ },
+ "setup.c1.1": {
+  "src": "media/img/sci.energy.energy-around-us.L4/setup.c1.1.jpg",
+  "drawn": true
+ },
+ "setup.c1.2": {
+  "src": "media/img/sci.energy.energy-around-us.L4/setup.c1.2.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.energy.energy-around-us.L4/setup.e1.0.jpg",
   "drawn": true
@@ -65,6 +77,18 @@
  },
  "setup.e2.3": {
   "src": "media/img/sci.energy.energy-around-us.L4/setup.e2.3.jpg",
+  "drawn": true
+ },
+ "setup.p1.0": {
+  "src": "media/img/sci.energy.energy-around-us.L4/setup.p1.0.jpg",
+  "drawn": true
+ },
+ "setup.p1.1": {
+  "src": "media/img/sci.energy.energy-around-us.L4/setup.p1.1.jpg",
+  "drawn": true
+ },
+ "setup.p1.2": {
+  "src": "media/img/sci.energy.energy-around-us.L4/setup.p1.2.jpg",
   "drawn": true
  },
  "term.0": {
