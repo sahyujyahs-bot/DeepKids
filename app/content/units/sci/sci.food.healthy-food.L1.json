@@ -1463,11 +1463,10 @@
   {
    "title": "A slow-motion or close-up video of water inside a cucumber or watermelon",
    "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "jw2Pzrm-F2A",
    "mins": 2,
    "why": "Shows how juicy plant foods hold water in tiny cells.",
-   "check": "Find a real, accurate close-up video. Check it does not claim exact numbers it cannot show."
+   "check": "Found by YouTube search: Cucumber in Water | Slo Mo, Ryan Woods Title checked automatically; a parent may still preview it."
   },
   {
    "title": "Why do we get thirsty? A short explainer for children",
@@ -1909,5 +1908,117 @@
   "art": "A woman scientist kneeling at a low table with a small child, offering a tiny spoonful from one of several little bowls, with a notebook beside her."
  },
  "playtest": "Walked through every card, game and experiment as a parent and a Class 1 child would, in a city flat. Fixed the squeeze test so the paper test and the squeeze test use the same mashed food, the napkin count is explained, and the hanky is tightly woven. Made the sorting game end clearly with ticks and baskets that match the maths question, gave the bean game a spare heap and a rule for skipped cards, made the feely bag and day-one taste steps match their minutes and schedules, shortened the story and the explanation cards, removed repeated worksheet questions (sweets, sugar, 8 glasses), gave the jokes she/he instead of it, renamed a repeated name. The three videos still have no checked link, so they stay marked to find; I did not invent any.",
- "warm": {"words": ["WATER", "DRINK", "FRUIT", "SWEAT", "TASTE"], "quiz": [["Every person needs to drink water every day.", true, "Your body loses water all day, so you must put some back."], ["Only drinks have water in them.", false, "Foods like cucumber and watermelon are mostly water."], ["A biscuit is full of water.", false, "A biscuit is dry, so nothing comes out when you squeeze it."], ["A cucumber has a lot of water inside it.", true, "When you squeeze it, drops of water come out."], ["Sweat is water that comes out of your skin.", true, "It helps your body cool down when you are hot."], ["Everyone needs exactly the same amount of water each day.", false, "A bigger body, a hot day or lots of running means you need more."], ["Sweets make children wild and jumpy.", false, "Careful tests found that sugar did not change how children behaved."], ["You may start to like a new food after you taste it a few times.", true, "Liking can be learned, one small taste at a time."], ["If you do not like a food once, you will never like it.", false, "Many children come to like a food after many small tastes."], ["Eating many kinds of food helps keep your body healthy.", true, "Different foods give your body different things it needs."]], "odd": [[["Cucumber", "Watermelon", "Orange", "Biscuit"], "Biscuit", "Cucumber, watermelon and orange are full of water. A biscuit is dry."], [["Plant", "Cow", "Child", "Stone"], "Stone", "Plants, cows and children are alive and need water. A stone is not alive."], [["Sweating", "Running in the sun", "A hot day", "Sitting in a cool room"], "Sitting in a cool room", "The first three make your body lose water and feel thirsty. A cool room does not."], [["Toffee stuck on teeth", "Sweet tea sipped all day", "Sugar left on teeth", "Brushing teeth"], "Brushing teeth", "The first three leave sugar on teeth, and sugar can make holes in them. Brushing cleans the sugar off."], [["A little taste", "Trying it again", "Seeing others eat it", "Being forced to eat it"], "Being forced to eat it", "The first three help you learn to like a food. Pushing you does not."]]}
+ "warm": {
+  "words": [
+   "WATER",
+   "DRINK",
+   "FRUIT",
+   "SWEAT",
+   "TASTE"
+  ],
+  "quiz": [
+   [
+    "Every person needs to drink water every day.",
+    true,
+    "Your body loses water all day, so you must put some back."
+   ],
+   [
+    "Only drinks have water in them.",
+    false,
+    "Foods like cucumber and watermelon are mostly water."
+   ],
+   [
+    "A biscuit is full of water.",
+    false,
+    "A biscuit is dry, so nothing comes out when you squeeze it."
+   ],
+   [
+    "A cucumber has a lot of water inside it.",
+    true,
+    "When you squeeze it, drops of water come out."
+   ],
+   [
+    "Sweat is water that comes out of your skin.",
+    true,
+    "It helps your body cool down when you are hot."
+   ],
+   [
+    "Everyone needs exactly the same amount of water each day.",
+    false,
+    "A bigger body, a hot day or lots of running means you need more."
+   ],
+   [
+    "Sweets make children wild and jumpy.",
+    false,
+    "Careful tests found that sugar did not change how children behaved."
+   ],
+   [
+    "You may start to like a new food after you taste it a few times.",
+    true,
+    "Liking can be learned, one small taste at a time."
+   ],
+   [
+    "If you do not like a food once, you will never like it.",
+    false,
+    "Many children come to like a food after many small tastes."
+   ],
+   [
+    "Eating many kinds of food helps keep your body healthy.",
+    true,
+    "Different foods give your body different things it needs."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Cucumber",
+     "Watermelon",
+     "Orange",
+     "Biscuit"
+    ],
+    "Biscuit",
+    "Cucumber, watermelon and orange are full of water. A biscuit is dry."
+   ],
+   [
+    [
+     "Plant",
+     "Cow",
+     "Child",
+     "Stone"
+    ],
+    "Stone",
+    "Plants, cows and children are alive and need water. A stone is not alive."
+   ],
+   [
+    [
+     "Sweating",
+     "Running in the sun",
+     "A hot day",
+     "Sitting in a cool room"
+    ],
+    "Sitting in a cool room",
+    "The first three make your body lose water and feel thirsty. A cool room does not."
+   ],
+   [
+    [
+     "Toffee stuck on teeth",
+     "Sweet tea sipped all day",
+     "Sugar left on teeth",
+     "Brushing teeth"
+    ],
+    "Brushing teeth",
+    "The first three leave sugar on teeth, and sugar can make holes in them. Brushing cleans the sugar off."
+   ],
+   [
+    [
+     "A little taste",
+     "Trying it again",
+     "Seeing others eat it",
+     "Being forced to eat it"
+    ],
+    "Being forced to eat it",
+    "The first three help you learn to like a food. Pushing you does not."
+   ]
+  ]
+ }
 }

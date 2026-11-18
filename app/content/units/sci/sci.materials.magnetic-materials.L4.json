@@ -3127,26 +3127,26 @@
   {
    "title": "A magnet falling through a copper pipe",
    "channel": "to be found",
-   "status": "find-id",
    "mins": 3,
    "why": "To see a strong magnet fall slowly through a copper pipe and quickly through a plastic pipe.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Found by YouTube search: \"Lenzs Law with Copper Pipe by MIT Physics Instructional Resources Lab\". Title checked automatically; a parent may still preview it.",
+   "youtube": "N7tIi71-AjA"
   },
   {
    "title": "How a recycling centre separates metals with magnets and eddy currents",
    "channel": "to be found",
-   "status": "find-id",
    "mins": 5,
    "why": "To see a conveyor belt, a magnet over it and an eddy current separator throwing aluminium cans into a bin.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Found by YouTube search: How the Eddy Current Separator Works: High-Speed Metal Separation!, E-waste Recycling Machinery Title checked automatically; a parent may still preview it.",
+   "youtube": "aPEbp5Evds0"
   },
   {
    "title": "How induction cooking works",
    "channel": "to be found",
-   "status": "find-id",
    "mins": 5,
    "why": "To see how a changing magnetic field heats a pan with a magnetic base.",
-   "check": "Not yet found. Find one, watch it, and check it is accurate before adding it."
+   "check": "Found by YouTube search: How Induction Heating works ?, Tracing Science Title checked automatically; a parent may still preview it.",
+   "youtube": "pbwr73R6Ay8"
   }
  ],
  "applications": [

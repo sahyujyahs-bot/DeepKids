@@ -1272,11 +1272,10 @@
   {
    "title": "Slicing solids: what shape is the cross-section?",
    "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "HdAST4oUZzA",
    "mins": 4,
    "why": "Shows solids being cut in different places, and the flat shapes that appear, like the slice and trace test.",
-   "check": "Not yet found. Look for a video that shows a cube giving a triangle when a corner is cut off, and a sphere giving circles of different sizes."
+   "check": "Found by YouTube search: Slicing 3d solids.  What is the cross section?, Heidi Hickman Title checked automatically; a parent may still preview it."
   },
   {
    "title": "Exploring other dimensions (Flatland)",

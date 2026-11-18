@@ -3125,10 +3125,10 @@
   {
    "title": "Why do fish gasp at dawn? Oxygen in a pond",
    "channel": "to be found",
-   "status": "find-id",
    "mins": 4,
    "why": "To see a graph of the oxygen in a pond over a day and a night, and what fish farmers do about it.",
-   "check": "Not yet found. Find one, watch it, and check that it shows the dawn low and not just the daytime high."
+   "check": "Found by YouTube search: Why Your Pond Fish Are Gasping — Check This Before Feeding Them, Scott Miller Title checked automatically; a parent may still preview it.",
+   "youtube": "UF-TymWpV8M"
   },
   {
    "title": "T.W.Engelmann's experiment",
@@ -3685,7 +3685,7 @@
    "Draper, J. W., 1840s (the claim that yellow light is the most effective, as described in histories of photosynthesis)",
    "Keeling, C. D., Tellus, 1960 (carbon dioxide in the air, measured on Mauna Loa)",
    "Bassham, J. A., Benson, A. A. and Calvin, M., Journal of Biological Chemistry, 1950 (the path of carbon in photosynthesis)",
-      "Arnon, D. I., Allen, M. B. and Whatley, F. R., Nature 174: 394-396, 1954 (isolated chloroplasts make the energy carrier ATP in light): https://doi.org/10.1038/174394a0",
+   "Arnon, D. I., Allen, M. B. and Whatley, F. R., Nature 174: 394-396, 1954 (isolated chloroplasts make the energy carrier ATP in light): https://doi.org/10.1038/174394a0",
    "Hatch, M. D. and Slack, C. R., Biochemical Journal, 1966 (the C4 pathway in sugarcane)",
    "Osmond, C. B., Annual Review of Plant Physiology, 1978 (CAM: Crassulacean acid metabolism)",
    "Bauwe, H., Hagemann, M. and Fernie, A. R., Trends in Plant Science, 2010 (photorespiration)",
