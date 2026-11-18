@@ -7,6 +7,10 @@
   "src": "media/img/sci.sound.hearing.L1/expl.1.jpg",
   "drawn": true
  },
+ "expl.2": {
+  "src": "media/img/sci.sound.hearing.L1/expl.2.jpg",
+  "drawn": true
+ },
  "expl.3": {
   "src": "media/img/sci.sound.hearing.L1/expl.3.jpg",
   "credit": "Ashwin Viswanathan, CC BY, via iNaturalist"
@@ -26,6 +30,10 @@
  "flow.a4": {
   "src": "media/img/sci.sound.hearing.L1/flow.a4.jpg",
   "credit": "Prashanth N S, CC BY, via iNaturalist"
+ },
+ "flow.c1": {
+  "src": "media/img/sci.sound.hearing.L1/flow.c1.jpg",
+  "drawn": true
  },
  "flow.e1": {
   "src": "media/img/sci.sound.hearing.L1/flow.e1.jpg",
@@ -125,6 +133,10 @@
  },
  "term.1": {
   "src": "media/img/sci.sound.hearing.L1/term.1.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.sound.hearing.L1/term.2.jpg",
   "drawn": true
  },
  "term.3": {

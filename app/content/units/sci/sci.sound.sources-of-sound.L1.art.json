@@ -1,4 +1,16 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.sound.sources-of-sound.L1/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.sound.sources-of-sound.L1/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.sound.sources-of-sound.L1/expl.2.jpg",
+  "drawn": true
+ },
  "expl.3": {
   "src": "media/img/sci.sound.sources-of-sound.L1/expl.3.jpg",
   "credit": "Haneesh K M, CC0, via iNaturalist"
@@ -153,6 +165,22 @@
  },
  "term.1": {
   "src": "media/img/sci.sound.sources-of-sound.L1/term.1.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.sound.sources-of-sound.L1/term.2.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.sound.sources-of-sound.L1/term.3.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.sound.sources-of-sound.L1/term.4.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.sound.sources-of-sound.L1/term.5.jpg",
   "drawn": true
  }
 }
