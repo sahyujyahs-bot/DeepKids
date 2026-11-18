@@ -1,6 +1,14 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.sound.waves.L3/expl.0.jpg",
+  "drawn": true
+ },
  "expl.1": {
   "src": "media/img/sci.sound.waves.L3/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.sound.waves.L3/expl.2.jpg",
   "drawn": true
  },
  "expl.3": {
@@ -22,6 +30,10 @@
  "expl.7": {
   "src": "media/img/sci.sound.waves.L3/expl.7.jpg",
   "drawn": true
+ },
+ "expl.8": {
+  "src": "media/img/sci.sound.waves.L3/expl.8.jpg",
+  "credit": "Ramesh Shenai, CC BY, via iNaturalist"
  },
  "flow.a1": {
   "src": "media/img/sci.sound.waves.L3/flow.a1.jpg",

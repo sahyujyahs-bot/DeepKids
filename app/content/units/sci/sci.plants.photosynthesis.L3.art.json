@@ -1,7 +1,31 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.plants.photosynthesis.L3/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.plants.photosynthesis.L3/expl.1.jpg",
+  "drawn": true
+ },
  "expl.10": {
   "src": "media/img/sci.plants.photosynthesis.L3/expl.10.jpg",
   "credit": "NASA, public domain"
+ },
+ "expl.11": {
+  "src": "media/img/sci.plants.photosynthesis.L3/expl.11.jpg",
+  "drawn": true
+ },
+ "expl.12": {
+  "src": "media/img/sci.plants.photosynthesis.L3/expl.12.jpg",
+  "drawn": true
+ },
+ "expl.14": {
+  "src": "media/img/sci.plants.photosynthesis.L3/expl.14.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.plants.photosynthesis.L3/expl.2.jpg",
+  "drawn": true
  },
  "expl.3": {
   "src": "media/img/sci.plants.photosynthesis.L3/expl.3.jpg",
@@ -15,8 +39,20 @@
   "src": "media/img/sci.plants.photosynthesis.L3/expl.5.jpg",
   "drawn": true
  },
+ "expl.6": {
+  "src": "media/img/sci.plants.photosynthesis.L3/expl.6.jpg",
+  "drawn": true
+ },
  "expl.7": {
   "src": "media/img/sci.plants.photosynthesis.L3/expl.7.jpg",
+  "drawn": true
+ },
+ "expl.8": {
+  "src": "media/img/sci.plants.photosynthesis.L3/expl.8.jpg",
+  "drawn": true
+ },
+ "expl.9": {
+  "src": "media/img/sci.plants.photosynthesis.L3/expl.9.jpg",
   "drawn": true
  },
  "flow.a1": {

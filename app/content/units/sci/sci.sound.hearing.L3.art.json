@@ -3,6 +3,14 @@
   "src": "media/img/sci.sound.hearing.L3/expl.0.jpg",
   "drawn": true
  },
+ "expl.1": {
+  "src": "media/img/sci.sound.hearing.L3/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.sound.hearing.L3/expl.2.jpg",
+  "drawn": true
+ },
  "expl.3": {
   "src": "media/img/sci.sound.hearing.L3/expl.3.jpg",
   "drawn": true
@@ -17,6 +25,14 @@
  },
  "expl.6": {
   "src": "media/img/sci.sound.hearing.L3/expl.6.jpg",
+  "drawn": true
+ },
+ "expl.7": {
+  "src": "media/img/sci.sound.hearing.L3/expl.7.jpg",
+  "drawn": true
+ },
+ "expl.8": {
+  "src": "media/img/sci.sound.hearing.L3/expl.8.jpg",
   "drawn": true
  },
  "flow.a1": {
@@ -37,6 +53,10 @@
  },
  "flow.a5": {
   "src": "media/img/sci.sound.hearing.L3/flow.a5.jpg",
+  "drawn": true
+ },
+ "flow.a6": {
+  "src": "media/img/sci.sound.hearing.L3/flow.a6.jpg",
   "drawn": true
  },
  "flow.c1": {
@@ -199,9 +219,17 @@
   "src": "media/img/sci.sound.hearing.L3/term.1.jpg",
   "drawn": true
  },
+ "term.10": {
+  "src": "media/img/sci.sound.hearing.L3/term.10.jpg",
+  "drawn": true
+ },
  "term.11": {
   "src": "media/img/sci.sound.hearing.L3/term.11.jpg",
   "credit": "Hopeland, CC BY, via iNaturalist"
+ },
+ "term.12": {
+  "src": "media/img/sci.sound.hearing.L3/term.12.jpg",
+  "credit": "Morten Ross, CC BY, via iNaturalist"
  },
  "term.13": {
   "src": "media/img/sci.sound.hearing.L3/term.13.jpg",
@@ -209,6 +237,10 @@
  },
  "term.14": {
   "src": "media/img/sci.sound.hearing.L3/term.14.jpg",
+  "drawn": true
+ },
+ "term.17": {
+  "src": "media/img/sci.sound.hearing.L3/term.17.jpg",
   "drawn": true
  },
  "term.18": {

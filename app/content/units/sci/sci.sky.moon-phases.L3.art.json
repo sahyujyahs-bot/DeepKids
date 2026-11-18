@@ -11,6 +11,14 @@
   "src": "media/img/sci.sky.moon-phases.L3/expl.11.jpg",
   "credit": "NASA/Carla Thomas, public domain"
  },
+ "expl.12": {
+  "src": "media/img/sci.sky.moon-phases.L3/expl.12.jpg",
+  "drawn": true
+ },
+ "expl.13": {
+  "src": "media/img/sci.sky.moon-phases.L3/expl.13.jpg",
+  "drawn": true
+ },
  "expl.14": {
   "src": "media/img/sci.sky.moon-phases.L3/expl.14.jpg",
   "credit": "NASA, public domain"
@@ -21,6 +29,10 @@
  },
  "expl.2": {
   "src": "media/img/sci.sky.moon-phases.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.sky.moon-phases.L3/expl.3.jpg",
   "drawn": true
  },
  "expl.4": {
@@ -41,6 +53,10 @@
  },
  "expl.8": {
   "src": "media/img/sci.sky.moon-phases.L3/expl.8.jpg",
+  "drawn": true
+ },
+ "expl.9": {
+  "src": "media/img/sci.sky.moon-phases.L3/expl.9.jpg",
   "drawn": true
  },
  "flow.a1": {

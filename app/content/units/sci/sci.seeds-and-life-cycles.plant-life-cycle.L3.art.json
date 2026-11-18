@@ -11,8 +11,28 @@
   "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/expl.10.jpg",
   "credit": "Seema Merchant, CC BY, via iNaturalist"
  },
+ "expl.11": {
+  "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/expl.11.jpg",
+  "drawn": true
+ },
+ "expl.12": {
+  "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/expl.12.jpg",
+  "drawn": true
+ },
+ "expl.13": {
+  "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/expl.13.jpg",
+  "drawn": true
+ },
+ "expl.14": {
+  "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/expl.14.jpg",
+  "drawn": true
+ },
  "expl.2": {
   "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/expl.3.jpg",
   "drawn": true
  },
  "expl.4": {
@@ -85,6 +105,14 @@
  },
  "flow.e4": {
   "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/flow.e4.jpg",
+  "drawn": true
+ },
+ "flow.g1": {
+  "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/flow.g1.jpg",
+  "drawn": true
+ },
+ "flow.g2": {
+  "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/flow.g2.jpg",
   "drawn": true
  },
  "flow.p1": {
@@ -275,8 +303,20 @@
   "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/summary.jpg",
   "credit": "Rejoice Gassah, CC BY, via iNaturalist"
  },
+ "term.0": {
+  "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/term.0.jpg",
+  "drawn": true
+ },
  "term.1": {
   "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/term.1.jpg",
+  "drawn": true
+ },
+ "term.10": {
+  "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/term.10.jpg",
+  "drawn": true
+ },
+ "term.11": {
+  "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/term.11.jpg",
   "drawn": true
  },
  "term.12": {
@@ -319,6 +359,10 @@
   "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/term.20.jpg",
   "credit": "Haneesh K M, CC0, via iNaturalist"
  },
+ "term.21": {
+  "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/term.21.jpg",
+  "drawn": true
+ },
  "term.22": {
   "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/term.22.jpg",
   "credit": "renjus box, CC BY, via iNaturalist"
@@ -334,6 +378,10 @@
  "term.5": {
   "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/term.5.jpg",
   "drawn": true
+ },
+ "term.6": {
+  "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/term.6.jpg",
+  "credit": "Sushant More, CC0, via iNaturalist"
  },
  "term.7": {
   "src": "media/img/sci.seeds-and-life-cycles.plant-life-cycle.L3/term.7.jpg",
