@@ -55,6 +55,10 @@
   "src": "media/img/sci.body.body-parts.L1/flow.p1.jpg",
   "drawn": true
  },
+ "intro": {
+  "src": "media/img/sci.body.body-parts.L1/intro.jpg",
+  "credit": "Illustration made with OpenArt (Seedream 4.5) from a DeepKids brief"
+ },
  "setup.a1.0": {
   "src": "media/img/sci.body.body-parts.L1/setup.a1.0.jpg",
   "drawn": true
