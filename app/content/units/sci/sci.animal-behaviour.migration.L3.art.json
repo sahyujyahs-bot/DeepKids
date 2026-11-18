@@ -47,6 +47,34 @@
   "src": "media/img/sci.animal-behaviour.migration.L3/intro.jpg",
   "credit": "Tejas M, CC BY, via iNaturalist"
  },
+ "setup.e1.0": {
+  "src": "media/img/sci.animal-behaviour.migration.L3/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.animal-behaviour.migration.L3/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.animal-behaviour.migration.L3/setup.e1.2.jpg",
+  "drawn": true
+ },
+ "setup.e1.3": {
+  "src": "media/img/sci.animal-behaviour.migration.L3/setup.e1.3.jpg",
+  "drawn": true
+ },
+ "setup.e2.0": {
+  "src": "media/img/sci.animal-behaviour.migration.L3/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.animal-behaviour.migration.L3/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.animal-behaviour.migration.L3/setup.e2.2.jpg",
+  "drawn": true
+ },
  "summary": {
   "src": "media/img/sci.animal-behaviour.migration.L3/summary.jpg",
   "credit": "Blake Ross, CC BY, via iNaturalist"
