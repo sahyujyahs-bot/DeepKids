@@ -15,6 +15,10 @@
   "src": "media/img/sci.plants.plant-senses.L2/expl.4.jpg",
   "drawn": true
  },
+ "flow.a1": {
+  "src": "media/img/sci.plants.plant-senses.L2/flow.a1.jpg",
+  "drawn": true
+ },
  "flow.a2": {
   "src": "media/img/sci.plants.plant-senses.L2/flow.a2.jpg",
   "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
@@ -26,6 +30,10 @@
  "flow.e1": {
   "src": "media/img/sci.plants.plant-senses.L2/flow.e1.jpg",
   "credit": "renjus box, CC BY, via iNaturalist"
+ },
+ "flow.e2": {
+  "src": "media/img/sci.plants.plant-senses.L2/flow.e2.jpg",
+  "drawn": true
  },
  "intro": {
   "src": "media/img/sci.plants.plant-senses.L2/intro.jpg",
