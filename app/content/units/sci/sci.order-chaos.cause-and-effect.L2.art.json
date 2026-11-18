@@ -19,6 +19,14 @@
   "src": "media/img/sci.order-chaos.cause-and-effect.L2/intro.jpg",
   "credit": "yoppy from Kawasaki, Kanagawa, Japan, CC BY 2.0, via Wikimedia Commons"
  },
+ "setup.c1.0": {
+  "src": "media/img/sci.order-chaos.cause-and-effect.L2/setup.c1.0.jpg",
+  "drawn": true
+ },
+ "setup.c1.1": {
+  "src": "media/img/sci.order-chaos.cause-and-effect.L2/setup.c1.1.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.order-chaos.cause-and-effect.L2/setup.e1.0.jpg",
   "drawn": true
@@ -49,6 +57,10 @@
  },
  "setup.e2.2": {
   "src": "media/img/sci.order-chaos.cause-and-effect.L2/setup.e2.2.jpg",
+  "drawn": true
+ },
+ "setup.p1.0": {
+  "src": "media/img/sci.order-chaos.cause-and-effect.L2/setup.p1.0.jpg",
   "drawn": true
  }
 }
