@@ -1398,7 +1398,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Write these ten names on ten slips: a potted plant, coriander leaves, an ant, a house gecko or a crow, yourself, the bacteria in curd, the yeast in bread, a mushroom, the mould on old fruit, the green film in a flowerpot saucer. 2. Ask how many of the ten will fit into 'plants' or 'animals'.",
+     "do": "1. Write ten names on ten slips. 2. The first five are a potted plant, coriander leaves, an ant, a house gecko or a crow, and yourself. 3. The next five are the bacteria in curd, the yeast in bread, a mushroom, the mould on old fruit and the green film in a flowerpot saucer. 4. Ask how many of the ten will fit into 'plants' or 'animals'.",
      "say": "All ten of these are alive, or were alive when they came into our kitchen. How many of them are plants or animals? Guess a number.",
      "kid": "Write ten living beings from your home on slips. Use the list. Guess how many are plants or animals.",
      "parent": "Change the list to fit your home, but keep the curd bacteria, the yeast, the mushroom and the mould. If there is no mushroom in the house, write the slip anyway.",
@@ -2602,7 +2602,7 @@
     },
     {
      "t": "draw",
-     "p": "A lichen is a fungus and an alga living as one body. Draw how you would show a lichen on a tree of life.",
+     "p": "A lichen is a fungus and an alga in one body. Draw a lichen's place on a tree of life.",
      "a": "Answers vary. One good answer draws a line from the fungus twig and a line from the alga's twig that meet at one point marked 'lichen'.",
      "why": "No single tip of the tree fits a lichen. A strong drawing shows two twigs meeting, and so shows that a plain tree is not enough.",
      "art": "A tree of life with a twig labelled fungi and a twig labelled green algae on different branches, and empty space between them.",
