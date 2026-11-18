@@ -268,7 +268,7 @@
    "concept": "Thrown by the plant",
    "status": "defined",
    "definition": "In explosive dispersal the fruit throws the seeds. The fruit stores energy as it dries or swells, in the way a bent spring stores energy, and then lets go all at once.",
-   "description": "A ripe balsam pod is under strain. The outer layer of the pod wall is swollen with water and is trying to get longer. The inner layer holds it back. The five strips of the wall are joined along weak seams. A touch breaks a seam. Each strip then curls up in a few thousandths of a second and flings the seeds out. Other pods store energy by drying. The wall of a bauhinia pod has two layers of stiff fibres. The fibres in one layer run at a slant to the fibres in the other. When the pod dries, each layer shrinks in a different direction. The two halves cannot both shrink flat, so they twist into spirals. Shahaf Armon and her team in Jerusalem worked this out in 2011, using strips of stretched rubber. The pods of the rubber tree split with a loud crack and throw the seeds more than ten metres. Throwing is a short trip compared with wind or birds. But it costs the plant no sweet flesh, and it needs no partner.",
+   "description": "A ripe balsam pod is under strain. The outer layer of the pod wall is swollen with water and is trying to get longer. The inner layer holds it back. The five strips of the wall are joined along weak seams. A touch breaks a seam. Each strip then curls up in a few thousandths of a second and flings the seeds out. Other pods store energy by drying. The wall of a bauhinia pod has two layers of stiff fibres. The fibres in one layer run at a slant to the fibres in the other. When the pod dries, each layer shrinks in a different direction. The two halves cannot both shrink flat, so they twist into spirals. Shahaf Armon and her team in Jerusalem worked this out in 2011, using strips of stretched rubber. The pods of the rubber tree split with a loud crack and throw the seeds more than ten metres. Throwing is a short trip compared with wind or birds. But throwing costs the plant no sweet flesh, and needs no partner.",
    "examples": [
     "Balsam is grown in many Indian gardens. Children press the ripe pods to make them pop.",
     "The dry pods of the cracker plant, a small purple-flowered weed, burst when a raindrop wets them.",
@@ -307,7 +307,7 @@
    "concept": "People as seed savers",
    "status": "defined",
    "definition": "A crop is not one kind of plant. A crop is thousands of varieties, each a little different. Saving seeds means keeping those varieties alive, in fields or in seed banks.",
-   "description": "For thousands of years every farmer saved seed from each harvest to sow the next year. In each valley the crop slowly changed to suit that soil and weather. India once had many thousands of rice varieties. Some stand in deep flood water. Some grow in salty soil near the sea. Some ripen in 60 days. In the last hundred years, most farmers moved to a few high-yield varieties, and many old ones were lost. Why does that matter? If every plant in a field is nearly the same, one disease can kill them all. In Ireland in the 1840s, most people grew one variety of potato. A disease called blight destroyed the crop year after year, and about a million people died. Variety is also where cures are found. In the 1970s a virus called grassy stunt was destroying rice across Asia. Scientists tested more than 6,000 kinds of rice from a seed bank. Only one could resist the virus. That one was a wild rice collected in Uttar Pradesh. Breeders crossed that wild rice with farmed rice, and made new varieties that resist the virus. There are two ways to save seeds. A seed bank keeps dry seeds in the cold, where they stay alive for decades. The Svalbard Global Seed Vault in Norway is inside a frozen mountain and holds more than a million samples. The other way is to keep sowing. Farmers such as Rahibai Popere in Maharashtra grow old varieties every year and share the seed. Seeds in a field keep changing with the weather. Seeds in a vault stay as they were.",
+   "description": "For thousands of years every farmer saved seed from each harvest to sow the next year. In each valley the crop slowly changed to suit that soil and weather. India once had many thousands of rice varieties. Some stand in deep flood water. Some grow in salty soil near the sea. Some ripen in 60 days. In the last hundred years, most farmers moved to a few high-yield varieties, and many old ones were lost. Why does that matter? If every plant in a field is nearly the same, one disease can kill them all. In Ireland in the 1840s, most people grew one variety of potato. A disease called blight destroyed the crop year after year, and about a million people died. Variety is also where cures are found. In the 1970s a virus called grassy stunt was destroying rice across Asia. Scientists tested more than 6,000 kinds of rice from a seed bank. Only one could resist the virus. That one was a wild rice collected in Uttar Pradesh. Breeders crossed that wild rice with farmed rice, and made new varieties that resist the virus. There are two ways to save seeds. A seed bank keeps dry seeds in the cold, where they stay alive for decades. The Svalbard Global Seed Vault in Norway is inside a frozen mountain and holds more than a million samples. The other way is to keep sowing. Farmers such as Rahibai Popere in Maharashtra grow old varieties every year and share the seed. A variety that is sown every year keeps changing slowly. In each year, the plants that cope best with that year's weather and pests leave the most seed. Seeds in a vault stay as they were.",
    "examples": [
     "Nikolai Vavilov, a Russian scientist, collected seeds on five continents and built the first great seed bank, in Leningrad.",
     "At the yearly paddy festival started by Nel Jayaraman in Tamil Nadu, a farmer takes old rice seed home and brings back more the next year.",
@@ -463,7 +463,7 @@
    "what_is_life": "A plant stays in one spot for a whole life. But each seed is a chance to live somewhere else. So a kind of plant keeps moving across the land, one generation at a time.",
    "what_is_this_world": "Wind, rivers, sea currents, birds, bats, ants, elephants and people all carry seeds. The map of where each plant lives was drawn by everything that moves."
   },
-  "thread": "A tree is one being, rooted in one place. From that one tree come thousands of seeds, and they go out in every direction. The tree does not do the moving. The Sun warms the air and makes the wind, the rain fills the river, and a bird is hungry. Each of them takes a seed somewhere new. So the one tree becomes many trees only with the help of the whole world around them. And the forest that grows up feeds the birds and cools the wind in return.",
+  "thread": "A tree is one being, rooted in one place. From that one tree come thousands of seeds, and they go out in every direction. The tree does not do the moving. The Sun warms the air and makes the wind, the rain fills the river, and a bird is hungry. Each of them takes a seed somewhere new. So the one tree becomes many trees only with the help of the whole world around them. And the forest that grows up feeds the birds and holds the rain in return.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.12",
@@ -1858,7 +1858,7 @@
      ],
      [
       "West Asia and the lands round the Mediterranean Sea",
-      "wheat, chana, masoor, peas, coriander, cumin, methi, mustard, cabbage, cauliflower"
+      "wheat, chana, masoor, peas, coriander, cumin, methi, cabbage, cauliflower"
      ],
      [
       "Africa",
@@ -1922,7 +1922,7 @@
        ]
       }
      ],
-     "parent": "An example: idli and sambar. Rice, urad, tuvar, drumstick, turmeric and curry leaf are from Asia. Tamarind is from Africa. Onion is from Central Asia. Coriander and mustard are from West Asia and the Mediterranean. Tomato and chilli are from the Americas.",
+     "parent": "An example: idli and sambar. Rice, urad, tuvar, drumstick, turmeric and curry leaf are from Asia. Tamarind is from Africa. Onion is from Central Asia. Coriander is from the lands round the Mediterranean Sea. Tomato and chilli are from the Americas.",
      "context": "In this step of Where Did My Dinner Come From? you look up the home region of each food and count the regions."
     },
     {
@@ -2397,7 +2397,7 @@
      "say": "Build it and lay it on the floor. Brush your sock past once. Did it catch? Walk 20 steps. Change one thing and try again.",
      "kid": "Build your seed. Put the seed on the floor. Brush your sock past once. Walk 20 steps. Change one thing and try again.",
      "parent": "A grown-up handles the broom bristles and toothpicks if they are sharp. Most first models bounce off the sock. Smaller hooks, and more of them, usually work better than a few big ones.",
-     "context": "In this step of the Hitch-hiker Challenge you build your seed and test whether it rides on a sock."
+     "context": "In this step of the Hitch-hiker Challenge you build your model and test whether the model rides on a sock."
     },
     {
      "id": "s3",
@@ -2422,7 +2422,7 @@
       }
      ],
      "parent": "In 1941 the Swiss engineer George de Mestral found burrs in his dog's coat after a walk. Under a microscope he saw hundreds of tiny hooks. He spent years copying them in nylon, and the result was Velcro, which closes many shoes and bags today.",
-     "context": "This is the last step of the Hitch-hiker Challenge. You test your seed and explain how it would finally reach the soil."
+     "context": "This is the last step of the Hitch-hiker Challenge. You test your model and explain how a real hitch-hiker would finally reach the soil."
     }
    ]
   }
@@ -2436,7 +2436,7 @@
    "items": [
     {
      "t": "match",
-     "p": "Match each feature of a fruit or seed to the carrier it suits.",
+     "p": "Match each feature of a fruit or seed to the right carrier.",
      "a": "pairs as given",
      "why": "Each feature solves one problem: staying in the air, staying afloat, being eaten, or holding on. A strong answer says what the feature does, as well as who carries the seed.",
      "pairs": [
@@ -2462,7 +2462,7 @@
       ],
       [
        "A pod that curls as it dries",
-       "the plant itself"
+       "the parent plant's own pod"
       ]
      ]
     },
@@ -2782,7 +2782,7 @@
      "t": "write",
      "p": "A mangrove seed sprouts while still on the mother tree. How might that help in tidal mud?",
      "a": "The seedling drops with a root end ready to grow. So the seedling can take hold of the mud quickly, before the next tide washes the seedling away. A seedling that does not root can float off and try somewhere else.",
-     "why": "A strong answer names the problem, which is that the tide moves everything twice a day, and then says how a ready-grown seedling meets it.",
+     "why": "A strong answer names the problem, which is that the tide moves everything twice a day, and then says how a ready-grown seedling solves that problem.",
      "lines": 3
     },
     {
@@ -3384,7 +3384,7 @@
    "a": "Sorry, this seat is saved for birds."
   },
   {
-   "j": "Why did the seed bank never feel lonely?",
+   "j": "Why was the seed bank never lonely?",
    "a": "It had a million tiny guests, all sleeping over."
   }
  ],
