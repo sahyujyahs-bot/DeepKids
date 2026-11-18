@@ -1,7 +1,59 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.weather.forecasting.L3/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.weather.forecasting.L3/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.weather.forecasting.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.weather.forecasting.L3/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.5": {
+  "src": "media/img/sci.weather.forecasting.L3/expl.5.jpg",
+  "drawn": true
+ },
+ "expl.6": {
+  "src": "media/img/sci.weather.forecasting.L3/expl.6.jpg",
+  "drawn": true
+ },
+ "expl.7": {
+  "src": "media/img/sci.weather.forecasting.L3/expl.7.jpg",
+  "drawn": true
+ },
  "expl.9": {
   "src": "media/img/sci.weather.forecasting.L3/expl.9.jpg",
   "credit": "Haneesh K M, CC0, via iNaturalist"
+ },
+ "flow.a1": {
+  "src": "media/img/sci.weather.forecasting.L3/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.weather.forecasting.L3/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.weather.forecasting.L3/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.a4": {
+  "src": "media/img/sci.weather.forecasting.L3/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.weather.forecasting.L3/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.c2": {
+  "src": "media/img/sci.weather.forecasting.L3/flow.c2.jpg",
+  "drawn": true
  },
  "flow.e1": {
   "src": "media/img/sci.weather.forecasting.L3/flow.e1.jpg",
@@ -163,13 +215,41 @@
   "src": "media/img/sci.weather.forecasting.L3/summary.jpg",
   "drawn": true
  },
+ "term.0": {
+  "src": "media/img/sci.weather.forecasting.L3/term.0.jpg",
+  "drawn": true
+ },
+ "term.10": {
+  "src": "media/img/sci.weather.forecasting.L3/term.10.jpg",
+  "drawn": true
+ },
  "term.11": {
   "src": "media/img/sci.weather.forecasting.L3/term.11.jpg",
   "credit": "NASA/Ben Smegelsky, public domain"
  },
+ "term.12": {
+  "src": "media/img/sci.weather.forecasting.L3/term.12.jpg",
+  "drawn": true
+ },
+ "term.13": {
+  "src": "media/img/sci.weather.forecasting.L3/term.13.jpg",
+  "drawn": true
+ },
  "term.14": {
   "src": "media/img/sci.weather.forecasting.L3/term.14.jpg",
   "credit": "NASA, public domain"
+ },
+ "term.2": {
+  "src": "media/img/sci.weather.forecasting.L3/term.2.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.weather.forecasting.L3/term.3.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.weather.forecasting.L3/term.4.jpg",
+  "drawn": true
  },
  "term.5": {
   "src": "media/img/sci.weather.forecasting.L3/term.5.jpg",
@@ -182,5 +262,9 @@
  "term.8": {
   "src": "media/img/sci.weather.forecasting.L3/term.8.jpg",
   "credit": "ESO/G. Hüdepohl (atacamaphoto.com), CC BY 4.0, via Wikimedia Commons"
+ },
+ "term.9": {
+  "src": "media/img/sci.weather.forecasting.L3/term.9.jpg",
+  "drawn": true
  }
 }
