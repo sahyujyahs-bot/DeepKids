@@ -2688,7 +2688,7 @@
  ],
  "song": {
   "topic_level": "sci.what-is-life.L5",
-  "title": "Life Is Made of Cells",
+  "title": "What Makes a Thing Alive?",
   "note": "Topic-level song"
  },
  "links": [
@@ -3025,17 +3025,23 @@
    {
     "source": "Tao Te Ching, chapter 11 (paraphrased)",
     "teaching": "Clay is shaped into a pot, and the empty space inside is what makes the pot useful. Doors and windows are cut in a wall, and the openings are what make the room useful.",
-    "link": "The gaps between your fingers are what make a hand useful. The emptiness inside a tree's dead pipe cells is what carries the water. In both, something was taken away by plan."
+    "link": "The gaps between your fingers are what make a hand useful. The emptiness inside a tree's dead pipe cells is what carries the water. In both, something was taken away by plan.",
+    "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Thirukkural 339 (paraphrased)",
     "teaching": "Thiruvalluvar says that death is like falling asleep, and birth is like waking from that sleep.",
-    "link": "The verse puts dying and being born side by side, as two halves of one rhythm. In your body, millions of cells reach their end every second and millions are made. Both belong to being alive."
+    "link": "The verse puts dying and being born side by side, as two halves of one rhythm. In your body, millions of cells reach their end every second and millions are made. Both belong to being alive.",
+    "verse": ["உறங்குவது போலும் சாக்காடு உறங்கி", "விழிப்பது போலும் பிறப்பு."],
+    "verse_lang": "ta"
    },
    {
     "source": "Bhagavad Gita 2.27 (paraphrased)",
     "teaching": "For one who is born, death is certain. For one who has died, birth is certain.",
-    "link": "A gut lining cell is born, works for a few days and dies, and a new one takes her place. The gut carries on because both things keep happening."
+    "link": "A gut lining cell is born, works for a few days and dies, and a new one takes her place. The gut carries on because both things keep happening.",
+    "verse": ["जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च।", "तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि।।"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

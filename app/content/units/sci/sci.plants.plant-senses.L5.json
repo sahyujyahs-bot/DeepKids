@@ -3381,7 +3381,9 @@
    {
     "source": "Udana 6.4, the Buddhist story of the blind men and the elephant, which Jain teachers also tell to explain anekantavada, many-sidedness",
     "teaching": "Several blind men each touch one part of an elephant. One says the elephant is like a pillar and another says like a fan. Each is right about his part and wrong to think it is the whole.",
-    "link": "A plant, a wasp and a person each receive one smell and take a different thing from it. No one of them holds the whole of what that smell is."
+    "link": "A plant, a wasp and a person each receive one smell and take a different thing from it. No one of them holds the whole of what that smell is.",
+    "verse": ["Imesu kira sajjanti,", "eke samaṇabrāhmaṇā;", "Viggayha naṁ vivadanti,", "janā ekaṅgadassino"],
+    "verse_lang": "pi"
    },
    {
     "source": "Mahabharata, Shanti Parva, section 184 (the sage Bhrigu answers Bharadvaja)",

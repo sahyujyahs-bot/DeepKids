@@ -3227,12 +3227,16 @@
    {
     "source": "Chandogya Upanishad 6.7",
     "teaching": "Uddalaka asks his son Shvetaketu to eat nothing for fifteen days and only drink water. Afterwards the boy has forgotten the verses he knew well. He eats, and his memory returns. His father tells him that the mind is made of food.",
-    "link": "Thinking and remembering run on the energy in food, and that energy was sunlight caught by chlorophyll. So energy from light that a leaf caught is at work in a child's memory."
+    "link": "Thinking and remembering run on the energy in food, and that energy was sunlight caught by chlorophyll. So energy from light that a leaf caught is at work in a child's memory.",
+    "verse": ["अन्नमयं हि सोम्य मनः", "आपोमयः प्राणः", "तेजोमयी वागिति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Bhagavad Gita 15.12 to 15.13",
     "teaching": "The Gita says that the light in the Sun which lights the whole world, and the sap that feeds all plants, come from one and the same source.",
-    "link": "The science in this unit finds the same link from the other side. The food in every plant holds energy from the Sun's light, caught and kept."
+    "link": "The science in this unit finds the same link from the other side. The food in every plant holds energy from the Sun's light, caught and kept.",
+    "verse": ["यदादित्यगतं तेजो जगद्भासयतेऽखिलम्।", "यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्।।", "गामाविश्य च भूतानि धारयाम्यहमोजसा।", "पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः।।"],
+    "verse_lang": "sa"
    },
    {
     "source": "Robin Wall Kimmerer, Braiding Sweetgrass (2013)",

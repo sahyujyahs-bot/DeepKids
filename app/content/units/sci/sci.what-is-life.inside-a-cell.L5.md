@@ -152,8 +152,8 @@ We have learned how a large cell ships, recycles and holds her shape, and how a 
 
 A bacterium and one of your cells share one ancestor and the same chemistry: DNA, ribosomes, a membrane and ATP. From that one beginning, life found different ways to live at different sizes. Then two different kinds of cell met, and one came to live inside the other. Every animal, plant and fungus has grown from that joining. So the many kinds of life are one family, and some of its branches have joined again.
 
-- **Zhuangzi, chapter 17, 'Autumn Floods' (paraphrased):** Seen from the Way, nothing is noble and nothing is lowly. Seen from each thing, each one calls itself noble and the others lowly. (We call our own cells advanced and bacteria simple. The science in this unit shows two designs, each fitted to a size. The ranking comes from us.)
-- **Tattvartha Sutra 5.21, a Jain text by Umasvati (paraphrased):** Living beings exist by helping one another. (A mitochondrion gives the cell ATP. The cell gives her food, shelter and most of her proteins. Neither can now live without the other.)
+- **Zhuangzi, chapter 17, 'Autumn Floods' (paraphrased):** “莊子曰：「鯈魚出游從容，是魚樂也。」 / 惠子曰：「子非魚，安知魚之樂？」 / 莊子曰：「子非我，安知我不知魚之樂？」” Seen from the Way, nothing is noble and nothing is lowly. Seen from each thing, each one calls itself noble and the others lowly. (We call our own cells advanced and bacteria simple. The science in this unit shows two designs, each fitted to a size. The ranking comes from us.)
+- **Tattvartha Sutra 5.21, a Jain text by Umasvati (paraphrased):** “परस्परोपग्रहो जीवानाम्” Living beings exist by helping one another. (A mitochondrion gives the cell ATP. The cell gives her food, shelter and most of her proteins. Neither can now live without the other.)
 - Science (settled): Mitochondria and chloroplasts descend from free-living bacteria that came to live inside larger cells.
 - Science (settled): The time needed to drift a distance grows with the square of the distance. This limits how large a cell can be without a transport system.
 - Science (debated): Whether the extra energy from mitochondria is what first allowed cells to become large is still argued.

@@ -554,12 +554,16 @@
    {
     "source": "Dhammapada, verse 129",
     "teaching": "As paraphrased: all beings tremble at violence, and all fear death. Put yourself in the place of another, and do not harm or cause harm.",
-    "link": "The verse asks you to work out another's feeling from your own. Scientists do the same when they compare a crab's trade-off with a person's. The verse simply does not wait for the experiment."
+    "link": "The verse asks you to work out another's feeling from your own. Scientists do the same when they compare a crab's trade-off with a person's. The verse simply does not wait for the experiment.",
+    "verse": ["Sabbe tasanti daṇḍassa,", "sabbe bhāyanti maccuno;", "Attānaṁ upamaṁ katvā,", "na haneyya na ghātaye."],
+    "verse_lang": "pi"
    },
    {
     "source": "Tattvartha Sutra, chapter 2 (sutras 22 to 24 in most editions), a Jain text by Umasvati",
     "teaching": "Living beings are grouped by how many senses they have. Plants have one sense, touch. Worms have two, ants three, bees four, and humans and other large animals five.",
-    "link": "This old list draws no line between beings who feel and beings who do not. It says they differ in how many ways they sense. Today's scientists also find that feeling is hard to switch off at any one kind of animal."
+    "link": "This old list draws no line between beings who feel and beings who do not. It says they differ in how many ways they sense. Today's scientists also find that feeling is hard to switch off at any one kind of animal.",
+    "verse": ["पृथिव्यप्तेजोवायुवनस्पतयः स्थावराः", "वनस्पत्यन्तानामेकम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Jeremy Bentham, An Introduction to the Principles of Morals and Legislation (1789), chapter 17, in a footnote",
@@ -2699,7 +2703,7 @@
  ],
  "song": {
   "topic_level": "sci.animals.L5",
-  "title": "Who Feels? Ask and See",
+  "title": "Many Ways to Live a Life",
   "note": "Topic-level song"
  },
  "links": [

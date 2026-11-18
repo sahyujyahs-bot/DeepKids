@@ -149,9 +149,9 @@ We have learned that cells divide in two ways, that some cells have no job yet, 
 
 One fertilised egg becomes trillions of cells by mitosis. The cells take hundreds of different jobs, and some die so that the others can form a hand or stay safe. Then meiosis makes single cells again, each a new mix, and one of them may begin another body. So a body is one cell that became many, and the many still act together as one.
 
-- **Tao Te Ching, chapter 11 (paraphrased):** Clay is shaped into a pot, and the empty space inside is what makes the pot useful. Doors and windows are cut in a wall, and the openings are what make the room useful. (The gaps between your fingers are what make a hand useful. The emptiness inside a tree's dead pipe cells is what carries the water. In both, something was taken away by plan.)
-- **Thirukkural 339 (paraphrased):** Thiruvalluvar says that death is like falling asleep, and birth is like waking from that sleep. (The verse puts dying and being born side by side, as two halves of one rhythm. In your body, millions of cells reach their end every second and millions are made. Both belong to being alive.)
-- **Bhagavad Gita 2.27 (paraphrased):** For one who is born, death is certain. For one who has died, birth is certain. (A gut lining cell is born, works for a few days and dies, and a new one takes her place. The gut carries on because both things keep happening.)
+- **Tao Te Ching, chapter 11 (paraphrased):** “三十輻共一轂，當其無，有車之用。 / 埏埴以為器，當其無，有器之用。” Clay is shaped into a pot, and the empty space inside is what makes the pot useful. Doors and windows are cut in a wall, and the openings are what make the room useful. (The gaps between your fingers are what make a hand useful. The emptiness inside a tree's dead pipe cells is what carries the water. In both, something was taken away by plan.)
+- **Thirukkural 339 (paraphrased):** “உறங்குவது போலும் சாக்காடு உறங்கி / விழிப்பது போலும் பிறப்பு.” Thiruvalluvar says that death is like falling asleep, and birth is like waking from that sleep. (The verse puts dying and being born side by side, as two halves of one rhythm. In your body, millions of cells reach their end every second and millions are made. Both belong to being alive.)
+- **Bhagavad Gita 2.27 (paraphrased):** “जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च। / तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि।।” For one who is born, death is certain. For one who has died, birth is certain. (A gut lining cell is born, works for a few days and dies, and a new one takes her place. The gut carries on because both things keep happening.)
 - Science (settled): Every cell weighs signals to live against signals to die before she acts. Biologists call this a cell fate decision, and they can measure the signals.
 - Science (open): In animal cells, one main death signal is let out by the mitochondria, which were once free-living bacteria. Why the switch for death sits there is not known.
 - Other view, Many cell biologists: Apoptosis is a chain of chemical reactions, in which certain proteins cut up other proteins. Words such as 'decides' or 'for the body' are only a way of speaking. Cells that carried this chain left more descendants, and that is the whole explanation.
@@ -698,7 +698,7 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 - The longest root on a pudina piece was 4 millimetres on day 5, 12 millimetres on day 7 and 20 millimetres on day 9. How fast is it growing? How long will it be on day 11 if it carries on? **4 millimetres a day. About 28 millimetres on day 11.**. From day 5 to day 7 the root grew 8 millimetres, and from day 7 to day 9 another 8. That is 8 millimetres in 2 days, or 4 millimetres a day. Two more days add 8, so 20 + 8 = 28 millimetres. A real root may speed up or slow down, so this is a prediction to check. (queues `math.data.line-graphs.L5`)
 
 ## Song
-Life Is Made of Cells (sci.what-is-life.L5): Topic-level song
+What Makes a Thing Alive? (sci.what-is-life.L5): Topic-level song
 
 ## Links
 - [Learn.Genetics: Stem Cells](https://learn.genetics.utah.edu/content/stemcells/) · interactive: Clear pages from the University of Utah on what stem cells are and how they are used, with pictures to click through.

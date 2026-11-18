@@ -3218,12 +3218,16 @@
       {
         "source": "Chandogya Upanishad 6.9",
         "teaching": "Uddalaka tells his son that bees gather nectar from many different trees and make it into one honey. In the honey, no drop says 'I am from this tree' or 'I am from that tree'.",
-        "link": "Your body is made by trillions of cells of your own and trillions of bacteria. Their work ends up as one living, breathing child, and you cannot point to which part each one did."
+        "link": "Your body is made by trillions of cells of your own and trillions of bacteria. Their work ends up as one living, breathing child, and you cannot point to which part each one did.",
+        "verse": ["यथा सोम्य मधु मधुकृतो निस्तिष्ठन्ति नानात्ययानां वृक्षाणां रसान्समवहारमेकतां रसं गमयन्ति", "ते यथा तत्र न विवेकं लभन्तेऽमुष्याहं वृक्षस्य रसोऽस्म्यमुष्याहं वृक्षस्य रसोऽस्मीति"],
+        "verse_lang": "sa"
       },
       {
         "source": "Tattvartha Sutra 5.21",
         "teaching": "The Jain teacher Umasvati wrote 'parasparopagraho jivanam'. It means that living beings support one another.",
-        "link": "Your gut feeds bacteria with the fibre you cannot digest, and the bacteria feed the cells of your gut wall with what they make from it."
+        "link": "Your gut feeds bacteria with the fibre you cannot digest, and the bacteria feed the cells of your gut wall with what they make from it.",
+        "verse": ["परस्परोपग्रहो जीवानाम्"],
+        "verse_lang": "sa"
       },
       {
         "source": "Walt Whitman, Song of Myself, section 51",

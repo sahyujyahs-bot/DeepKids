@@ -3486,7 +3486,9 @@
    {
     "source": "Zhuangzi, chapter 1 (paraphrased)",
     "teaching": "The morning mushroom knows nothing of evening and dawn. The summer cicada knows nothing of spring and autumn.",
-    "link": "Zhuangzi chose the cicada as his example of a short life, because he saw only the summer adult. He could not see the years underground. The part of a life that we notice may be only its last small part."
+    "link": "Zhuangzi chose the cicada as his example of a short life, because he saw only the summer adult. He could not see the years underground. The part of a life that we notice may be only its last small part.",
+    "verse": ["朝菌不知晦朔，蟪蛄不知春秋。", "此小年也。", "楚之南有冥靈者，以五百歲爲春，五百歲爲秋。", "上古有大椿者，以八千歲爲春，八千歲爲秋。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Samuel Butler, Life and Habit (1878)",
@@ -3496,7 +3498,9 @@
    {
     "source": "Bhagavad Gita 2.13 (paraphrased)",
     "teaching": "The one who lives in a body passes through childhood, youth and old age in that body, and then passes on to another body.",
-    "link": "The Gita says that something stays the same through all the stages of a life. Science finds one thing that does stay the same from egg to nymph to adult: the genes in every cell. Whether anything more stays the same is a question science has not answered."
+    "link": "The Gita says that something stays the same through all the stages of a life. Science finds one thing that does stay the same from egg to nymph to adult: the genes in every cell. Whether anything more stays the same is a question science has not answered.",
+    "verse": ["देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा।", "तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति।।"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

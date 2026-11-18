@@ -579,12 +579,16 @@
    {
     "source": "Udana 6.4 (the Buddha's story of the blind men and the elephant, also told by Jain teachers to explain anekantavada, many-sidedness)",
     "teaching": "Several blind men each touch one part of an elephant. One says an elephant is like a pillar, and another says like a fan. Each is right about his part, and wrong to think it is the whole.",
-    "link": "One scientist touches the virus particle and says 'a chemical'. Another touches the infected cell and says 'alive'. Each definition of life describes one side of the same thing correctly."
+    "link": "One scientist touches the virus particle and says 'a chemical'. Another touches the infected cell and says 'alive'. Each definition of life describes one side of the same thing correctly.",
+    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    },
    {
     "source": "Tao Te Ching, chapter 1 (paraphrased)",
     "teaching": "The name that can be spoken is not the lasting name. Names are how we divide the world into ten thousand things.",
-    "link": "The word 'alive' was in use long before anyone had seen a cell or a virus. The world did not promise to fit the word. A virus shows us where the word runs out."
+    "link": "The word 'alive' was in use long before anyone had seen a cell or a virus. The world did not promise to fit the word. A virus shows us where the word runs out.",
+    "verse": ["道可道，非常道，名可名，非常名。"],
+    "verse_lang": "zh"
    },
    {
     "source": "J.C. Bose, Response in the Living and Non-Living (1902)",
