@@ -5462,6 +5462,13 @@ header.top .iconbtn {
   box-shadow: none !important;
   border: 1.5px solid var(--rule);
 }
+.fxverse {
+  margin: 0;
+  padding: 4px 0 4px 10px;
+  border-left: 3px solid var(--rule);
+  font-weight: 600;
+  line-height: 1.5;
+}
 .fxtruth {
   padding: 8px 12px;
   margin: 10px 0;

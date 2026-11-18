@@ -111,7 +111,7 @@ We have named our relatives, counted every minute of home work in one evening, a
 
 A home is many people doing many jobs: one cooks, one washes, one carries the baby, one earns money. Each job needs the others. A pair of crows building a nest, a group of babblers feeding chicks and a family sharing dinner are all care, done by many hands.
 
-- **Tirukkural 101:** Help given to you when you had done nothing for the helper is so great that even the earth and the sky together cannot repay it. (Most of the minutes in the Home Work Count are help of this kind. They are given every day, and the person who receives them, often a child, has done nothing to earn them.)
+- **Tirukkural 101:** “செய்யாமல் செய்த உதவிக்கு வையகமும் / வானகமும் ஆற்றல் அரிது.” Help given to you when you had done nothing for the helper is so great that even the earth and the sky together cannot repay it. (Most of the minutes in the Home Work Count are help of this kind. They are given every day, and the person who receives them, often a child, has done nothing to earn them.)
 - **Taittiriya Upanishad 1.11:** A teacher tells students who are leaving: treat your mother as a god, treat your father as a god, treat your teacher as a god, treat your guest as a god. (The mother is named first. In many homes, as the Home Work Count shows, the rest of the day depends on her work.)
 - **Ubuntu, a teaching of the Nguni-speaking peoples of southern Africa:** A person is a person through other people. (Nobody grows up alone. Human children, like jungle babbler chicks, are raised by many helpers.)
 - Science (settled): Countries leave unpaid home work and care out of their income figures. They measure it separately, with time use surveys.

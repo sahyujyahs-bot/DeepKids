@@ -169,7 +169,7 @@ In this unit you measure the push of water at different depths, and watch water 
 
 Gravity pulls on every bit of water, and the water below must hold up the water above. So the push grows with depth, and it is the same in every direction at one depth. A bottle, a dam and a hose all follow this one rule. Water that can flow freely settles to one level, because it keeps moving until the push is equal at equal depths.
 
-- **Thirukkural 396, by Thiruvalluvar:** The deeper you dig in sandy ground, the more water springs up. In the same way, the more you learn, the more knowledge springs up in you. Scholars do not agree on the date of the Kural, and some place it about two thousand years ago. (In a well, the deeper the water is, the harder it pushes at the bottom. This is the same rule you saw in the Three Jets experiment. More depth means more push.)
+- **Thirukkural 396, by Thiruvalluvar:** “தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக் / கற்றனைத் தூறும் அறிவு.” The deeper you dig in sandy ground, the more water springs up. In the same way, the more you learn, the more knowledge springs up in you. Scholars do not agree on the date of the Kural, and some place it about two thousand years ago. (In a well, the deeper the water is, the harder it pushes at the bottom. This is the same rule you saw in the Three Jets experiment. More depth means more push.)
 - **Tao Te Ching, chapter 66:** The rivers and the seas are lords of the valley streams because they are good at staying below them. So the streams flow to them. (Water always runs down to the lowest place, and the deepest water there pushes hardest. The sea is the lowest place, and all rivers find their way to it.)
 - Science (settled): The pressure in a liquid grows with depth, and at one depth it is the same in every direction.
 - Science (settled): A change of pressure at one place in a closed liquid is passed on equally to every other place.
@@ -662,8 +662,8 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 
 ## Videos
 - **Easy science experiment: Understanding water pressure** (NJ.com, 3 min) id `xWDOGNIOGDw`: To see jets of water leave a bottle with holes at different heights, and to hear why the lowest jet is the strongest. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
-- **How a hydraulic system works: Pascal's principle for children** (to be found, 5 min) id `to find`: To see a push travel through a liquid in a closed pipe, and how a small push lifts a heavy load. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
-- **How the pressure under the sea changes with depth** (to be found, 5 min) id `to find`: To see what happens to soft objects and sealed containers when they are taken deep underwater. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **How a hydraulic system works: Pascal's principle for children** (to be found, 5 min) id `42dtoqUKY8I`: To see a push travel through a liquid in a closed pipe, and how a small push lifts a heavy load. *Check:* Found by YouTube search: How a hydraulic jack works (3D Animation | Pascal Principle), ScienceWorld Title checked automatically; a parent may still preview it.
+- **How the pressure under the sea changes with depth** (to be found, 5 min) id `0B0EhuxJsts`: To see what happens to soft objects and sealed containers when they are taken deep underwater. *Check:* Found by YouTube search: The Science of Water Pressure | History, HISTORY Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What does the push of water at a point depend on?  

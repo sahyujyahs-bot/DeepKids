@@ -81,7 +81,7 @@ Water soaks into poha, dal and soil, and every animal drinks in their own way. N
 
 Rain falls on the land. Some goes into a river, some into a well, some into a tulsi pot. From there it goes into a crow, a cow, a pot of rice and you. The same water does many jobs, because it can get inside so many different things.
 
-- **Thirukkural 20, by Thiruvalluvar:** The world cannot go on without water, and without rain, the right order of life cannot go on. (Every job we found for water, from drinking to cooking to the crow's bowl, starts with rain filling our rivers and wells.)
+- **Thirukkural 20, by Thiruvalluvar:** “நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும் / வான்இன்று அமையாது ஒழுக்கு.” The world cannot go on without water, and without rain, the right order of life cannot go on. (Every job we found for water, from drinking to cooking to the crow's bowl, starts with rain filling our rivers and wells.)
 - **Tao Te Ching, chapter 8:** The highest goodness is like water. Water helps all living things, and does not fight with them. It goes to the low places that others avoid. (Water helps everyone who needs it: the poha in the pot, the tulsi, the crow and you.)
 - Science (settled): More than half of your body is water. You lose some every day in your breath, sweat and urine, so you need to drink every day.
 - Science (open): Plants sense dry soil, close their leaf pores and grow roots towards water. What thirst feels like for a plant, nobody knows yet.

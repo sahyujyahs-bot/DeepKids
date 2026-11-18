@@ -181,7 +181,7 @@ Every test in this unit gave a spread. The same ball, strips from the same roll 
 
 - **Heraclitus of Ephesus, a Greek thinker of about 500 BCE (reported by later writers):** Heraclitus is reported to have said that you cannot step into the same river twice, because new water keeps flowing past whoever steps in. (The same ball dropped from the same hand is a different drop each time. The pattern stays the same, but each drop is new.)
 - **Richard Feynman, in a talk to graduates at Caltech, 1974:** The first principle is that you must not fool yourself, and you are the easiest person to fool. (A blind test with secret codes is a way of not fooling yourself. It stops your hopes from changing the result.)
-- **Thiruvalluvar, Tirukkural, couplet 423:** Whatever is said, and whoever says it, wisdom is to find the truth in it. (An advert, a famous scientist and your own guess are all just claims until a fair test is done.)
+- **Thiruvalluvar, Tirukkural, couplet 423:** “எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள் / மெய்ப்பொருள் காண்ப தறிவு.” Whatever is said, and whoever says it, wisdom is to find the truth in it. (An advert, a famous scientist and your own guess are all just claims until a fair test is done.)
 - Science (settled): Every measurement has some spread. The spread within a group is measured and reported in every science, from chemistry to medicine.
 - Science (debated): Whether the smallest events in nature are truly random, or hide a pattern we cannot yet see, is argued by physicists.
 - Science (settled): Variation inside a group of living beings is the raw material of evolution, as Charles Darwin described in 1859.

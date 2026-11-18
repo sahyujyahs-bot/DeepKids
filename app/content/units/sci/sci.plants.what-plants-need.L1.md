@@ -75,7 +75,7 @@ In Three Plates of Methi, the methi grew yellow in the dark and green in the lig
 The Sun lights the methi, and the methi turns green. The Sun lights your eyes, and you see colours. The Sun lights your skin, and your skin slowly darkens. Each of us senses the light and reacts to it in our own way.
 
 - **Rig Veda 1.115.1:** The Sun is the self of all that moves and all that stays still. (The teaching says the Sun is the self of everything that moves, like animals, and everything that stays still, like plants. Plants stay in one place, yet they use the Sun's light to grow and make food. Humans and other animals, who move, eat what plants make.)
-- **Thirukkural 16, by Thiruvalluvar:** Unless drops of rain fall from the sky, not even a blade of green grass will be seen. (Plate 1 in Three Plates of Methi showed this. With no water, the methi seeds did not sprout at all.)
+- **Thirukkural 16, by Thiruvalluvar:** “விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே / பசும்புல் தலைகாண்பு அரிது.” Unless drops of rain fall from the sky, not even a blade of green grass will be seen. (Plate 1 in Three Plates of Methi showed this. With no water, the methi seeds did not sprout at all.)
 - Science (settled): Plants have light sensors in their leaves, stems and roots. These tell a sprout if there is light, and what colour the light is.
 - Science (open): Plants feel light. What that feeling is like for a plant, nobody knows yet.
 - Other view, Many plant scientists: Many plant scientists say the methi turns green because light flips a chemical switch inside the sprout. The switch works the same way every time, so they call it a response, not a choice.
@@ -363,7 +363,7 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
    **Answer:** Water. *Why:* Droopy leaves and dry soil mean the plant is short of water. A drink will help the leaves stand up again.
 
 ## Videos
-- **A time-lapse of sprouts grown in the dark turning green in the light** (, 2 min) id `to find`: Shows in a minute what the yellow sprouts on plate 3 of Three Plates of Methi do in a day: they turn green. *Check:* Find a real video of yellow seedlings greening in light. Check it shows sprouts, not grown plants.
+- **A time-lapse of sprouts grown in the dark turning green in the light** (, 2 min) id `UTp4fK8BRnQ`: Shows in a minute what the yellow sprouts on plate 3 of Three Plates of Methi do in a day: they turn green. *Check:* Found by YouTube search: Growing Broccoli Sprouts - Do they need to be kept in the dark for the first 4 days?  An Experiment, Tikki O. Title checked automatically; a parent may still preview it.
 - **A time-lapse of a wilted plant coming back to life after watering** (No, you can't have your wasted watching time back, 2 min) id `SNueDB29cwM`: Shows what water does for a thirsty plant. *Check:* Found by search: "Timelapse: Plant resurrected by water!" by No, you can't have your wasted watching time back, 2 minutes. A parent may preview it.
 - **Photosynthesis for kids: how plants make food from sunlight** (Free School, 5 min) id `XCzFE0SB2N4`: A short, simple picture of leaves making food with light, air and water. *Check:* Found by search: "Photosynthesis for Kids - Introduction to Photosynthesis for Children: FreeSchool" by Free School, 5 minutes. A parent may preview it.
 

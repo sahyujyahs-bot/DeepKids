@@ -84,7 +84,7 @@ In the Squeeze Test, water dripped out of a cucumber, and we found that some foo
 The water in a cucumber was rain once. The rain soaked into the soil. Then a cucumber plant stored that water in their fruit. You eat the cucumber, and the water becomes part of you. Then it leaves you in your sweat and breath, and rises to make clouds again.
 
 - **Taittiriya Upanishad 3.2:** The sage Bhrigu thought hard about where living beings come from. He understood that living beings are born from food, live by food, and go back into food. (Your body is built from what you eat and drink. Even the water in you came in through your food and your tumbler.)
-- **Thirukkural 12, by Thiruvalluvar:** Rain grows the food that people eat. Rain is also a drink for them. (Rain grew the cucumber, and the water that drips from it is that rain.)
+- **Thirukkural 12, by Thiruvalluvar:** “துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத் / துப்பாய தூஉம் மழை.” Rain grows the food that people eat. Rain is also a drink for them. (Rain grew the cucumber, and the water that drips from it is that rain.)
 - Science (settled): A cucumber is about 95 parts water out of 100. The water is held in tiny living cells, and it keeps the cucumber firm and crisp.
 - Science (open): When your body is short of water, a small part of your brain senses it and makes you feel thirsty. Exactly how thirst switches off so fast when you drink is still being studied.
 - Other view, Many doctors and nutrition scientists: Some doctors say a thirsty child should drink water first. A few slices of cucumber or watermelon hold much less water than a tumbler does.
@@ -367,7 +367,7 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
    **Answer:** Plain water. *Why:* Plain water has no sugar. Rose milk has sugar stirred in, and most packet juices have sugar added or are naturally very sweet.
 
 ## Videos
-- **A slow-motion or close-up video of water inside a cucumber or watermelon** (, 2 min) id `to find`: Shows how juicy plant foods hold water in tiny cells. *Check:* Find a real, accurate close-up video. Check it does not claim exact numbers it cannot show.
+- **A slow-motion or close-up video of water inside a cucumber or watermelon** (, 2 min) id `jw2Pzrm-F2A`: Shows how juicy plant foods hold water in tiny cells. *Check:* Found by YouTube search: Cucumber in Water | Slo Mo, Ryan Woods Title checked automatically; a parent may still preview it.
 - **Why do we get thirsty? A short explainer for children** (It's AumSum Time, 5 min) id `7IoFmGD2yN8`: Shows that the body loses water all day and that thirst asks for more. *Check:* Found by search: "Why do we get Thirsty? | #aumsum #kids #education #science" by It's AumSum Time, 5 minutes, 29 seconds. A parent may preview it.
 - **Cavities with Dr. Binocs: how sweet things harm teeth** (Peekaboo Kidz, 5 min) id `3ZHYQ6f1BhU`: Shows why lots of sweet food and drink is hard on teeth. *Check:* Found by search: "Cavities - The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz" by Peekaboo Kidz, 4 minutes, 42 seconds. A parent may preview it.
 

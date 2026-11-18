@@ -99,7 +99,7 @@ In one day you felt sleepy, happy, cross and calm. The same child noticed each f
 
 - **Bhagavad Gita 2.14:** Krishna tells Arjuna that heat and cold, joy and sorrow, come from the senses meeting the world. They come and they go, and they do not last. So bear them patiently. (My Feelings Chart showed the same thing: joy and sorrow came and went in one day. Waiting patiently with a feeling lets it change.)
 - **Dhammapada, verse 5:** Hatred is never ended by more hatred. It is ended only by letting go of hatred. (Scientists found the same about anger: hitting and shouting keep anger going. Calming down lets it go.)
-- **Tirukkural 303, by Thiruvalluvar:** Let go of anger towards anyone, because harmful things come from it. (Anger is a normal feeling. But when we act on it by hitting or shouting, we and other people get hurt. Letting it settle first helps everyone.)
+- **Tirukkural 303, by Thiruvalluvar:** “மறத்தல் வெகுளியை யார்மாட்டும் தீய / பிறத்தல் அதனான் வரும்.” Let go of anger towards anyone, because harmful things come from it. (Anger is a normal feeling. But when we act on it by hitting or shouting, we and other people get hurt. Letting it settle first helps everyone.)
 - Science (settled): Calming the body, with slow breathing or relaxing, makes anger smaller. Hitting things while angry usually keeps anger going. More than 150 studies show this.
 - Science (open): Naming a feeling often makes it a little smaller. Exactly why is still being studied.
 - Other view, Many counsellors and child doctors: Waiting for a feeling to pass is not always enough. A sad or angry feeling often means something really is wrong, like unfair treatment or a lost friend. Then the problem needs fixing, or the feeling keeps coming back.

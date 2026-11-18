@@ -148,7 +148,7 @@ In this unit, bean leaves rise and fall, jasmine opens in the evening and swallo
 
 The Earth spins once a day and goes round the Sun once a year. Living things keep time with these two rhythms in many ways. The bean lifts their leaves, the jasmine opens in the evening, the swallow leaves the north, the coral waits for the full moon, and you wake up. Each keeps their own time, but all of them follow the same turning Earth.
 
-- **Tirukkural 481 (chapter 49, on knowing the right time):** In the daytime, a crow can defeat an owl. A king who wants to win must also choose the right time. (The crow is diurnal and the owl is nocturnal. Each is strong at their own hour. The Kural saw a daily rhythm in animals and drew a lesson about timing from it.)
+- **Tirukkural 481 (chapter 49, on knowing the right time):** “பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும் / வேந்தர்க்கு வேண்டும் பொழுது.” In the daytime, a crow can defeat an owl. A king who wants to win must also choose the right time. (The crow is diurnal and the owl is nocturnal. Each is strong at their own hour. The Kural saw a daily rhythm in animals and drew a lesson about timing from it.)
 - **Ecclesiastes 3:1, the Bible:** To every thing there is a season, and a time to every purpose under the heaven. (Sevanthi flowers in the long nights, swallows come in the cold months and termites fly after the first rain. Each living thing acts at their own time.)
 - Science (settled): Plants, animals, fungi and many bacteria have body clocks of about 24 hours, made by genes in a loop. Light resets them each day.
 - Science (debated): Plants feel the length of the night and use it to decide when to flower. Some scientists call this an automatic response.

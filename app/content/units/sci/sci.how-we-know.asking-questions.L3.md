@@ -126,7 +126,7 @@ Your drawings from the Brown Apple Watch show the same slice at different moment
 
 - **Heraclitus, fragment B91 (Diels-Kranz numbering), about 500 BCE:** You cannot step into the same river twice. (A river looks the same from day to day, but the water in it is always new. The apple slice looked the same from minute to minute, but it was always changing.)
 - **Dhammapada, verse 277:** All made things are impermanent. When one sees this with wisdom, one turns away from suffering. (The Buddha taught that nothing made stays the same. The apple, the banana and the new star of 1572 all show it, each at its own speed.)
-- **Tirukkural 423:** Whatever is said, by whoever says it, wisdom is to find the truth in it. (Aristotle was famous, but Tycho checked the sky for himself. In the apple test, your own record, not anyone's say-so, tells you what happened.)
+- **Tirukkural 423:** “எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள் / மெய்ப்பொருள் காண்ப தறிவு.” Whatever is said, by whoever says it, wisdom is to find the truth in it. (Aristotle was famous, but Tycho checked the sky for himself. In the apple test, your own record, not anyone's say-so, tells you what happened.)
 - Science (settled): Many changes are too slow for our eyes. Time-lapse photos and long records let scientists see them.
 - Science (settled): Stars are born, change and die over millions or billions of years. A supernova is the sudden end of some stars.
 - Other view, Parmenides, a thinker in ancient Greece: Parmenides argued the opposite of Heraclitus. He said that what truly is cannot change, and that change is something our senses only seem to show us.

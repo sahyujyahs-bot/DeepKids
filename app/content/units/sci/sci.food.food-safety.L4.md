@@ -172,7 +172,7 @@ Your lunch is a meal for you and for a crowd of beings too small to see. In your
 
 - **Chandogya Upanishad 6.5:** When food is eaten, it divides into three parts. The coarsest part leaves the body, the middle part builds the body, and the finest part builds the mind. Mind is made of food. (Food builds your body when you eat it. The same food builds a million microbes if they reach it first and it is kept warm.)
 - **Quran 2:168:** Eat of what the earth gives that is lawful and good. (The word translated as good means wholesome and pure. Food that is good is not only tasty, but safe to eat.)
-- **Tirukkural 942:** A person needs no medicine if they eat only after the last meal has been digested. (Timing is part of health. In this unit we learned that timing matters for food too, since cooked food that waits many hours in the warmth becomes a home for microbes.)
+- **Tirukkural 942:** “மருந்தென வேண்டாவாம் யாக்கைக்கு அருந்தியது / அற்றது போற்றி உணின்.” A person needs no medicine if they eat only after the last meal has been digested. (Timing is part of health. In this unit we learned that timing matters for food too, since cooked food that waits many hours in the warmth becomes a home for microbes.)
 - Science (settled): Most of the bacteria in the human gut are harmless or helpful, and the body holds roughly as many bacterial cells as human cells.
 - Science (open): How much the mix of gut microbes affects mood, weight and long-term illness is being studied, and many claims are not yet proven.
 - Other view, Many public health experts: However we think about microbes, the kitchen rules stay simple and strict. Keep microbes out of food that will not be cooked. Keep food out of the danger zone. Wash hands. Thinking that microbes are only doing what living beings do must never make us careless, since people have died of food poisoning.
@@ -705,7 +705,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 ## Videos
 - **How soap kills the coronavirus** (Vox, 4 min) id `-LKVUarhtvE`: To see how soap molecules lift oil and microbes off a surface. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How FDA Investigates Foodborne Illness Outbreaks** (U.S. Food and Drug Administration, 4 min) id `EeJwvAdJ-JU`: To see a real who-ate-what investigation, like the one in the story The Picnic Table. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
-- **How bacteria multiply in food and why temperature matters** (to be found, 4 min) id `to find`: To see bacteria dividing and the danger zone of temperature. *Check:* Not yet found. Find one, watch it, and check it is accurate before adding it.
+- **How bacteria multiply in food and why temperature matters** (to be found, 4 min) id `et_6QwJi5bQ`: To see bacteria dividing and the danger zone of temperature. *Check:* Found by YouTube search: Bacterial Growth, MSU Extension Produce Safety Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) Which of these is a physical food hazard?  

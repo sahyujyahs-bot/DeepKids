@@ -185,7 +185,7 @@ Living things change the world around them. Yeast change the air in a bottle. Pl
 
 - **Chandogya Upanishad 6.12 (the banyan seed):** Uddalaka asks his son Svetaketu to break open a banyan fruit, and then a seed inside the fruit. 'What do you see?' 'Nothing, sir.' 'This great banyan tree grows from that fine thing you cannot see.' (We cannot see yeast, but a swollen balloon shows they are there. The unseen shows itself by what it does.)
 - **Kalama Sutta, Anguttara Nikaya 3.65 (Buddhist):** Do not accept something only because of report, tradition or hearsay. When you know for yourselves what is good and what is harmful, then act on it. (A news story that says 'signs of life found' should be checked. Scientists ask what was observed and what was only guessed.)
-- **Thirukkural 423:** Whatever the matter, and whoever says it, wisdom is to find the true meaning in it. (A claim about life in space might come from a famous person or from a child. The test is the evidence, not the speaker.)
+- **Thirukkural 423:** “எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள் / மெய்ப்பொருள் காண்ப தறிவு.” Whatever the matter, and whoever says it, wisdom is to find the true meaning in it. (A claim about life in space might come from a famous person or from a child. The test is the evidence, not the speaker.)
 - Science (settled): Living things change the gases around them, and these changes can be measured. On Earth, plants and microbes keep both oxygen and methane in the air, though these two gases react with each other and would otherwise disappear.
 - Science (idea): A mix of gases that would not last together may be a sign of life on a far planet. Scientists are testing how often non-living chemistry can fake it.
 - Science (open): Whether life exists on any world beyond Earth is not known.
@@ -701,9 +701,9 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
    **Answer:** Big instruments and many teams can check it in ways a rover cannot. *Why:* Laboratories on Earth have larger and more exact instruments than a rover can carry, and many teams can check the same sample. This is how a claim can be tested.
 
 ## Videos
-- **How astronomers find planets around other stars** (to be found, 5 min) id `to find`: To see how the dip in a star's light reveals a planet, and how the colours of starlight show the gases in a planet's air. *Check:* Not yet found. Find a short film from a space agency or science channel, watch it, and check that it is accurate before adding it.
-- **Life at deep-sea vents, without sunlight** (to be found, 5 min) id `to find`: To see tube worms, crabs and bacteria that live on chemicals at hot vents on the dark sea floor. *Check:* Not yet found. Find one, watch it, and check that it explains chemosynthesis correctly before adding it.
-- **Could life live on Enceladus or Europa?** (to be found, 6 min) id `to find`: To see the plumes of Enceladus and the ocean under Europa's ice, and hear what scientists hope to find. *Check:* Not yet found. Find one from a space agency, watch it, and check that it is accurate and up to date before adding it.
+- **How astronomers find planets around other stars** (to be found, 5 min) id `STsI6IbPbGQ`: To see how the dip in a star's light reveals a planet, and how the colours of starlight show the gases in a planet's air. *Check:* Found by YouTube search: How to find a planet you can’t see, Vox Title checked automatically; a parent may still preview it.
+- **Life at deep-sea vents, without sunlight** (to be found, 5 min) id `A6fcNHh3gLQ`: To see tube worms, crabs and bacteria that live on chemicals at hot vents on the dark sea floor. *Check:* Found by YouTube search: Life Without Sunlight: Hydrothermal Vents & Chemosynthesis 🌊🦠, Microbiology Videos Title checked automatically; a parent may still preview it.
+- **Could life live on Enceladus or Europa?** (to be found, 6 min) id `QAj9DANPZHU`: To see the plumes of Enceladus and the ocean under Europa's ice, and hear what scientists hope to find. *Check:* Found by YouTube search: "We Found New Evidence of Life on Saturns Moon Enceladus by Astrum". Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) Which three things does a world need before life as we know it can live there?  

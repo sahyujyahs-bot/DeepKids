@@ -183,7 +183,7 @@ We have followed oxygen and carbon dioxide through jars, ponds, sugarcane and co
 A pond at dawn shows that the same plants that fill the water with oxygen by day use it up at night. The only difference is the light. Plants and animals are not two teams, with one giving and one taking. Both belong to the same flow of carbon and oxygen, and what one gives out, another takes in. Sorting living things into givers and takers is our habit. The pond, the jars of cabbage water and the carbon cycle all show one flow that every living thing is part of. Light only decides which way the balance tips at that moment.
 
 - **Bhagavad Gita 3.14 to 3.16:** Beings live on food, food comes from rain, and everything gives back to keep the great wheel turning. The Gita says that someone who only takes from the wheel and does not help it turn lives in vain. (The carbon cycle is a wheel like this. A leaf takes carbon dioxide from the air, and an animal gives carbon dioxide back. Nothing in the wheel only takes.)
-- **Thirukkural 12, Thiruvalluvar:** Thiruvalluvar, the Tamil poet, wrote that rain makes the food for those who eat, and the rain is also itself a part of the food. (Water falls as rain, rises in a leaf, and goes back into the air. The rain is both what feeds the plant and a part of the plant.)
+- **Thirukkural 12, Thiruvalluvar:** “துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத் / துப்பாய தூஉம் மழை.” Thiruvalluvar, the Tamil poet, wrote that rain makes the food for those who eat, and the rain is also itself a part of the food. (Water falls as rain, rises in a leaf, and goes back into the air. The rain is both what feeds the plant and a part of the plant.)
 - Science (settled): Plants and algae both photosynthesise and respire, and the light decides whether the plant gives out or takes in oxygen overall.
 - Science (debated): Whether photorespiration is mainly a waste or has real uses is still argued about.
 - Science (open): Whether rice can be given a carbon dioxide pump like sugarcane's is unknown.
@@ -723,7 +723,7 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
 
 ## Videos
 - **Photosynthesis and Cellular Respiration - Energy Cycle of Life** (Point Source Science, 5 min) id `BsVIPnIeYFs`: To see photosynthesis and respiration drawn side by side, and where each happens in a cell. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
-- **Why do fish gasp at dawn? Oxygen in a pond** (to be found, 4 min) id `to find`: To see a graph of the oxygen in a pond over a day and a night, and what fish farmers do about it. *Check:* Not yet found. Find one, watch it, and check that it shows the dawn low and not just the daytime high.
+- **Why do fish gasp at dawn? Oxygen in a pond** (to be found, 4 min) id `UF-TymWpV8M`: To see a graph of the oxygen in a pond over a day and a night, and what fish farmers do about it. *Check:* Found by YouTube search: Why Your Pond Fish Are Gasping — Check This Before Feeding Them, Scott Miller Title checked automatically; a parent may still preview it.
 - **T.W.Engelmann's experiment** (BioVerse , 3 min) id `kmr5-fevQG8`: To see the 1882 experiment that used bacteria to show which colours of light work best. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz

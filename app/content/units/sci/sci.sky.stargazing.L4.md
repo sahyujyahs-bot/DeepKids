@@ -156,7 +156,7 @@ Your two eyes look at the same pencil and see it in slightly different places ag
 
 - **Rig Veda 1.164.46:** Truth is one. The wise speak of it in many ways. (Two eyes, or two points in the Earth's orbit, see one star in slightly different places. Putting the views together gives the one distance.)
 - **Udana 6.4 (the story of the blind men and the elephant):** Blind men each touched a different part of an elephant. One said it was like a pot, one like a fan, one like a plough. They began to quarrel, each sure that the others were wrong. (Each view was true of one part. The Jump of Your Thumb experiment shows that the difference between two views is useful, and that the whole picture is built from several views.)
-- **Tirukkural 423:** Whatever the thing, whoever says it, to see the truth in it is wisdom. (In the Jump of Your Thumb experiment, the second eye does not contradict the first. It adds what the first could not show.)
+- **Tirukkural 423:** “எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள் / மெய்ப்பொருள் காண்ப தறிவு.” Whatever the thing, whoever says it, to see the truth in it is wisdom. (In the Jump of Your Thumb experiment, the second eye does not contradict the first. It adds what the first could not show.)
 - Science (settled): Parallax gives the distance to nearby stars, and it has been measured for well over a billion stars by the Gaia spacecraft.
 - Science (debated): Polynesian navigators could cross the open Pacific on purpose using stars, swells and birds. How the first settlers did it is argued about.
 - Science (open): Whether the Lascaux paintings show the Pleiades is not known.
@@ -641,7 +641,7 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 ## Videos
 - **How far away is that star?  Understanding parallax** (Haberdashers' Adams Astronomy, 5 min) id `qLKWVR5__Ng`: To see parallax explained with a thumb or a pencil and then with the Earth's orbit and a real star, which matches the Jump of Your Thumb experiment. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Star Trails around Polaris** (jamescastelli, 2 min) id `XTTDWhky9HY`: To see a time-lapse of the night sky turning round the Pole Star, with arcs of star trails building up, which matches the Turning Sky experiment. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
-- **Hokule'a and the navigators of the Pacific** (to be found, 8 min) id `to find`: To see how traditional navigators steer by stars, swells and birds, and how the Hokule'a voyage of 1976 showed that it can be done without instruments. *Check:* Not yet found. Find one made by the Polynesian Voyaging Society or a good documentary, watch it, and check the 1976 voyage dates and the name of the navigator before adding it.
+- **Hokule'a and the navigators of the Pacific** (to be found, 8 min) id `m8bDCaPhOek`: To see how traditional navigators steer by stars, swells and birds, and how the Hokule'a voyage of 1976 showed that it can be done without instruments. *Check:* Found by YouTube search: How did Polynesian wayfinders navigate the Pacific Ocean? - Alan Tamayose and Shantell De Silva, TED-Ed Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) A photograph of the northern sky is taken with the camera open for one hour. Each star leaves an arc. What part of a full circle is each arc?  

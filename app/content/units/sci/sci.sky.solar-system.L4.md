@@ -145,7 +145,7 @@ We have looked at craters, layers, air, orbits and the long delays of light. Now
 
 A planet is not only a place. It is also everything that has happened to it, and things are still happening. The Moon is like a diary where every old entry is still there. The Earth is like a diary that keeps being rewritten. Its rain smooths out its craters, its plates carry old rock down and push new rock up, and its living things turn old material into new forms. The Moon keeps its craters only because nothing there changes them. The Earth loses its craters because so much is still going on there. So a surface tells you how active its world still is.
 
-- **Tirukkural 336:** The greatness of this world is that someone who was here yesterday is gone today. (The Earth wipes out its craters as it wipes out everything, and keeps changing. Only a world that stays still can keep its past.)
+- **Tirukkural 336:** “நெருநல் உளனொருவன் இன்றில்லை என்னும் / பெருமை உடைத்துஇவ் வுலகு.” The greatness of this world is that someone who was here yesterday is gone today. (The Earth wipes out its craters as it wipes out everything, and keeps changing. Only a world that stays still can keep its past.)
 - **Dhammapada 277:** All conditioned things are impermanent. When one sees this with wisdom, one turns away from suffering. (Even a planet is not permanent. The Moon's craters last a long time, but the Sun, the planets and the Moon itself had a beginning, and will have an end.)
 - **Rig Veda 10.129.6:** Who really knows, and who can say here, where this creation came from? (Scientists have a good idea of how the planets formed, but they still argue about the details, such as how the giants grew. The hymn asks the question in the same spirit.)
 - Science (settled): The more craters a surface has, the older it is. Counting craters is a main way to date planets and moons.
@@ -612,7 +612,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 ## Videos
 - **To Scale: THE SOLAR SYSTEM** (To Scale:, 7 min) id `zR3Igc3Rhfg`: A group of friends lay out a true-scale solar system in a desert with the Earth as a marble. It shows the real gaps between the planets, and goes well with the Walk the Solar System activity. *Check:* Id and title were confirmed through YouTube's public lookup when an earlier unit was written. Not watched from here: a parent should preview it.
 - **Structure of the Earth - GCSE Physics** (Launchpad Learning, 5 min) id `ErtwjhH0dho`: To see how earthquake waves bend and stop deep inside the Earth, and how this shows a liquid outer core and a solid inner core. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
-- **India's Mars Orbiter Mission, Mangalyaan** (to be found, 6 min) id `to find`: To see how India's first Mars spacecraft was built and steered, and how the team managed the long delay in messages. *Check:* Not yet found. Find one made by ISRO or a news channel, watch it, and check the dates and the time delay before adding it.
+- **India's Mars Orbiter Mission, Mangalyaan** (to be found, 6 min) id `LW4PLbguuE8`: To see how India's first Mars spacecraft was built and steered, and how the team managed the long delay in messages. *Check:* Found by YouTube search: What Did India’s Mars Orbiter Mission See On Mars? | MOM Mangalyaan ISRO, Astrum Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) Which pair correctly describes the two kinds of planet in the solar system?  

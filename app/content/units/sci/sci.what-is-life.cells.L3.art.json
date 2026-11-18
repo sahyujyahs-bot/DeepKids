@@ -219,9 +219,17 @@
   "src": "media/img/sci.what-is-life.cells.L3/story.0.jpg",
   "drawn": true
  },
+ "story.2": {
+  "src": "media/img/sci.what-is-life.cells.L3/story.2.jpg",
+  "credit": "Illustration made with OpenArt (Seedream 4.5) from a DeepKids brief"
+ },
  "story.3": {
   "src": "media/img/sci.what-is-life.cells.L3/story.3.jpg",
   "drawn": true
+ },
+ "story.4": {
+  "src": "media/img/sci.what-is-life.cells.L3/story.4.jpg",
+  "credit": "Illustration made with OpenArt (Seedream 4.5) from a DeepKids brief"
  },
  "story.5": {
   "src": "media/img/sci.what-is-life.cells.L3/story.5.jpg",

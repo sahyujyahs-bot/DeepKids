@@ -92,7 +92,7 @@ In the Biscuit Test, we looked into our own mouths and found where food stays af
 
 One meal feeds many lives at once. The rice on your plate feeds you, and the crumbs left on your teeth feed the bacteria in your mouth. Your body is a home where many kinds of tiny living beings live. Keeping clean does not remove all of them. It keeps their numbers small, and keeps the harmful kinds out of your mouth.
 
-- **Thirukkural 298, by Thiruvalluvar:** Water makes the outside of the body clean. Truthfulness makes the inside clean. (Thiruvalluvar knew that water cleans the outside of the body. In the white cloth test, the bath water carried away dust we could not even see.)
+- **Thirukkural 298, by Thiruvalluvar:** “புறந்தூய்மை நீரான் அமையும் அகந்தூய்மை / வாய்மையால் காணப் படும்.” Water makes the outside of the body clean. Truthfulness makes the inside clean. (Thiruvalluvar knew that water cleans the outside of the body. In the white cloth test, the bath water carried away dust we could not even see.)
 - **Thich Nhat Hanh, Present Moment Wonderful Moment (1990), the verse for turning on the water:** Water flows from high in the mountains, and runs deep in the Earth. It comes to us, and keeps all life going. (The water in your tap came a long way, from rain and rivers, before it washed your hands. Every time you wash your hands, you use that water.)
 - Science (settled): Scientists have found more than 700 kinds of bacteria in human mouths. One person carries many dozens of kinds at a time.
 - Science (open): Bacteria send each other chemical signals, and build a sticky layer like plaque when there are many of them. How they do this together in a real mouth is still being worked out.
