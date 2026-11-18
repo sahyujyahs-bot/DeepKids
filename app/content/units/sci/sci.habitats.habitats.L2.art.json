@@ -15,6 +15,10 @@
   "src": "media/img/sci.habitats.habitats.L2/expl.4.jpg",
   "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
  },
+ "expl.5": {
+  "src": "media/img/sci.habitats.habitats.L2/expl.5.jpg",
+  "drawn": true
+ },
  "flow.a1": {
   "src": "media/img/sci.habitats.habitats.L2/flow.a1.jpg",
   "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
@@ -126,6 +130,10 @@
  "term.3": {
   "src": "media/img/sci.habitats.habitats.L2/term.3.jpg",
   "credit": "rajesh rocky, CC BY, via iNaturalist"
+ },
+ "term.5": {
+  "src": "media/img/sci.habitats.habitats.L2/term.5.jpg",
+  "drawn": true
  },
  "term.6": {
   "src": "media/img/sci.habitats.habitats.L2/term.6.jpg",

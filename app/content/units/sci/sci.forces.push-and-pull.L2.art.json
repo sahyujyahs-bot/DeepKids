@@ -1,6 +1,14 @@
 {
+ "expl.1": {
+  "src": "media/img/sci.forces.push-and-pull.L2/expl.1.jpg",
+  "drawn": true
+ },
  "expl.2": {
   "src": "media/img/sci.forces.push-and-pull.L2/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.forces.push-and-pull.L2/expl.3.jpg",
   "drawn": true
  },
  "flow.a1": {
@@ -107,6 +115,10 @@
   "src": "media/img/sci.forces.push-and-pull.L2/setup.p1.1.jpg",
   "drawn": true
  },
+ "term.0": {
+  "src": "media/img/sci.forces.push-and-pull.L2/term.0.jpg",
+  "drawn": true
+ },
  "term.1": {
   "src": "media/img/sci.forces.push-and-pull.L2/term.1.jpg",
   "drawn": true
@@ -118,6 +130,10 @@
  "term.3": {
   "src": "media/img/sci.forces.push-and-pull.L2/term.3.jpg",
   "credit": "NASA, public domain"
+ },
+ "term.5": {
+  "src": "media/img/sci.forces.push-and-pull.L2/term.5.jpg",
+  "drawn": true
  },
  "term.6": {
   "src": "media/img/sci.forces.push-and-pull.L2/term.6.jpg",
