@@ -1,4 +1,28 @@
 {
+ "expl.1": {
+  "src": "media/img/sci.weather.clouds-and-rain.L2/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.weather.clouds-and-rain.L2/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.weather.clouds-and-rain.L2/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.weather.clouds-and-rain.L2/expl.4.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.weather.clouds-and-rain.L2/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.weather.clouds-and-rain.L2/flow.e2.jpg",
+  "drawn": true
+ },
  "intro": {
   "src": "media/img/sci.weather.clouds-and-rain.L2/intro.jpg",
   "credit": "NASA, public domain"
@@ -86,5 +110,33 @@
  "summary": {
   "src": "media/img/sci.weather.clouds-and-rain.L2/summary.jpg",
   "credit": "NASA, public domain"
+ },
+ "term.0": {
+  "src": "media/img/sci.weather.clouds-and-rain.L2/term.0.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.weather.clouds-and-rain.L2/term.1.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.weather.clouds-and-rain.L2/term.2.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.weather.clouds-and-rain.L2/term.3.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.weather.clouds-and-rain.L2/term.4.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.weather.clouds-and-rain.L2/term.5.jpg",
+  "drawn": true
+ },
+ "term.6": {
+  "src": "media/img/sci.weather.clouds-and-rain.L2/term.6.jpg",
+  "drawn": true
  }
 }
