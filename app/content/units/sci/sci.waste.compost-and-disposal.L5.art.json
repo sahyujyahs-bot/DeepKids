@@ -15,6 +15,30 @@
   "src": "media/img/sci.waste.compost-and-disposal.L5/intro.jpg",
   "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"
  },
+ "setup.c1.0": {
+  "src": "media/img/sci.waste.compost-and-disposal.L5/setup.c1.0.jpg",
+  "drawn": true
+ },
+ "setup.c1.1": {
+  "src": "media/img/sci.waste.compost-and-disposal.L5/setup.c1.1.jpg",
+  "drawn": true
+ },
+ "setup.c1.2": {
+  "src": "media/img/sci.waste.compost-and-disposal.L5/setup.c1.2.jpg",
+  "drawn": true
+ },
+ "setup.c2.0": {
+  "src": "media/img/sci.waste.compost-and-disposal.L5/setup.c2.0.jpg",
+  "drawn": true
+ },
+ "setup.c2.1": {
+  "src": "media/img/sci.waste.compost-and-disposal.L5/setup.c2.1.jpg",
+  "drawn": true
+ },
+ "setup.c2.2": {
+  "src": "media/img/sci.waste.compost-and-disposal.L5/setup.c2.2.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.waste.compost-and-disposal.L5/setup.e1.0.jpg",
   "drawn": true
@@ -57,6 +81,18 @@
  },
  "setup.e3.2": {
   "src": "media/img/sci.waste.compost-and-disposal.L5/setup.e3.2.jpg",
+  "drawn": true
+ },
+ "setup.p1.0": {
+  "src": "media/img/sci.waste.compost-and-disposal.L5/setup.p1.0.jpg",
+  "drawn": true
+ },
+ "setup.p1.1": {
+  "src": "media/img/sci.waste.compost-and-disposal.L5/setup.p1.1.jpg",
+  "drawn": true
+ },
+ "setup.p1.2": {
+  "src": "media/img/sci.waste.compost-and-disposal.L5/setup.p1.2.jpg",
   "drawn": true
  },
  "story.0": {
