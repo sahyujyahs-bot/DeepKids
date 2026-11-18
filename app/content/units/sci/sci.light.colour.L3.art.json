@@ -295,6 +295,10 @@
   "src": "media/img/sci.light.colour.L3/term.18.jpg",
   "drawn": true
  },
+ "term.19": {
+  "src": "media/img/sci.light.colour.L3/term.19.jpg",
+  "drawn": true
+ },
  "term.2": {
   "src": "media/img/sci.light.colour.L3/term.2.jpg",
   "drawn": true
@@ -326,5 +330,9 @@
  "term.8": {
   "src": "media/img/sci.light.colour.L3/term.8.jpg",
   "credit": "Jagdish Singh Negi, CC BY, via iNaturalist"
+ },
+ "term.9": {
+  "src": "media/img/sci.light.colour.L3/term.9.jpg",
+  "drawn": true
  }
 }
