@@ -162,7 +162,7 @@
    "concept": "The periodical cicada: seventeen years underground",
    "status": "defined",
    "definition": "A periodical cicada is a cicada whose whole population grows up underground together and comes out in the same year, after a fixed number of years.",
-   "description": "Cicadas are insects that suck plant sap. The males sing loudly. In most kinds of cicada, including the ones you hear in India in summer, some adults come out every year. Seven kinds in the eastern United States are different. A female cuts slits in a twig and lays her eggs there. After six to ten weeks the eggs hatch. The young are called nymphs, and each is smaller than a grain of rice. They drop to the ground and dig down. Each nymph pushes a sucking tube into a tree root and drinks xylem sap. Xylem sap is the watery liquid a tree carries up from its roots. It holds very little food, which is one reason the nymphs grow so slowly. After exactly 17 years, or 13 years for some kinds, the nymphs dig upward. They wait until the soil about 20 centimetres down warms to about 18 degrees Celsius. Then millions come up within a few evenings. Each climbs a tree trunk, splits the old skin down the back and pulls out as a winged adult. The adults sing, mate, lay eggs and die within about a month. All the cicadas of one region that come up in the same year are called a brood.",
+   "description": "Cicadas are insects that suck plant sap. The males sing loudly. In most kinds of cicada, including the ones you hear in India in summer, some adults come out every year. Seven kinds in the eastern United States are different. A female cuts slits in a twig and lays her eggs there. After six to ten weeks the eggs hatch. The young are called nymphs, and each is smaller than a grain of rice. They drop to the ground and dig down. Each nymph pushes a sucking tube into a tree root and drinks xylem sap. Xylem sap is the watery liquid that rises from a tree's roots to the leaves. This sap holds very little food, which is one reason the nymphs grow so slowly. After 17 years, or 13 years for some kinds, the nymphs dig upward. They wait until the soil about 20 centimetres down warms to about 18 degrees Celsius. Then millions come up within a few evenings. Each climbs a tree trunk, splits the old skin down the back and pulls out as a winged adult. The adults sing, mate, lay eggs and die within about a month. All the cicadas of one region that come up in the same year are called a brood.",
    "examples": [
     "India has one known periodical cicada, in the Ri-Bhoi district of Meghalaya. They come out every four years. Sudhanya Ray Hajong and Salmah Yaakop described them for science in 2013, and local people had known the timetable long before.",
     "In 2024, a 13-year brood and a 17-year brood came out in the same spring in the United States. That had last happened in 1803.",
@@ -253,7 +253,7 @@
    "concept": "From fresh water to salt water: the body's salt switch",
    "status": "defined",
    "definition": "Water moves through the thin skin of living cells towards the saltier side. This movement is called osmosis. A salmon's body must handle it one way in a river and the opposite way in the sea.",
-   "description": "A fish's blood is about one third as salty as sea water. River water has almost no salt. In a river, water keeps moving into the fish through the thin skin of the gills. So a river fish does not drink, and passes a lot of watery urine. In the sea, water keeps moving out of the fish into the saltier sea. So a sea fish drinks sea water, and special cells in the gills pump the extra salt out. A salmon lives both ways. Before a young salmon reaches the sea, their gill cells change, so that they pump salt out and no longer take salt in. This change is what makes a smolt. When the adult returns to the river, the gills change back. Most fish can live only one way. A river fish such as a rohu, put into the sea, would lose too much water and die.",
+   "description": "Salt is the main thing here, though sugar and other dissolved substances draw water in the same way. A fish's blood is about one third as salty as sea water. River water has almost no salt. In a river, water keeps moving into the fish through the thin skin of the gills. So a river fish hardly drinks, and passes a lot of watery urine. In the sea, water keeps moving out of the fish into the saltier sea. So a sea fish drinks sea water, and special cells in the gills pump the extra salt out. A salmon lives both ways. Before a young salmon reaches the sea, their gill cells change, so that they pump salt out and no longer take salt in. This change is what makes a smolt. When the adult returns to the river, the gills change back. Most fish can live only one way. A river fish such as a rohu, put into the sea, would lose too much water and die.",
    "examples": [
     "In the Salt Switch, a potato strip in very salty water went soft, because water left the potato's cells.",
     "Your fingers wrinkle in a long bath for a different reason. Nerves tighten the blood vessels under the skin.",
@@ -308,7 +308,7 @@
    "description": "Take a pair of frogs who lay 1,000 eggs. If every egg grew up, there would be 500 pairs. If each of those pairs laid 1,000 eggs, the next generation would have 500,000 frogs, and the one after that 250 million. Growth by multiplying again and again is called exponential growth. Charles Darwin worked this out in 1859 for the slowest breeder he knew, the elephant. He found that one pair would have about 19 million living descendants after about 750 years. But the world is not full of elephants or frogs. So most young of every kind die before they breed. Which ones live is partly luck. It is also partly small differences between them, such as a slightly faster tadpole. Those differences are passed on to the next generation. Darwin's name for this was natural selection.",
    "examples": [
     "A housefly can lay about 500 eggs, and the young can breed within two or three weeks in warm weather. Hunger, cold, spiders and birds keep the numbers down.",
-    "When rabbits were taken to Australia in 1859 and found few predators, they grew to hundreds of millions within about sixty years.",
+    "When wild rabbits were set free in Australia in 1859 and found few predators, their numbers grew to hundreds of millions within about sixty years.",
     "Bacteria in warm milk can double every half hour or so. That is how a spoon of curd sets a whole pot overnight."
    ],
    "perspectives": [],
@@ -1002,7 +1002,7 @@
      "id": "s5",
      "mins": 6,
      "do": "1. Ask your child what will happen with crowds of 5, 10, 20, 40 and 80. 2. Test each crowd size once, for 10 seconds. 3. Write the number eaten and the number left each time.",
-     "say": "Now we change the crowd size step by step. Each crowd is twice the one before, after the first. Will you eat twice as many each time?",
+     "say": "Now we change the crowd size step by step. Each crowd is twice as big as the one before. Will you eat twice as many each time?",
      "kid": "Test crowds of 5, 10, 20, 40 and 80. Ten seconds each. Write what you ate each time.",
      "ask": [
       {
@@ -1222,7 +1222,7 @@
      "parent": "A smell is made of tiny particles that reach cells in the nose. With enough water there are too few particles for the nose to notice. A salmon's nose notices smells many thousands of times weaker than ours can.",
      "check": {
       "t": "mcq",
-      "q": "A child picks the home katori right in 1 try out of 3. What is the best conclusion?",
+      "q": "A girl picks the home katori right in 1 try out of 3. What is the best conclusion?",
       "options": [
        "She can smell that strength well",
        "She was probably guessing at that strength",
@@ -1502,7 +1502,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Compare the two numbers with the guess. 2. Read out three real animals: a kiwi lays one egg a fifth of her own weight, a hen lays one egg a day, and an ocean sunfish can carry 300 million tiny eggs. 3. Ask which way suits a mother who guards her nest, and which suits a fish whose eggs drift away.",
+     "do": "1. Compare the two numbers with the guess. 2. Read out three real animals. A kiwi lays one egg, a fifth of her own weight. A hen lays one egg a day. An ocean sunfish can carry 300 million tiny eggs. 3. Ask which way suits a mother who guards her nest, and which suits a fish whose eggs drift away.",
      "say": "Four big ones or about fifty small ones, from the same dough. Which way suits a mother who can guard her nest? Which suits a fish whose eggs drift away? Why?",
      "kid": "Which way suits a mother who guards her nest? Which suits a fish whose eggs drift off? Why?",
      "ask": [
@@ -1809,7 +1809,7 @@
      "caption": "2. Add 60 clean seeds. Cover the jar with cloth."
     },
     {
-     "art": "A child looking through a hand lens at a green moong seed with two tiny white specks glued to it.",
+     "art": "A child looking through a hand lens at a green moong seed with two tiny white specks glued on.",
      "caption": "3. After four days, find the eggs: tiny white specks glued to the seeds."
     },
     {
@@ -2698,7 +2698,7 @@
     },
     {
      "t": "mcq",
-     "p": "A child picks the home katori correctly 3 times out of 3. Why is that good evidence?",
+     "p": "A girl picks the home katori correctly 3 times out of 3. Why is that good evidence?",
      "opts": [
       "Three lucky guesses in a row are unlikely",
       "Three is a lucky number",
@@ -2720,7 +2720,7 @@
       ],
       [
        "A salmon's nose is plugged",
-       "she cannot choose her home stream"
+       "she can no longer find her home stream"
       ],
       [
        "A medusa is starved",
@@ -2937,31 +2937,28 @@
  ],
  "videos": [
   {
-   "title": "Return of the Cicadas",
-   "channel": "Samuel Orr",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 7,
-   "why": "To see 17-year cicada nymphs dig out, climb, split their skins and fill the trees, filmed close up.",
-   "check": "This film's address has not been found or checked from here. Search YouTube for the title and the name given, and watch it yourself first."
-  },
-  {
-   "title": "The Great Salmon Run (from the series Nature's Great Events)",
+   "title": "Periodical Cicadas Overrun the Forest | Planet Earth | BBC Earth",
    "channel": "BBC Earth",
-   "youtube": "",
-   "status": "find-id",
-   "mins": 5,
-   "why": "To see salmon leap waterfalls on the way to their home streams, and bears waiting for them.",
-   "check": "This film's address has not been found or checked from here. Search YouTube for the title and the name given, and watch it yourself first."
+   "youtube": "EWr8fzUz-Yw",
+   "mins": 4,
+   "why": "To see 17-year cicada nymphs dig out, climb, split their skins and fill the trees.",
+   "check": "Address, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should watch it first."
   },
   {
-   "title": "The Immortal Jellyfish",
-   "channel": "American Museum of Natural History",
-   "youtube": "",
-   "status": "find-id",
+   "title": "The Salmon's Life Mission | Destination WILD",
+   "channel": "Nat Geo Animals",
+   "youtube": "aPf4qtCDRtE",
    "mins": 3,
-   "why": "To see the tiny medusa of Turritopsis dohrnii and how she turns back into a polyp.",
-   "check": "This film's address has not been found or checked from here. Search YouTube for the title and the name given, and watch it yourself first."
+   "why": "To see salmon swim upstream and leap waterfalls on the way to the streams where they hatched.",
+   "check": "Address, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should watch it first."
+  },
+  {
+   "title": "The immortal jellyfish: is it possible to live forever? | Surprising Science",
+   "channel": "Natural History Museum",
+   "youtube": "ayOmAJwCMlM",
+   "mins": 1,
+   "why": "To see the tiny medusa of Turritopsis dohrnii, and how she turns back into a polyp.",
+   "check": "Address, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should watch it first."
   }
  ],
  "applications": [
@@ -3476,7 +3473,7 @@
   "context": "We have been learning about animals whose lives are timed very differently from ours. Now we ask what these timetables tell us about ourselves and the world.",
   "deep_truth": {
    "truth": "In Life Bars, almost the whole of the cicada's bar was the nymph, and the winged adult was the last millimetre. The mayfly's adult was one pencil line. For these animals the young stage is nearly the whole life, and the adult is a short last stage for breeding. So a nymph is not an unfinished cicada. The nymph is the cicada, for nearly all of the seventeen years.",
-   "habit": "We call the adult the 'real' animal and the young a stage on the way to it. We do this because humans are adults for most of their lives. For a cicada or a mayfly it is the other way round. So the habit comes from our own timetable, and not from nature.",
+   "habit": "We call the adult the 'real' animal and the young a stage on the way to the adult. We do this because humans are adults for most of their lives. For a cicada or a mayfly it is the other way round. So the habit comes from our own timetable, and not from nature.",
    "evidence": "In Life Bars, the shaded 'young' part was 4 centimetres of the human's 20 centimetre bar, and all but 1 millimetre of the cicada's. The cicada nymph feeds, grows, digs and counts seventeen years. The winged adult lives about four weeks."
   },
   "three": {
@@ -3534,5 +3531,5 @@
   ],
   "art": "A child sitting cross-legged looking at her open hand, and beside her, under the floor line, a cicada nymph resting beside a tree root."
  },
- "playtest": "The experiments and activities in this unit were reasoned through step by step. They have not yet been tried at home, so please treat the amounts as a starting point. The Crowd Test (core) needs two people, 100 rajma or kabuli chana, a bath towel and a timer. A child usually picks up six to nine in ten seconds. If your bird gets all ten every time, use a bigger towel or seven seconds, and keep that time for the whole test. The Home Stream Test (core) needs a strong-smelling liquid, three matching katoris and four other cups. With vinegar or rose water most noses lose the smell at about 1 in 100 or 1 in 1,000. With vanilla essence it may still be found at 1 in 10,000, and then the step tells you to add one more cup. Rinse the spoon between cups, or the weak cups will be stronger than they should be. The mixtures are for smelling and not for drinking. Life Bars needs only paper and a ruler. The adult part of the cicada's bar is 1 millimetre, and the mayfly's is too thin to measure, which is the point. Run It Backwards and the Egg Budget use atta dough or play clay. Expect 30 to 60 chana-sized eggs. The Salt Switch needs a grown-up to cut the potato, and a 40 minute wait. If the strips show no difference, wait 30 minutes more. Three Survival Curves uses made-up numbers with the true shapes. The Dal Jar Watch works only if you can find pulse beetles in old whole moong, cowpea or chana, so it is an extra and not part of the main path. It takes about five weeks, or up to seven in cool weather. Keep the jar covered and away from stored food. The Fish Pass is wet: use a tray or the bathroom floor. Emerge! needs two to four players and is built on one idea about prime numbers that scientists still argue about, and the game says so. No part of the main path needs a garden. Facts a person may wish to check: the four-year cicada of Meghalaya and the names of the scientists who described her, the figure of about 15 in 100 cicadas eaten by birds, the strength of the smell that salmon followed in the 1970s tests, and how far up the Ganga hilsa once swam. The quotations from Zhuangzi and the Bhagavad Gita are paraphrases. The three films have no address yet."
+ "playtest": "The experiments and activities in this unit were reasoned through step by step. They have not yet been tried at home, so please treat the amounts as a starting point. The Crowd Test (core) needs two people, 100 rajma or kabuli chana, a bath towel and a timer. A child usually picks up six to nine in ten seconds. If your bird gets all ten every time, use a bigger towel or seven seconds, and keep that time for the whole test. The Home Stream Test (core) needs a strong-smelling liquid, three matching katoris and four other cups. With vinegar or rose water most noses lose the smell at about 1 in 100 or 1 in 1,000. With vanilla essence it may still be found at 1 in 10,000, and then the step tells you to add one more cup. Rinse the spoon between cups, or the weak cups will be stronger than they should be. The mixtures are for smelling and not for drinking. Life Bars needs only paper and a ruler. The adult part of the cicada's bar is 1 millimetre, and the mayfly's is too thin to measure, which is the point. Run It Backwards and the Egg Budget use atta dough or play clay. Expect 30 to 60 chana-sized eggs. The Salt Switch needs a grown-up to cut the potato, and a 40 minute wait. If the strips show no difference, wait 30 minutes more. Three Survival Curves uses made-up numbers with the true shapes. The Dal Jar Watch works only if you can find pulse beetles in old whole moong, cowpea or chana, so it is an extra and not part of the main path. It takes about five weeks, or up to seven in cool weather. Keep the jar covered and away from stored food. The Fish Pass is wet: use a tray or the bathroom floor. Emerge! needs two to four players and is built on one idea about prime numbers that scientists still argue about, and the game says so. No part of the main path needs a garden. Facts a person may wish to check: the four-year cicada of Meghalaya and the names of the scientists who described her, the figure of about 15 in 100 cicadas eaten by birds, the strength of the smell that salmon followed in the 1970s tests, and how far up the Ganga hilsa once swam. The quotations from Zhuangzi and the Bhagavad Gita are paraphrases. The three films were found by title and channel on YouTube and were not watched from here, so please watch each one first."
 }
