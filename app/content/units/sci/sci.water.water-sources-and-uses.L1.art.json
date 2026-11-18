@@ -3,6 +3,10 @@
   "src": "media/img/sci.water.water-sources-and-uses.L1/expl.1.jpg",
   "drawn": true
  },
+ "expl.2": {
+  "src": "media/img/sci.water.water-sources-and-uses.L1/expl.2.jpg",
+  "drawn": true
+ },
  "expl.3": {
   "src": "media/img/sci.water.water-sources-and-uses.L1/expl.3.jpg",
   "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
@@ -17,6 +21,10 @@
  },
  "flow.a3": {
   "src": "media/img/sci.water.water-sources-and-uses.L1/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.water.water-sources-and-uses.L1/flow.c1.jpg",
   "drawn": true
  },
  "flow.e1": {
@@ -113,6 +121,14 @@
  },
  "setup.p1.1": {
   "src": "media/img/sci.water.water-sources-and-uses.L1/setup.p1.1.jpg",
+  "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.water.water-sources-and-uses.L1/summary.jpg",
+  "drawn": true
+ },
+ "term.0": {
+  "src": "media/img/sci.water.water-sources-and-uses.L1/term.0.jpg",
   "drawn": true
  },
  "term.1": {
