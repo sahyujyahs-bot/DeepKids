@@ -143,6 +143,14 @@
   "src": "media/img/sci.gravity.falling.L1/setup.p1.2.jpg",
   "drawn": true
  },
+ "spot.0": {
+  "src": "media/img/sci.gravity.falling.L1/spot.0.jpg",
+  "drawn": true
+ },
+ "spot.4": {
+  "src": "media/img/sci.gravity.falling.L1/spot.4.jpg",
+  "drawn": true
+ },
  "summary": {
   "src": "media/img/sci.gravity.falling.L1/summary.jpg",
   "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
