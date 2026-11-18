@@ -1,6 +1,14 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L1/expl.0.jpg",
+  "drawn": true
+ },
  "expl.1": {
   "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L1/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L1/expl.2.jpg",
   "drawn": true
  },
  "flow.a1": {
@@ -9,6 +17,10 @@
  },
  "flow.a3": {
   "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L1/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.seeds-and-life-cycles.seeds-and-germination.L1/flow.c1.jpg",
   "drawn": true
  },
  "flow.e1": {
