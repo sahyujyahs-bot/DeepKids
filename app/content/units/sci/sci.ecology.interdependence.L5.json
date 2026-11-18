@@ -74,7 +74,7 @@
    "term": "Hypha",
    "meaning": "One thread of a fungus. The body of a fungus is made of very many of these threads. The plural is hyphae.",
    "example": "The white fluff on mouldy bread is a mass of hyphae. Each thread is far thinner than a hair.",
-   "art": "A zoom circle on a patch of white bread mould showing it as a tangle of fine branching threads."
+   "art": "A zoom circle on a patch of white bread mould showing the mould as a tangle of fine branching threads."
   },
   {
    "term": "Mycorrhiza",
@@ -1098,7 +1098,7 @@
    },
    "setup": [
     {
-     "art": "A child looking through a hand lens at a piece of grey-green kalpasi held between two fingers, showing its pale top and black underside.",
+     "art": "A child looking through a hand lens at a piece of grey-green kalpasi held between two fingers, showing the pale top and the black underside.",
      "caption": "1. Look at both sides of the dry lichen with a lens."
     },
     {
@@ -1131,7 +1131,7 @@
       }
      ],
      "parent": "Kalpasi is a dried leafy lichen. The top is grey or grey-green. The underside is black, often with tiny dark threads that held the bark. A dry piece crumbles when bent. Do not explain yet what a lichen is.",
-     "context": "This is the first step of Lichen from the Spice Box. Here you look closely at a dried lichen before testing it."
+     "context": "This is the first step of Lichen from the Spice Box. Here you look closely at a dried lichen before the test."
     },
     {
      "id": "s2",
@@ -1144,7 +1144,7 @@
        "q": "Why do you think so?",
        "good": [
         "The leaves, because leaves are from plants and plants need water. (A fair guess. The test will show.)",
-        "The lichen, because it looks like a sponge.",
+        "The lichen, because the lichen looks like a sponge.",
         "The same, because both are dry. (A fair guess. The test will show.)"
        ]
       }
@@ -1173,7 +1173,7 @@
      "id": "s5",
      "mins": 4,
      "do": "1. Lift out the lichen and shake the pieces 10 times over the bowl. 2. Dab them once on the cloth and weigh them. 3. Do exactly the same with the bay leaves. 4. Write both wet weights. 5. Bend a piece of each.",
-     "say": "Shake and dab both in the same way, so that we weigh the water inside them and not the drops outside.",
+     "say": "Shake and dab both in the same way. We want to weigh the water inside them, not the drops outside.",
      "kid": "Lift out the lichen. Shake the pieces 10 times and dab them once. Weigh them. Do the same with the bay leaves. Write both weights. Bend a piece of each.",
      "parent": "The usual result is that the lichen weighs two or three times as much as before and bends like wet cloth. The bay leaves gain much less and stay stiff.",
      "context": "This is the second weighing step of Lichen from the Spice Box. Here you weigh the lichen and the bay leaves after 10 minutes in water."
@@ -2093,7 +2093,7 @@
      "t": "mcq",
      "p": "In heavily fertilised soil, a plant with root fungi may grow a little less. Why?",
      "opts": [
-      "The plant still pays sugar but needs little help",
+      "The plant pays sugar but needs little help",
       "Fungi eat the roots",
       "Fungi block the light",
       "Fertiliser turns fungi green"
@@ -2233,7 +2233,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Marked carbon from one seedling turned up in a seedling beside it. Name two ways the carbon could have travelled.",
+     "p": "Marked carbon from one seedling turned up in a neighbouring seedling. Name two ways the carbon could have travelled.",
      "a": "It could have passed through fungal threads joining the two roots. It could also have leaked from one root into the soil and been taken up by the other root.",
      "why": "A strong answer gives two different paths. Good science asks what else could explain a result before accepting the most exciting answer.",
      "lines": 3
@@ -2264,7 +2264,7 @@
      "t": "mcq",
      "p": "You want to test whether a root fungus helps a plant. What should you compare?",
      "opts": [
-      "The same kind of plant with and without the fungus",
+      "One kind of plant, with and without fungus",
       "Big plants and small plants",
       "Two different kinds of plant",
       "Plants in sun and plants in shade"
@@ -2457,7 +2457,7 @@
    "p": "Why were the seedlings in the 64-seed cup thinner than those in the 4-seed cup?",
    "opts": [
     "They attacked each other",
-    "Each got a smaller share of water and light",
+    "Each got less water and light",
     "Their seeds were smaller",
     "They were a different kind"
    ],
@@ -2532,7 +2532,7 @@
    "opts": [
     "They have very large leaves",
     "They have deep roots",
-    "They soak up rain and dust over their whole surface",
+    "They soak up rain and dust all over",
     "They breathe very fast"
    ],
    "a": 2,
@@ -2636,7 +2636,7 @@
    "art": "A kitchen window tray packed with tall thin methi seedlings, all leaning towards the light."
   },
   {
-   "text": "Mushrooms that come up around trees after monsoon rain. Many are the fruiting parts of fungi joined to the tree's roots.",
+   "text": "Mushrooms that come up around trees after monsoon rain. Some are the fruiting parts of fungi joined to tree roots. Others belong to fungi who feed on dead leaves and wood.",
    "art": "A ring of small brown mushrooms in wet leaf litter at the foot of a large tree after rain."
   },
   {
@@ -3154,7 +3154,7 @@
   "deep_truth": {
    "truth": "In the Crowded Cup Test, 64 methi seedlings needed the same light, water and minerals from one cup. They grew thinner than the seedlings with room. A fungus and a root need different things, and each can get what the other lacks. Every partnership in this unit joins two beings who are very different in this way.",
    "habit": "We expect those who are alike to get along best, and those who are very different to have little to do with each other. Among living beings sharing one place, likeness means needing the same things. Difference means having something the other lacks.",
-   "evidence": "In the Crowded Cup Test, the seedlings of one kind grew thinner as their numbers rose. In the Trade Table, every pair of partners was made of two very different beings: a plant and an insect, a plant and a fungus, a fungus and an alga. In each pair, only one could make sugar."
+   "evidence": "In the Crowded Cup Test, the usual result is that seedlings of one kind grow thinner as their numbers rise. Use what you really saw. In the Trade Table, every pair of partners was made of two very different beings: a plant and an insect, a plant and a fungus, a fungus and an alga. In each pair, only one could make sugar."
   },
   "three": {
    "who_am_i": "Every cell of your body holds mitochondria, which were once free-living bacteria. Microbes in your gut digest part of your food. Your body is built from partnerships.",
@@ -3195,7 +3195,7 @@
   "practice": {
    "title": "Trade a breath with a plant",
    "mins": 3,
-   "say": "Sit beside a potted plant, close enough to touch a leaf. Breathe out slowly towards the leaves. Your breath carries carbon dioxide, a gas the plant uses to make sugar. Now breathe in slowly. The oxygen in this air was made by plants and algae. Do this five times. Each time, think of what you give as you breathe out. Think of what you receive as you breathe in. Then sit quietly for a moment. Did either of you have to agree to this exchange?",
+   "say": "Sit beside a potted plant, close enough to touch a leaf. Breathe out slowly towards the leaves. Your breath carries carbon dioxide, a gas the plant uses to make sugar. Now breathe in slowly. The oxygen in this air was made by plants, algae and some bacteria. Do this five times. Each time, think of what you give as you breathe out. Think of what you receive as you breathe in. Then sit quietly for a moment. Did either of you have to agree to this exchange?",
    "kid": "Sit beside a plant. Breathe out slowly towards the leaves. The plant can use the gas you breathe out. Now breathe in slowly. Plants and algae made the oxygen you take in. Do this five times. What did you give? What did you get?"
   },
   "ask": [

@@ -1,0 +1,3254 @@
+{
+ "id": "sci.animals.vertebrate-groups.L5",
+ "title": "In-between animals: mammals that lay eggs, fish that breathe air, and what the five groups tell us about evolution",
+ "level": 5,
+ "summary": {
+  "text": "A platypus has fur and feeds her babies milk, yet she lays eggs. A murrel in a village tank is a fish, yet she must come up to breathe air. A crow on the window grill is a living dinosaur. Why do these animals not fit neatly into the five groups? The five groups are branches of one family tree, and their features arrived one at a time over hundreds of millions of years. Your child tests how much air cold and warm water can hold, and works out which features came first. They find out why lungs are older than legs and why milk is older than birth without an egg.",
+  "art": "Three small scenes side by side: a platypus curled round two small eggs in a burrow, a long dark fish with her mouth at the surface of a muddy tank making a ring on the water, and a crow on a window grill with the faint outline of a small feathered dinosaur behind her."
+ },
+ "intro": {
+  "hook": "Which came first in the history of animals: lungs or legs? And which came first: milk, or babies born without an egg? Say what you think, and why.",
+  "text": "Most people say legs came before lungs, because fish have neither and frogs have both. Most people also say birth came before milk. In the first activity, the Feature Ladder, you tick the features of seven animals and read the order from your own table. Two animals settle the question: a fish with lungs and a mammal who lays eggs. Then you test why a fish would ever need to breathe air.",
+  "art": "A child at a table with a sheet of paper ruled into a table, with small drawings of a carp, a lungfish, a frog, a crocodile, a pigeon, a platypus and a cow down the side."
+ },
+ "outcomes": [
+  "I can explain that the five groups of vertebrates are branches of one family tree, and that their features arrived one at a time.",
+  "I can explain why some fish breathe air, using what I found about the air dissolved in cold and warm water.",
+  "I can describe how fins became limbs, and say what the fossils Tiktaalik and Acanthostega showed.",
+  "I can explain how the platypus and the echidnas show that milk is older than birth without an egg.",
+  "I can say why birds are dinosaurs, and why a crocodile is a closer relative of a crow than of a lizard.",
+  "I can tell a likeness that comes from a shared ancestor from a likeness that arose separately, and give live birth as an example.",
+  "I can find leftover features in my own body, and say how fossils, bodies and DNA are used as evidence for the family tree.",
+  "I can run a fair test, record the results in a table, and say what I think, what I saw and why."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Vertebrate",
+   "meaning": "A vertebrate is an animal with a backbone. Fish, amphibians, reptiles, birds and mammals are all vertebrates.",
+   "example": "A sardine, a frog, a house gecko, a crow and you are all vertebrates.",
+   "art": "Five small animals in a row, a sardine, a frog, a gecko, a crow and a girl, each with the backbone drawn in as a white line."
+  },
+  {
+   "term": "Evolution",
+   "meaning": "Evolution is the slow change of living beings over many generations. Young are a little different from their parents, and over millions of years the small differences add up.",
+   "example": "Over about ten million years, the fins of some fish became limbs with fingers.",
+   "art": "A row of five animals from a fish with fleshy fins to a four-legged animal, each a little different from the one before."
+  },
+  {
+   "term": "Ancestor",
+   "meaning": "An ancestor is a relative who lived before you and from whom you descend. Your grandmother is an ancestor. So is an animal who lived millions of years ago, if her line of young leads to you.",
+   "example": "A crow and a crocodile share an ancestor who lived about 240 to 250 million years ago.",
+   "art": "A family line drawn as dots going back in time, with one dot far back circled and two lines leading from it to a crow and a crocodile."
+  },
+  {
+   "term": "Family tree of life",
+   "meaning": "The family tree of life is a drawing that shows how living beings are related. Each fork is an ancestor whose young went two different ways.",
+   "example": "On the family tree, the branch with frogs splits off before the branch with lizards and the branch with mammals.",
+   "art": "A simple branching tree drawn sideways with small animals at the tips: a carp, a lungfish, a frog, a lizard, a crow and a cow."
+  },
+  {
+   "term": "Branch",
+   "meaning": "A branch of the family tree is one ancestor together with all of her descendants. Scientists also call a branch a clade.",
+   "example": "All mammals form one branch. All birds form one branch, and that branch sits inside the dinosaur branch.",
+   "art": "A tree with one fork and everything growing from it shaded in one colour, to show a whole branch."
+  },
+  {
+   "term": "Feature",
+   "meaning": "A feature is a part of a body, or a way a body works, that can be compared between animals. Scientists also call a feature a trait.",
+   "example": "Lungs, feathers, fur, milk and a shelled egg are all features.",
+   "art": "Five small labelled drawings: a pair of lungs, a feather, a tuft of fur, a drop of milk and an egg."
+  },
+  {
+   "term": "Dissolved oxygen",
+   "meaning": "Dissolved oxygen is oxygen gas that is mixed into water, too finely to see. Fish take this oxygen out of the water with their gills.",
+   "example": "A litre of cool river water holds about 9 milligrams of dissolved oxygen. A litre of air holds about 30 times as much.",
+   "art": "A tumbler of clear water with a zoom-in circle showing a few small oxygen particles spread among many water particles."
+  },
+  {
+   "term": "Air-breathing fish",
+   "meaning": "An air-breathing fish is a fish who can take oxygen from air as well as from water. She swims up and gulps air at the surface.",
+   "example": "The murrel and the climbing perch of Indian ponds are air-breathing fish.",
+   "art": "A murrel at the surface of a pond with her mouth just out of the water and a ring spreading round her."
+  },
+  {
+   "term": "Lobe-finned fish",
+   "meaning": "A lobe-finned fish has thick, fleshy fins with bones and muscles inside. Lungfish and coelacanths are the lobe-finned fish alive today.",
+   "example": "The bones inside a lungfish's fin match the bones of your upper arm.",
+   "art": "A fleshy fin drawn in cross-section with one bone at the base and smaller bones beyond, beside a thin fan-shaped fin of a carp."
+  },
+  {
+   "term": "Tetrapod",
+   "meaning": "A tetrapod is a vertebrate with four limbs, or one whose ancestors had four limbs. Amphibians, reptiles, birds and mammals are tetrapods.",
+   "example": "A snake is a tetrapod, because her ancestors were lizards with four legs.",
+   "art": "A frog, a gecko, a crow, a cow and a snake in a row, with the four limbs marked on each and faint dotted legs on the snake."
+  },
+  {
+   "term": "Fossil",
+   "meaning": "A fossil is what is left of a living being from long ago, kept in rock. Bones, shells, eggs and footprints can all become fossils.",
+   "example": "Fossil dinosaur eggs lie in the rocks near Balasinor in Gujarat.",
+   "art": "A slab of rock with the flat outline of a fish skeleton pressed into it."
+  },
+  {
+   "term": "Transitional fossil",
+   "meaning": "A transitional fossil is a fossil with some features of an older group and some of a newer group. It shows what the animals in between looked like.",
+   "example": "Tiktaalik had scales and gills like a fish, and a neck and wrists like a four-limbed animal.",
+   "art": "A flat-headed fish-like animal propped on two sturdy front fins at the edge of a shallow stream."
+  },
+  {
+   "term": "Amnion",
+   "meaning": "The amnion is a thin bag of water that surrounds a growing baby reptile, bird or mammal. It lets the baby grow away from ponds and streams, inside a shelled egg or inside the mother.",
+   "example": "A chick inside an egg and a calf inside a cow both float in an amnion.",
+   "art": "An egg cut open to show a small chick floating in a clear bag of water, beside a calf curled up inside the same kind of bag."
+  },
+  {
+   "term": "Monotreme",
+   "meaning": "A monotreme is a mammal who lays eggs. There are five kinds alive: the platypus and four kinds of echidna.",
+   "example": "A platypus mother lays about two soft-shelled eggs and then feeds the hatched babies on milk.",
+   "art": "A platypus and a spiny echidna side by side, each with a small round egg beside them."
+  },
+  {
+   "term": "Placenta",
+   "meaning": "The placenta is a part that grows inside a pregnant mammal mother. It passes food and oxygen from her blood to the baby until birth.",
+   "example": "You were fed through a placenta before you were born. Your navel marks where the cord from the placenta joined you.",
+   "art": "A baby curled inside the mother's body, joined by a cord to a flat disc on the wall around the baby."
+  },
+  {
+   "term": "Convergent evolution",
+   "meaning": "Convergent evolution happens when the same feature arises separately in animals who are not close relatives. The likeness comes from a similar way of living, and not from a shared ancestor.",
+   "example": "Bats and birds both have wings, but their shared ancestor had none. Wings arose twice.",
+   "art": "A bat and a bird flying side by side, with the different bones inside each wing drawn in."
+  },
+  {
+   "term": "Vestigial part",
+   "meaning": "A vestigial part is a small leftover of a part that was bigger and did more in an animal's ancestors.",
+   "example": "Your tailbone is a vestigial part. It is what is left of a tail.",
+   "art": "A human skeleton seen from the side with the small tailbone at the bottom of the backbone circled."
+  },
+  {
+   "term": "DNA",
+   "meaning": "DNA is the long molecule in every cell that carries the instructions for building a body. Parents pass copies of their DNA to their young.",
+   "example": "The more alike the DNA of two animals is, the more recently they shared an ancestor.",
+   "art": "A twisted ladder shape with four kinds of rung, and two short strips of letters below with one letter different."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "The five groups are branches of one family tree",
+   "status": "defined",
+   "definition": "All vertebrates descend from one group of small, fish-like animals who lived about 500 million years ago. The five groups we name today are branches that split off from that one family at different times.",
+   "description": "In Class 3 you learnt how the five groups breathe, keep warm and have young. In Class 4 you learnt how they sense the world. Now ask a different question. Why are there groups at all? The answer is that animals are related, as cousins are. Long ago one population of animals split into two, and each half went on changing in its own way. This happened again and again. Animals whose shared ancestor lived recently are still much alike, so we put them in one group. Animals whose shared ancestor lived very long ago have had more time to grow different. So a group is a set of close relatives. This also explains the animals who do not fit neatly. Between any two groups there were once animals in between. Most of them died out, and that is why the groups look so separate today. When one of the in-between animals is still alive, like the platypus, or turns up as a fossil, the gap between two groups closes a little.",
+   "examples": [
+    "A crow and a sparrow share an ancestor who lived some tens of millions of years ago, so they are much alike.",
+    "A crow and a carp share an ancestor who lived more than 400 million years ago, so they are very different.",
+    "The platypus has fur and milk like other mammals and lays eggs like a reptile or a bird. Her branch split from ours very early."
+   ],
+   "perspectives": [],
+   "art": "A tree drawn sideways with a time line under it, the five groups at the branch tips, and faint dotted twigs that end early to show relatives who died out."
+  },
+  {
+   "concept": "The features of a group arrived one at a time",
+   "status": "defined",
+   "definition": "No group got all of its features at once. Each feature first appeared in one ancestor, and only the animals descended from that ancestor carry it.",
+   "description": "In the Feature Ladder you ticked the features of seven animals. The ticks made steps. Every animal had a backbone. All but the carp had lungs. Five had four limbs. Four grew inside an amnion. Two had fur and milk. Only the cow was born alive after being fed through a placenta. The steps show the order in which the features arrived. The backbone came first. Lungs came before limbs, because the lungfish has lungs and no limbs. The amnion came after limbs. Milk came before birth without an egg, because the platypus has milk and still lays eggs. So the list we learn for each group, such as 'a mammal has fur, gives milk and is born alive', was never one set. It was built up one feature at a time over millions of years. Be careful with the ladder in one way. It shows the order of branching. It does not show that the animals on the higher steps are better. Every animal on the ladder is alive today, and every one of them has been evolving for exactly the same length of time.",
+   "examples": [
+    "Backbone: about 500 million years old. Fingers and toes: about 365 million years old. Milk: more than 200 million years old.",
+    "A frog has lungs and four limbs but no amnion. Her eggs must stay wet, so most frogs lay them in water.",
+    "Feathers are a feature of a side branch. In the Feature Ladder only the pigeon had them."
+   ],
+   "perspectives": [],
+   "art": "A staircase of six steps labelled backbone, lungs, four limbs, amnion, fur and milk, born alive, with one of the seven animals standing on each step and the pigeon beside the crocodile."
+  },
+  {
+   "concept": "Why some fish breathe air",
+   "status": "defined",
+   "definition": "Water holds very little oxygen, and warm, still water holds least. Fish who live in warm, still water often have a second way to get oxygen: they swim up and gulp air.",
+   "description": "A fish breathes with gills. Gills are thin, feathery sheets full of blood, and they take dissolved oxygen out of the water that flows over them. There is not much to take. A litre of water at 20 °C holds about 9 milligrams of oxygen. A litre of air holds about 30 times as much. In the Air in Water test you saw what warmth does. The cold water gave up bubbles of air as it warmed, because warm water cannot hold as much dissolved air as cold water. Now think of a village tank or a paddy field in May. The water is shallow, still and warm. Rotting leaves use up oxygen too, and so do the water plants at night. By dawn there may be almost no oxygen left, and fish with gills alone crowd at the surface and gasp. Some fish have another way. The murrel has a chamber above her gills, lined with thin skin full of blood. She swims up, gulps a mouthful of air into the chamber, and takes the oxygen from it. The climbing perch has folded plates of thin bone in the same place. The mudskipper of our mangroves takes in oxygen through her wet skin and through the lining of her mouth and throat. The murrel and the climbing perch depend on air so much that they must reach the surface to live. Kept under water with no way up, they can drown.",
+   "examples": [
+    "Murrels and climbing perches are sold alive in wet baskets in markets in Tamil Nadu, Kerala, West Bengal and Assam, because they can breathe air for hours.",
+    "A fighting fish in a small bowl swims up to gulp air every few minutes. She is a relative of the climbing perch.",
+    "Mudskippers hop over the wet mud at Point Calimere in Tamil Nadu and at Coringa in Andhra Pradesh."
+   ],
+   "perspectives": [],
+   "art": "A cut-away drawing of a murrel's head showing the gills and, above them, an air chamber with a bubble of air inside, and an arrow from her mouth at the water surface."
+  },
+  {
+   "concept": "Lungs are older than legs",
+   "status": "defined",
+   "definition": "Lungs first appeared in fish, more than 400 million years ago, long before any animal had legs. Land animals did not invent lungs. They inherited them.",
+   "description": "A lung is a bag that opens off the throat and has thin walls full of blood. A fish who gulps air into such a bag gets oxygen from the air. Lungfish have lungs that work as ours do. Six kinds of lungfish are alive today, in Africa, South America and Australia. The South American lungfish must breathe air to live. Lungfish in Africa and South America can also lie in the mud right through the dry season and breathe air until the rain returns. Another fish with lungs is the bichir of Africa. The bichir's branch split off very early from the branch of most other fish. Because both lungfish and bichirs have lungs, scientists conclude that the shared ancestor of all bony fish had lungs too. So where are the lungs of a carp or a sardine? They are still there, changed into something else. Most fish today have a swim bladder, a bag of gas that keeps them from sinking. The swim bladder grows from the same place as a lung. Charles Darwin guessed that lungs came from swim bladders. The evidence now points the other way. The swim bladder is a changed lung.",
+   "examples": [
+    "Your lungs and a lungfish's lungs come from the same ancestor's lungs.",
+    "The swim bladder of a rohu is the silver balloon you may have seen when a fish is cleaned at the market.",
+    "When Tiktaalik's relatives moved into shallow water about 375 million years ago, they already had lungs."
+   ],
+   "perspectives": [],
+   "art": "Three fish in a row cut open to show a lung in a bichir, a lung in a lungfish, and a silver swim bladder in a carp, with an arrow from 'lung' to 'swim bladder'."
+  },
+  {
+   "concept": "From fin to limb: Tiktaalik and Acanthostega",
+   "status": "defined",
+   "definition": "Limbs with fingers and toes evolved from the fleshy fins of lobe-finned fish, between about 375 and 365 million years ago. Fossils show the stages in between.",
+   "description": "Feel your arm. There is one bone in the upper arm, two bones in the lower arm, many small bones in the wrist, and then fingers. A frog's front leg, a crow's wing and a whale's flipper all have this same pattern. A lobe-finned fish has the beginning of the pattern inside each fleshy fin: one bone, then two. In 2004, Edward Daeschler, Neil Shubin and Farish Jenkins found a fossil in rocks about 375 million years old on Ellesmere Island, in the far north of Canada. They named her Tiktaalik. She had scales and gills like a fish. She also had a flat head, a neck that let her turn her head, strong ribs, and fins with a shoulder, an elbow and a wrist. She could prop herself up in shallow water. She had no fingers yet. Acanthostega lived about ten million years later, in what is now Greenland. She had four limbs with fingers, eight on each hand. Yet she still had gills, and her limbs and ribs were too weak to hold her up on land. So the first limbs with fingers were used in water. Walking on land came later.",
+   "examples": [
+    "One bone, two bones, many small bones, fingers: the same pattern is inside your arm, a bat's wing and a dolphin's flipper.",
+    "Tiktaalik had a neck. A fish has none, so she must turn her whole body to look sideways.",
+    "Five fingers is not the oldest number. Acanthostega had eight."
+   ],
+   "perspectives": [],
+   "art": "Three limbs in a row with the bones drawn in and matching bones in matching colours: the fleshy fin of a lobe-finned fish, the fin of Tiktaalik with a wrist, and the eight-fingered limb of Acanthostega."
+  },
+  {
+   "concept": "Why did animals with limbs first leave the water?",
+   "status": "debated",
+   "definition": "",
+   "description": "Limbs and lungs were both there before any vertebrate lived on land. So something else must explain why some of these animals began to spend time out of the water. Nobody watched it happen, and the fossils do not say why. Scientists have several ideas, and more than one may be true.",
+   "examples": [
+    "Insects, millipedes and plants were living on land long before the first vertebrate walked there.",
+    "Fossils of the early limbed animals are found in rocks from wet, wooded river plains, not from deserts.",
+    "Mudskippers today leave the water to feed on the mud and to escape fish who hunt them."
+   ],
+   "perspectives": [
+    {
+     "who": "Escaping drying ponds",
+     "explanation": "The American scientist Alfred Romer argued in the 1900s that ponds dried up, and fish who could crawl to the next pond survived. Few scientists accept this now. The first limbs were too weak for crawling, and the fossils come from wet places."
+    },
+    {
+     "who": "Food and safety at the edge",
+     "explanation": "The shallow edges of rivers were full of small animals to eat and had no large fish to fear. An animal who could push into the shallows and onto the bank found food that no one else was using. Many scientists favour this idea."
+    },
+    {
+     "who": "Better breathing in warm shallows",
+     "explanation": "Warm, shallow water holds little oxygen. A flat head and a neck let an animal lift the nose into the air without swimming up. On this idea the body changed for breathing first, and walking was a later use for it."
+    }
+   ],
+   "art": "A wooded river bank 365 million years ago with a limbed fish-like animal resting half in the water, small millipedes on the mud and tall fern-like plants behind."
+  },
+  {
+   "concept": "Mammals who lay eggs",
+   "status": "defined",
+   "definition": "The platypus and the four kinds of echidna are mammals who lay eggs. They are called monotremes, and they live in Australia and New Guinea.",
+   "description": "A platypus has fur. She makes milk. Her body makes its own heat, and stays at about 32 °C, a little cooler than ours. All of this makes her a mammal. Yet she lays about two small eggs, each about 17 millimetres long, with soft, leathery shells. She curls round them in a burrow for about ten days until they hatch. An echidna mother lays one egg and carries it in a pouch on her belly. The babies hatch tiny and unfinished, and then they drink milk for months. A monotreme mother has no teats. Her milk comes out through small openings in a patch of skin, and the babies take it from her fur. How can one animal have milk and eggs? The answer is in the order of the features. The early ancestors of all mammals laid eggs. Milk began in those egg-laying ancestors. The branch that leads to the platypus split off at that point, between about 160 and 220 million years ago. On the other branch, much later, the eggs came to be kept inside the mother, and the placenta evolved. So the platypus is not a mixture of a duck and a beaver. She is a mammal whose branch kept an old way of having young.",
+   "examples": [
+    "A platypus baby drinks milk for about four months.",
+    "The four echidnas are the short-beaked echidna of Australia and New Guinea and three long-beaked echidnas of New Guinea.",
+    "Kangaroos and other pouched mammals are on our side of the split. Their babies are born alive, very small, and finish growing in the pouch."
+   ],
+   "perspectives": [],
+   "art": "A platypus mother curled in a burrow with two small round eggs held between her belly and her tail, and a small drawing of a hatched baby taking milk from the fur on her belly."
+  },
+  {
+   "concept": "Milk is older than birth without an egg, and your DNA shows it",
+   "status": "defined",
+   "definition": "Milk evolved while the ancestors of mammals still laid eggs. As milk took over the feeding of the young, egg yolk was needed less and less, and in most mammals the instructions for making yolk broke down.",
+   "description": "A hen's egg must hold all the food a chick needs until hatching. That food is the yolk. The body makes yolk by following instructions in the DNA, called yolk genes. In 2008, David Brawand, Walter Wahli and Henrik Kaessmann looked for these genes in mammals. Hens have three working yolk genes. The platypus has one that still works, and her small eggs do hold some yolk. Humans and dogs have none that work. But the broken pieces of the old yolk genes are still there in our DNA, in the place where a hen has hers. The same study found that the genes for the main proteins of milk were already present in the shared ancestor of all mammals. So the order was this. First, egg-laying ancestors began to make milk. Then, over a very long time, yolk was needed less, and the yolk genes stopped working one by one. You carry in every cell the worn-out instructions for making an egg yolk. One thing is still unknown. Nobody is sure what the very first milk was for. One idea is that it kept the soft-shelled eggs moist and free of germs, and that the hatched young began to lick it later.",
+   "examples": [
+    "A platypus egg is small and has little yolk, because milk does most of the feeding after hatching.",
+    "A hen's egg is large for her body, because the yolk must do all the feeding.",
+    "Broken yolk genes in humans sit beside the same neighbouring genes as the working yolk genes of a hen."
+   ],
+   "perspectives": [],
+   "art": "Three strips of DNA one above the other, labelled hen, platypus and human: three bright blocks on the hen's, one bright and two faded on the platypus's, and three faded, cracked blocks on the human's."
+  },
+  {
+   "concept": "In-between does not mean unfinished",
+   "status": "defined",
+   "definition": "An animal who has some old features is not an old or unfinished animal. Every living animal has been evolving for the same length of time, and each has new features of her own.",
+   "description": "People often call the platypus, the lungfish or the coelacanth a 'living fossil', as if they had stopped changing. This is a mistake. The platypus kept egg-laying, but her branch also evolved things that no ancestor had. When she dives, she shuts her eyes, ears and nose. She finds prawns and insect young in the mud with her bill, which holds about 40,000 sensors for the tiny electric signals that moving muscles give off. A male platypus has a spur on each back ankle that injects venom. In the same way, the murrel's air chamber is a new feature of her branch, and not a half-made lung. So there are no higher and lower animals on the family tree. There are only branches, and each branch has kept some old features and gained some new ones. This is true of us as well. Humans kept five fingers, which is an old feature. Horses changed theirs to one.",
+   "examples": [
+    "The coelacanth was known only from fossils and thought to have died out 65 million years ago. In 1938 Marjorie Courtenay-Latimer, who ran a small museum in East London, South Africa, spotted one in a fishing boat's catch.",
+    "The murrel's air chamber is found in no early fish. Her branch evolved it.",
+    "A snake lost her legs. Losing a feature is evolution too."
+   ],
+   "perspectives": [],
+   "art": "A platypus swimming under water with eyes closed, her bill sweeping over the mud, and faint ripple lines coming from a small prawn hidden under a stone."
+  },
+  {
+   "concept": "Birds are dinosaurs, so what is a reptile?",
+   "status": "debated",
+   "definition": "",
+   "description": "Fossils and DNA agree that birds are a branch of the dinosaurs. They also agree that crocodiles are the closest living relatives of birds. The line that leads to crocodiles and the line that leads to dinosaurs and birds split about 240 to 250 million years ago. Lizards and snakes split off earlier still. So a mugger crocodile is a closer relative of a crow than of a monitor lizard, even though she looks far more like the lizard. There are signs of this in how they live. A crocodile mother builds a nest, guards it, and answers her young when they call from inside the eggs, much as a bird does. This raises a question about names. The old group 'reptiles' holds lizards, snakes, turtles and crocodiles, and leaves birds out. But birds grew out of that same branch. Scientists agree on the family tree. They do not all agree on how to use the old word.",
+   "examples": [
+    "A crow and a mugger crocodile share an ancestor who is not an ancestor of any lizard.",
+    "Crocodiles and birds both build nests and guard their eggs.",
+    "Scaly legs and feet on a hen are the same kind of scales that a crocodile has."
+   ],
+   "perspectives": [
+    {
+     "who": "Name only whole branches",
+     "explanation": "Most scientists who draw family trees say a group should be an ancestor and all of her descendants. On this view, either birds are reptiles, or 'reptile' is not the name of a real branch. Many now say that birds are reptiles."
+    },
+    {
+     "who": "Keep the everyday group",
+     "explanation": "Others say 'reptile' is still a useful word for scaly animals who take their warmth from outside and lay shelled eggs on land. On this view a group can describe a way of living, as long as we remember that it is not a whole branch."
+    }
+   ],
+   "art": "A small family tree with three tips, a monitor lizard, a mugger crocodile and a crow, where the crocodile and the crow share a fork that the lizard is not on."
+  },
+  {
+   "concept": "The same feature can arise many times",
+   "status": "defined",
+   "definition": "When the same feature arises separately in animals who are not close relatives, it is called convergent evolution. Such a feature tells us about a way of living, and not about who is related to whom.",
+   "description": "Some features are good clues to the family tree, because they arose only once. Milk arose once. Feathers arose once. Other features have arisen again and again. Giving birth to live young is the best example. The scientist Daniel Blackburn counted how many separate times it arose among vertebrates. He found more than 150 times, and at least 115 of these were in lizards and snakes. The Russell's viper, the saw-scaled viper and the common sand boa of India all bear live young, while the cobra and the rat snake lay eggs. Some sharks, the guppy and some frogs bear live young too. Among mammals it arose only once. So 'born alive' sounds like a mammal feature, but it is a poor clue to family. A warm body that makes its own heat arose separately in birds and in mammals. Wings arose separately in birds, in bats and in the extinct flying reptiles called pterosaurs. A long body with no legs arose in snakes, in some lizards and in the legless amphibians called caecilians. Why does the same answer keep turning up? Because bodies meet the same problems. A baby who grows inside the mother is safe from egg thieves and from cold. Any branch in which mothers began to keep their eggs inside for longer could go that way.",
+   "examples": [
+    "A Russell's viper may give birth to 20 to 40 live young at a time.",
+    "In 2012 a new family of caecilians was named from the soil of Northeast India, after about 250 digs over five years by Rachunliu Kamei, S. D. Biju and their team. The mothers stay wrapped round their eggs for two to three months.",
+    "A dolphin and a shark have the same smooth shape for fast swimming, but one is a mammal and the other a fish."
+   ],
+   "perspectives": [],
+   "art": "Four mothers with newborn live young beside them: a viper, a guppy, a shark and a cow, with a small label 'arose separately' under each."
+  },
+  {
+   "concept": "Old parts in new bodies",
+   "status": "defined",
+   "definition": "Bodies keep leftovers of parts that did more in their ancestors. These leftovers are called vestigial parts, and they are evidence of where an animal came from.",
+   "description": "Evolution does not start again from nothing. It changes what is already there, and often a small leftover stays. You carry several. At the bottom of your backbone is the tailbone, made of three to five small bones joined together. It is what is left of a tail. Before you were born, when you were about five to eight weeks old inside your mother, you had a small tail, and then your body took it back in. When you are cold, a tiny muscle at the root of each hair pulls the hair upright, and you get goosebumps. On a furry mammal this fluffs the coat and holds in more warm air. On your thin body hair it does very little. Whales have leftovers too. A whale has no back legs, but deep inside her body lie small hip bones. They fit with a find from India. In rocks about 48 million years old in Kashmir, the geologist A. Ranga Rao collected the bones of a small hoofed animal, about the size of a fox, now called Indohyus. In 2007, Hans Thewissen and his team showed that she had a thick ear bone found only in whales, and heavy bones for wading. She was a close relative of the first whales. The closest living relatives of whales today are hippos.",
+   "examples": [
+    "Some people can wiggle their ears a little. The small muscles round the ear turn the ears of a dog or a cow towards a sound.",
+    "A long tendon in the wrist, called the palmaris longus, is missing in roughly one person in seven worldwide. The share differs a great deal from one part of the world to another.",
+    "Some pythons have two tiny claws near the tail, the leftovers of back legs."
+   ],
+   "perspectives": [],
+   "art": "A whale drawn from the side with the small hip bones shown inside her body, and below her a small four-legged hoofed animal wading in a river."
+  },
+  {
+   "concept": "How scientists check the family tree with DNA",
+   "status": "defined",
+   "definition": "DNA is copied from parent to young with rare small mistakes. The longer two animals have been on separate branches, the more differences have built up between their DNA. Counting the differences shows who is related to whom.",
+   "description": "For two hundred years scientists built the family tree from bones and bodies alone. Then a second kind of evidence arrived. Every cell carries DNA, a long molecule made of four kinds of unit that we write as the letters A, T, G and C. When DNA is copied for the next generation, a letter is now and then copied wrongly, and the change is passed on. So two branches that have been apart for a long time differ by many letters. The same is true of proteins, the molecules that DNA gives the instructions for. In 1965 the American scientist Margaret Dayhoff collected every protein sequence then known, 65 of them, into one book. In 1966 she and Richard Eck used a computer to build family trees from such sequences. It was the first time anyone had done this. The trees built from molecules matched the trees built from bones in almost every place. Where they did not match, scientists looked again. That is how we learnt that whales are close relatives of hippos, and that crocodiles are close relatives of birds. Two separate kinds of evidence giving the same tree is strong evidence that the tree is real.",
+   "examples": [
+    "Human DNA and chimpanzee DNA differ in far fewer places than human DNA and hen DNA.",
+    "The platypus's DNA was read in full in 2008. It showed both the yolk gene of an egg-layer and the milk genes of a mammal.",
+    "DNA can also tell which fish a piece of fish in a market came from."
+   ],
+   "perspectives": [],
+   "art": "Three short strips of letters one above the other, labelled human, cow and hen, with the letters that differ from the human strip circled: few on the cow's, more on the hen's."
+  },
+  {
+   "concept": "Moving continents carried the branches apart",
+   "status": "defined",
+   "definition": "The continents move very slowly over millions of years. When a piece of land splits, the animals on each piece go on evolving separately. So where an old branch lives today can show how the land once fitted together.",
+   "description": "The family tree of vertebrates grew on a moving Earth. About 150 million years ago India was joined to Africa, Madagascar, Australia and Antarctica in one great southern land. India broke away, drifted north as an island for tens of millions of years, and met Asia about 50 million years ago. Some animals rode on India the whole way. The purple frog of the Western Ghats lives underground and comes up for a few days in the monsoon. S. D. Biju and Franky Bossuyt described her in 2003. Her closest living relatives live on the Seychelles islands, far out in the Indian Ocean. The Seychelles were once joined to India. The frogs did not cross the sea. The land split under their ancestors. The egg-laying mammals tell a similar story. They survive only in Australia and New Guinea, which have been cut off from the other continents for a very long time.",
+   "examples": [
+    "The purple frog of Kerala and Tamil Nadu has her nearest relatives on islands about 3,000 kilometres away.",
+    "Fossil dinosaur eggs in Gujarat were laid when India was still an island on its way north.",
+    "In rocks about 68 million years old at Dholi Dungri in Gujarat, a fossil snake 3.5 metres long was found coiled round a dinosaur egg, beside a hatchling."
+   ],
+   "perspectives": [],
+   "art": "A map of the Indian Ocean long ago with India drawn as an island moving north, a small frog on India and a small frog on a fragment labelled Seychelles."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "All vertebrates share one ancestor, and the five groups are branches of one family tree.",
+   "evidence": "Family trees built from bones and trees built from DNA were made separately, and they match in almost every place. Fossils of the right age fill the gaps between the groups."
+  },
+  {
+   "text": "Four-limbed animals evolved from lobe-finned fish.",
+   "evidence": "The bones inside a lungfish's fin match the bones of our limbs. Fossils such as Tiktaalik, about 375 million years old, and Acanthostega, about 365 million years old, have mixes of fish and four-limbed features."
+  },
+  {
+   "text": "Lungs evolved in fish, before limbs.",
+   "evidence": "Lungfish and bichirs, on two very different branches of bony fish, both have lungs. Tiktaalik and Acanthostega had gills and signs of air breathing together."
+  },
+  {
+   "text": "Monotremes are mammals, and milk evolved before birth without an egg.",
+   "evidence": "The platypus and the echidnas have fur and milk and lay eggs. The platypus's DNA, read in 2008, has milk genes shared with all mammals and one working yolk gene. Other mammals have only broken yolk genes."
+  },
+  {
+   "text": "Birds are dinosaurs, and crocodiles are the closest living relatives of birds.",
+   "evidence": "Fossil dinosaurs with feathers and wishbones have been found since 1996, and the DNA of crocodiles is closer to that of birds than to that of lizards."
+  },
+  {
+   "text": "Warm water holds less dissolved oxygen than cold water.",
+   "evidence": "It has been measured many times. A litre of fresh water holds about 11.3 milligrams of oxygen at 10 °C, about 9.1 at 20 °C and about 7.6 at 30 °C."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Fish grew legs so that they could walk on land.",
+   "who": "A common way of telling the story, and older textbooks",
+   "for": "Legs are what land animals walk on, so it seems they must have evolved for walking.",
+   "against": "Acanthostega had four limbs with fingers, but she had gills, and her limbs and ribs were too weak to hold her up on land. The first limbs were used in water. Also, no animal grows a part because she will need it later. A part spreads only if it helps at the time.",
+   "status": "rejected",
+   "context": "This card is about why limbs with fingers first evolved."
+  },
+  {
+   "claim": "The platypus is a primitive animal, left over from the past.",
+   "who": "Many books and films, which call her a 'living fossil'",
+   "for": "She lays eggs, as the early ancestors of mammals did.",
+   "against": "Her branch has been evolving for exactly as long as ours. She has features no early mammal had, such as a bill that senses electric signals, and venom spurs on the males.",
+   "status": "rejected",
+   "context": "This card is about whether an animal with old features is an old kind of animal."
+  },
+  {
+   "claim": "Mammals evolved from reptiles.",
+   "who": "Many older textbooks",
+   "for": "The early relatives of mammals had scaly-looking bodies and sprawling legs, and were once called 'mammal-like reptiles'.",
+   "against": "The line leading to mammals and the line leading to lizards, crocodiles and birds split about 320 million years ago, from early animals with an amnion. Those shared ancestors were not lizards, snakes, turtles or crocodiles. Neither line came from the other.",
+   "status": "rejected",
+   "context": "This card is about where the mammal branch joins the family tree."
+  },
+  {
+   "claim": "Birds are reptiles.",
+   "who": "Most scientists who name groups by whole branches",
+   "for": "The branch that holds lizards, turtles and crocodiles also holds the dinosaurs, and birds are dinosaurs. A crocodile is a closer relative of a crow than of a lizard.",
+   "against": "In everyday speech 'reptile' means a scaly animal who takes warmth from outside. Birds have feathers and make their own heat, so the everyday word does not fit them.",
+   "status": "accepted",
+   "context": "This card is about what the word 'reptile' should cover."
+  },
+  {
+   "claim": "Evolution climbs a ladder from fish up to humans.",
+   "who": "A very old picture, still common in cartoons",
+   "for": "Fish came first, and humans are recent.",
+   "against": "The family tree is a branching tree with no top. Most vertebrates alive today are fish. Fish did not stop evolving when one branch moved onto land.",
+   "status": "rejected",
+   "context": "This card is about whether the family tree has a top."
+  },
+  {
+   "claim": "Lungs evolved from the swim bladders of fish.",
+   "who": "Charles Darwin suggested it in 1859",
+   "for": "A swim bladder and a lung are both bags of gas, and they grow from the same part of the gut.",
+   "against": "Bichirs and lungfish, on two early branches, both have lungs. So the shared ancestor of bony fish probably had lungs, and the swim bladder is the later change.",
+   "status": "rejected",
+   "context": "This card is about which came first, the lung or the swim bladder."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Go back from mother to mother for 400 million years and you reach a fish. Was there ever a mother who was a fish with a daughter who was not?",
+   "kind": "deep",
+   "hint": "Every daughter was almost exactly like her mother. So where could a line between two groups go?"
+  },
+  {
+   "q": "The groups look separate because the in-between animals died out. If they were all alive, could we still sort vertebrates into five groups?",
+   "kind": "deep",
+   "hint": "Think of the colours of a rainbow. Where does green stop and blue begin?"
+  },
+  {
+   "q": "A platypus lays eggs and gives milk. Does she break the rule for mammals, or was the rule too simple?",
+   "kind": "deep",
+   "hint": "Who made the rule, and which animals had they seen when they made it?"
+  },
+  {
+   "q": "Your body carries broken instructions for making egg yolk. What does that tell you about who you are?",
+   "kind": "big",
+   "hint": "How far back does your own family go?"
+  },
+  {
+   "q": "If every vertebrate is your relative, does that change how you think about the fish on a plate or the crow on the wall?",
+   "kind": "big",
+   "hint": "There is no one right answer. People who know the same facts decide differently."
+  },
+  {
+   "q": "Scientists named the groups before they knew about evolution. When we learn something new, should old names change?",
+   "kind": "big",
+   "hint": "Think of the word 'reptile'. What is gained and what is lost if we change what it means?"
+  }
+ ],
+ "story": {
+  "title": "The Fish in the Brass Pot",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "A made-up story. Yazhini, Kathir, Thangam Akka, the village and the events are imagined. The fish is real. The murrel, called viral in Tamil, lives in tanks and paddy fields across India, burrows into the mud when the water dries, and must come to the surface to breathe air. Sharing out the fish of a drying tank is a real custom in many Tamil villages.",
+  "text": [
+   "By the middle of May the big tank at the edge of the village was a small one. The water had drawn back from the stone steps, then from the reeds, and at last from everything but a brown pool in the middle, no deeper than Yazhini's knees.",
+   "That was the day the whole village came to fish. It happened every year when the tank ran low. People walked in with baskets and old saris and their bare hands, and whatever they caught was shared out by the steps.",
+   "Yazhini was ten, and she did not like the fishing day. She liked the fish. She stood at the edge with her small brother Kathir and watched the pool.",
+   "The carp were in trouble before anyone touched them. They hung just under the surface in a crowd, all facing up, their mouths opening and closing at the top of the water. Some had already turned on their sides.",
+   "'They are thirsty,' said Kathir.",
+   "'They are in water,' said Yazhini. 'How can they be thirsty?' But she had no better word for it.",
+   "Away from the pool the mud had dried into plates with curled edges. Yazhini walked out over it, because nobody else was looking there. Near a clump of dead reeds one of the plates moved.",
+   "She knelt down. Under the crust the mud was still soft, and in the soft mud lay a fish as long as her arm, dark and round as a rolling pin, with a flat head like a snake's. There was not a cupful of water round her. Her gill covers lifted and fell. She looked at Yazhini with a small bright eye.",
+   "'Viral,' said Thangam Akka, who sold fish in the market and had come up behind her with a basket. 'A big one. She has been sitting in there a week, I would say. Shall I take her?'",
+   "'No,' said Yazhini. 'I found her. I am going to keep her until it rains.'",
+   "Thangam Akka laughed, but she did not argue. She wrapped the fish in a wet cloth for her and went back to the pool.",
+   "At home Yazhini took the tall brass pot from behind the kitchen door, the one with the narrow neck that was used only at Pongal. She carried it to the well and filled it. Then she thought of how dry the fish had been in that mud, with the carp at least having water, and she went on pouring until the water stood right at the lip.",
+   "She slid the fish in. The fish went down into the dark and turned once.",
+   "'The cat,' said Kathir.",
+   "The cat was already on the wall, looking interested. Yazhini fetched a steel plate and pressed it down on the mouth of the pot. It fitted well. A little water ran over the sides. She put a stone on top.",
+   "'There,' she said. 'All the water she wants, and nobody can get at her.'",
+   "They sat down in the shade to guard the pot.",
+   "After a while there was a knock from inside. It was soft, like a knuckle on a door. Then another.",
+   "'She wants to come out,' said Kathir.",
+   "'She does not know she is safe yet,' said Yazhini.",
+   "The knocking came again, four or five times, harder. The stone shifted on the plate. Then there was a long quiet. Yazhini lifted the edge of the plate a finger's width and looked in. The fish was lying just under the brass, on her side, with her mouth pressed against the plate.",
+   "Yazhini's stomach turned over. She had seen fish lie like that an hour ago. The carp in the pool had hung at the top with their mouths at the surface, in all that water. And this one had lain a week in mud with no water at all, and her eye had been bright.",
+   "She thought about the tank in January, when it was full. She used to sit on the steps and count the rings. A ring would open on the still water, far out, with a small sound like a drop falling. Then nothing for a few minutes. Then another ring in nearly the same place. Her grandmother had told her it was the viral coming up. Yazhini had never asked what the viral came up for.",
+   "'Take the stone off,' she said.",
+   "She pulled the plate away, put both arms round the pot, and tipped it until water poured over her feet. She tipped out a good three tumblers. Now there was a hand's width of air in the neck of the pot.",
+   "For a moment the fish did not move. Then she righted herself, rose, and put her mouth through the surface. There was a small sound like a drop falling. A bubble slid out from under her gill cover. She sank back down into the dark.",
+   "Kathir looked at his sister.",
+   "'She was not trying to get out,' said Yazhini. 'She was trying to get up. She breathes it. The same as us.'",
+   "'A fish?'",
+   "'This fish.'",
+   "They watched. In a little while the fish came up again, took her mouthful, and went down.",
+   "The cat was still on the wall. Yazhini went into the kitchen and came back with the net bag the onions came in. She stretched it over the mouth of the pot and tied it round the neck with string. The cat could look. The air could go in.",
+   "That evening Thangam Akka came by with their share of the carp. She looked through the net at the dark shape turning in the pot and raised her eyebrows.",
+   "'Still alive? You have not drowned her, then. People do.'",
+   "'I nearly did,' said Yazhini.",
+   "The rain came eleven days later, in the night. In the morning the pool in the tank had spread back as far as the reeds. Yazhini and Kathir carried the pot down between them and tipped it at the edge.",
+   "The fish slid out and was gone. They waited. Far out on the brown water, a ring opened."
+  ],
+  "epiphany": "For the parent: the carp and the murrel are both fish, but they get their oxygen in different ways. The carp have gills only. In a warm, shrinking pool the water holds very little oxygen, so they gasp at the surface even though they are surrounded by water. The murrel has gills and an air chamber above them, and she depends on gulping air. That is why she could live for a week in damp mud. It is also why a pot filled to the brim and shut with a plate nearly killed her. She could not reach the air. Yazhini works this out from what she saw: which fish was dying in water, which was alive without it, and the rings on the tank.",
+  "ask": [
+   "The carp were in water and in trouble. The murrel was in mud and well. What does that tell you about how each one gets oxygen?",
+   "Why did filling the pot to the brim and covering it put the murrel in danger?",
+   "What had Yazhini seen on the full tank in January that helped her work it out?",
+   "Why was the net bag a better cover than the steel plate?",
+   "If you kept a fish, what would you want to find out about her first?"
+  ],
+  "art": [
+   "A village tank in May shrunk to a small brown pool, with cracked dry mud all round, stone steps high and dry, and villagers wading in with baskets.",
+   "A crowd of carp hanging just under the surface of muddy water with their mouths open at the top.",
+   "A girl of ten kneeling on cracked mud, lifting a curled plate of dried mud to find a long dark fish with a flat head lying in soft mud beneath.",
+   "A tall brass pot with a narrow neck, filled to the brim, with a steel plate pressed on top and a stone on the plate, and a cat watching from a wall.",
+   "The girl tipping the heavy pot so that water pours over her feet, while her small brother holds the plate.",
+   "Inside the neck of the pot, the fish with her mouth just through the water surface and a bubble escaping from her gill cover.",
+   "The pot with a red onion net bag tied over its mouth, and the cat looking in.",
+   "Two children at the edge of a refilled tank after rain, an empty brass pot beside them, and one ring spreading far out on the water."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Sure or Surprised? Twenty true or false cards",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game about the surprising animals in the five groups of vertebrates. Each card makes a claim. You say whether it is true or false, and you bet beans on how sure you are.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "20 claim cards to cut out (the answer is on the back)",
+     "items": [
+      {
+       "f": "Dinosaurs are extinct.",
+       "b": "FALSE. Birds are a branch of the dinosaurs. The crow outside is a living dinosaur."
+      },
+      {
+       "f": "Every mammal is born alive.",
+       "b": "FALSE. The platypus and the four echidnas are mammals, and they lay eggs."
+      },
+      {
+       "f": "A fish can drown.",
+       "b": "TRUE. A murrel or a climbing perch must gulp air. Held under water with no way up, she can drown."
+      },
+      {
+       "f": "Some snakes give birth to live young.",
+       "b": "TRUE. The Russell's viper, the saw-scaled viper and the sand boa do. Cobras and rat snakes lay eggs."
+      },
+      {
+       "f": "A crocodile is a closer relative of a lizard than of a crow.",
+       "b": "FALSE. Crocodiles are the closest living relatives of birds. Lizards branched off earlier."
+      },
+      {
+       "f": "The ancestors of whales walked on four legs.",
+       "b": "TRUE. Indohyus, a fox-sized hoofed animal from Kashmir, was a close relative of the first whales."
+      },
+      {
+       "f": "Lungs first appeared in animals who lived on land.",
+       "b": "FALSE. Lungs first appeared in fish, more than 400 million years ago."
+      },
+      {
+       "f": "The first animals with fingers had five on each hand.",
+       "b": "FALSE. Acanthostega had eight fingers on each hand."
+      },
+      {
+       "f": "A platypus mother has no teats.",
+       "b": "TRUE. Her milk comes out through openings in the skin, and the babies take it from her fur."
+      },
+      {
+       "f": "Your DNA holds broken instructions for making egg yolk.",
+       "b": "TRUE. Our egg-laying ancestors needed them. In us they no longer work."
+      },
+      {
+       "f": "Bats are close relatives of birds, because both fly.",
+       "b": "FALSE. Bats are mammals. Wings arose separately in bats and in birds."
+      },
+      {
+       "f": "Milk evolved before mammals stopped laying eggs.",
+       "b": "TRUE. The egg-laying platypus makes milk, and the milk genes are shared by all mammals."
+      },
+      {
+       "f": "The platypus stopped evolving millions of years ago.",
+       "b": "FALSE. Her branch gained new features, such as a bill that senses electric signals."
+      },
+      {
+       "f": "A snake is a tetrapod, a four-limbed animal.",
+       "b": "TRUE. Her ancestors were lizards with four legs. The group is named for the ancestors."
+      },
+      {
+       "f": "Warm water holds more dissolved oxygen than cold water.",
+       "b": "FALSE. Warm water holds less. That is why fish gasp in warm, shallow ponds."
+      },
+      {
+       "f": "You once had a tail.",
+       "b": "TRUE. Before birth, at about five to eight weeks, you had a small tail. Your tailbone is what is left."
+      },
+      {
+       "f": "Most kinds of vertebrate alive today are mammals.",
+       "b": "FALSE. About half of all kinds of vertebrate are fish."
+      },
+      {
+       "f": "A fish's swim bladder is a changed lung.",
+       "b": "TRUE. Most scientists think the first bony fish had lungs, and the swim bladder came from them."
+      },
+      {
+       "f": "A frog's closest relative can live on a faraway island.",
+       "b": "TRUE. The purple frog of the Western Ghats has her closest relatives on the Seychelles islands."
+      },
+      {
+       "f": "A mother crocodile leaves her eggs and never returns.",
+       "b": "FALSE. She guards the nest and answers her young when they call from inside the eggs."
+      }
+     ]
+    }
+   ],
+   "rules": [
+    "Each player starts with 20 beans, such as rajma or groundnuts. Shuffle the cards and put them in a pile, claim side up.",
+    "One player reads the top card aloud. Do not turn it over.",
+    "Every player says 'true' or 'false' and puts 1, 2 or 3 beans in front of them. One bean means 'I am guessing'. Three beans means 'I am very sure'.",
+    "Turn the card over and read the back.",
+    "If you were right, take your beans back, and take the same number again from the spare beans. If you were wrong, your beans go to the spare beans.",
+    "After 20 cards, the player with the most beans wins.",
+    "Playing alone: play the same way against the pile. Try to end with more than 40 beans. Play again a week later and beat your score."
+   ],
+   "setup": [
+    {
+     "art": "A pile of small cards on a table with the claim side up, and a small heap of rajma beans in front of each of two players.",
+     "caption": "1. Give each player 20 beans. Put the cards in a pile, claim side up."
+    },
+    {
+     "art": "A child holding up two fingers and pushing two beans forward while a parent reads from a card.",
+     "caption": "2. Say true or false. Bet 1, 2 or 3 beans on how sure you are."
+    },
+    {
+     "art": "A card turned over on the table showing the word FALSE and a short sentence, with beans being collected.",
+     "caption": "3. Turn the card over. Win or lose your beans."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut out the 20 cards. 2. Count 20 beans for each player and keep a katori of spare beans. 3. Shuffle the cards and pile them claim side up.",
+     "say": "Each card makes a claim about animals with a backbone. Some are true and some are false. You bet beans on how sure you are.",
+     "kid": "Cut out the cards. Count 20 beans for yourself. Pile the cards with the claims facing up.",
+     "context": "This is the first step of Sure or Surprised? Here you get the cards and the beans ready."
+    },
+    {
+     "id": "s2",
+     "mins": 13,
+     "do": "1. Read the top claim aloud. 2. Each player says true or false and bets 1, 2 or 3 beans. 3. Ask one player for a reason. 4. Turn the card and read the back. 5. Pay out or collect the beans.",
+     "say": "True or false? How sure are you? Tell me one reason before we turn the card.",
+     "kid": "Read the claim. Say true or false. Bet your beans. Then turn the card over.",
+     "ask": [
+      {
+       "q": "You bet three beans and you were wrong. What made you so sure?",
+       "good": [
+        "I thought all mammals are born alive, because all the ones I know are.",
+        "I had only seen snakes' eggs in books."
+       ]
+      }
+     ],
+     "parent": "The most useful cards are the ones your child was very sure of and got wrong. Ask what made them sure. Usually the rule they learnt was true of the animals they had met, and not of all animals.",
+     "context": "This is the main part of Sure or Surprised? Here you bet on each claim and then check it."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Count the beans. 2. Spread out the cards you got wrong, answer side up. 3. Choose the one that surprised you most and say why it is true or false.",
+     "say": "Which card surprised you most? Explain it to me as if I had never heard it.",
+     "kid": "Count your beans. Find the card that surprised you most. Explain it to someone.",
+     "check": {
+      "t": "mcq",
+      "q": "Which of these claims is true?",
+      "options": [
+       "Every mammal is born alive",
+       "Some snakes bear live young",
+       "Lungs first appeared on land"
+      ],
+      "a": 1,
+      "why": "Russell's vipers, saw-scaled vipers and sand boas bear live young. The platypus is a mammal who lays eggs, and lungs first appeared in fish. Choosing the first option usually means thinking only of the mammals we see every day."
+     },
+     "context": "This is the last step of Sure or Surprised? Here you count the beans and explain the claim that surprised you most."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Closest Cousins: which two are nearest on the family tree?",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game about the family tree of vertebrates. Three animals are turned up, and you pick the two who are the closest relatives. The back of each card gives the animal's place on the tree, so you can check.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "18 animal cards to cut out (the branch address is on the back)",
+     "items": [
+      {
+       "f": "Whale shark",
+       "b": "Backbone > skeleton of cartilage"
+      },
+      {
+       "f": "Rohu, a carp",
+       "b": "Backbone > bony skeleton > thin fan fins"
+      },
+      {
+       "f": "Seahorse",
+       "b": "Backbone > bony skeleton > thin fan fins"
+      },
+      {
+       "f": "Murrel, an air-breathing fish",
+       "b": "Backbone > bony skeleton > thin fan fins"
+      },
+      {
+       "f": "Lungfish",
+       "b": "Backbone > bony skeleton > fleshy fins with bones"
+      },
+      {
+       "f": "Bullfrog",
+       "b": "Backbone > bony skeleton > fleshy fins with bones > four limbs > amphibian"
+      },
+      {
+       "f": "Caecilian, a legless amphibian",
+       "b": "Backbone > bony skeleton > fleshy fins with bones > four limbs > amphibian"
+      },
+      {
+       "f": "House gecko",
+       "b": "Backbone > bony skeleton > fleshy fins with bones > four limbs > amnion > reptile and bird line > lizards and snakes"
+      },
+      {
+       "f": "King cobra",
+       "b": "Backbone > bony skeleton > fleshy fins with bones > four limbs > amnion > reptile and bird line > lizards and snakes"
+      },
+      {
+       "f": "Mugger crocodile",
+       "b": "Backbone > bony skeleton > fleshy fins with bones > four limbs > amnion > reptile and bird line > crocodiles and dinosaurs > crocodiles"
+      },
+      {
+       "f": "House crow",
+       "b": "Backbone > bony skeleton > fleshy fins with bones > four limbs > amnion > reptile and bird line > crocodiles and dinosaurs > birds"
+      },
+      {
+       "f": "Penguin",
+       "b": "Backbone > bony skeleton > fleshy fins with bones > four limbs > amnion > reptile and bird line > crocodiles and dinosaurs > birds"
+      },
+      {
+       "f": "Platypus",
+       "b": "Backbone > bony skeleton > fleshy fins with bones > four limbs > amnion > mammal line > egg-laying mammals"
+      },
+      {
+       "f": "Echidna",
+       "b": "Backbone > bony skeleton > fleshy fins with bones > four limbs > amnion > mammal line > egg-laying mammals"
+      },
+      {
+       "f": "Kangaroo",
+       "b": "Backbone > bony skeleton > fleshy fins with bones > four limbs > amnion > mammal line > born alive > pouched mammals"
+      },
+      {
+       "f": "Fruit bat",
+       "b": "Backbone > bony skeleton > fleshy fins with bones > four limbs > amnion > mammal line > born alive > mammals with a full placenta"
+      },
+      {
+       "f": "Dolphin",
+       "b": "Backbone > bony skeleton > fleshy fins with bones > four limbs > amnion > mammal line > born alive > mammals with a full placenta"
+      },
+      {
+       "f": "Human",
+       "b": "Backbone > bony skeleton > fleshy fins with bones > four limbs > amnion > mammal line > born alive > mammals with a full placenta"
+      }
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the 18 cards and put them in a pile, name side up.",
+    "Turn up the top three cards and lay them in a row, name side up.",
+    "On the count of three, every player points to the two animals they think are the closest relatives.",
+    "Turn the three cards over. Read each address from the left. The two animals whose addresses stay the same for the most steps are the closest relatives.",
+    "Every player who pointed to that pair scores 1 point. If all three addresses stay the same for equally many steps, every pair is right.",
+    "Put the three cards aside and turn up three more. After six rounds, the player with the most points wins.",
+    "Playing alone: play the six rounds and score yourself out of 6. Shuffle and play again."
+   ],
+   "setup": [
+    {
+     "art": "Three cards in a row on a table with the names facing up: Dolphin, Whale shark and Fruit bat.",
+     "caption": "1. Turn up three cards, name side up."
+    },
+    {
+     "art": "Two children each pointing with two fingers at two of the three cards.",
+     "caption": "2. On the count of three, point to the two closest relatives."
+    },
+    {
+     "art": "The three cards turned over to show their addresses, with a child's finger tracing along the words from the left.",
+     "caption": "3. Turn the cards over. The pair whose addresses match for the most steps wins."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Cut out the 18 cards. 2. Read one back together, such as the crow's. 3. Explain that each step is a fork in the family tree. 4. Shuffle and pile the cards name side up.",
+     "say": "The back of each card is the animal's address on the family tree. Each step is a fork where the family split.",
+     "kid": "Cut out the cards. Read the back of one card. Each step is a fork in the tree.",
+     "parent": "The addresses are simplified. Many forks are left out, but the order of the forks that are shown is the order scientists agree on.",
+     "context": "This is the first step of Closest Cousins. Here you get the cards ready and learn to read an address."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "1. Turn up three cards. 2. Count to three, and everyone points to two animals. 3. Ask one player for a reason. 4. Turn the cards and compare the addresses step by step. 5. Give the points. 6. Play six rounds.",
+     "say": "Which two are the closest relatives? Do not go by where they live or what shape they are. Think about their features.",
+     "kid": "Turn up three cards. Point to the two closest relatives. Turn the cards and check.",
+     "ask": [
+      {
+       "q": "A dolphin, a whale shark and a fruit bat are turned up. Which two are closest, and why?",
+       "good": [
+        "The dolphin and the bat, because both are mammals with a placenta.",
+        "The dolphin looks like the shark only because both swim fast."
+       ]
+      }
+     ],
+     "parent": "Expect your child to pair animals by shape or by home at first, such as the dolphin with the shark. Let the addresses show the answer. Then ask which features the true pair shares.",
+     "context": "This is the main part of Closest Cousins. Here you pick the two closest relatives out of three animals, six times."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Count the points. 2. Lay out the crocodile, the gecko and the crow. 3. Ask which two are closest, and check with the addresses. 4. Ask why this one fools people.",
+     "say": "Here are a crocodile, a gecko and a crow. Which two are closest? Why does this one fool nearly everybody?",
+     "kid": "Lay out the crocodile, the gecko and the crow. Which two are closest? Check the backs.",
+     "check": {
+      "t": "mcq",
+      "q": "Which two of these are the closest relatives?",
+      "options": [
+       "Mugger crocodile and house gecko",
+       "Mugger crocodile and house crow",
+       "House gecko and house crow"
+      ],
+      "a": 1,
+      "why": "The crocodile and the crow share the fork 'crocodiles and dinosaurs', which the gecko is not on. Choosing the crocodile and the gecko usually means going by scales and shape. Those are old features that all three branches started with, and birds changed theirs."
+     },
+     "context": "This is the last step of Closest Cousins. Here you count the points and look at the crocodile, the gecko and the crow."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Air in Water: why would a fish ever need to breathe air?",
+   "mins": 30,
+   "days": 1,
+   "context": "Fish take oxygen from the air that is dissolved in water. In this experiment you compare three tumblers of water: one that starts cold, one at room warmth, and one that was boiled. You watch for bubbles of air coming out as they stand in a warm place.",
+   "question": "Three tumblers of water look exactly the same. One was kept in the fridge, one stood on the kitchen counter, and one was boiled and cooled. When all three stand in a warm place for an hour, in which one will the most bubbles of air appear on the glass?",
+   "predict": "Guess first. Which tumbler will show the most bubbles after an hour in a warm place: the cold water, the room-warm water or the boiled water? Which will show the fewest? Write your guess and your reason for it.",
+   "fair_test": "Change only what happened to the water before the test. Use the same drinking water for all three. Use three tumblers of the same size and shape, filled to the same height. Stand them side by side in the same warm place for the same time. Count bubbles on the inside of the glass only, and count each tumbler at the same three times.",
+   "results_table": [
+    "Tumbler",
+    "Water before the test",
+    "Bubbles at 20 minutes",
+    "Bubbles at 40 minutes",
+    "Bubbles at 60 minutes"
+   ],
+   "materials": [
+    {
+     "item": "clear glass tumblers of the same size and shape",
+     "qty": 3
+    },
+    {
+     "item": "clean bottles with caps, 1 litre or smaller",
+     "qty": 2
+    },
+    {
+     "item": "drinking water, about 1 litre",
+     "qty": 1
+    },
+    {
+     "item": "a small pot with a lid, and a stove",
+     "qty": 1
+    },
+    {
+     "item": "a fridge",
+     "qty": 1
+    },
+    {
+     "item": "three paper slips marked COLD, ROOM and BOILED",
+     "qty": 3
+    },
+    {
+     "item": "a sunny window sill or another warm place",
+     "qty": 1
+    },
+    {
+     "item": "a clock or phone timer, a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up boils the water and handles the hot pot. Let the boiled water cool completely before your child touches it.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 8,
+     "what": "In the morning, get the three waters ready: one bottle in the fridge, one on the counter, and one pot of boiled water cooling under a lid. Leave them for at least 3 hours."
+    },
+    {
+     "day": 1,
+     "mins": 22,
+     "what": "In the afternoon, pour the three tumblers, stand them in a warm place, and count the bubbles at 20, 40 and 60 minutes."
+    }
+   ],
+   "record": "Fill in the table for the three tumblers. If there are more than 30 bubbles, write 'more than 30'. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
+   "setup": [
+    {
+     "art": "A kitchen counter with a half-full capped bottle going into a fridge, a second half-full capped bottle standing on the counter, and a small covered pot cooling on the stove.",
+     "caption": "1. Get three waters ready: one cold, one at room warmth, one boiled and cooled. Wait 3 hours."
+    },
+    {
+     "art": "Three identical glass tumblers filled to the same height, each standing on a paper slip marked COLD, ROOM or BOILED.",
+     "caption": "2. Pour one tumbler of each, to the same height."
+    },
+    {
+     "art": "The three tumblers side by side on a sunny window sill with a clock beside them.",
+     "caption": "3. Stand all three in the same warm place."
+    },
+    {
+     "art": "A close view of the inside wall of a glass tumbler covered with many small silver bubbles, with a child's finger pointing and counting.",
+     "caption": "4. Count the bubbles on the inside of each glass at 20, 40 and 60 minutes."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "adult": true,
+     "do": "1. Half-fill two bottles with drinking water and cap them. 2. Shake each bottle hard for 30 seconds. 3. Put one bottle in the fridge and leave the other on the counter. 4. A grown-up boils two tumblers of water in the pot for 5 minutes. 5. Put the lid on the pot and leave it to cool. 6. Do not stir or shake the boiled water.",
+     "say": "We are making three kinds of water that look the same. One will be cold, one room-warm, and one boiled. Shaking mixes air into the water.",
+     "kid": "Half-fill two bottles and shake them hard. Put one in the fridge. A grown-up boils the third water.",
+     "parent": "Shaking a half-full bottle lets the water take in as much air as it can hold at that temperature. Boiling drives nearly all the dissolved air out, and the lid slows its return.",
+     "wait": "Leave all three for at least 3 hours, until the boiled water is as cool as the room.",
+     "context": "This is the first step of Air in Water. Here you prepare cold water, room-warm water and boiled water, a few hours before the test."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Shake the cold bottle again for 30 seconds and put it back in the fridge for 2 minutes. 2. Meanwhile, read the question aloud. 3. Ask for a guess and a reason. 4. Write the guess down.",
+     "say": "All three waters will warm up at the window. Which glass will show the most bubbles, and which the fewest? Why do you think so?",
+     "kid": "Which tumbler will show the most bubbles? Which the fewest? Say why. Write your guess.",
+     "ask": [
+      {
+       "q": "Why do you think so?",
+       "good": [
+        "The boiled one, because boiling makes bubbles.",
+        "The cold one, because something changes when it warms up.",
+        "All the same, because it is the same water."
+       ]
+      }
+     ],
+     "parent": "Do not correct the guess. Many children pick the boiled water, because they have seen bubbles in a boiling pot. The two minutes of rest lets the tiny shaken bubbles rise out of the cold water.",
+     "context": "This step of Air in Water is for guessing. You guess before any water is poured."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Put the three paper slips on the window sill. 2. Pour cold water gently into the first tumbler, to two finger-widths below the rim. 3. Pour room-warm water into the second, to the same height. 4. Pour boiled water into the third, slowly, down the side of the glass. 5. Check that no glass has bubbles on it yet. 6. Note the time.",
+     "say": "Pour gently, so that we do not mix in new air. Look closely. Is there any bubble on any glass now?",
+     "kid": "Pour each water gently into a tumbler. Fill them to the same height. Stand them in the warm place.",
+     "parent": "If a few bubbles cling to a glass right after pouring, tap the glass to free them, and start the clock after that.",
+     "wait": "Leave the tumblers for 20 minutes. Do not move them.",
+     "context": "This is the pouring step of Air in Water. Here you fill three tumblers to the same height and stand them in a warm place."
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "1. After 20 minutes, look at the inside wall of each glass without moving it. 2. Count the bubbles on each and write the numbers. 3. Touch the outside of each glass and say which feels coolest. 4. Count again at 40 minutes and at 60 minutes.",
+     "say": "Do not lift the glasses. Count the bubbles on the inside of each one. Which glass has changed most since we poured?",
+     "kid": "Count the bubbles inside each glass. Write the numbers. Count again at 40 and 60 minutes.",
+     "ask": [
+      {
+       "q": "Nothing was added to the cold water. So where did the bubbles come from?",
+       "good": [
+        "They were inside the water already.",
+        "Air was hidden in the water and came out when it warmed."
+       ]
+      }
+     ],
+     "parent": "Expect many small bubbles in the cold-water glass by 40 minutes, a few or none in the room-warm glass, and none in the boiled glass. If the cold glass has very few after an hour, wait one more hour, or repeat with an older glass. Bubbles start most easily on tiny scratches.",
+     "context": "This is the counting step of Air in Water. Here you count the bubbles on each glass at 20, 40 and 60 minutes."
+    },
+    {
+     "id": "s5",
+     "mins": 6,
+     "do": "1. Ask your child for the three sentences: what they thought, what they saw, and why. 2. Ask which glass of water held the most dissolved air at the start. 3. Ask what this means for a fish in a warm, shallow pond in May. 4. Only then read the card 'Why some fish breathe air' together.",
+     "say": "Tell me what you thought, what you saw, and why it happened. Then think of a shallow pond on a hot day. What is hard for a fish there?",
+     "kid": "Say what you thought. Say what you saw. Say why. What is hard for a fish in a warm pond?",
+     "ask": [
+      {
+       "q": "The cold water lost air as it warmed. What does that tell you about warm water?",
+       "good": [
+        "Warm water cannot hold as much air as cold water.",
+        "The extra air had to come out."
+       ]
+      },
+      {
+       "q": "The boiled water showed no bubbles. Does it have a lot of air or very little?",
+       "good": [
+        "Very little, because boiling drove the air out.",
+        "You cannot tell by looking, because all three looked the same."
+       ]
+      }
+     ],
+     "parent": "The bubbles are air, which is mostly nitrogen and oxygen. We counted bubbles, and we did not measure oxygen itself. The test shows that water holds dissolved air, and that warm water holds less of it than cold water.",
+     "check": {
+      "t": "mcq",
+      "q": "Cold water stands in a warm place, and bubbles appear on the glass. What are they?",
+      "options": [
+       "Dissolved air leaving the warming water",
+       "Air leaking in through the glass",
+       "Water turning into steam"
+      ],
+      "a": 0,
+      "why": "Cold water holds more dissolved air than warm water. As the water warmed, the extra air came out as bubbles. Choosing 'steam' usually means thinking of the bubbles in a boiling pot. Water does not turn to steam at room warmth, and steam bubbles rise and burst at once."
+     },
+     "context": "This is the last step of Air in Water. Here you explain your results and link them to fish in a warm pond."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Lap or Suck: how much does a teat help a baby drink?",
+   "mins": 27,
+   "days": 1,
+   "context": "A platypus mother has no teats. Her milk comes out through her skin, and her babies take it from her fur. In this experiment you drink water in three ways, from a plate, from a wet cloth and through a straw, and measure how much you get each time.",
+   "question": "You have 20 seconds to drink 4 tablespoons of water. How much will you get by lapping from a flat plate, by taking it from a wet cloth, and by sucking through a straw? And how much is spilt or left behind each way?",
+   "predict": "Guess first. Put the three ways in order, from the one that gives you the most water in 20 seconds to the one that gives you the least. Guess how many tablespoons will be left each way. Write your guess and your reason for it.",
+   "fair_test": "Change only the way of drinking. Use the same person, the same 4 tablespoons of water and the same 20 seconds each time. Do not lift the plate or the cloth with your hands. Do each way twice and find the mean, because one try can be a fluke.",
+   "results_table": [
+    "Way of drinking",
+    "Tablespoons put out",
+    "Tablespoons left, try 1",
+    "Tablespoons left, try 2",
+    "Mean left",
+    "Mean drunk"
+   ],
+   "materials": [
+    {
+     "item": "a flat steel plate with a rim",
+     "qty": 1
+    },
+    {
+     "item": "a clean cotton handkerchief or a piece of clean cotton cloth",
+     "qty": 1
+    },
+    {
+     "item": "a drinking straw",
+     "qty": 1,
+     "buy": "b-straw"
+    },
+    {
+     "item": "a tablespoon and two steel tumblers",
+     "qty": 1
+    },
+    {
+     "item": "drinking water, about half a litre",
+     "qty": 1
+    },
+    {
+     "item": "a phone timer or a clock with a seconds hand",
+     "qty": 1
+    },
+    {
+     "item": "a towel, a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 27,
+     "what": "Drink 4 tablespoons of water in three ways, twice each, and measure what is left each time."
+    }
+   ],
+   "record": "Fill in the table for the three ways. Then write three sentences: what you thought would happen, what you saw, and why you think it happened.",
+   "setup": [
+    {
+     "art": "A flat steel plate on a table with a shallow pool of water in the middle, a tablespoon beside it and a phone showing a timer.",
+     "caption": "1. Put 4 tablespoons of water on the plate."
+    },
+    {
+     "art": "A child with hands behind her back bending over the plate and lapping the water with her tongue, while a grown-up watches the timer.",
+     "caption": "2. Way one: lap from the plate for 20 seconds. No hands."
+    },
+    {
+     "art": "The same plate with a folded cotton cloth lying in it, soaked with water, and the child bending to take water from the cloth.",
+     "caption": "3. Way two: take the water from a soaked cloth. No hands."
+    },
+    {
+     "art": "A steel tumbler holding a little water with a straw in it, and the child drinking through the straw.",
+     "caption": "4. Way three: suck through a straw from a tumbler."
+    },
+    {
+     "art": "A grown-up tipping the plate into a tumbler and then spooning the water out one tablespoon at a time.",
+     "caption": "5. Each time, measure what is left with the tablespoon."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Wash your hands, the plate, the cloth, the spoon and the tumblers. 2. Lay the towel on the table and put the plate on it. 3. Tell your child how a platypus baby feeds. 4. Show the three ways of drinking.",
+     "say": "A platypus mother has no teats. Milk comes out of her skin onto her fur, and her babies take it from there. We will try three ways of drinking.",
+     "kid": "Wash your hands and the plate. Put the plate on a towel. You will drink in three ways.",
+     "context": "This is the first step of Lap or Suck. Here you set up a plate, a cloth and a straw to model three ways a baby mammal might drink."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Ask your child to put the three ways in order. 2. Ask how many tablespoons will be left each time. 3. Ask for the reason. 4. Write it all down.",
+     "say": "Plate, wet cloth or straw. Which gives you the most water in 20 seconds? How much will be left each time? Why do you think so?",
+     "kid": "Which way gives you the most water? Put the three in order. Say why. Write it down.",
+     "parent": "Do not correct the guess. Most children pick the straw. The interesting part is how big the difference is, and where the lost water goes.",
+     "context": "This step of Lap or Suck is for guessing. You guess before anyone drinks."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Measure 4 tablespoons of water onto the plate. 2. Your child puts their hands behind their back. 3. Say 'go' and time 20 seconds of lapping. 4. Tip what is left into an empty tumbler. 5. Spoon it back out and count the tablespoons, to the nearest half. 6. Wipe the plate and do it once more.",
+     "say": "This is way one. Lap the water straight from the plate, like a cat. You have 20 seconds, and no hands.",
+     "kid": "Lap the water from the plate for 20 seconds. No hands. Then measure what is left.",
+     "parent": "Count any water that splashed onto the towel as lost. Note it beside the result.",
+     "context": "This is way one of Lap or Suck. Here you lap water from a flat plate and measure what is left."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Fold the cloth in four and lay it in the plate. 2. Pour 4 tablespoons of water slowly onto the cloth. 3. Time 20 seconds while your child takes water from the cloth, with no hands. 4. Squeeze the cloth into the empty tumbler and tip in any water from the plate. 5. Count the tablespoons left. 6. Do it once more.",
+     "say": "This is way two. The cloth is the mother's fur, wet with milk. Get what you can from it in 20 seconds.",
+     "kid": "Take water from the wet cloth for 20 seconds. No hands. Squeeze out what is left and measure it.",
+     "parent": "Squeezing never gets all the water out of the cloth. So the amount left will read a little low, and the amount drunk a little high. Say this when you look at the results.",
+     "context": "This is way two of Lap or Suck. Here you take water from a soaked cloth, the way a platypus baby takes milk from fur."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "1. Measure 4 tablespoons of water into a tumbler. 2. Put in the straw. 3. Time 20 seconds of sucking, or stop the clock when the water is gone. 4. Count any tablespoons left. 5. Do it once more.",
+     "say": "This is way three. The straw is a teat. Suck for 20 seconds, or until the water is gone. I will time you.",
+     "kid": "Suck the water through the straw. Stop at 20 seconds or when it is gone. Measure what is left.",
+     "parent": "The water will probably be gone in well under 20 seconds. Write down how many seconds it took.",
+     "context": "This is way three of Lap or Suck. Here you suck water through a straw, the way most baby mammals suck from a teat."
+    },
+    {
+     "id": "s6",
+     "mins": 6,
+     "do": "1. For each way, add the two results and halve the total to find the mean left. 2. Take the mean left from 4 to find the mean drunk. 3. Ask your child for the three sentences. 4. Ask what our model leaves out. 5. Then read the card 'Mammals who lay eggs' together.",
+     "say": "Say what you thought, what you saw and why. Then tell me one way that you and a straw differ from a platypus baby and her mother.",
+     "kid": "Work out the mean for each way. Say what you thought and what you saw. Say why.",
+     "ask": [
+      {
+       "q": "Platypus babies grow well with no teat. So what might a teat add?",
+       "good": [
+        "The baby can drink faster.",
+        "Less milk is spilt or left in the fur.",
+        "The baby can hold on while the mother moves."
+       ]
+      },
+      {
+       "q": "What does our model leave out?",
+       "good": [
+        "A platypus baby's mouth is shaped for this, and mine is not.",
+        "The mother's fur and skin are not a handkerchief.",
+        "Milk is thicker than water."
+       ]
+      }
+     ],
+     "parent": "This is a model, so it can show one thing only: a tube that fits the mouth wastes less and delivers faster. Nobody knows for certain why teats evolved. The model fits one sensible idea, and it does not prove it.",
+     "check": {
+      "t": "mcq",
+      "q": "A platypus has milk but no teats. What does this tell us about the history of mammals?",
+      "options": [
+       "Milk evolved before teats did",
+       "The platypus lost her teats recently",
+       "Platypus babies do not need milk"
+      ],
+      "a": 0,
+      "why": "The platypus's branch split off after milk had evolved and before teats had. So she shows the earlier way of giving milk. Choosing 'lost her teats' usually means assuming that every mammal started with all the mammal features."
+     },
+     "context": "This is the last step of Lap or Suck. Here you work out the means and say what the model shows and what it leaves out."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The Feature Ladder: which features came first?",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you make a table of seven vertebrates and six features, and tick who has what. The ticks form steps, and the steps show the order in which the features arrived in the history of animals.",
+   "materials": [
+    {
+     "item": "a sheet of paper, a ruler and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a colour pencil",
+     "qty": 1
+    }
+   ],
+   "record": "Keep the table. Under it write two sentences: which came first, lungs or legs, and which came first, milk or birth without an egg. Say which animal in your table shows each answer.",
+   "setup": [
+    {
+     "art": "A sheet of paper ruled into a table with seven rows labelled rohu, lungfish, frog, crocodile, pigeon, platypus and cow, and six columns labelled backbone, lungs, four limbs, amnion, fur and milk, born alive.",
+     "caption": "1. Draw a table with seven animals down the side and six features along the top."
+    },
+    {
+     "art": "The same table with ticks filled in, forming a staircase shape from one tick for the rohu to six ticks for the cow.",
+     "caption": "2. Tick each feature an animal has. Count the ticks in each row."
+    },
+    {
+     "art": "A child's pencil circling two rows of the table: the lungfish row with ticks under backbone and lungs only, and the platypus row with a tick under fur and milk but none under born alive.",
+     "caption": "3. Find the two rows that settle the questions: the lungfish and the platypus."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Draw a table with seven rows and six columns. 2. Write the animals down the side: rohu, lungfish, frog, crocodile, pigeon, platypus, cow. 3. Write the features along the top: backbone, lungs, four limbs, amnion, fur and milk, born alive. 4. Ask the two questions below and write the guesses.",
+     "say": "Before we fill this in, guess. Which came first in history, lungs or legs? Which came first, milk or babies born without an egg? Why?",
+     "kid": "Draw the table. Then guess. Lungs or legs first? Milk or birth first? Say why.",
+     "parent": "An amnion is the bag of water that a baby reptile, bird or mammal grows in. Explain the word before you start.",
+     "context": "This is the first step of the Feature Ladder. Here you draw the table and guess which features came first."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "1. Read out each fact and let your child put the ticks. 2. The rohu, a carp, has a backbone only. 3. The lungfish has a backbone and lungs. 4. The frog has a backbone, lungs and four limbs. 5. The crocodile has those three and grows in an amnion. 6. The pigeon has the same four as the crocodile. Her wings are her front limbs. 7. The platypus has those four, and fur and milk. She lays eggs. 8. The cow has those five, and is born alive.",
+     "say": "I will read what each animal has. You put the ticks. Tell me if anything surprises you as we go.",
+     "kid": "The rohu has a backbone only. The lungfish has a backbone and lungs. The frog also has four limbs. The crocodile and the pigeon also grow in an amnion. The platypus also has fur and milk, and lays eggs. The cow has all that, and is born alive.",
+     "parent": "The rohu's swim bladder is a changed lung, so leave her lung box empty and tell your child why afterwards. The pigeon also has feathers, which no other animal in the table has. Write 'feathers' beside her row.",
+     "context": "This is the main step of the Feature Ladder. Here you tick which of six features each of seven animals has."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Count the ticks in each row and write the number at the end. 2. Shade the ticked boxes with the colour pencil. 3. Look at the shape the shading makes. 4. Find the animal who has lungs and no limbs. 5. Find the animal who has milk and is not born alive.",
+     "say": "Look at the shape. What do you notice? Now use the table to answer your two guesses. Which rows give the answers?",
+     "kid": "Count the ticks in each row. Shade them. Who has lungs but no limbs? Who has milk but lays eggs?",
+     "ask": [
+      {
+       "q": "How does the table show that lungs came before legs?",
+       "good": [
+        "The lungfish has lungs and no legs, and nobody has legs without lungs.",
+        "Every animal with four limbs also has lungs."
+       ]
+      }
+     ],
+     "parent": "The rows should hold 1, 2, 3, 4, 4, 5 and 6 ticks. The shading makes a staircase. No animal has a later feature without all the earlier ones.",
+     "context": "This step of the Feature Ladder is for reading the table. Here you find the order in which the features arrived."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Ask whether the cow is 'more evolved' than the rohu, and listen. 2. Explain that all seven animals are alive today. 3. Ask what the steps really show. 4. Add yourself to the table and tick your own features.",
+     "say": "Is the cow a better animal than the rohu because she has more ticks? All seven are alive now. So what do the steps show?",
+     "kid": "Is the cow better than the rohu? What do the steps really show? Add yourself to the table.",
+     "ask": [
+      {
+       "q": "What do the steps show, if not better and worse?",
+       "good": [
+        "The order in which the features first appeared.",
+        "Where each animal's branch split off from ours."
+       ]
+      }
+     ],
+     "parent": "We chose features on the line that leads to the cow, so the cow gets the most ticks. If we had chosen features of the rohu's own branch, such as fan fins and a swim bladder, the rohu would get the most.",
+     "check": {
+      "t": "mcq",
+      "q": "The platypus has fur and milk and lays eggs. What does this show?",
+      "options": [
+       "Milk evolved before birth without an egg",
+       "The platypus is half bird",
+       "Eggs evolved after milk"
+      ],
+      "a": 0,
+      "why": "Her branch split off after milk evolved and before mammals stopped laying eggs. So milk is the older feature of the two. Choosing 'half bird' usually means treating each group's features as one set that cannot be split up."
+     },
+     "context": "This is the last step of the Feature Ladder. Here you ask what the steps show, and add yourself to the table."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Old Parts in Your Body: goosebumps, a tailbone and a wrist tendon",
+   "mins": 15,
+   "days": 1,
+   "context": "Bodies keep small leftovers of parts that did more in their ancestors. In this activity you find three such leftovers in your own body, and count how many people at home have one of them.",
+   "materials": [
+    {
+     "item": "an ice cube or a cloth dipped in cold water",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "record": "Draw your forearm with goosebumps. Then make a tally: how many people at home have the wrist tendon in both wrists, in one wrist, or in neither.",
+   "setup": [
+    {
+     "art": "A child holding an ice cube against the inside of her forearm and looking closely at the fine hairs standing up on small bumps.",
+     "caption": "1. Cool your forearm and watch the small hairs stand up."
+    },
+    {
+     "art": "A child sitting on the floor with one finger at the very bottom of her backbone.",
+     "caption": "2. Feel the end of your backbone. That is your tailbone."
+    },
+    {
+     "art": "A hand held palm up with the thumb touching the little finger and the wrist bent slightly, and a thin cord standing out in the middle of the wrist.",
+     "caption": "3. Touch your thumb to your little finger and bend your wrist a little. Look for a cord in the middle of the wrist."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Hold the ice cube on the inside of your child's forearm for 20 seconds. 2. Take it away and look at the skin closely, in good light. 3. Ask what the small hairs are doing. 4. Ask what the same thing would do for a cat or a monkey.",
+     "say": "Look at the tiny hairs. What are they doing? A small muscle is pulling each one upright. What would that do for an animal with thick fur?",
+     "kid": "Cool your forearm with ice. Look at the tiny hairs. What are they doing?",
+     "ask": [
+      {
+       "q": "Why would standing hair help a furry animal who is cold?",
+       "good": [
+        "Fluffed fur holds more air, and the air keeps warmth in.",
+        "A cat looks bigger with her fur up."
+       ]
+      }
+     ],
+     "parent": "Goosebumps are a leftover of fur-raising. The muscles still work, but our body hair is too thin to hold a layer of warm air.",
+     "context": "This is the first step of Old Parts in Your Body. Here you make goosebumps and ask what they once did."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Ask your child to run a finger down the middle of their back to the very end of the backbone. 2. Explain that the last small bones are the tailbone. 3. Tell them that they had a small tail before they were born.",
+     "say": "Follow your backbone down to the very end. Those last small bones are your tailbone. What do you think they are left over from?",
+     "kid": "Follow your backbone down to the end. That is your tailbone. What is it left over from?",
+     "parent": "The tailbone is three to five small bones joined together. It still has a use: muscles attach to it. A leftover part can keep a small job.",
+     "context": "This step of Old Parts in Your Body is about the tailbone, the leftover of a tail."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Hold one hand palm up. 2. Touch the thumb to the little finger and bend the wrist slightly towards you. 3. Look for a thin cord standing up in the middle of the wrist. 4. Test both wrists. 5. Test everyone at home and tally: both wrists, one wrist or neither.",
+     "say": "Do you see a cord in the middle of your wrist? Some people have it and some do not. Let's test everyone at home and count.",
+     "kid": "Touch thumb to little finger. Bend your wrist a little. Do you see a cord? Test both wrists. Test your family.",
+     "parent": "The cord is the tendon of a muscle called the palmaris longus. People without it grip just as well. It is thought to be a leftover from ancestors who climbed with their arms. If nobody at home lacks it, that is a normal result for a small group.",
+     "context": "This step of Old Parts in Your Body is a small survey. Here you find out who at home has a wrist tendon that many people lack."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Try to wiggle your ears without touching them. 2. Ask who at home can. 3. Ask your child what all these leftovers have in common. 4. Ask what they tell us about our ancestors.",
+     "say": "We found fur muscles, a tail's end, and a climbing muscle that some of us have lost. What do they tell you about our ancestors?",
+     "kid": "Try to wiggle your ears. What do goosebumps, a tailbone and this tendon tell you about our ancestors?",
+     "ask": [
+      {
+       "q": "What do these leftovers tell us?",
+       "good": [
+        "Our ancestors had thick fur and tails.",
+        "Bodies are changed from older bodies, and small parts of the old ones stay."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "Why do humans get goosebumps when they are cold?",
+      "options": [
+       "Small muscles raise hairs that were once thick fur",
+       "The skin shrinks in the cold",
+       "Cold air gets under the skin"
+      ],
+      "a": 0,
+      "why": "A tiny muscle at each hair pulls the hair upright. On a furry ancestor this fluffed the coat and kept warmth in. Choosing 'the skin shrinks' usually means not having looked closely at the hairs."
+     },
+     "context": "This is the last step of Old Parts in Your Body. Here you say what the leftovers have in common."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Count the Differences: reading the family tree from letters",
+   "mins": 15,
+   "days": 1,
+   "context": "Scientists check the family tree by comparing DNA, which can be written as a string of four letters. In this activity you compare five made-up strings that follow the real pattern, and work out who is the closest relative of whom.",
+   "materials": [
+    {
+     "item": "squared paper or plain paper, and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a colour pencil",
+     "qty": 1
+    }
+   ],
+   "record": "Keep the five strings with the differences circled. Under them write the four counts, and draw the family tree they suggest.",
+   "setup": [
+    {
+     "art": "A sheet of squared paper with five rows of fifteen letters, one letter in each square, labelled human, cow, hen, frog and carp.",
+     "caption": "1. Copy the five strings, one letter in each square, one string under the other."
+    },
+    {
+     "art": "The same sheet with some letters in the cow, hen, frog and carp rows circled in colour where they differ from the human row above.",
+     "caption": "2. Circle every letter that differs from the human string. Count the circles in each row."
+    },
+    {
+     "art": "A small hand-drawn branching tree with five tips labelled carp, frog, hen, cow and human, in that order.",
+     "caption": "3. Draw the tree: the fewest differences means the closest relative."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Copy these five strings in rows, one letter in each square. 2. Human: GATCC ATGAC TAGGA. 3. Cow: GATCC ATGAC CGGGA. 4. Hen: GATCC AATCT TAGGA. 5. Frog: GAGAT GTGAT TAGGA. 6. Carp: CCTCC GTGAT TAATC. 7. Check each row twice against this list.",
+     "say": "These strings are made up, but they behave like real DNA. Before we count, guess. Which animal's string will be most like the human one?",
+     "kid": "Copy the five strings, one letter in each square. Guess whose string is most like the human one.",
+     "parent": "Real DNA strings are millions of letters long. We use 15 made-up letters, so that the counting takes minutes and the pattern is the same as the real one.",
+     "context": "This is the first step of Count the Differences. Here you copy five short letter strings that stand for DNA."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "1. Compare the cow string with the human string, square by square. 2. Circle each letter that differs. 3. Do the same for the hen, the frog and the carp. 4. Write the number of circles at the end of each row.",
+     "say": "Go square by square. Circle a letter only if it differs from the human letter above it. How many in each row?",
+     "kid": "Compare each string with the human one. Circle the letters that differ. Count the circles.",
+     "parent": "The counts should be: cow 2, hen 4, frog 5 and carp 7. If a count is off, check the copying first.",
+     "context": "This is the counting step of Count the Differences. Here you count how many letters differ between the human string and each of the others."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Put the animals in order, from fewest differences to most. 2. Draw a tree with the human and the cow on the closest twigs and the carp on the farthest. 3. Compare this order with your Feature Ladder, if you made one. 4. Ask why two different methods give the same order.",
+     "say": "Fewest differences means the most recent shared ancestor. Draw the tree. Is the order the same as the one we got from body features?",
+     "kid": "Put the animals in order by the counts. Draw the tree. Is it the same order as the body features gave?",
+     "ask": [
+      {
+       "q": "Bones and letters give the same tree. Why does that matter?",
+       "good": [
+        "Two different kinds of evidence agree, so the tree is probably right.",
+        "If the tree were only a guess, they would not match."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "Animal A differs from you in 2 letters, and animal B in 7. What does this suggest?",
+      "options": [
+       "A shares a more recent ancestor with you",
+       "B shares a more recent ancestor with you",
+       "A and B are the same kind of animal"
+      ],
+      "a": 0,
+      "why": "Copying mistakes build up over time. Fewer differences means less time on separate branches, so A is the closer relative. Choosing B usually means reading a bigger number as 'more related'."
+     },
+     "context": "This is the last step of Count the Differences. Here you turn the counts into a family tree and compare it with the tree from body features."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Gulp Watch: which fish come up for air? (if there is an aquarium or a pet shop near you)",
+   "mins": 15,
+   "days": 1,
+   "context": "Some aquarium fish breathe air and some do not. In this activity you watch two kinds of fish for five minutes each and count how often each one comes to the surface to gulp air. You need an aquarium at home, at a friend's home or in a shop.",
+   "materials": [
+    {
+     "item": "an aquarium with a fighting fish or a gourami, and one with a goldfish, a guppy or a molly",
+     "qty": 1
+    },
+    {
+     "item": "a phone timer or a watch",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "record": "Write the name of each fish and the number of trips to the surface in five minutes. Draw what the fish's mouth does at the surface.",
+   "setup": [
+    {
+     "art": "A child standing in front of a row of small fish tanks in a pet shop, holding a notebook, with a blue fighting fish in a small tank at eye level.",
+     "caption": "1. Find a fighting fish or a gourami. Ask the shopkeeper if you may watch for a few minutes."
+    },
+    {
+     "art": "A fighting fish with her mouth touching the water surface and a tiny bubble at her lips.",
+     "caption": "2. Watch one fish for five minutes. Make a tally mark each time she gulps at the surface."
+    },
+    {
+     "art": "A goldfish swimming in the middle of a tank with a stream of bubbles rising from an air stone beside her.",
+     "caption": "3. Watch a goldfish, a guppy or a molly for five minutes in the same way."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Find a fighting fish or a gourami in a tank. 2. Find a goldfish, a guppy or a molly in another tank. 3. Ask your child which fish will come to the surface more often, and why. 4. Look for a bubbling air stone or pump in each tank.",
+     "say": "One of these fish is a relative of the climbing perch. Which fish do you think will come up for air more often? Why?",
+     "kid": "Find a fighting fish and a goldfish. Which will come up for air more often? Say why.",
+     "parent": "Fighting fish and gouramis are relatives of the climbing perch and breathe air. Shops often keep fighting fish in small bowls with no air pump, which they can survive because they gulp air.",
+     "context": "This is the first step of Gulp Watch. Here you choose two kinds of aquarium fish and guess which one breathes air."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Choose one fighting fish or gourami and watch only her. 2. Time five minutes. 3. Make a tally mark each time she touches the surface with her mouth. 4. Then watch one goldfish, guppy or molly for five minutes in the same way.",
+     "say": "Keep your eyes on one fish. Make a mark each time her mouth touches the surface. I will tell you when five minutes are up.",
+     "kid": "Watch one fish for five minutes. Mark each trip to the surface. Then watch the other kind.",
+     "parent": "A fighting fish usually comes up every few minutes, and more often in warm water. A healthy goldfish in a tank with an air pump rarely gulps at the surface. If she does it often, the water is short of oxygen.",
+     "context": "This is the watching step of Gulp Watch. Here you count trips to the surface for two kinds of fish."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "1. Compare the two tallies. 2. Ask what the air pump in a goldfish tank is for. 3. Ask why a fighting fish can live in a bowl without one.",
+     "say": "What did you count? What is the bubbling pump in the goldfish tank for? Why can the fighting fish manage without one?",
+     "kid": "Compare your two counts. What is the air pump for? Why can a fighting fish live without one?",
+     "check": {
+      "t": "mcq",
+      "q": "A fighting fish lives in a small bowl with no air pump. How does she get enough oxygen?",
+      "options": [
+       "She gulps air at the surface",
+       "She needs less oxygen than other fish",
+       "The bowl makes oxygen"
+      ],
+      "a": 0,
+      "why": "She has a breathing organ above her gills and takes oxygen from gulped air, as a climbing perch does. Choosing 'needs less oxygen' usually means not having noticed her trips to the surface. A bowl must never be filled to a tight lid, because she must reach the air."
+     },
+     "context": "This is the last step of Gulp Watch. Here you compare the two counts and explain them."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Predict the In-between Animal: what should a fossil between fish and frogs look like?",
+   "mins": 15,
+   "days": 1,
+   "context": "Scientists predicted what an animal between fish and four-limbed animals would look like, and how old the rock holding her would be, before they found one. In this activity you make the same prediction as a drawing, and then compare it with the real fossil, Tiktaalik.",
+   "materials": [
+    {
+     "item": "a sheet of paper and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "colour pencils",
+     "qty": 1
+    }
+   ],
+   "record": "Keep your drawing of the predicted animal, with labels. Beside it write which of your predictions matched Tiktaalik and which did not.",
+   "setup": [
+    {
+     "art": "A sheet of paper with a lobe-finned fish drawn on the left and a four-limbed animal with a flat head drawn on the right, and an empty space with a question mark between them.",
+     "caption": "1. Draw a lobe-finned fish on the left and an early four-limbed animal on the right. Leave a space between."
+    },
+    {
+     "art": "A child drawing an animal in the middle space, with a fish tail and scales, a flat head and two sturdy front fins.",
+     "caption": "2. Draw the animal you would expect in between. Label each feature."
+    },
+    {
+     "art": "The finished drawing beside a simple outline of Tiktaalik, with ticks next to the features that match.",
+     "caption": "3. Compare your prediction with the real fossil."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Draw a fish on the left of the page and write her features: scales, gills, fins with thin rays, no neck, a head shaped like a cone, eyes on the sides. 2. Draw an early four-limbed animal on the right and write hers: lungs, limbs with fingers, a neck, a flat head, eyes on top. 3. Write '380 million years ago' under the fish and '365 million years ago' under the other.",
+     "say": "Fish like this lived 380 million years ago. Four-limbed animals like this lived 365 million years ago. So what lived in between, and when?",
+     "kid": "Draw a fish on the left. Draw a four-limbed animal on the right. Write the features of each.",
+     "context": "This is the first step of Predict the In-between Animal. Here you set out the features of the animals before and after."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "1. Ask your child to draw the in-between animal in the middle. 2. Ask them to choose, for each feature, the fish form, the later form or a halfway form. 3. Ask how old the rock holding such a fossil should be. 4. Ask what kind of place the animal lived in, so we know what kind of rock to search.",
+     "say": "Draw what you would expect to find. Choose each feature and label it. How old should the rock be? What kind of place did she live in?",
+     "kid": "Draw the animal in between. Label each feature. How old should her rock be? Where did she live?",
+     "ask": [
+      {
+       "q": "What kind of rock would you search, and how old?",
+       "good": [
+        "Rock about 375 million years old, between the two ages.",
+        "Rock made from the mud of shallow streams, because she lived at the water's edge."
+       ]
+      }
+     ],
+     "parent": "Any reasoned mixture is a good answer. The point is that a prediction can be made at all, and then tested by digging.",
+     "context": "This is the main step of Predict the In-between Animal. Here you draw your prediction and say how old the rock should be."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Read out what Tiktaalik had: scales, gills and fin rays like a fish. 2. Then read: a flat head, eyes on top, a neck, lungs, and a shoulder, elbow and wrist in each front fin. No fingers. 3. Tell your child the rock was about 375 million years old and formed in shallow streams. 4. Tick each prediction that matched.",
+     "say": "Here is what the real fossil had. Tick what you predicted correctly. The team chose rock of that age and searched for years before they found her.",
+     "kid": "Listen to what the real fossil had. Tick what you got right. What surprised you?",
+     "check": {
+      "t": "mcq",
+      "q": "Scientists predicted Tiktaalik's features and the age of her rock before they found her. Why does that matter?",
+      "options": [
+       "A wrong idea would have predicted wrongly",
+       "It shows they were lucky",
+       "It shows fossils are easy to find"
+      ],
+      "a": 0,
+      "why": "If four-limbed animals had not evolved from fish, there would be no reason to find such an animal in rock of just that age. A prediction that could have failed, and did not, is strong evidence. Choosing 'lucky' misses that they chose where to dig by reasoning."
+     },
+     "context": "This is the last step of Predict the In-between Animal. Here you compare your prediction with the real fossil."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Five Hundred Million Years on a String: a timeline of the vertebrates",
+   "days": 3,
+   "mins": 60,
+   "context": "In this three-day project you stretch a string 5 metres long across a room. Each centimetre stands for one million years. You hang paper flags on it to show when backbones, lungs, limbs, milk and birds first appeared.",
+   "materials": [
+    {
+     "item": "string or wool, a little over 5 metres",
+     "qty": 1
+    },
+    {
+     "item": "a measuring tape or a ruler",
+     "qty": 1
+    },
+    {
+     "item": "paper for 11 small flags, and colour pencils",
+     "qty": 1
+    },
+    {
+     "item": "clothes pegs or sticky tape",
+     "qty": 11
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Measure 5 metres of string, fix it along a wall or corridor, and mark the place of each of the 11 events."
+    },
+    {
+     "day": 2,
+     "mins": 20,
+     "what": "Draw and label the 11 flags and peg them at their marks."
+    },
+    {
+     "day": 3,
+     "mins": 15,
+     "what": "Walk the timeline with someone, tell the story, and answer three questions from the string."
+    }
+   ],
+   "record": "Take a photograph of the finished timeline, or draw it small in your notebook. Write the three measurements you made on day 3.",
+   "setup": [
+    {
+     "art": "A child and a parent stretching a long string along a corridor wall, with a measuring tape laid beside it.",
+     "caption": "1. Fix 5 metres of string along a wall. One end is today. Each centimetre is one million years."
+    },
+    {
+     "art": "A child drawing a small animal on a paper flag, with other finished flags showing a fish, a limbed fish and a small furry animal.",
+     "caption": "2. Make a flag for each event."
+    },
+    {
+     "art": "The string with eleven paper flags pegged along it, crowded more closely near the 'today' end, and a child pointing at one.",
+     "caption": "3. Peg each flag at its distance from the 'today' end."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 25,
+     "do": "1. Cut a string a little longer than 5 metres and fix it along a wall. 2. Mark one end TODAY. 3. Measure from TODAY and make a small mark at each distance below. 4. First vertebrates: 500 centimetres. 5. Bony fish with lungs: 420. 6. Tiktaalik: 375. 7. Acanthostega, with fingers: 365. 8. First animals with an amnion: 320. 9. First mammals: 225. 10. Archaeopteryx, an early bird: 150. 11. Snake and dinosaur eggs in Gujarat: 68. 12. The asteroid that ended the other dinosaurs: 66. 13. Indohyus, a whale relative in Kashmir: 48. 14. First humans of our kind: 3 millimetres.",
+     "say": "One centimetre is a million years. Before we measure, guess. Where on this string did the first mammals live? Where do we humans start?",
+     "kid": "Fix the string. One end is today. Measure and mark each event. One centimetre is a million years.",
+     "parent": "The ages are rounded, and scientists revise them as new fossils are found. If your corridor is short, use 1 centimetre for 2 million years and halve every distance.",
+     "context": "This is day 1 of Five Hundred Million Years on a String. Here you fix the string and mark where each event belongs."
+    },
+    {
+     "id": "s2",
+     "mins": 20,
+     "do": "1. Cut 11 small paper flags. 2. On each, draw the animal or event and write its name and age. 3. Peg or tape each flag at its mark. 4. Stand back and look at the spacing.",
+     "say": "Draw each one as well as you can. When they are all up, stand back. Where are the flags crowded, and where are they far apart?",
+     "kid": "Make a flag for each event. Peg it at its mark. Where are the flags crowded?",
+     "context": "This is day 2 of Five Hundred Million Years on a String. Here you make the flags and hang them."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "1. Walk from the far end to TODAY and tell the story aloud at each flag. 2. Measure the gap between lungs and fingers. 3. Measure the gap between the first mammals and the asteroid. 4. Measure how much of the string holds humans. 5. Write the three answers.",
+     "say": "Walk me through it. Then measure three things for me. How long were there lungs before fingers? How long did mammals live beside dinosaurs?",
+     "kid": "Walk the string and tell the story. Measure three gaps. Write the answers.",
+     "ask": [
+      {
+       "q": "For how long did mammals live at the same time as the big dinosaurs?",
+       "good": [
+        "About 159 million years, from 225 to 66 million years ago.",
+        "Far longer than the time since the asteroid."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "On the string, lungs are at 420 centimetres and fingers at 365. What does this show?",
+      "options": [
+       "Lungs are about 55 million years older than fingers",
+       "Fingers are older than lungs",
+       "Lungs and fingers appeared together"
+      ],
+      "a": 0,
+      "why": "420 − 365 = 55, and each centimetre is a million years. Animals had lungs for about 55 million years before any had fingers. Choosing 'together' usually means thinking of land animals, who have both."
+     },
+     "context": "This is day 3 of Five Hundred Million Years on a String. Here you tell the story of the timeline and measure three gaps."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "A Fin That Can Do a Push-up",
+   "mins": 30,
+   "context": "This is an engineering challenge. A carp's fin is a fan of thin rays, good for steering in water. Tiktaalik's front fin had a few sturdy bones with joints, and she could prop herself up on it. Here you build both kinds and test which can hold up a body.",
+   "problem": "Build a front fin that can hold a 'body' weighing about 200 grams at least 5 centimetres above the table. The fin must bend in two places, like an elbow and a wrist, so that the body can be lowered to the table and pushed up again.",
+   "constraints": [
+    "The body is a 200 gram packet, such as a small packet of salt, dal or tea.",
+    "The fin holds the body at least 5 centimetres above the table for 10 seconds.",
+    "The fin bends in two places and does not come apart when you lower and raise the body.",
+    "You may use only cardboard, broom sticks or toothpicks, rubber bands and tape."
+   ],
+   "materials": [
+    "thin sticks from a coconut-leaf broom, or toothpicks",
+    "cardboard from an old carton",
+    "rubber bands and sticky tape",
+    "scissors",
+    "a 200 gram packet of salt, dal or tea",
+    "a ruler"
+   ],
+   "general": [
+    "Cut three strips of cardboard for an upper bone, a lower part and a hand, and join them with tape hinges.",
+    "Fold each cardboard strip lengthwise into a V, so that it does not buckle.",
+    "Use two strips side by side for the lower part, like the two bones in your forearm."
+   ],
+   "creative": [
+    "Stretch a rubber band across each joint as a muscle, so that the fin springs back up after you press the body down.",
+    "Make the hand from several short pieces fanned out, like the many small bones in a wrist, so that it sits flat on the table.",
+    "Build a pair of fins joined by a cardboard shoulder, so that the body rests between them as Tiktaalik's chest did."
+   ],
+   "your_turn": "Now design your own. Draw the fin first and label the joints. Build it, rest the packet on top and measure the height. Lower the body to the table and push it up five times. Where does your fin fail first, and how would you make that place stronger?",
+   "safety": "A grown-up cuts the thick cardboard. Broom sticks have sharp ends, so keep them away from faces.",
+   "setup": [
+    {
+     "art": "A fan of twelve thin broom sticks taped together at one end, standing on the table with a small packet of salt being lowered onto it and the sticks splaying outward.",
+     "caption": "1. First build a fan fin of thin sticks. Try to rest the packet on it."
+    },
+    {
+     "art": "Three folded cardboard strips joined end to end with tape hinges, labelled upper bone, lower bones and hand.",
+     "caption": "2. Then build a fin with a few sturdy parts and two joints."
+    },
+    {
+     "art": "The jointed cardboard fin propped on the table with the packet resting on top and a ruler showing 6 centimetres.",
+     "caption": "3. Rest the packet on top and measure the height."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "adult": true,
+     "do": "1. Tape twelve thin sticks together at one end to make a fan, like a carp's fin. 2. Stand the fan on its tips and rest the packet on the taped end. 3. Watch what the sticks do. 4. Ask what this fin is good for, and what it lacks.",
+     "say": "This is a fan fin, like a carp's. Rest the body on it. What happens? What is a fin like this good at?",
+     "kid": "Tape twelve sticks into a fan. Rest the packet on it. What happens to the sticks?",
+     "parent": "The thin rays splay or snap. A fan fin is light and makes a wide paddle for steering in water, where the water holds the body up.",
+     "context": "This is the first step of A Fin That Can Do a Push-up. Here you build a fan fin of thin rays and find out that it holds no weight."
+    },
+    {
+     "id": "s2",
+     "mins": 14,
+     "adult": true,
+     "do": "1. Ask your child to feel the bones of their own arm: one, then two, then many small ones. 2. Ask them to draw a fin built on that pattern, with two joints. 3. A grown-up cuts the cardboard strips. 4. Your child folds, joins and tapes the fin. 5. Test it with the packet as you build.",
+     "say": "Feel your arm. One bone, then two, then many small ones. Draw a fin on that pattern. Where will it bend? Then build it.",
+     "kid": "Feel the bones in your arm. Draw a fin with two joints. Build it from cardboard and tape.",
+     "context": "This is the building step of A Fin That Can Do a Push-up. Here you design and build a fin with a few sturdy parts and two joints."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "1. Rest the packet on the fin and measure its height above the table. 2. Time 10 seconds. 3. Lower the body to the table and push it up again, five times. 4. Note where the fin bends or fails.",
+     "say": "Does it hold for ten seconds? How high? Now do five push-ups with it. Where does it give way first?",
+     "kid": "Rest the packet on your fin. Measure the height. Do five push-ups. Where does it fail?",
+     "context": "This is the testing step of A Fin That Can Do a Push-up. Here you test whether your fin holds the body up and bends without breaking."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Compare the fan fin and the jointed fin. 2. Ask what each is good for. 3. Ask why an animal in shallow water might do better with the jointed kind.",
+     "say": "Neither fin is the better one everywhere. Where does the fan win? Where does the jointed fin win? What would Tiktaalik use hers for?",
+     "kid": "Which fin is better for steering in deep water? Which is better for propping up in the shallows?",
+     "check": {
+      "t": "mcq",
+      "q": "Why could Tiktaalik prop herself up on her front fins when a carp cannot?",
+      "options": [
+       "Her fins had sturdy bones with joints",
+       "Her fins were longer",
+       "She weighed less than a carp"
+      ],
+      "a": 0,
+      "why": "Each front fin had a shoulder, an elbow and a wrist made of sturdy bones, so it could bear weight and bend. A carp's fin is a fan of thin rays. Choosing 'longer' usually means thinking about size and missing what is inside the fin."
+     },
+     "context": "This is the last step of A Fin That Can Do a Push-up. Here you compare the two fins and say what each is good for."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "In-between animals: air-breathing fish and egg-laying mammals (core)",
+   "tier": "core",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Why do the five groups of vertebrates share so many features?",
+     "opts": [
+      "They descend from one ancestor",
+      "They live in the same places",
+      "They eat the same food",
+      "Scientists chose them that way"
+     ],
+     "a": 0,
+     "why": "All vertebrates descend from one group of fish-like animals who lived about 500 million years ago. Shared features such as the backbone were inherited from them.",
+     "outcome": 0
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: every mammal is born alive.",
+     "a": false,
+     "why": "False. The platypus and the four echidnas are mammals, and they lay eggs. They have fur and feed their young on milk.",
+     "outcome": 3
+    },
+    {
+     "t": "fill",
+     "p": "A mammal who lays eggs is called a ____.",
+     "a": [
+      "monotreme"
+     ],
+     "why": "The five monotremes are the platypus and four kinds of echidna.",
+     "outcome": 3
+    },
+    {
+     "t": "match",
+     "p": "Match each word to what it means.",
+     "pairs": [
+      [
+       "Ancestor",
+       "a relative from long ago from whom you descend"
+      ],
+      [
+       "Tetrapod",
+       "a vertebrate with four limbs, or with four-limbed ancestors"
+      ],
+      [
+       "Fossil",
+       "what is left of a living being from long ago, kept in rock"
+      ],
+      [
+       "Amnion",
+       "the bag of water a baby reptile, bird or mammal grows in"
+      ],
+      [
+       "Vestigial part",
+       "a small leftover of a part that did more in ancestors"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These words are used all through the unit. A strong answer could give an example of each.",
+     "outcome": 0
+    },
+    {
+     "t": "sort",
+     "p": "Sort these fish: breathes with gills only, or also breathes air.",
+     "cats": [
+      "Gills only",
+      "Also breathes air"
+     ],
+     "items": [
+      [
+       "rohu",
+       "Gills only"
+      ],
+      [
+       "murrel",
+       "Also breathes air"
+      ],
+      [
+       "sardine",
+       "Gills only"
+      ],
+      [
+       "climbing perch",
+       "Also breathes air"
+      ],
+      [
+       "lungfish",
+       "Also breathes air"
+      ],
+      [
+       "mudskipper",
+       "Also breathes air"
+      ]
+     ],
+     "a": "see items",
+     "why": "The murrel and the climbing perch gulp air into a chamber above the gills. The lungfish has lungs. The mudskipper takes in oxygen through her wet skin and mouth lining.",
+     "outcome": 1
+    },
+    {
+     "t": "order",
+     "p": "Put these features in the order in which they first appeared.",
+     "items": [
+      "Four limbs",
+      "Fur and milk",
+      "Backbone",
+      "Amnion",
+      "Lungs"
+     ],
+     "a": [
+      "Backbone",
+      "Lungs",
+      "Four limbs",
+      "Amnion",
+      "Fur and milk"
+     ],
+     "why": "This is the order of the steps in the Feature Ladder. No animal has a later feature without the earlier ones.",
+     "how": "a1",
+     "outcome": 0
+    },
+    {
+     "t": "mcq",
+     "p": "Bubbles appeared in cold water as it warmed up. What does this show?",
+     "opts": [
+      "Warm water holds less dissolved air",
+      "Warm water makes new air",
+      "Glass lets air through",
+      "Cold water has no air in it"
+     ],
+     "a": 0,
+     "why": "The cold water held more dissolved air than it could keep once it warmed, so the extra came out as bubbles. Choosing 'makes new air' misses that nothing was added to the water.",
+     "how": "e1",
+     "outcome": 1
+    },
+    {
+     "t": "write",
+     "p": "A murrel lives for a week in damp mud. Carp die in a warm, shrinking pool. Explain why.",
+     "lines": 3,
+     "a": "The murrel gulps air into a chamber above her gills, so she needs dampness and air, not deep water. The carp have gills only. Warm, shallow water holds very little dissolved oxygen, so they cannot get enough.",
+     "why": "A strong answer says how each fish gets oxygen, and says that warm water holds little of it.",
+     "outcome": 1
+    },
+    {
+     "t": "count",
+     "p": "Acanthostega had 8 fingers on each hand. How many fingers did she have on two hands?",
+     "a": 16,
+     "why": "8 + 8 = 16. Five fingers on a hand came later.",
+     "outcome": 2
+    },
+    {
+     "t": "draw",
+     "p": "Draw the bones inside your arm, from shoulder to fingertips. Show one bone, two bones, many small bones, then fingers.",
+     "art": "An empty outline of a child's arm and hand, palm up.",
+     "a": "One long bone in the upper arm, two side by side in the forearm, a cluster of small bones at the wrist, then the bones of five fingers.",
+     "why": "A strong drawing shows the pattern in order. The same pattern is in a frog's leg, a crow's wing and a whale's flipper, because all inherited it from one ancestor.",
+     "outcome": 2
+    },
+    {
+     "t": "odd",
+     "p": "Three of these are mammals. Which one is not?",
+     "opts": [
+      "Platypus",
+      "Echidna",
+      "Fruit bat",
+      "Penguin"
+     ],
+     "a": 3,
+     "why": "A penguin is a bird, with feathers and no milk. The platypus and the echidna lay eggs, but they have fur and milk, so they are mammals.",
+     "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: a crocodile is a closer relative of a crow than of a lizard.",
+     "a": true,
+     "why": "True. Crocodiles and birds share an ancestor who is not an ancestor of lizards. Crocodiles look like lizards because both kept old features, such as scales.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "Which feature has arisen many separate times among vertebrates?",
+     "opts": [
+      "Giving birth to live young",
+      "Milk",
+      "Feathers",
+      "A backbone"
+     ],
+     "a": 0,
+     "why": "Live birth arose more than 150 separate times, mostly in lizards and snakes. Milk, feathers and the backbone each arose once.",
+     "outcome": 5
+    },
+    {
+     "t": "label",
+     "p": "Draw a platypus. Label three features that make her a mammal, and one that most mammals lack.",
+     "art": "A blank space for the child's own drawing of a platypus, with four empty label lines.",
+     "a": [
+      "Fur",
+      "Milk for her young",
+      "A body that makes its own heat",
+      "She lays eggs"
+     ],
+     "why": "A strong answer names fur and milk. Egg-laying is the feature most mammals lack. The bill and webbed feet are her own special features, and do not decide her group.",
+     "outcome": 3
+    },
+    {
+     "t": "perspective",
+     "p": "Three people talk about the platypus.",
+     "views": [
+      {
+       "who": "A child",
+       "says": "Mammals are born alive. She lays eggs, so she is not a real mammal."
+      },
+      {
+       "who": "A teacher",
+       "says": "She is a mammal. The rule 'mammals are born alive' was too simple."
+      },
+      {
+       "who": "A biologist",
+       "says": "Rules come second. She is on the mammal branch of the family tree, so she is a mammal."
+      }
+     ],
+     "ask": "Whose view do you agree with most? Use your Feature Ladder as evidence. Then say what one of the others has right.",
+     "lines": 5,
+     "how": "a1",
+     "a": "A strong answer uses the Feature Ladder: the platypus has fur and milk, and her row differs from the cow's by one feature only. It chooses a view, gives that evidence, and says what another view has right.",
+     "why": "The child is right that she breaks a common rule. The teacher is right that the rule was made from too few animals. The biologist explains why: groups are branches, and rules are our short descriptions of them.",
+     "outcome": 0
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "In-between animals: evidence and reasons (stretch)",
+   "tier": "stretch",
+   "mins": 30,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "What did the fossil Acanthostega show about the first limbs with fingers?",
+     "opts": [
+      "They were used in water",
+      "They were for running on land",
+      "They were for digging burrows",
+      "They always had five fingers"
+     ],
+     "a": 0,
+     "why": "She had limbs with eight fingers, and also gills, weak ribs and elbows that could not bend forward. She lived in water. Choosing 'running on land' is the old idea her fossil overturned.",
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "Explain how the platypus shows that milk is older than birth without an egg.",
+     "lines": 4,
+     "a": "The platypus makes milk and still lays eggs. Her branch split from ours after milk evolved. If birth without an egg had come first, an egg-laying mammal with milk would be hard to explain. All mammals share the same milk genes, so milk was there in their shared ancestor.",
+     "why": "A strong answer uses the order of branching: a feature shared by both branches was present before the split.",
+     "outcome": 3
+    },
+    {
+     "t": "mcq",
+     "p": "Why is 'born alive' a poor clue to which animals are close relatives?",
+     "opts": [
+      "It arose many separate times",
+      "Only mammals do it",
+      "It is hard to see",
+      "Eggs are older than babies"
+     ],
+     "a": 0,
+     "why": "Vipers, some sharks, guppies and cows all bear live young, but they are not close relatives. The feature arose separately in each branch.",
+     "outcome": 5
+    },
+    {
+     "t": "fill",
+     "p": "When the same feature arises separately in animals who are not close relatives, it is called ____ evolution.",
+     "a": [
+      "convergent"
+     ],
+     "why": "Convergent means 'coming together'. Wings in bats and birds are an example.",
+     "outcome": 5
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: the platypus stopped evolving long ago.",
+     "a": false,
+     "why": "False. Her branch has evolved for as long as ours, and gained new features such as a bill that senses electric signals. She kept one old feature, egg-laying.",
+     "outcome": 3
+    },
+    {
+     "t": "sort",
+     "p": "Sort each likeness: inherited from a shared ancestor, or arose separately.",
+     "cats": [
+      "From a shared ancestor",
+      "Arose separately"
+     ],
+     "items": [
+      [
+       "arm bones of a human and a bat",
+       "From a shared ancestor"
+      ],
+      [
+       "wings of a bat and a crow",
+       "Arose separately"
+      ],
+      [
+       "milk of a cow and a platypus",
+       "From a shared ancestor"
+      ],
+      [
+       "live birth in a viper and a cow",
+       "Arose separately"
+      ],
+      [
+       "smooth shape of a dolphin and a shark",
+       "Arose separately"
+      ],
+      [
+       "feathers of a crow and a penguin",
+       "From a shared ancestor"
+      ]
+     ],
+     "a": "see items",
+     "why": "A likeness from a shared ancestor is a clue to the family tree. A likeness that arose separately is a clue to a shared way of living.",
+     "outcome": 5
+    },
+    {
+     "t": "count",
+     "p": "A litre of air holds 270 milligrams of oxygen, and a litre of water 9. How many times more is in the air?",
+     "a": 30,
+     "why": "270 ÷ 9 = 30. Air holds about 30 times as much oxygen as the same amount of water, which is why gulping air helps a fish so much.",
+     "outcome": 1
+    },
+    {
+     "t": "match",
+     "p": "Match each animal to the surprise she holds.",
+     "pairs": [
+      [
+       "Murrel",
+       "a fish who can drown"
+      ],
+      [
+       "Echidna",
+       "a mammal who carries her egg in a pouch"
+      ],
+      [
+       "Russell's viper",
+       "a snake who bears live young"
+      ],
+      [
+       "Indohyus",
+       "a four-legged relative of the first whales"
+      ],
+      [
+       "Tiktaalik",
+       "a fish with a neck and wrists"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each of these animals has a feature we do not expect from her group. Each one makes sense once the groups are seen as branches of one tree.",
+     "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "A friend says a cow is 'more evolved' than a carp. What would you tell them?",
+     "lines": 4,
+     "a": "Both have been evolving for exactly the same length of time since their shared ancestor. The cow's branch gained limbs, an amnion and milk. The carp's branch gained its own features, such as the swim bladder and fan fins. The family tree has branches, not a top.",
+     "why": "A strong answer says that every living animal is equally modern, and names a feature that the carp's branch gained.",
+     "outcome": 0
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these is evidence that your ancestors had thick fur?",
+     "opts": [
+      "Goosebumps",
+      "Fingernails",
+      "Your navel",
+      "Milk teeth"
+     ],
+     "a": 0,
+     "why": "A tiny muscle raises each hair when you are cold. On a furry animal this fluffs the coat. On us it does almost nothing, so it is a leftover.",
+     "how": "a2",
+     "outcome": 6
+    },
+    {
+     "t": "draw",
+     "p": "Draw a small family tree for a lizard, a crocodile and a crow. Show which two are closest.",
+     "art": "Three small pictures at the top of a blank space: a lizard, a crocodile and a crow.",
+     "a": "The crocodile and the crow join at one fork. That fork then joins the lizard's line further down.",
+     "why": "A strong drawing puts the crocodile with the crow. Putting the crocodile with the lizard goes by scales and shape, which are old features.",
+     "outcome": 4
+    },
+    {
+     "t": "order",
+     "p": "Put these animals in order, from your most distant relative to your closest.",
+     "items": [
+      "Hen",
+      "Carp",
+      "Platypus",
+      "Frog",
+      "Lungfish"
+     ],
+     "a": [
+      "Carp",
+      "Lungfish",
+      "Frog",
+      "Hen",
+      "Platypus"
+     ],
+     "why": "Each one shares one more step of the family tree with you than the one before. The platypus is a mammal, so she is the closest of these.",
+     "outcome": 0
+    },
+    {
+     "t": "odd",
+     "p": "Three of these have four limbs, or had ancestors with four limbs. Which one does not?",
+     "opts": [
+      "Snake",
+      "Whale",
+      "Caecilian",
+      "Seahorse"
+     ],
+     "a": 3,
+     "why": "A seahorse is a fish with thin fan fins, and her ancestors never had four limbs. Snakes, whales and caecilians lost limbs that their ancestors had.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "Scientists compare the DNA of two animals and find few differences. What does that suggest?",
+     "opts": [
+      "They share a recent ancestor",
+      "They are the same size",
+      "They live in the same place",
+      "They eat the same food"
+     ],
+     "a": 0,
+     "why": "Copying mistakes build up over time. Few differences means little time on separate branches.",
+     "how": "a3",
+     "outcome": 6
+    },
+    {
+     "t": "perspective",
+     "p": "Two scientists talk about the word 'reptile'.",
+     "views": [
+      {
+       "who": "First scientist",
+       "says": "A group should be a whole branch. Birds grew from the reptile branch, so birds are reptiles."
+      },
+      {
+       "who": "Second scientist",
+       "says": "'Reptile' is a useful word for scaly animals who bask. Keep it, and remember it is not a whole branch."
+      }
+     ],
+     "ask": "Which view do you agree with more, and why? Then give one good point of the other view.",
+     "lines": 5,
+     "a": "A strong answer chooses one view and gives a reason from the family tree or from everyday use. It also says what the other view gets right.",
+     "why": "Both scientists accept the same family tree. They disagree about what names are for: showing who is related, or describing a way of living.",
+     "outcome": 4
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "In-between animals: argued ideas and deep time (challenge)",
+   "tier": "challenge",
+   "mins": 35,
+   "items": [
+    {
+     "t": "write",
+     "p": "Lungs and limbs came before life on land. Give two ideas for why limbed animals first left the water.",
+     "lines": 4,
+     "a": "One idea: the banks had food, such as insects and millipedes, and no big hunters. Another: warm shallows held little oxygen, and a raised head could reach the air. An older idea, that they crawled between drying ponds, is now doubted.",
+     "why": "A strong answer gives two ideas and treats them as ideas. Nobody knows for certain.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "Humans carry broken genes for making egg yolk. What is the best explanation?",
+     "opts": [
+      "Our distant ancestors laid yolky eggs",
+      "Humans will lay eggs one day",
+      "We get them from eating eggs",
+      "They came from hens"
+     ],
+     "a": 0,
+     "why": "The early ancestors of mammals laid eggs with yolk. After milk took over the feeding of young, the yolk genes were no longer needed and stopped working. Genes do not come from food.",
+     "outcome": 3
+    },
+    {
+     "t": "count",
+     "p": "On a timeline, 1 centimetre is 1 million years. Tiktaalik is at 375 and Acanthostega at 365. How many centimetres apart?",
+     "how": "p1",
+     "a": 10,
+     "why": "375 − 365 = 10 centimetres, which stands for 10 million years.",
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "Bones and DNA were studied separately, and they give the same family tree. Why is that strong evidence?",
+     "lines": 4,
+     "a": "The two kinds of evidence do not depend on each other. If the tree were wrong, there would be no reason for them to agree. Since they agree in almost every place, the tree is very likely real.",
+     "why": "A strong answer says that the two methods are separate, so their agreement is not a coincidence.",
+     "outcome": 6
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: lungs evolved from the swim bladders of fish.",
+     "a": false,
+     "why": "False, as far as the evidence shows. Lungfish and bichirs, on two early branches, both have lungs. So the first bony fish probably had lungs, and the swim bladder is a changed lung.",
+     "outcome": 6
+    },
+    {
+     "t": "mcq",
+     "p": "The purple frog's closest relatives live on the Seychelles islands. What explains this best?",
+     "opts": [
+      "The land they lived on split apart",
+      "Frogs swam across the ocean",
+      "People carried them there",
+      "Birds dropped their eggs"
+     ],
+     "a": 0,
+     "why": "India and the Seychelles were once joined. The land split and drifted apart with the frogs' ancestors on both pieces. Frogs cannot survive in sea water for long.",
+     "outcome": 6
+    },
+    {
+     "t": "sort",
+     "p": "Sort these: scientists agree, or scientists still argue.",
+     "cats": [
+      "Agree",
+      "Still argue"
+     ],
+     "items": [
+      [
+       "Birds are dinosaurs",
+       "Agree"
+      ],
+      [
+       "Four-limbed animals came from lobe-finned fish",
+       "Agree"
+      ],
+      [
+       "Why limbed animals first left the water",
+       "Still argue"
+      ],
+      [
+       "What the first milk was for",
+       "Still argue"
+      ],
+      [
+       "Warm water holds less oxygen than cold",
+       "Agree"
+      ],
+      [
+       "Whether to call birds reptiles",
+       "Still argue"
+      ]
+     ],
+     "a": "see items",
+     "why": "Scientists agree on the family tree itself. They still argue about the reasons for some changes, and about how to name the groups.",
+     "outcome": 6
+    },
+    {
+     "t": "draw",
+     "p": "Draw an animal halfway between a fish and a frog. Label three fish features and three newer features.",
+     "art": "A blank space with a small fish drawn at the left edge and a small frog at the right edge.",
+     "a": "Fish features could be scales, gills and fin rays. Newer features could be a neck, a flat head with eyes on top, and sturdy front fins with a wrist.",
+     "why": "A strong drawing mixes old and new features in one body, as Tiktaalik did. Any reasoned mixture is acceptable.",
+     "how": "a5",
+     "outcome": 2
+    },
+    {
+     "t": "fill",
+     "p": "A small leftover of a part that was bigger in an animal's ancestors is called a ____ part.",
+     "a": [
+      "vestigial"
+     ],
+     "why": "The human tailbone and the small hip bones of a whale are vestigial parts.",
+     "outcome": 6
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from the oldest to the most recent.",
+     "items": [
+      "Archaeopteryx, an early bird",
+      "First mammals",
+      "The asteroid strike",
+      "First vertebrates",
+      "Tiktaalik"
+     ],
+     "a": [
+      "First vertebrates",
+      "Tiktaalik",
+      "First mammals",
+      "Archaeopteryx, an early bird",
+      "The asteroid strike"
+     ],
+     "why": "About 500, 375, 225, 150 and 66 million years ago. Mammals are older than birds, which surprises many people.",
+     "how": "p1",
+     "outcome": 0
+    },
+    {
+     "t": "write",
+     "p": "If every in-between animal were still alive, could we sort vertebrates into five groups? Explain.",
+     "lines": 5,
+     "a": "It would be very hard. Each animal would be only a little different from her nearest relatives, so there would be no gaps to draw lines in. The groups look separate today because most of the in-between animals died out.",
+     "why": "A strong answer says that the gaps between groups come from extinction. Any answer that reasons from this is good, whichever way it concludes.",
+     "outcome": 0
+    },
+    {
+     "t": "mcq",
+     "p": "Water holds 11.3 milligrams of oxygen per litre at 10 °C and 7.6 at 30 °C. What fraction is lost?",
+     "opts": [
+      "About a third",
+      "About a half",
+      "About a tenth",
+      "None"
+     ],
+     "a": 0,
+     "why": "11.3 − 7.6 = 3.7. And 3.7 out of 11.3 is close to one third. So a pond at 30 °C holds about a third less oxygen than one at 10 °C.",
+     "outcome": 1
+    },
+    {
+     "t": "match",
+     "p": "Match each piece of evidence to what it suggests.",
+     "pairs": [
+      [
+       "A fossil with both gills and fingers",
+       "the first limbs were used in water"
+      ],
+      [
+       "Lungs in both lungfish and bichirs",
+       "the first bony fish had lungs"
+      ],
+      [
+       "Broken yolk genes in humans",
+       "our ancestors laid eggs with yolk"
+      ],
+      [
+       "Small hip bones inside a whale",
+       "her ancestors had back legs"
+      ],
+      [
+       "Nest-guarding in crocodiles and birds",
+       "their shared ancestor may have guarded nests"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each line goes from something that can be seen to a conclusion about the past. A strong answer could say how sure each conclusion is.",
+     "outcome": 6
+    },
+    {
+     "t": "label",
+     "p": "Draw a murrel's head from the side. Label the gills, the air chamber, and her mouth at the surface.",
+     "art": "A blank space for the child's own drawing, with a wavy line near the top for the water surface.",
+     "a": [
+      "Gills: behind the head, under the gill cover",
+      "Air chamber: above the gills",
+      "Mouth: just through the water surface"
+     ],
+     "why": "A strong drawing puts the air chamber above the gills, and shows the fish reaching the surface. She uses the gills and the chamber together.",
+     "outcome": 1
+    },
+    {
+     "t": "perspective",
+     "p": "Three ideas about why limbed animals first left the water.",
+     "views": [
+      {
+       "who": "Drying ponds",
+       "says": "Ponds dried up. The ones who could crawl to the next pond lived."
+      },
+      {
+       "who": "Food and safety",
+       "says": "The banks had food and no big hunters. Going there paid off."
+      },
+      {
+       "who": "Breathing",
+       "says": "Warm shallows had little oxygen. A raised head could reach the air."
+      }
+     ],
+     "ask": "Which idea do you find strongest? Give one piece of evidence for it, and one problem with another idea.",
+     "lines": 6,
+     "a": "A strong answer picks one idea and uses evidence from the unit: the first limbs were too weak for crawling, the fossils come from wet wooded places, insects were on land already, and warm water holds little oxygen.",
+     "why": "Most scientists now doubt the drying ponds idea. The other two are both taken seriously, and both may be partly right.",
+     "outcome": 2
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "A murrel is kept in a pot filled to the brim, under a tight lid. What is the danger?",
+   "opts": [
+    "She cannot reach air and may drown",
+    "The water is too clean",
+    "The water is too cold",
+    "She has no room to turn"
+   ],
+   "a": 0,
+   "why": "A murrel must gulp air at the surface. With no air gap she cannot breathe properly, even though she is in water.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which holds more oxygen: a litre of air or a litre of pond water?",
+   "opts": [
+    "Air, about 30 times as much",
+    "Water, about 30 times as much",
+    "They hold the same",
+    "It depends on the fish"
+   ],
+   "a": 0,
+   "why": "Air is about one-fifth oxygen. Water holds only a little dissolved oxygen, about 9 milligrams in a litre at 20 °C.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which came first in the history of animals?",
+   "opts": [
+    "Lungs, then legs",
+    "Legs, then lungs",
+    "Both at the same time",
+    "Nobody has any evidence"
+   ],
+   "a": 0,
+   "why": "Lungfish have lungs and no legs, and every animal with four limbs has lungs. Fossils agree: fish had lungs long before any had limbs.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which animal shows that milk evolved before mammals stopped laying eggs?",
+   "opts": [
+    "Platypus",
+    "Kangaroo",
+    "Fruit bat",
+    "Penguin"
+   ],
+   "a": 0,
+   "why": "The platypus lays eggs and feeds her hatched young on milk. A kangaroo is born alive, and a penguin is a bird with no milk.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Tiktaalik had gills and scales, and also a neck and wrists. What is such a fossil called?",
+   "opts": [
+    "A transitional fossil",
+    "A living fossil",
+    "A vestigial part",
+    "A convergent fossil"
+   ],
+   "a": 0,
+   "why": "A transitional fossil has features of an older group and of a newer group. It shows what the animals in between were like.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is the closest living relative of a crow?",
+   "opts": [
+    "Mugger crocodile",
+    "Monitor lizard",
+    "Fruit bat",
+    "King cobra"
+   ],
+   "a": 0,
+   "why": "Crocodiles and birds share an ancestor that lizards and snakes do not. A bat flies, but she is a mammal.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Bats and birds both have wings. Why is this not a sign that they are close relatives?",
+   "opts": [
+    "Wings arose separately in each",
+    "Bats are a kind of bird",
+    "Wings are a very old feature",
+    "Both lay eggs"
+   ],
+   "a": 0,
+   "why": "Their shared ancestor had no wings. Each branch evolved wings separately, which is called convergent evolution.",
+   "outcome": 5
+  },
+  {
+   "t": "truefalse",
+   "p": "True or false: the steps of the Feature Ladder show which animals are better.",
+   "a": false,
+   "why": "False. The steps show the order in which features first appeared. Every animal on the ladder is alive today and has evolved for the same length of time.",
+   "how": "a1",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which part of your body is the leftover of a tail?",
+   "opts": [
+    "The tailbone",
+    "The navel",
+    "The kneecap",
+    "The heel"
+   ],
+   "a": 0,
+   "why": "The tailbone is three to five small joined bones at the end of the backbone. The navel is where the cord from the placenta joined you.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Why do fish in a warm, shallow pond gasp at the surface at dawn?",
+   "opts": [
+    "The water has very little dissolved oxygen",
+    "They are hungry",
+    "The water is too cold",
+    "They are looking for light"
+   ],
+   "a": 0,
+   "why": "Warm water holds little oxygen, and plants and rotting leaves use it up overnight. The thin top layer of water, next to the air, has the most.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A fossil has feathers, and also teeth and a long bony tail. What does it most likely show?",
+   "opts": [
+    "An animal between older dinosaurs and birds",
+    "A bird that grew teeth by mistake",
+    "A lizard that could fly",
+    "Two animals mixed up"
+   ],
+   "a": 0,
+   "why": "Feathers are a bird feature. Teeth and a long bony tail are older dinosaur features. Archaeopteryx, about 150 million years old, is such an animal.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "In the Air in Water test, what had to stay the same for all three tumblers?",
+   "opts": [
+    "The tumbler, the amount of water and the place",
+    "Only the colour of the tumbler",
+    "How cold the water was at the start",
+    "Nothing at all"
+   ],
+   "a": 0,
+   "why": "Only the water's history was changed: cold, room-warm or boiled. Everything else was kept the same, so any difference in bubbles came from that one change.",
+   "how": "e1",
+   "outcome": 7
+  }
+ ],
+ "videos": [
+  {
+   "title": "Great Transitions: The Origin of Tetrapods | HHMI BioInteractive Video",
+   "channel": "biointeractive",
+   "youtube": "zK8XGEDcTfo",
+   "mins": 17,
+   "why": "Neil Shubin tells how his team predicted where a fish with limbs should be found, searched the Arctic for years and found Tiktaalik. Watch it after Predict the In-between Animal.",
+   "check": "Address, title and channel confirmed through YouTube's public lookup. The length of about 17 minutes comes from a library listing of the film. Not watched from here: a parent should watch it first."
+  },
+  {
+   "title": "Mudskippers: The Fish That Walk on Land | Life | BBC Earth",
+   "channel": "BBC Earth",
+   "youtube": "CAQuoH_fOWM",
+   "mins": 4,
+   "why": "To see fish who live on wet mud, move on their front fins and breathe air through their skin and mouth.",
+   "check": "Address, title and channel confirmed through YouTube's public lookup. The length is a guess. Not watched from here: a parent should watch it first."
+  },
+  {
+   "title": "Platypus Parts | National Geographic",
+   "channel": "National Geographic",
+   "youtube": "QNoQvjlmGdk",
+   "mins": 3,
+   "why": "To see a living platypus swim and feed, and to look at her bill, fur and feet.",
+   "check": "Address, title and channel confirmed through YouTube's public lookup. The length is a guess. Not watched from here: a parent should watch it first, and check what it says against this unit."
+  }
+ ],
+ "applications": [
+  "Fish farmers pump air into ponds on hot nights, because warm water holds little oxygen. Farmers of murrel and climbing perch can keep them in shallow, still ponds, because these fish breathe air.",
+  "Live murrels and climbing perches are carried to market in wet baskets with very little water, so they reach the buyer fresh.",
+  "Anyone who keeps a fighting fish or a gourami must leave an air gap under the lid, because these fish gulp air.",
+  "Doctors and scientists learn about human bodies from mice, zebrafish and frogs. This works because we share ancestors with them, and so we share most of our genes and organs.",
+  "Fossil hunters, like those who found Tiktaalik, choose where to dig by working out how old the rock must be and what kind of place it formed in.",
+  "Wildlife officers use DNA to find out which animal a piece of meat, skin or fish came from.",
+  "People who protect nature give special care to animals on old, lonely branches of the family tree, such as the purple frog and the caecilians of India."
+ ],
+ "spotted": [
+  {
+   "text": "Live murrels or climbing perches in a tub at a fish market, coming up to the surface for air while other fish lie on ice.",
+   "art": "A fish seller's wide tub with a few long dark fish in shallow water, one with her mouth at the surface."
+  },
+  {
+   "text": "A fighting fish in a small bowl at a pet shop, swimming up every few minutes to gulp air.",
+   "art": "A blue fighting fish in a round bowl with her mouth touching the surface."
+  },
+  {
+   "text": "Mudskippers hopping on the wet mud at low tide in a mangrove creek, such as at Point Calimere in Tamil Nadu or Coringa in Andhra Pradesh.",
+   "art": "Several small goggle-eyed fish propped on their front fins on shining mud among mangrove roots."
+  },
+  {
+   "text": "Fish crowding and gasping at the surface of a temple tank or village pond early on a hot summer morning.",
+   "art": "A stone-stepped tank at dawn with many small fish mouths breaking the surface near the steps."
+  },
+  {
+   "text": "The scaly legs and feet of a crow, a hen or a pigeon. They are the same kind of scales a crocodile has.",
+   "art": "A close view of a hen's scaly yellow foot beside a close view of the scales on a crocodile's leg."
+  },
+  {
+   "text": "Goosebumps on your own arm when you step out of a bath on a cool morning.",
+   "art": "A child's forearm with small raised bumps and fine hairs standing up."
+  },
+  {
+   "text": "A silver balloon inside a fish being cleaned at the market. It is the swim bladder, a changed lung.",
+   "art": "A cleaned rohu on a wooden board with the long silver swim bladder lying beside her."
+  },
+  {
+   "text": "Frogs calling from puddles on the first nights of the monsoon. They must lay their eggs in water, because the eggs have no amnion or shell.",
+   "art": "A puddle at night in the rain with a frog calling, his throat pouch blown up, and a clump of jelly eggs in the water."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Why did animals with limbs first come out of the water?",
+   "why_open": "Limbs and lungs were there already. Fossils show bodies and the places they lived, but they do not show reasons. Food on the banks, safety from hunters and easier breathing are all possible."
+  },
+  {
+   "q": "What was the very first milk for?",
+   "why_open": "Milk does not fossilise. One idea is that it kept soft-shelled eggs moist and free of germs. Another is that it fed the hatched young from the start. The genes give hints and no clear answer."
+  },
+  {
+   "q": "How many separate times did fish evolve a way to breathe air?",
+   "why_open": "Air breathing is found in many branches of fish, with different organs in each. Scientists count dozens of separate origins, and the count changes as more fish are studied."
+  },
+  {
+   "q": "What is it like for a platypus to sense the electric signals of a prawn?",
+   "why_open": "We can measure the sensors in her bill and how her brain uses them. Nobody can know from outside what the sense feels like to her."
+  },
+  {
+   "q": "Why did one branch of mammals keep laying eggs for 160 million years or more?",
+   "why_open": "Egg-laying clearly works well for the platypus and the echidnas. Whether something about their way of living favoured it, or whether live birth simply never arose in their branch, is not known."
+  },
+  {
+   "q": "Is a group of animals something real in nature, or a line that people draw?",
+   "why_open": "Branches of the family tree are real. But where one group ends and the next begins depends on which in-between animals have died out, and on what we choose to name."
+  }
+ ],
+ "ask_kids": [
+  "If you could breathe both air and water, where would you live?",
+  "Which animal you know breaks a rule you were taught about her group?",
+  "A crocodile is a closer relative of a crow than of a lizard. Does that change how you look at a crow?",
+  "Which part of your body do you think is the oldest: your backbone, your lungs, your fingers or your hair?",
+  "If the in-between animals were still alive, would we need the word 'fish'?",
+  "Why do you think the fish at the market who are still alive are always the same few kinds?",
+  "What would you look for first, if you found a strange bone in a rock?",
+  "Is it fair to call an animal a 'living fossil'? What would she say about it?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the murrel keep popping up to the surface?",
+   "a": "She needed a breath of fresh air."
+  },
+  {
+   "j": "What did the platypus say when they told her mammals do not lay eggs?",
+   "a": "Nobody told me the rule."
+  },
+  {
+   "j": "Why did Tiktaalik do so well at school?",
+   "a": "She was the first in her class to put her hand up."
+  },
+  {
+   "j": "What do you call a dinosaur sitting on your window grill?",
+   "a": "A crow."
+  },
+  {
+   "j": "Why was the lungfish never out of breath?",
+   "a": "She always carried a spare."
+  },
+  {
+   "j": "What did the crocodile say to the crow?",
+   "a": "Hello, cousin. You have changed."
+  },
+  {
+   "j": "Why don't whales wear shoes?",
+   "a": "They gave up their feet millions of years ago."
+  },
+  {
+   "j": "What did Acanthostega say when she counted her fingers?",
+   "a": "Eight. I can never find gloves."
+  },
+  {
+   "j": "Why did the echidna carry her egg in a pouch?",
+   "a": "She did not want to put all her eggs in one basket."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "A litre of air holds about 270 milligrams of oxygen. A litre of pond water at 20 °C holds about 9 milligrams. How many litres of water must pass over a fish's gills to bring as much oxygen as one litre of air?",
+   "answer": "About 30 litres of water.",
+   "explain": "270 ÷ 9 = 30. One litre of air holds as much oxygen as 30 litres of water. So one gulp of air is worth many mouthfuls of water.",
+   "math_unit": "math.fractions.ratio-and-proportion.L5",
+   "context": "This is about the Air in Water test, where you saw that water holds dissolved air, and that warm water holds less of it.",
+   "how": "e1",
+   "why_maths": "Dividing one amount by the other shows how big the advantage of breathing air is, which bubbles alone cannot show."
+  },
+  {
+   "problem": "A litre of fresh water holds about 11.3 milligrams of oxygen at 10 °C, 9.1 at 20 °C and 7.6 at 30 °C. Does the amount fall by the same number for each 10 degrees? Predict the amount at 40 °C.",
+   "answer": "No. The fall gets smaller each time. A good prediction for 40 °C is between 6 and 7 milligrams. The measured value is about 6.4.",
+   "explain": "From 10 to 20 °C the fall is 11.3 − 9.1 = 2.2. From 20 to 30 °C it is 9.1 − 7.6 = 1.5. The second fall is smaller. If the next fall is smaller again, about 1.0 to 1.2, the amount at 40 °C is about 6.4 to 6.6.",
+   "math_unit": "math.data.line-graphs.L5",
+   "context": "This is about the Air in Water test, where cold water gave up bubbles of air as it warmed.",
+   "how": "e1",
+   "why_maths": "Looking at how the differences change lets you predict a temperature you never measured, and a curve on a graph shows the same thing at a glance."
+  },
+  {
+   "problem": "In your Feature Ladder table, 6 animals have lungs and 5 have four limbs. Is every animal with four limbs also in the group with lungs? Is every animal with lungs also in the group with four limbs? What does this tell you?",
+   "answer": "Every animal with four limbs has lungs. Not every animal with lungs has four limbs, because the lungfish has lungs and no limbs. So lungs came first.",
+   "explain": "Draw a big circle for the 6 animals with lungs. The 5 animals with four limbs all fit inside it, in a smaller circle. One animal, the lungfish, is in the big circle and outside the small one. A feature that arrived later is always found inside the group that has the earlier feature.",
+   "math_unit": "math.logic.sets-and-venn.L4",
+   "context": "This is about the Feature Ladder, where you ticked the features of seven animals in a table.",
+   "how": "a1",
+   "why_maths": "Circles inside circles show at once which feature is older, without any dates."
+  },
+  {
+   "problem": "On the string timeline, the first mammals are at 225 centimetres and the asteroid strike at 66. For what fraction of their history, to the nearest tenth, did mammals live beside the big dinosaurs?",
+   "answer": "About seven tenths.",
+   "explain": "Mammals and big dinosaurs shared the Earth for 225 − 66 = 159 million years. The whole history of mammals is 225 million years. 159 ÷ 225 is about 0.7, or seven tenths. Mammals have lived without the big dinosaurs for only the last three tenths.",
+   "math_unit": "math.fractions.decimals-and-percentages.L5",
+   "context": "This is about Five Hundred Million Years on a String, the timeline where one centimetre stands for one million years.",
+   "how": "p1",
+   "why_maths": "A fraction shows how much of mammal history was spent beside dinosaurs, which two separate dates do not show."
+  },
+  {
+   "problem": "In a made-up Lap or Suck test, a child lapping from a plate drank 1 tablespoon in 20 seconds. Through a straw she drank 4 tablespoons in 8 seconds. How many times faster was the straw?",
+   "answer": "10 times faster.",
+   "explain": "Lapping: 1 tablespoon in 20 seconds. Straw: 4 tablespoons in 8 seconds, which is 1 tablespoon in 2 seconds. 20 ÷ 2 = 10. The straw delivered water 10 times as fast.",
+   "math_unit": "math.fractions.ratio-and-proportion.L5",
+   "context": "This is about Lap or Suck, where you drank water from a plate, from a wet cloth and through a straw.",
+   "how": "e2",
+   "why_maths": "The two tries lasted different times, so the amounts cannot be compared directly. Working out the time for one tablespoon makes the comparison fair."
+  },
+  {
+   "problem": "Giving birth to live young arose about 150 separate times among vertebrates. About 115 of these were in lizards and snakes, and 1 was in mammals. Roughly what fraction arose in lizards and snakes?",
+   "answer": "About three quarters.",
+   "explain": "115 out of 150 is 23 out of 30, which is a little more than 0.75. So about three quarters of all the separate beginnings of live birth were in lizards and snakes.",
+   "math_unit": "math.fractions.fractions-of-a-whole.L5",
+   "context": "This is about the card 'The same feature can arise many times', which says that live birth is a poor clue to family.",
+   "why_maths": "The fraction shows that live birth is mainly a lizard and snake story, although we think of it as a mammal feature."
+  },
+  {
+   "problem": "In Count the Differences, the cow string differs from the human string in 2 places and the hen string in 4. None of the places are the same. Predict how many places differ between the cow and the hen. Then count.",
+   "answer": "6 places.",
+   "explain": "The cow has 2 changes that the human lacks, and the hen has 4 different ones. Going from the hen to the cow, you pass all 4 and then all 2. 4 + 2 = 6. Counting the two strings square by square also gives 6.",
+   "math_unit": "math.logic.problem-solving.L5",
+   "context": "This is about Count the Differences, where you compared five made-up letter strings that stand for DNA.",
+   "how": "a3",
+   "why_maths": "If the family tree is right, the counts must add up along its branches. Predicting a count and then checking it tests the tree."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.animals.L5",
+  "title": "Many Ways to Live a Life",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "Tiktaalik roseae, University of Chicago",
+   "url": "https://tiktaalik.uchicago.edu",
+   "kind": "interactive",
+   "why": "Pictures of the fossil, the story of the search in the Arctic, and what each part of her body shows, from the team who found her."
+  },
+  {
+   "title": "Understanding Evolution, University of California Museum of Paleontology",
+   "url": "https://evolution.berkeley.edu",
+   "kind": "interactive",
+   "why": "For the parent and an older child: clear pages on family trees, on how to read them, and on the move from water to land."
+  },
+  {
+   "title": "OneZoom tree of life explorer",
+   "url": "https://www.onezoom.org",
+   "kind": "interactive",
+   "why": "A family tree of all life that you can zoom into. Search for the platypus, the lungfish or the crow and see where each branch joins."
+  },
+  {
+   "title": "HHMI BioInteractive",
+   "url": "https://www.biointeractive.org",
+   "kind": "interactive",
+   "why": "Free films and activities on evolution for classrooms, including the film about Tiktaalik in this unit."
+  },
+  {
+   "title": "Madras Crocodile Bank Trust and Centre for Herpetology",
+   "url": "https://madrascrocodilebank.org",
+   "kind": "place",
+   "where": "Mamallapuram, near Chennai",
+   "why": "Watch muggers, gharials and other crocodiles, the closest living relatives of birds. Ask the keepers how the mothers guard their nests."
+  },
+  {
+   "title": "Dinosaur Fossil Park and Museum, Raiyoli",
+   "kind": "place",
+   "where": "Raiyoli, near Balasinor, Gujarat",
+   "why": "Fossil dinosaur eggs and bones in the rocks where they were found, from the time when India was an island."
+  },
+  {
+   "title": "Indroda Dinosaur and Fossil Park",
+   "kind": "place",
+   "where": "Gandhinagar, Gujarat",
+   "why": "Fossil dinosaur eggs from Gujarat, and life-size models of the dinosaurs who laid them."
+  },
+  {
+   "title": "B. M. Birla Science Museum",
+   "kind": "place",
+   "where": "Hyderabad",
+   "why": "The Dinosaurium holds the mounted skeleton of Kotasaurus, a large plant-eating dinosaur found in Telangana."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-straw",
+   "item": "Paper or steel drinking straws",
+   "kind": "material",
+   "why": "The 'teat' in Lap or Suck. One straw is enough. A clean tender-coconut straw works as well.",
+   "url": "https://www.amazon.in/s?k=paper+drinking+straws",
+   "used_in": [
+    "e2"
+   ]
+  },
+  {
+   "id": "b-innerfish",
+   "item": "Your Inner Fish, by Neil Shubin (2008)",
+   "kind": "book",
+   "why": "For the parent or a keen older reader. One of the finders of Tiktaalik explains how the human body carries the history of fish, in plain language.",
+   "url": "https://www.amazon.in/s?k=your+inner+fish+neil+shubin",
+   "used_in": [
+    "a5",
+    "a2"
+   ],
+   "plan": "Read chapter 1, on finding Tiktaalik, after Predict the In-between Animal. Read the chapter on hands before Old Parts in Your Body."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Name a mammal who lays eggs.",
+   "a": "The platypus, or an echidna."
+  },
+  {
+   "q": "Name an Indian fish who breathes air.",
+   "a": "The murrel, the climbing perch or the mudskipper."
+  },
+  {
+   "q": "Which came first, lungs or legs?",
+   "a": "Lungs. Fish had them long before any animal had legs."
+  },
+  {
+   "q": "Which holds more dissolved oxygen, cold water or warm water?",
+   "a": "Cold water."
+  },
+  {
+   "q": "Which living animals are the closest relatives of birds?",
+   "a": "Crocodiles."
+  },
+  {
+   "q": "What is your tailbone the leftover of?",
+   "a": "A tail."
+  },
+  {
+   "q": "How many fingers did Acanthostega have on each hand?",
+   "a": "Eight."
+  },
+  {
+   "q": "What do few differences between the DNA of two animals show?",
+   "a": "That they shared an ancestor not very long ago."
+  }
+ ],
+ "warm": {
+  "words": [
+   "LUNG",
+   "FOSSIL",
+   "AMNION",
+   "BRANCH",
+   "MURREL"
+  ],
+  "quiz": [
+   [
+    "Every mammal is born alive.",
+    false,
+    "The platypus and the echidnas lay eggs."
+   ],
+   [
+    "A fish can drown.",
+    true,
+    "A murrel or a climbing perch must reach the surface to gulp air."
+   ],
+   [
+    "Lungs first appeared in land animals.",
+    false,
+    "They first appeared in fish, more than 400 million years ago."
+   ],
+   [
+    "Warm water holds less dissolved oxygen than cold water.",
+    true,
+    "That is why fish gasp in warm, shallow ponds."
+   ],
+   [
+    "A crocodile is a closer relative of a lizard than of a crow.",
+    false,
+    "Crocodiles are the closest living relatives of birds."
+   ],
+   [
+    "The first limbs with fingers were used in water.",
+    true,
+    "Acanthostega had fingers and gills, and limbs too weak for land."
+   ],
+   [
+    "The platypus stopped evolving long ago.",
+    false,
+    "Her branch gained new features, such as a bill that senses electric signals."
+   ],
+   [
+    "Live birth arose many separate times.",
+    true,
+    "More than 150 times among vertebrates, mostly in lizards and snakes."
+   ],
+   [
+    "Your tailbone is the leftover of a tail.",
+    true,
+    "Before birth you had a small tail for a few weeks."
+   ],
+   [
+    "Bats are close relatives of birds.",
+    false,
+    "Bats are mammals. Wings arose separately in the two groups."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Murrel",
+     "Climbing perch",
+     "Lungfish",
+     "Sardine"
+    ],
+    "Sardine",
+    "The murrel, the climbing perch and the lungfish breathe air, but a sardine uses gills only."
+   ],
+   [
+    [
+     "Platypus",
+     "Echidna",
+     "Kangaroo",
+     "Hen"
+    ],
+    "Hen",
+    "The platypus, the echidna and the kangaroo are mammals who make milk, but a hen is a bird."
+   ],
+   [
+    [
+     "Tailbone",
+     "Goosebumps",
+     "Whale hip bones",
+     "Elbow"
+    ],
+    "Elbow",
+    "The first three are leftovers of parts that did more in ancestors, but an elbow is in full use."
+   ],
+   [
+    [
+     "Bat wing",
+     "Whale flipper",
+     "Human arm",
+     "Butterfly wing"
+    ],
+    "Butterfly wing",
+    "The first three are built on the same bones from one ancestor, but a butterfly's wing has no bones."
+   ],
+   [
+    [
+     "Russell's viper",
+     "Sand boa",
+     "Guppy",
+     "Cobra"
+    ],
+    "Cobra",
+    "The viper, the sand boa and the guppy bear live young, but a cobra lays eggs."
+   ]
+  ]
+ },
+ "plan": {
+  "start_options": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "g1",
+   "big_questions",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "story",
+   "summary",
+   "terms",
+   "g1",
+   "e2",
+   "a2",
+   "a5",
+   "videos",
+   "how_we_found_out",
+   "ws-core",
+   "g2",
+   "a3",
+   "agreed",
+   "challenging",
+   "c1",
+   "a4",
+   "ws-stretch",
+   "p1",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "g1",
+   "e2",
+   "a2",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "Founder's notebook items bio:28 to bio:31 and bio:178 (fish, amphibians and reptiles, birds, mammals, and vertebrates as a whole), which the curriculum maps to this subtopic.",
+   "Founder's evolution timeline in ideas/by_topic/evolution-the-tree-of-life.md: the first vertebrates at 500 million years, bony fish at 420, lobe-finned fish, Tiktaalik at 375, the earliest four-limbed animals at 365, animals with an amnion at 320, the earliest mammals at 225, the monotremes, birds at 150 'from dinosaurs', and the extinction at 66. Used for the Feature Ladder, the string timeline and the explanation cards.",
+   "Founder's true or false card game in ideas/by_topic/how-we-know.md, which includes the card 'Dinosaurs are extinct (F)'. Used as the model and the first card of the game Sure or Surprised?",
+   "The curriculum entry for sci.animals.vertebrate-groups.L5: 'Surprises: mammals that lay eggs, fish that breathe air, birds that are dinosaurs; what the groups tell us about evolution.' All four parts are covered.",
+   "The Class 3 and Class 4 units on vertebrate groups, and the units sci.classification.sorting-living-things.L4 and sci.animals.birds.L4, which this unit builds on. Their experiments and stories are not repeated. The platypus's discovery, the same-bones activity and the evidence that birds are dinosaurs are told there, so this unit only recalls them.",
+   "The Combined lesson sci-C4-evolution-the-tree-of-life (common ancestry as a branching tree and not a ladder, evidence from bones and from DNA). This unit takes those ideas further for vertebrates. Its story is not reused.",
+   "PHILOSOPHY.md, for the Roots card."
+  ],
+  "science": [
+   "Daeschler, E. B., Shubin, N. H. and Jenkins, F. A., 'A Devonian tetrapod-like fish and the evolution of the tetrapod body plan', Nature 440, 2006 (Tiktaalik)",
+   "Coates, M. I. and Clack, J. A., 'Polydactyly in the earliest known tetrapod limbs', Nature 347, 1990, and 'Fish-like gills and breathing in the earliest known tetrapod', Nature 352, 1991 (Acanthostega)",
+   "Brawand, D., Wahli, W. and Kaessmann, H., 'Loss of egg yolk genes in mammals and the origin of lactation and placentation', PLoS Biology 6, 2008",
+   "Warren, W. C. et al., 'Genome analysis of the platypus reveals unique signatures of evolution', Nature 453, 2008",
+   "Blackburn, D. G., 'Evolution of vertebrate viviparity and specializations for fetal nutrition: a quantitative and qualitative analysis', Journal of Morphology 276, 2015 (more than 150 origins of live birth, at least 115 in lizards and snakes)",
+   "Bi, X. et al., 'Tracing the genetic footprints of vertebrate landing in non-teleost ray-finned fishes', Cell 184, 2021 (bichir lungs, and the swim bladder as a changed lung)",
+   "Thewissen, J. G. M. et al., 'Whales originated from aquatic artiodactyls in the Eocene epoch of India', Nature 450, 2007 (Indohyus, from rocks collected by A. Ranga Rao)",
+   "Wilson, J. A., Mohabey, D. M., Peters, S. E. and Head, J. J., 'Predation upon hatchling dinosaurs by a new snake from the Late Cretaceous of India', PLoS Biology 8, 2010 (Sanajeh indicus)",
+   "Biju, S. D. and Bossuyt, F., 'New frog family from India reveals an ancient biogeographical link with the Seychelles', Nature 425, 2003",
+   "Kamei, R. G. et al., 'Discovery of a new family of amphibians from northeast India with ancient links to Africa', Proceedings of the Royal Society B 279, 2012 (Chikilidae)",
+   "Dayhoff, M. O. et al., Atlas of Protein Sequence and Structure, 1965, and Eck, R. V. and Dayhoff, M. O., 1966 (the first family trees built by computer from protein sequences)",
+   "Green, R. E. et al., 'Three crocodilian genomes reveal ancestral patterns of evolution among archosaurs', Science 346, 2014",
+   "Oftedal, O. T., 'The origin of lactation as a water source for parchment-shelled eggs', Journal of Mammary Gland Biology and Neoplasia 7, 2002 (one idea about the first milk)",
+   "Dissolved oxygen in fresh water at sea level: standard tables, about 11.3 mg per litre at 10 °C, 9.1 at 20 °C, 7.6 at 30 °C and 6.4 at 40 °C",
+   "Chandogya Upanishad 6.1.4; Darwin, C., On the Origin of Species, 1859, chapter 13; Tao Te Ching 1"
+  ]
+ },
+ "how_we_found_out": {
+  "context": "How did people find out what the first legs were for? This card tells the true story, and the idea that turned out wrong.",
+  "story": "For a long time scientists thought they knew why fish grew legs. In the last century the American scientist Alfred Romer pictured fish stranded in drying ponds. Those with stronger fins could crawl to the next pond, and over many generations their fins became legs. So legs were for walking on land. In 1987 Jenny Clack, a British scientist, led a small team to East Greenland. They brought back blocks of rock holding an animal called Acanthostega, about 365 million years old. In Cambridge the bones were slowly freed from the rock, which took years. In 1990 Clack and Michael Coates reported that the hand had eight fingers. In 1991 they reported that she had gills like a fish. Her elbows could not bend forward, and her ribs were too short to hold up her chest out of water. Here was an animal with legs and fingers who lived in water. So legs came first, and walking on land came later.",
+  "who": "Jenny Clack and Michael Coates, with the team who collected the fossils in East Greenland. Alfred Romer was the best-known supporter of the earlier idea.",
+  "when": "1987 (the fossils collected), 1990 (eight fingers reported) and 1991 (gills reported)",
+  "wrong_idea": "That legs evolved for walking on land, in fish who had to crawl from one drying pond to the next. Acanthostega had legs with fingers, and also gills and a body too weak for land, so the first legs were used in water.",
+  "art": "A woman in a warm jacket kneeling on a rocky slope in Greenland, brushing dust from a block of red-brown rock in which the outline of a small limb with many fingers can be seen."
+ },
+ "roots": {
+  "context": "We have been learning about animals who seem to sit between two groups, and about the order in which features arrived. Now we ask what that order tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "In the Feature Ladder, the lungfish had lungs and no legs. The platypus had milk and still laid eggs. So lungs are older than legs, and milk is older than birth without an egg. The features of each group arrived one at a time, over millions of years. An in-between animal is no mistake, because she shows us that order.",
+   "habit": "We learn each group as a fixed list that comes as one set: a mammal has fur, gives milk and is born alive. Then an animal with only part of the list looks like a rule-breaker. But the list was never one set. Each feature on it began at a different time, in a different ancestor.",
+   "evidence": "In the Feature Ladder, no animal had a later feature without all the earlier ones, and the ticks made a staircase. The lungfish and the platypus each stood one step short of a group. The platypus's DNA has milk genes shared with every mammal and one working yolk gene. Human DNA still holds the broken remains of yolk genes."
+  },
+  "three": {
+   "who_am_i": "Your body is made of features of very different ages. Your backbone is about 500 million years old. Your lungs are more than 400 million, your fingers about 365 million, and your milk-drinking more than 200 million.",
+   "what_is_life": "Life does not make new kinds of animals from nothing. It changes what is already there. A lung became a swim bladder, a fin became an arm, and a tail became a tailbone.",
+   "what_is_this_world": "Every animal with a backbone is your relative. The names of the five groups mark the places where one family branched."
+  },
+  "thread": "All vertebrates descend from one population of small, fish-like animals who lived about 500 million years ago. That one family became the many: sardines, frogs, crocodiles, crows, platypuses and us. The groups look separate only because most of the relatives in between have died out. When one of them turns up, alive like the platypus or in rock like Tiktaalik, we can see the join. Everything is conscious, so each branch is also one more way of being aware of the same world.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 6.1.4",
+    "teaching": "By knowing one lump of clay, everything made of clay is known. The different shapes are names that come from speech. What is real is the clay.",
+    "link": "A pot and a plate differ in shape and are one in their clay. A crow and a crocodile differ in shape and are one in their family. 'Bird' and 'reptile' are names we gave to shapes."
+   },
+   {
+    "source": "Charles Darwin, On the Origin of Species (1859), chapter 13 (paraphrased)",
+    "teaching": "Closeness of descent is the hidden bond that our ways of sorting living beings have partly shown us, without our knowing it.",
+    "link": "People sorted animals into groups long before they knew about evolution. Darwin saw why the sorting worked: the groups were families all along."
+   },
+   {
+    "source": "Tao Te Ching 1 (paraphrased)",
+    "teaching": "The name that can be spoken is not the lasting name. Naming is the mother of the ten thousand things.",
+    "link": "We named five groups, and then the platypus did not fit. The animals were never divided as sharply as our names for them."
+   }
+  ],
+  "science": [
+   {
+    "text": "All vertebrates share a common ancestor. Fossils and DNA, studied separately, give the same family tree.",
+    "status": "settled"
+   },
+   {
+    "text": "The features that define each group arose at different times. Lungs came before limbs, and milk before birth without an egg.",
+    "status": "settled"
+   },
+   {
+    "text": "Whether groups such as 'reptiles' or 'fish' are real things in nature, or useful lines that people draw, is still argued by biologists and philosophers.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Georges Cuvier, the French scientist who founded the study of fossil animals",
+   "view": "Cuvier held that every part of an animal fits every other part so closely that one part cannot change alone. A meat-eater's teeth need a meat-eater's claws and gut. So he thought a body could not be rebuilt piece by piece, and that each kind of animal had stayed the same since it began. He knew more about animal bodies than anyone of his time, and he was right that the parts must work together. The in-between fossils that answer him were found long after he died in 1832."
+  },
+  "practice": {
+   "title": "Four old parts",
+   "mins": 3,
+   "say": "Sit still and close your eyes. Put a hand on your back and feel your backbone. It is about 500 million years old. Now breathe in slowly and feel your lungs fill. They are more than 400 million years old. Spread your fingers wide. They are about 365 million years old. Now feel the hair on your arm, which is a mammal's fur. Take three slow breaths. All of these came to you from animals you will never meet. Open your eyes.",
+   "kid": "Close your eyes. Feel your backbone with one hand. Breathe in and feel your lungs. Spread your fingers wide. Touch the hair on your arm. Each part is millions of years old. Take three slow breaths. Open your eyes."
+  },
+  "ask": [
+   "Your mother's mother's mother, far enough back, was a fish. At which mother do you think 'fish' stopped?",
+   "The platypus did not fit the rule for mammals. Was the platypus wrong, or the rule?",
+   "If every in-between animal were still alive, would there be five groups, or one long family?",
+   "Your backbone is 500 million years old, and you were born about ten years ago. How old are you, really?"
+  ],
+  "art": "A child sitting cross-legged with eyes closed, one hand on her back and the other spread open, with a faint line of animals behind her growing smaller into the distance: a small furry mammal, a limbed fish and a little fish."
+ },
+ "playtest": "The experiments and activities in this unit were reasoned through step by step. They have not yet been tried in a kitchen, so please treat the amounts and times as a starting point. Air in Water is on the main path. It needs three matching clear glasses, a fridge and a stove, and the three waters must be made ready at least 3 hours before the test, so start in the morning. The result depends on how much warmer the window is than the fridge. In a warm Indian room, fridge-cold shaken water should cover the glass with small bubbles within 40 to 60 minutes, and boiled water should show none. If the cold glass shows very few, wait another hour or use an older, scratched glass. On a very cool day the effect is weaker. The bubbles are air, and the test does not measure oxygen itself. The Feature Ladder needs only paper, and its rows must come to 1, 2, 3, 4, 4, 5 and 6 ticks. Lap or Suck is wet and a little silly, so put a towel down. The cloth never gives back all its water when squeezed, and the step says so. It is a model of one idea about teats, and not proof of it. Old Parts in Your Body may find nobody at home without the wrist tendon, which is a normal result for a small group. Count the Differences uses made-up letter strings, and the counts must be 2, 4, 5 and 7. Gulp Watch needs an aquarium or a pet shop, so it is an extra. The fin challenge needs a grown-up to cut cardboard. Closest Cousins uses simplified addresses: the three mammals with a full placenta come out equally close, although bats and dolphins are in fact a little closer to each other than to us. Nothing on the main path needs a garden. Facts checked against sources while writing: the ages and finders of Tiktaalik, Acanthostega, Indohyus and the snake Sanajeh, the platypus's eggs, milk, body temperature and sensors, the yolk gene study of 2008, the counts of live birth, the oxygen figures for water, Margaret Dayhoff's work, the Chikilidae caecilians, the coelacanth of 1938, and Romer's drying ponds idea. Facts a person may wish to check again: that a murrel held under water with no air can drown (one biodiversity database says so, and no test was found), the figure of about 270 milligrams of oxygen in a litre of air (worked out here from the make-up of air), the monotreme split of 160 to 220 million years (sources differ), and the ages on the string timeline, which are rounded. The quotations from Darwin and the Tao Te Ching are paraphrases. The three films were confirmed by address, title and channel, and were not watched from here."
+}

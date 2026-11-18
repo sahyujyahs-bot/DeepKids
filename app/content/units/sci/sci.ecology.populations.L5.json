@@ -60,7 +60,7 @@
   },
   {
    "term": "Carrying capacity",
-   "meaning": "The carrying capacity of a place is the largest number of one species that the place can keep alive, year after year, without being damaged.",
+   "meaning": "The carrying capacity of a place is the largest number of one species that the place can keep alive year after year. At that number the place is not damaged.",
    "example": "A meadow that grows enough grass for 800 tahr through the dry months has a carrying capacity of about 800 tahr.",
    "art": "A hillside of grass with a herd of mountain goats spread across it and a dotted line across a graph above them marked 'limit'."
   },
@@ -126,7 +126,7 @@
   },
   {
    "term": "Sample",
-   "meaning": "A sample is a small part of a group that you count or measure, so that you can work out something about the whole group.",
+   "meaning": "A sample is a small part of a group that you count or measure. From it you work out something about the whole group.",
    "example": "Forty beans taken from a big bowl without looking are a sample of the beans in the bowl.",
    "art": "A hand lifting a small cup of beans out of a large bowl of beans."
   },
@@ -186,7 +186,7 @@
   {
    "concept": "Carrying capacity and the S-shaped curve",
    "status": "defined",
-   "definition": "The carrying capacity of a place is the largest number of one species that the place can keep alive, year after year, without being damaged. A population that grows up to it and levels off makes an S-shaped curve.",
+   "definition": "The carrying capacity of a place is the largest number of one species that the place can keep alive year after year. At that number the place is not damaged. A population that grows up to it and levels off makes an S-shaped curve.",
    "description": "In the Full Island Test, the forest began by nearly doubling. Then more and more seeds landed on squares that already had a tree, and those seeds died. At 36 trees every seed died, and the number stopped. Nothing told the trees to stop. Each tree did the same thing in every round. The number stopped because the island had 36 squares. That number, 36, was the island's carrying capacity. Scientists write it as the letter K. The Belgian mathematician Pierre-François Verhulst described this S-shaped growth in the 1830s and 1840s and named it logistic growth. In 1934 the Russian biologist Georgy Gause grew yeast and tiny pond animals in glass tubes. He counted them every day, and their numbers followed the S-shaped curve. Our test is simpler than a real forest. Real trees die, and real seeds can wait in the soil.",
    "examples": [
     "Curd sets overnight and then stops getting much more sour. The bacteria have used much of the milk sugar, and their own acid slows them.",
@@ -247,7 +247,7 @@
   {
    "concept": "Carrying capacity is not one fixed number",
    "status": "defined",
-   "definition": "The carrying capacity of a place changes with the seasons, with the weather from year to year, and with what other living beings, including people, do to the place.",
+   "definition": "The carrying capacity of a place is not fixed. It changes with the seasons and with the weather from year to year. It also changes with what other living beings, including people, do to the place.",
    "description": "A hillside grows much more grass in the monsoon than in the dry months. So which season sets the carrying capacity? The hardest one. A herd must get through the hungriest weeks of the year, so the food of those weeks sets the number. A year of good rain raises the capacity, and a drought lowers it. Other species change it too. More deer on the same grass means less for each herd. People raise the capacity for some species and lower it for others. A rubbish heap raises it for street dogs and crows. A cut forest lowers it for hornbills. This is why scientists treat carrying capacity as a number that moves, and why real populations wobble around it.",
    "examples": [
     "After a good monsoon in Rajasthan, there are more blackbuck fawns the next year.",
@@ -273,7 +273,7 @@
   {
    "concept": "What really causes the waves?",
    "status": "debated",
-   "definition": "",
+   "definition": "Scientists still test what drives the rise and fall of hares and other animals with cycles. It may be their predators, their food, or both together.",
    "description": "The simple story says the predator alone drives the waves. Real populations are less tidy. In the Yukon in Canada, Charles Krebs and his team fenced large areas of forest for eight years. In some they gave the hares extra food. In some they kept out lynx and coyotes. In some they did both. Extra food alone raised hare numbers, and so did fewer predators alone. Doing both raised them far more than the two effects added together. So the hares' own food and their predators act together. On Isle Royale, an island in a North American lake, scientists have counted wolves and moose every winter since 1958. The two numbers do swing, but not in neat waves. Hard winters, ticks and the wolves' small family tree have all changed the counts.",
    "examples": [
     "On Isle Royale the wolves fell to two animals by 2016. Nineteen wolves were brought in during 2018 and 2019, and by 2026 there were more than thirty.",
@@ -325,7 +325,7 @@
   {
    "concept": "How many people can the Earth carry?",
    "status": "debated",
-   "definition": "",
+   "definition": "Nobody knows one number for how many people the Earth can carry. The number depends on how people live.",
    "description": "People are animals, and the same four things change our number. There were about 1 billion people around 1804, and 8 billion in November 2022. The second billion took more than a hundred years to add. The eighth took about eleven. The growth is now slowing, mainly because families are having fewer children. In India a woman has about 2 children on average, according to the national health survey of 2019 to 2021. The United Nations expects the world's number to peak at about 10.3 billion in the 2080s. Does the Earth have a carrying capacity for people? In 1995 the scientist Joel Cohen collected the estimates that others had published. They ranged from under 1 billion to more than 1,000 billion. The estimates differ so much because the answer depends on how people choose to live.",
    "examples": [
     "A person who eats mostly plants needs much less farmland than a person who eats meat every day.",
@@ -355,8 +355,8 @@
   {
    "concept": "Under every limit: energy and atoms",
    "status": "defined",
-   "definition": "A population is limited, in the end, by the flow of energy and the supply of certain atoms through the place where its members live.",
-   "description": "Follow any limiting factor down and you reach energy or atoms. Food is energy caught from sunlight by plants, with atoms of carbon, nitrogen and phosphorus built in. A square metre of ground receives only so much sunlight in a year, and a plant catches only a small part of it. Each eater passes on only about a tenth of the energy to the next eater. So a place can hold many plants, fewer plant eaters and very few hunters. The Earth as a whole receives a fixed amount of sunlight. That sets a ceiling on all the life it can hold at one time. No living being can multiply past the energy and atoms that reach them. This is why the doubling sum for bacteria can never come true.",
+   "definition": "In the end, a population is limited by two things in the place where its members live. One is the flow of energy. The other is the supply of certain atoms.",
+   "description": "Follow any limiting factor down and you reach energy or atoms. Food is energy caught from sunlight by plants, with atoms of carbon, nitrogen and phosphorus built in. A square metre of ground receives only so much sunlight in a year, and a plant catches only a small part of it. Each eater passes on only about a tenth of the energy to the next eater. So a place can hold many plants, fewer plant eaters and very few hunters. The Earth as a whole receives a fixed amount of sunlight. That sets a ceiling on almost all the life it can hold at one time. A little life near hot vents in the deep sea runs on chemical energy from rocks instead. No living being can multiply past the energy and atoms that reach them. This is why the doubling sum for bacteria can never come true.",
    "examples": [
     "A tiger needs about 50 large prey animals a year, so a forest with few deer can hold very few tigers.",
     "Farm ponds turn green when fertiliser washes in, because nitrogen and phosphorus were the limit for the algae.",
@@ -386,7 +386,7 @@
   },
   {
    "text": "A population's number changes only through births, deaths, arrivals and departures.",
-   "evidence": "Counts of marked animals over many years, such as the wolves and moose of Isle Royale since 1958, can always be explained by these four."
+   "evidence": "Animals have been counted over many years, such as the wolves and moose of Isle Royale since 1958. Every change in such counts can be explained by these four."
   },
   {
    "text": "In a simple, closed space, a growing population follows an S-shaped curve and levels off.",
@@ -1049,7 +1049,7 @@
      "do": "1. Fold the paper so that only rows 1 to 3 show. 2. Change the row rule: a roll of 1 or 2 means row 1, 3 or 4 means row 2, and 5 or 6 means row 3. 3. Ask for a guess and a reason. 4. Start with 2 trees and play 8 rounds. 5. Plot this forest on the same graph in another colour.",
      "say": "Half the island has gone under the sea. The trees are the same and the rule is the same. Where will this forest stop? Why do you think so?",
      "kid": "Fold the island in half. Guess where the forest will stop. Say why. Play 8 rounds. Plot it in a new colour.",
-     "parent": "This part is quick, about 75 rolls in all. The forest levels off at or just under 18 trees.",
+     "parent": "This part is quick, about 85 rolls in all. The forest levels off at or just under 18 trees.",
      "context": "This is part 2 of the Full Island Test. Here you grow the same forest on an island of only 18 squares."
     },
     {
@@ -2182,7 +2182,7 @@
       "a": 1,
       "why": "At 18 there are many parents and still plenty of food and room for young. A full pond has no room, and a nearly empty pond has few parents. Choosing 36 mixes up the most fish with the most new fish."
      },
-     "parent": "Fishing down to 18 in year one and then taking 9 a year gives 18 + 9 × 9 = 99 fish, and the pond stays at 18 for ever. Catching 3 a year from a nearly full pond gives only 30.",
+     "parent": "Fish the pond down to 18 in year one, then take 9 a year. That gives 18 + 9 × 9 = 99 fish, and the pond stays at 18 for ever. Catching 3 a year from a nearly full pond gives only 30.",
      "context": "This is the comparing step of the Fishing Rule. Here you test several rules and compare their total catches."
     },
     {
@@ -2325,7 +2325,7 @@
     },
     {
      "t": "count",
-     "p": "In one year 30 kids are born in a herd, 12 goats die, 2 arrive and 5 leave. By how many does the herd grow?",
+     "p": "In a herd, 30 kids are born, 12 goats die, 2 arrive and 5 leave. By how many does it grow?",
      "a": 15,
      "why": "Add what comes in: 30 + 2 = 32. Add what goes out: 12 + 5 = 17. Then 32 − 17 = 15.",
      "outcome": 0
@@ -2355,7 +2355,7 @@
      "p": "What is a limiting factor?",
      "opts": [
       "The biggest animal in a place",
-      "A need in short supply that holds a number down",
+      "A scarce need that holds a number down",
       "The number of young in one year",
       "A fence round a forest"
      ],
@@ -2489,7 +2489,7 @@
     },
     {
      "t": "mcq",
-     "p": "You mark 40 beans and mix them in a bowl. In a new sample of 40, 8 are marked. About how many beans are in the bowl?",
+     "p": "You mark 40 beans in a bowl. A new sample of 40 has 8 marked. About how many beans are there?",
      "opts": [
       "48",
       "200",
@@ -2776,7 +2776,7 @@
      "p": "Mites on a tray of oranges rose and fell three times only when the tray was large and patchy. Why?",
      "opts": [
       "Big trays are warmer",
-      "Some prey were always out of the hunters' reach",
+      "Some prey were always out of reach",
       "The hunters ate oranges instead",
       "Oranges make mites breed faster"
      ],
@@ -2827,7 +2827,7 @@
      "p": "Published estimates of how many people the Earth can carry range from under 1 billion to over 1,000 billion. Why so wide?",
      "opts": [
       "Nobody has tried to measure it",
-      "The answer depends on how people choose to live",
+      "It depends on how people choose to live",
       "The Earth changes size",
       "Scientists cannot count people"
      ],
@@ -2949,7 +2949,7 @@
   },
   {
    "t": "mcq",
-   "p": "A forest grows on an island of 36 squares and stops at 36 trees. The island is halved. Where does the forest stop now?",
+   "p": "A forest stops at 36 trees on an island of 36 squares. The island is halved. Where does it stop now?",
    "opts": [
     "At 36 again",
     "At about 18",
@@ -2966,7 +2966,7 @@
    "p": "What is the carrying capacity of a place?",
    "opts": [
     "The number born there in a year",
-    "The largest number it can keep alive year after year",
+    "The largest number it can keep alive for years",
     "The heaviest animal it can hold",
     "The number of species in it"
    ],
@@ -3019,7 +3019,7 @@
    "p": "Why do predators not usually eat every last one of their prey?",
    "opts": [
     "They are kind to their prey",
-    "Some prey are always hidden or out of reach",
+    "Some prey are always hidden or far away",
     "Prey taste bad when few",
     "Predators eat plants too"
    ],
@@ -3082,7 +3082,7 @@
   }
  ],
  "applications": [
-  "Tiger reserves in India are planned from the number of deer, pigs and gaur they hold, because prey sets how many tigers can live there.",
+  "Tiger reserves in India are planned from the number of deer, pigs and gaur they hold. The prey sets how many tigers can live there.",
   "Fishing rules set how many fish may be caught, so that enough parents are left to add new fish each year.",
   "Health workers lower mosquito numbers by clearing still water, which lowers the carrying capacity for mosquitoes.",
   "Farmers leave space between plants, because crowded plants share the same light, water and soil and each grows less.",
@@ -3634,7 +3634,7 @@
   "deep_truth": {
    "truth": "In the Full Island Test, every tree dropped one seed in every round, from first to last. The forest still stopped at 36 trees, and at 18 on the half island. No tree chose that number, and no tree changed what they did. How many there are of any living being is not decided inside that being. It is set by what the place can give to all of them together.",
    "habit": "We say 'there are 3,682 tigers' as if the number belonged to tigers, the way stripes do. But the number belongs to the forests, the deer and the tigers together. Change the place and the number changes, with the same animals.",
-   "evidence": "In the Full Island Test the rule for the trees never changed, yet the forest levelled off at 36 on the full island and near 18 on the half island. In India, the number of tigers in a forest follows the number of their prey."
+   "evidence": "In the Full Island Test the rule for the trees never changed. Yet the forest levelled off at 36 on the full island and near 18 on the half island. In India, the number of tigers in a forest follows the number of their prey."
   },
   "three": {
    "who_am_i": "You are one of about 8 billion people. That number, like the 36 trees, is held up by soil, rain, sunlight and other living beings.",
@@ -3644,12 +3644,12 @@
   "thread": "One bacterium becomes two, two become four, and so the one becomes many. But the many never become endless. The sunlight, water and atoms of one place are shared out among all who live there. So each population's number is its share of one supply. When one number rises, others must fall. Counting any one species is really measuring a part of the whole place.",
   "teachings": [
    {
-    "source": "Thirukkural 479",
+    "source": "Thirukkural 479 (paraphrased)",
     "teaching": "The life of a person who lives without knowing their measure may look as if it is doing well. Then it is gone, and nothing is left to show for it.",
     "link": "Valluvar wrote this about a person's wealth. The reindeer of St Matthew Island lived it. The herd looked as if it was thriving until the year it vanished, because it had gone past the measure of the island."
    },
    {
-    "source": "Tao Te Ching 77",
+    "source": "Tao Te Ching 77 (paraphrased)",
     "teaching": "The way of nature is like the bending of a bow. The high end is brought down and the low end is raised. What has too much is reduced, and what has too little is added to.",
     "link": "This is how a crowded population and a sparse one behave. In a crowd, deaths rise and births fall. Where members are few, each has plenty and the number grows. Both are pulled toward the carrying capacity."
    }
