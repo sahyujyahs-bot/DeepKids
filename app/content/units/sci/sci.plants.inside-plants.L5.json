@@ -3,7 +3,7 @@
  "title": "Inside a stem: two sets of pipes, growth rings and tissues",
  "level": 5,
  "summary": {
-  "text": "Most of a tree trunk is made of dead cells, yet the tree is alive. Take away one thin strip of bark all the way round the trunk, and the whole tree slowly dies. Why? A plant has two sets of pipes. Xylem pipes are dead and hollow, and they carry water up from the roots. Phloem pipes are alive, and they carry sugar from the leaves to every part that needs food. In a tree the phloem lies just under the bark, and a thin layer called the cambium adds new wood every year, which makes the growth rings. Your child maps these pipes with dye in a root, a stem and a leaf stalk, reads a tree's rings, and learns how skin, packing and pipes work together as tissues.",
+  "text": "Most of a tree trunk is made of dead cells, yet the tree is alive. Take away one thin strip of bark all the way round the trunk, and the whole tree slowly dies. Why? Most plants have two sets of pipes. Xylem pipes are dead and hollow, and they carry water up from the roots. Phloem pipes are alive, and they carry sugar from the leaves to every part that needs food. In a tree the phloem lies just under the bark, and a thin layer called the cambium adds new wood every year, which makes the growth rings. Your child maps these pipes with dye in a root, a stem and a leaf stalk, reads a tree's rings, and learns how skin, packing and pipes work together as tissues.",
   "art": "A cut tree stump showing rings, with a thin green living layer under the bark drawn brighter than the pale wood inside, and a small cut stem with coloured dots beside it."
  },
  "intro": {
@@ -91,9 +91,9 @@
   },
   {
    "term": "Companion cell",
-   "meaning": "A companion cell is a small living cell beside each sieve tube cell. It keeps the sieve tube cell alive, because that cell has lost its own nucleus.",
-   "example": "Each sieve tube cell in a mango twig has a companion cell beside it.",
-   "art": "A wide sieve tube cell with a small cell beside it, joined by tiny channels, the small cell showing a nucleus."
+   "meaning": "A companion cell is a small living cell beside each sieve tube cell. The companion cell keeps the sieve tube cell alive, because the sieve tube cell has no nucleus.",
+   "example": "Each sieve tube cell in a mango twig has a companion cell alongside.",
+   "art": "A wide sieve tube cell with a small cell alongside, joined by tiny channels, the small cell showing a nucleus."
   },
   {
    "term": "Sap",
@@ -206,13 +206,13 @@
     "The spiral threads you sometimes see when you snap a lotus stem gently and pull the pieces apart are the wall thickenings of xylem cells."
    ],
    "perspectives": [],
-   "art": "Four drawings in a row showing one cell growing long, thickening its wall in spirals, emptying, and joining others into an open tube with blue water inside."
+   "art": "Four drawings in a row showing one cell growing long, thickening the wall in spirals, emptying, and joining others into an open tube with blue water inside."
   },
   {
    "concept": "Phloem: pipes made of living cells",
    "status": "defined",
    "definition": "Phloem pipes are called sieve tubes. They are lines of living cells joined by end walls full of holes. They carry phloem sap, which is water with a lot of sugar dissolved in it.",
-   "description": "Phloem cells stay alive, but they change a great deal. A sieve tube cell gets rid of its nucleus and most of its other inner parts, so that sap can flow through. A cell with no nucleus cannot look after itself for long. So each sieve tube cell has a partner beside it, a companion cell, which makes what both cells need. Phloem sap is as sweet as a soft drink, or sweeter. Often between a tenth and a quarter of it is sugar. The sugar is mostly sucrose, the same sugar as in your kitchen. The sap also carries building materials for proteins, and signals from one part of the plant to another. Why must these cells stay alive when xylem cells die? Because loading sugar into the pipe and taking it out again is work that only a living cell membrane can do. Phloem sap moves more slowly than water in the xylem, usually about half a metre to one metre in an hour. This is simplified. Phloem tissue also holds fibre cells and storage cells, not only sieve tubes.",
+   "description": "Phloem cells stay alive, but they change a great deal. A sieve tube cell gets rid of the nucleus and most other inner parts, so that sap can flow through. A cell with no nucleus cannot keep going alone for long. So each sieve tube cell has a partner alongside, a companion cell, which makes what both cells need. Phloem sap is as sweet as a soft drink, or sweeter. Often between a tenth and a quarter of it is sugar. The sugar is mostly sucrose, the same sugar as in your kitchen. The sap also carries building materials for proteins, and signals from one part of the plant to another. Why must these cells stay alive when xylem cells die? Because loading sugar into the pipe and taking it out again is work that only a living cell membrane can do. Phloem sap moves more slowly than water in the xylem, usually about half a metre to one metre in an hour. This is simplified. Phloem tissue also holds fibre cells and storage cells, not only sieve tubes.",
    "examples": [
     "Neera and toddy are phloem sap tapped from the cut flower stalks of coconut, palmyra and date palms. Palm jaggery is made by boiling this sap down.",
     "Aphids, the tiny green or black insects on tender shoots of bean and hibiscus plants, feed on phloem sap.",
@@ -260,7 +260,7 @@
    "concept": "Where the pipes sit: centre, ring or arc",
    "status": "defined",
    "definition": "In a root, the pipes are gathered in the centre. In the stem of most leafy plants, the bundles stand in a ring near the outside. In a leaf stalk, they lie in an arc.",
-   "description": "The Pipe Maps test showed three different patterns. Why would one plant arrange the same pipes in three ways? Think about what each part has to bear. Xylem is the strongest tissue a young plant has, so where it sits decides where the part is strong. A root is pulled. When wind rocks the plant, the roots are tugged like ropes, and a rope is strongest with its strong strands together in the middle. A stem is bent. When a rod bends, the outside is stretched and squeezed the most, and the middle hardly at all. So strong material does the most good near the outside. That is why a hollow steel pipe makes a good cycle frame. A leaf stalk has to hold up a leaf blade and let it twist in the wind without snapping. An arc of bundles, like a gutter, does both. In grasses, palms, bananas and their relatives, the stem bundles are scattered all through the stem. This group of plants is called the monocots. The plants with a ring of bundles are mostly dicots. This reason is how engineers and botanists explain the patterns. It fits well, but the plant's history matters too.",
+   "description": "The Pipe Maps test showed three different patterns. Why would one plant arrange the same pipes in three ways? Think about what each part has to bear. Xylem is the strongest tissue a young plant has, so where xylem sits decides where the part is strong. A root is pulled. When wind rocks the plant, the roots are tugged like ropes, and a rope is strongest with its strong strands together in the middle. A stem is bent. When a rod bends, the outside is stretched and squeezed the most, and the middle hardly at all. So strong material does the most good near the outside. That is why a hollow steel pipe makes a good cycle frame. A leaf stalk has to hold up a leaf blade and let it twist in the wind without snapping. An arc of bundles, like a gutter, does both. In grasses, palms, bananas and their relatives, the stem bundles are scattered all through the stem. This group of plants is called the monocots. The plants with a ring of bundles are mostly dicots. This reason is how engineers and botanists explain the patterns. It fits well, but the plant's history matters too.",
    "examples": [
     "In a carrot, the paler core in the middle is xylem. That is where the dye appeared.",
     "A cut piece of sugarcane shows bundles scattered all over the cut face as small dots. Sugarcane is a grass, and a monocot.",
@@ -273,7 +273,7 @@
    "concept": "Meristems: where a plant makes new cells",
    "status": "defined",
    "definition": "A meristem is a region where cells keep dividing. A plant grows longer from meristems at the tips of shoots and roots. A plant grows thicker from a meristem inside the stem, called the cambium.",
-   "description": "A grown plant cell is boxed in by its stiff wall and usually stops dividing. So a plant keeps special groups of small, thin-walled cells that stay young and go on dividing. These are the meristems. The ones at the tips make shoots and roots longer. This explains a famous puzzle. If you hammer a nail into a tree trunk one metre above the ground, where is the nail ten years later, when the tree is much taller? The nail is still one metre above the ground. The trunk below the tip does not stretch. All the new height was added at the top. You grow differently. Your whole body grows until you are an adult, and then stops. A plant keeps their meristems for life, so a tree that is 500 years old still has tips as young as a seedling's.",
+   "description": "A grown plant cell is boxed in by a stiff wall and usually stops dividing. So a plant keeps special groups of small, thin-walled cells that stay young and go on dividing. These are the meristems. The ones at the tips make shoots and roots longer. This explains a famous puzzle. If you hammer a nail into a tree trunk one metre above the ground, where is the nail ten years later, when the tree is much taller? The nail is still one metre above the ground. The trunk below the tip does not stretch. All the new height was added at the top. You grow differently. Your whole body grows until you are an adult, and then stops. A plant keeps their meristems for life, so a tree that is 500 years old still has tips as young as a seedling's.",
    "examples": [
     "Pinch the tip off a tulsi shoot and that shoot stops getting longer. Side buds lower down then wake and grow.",
     "Grass keeps a meristem at the bottom of each leaf, so a lawn keeps growing after it is cut or grazed.",
@@ -286,7 +286,7 @@
    "concept": "The cambium: how a trunk gets thicker",
    "status": "defined",
    "definition": "The cambium is a thin sleeve of dividing cells between the wood and the bark. Each year it adds new xylem on its inner side and new phloem on its outer side. That is how a stem becomes a trunk.",
-   "description": "The cambium is only a few cells thick. When one of its cells divides, one of the two new cells stays in the cambium. The other becomes a xylem cell if it lies on the inside, or a phloem cell if it lies on the outside. The cambium makes much more xylem than phloem. Xylem cells are hard, so they stay where they are, year after year. This is why a trunk is nearly all wood. As the wood grows, the cambium and the bark are pushed outward. Old phloem is soft, so it gets crushed, and the outer bark stretches and cracks. That is why the bark of an old neem or tamarind is deeply furrowed. So the living, working phloem of even a huge tree is a thin layer just under the bark. This is why girdling kills. If a ring of bark is removed all the way round, the phloem is cut. Water still rises in the wood, so the leaves stay green. But no sugar reaches the roots. When the roots have used up their stores, they die, and then the whole tree dies.",
+   "description": "The cambium is only a few cells thick. When one of its cells divides, one of the two new cells stays in the cambium. The other becomes a xylem cell on the inside, or a phloem cell on the outside. The cambium makes much more xylem than phloem. Xylem cells are hard, so they stay where they are, year after year. This is why a trunk is nearly all wood. As the wood grows, the cambium and the bark are pushed outward. Old phloem is soft, so it gets crushed, and the outer bark stretches and cracks. That is why the bark of an old neem or tamarind is deeply furrowed. So the living, working phloem of even a huge tree is a thin layer just under the bark. This is why girdling kills. If a ring of bark is removed all the way round, the phloem is cut. Water still rises in the wood, so the leaves stay green. But no sugar reaches the roots. When the roots have used up their stores, they die, and then the whole tree dies.",
    "examples": [
     "A wire or nylon rope tied tightly round a young trunk and forgotten can slowly girdle the tree as the trunk thickens.",
     "Rubber tappers in Kerala cut only part of the way round the trunk, in a sloping line. They never cut a full ring.",
@@ -312,7 +312,7 @@
    "concept": "Reading rings: a calendar kept by trees",
    "status": "defined",
    "definition": "Dendrochronology is the science of using tree rings to find dates and to learn about past weather. It works by matching the pattern of wide and narrow rings between trees.",
-   "description": "All the trees of one kind in one region live through the same wet and dry years. So they share the same pattern of wide and narrow rings, like a barcode. A scientist can match the inner rings of a living tree with the outer rings of an old beam from a house, and then match that beam with an even older log. In this way the calendar is carried back far beyond the age of any living tree. This matching is called cross-dating. Scientists do not need to cut a tree down. They drill out a core of wood as thin as a pencil, and the tree seals the hole. Andrew Douglass, an American astronomer, built the method in the early 1900s. In 1929 he used it to date the wooden beams of ancient villages in Arizona. Florence Hawley was one of the first scientists trained in the method, and she carried it to new regions of North America in the 1930s. In India, scientists at the Indian Institute of Tropical Meteorology in Pune and the Birbal Sahni Institute of Palaeosciences in Lucknow read teak and deodar rings. From them they work out how strong the monsoon was in years long before anyone kept rain records.",
+   "description": "All the trees of one kind in one region live through the same wet and dry years. So they share the same pattern of wide and narrow rings, like a barcode. A scientist can match the inner rings of a living tree with the outer rings of an old beam from a house, and then match that beam with an even older log. In this way the calendar is carried back far beyond the age of any living tree. This matching is called cross-dating. Scientists do not need to cut a tree down. They drill out a core of wood as thin as a pencil, and the tree seals the hole. Andrew Douglass, an American astronomer, built the method in the early 1900s. In 1929 he used it to date the wooden beams of ancient villages in the American Southwest. Florence Hawley was one of the first scientists trained in the method, and she carried it to new regions of North America in the 1930s. In India, scientists at the Indian Institute of Tropical Meteorology in Pune and the Birbal Sahni Institute of Palaeosciences in Lucknow read teak and deodar rings. From them they work out how strong the monsoon was in years long before anyone kept rain records.",
    "examples": [
     "Teak rings from Kerala give a record of good and poor monsoon years that goes back about 500 years.",
     "Deodar trees in the western Himalaya give ring records more than a thousand years long.",
@@ -338,7 +338,7 @@
    "concept": "Palms and bamboo: tall plants without rings",
    "status": "defined",
    "definition": "Palms, bamboos and other monocots have no cambium sleeve. Their stems do not add a new layer of wood each year, so they have no growth rings.",
-   "description": "A coconut palm's trunk is about as thick near the top as near the bottom. A young palm first spends some years growing wide at ground level. After that, the trunk grows up but hardly grows thicker. Its strength comes from hundreds of vascular bundles scattered through the trunk, each wrapped in hard fibres. Because there is no cambium, a palm cannot heal a deep cut in the trunk by growing new wood over it, as a mango tree can. A cut all the way round the surface does not usually kill a palm, though, because the phloem is spread all through the trunk and not gathered in a layer under the bark. Bamboo is a giant grass. A bamboo shoot comes out of the ground already as wide as it will ever be, and reaches its full height in a few months. To guess the age of a coconut palm, people count the ring-shaped scars left by fallen leaves. A grown palm drops roughly a dozen leaves a year, so the count gives only a rough age.",
+   "description": "A coconut palm's trunk is about as thick near the top as near the bottom. A young palm first spends some years growing wide at ground level. After that, the trunk grows up but hardly grows thicker. Its strength comes from hundreds of vascular bundles scattered through the trunk, each wrapped in hard fibres. Because there is no cambium, a palm cannot heal a deep cut in the trunk by growing new wood over it, as a mango tree can. A cut all the way round the surface does not usually kill a palm, though, because the phloem is spread all through the trunk and not gathered in a layer under the bark. Bamboo is a giant grass. A bamboo shoot comes out of the ground already at full width, and reaches full height in a few months. To guess the age of a coconut palm, people count the ring-shaped scars left by fallen leaves. A grown palm drops roughly a dozen leaves a year, so the count gives only a rough age.",
    "examples": [
     "Coconut wood has no rings. The cut end of a palm trunk shows dark dots, which are the scattered bundles.",
     "Bamboo scaffolding on building sites is strong for its weight because its hard fibres are packed near the outside of a hollow tube.",
@@ -351,7 +351,7 @@
    "concept": "Pipes changed the world: how plants became tall",
    "status": "defined",
    "definition": "The first land plants had no pipes and stayed a few centimetres tall. Plants with xylem and phloem appeared more than 420 million years ago. Wood appeared about 400 million years ago, and after that came forests.",
-   "description": "A moss has no true xylem, so water has to soak from cell to cell. That is slow, so a moss stays small and lives in damp places. Fossils show that the first plants with pipes were thin green stalks with no leaves. Once plants could stiffen their pipes with lignin, they could stand taller and reach more light than their neighbours. Then some plants gained a cambium and began to make wood. By about 385 million years ago there were forests of real trees. This changed the planet. Roots broke rock into soil. Leaves took carbon dioxide out of the air. For a long time, few living things could digest lignin, so dead trunks piled up in swamps and were buried. Over millions of years, much of that buried wood became coal. So the coal that still fuels many of India's power stations is mostly made from the stems, bark and wood of ancient plants. How tall can pipes carry a tree? The tallest tree known today is a coast redwood about 116 metres high. In 2004, George Koch and his team climbed the tallest redwoods and measured how hard it was for water to reach the top. They estimated a limit of about 122 to 130 metres. Nobody is sure the limit is right.",
+   "description": "A moss has no true xylem, so water has to soak from cell to cell. That is slow, so a moss stays small and lives in damp places. Fossils show that the first plants with pipes were thin green stalks with no leaves. Once plants could stiffen their pipes with lignin, they could stand taller and reach more light than their neighbours. Then some plants gained a cambium and began to make wood. By about 385 million years ago there were forests of real trees. This changed the planet. Roots broke rock into soil. Leaves took carbon dioxide out of the air. In the great swamps of that time, dead trunks piled up without rotting away, and were buried. Over millions of years, much of that buried wood became coal. Why did so much wood escape rotting? One idea is that few living things could yet digest lignin. Another is that the swamps were so waterlogged that wood rotted very slowly, whatever lived there. Scientists still argue about this. So the coal that still fuels many of India's power stations is mostly made from the stems, bark and wood of ancient plants. How tall can pipes carry a tree? The tallest tree known today is a coast redwood about 116 metres high. In 2004, George Koch and his team climbed the tallest redwoods and measured how hard it was for water to reach the top. They estimated a limit of about 122 to 130 metres. Nobody is sure the limit is right.",
    "examples": [
     "Moss on a wet wall in the monsoon is only a few centimetres tall, because moss has no stiff pipes.",
     "The coal mined at Jharia in Jharkhand and Singareni in Telangana formed from plants that lived more than 250 million years ago.",
@@ -364,7 +364,7 @@
    "concept": "Do the pipes carry messages too?",
    "status": "debated",
    "definition": "",
-   "description": "Phloem carries more than food. Plants sense, remember and decide, and to do so their parts must tell each other things. Some of these messages are now known to travel in the phloem. A leaf measures the length of the day. When the days reach the right length, the leaf makes a small protein that travels in the phloem to the shoot tip, and the tip then starts making flowers. Scientists searched for this flowering signal for seventy years and found it in 2007. When a caterpillar bites one leaf, a signal races through the veins to far-off leaves in a minute or two, and those leaves begin making defence chemicals. In 2018, Masatsugu Toyota and his team filmed this as waves of light in a plant made to glow. Jagadish Chandra Bose in Kolkata measured electric signals in plants a hundred years ago. In 1926 he wrote that the phloem carries them, and that this tissue works like a nerve. Scientists agree the signals are real. They disagree about what to call them.",
+   "description": "Phloem carries more than food. Plants sense, remember and decide, and to do so their parts must tell each other things. Some of these messages are now known to travel in the phloem. A leaf senses how long the days and nights are. When they reach the right length, the leaf makes a small protein that travels in the phloem to the shoot tip, and the tip then starts making flowers. Scientists searched for this flowering signal for seventy years and found it in 2007. When a caterpillar bites one leaf, a signal races through the veins to far-off leaves in a minute or two, and those leaves begin making defence chemicals. In 2018, Masatsugu Toyota and his team filmed this as waves of light in a plant made to glow. Jagadish Chandra Bose in Kolkata measured electric signals in plants a hundred years ago. In 1926 he wrote that the phloem carries them, and that this tissue works like a nerve. Scientists agree the signals are real. They disagree about what to call them.",
    "examples": [
     "A spinach plant flowers when days grow long, because the leaves send a flowering signal to the tips through the phloem.",
     "Touch one leaflet of a touch-me-not plant firmly and the folding spreads along the whole leaf, as a signal travels from part to part.",
@@ -409,7 +409,7 @@
    "evidence": "Trees of known age, planted on a known date, have the right number of rings. Ring patterns match between trees of the same region, and match rain records where records exist."
   },
   {
-   "text": "Most of the wood in a tree trunk is dead, and the tree lives in a thin layer round it.",
+   "text": "Most of the wood in a tree trunk is dead, and the tree lives in a thin layer round that wood.",
    "evidence": "Stains that colour only living cells mark the inner bark, the cambium and scattered cells in the sapwood. They leave the heartwood blank. Hollow trees go on living."
   }
  ],
@@ -751,7 +751,7 @@
        "b": "Neither. The skin is epidermis, a different tissue."
       },
       {
-       "f": "Each pipe cell needs a companion cell beside it.",
+       "f": "Each pipe cell needs a companion cell alongside.",
        "b": "Phloem. The companion cell keeps the sieve tube cell alive."
       }
      ]
@@ -930,7 +930,7 @@
     },
     {
      "t": "write",
-     "p": "Remember Pipe Maps, where stems stood in coloured water. Only small dots on the cut face were coloured. What is the uncoloured part doing?",
+     "p": "In a dye test, only small dots on a stem's cut face were coloured. What is the uncoloured part doing?",
      "a": "The uncoloured part is mostly ground tissue, which stores food, makes food if it is green, and helps hold the stem up. There is also skin on the outside, and phloem beside each dot, which the dye does not show.",
      "why": "A strong answer names at least one other tissue and its job, and does not say the uncoloured part is 'nothing'.",
      "lines": 3,
@@ -1029,7 +1029,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Why must a xylem cell die before it can carry water?",
+     "p": "Why must a xylem cell die before carrying water?",
      "opts": [
       "Dead cells weigh less",
       "An empty tube lets water through",
@@ -1042,8 +1042,8 @@
     {
      "t": "write",
      "p": "A sieve tube cell has no nucleus. How does it stay alive?",
-     "a": "Each sieve tube cell has a companion cell beside it. The companion cell has a nucleus and makes what both cells need. The two are joined by tiny channels.",
-     "why": "A strong answer names the companion cell and says why the sieve tube cell gave up its nucleus: to leave room for sap to flow.",
+     "a": "Each sieve tube cell has a companion cell alongside. The companion cell has a nucleus and makes what both cells need. The two are joined by tiny channels.",
+     "why": "A strong answer names the companion cell and says why the sieve tube cell gave up the nucleus: to leave room for sap to flow.",
      "lines": 3
     },
     {
@@ -1149,15 +1149,15 @@
       "A new cell forms on the inner side of the cambium",
       "The cell grows long",
       "The cell builds a thick wall with lignin",
-      "The cell breaks down its contents and dies",
+      "The cell breaks down everything inside and dies",
       "The empty cell carries water"
      ],
-     "why": "The wall must be built while the cell is alive. The cell begins its work as a pipe only after it has died and emptied.",
+     "why": "The wall must be built while the cell is alive. The cell begins work as a pipe only after dying and emptying.",
      "items": [
       "The cell builds a thick wall with lignin",
       "The empty cell carries water",
       "A new cell forms on the inner side of the cambium",
-      "The cell breaks down its contents and dies",
+      "The cell breaks down everything inside and dies",
       "The cell grows long"
      ]
     },
@@ -1248,7 +1248,7 @@
    "items": [
     {
      "t": "write",
-     "p": "In early spring, sweet sap is tapped from the wood of sugar maple trees in Canada. Why is that surprising? Suggest an explanation.",
+     "p": "In early spring, sweet sap is tapped from the wood of sugar maples. Why is that surprising? Suggest an explanation.",
      "a": "It is surprising because wood is xylem, which usually carries water with very little sugar. In early spring the maple has no leaves yet. The tree turns starch stored in the wood into sugar and sends it up in the xylem sap to the buds.",
      "why": "A strong answer sees that the rule 'xylem carries water, phloem carries sugar' has exceptions, and reasons from the season: no leaves, so no working source in the crown.",
      "lines": 5
@@ -1310,7 +1310,7 @@
     },
     {
      "t": "write",
-     "p": "A friend says dye simply soaks up a stem like ink into chalk, with no pipes. Give two observations from a dye test that argue against this.",
+     "p": "A friend says dye soaks up a stem like ink into chalk. Give two observations that argue against this.",
      "a": "First, only small dots on the cut face are coloured, not the whole face. Second, when the stem is cut along its length, the colour runs in thin lines. Both fit pipes, and neither fits soaking.",
      "why": "A strong answer uses observations, not just the word 'xylem'. It may add that a leafy stem takes up colour faster than a bare one.",
      "lines": 3,
@@ -1326,7 +1326,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort these cells: is each one living or dead when it does its job?",
+     "p": "Sort these cells. Is each one living or dead while at work?",
      "a": "see items",
      "why": "Loading sugar and dividing need living cells. Carrying water, protecting and holding up are done by dead cells with strong walls.",
      "cats": [
@@ -1364,13 +1364,13 @@
      "t": "mcq",
      "p": "Why could the first land plants, without xylem, not grow tall?",
      "opts": [
-      "They had no way to lift water or stand stiff",
+      "They could not lift water or stand stiff",
       "There was not enough sunlight",
       "The air had no carbon dioxide",
       "They had no seeds"
      ],
      "a": 0,
-     "why": "Without stiff pipes, water must soak slowly from cell to cell, and the plant has nothing hard to hold it up. Xylem solved both problems at once."
+     "why": "Without stiff pipes, water must soak slowly from cell to cell, and nothing hard holds the plant up. Xylem solved both problems at once."
     },
     {
      "t": "order",
@@ -1381,7 +1381,7 @@
       "Find where the two patterns of wide and narrow rings match",
       "Count from a ring of known year to the beam's last ring"
      ],
-     "why": "The living tree gives known years, because its outermost ring is this year's. Matching the patterns carries those years across to the beam.",
+     "why": "The living tree gives known years, because the outermost ring is this year's. Matching the patterns carries those years across to the beam.",
      "items": [
       "Find where the two patterns of wide and narrow rings match",
       "Take a thin core from a living tree of the same region",
@@ -1392,9 +1392,9 @@
     },
     {
      "t": "write",
-     "p": "Much of the world's coal formed from ancient trees. Explain how lignin helped that to happen.",
-     "a": "Lignin is very hard to digest. When the first forests grew, few living things could break it down. So fallen trunks piled up in swamps without rotting fully, were buried, and slowly turned into coal.",
-     "why": "A strong answer links a property of the tissue, that lignin is hard to break down, to something that happened to the whole Earth.",
+     "p": "Much of the world's coal formed from ancient trees. Give one idea for why so much wood was buried without rotting.",
+     "a": "One idea: lignin is very hard to digest, and when the first forests grew, few living things could break it down. Another idea: the swamps were waterlogged, and wood under water rots very slowly. Either way, fallen trunks piled up, were buried, and slowly became coal.",
+     "why": "Either idea earns full marks. A strong answer links a property of wood or of the swamp to what happened to the whole Earth, and says scientists have not settled it.",
      "lines": 4
     },
     {
@@ -1439,7 +1439,7 @@
     },
     {
      "t": "label",
-     "p": "Draw a wedge of tree trunk from the centre to the bark. Label heartwood, sapwood, cambium, inner bark and outer bark. Shade the living parts.",
+     "p": "Draw a wedge of trunk from centre to bark. Label heartwood, sapwood, cambium, inner bark and outer bark. Shade the living parts.",
      "a": [
       "Heartwood: centre, dead",
       "Sapwood: outer wood, dead pipes with some living cells",
@@ -2019,7 +2019,7 @@
      "say": "Eyes shut. Here is the first piece. Now a sip of water. Here is the second. Which was sweeter?",
      "kid": "Shut your eyes. Taste one piece. Sip water. Taste the other. Which was sweeter?",
      "adult": true,
-     "parent": "Tasting with eyes shut keeps the test fair, because the taster cannot choose by colour. Many tasters find the outer ring sweeter. Carrots differ, so your result may not be clear. Write down what you really find.",
+     "parent": "Tasting with eyes shut keeps the test fair, because the taster cannot pick by colour. Many tasters find the outer ring sweeter. Carrots differ, so your result may not be clear. Write down what you really find.",
      "context": "This step of the Sweet Ring is the blind tasting. You taste the core and the outer ring of a carrot without knowing which is which."
     },
     {
@@ -2165,7 +2165,7 @@
      "qty": 1
     }
    ],
-   "record": "Keep your drawn core strip and your beam strip. Write which years were dry, and the year in which the beam's tree made its last ring.",
+   "record": "Keep your drawn core strip and your beam strip. Write which years were dry, and the year in which the beam's tree made the last ring.",
    "chart": {
     "type": "table",
     "title": "A made-up teak tree: ring width and rain for 12 years (year 1 is at the centre)",
@@ -2289,7 +2289,7 @@
      "kid": "Mark the beam's rings on a strip. Slide the strip along your core. Where does the pattern match?",
      "ask": [
       {
-       "q": "In which year did the beam's tree make its last ring? How do you know?",
+       "q": "In which year did the beam's tree make the last ring? How do you know?",
        "good": [
         "Year 9. The beam's pattern 6, 2, 5, 4, 1, 2, 5 matches years 3 to 9 of the core.",
         "The two very narrow rings close together gave it away."
@@ -2571,7 +2571,7 @@
     {
      "day": 43,
      "mins": 20,
-     "what": "If there are many roots, a grown-up cuts the branch off below them and you plant it in a pot. Write what you found."
+     "what": "If there are many roots, a grown-up cuts the branch off below them and you plant the branch in a pot. Write what you found."
     }
    ],
    "record": "Keep a diary with one drawing each week. Each time, note three things: are the leaves above the ring fresh, is there a swelling, and where are the roots. At the end write your claim, evidence and reasoning.",
@@ -2628,7 +2628,7 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. When many roots show through the plastic, cut the branch off just below them. 2. Unwrap the plastic gently. 3. Plant the rooted branch in a pot and keep it in shade for a week. 4. Ask your child for a claim, the evidence and the reasoning.",
+     "do": "1. When many roots show through the plastic, cut the branch off just below them. 2. Unwrap the plastic gently. 3. Plant the rooted branch in a pot and keep the pot in shade for a week. 4. Ask your child for a claim, the evidence and the reasoning.",
      "say": "What did you find, and what did you see? Why did roots grow above the ring and not below it?",
      "kid": "A grown-up cuts below the roots. Plant your new plant. Say what you found and why.",
      "adult": true,
@@ -2899,7 +2899,7 @@
   },
   {
    "t": "mcq",
-   "p": "The cut face of a stem shows bundles scattered all over it. Which plant is it most likely to be?",
+   "p": "The cut face of a stem shows bundles scattered all over it. Which plant is this most likely to be?",
    "opts": [
     "Maize",
     "Mango",
@@ -2925,7 +2925,7 @@
   },
   {
    "t": "mcq",
-   "p": "A teak tree is bare in the dry season. New leaves begin to grow. Where does the food to build them come from?",
+   "p": "A bare teak tree starts growing new leaves. Where does the food to build them come from?",
    "opts": [
     "From the soil",
     "From stores in the trunk and roots",
@@ -2964,7 +2964,7 @@
   },
   {
    "t": "mcq",
-   "p": "A stump has 40 clear rings. The tree grew where there is one dry season a year. What is the best conclusion?",
+   "p": "A stump from a forest with one dry season a year has 40 clear rings. What is the best conclusion?",
    "opts": [
     "The tree lived about 40 years",
     "The tree was 40 metres tall",
@@ -3024,7 +3024,7 @@
   "Grafting joins a branch of one mango variety to the roots of another. It works only if the two cambium layers touch and grow together.",
   "Gardeners use gootee, or air layering, to make new guava, litchi and pomegranate plants from branches.",
   "Tree rings tell scientists how strong the monsoon was in years before anyone measured rain. This helps them judge how unusual today's droughts and floods are.",
-  "Engineers have built water filters from short pieces of pine sapwood. The tiny holes between xylem cells hold back bacteria. Trials have been run in villages in Uttarakhand."
+  "Engineers have built water filters from short pieces of pine sapwood. The tiny holes between xylem cells hold back bacteria. Trials have been run with families in north India."
  ],
  "spotted": [
   {
@@ -3045,7 +3045,7 @@
   },
   {
    "text": "A tree in a city park with an old wire, cable or tree guard sunk into the bark, and the trunk bulging above it.",
-   "art": "A street tree with an iron guard cutting into its swollen trunk."
+   "art": "A street tree with an iron guard cutting into the swollen trunk."
   },
   {
    "text": "Rings on a cut log at a timber yard, or on a tree stump after road widening.",
@@ -3088,12 +3088,16 @@
   {
    "q": "Is there a greatest height that a tree's pipes allow?",
    "why_open": "One estimate is about 122 to 130 metres. It rests on measurements from a few redwoods, and other scientists think the limit is set by something else."
+  },
+  {
+   "q": "Why was so much wood buried without rotting in the age of the coal swamps?",
+   "why_open": "Some scientists point to lignin, which few living things could digest then. Others point to waterlogged ground and sinking land. The evidence does not yet settle it."
   }
  ],
  "ask_kids": [
   "What do you think the strings on this banana did while the fruit was growing?",
   "This table is made of wood. Were its cells alive when the tree was standing?",
-  "If a tree is hollow, how can it still be alive?",
+  "A hollow tree has lost the middle of the trunk. How can the tree still be alive?",
   "Sugar is made in the leaves. How does it get into a mango?",
   "Why do you think the rubber tapper's cut goes only half the way round?",
   "Look at this stump. Which ring was made in the year you were born?",
@@ -3106,16 +3110,16 @@
    "a": "It wasn't peeling well."
   },
   {
-   "j": "How does a tree get on the internet?",
-   "a": "It logs in."
+   "j": "How do trees get on the internet?",
+   "a": "They log in."
   },
   {
-   "j": "What did the tree wear to the swimming pool?",
-   "a": "Its trunks."
+   "j": "What do trees wear to the swimming pool?",
+   "a": "Trunks."
   },
   {
    "j": "Why did the dog like the old neem tree?",
-   "a": "It had the best bark."
+   "a": "The tree had the best bark."
   },
   {
    "j": "What did the cambium say on its birthday?",
@@ -3291,7 +3295,7 @@
    "id": "b-peat",
    "item": "Coco peat (a small block)",
    "kind": "material",
-   "why": "For wrapping the branch in the Gootee project. Plant nurseries sell it. Damp soil mixed with compost also works.",
+   "why": "For wrapping the branch in the Gootee project. Nurseries sell it. Damp soil mixed with compost also works.",
    "url": "https://www.amazon.in/s?k=coco+peat+block",
    "used_in": [
     "p1"
@@ -3529,12 +3533,13 @@
    "Koch, G. W. and others, 'The limits to tree height', Nature 2004",
    "Gerrienne, P. and others, 'A simple type of wood in two Early Devonian plants', Science 2011 (the oldest wood, about 400 million years)",
    "Boutilier, M. S. H. and others, 'Water filtration using plant xylem', PLoS ONE 2014, and Ramchander, K. and others, Nature Communications 2021 (xylem filters tested in India)",
-   "Schulman, E., 1958, on the bristlecone pines of California (more than 4,000 rings)"
+   "Schulman, E., 1958, on the bristlecone pines of California (more than 4,000 rings)",
+   "Floudas, D. and others, Science 2012 (fungi that digest lignin arose late), and Nelsen, M. P. and others, PNAS 2016, 'Delayed fungal evolution did not cause the Paleozoic peak in coal production' (the two sides of the coal question)"
   ]
  },
  "how_we_found_out": {
   "context": "How did people find out which way food travels inside a plant? This card tells the true story, and the idea that turned out wrong.",
-  "story": "About 350 years ago, the Italian doctor Marcello Malpighi cut a ring of bark off a branch. The bark swelled above the cut. He reasoned that food made in the leaves travels down in the bark. For the next 250 years, most books said that raw sap rises in the wood and finished sap sinks in the bark. Food was thought to go only downward. In 1837 the German forester Theodor Hartig found the food pipes themselves, the sieve tubes, with his microscope. But nobody could collect clean sap from one tube, because a tube seals itself when cut. Then scientists noticed that aphids already tap single tubes. In 1953, John Kennedy and Thomas Mittler in England cut through an aphid's mouth tube while she was feeding. Sap went on dripping from the cut tube for hours. So the sap was under pressure, and it was full of sugar. In the same years, other scientists gave single leaves carbon dioxide made with a kind of carbon that can be traced. The marked sugar turned up in the roots below. It also turned up in young leaves and fruits above. So food does not only sink. Food goes to wherever the plant is using or storing it.",
+  "story": "About 350 years ago, the Italian doctor Marcello Malpighi cut a ring of bark off a branch. The bark swelled above the cut. He reasoned that food made in the leaves travels down in the bark. For the next 250 years, most books said that food sap only sinks, from the leaves to the roots. In 1837 the German forester Theodor Hartig found the food pipes themselves, the sieve tubes. But nobody could collect clean sap from one tube, because a tube seals itself when cut. Then scientists noticed that aphids already tap single tubes. In 1953, John Kennedy and Thomas Mittler in England cut through an aphid's mouth tube while she was feeding. Sap went on dripping from the cut tube for hours. So the sap was under pressure, and it was full of sugar. In the same years, other scientists gave single leaves carbon dioxide made with a kind of carbon that can be traced. The marked sugar turned up in the roots below. It also turned up in young leaves and fruits above. So food does not only sink. Food goes to wherever the plant is using or storing it.",
   "who": "Marcello Malpighi, an Italian doctor. Theodor Hartig, a German forester. John Kennedy and Thomas Mittler, insect scientists working in England.",
   "when": "The 1670s (Malpighi's ring of bark), 1837 (Hartig's sieve tubes), 1953 (the aphid's mouth tube), and the 1940s and 1950s (traceable carbon).",
   "wrong_idea": "That food sap travels only downward, from the leaves to the roots. Traceable carbon showed sugar from one leaf moving up to fruits and young leaves as well as down to roots.",
@@ -3552,7 +3557,7 @@
    "what_is_life": "A living body is not alive in every part. Living cells and dead cells work together in a tree, and the tree needs both.",
    "what_is_this_world": "A wooden door, a page of your notebook and a jute bag are made of cell walls that plants built. Much of what people build with was built first by living cells."
   },
-  "thread": "A whole tree grows from one cell, the fertilised egg cell inside a seed. That cell divides, and the cells that come from it carry the same instructions. Yet some become skin, some become packing, some become living phloem, and some die to become xylem. In the cambium, a single thin layer makes wood on one side and bark on the other. So one cell becomes the many tissues of a tree, and the many tissues work as one body.",
+  "thread": "A whole tree grows from one cell, the fertilised egg cell inside a seed. That cell divides, and all the cells that follow carry the same instructions. Yet some become skin, some become packing, some become living phloem, and some die to become xylem. In the cambium, a single thin layer makes wood on one side and bark on the other. So one cell becomes the many tissues of a tree, and the many tissues work as one body.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.11",
@@ -3562,7 +3567,7 @@
    {
     "source": "Tao Te Ching, chapter 11",
     "teaching": "Clay is shaped into a pot, but the empty space inside is what makes the pot useful. Doors and windows are cut into a wall, and the empty space is what makes the room useful.",
-    "link": "A xylem pipe is useful to the tree because it is empty. The cell had to clear out everything inside before water could pass."
+    "link": "A xylem pipe is useful to the tree because the pipe is empty. The cell had to clear out everything inside before water could pass."
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing'",
@@ -3572,7 +3577,7 @@
   ],
   "science": [
    {
-    "text": "The death of a xylem cell is switched on by the cell's own genes, at a set stage of its growth. Biologists call this programmed cell death.",
+    "text": "The death of a xylem cell is switched on by the cell's own genes, at a set stage of growth. Biologists call this programmed cell death.",
     "status": "settled"
    },
    {
@@ -3597,7 +3602,7 @@
   "ask": [
    "Is the dead wood inside a living tree part of the tree, or something the tree made?",
    "Your hair and nails are dead cells. Are they part of you?",
-   "A xylem cell does its work only after dying. Does that make dying a part of living?"
+   "A xylem cell works only after dying. Does that make dying a part of living?"
   ],
   "art": "A child with eyes closed and one palm flat on an old wooden door, with faint blue lines rising through the grain of the wood."
  },

@@ -121,15 +121,15 @@
   },
   {
    "term": "Viroid",
-   "meaning": "A viroid is a short loop of RNA with no coat at all. It carries no instructions for any protein, yet plant cells copy it.",
+   "meaning": "A viroid is a short loop of RNA with no coat at all. A viroid carries no instructions for any protein, yet plant cells make copies of them.",
    "example": "A viroid of only 246 letters killed millions of coconut palms in the Philippines.",
-   "art": "A tiny closed loop of thread, drawn beside a virus particle that looks huge next to it."
+   "art": "A tiny closed loop of thread, drawn beside a much larger virus particle."
   },
   {
    "term": "Inactivate",
    "meaning": "To inactivate a virus is to damage them so that no cell can copy them any more.",
    "example": "Soap inactivates a flu virus by pulling apart the envelope of fat around them.",
-   "art": "A virus particle with its outer layer peeling away in a patch of soap bubbles."
+   "art": "A virus particle whose outer layer is peeling away in a patch of soap bubbles."
   },
   {
    "term": "Nanometre",
@@ -149,7 +149,7 @@
    "concept": "What a virus is made of",
    "status": "defined",
    "definition": "A virus is a genome of DNA or RNA inside a coat of protein called a capsid. Some viruses also have an outer envelope of fat.",
-   "description": "A virus has very few parts. In the middle is the genome, a chain of chemical letters that holds the instructions. Around the genome is the capsid, a coat built from many copies of the same few proteins. Why so few kinds of protein? A genome this short has room for only a few instructions, so one small protein is made again and again and stacked into a shell. Some viruses, such as flu and measles, also wear an envelope. This is a thin layer of fat that the virus takes from the membrane of the cell that built them. Viruses are very small. Most are between 20 and 300 nanometres across, and a nanometre is a millionth of a millimetre. A light microscope cannot show anything that small, because the waves of light are wider than the virus. So scientists use an electron microscope, which uses a beam of electrons in place of light.",
+   "description": "A virus has very few parts. In the middle is the genome, a chain of chemical letters that holds the instructions. Around the genome is the capsid, a coat built from many copies of the same few proteins. Why so few kinds of protein? A genome this short has room for only a few instructions, so one small protein is made again and again and stacked into a shell. Some viruses, such as flu and measles, also wear an envelope. This is a thin layer of fat that the virus takes from the membrane of the cell that built them. Viruses are very small. Most are between 20 and 300 nanometres across, and a nanometre is a millionth of a millimetre. A light microscope cannot show a thing that small, because the waves of light are wider than most viruses. So scientists use an electron microscope, which uses a beam of electrons in place of light.",
    "examples": [
     "Tobacco mosaic virus is a stiff rod 300 nanometres long. It has one strand of RNA with about 6,400 letters, inside 2,130 copies of one coat protein.",
     "A flu virus has 8 short pieces of RNA, about 13,500 letters in all, inside an envelope with spikes.",
@@ -165,34 +165,34 @@
    "definition": "A cell has ribosomes to build proteins and a way to get energy from food or light. A virus particle has neither.",
    "description": "Compare a virus with the smallest living cell. A cell has a membrane that takes in food and keeps the inside different from the outside. A cell has thousands of ribosomes, the machines that read instructions and build proteins. A cell breaks down food to get energy, and stores that energy in a small molecule called ATP. With these, a cell builds every part of a new cell. A virus particle has instructions and a coat, and usually nothing else. They have no ribosomes, so they cannot build a single protein. They make no ATP, so they have no supply of energy. This is why a virus particle outside a cell takes in nothing and builds nothing. It is also why antibiotics do not cure a cold. An antibiotic works by jamming a part that bacteria have, such as the bacterial ribosome or the bacterial cell wall. A virus has no such part to jam.",
    "examples": [
-    "A curd bacterium in warm milk takes in milk sugar and divides every half hour or so. A virus particle in the same milk stays just as they are.",
+    "A curd bacterium in warm milk takes in milk sugar and divides about once an hour. A virus particle in the same milk stays just as they are.",
     "Scientists can grow bacteria in a dish of broth. Nobody has ever grown a virus in broth without living cells in it.",
     "Flu viruses for vaccines are grown inside fertilised hens' eggs, because the viruses need living cells.",
     "Venkatraman Ramakrishnan, who was born in Chidambaram in Tamil Nadu, helped to map the ribosome atom by atom. The maps show where antibiotics jam the bacterial ribosome. He shared the Nobel Prize in Chemistry in 2009."
    ],
    "perspectives": [],
-   "art": "A bacterium with its membrane, ribosomes and an energy symbol labelled, beside a virus particle with only a genome and a coat labelled.",
+   "art": "A bacterium with a labelled membrane, ribosomes and an energy symbol, beside a virus particle with only a genome and a coat labelled.",
    "context": "This card compares a virus particle with a living cell, part by part."
   },
   {
    "concept": "How a cell copies a virus",
    "status": "defined",
    "definition": "A virus is copied in six steps: attach, enter, uncoat, copy and build, assemble, and leave.",
-   "description": "First the virus particle bumps into a cell by chance. If a protein on the virus's coat fits a receptor on the cell, the two stick together. This is the attach step. A receptor is there for the cell's own use, for example to take in food or to receive signals. The virus fits it the way a copied key fits a lock. Second, the virus or their genome gets inside. Third, the coat comes off and the genome is free. Fourth, the cell's ribosomes read the virus's genome as if it were the cell's own, and build virus proteins. The cell also copies the virus genome many times. Fifth, the new coat proteins and the new genomes join up by themselves into new particles, because their shapes and electric charges fit together. Sixth, the new particles leave. Some burst the cell open, and some bud out through the membrane and take a piece of it as an envelope. The fit between coat and receptor explains why each virus has only certain hosts. A virus whose key fits no lock on your cells cannot infect you.",
+   "description": "First the virus particle bumps into a cell by chance. If a protein on the virus's coat fits a receptor on the cell, the two stick together. This is the attach step. A receptor is there for the cell's own use, for example to take in food or to receive signals. The virus fits it the way a copied key fits a lock. Second, the virus or their genome gets inside. Third, the coat comes off and the genome is free. Fourth, the cell's ribosomes read the virus's genome in the same way as the cell's own genes, and build virus proteins. The cell also copies the virus genome many times. Fifth, the new coat proteins and the new genomes join up into new particles. In many viruses they do this by themselves, because their shapes and electric charges fit together. Sixth, the new particles leave. Some burst the cell open, and some bud out through the membrane and take a piece of it as an envelope. The fit between coat and receptor explains why each virus has only certain hosts. A virus whose key fits no lock on your cells cannot infect you.",
    "examples": [
     "A T4 phage lands on a bacterium, injects their DNA, and about 25 minutes later 100 to 200 new phages burst out.",
     "Tomato mosaic virus has no way through a plant's cell wall. They enter through a tiny wound, such as a broken leaf hair.",
     "You can eat a tomato from a plant with mosaic virus. Your cells have no receptor that fits this virus."
    ],
    "perspectives": [],
-   "art": "Six small numbered pictures in a circle around a cell: a virus attaching, entering, losing its coat, being copied, new particles forming, and the particles leaving.",
+   "art": "Six small numbered pictures in a circle around a cell: a virus attaching, entering, shedding the coat, being copied, new particles forming, and the particles leaving.",
    "context": "This card explains the six steps by which a cell copies a virus, and why each virus has only certain hosts."
   },
   {
    "concept": "Why viruses evolve, and why some evolve fast",
    "status": "defined",
    "definition": "Viruses evolve because their genomes are copied with small mistakes, the mistakes are passed on, and some copies get into more cells than others.",
-   "description": "Evolution needs three things. There must be copies. The copies must differ a little, and the differences must be passed on. And some copies must leave more copies than others. Viruses have all three. When a cell copies a virus genome, the copying enzyme sometimes puts in a wrong letter. A copying enzyme is a protein that builds the new chain, one letter at a time. Your own cells check each new letter and repair most mistakes, so only about one letter in a thousand million ends up wrong. Most RNA viruses bring a copying enzyme that does no checking. It gets about one letter wrong in every ten thousand to hundred thousand. One infected cell makes thousands of copies, so almost every new virus differs from the parent by a letter or two. Most changes do harm, and those viruses are not copied again. A few changes help, for example by hiding the virus from the body's defences. Those viruses are copied more, and soon they are the common kind. Nothing in this needs the virus particle to do any work. The cell does the copying, and the world does the choosing.",
+   "description": "Evolution needs three things. There must be copies. The copies must differ a little, and the differences must be passed on. And some copies must leave more copies than others. Viruses have all three. When a cell copies a virus genome, the copying enzyme sometimes puts in a wrong letter. A copying enzyme is a protein that builds the new chain, one letter at a time. Your own cells check each new letter and repair most mistakes, so only about one letter in a thousand million ends up wrong. Most RNA viruses bring a copying enzyme that does no checking. It gets about one letter wrong in every ten thousand to hundred thousand. One infected cell makes thousands of copies, so many of the new viruses differ from the parent by a letter or two. Most changes do harm, and those viruses are not copied again. A few changes help, for example by hiding the virus from the body's defences. Those viruses are copied more, and soon they are the common kind. Nothing in this needs the virus particle to do any work. The cell does the copying, and the world does the choosing.",
    "examples": [
     "Flu viruses change enough each year that a new flu vaccine is made for most years.",
     "During the Covid-19 pandemic, scientists read millions of virus genomes and watched new variants appear and spread.",
@@ -205,7 +205,7 @@
   {
    "concept": "NASA's working definition of life, word by word",
    "status": "debated",
-   "description": "In 1994, a group of scientists advising NASA needed a definition to guide the search for life on other worlds. They agreed on this one: 'Life is a self-sustaining chemical system capable of Darwinian evolution.' The biochemist Gerald Joyce wrote it down, and he says that Carl Sagan suggested the idea. Take it one part at a time. 'Chemical system' means a group of chemicals that act on one another. This leaves out computer programs, which are patterns in a machine. 'Self-sustaining' means the system keeps itself going. It takes in energy and materials and builds its own parts. 'Capable of Darwinian evolution' means it makes copies that differ a little and pass the differences on, so that its kind can change over generations. Why these three? A flame is chemical and keeps itself going, but it has no instructions to pass on, so a flame fails the third part. A virus is chemical and evolves, but a virus particle builds nothing by themselves, so a virus fails the second part. Only cells pass all three. The definition has problems. A mule cannot have young, so one mule cannot evolve. The definition must be about a kind of being over many generations, and that makes it hard to use on one sample from Mars. And no living thing is fully self-sustaining. You cannot make your own food, and you need plants to do it. So 'self-sustaining' is a matter of degree.",
+   "description": "In 1994, a group of scientists advising NASA needed a definition to guide the search for life on other worlds. They agreed on this one: 'Life is a self-sustaining chemical system capable of Darwinian evolution.' The biochemist Gerald Joyce wrote it down, and he says that Carl Sagan suggested the idea. Take it one part at a time. 'Chemical system' means a group of chemicals that act on one another. This leaves out computer programs, which are patterns in a machine. 'Self-sustaining' means the system keeps itself going. It takes in energy and materials and builds its own parts. 'Capable of Darwinian evolution' means it makes copies that differ a little and pass the differences on, so that its kind can change over generations. Why these three? A flame is chemical and keeps itself going, but it has no instructions to pass on, so a flame fails the third part. A virus is chemical and evolves, but a virus particle builds nothing by themselves, so a virus fails the second part. Of all the things we know, only cells pass all three. The definition has problems. A mule cannot have young, so one mule cannot evolve. The definition must be about a kind of being over many generations, and that makes it hard to use on one sample from Mars. And no living thing is fully self-sustaining. You cannot make your own food, and you need plants to do it. So 'self-sustaining' is a matter of degree.",
    "examples": [
     "A candle flame: chemical, keeps itself going while the wax lasts, but cannot evolve. Two parts out of three.",
     "A cold virus on a door handle: chemical, their kind evolves, but they do not keep themselves going. Two parts out of three.",
@@ -258,7 +258,7 @@
    "concept": "Giant viruses, tiny cells, viroids and prions: the cases in between",
    "status": "defined",
    "definition": "Between a stone and a free-living cell there are many kinds of things: prions, viroids, small viruses, giant viruses, and cells that can live only inside other cells.",
-   "description": "For a long time, the rule seemed simple. Viruses were tiny and had a handful of genes, and cells were big and had thousands. Then the gap began to fill from both sides. In 1992, a microbe was found in a water cooling tower in Bradford in England. It was large enough to see with a light microscope, so it was filed as a bacterium. In 2003, Bernard La Scola and his team in France showed that it was a virus, and named it mimivirus. Mimivirus has about 1,000 genes, more than some bacteria have. A few of those genes are for parts of the protein-building system, which no virus was supposed to have. Mimivirus still has no ribosomes, so the virus still needs a cell. In 2008, the same team found a small virus, Sputnik, that can be copied only inside the copying factory of a giant virus. From the other side, scientists found bacteria that have lost most of their genes. Carsonella lives inside the cells of a plant-sucking insect and has only 182 genes. Carsonella cannot live outside those cells, yet every biologist calls them a living cell. Below the viruses there are simpler things still. A viroid is a bare loop of RNA, a few hundred letters long, with no coat. A prion is a wrongly folded protein that makes normal proteins of the same kind fold wrongly too. A prion has no genome at all, yet it spreads.",
+   "description": "For a long time, the rule seemed simple. Viruses were tiny and had a handful of genes, and cells were big and had thousands. Then the gap began to fill from both sides. In 1992, a microbe was found in a water cooling tower in Bradford in England. The microbe was large enough to see with a light microscope, so scientists filed them as a bacterium. In 2003, Bernard La Scola and his team in France showed that the microbe was a virus, and gave them the name mimivirus. Mimivirus has about 1,000 genes, more than some bacteria have. A few of those genes are for parts of the protein-building system, which no virus was supposed to have. Mimivirus still has no ribosomes, so the virus still needs a cell. In 2008, the same team found a small virus, Sputnik, that can be copied only inside the copying factory of a giant virus. From the other side, scientists found bacteria that have lost most of their genes. Carsonella lives inside the cells of a plant-sucking insect and has only 182 genes. Carsonella cannot live outside those cells, yet every biologist calls them a living cell. Below the viruses there are simpler things still. A viroid is a bare loop of RNA, a few hundred letters long, with no coat. A prion is a wrongly folded protein that makes normal proteins of the same kind fold wrongly too. A prion has no genome at all, yet prions spread.",
    "examples": [
     "Mimivirus: about 1,000 genes, no ribosomes, copied only inside an amoeba.",
     "Carsonella: 182 genes, has ribosomes, lives only inside insect cells.",
@@ -280,7 +280,7 @@
    "perspectives": [
     {
      "who": "What the evidence shows",
-     "explanation": "These phages sense a signal, compare its amount and take one of two paths. That is sensing, deciding and acting, done with a few molecules. Viruses think in this way, as every living being does."
+     "explanation": "These phages sense a signal, compare its amount and take one of two paths. That is sensing, deciding and acting, done with a few molecules. Viruses think in this simple way, as cells do."
     },
     {
      "who": "Many biologists",
@@ -320,7 +320,7 @@
    "concept": "What viruses do in the living world",
    "status": "defined",
    "definition": "Viruses are the most numerous biological things on Earth. They recycle nutrients in the sea, move genes between living beings, and have left their genes in every genome, including yours.",
-   "description": "Most people meet viruses only as illness. That is a small part of what viruses do. A millilitre of surface sea water holds about ten million virus particles. Almost all of them are phages, whose hosts are bacteria. Every day, phages burst open about a fifth of all the bacteria in the sea. The burst cells spill their contents into the water, and other microbes feed on them. So viruses keep carbon, nitrogen and phosphorus moving through the sea. Viruses also carry genes from one host to another. And sometimes a virus genome gets stuck in the genome of an egg or sperm cell, and is passed to every descendant. About 8 of every 100 letters in the human genome came from such viruses. Some of those old virus genes now do jobs for us. A gene called syncytin once made the envelope protein of a virus. Today it builds a layer of the placenta, the organ that feeds a baby before birth. Without that old virus gene, no human baby could grow in the womb.",
+   "description": "Most people meet viruses only as illness. That is a small part of what viruses do. A millilitre of surface sea water holds about ten million virus particles. Almost all of them are phages, whose hosts are bacteria. Every day, phages burst open about a fifth of all the bacteria in the sea. The burst cells spill their contents into the water, and other microbes feed on them. So viruses keep carbon, nitrogen and phosphorus moving through the sea. Viruses also carry genes from one host to another. And sometimes a virus genome gets stuck in the genome of an egg or sperm cell, and is passed to every descendant. About 8 of every 100 letters in the human genome came from such viruses. Some of those old virus genes now do jobs for us. A gene called syncytin once made the envelope protein of a virus. Today it builds a layer of the placenta, the organ that feeds a baby before birth. The placenta as we know it could not form without that old virus gene.",
    "examples": [
     "There are thought to be about ten times as many viruses in the sea as bacteria.",
     "In 1896, Ernest Hankin reported that water from the Ganga and the Yamuna destroyed cholera bacteria, even after filtering. Phages are one possible cause, and scientists still debate it.",
@@ -1965,10 +1965,10 @@
    "id": "c1",
    "title": "Block the Key: stop a virus entering without harming the cell",
    "mins": 30,
-   "context": "This is a design challenge with cardboard. A virus enters a cell because a spike on their coat fits a receptor, as a key fits a lock. You design ways to stop the key fitting, without damaging the lock, because the cell needs the lock for its own work.",
+   "context": "This is a design challenge with cardboard. A virus enters a cell because a spike on their coat fits a receptor, as a key fits a lock. You design ways to stop the key fitting, without damaging the lock, because the cell needs the lock for their own work.",
    "problem": "Cut a cardboard 'lock' and a 'key' that fits it. Then find at least two different ways to stop the key going into the lock. The lock must stay whole and uncovered.",
    "constraints": [
-    "Do not cut, bend or cover the lock. The cell needs its receptor.",
+    "Do not cut, bend or cover the lock. The cell needs their receptor.",
     "Do not throw the key away. Viruses will keep arriving.",
     "Your blocker must not stop the 'friendly key', a second key of a different shape that also uses this lock."
    ],
@@ -1998,7 +1998,7 @@
      "caption": "2. Cut a friendly key of a different shape that also fits the lock."
     },
     {
-     "art": "The virus key with a small folded paper cap over its tip, held near the lock and no longer able to enter.",
+     "art": "A small folded paper cap over the tip of the virus key, which is held near the lock and no longer able to enter.",
      "caption": "3. Design a blocker that stops the virus key and lets the friendly key in."
     }
    ],
@@ -2023,7 +2023,7 @@
       {
        "q": "Why is it better to block the key than to cover the lock?",
        "good": [
-        "The cell needs its lock for its own work.",
+        "The cell needs the lock for their own work.",
         "A cap on the key stops only the virus."
        ]
       }
@@ -2033,7 +2033,7 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Your child designs and builds a blocker of their own. 2. They test it five times. 3. Now snip a small corner off the tip of the virus key, so that it still enters the lock. 4. Test the blocker on the changed key.",
+     "do": "1. Your child designs and builds a blocker of their own. 2. They test it five times. 3. Now snip a small corner off the key's tip. The key must still enter the lock. 4. Test the blocker on the changed key.",
      "say": "Now I am a copying mistake. I change the tip of the key a little, and it still fits the lock. Does your blocker still hold on to it?",
      "kid": "Design your own blocker. Build it and test it five times. Now the key's tip is changed. Does your blocker still fit?",
      "parent": "A cap made to fit the old tip usually falls off the new one. This is what happens with flu. The virus's spike changes by mutation, last year's antibodies fit less well, and a new vaccine is made.",
@@ -2304,7 +2304,7 @@
     },
     {
      "t": "write",
-     "p": "In the Copying Chain, mistakes added up from copy to copy. Explain why that did not happen when you copied the original.",
+     "p": "In the Copying Chain, mistakes added up from copy to copy. Why did that not happen when you copied the original?",
      "a": "Each copy of the original starts from the true length, so it carries only one mistake. In the chain, each copy starts from a line that already holds all the earlier mistakes, and adds one more.",
      "why": "A strong answer says where each copy starts from. A copy of a copy inherits the old mistakes. A copy of the original does not.",
      "lines": 3,
@@ -2396,7 +2396,7 @@
      "t": "truefalse",
      "p": "True or false: every mutation harms the virus that carries it.",
      "a": false,
-     "why": "False. Most mutations do harm or make no difference, but a few help, for example by hiding the virus from antibodies. Those few are copied more.",
+     "why": "False. Most mutations do harm or make no difference, but a few help, for example by hiding the virus from antibodies. Viruses with those few are copied more.",
      "outcome": 2
     },
     {
@@ -2561,7 +2561,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a slope from 'stone' to 'free-living bacterium'. Place a prion, a viroid, a flu virus and Carsonella on it.",
+     "p": "Draw a slope from 'stone' to 'free-living bacterium'. Place a prion, a viroid, a flu virus and Carsonella along the slope.",
      "a": "From the stone end: prion, viroid, flu virus, Carsonella, then the free-living bacterium.",
      "why": "A prion has no genome. A viroid has a genome and no coat. A flu virus has a genome and a coat. Carsonella has ribosomes too, but cannot live outside a host. Each one has a little more than the one before.",
      "art": "A blank slope rising from left to right, with a stone drawn at the bottom end and a rod-shaped bacterium at the top end.",
@@ -2608,7 +2608,7 @@
      "a": [
       "receptor"
      ],
-     "why": "A receptor is a molecule on the cell's surface that has a job for the cell. A virus can enter only if their coat fits it.",
+     "why": "A receptor is a molecule on the cell's surface that has a job for the cell. A virus can enter only if their coat fits that receptor.",
      "outcome": 1
     }
    ]
@@ -2635,7 +2635,7 @@
     },
     {
      "t": "write",
-     "p": "Each of your cells is wrapped in a membrane made of fat. Use your Two Liquids results to explain why fat is a good choice.",
+     "p": "Your cells are wrapped in a membrane of fat. Use your Two Liquids results to explain why fat suits the job.",
      "a": "The inside and the outside of a cell are both watery. In Two Liquids, ghee did not dissolve in water. So a layer of fat stays whole in water, and keeps the cell's salts and sugars in.",
      "why": "A strong answer uses the result that fat and water do not dissolve each other. A membrane made of something that dissolved in water would fall apart.",
      "lines": 3,
@@ -2723,7 +2723,7 @@
     },
     {
      "t": "write",
-     "p": "A space probe cannot wait for generations to watch evolution. Suggest one sign of life it could measure in a day, and say why.",
+     "p": "A probe cannot wait generations to watch evolution. Suggest one sign of life it could measure in a day. Say why.",
      "a": "One answer: look for very complicated molecules in large numbers, because only something following instructions makes many identical complicated molecules. Another: gas given off when the sample is fed, with a heated sample as the control.",
      "why": "A strong answer names a sign and the reason it points to life. It is even better if it says what could give a false alarm.",
      "lines": 4,
@@ -2797,7 +2797,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a living being for a world with no liquid water. Label their liquid, their energy supply, their boundary and their instructions.",
+     "p": "Draw a living being for a world with no liquid water. Label their liquid, energy supply, boundary and instructions.",
      "a": "Any being with the four labels and a reason for each. For example: a flat being in a methane lake, with energy from chemicals in the lake, a boundary that does not dissolve in methane, and a chain molecule as instructions.",
      "why": "A strong drawing gives a reason for each label. The boundary must not dissolve in the being's liquid, and the instructions must be something that can be copied.",
      "art": "A blank page with a horizon line and an empty lake, and four blank label lines.",
