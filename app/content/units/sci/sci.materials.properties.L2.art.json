@@ -19,6 +19,26 @@
   "src": "media/img/sci.materials.properties.L2/expl.4.jpg",
   "drawn": true
  },
+ "flow.a2": {
+  "src": "media/img/sci.materials.properties.L2/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.materials.properties.L2/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.materials.properties.L2/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.g1": {
+  "src": "media/img/sci.materials.properties.L2/flow.g1.jpg",
+  "drawn": true
+ },
+ "flow.g2": {
+  "src": "media/img/sci.materials.properties.L2/flow.g2.jpg",
+  "drawn": true
+ },
  "setup.a1.0": {
   "src": "media/img/sci.materials.properties.L2/setup.a1.0.jpg",
   "drawn": true
@@ -117,6 +137,10 @@
  },
  "term.1": {
   "src": "media/img/sci.materials.properties.L2/term.1.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.materials.properties.L2/term.2.jpg",
   "drawn": true
  },
  "term.3": {
