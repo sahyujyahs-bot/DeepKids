@@ -3,6 +3,14 @@
   "src": "media/img/sci.sound.music.L2/expl.8.jpg",
   "credit": "Thomas Jaeger, CC BY, via iNaturalist"
  },
+ "setup.c1.0": {
+  "src": "media/img/sci.sound.music.L2/setup.c1.0.jpg",
+  "drawn": true
+ },
+ "setup.c1.1": {
+  "src": "media/img/sci.sound.music.L2/setup.c1.1.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.sound.music.L2/setup.e1.0.jpg",
   "drawn": true
@@ -25,6 +33,14 @@
  },
  "setup.e2.1": {
   "src": "media/img/sci.sound.music.L2/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.p1.0": {
+  "src": "media/img/sci.sound.music.L2/setup.p1.0.jpg",
+  "drawn": true
+ },
+ "setup.p1.1": {
+  "src": "media/img/sci.sound.music.L2/setup.p1.1.jpg",
   "drawn": true
  }
 }
