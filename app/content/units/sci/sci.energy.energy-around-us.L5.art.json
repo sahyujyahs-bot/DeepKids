@@ -31,6 +31,18 @@
   "src": "media/img/sci.energy.energy-around-us.L5/setup.e1.2.jpg",
   "drawn": true
  },
+ "setup.e2.0": {
+  "src": "media/img/sci.energy.energy-around-us.L5/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.energy.energy-around-us.L5/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.energy.energy-around-us.L5/setup.e2.2.jpg",
+  "drawn": true
+ },
  "spot.2": {
   "src": "media/img/sci.energy.energy-around-us.L5/spot.2.jpg",
   "credit": "Illustration made with OpenArt (GPT Image 2.5) from a DeepKids brief"

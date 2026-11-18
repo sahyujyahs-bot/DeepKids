@@ -35,8 +35,16 @@
   "src": "media/img/sci.energy.heat.L4/setup.e2.0.jpg",
   "drawn": true
  },
+ "setup.e2.1": {
+  "src": "media/img/sci.energy.heat.L4/setup.e2.1.jpg",
+  "drawn": true
+ },
  "setup.e2.2": {
   "src": "media/img/sci.energy.heat.L4/setup.e2.2.jpg",
+  "drawn": true
+ },
+ "setup.e3.0": {
+  "src": "media/img/sci.energy.heat.L4/setup.e3.0.jpg",
   "drawn": true
  },
  "setup.e3.1": {

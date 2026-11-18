@@ -23,6 +23,10 @@
   "src": "media/img/sci.ecology.food-chains.L5/setup.e1.0.jpg",
   "drawn": true
  },
+ "setup.e1.1": {
+  "src": "media/img/sci.ecology.food-chains.L5/setup.e1.1.jpg",
+  "drawn": true
+ },
  "setup.e1.2": {
   "src": "media/img/sci.ecology.food-chains.L5/setup.e1.2.jpg",
   "drawn": true
@@ -41,6 +45,10 @@
  },
  "setup.e3.0": {
   "src": "media/img/sci.ecology.food-chains.L5/setup.e3.0.jpg",
+  "drawn": true
+ },
+ "setup.e3.1": {
+  "src": "media/img/sci.ecology.food-chains.L5/setup.e3.1.jpg",
   "drawn": true
  },
  "setup.e3.2": {
