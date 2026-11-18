@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Which came first in the history of animals: lungs or legs? And which came first: milk, or babies born without an egg? Say what you think, and why.",
-  "text": "Most people say legs came before lungs, because fish have neither and frogs have both. Most people also say birth came before milk. In the first activity, the Feature Ladder, you tick the features of seven animals and read the order from your own table. Two animals settle the question: a fish with lungs and a mammal who lays eggs. Then you test why a fish would ever need to breathe air.",
+  "text": "Many people guess that lungs and legs arrived together, when animals first moved onto land. Many also guess that birth came before milk. In the first activity, the Feature Ladder, you tick the features of seven animals and read the order from your own table. Two animals settle the question: a fish with lungs and a mammal who lays eggs. Then you test why a fish would ever need to breathe air.",
   "art": "A child at a table with a sheet of paper ruled into a table, with small drawings of a carp, a lungfish, a frog, a crocodile, a pigeon, a platypus and a cow down the side."
  },
  "outcomes": [
@@ -463,7 +463,7 @@
    "'Viral,' said Thangam Akka, who sold fish in the market and had come up behind her with a basket. 'A big one. She has been sitting in there a week, I would say. Shall I take her?'",
    "'No,' said Yazhini. 'I found her. I am going to keep her until it rains.'",
    "Thangam Akka laughed, but she did not argue. She wrapped the fish in a wet cloth for her and went back to the pool.",
-   "At home Yazhini took the tall brass pot from behind the kitchen door, the one with the narrow neck that was used only at Pongal. She carried it to the well and filled it. Then she thought of how dry the fish had been in that mud, with the carp at least having water, and she went on pouring until the water stood right at the lip.",
+   "At home Yazhini took the tall brass pot from behind the kitchen door, the one with the narrow neck that was used only at Pongal. She carried it to the well and filled it. Then she thought of how dry the fish had been in that mud, and she went on pouring until the water stood right at the lip.",
    "She slid the fish in. The fish went down into the dark and turned once.",
    "'The cat,' said Kathir.",
    "The cat was already on the wall, looking interested. Yazhini fetched a steel plate and pressed it down on the mouth of the pot. It fitted well. A little water ran over the sides. She put a stone on top.",
@@ -1359,7 +1359,7 @@
      "mins": 3,
      "do": "1. Try to wiggle your ears without touching them. 2. Ask who at home can. 3. Ask your child what all these leftovers have in common. 4. Ask what they tell us about our ancestors.",
      "say": "We found fur muscles, a tail's end, and a climbing muscle that some of us have lost. What do they tell you about our ancestors?",
-     "kid": "Try to wiggle your ears. What do goosebumps, a tailbone and this tendon tell you about our ancestors?",
+     "kid": "Try to wiggle your ears. What do these three leftovers tell you about our ancestors?",
      "ask": [
       {
        "q": "What do these leftovers tell us?",
@@ -2025,7 +2025,7 @@
       "A body that makes its own heat",
       "She lays eggs"
      ],
-     "why": "A strong answer names fur and milk. Egg-laying is the feature most mammals lack. The bill and webbed feet are her own special features, and do not decide her group.",
+     "why": "A strong answer names fur and milk. Egg-laying is the feature most mammals lack. The bill and webbed feet are her own special features. Her group is decided by fur and milk.",
      "outcome": 3
     },
     {
@@ -2149,7 +2149,7 @@
     },
     {
      "t": "count",
-     "p": "A litre of air holds 270 milligrams of oxygen, and a litre of water 9. How many times more is in the air?",
+     "p": "A litre of air holds 270 milligrams of oxygen. A litre of water holds 9. How many times more is that?",
      "a": 30,
      "why": "270 ÷ 9 = 30. Air holds about 30 times as much oxygen as the same amount of water, which is why gulping air helps a fish so much.",
      "outcome": 1
@@ -2310,7 +2310,7 @@
     },
     {
      "t": "count",
-     "p": "On a timeline, 1 centimetre is 1 million years. Tiktaalik is at 375 and Acanthostega at 365. How many centimetres apart?",
+     "p": "One centimetre is 1 million years. Tiktaalik is at 375 and Acanthostega at 365. How many centimetres apart?",
      "how": "p1",
      "a": 10,
      "why": "375 − 365 = 10 centimetres, which stands for 10 million years.",
@@ -2651,7 +2651,7 @@
    "t": "mcq",
    "p": "In the Air in Water test, what had to stay the same for all three tumblers?",
    "opts": [
-    "The tumbler, the amount of water and the place",
+    "The tumbler, the amount and the place",
     "Only the colour of the tumbler",
     "How cold the water was at the start",
     "Nothing at all"
@@ -2908,18 +2908,21 @@
   },
   {
    "title": "Dinosaur Fossil Park and Museum, Raiyoli",
+   "url": "",
    "kind": "place",
    "where": "Raiyoli, near Balasinor, Gujarat",
    "why": "Fossil dinosaur eggs and bones in the rocks where they were found, from the time when India was an island."
   },
   {
    "title": "Indroda Dinosaur and Fossil Park",
+   "url": "",
    "kind": "place",
    "where": "Gandhinagar, Gujarat",
    "why": "Fossil dinosaur eggs from Gujarat, and life-size models of the dinosaurs who laid them."
   },
   {
    "title": "B. M. Birla Science Museum",
+   "url": "",
    "kind": "place",
    "where": "Hyderabad",
    "why": "The Dinosaurium holds the mounted skeleton of Kotasaurus, a large plant-eating dinosaur found in Telangana."
@@ -3234,7 +3237,7 @@
   ],
   "other_view": {
    "who": "Georges Cuvier, the French scientist who founded the study of fossil animals",
-   "view": "Cuvier held that every part of an animal fits every other part so closely that one part cannot change alone. A meat-eater's teeth need a meat-eater's claws and gut. So he thought a body could not be rebuilt piece by piece, and that each kind of animal had stayed the same since it began. He knew more about animal bodies than anyone of his time, and he was right that the parts must work together. The in-between fossils that answer him were found long after he died in 1832."
+   "view": "Cuvier held that every part of an animal fits every other part so closely that one part cannot change alone. A meat-eater's teeth need a meat-eater's claws and gut. So he thought a body could not be rebuilt piece by piece, and that each kind of animal had stayed the same from the beginning. He knew more about animal bodies than anyone of his time, and he was right that the parts must work together. The in-between fossils that answer him were found long after he died in 1832."
   },
   "practice": {
    "title": "Four old parts",
