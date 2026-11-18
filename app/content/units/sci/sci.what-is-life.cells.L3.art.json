@@ -35,6 +35,10 @@
   "src": "media/img/sci.what-is-life.cells.L3/expl.7.jpg",
   "drawn": true
  },
+ "flow.a5": {
+  "src": "media/img/sci.what-is-life.cells.L3/flow.a5.jpg",
+  "drawn": true
+ },
  "flow.e1": {
   "src": "media/img/sci.what-is-life.cells.L3/flow.e1.jpg",
   "drawn": true
@@ -211,6 +215,22 @@
   "src": "media/img/sci.what-is-life.cells.L3/setup.p1.2.jpg",
   "drawn": true
  },
+ "story.0": {
+  "src": "media/img/sci.what-is-life.cells.L3/story.0.jpg",
+  "drawn": true
+ },
+ "story.3": {
+  "src": "media/img/sci.what-is-life.cells.L3/story.3.jpg",
+  "drawn": true
+ },
+ "story.5": {
+  "src": "media/img/sci.what-is-life.cells.L3/story.5.jpg",
+  "drawn": true
+ },
+ "story.6": {
+  "src": "media/img/sci.what-is-life.cells.L3/story.6.jpg",
+  "drawn": true
+ },
  "summary": {
   "src": "media/img/sci.what-is-life.cells.L3/summary.jpg",
   "drawn": true
@@ -218,6 +238,10 @@
  "term.0": {
   "src": "media/img/sci.what-is-life.cells.L3/term.0.jpg",
   "credit": "loganrickert, CC BY 2.0, via Wikimedia Commons"
+ },
+ "term.10": {
+  "src": "media/img/sci.what-is-life.cells.L3/term.10.jpg",
+  "drawn": true
  },
  "term.11": {
   "src": "media/img/sci.what-is-life.cells.L3/term.11.jpg",
