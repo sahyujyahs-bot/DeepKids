@@ -63,6 +63,30 @@
   "src": "media/img/sci.materials.properties.L3/intro.jpg",
   "drawn": true
  },
+ "setup.c1.0": {
+  "src": "media/img/sci.materials.properties.L3/setup.c1.0.jpg",
+  "drawn": true
+ },
+ "setup.c1.1": {
+  "src": "media/img/sci.materials.properties.L3/setup.c1.1.jpg",
+  "drawn": true
+ },
+ "setup.c1.2": {
+  "src": "media/img/sci.materials.properties.L3/setup.c1.2.jpg",
+  "drawn": true
+ },
+ "setup.c2.0": {
+  "src": "media/img/sci.materials.properties.L3/setup.c2.0.jpg",
+  "drawn": true
+ },
+ "setup.c2.1": {
+  "src": "media/img/sci.materials.properties.L3/setup.c2.1.jpg",
+  "drawn": true
+ },
+ "setup.c2.2": {
+  "src": "media/img/sci.materials.properties.L3/setup.c2.2.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.materials.properties.L3/setup.e1.0.jpg",
   "drawn": true
@@ -121,6 +145,18 @@
  },
  "setup.e5.2": {
   "src": "media/img/sci.materials.properties.L3/setup.e5.2.jpg",
+  "drawn": true
+ },
+ "setup.p1.0": {
+  "src": "media/img/sci.materials.properties.L3/setup.p1.0.jpg",
+  "drawn": true
+ },
+ "setup.p1.1": {
+  "src": "media/img/sci.materials.properties.L3/setup.p1.1.jpg",
+  "drawn": true
+ },
+ "setup.p1.2": {
+  "src": "media/img/sci.materials.properties.L3/setup.p1.2.jpg",
   "drawn": true
  },
  "summary": {
