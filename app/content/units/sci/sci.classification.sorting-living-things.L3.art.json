@@ -1,10 +1,30 @@
 {
+ "expl.10": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/expl.10.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/expl.4.jpg",
+  "drawn": true
+ },
  "expl.5": {
   "src": "media/img/sci.classification.sorting-living-things.L3/expl.5.jpg",
   "drawn": true
  },
+ "expl.6": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/expl.6.jpg",
+  "credit": "avocat, sam-rajnikant and Ramesh Shenai, CC BY, via iNaturalist"
+ },
  "expl.7": {
   "src": "media/img/sci.classification.sorting-living-things.L3/expl.7.jpg",
+  "drawn": true
+ },
+ "expl.8": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/expl.8.jpg",
   "drawn": true
  },
  "flow.a1": {
@@ -13,6 +33,10 @@
  },
  "flow.a2": {
   "src": "media/img/sci.classification.sorting-living-things.L3/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.a3": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/flow.a3.jpg",
   "drawn": true
  },
  "flow.a4": {
@@ -27,6 +51,14 @@
   "src": "media/img/sci.classification.sorting-living-things.L3/flow.a6.jpg",
   "drawn": true
  },
+ "flow.c1": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.c2": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/flow.c2.jpg",
+  "drawn": true
+ },
  "flow.e1": {
   "src": "media/img/sci.classification.sorting-living-things.L3/flow.e1.jpg",
   "drawn": true
@@ -37,6 +69,14 @@
  },
  "flow.e3": {
   "src": "media/img/sci.classification.sorting-living-things.L3/flow.e3.jpg",
+  "drawn": true
+ },
+ "flow.g1": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/flow.g1.jpg",
+  "drawn": true
+ },
+ "flow.g2": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/flow.g2.jpg",
   "drawn": true
  },
  "flow.p1": {
@@ -171,9 +211,17 @@
   "src": "media/img/sci.classification.sorting-living-things.L3/term.0.jpg",
   "drawn": true
  },
+ "term.1": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/term.1.jpg",
+  "drawn": true
+ },
  "term.11": {
   "src": "media/img/sci.classification.sorting-living-things.L3/term.11.jpg",
   "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+ },
+ "term.13": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/term.13.jpg",
+  "drawn": true
  },
  "term.14": {
   "src": "media/img/sci.classification.sorting-living-things.L3/term.14.jpg",
@@ -182,6 +230,30 @@
  "term.15": {
   "src": "media/img/sci.classification.sorting-living-things.L3/term.15.jpg",
   "credit": "Haneesh K M, CC0, via iNaturalist"
+ },
+ "term.16": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/term.16.jpg",
+  "credit": "Thomas Mesaglio, CC BY, via iNaturalist"
+ },
+ "term.19": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/term.19.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/term.2.jpg",
+  "credit": "avocat, CC BY, via iNaturalist"
+ },
+ "term.3": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/term.3.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/term.5.jpg",
+  "credit": "Morten Ross and Siya ul haque, CC BY, via iNaturalist"
+ },
+ "term.8": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/term.8.jpg",
+  "drawn": true
  },
  "term.9": {
   "src": "media/img/sci.classification.sorting-living-things.L3/term.9.jpg",
