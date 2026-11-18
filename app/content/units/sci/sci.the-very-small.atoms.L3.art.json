@@ -27,6 +27,10 @@
   "src": "media/img/sci.the-very-small.atoms.L3/expl.14.jpg",
   "drawn": true
  },
+ "expl.2": {
+  "src": "media/img/sci.the-very-small.atoms.L3/expl.2.jpg",
+  "drawn": true
+ },
  "expl.4": {
   "src": "media/img/sci.the-very-small.atoms.L3/expl.4.jpg",
   "drawn": true
@@ -279,6 +283,10 @@
   "src": "media/img/sci.the-very-small.atoms.L3/term.12.jpg",
   "drawn": true
  },
+ "term.13": {
+  "src": "media/img/sci.the-very-small.atoms.L3/term.13.jpg",
+  "drawn": true
+ },
  "term.14": {
   "src": "media/img/sci.the-very-small.atoms.L3/term.14.jpg",
   "drawn": true
@@ -295,8 +303,20 @@
   "src": "media/img/sci.the-very-small.atoms.L3/term.17.jpg",
   "drawn": true
  },
+ "term.18": {
+  "src": "media/img/sci.the-very-small.atoms.L3/term.18.jpg",
+  "drawn": true
+ },
+ "term.19": {
+  "src": "media/img/sci.the-very-small.atoms.L3/term.19.jpg",
+  "drawn": true
+ },
  "term.2": {
   "src": "media/img/sci.the-very-small.atoms.L3/term.2.jpg",
+  "drawn": true
+ },
+ "term.20": {
+  "src": "media/img/sci.the-very-small.atoms.L3/term.20.jpg",
   "drawn": true
  },
  "term.3": {
