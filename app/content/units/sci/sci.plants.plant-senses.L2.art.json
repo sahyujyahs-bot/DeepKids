@@ -131,6 +131,10 @@
   "src": "media/img/sci.plants.plant-senses.L2/setup.p1.0.jpg",
   "drawn": true
  },
+ "spot.0": {
+  "src": "media/img/sci.plants.plant-senses.L2/spot.0.jpg",
+  "drawn": true
+ },
  "spot.1": {
   "src": "media/img/sci.plants.plant-senses.L2/spot.1.jpg",
   "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
@@ -142,6 +146,10 @@
  "spot.3": {
   "src": "media/img/sci.plants.plant-senses.L2/spot.3.jpg",
   "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+ },
+ "spot.4": {
+  "src": "media/img/sci.plants.plant-senses.L2/spot.4.jpg",
+  "drawn": true
  },
  "summary": {
   "src": "media/img/sci.plants.plant-senses.L2/summary.jpg",

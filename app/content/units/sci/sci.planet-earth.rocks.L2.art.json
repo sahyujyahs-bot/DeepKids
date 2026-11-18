@@ -7,12 +7,32 @@
   "src": "media/img/sci.planet-earth.rocks.L2/expl.1.jpg",
   "drawn": true
  },
+ "expl.2": {
+  "src": "media/img/sci.planet-earth.rocks.L2/expl.2.jpg",
+  "drawn": true
+ },
  "expl.3": {
   "src": "media/img/sci.planet-earth.rocks.L2/expl.3.jpg",
   "drawn": true
  },
  "expl.4": {
   "src": "media/img/sci.planet-earth.rocks.L2/expl.4.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.planet-earth.rocks.L2/flow.a2.jpg",
+  "drawn": true
+ },
+ "flow.e1": {
+  "src": "media/img/sci.planet-earth.rocks.L2/flow.e1.jpg",
+  "drawn": true
+ },
+ "flow.e2": {
+  "src": "media/img/sci.planet-earth.rocks.L2/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.p1": {
+  "src": "media/img/sci.planet-earth.rocks.L2/flow.p1.jpg",
   "drawn": true
  },
  "intro": {
@@ -118,6 +138,14 @@
  "spot.0": {
   "src": "media/img/sci.planet-earth.rocks.L2/spot.0.jpg",
   "credit": "Plant pests and diseases, CC0 1.0, via Flickr"
+ },
+ "spot.1": {
+  "src": "media/img/sci.planet-earth.rocks.L2/spot.1.jpg",
+  "drawn": true
+ },
+ "spot.2": {
+  "src": "media/img/sci.planet-earth.rocks.L2/spot.2.jpg",
+  "drawn": true
  },
  "spot.3": {
   "src": "media/img/sci.planet-earth.rocks.L2/spot.3.jpg",
