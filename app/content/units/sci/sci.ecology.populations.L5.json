@@ -3646,12 +3646,16 @@
    {
     "source": "Thirukkural 479 (paraphrased)",
     "teaching": "The life of a person who lives without knowing their measure may look as if it is doing well. Then it is gone, and nothing is left to show for it.",
-    "link": "Valluvar wrote this about a person's wealth. The reindeer of St Matthew Island lived it. The herd looked as if it was thriving until the year it vanished, because it had gone past the measure of the island."
+    "link": "Valluvar wrote this about a person's wealth. The reindeer of St Matthew Island lived it. The herd looked as if it was thriving until the year it vanished, because it had gone past the measure of the island.",
+    "verse": ["அளவறிந்து வாழாதான் வாழ்க்கை உளபோல", "இல்லாகித் தோன்றாக் கெடும்."],
+    "verse_lang": "ta"
    },
    {
     "source": "Tao Te Ching 77 (paraphrased)",
     "teaching": "The way of nature is like the bending of a bow. The high end is brought down and the low end is raised. What has too much is reduced, and what has too little is added to.",
-    "link": "This is how a crowded population and a sparse one behave. In a crowd, deaths rise and births fall. Where members are few, each has plenty and the number grows. Both are pulled toward the carrying capacity."
+    "link": "This is how a crowded population and a sparse one behave. In a crowd, deaths rise and births fall. Where members are few, each has plenty and the number grows. Both are pulled toward the carrying capacity.",
+    "verse": ["天之道，損有餘而補不足。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

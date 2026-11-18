@@ -3599,17 +3599,23 @@
    {
     "source": "Chandogya Upanishad 6.10",
     "teaching": "The teacher Uddalaka tells his son that the rivers of the east flow east and the rivers of the west flow west. They rise from the sea and go back to the sea, and become the sea. There, they do not know 'I am this river' or 'I am that river'.",
-    "link": "This is the water cycle, seen more than 2,500 years ago. Uddalaka uses it to say that separate things share one source. In this unit the science is plainer. The mud, the food and the fish of a river really do become part of the sea."
+    "link": "This is the water cycle, seen more than 2,500 years ago. Uddalaka uses it to say that separate things share one source. In this unit the science is plainer. The mud, the food and the fish of a river really do become part of the sea.",
+    "verse": ["इमाः सोम्य नद्यः पुरस्तात्प्राच्यः स्यन्दन्ते पश्चात्प्रतीच्यः", "ताः समुद्रात्समुद्रमेवापियन्ति", "स समुद्र एव भवति", "ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 66",
     "teaching": "The rivers and the seas can be kings of all the valley streams because they are good at staying low. That is why the streams all flow to them.",
-    "link": "Water runs downhill, so the lowest place gathers what every higher place gives up. The deep sea floor is the lowest place of all. Everything that falls, from silt to marine snow, ends there, and feeds those who live there."
+    "link": "Water runs downhill, so the lowest place gathers what every higher place gives up. The deep sea floor is the lowest place of all. Everything that falls, from silt to marine snow, ends there, and feeds those who live there.",
+    "verse": ["江海所以能為百谷王者，以其善下之，故能為百谷王。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Heraclitus, fragment B12 (Diels-Kranz numbering)",
     "teaching": "On those who step into the same rivers, different and again different waters flow.",
-    "link": "Heraclitus, a Greek thinker of about 500 BCE, noticed that a river stays the same river while its water is always new. A river is water passing through, with mud and food and fish. The habitat is the flow."
+    "link": "Heraclitus, a Greek thinker of about 500 BCE, noticed that a river stays the same river while its water is always new. A river is water passing through, with mud and food and fish. The habitat is the flow.",
+    "verse": ["ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

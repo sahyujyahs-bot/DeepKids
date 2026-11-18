@@ -3166,12 +3166,16 @@
    {
     "source": "Bhagavad Gita 3.11",
     "teaching": "Nourish the gods with this, and may the gods nourish you. By nourishing one another, you will reach the highest good.",
-    "link": "The verse is about people and the gods, not about plants. But it describes the same pattern as a root and a fungus: each side feeds the other, and both do better than either could alone."
+    "link": "The verse is about people and the gods, not about plants. But it describes the same pattern as a root and a fungus: each side feeds the other, and both do better than either could alone.",
+    "verse": ["देवान्भावयतानेन ते देवा भावयन्तु वः।", "परस्परं भावयन्तः श्रेयः परमवाप्स्यथ।।"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 2",
     "teaching": "Being and non-being give rise to each other. Long and short shape each other. High and low rest on each other.",
-    "link": "The verse says that opposites need each other. In a lichen, the one who can make sugar and the one who cannot are opposites in this way, and that is why each has a use for the other. The verse is about ideas, so the likeness is in the pattern only."
+    "link": "The verse says that opposites need each other. In a lichen, the one who can make sugar and the one who cannot are opposites in this way, and that is why each has a use for the other. The verse is about ideas, so the likeness is in the pattern only.",
+    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

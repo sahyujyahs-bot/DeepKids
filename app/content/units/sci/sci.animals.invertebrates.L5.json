@@ -563,12 +563,16 @@
    {
     "source": "Kena Upanishad 1.1 (paraphrased)",
     "teaching": "A student asks: sent by whom does the mind go out to what it thinks about? Who sets the first breath moving? Who directs the eye and the ear?",
-    "link": "The student is asking who the boss is, and the Upanishad does not point to any one part of the body. The octopus puts the same question to science: when an arm grips a crab that the brain never saw, who sent the arm?"
+    "link": "The student is asking who the boss is, and the Upanishad does not point to any one part of the body. The octopus puts the same question to science: when an arm grips a crab that the brain never saw, who sent the arm?",
+    "verse": ["ॐ केनेषितं पतति प्रेषितं मनः", "केन प्राणः प्रथमः प्रैति युक्तः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi, chapter 3, the story of Cook Ding (paraphrased)",
     "teaching": "A cook who has cut up oxen for nineteen years says that he no longer looks with his eyes. His knowing and planning stop, and his hands follow the natural gaps in the ox.",
-    "link": "The cook describes skill that lives in the hands and works best when the planning mind stops giving orders. In the Boss or Hand test, your hand found the coin sooner when it was left to feel its own way."
+    "link": "The cook describes skill that lives in the hands and works best when the planning mind stops giving orders. In the Boss or Hand test, your hand found the coin sooner when it was left to feel its own way.",
+    "verse": ["今臣之刀，十九年矣，所解數千牛矣，而刀刃若新發於硎。", "彼節者有間，而刀刃者无厚，以无厚入有間，恢恢乎其於遊刃必有餘地矣"],
+    "verse_lang": "zh"
    },
    {
     "source": "Milindapanha (The Questions of King Milinda), Book 2, chapter 1, the chariot (paraphrased)",

@@ -520,17 +520,23 @@
    {
     "source": "Atharva Veda 12.1.12",
     "teaching": "The Earth is my mother, and I am her son.",
-    "link": "This hymn was sung long before anyone could measure the air. The science agrees with the plain part of it. Every atom of your body, and every breath, came to you from the Earth and the living beings on the Earth."
+    "link": "This hymn was sung long before anyone could measure the air. The science agrees with the plain part of it. Every atom of your body, and every breath, came to you from the Earth and the living beings on the Earth.",
+    "verse": ["यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।", "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"],
+    "verse_lang": "sa"
    },
    {
     "source": "Marcus Aurelius, Meditations 4.40",
     "teaching": "Always think of the universe as one living being, with one substance and one soul. See how all things work together to cause all that happens.",
-    "link": "Marcus Aurelius was a Roman emperor who wrote this about 1,850 years ago. The Gaia hypothesis asks a smaller question about just one planet: do the living and the non-living parts of the Earth work together as one system?"
+    "link": "Marcus Aurelius was a Roman emperor who wrote this about 1,850 years ago. The Gaia hypothesis asks a smaller question about just one planet: do the living and the non-living parts of the Earth work together as one system?",
+    "verse": ["Ὡς ἓν ζῷον τὸν κόσμον, μίαν οὐσίαν καὶ ψυχὴν μίαν ἐπέχον, συνεχῶς ἐπινοεῖν", "καὶ πῶς ὁρμῇ μιᾷ πάντα πράσσει καὶ πῶς πάντα πάντων τῶν γινομένων συναίτια"],
+    "verse_lang": "grc"
    },
    {
     "source": "Thirukkural 20",
     "teaching": "If the world cannot go on without water, then water cannot go on without rain.",
-    "link": "Thiruvalluvar saw that life depends on something far above any one field or village. Today we can add a step. Part of the rain depends on forests, so the rain also depends on life."
+    "link": "Thiruvalluvar saw that life depends on something far above any one field or village. Today we can add a step. Part of the rain depends on forests, so the rain also depends on life.",
+    "verse": ["நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும்", "வான்இன்று அமையாது ஒழுக்கு."],
+    "verse_lang": "ta"
    }
   ],
   "science": [
