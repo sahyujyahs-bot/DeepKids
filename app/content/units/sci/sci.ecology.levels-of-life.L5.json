@@ -126,7 +126,7 @@
   },
   {
    "term": "Phytoplankton",
-   "meaning": "Phytoplankton are tiny living beings who float in the sea and in lakes and make food from sunlight. Most are too small to see without a microscope.",
+   "meaning": "Phytoplankton are tiny living beings who float in the sea and in lakes. They make their food from carbon dioxide and water, using sunlight. Most are too small to see without a microscope.",
    "example": "Phytoplankton make about half of all the oxygen that living beings make each year.",
    "art": "A drop of sea water under a microscope, full of tiny green and golden cells."
   }
@@ -166,7 +166,7 @@
    "examples": [
     "Honeybees keep the part of the hive where their young grow at about 32 to 36 degrees Celsius. They shiver to warm it and fan their wings to cool it. One bee alone cannot hold any place at a steady temperature.",
     "Pour rice slowly on a plate, and the heap always makes about the same slope. No single grain has a slope.",
-    "You can think, but no single cell of your body thinks your thoughts in the way that you do."
+    "You can ride a cycle. No single cell of your body can ride one."
    ],
    "perspectives": [],
    "art": "A cluster of honeybees on a honeycomb with a thermometer reading 35, beside one bee alone on a leaf."
@@ -186,8 +186,8 @@
   {
    "concept": "Energy passes through the biosphere, but matter stays and goes round",
    "status": "defined",
-   "definition": "The Earth takes in energy as sunlight and gives out the same amount of energy as heat. Almost no matter enters or leaves, so the same atoms are used again and again.",
-   "description": "Sunlight reaches the Earth all the time. The Earth sends heat back out to space all the time. If more came in than went out, the Earth would keep getting hotter. Matter is different. Apart from a little dust from space and a little gas that escapes, the Earth keeps the same atoms. So the biosphere has to recycle. The waste of one living being must be the food of another. Animals breathe out carbon dioxide, and plants take carbon dioxide in. Plants give out oxygen, and animals take oxygen in. From 1991 to 1993, eight people lived sealed inside a huge glass building in Arizona, in the United States, called Biosphere 2. It held a small rainforest, a small sea and a farm. Within sixteen months the oxygen in its air fell from about 21 parts in 100 to about 14. The soil had been made very rich in compost, and the microbes in the soil used up oxygen faster than the plants made it. Oxygen had to be pumped in. A working biosphere is much harder to build than anyone expected.",
+   "definition": "The Earth takes in energy as sunlight and sends almost exactly the same amount back out to space. Almost no matter enters or leaves, so the same atoms are used again and again.",
+   "description": "Sunlight reaches the Earth all the time. The Earth sends energy back out to space all the time, partly as reflected light and mostly as heat. If more came in than went out, the Earth would keep getting hotter. Matter is different. Apart from a little dust from space and a little gas that escapes, the Earth keeps the same atoms. So the biosphere has to recycle. The waste of one living being must be the food of another. Animals breathe out carbon dioxide, and plants take carbon dioxide in. Plants give out oxygen, and animals take oxygen in. From 1991 to 1993, eight people lived sealed inside a huge glass building in Arizona, in the United States, called Biosphere 2. It held a small rainforest, a small sea and a farm. Within sixteen months the oxygen in its air fell from about 21 parts in 100 to about 14. The soil had been made very rich in compost, and the microbes in the soil used up oxygen faster than the plants made it. Oxygen had to be pumped in. A working biosphere is much harder to build than anyone expected.",
    "examples": [
     "A sealed glass jar with damp soil and a small plant can live for months on a windowsill. Light goes in and heat comes out, but no water or air is added.",
     "The water you drank today has been drunk before, many times, by other animals and by plants."
@@ -199,7 +199,7 @@
    "concept": "Living beings made the air",
    "status": "defined",
    "definition": "The Earth's air is very different from the air of the planets next to it, and living beings are the reason. Nearly all the oxygen in the air was made by photosynthesis.",
-   "description": "Photosynthesis is the way plants, seaweeds and some bacteria make food from carbon dioxide and water, using light. Oxygen is given out as they do it. The young Earth had almost no oxygen in its air. About 2,400 million years ago, bacteria called cyanobacteria had made so much oxygen that it began to stay in the air. Scientists call this the Great Oxidation Event. They know about it from rocks. Rocks older than that hold minerals that cannot last where there is oxygen. Today oxygen is 21 parts in every 100 of the air. Oxygen reacts easily. It rusts iron and it burns wood. So if living beings stopped making oxygen, the oxygen in the air would slowly be used up. Venus and Mars show what air is like with no life at work. On both, 95 parts or more in every 100 are carbon dioxide.",
+   "description": "Photosynthesis is the way plants, seaweeds and some bacteria make food from carbon dioxide and water, using light. Oxygen is given out as they do it. The young Earth had almost no oxygen in its air. About 2,400 million years ago, bacteria called cyanobacteria had made so much oxygen that it began to stay in the air. Scientists call this the Great Oxidation Event. They know about it from rocks. Rocks older than that hold minerals that cannot last where there is oxygen. Today oxygen is 21 parts in every 100 of the air. Oxygen reacts easily. It rusts iron and it burns wood. So if living beings stopped making oxygen, the oxygen in the air would slowly be used up. No life has been found on Venus or Mars. Their air shows what a planet's air is like with no life at work. On both, 95 parts or more in every 100 are carbon dioxide.",
    "examples": [
     "Phytoplankton in the sea do about half of all the photosynthesis on the Earth. Plants on land do the other half.",
     "In 1986, Sallie Chisholm and her team found Prochlorococcus in the sea. They are the smallest and the most numerous of all the cells who photosynthesise.",
@@ -258,7 +258,7 @@
     },
     {
      "who": "Peter Ward (2009)",
-     "explanation": "Life has often harmed life. When bacteria first filled the air with oxygen, that oxygen was a poison to most living beings of the time. Ward calls his idea the Medea hypothesis, after a mother in an old Greek story who harms her own children."
+     "explanation": "Life has often harmed life. When bacteria first filled the air with oxygen, that oxygen was probably a poison to most living beings of the time. Ward calls his idea the Medea hypothesis, after a mother in an old Greek story who harms her own children."
     },
     {
      "who": "Toby Tyrrell (2013)",
@@ -304,7 +304,7 @@
    "perspectives": [
     {
      "who": "James Lovelock",
-     "explanation": "The Earth regulates itself in the way a living body does. So in his books he often wrote about the Earth as if it were alive, and he said that was the best short way to describe it."
+     "explanation": "The Earth regulates itself in the way a living body does. So in his books he often wrote of the Earth as alive. He also said this was a way of speaking, to help people see the Earth as one system."
     },
     {
      "who": "Lynn Margulis",
@@ -436,10 +436,10 @@
  ],
  "how_we_found_out": {
   "context": "How did people find out that living beings make the air of a planet? This card tells the true story, and the idea that turned out wrong.",
-  "story": "Sixty years ago, most scientists thought a planet's air came only from volcanoes, rocks and sunlight. Life simply lived in whatever air the planet had. In the 1960s, the American space agency NASA was planning to look for life on Mars. It asked the scientist James Lovelock to help. Lovelock and the philosopher Dian Hitchcock said nobody needed to land a machine to dig in the soil. They said to look at the air of Mars through a telescope. On a planet with no life, the gases in the air will have reacted with each other until nothing more can happen. The Earth's air is not like that. It holds oxygen and methane together, and those two gases destroy each other. Living beings must be making both all the time. The air of Mars turned out to be almost all carbon dioxide, with nothing still reacting. Hitchcock and Lovelock published the idea in 1967. So the old idea was wrong for the Earth. Here, living beings make the air. Scientists now use the same test to look for life on planets around other stars.",
+  "story": "Sixty years ago, most scientists treated a planet's air as the work of volcanoes, rocks and sunlight. They knew that plants give out oxygen. But few thought that living beings decide what the whole air is made of. In the 1960s, the American space agency NASA was planning to look for life on Mars. It asked the scientist James Lovelock to help. Lovelock and the philosopher Dian Hitchcock said nobody needed to land a machine to dig in the soil. They said to look at the air of Mars through a telescope. On a planet with no life, the gases in the air will have reacted with each other until nothing more can happen. The Earth's air is not like that. It holds oxygen and methane together, and those two gases destroy each other. Living beings must be making both all the time. The air of Mars turned out to be almost all carbon dioxide, with nothing still reacting. Hitchcock and Lovelock published the idea in 1967. So on the Earth, living beings decide what the air is made of. Scientists now use the same test to look for life on planets around other stars.",
   "who": "James Lovelock and Dian Hitchcock, who worked out how to find life from a planet's air. Lynn Margulis, who showed which microbes make which gases.",
   "when": "1965 (Lovelock's first paper on the idea), 1967 (Hitchcock and Lovelock's paper) and 1974 (Lovelock and Margulis's paper on the Gaia hypothesis)",
-  "wrong_idea": "That a planet's air is made only by volcanoes, rocks and sunlight, and life just lives in it. The Earth's air holds gases that destroy each other, such as oxygen and methane. They can only stay there because living beings keep making them.",
+  "wrong_idea": "That volcanoes, rocks and sunlight decide what a planet's air is made of, and living beings only fit themselves to it. The Earth's air holds gases that destroy each other, such as oxygen and methane. They can only stay there because living beings keep making them.",
   "art": "A woman and a man in 1960s clothes at a desk with a chart of three planets' air, and a telescope by the window."
  },
  "story": {
@@ -519,7 +519,7 @@
   "teachings": [
    {
     "source": "Atharva Veda 12.1.12",
-    "teaching": "The Earth is my mother, and I am her child.",
+    "teaching": "The Earth is my mother, and I am her son.",
     "link": "This hymn was sung long before anyone could measure the air. The science agrees with the plain part of it. Every atom of your body, and every breath, came to you from the Earth and the living beings on the Earth."
    },
    {
@@ -900,7 +900,7 @@
      "kid": "Count your points. Make a 'push back' row and a 'push on' row. Which row stays steady? Which row runs away?",
      "check": {
       "t": "mcq",
-      "q": "Snow melts and leaves dark ground. Dark ground warms in the sun and melts more snow. What kind of feedback is this?",
+      "q": "Snow melts and leaves dark ground. The dark ground warms and melts more snow. What kind of feedback is this?",
       "options": [
        "Balancing, because snow is cold",
        "Reinforcing, because melting leads to more melting",
@@ -1146,7 +1146,7 @@
       "q": "In the Daisy Planet Test, why did the planet with daisies stay near 26 degrees?",
       "options": [
        "The Sun stopped getting hotter",
-       "More pale daisies grew whenever it got too warm",
+       "Pale daisies grew when it got too warm",
        "The daisies agreed to cool the planet",
        "Beans cannot get hot"
       ],
@@ -1647,7 +1647,7 @@
        "Volcanoes make oxygen"
       ],
       "a": 1,
-      "why": "Photosynthesis by plants, seaweeds and bacteria gives out oxygen. Volcanoes give out carbon dioxide and water vapour, not oxygen. Choosing 'volcanoes' is the old idea that rocks alone make a planet's air."
+      "why": "Photosynthesis by plants, seaweeds and bacteria gives out oxygen. Volcanoes give out carbon dioxide and water vapour, not oxygen. Volcanoes do add gases to the air, but oxygen is not one of them."
      },
      "context": "This is the last step of Three Planets' Air. You have coloured strips for the air of Venus, the Earth and Mars. Here you find the odd one out and explain it."
     }
@@ -1719,7 +1719,7 @@
         "A population has a birth rate.",
         "A bee colony keeps the hive warm.",
         "A forest makes shade and damp air.",
-        "My body can think, but one cell cannot think my thoughts."
+        "I can ride a cycle, but no single cell of my body can."
        ]
       }
      ],
@@ -1994,7 +1994,7 @@
       "options": [
        "Never",
        "When the organisms are large",
-       "When very many do the same thing for long",
+       "When very many do the same for long",
        "Only when people do it"
       ],
       "a": 2,
@@ -2550,7 +2550,7 @@
     },
     {
      "t": "label",
-     "p": "Label each loop 'balancing' or 'reinforcing'. Loop A: you get hot, you sweat, you cool. Loop B: ice melts, dark sea warms, more ice melts.",
+     "p": "Label each loop 'balancing' or 'reinforcing'. Loop A: hot, sweat, cooler. Loop B: ice melts, dark sea warms, more ice melts.",
      "a": [
       "Loop A: balancing",
       "Loop B: reinforcing"
@@ -2598,7 +2598,7 @@
     },
     {
      "t": "write",
-     "p": "Oxygen rusts iron and burns wood, so it keeps getting used up. Explain how the air can still be one fifth oxygen.",
+     "p": "Rusting and burning keep using up oxygen. Explain how the air can still be one fifth oxygen.",
      "a": "Plants, seaweeds and tiny cells in the sea give out oxygen when they photosynthesise. They keep putting oxygen back as fast as rusting, burning and breathing take it away.",
      "why": "A strong answer says that oxygen is being made all the time, not that it was made once and stayed.",
      "lines": 3
@@ -2712,7 +2712,7 @@
     },
     {
      "t": "write",
-     "p": "On the Daisy Planet the Sun number is 32, with 2 dark and 9 pale daisies. Work out the temperature. What happens next?",
+     "p": "Daisy Planet: the Sun number is 32, with 2 dark and 9 pale daisies. What is the temperature? What happens next?",
      "a": "32 + 2 - 9 = 25 degrees. That is inside the range from 20 to 25, so no daisies are added or taken off this round.",
      "why": "A strong answer shows the sum, and then uses the rules to say what the daisies do.",
      "lines": 3,
@@ -2758,7 +2758,7 @@
     },
     {
      "t": "write",
-     "p": "A sealed jar with a plant weighs the same after three weeks. Say what crossed the glass, and what did not.",
+     "p": "A sealed jar with a plant weighs the same after three weeks. What crossed the glass, and what did not?",
      "a": "Light went in and heat came out. No water, air or soil crossed the glass, so the weight stayed the same. Inside, the water went round and round.",
      "why": "A strong answer separates energy, which crosses the glass, from matter, which does not.",
      "lines": 3,
@@ -2802,7 +2802,7 @@
      "p": "Astronomers find a far planet whose air holds oxygen and methane together. Why is that exciting?",
      "opts": [
       "Those gases smell",
-      "Those gases destroy each other, so something keeps making them",
+      "Something must keep making both gases",
       "Those gases are heavy",
       "Those gases make the planet blue"
      ],
@@ -2811,7 +2811,7 @@
     },
     {
      "t": "write",
-     "p": "In the Faster Sun challenge, changing 6 daisies a round did worse than changing 5. Suggest why a strong reaction can be worse.",
+     "p": "In the Faster Sun, changing 6 daisies a round did worse than changing 5. Suggest why.",
      "a": "With 6, each correction was bigger than the change it was correcting. The temperature went past the comfortable range on the other side, and then had to be corrected back. With 5, the correction matched the Sun's step.",
      "why": "A strong answer uses the idea of overshooting: correcting by more than the change.",
      "lines": 4,
@@ -2844,7 +2844,7 @@
     },
     {
      "t": "mcq",
-     "p": "The young Sun was about a quarter dimmer, yet the early seas did not freeze solid. What is the likeliest reason?",
+     "p": "The young Sun was about a quarter dimmer, yet the early seas stayed liquid. What is the likeliest reason?",
      "opts": [
       "The early air trapped more heat",
       "The Earth was nearer the Sun",
@@ -2959,7 +2959,7 @@
     },
     {
      "t": "mcq",
-     "p": "The Earth is about 12,700 km across. Nearly all life is in a layer 20 km thick. About what fraction is that?",
+     "p": "The Earth is 12,700 km across. Nearly all life is in a layer 20 km thick. What fraction is that?",
      "opts": [
       "About 1/6",
       "About 1/60",
@@ -3147,7 +3147,7 @@
  ],
  "applications": [
   "Astronomers look for life on planets around other stars by studying the air of those planets. They look for gases that would vanish unless something kept making them.",
-  "Foresters in the Western Ghats argue for keeping forests partly because of the rain those forests send on to farms far away.",
+  "People who work to protect the forests of the Western Ghats point to the rain those forests send on to farms in Tamil Nadu.",
   "Engineers who plan homes on the Moon or Mars must close every loop of air, water and waste. Biosphere 2 showed how hard that is.",
   "Climate scientists use computer models of the whole Earth, with air, sea, ice and living beings all acting on each other. The Daisy Planet is a very small relative of those models.",
   "Doctors use the idea of balancing feedback to understand how the body holds its warmth and its blood sugar steady.",
@@ -3184,7 +3184,7 @@
    "art": "A tall red termite mound beside a dry road, with tiny termites at one opening."
   },
   {
-   "text": "The green layer on a pond or an old tank in summer is made of algae and cyanobacteria. Their ancestors were the first makers of the oxygen in the air.",
+   "text": "The green layer on a pond or an old tank in summer is made of algae and cyanobacteria. The ancestors of cyanobacteria were the first makers of the oxygen in the air.",
    "art": "A pond with a bright green layer on the water near the bank."
   }
  ],
