@@ -959,7 +959,7 @@ function fxShowSection(si, ci) {
     body = FXALL.filter((c) => c.sec === s.id);
   const lead = {
     key: "lead." + s.id,
-    html: `<div class="fxtxt fxlead"><span class="fxeb">Part ${si + 1} of ${SL.length}</span>${fxPill(s.kind)}<div class="fxbige">${s.emoji}</div><h1>${esc(s.title)}</h1><p class="fxsm">⏱️ About ${s.mins} min${T ? ` · ${fxMin(T)} so far` : ""}</p>${s.need?.length ? needList(s.need, "fxsm") : ""}<button class="fxb" data-fx="begin">Let's begin ↓</button></div>`,
+    html: `<div class="fxtxt fxlead"><span class="fxeb">Part ${si + 1} of ${SL.length}</span>${fxPill(s.kind)}<div class="fxbige">${s.emoji}</div><h1>${esc(s.title)}</h1><p class="fxsm">⏱️ About ${s.mins} min${T ? ` · ${fxMin(T)} so far` : ""}</p>${s.need?.length ? `<p class="fxsm"><b>Get ready:</b> ${s.need.map(esc).join(", ")}</p>` : ""}<button class="fxb" data-fx="begin">Let's begin ↓</button></div>`,
   };
   const end = {
     key: "end." + s.id,

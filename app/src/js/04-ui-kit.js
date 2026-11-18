@@ -4,9 +4,6 @@ const ACT = {};
 /* Shared pieces of UI: icons, the blob friends, pills, sounds, toasts, little celebrations */
 const esc = (s) =>
   String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
-/* "Get ready:" with one line per thing, so "or" choices inside an item don't blur into the list */
-const needList = (need, cls) =>
-  `<div class="${cls}"><b>Get ready:</b><ul class="needl">${need.map((n) => `<li>${esc(n)}</li>`).join("")}</ul></div>`;
 const fmtHours = (h) => (Math.round(h * 4) / 4).toString();
 const mins = (h) => {
   const m = Math.round(h * 60);

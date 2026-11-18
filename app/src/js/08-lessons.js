@@ -465,7 +465,7 @@ const pkHead = (d, F) => {
     pages = [...new Set((d.need || []).filter(isBook).flatMap((n) => srcOf({ title: n }).pages))];
   const sh = (t) => (t.length > 26 ? t.slice(0, 25).trim() + "…" : t);
   return `<div class="phead"><p class="sm"><b>Today:</b> ${esc(d.goal)}</p>${L.length ? `<div class="flow" aria-label="Today's steps">${L.map((x) => `<span class="fl ${x.bk ? "bk" : "dk"}"><i>${x.i}</i>${x.bk ? "📖" : "✨"} ${esc(sh(x.title))}</span>`).join("")}</div><p class="xs muted">✨ DeepKids step: book closed, follow the screen. 📖 Book step: open the textbook where it says.</p>` : ""}
-   ${bk.length ? `<p class="sm"><b>📖 Textbook${pages.length ? ", page" + (pages.length > 1 || pages[0].includes("–") ? "s " : " ") + pages.join(", ") : ""}</b> · for step${bk.length > 1 ? "s" : ""} ${bk.map((x) => x.i).join(", ")}</p>` : `<p class="sm"><b>✨ No textbook today.</b> Every step is on screen.</p>`}${need.length ? needList(need, "sm") : ""}</div>`;
+   ${bk.length ? `<p class="sm"><b>📖 Textbook${pages.length ? ", page" + (pages.length > 1 || pages[0].includes("–") ? "s " : " ") + pages.join(", ") : ""}</b> · for step${bk.length > 1 ? "s" : ""} ${bk.map((x) => x.i).join(", ")}</p>` : `<p class="sm"><b>✨ No textbook today.</b> Every step is on screen.</p>`}${need.length ? `<p class="sm"><b>Get ready:</b> ${need.map(esc).join(", ")}</p>` : ""}</div>`;
 };
 const packStep = (u, s) => `${fmtPts(s.do)}${s.ref ? pkRef(u, s.ref) : ""}`;
 function pkRef(u, id) {

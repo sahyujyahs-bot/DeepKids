@@ -4265,11 +4265,6 @@ html:has(.fxdlg[open]) {
   font-size: var(--fs-3);
   color: var(--muted);
 }
-.needl {
-  list-style: none;
-  margin: 4px 0 0;
-  padding: 0;
-}
 .fxhint {
   font-size: var(--fs-3) !important;
   color: var(--muted);
