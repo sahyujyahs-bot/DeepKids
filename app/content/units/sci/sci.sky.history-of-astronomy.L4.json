@@ -516,7 +516,9 @@
    {
     "source": "Isha Upanishad, verse 5",
     "teaching": "The verse speaks of the One as moving and not moving, as far and as near, as inside everything and outside everything.",
-    "link": "Whether the Sun moves or the Earth moves depends on where you stand. A thing can be said to move and not to move at the same time, depending on what you compare it with."
+    "link": "Whether the Sun moves or the Earth moves depends on where you stand. A thing can be said to move and not to move at the same time, depending on what you compare it with.",
+    "verse": ["तदेजति तन्नैजति तद्दूरे तद्वन्तिके", "तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

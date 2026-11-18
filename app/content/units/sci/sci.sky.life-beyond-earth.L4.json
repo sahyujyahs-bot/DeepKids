@@ -3369,12 +3369,16 @@
    {
     "source": "Chandogya Upanishad 6.12 (the banyan seed)",
     "teaching": "Uddalaka asks his son Svetaketu to break open a banyan fruit, and then a seed inside the fruit. 'What do you see?' 'Nothing, sir.' 'This great banyan tree grows from that fine thing you cannot see.'",
-    "link": "We cannot see yeast, but a swollen balloon shows they are there. The unseen shows itself by what it does."
+    "link": "We cannot see yeast, but a swollen balloon shows they are there. The unseen shows itself by what it does.",
+    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Kalama Sutta, Anguttara Nikaya 3.65 (Buddhist)",
     "teaching": "Do not accept something only because of report, tradition or hearsay. When you know for yourselves what is good and what is harmful, then act on it.",
-    "link": "A news story that says 'signs of life found' should be checked. Scientists ask what was observed and what was only guessed."
+    "link": "A news story that says 'signs of life found' should be checked. Scientists ask what was observed and what was only guessed.",
+    "verse": ["Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti.", "Yadā tumhe, kālāmā, attanāva jāneyyātha:", "ime dhammā kusalā, ime dhammā anavajjā, ime dhammā viññuppasatthā, ime dhammā samattā samādinnā hitāya sukhāya saṁvattantī, atha tumhe, kālāmā, upasampajja vihareyyātha."],
+    "verse_lang": "pi"
    },
    {
     "source": "Thirukkural 423",

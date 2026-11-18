@@ -1864,7 +1864,9 @@
    {
     "source": "Taittiriya Upanishad 3.2",
     "teaching": "The sage Bhrigu thought hard about where living beings come from. He understood that living beings are born from food, live by food, and go back into food.",
-    "link": "Your body is built from what you eat and drink. Even the water in you came in through your food and your tumbler."
+    "link": "Your body is built from what you eat and drink. Even the water in you came in through your food and your tumbler.",
+    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thirukkural 12, by Thiruvalluvar",

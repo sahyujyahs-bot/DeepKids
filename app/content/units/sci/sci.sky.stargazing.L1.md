@@ -81,7 +81,7 @@ In the window strip test, you walked past a window. The paper strips slid by, an
 
 There is one Moon. Tonight it shines in the window of every home that faces it, from Kochi to Kohima. Each child sees it from their own place, and each thinks it came along with them. Everything is aware in its own way, even the Moon. Many scientists disagree. They say only living beings with nerves are aware.
 
-- **Brahmabindu Upanishad 12:** There is one Self in all beings. It is seen as one and as many, like the one Moon reflected in many pots of water. (The Upanishad uses the one Moon seen in many places as a picture of one Self in many beings. The window strip test showed why one Moon can be seen from so many places at once: it is very far away. The teaching is a picture, not a proof.)
+- **Brahmabindu Upanishad 12:** “एक एव हि भूतात्मा भूते भूते व्यवस्थितः / एकधा बहुधा चैव दृष्यते जलचन्द्रवत्” There is one Self in all beings. It is seen as one and as many, like the one Moon reflected in many pots of water. (The Upanishad uses the one Moon seen in many places as a picture of one Self in many beings. The window strip test showed why one Moon can be seen from so many places at once: it is very far away. The teaching is a picture, not a proof.)
 - **Su Shi, 'Shui Diao Ge Tou' (China, Mid-Autumn night, 1076):** The poet Su Shi missed his brother, who lived far away. He wished that they could both live long, and share the beauty of the same Moon, though a thousand miles apart. (Su Shi knew that two people far apart see the same Moon at the same time, as you do when you phone someone in another town.)
 - Science (settled): Near things seem to shift more than far things when you move. Astronomers call this parallax, and they use it to measure how far away the nearer stars are.
 - Science (settled): The Moon is about 3,84,000 kilometres away. Its light reaches us in just over one second.
@@ -416,7 +416,7 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 
 ## Videos
 - **Dung beetles navigate using the stars** (Science Channel, 2 min) id `MMlOKY734TM`: Shows the real beetles that Marie Dacke's team studied, finding their way using the Milky Way. *Check:* Found by search: "Dung Beetles Navigate Using the Stars" by Science Channel, 1 minute 48 seconds. A parent may preview it.
-- **The Moon seen through a telescope: craters and dark plains** (, 2 min) id `to find`: Shows that the Moon is grey rock, lit by the Sun, with no light of its own. *Check:* Find a real telescope video of the Moon from an observatory, a planetarium or an amateur astronomer. Check it says the Moon shines with sunlight.
+- **The Moon seen through a telescope: craters and dark plains** (, 2 min) id `-HK2_QitXog`: Shows that the Moon is grey rock, lit by the Sun, with no light of its own. *Check:* Found by YouTube search: 🛑 Live stream Moon through my 40x60 Telescope 🔭, AstroTitan  Title checked automatically; a parent may still preview it.
 - **India's Chandrayaan-3 makes a historic Moon landing** (Guardian News, 2 min) id `dim8elzo5vE`: Shows news of Indian scientists landing on the Moon on 23 August 2023, near its south pole. *Check:* Found by search: "India's Chandrayaan-3 makes historic moon landing" by Guardian News, 1 minute 46 seconds. A parent may preview it.
 
 ## Quiz

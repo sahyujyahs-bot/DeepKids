@@ -2629,12 +2629,16 @@
    {
     "source": "Tao Te Ching, chapter 64",
     "teaching": "A tree as wide as your arms can reach grows from a tiny shoot. A tower nine storeys high starts from a heap of earth. A journey of a thousand miles starts beneath your feet.",
-    "link": "Your biggest crystal grew the same way, one tiny particle at a time, over days. The slow glass in the Fast Plate or Slow Glass experiment shows that big things need many small steps, not a rush."
+    "link": "Your biggest crystal grew the same way, one tiny particle at a time, over days. The slow glass in the Fast Plate or Slow Glass experiment shows that big things need many small steps, not a rush.",
+    "verse": ["合抱之木，生於毫末。", "九層之臺，起於累土。", "千里之行，始於足下。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Plato, Timaeus (about 360 BCE)",
     "teaching": "Plato, a Greek thinker, guessed that each of the elements is made of tiny shapes. He gave earth the cube, because it is the steadiest shape.",
-    "link": "Plato was wrong about the elements. But he was right that tiny shapes, repeated, can build the things we see. Salt really is cube-shaped, because of the way its particles join."
+    "link": "Plato was wrong about the elements. But he was right that tiny shapes, repeated, can build the things we see. Salt really is cube-shaped, because of the way its particles join.",
+    "verse": ["γῇ μὲν δὴ τὸ κυβικὸν εἶδος δῶμεν· ἀκινητοτάτη γὰρ τῶν τεττάρων γενῶν γῆ καὶ τῶν σωμάτων πλαστικωτάτη"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

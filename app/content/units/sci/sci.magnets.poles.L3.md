@@ -119,8 +119,8 @@ We have learned that every magnet has a north and a south pole, and that a pushe
 
 A magnet's north and south poles are never apart. Cut a magnet, and each piece has both again. Inside, countless tiny magnets point the same way and add up to one force. Whether two magnets attract or repel depends only on which way they face, and a magnet that is free to turn ends up attracting.
 
-- **Tao Te Ching, chapter 2:** Long and short shape each other. High and low lean on each other. Front and back follow each other. (A north pole never exists without a south pole. Cut a magnet, and both appear again at the cut. Each pole needs the other.)
-- **Heraclitus, fragment B51 (Diels-Kranz numbering), about 500 BCE:** People do not see how something pulling apart also holds together, like the bow and the lyre, held in shape by strings pulling against them. (Two magnets that repel can stay apart only while something keeps them facing the same way. Without that, the push twists one magnet round, and the two attract.)
+- **Tao Te Ching, chapter 2:** “故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。” Long and short shape each other. High and low lean on each other. Front and back follow each other. (A north pole never exists without a south pole. Cut a magnet, and both appear again at the cut. Each pole needs the other.)
+- **Heraclitus, fragment B51 (Diels-Kranz numbering), about 500 BCE:** “οὐ ξυνιᾶσιν ὅκως διαφερόμενον ἑωυτῷ συμφέρεται· παλίντονος ἁρμονίη ὅκωσπερ τόξου καὶ λύρης” People do not see how something pulling apart also holds together, like the bow and the lyre, held in shape by strings pulling against them. (Two magnets that repel can stay apart only while something keeps them facing the same way. Without that, the push twists one magnet round, and the two attract.)
 - Science (settled): Every magnet ever tested has both a north and a south pole.
 - Science (settled): Ordinary magnets on their own cannot hold another magnet floating still. Samuel Earnshaw proved this in 1842.
 - Science (open): Whether a single north or south pole, a monopole, can exist is not known.

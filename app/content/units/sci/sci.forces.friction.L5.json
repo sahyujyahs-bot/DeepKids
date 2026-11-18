@@ -3330,12 +3330,16 @@
       {
         "source": "Tao Te Ching, chapter 2 (paraphrased)",
         "teaching": "Difficult and easy complete each other. Long and short shape each other. Before and after follow each other.",
-        "link": "We call friction useful on a brake and unwanted in an axle, yet the force is the same. 'Useful' and 'unwanted' describe what we want at that moment. Each word has meaning only beside the other."
+        "link": "We call friction useful on a brake and unwanted in an axle, yet the force is the same. 'Useful' and 'unwanted' describe what we want at that moment. Each word has meaning only beside the other.",
+        "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+        "verse_lang": "zh"
       },
       {
         "source": "Nagarjuna, Mulamadhyamakakarika 24.18 (paraphrased)",
         "teaching": "Whatever arises by depending on other things has no existence of its own, apart from them.",
-        "link": "A chappal has no friction by itself, and neither has a floor. Friction arises only when the two meet, and it changes when either one changes."
+        "link": "A chappal has no friction by itself, and neither has a floor. Friction arises only when the two meet, and it changes when either one changes.",
+        "verse": ["यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे", "सा प्रज्ञप्तिरुपादाय प्रतिपत् सैव मध्यमा"],
+        "verse_lang": "sa"
       }
     ],
     "science": [

@@ -3219,7 +3219,9 @@
    {
     "source": "Chandogya Upanishad 6.5.3",
     "teaching": "Uddalaka tells his son Shvetaketu that the body divides what we eat into three parts. He speaks of rich foods such as oil and ghee. Their coarsest part becomes bone, he says. The middle part becomes marrow, and the finest part becomes speech.",
-    "link": "Uddalaka's list is not what science found. The mineral in bone comes from calcium in food, not from oil. But his main point is the same as this unit's: bone is not given once and for all. It is made from what we eat, day after day."
+    "link": "Uddalaka's list is not what science found. The mineral in bone comes from calcium in food, not from oil. But his main point is the same as this unit's: bone is not given once and for all. It is made from what we eat, day after day.",
+    "verse": ["तेजोऽशितं त्रेधा विधीयते", "तस्य यः स्थविष्ठो धातुस्तदस्थि भवति", "यो मध्यमः स मज्जा", "योऽणिष्ठः सा वाक्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Milindapanha (The Questions of King Milinda), Book 2, the chariot",

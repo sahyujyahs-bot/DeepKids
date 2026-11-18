@@ -2889,7 +2889,9 @@
       {
         "source": "Katha Upanishad 2.2.5",
         "teaching": "No mortal lives by the in-breath or the out-breath alone. They live by something else, on which both of these depend.",
-        "link": "In this unit, the rhythm of breath comes from cells in the brainstem, and both the in-breath and the out-breath depend on them. The old verse also says that something other than the breath itself keeps a being alive. Both breaths depend on that something."
+        "link": "In this unit, the rhythm of breath comes from cells in the brainstem, and both the in-breath and the out-breath depend on them. The old verse also says that something other than the breath itself keeps a being alive. Both breaths depend on that something.",
+        "verse": ["न प्राणेन नापानेन मर्त्यो जीवति कश्चन", "इतरेण तु जीवन्ति यस्मिन्नेतावुपाश्रितौ"],
+        "verse_lang": "sa"
       },
       {
         "source": "Bhagavad Gita 4.29",

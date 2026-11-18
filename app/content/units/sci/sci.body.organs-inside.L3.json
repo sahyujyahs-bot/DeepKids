@@ -3448,7 +3448,9 @@
    {
     "source": "Chandogya Upanishad 5.1",
     "teaching": "The senses and breath once argued about which of them was the greatest. Speech, sight, hearing and mind each left the body in turn, and the body carried on. When breath, prana, began to leave, all the others were pulled up with it. They agreed breath was the one they all depended on.",
-    "link": "In this unit, the brain is badly hurt within minutes if the heart's blood stops, and every organ needs the oxygen your lungs bring in. The old story also puts breath at the centre of the body."
+    "link": "In this unit, the brain is badly hurt within minutes if the heart's blood stops, and every organ needs the oxygen your lungs bring in. The old story also puts breath at the centre of the body.",
+    "verse": ["सा ह वागुच्चक्राम", "सा संवत्सरं प्रोष्य पर्येत्योवाच", "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्", "भगवन्नेधि", "त्वं नः श्रेष्ठोऽसि"],
+    "verse_lang": "sa"
    },
    {
     "source": "Saint Paul, First Letter to the Corinthians 12:12–26",
@@ -3458,7 +3460,9 @@
    {
     "source": "Tao Te Ching 76",
     "teaching": "A newborn baby is soft and bendy, and a dead body is hard and stiff. Green plants bend, and dry dead ones snap. So the hard and stiff go with death, and the soft and bending go with life.",
-    "link": "Your brain is one of the softest parts of you. In the egg in the jar test, the soft water around the egg protected it better than the hard jar alone."
+    "link": "Your brain is one of the softest parts of you. In the egg in the jar test, the soft water around the egg protected it better than the hard jar alone.",
+    "verse": ["人之生也柔弱，其死也堅強。", "萬物草木之生也柔脆，其死也枯槁。", "故堅強者死之徒，柔弱者生之徒。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

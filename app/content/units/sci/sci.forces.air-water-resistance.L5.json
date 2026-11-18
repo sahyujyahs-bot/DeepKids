@@ -3636,12 +3636,16 @@
    {
     "source": "Tao Te Ching, chapter 78",
     "teaching": "Nothing in the world is softer or weaker than water. Yet nothing is better at wearing down what is hard and strong.",
-    "link": "Water gives way to the smallest slow push. One paper clip moved the loaded box in Table or Tub. Yet the same water pushes back hard on anything that moves fast."
+    "link": "Water gives way to the smallest slow push. One paper clip moved the loaded box in Table or Tub. Yet the same water pushes back hard on anything that moves fast.",
+    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Zhuangzi, chapter 19, the swimmer at the waterfall",
     "teaching": "An old man swims safely in a wild river. He says that he goes under with the swirls and comes out with them. He follows the way of the water and does not force his own way.",
-    "link": "Water resists a swimmer only as much as she moves through it. A swimmer carried along with a current meets almost no resistance from that current."
+    "link": "Water resists a swimmer only as much as she moves through it. A swimmer carried along with a current meets almost no resistance from that current.",
+    "verse": ["吾始乎故，長乎性，成乎命。", "與齊俱入，與汩偕出，從水之道，而不爲私焉。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

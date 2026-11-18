@@ -481,7 +481,9 @@
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to split the seed of a banyan fruit and say what he sees inside. Shvetaketu sees nothing. Uddalaka says that the fine part you cannot see is the reason the great banyan tree stands.",
-    "link": "A tree with thousands of branches grows from a seed, and the whole branching pattern comes from a few simple steps repeated. Nothing in the seed looks like a tree."
+    "link": "A tree with thousands of branches grows from a seed, and the whole branching pattern comes from a few simple steps repeated. Nothing in the seed looks like a tree.",
+    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse_lang": "sa"
    },
    {
     "source": "William Blake, Auguries of Innocence, opening lines",

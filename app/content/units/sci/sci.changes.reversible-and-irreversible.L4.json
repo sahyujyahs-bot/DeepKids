@@ -3015,12 +3015,16 @@
    {
     "source": "Dhammapada, verse 277",
     "teaching": "The Buddha taught that all things that are put together are impermanent. A person who sees this clearly, he said, turns away from suffering.",
-    "link": "The verse says that nothing made stays as it is. This unit agrees and adds a detail. Some things change and come back, as water does. Others change once, as toast does."
+    "link": "The verse says that nothing made stays as it is. This unit agrees and adds a detail. Some things change and come back, as water does. Others change once, as toast does.",
+    "verse": ["Sabbe saṅkhārā aniccā,", "yadā paññāya passati;", "Atha nibbindati dukkhe,", "esa maggo visuddhiyā."],
+    "verse_lang": "pi"
    },
    {
     "source": "Heraclitus, as quoted by Plato in the Cratylus, 402a",
     "teaching": "The Greek thinker Heraclitus said that you cannot step twice into the same river. New water is always flowing in.",
-    "link": "A river looks the same from day to day, yet its water is always new. Even changes that 'go back' do not return the world to exactly what it was. The ghee that sets again has lost a little heat to the room."
+    "link": "A river looks the same from day to day, yet its water is always new. Even changes that 'go back' do not return the world to exactly what it was. The ghee that sets again has lost a little heat to the room.",
+    "verse": ["δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse_lang": "grc"
    }
   ],
   "science": [

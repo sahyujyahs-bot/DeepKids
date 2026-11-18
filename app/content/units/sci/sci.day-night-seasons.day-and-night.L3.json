@@ -3406,12 +3406,16 @@
    {
     "source": "Chandogya Upanishad 3.11.1 to 3.11.3",
     "teaching": "The Upanishad speaks of a Sun that no longer rises or sets, but stands alone in the centre. For one who understands this, it says, the Sun does not rise and does not set. For them it is always day.",
-    "link": "The Upanishad is speaking about inner understanding, not about astronomy. But it fits what science found in one way. The Sun itself never rises or sets. Rising and setting belong to our place on the turning Earth."
+    "link": "The Upanishad is speaking about inner understanding, not about astronomy. But it fits what science found in one way. The Sun itself never rises or sets. Rising and setting belong to our place on the turning Earth.",
+    "verse": ["अथ तत ऊर्ध्व उदेत्य नैवोदेता नास्तमेतैकल एव मध्ये स्थाता", "न ह वा अस्मा उदेति न निम्लोचति", "सकृद्दिवा हैवास्मै भवति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching, chapter 2",
     "teaching": "Long and short shape each other. High and low lean on each other. Front and back follow one another. Each needs the other to exist.",
-    "link": "Day and night are like front and back. A ball lit from one side always has a lit half and a dark half. You cannot have one without the other."
+    "link": "Day and night are like front and back. A ball lit from one side always has a lit half and a dark half. You cannot have one without the other.",
+    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Aryabhatiya, Golapada verse 9 (Aryabhata, 499 CE)",

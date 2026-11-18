@@ -3363,12 +3363,16 @@
    {
     "source": "Rig Veda 1.115.1",
     "teaching": "The Sun is called the self of everything that moves and everything that stays still.",
-    "link": "In this unit, a lizard takes their warmth straight from sunlight. A sparrow makes their warmth from grain, and the grain grew using sunlight."
+    "link": "In this unit, a lizard takes their warmth straight from sunlight. A sparrow makes their warmth from grain, and the grain grew using sunlight.",
+    "verse": ["चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।", "आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च"],
+    "verse_lang": "sa"
    },
    {
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
     "teaching": "Bhrigu comes to see food as Brahman, the ground of all. From food beings are born, by food they live, and into food they return.",
-    "link": "A sparrow or a child must eat every day to keep making body heat. Stop the food, and the warmth cannot be kept up."
+    "link": "A sparrow or a child must eat every day to keep making body heat. Stop the food, and the warmth cannot be kept up.",
+    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thich Nhat Hanh, The Sun My Heart (1988)",

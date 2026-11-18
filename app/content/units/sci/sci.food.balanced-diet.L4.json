@@ -420,12 +420,16 @@
    {
     "source": "Taittiriya Upanishad 2.2",
     "teaching": "The text says that all beings are born from food, live by food, and go back into food when they die. It calls food the first of all things, because it is what a living being is made of.",
-    "link": "Your tongue, your blood and your bones are made from the dal, rice and milk of past meals. The meal does not end at your mouth. It becomes part of you."
+    "link": "Your tongue, your blood and your bones are made from the dal, rice and milk of past meals. The meal does not end at your mouth. It becomes part of you.",
+    "verse": ["अन्नाद्वै प्रजाः प्रजायन्ते", "याः काश्च पृथिवीँ श्रिताः", "अथो अन्नेनैव जीवन्ति", "अथैनदपि यन्त्यन्ततः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Charaka Samhita, Sutrasthana 26",
     "teaching": "This old Ayurvedic text teaches six tastes, sweet, sour, salty, pungent, bitter and astringent, and says that a good meal brings all of them in a fitting way.",
-    "link": "The Ugadi pachadi is this teaching in a bowl. Science lists five tastes instead of six, but both ways of sorting ask the cook to look for balance, and not to let one taste be the boss."
+    "link": "The Ugadi pachadi is this teaching in a bowl. Science lists five tastes instead of six, but both ways of sorting ask the cook to look for balance, and not to let one taste be the boss.",
+    "verse": ["षडेव रसा इत्युवाच भगवानात्रेयः पुनर्वसुः मधुराम्ललवणकटुतिक्तकषायाः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thich Nhat Hanh, The Miracle of Mindfulness (1975), the tangerine",

@@ -306,7 +306,9 @@
    {
     "source": "Tao Te Ching 78",
     "teaching": "Nothing in the world is softer and weaker than water. Yet nothing is better at wearing away what is hard and strong.",
-    "link": "A hard salt crystal falls apart in plain water within a minute, and no one has to crush it. The Full Glass Test also showed that water's power has a limit. After two or three spoons, the salt stayed hard on the bottom."
+    "link": "A hard salt crystal falls apart in plain water within a minute, and no one has to crush it. The Full Glass Test also showed that water's power has a limit. After two or three spoons, the salt stayed hard on the bottom.",
+    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse_lang": "zh"
    },
    {
     "source": "The Gospel of Sri Ramakrishna, as recorded by Mahendranath Gupta",

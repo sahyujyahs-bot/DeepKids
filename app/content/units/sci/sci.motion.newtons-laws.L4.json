@@ -478,7 +478,9 @@
    {
     "source": "Nagarjuna, Mulamadhyamakakarika, chapter 2",
     "teaching": "Nagarjuna, an Indian Buddhist teacher of about the 2nd century CE, looked closely at motion. He argued that 'the mover', 'the moving' and 'the path' cannot be found apart from each other. Each depends on the others.",
-    "link": "A cart does not speed up alone. It speeds up because of a pull, and the pull needs something to pull against. The change belongs to both of them together."
+    "link": "A cart does not speed up alone. It speeds up because of a pull, and the pull needs something to pull against. The change belongs to both of them together.",
+    "verse": ["गतं न गम्यते तावदगतं नैव गम्यते", "गतागतविनिर्मुक्तं गम्यमानं न गम्यते"],
+    "verse_lang": "sa"
    },
    {
     "source": "Isaac Newton, letter to Robert Hooke, February 1675 by the old calendar",

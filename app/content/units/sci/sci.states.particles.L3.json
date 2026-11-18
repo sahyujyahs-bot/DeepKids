@@ -2646,12 +2646,16 @@
    {
     "source": "Chandogya Upanishad 6.13",
     "teaching": "Uddalaka asks his son Shvetaketu to put salt in water overnight. In the morning he asks for the salt, but Shvetaketu cannot find it. 'Taste the water from the top, the middle and the bottom,' says Uddalaka. Each time it is salty. 'You cannot see the salt, but it is there,' he says. 'In the same way, the finest essence is in everything, and you are that.'",
-    "link": "This is the tasting test from your unit, told more than 2,000 years ago. Your test also showed something the story leaves out: unstirred, dissolved sugar stays mostly at the bottom, so the water must be stirred to taste the same everywhere."
+    "link": "This is the tasting test from your unit, told more than 2,000 years ago. Your test also showed something the story leaves out: unstirred, dissolved sugar stays mostly at the bottom, so the water must be stirred to taste the same everywhere.",
+    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Lucretius, On the Nature of Things, Book 1, about lines 265 to 328",
     "teaching": "Lucretius, a Roman poet, said nature works through bodies too small to see. He gave examples. Clothes hung by the sea get damp, and dry again in the sun, but nobody sees the water come or go. A ring worn on a finger slowly grows thinner over the years, though nobody sees any bits wear away.",
-    "link": "The camphor tablet and the drying clothes are the same kind of evidence. We see what particles do, not the particles themselves."
+    "link": "The camphor tablet and the drying clothes are the same kind of evidence. We see what particles do, not the particles themselves.",
+    "verse": ["Denique fluctifrago suspensae in litore vestis", "uvescunt, eaedem dispansae in sole serescunt.", "in parvas igitur partis dispergitur umor,", "quas oculi nulla possunt ratione videre."],
+    "verse_lang": "la"
    }
   ],
   "science": [

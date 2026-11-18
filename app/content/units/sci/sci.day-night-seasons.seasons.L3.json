@@ -2861,12 +2861,16 @@
    {
     "source": "Ecclesiastes 3:1-2 (the Bible)",
     "teaching": "There is a time for everything, and a season for every activity under the heavens. A time to be born and a time to die, a time to plant and a time to pull up what is planted.",
-    "link": "In this unit, every living thing has their time: the sevanthi flowers in the long nights, the frog lays eggs in the rains, and the farmer sows with the monsoon."
+    "link": "In this unit, every living thing has their time: the sevanthi flowers in the long nights, the frog lays eggs in the rains, and the farmer sows with the monsoon.",
+    "verse": ["לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם", "עֵת לָלֶדֶת וְעֵת לָמוּת", "עֵת לָטַעַת וְעֵת לַעֲקוֹר נָטוּעַ"],
+    "verse_lang": "he"
    },
    {
     "source": "Tao Te Ching 16",
     "teaching": "All things grow and flourish, and then each one goes back to their root. Going back to the root is stillness.",
-    "link": "Before a tree drops a leaf, she takes the useful nutrients back into her branches. In the dry season, she goes quiet and holds on to what she needs, until it is time for new leaves."
+    "link": "Before a tree drops a leaf, she takes the useful nutrients back into her branches. In the dry season, she goes quiet and holds on to what she needs, until it is time for new leaves.",
+    "verse": ["夫物芸芸，各復歸其根。", "歸根曰靜，是謂復命。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Kalidasa, Ritusamhara (The Gathering of the Seasons)",

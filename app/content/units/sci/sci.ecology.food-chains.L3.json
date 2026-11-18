@@ -4045,7 +4045,9 @@
    {
     "source": "Tao Te Ching 77",
     "teaching": "The way of heaven takes from what has too much and gives to what has too little.",
-    "link": "In Deer and Tiger Toss, when deer are many, tigers eat well and grow in number. Then the deer fall, the tigers go hungry and the deer recover. Scientists still argue about whether nature truly keeps a balance."
+    "link": "In Deer and Tiger Toss, when deer are many, tigers eat well and grow in number. Then the deer fall, the tigers go hungry and the deer recover. Scientists still argue about whether nature truly keeps a balance.",
+    "verse": ["天之道，損有餘而補不足。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

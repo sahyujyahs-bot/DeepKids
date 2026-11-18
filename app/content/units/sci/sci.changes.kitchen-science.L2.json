@@ -2179,7 +2179,9 @@
    {
     "source": "Chandogya Upanishad 6.5.1",
     "teaching": "Food, when it is eaten, is split three ways. The roughest part leaves the body, the middle part becomes flesh, and the finest part becomes mind.",
-    "link": "Cooking is the first change food goes through. In the body it keeps changing, until it becomes part of you."
+    "link": "Cooking is the first change food goes through. In the body it keeps changing, until it becomes part of you.",
+    "verse": ["अन्नमशितं त्रेधा विधीयते", "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति", "यो मध्यमस्तन्मांसम्", "योऽणिष्ठस्तन्मनः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Bhagavad Gita 15.14",

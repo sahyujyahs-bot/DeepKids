@@ -83,7 +83,7 @@ We have tapped, flicked and stopped moving things. Now we ask what the Tap Test 
 Starting, stopping, speeding up and slowing down look like four different things. Underneath, they are one change with one kind of cause, a push or a pull. This is true for a ball, a boat, an auto and a swing. Everything is conscious, and each moving thing meets every push in its own way.
 
 - **Tattvartha Sutra 5.17 (Jain):** Jain thinkers taught that one thing, called dharma, helps things move, and another, called adharma, helps things come to rest. (These thinkers saw that coming to rest needs a cause, just as moving does. In the Tap Test, stopping the ball needed a push too.)
-- **Tao Te Ching 15:** Who can make muddy water clear? Let it be still, and slowly it becomes clear. Who can bring stillness to life? Let it move, and slowly it comes alive. (In our tests, a rolling ball slowly became still, and a still ball began to roll with one tap.)
+- **Tao Te Ching 15:** “孰能濁以靜之徐清？” Who can make muddy water clear? Let it be still, and slowly it becomes clear. Who can bring stillness to life? Let it move, and slowly it comes alive. (In our tests, a rolling ball slowly became still, and a still ball began to roll with one tap.)
 - Science (settled): A moving thing keeps the same speed until a force acts on it. A force the same way speeds it up, and a force against it slows it down.
 - Science (open): Why moving things carry their movement at all is still argued about. The scientist Ernst Mach suggested it may come from all the matter in the universe.
 - Other view, Many physicists: A ball's movement is fully explained by the forces on it. In this view, nothing more is going on in the ball, and feeling belongs only to living beings with nerves.

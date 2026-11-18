@@ -481,12 +481,16 @@
    {
     "source": "Nagarjuna, Mulamadhyamakakarika, chapter 15",
     "teaching": "Nagarjuna argued that nothing has a nature of its own that stays the same whatever it meets. Things appear only in dependence on other things.",
-    "link": "The same cotton gave electrons to one partner and took them from another. Its sign was not in the cotton alone. It depended on the partner."
+    "link": "The same cotton gave electrons to one partner and took them from another. Its sign was not in the cotton alone. It depended on the partner.",
+    "verse": ["न संभवः स्वभावस्य युक्तः प्रत्ययहेतुभिः", "हेतुप्रत्ययसंभूतः स्वभावः कृतको भवेत्", "स्वभावः कृतको नाम भविष्यति पुनः कथम्", "अकृत्रिमः स्वभावो हि निरपेक्षः परत्र च"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching, chapter 2",
     "teaching": "Being and non-being give birth to each other. Hard and easy complete each other. Long and short shape each other, and high and low rest on each other.",
-    "link": "A rung on the ladder is high only when something lower is there to give to, and low only when something higher is there to take from."
+    "link": "A rung on the ladder is high only when something lower is there to give to, and low only when something higher is there to take from.",
+    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

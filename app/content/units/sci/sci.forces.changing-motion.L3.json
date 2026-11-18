@@ -3857,12 +3857,16 @@
    {
     "source": "Tao Te Ching 76",
     "teaching": "A living plant is soft and bendy. A dead one is dry and snaps. So the stiff and hard break, and the soft and bending last.",
-    "link": "In this unit, a bamboo bends in the wind and springs back, but a dry stick or a papad snaps. Things that can give a little under a force often last longer than things that cannot."
+    "link": "In this unit, a bamboo bends in the wind and springs back, but a dry stick or a papad snaps. Things that can give a little under a force often last longer than things that cannot.",
+    "verse": ["萬物草木之生也柔脆，其死也枯槁。", "故堅強者死之徒，柔弱者生之徒。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Heraclitus, fragment DK B91",
     "teaching": "You cannot step into the same river twice, because new water is always flowing past.",
-    "link": "A steel table, a mountain and your bones all change shape under every push, mostly too slowly or too little to see. Heraclitus saw change even in things that look fixed."
+    "link": "A steel table, a mountain and your bones all change shape under every push, mostly too slowly or too little to see. Heraclitus saw change even in things that look fixed.",
+    "verse": ["ποταμῷ γὰρ οὐκ ἔστιν ἐμβῆναι δὶς τῷ αὐτῷ"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

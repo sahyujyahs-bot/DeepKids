@@ -397,7 +397,9 @@
    {
     "source": "Rig Veda 1.113",
     "teaching": "This hymn to Night and Dawn describes them as two sisters who follow each other across the sky. They look different, but they work together and are never apart for long.",
-    "link": "Night and dawn are made by one turning Earth. The line of dawn is the place on Earth where night ends and day begins, so it is where the two sisters meet."
+    "link": "Night and dawn are made by one turning Earth. The line of dawn is the place on Earth where night ends and day begins, so it is where the two sisters meet.",
+    "verse": ["समानो अध्वा स्वस्रोरनन्तस्तमन्यान्या चरतो देवशिष्टे ।", "न मेथेते न तस्थतुः सुमेके नक्तोषासा समनसा विरूपे"],
+    "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, fragment 6 (about 500 BCE)",

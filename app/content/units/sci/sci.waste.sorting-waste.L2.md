@@ -91,7 +91,7 @@ In the Napkin Press Test, we found that a wet mark does not decide the bin. Now 
 
 A peel was part of a living banana plant. In the bin, bacteria and fungi find the peel, choose it as food and eat it. Their bodies grow, and what is left becomes soil. New plants can grow in that soil. Plastic sits outside this circle for now, because almost no decomposer eats it.
 
-- **Tao Te Ching 16:** All things grow and flourish, and then each one goes back to its root. (A peel goes back to the soil it came from, when decomposers eat it. That is what the green bin is for.)
+- **Tao Te Ching 16:** “夫物芸芸，各復歸其根。 / 歸根曰靜，是謂復命。” All things grow and flourish, and then each one goes back to its root. (A peel goes back to the soil it came from, when decomposers eat it. That is what the green bin is for.)
 - **Thich Nhat Hanh, teachings on interbeing:** Look deeply at a flower and you can see the compost it will become. Look deeply at compost and you can see the flowers it will grow. (The onion skin in the wet bin looks like rubbish. But it will become soil, and then part of a new plant.)
 - Science (settled): Bacteria and fungi break down dead plants and animals, and return what was in them to the soil. Without them, dead leaves would pile up for ever.
 - Science (open): In 2016, scientists in Japan described bacteria that can slowly eat one kind of plastic. Whether such living beings could ever deal with most of our plastic is still an open question.
@@ -382,7 +382,7 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 ## Videos
 - **Why waste segregation is important** (The Planet Voice, 2 min) id `0ZiD_Lb3Tm0`: Shows children why waste is kept apart at home, so it can be collected and handled the right way. *Check:* Found by search: "Why Waste Segregation is Important | Waste Management | The Planet Voice" by The Planet Voice, 2 minutes, 7 seconds. A parent may preview it.
 - **How compost is made: a field trip** (SciShow Kids, 7 min) id `26IO95Xt5WU`: Shows scraps being eaten by decomposers and becoming soil, which a child cannot watch at home in one day. *Check:* Found by search: "How Compost Is Made: A Field Trip!" by SciShow Kids, 6 minutes, 43 seconds. A parent may preview it.
-- **A short video of women sorting dry waste at a sorting centre in India** (, 4 min) id `to find`: Shows why dry waste must be clean and dry, and who does the sorting. *Check:* No video has been chosen yet. Find one that is accurate and suits Class 2, and preview it first.
+- **A short video of women sorting dry waste at a sorting centre in India** (, 4 min) id `RV96feEKhuk`: Shows why dry waste must be clean and dry, and who does the sorting. *Check:* Found by YouTube search: How waste is sorted for recycling, CNA Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What is wet waste?  

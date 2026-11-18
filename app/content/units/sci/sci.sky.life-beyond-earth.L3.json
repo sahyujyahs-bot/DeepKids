@@ -2720,7 +2720,9 @@
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta",
     "teaching": "The hymn asks how the world began, and ends: who really knows? Perhaps the one who watches from the highest heaven knows, or perhaps even that one does not know.",
-    "link": "Whether life exists beyond Earth is still unknown. The hymn shows that saying 'nobody knows yet' honestly is very old. Scientists keep the question open and go and look."
+    "link": "Whether life exists beyond Earth is still unknown. The hymn shows that saying 'nobody knows yet' honestly is very old. Scientists keep the question open and go and look.",
+    "verse": ["इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse_lang": "sa"
    },
    {
     "source": "Acharanga Sutra, Book 1, Lecture 1 (Jain)",

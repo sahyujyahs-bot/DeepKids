@@ -2955,12 +2955,16 @@
    {
     "source": "Heraclitus, a Greek thinker of about 500 BCE, fragment 30 (Diels-Kranz numbering)",
     "teaching": "Heraclitus said the world is like an ever-living fire, kindled in measures and going out in measures.",
-    "link": "A candle flame keeps the same shape for hours, yet the wax gas in it is new every moment. Heraclitus chose fire as his picture of something that stays itself only by always changing."
+    "link": "A candle flame keeps the same shape for hours, yet the wax gas in it is new every moment. Heraclitus chose fire as his picture of something that stays itself only by always changing.",
+    "verse": ["κόσμον τόνδε, τὸν αὐτὸν ἁπάντων, οὔτε τις θεῶν οὔτε ἀνθρώπων ἐποίησεν,", "ἀλλ’ ἦν ἀεὶ καὶ ἔστιν καὶ ἔσται πῦρ ἀείζωον", "ἁπτόμενον μέτρα καὶ ἀποσβεννύμενον μέτρα"],
+    "verse_lang": "grc"
    },
    {
     "source": "The Buddha's Fire Sermon, Adittapariyaya Sutta, Samyutta Nikaya 35.28",
     "teaching": "The Buddha taught that the senses and the mind are on fire, burning with wanting. The word nirvana means the blowing out, or going out, of a fire.",
-    "link": "A fire goes out when its fuel stops coming. In Dry Wick or Oiled Wick?, the dry wick went out as soon as its cotton had burned away. The Buddha used this picture: when wanting stops feeding the fire, it goes out by itself."
+    "link": "A fire goes out when its fuel stops coming. In Dry Wick or Oiled Wick?, the dry wick went out as soon as its cotton had burned away. The Buddha used this picture: when wanting stops feeding the fire, it goes out by itself.",
+    "verse": ["sabbaṁ, bhikkhave, ādittaṁ.", "Rāgagginā, dosagginā, mohagginā ādittaṁ"],
+    "verse_lang": "pi"
    }
   ],
   "science": [

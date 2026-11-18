@@ -3861,17 +3861,23 @@
    {
     "source": "Chandogya Upanishad 5.10.5–6",
     "teaching": "The Upanishad describes a journey. One becomes air, then smoke, then mist, then a cloud. The cloud rains down, and one is born again as rice, barley, plants and trees.",
-    "link": "The Upanishad is about what happens to a person after death, not about weather. But it pictures life travelling with water: from the sky, as rain, into plants. That is the path the water cycle really takes."
+    "link": "The Upanishad is about what happens to a person after death, not about weather. But it pictures life travelling with water: from the sky, as rain, into plants. That is the path the water cycle really takes.",
+    "verse": ["वायुर्भूत्वा धूमो भवति", "धूमो भूत्वाभ्रं भवति", "अभ्रं भूत्वा मेघो भवति", "मेघो भूत्वा प्रवर्षति", "त इह व्रीहियवा ओषधिवनस्पतयस्तिलमासा इति जायन्ते"],
+    "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, a Greek thinker, about 2,500 years ago (Fragment 12, as numbered by the scholars Diels and Kranz)",
     "teaching": "As people step into the same rivers, different waters keep flowing past them.",
-    "link": "A river keeps its name, but its water is always new. A cloud is the same: its drops keep drying up at the edges while new ones form."
+    "link": "A river keeps its name, but its water is always new. A cloud is the same: its drops keep drying up at the edges while new ones form.",
+    "verse": ["ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ"],
+    "verse_lang": "grc"
    },
    {
     "source": "Ecclesiastes 1:7, in the Hebrew Bible",
     "teaching": "All the rivers run into the sea, yet the sea is not full. The rivers go back to the place they came from, and flow again.",
-    "link": "The writer had noticed the puzzle: rivers pour into the sea for ever, but it never overflows. The water cycle is the answer."
+    "link": "The writer had noticed the puzzle: rivers pour into the sea for ever, but it never overflows. The water cycle is the answer.",
+    "verse": ["כׇּל־הַנְּחָלִים הֹלְכִים אֶל־הַיָּם", "וְהַיָּם אֵינֶנּוּ מָלֵא", "אֶל־מְקוֹם שֶׁהַנְּחָלִים הֹלְכִים שָׁם הֵם שָׁבִים לָלָכֶת"],
+    "verse_lang": "he"
    }
   ],
   "science": [

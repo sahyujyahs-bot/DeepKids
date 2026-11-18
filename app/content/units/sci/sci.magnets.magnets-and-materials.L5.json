@@ -3516,7 +3516,9 @@
    {
     "source": "Chandogya Upanishad 6.1.4, the teaching of Uddalaka to his son",
     "teaching": "By knowing one lump of clay, you know all things made of clay. The differences are only names for the same clay.",
-    "link": "The teaching sees one stuff under many names. A coin and a plate are both mostly iron. This unit adds that the same stuff can answer differently when it sits in a different pattern. The Upanishad gives a way of seeing, which the science neither proves nor tests."
+    "link": "The teaching sees one stuff under many names. A coin and a plate are both mostly iron. This unit adds that the same stuff can answer differently when it sits in a different pattern. The Upanishad gives a way of seeing, which the science neither proves nor tests.",
+    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tirukkural 355, by Thiruvalluvar",
@@ -3528,7 +3530,9 @@
    {
     "source": "Kalama Sutta, Anguttara Nikaya 3.65",
     "teaching": "Do not believe a thing because it is written, or handed down, or said by a teacher. When you know for yourselves what is good, then follow it.",
-    "link": "The Buddha invites a test, and not an inherited rule. Sravani changes her sign after one coin breaks it. A rule that nothing can break is a belief. A rule that is tested can grow."
+    "link": "The Buddha invites a test, and not an inherited rule. Sravani changes her sign after one coin breaks it. A rule that nothing can break is a belief. A rule that is tested can grow.",
+    "verse": ["Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti.", "Yadā tumhe, kālāmā, attanāva jāneyyātha:", "ime dhammā kusalā, ime dhammā anavajjā, ime dhammā viññuppasatthā, ime dhammā samattā samādinnā hitāya sukhāya saṁvattantī, atha tumhe, kālāmā, upasampajja vihareyyātha."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

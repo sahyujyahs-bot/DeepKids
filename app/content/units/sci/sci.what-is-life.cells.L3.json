@@ -2963,17 +2963,23 @@
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that subtle essence you cannot see, this whole great banyan tree grows.'",
-    "link": "Shvetaketu saw nothing inside the banyan seed, yet the whole tree grows from that seed. Science finds that the tree is built of cells too small to see, each one made by another cell."
+    "link": "Shvetaketu saw nothing inside the banyan seed, yet the whole tree grows from that seed. Science finds that the tree is built of cells too small to see, each one made by another cell.",
+    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tattvartha Sutra of Umasvati, chapter 2",
     "teaching": "Jain thought says every living being has a jiva, a living soul, even beings with only one sense, the sense of touch, like plants.",
-    "link": "Jain teachers said that a being with only the sense of touch is still a living soul. Science finds that a single cell, with no eyes or ears, still senses the chemicals and touches around them."
+    "link": "Jain teachers said that a being with only the sense of touch is still a living soul. Science finds that a single cell, with no eyes or ears, still senses the chemicals and touches around them.",
+    "verse": ["वनस्पत्यन्तानामेकम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Aristotle, On the Soul (De Anima), Book II",
     "teaching": "Aristotle taught that every living thing has a 'soul', meaning a power of life. Plants have the power to feed and grow. Animals also have the power to sense.",
-    "link": "Aristotle gave the power to sense only to animals. Cell scientists now find that a single bacterium senses food and swims towards the food."
+    "link": "Aristotle gave the power to sense only to animals. Cell scientists now find that a single bacterium senses food and swims towards the food.",
+    "verse": ["Δυνάμεις δ’ εἴπομεν θρεπτικόν, ὀρεκτικόν, αἰσθητικόν, κινητικὸν κατὰ τόπον, διανοητικόν.", "Ὑπάρχει δὲ τοῖς μὲν φυτοῖς τὸ θρεπτικὸν μόνον, ἑτέροις δὲ τοῦτό τε καὶ τὸ αἰσθητικόν."],
+    "verse_lang": "grc"
    }
   ],
   "science": [

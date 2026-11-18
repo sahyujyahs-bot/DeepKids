@@ -3673,17 +3673,23 @@
    {
     "source": "Rig Veda 10.191.2, the hymn of coming together (Samjnana Sukta)",
     "teaching": "Come together. Speak together. Let your minds be in agreement.",
-    "link": "Tiny magnets that each point their own way cancel out. When they all point the same way, together they make a magnetic force that none of them has alone."
+    "link": "Tiny magnets that each point their own way cancel out. When they all point the same way, together they make a magnetic force that none of them has alone.",
+    "verse": ["सं गच्छध्वं सं वदध्वं सं वो मनांसि जानताम् ।", "देवा भागं यथा पूर्वे संजानाना उपासते"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 42",
     "teaching": "All things carry yin on their backs and hold yang in their arms. By blending the two, they reach harmony.",
-    "link": "Every magnet has two poles, north and south, and nobody has ever found one without the other. In a plain nail, the forces of the tiny magnets balance out exactly."
+    "link": "Every magnet has two poles, north and south, and nobody has ever found one without the other. In a plain nail, the forces of the tiny magnets balance out exactly.",
+    "verse": ["萬物負陰而抱陽，沖氣以為和。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Empedocles, fragment 17 (Diels-Kranz numbering), about 450 BCE",
     "teaching": "Sometimes all things come together into one through Love. Sometimes they are carried apart by Strife.",
-    "link": "Magnets attract and repel, a little like Love and Strife. The old names for magnets, 'the one that kisses' and 'the loving stone', describe the pulling together."
+    "link": "Magnets attract and repel, a little like Love and Strife. The old names for magnets, 'the one that kisses' and 'the loving stone', describe the pulling together.",
+    "verse": ["δίπλ’ ἐρέω· τοτὲ μὲν γὰρ ἕν ηὐξήθη μόνον εἶναι", "ἐκ πλεόνων, τοτὲ δ’ αὖ διέφυ πλέον’ ἐξ ἑνὸς εἶναι", "Νεῖκος τ’ οὐλόμενον δίχα τῶν, ἀτάλαντον ἁπάντηι,", "καὶ Φιλότης ἐν τοῖσιν, ἴση μῆκός τε πλάτος τε·"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

@@ -2382,7 +2382,9 @@
    {
     "source": "Taittiriya Upanishad 1.11",
     "teaching": "A teacher tells students who are leaving: treat your mother as a god, treat your father as a god, treat your teacher as a god, treat your guest as a god.",
-    "link": "The mother is named first. In many homes, as the Home Work Count shows, the rest of the day depends on her work."
+    "link": "The mother is named first. In many homes, as the Home Work Count shows, the rest of the day depends on her work.",
+    "verse": ["मातृदेवो भव । पितृदेवो भव । आचार्यदेवो भव । अतिथिदेवो भव"],
+    "verse_lang": "sa"
    },
    {
     "source": "Ubuntu, a teaching of the Nguni-speaking peoples of southern Africa",

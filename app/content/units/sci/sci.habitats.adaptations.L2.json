@@ -2353,7 +2353,9 @@
    {
     "source": "Zhuangzi, chapter 18 (Supreme Happiness), the seabird of Lu",
     "teaching": "A seabird landed near the city of Lu. The ruler welcomed the bird with music, wine and fine meat. The bird was frightened, ate nothing and died in three days. Zhuangzi says the ruler cared for the bird the way he would care for himself, not the way a bird lives.",
-    "link": "What suits one being can harm another. A fish needs water around her gills, and a camel needs dry sand under her feet."
+    "link": "What suits one being can harm another. A fish needs water around her gills, and a camel needs dry sand under her feet.",
+    "verse": ["海鳥止於魯郊，魯侯御而觴之于廟，奏九韶以爲樂，具太牢以爲膳。", "鳥乃眩視憂悲，不敢食一臠，不敢飲一杯，三日而死。", "此以己養養鳥也，非以鳥養養鳥也。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

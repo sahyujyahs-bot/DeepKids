@@ -3403,12 +3403,16 @@
       {
         "source": "Kena Upanishad 1.2",
         "teaching": "The Kena Upanishad asks what stands behind the senses. It speaks of the ear of the ear, the mind of the mind, and the eye of the eye.",
-        "link": "Eyes only catch light. The picture we see is built by something behind the eyes, and that something is the part of seeing nobody fully understands."
+        "link": "Eyes only catch light. The picture we see is built by something behind the eyes, and that something is the part of seeing nobody fully understands.",
+        "verse": ["श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं", "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"],
+        "verse_lang": "sa"
       },
       {
         "source": "Plato, Republic, Book 7 (the cave)",
         "teaching": "Plato, a Greek thinker about 2,400 years ago, told of people chained in a cave who see only shadows on a wall and think they are the whole world.",
-        "link": "A single flat view can look like the whole world. A second view, or a view that moves, shows what is missing."
+        "link": "A single flat view can look like the whole world. A second view, or a view that moves, shows what is missing.",
+        "verse": ["ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει", "εἰ οὖν διαλέγεσθαι οἷοί τ’ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν;", "οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς."],
+        "verse_lang": "grc"
       }
     ],
     "science": [

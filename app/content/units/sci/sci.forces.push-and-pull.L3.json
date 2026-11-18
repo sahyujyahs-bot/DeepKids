@@ -3846,7 +3846,9 @@
    {
     "source": "Empedocles, fragment DK B17",
     "teaching": "Empedocles, a Greek thinker about 2,450 years ago, said two powers move everything. Love brings things together. Strife drives them apart.",
-    "link": "Physics also finds that forces either attract, pulling things together, or repel, pushing them apart. Electrons repelling electrons is what makes every touching push."
+    "link": "Physics also finds that forces either attract, pulling things together, or repel, pushing them apart. Electrons repelling electrons is what makes every touching push.",
+    "verse": ["δίπλ’ ἐρέω· τοτὲ μὲν γὰρ ἕν ηὐξήθη μόνον εἶναι", "ἐκ πλεόνων, τοτὲ δ’ αὖ διέφυ πλέον’ ἐξ ἑνὸς εἶναι", "Νεῖκος τ’ οὐλόμενον δίχα τῶν, ἀτάλαντον ἁπάντηι,", "καὶ Φιλότης ἐν τοῖσιν, ἴση μῆκός τε πλάτος τε·"],
+    "verse_lang": "grc"
    },
    {
     "source": "Bhagavad Gita 3.27",
@@ -3858,7 +3860,9 @@
    {
     "source": "Marcus Aurelius, Meditations 4.40",
     "teaching": "Think of the universe as one living being. All things in it act together and help cause everything that happens.",
-    "link": "Every force is between two things, and everything pulls everything with gravity. No force ever acts on one thing only."
+    "link": "Every force is between two things, and everything pulls everything with gravity. No force ever acts on one thing only.",
+    "verse": ["Ὡς ἓν ζῷον τὸν κόσμον, μίαν οὐσίαν καὶ ψυχὴν μίαν ἐπέχον, συνεχῶς ἐπινοεῖν", "καὶ πῶς ὁρμῇ μιᾷ πάντα πράσσει καὶ πῶς πάντα πάντων τῶν γινομένων συναίτια"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

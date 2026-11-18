@@ -472,7 +472,9 @@
    {
     "source": "Tao Te Ching 42",
     "teaching": "Laozi says that the Tao gives birth to One, and One gives birth to Two. Two gives birth to Three, and Three gives birth to all things.",
-    "link": "In fertilisation, two cells from two parents join and make a third being, a new plant. All the cells of a banyan tree come from that one cell. Laozi was writing about the whole world, long before anyone saw a pollen tube. The verse and the science share a pattern, and the science does not prove the verse."
+    "link": "In fertilisation, two cells from two parents join and make a third being, a new plant. All the cells of a banyan tree come from that one cell. Laozi was writing about the whole world, long before anyone saw a pollen tube. The verse and the science share a pattern, and the science does not prove the verse.",
+    "verse": ["道生一，一生二，二生三，三生萬物。"],
+    "verse_lang": "zh"
    },
    {
     "source": "The Jain teaching of anekantavada, many-sidedness, with the old story of the blind men and the elephant",

@@ -3703,12 +3703,16 @@
    {
     "source": "Tao Te Ching, chapter 17",
     "teaching": "The best leader is one whom the people hardly notice. When the work is done and the aim is reached, the people say, we did it ourselves.",
-    "link": "Fireflies line up with no one leading them. If you asked a tree of flashing fireflies who led, there would be no answer. Each one watched, and each one answered."
+    "link": "Fireflies line up with no one leading them. If you asked a tree of flashing fireflies who led, there would be no answer. Each one watched, and each one answered.",
+    "verse": ["悠兮其貴言，功成事遂，百姓皆謂：我自然。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Isha Upanishad, verse 6",
     "teaching": "One who sees all beings in their own Self, and their own Self in all beings, does not turn away from anyone.",
-    "link": "A firefly keeps time by watching the others, and the others keep time by watching them. Each one's flash becomes part of the next one's timing."
+    "link": "A firefly keeps time by watching the others, and the others keep time by watching them. Each one's flash becomes part of the next one's timing.",
+    "verse": ["यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति", "सर्वभूतेषु चात्मानं ततो न विजुगुप्सते"],
+    "verse_lang": "sa"
    },
    {
     "source": "The net of Indra, in the Avatamsaka Sutra tradition of Buddhism",

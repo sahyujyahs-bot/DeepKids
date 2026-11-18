@@ -385,7 +385,9 @@
    {
     "source": "Rig Veda 10.97.15, the hymn to plants (Oshadhi Sukta)",
     "teaching": "The hymn speaks of plants that bear fruit and plants that bear none, plants without flowers and plants with flowers.",
-    "link": "More than 3,000 years ago, people in India already noticed that some plants flower and fruit and others never do. Botanists today still use flowers, fruits and seeds to group plants."
+    "link": "More than 3,000 years ago, people in India already noticed that some plants flower and fruit and others never do. Botanists today still use flowers, fruits and seeds to group plants.",
+    "verse": ["याः फलिनीर्या अफला अपुष्पा याश्च पुष्पिणीः ।", "बृहस्पतिप्रसूतास्ता नो मुञ्चन्त्वंहसः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Jain teaching of anekantavada, many-sidedness, and the story of the blind men and the elephant",

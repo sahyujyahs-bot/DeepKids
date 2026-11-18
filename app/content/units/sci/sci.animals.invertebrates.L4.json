@@ -431,17 +431,23 @@
    {
     "source": "Prashna Upanishad, chapter 2",
     "teaching": "The faculties of a body, such as speech, mind, eye and ear, once argued about which of them was most important. Prana, the breath, began to leave the body, and all the others were pulled with it. They agreed that breath is the chief.",
-    "link": "Every part of an animal's body depends on oxygen arriving, whether the animal is a crab or a person."
+    "link": "Every part of an animal's body depends on oxygen arriving, whether the animal is a crab or a person.",
+    "verse": ["सोऽभिमानादूर्ध्वमुत्क्रमत इव", "तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते", "तस्मिंश्च प्रतिष्ठमाने सर्व एव प्रातिष्ठन्ते", "तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्वा एवोत्क्रामन्ते"],
+    "verse_lang": "sa"
    },
    {
     "source": "Chandogya Upanishad 6.11",
     "teaching": "Uddalaka told his son that if life leaves one branch of a great tree, that branch dries up. If life leaves the whole tree, the whole tree dries up. Life moves through the whole tree.",
-    "link": "Life moves through a whole body, not just one part, and oxygen has to reach every part for that to be true."
+    "link": "Life moves through a whole body, not just one part, and oxygen has to reach every part for that to be true.",
+    "verse": ["अस्य यदेकां शाखां जीवो जहात्यथ सा शुष्यति", "द्वितीयां जहात्यथ सा शुष्यति", "तृतीयां जहात्यथ सा शुष्यति", "सर्वं जहाति सर्वः शुष्यति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tattvartha Sutra of Umasvati, chapter 2, verse 23",
     "teaching": "The Jain teacher Umasvati listed living beings by the number of senses. He named worms, ants, bees and people as examples of beings with two, three, four and five senses.",
-    "link": "Jain teaching has long said that small animals such as worms and ants are living beings who feel, and deserve care."
+    "link": "Jain teaching has long said that small animals such as worms and ants are living beings who feel, and deserve care.",
+    "verse": ["कृमिपिपीलिका भ्रमर मनुष्यादीनामेकैक वृद्धानि"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

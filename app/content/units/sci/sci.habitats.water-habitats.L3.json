@@ -3049,7 +3049,9 @@
    {
     "source": "Chandogya Upanishad 6.13",
     "teaching": "Uddalaka asks his son Shvetaketu to put salt in water and leave it overnight. In the morning the salt cannot be seen, yet every sip tastes salty. It is there, everywhere in the water, though unseen.",
-    "link": "In the Cold Glass Test, the air was also there, all through the cold water, though you could not see it. Only warming brought it out as bubbles."
+    "link": "In the Cold Glass Test, the air was also there, all through the cold water, though you could not see it. Only warming brought it out as bubbles.",
+    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tirukkural 20, in the chapter on the excellence of rain",
@@ -3061,7 +3063,9 @@
    {
     "source": "Tao Te Ching 8",
     "teaching": "The highest good is like water. Water helps all things and does not compete. It settles in the low places that people look down on.",
-    "link": "Ponds and marshes fill the low places of the land, and they are home to fish, frogs, lotus, snails and algae."
+    "link": "Ponds and marshes fill the low places of the land, and they are home to fish, frogs, lotus, snails and algae.",
+    "verse": ["上善若水。", "水善利萬物而不爭，處眾人之所惡，故幾於道。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

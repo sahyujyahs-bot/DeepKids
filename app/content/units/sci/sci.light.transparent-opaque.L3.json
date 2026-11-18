@@ -3308,17 +3308,23 @@
    {
     "source": "Chandogya Upanishad 6.13",
     "teaching": "A father, Uddalaka, asks his son to put salt in water overnight. In the morning the son cannot see the salt. But every sip tastes salty. The father says: in the same way, what is finest is everywhere, unseen. 'You are that.'",
-    "link": "Sugar stirred into water becomes clear and invisible, but it is still there in every sip. Not seeing something does not mean it is not there."
+    "link": "Sugar stirred into water becomes clear and invisible, but it is still there in every sip. Not seeing something does not mean it is not there.",
+    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Isha Upanishad 15",
     "teaching": "The face of truth is covered by a golden lid. The seeker asks for the lid to be taken away, so the truth can be seen.",
-    "link": "A golden lid is opaque. Gold sends light back, so it hides what is under it, however beautiful it looks. The verse asks what might be covering what is true."
+    "link": "A golden lid is opaque. Gold sends light back, so it hides what is under it, however beautiful it looks. The verse asks what might be covering what is true.",
+    "verse": ["हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्", "तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये"],
+    "verse_lang": "sa"
    },
    {
     "source": "The Bible, 1 Corinthians 13:12",
     "teaching": "'For now we see through a glass, darkly.' The Greek word Paul used means a mirror. Mirrors then were polished metal, and showed only a dim, blurry picture. Paul says what we know now is like that picture, and one day we may see clearly.",
-    "link": "In this unit, a blurry picture came from light being scattered on its way. An old metal mirror gave a dim, blurry picture because its surface was never perfectly smooth, so it scattered some of the light. Paul uses that blur to say that what we know now is not yet the clear view."
+    "link": "In this unit, a blurry picture came from light being scattered on its way. An old metal mirror gave a dim, blurry picture because its surface was never perfectly smooth, so it scattered some of the light. Paul uses that blur to say that what we know now is not yet the clear view.",
+    "verse": ["βλέπομεν γὰρ ἄρτι δι’ ἐσόπτρου ἐν αἰνίγματι", "τότε δὲ πρόσωπον πρὸς πρόσωπον"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

@@ -2502,7 +2502,9 @@
    {
     "source": "A doha (couplet) attributed to Kabir",
     "teaching": "The clay says to the potter: why do you press and knead me? One day will come when I will knead you.",
-    "link": "The potter shapes the clay, but the clay also shapes the potter's work, by how it bends, cracks and holds. In the foil boat test, the foil and the water shaped your design too."
+    "link": "The potter shapes the clay, but the clay also shapes the potter's work, by how it bends, cracks and holds. In the foil boat test, the foil and the water shaped your design too.",
+    "verse": ["माटी कहे कुम्हार से, तु क्या रौंदे मोय", "एक दिन ऐसा आएगा, मैं रौंदूंगी तोय"],
+    "verse_lang": "hi"
    }
   ],
   "science": [

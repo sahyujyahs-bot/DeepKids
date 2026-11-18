@@ -2643,12 +2643,16 @@
    {
     "source": "Shuo Yuan (Garden of Stories), compiled by Liu Xiang in China in the 1st century BCE: the story of Chang Cong and Laozi",
     "teaching": "An old teacher, Chang Cong, was dying. He opened his mouth and asked his student Laozi, 'Is my tongue still there?' 'Yes,' said Laozi. 'Are my teeth still there?' 'No.' 'Do you know why?' Laozi said, 'The tongue stays because it is soft. The teeth are gone because they are hard.'",
-    "link": "The Eggshell Test showed the same surprise. The hardest thing does not always last longest. A hard shell went soft in vinegar, a liquid that is not hard at all."
+    "link": "The Eggshell Test showed the same surprise. The hardest thing does not always last longest. A hard shell went soft in vinegar, a liquid that is not hard at all.",
+    "verse": ["張其口而示老子曰：「吾舌存乎？」", "老子曰：「然。」「吾齒存乎？」老子曰：「亡。」", "常摐曰：「子知之乎？」", "老子曰：「夫舌之存也，豈非以其柔耶？齒之亡也，豈非以其剛耶？」"],
+    "verse_lang": "zh"
    },
    {
     "source": "Anguttara Nikaya 5.208, the Dantakattha Sutta (the Buddha's teaching on tooth-sticks)",
     "teaching": "The Buddha named five good things that come from cleaning the teeth with a chewing stick, among them a mouth that does not smell bad and food that tastes good.",
-    "link": "Long before anyone knew about bacteria or acid, people noticed that cleaning the teeth every day changes the mouth. Today we know one reason: cleaning takes away plaque, where the acid-making bacteria live."
+    "link": "Long before anyone knew about bacteria or acid, people noticed that cleaning the teeth every day changes the mouth. Today we know one reason: cleaning takes away plaque, where the acid-making bacteria live.",
+    "verse": ["Pañcime, bhikkhave, ānisaṁsā dantakaṭṭhassa khādane.", "Cakkhussaṁ, mukhaṁ na duggandhaṁ hoti, rasaharaṇiyo visujjhanti, pittaṁ semhaṁ bhattaṁ na pariyonandhati, bhattamassa chādeti."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

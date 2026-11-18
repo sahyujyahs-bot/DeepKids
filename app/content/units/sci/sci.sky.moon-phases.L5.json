@@ -503,12 +503,16 @@
    {
     "source": "Zhuangzi, chapter 2, 'On Making Things Equal'",
     "teaching": "Penumbra asks Shadow why it keeps moving and stopping, and has no will of its own. Shadow answers that it depends on something else, and that thing may depend on something else again.",
-    "link": "In The Shadow That Runs Out, the dark shadow depended on the seed, the lamp and the distance between them. Change any one, and the shadow changed."
+    "link": "In The Shadow That Runs Out, the dark shadow depended on the seed, the lamp and the distance between them. Change any one, and the shadow changed.",
+    "verse": ["罔兩問景曰：「曩子行，今子止，曩子坐，今子起，何其无特操與？」", "景曰：「吾有待而然者邪？吾所待，又有待而然者邪？」"],
+    "verse_lang": "zh"
    },
    {
     "source": "Plato, Republic, Book 7, 514a to 517a",
     "teaching": "Prisoners in a cave see only shadows on a wall, and take the flat shadows for the real things.",
-    "link": "We usually take the flat patch on the floor for the whole shadow. The test showed a cone in the air, and the patch is one slice of it."
+    "link": "We usually take the flat patch on the floor for the whole shadow. The test showed a cone in the air, and the patch is one slice of it.",
+    "verse": ["ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει", "εἰ οὖν διαλέγεσθαι οἷοί τ’ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν;", "οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς."],
+    "verse_lang": "grc"
    }
   ],
   "science": [

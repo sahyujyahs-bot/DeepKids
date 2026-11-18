@@ -2379,17 +2379,23 @@
    {
     "source": "Katha Upanishad 1.3.1",
     "teaching": "The Katha Upanishad speaks of two that live together in the body. It says the wise call them shadow and sunlight.",
-    "link": "In the Make a Shadow, Lose a Shadow activity, the shadow was only there because of the light. Shadow and light come as a pair: switch off the torch, and the shadow goes too."
+    "link": "In the Make a Shadow, Lose a Shadow activity, the shadow was only there because of the light. Shadow and light come as a pair: switch off the torch, and the shadow goes too.",
+    "verse": ["ऋतं पिबन्तौ सुकृतस्य लोके", "गुहां प्रविष्टौ परमे परार्धे", "छायातपौ ब्रह्मविदो वदन्ति", "पञ्चाग्नयो ये च त्रिणाचिकेताः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching, chapter 2",
     "teaching": "The Tao Te Ching, an old Chinese book, says that long and short show each other, and high and low lean on each other.",
-    "link": "In the Near or Far test, your toy's shadow was not long or short by itself. It was long or short depending on where the toy stood between the torch and the wall."
+    "link": "In the Near or Far test, your toy's shadow was not long or short by itself. It was long or short depending on where the toy stood between the torch and the wall.",
+    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Plato, Republic, Book 7 (514a to 520a)",
     "teaching": "Plato, a Greek thinker, told of people who could see only shadows on a cave wall, and thought the shadows were the real things.",
-    "link": "A shadow shows an outline, but not the colour or the true size. In the Near or Far test, a small toy made a giant shadow. You knew the toy, so the shadow could not fool you."
+    "link": "A shadow shows an outline, but not the colour or the true size. In the Near or Far test, a small toy made a giant shadow. You knew the toy, so the shadow could not fool you.",
+    "verse": ["ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει", "εἰ οὖν διαλέγεσθαι οἷοί τ’ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν;", "οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς."],
+    "verse_lang": "grc"
    }
   ],
   "science": [

@@ -2067,7 +2067,9 @@
    {
     "source": "Dhammapada 277",
     "teaching": "The Buddha taught that everything that is made keeps changing. Nothing that is made stays the same.",
-    "link": "A cell is made in a factory, and its chemicals change a little every minute the clock ticks. It does not stop all at once. It changes slowly, even when we cannot see it."
+    "link": "A cell is made in a factory, and its chemicals change a little every minute the clock ticks. It does not stop all at once. It changes slowly, even when we cannot see it.",
+    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse_lang": "pi"
    }
   ],
   "science": [

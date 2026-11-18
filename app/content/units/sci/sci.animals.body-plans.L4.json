@@ -2925,7 +2925,9 @@
    {
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka tells his son that by knowing one lump of clay, you know everything made of clay. The pot and the plate differ in name and shape, and the clay is the same.",
-    "link": "The verse is about the ground of all things, and it does not mention animals. A prawn's body shows the same idea in a small way. Her feelers, jaws and legs are one repeated part, shaped differently on each segment."
+    "link": "The verse is about the ground of all things, and it does not mention animals. A prawn's body shows the same idea in a small way. Her feelers, jaws and legs are one repeated part, shaped differently on each segment.",
+    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "D'Arcy Wentworth Thompson, On Growth and Form (1917), chapter 1",

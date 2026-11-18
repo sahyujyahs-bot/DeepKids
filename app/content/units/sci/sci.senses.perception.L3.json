@@ -2874,12 +2874,16 @@
    {
     "source": "Udana 6.4 (Pali Canon), the blind men and the elephant",
     "teaching": "Some men who could not see each touched one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the ear and said it is like a winnowing basket. Each was sure, and they quarrelled.",
-    "link": "Each man felt something true, but his idea of the whole elephant was wrong. In an illusion, your eyes catch the light correctly, but your brain works out the wrong answer from the clues. Checking with a ruler is like asking the other men what they felt."
+    "link": "Each man felt something true, but his idea of the whole elephant was wrong. In an illusion, your eyes catch the light correctly, but your brain works out the wrong answer from the clues. Checking with a ruler is like asking the other men what they felt.",
+    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    },
    {
     "source": "Gaudapada, Mandukya Karika 2.17",
     "teaching": "A rope seen unclearly in the dark is taken to be a snake. When the rope is seen for what it is, the snake is gone.",
-    "link": "In the rope story, seeing clearly removes the mistake. The arrow lines are different: even after you know the truth, the open-fin line still looks longer. You see the mistake and know the truth at the same time."
+    "link": "In the rope story, seeing clearly removes the mistake. The arrow lines are different: even after you know the truth, the open-fin line still looks longer. You see the mistake and know the truth at the same time.",
+    "verse": ["अनिश्चिता यथा रज्जुरन्धकारे विकल्पिता", "सर्पधारादिभिर्भावैस्तद्वदात्मा विकल्पितः", "निश्चितायां यथा रज्ज्वां विकल्पो विनिवर्तते", "रज्जुरेवेति चाद्वैतं तद्वदात्मविनिश्चयः"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

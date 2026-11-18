@@ -3127,12 +3127,16 @@
       {
         "source": "Tao Te Ching 77",
         "teaching": "As paraphrased, the Way of heaven is like the bending of a bow. The high is brought down and the low is raised up. What has too much is reduced and what has too little is given more.",
-        "link": "This is a loop that pushes back. Where there is too much, it takes away. Where there is too little, it adds. Insulin and glucagon do exactly this with sugar."
+        "link": "This is a loop that pushes back. Where there is too much, it takes away. Where there is too little, it adds. Insulin and glucagon do exactly this with sugar.",
+        "verse": ["天之道，其猶張弓與？", "高者抑之，下者舉之；有餘者損之，不足者補之。"],
+        "verse_lang": "zh"
       },
       {
         "source": "Heraclitus, fragment 12",
         "teaching": "Heraclitus, a Greek thinker of about 500 BCE, said that on those who step into the same rivers, different and different waters flow.",
-        "link": "A river looks the same while its water is always new. The level in the bottle and the sugar in your blood are like that too. They stay steady while what they are made of keeps changing."
+        "link": "A river looks the same while its water is always new. The level in the bottle and the sugar in your blood are like that too. They stay steady while what they are made of keeps changing.",
+        "verse": ["ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ"],
+        "verse_lang": "grc"
       },
       {
         "source": "Bhagavad Gita 6.16 and 6.17",

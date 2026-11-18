@@ -524,17 +524,23 @@
    {
     "source": "Atharva Veda 12.1.12 (the Prithvi Sukta)",
     "teaching": "The Earth is my mother, and I am her child.",
-    "link": "We live on what the Earth gives, as a child lives on what her mother gives. Counting carefully how much is left is one way to look after the Earth that feeds us."
+    "link": "We live on what the Earth gives, as a child lives on what her mother gives. Counting carefully how much is left is one way to look after the Earth that feeds us.",
+    "verse": ["यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।", "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 44",
     "teaching": "Knowing what is enough saves us from shame. Knowing when to stop saves us from danger, and so we can last a long time.",
-    "link": "In the Pond Council game, the biggest steady catch comes from stopping at the right point. A village that knows when to stop can fish for ever."
+    "link": "In the Pond Council game, the biggest steady catch comes from stopping at the right point. A village that knows when to stop can fish for ever.",
+    "verse": ["知足不辱，知止不殆，可以長久。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Dhammapada 49",
     "teaching": "As a bee takes nectar from a flower and flies away without harming her colour or scent, so should a wise person move through a village.",
-    "link": "A bee takes from the flower and helps the flower make seeds, so the flower is not harmed. In the story The Shelf of Shells, Ammamma's steel ring works the same way: small clams slip through it and go back in the water."
+    "link": "A bee takes from the flower and helps the flower make seeds, so the flower is not harmed. In the story The Shelf of Shells, Ammamma's steel ring works the same way: small clams slip through it and go back in the water.",
+    "verse": ["Yathāpi bhamaro pupphaṁ,", "vaṇṇagandhamaheṭhayaṁ;", "Paleti rasamādāya,", "evaṁ gāme munī care."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

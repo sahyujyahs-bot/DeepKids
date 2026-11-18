@@ -554,7 +554,9 @@
    {
     "source": "Tao Te Ching 64",
     "teaching": "Act on things before they appear. Put things in order before there is confusion. A tree that fills your arms grew from a tiny shoot.",
-    "link": "A vaccine acts before the germ arrives. A small step early prevents a large trouble later."
+    "link": "A vaccine acts before the germ arrives. A small step early prevents a large trouble later.",
+    "verse": ["為之於未有，治之於未亂。", "合抱之木，生於毫末。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Louis Pasteur, opening lecture at the University of Lille, 7 December 1854",

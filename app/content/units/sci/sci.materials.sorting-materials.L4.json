@@ -3198,17 +3198,23 @@
    {
     "source": "Udana 6.4",
     "teaching": "In this Buddhist text, blind men each touch a different part of an elephant and say what an elephant is. One touches the head, one the tail, one the leg. They argue, and each is right about the part they touched.",
-    "link": "One number is like one part of the elephant. A second number shows more, and neither one alone tells you what the whole heap is."
+    "link": "One number is like one part of the elephant. A second number shows more, and neither one alone tells you what the whole heap is.",
+    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    },
    {
     "source": "Zhuangzi, chapter 2",
     "teaching": "Zhuangzi says that 'this' and 'that' give birth to each other. Without a 'that' there is no 'this'.",
-    "link": "When you draw a cut-off, the groups 'heavy' and 'light' both come into being at the same moment. Neither group exists before the line is drawn."
+    "link": "When you draw a cut-off, the groups 'heavy' and 'light' both come into being at the same moment. Neither group exists before the line is drawn.",
+    "verse": ["物无非彼，物无非是，自彼則不見，自知則知之。", "故曰：「彼出於是，是亦因彼。」彼是，方生之說也。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Chandogya Upanishad 6.10.1-2",
     "teaching": "Rivers that flow east and rivers that flow west all go to the sea and become the sea. Once they are in the sea, they do not know 'I am this river, I am that river'.",
-    "link": "The names we give to groups are like the names of rivers. The names are useful while we are sorting, but all the groups are still part of one heap."
+    "link": "The names we give to groups are like the names of rivers. The names are useful while we are sorting, but all the groups are still part of one heap.",
+    "verse": ["इमाः सोम्य नद्यः पुरस्तात्प्राच्यः स्यन्दन्ते पश्चात्प्रतीच्यः", "ताः समुद्रात्समुद्रमेवापियन्ति", "स समुद्र एव भवति", "ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

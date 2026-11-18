@@ -3058,17 +3058,23 @@
    {
     "source": "Tattvartha Sutra 5.21, by Umaswati, a Jain text",
     "teaching": "Living beings support one another.",
-    "link": "The family tree shows that every animal with a backbone came from the same ancestor, and every animal depends on others for food, air and shelter."
+    "link": "The family tree shows that every animal with a backbone came from the same ancestor, and every animal depends on others for food, air and shelter.",
+    "verse": ["परस्परोपग्रहो जीवानाम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Karaniya Metta Sutta, Sutta Nipata 1.8, verses 146 and 147, a Buddhist text",
     "teaching": "May all beings be happy, whether weak or strong, large or small, seen or unseen, near or far, born or yet to be born.",
-    "link": "This text sorts all beings by size and distance, and then gives the same wish to every one. When scientists sort the animals, they also find that no animal stands apart from the rest."
+    "link": "This text sorts all beings by size and distance, and then gives the same wish to every one. When scientists sort the animals, they also find that no animal stands apart from the rest.",
+    "verse": ["Tasā vā thāvarā vanavasesā;", "Dīghā vā ye va mahantā,", "Diṭṭhā vā ye va adiṭṭhā,", "Ye va dūre vasanti avidūre;", "Bhūtā va sambhavesī va,", "Sabbasattā bhavantu sukhitattā."],
+    "verse_lang": "pi"
    },
    {
     "source": "Tao Te Ching, chapter 42",
     "teaching": "The Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things.",
-    "link": "The family tree starts as one ancestor and splits into two, then into many. This is how all groups of animals came out of one."
+    "link": "The family tree starts as one ancestor and splits into two, then into many. This is how all groups of animals came out of one.",
+    "verse": ["道生一，一生二，二生三，三生萬物。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

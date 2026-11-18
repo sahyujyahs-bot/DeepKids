@@ -2940,7 +2940,9 @@
    {
     "source": "Chandogya Upanishad 8.6.2",
     "teaching": "Just as a long road runs between two villages, the rays of the Sun run between the Sun and us. They start from the Sun and enter into the channels of the body.",
-    "link": "Science agrees that sunlight really does enter us. Our skin absorbs it as warmth, our eyes catch it on the retina, and our food is made from it."
+    "link": "Science agrees that sunlight really does enter us. Our skin absorbs it as warmth, our eyes catch it on the retina, and our food is made from it.",
+    "verse": ["तद्यथा महापथ आतत उभौ ग्रामौ गच्छतीमं चामुं चैवमेवैता आदित्यस्य रश्मय उभौ लोकौ गच्छन्तीमं चामुं च", "अमुष्मादादित्यात्प्रतायन्ते ता आसु नाडीषु सृप्ताः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, fragment 6 (Diels-Kranz numbering), about 500 BCE",

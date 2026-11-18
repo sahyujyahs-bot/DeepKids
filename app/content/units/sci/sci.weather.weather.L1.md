@@ -87,8 +87,8 @@ We have felt the fan's wind cool our arm, but not the steel tumbler. Now we ask 
 
 One layer of air wraps the whole Earth. The same air is a still afternoon in Chennai, a sea breeze in Kochi and a cold wind on a pass in Ladakh. Your warmth goes out into that air, and the wind carries it on. Your breath joins it too. Everything in the world is conscious, the moving air too, in its own way.
 
-- **Chandogya Upanishad 4.3.1:** The wind is the one that takes everything in. When a fire goes out, it goes into the wind. When the Sun sets and the Moon sets, they go into the wind. (In the fan test, the wind took the warmth from your arm into the room's air. A fire's heat goes into the air in the same way.)
-- **Tao Te Ching 23:** A strong wind does not last the whole morning. A sudden rain does not last the whole day. (Weather is always changing. That is why we look outside each morning before we choose our clothes.)
+- **Chandogya Upanishad 4.3.1:** “वायुर्वाव संवर्गः / यदा वा अग्निरुद्वायति वायुमेवाप्येति / यदा सूर्योऽस्तमेति वायुमेवाप्येति / यदा चन्द्रोऽस्तमेति वायुमेवाप्येति” The wind is the one that takes everything in. When a fire goes out, it goes into the wind. When the Sun sets and the Moon sets, they go into the wind. (In the fan test, the wind took the warmth from your arm into the room's air. A fire's heat goes into the air in the same way.)
+- **Tao Te Ching 23:** “故飄風不終朝，驟雨不終日。” A strong wind does not last the whole morning. A sudden rain does not last the whole day. (Weather is always changing. That is why we look outside each morning before we choose our clothes.)
 - Science (settled): Wind cools a warm body faster, but it does not lower the temperature of the air. A fan makes a room no colder.
 - Science (open): What moving air is like from the inside, and how the air senses the world, nobody knows yet.
 - Other view, Most scientists: Most scientists say wind is only air moving from one place to another, pushed by warm and cool places. They say air has no awareness of any kind, and that only living bodies with nerves feel things.

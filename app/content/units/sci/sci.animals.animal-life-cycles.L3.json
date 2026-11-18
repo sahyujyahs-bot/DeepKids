@@ -3701,17 +3701,23 @@
    {
     "source": "Zhuangzi, chapter 2 (Discussion on Making All Things Equal), the butterfly dream",
     "teaching": "Zhuangzi, a Chinese thinker, dreamed he was a butterfly, happily fluttering. He woke up and was Zhuangzi again. Then he wondered: was he a man who had dreamed he was a butterfly, or a butterfly now dreaming he was a man? He said this is called 'the changing of things'.",
-    "link": "A caterpillar becomes a butterfly and is still one living thing. Zhuangzi asks whether who you are is as fixed as it feels."
+    "link": "A caterpillar becomes a butterfly and is still one living thing. Zhuangzi asks whether who you are is as fixed as it feels.",
+    "verse": ["昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。", "俄然覺，則蘧蘧然周也。", "不知周之夢爲胡蝶與？", "胡蝶之夢爲周與？", "周與胡蝶，則必有分矣，此之謂物化。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. 'What do you see?' 'Nothing, sir.' Uddalaka says that from this fine, unseen thing the whole great banyan tree grows. 'That is the truth. You are that.'",
-    "link": "Shvetaketu could see nothing inside the seed, yet a whole tree grows from this seed. The egg's tiny spot is the same: no chick is there to see, yet a chick grows from that spot."
+    "link": "Shvetaketu could see nothing inside the seed, yet a whole tree grows from this seed. The egg's tiny spot is the same: no chick is there to see, yet a chick grows from that spot.",
+    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति", "स य एषोऽणिमैतदात्म्यमिदं सर्वम्", "तत्सत्यम्", "स आत्मा", "तत्त्वमसि श्वेतकेतो इति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, quoted by Plato in Cratylus 402a",
     "teaching": "Heraclitus, a Greek thinker, said that everything flows. You cannot step into the same river twice, because new water is always flowing in.",
-    "link": "Water keeps flowing through a river, yet it is still the same river. In the same way, the material in a body keeps changing, yet the animal goes on. A tadpole's tail becomes part of the frog, and the frog goes on."
+    "link": "Water keeps flowing through a river, yet it is still the same river. In the same way, the material in a body keeps changing, yet the animal goes on. A tadpole's tail becomes part of the frog, and the frog goes on.",
+    "verse": ["πάντα χωρεῖ καὶ οὐδὲν μένει,", "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse_lang": "grc"
    }
   ],
   "science": [

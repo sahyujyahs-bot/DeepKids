@@ -459,7 +459,9 @@
    {
     "source": "Isha Upanishad, verse 5",
     "teaching": "It moves, and it does not move. It is far, and it is near. It is inside all this, and it is outside all this.",
-    "link": "In the train, the lime is moving at 80 kilometres an hour and is also at rest in your hand. Both are true, depending on what you compare it with."
+    "link": "In the train, the lime is moving at 80 kilometres an hour and is also at rest in your hand. Both are true, depending on what you compare it with.",
+    "verse": ["तदेजति तन्नैजति तद्दूरे तद्वन्तिके", "तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

@@ -3052,12 +3052,16 @@
    {
     "source": "Kena Upanishad 1.2",
     "teaching": "The teacher says there is something that is the ear of the ear and the mind of the mind. It is what hears through the ear.",
-    "link": "The ear passes on vibrations, and the hair cells send signals. Yet science has not found what it is in you that does the hearing. The Upanishad asks about that listener."
+    "link": "The ear passes on vibrations, and the hair cells send signals. Yet science has not found what it is in you that does the hearing. The Upanishad asks about that listener.",
+    "verse": ["श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं", "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4, a Buddhist text from the Pali Canon: the blind men and the elephant",
     "teaching": "Some blind men each touch one part of an elephant. One feels the ear and says an elephant is like a winnowing basket. One feels the leg and says it is like a pillar. Each is sure he alone is right.",
-    "link": "A person, a bat and an elephant each hear one band of the sounds in the same forest. Each band is real, and none is the whole."
+    "link": "A person, a bat and an elephant each hear one band of the sounds in the same forest. Each band is real, and none is the whole.",
+    "verse": ["ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    },
    {
     "source": "John Cage, Silence, 1961",

@@ -3466,7 +3466,9 @@
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains.",
-    "link": "Purnima comes from purna, whole. The Moon is whole on every night of the month, even on Amavasya. Only the part we see grows and shrinks."
+    "link": "Purnima comes from purna, whole. The Moon is whole on every night of the month, even on Amavasya. Only the part we see grows and shrinks.",
+    "verse": ["ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते", "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"],
+    "verse_lang": "sa"
    },
    {
     "source": "Dogen, Genjokoan (1233), in the Shobogenzo",

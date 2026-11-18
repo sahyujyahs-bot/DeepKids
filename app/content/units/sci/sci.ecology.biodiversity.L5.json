@@ -3511,12 +3511,16 @@
    {
     "source": "Chandogya Upanishad 6.11, where Uddalaka teaches his son Shvetaketu with a great tree",
     "teaching": "If life leaves one branch of a great tree, that branch dries up. If life leaves a second branch, that one dries up too. If life leaves the whole tree, the whole tree dries up.",
-    "link": "The tree of life works in the same way. When a species is lost from one place, a part of the tree dries, and when her last place is lost, the whole branch is gone."
+    "link": "The tree of life works in the same way. When a species is lost from one place, a part of the tree dries, and when her last place is lost, the whole branch is gone.",
+    "verse": ["अस्य यदेकां शाखां जीवो जहात्यथ सा शुष्यति", "द्वितीयां जहात्यथ सा शुष्यति", "तृतीयां जहात्यथ सा शुष्यति", "सर्वं जहाति सर्वः शुष्यति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Isha Upanishad, verse 1",
     "teaching": "Everything in this changing world is held within the One. Enjoy what is given, and do not covet what belongs to another.",
-    "link": "Taking too many is one of the five causes of extinction. Taking only what is needed leaves something for the other beings and for those who come after."
+    "link": "Taking too many is one of the five causes of extinction. Taking only what is needed leaves something for the other beings and for those who come after.",
+    "verse": ["ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्", "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "The twenty-nine rules of Guru Jambheshwar, who founded the Bishnoi community in Rajasthan in 1485",

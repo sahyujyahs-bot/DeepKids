@@ -4099,12 +4099,16 @@
    {
     "source": "Chandogya Upanishad 6.13",
     "teaching": "Uddalaka asks his son Shvetaketu to put salt in water overnight. In the morning the salt cannot be seen. But when Shvetaketu sips from the top, the middle and the bottom, the water tastes salty everywhere.",
-    "link": "In the Invisible Ring, the salt in glass B could not be seen either. Drying the water showed that it was still there, spread all through the glass."
+    "link": "In the Invisible Ring, the salt in glass B could not be seen either. Drying the water showed that it was still there, spread all through the glass.",
+    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 8",
     "teaching": "The best way to live is like water. Water helps all things and does not fight them. It flows to the low places that people look down on.",
-    "link": "Water sinks into the ground, the lowest place, and that is exactly where it is stored and kept safe for wells and roots."
+    "link": "Water sinks into the ground, the lowest place, and that is exactly where it is stored and kept safe for wells and roots.",
+    "verse": ["上善若水。", "水善利萬物而不爭，處眾人之所惡，故幾於道。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing'",

@@ -2490,7 +2490,9 @@
    {
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
     "teaching": "Bhrigu came to understand that food is Brahman, the whole. From food all beings are born. By food they live. Into food they return when they leave.",
-    "link": "A peel was food for us. In the compost pot it becomes food for microbes and worms. Their compost becomes food for plants, and the plants become food for us again."
+    "link": "A peel was food for us. In the compost pot it becomes food for microbes and worms. Their compost becomes food for plants, and the plants become food for us again.",
+    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thich Nhat Hanh, Peace Is Every Step (1991), the chapter 'The Rose and the Garbage'",

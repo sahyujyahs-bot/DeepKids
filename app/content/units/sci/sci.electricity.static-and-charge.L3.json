@@ -3053,12 +3053,16 @@
    {
     "source": "Tao Te Ching 42",
     "teaching": "All things carry the dark, yin, on their back and hold the light, yang, in their arms. Blending the two, they reach harmony.",
-    "link": "Every atom holds plus and minus together, and their balance is what makes an ordinary, quiet object. Your balloon showed what happens when that balance is upset a little."
+    "link": "Every atom holds plus and minus together, and their balance is what makes an ordinary, quiet object. Your balloon showed what happens when that balance is upset a little.",
+    "verse": ["萬物負陰而抱陽，沖氣以為和。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Rig Veda 1.32",
     "teaching": "The hymn tells how Indra struck the serpent Vritra with his thunderbolt, the vajra, and set free the waters held back in the clouds.",
-    "link": "The people who wrote this hymn saw that lightning and rain come together. Science agrees that lightning is made in tall rain clouds, by the bumping ice and water that also bring the rain. Science explains the link with charge instead of with a god."
+    "link": "The people who wrote this hymn saw that lightning and rain come together. Science agrees that lightning is made in tall rain clouds, by the bumping ice and water that also bring the rain. Science explains the link with charge instead of with a god.",
+    "verse": ["इन्द्रस्य नु वीर्याणि प्र वोचं यानि चकार प्रथमानि वज्री ।", "अहन्नहिमन्वपस्ततर्द प्र वक्षणा अभिनत्पर्वतानाम्", "अहन्नहिं पर्वते शिश्रियाणं त्वष्टास्मै वज्रं स्वर्यं ततक्ष ।", "वाश्रा इव धेनवः स्यन्दमाना अञ्जः समुद्रमव जग्मुरापः"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

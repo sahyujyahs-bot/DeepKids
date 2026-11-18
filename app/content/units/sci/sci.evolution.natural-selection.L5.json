@@ -3108,7 +3108,9 @@
       {
         "source": "Udana 1.1, a discourse of the Buddha on dependent arising",
         "teaching": "When this is, that is. From the arising of this comes the arising of that.",
-        "link": "No species has their shape by themselves. A cactus has spines because of the dry places where cacti lived. A chital has an alarm call because tigers hunt chital. Each feature depends on the place and on the other beings in it."
+        "link": "No species has their shape by themselves. A cactus has spines because of the dry places where cacti lived. A chital has an alarm call because tigers hunt chital. Each feature depends on the place and on the other beings in it.",
+        "verse": ["Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati"],
+        "verse_lang": "pi"
       },
       {
         "source": "Peter Kropotkin, Mutual Aid: A Factor of Evolution (1902)",

@@ -1784,12 +1784,16 @@
    {
     "source": "Vaisheshika Sutra of Kanada, 2.1.9 to 2.1.10",
     "teaching": "Kanada, a thinker in ancient India, said that touch is the sign of air. The touch we feel in a wind does not belong to anything we can see. So, he said, air is a real thing of its own, known by touch and not by sight.",
-    "link": "This is what you found in Catch the Air too. Your eyes could not find the air. Your cheek and your hands could."
+    "link": "This is what you found in Catch the Air too. Your eyes could not find the air. Your cheek and your hands could.",
+    "verse": ["स्पर्शश्च वायोः", "न च दृष्टानां स्पर्श इत्यदृष्टलिङ्गो वायुः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 5",
     "teaching": "The space between sky and earth is like a bellows. It is empty, yet it never runs out. The more it moves, the more comes out.",
-    "link": "A bellows is a bag that pushes out air when you squeeze it, like the bag of air in Catch the Air. The room looked empty, but each time you swept the bag through it, the bag came back full."
+    "link": "A bellows is a bag that pushes out air when you squeeze it, like the bag of air in Catch the Air. The room looked empty, but each time you swept the bag through it, the bag came back full.",
+    "verse": ["天地之間，其猶橐籥乎？虛而不屈，動而愈出。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

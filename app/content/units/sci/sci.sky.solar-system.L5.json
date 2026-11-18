@@ -503,7 +503,9 @@
    {
     "source": "Isha Upanishad, verse 5",
     "teaching": "It moves, and it moves not. It is far, and it is near. It is inside all this, and it is outside all this.",
-    "link": "The verse speaks of the one Self, not of planets. Science finds no body that stands still. The sages say there is a stillness of another kind, which holds all movement."
+    "link": "The verse speaks of the one Self, not of planets. Science finds no body that stands still. The sages say there is a stillness of another kind, which holds all movement.",
+    "verse": ["तदेजति तन्नैजति तद्दूरे तद्वन्तिके", "तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Ernst Mach, The Science of Mechanics (1883), chapter 2",

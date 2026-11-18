@@ -446,7 +446,9 @@
       {
         "source": "Tao Te Ching 11",
         "teaching": "Thirty spokes meet at the hub of a wheel, but it is the empty space in the middle that makes the wheel useful. A cup is useful because of the space inside it.",
-        "link": "The air looks like empty space. But the air is what a wing pushes on, and what lifts every flyer."
+        "link": "The air looks like empty space. But the air is what a wing pushes on, and what lifts every flyer.",
+        "verse": ["三十輻共一轂，當其無，有車之用。"],
+        "verse_lang": "zh"
       }
     ],
     "science": [

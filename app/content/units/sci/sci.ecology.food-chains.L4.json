@@ -2643,17 +2643,23 @@
       {
         "source": "Taittiriya Upanishad 3.2 (the Bhrigu Valli)",
         "teaching": "A son, Bhrigu, asks his father Varuna to teach him what the ultimate is. The father says to look at food. Bhrigu finds that all beings are born from food, live by food, and go back into food.",
-        "link": "This is the food chain and the dead-leaf chain in one line. A body comes from food, and when it dies it becomes food again for others."
+        "link": "This is the food chain and the dead-leaf chain in one line. A body comes from food, and when it dies it becomes food again for others.",
+        "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+        "verse_lang": "sa"
       },
       {
         "source": "Isha Upanishad, verse 1",
         "teaching": "The verse says that all this world is pervaded by one reality. It then says to enjoy what is given by letting go, and not to covet anyone's wealth.",
-        "link": "In a food chain, no one holds the energy for long. Each eater receives, uses and lets go. The heat she lets go passes on to the air and the sky."
+        "link": "In a food chain, no one holds the energy for long. Each eater receives, uses and lets go. The heat she lets go passes on to the air and the sky.",
+        "verse": ["ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्", "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"],
+        "verse_lang": "sa"
       },
       {
         "source": "Tattvartha Sutra 5.21, a Jain text by Umaswati",
         "teaching": "The sutra says 'parasparopagraho jivanam', which is often translated as 'living beings support one another'.",
-        "link": "A mangrove leaf feeds a crab, who feeds a prawn, who feeds a heron. Each being lives because others give their bodies, wastes and warmth."
+        "link": "A mangrove leaf feeds a crab, who feeds a prawn, who feeds a heron. Each being lives because others give their bodies, wastes and warmth.",
+        "verse": ["परस्परोपग्रहो जीवानाम्"],
+        "verse_lang": "sa"
       }
     ],
     "science": [

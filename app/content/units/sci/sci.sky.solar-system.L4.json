@@ -451,12 +451,16 @@
    {
     "source": "Dhammapada 277",
     "teaching": "All conditioned things are impermanent. When one sees this with wisdom, one turns away from suffering.",
-    "link": "Even a planet is not permanent. The Moon's craters last a long time, but the Sun, the planets and the Moon itself had a beginning, and will have an end."
+    "link": "Even a planet is not permanent. The Moon's craters last a long time, but the Sun, the planets and the Moon itself had a beginning, and will have an end.",
+    "verse": ["Sabbe saṅkhārā aniccā,", "yadā paññāya passati;", "Atha nibbindati dukkhe,", "esa maggo visuddhiyā."],
+    "verse_lang": "pi"
    },
    {
     "source": "Rig Veda 10.129.6",
     "teaching": "Who really knows, and who can say here, where this creation came from?",
-    "link": "Scientists have a good idea of how the planets formed, but they still argue about the details, such as how the giants grew. The hymn asks the question in the same spirit."
+    "link": "Scientists have a good idea of how the planets formed, but they still argue about the details, such as how the giants grew. The hymn asks the question in the same spirit.",
+    "verse": ["को अद्धा वेद क इह प्र वोचत्कुत आजाता कुत इयं विसृष्टिः।", "अर्वाग्देवा अस्य विसर्जनेनाथा को वेद यत आबभूव"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

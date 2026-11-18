@@ -3551,12 +3551,16 @@
    {
     "source": "Zhuangzi, chapter 2, the Inner Chapters, about the 4th century BCE",
     "teaching": "Zhuangzi, an ancient Chinese thinker, said that a road is made by people walking on it, and things are so because we call them so.",
-    "link": "The words magnetic and non-magnetic are made by people, for the answer to one test. They are useful, but they do not say everything about the material."
+    "link": "The words magnetic and non-magnetic are made by people, for the answer to one test. They are useful, but they do not say everything about the material.",
+    "verse": ["道，行之而成；物，謂之而然。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Rig Veda 1.164.46",
     "teaching": "A hymn says that truth is one, and the wise speak of it in many ways.",
-    "link": "One piece of aluminium answers a still magnet with nothing, a moving magnet with a push, and a very strong magnet with a tiny pull. Each is one answer from the same material."
+    "link": "One piece of aluminium answers a still magnet with nothing, a moving magnet with a push, and a very strong magnet with a tiny pull. Each is one answer from the same material.",
+    "verse": ["इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् ।", "एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः"],
+    "verse_lang": "sa"
    },
    {
     "source": "The Jain teaching of anekantavada, many-sidedness",

@@ -2652,17 +2652,23 @@
    {
     "source": "Heraclitus, fragment 12 (Diels-Kranz numbering), about 500 BCE",
     "teaching": "On those who step into the same rivers, different and different waters flow.",
-    "link": "The river looks the same from day to day, but its water is always new. A grill or an anklet also looks the same, but it is always slowly changing."
+    "link": "The river looks the same from day to day, but its water is always new. A grill or an anklet also looks the same, but it is always slowly changing.",
+    "verse": ["ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ"],
+    "verse_lang": "grc"
    },
    {
     "source": "The Buddha, Dhammapada 277",
     "teaching": "All made things do not last. When one sees this with wisdom, one turns away from suffering.",
-    "link": "Rust, fading colours and darkening silver show that made things slowly change. A sparkler and a rusting gate are both changes with oxygen. The main difference is how fast they go."
+    "link": "Rust, fading colours and darkening silver show that made things slowly change. A sparkler and a rusting gate are both changes with oxygen. The main difference is how fast they go.",
+    "verse": ["Sabbe saṅkhārā aniccā,", "yadā paññāya passati;", "Atha nibbindati dukkhe,", "esa maggo visuddhiyā."],
+    "verse_lang": "pi"
    },
    {
     "source": "Tao Te Ching 17",
     "teaching": "With the best leaders, when the work is done, the people all say: we did it ourselves.",
-    "link": "A catalyst helps a change happen and then steps away unchanged. The new substance is made from the peroxide alone, not from the helper."
+    "link": "A catalyst helps a change happen and then steps away unchanged. The new substance is made from the peroxide alone, not from the helper.",
+    "verse": ["悠兮其貴言，功成事遂，百姓皆謂：我自然。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

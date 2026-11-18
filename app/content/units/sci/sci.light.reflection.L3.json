@@ -3304,7 +3304,9 @@
    {
     "source": "Zhuangzi, chapter 7",
     "teaching": "The wise person uses their mind like a mirror. It does not chase things or hold on to them. It shows whatever comes, and keeps nothing.",
-    "link": "A mirror shows whatever stands in front of it, then lets it go. It does not store the image after you walk away."
+    "link": "A mirror shows whatever stands in front of it, then lets it go. It does not store the image after you walk away.",
+    "verse": ["至人之用心若鏡，不將不迎，應而不藏，故能勝物而不傷。"],
+    "verse_lang": "zh"
    },
    {
     "source": "The Platform Sutra of Huineng, chapter 1",

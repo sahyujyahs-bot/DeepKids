@@ -2913,17 +2913,23 @@
    {
     "source": "Yoga Sutras of Patanjali 1.11",
     "teaching": "Memory, smriti, is not letting go of something you have experienced.",
-    "link": "In the Story Trick, the story words were the ones your mind did not let go. Patanjali describes memory as holding on, which is what strong links between neurons do."
+    "link": "In the Story Trick, the story words were the ones your mind did not let go. Patanjali describes memory as holding on, which is what strong links between neurons do.",
+    "verse": ["अनुभूतविषयासंप्रमोषः स्मृतिः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Yoga Sutras of Patanjali 1.14",
     "teaching": "Practice becomes firm when it is done for a long time, without breaks, and with care.",
-    "link": "This is what the Other Hand experiment and the 7-Day Practice Diary showed: short practice on many days, done with attention, makes a skill firm."
+    "link": "This is what the Other Hand experiment and the 7-Day Practice Diary showed: short practice on many days, done with attention, makes a skill firm.",
+    "verse": ["स तु दीर्घकालनैरन्तर्यसत्कारासेवितो दृढभूमिः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Aristotle, Nicomachean Ethics, Book 2, chapter 1",
     "teaching": "We become builders by building, and lyre players by playing the lyre, a small kind of harp. In the same way, we become fair by doing fair things.",
-    "link": "Aristotle saw that what we do again and again shapes what we become. Brain science now shows one way it happens: practice changes the links in the brain."
+    "link": "Aristotle saw that what we do again and again shapes what we become. Brain science now shows one way it happens: practice changes the links in the brain.",
+    "verse": ["ἃ γὰρ δεῖ μαθόντας ποιεῖν, ταῦτα ποιοῦντες μανθάνομεν, οἷον οἰκοδομοῦντες οἰκοδόμοι γίνονται καὶ κιθαρίζοντες κιθαρισταί·", "οὕτω δὴ καὶ τὰ μὲν δίκαια πράττοντες δίκαιοι γινόμεθα"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

@@ -1999,12 +1999,16 @@
    {
     "source": "Plato, Republic, Book 1 (352e to 353a)",
     "teaching": "Socrates says you could cut a vine branch with a dagger or a kitchen knife. But nothing cuts it as well as a pruning knife, made for that job.",
-    "link": "Socrates says a tool is best when it is made for the job. You chose rubber for the tray mat in the same way."
+    "link": "Socrates says a tool is best when it is made for the job. You chose rubber for the tray mat in the same way.",
+    "verse": ["τί δέ; μαχαίρᾳ ἂν ἀμπέλου κλῆμα ἀποτέμοις καὶ σμίλῃ καὶ ἄλλοις πολλοῖς;", "ἀλλ’ οὐδενί γ’ ἂν οἶμαι οὕτω καλῶς ὡς δρεπάνῳ τῷ ἐπὶ τούτῳ ἐργασθέντι."],
+    "verse_lang": "grc"
    },
    {
     "source": "Zhuangzi, chapter 4 (In the World of Men), the carpenter and the oak at the shrine",
     "teaching": "A carpenter passed a huge oak and called the tree useless. Boats from their wood would sink, and doors would ooze sap. That night the oak spoke to him in a dream. Being useless to carpenters, the oak said, was what had let them grow so old and so great.",
-    "link": "The oak's wood was wrong for the carpenter's jobs and right for the oak's own long life. Useful always means useful for someone's job."
+    "link": "The oak's wood was wrong for the carpenter's jobs and right for the oak's own long life. Useful always means useful for someone's job.",
+    "verse": ["散木也！以爲舟則沈，以爲棺槨則速腐，以爲器則速毀，以爲門戶則液樠，以爲柱則蠹，是不材之木也，无所可用，故能若是之壽。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

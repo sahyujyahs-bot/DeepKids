@@ -416,12 +416,16 @@
    {
     "source": "Chandogya Upanishad 6.2.1 to 6.2.3",
     "teaching": "As paraphrased: in the beginning there was only Being, one without a second. Being thought, 'Let me become many.'",
-    "link": "This teaching describes one thing becoming many things. Counting does something similar, because it starts at one and goes on to many. Your sense of number is how your mind notices that there are now more things than before."
+    "link": "This teaching describes one thing becoming many things. Counting does something similar, because it starts at one and goes on to many. Your sense of number is how your mind notices that there are now more things than before.",
+    "verse": ["सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम्", "तदैक्षत", "बहु स्यां प्रजायेयेति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 42",
     "teaching": "As paraphrased: the Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things.",
-    "link": "This teaching names the first numbers in a line, one after another. A bee passes the stripes in a tunnel in the same order, and so did Anju when she touched the palms in the story The Fifth Palm."
+    "link": "This teaching names the first numbers in a line, one after another. A bee passes the stripes in a tunnel in the same order, and so did Anju when she touched the palms in the story The Fifth Palm.",
+    "verse": ["道生一，一生二，二生三，三生萬物。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Brahmasphutasiddhanta, Brahmagupta, 628 CE",

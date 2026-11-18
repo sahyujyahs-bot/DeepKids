@@ -457,17 +457,23 @@
    {
     "source": "Kena Upanishad 1.2",
     "teaching": "The Upanishad speaks of the ear of the ear, the mind of the mind, the speech of speech and the eye of the eye. It points to something behind each sense that does the sensing.",
-    "link": "A fish, a bat and a bird all hear, feel and see in different ways. The teaching asks what is the same behind all those different ears and eyes."
+    "link": "A fish, a bat and a bird all hear, feel and see in different ways. The teaching asks what is the same behind all those different ears and eyes.",
+    "verse": ["श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं", "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4, the blind men and the elephant",
     "teaching": "In this old story from the Buddhist teachings, several blind men each touch a different part of an elephant. One feels a leg, another the tail, another an ear. Each describes a different animal, and each argues that he is right.",
-    "link": "Each group of animals senses a different part of the same place. No animal senses the whole place, just as no blind man felt the whole elephant. Each is partly right."
+    "link": "Each group of animals senses a different part of the same place. No animal senses the whole place, just as no blind man felt the whole elephant. Each is partly right.",
+    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    },
    {
     "source": "Zhuangzi, chapter 17 (Autumn Floods)",
     "teaching": "Two friends stand on a bridge over a river. Zhuangzi says the fish are happy. His friend Huizi says, you are not a fish, so how do you know? Zhuangzi answers, you are not me, so how do you know that I do not know?",
-    "link": "We cannot feel what a fish feels with her lateral line, or what a snake feels with her heat pits. The old question remains: how far can one being know what it is like to be another?"
+    "link": "We cannot feel what a fish feels with her lateral line, or what a snake feels with her heat pits. The old question remains: how far can one being know what it is like to be another?",
+    "verse": ["莊子曰：「鯈魚出游從容，是魚樂也。」", "惠子曰：「子非魚，安知魚之樂？」", "莊子曰：「子非我，安知我不知魚之樂？」"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

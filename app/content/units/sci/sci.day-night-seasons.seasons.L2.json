@@ -2288,17 +2288,23 @@
    {
     "source": "Matthew 5:45, the Bible",
     "teaching": "Jesus said that God makes the sun rise on the good and on the bad, and sends rain on everyone alike.",
-    "link": "In the Black or White test, the same sun shone on both cloths equally. The sunlight was the same. The difference was in how much of it each cloth took in."
+    "link": "In the Black or White test, the same sun shone on both cloths equally. The sunlight was the same. The difference was in how much of it each cloth took in.",
+    "verse": ["ὅτι τὸν ἥλιον αὐτοῦ ἀνατέλλει ἐπὶ πονηροὺς καὶ ἀγαθοὺς καὶ βρέχει ἐπὶ δικαίους καὶ ἀδίκους."],
+    "verse_lang": "grc"
    },
    {
     "source": "Dhammapada, verse 277",
     "teaching": "The Buddha taught that everything that comes into being keeps changing. Nothing stays the same for ever.",
-    "link": "The same street is hot and dry in May and runs like a river in June. Then the change comes round again."
+    "link": "The same street is hot and dry in May and runs like a river in June. Then the change comes round again.",
+    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse_lang": "pi"
    },
    {
     "source": "Ritusamhara, canto 1, by Kalidasa",
     "teaching": "Kalidasa's old Sanskrit poem has one part for each season. In the summer part, people and other animals look for shade and cool water.",
-    "link": "People in India have long known that summer sun is something to shelter from. In the Black or White test, more ice was left under the white cloth than under the black one."
+    "link": "People in India have long known that summer sun is something to shelter from. In the Black or White test, more ice was left under the white cloth than under the black one.",
+    "verse": ["मृगाः प्रचण्डातपतापिता भृशं तृषा महत्या परिशुष्कतालवः ।", "वनान्तरे तोयमिति प्रधाविता निरीक्ष्य भिन्नाञ्जनसंनिभं नभः"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

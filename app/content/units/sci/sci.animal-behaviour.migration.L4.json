@@ -2687,12 +2687,16 @@
       {
         "source": "Taittiriya Upanishad 3.2",
         "teaching": "The Upanishad says, in our own words, that food is the source of all beings. From food they are born, by food they live, and into food they go back.",
-        "link": "A godwit is made of the insects she ate, and she is later eaten or returns to the soil. Her body is made of food, and for a while that food has the shape of a bird."
+        "link": "A godwit is made of the insects she ate, and she is later eaten or returns to the soil. Her body is made of food, and for a while that food has the shape of a bird.",
+        "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+        "verse_lang": "sa"
       },
       {
         "source": "Zhuangzi (Chuang Tzu), chapter 1, Free and Easy Wandering",
         "teaching": "The Chinese teacher Zhuangzi tells of a huge bird, the Peng, who rises 90,000 li on a great wind, on her way to the southern sea. A small dove and a cicada laugh at her: why go so far when a short flight to the next bush is enough?",
-        "link": "A godwit, a sparrow and a crow all live under the same sky, but each has a very different way of living. A long journey that looks pointless to a sparrow is the whole way of life of a godwit."
+        "link": "A godwit, a sparrow and a crow all live under the same sky, but each has a very different way of living. A long journey that looks pointless to a sparrow is the whole way of life of a godwit.",
+        "verse": ["鵬之徙於南冥也，水擊三千里，摶扶搖而上者九萬里，去以六月息者也。", "蜩與鷽鳩笑之曰：「我決起而飛，槍榆枋，時則不至，而控於地而已矣，奚以之九萬里而南爲？」"],
+        "verse_lang": "zh"
       }
     ],
     "science": [

@@ -2965,17 +2965,23 @@
    {
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
     "teaching": "From food all beings are born. By food they live. Into food they go when they depart.",
-    "link": "A leaf grows from the soil, lives by the food it makes, and when it falls it becomes food for decomposers, and then for new plants."
+    "link": "A leaf grows from the soil, lives by the food it makes, and when it falls it becomes food for decomposers, and then for new plants.",
+    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Ecclesiastes 3:20",
     "teaching": "All go to one place. All are of the dust, and all turn to dust again.",
-    "link": "Decomposers turn every dead body, of a leaf, a worm or a person, back into soil."
+    "link": "Decomposers turn every dead body, of a leaf, a worm or a person, back into soil.",
+    "verse": ["הַכֹּל הוֹלֵךְ אֶל־מָקוֹם אֶחָד", "הַכֹּל הָיָה מִן־הֶעָפָר וְהַכֹּל שָׁב אֶל־הֶעָפָר"],
+    "verse_lang": "he"
    },
    {
     "source": "Tao Te Ching 16",
     "teaching": "All things grow and flourish, and each one returns to its root.",
-    "link": "A fallen leaf really does return to the roots: decomposers turn it into nutrients that the tree's roots take in again."
+    "link": "A fallen leaf really does return to the roots: decomposers turn it into nutrients that the tree's roots take in again.",
+    "verse": ["夫物芸芸，各復歸其根。", "歸根曰靜，是謂復命。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

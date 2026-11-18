@@ -497,12 +497,16 @@
       {
         "source": "Isha Upanishad, verse 15",
         "teaching": "The face of truth is covered by a golden disc. Remove it, so that I who love the truth can see.",
-        "link": "The Sun's bright disc hides its own atmosphere. Only when the Moon covers the disc in a total eclipse does the corona show. The disc we take for the whole Sun is only part of something larger."
+        "link": "The Sun's bright disc hides its own atmosphere. Only when the Moon covers the disc in a total eclipse does the corona show. The disc we take for the whole Sun is only part of something larger.",
+        "verse": ["हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्", "तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये"],
+        "verse_lang": "sa"
       },
       {
         "source": "Rig Veda 1.115.1",
         "teaching": "Surya is the self of everything that moves and everything that stands still.",
-        "link": "Sunlight feeds the plants, and plants feed us. The Sun's wind passes through the Earth's space. So science, too, finds the Sun at work in living things and in the space around the Earth."
+        "link": "Sunlight feeds the plants, and plants feed us. The Sun's wind passes through the Earth's space. So science, too, finds the Sun at work in living things and in the space around the Earth.",
+        "verse": ["चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।", "आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च"],
+        "verse_lang": "sa"
       }
     ],
     "science": [

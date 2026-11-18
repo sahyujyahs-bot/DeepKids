@@ -476,17 +476,23 @@
       {
         "source": "Tao Te Ching 11",
         "teaching": "Clay is shaped into a pot, and it is the empty space inside that makes the pot useful. We profit from what is there, and we use what is not there.",
-        "link": "In the story The Moan in the Courtyard, a clay jar moans only because of the air inside it. The clay gives the space its shape, and the air in that space gives the note."
+        "link": "In the story The Moan in the Courtyard, a clay jar moans only because of the air inside it. The clay gives the space its shape, and the air in that space gives the note.",
+        "verse": ["埏埴以為器，當其無，有器之用。", "故有之以為利，無之以為用。"],
+        "verse_lang": "zh"
       },
       {
         "source": "Brihadaranyaka Upanishad 2.4.7",
         "teaching": "When a drum is beaten, we cannot grasp the sounds as they spread out. But if we grasp the drum or the person who beats it, we have grasped the sound. The text gives the same teaching for a conch and a vina.",
-        "link": "This unit finds that a sound cannot be understood apart from what makes it and the space that shapes it. The Upanishad says something similar: to understand the sound, look at the drum and the person who beats it."
+        "link": "This unit finds that a sound cannot be understood apart from what makes it and the space that shapes it. The Upanishad says something similar: to understand the sound, look at the drum and the person who beats it.",
+        "verse": ["स यथा दुन्दुभेर्हन्यमानस्य न बाह्याञ्छब्दाञ्छक्नुयाद्ग्रहणाय", "दुन्दुभेस्तु ग्रहणेन दुन्दुभ्याघातस्य वा शब्दो गृहीतः"],
+        "verse_lang": "sa"
       },
       {
         "source": "Taittiriya Upanishad 1.2",
         "teaching": "This is the opening of an old Indian study of the sounds of speech. It names the parts of a spoken sound: the letter, the pitch, the length, the strength, the evenness and the joining.",
-        "link": "Indian teachers studied for centuries how the mouth shapes speech. Today's source and filter picture of the voice finds the same two parts."
+        "link": "Indian teachers studied for centuries how the mouth shapes speech. Today's source and filter picture of the voice finds the same two parts.",
+        "verse": ["ॐ शीक्षां व्याख्यास्यामः", "वर्णः स्वरः । मात्रा बलम् । साम सन्तानः"],
+        "verse_lang": "sa"
       }
     ],
     "science": [

@@ -3576,12 +3576,16 @@
    {
     "source": "Isha Upanishad, verse 1",
     "teaching": "Everything in this moving world is filled with the one Lord. Enjoy it by letting go, and do not grab what belongs to anyone.",
-    "link": "Our building is also the pigeons' cliff and the gecko's hunting ground. The verse asks us to take what we need and leave room for others, which is how we try to share a building with crows and pigeons."
+    "link": "Our building is also the pigeons' cliff and the gecko's hunting ground. The verse asks us to take what we need and leave room for others, which is how we try to share a building with crows and pigeons.",
+    "verse": ["ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्", "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Acaranga Sutra, Book 1, Lecture 2, Lesson 3 (Jain teaching)",
     "teaching": "All beings love their lives. They like comfort and dislike pain. They want to live. To every being, their life is dear.",
-    "link": "This is why we watch kindly. A crow guarding their chicks wants them to live, just as a parent does."
+    "link": "This is why we watch kindly. A crow guarding their chicks wants them to live, just as a parent does.",
+    "verse": ["सव्वे पाणा पियाउया", "सुह-साया दुक्ख-पडिकूला", "अप्पिय-वहा पिय-जीविणो जीविउ-कामा", "सव्वेसिं जीवियं पियं"],
+    "verse_lang": "pra"
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on interbeing",

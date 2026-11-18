@@ -2881,7 +2881,9 @@
    {
     "source": "Tao Te Ching 40",
     "teaching": "Returning is the movement of the Tao.",
-    "link": "A pendulum always turns back towards its middle. Its whole movement is made of going out and returning."
+    "link": "A pendulum always turns back towards its middle. Its whole movement is made of going out and returning.",
+    "verse": ["反者道之動。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Bhagavad Gita 2.14",

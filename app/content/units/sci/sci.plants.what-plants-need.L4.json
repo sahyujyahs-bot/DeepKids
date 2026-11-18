@@ -3900,7 +3900,9 @@
       {
         "source": "Atharva Veda, Prithvi Sukta (12.1)",
         "teaching": "A verse calls the Earth a mother. It says, 'The Earth is my mother, and I am her child.'",
-        "link": "A plant's body is built from air, water and a pinch of the Earth's minerals. We eat plants, so we, too, are built from the Earth's soil."
+        "link": "A plant's body is built from air, water and a pinch of the Earth's minerals. We eat plants, so we, too, are built from the Earth's soil.",
+        "verse": ["यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।", "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"],
+        "verse_lang": "sa"
       },
       {
         "source": "Thirukkural 1037, Thiruvalluvar",

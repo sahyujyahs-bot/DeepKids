@@ -3074,7 +3074,9 @@
    {
     "source": "Samyutta Nikaya 12.21, a Buddhist text",
     "teaching": "When this is, that is. From the arising of this, that arises.",
-    "link": "Newton's first law says the same about motion: no change happens without a cause. If a moving thing slows, turns or stops, a force made it happen."
+    "link": "Newton's first law says the same about motion: no change happens without a cause. If a moving thing slows, turns or stops, a force made it happen.",
+    "verse": ["Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

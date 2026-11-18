@@ -2434,12 +2434,16 @@
    {
     "source": "Natya Shastra, chapter 6 (on rasa)",
     "teaching": "A feeling in a play is shown through outward signs, such as the face, the eyes and the body, and the audience comes to taste that feeling themselves.",
-    "link": "The outward signs are the same face and body changes this unit studied. The audience tasting the feeling is a kind of empathy."
+    "link": "The outward signs are the same face and body changes this unit studied. The audience tasting the feeling is a kind of empathy.",
+    "verse": ["तत्र विभावानुभावव्यभिचारिसंयोगाद्रसनिष्पत्तिः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Mencius, Book 2A, chapter 6",
     "teaching": "Anyone who suddenly sees a small child about to fall into a well feels alarm and pity at once, before thinking of any reward.",
-    "link": "The feeling comes before the thought, just as you jump at a cooker whistle before you know what the noise was. Caring for others starts as a feeling in the body."
+    "link": "The feeling comes before the thought, just as you jump at a cooker whistle before you know what the noise was. Caring for others starts as a feeling in the body.",
+    "verse": ["今人乍見孺子將入於井，皆有怵惕惻隱之心。", "非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

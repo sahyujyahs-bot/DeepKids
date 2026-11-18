@@ -3301,7 +3301,9 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes share one hub, but it is the empty space in the middle that makes the wheel useful. Clay is shaped into a pot, but it is the emptiness inside that holds what you pour in.",
-    "link": "The centre of a ring is a hole, yet it is the place where the whole ring's weight seems to act. Like the hub of the wheel, the empty middle matters."
+    "link": "The centre of a ring is a hole, yet it is the place where the whole ring's weight seems to act. Like the hub of the wheel, the empty middle matters.",
+    "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Avatamsaka Sutra, the image of Indra's net",

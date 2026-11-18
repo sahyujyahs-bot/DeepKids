@@ -2728,12 +2728,16 @@
    {
     "source": "Tao Te Ching 16",
     "teaching": "All things grow and flourish, and then each returns to its root. Returning to the root is called stillness.",
-    "link": "When a leaf rots, its atoms return to the soil and the air that they came from."
+    "link": "When a leaf rots, its atoms return to the soil and the air that they came from.",
+    "verse": ["夫物芸芸，各復歸其根。", "歸根曰靜，是謂復命。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Genesis 3:19",
     "teaching": "From dust you were made, and to dust you will return.",
-    "link": "Many traditions say this in their own words. Science says it by following the atoms. The carbon and the minerals in a body come from the soil and the air, and they go back there."
+    "link": "Many traditions say this in their own words. Science says it by following the atoms. The carbon and the minerals in a body come from the soil and the air, and they go back there.",
+    "verse": ["כִּי־עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב"],
+    "verse_lang": "he"
    }
   ],
   "science": [

@@ -3708,7 +3708,9 @@
    {
     "source": "Isha Upanishad, verse 1",
     "teaching": "Everything in this changing world is filled with the one Lord. So enjoy the world without grabbing it. Do not covet anyone's wealth.",
-    "link": "A habitat is shared by everyone who lives in it. When one living thing takes too much, as people do when they cut a whole forest, everyone in that habitat loses."
+    "link": "A habitat is shared by everyone who lives in it. When one living thing takes too much, as people do when they cut a whole forest, everyone in that habitat loses.",
+    "verse": ["ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्", "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Acharanga Sutra (Jain), Book 1, Lecture 1",

@@ -79,7 +79,7 @@ In the dark room test, we found out which things shine in the dark, and we switc
 Sesame and coconut plants catch sunlight and store some of that energy in oil. When the oil burns in a diya, that energy comes out again as light and heat. So the light of a diya began as sunlight, caught by a plant. Everything is aware in its own way, the Sun and a flame too. Many scientists disagree: they say only living beings with nerves are aware.
 
 - **Heraclitus, fragment 6 (Greece, about 500 BCE):** The Sun is new each day. (Like the torch in the dark room, the Sun keeps making new light. The sunlight on your face this morning left the Sun only about 8 minutes before, not yesterday.)
-- **Brihadaranyaka Upanishad 1.3.28:** Lead me from darkness to light. (In the dark room, a light source led you from darkness to light. You could see your hand only when the torch was making light.)
+- **Brihadaranyaka Upanishad 1.3.28:** “असतो मा सद्गमय, तमसो मा ज्योतिर्गमय, मृत्योर्मामृतं गमयेति” Lead me from darkness to light. (In the dark room, a light source led you from darkness to light. You could see your hand only when the torch was making light.)
 - Science (settled): A light source makes its own light. Its light travels away from it all the time, and when it stops making light, the light stops coming.
 - Science (settled): The Sun's light and heat come from hydrogen joining to make helium, deep inside the Sun.
 - Other view, Many scientists today: They say a lamp, a flame and the Sun are not aware of anything. To them, a flame is only oil and air changing into new things, and a torch is only electricity passing through a tiny lamp. They think awareness belongs to living beings with nerves or brains.

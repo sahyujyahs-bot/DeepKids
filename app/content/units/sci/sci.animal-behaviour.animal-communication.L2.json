@@ -2133,7 +2133,9 @@
    {
     "source": "The Quran, Surah An-Naml 27:16",
     "teaching": "Solomon says, 'O people, we have been taught the language of the birds.'",
-    "link": "This old teaching treats birds as beings with a language worth learning. Scientists who record calls and play them back are trying to learn that language, one call at a time."
+    "link": "This old teaching treats birds as beings with a language worth learning. Scientists who record calls and play them back are trying to learn that language, one call at a time.",
+    "verse": ["يَا أَيُّهَا النَّاسُ عُلِّمْنَا مَنْطِقَ الطَّيْرِ"],
+    "verse_lang": "ar"
    }
   ],
   "science": [

@@ -3354,12 +3354,16 @@
    {
     "source": "Purananuru 192, a Tamil Sangam poem by Kaniyan Pungundranar",
     "teaching": "Every town is our town. Everyone is our kin.",
-    "link": "The tree of life shows that every living thing is a relative of every other. The poem says it about people. Biology finds it true of all life."
+    "link": "The tree of life shows that every living thing is a relative of every other. The poem says it about people. Biology finds it true of all life.",
+    "verse": ["யாதும் ஊரே; யாவரும் கேளிர்"],
+    "verse_lang": "ta"
    },
    {
     "source": "Maha Upanishad 6.71 to 6.72 (the verse is also in the Hitopadesha)",
     "teaching": "'This one is mine, that one is a stranger.' So people with small hearts count. For those with generous hearts, the whole world is one family: vasudhaiva kutumbakam.",
-    "link": "We can sort the world into 'mine' and 'not mine' in many ways. The family tree of life is one sort nobody chose, and that sort puts everything in one family."
+    "link": "We can sort the world into 'mine' and 'not mine' in many ways. The family tree of life is one sort nobody chose, and that sort puts everything in one family.",
+    "verse": ["अयं बन्धुरयं नेति गणना लघुचेतसाम्", "उदारचरितानां तु वसुधैव कुटुम्बकम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Charles Darwin, On the Origin of Species (1859), end of chapter 4",

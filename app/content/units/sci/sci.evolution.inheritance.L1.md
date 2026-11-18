@@ -78,7 +78,7 @@ In the Pod Sisters and Brothers experiment we opened pea pods. In the Old Photos
 
 Before you, there were your parents, and their parents, and their parents before them, going back a very long way. Each of them passed features on to their children, and each child was a new mix. That is how life keeps making new beings who are like their family and are still someone new.
 
-- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. Shvetaketu sees nothing inside. Uddalaka tells him that the whole great banyan tree grows from that fine, unseen thing. (A pea looks small and plain. Yet everything needed to grow a whole pea plant, like the parent, is inside that one pea.)
+- **Chandogya Upanishad 6.12:** “किमत्र पश्यसीति । न किंचन भगव इति / तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति” Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. Shvetaketu sees nothing inside. Uddalaka tells him that the whole great banyan tree grows from that fine, unseen thing. (A pea looks small and plain. Yet everything needed to grow a whole pea plant, like the parent, is inside that one pea.)
 - **Thirukkural 68:** “தம்மின்தம் மக்கள் அறிவுடைமை மாநிலத்து / மன்னுயிர்க் கெல்லாம் இனிது.” When children grow wiser than their parents, it brings joy to everyone in the world. (A child is not only a copy of the parents. Each child is someone new, who may one day know more than their parents do.)
 - Science (settled): Each child gets half of their genes from the mother and half from the father. Each child gets a different mix, so brothers and sisters differ.
 - Science (open): How genes work together to build the exact shape of a nose or a leaf is still being worked out.

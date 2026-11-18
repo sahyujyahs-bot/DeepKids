@@ -3016,12 +3016,16 @@
    {
     "source": "Chandogya Upanishad 4.3",
     "teaching": "In this teaching, the wind, Vayu, is called the gatherer. When a fire goes out, it goes into the wind. When the Sun sets, it goes into the wind. Within the body, the breath, prana, is the gatherer in the same way.",
-    "link": "Wind does carry things from many places together. The air over the whole Earth is one body of air, and the wind carries warmth, water vapour, smoke and seeds from one place to another."
+    "link": "Wind does carry things from many places together. The air over the whole Earth is one body of air, and the wind carries warmth, water vapour, smoke and seeds from one place to another.",
+    "verse": ["वायुर्वाव संवर्गः", "यदा वा अग्निरुद्वायति वायुमेवाप्येति", "यदा सूर्योऽस्तमेति वायुमेवाप्येति", "यदा चन्द्रोऽस्तमेति वायुमेवाप्येति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 5",
     "teaching": "The space between heaven and earth is like a bellows. It is empty, yet it never runs out. The more it moves, the more it brings forth.",
-    "link": "A bellows draws air in when its sides open and make room. In the same way, wind flows in wherever warm air has risen and made room."
+    "link": "A bellows draws air in when its sides open and make room. In the same way, wind flows in wherever warm air has risen and made room.",
+    "verse": ["天地之間，其猶橐籥乎？虛而不屈，動而愈出。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

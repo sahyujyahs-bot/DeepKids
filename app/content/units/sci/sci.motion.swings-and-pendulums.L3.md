@@ -120,7 +120,7 @@ We have learned that a pendulum's beat is set by its length, and how clocks coun
 
 A pendulum at rest hangs straight down. Pull it to one side and let go, and it swings across to the other side and back. Every swing to the left is matched by a swing to the right, around the middle where it rests. So a weight that was hanging still gives a beat that repeats again and again. People counted that beat and turned it into hours, days and calendars that the whole world shares.
 
-- **Tao Te Ching 40:** Returning is the movement of the Tao. (A pendulum always turns back towards its middle. Its whole movement is made of going out and returning.)
+- **Tao Te Ching 40:** “反者道之動。” Returning is the movement of the Tao. (A pendulum always turns back towards its middle. Its whole movement is made of going out and returning.)
 - **Bhagavad Gita 2.14:** “मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः। / आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।” Heat and cold, pleasure and pain, come and go. They do not last. Bear them patiently. (A swing goes up on one side and up on the other, but its resting point stays where it is. The swing changes all the time around a middle that does not move.)
 - Science (settled): Every clock counts a steady back-and-forth beat. A quartz watch counts a crystal that vibrates 32,768 times a second. The second itself is defined as 9,192,631,770 waves of a kind of light given out by caesium atoms.
 - Science (open): What time itself is, and whether it flows on its own, is still argued about by physicists and philosophers.

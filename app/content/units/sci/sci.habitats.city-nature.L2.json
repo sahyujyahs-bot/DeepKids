@@ -1941,12 +1941,16 @@
    {
     "source": "Purananuru 192, by the Tamil poet Kaniyan Pungundranar",
     "teaching": "Every town is our town. Everyone is our kin.",
-    "link": "The Tamil poet Kaniyan Pungundranar was speaking about people. Our street shows that the crow, the koel, the dog and the neem tree also call our town their home. They are our neighbours in it."
+    "link": "The Tamil poet Kaniyan Pungundranar was speaking about people. Our street shows that the crow, the koel, the dog and the neem tree also call our town their home. They are our neighbours in it.",
+    "verse": ["யாதும் ஊரே; யாவரும் கேளிர்"],
+    "verse_lang": "ta"
    },
    {
     "source": "Udana 6.4, the Buddhist story of the blind men and the elephant",
     "teaching": "Some men who cannot see each touch one part of an elephant. One feels the trunk, one the ear, one the leg. Each says the elephant is only what he touched, and they argue.",
-    "link": "A dog knows our street mostly by smell, a bat by echoes at night, a koel by sound, and you mostly by sight. Each being meets a different part of the same street."
+    "link": "A dog knows our street mostly by smell, a bat by echoes at night, a koel by sound, and you mostly by sight. Each being meets a different part of the same street.",
+    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

@@ -2357,12 +2357,16 @@
    {
     "source": "Zhuangzi, chapter 2 ('The Adjustment of Controversies', also called 'All Things Are Equal')",
     "teaching": "The Chinese thinker Zhuangzi describes the wind blowing through a great forest. The hollows in the trees are of every size and shape. When the wind blows, each hollow makes its own sound: some roar, some whistle, some hum.",
-    "link": "In the Bottle Hooter, the bottle hooted when you blew across it, and hooted higher when there was less air inside. A breath makes a different note in each different hollow."
+    "link": "In the Bottle Hooter, the bottle hooted when you blew across it, and hooted higher when there was less air inside. A breath makes a different note in each different hollow.",
+    "verse": ["夫大塊噫氣，其名爲風。是唯无作，作則萬竅怒呺。", "夫吹萬不同而使其自己也，咸其自取，怒者其誰邪？"],
+    "verse_lang": "zh"
    },
    {
     "source": "Natya Shastra, chapter 28 in most editions",
     "teaching": "The Natya Shastra, an old Indian book on drama, music and dance, sorts instruments into four kinds: stringed ones (tata), drums covered with skin (avanaddha), solid ones that are struck (ghana), and hollow ones that are blown (sushira).",
-    "link": "The tissue-box ektara is a tata instrument, and the bottle hooter is a sushira. The box drum is a drum too, but its cover is card, not skin. In each kind, a different part vibrates. It is a string, a skin, a solid body or the air."
+    "link": "The tissue-box ektara is a tata instrument, and the bottle hooter is a sushira. The box drum is a drum too, but its cover is card, not skin. In each kind, a different part vibrates. It is a string, a skin, a solid body or the air.",
+    "verse": ["ततं चैवावनद्धं च घनं सुषिरमेव च ।", "चतुर्विधं तु विज्ञेयमातोद्यं लक्षणान्वितम्", "ततं तन्त्रीकृतं ज्ञेयमवनद्धं तु पौष्करम् ।", "घनं तालस्तु विज्ञेयः सुषिरो वंश उच्यते"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

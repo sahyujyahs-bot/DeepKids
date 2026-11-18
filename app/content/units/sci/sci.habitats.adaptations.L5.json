@@ -3262,7 +3262,9 @@
       {
         "source": "Nagarjuna, Mulamadhyamakakarika 24.18 to 24.19 (about the 2nd century CE)",
         "teaching": "Nagarjuna taught that nothing has its nature all by itself. Whatever exists has arisen in dependence on other things.",
-        "link": "Nagarjuna was writing about all things, and he did not mention butterflies. A warning pattern is a small case that fits. Orange and black have no power by themselves. Their power comes from a poison in one body and a memory in another."
+        "link": "Nagarjuna was writing about all things, and he did not mention butterflies. A warning pattern is a small case that fits. Orange and black have no power by themselves. Their power comes from a poison in one body and a memory in another.",
+        "verse": ["यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे", "सा प्रज्ञप्तिरुपादाय प्रतिपत् सैव मध्यमा", "अप्रतीत्य समुत्पन्नो धर्मः कश्चिन् न विद्यते", "यस्मात् तस्मादशून्यो हि धर्मः कश्चिन् न विद्यते"],
+        "verse_lang": "sa"
       },
       {
         "source": "Charles Darwin, On the Origin of Species (1859), the last paragraph",

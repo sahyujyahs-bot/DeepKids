@@ -2264,17 +2264,23 @@
    {
     "source": "Nyaya Sutra 1.1.3, by Gautama (also called Akshapada)",
     "teaching": "There are four ways to know something truly: perception, inference (working something out from clues), comparison, and the word of someone we can trust. The Nyaya teachers' favourite example is smoke on a far hill: when you see it, you know there is fire, though you cannot see the flames.",
-    "link": "In the door test, you heard a sound and inferred what made it. Opening the door was perception. The Nyaya teachers would say you used two of their four ways, one to check the other."
+    "link": "In the door test, you heard a sound and inferred what made it. Opening the door was perception. The Nyaya teachers would say you used two of their four ways, one to check the other.",
+    "verse": ["प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि"],
+    "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi, chapter 2 (the butterfly dream)",
     "teaching": "Zhuangzi, a Chinese thinker, dreamed he was a butterfly, flying happily, not knowing he was Zhuangzi. When he woke, he wondered: was he a man who had dreamed of being a butterfly, or a butterfly now dreaming of being a man?",
-    "link": "Like Anju in the story The Anklet in the Dream, Zhuangzi felt the dream was real while he was in it. His question is the one the dream notebook asks: how do we tell a dream from waking?"
+    "link": "Like Anju in the story The Anklet in the Dream, Zhuangzi felt the dream was real while he was in it. His question is the one the dream notebook asks: how do we tell a dream from waking?",
+    "verse": ["昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。", "俄然覺，則蘧蘧然周也。", "不知周之夢爲胡蝶與？", "胡蝶之夢爲周與？"],
+    "verse_lang": "zh"
    },
    {
     "source": "Mandukya Upanishad, verses 3 to 7",
     "teaching": "The Upanishad describes states that awareness passes through: waking, dreaming, and deep sleep with no dreams. It speaks of a fourth, called turiya, which is aware of all three.",
-    "link": "Your dream notebook caught the dreaming state, and you woke into the waking one. The Upanishad treats them as two states that the same awareness passes through."
+    "link": "Your dream notebook caught the dreaming state, and you woke into the waking one. The Upanishad treats them as two states that the same awareness passes through.",
+    "verse": ["जागरितस्थानो बहिः प्रज्ञः सप्ताङ्गः एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः", "स्वप्नस्थानोऽन्तः प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः पादः", "यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत्सुषुप्तम्", "नान्तःप्रज्ञं न बहिःप्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम्", "अदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

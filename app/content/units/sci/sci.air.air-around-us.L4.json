@@ -383,12 +383,16 @@
    {
     "source": "Rig Veda 10.168, the hymn to Vata, the wind",
     "teaching": "Hymn 10.168 of the Rig Veda says that the sound of the wind is heard but its form is not seen, and it calls the wind the self, or breath, of the gods (verse 4, as paraphrased).",
-    "link": "We cannot see air, but we know it by what it does. It holds a card on a glass of water and lifts a drink up a straw."
+    "link": "We cannot see air, but we know it by what it does. It holds a card on a glass of water and lifts a drink up a straw.",
+    "verse": ["आत्मा देवानां भुवनस्य गर्भो यथावशं चरति देव एषः ।", "घोषा इदस्य शृण्विरे न रूपं तस्मै वाताय हविषा विधेम"],
+    "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, fragment B51 (Diels and Kranz numbering), ancient Greece, about 500 BCE",
     "teaching": "Heraclitus said that things hold together by pulling against each other in opposite directions, like the string and the wood of a bow or a lyre.",
-    "link": "The card holds because the water pushes down and the air pushes up. The balance of two opposite pushes keeps it still."
+    "link": "The card holds because the water pushes down and the air pushes up. The balance of two opposite pushes keeps it still.",
+    "verse": ["οὐ ξυνιᾶσιν ὅκως διαφερόμενον ἑωυτῷ συμφέρεται· παλίντονος ἁρμονίη ὅκωσπερ τόξου καὶ λύρης"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

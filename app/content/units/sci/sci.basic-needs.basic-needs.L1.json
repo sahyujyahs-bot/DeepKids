@@ -1662,12 +1662,16 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "We cut out doors and windows to make a room. It is the empty space inside that makes the room useful.",
-    "link": "In the wind box, the box gave the tissue flag a calm space. The walls and the door were useful because of the space they made inside."
+    "link": "In the wind box, the box gave the tissue flag a calm space. The walls and the door were useful because of the space they made inside.",
+    "verse": ["鑿戶牖以為室，當其無，有室之用。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Taittiriya Upanishad 3.2",
     "teaching": "Food is the source of life. From food beings are born, by food they live, and into food they go back.",
-    "link": "We need food again and again, because our body keeps using it to live and grow."
+    "link": "We need food again and again, because our body keeps using it to live and grow.",
+    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thirukkural 11",

@@ -460,17 +460,23 @@
    {
     "source": "Taittiriya Upanishad 2.2",
     "teaching": "The text says that creatures are born from food, live by food and return into food. In this teaching, a body is food made into a living being for a while.",
-    "link": "The fat in a camel's hump began as sunlight. Plants stored the Sun's energy, the camel ate the plants, and her body kept the energy as fat for a hard time. Her body is built from food, and her fat is food kept for later."
+    "link": "The fat in a camel's hump began as sunlight. Plants stored the Sun's energy, the camel ate the plants, and her body kept the energy as fat for a hard time. Her body is built from food, and her fat is food kept for later.",
+    "verse": ["अन्नाद्वै प्रजाः प्रजायन्ते", "याः काश्च पृथिवीँ श्रिताः", "अथो अन्नेनैव जीवन्ति", "अथैनदपि यन्त्यन्ततः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi (Chuang Tzu), chapter 17, 'Autumn Floods'",
     "teaching": "The Chinese teacher Zhuangzi said that every creature and tool has a use and a limit. A battering ram can break a city gate but cannot plug a small hole. A fine racehorse is poor at catching rats, and a cat is good at it. An owl sees a hair at night but not a mountain by day.",
-    "link": "A wide pad is good on sand and poor on clay. A soft octopus is good in a crack and poor on a long swim. No body is the best at everything."
+    "link": "A wide pad is good on sand and poor on clay. A soft octopus is good in a crack and poor on a long swim. No body is the best at everything.",
+    "verse": ["梁麗可以衝城，而不可以窒穴，言殊器也。", "騏驥驊騮，一日而馳千里，捕鼠不如狸狌，言殊技也。", "鴟夜撮蚤，察豪末，晝出，瞋目而不見丘山，言殊性也。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Udana 6.4 (the story of the blind men and the elephant, in the Pali scriptures)",
     "teaching": "Blind men each touched a different part of an elephant and each told a different story, so that they quarrelled. Each was right about the part and wrong about the whole. The Jains call this many-sidedness, anekantavada.",
-    "link": "An octopus's arm tastes a stone, a woodpecker's tongue finds insects hidden in wood, and a camel's foot feels the sand. Each animal learns about the world through her own body, so each one knows only one side of it, just as each blind man knew only one part of the elephant."
+    "link": "An octopus's arm tastes a stone, a woodpecker's tongue finds insects hidden in wood, and a camel's foot feels the sand. Each animal learns about the world through her own body, so each one knows only one side of it, just as each blind man knew only one part of the elephant.",
+    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

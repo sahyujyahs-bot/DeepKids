@@ -3758,7 +3758,9 @@
    {
     "source": "Tao Te Ching 25",
     "teaching": "People follow the ways of the Earth. The Earth follows the ways of Heaven. Heaven follows the Tao, the Way. The Way follows what is natural.",
-    "link": "Biomimicry is people learning from the ways of the Earth, quite literally: an engineer watching a kingfisher to learn how to build a train."
+    "link": "Biomimicry is people learning from the ways of the Earth, quite literally: an engineer watching a kingfisher to learn how to build a train.",
+    "verse": ["人法地，地法天，天法道，道法自然。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing'",

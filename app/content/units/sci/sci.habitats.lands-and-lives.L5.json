@@ -3924,12 +3924,16 @@
    {
     "source": "Tolkappiyam, Porulatikaram, the chapter Akattinaiyiyal (Tamil, about 2,000 years old, though scholars disagree on the exact date)",
     "teaching": "The Tolkappiyam divides the Tamil country into five landscapes: hills, forest, farmland, seashore and dry land. Each landscape has its own flower, tree, animals, work and way of life. The hills are named kurinji, after the flower that blooms there.",
-    "link": "This is close to the idea of an ecological region. The poets saw that the land, the living beings and the people's lives go together. They used it to write poems, and scientists use it to plan protected areas."
+    "link": "This is close to the idea of an ecological region. The poets saw that the land, the living beings and the people's lives go together. They used it to write poems, and scientists use it to plan protected areas.",
+    "verse": ["மாயோன் மேய காடுறை உலகமுஞ்", "சேயோன் மேய மைவரை உலகமும்", "வேந்தன் மேய தீம்புனல் உலகமும்", "வருணன் மேய பெருமணல் உலகமும்", "முல்லை குறிஞ்சி மருத நெய்தலெனச்", "சொல்லிய முறையாற் சொல்லவும் படுமே."],
+    "verse_lang": "ta"
    },
    {
     "source": "Udana 6.4, the Buddha's story of the blind men and the elephant",
     "teaching": "Several men who had been blind from birth each touched one part of an elephant. One said an elephant is like a pot, another like a pillar, another like a broom. Each was sure, and they quarrelled.",
-    "link": "The Buddha told this story about people who argue over what is true. It fits this unit in one small way. The knowledge of one land is true for the part of the world that tested it. It goes wrong when people use it to describe every land."
+    "link": "The Buddha told this story about people who argue over what is true. It fits this unit in one small way. The knowledge of one land is true for the part of the world that tested it. It goes wrong when people use it to describe every land.",
+    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi thūṇo.", "ediso, deva, hatthī seyyathāpi sammajjanī."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

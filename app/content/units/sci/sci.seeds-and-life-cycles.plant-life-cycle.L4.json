@@ -3895,12 +3895,16 @@
    {
     "source": "Purananuru 192, a Tamil poem by Kaniyan Pungundranar from the Sangam age",
     "teaching": "Every town is our town. Everyone is our kin.",
-    "link": "Fruit in one bag act like kin. What one fruit does for itself spreads to all the rest."
+    "link": "Fruit in one bag act like kin. What one fruit does for itself spreads to all the rest.",
+    "verse": ["யாதும் ஊரே; யாவரும் கேளிர்"],
+    "verse_lang": "ta"
    },
    {
     "source": "Tao Te Ching 16",
     "teaching": "All things grow and flower, and each returns to its root. Returning to the root is stillness.",
-    "link": "A plant flowers, makes seeds, yellows and falls. What was in the leaves goes into the seeds and back to the soil. The ending carries on into the next beginning."
+    "link": "A plant flowers, makes seeds, yellows and falls. What was in the leaves goes into the seeds and back to the soil. The ending carries on into the next beginning.",
+    "verse": ["夫物芸芸，各復歸其根。", "歸根曰靜，是謂復命。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

@@ -1696,7 +1696,9 @@
    {
     "source": "Aristotle, Nicomachean Ethics, Book II, chapter 1",
     "teaching": "We become builders by building, and lyre players by playing the lyre, a small harp.",
-    "link": "Nobody is born a good thrower or a kolam artist. We become one by doing it again and again."
+    "link": "Nobody is born a good thrower or a kolam artist. We become one by doing it again and again.",
+    "verse": ["ἃ γὰρ δεῖ μαθόντας ποιεῖν, ταῦτα ποιοῦντες μανθάνομεν, οἷον οἰκοδομοῦντες οἰκοδόμοι γίνονται καὶ κιθαρίζοντες κιθαρισταί·"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

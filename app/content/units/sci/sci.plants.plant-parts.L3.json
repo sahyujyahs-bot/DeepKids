@@ -3968,12 +3968,16 @@
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son to split open a banyan seed. 'What do you see inside?' 'Nothing.' Yet a great banyan tree grows from that seed, from something too small to see.",
-    "link": "Inside a seed you cannot see a root, a stem or a leaf. Yet all of them grow from the seed, each with its own shape."
+    "link": "Inside a seed you cannot see a root, a stem or a leaf. Yet all of them grow from the seed, each with its own shape.",
+    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4, a Buddhist text. Jain teachers tell the same story to explain anekantavada, many-sidedness",
     "teaching": "Blind men each touch one part of an elephant. One feels an ear and says an elephant is like a winnowing basket, a soop. Another feels a leg and says an elephant is like a pillar. Each is partly right, and each is wrong about the whole.",
-    "link": "One clue can fool us. Underground and fat makes a potato seem like a root. Botanists look at many clues together, like buds, rings and what the part grows from."
+    "link": "One clue can fool us. Underground and fat makes a potato seem like a root. Botanists look at many clues together, like buds, rings and what the part grows from.",
+    "verse": ["ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    },
    {
     "source": "Johann Wolfgang von Goethe, The Metamorphosis of Plants (1790)",

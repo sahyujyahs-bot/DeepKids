@@ -187,7 +187,7 @@ We have bounced bags in the Bounce Time test, shaken bands in the Favourite Beat
 
 A swing, a band, a watch, a bond between two atoms and the whole Sun all behave as springs with a natural beat. They are very different things, and one rule describes all of them. Atoms hold on to each other with the electric force. When atoms are pushed closer together or pulled apart, that force pulls them back, and this is what makes anything springy. Whether there is a still deeper layer, such as tiny vibrating strings, is an idea that nobody has yet been able to test.
 
-- **Ecclesiastes 3:1:** To everything there is a season, and a time for every purpose under heaven. (A push builds a swing only at the right moment. The same push at another moment adds nothing.)
+- **Ecclesiastes 3:1:** “לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם” To everything there is a season, and a time for every purpose under heaven. (A push builds a swing only at the right moment. The same push at another moment adds nothing.)
 - **Bhagavad Gita 2.50:** “बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते। / तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्।।” Yoga is skill in action. (A parent who pushes a swing well does not push harder. She pushes at the right moment, and the swing does the rest.)
 - Science (settled): Every springy thing has a natural beat set by its stiffness and its load, and pushes at that beat build a large movement. This is resonance.
 - Science (idea): Whether the smallest particles are tiny vibrating strings is an idea that has not been tested.

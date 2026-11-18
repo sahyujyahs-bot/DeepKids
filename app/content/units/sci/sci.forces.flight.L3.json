@@ -3761,17 +3761,23 @@
    {
     "source": "Zhuangzi, chapter 1",
     "teaching": "A giant bird called Peng can rise thousands of miles high, but only when the wind beneath them is deep enough. Without enough wind, great wings cannot be held up.",
-    "link": "Zhuangzi saw that a bigger bird needs more air beneath them. The Seed Spinners test showed the same thing. The heavier a flyer is, the more air its wings must push down."
+    "link": "Zhuangzi saw that a bigger bird needs more air beneath them. The Seed Spinners test showed the same thing. The heavier a flyer is, the more air its wings must push down.",
+    "verse": ["風之積也不厚，則其負大翼也无力。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Brihadaranyaka Upanishad 3.7.2",
     "teaching": "The sage Yajnavalkya says air is the thread. All beings and all worlds are strung together on it, like beads.",
-    "link": "The air you breathe is the same air that lifts kites and carries seeds across fields."
+    "link": "The air you breathe is the same air that lifts kites and carries seeds across fields.",
+    "verse": ["वायुर्वै गौतम तत्सूत्रम्", "वायुना वै गौतम सूत्रेणायं च लोकः परश्च लोकः सर्वाणि च भूतानि संदृब्धानि भवन्ति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4, the blind men and the elephant",
     "teaching": "Blind men each touch one part of an elephant. One feels a tail, one a leg, one a trunk. Each is sure he knows the whole.",
-    "link": "Scientists agree on what lift does, but still argue about the best simple way to explain it. Each explanation sees a part."
+    "link": "Scientists agree on what lift does, but still argue about the best simple way to explain it. Each explanation sees a part.",
+    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

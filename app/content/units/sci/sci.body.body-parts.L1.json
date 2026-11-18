@@ -2096,7 +2096,9 @@
    {
     "source": "Udana 6.4, a Buddhist text (the blind men and the elephant)",
     "teaching": "Some men who could not see each touched one part of an elephant. The one who touched the trunk said an elephant is like a plough's pole. The one who touched a leg said an elephant is like a pillar. Each was sure he was right, and they began to quarrel.",
-    "link": "Each man knew one part, but the elephant was all the parts together. To know a body, we look at the parts and also at how they work together."
+    "link": "Each man knew one part, but the elephant was all the parts together. To know a body, we look at the parts and also at how they work together.",
+    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

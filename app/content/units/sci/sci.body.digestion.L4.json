@@ -3017,12 +3017,16 @@
    {
     "source": "Chandogya Upanishad 6.5.1",
     "teaching": "Uddalaka tells his son Shvetaketu that food, when eaten, divides into three. The coarsest part becomes faeces, the middle part becomes flesh, and the finest part becomes mind.",
-    "link": "This is an old account of the same journey: part of a meal leaves, and part becomes the body. Today we would say that what is absorbed also feeds the brain. The text's 'three parts' are a teaching, and not a measurement."
+    "link": "This is an old account of the same journey: part of a meal leaves, and part becomes the body. Today we would say that what is absorbed also feeds the brain. The text's 'three parts' are a teaching, and not a measurement.",
+    "verse": ["अन्नमशितं त्रेधा विधीयते", "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति", "यो मध्यमस्तन्मांसम्", "योऽणिष्ठस्तन्मनः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Taittiriya Upanishad 3.10.6",
     "teaching": "The verse ends in a song: 'I am food, I am food, I am food. I am the eater of food.'",
-    "link": "Everything you digest was alive, and your own body will feed other living things one day. The verse says in a song what a food chain says in a diagram. The Upanishad means it as an insight about the self, which science does not test."
+    "link": "Everything you digest was alive, and your own body will feed other living things one day. The verse says in a song what a food chain says in a diagram. The Upanishad means it as an insight about the self, which science does not test.",
+    "verse": ["अहमन्नमहमन्नमहमन्नम्", "अहमन्नादो३ऽहमन्नादो३ऽअहमन्नादः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thich Nhat Hanh, 'interbeing', in The Heart of Understanding (1988)",

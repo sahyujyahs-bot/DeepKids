@@ -2129,17 +2129,23 @@
    {
     "source": "Mandukya Upanishad, verses 3 to 7",
     "teaching": "This Upanishad describes three states: waking, when we are aware of the world outside; dreaming, when we are aware of a world inside; and deep sleep, when we are aware of almost nothing. It names a fourth state, turiya: the awareness that is there through all three.",
-    "link": "In this unit you sorted moments into awake, dreaming and deep sleep. Sleep scientists also find that awareness changes through a night."
+    "link": "In this unit you sorted moments into awake, dreaming and deep sleep. Sleep scientists also find that awareness changes through a night.",
+    "verse": ["जागरितस्थानो बहिः प्रज्ञः सप्ताङ्गः एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः", "स्वप्नस्थानोऽन्तः प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः पादः", "यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत्सुषुप्तम्", "नान्तःप्रज्ञं न बहिःप्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम्", "अदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते"],
+    "verse_lang": "sa"
    },
    {
     "source": "Satipatthana Sutta, the Buddha's teaching on mindfulness (Majjhima Nikaya 10)",
     "teaching": "The Buddha taught: when walking, know that you are walking. When breathing in, know that you are breathing in.",
-    "link": "This is attention on purpose. It is what you did in the still round of the sound test, when you noticed sounds you had been missing."
+    "link": "This is attention on purpose. It is what you did in the still round of the sound test, when you noticed sounds you had been missing.",
+    "verse": ["Puna caparaṁ, bhikkhave, bhikkhu gacchanto vā gacchāmī pajānāti, ṭhito vā ṭhitomhī pajānāti, nisinno vā nisinnomhī pajānāti, sayāno vā sayānomhī pajānāti.", "Dīghaṁ vā assasanto dīghaṁ assasāmī pajānāti, dīghaṁ vā passasanto dīghaṁ passasāmī pajānāti,"],
+    "verse_lang": "pi"
    },
    {
     "source": "Zhuangzi, chapter 2",
     "teaching": "The Chinese thinker Zhuangzi dreamt he was a butterfly, happily flying about. When he woke, he wondered: was he Zhuangzi who had dreamt of being a butterfly, or a butterfly now dreaming of being Zhuangzi?",
-    "link": "A dream feels real while you are in it. Only you have your experience, so it is hard for anyone else to check what it was like."
+    "link": "A dream feels real while you are in it. Only you have your experience, so it is hard for anyone else to check what it was like.",
+    "verse": ["昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。", "俄然覺，則蘧蘧然周也。", "不知周之夢爲胡蝶與？", "胡蝶之夢爲周與？"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

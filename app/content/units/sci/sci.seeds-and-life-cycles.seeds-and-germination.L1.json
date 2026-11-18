@@ -1977,12 +1977,16 @@
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a banyan fruit, and then one of its tiny seeds. Shvetaketu says he sees nothing inside. Uddalaka says the great banyan tree grows from that very fine thing which he cannot see.",
-    "link": "In Peek Under the Soil, the chana showed nothing on top for days, yet a whole root was growing. A big plant starts from something too small, or too hidden, to see."
+    "link": "In Peek Under the Soil, the chana showed nothing on top for days, yet a whole root was growing. A big plant starts from something too small, or too hidden, to see.",
+    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 64",
     "teaching": "A tree as wide as your arms can reach grows from a tiny shoot. A journey of a thousand miles begins with one step.",
-    "link": "Every big tree began as one small seed growing one small root. The teaching says that every big thing begins with something very small. A big tree is a small seed that kept growing."
+    "link": "Every big tree began as one small seed growing one small root. The teaching says that every big thing begins with something very small. A big tree is a small seed that kept growing.",
+    "verse": ["合抱之木，生於毫末。", "千里之行，始於足下。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

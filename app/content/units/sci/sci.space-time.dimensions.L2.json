@@ -2137,12 +2137,16 @@
    {
     "source": "Plato, the Republic, Book 7: the story of the cave",
     "teaching": "Plato told of prisoners chained in a cave, facing a wall. All their lives they see only flat shadows of things moving behind them. They think the shadows are the real things.",
-    "link": "Pulli sees only lines and slices of our solid world, and takes them for everything there is. Plato asked whether we too might see only part of what is real."
+    "link": "Pulli sees only lines and slices of our solid world, and takes them for everything there is. Plato asked whether we too might see only part of what is real.",
+    "verse": ["ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει", "εἰ οὖν διαλέγεσθαι οἷοί τ’ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν;", "οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς."],
+    "verse_lang": "grc"
    },
    {
     "source": "Jain teaching of anekantavada, many-sidedness, and the story of the blind men and the elephant (also told in the Buddhist Udana, 6.4)",
     "teaching": "Each blind man touches one part of an elephant: a leg, an ear, the trunk. Each says the elephant is like a pillar, a fan or a snake. Each is partly right, and none knows the whole.",
-    "link": "In the slice and trace test, each slice showed one true flat shape of the potato, but no single slice showed the whole potato. To know the solid, you need all the slices together."
+    "link": "In the slice and trace test, each slice showed one true flat shape of the potato, but no single slice showed the whole potato. To know the solid, you need all the slices together.",
+    "verse": ["ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

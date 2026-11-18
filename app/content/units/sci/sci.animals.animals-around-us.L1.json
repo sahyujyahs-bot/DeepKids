@@ -1894,7 +1894,9 @@
    {
     "source": "Zhuangzi, chapter 2 (Discussion on Making All Things Equal)",
     "teaching": "Zhuangzi, a Chinese thinker, wrote that people eat the meat of farm animals, deer eat grass, centipedes eat snakes, and owls and crows eat mice. Then he asked: which of them knows the right taste?",
-    "link": "The animals in our home show the same thing. Each animal eats a different food, and each mouth fits their own food. No one food is right for everyone."
+    "link": "The animals in our home show the same thing. Each animal eats a different food, and each mouth fits their own food. No one food is right for everyone.",
+    "verse": ["民食芻豢，麋鹿食薦，蝍蛆甘帶，鴟鴉嗜鼠，四者孰知正味？"],
+    "verse_lang": "zh"
    },
    {
     "source": "Thirukkural 322, by Thiruvalluvar",

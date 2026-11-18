@@ -2943,12 +2943,16 @@
    {
     "source": "Udana 6.4, a Buddhist text",
     "teaching": "Some blind men each touch one part of an elephant. One says an elephant is like a pot, another like a pillar, another like a broom. Each is sure, and they quarrel.",
-    "link": "In 1836 Edward Hitchcock studied three-toed footprints in rock and said giant birds made them. Later scientists said dinosaurs made them. Each side held part of the truth, like the men with the elephant. The three-toed feet belong to dinosaurs, and birds are a kind of dinosaur."
+    "link": "In 1836 Edward Hitchcock studied three-toed footprints in rock and said giant birds made them. Later scientists said dinosaurs made them. Each side held part of the truth, like the men with the elephant. The three-toed feet belong to dinosaurs, and birds are a kind of dinosaur.",
+    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi thūṇo.", "ediso, deva, hatthī seyyathāpi sammajjanī."],
+    "verse_lang": "pi"
    },
    {
     "source": "Heraclitus, as quoted by Plato in Cratylus 402a",
     "teaching": "Everything moves and nothing stays still. You cannot step twice into the same river.",
-    "link": "A kind of animal is like a river, which never stands still. The finches of Daphne Major had deeper beaks after one drought. The name 'finch' stayed the same, but the birds had changed."
+    "link": "A kind of animal is like a river, which never stands still. The finches of Daphne Major had deeper beaks after one drought. The name 'finch' stayed the same, but the birds had changed.",
+    "verse": ["πάντα χωρεῖ καὶ οὐδὲν μένει,", "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse_lang": "grc"
    },
    {
     "source": "Charles Darwin, On the Origin of Species (1859), the last sentence",

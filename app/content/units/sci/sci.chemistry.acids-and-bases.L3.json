@@ -2752,12 +2752,16 @@
    {
     "source": "Charaka Samhita, Sutrasthana 26",
     "teaching": "In this chapter of the old Ayurveda book called the Charaka Samhita, sages argue about how many tastes there are. They agree on six: sweet, sour, salty, pungent, bitter and astringent. The Sanskrit word for sour is amla.",
-    "link": "Long before chemistry, people knew that sour was a taste of its own. The Latin word acidus also means sour, and that is where the word acid comes from. Bases often taste bitter, and bitter is another of the six tastes. So people were using their tongues as a simple tester for acids long before indicators were found."
+    "link": "Long before chemistry, people knew that sour was a taste of its own. The Latin word acidus also means sour, and that is where the word acid comes from. Bases often taste bitter, and bitter is another of the six tastes. So people were using their tongues as a simple tester for acids long before indicators were found.",
+    "verse": ["षडेव रसा इत्युवाच भगवानात्रेयः पुनर्वसुः मधुराम्ललवणकटुतिक्तकषायाः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, a Greek thinker of about 500 BCE, fragment 60 (Diels-Kranz numbering)",
     "teaching": "The road up and the road down are one and the same road.",
-    "link": "Spoons of lemon move cabbage water towards pink. Spoons of soda move it towards green. It is the same line, travelled in two directions."
+    "link": "Spoons of lemon move cabbage water towards pink. Spoons of soda move it towards green. It is the same line, travelled in two directions.",
+    "verse": ["ὁδὸς ἄνω κάτω μία καὶ ωὑτή"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

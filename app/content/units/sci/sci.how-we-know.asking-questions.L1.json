@@ -1804,12 +1804,16 @@
    {
     "source": "The blind men and the elephant, told in Jain teaching and in the Buddhist Udana 6.4",
     "teaching": "Some men cannot see. Each of them touches one part of an elephant. One feels the trunk and says an elephant is like a snake. One feels a leg and says an elephant is like a pillar. Each one is partly right, and none of them knows the whole elephant.",
-    "link": "In the Mystery Dabbas experiment, your ears gave one clue, your hands another, and your nose may have given none. Putting the clues together came closest to the whole answer."
+    "link": "In the Mystery Dabbas experiment, your ears gave one clue, your hands another, and your nose may have given none. Putting the clues together came closest to the whole answer.",
+    "verse": ["ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    },
    {
     "source": "Kena Upanishad 1.2",
     "teaching": "The Upanishad asks: what is it that is the ear of the ear and the eye of the eye? Something in you hears through your ears and sees through your eyes.",
-    "link": "Your ears heard the shhh, but something in you put the clues together and said 'rice'. The Upanishad asks you to wonder about that part of you that knows."
+    "link": "Your ears heard the shhh, but something in you put the clues together and said 'rice'. The Upanishad asks you to wonder about that part of you that knows.",
+    "verse": ["श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं", "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

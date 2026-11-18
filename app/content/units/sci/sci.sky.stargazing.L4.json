@@ -449,12 +449,16 @@
    {
     "source": "Rig Veda 1.164.46",
     "teaching": "Truth is one. The wise speak of it in many ways.",
-    "link": "Two eyes, or two points in the Earth's orbit, see one star in slightly different places. Putting the views together gives the one distance."
+    "link": "Two eyes, or two points in the Earth's orbit, see one star in slightly different places. Putting the views together gives the one distance.",
+    "verse": ["इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् ।", "एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4 (the story of the blind men and the elephant)",
     "teaching": "Blind men each touched a different part of an elephant. One said it was like a pot, one like a fan, one like a plough. They began to quarrel, each sure that the others were wrong.",
-    "link": "Each view was true of one part. The Jump of Your Thumb experiment shows that the difference between two views is useful, and that the whole picture is built from several views."
+    "link": "Each view was true of one part. The Jump of Your Thumb experiment shows that the difference between two views is useful, and that the whole picture is built from several views.",
+    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo."],
+    "verse_lang": "pi"
    },
    {
     "source": "Tirukkural 423",

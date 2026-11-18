@@ -168,9 +168,9 @@ In Hidden Hills we mapped a landscape we could not see. In Three Distances we fo
 
 In Hidden Hills, one poke of the stick through a hole gives one number about one place. Many pokes make a pattern, and the mind fills the space between them with a shape. When a new poke does not fit the shape, the shape changes. A child learns a room this way, a scientist learns the sea floor this way, and anyone learns anything this way. What we know is real, but it is never finished.
 
-- **Udana 6.4, the story of the blind men and the elephant:** Blind men each touched a different part of an elephant. One felt the leg and said it was a pillar. One felt the tail and said it was a rope. Each was sure of the whole. (Each push of the stick through a hole in the Hidden Hills box touches only one part of the hidden land. A map is what you get when many touches are put together with care.)
-- **Tao Te Ching 1:** The way that can be told is not the eternal way. The name that can be named is not the eternal name. (A map is a kind of name for a place. It is useful, but it is not the place.)
-- **Rig Veda 10.129, the hymn of creation:** The hymn asks how the world began, and ends by saying that perhaps only the one who watches from the highest heaven knows, or perhaps not even that one. (The hymn is honest about where knowing stops. A good map is honest too, and marks the blank places.)
+- **Udana 6.4, the story of the blind men and the elephant:** “ediso, deva, hatthī seyyathāpi thūṇo.” Blind men each touched a different part of an elephant. One felt the leg and said it was a pillar. One felt the tail and said it was a rope. Each was sure of the whole. (Each push of the stick through a hole in the Hidden Hills box touches only one part of the hidden land. A map is what you get when many touches are put together with care.)
+- **Tao Te Ching 1:** “道可道，非常道，名可名，非常名。” The way that can be told is not the eternal way. The name that can be named is not the eternal name. (A map is a kind of name for a place. It is useful, but it is not the place.)
+- **Rig Veda 10.129, the hymn of creation:** “इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न। / यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद” The hymn asks how the world began, and ends by saying that perhaps only the one who watches from the highest heaven knows, or perhaps not even that one. (The hymn is honest about where knowing stops. A good map is honest too, and marks the blank places.)
 - Science (settled): A flat map of the round Earth must stretch or squeeze something, as Gauss proved in 1827.
 - Science (open): Less than a third of the sea floor has been mapped in fine detail, and what lies in the rest is unknown.
 - Other view, Some mapmakers and mathematicians: Filling the gaps between measurements is not guessing. It is a calculation, with a size of error that can be worked out. A good map says how sure it is. Calling it a guess makes careful work sound careless.
@@ -767,7 +767,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 ## Videos
 - **How GPS works? Trilateration explained** (unfa🇺🇦, 6 min) id `4O3ZVHVFhes`: To see how three distances meet at one point and why a fourth satellite is used. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **The Scientist Who Mapped the Seafloor: Marie Tharp | Great Minds** (SciShow, 5 min) id `-mOjsn5UrWM`: To hear the story of how a mapmaker drew the sea floor from lines of soundings and found a valley. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
-- **How to read contour lines on a map** (to be found, 4 min) id `to find`: To see how rings on a map turn into a hill, with steep and gentle sides. *Check:* Not yet found. Find one, watch it, and check that it shows close lines as steep and wide lines as gentle.
+- **How to read contour lines on a map** (to be found, 4 min) id `CoVcRxza8nI`: To see how rings on a map turn into a hill, with steep and gentle sides. *Check:* Found by YouTube search: "How to Read a Topo Map by REI". Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) On a map, 1 centimetre stands for 100 metres. A route measures 3.5 centimetres. How long is the route?  

@@ -2039,17 +2039,23 @@
    {
     "source": "Tao Te Ching, chapter 11",
     "teaching": "Thirty spokes meet at the hub of a wheel, and the empty centre makes the wheel useful. A clay pot is useful because of the empty space inside. Doors and windows are useful because they are openings.",
-    "link": "In the space hunt, the empty space inside the bottle and the tiffin box is what makes them useful. Space between things is not nothing. It is what lets us use and move things."
+    "link": "In the space hunt, the empty space inside the bottle and the tiffin box is what makes them useful. Space between things is not nothing. It is what lets us use and move things.",
+    "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。", "鑿戶牖以為室，當其無，有室之用。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Jain thought, the Tattvartha Sutra, chapter 5",
     "teaching": "Jain thinkers taught that space, called akasha, gives room to everything. They said the part of space where things live has an edge, and that beyond it lies empty space that goes on without end.",
-    "link": "Jain thinkers asked the question you asked at the Mirror Tunnel: does space go on for ever? Their answer was that the world has an edge, but space itself does not."
+    "link": "Jain thinkers asked the question you asked at the Mirror Tunnel: does space go on for ever? Their answer was that the world has an edge, but space itself does not.",
+    "verse": ["आकाशस्यावगाहः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta",
     "teaching": "The hymn asks how the world began, and ends by asking whether anyone really knows, perhaps not even the one who watches from the highest heaven.",
-    "link": "Scientists today still cannot say whether space goes on for ever. Saying honestly 'nobody knows yet' is part of science."
+    "link": "Scientists today still cannot say whether space goes on for ever. Saying honestly 'nobody knows yet' is part of science.",
+    "verse": ["इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

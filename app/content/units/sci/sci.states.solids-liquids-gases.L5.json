@@ -448,7 +448,9 @@
       {
         "source": "Chandogya Upanishad 4.3.1 to 4.3.2, the teaching of Raikva",
         "teaching": "Raikva calls air the one that takes everything in. He says that when a fire goes out, the fire goes into the air. He says that when water dries up, the water goes into the air.",
-        "link": "This matches what the science finds for these two cases. Water that dries up does go into the air, as water vapour. What a fire makes also goes into the air, as carbon dioxide and water vapour."
+        "link": "This matches what the science finds for these two cases. Water that dries up does go into the air, as water vapour. What a fire makes also goes into the air, as carbon dioxide and water vapour.",
+        "verse": ["वायुर्वाव संवर्गः", "यदा वा अग्निरुद्वायति वायुमेवाप्येति", "यदा सूर्योऽस्तमेति वायुमेवाप्येति", "यदाप उच्छुष्यन्ति वायुमेवापियन्ति", "वायुर्ह्येवैतान्सर्वान्संवृङ्क्ते"],
+        "verse_lang": "sa"
       },
       {
         "source": "Anaximenes of Miletus, about 550 BCE, as reported by later Greek writers",
@@ -458,7 +460,9 @@
       {
         "source": "Brihadaranyaka Upanishad 3.7.2, Yajnavalkya answering Uddalaka",
         "teaching": "Yajnavalkya says that air is the thread. By air, as by a thread, this world and all beings are strung together.",
-        "link": "The science does not prove this teaching. It does show one plain thing: every breathing being takes from, and gives to, the same mixed air."
+        "link": "The science does not prove this teaching. It does show one plain thing: every breathing being takes from, and gives to, the same mixed air.",
+        "verse": ["वायुर्वै गौतम तत्सूत्रम्", "वायुना वै गौतम सूत्रेणायं च लोकः परश्च लोकः सर्वाणि च भूतानि संदृब्धानि भवन्ति"],
+        "verse_lang": "sa"
       }
     ],
     "science": [

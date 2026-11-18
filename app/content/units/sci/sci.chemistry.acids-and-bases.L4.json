@@ -464,17 +464,23 @@
    {
     "source": "Chandogya Upanishad 6.5.1",
     "teaching": "Uddalaka tells his son Shvetaketu that food we eat divides into three. The coarsest part leaves the body, the middle part becomes flesh, and the finest part becomes the mind.",
-    "link": "Digestion begins in the acid of the stomach. The acid and the enzymes cut food into pieces small enough to build a body. The dal and rice you eat are broken down and become part of you."
+    "link": "Digestion begins in the acid of the stomach. The acid and the enzymes cut food into pieces small enough to build a body. The dal and rice you eat are broken down and become part of you.",
+    "verse": ["अन्नमशितं त्रेधा विधीयते", "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति", "यो मध्यमस्तन्मांसम्", "योऽणिष्ठस्तन्मनः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Aristotle, Nicomachean Ethics, Book II, chapter 6",
     "teaching": "Aristotle taught that the right amount is a middle between too much and too little, and that the middle is different for different people. A trained wrestler needs more food than a beginner.",
-    "link": "The right pH is also a middle that depends on the place. Pepsin needs pH 2, and blood needs pH 7.4. The same number would be wrong in the other place."
+    "link": "The right pH is also a middle that depends on the place. Pepsin needs pH 2, and blood needs pH 7.4. The same number would be wrong in the other place.",
+    "verse": ["πρὸς ἡμᾶς δὲ ὃ μήτε πλεονάζει μήτε ἐλλείπει· τοῦτο δ’ οὐχ ἕν, οὐδὲ ταὐτὸν πᾶσιν.", "Μίλωνι μὲν γὰρ ὀλίγον, τῷ δὲ ἀρχομένῳ τῶν γυμνασίων πολύ."],
+    "verse_lang": "grc"
    },
    {
     "source": "Tao Te Ching 42",
     "teaching": "All things carry the dark and embrace the light, and by blending their breath they reach harmony.",
-    "link": "Acid and base are opposites, and pure water holds them in equal balance. The body uses both to stay in harmony."
+    "link": "Acid and base are opposites, and pure water holds them in equal balance. The body uses both to stay in harmony.",
+    "verse": ["萬物負陰而抱陽，沖氣以為和。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

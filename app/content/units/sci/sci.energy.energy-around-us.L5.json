@@ -3252,12 +3252,16 @@
    {
     "source": "Tao Te Ching, chapter 16",
     "teaching": "Reach the greatest emptiness and hold to stillness. Everything rises and moves, and everything returns to its root, which is stillness.",
-    "link": "A still table is quiet on the outside. Inside, its particles never stop shaking. Stillness is a balance of many small movements, and movement begins when the balance is broken."
+    "link": "A still table is quiet on the outside. Inside, its particles never stop shaking. Stillness is a balance of many small movements, and movement begins when the balance is broken.",
+    "verse": ["致虛極，守靜篤。", "萬物並作，吾以觀復。", "夫物芸芸，各復歸其根。歸根曰靜，是謂復命。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Taittiriya Upanishad 3.2",
     "teaching": "Beings are born from food. By food they live. When they die, they enter into food.",
-    "link": "An energy chain from rice to a rider's muscles to the heat of her body shows this. Plants store sunlight as food, and every body spends that food as movement and heat."
+    "link": "An energy chain from rice to a rider's muscles to the heat of her body shows this. Plants store sunlight as food, and every body spends that food as movement and heat.",
+    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

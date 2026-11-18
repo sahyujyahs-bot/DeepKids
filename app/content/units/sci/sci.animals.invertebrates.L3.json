@@ -4184,12 +4184,16 @@
    {
     "source": "Acaranga Sutra, Book 1, Lecture 2, Lesson 3 (a Jain scripture, in Hermann Jacobi's translation)",
     "teaching": "All beings are fond of life. They like pleasure and dislike pain. To all, life is dear. This is why Jain monks walk softly and sweep the ground ahead of them, so as not to step on tiny creatures.",
-    "link": "In this unit, crabs guarded hurt legs and an octopus stayed away from a place where they were hurt. The Jain teaching said long ago what these tests now show: small animals dislike pain."
+    "link": "In this unit, crabs guarded hurt legs and an octopus stayed away from a place where they were hurt. The Jain teaching said long ago what these tests now show: small animals dislike pain.",
+    "verse": ["सव्वे पाणा पियाउया", "सुह-साया दुक्ख-पडिकूला", "अप्पिय-वहा पिय-जीविणो जीविउ-कामा", "सव्वेसिं जीवियं पियं"],
+    "verse_lang": "pra"
    },
    {
     "source": "Zhuangzi, chapter 2, the butterfly dream (a Chinese Taoist book)",
     "teaching": "Zhuangzi dreamed he was a butterfly, happily flying about. When he woke up, he wondered: was he a man who had dreamed he was a butterfly, or a butterfly now dreaming he was a man?",
-    "link": "We can watch what an ant or a butterfly does, but we cannot step inside their body to feel what they feel. In the dream, Zhuangzi imagines being a butterfly. Then he is not sure which one he really is. It shows how hard it is to know what it is like to be a different creature."
+    "link": "We can watch what an ant or a butterfly does, but we cannot step inside their body to feel what they feel. In the dream, Zhuangzi imagines being a butterfly. Then he is not sure which one he really is. It shows how hard it is to know what it is like to be a different creature.",
+    "verse": ["昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。", "俄然覺，則蘧蘧然周也。", "不知周之夢爲胡蝶與？", "胡蝶之夢爲周與？"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

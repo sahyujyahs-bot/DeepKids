@@ -3325,12 +3325,16 @@
       {
         "source": "Heraclitus, the Greek thinker, as quoted in Plato's Cratylus 402a",
         "teaching": "You cannot step into the same river twice. The water is always new, yet we still call it the same river.",
-        "link": "Your body is like the river. Its cells are always being replaced, but we still call it you."
+        "link": "Your body is like the river. Its cells are always being replaced, but we still call it you.",
+        "verse": ["δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+        "verse_lang": "grc"
       },
       {
         "source": "Ecclesiastes 3:1–2, in the Hebrew Bible",
         "teaching": "There is a time for everything. A time to be born and a time to die. A time to plant and a time to harvest.",
-        "link": "Every life has its stages, in order, and each stage has its own work: babies learn to walk, elders teach and remember."
+        "link": "Every life has its stages, in order, and each stage has its own work: babies learn to walk, elders teach and remember.",
+        "verse": ["לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם", "עֵת לָלֶדֶת וְעֵת לָמוּת", "עֵת לָטַעַת וְעֵת לַעֲקוֹר נָטוּעַ"],
+        "verse_lang": "he"
       }
     ],
     "science": [

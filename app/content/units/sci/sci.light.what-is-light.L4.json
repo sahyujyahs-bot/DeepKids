@@ -564,12 +564,16 @@
    {
     "source": "Plato, Republic, Book 7 (the cave)",
     "teaching": "Plato, an ancient Greek thinker, told of prisoners chained in a cave since birth, who see only shadows on the wall in front of them. They think the shadows are the whole world. A prisoner who climbs out is dazzled by the real things.",
-    "link": "The prisoners treat the edge of what they can see as the edge of the world. The thermometer beyond the red end of the colours showed the same mistake about light."
+    "link": "The prisoners treat the edge of what they can see as the edge of the world. The thermometer beyond the red end of the colours showed the same mistake about light.",
+    "verse": ["ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει", "εἰ οὖν διαλέγεσθαι οἷοί τ’ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν;", "οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς."],
+    "verse_lang": "grc"
    },
    {
     "source": "Katha Upanishad 2.2.15",
     "teaching": "The Katha Upanishad speaks of a place where the Sun does not shine, nor the moon, nor the stars, nor lightning, much less a fire. It says that everything else shines only because that one thing shines first, and that by its light all this is lit.",
-    "link": "This unit followed sunlight to its end, to heat and to the waves our eyes cannot see. The Upanishad points to something behind all lights. Science cannot test that. It can only show that the light we see is one slice among many."
+    "link": "This unit followed sunlight to its end, to heat and to the waves our eyes cannot see. The Upanishad points to something behind all lights. Science cannot test that. It can only show that the light we see is one slice among many.",
+    "verse": ["न तत्र सूर्यो भाति न चन्द्रतारकं", "नेमा विद्युतो भान्ति कुतोऽयमग्निः", "तमेव भान्तमनुभाति सर्वं", "तस्य भासा सर्वमिदं विभाति"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

@@ -3231,12 +3231,16 @@
       {
         "source": "Rig Veda 10.191.2",
         "teaching": "The last hymn of the Rig Veda says, in a paraphrase: come together, speak together, let your minds know alike. It is a hymn for people gathered to decide something together.",
-        "link": "Scouts in a swarm come together, speak with their dances, and in the end the swarm's many minds point one way."
+        "link": "Scouts in a swarm come together, speak with their dances, and in the end the swarm's many minds point one way.",
+        "verse": ["सं गच्छध्वं सं वदध्वं सं वो मनांसि जानताम् ।", "देवा भागं यथा पूर्वे संजानाना उपासते"],
+        "verse_lang": "sa"
       },
       {
         "source": "Tattvartha Sutra 5.21, a Jain text",
         "teaching": "Parasparopagraho jivanam. Living beings help one another. The Jain tradition teaches that all life holds together because every being supports others.",
-        "link": "A honeybee is fed by nurses, warmed by the cluster and kept safe by guards. She lives because other bees do their jobs."
+        "link": "A honeybee is fed by nurses, warmed by the cluster and kept safe by guards. She lives because other bees do their jobs.",
+        "verse": ["परस्परोपग्रहो जीवानाम्"],
+        "verse_lang": "sa"
       }
     ],
     "science": [

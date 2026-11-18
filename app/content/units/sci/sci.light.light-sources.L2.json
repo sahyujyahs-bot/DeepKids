@@ -1951,12 +1951,16 @@
    {
     "source": "Katha Upanishad 5.15 (also numbered 2.2.15)",
     "teaching": "There the Sun does not shine, nor the Moon and the stars. Everything shines only after that one light shines. By its light, all this is lit.",
-    "link": "In the Paper Moon test, the paper shone only after the torch shone. In the sky, the Moon shines only after the Sun. The Upanishad speaks of one light behind all lights. The paper and the Moon are a small everyday example of this, because each one shines only by another light."
+    "link": "In the Paper Moon test, the paper shone only after the torch shone. In the sky, the Moon shines only after the Sun. The Upanishad speaks of one light behind all lights. The paper and the Moon are a small everyday example of this, because each one shines only by another light.",
+    "verse": ["न तत्र सूर्यो भाति न चन्द्रतारकं", "नेमा विद्युतो भान्ति कुतोऽयमग्निः", "तमेव भान्तमनुभाति सर्वं", "तस्य भासा सर्वमिदं विभाति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching, chapter 11",
     "teaching": "We shape clay into a pot, but it is the empty space inside that makes it useful.",
-    "link": "Darkness is an absence of light, in the same way that the inside of a pot is an empty space. An empty space is useful, because you can fill it. Darkness is useful too. We need it to sleep, and to see the stars."
+    "link": "Darkness is an absence of light, in the same way that the inside of a pot is an empty space. An empty space is useful, because you can fill it. Darkness is useful too. We need it to sleep, and to see the stars.",
+    "verse": ["埏埴以為器，當其無，有器之用。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

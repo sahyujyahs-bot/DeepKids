@@ -546,7 +546,9 @@
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta",
     "teaching": "An ancient hymn asks who really knows how the world began and where it all came from. It ends by saying that perhaps the one who watches from the highest heaven knows, or perhaps even that one does not.",
-    "link": "The farther we look, the older the light we see. A telescope shows us how far our knowledge reaches. The hymn reminds us to say honestly where it stops."
+    "link": "The farther we look, the older the light we see. A telescope shows us how far our knowledge reaches. The hymn reminds us to say honestly where it stops.",
+    "verse": ["इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse_lang": "sa"
    },
    {
     "source": "Frank White, The Overview Effect, 1987",

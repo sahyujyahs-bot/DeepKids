@@ -516,12 +516,16 @@
    {
     "source": "Udana 6.4, the Buddhist story of the blind men and the elephant",
     "teaching": "A king asks blind men to feel an elephant. One feels the head, one the tusk, one the leg, and each says what the elephant is like. They quarrel, because each is sure he is right. The Buddha says each has felt a part and taken it for the whole.",
-    "link": "The surface of the water is a window to one eye and a mirror to another. Each is right about what they see, and wrong only if they say the surface can be nothing else."
+    "link": "The surface of the water is a window to one eye and a mirror to another. Each is right about what they see, and wrong only if they say the surface can be nothing else.",
+    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    },
    {
     "source": "Isha Upanishad, verse 15",
     "teaching": "The verse says that the face of truth is covered by a golden disc, and asks the Sun to uncover it so that the seeker can see.",
-    "link": "A bright shining surface can hide as well as show. The silver ring shows the sea floor and hides the sky. You see more by moving to a new angle."
+    "link": "A bright shining surface can hide as well as show. The silver ring shows the sea floor and hides the sky. You see more by moving to a new angle.",
+    "verse": ["हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्", "तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

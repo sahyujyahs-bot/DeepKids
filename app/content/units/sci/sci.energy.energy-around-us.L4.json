@@ -2641,12 +2641,16 @@
    {
     "source": "Tao Te Ching 78",
     "teaching": "Nothing in the world is softer or weaker than water. Yet nothing is better at wearing away what is hard and strong.",
-    "link": "Water is a small power working for a very long time. A slow trickle can wear away a rock, because energy is power times time."
+    "link": "Water is a small power working for a very long time. A slow trickle can wear away a rock, because energy is power times time.",
+    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Dhammapada 122",
     "teaching": "Never treat a small good as nothing. A water pot is filled by drops of water falling, one by one.",
-    "link": "Many small watts, left on for many hours, add up to a big number of joules, just like drops filling a pot."
+    "link": "Many small watts, left on for many hours, add up to a big number of joules, just like drops filling a pot.",
+    "verse": ["Māvamaññetha puññassa,", "na mandaṁ āgamissati;", "Udabindunipātena,", "udakumbhopi pūrati;"],
+    "verse_lang": "pi"
    },
    {
     "source": "Richard Feynman, The Feynman Lectures on Physics, Volume 1, chapter 4",

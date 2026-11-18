@@ -474,17 +474,23 @@
    {
     "source": "Kena Upanishad 1.2",
     "teaching": "The Upanishad asks what is behind the senses. It speaks of the ear of the ear, the mind of the mind and the eye of the eye. Something hears through the ear and sees through the eye, and cannot itself be heard or seen.",
-    "link": "Science finds that the ear and the eye only send pulses to the brain. The question of who is aware of those pulses is the same question the Upanishad asks."
+    "link": "Science finds that the ear and the eye only send pulses to the brain. The question of who is aware of those pulses is the same question the Upanishad asks.",
+    "verse": ["श्रोत्रस्य श्रोत्रं मनसो मनो यद्वाचो ह वाचं", "स उ प्राणस्य प्राणः चक्षुषश्चक्षुः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Sabba Sutta, Samyutta Nikaya 35.23",
     "teaching": "The Buddha taught that 'the all', everything we can know, is the eye and what it sees, the ear and what it hears, the nose, the tongue, the body and the mind, each with what it meets.",
-    "link": "This matches what the science of the senses finds. All we know of the world has come through the senses and the brain's work on their signals."
+    "link": "This matches what the science of the senses finds. All we know of the world has come through the senses and the brain's work on their signals.",
+    "verse": ["Kiñca, bhikkhave, sabbaṁ?", "Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca", "idaṁ vuccati, bhikkhave, sabbaṁ."],
+    "verse_lang": "pi"
    },
    {
     "source": "Plato, Republic, Book 7 (the cave)",
     "teaching": "Plato, a Greek thinker, told of prisoners who see only shadows on a wall and take them for the whole of reality. One prisoner turns round and learns that the shadows were made by something else.",
-    "link": "Our brain also meets the world through signals and builds a picture. The picture is useful and real as an experience, and it is not the thing itself."
+    "link": "Our brain also meets the world through signals and builds a picture. The picture is useful and real as an experience, and it is not the thing itself.",
+    "verse": ["ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει", "εἰ οὖν διαλέγεσθαι οἷοί τ’ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν;", "οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς.", "ὁπότε τις λυθείη καὶ ἀναγκάζοιτο ἐξαίφνης ἀνίστασθαί τε καὶ περιάγειν τὸν αὐχένα καὶ βαδίζειν καὶ πρὸς τὸ φῶς ἀναβλέπειν"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

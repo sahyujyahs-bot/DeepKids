@@ -2075,7 +2075,9 @@
    {
     "source": "Nagarjuna, Mulamadhyamakakarika 24.18",
     "teaching": "Nagarjuna, a teacher in South India about 1,800 years ago, taught that nothing has its nature all by itself. Each thing is what it is because of what it depends on.",
-    "link": "A bulb on its own does nothing. It glows only because of what it is joined to: the wires, and the two ends of the cell."
+    "link": "A bulb on its own does nothing. It glows only because of what it is joined to: the wires, and the two ends of the cell.",
+    "verse": ["यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे", "सा प्रज्ञप्तिरुपादाय प्रतिपत् सैव मध्यमा"],
+    "verse_lang": "sa"
    },
    {
     "source": "Avatamsaka Sutra, the net of Indra",

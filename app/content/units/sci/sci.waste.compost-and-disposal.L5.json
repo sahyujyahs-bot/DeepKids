@@ -3817,7 +3817,9 @@
    {
     "source": "Isha Upanishad, verse 1",
     "teaching": "Everything in this moving world belongs to the whole. Enjoy what you are given by letting go, and do not grab what is another's.",
-    "link": "The first step of the waste hierarchy is to take less. The Earth's materials are shared with every other being, and what we take and throw stays in their world too."
+    "link": "The first step of the waste hierarchy is to take less. The Earth's materials are shared with every other being, and what we take and throw stays in their world too.",
+    "verse": ["ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्", "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

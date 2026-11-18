@@ -2310,7 +2310,9 @@
    {
     "source": "Udana 6.4, a Buddhist text, and the Jain teaching of anekantavada",
     "teaching": "A king asks some blind men to touch an elephant. One touches the trunk and says an elephant is like a pipe. One touches the ear and says it is like a fan. One touches the leg and says it is like a pillar. They quarrel, each sure he is right. The Jains call the lesson anekantavada, many-sidedness: each view holds part of the truth.",
-    "link": "In the Other Chair Test, each drawing was right about what that chair could see, and none showed the whole table. Like the elephant, the table was known only by putting the views together."
+    "link": "In the Other Chair Test, each drawing was right about what that chair could see, and none showed the whole table. Like the elephant, the table was known only by putting the views together.",
+    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    },
    {
     "source": "Tirukkural 788",

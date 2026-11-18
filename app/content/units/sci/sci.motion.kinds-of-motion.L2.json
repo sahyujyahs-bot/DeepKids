@@ -2170,17 +2170,23 @@
    {
     "source": "Vaisheshika Sutra 1.1.7, by Kanada",
     "teaching": "Kanada, an early Indian thinker, listed five kinds of motion: moving up, moving down, drawing in, spreading out, and going along.",
-    "link": "Like us, Kanada sorted motions by the way they go. His list is different from ours. People can sort the same motions in more than one way."
+    "link": "Like us, Kanada sorted motions by the way they go. His list is different from ours. People can sort the same motions in more than one way.",
+    "verse": ["उत्क्षेपणमवक्षेपणं आकुञ्चनं प्रसारणं गमनमिति कर्माणि"],
+    "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4, a Buddhist text, and the Jain teaching of anekantavada, many-sidedness",
     "teaching": "Some blind people each touch a different part of an elephant. One says an elephant is like a rope, and another says like a wall. Each is right about the part they touched.",
-    "link": "In the keys test, you saw a circle from above and a line from the side. Each view was true for the place you watched from."
+    "link": "In the keys test, you saw a circle from above and a line from the side. Each view was true for the place you watched from.",
+    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    },
    {
     "source": "Aristotle, Physics, Book 7, chapter 1",
     "teaching": "Aristotle, a Greek thinker, taught that everything that moves is moved by something.",
-    "link": "In Who Starts It?, we asked the same question about each moving thing: what made it start?"
+    "link": "In Who Starts It?, we asked the same question about each moving thing: what made it start?",
+    "verse": ["πᾶν ἀνάγκη τὸ κινούμενον ὑπό τινος κινεῖσθαι"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

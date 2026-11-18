@@ -3510,7 +3510,9 @@
    {
     "source": "Mandukya Upanishad, verse 1",
     "teaching": "The syllable Om is all this. What was, what is and what will be are all Om. And what is beyond time is Om too.",
-    "link": "Many families chant Om and feel it buzz in the chest. In this unit you found that the buzz is your vocal folds vibrating. What Om means is a question for the teaching, not for the science, and the two can sit side by side."
+    "link": "Many families chant Om and feel it buzz in the chest. In this unit you found that the buzz is your vocal folds vibrating. What Om means is a question for the teaching, not for the science, and the two can sit side by side.",
+    "verse": ["ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं भूतं भवद्भविष्यदिति सर्वमोङ्कार एव", "यच्चान्यत्त्रिकालातीतं तदप्योङ्कार एव"],
+    "verse_lang": "sa"
    },
    {
     "source": "Rumi, Masnavi, Book 1, the opening lines (the Song of the Reed)",

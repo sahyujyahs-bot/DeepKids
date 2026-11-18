@@ -462,7 +462,9 @@
       {
         "source": "Zhuangzi, chapter 1, 'Free and Easy Wandering'",
         "teaching": "The morning mushroom knows nothing of the evening and the dawn. The summer cicada knows nothing of spring and autumn. An ancient tree counted eight thousand years as one spring. Zhuangzi says that the short-lived cannot be measured by the long-lived.",
-        "link": "Lifespans in this unit run from two months to nearly five thousand years. Zhuangzi warns against judging one length of life by another. The Bad Year Test gives a reason from science: each length suits a different place."
+        "link": "Lifespans in this unit run from two months to nearly five thousand years. Zhuangzi warns against judging one length of life by another. The Bad Year Test gives a reason from science: each length suits a different place.",
+        "verse": ["朝菌不知晦朔，蟪蛄不知春秋。", "此小年也。", "楚之南有冥靈者，以五百歲爲春，五百歲爲秋。", "上古有大椿者，以八千歲爲春，八千歲爲秋。"],
+        "verse_lang": "zh"
       },
       {
         "source": "Tirukkural 482",
@@ -474,7 +476,9 @@
       {
         "source": "Dhammapada 277",
         "teaching": "The Buddha says that all things that are put together pass away. A person who sees this clearly is freed from sorrow.",
-        "link": "The mustard plant ends in four months and the bristlecone pine in five thousand years, but both end. The bristlecone pine lives far longer, but its life still comes to an end."
+        "link": "The mustard plant ends in four months and the bristlecone pine in five thousand years, but both end. The bristlecone pine lives far longer, but its life still comes to an end.",
+        "verse": ["Sabbe saṅkhārā aniccā,", "yadā paññāya passati;", "Atha nibbindati dukkhe,", "esa maggo visuddhiyā."],
+        "verse_lang": "pi"
       }
     ],
     "science": [

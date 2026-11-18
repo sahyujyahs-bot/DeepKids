@@ -3001,12 +3001,16 @@
       {
         "source": "Heraclitus, fragment B91 (Diels-Kranz numbering), about 500 BCE",
         "teaching": "You cannot step into the same river twice.",
-        "link": "A river looks the same from day to day, but the water in it is always new. The apple slice looked the same from minute to minute, but it was always changing."
+        "link": "A river looks the same from day to day, but the water in it is always new. The apple slice looked the same from minute to minute, but it was always changing.",
+        "verse": ["ποταμῷ γὰρ οὐκ ἔστιν ἐμβῆναι δὶς τῷ αὐτῷ"],
+        "verse_lang": "grc"
       },
       {
         "source": "Dhammapada, verse 277",
         "teaching": "All made things are impermanent. When one sees this with wisdom, one turns away from suffering.",
-        "link": "The Buddha taught that nothing made stays the same. The apple, the banana and the new star of 1572 all show it, each at its own speed."
+        "link": "The Buddha taught that nothing made stays the same. The apple, the banana and the new star of 1572 all show it, each at its own speed.",
+        "verse": ["Sabbe saṅkhārā aniccā,", "yadā paññāya passati;", "Atha nibbindati dukkhe,", "esa maggo visuddhiyā."],
+        "verse_lang": "pi"
       },
       {
         "source": "Tirukkural 423",

@@ -4188,17 +4188,23 @@
    {
     "source": "Heraclitus, fragment DK B51",
     "teaching": "Heraclitus said people do not see how something pulling in two directions can hold together. His examples were the bow and the lyre, a stringed instrument.",
-    "link": "A strung bow keeps its shape only because the string pulls one way and the wood pulls back. Inside a solid, each atom stays in place because the pushes and pulls from its neighbours balance."
+    "link": "A strung bow keeps its shape only because the string pulls one way and the wood pulls back. Inside a solid, each atom stays in place because the pushes and pulls from its neighbours balance.",
+    "verse": ["οὐ ξυνιᾶσιν ὅκως διαφερόμενον ἑωυτῷ συμφέρεται· παλίντονος ἁρμονίη ὅκωσπερ τόξου καὶ λύρης"],
+    "verse_lang": "grc"
    },
    {
     "source": "Tao Te Ching 76",
     "teaching": "Living plants are soft and bendy. Dead ones are dry and brittle. So the stiff and hard are easily broken, and the soft and bendy last.",
-    "link": "In Bend or Snap?, the green twig bends and springs back, and the dry twig snaps. Living tendons, skin and silk are springy too."
+    "link": "In Bend or Snap?, the green twig bends and springs back, and the dry twig snaps. Living tendons, skin and silk are springy too.",
+    "verse": ["萬物草木之生也柔脆，其死也枯槁。", "故堅強者死之徒，柔弱者生之徒。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Anguttara Nikaya 6.55, the story of Sona",
     "teaching": "The Buddha asks Sona, who once played the veena. If the strings are too tight, does it play in tune? If they are too loose? Only strings stretched just right make music.",
-    "link": "In the Rubber Band Orchestra, a band's note changes with how tightly it is stretched. Too loose, and it only thuds. Too tight, and it can pass its limit or snap."
+    "link": "In the Rubber Band Orchestra, a band's note changes with how tightly it is stretched. Too loose, and it only thuds. Too tight, and it can pass its limit or snap.",
+    "verse": ["Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?"],
+    "verse_lang": "pi"
    }
   ],
   "science": [

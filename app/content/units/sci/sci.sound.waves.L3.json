@@ -2714,7 +2714,9 @@
    {
     "source": "Tao Te Ching 78",
     "teaching": "Nothing in the world is softer and weaker than water. Yet nothing is better at wearing down what is hard and strong.",
-    "link": "Water gives way to your finger. Yet water passing on the energy of an undersea earthquake broke sea walls in 2004. Water carries energy by giving way, each part passing it to the next."
+    "link": "Water gives way to your finger. Yet water passing on the energy of an undersea earthquake broke sea walls in 2004. Water carries energy by giving way, each part passing it to the next.",
+    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

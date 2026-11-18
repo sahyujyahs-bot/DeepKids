@@ -2100,12 +2100,16 @@
    {
     "source": "Chandogya Upanishad 5.1",
     "teaching": "Speech, sight, hearing, mind and breath once argued about which of them was the most important. Each one left the body for a year, and the body lived on without them. But when breath began to leave, all the others were pulled away too. So they agreed that breath mattered most, because the others depend on breath.",
-    "link": "The story asks which part matters most. A plant has no single most important part. The roots need food from the leaves, and the leaves need water from the roots."
+    "link": "The story asks which part matters most. A plant has no single most important part. The roots need food from the leaves, and the leaves need water from the roots.",
+    "verse": ["सा ह वागुच्चक्राम", "सा संवत्सरं प्रोष्य पर्येत्योवाच", "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्", "भगवन्नेधि", "त्वं नः श्रेष्ठोऽसि"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 16",
     "teaching": "All things grow and flourish, and then each one returns to their root. Returning to the root is called stillness.",
-    "link": "The Tao Te Ching uses the root as a picture of the quiet place that things grow from. A plant's roots are out of sight and quiet, yet they hold the plant and drink water for the plant every day."
+    "link": "The Tao Te Ching uses the root as a picture of the quiet place that things grow from. A plant's roots are out of sight and quiet, yet they hold the plant and drink water for the plant every day.",
+    "verse": ["夫物芸芸，各復歸其根。", "歸根曰靜，是謂復命。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

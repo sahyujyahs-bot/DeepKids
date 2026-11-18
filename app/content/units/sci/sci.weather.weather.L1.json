@@ -1677,12 +1677,16 @@
    {
     "source": "Chandogya Upanishad 4.3.1",
     "teaching": "The wind is the one that takes everything in. When a fire goes out, it goes into the wind. When the Sun sets and the Moon sets, they go into the wind.",
-    "link": "In the fan test, the wind took the warmth from your arm into the room's air. A fire's heat goes into the air in the same way."
+    "link": "In the fan test, the wind took the warmth from your arm into the room's air. A fire's heat goes into the air in the same way.",
+    "verse": ["वायुर्वाव संवर्गः", "यदा वा अग्निरुद्वायति वायुमेवाप्येति", "यदा सूर्योऽस्तमेति वायुमेवाप्येति", "यदा चन्द्रोऽस्तमेति वायुमेवाप्येति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 23",
     "teaching": "A strong wind does not last the whole morning. A sudden rain does not last the whole day.",
-    "link": "Weather is always changing. That is why we look outside each morning before we choose our clothes."
+    "link": "Weather is always changing. That is why we look outside each morning before we choose our clothes.",
+    "verse": ["故飄風不終朝，驟雨不終日。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

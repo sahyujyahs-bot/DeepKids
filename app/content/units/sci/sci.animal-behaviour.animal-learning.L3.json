@@ -2527,12 +2527,16 @@
    {
     "source": "Taittiriya Upanishad 1.11.2",
     "teaching": "The teacher tells the students who are leaving: follow the good things we did, and not the others.",
-    "link": "The teacher asks the students to copy only what is good, not every step. Chimpanzees did something like that with the clear box: they copied only the step that worked. People often copy every step."
+    "link": "The teacher asks the students to copy only what is good, not every step. Chimpanzees did something like that with the clear box: they copied only the step that worked. People often copy every step.",
+    "verse": ["यान्यनवद्यानि कर्माणि तानि सेवितव्यानि । नो इतराणि", "यान्यस्माकꣳ सुचरितानि तानि त्वयोपास्यानि । नो इतराणि"],
+    "verse_lang": "sa"
    },
    {
     "source": "Kalama Sutta (Anguttara Nikaya 3.65)",
     "teaching": "The Buddha tells the Kalama people not to accept something only because it has been handed down, or because a teacher said it. Test it for yourself, and keep what you find to be good.",
-    "link": "In the story The Tap on the Plate, Meenakshi tested the tap and the turn of the plate one at a time. She kept the tap, which called the crows, and dropped the turn."
+    "link": "In the story The Tap on the Plate, Meenakshi tested the tap and the turn of the plate one at a time. She kept the tap, which called the crows, and dropped the turn.",
+    "verse": ["Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti.", "Yadā tumhe, kālāmā, attanāva jāneyyātha:", "ime dhammā kusalā, ime dhammā anavajjā, ime dhammā viññuppasatthā, ime dhammā samattā samādinnā hitāya sukhāya saṁvattantī, atha tumhe, kālāmā, upasampajja vihareyyātha."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

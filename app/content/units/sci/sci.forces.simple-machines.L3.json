@@ -3979,7 +3979,9 @@
    {
     "source": "Zhuangzi, chapter 3, the story of Cook Ding",
     "teaching": "A cook carves an ox so skilfully that his knife stays sharp for nineteen years. He never hacks at bone. He guides the blade through the natural gaps between the joints.",
-    "link": "A knife is a wedge. The cook puts it exactly where the joints already come apart, so a small push does the cutting. It is the same with a foot at the end of a dhenki, the rice pounder's beam: where the force goes matters as much as how big it is."
+    "link": "A knife is a wedge. The cook puts it exactly where the joints already come apart, so a small push does the cutting. It is the same with a foot at the end of a dhenki, the rice pounder's beam: where the force goes matters as much as how big it is.",
+    "verse": ["今臣之刀，十九年矣，所解數千牛矣，而刀刃若新發於硎。", "彼節者有間，而刀刃者无厚，以无厚入有間，恢恢乎其於遊刃必有餘地矣"],
+    "verse_lang": "zh"
    },
    {
     "source": "Milindapanha, book 2, the chariot",

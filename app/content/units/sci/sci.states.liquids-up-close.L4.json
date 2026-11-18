@@ -3068,7 +3068,9 @@
    {
     "source": "Tao Te Ching, chapter 66",
     "teaching": "The rivers and the seas are lords of the valley streams because they are good at staying below them. So the streams flow to them.",
-    "link": "Water always runs down to the lowest place, and the deepest water there pushes hardest. The sea is the lowest place, and all rivers find their way to it."
+    "link": "Water always runs down to the lowest place, and the deepest water there pushes hardest. The sea is the lowest place, and all rivers find their way to it.",
+    "verse": ["江海所以能為百谷王者，以其善下之，故能為百谷王。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

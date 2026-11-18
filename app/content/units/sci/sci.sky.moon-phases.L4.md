@@ -161,8 +161,8 @@ We have looked at the line between the Moon's day and night, at tides and at the
 
 The Sun, the Earth and the Moon keep moving, so the way the Moon is lit keeps changing. On a full Moon night the Moon looks like a flat disc. On a half Moon night the same Moon looks like a land of mountains and craters. The Moon has not changed. Only the angle of the light has. Light and shadow work together here: we need both to see the shape of a thing.
 
-- **Tao Te Ching 2:** Being and not-being give birth to each other. Long and short shape each other. High and low lean on each other. (Light and shadow shape each other on the Moon. Without the shadow, we would not see the mountain, and without the light, we would not see the shadow.)
-- **Brihadaranyaka Upanishad 1.3.28:** Lead me from darkness to light. (On the Moon, the brightest part is not where we see the most. We see the mountains best along the line where dark meets light.)
+- **Tao Te Ching 2:** “故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。” Being and not-being give birth to each other. Long and short shape each other. High and low lean on each other. (Light and shadow shape each other on the Moon. Without the shadow, we would not see the mountain, and without the light, we would not see the shadow.)
+- **Brihadaranyaka Upanishad 1.3.28:** “असतो मा सद्गमय, तमसो मा ज्योतिर्गमय, मृत्योर्मामृतं गमयेति” Lead me from darkness to light. (On the Moon, the brightest part is not where we see the most. We see the mountains best along the line where dark meets light.)
 - Science (settled): Craters on the Moon are made by impacts. Slanting light along the terminator shows them best.
 - Science (open): We do not yet know how much water ice lies in the Moon's permanently shadowed craters.
 - Other view, Many people who love the full Moon: The full Moon is the most beautiful Moon. Its brightness lights the whole night, and it brings families out to the terrace. Seeing detail is one way to enjoy the Moon, and not the only one. A flat, bright Moon is not a worse Moon, only a different one.

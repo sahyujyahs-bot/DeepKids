@@ -479,12 +479,16 @@
    {
     "source": "Heraclitus, fragment 12 (Diels and Kranz numbering)",
     "teaching": "Heraclitus, an ancient Greek thinker, is reported to have said that different and different waters flow on those who step into the same rivers.",
-    "link": "A wave keeps its shape and its beat while the water under it is always new. The pattern stays and the stuff changes."
+    "link": "A wave keeps its shape and its beat while the water under it is always new. The pattern stays and the stuff changes.",
+    "verse": ["ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ"],
+    "verse_lang": "grc"
    },
    {
     "source": "Rig Veda 1.164.46",
     "teaching": "The hymn says that truth is one, and the wise speak of it in many ways.",
-    "link": "Ripples, sound, radio and light have different names and different sizes. One rule of beat, speed and length fits them all."
+    "link": "Ripples, sound, radio and light have different names and different sizes. One rule of beat, speed and length fits them all.",
+    "verse": ["इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् ।", "एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

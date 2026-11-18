@@ -3077,17 +3077,23 @@
    {
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka tells his son Shvetaketu that by knowing one lump of clay, everything made of clay is known. A pot and a lamp differ only in name, and the truth is that both are clay.",
-    "link": "Uppu, namak and nun differ only in name. What stays the same is sodium and chlorine, one for one. The Upanishad goes further than chemistry does. It says that all things are finally one, which no experiment in this unit tests."
+    "link": "Uppu, namak and nun differ only in name. What stays the same is sodium and chlorine, one for one. The Upanishad goes further than chemistry does. It says that all things are finally one, which no experiment in this unit tests.",
+    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching, chapter 1",
     "teaching": "The name that can be spoken is not the lasting name.",
-    "link": "No word for water is water. A formula is also a kind of name. H₂O is not wet, and it leaves out how the atoms are arranged. Lao Tzu was speaking of the Tao, the source of all things, and not of chemistry."
+    "link": "No word for water is water. A formula is also a kind of name. H₂O is not wet, and it leaves out how the atoms are arranged. Lao Tzu was speaking of the Tao, the source of all things, and not of chemistry.",
+    "verse": ["道可道，非常道，名可名，非常名。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Confucius, Analects 13.3",
     "teaching": "If names are not right, what people say will not match how things are, and their work will not succeed.",
-    "link": "This is the reason chemists agreed on names and formulas. Two powders both called soda can be mixed up. NaHCO₃ and Na₂CO₃ cannot."
+    "link": "This is the reason chemists agreed on names and formulas. Two powders both called soda can be mixed up. NaHCO₃ and Na₂CO₃ cannot.",
+    "verse": ["名不正，則言不順。", "言不順，則事不成。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

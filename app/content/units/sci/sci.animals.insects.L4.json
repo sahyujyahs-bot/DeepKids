@@ -3063,12 +3063,16 @@
    {
     "source": "Brihadaranyaka Upanishad 2.5.1",
     "teaching": "This part of the text is called the honey teaching. It says: this earth is honey for all beings, and all beings are honey for this earth.",
-    "link": "The Sanskrit word is madhu, which means honey. The teaching says that each thing feeds the others and is fed by them. A flower feeds a bee, and the bee's visit starts the flower's seeds."
+    "link": "The Sanskrit word is madhu, which means honey. The teaching says that each thing feeds the others and is fed by them. A flower feeds a bee, and the bee's visit starts the flower's seeds.",
+    "verse": ["इयं पृथिवी सर्वेषां भूतानां मधु", "अस्यै पृथिव्यै सर्वाणि भूतानि मधु"],
+    "verse_lang": "sa"
    },
    {
     "source": "Dhammapada, verse 49",
     "teaching": "A bee takes nectar from a flower and flies away without harming the flower's colour or scent. A wise person should go through a village in the same way.",
-    "link": "The verse holds up the bee as someone who takes without harming. This unit adds something the verse does not say: the flower gains from the visit."
+    "link": "The verse holds up the bee as someone who takes without harming. This unit adds something the verse does not say: the flower gains from the visit.",
+    "verse": ["Yathāpi bhamaro pupphaṁ,", "vaṇṇagandhamaheṭhayaṁ;", "Paleti rasamādāya,", "evaṁ gāme munī care."],
+    "verse_lang": "pi"
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988)",

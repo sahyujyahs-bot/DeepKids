@@ -426,12 +426,16 @@
    {
     "source": "Chandogya Upanishad 6.11",
     "teaching": "Uddalaka tells his son Shvetaketu that if you strike the root, the middle or the top of a great tree, the tree bleeds but still lives, because life pervades the whole tree. When life leaves one branch, only that branch dries up.",
-    "link": "The cell's life is also in every part, not in one control room. A red blood cell without a nucleus is still alive and working."
+    "link": "The cell's life is also in every part, not in one control room. A red blood cell without a nucleus is still alive and working.",
+    "verse": ["अस्य सोम्य महतो वृक्षस्य यो मूलेऽभ्याहन्याज्जीवन्स्रवेद्यो मध्येऽभ्याहन्याज्जीवन्स्रवेद्योऽग्रेऽभ्याहन्याज्जीवन्स्रवेत्", "स एष जीवेनात्मनानुप्रभूतः पेपीयमानो मोदमानस्तिष्ठति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 17",
     "teaching": "The best leader is one whom people hardly notice. When the work is done, the people say, 'We did it ourselves.'",
-    "link": "A nucleus is a library and a source of copies, but the work is done everywhere in the cell, with no single boss."
+    "link": "A nucleus is a library and a source of copies, but the work is done everywhere in the cell, with no single boss.",
+    "verse": ["悠兮其貴言，功成事遂，百姓皆謂：我自然。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Avatamsaka Sutra, Indra's net",

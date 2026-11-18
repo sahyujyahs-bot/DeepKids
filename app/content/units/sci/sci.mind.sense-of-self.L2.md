@@ -93,7 +93,7 @@ We have tested how your body knows its own touch, voice and likes. Now we ask wh
 A baby, a flower and a cricket each tell their own from another's, in their own way. You do it with touch: your brain predicts your own touch and turns it down. Telling 'me' from 'not me' starts in the body, before words.
 
 - **Ramana Maharshi, Nan Yar? (Who am I?), Tiruvannamalai, teachings recorded from about 1902:** Ramana Maharshi, a teacher from Tamil Nadu, asked people to look for the 'I' that notices everything. He said to keep asking 'Who am I?' (In this unit you asked 'who am I?' with tests: whose touch, whose voice, whose likes. Your body already answers part of it, by knowing its own touch.)
-- **The inscription 'Know thyself' at the temple of Apollo at Delphi, as recorded by Plato in Protagoras 343b:** Ancient Greeks carved the words 'Know yourself' at a famous temple. Many thinkers took it as the first step to wisdom. (Knowing yourself turns out to include surprises: your voice sounds different to others, and your mirror face is the other way round from your photo.)
+- **The inscription 'Know thyself' at the temple of Apollo at Delphi, as recorded by Plato in Protagoras 343b:** “γνῶθι σαυτόν καὶ μηδὲν ἄγαν” Ancient Greeks carved the words 'Know yourself' at a famous temple. Many thinkers took it as the first step to wisdom. (Knowing yourself turns out to include surprises: your voice sounds different to others, and your mirror face is the other way round from your photo.)
 - Science (settled): Your own touch feels weaker because your brain keeps a copy of the message it sends to your muscles, and uses the copy to predict the touch.
 - Science (debated): Scientists do not agree on whether plants and insects have a sense of self in the way humans do.
 - Other view, David Hume, a Scottish thinker, in A Treatise of Human Nature, Book 1, Part 4, Section 6 (1739): Hume said that when he looked inside himself, he only ever found a feeling, a thought or a sight, never a 'self' on its own. He thought the self is a bundle of these, always changing. Many brain scientists today also say there is no single 'me' spot in the brain.
@@ -486,7 +486,7 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 ## Videos
 - **Why can't you tickle yourself?** (SciShow, 3 min) id `LzGT3ICgB7A`: Explains that the brain predicts the touch of its own hand, after your child has done the tickle test. *Check:* Found by search: "Why can't you tickle yourself?" by SciShow, 2 min 41 s. A parent may preview it.
 - **Why does your voice sound different on a recording?** (Head Squeeze | BBC Earth Science, 3 min) id `uvosNz0Xq7g`: Explains hearing your voice through the bones of the head, after the recording activity. *Check:* Found by search: "Why does your voice sound different on a recording? Greg Foot Answers Your Questions" by Head Squeeze | BBC Earth Science, 2 min 52 s. A parent may preview it.
-- **How babies discover themselves** (, 4 min) id `to find`: Shows how babies come to know their own body, and the mirror test with young children. *Check:* Find a clip from a university or science channel. Check that it does not use scary or upsetting scenes.
+- **How babies discover themselves** (, 4 min) id `WLz6J3CGLeU`: Shows how babies come to know their own body, and the mirror test with young children. *Check:* Found by YouTube search: Get “Inside the Mind of a Baby” | Stella Lourenco | TEDxEmory, TEDx Talks Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What is a sense of self?  

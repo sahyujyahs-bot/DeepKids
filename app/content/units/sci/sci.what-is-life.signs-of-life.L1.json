@@ -2232,7 +2232,9 @@
    {
     "source": "Tao Te Ching 76",
     "teaching": "When people are born, they are soft and bendy. When they die, they are stiff and hard. Plants are soft and full of sap while they live. When they die, they are dry and brittle.",
-    "link": "We felt this in the Droopy Mint experiment. The living mint was soft, and stood up full of water. The dry tej patta was stiff and brittle, and water could not bring it back."
+    "link": "We felt this in the Droopy Mint experiment. The living mint was soft, and stood up full of water. The dry tej patta was stiff and brittle, and water could not bring it back.",
+    "verse": ["人之生也柔弱，其死也堅強。", "萬物草木之生也柔脆，其死也枯槁。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Tirukkural 322",

@@ -3194,12 +3194,16 @@
    {
     "source": "Gaudapada, Mandukya Karika 2.17",
     "teaching": "In dim light, a rope can be mistaken for a snake. When we see clearly, the rope was a rope all along. The mistake was in the seeing, not in the rope.",
-    "link": "The pencil was straight all along. The 'break' was in the seeing, caused by the bend of the light. Looking from straight above, or touching it, shows what it is."
+    "link": "The pencil was straight all along. The 'break' was in the seeing, caused by the bend of the light. Looking from straight above, or touching it, shows what it is.",
+    "verse": ["अनिश्चिता यथा रज्जुरन्धकारे विकल्पिता", "सर्पधारादिभिर्भावैस्तद्वदात्मा विकल्पितः", "निश्चितायां यथा रज्ज्वां विकल्पो विनिवर्तते", "रज्जुरेवेति चाद्वैतं तद्वदात्मविनिश्चयः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4, from the Buddhist Pali Canon: the blind men and the elephant",
     "teaching": "A king asks several blind men to touch an elephant. One feels the head, one the ear, one the trunk, one the leg. Each says the elephant is only what he felt, and they quarrel. Each felt a real part, but none felt the whole elephant.",
-    "link": "From the side, the pencil looks broken. From above, it looks straight. Through a lens, it looks huge. Each view sees part of the truth. Putting views together, as in the broken-pencil test, brings us closer to the whole."
+    "link": "From the side, the pencil looks broken. From above, it looks straight. Through a lens, it looks huge. Each view sees part of the truth. Putting views together, as in the broken-pencil test, brings us closer to the whole.",
+    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

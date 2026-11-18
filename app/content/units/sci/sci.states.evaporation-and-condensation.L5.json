@@ -3646,7 +3646,9 @@
       {
         "source": "Lucretius, On the Nature of Things, Book 1 (Rome, about 55 BCE)",
         "teaching": "Clothes hung by the sea grow damp, and spread in the sun they dry. Nobody sees the water settle on them or leave them. So, Lucretius says, the water must come and go in pieces too small for the eye to see.",
-        "link": "This is evaporation explained with particles, two thousand years before anyone could test it. Lucretius reasoned from washing on a line, as this unit does."
+        "link": "This is evaporation explained with particles, two thousand years before anyone could test it. Lucretius reasoned from washing on a line, as this unit does.",
+        "verse": ["Denique fluctifrago suspensae in litore vestis", "uvescunt, eaedem dispansae in sole serescunt.", "at neque quo pacto persederit umor aquai", "visumst nec rursum quo pacto fugerit aestu.", "in parvas igitur partis dispergitur umor,", "quas oculi nulla possunt ratione videre."],
+        "verse_lang": "la"
       },
       {
         "source": "Tirukkural, verse 16, in the chapter on rain, by Thiruvalluvar",

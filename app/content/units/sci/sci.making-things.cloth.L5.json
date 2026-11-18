@@ -3694,12 +3694,16 @@
    {
     "source": "Brihadaranyaka Upanishad 3.6 and 3.8",
     "teaching": "The philosopher Gargi Vachaknavi asks the sage Yajnavalkya a weaver's question. If all this world is woven, like warp and weft, on water, then on what is water woven? She asks again and again, down to the last thing on which everything is woven.",
-    "link": "Gargi used the picture of a loom to ask what holds the world together. In this unit your child asks the same kind of question of a cloth, and finds threads, then plies, then fibres, then long molecules."
+    "link": "Gargi used the picture of a loom to ask what holds the world together. In this unit your child asks the same kind of question of a cloth, and finds threads, then plies, then fibres, then long molecules.",
+    "verse": ["यदिदं सर्वमप्स्वोतं च प्रोतं च कस्मिन्नु खल्वाप ओताश्च प्रोताश्चेति", "वायौ गार्गीति", "कस्मिन्नु खलु वायुरोतश्च प्रोतश्चेति", "अन्तरिक्षलोकेषु गार्गीति", "कस्मिन्नु खल्वाकाश ओतश्च प्रोतश्चेति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Kabir, the song 'Jhini jhini bini chadariya'",
     "teaching": "Kabir was a weaver of Varanasi. In this song, sung in his name, he calls the body a finely woven cloth and asks what its warp and weft are. He says he wore the cloth with care and gave it back as he received it.",
-    "link": "A weaver saw his own life in his work. The song treats a cloth as something lent, to be looked after and returned, which is how this unit treats old cloth."
+    "link": "A weaver saw his own life in his work. The song treats a cloth as something lent, to be looked after and returned, which is how this unit treats old cloth.",
+    "verse": ["झीनी झीनी बीनी चदरिया", "काहे कै ताना काहे कै भरनी", "दास कबीर जतन करि ओढी", "ज्यों कीं त्यों धर दीनी चदरिया"],
+    "verse_lang": "hi"
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988)",

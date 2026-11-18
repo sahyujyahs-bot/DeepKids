@@ -2034,7 +2034,9 @@
    {
     "source": "Heraclitus, as quoted in Plato's Cratylus 402a",
     "teaching": "Heraclitus, a Greek thinker who lived about 2,500 years ago, said you cannot step into the same river twice, because new water is always flowing.",
-    "link": "Your body is a little like the river. It looks the same from day to day, but it is always taking in new food and changing its size, even overnight."
+    "link": "Your body is a little like the river. It looks the same from day to day, but it is always taking in new food and changing its size, even overnight.",
+    "verse": ["δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse_lang": "grc"
    }
   ],
   "science": [

@@ -1999,7 +1999,9 @@
    {
     "source": "The inscription 'Know thyself' at the temple of Apollo at Delphi, as recorded by Plato in Protagoras 343b",
     "teaching": "Ancient Greeks carved the words 'Know yourself' at a famous temple. Many thinkers took it as the first step to wisdom.",
-    "link": "Knowing yourself turns out to include surprises: your voice sounds different to others, and your mirror face is the other way round from your photo."
+    "link": "Knowing yourself turns out to include surprises: your voice sounds different to others, and your mirror face is the other way round from your photo.",
+    "verse": ["γνῶθι σαυτόν καὶ μηδὲν ἄγαν"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

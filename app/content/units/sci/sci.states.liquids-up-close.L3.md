@@ -137,8 +137,8 @@ We have raced liquids and watched the water's skin hold up a dome of drops. Now 
 
 Honey's slow flow, the skin on water and the strider standing on it all come from the same pull between particles. In honey, the pull slows the sliding. At the top of water, the pull makes a skin a strider can stand on. Warmth shakes the particles harder and loosens their hold.
 
-- **Heraclitus, as reported by Plato in the Cratylus (402a):** Heraclitus says somewhere that all things move and nothing stays still. (Pitch looks still, yet it has dripped from a funnel since 1930. Even a glacier creeps downhill. Things we call still may be moving too slowly for us to notice.)
-- **Tao Te Ching, chapter 78 (a common English translation):** Nothing in the world is softer or weaker than water. Yet for attacking what is hard and strong, nothing can surpass it. (Water feels like nothing to a finger. Yet its skin holds up a dome on a coin and a living insect. Soft things can hold more than they seem to.)
+- **Heraclitus, as reported by Plato in the Cratylus (402a):** “πάντα χωρεῖ καὶ οὐδὲν μένει,” Heraclitus says somewhere that all things move and nothing stays still. (Pitch looks still, yet it has dripped from a funnel since 1930. Even a glacier creeps downhill. Things we call still may be moving too slowly for us to notice.)
+- **Tao Te Ching, chapter 78 (a common English translation):** “天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。” Nothing in the world is softer or weaker than water. Yet for attacking what is hard and strong, nothing can surpass it. (Water feels like nothing to a finger. Yet its skin holds up a dome on a coin and a living insect. Soft things can hold more than they seem to.)
 - Science (settled): Warming lowers the viscosity of almost every liquid, because faster-moving particles slide past each other more easily.
 - Science (settled): Surface tension comes from the attraction between particles of a liquid. Soap weakens it.
 - Science (settled): Pitch flows, about 100 billion times more slowly than water.

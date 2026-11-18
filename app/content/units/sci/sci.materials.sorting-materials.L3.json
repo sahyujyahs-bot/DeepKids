@@ -772,17 +772,23 @@
    {
     "source": "Chandogya Upanishad 6.1.4 to 6.1.6",
     "teaching": "Uddalaka teaches his son Shvetaketu. By knowing one lump of clay, you know everything made of clay. A pot and a plate differ only in name and shape. In the same way, by knowing one piece of a metal, you know all the ornaments made of it. By knowing one piece of iron, you know all things made of iron.",
-    "link": "This is sorting by material. A pot and a plate look different, but they are one group when we ask 'What is it made of?'. The shape is one rule. The material is another."
+    "link": "This is sorting by material. A pot and a plate look different, but they are one group when we ask 'What is it made of?'. The shape is one rule. The material is another.",
+    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्", "यथा सोम्यैकेन लोहमणिना सर्वं लोहमयं विज्ञातं स्यात्", "यथा सोम्यैकेन नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्यात्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4 (the Tittha Sutta) in the Pali Canon",
     "teaching": "Blind men each touch a different part of an elephant and each describes a different animal. Each is right about the part he touched and wrong about the whole.",
-    "link": "Each sorting rule touches one part of a thing. Hard or soft, shiny or dull and metal or not all tell something true. No single rule tells the whole."
+    "link": "Each sorting rule touches one part of a thing. Hard or soft, shiny or dull and metal or not all tell something true. No single rule tells the whole.",
+    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    },
    {
     "source": "Tao Te Ching 1",
     "teaching": "The way that can be spoken is not the eternal way. The name that can be named is not the eternal name.",
-    "link": "Groups are names we give. They are useful, but the world does not have to fit them. The platypus did not fit the old groups, so biologists gave egg-laying mammals their own group, the monotremes."
+    "link": "Groups are names we give. They are useful, but the world does not have to fit them. The platypus did not fit the old groups, so biologists gave egg-laying mammals their own group, the monotremes.",
+    "verse": ["道可道，非常道，名可名，非常名。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

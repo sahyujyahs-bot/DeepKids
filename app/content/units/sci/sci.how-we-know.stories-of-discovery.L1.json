@@ -1800,17 +1800,23 @@
    {
     "source": "Plato, Theaetetus 155d",
     "teaching": "Socrates, a thinker in ancient Greece, said that philosophy, the love of wisdom, begins with wonder. He said it has no other beginning.",
-    "link": "Your haldi test began with wonder: why did the stain go red? The wondering came first, and the test came next."
+    "link": "Your haldi test began with wonder: why did the stain go red? The wondering came first, and the test came next.",
+    "verse": ["μάλα γὰρ φιλοσόφου τοῦτο τὸ πάθος, τὸ θαυμάζειν· οὐ γὰρ ἄλλη ἀρχὴ φιλοσοφίας ἢ αὕτη"],
+    "verse_lang": "grc"
    },
    {
     "source": "Kena Upanishad 1.1",
     "teaching": "The Kena Upanishad, an old Indian teaching, begins with a question: 'By whom is the mind sent out?' It is even named after its first word, 'kena', which means 'by whom'. Asking is where it starts.",
-    "link": "The Kena Upanishad starts with a question, the way a scientist does. You started with a question too, and the question led you to the answer."
+    "link": "The Kena Upanishad starts with a question, the way a scientist does. You started with a question too, and the question led you to the answer.",
+    "verse": ["ॐ केनेषितं पतति प्रेषितं मनः", "केन प्राणः प्रथमः प्रैति युक्तः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Rig Veda 10.129.7 (the Nasadiya Sukta)",
     "teaching": "This very old hymn from the Rig Veda, called the Nasadiya Sukta, asks how the world began. It ends by saying that perhaps even the highest one does not know. It is honest about not knowing.",
-    "link": "Scientists also say 'we don't know yet' when they don't. Not knowing is where every new question, and every discovery, begins."
+    "link": "Scientists also say 'we don't know yet' when they don't. Not knowing is where every new question, and every discovery, begins.",
+    "verse": ["इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

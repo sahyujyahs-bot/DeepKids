@@ -439,17 +439,23 @@
    {
     "source": "Heraclitus, as reported by Plato in Cratylus 402a",
     "teaching": "Heraclitus, a Greek thinker, is said to have taught that everything flows, and that you cannot step into the same river twice. The water keeps moving, so the river is never the same.",
-    "link": "A rusting nail, a ripening banana and a fizzing glass are all flowing in a way. They look still, but their particles are always meeting and changing."
+    "link": "A rusting nail, a ripening banana and a fizzing glass are all flowing in a way. They look still, but their particles are always meeting and changing.",
+    "verse": ["πάντα χωρεῖ καὶ οὐδὲν μένει,", "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse_lang": "grc"
    },
    {
     "source": "Dhammapada 277",
     "teaching": "The Buddha is recorded as teaching that all made things are impermanent. Nothing made of parts stays the same.",
-    "link": "The Delhi Iron Pillar looks as if it will last forever. But a very slow reaction is working on it all the time. Slow is not the same as still."
+    "link": "The Delhi Iron Pillar looks as if it will last forever. But a very slow reaction is working on it all the time. Slow is not the same as still.",
+    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse_lang": "pi"
    },
    {
     "source": "Nagarjuna, Mulamadhyamakakarika, chapter 1",
     "teaching": "Nagarjuna, a Buddhist teacher in India about 1,800 years ago, argued that nothing happens by itself. Every event depends on causes and conditions meeting.",
-    "link": "A fizz needs the powders, the water and enough warmth to come together. Take one away, and nothing happens."
+    "link": "A fizz needs the powders, the water and enough warmth to come together. Take one away, and nothing happens.",
+    "verse": ["न स्वतो नापि परतो न द्वाभ्यां नाप्यहेतुतः", "उत्पन्ना जातु विद्यन्ते भावाः क्व चन के चन"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

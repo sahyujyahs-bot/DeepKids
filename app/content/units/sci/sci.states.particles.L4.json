@@ -3007,7 +3007,9 @@
    {
     "source": "Democritus of Abdera, as reported by Aristotle in the Metaphysics, Book 1",
     "teaching": "Democritus, an ancient Greek thinker, taught that everything is made of atoms and empty space. Atoms cannot be cut further. Different things come from different atoms joined in different ways.",
-    "link": "In the Squeeze Test, the air in the syringe squashed because its particles moved into the empty space between them. That is the empty space Democritus taught about."
+    "link": "In the Squeeze Test, the air in the syringe squashed because its particles moved into the empty space between them. That is the empty space Democritus taught about.",
+    "verse": ["Λεύκιππος δὲ καὶ ὁ ἑταῖρος αὐτοῦ Δημόκριτος στοιχεῖα μὲν τὸ πλῆρες καὶ τὸ κενὸν εἶναί φασι,", "ταύτας μέντοι τρεῖς εἶναι λέγουσι, σχῆμά τε καὶ τάξιν καὶ θέσιν·", "διαφέρειν γάρ φασι τὸ ὂν ῥυσμῷ καὶ διαθιγῇ καὶ τροπῇ μόνον·"],
+    "verse_lang": "grc"
    },
    {
     "source": "The Vaisheshika school, traditionally linked to the teacher Kanada",

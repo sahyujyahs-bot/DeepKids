@@ -2149,7 +2149,9 @@
    {
     "source": "Tao Te Ching 76",
     "teaching": "Plants are born soft and supple. When they die, they are dry and brittle.",
-    "link": "Only a young, soft, growing shoot can bend towards the light. The bend in our rai sprouts happened near the tip, where the stem was youngest and still growing."
+    "link": "Only a young, soft, growing shoot can bend towards the light. The bend in our rai sprouts happened near the tip, where the stem was youngest and still growing.",
+    "verse": ["人之生也柔弱，其死也堅強。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

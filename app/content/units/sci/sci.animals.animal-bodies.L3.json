@@ -3755,7 +3755,9 @@
    {
     "source": "Taittiriya Upanishad 3.2 and 3.3",
     "teaching": "The boy Bhrigu asks his father Varuna what the source of everything is. Bhrigu first understands that food is that source: from food all beings are born, by food they live, and into food they return. Then he understands that breath, prana, is the source too.",
-    "link": "In this unit, food and breath meet in every cell. Your body is built from food, it uses oxygen to get energy from that food, and part of the food goes back out in your breath."
+    "link": "In this unit, food and breath meet in every cell. Your body is built from food, it uses oxygen to get energy from that food, and part of the food goes back out in your breath.",
+    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Bhagavad Gita 3.14 to 3.16",

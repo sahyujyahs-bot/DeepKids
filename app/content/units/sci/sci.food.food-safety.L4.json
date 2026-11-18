@@ -515,12 +515,16 @@
    {
     "source": "Chandogya Upanishad 6.5",
     "teaching": "When food is eaten, it divides into three parts. The coarsest part leaves the body, the middle part builds the body, and the finest part builds the mind. Mind is made of food.",
-    "link": "Food builds your body when you eat it. The same food builds a million microbes if they reach it first and it is kept warm."
+    "link": "Food builds your body when you eat it. The same food builds a million microbes if they reach it first and it is kept warm.",
+    "verse": ["अन्नमशितं त्रेधा विधीयते", "तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति", "यो मध्यमस्तन्मांसम्", "योऽणिष्ठस्तन्मनः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Quran 2:168",
     "teaching": "Eat of what the earth gives that is lawful and good.",
-    "link": "The word translated as good means wholesome and pure. Food that is good is not only tasty, but safe to eat."
+    "link": "The word translated as good means wholesome and pure. Food that is good is not only tasty, but safe to eat.",
+    "verse": ["يَا أَيُّهَا النَّاسُ كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا"],
+    "verse_lang": "ar"
    },
    {
     "source": "Tirukkural 942",

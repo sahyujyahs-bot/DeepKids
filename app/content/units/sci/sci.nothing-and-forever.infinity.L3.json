@@ -2309,7 +2309,9 @@
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains.",
-    "link": "Take away the first hundred counting numbers, and the numbers that are left still never end. Taking a part away does not use up the endless."
+    "link": "Take away the first hundred counting numbers, and the numbers that are left still never end. Taking a part away does not use up the endless.",
+    "verse": ["ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते", "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"],
+    "verse_lang": "sa"
    },
    {
     "source": "Anuyogadvara Sutra, a Jain text",
@@ -2319,7 +2321,9 @@
    {
     "source": "Aristotle, Physics, Book III",
     "teaching": "The infinite is that beyond which there is always something more. It is never complete.",
-    "link": "This is the plus-one rule. However far you count, there is always more, and the counting is never complete."
+    "link": "This is the plus-one rule. However far you count, there is always more, and the counting is never complete.",
+    "verse": ["οὐ γὰρ οὗ μηδὲν ἔξω, ἀλλ’ οὗ ἀεί τι ἔξω ἐστί, τοῦτο ἄπειρόν ἐστιν."],
+    "verse_lang": "grc"
    }
   ],
   "science": [

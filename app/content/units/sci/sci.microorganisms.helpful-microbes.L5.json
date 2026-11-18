@@ -3656,12 +3656,16 @@
       {
         "source": "Taittiriya Upanishad 2.2",
         "teaching": "From food all beings are born. By food they live, and into food they pass when they die.",
-        "link": "A mango that we do not eat is eaten by moulds and bacteria. The mango returns to the soil as food for plants. In this unit's science too, everything alive is food for someone."
+        "link": "A mango that we do not eat is eaten by moulds and bacteria. The mango returns to the soil as food for plants. In this unit's science too, everything alive is food for someone.",
+        "verse": ["अन्नाद्वै प्रजाः प्रजायन्ते", "याः काश्च पृथिवीँ श्रिताः", "अथो अन्नेनैव जीवन्ति", "अथैनदपि यन्त्यन्ततः"],
+        "verse_lang": "sa"
       },
       {
         "source": "Digha Nikaya 16, the Mahaparinibbana Sutta (the Buddha's last words)",
         "teaching": "All things that have been put together come apart. Carry on your work with care.",
-        "link": "Preserving slows spoiling but never ends it. Honey keeps for years, yet spoils once water gets in. A cook who keeps food well is working carefully with that fact."
+        "link": "Preserving slows spoiling but never ends it. Honey keeps for years, yet spoils once water gets in. A cook who keeps food well is working carefully with that fact.",
+        "verse": ["handa dāni, bhikkhave, āmantayāmi vo,", "vayadhammā saṅkhārā appamādena sampādethā."],
+        "verse_lang": "pi"
       }
     ],
     "science": [

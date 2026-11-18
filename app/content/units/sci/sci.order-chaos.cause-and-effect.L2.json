@@ -2102,7 +2102,9 @@
    {
     "source": "Samyutta Nikaya 12.21, in the Pali Canon, the oldest written collection of the Buddha's teachings",
     "teaching": "When this is, that is. When this arises, that arises. When this is not, that is not. When this stops, that stops.",
-    "link": "When the fifth domino was there, the push went on. When it was taken away, the push stopped there. Each domino falls only because the one before it does."
+    "link": "When the fifth domino was there, the push went on. When it was taken away, the push stopped there. Each domino falls only because the one before it does.",
+    "verse": ["Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati.", "Imasmiṁ asati idaṁ na hoti, imassa nirodhā idaṁ nirujjhati."],
+    "verse_lang": "pi"
    },
    {
     "source": "Samkhya Karika, verse 9, by Ishvarakrishna, written more than 1,500 years ago",

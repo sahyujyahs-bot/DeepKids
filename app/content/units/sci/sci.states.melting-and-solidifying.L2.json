@@ -2380,17 +2380,23 @@
    {
     "source": "Plato, Cratylus 402a, quoting Heraclitus",
     "teaching": "Heraclitus, a thinker from ancient Greece, said that everything flows and nothing stays still. He said you cannot step into the same river twice.",
-    "link": "A river keeps its name while its water keeps changing. Coconut oil keeps its name too, whether it is hard and white in Delhi or runny and golden in Kochi."
+    "link": "A river keeps its name while its water keeps changing. Coconut oil keeps its name too, whether it is hard and white in Delhi or runny and golden in Kochi.",
+    "verse": ["πάντα χωρεῖ καὶ οὐδὲν μένει,", "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse_lang": "grc"
    },
    {
     "source": "Dhammapada 277",
     "teaching": "The Buddha taught that anything made up of parts, and brought about by causes, does not last forever. Seeing this clearly makes us suffer less.",
-    "link": "A solid stays solid only while it stays cool enough. Warm it, and its shape goes. In the melting race, each solid kept its shape only until it got warm enough to melt."
+    "link": "A solid stays solid only while it stays cool enough. Warm it, and its shape goes. In the melting race, each solid kept its shape only until it got warm enough to melt.",
+    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse_lang": "pi"
    },
    {
     "source": "Tao Te Ching 78",
     "teaching": "Nothing in the world is softer or weaker than water. Yet nothing is better at wearing away what is hard and strong.",
-    "link": "This teaching comes from the Tao Te Ching, a book from China. It praises what is soft and flowing. Hard ice and soft water are the same water, and the hard ice can melt into the soft water."
+    "link": "This teaching comes from the Tao Te Ching, a book from China. It praises what is soft and flowing. Hard ice and soft water are the same water, and the hard ice can melt into the soft water.",
+    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

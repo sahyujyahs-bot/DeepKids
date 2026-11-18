@@ -3057,7 +3057,9 @@
    {
     "source": "Samyutta Nikaya 12 (dependent origination), a collection of the Buddha's teachings",
     "teaching": "The Buddha taught: when this exists, that comes to be. When this does not exist, that does not come to be. Nothing arises alone. It arises from conditions.",
-    "link": "In the story The Ban on the Gola Cart, there were no golas on the day the cart was closed, but people still got sunburnt. By the Buddha's test, the sunburn did not depend on the golas. It depended on the sun."
+    "link": "In the story The Ban on the Gola Cart, there were no golas on the day the cart was closed, but people still got sunburnt. By the Buddha's test, the sunburn did not depend on the golas. It depended on the sun.",
+    "verse": ["Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati.", "Imasmiṁ asati idaṁ na hoti, imassa nirodhā idaṁ nirujjhati."],
+    "verse_lang": "pi"
    },
    {
     "source": "Tirukkural 423, by Thiruvalluvar, an ancient Tamil book of short poems",

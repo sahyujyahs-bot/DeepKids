@@ -3495,7 +3495,9 @@
       {
         "source": "Taittiriya Upanishad 2.2",
         "teaching": "From food all beings are born. By food they live, and into food they return at the end.",
-        "link": "The verse says that every living body is made from other living bodies. Vitamin A is a small, exact example. Animals do not make vitamin A from nothing, so the vitamin passes from plant to animal to animal. The Upanishad says this as an insight about all life, which science does not test."
+        "link": "The verse says that every living body is made from other living bodies. Vitamin A is a small, exact example. Animals do not make vitamin A from nothing, so the vitamin passes from plant to animal to animal. The Upanishad says this as an insight about all life, which science does not test.",
+        "verse": ["अन्नाद्वै प्रजाः प्रजायन्ते", "याः काश्च पृथिवीँ श्रिताः", "अथो अन्नेनैव जीवन्ति", "अथैनदपि यन्त्यन्ततः"],
+        "verse_lang": "sa"
       },
       {
         "source": "Tirukkural 942 and 943, by Thiruvalluvar",

@@ -1884,7 +1884,9 @@
    {
     "source": "Brihadaranyaka Upanishad 1.3.28",
     "teaching": "Lead me from darkness to light.",
-    "link": "In the dark room, a light source led you from darkness to light. You could see your hand only when the torch was making light."
+    "link": "In the dark room, a light source led you from darkness to light. You could see your hand only when the torch was making light.",
+    "verse": ["असतो मा सद्गमय, तमसो मा ज्योतिर्गमय, मृत्योर्मामृतं गमयेति"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

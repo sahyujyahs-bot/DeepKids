@@ -430,12 +430,16 @@
    {
     "source": "Isha Upanishad, verse 1",
     "teaching": "The Isha Upanishad begins by saying that all of this world is filled by one source. So enjoy what is given, and do not grab what belongs to someone else.",
-    "link": "In the Shared Pond game, grabbing more than the pond can give empties it for everyone. Taking only what is needed leaves enough for all."
+    "link": "In the Shared Pond game, grabbing more than the pond can give empties it for everyone. Taking only what is needed leaves enough for all.",
+    "verse": ["ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्", "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Atharvaveda, the hymn to the Earth (Prithvi Sukta)",
     "teaching": "An old hymn to the Earth, in the Atharvaveda, asks that whatever is dug from her may quickly grow back, and that we may never hurt her heart.",
-    "link": "This is the rule of sustainable living in one verse: take only what grows back."
+    "link": "This is the rule of sustainable living in one verse: take only what grows back.",
+    "verse": ["यत्ते भूमे विखनामि क्षिप्रं तदपि रोहतु ।", "मा ते मर्म विमृग्वरि मा ते हृदयमर्पिपम्"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

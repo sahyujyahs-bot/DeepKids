@@ -3380,12 +3380,16 @@
       {
         "source": "Chandogya Upanishad 6.12",
         "teaching": "Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. Inside, Shvetaketu can see nothing at all. Uddalaka tells him that the whole great banyan tree grows out of something in the seed that is too fine to see.",
-        "link": "The first cell of your body held no tiny fingerprint you could have seen. The ridges appeared only as your fingertips grew, before you were born."
+        "link": "The first cell of your body held no tiny fingerprint you could have seen. The ridges appeared only as your fingertips grew, before you were born.",
+        "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+        "verse_lang": "sa"
       },
       {
         "source": "Plato, Cratylus 402a, reporting Heraclitus",
         "teaching": "Heraclitus, a Greek thinker, said you cannot step into the same river twice. The water is always new, yet it is still the river.",
-        "link": "Your outer skin is replaced every month or two, yet the same fingerprint grows back each time, because its pattern is held in a deeper layer of skin."
+        "link": "Your outer skin is replaced every month or two, yet the same fingerprint grows back each time, because its pattern is held in a deeper layer of skin.",
+        "verse": ["δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+        "verse_lang": "grc"
       },
       {
         "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing'",

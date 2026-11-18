@@ -2928,7 +2928,9 @@
    {
     "source": "Tao Te Ching, chapter 9",
     "teaching": "To keep filling a bowl to the brim is not as good as stopping in time.",
-    "link": "In Feed the Field, the third bean added nothing to the harvest and went into the pond. The text is about how to live. Farmers and doctors have found that the same holds for fertiliser and medicine."
+    "link": "In Feed the Field, the third bean added nothing to the harvest and went into the pond. The text is about how to live. Farmers and doctors have found that the same holds for fertiliser and medicine.",
+    "verse": ["持而盈之，不如其已。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

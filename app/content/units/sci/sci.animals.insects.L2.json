@@ -2194,17 +2194,23 @@
    {
     "source": "Acharanga Sutra 1.2.3",
     "teaching": "This old Jain text says that all beings love their life. They want to be happy and do not want to be hurt. To all of them, life is dear.",
-    "link": "An ant who carries a crumb home is working for her own life and her sisters' lives. The Jain teaching asks us to care for the smallest beings, which is why this unit says: watch the ants, but do not spray or squash them."
+    "link": "An ant who carries a crumb home is working for her own life and her sisters' lives. The Jain teaching asks us to care for the smallest beings, which is why this unit says: watch the ants, but do not spray or squash them.",
+    "verse": ["सव्वे पाणा पियाउया", "सुह-साया दुक्ख-पडिकूला", "अप्पिय-वहा पिय-जीविणो जीविउ-कामा", "सव्वेसिं जीवियं पियं"],
+    "verse_lang": "pra"
    },
    {
     "source": "Proverbs 6:6-8",
     "teaching": "The Bible says: go to the ant and watch her ways. She has no ruler or boss, yet she gathers her food in summer.",
-    "link": "In the crumb test, no ant gave orders. Each ant carried what she could, and the colony's food arrived anyway."
+    "link": "In the crumb test, no ant gave orders. Each ant carried what she could, and the colony's food arrived anyway.",
+    "verse": ["לֵךְ־אֶל־נְמָלָה עָצֵל רְאֵה דְרָכֶיהָ וַחֲכָם", "אֲשֶׁר אֵין־לָהּ קָצִין שֹׁטֵר וּמֹשֵׁל", "תָּכִין בַּקַּיִץ לַחְמָהּ אָגְרָה בַקָּצִיר מַאֲכָלָהּ"],
+    "verse_lang": "he"
    },
    {
     "source": "The Quran, Surah An-Naml 27:18",
     "teaching": "The Quran tells of an ant who sees King Solomon's army coming. She calls to the other ants to go into their homes, so that they are not crushed.",
-    "link": "In this story an ant notices danger, thinks of her sisters and warns them. Real ants also warn and call each other, with smells and touches of their antennae."
+    "link": "In this story an ant notices danger, thinks of her sisters and warns them. Real ants also warn and call each other, with smells and touches of their antennae.",
+    "verse": ["قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ"],
+    "verse_lang": "ar"
    }
   ],
   "science": [

@@ -1794,7 +1794,9 @@
    {
     "source": "The Udana 6.4, a Buddhist text, which tells the story of the blind men and the elephant (Jain teachers tell this story too)",
     "teaching": "Several blind men each touched one part of an elephant. One felt the trunk, one the ear, one the leg. Each one described a different elephant, and each was right about the part he touched.",
-    "link": "In Who Hears It Louder?, the person next to the temple bell heard a loud sound, and the friend at the end of the street heard a soft one. It was one bell. Each of them told the truth about what reached their own ears."
+    "link": "In Who Hears It Louder?, the person next to the temple bell heard a loud sound, and the friend at the end of the street heard a soft one. It was one bell. Each of them told the truth about what reached their own ears.",
+    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

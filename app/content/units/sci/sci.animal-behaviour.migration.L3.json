@@ -2965,17 +2965,23 @@
    {
     "source": "Jeremiah 8:7, in the Hebrew Bible",
     "teaching": "The stork in the sky knows her appointed times. The turtledove, the swift and the crane keep the time of their coming.",
-    "link": "About 2,600 years ago, people already saw that storks, doves, swifts and cranes leave and return at the same time every year, without being taught. Today we know that young birds are born with a timing and a direction."
+    "link": "About 2,600 years ago, people already saw that storks, doves, swifts and cranes leave and return at the same time every year, without being taught. Today we know that young birds are born with a timing and a direction.",
+    "verse": ["גַּם־חֲסִידָה בַשָּׁמַיִם יָדְעָה מוֹעֲדֶיהָ", "וְתֹר וְסִיס וְעָגוּר שָׁמְרוּ אֶת־עֵת בֹּאָנָה"],
+    "verse_lang": "he"
    },
    {
     "source": "Kalidasa, Meghaduta (The Cloud Messenger), first part, verse 11 (numbering differs a little between editions)",
     "teaching": "When they hear the cloud's thunder, the royal swans, longing for Lake Manasa, fly with the cloud through the sky as far as Mount Kailasa, carrying pieces of lotus stalk as food for the journey.",
-    "link": "Bar-headed geese leave India in spring for lakes on the Tibetan plateau, the same high country as Mount Kailasa. A long journey really does need food stored for the way: real birds carry it as fat."
+    "link": "Bar-headed geese leave India in spring for lakes on the Tibetan plateau, the same high country as Mount Kailasa. A long journey really does need food stored for the way: real birds carry it as fat.",
+    "verse": ["कर्तुं यच्च प्रभवति महीमुच्छिलीन्ध्रामवन्ध्याम्", "तच्छ्रुत्वा ते श्रवणसुभगं गर्जितं मानसोत्काः ।", "आ कैलासाद् बिसकिसलयच्छेदपाथेयवन्तः", "सम्पत्स्यन्ते नभसि भवतो राजहंसाः सहायाः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi, chapter 1 (Free and Easy Wandering)",
     "teaching": "When the great bird Peng flies to the southern sea, Peng beats the water for three thousand li and rises on the whirlwind, and sets off on the winds of the sixth month.",
-    "link": "Peng waits for the right wind before leaving. Real migrants do the same: radar shows many more birds take off when the wind blows their way. Your paper butterfly showed why."
+    "link": "Peng waits for the right wind before leaving. Real migrants do the same: radar shows many more birds take off when the wind blows their way. Your paper butterfly showed why.",
+    "verse": ["鵬之徙於南冥也，水擊三千里，摶扶搖而上者九萬里，去以六月息者也。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

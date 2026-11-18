@@ -2499,7 +2499,9 @@
    {
     "source": "Atharva Veda 12.1.12 (the Prithvi Sukta, the hymn to the Earth)",
     "teaching": "The Earth is my mother, and I am her child.",
-    "link": "A child's body is built from what the mother gives. Our bodies are built from the Earth's air, water and food, so what we put into the air and water comes back into us."
+    "link": "A child's body is built from what the mother gives. Our bodies are built from the Earth's air, water and food, so what we put into the air and water comes back into us.",
+    "verse": ["यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।", "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"],
+    "verse_lang": "sa"
    },
    {
     "source": "Acharanga Sutra, Book 1, Lecture 1 (Jain teaching on not harming)",

@@ -2123,7 +2123,9 @@
    {
     "source": "Samyutta Nikaya 12.21 (the Buddha's teaching of dependent arising)",
     "teaching": "When this is, that is. When this arises, that arises. When this is not, that is not.",
-    "link": "Each part of the ladle grew warm only because the part before it was warm. When the water was taken away, the warmth along the handle faded too."
+    "link": "Each part of the ladle grew warm only because the part before it was warm. When the water was taken away, the warmth along the handle faded too.",
+    "verse": ["Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati.", "Imasmiṁ asati idaṁ na hoti, imassa nirodhā idaṁ nirujjhati."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

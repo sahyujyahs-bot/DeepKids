@@ -527,12 +527,16 @@
    {
     "source": "Brihadaranyaka Upanishad 2.4.7",
     "teaching": "The Upanishad says that when a drum is beaten, one cannot grasp the sounds that go out from it, but by grasping the drum or the drummer, one grasps the sound.",
-    "link": "You cannot get hold of a sound by itself. You find it through the drum, the air and the listener together."
+    "link": "You cannot get hold of a sound by itself. You find it through the drum, the air and the listener together.",
+    "verse": ["स यथा दुन्दुभेर्हन्यमानस्य न बाह्याञ्छब्दाञ्छक्नुयाद्ग्रहणाय", "दुन्दुभेस्तु ग्रहणेन दुन्दुभ्याघातस्य वा शब्दो गृहीतः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi, chapter 2 (the piping of earth)",
     "teaching": "Zhuangzi, an ancient Chinese thinker, described the wind blowing across ten thousand hollows in the earth, each one making its own sound. He asked who makes them sound, when the wind is the same.",
-    "link": "The same wave sounds different in each ear and in each hollow, because the one who receives it shapes what is heard."
+    "link": "The same wave sounds different in each ear and in each hollow, because the one who receives it shapes what is heard.",
+    "verse": ["夫大塊噫氣，其名爲風。是唯无作，作則萬竅怒呺。", "夫吹萬不同而使其自己也，咸其自取，怒者其誰邪？"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

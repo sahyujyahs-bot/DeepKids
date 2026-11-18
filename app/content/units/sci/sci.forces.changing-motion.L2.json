@@ -2124,7 +2124,9 @@
    {
     "source": "Dhammapada, verse 277",
     "teaching": "The Buddha taught that all conditioned things are impermanent. A conditioned thing is one that comes about through causes, and so it changes when the causes change.",
-    "link": "In every test in this unit, a change had a cause you could find: a hand, a wall or the pull of the Earth. When the wall's push ended, the marble's path changed too."
+    "link": "In every test in this unit, a change had a cause you could find: a hand, a wall or the pull of the Earth. When the wall's push ended, the marble's path changed too.",
+    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse_lang": "pi"
    }
   ],
   "science": [

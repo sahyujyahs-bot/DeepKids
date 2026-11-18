@@ -3386,12 +3386,16 @@
    {
     "source": "Katha Upanishad 2.2.15 (also Mundaka Upanishad 2.2.10)",
     "teaching": "There the Sun does not shine, nor the Moon and stars, nor lightning, let alone this fire. When That shines, everything shines after it. By its light, all this is lit.",
-    "link": "The verse says every light we see shines by a light behind it. In this unit, a firefly's flash is energy that came from the Sun, through plants and food. Science can follow that chain back to the Sun. The verse asks what lights even the Sun."
+    "link": "The verse says every light we see shines by a light behind it. In this unit, a firefly's flash is energy that came from the Sun, through plants and food. Science can follow that chain back to the Sun. The verse asks what lights even the Sun.",
+    "verse": ["न तत्र सूर्यो भाति न चन्द्रतारकं", "नेमा विद्युतो भान्ति कुतोऽयमग्निः", "तमेव भान्तमनुभाति सर्वं", "तस्य भासा सर्वमिदं विभाति"],
+    "verse_lang": "sa"
    },
    {
     "source": "The Buddha, speaking to Ananda near the end of his life, in the Mahaparinibbana Sutta (Digha Nikaya 16)",
     "teaching": "Be a lamp for yourselves. Be a refuge for yourselves. The Pali word 'dipa' can mean both lamp and island, and scholars translate it both ways.",
-    "link": "A firefly does not borrow their light from the Sun or the Moon. They make it in their own body. The Buddha asked people to find their way by their own understanding, not by leaning on others."
+    "link": "A firefly does not borrow their light from the Sun or the Moon. They make it in their own body. The Buddha asked people to find their way by their own understanding, not by leaning on others.",
+    "verse": ["Tasmātihānanda, attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

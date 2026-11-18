@@ -83,7 +83,7 @@ In the Squeeze Test, water dripped out of a cucumber, and we found that some foo
 
 The water in a cucumber was rain once. The rain soaked into the soil. Then a cucumber plant stored that water in their fruit. You eat the cucumber, and the water becomes part of you. Then it leaves you in your sweat and breath, and rises to make clouds again.
 
-- **Taittiriya Upanishad 3.2:** The sage Bhrigu thought hard about where living beings come from. He understood that living beings are born from food, live by food, and go back into food. (Your body is built from what you eat and drink. Even the water in you came in through your food and your tumbler.)
+- **Taittiriya Upanishad 3.2:** “अन्नं ब्रह्मेति व्यजानात् / अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते / अन्नेन जातानि जीवन्ति / अन्नं प्रयन्त्यभिसंविशन्तीति” The sage Bhrigu thought hard about where living beings come from. He understood that living beings are born from food, live by food, and go back into food. (Your body is built from what you eat and drink. Even the water in you came in through your food and your tumbler.)
 - **Thirukkural 12, by Thiruvalluvar:** “துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத் / துப்பாய தூஉம் மழை.” Rain grows the food that people eat. Rain is also a drink for them. (Rain grew the cucumber, and the water that drips from it is that rain.)
 - Science (settled): A cucumber is about 95 parts water out of 100. The water is held in tiny living cells, and it keeps the cucumber firm and crisp.
 - Science (open): When your body is short of water, a small part of your brain senses it and makes you feel thirsty. Exactly how thirst switches off so fast when you drink is still being studied.

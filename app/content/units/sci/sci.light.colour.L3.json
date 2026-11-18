@@ -3353,7 +3353,9 @@
    {
     "source": "Chandogya Upanishad 6.4.1",
     "teaching": "The teacher Uddalaka tells his son that the red colour of a fire belongs to heat, its white to water, and its dark to food. 'Fire' is only a name, he says. The three colours underneath are what is real.",
-    "link": "Uddalaka looked under one name and found a mix of colours. A prism does the same with sunlight: under the one name 'white' are all the colours of the rainbow. His three colours are not the rainbow's, but the way of looking is the same."
+    "link": "Uddalaka looked under one name and found a mix of colours. A prism does the same with sunlight: under the one name 'white' are all the colours of the rainbow. His three colours are not the rainbow's, but the way of looking is the same.",
+    "verse": ["यदग्ने रोहितं रूपं तेजसस्तद्रूपम्", "यच्छुक्लं तदपाम्", "यत्कृष्णं तदन्नस्य"],
+    "verse_lang": "sa"
    },
    {
     "source": "Avatamsaka Sutra, the image of Indra's net",

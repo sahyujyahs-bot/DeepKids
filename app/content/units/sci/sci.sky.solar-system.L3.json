@@ -2798,7 +2798,9 @@
    {
     "source": "Rig Veda 1.115.1",
     "teaching": "The Sun is the self of all that moves and all that stands still.",
-    "link": "Almost everything that moves on the Earth (wind, rivers, plants and animals) runs on the Sun's light. The unit shows how that light reaches each planet."
+    "link": "Almost everything that moves on the Earth (wind, rivers, plants and animals) runs on the Sun's light. The unit shows how that light reaches each planet.",
+    "verse": ["चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।", "आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च"],
+    "verse_lang": "sa"
    },
    {
     "source": "Nicolaus Copernicus, De revolutionibus, 1543, Book 1, chapter 10",

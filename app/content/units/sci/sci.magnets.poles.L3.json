@@ -2279,12 +2279,16 @@
    {
     "source": "Tao Te Ching, chapter 2",
     "teaching": "Long and short shape each other. High and low lean on each other. Front and back follow each other.",
-    "link": "A north pole never exists without a south pole. Cut a magnet, and both appear again at the cut. Each pole needs the other."
+    "link": "A north pole never exists without a south pole. Cut a magnet, and both appear again at the cut. Each pole needs the other.",
+    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Heraclitus, fragment B51 (Diels-Kranz numbering), about 500 BCE",
     "teaching": "People do not see how something pulling apart also holds together, like the bow and the lyre, held in shape by strings pulling against them.",
-    "link": "Two magnets that repel can stay apart only while something keeps them facing the same way. Without that, the push twists one magnet round, and the two attract."
+    "link": "Two magnets that repel can stay apart only while something keeps them facing the same way. Without that, the push twists one magnet round, and the two attract.",
+    "verse": ["οὐ ξυνιᾶσιν ὅκως διαφερόμενον ἑωυτῷ συμφέρεται· παλίντονος ἁρμονίη ὅκωσπερ τόξου καὶ λύρης"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

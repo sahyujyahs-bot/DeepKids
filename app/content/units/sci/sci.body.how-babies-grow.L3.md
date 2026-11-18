@@ -170,7 +170,7 @@ We have been learning how a baby grows from one cell into a whole person. Now we
 
 You began as one cell, made from a cell of each parent. That one cell became trillions of cells of many kinds: skin, bone, heart and brain. All of them were built from food your mother ate, and that food came from plants, soil, rain and sunlight. So each new person is built from many other lives: the plants, the farmers who grew them, and the mother who carried the baby.
 
-- **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to split a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that tiny thing you cannot see, this huge banyan tree grows.' (You began as one cell, too small to see. Everything you are now grew out of that one cell.)
+- **Chandogya Upanishad 6.12:** “किमत्र पश्यसीति । न किंचन भगव इति / तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति” Uddalaka asks his son Shvetaketu to split a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that tiny thing you cannot see, this huge banyan tree grows.' (You began as one cell, too small to see. Everything you are now grew out of that one cell.)
 - **Thich Nhat Hanh, the idea of 'interbeing':** Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in the paper. Nothing exists all by itself. (A baby is built from their mother's meals. In them are the farmer's rice, the rain and the sun.)
 - Science (settled): Every cell in your body came from one first cell, and almost every one has the same DNA.
 - Science (open): A few cells from a baby can live on in the mother's body for decades. What they do is not yet known.

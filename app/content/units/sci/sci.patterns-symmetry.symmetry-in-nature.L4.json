@@ -489,17 +489,23 @@
    {
     "source": "Tao Te Ching 42",
     "teaching": "The Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things.",
-    "link": "One even start splits into two sides, and the many things come after. A flat strip becomes a bend to one side, and a ball of cells becomes a body with a left and a right."
+    "link": "One even start splits into two sides, and the many things come after. A flat strip becomes a bend to one side, and a ball of cells becomes a body with a left and a right.",
+    "verse": ["道生一，一生二，二生三，三生萬物。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Chandogya Upanishad 6.2.1 to 6.2.3",
     "teaching": "In the beginning there was only Being, one without a second. Being thought, 'May I become many.'",
-    "link": "An even beginning is one. The many different shapes and sides come later. Symmetry breaking is the science of how one even start can become many different things."
+    "link": "An even beginning is one. The many different shapes and sides come later. Symmetry breaking is the science of how one even start can become many different things.",
+    "verse": ["सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम्", "तदैक्षत", "बहु स्यां प्रजायेयेति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Aristotle, On the Heavens 2.13, reporting the thinker Anaximander",
     "teaching": "Anaximander is reported to have said that the Earth stays still because it is equally far from everything, so it has no reason to move one way rather than another.",
-    "link": "Anaximander argued from symmetry: with no reason to go one way, nothing moves. In the Pushed Strip experiment the pushes were equal, yet the strip still bent, because a tiny difference decided the side."
+    "link": "Anaximander argued from symmetry: with no reason to go one way, nothing moves. In the Pushed Strip experiment the pushes were equal, yet the strip still bent, because a tiny difference decided the side.",
+    "verse": ["εἰσὶ δέ τινες οἳ διὰ τὴν ὁμοιότητά φασιν αὐτὴν μένειν, ὥσπερ τῶν ἀρχαίων Ἀναξίμανδρος", "μᾶλλον μὲν γὰρ οὐθὲν ἄνω ἢ κάτω ἢ εἰς τὰ πλάγια φέρεσθαι προσήκειν τὸ ἐπὶ τοῦ μέσου ἱδρυμένον καὶ ὁμοίως πρὸς τὰ ἔσχατα ἔχον"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

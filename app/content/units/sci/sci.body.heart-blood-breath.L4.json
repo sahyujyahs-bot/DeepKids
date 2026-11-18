@@ -3102,12 +3102,16 @@
    {
     "source": "Prashna Upanishad, question 2, verses 2 to 4",
     "teaching": "The powers of the body, such as speech, mind, sight and hearing, each said that it was the chief one. Prana, the breath of life, began to leave, and all the others began to leave with it, like bees following a queen. They saw that they all depended on the breath.",
-    "link": "The Upanishad picks the breath as the one that holds the rest together. In our science, the dependence goes both ways, because no cell works without oxygen and the breath and the heartbeat answer to the cells."
+    "link": "The Upanishad picks the breath as the one that holds the rest together. In our science, the dependence goes both ways, because no cell works without oxygen and the breath and the heartbeat answer to the cells.",
+    "verse": ["सोऽभिमानादूर्ध्वमुत्क्रमत इव", "तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते", "तस्मिंश्च प्रतिष्ठमाने सर्व एव प्रातिष्ठन्ते", "तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्वा एवोत्क्रामन्ते"],
+    "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi, chapter 6 (about 300 BCE)",
     "teaching": "The true people of old breathed from their heels, and ordinary people breathe from their throats.",
-    "link": "A slow, deep breath reaches further into the lungs than a quick, shallow one. At rest, the body asks for little, and the breath can be slow and deep."
+    "link": "A slow, deep breath reaches further into the lungs than a quick, shallow one. At rest, the body asks for little, and the breath can be slow and deep.",
+    "verse": ["眞人之息以踵，衆人之息以喉。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Kabir, 'Student, tell me, what is God?' (15th century, in Robert Bly's translation)",

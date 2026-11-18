@@ -2248,7 +2248,9 @@
    {
     "source": "Heraclitus, fragment 91 (Diels-Kranz numbering)",
     "teaching": "Heraclitus, a Greek thinker who lived about 2,500 years ago, said you cannot step into the same river twice, because new water is always flowing past.",
-    "link": "Your floor looks still. Yet it is always moving with the Earth. Like the river, even things that look still are on the move."
+    "link": "Your floor looks still. Yet it is always moving with the Earth. Like the river, even things that look still are on the move.",
+    "verse": ["ποταμῷ γὰρ οὐκ ἔστιν ἐμβῆναι δὶς τῷ αὐτῷ"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

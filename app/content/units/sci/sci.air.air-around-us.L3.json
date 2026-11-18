@@ -2696,12 +2696,16 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "Clay is shaped into a pot. But it is the empty space inside that makes the pot useful.",
-    "link": "Lao Tzu called the inside of a pot empty. Our tests show that this space is filled with air. When we pour water in, the air must make way. In the Full Glass test, we saw the air come out as bubbles."
+    "link": "Lao Tzu called the inside of a pot empty. Our tests show that this space is filled with air. When we pour water in, the air must make way. In the Full Glass test, we saw the air come out as bubbles.",
+    "verse": ["埏埴以為器，當其無，有器之用。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Chandogya Upanishad 4.3, the teaching of Raikva",
     "teaching": "Among the forces of the world, air takes everything into itself: when a fire goes out, it goes into the air. In a person, breath does the same.",
-    "link": "The Upanishad sees air outside and breath inside as two forms of one thing. Science agrees that the air of the room and the air in our lungs are the same air, moving in and out."
+    "link": "The Upanishad sees air outside and breath inside as two forms of one thing. Science agrees that the air of the room and the air in our lungs are the same air, moving in and out.",
+    "verse": ["वायुर्वाव संवर्गः", "यदा वा अग्निरुद्वायति वायुमेवाप्येति", "यदा सूर्योऽस्तमेति वायुमेवाप्येति", "यदा चन्द्रोऽस्तमेति वायुमेवाप्येति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Anaximenes, a thinker in ancient Greece, about 550 BCE (a saying later writers credit to him)",

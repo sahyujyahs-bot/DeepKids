@@ -3051,12 +3051,16 @@
    {
     "source": "Heraclitus, fragment 60 (Diels and Kranz numbering)",
     "teaching": "Heraclitus, a Greek thinker of about 500 BCE, taught that the road up and the road down are one and the same.",
-    "link": "In a convection current, the rising and the sinking are one loop. Neither can happen without the other."
+    "link": "In a convection current, the rising and the sinking are one loop. Neither can happen without the other.",
+    "verse": ["ὁδὸς ἄνω κάτω μία καὶ ωὑτή"],
+    "verse_lang": "grc"
    },
    {
     "source": "Chandogya Upanishad 6.2.3 and 6.2.4",
     "teaching": "This text says that Being first sent out heat, and then from heat came water, and from water came food. Heat is named as the first of the many forms.",
-    "link": "Heat is where this unit starts, too. It is the thing that moves, mixes and drives the loops in water, air and rock."
+    "link": "Heat is where this unit starts, too. It is the thing that moves, mixes and drives the loops in water, air and rock.",
+    "verse": ["तत्तेजोऽसृजत", "तदपोऽसृजत", "ता आप ऐक्षन्त बह्वयः स्याम प्रजायेमहीति", "ता अन्नमसृजन्त"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

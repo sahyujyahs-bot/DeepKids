@@ -3696,12 +3696,16 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "We shape clay into a pot. But it is the empty space inside that makes the pot useful.",
-    "link": "The gaps in wool are not truly empty. They are full of still air. But like the space inside Laozi's pot, they are what make the sweater useful. The tiny holes in a clay pot do the same for cool water."
+    "link": "The gaps in wool are not truly empty. They are full of still air. But like the space inside Laozi's pot, they are what make the sweater useful. The tiny holes in a clay pot do the same for cool water.",
+    "verse": ["埏埴以為器，當其無，有器之用。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka tells his son that once you know one lump of clay, you know everything made of clay. The pots are only different shapes and names. What is real is the clay.",
-    "link": "A clay pot, a kulhad and a diya are different objects with different jobs, yet all are clay. This unit's science goes one step further: clay, steel and wool are all atoms, joined in different ways."
+    "link": "A clay pot, a kulhad and a diya are different objects with different jobs, yet all are clay. This unit's science goes one step further: clay, steel and wool are all atoms, joined in different ways.",
+    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

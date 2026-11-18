@@ -4202,12 +4202,16 @@
    {
     "source": "Nagarjuna, Mulamadhyamakakarika 24.18",
     "teaching": "Nothing has its nature all by itself. Everything is what it is because of the other things it depends on.",
-    "link": "Heaviness is like this. You feel heavy only when the Earth pulls you and something holds you up. Take away the floor, as in a fall, and the heavy feeling is gone, though you have not changed."
+    "link": "Heaviness is like this. You feel heavy only when the Earth pulls you and something holds you up. Take away the floor, as in a fall, and the heavy feeling is gone, though you have not changed.",
+    "verse": ["यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे", "सा प्रज्ञप्तिरुपादाय प्रतिपत् सैव मध्यमा"],
+    "verse_lang": "sa"
    },
    {
     "source": "Rig Veda 10.129, the hymn of creation",
     "teaching": "In the beginning there was neither being nor non-being. How did it all begin? Who really knows?",
-    "link": "The hymn asks honestly, 'Who really knows?' Scientists can measure weight very exactly, yet they still do not know what gravity really is."
+    "link": "The hymn asks honestly, 'Who really knows?' Scientists can measure weight very exactly, yet they still do not know what gravity really is.",
+    "verse": ["नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत्।", "किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम्", "को अद्धा वेद क इह प्र वोचत्कुत आजाता कुत इयं विसृष्टिः।", "अर्वाग्देवा अस्य विसर्जनेनाथा को वेद यत आबभूव"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

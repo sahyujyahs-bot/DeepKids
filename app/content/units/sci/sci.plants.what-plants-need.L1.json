@@ -1774,7 +1774,9 @@
    {
     "source": "Rig Veda 1.115.1",
     "teaching": "The Sun is the self of all that moves and all that stays still.",
-    "link": "The teaching says the Sun is the self of everything that moves, like animals, and everything that stays still, like plants. Plants stay in one place, yet they use the Sun's light to grow and make food. Humans and other animals, who move, eat what plants make."
+    "link": "The teaching says the Sun is the self of everything that moves, like animals, and everything that stays still, like plants. Plants stay in one place, yet they use the Sun's light to grow and make food. Humans and other animals, who move, eat what plants make.",
+    "verse": ["चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।", "आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thirukkural 16, by Thiruvalluvar",

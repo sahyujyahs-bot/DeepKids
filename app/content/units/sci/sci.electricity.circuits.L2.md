@@ -98,7 +98,7 @@ We have built a circuit, coiled and knotted its wires, and looked inside a bulb.
 
 A straight wire and a knotted wire look different. To the circuit they are the same path, because the metal is unbroken. A Chennai metro map works the same way. It does not show the real bends of the streets, only which stations join, and that is enough to travel. What matters is how things are joined.
 
-- **Nagarjuna, Mulamadhyamakakarika 24.18:** Nagarjuna, a teacher in South India about 1,800 years ago, taught that nothing has its nature all by itself. Each thing is what it is because of what it depends on. (A bulb on its own does nothing. It glows only because of what it is joined to: the wires, and the two ends of the cell.)
+- **Nagarjuna, Mulamadhyamakakarika 24.18:** “यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे / सा प्रज्ञप्तिरुपादाय प्रतिपत् सैव मध्यमा” Nagarjuna, a teacher in South India about 1,800 years ago, taught that nothing has its nature all by itself. Each thing is what it is because of what it depends on. (A bulb on its own does nothing. It glows only because of what it is joined to: the wires, and the two ends of the cell.)
 - **Avatamsaka Sutra, the net of Indra:** Buddhist teachers describe a great net with a jewel at every knot. Each jewel reflects every other jewel. (In a net, what matters is which knots are joined, not how the net is folded. A circuit is a small net of joins too.)
 - Science (settled): A bulb lights only when there is a complete metal path from one end of the cell, through the bulb, to the other end.
 - Science (settled): Whether a circuit is complete depends only on its joins, not on the shape of its wires. Mathematicians call properties like this topological.

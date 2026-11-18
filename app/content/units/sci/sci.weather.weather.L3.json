@@ -2886,7 +2886,9 @@
    {
     "source": "Udana 6.4, in the Buddhist Pali Canon: the blind men and the elephant",
     "teaching": "Several blind men each touched one part of an elephant. One felt the trunk, one the leg, one the ear. Each was sure the elephant was what he had touched.",
-    "link": "Each thermometer reading was true for its own place, like each man's touch. Weather offices put many readings, taken the same way, together to see the whole."
+    "link": "Each thermometer reading was true for its own place, like each man's touch. Weather offices put many readings, taken the same way, together to see the whole.",
+    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    },
    {
     "source": "Bhagavad Gita, chapter 13, opening verses",

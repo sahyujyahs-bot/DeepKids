@@ -496,7 +496,9 @@
    {
     "source": "Zhuangzi, chapter 1 (Free and Easy Wandering)",
     "teaching": "The Chinese teacher Zhuangzi wrote something like this: a morning mushroom knows nothing of the night, and a cicada knows nothing of spring and autumn. Far to the south, he said, there is a tree for which five hundred years is one spring.",
-    "link": "A mayfly, a mouse and a tortoise each have a very different length of life, like the morning mushroom and the old tree in the teaching. Each one is complete in her own span of time."
+    "link": "A mayfly, a mouse and a tortoise each have a very different length of life, like the morning mushroom and the old tree in the teaching. Each one is complete in her own span of time.",
+    "verse": ["朝菌不知晦朔，蟪蛄不知春秋。", "此小年也。", "楚之南有冥靈者，以五百歲爲春，五百歲爲秋。", "上古有大椿者，以八千歲爲春，八千歲爲秋。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Bhagavad Gita 2.27",

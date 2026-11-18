@@ -2709,7 +2709,9 @@
    {
     "source": "Tao Te Ching 77",
     "teaching": "The way of heaven takes from what has too much and gives to what has too little.",
-    "link": "Heat does exactly this. It moves from the hotter thing to the cooler one until neither has more. Laozi wrote that people often do the opposite."
+    "link": "Heat does exactly this. It moves from the hotter thing to the cooler one until neither has more. Laozi wrote that people often do the opposite.",
+    "verse": ["天之道，損有餘而補不足。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

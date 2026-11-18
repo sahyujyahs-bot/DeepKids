@@ -472,12 +472,16 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet in one hub, but it is the empty space in the hub that makes the wheel useful.",
-    "link": "At the middle of the whirler there is only a hole in a pen. Yet the pull on the bag points to that empty hole all the time. The empty middle is what the whole circle is built around."
+    "link": "At the middle of the whirler there is only a hole in a pen. Yet the pull on the bag points to that empty hole all the time. The empty middle is what the whole circle is built around.",
+    "verse": ["三十輻共一轂，當其無，有車之用。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Rig Veda 1.164.11",
     "teaching": "The ancient singers of the Rig Veda spoke of a wheel with twelve spokes that turns round the sky and does not wear out. They saw the turning of the sky as a wheel of order.",
-    "link": "Today we know that a pull towards a middle keeps the Moon and the planets going round, year after year, just like the bag on a string."
+    "link": "Today we know that a pull towards a middle keeps the Moon and the planets going round, year after year, just like the bag on a string.",
+    "verse": ["द्वादशारं नहि तज्जराय वर्वर्ति चक्रं परि द्यामृतस्य ।"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

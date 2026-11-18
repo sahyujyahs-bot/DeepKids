@@ -2887,12 +2887,16 @@
    {
     "source": "Rig Veda 1.164.48",
     "teaching": "There is one wheel with twelve parts and three hubs. Three hundred and sixty spokes are fixed in it, and they cannot come loose. Who understands it?",
-    "link": "The wheel is the year. Its twelve parts are like the months, and the 360 spokes are like the days. Old Indian sky-watchers saw the year as one turning wheel. The Window Calendar project shows the same yearly repeat."
+    "link": "The wheel is the year. Its twelve parts are like the months, and the 360 spokes are like the days. Old Indian sky-watchers saw the year as one turning wheel. The Window Calendar project shows the same yearly repeat.",
+    "verse": ["द्वादश प्रधयश्चक्रमेकं त्रीणि नभ्यानि क उ तच्चिकेत ।", "तस्मिन्साकं त्रिशता न शङ्कवोऽर्पिताः षष्टिर्न चलाचलासः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Ecclesiastes 3.1, in the Bible",
     "teaching": "For everything there is a season, and a time for every purpose under heaven.",
-    "link": "Farmers everywhere needed to know when to sow and when to harvest. Calendars from the sky told them, because the seasons come back with the Sun's year."
+    "link": "Farmers everywhere needed to know when to sow and when to harvest. Calendars from the sky told them, because the seasons come back with the Sun's year.",
+    "verse": ["לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם"],
+    "verse_lang": "he"
    }
   ],
   "science": [

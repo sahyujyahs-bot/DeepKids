@@ -2320,12 +2320,16 @@
    {
     "source": "Nagarjuna, Mulamadhyamakakarika, chapter 19 (the examination of time)",
     "teaching": "Nagarjuna, a Buddhist teacher in India about 1,800 years ago, often linked with what is now Andhra Pradesh, taught that time does not exist on its own. It depends on things. If there were no things, there could be no time.",
-    "link": "Your salt timer showed time only while the salt was running. When the salt stopped, it showed nothing more. Nagarjuna said something like this about all of time."
+    "link": "Your salt timer showed time only while the salt was running. When the salt stopped, it showed nothing more. Nagarjuna said something like this about all of time.",
+    "verse": ["भावं प्रतीत्य कालश् चेत् कालो भावादृते कुतः", "न च कश् चन भावो ऽस्ति कुतः कालो भविष्यति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Aristotle, Physics, Book 4, chapter 11",
     "teaching": "Aristotle, a Greek thinker, said that time is the counting of change, of what comes before and what comes after.",
-    "link": "In the salt timer, you counted the salt that had run out, from before to after. That is just what Aristotle said time is."
+    "link": "In the salt timer, you counted the salt that had run out, from before to after. That is just what Aristotle said time is.",
+    "verse": ["τοῦτο γάρ ἐστιν ὁ χρόνος, ἀριθμὸς κινήσεως κατὰ τὸ πρότερον καὶ ὕστερον."],
+    "verse_lang": "grc"
    }
   ],
   "science": [

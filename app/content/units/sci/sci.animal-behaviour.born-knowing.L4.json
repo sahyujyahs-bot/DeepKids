@@ -2925,12 +2925,16 @@
    {
     "source": "Yoga Sutras of Patanjali 2.9, with the old commentary of Vyasa",
     "teaching": "The sutra says that the will to go on living flows by itself, even in the wise. Vyasa adds that even a newborn worm shrinks from danger, though nothing in this life has taught them to.",
-    "link": "These thinkers noticed what this unit tests: a newborn animal acts rightly with no lesson. They explained it by earlier lives of the same being. Biology explains it by the lives of ancestors, passed on through DNA. The two answers differ, but the question is the same."
+    "link": "These thinkers noticed what this unit tests: a newborn animal acts rightly with no lesson. They explained it by earlier lives of the same being. Biology explains it by the lives of ancestors, passed on through DNA. The two answers differ, but the question is the same.",
+    "verse": ["स्वरसवाही विदुषोऽपि तथारूढोऽभिनिवेशः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Mencius 2A:6",
     "teaching": "Mencius says that anyone who sees a small child about to fall into a well feels alarm at once. They feel alarm and pity before any thought of praise or reward.",
-    "link": "Mencius was arguing that goodness starts from something inborn, and he was not doing biology. Yet he describes a response in every person that one particular sight sets off. Lorenz's idea about baby faces is a later version of the same thought."
+    "link": "Mencius was arguing that goodness starts from something inborn, and he was not doing biology. Yet he describes a response in every person that one particular sight sets off. Lorenz's idea about baby faces is a later version of the same thought.",
+    "verse": ["今人乍見孺子將入於井，皆有怵惕惻隱之心。", "非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Bhagavad Gita 3.33",

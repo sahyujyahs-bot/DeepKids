@@ -2311,12 +2311,16 @@
    {
     "source": "Tattvartha Sutra, chapter 2 (Jain teaching)",
     "teaching": "Jain teachers taught that the world is full of living beings, many too small to see. Some live in earth, water and air, and have only the sense of touch. So Jain monks and nuns sweep gently and filter their water, to avoid harming them.",
-    "link": "Jain thinkers noticed life where eyes cannot see it, long before microscopes. Our potato slices also showed life in soil, on fingers and in the air that no eye could see."
+    "link": "Jain thinkers noticed life where eyes cannot see it, long before microscopes. Our potato slices also showed life in soil, on fingers and in the air that no eye could see.",
+    "verse": ["पृथिव्यप्तेजोवायुवनस्पतयः स्थावराः", "वनस्पत्यन्तानामेकम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to break open a seed of the banyan fruit. 'What do you see?' 'Nothing at all.' Uddalaka says that the great banyan tree grows from this tiny thing that his son cannot see.",
-    "link": "We could not see the microbes on our fingers either. Yet from them, big spots grew on the potato. What is too small to see can still be alive and grow into something big."
+    "link": "We could not see the microbes on our fingers either. Yet from them, big spots grew on the potato. What is too small to see can still be alive and grow into something big.",
+    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

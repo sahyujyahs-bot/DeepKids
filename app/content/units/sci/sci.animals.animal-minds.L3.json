@@ -3581,12 +3581,16 @@
    {
     "source": "Zhuangzi, chapter 17 (Autumn Floods), the fish of the Hao river",
     "teaching": "Zhuangzi and his friend Huizi stood on a bridge. Zhuangzi said, 'See how the fish swim about. That is their joy.' Huizi said, 'You are not a fish. How do you know what fish enjoy?' Zhuangzi said, 'You are not me. How do you know I don't know?'",
-    "link": "Huizi could not see inside Zhuangzi's mind either, yet he argued with him as someone who thinks. We know every other mind, a friend's or a fish's, from what they do."
+    "link": "Huizi could not see inside Zhuangzi's mind either, yet he argued with him as someone who thinks. We know every other mind, a friend's or a fish's, from what they do.",
+    "verse": ["莊子曰：「鯈魚出游從容，是魚樂也。」", "惠子曰：「子非魚，安知魚之樂？」", "莊子曰：「子非我，安知我不知魚之樂？」"],
+    "verse_lang": "zh"
    },
    {
     "source": "Isha Upanishad, verse 6",
     "teaching": "One who sees all beings in their own self, and their own self in all beings, does not hate anyone.",
-    "link": "When we see that a crow learns and a dog feels, we start to see ourselves in them, and them in us."
+    "link": "When we see that a crow learns and a dog feels, we start to see ourselves in them, and them in us.",
+    "verse": ["यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति", "सर्वभूतेषु चात्मानं ततो न विजुगुप्सते"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

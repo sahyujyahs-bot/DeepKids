@@ -2995,7 +2995,9 @@
    {
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
     "teaching": "Bhrigu came to understand that food is Brahman. Brahman is the old Sanskrit word for the one great reality that everything comes from. From food all beings are born, by food they live, and into food they return.",
-    "link": "The dal water fed the microbes, and the microbes multiplied from it. Every living being, from a bacterium to a child, is made from food and lives by it."
+    "link": "The dal water fed the microbes, and the microbes multiplied from it. Every living being, from a bacterium to a child, is made from food and lives by it.",
+    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Bhagavad Gita 17.10",

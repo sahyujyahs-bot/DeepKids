@@ -408,12 +408,16 @@
    {
     "source": "Tao Te Ching 8",
     "teaching": "The best is like water. Water helps all things and does not push to be first. It settles in low places that people avoid.",
-    "link": "Water holds up the heaviest ship without any effort. It pushes up exactly as much as the ship weighs, and no more."
+    "link": "Water holds up the heaviest ship without any effort. It pushes up exactly as much as the ship weighs, and no more.",
+    "verse": ["上善若水。", "水善利萬物而不爭，處眾人之所惡，故幾於道。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Nagarjuna, Mulamadhyamakakarika, chapter 15",
     "teaching": "Nagarjuna, an Indian Buddhist teacher of about the 2nd century CE, taught that things do not have a fixed nature of their own. What a thing is depends on the conditions around it.",
-    "link": "A potato is not a floater or a sinker by itself. It depends on the liquid it is in."
+    "link": "A potato is not a floater or a sinker by itself. It depends on the liquid it is in.",
+    "verse": ["न संभवः स्वभावस्य युक्तः प्रत्ययहेतुभिः", "हेतुप्रत्ययसंभूतः स्वभावः कृतको भवेत्", "स्वभावः कृतको नाम भविष्यति पुनः कथम्", "अकृत्रिमः स्वभावो हि निरपेक्षः परत्र च"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

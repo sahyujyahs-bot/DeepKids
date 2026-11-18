@@ -2720,7 +2720,9 @@
    {
     "source": "Tao Te Ching 17",
     "teaching": "The best leaders are hardly noticed. When the work is done, the people say, 'We did it ourselves.'",
-    "link": "In the sugar drop test, no ant leads, yet most ants usually end up at the sweeter drop. The choice comes from the ants themselves."
+    "link": "In the sugar drop test, no ant leads, yet most ants usually end up at the sweeter drop. The choice comes from the ants themselves.",
+    "verse": ["悠兮其貴言，功成事遂，百姓皆謂：我自然。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Ubuntu, a teaching of the Nguni-speaking peoples of southern Africa: umuntu ngumuntu ngabantu",

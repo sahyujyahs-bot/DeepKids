@@ -2927,12 +2927,16 @@
    {
     "source": "Yoga Sutras of Patanjali 2.46",
     "teaching": "A pose should be steady and comfortable.",
-    "link": "In tree pose, your muscles work and relax in tiny amounts, all the time, to keep you steady. Steadiness itself needs a balance of effort and ease."
+    "link": "In tree pose, your muscles work and relax in tiny amounts, all the time, to keep you steady. Steadiness itself needs a balance of effort and ease.",
+    "verse": ["स्थिरसुखं आसनं"],
+    "verse_lang": "sa"
    },
    {
     "source": "Mandukya Upanishad, verses 3 to 7",
     "teaching": "There are four states of awareness: waking, dreaming, deep sleep, and a fourth that is aware of all three.",
-    "link": "Sleep scientists also find different states in one night: light sleep, deep sleep and dreaming sleep. The Upanishad asks who is aware through all of them."
+    "link": "Sleep scientists also find different states in one night: light sleep, deep sleep and dreaming sleep. The Upanishad asks who is aware through all of them.",
+    "verse": ["जागरितस्थानो बहिः प्रज्ञः सप्ताङ्गः एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः", "स्वप्नस्थानोऽन्तः प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः पादः", "यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत्सुषुप्तम्", "नान्तःप्रज्ञं न बहिःप्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम्", "अदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

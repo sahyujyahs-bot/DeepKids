@@ -3640,12 +3640,16 @@
    {
     "source": "The Buddha's first teaching, the Dhammacakkappavattana Sutta (Samyutta Nikaya 56.11)",
     "teaching": "The Buddha taught a middle way between living only for pleasure and harming the body by going without. Buddhist tradition says he took this path after a young woman, Sujata, gave him a bowl of rice cooked in milk, when he had almost starved himself.",
-    "link": "A balanced diet is a middle way too. Neither feasting every day nor going without keeps the body well."
+    "link": "A balanced diet is a middle way too. Neither feasting every day nor going without keeps the body well.",
+    "verse": ["Dveme, bhikkhave, antā pabbajitena na sevitabbā.", "Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena"],
+    "verse_lang": "pi"
    },
    {
     "source": "Taittiriya Upanishad 2.2",
     "teaching": "From food all creatures are born. By food they live, and into food they return. The Upanishad calls the body the layer of a person made of food, and says breath, mind, understanding and joy are deeper layers.",
-    "link": "Science agrees about the body: your cells are built from what you eat. Whether a person is more than this body made of food is a question science cannot settle."
+    "link": "Science agrees about the body: your cells are built from what you eat. Whether a person is more than this body made of food is a question science cannot settle.",
+    "verse": ["अन्नाद्वै प्रजाः प्रजायन्ते", "याः काश्च पृथिवीँ श्रिताः", "अथो अन्नेनैव जीवन्ति", "अथैनदपि यन्त्यन्ततः"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

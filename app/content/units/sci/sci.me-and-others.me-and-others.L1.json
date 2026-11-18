@@ -2125,7 +2125,9 @@
    {
     "source": "Karaniya Metta Sutta (Sutta Nipata 1.8), a Buddhist teaching",
     "teaching": "Just as a mother would protect her only child with her life, let your heart be kind to all beings, without limit.",
-    "link": "In this teaching, kindness is not only for people who are like us. It is for every being, however different they look or feel."
+    "link": "In this teaching, kindness is not only for people who are like us. It is for every being, however different they look or feel.",
+    "verse": ["Mātā yathā niyaṁ puttam", "Āyusā ekaputtamanurakkhe;", "Evampi sabbabhūtesu,", "Mānasaṁ bhāvaye aparimāṇaṁ."],
+    "verse_lang": "pi"
    },
    {
     "source": "Tirukkural 315",
@@ -2137,7 +2139,9 @@
    {
     "source": "Tattvartha Sutra 5.21, a Jain text",
     "teaching": "Living beings help one another.",
-    "link": "People help each other, and so do elephants and rats. This Jain teaching says that helping each other is what living beings do."
+    "link": "People help each other, and so do elephants and rats. This Jain teaching says that helping each other is what living beings do.",
+    "verse": ["परस्परोपग्रहो जीवानाम्"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

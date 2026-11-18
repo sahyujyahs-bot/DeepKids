@@ -86,8 +86,8 @@ In the wind box test, a box kept a tissue flag still when its closed wall faced 
 
 The air that moves as wind is the same air we breathe. A wall does not take that air away. It turns the air aside and makes a small calm place behind it. A pigeon finds that calm place behind a water tank, and a family makes it when they build a home.
 
-- **Tao Te Ching 11:** We cut out doors and windows to make a room. It is the empty space inside that makes the room useful. (In the wind box, the box gave the tissue flag a calm space. The walls and the door were useful because of the space they made inside.)
-- **Taittiriya Upanishad 3.2:** Food is the source of life. From food beings are born, by food they live, and into food they go back. (We need food again and again, because our body keeps using it to live and grow.)
+- **Tao Te Ching 11:** “鑿戶牖以為室，當其無，有室之用。” We cut out doors and windows to make a room. It is the empty space inside that makes the room useful. (In the wind box, the box gave the tissue flag a calm space. The walls and the door were useful because of the space they made inside.)
+- **Taittiriya Upanishad 3.2:** “अन्नं ब्रह्मेति व्यजानात् / अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते / अन्नेन जातानि जीवन्ति / अन्नं प्रयन्त्यभिसंविशन्तीति” Food is the source of life. From food beings are born, by food they live, and into food they go back. (We need food again and again, because our body keeps using it to live and grow.)
 - **Thirukkural 11:** “வான்நின்று உலகம் வழங்கி வருதலால் / தான்அமிழ்தம் என்றுணரற் பாற்று.” Rain keeps the world alive, so rain is called the nectar that gives life. (Every person, crow and plant needs water. The water in our taps and wells came first as rain.)
 - Science (settled): Wind flows around a wall or a row of trees and leaves calmer air behind it. Farmers use windbreaks for this.
 - Science (open): How a pigeon or an ant senses and chooses the safest, calmest spot is still being studied.

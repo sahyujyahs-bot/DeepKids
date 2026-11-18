@@ -1900,7 +1900,9 @@
    {
     "source": "Tao Te Ching 78",
     "teaching": "Nothing in the world is softer than water. Yet nothing is better at wearing away what is hard.",
-    "link": "Water is soft: your finger goes right into it. Yet drops falling for many years wear hollows into hard stone steps. Soft and hard can meet, and the soft one can win."
+    "link": "Water is soft: your finger goes right into it. Yet drops falling for many years wear hollows into hard stone steps. Soft and hard can meet, and the soft one can win.",
+    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

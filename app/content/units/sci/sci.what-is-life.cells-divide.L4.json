@@ -444,7 +444,9 @@
    {
     "source": "Chandogya Upanishad 6.11",
     "teaching": "Uddalaka teaches his son Shvetaketu about a great tree. If the life leaves one branch, that branch dries up. If it leaves the whole tree, the whole tree dries up. The same life is in all of it.",
-    "link": "A root grows only at the tip, but the tip is fed by the whole tree. The growing tip and the older, finished part behind it belong to one living tree."
+    "link": "A root grows only at the tip, but the tip is fed by the whole tree. The growing tip and the older, finished part behind it belong to one living tree.",
+    "verse": ["अस्य यदेकां शाखां जीवो जहात्यथ सा शुष्यति", "द्वितीयां जहात्यथ सा शुष्यति", "तृतीयां जहात्यथ सा शुष्यति", "सर्वं जहाति सर्वः शुष्यति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Plutarch, Life of Theseus 23",
@@ -454,7 +456,9 @@
    {
     "source": "Tao Te Ching 76",
     "teaching": "A person is born soft and flexible, and at death is hard and stiff. Green plants are soft and full of sap, and when dead they are dry and brittle. The soft and yielding belongs to life.",
-    "link": "The root tip is the softest, palest, wettest part of the plant. That is also the part that grows."
+    "link": "The root tip is the softest, palest, wettest part of the plant. That is also the part that grows.",
+    "verse": ["人之生也柔弱，其死也堅強。", "萬物草木之生也柔脆，其死也枯槁。", "故堅強者死之徒，柔弱者生之徒。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

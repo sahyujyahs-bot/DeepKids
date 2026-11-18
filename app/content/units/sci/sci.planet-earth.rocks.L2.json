@@ -2045,12 +2045,16 @@
    {
     "source": "Tao Te Ching 78",
     "teaching": "Nothing in the world is softer than water. Yet nothing is better at wearing down what is hard and strong.",
-    "link": "Water alone is soft, but a river carries sand and stones, and they wear even hard granite round."
+    "link": "Water alone is soft, but a river carries sand and stones, and they wear even hard granite round.",
+    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka tells his son Shvetaketu that by knowing one lump of clay, you know everything made of clay. The pot and the lid are only names. The clay is what is real.",
-    "link": "A hill, a pebble and a pinch of sand have different names, but they are the same rock in different sizes."
+    "link": "A hill, a pebble and a pinch of sand have different names, but they are the same rock in different sizes.",
+    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

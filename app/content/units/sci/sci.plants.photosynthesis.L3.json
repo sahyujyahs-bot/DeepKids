@@ -3940,12 +3940,16 @@
    {
     "source": "Taittiriya Upanishad 3.2",
     "teaching": "The boy Bhrigu searches for what everything comes from. First he finds: food. From food all beings are born, by food they live, and into food they return.",
-    "link": "Almost all food begins as sugar made in a leaf. Food links the Sun, the plant and you in one chain."
+    "link": "Almost all food begins as sugar made in a leaf. Food links the Sun, the plant and you in one chain.",
+    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tattvartha Sutra 5.21",
     "teaching": "This Jain teaching says that living beings support one another.",
-    "link": "Plants give us oxygen and food. We give them carbon dioxide to build with. We keep each other alive."
+    "link": "Plants give us oxygen and food. We give them carbon dioxide to build with. We keep each other alive.",
+    "verse": ["परस्परोपग्रहो जीवानाम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988)",

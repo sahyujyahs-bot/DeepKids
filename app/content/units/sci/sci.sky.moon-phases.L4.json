@@ -492,12 +492,16 @@
       {
         "source": "Tao Te Ching 2",
         "teaching": "Being and not-being give birth to each other. Long and short shape each other. High and low lean on each other.",
-        "link": "Light and shadow shape each other on the Moon. Without the shadow, we would not see the mountain, and without the light, we would not see the shadow."
+        "link": "Light and shadow shape each other on the Moon. Without the shadow, we would not see the mountain, and without the light, we would not see the shadow.",
+        "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+        "verse_lang": "zh"
       },
       {
         "source": "Brihadaranyaka Upanishad 1.3.28",
         "teaching": "Lead me from darkness to light.",
-        "link": "On the Moon, the brightest part is not where we see the most. We see the mountains best along the line where dark meets light."
+        "link": "On the Moon, the brightest part is not where we see the most. We see the mountains best along the line where dark meets light.",
+        "verse": ["असतो मा सद्गमय, तमसो मा ज्योतिर्गमय, मृत्योर्मामृतं गमयेति"],
+        "verse_lang": "sa"
       }
     ],
     "science": [

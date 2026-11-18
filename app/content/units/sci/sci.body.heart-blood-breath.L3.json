@@ -3336,12 +3336,16 @@
       {
         "source": "Chandogya Upanishad 5.1",
         "teaching": "The senses argued about which of them was the greatest. Speech left the body for a year, and the body lived on, unable to speak. The eye left, and the ear left, and the mind left, and still the body lived. Then breath began to leave, and all the others were pulled along with it, like pegs torn up by a horse. They agreed that breath was the greatest of them all.",
-        "link": "People live full lives without sight, hearing or speech. But if oxygen stops reaching the brain, a person faints within seconds. Every other part of the body needs the oxygen that breath brings in."
+        "link": "People live full lives without sight, hearing or speech. But if oxygen stops reaching the brain, a person faints within seconds. Every other part of the body needs the oxygen that breath brings in.",
+        "verse": ["सा ह वागुच्चक्राम", "सा संवत्सरं प्रोष्य पर्येत्योवाच", "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्", "भगवन्नेधि", "त्वं नः श्रेष्ठोऽसि"],
+        "verse_lang": "sa"
       },
       {
         "source": "Kabir, Songs of Kabir, poem I, translated by Rabindranath Tagore (1915)",
         "teaching": "Kabir says the one people search for in temples and mosques is right beside them. He ends: God is the breath of all breath.",
-        "link": "Your heartbeat and breath are always with you, though you rarely notice them. Kabir said that what people search for is just as close as that, not somewhere far away."
+        "link": "Your heartbeat and breath are always with you, though you rarely notice them. Kabir said that what people search for is just as close as that, not somewhere far away.",
+        "verse": ["मोको कहां ढूँढे रे बन्दे", "मैं तो तेरे पास में", "ना मंदिर में ना मस्जिद में", "ना काबे कैलास में"],
+        "verse_lang": "hi"
       },
       {
         "source": "Thich Nhat Hanh, Being Peace (1987)",

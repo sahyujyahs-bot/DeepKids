@@ -1998,7 +1998,9 @@
    {
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "By knowing one lump of clay, you know everything made of clay. The pot and the lamp are only names and shapes. What is real is the clay.",
-    "link": "A glass bottle, a window and a bangle have different names and shapes. Underneath, all three are glass, made mainly from sand."
+    "link": "A glass bottle, a window and a bangle have different names and shapes. Underneath, all three are glass, made mainly from sand.",
+    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988)",

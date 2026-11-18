@@ -2609,12 +2609,16 @@
    {
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
     "teaching": "Bhrigu asks his father Varuna what the source of life is. Varuna tells him to look deeply. Bhrigu first finds that food is the answer: beings are born from food, live by food and return to food.",
-    "link": "Your body is built from food and water and keeps giving them back. Bhrigu's first answer matches what this unit teaches. The Upanishad then keeps going deeper, to breath, mind and joy."
+    "link": "Your body is built from food and water and keeps giving them back. Bhrigu's first answer matches what this unit teaches. The Upanishad then keeps going deeper, to breath, mind and joy.",
+    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, a Greek thinker, as quoted by Plato in Cratylus 402a",
     "teaching": "You cannot step into the same river twice, because new water is always flowing in.",
-    "link": "Your body is like the river. It looks the same each day, but water keeps flowing out of your skin and breath and new water flows in."
+    "link": "Your body is like the river. It looks the same each day, but water keeps flowing out of your skin and breath and new water flows in.",
+    "verse": ["δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse_lang": "grc"
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988)",

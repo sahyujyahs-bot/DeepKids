@@ -2724,12 +2724,16 @@
    {
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
     "teaching": "Bhrigu asks his father Varuna what the source of all things is. The first answer Bhrigu finds is food: from food beings are born, by food they live, and into food they go when they die.",
-    "link": "Your running, your warmth and the marble you lifted all ran on energy from food. When you die, your body becomes food for other living things, and the energy passes on again."
+    "link": "Your running, your warmth and the marble you lifted all ran on energy from food. When you die, your body becomes food for other living things, and the energy passes on again.",
+    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Heraclitus, fragment 90 (Diels-Kranz numbering), about 500 BCE",
     "teaching": "All things are an exchange for fire, and fire for all things, as goods are exchanged for gold and gold for goods.",
-    "link": "Energy works like that gold. Sunlight is exchanged for rice, rice for movement, movement for a crater and a sound. The form changes, but the amount is kept."
+    "link": "Energy works like that gold. Sunlight is exchanged for rice, rice for movement, movement for a crater and a sound. The form changes, but the amount is kept.",
+    "verse": ["πυρός τε ἀνταμοιβὴ τὰ πάντα καὶ πῦρ ἁπάντων ὅκωσπερ χρυσοῦ χρήματα καὶ χρημάτων χρυσός"],
+    "verse_lang": "grc"
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding, 1988",

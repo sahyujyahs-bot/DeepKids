@@ -1974,7 +1974,9 @@
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son to split a tiny banyan seed. The son sees nothing inside. Uddalaka says the whole great banyan tree grows from something in the seed that is too fine to see.",
-    "link": "A spiderling's know-how to spin cannot be seen inside her either. Yet the whole round web comes out of her, the first time she spins."
+    "link": "A spiderling's know-how to spin cannot be seen inside her either. Yet the whole round web comes out of her, the first time she spins.",
+    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tirukkural 391",
@@ -1986,7 +1988,9 @@
    {
     "source": "Plato, Meno",
     "teaching": "In an old Greek book called the Meno, written by Plato, Socrates asks a boy who has never studied geometry a series of questions. The boy works out a hard answer. Socrates says that some knowing was already in him before any lesson.",
-    "link": "Scientists today say that born-with know-how is passed on in genes from parents. It is not remembered from before birth. But Plato also noticed that we do not start with nothing."
+    "link": "Scientists today say that born-with know-how is passed on in genes from parents. It is not remembered from before birth. But Plato also noticed that we do not start with nothing.",
+    "verse": ["οὐκοῦν οὐδενὸς διδάξαντος ἀλλ’ ἐρωτήσαντος ἐπιστήσεται, ἀναλαβὼν αὐτὸς ἐξ αὑτοῦ τὴν ἐπιστήμην;", "τὸ δὲ ἀναλαμβάνειν αὐτὸν ἐν αὑτῷ ἐπιστήμην οὐκ ἀναμιμνῄσκεσθαί ἐστιν;"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

@@ -194,7 +194,9 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "We shape clay into a pot. But it is the empty space inside that makes the pot useful.",
-    "link": "The katori's empty space, full of air, is what kept it on top of the water. When water filled that space, it sank."
+    "link": "The katori's empty space, full of air, is what kept it on top of the water. When water filled that space, it sank.",
+    "verse": ["埏埴以為器，當其無，有器之用。"],
+    "verse_lang": "zh"
    },
    {
     "source": "The Vaisheshika Sutra of the sage Kanada",

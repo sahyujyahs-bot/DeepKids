@@ -96,8 +96,8 @@ We have sorted foods from plants and foods from animals, and turned thin sugar w
 
 Sunlight falls on a leaf, and the plant makes sugar. The flower turns some of that sugar into nectar. A bee drinks the nectar, and the bees dry it into honey. Then you eat the honey. The same sunlight has become a plant's food, a bee's food and your food.
 
-- **Brihadaranyaka Upanishad 2.5.1 (the Madhu Vidya, the teaching of honey):** This earth is honey for all beings, and all beings are honey for this earth. (To make honey, a flower feeds the bees, and the bees help the flower make seeds. Each one is food and help for the other, as the teaching says.)
-- **Dhammapada, verse 49:** A bee gathers nectar from a flower without harming the flower's colour or smell, and flies away. A wise person moves through the village in the same way. (A bee takes nectar but leaves the flower whole, and carries the flower's pollen on. Taking food does not have to mean harming.)
+- **Brihadaranyaka Upanishad 2.5.1 (the Madhu Vidya, the teaching of honey):** “इयं पृथिवी सर्वेषां भूतानां मधु / अस्यै पृथिव्यै सर्वाणि भूतानि मधु” This earth is honey for all beings, and all beings are honey for this earth. (To make honey, a flower feeds the bees, and the bees help the flower make seeds. Each one is food and help for the other, as the teaching says.)
+- **Dhammapada, verse 49:** “Yathāpi bhamaro pupphaṁ, / vaṇṇagandhamaheṭhayaṁ; / Paleti rasamādāya, / evaṁ gāme munī care.” A bee gathers nectar from a flower without harming the flower's colour or smell, and flies away. A wise person moves through the village in the same way. (A bee takes nectar but leaves the flower whole, and carries the flower's pollen on. Taking food does not have to mean harming.)
 - Science (settled): Many fruits and vegetables grow only when bees and other insects carry pollen between their flowers.
 - Science (settled): A honey bee dances on the comb to tell her sisters which way the flowers are, and how far.
 - Other view, Many scientists who study evolution: They say bees and flowers do not mean to help each other. Each one does what helps their own life, and the help to the other happens along the way.

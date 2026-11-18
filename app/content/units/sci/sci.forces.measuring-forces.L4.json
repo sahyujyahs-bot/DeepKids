@@ -3322,12 +3322,16 @@
    {
     "source": "Sona Sutta, Anguttara Nikaya 6.55",
     "teaching": "The Buddha reminded a musician named Sona of his lute. If its strings are too tight, they snap and give no music. If they are too slack, they give no music either. When the strings are tuned evenly, the lute sings.",
-    "link": "A line pulled too tight carries too much pull and can snap, like the lute string. A line with no sag at all would need an endless pull to hold a weight. The right amount of sag keeps the pull small, so the line lasts."
+    "link": "A line pulled too tight carries too much pull and can snap, like the lute string. A line with no sag at all would need an endless pull to hold a weight. The right amount of sag keeps the pull small, so the line lasts.",
+    "verse": ["Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?"],
+    "verse_lang": "pi"
    },
    {
     "source": "Tao Te Ching 76",
     "teaching": "What is stiff and unbending breaks. What is soft and yielding lasts. A tree that will not bend is easily broken.",
-    "link": "In the story The Rope That Would Not Be Straight, the tight rope snapped, and the rope with a curve held through the monsoon."
+    "link": "In the story The Rope That Would Not Be Straight, the tight rope snapped, and the rope with a curve held through the monsoon.",
+    "verse": ["故堅強者死之徒，柔弱者生之徒。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

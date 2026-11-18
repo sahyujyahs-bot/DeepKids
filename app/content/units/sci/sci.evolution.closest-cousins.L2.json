@@ -2133,12 +2133,16 @@
    {
     "source": "Taittiriya Upanishad 3.6",
     "teaching": "Bhrigu learned that joy, ananda, is the ground of all things. From joy beings are born, by joy they live, and into joy they return.",
-    "link": "The laugh test showed that the joy of play has a sound, in us and in every great ape. Joy did not begin with people."
+    "link": "The laugh test showed that the joy of play has a sound, in us and in every great ape. Joy did not begin with people.",
+    "verse": ["आनन्दो ब्रह्मेति व्यजानात्", "आनन्दाध्येव खल्विमानि भूतानि जायन्ते", "आनन्देन जातानि जीवन्ति", "आनन्दं प्रयन्त्यभिसंविशन्तीति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Isha Upanishad, verse 6",
     "teaching": "One who sees all beings in their own self, and their own self in all beings, does not turn away from anyone.",
-    "link": "When you see your own laugh in a chimpanzee's pant, and your Sunday hair oiling in a chimpanzee's grooming, an ape is no longer a stranger."
+    "link": "When you see your own laugh in a chimpanzee's pant, and your Sunday hair oiling in a chimpanzee's grooming, an ape is no longer a stranger.",
+    "verse": ["यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति", "सर्वभूतेषु चात्मानं ततो न विजुगुप्सते"],
+    "verse_lang": "sa"
    },
    {
     "source": "Charles Darwin, The Expression of the Emotions in Man and Animals (1872)",

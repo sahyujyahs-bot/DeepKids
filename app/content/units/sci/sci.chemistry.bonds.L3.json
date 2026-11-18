@@ -2837,7 +2837,9 @@
    {
     "source": "Empedocles, fragment 17 (Diels and Kranz numbering)",
     "teaching": "Love brings the elements together into one, and Strife pulls them apart again, over and over.",
-    "link": "Empedocles thought water was an element, which turned out to be wrong. But his picture of one force joining and another parting fits what the water-splitting test shows: bonds hold atoms together, and energy from a battery or a flame pulls them apart."
+    "link": "Empedocles thought water was an element, which turned out to be wrong. But his picture of one force joining and another parting fits what the water-splitting test shows: bonds hold atoms together, and energy from a battery or a flame pulls them apart.",
+    "verse": ["δίπλ’ ἐρέω· τοτὲ μὲν γὰρ ἕν ηὐξήθη μόνον εἶναι", "ἐκ πλεόνων, τοτὲ δ’ αὖ διέφυ πλέον’ ἐξ ἑνὸς εἶναι", "Νεῖκος τ’ οὐλόμενον δίχα τῶν, ἀτάλαντον ἁπάντηι,", "καὶ Φιλότης ἐν τοῖσιν, ἴση μῆκός τε πλάτος τε·"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

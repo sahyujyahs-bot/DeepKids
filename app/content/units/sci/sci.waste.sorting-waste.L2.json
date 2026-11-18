@@ -1858,7 +1858,9 @@
    {
     "source": "Tao Te Ching 16",
     "teaching": "All things grow and flourish, and then each one goes back to its root.",
-    "link": "A peel goes back to the soil it came from, when decomposers eat it. That is what the green bin is for."
+    "link": "A peel goes back to the soil it came from, when decomposers eat it. That is what the green bin is for.",
+    "verse": ["夫物芸芸，各復歸其根。", "歸根曰靜，是謂復命。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Thich Nhat Hanh, teachings on interbeing",

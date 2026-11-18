@@ -2994,17 +2994,23 @@
    {
     "source": "Chandogya Upanishad 6.1.4",
     "teaching": "Uddalaka tells his son Shvetaketu: by knowing one lump of clay, you know everything made of clay. A pot or a cup is a name given to a new shape. What is real is the clay.",
-    "link": "Comet, tail, meteor and space dust are names for one material at different moments, as pot and cup are names for clay in different shapes."
+    "link": "Comet, tail, meteor and space dust are names for one material at different moments, as pot and cup are names for clay in different shapes.",
+    "verse": ["यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात्", "वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Dhammapada 277",
     "teaching": "Everything that is put together changes and does not last. A person who sees this clearly suffers less.",
-    "link": "A comet loses some of itself every time it passes the Sun, like the ice comet in the sun in the Ice Comet experiment. In the end, its ice runs out."
+    "link": "A comet loses some of itself every time it passes the Sun, like the ice comet in the sun in the Ice Comet experiment. In the end, its ice runs out.",
+    "verse": ["Sabbe saṅkhārā aniccā,", "yadā paññāya passati;", "Atha nibbindati dukkhe,", "esa maggo visuddhiyā."],
+    "verse_lang": "pi"
    },
    {
     "source": "Heraclitus, fragment 12 (Diels-Kranz numbering), about 500 BCE",
     "teaching": "People step into the same river again and again, but the water flowing over them is different each time.",
-    "link": "Halley's Comet keeps its name and its path, but each time it returns it has lost some ice and dust. It is the same comet and not quite the same."
+    "link": "Halley's Comet keeps its name and its path, but each time it returns it has lost some ice and dust. It is the same comet and not quite the same.",
+    "verse": ["ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

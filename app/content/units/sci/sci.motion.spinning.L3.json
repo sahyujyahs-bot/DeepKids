@@ -2806,12 +2806,16 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet at one hub. It is the empty space in the middle that makes the wheel useful.",
-    "link": "A wheel's hub is where the axle goes. The middle of a wheel hardly moves, yet the whole wheel turns around it."
+    "link": "A wheel's hub is where the axle goes. The middle of a wheel hardly moves, yet the whole wheel turns around it.",
+    "verse": ["三十輻共一轂，當其無，有車之用。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Rig Veda 1.164.11",
     "teaching": "The wheel of order, with twelve spokes, rolls round the sky and never wears out.",
-    "link": "The old poets saw the turning of the year as a wheel. Today we know the Earth itself spins and circles the Sun, and it has kept turning for billions of years because almost nothing in space rubs it to a stop."
+    "link": "The old poets saw the turning of the year as a wheel. Today we know the Earth itself spins and circles the Sun, and it has kept turning for billions of years because almost nothing in space rubs it to a stop.",
+    "verse": ["द्वादशारं नहि तज्जराय वर्वर्ति चक्रं परि द्यामृतस्य ।"],
+    "verse_lang": "sa"
    },
    {
     "source": "The Buddha's first teaching, the Dhammacakkappavattana Sutta (Samyutta Nikaya 56.11)",

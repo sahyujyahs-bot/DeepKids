@@ -83,7 +83,7 @@ We have sorted things by what they are made of, and then by whether they float. 
 
 A heap of spoons, keys, combs and pencils can be sorted into a few materials: metal, wood and plastic. But the same steel can be a spoon that sinks or a katori that floats, because the shape holds air. Everything is conscious: the steel, the water, the air, and the child who sorts them.
 
-- **Tao Te Ching 11:** We shape clay into a pot. But it is the empty space inside that makes the pot useful. (The katori's empty space, full of air, is what kept it on top of the water. When water filled that space, it sank.)
+- **Tao Te Ching 11:** “埏埴以為器，當其無，有器之用。” We shape clay into a pot. But it is the empty space inside that makes the pot useful. (The katori's empty space, full of air, is what kept it on top of the water. When water filled that space, it sank.)
 - **The Vaisheshika Sutra of the sage Kanada:** Kanada sorted everything in the world into a few kinds. He taught that earth, water, fire and air are made of tiny parts, far too small to see. He called these tiny parts paramanu. (Like you, Kanada sorted things by asking what they are made of. Today scientists call the tiny parts of every material atoms.)
 - Science (settled): Water pushes up on anything put in it. More than 2,200 years ago, Archimedes of Syracuse wrote about this push in his book On Floating Bodies.
 - Science (settled): Scientists have made a solid called aerogel that is almost all air. It is among the lightest solids ever made.
@@ -428,7 +428,7 @@ She smiled and fell asleep.
 ## Videos
 - **A huge cruise ship floats out of its shipyard** (HD1080ide, 3 min) id `VyMFdjCPiFs`: Shows a huge steel ship being floated out of its dock into the water, like a giant version of the katori in the Sink or Float Sort. *Check:* Found by search: "Big Ship Launch: Float Out of Cruise Ship DISNEY WISH at Meyer Werft Shipyard" by HD1080ide, 3 minutes. A parent may preview it.
 - **Plastic pieces sorted in a sink and float tank** (Paul Vanderpool, 2 min) id `GtlihM9m08Y`: Shows a recycling line where shredded plastic is washed and separated in water tanks: some pieces sink and some float. It is the same test as the Sink or Float Sort. *Check:* Found by search: "Most Efficient Plastic Recycling Washing & Sink Float System" by Paul Vanderpool, 2 minutes. A parent may preview it.
-- **A kabadiwala sorting scrap into paper, plastic and metal** (, 4 min) id `to find`: Shows how sorting by material lets old things be sold and made into new things, as in the Recycling Corner. *Check:* Find a real documentary or news clip from an Indian city. Check that it does not show child workers.
+- **A kabadiwala sorting scrap into paper, plastic and metal** (, 4 min) id `os4RBayhkwg`: Shows how sorting by material lets old things be sold and made into new things, as in the Recycling Corner. *Check:* Found by YouTube search: ASR Scrap Sorting Line – Recover Hidden Metals from Car Shredder Waste!, E-waste Recycling Machinery Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) What does it mean to sort things?  

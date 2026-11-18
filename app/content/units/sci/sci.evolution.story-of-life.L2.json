@@ -2100,17 +2100,23 @@
    {
     "source": "Rig Veda 10.129.3 (the Nasadiya Sukta, the hymn of creation)",
     "teaching": "In the beginning, darkness was hidden by darkness. All this was water, with nothing to tell one thing from another.",
-    "link": "The old hymn pictures the beginning as water. Science also finds that life began in water. The same hymn later asks who really knows how it all began. Scientists still ask that about the first cell."
+    "link": "The old hymn pictures the beginning as water. Science also finds that life began in water. The same hymn later asks who really knows how it all began. Scientists still ask that about the first cell.",
+    "verse": ["तम आसीत्तमसा गूळ्हमग्रेऽप्रकेतं सलिलं सर्वमा इदम्।", "तुच्छ्येनाभ्वपिहितं यदासीत्तपसस्तन्महिनाजायतैकम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Taittiriya Upanishad 2.1",
     "teaching": "From space came air. From air came fire, from fire water, and from water the earth. From the earth came plants, from plants food, and from food the person.",
-    "link": "This is a story of beginnings in order, like the Year of Life calendar. The order science finds is different in places: the rocky Earth came before the oceans. But both put a person at the end of a long line that runs through water and plants."
+    "link": "This is a story of beginnings in order, like the Year of Life calendar. The order science finds is different in places: the rocky Earth came before the oceans. But both put a person at the end of a long line that runs through water and plants.",
+    "verse": ["तस्माद्वा एतस्मादात्मन आकाशः संभूतः । आकाशाद्वायुः", "वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी", "पृथिव्या ओषधयः । ओषधीभ्योऽन्नम् । अन्नाद्रेतः । रेतसः पुरुषः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thales of Miletus, as told by Aristotle in Metaphysics, Book 1, chapter 3",
     "teaching": "Thales, a Greek thinker, said that water is where all things come from. Aristotle guessed Thales thought this because food and seeds are always moist.",
-    "link": "Thales was wrong that everything is made of water. But he noticed something true: living things need water, and life did begin in it."
+    "link": "Thales was wrong that everything is made of water. But he noticed something true: living things need water, and life did begin in it.",
+    "verse": ["Θαλῆς μὲν ὁ τῆς τοιαύτης ἀρχηγὸς φιλοσοφίας ὕδωρ φησὶν εἶναι", "λαβὼν ἴσως τὴν ὑπόληψιν ταύτην ἐκ τοῦ πάντων ὁρᾶν τὴν τροφὴν ὑγρὰν οὖσαν", "διὰ τὸ πάντων τὰ σπέρματα τὴν φύσιν ὑγρὰν ἔχειν"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

@@ -74,7 +74,7 @@ In Three Plates of Methi, the methi grew yellow in the dark and green in the lig
 
 The Sun lights the methi, and the methi turns green. The Sun lights your eyes, and you see colours. The Sun lights your skin, and your skin slowly darkens. Each of us senses the light and reacts to it in our own way.
 
-- **Rig Veda 1.115.1:** The Sun is the self of all that moves and all that stays still. (The teaching says the Sun is the self of everything that moves, like animals, and everything that stays still, like plants. Plants stay in one place, yet they use the Sun's light to grow and make food. Humans and other animals, who move, eat what plants make.)
+- **Rig Veda 1.115.1:** “चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । / आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च” The Sun is the self of all that moves and all that stays still. (The teaching says the Sun is the self of everything that moves, like animals, and everything that stays still, like plants. Plants stay in one place, yet they use the Sun's light to grow and make food. Humans and other animals, who move, eat what plants make.)
 - **Thirukkural 16, by Thiruvalluvar:** “விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே / பசும்புல் தலைகாண்பு அரிது.” Unless drops of rain fall from the sky, not even a blade of green grass will be seen. (Plate 1 in Three Plates of Methi showed this. With no water, the methi seeds did not sprout at all.)
 - Science (settled): Plants have light sensors in their leaves, stems and roots. These tell a sprout if there is light, and what colour the light is.
 - Science (open): Plants feel light. What that feeling is like for a plant, nobody knows yet.

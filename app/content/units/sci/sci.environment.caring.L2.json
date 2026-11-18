@@ -1820,7 +1820,9 @@
    {
     "source": "Karaniya Metta Sutta (Sutta Nipata 1.8), a teaching of the Buddha",
     "teaching": "Whatever living beings there are, weak or strong, big or small, seen or unseen, near or far, may they all be well.",
-    "link": "We rarely see the cow at the dump or the turtle in the sea who meets our litter. They are the unseen and far-away beings this teaching asks us to wish well."
+    "link": "We rarely see the cow at the dump or the turtle in the sea who meets our litter. They are the unseen and far-away beings this teaching asks us to wish well.",
+    "verse": ["Tasā vā thāvarā vanavasesā;", "Dīghā vā ye va mahantā,", "Diṭṭhā vā ye va adiṭṭhā,", "Ye va dūre vasanti avidūre;", "Bhūtā va sambhavesī va,", "Sabbasattā bhavantu sukhitattā."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

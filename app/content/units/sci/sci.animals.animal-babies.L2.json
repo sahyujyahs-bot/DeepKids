@@ -2024,12 +2024,16 @@
    {
     "source": "Mencius 2A:6",
     "teaching": "Mencius, a Chinese thinker, said that anyone who suddenly sees a small child about to fall into a well feels alarm and wants to help. Nobody has to teach them this feeling.",
-    "link": "A carer answers a baby's signals quickly, often before thinking. In this unit, a parent sparrow flies to the open yellow mouth, and a grandmother turns to a crying baby."
+    "link": "A carer answers a baby's signals quickly, often before thinking. In this unit, a parent sparrow flies to the open yellow mouth, and a grandmother turns to a crying baby.",
+    "verse": ["今人乍見孺子將入於井，皆有怵惕惻隱之心。", "非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Karaniya Metta Sutta, Sutta Nipata 1.8",
     "teaching": "The Buddha taught: just as a mother protects her only child with her own life, so we should grow a boundless kindness towards all living beings.",
-    "link": "In this unit, care is often shared beyond one parent: langur aunts, worker bee sisters and the many people around a human baby. The teaching asks us to stretch that care to every being."
+    "link": "In this unit, care is often shared beyond one parent: langur aunts, worker bee sisters and the many people around a human baby. The teaching asks us to stretch that care to every being.",
+    "verse": ["Mātā yathā niyaṁ puttam", "Āyusā ekaputtamanurakkhe;", "Evampi sabbabhūtesu,", "Mānasaṁ bhāvaye aparimāṇaṁ."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

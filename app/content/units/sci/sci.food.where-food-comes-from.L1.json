@@ -2036,12 +2036,16 @@
    {
     "source": "Brihadaranyaka Upanishad 2.5.1 (the Madhu Vidya, the teaching of honey)",
     "teaching": "This earth is honey for all beings, and all beings are honey for this earth.",
-    "link": "To make honey, a flower feeds the bees, and the bees help the flower make seeds. Each one is food and help for the other, as the teaching says."
+    "link": "To make honey, a flower feeds the bees, and the bees help the flower make seeds. Each one is food and help for the other, as the teaching says.",
+    "verse": ["इयं पृथिवी सर्वेषां भूतानां मधु", "अस्यै पृथिव्यै सर्वाणि भूतानि मधु"],
+    "verse_lang": "sa"
    },
    {
     "source": "Dhammapada, verse 49",
     "teaching": "A bee gathers nectar from a flower without harming the flower's colour or smell, and flies away. A wise person moves through the village in the same way.",
-    "link": "A bee takes nectar but leaves the flower whole, and carries the flower's pollen on. Taking food does not have to mean harming."
+    "link": "A bee takes nectar but leaves the flower whole, and carries the flower's pollen on. Taking food does not have to mean harming.",
+    "verse": ["Yathāpi bhamaro pupphaṁ,", "vaṇṇagandhamaheṭhayaṁ;", "Paleti rasamādāya,", "evaṁ gāme munī care."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

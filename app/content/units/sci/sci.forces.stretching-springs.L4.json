@@ -3296,7 +3296,9 @@
    {
     "source": "Ecclesiastes 3:1",
     "teaching": "To everything there is a season, and a time for every purpose under heaven.",
-    "link": "A push builds a swing only at the right moment. The same push at another moment adds nothing."
+    "link": "A push builds a swing only at the right moment. The same push at another moment adds nothing.",
+    "verse": ["לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם"],
+    "verse_lang": "he"
    },
    {
     "source": "Bhagavad Gita 2.50",

@@ -1970,12 +1970,16 @@
    {
     "source": "Atharva Veda 12.1, the hymn to the Earth (verse 6)",
     "teaching": "The Prithvi Sukta, an old Sanskrit hymn to the Earth from the Atharva Veda, calls the Earth the bearer of all, the holder of treasures, and the firm ground on which every moving thing rests.",
-    "link": "In Take Away the Holder, every falling thing ended up on the floor, and the floor rests on the ground. The Prithvi Sukta praises the Earth for holding everything up. Science adds that the Earth also pulls everything down onto itself."
+    "link": "In Take Away the Holder, every falling thing ended up on the floor, and the floor rests on the ground. The Prithvi Sukta praises the Earth for holding everything up. Science adds that the Earth also pulls everything down onto itself.",
+    "verse": ["विश्वंभरा वसुधानी प्रतिष्ठा हिरण्यवक्षा जगतो निवेशनी ।", "वैश्वानरं बिभ्रती भूमिरग्निमिन्द्रऋषभा द्रविणे नो दधातु"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 8",
     "teaching": "The highest good is like water. Water helps all things and does not fight. It flows to the low places that people look down on.",
-    "link": "In Falling Watch, the water from the tap always went down, to the lowest place it could reach. The Earth's pull is why water always finds the low places. The Tao Te Ching praises water for going there."
+    "link": "In Falling Watch, the water from the tap always went down, to the lowest place it could reach. The Earth's pull is why water always finds the low places. The Tao Te Ching praises water for going there.",
+    "verse": ["上善若水。", "水善利萬物而不爭，處眾人之所惡，故幾於道。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

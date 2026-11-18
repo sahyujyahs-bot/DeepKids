@@ -2825,7 +2825,9 @@
    {
     "source": "Tao Te Ching 2",
     "teaching": "We call a thing long only next to something short, and high only next to something low. Each is what it is because of the other.",
-    "link": "Turmeric looks red only next to a base, and yellow next to an acid. What it looks like depends on what it is with."
+    "link": "Turmeric looks red only next to a base, and yellow next to an acid. What it looks like depends on what it is with.",
+    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

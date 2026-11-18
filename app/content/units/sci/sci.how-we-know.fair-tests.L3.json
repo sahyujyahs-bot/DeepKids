@@ -2808,12 +2808,16 @@
       {
         "source": "Kalama Sutta, Anguttara Nikaya 3.65",
         "teaching": "The Buddha told the Kalama people not to accept a teaching only because it is old, often repeated, written in a book, or said by a respected teacher. When you know for yourselves that something is true and good, then accept it.",
-        "link": "The navy's doctors trusted acids to cure scurvy because respected people said so. James Lind tested the cures side by side and saw for himself which one worked."
+        "link": "The navy's doctors trusted acids to cure scurvy because respected people said so. James Lind tested the cures side by side and saw for himself which one worked.",
+        "verse": ["Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti."],
+        "verse_lang": "pi"
       },
       {
         "source": "Nyaya Sutra 1.1.3",
         "teaching": "The Nyaya school names four ways of knowing: perception (seeing for yourself), inference (working out from what you saw), comparison, and the word of a trustworthy person.",
-        "link": "A fair test uses the first three together. You perceive the white and brown slices, you compare them, and you infer that the lemon made the difference."
+        "link": "A fair test uses the first three together. You perceive the white and brown slices, you compare them, and you infer that the lemon made the difference.",
+        "verse": ["प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि"],
+        "verse_lang": "sa"
       }
     ],
     "science": [

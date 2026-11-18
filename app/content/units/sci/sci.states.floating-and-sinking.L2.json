@@ -2019,12 +2019,16 @@
    {
     "source": "Anguttara Nikaya 3.65 (the Kalama Sutta)",
     "teaching": "The Buddha told the Kalama people not to believe something only because it is often said, or because it seems right. When you know for yourselves, he said, then accept it.",
-    "link": "Many people say heavy things sink. You did not just believe it. You tested it, and the rolling pin floated."
+    "link": "Many people say heavy things sink. You did not just believe it. You tested it, and the rolling pin floated.",
+    "verse": ["Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti."],
+    "verse_lang": "pi"
    },
    {
     "source": "Udana 6.4, the blind men and the elephant",
     "teaching": "Some blind men each touched one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the ear and said it is like a winnowing basket. Each was sure, and each knew only one part.",
-    "link": "Your hand told you only one thing about the rolling pin: how heavy it is. The bucket test showed you another: what it is made of. You needed both to understand it."
+    "link": "Your hand told you only one thing about the rolling pin: how heavy it is. The bucket test showed you another: what it is made of. You needed both to understand it.",
+    "verse": ["ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

@@ -1954,12 +1954,16 @@
    {
     "source": "Cula-Malunkyovada Sutta, Majjhima Nikaya 63",
     "teaching": "A monk named Malunkyaputta asks the Buddha questions such as 'Is the world eternal?' The Buddha does not answer. He tells of a man hit by a poisoned arrow who refuses help until he knows who shot it. The man would die before the questions were answered. The Buddha says to work first on what can be worked on.",
-    "link": "Some questions can be answered by a test today, and some cannot. Knowing which kind you have helps you choose what to do next."
+    "link": "Some questions can be answered by a test today, and some cannot. Knowing which kind you have helps you choose what to do next.",
+    "verse": ["Seyyathāpi, mālukyaputta, puriso sallena viddho assa savisena gāḷhapalepanena.", "Tassa mittāmaccā ñātisālohitā bhisakkaṁ sallakattaṁ upaṭṭhapeyyuṁ."],
+    "verse_lang": "pi"
    },
    {
     "source": "Confucius, Analects 2.17",
     "teaching": "Confucius tells his student: when you know a thing, say that you know it. When you do not know a thing, say that you do not know it. That is real knowing.",
-    "link": "A prediction is said honestly before a test. When the test shows it was wrong, an honest person says so, and learns."
+    "link": "A prediction is said honestly before a test. When the test shows it was wrong, an honest person says so, and learns.",
+    "verse": ["由，誨女知之乎！知之爲知之，不知爲不知，是知也。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

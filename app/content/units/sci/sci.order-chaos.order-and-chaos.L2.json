@@ -2034,12 +2034,16 @@
    {
     "source": "Heraclitus, a Greek thinker from about 500 BCE, as reported by Plato in the Cratylus, 402a",
     "teaching": "Heraclitus, a thinker in ancient Greece, said that you cannot step twice into the same river. The water you stepped into has already flowed on, and new water has come.",
-    "link": "The river follows the same rules every day, but it is never the same water twice. The paper leaf test and the splash test were like that too: the same rules, but a new result each time."
+    "link": "The river follows the same rules every day, but it is never the same water twice. The paper leaf test and the splash test were like that too: the same rules, but a new result each time.",
+    "verse": ["δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse_lang": "grc"
    },
    {
     "source": "Dhammapada, verse 277",
     "teaching": "The Buddha taught that everything made of parts keeps changing. Nothing made stays the same.",
-    "link": "A splash lasts a moment and is gone, and the next one is different. A cloud keeps changing shape too."
+    "link": "A splash lasts a moment and is gone, and the next one is different. A cloud keeps changing shape too.",
+    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse_lang": "pi"
    }
   ],
   "science": [

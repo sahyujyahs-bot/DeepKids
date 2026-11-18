@@ -2936,17 +2936,23 @@
    {
     "source": "Taittiriya Upanishad 2.1",
     "teaching": "From space came air, from air fire, from fire water, from water earth. From earth came plants, from plants food, and from food the person.",
-    "link": "The unit follows the last part of this chain. Rice grows from soil, and food from the rice builds the child's own body."
+    "link": "The unit follows the last part of this chain. Rice grows from soil, and food from the rice builds the child's own body.",
+    "verse": ["तस्माद्वा एतस्मादात्मन आकाशः संभूतः । आकाशाद्वायुः", "वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी", "पृथिव्या ओषधयः । ओषधीभ्योऽन्नम् । अन्नाद्रेतः । रेतसः पुरुषः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Atharva Veda 12.1.12, the Bhumi Sukta",
     "teaching": "The Earth is my mother, and I am her child.",
-    "link": "Soil feeds every crop that feeds us, the way a mother feeds a child. The hymn asks us to treat the ground with the same care."
+    "link": "Soil feeds every crop that feeds us, the way a mother feeds a child. The hymn asks us to treat the ground with the same care.",
+    "verse": ["यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।", "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"],
+    "verse_lang": "sa"
    },
    {
     "source": "Genesis 3.19",
     "teaching": "For dust you are, and to dust you will return.",
-    "link": "In the Soil Jar experiment, the floating bits were pieces of dead plants on their way back to soil. Plants, animals and people are all made from what the soil gives, and all go back to it."
+    "link": "In the Soil Jar experiment, the floating bits were pieces of dead plants on their way back to soil. Plants, animals and people are all made from what the soil gives, and all go back to it.",
+    "verse": ["כִּי־עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב"],
+    "verse_lang": "he"
    }
   ],
   "science": [

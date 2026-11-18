@@ -86,7 +86,7 @@ We sniffed family shirts and passed a smell down a line of hands. Now we ask wha
 
 A family begins with one person caring for another. Then more people join, by birth, by marriage or by adoption. Each person brings their own smell and their own microbes. When they live close together, they share them. After a while the home has a smell of its own.
 
-- **Maha Upanishad, chapter 6, verses 71 to 73:** Only a small mind asks, 'Is this person mine, or a stranger?' For a big-hearted person, the whole world is one family: vasudhaiva kutumbakam. (Families come in many kinds, and people join them in many ways. Even the microbes on our skin move from person to person. So it is hard to say exactly where a family ends.)
+- **Maha Upanishad, chapter 6, verses 71 to 73:** “अयं बन्धुरयं नेति गणना लघुचेतसाम् / उदारचरितानां तु वसुधैव कुटुम्बकम्” Only a small mind asks, 'Is this person mine, or a stranger?' For a big-hearted person, the whole world is one family: vasudhaiva kutumbakam. (Families come in many kinds, and people join them in many ways. Even the microbes on our skin move from person to person. So it is hard to say exactly where a family ends.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988), on interbeing:** Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in the paper. Nothing exists all by itself. (Look closely at your own skin and you find microbes that came from the people you live with. So part of each of us came from the others.)
 - Science (settled): People who live in one home share more skin microbes than people from different homes.
 - Science (open): Whether shared microbes stay on us for long, or come and go after each touch, is not yet known.

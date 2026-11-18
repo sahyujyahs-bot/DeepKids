@@ -124,8 +124,8 @@ We have planned a test and watched apple slices turn brown over an hour, and hea
 
 Your drawings from the Brown Apple Watch show the same slice at different moments: cream, yellow, light brown, brown. Laid in a row, they show one change happening step by step. A record lets us join separate looks into one story of change.
 
-- **Heraclitus, fragment B91 (Diels-Kranz numbering), about 500 BCE:** You cannot step into the same river twice. (A river looks the same from day to day, but the water in it is always new. The apple slice looked the same from minute to minute, but it was always changing.)
-- **Dhammapada, verse 277:** All made things are impermanent. When one sees this with wisdom, one turns away from suffering. (The Buddha taught that nothing made stays the same. The apple, the banana and the new star of 1572 all show it, each at its own speed.)
+- **Heraclitus, fragment B91 (Diels-Kranz numbering), about 500 BCE:** “ποταμῷ γὰρ οὐκ ἔστιν ἐμβῆναι δὶς τῷ αὐτῷ” You cannot step into the same river twice. (A river looks the same from day to day, but the water in it is always new. The apple slice looked the same from minute to minute, but it was always changing.)
+- **Dhammapada, verse 277:** “Sabbe saṅkhārā aniccā, / yadā paññāya passati; / Atha nibbindati dukkhe, / esa maggo visuddhiyā.” All made things are impermanent. When one sees this with wisdom, one turns away from suffering. (The Buddha taught that nothing made stays the same. The apple, the banana and the new star of 1572 all show it, each at its own speed.)
 - **Tirukkural 423:** “எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள் / மெய்ப்பொருள் காண்ப தறிவு.” Whatever is said, by whoever says it, wisdom is to find the truth in it. (Aristotle was famous, but Tycho checked the sky for himself. In the apple test, your own record, not anyone's say-so, tells you what happened.)
 - Science (settled): Many changes are too slow for our eyes. Time-lapse photos and long records let scientists see them.
 - Science (settled): Stars are born, change and die over millions or billions of years. A supernova is the sudden end of some stars.

@@ -3395,12 +3395,16 @@
    {
     "source": "Katha Upanishad 2.2.15 (in some editions numbered 5.15)",
     "teaching": "There, the Sun does not shine, nor the Moon and the stars. When that shines, everything shines after it. By its light, all this is lit.",
-    "link": "The Moon shines only with the Sun's light. The Upanishad goes one step further. It says that even the Sun is known only by the light of awareness, the light by which we know anything at all. This is a teaching, not a science finding."
+    "link": "The Moon shines only with the Sun's light. The Upanishad goes one step further. It says that even the Sun is known only by the light of awareness, the light by which we know anything at all. This is a teaching, not a science finding.",
+    "verse": ["न तत्र सूर्यो भाति न चन्द्रतारकं", "नेमा विद्युतो भान्ति कुतोऽयमग्निः", "तमेव भान्तमनुभाति सर्वं", "तस्य भासा सर्वमिदं विभाति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Isha Upanishad 16",
     "teaching": "A seeker speaks to the Sun: gather your dazzling rays, so I can see your most beautiful form. The person who is there, in the Sun, that am I.",
-    "link": "Science finds that the atoms of your body were made in stars. The Upanishad goes further and says that the one in the Sun and the one in you are the same. That is a belief, not a measurement."
+    "link": "Science finds that the atoms of your body were made in stars. The Upanishad goes further and says that the one in the Sun and the one in you are the same. That is a belief, not a measurement.",
+    "verse": ["पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन् समूह तेजः", "यत्ते रूपं कल्याणतमं तत्ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि"],
+    "verse_lang": "sa"
    },
    {
     "source": "Carl Sagan, Cosmos, episode 1 (1980)",

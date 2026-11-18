@@ -3604,12 +3604,16 @@
       {
         "source": "Tao Te Ching 76",
         "teaching": "A person is born gentle and soft, and dies hard and stiff. Plants are tender and full of sap when alive, and dry and brittle when dead. So the stiff and unbending are companions of death, and the gentle and yielding are companions of life. A tree that will not bend is easily broken.",
-        "link": "A standing body is never still. It sways a little and corrects, again and again. A body that stiffens up corrects less well, and balance depends on that give and take."
+        "link": "A standing body is never still. It sways a little and corrects, again and again. A body that stiffens up corrects less well, and balance depends on that give and take.",
+        "verse": ["人之生也柔弱，其死也堅強。", "萬物草木之生也柔脆，其死也枯槁。", "故堅強者死之徒，柔弱者生之徒。"],
+        "verse_lang": "zh"
       },
       {
         "source": "Anguttara Nikaya 6.55 (the Sona Sutta)",
         "teaching": "The Buddha reminded Sona, a lute player who was trying too hard, that a lute makes music only when its strings are neither too tight nor too loose. Effort needs the same even tuning.",
-        "link": "Balance is a kind of tuning. The brain keeps adjusting how much it trusts each helper, neither too much nor too little, and the muscles adjust again and again."
+        "link": "Balance is a kind of tuning. The brain keeps adjusting how much it trusts each helper, neither too much nor too little, and the muscles adjust again and again.",
+        "verse": ["Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?"],
+        "verse_lang": "pi"
       }
     ],
     "science": [

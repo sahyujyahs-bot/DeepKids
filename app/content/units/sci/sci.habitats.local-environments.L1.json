@@ -1817,12 +1817,16 @@
    {
     "source": "Tolkappiyam, Porulatikaram (Akattinaiyiyal)",
     "teaching": "The Tolkappiyam is a very old Tamil book about language and poems. It sorts the land into kinds, such as hills, forest, farmland and seashore. Each kind of land has its own trees, flowers, birds and animals.",
-    "link": "In the plate test, the damp soil under the plate and the dry soil in the open were two different homes, a hand's width apart. The Tolkappiyam saw the same thing across a whole country: each kind of place has its own living beings."
+    "link": "In the plate test, the damp soil under the plate and the dry soil in the open were two different homes, a hand's width apart. The Tolkappiyam saw the same thing across a whole country: each kind of place has its own living beings.",
+    "verse": ["மாயோன் மேய காடுறை உலகமுஞ்", "சேயோன் மேய மைவரை உலகமும்", "வேந்தன் மேய தீம்புனல் உலகமும்", "வருணன் மேய பெருமணல் உலகமும்", "முல்லை குறிஞ்சி மருத நெய்தலெனச்", "சொல்லிய முறையாற் சொல்லவும் படுமே."],
+    "verse_lang": "ta"
    },
    {
     "source": "Acharanga Sutra, Book 1, Lecture 4, Lesson 1",
     "teaching": "This old Jain teaching says that no breathing, living being should be killed, hurt or driven away. Many Jain monks and nuns carry a soft brush to move tiny beings gently out of their path.",
-    "link": "When we lift a stone, the beings underneath lose their roof. Putting the stone back gently gives them their home again."
+    "link": "When we lift a stone, the beings underneath lose their roof. Putting the stone back gently gives them their home again.",
+    "verse": ["सव्वे पाणा सव्वे भूया सव्वे जीवा सव्वे सत्ता", "न हन्तव्वा न अज्जावेयव्वा न परिघेत्तव्वा", "न परियावेयव्वा न उद्दवेयव्वा", "एस धम्मे सुद्धे नितिए सासए"],
+    "verse_lang": "pra"
    }
   ],
   "science": [

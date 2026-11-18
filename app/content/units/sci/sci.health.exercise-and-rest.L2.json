@@ -2229,12 +2229,16 @@
    {
     "source": "Chandogya Upanishad 5.1",
     "teaching": "The parts of a person had an argument about who was the most important. Speech left the body for a year, then the eyes, the ears and the mind. Each time, the person went on living. Then breath began to leave. All the others felt themselves being pulled out too. They agreed that breath, prana, was the most important of all.",
-    "link": "In the puff count test, your breathing changed by itself to keep your dancing muscles going. Every part of the body depends on breath."
+    "link": "In the puff count test, your breathing changed by itself to keep your dancing muscles going. Every part of the body depends on breath.",
+    "verse": ["सा ह वागुच्चक्राम", "सा संवत्सरं प्रोष्य पर्येत्योवाच", "अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत्", "भगवन्नेधि", "त्वं नः श्रेष्ठोऽसि"],
+    "verse_lang": "sa"
    },
    {
     "source": "Anguttara Nikaya 6.55, the Sona Sutta",
     "teaching": "A monk named Sona tried so hard that his feet bled from walking. The Buddha asked him, 'You used to play the vina. When the strings were too tight, did it sound good?' 'No.' 'And when they were too loose?' 'No.' 'When they were neither too tight nor too loose?' 'Then it sounded good.' The Buddha said effort is the same.",
-    "link": "A body needs both: hard work to grow strong, and rest and sleep to recover. Too much of either is like a vina string that is too tight or too loose."
+    "link": "A body needs both: hard work to grow strong, and rest and sleep to recover. Too much of either is like a vina string that is too tight or too loose.",
+    "verse": ["Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?"],
+    "verse_lang": "pi"
    }
   ],
   "science": [

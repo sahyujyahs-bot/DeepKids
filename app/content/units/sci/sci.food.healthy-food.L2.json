@@ -1923,7 +1923,9 @@
    {
     "source": "Taittiriya Upanishad 2.1 to 2.2",
     "teaching": "The Upanishad describes the body as the 'self made of food'. It says that all beings come from food, live on food, and go back into food.",
-    "link": "In the spit test you saw food starting to change inside you. What you eat really does become your body."
+    "link": "In the spit test you saw food starting to change inside you. What you eat really does become your body.",
+    "verse": ["स वा एष पुरुषोऽन्नरसमयः", "अन्नाद्वै प्रजाः प्रजायन्ते", "याः काश्च पृथिवीँ श्रिताः", "अथो अन्नेनैव जीवन्ति", "अथैनदपि यन्त्यन्ततः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thirukkural 942, by Thiruvalluvar",

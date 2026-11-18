@@ -3045,7 +3045,9 @@
    {
     "source": "Tao Te Ching 76",
     "teaching": "Living plants are soft and full of sap. When they die, they become dry and brittle.",
-    "link": "In the jelly coat test, the plain leaf lost its water and went limp. Keeping water inside is part of staying alive, and desert plants are shaped to do it."
+    "link": "In the jelly coat test, the plain leaf lost its water and went limp. Keeping water inside is part of staying alive, and desert plants are shaped to do it.",
+    "verse": ["萬物草木之生也柔脆，其死也枯槁。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

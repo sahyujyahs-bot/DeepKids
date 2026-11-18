@@ -2041,7 +2041,9 @@
    {
     "source": "Samyutta Nikaya 12.1 (a Buddhist text)",
     "teaching": "The Buddha taught that feeling comes from contact. A feeling arises only when there is contact.",
-    "link": "In the Secret Packet test, the packet's pull reached your hand only through contact with the bag. Whether you felt it also depended on what your hand already held."
+    "link": "In the Secret Packet test, the packet's pull reached your hand only through contact with the bag. Whether you felt it also depended on what your hand already held.",
+    "verse": ["phassapaccayā vedanā;"],
+    "verse_lang": "pi"
    }
   ],
   "science": [

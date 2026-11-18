@@ -3612,12 +3612,16 @@
    {
     "source": "Chandogya Upanishad 6.12",
     "teaching": "A father, Uddalaka, asks his son Shvetaketu to split a banyan seed. 'What do you see?' 'Nothing at all.' The father says: from this finest thing that you cannot see, the great banyan tree grows. That fine essence is in everything. And you are that.",
-    "link": "When you split a bean, the baby plant is so small you can hardly see them, yet a whole plant grows from them. Uddalaka used a seed to show that what we cannot see can hold something great. A sprout grows big from a tiny start, fed by what was packed inside them."
+    "link": "When you split a bean, the baby plant is so small you can hardly see them, yet a whole plant grows from them. Uddalaka used a seed to show that what we cannot see can hold something great. A sprout grows big from a tiny start, fed by what was packed inside them.",
+    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति", "स य एषोऽणिमैतदात्म्यमिदं सर्वम्", "तत्सत्यम्", "स आत्मा", "तत्त्वमसि श्वेतकेतो इति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Mencius, Book 2A, chapter 2",
     "teaching": "A farmer from the state of Song was worried his young plants were growing too slowly. So he pulled on each one to help them grow. When his son ran to look, the plants had all withered.",
-    "link": "You cannot make a seed sprout by pushing them. You can only give them water, warmth and air, and wait. Growing has its own time."
+    "link": "You cannot make a seed sprout by pushing them. You can only give them water, warmth and air, and wait. Growing has its own time.",
+    "verse": ["宋人有閔其苗之不長而揠之者，芒芒然歸，謂其人曰：『今日病矣！予助苗長矣！』其子趨而往視之，苗則槁矣！"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

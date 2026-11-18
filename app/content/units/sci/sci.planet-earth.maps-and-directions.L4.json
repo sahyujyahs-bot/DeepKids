@@ -509,17 +509,23 @@
    {
     "source": "Udana 6.4, the story of the blind men and the elephant",
     "teaching": "Blind men each touched a different part of an elephant. One felt the leg and said it was a pillar. One felt the tail and said it was a rope. Each was sure of the whole.",
-    "link": "Each push of the stick through a hole in the Hidden Hills box touches only one part of the hidden land. A map is what you get when many touches are put together with care."
+    "link": "Each push of the stick through a hole in the Hidden Hills box touches only one part of the hidden land. A map is what you get when many touches are put together with care.",
+    "verse": ["ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    },
    {
     "source": "Tao Te Ching 1",
     "teaching": "The way that can be told is not the eternal way. The name that can be named is not the eternal name.",
-    "link": "A map is a kind of name for a place. It is useful, but it is not the place."
+    "link": "A map is a kind of name for a place. It is useful, but it is not the place.",
+    "verse": ["道可道，非常道，名可名，非常名。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Rig Veda 10.129, the hymn of creation",
     "teaching": "The hymn asks how the world began, and ends by saying that perhaps only the one who watches from the highest heaven knows, or perhaps not even that one.",
-    "link": "The hymn is honest about where knowing stops. A good map is honest too, and marks the blank places."
+    "link": "The hymn is honest about where knowing stops. A good map is honest too, and marks the blank places.",
+    "verse": ["इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

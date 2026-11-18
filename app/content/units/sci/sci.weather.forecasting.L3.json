@@ -3074,12 +3074,16 @@
    {
     "source": "The Buddha's teaching of dependent arising, in the Samyutta Nikaya 12.21",
     "teaching": "When this is, that comes to be. From the arising of this, that arises.",
-    "link": "Tomorrow's rain comes from today's warm sea, rising damp air and wind. A forecast follows these causes forward, one step at a time."
+    "link": "Tomorrow's rain comes from today's warm sea, rising damp air and wind. A forecast follows these causes forward, one step at a time.",
+    "verse": ["Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati."],
+    "verse_lang": "pi"
    },
    {
     "source": "Heraclitus, the Greek philosopher, as reported by Plato in the Cratylus (402a)",
     "teaching": "Everything moves on and nothing stays still. You cannot step into the same river twice.",
-    "link": "The air never stays still. The air you breathe on the balcony this evening will be far away tomorrow, and new air will have taken its place."
+    "link": "The air never stays still. The air you breathe on the balcony this evening will be far away tomorrow, and new air will have taken its place.",
+    "verse": ["πάντα χωρεῖ καὶ οὐδὲν μένει,", "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+    "verse_lang": "grc"
    }
   ],
   "science": [

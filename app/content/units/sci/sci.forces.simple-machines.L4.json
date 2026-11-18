@@ -455,17 +455,23 @@
       {
         "source": "Tao Te Ching 77",
         "teaching": "The way of heaven is like bending a bow. What is high is brought down, and what is low is raised. It takes from what has too much and gives to what has too little.",
-        "link": "A lever or pulley gives you more force by taking away distance, so the two stay in balance."
+        "link": "A lever or pulley gives you more force by taking away distance, so the two stay in balance.",
+        "verse": ["天之道，其猶張弓與？", "高者抑之，下者舉之；有餘者損之，不足者補之。"],
+        "verse_lang": "zh"
       },
       {
         "source": "Heraclitus, fragment 51",
         "teaching": "People do not see how something that pulls against itself can still hold together, like the tension of a bow and a lyre.",
-        "link": "A rope that is pulled at both ends holds a load. The pull in the rope and the weight of the load hold each other in balance."
+        "link": "A rope that is pulled at both ends holds a load. The pull in the rope and the weight of the load hold each other in balance.",
+        "verse": ["οὐ ξυνιᾶσιν ὅκως διαφερόμενον ἑωυτῷ συμφέρεται· παλίντονος ἁρμονίη ὅκωσπερ τόξου καὶ λύρης"],
+        "verse_lang": "grc"
       },
       {
         "source": "Zhuangzi, chapter 3",
         "teaching": "Cook Ding used one knife for 19 years to cut up thousands of oxen, and it stayed as sharp as new. He did not cut through the bones, but slid his thin blade through the gaps between them.",
-        "link": "A wedge works best along a line where a material already wants to split, so the thinnest edge does the most with the least push."
+        "link": "A wedge works best along a line where a material already wants to split, so the thinnest edge does the most with the least push.",
+        "verse": ["今臣之刀，十九年矣，所解數千牛矣，而刀刃若新發於硎。", "彼節者有間，而刀刃者无厚，以无厚入有間，恢恢乎其於遊刃必有餘地矣"],
+        "verse_lang": "zh"
       }
     ],
     "science": [

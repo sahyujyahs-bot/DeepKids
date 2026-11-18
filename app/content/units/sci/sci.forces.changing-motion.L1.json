@@ -1848,7 +1848,9 @@
    {
     "source": "Tao Te Ching 15",
     "teaching": "Who can make muddy water clear? Let it be still, and slowly it becomes clear. Who can bring stillness to life? Let it move, and slowly it comes alive.",
-    "link": "In our tests, a rolling ball slowly became still, and a still ball began to roll with one tap."
+    "link": "In our tests, a rolling ball slowly became still, and a still ball began to roll with one tap.",
+    "verse": ["孰能濁以靜之徐清？"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

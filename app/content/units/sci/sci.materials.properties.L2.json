@@ -1812,12 +1812,16 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "We cut doors and windows to make a room. It is the empty space in them that makes the room useful.",
-    "link": "A tea strainer is useful because of its holes. A window is useful because it lets light in. The Tao Te Ching, from China, asks us to notice what the openings do."
+    "link": "A tea strainer is useful because of its holes. A window is useful because it lets light in. The Tao Te Ching, from China, asks us to notice what the openings do.",
+    "verse": ["鑿戶牖以為室，當其無，有室之用。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Isha Upanishad 15",
     "teaching": "The face of truth is covered by a golden lid. Open it, so that I may see what is true.",
-    "link": "A shiny golden lid is beautiful, but it is opaque, so it hides what is under it. To see, we need a material that lets light through, or we must lift the lid."
+    "link": "A shiny golden lid is beautiful, but it is opaque, so it hides what is under it. To see, we need a material that lets light through, or we must lift the lid.",
+    "verse": ["हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्", "तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

@@ -3817,17 +3817,23 @@
    {
     "source": "Nagarjuna, Mulamadhyamakakarika, chapter 8",
     "teaching": "Nagarjuna, an Indian Buddhist teacher of about the 2nd century CE, taught that a doer and a deed depend on each other. There is no doer without a deed, and no deed without a doer.",
-    "link": "A magnet is a puller only because there is a nail to pull. The pull is what they do together."
+    "link": "A magnet is a puller only because there is a nail to pull. The pull is what they do together.",
+    "verse": ["प्रतीत्य कारकः कर्म तं प्रतीत्य च कारकम्", "कर्म प्रवर्तते नान्यत् पश्यामः सिद्धिकारणम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 2",
     "teaching": "Being and non-being give birth to each other. Hard and easy complete each other. Long and short measure each other. Front and back follow each other.",
-    "link": "A magnet always has a north pole and a south pole together. A pull has two ends, and each end needs the other."
+    "link": "A magnet always has a north pole and a south pole together. A pull has two ends, and each end needs the other.",
+    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Heraclitus, fragment B51 (Diels-Kranz numbering), about 500 BCE",
     "teaching": "Heraclitus said that the harmony of the world comes from tension that pulls in both directions, like the bow and the lyre.",
-    "link": "A pulled bowstring pulls the bow back as hard as the bow pulls the string. Magnet and nail are held in the same kind of tension."
+    "link": "A pulled bowstring pulls the bow back as hard as the bow pulls the string. Magnet and nail are held in the same kind of tension.",
+    "verse": ["οὐ ξυνιᾶσιν ὅκως διαφερόμενον ἑωυτῷ συμφέρεται· παλίντονος ἁρμονίη ὅκωσπερ τόξου καὶ λύρης"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

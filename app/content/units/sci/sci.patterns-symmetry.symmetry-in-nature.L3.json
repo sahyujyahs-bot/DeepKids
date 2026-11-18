@@ -2771,7 +2771,9 @@
    {
     "source": "Plato, Timaeus (the passage on the five regular solids)",
     "teaching": "Plato taught that fire, air, water and earth are made of tiny perfectly regular shapes, such as cubes and pyramids.",
-    "link": "Plato's shapes were wrong. But he was right that the smallest parts of matter sit in regular patterns: in ice, water molecules really do join in rings of six."
+    "link": "Plato's shapes were wrong. But he was right that the smallest parts of matter sit in regular patterns: in ice, water molecules really do join in rings of six.",
+    "verse": ["γῇ μὲν δὴ τὸ κυβικὸν εἶδος δῶμεν· ἀκινητοτάτη γὰρ τῶν τεττάρων γενῶν γῆ καὶ τῶν σωμάτων πλαστικωτάτη"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

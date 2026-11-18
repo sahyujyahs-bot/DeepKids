@@ -4341,12 +4341,16 @@
    {
     "source": "Rig Veda 1.164.46",
     "teaching": "Truth is one. The wise call it by many names.",
-    "link": "One notebook's pull was counted as 6 big coins, 12 small coins or about half a newton. The numbers changed with the unit. The pull itself stayed the same."
+    "link": "One notebook's pull was counted as 6 big coins, 12 small coins or about half a newton. The numbers changed with the unit. The pull itself stayed the same.",
+    "verse": ["इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् ।", "एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Quran 55:7–9",
     "teaching": "The heavens were raised, and a balance was set. So do not cheat the balance. Weigh fairly, and do not make the balance short.",
-    "link": "A balance is fair only if people can trust it. In the story Ten Packets of Salt, the pointer on Mohan Lal's balance started in the wrong place, and it cheated every porter. Pushpa showed this by testing the balance with ten sealed 1 kilogram packets of salt."
+    "link": "A balance is fair only if people can trust it. In the story Ten Packets of Salt, the pointer on Mohan Lal's balance started in the wrong place, and it cheated every porter. Pushpa showed this by testing the balance with ten sealed 1 kilogram packets of salt.",
+    "verse": ["وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ", "أَلَّا تَطْغَوْا فِي الْمِيزَانِ", "وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ"],
+    "verse_lang": "ar"
    }
   ],
   "science": [

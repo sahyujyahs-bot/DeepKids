@@ -2742,12 +2742,16 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "We cut out doors and windows to make a room. It is the empty space inside that makes the room useful.",
-    "link": "A frame and a house's walls hold their shape so that an empty space can stay open inside. We build the walls, but we live in the space they hold."
+    "link": "A frame and a house's walls hold their shape so that an empty space can stay open inside. We build the walls, but we live in the space they hold.",
+    "verse": ["鑿戶牖以為室，當其無，有室之用。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Dhammapada 153 to 154",
     "teaching": "The Buddha spoke of looking for the builder of a house. He said that its rafters, the sloping poles of the roof, were broken, and its ridge-pole, the pole along the top of the roof, was shattered. So that house would not be built again.",
-    "link": "The Buddha used a house of rafters and a ridge-pole as a picture of the self. A house is only parts held together at their joints. When the joints and beams fail, there is no house left, only poles."
+    "link": "The Buddha used a house of rafters and a ridge-pole as a picture of the self. A house is only parts held together at their joints. When the joints and beams fail, there is no house left, only poles.",
+    "verse": ["Gahakāraka diṭṭhosi,", "puna gehaṁ na kāhasi;", "Sabbā te phāsukā bhaggā,", "gahakūṭaṁ visaṅkhataṁ;"],
+    "verse_lang": "pi"
    }
   ],
   "science": [

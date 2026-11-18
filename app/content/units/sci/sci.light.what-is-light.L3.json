@@ -3525,12 +3525,16 @@
    {
     "source": "Brihadaranyaka Upanishad 4.3.2 to 4.3.6",
     "teaching": "King Janaka asks the sage Yajnavalkya: what light does a person live by? The Sun, says the sage. And when the Sun has set? The Moon. And when the Moon has set? Fire. And when the fire goes out? Speech. And when speech is silent? Then the self is his light.",
-    "link": "This unit follows light from a lamp to your eye, photon by photon. Science can follow the photons all the way in. The sage asks something science has not answered: who is it that sees?"
+    "link": "This unit follows light from a lamp to your eye, photon by photon. Science can follow the photons all the way in. The sage asks something science has not answered: who is it that sees?",
+    "verse": ["याज्ञवल्क्य किंज्योतिरयं पुरुष इति", "आदित्यज्योतिः सम्राडिति होवाच", "अस्तमित आदित्ये याज्ञवल्क्य किंज्योतिरेवायं पुरुष इति", "चन्द्रमा एवास्य ज्योतिर्भवतीति", "आत्मैवास्य ज्योतिर्भवतीति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Udana 6.4, the Buddha's story of the blind men and the elephant (also told in Jain teaching on anekantavada, many-sidedness)",
     "teaching": "Some blind men each touch one part of an elephant. One feels the trunk and says it is a snake. One feels a leg and says it is a pillar. Each is partly right, and they quarrel.",
-    "link": "Young's two slits showed light acting as a wave. Einstein's packets showed it acting as particles. Each experiment touched one side of light, and neither word describes all of it."
+    "link": "Young's two slits showed light acting as a wave. Einstein's packets showed it acting as particles. Each experiment touched one side of light, and neither word describes all of it.",
+    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

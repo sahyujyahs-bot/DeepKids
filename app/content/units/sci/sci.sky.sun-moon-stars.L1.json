@@ -1884,12 +1884,16 @@
    {
     "source": "Rig Veda 1.50.2 (a hymn to Surya, the Sun)",
     "teaching": "The stars slip away like thieves, together with their beams, before the all-seeing Sun.",
-    "link": "The old hymn says what everyone sees: the stars vanish at sunrise. The torch test shows that they do not really go anywhere. The Sun's bright light hides them."
+    "link": "The old hymn says what everyone sees: the stars vanish at sunrise. The torch test shows that they do not really go anywhere. The Sun's bright light hides them.",
+    "verse": ["अप त्ये तायवो यथा नक्षत्रा यन्त्यक्तुभिः ।", "सूराय विश्वचक्षसे"],
+    "verse_lang": "sa"
    },
    {
     "source": "Isha Upanishad, verse 15",
     "teaching": "The face of truth is covered by a golden lid. Open it, so that I can see.",
-    "link": "Something very bright can hide what is behind it. The golden light of the Sun covers the day sky, and the stars behind it cannot be seen."
+    "link": "Something very bright can hide what is behind it. The golden light of the Sun covers the day sky, and the stars behind it cannot be seen.",
+    "verse": ["हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्", "तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

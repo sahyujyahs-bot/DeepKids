@@ -2817,17 +2817,23 @@
    {
     "source": "Taittiriya Upanishad 2.1",
     "teaching": "From the Self came space, from space air, from air fire, from fire water, from water earth. From earth came plants, from plants food, and from food the person.",
-    "link": "Like the story science tells, it says the living came step by step out of simpler things, with water and earth before plants and people."
+    "link": "Like the story science tells, it says the living came step by step out of simpler things, with water and earth before plants and people.",
+    "verse": ["तस्माद्वा एतस्मादात्मन आकाशः संभूतः । आकाशाद्वायुः", "वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी", "पृथिव्या ओषधयः । ओषधीभ्योऽन्नम् । अन्नाद्रेतः । रेतसः पुरुषः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Rig Veda 10.121.7, the Hiranyagarbha hymn",
     "teaching": "When the great waters came, holding the seed of everything and giving birth to fire, the one life-breath of the gods arose from them.",
-    "link": "The hymn places the first life-breath in the waters. Science too finds that the oldest life we know lived in water, and for most of the Earth's story, life lived only in water."
+    "link": "The hymn places the first life-breath in the waters. Science too finds that the oldest life we know lived in water, and for most of the Earth's story, life lived only in water.",
+    "verse": ["आपो ह यद्बृहतीर्विश्वमायन्गर्भं दधाना जनयन्तीरग्निम् ।", "ततो देवानां समवर्ततासुरेकः कस्मै देवाय हविषा विधेम"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thales of Miletus, about 600 BCE, as reported by Aristotle in Metaphysics, Book 1 (983b)",
     "teaching": "Water is the origin of all things.",
-    "link": "Thales, one of the first Greek philosophers, guessed that water was first. The oldest life we know did grow in water, though not everything comes from water."
+    "link": "Thales, one of the first Greek philosophers, guessed that water was first. The oldest life we know did grow in water, though not everything comes from water.",
+    "verse": ["Θαλῆς μὲν ὁ τῆς τοιαύτης ἀρχηγὸς φιλοσοφίας ὕδωρ φησὶν εἶναι"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

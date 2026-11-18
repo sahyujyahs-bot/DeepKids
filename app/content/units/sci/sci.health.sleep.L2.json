@@ -1855,12 +1855,16 @@
    {
     "source": "Yoga Sutras of Patanjali 1.6 and 1.10",
     "teaching": "Patanjali lists five kinds of activity of the mind: right knowing, mistaken knowing, imagining, sleep and memory. He says sleep is the mind's activity when there is nothing else for it to hold.",
-    "link": "Patanjali counts sleep as something the mind does, not as the mind being gone. The picture-pairs test shows the mind keeping memories during sleep."
+    "link": "Patanjali counts sleep as something the mind does, not as the mind being gone. The picture-pairs test shows the mind keeping memories during sleep.",
+    "verse": ["प्रमाणविपर्ययविकल्पनिद्रास्मृतयः", "अभावप्रत्ययालम्बना वृत्तिर्निद्रा"],
+    "verse_lang": "sa"
    },
    {
     "source": "Chandogya Upanishad 6.8.1",
     "teaching": "Uddalaka tells his son Shvetaketu that when a person is in deep sleep, they become one with pure being. They have gone back to their own self. That is why, the Upanishad says, we call it sleeping.",
-    "link": "The Upanishad says a sleeper has 'gone to their own self'. In deep sleep you notice nothing, yet you are still there, and your body and mind keep working."
+    "link": "The Upanishad says a sleeper has 'gone to their own self'. In deep sleep you notice nothing, yet you are still there, and your body and mind keep working.",
+    "verse": ["यत्रैतत्पुरुषः स्वपिति नाम सता सोम्य तदा संपन्नो भवति", "स्वमपीतो भवति", "तस्मादेनं स्वपितीत्याचक्षते"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

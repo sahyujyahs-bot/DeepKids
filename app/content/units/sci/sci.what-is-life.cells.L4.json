@@ -2950,12 +2950,16 @@
       {
         "source": "Tao Te Ching 11",
         "teaching": "Thirty spokes meet in the hub of a wheel, but the empty space in the middle makes the wheel useful. Clay is shaped into a pot, but the empty space inside makes the pot useful.",
-        "link": "A cell is like the pot. Her skin makes a space inside where chemistry can happen, and that space is what makes her a cell."
+        "link": "A cell is like the pot. Her skin makes a space inside where chemistry can happen, and that space is what makes her a cell.",
+        "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。"],
+        "verse_lang": "zh"
       },
       {
         "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
         "teaching": "'That is whole, this is whole. From the whole the whole comes out. Take the whole from the whole, and the whole remains.'",
-        "link": "A single cell, such as an amoeba, splits into two. Each new cell is a whole cell, and nothing has been taken away from the first."
+        "link": "A single cell, such as an amoeba, splits into two. Each new cell is a whole cell, and nothing has been taken away from the first.",
+        "verse": ["ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते", "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"],
+        "verse_lang": "sa"
       },
       {
         "source": "Lynn Margulis, Symbiotic Planet (1998)",

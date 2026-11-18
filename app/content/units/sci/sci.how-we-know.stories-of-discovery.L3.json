@@ -2667,12 +2667,16 @@
       {
         "source": "Tao Te Ching, chapter 2",
         "teaching": "The Tao Te Ching says that hard and easy, long and short, high and low make each other. We know one only by comparing it with the other.",
-        "link": "In the Too-Weak Tape Test, a strip was 'strong' or 'weak' only compared with the job and with the other strips. Success and failure are named the same way, by comparing a result with what someone wanted."
+        "link": "In the Too-Weak Tape Test, a strip was 'strong' or 'weak' only compared with the job and with the other strips. Success and failure are named the same way, by comparing a result with what someone wanted.",
+        "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+        "verse_lang": "zh"
       },
       {
         "source": "Udana 6.4 (the Tittha Sutta)",
         "teaching": "The Buddha told of a king who asked men who could not see to touch an elephant. Each man touched one part: the trunk, an ear or a leg. Each described a different animal. Each was partly right.",
-        "link": "A discovery has many parts, like the elephant. The noticer, the checker, the maker and the explainer each held one part. A story that names only one of them describes only one part."
+        "link": "A discovery has many parts, like the elephant. The noticer, the checker, the maker and the explainer each held one part. A story that names only one of them describes only one part.",
+        "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+        "verse_lang": "pi"
       }
     ],
     "science": [

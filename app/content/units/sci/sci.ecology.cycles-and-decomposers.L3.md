@@ -127,9 +127,9 @@ We have found who the decomposers are, and what they need to eat dead things. No
 
 A badam leaf, a worm, a mould and a tulsi plant look like separate lives. But the leaf's material becomes the mould's threads, the worm's casts and the tulsi's new leaves. The same material passes from body to body, and each body holds it for a while.
 
-- **Taittiriya Upanishad 3.2 (Bhrigu Valli):** From food all beings are born. By food they live. Into food they go when they depart. (A leaf grows from the soil, lives by the food it makes, and when it falls it becomes food for decomposers, and then for new plants.)
-- **Ecclesiastes 3:20:** All go to one place. All are of the dust, and all turn to dust again. (Decomposers turn every dead body, of a leaf, a worm or a person, back into soil.)
-- **Tao Te Ching 16:** All things grow and flourish, and each one returns to its root. (A fallen leaf really does return to the roots: decomposers turn it into nutrients that the tree's roots take in again.)
+- **Taittiriya Upanishad 3.2 (Bhrigu Valli):** “अन्नं ब्रह्मेति व्यजानात् / अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते / अन्नेन जातानि जीवन्ति / अन्नं प्रयन्त्यभिसंविशन्तीति” From food all beings are born. By food they live. Into food they go when they depart. (A leaf grows from the soil, lives by the food it makes, and when it falls it becomes food for decomposers, and then for new plants.)
+- **Ecclesiastes 3:20:** “הַכֹּל הוֹלֵךְ אֶל־מָקוֹם אֶחָד / הַכֹּל הָיָה מִן־הֶעָפָר וְהַכֹּל שָׁב אֶל־הֶעָפָר” All go to one place. All are of the dust, and all turn to dust again. (Decomposers turn every dead body, of a leaf, a worm or a person, back into soil.)
+- **Tao Te Ching 16:** “夫物芸芸，各復歸其根。 / 歸根曰靜，是謂復命。” All things grow and flourish, and each one returns to its root. (A fallen leaf really does return to the roots: decomposers turn it into nutrients that the tree's roots take in again.)
 - Science (settled): When living things decompose, their atoms (the tiny particles they are made of) are not destroyed. The atoms pass into the decomposers, the air and the soil, and are used again by new living things.
 - Science (debated): How much forest trees share with each other through fungus threads is still being argued about.
 - Other view, Many biologists: Decomposers are just feeding to stay alive, like any other living thing. The circle from leaf to soil to leaf is a pattern we notice, not a plan or a message. Calling it 'recycling' is a human way of describing it.

@@ -1974,12 +1974,16 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet at one hub. It is the empty hole in the middle that makes the wheel useful.",
-    "link": "A wheel and a top both turn round their middle. In Make a Colour Top, the top spun round the pencil at its centre. The middle of a spinning top hardly moves, while its edge races round."
+    "link": "A wheel and a top both turn round their middle. In Make a Colour Top, the top spun round the pencil at its centre. The middle of a spinning top hardly moves, while its edge races round.",
+    "verse": ["三十輻共一轂，當其無，有車之用。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Dhammacakkappavattana Sutta, Samyutta Nikaya 56.11 (a Buddhist text)",
     "teaching": "The Buddha's first teaching is called setting the wheel rolling. The text says that once the wheel was set rolling, nobody could stop it.",
-    "link": "People chose a rolling wheel as a picture of something that, once started, keeps going. In our tests, a push started each thing, and its own shape and the floor decided how far and which way it went."
+    "link": "People chose a rolling wheel as a picture of something that, once started, keeps going. In our tests, a push started each thing, and its own shape and the floor decided how far and which way it went.",
+    "verse": ["etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

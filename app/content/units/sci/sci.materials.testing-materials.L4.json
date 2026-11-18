@@ -4004,7 +4004,9 @@
       {
         "source": "Heraclitus of Ephesus, a Greek thinker of about 500 BCE (reported by later writers)",
         "teaching": "Heraclitus is reported to have said that you cannot step into the same river twice, because new water keeps flowing past whoever steps in.",
-        "link": "The same ball dropped from the same hand is a different drop each time. The pattern stays the same, but each drop is new."
+        "link": "The same ball dropped from the same hand is a different drop each time. The pattern stays the same, but each drop is new.",
+        "verse": ["δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης."],
+        "verse_lang": "grc"
       },
       {
         "source": "Richard Feynman, in a talk to graduates at Caltech, 1974",

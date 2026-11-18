@@ -499,7 +499,9 @@
    {
     "source": "Isha Upanishad, opening verse",
     "teaching": "That is whole, this is whole. From the whole the whole comes out. Take the whole from the whole, and the whole remains.",
-    "link": "A chosen B cell splits into two complete cells, each as whole as the first. After the split, nothing is missing from either."
+    "link": "A chosen B cell splits into two complete cells, each as whole as the first. After the split, nothing is missing from either.",
+    "verse": ["ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते", "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

@@ -3651,12 +3651,16 @@
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole the whole comes out. Take the whole from the whole, and the whole remains.",
-    "link": "When friction stops a box, the box loses its movement, but the world loses no energy. The total stays the same, only spread out as warmth."
+    "link": "When friction stops a box, the box loses its movement, but the world loses no energy. The total stays the same, only spread out as warmth.",
+    "verse": ["ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते", "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"],
+    "verse_lang": "sa"
    },
    {
     "source": "Dhammapada 277",
     "teaching": "The Buddha taught that everything made of parts keeps changing. Nothing stays the same for ever.",
-    "link": "Friction shows this slowly. Shoe soles, brake pads and stone temple steps wear away, and even the length of a day is changing because of the tides."
+    "link": "Friction shows this slowly. Shoe soles, brake pads and stone temple steps wear away, and even the length of a day is changing because of the tides.",
+    "verse": ["Sabbe saṅkhārā aniccā,"],
+    "verse_lang": "pi"
    }
   ],
   "science": [

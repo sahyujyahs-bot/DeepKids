@@ -2446,7 +2446,9 @@
    {
     "source": "Tao Te Ching, chapter 76",
     "teaching": "Laozi says that living things are soft and bendable, and dead things are stiff and hard. What is stiff will break. What is soft and bendable will last.",
-    "link": "In the Jump Test, stiff, straight legs pushed only a little. Bent legs, ready to straighten, gave the longest jumps. Your legs could push only because they could bend."
+    "link": "In the Jump Test, stiff, straight legs pushed only a little. Bent legs, ready to straighten, gave the longest jumps. Your legs could push only because they could bend.",
+    "verse": ["故堅強者死之徒，柔弱者生之徒。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

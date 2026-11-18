@@ -3704,12 +3704,16 @@
    {
     "source": "Atharva Veda 12.1.12 (the hymn to the Earth)",
     "teaching": "The Earth is my mother, and I am her child.",
-    "link": "The verse speaks of the Earth as the one who holds us. In this unit, the Earth is the last link in every chain that holds something up. The verse is a statement of faith and care, and the unit does not test it."
+    "link": "The verse speaks of the Earth as the one who holds us. In this unit, the Earth is the last link in every chain that holds something up. The verse is a statement of faith and care, and the unit does not test it.",
+    "verse": ["यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।", "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"],
+    "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi, chapter 26 (Burton Watson's translation)",
     "teaching": "A person uses only the small patch of ground under her feet. But if the earth around her were dug away down to the Yellow Springs, that small patch would be no use to her.",
-    "link": "A pillar or a foot seems to need only the ground it touches. But the ground there is held up by all the ground round it. The passage says this as a lesson about usefulness, not about weight."
+    "link": "A pillar or a foot seems to need only the ground it touches. But the ground there is held up by all the ground round it. The passage says this as a lesson about usefulness, not about weight.",
+    "verse": ["夫地非不廣且大也，人之所用，容足耳，然則廁足而墊之致黃泉，人尚有用乎？"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

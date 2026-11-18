@@ -2981,7 +2981,9 @@
       {
         "source": "Taittiriya Upanishad 2.1",
         "teaching": "From the Self came space. From space came air, from air fire, from fire water, and from water earth. From earth came plants, from plants food, and from food the person.",
-        "link": "This is an old list of elements. It says the body is made of the same things as the world. Chemistry's list is different, with 118 elements. But it agrees that a body is built from food, air and water, and from nothing else."
+        "link": "This is an old list of elements. It says the body is made of the same things as the world. Chemistry's list is different, with 118 elements. But it agrees that a body is built from food, air and water, and from nothing else.",
+        "verse": ["तस्माद्वा एतस्मादात्मन आकाशः संभूतः । आकाशाद्वायुः", "वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी", "पृथिव्या ओषधयः । ओषधीभ्योऽन्नम् । अन्नाद्रेतः । रेतसः पुरुषः"],
+        "verse_lang": "sa"
       },
       {
         "source": "The Jain teaching of anekantavada (many-sidedness), with the story of the blind men and the elephant",

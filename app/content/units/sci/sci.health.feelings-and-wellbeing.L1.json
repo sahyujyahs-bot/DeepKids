@@ -1969,7 +1969,9 @@
    {
     "source": "Dhammapada, verse 5",
     "teaching": "Hatred is never ended by more hatred. It is ended only by letting go of hatred.",
-    "link": "Scientists found the same about anger: hitting and shouting keep anger going. Calming down lets it go."
+    "link": "Scientists found the same about anger: hitting and shouting keep anger going. Calming down lets it go.",
+    "verse": ["Na hi verena verāni,", "sammantīdha kudācanaṁ;", "Averena ca sammanti,", "esa dhammo sanantano."],
+    "verse_lang": "pi"
    },
    {
     "source": "Tirukkural 303, by Thiruvalluvar",

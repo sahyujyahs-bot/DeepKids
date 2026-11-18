@@ -3253,7 +3253,9 @@
    {
     "source": "Udana 6.4 (Tittha Sutta)",
     "teaching": "A group of blind men each touched a different part of an elephant. Each described the elephant as something different, such as a pillar, a rope or a fan. Each was sure he knew the elephant, and they began to quarrel.",
-    "link": "Each drop of the spinner is like one touch. It gives a true part of the picture, and no more. Many drops together give the shape of the whole."
+    "link": "Each drop of the spinner is like one touch. It gives a true part of the picture, and no more. Many drops together give the shape of the whole.",
+    "verse": ["ediso dhammo, nediso dhammo;", "nediso dhammo, ediso dhammo.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    },
    {
     "source": "Bhagavad Gita 2.48",
@@ -3265,7 +3267,9 @@
    {
     "source": "Analects of Confucius 2.17",
     "teaching": "Confucius told his student what knowing means: when you know something, say that you know it, and when you do not know something, admit that you do not know it.",
-    "link": "A conclusion that says only what the results show follows this teaching. 'We cannot tell yet' is also knowledge."
+    "link": "A conclusion that says only what the results show follows this teaching. 'We cannot tell yet' is also knowledge.",
+    "verse": ["由，誨女知之乎！知之爲知之，不知爲不知，是知也。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

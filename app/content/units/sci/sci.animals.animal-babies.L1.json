@@ -1839,12 +1839,16 @@
    {
     "source": "Tao Te Ching 51",
     "teaching": "The Tao gives birth to all things and raises them, but does not hold on to them as its own.",
-    "link": "The Tao is the name ancient Chinese thinkers gave to the way nature works. In the same way, pigeon parents feed their chicks for about four weeks. Then the young pigeons fly off and live their own lives."
+    "link": "The Tao is the name ancient Chinese thinkers gave to the way nature works. In the same way, pigeon parents feed their chicks for about four weeks. Then the young pigeons fly off and live their own lives.",
+    "verse": ["道生之，德畜之。長之育之，亭之毒之，蓋之覆之。", "生而不有，為而不恃，長而不宰。是謂玄德。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains.",
-    "link": "In the same way, a mother cat who has four kittens is still a whole cat. Each kitten is a whole new cat of their own."
+    "link": "In the same way, a mother cat who has four kittens is still a whole cat. Each kitten is a whole new cat of their own.",
+    "verse": ["ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते", "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

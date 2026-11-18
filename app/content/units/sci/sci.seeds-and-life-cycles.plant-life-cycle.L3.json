@@ -4171,7 +4171,9 @@
    {
     "source": "Katha Upanishad 1.1.6",
     "teaching": "The boy Nachiketa says to his father: look at those who came before us, and those who are here now. Like grain, a person ripens and falls. Like grain, a person is born again.",
-    "link": "Long ago, teachers in India looked at grain in the field and saw a circle: ripening, falling and sprouting again. You can watch the same circle in a pot of moong."
+    "link": "Long ago, teachers in India looked at grain in the field and saw a circle: ripening, falling and sprouting again. You can watch the same circle in a pot of moong.",
+    "verse": ["अनुपश्य यथा पूर्वे प्रतिपश्य तथाऽपरे", "सस्यमिव मर्त्यः पच्यते सस्यमिवाजायते पुनः"],
+    "verse_lang": "sa"
    },
    {
     "source": "Gospel of Matthew 13:3-8, the parable of the sower",
@@ -4181,7 +4183,9 @@
    {
     "source": "Ecclesiastes 3:1-2, in the Hebrew Bible",
     "teaching": "For everything there is a season. There is a time to be born and a time to die, a time to plant and a time to pull up what is planted.",
-    "link": "Plants keep to their seasons. Many flower only when the nights are the right length, and annuals die once their seeds are ready."
+    "link": "Plants keep to their seasons. Many flower only when the nights are the right length, and annuals die once their seeds are ready.",
+    "verse": ["לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם", "עֵת לָלֶדֶת וְעֵת לָמוּת", "עֵת לָטַעַת וְעֵת לַעֲקוֹר נָטוּעַ"],
+    "verse_lang": "he"
    }
   ],
   "science": [

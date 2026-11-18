@@ -2053,7 +2053,9 @@
    {
     "source": "Taittiriya Upanishad 3.2",
     "teaching": "Bhrigu asked his father Varuna what the world comes from. After thinking hard, he understood: from food, living beings are born, by food they live.",
-    "link": "Your body heat is made from food. Without food, a body has nothing to make warmth from."
+    "link": "Your body heat is made from food. Without food, a body has nothing to make warmth from.",
+    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Bhagavad Gita 15.14",

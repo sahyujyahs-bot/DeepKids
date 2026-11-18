@@ -3543,12 +3543,16 @@
    {
     "source": "Heraclitus, fragment 30 (Diels-Kranz numbering)",
     "teaching": "The Greek thinker Heraclitus, about 2,500 years ago, said the world is an ever-living fire, always being lit and going out in measures, yet keeping its pattern.",
-    "link": "A flame keeps its shape while new wax and air pass through it. Your body keeps its shape while food and air pass through it, and its warmth comes from the same kind of change as a flame's."
+    "link": "A flame keeps its shape while new wax and air pass through it. Your body keeps its shape while food and air pass through it, and its warmth comes from the same kind of change as a flame's.",
+    "verse": ["κόσμον τόνδε, τὸν αὐτὸν ἁπάντων, οὔτε τις θεῶν οὔτε ἀνθρώπων ἐποίησεν,", "ἀλλ’ ἦν ἀεὶ καὶ ἔστιν καὶ ἔσται πῦρ ἀείζωον", "ἁπτόμενον μέτρα καὶ ἀποσβεννύμενον μέτρα"],
+    "verse_lang": "grc"
    },
    {
     "source": "Rig Veda 10.129, the Nasadiya Sukta",
     "teaching": "The hymn of creation asks how everything began, and ends with an honest question: perhaps even the one who watches from the highest heaven does not know.",
-    "link": "Scientists still do not know how the first life came from non-living chemicals. Saying 'we do not know' is part of being honest."
+    "link": "Scientists still do not know how the first life came from non-living chemicals. Saying 'we do not know' is part of being honest.",
+    "verse": ["इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न।", "यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

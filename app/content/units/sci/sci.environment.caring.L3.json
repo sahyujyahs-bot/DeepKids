@@ -3038,7 +3038,9 @@
    {
     "source": "Atharva Veda 12.1.12, the hymn to the Earth (Bhumi Sukta)",
     "teaching": "The Earth is my mother, and I am her child.",
-    "link": "Your body is built from the Earth's water, air and food. What you take from the Earth and what you give back both stay on the Earth, as things stay within a family."
+    "link": "Your body is built from the Earth's water, air and food. What you take from the Earth and what you give back both stay on the Earth, as things stay within a family.",
+    "verse": ["यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।", "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"],
+    "verse_lang": "sa"
    },
    {
     "source": "Thirukkural 211, by Thiruvalluvar",
@@ -3050,7 +3052,9 @@
    {
     "source": "Isha Upanishad, verse 1",
     "teaching": "All this, whatever moves in this world, is filled by the Lord. Enjoy it by giving up. Do not covet anyone's wealth.",
-    "link": "Water and air belong to no one person. Each of us uses them for a while, and then they pass on to others."
+    "link": "Water and air belong to no one person. Each of us uses them for a while, and then they pass on to others.",
+    "verse": ["ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्", "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

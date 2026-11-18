@@ -3524,7 +3524,9 @@
    {
     "source": "Charaka Samhita, Vimana Sthana, chapter 1, the rules for eating",
     "teaching": "Eat food while it is warm, in the right amount, and only after the last meal is digested.",
-    "link": "Food that is still warm from the fire has had no time in the danger zone. Charaka gave the rule for good digestion. The link to microbes is ours."
+    "link": "Food that is still warm from the fire has had no time in the danger zone. Charaka gave the rule for good digestion. The link to microbes is ours.",
+    "verse": ["उष्णं स्निग्धं मात्रावत् जीर्णे वीर्याविरुद्धम्"],
+    "verse_lang": "sa"
    }
   ],
   "science": [

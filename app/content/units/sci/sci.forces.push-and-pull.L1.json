@@ -1931,12 +1931,16 @@
    {
     "source": "Tao Te Ching 2",
     "teaching": "Long and short shape each other. High and low lean on each other. Front and back follow each other.",
-    "link": "Push and pull are a pair like front and back. The same force on the same door is called a push from one side and a pull from the other."
+    "link": "Push and pull are a pair like front and back. The same force on the same door is called a push from one side and a pull from the other.",
+    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Udana 6.4 (a Buddhist text)",
     "teaching": "Some people who could not see touched an elephant, each at a different part. The one who felt the head said an elephant is like a pot. The one who felt the ear said it is like a winnowing basket. The one who felt a leg said it is like a post. Each told the truth about their own part.",
-    "link": "A child inside the room says 'I pushed the door'. A friend outside says 'I pulled it'. Each is right about the same door, from where they stand."
+    "link": "A child inside the room says 'I pushed the door'. A friend outside says 'I pulled it'. Each is right about the same door, from where they stand.",
+    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

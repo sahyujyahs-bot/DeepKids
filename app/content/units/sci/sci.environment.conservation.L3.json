@@ -2740,7 +2740,9 @@
    {
     "source": "Isha Upanishad, verse 1",
     "teaching": "All this world is filled by the One. Enjoy it by letting go. Do not grab what belongs to others.",
-    "link": "A cow that eats only the top of the grass leaves the growing part behind, so the field lasts. Enjoying what the world gives, while leaving what it needs to keep giving, is a way of letting go."
+    "link": "A cow that eats only the top of the grass leaves the growing part behind, so the field lasts. Enjoying what the world gives, while leaving what it needs to keep giving, is a way of letting go.",
+    "verse": ["ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्", "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tirukkural, verse 20 (chapter on rain)",

@@ -444,12 +444,16 @@
       {
         "source": "Chandogya Upanishad 6.12",
         "teaching": "A father, Uddalaka, asks his son Shvetaketu to break open a fruit of the banyan tree, and then to break open one of its tiny seeds. 'What do you see?' 'Nothing, sir.' The father says that from this unseen essence, a great banyan tree grows.",
-        "link": "A fertilised egg is too small to see, and nothing inside it looks like a body. Yet it holds the instructions for a whole person. In the same way, a banyan seed is tiny and shows no sign of a tree, yet it holds everything the tree will grow into."
+        "link": "A fertilised egg is too small to see, and nothing inside it looks like a body. Yet it holds the instructions for a whole person. In the same way, a banyan seed is tiny and shows no sign of a tree, yet it holds everything the tree will grow into.",
+        "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+        "verse_lang": "sa"
       },
       {
         "source": "Tao Te Ching 42",
         "teaching": "'The Tao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things.'",
-        "link": "One cell makes two, then four, then trillions. From a single start come hundreds of kinds of cell, and a whole body."
+        "link": "One cell makes two, then four, then trillions. From a single start come hundreds of kinds of cell, and a whole body.",
+        "verse": ["道生一，一生二，二生三，三生萬物。"],
+        "verse_lang": "zh"
       },
       {
         "source": "Fazang's Treatise on the Golden Lion (about 700 CE), using the Hua-yen image of Indra's net",

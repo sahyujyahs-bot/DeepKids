@@ -465,7 +465,9 @@
    {
     "source": "Anguttara Nikaya 6.55, the Sona Sutta (the Buddha's talk with the monk Sona)",
     "teaching": "Sona had been a veena player. The Buddha asked him about his strings. When they were too tight, the veena could not be played well. When they were too loose, it could not be played well either. It played well when the strings were tuned to the right pitch between the two. The Buddha told Sona to tune his own effort in the same way.",
-    "link": "The talk rests on the science of this unit: the tension of a string sets its pitch. The Buddha used a fact that every player knew to say something about effort. The fact about strings can be tested. The advice about effort is a teaching."
+    "link": "The talk rests on the science of this unit: the tension of a string sets its pitch. The Buddha used a fact that every player knew to say something about effort. The fact about strings can be tested. The advice about effort is a teaching.",
+    "verse": ["Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Evamevaṁ kho, soṇa, accāraddhavīriyaṁ uddhaccāya saṁvattati, atisithilavīriyaṁ kosajjāya saṁvattati."],
+    "verse_lang": "pi"
    },
    {
     "source": "Bharata, Natya Shastra, chapter 28 (India, perhaps 2,000 years ago; its date is not certain)",
@@ -475,7 +477,9 @@
    {
     "source": "Aristotle, Metaphysics, Book 1, chapter 5, on the followers of Pythagoras (Greece, about 2,350 years ago)",
     "teaching": "Aristotle reports that the followers of Pythagoras found the notes of a scale could be written as numbers. From this they came to think that numbers were the makings of all things. They thought the whole sky was a scale.",
-    "link": "Pitch really can be written as a number, the frequency, and you measured it in hertz. The step from 'notes are numbers' to 'everything is number' was a bold guess, and Aristotle himself doubted it. Physics still writes the world in numbers, and nobody is sure why that works so well."
+    "link": "Pitch really can be written as a number, the frequency, and you measured it in hertz. The step from 'notes are numbers' to 'everything is number' was a bold guess, and Aristotle himself doubted it. Physics still writes the world in numbers, and nobody is sure why that works so well.",
+    "verse": ["ἔτι δὲ τῶν ἁρμονιῶν ἐν ἀριθμοῖς ὁρῶντες τὰ πάθη καὶ τοὺς λόγους", "τὰ τῶν ἀριθμῶν στοιχεῖα τῶν ὄντων στοιχεῖα πάντων ὑπέλαβον εἶναι, καὶ τὸν ὅλον οὐρανὸν ἁρμονίαν εἶναι καὶ ἀριθμόν"],
+    "verse_lang": "grc"
    }
   ],
   "science": [

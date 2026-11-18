@@ -432,12 +432,16 @@
    {
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet in the hub of a wheel, but it is the empty space in the middle that makes the wheel useful. Clay is shaped into a pot, but it is the hollow that makes the pot useful.",
-    "link": "A wheel touches the road at only one small spot, and the hollow space between its spokes is part of what makes it work. In the same way, a grip is made at only a few tiny spots, with empty gaps in between."
+    "link": "A wheel touches the road at only one small spot, and the hollow space between its spokes is part of what makes it work. In the same way, a grip is made at only a few tiny spots, with empty gaps in between.",
+    "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Udana 6.4, the blind men and the elephant",
     "teaching": "In this old Buddhist story, blind men each feel one part of an elephant. One feels the leg and says it is a pillar. One feels the tail and says it is a rope. Each is right about the part and wrong about the whole.",
-    "link": "Friction is a bit like the elephant, because people meet different parts of it. It is the grip that saves a boat, and it is the burn on a hand. It slows a cyclist down, and it is also the reason the brakes work. Each of these is true about one side of friction, but none of them is the whole of it."
+    "link": "Friction is a bit like the elephant, because people meet different parts of it. It is the grip that saves a boat, and it is the burn on a hand. It slows a cyclist down, and it is also the reason the brakes work. Each of these is true about one side of friction, but none of them is the whole of it.",
+    "verse": ["ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

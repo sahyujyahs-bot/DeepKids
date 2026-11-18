@@ -3030,12 +3030,16 @@
    {
     "source": "Chandogya Upanishad 6.13",
     "teaching": "Uddalaka asks his son Shvetaketu to put salt in water and bring it in the morning. The boy cannot see the salt, but the water is salty at the top, in the middle and at the bottom.",
-    "link": "You cannot see a magnet's field, yet a compass finds it at every spot around the magnet."
+    "link": "You cannot see a magnet's field, yet a compass finds it at every spot around the magnet.",
+    "verse": ["लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति", "तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति", "तद्धावमृश्य न विवेद", "मध्यादाचामेति । कथमिति । लवणमिति", "तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति"],
+    "verse_lang": "sa"
    },
    {
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes share one hub, but it is the empty space at the centre that makes the wheel useful. Clay is shaped into a pot, but it is the emptiness inside that makes the pot useful.",
-    "link": "The space around a magnet looks empty, but that is where the field is, and where a clip or a compass feels the pull."
+    "link": "The space around a magnet looks empty, but that is where the field is, and where a clip or a compass feels the pull.",
+    "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。"],
+    "verse_lang": "zh"
    }
   ],
   "science": [

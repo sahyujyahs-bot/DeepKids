@@ -1723,12 +1723,16 @@
    {
     "source": "Tao Te Ching 2",
     "teaching": "Long and short shape each other. High and low lean on each other. Front and back follow each other.",
-    "link": "Left and right go together in the same way. A left half is a half only because a right half goes with it. Together they make one butterfly."
+    "link": "Left and right go together in the same way. A left half is a half only because a right half goes with it. Together they make one butterfly.",
+    "verse": ["故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Udana 6.4, the story of the blind men and the elephant (Jain teachers tell the story too)",
     "teaching": "Some men who could not see each touched one part of an elephant. The one who felt her head said an elephant is like a pot. The one who felt her ear said a winnowing basket. The one who felt her leg said a post. Each knew only a part, and they argued.",
-    "link": "An elephant's trunk cannot tell you about her tail, because her front and back are different. But a butterfly's left side really does tell you her right side, because the two halves match. Even then, the outside cannot tell you what is inside. Your heart, for example, sits a little to the left."
+    "link": "An elephant's trunk cannot tell you about her tail, because her front and back are different. But a butterfly's left side really does tell you her right side, because the two halves match. Even then, the outside cannot tell you what is inside. Your heart, for example, sits a little to the left.",
+    "verse": ["ediso, deva, hatthī seyyathāpi kumbho.", "ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

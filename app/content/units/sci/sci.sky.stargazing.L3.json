@@ -2733,12 +2733,16 @@
    {
     "source": "Rig Veda 1.164.46",
     "teaching": "Truth is one, and the wise call it by many names.",
-    "link": "The same seven stars are called the Saptarishi, the Plough, the Great Bear and a bear with hunters. There is one set of stars and many names and stories for it."
+    "link": "The same seven stars are called the Saptarishi, the Plough, the Great Bear and a bear with hunters. There is one set of stars and many names and stories for it.",
+    "verse": ["इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् ।", "एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः"],
+    "verse_lang": "sa"
    },
    {
     "source": "The parable of the blind men and the elephant, told in Jain teaching on anekantavada (many-sidedness) and in the Buddhist Udana 6.4",
     "teaching": "Each blind man touches one part of an elephant, a leg, the trunk or an ear, and is sure the elephant is like a pillar, a snake or a fan. Each is partly right, and none sees the whole animal.",
-    "link": "In the Thread Saptarishi model, the paper stars made a ladle from the Earth card. From the side they made a scattered group. Each view was true from its place, and you needed both to understand the stars."
+    "link": "In the Thread Saptarishi model, the paper stars made a ladle from the Earth card. From the side they made a scattered group. Each view was true from its place, and you needed both to understand the stars.",
+    "verse": ["ediso, deva, hatthī seyyathāpi suppo.", "ediso, deva, hatthī seyyathāpi thūṇo."],
+    "verse_lang": "pi"
    }
   ],
   "science": [

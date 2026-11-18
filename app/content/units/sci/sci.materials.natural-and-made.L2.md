@@ -102,7 +102,7 @@ We have learnt that glass, paper and plastic are made from natural materials. No
 
 Sand, a glass bangle and sea glass are mostly the same material in different arrangements. Heat joins the grains into one piece, and waves scratch the piece apart into grains again. Everything is conscious, down to the particles in a grain of sand. The sand is not lost when it becomes a bangle. Only its arrangement changes.
 
-- **Chandogya Upanishad 6.1.4:** By knowing one lump of clay, you know everything made of clay. The pot and the lamp are only names and shapes. What is real is the clay. (A glass bottle, a window and a bangle have different names and shapes. Underneath, all three are glass, made mainly from sand.)
+- **Chandogya Upanishad 6.1.4:** “यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात् / वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्” By knowing one lump of clay, you know everything made of clay. The pot and the lamp are only names and shapes. What is real is the clay. (A glass bottle, a window and a bangle have different names and shapes. Underneath, all three are glass, made mainly from sand.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988):** Look deeply at a sheet of paper, and you can see the cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. (Paper is made from a tree, and the tree grew from rain, soil and sunlight. A made material carries all of those natural things inside it.)
 - Science (settled): Glass is a solid whose tiny particles are jumbled, not in neat rows. With no grain edges inside, light passes straight through.
 - Science (open): Physicists still argue about exactly what happens when a melted liquid sets into glass.

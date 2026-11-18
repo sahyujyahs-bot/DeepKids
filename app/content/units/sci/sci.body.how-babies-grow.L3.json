@@ -3373,7 +3373,9 @@
       {
         "source": "Chandogya Upanishad 6.12",
         "teaching": "Uddalaka asks his son Shvetaketu to split a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that tiny thing you cannot see, this huge banyan tree grows.'",
-        "link": "You began as one cell, too small to see. Everything you are now grew out of that one cell."
+        "link": "You began as one cell, too small to see. Everything you are now grew out of that one cell.",
+        "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+        "verse_lang": "sa"
       },
       {
         "source": "Thich Nhat Hanh, the idea of 'interbeing'",

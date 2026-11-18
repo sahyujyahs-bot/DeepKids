@@ -2787,7 +2787,9 @@
    {
     "source": "Tao Te Ching, chapter 63",
     "teaching": "Deal with a hard thing while it is still easy. Handle a great thing while it is still small.",
-    "link": "Sorting one peel at the bin takes a second. Sorting a mountain of mixed waste takes years, and may never be done."
+    "link": "Sorting one peel at the bin takes a second. Sorting a mountain of mixed waste takes years, and may never be done.",
+    "verse": ["圖難於其易，為大於其細。", "天下難事必作於易，天下大事必作於細。"],
+    "verse_lang": "zh"
    },
    {
     "source": "Tirukkural, verse 298",

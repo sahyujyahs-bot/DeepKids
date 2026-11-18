@@ -2016,7 +2016,9 @@
    {
     "source": "Taittiriya Upanishad 3.2",
     "teaching": "The young seeker Bhrigu came to understand that food is Brahman, the one reality. From food all beings are born. By food they live. Into food they return.",
-    "link": "Every food in the Ant Lunch test came from a living being: a banana plant, a rice plant and a mosquito. The ants grew from what they ate."
+    "link": "Every food in the Ant Lunch test came from a living being: a banana plant, a rice plant and a mosquito. The ants grew from what they ate.",
+    "verse": ["अन्नं ब्रह्मेति व्यजानात्", "अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते", "अन्नेन जातानि जीवन्ति", "अन्नं प्रयन्त्यभिसंविशन्तीति"],
+    "verse_lang": "sa"
    }
   ],
   "science": [
