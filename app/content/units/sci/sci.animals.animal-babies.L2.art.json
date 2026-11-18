@@ -3,6 +3,10 @@
   "src": "media/img/sci.animals.animal-babies.L2/expl.0.jpg",
   "drawn": true
  },
+ "expl.2": {
+  "src": "media/img/sci.animals.animal-babies.L2/expl.2.jpg",
+  "credit": "Koshy Koshy, CC BY 2.0, via Wikimedia Commons"
+ },
  "expl.3": {
   "src": "media/img/sci.animals.animal-babies.L2/expl.3.jpg",
   "drawn": true
@@ -37,6 +41,10 @@
  },
  "flow.g1": {
   "src": "media/img/sci.animals.animal-babies.L2/flow.g1.jpg",
+  "drawn": true
+ },
+ "flow.g2": {
+  "src": "media/img/sci.animals.animal-babies.L2/flow.g2.jpg",
   "drawn": true
  },
  "flow.p1": {
