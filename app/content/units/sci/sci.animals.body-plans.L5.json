@@ -143,7 +143,7 @@
    "concept": "A body plan is set early, in the embryo",
    "status": "defined",
    "definition": "A body plan is the basic layout of an animal's body. Its main features are set while the animal is still an embryo, a very young animal who is just starting to form.",
-   "description": "You can see some of a body plan from outside: a ring or two matching sides, segments or none. Scientists also ask five questions about the inside. How many layers of cells does the embryo have? Does the gut have one opening or two? Is there a liquid-filled space round the gut? Where does the main nerve cord run? Where are the hard parts? Why do these features matter more than colour or size? Because they are decided in the first days of an embryo's life, and everything later is built on them. A change at such an early step would upset every later step. The usual explanation is that this is why body plans have stayed almost the same for hundreds of millions of years, while colour, size and shape have changed many times.",
+   "description": "You can see some of a body plan from outside: a ring or two matching sides, segments or none. Scientists also ask five questions about the inside. How many layers of cells does the embryo have? Does the gut have one opening or two? Is there a liquid-filled space round the gut? Where does the main nerve cord run? Where are the hard parts? Why do these features matter more than colour or size? Because they are decided very early in an embryo's life, and everything later is built on them. A change at such an early step would upset every later step. The usual explanation is that this is why body plans have stayed almost the same for hundreds of millions of years, while colour, size and shape have changed many times.",
    "examples": [
     "A mouse and a blue whale differ hugely in size, but both embryos lay down a backbone, a skull and four limb buds in the same order.",
     "An ant and a crab look different, but both are built in segments with a hard outer skeleton and jointed legs.",
@@ -169,7 +169,7 @@
    "concept": "One gut opening or two: the sac and the tube",
    "status": "defined",
    "definition": "A sac gut has one opening, which takes food in and lets waste out. A tube gut has two openings: a mouth where food enters and an anus where waste leaves.",
-   "description": "A sea anemone, a jellyfish and a flatworm each have a gut shaped like a bag. Food goes in through the mouth. What is left over comes back out through the same mouth. An earthworm, a snail, an ant, a starfish and you have a gut shaped like a tube. Food travels one way. Why does this matter? In a tube, the animal can eat again while the last meal is still being digested. Also, every bite passes the same places in the same order. So each part of the tube can do one job well: grinding at the front, breaking food down in the middle, taking in water near the end. You test this with a sock and a paper tube in the experiment Sac or Tube. A sac is not a worse gut. Sea anemones have lived well with one for more than 500 million years. A sac suits an animal who waits for a big meal and then rests.",
+   "description": "A sea anemone, a jellyfish and a flatworm each have a gut shaped like a bag. Food goes in through the mouth. What is left over comes back out through the same mouth. An earthworm, a snail, an ant, a starfish and you have a gut shaped like a tube. Food travels one way. Why does this matter? In a tube, the animal can eat again while the last meal is still being digested. Also, every bite passes the same places in the same order. So each part of the tube can do one job well: grinding at the front, breaking food down in the middle, taking in water near the end. You test this with a sock and a paper tube in the experiment Sac or Tube. A sac is not a worse gut. Sea anemones and their relatives have lived well with one for more than 500 million years. A sac suits an animal who waits for a big meal and then rests.",
    "examples": [
     "A sea anemone who has eaten a small fish pushes the bones back out through her mouth.",
     "Your own gut has a mouth to grind, a stomach to churn and a long intestine to take food into the blood, in that order.",
@@ -182,7 +182,7 @@
    "concept": "The body cavity: a tube inside a tube",
    "status": "defined",
    "definition": "A body cavity is a liquid-filled space between the gut and the body wall. Its scientific name is coelom.",
-   "description": "Think of an earthworm as two tubes, one inside the other. The inner tube is the gut. The outer tube is the body wall, with its skin and muscles. Between them is a space filled with liquid. Why is the space useful? First, the gut can squeeze food along without the whole body having to move. Second, organs such as the heart have room to grow and to move. Third, the liquid cushions the organs from knocks. In a worm, the liquid also keeps the body firm, so that the muscles have something to push against. Your body has such spaces too. Your heart beats and your intestines churn all day, and your skin stays still, because they hang in liquid-lined cavities. A flatworm has no body cavity. The space between her gut and her skin is packed with cells. That is one reason flatworms stay thin and flat.",
+   "description": "Think of an earthworm as two tubes, one inside the other. The inner tube is the gut. The outer tube is the body wall, with its skin and muscles. Between them is a space filled with liquid. Why is the space useful? First, the gut can squeeze food along without the whole body having to move. Second, organs such as the heart have room to grow and to move. Third, the liquid cushions the organs from knocks. In a worm, the liquid also keeps the body firm, so that the muscles have something to push against. Your body has such spaces too. Your heart beats and your intestines churn all day, and your skin stays still, because they hang in liquid-lined cavities. A flatworm has no body cavity. The space between her gut and her skin is packed with cells. She also has no blood system, so every cell has to lie near the surface to get oxygen. That is why flatworms are thin and flat.",
    "examples": [
     "After a meal your intestines squeeze and slide about, and you see nothing from outside.",
     "When a cook cleans a fish, the gut lifts out easily, because it lies loose in the body cavity.",
@@ -286,7 +286,7 @@
    "concept": "Embryos show what adults hide",
    "status": "defined",
    "definition": "Comparative embryology is the comparing of embryos. Young embryos of related animals look much more alike than the adults do.",
-   "description": "A young fish embryo, a young chick embryo and a young human embryo are hard to tell apart. Each has a row of folds in the throat and a tail. As they grow, they become more and more different. Why are embryos useful to someone who compares bodies? Because they show parts that the adult has lost or changed past recognising. A starfish embryo shows two matching sides. A barnacle's young shows jointed legs. A human embryo shows a tail. In 1866 Ernst Haeckel went further. He said that an embryo replays the adult forms of the animal's ancestors, one after another, so a human embryo passes through a 'fish stage'. That turned out to be wrong, and his drawings made embryos look more alike than they are. A human embryo never has gills and is never a fish. What is true is simpler. Embryos of relatives resemble each other, because they are built by inherited steps, and the earliest steps are changed the least.",
+   "description": "A young fish embryo, a young chick embryo and a young human embryo look much more alike than the adults do. Each has a row of folds in the throat and a tail. As they grow, they become more and more different. Why are embryos useful to someone who compares bodies? Because they show parts that the adult has lost or changed past recognising. A starfish embryo shows two matching sides. A barnacle's young shows jointed legs. A human embryo shows a tail. In 1866 Ernst Haeckel went further. He said that an embryo replays the adult forms of the animal's ancestors, one after another, so a human embryo passes through a 'fish stage'. That turned out to be wrong, and his drawings made embryos look more alike than they are. A human embryo never has gills and is never a fish. What is true is simpler. Embryos of relatives resemble each other, because they are built by inherited steps, and the earliest steps are changed the least.",
    "examples": [
     "The folds in a human embryo's throat never open into gill slits. They become parts of the jaw, ear and throat.",
     "A dolphin embryo grows small hind limb buds, which then shrink away.",
@@ -359,7 +359,7 @@
   {
    "concept": "What counts as 'the same part'? Nobody has a complete answer",
    "status": "idea",
-   "description": "Comparative anatomy rests on one idea: two parts are the same part if they were inherited from one ancestor. Owen's three checks work well for bones. But the genes have brought puzzles. Sometimes two parts that are clearly the same, such as the gut of a frog and the gut of a fly, are built by partly different genes. Sometimes one gene, such as Pax6, helps to build parts that arose separately. So is 'sameness' in the bones, in the genes, or in how the embryo builds the part? Scientists and philosophers still argue about this. Most use all three kinds of evidence together and say plainly where they disagree.",
+   "description": "Comparative anatomy rests on one idea: two parts are the same part if they were inherited from one ancestor. Owen's three checks work well for bones. But the genes have brought puzzles. Sometimes two parts that are clearly the same part in two animals turn out to be built by partly different genes. Sometimes one gene, such as Pax6, helps to build parts that arose separately. So is 'sameness' in the bones, in the genes, or in how the embryo builds the part? Scientists and philosophers still argue about this. Most use all three kinds of evidence together and say plainly where they disagree.",
    "examples": [
     "Insect wings may have grown from old leg parts, from the body wall, or from both. The evidence is still argued over.",
     "The earliest four-limbed animals had more than five fingers. Acanthostega, who lived about 365 million years ago, had eight on each hand.",
@@ -879,7 +879,7 @@
       "t": "mcq",
       "q": "Why does a second person look at each wrist without being told the first answer?",
       "options": [
-       "So one person's mistake does not decide the result",
+       "So one person's mistake cannot settle the result",
        "So the survey goes faster",
        "Because the cord moves between looks"
       ],
@@ -1405,7 +1405,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Before touching the leg, ask your child to guess its bones from top to bottom, and how many are in the big toe. Write the guess. Then they feel the thigh, the shin, the ankle and the toes, and count.",
+     "do": "Do not touch the leg yet. Ask your child to guess the leg bones from top to bottom. Ask how many bones are in the big toe. Write the guess. Then they feel the thigh, the shin, the ankle and the toes, and count.",
      "say": "Now guess your leg, from the top down. How many bones in the thigh? Below the knee? In your big toe? Why do you think so? Now feel and count.",
      "kid": "Guess the bones of your leg and your big toe. Say why. Then feel and count.",
      "context": "In this step of Your Leg Is a Second Arm you guess the bones of your leg and foot, then check.",
@@ -1881,7 +1881,7 @@
      "t": "mcq",
      "p": "In a wrist survey, why are the left and right wrists written down separately?",
      "opts": [
-      "The cord can be missing on one side only",
+      "The cord can be missing on one side",
       "Left wrists are always weaker",
       "To make the table longer"
      ],
@@ -2100,8 +2100,8 @@
     },
     {
      "t": "count",
-     "p": "A tube gut holds 5 balls. One ball is pushed in every 2 counts. How many counts does each ball spend inside?",
-     "a": "10",
+     "p": "A tube gut holds 5 balls. One ball goes in every 2 counts. How long does each ball stay inside?",
+     "a": "10 counts",
      "why": "A ball leaves when five more pushes have happened. 5 pushes of 2 counts each make 10 counts.",
      "outcome": 0,
      "how": "e2"
@@ -2123,7 +2123,7 @@
     },
     {
      "t": "write",
-     "p": "A family tests ten wrists and all ten show the cord. Explain why this does not prove that all people have it.",
+     "p": "Ten wrists are tested and all ten show the cord. Explain why this does not prove everyone has one.",
      "lines": 3,
      "a": "The cord is missing in only a small share of hands, so a group of ten can easily have none by chance. Many more people would have to be tested.",
      "why": "A strong answer says that a small group can miss something uncommon, and that a bigger survey is needed.",
@@ -2165,7 +2165,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In a giraffe, one nerve to the voice box loops down to the chest and back. What does this route show?",
+     "p": "A giraffe's voice-box nerve loops down to the chest and back up. What does this route show?",
      "opts": [
       "The body is an older body, altered",
       "Giraffes need very long nerves",
@@ -2396,7 +2396,7 @@
    "t": "mcq",
    "p": "A whale's flipper and a shark's fin look alike. Are they homologous parts?",
    "opts": [
-    "No. They do the same job with different parts",
+    "No. Same job, different parts",
     "Yes. Both are fins",
     "Yes. Both animals live in the sea"
    ],
@@ -2408,24 +2408,24 @@
    "t": "mcq",
    "p": "Which is the best evidence that two animals are close relatives?",
    "opts": [
-    "Many matching inside parts that their way of life does not explain",
+    "Many matching parts inside the body",
     "The same body shape",
     "Living in the same place"
    ],
    "a": 0,
-   "why": "Shape and home can be shared by animals who simply live alike. Detailed inside features that the way of life does not need are best explained by shared ancestors.",
+   "why": "Shape and home can be shared by animals who simply live alike. Many detailed inside features that the way of life does not need are best explained by shared ancestors.",
    "outcome": 3
   },
   {
    "t": "mcq",
    "p": "Why do some healthy people have no palmaris longus muscle in the forearm?",
    "opts": [
-    "A part that has lost its main job is not always built",
+    "The muscle has lost its main job",
     "They did not exercise enough",
     "They were hurt as babies"
    ],
    "a": 0,
-   "why": "The muscle did more in ancestors who climbed. In humans it does very little, and some people are born with none. Exercise and injury do not decide whether a muscle is built.",
+   "why": "The muscle did more in ancestors who climbed. In humans it does very little. A part like that is not always built, and some people are born with none. Exercise and injury have nothing to do with whether a muscle is built.",
    "outcome": 4
   },
   {
@@ -2452,12 +2452,12 @@
    "t": "mcq",
    "p": "What do very young embryos of a fish, a chick and a human show?",
    "opts": [
-    "They look much alike, with throat folds and a tail",
+    "They look much alike",
     "Each is a tiny copy of the adult",
     "The human one has working gills"
    ],
    "a": 0,
-   "why": "Embryos of relatives are built by inherited steps, and the earliest steps differ least. A human embryo never has gills.",
+   "why": "All three have throat folds and a tail. Embryos of relatives are built by inherited steps, and the earliest steps differ least. A human embryo never has gills.",
    "outcome": 6
   },
   {
@@ -2476,7 +2476,7 @@
    "t": "mcq",
    "p": "Why can each part of a tube gut do one job well?",
    "opts": [
-    "Every bite passes the parts in the same order",
+    "Food passes the parts in one order",
     "The tube is always full",
     "Food moves both ways along it"
    ],
@@ -2516,7 +2516,7 @@
   }
  ],
  "applications": [
-  "Surgeons repair a damaged tendon in the hand or the elbow with the palmaris longus tendon from the same person's wrist, because the hand works without it.",
+  "Surgeons repair a damaged tendon in the hand or the wrist with the palmaris longus tendon from the same person's forearm, because the hand works without it.",
   "Medicines are tested on mice and other animals because their organs are homologous to human organs. The same reasoning warns that a mouse is not a small human.",
   "Scientists who find a single fossil bone can often tell what kind of animal it came from, by comparing it with the bones of living animals.",
   "Wildlife officers identify bones, teeth and scales seized from smugglers by comparing them with known skeletons, to find out which protected animal was killed.",
@@ -2691,8 +2691,8 @@
    "why_maths": "Adding the bones up shows how much of a skeleton is made of one repeated pattern, used four times."
   },
   {
-   "problem": "About 1,500,000 kinds of animals have been named. About 1,257,000 of them are arthropods. Roughly what fraction is that? If you picked a named kind of animal without looking, would it more likely be an arthropod or a chordate?",
-   "answer": "About four fifths. It would much more likely be an arthropod.",
+   "problem": "About 1,500,000 kinds of animals have been named. About 1,257,000 of them are arthropods. Roughly what fraction is that? If you picked one named kind without looking, would you more likely pick an arthropod or a chordate?",
+   "answer": "About four fifths. You would much more likely pick an arthropod.",
    "explain": "1,257,000 is close to 1,200,000. 1,200,000 out of 1,500,000 is the same as 12 out of 15, which is 4 out of 5. Chordates are only about 70,000 kinds, which is less than 1 in 20.",
    "math_unit": "math.number-sense.big-numbers.L5",
    "context": "In Nested Boxes you sort one animal from each of the nine biggest groups. The groups are very unequal in size.",
@@ -2919,7 +2919,7 @@
  },
  "how_we_found_out": {
   "context": "This is the true story of how people found out who the whale's relatives are. It took more than three hundred years, and the last clue came from rocks in Kashmir.",
-  "story": "For a very long time people counted whales as fish, because whales live in the sea and have fins. In 1680 the English doctor Edward Tyson cut open a porpoise in London. He found a folded brain like the brains of four-legged land animals, and he placed the porpoise with them. In 1758 Carl Linnaeus moved whales into the mammals. But which mammals were their relatives? Early whale fossils had teeth like those of an extinct group of wolf-like, hoofed meat-eaters. So in 1966 Leigh Van Valen proposed that group as the ancestors. Later, DNA studies disagreed. They put whales next to hippos, among the even-toed hoofed animals such as cows and deer. In 2001 two teams found early whales with legs in Pakistan. Their ankle bones had a double-pulley shape that only even-toed hoofed animals have. In 2007 Hans Thewissen and Sunil Bajpai's team described Indohyus, a fox-sized animal from Kashmir, with a thick ear bone otherwise known only from whales. The Indian geologist A. Ranga Rao had collected those rocks years before, and his widow gave them to the scientists.",
+  "story": "For a very long time people counted whales as fish, because whales live in the sea and have fins. In 1680 the English doctor Edward Tyson cut open a porpoise in London. He found a folded brain like the brains of four-legged land animals, and he placed the porpoise with them. In 1758 Carl Linnaeus moved whales into the mammals. But which mammals were their relatives? Early whale fossils had teeth like those of an extinct group of wolf-like, hoofed meat-eaters. So in 1966 Leigh Van Valen proposed that group as the ancestors. Later, DNA studies disagreed. They put whales next to hippos, among the even-toed hoofed animals such as cows and deer. In 2001 two teams found early whales with legs in Pakistan. Their ankle bones had a double-pulley shape that only even-toed hoofed animals have. In 2007 a team led by Hans Thewissen, with Sunil Bajpai, studied Indohyus, a fox-sized fossil animal from Kashmir. The skull had a thick ear bone otherwise known only from whales. The Indian geologist A. Ranga Rao had collected those rocks years before, and his widow gave them to the scientists.",
   "who": "Edward Tyson, Carl Linnaeus, Philip Gingerich, Hans Thewissen, Sunil Bajpai and A. Ranga Rao",
   "when": "From 1680 to 2007",
   "wrong_idea": "First, that whales are fish, because of their shape and their home. Tyson's dissection in 1680 showed a mammal's body inside. Second, that whales came from wolf-like meat-eaters, judged from teeth alone. Ankle bones found in 2001 and an ear bone described in 2007 showed that whales belong with the even-toed hoofed animals, as the DNA had said.",
