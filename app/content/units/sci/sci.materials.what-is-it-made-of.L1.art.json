@@ -1,4 +1,16 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.materials.what-is-it-made-of.L1/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.materials.what-is-it-made-of.L1/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.materials.what-is-it-made-of.L1/expl.2.jpg",
+  "drawn": true
+ },
  "expl.3": {
   "src": "media/img/sci.materials.what-is-it-made-of.L1/expl.3.jpg",
   "credit": "葉子, CC0, via iNaturalist"
@@ -19,9 +31,21 @@
   "src": "media/img/sci.materials.what-is-it-made-of.L1/flow.a4.jpg",
   "drawn": true
  },
+ "flow.c1": {
+  "src": "media/img/sci.materials.what-is-it-made-of.L1/flow.c1.jpg",
+  "drawn": true
+ },
  "flow.e1": {
   "src": "media/img/sci.materials.what-is-it-made-of.L1/flow.e1.jpg",
   "credit": "JohnLEE Brothers, CC0, via Wikimedia Commons"
+ },
+ "flow.g1": {
+  "src": "media/img/sci.materials.what-is-it-made-of.L1/flow.g1.jpg",
+  "drawn": true
+ },
+ "flow.g2": {
+  "src": "media/img/sci.materials.what-is-it-made-of.L1/flow.g2.jpg",
+  "drawn": true
  },
  "flow.p1": {
   "src": "media/img/sci.materials.what-is-it-made-of.L1/flow.p1.jpg",
@@ -103,6 +127,10 @@
   "src": "media/img/sci.materials.what-is-it-made-of.L1/setup.p1.1.jpg",
   "drawn": true
  },
+ "summary": {
+  "src": "media/img/sci.materials.what-is-it-made-of.L1/summary.jpg",
+  "drawn": true
+ },
  "term.0": {
   "src": "media/img/sci.materials.what-is-it-made-of.L1/term.0.jpg",
   "drawn": true
@@ -121,6 +149,14 @@
  },
  "term.4": {
   "src": "media/img/sci.materials.what-is-it-made-of.L1/term.4.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.materials.what-is-it-made-of.L1/term.5.jpg",
+  "drawn": true
+ },
+ "term.6": {
+  "src": "media/img/sci.materials.what-is-it-made-of.L1/term.6.jpg",
   "drawn": true
  }
 }
