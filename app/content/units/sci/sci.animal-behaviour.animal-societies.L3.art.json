@@ -31,6 +31,10 @@
   "src": "media/img/sci.animal-behaviour.animal-societies.L3/expl.7.jpg",
   "credit": "Ramesh Shenai, CC BY, via iNaturalist"
  },
+ "flow.a1": {
+  "src": "media/img/sci.animal-behaviour.animal-societies.L3/flow.a1.jpg",
+  "credit": "kbkash, CC0, via iNaturalist"
+ },
  "flow.a2": {
   "src": "media/img/sci.animal-behaviour.animal-societies.L3/flow.a2.jpg",
   "drawn": true
@@ -163,6 +167,10 @@
   "src": "media/img/sci.animal-behaviour.animal-societies.L3/summary.jpg",
   "credit": "Ashwin, CC BY, via iNaturalist"
  },
+ "term.1": {
+  "src": "media/img/sci.animal-behaviour.animal-societies.L3/term.1.jpg",
+  "drawn": true
+ },
  "term.10": {
   "src": "media/img/sci.animal-behaviour.animal-societies.L3/term.10.jpg",
   "drawn": true
@@ -174,6 +182,14 @@
  "term.13": {
   "src": "media/img/sci.animal-behaviour.animal-societies.L3/term.13.jpg",
   "credit": "Rama Narayanan, CC BY, via iNaturalist"
+ },
+ "term.14": {
+  "src": "media/img/sci.animal-behaviour.animal-societies.L3/term.14.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.animal-behaviour.animal-societies.L3/term.2.jpg",
+  "drawn": true
  },
  "term.3": {
   "src": "media/img/sci.animal-behaviour.animal-societies.L3/term.3.jpg",

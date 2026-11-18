@@ -23,6 +23,10 @@
   "src": "media/img/sci.animal-behaviour.foraging-and-survival.L3/expl.5.jpg",
   "credit": "Morten Ross, CC BY, via iNaturalist"
  },
+ "expl.6": {
+  "src": "media/img/sci.animal-behaviour.foraging-and-survival.L3/expl.6.jpg",
+  "drawn": true
+ },
  "expl.7": {
   "src": "media/img/sci.animal-behaviour.foraging-and-survival.L3/expl.7.jpg",
   "drawn": true
@@ -218,6 +222,10 @@
  "term.14": {
   "src": "media/img/sci.animal-behaviour.foraging-and-survival.L3/term.14.jpg",
   "credit": "Shyavan Sridhar, CC BY, via iNaturalist"
+ },
+ "term.2": {
+  "src": "media/img/sci.animal-behaviour.foraging-and-survival.L3/term.2.jpg",
+  "credit": "Shannon Stoner, CC BY, via iNaturalist"
  },
  "term.3": {
   "src": "media/img/sci.animal-behaviour.foraging-and-survival.L3/term.3.jpg",
