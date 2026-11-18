@@ -1,4 +1,32 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.food.where-food-comes-from.L3/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.food.where-food-comes-from.L3/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.10": {
+  "src": "media/img/sci.food.where-food-comes-from.L3/expl.10.jpg",
+  "drawn": true
+ },
+ "expl.11": {
+  "src": "media/img/sci.food.where-food-comes-from.L3/expl.11.jpg",
+  "drawn": true
+ },
+ "expl.12": {
+  "src": "media/img/sci.food.where-food-comes-from.L3/expl.12.jpg",
+  "drawn": true
+ },
+ "expl.13": {
+  "src": "media/img/sci.food.where-food-comes-from.L3/expl.13.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.food.where-food-comes-from.L3/expl.2.jpg",
+  "drawn": true
+ },
  "expl.3": {
   "src": "media/img/sci.food.where-food-comes-from.L3/expl.3.jpg",
   "credit": "Sagnik Dutta Roy, CC BY, via iNaturalist"
@@ -10,6 +38,18 @@
  "expl.5": {
   "src": "media/img/sci.food.where-food-comes-from.L3/expl.5.jpg",
   "credit": "Dey.sandip, CC BY 3.0, via Wikimedia Commons"
+ },
+ "expl.6": {
+  "src": "media/img/sci.food.where-food-comes-from.L3/expl.6.jpg",
+  "drawn": true
+ },
+ "expl.7": {
+  "src": "media/img/sci.food.where-food-comes-from.L3/expl.7.jpg",
+  "drawn": true
+ },
+ "expl.8": {
+  "src": "media/img/sci.food.where-food-comes-from.L3/expl.8.jpg",
+  "drawn": true
  },
  "flow.a1": {
   "src": "media/img/sci.food.where-food-comes-from.L3/flow.a1.jpg",
@@ -259,6 +299,10 @@
  "term.2": {
   "src": "media/img/sci.food.where-food-comes-from.L3/term.2.jpg",
   "credit": "Designed in Canva"
+ },
+ "term.20": {
+  "src": "media/img/sci.food.where-food-comes-from.L3/term.20.jpg",
+  "drawn": true
  },
  "term.21": {
   "src": "media/img/sci.food.where-food-comes-from.L3/term.21.jpg",
