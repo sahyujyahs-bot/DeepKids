@@ -381,7 +381,7 @@
    "concept": "Every one of these beings senses and decides",
    "status": "debated",
    "context": "This card is about minds. The big groups differ in how their cells are built, but all of them sense the world and act on what they sense.",
-   "description": "A being does not need a brain, or even a nucleus, to sense and decide. A bacterium senses food and swims towards it, and senses poison and swims away. Many bacteria let out a chemical signal and measure how much of it is around. In this way they sense how many neighbours they have, and they change what they do when the number is high. The American scientist Bonnie Bassler showed that bacteria use one signal for their own kind and another that many kinds share. A slime mould is one giant cell. In 2000 Toshiyuki Nakagaki put a slime mould in a maze with food at two ends, and they drew their body back into the shortest path between the two. A fungus sends food through their threads to the places where it is needed. Sensing, signalling and choosing are found on every branch of the tree of life, so they are as old as the first cells.",
+   "description": "A being does not need a brain, or even a nucleus, to sense and decide. A bacterium senses food and swims towards it, and senses poison and swims away. Many bacteria let out a chemical signal and measure how much of it is around. In this way they sense how many neighbours they have, and they change what they do when the number is high. The American scientist Bonnie Bassler showed that bacteria use one signal for their own kind and another that many kinds share. A slime mould is one giant cell. In 2000 Toshiyuki Nakagaki put a slime mould in a maze with food at two ends, and they drew their body back into the shortest path between the two. A fungus sends food through their threads to the places where it is needed. Sensing, signalling and choosing are found on every branch of the tree of life, so they are as old as the first cells. A brain is one way of having a mind, and it is not the only way.",
    "examples": [
     "A yeast cell senses the signal chemical of another yeast and grows towards them.",
     "A root tip senses water, gravity and touch, and chooses where to grow.",
@@ -389,8 +389,8 @@
    ],
    "perspectives": [
     {
-     "who": "The view taken in this unit",
-     "explanation": "Every living being senses, decides and acts. A mind is something all life has, in many forms, and a brain is one way of having one."
+     "who": "Scientists who study how microbes, fungi and plants behave",
+     "explanation": "Sensing, signalling and choosing are found in every living being. Words such as 'decide' describe what these beings really do, whatever their bodies are built from."
     },
     {
      "who": "Many biologists",
@@ -624,8 +624,8 @@
   "practice": {
    "title": "Three differences, three samenesses",
    "mins": 3,
-   "say": "Hold one leaf in your open hand. Sit still and breathe slowly three times. First, find three ways that you and this plant differ. Say them aloud. Now find three things that you and the plant both do. Both of you are made of cells. Both of you take in water. Both of you read your genes with the same four letters. Close your eyes for five breaths. Which list was easier to find? Which list do you think is longer?",
-   "kid": "Hold one leaf in your hand. Breathe slowly three times. Say three ways you and the plant differ. Now say three things you both do. You are both made of cells. You both take in water. You both read genes with four letters. Close your eyes for five breaths. Which list was easier? Which list is longer?"
+   "say": "Take one leaf from the kitchen, such as a curry leaf. Hold it in your open hand. Sit still and breathe slowly three times. First, find three ways that you and this plant differ. Say them aloud. Now find three things that you and the plant both do. Both of you are made of cells. Both of you take in water. Both of you read your genes with the same four letters. Close your eyes for five breaths. Which list was easier to find? Which list do you think is longer?",
+   "kid": "Take a curry leaf or any leaf. Hold it in your hand. Breathe slowly three times. Say three ways you and the plant differ. Now say three things you both do. You are both made of cells. You both take in water. You both read genes with four letters. Close your eyes for five breaths. Which list was easier? Which list is longer?"
   },
   "ask": [
    "Your genes differ from a mushroom's in thousands of letters, and match in thousands more. Which tells you more about what you are: the differences or the matches?",
@@ -1398,7 +1398,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Write ten names on ten slips. 2. The first five are a potted plant, coriander leaves, an ant, a house gecko or a crow, and yourself. 3. The next five are the bacteria in curd, the yeast in bread, a mushroom, the mould on old fruit and the green film in a flowerpot saucer. 4. Ask how many of the ten will fit into 'plants' or 'animals'.",
+     "do": "1. Write ten names on ten slips. 2. The first five are a potted plant, coriander leaves, an ant, a house gecko or a crow, and yourself. 3. Three more are the bacteria in curd, the yeast in bread and a mushroom. 4. The last two are the mould on old fruit and the green film in a flowerpot saucer. 5. Ask how many of the ten will fit into 'plants' or 'animals'.",
      "say": "All ten of these are alive, or were alive when they came into our kitchen. How many of them are plants or animals? Guess a number.",
      "kid": "Write ten living beings from your home on slips. Use the list. Guess how many are plants or animals.",
      "parent": "Change the list to fit your home, but keep the curd bacteria, the yeast, the mushroom and the mould. If there is no mushroom in the house, write the slip anyway.",
@@ -2239,7 +2239,7 @@
     },
     {
      "t": "write",
-     "p": "In the Hidden Tree Test, the bodies and the letters disagreed about who was sisters. Which was right? How do you know?",
+     "p": "In the Hidden Tree Test, bodies and letters disagreed about the sisters. Which was right? How do you know?",
      "a": "The letters were right. The sisters differed in only 4 letters and the others in 8, and the hidden slips showed the same pairs. The bodies were not copied from the parent, so they did not show the family.",
      "why": "A strong answer uses the numbers as evidence and says that only the message was passed down by copying.",
      "lines": 3,
@@ -2274,7 +2274,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A new being is one cell with a nucleus and no cell wall. They creep and wrap round food. Which group?",
+     "p": "A being is one cell with a nucleus and no cell wall, and wraps round food. Which group?",
      "opts": [
       "Protists",
       "Bacteria",
@@ -2391,7 +2391,7 @@
     },
     {
      "t": "order",
-     "p": "P differs from Q in 2 letters, from R in 6 and from S in 10. Order P's relatives, closest first.",
+     "p": "P differs from Q in 2 letters, R in 6 and S in 10. Order P's relatives, closest first.",
      "a": [
       "Q",
       "R",
