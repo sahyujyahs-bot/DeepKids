@@ -19,6 +19,14 @@
   "src": "media/img/sci.what-is-life.signs-of-life.L2/intro.jpg",
   "credit": "rayb777, CC BY 2.0, via Wikimedia Commons"
  },
+ "setup.c1.0": {
+  "src": "media/img/sci.what-is-life.signs-of-life.L2/setup.c1.0.jpg",
+  "drawn": true
+ },
+ "setup.c1.1": {
+  "src": "media/img/sci.what-is-life.signs-of-life.L2/setup.c1.1.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.what-is-life.signs-of-life.L2/setup.e1.0.jpg",
   "drawn": true
@@ -33,6 +41,14 @@
  },
  "setup.e2.1": {
   "src": "media/img/sci.what-is-life.signs-of-life.L2/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.p1.0": {
+  "src": "media/img/sci.what-is-life.signs-of-life.L2/setup.p1.0.jpg",
+  "drawn": true
+ },
+ "setup.p1.1": {
+  "src": "media/img/sci.what-is-life.signs-of-life.L2/setup.p1.1.jpg",
   "drawn": true
  },
  "summary": {

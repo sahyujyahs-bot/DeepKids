@@ -7,6 +7,14 @@
   "src": "media/img/sci.what-is-real.consciousness.L2/flow.a2.jpg",
   "credit": "Ravuri Krishna Chaitanya, CC BY, via iNaturalist"
  },
+ "setup.c1.0": {
+  "src": "media/img/sci.what-is-real.consciousness.L2/setup.c1.0.jpg",
+  "drawn": true
+ },
+ "setup.c1.1": {
+  "src": "media/img/sci.what-is-real.consciousness.L2/setup.c1.1.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.what-is-real.consciousness.L2/setup.e1.0.jpg",
   "drawn": true
@@ -33,6 +41,14 @@
  },
  "setup.e2.2": {
   "src": "media/img/sci.what-is-real.consciousness.L2/setup.e2.2.jpg",
+  "drawn": true
+ },
+ "setup.p1.0": {
+  "src": "media/img/sci.what-is-real.consciousness.L2/setup.p1.0.jpg",
+  "drawn": true
+ },
+ "setup.p1.1": {
+  "src": "media/img/sci.what-is-real.consciousness.L2/setup.p1.1.jpg",
   "drawn": true
  }
 }
