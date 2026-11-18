@@ -1,11 +1,39 @@
 {
+ "expl.1": {
+  "src": "media/img/sci.water.saving-water.L3/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.10": {
+  "src": "media/img/sci.water.saving-water.L3/expl.10.jpg",
+  "drawn": true
+ },
  "expl.11": {
   "src": "media/img/sci.water.saving-water.L3/expl.11.jpg",
   "credit": "NASA, public domain"
  },
+ "expl.2": {
+  "src": "media/img/sci.water.saving-water.L3/expl.2.jpg",
+  "drawn": true
+ },
  "expl.3": {
   "src": "media/img/sci.water.saving-water.L3/expl.3.jpg",
   "credit": "US Environmental Protection Agency, Public domain, via Wikimedia Commons"
+ },
+ "expl.5": {
+  "src": "media/img/sci.water.saving-water.L3/expl.5.jpg",
+  "drawn": true
+ },
+ "expl.6": {
+  "src": "media/img/sci.water.saving-water.L3/expl.6.jpg",
+  "drawn": true
+ },
+ "expl.8": {
+  "src": "media/img/sci.water.saving-water.L3/expl.8.jpg",
+  "drawn": true
+ },
+ "flow.a1": {
+  "src": "media/img/sci.water.saving-water.L3/flow.a1.jpg",
+  "drawn": true
  },
  "flow.a2": {
   "src": "media/img/sci.water.saving-water.L3/flow.a2.jpg",
@@ -14,6 +42,14 @@
  "flow.a4": {
   "src": "media/img/sci.water.saving-water.L3/flow.a4.jpg",
   "credit": "Aruna Gamuz, CC0, via iNaturalist"
+ },
+ "flow.a5": {
+  "src": "media/img/sci.water.saving-water.L3/flow.a5.jpg",
+  "drawn": true
+ },
+ "flow.a6": {
+  "src": "media/img/sci.water.saving-water.L3/flow.a6.jpg",
+  "drawn": true
  },
  "flow.e1": {
   "src": "media/img/sci.water.saving-water.L3/flow.e1.jpg",
@@ -159,12 +195,52 @@
   "src": "media/img/sci.water.saving-water.L3/summary.jpg",
   "drawn": true
  },
+ "term.0": {
+  "src": "media/img/sci.water.saving-water.L3/term.0.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.water.saving-water.L3/term.1.jpg",
+  "drawn": true
+ },
+ "term.10": {
+  "src": "media/img/sci.water.saving-water.L3/term.10.jpg",
+  "drawn": true
+ },
+ "term.12": {
+  "src": "media/img/sci.water.saving-water.L3/term.12.jpg",
+  "drawn": true
+ },
+ "term.13": {
+  "src": "media/img/sci.water.saving-water.L3/term.13.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.water.saving-water.L3/term.2.jpg",
+  "drawn": true
+ },
  "term.3": {
   "src": "media/img/sci.water.saving-water.L3/term.3.jpg",
   "credit": "Chiome-gold, CC0, via Wikimedia Commons"
  },
+ "term.4": {
+  "src": "media/img/sci.water.saving-water.L3/term.4.jpg",
+  "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.water.saving-water.L3/term.5.jpg",
+  "drawn": true
+ },
  "term.7": {
   "src": "media/img/sci.water.saving-water.L3/term.7.jpg",
   "credit": "en:USAID, Public domain, via Wikimedia Commons"
+ },
+ "term.8": {
+  "src": "media/img/sci.water.saving-water.L3/term.8.jpg",
+  "drawn": true
+ },
+ "term.9": {
+  "src": "media/img/sci.water.saving-water.L3/term.9.jpg",
+  "drawn": true
  }
 }
