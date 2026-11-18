@@ -43,6 +43,18 @@
   "src": "media/img/sci.body.digestion.L5/setup.e2.2.jpg",
   "drawn": true
  },
+ "setup.e3.0": {
+  "src": "media/img/sci.body.digestion.L5/setup.e3.0.jpg",
+  "drawn": true
+ },
+ "setup.e3.1": {
+  "src": "media/img/sci.body.digestion.L5/setup.e3.1.jpg",
+  "drawn": true
+ },
+ "setup.e3.2": {
+  "src": "media/img/sci.body.digestion.L5/setup.e3.2.jpg",
+  "drawn": true
+ },
  "spot.0": {
   "src": "media/img/sci.body.digestion.L5/spot.0.jpg",
   "credit": "Ashwin A, CC BY, via iNaturalist"
