@@ -107,6 +107,10 @@
   "src": "media/img/sci.weather.clouds-and-rain.L2/setup.p1.1.jpg",
   "drawn": true
  },
+ "spot.0": {
+  "src": "media/img/sci.weather.clouds-and-rain.L2/spot.0.jpg",
+  "credit": "Jakub Michankow, CC BY 2.0, via Wikimedia Commons"
+ },
  "summary": {
   "src": "media/img/sci.weather.clouds-and-rain.L2/summary.jpg",
   "credit": "NASA, public domain"
