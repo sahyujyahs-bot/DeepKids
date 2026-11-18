@@ -71,6 +71,14 @@
   "src": "media/img/sci.genetics.dna-and-rna.L3/intro.jpg",
   "credit": "National Human Genome Research Institute, Public domain, via Wikimedia Commons"
  },
+ "setup.c1.0": {
+  "src": "media/img/sci.genetics.dna-and-rna.L3/setup.c1.0.jpg",
+  "drawn": true
+ },
+ "setup.c1.1": {
+  "src": "media/img/sci.genetics.dna-and-rna.L3/setup.c1.1.jpg",
+  "drawn": true
+ },
  "setup.e1.0": {
   "src": "media/img/sci.genetics.dna-and-rna.L3/setup.e1.0.jpg",
   "drawn": true
@@ -93,6 +101,18 @@
  },
  "setup.e2.2": {
   "src": "media/img/sci.genetics.dna-and-rna.L3/setup.e2.2.jpg",
+  "drawn": true
+ },
+ "setup.p1.0": {
+  "src": "media/img/sci.genetics.dna-and-rna.L3/setup.p1.0.jpg",
+  "drawn": true
+ },
+ "setup.p1.1": {
+  "src": "media/img/sci.genetics.dna-and-rna.L3/setup.p1.1.jpg",
+  "drawn": true
+ },
+ "setup.p1.2": {
+  "src": "media/img/sci.genetics.dna-and-rna.L3/setup.p1.2.jpg",
   "drawn": true
  },
  "summary": {
