@@ -754,7 +754,7 @@ She ate the rice slowly. Then she went to find the blade.
 
 ## Open questions
 - **How does a plant set the speed at which they use starch at night?** The steady rate has been measured many times. Scientists have at least two different explanations for how the plant does it, and the chemicals involved have not all been found.
-- **Do all plants share out their night food in the same way as thale cress?** Most of the careful work was done on one small plant in laboratories. Rice, wheat and many trees store more sugar and less starch in their leaves, and far less is known about them.
+- **Do all plants share out their night food in the same way as thale cress?** Most of the careful work was done on one small plant in laboratories. Rice and wheat store more sugar and less starch in their leaves, and far less is known about them.
 - **Does the green sea slug really live on the chloroplasts taken from algae?** The stolen chloroplasts keep working for months. But related slugs lived just as long in the dark, so the chloroplasts may be mainly a food store.
 - **Did life on Earth begin with chemosynthesis at deep-sea hot springs, before any living being could use light?** The oldest traces of life are hard to read, and nobody has yet made a living cell from chemicals in a laboratory.
 - **Why did life settle on chlorophyll, which leaves much of the green light uncaught?** There are several ideas. One is that catching every colour would make the energy supply too jumpy to handle safely. None has been proved.
