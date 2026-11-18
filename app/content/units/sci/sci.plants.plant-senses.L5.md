@@ -724,7 +724,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
    **Answer:** How much food and news they carry between trees. *Why:* Everyone accepts that the networks exist. Scientists disagree about how much sugar and how many warnings pass through them in real forests, and whether seedlings gain from it.
 
 ## Applications
-- Push-pull farming. In East Africa, farmers plant desmodium between rows of maize. The smell of desmodium drives stem-borer moths away, and chemicals from desmodium roots stop witchweed. Zeyaur Khan, a scientist born in India, led this work in Kenya.
+- Push-pull farming. In East Africa, farmers plant desmodium between rows of maize. The smell of desmodium drives stem-borer moths away, and chemicals from desmodium roots stop witchweed. Zeyaur Khan and his colleagues at icipe in Kenya developed this method.
 - Farmers and nurseries add mycorrhizal fungi to the soil when they plant seedlings. The fungi help young plants take up phosphorus and water.
 - Plant nurseries brush trays of tomato and other seedlings with a bar or a sheet each day. The touched seedlings grow shorter and sturdier, and survive planting out better.
 - Gardeners tie a young tree loosely to a stake, so that the trunk can sway. A trunk that sways grows thicker.

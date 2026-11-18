@@ -91,7 +91,7 @@ Drop the same paper spinner many times in the same wind, and the landing places 
 ### Carried by water · *defined*
 **Definition:** Some fruits and seeds float, and are carried by rivers, floods and the sea. A floating fruit has trapped air and a covering that keeps water out.
 
-A coconut is built for the sea. The outer skin is smooth and waterproof. Under the skin is a thick husk of fibres with air between them, so the whole fruit floats high. Inside the hard shell, the seed has food and water for the journey. In one test, coconuts still sprouted after floating in sea water for 110 days. In that time a slow ocean current can carry a coconut a few thousand kilometres. Mangrove trees do something different. The seed sprouts while still hanging on the mother tree, and grows into a long green seedling. This is called vivipary, which means live birth. The seedling then drops into the water and floats away on the tide, often lying flat at first. Later the root end takes in water and sinks, and the seedling roots in the mud. Fresh water carries seeds too. Lotus fruits and the seeds of many riverbank trees float downstream in the monsoon.
+A coconut is built for the sea. The outer skin is smooth and waterproof. Under the skin is a thick husk of fibres with air between them, so the whole fruit floats high. Inside the hard shell, the seed has food and water for the journey. In one small test of 15 coconuts, most were still able to sprout after floating in sea water for 110 days. In that time a slow ocean current can carry a coconut a few thousand kilometres. Mangrove trees do something different. The seed sprouts while still hanging on the mother tree, and grows into a long green seedling. This is called vivipary, which means live birth. The seedling then drops into the water and floats away on the tide, often lying flat at first. Later the root end takes in water and sinks, and the seedling roots in the mud. Fresh water carries seeds too. Lotus fruits and the seeds of many riverbank trees float downstream in the monsoon.
 - e.g. Coconut palms line the coasts of Kerala, Lakshadweep and the Andaman Islands.
 - e.g. At Pichavaram in Tamil Nadu and in the Sundarbans of Bengal, mangrove seedlings hang from the trees like green pencils.
 - e.g. The Indian almond tree, common on beaches and city roads, has a corky fruit that floats in the sea.
@@ -281,7 +281,7 @@ Doddamma looked out at the honne for a while. Then she went back to her plate.
 
 The rains came in June. By August the far hill had a green haze on it, and from the ledge Tunga could not tell what was grass and what was not.
 
-The next March, Doddamma crossed the stream lower down, on her rounds, and climbed the burnt hill with a stick. She came home at dusk and put a leaf on the table. It was a small leaf made of five leaflets, and each leaflet had a tiny notch at the tip.
+The next March, Doddamma crossed the stream lower down, on her rounds, and climbed the burnt hill with a stick. She came home at dusk and put a leaf on the table. It was a small leaf made of several leaflets, and each leaflet had a tiny notch at the tip.
 
 "Honne," she said. "High up, near the ridge. No ball of clay ever got there."
 
