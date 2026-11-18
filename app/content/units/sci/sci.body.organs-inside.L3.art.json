@@ -7,6 +7,18 @@
   "src": "media/img/sci.body.organs-inside.L3/expl.1.jpg",
   "drawn": true
  },
+ "expl.11": {
+  "src": "media/img/sci.body.organs-inside.L3/expl.11.jpg",
+  "credit": "Octopus: Dan Wrench, CC BY; cow: wilderbombyx, CC0; fish: Joshua Smith, CC0; sponge: norcalmc, CC BY; all via iNaturalist"
+ },
+ "expl.12": {
+  "src": "media/img/sci.body.organs-inside.L3/expl.12.jpg",
+  "credit": "Canopic jars: Carlo Raso, public domain mark, via Flickr; anatomy plate: Thomas Geminus, public domain, via Wikimedia Commons; first X-ray: Wilhelm Roentgen, public domain, via Wikimedia Commons; MRI scanner: Joyce Kaes, CC BY 2.0, via Flickr"
+ },
+ "expl.13": {
+  "src": "media/img/sci.body.organs-inside.L3/expl.13.jpg",
+  "credit": "Human cerebral organoid: NIH Image Gallery, public domain, via Wikimedia Commons"
+ },
  "expl.2": {
   "src": "media/img/sci.body.organs-inside.L3/expl.2.jpg",
   "drawn": true

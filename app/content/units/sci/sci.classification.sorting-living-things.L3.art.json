@@ -1,4 +1,8 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/expl.0.jpg",
+  "credit": "shankar s. from Dubai, united arab emirates, CC BY 2.0, via Wikimedia Commons"
+ },
  "expl.10": {
   "src": "media/img/sci.classification.sorting-living-things.L3/expl.10.jpg",
   "drawn": true
@@ -234,6 +238,10 @@
  "term.16": {
   "src": "media/img/sci.classification.sorting-living-things.L3/term.16.jpg",
   "credit": "Thomas Mesaglio, CC BY, via iNaturalist"
+ },
+ "term.18": {
+  "src": "media/img/sci.classification.sorting-living-things.L3/term.18.jpg",
+  "credit": "G. Edward Johnson, CC BY 3.0, via Wikimedia Commons"
  },
  "term.19": {
   "src": "media/img/sci.classification.sorting-living-things.L3/term.19.jpg",

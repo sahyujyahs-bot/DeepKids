@@ -35,6 +35,10 @@
   "src": "media/img/sci.changes.fire.L3/expl.7.jpg",
   "drawn": true
  },
+ "expl.8": {
+  "src": "media/img/sci.changes.fire.L3/expl.8.jpg",
+  "credit": "Chimpanzee: Stan Rullman, CC BY, via iNaturalist; potatoes drawn for DeepKids"
+ },
  "expl.9": {
   "src": "media/img/sci.changes.fire.L3/expl.9.jpg",
   "credit": "Scan made by Kogo, Public domain, via Wikimedia Commons"
@@ -237,6 +241,10 @@
  },
  "term.16": {
   "src": "media/img/sci.changes.fire.L3/term.16.jpg",
+  "drawn": true
+ },
+ "term.17": {
+  "src": "media/img/sci.changes.fire.L3/term.17.jpg",
   "drawn": true
  },
  "term.2": {
