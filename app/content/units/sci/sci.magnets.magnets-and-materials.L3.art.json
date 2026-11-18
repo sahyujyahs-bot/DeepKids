@@ -88,7 +88,19 @@
  "setup.a2.2": "media/img/sci.magnets.magnets-and-materials.L3/setup.a2.2.svg",
  "setup.a4.1": "media/img/sci.magnets.magnets-and-materials.L3/setup.a4.1.svg",
  "setup.a7.0": "media/img/sci.magnets.magnets-and-materials.L3/setup.a7.0.svg",
+ "setup.c1.0": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/setup.c1.0.jpg",
+  "drawn": true
+ },
  "setup.c1.1": "media/img/sci.magnets.magnets-and-materials.L3/setup.c1.1.svg",
+ "setup.c1.2": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/setup.c1.2.jpg",
+  "drawn": true
+ },
+ "setup.c2.0": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/setup.c2.0.jpg",
+  "drawn": true
+ },
  "setup.c2.1": "media/img/sci.magnets.magnets-and-materials.L3/setup.c2.1.svg",
  "setup.e1.0": "media/img/sci.magnets.magnets-and-materials.L3/setup.e1.0.svg",
  "setup.e1.1": "media/img/sci.magnets.magnets-and-materials.L3/setup.e1.1.svg",
@@ -106,6 +118,14 @@
  "setup.e3.1": "media/img/sci.magnets.magnets-and-materials.L3/setup.e3.1.svg",
  "setup.e3.2": "media/img/sci.magnets.magnets-and-materials.L3/setup.e3.2.svg",
  "setup.g2.2": "media/img/sci.magnets.magnets-and-materials.L3/setup.g2.2.svg",
+ "setup.p1.0": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/setup.p1.0.jpg",
+  "drawn": true
+ },
+ "setup.p1.1": {
+  "src": "media/img/sci.magnets.magnets-and-materials.L3/setup.p1.1.jpg",
+  "drawn": true
+ },
  "setup.p1.2": "media/img/sci.magnets.magnets-and-materials.L3/setup.p1.2.svg",
  "summary": {
   "src": "media/img/sci.magnets.magnets-and-materials.L3/summary.jpg",
