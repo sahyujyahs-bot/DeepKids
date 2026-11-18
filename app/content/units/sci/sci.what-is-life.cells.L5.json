@@ -250,7 +250,7 @@
       "concept": "The coat on your teeth is a city of bacteria",
       "status": "defined",
       "definition": "Plaque is a biofilm: layers of living bacteria stuck to the tooth and to each other, inside a glue that they make.",
-      "description": "Within minutes of brushing, a thin film from your saliva covers each tooth. Within hours, bacteria from your saliva and tongue stick to that film. They divide, and each one's family spreads. Other kinds then stick to the first ones. By the next day there is a soft layer you can scrape off with a fingernail. If it stays for about two weeks, minerals from saliva harden it into tartar, which only a dentist can remove. Where does the coat grow thickest? Along the gums and between the teeth, where the tongue, the cheeks and the brush reach least. Most plaque bacteria live quietly. The trouble begins when the coat is thick and gets sugar. Some of the bacteria turn sugar into acid, and the acid slowly dissolves the tooth under them. Brushing does not make a mouth free of bacteria, and it does not need to. It keeps the coat thin. In 1683 Antonie van Leeuwenhoek scraped the coat from his own teeth and looked at it through his lens. He saw tiny living beings moving in it, and wrote to the Royal Society in London about them. They were bacteria.",
+      "description": "Within minutes of brushing, a thin film from your saliva covers each tooth. Within hours, bacteria from your saliva and tongue stick to that film. They divide, and each one's family spreads. Other kinds then stick to the first ones. By the next day there is a soft layer you can scrape off with a fingernail. If it stays for a week or two, minerals from saliva harden it into tartar, which only a dentist can remove. Where does the coat grow thickest? Along the gums and between the teeth, where the tongue, the cheeks and the brush reach least. Most plaque bacteria live quietly. The trouble begins when the coat is thick and gets sugar. Some of the bacteria turn sugar into acid, and the acid slowly dissolves the tooth under them. Brushing does not make a mouth free of bacteria, and it does not need to. It keeps the coat thin. In 1683 Antonie van Leeuwenhoek scraped the coat from his own teeth and looked at it through his lens. He saw tiny living beings moving in it, and wrote to the Royal Society in London about them. They were bacteria.",
       "examples": [
         "In the Morning Coat test, the colour sticks to plaque and shows you where the coat has grown back.",
         "The slippery layer inside a steel water bottle that is only rinsed is a biofilm too.",
@@ -2281,7 +2281,7 @@
       "items": [
         {
           "t": "write",
-          "p": "A spoon holds 27 chana and 13 spoons fill a tumbler. Work out the estimate, and say why it may not be exact.",
+          "p": "One spoon holds 27 chana, and 13 spoons fill a tumbler. Estimate the total. Why may it not be exact?",
           "a": "27 multiplied by 13 is 351. It may not be exact because each spoonful differs by a few chana, and the last spoon may not have been full.",
           "why": "A strong answer gives the sum and at least one real source of error.",
           "lines": 3,
@@ -2319,7 +2319,7 @@
         },
         {
           "t": "write",
-          "p": "An elephant weighs about 100 times as much as a person. Does she have bigger cells or more cells? How could you check?",
+          "p": "An elephant is far heavier than a person. Does she have bigger cells or more cells? How could you check?",
           "a": "More cells. You could look at a sample of her cells, such as blood, under a microscope and measure them. They are close to the size of ours.",
           "why": "A strong answer gives a way to test it, and does not only state the fact.",
           "lines": 3,
@@ -2385,7 +2385,7 @@
         },
         {
           "t": "write",
-          "p": "A mother's milk has sugars that only the baby's gut bacteria can use. What does that tell you about bodies and microbes?",
+          "p": "Mother's milk has sugars that only a baby's gut bacteria can use. What does that tell you?",
           "a": "A mother's body makes food for her baby's microbes as well as for her baby. So bodies have depended on their microbes for a very long time.",
           "why": "A strong answer sees that the body spends effort on feeding microbes, which only makes sense if they matter to the baby's health.",
           "lines": 3,
@@ -2730,7 +2730,7 @@
   ],
   "jokes": [
     {
-      "j": "Why did the bacterium never feel lonely?",
+      "j": "Why was the bacterium never lonely?",
       "a": "Twenty minutes later, there were two of her."
     },
     {
@@ -2826,7 +2826,7 @@
     {
       "problem": "A grown-up's body makes about 4 million new cells every second. About how many is that in one minute? Give the answer in crore.",
       "answer": "About 240 million, which is 24 crore.",
-      "explain": "4 million x 60 seconds = 240 million. One crore is 10 million, so 240 million is 24 crore. More new cells are made in you in one minute than there are people in most countries.",
+      "explain": "4 million x 60 seconds = 240 million. One crore is 10 million, so 240 million is 24 crore. A grown-up makes more new cells in one minute than there are people in most countries.",
       "math_unit": "math.multiplication.multi-digit.L5",
       "context": "This is about cell turnover. The body makes new cells all the time, to replace the ones that wear out.",
       "why_maths": "A rate for one second is hard to picture. Multiplying it up to a minute lets you compare it with numbers you know, such as the people in a country."
