@@ -3,6 +3,10 @@
   "src": "media/img/sci.materials.using-materials.L3/expl.0.jpg",
   "drawn": true
  },
+ "expl.1": {
+  "src": "media/img/sci.materials.using-materials.L3/expl.1.jpg",
+  "drawn": true
+ },
  "expl.10": {
   "src": "media/img/sci.materials.using-materials.L3/expl.10.jpg",
   "credit": "NASA, public domain"
@@ -14,6 +18,18 @@
  "expl.12": {
   "src": "media/img/sci.materials.using-materials.L3/expl.12.jpg",
   "credit": "MPIA/NASA/Calar Alto Observatory, public domain"
+ },
+ "expl.13": {
+  "src": "media/img/sci.materials.using-materials.L3/expl.13.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.materials.using-materials.L3/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.materials.using-materials.L3/expl.3.jpg",
+  "drawn": true
  },
  "expl.4": {
   "src": "media/img/sci.materials.using-materials.L3/expl.4.jpg",
@@ -267,8 +283,16 @@
   "src": "media/img/sci.materials.using-materials.L3/term.1.jpg",
   "drawn": true
  },
+ "term.10": {
+  "src": "media/img/sci.materials.using-materials.L3/term.10.jpg",
+  "drawn": true
+ },
  "term.11": {
   "src": "media/img/sci.materials.using-materials.L3/term.11.jpg",
+  "drawn": true
+ },
+ "term.12": {
+  "src": "media/img/sci.materials.using-materials.L3/term.12.jpg",
   "drawn": true
  },
  "term.13": {
@@ -283,6 +307,18 @@
   "src": "media/img/sci.materials.using-materials.L3/term.15.jpg",
   "drawn": true
  },
+ "term.16": {
+  "src": "media/img/sci.materials.using-materials.L3/term.16.jpg",
+  "drawn": true
+ },
+ "term.17": {
+  "src": "media/img/sci.materials.using-materials.L3/term.17.jpg",
+  "drawn": true
+ },
+ "term.18": {
+  "src": "media/img/sci.materials.using-materials.L3/term.18.jpg",
+  "drawn": true
+ },
  "term.2": {
   "src": "media/img/sci.materials.using-materials.L3/term.2.jpg",
   "drawn": true
@@ -290,6 +326,10 @@
  "term.20": {
   "src": "media/img/sci.materials.using-materials.L3/term.20.jpg",
   "credit": "Aditya Rao, CC BY, via iNaturalist"
+ },
+ "term.3": {
+  "src": "media/img/sci.materials.using-materials.L3/term.3.jpg",
+  "drawn": true
  },
  "term.4": {
   "src": "media/img/sci.materials.using-materials.L3/term.4.jpg",
@@ -305,6 +345,14 @@
  },
  "term.7": {
   "src": "media/img/sci.materials.using-materials.L3/term.7.jpg",
+  "drawn": true
+ },
+ "term.8": {
+  "src": "media/img/sci.materials.using-materials.L3/term.8.jpg",
+  "drawn": true
+ },
+ "term.9": {
+  "src": "media/img/sci.materials.using-materials.L3/term.9.jpg",
   "drawn": true
  }
 }
