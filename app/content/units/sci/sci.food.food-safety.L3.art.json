@@ -1,6 +1,18 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.food.food-safety.L3/expl.0.jpg",
+  "drawn": true
+ },
  "expl.1": {
   "src": "media/img/sci.food.food-safety.L3/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.10": {
+  "src": "media/img/sci.food.food-safety.L3/expl.10.jpg",
+  "drawn": true
+ },
+ "expl.11": {
+  "src": "media/img/sci.food.food-safety.L3/expl.11.jpg",
   "drawn": true
  },
  "expl.2": {
@@ -218,6 +230,18 @@
  "term.10": {
   "src": "media/img/sci.food.food-safety.L3/term.10.jpg",
   "credit": "Julikalucky, CC0, via Wikimedia Commons"
+ },
+ "term.12": {
+  "src": "media/img/sci.food.food-safety.L3/term.12.jpg",
+  "drawn": true
+ },
+ "term.13": {
+  "src": "media/img/sci.food.food-safety.L3/term.13.jpg",
+  "drawn": true
+ },
+ "term.14": {
+  "src": "media/img/sci.food.food-safety.L3/term.14.jpg",
+  "drawn": true
  },
  "term.2": {
   "src": "media/img/sci.food.food-safety.L3/term.2.jpg",
