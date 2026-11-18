@@ -183,6 +183,10 @@
   "src": "media/img/sci.what-is-life.signs-of-life.L3/setup.p1.2.jpg",
   "drawn": true
  },
+ "story.2": {
+  "src": "media/img/sci.what-is-life.signs-of-life.L3/story.2.jpg",
+  "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+ },
  "summary": {
   "src": "media/img/sci.what-is-life.signs-of-life.L3/summary.jpg",
   "credit": "Parth Kansara, CC BY, via iNaturalist"
@@ -190,5 +194,9 @@
  "term.8": {
   "src": "media/img/sci.what-is-life.signs-of-life.L3/term.8.jpg",
   "credit": "Daniel S. Katz, CC BY, via iNaturalist"
+ },
+ "term.9": {
+  "src": "media/img/sci.what-is-life.signs-of-life.L3/term.9.jpg",
+  "credit": "renjus box, CC BY, via iNaturalist"
  }
 }
