@@ -89,7 +89,7 @@
   },
   {
    "term": "Countershading",
-   "meaning": "Countershading means being darker on the back and paler on the belly. Light from above brightens the back and leaves the belly in shadow. The dark back and pale belly even this out, so the body looks flat and is harder to see.",
+   "meaning": "Countershading means being darker on the back and paler on the belly. Sunlight shines from above, so a plain back is bright and a plain belly is in shadow. A dark back makes the bright light look weaker. A pale belly makes the shadow look weaker. The back and the belly end up the same shade, so the body looks flat and is harder to see.",
    "example": "A mackerel, called bangda in many Indian markets, is dark blue on top and silvery white underneath.",
    "art": "A mackerel fish seen from the side, dark blue-green back and silver-white belly."
   },
@@ -173,7 +173,7 @@
    "concept": "Camouflage: a match between a body and a place",
    "status": "defined",
    "definition": "Camouflage is colour, pattern or shape that makes a body hard to see in the place where they are.",
-   "description": "Camouflage works only against the right background. A green leaf insect is hidden among green leaves, but easy to see on a white wall. The Paper Caterpillars experiment shows the same thing: newspaper strips are hard to find on a newspaper, but easy to find on a plain sheet. Many camouflaged animals also choose where to rest. Some moths land on bark, then walk and turn until their pattern lines up with the cracks in the bark. A team of scientists in South Korea filmed this in 2012. Stripes and spots break up the outline of a body, so a hunter's eye cannot easily find the edge. Countershading, a dark back and a pale belly, evens out the shadow under the body.",
+   "description": "Camouflage works only against the right background. A green leaf insect is hidden among green leaves, but easy to see on a white wall. The Paper Caterpillars experiment shows the same thing: newspaper strips are hard to find on a newspaper, but easy to find on a plain sheet. Many camouflaged animals also choose where to rest. Some moths land on bark, then walk and turn until their pattern lines up with the cracks in the bark. A team of scientists in South Korea filmed this in 2012. Stripes and spots break up the outline of a body, so a hunter's eye cannot easily find the edge. Countershading, a dark back and a pale belly, cancels the shadow under the body, so it looks flat.",
    "examples": [
     "Oakleaf butterflies in India's forests look like a dry leaf when their wings are closed, with a line like the middle vein of a leaf.",
     "Ghost crabs on the beaches of Chennai and Puri are the colour of sand, and dash into their burrows when something comes near.",
@@ -1141,18 +1141,18 @@
      "id": "s3",
      "mins": 3,
      "do": "Turn the shaded tube upside down, so the dark half is underneath. Look again from the side.",
-     "say": "Now the dark side is at the bottom. Does it look flatter or rounder than before?",
-     "kid": "Turn the grey tube upside down. Now does it look flat or round?",
+     "say": "Now the dark half is at the bottom, where the shadow already is. Does the tube look flatter or rounder than before?",
+     "kid": "Turn the grey tube upside down. Does it look flatter or rounder than before?",
      "check": {
       "t": "mcq",
       "q": "Why does a dark back and a pale belly help a fish hide?",
       "options": [
-       "The pale belly evens out the shadow underneath, so the body looks flat",
+       "The pale belly cancels the shadow underneath, so the body looks flat",
        "Dark colours are invisible",
        "A pale belly makes the fish swim faster"
       ],
       "a": 0,
-      "why": "Light from above makes the top of a body bright and the bottom dark. A darker back and a paler belly even this out, so the body looks flat and blends in. Hunters often find prey by the shading that shows a round shape. Picking 'dark colours are invisible' is a natural guess, but dark things can be easy to see on a pale background."
+      "why": "Sunlight comes from above. So a plain body is bright on top and dark underneath. Our eyes use that bright top and dark bottom to see that something is round. A dark back and a pale belly cancel it out. The top and the bottom look the same shade, so the body looks flat. A flat shape is hard to notice. 'Dark colours are invisible' is a natural guess. But a dark body is easy to see against a pale background."
      }
     },
     {
@@ -1161,7 +1161,7 @@
      "do": "Ask your child to say what they saw and why, in two or three sentences.",
      "say": "Tell me what you saw. Why do you think so many fish and deer have pale bellies?",
      "kid": "Say what you saw. Why do fish and deer have pale bellies?",
-     "parent": "The difference is real but small. It is clearest with one light directly above and the room otherwise dim. A good answer: the white tube had a dark shadow underneath, so it looked round. The shaded tube looked flatter, because its dark top and pale bottom evened out the light."
+     "parent": "The difference is small but real. It is clearest with one light directly above and the rest of the room dim. A good answer goes like this. The white tube had a dark shadow underneath, so it looked round. The shaded tube had a dark top and a pale bottom. The dark top made the bright light look weaker. The pale bottom made the shadow look weaker. So both halves looked the same shade, and the tube looked flatter. A hunter uses round shading to spot prey. A flat shape is harder to see."
     }
    ],
    "setup": [
@@ -2059,7 +2059,7 @@
      "t": "write",
      "p": "Many fish, such as the mackerel, are dark blue on top and silvery white underneath. Explain how this helps them hide. Use the word 'countershading'.",
      "lines": 3,
-     "a": "This is countershading. Light from above makes the top of the fish bright and the belly dark with shadow. The dark back and pale belly even this out, so the fish looks flat and blends in.",
+     "a": "This is countershading. Sunlight from above makes the top of the fish bright and the belly dark with shadow. The dark back and the pale belly cancel the difference. The top and the belly look the same shade, so the fish looks flat and blends in.",
      "why": "A strong answer mentions the light coming from above and the shadow underneath. The Shadow Belly tubes show it.",
      "how": "a2"
     },
@@ -2866,10 +2866,122 @@
  },
  "playtest": "Walked through every experiment, activity, game, project and challenge as a parent and child in a city flat. Fixed: one true-or-false answer marked False although its explanation said True; a porcupine card that said 'their' for one animal; the three video entries, now cleaned of internal notes (no video id could be checked from here, so each says what to look for and to preview it first); Freeze, Tiger! now says where the grass comes from and who wins, for two players and for four. Timings, fair tests, checks and step minutes agree, and the spine needs no living animals.",
  "how_we_found_out": {
-  "story": "Abbott Thayer was an American painter who loved birds. In the 1890s he noticed that many animals are darker on their backs and paler on their bellies. He worked out why. Light comes from the sky, so it brightens an animal's back and leaves the belly in shadow. A pale belly evens out that shadow, so the body looks flat and blends into the background. In 1896 he showed this to bird scientists with painted model birds. A model painted dark on top and pale below almost vanished. This is called countershading, and Thayer was right. But then he went too far. In a book he wrote with his son Gerald in 1909, he said that almost every colour on every animal is for hiding. He even said a flamingo's pink hides her against the sky at dawn or dusk. Other naturalists, including Theodore Roosevelt, said this was wrong, because some colours are for showing off or for warning. For about a hundred years, few people tested countershading with real hunters. Then Hannah Rowland and her team in Britain made small pastry caterpillars, coloured in different ways, and laid them on branches. Wild birds ate fewer of the countershaded ones.",
+  "story": "Abbott Thayer was an American painter who loved birds. In the 1890s he noticed that many animals are darker on their backs and paler on their bellies. He worked out why. Light comes from the sky, so it brightens an animal's back and leaves the belly in shadow. A pale belly cancels that shadow, so the body looks flat and blends into the background. In 1896 he showed this to bird scientists with painted model birds. A model painted dark on top and pale below almost vanished. This is called countershading, and Thayer was right. But then he went too far. In a book he wrote with his son Gerald in 1909, he said that almost every colour on every animal is for hiding. He even said a flamingo's pink hides her against the sky at dawn or dusk. Other naturalists, including Theodore Roosevelt, said this was wrong, because some colours are for showing off or for warning. For about a hundred years, few people tested countershading with real hunters. Then Hannah Rowland and her team in Britain made small pastry caterpillars, coloured in different ways, and laid them on branches. Wild birds ate fewer of the countershaded ones.",
   "who": "Abbott Thayer, an American painter, with his son Gerald Thayer, and later Hannah Rowland and her team in Britain",
   "when": "1896 (the painted model birds), 1909 (the Thayers' book), and the 2000s (the pastry caterpillar tests)",
   "wrong_idea": "Abbott Thayer believed that almost every animal colour, even a flamingo's pink, is for hiding. Other naturalists showed that some colours are for showing off or warning. His idea of countershading was right, and a century later Hannah Rowland's tests with wild birds and pastry caterpillars showed that it really helps prey survive."
  },
- "warm": {"words": ["GRAZE", "TIGER", "CHASE", "HERDS", "ALARM"], "quiz": [["Plant eaters spend much of the day eating because grass and leaves give little energy per mouthful.", true, "Meat holds more energy than leaves, so plant eaters must eat for many more hours."], ["A hunting tiger usually catches the animal she chooses.", false, "Most hunts fail, because deer hear, smell or see her and run."], ["Living in a group helps deer notice a tiger sooner.", true, "Many eyes, ears and noses watch at once, so someone spots danger early."], ["Prey animals are helpless against hunters.", false, "Prey watch, give alarm calls, run, kick, hide and stay in groups, and they escape most attacks."], ["A body is hard to see only when its colour or shape matches the place it is in.", true, "Camouflage is a match between body and place, so the same animal can be easy to see elsewhere."], ["Chameleons change colour mainly to hide.", false, "Studies suggest chameleons change colour most when talking to each other or showing how they feel."], ["Keeping still and hidden can be a way to hunt as well as a way to hide.", true, "An ambush predator waits quietly and attacks when prey comes close."], ["Every bright colour on an animal is there to hide the animal.", false, "Some colours show off, like a peacock's tail, or warn that the animal tastes bad."], ["Animals with different eyes may see the same coat in different colours.", true, "Deer see fewer colours than we do, so a tiger's orange may look like green to them."], ["Chimpanzees eat only plants.", false, "Chimpanzees also eat meat and hunt monkeys together, so they are omnivores."]], "odd": [[["Cow", "Buffalo", "Sheep", "Giraffe"], "Giraffe", "The first three graze on grass near the ground. A giraffe browses leaves from tall trees."], [["Alarm calls", "Keeping watch", "Living in a herd", "Building a web"], "Building a web", "The first three help prey stay alive. Building a web is a way of trapping prey."], [["Moth on bark", "Stick insect on a twig", "Tiger in tall grass", "Peacock's tail"], "Peacock's tail", "The first three help the animal hide by matching the place. The peacock's tail is for showing off."], [["Crow", "Chimpanzee", "Human", "Cow"], "Cow", "The first three eat both plants and animals. A cow eats only plants."], [["Cheetah running down prey", "Dragonfly chasing insects", "Eagle diving on prey", "Spider waiting in a web"], "Spider waiting in a web", "The first three chase their prey. A spider builds a trap and lets prey come to her."]]}
+ "warm": {
+  "words": [
+   "GRAZE",
+   "TIGER",
+   "CHASE",
+   "HERDS",
+   "ALARM"
+  ],
+  "quiz": [
+   [
+    "Plant eaters spend much of the day eating because grass and leaves give little energy per mouthful.",
+    true,
+    "Meat holds more energy than leaves, so plant eaters must eat for many more hours."
+   ],
+   [
+    "A hunting tiger usually catches the animal she chooses.",
+    false,
+    "Most hunts fail, because deer hear, smell or see her and run."
+   ],
+   [
+    "Living in a group helps deer notice a tiger sooner.",
+    true,
+    "Many eyes, ears and noses watch at once, so someone spots danger early."
+   ],
+   [
+    "Prey animals are helpless against hunters.",
+    false,
+    "Prey watch, give alarm calls, run, kick, hide and stay in groups, and they escape most attacks."
+   ],
+   [
+    "A body is hard to see only when its colour or shape matches the place it is in.",
+    true,
+    "Camouflage is a match between body and place, so the same animal can be easy to see elsewhere."
+   ],
+   [
+    "Chameleons change colour mainly to hide.",
+    false,
+    "Studies suggest chameleons change colour most when talking to each other or showing how they feel."
+   ],
+   [
+    "Keeping still and hidden can be a way to hunt as well as a way to hide.",
+    true,
+    "An ambush predator waits quietly and attacks when prey comes close."
+   ],
+   [
+    "Every bright colour on an animal is there to hide the animal.",
+    false,
+    "Some colours show off, like a peacock's tail, or warn that the animal tastes bad."
+   ],
+   [
+    "Animals with different eyes may see the same coat in different colours.",
+    true,
+    "Deer see fewer colours than we do, so a tiger's orange may look like green to them."
+   ],
+   [
+    "Chimpanzees eat only plants.",
+    false,
+    "Chimpanzees also eat meat and hunt monkeys together, so they are omnivores."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Cow",
+     "Buffalo",
+     "Sheep",
+     "Giraffe"
+    ],
+    "Giraffe",
+    "The first three graze on grass near the ground. A giraffe browses leaves from tall trees."
+   ],
+   [
+    [
+     "Alarm calls",
+     "Keeping watch",
+     "Living in a herd",
+     "Building a web"
+    ],
+    "Building a web",
+    "The first three help prey stay alive. Building a web is a way of trapping prey."
+   ],
+   [
+    [
+     "Moth on bark",
+     "Stick insect on a twig",
+     "Tiger in tall grass",
+     "Peacock's tail"
+    ],
+    "Peacock's tail",
+    "The first three help the animal hide by matching the place. The peacock's tail is for showing off."
+   ],
+   [
+    [
+     "Crow",
+     "Chimpanzee",
+     "Human",
+     "Cow"
+    ],
+    "Cow",
+    "The first three eat both plants and animals. A cow eats only plants."
+   ],
+   [
+    [
+     "Cheetah running down prey",
+     "Dragonfly chasing insects",
+     "Eagle diving on prey",
+     "Spider waiting in a web"
+    ],
+    "Spider waiting in a web",
+    "The first three chase their prey. A spider builds a trap and lets prey come to her."
+   ]
+  ]
+ }
 }
