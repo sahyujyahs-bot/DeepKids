@@ -19,6 +19,10 @@
   "src": "media/img/sci.body.body-parts.L1/expl.4.jpg",
   "credit": "datadan, CC BY, via iNaturalist"
  },
+ "expl.5": {
+  "src": "media/img/sci.body.body-parts.L1/expl.5.jpg",
+  "drawn": true
+ },
  "flow.a1": {
   "src": "media/img/sci.body.body-parts.L1/flow.a1.jpg",
   "drawn": true
@@ -33,6 +37,10 @@
  },
  "flow.a4": {
   "src": "media/img/sci.body.body-parts.L1/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.body.body-parts.L1/flow.c1.jpg",
   "drawn": true
  },
  "flow.e1": {
