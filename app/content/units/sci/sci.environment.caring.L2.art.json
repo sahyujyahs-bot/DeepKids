@@ -11,6 +11,14 @@
   "src": "media/img/sci.environment.caring.L2/expl.2.jpg",
   "drawn": true
  },
+ "expl.3": {
+  "src": "media/img/sci.environment.caring.L2/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.environment.caring.L2/expl.4.jpg",
+  "drawn": true
+ },
  "flow.a1": {
   "src": "media/img/sci.environment.caring.L2/flow.a1.jpg",
   "drawn": true
@@ -23,12 +31,24 @@
   "src": "media/img/sci.environment.caring.L2/flow.a3.jpg",
   "drawn": true
  },
+ "flow.c1": {
+  "src": "media/img/sci.environment.caring.L2/flow.c1.jpg",
+  "drawn": true
+ },
  "flow.e1": {
   "src": "media/img/sci.environment.caring.L2/flow.e1.jpg",
   "drawn": true
  },
  "flow.e2": {
   "src": "media/img/sci.environment.caring.L2/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.g1": {
+  "src": "media/img/sci.environment.caring.L2/flow.g1.jpg",
+  "drawn": true
+ },
+ "flow.g2": {
+  "src": "media/img/sci.environment.caring.L2/flow.g2.jpg",
   "drawn": true
  },
  "flow.p1": {
@@ -117,6 +137,10 @@
  },
  "setup.p1.1": {
   "src": "media/img/sci.environment.caring.L2/setup.p1.1.jpg",
+  "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.environment.caring.L2/summary.jpg",
   "drawn": true
  },
  "term.0": {

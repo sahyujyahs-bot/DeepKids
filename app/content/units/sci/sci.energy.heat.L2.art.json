@@ -1,11 +1,27 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.energy.heat.L2/expl.0.jpg",
+  "drawn": true
+ },
  "expl.1": {
   "src": "media/img/sci.energy.heat.L2/expl.1.jpg",
   "credit": "NASA/SDO/AIA, public domain"
  },
+ "expl.2": {
+  "src": "media/img/sci.energy.heat.L2/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.energy.heat.L2/expl.3.jpg",
+  "drawn": true
+ },
  "expl.4": {
   "src": "media/img/sci.energy.heat.L2/expl.4.jpg",
   "drawn": true
+ },
+ "expl.6": {
+  "src": "media/img/sci.energy.heat.L2/expl.6.jpg",
+  "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
  },
  "flow.a1": {
   "src": "media/img/sci.energy.heat.L2/flow.a1.jpg",
@@ -15,12 +31,28 @@
   "src": "media/img/sci.energy.heat.L2/flow.a2.jpg",
   "drawn": true
  },
+ "flow.a3": {
+  "src": "media/img/sci.energy.heat.L2/flow.a3.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.energy.heat.L2/flow.c1.jpg",
+  "drawn": true
+ },
+ "flow.c2": {
+  "src": "media/img/sci.energy.heat.L2/flow.c2.jpg",
+  "drawn": true
+ },
  "flow.e1": {
   "src": "media/img/sci.energy.heat.L2/flow.e1.jpg",
   "drawn": true
  },
  "flow.e2": {
   "src": "media/img/sci.energy.heat.L2/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.g1": {
+  "src": "media/img/sci.energy.heat.L2/flow.g1.jpg",
   "drawn": true
  },
  "flow.p1": {
@@ -107,6 +139,14 @@
   "src": "media/img/sci.energy.heat.L2/term.0.jpg",
   "drawn": true
  },
+ "term.1": {
+  "src": "media/img/sci.energy.heat.L2/term.1.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.energy.heat.L2/term.2.jpg",
+  "drawn": true
+ },
  "term.3": {
   "src": "media/img/sci.energy.heat.L2/term.3.jpg",
   "drawn": true
@@ -117,6 +157,10 @@
  },
  "term.5": {
   "src": "media/img/sci.energy.heat.L2/term.5.jpg",
+  "drawn": true
+ },
+ "term.6": {
+  "src": "media/img/sci.energy.heat.L2/term.6.jpg",
   "drawn": true
  },
  "term.7": {

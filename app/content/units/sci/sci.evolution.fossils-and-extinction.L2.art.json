@@ -1,4 +1,20 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.evolution.fossils-and-extinction.L2/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.evolution.fossils-and-extinction.L2/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.evolution.fossils-and-extinction.L2/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.evolution.fossils-and-extinction.L2/expl.4.jpg",
+  "drawn": true
+ },
  "expl.5": {
   "src": "media/img/sci.evolution.fossils-and-extinction.L2/expl.5.jpg",
   "credit": "Parth Kansara, CC BY, via iNaturalist"
@@ -11,9 +27,17 @@
   "src": "media/img/sci.evolution.fossils-and-extinction.L2/flow.a2.jpg",
   "drawn": true
  },
+ "flow.c1": {
+  "src": "media/img/sci.evolution.fossils-and-extinction.L2/flow.c1.jpg",
+  "drawn": true
+ },
  "flow.e1": {
   "src": "media/img/sci.evolution.fossils-and-extinction.L2/flow.e1.jpg",
   "drawn": true
+ },
+ "flow.g2": {
+  "src": "media/img/sci.evolution.fossils-and-extinction.L2/flow.g2.jpg",
+  "credit": "Photos: Paul Asman (mugger crocodile), avocat (house crow), Paulmathi Vinod (Indian star tortoise); CC BY, via iNaturalist"
  },
  "flow.p1": {
   "src": "media/img/sci.evolution.fossils-and-extinction.L2/flow.p1.jpg",
