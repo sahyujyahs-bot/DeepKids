@@ -931,7 +931,7 @@ function todoView() {
     O.soon
       .map(
         (x) =>
-          `<div class="pk"><span class="eyebrow">${esc(fmt(x.date))} · ${esc(chT(x.u))} · ${x.z > x.n ? `Parts ${x.n}–${x.z}` : `Part ${x.n}`}</span><b>${esc(x.e.title)}</b>${x.e.time ? `<p class="xs muted">${esc(x.e.time)}</p>` : ""}${x.e.need?.length ? `<p class="xs"><b>Get ready:</b> ${x.e.need.map(esc).join(", ")}</p>` : ""}${x.prep.map((q) => `<p class="xs"><b>Prep (${esc(q.when)}):</b> ${esc(q.task)}</p>`).join("")}${taskLine(x.u, x.e.id, x.e.title)}</div>`,
+          `<div class="pk"><span class="eyebrow">${esc(fmt(x.date))} · ${esc(chT(x.u))} · ${x.z > x.n ? `Parts ${x.n}–${x.z}` : `Part ${x.n}`}</span><b>${esc(x.e.title)}</b>${x.e.time ? `<p class="xs muted">${esc(x.e.time)}</p>` : ""}${x.e.need?.length ? needList(x.e.need, "xs") : ""}${x.prep.map((q) => `<p class="xs"><b>Prep (${esc(q.when)}):</b> ${esc(q.task)}</p>`).join("")}${taskLine(x.u, x.e.id, x.e.title)}</div>`,
       )
       .join(""),
     "Nothing multi-part starts in the next four weeks.",
