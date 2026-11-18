@@ -11,9 +11,21 @@
   "src": "media/img/sci.day-night-seasons.day-and-night.L3/expl.10.jpg",
   "credit": "NASA/JPL, public domain"
  },
+ "expl.11": {
+  "src": "media/img/sci.day-night-seasons.day-and-night.L3/expl.11.jpg",
+  "drawn": true
+ },
  "expl.12": {
   "src": "media/img/sci.day-night-seasons.day-and-night.L3/expl.12.jpg",
   "credit": "KPNO/NOIRLab/NSF/AURA/P. Horálek (Institute of Physics in Opava), CC BY 4.0, via Wikimedia Commons"
+ },
+ "expl.13": {
+  "src": "media/img/sci.day-night-seasons.day-and-night.L3/expl.13.jpg",
+  "drawn": true
+ },
+ "expl.14": {
+  "src": "media/img/sci.day-night-seasons.day-and-night.L3/expl.14.jpg",
+  "drawn": true
  },
  "expl.15": {
   "src": "media/img/sci.day-night-seasons.day-and-night.L3/expl.15.jpg",
@@ -41,6 +53,18 @@
  },
  "expl.6": {
   "src": "media/img/sci.day-night-seasons.day-and-night.L3/expl.6.jpg",
+  "drawn": true
+ },
+ "expl.7": {
+  "src": "media/img/sci.day-night-seasons.day-and-night.L3/expl.7.jpg",
+  "drawn": true
+ },
+ "expl.8": {
+  "src": "media/img/sci.day-night-seasons.day-and-night.L3/expl.8.jpg",
+  "drawn": true
+ },
+ "expl.9": {
+  "src": "media/img/sci.day-night-seasons.day-and-night.L3/expl.9.jpg",
   "drawn": true
  },
  "flow.a1": {
@@ -85,6 +109,14 @@
  },
  "flow.e3": {
   "src": "media/img/sci.day-night-seasons.day-and-night.L3/flow.e3.jpg",
+  "drawn": true
+ },
+ "flow.g1": {
+  "src": "media/img/sci.day-night-seasons.day-and-night.L3/flow.g1.jpg",
+  "drawn": true
+ },
+ "flow.g2": {
+  "src": "media/img/sci.day-night-seasons.day-and-night.L3/flow.g2.jpg",
   "drawn": true
  },
  "flow.p1": {

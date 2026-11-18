@@ -1,4 +1,8 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.community.transport-and-communication.L3/expl.0.jpg",
+  "drawn": true
+ },
  "expl.1": {
   "src": "media/img/sci.community.transport-and-communication.L3/expl.1.jpg",
   "drawn": true
@@ -9,6 +13,14 @@
  },
  "expl.3": {
   "src": "media/img/sci.community.transport-and-communication.L3/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.community.transport-and-communication.L3/expl.4.jpg",
+  "drawn": true
+ },
+ "expl.5": {
+  "src": "media/img/sci.community.transport-and-communication.L3/expl.5.jpg",
   "drawn": true
  },
  "expl.6": {
@@ -61,6 +73,14 @@
  },
  "flow.e2": {
   "src": "media/img/sci.community.transport-and-communication.L3/flow.e2.jpg",
+  "drawn": true
+ },
+ "flow.g1": {
+  "src": "media/img/sci.community.transport-and-communication.L3/flow.g1.jpg",
+  "drawn": true
+ },
+ "flow.g2": {
+  "src": "media/img/sci.community.transport-and-communication.L3/flow.g2.jpg",
   "drawn": true
  },
  "flow.p1": {
@@ -223,6 +243,10 @@
   "src": "media/img/sci.community.transport-and-communication.L3/term.14.jpg",
   "drawn": true
  },
+ "term.15": {
+  "src": "media/img/sci.community.transport-and-communication.L3/term.15.jpg",
+  "drawn": true
+ },
  "term.16": {
   "src": "media/img/sci.community.transport-and-communication.L3/term.16.jpg",
   "drawn": true
@@ -241,6 +265,10 @@
  },
  "term.5": {
   "src": "media/img/sci.community.transport-and-communication.L3/term.5.jpg",
+  "drawn": true
+ },
+ "term.6": {
+  "src": "media/img/sci.community.transport-and-communication.L3/term.6.jpg",
   "drawn": true
  },
  "term.7": {
