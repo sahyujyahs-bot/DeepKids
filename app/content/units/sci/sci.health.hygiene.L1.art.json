@@ -1,6 +1,22 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.health.hygiene.L1/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.health.hygiene.L1/expl.1.jpg",
+  "drawn": true
+ },
  "expl.2": {
   "src": "media/img/sci.health.hygiene.L1/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.health.hygiene.L1/expl.3.jpg",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.health.hygiene.L1/expl.4.jpg",
   "drawn": true
  },
  "flow.a1": {
@@ -33,6 +49,10 @@
  },
  "flow.p1": {
   "src": "media/img/sci.health.hygiene.L1/flow.p1.jpg",
+  "drawn": true
+ },
+ "intro": {
+  "src": "media/img/sci.health.hygiene.L1/intro.jpg",
   "drawn": true
  },
  "setup.a1.0": {
@@ -135,8 +155,20 @@
   "src": "media/img/sci.health.hygiene.L1/setup.p1.1.jpg",
   "drawn": true
  },
+ "term.0": {
+  "src": "media/img/sci.health.hygiene.L1/term.0.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.health.hygiene.L1/term.1.jpg",
+  "drawn": true
+ },
  "term.2": {
   "src": "media/img/sci.health.hygiene.L1/term.2.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.health.hygiene.L1/term.3.jpg",
   "drawn": true
  },
  "term.4": {

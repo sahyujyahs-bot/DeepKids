@@ -3,6 +3,10 @@
   "src": "media/img/sci.light.light-sources.L1/expl.0.jpg",
   "credit": "NASA/JPL-Caltech/GSFC/JAXA, public domain"
  },
+ "expl.1": {
+  "src": "media/img/sci.light.light-sources.L1/expl.1.jpg",
+  "drawn": true
+ },
  "expl.2": {
   "src": "media/img/sci.light.light-sources.L1/expl.2.jpg",
   "drawn": true
@@ -135,8 +139,20 @@
   "src": "media/img/sci.light.light-sources.L1/summary.jpg",
   "credit": "Richa Yadav, CC BY 2.0, via Wikimedia Commons"
  },
+ "term.0": {
+  "src": "media/img/sci.light.light-sources.L1/term.0.jpg",
+  "drawn": true
+ },
  "term.1": {
   "src": "media/img/sci.light.light-sources.L1/term.1.jpg",
+  "drawn": true
+ },
+ "term.2": {
+  "src": "media/img/sci.light.light-sources.L1/term.2.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.light.light-sources.L1/term.3.jpg",
   "drawn": true
  }
 }

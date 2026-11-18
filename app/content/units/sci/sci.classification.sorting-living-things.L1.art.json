@@ -1,4 +1,20 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.classification.sorting-living-things.L1/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.classification.sorting-living-things.L1/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.classification.sorting-living-things.L1/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.classification.sorting-living-things.L1/expl.3.jpg",
+  "drawn": true
+ },
  "flow.a1": {
   "src": "media/img/sci.classification.sorting-living-things.L1/flow.a1.jpg",
   "credit": "haemanthus, CC BY, via iNaturalist"
@@ -10,6 +26,10 @@
  "flow.a3": {
   "src": "media/img/sci.classification.sorting-living-things.L1/flow.a3.jpg",
   "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+ },
+ "flow.c1": {
+  "src": "media/img/sci.classification.sorting-living-things.L1/flow.c1.jpg",
+  "drawn": true
  },
  "flow.e1": {
   "src": "media/img/sci.classification.sorting-living-things.L1/flow.e1.jpg",
@@ -95,12 +115,24 @@
   "src": "media/img/sci.classification.sorting-living-things.L1/summary.jpg",
   "credit": "sunnyjosef, CC BY, via iNaturalist"
  },
+ "term.0": {
+  "src": "media/img/sci.classification.sorting-living-things.L1/term.0.jpg",
+  "drawn": true
+ },
  "term.1": {
   "src": "media/img/sci.classification.sorting-living-things.L1/term.1.jpg",
   "drawn": true
  },
  "term.2": {
   "src": "media/img/sci.classification.sorting-living-things.L1/term.2.jpg",
+  "drawn": true
+ },
+ "term.3": {
+  "src": "media/img/sci.classification.sorting-living-things.L1/term.3.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.classification.sorting-living-things.L1/term.4.jpg",
   "drawn": true
  }
 }

@@ -1,4 +1,8 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.plants.plant-parts.L1/expl.0.jpg",
+  "drawn": true
+ },
  "expl.1": {
   "src": "media/img/sci.plants.plant-parts.L1/expl.1.jpg",
   "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
@@ -34,6 +38,10 @@
  "flow.a3": {
   "src": "media/img/sci.plants.plant-parts.L1/flow.a3.jpg",
   "credit": "Sham dattatray chavhan, CC0, via iNaturalist"
+ },
+ "flow.c1": {
+  "src": "media/img/sci.plants.plant-parts.L1/flow.c1.jpg",
+  "drawn": true
  },
  "flow.e1": {
   "src": "media/img/sci.plants.plant-parts.L1/flow.e1.jpg",
@@ -122,6 +130,10 @@
  "summary": {
   "src": "media/img/sci.plants.plant-parts.L1/summary.jpg",
   "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+ },
+ "term.0": {
+  "src": "media/img/sci.plants.plant-parts.L1/term.0.jpg",
+  "drawn": true
  },
  "term.1": {
   "src": "media/img/sci.plants.plant-parts.L1/term.1.jpg",

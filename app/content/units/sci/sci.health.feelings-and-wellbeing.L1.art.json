@@ -1,4 +1,20 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.health.feelings-and-wellbeing.L1/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.health.feelings-and-wellbeing.L1/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.health.feelings-and-wellbeing.L1/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.health.feelings-and-wellbeing.L1/expl.3.jpg",
+  "drawn": true
+ },
  "expl.4": {
   "src": "media/img/sci.health.feelings-and-wellbeing.L1/expl.4.jpg",
   "drawn": true
@@ -119,6 +135,10 @@
   "src": "media/img/sci.health.feelings-and-wellbeing.L1/setup.p1.1.jpg",
   "drawn": true
  },
+ "summary": {
+  "src": "media/img/sci.health.feelings-and-wellbeing.L1/summary.jpg",
+  "drawn": true
+ },
  "term.0": {
   "src": "media/img/sci.health.feelings-and-wellbeing.L1/term.0.jpg",
   "drawn": true
@@ -133,6 +153,10 @@
  },
  "term.3": {
   "src": "media/img/sci.health.feelings-and-wellbeing.L1/term.3.jpg",
+  "drawn": true
+ },
+ "term.4": {
+  "src": "media/img/sci.health.feelings-and-wellbeing.L1/term.4.jpg",
   "drawn": true
  }
 }

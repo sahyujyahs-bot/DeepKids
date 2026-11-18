@@ -1,6 +1,26 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/expl.1.jpg",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/expl.2.jpg",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/expl.3.jpg",
+  "drawn": true
+ },
  "flow.a1": {
   "src": "media/img/sci.motion.kinds-of-motion.L1/flow.a1.jpg",
+  "drawn": true
+ },
+ "flow.a2": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/flow.a2.jpg",
   "drawn": true
  },
  "flow.a3": {
@@ -121,6 +141,14 @@
  },
  "setup.p1.2": {
   "src": "media/img/sci.motion.kinds-of-motion.L1/setup.p1.2.jpg",
+  "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/summary.jpg",
+  "drawn": true
+ },
+ "term.0": {
+  "src": "media/img/sci.motion.kinds-of-motion.L1/term.0.jpg",
   "drawn": true
  },
  "term.1": {
