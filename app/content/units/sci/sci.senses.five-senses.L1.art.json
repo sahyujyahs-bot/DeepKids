@@ -1,4 +1,12 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.senses.five-senses.L1/expl.0.jpg",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.senses.five-senses.L1/expl.1.jpg",
+  "drawn": true
+ },
  "expl.2": {
   "src": "media/img/sci.senses.five-senses.L1/expl.2.jpg",
   "drawn": true
@@ -21,6 +29,10 @@
  },
  "flow.a4": {
   "src": "media/img/sci.senses.five-senses.L1/flow.a4.jpg",
+  "drawn": true
+ },
+ "flow.c1": {
+  "src": "media/img/sci.senses.five-senses.L1/flow.c1.jpg",
   "drawn": true
  },
  "flow.e1": {
@@ -114,6 +126,14 @@
  "summary": {
   "src": "media/img/sci.senses.five-senses.L1/summary.jpg",
   "credit": "Jeanene Arrington-Fisher, CC BY, via iNaturalist"
+ },
+ "term.0": {
+  "src": "media/img/sci.senses.five-senses.L1/term.0.jpg",
+  "drawn": true
+ },
+ "term.1": {
+  "src": "media/img/sci.senses.five-senses.L1/term.1.jpg",
+  "drawn": true
  },
  "term.2": {
   "src": "media/img/sci.senses.five-senses.L1/term.2.jpg",
