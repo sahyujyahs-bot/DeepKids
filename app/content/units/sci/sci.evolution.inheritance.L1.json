@@ -210,7 +210,7 @@
    "title": "Coin Babies: make babies for two Gumbis",
    "mins": 20,
    "players": "1 to 4 children and a grown-up",
-   "context": "This is a pretend game about inheriting. Two made-up creatures, Amma Gumbi and Appa Gumbi, have babies. For each feature, a coin decides which parent the baby takes after. Then you draw the baby.",
+   "context": "This is a pretend game about inheriting. Two made-up creatures, Amma Gumbi and Appa Gumbi, have babies. For each feature, a coin decides which parent the baby takes after. You will find out whether babies with the same two parents come out the same.",
    "printables": [
     {
      "kind": "cards",
@@ -250,10 +250,10 @@
      "kind": "score sheet",
      "title": "4 baby record boxes to cut out",
      "items": [
-      "Baby 1. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Draw the baby here.",
-      "Baby 2. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Draw the baby here.",
-      "Baby 3. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Draw the baby here.",
-      "Baby 4. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Draw the baby here."
+      "Baby 1. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Baby name: ___. Draw the baby here if you like.",
+      "Baby 2. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Baby name: ___. Draw the baby here if you like.",
+      "Baby 3. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Baby name: ___. Draw the baby here if you like.",
+      "Baby 4. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Baby name: ___. Draw the baby here if you like."
      ]
     }
    ],
@@ -262,9 +262,9 @@
     "Put the five feature cards in a pile. You need one coin.",
     "Take the top card. Toss the coin. Read the back of the card to see which feature the baby gets.",
     "Write that feature in the baby's record box. Do all five cards. That is one baby.",
-    "Draw the baby and give them a name.",
+    "Name the baby. Draw the baby, or tell a grown-up what they look like.",
     "Make four babies. With more children, take turns, and each child makes one baby.",
-    "Then put the drawings side by side. Are any two babies the same?"
+    "Then put the four record boxes side by side. Are any two babies the same?"
    ],
    "setup": [
     {
@@ -284,17 +284,17 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the five feature cards. 2. Help your child draw the two Gumbi parents at the top of a sheet.",
+     "do": "1. Cut out the five feature cards. 2. Help your child draw the two Gumbi parents at the top of a sheet, using the parent list.",
      "say": "These are two pretend creatures, Amma Gumbi and Appa Gumbi. They are going to have four babies. Each baby gets every feature from one parent or the other.",
-     "kid": "Meet Amma Gumbi and Appa Gumbi. They will have four babies.",
+     "kid": "Draw Amma Gumbi and Appa Gumbi from the list. They will have four babies.",
      "parent": "This game is a pretend model. Real children get thousands of features from their parents, and some features mix in more complicated ways. But the main idea is true: a baby gets some features from each parent. The coin stands for chance: a baby gets each feature from one parent or the other, and nobody plans which."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Your child takes a card and tosses the coin. 2. Read the back of the card aloud. 3. Your child writes or draws that feature in the baby's record box. 4. Do all five cards, then draw the whole baby.",
+     "do": "1. Your child takes a card and tosses the coin. 2. Read the back of the card aloud. 3. Your child writes that feature in the baby's record box. 4. Do all five cards. Then your child draws the baby, or tells you what the baby looks like.",
      "say": "Heads or tails? Heads, so this baby gets round ears, like Amma Gumbi. Next card. Toss again.",
-     "kid": "Toss the coin. Find out which feature the baby gets. Draw it.",
+     "kid": "Toss the coin. Which parent does the baby take after? Write the feature in the box.",
      "ask": [
       {
        "q": "Before you toss, can you guess which ears this baby will get?",
@@ -308,9 +308,9 @@
     {
      "id": "s3",
      "mins": 11,
-     "do": "1. Make three more babies the same way. With more children, each child makes a baby in turn. 2. Lay all four drawings in a row. 3. Ask your child to compare them.",
+     "do": "1. Make three more babies the same way. With more children, each child makes a baby in turn. 2. Lay the four record boxes in a row. 3. Ask your child to count how many features each baby took from Amma Gumbi.",
      "say": "Look at all four babies. They all have the same Amma and Appa. Are any two babies the same? Does any baby look just like one parent?",
-     "kid": "Put the babies in a row. Are any two the same?",
+     "kid": "Line up the four babies. Count the features each took from Amma Gumbi.",
      "ask": [
       {
        "q": "Why are the babies different, when they have the same parents?",
@@ -354,7 +354,7 @@
    "title": "Alike Jump, Different Spin",
    "mins": 10,
    "players": "1 or more children and a grown-up",
-   "context": "This is a moving game. The grown-up names two beings or things. The child jumps and says one way they are alike, then spins and says one way they are different.",
+   "context": "This is a moving game. The grown-up names two beings or things. The child jumps and says one way they are alike, then spins and says one way they are different. You will find out that any two beings are alike in some ways and different in others.",
    "printables": [
     {
      "kind": "cards",
@@ -471,7 +471,7 @@
      "mins": 2,
      "do": "1. Cut out the cards and mix them. 2. Show your child how to play with the first card.",
      "say": "I will read two things. Jump and tell me one way they are alike. Then spin and tell me one way they are different.",
-     "kid": "Listen to two things. Jump and say how they are alike. Spin and say how they are different."
+     "kid": "Jump when the two are alike. Spin when they are different."
     },
     {
      "id": "s2",
@@ -494,8 +494,8 @@
      "id": "s3",
      "mins": 1,
      "do": "Ask the last question and let your child think.",
-     "say": "That was the last card. Think back over all of them.",
-     "kid": "Was any pair the same in every way?",
+     "say": "That was the last card. Let us think about all the pairs together.",
+     "kid": "Think back over the cards. What was alike, and what was different?",
      "ask": [
       {
        "q": "Was any pair on the cards exactly the same?",
@@ -521,14 +521,14 @@
    "title": "Pod Sisters and Brothers: are the peas in one pod all the same?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you open five pea pods. You line up the peas from each pod and draw round them. Then you find out what is the same about the peas, and what is different.",
+   "context": "In this experiment you open five pea pods. You line up the peas from each pod and count them. You will find out whether peas from one pod are all the same, and whether every pod holds the same number.",
    "question": "Are the peas from one pod all the same? Does every pod hold the same number of peas?",
    "predict": "Guess first. Will all the peas in one pod be the same size? Will every pod hold the same number of peas? Why do you think so?",
-   "fair_test": "All five pods come from the same bag, so they grew on the same kind of plant. We look at every pea the same way: we line the peas up and draw round each one. We open five pods, not one, because one pod could be unusual.",
+   "fair_test": "All five pods come from the same bag, so they grew on the same kind of plant. We look at every pea the same way: we line the peas up in the order they sat and count them. We open five pods, not one, because one pod could be unusual.",
    "results_table": [
     "Pod",
     "How many peas",
-    "Biggest and smallest pea, drawn round",
+    "Biggest and smallest pea (draw round them, or take a photo)",
     "Any two exactly the same?"
    ],
    "materials": [
@@ -553,10 +553,10 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Guess. Open five pods. Line up the peas, draw round them and count them. Then compare."
+     "what": "Guess. Open five pods. Line up the peas and count them. Find the biggest and smallest. Then compare."
     }
    ],
-   "record": "Draw the five pods in a row on the paper. Inside each pod, draw round the real peas, and write how many there were.",
+   "record": "Make a row of peas on the paper for each pod, and write how many there were. Draw round the biggest and smallest pea, or take a photo of your rows.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -600,7 +600,7 @@
     },
     {
      "art": "A row of green peas laid on white paper, with a pencil line drawn round each pea, some circles bigger than others.",
-     "caption": "2. Line up the peas in the order they sat. Draw round each one."
+     "caption": "2. Line up the peas in the order they sat."
     },
     {
      "art": "Five rows of peas on a white sheet, one row for each pod, with a number written at the end of each row.",
@@ -613,7 +613,7 @@
      "mins": 3,
      "do": "1. Show your child the five closed pods. 2. Ask for both guesses, and the reasons. 3. Write the guesses at the top of the paper.",
      "say": "These pods grew on pea plants. The peas inside are the plant's seeds, the plant's babies. Will all the peas in one pod be the same size? Will every pod hold the same number? Why do you think so?",
-     "kid": "The peas are the plant's babies. Are they all the same? Guess. Why do you think so?",
+     "kid": "Look at the five closed pods. Think about the peas inside.",
      "ask": [
       {
        "q": "Will all the peas in one pod be the same size?",
@@ -628,9 +628,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Your child presses along the curved edge of the first pod with both thumbs until the pod splits. 2. Lay the peas on the paper in a line, in the order they sat in the pod. 3. Your child draws round each pea with the pencil.",
-     "say": "Press here, along the edge. Did you hear the pop? Now put the peas in a row, the way they sat inside. Draw round each one.",
-     "kid": "Press the edge of the pod. Pop! Put the peas in a row. Draw round each pea.",
+     "do": "1. Your child presses along the curved edge of the first pod with both thumbs until the pod splits. 2. Lay the peas on the paper in a line, in the order they sat in the pod. 3. Ask your child what they notice about the row.",
+     "say": "Press here, along the edge. Did you hear the pop? Now put the peas in a row, the way they sat inside.",
+     "kid": "Open the pod. Line up the peas in the order they sat.",
      "ask": [
       {
        "q": "What do you notice about the peas from this pod?",
@@ -640,7 +640,7 @@
        ]
       }
      ],
-     "parent": "The pod opens most easily along the curved edge. Peas are soft, so hold the pencil lightly when drawing round them."
+     "parent": "The pod opens most easily along the curved edge. Peas roll, so work on a flat table."
     },
     {
      "id": "s3",
@@ -662,7 +662,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. Ask your child to find the biggest and the smallest pea of all. 2. Put them side by side. 3. Then ask your child to look for two peas that are exactly the same. 4. Use the magnifying glass, if you have one.",
+     "do": "1. Ask your child to find the biggest and the smallest pea of all. 2. Put them side by side. 3. Then ask your child to look for two peas that are exactly the same. 4. Use the magnifying glass, if you have one. 5. Draw round the biggest and smallest pea on the paper, or take a photo of them.",
      "say": "Can you find two peas that are exactly the same? Look at the size, the shape, the colour and any marks. Put them side by side and look very closely.",
      "kid": "Find the biggest pea. Find the smallest. Can you find two the same?",
      "ask": [
@@ -710,7 +710,7 @@
    "title": "Old Photos: which features came from my family?",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you look at photos of your family, old and new. You find features that you share with your parents or grandparents.",
+   "context": "In this activity you look at photos of your family, old and new. You find features that you share with your parents or grandparents. You will find out which of your features came from which person.",
    "materials": [
     {
      "item": "family photos on a phone or in an album: the child, the parents, and grandparents if you have them",
@@ -729,10 +729,10 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "Look at family photos. Find features you share. Draw yourself and colour the shared features."
+     "what": "Look at family photos. Find features you share. Draw yourself and colour the shared features, or make a list."
     }
    ],
-   "record": "A drawing of your face. Pick one colour for each person in your family. Colour each feature in the colour of the person you share it with.",
+   "record": "A drawing of your face. Pick one colour for each person in your family. Colour each feature in the colour of the person you share it with. Or make a list: each feature and the person it is like.",
    "setup": [
     {
      "art": "A mother and a daughter sitting close together looking at an old photo album and a phone, comparing faces.",
@@ -766,7 +766,7 @@
      "mins": 4,
      "do": "1. Look at an old photo of a grandparent when young, if you have one. 2. Ask whether your child has any feature that neither parent has, but a grandparent does.",
      "say": "Here is a grandparent when young. Do you see anything of yours in the face? Something your parents don't have?",
-     "kid": "Look at a grandparent when young. Do you have anything like them?",
+     "kid": "Look closely at the hair, the nose and the smile in the old photo.",
      "ask": [
       {
        "q": "Do you have a feature like a grandparent's?",
@@ -781,9 +781,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Your child draws their own face. 2. Pick one colour for each person. 3. Your child colours each shared feature in that person's colour. 4. Leave the features that are all their own in pencil.",
+     "do": "1. Your child draws their own face. If they would rather not draw, write a list of their features instead. 2. Pick one colour for each person. 3. Your child colours each shared feature in that person's colour. 4. Leave the features that are all their own in pencil.",
      "say": "Choose a colour for each parent. Colour each feature you share with them. Which features are all your own?",
-     "kid": "Draw your face. Colour the features you share. Which ones are only yours?",
+     "kid": "Draw your face and colour the features you share, or make a list. Which ones are only yours?",
      "ask": [
       {
        "q": "Did all your features come from one person?",
@@ -801,7 +801,7 @@
    "title": "Ask the Elders: who else in the family has it?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity your child asks a grandparent or another older relative about one feature in the family. Then your child draws a family line to show who has it.",
+   "context": "In this activity your child asks a grandparent or another older relative about one feature in the family. Then your child draws a family line to show who has it. You will find out whether the feature shows in every person or skips someone.",
    "materials": [
     {
      "item": "a phone to call a grandparent, aunt or uncle, or a relative at home",
@@ -819,7 +819,7 @@
      "what": "Choose a feature. Ask an elder who else in the family has it. Draw the family line."
     }
    ],
-   "record": "A family line with three rows: grandparents at the top, parents in the middle, children at the bottom. Colour everyone who has the feature.",
+   "record": "A family line with three rows: grandparents at the top, parents in the middle, children at the bottom. Colour everyone who has the feature, or put a coin on each slip.",
    "setup": [
     {
      "art": "A girl talking to her grandmother on a video call on a phone, pointing at her own curly hair.",
@@ -842,16 +842,16 @@
      "id": "s2",
      "mins": 4,
      "do": "Your child asks a grandparent or another older relative: who in the family has this feature? Write down the names for your child.",
-     "say": "Ask your grandparent: who in our family has a dimple? Did anyone have one long ago?",
-     "kid": "Ask an elder: who in our family has the feature you chose?",
+     "say": "Ask your grandparent: who in our family has this feature? Did anyone have it long ago?",
+     "kid": "Ask your grandparent about the feature. Listen to the names.",
      "parent": "Older relatives often love this question and remember features of people long gone. If no elder can be asked, use the family photos instead."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Draw three rows of circles: grandparents, parents, children. 2. Write a name by each circle for your child. 3. Your child colours everyone who has the feature.",
-     "say": "Colour everyone who has the feature. Does it show in every row? Did it skip anyone?",
-     "kid": "Colour everyone who has the feature. Did the feature skip anyone?",
+     "do": "1. Draw three rows of circles: grandparents, parents, children. Or write each name on a paper slip and lay the slips in three rows. 2. Write a name by each circle for your child. 3. Your child colours each circle, or puts a coin on each slip, for everyone who has the feature.",
+     "say": "Mark everyone who has the feature. Does it show in every row?",
+     "kid": "Mark who has the feature. Look along each row.",
      "ask": [
       {
        "q": "Did the feature show on every person in the line?",
@@ -871,7 +871,7 @@
    "title": "Mint Babies: a plant with only one parent",
    "mins": 18,
    "days": 14,
-   "context": "In this project you put stems of mint (pudina) from the vegetable bunch in water. Over about two weeks, the stems grow roots and become new plants. A mint plant grown this way has only one parent.",
+   "context": "In this project you put stems of mint (pudina) from the vegetable bunch in water. Over about two weeks, the stems grow roots and become new plants. You will find out whether a cut stem can grow into a whole new plant. A mint plant grown this way has only one parent.",
    "materials": [
     {
      "item": "a bunch of mint (pudina) from the vegetable shop",
@@ -905,7 +905,7 @@
     {
      "day": 8,
      "mins": 4,
-     "what": "Look for white roots. Draw them."
+     "what": "Look for white roots. Count them. Draw them if you like."
     },
     {
      "day": 14,
@@ -913,7 +913,7 @@
      "what": "Look at the new leaves. Smell them. Compare them with a fresh leaf from the same bunch. Plant the stems in soil, if you have a pot."
     }
    ],
-   "record": "Draw the stems on day 1, day 8 and day 14. Show the roots and the new leaves.",
+   "record": "Take a photo of the stems on day 1, day 8 and day 14, or draw them. On day 8, count the roots.",
    "setup": [
     {
      "art": "Three mint stems with their lower leaves pulled off, standing in a clear glass of water on a sunny windowsill.",
@@ -928,9 +928,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Pick 3 stems from the bunch with fresh green tops. 2. Pull off the leaves from the bottom half of each stem. 3. Stand them in the glass with water up to halfway. 4. Put the glass by a bright window, out of strong afternoon sun.",
+     "do": "1. Pick 3 stems from the bunch with fresh green tops. 2. Pull off the leaves from the bottom half of each stem. 3. Stand them in the glass with water up to halfway. 4. Put the glass by a bright window, out of strong afternoon sun. 5. Take a photo of the stems.",
      "say": "This mint stem came from one mint plant. Let us see if a stem can grow into a whole new plant. What do you think will happen?",
-     "kid": "Pull off the bottom leaves. Put the stems in water. What will happen?",
+     "kid": "Pull off the bottom leaves. Stand the stems in the water.",
      "parent": "Mint from the market usually roots in water within one to two weeks. Leaves under the water rot, so keep them above it."
     },
     {
@@ -944,9 +944,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Look for thin white roots on the stems. Your child draws them.",
+     "do": "Look for thin white roots on the stems. Your child counts them and draws them, or tells you what they see. Take a photo.",
      "say": "Look! White roots. The stem is growing into a new plant. Who is this new plant's parent?",
-     "kid": "Look for white roots. Draw them.",
+     "kid": "Look for white roots. Count them. Draw them, or tell your grown-up what you see.",
      "wait": "Come back on day 8.",
      "ask": [
       {
@@ -961,9 +961,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Look at the new leaves. 2. Rub one leaf and smell it. 3. Compare it with a leaf from the same bunch. 4. Plant the rooted stems in soil, if you have a pot.",
-     "say": "Smell this new leaf. Does it smell like mint? A plant grown from a stem has only one parent. So the new plant is almost a copy of that parent.",
-     "kid": "Smell the new leaf. Is it like the parent's leaf? If you have a pot, plant the stems in soil.",
+     "do": "1. Look at the new leaves. 2. Rub one leaf and smell it. 3. Compare it with a leaf from the same bunch. 4. Plant the rooted stems in soil, if you have a pot. 5. Take a photo of the stems.",
+     "say": "Smell this new leaf. Does it smell like mint? Now smell a leaf from the bunch. Are they alike?",
+     "kid": "Smell the new leaf. Is it like the leaf from the bunch? If you have a pot, plant the stems in soil.",
      "wait": "Come back on day 14.",
      "ask": [
       {
@@ -983,7 +983,7 @@
    "id": "c1",
    "title": "Design Three Babies",
    "mins": 20,
-   "context": "This is a design challenge. You draw two pretend parent creatures, Amma Starfish-Bird and Appa Starfish-Bird. Then you design three babies, so that each baby clearly comes from both parents and no two babies are the same.",
+   "context": "This is a design challenge. You draw two pretend parent creatures, Amma Starfish-Bird and Appa Starfish-Bird. Then you make three babies, so that each baby clearly comes from both parents and no two babies are the same. You will find out how many different babies two parents can have.",
    "problem": "Design three babies for Amma Starfish-Bird and Appa Starfish-Bird. Each baby must have features from both parents. No two babies may be the same.",
    "constraints": [
     "Every baby has at least one feature from each parent.",
@@ -998,7 +998,7 @@
    "general": [
     "Make a list of each parent's features first. Your grown-up can write it for you. Then pick some from each list for every baby.",
     "Give the first baby most of their features from Amma, and the second baby most from Appa. Give the third baby two features from each parent.",
-    "Draw the parents along the top and the babies below, with lines from each feature to the parent it came from."
+    "Put the parents along the top and the babies below. Draw a line from each feature to the parent it came from, or tell a grown-up."
    ],
    "creative": [
     "Give one baby a feature from a grandparent, which neither parent shows. Draw the grandparent too.",
@@ -1013,23 +1013,23 @@
     },
     {
      "art": "Three made-up baby creatures in a row under the parents, each with a different mix of crest, wings, colour and legs, joined by dotted lines to the parents.",
-     "caption": "2. Draw three babies with lines to the parents."
+     "caption": "2. Make three babies. Join each feature to its parent."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Draw the two parents together with your child. 2. Amma Starfish-Bird: orange, star-shaped, long legs, a crest on her head. 3. Appa Starfish-Bird: purple, round, short legs, big wings.",
+     "do": "1. Read out the features of the two parents. 2. Amma Starfish-Bird: orange, star-shaped, long legs, a crest on her head. 3. Appa Starfish-Bird: purple, round, short legs, big wings. 4. Your child draws the two parents, or just keeps the list.",
      "say": "These are two pretend parents. Let us list their features. What colour is Amma Starfish-Bird? What does Appa have that Amma does not?",
-     "kid": "Draw the two parents. Say each one's features."
+     "kid": "Say each parent's features back to your grown-up. Draw the parents if you like."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "Your child designs and draws three babies, choosing features from both parents for each one.",
+     "do": "Your child makes three babies, choosing features from both parents for each one. They cut feature shapes from paper or magazines and arrange them into a baby. Or they draw each baby.",
      "say": "Which features will this baby get from Amma? Which from Appa? Remember, no two babies can be the same.",
-     "kid": "Draw three babies. Give each one features from both parents.",
+     "kid": "Make three babies from cut shapes, or draw them. Give each one features from both parents.",
      "parent": "Let your child decide. If they draw a baby just like one parent, ask which feature they could take from the other parent."
     },
     {

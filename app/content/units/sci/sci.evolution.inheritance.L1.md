@@ -152,24 +152,24 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
 
 ## Games
 ### g1 · Coin Babies: make babies for two Gumbis (20 min)
-- **rules:** Draw Amma Gumbi and Appa Gumbi at the top of a sheet.; Put the five feature cards in a pile. You need one coin.; Take the top card. Toss the coin. Read the back of the card to see which feature the baby gets.; Write that feature in the baby's record box. Do all five cards. That is one baby.; Draw the baby and give them a name.; Make four babies. With more children, take turns, and each child makes one baby.; Then put the drawings side by side. Are any two babies the same?
+- **rules:** Draw Amma Gumbi and Appa Gumbi at the top of a sheet.; Put the five feature cards in a pile. You need one coin.; Take the top card. Toss the coin. Read the back of the card to see which feature the baby gets.; Write that feature in the baby's record box. Do all five cards. That is one baby.; Name the baby. Draw the baby, or tell a grown-up what they look like.; Make four babies. With more children, take turns, and each child makes one baby.; Then put the four record boxes side by side. Are any two babies the same?
 - **Printable cards: 5 feature cards to cut out:** Ears (back: Heads: round ears, like Amma Gumbi. Tails: pointy ears, like Appa Gumbi.); Body colour (back: Heads: blue, like Amma Gumbi. Tails: yellow, like Appa Gumbi.); Pattern (back: Heads: spots, like Amma Gumbi. Tails: stripes, like Appa Gumbi.); Eyes (back: Heads: three eyes, like Amma Gumbi. Tails: two eyes, like Appa Gumbi.); Tail (back: Heads: a curly tail, like Amma Gumbi. Tails: a straight tail, like Appa Gumbi.)
 - **Printable board: The two Gumbi parents, to draw on one sheet:** Amma Gumbi: a blue body with spots, round ears, three eyes and a curly tail.; Appa Gumbi: a yellow body with stripes, pointy ears, two eyes and a straight tail.
-- **Printable score sheet: 4 baby record boxes to cut out:** Baby 1. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Draw the baby here.; Baby 2. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Draw the baby here.; Baby 3. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Draw the baby here.; Baby 4. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Draw the baby here.
+- **Printable score sheet: 4 baby record boxes to cut out:** Baby 1. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Baby name: ___. Draw the baby here if you like.; Baby 2. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Baby name: ___. Draw the baby here if you like.; Baby 3. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Baby name: ___. Draw the baby here if you like.; Baby 4. Ears: ___  Body colour: ___  Pattern: ___  Eyes: ___  Tail: ___. Baby name: ___. Draw the baby here if you like.
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the five feature cards. 2. Help your child draw the two Gumbi parents at the top of a sheet.  
+  *Parent does:* 1. Cut out the five feature cards. 2. Help your child draw the two Gumbi parents at the top of a sheet, using the parent list.  
   *Parent says:* These are two pretend creatures, Amma Gumbi and Appa Gumbi. They are going to have four babies. Each baby gets every feature from one parent or the other.  
-  *Child mode:* Meet Amma Gumbi and Appa Gumbi. They will have four babies.
+  *Child mode:* Draw Amma Gumbi and Appa Gumbi from the list. They will have four babies.
   - Note: This game is a pretend model. Real children get thousands of features from their parents, and some features mix in more complicated ways. But the main idea is true: a baby gets some features from each parent. The coin stands for chance: a baby gets each feature from one parent or the other, and nobody plans which.
 - **s2 (6 min)**  
-  *Parent does:* 1. Your child takes a card and tosses the coin. 2. Read the back of the card aloud. 3. Your child writes or draws that feature in the baby's record box. 4. Do all five cards, then draw the whole baby.  
+  *Parent does:* 1. Your child takes a card and tosses the coin. 2. Read the back of the card aloud. 3. Your child writes that feature in the baby's record box. 4. Do all five cards. Then your child draws the baby, or tells you what the baby looks like.  
   *Parent says:* Heads or tails? Heads, so this baby gets round ears, like Amma Gumbi. Next card. Toss again.  
-  *Child mode:* Toss the coin. Find out which feature the baby gets. Draw it.
+  *Child mode:* Toss the coin. Which parent does the baby take after? Write the feature in the box.
   - Ask: Before you toss, can you guess which ears this baby will get? (good: No, the coin decides.; It could be either.)
 - **s3 (11 min)**  
-  *Parent does:* 1. Make three more babies the same way. With more children, each child makes a baby in turn. 2. Lay all four drawings in a row. 3. Ask your child to compare them.  
+  *Parent does:* 1. Make three more babies the same way. With more children, each child makes a baby in turn. 2. Lay the four record boxes in a row. 3. Ask your child to count how many features each baby took from Amma Gumbi.  
   *Parent says:* Look at all four babies. They all have the same Amma and Appa. Are any two babies the same? Does any baby look just like one parent?  
-  *Child mode:* Put the babies in a row. Are any two the same?
+  *Child mode:* Line up the four babies. Count the features each took from Amma Gumbi.
   - Ask: Why are the babies different, when they have the same parents? (good: Each baby got a different mix.; The coin gave each baby different features.)
   - Note: Two babies can come out the same by chance, because the coin decides. If that happens, say so, and toss for two more babies.
   - Check: In the Coin Babies game, four Gumbi babies had the same two parents. What did you find? → **Each baby had a different mix of features**
@@ -179,7 +179,7 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards and mix them. 2. Show your child how to play with the first card.  
   *Parent says:* I will read two things. Jump and tell me one way they are alike. Then spin and tell me one way they are different.  
-  *Child mode:* Listen to two things. Jump and say how they are alike. Spin and say how they are different.
+  *Child mode:* Jump when the two are alike. Spin when they are different.
 - **s2 (7 min)**  
   *Parent does:* Read the cards one by one. Let your child jump, spin and answer each time.  
   *Parent says:* Two peas from one pod. Jump! How are they alike? Now spin! How are they different?  
@@ -188,29 +188,29 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
   - Note: Accept any true answer. If your child gets stuck, read the back of the card as a hint.
 - **s3 (1 min)**  
   *Parent does:* Ask the last question and let your child think.  
-  *Parent says:* That was the last card. Think back over all of them.  
-  *Child mode:* Was any pair the same in every way?
+  *Parent says:* That was the last card. Let us think about all the pairs together.  
+  *Child mode:* Think back over the cards. What was alike, and what was different?
   - Ask: Was any pair on the cards exactly the same? (good: No, even twins and the two peas were different.; No, everything had something different.)
 
 ## Experiments
 ### e1 · Pod Sisters and Brothers: are the peas in one pod all the same? (25 min)
 - **question:** Are the peas from one pod all the same? Does every pod hold the same number of peas?
 - **predict:** Guess first. Will all the peas in one pod be the same size? Will every pod hold the same number of peas? Why do you think so?
-- **fair test:** All five pods come from the same bag, so they grew on the same kind of plant. We look at every pea the same way: we line the peas up and draw round each one. We open five pods, not one, because one pod could be unusual.
-- **record:** Draw the five pods in a row on the paper. Inside each pod, draw round the real peas, and write how many there were.
-- **results table:** Pod | How many peas | Biggest and smallest pea, drawn round | Any two exactly the same?
+- **fair test:** All five pods come from the same bag, so they grew on the same kind of plant. We look at every pea the same way: we line the peas up in the order they sat and count them. We open five pods, not one, because one pod could be unusual.
+- **record:** Make a row of peas on the paper for each pod, and write how many there were. Draw round the biggest and smallest pea, or take a photo of your rows.
+- **results table:** Pod | How many peas | Biggest and smallest pea (draw round them, or take a photo) | Any two exactly the same?
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the five closed pods. 2. Ask for both guesses, and the reasons. 3. Write the guesses at the top of the paper.  
   *Parent says:* These pods grew on pea plants. The peas inside are the plant's seeds, the plant's babies. Will all the peas in one pod be the same size? Will every pod hold the same number? Why do you think so?  
-  *Child mode:* The peas are the plant's babies. Are they all the same? Guess. Why do you think so?
+  *Child mode:* Look at the five closed pods. Think about the peas inside.
   - Ask: Will all the peas in one pod be the same size? (good: Yes, because they came from one plant.; No, because some peas are always small.)
   - Note: Many children guess that peas from one pod are all the same, because they look alike at first. Any guess is fine. Write it down and say nothing yet.
 - **s2 (5 min)**  
-  *Parent does:* 1. Your child presses along the curved edge of the first pod with both thumbs until the pod splits. 2. Lay the peas on the paper in a line, in the order they sat in the pod. 3. Your child draws round each pea with the pencil.  
-  *Parent says:* Press here, along the edge. Did you hear the pop? Now put the peas in a row, the way they sat inside. Draw round each one.  
-  *Child mode:* Press the edge of the pod. Pop! Put the peas in a row. Draw round each pea.
+  *Parent does:* 1. Your child presses along the curved edge of the first pod with both thumbs until the pod splits. 2. Lay the peas on the paper in a line, in the order they sat in the pod. 3. Ask your child what they notice about the row.  
+  *Parent says:* Press here, along the edge. Did you hear the pop? Now put the peas in a row, the way they sat inside.  
+  *Child mode:* Open the pod. Line up the peas in the order they sat.
   - Ask: What do you notice about the peas from this pod? (good: They are all green.; One is bigger than the others.)
-  - Note: The pod opens most easily along the curved edge. Peas are soft, so hold the pencil lightly when drawing round them.
+  - Note: The pod opens most easily along the curved edge. Peas roll, so work on a flat table.
 - **s3 (6 min)**  
   *Parent does:* 1. Open the other four pods the same way. 2. Make a new row on the paper for each pod's peas. 3. Count the peas in each row and write the number at the end.  
   *Parent says:* Let us count. How many peas did this pod hold? And this one? Are the numbers the same?  
@@ -218,7 +218,7 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
   - Ask: Did every pod hold the same number of peas? (good: No, one had 5 and one had 8.; No, they were all different.)
   - Note: Look for a tiny flat green speck in a pod. That is a pea that did not grow. Point it out, but count it separately.
 - **s4 (6 min)**  
-  *Parent does:* 1. Ask your child to find the biggest and the smallest pea of all. 2. Put them side by side. 3. Then ask your child to look for two peas that are exactly the same. 4. Use the magnifying glass, if you have one.  
+  *Parent does:* 1. Ask your child to find the biggest and the smallest pea of all. 2. Put them side by side. 3. Then ask your child to look for two peas that are exactly the same. 4. Use the magnifying glass, if you have one. 5. Draw round the biggest and smallest pea on the paper, or take a photo of them.  
   *Parent says:* Can you find two peas that are exactly the same? Look at the size, the shape, the colour and any marks. Put them side by side and look very closely.  
   *Child mode:* Find the biggest pea. Find the smallest. Can you find two the same?
   - Ask: What is the same about all the peas? (good: They are all green and round.; They are all peas.)
@@ -232,7 +232,7 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
 
 ## Activities
 ### a1 · Old Photos: which features came from my family? (12 min)
-- **record:** A drawing of your face. Pick one colour for each person in your family. Colour each feature in the colour of the person you share it with.
+- **record:** A drawing of your face. Pick one colour for each person in your family. Colour each feature in the colour of the person you share it with. Or make a list: each feature and the person it is like.
 - **s1 (4 min)**  
   *Parent does:* 1. Sit together with the photos. 2. Find a photo of each parent, and of a grandparent if you can. 3. Ask your child to look at one feature at a time. Try the hair, the eyes, the eyebrows, the nose, the ears and the smile.  
   *Parent says:* Let us be detectives. Look at a parent's eyebrows in this photo. Now look at yours in the mirror. Are they the same shape? Now let us look at the ears.  
@@ -242,39 +242,39 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
 - **s2 (4 min)**  
   *Parent does:* 1. Look at an old photo of a grandparent when young, if you have one. 2. Ask whether your child has any feature that neither parent has, but a grandparent does.  
   *Parent says:* Here is a grandparent when young. Do you see anything of yours in the face? Something your parents don't have?  
-  *Child mode:* Look at a grandparent when young. Do you have anything like them?
+  *Child mode:* Look closely at the hair, the nose and the smile in the old photo.
   - Ask: Do you have a feature like a grandparent's? (good: My curly hair is like my grandfather's.; My nose is like my grandmother's.)
   - Note: Not every family finds a feature like this. That is fine. The point is to look closely and compare.
 - **s3 (4 min)**  
-  *Parent does:* 1. Your child draws their own face. 2. Pick one colour for each person. 3. Your child colours each shared feature in that person's colour. 4. Leave the features that are all their own in pencil.  
+  *Parent does:* 1. Your child draws their own face. If they would rather not draw, write a list of their features instead. 2. Pick one colour for each person. 3. Your child colours each shared feature in that person's colour. 4. Leave the features that are all their own in pencil.  
   *Parent says:* Choose a colour for each parent. Colour each feature you share with them. Which features are all your own?  
-  *Child mode:* Draw your face. Colour the features you share. Which ones are only yours?
+  *Child mode:* Draw your face and colour the features you share, or make a list. Which ones are only yours?
   - Ask: Did all your features come from one person? (good: No, some from my mother and some from my father.; No, I am a mix.)
 ### a2 · Ask the Elders: who else in the family has it? (10 min)
-- **record:** A family line with three rows: grandparents at the top, parents in the middle, children at the bottom. Colour everyone who has the feature.
+- **record:** A family line with three rows: grandparents at the top, parents in the middle, children at the bottom. Colour everyone who has the feature, or put a coin on each slip.
 - **s1 (2 min)**  
   *Parent does:* Help your child choose one feature that is easy to see. Good ones are curly hair, thick eyebrows, a dimple or a round face.  
   *Parent says:* Let us choose one feature to follow through our family. Which one shall we choose?  
   *Child mode:* Choose one feature. Curls? A dimple? Thick eyebrows?
 - **s2 (4 min)**  
   *Parent does:* Your child asks a grandparent or another older relative: who in the family has this feature? Write down the names for your child.  
-  *Parent says:* Ask your grandparent: who in our family has a dimple? Did anyone have one long ago?  
-  *Child mode:* Ask an elder: who in our family has the feature you chose?
+  *Parent says:* Ask your grandparent: who in our family has this feature? Did anyone have it long ago?  
+  *Child mode:* Ask your grandparent about the feature. Listen to the names.
   - Note: Older relatives often love this question and remember features of people long gone. If no elder can be asked, use the family photos instead.
 - **s3 (4 min)**  
-  *Parent does:* 1. Draw three rows of circles: grandparents, parents, children. 2. Write a name by each circle for your child. 3. Your child colours everyone who has the feature.  
-  *Parent says:* Colour everyone who has the feature. Does it show in every row? Did it skip anyone?  
-  *Child mode:* Colour everyone who has the feature. Did the feature skip anyone?
+  *Parent does:* 1. Draw three rows of circles: grandparents, parents, children. Or write each name on a paper slip and lay the slips in three rows. 2. Write a name by each circle for your child. 3. Your child colours each circle, or puts a coin on each slip, for everyone who has the feature.  
+  *Parent says:* Mark everyone who has the feature. Does it show in every row?  
+  *Child mode:* Mark who has the feature. Look along each row.
   - Ask: Did the feature show on every person in the line? (good: No, my mother doesn't have it, but my grandmother and I do.; Yes, everyone has it.)
 
 ## Projects
 ### p1 · Mint Babies: a plant with only one parent (18 min, 14 days)
-- **record:** Draw the stems on day 1, day 8 and day 14. Show the roots and the new leaves.
-- **schedule:** day 1: Pick 3 fresh stems. Pull off the lower leaves. Stand the stems in a glass of water by a bright window. (6 min); day 4: Change the water. Look at the bottom of the stems. (3 min); day 8: Look for white roots. Draw them. (4 min); day 14: Look at the new leaves. Smell them. Compare them with a fresh leaf from the same bunch. Plant the stems in soil, if you have a pot. (5 min)
+- **record:** Take a photo of the stems on day 1, day 8 and day 14, or draw them. On day 8, count the roots.
+- **schedule:** day 1: Pick 3 fresh stems. Pull off the lower leaves. Stand the stems in a glass of water by a bright window. (6 min); day 4: Change the water. Look at the bottom of the stems. (3 min); day 8: Look for white roots. Count them. Draw them if you like. (4 min); day 14: Look at the new leaves. Smell them. Compare them with a fresh leaf from the same bunch. Plant the stems in soil, if you have a pot. (5 min)
 - **s1 (6 min)**  
-  *Parent does:* 1. Pick 3 stems from the bunch with fresh green tops. 2. Pull off the leaves from the bottom half of each stem. 3. Stand them in the glass with water up to halfway. 4. Put the glass by a bright window, out of strong afternoon sun.  
+  *Parent does:* 1. Pick 3 stems from the bunch with fresh green tops. 2. Pull off the leaves from the bottom half of each stem. 3. Stand them in the glass with water up to halfway. 4. Put the glass by a bright window, out of strong afternoon sun. 5. Take a photo of the stems.  
   *Parent says:* This mint stem came from one mint plant. Let us see if a stem can grow into a whole new plant. What do you think will happen?  
-  *Child mode:* Pull off the bottom leaves. Put the stems in water. What will happen?
+  *Child mode:* Pull off the bottom leaves. Stand the stems in the water.
   - Note: Mint from the market usually roots in water within one to two weeks. Leaves under the water rot, so keep them above it.
 - **s2 (3 min)**  
   *Parent does:* 1. Pour out the old water. 2. Pour in fresh water. 3. Look closely at the bottom of the stems.  
@@ -282,16 +282,16 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
   *Child mode:* Change the water. Look at the bottom of the stems.
   - Wait: Come back on day 4.
 - **s3 (4 min)**  
-  *Parent does:* Look for thin white roots on the stems. Your child draws them.  
+  *Parent does:* Look for thin white roots on the stems. Your child counts them and draws them, or tells you what they see. Take a photo.  
   *Parent says:* Look! White roots. The stem is growing into a new plant. Who is this new plant's parent?  
-  *Child mode:* Look for white roots. Draw them.
+  *Child mode:* Look for white roots. Count them. Draw them, or tell your grown-up what you see.
   - Ask: How many parents does this new mint plant have? (good: One, the mint plant the stem came from.)
   - Note: If no roots show by day 10, the stems may have been old. Try again with a fresh bunch.
   - Wait: Come back on day 8.
 - **s4 (5 min)**  
-  *Parent does:* 1. Look at the new leaves. 2. Rub one leaf and smell it. 3. Compare it with a leaf from the same bunch. 4. Plant the rooted stems in soil, if you have a pot.  
-  *Parent says:* Smell this new leaf. Does it smell like mint? A plant grown from a stem has only one parent. So the new plant is almost a copy of that parent.  
-  *Child mode:* Smell the new leaf. Is it like the parent's leaf? If you have a pot, plant the stems in soil.
+  *Parent does:* 1. Look at the new leaves. 2. Rub one leaf and smell it. 3. Compare it with a leaf from the same bunch. 4. Plant the rooted stems in soil, if you have a pot. 5. Take a photo of the stems.  
+  *Parent says:* Smell this new leaf. Does it smell like mint? Now smell a leaf from the bunch. Are they alike?  
+  *Child mode:* Smell the new leaf. Is it like the leaf from the bunch? If you have a pot, plant the stems in soil.
   - Ask: Why is the new mint plant so like the parent? (good: The new plant has only one parent.; The new plant grew from a part of the parent.)
   - Wait: Come back on day 14.
 
@@ -300,16 +300,16 @@ That night the family ate pea kurma with soft idiyappam. Thenu looked at the pea
 - **problem:** Design three babies for Amma Starfish-Bird and Appa Starfish-Bird. Each baby must have features from both parents. No two babies may be the same.
 - **your turn:** Now invent your own two parent creatures, and design three babies for them. Ask someone to guess which feature came from which parent.
 - **constraints:** Every baby has at least one feature from each parent.; No two babies are the same.; Each baby is the same kind of creature as the parents.
-- **general:** Make a list of each parent's features first. Your grown-up can write it for you. Then pick some from each list for every baby.; Give the first baby most of their features from Amma, and the second baby most from Appa. Give the third baby two features from each parent.; Draw the parents along the top and the babies below, with lines from each feature to the parent it came from.
+- **general:** Make a list of each parent's features first. Your grown-up can write it for you. Then pick some from each list for every baby.; Give the first baby most of their features from Amma, and the second baby most from Appa. Give the third baby two features from each parent.; Put the parents along the top and the babies below. Draw a line from each feature to the parent it came from, or tell a grown-up.
 - **creative:** Give one baby a feature from a grandparent, which neither parent shows. Draw the grandparent too.; Make the babies grow up: draw one of them as a grown-up with babies of their own.; Cut feature shapes from paper so you can swap them around to make many more babies.
 - **s1 (4 min)**  
-  *Parent does:* 1. Draw the two parents together with your child. 2. Amma Starfish-Bird: orange, star-shaped, long legs, a crest on her head. 3. Appa Starfish-Bird: purple, round, short legs, big wings.  
+  *Parent does:* 1. Read out the features of the two parents. 2. Amma Starfish-Bird: orange, star-shaped, long legs, a crest on her head. 3. Appa Starfish-Bird: purple, round, short legs, big wings. 4. Your child draws the two parents, or just keeps the list.  
   *Parent says:* These are two pretend parents. Let us list their features. What colour is Amma Starfish-Bird? What does Appa have that Amma does not?  
-  *Child mode:* Draw the two parents. Say each one's features.
+  *Child mode:* Say each parent's features back to your grown-up. Draw the parents if you like.
 - **s2 (12 min)**  
-  *Parent does:* Your child designs and draws three babies, choosing features from both parents for each one.  
+  *Parent does:* Your child makes three babies, choosing features from both parents for each one. They cut feature shapes from paper or magazines and arrange them into a baby. Or they draw each baby.  
   *Parent says:* Which features will this baby get from Amma? Which from Appa? Remember, no two babies can be the same.  
-  *Child mode:* Draw three babies. Give each one features from both parents.
+  *Child mode:* Make three babies from cut shapes, or draw them. Give each one features from both parents.
   - Note: Let your child decide. If they draw a baby just like one parent, ask which feature they could take from the other parent.
 - **s3 (4 min)**  
   *Parent does:* Check the three rules together, one by one.  

@@ -226,7 +226,7 @@
    "title": "Fly, Float or Stay: a movement game about litter",
    "mins": 10,
    "players": "1 to 5 children and a grown-up",
-   "context": "In this game you move your body to show where litter goes. The grown-up holds up a card and calls 'Wind!' or 'Rain!'. You act out what that piece of litter would do: fly, float or stay still.",
+   "context": "In this game you find out which litter the wind and rain carry far, and which stays where it is dropped. You move your body to show it. The grown-up holds up a card and calls 'Wind!' or 'Rain!'. You act out what that piece of litter would do: fly, float or stay still.",
    "printables": [
     {
      "kind": "cards",
@@ -307,11 +307,11 @@
      "id": "s2",
      "mins": 6,
      "do": "Pick a card, read the front, and call 'Wind!' or 'Rain!'. Watch what your child does. Then read the back aloud.",
-     "say": "Toffee wrapper. Wind! Show me. Why did you fly?",
+     "say": "Here is the first card: toffee wrapper. Wind! Show me what it does.",
      "kid": "Listen to the card. Is it light or heavy? Fly, float or freeze.",
      "ask": [
       {
-       "q": "Why does the wrapper fly, but the pebble stays?",
+       "q": "Why does a wrapper fly in the wind, but a pebble stays?",
        "good": [
         "The wrapper is very light.",
         "The pebble is too heavy for the wind.",
@@ -326,7 +326,7 @@
      "mins": 2,
      "do": "Lay all the cards out in two rows: the ones that fly or float, and the ones that stay.",
      "say": "Look at the two rows. Which row will travel far from where it was dropped? Why?",
-     "kid": "Make two rows: fly or float, and stay. Which row travels far?",
+     "kid": "Make two rows: things that fly or float, and things that stay.",
      "check": {
       "t": "mcq",
       "q": "Which litter will the rain carry furthest?",
@@ -346,7 +346,7 @@
    "title": "Helping Pairs: a memory game about caring for our neighbours",
    "mins": 12,
    "players": "1 to 4 children and a grown-up",
-   "context": "This is a memory game. Half the cards show a neighbour who needs help: a plant, an animal or a drain. The other half show a kind thing to do. Find a neighbour and the help that fits.",
+   "context": "In this memory game you find out what our plant, animal and drain neighbours need from us. A neighbour is any plant or animal who shares our place, or a drain nearby. Half the cards show a neighbour who needs help. The other half show a kind thing to do. Find a neighbour and the help that fits.",
    "printables": [
     {
      "kind": "cards",
@@ -402,8 +402,8 @@
      "id": "s2",
      "mins": 8,
      "do": "Take turns turning over two cards. When a pair fits, ask your child why.",
-     "say": "You found the crow and the plate of water. Why does a shallow plate in the shade help the crow?",
-     "kid": "Turn over two cards. Do they fit? Say why.",
+     "say": "Turn over two cards. If they fit, tell me why that help is right for that neighbour.",
+     "kid": "Turn over two cards. Look for a neighbour and the help that fits.",
      "ask": [
       {
        "q": "Why do we carry the ant outside, instead of squashing the ant?",
@@ -450,7 +450,7 @@
    "title": "The Bathroom Rain Test: where does water carry litter?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you put five clean bits of litter on the bathroom floor, a little way from the drain. You pour a mug of water to be the rain, and watch where each one goes. Then you try the wind, with a fan.",
+   "context": "In this experiment you find out which litter the rain and the wind carry away, and which stays put. You put five clean bits of litter on the bathroom floor, a little way from the drain. You pour a mug of water to be the rain, and watch where each one goes. Then you try the wind, with a fan.",
    "question": "When rain falls, does litter stay where it was dropped, or does the water carry it away? Which kinds go furthest?",
    "predict": "Guess first. Which of the five things will the water carry to the drain? Which will stay where they are? Why do you think so?",
    "fair_test": "All five things start in one row, the same distance from the drain. We pour the same mug of water from the same place each time. Only the things are different.",
@@ -502,7 +502,7 @@
      "what": "Guess, pour the mug of water three times, try the fan, then sort the litter into the right bins."
     }
    ],
-   "record": "Draw the bathroom floor and the drain. Draw an arrow for each thing that moved, showing where it went. Draw a circle round each thing that stayed.",
+   "record": "Your grown-up fills in the results table as you say what each thing did. You can also take a photo of the drain after each pour.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results from one family in Kochi",
@@ -568,19 +568,19 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Show your child the five things. 2. Let them hold each one. 3. Find the side of the floor where water runs towards the drain. 4. Lay the five things in a row on that side, half a big step from the drain.",
-     "say": "Let's pretend these five things are litter on a road. This hole is the drain. Hold each one. Which feel light? Which feel heavy?",
-     "kid": "Hold each thing. Which is light? Which is heavy? Put them in a row.",
+     "say": "Let's pretend these five things are litter on a road. This hole is the drain. Hold each one.",
+     "kid": "Hold each thing. Which feel light? Which feel heavy? Then put them in a row.",
      "parent": "Use only clean litter. Choose the side of the floor that slopes towards the drain. If your bathroom has no drain, tilt a big steel plate on a book over a bucket, and put the things on the plate."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "Ask for a guess for each thing, and the reason. The grown-up writes the guesses in the table.",
-     "say": "When I pour the water, which things will it carry to the drain? Which will stay? Why do you think so?",
-     "kid": "Guess: which will go to the drain? Which will stay? Why?",
+     "say": "Soon I will pour water on the floor, like rain. Think about each thing. Will the water carry it away?",
+     "kid": "Look at the five things. Make a guess for each one.",
      "ask": [
       {
-       "q": "Which do you think will reach the drain? Why?",
+       "q": "Which things will the water carry to the drain? Why do you think so?",
        "good": [
         "The wrapper, because it is light.",
         "The plastic, because it floats.",
@@ -594,8 +594,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Pour one mug of water slowly onto the floor, just behind the row. 2. Watch together. 3. The grown-up marks in the table what moved. 4. Put the things back in the row and pour again. Do it three times.",
-     "say": "Here comes the rain. Watch each one. Where did the wrapper go? Where did the pebble go? Let's pour two more times, because one try can go differently by chance.",
-     "kid": "Watch the rain. What moved? What stayed? Try three times.",
+     "say": "Here comes the rain. Watch each thing. We will pour three times, because one try can go differently by chance.",
+     "kid": "Watch each thing. What moves? What stays? Try three times.",
      "ask": [
       {
        "q": "What happened at the drain?",
@@ -631,8 +631,8 @@
      "id": "s5",
      "mins": 4,
      "do": "Ask your child to say what they saw, and why. Then look back at their guesses.",
-     "say": "Tell me what happened, and why. Was your guess right? If a wrapper is dropped on our road, where could the rain take it?",
-     "kid": "Say what you saw. Was your guess right? Where would the rain take a wrapper on our road?",
+     "say": "Tell me what happened, and why. Was your guess right?",
+     "kid": "Say what you saw. Look at your guesses. Which were right?",
      "ask": [
       {
        "q": "Where could a wrapper on our road end up?",
@@ -645,7 +645,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "In the Bathroom Rain Test, which thing stayed where it was put?",
+      "q": "Which of these would stay where it was dropped, in the rain?",
       "options": [
        "The toffee wrapper",
        "The pebble",
@@ -659,8 +659,8 @@
      "id": "s6",
      "mins": 2,
      "do": "1. Put the wrapper, plastic and newspaper in the dry waste bin. 2. Put the peel in the wet waste bin. 3. Wipe the bathroom floor dry. 4. Wash hands.",
-     "say": "Litter goes in a bin, where the rain cannot carry it. Which bin does the peel go in? Which bin for the wrapper?",
-     "kid": "Put each thing in the right bin. The peel is wet waste. The wrapper is dry waste."
+     "say": "Litter goes in a bin, where the rain cannot carry it. Wet waste is food and peel that rots. Dry waste is things like paper and plastic. Which bin does the peel go in? Which bin for the wrapper?",
+     "kid": "Put each thing in the right bin: wet waste or dry waste."
     }
    ]
   },
@@ -715,7 +715,7 @@
      "what": "Carry the sugar paper outside for the ants, and wipe the counter clean."
     }
    ],
-   "record": "Draw the sugar paper and the ants. Draw their path as a dotted line. Draw the wiped strip, and what the ants did there.",
+   "record": "Fill in the results table with your grown-up. You can also take a photo of the ants at the sugar and at the wiped strip.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results from one family in Guwahati",
@@ -759,8 +759,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Put the sugar paper down where you have seen ants. 2. Note the time. 3. Ask for a guess.",
-     "say": "We are leaving a little food out, like a crumb after a snack. Will anyone find the sugar? How long will they take? Why do you think so?",
-     "kid": "Put the sugar down. Who will find the sugar? Why do you think so?",
+     "say": "We are leaving a little food out, like a crumb after a snack. How long will it take for anyone to find it? Why do you think so?",
+     "kid": "Put the sugar down where the ants walk. Then make a guess.",
      "ask": [
       {
        "q": "Who might come to the sugar?",
@@ -787,7 +787,7 @@
      "mins": 6,
      "do": "Look closely together. Count roughly: none, a few or many. Look for a line of ants coming and going.",
      "say": "Who found the sugar? Are the ants walking all over, or in a line? Where does the line come from?",
-     "kid": "Look closely. Are there ants? Are they in a line? Where does the line start?",
+     "kid": "Look closely at the ants. Count them: none, a few or many.",
      "ask": [
       {
        "q": "Why do the ants walk in a line?",
@@ -805,7 +805,7 @@
      "mins": 6,
      "do": "Wipe one strip across the ants' path with the soapy cloth, a hand's width away from the sugar. Do not wipe the ants themselves. Watch for five minutes.",
      "say": "I am wiping away a strip of the path. What will the ants do when they reach the wiped part? Why do you think so?",
-     "kid": "Watch the ants at the wiped strip. What do they do?",
+     "kid": "Watch the ants when they reach the wiped strip.",
      "ask": [
       {
        "q": "What did the ants do at the wiped strip?",
@@ -834,8 +834,8 @@
      "id": "s5",
      "mins": 4,
      "do": "1. Carry the sugar paper out to the balcony or a window ledge. 2. Wipe the counter where the sugar was. 3. Ask the last question.",
-     "say": "The ants were only looking for food. Let's give them the sugar outside. Why do ants come into homes? How can we keep them outside?",
-     "kid": "Carry the sugar outside for the ants. How can we keep ants out of the kitchen?",
+     "say": "The ants were only looking for food. Let's give them the sugar outside.",
+     "kid": "Carry the sugar outside for the ants.",
      "ask": [
       {
        "q": "How can we stop ants coming into the kitchen?",
@@ -856,10 +856,10 @@
    "title": "Clean Corner: make one place better",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you find one place in your home or building that needs care. You draw it, make it better, and draw it again.",
+   "context": "In this activity you find one place in your home or building that needs care, and make it better. You will see how much a little care can change a place.",
    "materials": [
     {
-     "item": "paper and crayons",
+     "item": "a phone or camera for a before and after photo, if you have one",
      "qty": 1
     },
     {
@@ -876,14 +876,14 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Choose a corner, draw it, clean it, draw it again."
+     "what": "Choose a corner, count what does not belong there, clean it, then look again."
     }
    ],
-   "record": "Two drawings side by side: the corner before, and the corner after.",
+   "record": "The number of things that did not belong in the corner, before and after. A before and after photo, if you took one.",
    "setup": [
     {
      "art": "A corner of a building's staircase landing with a chips packet, dry leaves and dust, and a child drawing it on paper.",
-     "caption": "1. Find a corner that needs care, and draw it."
+     "caption": "1. Find a corner that needs care, and count what does not belong."
     },
     {
      "art": "The same child sweeping the leaves into a dustpan and dropping the packet in a blue dry waste bin.",
@@ -891,7 +891,7 @@
     },
     {
      "art": "The clean corner, and two drawings side by side: before and after.",
-     "caption": "3. Draw it again. What changed?"
+     "caption": "3. Look again. What changed?"
     }
    ],
    "flow": [
@@ -905,15 +905,15 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "Your child draws the corner as it is now.",
-     "say": "Draw the corner just as it is now.",
-     "kid": "Draw the corner now."
+     "do": "Look at the corner closely together. Count the things that do not belong there, such as wrappers, dry leaves or old papers. Take a photo if you like.",
+     "say": "Look at this corner closely. How many things here do not belong? Let's count them.",
+     "kid": "Count the things that do not belong in the corner."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "Clean the corner together. Sort each thing: wet waste, dry waste, or keep.",
-     "say": "Is this peel wet waste or dry waste? What about this wrapper?",
+     "do": "Clean the corner together. Sort each thing: wet waste (food and peel that rots), dry waste (paper and plastic), or keep.",
+     "say": "Pick up one thing. Is it wet waste or dry waste? How do you know?",
      "kid": "Clean the corner. Put each thing in the right bin.",
      "ask": [
       {
@@ -930,9 +930,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Your child draws the corner again, next to the first drawing.",
-     "say": "Draw it again. What is different? Who might like this corner better now?",
-     "kid": "Draw the corner again. Who will like this corner now?",
+     "do": "Look at the corner again. Count what does not belong now. If you took a photo, compare it with the first one.",
+     "say": "Look at the corner now. Count again. What is different?",
+     "kid": "Look at the corner again. What changed?",
      "ask": [
       {
        "q": "Who might like this corner better now?",
@@ -969,7 +969,7 @@
      "what": "Do the finger test. Water only if the soil is dry. Look again in the evening."
     }
    ],
-   "record": "Draw your plant. Draw a finger in the soil, and write 'dry' or 'damp'.",
+   "record": "Write 'dry' or 'damp' for the soil. Take a photo of the plant now and again in the evening, or tell your grown-up how the leaves looked.",
    "setup": [
     {
      "art": "A child's finger pushed into the soil of a tulsi pot, up to the first bend of the finger.",
@@ -985,8 +985,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Look at the plant's leaves together. 2. Your child pushes one finger into the soil, up to the first bend of the finger.",
-     "say": "Look at the leaves. Are they standing up or drooping? Now feel the soil with your finger. Is it dry or damp?",
-     "kid": "Look at the leaves. Push your finger into the soil. Dry or damp?",
+     "say": "Look at the leaves. Are they standing up or drooping? Now feel the soil with your finger.",
+     "kid": "Look at the leaves. Push one finger into the soil, up to the first bend.",
      "ask": [
       {
        "q": "Is the soil dry or damp? How can you tell?",
@@ -1022,7 +1022,7 @@
    "title": "Kind Hands: moving a small visitor outside",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you move a small animal, like an ant, a moth or a beetle, out of the house gently, using a cup and a piece of card. Do it when a small visitor comes in, or with an ant on the balcony.",
+   "context": "In this activity you learn how to help a small animal without hurting them. You move an ant, a moth or a beetle out of the house gently, using a cup and a piece of card. Do it when a small visitor comes in, or with an ant on the balcony.",
    "materials": [
     {
      "item": "a clear cup or a small glass",
@@ -1041,7 +1041,7 @@
      "what": "When a small visitor comes in, move them outside with a cup and a card."
     }
    ],
-   "record": "Draw your visitor. Write or say where you took them.",
+   "record": "Tell your grown-up who your visitor was and where you took them. Take a photo if you can.",
    "setup": [
     {
      "art": "A clear cup placed gently over a beetle on the floor.",
@@ -1061,8 +1061,8 @@
      "id": "s1",
      "mins": 2,
      "do": "Look at the visitor together, without touching. Name them if you can.",
-     "say": "Look, we have a visitor. Who is this? How many legs? Why might they have come in?",
-     "kid": "Look at the visitor. Do not touch. Who is this? How many legs?",
+     "say": "Look, we have a visitor. Who do you think this is?",
+     "kid": "Look closely and do not touch. Count the legs.",
      "ask": [
       {
        "q": "Why might they have come in?",
@@ -1088,7 +1088,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Carry the cup to the balcony or a window ledge. Put it down near a plant and lift the cup.",
-     "say": "Where would a beetle like to be? Let's put them near the plant. Watch where they go.",
+     "say": "Where would our visitor like to be? Let's put them near the plant. Watch where they go.",
      "kid": "Carry them outside. Put them near a plant. Lift the cup. Watch.",
      "ask": [
       {
@@ -1108,7 +1108,7 @@
    "title": "Bag in Hand: a trip to the shop with a cloth bag",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you take a cloth bag when you go to buy vegetables or groceries. You count how many plastic bags you did not need to take.",
+   "context": "In this activity you take a cloth bag when you go to buy vegetables or groceries. Plastic bags blow into drains, so every bag we say no to is one less. You count how many plastic bags you did not need to take.",
    "materials": [
     {
      "item": "a cloth bag, or a bag made from an old saree, dupatta or T-shirt",
@@ -1156,8 +1156,8 @@
      "id": "s3",
      "mins": 3,
      "do": "At home, count the lines together.",
-     "say": "How many plastic bags did we not take today? Where could those bags have ended up?",
-     "kid": "Count your lines. Where could those bags have gone?",
+     "say": "Let's count your lines together. How many plastic bags did we not take today?",
+     "kid": "Count the lines on your paper.",
      "ask": [
       {
        "q": "Where could those plastic bags have ended up?",
@@ -1178,14 +1178,14 @@
    "title": "The Pocket Bin: a week of keeping our litter with us",
    "mins": 25,
    "days": 7,
-   "context": "In this week-long project you make a small pocket bin from an old envelope or a paper bag. You carry it whenever you go out. Every wrapper or ticket goes into the pocket bin until you reach a dustbin.",
+   "context": "In this week-long project you find out how much litter you can keep off the street. You make a small pocket bin from an old envelope or a paper bag. You carry it whenever you go out. Every wrapper or ticket goes into the pocket bin until you reach a dustbin.",
    "materials": [
     {
      "item": "an old envelope or a small paper bag",
      "qty": 1
     },
     {
-     "item": "crayons or sketch pens",
+     "item": "a pen, and crayons if you want to decorate",
      "qty": 1
     },
     {
@@ -1197,7 +1197,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Make and decorate the pocket bin."
+     "what": "Make the pocket bin and write BIN on it."
     },
     {
      "day": 2,
@@ -1215,7 +1215,7 @@
      "what": "Count the whole week's tally. Talk about where those things would have gone."
     }
    ],
-   "record": "A tally chart for the week, with a small drawing of each kind of thing you kept with you.",
+   "record": "A tally chart for the week. Next to it, write or say the kinds of things you kept, like wrappers or tickets.",
    "setup": [
     {
      "art": "A boy writing BIN in big letters on an old envelope and drawing a crow on the envelope.",
@@ -1234,9 +1234,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Your child decorates an old envelope or paper bag and writes BIN on it.",
+     "do": "Your child makes a pocket bin from an old envelope or paper bag and writes BIN on it. Decorating it is optional.",
      "say": "This is your pocket bin. When there is no dustbin nearby, the litter waits in here.",
-     "kid": "Make your pocket bin. Write BIN on it. Draw on it."
+     "kid": "Make your pocket bin. Write BIN on it. Decorate it if you like."
     },
     {
      "id": "s2",
@@ -1251,7 +1251,7 @@
      "mins": 10,
      "do": "On day 7, count all the tally marks together.",
      "say": "How many things did you keep with you this week? If each one had been dropped, where could the rain have taken them?",
-     "kid": "Count all your marks. Where would the rain take those things?",
+     "kid": "Count all your marks together.",
      "ask": [
       {
        "q": "If every child in your building made a pocket bin, what would change?",
@@ -1294,7 +1294,7 @@
     "Use a tall, narrow bin, so the wind blows over the top.",
     "Put the bin in a corner, out of the wind."
    ],
-   "your_turn": "Draw your bin. Test it in front of the fan. Did the litter stay in? What would you change?",
+   "your_turn": "Test your bin in front of the fan. Did the litter stay in? What would you change?",
    "setup": [
     {
      "art": "A cardboard box with a lid that has a small slot cut in it, and a stone on top.",
@@ -1311,7 +1311,7 @@
      "mins": 3,
      "do": "Remind your child of the fan part of the Bathroom Rain Test. Put a wrapper in an open bowl in front of the fan and switch it on low.",
      "say": "Watch the wrapper in the open bowl. What happens? How could we stop the wind taking it?",
-     "kid": "Watch the open bowl in the wind. How could we keep the wrapper in?",
+     "kid": "Watch the wrapper in the open bowl.",
      "adult": true,
      "parent": "Use a shallow dish or a flat plate, so the wrapper can blow out. If the fan on low does not move it, bring the fan a little closer."
     },
@@ -1320,7 +1320,7 @@
      "mins": 10,
      "do": "Your child chooses materials and builds a bin. A grown-up does the cutting.",
      "say": "What will stop the wind? A lid? A heavy stone? A narrow top?",
-     "kid": "Build your bin. How will it stop the wind?",
+     "kid": "Tell your plan, or sketch it. Then build your bin.",
      "adult": true,
      "parent": "Cut the opening for your child, and smooth any sharp edge with tape."
     },
@@ -1329,7 +1329,7 @@
      "mins": 7,
      "do": "Put the wrapper and the plastic bit in the bin. Switch the fan on low, one big step away, for a slow count of twenty.",
      "say": "Let's test. Did anything blow out? What could make it better?",
-     "kid": "Test your bin in the wind. Did the litter stay in?",
+     "kid": "Test your bin in the wind. Watch the litter.",
      "adult": true,
      "ask": [
       {

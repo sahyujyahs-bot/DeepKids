@@ -164,14 +164,14 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
   *Child mode:* Each card is litter. Listen for 'Wind!' or 'Rain!'. Then fly, float or freeze.
 - **s2 (6 min)**  
   *Parent does:* Pick a card, read the front, and call 'Wind!' or 'Rain!'. Watch what your child does. Then read the back aloud.  
-  *Parent says:* Toffee wrapper. Wind! Show me. Why did you fly?  
+  *Parent says:* Here is the first card: toffee wrapper. Wind! Show me what it does.  
   *Child mode:* Listen to the card. Is it light or heavy? Fly, float or freeze.
-  - Ask: Why does the wrapper fly, but the pebble stays? (good: The wrapper is very light.; The pebble is too heavy for the wind.; The wind can lift light things.)
+  - Ask: Why does a wrapper fly in the wind, but a pebble stays? (good: The wrapper is very light.; The pebble is too heavy for the wind.; The wind can lift light things.)
   - Note: If your child has done the Bathroom Rain Test, ask what they saw there. The answers on the backs of the cards come from tests like that one.
 - **s3 (2 min)**  
   *Parent does:* Lay all the cards out in two rows: the ones that fly or float, and the ones that stay.  
   *Parent says:* Look at the two rows. Which row will travel far from where it was dropped? Why?  
-  *Child mode:* Make two rows: fly or float, and stay. Which row travels far?
+  *Child mode:* Make two rows: things that fly or float, and things that stay.
   - Check: Which litter will the rain carry furthest? → **A plastic bag**
 ### g2 · Helping Pairs: a memory game about caring for our neighbours (12 min)
 - **rules:** Mix the 12 cards and lay them face down in rows.; Take turns. Turn over two cards. The grown-up reads them aloud.; If you find a neighbour and the help that fits, say why it helps. Keep both cards.; If they do not fit, turn them face down again in the same places.; When all the cards are taken, the game is over. Count your pairs. The most pairs wins, and players with the same number share the win. If you play as a team, the goal is to find all 6 pairs.
@@ -182,8 +182,8 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
   *Child mode:* Some cards show who needs help. Some show what helps. Find the pairs.
 - **s2 (8 min)**  
   *Parent does:* Take turns turning over two cards. When a pair fits, ask your child why.  
-  *Parent says:* You found the crow and the plate of water. Why does a shallow plate in the shade help the crow?  
-  *Child mode:* Turn over two cards. Do they fit? Say why.
+  *Parent says:* Turn over two cards. If they fit, tell me why that help is right for that neighbour.  
+  *Child mode:* Turn over two cards. Look for a neighbour and the help that fits.
   - Ask: Why do we carry the ant outside, instead of squashing the ant? (good: The ant is alive.; The ant was only looking for food.; The ant can feel.)
   - Ask: Why should the plate of water for birds be shallow? (good: So small birds can stand in it.; So they do not fall in and drown.)
   - Note: Accept any pair your child can explain well. For the snail, the kind act is to leave her where she is. Snails can carry germs, so wash hands if anyone touches one. Moths fly towards bright lights, so a moth may be stuck at the window because of the light. When you switch the light off and open the window, she can find her way out.
@@ -199,23 +199,23 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
 - **predict:** Guess first. Which of the five things will the water carry to the drain? Which will stay where they are? Why do you think so?
 - **fair test:** All five things start in one row, the same distance from the drain. We pour the same mug of water from the same place each time. Only the things are different.
 - **safety:** A wet bathroom floor is slippery. Walk slowly, and wipe the floor dry at the end. A grown-up switches the fan on and off, and fingers stay away from the blades.
-- **record:** Draw the bathroom floor and the drain. Draw an arrow for each thing that moved, showing where it went. Draw a circle round each thing that stayed.
+- **record:** Your grown-up fills in the results table as you say what each thing did. You can also take a photo of the drain after each pour.
 - **results table:** Thing | My guess: go or stay? | Did the water carry it to the drain? | Did the fan blow it away?
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the five things. 2. Let them hold each one. 3. Find the side of the floor where water runs towards the drain. 4. Lay the five things in a row on that side, half a big step from the drain.  
-  *Parent says:* Let's pretend these five things are litter on a road. This hole is the drain. Hold each one. Which feel light? Which feel heavy?  
-  *Child mode:* Hold each thing. Which is light? Which is heavy? Put them in a row.
+  *Parent says:* Let's pretend these five things are litter on a road. This hole is the drain. Hold each one.  
+  *Child mode:* Hold each thing. Which feel light? Which feel heavy? Then put them in a row.
   - Note: Use only clean litter. Choose the side of the floor that slopes towards the drain. If your bathroom has no drain, tilt a big steel plate on a book over a bucket, and put the things on the plate.
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess for each thing, and the reason. The grown-up writes the guesses in the table.  
-  *Parent says:* When I pour the water, which things will it carry to the drain? Which will stay? Why do you think so?  
-  *Child mode:* Guess: which will go to the drain? Which will stay? Why?
-  - Ask: Which do you think will reach the drain? Why? (good: The wrapper, because it is light.; The plastic, because it floats.; Not the pebble, because it is heavy.)
+  *Parent says:* Soon I will pour water on the floor, like rain. Think about each thing. Will the water carry it away?  
+  *Child mode:* Look at the five things. Make a guess for each one.
+  - Ask: Which things will the water carry to the drain? Why do you think so? (good: The wrapper, because it is light.; The plastic, because it floats.; Not the pebble, because it is heavy.)
   - Note: Wait for a guess and a reason for each thing before you pour. Do not say what will happen.
 - **s3 (5 min)**  
   *Parent does:* 1. Pour one mug of water slowly onto the floor, just behind the row. 2. Watch together. 3. The grown-up marks in the table what moved. 4. Put the things back in the row and pour again. Do it three times.  
-  *Parent says:* Here comes the rain. Watch each one. Where did the wrapper go? Where did the pebble go? Let's pour two more times, because one try can go differently by chance.  
-  *Child mode:* Watch the rain. What moved? What stayed? Try three times.
+  *Parent says:* Here comes the rain. Watch each thing. We will pour three times, because one try can go differently by chance.  
+  *Child mode:* Watch each thing. What moves? What stays? Try three times.
   - Ask: What happened at the drain? (good: The wrapper got stuck on the grill.; The plastic covered the holes.; The water had to go round it.)
   - Note: Usually the wrapper and the plastic float on the water to the drain, and stick flat on the grill. The newspaper gets soggy and sticks to the floor. The peel may slide a little. The pebble stays. If nothing reaches the drain, move the row closer and pour from a little higher.
 - **s4 (4 min) · grown-up needed**  
@@ -226,25 +226,25 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
   - Note: The light, dry things fly: the wrapper, the plastic and the dry newspaper. The peel and the pebble stay. If a weak fan does not move the wrapper, move the row closer to the fan.
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say what they saw, and why. Then look back at their guesses.  
-  *Parent says:* Tell me what happened, and why. Was your guess right? If a wrapper is dropped on our road, where could the rain take it?  
-  *Child mode:* Say what you saw. Was your guess right? Where would the rain take a wrapper on our road?
+  *Parent says:* Tell me what happened, and why. Was your guess right?  
+  *Child mode:* Say what you saw. Look at your guesses. Which were right?
   - Ask: Where could a wrapper on our road end up? (good: In the drain.; In the river or the sea.; Blocking the drain, so the road floods.)
-  - Check: In the Bathroom Rain Test, which thing stayed where it was put? → **The pebble**
+  - Check: Which of these would stay where it was dropped, in the rain? → **The pebble**
 - **s6 (2 min)**  
   *Parent does:* 1. Put the wrapper, plastic and newspaper in the dry waste bin. 2. Put the peel in the wet waste bin. 3. Wipe the bathroom floor dry. 4. Wash hands.  
-  *Parent says:* Litter goes in a bin, where the rain cannot carry it. Which bin does the peel go in? Which bin for the wrapper?  
-  *Child mode:* Put each thing in the right bin. The peel is wet waste. The wrapper is dry waste.
+  *Parent says:* Litter goes in a bin, where the rain cannot carry it. Wet waste is food and peel that rots. Dry waste is things like paper and plastic. Which bin does the peel go in? Which bin for the wrapper?  
+  *Child mode:* Put each thing in the right bin: wet waste or dry waste.
 ### e2 · The Sugar Test: do ants find food left out? (20 min)
 - **problem:** Ants often walk in a long line. In this experiment you find out how ants find food that is left out, and what they do when something changes their path. It shows how small animals find their way around our homes.
 - **question:** If we leave a few grains of sugar out, will ants find them? If we wipe across their path, what will the ants do?
 - **predict:** Guess first. Will any ants come to the sugar in half an hour? If we wipe across their path, will they keep walking, or stop? Why do you think so?
 - **fair test:** We put the same pinch of sugar in the same place, and look after the same time. For the wipe, we wipe only one strip across the path, and leave the rest of the path alone.
-- **record:** Draw the sugar paper and the ants. Draw their path as a dotted line. Draw the wiped strip, and what the ants did there.
+- **record:** Fill in the results table with your grown-up. You can also take a photo of the ants at the sugar and at the wiped strip.
 - **results table:** When we looked | How many ants? (none, a few, many) | Walking in a line, or all over? | What did they do at the wiped strip?
 - **s1 (3 min)**  
   *Parent does:* 1. Put the sugar paper down where you have seen ants. 2. Note the time. 3. Ask for a guess.  
-  *Parent says:* We are leaving a little food out, like a crumb after a snack. Will anyone find the sugar? How long will they take? Why do you think so?  
-  *Child mode:* Put the sugar down. Who will find the sugar? Why do you think so?
+  *Parent says:* We are leaving a little food out, like a crumb after a snack. How long will it take for anyone to find it? Why do you think so?  
+  *Child mode:* Put the sugar down where the ants walk. Then make a guess.
   - Ask: Who might come to the sugar? (good: Ants.; Maybe a fly.; Nobody, because there is no smell.)
   - Note: Choose a place where you have seen ants before. Most Indian homes have them somewhere.
 - **s2 (1 min)**  
@@ -256,51 +256,51 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
 - **s3 (6 min)**  
   *Parent does:* Look closely together. Count roughly: none, a few or many. Look for a line of ants coming and going.  
   *Parent says:* Who found the sugar? Are the ants walking all over, or in a line? Where does the line come from?  
-  *Child mode:* Look closely. Are there ants? Are they in a line? Where does the line start?
+  *Child mode:* Look closely at the ants. Count them: none, a few or many.
   - Ask: Why do the ants walk in a line? (good: They follow each other.; They know the way.; They are going home with the sugar.)
   - Note: An ant who finds food leaves a smell trail on the way home. Other ants follow the smell to the food, and add their own smell. That is why they walk in a line.
 - **s4 (6 min)**  
   *Parent does:* Wipe one strip across the ants' path with the soapy cloth, a hand's width away from the sugar. Do not wipe the ants themselves. Watch for five minutes.  
   *Parent says:* I am wiping away a strip of the path. What will the ants do when they reach the wiped part? Why do you think so?  
-  *Child mode:* Watch the ants at the wiped strip. What do they do?
+  *Child mode:* Watch the ants when they reach the wiped strip.
   - Ask: What did the ants do at the wiped strip? (good: They stopped.; They turned round.; They waved their feelers and walked all over.; They found the path again.)
   - Note: The soap wipes away the smell trail. The ants usually stop, wave their feelers, called antennae, and wander about until they find the smell again. Ants do not always stop: if they walk straight across, wipe the strip again, a little wider. This shows the path is a smell, not a road they can see.
   - Check: How do ants find the way to the sugar? → **They follow a smell trail left by other ants**
 - **s5 (4 min)**  
   *Parent does:* 1. Carry the sugar paper out to the balcony or a window ledge. 2. Wipe the counter where the sugar was. 3. Ask the last question.  
-  *Parent says:* The ants were only looking for food. Let's give them the sugar outside. Why do ants come into homes? How can we keep them outside?  
-  *Child mode:* Carry the sugar outside for the ants. How can we keep ants out of the kitchen?
+  *Parent says:* The ants were only looking for food. Let's give them the sugar outside.  
+  *Child mode:* Carry the sugar outside for the ants.
   - Ask: How can we stop ants coming into the kitchen? (good: Wipe up crumbs and spills.; Keep food covered.; Do not leave sugar out.)
 
 ## Activities
 ### a1 · Clean Corner: make one place better (10 min)
 - **safety:** Never pick up broken glass, blades, needles or dirty tissues with your hands. Call a grown-up, who uses gloves, tongs or a dustpan.
-- **record:** Two drawings side by side: the corner before, and the corner after.
+- **record:** The number of things that did not belong in the corner, before and after. A before and after photo, if you took one.
 - **s1 (2 min)**  
   *Parent does:* Walk around your home, balcony or staircase together. Let your child choose one small corner that needs care.  
   *Parent says:* Let's find one place near us that needs looking after. Which corner needs the most care?  
   *Child mode:* Find one corner that needs care. Choose it.
 - **s2 (2 min)**  
-  *Parent does:* Your child draws the corner as it is now.  
-  *Parent says:* Draw the corner just as it is now.  
-  *Child mode:* Draw the corner now.
+  *Parent does:* Look at the corner closely together. Count the things that do not belong there, such as wrappers, dry leaves or old papers. Take a photo if you like.  
+  *Parent says:* Look at this corner closely. How many things here do not belong? Let's count them.  
+  *Child mode:* Count the things that do not belong in the corner.
 - **s3 (4 min)**  
-  *Parent does:* Clean the corner together. Sort each thing: wet waste, dry waste, or keep.  
-  *Parent says:* Is this peel wet waste or dry waste? What about this wrapper?  
+  *Parent does:* Clean the corner together. Sort each thing: wet waste (food and peel that rots), dry waste (paper and plastic), or keep.  
+  *Parent says:* Pick up one thing. Is it wet waste or dry waste? How do you know?  
   *Child mode:* Clean the corner. Put each thing in the right bin.
   - Ask: Why does the peel go in a different bin from the wrapper? (good: The peel rots.; The wrapper is plastic and does not rot.; So they can be made into new things or into soil.)
   - Note: Do the sharp, broken or dirty things yourself, with gloves or tongs.
 - **s4 (2 min)**  
-  *Parent does:* Your child draws the corner again, next to the first drawing.  
-  *Parent says:* Draw it again. What is different? Who might like this corner better now?  
-  *Child mode:* Draw the corner again. Who will like this corner now?
+  *Parent does:* Look at the corner again. Count what does not belong now. If you took a photo, compare it with the first one.  
+  *Parent says:* Look at the corner now. Count again. What is different?  
+  *Child mode:* Look at the corner again. What changed?
   - Ask: Who might like this corner better now? (good: Us.; The people who walk past it, because it is clean and safe now.; The plant, because there is room now.)
 ### a2 · The Finger Test: does our plant need water? (if you have a potted plant) (8 min)
-- **record:** Draw your plant. Draw a finger in the soil, and write 'dry' or 'damp'.
+- **record:** Write 'dry' or 'damp' for the soil. Take a photo of the plant now and again in the evening, or tell your grown-up how the leaves looked.
 - **s1 (3 min)**  
   *Parent does:* 1. Look at the plant's leaves together. 2. Your child pushes one finger into the soil, up to the first bend of the finger.  
-  *Parent says:* Look at the leaves. Are they standing up or drooping? Now feel the soil with your finger. Is it dry or damp?  
-  *Child mode:* Look at the leaves. Push your finger into the soil. Dry or damp?
+  *Parent says:* Look at the leaves. Are they standing up or drooping? Now feel the soil with your finger.  
+  *Child mode:* Look at the leaves. Push one finger into the soil, up to the first bend.
   - Ask: Is the soil dry or damp? How can you tell? (good: Dry, it feels dusty.; Damp, my finger is cool and has soil stuck on it.)
   - Note: The first bend of a child's finger is about 2 centimetres deep. The top of the soil can look dry when the soil below is still damp, so we feel below the top.
 - **s2 (3 min)**  
@@ -316,11 +316,11 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
   - Think: Why does the pot have a hole at the bottom?
 ### a3 · Kind Hands: moving a small visitor outside (8 min)
 - **safety:** Use this only for ants, moths, beetles and grasshoppers. Never try it with bees, wasps, scorpions, centipedes or spiders. Call a grown-up for those. Never touch the visitor with bare hands: a few small beetles can irritate or blister skin.
-- **record:** Draw your visitor. Write or say where you took them.
+- **record:** Tell your grown-up who your visitor was and where you took them. Take a photo if you can.
 - **s1 (2 min)**  
   *Parent does:* Look at the visitor together, without touching. Name them if you can.  
-  *Parent says:* Look, we have a visitor. Who is this? How many legs? Why might they have come in?  
-  *Child mode:* Look at the visitor. Do not touch. Who is this? How many legs?
+  *Parent says:* Look, we have a visitor. Who do you think this is?  
+  *Child mode:* Look closely and do not touch. Count the legs.
   - Ask: Why might they have come in? (good: Looking for food.; The light brought them.; It was raining outside.)
   - Note: If no visitor comes, use the ants from the Sugar Test.
 - **s2 (3 min) · grown-up needed**  
@@ -330,7 +330,7 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
   - Note: Help with the card so no legs get caught. If the visitor is a spider or anything that can sting, move them yourself, or leave a window open for them.
 - **s3 (3 min)**  
   *Parent does:* Carry the cup to the balcony or a window ledge. Put it down near a plant and lift the cup.  
-  *Parent says:* Where would a beetle like to be? Let's put them near the plant. Watch where they go.  
+  *Parent says:* Where would our visitor like to be? Let's put them near the plant. Watch where they go.  
   *Child mode:* Carry them outside. Put them near a plant. Lift the cup. Watch.
   - Ask: Where did the visitor go when you lifted the cup? (good: Under a leaf.; Into the soil.; They flew away.)
 ### a4 · Bag in Hand: a trip to the shop with a cloth bag (15 min)
@@ -345,18 +345,18 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
   *Child mode:* Say no to plastic bags. Make one line each time.
 - **s3 (3 min)**  
   *Parent does:* At home, count the lines together.  
-  *Parent says:* How many plastic bags did we not take today? Where could those bags have ended up?  
-  *Child mode:* Count your lines. Where could those bags have gone?
+  *Parent says:* Let's count your lines together. How many plastic bags did we not take today?  
+  *Child mode:* Count the lines on your paper.
   - Ask: Where could those plastic bags have ended up? (good: In a drain.; In a cow's tummy.; In the dustbin, then in a big rubbish heap.)
 
 ## Projects
 ### p1 · The Pocket Bin: a week of keeping our litter with us (25 min, 7 days)
-- **record:** A tally chart for the week, with a small drawing of each kind of thing you kept with you.
-- **schedule:** day 1: Make and decorate the pocket bin. (10 min); day 2: Carry the pocket bin when you go out. Make a tally mark for each thing you put in. (2 min); day 4: Count the tally so far. (3 min); day 7: Count the whole week's tally. Talk about where those things would have gone. (10 min)
+- **record:** A tally chart for the week. Next to it, write or say the kinds of things you kept, like wrappers or tickets.
+- **schedule:** day 1: Make the pocket bin and write BIN on it. (10 min); day 2: Carry the pocket bin when you go out. Make a tally mark for each thing you put in. (2 min); day 4: Count the tally so far. (3 min); day 7: Count the whole week's tally. Talk about where those things would have gone. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* Your child decorates an old envelope or paper bag and writes BIN on it.  
+  *Parent does:* Your child makes a pocket bin from an old envelope or paper bag and writes BIN on it. Decorating it is optional.  
   *Parent says:* This is your pocket bin. When there is no dustbin nearby, the litter waits in here.  
-  *Child mode:* Make your pocket bin. Write BIN on it. Draw on it.
+  *Child mode:* Make your pocket bin. Write BIN on it. Decorate it if you like.
 - **s2 (5 min)**  
   *Parent does:* Each day you go out, your child carries the pocket bin and makes a tally mark for each thing put in. When you get home, empty the pocket bin into the right bin. On day 4, count the marks so far.  
   *Parent says:* Where is your pocket bin? Let's make a mark for that wrapper.  
@@ -365,31 +365,31 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
 - **s3 (10 min)**  
   *Parent does:* On day 7, count all the tally marks together.  
   *Parent says:* How many things did you keep with you this week? If each one had been dropped, where could the rain have taken them?  
-  *Child mode:* Count all your marks. Where would the rain take those things?
+  *Child mode:* Count all your marks together.
   - Ask: If every child in your building made a pocket bin, what would change? (good: Less litter on the road.; The drain would not block.; The cows would find less plastic.)
 
 ## Challenges
 ### c1 · Beat the Fan: a bin that keeps its litter in (20 min)
 - **problem:** Make a small bin from things at home that keeps a wrapper and a plastic bit inside when the fan blows on it.
 - **safety:** A grown-up does the cutting: plastic bottles and tins have sharp edges. A grown-up also switches the fan on and off, and fingers stay away from the blades.
-- **your turn:** Draw your bin. Test it in front of the fan. Did the litter stay in? What would you change?
+- **your turn:** Test your bin in front of the fan. Did the litter stay in? What would you change?
 - **constraints:** It must be easy to put litter in.; When the fan is on low, one big step away, the litter must stay in the bin.; It must use things from home, like a box, a tin, a bottle or a bag.
 - **general:** Put a lid on the bin.; Put a stone on the lid so the wind cannot lift it.
 - **creative:** Make a lid with a small slot, so a hand can push litter in but the wind cannot get in.; Use a tall, narrow bin, so the wind blows over the top.; Put the bin in a corner, out of the wind.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Remind your child of the fan part of the Bathroom Rain Test. Put a wrapper in an open bowl in front of the fan and switch it on low.  
   *Parent says:* Watch the wrapper in the open bowl. What happens? How could we stop the wind taking it?  
-  *Child mode:* Watch the open bowl in the wind. How could we keep the wrapper in?
+  *Child mode:* Watch the wrapper in the open bowl.
   - Note: Use a shallow dish or a flat plate, so the wrapper can blow out. If the fan on low does not move it, bring the fan a little closer.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* Your child chooses materials and builds a bin. A grown-up does the cutting.  
   *Parent says:* What will stop the wind? A lid? A heavy stone? A narrow top?  
-  *Child mode:* Build your bin. How will it stop the wind?
+  *Child mode:* Tell your plan, or sketch it. Then build your bin.
   - Note: Cut the opening for your child, and smooth any sharp edge with tape.
 - **s3 (7 min) · grown-up needed**  
   *Parent does:* Put the wrapper and the plastic bit in the bin. Switch the fan on low, one big step away, for a slow count of twenty.  
   *Parent says:* Let's test. Did anything blow out? What could make it better?  
-  *Child mode:* Test your bin in the wind. Did the litter stay in?
+  *Child mode:* Test your bin in the wind. Watch the litter.
   - Ask: What made your bin work, or not work? (good: The lid kept the wind out.; The stone held the lid down.; The wrapper blew out of the gap.)
 
 ## Worksheets
