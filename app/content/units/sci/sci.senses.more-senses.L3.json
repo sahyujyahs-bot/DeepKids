@@ -533,8 +533,8 @@
      "id": "s2",
      "mins": 14,
      "do": "Play the game by the rules. Each time someone makes a trio, ask how the sense solves the problem.",
-     "say": "You found the python. How do the pits help the python find a rat at night?",
-     "kid": "You found a trio! How does the sense help that animal?",
+     "say": "You found a trio. How does the sense solve the animal's problem?",
+     "kid": "Hold up your trio. Tell what the animal's problem is.",
      "ask": [
       {
        "q": "How does the lateral line help a sardine?",
@@ -550,7 +550,7 @@
      "mins": 3,
      "do": "At the end, pick one trio and talk about it.",
      "say": "Pick one trio. What would happen to that animal if they lost that sense?",
-     "kid": "Pick one trio. What would happen to that animal if they lost that sense?",
+     "kid": "Pick one trio. Imagine that animal without their sense.",
      "check": {
       "t": "mcq",
       "q": "A female mosquito finds people in a dark room. Which sense helps her most?",
@@ -716,7 +716,7 @@
      "mins": 2,
      "do": "Add up the points.",
      "say": "Which moments used two senses at once? Why did each one need both?",
-     "kid": "Add up your points. Which moments used two senses at once?",
+     "kid": "Add up your points. Who has the most?",
      "check": {
       "t": "mcq",
       "q": "You feel the lift start to go up, though the doors are shut. Which sense noticed?",
@@ -794,14 +794,14 @@
      "what": "An hour before, set the steel plate and the wooden board side by side. Then touch both and guess which one will melt ice first. Put an ice cube on each and check every 5 minutes."
     }
    ],
-   "record": "Fill in the table. Then draw the two cubes as they looked after 10 minutes, with their puddles.",
+   "record": "Fill in the table. Then take a photo of the two cubes after 10 minutes, or draw them. Say which puddle was bigger.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. An hour before, put the steel plate and the wooden board side by side on a table. 2. Keep them out of the sun and away from the fan. 3. Now your child presses one palm flat on each for 5 seconds.",
      "say": "The steel plate and the wooden board have been sitting in the same room for an hour. Put one hand flat on each. Which one feels colder?",
-     "kid": "Put one hand on the steel. Put the other hand on the wood. Which feels colder?",
+     "kid": "Put one hand on the steel and the other on the wood. Keep them there for 5 seconds. Feel the difference.",
      "ask": [
       {
        "q": "Does the steel or the wood feel colder? Do you think it really is colder?",
@@ -847,7 +847,7 @@
      "mins": 2,
      "do": "Touch the steel plate where the ice was, and the wooden board where its ice was.",
      "say": "Touch the steel under the puddle. Now touch the wood under its cube. What do you feel now?",
-     "kid": "Touch the steel under the puddle. Touch the wood under its cube. What do you feel?",
+     "kid": "Touch the steel, then the wood. Is the cold only under the ice, or all around it?",
      "parent": "The steel feels icy all around the puddle, because it gave its heat to the ice. The wood is cold only right under the cube. Heat moves through steel quickly, and through wood slowly."
     },
     {
@@ -870,7 +870,7 @@
      }
     }
    ],
-   "context": "In this experiment you race two ice cubes, one on a steel plate and one on a wooden board, to find out what your sense of cold really feels.",
+   "context": "You will find out if steel is really colder than wood, even though it feels colder. You race two ice cubes, one on each.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results, room at about 30 degrees",
@@ -990,7 +990,7 @@
      "mins": 6,
      "do": "Add up the misses for each hand. Ask your child to say three things: what they think, what they saw, and why it happened.",
      "say": "Your eyes were shut, but your pencil still came close. How did your hand know where to go? What did you see, and why did it happen?",
-     "kid": "Your eyes were shut. How did your hand know where to go?",
+     "kid": "Look at your total misses. Which hand came closer to the dot?",
      "ask": [
       {
        "q": "How did your hand get close to the dot without your eyes?",
@@ -1015,7 +1015,7 @@
      }
     }
    ],
-   "context": "In this experiment you test the sense that tells you where your hand is, by touching a dot with your eyes shut.",
+   "context": "You will find out how close your pencil lands to a dot when your eyes are shut, and whether your writing hand does better. This shows how well your body knows where your hand is.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1107,7 +1107,7 @@
      "what": "Spin 5 times, then 10 times, and time how long the dizzy feeling lasts each time."
     }
    ],
-   "record": "Fill in the table. Draw two bars, one for 5 turns and one for 10.",
+   "record": "Fill in the table. Then lay out one coin or bean for every second of dizziness, in one row for 5 turns and one row for 10. You can draw two bars instead.",
    "flow": [
     {
      "id": "s1",
@@ -1141,7 +1141,7 @@
      "mins": 5,
      "do": "Compare the two times. Ask your child to say three things: what they think, what they saw, and why it happened.",
      "say": "Which time was longer? What do you think is still moving after you stop?",
-     "kid": "Which dizziness lasted longer? What keeps moving after you stop?",
+     "kid": "Compare the two times. Which dizziness lasted longer?",
      "parent": "A strong answer: after 10 turns, the dizziness lasted longer. The liquid in the loops of my inner ear had longer to catch up, so it was swirling faster when I stopped and took longer to slow down. While it was still swirling, my brain thought I was turning.",
      "check": {
       "t": "mcq",
@@ -1156,7 +1156,7 @@
      }
     }
    ],
-   "context": "In this experiment you time how long dizziness lasts after spinning, to see what your balance sense does.",
+   "context": "You will find out if spinning 10 times makes you dizzy for longer than spinning 5 times. You time each one.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example: seconds of dizziness",
@@ -1219,14 +1219,14 @@
      "what": "Spin and feel the dizziness. Then turn a bowl of water and watch the water keep turning after the bowl stops."
     }
    ],
-   "record": "Draw the bowl with the paper arrow: once while you turn the bowl, and once after it stops.",
+   "record": "Take two photos of the bowl with the paper arrow: one while you turn it and one just after it stops. You can draw them instead. Tell your grown-up what the arrow did.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "Your child spins slowly 5 times on the mat, then sits down.",
      "say": "Spin slowly 5 times, then sit down. What do you notice?",
-     "kid": "Spin slowly 5 times. Sit down. What do you notice?",
+     "kid": "Spin slowly 5 times. Sit down. Feel what the room does.",
      "adult": true,
      "ask": [
       {
@@ -1272,7 +1272,7 @@
      "mins": 3,
      "do": "Talk about what the model shows.",
      "say": "Your head is like the bowl, and the liquid in your ear is like the water. When you stopped spinning, what was still turning?",
-     "kid": "Your head is like the bowl. The liquid in your ear is like the water. When you stopped spinning, what kept turning?",
+     "kid": "Your head is like the bowl. Point to the part of you that is like the water.",
      "parent": "A good answer: my head stopped, but the liquid in my ears kept swirling, so my brain thought I was still spinning."
     }
    ],
@@ -1346,7 +1346,7 @@
      "parent": "Most children find the thumb almost every time. The stretch sensors in the muscles of the moved arm told the brain where the hand was. This sense is called proprioception."
     }
    ],
-   "context": "In this activity you feel your body-position sense at work in two ways.",
+   "context": "You will make your arms rise by themselves, then find your own thumb with your eyes shut. Both show how your body knows where your arms are.",
    "setup": [
     {
      "art": "A child standing in a doorway pressing the backs of her hands outwards against the frame.",
@@ -1409,10 +1409,10 @@
      "mins": 3,
      "do": "Talk about what this shows.",
      "say": "The water came from the same glass. Was it really colder after the mint? What changed?",
-     "kid": "The water was the same. Was it really colder? What changed?",
+     "kid": "Compare your two scores. Was the water really colder?",
      "check": {
       "t": "mcq",
-      "q": "After chewing mint, the same water felt colder. Why?",
+      "q": "After the mint, the same water felt colder. Why?",
       "options": [
        "Mint cools the water down",
        "Menthol in mint switches on your cold receptors",
@@ -1423,7 +1423,7 @@
      }
     }
    ],
-   "context": "In this activity you find out that a chemical in mint can make your cold sense fire.",
+   "context": "You will find out if a mint sweet can make plain water feel colder, when it is not colder at all.",
    "setup": [
     {
      "art": "A child sipping a glass of water and holding up three fingers for 'how cold'.",
@@ -1474,7 +1474,7 @@
      "what": "Draw a grid on the back of your hand. Touch each square with a cold key and mark where it feels cold."
     }
    ],
-   "record": "On the paper grid, colour each square blue if it felt cold and leave it white if it felt only like a touch.",
+   "record": "On the paper grid, colour each square blue if it felt cold and leave it white if it felt only like a touch. Then count the blue squares and say the number.",
    "flow": [
     {
      "id": "s1",
@@ -1501,7 +1501,7 @@
      "parent": "A good answer: no, some spots feel cold and others do not. My skin has cold receptors in some places and not in others."
     }
    ],
-   "context": "In this activity you map the cold spots on your skin, the way a scientist did in 1882.",
+   "context": "You will find out if every spot on your skin feels cold, by mapping the cold spots on the back of your hand. A scientist did this in 1882.",
    "setup": [
     {
      "art": "The back of a child's hand with a small grid of 16 squares drawn in sketch pen.",
@@ -1559,7 +1559,7 @@
      "mins": 4,
      "do": "Talk about why a fish needs this sense.",
      "say": "A fish in a muddy river cannot see far. Why would feeling the water move help them?",
-     "kid": "A fish cannot see far in muddy water. How does feeling the water help?",
+     "kid": "Imagine you are a fish in muddy water. What can you not see? What can you still feel?",
      "ask": [
       {
        "q": "How does feeling the water move help a fish?",
@@ -1572,7 +1572,7 @@
      ]
     }
    ],
-   "context": "In this activity you use your hand to feel water move, the way a fish does with their lateral line.",
+   "context": "You will find out if you can tell where water moved from, using only your hand, the way a fish does with their lateral line.",
    "setup": [
     {
      "art": "A child with eyes shut and one hand flat in a basin of still water.",
@@ -1641,7 +1641,7 @@
      "mins": 15,
      "do": "Each evening for days 2 to 4, add the messages from that day.",
      "say": "What messages did your body send today? What did you do about each one?",
-     "kid": "What did your body tell you today? What did you do?",
+     "kid": "Write today's messages in the right columns. Write what you did about each one.",
      "parent": "Examples: dizzy after a swing, foot asleep after sitting cross-legged, the tiles cold under bare feet, a scraped knee, thirst after playing, needing the toilet.",
      "wait": "Add to the diary each evening for 3 days."
     },
@@ -1650,10 +1650,10 @@
      "mins": 5,
      "do": "Count the messages in each column. Talk about which sense sent the most, and what each message did for your child.",
      "say": "Which sense sent you the most messages? Which message kept you safe?",
-     "kid": "Count each column. Which sense sent the most messages? Which message kept you safe?"
+     "kid": "Count each column. Circle the column with the most messages."
     }
    ],
-   "context": "In this project you keep a diary for five days of the messages your hidden senses send.",
+   "context": "You will find out which of your hidden senses sends you the most messages in five days. Hidden senses are the ones you do not usually notice.",
    "setup": [
     {
      "art": "A notebook page ruled into five columns with headings and small drawings: a spinning top, a bent arm, an ice cube, a plaster, a glass of water.",
@@ -1693,7 +1693,7 @@
     "A family checklist chart on the bathroom door, ticked every evening.",
     "A small cloth-covered tray by the door. Tip each shoe out over it before wearing it."
    ],
-   "your_turn": "Now design your own foot guard. Draw it, label each part, and say which danger it catches.",
+   "your_turn": "Now design your own foot guard. Make it, or draw it. Say what each part does and which danger it catches.",
    "flow": [
     {
      "id": "s1",
@@ -1706,9 +1706,9 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Draw two ideas, choose one, and make a model or a chart.",
-     "say": "Draw two ideas. Which one would catch more dangers? Let's make that one.",
-     "kid": "Draw two ideas. Pick the best one. Make it."
+     "do": "Talk through two ideas, choose one, and make a model or a chart.",
+     "say": "Tell me two ideas. Which one would catch more dangers? Let's make that one.",
+     "kid": "Think of two ideas. Pick the best one. Make it."
     },
     {
      "id": "s3",
@@ -1721,7 +1721,7 @@
    "setup": [
     {
      "art": "A child drawing two foot-guard ideas on paper, a hand mirror and an old chappal beside her.",
-     "caption": "1. List the dangers and draw two ideas."
+     "caption": "1. List the dangers and think of two ideas."
     },
     {
      "art": "A white-lined chappal and a checklist chart taped to a bathroom door.",
@@ -1767,9 +1767,9 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Draw an idea, then build it.",
-     "say": "Draw your detector first. What will tell you which side is low?",
-     "kid": "Draw your idea. Then build it."
+     "do": "Think of an idea, then build it.",
+     "say": "Tell me your idea first. What will show you which side is low?",
+     "kid": "Tell your idea. Then build it."
     },
     {
      "id": "s3",

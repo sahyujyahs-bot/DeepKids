@@ -666,7 +666,7 @@
      "what": "Fill one plate with dry atta and one with damp atta. Press the same fist gently and hard into each. Measure every print. Then you and your parent each make one print, and guess whose print is whose."
     }
    ],
-   "record": "Fill in the results table. Draw one gentle print and one hard print, side by side, and write the widths under them.",
+   "record": "Fill in the results table. Then draw one gentle print and one hard print side by side and write the widths under them, or take a photo of the two prints with the ruler beside them.",
    "flow": [
     {
      "id": "s1",
@@ -689,8 +689,8 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Show your child how to make the 'paw'. 2. Make a loose fist. 3. Turn it so the flat backs of the four bent fingers face down. 4. Those four bumps are the toes.",
-     "say": "A tiger's pugmark has four toe marks in a curve. Our fingers will be the toes. If we press this fist into dry atta and damp atta, gently and hard, will all the prints be the same width? Why do you think so?",
-     "kid": "Make a fist. Turn it so your four bent fingers face down. Those four bumps are the toes. Will all your prints be the same width? Why?",
+     "say": "A tiger's pugmark has four toe marks in a curve. Our fingers will be the toes. Before we press, make a guess.",
+     "kid": "Make a fist. Turn it so your four bent fingers face down. Those four bumps are the toes.",
      "ask": [
       {
        "q": "Will the same fist always leave the same print? Why do you think so?",
@@ -747,7 +747,7 @@
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: the same hand leaves different prints. What I saw: my hard prints were about 2 cm wider than my gentle ones, and the dry prints were blurred. Why: pressing harder pushes the fist deeper, and dry atta crumbles in. So one print alone can't tell you whose hand it was."
     }
    ],
-   "context": "In this experiment you press your own fist into dry and damp atta, gently and hard, and measure the prints. Forest staff once counted tigers by measuring footprints like these.",
+   "context": "In this experiment you press your own fist into dry and damp atta, gently and hard, and measure the prints. Forest staff once counted tigers by measuring footprints like these. You will find out whether a print can tell you whose hand made it.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -849,8 +849,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Say the words of the anthem together once, slowly, so everyone knows them. 2. Tell your child the full anthem should take about 52 seconds.",
-     "say": "The rules say our anthem takes about 52 seconds. Will each of us take that long? Why do you think so?",
-     "kid": "Say the anthem words once. Singing it should take about 52 seconds. Will everyone take the same time? Why?",
+     "say": "The rules say our anthem takes about 52 seconds. Make a guess before we sing.",
+     "kid": "Say the anthem words once, slowly. Singing it should take about 52 seconds.",
      "ask": [
       {
        "q": "Will everyone take the same time? Why do you think so?",
@@ -899,7 +899,7 @@
      "parent": "A good answer sounds like this. What I think: people sing the same song at different speeds. What I saw: my parent took 56 seconds and I took 49. Together we took 53. Why: each person has their own pace. When we sing together, we listen and keep the same speed. That is why the official anthem has a fixed tune and timing, so a whole school can sing it as one."
     }
    ],
-   "context": "In this experiment you time your family singing India's national anthem, alone and together, and compare it with the official 52 seconds.",
+   "context": "In this experiment you time your family singing India's national anthem, alone and together, and compare it with the official 52 seconds. You will find out if a whole family can sing at one speed.",
    "setup": [
     {
      "art": "A girl standing straight with her arms by her sides, singing, while her mother holds up a phone stopwatch.",
@@ -953,8 +953,8 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Draw a rectangle 30 cm long and 20 cm high. 2. Mark the height into three equal bands, each about 6.7 cm. 3. Colour the top band saffron and the bottom band green. Leave the middle white.",
-     "say": "Our flag's length and height are always 3 to 2. So if it is 30 cm long, how high must it be?",
-     "kid": "Draw a box 30 cm long and 20 cm high. Make three equal bands. Saffron on top. White in the middle. Green at the bottom.",
+     "say": "Our flag's length and height are always in the ratio 3 to 2. That means 3 parts long for every 2 parts high.",
+     "kid": "Draw a box 30 cm long. Work out how high it must be. Make three equal bands. Saffron on top, white in the middle, green at the bottom.",
      "ask": [
       {
        "q": "If the flag is 30 cm long, how high must it be?",
@@ -990,8 +990,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Glue the wheel in the middle of the white band. 2. Ask what each colour and the wheel stand for. 3. Put the flag up on a wall with saffron at the top.",
-     "say": "What does saffron stand for? What about white, green and the wheel?",
-     "kid": "Glue the wheel in the middle. Say what each colour stands for. Hang it with saffron on top.",
+     "say": "The flag is done. Before we hang it, let's see what each part means.",
+     "kid": "Glue the wheel in the middle of the white band. Hang the flag with saffron on top.",
      "ask": [
       {
        "q": "What do the colours and the wheel stand for?",
@@ -1005,7 +1005,7 @@
      ]
     }
    ],
-   "context": "In this activity you make India's flag exactly: the right length and height, three equal bands and a wheel with 24 spokes.",
+   "context": "In this activity you make India's flag exactly: the right length and height, three equal bands and a wheel with 24 spokes. You will find out why folding a circle gives exactly 24 spokes.",
    "setup": [
     {
      "art": "A rectangle 30 cm by 20 cm drawn on white paper, with three equal bands marked, the top coloured saffron and the bottom green.",
@@ -1071,7 +1071,7 @@
      "parent": "The panel on the back of rupee notes has 15 languages, such as Tamil, Telugu, Kannada, Malayalam, Bengali, Marathi, Odia and Assamese. Hindi and English are on the front. Ask why the government prints so many. The panel is there so that people in every part of India can read the amount in their own language."
     }
    ],
-   "context": "In this activity you hunt for India's emblem and the ₹ symbol on coins and notes, and count the languages on a rupee note.",
+   "context": "In this activity you hunt for India's emblem and the ₹ symbol on coins and notes, and count the languages on a rupee note. You will find out how a note shows that India has many languages.",
    "setup": [
     {
      "art": "Coins and rupee notes spread on a table, a child holding a magnifying glass over the lions on a note.",
@@ -1112,15 +1112,15 @@
      "mins": 8,
      "do": "1. Your child asks 5 people you know, such as relatives or neighbours, two questions, by phone or in person. 2. The first question is 'What is India's national game?' 3. The second is 'Is it official, or not?' 4. Write each answer, and whether the person felt sure.",
      "say": "Let's ask five people what India's national game is. Write down how sure each one feels.",
-     "kid": "Ask 5 people. What is India's national game? Is it official? Write their answers.",
+     "kid": "Ask 5 people. What is India's national game? Has the government made it official? Write their answers.",
      "context": "This is the first step of the Fact Check. You find out what people believe about India's national game."
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "1. Count the answers. 2. Tell your child what happened in 2012. 3. Your child tells each person what the government said.",
-     "say": "In 2012, a schoolgirl asked the government when hockey was made the national game. The sports ministry replied that no game has been declared the national game. Why do so many people believe hockey is the national game?",
-     "kid": "In 2012 a schoolgirl asked the government when hockey was made the national game. The answer was that India has no official national game. Why do so many people believe hockey is the national game?",
+     "say": "In 2012, a schoolgirl asked the government when hockey was made the national game. The sports ministry replied that no game has been declared the national game.",
+     "kid": "Tell each of your five people what the government said in 2012: India has no official national game.",
      "ask": [
       {
        "q": "Why do so many people believe hockey is the official national game?",
@@ -1198,8 +1198,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Ask: 'Why does the anthem name places from every direction?'",
-     "say": "Look at all your stars. Why do you think Tagore named places from north, south, east and west?",
-     "kid": "Look at your stars. Why did Tagore name places from every side?",
+     "say": "Look at all your stars together. Look at where they sit on the map.",
+     "kid": "Look at all your stars together.",
      "ask": [
       {
        "q": "Why does the anthem name places from every direction?",
@@ -1211,7 +1211,7 @@
      ]
     }
    ],
-   "context": "In this activity you find every place named in Jana Gana Mana on a map of India.",
+   "context": "In this activity you find every place named in Jana Gana Mana on a map of India. You will see how far the anthem's words reach across the country.",
    "setup": [
     {
      "art": "A map of India with stars on Punjab, Gujarat, Maharashtra, the south, Odisha and Bengal, and lines along the Ganga and Yamuna.",
@@ -1236,7 +1236,7 @@
      "qty": 1
     },
     {
-     "item": "a coin and a note, the anthem map, and the paw print drawings",
+     "item": "a coin and a note, the anthem map, and the paw print drawings or photos",
      "qty": 1
     },
     {
@@ -1277,7 +1277,7 @@
      "id": "s2",
      "mins": 20,
      "do": "1. Family members or friends are the visitors. 2. Your child guides them round. 3. Each visitor asks one question.",
-     "say": "I am a visitor in your museum. Please tell us about this flag. How do scientists know which tiger is which?",
+     "say": "I am a visitor in your museum. Please tell us about this flag.",
      "kid": "Welcome your visitors. Tell them about each thing. Answer their questions.",
      "ask": [
       {
@@ -1290,7 +1290,7 @@
      ]
     }
    ],
-   "context": "In this two-day project you set up a small museum of India's national symbols and guide your family round it.",
+   "context": "In this two-day project you set up a small museum of India's national symbols and guide your family round it. You will teach your family what each symbol stands for.",
    "setup": [
     {
      "art": "A table with a paper flag, coins, a peacock feather and a map, each with a small handwritten label card.",
@@ -1335,9 +1335,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Look at India's flag together. 2. Ask why it is easy to remember. 3. Your child draws three quick ideas for their own flag.",
-     "say": "What makes our flag easy to remember? Let's draw three quick ideas for your own flag.",
-     "kid": "Why is our flag easy to remember? Draw three quick ideas for your own flag.",
+     "do": "1. Look at India's flag together. 2. Ask why it is easy to remember. 3. Your child makes three quick ideas for their own flag, by sketching or by telling you.",
+     "say": "What makes our flag easy to remember? Let's try three quick ideas for your own flag.",
+     "kid": "Why is our flag easy to remember? Then sketch three quick ideas for your own flag, or tell them to your grown-up.",
      "context": "This is the first step of the flag design challenge. You look at what makes a flag easy to remember, then sketch your own."
     },
     {
@@ -1350,9 +1350,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Show the flag to one person for 10 seconds from across the room. 2. Hide it. 3. They draw it from memory. 4. Compare. Change anything they got wrong, and test again with two more people.",
+     "do": "1. Show the flag to one person for 10 seconds from across the room. 2. Hide it. 3. They draw it from memory, or tell you the colours, the shapes and where each goes. 4. Compare. Change anything they got wrong, and test again with two more people.",
      "say": "Let's test it. Did they remember every part? Which part did they forget? How could you make it simpler?",
-     "kid": "Show your flag for 10 seconds. Hide it. Can they draw it? What did they forget?",
+     "kid": "Show your flag for 10 seconds. Hide it. Can they draw it or tell you about it? What did they forget?",
      "check": {
       "t": "mcq",
       "q": "A flag has eight colours and tiny writing. Nobody can draw it from memory. What would help most?",
@@ -1366,7 +1366,7 @@
      }
     }
    ],
-   "context": "This is a design challenge. You design a flag that people can recognise from far away and draw from memory.",
+   "context": "This is a design challenge. You design a flag that people can recognise from far away and draw from memory. You will find out what makes a flag easy to remember.",
    "setup": [
     {
      "art": "Three quick pencil sketches of flags on a page, one circled.",
@@ -1374,7 +1374,7 @@
     },
     {
      "art": "A girl holding up her coloured flag across the room while a friend draws it from memory.",
-     "caption": "2. Show it for 10 seconds. Can they draw it?"
+     "caption": "2. Show it for 10 seconds. Can they draw it or tell you about it?"
     }
    ]
   }

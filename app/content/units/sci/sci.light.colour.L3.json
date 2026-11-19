@@ -747,10 +747,10 @@
      "mins": 3,
      "do": "Play a practice turn with the question card 'Which colour bends the most in a prism?'.",
      "say": "Practice question. Which colour bends the most in a prism?",
-     "kid": "Practice question. Which colour bends the most in a prism? Say your answer.",
+     "kid": "Say your answer out loud first. Then pick from the choices.",
      "check": {
       "t": "mcq",
-      "q": "Rainbow Line-Up practice round: which colour bends the most in a prism?",
+      "q": "Which colour bends the most in a prism?",
       "options": [
        "Red",
        "Green",
@@ -1506,7 +1506,7 @@
      "what": "Guess first. Then split sunlight three ways, write down the order of the colours each time, and compare."
     }
    ],
-   "record": "Fill in the table. Draw the strips of colours, one under the other, with red on the left each time.",
+   "record": "Fill in the table. For each try, write the colours in order, with red first. Or colour a strip for each, one under the other.",
    "setup": [
     {
      "art": "A full glass of water at the edge of a sunny sill, a strip of colours on white paper on the floor below.",
@@ -1527,7 +1527,7 @@
      "mins": 3,
      "do": "1. Show your child the glass, the mirror in the tray of water and the prism, if you have one. 2. Ask them to guess whether the colours will come in the same order every time.",
      "say": "We're going to split sunlight in three different ways. Do you think the colours will always come in the same order? Could red ever be in the middle?",
-     "kid": "You will split sunlight three ways. Guess first. Will the colours always be in the same order?",
+     "kid": "You will split sunlight three ways. Make a guess, and say why.",
      "context": "This is the first step of the water prism test. You split sunlight in three ways and compare the order of the colours.",
      "ask": [
       {
@@ -1650,7 +1650,7 @@
      "what": "Guess first. Then spray with the Sun in front of you, beside you and behind you, and write down when you see a rainbow."
     }
    ],
-   "record": "Fill in the table. Draw yourself, the Sun, your shadow and the rainbow in one picture.",
+   "record": "Fill in the table. Draw yourself, the Sun, your shadow and the rainbow in one picture. Or take a photo, or tell your grown-up where each one was.",
    "setup": [
     {
      "art": "A child on a sunny balcony facing the low Sun, spraying a fine mist from a spray bottle, with no rainbow visible.",
@@ -1827,7 +1827,7 @@
      "mins": 4,
      "do": "Stop the rainbow disc and look at it again. Then compare all three discs.",
      "say": "Look, the colours are still there! So where did the white come from?",
-     "kid": "Stop the disc. Are the colours still there? So where did the white come from?",
+     "kid": "Stop the disc and look at it again. Then compare it with the other two discs.",
      "think": "Sunlight is all the colours together. Is the white in sunlight one colour or many?",
      "parent": "Many colours. The spinning disc shows that white can be made when many colours reach the eye together."
     },
@@ -1848,7 +1848,7 @@
    "title": "Catch a Rainbow on the Floor",
    "mins": 14,
    "days": 1,
-   "context": "This is a short noticing activity, before anyone explains anything. You put a glass of water in the sunshine and look for colours on the floor. Then you look at a green leaf in red light.",
+   "context": "This is a short noticing activity, before anyone explains anything. You will find out what a glass of water does to sunlight. You put a glass of water in the sunshine and look for colours on the floor. Then you look at a green leaf in red light.",
    "materials": [
     {
      "item": "a clear, smooth glass, filled to the top with water",
@@ -1880,7 +1880,7 @@
      "what": "Put the glass in the sun, catch the colours on paper, and talk about what you notice. Then look at a leaf in red light."
     }
    ],
-   "record": "Draw what you see on the paper. Colour it in the right order. Draw the leaf in red light and in room light. Write one thing you notice and one thing you wonder.",
+   "record": "Draw the colours in order, or take a photo. Say or write how the leaf looked in red light and in room light. Write one thing you notice and one thing you wonder.",
    "setup": [
     {
      "art": "A clear glass of water standing at the very edge of a sunny windowsill, with sunlight shining through it.",
@@ -1913,7 +1913,7 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Put white paper on the floor where the light lands. 2. Move the paper slowly back and forth until a strip of colours appears.",
-     "say": "What do you notice? What do you wonder?",
+     "say": "Look closely at the paper. Tell me what you see.",
      "kid": "Put white paper on the floor. Move it slowly. Can you see colours? Which colour is at each end?",
      "ask": [
       {
@@ -1950,9 +1950,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Ask your child to draw the colours in order, and to write one thing they notice and one thing they wonder.",
-     "say": "Let's draw what we saw, in the right order. Then tell me one question you want to find out.",
-     "kid": "Draw the colours in the order you saw them. Write one question you have.",
+     "do": "Ask your child to point to the colours in order and name them, or to draw them. Then ask for one thing they wonder.",
+     "say": "Let's name the colours in the right order. Then tell me one question you want to find out.",
+     "kid": "Point to the colours in order and name them. Or draw them. Then say one question you have.",
      "think": "If you put the glass in the shade, would you still see colours? Why or why not?",
      "parent": "No. Without sunlight shining through the glass, there are no colours. So the colours come from the sunlight, not from the glass. You can test this."
     },
@@ -1960,7 +1960,7 @@
      "id": "s4",
      "mins": 4,
      "do": "1. Go to a dim room. Put a green leaf on white paper. 2. Fold red cellophane or a red sweet wrapper two or three times, and hold it over a phone torch. If you have neither, open a plain red picture on a phone at full brightness. Use that screen as the light. 3. Ask your child to guess, then shine the red light on the leaf and the paper. 4. Switch the room light on again.",
-     "say": "This leaf is green and this paper is white. What colour do you think the leaf will look in red light? Why do you think so? Now look. Is the leaf brighter or darker than the paper?",
+     "say": "This leaf is green and this paper is white. What colour do you think the leaf will look in red light? Why do you think so? Now look.",
      "kid": "Put a leaf on white paper in a dim room. Guess how it will look in red light. Shine the red light on it. Is the leaf brighter or darker than the paper?",
      "parent": "The white paper looks bright red. The leaf looks much darker, a dull dark red or almost black. It may not look fully black, because cellophane lets a little other light through and a leaf reflects a little red. A darker room and folded cellophane make it clearer. Don't explain yet. The explanation cards come later. If your child says it was the light that changed, that is a good answer.",
      "ask": [
@@ -1982,7 +1982,7 @@
    "title": "Colour Filters: let only one colour through",
    "mins": 15,
    "days": 1,
-   "context": "In this activity, you hold coloured see-through sheets in a sunbeam. Each sheet lets some colours through and absorbs most of the others.",
+   "context": "In this activity, you hold coloured see-through sheets in a sunbeam. Each sheet lets some colours through and absorbs most of the others. You will find out which colours are left.",
    "materials": [
     {
      "item": "red, green and blue cellophane sheets, from gift wrap or a craft shop, or see-through coloured sweet wrappers",
@@ -2092,7 +2092,7 @@
    "title": "Bubble and CD Rainbows",
    "mins": 15,
    "days": 1,
-   "context": "This activity is a rainbow hunt in soap bubbles and on a CD. These colours are made in a different way from a prism's, by very thin layers and tiny grooves.",
+   "context": "This activity is a rainbow hunt in soap bubbles and on a CD. These colours are made in a different way from a prism's, by very thin layers and tiny grooves. You will find out if rainbow colours always need water or a prism.",
    "materials": [
     {
      "item": "soap bubble mixture: a little dish soap in a cup of water",
@@ -2118,7 +2118,7 @@
      "what": "Blow bubbles in the light, look at the swirls, then tilt a CD under a torch."
     }
    ],
-   "record": "Draw a bubble with its colours. Draw the CD's rainbow. Write which one looks most like a prism's rainbow, and why.",
+   "record": "Say or write which one looks most like a prism's rainbow, and why. If you like, draw the bubble and the CD's rainbow.",
    "setup": [
     {
      "art": "A child gently blowing a big soap bubble through a straw, swirls of pink, green and gold on it.",
@@ -2199,7 +2199,7 @@
      "what": "Each person marks the colours on their own copy, then everyone compares."
     }
    ],
-   "record": "Write how many colours each person counted. Draw a bar chart with one bar for each person.",
+   "record": "Write how many colours each person counted. Show it as a bar chart, or as a stack of coins for each person.",
    "setup": [
     {
      "art": "A long strip of smoothly changing colours from red to violet, with no lines on it.",
@@ -2222,7 +2222,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Count the colours each person marked. 2. Put the strips side by side. 3. Make a bar chart: one bar per person, as tall as the number they counted.",
+     "do": "1. Count the colours each person marked. 2. Put the strips side by side. 3. Make a bar chart, or a stack of coins for each person, as tall as the number they counted.",
      "say": "How many colours did each of us count? Did we draw our lines in the same places?",
      "kid": "Count your colours. How many did others count? Did you all draw your lines in the same places?",
      "chart": {
@@ -2330,7 +2330,7 @@
      "what": "Compare all the drawings and explain the colours."
     }
    ],
-   "record": "Each day, colour a square for the noon sky and a square for the sunset sky. Write the time and the weather.",
+   "record": "Each day, colour a square or take a photo for the noon sky and for the sunset sky. Write the time and the weather.",
    "setup": [
     {
      "art": "A child on a terrace at noon, colouring a blue square in a notebook, the sky deep blue above.",
@@ -2345,9 +2345,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "At noon, look up from a window, balcony or terrace, away from the Sun. Colour a square for the sky. At sunset, look at the sky near the Sun, never at the Sun itself, and colour a second square.",
+     "do": "At noon, look up from a window, balcony or terrace, away from the Sun. Colour a square for the sky, or take a photo. At sunset, look at the sky near the Sun, never at the Sun itself, and colour or photograph it again.",
      "say": "Let's be sky scientists for five days. What colour is the sky now? Let's match it with a colour pencil.",
-     "kid": "Look up at the noon sky from a window or balcony. Do not look at the Sun. Colour a square to match. Do it again at sunset.",
+     "kid": "Look up at the noon sky from a window or balcony. Do not look at the Sun. Colour a square to match, or take a photo. Do it again at sunset.",
      "adult": true,
      "context": "This is the first day of the Sky Colour Diary. You record the sky's colours at noon and at sunset."
     },
@@ -2356,7 +2356,7 @@
      "mins": 9,
      "do": "On days 2, 3 and 4, add a sunset square each evening. Write the weather beside it.",
      "say": "Is tonight's sunset the same as yesterday's? Is it a dusty day or a clear one?",
-     "kid": "Colour the sunset sky again tonight. Write if it is clear, cloudy or dusty.",
+     "kid": "Colour or photograph the sunset sky again tonight. Write if it is clear, cloudy or dusty.",
      "wait": "Come back each evening for 3 more days",
      "adult": true
     },
@@ -2365,7 +2365,7 @@
      "mins": 5,
      "do": "On day 5, put the squares side by side and talk about the pattern.",
      "say": "At noon the sky is blue. At sunset it is orange and red. Remember, sunlight has all the colours. Why might the blue go missing at sunset?",
-     "kid": "Look at your squares. The noon sky is blue. The sunset sky is orange. Where did the blue go?",
+     "kid": "Put your squares side by side. Point to what changed between noon and sunset.",
      "check": {
       "t": "mcq",
       "q": "At sunset, sunlight crosses much more air before it reaches you. Air scatters blue light away. What colours are left to reach you?",
@@ -2443,7 +2443,7 @@
      "what": "Compare the drawings and give a short 'rainbow show' to the family."
     }
    ],
-   "record": "Draw the rainbow of each light. Write whether it was smooth, or had bright lines or gaps.",
+   "record": "For each light, write whether the rainbow was smooth, or had bright lines or gaps. Draw the one you like best, or take a photo.",
    "setup": [
     {
      "art": "A cereal box with a thin slit cut in one end and a quarter of a CD taped at a slant over a hole at the other end.",
@@ -2455,7 +2455,7 @@
     },
     {
      "art": "Three drawn rainbows side by side: a smooth one for daylight, one with sharp bright lines for a tubelight, a warm red-orange smooth one for a candle.",
-     "caption": "3. Draw each light's rainbow. Are they the same?"
+     "caption": "3. Look at each light's rainbow. Are they the same?"
     }
    ],
    "flow": [
@@ -2472,9 +2472,9 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Look through the spectroscope at an LED bulb and a candle flame. Add a tubelight or CFL if you can find one. Draw each rainbow in its own box in the notebook.",
+     "do": "Look through the spectroscope at an LED bulb and a candle flame. Add a tubelight or CFL if you can find one. For each light, tick 'smooth' or 'bright lines' in the notebook. Then draw the one you like best.",
      "say": "Is the bulb's rainbow smooth like daylight? Does any lamp show bright lines?",
-     "kid": "Look through the spectroscope at a bulb. Then look at a candle, with a grown-up. Then look at a tubelight, if you can find one. Draw each rainbow.",
+     "kid": "Look through the spectroscope at a bulb. Then look at a candle, with a grown-up. Then look at a tubelight, if you can find one. Say if each rainbow is smooth or has bright lines.",
      "adult": true,
      "wait": "Come back tomorrow, in the evening, when the lamps are on",
      "parent": "Daylight gives a smooth rainbow. An LED bulb or LED tube gives a smooth rainbow with an extra-bright blue part. A candle gives a smooth rainbow that is mostly red, orange and yellow, with little blue. An old-style tubelight or CFL gives a rainbow with a few sharp bright lines, often green, orange-red and blue, because of the mercury vapour and the coating inside it. Many homes now have only LED lights, so the tubelight may not be at home. Look for one at a shop, a school or a relative's home, or skip it.",
@@ -2494,9 +2494,9 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "Lay out the drawings. Ask your child to explain each one to someone at home in a short 'rainbow show'.",
+     "do": "Lay out your notes. Ask your child to explain each light to someone at home in a short 'rainbow show'.",
      "say": "Tell us what you found. Which light had the smoothest rainbow? Which had lines?",
-     "kid": "Show someone at home your rainbow drawings. Tell them what you found.",
+     "kid": "Show someone at home your notes. Tell them what you found.",
      "think": "Astronomers look at stars this way. What could they learn from a star's rainbow?",
      "parent": "They can learn what the star is made of, because each kind of atom makes its own bright lines."
     },
@@ -2540,7 +2540,7 @@
     "Make a slit in a piece of card, like the small hole Newton cut in his window shutter. A thin beam gives cleaner colours.",
     "Try a round glass bowl full of water, like the glass ball of water that Kamal al-Din al-Farisi used as a model raindrop."
    ],
-   "your_turn": "Now invent your own way. Draw it, try it, and measure your rainbow. Is it bigger than the others?",
+   "your_turn": "Now invent your own way. Plan it, try it, and measure your rainbow. Sketch it if that helps. Is it bigger than the others?",
    "setup": [
     {
      "art": "A dim room with curtains almost closed, one strip of sunlight falling on a tray of water with a mirror in it.",
@@ -2561,7 +2561,7 @@
      "mins": 5,
      "do": "Read the challenge together. Look at the materials you have.",
      "say": "Here's our job. Make the biggest rainbow you can, indoors, with real light. What do you think will make it bigger?",
-     "kid": "Your job is to make the biggest rainbow you can indoors, using real light. What could make it bigger?",
+     "kid": "Look at what you have. What could make the rainbow bigger?",
      "context": "This is the first step of The Biggest Rainbow Indoors. You plan how to make a big rainbow from sunlight."
     },
     {
@@ -2639,7 +2639,7 @@
      "mins": 8,
      "do": "Find out which side of your home faces east, where the Sun rises, and which faces west, where it sets.",
      "say": "Where does the Sun rise at our house? Where does it set? Remember, for a rainbow the Sun must be behind you.",
-     "kid": "Where does the Sun rise at your house? Where does it set? The Sun must be behind you for a rainbow.",
+     "kid": "Use a compass or phone to find east and west at your house.",
      "context": "This is the first step of The Rainbow Forecaster. You work out when and where your family should look for rainbows."
     },
     {
@@ -2647,7 +2647,7 @@
      "mins": 12,
      "do": "Make the forecast card, with a clock and a direction arrow for morning and for evening.",
      "say": "If it rains in the evening, which window should we look out of?",
-     "kid": "Draw your card. Show the time and which way to look, morning and evening.",
+     "kid": "Make your card. Show the time and which way to look, morning and evening. Draw it or write it.",
      "check": {
       "t": "mcq",
       "q": "It is 5 o'clock in the evening. The Sun is low in the west. Rain is falling. Which way should you look for a rainbow?",

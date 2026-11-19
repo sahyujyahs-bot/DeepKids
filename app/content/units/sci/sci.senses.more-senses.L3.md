@@ -239,13 +239,13 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
   *Child mode:* Lay the cards face up. Pick an animal. Find the problem and the sense that go with that animal.
 - **s2 (14 min)**  
   *Parent does:* Play the game by the rules. Each time someone makes a trio, ask how the sense solves the problem.  
-  *Parent says:* You found the python. How do the pits help the python find a rat at night?  
-  *Child mode:* You found a trio! How does the sense help that animal?
+  *Parent says:* You found a trio. How does the sense solve the animal's problem?  
+  *Child mode:* Hold up your trio. Tell what the animal's problem is.
   - Ask: How does the lateral line help a sardine? (good: They feel the water move when the other fish turn, so they turn too.; They can feel a hunter coming in the dark.)
 - **s3 (3 min)**  
   *Parent does:* At the end, pick one trio and talk about it.  
   *Parent says:* Pick one trio. What would happen to that animal if they lost that sense?  
-  *Child mode:* Pick one trio. What would happen to that animal if they lost that sense?
+  *Child mode:* Pick one trio. Imagine that animal without their sense.
   - Note: A good answer says the animal could not solve their problem. For example, a prawn without sand grains would not know which way is up, and a python could not find a rat in the dark.
   - Check: A female mosquito finds people in a dark room. Which sense helps her most? → **Smelling the carbon dioxide in breath**
 ### g2 · Which Sense Told You? (15 min)
@@ -265,7 +265,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 - **s3 (2 min)**  
   *Parent does:* Add up the points.  
   *Parent says:* Which moments used two senses at once? Why did each one need both?  
-  *Child mode:* Add up your points. Which moments used two senses at once?
+  *Child mode:* Add up your points. Who has the most?
   - Note: Standing on one foot to put on a sock uses balance and body position. Pulling your hand back from a hot tawa uses pain, and a reflex.
   - Check: You feel the lift start to go up, though the doors are shut. Which sense noticed? → **Balance**
 
@@ -274,12 +274,12 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 - **question:** A steel plate feels colder than a wooden board. If we put an ice cube on each, which one melts first?
 - **predict:** Touch the steel plate and the wooden board. Which feels colder? Now guess: on which one will the ice cube melt first? Why do you think so?
 - **fair test:** Leave both surfaces in the same room for at least an hour, out of the sun and away from the fan, so they reach the same temperature. Use two ice cubes of the same size from the same tray. Put them down at the same moment. Only the surface changes. A thin steel plate and a thick board are not exactly alike. So the test tells you about this plate and this board, not about all steel and all wood.
-- **record:** Fill in the table. Then draw the two cubes as they looked after 10 minutes, with their puddles.
+- **record:** Fill in the table. Then take a photo of the two cubes after 10 minutes, or draw them. Say which puddle was bigger.
 - **results table:** Surface | How it felt to my hand | My guess: melts first or last? | After 5 minutes | After 10 minutes | After 15 minutes | Which melted first?
 - **s1 (4 min)**  
   *Parent does:* 1. An hour before, put the steel plate and the wooden board side by side on a table. 2. Keep them out of the sun and away from the fan. 3. Now your child presses one palm flat on each for 5 seconds.  
   *Parent says:* The steel plate and the wooden board have been sitting in the same room for an hour. Put one hand flat on each. Which one feels colder?  
-  *Child mode:* Put one hand on the steel. Put the other hand on the wood. Which feels colder?
+  *Child mode:* Put one hand on the steel and the other on the wood. Keep them there for 5 seconds. Feel the difference.
   - Ask: Does the steel or the wood feel colder? Do you think it really is colder? (good: The steel feels colder.; The steel is colder.; I am not sure, they have been in the same room.)
   - Note: Almost everyone says the steel feels colder. Accept whatever your child says about why. Do not explain yet.
 - **s2 (3 min)**  
@@ -296,7 +296,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 - **s4 (2 min)**  
   *Parent does:* Touch the steel plate where the ice was, and the wooden board where its ice was.  
   *Parent says:* Touch the steel under the puddle. Now touch the wood under its cube. What do you feel now?  
-  *Child mode:* Touch the steel under the puddle. Touch the wood under its cube. What do you feel?
+  *Child mode:* Touch the steel, then the wood. Is the cold only under the ice, or all around it?
   - Note: The steel feels icy all around the puddle, because it gave its heat to the ice. The wood is cold only right under the cube. Heat moves through steel quickly, and through wood slowly.
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say or write three things: what they think, what they saw, and why they think it happened.  
@@ -328,7 +328,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 - **s4 (6 min)**  
   *Parent does:* Add up the misses for each hand. Ask your child to say three things: what they think, what they saw, and why it happened.  
   *Parent says:* Your eyes were shut, but your pencil still came close. How did your hand know where to go? What did you see, and why did it happen?  
-  *Child mode:* Your eyes were shut. How did your hand know where to go?
+  *Child mode:* Look at your total misses. Which hand came closer to the dot?
   - Ask: How did your hand get close to the dot without your eyes? (good: My arm knows where it is.; Stretch sensors in my muscles told my brain where my hand was.; I remembered where the dot was, and my body sense moved my hand there.)
   - Note: A strong answer: my pencil landed about 2 centimetres from the dot, so my body knows where my hand is even without my eyes. The sense is called proprioception. Stretch sensors in my muscles and joints told my brain. It was not perfect, because my eyes usually help to check.
   - Check: A girl shuts her eyes and touches her pencil to the paper. It lands 2 centimetres from the dot. What does this show? → **Her body can sense where her hand is without her eyes, but not perfectly**
@@ -337,7 +337,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 - **predict:** Will the dizziness after 10 turns last longer than after 5 turns, the same, or shorter? Why do you think so?
 - **fair test:** Spin at the same speed each time, about one turn every 2 seconds, in the same direction. Sit down straight after. Rest 3 minutes between tries, until you feel completely normal. Time each try the same way. The second try may feel different just because it comes second. So if you do the whole test again, do the 10 turns first.
 - **safety:** A grown-up stands close the whole time. Spin slowly, on a mat, away from furniture and stairs. Sit down straight after spinning. Stop at once if your child feels sick. Children who get headaches or feel sick easily should only watch, or time a grown-up instead.
-- **record:** Fill in the table. Draw two bars, one for 5 turns and one for 10.
+- **record:** Fill in the table. Then lay out one coin or bean for every second of dizziness, in one row for 5 turns and one row for 10. You can draw two bars instead.
 - **results table:** Number of turns | Seconds until the room stops spinning | Did the eyes flick? For how many seconds?
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Clear a space and put down a mat. Ask for a guess and a reason.  
@@ -356,7 +356,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 - **s4 (5 min)**  
   *Parent does:* Compare the two times. Ask your child to say three things: what they think, what they saw, and why it happened.  
   *Parent says:* Which time was longer? What do you think is still moving after you stop?  
-  *Child mode:* Which dizziness lasted longer? What keeps moving after you stop?
+  *Child mode:* Compare the two times. Which dizziness lasted longer?
   - Note: A strong answer: after 10 turns, the dizziness lasted longer. The liquid in the loops of my inner ear had longer to catch up, so it was swirling faster when I stopped and took longer to slow down. While it was still swirling, my brain thought I was turning.
   - Check: Why does the room seem to spin after you stop? → **The liquid in your ear loops keeps swirling for a few seconds**
 
@@ -364,11 +364,11 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 ### a1 · Spin and Stop: the water that keeps turning (15 min)
 - **problem:** Why does the room seem to keep turning after you stop spinning? Deep in each ear are loops full of liquid. A bowl of water will be a model of one loop. You will turn the bowl, stop it, and watch what the water does.
 - **safety:** Spin slowly on a mat, away from furniture, with a grown-up close. Sit down straight after spinning.
-- **record:** Draw the bowl with the paper arrow: once while you turn the bowl, and once after it stops.
+- **record:** Take two photos of the bowl with the paper arrow: one while you turn it and one just after it stops. You can draw them instead. Tell your grown-up what the arrow did.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Your child spins slowly 5 times on the mat, then sits down.  
   *Parent says:* Spin slowly 5 times, then sit down. What do you notice?  
-  *Child mode:* Spin slowly 5 times. Sit down. What do you notice?
+  *Child mode:* Spin slowly 5 times. Sit down. Feel what the room does.
   - Ask: What did you notice when you sat down? (good: The room kept turning.; I felt like I was still spinning.; I felt wobbly.)
 - **s2 (4 min)**  
   *Parent does:* 1. Stand the bowl of water on the steel plate, on a table. 2. Float the paper arrow in the middle. 3. Wait until the water is still. 4. Hold the bowl by its rim and turn it a quarter turn, quickly, so it slides on the plate. Watch the arrow.  
@@ -384,7 +384,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 - **s4 (3 min)**  
   *Parent does:* Talk about what the model shows.  
   *Parent says:* Your head is like the bowl, and the liquid in your ear is like the water. When you stopped spinning, what was still turning?  
-  *Child mode:* Your head is like the bowl. The liquid in your ear is like the water. When you stopped spinning, what kept turning?
+  *Child mode:* Your head is like the bowl. Point to the part of you that is like the water.
   - Note: A good answer: my head stopped, but the liquid in my ears kept swirling, so my brain thought I was still spinning.
 ### a2 · The Floating Arm and the Thumb Hunt (10 min)
 - **problem:** Your muscles send signals to your brain about where your arms are. This is your body-position sense. First you will fool it, so your arms rise by themselves. Then you will find your own thumb with your eyes shut.
@@ -417,10 +417,10 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 - **s3 (3 min)**  
   *Parent does:* Talk about what this shows.  
   *Parent says:* The water came from the same glass. Was it really colder after the mint? What changed?  
-  *Child mode:* The water was the same. Was it really colder? What changed?
-  - Check: After chewing mint, the same water felt colder. Why? → **Menthol in mint switches on your cold receptors**
+  *Child mode:* Compare your two scores. Was the water really colder?
+  - Check: After the mint, the same water felt colder. Why? → **Menthol in mint switches on your cold receptors**
 ### a4 · Cold Spot Map: is all your skin the same? (15 min)
-- **record:** On the paper grid, colour each square blue if it felt cold and leave it white if it felt only like a touch.
+- **record:** On the paper grid, colour each square blue if it felt cold and leave it white if it felt only like a touch. Then count the blue squares and say the number.
 - **s1 (3 min)**  
   *Parent does:* Draw a small grid of 16 squares on the back of your child's hand, each square about as wide as a pencil.  
   *Parent says:* I am drawing a grid on your hand. We will test each square with a cold key. Will every square feel cold? Why do you think so?  
@@ -446,7 +446,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 - **s2 (4 min)**  
   *Parent does:* Talk about why a fish needs this sense.  
   *Parent says:* A fish in a muddy river cannot see far. Why would feeling the water move help them?  
-  *Child mode:* A fish cannot see far in muddy water. How does feeling the water help?
+  *Child mode:* Imagine you are a fish in muddy water. What can you not see? What can you still feel?
   - Ask: How does feeling the water move help a fish? (good: They can feel a big fish coming to eat them.; They can swim with the other fish without bumping.; They can find food that is moving.)
 
 ## Projects
@@ -461,18 +461,18 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 - **s2 (15 min)**  
   *Parent does:* Each evening for days 2 to 4, add the messages from that day.  
   *Parent says:* What messages did your body send today? What did you do about each one?  
-  *Child mode:* What did your body tell you today? What did you do?
+  *Child mode:* Write today's messages in the right columns. Write what you did about each one.
   - Note: Examples: dizzy after a swing, foot asleep after sitting cross-legged, the tiles cold under bare feet, a scraped knee, thirst after playing, needing the toilet.
   - Wait: Add to the diary each evening for 3 days.
 - **s3 (5 min)**  
   *Parent does:* Count the messages in each column. Talk about which sense sent the most, and what each message did for your child.  
   *Parent says:* Which sense sent you the most messages? Which message kept you safe?  
-  *Child mode:* Count each column. Which sense sent the most messages? Which message kept you safe?
+  *Child mode:* Count each column. Circle the column with the most messages.
 
 ## Challenges
 ### c1 · Guard the Feet: help someone who has lost the sense of pain in their feet (30 min)
 - **problem:** Some people have lost the sense of pain in their feet. This can happen with leprosy, or after many years of the illness diabetes. They do not notice a sharp stone, a blister or a burn from hot sand. Design something that helps them find a hurt before it gets worse.
-- **your turn:** Now design your own foot guard. Draw it, label each part, and say which danger it catches.
+- **your turn:** Now design your own foot guard. Make it, or draw it. Say what each part does and which danger it catches.
 - **constraints:** It must work every day, without needing the person to feel pain.; It must be cheap and easy to make in an Indian home.; It must be safe and gentle on the skin.
 - **general:** A daily foot check with a mirror, morning and night, looking for red marks, cuts and blisters.; Soft, closed shoes that are checked inside for stones before putting them on.; Testing bath water with an elbow, which can still feel heat, before stepping in.
 - **creative:** A chappal with a bright white lining, so a drop of blood or a wet blister shows at once.; A family checklist chart on the bathroom door, ticked every evening.; A small cloth-covered tray by the door. Tip each shoe out over it before wearing it.
@@ -481,9 +481,9 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
   *Parent says:* Pain usually tells us when something is wrong. If someone has lost it in their feet, what could hurt their feet without them knowing?  
   *Child mode:* Suppose your feet could not feel pain. What could hurt them without you knowing?
 - **s2 (20 min)**  
-  *Parent does:* Draw two ideas, choose one, and make a model or a chart.  
-  *Parent says:* Draw two ideas. Which one would catch more dangers? Let's make that one.  
-  *Child mode:* Draw two ideas. Pick the best one. Make it.
+  *Parent does:* Talk through two ideas, choose one, and make a model or a chart.  
+  *Parent says:* Tell me two ideas. Which one would catch more dangers? Let's make that one.  
+  *Child mode:* Think of two ideas. Pick the best one. Make it.
 - **s3 (5 min)**  
   *Parent does:* Test the idea: hide a small pebble in a shoe, and see if the design finds it.  
   *Parent says:* Let's test it. I hid a pebble in this shoe. Does your design find it?  
@@ -499,9 +499,9 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
   *Parent says:* In the prawn's pit, the sand rolls to the low side and presses on hairs. How could a marble in a box tell us which way it is tipped?  
   *Child mode:* Sand rolls to the low side. How can a marble show which way is down?
 - **s2 (20 min)**  
-  *Parent does:* Draw an idea, then build it.  
-  *Parent says:* Draw your detector first. What will tell you which side is low?  
-  *Child mode:* Draw your idea. Then build it.
+  *Parent does:* Think of an idea, then build it.  
+  *Parent says:* Tell me your idea first. What will show you which side is low?  
+  *Child mode:* Tell your idea. Then build it.
 - **s3 (5 min)**  
   *Parent does:* Test it: your child shuts their eyes while you tip the detector. Can they tell the direction?  
   *Parent says:* Eyes shut. I will tip it. Which way is it tipped?  

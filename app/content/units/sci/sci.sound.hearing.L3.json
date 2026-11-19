@@ -525,7 +525,7 @@
      "id": "s2",
      "mins": 12,
      "do": "Play the rounds. After each sound card, ask why a listener needs to hear that sound.",
-     "say": "This card says: a bat hunting a moth. Which of your listeners can hear it? Why does the moth need to hear it?",
+     "say": "Read out a sound card, like 'a bat hunting a moth'. Which of your listeners can hear it?",
      "kid": "Read the sound card. Can your listeners hear it? Say why.",
      "ask": [
       {
@@ -783,7 +783,7 @@
      "what": "Find the quietest volume step you can hear with open ears. Repeat with cupped hands, a towel and the ear flaps pressed shut. Compare the steps."
     }
    ],
-   "record": "Fill in the table. Then draw one bar for each ear cover, as tall as the volume step it needed.",
+   "record": "Fill in the table. Then show each ear cover as a bar as tall as the step it needed. Draw it, or stack that many coins.",
    "flow": [
     {
      "id": "s1",
@@ -798,8 +798,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Ask for the guess and the reason, and write both down.",
-     "say": "Soon you will cover your ears in three ways. Which do you think will block the most sound? Why do you think so?",
-     "kid": "Guess. Which cover blocks most: hands, a towel, or pressing the flaps shut? Why?",
+     "say": "Soon you will cover your ears in three ways: cupped hands, a folded towel, or pressed ear flaps. Which do you think will block the most sound? Why?",
+     "kid": "Pick one cover. Say why you think it is best.",
      "ask": [
       {
        "q": "Which cover do you think will block the most, and why?",
@@ -835,7 +835,7 @@
      "mins": 4,
      "do": "1. For each cover, take away the open-ears step from its step. 2. Write the difference in the last column.",
      "say": "Which cover needed the most extra steps? That one blocked the most sound. Was your guess right?",
-     "kid": "Which cover needed the most steps? That one blocked most. Were you right?",
+     "kid": "Look at your table. Find the cover with the biggest difference.",
      "check": {
       "t": "mcq",
       "q": "A listener heard the song at step 2 with open ears and at step 7 with the ear flaps pressed shut. What does that tell you?",
@@ -853,7 +853,7 @@
      "mins": 5,
      "do": "Talk about the results. Then set the phone to volume step 1, with the song still playing and the listener's ears open.",
      "say": "Look. At step 1 the song is playing, but you can't hear it. What is happening to that sound?",
-     "kid": "The song plays at step 1. You can't hear it. Where is the sound going?",
+     "kid": "The song is still playing at step 1, but you can't hear it.",
      "ask": [
       {
        "q": "Why did one cover block more than another?",
@@ -978,7 +978,7 @@
      "mins": 3,
      "do": "Ask everyone for a guess and a reason.",
      "say": "We will make the note higher and higher. Who do you think will hear it the longest? Why do you think so?",
-     "kid": "Who will hear the highest note? You, or the grown-ups? Why?",
+     "kid": "Pick one: you, or the grown-ups? Say why.",
      "ask": [
       {
        "q": "Who do you think will hear the highest note, and why?",
@@ -1005,7 +1005,7 @@
      "mins": 5,
      "do": "Put everyone in order from the highest pitch heard to the lowest. Look for a pattern with age.",
      "say": "Who heard the highest? Who stopped first? Do you see a pattern with age?",
-     "kid": "Who heard the highest note? Is there a pattern with age?",
+     "kid": "Line everyone up from the highest note heard to the lowest.",
      "check": {
       "t": "mcq",
       "q": "A child aged 8 hears the note up to 18,000 hertz. The child's grandmother stops hearing it at 9,000 hertz. Why?",
@@ -1109,8 +1109,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Put the phone on a table inside the room. 2. Set the volume to a comfortable level. 3. Stand outside, 2 metres from the open door.",
-     "say": "We will play a low note and a high note. First, guess: which will the door block more? Why do you think so?",
-     "kid": "Guess. Will the door block the low note or the high note more? Why?",
+     "say": "We will play a low note and a high note behind a shut door. Which will the door block more? Why do you think so?",
+     "kid": "Say your guess: the low note or the high note?",
      "context": "This is the first step of the door test. Here you set up a phone inside a room and stand outside."
     },
     {
@@ -1126,7 +1126,7 @@
      "mins": 5,
      "do": "Work out how much each note dropped.",
      "say": "Which note dropped more when the door shut?",
-     "kid": "Which note lost more when the door shut?",
+     "kid": "For each note, take the shut-door score away from the open-door score.",
      "check": {
       "t": "mcq",
       "q": "You hear a neighbour's music through the wall. You hear the drum beat but not the words. Why?",
@@ -1142,9 +1142,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Talk about elephants.",
+     "do": "Read the question and let the child think first.",
      "say": "Elephants call with very low rumbles. Why might low sounds be useful for a herd spread across a forest?",
-     "kid": "Elephants rumble very low. Why is a low sound useful in a big forest?",
+     "kid": "Think about the door. Which kind of sound gets through better?",
      "ask": [
       {
        "q": "Why might low rumbles help an elephant herd?",
@@ -1175,7 +1175,7 @@
    "title": "Hum With Your Ears Shut",
    "mins": 6,
    "days": 1,
-   "context": "This is a quick way to start the unit. You hum with your ears open, then with them shut, and notice something surprising.",
+   "context": "You hum with your ears open, then shut. You will find out why your own hum sounds different when your ears are shut.",
    "materials": [
     {
      "item": "your own voice and hands",
@@ -1204,7 +1204,7 @@
      "mins": 2,
      "do": "1. Press the small flap in front of each ear hole shut with your thumbs. 2. Before humming, ask for a guess and a reason. 3. Hum the same note again.",
      "say": "Now we close our ears. Will the hum sound louder, quieter or the same? Why do you think so? Now hum.",
-     "kid": "Press your ear flaps shut. Guess: louder or quieter? Why? Now hum.",
+     "kid": "Press your ear flaps shut with your thumbs. Then hum.",
      "ask": [
       {
        "q": "What happened to the hum?",
@@ -1220,8 +1220,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask how the sound could get in with the ears shut.",
-     "say": "Your ears were shut, but the hum got louder. How did it reach you?",
-     "kid": "Your ears were shut. How did the hum get in?",
+     "say": "Your ears were shut, but the hum got louder. How did it reach you? The cochlea is the snail-shaped part deep in your ear that turns vibrations into signals.",
+     "kid": "Hint: touch your throat and hum. What do you feel?",
      "check": {
       "t": "mcq",
       "q": "With your ears shut, your hum sounds louder. How does it reach your cochlea?",
@@ -1251,7 +1251,7 @@
    "title": "Is That Really My Voice?",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you record your own voice and play it back. Most people are surprised by how they sound.",
+   "context": "You record your own voice and play it back. You will find out why it sounds different from the voice you hear when you talk.",
    "materials": [
     {
      "item": "a phone that can record sound",
@@ -1280,7 +1280,7 @@
      "mins": 3,
      "do": "1. Play each recording. 2. Ask each person if they sound like themselves.",
      "say": "Do you sound like you? Now ask a grown-up who knows you well: is that how you always sound?",
-     "kid": "Listen. Is that your voice? Ask a grown-up if it sounds like you.",
+     "kid": "Listen to your recording.",
      "ask": [
       {
        "q": "What is different about your recorded voice?",
@@ -1330,22 +1330,22 @@
      "what": "Cup hands behind your ears and listen to a sound in front. Then turn your back to the sound and cup your hands in front of your ears, facing backwards. Compare."
     }
    ],
-   "record": "Draw how you held your hands when the sound in front was loudest, and how you held them when the sound behind you was loudest.",
+   "record": "Show your grown-up how you held your hands when the sound in front was loudest, and when the sound behind you was loudest. Or take a photo of each.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Stand facing the fan or phone, 2 metres away. 2. Listen. 3. Cup both hands behind your ear flaps, fingers together, and listen again.",
      "say": "Listen to the fan. Now cup your hands behind your ears. Is it louder, quieter or the same?",
-     "kid": "Listen. Now cup your hands behind your ears. Louder or quieter?",
+     "kid": "Listen. Then cup your hands behind your ears and listen again.",
      "context": "This is the first step of the cat ears activity. Here you make your ear flaps bigger with your hands."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Turn your back to the sound. 2. Hold your cupped hands in front of your ears, open side facing backwards. 3. Listen.",
+     "do": "1. Turn your back to the sound. 2. Cup your hands in front of your ears, open side facing the sound behind you. 3. Listen.",
      "say": "Now the sound is behind you. Turn your hand cups to face it. What happens?",
-     "kid": "Turn around. Face your hand cups backwards. Is the sound louder now?",
+     "kid": "Turn your back to the sound. Open your hand cups toward it.",
      "ask": [
       {
        "q": "Why does turning the cups help?",
@@ -1359,9 +1359,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Talk about cats.",
+     "do": "Read the question and let the child think first.",
      "say": "A cat can turn each ear flap separately, without moving the head. Why would that help a cat who hunts mice?",
-     "kid": "A cat can turn each ear separately. Why does that help catch a mouse?",
+     "kid": "A cat can turn each ear, without moving the head.",
      "ask": [
       {
        "q": "How does turning ears help a cat?",
@@ -1439,7 +1439,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Stretch the balloon piece over the other end of the tube. 2. Hold it with a rubber band.",
-     "say": "This is the eardrum. Tap the tube and feel it vibrate.",
+     "say": "This is the eardrum. Tap the balloon gently and feel it vibrate.",
      "kid": "Stretch the balloon over the end. That is your eardrum.",
      "parent": "If you sprinkle a few grains of salt on the balloon eardrum and shout into the flap, the grains may jump. This is an extra, and you can skip it."
     },
@@ -1447,7 +1447,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Tape the tube onto the rest of the chart paper. 2. Glue the three small things in a row behind the eardrum. 3. Coil the wool like a snail shell next to them.",
-     "say": "These are the hammer, the anvil and the stirrup. The coil is the cochlea.",
+     "say": "These are three tiny bones: the hammer, the anvil and the stirrup. They pass the vibration on. The coil is the cochlea.",
      "kid": "Glue three tiny things in a row. Coil the wool like a snail.",
      "ask": [
       {
@@ -1462,9 +1462,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Label every part. Draw a line from the cochlea to a small brain.",
+     "do": "Label every part. Then point from the cochlea to where the brain would be.",
      "say": "Tell me the journey of a sound, from the flap to the brain.",
-     "kid": "Label each part. Tell the journey of a sound out loud.",
+     "kid": "Label each part. Follow the sound's path with your finger.",
      "check": {
       "t": "mcq",
       "q": "Which part turns the vibration into signals for the brain?",
@@ -1494,7 +1494,7 @@
    "title": "The Arm's-Length Noise Check",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you check which sounds at home are loud enough to harm hearing over time, using one simple test.",
+   "context": "You will find out which places at home are loud enough to harm hearing over time, using one simple test.",
    "problem": "Doctors use a simple test to tell if a place is too loud. Stand one arm's length from someone and talk in a normal voice. If you have to shout to be heard, the place is loud enough to harm ears over time.",
    "materials": [
     {
@@ -1519,7 +1519,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Explain the arm's-length test.",
+     "do": "Read the test aloud and show it.",
      "say": "Here is a test doctors use. Stand one arm's length from someone. If you have to shout to be heard, the place is loud enough to harm ears over time.",
      "kid": "Stand an arm's length from a family member. Talk. Do you need to shout?",
      "context": "This is the first step of the noise check. Here you learn a simple test for harmful noise."
@@ -1529,7 +1529,7 @@
      "mins": 9,
      "do": "1. Try the test in a quiet room. 2. Next to the mixer grinder while it runs. 3. Near the TV at its usual volume. 4. On the balcony or at the window when traffic is busy.",
      "say": "Say 'Can you hear me?' in a normal voice. Did I hear you, or did you have to shout?",
-     "kid": "Say 'Can you hear me?' in a normal voice. Did you need to shout?",
+     "kid": "Visit each place and do the test.",
      "adult": true,
      "parent": "A mixer grinder is often loud enough to fail the test. It is fine for a minute, but shutting the kitchen door or stepping out helps."
     },
@@ -1597,7 +1597,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Ask what the click might be. Then explain.",
+     "do": "Ask when their ears have popped before. Then explain.",
      "say": "Behind each eardrum is a little space full of air. A thin tube joins it to your throat. When you swallow, the tube opens, and the air on both sides of the eardrum evens out.",
      "kid": "A tiny tube joins your ear to your throat. Swallowing opens it.",
      "ask": [
@@ -1631,7 +1631,7 @@
    "title": "Our Family Noise Diary",
    "mins": 45,
    "days": 5,
-   "context": "In this 5-day project the family notes every loud moment of the day. Then you make a plan to protect everyone's ears.",
+   "context": "For 5 days the family notes every loud moment. You will find out which sounds are loudest and longest, then make a plan to protect everyone's ears.",
    "materials": [
     {
      "item": "a notebook or a sheet of paper with a table",
@@ -1692,7 +1692,7 @@
     {
      "id": "s3",
      "mins": 11,
-     "do": "1. Look at the totals. 2. Pick the three loudest or longest. 3. Make a plan for each and draw a poster.",
+     "do": "1. Look at the totals. 2. Pick the three loudest or longest. 3. Make a plan for each. Show it as a poster, or tell it to the family.",
      "say": "Which loud sounds take the most minutes? What could we change?",
      "kid": "Which sound is loudest? Which lasts longest? Make a plan.",
      "ask": [
@@ -1759,16 +1759,16 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem. Think back to the volume test in the Quietest Sound experiment, where you tested ear covers.",
-     "say": "In the volume test, which cover blocked the most? What made it good?",
-     "kid": "Which cover worked best in the volume test? Why?",
+     "say": "Think back to the volume test. What made the best cover good?",
+     "kid": "Which cover worked best?",
      "context": "This is the first step of the festival earmuff challenge. Here you think about what made a good ear cover."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw two designs.",
-     "say": "Draw two ideas. Which one seals the ear best? Which one is comfy?",
-     "kid": "Draw two ideas. Which seals best?"
+     "do": "Plan two designs. Lay out the things for each, or draw them.",
+     "say": "Make two plans. Which one seals the ear best? Which one is comfy?",
+     "kid": "Show two ideas with your things, or draw them. Which seals best?"
     },
     {
      "id": "s3",
@@ -1813,7 +1813,7 @@
    "id": "c2",
    "title": "Talk So Someone Who Hears Less Can Hear",
    "mins": 25,
-   "context": "This is a design challenge. You find the best ways to talk to someone who hears high sounds less well.",
+   "context": "This is a design challenge. You try five ways of talking to someone who hears high sounds less well. You find out which way helps most.",
    "problem": "Many grandparents hear low sounds but miss high ones, like the 's' in 'six'. Shouting often makes it worse. Find the ways of talking that work best.",
    "constraints": [
     "No hearing machines or microphones.",
@@ -1858,7 +1858,7 @@
      "mins": 6,
      "do": "Compare the counts. Pick the best three ways.",
      "say": "Which way got the most words right? Did shouting help?",
-     "kid": "Which way worked best? Did shouting help?",
+     "kid": "Put the five ways in order, best first.",
      "check": {
       "t": "mcq",
       "q": "Why does facing someone help them understand you?",

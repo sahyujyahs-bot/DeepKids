@@ -247,7 +247,7 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 - **question:** Does the same fist leave the same size of print every time, on dry and damp ground, pressed gently and pressed hard?
 - **predict:** Guess first. If you press the same fist into dry atta and into damp atta, gently and then hard, will all four prints be the same width? Why do you think so?
 - **fair test:** Use the same fist every time, and measure every print the same way, across the four finger marks at the widest part. Only the ground or the press changes. Press 'gently' and 'hard' the same way each time: gently is just resting the fist, hard is as hard as is comfortable. Make each print twice, because one try can be a fluke.
-- **record:** Fill in the results table. Draw one gentle print and one hard print, side by side, and write the widths under them.
+- **record:** Fill in the results table. Then draw one gentle print and one hard print side by side and write the widths under them, or take a photo of the two prints with the ruler beside them.
 - **results table:** Ground | Press | Width, try 1 (cm) | Width, try 2 (cm) | Edges: sharp or crumbly?
 - **s1 (6 min)**  
   *Parent does:* 1. Pour about 3 cups of dry atta into the first plate. 2. Make it about 2 cm deep. 3. Smooth the top flat with the edge of the ruler.  
@@ -261,8 +261,8 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
   - Note: About 4 to 5 tablespoons of water is usually enough. If it turns into a sticky dough, add a handful of dry atta and rub again. Damp, crumbly atta holds a sharp print. Use it for chapatis or puris the same day.
 - **s3 (3 min)**  
   *Parent does:* 1. Show your child how to make the 'paw'. 2. Make a loose fist. 3. Turn it so the flat backs of the four bent fingers face down. 4. Those four bumps are the toes.  
-  *Parent says:* A tiger's pugmark has four toe marks in a curve. Our fingers will be the toes. If we press this fist into dry atta and damp atta, gently and hard, will all the prints be the same width? Why do you think so?  
-  *Child mode:* Make a fist. Turn it so your four bent fingers face down. Those four bumps are the toes. Will all your prints be the same width? Why?
+  *Parent says:* A tiger's pugmark has four toe marks in a curve. Our fingers will be the toes. Before we press, make a guess.  
+  *Child mode:* Make a fist. Turn it so your four bent fingers face down. Those four bumps are the toes.
   - Ask: Will the same fist always leave the same print? Why do you think so? (good: Yes, because it is the same hand.; No, because pressing harder might make it bigger.; It might look different in dry and damp atta.)
   - Note: Write the guess and the reason on the sheet. Any guess with a reason is good. Don't say what will happen yet.
 - **s4 (6 min)**  
@@ -294,8 +294,8 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 - **results table:** Who sang | Try 1 (seconds) | Try 2 (seconds) | Difference from 52 seconds
 - **s1 (3 min)**  
   *Parent does:* 1. Say the words of the anthem together once, slowly, so everyone knows them. 2. Tell your child the full anthem should take about 52 seconds.  
-  *Parent says:* The rules say our anthem takes about 52 seconds. Will each of us take that long? Why do you think so?  
-  *Child mode:* Say the anthem words once. Singing it should take about 52 seconds. Will everyone take the same time? Why?
+  *Parent says:* The rules say our anthem takes about 52 seconds. Make a guess before we sing.  
+  *Child mode:* Say the anthem words once, slowly. Singing it should take about 52 seconds.
   - Ask: Will everyone take the same time? Why do you think so? (good: Yes, because the words are the same.; No, some people sing faster.; Singing together might help us keep the same speed.)
 - **s2 (8 min)**  
   *Parent does:* 1. Each person stands still and sings the full anthem alone. 2. Your child starts the stopwatch on the first word and stops it on the last 'Jaya he'. 3. Write the time. 4. Each person sings twice.  
@@ -319,8 +319,8 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 - **record:** Write the length, the height and the number of spokes on the back of your flag.
 - **s1 (5 min)**  
   *Parent does:* 1. Draw a rectangle 30 cm long and 20 cm high. 2. Mark the height into three equal bands, each about 6.7 cm. 3. Colour the top band saffron and the bottom band green. Leave the middle white.  
-  *Parent says:* Our flag's length and height are always 3 to 2. So if it is 30 cm long, how high must it be?  
-  *Child mode:* Draw a box 30 cm long and 20 cm high. Make three equal bands. Saffron on top. White in the middle. Green at the bottom.
+  *Parent says:* Our flag's length and height are always in the ratio 3 to 2. That means 3 parts long for every 2 parts high.  
+  *Child mode:* Draw a box 30 cm long. Work out how high it must be. Make three equal bands. Saffron on top, white in the middle, green at the bottom.
   - Ask: If the flag is 30 cm long, how high must it be? (good: 20 cm, because 30 is 3 tens and 20 is 2 tens.)
   - Note: Help mark 6.7 cm and 13.3 cm up the side. Near enough is fine.
 - **s2 (6 min) · grown-up needed**  
@@ -331,8 +331,8 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
   - Check: How many spokes does the Ashoka Chakra have? → **24**
 - **s3 (4 min)**  
   *Parent does:* 1. Glue the wheel in the middle of the white band. 2. Ask what each colour and the wheel stand for. 3. Put the flag up on a wall with saffron at the top.  
-  *Parent says:* What does saffron stand for? What about white, green and the wheel?  
-  *Child mode:* Glue the wheel in the middle. Say what each colour stands for. Hang it with saffron on top.
+  *Parent says:* The flag is done. Before we hang it, let's see what each part means.  
+  *Child mode:* Glue the wheel in the middle of the white band. Hang the flag with saffron on top.
   - Ask: What do the colours and the wheel stand for? (good: Saffron for courage and giving to others.; White for peace and truth.; Green for the land and growth.; The wheel says keep moving forward.)
 ### a2 · The Emblem Hunt: find the lions on our money (10 min)
 - **record:** Make a tally of where you found the lions, the words Satyamev Jayate and the ₹ symbol.
@@ -352,11 +352,11 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 - **s1 (8 min)**  
   *Parent does:* 1. Your child asks 5 people you know, such as relatives or neighbours, two questions, by phone or in person. 2. The first question is 'What is India's national game?' 3. The second is 'Is it official, or not?' 4. Write each answer, and whether the person felt sure.  
   *Parent says:* Let's ask five people what India's national game is. Write down how sure each one feels.  
-  *Child mode:* Ask 5 people. What is India's national game? Is it official? Write their answers.
+  *Child mode:* Ask 5 people. What is India's national game? Has the government made it official? Write their answers.
 - **s2 (7 min)**  
   *Parent does:* 1. Count the answers. 2. Tell your child what happened in 2012. 3. Your child tells each person what the government said.  
-  *Parent says:* In 2012, a schoolgirl asked the government when hockey was made the national game. The sports ministry replied that no game has been declared the national game. Why do so many people believe hockey is the national game?  
-  *Child mode:* In 2012 a schoolgirl asked the government when hockey was made the national game. The answer was that India has no official national game. Why do so many people believe hockey is the national game?
+  *Parent says:* In 2012, a schoolgirl asked the government when hockey was made the national game. The sports ministry replied that no game has been declared the national game.  
+  *Child mode:* Tell each of your five people what the government said in 2012: India has no official national game.
   - Ask: Why do so many people believe hockey is the official national game? (good: It is written in many books.; India won many gold medals in hockey.; People repeat what they heard without checking.)
   - Check: What is the best way to find out if a fact is true? → **Check with the people or records that would really know**
 ### a4 · Map the Anthem (15 min)
@@ -368,8 +368,8 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
   - Note: Sindh is now in Pakistan, so it may be just off the edge of an India map. The Vindhya hills run across the middle of India. The Himalayas are in the north.
 - **s2 (5 min)**  
   *Parent does:* Ask: 'Why does the anthem name places from every direction?'  
-  *Parent says:* Look at all your stars. Why do you think Tagore named places from north, south, east and west?  
-  *Child mode:* Look at your stars. Why did Tagore name places from every side?
+  *Parent says:* Look at all your stars together. Look at where they sit on the map.  
+  *Child mode:* Look at all your stars together.
   - Ask: Why does the anthem name places from every direction? (good: To show that all of India belongs together.; So people from every part hear their own land in it.)
 
 ## Projects
@@ -385,7 +385,7 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
   - Wait: Open the museum on another day.
 - **s2 (20 min)**  
   *Parent does:* 1. Family members or friends are the visitors. 2. Your child guides them round. 3. Each visitor asks one question.  
-  *Parent says:* I am a visitor in your museum. Please tell us about this flag. How do scientists know which tiger is which?  
+  *Parent says:* I am a visitor in your museum. Please tell us about this flag.  
   *Child mode:* Welcome your visitors. Tell them about each thing. Answer their questions.
   - Ask: How do scientists tell one tiger from another? (good: By their stripes, photographed by camera traps.; Not by pugmarks, because one tiger leaves different prints.)
 
@@ -397,17 +397,17 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 - **general:** Use big blocks of colour, like bands or a cross.; Put a light colour next to a dark one, so the parts stand out from far away.; Use one simple shape in the middle, like a circle or a star.
 - **creative:** Use a shape that means something to your building, like a kolam or rangoli, if you have one at your door.; Make each band stand for something real, the way saffron, white and green do.; Choose colours from things around you: a tree in your street, the sea or a river nearby, the paint on your building.
 - **s1 (10 min)**  
-  *Parent does:* 1. Look at India's flag together. 2. Ask why it is easy to remember. 3. Your child draws three quick ideas for their own flag.  
-  *Parent says:* What makes our flag easy to remember? Let's draw three quick ideas for your own flag.  
-  *Child mode:* Why is our flag easy to remember? Draw three quick ideas for your own flag.
+  *Parent does:* 1. Look at India's flag together. 2. Ask why it is easy to remember. 3. Your child makes three quick ideas for their own flag, by sketching or by telling you.  
+  *Parent says:* What makes our flag easy to remember? Let's try three quick ideas for your own flag.  
+  *Child mode:* Why is our flag easy to remember? Then sketch three quick ideas for your own flag, or tell them to your grown-up.
 - **s2 (10 min)**  
   *Parent does:* 1. Choose the best idea. 2. Draw it 15 cm by 10 cm and colour it.  
   *Parent says:* Pick your best idea. Draw it neatly, 15 cm long and 10 cm high.  
   *Child mode:* Pick your best one. Draw it 15 cm long and 10 cm high. Colour it.
 - **s3 (10 min)**  
-  *Parent does:* 1. Show the flag to one person for 10 seconds from across the room. 2. Hide it. 3. They draw it from memory. 4. Compare. Change anything they got wrong, and test again with two more people.  
+  *Parent does:* 1. Show the flag to one person for 10 seconds from across the room. 2. Hide it. 3. They draw it from memory, or tell you the colours, the shapes and where each goes. 4. Compare. Change anything they got wrong, and test again with two more people.  
   *Parent says:* Let's test it. Did they remember every part? Which part did they forget? How could you make it simpler?  
-  *Child mode:* Show your flag for 10 seconds. Hide it. Can they draw it? What did they forget?
+  *Child mode:* Show your flag for 10 seconds. Hide it. Can they draw it or tell you about it? What did they forget?
   - Check: A flag has eight colours and tiny writing. Nobody can draw it from memory. What would help most? → **Use fewer colours and bigger shapes**
 
 ## Worksheets

@@ -324,8 +324,8 @@ He lay very still and listened. The room was not empty after all. It never had b
   *Child mode:* Shuffle the 24 cards. Lay them face down in 4 rows of 6. Each animal has a matching super-sense card.
 - **s2 (2 min)**  
   *Parent does:* Play one practice turn together. Turn over the Bat card and the echoes card, and read them out. Then turn both cards face down again where they were.  
-  *Parent says:* Here is a practice pair: a bat, and 'I squeak and listen for echoes'. Which of your senses is that most like?  
-  *Child mode:* Practice pair: a bat, and 'I squeak and listen for echoes'. Which of your senses is it most like?
+  *Parent says:* Here is a practice pair: a bat, and 'I squeak and listen for echoes'.  
+  *Child mode:* Look at the two cards. Think about what the bat is doing.
   - Check: A bat squeaks and listens for echoes to find moths in the dark. Which human sense is that most like? → **Hearing**
 - **s3 (12 min)**  
   *Parent does:* 1. Take turns turning over two cards. 2. When someone finds a pair, they say which human sense it is most like, and keep the pair. 3. If you are playing alone, count your turns.  
@@ -363,7 +363,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **s5 (4 min)**  
   *Parent does:* 1. Taste round: put a few drops of 4 tastes on separate spoons. Use sugar water, salt water, lemon water, and karela juice or very strong tea. 2. Players shut their eyes and name the basic taste of each. 3. Add up all the points.  
   *Parent says:* Eyes shut. Tell me the basic taste: sweet, sour, salty or bitter?  
-  *Child mode:* Close your eyes. Taste each spoon. Is it sweet, sour, salty or bitter?
+  *Child mode:* Close your eyes. Taste each spoon and name its taste.
   - Check: In the taste round, which spoon tastes bitter? → **Karela juice**
 
 ## Experiments
@@ -382,7 +382,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **s2 (2 min)**  
   *Parent does:* 1. Tie the blindfold on the taster. 2. Ask them to make their guesses before tasting anything.  
   *Parent says:* Before we start, guess. With your nose pinched shut, will you be able to name the spice? Why do you think so?  
-  *Child mode:* Put on the blindfold. Now guess. With your nose pinched, will you name the spice?
+  *Child mode:* Put on the blindfold. Then say your guess out loud.
   - Ask: Where do you think taste comes from? (good: From my tongue.; From my tongue and my nose.)
 - **s3 (6 min)**  
   *Parent does:* 1. The taster pinches their nose firmly shut. 2. Put about a quarter teaspoon from one bowl on their tongue. Choose the bowls in a mixed-up order. 3. They keep the nose pinched and say what they taste. 4. Write their guess. 5. They sip water. 6. Do all four bowls.  
@@ -392,7 +392,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **s4 (4 min)**  
   *Parent does:* 1. Give a spoonful from the first bowl again, with the nose pinched. 2. Halfway through, say 'Let go!' 3. The taster lets go of their nose while the sugar is still in their mouth. 4. Repeat for every bowl, and write the new guesses.  
   *Parent says:* Pinch again. Taste. Now, let go of your nose! What happened?  
-  *Child mode:* Pinch your nose and taste. Now let go! What happened? Does the spice appear?
+  *Child mode:* Pinch your nose and taste. Then let go, and notice what changes in your mouth.
   - Ask: What changed when you let go of your nose? (good: The spice suddenly appeared.; I could tell it was elaichi.)
   - Check: With your nose pinched, the elaichi sugar tasted only sweet. When you let go, you could taste elaichi. Why? → **The smell of elaichi could float up to your nose again**
 - **s5 (3 min)**  
@@ -405,7 +405,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **predict:** Guess first. Put these in order, from the place you think feels most detail to the place that feels least: fingertip, palm, forearm, back. Why do you think so?
 - **fair test:** Change only the place on the skin. Use the same testers and press just as gently every time. Make sure both points touch the skin at the same moment. Mix in some touches with only one point, so the person cannot just say 'two' every time. Do 3 two-point touches at each gap on each place, with one single-point touch mixed in.
 - **safety:** Touch gently. Use toothpicks with blunt ends, or snip the sharp tips off first. Never touch near the eyes or the face.
-- **record:** Fill in the table. Then draw an outline of a body and colour the places that felt the most detail.
+- **record:** Fill in the table. Then tell your grown-up the places in order, from most detail to least. Or draw a body outline and colour the best places.
 - **results table:** Place on the skin | Gap 0.5 cm: felt two? | Gap 1 cm: felt two? | Gap 2 cm: felt two? | Gap 4 cm: felt two? | Smallest gap felt as two
 - **s1 (7 min) · grown-up needed**  
   *Parent does:* 1. On each cardboard strip, mark two dots with the ruler. The gaps are 0.5 cm on the first strip and 1 cm on the second. They are 2 cm on the third and 4 cm on the fourth. 2. Poke a toothpick through each dot, blunt end sticking out about 1 cm on the same side. 3. Tape them firmly in place. 4. Keep one extra toothpick as the 'one point' tester.  
@@ -420,7 +420,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **s3 (3 min)**  
   *Parent does:* Look at the table together. Put the places in order, from the one that felt most detail to the one that felt least.  
   *Parent says:* Which place could feel two points closest together? Why would that part of your body need to feel so much detail?  
-  *Child mode:* Which place felt two points closest together? Why might your fingertips need that?
+  *Child mode:* Look at the table. Find the place where you felt two points closest together.
   - Check: In a typical result, your fingertip feels two points 0.5 cm apart, but your back feels two points 4 cm apart as just one. Why? → **Your fingertip has touch receptors packed much closer together**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences: what they think, what they saw, and why they think it happened.  
@@ -432,7 +432,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **predict:** Guess first. Out of 8 sounds, how many will you point to correctly with two ears? How many with one ear blocked? Which direction will be hardest, and why do you think so?
 - **fair test:** Change only one thing: whether you listen with two ears or with one. Use the same sound, at the same loudness, from the same 8 places, at the same distance of about 2 big steps. Do the places in a mixed-up order each time.
 - **safety:** Clear the floor so the blindfolded person cannot trip. Never make the sound right next to anyone's ear. Do not push the cotton wool deep into the ear: just hold it at the opening.
-- **record:** Fill in the table. Count the right answers for two ears and for one ear. Draw a bar for each.
+- **record:** Fill in the table. Count the right answers for two ears and for one ear. Lay out one bean for each right answer, a row for two ears and a row for one ear. Or draw a bar for each.
 - **results table:** Where the sound came from | Two ears: right or wrong? | One ear blocked: right or wrong?
 - **s1 (3 min)**  
   *Parent does:* 1. Put the stool in the middle of a clear room. 2. The listener sits on it and puts on the blindfold. 3. Choose 8 places around them, about 2 big steps away: front, behind, left, right, front-left, front-right, back-left and back-right.  
@@ -451,7 +451,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **s4 (2 min)**  
   *Parent does:* Count the right answers in each round and compare them.  
   *Parent says:* How many did you get with two ears? With one? Which places were hardest?  
-  *Child mode:* Count your right answers. Two ears or one: which was better? Which places were hardest?
+  *Child mode:* Count your right answers with two ears, and then with one ear.
   - Check: In Point at the Sound, most people find sounds better with two ears than with one. Why? → **The brain compares when and how loudly the sound reaches each ear**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences: what they think, what they saw, and why they think it happened.  
@@ -461,7 +461,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 
 ## Activities
 ### a1 · One Quiet Minute: what are your senses telling you? (8 min)
-- **record:** Draw six columns: ears, skin, nose, tongue, eyes, and inside my body. Write everything you noticed in the right column.
+- **record:** Make a table with six columns: ears, skin, nose, tongue, eyes, and inside my body. Write everything you noticed in the right column.
 - **s1 (2 min)**  
   *Parent does:* 1. Sit down together, somewhere ordinary, like the kitchen or the balcony. 2. Set a timer for one minute. 3. Both of you close your eyes.  
   *Parent says:* For one minute, let's be completely still and quiet, with our eyes shut. Notice everything your body is telling you: every sound, every smell, every touch, and anything you feel inside you. Don't say anything until the timer rings.  
@@ -474,12 +474,12 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **s3 (3 min)**  
   *Parent does:* Compare your two lists, and talk about the questions.  
   *Parent says:* Did you notice anything you never usually notice? Was the fan there before we started, or did we just not hear it?  
-  *Child mode:* Compare lists. Did you notice something new? Was it there before, or did you just not notice it?
+  *Child mode:* Compare lists. Point to one thing that only one of you noticed.
   - Note: Yes, the fan was there all along. Your brain only notices a few of its signals at a time. So a quiet sound can be there for a long time before you notice it.
   - Think: Pick the sense that gave you the fewest things. Close your eyes for one more minute and use only that sense. What new thing do you notice?
 ### a2 · Feel the Sound: three ways to feel and see a vibration (15 min)
 - **safety:** Never bang the plate near anyone's ears. Keep the phone volume moderate, not at its loudest.
-- **record:** Draw the path of a sound: from the plate, through the air, to the cling film. Then draw the same path for your ear: from the plate, through the air, to your eardrum.
+- **record:** Say the path of a sound: from the plate, through the air, to the cling film. Then say the same path for your ear, ending at your eardrum. Or draw it.
 - **s1 (4 min)**  
   *Parent does:* 1. Play music with a strong beat on the phone. 2. Hold the balloon between both hands, touching the phone's speaker. 3. Feel it. 4. Move it away slowly.  
   *Parent says:* Hold the balloon against the speaker. What do your hands feel? Sound is a vibration of the air. The balloon picks up the vibration, just like your eardrum does.  
@@ -492,12 +492,12 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **s3 (3 min)**  
   *Parent does:* 1. Your child puts one ear flat on the table. 2. Tap the far end of the table gently with a pencil. 3. Then your child lifts their head, and you tap again the same way.  
   *Parent says:* Put your ear on the table. I'll tap the other end. Now lift your head and listen again. Which was louder?  
-  *Child mode:* Put your ear on the table. Listen to the tap. Now lift your head. Which was louder?
+  *Child mode:* Put your ear on the table and listen to the tap. Then lift your head and listen again.
   - Note: Most children hear the tap much louder through the table. Sound travels well through solid things, because their particles are packed close.
 - **s4 (2 min)**  
   *Parent does:* Talk about what the balloon, the cling film and the table had in common: all three shook.  
   *Parent says:* The balloon, the cling film and the table all shook. Your eardrum shakes in the same way. Behind it, three tiny bones pass the shaking to your cochlea.  
-  *Child mode:* The balloon, the film and the table all shook. Your eardrum shakes just like that.
+  *Child mode:* Think back to the balloon, the film and the table. What did all three do?
   - Check: The sugar jumped on the cling film when the plate was banged. What reached the cling film? → **Shaking air, a vibration**
 ### a3 · The Mystery Bag: how much can fingertips tell? (12 min)
 - **safety:** Keep the small things away from children under 5, who could put them in their mouths.
@@ -514,12 +514,12 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **s3 (4 min)**  
   *Parent does:* 1. Swap 4 of the 8 things for the 4 new things, so the first set cannot be remembered. 2. Your child puts thick socks over both hands. 3. They try again. 4. Count the right guesses.  
   *Parent says:* Now put socks on your hands, and try again. Is it easier or harder? Why?  
-  *Child mode:* Put socks on your hands. Try again. Is it harder? Why?
+  *Child mode:* Put socks on both hands. Try again, and count your right guesses.
   - Note: With socks on, most children can still tell big shapes, but lose small details like the ridges on a coin or the seam of an elaichi pod. The sock stops the tiny pushes from reaching the touch receptors in the fingertips.
 - **s4 (2 min)**  
   *Parent does:* Talk about the star-nosed mole and Braille.  
   *Parent says:* A star-nosed mole finds food in dark tunnels with the 22 fleshy fingers on the end of the nose. Blind people read Braille with their fingertips. Why fingertips, and not elbows?  
-  *Child mode:* A star-nosed mole touches with the end of the nose. Blind people read with their fingertips. Why not elbows?
+  *Child mode:* Think about why fingertips are good at touch, and elbows are not.
   - Note: Fingertips have touch receptors packed very close together, so they can feel tiny dots as separate. An elbow has its receptors far apart. This is what the Two-Point Test showed.
   - Think: Cold steel feels colder than a cotton ball, even in the same room. Steel carries heat away from your skin quickly. Cotton does not. Your skin senses how fast it loses heat. So are the steel and the cotton really different temperatures?
 ### a4 · The Fading Coin: senses notice changes (12 min)
@@ -538,16 +538,16 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **s3 (2 min)**  
   *Parent does:* Talk about why senses work like this.  
   *Parent says:* Your senses mostly tell you what is changing. Why might that be useful?  
-  *Child mode:* Your senses mostly notice changes. Why might that be useful?
+  *Child mode:* Think of a smell or a feeling you stopped noticing after a while.
   - Note: Good answers: it stops you wasting attention on things that are always there, like your clothes. It means a new thing, like a mosquito landing on you, stands out at once.
   - Check: You stopped feeling the coin, but felt it again when it moved. What does that show? → **Touch receptors mostly report changes, not things that stay the same**
 ### a5 · The Blue Mango: make your cones tired (15 min)
 - **safety:** Never stare at the Sun or a bright bulb. Only stare at the paper drawing.
-- **record:** Draw what you saw on the white paper, in the colours you saw.
+- **record:** Tell your grown-up what colours you saw on the white paper. Or draw it.
 - **s1 (6 min)**  
   *Parent does:* 1. On one sheet, draw a big mango shape, as big as your hand. 2. Colour it in solid, bright blue. 3. Draw a leaf on top and colour it pink. 4. Put a small black dot in the middle of the mango.  
   *Parent says:* We're drawing a strange mango: a blue mango with a pink leaf. Colour it in thickly, with no white gaps.  
-  *Child mode:* Draw a big mango. Colour it bright blue. Give it a pink leaf. Put a black dot in the middle.
+  *Child mode:* Draw a big mango, or ask your grown-up to draw it. Colour it bright blue. Give it a pink leaf. Put a black dot in the middle.
 - **s2 (4 min)**  
   *Parent does:* 1. Put the drawing in good light. 2. Your child stares at the black dot for 30 seconds without moving their eyes. 3. Then they look straight at the blank white sheet. 4. Wait a few seconds.  
   *Parent says:* Stare at the black dot. Don't move your eyes. Count 30 slow seconds with me. Now look at the white paper. What do you see?  
@@ -560,8 +560,8 @@ He lay very still and listened. The room was not empty after all. It never had b
   - Check: After staring at the blue mango, you saw a yellow mango on white paper. Why? → **Your blue cones were tired, so the others sent more signals**
 - **s4 (2 min)**  
   *Parent does:* Talk about where the yellow mango was.  
-  *Parent says:* The paper was blank. So where was the yellow mango? On the paper, in your eye, or in your brain?  
-  *Child mode:* The paper was blank. So where was the yellow mango?
+  *Parent says:* Let's think. The paper was blank. Where did the yellow mango come from?  
+  *Child mode:* Tell your grown-up where you think the yellow mango was.
   - Note: The yellow mango was made in your eye and brain. The paper sent no yellow light, because it was blank.
   - Think: When you look at a real yellow mango, what travels along the nerve from your eye to your brain: yellow light, or electric signals?
 ### a6 · Two Eyes, One Picture: the pencil-tip test (10 min)
@@ -570,7 +570,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **s1 (4 min)**  
   *Parent does:* 1. Hold a pencil upright at arm's length. 2. Your child holds another pencil and tries to touch its tip to the tip of yours, coming from the side. 3. Do it 5 times with both eyes open. 4. Count the hits.  
   *Parent says:* Touch your pencil tip to mine. Come in from the side. Let's try 5 times.  
-  *Child mode:* Touch your pencil tip to the other pencil tip. Try 5 times. Count your hits.
+  *Child mode:* Try to touch the two pencil tips together. Count how many times you manage out of 5.
 - **s2 (4 min)**  
   *Parent does:* 1. Move your pencil to a new spot. 2. Your child closes one eye. 3. They try 5 times again. 4. Count the hits.  
   *Parent says:* Now close one eye, and try again. Is it easier or harder?  
@@ -592,8 +592,8 @@ He lay very still and listened. The room was not empty after all. It never had b
   - Note: Most children stand for the full 30 seconds with eyes open, but only a few seconds with eyes shut. The brain balances with three senses together: the eyes, the balance organs in the inner ears and the stretch sensors in the muscles. Shutting the eyes takes one away.
 - **s2 (3 min)**  
   *Parent does:* 1. Your child shuts their eyes and stretches both arms out to the sides. 2. They touch the tip of their nose with one pointing finger, then put the arm back out. 3. Do it 3 times with each hand. 4. Count the touches out of 6.  
-  *Parent says:* Eyes shut. Arms out wide. Now touch the tip of your nose with one finger. How did your finger know where your nose was?  
-  *Child mode:* Close your eyes. Stretch your arms out. Touch your nose with one finger. Now the other hand. How did you know where your nose was?
+  *Parent says:* Eyes shut. Arms out wide. Now touch the tip of your nose with one finger.  
+  *Child mode:* Close your eyes. Stretch your arms out. Touch your nose with one finger. Then try the other hand.
   - Ask: How did your finger find your nose without your eyes? (good: My body knows where my arm is.; Something in my arm told my brain where it was.)
   - Note: Most children touch their nose almost every time. Stretch sensors in the muscles and joints tell the brain where each part of the body is. This sense is called proprioception.
 - **s3 (6 min) · grown-up needed**  
@@ -605,14 +605,14 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **s4 (2 min)**  
   *Parent does:* Dry hands with the towel. Then talk about the senses inside the body.  
   *Parent says:* Close your eyes for a moment. Are you hungry? Thirsty? Do you need the toilet? Which sense told you? It was not your eyes, ears, nose, tongue or skin.  
-  *Child mode:* Close your eyes. Are you hungry or thirsty? Which part of you told you?
+  *Child mode:* Close your eyes. Ask your body what it needs right now.
   - Note: This is interoception, sensing the inside of the body. Stretch sensors notice a full stomach or bladder. Cells in the brain notice when the blood is too salty, and that makes you thirsty.
   - Think: Aristotle counted five senses. Name three senses you used today that are not on his list.
 
 ## Projects
 ### p1 · Train Your Nose: can smelling get better with practice? (40 min, 4 days)
 - **safety:** Waft each smell towards your nose. Never sniff spices hard, or put your nose into the jar. Put in a fresh slice of ginger and fresh lemon peel each day, because they dry out. Throw out anything that goes mouldy.
-- **record:** Write your score out of 6 on day 1 and on day 4. Draw two bars. Write one sentence about what changed.
+- **record:** Write your score out of 6 on day 1 and on day 4. Show them as two rows of beans, or draw two bars. Write one sentence about what changed.
 - **schedule:** day 1: Make 6 numbered smell jars. Test yourself blindfolded and write your first score. Then practise once with your eyes open, saying each name. (12 min); day 2: Practise with your eyes open: smell each jar, say its name and one word for what it smells like. (8 min); day 3: Practise again. Then test a family member who has not practised. (8 min); day 4: Test yourself blindfolded again, in a new order. Compare your day 1 and day 4 scores. Make a bar chart. (12 min)
 - **s1 (6 min)**  
   *Parent does:* 1. Put a little of each smelly thing in its own jar. 2. Number the jars 1 to 6 on tape underneath, so the number cannot be seen from above. 3. Write which number is which in the notebook, and hide it.  
@@ -635,15 +635,15 @@ He lay very still and listened. The room was not empty after all. It never had b
   *Child mode:* Test a grown-up who hasn't practised. Then test yourself again. Did your score go up?
   - Check: Your nose-test score went from 3 on day 1 to 6 on day 4. What is the best explanation? → **Your brain got better at matching smells to their names**
 - **s5 (8 min)**  
-  *Parent does:* Make the bar chart. Then ask your child to say or write three short sentences: what I think, what I saw, and why.  
+  *Parent does:* Show the two scores as two rows of beans, one bean for each point. Then ask your child to say or write three short sentences: what I think, what I saw, and why.  
   *Parent says:* Now tell me three things. Can noses learn? What did you find that shows it? And why do you think it happened?  
-  *Child mode:* Draw two bars: day 1 and day 4. Then say what you think, what you found, and why.
+  *Child mode:* Lay out two rows of beans: day 1 and day 4. Then say what you think, what you found, and why.
   - Note: A good answer sounds like this. What I think: practice makes me better at naming smells. What I found: I got 3 out of 6 on day 1 and 6 out of 6 on day 4. A relative who did not practise got 3. Why: my brain learned to link each smell to its name.
 
 ## Challenges
 ### c1 · Hear a Whisper Across the Room (30 min)
 - **problem:** Someone whispers a word at the far side of a room. Build something that helps you hear the whisper from further away than your bare ears can.
-- **your turn:** Now design your own hearing helper. Draw it, build it and test it. How many footsteps further can you hear the whisper?
+- **your turn:** Now design your own hearing helper. Plan it, build it and test it. How many footsteps further can you hear the whisper?
 - **constraints:** You can only use things from home.; The whisperer must whisper the same way every time.; Measure, in footsteps, the furthest distance where you can still hear the word clearly.
 - **general:** Roll paper into a big cone, like an old ear trumpet. Hold the small end near your ear, not inside it, and point the wide end at the whisperer.; Cup your hands behind your ears to make bigger ear flaps.; Make the room quiet: switch off the fan and close the window.
 - **creative:** Join a funnel to a tube, like a doctor's stethoscope. Can you hear your own heartbeat with it?; Make two cones, one for each ear, so your brain can still compare the two sides.; Try a big ear flap shape copied from an animal: a fennec fox, an elephant or a bat.
@@ -655,7 +655,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 - **s2 (6 min)**  
   *Parent does:* List three ideas together before building anything.  
   *Parent says:* Before we build, let's think like engineers. Your ear flap collects sound and funnels it in. How could we make a bigger collector?  
-  *Child mode:* Think like an engineer. Draw three ideas for collecting more sound.
+  *Child mode:* Think like an engineer. Tell your grown-up three ideas for collecting more sound, or draw them.
   - Note: If ideas are slow to come, point at the ear flap. It collects sound. A bigger collector gathers more of the vibrating air.
 - **s3 (12 min) · grown-up needed**  
   *Parent does:* 1. Build each idea. 2. Test each one the same way as the bare-ear test. 3. Write the number of footsteps for each.  
@@ -671,7 +671,7 @@ He lay very still and listened. The room was not empty after all. It never had b
   - Think: Old ear trumpets worked by collecting more sound, so they had to be big. A modern hearing aid has a tiny microphone. It makes the sound stronger with electricity. So why can it be so small?
 ### c2 · A Kitchen Shelf for Someone Who Cannot See (35 min)
 - **problem:** A friend who is blind is coming to cook with you. Six jars look exactly the same: sugar, salt, turmeric, chilli powder, jeera and rice. Make labels your friend can read without seeing, so they can find the sugar first time.
-- **your turn:** Now design your own labelling system. Draw it, make it and test it with a blindfolded family member. Did they find all three things first time?
+- **your turn:** Now design your own labelling system. Plan it, make it and test it with a blindfolded family member. Did they find all three things first time?
 - **constraints:** The labels must work by touch or smell, not sight.; Nobody may open the jars to taste or sniff inside.; Test it: a blindfolded family member must find three things you call out.
 - **general:** Put a different number of rubber bands around each jar: one for sugar, two for salt, and so on.; Stick a different texture on each lid: smooth cloth, rough sandpaper, a button, a ridge of string.; Make raised-dot labels, like Braille, with drops of glue that dry hard.
 - **creative:** Find a Braille alphabet in a book or online. Make the dots for the first letter of each jar, for example T for turmeric and J for jeera.; Use shape as well as texture: a triangle of card for chilli, because chilli is sharp and hot.; Ask a blind person, or an organisation that works with blind people, what labels they really use.
@@ -680,9 +680,9 @@ He lay very still and listened. The room was not empty after all. It never had b
   *Parent says:* First, let's see how hard it is now. Can you find the sugar without seeing and without opening the jars?  
   *Child mode:* Blindfold a grown-up. Ask them to find the sugar. They can't open the jars. Can they do it?
 - **s2 (5 min)**  
-  *Parent does:* Plan a labelling system together on paper.  
+  *Parent does:* Plan a labelling system together. Say your ideas, or sketch them on paper.  
   *Parent says:* Your fingertips feel the most detail. How could we make each jar feel different?  
-  *Child mode:* Plan your labels. How can each jar feel different? In the Mystery Bag and the Two-Point Test, your fingertips felt the most detail.
+  *Child mode:* Plan how to make each jar feel different. Think of things you can tell apart with a fingertip.
   - Note: Remind your child that in the Two-Point Test, fingertips felt two points even 0.5 cm apart. Braille dots are only about 2.5 millimetres apart, and fingertips can read them.
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* 1. Make the labels and stick them on. 2. Let any glue dry fully. 3. A grown-up uses the glue gun if you use one.  

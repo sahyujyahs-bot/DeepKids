@@ -211,7 +211,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   *Child mode:* Pick two listener cards. Look at their bands.
 - **s2 (12 min)**  
   *Parent does:* Play the rounds. After each sound card, ask why a listener needs to hear that sound.  
-  *Parent says:* This card says: a bat hunting a moth. Which of your listeners can hear it? Why does the moth need to hear it?  
+  *Parent says:* Read out a sound card, like 'a bat hunting a moth'. Which of your listeners can hear it?  
   *Child mode:* Read the sound card. Can your listeners hear it? Say why.
   - Ask: Why does a moth need to hear bats? (good: So she can dive away before the bat catches her.; Because bats hunt moths at night.)
   - Ask: Why does an elephant hear very low sounds? (good: Other elephants call with low rumbles from far away.; So the herd can stay together.)
@@ -246,7 +246,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 - **predict:** Guess first. Which cover will block the most sound: cupped hands, a folded towel, or the small flap in front of each ear hole pressed shut? Which will block the least? Why do you think so?
 - **fair test:** Keep everything the same except the ear cover: the same phone, the same song, the same distance of 3 metres, the same quiet room, the same listener. The helper turns the volume up one step at a time, slowly and evenly. The listener keeps their eyes shut so they can't see the phone. Try each cover twice, because one try can go wrong by chance.
 - **safety:** Turn the volume back to zero before the listener takes any cover off. Press only the small flap in front of the ear hole.
-- **record:** Fill in the table. Then draw one bar for each ear cover, as tall as the volume step it needed.
+- **record:** Fill in the table. Then show each ear cover as a bar as tall as the step it needed. Draw it, or stack that many coins.
 - **results table:** Ear cover | Volume step when first heard (try 1) | Try 2 | How many steps more than open ears?
 - **s1 (4 min)**  
   *Parent does:* 1. Switch off the fan, the TV and anything humming. 2. Put the chair at one end of the room. 3. Measure 3 metres and put the phone there, speaker facing the chair. 4. Start a song and turn the volume all the way down.  
@@ -255,8 +255,8 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   - Note: Pick a song with steady sound, not a quiet start. Check that the phone does not lock or pause. On most phones, pressing the volume button once moves one step. Counting steps is easier if the phone shows a volume bar.
 - **s2 (3 min)**  
   *Parent does:* Ask for the guess and the reason, and write both down.  
-  *Parent says:* Soon you will cover your ears in three ways. Which do you think will block the most sound? Why do you think so?  
-  *Child mode:* Guess. Which cover blocks most: hands, a towel, or pressing the flaps shut? Why?
+  *Parent says:* Soon you will cover your ears in three ways: cupped hands, a folded towel, or pressed ear flaps. Which do you think will block the most sound? Why?  
+  *Child mode:* Pick one cover. Say why you think it is best.
   - Ask: Which cover do you think will block the most, and why? (good: The towel, because it is thick and soft.; Pressing the flaps, because it closes the hole.; Any guess with a reason.)
 - **s3 (5 min)**  
   *Parent does:* 1. The listener shuts their eyes. 2. The helper presses the volume up one step every 3 seconds and counts the steps. 3. When the listener raises a hand, the helper writes down the step. 4. Turn it back to zero. Do it once more.  
@@ -271,12 +271,12 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 - **s5 (4 min)**  
   *Parent does:* 1. For each cover, take away the open-ears step from its step. 2. Write the difference in the last column.  
   *Parent says:* Which cover needed the most extra steps? That one blocked the most sound. Was your guess right?  
-  *Child mode:* Which cover needed the most steps? That one blocked most. Were you right?
+  *Child mode:* Look at your table. Find the cover with the biggest difference.
   - Check: A listener heard the song at step 2 with open ears and at step 7 with the ear flaps pressed shut. What does that tell you? → **Pressing the flaps blocked sound, so the listener needed a louder song to hear it**
 - **s6 (5 min)**  
   *Parent does:* Talk about the results. Then set the phone to volume step 1, with the song still playing and the listener's ears open.  
   *Parent says:* Look. At step 1 the song is playing, but you can't hear it. What is happening to that sound?  
-  *Child mode:* The song plays at step 1. You can't hear it. Where is the sound going?
+  *Child mode:* The song is still playing at step 1, but you can't hear it.
   - Ask: Why did one cover block more than another? (good: It closed the ear hole, so sound couldn't get in round the edges.; Hands leave gaps, and sound goes through gaps.)
   - Ask: At step 1, is there sound in the room? (good: Yes, the phone is making sound, but it is too soft for my ears.; Yes. If the volume went up, it would reach my ears.)
   - Note: The cover that needs the most extra steps is the one that blocked the most. Which one wins can differ from home to home. A tight seal over the ear hole helps. Cupped hands leave gaps, and sound slips round them. Ask what your family found, not what the book says.
@@ -296,7 +296,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 - **s2 (3 min)**  
   *Parent does:* Ask everyone for a guess and a reason.  
   *Parent says:* We will make the note higher and higher. Who do you think will hear it the longest? Why do you think so?  
-  *Child mode:* Who will hear the highest note? You, or the grown-ups? Why?
+  *Child mode:* Pick one: you, or the grown-ups? Say why.
   - Ask: Who do you think will hear the highest note, and why? (good: Me, because children hear better.; A grown-up, because they are bigger.; Any guess with a reason.)
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* 1. Start at 8,000 hertz. 2. Raise it by 1,000 hertz every 5 seconds. 3. Everyone listens with eyes shut and raises a hand when the note disappears. 4. Write down the number for each person. 5. Do it twice.  
@@ -306,7 +306,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 - **s4 (5 min)**  
   *Parent does:* Put everyone in order from the highest pitch heard to the lowest. Look for a pattern with age.  
   *Parent says:* Who heard the highest? Who stopped first? Do you see a pattern with age?  
-  *Child mode:* Who heard the highest note? Is there a pattern with age?
+  *Child mode:* Line everyone up from the highest note heard to the lowest.
   - Check: A child aged 8 hears the note up to 18,000 hertz. The child's grandmother stops hearing it at 9,000 hertz. Why? → **Hair cells for the highest pitches wear out first as people grow older**
 - **s5 (3 min)**  
   *Parent does:* Play 20,000 hertz for a few seconds, then switch it off.  
@@ -323,8 +323,8 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 - **results table:** Note | Door open: how loud (3 loud, 2 medium, 1 soft, 0 nothing) | Door shut: how loud | How much quieter?
 - **s1 (3 min)**  
   *Parent does:* 1. Put the phone on a table inside the room. 2. Set the volume to a comfortable level. 3. Stand outside, 2 metres from the open door.  
-  *Parent says:* We will play a low note and a high note. First, guess: which will the door block more? Why do you think so?  
-  *Child mode:* Guess. Will the door block the low note or the high note more? Why?
+  *Parent says:* We will play a low note and a high note behind a shut door. Which will the door block more? Why do you think so?  
+  *Child mode:* Say your guess: the low note or the high note?
 - **s2 (7 min)**  
   *Parent does:* 1. The helper sets the phone to 200 hertz inside the room, presses play and steps out, leaving the door open. 2. Score how loud it sounds from outside with the door open. 3. The helper shuts the door. Score it again from the same spot. 4. Open the door, stop the note, and do the same with 4,000 hertz.  
   *Parent says:* Score it: 3 for loud, 2 for medium, 1 for soft, 0 for nothing.  
@@ -333,12 +333,12 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 - **s3 (5 min)**  
   *Parent does:* Work out how much each note dropped.  
   *Parent says:* Which note dropped more when the door shut?  
-  *Child mode:* Which note lost more when the door shut?
+  *Child mode:* For each note, take the shut-door score away from the open-door score.
   - Check: You hear a neighbour's music through the wall. You hear the drum beat but not the words. Why? → **Walls and doors block high sounds more than low sounds**
 - **s4 (5 min)**  
-  *Parent does:* Talk about elephants.  
+  *Parent does:* Read the question and let the child think first.  
   *Parent says:* Elephants call with very low rumbles. Why might low sounds be useful for a herd spread across a forest?  
-  *Child mode:* Elephants rumble very low. Why is a low sound useful in a big forest?
+  *Child mode:* Think about the door. Which kind of sound gets through better?
   - Ask: Why might low rumbles help an elephant herd? (good: Low sounds pass through trees and travel far.; The herd can stay in touch from far away.)
   - Note: In the door test, the high note usually drops more. If both dropped the same, the door may have a big gap. Try a heavier door.
 
@@ -352,13 +352,13 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 - **s2 (2 min)**  
   *Parent does:* 1. Press the small flap in front of each ear hole shut with your thumbs. 2. Before humming, ask for a guess and a reason. 3. Hum the same note again.  
   *Parent says:* Now we close our ears. Will the hum sound louder, quieter or the same? Why do you think so? Now hum.  
-  *Child mode:* Press your ear flaps shut. Guess: louder or quieter? Why? Now hum.
+  *Child mode:* Press your ear flaps shut with your thumbs. Then hum.
   - Ask: What happened to the hum? (good: It got louder!; It filled my head.)
   - Note: Most people are surprised that the hum gets louder. In yoga this is Bhramari, the humming bee breath, done with the ears closed.
 - **s3 (2 min)**  
   *Parent does:* Ask how the sound could get in with the ears shut.  
-  *Parent says:* Your ears were shut, but the hum got louder. How did it reach you?  
-  *Child mode:* Your ears were shut. How did the hum get in?
+  *Parent says:* Your ears were shut, but the hum got louder. How did it reach you? The cochlea is the snail-shaped part deep in your ear that turns vibrations into signals.  
+  *Child mode:* Hint: touch your throat and hum. What do you feel?
   - Check: With your ears shut, your hum sounds louder. How does it reach your cochlea? → **Through the bones of your head**
 ### a2 · Is That Really My Voice? (8 min)
 - **record:** Write one word for how your voice sounds to you, and one for how it sounds on the recording.
@@ -369,27 +369,27 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 - **s2 (3 min)**  
   *Parent does:* 1. Play each recording. 2. Ask each person if they sound like themselves.  
   *Parent says:* Do you sound like you? Now ask a grown-up who knows you well: is that how you always sound?  
-  *Child mode:* Listen. Is that your voice? Ask a grown-up if it sounds like you.
+  *Child mode:* Listen to your recording.
   - Ask: What is different about your recorded voice? (good: It sounds higher.; It sounds thinner.; It doesn't sound like me.)
 - **s3 (2 min)**  
   *Parent does:* After the child has said what they noticed, explain why the recording sounds different.  
   *Parent says:* When you talk, you hear yourself through the air and through the bones of your head. The bones carry the low parts best. Everyone else hears only the air part.  
   *Child mode:* You hear yourself through your bones too. Others hear only the air part.
 ### a3 · Turn Your Ears Like a Cat (8 min)
-- **record:** Draw how you held your hands when the sound in front was loudest, and how you held them when the sound behind you was loudest.
+- **record:** Show your grown-up how you held your hands when the sound in front was loudest, and when the sound behind you was loudest. Or take a photo of each.
 - **s1 (3 min)**  
   *Parent does:* 1. Stand facing the fan or phone, 2 metres away. 2. Listen. 3. Cup both hands behind your ear flaps, fingers together, and listen again.  
   *Parent says:* Listen to the fan. Now cup your hands behind your ears. Is it louder, quieter or the same?  
-  *Child mode:* Listen. Now cup your hands behind your ears. Louder or quieter?
+  *Child mode:* Listen. Then cup your hands behind your ears and listen again.
 - **s2 (3 min)**  
-  *Parent does:* 1. Turn your back to the sound. 2. Hold your cupped hands in front of your ears, open side facing backwards. 3. Listen.  
+  *Parent does:* 1. Turn your back to the sound. 2. Cup your hands in front of your ears, open side facing the sound behind you. 3. Listen.  
   *Parent says:* Now the sound is behind you. Turn your hand cups to face it. What happens?  
-  *Child mode:* Turn around. Face your hand cups backwards. Is the sound louder now?
+  *Child mode:* Turn your back to the sound. Open your hand cups toward it.
   - Ask: Why does turning the cups help? (good: They catch the sound coming from that side.; Like a cat turning their ears.)
 - **s3 (2 min)**  
-  *Parent does:* Talk about cats.  
+  *Parent does:* Read the question and let the child think first.  
   *Parent says:* A cat can turn each ear flap separately, without moving the head. Why would that help a cat who hunts mice?  
-  *Child mode:* A cat can turn each ear separately. Why does that help catch a mouse?
+  *Child mode:* A cat can turn each ear, without moving the head.
   - Ask: How does turning ears help a cat? (good: They can hear a mouse rustling and find which way the mouse is.; They can listen in two directions at once.)
 ### a4 · Build a Model Ear (20 min)
 - **safety:** A grown-up helps with scissors.
@@ -400,31 +400,31 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   *Child mode:* Cut out an ear flap. Stick it on the tube. That is the ear canal.
 - **s2 (5 min)**  
   *Parent does:* 1. Stretch the balloon piece over the other end of the tube. 2. Hold it with a rubber band.  
-  *Parent says:* This is the eardrum. Tap the tube and feel it vibrate.  
+  *Parent says:* This is the eardrum. Tap the balloon gently and feel it vibrate.  
   *Child mode:* Stretch the balloon over the end. That is your eardrum.
   - Note: If you sprinkle a few grains of salt on the balloon eardrum and shout into the flap, the grains may jump. This is an extra, and you can skip it.
 - **s3 (5 min)**  
   *Parent does:* 1. Tape the tube onto the rest of the chart paper. 2. Glue the three small things in a row behind the eardrum. 3. Coil the wool like a snail shell next to them.  
-  *Parent says:* These are the hammer, the anvil and the stirrup. The coil is the cochlea.  
+  *Parent says:* These are three tiny bones: the hammer, the anvil and the stirrup. They pass the vibration on. The coil is the cochlea.  
   *Child mode:* Glue three tiny things in a row. Coil the wool like a snail.
   - Ask: What do the three tiny bones do? (good: They pass the vibration from the eardrum to the cochlea.; They make the push stronger.)
 - **s4 (5 min)**  
-  *Parent does:* Label every part. Draw a line from the cochlea to a small brain.  
+  *Parent does:* Label every part. Then point from the cochlea to where the brain would be.  
   *Parent says:* Tell me the journey of a sound, from the flap to the brain.  
-  *Child mode:* Label each part. Tell the journey of a sound out loud.
+  *Child mode:* Label each part. Follow the sound's path with your finger.
   - Check: Which part turns the vibration into signals for the brain? → **The hair cells in the cochlea**
 ### a5 · The Arm's-Length Noise Check (15 min)
 - **problem:** Doctors use a simple test to tell if a place is too loud. Stand one arm's length from someone and talk in a normal voice. If you have to shout to be heard, the place is loud enough to harm ears over time.
 - **safety:** Don't stand close to a pressure cooker as it whistles. Stay away from anything hot.
 - **record:** Make two lists: 'normal voice is fine' and 'had to shout'.
 - **s1 (3 min)**  
-  *Parent does:* Explain the arm's-length test.  
+  *Parent does:* Read the test aloud and show it.  
   *Parent says:* Here is a test doctors use. Stand one arm's length from someone. If you have to shout to be heard, the place is loud enough to harm ears over time.  
   *Child mode:* Stand an arm's length from a family member. Talk. Do you need to shout?
 - **s2 (9 min) · grown-up needed**  
   *Parent does:* 1. Try the test in a quiet room. 2. Next to the mixer grinder while it runs. 3. Near the TV at its usual volume. 4. On the balcony or at the window when traffic is busy.  
   *Parent says:* Say 'Can you hear me?' in a normal voice. Did I hear you, or did you have to shout?  
-  *Child mode:* Say 'Can you hear me?' in a normal voice. Did you need to shout?
+  *Child mode:* Visit each place and do the test.
   - Note: A mixer grinder is often loud enough to fail the test. It is fine for a minute, but shutting the kitchen door or stepping out helps.
 - **s3 (3 min)**  
   *Parent does:* Make the two lists and pick one change.  
@@ -441,7 +441,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   *Child mode:* Pinch your nose. Swallow some water. Feel a click?
   - Note: Not everyone feels a click the first time. Try once or twice more with another sip. If nothing happens, that is fine.
 - **s2 (3 min)**  
-  *Parent does:* Ask what the click might be. Then explain.  
+  *Parent does:* Ask when their ears have popped before. Then explain.  
   *Parent says:* Behind each eardrum is a little space full of air. A thin tube joins it to your throat. When you swallow, the tube opens, and the air on both sides of the eardrum evens out.  
   *Child mode:* A tiny tube joins your ear to your throat. Swallowing opens it.
   - Ask: When have your ears popped? (good: In a lift.; Driving up the ghat road to Ooty.; In an aeroplane.)
@@ -463,7 +463,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
   - Note: Common entries: the mixer grinder, the pressure cooker, honking traffic, a loud TV, a festival loudspeaker.
   - Wait: Keep the diary for 3 more days
 - **s3 (11 min)**  
-  *Parent does:* 1. Look at the totals. 2. Pick the three loudest or longest. 3. Make a plan for each and draw a poster.  
+  *Parent does:* 1. Look at the totals. 2. Pick the three loudest or longest. 3. Make a plan for each. Show it as a poster, or tell it to the family.  
   *Parent says:* Which loud sounds take the most minutes? What could we change?  
   *Child mode:* Which sound is loudest? Which lasts longest? Make a plan.
   - Ask: What is one change our family can make? (good: Close the kitchen door when the mixer runs.; Keep earphone volume low.; Stand far back at the crackers.)
@@ -477,12 +477,12 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 - **creative:** Two plastic cups lined with a folded cloth, joined by a headband.; A thick woollen cap pulled down over the ears.; A shawl wrapped round the head, with folded cloth over each ear.
 - **s1 (5 min)**  
   *Parent does:* Read the problem. Think back to the volume test in the Quietest Sound experiment, where you tested ear covers.  
-  *Parent says:* In the volume test, which cover blocked the most? What made it good?  
-  *Child mode:* Which cover worked best in the volume test? Why?
+  *Parent says:* Think back to the volume test. What made the best cover good?  
+  *Child mode:* Which cover worked best?
 - **s2 (5 min)**  
-  *Parent does:* Draw two designs.  
-  *Parent says:* Draw two ideas. Which one seals the ear best? Which one is comfy?  
-  *Child mode:* Draw two ideas. Which seals best?
+  *Parent does:* Plan two designs. Lay out the things for each, or draw them.  
+  *Parent says:* Make two plans. Which one seals the ear best? Which one is comfy?  
+  *Child mode:* Show two ideas with your things, or draw them. Which seals best?
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* Build the best design.  
   *Parent says:* Build it. Remember: nothing goes inside the ear.  
@@ -511,7 +511,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 - **s3 (6 min)**  
   *Parent does:* Compare the counts. Pick the best three ways.  
   *Parent says:* Which way got the most words right? Did shouting help?  
-  *Child mode:* Which way worked best? Did shouting help?
+  *Child mode:* Put the five ways in order, best first.
   - Check: Why does facing someone help them understand you? → **They can see your lips and face**
 
 ## Worksheets
