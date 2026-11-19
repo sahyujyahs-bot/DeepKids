@@ -199,7 +199,7 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 - **s2 (2 min)**  
   *Parent does:* Play the first card together, to show how.  
   *Parent says:* This one says, 'Does a steel spoon sink in water?' Can we test it? How?  
-  *Child mode:* Read the first card. Can you test it? How?
+  *Child mode:* Listen to the first card. Can you answer it by trying something?
   - Ask: How would you test it? (good: Drop a spoon in water and see if it sinks.; Put it in a tumbler and watch.)
 - **s3 (9 min)**  
   *Parent does:* Take turns until the pile is finished. Ask for a reason with every card.  
@@ -237,7 +237,7 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 - **predict:** Look at the bottle of rice and the pencil. Will the pencil lift the bottle, or slide out? Why do you think so? If we poke and press the rice many times, how many pokes will it take before it lifts?
 - **fair test:** Use the same bottle, the same rice and the same pencil every time. Only one thing changes: how tightly the rice is packed. Lift slowly and the same way each time.
 - **safety:** Use a plastic bottle, never glass. Lift it only a hand's width above the tray, so it falls softly if it slips.
-- **record:** Draw the bottle hanging from the pencil, or falling off it. Write your prediction, the number of pokes and what happened for each try.
+- **record:** Write your prediction, the number of pokes and what happened for each try. If you like, draw the bottle hanging from the pencil, or take a photo.
 - **results table:** Try | My prediction | How many pokes | Did the bottle lift? | What I saw
 - **s1 (3 min)**  
   *Parent does:* 1. Put the bottle on the tray. 2. Your child pours rice in through the paper cone, up to the very top. 3. Do not tap or press it yet.  
@@ -246,11 +246,11 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 - **s2 (3 min)**  
   *Parent does:* Ask for a prediction and a reason. Make your own prediction too. Write both down.  
   *Parent says:* If you push the pencil in and pull it up, will the bottle come up too? Why do you think so? I'll say my prediction too.  
-  *Child mode:* Will the pencil lift the bottle? Why do you think so?
+  *Child mode:* Guess: will the bottle come up when you lift the pencil?
   - Ask: Why do you think so? (good: No, because rice is loose and slippery.; No, the bottle is too heavy for a pencil.; Yes, because the rice will squeeze the pencil.)
   - Note: Any prediction is fine, as long as it has a reason. Do not hint at the answer.
 - **s3 (3 min)**  
-  *Parent does:* 1. Your child pushes the pencil straight down, deep into the rice. 2. They hold the bottle's neck with one hand and the pencil with the other. 3. They let go of the bottle and lift the pencil slowly.  
+  *Parent does:* 1. Your child pushes the pencil straight down, deep into the rice. 2. They hold the bottle still with one hand while they push. 3. Then they let go of the bottle and lift the pencil slowly, a hand's width above the tray.  
   *Parent says:* Push the pencil in, deep. Now let go of the bottle and lift the pencil slowly. What happens?  
   *Child mode:* Push the pencil in deep. Let go of the bottle. Lift slowly.
   - Note: With loose rice the pencil nearly always slides out. That is a real result. Write it down.
@@ -267,8 +267,8 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 - **s6 (3 min)**  
   *Parent does:* 1. When the bottle lifts, write the number of pokes. 2. Ask your child to say what they think, what they saw, and why.  
   *Parent says:* It lifted! How many pokes did it take? Was your prediction right? What do you think made the difference?  
-  *Child mode:* How many pokes did it take? Was your guess right? What made the bottle lift?
-  - Ask: What made it work the second time? (good: The rice was squashed tight round the pencil.; There were no gaps, so the rice held on.; Tapping pushed the rice together.)
+  *Child mode:* Count your pokes. How many did it take? Was your guess right?
+  - Ask: Why did the bottle lift this time, and not the first time? (good: The rice was squashed tight round the pencil.; There were no gaps, so the rice held on.; Tapping pushed the rice together.)
   - Note: Listen to your child's reason before you explain anything.
 - **s7 (2 min)**  
   *Parent does:* Pull the pencil out. Ask for one more prediction. Then push it back in and lift.  
@@ -287,9 +287,9 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 - **fair test:** Use the same die, the same hand and the same tray every time. Shake the die in your closed hand the same way and roll it onto the tray. Only one thing changes: blowing on it or not.
 - **results table:** Rolls | Sixes with a blow | Sixes without a blow
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw two columns on paper: 'Blow' and 'No blow'. 2. Ask for a prediction and a reason. Write it down.  
+  *Parent does:* 1. Make two columns on paper: 'Blow' and 'No blow'. 2. Ask for a prediction and a reason. Write it down.  
   *Parent says:* Some people blow on a die to get a six. Does it work? What do you predict, and why?  
-  *Child mode:* Does blowing on the die bring a six? Guess, and say why.
+  *Child mode:* Guess: will blowing on the die bring more sixes?
   - Ask: Why do you think so? (good: Yes, because people do it in games.; No, because blowing does not change how the die falls.; Maybe, I am not sure.)
 - **s2 (6 min)**  
   *Parent does:* 1. Your child blows on the die in their closed hand, shakes it and rolls it onto the tray. 2. Count 30 rolls. 3. Make a tally mark in 'Blow' for each six.  
@@ -308,15 +308,15 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
   - Check: Blowing gave 6 sixes and not blowing gave 4. What does that show? → **The difference is small, so it may be chance. We need to test again**
 - **s5 (2 min)**  
   *Parent does:* Ask your child: does blowing help, what do the marks show, and why?  
-  *Parent says:* So, does blowing help? What is your evidence? Why do you think the die did that?  
+  *Parent says:* So, does blowing help? What do your marks show? Why do you think the die did that?  
   *Child mode:* Does blowing help? What did your marks show?
 
 ## Activities
 ### a1 · Sure or Not Sure? Ten drops and ten coin shakes (10 min)
 - **s1 (3 min)**  
-  *Parent does:* 1. Your child holds the spoon above the cushion. 2. Before each drop, they say what will happen. 3. They let go. 4. Tick if the prediction was right. 5. Do it 10 times.  
+  *Parent does:* 1. Make two rows on paper: spoon and coin. 2. Your child holds the spoon above the cushion. 3. Before each drop, they say what will happen. 4. They let go. 5. Tick if the prediction was right. 6. Do it 10 times.  
   *Parent says:* Before you let go, tell me: what will the spoon do? Now let go. Do it ten times.  
-  *Child mode:* Say what the spoon will do. Let go. Do it ten times.
+  *Child mode:* Say what the spoon will do when you let go. Then let go. Do it ten times. Tick if you were right.
 - **s2 (4 min)**  
   *Parent does:* 1. Your child shakes the coin in cupped hands. 2. Before each drop, they say 'heads' or 'tails'. 3. They drop it on the bed. 4. Tick if right, cross if wrong. 5. Do it 10 times.  
   *Parent says:* Say heads or tails first. Now shake the coin and drop it. Were you right? Do it ten times.  
@@ -330,29 +330,29 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 ### a2 · Turn It Into a Test (12 min)
 - **s1 (3 min)**  
   *Parent does:* Read out this question: 'Which paper plane is the best?' Ask if it can be tested.  
-  *Parent says:* Here is a question: which paper plane is the best? Can we test that? What does 'best' mean?  
-  *Child mode:* Which paper plane is best? Can you test that? What does best mean?
+  *Parent says:* Here is a question: which paper plane is the best? Can we test that?  
+  *Child mode:* Can you answer 'Which paper plane is the best?' by trying? Say yes or no.
   - Ask: What could 'best' mean? (good: The one that flies furthest.; The one that stays up longest.; The prettiest one.)
   - Note: The prettiest is an opinion. The furthest or the longest in the air can be tested.
 - **s2 (2 min)**  
   *Parent does:* Help your child change 'Which paper plane is the best?' into a test question. Write it down.  
   *Parent says:* Let's make 'Which paper plane is the best?' into a test question. Which plane flies further when we throw from the same line?  
-  *Child mode:* Turn 'Which paper plane is best?' into a test question: which plane flies further from the same line?
+  *Child mode:* Change the question so a test can answer it.
 - **s3 (6 min)**  
   *Parent does:* 1. Fold two different planes. 2. Ask for a prediction and a reason. 3. Throw each one 3 times from the same line. 4. Mark where each lands with a slipper.  
   *Parent says:* Which plane will go further? Why? Now throw each one three times from the line. Throw the same way each time.  
-  *Child mode:* Which plane will go further? Why? Throw each three times.
+  *Child mode:* Throw each plane three times from the line. Throw the same way each time.
   - Note: Throw each plane three times, because one throw can be a fluke.
 - **s4 (1 min)**  
   *Parent does:* Ask your child to change one more question into a test.  
   *Parent says:* Now you try. 'Is my ball the best ball?' How could we turn that into a test?  
-  *Child mode:* Is my ball the best ball? Turn it into a test question.
+  *Child mode:* Now you try. Change 'Is my ball the best ball?' into a test question.
   - Ask: What test question could we ask? (good: Which ball bounces highest?; Which ball rolls furthest down the corridor?)
 ### a3 · Guess the Grains: predict, count, predict again (12 min)
 - **s1 (2 min)**  
-  *Parent does:* Your child scoops one level spoonful of chana. Ask for a prediction and a reason.  
+  *Parent does:* Your child scoops one level spoonful of chana, filled just to the top of the spoon and not heaped. Ask for a prediction and a reason.  
   *Parent says:* How many chana are in this spoon? Make a prediction. Why that number?  
-  *Child mode:* How many chana in the spoon? Guess. Why that number?
+  *Child mode:* Look at the spoonful. Guess how many chana are in it.
 - **s2 (4 min)**  
   *Parent does:* Tip the spoon onto the plate. Your child counts the chana into groups of ten. Write the number.  
   *Parent says:* Let's count them in groups of ten. How many groups? How many left over?  
@@ -370,7 +370,7 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 
 ## Projects
 ### p1 · My Prediction Diary: five days of guesses (25 min, 5 days)
-- **record:** One page a day: my prediction, my reason, what happened, and a tick or a cross. On the last page, draw the prediction you were proudest of.
+- **record:** One page a day: my prediction, my reason, what happened, and a tick or a cross. On the last page, write or tell about the prediction you were proudest of. You can draw it too.
 - **schedule:** day 1: Morning: predict what the sky will look like at lunchtime, and why. At lunch: look and tick or cross. (5 min); day 2: Morning: predict how many birds you will see from the window in two minutes after lunch. After lunch: count them. (5 min); day 3: Morning: predict what time the evening lights will need to be switched on. Evening: check the clock. (5 min); day 4: Morning: predict which of two wet hankies, one under the fan and one in a corner, will dry first. Check every hour. (5 min); day 5: Choose your own prediction. Then look back over the week: which predictions were right? Which were hardest? (5 min)
 - **s1 (5 min)**  
   *Parent does:* Day 1 morning: your child predicts what the sky will look like at lunchtime and gives a reason. At lunch, check together.  
@@ -381,6 +381,7 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
   *Parent does:* Day 2, morning: your child predicts how many birds they will see from the window in two minutes after lunch. After lunch, count them.  
   *Parent says:* How many birds will you see from the window in two minutes after lunch? Why that number?  
   *Child mode:* How many birds will you see in two minutes? Guess, then count.
+  - Note: Crows and pigeons count too. If you see no birds, that is a result too. Write down 0.
   - Wait: Do this on day 2.
 - **s3 (5 min)**  
   *Parent does:* Day 3, morning: your child predicts what time the lights will need to be switched on in the evening. In the evening, check the clock.  
@@ -408,8 +409,8 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 - **creative:** Use a narrower bottle, so the rice is squeezed closer to the pencil.; Use a rougher stick, like a wooden chopstick, which has more grip than a smooth pencil.; Try dal or sabudana instead of rice, and predict first which will grip best.
 - **s1 (2 min)**  
   *Parent does:* Read the problem to your child. Remind them of their poke count from the Rice Bottle Lift.  
-  *Parent says:* In the Rice Bottle Lift it took this many pokes. Can you make the bottle lift with fewer? What could you change?  
-  *Child mode:* In the Rice Bottle Lift it took many pokes. Can you make the bottle lift with fewer?
+  *Parent says:* Do you remember how many pokes the Rice Bottle Lift took? Can you make the bottle lift with fewer? What could you change?  
+  *Child mode:* Remember how many pokes it took last time. Can you beat that number?
 - **s2 (3 min)**  
   *Parent does:* Your child chooses one change. They predict the number of pokes and give a reason.  
   *Parent says:* What will you change? How many pokes will it take now? Why?  

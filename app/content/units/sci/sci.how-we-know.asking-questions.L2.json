@@ -272,7 +272,7 @@
    "title": "Test It or Not? the question card game",
    "mins": 15,
    "players": "2 or more players, or with a parent. A grown-up reads the cards for a child who is still learning to read.",
-   "context": "This is a card game about questions. You sort question cards into two piles: questions we can test by trying, and questions we can't. Then you check the back of the card.",
+   "context": "This is a card game about questions. You sort question cards into two piles: questions we can test by trying, and questions we can't. Then you check the back of the card. You will find out which questions a test can answer, and which it cannot.",
    "printables": [
     {
      "kind": "cards",
@@ -386,7 +386,7 @@
      "mins": 2,
      "do": "Play the first card together, to show how.",
      "say": "This one says, 'Does a steel spoon sink in water?' Can we test it? How?",
-     "kid": "Read the first card. Can you test it? How?",
+     "kid": "Listen to the first card. Can you answer it by trying something?",
      "ask": [
       {
        "q": "How would you test it?",
@@ -429,7 +429,7 @@
    "title": "Guess First: the quick test card game",
    "mins": 24,
    "players": "2 or more players, or with a parent. Works alone too: keep your own score.",
-   "context": "This is a prediction game. Each card is a quick test you can do at home. Before you do it, every player predicts what will happen and says why. Then you do the test and see who was right.",
+   "context": "This is a prediction game. Each card is a quick test you can do at home. Before you do it, every player predicts what will happen and says why. Then you do the test and see who was right. You will see that a wrong guess still teaches you something.",
    "printables": [
     {
      "kind": "cards",
@@ -553,7 +553,7 @@
    "title": "The Rice Bottle Lift: can a pencil lift a bottle of rice?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you fill a plastic bottle with rice and push a pencil into it. You predict whether the pencil can lift the bottle, and how many pokes it will take. Then you test it.",
+   "context": "In this experiment you fill a plastic bottle with rice and push a pencil into it. You predict whether the pencil can lift the bottle, and how many pokes it will take. Then you test it. You will find out whether loose rice can hold a pencil, and what changes when it is packed tight.",
    "question": "Can a pencil pushed into rice lift the whole bottle? Does it work better when the rice is loose, or packed tight?",
    "predict": "Look at the bottle of rice and the pencil. Will the pencil lift the bottle, or slide out? Why do you think so? If we poke and press the rice many times, how many pokes will it take before it lifts?",
    "fair_test": "Use the same bottle, the same rice and the same pencil every time. Only one thing changes: how tightly the rice is packed. Lift slowly and the same way each time.",
@@ -598,7 +598,7 @@
      "what": "Fill a bottle with rice, predict, and test whether a pencil can lift it, with loose rice and with packed rice."
     }
    ],
-   "record": "Draw the bottle hanging from the pencil, or falling off it. Write your prediction, the number of pokes and what happened for each try.",
+   "record": "Write your prediction, the number of pokes and what happened for each try. If you like, draw the bottle hanging from the pencil, or take a photo.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -664,7 +664,7 @@
      "mins": 3,
      "do": "Ask for a prediction and a reason. Make your own prediction too. Write both down.",
      "say": "If you push the pencil in and pull it up, will the bottle come up too? Why do you think so? I'll say my prediction too.",
-     "kid": "Will the pencil lift the bottle? Why do you think so?",
+     "kid": "Guess: will the bottle come up when you lift the pencil?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -680,7 +680,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Your child pushes the pencil straight down, deep into the rice. 2. They hold the bottle's neck with one hand and the pencil with the other. 3. They let go of the bottle and lift the pencil slowly.",
+     "do": "1. Your child pushes the pencil straight down, deep into the rice. 2. They hold the bottle still with one hand while they push. 3. Then they let go of the bottle and lift the pencil slowly, a hand's width above the tray.",
      "say": "Push the pencil in, deep. Now let go of the bottle and lift the pencil slowly. What happens?",
      "kid": "Push the pencil in deep. Let go of the bottle. Lift slowly.",
      "parent": "With loose rice the pencil nearly always slides out. That is a real result. Write it down."
@@ -715,10 +715,10 @@
      "mins": 3,
      "do": "1. When the bottle lifts, write the number of pokes. 2. Ask your child to say what they think, what they saw, and why.",
      "say": "It lifted! How many pokes did it take? Was your prediction right? What do you think made the difference?",
-     "kid": "How many pokes did it take? Was your guess right? What made the bottle lift?",
+     "kid": "Count your pokes. How many did it take? Was your guess right?",
      "ask": [
       {
-       "q": "What made it work the second time?",
+       "q": "Why did the bottle lift this time, and not the first time?",
        "good": [
         "The rice was squashed tight round the pencil.",
         "There were no gaps, so the rice held on.",
@@ -762,7 +762,7 @@
    "title": "The Lucky Blow: does blowing on a die bring more sixes?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you test a belief many people have: that blowing on a die before you roll it brings a six. You roll 30 times with a blow and 30 times without, and count the sixes.",
+   "context": "In this experiment you test a belief many people have: that blowing on a die before you roll it brings a six. You roll 30 times with a blow and 30 times without, and count the sixes. You will find out whether the belief is true by counting, not by hoping.",
    "question": "Does blowing on a die before rolling it give more sixes than not blowing?",
    "predict": "Will you get more sixes when you blow on the die, fewer, or about the same? Why do you think so?",
    "fair_test": "Use the same die, the same hand and the same tray every time. Shake the die in your closed hand the same way and roll it onto the tray. Only one thing changes: blowing on it or not.",
@@ -799,9 +799,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw two columns on paper: 'Blow' and 'No blow'. 2. Ask for a prediction and a reason. Write it down.",
+     "do": "1. Make two columns on paper: 'Blow' and 'No blow'. 2. Ask for a prediction and a reason. Write it down.",
      "say": "Some people blow on a die to get a six. Does it work? What do you predict, and why?",
-     "kid": "Does blowing on the die bring a six? Guess, and say why.",
+     "kid": "Guess: will blowing on the die bring more sixes?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -851,7 +851,7 @@
      "id": "s5",
      "mins": 2,
      "do": "Ask your child: does blowing help, what do the marks show, and why?",
-     "say": "So, does blowing help? What is your evidence? Why do you think the die did that?",
+     "say": "So, does blowing help? What do your marks show? Why do you think the die did that?",
      "kid": "Does blowing help? What did your marks show?"
     }
    ]
@@ -862,7 +862,7 @@
    "id": "a1",
    "title": "Sure or Not Sure? Ten drops and ten coin shakes",
    "mins": 10,
-   "context": "In this activity you predict two things ten times each: will a dropped spoon fall, and will a shaken coin land heads? You count how many predictions were right.",
+   "context": "In this activity you predict two things ten times each: will a dropped spoon fall, and will a shaken coin land heads? You count how many predictions were right. You will find out which of the two you can get right every time.",
    "materials": [
     {
      "item": "a steel spoon",
@@ -895,9 +895,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Your child holds the spoon above the cushion. 2. Before each drop, they say what will happen. 3. They let go. 4. Tick if the prediction was right. 5. Do it 10 times.",
+     "do": "1. Make two rows on paper: spoon and coin. 2. Your child holds the spoon above the cushion. 3. Before each drop, they say what will happen. 4. They let go. 5. Tick if the prediction was right. 6. Do it 10 times.",
      "say": "Before you let go, tell me: what will the spoon do? Now let go. Do it ten times.",
-     "kid": "Say what the spoon will do. Let go. Do it ten times."
+     "kid": "Say what the spoon will do when you let go. Then let go. Do it ten times. Tick if you were right."
     },
     {
      "id": "s2",
@@ -931,7 +931,7 @@
    "id": "a2",
    "title": "Turn It Into a Test",
    "mins": 12,
-   "context": "In this activity you take a question that can't be tested, and change it into one that can. Then you do one of the tests.",
+   "context": "In this activity you take a question that can't be tested, and change it into one that can. Then you do one of the tests. You will see how a question that sounds like an opinion can be answered by trying.",
    "materials": [
     {
      "item": "3 sheets of newspaper or used paper for paper planes",
@@ -939,6 +939,10 @@
     },
     {
      "item": "paper and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "tape, chalk or a rolled-up sock for a start line, and a slipper to mark where a plane lands",
      "qty": 1
     }
    ],
@@ -957,8 +961,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Read out this question: 'Which paper plane is the best?' Ask if it can be tested.",
-     "say": "Here is a question: which paper plane is the best? Can we test that? What does 'best' mean?",
-     "kid": "Which paper plane is best? Can you test that? What does best mean?",
+     "say": "Here is a question: which paper plane is the best? Can we test that?",
+     "kid": "Can you answer 'Which paper plane is the best?' by trying? Say yes or no.",
      "ask": [
       {
        "q": "What could 'best' mean?",
@@ -976,14 +980,14 @@
      "mins": 2,
      "do": "Help your child change 'Which paper plane is the best?' into a test question. Write it down.",
      "say": "Let's make 'Which paper plane is the best?' into a test question. Which plane flies further when we throw from the same line?",
-     "kid": "Turn 'Which paper plane is best?' into a test question: which plane flies further from the same line?"
+     "kid": "Change the question so a test can answer it."
     },
     {
      "id": "s3",
      "mins": 6,
      "do": "1. Fold two different planes. 2. Ask for a prediction and a reason. 3. Throw each one 3 times from the same line. 4. Mark where each lands with a slipper.",
      "say": "Which plane will go further? Why? Now throw each one three times from the line. Throw the same way each time.",
-     "kid": "Which plane will go further? Why? Throw each three times.",
+     "kid": "Throw each plane three times from the line. Throw the same way each time.",
      "parent": "Throw each plane three times, because one throw can be a fluke."
     },
     {
@@ -991,7 +995,7 @@
      "mins": 1,
      "do": "Ask your child to change one more question into a test.",
      "say": "Now you try. 'Is my ball the best ball?' How could we turn that into a test?",
-     "kid": "Is my ball the best ball? Turn it into a test question.",
+     "kid": "Now you try. Change 'Is my ball the best ball?' into a test question.",
      "ask": [
       {
        "q": "What test question could we ask?",
@@ -1008,7 +1012,7 @@
    "id": "a3",
    "title": "Guess the Grains: predict, count, predict again",
    "mins": 12,
-   "context": "In this activity you predict how many chana are in one spoonful, then count them. Then you use what you found to predict how many are in two spoonfuls.",
+   "context": "In this activity you predict how many chana (chickpeas) are in one spoonful, then count them. Then you use what you found to predict how many are in two spoonfuls. You will see that a count helps you guess better.",
    "materials": [
     {
      "item": "about 1 cup of dry kabuli chana, rajma or any big dry beans",
@@ -1041,9 +1045,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Your child scoops one level spoonful of chana. Ask for a prediction and a reason.",
+     "do": "Your child scoops one level spoonful of chana, filled just to the top of the spoon and not heaped. Ask for a prediction and a reason.",
      "say": "How many chana are in this spoon? Make a prediction. Why that number?",
-     "kid": "How many chana in the spoon? Guess. Why that number?"
+     "kid": "Look at the spoonful. Guess how many chana are in it."
     },
     {
      "id": "s2",
@@ -1123,7 +1127,7 @@
      "what": "Choose your own prediction. Then look back over the week: which predictions were right? Which were hardest?"
     }
    ],
-   "record": "One page a day: my prediction, my reason, what happened, and a tick or a cross. On the last page, draw the prediction you were proudest of.",
+   "record": "One page a day: my prediction, my reason, what happened, and a tick or a cross. On the last page, write or tell about the prediction you were proudest of. You can draw it too.",
    "setup": [
     {
      "art": "A small notebook open on a table, with a page saying 'My prediction', 'My reason', 'What happened', and a crayon drawing of a cloudy sky.",
@@ -1149,6 +1153,7 @@
      "do": "Day 2, morning: your child predicts how many birds they will see from the window in two minutes after lunch. After lunch, count them.",
      "say": "How many birds will you see from the window in two minutes after lunch? Why that number?",
      "kid": "How many birds will you see in two minutes? Guess, then count.",
+     "parent": "Crows and pigeons count too. If you see no birds, that is a result too. Write down 0.",
      "wait": "Do this on day 2."
     },
     {
@@ -1184,7 +1189,7 @@
    "id": "c1",
    "title": "Fewest Pokes: make the rice grip faster",
    "mins": 15,
-   "context": "This is a challenge for after the Rice Bottle Lift. Can you make a pencil lift a bottle of rice with fewer pokes than it took then?",
+   "context": "This is a challenge for after the Rice Bottle Lift. Can you make a pencil lift a bottle of rice with fewer pokes than it took then? You will find out what makes the rice grip the pencil fastest.",
    "problem": "In the Rice Bottle Lift, you counted how many pokes it took before the bottle lifted. Can you make it lift with fewer pokes?",
    "constraints": [
     "Use rice and a pencil or stick.",
@@ -1223,8 +1228,8 @@
      "id": "s1",
      "mins": 2,
      "do": "Read the problem to your child. Remind them of their poke count from the Rice Bottle Lift.",
-     "say": "In the Rice Bottle Lift it took this many pokes. Can you make the bottle lift with fewer? What could you change?",
-     "kid": "In the Rice Bottle Lift it took many pokes. Can you make the bottle lift with fewer?"
+     "say": "Do you remember how many pokes the Rice Bottle Lift took? Can you make the bottle lift with fewer? What could you change?",
+     "kid": "Remember how many pokes it took last time. Can you beat that number?"
     },
     {
      "id": "s2",

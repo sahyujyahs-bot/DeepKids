@@ -179,7 +179,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 - **s2 (9 min)**  
   *Parent does:* Play until the pile is gone. Read each front, wait for the answer and the reason, then the other player reads the back.  
   *Parent says:* Moonlight on the terrace floor. Where did that light start? Where did it go next?  
-  *Child mode:* Read the card. Where did its light start? Turn it over.
+  *Child mode:* Read the card. Say where its light started.
   - Note: The Moon cards are the tricky ones. If your child says the light started at the Moon, ask: where did the Moon get it?
 - **s3 (2 min)**  
   *Parent does:* Count the cards. Then ask about the card 'Inside a shut steel dabba'.  
@@ -200,7 +200,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 - **s3 (1 min)**  
   *Parent does:* Stop the game and ask why the Moons froze.  
   *Parent says:* Why did the Moons freeze when the Sun turned away?  
-  *Child mode:* Why did you freeze when the Sun turned away?
+  *Child mode:* Say what stopped reaching you.
   - Check: In the Sun and Moons game, a Moon must freeze when the Sun turns away. Why? → **No light reaches that Moon, and Moons make none of their own**
 
 ## Experiments
@@ -209,7 +209,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 - **question:** In a dark room, which sheet sends the most torch light on to a picture card: white paper, newspaper, black cloth or kitchen foil?
 - **predict:** Which sheet will let you see the most pictures in the dark? Which will let you see the fewest? Why do you think so?
 - **fair test:** We use the same torch, the same dark room and the same picture card every time. The torch and the card stay in the same places. We change only the sheet that the torch shines on. We count for the same time, ten seconds, each time.
-- **record:** Fill in the table. Then draw a bar for each sheet: as many boxes as pictures you saw.
+- **record:** Fill in the table. Then make a bar for each sheet: as many boxes as pictures you saw. Colour the boxes, or stack that many coins.
 - **results table:** Sheet the torch shines on | My guess: how many pictures will I see? | How many pictures I saw
 - **s1 (2 min)**  
   *Parent does:* 1. Make the picture card: draw six pictures on a white sheet with a thick black pen. Make them go from big to small. 2. Show your child the four sheets. 3. Let them feel each one.  
@@ -218,7 +218,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess, for each sheet, how many of the six pictures they will see. Write the guesses in the table.  
   *Parent says:* In the dark, we shine the torch only on the sheet, never on the pictures. How many pictures will you see with each sheet? Why do you think so?  
-  *Child mode:* Guess how many pictures you will see with each sheet. Why?
+  *Child mode:* Guess how many pictures each sheet will show.
   - Ask: Why did you guess that number for the foil? (good: It is shiny, so it will send lots of light.; It is like a mirror, so the light might go somewhere else.)
   - Note: Any guess is fine. Many children expect the shiny foil to win. Don't say what will happen.
 - **s3 (3 min)**  
@@ -240,16 +240,16 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 - **s6 (3 min)**  
   *Parent does:* Switch the room light on. Look at the table together. Ask your child what they think, what they saw and why.  
   *Parent says:* Which sheet helped you see the most? Why do you think so? Did the white paper make any light of its own?  
-  *Child mode:* Which sheet helped most? Did the paper make its own light? How do you know?
+  *Child mode:* Tell your grown-up which sheet helped you see the most.
   - Ask: What does the paper do with the torch's light? (good: It bounces it on to the pictures.; It sends the light on, but makes none.)
   - Ask: How is the white paper like the Moon? (good: The Moon bounces the Sun's light to us.; The Moon makes no light of its own, like the paper.)
-  - Check: You shine a torch on white paper in a dark room. The paper lights up your drawing. Then you switch the torch off. What happens? → **The drawing goes dark**
+  - Check: You shine a torch on white paper in a dark room. The paper lights up the picture card. Then you switch the torch off. What happens? → **The drawing goes dark**
 ### e2 · The Blackest Black: a hole in a box (15 min)
 - **question:** Which looks darker: black paper, or a small hole into a closed box?
 - **predict:** Look at the black paper. Will the hole look darker, or just the same? Why do you think so?
 - **fair test:** We look at the paper and the hole side by side, in the same light, from the same place. The only difference is that one is paper and one is a hole.
 - **safety:** A grown-up pokes the hole, pushing the pencil away from fingers.
-- **record:** Draw the box with its black paper and its hole. Colour the darkest part darkest. Write: the hole is darker because…
+- **record:** Draw the box with its black paper and its hole, or tell your grown-up what you saw. Say: the hole is darker because…
 - **results table:** What I looked at | My guess: how dark? | What I saw
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. If you have spare black paper or cloth, line the inside of the box with it. 2. Glue black paper over one side of the box, on the outside. 3. Push a pencil through the middle of the black paper to make a hole as wide as the pencil. 4. Close the lid.  
@@ -258,7 +258,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess which will look darker, the hole or the black paper around it.  
   *Parent says:* Look at the black paper. Now look at the hole. Which one will look darker? Or will they look the same? Why do you think so?  
-  *Child mode:* Which is darker: the hole or the paper? Why do you think so?
+  *Child mode:* Guess: will the hole look darker than the paper, or the same?
   - Note: Many children say they will look the same, because both are black.
 - **s3 (4 min)**  
   *Parent does:* 1. Hold the box near a window or under the room light. 2. Let your child look closely at the hole and the paper from an arm's length. 3. Then from very close.  
@@ -269,13 +269,13 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 - **s4 (3 min)**  
   *Parent does:* Ask your child to explain what they saw.  
   *Parent says:* Black paper sends back a little light. What about the hole? Why is it so dark?  
-  *Child mode:* Why is the hole so dark? Where did the light go?
+  *Child mode:* Think about where the light goes when it enters the hole.
   - Note: Listen for this idea: the light goes into the hole and does not come back out, so almost none reaches your eyes. If your child says only that the hole is black, ask where the light went.
   - Check: In the Blackest Black experiment, the hole in the box looks darker than the black paper. Why? → **Almost no light comes back out of the hole**
 
 ## Activities
 ### a1 · The Door Test: does the dark come out? (8 min)
-- **record:** Draw the door, the dark room and the lit room. Draw arrows to show what moved.
+- **record:** Draw the door, the dark room and the lit room, with arrows to show what moved. Or tell your grown-up what moved.
 - **s1 (2 min)**  
   *Parent does:* 1. Switch off the light in a small room, such as the bathroom. 2. Put a sheet of white paper on the floor of that room. 3. Your child stands inside. 4. You stand outside in the lit hall and close the door.  
   *Parent says:* Stand in the dark room and look at the white paper on the floor. Soon I will open the door. What do you think will happen? Why?  
@@ -294,27 +294,27 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 - **s4 (2 min)**  
   *Parent does:* Ask your child what they noticed.  
   *Parent says:* Light came in through the door. Did dark ever come out? What do you think dark is?  
-  *Child mode:* Light came in. Dark never came out. What do you think dark is?
+  *Child mode:* Light came in. Dark never came out. Think about what dark could be.
   - Ask: What do you think dark is? (good: Where there is no light.; Dark is just no light.)
   - Note: Let your child say it in their own words.
 ### a2 · Where Is the Sun? Read the bright side of the Moon (10 min, 3 days)
 - **safety:** Look at the Moon only after the Sun has set or is hidden. Never look at the Sun itself.
-- **record:** Draw the Moon each evening. Draw an arrow from the bright side towards where the Sun went down.
+- **record:** Draw the Moon each evening, or take a photo. Draw an arrow from the bright side towards where the Sun went down, or point to it.
 - **schedule:** day 1: Find the Moon in the evening. Draw its shape and which side is bright. Point to where the Sun went down. (4 min); day 3: Two days later, look at the Moon again at the same time. Draw it again, then compare the two drawings. Which way did the bright side face each time? (6 min)
 - **s1 (4 min)**  
-  *Parent does:* 1. In the week after Amavasya, the new Moon, look out after sunset. The Moon will be in the west, near where the Sun set. 2. Help your child find it. 3. Ask them to draw it.  
+  *Parent does:* 1. In the week after Amavasya, the new Moon, look out after sunset. The Moon will be in the west, near where the Sun set. 2. Help your child find it. 3. Ask them to draw it, or take a photo of it.  
   *Parent says:* Can you find the Moon? Which side of it is bright? Now point to where the Sun went down.  
   *Child mode:* Find the Moon. Which side is bright? Point to where the Sun went down.
   - Note: A calendar with Amavasya and Purnima marked helps. The thin evening Moon is easiest to see in the first week after Amavasya. If clouds hide the Moon, try another night, or look at a Moon photo taken in the evening.
 - **s2 (3 min)**  
-  *Parent does:* Two days later, look at the Moon again at the same time. Ask your child to draw the Moon again.  
+  *Parent does:* Two days later, look at the Moon again at the same time. Ask your child to draw the Moon again, or take a photo.  
   *Parent says:* The Moon has moved and grown fatter. Which side is bright now? Is it still the side nearer to where the Sun went down?  
-  *Child mode:* Draw the Moon again. Which side is bright now?
+  *Child mode:* Look at the Moon again. Draw it, or take a photo.
   - Wait: Look again 2 days later
 - **s3 (3 min)**  
-  *Parent does:* Put the drawings side by side.  
-  *Parent says:* Look at your drawings. Which way did the bright side face each time? What does that tell us about where the Moon's light comes from?  
-  *Child mode:* Look at your drawings. Which way did the bright side face?
+  *Parent does:* Put the drawings or photos side by side.  
+  *Parent says:* Look at the two Moons. Which way did the bright side face each time? What does that tell us about where the Moon's light comes from?  
+  *Child mode:* Compare the two Moons. Point to the bright side on each.
   - Ask: Which way did the bright side face? (good: Towards where the Sun went down.; Towards the Sun.)
   - Check: You see the Moon in the evening. The bright side faces the place where the Sun has just set. What does this show? → **The Moon's light comes from the Sun**
 ### a3 · Arrows of Light: draw how moonlight reaches you (10 min)
@@ -324,9 +324,9 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
   *Parent says:* Draw the Sun, the Moon and the Earth. Put our home on the Earth, on the side away from the Sun, because it is night there.  
   *Child mode:* Draw the Sun, the Moon and the Earth. Put your home on the night side.
 - **s2 (4 min)**  
-  *Parent does:* Ask your child to draw yellow arrows to show how the light gets to their eyes at night.  
-  *Parent says:* Where does the light start? Draw an arrow. Where does it go next? Where does it end?  
-  *Child mode:* Where does the light start? Draw arrows all the way to your eyes.
+  *Parent does:* Ask your child to show how the light gets to their eyes at night. They draw yellow arrows, or lay a string from the Sun to the Moon to their home.  
+  *Parent says:* Show me the path of the light. Where does it go next? Where does it end?  
+  *Child mode:* Show the path of the light, all the way to your eyes.
   - Ask: Where does the light start? (good: At the Sun.; The Sun, then the Moon, then my eyes.)
   - Note: A strong drawing has an arrow from the Sun to the Moon, and a second arrow from the Moon to the child. If the arrows start at the Moon, ask: where did the Moon get its light?
 - **s3 (2 min)**  
@@ -337,7 +337,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 
 ## Projects
 ### p1 · The Paper Moon Night-Light (25 min)
-- **record:** Draw your room lit by your paper Moon, with arrows from the torch to the Moon and on to the room.
+- **record:** Draw your room lit by your paper Moon, with arrows from the torch to the Moon and on to the room. Or take a photo and tell your grown-up where the light went.
 - **s1 (8 min)**  
   *Parent does:* 1. Draw round the steel plate on the white paper. 2. Help your child cut out the circle. 3. Your child draws a few light grey patches and small round craters on it.  
   *Parent says:* The real Moon has dark patches and craters. Draw some on your Moon. Keep most of it white. Why do we keep it white?  
@@ -356,12 +356,12 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 - **s4 (2 min)**  
   *Parent does:* Ask your child what lights the real Moon.  
   *Parent says:* In our room, the torch lights the paper Moon. What lights the real Moon?  
-  *Child mode:* Your torch is like the Sun. What lights the real Moon?
+  *Child mode:* Think about what lights the real Moon.
   - Check: You light your room with a paper Moon and a torch. What is the torch like? → **The Sun**
 
 ## Challenges
 ### c1 · Light the Hidden Picture (15 min)
-- **problem:** A picture is behind a big box in a dark room. The torch is on the other side of the box and shines at the wall. You may not move the torch. How can you get light to the picture? The Moon does something like this at night. The Sun is on the far side of the Earth. Its light bounces off the Moon to reach us.
+- **problem:** A picture is behind a big box in a dark room. The torch is on the other side of the box and shines at the wall. The box blocks its light from the picture. You may not move the torch. How can you get light to the picture? The Moon does something like this at night. The Sun is on the far side of the Earth. Its light bounces off the Moon to reach us.
 - **your turn:** Find two ways to light the hidden picture. Which way made it brightest? Which way lit up the most of the room?
 - **constraints:** The torch stays where it is, pointing the same way.; The box stays where it is.; Use only things you already have at home.
 - **general:** Hold a mirror in the torch beam and turn it until the light lands on the picture.; Hold a big white sheet where the beam hits, so it spreads light all round, even behind the box.
@@ -369,7 +369,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 - **c-s1 (2 min)**  
   *Parent does:* Set up the torch, the box and the picture in a dark room. Read the problem.  
   *Parent says:* The torch can't move, and the picture is hidden. How can we get light to the picture?  
-  *Child mode:* The torch can't move. How can you light the hidden picture?
+  *Child mode:* Think of something that could bounce the light.
   - Ask: What could you use? (good: A mirror.; White paper, to bounce the light.)
 - **c-s2 (10 min)**  
   *Parent does:* Let your child try their ideas. Help only if asked.  
@@ -378,7 +378,7 @@ On the way down, Arjun stopped at a window and looked back at the Moon. "Thank y
 - **c-s3 (3 min)**  
   *Parent does:* Talk about which way worked best.  
   *Parent says:* Which way worked best? Which light source did every way start with?  
-  *Child mode:* Which way was best? Where did the light start?
+  *Child mode:* Tell which way worked best.
   - Check: You light the hidden picture with a mirror. Where did the light on the picture start? → **At the torch**
 
 ## Worksheets

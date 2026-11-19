@@ -367,7 +367,7 @@
      "mins": 10,
      "do": "Take turns to turn over two cards. If they are a pair, keep them. If they are not a pair, turn them face down again in the same places.",
      "say": "Turn over two cards. If one names an animal and the other says how that animal sleeps, that is a pair. If not, remember where they are.",
-     "kid": "Find an animal card and its sleep card. Remember where the others are.",
+     "kid": "Find an animal card and the card that says how that animal sleeps. Remember where the others are.",
      "parent": "This game uses memory. Say aloud where each card was when you turn it back. That helps everyone remember."
     },
     {
@@ -615,7 +615,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Fold 16 pieces of paper in half. 2. On each one, draw a quick picture on the left half and a different picture on the right half, or write the two words if you prefer. The two lists are in the parent note. 3. Share the work: your child makes as many as they like, and you draw the rest. 4. Keep the two sets of eight cards in separate envelopes.",
+     "do": "1. Fold 16 pieces of paper in half. 2. On each one, draw a quick picture on the left half and another on the right half, or write two words. The two lists are in the parent note. 3. Share the work: your child makes as many as they like, and you draw the rest. 4. Keep the two sets of eight cards in separate envelopes.",
      "say": "We are making two sets of picture pairs. The pictures in a pair do not belong together. That makes them a real test of memory.",
      "kid": "Draw or write one thing on each half of a card. The two things are a pair.",
      "parent": "Day set: elephant and umbrella, mango and bus, star and shoe, fish and chair, kite and spoon, tree and cup, auto and flower, drum and banana. Night set: cat and clock, boat and key, moon and bucket, parrot and ball, coconut and bell, house and leaf, lamp and frog, egg and ladder. Quick, simple drawings are fine. A pair of things that do not go together, like a mango and a bus, is harder to guess. So the test shows real memory, not good guessing."
@@ -740,7 +740,7 @@
      "id": "s1",
      "mins": 2,
      "do": "Ask for a guess and a reason.",
-     "say": "I am going to smile at you for 3 minutes, then yawn for 3 minutes. When will you yawn more? Why do you think so?",
+     "say": "I am going to smile at you for 3 minutes, then yawn for 3 minutes. When will you yawn more?",
      "kid": "Guess: will you yawn more at the smiles or at the yawns?",
      "ask": [
       {
@@ -886,8 +886,8 @@
      "id": "s4",
      "mins": 3,
      "do": "On the seventh night, look at the ticks together.",
-     "say": "Was it easier to fall asleep this week? Which step helped most?",
-     "kid": "Was it easier to fall asleep? Which step helped most?",
+     "say": "Was it easier to fall asleep this week?",
+     "kid": "Look at your ticks. Was it easier to fall asleep this week?",
      "ask": [
       {
        "q": "Which step helped most?",
@@ -1058,7 +1058,7 @@
     {
      "day": 3,
      "mins": 10,
-     "what": "Draw a moon for each hour slept, and compare."
+     "what": "Lay out one bean for each hour slept, and compare."
     }
    ],
    "record": "A table of names, ages and hours slept, and a chart with a row of beans for each person. Take a photo of it.",

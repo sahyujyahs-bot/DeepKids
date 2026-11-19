@@ -246,7 +246,7 @@
    "title": "The Paper Moon Test: can bounced light help you see?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you make a paper Moon in a dark room. A torch shines on a sheet of paper, and you count how many pictures the bounced light lets you see. Then you try different papers.",
+   "context": "In this experiment you make a paper Moon in a dark room. A torch shines on a sheet of paper, and you count how many pictures the bounced light lets you see. Then you try different papers. You will find out whether a thing that makes no light can still help you see.",
    "problem": "The Moon makes no light of its own, but it lights up the night. In this test, a sheet of paper plays the part of the Moon, and a torch plays the part of the Sun. You will find out whether paper that only bounces the torch's light can help you see pictures in the dark.",
    "question": "In a dark room, which sheet sends the most torch light on to a picture card: white paper, newspaper, black cloth or kitchen foil?",
    "predict": "Which sheet will let you see the most pictures in the dark? Which will let you see the fewest? Why do you think so?",
@@ -297,7 +297,7 @@
      "what": "In a dark room, shine a torch on four different sheets, and count how many pictures each one lets you see."
     }
    ],
-   "record": "Fill in the table. Then draw a bar for each sheet: as many boxes as pictures you saw.",
+   "record": "Fill in the table. Then make a bar for each sheet: as many boxes as pictures you saw. Colour the boxes, or stack that many coins.",
    "setup": [
     {
      "art": "A picture card with six bold black pen drawings (fish, star, house, flower, kite, cup) next to a white sheet, a newspaper, a black T-shirt and a piece of foil.",
@@ -329,7 +329,7 @@
      "mins": 3,
      "do": "Ask your child to guess, for each sheet, how many of the six pictures they will see. Write the guesses in the table.",
      "say": "In the dark, we shine the torch only on the sheet, never on the pictures. How many pictures will you see with each sheet? Why do you think so?",
-     "kid": "Guess how many pictures you will see with each sheet. Why?",
+     "kid": "Guess how many pictures each sheet will show.",
      "ask": [
       {
        "q": "Why did you guess that number for the foil?",
@@ -387,7 +387,7 @@
      "mins": 3,
      "do": "Switch the room light on. Look at the table together. Ask your child what they think, what they saw and why.",
      "say": "Which sheet helped you see the most? Why do you think so? Did the white paper make any light of its own?",
-     "kid": "Which sheet helped most? Did the paper make its own light? How do you know?",
+     "kid": "Tell your grown-up which sheet helped you see the most.",
      "ask": [
       {
        "q": "What does the paper do with the torch's light?",
@@ -406,7 +406,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "You shine a torch on white paper in a dark room. The paper lights up your drawing. Then you switch the torch off. What happens?",
+      "q": "You shine a torch on white paper in a dark room. The paper lights up the picture card. Then you switch the torch off. What happens?",
       "options": [
        "The drawing goes dark",
        "The paper keeps glowing for a minute",
@@ -423,7 +423,7 @@
    "title": "The Blackest Black: a hole in a box",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you make a small hole in a box covered with black paper. Then you look closely: which is darker, the black paper or the hole?",
+   "context": "In this experiment you make a small hole in a box covered with black paper. Then you look closely: which is darker, the black paper or the hole? You will find out whether a hole can look blacker than black paper.",
    "question": "Which looks darker: black paper, or a small hole into a closed box?",
    "predict": "Look at the black paper. Will the hole look darker, or just the same? Why do you think so?",
    "fair_test": "We look at the paper and the hole side by side, in the same light, from the same place. The only difference is that one is paper and one is a hole.",
@@ -462,7 +462,7 @@
      "what": "Cover a box with black paper, poke a small hole, and compare the hole with the paper."
     }
    ],
-   "record": "Draw the box with its black paper and its hole. Colour the darkest part darkest. Write: the hole is darker because…",
+   "record": "Draw the box with its black paper and its hole, or tell your grown-up what you saw. Say: the hole is darker because…",
    "setup": [
     {
      "art": "A shoebox with one side covered by black paper, and a grown-up pushing a pencil through the paper to make a hole the size of a fingertip.",
@@ -487,7 +487,7 @@
      "mins": 3,
      "do": "Ask your child to guess which will look darker, the hole or the black paper around it.",
      "say": "Look at the black paper. Now look at the hole. Which one will look darker? Or will they look the same? Why do you think so?",
-     "kid": "Which is darker: the hole or the paper? Why do you think so?",
+     "kid": "Guess: will the hole look darker than the paper, or the same?",
      "parent": "Many children say they will look the same, because both are black."
     },
     {
@@ -512,7 +512,7 @@
      "mins": 3,
      "do": "Ask your child to explain what they saw.",
      "say": "Black paper sends back a little light. What about the hole? Why is it so dark?",
-     "kid": "Why is the hole so dark? Where did the light go?",
+     "kid": "Think about where the light goes when it enters the hole.",
      "check": {
       "t": "mcq",
       "q": "In the Blackest Black experiment, the hole in the box looks darker than the black paper. Why?",
@@ -535,7 +535,7 @@
    "title": "The Door Test: does the dark come out?",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you stand in a dark room while a grown-up opens the door to a lit hall. You watch what comes in. Then you swap, and watch whether any dark comes out.",
+   "context": "In this activity you stand in a dark room while a grown-up opens the door to a lit hall. You watch what comes in. Then you swap, and watch whether any dark comes out. You will find out whether darkness can spread like light.",
    "materials": [
     {
      "item": "a room you can make dark, such as a bathroom, next to a room with the light on",
@@ -553,7 +553,7 @@
      "what": "Open a door between a dark room and a lit room, from both sides, and watch."
     }
    ],
-   "record": "Draw the door, the dark room and the lit room. Draw arrows to show what moved.",
+   "record": "Draw the door, the dark room and the lit room, with arrows to show what moved. Or tell your grown-up what moved.",
    "setup": [
     {
      "art": "A girl standing in a dark bathroom, a white sheet of paper on the floor, and a thin line of light at the edge of the door.",
@@ -614,7 +614,7 @@
      "mins": 2,
      "do": "Ask your child what they noticed.",
      "say": "Light came in through the door. Did dark ever come out? What do you think dark is?",
-     "kid": "Light came in. Dark never came out. What do you think dark is?",
+     "kid": "Light came in. Dark never came out. Think about what dark could be.",
      "ask": [
       {
        "q": "What do you think dark is?",
@@ -633,7 +633,7 @@
    "title": "Where Is the Sun? Read the bright side of the Moon",
    "mins": 10,
    "days": 3,
-   "context": "In this activity you look at the Moon on a few evenings, from a window or a balcony. You draw which side of the Moon is bright, and find where the Sun is.",
+   "context": "In this activity you look at the Moon on a few evenings, from a window or a balcony. You find which side of the Moon is bright, and where the Sun is. You will see why the Moon is bright on one side.",
    "materials": [
     {
      "item": "a window or balcony where you can see some of the sky",
@@ -657,7 +657,7 @@
      "what": "Two days later, look at the Moon again at the same time. Draw it again, then compare the two drawings. Which way did the bright side face each time?"
     }
    ],
-   "record": "Draw the Moon each evening. Draw an arrow from the bright side towards where the Sun went down.",
+   "record": "Draw the Moon each evening, or take a photo. Draw an arrow from the bright side towards where the Sun went down, or point to it.",
    "setup": [
     {
      "art": "A child and a grown-up at a balcony at dusk, the child pointing to a thick crescent Moon, and an orange glow on the horizon where the Sun has set.",
@@ -672,7 +672,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. In the week after Amavasya, the new Moon, look out after sunset. The Moon will be in the west, near where the Sun set. 2. Help your child find it. 3. Ask them to draw it.",
+     "do": "1. In the week after Amavasya, the new Moon, look out after sunset. The Moon will be in the west, near where the Sun set. 2. Help your child find it. 3. Ask them to draw it, or take a photo of it.",
      "say": "Can you find the Moon? Which side of it is bright? Now point to where the Sun went down.",
      "kid": "Find the Moon. Which side is bright? Point to where the Sun went down.",
      "parent": "A calendar with Amavasya and Purnima marked helps. The thin evening Moon is easiest to see in the first week after Amavasya. If clouds hide the Moon, try another night, or look at a Moon photo taken in the evening."
@@ -680,17 +680,17 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Two days later, look at the Moon again at the same time. Ask your child to draw the Moon again.",
+     "do": "Two days later, look at the Moon again at the same time. Ask your child to draw the Moon again, or take a photo.",
      "say": "The Moon has moved and grown fatter. Which side is bright now? Is it still the side nearer to where the Sun went down?",
-     "kid": "Draw the Moon again. Which side is bright now?",
+     "kid": "Look at the Moon again. Draw it, or take a photo.",
      "wait": "Look again 2 days later"
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "Put the drawings side by side.",
-     "say": "Look at your drawings. Which way did the bright side face each time? What does that tell us about where the Moon's light comes from?",
-     "kid": "Look at your drawings. Which way did the bright side face?",
+     "do": "Put the drawings or photos side by side.",
+     "say": "Look at the two Moons. Which way did the bright side face each time? What does that tell us about where the Moon's light comes from?",
+     "kid": "Compare the two Moons. Point to the bright side on each.",
      "ask": [
       {
        "q": "Which way did the bright side face?",
@@ -719,7 +719,7 @@
    "title": "Arrows of Light: draw how moonlight reaches you",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you draw the Sun, the Moon, the Earth and your window. Then you draw arrows to show the path the light takes to your eyes.",
+   "context": "In this activity you draw the Sun, the Moon, the Earth and your window. Then you draw arrows, or lay a string, to show the path the light takes to your eyes. You will see that the light on your window started at the Sun.",
    "materials": [
     {
      "item": "a big sheet of paper",
@@ -727,6 +727,10 @@
     },
     {
      "item": "crayons, with a yellow one",
+     "qty": 1
+    },
+    {
+     "item": "a piece of string or wool, to lay along the path",
      "qty": 1
     }
    ],
@@ -752,9 +756,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Ask your child to draw yellow arrows to show how the light gets to their eyes at night.",
-     "say": "Where does the light start? Draw an arrow. Where does it go next? Where does it end?",
-     "kid": "Where does the light start? Draw arrows all the way to your eyes.",
+     "do": "Ask your child to show how the light gets to their eyes at night. They draw yellow arrows, or lay a string from the Sun to the Moon to their home.",
+     "say": "Show me the path of the light. Where does it go next? Where does it end?",
+     "kid": "Show the path of the light, all the way to your eyes.",
      "ask": [
       {
        "q": "Where does the light start?",
@@ -791,7 +795,7 @@
    "title": "Trace It Back: a card game about where light comes from",
    "mins": 12,
    "players": "2 or more players. Take turns to be the reader.",
-   "context": "This is a card game. Each card shows something bright, or something dark. You say where its light started, step by step.",
+   "context": "This is a card game. Each card shows something bright, or something dark. You say where its light started, step by step. You will find out which things make their own light, and which only send it on.",
    "printables": [
     {
      "kind": "cards",
@@ -890,7 +894,7 @@
      "mins": 9,
      "do": "Play until the pile is gone. Read each front, wait for the answer and the reason, then the other player reads the back.",
      "say": "Moonlight on the terrace floor. Where did that light start? Where did it go next?",
-     "kid": "Read the card. Where did its light start? Turn it over.",
+     "kid": "Read the card. Say where its light started.",
      "parent": "The Moon cards are the tricky ones. If your child says the light started at the Moon, ask: where did the Moon get it?"
     },
     {
@@ -918,7 +922,7 @@
    "title": "Sun and Moons: a moving game",
    "mins": 8,
    "players": "2 or more players: one Sun, and one or more Moons.",
-   "context": "This is a moving game. One player is the Sun. Everyone else is a Moon holding a white plate or a sheet of white paper. A Moon may dance only while the Sun faces the Moon.",
+   "context": "This is a moving game. One player is the Sun. Everyone else is a Moon holding a white plate or a sheet of white paper. A Moon may dance only while the Sun faces the Moon. You will act out why the Moon shines only while sunlight reaches it.",
    "printables": [
     {
      "kind": "cards",
@@ -988,7 +992,7 @@
      "mins": 1,
      "do": "Stop the game and ask why the Moons froze.",
      "say": "Why did the Moons freeze when the Sun turned away?",
-     "kid": "Why did you freeze when the Sun turned away?",
+     "kid": "Say what stopped reaching you.",
      "check": {
       "t": "mcq",
       "q": "In the Sun and Moons game, a Moon must freeze when the Sun turns away. Why?",
@@ -1010,7 +1014,7 @@
    "title": "The Paper Moon Night-Light",
    "mins": 25,
    "days": 1,
-   "context": "In this project you make a big paper Moon and stick it on a wall. At night, you shine a torch on it and use it to light your room softly.",
+   "context": "In this project you make a big paper Moon and stick it on a wall. At night, you shine a torch on it and use it to light your room softly. You will see that a plain paper Moon can light a room, but only while a torch shines on it.",
    "materials": [
     {
      "item": "a sheet of white chart paper, or a white paper plate",
@@ -1044,7 +1048,7 @@
      "what": "Make a paper Moon, stick it on the wall, and light the room with it at night."
     }
    ],
-   "record": "Draw your room lit by your paper Moon, with arrows from the torch to the Moon and on to the room.",
+   "record": "Draw your room lit by your paper Moon, with arrows from the torch to the Moon and on to the room. Or take a photo and tell your grown-up where the light went.",
    "setup": [
     {
      "art": "A girl drawing round a steel plate on white chart paper, and grey crayon craters on a cut-out circle beside her.",
@@ -1101,7 +1105,7 @@
      "mins": 2,
      "do": "Ask your child what lights the real Moon.",
      "say": "In our room, the torch lights the paper Moon. What lights the real Moon?",
-     "kid": "Your torch is like the Sun. What lights the real Moon?",
+     "kid": "Think about what lights the real Moon.",
      "check": {
       "t": "mcq",
       "q": "You light your room with a paper Moon and a torch. What is the torch like?",
@@ -1122,8 +1126,8 @@
    "id": "c1",
    "title": "Light the Hidden Picture",
    "mins": 15,
-   "context": "This is a problem to solve. A picture is hidden behind a box, and the torch must not move. How can you get light to the picture?",
-   "problem": "A picture is behind a big box in a dark room. The torch is on the other side of the box and shines at the wall. You may not move the torch. How can you get light to the picture? The Moon does something like this at night. The Sun is on the far side of the Earth. Its light bounces off the Moon to reach us.",
+   "context": "This is a problem to solve. A picture is hidden behind a box, and the torch must not move. How can you get light to the picture? You will find a way to send light round a box, as the Moon sends sunlight round the Earth.",
+   "problem": "A picture is behind a big box in a dark room. The torch is on the other side of the box and shines at the wall. The box blocks its light from the picture. You may not move the torch. How can you get light to the picture? The Moon does something like this at night. The Sun is on the far side of the Earth. Its light bounces off the Moon to reach us.",
    "constraints": [
     "The torch stays where it is, pointing the same way.",
     "The box stays where it is.",
@@ -1163,7 +1167,7 @@
      "mins": 2,
      "do": "Set up the torch, the box and the picture in a dark room. Read the problem.",
      "say": "The torch can't move, and the picture is hidden. How can we get light to the picture?",
-     "kid": "The torch can't move. How can you light the hidden picture?",
+     "kid": "Think of something that could bounce the light.",
      "ask": [
       {
        "q": "What could you use?",
@@ -1186,7 +1190,7 @@
      "mins": 3,
      "do": "Talk about which way worked best.",
      "say": "Which way worked best? Which light source did every way start with?",
-     "kid": "Which way was best? Where did the light start?",
+     "kid": "Tell which way worked best.",
      "check": {
       "t": "mcq",
       "q": "You light the hidden picture with a mirror. Where did the light on the picture start?",

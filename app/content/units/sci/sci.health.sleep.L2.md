@@ -182,7 +182,7 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 - **s2 (10 min)**  
   *Parent does:* Take turns to turn over two cards. If they are a pair, keep them. If they are not a pair, turn them face down again in the same places.  
   *Parent says:* Turn over two cards. If one names an animal and the other says how that animal sleeps, that is a pair. If not, remember where they are.  
-  *Child mode:* Find an animal card and its sleep card. Remember where the others are.
+  *Child mode:* Find an animal card and the card that says how that animal sleeps. Remember where the others are.
   - Note: This game uses memory. Say aloud where each card was when you turn it back. That helps everyone remember.
 - **s3 (2 min)**  
   *Parent does:* Count the pairs. Then ask why crows sleep together in one tree.  
@@ -218,7 +218,7 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 - **results table:** Set | My guess | Pairs right straight after learning | Pairs right about 11 hours later | Pairs lost
 - **schedule:** day 1: Morning: make the cards, then learn the day set and test it straight away. (15 min); day 1: Bedtime: test the day set. Then learn the night set, test it straight away, and go to sleep. (10 min); day 2: Morning: test the night set. Compare the two sets. (7 min)
 - **s1 (8 min)**  
-  *Parent does:* 1. Fold 16 pieces of paper in half. 2. On each one, draw a quick picture on the left half and a different picture on the right half, or write the two words if you prefer. The two lists are in the parent note. 3. Share the work: your child makes as many as they like, and you draw the rest. 4. Keep the two sets of eight cards in separate envelopes.  
+  *Parent does:* 1. Fold 16 pieces of paper in half. 2. On each one, draw a quick picture on the left half and another on the right half, or write two words. The two lists are in the parent note. 3. Share the work: your child makes as many as they like, and you draw the rest. 4. Keep the two sets of eight cards in separate envelopes.  
   *Parent says:* We are making two sets of picture pairs. The pictures in a pair do not belong together. That makes them a real test of memory.  
   *Child mode:* Draw or write one thing on each half of a card. The two things are a pair.
   - Note: Day set: elephant and umbrella, mango and bus, star and shoe, fish and chair, kite and spoon, tree and cup, auto and flower, drum and banana. Night set: cat and clock, boat and key, moon and bucket, parrot and ball, coconut and bell, house and leaf, lamp and frog, egg and ladder. Quick, simple drawings are fine. A pair of things that do not go together, like a mango and a bus, is harder to guess. So the test shows real memory, not good guessing.
@@ -264,7 +264,7 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 - **results table:** What I watched | My guess | How many times I yawned in 3 minutes
 - **s1 (2 min)**  
   *Parent does:* Ask for a guess and a reason.  
-  *Parent says:* I am going to smile at you for 3 minutes, then yawn for 3 minutes. When will you yawn more? Why do you think so?  
+  *Parent says:* I am going to smile at you for 3 minutes, then yawn for 3 minutes. When will you yawn more?  
   *Child mode:* Guess: will you yawn more at the smiles or at the yawns?
   - Ask: Why do you think so? (good: Yawns spread from one person to another.; Smiles make me smile, so yawns make me yawn.; No difference, I yawn when I am tired.)
 - **s2 (4 min)**  
@@ -302,8 +302,8 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
   - Wait: Do this every night for seven nights in all, starting tonight.
 - **s4 (3 min)**  
   *Parent does:* On the seventh night, look at the ticks together.  
-  *Parent says:* Was it easier to fall asleep this week? Which step helped most?  
-  *Child mode:* Was it easier to fall asleep? Which step helped most?
+  *Parent says:* Was it easier to fall asleep this week?  
+  *Child mode:* Look at your ticks. Was it easier to fall asleep this week?
   - Ask: Which step helped most? (good: Lights off, because the dark made me sleepy.; The story, because it calmed me down.; Going to bed at the same time.)
 ### a2 · The Dark Room Hunt: find every light at bedtime (15 min)
 - **record:** A list of every light found and what you did about it, with the count of lights before and after.
@@ -337,7 +337,7 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 ## Projects
 ### p1 · Ask the Family: who sleeps how long? (30 min, 3 days)
 - **record:** A table of names, ages and hours slept, and a chart with a row of beans for each person. Take a photo of it.
-- **schedule:** day 1: Make the table. Ask two or three people at home. (10 min); day 2: Ask two or three more people, in person or on a call. (10 min); day 3: Draw a moon for each hour slept, and compare. (10 min)
+- **schedule:** day 1: Make the table. Ask two or three people at home. (10 min); day 2: Ask two or three more people, in person or on a call. (10 min); day 3: Lay out one bean for each hour slept, and compare. (10 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Draw a table with three columns: name, age, hours slept last night. 2. Fill in the first row for your child. 3. Then your child asks you, and one or two more people at home. If few people live with you, ask a neighbour.  
   *Parent says:* Ask each person two questions. How old are you? What time did you sleep and wake up?  
