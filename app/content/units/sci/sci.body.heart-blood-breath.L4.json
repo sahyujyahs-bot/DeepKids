@@ -448,7 +448,7 @@
     }
    ],
    "safety": "Use a low, firm step with no wobble, and keep a grown-up beside the child. Stop the step-ups at once if the child feels dizzy, has pain in the chest or cannot catch their breath. Any child with a heart or breathing condition should ask the doctor before doing the step-ups.",
-   "record": "Fill the table as you go. At the end, write a claim (what you found), the evidence (the numbers that show it) and the reasoning (why you think it happened). Draw a line graph of the pulse per minute against the minutes after exercise.",
+   "record": "Fill the table as you go. At the end, write a claim (what you found), the evidence (the numbers that show it) and the reasoning (why you think it happened). Draw a line graph of the pulse per minute against the minutes after exercise, or tell your grown-up how the pulse changed.",
    "setup": [
     {
      "art": "A child lying on a mat with a picture book, with a parent kneeling beside her holding a phone stopwatch.",
@@ -473,7 +473,7 @@
      "mins": 3,
      "do": "Show the child the results table. Ask for a guess and a reason for the pulse and for the breathing, before any counting. Write both down.",
      "say": "We will count your pulse and your breaths in different situations. In which situation do you think your pulse will be highest? Why do you think so?",
-     "kid": "We will count your pulse and your breaths. Where will your pulse be highest? Why do you think so?",
+     "kid": "Make a guess before any counting, and say why you think so.",
      "context": "In this step you make a guess and give a reason, before any counting.",
      "ask": [
       {
@@ -512,7 +512,7 @@
      "mins": 6,
      "do": "Ask the child to lie on the mat and look at the picture book for two minutes, quietly. Then say start, and the child counts the pulse for 15 seconds. Straight after, count the child's breaths by watching the belly rise for 15 seconds, without saying so. Write both numbers down.",
      "say": "Lie on the mat and look at the book. Stay quiet for two minutes. Then count your pulse when I say start. Afterwards, I will tell you what else I counted.",
-     "kid": "Lie down and read the book. After two minutes, count your pulse for 15 seconds.",
+     "kid": "Lie down and look at the book. After two minutes, count your pulse for 15 seconds.",
      "context": "In this step you count your pulse and your breaths while lying down.",
      "parent": "Count breaths without telling the child during the count. People change how they breathe when they know it is being counted. Count one rise and fall as one breath. Tell the child afterwards, and talk about why we did it that way.",
      "think": "Why might it be better that the child did not know you were counting their breaths?"
@@ -609,7 +609,7 @@
      "mins": 4,
      "do": "Ask the child to say or write a claim (what they found), the evidence (the numbers that show it) and the reasoning (why they think it happened). Compare with the first guess. Do not give the explanation until the child has said what they think.",
      "say": "What did you find? Which number was highest, and when? What do you think made the heart and the breathing go up together?",
-     "kid": "Tell me what you found. Which numbers went up? What do you think made them go up?",
+     "kid": "Look at your table. Say what you found and why you think it happened.",
      "context": "In this step you write what you think, what you saw, and why.",
      "ask": [
       {
@@ -691,7 +691,7 @@
      "mins": 3,
      "do": "Show the child how a pressed nail goes white. Ask for a guess and a reason for the warm hand, the room-temperature hand and the cold hand. Write them down.",
      "say": "We will press a fingernail and time how fast the pink comes back. In which hand do you think it will come back fastest? Why do you think so?",
-     "kid": "We will press a nail and time the pink coming back. Which hand will be fastest? Why?",
+     "kid": "Make a guess before you test, and say why you think so.",
      "context": "In this step you guess before you test.",
      "ask": [
       {
@@ -757,7 +757,7 @@
      "mins": 4,
      "do": "Ask the child to write a claim (what they found), the evidence (the times that show it) and the reasoning (why they think it happened). Compare with the first guess. Do not explain until the child has said what they think.",
      "say": "What did you find? Which hand was fastest? Where do you think the blood went when your hand was cold?",
-     "kid": "Tell me what you found. Which hand was fastest? Where do you think the blood went?",
+     "kid": "Look at your times. Say what you found and where you think the blood went.",
      "context": "In this step you say what you think, what you saw, and why.",
      "check": {
       "t": "mcq",
@@ -817,7 +817,7 @@
     }
    ],
    "safety": "Use warm water that is not hot. A grown-up grinds the powder in a clean mortar or a mixer jar, because the blades are sharp. Do not drink the sugar water unless the glasses were clean enough to drink from, and keep the sugar away from ants.",
-   "record": "Write the time for each glass. Draw each glass at the end. Say how the size of the pieces changed the time. Say how you decided that a glass was clear, and what you saw at the bottom.",
+   "record": "Write the time for each glass. Take a photo of each glass at the end, or draw it. Say how the size of the pieces changed the time. Say how you decided that a glass was clear, and what you saw at the bottom.",
    "setup": [
     {
      "art": "Three glasses in a row labelled A, B and C, each with 100 millilitres of water.",
@@ -842,7 +842,7 @@
      "mins": 3,
      "do": "Show the three kinds of sugar. Ask the child for a guess and a reason about which will clear first, and which last. Write them down.",
      "say": "We have the same amount of sugar in three forms. Which glass do you think will clear first? Which will be last? Why do you think so?",
-     "kid": "We have the same sugar in three forms. Which glass will clear first? Which will be last? Why?",
+     "kid": "Make a guess before you start, and say why you think so.",
      "context": "In this step you guess, with a reason, before you test.",
      "ask": [
       {
@@ -909,8 +909,8 @@
      "id": "s5",
      "mins": 6,
      "do": "Ask the child to write a claim (what they found), the evidence (the times that show it) and the reasoning (why they think it happened). Then ask how this could link to lungs. Do not explain until the child has said what they think.",
-     "say": "What did you find? Which glass cleared first? Think about how much of the sugar touches the water in each glass. What do you think made the difference?",
-     "kid": "Tell me what you found. Which glass cleared first? Why do you think so?",
+     "say": "What did you find? Which glass cleared first? What do you think made the difference?",
+     "kid": "Look at your times. Say what you found and why you think it happened.",
      "context": "In this step you say what you think, what you saw and why.",
      "check": {
       "t": "mcq",
@@ -974,7 +974,7 @@
      "context": "In this step you find your pulse in four places and compare them.",
      "ask": [
       {
-       "q": "Why might the same number of beats show up in all four places?",
+       "q": "Why might the beat count be about the same at the wrist and at the neck?",
        "good": [
         "It is the same heart.",
         "The blood goes everywhere.",
@@ -1025,8 +1025,8 @@
      "what": "Count the breaths of at least four resting people or pets for 15 seconds each. Multiply by 4. Draw a bar chart."
     }
    ],
-   "record": "Write each name, the count for 15 seconds, and the breaths per minute. Draw a bar chart of breaths per minute for each person or pet.",
-   "context": "In this activity you count the breaths of different resting people and pets in your home and make a bar chart. It shows that breathing rate depends on the size and age of the body.",
+   "record": "Write each name, the count for 15 seconds, and the breaths per minute. Then write who breathes fastest and who slowest.",
+   "context": "In this activity you count the breaths of resting people and pets in your home and put them in order. You find out whether breathing rate depends on the size and age of the body.",
    "setup": [
     {
      "art": "A child watching a sleeping cat's side rise and fall, with a phone stopwatch.",
@@ -1047,16 +1047,16 @@
      "mins": 5,
      "do": "Make a list of the people and pets to be counted. Ask the child to guess who breathes fastest and who breathes slowest. Write the guesses down with the reasons.",
      "say": "Who do you think breathes fastest in our home? Who breathes slowest? Why do you think so?",
-     "kid": "Who breathes fastest in our home? Who slowest? Why?",
+     "kid": "Guess who breathes fastest and who slowest, and say why.",
      "context": "In this step you guess who breathes fastest before counting.",
      "parent": "Children often guess that the biggest person or animal breathes fastest, or the loudest. Let them guess. Do not correct."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Ask the child to watch each resting person or pet for 15 seconds and count the rises of the chest or belly. Write each count down and multiply by 4. Draw a bar for each one in a bar chart.",
-     "say": "Watch a resting person or pet for 15 seconds. Count each time the chest or belly rises. Multiply your number by 4. Then draw a bar.",
-     "kid": "Watch for 15 seconds. Count each rise. Multiply by 4. Draw a bar.",
+     "do": "Ask the child to watch each resting person or pet for 15 seconds and count the rises of the chest or belly. Write each count down and multiply by 4. Draw a bar for each one in a bar chart, or line the names up from slowest to fastest.",
+     "say": "Watch a resting person or pet for 15 seconds. Count each time the chest or belly rises. Multiply your number by 4. Then draw a bar, or line up the names.",
+     "kid": "Watch for 15 seconds. Count each rise. Multiply by 4. Draw a bar, or line the names up from slowest to fastest.",
      "context": "In this step you count the breaths of several resting people and pets and draw a bar chart.",
      "ask": [
       {
@@ -1115,8 +1115,8 @@
      "what": "Crush cereal in warm water, stir with a magnet in a bag for 10 minutes, then look for tiny dark flecks. Repeat with plain puffed rice to compare."
     }
    ],
-   "record": "Draw the magnet bag at the end of each test. Write whether you found flecks in the cereal and in the puffed rice, how many, and what the nutrition label said about iron.",
-   "context": "In this activity you try to pull the iron out of a breakfast cereal with a magnet. Iron is one of the things blood needs to make haemoglobin.",
+   "record": "Take a photo of the magnet bag at the end of each test, or draw it. Write whether you found flecks in the cereal and in the puffed rice, how many, and what the nutrition label said about iron.",
+   "context": "In this activity you try to pull the iron out of a breakfast cereal with a magnet. Haemoglobin is the part of blood that carries oxygen, and iron is one of the things blood needs to make it. You find out whether iron added to cereal can be pulled out with a magnet.",
    "setup": [
     {
      "art": "A bowl of crushed cereal in warm water, with a spoon.",
@@ -1231,7 +1231,7 @@
      "what": "Hold one hand high and one hand low for one minute and compare the colour and the veins. Swap hands and repeat, then time how fast the veins fill."
     }
    ],
-   "record": "Draw the back of each hand after one minute, both times. Write the colour and whether the veins stood out, and how many seconds the veins took to fill after you lowered the raised hand.",
+   "record": "Take a photo of the back of each hand after one minute, both times, or write what you see. Write the colour and whether the veins stood out, and how many seconds the veins took to fill after you lowered the raised hand.",
    "context": "In this activity you hold one hand high and one hand low, and see what gravity does to your blood. It shows how veins and valves lift blood up your body.",
    "setup": [
     {
@@ -1362,7 +1362,7 @@
      "mins": 8,
      "do": "Rest until the pulse is back to the first resting number, about 3 to 5 minutes. Then the child marches on the spot for 20 seconds with no straw, breathing normally. Count the pulse for 15 seconds and the breaths for 15 seconds, and compare how it felt with the straw march.",
      "say": "Rest until you feel normal. Now we march for the same 20 seconds, with no straw. How is it different?",
-     "kid": "Rest, then march for 20 seconds with no straw. Count your pulse. How did it feel different?",
+     "kid": "Rest, then march for 20 seconds with no straw. Count your pulse.",
      "context": "In this step you do the same marching without the straw, so you can compare.",
      "adult": true,
      "parent": "Do the marching without the straw second, so the comparison is fair, and keep the marching time the same. With 2 to 4 children, only one child breathes through a straw at a time while the others watch, count and time, and each child has their own clean straw. The pulse numbers may be similar, because 20 seconds is short, but the effort and the breathing usually feel very different. Say so, and explain that pulse counts are rough.",
@@ -1420,8 +1420,8 @@
      "id": "s1",
      "mins": 20,
      "do": "Ask the child to sit still and rest. Count the resting pulse for 15 seconds three times, one minute apart, to see how much it varies on its own. Read a calm story for two minutes, and then count the pulse for 15 seconds. Rest for two minutes. Read a suspenseful story for two minutes, and count the pulse again in the last 15 seconds. A helper holds the child's wrist and counts, so that the child can just listen.",
-     "say": "Do you think a scary story could change your pulse even if you sit still? Why do you think so? Listen to the calm story first. Count your pulse in the last 15 seconds.",
-     "kid": "Listen to a calm story. Count your pulse. Then listen to an exciting story. Count again.",
+     "say": "Do you think a scary story could change your pulse even if you sit still? Why do you think so? Listen to the calm story first. I will count your pulse in the last 15 seconds.",
+     "kid": "Listen to a calm story while your grown-up counts your pulse. Then listen to an exciting story.",
      "context": "In this activity you test whether an exciting story changes your pulse.",
      "ask": [
       {
@@ -1646,7 +1646,7 @@
      "mins": 6,
      "do": "Play the last eight cards. Add up the scores. Talk about the cards that were hardest.",
      "say": "Last eight cards. Then we count the scores. Which cards surprised you?",
-     "kid": "Play the last eight cards. Add up your score. Which cards surprised you?",
+     "kid": "Play the last eight cards. Add up your score. Which card was hardest?",
      "context": "In this step you finish the game and look back at what surprised you.",
      "check": {
       "t": "mcq",
@@ -1701,7 +1701,7 @@
      "what": "Draw a bar chart of pulse against age. Write what you see. Write one thing you cannot tell from five people."
     }
    ],
-   "record": "Write each person's age and pulse per minute. Draw a bar chart. Write one sentence on the pattern you see and one sentence on what the study cannot tell you.",
+   "record": "Write each person's age and pulse per minute. Draw a bar chart, or line the people up in order of pulse. Write one sentence on the pattern you see and one sentence on what the study cannot tell you.",
    "context": "In this project you measure the resting pulse of at least five people of different ages, and make a bar chart. You find out whether children, parents and grandparents have different pulses.",
    "setup": [
     {
@@ -1723,15 +1723,15 @@
      "mins": 5,
      "do": "Ask the child to guess whether older or younger people have the faster resting pulse, and why. Write the guess. Choose five or more people of different ages.",
      "say": "Do you think older people or younger people have a faster pulse at rest? Why do you think so? Choose five people to count.",
-     "kid": "Who has the faster pulse, old or young people? Why? Choose five people.",
+     "kid": "Guess whether old or young people have the faster pulse, and say why. Choose five people.",
      "context": "In this step you guess and choose the people to count.",
      "parent": "Include a baby or toddler if you can, a child, a parent, and a grandparent. Count all of them at the same time of day, if possible."
     },
     {
      "id": "s2",
      "mins": 25,
-     "do": "Ask each person to sit still for two minutes. Count each pulse for 15 seconds, wait a minute, and count again. Add the two counts and multiply by 2 to get beats per minute. Write the age and the pulse.",
-     "say": "Ask each person to sit quietly for two minutes. Then count their pulse for 15 seconds and multiply by 4.",
+     "do": "Ask each person to sit still for two minutes. Count each pulse for 15 seconds, wait a minute, and count again to check. Multiply the first count by 4 to get beats per minute. Write the age and the pulse.",
+     "say": "Ask each person to sit quietly for two minutes. Count their pulse for 15 seconds. Wait a minute and count again to check. Multiply the first count by 4.",
      "kid": "Ask each person to sit still. Count the pulse for 15 seconds. Multiply by 4.",
      "context": "In this step you measure the resting pulse of each person.",
      "parent": "Usual resting rates are about 100 to 160 for a newborn, 70 to 110 for a school child, and 60 to 100 for an adult. A person who exercises regularly may be below 60. With 2 to 4 children, share the people out, with each child counting their own people while a sibling times. Swap for one person, to check that two counters agree. A person can count their own pulse while the child times. Use the same time of day for all, and do not count anyone who has just run or eaten a big meal.",
@@ -1750,9 +1750,9 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "Draw a bar chart with the ages along the bottom and the pulse per minute going up. Write what you see. Write one thing you cannot tell from only five people.",
-     "say": "Draw a bar for each person. Look at the pattern. Does age change the pulse? What could you not tell from only five people?",
-     "kid": "Draw a bar chart. Write the pattern you see. Write what five people cannot tell you.",
+     "do": "Draw a bar chart with the ages along the bottom and the pulse going up. Or line the people up in order of pulse. Write what you see.",
+     "say": "Draw a bar for each person, or line them up in order of pulse. Look at the pattern. Does age change the pulse?",
+     "kid": "Draw a bar chart, or line the people up in order of pulse. Write the pattern you see.",
      "context": "In this step you draw a bar chart and say what it shows.",
      "ask": [
       {
@@ -1803,7 +1803,7 @@
     "Use a lever with a paper pointer and mark a strip for the highest and lowest points, to see how deep each breath is as well as how many there are."
    ],
    "your_turn": "Make your own breath-meter. Test it on a resting person for one minute, and compare its count with a count made by watching the belly. Which is more accurate, and which is easier to read from across the room?",
-   "context": "This is a design challenge about counting breaths. You build a meter that makes each breath easy to see without the person noticing.",
+   "context": "This is a design challenge about counting breaths. You build a meter that makes each breath easy to see without the person noticing. You find out whether a lever can turn a small belly movement into one big enough to count.",
    "setup": [
     {
      "art": "A person lying on their back with a paper cup on their belly and a straw lever resting on it, with a pencil and clay pivot beside them.",
@@ -1824,7 +1824,7 @@
      "mins": 5,
      "do": "Read the problem together. Ask why counting a breath changes it. Ask the child to suggest ways to see a breath from a distance.",
      "say": "When people know their breaths are being counted, they breathe differently. How could you count breaths without a person noticing?",
-     "kid": "Counting breaths changes breathing. How could you count without anyone noticing?",
+     "kid": "Think of a way to see a breath from across the room.",
      "context": "This is the first step of the Tummy Lever challenge. You think about the problem.",
      "ask": [
       {
@@ -1864,7 +1864,7 @@
        "It is lighter than the belly"
       ],
       "a": 0,
-      "why": "A lever makes a small movement into a large one. The short side moves a little and the long side moves five times as far, so it is easier to see. If you picked another answer, measure how far each end moves with a ruler."
+      "why": "A lever makes a small movement into a large one. The short side moves a little and the long side moves about three times as far, so it is easier to see. If you picked another answer, measure how far each end moves with a ruler."
      }
     }
    ]

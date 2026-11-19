@@ -245,7 +245,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 - **s1 (3 min)**  
   *Parent does:* Cut out the 24 cards and the tokens. Shuffle the cards into a pile. Give each player one set of three tokens.  
   *Parent says:* Each card names something that is in the blood as it reaches a kidney. First ask if it is small enough to pass the filter. If it passes, ask if the body needs it back.  
-  *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take three tokens.
+  *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take three tokens: STOPPED, BACK and OUT.
 - **s2 (7 min)**  
   *Parent does:* Play the first twelve cards. After each card, read the back aloud. Ask the question below after card six.  
   *Parent says:* The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Who scored?  
@@ -296,7 +296,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 - **s2 (5 min)**  
   *Parent does:* Let the tea cool until it is just warm. Stir in 1 level teaspoon of atta. Then ask for the guess and the reason for each of the four things. Write them down.  
   *Parent says:* The mixture now holds four things: tea leaves, flour, brown colour and salt. We will pour it through three filters. Which of the four will the tissue hold back? Why do you think so?  
-  *Child mode:* Stir in the flour. Guess what the tissue will hold back. Say why.
+  *Child mode:* Stir in the flour. Guess which of the four things the tissue will hold back.
   - Ask: Why do you think the tissue will hold that back? (good: The leaves are big.; The tissue has very small holes.; A filter cleans water, so it takes out the salt.)
   - Note: Do not correct the guess. Many children expect the tissue to take out the salt or the colour. The test will answer it.
 - **s3 (4 min)**  
@@ -317,7 +317,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 - **s6 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the note below.  
   *Parent says:* Look at your table. Say what you thought would happen, what you saw, and why it happened. Which things did no filter hold back?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why.
+  *Child mode:* Look at your table. Which things got through every filter?
   - Ask: Why did the salt pass through every filter? (good: It dissolved into particles smaller than the holes.; It is far too small to be caught.)
   - Ask: Your blood holds useful salt and sugar. What happens to them at a filter in your kidney? (good: They pass through with the water.; The kidney must get them back somehow.)
   - Note: The reason: a filter sorts only by size. Leaves are bigger than the strainer's holes. Flour grains are bigger than the tissue's holes. Dissolved salt and tea colour are single particles, thousands of times smaller than any hole in a tissue. The filters in a kidney have much finer holes. They hold back blood cells and large proteins. But salt, sugar and urea pass through together. So filtering alone cannot clean blood. The kidney needs a second step, which is to take back the salt, the sugar and most of the water.
@@ -330,9 +330,9 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 - **results table:** Day | Time of each toilet visit | Colour shade, 1 to 4 | How long the stream lasted, in counts
 - **schedule:** day 1: The ordinary afternoon. Draw the colour chart. Record every toilet visit from 3 o'clock to 6 o'clock. (10 min); day 2: The water afternoon. Drink two tumblers at 3 o'clock. Record every visit until 6 o'clock, then compare the two days. (15 min)
 - **s1 (5 min)**  
-  *Parent does:* Day 1. Draw the colour chart with your child: four boxes from nearly clear to dark yellow. Ask for the guess about tomorrow, and the reason. Write both down.  
+  *Parent does:* Day 1. Make the colour chart with your child: colour four boxes from nearly clear to dark yellow, or pick four yellow things at home to match the shades. Ask for the guess about tomorrow, and the reason. Write both down.  
   *Parent says:* Tomorrow at 3 o'clock you will drink two tumblers of water. How many minutes later will you first need the toilet? Will the urine look different? Why do you think so?  
-  *Child mode:* Draw four shades of yellow. Guess how soon the water comes out. Say why.
+  *Child mode:* Colour four shades of yellow, or pick four yellow things. Guess how many minutes until you need the toilet.
   - Ask: Why do you think it will take that long? (good: The water has to go from the stomach into the blood first.; The kidneys need time to notice.; It goes straight through, so it will be quick.)
   - Note: Do not correct the guess. Many children think water runs straight from the stomach to the bladder.
 - **s2 (5 min)**  
@@ -349,7 +349,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 - **s4 (5 min)**  
   *Parent does:* Day 2, after 6 o'clock. Put the two tables side by side. Ask your child to say what they thought would happen, what they saw, and why it happened. Then read them the note below.  
   *Parent says:* Look at both days. Say what you thought would happen, what you saw, and why it happened. How many minutes passed before the first visit on the water day?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why.
+  *Child mode:* Look at both tables. Which day had paler urine?
   - Ask: The water did not come out at once. Where was it during that time? (good: In the stomach and gut, then in the blood.; The kidneys had to filter it out of the blood.)
   - Ask: Why was the urine paler on the water day? (good: More water left with the same wastes.; The yellow was thinned out.)
   - Note: The reason: water goes from the gut into the blood in a few minutes. The brain senses that the blood is more watery and sends less of the messenger ADH. The tubes in the kidneys then take back less water. The extra water reaches the bladder within about half an hour to an hour. If your child was short of water before the test, less comes out. The body kept what it needed. Vitamin tablets can turn urine bright yellow, and beetroot can turn it pink.
@@ -371,7 +371,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 - **s3 (3 min)**  
   *Parent does:* Your child draws a body outline. They add two kidneys, a ureter from each one and the bladder. They colour the path of urine yellow.  
   *Parent says:* Draw the two kidneys high in the back. Draw a thin tube from each one down to the bladder. Now trace a sip of water from your mouth to your bladder.  
-  *Child mode:* Draw two kidneys, two tubes and a bladder. Colour the path yellow.
+  *Child mode:* Draw two kidneys, two tubes and a bladder. Colour the path yellow. Or point to them on your own body and tell your grown-up.
   - Ask: Which way does a sip of water travel to reach your bladder? (good: Mouth, stomach and gut, then into the blood.; The blood carries it to the kidneys.; From the kidneys down the ureters to the bladder.)
   - Note: There is no tube from the stomach to the bladder. All water reaches the kidneys through the blood.
 ### a2 · Ninety-Nine Back: one litre and two teaspoons (10 min)
@@ -388,8 +388,8 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
   - Note: Two teaspoons are 10 millilitres, which is 1 part in 100 of a litre. The true share is a little under that.
 - **s3 (3 min)**  
   *Parent does:* Hold up the bottle and the tumbler. Talk about the questions below.  
-  *Parent says:* The bottle goes back into the blood. The tumbler leaves the body. Why would the kidneys filter so much, only to take nearly all of it back?  
-  *Child mode:* The bottle goes back to the blood. Why filter so much?
+  *Parent says:* The bottle goes back into the blood. The tumbler leaves the body.  
+  *Child mode:* Point to the part that goes back to the blood. Point to the part that leaves.
   - Ask: Why filter so much and take almost all of it back? (good: Every small waste gets pushed out, even ones the body does not know.; The blood gets cleaned again and again.; The kidney only has to choose what to keep.)
   - Note: The 180 litres are filtered out of only about 3 litres of the watery part of an adult's blood. So that liquid is cleaned about 60 times a day.
   - Check: Of every 100 parts of liquid that the kidneys filter, about how many go back into the blood? → **About 99**
@@ -412,11 +412,11 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 - **s4 (4 min)**  
   *Parent does:* Look at the five scores. Ask your child to say what they thought would happen, what they found, and why. Then read them the note below.  
   *Parent says:* Look at the five scores. Say what you thought would happen, what you saw, and why it happened. The mouth was clean. So where was the smell coming from?  
-  *Child mode:* Say what you thought would happen. Say what you found. Say why.
+  *Child mode:* Look at the scores. Did brushing take the smell away?
   - Ask: The mouth was brushed clean. Where could the smell be coming from? (good: From deeper inside, such as the lungs.; The garlic went into the blood.; The blood carried it to the lungs.)
   - Note: In most people the smell is weaker after brushing but still clear, and it lasts for hours. The reason: one smelly chemical from garlic passes from the gut into the blood. The body breaks it down slowly. Until then it leaves through the lungs with each breath, and a little leaves through the skin. In 1999 Fabrizis Suarez and his team in the United States measured this in people's breath.
 ### a4 · What Sweat Leaves Behind: the salt plate (12 min)
-- **record:** Draw the two plates after they have dried. Write what was left on each. Write what your own sweat tasted like.
+- **record:** Take a photo of the two dry plates, or draw them. Write what was left on each. Write what your own sweat tasted like.
 - **s1 (4 min)**  
   *Parent does:* Dissolve a quarter teaspoon of salt in 2 tablespoons of drinking water. Spread 1 teaspoon of it thinly on one plate. Spread 1 teaspoon of plain drinking water on the other plate. Put both under a fan or in the sun.  
   *Parent says:* This salty water is our pretend sweat. It is much saltier than real sweat, so that we can see the result. What will be on each plate when the water has dried? Why?  
@@ -443,7 +443,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 - **s1 (15 min)**  
   *Parent does:* Day 1. Collect six packets. On each one, find the nutrition table and the line for sodium. Write the milligrams of sodium in 100 grams. Put the six packets in a row, from least sodium to most.  
   *Parent says:* Salt is made of sodium and chlorine. Labels count the sodium. Before we read them, guess which packet has the most. Then let us find out.  
-  *Child mode:* Find 'sodium' on six packets. Write the numbers. Line the packets up.
+  *Child mode:* Guess which packet has the most sodium. Then find 'sodium' on six packets, write the numbers and line the packets up.
   - Ask: Which packet surprised you? (good: The biscuits are sweet but have salt too.; The noodles had the most.; The pickle is far above the rest.)
   - Note: Indian labels give sodium in milligrams for each 100 grams. Sweet biscuits and bread often surprise children. If you have fewer than six packets, use what you have.
 - **s2 (15 min)**  
@@ -457,7 +457,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 ## Challenges
 ### c1 · Fast and Fine: a filter that is quick and still clears the water (25 min)
 - **problem:** A tissue filter makes cloudy flour water clear, but it is slow. A tea strainer is fast, but the water stays cloudy. Your kidneys must filter finely and fast at the same time. Build a filter set-up that clears one tumbler of flour water. It must take less than half the time of a single tissue filter.
-- **your turn:** Now design your own set-up. Draw it first. Time it with one tumbler of flour water, and do the spoon check. Write your time beside the time of the single tissue filter.
+- **your turn:** Now design your own set-up. Show it first, by drawing it or laying out the things. Time it with one tumbler of flour water, and do the spoon check. Write your time beside the time of the single tissue filter.
 - **constraints:** Use only things from home.; Do not squeeze or press the tissue. A squeezed tissue tears.; The filtered water must pass the spoon check: a spoon at the bottom of the bowl can be seen.; All of the tumbler must be filtered, not just the first few spoonfuls.; Time every try with a clock.
 - **general:** Use a bigger filter. Line a colander or a large sieve with tissue, so that more tissue is at work.; Use several filters at once. Set up three tissue-lined strainers over three bowls and share the water among them.; Filter in two stages. Pour through a cloth first to catch the big grains, so that the tissue does not clog.
 - **creative:** Let the flour water stand for five minutes. Pour off the clearer top part and filter only that.; Fold the tissue into pleats like a paper fan, so that more tissue fits in one strainer.; Make many small filters from tissue held over tumblers with rubber bands, and pour a little into each.
@@ -468,17 +468,17 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
   - Ask: Why does the dripping slow down? (good: Flour blocks the holes in the tissue.; A layer of flour builds up on the tissue.)
   - Note: One tissue-lined strainer often takes 5 to 10 minutes for a tumbler. If it clogs completely, stop at 10 minutes and write 'more than 10'.
 - **s2 (5 min)**  
-  *Parent does:* Read the problem together. Your child lists ideas for a faster set-up, then chooses one and draws it.  
+  *Parent does:* Read the problem together. Your child lists ideas for a faster set-up, then chooses one and shows it. They can draw it or lay out the real things on the table.  
   *Parent says:* The filter must stay just as fine, so the holes cannot be bigger. What else could you change? List every idea, then choose one.  
-  *Child mode:* Think of ways to go faster. Keep the holes small. Draw your best idea.
+  *Child mode:* Think of ways to go faster. Keep the holes small. Show your best idea. Draw it, or lay out the things.
 - **s3 (8 min)**  
   *Parent does:* Your child builds the set-up. Stir a new tumbler of flour water. Start the clock, pour, and stop the clock when all of it is through. Do the spoon check.  
-  *Parent says:* Build it and test it with a new tumbler of flour water. Was it faster than half the first time? Does it pass the spoon check?  
+  *Parent says:* Build it and test it with a new tumbler of flour water. Was it faster than half the first time? Lower a clean spoon to the bottom. Can you still see it? Then it passes the spoon check.  
   *Child mode:* Build your set-up. Time it. Do the spoon check.
 - **s4 (5 min)**  
   *Parent does:* Compare the two times. Change one thing and try again if there is time. Then talk about the question below.  
   *Parent says:* Which change saved the most time? Each of your kidneys has about a million tiny filters. Why is that better than one big filter?  
-  *Child mode:* Compare the times. Why does a kidney have a million small filters?
+  *Child mode:* Compare the two times. Which change saved the most time?
   - Ask: Why is a million tiny filters better than one big one? (good: Many filters working together are fast.; Each one can stay very fine.; If some are blocked, the others still work.)
   - Note: Praise a clear account of what slowed the filter as much as a fast time. Pressing harder is not the answer in the body either. High blood pressure over many years damages the kidney's filters.
 

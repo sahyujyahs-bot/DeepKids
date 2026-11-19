@@ -272,7 +272,7 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
   *Child mode:* Play eight more cards. Look for the one feature that matters.
 - **s4 (3 min)**  
   *Parent does:* Count the points. Then spread out all 16 cards with the backs up. Ask your child to find three cards where a dummy beat the real thing.  
-  *Parent says:* Find three cards where the animal chose a dummy over the real thing. What did each dummy have more of?  
+  *Parent says:* Find three cards where the animal chose a dummy, a fake, over the real thing. What did each dummy have more of?  
   *Child mode:* Find three cards where a dummy won. What did the dummy have more of?
   - Check: A gull chick pecks more at a striped red stick than at a model of a real beak. Why? → **The stick has more of the feature that sets off pecking**
 ### g2 · Crack the Trigger: the dummy game (15 min)
@@ -306,7 +306,7 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* Sit your child on a chair at a table. Find their pulse with two fingers on the inside of the wrist, below the thumb. Explain the three tests. Ask for the guess and the reason, and write both down.  
   *Parent says:* You will hold your breath three ways: with nothing wet, with a hand in cold water and with your face in cold water. Will your heart beat faster, slower or the same each time? Why do you think so?  
-  *Child mode:* You will hold your breath three ways. What will your heart do? Why?
+  *Child mode:* Make a guess about your heartbeat in each test.
   - Ask: Why do you think your heart will do that? (good: Cold is a shock, so my heart will race.; Holding my breath is hard work.; My body might save air.; Seals slow down when they dive.)
   - Note: Do not correct the guess. Many children expect the heart to race. If the wrist pulse is hard to find, press gently on the side of the neck, beside the windpipe. Practise one 15-second count before you go on.
 - **s2 (4 min) · grown-up needed**  
@@ -357,7 +357,7 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
 - **s2 (4 min)**  
   *Parent does:* On C and D, draw eyes 1 centimetre wide. On C, put the eyes 2 centimetres below the top of the circle. Put the nose 2 centimetres lower, and the mouth near the bottom. On D, put the eyes 4 and a half centimetres below the top. Put the nose and mouth close under the eyes.  
   *Parent says:* These two faces have the same eyes. On C the eyes sit high. On D they sit low, and there is a big forehead above them. Which will get more votes, and why?  
-  *Child mode:* Draw face C with high eyes. Draw face D with low eyes. Guess again.
+  *Child mode:* Draw face C with high eyes. Draw face D with low eyes. Which one will get more votes?
 - **s3 (8 min)**  
   *Parent does:* Ask at least 8 voters, one at a time. Hold up cards A and B and ask the question. Record the vote. Then hold up C and D and ask again. Swap the left and right cards for each new voter.  
   *Parent says:* Here are two faces. Which face is cuter? Please point to one.  
@@ -406,7 +406,7 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
 - **s3 (3 min)**  
   *Parent does:* Compare the two counts. Talk about the questions below. After your child has answered, read them the note.  
   *Parent says:* Why was it so hard to swallow with nothing in your mouth? What does a swallow need before it will start?  
-  *Child mode:* Which count was bigger? What does a swallow need to start?
+  *Child mode:* Compare your two counts. Which one was bigger?
   - Ask: What is the trigger for a swallow? (good: Something touching the back of the mouth.; Water or food or saliva to swallow.; Without anything there, it will not start.)
   - Note: The trigger for a swallow is food, water or saliva touching the back of the mouth. With no water, the saliva soon runs out and the trigger is missing. Once a swallow starts, more than 20 muscles work in a set order, and the order cannot be stopped halfway. A goose rolling an egg shows the same two features: a trigger, and a pattern that runs to the end.
   - Check: Which two things are true of a fixed action pattern, such as a swallow? → **It needs a trigger and runs to the end**
@@ -420,7 +420,7 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
 - **s2 (8 min)**  
   *Parent does:* Your child draws a line along the bottom of the page and marks the eight age groups, 2 squares apart. They draw a line up the side and mark 0 to 10, one square each. They put a dot for each group and join the dots with a ruler.  
   *Parent says:* Put the ages along the bottom and the number of ducklings up the side. One dot for each age group. Then join the dots.  
-  *Child mode:* Draw the two lines. Put one dot for each age. Join the dots.
+  *Child mode:* Draw the two lines. Put one dot for each age. Join the dots. Or build the graph with stacks of coins, one stack for each age.
   - Note: The numbers in order are 3, 4, 6, 9, 6, 4, 2 and 0. The line should climb to a peak at 13 to 16 hours and then fall to zero.
 - **s3 (4 min)**  
   *Parent does:* Your child shades the part of the graph where 6 or more ducklings imprinted. Talk about the questions below.  
@@ -456,14 +456,14 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
 ## Challenges
 ### c1 · The Crane Puppet: feed a chick who must never see a human (25 min)
 - **problem:** Keepers who raise crane chicks for release into the wild have a problem. A chick who sees humans in her first days may imprint on humans, and never join other cranes. So the keepers wear a plain costume and feed the chick with a hand puppet shaped like a crane's head. Your problem is the same. Build a crane-head puppet. Use the puppet to move 10 groundnuts from the table into a cup. A helper plays the chick and watches for any sign of a human.
-- **your turn:** Now design your own puppet. A sarus crane has a grey body and a bare red head and upper neck. Decide which features a crane chick most needs to see. Draw your design, build it and test it with 10 groundnuts in two minutes. Write how many reached the cup and how many times the chick spotted a human.
+- **your turn:** Now design your own puppet. A sarus crane has a grey body and a bare red head and upper neck. Decide which features a crane chick most needs to see. Plan your design by drawing it or telling a grown-up. Then build it and test it with 10 groundnuts in two minutes. Write how many reached the cup and how many times the chick spotted a human.
 - **constraints:** Use only things you have at home.; The puppet must cover your hand and your arm up to the elbow.; The chick must not see your skin or your face, or hear your voice.; Move 10 groundnuts into the cup in two minutes.; Each time the chick spots a human, you lose one groundnut from the cup.
 - **general:** Pull the sock over your hand. Your thumb is the lower beak and your fingers are the upper beak.; Tape two long cardboard triangles to the sock as a beak.; Hold a clothes peg inside the tip of the sock, so that the beak can grip.
 - **creative:** Hold kitchen tongs inside the sock, to make a long beak like a real crane's.; Hang a bedsheet over a table and push the puppet through a gap, so that only the crane shows.; Play a recording of crane calls from a phone hidden under the sheet. Real keepers play crane calls to their chicks.
 - **s1 (4 min)**  
   *Parent does:* Read the problem together. Ask what the chick must never see or hear. Ask which features of a crane the puppet needs most.  
   *Parent says:* A crane chick imprints in her first days. What must she never see or hear? What should she see when she is fed?  
-  *Child mode:* The chick must imprint on a crane. What must she never see?
+  *Child mode:* Talk about what the chick must never see or hear.
   - Ask: Which features of a parent crane might matter most to a chick? (good: A long beak.; The red head.; Movement near the food.; The call.)
 - **s2 (10 min)**  
   *Parent does:* Your child chooses a design and builds the puppet. Check that it covers the arm up to the elbow and that the beak can pick up one groundnut.  
@@ -476,7 +476,7 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
   *Child mode:* Move ten groundnuts with the puppet. Stay hidden and silent.
 - **s4 (5 min)**  
   *Parent does:* Count the groundnuts in the cup and take one out for each 'human'. Your child changes one thing and tests again. Then talk about the question below.  
-  *Parent says:* What gave you away? Change one thing and try again. Why do keepers go to so much trouble for one chick?  
+  *Parent says:* What gave you away? Change one thing and try again.  
   *Child mode:* What gave you away? Change one thing. Test again.
   - Ask: What might happen to a crane who imprinted on humans? (good: She would walk up to people and could get hurt.; She might not join other cranes.; She might not choose a crane as a mate.)
   - Note: Praise a clear account of what went wrong as much as a full cup. Keepers of whooping cranes in North America have used costumes and puppets like this for many years.

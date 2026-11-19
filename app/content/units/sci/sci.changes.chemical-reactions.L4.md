@@ -251,9 +251,9 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
   - Note: A child playing alone sorts all 24 cards against a timer, and then tries to beat that time.
 - **s4 (3 min)**  
   *Parent does:* Count the families. Then look at the eight product cards together and ask the question below.  
-  *Parent says:* Look at the eight products. Is any product simply a mixture that looks like both of its reactants?  
-  *Child mode:* Count your families. Does any product look like its reactants?
-  - Check: Sodium burns in water and chlorine is a poisonous gas. What do they make together? → **Table salt, which is safe to eat**
+  *Parent says:* Look at the eight products. Does any product look like the reactants that made it?  
+  *Child mode:* Count your families. Then look at the eight product cards.
+  - Check: Sodium is a metal that reacts fiercely with water. Chlorine is a poisonous gas. What do they make together? → **Table salt, which is safe to eat**
 
 ## Experiments
 ### e1 · After the Fizz: is the baking soda still there? (35 min)
@@ -266,7 +266,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
 - **s1 (4 min)**  
   *Parent does:* Show your child the baking soda, the water and the vinegar. Explain what you will do. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will stir baking soda into water, and the same amount into vinegar. Then we will dry both liquids. What will be left in each pan? Will each leftover still fizz in vinegar? Why do you think so?  
-  *Child mode:* One heap goes in water. One goes in vinegar. What will be left after drying? Why?
+  *Child mode:* Guess what will be left in each pan after drying.
   - Ask: Why do you think that? (good: The powder is still in the water, so it will come back.; The fizz used the powder up, so nothing will be left.; Something will be left, but I do not know what.)
   - Note: Do not correct the guess. Many children expect baking soda to come back from both, and some expect an empty pan after the fizz.
 - **s2 (5 min)**  
@@ -298,7 +298,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
   - Check: A white crust does not fizz when vinegar is dropped on it. What does that tell you? → **It is not baking soda**
 - **s7 (5 min)**  
   *Parent does:* Look at the results table together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Where is the baking soda that went into the vinegar?  
+  *Parent says:* Look at the table together. Where is the baking soda that went into the vinegar?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Baking soda came back from the water. Why did it not come back from the vinegar? (good: It reacted with the vinegar and became something new.; The fizz used it up.; It turned into the gas and the new crust.)
   - Ask: Both crusts are white. How did you tell them apart? (good: By what they did with vinegar.; One fizzed and one did not.)
@@ -308,7 +308,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
 - **question:** Wet steel wool is left to rust inside an upturned glass that stands in water. Does the water climb into the glass? If it does, how far does it climb before it stops?
 - **predict:** Before you start, guess. Will the water inside the glass with steel wool go up, go down or stay where it is? How far will it move in three days? Why do you think so?
 - **fair test:** Use two glass tumblers of the same size and shape. Push a wad of wet steel wool into the bottom of one glass. Push a wad of wet tissue paper of the same size into the other. Stand both upside down in the same depth of water, side by side, away from sunlight. Mark both water levels at the start, and measure both at the same time each day. Only one thing differs: one glass has iron in it.
-- **record:** Fill in one row of the results table each day. On day 3, draw the glass with steel wool and mark the starting level and the last level.
+- **record:** Fill in one row of the results table each day. On day 3, draw the glass with steel wool and mark the starting level and the last level, or take a photo of each glass.
 - **results table:** Day | Glass with steel wool: how many centimetres the water has climbed | Glass with wet tissue: how many centimetres the water has climbed | What the steel wool looks like
 - **schedule:** day 1: Guess. Set up the two upturned glasses and mark the water levels. (15 min); day 2: Measure how far the water has climbed in each glass. Look at the steel wool. (5 min); day 3: Measure again. Work out what share of the air was used. Explain the result. (10 min)
 - **s1 (4 min)**  
@@ -342,7 +342,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
   - Wait: Do this two days after setting up
 - **s6 (5 min)**  
   *Parent does:* Look at the results table together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Why did the water stop climbing, when there is still steel wool left?  
+  *Parent says:* Look at the table together. Why did the water stop climbing, when there is still steel wool left?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: What took up the space that the water moved into? (good: Air that got used up.; The part of the air that joined the iron.; Oxygen.)
   - Ask: Why did the water in the tissue glass stay where it was? (good: There was no iron to rust.; Nothing used up the air in that glass.)
@@ -360,7 +360,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
   *Parent does:* Mix 1: 1 teaspoon of baking soda and 2 teaspoons of lime juice. Mix 2: 1 teaspoon of salt stirred into 4 tablespoons of water. Mix 3: 1 teaspoon of baking soda stirred into 4 tablespoons of water. Before each mix, ask for a guess. After each, record the sign.  
   *Parent says:* Before each mix, tell me what you think will happen. Then mix, watch for a minute, and tell me which sign you saw, if any.  
   *Child mode:* Make mixes 1, 2 and 3. Guess first. Which signs do you see?
-  - Ask: The salt has disappeared. Is that one of the five signs? (good: No, disappearing is not on the list.; No. The salt is still there, because the water would taste salty.)
+  - Ask: The salt has disappeared into the water. Is that one of the five signs of a reaction? (good: No, disappearing is not on the list.; No. The salt is still there, because the water would taste salty.)
   - Note: Mix 1 fizzes at once. Mixes 2 and 3 show no sign: the powders only dissolve. A little baking soda may stay at the bottom of mix 3.
 - **s3 (6 min)**  
   *Parent does:* Mix 4: 4 tablespoons of black tea and 2 teaspoons of lime juice. Mix 5: 4 tablespoons of black tea and 2 teaspoons of water. Mix 6: 4 tablespoons of warm milk and 2 teaspoons of lime juice. Hold cups 4 and 5 side by side against white paper.  
@@ -395,11 +395,11 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
 - **s4 (3 min)**  
   *Parent does:* Count the ticks. Ask your child what they found, and where the coolness came from. Then explain, using the note below.  
   *Parent says:* How many times out of four did you pick the fizz tumbler? Nobody added ice. So why is it cooler?  
-  *Child mode:* Count your ticks. Nobody added ice. Why is one tumbler cooler?
+  *Child mode:* Count your ticks. Then tell your grown-up why you think the fizz tumbler was cooler.
   - Ask: Which of the five signs of a reaction did you just feel? (good: The mix got cooler by itself.; A change in warmth.)
   - Note: The reaction of vinegar and baking soda takes in heat. It takes the heat from the liquid and the tumbler, so they cool down. Burning does the opposite and gives heat out. If both tumblers felt the same every time, say so plainly. The difference is small and some hands miss it.
 ### a3 · Atom Swap: make water and rust without losing an atom (15 min)
-- **record:** For each reaction, write the number of each kind of atom before and after. Draw the groups you made.
+- **record:** For each reaction, write the number of each kind of atom before and after. Take a photo of the groups you made, or draw them.
 - **s1 (4 min)**  
   *Parent does:* On the 'Before' side, make two pairs of pale seeds and one pair of rajma. Explain that each pair is a molecule. Your child counts the atoms of each kind and writes the numbers.  
   *Parent says:* A pale seed is a hydrogen atom. A rajma is an oxygen atom. Hydrogen gas is made of pairs, and so is oxygen gas. How many atoms of each kind are on the table?  
@@ -441,7 +441,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
 - **s3 (5 min)**  
   *Parent does:* Draw a simple plan of your home. Mark an orange dot wherever you found rust. Talk about the question below.  
   *Parent says:* Where are most of the dots? Which rooms are the wettest? If you could protect one thing better, which would it be, and how?  
-  *Child mode:* Draw your home. Mark the rust with orange dots. Where are most dots?
+  *Child mode:* Draw a plan of your home, or just list the rooms. Mark the rust with orange dots, or count the rusty things in each room. Where is the most rust?
   - Note: Most homes find the dots at balconies, bathrooms and near the sink. In towns by the sea there are usually more, because salt speeds up rusting.
 
 ## Challenges
@@ -455,7 +455,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
   *Parent does:* Read the problem together. Do a first test over the tray: 2 tablespoons of vinegar in the bag, a quarter teaspoon of baking soda in a tissue packet. Drop it in, seal, shake once and watch for 30 seconds.  
   *Parent says:* This first recipe is small on purpose. Watch what the bag does in thirty seconds. Is it firm, or limp?  
   *Child mode:* Try the small recipe first. Seal the bag. Watch for 30 seconds.
-  - Ask: The bag is limp. Which reactant would you add more of, and why? (good: More baking soda, because it all got used up.; Both, because more reactants make more gas.)
+  - Ask: The bag is limp. Would you add more vinegar or more baking soda? Why? (good: More baking soda, because it all got used up.; Both, because more reactants make more gas.)
   - Note: This small recipe leaves the bag only about a third full. Make sure the zip is fully closed. A leaking zip is the usual reason for a bag that never fills.
 - **s2 (8 min)**  
   *Parent does:* Your child chooses a new recipe and writes it down before testing. Rinse the bag, or take a fresh one, and test it. Record: limp, firm or popped.  
@@ -465,12 +465,12 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
 - **s3 (7 min)**  
   *Parent does:* Test once more to improve the result. Then double only the baking soda and keep the vinegar the same. See whether the bag gets any fuller.  
   *Parent says:* Now double the baking soda, and keep the vinegar the same. Before you test, will the bag be twice as full? Why?  
-  *Child mode:* Double only the baking soda. Will the bag get twice as full?
+  *Child mode:* Double only the baking soda. Guess first, then test.
   - Ask: The bag did not get fuller, and white powder was left. Why? (good: The vinegar ran out.; There was not enough vinegar for the extra baking soda.)
   - Note: When the vinegar runs out, extra baking soda makes no extra gas. In the Atom Swap activity, coins were left over when the rajma ran out. This is the same idea.
 - **s4 (5 min)**  
   *Parent does:* Your child writes the best recipe on a card. Talk about the question below.  
-  *Parent says:* Write your best recipe so that a stranger could follow it. An airbag must fill to exactly the right size. How do you think its makers decide how much reactant to put in?  
+  *Parent says:* An airbag must fill to exactly the right size. How do you think its makers decide how much of each chemical to put in?  
   *Child mode:* Write your best recipe on a card. Could a stranger follow it?
   - Note: Praise a clear record of what failed as much as a firm bag. Rinse the bags and the sink with plenty of water afterwards.
 

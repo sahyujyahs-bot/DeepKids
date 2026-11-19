@@ -239,7 +239,7 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 - **s2 (7 min)**  
   *Parent does:* Deal five cards each and play. With one child, the parent is the second player. Let your child read each new card aloud.  
   *Parent says:* Ask me for a plan you already hold. If I have any animals with that plan, I must give them all to you.  
-  *Child mode:* Ask for a plan you hold. Collect all five of a family.
+  *Child mode:* Ask for a plan. Collect all five animals of one family.
   - Ask: How did you decide which family a card belongs to? (good: I looked for a head end.; I asked whether the parts go round a middle.; I looked for parts that repeat in a row.)
   - Note: A useful question for a stuck child is: does this animal have a front end? If not, the card belongs to the rings.
 - **s3 (7 min)**  
@@ -258,7 +258,7 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 - **s1 (3 min)**  
   *Parent does:* Draw the grid and make the two dough animals. Read the rules together. Ask for a guess before the first roll.  
   *Parent says:* One animal is round, with arms on every side. The other has a head and one mouth. Which will eat more when food drifts in from all sides? Why do you think so?  
-  *Child mode:* Draw the grid. Make two dough animals. Which will eat more? Why?
+  *Child mode:* Draw the grid. Make two dough animals. Say which one you think will eat more.
 - **s2 (5 min)**  
   *Parent does:* Play the drifting sea. Play 12 turns with the ring animal, then 12 turns with the front animal. Write both scores.  
   *Parent says:* Roll the die. Which side did the food come from? Did your animal catch the food? For the front animal, choose which way to face next.  
@@ -280,12 +280,12 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 - **question:** A roller is made of a pencil with a ball of dough on each end. Does it roll straight when the two balls match? What happens when one ball is smaller than the other?
 - **predict:** Before you start, guess. Which roller will go straightest? Will a lopsided roller turn towards the big ball or towards the small ball? Why do you think so?
 - **fair test:** Use the same dough and pencils of the same length for all three rollers. Push each pencil about 1 centimetre into each ball. Start every roll from the same line on the same ramp, and let go without pushing. Keep the small ball on the right for the main rolls. Roll each roller 5 times, because one roll can be a fluke. Only one thing changes: how well the two balls match.
-- **record:** Draw a table with three rows: matched roller, a little lopsided, very lopsided. For each roll, write how far from the line the roller stopped, and on which side. If the roller went right round, write 'circle'.
+- **record:** Make a table with three rows: matched roller, a little lopsided, very lopsided. For each roll, write how far from the line the roller stopped, and on which side. If the roller went right round, write 'circle'.
 - **results table:** Roller | Roll 1 to roll 5: how many centimetres from the line, and on which side | What the path looked like
 - **s1 (3 min)**  
   *Parent does:* Show your child a pencil and two lumps of dough, one large and one small. Ask for the guess and the reason, and write both down.  
-  *Parent says:* We will put a ball of dough on each end of a pencil and let it roll. Which roller will go straightest? Will a lopsided one turn towards the big ball or the small ball? Why do you think so?  
-  *Child mode:* Guess which roller goes straightest. Which way will a lopsided roller turn? Why?
+  *Parent says:* We will put a ball of dough on each end of a pencil and let it roll. Which roller will go straightest? Will a lopsided one turn towards the big ball or the small ball?  
+  *Child mode:* Say your guess for each roller. Then say why you think so.
   - Ask: Why do you think it will turn that way? (good: The big ball is heavier.; The big ball goes further each time it turns.; The small ball is slower.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Many children expect the roller to turn towards the big ball.
 - **s2 (8 min)**  
@@ -296,7 +296,7 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 - **s3 (3 min)**  
   *Parent does:* Rest one end of the tray on the thin book. Draw a chalk line on the floor, straight out from the middle of the low end, about 1 metre long. Mark a start line across the top of the ramp.  
   *Parent says:* This line shows where a roller would go if it rolled perfectly straight. We will start every roll from the same place.  
-  *Child mode:* Make the ramp. Draw a straight line on the floor from the ramp.
+  *Child mode:* Make the ramp. Chalk a straight line on the floor from the ramp.
   - Note: A line between two rows of floor tiles can be the straight line. If the rollers stop too soon, raise the ramp on a second book.
 - **s4 (4 min)**  
   *Parent does:* Hold the matched roller across the start line, with its middle over the chalk line. Let go. Where it stops, measure from its middle to the chalk line. Write the distance and the side. Do this 5 times.  
@@ -316,7 +316,7 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
   - Note: With the small ball on the left, the roller curves left. That shows the curve comes from the roller and not from the floor. Once the balls match, the roller goes nearly straight again.
 - **s7 (4 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Look at your results. Say what you thought would happen, what you saw, and why it happened. Then tell me: why might a fish need two matching sides?  
+  *Parent says:* Look at your results. Then tell me: why might a fish need two matching sides?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Why did the lopsided roller curve? (good: The big ball goes further in one turn.; One side moved faster than the other.; The two sides were not equal.)
   - Ask: What would happen to a fish whose left fins pushed harder than her right fins? (good: She would swim in a curve.; She would keep turning to the right.; She would have to keep correcting her path.)
@@ -326,21 +326,21 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 - **question:** A snail's shell must get bigger as the snail grows. If the shell grew as a straight cone, would a taller cone fall over more easily? Does the same amount of shell stay on better when it is coiled?
 - **predict:** Before you start, guess. Three dough cones are 6, 9 and 12 centimetres tall. Which will fall over first when the board is tilted? Will a coil made from the same dough as the tallest cone fall sooner or later? Why do you think so?
 - **fair test:** Make every cone 3 centimetres wide at the base, and press each base flat. Stand each cone at the same spot on the same board. Lift the same end of the board slowly each time, about one finger-width each second. Measure the height of the lifted end at the moment the cone falls. Test each shape 3 times. For the coil, use exactly the dough of the 12 centimetre cone. Only the shape changes.
-- **record:** Draw a table with four rows: the 6 centimetre cone, the 9 centimetre cone, the 12 centimetre cone and the coil. Write the height of the lifted end for each of the three tries. If a shape did not fall, write 'did not fall' and the height you reached.
+- **record:** Make a table with four rows: the 6 centimetre cone, the 9 centimetre cone, the 12 centimetre cone and the coil. Write the height of the lifted end for each of the three tries. If a shape did not fall, write 'did not fall' and the height you reached.
 - **results table:** Shape | Height of the lifted end when the shape fell: try 1, try 2 and try 3 | The middle value of the three tries
 - **s1 (3 min)**  
   *Parent does:* Show your child a snail shell or a picture of one, and a lump of dough. Ask for the guess and the reason, and write both down.  
-  *Parent says:* A snail's shell is a long cone that is wound into a coil. We will test straight cones and a coil on a tilted board. Which will fall first? Why do you think so?  
-  *Child mode:* Guess which dough shell will fall first on a tilted board. Why?
+  *Parent says:* A snail's shell is a long cone that is wound into a coil. We will test straight cones and a coil on a tilted board. Which will fall first?  
+  *Child mode:* Say which dough shell you think will fall first, and why.
 - **s2 (5 min)**  
   *Parent does:* Make three dough cones, 6, 9 and 12 centimetres tall. Make each base 3 centimetres wide. Press each base on the table so that it is flat and the cone stands upright.  
   *Parent says:* Shape each cone like a carrot standing on its thick end. Check the height and the base with the ruler.  
   *Child mode:* Make three dough cones: 6, 9 and 12 centimetres tall. Flatten each base.
   - Note: If the tallest cone bends over, the dough is too soft. Knead in more dry atta and shape it again.
 - **s3 (6 min)**  
-  *Parent does:* Stand the 6 centimetre cone in the middle of the board. Your child lifts one end slowly. You hold the ruler upright at that end. Read the height when the cone falls. Do this 3 times. Then test the 9 centimetre cone and the 12 centimetre cone in the same way.  
+  *Parent does:* Stand the 6 centimetre cone in the middle of the board. Your child lifts one end slowly. You hold the ruler upright at that end. Read the height when the cone falls and write it down. Do this 3 times. Then test the 9 centimetre cone and the 12 centimetre cone in the same way.  
   *Parent says:* Lift slowly, about one finger-width each second. Stop the moment the cone tips. I will read the height.  
-  *Child mode:* Lift one end of the board slowly. Stop when the cone falls. Write the height.
+  *Child mode:* Lift one end of the board slowly. Stop when the cone falls.
   - Note: If a cone slides before it falls, lay a sheet of paper on the board and try again. The shortest cone needs the steepest tilt.
 - **s4 (4 min)**  
   *Parent does:* Take the 12 centimetre cone. Roll it into a long thin cone about 25 centimetres long. Wind it into a flat coil, with the thin tip in the middle. Lay the coil flat on the board and tilt the board 3 times.  
@@ -349,12 +349,12 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
   - Note: The coil usually stays in place until the board is very steep, and then it slides. Write 'did not fall' and the height you reached.
   - Check: In Tall Cone or Coil, the coil was made from the dough of the tallest cone. Why? → **So that only the shape was different**
 - **s5 (3 min)**  
-  *Parent does:* For each shape, circle the middle value of the three tries. Put the four shapes in order, from the one that fell first to the one that fell last.  
-  *Parent says:* Which shape fell at the lowest tilt? Which stayed on longest? What happened as the cones got taller?  
-  *Child mode:* Circle the middle value for each shape. Which shape fell first?
+  *Parent does:* For each shape, look at the three heights and circle the middle one. Put the four shapes in order, from the one that fell first to the one that fell last.  
+  *Parent says:* Which shape fell at the lowest tilt? Which stayed on longest?  
+  *Child mode:* Circle the middle height for each shape.
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Then tell me: what would a straight shell be like for a big, old snail?  
+  *Parent says:* Look at your table. Then tell me: what would a straight shell be like for a big, old snail?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Why does a taller cone fall over at a smaller tilt? (good: More of it is high up.; It leans past its base sooner.; The base is the same but the cone is taller.)
   - Ask: Why does the coil stay on? (good: It is low and wide.; All the dough is close to the board.)
@@ -377,11 +377,11 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 - **s3 (3 min)**  
   *Parent does:* Stand the tumbler upside down. Explain that a jellyfish is shaped like this, with the mouth under the middle and tentacles round the rim. Check the three pairs on the tumbler.  
   *Parent says:* This tumbler stands for a jellyfish. Does the top match the bottom? Turn it slowly. Can you find a front, a back, a left or a right?  
-  *Child mode:* Turn a tumbler upside down. Does it have a front? Does it have a left side?
+  *Child mode:* Turn the tumbler slowly. Look for a front and a left side.
   - Note: The tumbler has a top and a bottom, but it is the same all the way round. That is radial symmetry. Every animal your child checked had only one matching pair, left and right. That is bilateral symmetry.
   - Check: A crow has a front and a back. Which pair of a crow's sides match each other? → **Left and right**
 ### a2 · Four Tissues in Your Hand (15 min)
-- **record:** Trace round your hand on paper. Label where you found each of the four kinds of tissue: covering, muscle, connecting and nerve.
+- **record:** Trace round your hand on paper. Label where you found each of the four kinds of tissue: covering, muscle, connecting and nerve. Or point to each place on your hand and name it.
 - **s1 (3 min)**  
   *Parent does:* Look at the back of the hand closely, with a magnifying glass if you have one. Put one drop of water on the skin and watch it.  
   *Parent says:* Your skin is a sheet that covers you. Look at the fine lines. Does the drop of water soak in or sit on top? A tissue that covers a surface is called covering tissue.  
@@ -389,8 +389,8 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
   - Note: The drop sits on top. The outer skin is many layers of flat cells packed closely together, and it keeps water out.
 - **s2 (4 min)**  
   *Parent does:* Your child rests one hand on the table, palm up. With the other hand, they press the mound at the base of the thumb. Then they pinch thumb and first finger together hard.  
-  *Parent says:* Press the soft mound at the base of your thumb. Now pinch hard. What happens to the mound? That is muscle tissue. Its cells have all shortened at once.  
-  *Child mode:* Press the mound below your thumb. Now pinch hard. What do you feel?
+  *Parent says:* Press the soft mound at the base of your thumb. Now pinch hard. What happens to the mound? That is muscle tissue. The muscle shortens and bunches up.  
+  *Child mode:* Press the mound below your thumb. Now pinch hard.
   - Ask: What changed when you pinched? (good: It went hard.; It got fatter and firmer.; It bulged.)
 - **s3 (3 min)**  
   *Parent does:* Your child holds the hand flat, palm down, and wiggles the fingers as if playing a keyboard. Look for cords moving under the skin. Then press a knuckle and feel the bone.  
@@ -403,9 +403,9 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
   *Child mode:* Close your eyes. Which finger was touched? Then press your nail and watch the colour.
   - Note: Blood is a connecting tissue too, although it is liquid. Its cells float in a watery fluid and travel to every part of the body.
 - **s5 (2 min)**  
-  *Parent does:* Trace round the hand on paper. Label the four tissues and where each was found.  
+  *Parent does:* Trace round the hand on paper and label the four tissues. Or skip the drawing: point to where you found each tissue on your hand and name it.  
   *Parent says:* Label your drawing: covering tissue, muscle tissue, connecting tissue and nerve tissue. Which did you see, and which did you only feel?  
-  *Child mode:* Trace your hand. Label where you found each of the four tissues.
+  *Child mode:* Trace your hand and label the four tissues. Or point to each place and name it.
   - Check: In Four Tissues in Your Hand, the mound at the base of your thumb went firm when you pinched. Which tissue is it? → **Muscle tissue**
 ### a3 · One Segment, Many Times: a paper chain animal (15 min)
 - **record:** Keep the paper animal. On the back, write what job you gave to each changed segment.
@@ -424,13 +424,13 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
   *Child mode:* Open the paper. Count the segments. Count the legs.
   - Ask: You drew one pair of legs. How many legs does the animal have? (good: 16 legs.; 8 pairs, because there are 8 segments.)
 - **s4 (4 min)**  
-  *Parent does:* Change some segments. Draw eyes and long feelers on the first one and trim its legs short. Snip the last one into a tail fan. Colour a few middle segments as walking legs and a few as swimming legs.  
-  *Parent says:* A prawn's segments began alike, and each kind now does a different job. Change your segments. Which will sense, which will walk and which will swim?  
-  *Child mode:* Give the first segment eyes and feelers. Make the last a tail. Colour the rest.
+  *Parent does:* Change some segments. Trim the legs of the first one short. Snip the last one into a tail fan. Then tell your grown-up what job each changed segment has, such as seeing, walking or swimming.  
+  *Parent says:* A prawn's segments began alike, and each kind now does a different job. Change your segments. Which one will feel the way, which will walk and which will swim?  
+  *Child mode:* Trim the first segment's legs. Make the last one a tail. Say what job each changed segment does.
   - Check: A prawn has feelers, walking legs and swimming legs on different segments. What does this show? → **Repeated parts can be changed for new jobs**
 ### a4 · Prawn, Fish and Shell: body plans in the kitchen (if your family buys prawns or fish, or has a sea shell) (10 min)
 - **safety:** Wash hands with soap after touching raw prawn or fish.
-- **record:** Draw what you looked at. Write the number of segments or muscle blocks you counted. For a shell, write whether the opening is on the right or the left.
+- **record:** Write the number of rings or flakes you counted. For a shell, write whether the opening is on the right or the left.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* Put the prawn on a plate. Count the rings of the tail part, and look under each ring for a pair of small legs. If you have cooked fish, press the piece gently and count the flakes in a row.  
   *Parent says:* How many rings can you count on the tail part? What is under each ring? In the fish, what shape is each flake?  
@@ -445,32 +445,32 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 
 ## Projects
 ### p1 · My Body Plan Album: twelve animals in four days (40 min, 4 days)
-- **record:** One page for each animal. Draw the animal from above. Mark the front end with an F. Draw every line that cuts the body into matching halves in red. Write the body plan, and the number of segments if you can count them.
+- **record:** One page for each animal. Draw the animal from above, or stick in a photo. Mark the front end with an F. Mark every line that cuts the body into matching halves in red. Write the body plan, and the number of segments if you can count them.
 - **schedule:** day 1: Draw three animals you can see at home or from the window. Mark the front and the middle line. (10 min); day 2: Draw three animals from the kitchen, the market or a food packet. (10 min); day 3: Draw three sea animals from a book or a screen: one ring animal, one snail and one of your choice. (10 min); day 4: Draw three more animals. Then sort all twelve by body plan and make a contents page. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* Day 1. Find three animals at home or from the window. An ant, a crow, a gecko, a fly or a family member will do. Draw each from above on a page of its own. Mark the front and the red line.  
+  *Parent does:* Day 1. Find three animals at home or from the window. An ant, a crow, a gecko, a fly or a family member will do. Draw each from above on a page of its own, or stick in a photo or picture. Mark the front. Mark the red line, which cuts the body into two matching halves.  
   *Parent says:* Draw the animal as if you were looking down from the ceiling. Where is the front? How many lines cut this body into matching halves?  
-  *Child mode:* Draw three animals from above. Mark the front. Draw the middle line in red.
+  *Child mode:* Draw three animals from above. Mark the front. Mark the red line that cuts each into matching halves.
   - Note: A quick, rough drawing is enough. The point is the front end and the red line, not a perfect picture.
 - **s2 (10 min)**  
-  *Parent does:* Day 2. Find three animals in the kitchen, at the market or on a food packet: a fish, a prawn, a crab or a hen. Draw each and mark the front and the red line. Count any segments.  
+  *Parent does:* Day 2. Find three animals in the kitchen, at the market or on a food packet: a fish, a prawn, a crab or a hen. Do not draw them. Take a photo or point to each animal and tell your grown-up where the front is. Count any segments.  
   *Parent says:* Does this animal have parts that repeat in a row? Count them if you can.  
-  *Child mode:* Draw three animals from the kitchen or market. Count any repeated parts.
+  *Child mode:* Find three animals from the kitchen or market. Tell where the front is. Count any repeated parts.
 - **s3 (10 min)**  
-  *Parent does:* Day 3. From a book or a screen, choose a jellyfish or a starfish, a snail, and one more sea animal. Draw each from above. A ring animal will need several red lines.  
+  *Parent does:* Day 3. From a book or a screen, choose a jellyfish or a starfish, a snail, and one more sea animal. Point to the front of each, or say it has none. For a ring animal, count the lines that cut the body into matching halves.  
   *Parent says:* How many red lines can you draw through a starfish? How many through a snail's shell?  
-  *Child mode:* Draw a jellyfish or starfish, a snail and one more. How many red lines?
+  *Child mode:* Find a jellyfish or starfish, a snail and one more. How many matching-halves lines does each have?
   - Note: A starfish has five lines of matching halves. A snail's coiled shell has none, although her soft body has one.
 - **s4 (10 min)**  
-  *Parent does:* Day 4. Draw three more animals of your child's choice. Then write a contents page that sorts all twelve under four headings: rings, two halves, spiral shell and segments. An animal can go under two headings.  
+  *Parent does:* Day 4. Choose three more animals. Then write a contents page that sorts all twelve under four headings: rings, two halves, spiral shell and segments. An animal can go under two headings.  
   *Parent says:* Which heading has the most animals? Did any animal fit two headings? Did any animal fit none?  
-  *Child mode:* Draw three more. Sort all twelve by body plan. Which plan has the most?
+  *Child mode:* Choose three more. Sort all twelve by body plan. Which plan has the most?
   - Check: Twelve animals are found at home and at the market. Which body plan is likely to be the most common? → **Two matching halves**
 
 ## Challenges
 ### c1 · Many Threads, One Lift: build a model tendon from sewing thread (20 min)
 - **problem:** A tendon ties a muscle to a bone. It is a tissue made of thousands of thin fibres lying side by side. One fibre alone is weak. Your problem is similar, because one sewing thread alone is weak too. It snaps when it lifts a bag that weighs 2 kilograms. Lift the bag with thread alone, using as few threads as you can.
-- **your turn:** Now design your own. Find the smallest number of threads that holds the bag for 10 seconds. Draw how you arranged them. Then test one change, such as twisting, and write whether you needed fewer threads.
+- **your turn:** Now design your own. Find the smallest number of threads that holds the bag for 10 seconds. Take a photo of how you arranged them, or draw it. Then test one change, such as twisting, and write whether you needed fewer threads.
 - **constraints:** Use ordinary sewing thread only. No string, wool or tape.; Each thread is 30 centimetres long before you tie it.; The bag must hang 2 centimetres above the floor for 10 seconds.; Use at most 10 threads.; Lift slowly. Do not jerk the bag.
 - **general:** Tie several threads side by side between the rolling pin and the bag's handles.; Make every thread the same length, so that each one takes a share of the weight.; Spread the threads along the rolling pin so that they do not rub on each other.
 - **creative:** Twist the threads together into one cord, as fibres are twisted in a rope.; Plait three groups of threads, as hair is plaited.; Tie short threads in two rows, so that if one thread snaps the others still hold.
@@ -490,9 +490,9 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
   *Parent says:* Now use your own idea. How will you make every thread take a share? Count ten seconds aloud while the bag hangs.  
   *Child mode:* Build your own design. Lift the bag. Count to ten.
 - **s4 (4 min)**  
-  *Parent does:* Write the smallest number of threads that held. Draw the design. Then ask the question below.  
+  *Parent does:* Write the smallest number of threads that held. Take a photo of the design, or draw it. Then ask the question below.  
   *Parent says:* How many threads did you need? Your tendons work in the same way. Thousands of thin fibres lie side by side, all the same way, and share the pull.  
-  *Child mode:* Write how many threads held the bag. Draw your design.
+  *Child mode:* Write how many threads held the bag. Take a photo of your design, or draw it.
   - Check: In Many Threads, One Lift, one thread snapped but several equal threads held the bag. How is that like a tissue? → **Many alike cells share one job**
 
 ## Worksheets

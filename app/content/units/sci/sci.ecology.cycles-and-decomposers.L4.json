@@ -379,7 +379,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a guessing game. Each card shows a dead or leftover thing. You decide which crew will deal with it, and then say why.",
+   "context": "This is a guessing game. Each card shows a dead or leftover thing. You decide which crew will deal with it, and then say why. You will find out who eats what when things die.",
    "setup": [
     {
      "art": "Twenty-four cards in a shuffled pile in the middle of a table, with tokens in groups of four.",
@@ -542,9 +542,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Play the game with the rules. The reader reads a card. The others pick a token. Turn over the tokens together and read the back. Ask for a reason each time.",
-     "say": "Read the front of the card. Do not show the back. Everyone, pick a token. Why did you pick that one? Then I will read the back.",
-     "kid": "Read a card. Everyone picks a token. Say why. Then check the back.",
+     "do": "Take turns to be the reader. The reader reads a card. The others pick a token. Turn over the tokens together and read the back. Ask for a reason each time.",
+     "say": "I read the front of the card, not the back. Pick a token. Tell me why. Then I read the back.",
+     "kid": "Pick the crew you think comes to eat.",
      "ask": [
       {
        "q": "Why does plastic get 'Nobody yet'?",
@@ -580,7 +580,7 @@
      "mins": 5,
      "do": "Count the scores. Ask your child which crew they found hardest to spot, and which cards surprised them.",
      "say": "Which card surprised you most? Which crew was hardest to tell apart? Why?",
-     "kid": "Which card surprised you most? Which crew was hardest?",
+     "kid": "Find the card that surprised you most and show it.",
      "parent": "The 'Nobody yet' cards are plastic, glass, foam and steel. None of them is made by a plant or an animal, so no cleanup crew can eat them.",
      "think": "Which cards have 'Nobody yet'? What do they have in common?",
      "context": "This is the last step of Cleanup Crew. You think back over the game."
@@ -635,8 +635,8 @@
     }
    ],
    "safety": "Chuna can burn skin and eyes. Only a grown-up handles it. Never taste chuna or limewater. If any splashes in an eye, rinse with plenty of clean water for several minutes and call a doctor. Blow out through the straw only, never suck. Keep jar B sealed, labelled, and on a separate fridge shelf away from food. Wash hands after touching soil and jars. Open the jars outdoors or near a window, because they may smell, and do not put your nose inside. Glass jars can break: a grown-up carries them. With 2 to 4 children, only the grown-up handles chuna and limewater.",
-   "record": "Draw the three jars. For each katori write a milkiness score after 1 day and after 2 days: 0 clear, 1 faint cloud or thin skin, 2 cloudy, 3 milky. Mark which jar sat in the fridge.",
-   "context": "In this experiment, you find out what a jar of damp soil gives out. You use limewater, which turns milky when carbon dioxide is added.",
+   "record": "For each katori write a milkiness score after 1 day and after 2 days: 0 clear, 1 faint cloud or thin skin, 2 cloudy, 3 milky. Mark which jar sat in the fridge.",
+   "context": "In this experiment, you find out what a jar of damp soil gives out. You use limewater, which turns milky when carbon dioxide is added. You will find out whether soil breathes out a gas.",
    "setup": [
     {
      "art": "A jug of water with a teaspoon of white chuna stirred in, and white powder settling at the bottom.",
@@ -664,8 +664,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Show your child the three jars and the chuna. Say that limewater turns milky when carbon dioxide is added. Ask for a guess and a reason for each jar. Write them down.",
-     "say": "We will set up three jars. Jar A has soil and peel, and stays in the warm room. Jar B has the same, but goes in the fridge. Jar C has only air. Which limewater will turn milky? Why do you think so?",
-     "kid": "We set up three jars. Which jar's limewater will turn milky? Why do you think so?",
+     "say": "We will set up three jars. Jar A has soil and peel, and stays in the warm room. Jar B has the same, but goes in the fridge. Jar C has only air.",
+     "kid": "Look at the three jars. Think about what each one will do.",
      "ask": [
       {
        "q": "Which jar do you think will turn the limewater milky first, and why?",
@@ -693,7 +693,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Label the jars A, B and C. Put 4 tablespoons of soil into jar A and jar B. Add 1 tablespoon of finely chopped peel to each. Stir half a teaspoon of jaggery into 2 tablespoons of water and sprinkle half of it over each soil jar. Leave jar C with only air.",
-     "say": "Put soil in jars A and B. Add the chopped peel and the jaggery water. Do not put anything in jar C. It is our check on what the limewater does with only air.",
+     "say": "Put soil in jars A and B. Add the chopped peel and the jaggery water. Jar C gets nothing.",
      "kid": "Put soil and peel in jars A and B. Jar C stays empty.",
      "ask": [
       {
@@ -724,7 +724,7 @@
      "mins": 8,
      "do": "Pour a little limewater into a clear glass. Blow into it through a straw. It should turn milky. If it does, pour 2 tablespoons of clear limewater into each katori. Stand one katori in each jar and close the lids at once. Put jar B in the fridge.",
      "say": "First check your limewater by blowing through a straw. If it turns milky, it works. Then fill the three katoris, stand one in each jar, and close the lids quickly. Jar B goes in the fridge.",
-     "kid": "Blow into the limewater. It turns milky. Fill three katoris, put one in each jar, close the lids.",
+     "kid": "Blow into a little limewater to test it. Then put a katori in each jar and close the lids.",
      "adult": true,
      "parent": "Do not let the limewater touch the soil. Keep the powder at the bottom of the jug and pour only the clear water. If the breath test does not turn milky, the chuna may be old. Make a new jug, using a bigger spoon. Put jars A and C in a warm spot out of the sun, such as a kitchen shelf. Use jars with tight lids. If a lid is loose, put a layer of cling film under it. If your room is cold, jar A may be slow.",
      "context": "In this step, you check the limewater, and then seal a katori of it into each jar."
@@ -733,8 +733,8 @@
      "id": "s5",
      "mins": 12,
      "do": "Look at each katori the same evening and the next day. A grown-up lifts out each katori, one at a time. Look in good light, score it 0 to 3 and write it down. Look again the day after.",
-     "say": "Look at each katori. Is the limewater clear, a little cloudy, or milky? Write it down. Then tell me what you thought would happen, what you saw, and why you think it happened.",
-     "kid": "Look at each katori. Write clear, cloudy or milky. Say what you thought, what you saw, and why.",
+     "say": "Look at each katori. Look in good light. Tell me what you thought would happen, what you saw, and why you think it happened.",
+     "kid": "Look at each katori. Is it clear, cloudy or milky?",
      "ask": [
       {
        "q": "What gas do you think made the limewater milky? Where did it come from?",
@@ -818,8 +818,8 @@
     }
    ],
    "safety": "A grown-up uses the knife and the grater. Do not open the boxes once they have fuzzy mould on them, because the spores can make some people sneeze or cough. Look through the clear lid. A grown-up wraps the boxes in a bag and puts them in the bin when the test is over. Wash hands after. Anyone with asthma or a mould allergy should not open the boxes or smell them closely. A grown-up does it.",
-   "record": "Each day, give each box a score: 0 for no change, 1 for a smell or a soft spot, 2 for slime or a little fuzz, 3 for mostly soft and fuzzy. Write the scores in the table. Draw a line for each carrot over the six days.",
-   "context": "In this experiment, you cut one carrot in three ways and watch which part rots first. It tests whether small pieces rot faster than big ones.",
+   "record": "Each day, give each box a score: 0 for no change, 1 for a smell or a soft spot, 2 for slime or a little fuzz, 3 for mostly soft and fuzzy. Write the scores in the table. Draw a line for each carrot over the six days, or just read across the table.",
+   "context": "In this experiment, you cut one carrot in three ways and watch which part rots first. It tests whether small pieces rot faster than big ones. You will find out why chopped peels rot faster in a compost heap.",
    "setup": [
     {
      "art": "A carrot cut into three equal lengths on a chopping board, with a knife beside it.",
@@ -843,8 +843,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the carrot. Say that you will cut it into three pieces of the same weight and treat them in three ways. Ask for a guess and a reason. Write them down.",
-     "say": "We will cut three pieces of the same weight from one carrot. One piece stays whole. One is chopped small. One is grated. Which will rot first? Which will last longest? Why do you think so?",
-     "kid": "We cut one carrot three ways: whole, chopped and grated. Which will rot first? Why?",
+     "say": "We will cut three pieces of the same weight from one carrot. One piece stays whole. One is chopped small. One is grated. Which will rot first? Which will last longest?",
+     "kid": "Look at the three ways to cut the carrot. Make a guess.",
      "ask": [
       {
        "q": "Why do you think that one will rot first?",
@@ -901,9 +901,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "On the last day, line the three boxes up. Draw a line graph of the scores for each carrot. Ask your child to say what they thought, what they saw, and why.",
+     "do": "On the last day, line the three boxes up. Plot a line graph of the scores for each carrot, or just compare the numbers in the table. Ask your child to say what they thought, what they saw, and why.",
      "say": "Line up the boxes and look at your graph. Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Line up the boxes. Draw the scores. Say what you thought, what you saw, and why.",
+     "kid": "Line up the boxes. Plot the scores, or compare them in the table.",
      "parent": "A strong answer says that the grated carrot had the most surface, so more mould and bacteria could land on it and eat it. After your child has explained, add: this is why earthworms and millipedes help. They chew leaves small, and every bit gives the fungi new surface. When the test is over, a grown-up closes the boxes inside a bag and puts them in the dustbin.",
      "think": "Why would a whole carrot in the ground last longer than a grated one?",
      "check": {
@@ -990,9 +990,9 @@
      "what": "Spread out the soil. Look for dead bits, threads and tiny animals. Sort what you find into three groups."
     }
    ],
-   "record": "A drawing of the soil on the plate. Label the dead bits, the white threads, the tiny animals and the bits of rock or sand. A tally of how many of each kind you found in each soil.",
+   "record": "A photo or a drawing of the soil on the plate. Label the dead bits, the white threads, the tiny animals and the bits of rock or sand. A tally of how many of each kind you found in each soil.",
    "safety": "Wash hands after touching soil. Do not put soil near your face.",
-   "context": "In this activity, you spread out a spoon of soil and look closely for the cleanup crew. You guess what each thing is before you decide.",
+   "context": "In this activity, you spread out a spoon of soil and look closely for the cleanup crew, the tiny things that break down dead plants. You will find out who lives in soil. You guess what each thing is before you decide.",
    "setup": [
     {
      "art": "A teaspoon of dark soil spread thinly on a white plate.",
@@ -1004,7 +1004,7 @@
     },
     {
      "art": "A notebook page with a drawing of soil bits and three labelled groups.",
-     "caption": "3. Draw and sort what you find into dead bits, white threads and tiny animals."
+     "caption": "3. Sort what you find into dead bits, white threads and tiny animals."
     }
    ],
    "flow": [
@@ -1012,8 +1012,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Spread one spoon of pot soil on one half of the plate. Spread one spoon of garden soil on the other half. Look without touching and say what you notice. Say what you wonder.",
-     "say": "Look at the soil on the plate. What do you notice? What do you wonder? Is anything in it alive?",
-     "kid": "Look at the soil. What do you notice? What do you wonder?",
+     "say": "Look at the soil on the plate. What do you notice? What do you wonder?",
+     "kid": "Look at the soil without touching it.",
      "ask": [
       {
        "q": "What do you think the dark bits are?",
@@ -1037,9 +1037,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Use the toothpick to move the bits apart. Look with the lens. Find three kinds of things: dead bits of plant, white or grey threads, and tiny animals. Draw each kind you find. Make a tally mark for each find, and compare the two soils.",
-     "say": "Move the bits apart gently. Look for dead plant pieces. Look for fine white threads. Look for any tiny animals. Draw what you find.",
-     "kid": "Move the soil bits apart. Find dead bits, white threads and tiny animals. Draw them.",
+     "do": "Use the toothpick to move the bits apart. Look with the lens. Find three kinds of things: dead bits of plant, white or grey threads, and tiny animals. Move each find to its own heap at the edge of the plate. Make a tally mark for each find, and compare the two soils.",
+     "say": "Move the bits apart gently. Look for dead plant pieces. Look for fine white threads. Look for any tiny animals. Put each kind in its own heap.",
+     "kid": "Move the soil bits apart. Find dead bits, white threads and tiny animals. Sort them into heaps.",
      "parent": "You may find pale threads (fungus), small dead leaf pieces, bits of root, and sometimes tiny white or brown animals such as springtails or mites. Pot soil may have few animals. That is normal. Garden or tree-base soil usually shows more animals and threads than pot soil, so the tally is a real comparison, though a dry spot may show little. Put the animals back in the soil after looking.",
      "check": {
       "t": "mcq",
@@ -1059,7 +1059,7 @@
      "mins": 5,
      "do": "Ask your child to say what the things they found are doing. Ask which ones are the cleanup crew.",
      "say": "Which of the things you found do you think are the cleanup crew? What do you think each one is eating?",
-     "kid": "Which things are the cleanup crew? What are they eating?",
+     "kid": "Point to the things you think are the cleanup crew.",
      "parent": "A good answer says that the dead plant bits are the food, and the threads and the tiny animals are the eaters. Say that soil is full of living things. A spoon of healthy garden soil can hold up to about a billion tiny bacteria, nearly as many as the people in India. They are too small to see. You can see only the larger animals.",
      "think": "If you could look at a spoon of soil from a forest, what would be different?",
      "context": "This is the last step of Soil Detective. You think about what each thing does."
@@ -1111,9 +1111,9 @@
      "what": "Dig up the buried flowers. Compare with the dry ones. Explain what happened."
     }
    ],
-   "record": "A diary page for each look (day 1, 4, 8 and 14), with a drawing, how many flowers still look like flowers, a short note about colour, smell and softness, and a guess about who has been at work.",
+   "record": "A diary page for each look (day 1, 4, 8 and 14), with a photo or drawing, how many flowers still look like flowers, a short note about colour, smell and softness, and a guess about who has been at work.",
    "safety": "Wash hands after touching the soil and the flowers. Do not eat any of the flowers. Anyone with asthma or a mould allergy should not dig up or sniff the fuzzy flowers. A grown-up does it, with gloves. Use unsprayed flowers if you can, and keep the pot out of reach of small children and pets.",
-   "context": "In this activity, you watch a used flower garland change over two weeks. One half goes in damp soil, and one half stays dry.",
+   "context": "In this activity, you watch a used flower garland change over two weeks. You will find out what happens to puja flowers and who turns them into soil. One half goes in damp soil, and one half stays dry.",
    "setup": [
     {
      "art": "A child pressing marigold flowers into soil in a small pot.",
@@ -1125,14 +1125,14 @@
     },
     {
      "art": "A notebook page with two drawings, one of flowers in a pot and one on a saucer, with dates.",
-     "caption": "3. Draw both every few days and write what changes."
+     "caption": "3. Photograph both every few days and write what changes."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 10,
-     "do": "Split the flowers into two heaps with the same number of flowers (count them). Bury one heap just under the soil in a pot, and sprinkle on a little water. Put the other heap on a dry saucer. Draw both. Ask your child what they think each will look like in two weeks.",
+     "do": "Split the flowers into two heaps with the same number of flowers (count them). Bury one heap just under the soil in a pot, and sprinkle on a little water. Put the other heap on a dry saucer. Take a photo of both. Ask your child what they think each will look like in two weeks.",
      "say": "Half of the flowers go in damp soil. Half stay dry on a saucer. What do you think each will look like in two weeks? Why do you think so?",
      "kid": "Bury half of the flowers. Keep half dry. What will happen? Why?",
      "parent": "Water the buried flowers a little every two or three days, so the soil stays damp. Do not water the dry heap. Do not correct the guess. Two to four children: each child buries and keeps their own small heap, or one child keeps the buried pot, one the dry saucer, and they swap jobs at each look. If the garland has wire or plastic thread, remove it first.",
@@ -1141,9 +1141,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "On day 4 and day 8, look at both heaps. Draw them. Write down the colour, the smell and how soft they feel. On day 8, press a stick into the buried flowers.",
-     "say": "Look at both heaps. Draw them. Which one has changed more? What do you think is causing the change?",
-     "kid": "Draw both heaps. Which one changed more? Why?",
+     "do": "On day 4 and day 8, look at both heaps. Take a photo of each. Write down the colour, the smell and how soft they feel. On day 8, press a stick into the buried flowers.",
+     "say": "Look at both heaps. Take a photo of each. Which one has changed more?",
+     "kid": "Look at, smell and feel both heaps.",
      "ask": [
       {
        "q": "Who do you think has been working on the buried flowers?",
@@ -1204,7 +1204,7 @@
    ],
    "record": "A table with three columns: the leftover, who or what eats it, and what is left at the end. A last row for things that nobody can eat.",
    "safety": "Use only cooked or clean leftovers, never raw meat or raw egg. Wash hands after handling bones, shells and wrappers. Keep sharp bones and broken shells away from small children.",
-   "context": "In this activity, you look at the leftovers of one meal and work out who would eat each one. Then you find the ones that nobody can eat.",
+   "context": "In this activity, you look at the leftovers of one meal and work out who would eat each one. You will find out why some rubbish disappears and some stays. Then you find the ones that nobody can eat.",
    "setup": [
     {
      "art": "A tray with banana peel, rice, a bone, an eggshell, a coconut shell and a plastic wrapper.",
@@ -1212,7 +1212,7 @@
     },
     {
      "art": "A big sheet with a three-column table drawn on it.",
-     "caption": "2. Draw a table with three columns: leftover, who eats it, what is left."
+     "caption": "2. Make a table with three columns: leftover, who eats it, what is left."
     },
     {
      "art": "A completed table with two circled rows labelled nobody.",
@@ -1223,9 +1223,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Lay out the leftovers of one meal on a tray. Ask your child to name each one. Draw the table on a sheet of paper.",
+     "do": "Lay out the leftovers of one meal on a tray. Ask your child to name each one. Rule a table with three columns on a sheet of paper.",
      "say": "These are the leftovers from our meal. Let us name each one. Then we will think about who might eat it.",
-     "kid": "Name each leftover from our meal. Draw a table.",
+     "kid": "Name each leftover from our meal.",
      "parent": "Use real leftovers from the day's cooking. Include at least one thing that cannot rot, such as a wrapper or a plastic bag, because the later steps need it. One child: the parent writes while the child sorts. Two to four children: one child lays out and names, one draws the table, one reads the crew words; swap at the next meal. Do not eat any of the leftovers during the activity.",
      "context": "This is the first step of Who Eats It? You list the leftovers."
     },
@@ -1234,7 +1234,7 @@
      "mins": 15,
      "do": "For each leftover, ask your child to guess who would eat it and what would be left at the end. Write it in the table. Use words from this unit: scavenger, detritivore, decomposer.",
      "say": "Who would eat this? Is it a scavenger, a detritivore or a decomposer? What would be left at the end?",
-     "kid": "Who would eat each leftover? What is left at the end?",
+     "kid": "Guess who eats each leftover, then fill in the table.",
      "ask": [
       {
        "q": "Which leftover is eaten first, and by whom?",
@@ -1257,9 +1257,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Count how many leftovers have a crew and how many do not. Ask your child why some have no crew and what could be done about them.",
+     "do": "Move the leftovers that have a crew to one side and the ones with no crew to the other. Count each heap. Ask your child why some have no crew and what could be done about them.",
      "say": "How many of our leftovers have a cleanup crew? How many do not? Why do you think that is?",
-     "kid": "Count the leftovers with a crew. Count the ones with no crew.",
+     "kid": "Sort the leftovers into two heaps: has a crew, no crew.",
      "parent": "Let your child reason it out. The leftovers with no crew can be reused, repaired or recycled.",
      "think": "What could we do with the leftovers that nobody can eat?",
      "check": {
@@ -1299,9 +1299,9 @@
      "what": "Watch the same spot for 10 minutes, then again at a different time of day if you can. Count who comes to eat. Sort them into scavengers, detritivores and decomposers."
     }
    ],
-   "record": "A tally chart of every creature who came to eat, with their name or a drawing, and how many times.",
+   "record": "A tally chart of every creature who came to eat, with their name or a photo, and how many times.",
    "safety": "Watch from a window or a safe distance. Do not lean out of a balcony or window. Never feed or touch street animals, and do not go near a bin or dropped food outdoors. Do not put food where monkeys or stray dogs can come into the house.",
-   "context": "In this activity, you watch one spot for ten minutes and count who comes to clean up the food. You sort them into the crews from this unit.",
+   "context": "In this activity, you watch one spot for ten minutes and count who comes to clean up the food. You will find out who cleans up outside when no one is looking. You sort them into the crews from this unit.",
    "setup": [
     {
      "art": "A window view of a street corner with a scatter of vegetable waste and a rubbish bin.",
@@ -1329,8 +1329,8 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Watch for ten minutes. Make a tally mark for every creature who comes to eat. Write down their names or draw them.",
-     "say": "Make a mark each time a creature comes to eat. Write their name or draw them. Do not forget the tiny ones.",
+     "do": "Watch for ten minutes. Make a tally mark for every creature who comes to eat. Write down their names, or take a photo.",
+     "say": "Make a mark each time a creature comes to eat. Write their name, or take a photo. Do not forget the tiny ones.",
      "kid": "Watch for ten minutes. Make a mark for every creature who eats.",
      "ask": [
       {
@@ -1351,7 +1351,7 @@
      "mins": 5,
      "do": "Sort every visitor into scavenger, detritivore or neither. Ask your child who is missing from the list and why.",
      "say": "Which of your visitors are scavengers? Which are detritivores? Who is not here that you would expect in a forest?",
-     "kid": "Sort your visitors: scavengers or detritivores. Who is missing?",
+     "kid": "Sort each visitor: scavenger, detritivore or neither.",
      "parent": "Crows, kites, dogs and cows are scavengers. Ants are scavengers too. Flies lay eggs, and the grubs are scavengers or detritivores. Moulds on the food are decomposers. Many cities have lost scavengers such as vultures. This is a good moment to tell the vulture story from the 'How we found out' card.",
      "think": "If the crows and the dogs all disappeared, what would happen to the street?",
      "check": {
@@ -1426,9 +1426,9 @@
      "what": "Measure and compare. Draw a bar chart. Explain what you found."
     }
    ],
-   "record": "A table with the three pots and, for day 4, 8 and 14, the average height of the plants and their colour. A bar chart of height on day 14.",
+   "record": "A table with the three pots and, for day 4, 8 and 14, the average height of the plants and their colour. A bar chart of height on day 14, or a photo of the pots lined up by height.",
    "safety": "Wash hands after handling soil and compost. Do not eat the seeds or the sprouts from this test. Methi is a legume: a child allergic to peanuts, chickpeas or other legumes should not handle the seeds. Use another seed and keep the sprouts away from food.",
-   "context": "In this project, you grow methi in three different pots over two weeks. It tests whether rotted leaves feed a new plant.",
+   "context": "In this project, you grow methi in three different pots over two weeks. It tests whether rotted leaves feed a new plant. You will find out if rot is food for the next plant.",
    "setup": [
     {
      "art": "Three small pots in a row: one with brown cocopeat, one with dark compost mixed in, and one with garden soil.",
@@ -1453,7 +1453,7 @@
      "mins": 5,
      "do": "Show your child the three pots and what goes in each. Ask for a guess and a reason about which pot will grow the best plants.",
      "say": "Pot A has only cocopeat. Pot B has cocopeat and rotted compost. Pot C has garden soil. Which pot will grow the best methi? Why do you think so?",
-     "kid": "There are three pots. Which pot will grow the best methi? Why?",
+     "kid": "Look at the three pots and what goes in each.",
      "parent": "Cocopeat holds water but has almost no nutrients. Vermicompost is made by worms and microbes from dead plant matter. Do not correct the guess. Pots A and B differ only by the compost, so they are the fair test. Pot C is a bonus that shows ordinary soil. One child: the child measures and records. Two to four children: each child keeps one pot (or each pair its own set of three) and measures its plants. Then compare the heights in a group chart.",
      "context": "This is the first step of the Methi project. You guess before you plant."
     },
@@ -1482,7 +1482,7 @@
      "mins": 10,
      "do": "On days 4 and 8, water the pots equally and measure the height of the plants in each. Write down the colour, too. Look again on day 14.",
      "say": "Measure the tallest three plants in each pot. Write the height and the colour. Do all three pots look the same?",
-     "kid": "Measure the plants in each pot. Write the height and the colour.",
+     "kid": "Measure the tallest three plants in each pot. Write the height and the colour.",
      "parent": "Use the average of the three tallest plants. Typically by day 14 pot A is paler and shorter than pot B, and pot C is similar to B or in between; the exact heights depend on your seeds and the weather. A small difference is still a result. If all three look the same, the seeds' own food may still be carrying them, so wait a few more days.",
      "context": "In this step, you watch the plants and write what you see."
     },
@@ -1490,8 +1490,8 @@
      "id": "s4",
      "mins": 15,
      "do": "On day 14, measure and draw a bar chart of the average heights. Ask your child to say what they thought, what they saw, and why.",
-     "say": "Draw a bar for each pot. Tell me what you thought, what you saw, and why you think it happened.",
-     "kid": "Draw a bar for each pot. Say what you thought, what you saw, and why.",
+     "say": "Look at your bars, or the pots in a row. Tell me what you thought, what you saw, and why you think it happened.",
+     "kid": "Draw a bar for each pot, or line the pots up by height.",
      "parent": "A strong answer says that the compost holds nutrients from dead leaves and other waste, released by decomposers, and the plants drink them. After your child has explained, say that in the story The Palm That Stayed, the banana plants grew well beside the rotting trunk. The methi plants have just shown the same thing.",
      "think": "Where did the nutrients in the vermicompost come from, before they were in the compost?",
      "context": "This is the last step of the Methi project. You draw the chart and explain what you found."
@@ -1550,8 +1550,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together. Look at the constraints. Ask your child to sketch a plan for the first jar and say why each choice would help.",
-     "say": "You want the peels to rot as fast as possible. What do decomposers like? How could you give them more of it? Sketch your plan first.",
-     "kid": "What do decomposers like? Sketch your jar plan.",
+     "say": "You want the peels to rot as fast as possible. Make a plan for the first jar: sketch it, or tell it to me.",
+     "kid": "Plan jar 1. Sketch it or say it out loud.",
      "ask": [
       {
        "q": "What would make the decomposers work faster?",

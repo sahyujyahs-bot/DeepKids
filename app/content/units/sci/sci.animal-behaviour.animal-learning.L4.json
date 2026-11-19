@@ -401,7 +401,7 @@
    "title": "Bee School: which flower pays?",
    "mins": 23,
    "players": "2 to 4 players",
-   "context": "In this guessing game, one player is the garden keeper and the others are bees. The bees must work out which flower colour gives nectar. The keeper changes the colour during the game without telling them, so the bees learn only from whether they get nectar.",
+   "context": "In this guessing game, you find out how long it takes to learn a rule that changes. One player is the garden keeper and the others are bees. The bees must work out which flower colour gives nectar. The keeper changes the colour during the game without telling them, so the bees learn only from whether they get nectar.",
    "setup": [
     {
      "art": "Three flower cards, blue, yellow and red, laid in a row on a table, with three face-down cards in front of the garden keeper.",
@@ -466,9 +466,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut out the flower cards and the rule cards. Choose the garden keeper. Shuffle the rule cards and lay them face down. Each bee draws a score sheet with three blocks of eight boxes.",
+     "do": "Cut out the flower cards and the rule cards. Choose the garden keeper. Shuffle the rule cards and lay them face down. Each bee makes a score sheet with three blocks of eight boxes.",
      "say": "One of us is the garden keeper. The others are bees. The bees must find out which flower has nectar. The keeper will change the paying flower, and will not say when.",
-     "kid": "Cut out the cards. Pick a garden keeper. Draw your score sheet.",
+     "kid": "Cut out the cards. Pick a garden keeper. Make your score sheet.",
      "context": "This is the first step of Bee School. You set up the cards and the score sheets."
     },
     {
@@ -692,8 +692,8 @@
      "mins": 4,
      "adult": true,
      "do": "Show your child the plate, the spoon and the rice tin. Ask two family members if they agree to be volunteers. Write down your child's guesses and reasons.",
-     "say": "We will ring a spoon on a plate behind someone, again and again. What will their jumps do? Why do you think so? What will a new sound do?",
-     "kid": "Guess first. Will the jumps get smaller, stay the same or get bigger? Why?",
+     "say": "We will ring a spoon on a plate behind someone, again and again. Before we start, I want your guess.",
+     "kid": "Guess first. Say why you think so.",
      "ask": [
       {
        "q": "What will the jumps do, and why do you think so?",
@@ -764,7 +764,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "The jump came back for the rice tin. What does this tell us?",
+      "q": "The volunteer jumped again at the rice tin. What does this tell us?",
       "options": [
        "The person was not simply too tired to react",
        "The rice tin is always louder than the spoon",
@@ -799,7 +799,7 @@
      "mins": 6,
      "do": "Draw a line graph for each volunteer, with the sound number along the bottom and the score up the side. Mark where the rice tin came. Ask your child to say what they think happened, what they saw in the scores, and why they think it happened.",
      "say": "Tell me three things. What do you think happened? What did you see in the scores? Why do you think it happened?",
-     "kid": "Draw a line for each volunteer. Say what you think, what you saw and why.",
+     "kid": "Draw a line for each volunteer, or point at the scores. Tell us what changed. Say why.",
      "think": "If the person were only tired, would a new sound make them jump?",
      "parent": "A common pattern is that the jumps got smaller over the 12 spoon sounds, came back for the new sound, and stayed small for the old one. After your child has said this, give the name: this is habituation, learning that a repeated sound is harmless. The full jump at the new sound shows the change belongs to the spoon only. If the volunteer also jumps a little more at the next spoon rings after the tin, that is called dishabituation. Real jumps are uneven, so a few ups and downs in the line are normal. If your results look different, say what you saw and why it may have happened. Nerves, a noisy room and a volunteer who tensed up can all change the scores.",
      "context": "This is the last step of the Spoon Test. You draw the graph and say what you found."
@@ -876,8 +876,8 @@
      "id": "s1",
      "mins": 6,
      "do": "Make 16 slips, one for each made-up word and its meaning. List A has eight words. Dabi is a spoon. Nuko is a window. Fesa is a shoe. Ruma is a cloud. Tilo is a broom. Gavi is a lamp. Sepu is a coin. Hiku is a kite. List B has eight words. Mako is a pencil. Zeru is a bucket. Lopi is a tree. Wudi is a drum. Kete is a towel. Fuga is a key. Nafo is a moon. Rimo is a boat. Then write down each person's guess about which way of learning will work better.",
-     "say": "We will learn two lists of made-up words. One list we will learn all at once. One we will learn in short sittings through the day. Which will we remember better tomorrow, and why?",
-     "kid": "Make 16 slips from the two lists. Guess which way will work better. Why?",
+     "say": "We will learn two lists of made-up words. One list we will learn all at once, which is called cramming. One we will learn in short sittings through the day. Before we start, I want your guess.",
+     "kid": "Help make the 16 slips. Then make a guess and say why.",
      "ask": [
       {
        "q": "Which way do you think will work better tomorrow, and why?",
@@ -942,9 +942,9 @@
     {
      "id": "s5",
      "mins": 10,
-     "do": "Add up the scores for the crammed lists and for the spread lists. Draw two bars. Ask your child to say what they think the scores show, what they saw in the numbers, and why they think it came out this way.",
+     "do": "Add up the scores for the crammed lists and for the spread lists. Lay out one slip for each right word, in two rows, one row for each way. Ask your child to say what they think the scores show, what they saw in the numbers, and why they think it came out this way.",
      "say": "What do you think the scores show? What did you see in the numbers? Why do you think it came out this way?",
-     "kid": "Add up the scores for each way. Draw two bars. Say what you saw and why.",
+     "kid": "Add up the scores for each way. Lay out one slip for each right word in two rows. Say what you saw and why.",
      "think": "If a sea slug can show the same pattern as you, what does that say about how learning works?",
      "parent": "Many people remember more from the spread list, but not everyone does. After your child has given their reason, say that scientists have found the same in people, honeybees and sea slugs. Spaced practice usually lasts longer. One reason is that making a memory last takes the body time to build new parts, and a break gives that time.",
      "context": "This is the last step of Crammed or Spread Out. You add up the scores and say what you found."
@@ -976,7 +976,7 @@
     }
    ],
    "record": "The number of sounds you guessed and the number you counted in each room, a list of sounds you did not hear until you listened, and a list of five things touching your body that you had forgotten.",
-   "context": "In this short activity you find things around you that you had stopped noticing. It starts you thinking about how and why we stop noticing things.",
+   "context": "In this short activity you find things around you that you had stopped noticing. You will find out that these sounds and touches were there all along, and your mind had stopped telling you about them.",
    "setup": [
     {
      "art": "A child sitting very still with eyes closed on a sofa, with small pictures floating around: a ceiling fan, a fridge, a clock and a scooter outside.",
@@ -1029,9 +1029,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Ask your child where the fan sound went when they were not hearing it. Let them answer in their own words. Then ask the question in the check.",
-     "say": "When you were not hearing the fan, where was the sound? Was it gone? Did your ears stop working? What do you think?",
-     "kid": "Where was the fan sound when you did not hear it? What do you think?",
+     "do": "Pick a sound your child did not notice at first, such as the fan or the fridge. Ask your child where that sound went when they were not hearing it. Let them answer in their own words. Then ask the question in the check.",
+     "say": "When you were not hearing the fridge or the fan, where was the sound? Was it gone? Did your ears stop working? What do you think?",
+     "kid": "Where was the sound when you did not hear it? What do you think?",
      "check": {
       "t": "mcq",
       "q": "You did not hear the fridge until you listened. What is the best explanation?",
@@ -1110,7 +1110,7 @@
      "kid": "Hand over a nearly done boat first. Then a half-done one. Then a plain sheet.",
      "ask": [
       {
-       "q": "What did you do to help your learner, that you do not do when you fold alone?",
+       "q": "What did you do to help your learner that you do not do when you fold alone?",
        "good": [
         "I slowed down.",
         "I waited when they were stuck.",
@@ -1124,7 +1124,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Compare the time your child took alone with the total time they took teaching. If you had two learners, compare how fast the taught learner and the watch-once learner folded a plain sheet. Ask what teaching cost the teacher, and what it gave the learner.",
+     "do": "Compare the time your child took alone with the total time they took teaching. Ask what teaching cost the teacher, and what it gave the learner.",
      "say": "How long did it take you alone? How long did it take to teach me? What did teaching cost you?",
      "kid": "Compare the two times. What did teaching cost you?",
      "check": {
@@ -1166,7 +1166,7 @@
     }
    ],
    "record": "A table with five rows. Each row has a name, a food or smell they avoid after one bad time, and how many tries it took to learn a skill like riding a cycle.",
-   "context": "In this activity you ask five people how many bad times it took before they started avoiding a food, and how many tries it took them to learn a skill. You look for which kind of learning is faster.",
+   "context": "In this activity you ask five people how many times a food made them unwell before they started avoiding it, and how many tries it took them to learn a skill. You look for which kind of learning is faster.",
    "setup": [
     {
      "art": "A child with a notebook asking a grandmother two questions while she holds a cup of tea.",
@@ -1181,9 +1181,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw a table with five rows and four columns. The columns are name, food or smell avoided, how many bad times it took to start avoiding it, and how many tries it took to learn a skill. Write the two questions at the top. Before asking, guess which kind of learning took fewer tries.",
-     "say": "Question one: Is there a food or smell you avoid because it once made you feel unwell? Question two: How many tries did it take you to learn a skill like riding a cycle?",
-     "kid": "Draw the table. Write two questions at the top.",
+     "do": "Make a table with five rows and four columns. The columns are name, food or smell avoided, how many bad times it took to start avoiding it, and how many tries it took to learn a skill. Write the two questions at the top. Before asking, guess which kind of learning took fewer tries.",
+     "say": "Question one: Is there a food or smell you avoid because it once made you feel unwell? Question two: How many tries did it take you to learn a skill like riding a cycle? Before we ask, which one do you think took fewer tries?",
+     "kid": "Make the table. Write two questions at the top. Guess which kind of learning took fewer tries.",
      "parent": "Tell your child to ask only people who are happy to answer, and not to ask for details of any illness. A food that once upset a stomach is enough.",
      "context": "In this step you set up the table for the family survey."
     },
@@ -1191,7 +1191,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Your child asks five people the two questions and writes the answers. For the food, ask how many times it made them unwell before they started avoiding it. For the skill, ask roughly how many tries it took.",
-     "say": "Ask each person the two questions. For the food, ask how many times it made them unwell before they started avoiding it. For the skill, ask roughly how many tries it took.",
+     "say": "Now ask five people our two questions. Write down what they tell you.",
      "kid": "Ask five people. Write how many times it took for each.",
      "ask": [
       {
@@ -1278,7 +1278,7 @@
      "what": "Draw a graph of the arrival times and say what you found."
     }
    ],
-   "record": "A table with seven rows: day, time food was put out, time the first visitor arrived, and who came. Then a line graph of the arrival times.",
+   "record": "A table with six rows: day, time food was put out, time the first visitor arrived, and who came. Then a line graph of the arrival times.",
    "context": "In this project you feed the same visitors at the same time for five days, then put out nothing on day six. You find out whether they come at the time anyway. It is for families with a balcony, ledge or garden where birds or squirrels visit.",
    "setup": [
     {
@@ -1291,7 +1291,7 @@
     },
     {
      "art": "A notebook page with a table of seven rows and a small line graph of arrival times beside it.",
-     "caption": "3. On day seven, draw a graph of the arrival times."
+     "caption": "3. After day six, draw a graph of the arrival times."
     }
    ],
    "flow": [
@@ -1299,7 +1299,7 @@
      "id": "s1",
      "mins": 25,
      "do": "Choose a ledge, balcony or garden spot that birds or squirrels already visit. Choose a time, such as 7:30 in the morning. For 20 minutes before that time, with no food out, write down who visits. Then put out the dish and water at that time. Write when the first visitor arrives.",
-     "say": "We will feed whoever visits, at exactly the same time every day. Then we will see if they learn the time. What do you think will happen? Why?",
+     "say": "We will feed whoever visits, at exactly the same time every day. Then we will see if they learn the time.",
      "kid": "Pick a ledge and a time. Put out rice and water. Write when anyone arrives.",
      "ask": [
       {
@@ -1338,7 +1338,7 @@
      "mins": 15,
      "do": "Draw a line graph with the day along the bottom and the arrival time up the side. Mark day six. Ask your child to say what they think happened, what the arrival times show, and why they think it happened.",
      "say": "What do you think happened? What do the arrival times show? Why do you think the visitors came, or did not come, on day six?",
-     "kid": "Draw a graph of the arrival times. Say what you saw and why.",
+     "kid": "Draw a graph of the arrival times, or just read the times out in order. Say what you saw and why.",
      "parent": "Scientists have shown that honeybees learn the time of day for a feeder. Ingeborg Beling did this in 1929. Birds and mammals do it too. Your result may be messier than hers, and that is fine. Say what you saw.",
      "context": "This is the last step of The Appointment. You draw the graph and say what you found."
     }
@@ -1375,12 +1375,12 @@
     "Add a rare sound that only comes once in a long while, to bring the attention back.",
     "Change the place you stand, as well as the sound, because the place can be new too."
    ],
-   "your_turn": "Sketch your pattern and test it on one volunteer, with the steady spoon on another. Compare the scores after 20 sounds. Which scores stayed higher for longer? Change one thing and test again.",
+   "your_turn": "Plan your pattern and test it on one volunteer, with the steady spoon on another. Compare the scores after 20 sounds. Which scores stayed higher for longer? Change one thing and test again.",
    "context": "This is a design challenge about getting used to sounds. You use what you learned in the Spoon Test to build a signal that people keep noticing.",
    "setup": [
     {
      "art": "A child sketching four sound ideas on paper, with small drawings of a plate, a bell, a tin and a clap, and a die beside them.",
-     "caption": "1. Sketch your sound pattern. Choose four sounds."
+     "caption": "1. Plan your sound pattern. Choose four sounds."
     },
     {
      "art": "A child rolling a die and ringing one of four sounds behind a volunteer who is doing a puzzle.",
@@ -1395,9 +1395,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Read the problem. Ask your child to choose four sounds from home and sketch a pattern for 20 sounds. They could use a die to choose each sound.",
-     "say": "A farmer's bird scarer made the same sound every ten minutes, and the birds stopped caring. How could you make a sound pattern that people keep noticing? Sketch some ideas first.",
-     "kid": "Choose four sounds from home. Sketch a pattern for 20 sounds.",
+     "do": "Read the problem. Ask your child to choose four sounds from home and plan a list of 20 sounds in order. They could use a die to choose each sound.",
+     "say": "A farmer's bird scarer made the same sound every ten minutes, and the birds stopped caring. How could you make a sound pattern that people keep noticing? Plan some ideas first.",
+     "kid": "Choose four sounds from home. Plan a list of 20 sounds in order.",
      "ask": [
       {
        "q": "Why did the birds stop caring about the scarer?",
@@ -1422,9 +1422,9 @@
     {
      "id": "s3",
      "mins": 9,
-     "do": "Draw a line graph of the scores for each volunteer. Compare the scores for sounds 10 to 20. Ask your child which pattern was ignored sooner, and why.",
+     "do": "Draw a line graph of the scores for each volunteer. Compare the scores for sounds 10 to 20. Ask your child which pattern was ignored sooner, and why. They can draw the graphs, or write the scores in two rows.",
      "say": "Look at the two graphs. Which volunteer started ignoring the sounds first? Why do you think so? What would you change?",
-     "kid": "Draw both graphs. Which pattern was ignored sooner? Why?",
+     "kid": "Draw both graphs, or write the scores in two rows. Which pattern was ignored sooner? Why?",
      "think": "Could a pattern ever be so unpredictable that nobody gets used to it?",
      "parent": "The pattern often keeps scores higher for longer, but it can also be ignored once all four sounds have been heard many times. The two volunteers are also different people, and that can change the scores. Say what you saw.",
      "context": "This is the last step of the Signal challenge. You compare the two graphs."

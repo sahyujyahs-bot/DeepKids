@@ -540,8 +540,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Draw the strip of nine squares and number them 0 to 8. Give each player a small token and a coin. Ask for a guess.",
-     "say": "A particle of oxygen wanders by chance. On heads it takes one step in. On tails it takes one step back. It starts outside. About how many flips will it take to reach square two, square four and square eight?",
-     "kid": "Oxygen wanders by chance. How many flips to reach squares 2, 4 and 8?",
+     "say": "A particle of oxygen wanders by chance. On heads it takes one step in. On tails it takes one step back. It starts outside. Square two is how far oxygen must go in a flat worm, square four in an ant, square eight in a crab. About how many flips will it take to reach each?",
+     "kid": "Oxygen wanders by chance, like your token. Heads, one step in. Tails, one step back.",
      "ask": [
       {
        "q": "Square 2 takes a few flips. How many do you think to reach square 4, and square 8?",
@@ -623,7 +623,7 @@
      "mins": 3,
      "do": "Add up the flips for each body. Write the totals, and compare. Ask the question below.",
      "say": "Look at your totals. When the trip got twice as long, how did the number of flips change? What did the pump do?",
-     "kid": "Compare your totals. What did doubling the distance do? What did the pump do?",
+     "kid": "Compare your totals for the worm, the ant and the crab.",
      "ask": [
       {
        "q": "When the distance doubled, how did the number of flips change?",
@@ -882,7 +882,7 @@
    ],
    "safety": "A grown-up must boil the agar and use the knife. Hot jelly burns like hot water. Food colour stains hands and clothes, so wear an old shirt. Do not eat the coloured jelly. Keep little ones away from the hot pan. Children measure with the ruler. The grown-up does all the cutting.",
    "record": "Fill in the table for each piece. Write the width of the coloured edge and the width of the clear middle in millimetres. Then write what you thought would happen, what you saw, and why it happened.",
-   "context": "In this test you make clear jelly, cut it into three shapes, and soak them in colour. You find out how far the colour creeps in after 10 minutes and after 40 minutes.",
+   "context": "In this test you make clear jelly, cut it into three shapes, and soak them in colour. You find out how far the colour creeps in after 10 minutes and after 40 minutes, and why a big body cannot just soak up air.",
    "setup": [
     {
      "art": "A pan of water on a stove with a spoon stirring in white agar powder, and a steel box ready beside it.",
@@ -907,7 +907,7 @@
      "mins": 5,
      "do": "Show your child the agar, the box and the food colour. Say that clear jelly will be cut into three shapes. Write down their guess and their reason.",
      "say": "We will make clear jelly. Then we will cut a thin slice, a small cube and a big cube. We will soak them in colour. Which piece will be coloured all the way through? Why do you think so?",
-     "kid": "We will soak pieces of jelly in colour. Which piece will be coloured all the way through? Why do you think so?",
+     "kid": "We will soak pieces of jelly in colour. Pick the piece you think will be coloured all the way through.",
      "ask": [
       {
        "q": "Why do you think that piece will be coloured all the way through?",
@@ -1034,7 +1034,7 @@
      "mins": 6,
      "do": "Compare the edge at 10 minutes and at 40 minutes on the big cube. Then ask your child to write what they thought would happen, what they saw, and why it happened.",
      "say": "Look at the big cube at ten minutes and at forty minutes. The time was four times as long. Was the edge four times as thick? What did you think would happen, what did you see, and why did it happen?",
-     "kid": "Compare the big cube at 10 and 40 minutes. Write what you thought would happen, what you saw, and why.",
+     "kid": "Compare the big cube at 10 and 40 minutes. Say or write what you thought would happen, what you saw, and why.",
      "ask": [
       {
        "q": "Was the edge four times thicker after four times as long?",
@@ -1113,7 +1113,7 @@
      "mins": 3,
      "do": "Show your child the three kinds of sugar. Ask for a guess and a reason.",
      "say": "We have the same amount of sugar three ways. One lump, a few bits and some powder. Which will vanish first in still water? Why do you think so?",
-     "kid": "The same sugar comes in three shapes. Which will vanish first? Why?",
+     "kid": "Look at the whole lump, the bits and the powder. Which will vanish first?",
      "ask": [
       {
        "q": "Why do you think that one will vanish first?",
@@ -1169,7 +1169,7 @@
      "id": "s4",
      "mins": 10,
      "do": "Repeat with fresh glasses, fresh water and fresh sugar. Write the second times in the table. Work out the average for each.",
-     "say": "Do it all again with new glasses. Why do you think we repeat it? Write the second times down.",
+     "say": "Do it all again with new glasses. Write the second times down.",
      "kid": "Do it again with new glasses. Write the new times.",
      "check": {
       "t": "mcq",
@@ -1189,7 +1189,7 @@
      "mins": 5,
      "do": "Ask your child to write what they thought would happen, what they saw, and why it happened. Then ask the question below.",
      "say": "What did you think would happen, what did you see, and why did it happen? A crab's gill is shaped like a feather, not like a lump. Why might that help?",
-     "kid": "Write what you thought would happen, what you saw, and why. Why is a gill shaped like a feather?",
+     "kid": "Say or write what you thought would happen, what you saw, and why.",
      "ask": [
       {
        "q": "Why might a crab's gill be shaped like a feather and not like a lump?",
@@ -1244,7 +1244,7 @@
     }
    ],
    "safety": "The warm water must be comfortable to touch, not hot. A grown-up should pour any water from a kettle. Wipe spills so nobody slips.",
-   "record": "In each box of the table, write in words what you see: colour in a streak, colour at the bottom, colour spread evenly, and so on. Draw each glass after 10 minutes.",
+   "record": "In each box of the table, write in words what you see: colour in a streak, colour at the bottom, colour spread evenly, and so on. Take a photo of each glass after 10 minutes, or draw it.",
    "context": "In this test you put colour in still and stirred water and watch how it spreads, to see why crabs and prawns pump water over their gills.",
    "setup": [
     {
@@ -1270,7 +1270,7 @@
      "mins": 3,
      "do": "Show your child the three glasses. Glass A is cold and still. Glass B is warm and still. Glass C is cold and will be stirred. Ask for a guess and a reason.",
      "say": "One drop of colour goes in each glass. One cold and still, one warm and still, one cold and stirred. Which will have an even colour first? Why do you think so?",
-     "kid": "We put colour in three glasses. Which one will be an even colour first? Why?",
+     "kid": "Three glasses: cold still, warm still, cold stirred. Which will be even first?",
      "ask": [
       {
        "q": "Why do you think that glass will be even first?",
@@ -1316,7 +1316,7 @@
     {
      "id": "s4",
      "mins": 12,
-     "do": "Look at the glasses after 1 minute, after 5 minutes and after 10 minutes. Write what you see in words. Draw each glass at 10 minutes. For glass C, also write how many seconds it took until no streaks were left.",
+     "do": "Look at the glasses after 1 minute, after 5 minutes and after 10 minutes. Write what you see in words. Take a photo of each glass at 10 minutes, or draw it. For glass C, also write how many seconds it took until no streaks were left.",
      "say": "Look after one minute, five minutes and ten minutes. Is the colour a streak, a cloud or even? Write it down.",
      "kid": "Look at each glass after 1, 5 and 10 minutes. Write what you see.",
      "ask": [
@@ -1336,7 +1336,7 @@
      "mins": 5,
      "do": "Ask your child to write what they thought would happen, what they saw, and why it happened. Then ask the question below.",
      "say": "What did you think would happen, what did you see, and why did it happen? A crab beats a flap near her mouth to pull water over her gills. Why would that help her?",
-     "kid": "Write what you thought would happen, what you saw, and why. How does moving water help a crab?",
+     "kid": "Say or write what you thought would happen, what you saw, and why.",
      "ask": [
       {
        "q": "How could moving water help a crab with her gills?",
@@ -1374,7 +1374,7 @@
      "qty": 1
     }
    ],
-   "context": "In this activity you draw squares as flat 'bodies'. The edge cells touch the air, and the middle cells are far from it. You count each kind.",
+   "context": "In this activity you make squares as flat 'bodies'. You find out how much of a body is near the edge, and how much is far inside. The edge cells touch the air, and the middle cells are far from it. You count each kind.",
    "setup": [
     {
      "art": "Four squares drawn on squared paper, 2, 4, 6 and 8 squares wide, side by side.",
@@ -1394,11 +1394,11 @@
      "id": "s1",
      "mins": 3,
      "do": "Show your child the squared paper. Explain that each square you draw is a flat body made of cells. You will colour the cells at the edge red, because they touch the air. You will colour the cells in the middle blue, because they do not. Ask for a guess.",
-     "say": "Each square is a flat animal made of cells. Cells at the edge touch the air. Cells in the middle do not. As the animal gets wider, which will grow faster, the edge or the middle?",
-     "kid": "Each square is a flat animal made of cells. As she gets wider, which grows faster, the edge or the middle?",
+     "say": "Each square is a flat animal made of cells. Cells at the edge touch the air. Cells in the middle do not. As the animal gets wider, which will grow in number faster, the edge cells or the middle cells?",
+     "kid": "Each square is a flat animal made of cells. Edge cells touch the air. Middle cells do not.",
      "ask": [
       {
-       "q": "When the animal gets wider, which grows faster, the edge cells or the middle cells? Why?",
+       "q": "When the animal gets wider, which grows in number faster, the edge cells or the middle cells? Why?",
        "good": [
         "The middle, because it grows wider and also taller, while the edge is only one thin ring.",
         "The edge, because it is on the outside."
@@ -1411,9 +1411,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Draw four squares: 2 cells wide, 4 cells wide, 6 cells wide and 8 cells wide. Colour the outside ring of cells red. Colour all the cells inside the ring blue. The smallest square is all red.",
-     "say": "Draw four squares. They are two, four, six and eight cells wide. Colour the outside ring red. Colour the middle blue.",
-     "kid": "Draw squares 2, 4, 6 and 8 cells wide. Colour the edge red and the middle blue.",
+     "do": "Draw four squares: 2 cells wide, 4 cells wide, 6 cells wide and 8 cells wide. Colour the outside ring of cells red. Colour all the cells inside the ring blue. Or build them from two kinds of buttons or coins, one for the ring and one for the inside. The smallest square is all red.",
+     "say": "Make four squares. They are two, four, six and eight cells wide. Colour the outside ring red and the middle blue. You can draw them, or build them from two kinds of buttons or coins.",
+     "kid": "Make squares 2, 4, 6 and 8 cells wide. Edge red, middle blue.",
      "parent": "A 2 by 2 square has no middle at all. That is correct. If counting is slow, let your child count along a row and use the rule: ring = 4 times the width minus 4. One child: draw all four squares. Two to four children: each child draws one or two sizes, then swap pages and check each other's counts before filling the table together.",
      "context": "In this step, you draw and colour the squares."
     },
@@ -1450,7 +1450,7 @@
      "mins": 4,
      "do": "Ask your child what the blue middle cells would need if they were real cells. Use the numbers in the table to help.",
      "say": "Pretend each cell needs air all the time, and air only comes in from the edge. In the biggest square, what do the blue cells need?",
-     "kid": "The blue cells are far from the air. What do they need?",
+     "kid": "Look at the blue cells in the biggest square. They are far from the air.",
      "ask": [
       {
        "q": "What could help the blue cells get air?",
@@ -1503,7 +1503,7 @@
      "mins": 3,
      "do": "Give your child eight cubes. Ask them to guess which shape will have the most faces touching the air.",
      "say": "Here are eight cubes. We will build them four ways. Which way will have the most faces touching the air? Why do you think so?",
-     "kid": "You will build eight cubes into four shapes. Which shape has the most faces touching the air? Why?",
+     "kid": "Build the cubes into four shapes. Count the faces that touch the air.",
      "ask": [
       {
        "q": "Which shape do you think has the most faces touching the air, and why?",
@@ -1550,7 +1550,7 @@
      "mins": 4,
      "do": "Ask your child which shape is most like a crab's gill and which most like a solid lump. Ask why a gill is feathery.",
      "say": "The same cubes gave a lot more outside when spread out. A crab's gill is a bit like the spread out cubes. Why might that help a crab?",
-     "kid": "The same cubes had more outside when they were spread apart. Why are gills spread out like that?",
+     "kid": "Put the spread-out cubes next to the solid block. Which one is more like a gill?",
      "ask": [
       {
        "q": "Why is a gill feathery and not a solid lump?",
@@ -1585,7 +1585,7 @@
     }
    ],
    "safety": "A grown-up should sprinkle the powder low over the water, away from faces. Do not blow on it or breathe it in, because cinnamon, pepper and baby powder can irritate eyes, noses and lungs. Wash hands afterwards.",
-   "context": "In this activity a finger carries a layer of air under water. Some water beetles and water bugs carry air in just this way.",
+   "context": "In this activity a finger carries a layer of air under water. Some water beetles and water bugs carry air in just this way. You will find out how a finger, and a beetle, can take air under water.",
    "setup": [
     {
      "art": "A bowl of water with a thin dusting of white powder floating on the surface.",
@@ -1606,7 +1606,7 @@
      "mins": 3,
      "do": "Show your child the bowl and the powder. Ask what will happen to a finger pushed through the powder and into the water.",
      "say": "I will sprinkle a little powder on the water. You will push one finger through it. What do you think your finger will look like under the water? Will it come out wet or dry? Why do you think so?",
-     "kid": "You will push a finger through powder and into water. Will it come out wet or dry? Why?",
+     "kid": "You will push a finger through powder and into water.",
      "ask": [
       {
        "q": "Do you think your finger will come out wet or dry? Why?",
@@ -1625,7 +1625,7 @@
      "mins": 5,
      "do": "A grown-up sprinkles a thin, even dusting of powder on the water, enough that the whole surface looks dusty. Push a finger slowly down through the powder and into the water. Look at it from the side.",
      "say": "Push your finger slowly down through the powder. Look at it from the side. What do you see around it?",
-     "kid": "Push a finger down slowly. Look from the side. What do you see?",
+     "kid": "Push a finger down slowly. Look at it from the side.",
      "ask": [
       {
        "q": "What do you see around your finger under the water?",
@@ -1692,7 +1692,7 @@
     }
    ],
    "safety": "A grown-up goes with you to the stall. Do not touch live crab claws. Floors at fish stalls are wet and slippery, so hold a grown-up's hand. Ask the seller before touching anything, and wash your hands afterwards. If anyone in the family has a shellfish allergy, or you do not eat fish, use pictures instead.",
-   "context": "In this activity you look for gills on a crab, a prawn or a fish, at a fish stall or in pictures, and compare them with an ant's breathing holes.",
+   "context": "In this activity you find out what gills look like and why they are not a lump. You look for gills on a crab, a prawn or a fish, at a fish stall or in pictures, and compare them with an ant's breathing holes.",
    "setup": [
     {
      "art": "A child with a grown-up at a fish stall looking at a crab on a tray.",
@@ -1704,7 +1704,7 @@
     },
     {
      "art": "A drawing of a crab's gills with labels for gill, shell and leg.",
-     "caption": "3. Draw and label what you see."
+     "caption": "3. Tell, or draw and label, what you see."
     }
    ],
    "flow": [
@@ -1713,7 +1713,7 @@
      "mins": 3,
      "do": "Tell your child that today you will look for gills. Ask where they think a crab's gills are.",
      "say": "A crab has gills, but you cannot see them from outside. Where do you think they are hidden? Why?",
-     "kid": "Where are a crab's gills hidden? Why do you think so?",
+     "kid": "Point to where you think the gills are on a crab, or on its picture.",
      "ask": [
       {
        "q": "Where do you think a crab keeps her gills?",
@@ -1733,7 +1733,7 @@
      "mins": 12,
      "do": "At the stall, ask the seller if they can lift the side of the shell on a crab that has died. Look at the gills with the magnifier. Count how many thin leaves you can see in one row of the crab's gill (a rough count is fine). Look at a prawn, a mussel or a fish too, and compare.",
      "say": "Look at the gills. Are they smooth or feathery? What colour are they? Do they look like a lump or a comb?",
-     "kid": "Look at the gills. Are they feathery? Draw one.",
+     "kid": "Look at the gills. Count the thin leaves in one row.",
      "ask": [
       {
        "q": "What do the gills look like?",
@@ -1750,9 +1750,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Back home, draw what you saw and label it: gill, shell, leg. Then ask your child to compare the crab with an ant. Where does each one get air?",
-     "say": "Draw the gills and label them. An ant has no gills. Where does an ant get air, and how is she different from a crab?",
-     "kid": "Draw the gills. How is an ant different from a crab?",
+     "do": "Back home, tell your grown-up what you saw, or draw it and label it: gill, shell, leg. Then ask your child to compare the crab with an ant. Where does each one get air?",
+     "say": "Tell me about the gills you saw, or draw and label them. An ant has no gills. Where does an ant get air?",
+     "kid": "Say or draw what you saw. Think about how an ant breathes.",
      "ask": [
       {
        "q": "How does an ant get air differently from a crab?",
@@ -1800,7 +1800,7 @@
      "qty": 1
     }
    ],
-   "context": "In this activity you move coloured water two ways: pushed through a pipe, like closed blood, and soaked through a sponge, like open blood.",
+   "context": "In this activity you find out which way is faster. You move coloured water two ways: pushed through a pipe, like closed blood, and soaked through a sponge, like open blood.",
    "setup": [
     {
      "art": "A syringe full of red water joined to a straw with a clay seal, and the straw's far end over a cup.",
@@ -1821,7 +1821,7 @@
      "mins": 3,
      "do": "Show your child the straw and the sponge pieces. Ask which will carry colour to the far end faster, and why.",
      "say": "One way pushes colour through a pipe. One way lets it soak through sponge. Which gets to the far end first? Why do you think so?",
-     "kid": "Which carries colour to the far end faster, a pipe or a sponge? Why?",
+     "kid": "Look at the straw (a pipe) and the sponge. Think about how colour will travel along each.",
      "ask": [
       {
        "q": "Which do you think is faster, and why?",
@@ -1867,7 +1867,7 @@
      "mins": 4,
      "do": "Ask your child why an ant can manage with open blood, but a large animal that runs fast cannot.",
      "say": "Open blood reaches every part, but slowly. An ant is tiny. Why might open blood be good enough for an ant?",
-     "kid": "Open blood is slow. Why is it good enough for an ant?",
+     "kid": "Open blood is slow. Think about how small an ant is.",
      "ask": [
       {
        "q": "Why might open blood be good enough for an ant?",
@@ -1925,8 +1925,8 @@
      "what": "Make the model and test it. Then block some of the tubes and compare what happens."
     }
    ],
-   "record": "Draw the model. Mark which paper strips moved when you blew, and which did not. Write one sentence on what each part of the model stands for.",
-   "context": "In this project you make a model of an insect's air tubes. You blow into one end, and see if a flutter reaches every paper strip at the end of a branch.",
+   "record": "Take a photo of the model, or draw it. Mark which paper strips moved when you blew, and which did not. Write one sentence on what each part of the model stands for.",
+   "context": "In this project you make a model of an insect's air tubes. You find out whether air can reach every part of the body through branching tubes. You blow into one end, and see if a flutter reaches every paper strip at the end of a branch.",
    "setup": [
     {
      "art": "A cardboard roll with four holes poked along its side, 4 centimetres apart.",
@@ -1950,8 +1950,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the roll, the straws and the paper strips. Ask what will happen to the strips when they blow in at one end.",
-     "say": "This roll is the main air tube. The straws are branches. The paper strips are the cells that need air. If I blow into the roll, what will happen to the strips? Why do you think so?",
-     "kid": "This roll has straws as branches. If you blow in, what will happen to the paper strips? Why?",
+     "say": "This is a model of an insect's air tubes. If I blow into the roll, what will happen to the strips? Why do you think so?",
+     "kid": "The roll is the main air tube. The straws are branches. The paper strips are the cells that need air.",
      "ask": [
       {
        "q": "Do you think all four strips will move? Why?",
@@ -1979,7 +1979,7 @@
      "mins": 8,
      "do": "Blow gently into the open end of the roll. Watch the four paper strips. Try it three times. Write down which strips moved each time, and give each a score: big lift, small lift or none.",
      "say": "Blow in gently. Watch all four strips. Do they all move? Try it three times.",
-     "kid": "Blow into the roll. Do all four strips move?",
+     "kid": "Blow into the roll. Watch the strips.",
      "ask": [
       {
        "q": "Did air reach all four strips? What does this tell you about branching tubes?",
@@ -2054,7 +2054,7 @@
     "Use a cup to scoop water from the coloured end and pour it at the clear end, again and again.",
     "Make a little waterfall from a paper cup with a hole in it, held above the bowl. A grown-up pokes the hole."
    ],
-   "your_turn": "Sketch two or three designs first. Test each and time it. Change one thing, such as the speed or the place, and test again. Which design mixed the colour fastest? Why do you think so?",
+   "your_turn": "Plan two or three designs first. Say them or sketch them. Test each and time it. Change one thing, such as the speed or the place, and test again. Which design mixed the colour fastest? Why do you think so?",
    "context": "This is a design challenge about moving water. You find a way to spread colour across a bowl, as a crab moves water over her gills.",
    "setup": [
     {
@@ -2074,9 +2074,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Ask your child to sketch two or three different ways to mix the colour without touching the water.",
-     "say": "A crab moves water with a flap near her mouth. We want to move water across this bowl. How could you do it? Draw some ideas first.",
-     "kid": "Draw some ways to move the water across the bowl.",
+     "do": "Read the problem together. Ask your child to say or sketch two or three different ways to mix the colour without touching the water.",
+     "say": "A crab moves water with a flap near her mouth. We want to move water across this bowl. How could you do it? Say some ideas, or draw them first.",
+     "kid": "Say or draw some ways to move the water across the bowl.",
      "ask": [
       {
        "q": "What would move the water?",
@@ -2118,9 +2118,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child how their design is like a crab's gill bailer, and how it is not.",
-     "say": "How is your design like a crab's gill bailer? How is it different?",
-     "kid": "How is your design like a crab's gill bailer?",
+     "do": "Ask your child how their design is like the crab's flap, and how it is not.",
+     "say": "How is your design like the crab's flap? How is it different?",
+     "kid": "Say how your design is like the crab's flap.",
      "think": "What does a crab do when the tide goes out, and the water stands still?",
      "context": "In this step, you compare your design with a crab."
     }
@@ -2153,8 +2153,8 @@
     "Give her flat, thin wings that carry air tubes of their own.",
     "Make her live in water, with a long breathing tube like a snorkel."
    ],
-   "your_turn": "Draw your giant insect and mark where every cell can get air. Then ask what would go wrong if you made her twice as long. Do you need more tubes, a bigger pump, or something else?",
-   "context": "This is a design challenge about size and breathing. You draw a giant insect and show how air can reach all of her.",
+   "your_turn": "Draw or build your giant insect and mark where every cell can get air. Then ask what would go wrong if you made her twice as long. Do you need more tubes, a bigger pump, or something else?",
+   "context": "This is a design challenge about size and breathing. You draw a giant insect and show how air can reach all of her. You find out why a big insect needs more tubes than an ant.",
    "setup": [
     {
      "art": "A large outline of an insect 25 centimetres long drawn on paper, with a ruler beside it.",
@@ -2175,7 +2175,7 @@
      "mins": 5,
      "do": "Read the problem together. Ask your child to say what a giant insect would need that a tiny ant does not.",
      "say": "An ant is tiny. This insect is as long as your arm. Tubes that work for an ant might not work for her. What might she need?",
-     "kid": "A giant insect needs more than an ant does. What does she need?",
+     "kid": "An ant is tiny. This insect is as long as your arm.",
      "ask": [
       {
        "q": "What might a giant insect need that an ant does not?",
@@ -2191,9 +2191,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Draw the insect. Mark spiracles, main tubes, branches and a pump. Write one sentence under each part saying what it does.",
-     "say": "Draw your insect. Draw her spiracles, her tubes and her pump. Write one sentence for each part.",
-     "kid": "Draw the insect. Add spiracles, tubes and a pump. Write what each does.",
+     "do": "Draw the insect, or build her from clay and straws. Mark spiracles (the small holes where air goes in), main tubes, branches and a pump. Say or write one sentence for each part about what it does.",
+     "say": "Draw your insect, or build her from clay and straws. Show her spiracles, her tubes and her pump. Say what each part does.",
+     "kid": "Make the insect. Add spiracles, tubes and a pump. Say what each does.",
      "context": "In this step, you design your insect.",
      "parent": "If there are several children, each draws their own giant insect. Then they compare how many spiracles and tubes each one needed."
     },

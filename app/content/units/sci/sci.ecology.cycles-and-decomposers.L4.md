@@ -219,9 +219,9 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take four tokens.
   - Note: The game suits one child with a parent, or 2 to 4 children. A lone child plays against the cards. For fewer than 4 players, put the spare tokens away. Fold each card down the middle so the front is on one side and the back on the other, or glue the sheets back to back. A Scavenger finds dead animals and eats them. A Shredder chews dead things small. A Digester pours on enzymes. Nobody yet means no cleanup crew can eat it.
 - **s2 (12 min)**  
-  *Parent does:* Play the game with the rules. The reader reads a card. The others pick a token. Turn over the tokens together and read the back. Ask for a reason each time.  
-  *Parent says:* Read the front of the card. Do not show the back. Everyone, pick a token. Why did you pick that one? Then I will read the back.  
-  *Child mode:* Read a card. Everyone picks a token. Say why. Then check the back.
+  *Parent does:* Take turns to be the reader. The reader reads a card. The others pick a token. Turn over the tokens together and read the back. Ask for a reason each time.  
+  *Parent says:* I read the front of the card, not the back. Pick a token. Tell me why. Then I read the back.  
+  *Child mode:* Pick the crew you think comes to eat.
   - Ask: Why does plastic get 'Nobody yet'? (good: Microbes do not have enzymes that fit it.; It is too new for any decomposer.)
   - Ask: Why is a termite a Shredder, even though microbes help her? (good: She chews the wood small.; She is an animal who eats dead things.)
   - Note: Stop and talk about any card that is hard. A termite is a Shredder (detritivore) who also has microbes in her gut, so the card makes a good talking point. If time is short, play 12 cards. Keep the score light. Learning from the backs is the point.
@@ -229,7 +229,7 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 - **s3 (5 min)**  
   *Parent does:* Count the scores. Ask your child which crew they found hardest to spot, and which cards surprised them.  
   *Parent says:* Which card surprised you most? Which crew was hardest to tell apart? Why?  
-  *Child mode:* Which card surprised you most? Which crew was hardest?
+  *Child mode:* Find the card that surprised you most and show it.
   - Note: The 'Nobody yet' cards are plastic, glass, foam and steel. None of them is made by a plant or an animal, so no cleanup crew can eat them.
   - Think: Which cards have 'Nobody yet'? What do they have in common?
 
@@ -239,13 +239,13 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 - **predict:** Guess first. Jar A has soil and peel in a warm room. Jar B has the same, but sits in the fridge. Jar C has only air. After a day, which limewater will turn milky, and which will stay clear? Why do you think so?
 - **fair test:** Jars A and B have the same soil, the same peel, the same water and the same limewater. Only the place changes: a warm room for A and a fridge for B. Jar C has only air and limewater, so it shows what limewater does with no soil at all.
 - **safety:** Chuna can burn skin and eyes. Only a grown-up handles it. Never taste chuna or limewater. If any splashes in an eye, rinse with plenty of clean water for several minutes and call a doctor. Blow out through the straw only, never suck. Keep jar B sealed, labelled, and on a separate fridge shelf away from food. Wash hands after touching soil and jars. Open the jars outdoors or near a window, because they may smell, and do not put your nose inside. Glass jars can break: a grown-up carries them. With 2 to 4 children, only the grown-up handles chuna and limewater.
-- **record:** Draw the three jars. For each katori write a milkiness score after 1 day and after 2 days: 0 clear, 1 faint cloud or thin skin, 2 cloudy, 3 milky. Mark which jar sat in the fridge.
+- **record:** For each katori write a milkiness score after 1 day and after 2 days: 0 clear, 1 faint cloud or thin skin, 2 cloudy, 3 milky. Mark which jar sat in the fridge.
 - **results table:** Jar | What is in it and where it sits | Limewater after 1 day | Limewater after 2 days
 - **schedule:** day 1: Guess. Make the limewater. Set up the three jars and seal the katoris in. (30 min); day 2: Look at the limewater in each katori in the evening and the next day. Score it and explain. Look once more on day 3 if the colours are unclear. (15 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child the three jars and the chuna. Say that limewater turns milky when carbon dioxide is added. Ask for a guess and a reason for each jar. Write them down.  
-  *Parent says:* We will set up three jars. Jar A has soil and peel, and stays in the warm room. Jar B has the same, but goes in the fridge. Jar C has only air. Which limewater will turn milky? Why do you think so?  
-  *Child mode:* We set up three jars. Which jar's limewater will turn milky? Why do you think so?
+  *Parent says:* We will set up three jars. Jar A has soil and peel, and stays in the warm room. Jar B has the same, but goes in the fridge. Jar C has only air.  
+  *Child mode:* Look at the three jars. Think about what each one will do.
   - Ask: Which jar do you think will turn the limewater milky first, and why? (good: Jar A, because the soil has living things in it.; Jar A, because it is warm.; None, because soil does not make gas.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses on the results table. Your child met limewater in the animal breathing unit, if you have done it. If not, a quick breath test through a straw will show it in step 4. One child with a parent: the child predicts and scores, the parent handles chuna. Two to four children: each child is the keeper of one jar and scores it, or each pair makes its own set of three jars (jars and soil are free). The grown-up makes one jug of limewater for all.
 - **s2 (5 min) · grown-up needed**  
@@ -255,7 +255,7 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
   - Note: Edible chuna is calcium hydroxide. The clear water on top is limewater. If the water is still cloudy after an hour, wait a little longer. For the best result, make it the evening before. Strain the clear water through a clean cloth or coffee filter if it stays cloudy. Keep the jug covered, because room air slowly turns the top of the limewater milky.
 - **s3 (10 min)**  
   *Parent does:* Label the jars A, B and C. Put 4 tablespoons of soil into jar A and jar B. Add 1 tablespoon of finely chopped peel to each. Stir half a teaspoon of jaggery into 2 tablespoons of water and sprinkle half of it over each soil jar. Leave jar C with only air.  
-  *Parent says:* Put soil in jars A and B. Add the chopped peel and the jaggery water. Do not put anything in jar C. It is our check on what the limewater does with only air.  
+  *Parent says:* Put soil in jars A and B. Add the chopped peel and the jaggery water. Jar C gets nothing.  
   *Child mode:* Put soil and peel in jars A and B. Jar C stays empty.
   - Ask: Why does jar C have no soil in it? (good: It shows what happens with only air.; It is the fair comparison.; So we know the milky colour comes from the soil.)
   - Note: Chop the peel as fine as you can, because small pieces rot faster. Do not pack the soil down. The soil needs to be damp but not muddy. The jaggery is food for the soil microbes and makes the result quick and clear. Both soil jars get the same. The jars will smell a little sweet and sour in a day. That is normal.
@@ -263,12 +263,12 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 - **s4 (8 min) · grown-up needed**  
   *Parent does:* Pour a little limewater into a clear glass. Blow into it through a straw. It should turn milky. If it does, pour 2 tablespoons of clear limewater into each katori. Stand one katori in each jar and close the lids at once. Put jar B in the fridge.  
   *Parent says:* First check your limewater by blowing through a straw. If it turns milky, it works. Then fill the three katoris, stand one in each jar, and close the lids quickly. Jar B goes in the fridge.  
-  *Child mode:* Blow into the limewater. It turns milky. Fill three katoris, put one in each jar, close the lids.
+  *Child mode:* Blow into a little limewater to test it. Then put a katori in each jar and close the lids.
   - Note: Do not let the limewater touch the soil. Keep the powder at the bottom of the jug and pour only the clear water. If the breath test does not turn milky, the chuna may be old. Make a new jug, using a bigger spoon. Put jars A and C in a warm spot out of the sun, such as a kitchen shelf. Use jars with tight lids. If a lid is loose, put a layer of cling film under it. If your room is cold, jar A may be slow.
 - **s5 (12 min)**  
   *Parent does:* Look at each katori the same evening and the next day. A grown-up lifts out each katori, one at a time. Look in good light, score it 0 to 3 and write it down. Look again the day after.  
-  *Parent says:* Look at each katori. Is the limewater clear, a little cloudy, or milky? Write it down. Then tell me what you thought would happen, what you saw, and why you think it happened.  
-  *Child mode:* Look at each katori. Write clear, cloudy or milky. Say what you thought, what you saw, and why.
+  *Parent says:* Look at each katori. Look in good light. Tell me what you thought would happen, what you saw, and why you think it happened.  
+  *Child mode:* Look at each katori. Is it clear, cloudy or milky?
   - Ask: What gas do you think made the limewater milky? Where did it come from? (good: Carbon dioxide.; From the soil and the peel.; Something in the soil was breathing.)
   - Note: Jar A is usually cloudy or milky within a day (2 to 3 on the scale). Jar C stays clear, apart from a faint skin on top. Jar B is usually less milky than A, or turns later. A fridge does not stop microbes. It only slows them. If jar A is still clear after 2 days, the soil may be very dry, old or from sterile bagged mix, or the limewater may be too weak. Remake the limewater with a bigger spoon of chuna, use soil from a garden, add another tablespoon of peel and a spoon of water, move the jar somewhere warmer, and look again in a day. A clear result is a result too: ask your child why the test might have failed. Do not explain yet. Let your child say what they saw. Then explain: tiny living things in the soil, the decomposers, eat the peel and breathe out carbon dioxide. The cold slows them down.
   - Check: Jar A turned milky and jar C stayed clear. What does this show? → **The soil and peel gave out carbon dioxide**
@@ -278,13 +278,13 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 - **predict:** Guess first. Which piece will go soft, smell, or grow mould first: the whole piece, the chopped pieces, or the grated carrot? Which will last longest? Why do you think so?
 - **fair test:** All three portions are cut from the thick end of the same carrot, so they weigh about the same (a kitchen scale, if you have one, shows it). Each goes in the same kind of box with the same damp tissue, on the same shelf. Only the size of the pieces changes, so any difference comes from the size.
 - **safety:** A grown-up uses the knife and the grater. Do not open the boxes once they have fuzzy mould on them, because the spores can make some people sneeze or cough. Look through the clear lid. A grown-up wraps the boxes in a bag and puts them in the bin when the test is over. Wash hands after. Anyone with asthma or a mould allergy should not open the boxes or smell them closely. A grown-up does it.
-- **record:** Each day, give each box a score: 0 for no change, 1 for a smell or a soft spot, 2 for slime or a little fuzz, 3 for mostly soft and fuzzy. Write the scores in the table. Draw a line for each carrot over the six days.
+- **record:** Each day, give each box a score: 0 for no change, 1 for a smell or a soft spot, 2 for slime or a little fuzz, 3 for mostly soft and fuzzy. Write the scores in the table. Draw a line for each carrot over the six days, or just read across the table.
 - **results table:** Carrot | Day 1 score | Day 2 score | Day 3 score | Day 4 score | Day 5 score | Day 6 score
 - **schedule:** day 1: Guess. Cut the carrot. Set up the three boxes. (15 min); day 2: Look at each box through the lid. Score it from 0 to 3. (3 min); day 3: Look and score. (3 min); day 4: Look and score. (3 min); day 5: Look and score. (3 min); day 6: Look and score. Draw the graph. Say what you thought, what you saw, and why. (8 min)
 - **s1 (4 min)**  
   *Parent does:* Show your child the carrot. Say that you will cut it into three pieces of the same weight and treat them in three ways. Ask for a guess and a reason. Write them down.  
-  *Parent says:* We will cut three pieces of the same weight from one carrot. One piece stays whole. One is chopped small. One is grated. Which will rot first? Which will last longest? Why do you think so?  
-  *Child mode:* We cut one carrot three ways: whole, chopped and grated. Which will rot first? Why?
+  *Parent says:* We will cut three pieces of the same weight from one carrot. One piece stays whole. One is chopped small. One is grated. Which will rot first? Which will last longest?  
+  *Child mode:* Look at the three ways to cut the carrot. Make a guess.
   - Ask: Why do you think that one will rot first? (good: It is in the smallest bits.; More of it is open to the air.; There is more for the mould to touch.)
   - Note: Do not correct the guess. Any guess with a reason is good. Some children guess that the whole carrot will rot first because it is bigger. Write it down and let the test answer it. One child: the child scores and draws the graph, the parent cuts. Two to four children: one child helps the grown-up cut, one fills the boxes and one scores each day. Or each child makes their own three boxes from a thick-end carrot of their own (carrots are cheap).
 - **s2 (10 min)**  
@@ -300,9 +300,9 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
   - Ask: What changed in the grated carrot since yesterday? (good: It got softer.; It changed colour.; It smells sour.; There is white fuzz.)
   - Note: The grated carrot usually goes first, often around day 2 to 4, with a smell and slime or white fuzz. The chopped cubes follow a day or two later. The whole piece is slowest and may only soften at the end, or get a bit of fuzz at the cut end. Results vary with the warmth of your room. In cold or dry weather it can be slower. If nothing changes by day 4, leave the boxes for 3 more days. If all three rot at the same time, check that the boxes sit in the same place.
 - **s4 (10 min)**  
-  *Parent does:* On the last day, line the three boxes up. Draw a line graph of the scores for each carrot. Ask your child to say what they thought, what they saw, and why.  
+  *Parent does:* On the last day, line the three boxes up. Plot a line graph of the scores for each carrot, or just compare the numbers in the table. Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Line up the boxes and look at your graph. Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Line up the boxes. Draw the scores. Say what you thought, what you saw, and why.
+  *Child mode:* Line up the boxes. Plot the scores, or compare them in the table.
   - Note: A strong answer says that the grated carrot had the most surface, so more mould and bacteria could land on it and eat it. After your child has explained, add: this is why earthworms and millipedes help. They chew leaves small, and every bit gives the fungi new surface. When the test is over, a grown-up closes the boxes inside a bag and puts them in the dustbin.
   - Check: The grated carrot rotted first. What is the best reason? → **Cutting made more surface for decomposers to work on**
   - Think: Why would a whole carrot in the ground last longer than a grated one?
@@ -310,39 +310,39 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 ## Activities
 ### a1 · Soil Detective: what is in one spoon of soil? (20 min)
 - **safety:** Wash hands after touching soil. Do not put soil near your face.
-- **record:** A drawing of the soil on the plate. Label the dead bits, the white threads, the tiny animals and the bits of rock or sand. A tally of how many of each kind you found in each soil.
+- **record:** A photo or a drawing of the soil on the plate. Label the dead bits, the white threads, the tiny animals and the bits of rock or sand. A tally of how many of each kind you found in each soil.
 - **s1 (5 min)**  
   *Parent does:* Spread one spoon of pot soil on one half of the plate. Spread one spoon of garden soil on the other half. Look without touching and say what you notice. Say what you wonder.  
-  *Parent says:* Look at the soil on the plate. What do you notice? What do you wonder? Is anything in it alive?  
-  *Child mode:* Look at the soil. What do you notice? What do you wonder?
+  *Parent says:* Look at the soil on the plate. What do you notice? What do you wonder?  
+  *Child mode:* Look at the soil without touching it.
   - Ask: What do you think the dark bits are? (good: Dead leaves.; Little bits of plants.; Old roots.)
   - Ask: Do you think anything in here is alive? (good: Maybe tiny insects.; I do not know.)
   - Note: Do not explain yet. Write down what your child notices and wonders. Pot soil is fine, and so is soil from a park or a garden. Two to four children: share the plate and the lens in turns, and each child draws one kind of find. Each child makes a tally of what they find.
 - **s2 (10 min)**  
-  *Parent does:* Use the toothpick to move the bits apart. Look with the lens. Find three kinds of things: dead bits of plant, white or grey threads, and tiny animals. Draw each kind you find. Make a tally mark for each find, and compare the two soils.  
-  *Parent says:* Move the bits apart gently. Look for dead plant pieces. Look for fine white threads. Look for any tiny animals. Draw what you find.  
-  *Child mode:* Move the soil bits apart. Find dead bits, white threads and tiny animals. Draw them.
+  *Parent does:* Use the toothpick to move the bits apart. Look with the lens. Find three kinds of things: dead bits of plant, white or grey threads, and tiny animals. Move each find to its own heap at the edge of the plate. Make a tally mark for each find, and compare the two soils.  
+  *Parent says:* Move the bits apart gently. Look for dead plant pieces. Look for fine white threads. Look for any tiny animals. Put each kind in its own heap.  
+  *Child mode:* Move the soil bits apart. Find dead bits, white threads and tiny animals. Sort them into heaps.
   - Note: You may find pale threads (fungus), small dead leaf pieces, bits of root, and sometimes tiny white or brown animals such as springtails or mites. Pot soil may have few animals. That is normal. Garden or tree-base soil usually shows more animals and threads than pot soil, so the tally is a real comparison, though a dry spot may show little. Put the animals back in the soil after looking.
   - Check: What are the white threads in soil most likely to be? → **A fungus growing through the soil**
 - **s3 (5 min)**  
   *Parent does:* Ask your child to say what the things they found are doing. Ask which ones are the cleanup crew.  
   *Parent says:* Which of the things you found do you think are the cleanup crew? What do you think each one is eating?  
-  *Child mode:* Which things are the cleanup crew? What are they eating?
+  *Child mode:* Point to the things you think are the cleanup crew.
   - Note: A good answer says that the dead plant bits are the food, and the threads and the tiny animals are the eaters. Say that soil is full of living things. A spoon of healthy garden soil can hold up to about a billion tiny bacteria, nearly as many as the people in India. They are too small to see. You can see only the larger animals.
   - Think: If you could look at a spoon of soil from a forest, what would be different?
 ### a2 · Marigold Diary: one flower garland, two weeks (40 min, 14 days)
 - **safety:** Wash hands after touching the soil and the flowers. Do not eat any of the flowers. Anyone with asthma or a mould allergy should not dig up or sniff the fuzzy flowers. A grown-up does it, with gloves. Use unsprayed flowers if you can, and keep the pot out of reach of small children and pets.
-- **record:** A diary page for each look (day 1, 4, 8 and 14), with a drawing, how many flowers still look like flowers, a short note about colour, smell and softness, and a guess about who has been at work.
+- **record:** A diary page for each look (day 1, 4, 8 and 14), with a photo or drawing, how many flowers still look like flowers, a short note about colour, smell and softness, and a guess about who has been at work.
 - **schedule:** day 1: Bury half of the flowers in one pot and leave half in a dry saucer. Draw both. (10 min); day 4: Look at both. Draw and write what has changed. (5 min); day 8: Look at both. Press a stick into the buried flowers. (5 min); day 14: Dig up the buried flowers. Compare with the dry ones. Explain what happened. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* Split the flowers into two heaps with the same number of flowers (count them). Bury one heap just under the soil in a pot, and sprinkle on a little water. Put the other heap on a dry saucer. Draw both. Ask your child what they think each will look like in two weeks.  
+  *Parent does:* Split the flowers into two heaps with the same number of flowers (count them). Bury one heap just under the soil in a pot, and sprinkle on a little water. Put the other heap on a dry saucer. Take a photo of both. Ask your child what they think each will look like in two weeks.  
   *Parent says:* Half of the flowers go in damp soil. Half stay dry on a saucer. What do you think each will look like in two weeks? Why do you think so?  
   *Child mode:* Bury half of the flowers. Keep half dry. What will happen? Why?
   - Note: Water the buried flowers a little every two or three days, so the soil stays damp. Do not water the dry heap. Do not correct the guess. Two to four children: each child buries and keeps their own small heap, or one child keeps the buried pot, one the dry saucer, and they swap jobs at each look. If the garland has wire or plastic thread, remove it first.
 - **s2 (5 min)**  
-  *Parent does:* On day 4 and day 8, look at both heaps. Draw them. Write down the colour, the smell and how soft they feel. On day 8, press a stick into the buried flowers.  
-  *Parent says:* Look at both heaps. Draw them. Which one has changed more? What do you think is causing the change?  
-  *Child mode:* Draw both heaps. Which one changed more? Why?
+  *Parent does:* On day 4 and day 8, look at both heaps. Take a photo of each. Write down the colour, the smell and how soft they feel. On day 8, press a stick into the buried flowers.  
+  *Parent says:* Look at both heaps. Take a photo of each. Which one has changed more?  
+  *Child mode:* Look at, smell and feel both heaps.
   - Ask: Who do you think has been working on the buried flowers? (good: Tiny living things in the soil.; Fungi and bacteria.; Maybe tiny worms.)
   - Note: On each look, count how many flowers still look like flowers. In a damp, warm week, the buried flowers usually turn dark, soft and slimy, and may get white fuzz or a few tiny insects. The dry ones stay papery and keep their shape for weeks. Water makes the difference, as it does for mould on bread. If the buried flowers go sour and slimy, mix in a little dry soil.
 - **s3 (10 min)**  
@@ -356,42 +356,42 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 - **safety:** Use only cooked or clean leftovers, never raw meat or raw egg. Wash hands after handling bones, shells and wrappers. Keep sharp bones and broken shells away from small children.
 - **record:** A table with three columns: the leftover, who or what eats it, and what is left at the end. A last row for things that nobody can eat.
 - **s1 (5 min)**  
-  *Parent does:* Lay out the leftovers of one meal on a tray. Ask your child to name each one. Draw the table on a sheet of paper.  
+  *Parent does:* Lay out the leftovers of one meal on a tray. Ask your child to name each one. Rule a table with three columns on a sheet of paper.  
   *Parent says:* These are the leftovers from our meal. Let us name each one. Then we will think about who might eat it.  
-  *Child mode:* Name each leftover from our meal. Draw a table.
+  *Child mode:* Name each leftover from our meal.
   - Note: Use real leftovers from the day's cooking. Include at least one thing that cannot rot, such as a wrapper or a plastic bag, because the later steps need it. One child: the parent writes while the child sorts. Two to four children: one child lays out and names, one draws the table, one reads the crew words; swap at the next meal. Do not eat any of the leftovers during the activity.
 - **s2 (15 min)**  
   *Parent does:* For each leftover, ask your child to guess who would eat it and what would be left at the end. Write it in the table. Use words from this unit: scavenger, detritivore, decomposer.  
   *Parent says:* Who would eat this? Is it a scavenger, a detritivore or a decomposer? What would be left at the end?  
-  *Child mode:* Who would eat each leftover? What is left at the end?
+  *Child mode:* Guess who eats each leftover, then fill in the table.
   - Ask: Which leftover is eaten first, and by whom? (good: The rice, by crows and ants.; The peel, by flies and mould.)
   - Ask: Which leftover takes longest to rot? (good: The coconut shell.; The bone.)
   - Note: Possible answers: peels and rice are eaten by ants and flies, and then by moulds and bacteria. Bones are eaten by bacteria and fungi very slowly, over years. Eggshells are broken down by bacteria, slowly. Coconut shell is eaten by fungi, very slowly. Wrappers and plastic bags are eaten by nobody, and last for hundreds of years.
 - **s3 (5 min)**  
-  *Parent does:* Count how many leftovers have a crew and how many do not. Ask your child why some have no crew and what could be done about them.  
+  *Parent does:* Move the leftovers that have a crew to one side and the ones with no crew to the other. Count each heap. Ask your child why some have no crew and what could be done about them.  
   *Parent says:* How many of our leftovers have a cleanup crew? How many do not? Why do you think that is?  
-  *Child mode:* Count the leftovers with a crew. Count the ones with no crew.
+  *Child mode:* Sort the leftovers into two heaps: has a crew, no crew.
   - Note: Let your child reason it out. The leftovers with no crew can be reused, repaired or recycled.
   - Check: Why does a plastic wrapper last so long? → **Almost no decomposer makes enzymes that fit plastic**
   - Think: What could we do with the leftovers that nobody can eat?
 ### a4 · Street Cleaners: ten minutes at a window (20 min)
 - **safety:** Watch from a window or a safe distance. Do not lean out of a balcony or window. Never feed or touch street animals, and do not go near a bin or dropped food outdoors. Do not put food where monkeys or stray dogs can come into the house.
-- **record:** A tally chart of every creature who came to eat, with their name or a drawing, and how many times.
+- **record:** A tally chart of every creature who came to eat, with their name or a photo, and how many times.
 - **s1 (5 min)**  
   *Parent does:* Choose a spot you can see from a window or a balcony, where food or fruit lies on the ground. Ask your child to guess who will visit in ten minutes.  
   *Parent says:* We will watch this spot for ten minutes. Who do you think will come? Why do you think so?  
   *Child mode:* Pick a spot. Who will come in ten minutes? Why?
   - Note: A spot near a rubbish corner, a fallen mango or guava, or the place where leftover rice is put out for the birds works well. If you live high up, watch the bin area from a window. Keep a safe distance from street animals. If no waste is lying about, put a banana peel and a bit of cooked rice on a plate or tray on your balcony ledge or garden wall 30 minutes before, in a place monkeys or dogs cannot reach. Best of all, repeat the 10 minutes at a second time of day (morning and evening) and compare the tallies. One child: the child watches and tallies, the parent keeps time. Two to four children: one watches, one tallies, one keeps time and draws; swap at the second watch.
 - **s2 (10 min)**  
-  *Parent does:* Watch for ten minutes. Make a tally mark for every creature who comes to eat. Write down their names or draw them.  
-  *Parent says:* Make a mark each time a creature comes to eat. Write their name or draw them. Do not forget the tiny ones.  
+  *Parent does:* Watch for ten minutes. Make a tally mark for every creature who comes to eat. Write down their names, or take a photo.  
+  *Parent says:* Make a mark each time a creature comes to eat. Write their name, or take a photo. Do not forget the tiny ones.  
   *Child mode:* Watch for ten minutes. Make a mark for every creature who eats.
   - Ask: Who came first? Who stayed longest? (good: The crow.; Ants.; A dog.; Flies.)
   - Note: Crows, kites, mynas, street dogs, cows, ants and flies are typical visitors. Do not get close to street animals. If nothing comes, try again at a different time of day, such as early morning.
 - **s3 (5 min)**  
   *Parent does:* Sort every visitor into scavenger, detritivore or neither. Ask your child who is missing from the list and why.  
   *Parent says:* Which of your visitors are scavengers? Which are detritivores? Who is not here that you would expect in a forest?  
-  *Child mode:* Sort your visitors: scavengers or detritivores. Who is missing?
+  *Child mode:* Sort each visitor: scavenger, detritivore or neither.
   - Note: Crows, kites, dogs and cows are scavengers. Ants are scavengers too. Flies lay eggs, and the grubs are scavengers or detritivores. Moulds on the food are decomposers. Many cities have lost scavengers such as vultures. This is a good moment to tell the vulture story from the 'How we found out' card.
   - Check: A crow picks at a dropped chapati. What is the crow? → **A scavenger**
   - Think: If the crows and the dogs all disappeared, what would happen to the street?
@@ -399,12 +399,12 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 ## Projects
 ### p1 · Does rot feed the next plant? Methi in three pots (50 min, 14 days)
 - **safety:** Wash hands after handling soil and compost. Do not eat the seeds or the sprouts from this test. Methi is a legume: a child allergic to peanuts, chickpeas or other legumes should not handle the seeds. Use another seed and keep the sprouts away from food.
-- **record:** A table with the three pots and, for day 4, 8 and 14, the average height of the plants and their colour. A bar chart of height on day 14.
+- **record:** A table with the three pots and, for day 4, 8 and 14, the average height of the plants and their colour. A bar chart of height on day 14, or a photo of the pots lined up by height.
 - **schedule:** day 1: Fill the three pots. Plant 8 methi seeds in each. Water them. (25 min); day 4: Water. Measure the height of each pot's plants. Write it down. (5 min); day 8: Water. Measure and write the height and colour. (5 min); day 14: Measure and compare. Draw a bar chart. Explain what you found. (15 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child the three pots and what goes in each. Ask for a guess and a reason about which pot will grow the best plants.  
   *Parent says:* Pot A has only cocopeat. Pot B has cocopeat and rotted compost. Pot C has garden soil. Which pot will grow the best methi? Why do you think so?  
-  *Child mode:* There are three pots. Which pot will grow the best methi? Why?
+  *Child mode:* Look at the three pots and what goes in each.
   - Note: Cocopeat holds water but has almost no nutrients. Vermicompost is made by worms and microbes from dead plant matter. Do not correct the guess. Pots A and B differ only by the compost, so they are the fair test. Pot C is a bonus that shows ordinary soil. One child: the child measures and records. Two to four children: each child keeps one pot (or each pair its own set of three) and measures its plants. Then compare the heights in a group chart.
 - **s2 (20 min)**  
   *Parent does:* Fill the pots. Plant 8 methi seeds about 1 centimetre deep in each. Water each pot with the same amount, about half a cup. Put all three on the same window ledge.  
@@ -415,12 +415,12 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 - **s3 (10 min)**  
   *Parent does:* On days 4 and 8, water the pots equally and measure the height of the plants in each. Write down the colour, too. Look again on day 14.  
   *Parent says:* Measure the tallest three plants in each pot. Write the height and the colour. Do all three pots look the same?  
-  *Child mode:* Measure the plants in each pot. Write the height and the colour.
+  *Child mode:* Measure the tallest three plants in each pot. Write the height and the colour.
   - Note: Use the average of the three tallest plants. Typically by day 14 pot A is paler and shorter than pot B, and pot C is similar to B or in between; the exact heights depend on your seeds and the weather. A small difference is still a result. If all three look the same, the seeds' own food may still be carrying them, so wait a few more days.
 - **s4 (15 min)**  
   *Parent does:* On day 14, measure and draw a bar chart of the average heights. Ask your child to say what they thought, what they saw, and why.  
-  *Parent says:* Draw a bar for each pot. Tell me what you thought, what you saw, and why you think it happened.  
-  *Child mode:* Draw a bar for each pot. Say what you thought, what you saw, and why.
+  *Parent says:* Look at your bars, or the pots in a row. Tell me what you thought, what you saw, and why you think it happened.  
+  *Child mode:* Draw a bar for each pot, or line the pots up by height.
   - Note: A strong answer says that the compost holds nutrients from dead leaves and other waste, released by decomposers, and the plants drink them. After your child has explained, say that in the story The Palm That Stayed, the banana plants grew well beside the rotting trunk. The methi plants have just shown the same thing.
   - Think: Where did the nutrients in the vermicompost come from, before they were in the compost?
 
@@ -434,8 +434,8 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
 - **creative:** Mix in shredded dry paper to let in air, and so the jar does not turn slimy.; Open the lid for a minute each day to let in fresh air.; If you have a garden, add a spoon of soil from under a heap of old leaves, so that more decomposers start the work.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Look at the constraints. Ask your child to sketch a plan for the first jar and say why each choice would help.  
-  *Parent says:* You want the peels to rot as fast as possible. What do decomposers like? How could you give them more of it? Sketch your plan first.  
-  *Child mode:* What do decomposers like? Sketch your jar plan.
+  *Parent says:* You want the peels to rot as fast as possible. Make a plan for the first jar: sketch it, or tell it to me.  
+  *Child mode:* Plan jar 1. Sketch it or say it out loud.
   - Ask: What would make the decomposers work faster? (good: Smaller pieces.; More warmth.; Some water.; Some air.)
   - Note: Let your child use what they learned from the Cut It Up and Breathing Soil tests. Do not give the answer.
 - **s2 (15 min)**  

@@ -381,7 +381,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take one set of six tokens.
   - Note: No printer? Write the animal's name and the five facts on a small piece of paper for each card, and the group on the back. Copy 8 cards at a time and play those first.
 - **s2 (8 min)**  
-  *Parent does:* Play the first 12 cards. For each card, the reader reads the front, the others choose a token, and then the reader shows the back. Keep a score on paper.  
+  *Parent does:* Play the first 12 cards. For each card, the reader reads the front, the others choose a token, and then the reader shows the back. Give one point for each right answer. Keep the score on paper.  
   *Parent says:* Read the facts slowly. Which fact do you trust most? Remember, where an animal lives is not always the clue.  
   *Child mode:* Read the card. Pick a token. Turn the card to check.
   - Ask: Which fact on the card decided your answer? (good: The Breathes with line.; The Cover line.; The Young line.)
@@ -396,9 +396,9 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 - **rules:** Draw four squares inside each other on the floor with chalk or masking tape. The biggest square is Room 1. The smallest is Room 4. Put a label in each room.; An animal belongs in a room if she, or her ancestors, had the clue for that room and for every bigger room around it.; A fish has a backbone, so she stands in Room 1, outside Room 2. An amphibian stands in Room 2, outside Room 3. A reptile or a bird stands in Room 3, outside Room 4. A mammal stands in Room 4. An animal with no backbone stands outside all four rooms.; Snakes and whales lost their legs or changed them, but their ancestors had four limbs, so they still stand where their group stands.; The reader reads the front of a card. The hopper hops to the smallest room she thinks fits that animal.; The reader turns the card over to check. A hopper in the right room scores one point. A hopper who can also name one clue scores two points.; Swap jobs every four cards. To play alone, read the card, hop to a room, and then turn the card over to check. Play all 24 cards and try to beat your best score.; The game ends when every card has been read. The player with the most points wins.
 - **Printable board: 4 room labels to put in the squares: the bigger the room, the more animals fit:** Room 1: Backbone; Room 2: Four limbs; Room 3: Sealed egg; Room 4: Hair and milk
 - **s1 (3 min)**  
-  *Parent does:* Draw four squares inside each other on the floor, with chalk or masking tape. Make the biggest about 2 steps wide. Write Room 1 to Room 4 and the room names.  
+  *Parent does:* Draw four squares inside each other on the floor, with chalk or masking tape. Make the biggest about 2 steps wide. Write the room names. Room 1 is backbone. Room 2 is four limbs. Room 3 is sealed egg. Room 4 is hair and milk.  
   *Parent says:* This floor is a family tree drawn as rooms inside rooms. Room 1 is for every animal with a backbone. Room 2 is for animals whose ancestors had four limbs.  
-  *Child mode:* Draw four squares inside each other. Name the rooms.
+  *Child mode:* Mark four squares inside each other. Write a name in each room.
   - Note: If you cannot use chalk, use masking tape on a tile floor, or lay four sheets of newspaper folded to different sizes, the biggest one underneath.
 - **s2 (6 min)**  
   *Parent does:* Play the first 12 cards. The reader reads the front. The hopper hops into the smallest room that fits. The reader turns the card over to check.  
@@ -408,7 +408,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   - Ask: Why does a bat stand in Room 4? (good: She has fur and feeds milk, which is the clue for Room 4, and she fits every bigger room around it too.)
   - Check: A snake has no legs. Which room does she stand in? → **Room 3, because her ancestors had four limbs and she lays or carries sealed eggs**
 - **s3 (6 min)**  
-  *Parent does:* Play the other 12 cards. Add up the points.  
+  *Parent does:* Play the other 12 cards. Give one point for each right room. Add up the points.  
   *Parent says:* Keep going. The last 12 cards include the animals without a backbone. Where do they stand?  
   *Child mode:* Play the last cards. Add your points.
   - Note: Ask: which animals stood in the same room? Why do a crow and a gecko share a room, and what does the room not show?
@@ -418,12 +418,12 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 - **question:** Which sorting rules for the animal groups hold for every animal, and which are broken by hard cases?
 - **predict:** Before you start, guess. Which rule will be broken by the most animals? Which rule will not break at all? Why do you think so?
 - **fair test:** All five rules are tested on the same 16 animal cards, and every rule is counted in the same two ways. First count the animals the rule leaves out. Then count the animals the rule lets in. Only the rule changes. Rule 5 acts as a check, because it should not break.
-- **record:** Fill in the results table. Then draw a bar for each rule showing the total number of animals that break it, and write a better version of each rule that broke.
+- **record:** Fill in the results table. Then say which rule broke most. Then write a better version of each rule that broke.
 - **results table:** Rule | Animals left out | Animals let in | Total that break the rule
 - **s1 (3 min)**  
   *Parent does:* Write the five rules on a sheet of paper. 1. Animals that live in water are fish. 2. Animals that fly are birds. 3. Animals that are born live are mammals. 4. Animals with scales are reptiles. 5. Animals with hair or fur that feed milk are mammals. Ask your child which rule will break most and which will not break, and why. Write the guess and the reason down.  
   *Parent says:* Here are five rules that people use to sort animals. Which rule do you think will be broken by the most animals? Which one will not break at all? Why do you think so?  
-  *Child mode:* Here are five rules. Which will break most? Which will not break? Why?
+  *Child mode:* Read the five rules. Pick the one you think will break most.
   - Ask: Why do you think that rule will break most? (good: Because many animals live in water.; Because there are many kinds of animals that fly.; Because I know a hard case.)
   - Note: Do not correct the guess. Write it at the top of the results table. Any guess with a reason is a good start.
 - **s2 (3 min)**  
@@ -474,7 +474,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 - **predict:** Before you start, guess. How many seconds can you hold your breath sitting still? Will it be longer or shorter after 30 star jumps? Why do you think so?
 - **fair test:** You sit on the same chair, rest the same time, take one ordinary breath in and start the clock at the same moment. Only one thing changes: what you do before the hold. You either rest or do 30 star jumps. You do each twice, with a rest between.
 - **safety:** Sit on a chair or the floor. Stop the moment you want to breathe. Never hold your breath in water. Do not breathe fast and deep before the hold. Do not turn it into a race. A grown-up stays beside the child for every hold. A child with asthma or a breathing problem should skip the star jumps.
-- **record:** Write the four times in the results table. Draw a bar for each. Then write one line comparing your best time with how long a dolphin stays under.
+- **record:** Write the four times in the results table. Draw a bar for each, or just point to the longest time. Then say or write one line comparing your best time with how long a dolphin stays under.
 - **results table:** Before the hold | Try 1 (seconds) | Try 2 (seconds)
 - **s1 (3 min)**  
   *Parent does:* Ask your child to guess how many seconds they can hold their breath, and whether it will be longer or shorter after 30 star jumps. Ask for a reason. Write the guess and the reason down. Show your child the timer.  
@@ -507,7 +507,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 - **predict:** Before you start, guess. Which form of sugar will disappear in the water first? Which will take longest? Why do you think so?
 - **fair test:** Each glass gets the same amount of warm water and the same amount of sugar, from the same kind of cube. No one stirs. Only the form of the sugar changes. The whole cube is the control.
 - **safety:** A grown-up pours the warm water. It must not be hot. A grown-up crushes the sugar, on a table with the cloth folded over it. Children keep their faces back, because hard kalkandu (mishri) can fly in small sharp bits.
-- **record:** Write the three times in the table. Draw a bar for each. Then draw a rough picture of a fish's gill, and a simple lump, to show what is different.
+- **record:** Write the three times in the table. Then say, in your own words, why the powder was fastest and how that is like the folds of a gill.
 - **results table:** Form of sugar | Time until no grains are left (seconds)
 - **s1 (3 min)**  
   *Parent does:* Show your child the three forms of sugar. Ask which will disappear in the water first, and why. Write the guess and the reason down.  
@@ -527,7 +527,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 - **s4 (4 min)**  
   *Parent does:* Write the three times. Ask why the powder was fastest. Then say that a fish's gill is a stack of thin folds, so water can touch a huge area of thin skin.  
   *Parent says:* Which form dissolved first? What was different about the powder? Water can only act on sugar where they touch. A powder has far more places to touch.  
-  *Child mode:* Which form was fastest? Why? Water works where it touches.
+  *Child mode:* Look at your three times. Which form was fastest?
   - Ask: Why did the powder dissolve fastest? (good: There was more sugar touching the water.; Water could reach every grain.)
   - Note: The same idea explains gills. A fish's gill is made of thousands of thin folds, so a lot of thin skin touches the water at once and oxygen passes into the blood quickly. Your lungs work the same way, with millions of tiny air sacs. Estimates of the total area inside a human lung run from about 50 to 100 square metres, around the size of a badminton court. This is an analogy, because sugar and oxygen are different things.
   - Check: Why would a gill with many thin folds take in oxygen faster than a flat gill of the same size? → **More of the gill touches the water**
@@ -557,11 +557,11 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Child mode:* Which sort shows a bat's family? Why?
   - Note: With 2 to 4 children, each child fills in the table alone first, and then they argue it out. With one child, let the child answer first, and then give your own answer.
 ### a2 · Same Bones, Different Jobs: feel your own arm (12 min)
-- **record:** A drawing of your arm bones and a drawing of a bat wing, with matching bones in matching colours.
+- **record:** A drawing of your arm bones and a bat wing, with matching bones in matching colours. Or tell your grown-up which bones match.
 - **s1 (3 min)**  
   *Parent does:* Ask your child to hold their upper arm between the shoulder and elbow and squeeze. Ask how many long bones they can feel. Then ask them to turn the forearm over and feel between the elbow and the wrist.  
   *Parent says:* Hold your upper arm. Feel one long bone in the middle. Now hold your forearm and turn your hand over. How many bones can you feel?  
-  *Child mode:* Feel your upper arm. One bone. Turn your forearm. Feel two.
+  *Child mode:* Feel the bones in your arm. How many can you feel in your forearm?
   - Note: The upper arm has one bone, the humerus. The forearm has two, the radius and the ulna, and they cross when you turn your hand over.
 - **s2 (4 min)**  
   *Parent does:* Search the phone for pictures of the skeleton of a bat's wing, a dolphin's flipper and a bird's wing. Look for one bone, then two bones, then a hand.  
@@ -569,9 +569,9 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   *Child mode:* Look at the pictures. Find one bone, two bones and the hand.
   - Note: Search for 'bat wing skeleton', 'dolphin flipper skeleton' and 'bird wing skeleton'. The bat has long finger bones. The dolphin has finger bones inside the paddle. The bird has fused fingers.
 - **s3 (5 min)**  
-  *Parent does:* Draw your arm bones and a bat's wing bones. Colour the upper bone red, the two forearm bones blue and the hand bones green in both drawings.  
+  *Parent does:* Draw your arm bones and a bat's wing bones. Colour the upper bone red, the two forearm bones blue and the hand bones green in both drawings. If you do not want to draw, point to the matching bones in the pictures and name them.  
   *Parent says:* Draw your arm and a bat's wing. Colour the same bones the same colour. What do you notice?  
-  *Child mode:* Draw your arm and a bat's wing. Colour matching bones the same.
+  *Child mode:* Draw your arm and a bat's wing, or point to the matching bones. Match the colours.
   - Note: If the bone pictures are hard to find, search for 'homologous limbs' and look at the images. With 2 to 4 children, each child draws one animal's limb, and the group lines them up side by side.
   - Check: A human arm and a bat's wing have the same bones in the same order. What is the best explanation? → **They inherited the plan from a shared ancestor**
 ### a3 · No Backbone: one question for each group (12 min)
@@ -595,9 +595,9 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 ### a4 · One Animal, Two Shapes: tadpole and caterpillar (10 min)
 - **record:** Two rows of four small pictures, each in order of a life, with the group written under each row.
 - **s1 (5 min)**  
-  *Parent does:* Ask your child to draw a frog's four stages on four cards. They are egg, tadpole, young frog and adult frog. Then draw a butterfly's four stages. They are egg, caterpillar, pupa and butterfly.  
-  *Parent says:* Draw the four stages of a frog on four cards. Then the four stages of a butterfly.  
-  *Child mode:* Draw a frog's four stages. Draw a butterfly's four stages.
+  *Parent does:* Ask your child to make four cards for a frog's stages. They can draw each one or find a picture on the phone. They are egg, tadpole, young frog and adult frog. Then draw a butterfly's four stages. They are egg, caterpillar, pupa and butterfly.  
+  *Parent says:* Make a card for each of the four stages of a frog. Then do the four stages of a butterfly. You can draw them or find pictures.  
+  *Child mode:* Make four cards for a frog and four for a butterfly. Draw or find pictures.
   - Note: A pupa is the stage when the caterpillar's body is rebuilt inside a case. If your child does not know the stages, search for 'frog life cycle' and 'butterfly life cycle' on a phone.
 - **s2 (5 min)**  
   *Parent does:* Hold up the tadpole card by itself. Ask which group your child would pick if they met only a tadpole. Ask which fact would show they were wrong.  
@@ -609,9 +609,9 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 ### a5 · Draw the Backbone Family Tree (15 min)
 - **record:** A tree drawn on paper with four labelled branches and eight animals.
 - **s1 (5 min)**  
-  *Parent does:* Draw a tree trunk at the bottom of the paper and write Backbone on it. Draw a branch for each clue going up: four limbs, sealed egg, hair and milk. Write the clue on each branch.  
+  *Parent does:* Make a tree trunk at the bottom of the paper and write Backbone on it. Draw each branch, or lay a paper strip for it, going up. Make one branch for each clue: four limbs, sealed egg, hair and milk. Write the clue on each branch.  
   *Parent says:* This tree has a trunk for the backbone. Each new branch adds one clue. The first is four limbs. The next is a sealed egg, which is an egg with a waterproof skin. The last is hair and milk.  
-  *Child mode:* Draw a trunk. Add three branches. Write a clue on each.
+  *Child mode:* Make a trunk. Add three branches. Write a clue on each.
   - Note: Each branch has one clue, like the rooms in the Family Tree Floor Hop game. The tree is a way of showing who is more closely related.
 - **s2 (6 min)**  
   *Parent does:* Write these eight animals on small pieces of paper: rohu, shark, frog, gecko, crocodile, crow, cat and you. Ask your child to put each on the last branch that fits. The rohu and the shark stay on the trunk.  
@@ -620,7 +620,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
   - Note: Expected: the frog on four limbs, the gecko, crocodile and crow on sealed egg, the cat and you on hair and milk.
   - Check: Where does a crow go on the tree? → **On the sealed egg branch, with the gecko and the cat**
 - **s3 (4 min)**  
-  *Parent does:* Tell your child that crocodiles are closer relatives of crows than of geckos. Ask where that branch would be drawn. Ask why a tree is a better way to show this than five boxes.  
+  *Parent does:* Tell your child that crocodiles are closer relatives of crows than of geckos. Ask where that branch would be drawn. Ask why a tree shows this better than separate boxes.  
   *Parent says:* Here is a surprise. A crocodile is a closer relative of a crow than of a gecko. How could we draw that on the tree?  
   *Child mode:* A crocodile is closer to a crow than to a gecko. How do we draw that?
   - Note: A good answer draws crocodile and crow on one short branch, and gecko on another. With 2 to 4 children, each child draws a tree of their own, and then they compare where they put the crocodile. Five boxes cannot show this, but a tree can.
@@ -633,10 +633,10 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 - **s1 (25 min)**  
   *Parent does:* Choose 12 animals with a backbone. Include at least one fish, one frog, one reptile, one bird and one mammal, and three that you can see near home. Draw or cut out a picture of each. Write two clues under each picture.  
   *Parent says:* Let's make a chart of animals with a backbone. Choose 12. Include a fish, a frog, a reptile, a bird and a mammal. Write two clues under each.  
-  *Child mode:* Choose 12 animals. Draw each. Write two clues.
+  *Child mode:* Pick 12 animals. Cut out or draw a picture of each. Write two clues.
   - Note: Include a hard case such as a bat, a dolphin or a penguin. With 2 to 4 children, share the 12 animals out between them, and one child draws the tree. The three animals near home might be a crow, a house lizard and a cat or a dog.
 - **s2 (25 min)**  
-  *Parent does:* Draw a tree on the chart paper with the four branches: backbone, four limbs, sealed egg, and hair and milk. Stick each animal on the last branch that fits her. Put two hard cases in a box beside the tree, with a note saying why they are hard.  
+  *Parent does:* Make a tree on the chart paper, by drawing it or by taping paper strips, with the four branches: backbone, four limbs, sealed egg, and hair and milk. Stick each animal on the last branch that fits her. Put two hard cases in a box beside the tree, with a note saying why they are hard.  
   *Parent says:* Now draw the tree and stick the animals on. Which animals will go where? Which two are hard cases? Why?  
   *Child mode:* Draw the tree. Stick the animals on. Add two hard cases.
   - Note: Old magazines are not needed: hand drawings work as well. Hang the chart where the family can see it. Ask the child to explain one animal to a visitor.
@@ -667,9 +667,9 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 - **general:** Sort by how the aliens move: crawl, swim or float.; Sort by what covers the body: fur, scales or shell.; Sort by how they get food: from the ground, from other aliens or from light.
 - **creative:** Sort by a clue you could only see with a microscope.; Sort by who could be related to whom, using a made-up family tree.; Make two different sorts for the same ten aliens and say which is better for a farmer, and which for a scientist.
 - **s1 (10 min)**  
-  *Parent does:* Invent ten aliens. Draw each and write four facts under her.  
-  *Parent says:* Invent ten animals from another planet. Draw each one and write four facts under her.  
-  *Child mode:* Invent ten aliens. Draw each. Write four facts.
+  *Parent does:* Invent ten aliens. Write four facts for each one. Draw one or two if you like.  
+  *Parent says:* Invent ten animals from another planet. Write four facts for each one. You can draw one or two.  
+  *Child mode:* Invent ten aliens. Write four facts for each.
 - **s2 (10 min)**  
   *Parent does:* Sort the aliens into at least three groups. Write one rule for each group. Check that no alien breaks a rule.  
   *Parent says:* Sort your aliens. Write one rule for each group. Does any alien break a rule?  

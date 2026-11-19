@@ -852,7 +852,7 @@
       ],
       "safety": "A grown-up does every step with fire. Work on a steel plate, away from curtains and paper. Tie long hair back and keep a bowl of water ready. Open a window. Do not sniff the jars, because the gas from match heads stings the nose.",
       "record": "Draw a table with three rows, for jars A, B and C. Write what burned under each jar and the colour of the water after shaking.",
-      "context": "In this experiment a grown-up burns match heads under one upturned jar and plain wood under another. Then you shake indicator water in each jar to see which gas makes water acid.",
+      "context": "In this experiment a grown-up burns match heads under one upturned jar and plain wood under another. Then you shake indicator water in each jar. You will find out which gas turns water sour, the way acid rain is sour.",
       "setup": [
         {
           "art": "Three empty glass jars labelled A, B and C on a table, beside a small jug of purple cabbage water, a lit candle on a steel plate and a bowl of water.",
@@ -903,7 +903,7 @@
           "mins": 4,
           "do": "Label three dry jars A, B and C. Show your child the purple indicator water. Ask for the guess and the reason, and write both down.",
           "say": "Jar A will hold plain air. Jar B will hold gas from burning match heads. Jar C will hold gas from burning wood. Then each jar gets indicator water. Which water will turn pinkest? Why do you think so?",
-          "kid": "Three jars: plain air, match-head gas and wood gas. Which water turns pinkest? Why?",
+          "kid": "Guess which jar's water will turn pinkest. Say why.",
           "ask": [
             {
               "q": "What might a match head hold that the wooden stick does not?",
@@ -1097,7 +1097,7 @@
           "mins": 4,
           "do": "Lay the surfaces in a row on newspaper. Put the paper slips L and W beside each one. Ask for the guess and the reason, and write both down.",
           "say": "Lemon juice is an acid, much stronger than acid rain. Each surface gets one drop of lemon and one drop of water. Which surfaces will the lemon mark? Why do you think so?",
-          "kid": "Each surface gets a lemon drop. Which ones will it mark? Why?",
+          "kid": "Guess which surfaces the lemon will mark. Say why.",
           "ask": [
             {
               "q": "Why do we also put a drop of plain water on each surface?",
@@ -1124,7 +1124,7 @@
           "id": "s3",
           "mins": 8,
           "do": "While you wait, your child looks closely at every lemon drop. A magnifying glass or a zoomed-in phone camera helps. They write yes or no for bubbles. Look again after 5 minutes.",
-          "say": "Look into each lemon drop. Can you see tiny bubbles growing on the stone under it? Look at the water drops too. Write yes or no for each surface.",
+          "say": "Look into each lemon drop. Can you see tiny bubbles on the stone under it? Look at the water drops too. Write yes or no for each surface.",
           "kid": "Look closely at each lemon drop. Are there tiny bubbles? Write yes or no.",
           "check": {
             "t": "mcq",
@@ -1227,7 +1227,7 @@
       ],
       "safety": "Wash your hands after touching eggshells. A grown-up crushes the shells if they are sharp.",
       "record": "Draw a table with rows for these times: before the rain, just after the rain, 5 minutes, 10 minutes, 20 minutes and the next morning. Write the colour of each lake at each time.",
-      "context": "In this experiment two tumblers are two small lakes. One has a bed of glass marbles, which stand for granite. The other has a bed of crushed shell, which stands for limestone. Both get the same sour rain.",
+      "context": "In this experiment you find out why some lakes lost their fish to acid rain and others did not. Two tumblers are two small lakes. One has a bed of glass marbles, which stand for granite. The other has a bed of crushed shell, which stands for limestone. Both get the same sour rain.",
       "setup": [
         {
           "art": "Two glass tumblers of purple water on white paper, one with glass marbles at the bottom labelled Lake Granite and one with white crushed shell at the bottom labelled Lake Limestone.",
@@ -1293,7 +1293,7 @@
           "mins": 4,
           "do": "Crush the shells to bits as small as rava. Fold them in paper and roll a rolling pin over them. Half fill both tumblers with drinking water. Add 2 tablespoons of indicator water to each. Ask for the guess and the reason.",
           "say": "These two tumblers are two lakes. One will lie on glass marbles, which stand for granite. The other will lie on crushed shell, which stands for limestone. Both will get the same sour rain. What will happen to each? Why do you think so?",
-          "kid": "Two lakes get the same sour rain. What will happen to each? Why?",
+          "kid": "Guess what the sour rain will do to each lake. Say why.",
           "adult": true,
           "parent": "Shell, limestone and marble are the same substance, calcium carbonate. Glass is made from sand and reacts with acid as little as granite does. Do not correct the guess.",
           "context": "This is the first step of Two Lakes. You make two purple lakes and guess what sour rain will do to each."
@@ -1432,7 +1432,7 @@
           "mins": 3,
           "do": "Put the bottle, the salt and the teaspoon on the table. Ask for the guess and the reason before any salt goes in.",
           "say": "This bottle holds half a litre of water. How much salt would make it as salty as the sea? Show me with the spoon. Why do you think so?",
-          "kid": "How much salt makes this bottle as salty as the sea? Why?",
+          "kid": "Show with the spoon how much salt you guess. Say why.",
           "ask": [
             {
               "q": "Have you ever tasted sea water? What was it like?",
@@ -1471,7 +1471,7 @@
           "mins": 3,
           "do": "Sit together. Ask your child to say what they guessed and what the recipe needed. Then ask the question below, and leave it open.",
           "say": "Say what you guessed, and what the recipe needed. Now think about this. River water has no salty taste, and every river runs into the sea. So where could the sea's salt come from?",
-          "kid": "Say what you guessed and what you found. Where could the sea's salt come from?",
+          "kid": "Say what you guessed and what the recipe needed.",
           "ask": [
             {
               "q": "Where could the salt in the sea come from?",
@@ -1521,7 +1521,7 @@
           "what": "Guess how much of the air is oxygen, then count out 100 grains that stand for the gases in air."
         }
       ],
-      "record": "Draw the plate. Write how many grains stand for nitrogen, oxygen and argon.",
+      "record": "Write how many grains stand for nitrogen, oxygen and argon. Keep the plate of grains, or take a photo of it.",
       "context": "In this activity you count out 100 grains to stand for the gases in air. Rice is nitrogen, dal is oxygen and one mustard seed is argon.",
       "setup": [
         {
@@ -1634,7 +1634,7 @@
         }
       ],
       "record": "Keep the two coloured grids. Write the key beside each one.",
-      "context": "In this activity you colour two grids of 100 squares. One shows what sea water is made of, and the other shows what good garden soil is made of.",
+      "context": "In this activity you fill two grids of 100 squares, with colour or with small counters. You will see how much of the sea and of soil is salt, water or air. One shows what sea water is made of, and the other shows what good garden soil is made of.",
       "setup": [
         {
           "art": "Two empty grids of ten squares by ten squares drawn on paper, one labelled Sea water and one labelled Soil.",
@@ -1664,7 +1664,7 @@
           "mins": 5,
           "do": "Your child colours 3 and a half squares yellow, in one corner of the sea water grid. They colour the other 96 and a half squares blue. Then they put a dot on 3 of the yellow squares.",
           "say": "Sea water is 3 and a half parts salts in every 100. Colour those yellow. Colour the rest blue for water. The 3 dotted squares are common salt. The last half square is all the other salts.",
-          "kid": "Colour 3 and a half squares yellow for salts. Colour the rest blue.",
+          "kid": "Colour (or cover with yellow counters) 3 and a half squares for salts. Colour the rest blue.",
           "parent": "The half square stands for the bitter salts of magnesium and a few others. They are why sea salt from the pans is purified before it is sold.",
           "context": "In this step of Hundred Squares you colour the sea water grid: 3 and a half squares of salts and the rest water."
         },
@@ -1690,9 +1690,9 @@
         {
           "id": "s4",
           "mins": 3,
-          "do": "Lay the two grids side by side. If you did One Hundred Grains of Air, put that drawing beside them. Ask your child to say what they guessed and what they found.",
+          "do": "Lay the two grids side by side. If you did One Hundred Grains of Air, put your numbers beside them. Ask your child to say what they guessed and what they found.",
           "say": "Say what you guessed and what you found. Now look for water. Is there water in sea water, in soil and in air?",
-          "kid": "Say what you guessed and found. Which of the three recipes hold water?",
+          "kid": "Say what you guessed and what you found.",
           "ask": [
             {
               "q": "Which of the three mixtures hold water?",
@@ -1901,7 +1901,7 @@
         "Fit a paper or plastic collar around the funnel, sloping outwards like a small roof, to throw splashes off.",
         "Rest a clean marble in the funnel. Water runs in around the marble, and less dust falls in afterwards."
       ],
-      "your_turn": "Now invent your own rain catcher. It must pass all four tests: the rain test, the dust test, the splash test and the wind test. Draw your design and write which test was hardest to pass. On a rainy day, catch real rain with it. Put 2 tablespoons of the rain in a glass. Add 1 tablespoon of indicator water, which is the red cabbage water of Smoke in the Jar. Do the same with tap water, and compare the colours.",
+      "your_turn": "Now invent your own rain catcher. It must pass all four tests: the rain test, the dust test, the splash test and the wind test. Show your design as a drawing, a photo or a spoken description, and say which test was hardest to pass. On a rainy day, catch real rain with it. Put 2 tablespoons of the rain in a glass. Add 1 tablespoon of indicator water, which is the red cabbage water of Smoke in the Jar. Do the same with tap water, and compare the colours.",
       "context": "In this challenge you build a catcher that collects falling rain and keeps out dust and splashes. It is the problem scientists had to solve before they could measure acid rain.",
       "setup": [
         {
@@ -1942,7 +1942,7 @@
           "mins": 10,
           "do": "Your child chooses a plan and builds it. A grown-up cuts the top off a bottle to make a funnel, if one is needed.",
           "say": "Choose your plan and build it. How will you keep dust out before the rain? How will you keep splashes out? What will stop it falling over?",
-          "kid": "Choose a plan and build it. A grown-up cuts the bottle.",
+          "kid": "Choose a plan and build it. Ask a grown-up to cut a bottle if you need a funnel.",
           "adult": true,
           "parent": "Cover the cut edge of the bottle with tape, because it is sharp.",
           "context": "In this step of the Rain Catcher you build your own design from bottles, stones, string and a lid."

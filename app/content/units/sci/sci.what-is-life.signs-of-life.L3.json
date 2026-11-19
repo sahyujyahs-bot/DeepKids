@@ -540,7 +540,7 @@
    "title": "Life Trial: Alive, Once Alive or Never Alive?",
    "mins": 20,
    "players": "2 to 4 players",
-   "context": "This is a card game about the seven signs of life. Players put everyday things on trial. For each thing, they decide which signs it shows, then whether it is alive, once alive or never alive.",
+   "context": "You will decide if everyday things are alive, once alive or never alive. Players put each thing on trial. They check which of the seven signs of life it shows, then give a verdict.",
    "printables": [
     {
      "kind": "cards",
@@ -679,8 +679,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Take the card 'A car'. Play it together as a practice round, then put it on the NEVER ALIVE mat.",
-     "say": "Let's practise with the car. Hold up every sign a car shows. Think about a real car on the road.",
-     "kid": "Practice card: a car. Which signs of life does it show? Hold them up.",
+     "say": "Let's practise with the car. Think about a real car on the road. What does it do?",
+     "kid": "Practice card: a car. Hold up the sign cards that a car seems to show.",
      "ask": [
       {
        "q": "Which signs does a car seem to show?",
@@ -719,7 +719,7 @@
      "mins": 2,
      "do": "If someone turns over 'A dry moong seed', stop and talk about the seed. If it does not come up, ask the question yourself at the end.",
      "say": "A dry seed does almost nothing right now. So how can they be alive?",
-     "kid": "A dry seed! Almost nothing is happening. Is the seed alive?",
+     "kid": "A dry seed! Almost nothing is happening to it right now.",
      "check": {
       "t": "mcq",
       "q": "A dry moong seed seems to do nothing. Why do we still call the seed alive?",
@@ -737,7 +737,7 @@
      "mins": 2,
      "do": "Add up the points. Then look at the three mats together.",
      "say": "Look at the ALIVE mat. What do all these things have in common?",
-     "kid": "Count your points. Look at the ALIVE mat. What do they all do?",
+     "kid": "Count your points. Then look at the ALIVE mat together.",
      "think": "Is there a card you are still not sure about? Keep it to one side. Scientists also have things they are not sure about, such as viruses. Look at that card again when you have finished this unit."
     }
    ]
@@ -892,8 +892,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Turn over one living-thing card and one action card, and call both. For example, 'Movement: a neem tree!' Go on until all 14 living-thing cards have been used.",
-     "say": "Now it's harder. Movement, a neem tree! How does a tree move? Show me, and tell me in one sentence.",
-     "kid": "Now the caller says a sign and a living thing. Show how they do that sign. Say it in one sentence.",
+     "say": "Now it's harder. I call a sign and a living thing, like 'Movement, a neem tree!' Show me how that living thing does it.",
+     "kid": "Act out how the living thing does the sign. Then say it in one sentence.",
      "ask": [
       {
        "q": "How does a neem tree move?",
@@ -989,8 +989,8 @@
      "what": "Guess which balloon will grow most. Set up the three bottles. Watch for 30 minutes. Measure the balloons and draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart with one bar for each bottle. Make each bar as tall as the distance round its balloon.",
-   "context": "This is the balloon test. You put dry yeast into three bottles with different mixtures, and stretch a balloon over each. If the yeast is alive, they will feed, respire and give out a gas that blows up the balloon.",
+   "record": "Fill in the table. Then lay the three strings side by side, or draw one bar for each bottle. Make each bar as long as the distance round its balloon.",
+   "context": "You will find out if the dry yeast in a packet is alive. You put yeast into three bottles with different mixtures and stretch a balloon over each. If the yeast is alive, they will feed and give out a gas, and the gas blows up the balloon.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: distance round each balloon after 30 minutes",
@@ -1035,7 +1035,7 @@
      "mins": 3,
      "do": "1. Show your child the dry yeast. 2. Let them feel and smell the yeast. 3. Ask whether they think the yeast is alive.",
      "say": "This is yeast. Bakers use yeast to make bread soft and puffy. Does yeast look alive to you? You cannot see the yeast moving, eating or growing. Let's test.",
-     "kid": "Look at the yeast. Feel and smell the yeast. Does yeast look alive? We are going to find out.",
+     "kid": "Look at the dry yeast. Feel it and smell it.",
      "ask": [
       {
        "q": "How could we find out if this yeast is alive?",
@@ -1053,7 +1053,7 @@
      "mins": 3,
      "do": "1. Label the bottles A, B and C. 2. Ask your child to guess which balloon will grow most and least. 3. Write the guess down.",
      "say": "Bottle A gets yeast, sugar and warm water. B gets yeast and warm water, but no sugar. C gets yeast, sugar and cold water. Which balloon will grow most? Why do you think so?",
-     "kid": "A gets yeast, sugar and warm water. B gets no sugar. C gets cold water. Which balloon will grow most? Why? Write your guess."
+     "kid": "Guess which balloon will grow the most and which the least. Tell your grown-up why."
     },
     {
      "id": "s3",
@@ -1069,7 +1069,7 @@
      "mins": 30,
      "do": "1. After 10 minutes, look at each bottle for bubbles and foam, and write what you see in the table. 2. Then wait until 30 minutes have passed since you put the balloons on. Do something else while you wait.",
      "say": "Look at bottle A. Can you see bubbles? Foam? Now look at B and C. What do you think the bubbles are? Where do you think they come from?",
-     "kid": "Watch the bottles. Do you see bubbles or foam? What do you think made them? Wait until 30 minutes are up.",
+     "kid": "Watch the bottles. Look for bubbles and foam. Then wait until 30 minutes are up.",
      "parent": "Bottle A should foam, and its balloon should start to stand up within 10 to 20 minutes. Bottle B may make a little gas. Bottle C stays almost still, because the cold slows the yeast right down. The gas is carbon dioxide, a waste the yeast gives out while getting energy from sugar. The yeast is also growing and making new yeast cells by budding, which is too small to see. If balloon A is still small at 30 minutes, wait 15 minutes more.",
      "check": {
       "t": "mcq",
@@ -1086,9 +1086,9 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "1. After 30 minutes, wrap a string round the fattest part of each balloon. 2. Lay the string on a ruler to read the length. 3. Write it in the table. 4. Draw a bar for each bottle.",
-     "say": "Let's measure. The bigger the distance round the balloon, the more gas the yeast made. Each bottle gets one bar.",
-     "kid": "Wrap the string round each balloon. Measure it with a ruler. Write it down. Draw one bar for each bottle.",
+     "do": "1. After 30 minutes, wrap a string round the fattest part of each balloon and cut it at that length. 2. Lay each string on a ruler to read the length. 3. Write it in the table. 4. Lay the three strings side by side.",
+     "say": "Let's measure. The bigger the distance round the balloon, the more gas the yeast made. Each bottle gets one string. The longest string shows the most gas.",
+     "kid": "Wrap a string round each balloon and cut it. Measure it with a ruler. Write it down. Lay the three strings side by side.",
      "how": "e1",
      "chart": {
       "type": "bar",
@@ -1208,7 +1208,7 @@
     }
    ],
    "record": "Each day, write how many of the 5 have sprouted in each cup. On the last day, measure the longest root in each cup.",
-   "context": "This is the seed test. You put moong seeds and plastic beads in four cups, some wet, some dry, some boiled. Then you watch which ones wake up and grow.",
+   "context": "You will find out if a dry seed is alive or dead. You put moong seeds and plastic beads in four cups, some wet, some dry, some boiled. Then you watch which ones wake up and grow.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: how many of 5 sprouted by day 4",
@@ -1258,7 +1258,7 @@
      "mins": 5,
      "do": "1. Count out 5 moong seeds and soak them in water overnight. 2. A grown-up boils 5 more seeds for 10 minutes, then drains them and lets them cool. 3. Keep 5 dry seeds aside. 4. Find 5 small plastic beads or buttons.",
      "say": "Here are seeds and beads. Which ones are alive? It's hard to tell just by looking. So let's give them water and wait.",
-     "kid": "Soak 5 seeds overnight. A grown-up boils 5 other seeds. Keep 5 seeds dry. Find 5 beads.",
+     "kid": "Count out your three piles of 5 seeds and the 5 beads.",
      "adult": true,
      "context": "This is the first step of the seed test. You find out if dry seeds are alive by watching which ones wake up."
     },
@@ -1266,7 +1266,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Put cotton in four cups. Label them A, B, C and D. 2. Fill them like this. A: soaked seeds on wet cotton. B: dry seeds on dry cotton. C: boiled seeds on wet cotton. D: beads on wet cotton. 3. Put the cups somewhere warm, out of direct sun.",
-     "say": "We changed only one thing in each cup. Now, which ones do you think will grow?",
+     "say": "Each cup is different in one way, so the test is fair. The beads show what happens with something that was never alive.",
      "kid": "Set up the four cups. A: soaked seeds. B: dry seeds. C: boiled seeds. D: beads. Make A, C and D wet.",
      "ask": [
       {
@@ -1293,7 +1293,7 @@
      "mins": 3,
      "do": "On day 4, after you have counted, move the dry seeds from cup B onto wet cotton.",
      "say": "Cup B's seeds have been dry all this time. Are they dead, or just sleeping? Let's give them water and see.",
-     "kid": "Move the dry seeds from cup B onto wet cotton. Are they dead, or just sleeping?",
+     "kid": "Move the dry seeds from cup B onto wet cotton. Keep them damp and look every day.",
      "wait": "Wait two more days.",
      "parent": "The dry seeds will swell overnight. In warm weather, many show a root tip by the next day. Some take two days. If they have only swollen on day 6, wait one more day and measure then."
     },
@@ -1360,8 +1360,8 @@
      "what": "Count breaths sitting still, then after jumping, then after resting. Turn the counts into breaths per minute and draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart with three bars: sitting still, just after jumping and after two minutes of rest.",
-   "context": "This is the breath counter. You count how many breaths you take sitting still and after jumping. It shows that your body needs more oxygen for respiration when your muscles work hard.",
+   "record": "Fill in the table. Then draw a bar chart with three bars: sitting still, just after jumping and after two minutes of rest. Or tell your grown-up which number was biggest and how much bigger it was.",
+   "context": "You will find out if your body needs more air when you move fast. You count your breaths sitting still, just after jumping, and after a rest.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: breaths in one minute",
@@ -1427,17 +1427,17 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Breathe slowly onto a cold mirror. Look at the mist.",
+     "do": "Cool the mirror in the fridge for 5 minutes. Then breathe slowly onto it. Look at the mist.",
      "say": "Breathe on the mirror. What do you see? Where do you think that mist came from?",
-     "kid": "Breathe on a cold mirror. See the mist? Where did it come from?",
+     "kid": "Breathe slowly onto the cold mirror. Look at the mist.",
      "parent": "After your child has guessed, explain: the mist is water from inside the body, carried out in the breath. The breath also carries out carbon dioxide, which you cannot see. If the mirror does not mist, cool it in the fridge for a few minutes first."
     },
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Multiply each count by 4 to get breaths in one minute. 2. Draw one bar for each.",
+     "do": "1. Multiply each count by 4 to get breaths in one minute. 2. Compare the three numbers. Which is biggest? Which is smallest?",
      "say": "Fifteen seconds is a quarter of a minute. So four times the number gives breaths in a whole minute.",
-     "kid": "Multiply each count by 4. That gives breaths in one minute. Draw a bar for each.",
+     "kid": "Multiply each count by 4. That gives breaths in one minute. Which number is biggest?",
      "how": "e3",
      "check": {
       "t": "mcq",
@@ -1495,7 +1495,7 @@
     }
    ],
    "record": "Fill in the trial table with a tick, a cross or a wavy line for 'sort of'. Write a verdict under each column.",
-   "context": "This is the seven signs trial. You test three things, a seed, a cloud and a car, against each of the seven signs of life. Then you decide which one is alive.",
+   "context": "You will find out which of three things is alive: a seed, a cloud or a car. You test each one against the seven signs of life. Then you give your verdict.",
    "setup": [
     {
      "art": "A big sheet of paper with a table drawn on it: three columns headed by a seed, a cloud and a car, seven rows headed by small sign icons.",
@@ -1514,17 +1514,17 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw a table on a big sheet. 2. Across the top, draw a seed, a cloud and a car. 3. Down the side, write the seven signs: nutrition, respiration, growth, movement, sensing, excretion, reproduction.",
+     "do": "1. Rule a table on a big sheet. 2. Across the top, write: seed, cloud, car. 3. Down the side, write the seven signs: nutrition, respiration, growth, movement, sensing, excretion, reproduction.",
      "say": "Today we put three things on trial. A seed, a cloud and a car. For each sign of life, we decide: does it do this? Yes, no, or sort of?",
-     "kid": "Draw a big table. Put a seed, a cloud and a car across the top. Write the seven signs down the side.",
+     "kid": "Make a big table. Write seed, cloud and car across the top. Write the seven signs down the side.",
      "context": "This is the first step of the seven signs trial. You test a seed, a cloud and a car against the seven signs of life."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Go through the car, one sign at a time. Mark each box with a tick, a cross or a wavy line.",
-     "say": "Does a car get food? It takes in petrol, so maybe a wavy line. Does it get energy from the petrol? It burns the petrol with air. Does it grow? Does it make baby cars?",
-     "kid": "Test the car, one sign at a time. Mark a tick, a cross, or a wavy line for 'sort of'."
+     "say": "Does a car take in food? Does it grow? Does it make baby cars? What will you mark for each?",
+     "kid": "Mark each sign. Tick means yes. Cross means no. A wavy line means 'sort of'."
     },
     {
      "id": "s3",
@@ -1538,7 +1538,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Look at a dry moong seed. If you have a soaked or sprouted one, look at that too. Fill in the seed column.",
-     "say": "A dry seed seems to do nothing. But look at this sprouted one. Is this sprout feeding? Yes, on food stored inside the seed. Is the sprout growing? Which way is the root moving?",
+     "say": "A dry seed seems to do nothing. Now look at the sprouted one. Is the sprout growing? Which way is the root going? What could it be feeding on?",
      "kid": "Look at a dry seed. Then a sprouted one. Which signs does the seed show once they wake up? Fill in the seed's column.",
      "parent": "A dry seed is dormant. Once wet, the seed feeds on stored food, respires, grows, moves the root down, senses gravity and gives out carbon dioxide. Later the plant will flower and make seeds. If you have not done the seed test yet, you can come back to this column after it."
     },
@@ -1547,7 +1547,7 @@
      "mins": 3,
      "do": "Count the ticks in each column. Then ask your child to give a verdict for each thing, with evidence.",
      "say": "Which one did all seven? So which one is alive? Tell me your evidence like a judge.",
-     "kid": "Count the ticks. Which one does all seven? Give your verdict. Say what you saw. Say why.",
+     "kid": "Count the ticks in each column. Tell your grown-up your verdict and what you saw.",
      "parent": "A good answer: the seed is alive. Given water, the seed does all seven signs. The car and the cloud only show some signs, and they never grow from inside or make young of their own kind. For the extra question: a dry seed shows almost no signs right now, and a cat asleep shows only a few. Both are alive.",
      "think": "Can you think of something that shows only one or two signs of life right now, but is alive?"
     }
@@ -1585,8 +1585,8 @@
      "what": "Collect things on a walk. Sort them into three trays. Write labels in your own words. Count each tray."
     }
    ],
-   "record": "Write a label for each thing in your own words. Count how many things are in each tray, and draw a tally.",
-   "context": "This is a nature walk and a museum, best if you have a park or a garden nearby. You collect things, then sort them into three trays: alive, once alive and never alive. With no park, collect around the home instead.",
+   "record": "Write a label for each thing in your own words. Count how many things are in each tray, and write the number.",
+   "context": "You will find out that the things around you fall into three groups: alive, once alive and never alive. You collect small things, then sort them into three trays. Best with a park or garden nearby. With no park, collect around the home instead.",
    "setup": [
     {
      "art": "A child and a parent on a park path, the child dropping a fallen leaf, a twig and a pebble into a cloth bag.",
@@ -1605,9 +1605,9 @@
     {
      "id": "s1",
      "mins": 12,
-     "do": "Walk in a park, garden or lane for 10 minutes. Your child collects small things: leaves, twigs, seeds, pebbles, feathers, a flower, a bottle cap. Your child does not pick up animals, but draws them instead. No park? Collect things at home instead. Try a vegetable peel, a pencil, a thread, a spoon and a stone from a plant pot.",
-     "say": "Let's collect a museum. Pick up small things that are lying on the ground. If you see an animal, don't pick them up. We'll draw them.",
-     "kid": "Collect small things on the ground. Leaves, twigs, seeds, stones. If you see an animal, draw them.",
+     "do": "Walk in a park, garden or lane for 10 minutes. Your child collects small things: leaves, twigs, seeds, pebbles, feathers, a flower, a bottle cap. Your child does not pick up animals. Look at them, or take a photo, instead. No park? Collect things at home instead. Try a vegetable peel, a pencil, a thread, a spoon and a stone from a plant pot.",
+     "say": "Let's collect a museum. Pick up small things that are lying on the ground. If you see an animal, don't pick them up. We'll just look, or take a photo.",
+     "kid": "Collect small things on the ground. Leaves, twigs, seeds, stones. If you see an animal, just look at them, or take a photo.",
      "adult": true,
      "context": "This is the first step of the nature museum. You collect things on a walk, to sort into alive, once alive and never alive."
     },
@@ -1616,7 +1616,7 @@
      "mins": 8,
      "do": "Back home, set out three trays: alive, once alive, never alive. Your child sorts everything, one at a time, saying why.",
      "say": "Pick one thing. Is it alive now? Was it once part of something alive? Or was it never alive?",
-     "kid": "Set out three trays. Pick one thing. Is it alive, once alive or never alive? Say why. Put it in a tray.",
+     "kid": "Pick one thing from your collection. Put it in the right tray. Tell your grown-up why.",
      "parent": "Fallen leaves, twigs, feathers and dry seed pods are once alive, unless the seeds inside are still alive. Ask: could these seeds still grow? A freshly picked flower is still alive for a while, then dies. Stones and bottle caps were never alive. Moss on a stone is alive, so that stone is a home for life.",
      "check": {
       "t": "mcq",
@@ -1633,9 +1633,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Your child writes a label for each thing in their own words. 2. They count each tray and draw a tally.",
+     "do": "1. Your child writes a label for each thing in their own words. 2. They count each tray and write the number.",
      "say": "Write a label like a real museum. Say what it is and how you know.",
-     "kid": "Write a label for each thing. Count each tray. Draw a tally mark for each one.",
+     "kid": "Write a label for each thing. Count each tray. Write the number for each tray.",
      "think": "Which thing was hardest to sort? What did you need to know to decide?",
      "parent": "A good answer is a seed, a flower or a twig, because you need to know if it is still alive. For example, a seed is alive if they can still grow when given water."
     },
@@ -1676,8 +1676,8 @@
      "what": "Touch one leaf and time how long it takes to open again. While you wait, compare a light touch with a firmer tap."
     }
    ],
-   "record": "Write how many minutes the leaf took to open again. Write how many pairs of leaflets folded after a light touch and after a firmer tap. Draw a leaf open, closed and opening.",
-   "context": "This activity is about sensing, one of the seven signs of life. You touch a touch-me-not plant and watch how the plant responds, and time how long the leaves take to open again.",
+   "record": "Write how many minutes the leaf took to open again. Write how many pairs of leaflets folded after a light touch and after a firmer tap. Draw a leaf open, closed and opening, or take three photos.",
+   "context": "You will find out if a plant can feel touch. You touch a touch-me-not plant, watch what the leaves do, and time how long they take to open again.",
    "setup": [
     {
      "art": "A touch-me-not plant in a clay pot on a sunny step, their feathery leaves wide open.",
@@ -1698,7 +1698,7 @@
      "mins": 2,
      "do": "Find a touch-me-not plant with open leaves. Do this in the daytime, in a warm place, with the plant watered. Look closely at one leaf.",
      "say": "This plant is called chhui-mui, or lajwanti, or touch-me-not. Look at their little leaflets, lined up in pairs. What do you think will happen if we touch the plant?",
-     "kid": "This is a touch-me-not plant. Look at their tiny leaflets. What will happen if you touch the plant?",
+     "kid": "This is a touch-me-not plant. Look closely at one leaf. The tiny leaflets are in pairs.",
      "context": "This is the first step of the shy plant activity. You test whether a plant can sense touch."
     },
     {
@@ -1725,7 +1725,7 @@
      "mins": 3,
      "do": "1. Choose a second leaf. Touch just the tip of one leaflet, as lightly as you can, with the feather. Count how many pairs fold. 2. Choose a third leaf. Tap its stalk firmly with one finger. Watch what happens.",
      "say": "Let's compare. First the lightest touch you can make. How many pairs folded? Now a firm tap on another leaf. What is different?",
-     "kid": "Touch one leaflet very lightly. Count the pairs that fold. Then tap another leaf firmly. What is different?",
+     "kid": "Touch one leaflet very lightly. Count the pairs that fold. Then tap another leaf firmly.",
      "parent": "A light touch usually folds only a few pairs near the tip. A firm tap folds the whole leaf, and the leaf stalk often droops down. The plant senses how strong the touch is, and responds more to a stronger one."
     },
     {
@@ -1741,7 +1741,7 @@
      "mins": 2,
      "do": "Tell your child about the scientists who dropped touch-me-not plants in 2014. Then let the plant rest.",
      "say": "In 2014, scientists dropped touch-me-not plants gently, many times. The plants stopped folding. Weeks later, they still did not fold when dropped.",
-     "kid": "Scientists dropped these plants gently many times. The plants stopped folding. Weeks later, they still did not fold.",
+     "kid": "Why do you think the plants stopped folding?",
      "think": "Some scientists say the plants learned that the drop was safe, and remembered it. Others say the plants were only tired. What do you think?"
     }
    ]
@@ -1777,8 +1777,8 @@
      "what": "Tie one bag over a leafy branch and one over a dead twig. Leave them in the sun for 2 hours. Compare the bags."
     }
    ],
-   "record": "Draw both bags after 2 hours. Write what you see inside each.",
-   "context": "This activity shows that a living plant takes in water and gives out water and gases through their leaves. You tie a bag over a living branch and another over a dead twig, and compare.",
+   "record": "Take a photo of both bags after 2 hours, or draw them. Write what you see inside each.",
+   "context": "You will find out if a living plant gives out water. You tie a bag over a living branch and another over a dead twig, and compare.",
    "setup": [
     {
      "art": "A clear plastic bag tied with a rubber band over a leafy branch of a potted hibiscus on a sunny balcony.",
@@ -1827,7 +1827,7 @@
      "mins": 5,
      "do": "Talk about what the plant takes in and gives out.",
      "say": "A plant takes in water and air, and gives out water vapour and gases from their leaves. In sunlight, one gas they give out is oxygen, the gas we need.",
-     "kid": "A plant takes in water and air. They give out water and gases from their leaves. One gas is oxygen, which we breathe.",
+     "kid": "Tell your grown-up what the living plant gave out into the bag.",
      "parent": "Strictly, most of this water is not waste. The plant lets the water out as they pull up water and minerals from the soil, and it also cools the leaves. True plant waste includes the oxygen they make in sunlight, carbon dioxide from respiration, and waste stored in old leaves that fall."
     }
    ]
@@ -1856,7 +1856,7 @@
     }
    ],
    "record": "Write one piece of evidence for each sign of life in your body. Write your three ruler-catch numbers.",
-   "context": "This activity is about finding all seven signs of life in your own body. It includes a ruler-catch test that measures how fast you sense and respond.",
+   "context": "You will find out how your own body shows all seven signs of life. It includes a ruler-catch test that measures how fast you sense and respond.",
    "setup": [
     {
      "art": "A parent holding a ruler upright by its top end, and a child with finger and thumb open just below the bottom end, ready to catch.",
@@ -1901,7 +1901,7 @@
      "mins": 2,
      "do": "Ask your child which sign they cannot do yet.",
      "say": "Which sign of life are you not doing yet? Is that all right?",
-     "kid": "Which sign can't you do yet? Why is that fine?",
+     "kid": "Find the one sign you cannot do yet.",
      "check": {
       "t": "mcq",
       "q": "A child does six signs of life every day, but cannot make babies yet. Is the child alive?",
@@ -1935,12 +1935,12 @@
      "what": "List six living things. Find what each eats. Draw arrows from food to eater, all the way back to the Sun."
     }
    ],
-   "record": "Draw a food chart with arrows from the Sun to plants to animals, and back to the soil.",
-   "context": "This activity is about nutrition, one of the seven signs of life. You draw a chart of who eats what, and find that all food starts with sunlight caught by plants.",
+   "record": "Make a food chart with arrows from the Sun to plants to animals, and back to the soil.",
+   "context": "You will find out where all food comes from. You make a chart of who eats what, and follow it back to sunlight caught by plants.",
    "setup": [
     {
      "art": "A sheet of paper with small drawings of a Sun, a grass patch, a cow, a grasshopper, a crow, a mushroom and a child.",
-     "caption": "1. Draw the Sun and six living things."
+     "caption": "1. Write the Sun and six living things."
     },
     {
      "art": "The same sheet with arrows from the Sun to the grass, the grass to the cow and the grasshopper, the grasshopper to the crow, the cow's milk to the child, and a fallen leaf to a mushroom.",
@@ -1955,17 +1955,17 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Draw the Sun at the top, and six living things: grass, a cow, a grasshopper, a crow, a mushroom and your child.",
+     "do": "Write the word Sun at the top of the sheet. Below it, write six living things: grass, cow, grasshopper, crow, mushroom and your child's name.",
      "say": "Every living thing needs food. But where does the food come from in the first place? Let's follow it back.",
-     "kid": "Draw the Sun. Then draw grass, a cow, a grasshopper, a crow, a mushroom and you.",
+     "kid": "Write Sun at the top. Then write grass, cow, grasshopper, crow, mushroom and your own name.",
      "context": "This is the first step of Who Eats What. You draw a chart to find where every living thing's food comes from."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Your child draws an arrow from each food to the thing that eats it.",
+     "do": "Your child draws an arrow from each food to the thing that eats it, or points and says it.",
      "say": "The arrow goes from the food to the eater. What does the cow eat? What does a crow eat? Where does the grass get their food?",
-     "kid": "Draw arrows from each food to who eats it. Where does the grass get their food?",
+     "kid": "Draw an arrow from each food to its eater, or point and say it.",
      "check": {
       "t": "mcq",
       "q": "In the food chart, where does grass get their food?",
@@ -1981,9 +1981,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Add arrows from every living thing to a strip of soil at the bottom.",
+     "do": "Write soil at the bottom. Add an arrow from every living thing to the soil, or point and say it.",
      "say": "When a leaf falls or an animal dies, what happens to them? Who do you think eats them?",
-     "kid": "Draw arrows from everything to the soil. Who eats the dead things? Mushrooms and tiny soil creatures.",
+     "kid": "Show how everything ends up in the soil. Who eats the dead things? Mushrooms and tiny soil creatures.",
      "think": "If all the food starts with sunlight, is some of the Sun inside you right now?",
      "parent": "After your child has guessed, explain: mushrooms and tiny living things in the soil feed on dead leaves and animals, and turn them back into soil and air. For the last question: yes. The energy in your food was first caught from sunlight by plants. So some of the Sun's energy is inside you."
     }
@@ -2051,8 +2051,8 @@
      "what": "Measure again. Fill in the seven signs page. Move the strongest seedling into a bigger pot in a sunny spot, and keep watching for flowers and pods."
     }
    ],
-   "record": "A diary page for each visit: a drawing, the height of the tallest plant, and which signs of life you saw. Finish with a seven-signs page with evidence for each sign.",
-   "context": "In this 10-day project you grow moong plants and keep a diary. You look for evidence of each of the seven signs of life, including a shoebox test to see if plants can sense light and move towards it.",
+   "record": "A diary page for each visit: a drawing or photo, the height of the tallest plant, and which signs of life you saw. Finish with a seven-signs page with evidence for each sign.",
+   "context": "You will find out how a moong plant shows the signs of life. For 10 days you grow moong plants and keep a diary. You look for evidence of each of the seven signs, including a shoebox test to see if plants sense light and move towards it.",
    "setup": [
     {
      "art": "Two paper cups of soil on a windowsill with tiny moong shoots, and a child writing in a notebook.",
@@ -2071,9 +2071,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Fill two pots with soil. 2. Push 3 moong seeds into each, about 1 cm deep. 3. Water gently. Give a little water every day or two from now on. 4. Start the diary: draw the pots and write a guess.",
+     "do": "1. Fill two pots with soil. 2. Push 3 moong seeds into each, about 1 cm deep. 3. Water gently. Give a little water every day or two from now on. 4. Start the diary: write a guess about which signs you will see. Draw the pots, or take a photo.",
      "say": "We will keep a life diary for 10 days. Our job is to catch the moong plant doing every sign of life.",
-     "kid": "Plant 3 seeds in each pot. Water them. Start your diary. Draw the pots.",
+     "kid": "Plant 3 seeds in each pot. Water them. Start your diary with a guess about which signs you will see.",
      "context": "This is the first step of the life diary project. You grow moong plants and look for all seven signs of life."
     },
     {
@@ -2098,7 +2098,7 @@
      "mins": 10,
      "do": "On day 7, open the box. Compare the two pots. Measure both.",
      "say": "Look at the box plants. Which way did they grow? How did they know where the light was?",
-     "kid": "Open the box. Which way did the shoots grow? Measure both pots.",
+     "kid": "Open the box. Look at the shoots and measure both pots.",
      "wait": "Come back on day 7.",
      "check": {
       "t": "mcq",
@@ -2153,8 +2153,8 @@
     "Could you test for growth? Check if the bubbles get faster over an hour.",
     "Could you test for sensing? Living things might respond differently in the cold, in the dark or with no food."
    ],
-   "your_turn": "Now design your own life detector. Draw it, list its tests, and say what result would make you shout 'Life!'. What result would trick you?",
-   "context": "This is an engineering challenge. You design tests that could find life in soil from Mars, and try them on three mystery cups of atta.",
+   "your_turn": "Now design your own life detector. List its tests, and draw it if you like. Say what result would make you shout 'Life!'. What result would trick you?",
+   "context": "You will find out which of three mystery cups of atta has something alive in it. You design the tests, like a robot sent to look for life on Mars.",
    "setup": [
     {
      "art": "Three small cups of atta labelled A, B and C on a tray, with a cup of sugar water and a spoon beside them.",
@@ -2175,7 +2175,7 @@
      "mins": 5,
      "do": "Talk about the problem. Ask your child which signs of life a robot could test from far away.",
      "say": "We can't send a scientist to Mars. A robot has to do the tests. Which signs of life could a robot check?",
-     "kid": "A robot on Mars scoops up soil. How could it tell if anything in the soil is alive? Which signs could it test?",
+     "kid": "Imagine a robot on Mars scooping up soil. You plan the tests it will do.",
      "ask": [
       {
        "q": "Which signs could a robot test?",
@@ -2218,9 +2218,9 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Your child draws their own life detector and lists its tests.",
+     "do": "Your child invents their own life detector. They list its tests, and can draw it too.",
      "say": "Now invent your own detector. What tests would you add? What result would make you sure? What could trick you?",
-     "kid": "Draw your own life detector. List its tests. What would make you shout 'Life!'?"
+     "kid": "Invent your own life detector. List its tests, or draw it. What would make you shout 'Life!'?"
     }
    ]
   },
@@ -2251,8 +2251,8 @@
     "If you have a garden, add a pinch of damp leaf litter with its tiny soil creatures, to break down dead leaves. Could the jar recycle its own waste?",
     "Make two jars: one in light, one in a dark cupboard. Which plant keeps doing the signs of life?"
    ],
-   "your_turn": "Design your own jar world. Draw it with labels. After two weeks, say which signs of life you saw inside, and where the water and air went.",
-   "context": "This is a design challenge. You build a closed jar garden that keeps a plant alive with no new food or water, using only light from outside.",
+   "your_turn": "Design your own jar world. Draw it with labels, or describe it. After two weeks, say which signs of life you saw inside, and where the water and air went.",
+   "context": "You will find out if a plant can stay alive in a closed jar with no new food or water. You build a jar garden and use only light from outside.",
    "setup": [
     {
      "art": "A big glass pickle jar with a layer of small stones at the bottom and a layer of dark soil above.",
@@ -2305,9 +2305,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Your child draws the jar with arrows for water, air and light.",
-     "say": "Draw your jar world. Show where the water goes, and where the light comes from.",
-     "kid": "Draw your jar. Draw arrows for the water going round. Draw the light coming in.",
+     "do": "Your child shows where the water, air and light go. They can draw arrows, or point at the jar and tell it.",
+     "say": "Show me where the water goes, and where the light comes from. Draw it, or point and tell me.",
+     "kid": "Show how the water goes round and where the light comes in. Draw it, or point at the jar and tell it.",
      "think": "Is the Earth a bit like a jar world? What comes in from outside, and what goes round and round?",
      "parent": "A good answer is that light comes in from outside. The water and the air go round and round inside the jar. The Earth is the same. Sunlight comes in from space, while water and air go round and round."
     }

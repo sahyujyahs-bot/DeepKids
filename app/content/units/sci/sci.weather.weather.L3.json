@@ -593,7 +593,7 @@
      "mins": 7,
      "do": "Take turns being the wind and the vane, five times each.",
      "say": "I'm the wind now. Where am I coming from? Point your arrow and say my name.",
-     "kid": "Point your arm at the wind. Say its name. Is it a north wind? A south wind?",
+     "kid": "Point your arm at the wind. Say its name.",
      "check": {
       "t": "mcq",
       "q": "The 'wind' waves a newspaper from the south wall. What should the vane say?",
@@ -611,7 +611,7 @@
      "mins": 1,
      "do": "1. The wind stands in the corner between the south and west walls and waves the newspaper. 2. Ask: what wind is this?",
      "say": "The big summer monsoon comes from the southwest. Which way would a vane in Kerala point?",
-     "kid": "The summer monsoon comes from the southwest. Where would the arrow point?"
+     "kid": "Be the vane. Point your arm where the monsoon wind comes from."
     }
    ],
    "setup": [
@@ -676,7 +676,7 @@
      "what": "Guess. Read the thermometer in the shade, in the sun, and in the sun under a white paper roof. Compare with the weather report."
     }
    ],
-   "record": "Fill in the table. Draw your balcony or window from above, and mark the three places with their readings.",
+   "record": "Fill in the table with the three places and their readings. If you like, draw your balcony from above and mark the places, or just tell your grown-up where each one was.",
    "flow": [
     {
      "id": "s1",
@@ -756,7 +756,7 @@
      "mins": 4,
      "do": "1. Open a weather app, or look at today's newspaper weather box. 2. Find the temperature for your town right now. 3. Compare it with your three readings.",
      "say": "Weather stations measure the air in the shade. Which of our three readings is closest to the weather report?",
-     "kid": "Look at the weather app. Which of your readings is closest to it?",
+     "kid": "Look at the weather app. Find the temperature for your town. Compare it with your three readings.",
      "check": {
       "t": "mcq",
       "q": "Which of your readings is likely to be closest to the weather report?",
@@ -878,7 +878,7 @@
      "what": "Make rain by pouring water through a chalni over a wide and a narrow container. Measure the depth in each, swap them, and do it again."
     }
    ],
-   "record": "Fill in the table. Draw the two containers side by side, with the water level in each.",
+   "record": "Fill in the table with the depth in each container. If you like, draw the two containers with the water level in each, or take a photo.",
    "flow": [
     {
      "id": "s1",
@@ -1007,7 +1007,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Read the shade thermometer at 7 in the morning, 10, 12 noon, 2, 4 and 7 in the evening. Draw a line chart."
+     "what": "Read the shade thermometer at 7 in the morning, 10, 12 noon, 2, 4 and 7 in the evening. Draw a line chart, or point to the highest reading."
     }
    ],
    "record": "Fill in the table. Then draw a line chart, with the times along the bottom and the temperature up the side.",
@@ -1033,9 +1033,9 @@
     {
      "id": "s3",
      "mins": 9,
-     "do": "1. Draw a line chart: times along the bottom, temperature up the side. 2. Put a dot for each reading and join the dots. 3. Circle the highest dot.",
+     "do": "1. Draw a line chart: times along the bottom, temperature up the side. 2. Put a dot for each reading and join the dots. 3. Circle the highest dot. If you do not want to draw, point to the highest reading in your table.",
      "say": "Let's see the whole day at once. Where is the highest point on our chart?",
-     "kid": "Draw a dot for each reading. Join them. Circle the highest one. What time was it?",
+     "kid": "Draw a dot for each reading, or point to each reading in your table. Join them. Circle the highest one. What time was it?",
      "check": {
       "t": "mcq",
       "q": "On a clear day, when is the shade temperature usually highest?",
@@ -1158,7 +1158,7 @@
      "parent": "Most guesses are a few degrees off. That is the point: our skin is not a measuring tool. Keep the guess for the Sun or Shade test."
     }
    ],
-   "context": "A quick start: you notice the weather with your own senses, and guess the temperature before measuring it.",
+   "context": "A quick start: you will find out how much you can tell about the weather with only your eyes, ears and skin. Then you guess the temperature before measuring it.",
    "setup": [
     {
      "art": "A child at an open window with a grill, looking at clothes moving on a line and clouds in the sky.",
@@ -1217,7 +1217,7 @@
      "what": "Make the wind vane. Test it with a fan. Mark N, E, S and W. Put it on the balcony."
     }
    ],
-   "record": "Draw your wind vane. Write where the wind was coming from.",
+   "record": "Take a photo of your wind vane, or draw it. Write where the wind was coming from.",
    "flow": [
     {
      "id": "s1",
@@ -1379,7 +1379,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Ask: at what time of day was the max probably measured? And the min? 2. Compare the report with your own shade reading.",
+     "do": "1. Ask: at what time of day was the max probably measured? And the min? 2. Compare the report with your own shade reading from the Sun or Shade test, or with your guess from the first activity.",
      "say": "When do you think the air was warmest yesterday? When was it coolest? Is our reading close to the report?",
      "kid": "When was it warmest? When was it coolest? Is your reading close to the report?",
      "ask": [
@@ -1395,7 +1395,7 @@
      "parent": "The max is usually in the afternoon and the min just before sunrise. A difference of a degree or two from your own shade reading is normal."
     }
    ],
-   "context": "In this activity you read a real weather report, and compare it with your own readings.",
+   "context": "In this activity you read a real weather report. You find out how close your own readings are to what weather stations measure.",
    "setup": [
     {
      "art": "A newspaper weather box showing a city name, Max 36, Min 27 and Rainfall 0 mm.",
@@ -1433,7 +1433,7 @@
      "mins": 4,
      "do": "1. A grown-up touches the sunny ledge first, to check it is safe. 2. Your child touches it for a moment with the back of the hand. 3. Then your child holds the hand in the air just above the ledge.",
      "say": "Which feels hotter, the sunny ledge or the air just above it? Why might that be?",
-     "kid": "Touch the sunny ledge for a moment. Now hold your hand just above it. Which feels hotter?",
+     "kid": "Touch the sunny ledge for a moment. Now hold your hand just above it.",
      "adult": true,
      "context": "This is the first step of finding what sunlight heats most: solid things or the air.",
      "parent": "Your hand is warmed by sunlight too, just like the thermometer. When you feel the air above the ledge, shade your hand with a notebook held above it."
@@ -1442,8 +1442,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Do the same on a shaded ledge or floor. 2. Put the four places in order from hottest to coolest: the sunny ledge, the air above it, the shady ledge and the air above it.",
-     "say": "Sunlight goes straight through clear air, but the ledge takes it in. What does that tell us about where to put a thermometer?",
-     "kid": "Now feel a shady ledge and the air above it. Put all four in order, hottest first.",
+     "say": "Do the same in the shade. Which of the four places do you think is hottest? Which is coolest?",
+     "kid": "Feel a shady ledge and the air above it. Put all four places in order, hottest first.",
      "check": {
       "t": "mcq",
       "q": "Why does a sunny ledge get hotter than the air just above it?",
@@ -1500,7 +1500,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Set up the weather station: shade thermometer, rain gauge and wind vane. Draw the diary table. Make the first entry."
+     "what": "Set up the weather station: shade thermometer, rain gauge and wind vane. Make the diary table. Make the first entry."
     },
     {
      "day": 2,
@@ -1533,14 +1533,14 @@
      "what": "Last readings. Draw a bar chart of the seven afternoon temperatures. Find one pattern."
     }
    ],
-   "record": "Each day at 8 in the morning and 3 in the afternoon: the temperature in the shade, the rain in mm, where the wind comes from, the wind number from 0 to 5, and a drawing of the sky.",
+   "record": "Each day at 8 in the morning and 3 in the afternoon: the temperature in the shade, the rain in mm, where the wind comes from, the wind number from 0 to 5, and one word or a photo for the sky.",
    "flow": [
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Hang the thermometer in the shade, under the paper roof. 2. Put the rain gauge on the open edge of the balcony or terrace, with nothing above it. 3. Put the wind vane beside it. 4. Draw the diary table and make the first entry when you finish.",
+     "do": "1. Hang the thermometer in the shade, under the paper roof. 2. Put the rain gauge on the open edge of the balcony or terrace, with nothing above it. 3. Put the wind vane beside it. 4. Make the diary table in your notebook and make the first entry when you finish.",
      "say": "This is our own weather station. Real weather stations read their tools at the same times every day, so we will too.",
-     "kid": "Set up your thermometer, rain gauge and wind vane. Draw your table. Write today's weather.",
+     "kid": "Set up your thermometer, rain gauge and wind vane. Make your table. Write today's weather.",
      "adult": true,
      "parent": "If your balcony has a roof over all of it, the rain gauge will catch nothing. Put it on a terrace or a window ledge open to the sky, or simply write 'not measured' for rain.",
      "context": "This is the first day of My Weather Diary, a 7-day project. You set up your own small weather station."
@@ -1548,18 +1548,18 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "On days 2 to 6, every morning at 8 and every afternoon at 3: 1. Read the thermometer. 2. Read the rain gauge in mm, then empty it. 3. Read the wind vane and the wind number. 4. Draw the sky.",
+     "do": "On days 2 to 6, every morning at 8 and every afternoon at 3: 1. Read the thermometer. 2. Read the rain gauge in mm, then empty it. 3. Read the wind vane and the wind number. 4. Write one word for the sky, such as sunny, cloudy or rainy, or take a photo.",
      "say": "What does our weather station say today? Is it the same as yesterday?",
-     "kid": "Read your tools. Write the numbers. Empty the rain gauge. Draw the sky.",
+     "kid": "Read your tools. Write the numbers. Empty the rain gauge. Write one word for the sky.",
      "wait": "Do this every day on days 2 to 6",
      "parent": "No rain all week is a real result. Write 0 mm each day. A dry week in summer is normal in much of India."
     },
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. On day 7, take the last readings. 2. Draw a bar chart of the seven afternoon temperatures. 3. Ask your child to find one pattern. 4. Ask what they would like to measure next.",
+     "do": "1. On day 7, take the last readings. 2. Draw a bar chart of the seven afternoon temperatures, or just write them in a row. 3. Ask your child to find one pattern. 4. Ask what they would like to measure next.",
      "say": "Look at the whole week. What do you notice? Was it always warmer in the afternoon? Did the wind usually come from one side?",
-     "kid": "Draw a bar for each afternoon. What pattern can you see?",
+     "kid": "Draw a bar for each afternoon, or look at your seven numbers. What pattern can you see?",
      "check": {
       "t": "mcq",
       "q": "You keep a weather diary for a week. The afternoon is warmer than the morning on all seven days. What is the best thing to say?",
@@ -1573,7 +1573,7 @@
      }
     }
    ],
-   "context": "In this 7-day project you keep a weather diary, with your own thermometer, rain gauge and wind vane, and look for patterns.",
+   "context": "In this 7-day project you keep a weather diary, with your own thermometer, rain gauge and wind vane. You find out whether the weather follows a pattern at your home.",
    "setup": [
     {
      "art": "A balcony corner with a thermometer under a paper roof, a jar rain gauge with a ruler on the open ledge, and a wind vane on a bottle.",
@@ -1618,7 +1618,7 @@
     "Stack three white paper plates with gaps between them, like the screens some weather stations use for small sensors.",
     "Hang the screen from the grill, so it does not touch the hot ledge."
    ],
-   "your_turn": "Now design your own weather screen. Draw it, build it, and test it: hang the thermometer inside it in the sun, then in full shade. How close are the two readings?",
+   "your_turn": "Now design your own weather screen. Plan it (sketch it or tell your plan), build it, and test it: hang the thermometer inside it in the sun, then in full shade. How close are the two readings?",
    "flow": [
     {
      "id": "s1",
@@ -1631,9 +1631,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Draw a design. 2. Build it from home things. 3. A grown-up does any cutting.",
+     "do": "1. Plan your design: sketch it, or tell your grown-up. 2. Build it from home things. 3. A grown-up does any cutting.",
      "say": "What will keep the sunlight off, but let the air through?",
-     "kid": "Draw your weather screen. Build it. Ask a grown-up to do the cutting.",
+     "kid": "Plan your weather screen: sketch it or say it. Build it. Ask a grown-up to do the cutting.",
      "adult": true
     },
     {
@@ -1689,8 +1689,8 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Pour water into each jar until a ruler standing in it reads 20 mm. 2. Mark that level on the jar with a marker. 3. Leave one jar plain. 4. Add your idea to the other.",
-     "say": "Both start with the same water. Only your idea is different. That makes it a fair test.",
+     "do": "1. Pour water into each jar until a ruler standing in it reads 20 mm. 2. Mark that level on the jar with a pen or a rubber band. 3. Leave one jar plain. 4. Add your idea to the other.",
+     "say": "Both start with the same water. Only your idea is different. That makes it a fair test. Ideas: float a spoon of cooking oil on the water, or put the bottle-top funnel in the jar mouth.",
      "kid": "Pour 20 mm of water into each jar. Mark the level. Leave one plain. Add your idea to the other.",
      "context": "This is the first step of the Rain While You Are Away challenge. You set up a plain jar and your improved jar."
     },

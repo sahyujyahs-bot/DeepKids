@@ -716,7 +716,7 @@
      "mins": 8,
      "do": "Play the next twelve cards. Swap the reader's job after every card. Keep a tally of points on paper.",
      "say": "Keep going. Remember that the quick defence is the same for any germ and works in minutes. The learning defence fits one germ, takes days the first time, and remembers.",
-     "kid": "Play on. The quick defence is fast and the same for every germ. The learning defence fits one germ and remembers.",
+     "kid": "Play on. Pick a token for each card. Keep your tally.",
      "ask": [
       {
        "q": "Which cards fooled you? What made them hard?",
@@ -734,7 +734,7 @@
      "mins": 3,
      "do": "Play the last four cards. When all cards are read, add up the points. Ask the closing question.",
      "say": "That was the last card. Add up your points. Here is a question. Which defence would you rather have, if you could have only one? Why?",
-     "kid": "Count your points. Which defence would you keep if you had only one? Why?",
+     "kid": "Count your points.",
      "ask": [
       {
        "q": "Why does your body need both defences?",
@@ -817,9 +817,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Draw the board. Put out the shields. Talk together about where ten shields would block the germ best. Place them.",
+     "do": "Draw a six by six board. Use ten coins, buttons or paper slips as shields. Talk together about where ten shields would block the germ best. Place them.",
      "say": "This is our town. We have ten shields and no idea where the germ will start. Where should we put them? Why there?",
-     "kid": "Draw the board. Talk about where to put ten shields. Place them.",
+     "kid": "Talk about where to put ten shields. Place them.",
      "ask": [
       {
        "q": "Why did you choose those squares for the shields?",
@@ -836,8 +836,8 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Roll two dice to find the start. Colour that square red. Roll one die for each neighbour, above, below, left and right. A 1, 2, 3 or 4 makes that neighbour sick. Keep going until nothing new gets sick. Count the sick squares.",
-     "say": "Roll the two dice for the start. Colour that square red. Now roll for each neighbour. A one, two, three or four makes the neighbour sick. A five or six keeps the neighbour well. Keep going.",
+     "do": "Roll two dice to find the start: the first die is the row, the second is the column. If that square has a shield, roll again. Colour it red. Roll one die for each neighbour, above, below, left and right. A 1, 2, 3 or 4 makes that neighbour sick. Keep going until nothing new gets sick. Count the sick squares.",
+     "say": "Roll the two dice for the start. The first is the row and the second is the column. Colour that square red. Now roll for each neighbour. A one, two, three or four makes the neighbour sick. A five or six keeps the neighbour well. Keep going.",
      "kid": "Roll two dice for the start. Colour that square red. Roll for each neighbour. One to four makes the neighbour sick.",
      "check": {
       "t": "mcq",
@@ -877,7 +877,7 @@
      "mins": 3,
      "do": "Play one more round. Add up how many of the three rounds the town won. Then ask the closing question.",
      "say": "That was the last round. How many did the town win? Here is a question. If you could not choose where the shields go, what would that mean for a real town?",
-     "kid": "Count your wins. What if you could not choose where the shields go?",
+     "kid": "Count how many rounds the town won.",
      "ask": [
       {
        "q": "In a real town, we cannot choose who is protected so carefully. What does that mean for how many people we need to protect?",
@@ -932,7 +932,7 @@
     }
    ],
    "record": "Write the number of cells you needed in each round (six rounds for three flips, eight for two flips, four for four flips) in the table. At the end, add the numbers in each row and divide by the number of rounds to find the average. Then say what you thought would happen, what you saw, and why you think it happened.",
-   "context": "In this test, you play a body that makes defender cells at random, and a germ that has one shape. You count how many random cells you need to make before one of them fits.",
+   "context": "In this test, you play a body that makes defender cells at random, and a germ that has one shape. You count how many random cells you need to make before one of them fits. You will find out why a real body must make so many different cells.",
    "setup": [
     {
      "art": "A hand flipping a coin three times, with the results H, T, H written on a card labelled Germ.",
@@ -957,7 +957,7 @@
      "mins": 4,
      "do": "Explain the test. The germ has a code made of coin flips. The body makes random cells by flipping the same number of times. Ask for a guess and a reason, and write both down.",
      "say": "A germ has a shape. We show the shape as three coin flips, like heads, tails, heads. Your body makes new defender cells with random shapes. How many random cells do you think it needs before one fits? Why do you think so?",
-     "kid": "A germ has a shape made of three coin flips. Your body makes random cells. How many will you need before one fits? Why?",
+     "kid": "Guess a number of cells. Then tell your grown-up why you think so.",
      "ask": [
       {
        "q": "What do you think will happen if each code has four flips instead of three? Why?",
@@ -975,8 +975,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Write all eight possible three-flip codes in a list: HHH, HHT, HTH, HTT, THH, THT, TTH, TTT. Flip the coin three times for the germ, and write the code on a card. Keep the card face up.",
-     "say": "Here are all the shapes that a cell with three flips can have. Count them. How many are there? Now flip three times, to give the germ a shape. Write it here.",
-     "kid": "Write all eight three-flip codes in a list. Flip three times for the germ. Write its code on a card.",
+     "say": "Here are all the shapes that a cell with three flips can have. Now flip three times, to give the germ a shape. Write it on a card.",
+     "kid": "Look at the eight three-flip codes. Flip three times to make the germ's code. Write it on a card.",
      "ask": [
       {
        "q": "How many different shapes are possible with three flips?",
@@ -1136,7 +1136,7 @@
      "buy": "b-dice"
     }
    ],
-   "record": "For each town, write the number of shields, the number of sick squares, and the number of squares with no shield that stayed well. Then draw a bar for each town to show the sick squares.",
+   "record": "For each town, write the number of shields, the number of sick squares, and the number of squares with no shield that stayed well. Then put the towns in order, from fewest sick squares to most.",
    "context": "In this test, you play a germ that spreads through a town of 25 squares. You find out how many squares get sick with no shields, with a few shields and with many shields.",
    "setup": [
     {
@@ -1145,7 +1145,7 @@
     },
     {
      "art": "A hand drawing a numbered slip from a bowl, and a green shield mark being drawn on the matching square.",
-     "caption": "2. Draw slips from the bowl. Mark each drawn square with a green shield."
+     "caption": "2. Pick slips from the bowl. Mark each drawn square with a green shield."
     },
     {
      "art": "A die being rolled beside a red square, with arrows pointing to the four neighbours above, below, left and right.",
@@ -1184,7 +1184,7 @@
      "kid": "Draw a grid of five by five squares. Number them 1 to 25. Colour square 13 red. Draw it three times.",
      "check": {
       "t": "mcq",
-      "q": "Why do we draw the shields from a bowl, and not choose the squares?",
+      "q": "Why do we pick the shields from a bowl, and not choose the squares?",
       "options": [
        "So nobody can pick the best places to block the germ",
        "So the game takes longer",
@@ -1218,18 +1218,18 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Play town B. Draw 8 slips from the bowl. Mark those squares with a green shield. Put the slips back. Square 13 is sick. Roll for the neighbours as you did in town A, but shielded squares never get sick. Count the red squares.",
-     "say": "Now eight squares get a shield. Draw eight slips and mark them green. A shielded square cannot get sick, so the germ cannot pass through it. Roll as you did in town A. How many squares get sick this time?",
-     "kid": "Draw eight slips. Mark those squares green. Shielded squares never get sick. Roll for the germ. Count.",
+     "do": "Play town B. Pick 8 slips from the bowl. Mark those squares with a green shield. Put the slips back. Square 13 is sick. Roll for the neighbours as you did in town A, but shielded squares never get sick. Count the red squares.",
+     "say": "Now eight squares get a shield. Pick eight slips and mark them green. A shielded square cannot get sick, so the germ cannot pass through it. Roll as you did in town A. How many squares get sick this time?",
+     "kid": "Pick eight slips. Mark those squares green. Shielded squares never get sick. Roll for the germ. Count.",
      "parent": "Put every slip back after drawing, so the bowl is full again for town C. Town B typically has about 2 to 14 sick squares, around 8 on average. Chance matters a lot with so few squares. If a shield lands right next to square 13, that may block much of the spread.",
      "context": "In this step, you play town B with 8 shields. You can compare it with town A."
     },
     {
      "id": "s5",
      "mins": 7,
-     "do": "Play town C. Draw 16 slips from the bowl. Mark those squares with a green shield. Square 13 is sick. Roll for the neighbours as you did in town A. Count the red squares. Then count the squares that are not shielded and still well.",
-     "say": "Now sixteen squares get a shield. Draw sixteen slips and mark them green. Roll as you did in town A. Count the sick squares. Then count the squares that have no shield and are still well.",
-     "kid": "Draw sixteen slips. Mark them green. Roll for the germ. Count the sick squares.",
+     "do": "Play town C. Pick 16 slips from the bowl. Mark those squares with a green shield. Square 13 is sick. Roll for the neighbours as you did in town A. Count the red squares. Then count the squares that are not shielded and still well.",
+     "say": "Now sixteen squares get a shield. Pick sixteen slips and mark them green. Roll as you did in town A. Count the sick squares. Then count the squares that have no shield and are still well.",
+     "kid": "Pick sixteen slips. Mark them green. Roll for the germ. Count the sick squares and the well squares with no shield.",
      "ask": [
       {
        "q": "Some squares have no shield and are still well. Why did the germ not reach them?",
@@ -1246,9 +1246,9 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "Write the results in the table. Draw a bar for each town to show the sick squares. Ask your child to say what they thought would happen, what they saw, and why they think it happened. Then ask about the unshielded squares that stayed well.",
+     "do": "Write the results in the table. Put the three towns in order, fewest sick squares first. Ask your child to say what they thought would happen, what they saw, and why they think it happened. Then ask about the unshielded squares that stayed well.",
      "say": "Tell me three things. What did you think would happen? What did you see in the three towns? Why do you think that happened? Look at the unshielded squares that stayed well. What protected them?",
-     "kid": "Write the numbers in the table. Draw a bar for each town. Say what you thought would happen, what you saw, and why it happened.",
+     "kid": "Write the numbers in the table. Put the towns in order, fewest sick first. Say what you thought would happen, what you saw, and why it happened.",
      "think": "In a real town, some people cannot be vaccinated. Who protects them?",
      "check": {
       "t": "mcq",
@@ -1308,8 +1308,8 @@
      "id": "s1",
      "mins": 6,
      "do": "Open the card to the page of vaccines. If you have no card, use this example card. Birth: BCG and hepatitis B. 6, 10 and 14 weeks: polio drops and more. 9 months: measles and rubella. 16 months: a second measles and rubella dose. 5 years: a booster. Your own card may differ. Ask your child what they notice.",
-     "say": "This card lists the vaccines a child has had. What do you notice? What do you wonder? Take your time.",
-     "kid": "Look at the card. What do you notice? What do you wonder?",
+     "say": "This card lists the vaccines a child has had. Take your time. What do you wonder about it?",
+     "kid": "Look at the card. Find one thing that surprises you.",
      "ask": [
       {
        "q": "What do you notice about the dates and the vaccines?",
@@ -1326,9 +1326,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Ask your child to circle the vaccines that have more than one date. Count the doses of each. Write the counts on paper. Ask why they think some have more than one dose. Then count every dose on the card from birth to five years old, and write the total.",
-     "say": "Circle every vaccine that appears more than once. How many doses does each one have? Why do you think some have more than one?",
-     "kid": "Circle each vaccine with more than one date. Count the doses. Why more than one?",
+     "do": "Ask your child to point to the vaccines that have more than one date. Count the doses of each. Write the counts on paper. Ask why they think some have more than one dose. Then count every dose on the card from birth to five years old, and write the total.",
+     "say": "Point to every vaccine that appears more than once. How many doses does each one have? Why do you think some have more than one?",
+     "kid": "Point to each vaccine with more than one date. Count the doses.",
      "ask": [
       {
        "q": "Why do you think some vaccines are given more than once?",
@@ -1345,9 +1345,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Ask your child to find the small round scar on the top of one upper arm. Many Indian children have it, from the BCG vaccine. It is more often on the left arm. Not every child has one. Draw the scar in the notebook.",
+     "do": "Ask your child to find the small round scar on the top of one upper arm. Many Indian children have it, from the BCG vaccine. It is more often on the left arm. Not every child has one. Look at it, or take a photo, or tell your grown-up how big it is.",
      "say": "Look at the top of your upper arm. Many children have a small round scar there. It is from one tiny injection when you were a baby. Why would a scar from long ago matter now?",
-     "kid": "Look at the top of your upper arm. Is there a small round scar? Draw it.",
+     "kid": "Look at the top of your upper arm. Is there a small round scar? Show your grown-up.",
      "parent": "Not every child has a visible scar, and that does not mean the vaccine did not work. If there is no scar, skip the question and move on.",
      "context": "In this step, you look for the scar the BCG vaccine leaves. It connects the card to your own body."
     }
@@ -1376,7 +1376,7 @@
      "qty": 1
     }
    ],
-   "record": "Write the time it took the first time, the second time, and for the six new words. Draw three bars to show them. Say why the second time was faster.",
+   "record": "Write the time it took the first time, the second time, and for the six new words. Say why the second time was faster.",
    "context": "In this activity, you solve a puzzle twice. The second time is a small model for how memory cells make the second meeting with a germ faster.",
    "setup": [
     {
@@ -1398,7 +1398,7 @@
      "mins": 6,
      "do": "Write the six scrambled words on paper: CANCIEV, ROMEMY, MREG, HPLYM, HEDLIS, LCEL. Start the timer. Your child unscrambles all six. Stop the timer when the last word is solved. Write the time.",
      "say": "Here are six scrambled words. They all come from our unit. Unscramble them as fast as you can. I will time you. First, guess. Will the second time be faster or slower? Why do you think so?",
-     "kid": "Unscramble six words. Your grown-up times you. Guess first. Will the second time be faster? Why?",
+     "kid": "Unscramble all six words as fast as you can. Your grown-up times you.",
      "parent": "The answers are VACCINE, MEMORY, GERM, LYMPH, SHIELD and CELL. Do not give hints. Any time is fine. A first time of one to three minutes is common.",
      "context": "This is the first step of Faster the second time. You solve the puzzle once and write down how long it took."
     },
@@ -1410,7 +1410,7 @@
      "kid": "Do the same six words again. Your grown-up times you.",
      "ask": [
       {
-       "q": "Why was the second time faster?",
+       "q": "In the puzzle, what plays the part of a memory cell?",
        "good": [
         "I remembered the answers.",
         "I already knew them.",
@@ -1435,9 +1435,9 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Now test whether your child was faster only because they were warmed up. Give your child six new scrambled words: OBDOL, SURIV, NEGE, VEREF, NOEB, KLIM. They are BLOOD, VIRUS, GENE, FEVER, BONE and MILK. Time it. Draw three bars: first try, second try and new words. Ask your child to say how the puzzle is like the body, and how it is not.",
-     "say": "Draw one bar for each time. How is this puzzle like what a body does the second time it meets a germ? How is it not?",
-     "kid": "Draw a bar for each time. How is this like a body meeting a germ twice?",
+     "do": "Now test whether your child was faster only because they were warmed up. Give your child six new scrambled words: OBDOL, SURIV, NEGE, VEREF, NOEB, KLIM. They are BLOOD, VIRUS, GENE, FEVER, BONE and MILK. Time it. Write the three times side by side: first try, second try and new words. If the new words take as long as the first try, the speed-up came from remembering, not from warming up. Ask your child to say how the puzzle is like the body, and how it is not.",
+     "say": "Look at the three times. Which is shortest? How is this puzzle like what a body does the second time it meets a germ? How is it not?",
+     "kid": "Compare your three times. Which was fastest?",
      "ask": [
       {
        "q": "How is the puzzle like your body meeting a germ a second time?",
@@ -1478,7 +1478,7 @@
     }
    ],
    "safety": "Touch gently. Never press hard on the neck. If any lump is large, hard, painful for more than a few days, or lasts more than two weeks, show a doctor.",
-   "record": "Draw a neck with the places where you felt the nodes. Write whether they felt soft or firm, and big or small.",
+   "record": "Point out, or draw if you like, the places where you felt the nodes. Say whether they felt soft or firm, and big or small.",
    "context": "In this activity, you gently look for your own lymph nodes, where the cells that learn about germs meet. You find out where to feel them when you are well.",
    "setup": [
     {
@@ -1491,7 +1491,7 @@
     },
     {
      "art": "A drawing of a neck with small dots marking where the nodes were felt.",
-     "caption": "3. Draw where you felt them."
+     "caption": "3. Show where you felt them."
     }
    ],
    "flow": [
@@ -1518,9 +1518,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw a neck and mark where the nodes were felt. Ask your child why they think a sore throat makes these nodes swell. If anyone at home has a sore throat or a cold, ask them if you may gently feel their jaw nodes too. Compare.",
-     "say": "Draw a neck. Mark where you felt the bumps. When you have a sore throat, those bumps can swell. Why do you think that happens? What could be going on inside?",
-     "kid": "Draw a neck. Mark the bumps. Why might they swell when you are ill?",
+     "do": "Ask your child to point in a mirror to where they felt the nodes. Ask your child why they think a sore throat makes these nodes swell. If anyone at home has a sore throat or a cold, ask them if you may gently feel their jaw nodes too. Compare.",
+     "say": "Point to where you felt the bumps. When you have a sore throat, those bumps can swell. Why do you think that happens? What could be going on inside?",
+     "kid": "Show your grown-up where you felt the bumps.",
      "ask": [
       {
        "q": "Why might the nodes swell during a sore throat?",
@@ -1588,8 +1588,8 @@
      "id": "s1",
      "mins": 10,
      "do": "Ask your child to guess first. Which illness do people get most often: chickenpox, measles or a cold? Why? Write the guess. Then ask five people: have you had chickenpox? How many times? Measles? How many times? A cold? About how many in the last year? Write the answers in a table.",
-     "say": "We will ask five people three questions. Have they had chickenpox, and how many times? Have they had measles, and how many times? A cold, and about how many times? First, which do you think they will have had most often? Why?",
-     "kid": "Guess first. Which illness do people get most? Ask five people three questions. Write the answers.",
+     "say": "We will ask five people three questions. Have they had chickenpox, and how many times? Have they had measles, and how many times? A cold, and about how many times? ",
+     "kid": "Make your guess. Then ask five people the three questions. Write the answers in a table.",
      "ask": [
       {
        "q": "Which illness do you think people will have had most often? Why do you think so?",
@@ -1606,9 +1606,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Add up the answers. Draw one bar for each illness, to show the average number of times people had it. Ask your child what they notice. Ask why colds might come again and again, while chickenpox rarely does.",
-     "say": "Add up the answers and draw a bar for each illness. What do you notice? Why might colds come again and again while chickenpox hardly ever does?",
-     "kid": "Add up the answers. Draw a bar for each illness. What do you notice? Why?",
+     "do": "Add up the answers. Draw one bar for each illness to show the average number of times people had it, or stack coins or buttons instead. Ask your child what they notice. Ask why colds might come again and again, while chickenpox rarely does.",
+     "say": "Add up the answers and make a bar for each illness. What do you notice? Why might colds come again and again while chickenpox hardly ever does?",
+     "kid": "Add up the answers. Make a bar for each illness, with a drawing or a stack of coins.",
      "ask": [
       {
        "q": "Why might you get colds again and again, but chickenpox only once?",
@@ -1656,7 +1656,7 @@
     }
    ],
    "safety": "A grown-up helps with the scissors.",
-   "record": "Draw the three germs and the antibody that fits each. Draw the changed germ. Say whether the old antibody fits it.",
+   "record": "Lay out the three germs with their antibodies, and the changed germ. Say whether the old antibody fits it.",
    "context": "In this activity, you cut paper germs with different notches and paper antibody keys that fit them. Then you change a germ's shape and see what happens.",
    "setup": [
     {
@@ -1726,9 +1726,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Ask your child to cut a new antibody that fits the changed germ. Ask: in the body, who makes the new antibody? Draw all four pairs and label which is which.",
-     "say": "Cut a new antibody that fits the changed germ. In a real body, nobody cuts it. Where do you think a fitting one comes from?",
-     "kid": "Cut a new antibody for the changed germ. Where do you think a real body gets one?",
+     "do": "Ask your child to cut a new antibody that fits the changed germ. Ask: in the body, who makes the new antibody? Lay out all four pairs side by side, each antibody next to its germ.",
+     "say": "Cut a new antibody that fits the changed germ. In a real body, nobody cuts it.",
+     "kid": "Cut a new antibody for the changed germ. Does it fit?",
      "ask": [
       {
        "q": "In the body, where does the new antibody come from?",
@@ -1802,9 +1802,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Read the facts to your child. Smallpox was a deadly illness for thousands of years. Before 1700, people in parts of India, China, Africa and Turkey protected children by variolation, a small dose of real smallpox. 1718: Lady Mary Wortley Montagu had her son variolated in Constantinople. 1774: a farmer, Benjamin Jesty, protected his family with cowpox. 1796: Edward Jenner used cowpox from Sarah Nelmes's hand to protect a boy from smallpox. 1802: vaccination reached India. 1975: India's last case. 1980: smallpox declared gone from the world.",
-     "say": "Here is the story in dates. We will put these on a poster. Which ones surprise you? Which would you like to draw?",
-     "kid": "Here are the dates. Pick the ones you like. We will draw them.",
+     "do": "Read the facts to your child. Smallpox was a deadly illness for thousands of years. Before 1700, people in parts of India, China, Africa and Turkey protected children by variolation, a small dose of real smallpox. 1718: Lady Mary Wortley Montagu had her son variolated in Constantinople. 1774: a farmer, Benjamin Jesty, protected his family with cowpox. 1796: Edward Jenner used cowpox from the hand of a milkmaid, Sarah Nelmes, to protect a boy from smallpox. 1802: vaccination reached India. 1975: India's last case. 1980: smallpox declared gone from the world.",
+     "say": "Here is the story in dates. We will put these on a poster. Which ones surprise you? Which would you like to show in a picture?",
+     "kid": "Here are the dates. Pick the dates you like best. We will put them on a poster.",
      "ask": [
       {
        "q": "Which date surprises you the most? Why?",
@@ -1821,18 +1821,18 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Draw a line across the poster. Mark the dates in order. Draw a small picture and write one sentence for each event. Use plain words. Start with the first four dates today.",
-     "say": "Draw the line first. Mark the dates in order. For each, draw a small picture and write one sentence. Use words that a friend your age would understand.",
-     "kid": "Draw a long line. Mark the dates. Draw a small picture for each. Write one sentence.",
+     "do": "Draw a line across the poster. Mark the dates in order. For each event, write one sentence and add a small picture. Draw it, or cut one out of an old newspaper. Use plain words. Start with the first four dates today.",
+     "say": "Draw the line first. Mark the dates in order. For each, write one sentence and add a small picture. Use words that a friend your age would understand.",
+     "kid": "Draw a long line. Mark the dates. For each one, write one sentence and add a picture.",
      "parent": "Help with the spacing. The dates are not evenly spread. A broken line can show a long gap. Ask how the poster would look if all dates were evenly spaced. With 2 to 4 children, share the events between them and join the strips on one poster.",
      "context": "In this step, you draw the timeline and the first events."
     },
     {
      "id": "s3",
      "mins": 20,
-     "do": "Finish the rest of the dates. Draw in one corner how a vaccine works, using what you know about memory cells. Write one sentence that says why smallpox could be stopped. Show the poster to someone and explain it.",
-     "say": "Finish the dates. In one corner, draw how a vaccine works, with memory cells. Then explain your poster to someone at home. Why do you think smallpox could be stopped completely?",
-     "kid": "Finish the dates. Draw how a vaccine works in a corner. Explain your poster to someone.",
+     "do": "Finish the rest of the dates. Show in one corner how a vaccine works, using what you know about memory cells. Draw it, or arrange paper cut-outs of a germ and memory cells. Write one sentence that says why smallpox could be stopped. Show the poster to someone and explain it.",
+     "say": "Finish the dates. In one corner, show how a vaccine works, with memory cells. Then explain your poster to someone at home.",
+     "kid": "Finish the dates. Show how a vaccine works in a corner. Explain your poster to someone.",
      "ask": [
       {
        "q": "Why do you think smallpox could be stopped completely?",
@@ -1855,7 +1855,7 @@
    "id": "c1",
    "title": "The cold box: carry vaccines to a village",
    "mins": 40,
-   "problem": "Most vaccines must be kept cool, at about 2 to 8 degrees. If they get warm, they stop working. If they freeze, many are ruined too. A health worker must carry vaccines for four hours, without a fridge. Design a box that keeps a bottle cool but not frozen.",
+   "problem": "Most vaccines must be kept cool, at about 2 to 8 degrees. If they get warm, they stop working. If they freeze, many are ruined too. A health worker must carry vaccines for three hours, without a fridge. Design a box that keeps a bottle cool but not frozen.",
    "constraints": [
     "Use only things you have at home.",
     "The bottle of water must start cool from the fridge.",
@@ -1902,8 +1902,8 @@
      "id": "s1",
      "mins": 10,
      "do": "Take three bottles from the fridge. Leave one bare on the table. Wrap one in a towel. Put one in a closed box with newspaper packed around it. Write the time. If you have a thermometer, write each bottle's temperature.",
-     "say": "These three bottles are as cool as a vaccine should be. We will leave them in the warm room for three hours. Which do you think will stay coolest? Why?",
-     "kid": "Take three cool bottles. Leave one bare, wrap one in a towel, and pack one in a box. Guess which stays coolest.",
+     "say": "These three bottles are as cool as a vaccine should be. We will leave them in the warm room for three hours.",
+     "kid": "Take three cool bottles. Leave one bare, wrap one in a towel, and pack one in a box.",
      "ask": [
       {
        "q": "Which bottle do you think will stay coolest? Why?",
@@ -1926,7 +1926,7 @@
      "parent": "The bare bottle should be warmest. The boxed bottle is usually coolest. But after three hours without ice, every bottle will have warmed above the 2 to 8 degrees a vaccine needs. Only the frozen pack can hold it that cool. If you have a frozen pack, keep it from touching the bottle. A real vaccine must not freeze. Touch is not exact, so write what you felt and say so if two bottles felt the same. With 2 to 4 children, one sets up, one hands over the bottles, and one writes the ranking.",
      "check": {
       "t": "mcq",
-      "q": "Why must the frozen pack not touch a vaccine?",
+      "q": "In a real cold box, why must the frozen pack not touch a vaccine?",
       "options": [
        "Freezing can ruin many vaccines",
        "Ice makes vaccines too hard to inject",
@@ -1940,7 +1940,7 @@
     {
      "id": "s3",
      "mins": 25,
-     "do": "Design your own best box using what you learned. Test it for three hours with a bottle from the fridge. Check it afterwards by touch or with a thermometer. Draw the design, and say why it worked.",
+     "do": "Design your own best box using what you learned. Test it for three hours with a bottle from the fridge. Check it afterwards by touch or with a thermometer. Draw the design or take a photo, and say why it worked.",
      "say": "Now design your best box. What did you learn from the first test? Build it, test it for three hours, and check the bottle.",
      "kid": "Design your best box. Test it for three hours. Check the bottle.",
      "think": "Why does it matter that a vaccine arrives cool?",
@@ -1998,7 +1998,7 @@
      "id": "s1",
      "mins": 12,
      "do": "Ask your child to say the idea in one sentence first. The second dose reminds the body, so the memory is stronger. Then sketch two or three ideas. Choose one.",
-     "say": "Say the idea in one sentence first. The second dose reminds the body. Now sketch two or three ways to draw it, with no words. Choose the clearest.",
+     "say": "Say the idea in one sentence first. The second dose reminds the body. Now sketch two or three ways to show it, with few or no words. Choose the clearest.",
      "kid": "Say the idea in one sentence. Sketch two ways to draw it. Choose the clearest.",
      "ask": [
       {
@@ -2016,9 +2016,9 @@
     {
      "id": "s2",
      "mins": 18,
-     "do": "Draw the poster neatly in colour with no more than 20 words. Show it to two people. Do not explain it. Ask them to say what it means. Write what they say.",
+     "do": "Make the poster neatly in colour, drawn or built from cut paper, with no more than 20 words. Show it to two people. Do not explain it. Ask them to say what it means. Write what they say.",
      "say": "Draw your best idea in colour. Then show it to two people. Do not explain. Ask them: what does this say? Write down what they tell you.",
-     "kid": "Draw your poster in colour. Show it to two people. Ask what it means.",
+     "kid": "Make your poster in colour. Show it to two people. Ask what it means.",
      "ask": [
       {
        "q": "Did they understand it? What did they say?",

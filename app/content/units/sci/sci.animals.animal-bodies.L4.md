@@ -250,9 +250,9 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
   - Ask: Why might this part be a problem in a different place? (good: A camel's wide pad would slip on mud.; A bat's wings are poor for walking.; A big brain needs a lot of food.)
   - Note: Be generous. If the child's answer is close in meaning, give the point. Ask for a reason, not just a word.
 - **s4 (2 min)**  
-  *Parent does:* Add up the points. Choose the card you liked best, and tell the others why.  
+  *Parent does:* Add up the points. Choose the card that surprised you most, and tell the others why.  
   *Parent says:* Add up the points. Which card surprised you the most? Why?  
-  *Child mode:* Add up your points. Which card surprised you most? Why?
+  *Child mode:* Add up your points. Pick the card that surprised you most.
   - Check: Which sentence best matches what the cards show? → **Every body part gains something and costs something**
 
 ## Experiments
@@ -261,13 +261,13 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
 - **predict:** Before you start, guess which block of ice will melt the least and which will melt the most. Say why you think so.
 - **fair test:** The three ice blocks come from three identical cups and start at the same size. Blocks B and C get two pieces of cloth of exactly the same size and thickness. All three sit side by side in the same room for the same time. Only one thing differs. Block A has no cloth, block B has the cloth all around, and block C has the cloth lumped on top. Block A is the control.
 - **safety:** Use plastic cups in the freezer, never glass, which can crack. A grown-up helps to take the ice blocks out of the cups, and never uses a knife on a stuck block. Do not hold an ice block in your bare hands for long, because it can sting your skin. Wipe up any water on the floor.
-- **record:** Write the height of the meltwater for each block, and rank the blocks from least to most melted. Then draw a model: a camel with the fat spread all over, and a camel with the fat in a hump, with arrows showing where the heat escapes.
+- **record:** Write the height of the meltwater for each block, and rank the blocks from least to most melted. Then tell a grown-up how blocks B and C are like a camel with fat all over and a camel with a hump. You can draw it if you like.
 - **results table:** Block | What is on it | Height of meltwater in the glass (cm) | Rank (1 = melted least)
 - **schedule:** day 1: Fill three identical cups with water and freeze them overnight. Make your guess and give a reason. (5 min); day 2: Do the Ice Test, measure the meltwater and draw your two camels. (45 min)
 - **s1 (5 min)**  
   *Parent does:* Fill three identical cups with 100 millilitres of water each. Label them A, B and C. Put them in the freezer overnight. Ask your child for a guess and a reason before the cups go in.  
-  *Parent says:* Tomorrow we will melt three ice blocks. One stays bare. One is wrapped all around in cloth. One gets the same cloth lumped on top. Which melts the least? Why do you think so?  
-  *Child mode:* Tomorrow we melt three ice blocks. Which melts the least? Why do you think so?
+  *Parent says:* Tomorrow we will melt three ice blocks. One stays bare. One is wrapped all around in cloth. One gets the same cloth lumped on top.  
+  *Child mode:* Look at the three cups. Think about which block will melt the least.
   - Ask: Which block will melt the least, and why? (good: The wrapped one, because the cloth keeps the warm air away.; The one with the cloth on top, because the cloth is thick.; They will all melt the same, because the cloth is the same.)
   - Note: Do not correct any guess. Write it down with the reason. Check that all three cups are the same size and have the same amount of water. Use plastic cups that can go in a freezer. One child with a parent: the child guesses and wraps, the parent pours and keeps time. Two to four children: share one set of three blocks and split the jobs (one wraps B, one wraps C, one keeps time, one measures), then swap jobs for a second round. With four children, two pairs can run two sets and compare answers. Stand the cups upright on a flat shelf. If the power goes off overnight, freeze them again.
   - Wait: Leave the cups in the freezer overnight.
@@ -289,9 +289,9 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
   *Child mode:* Put the katoris side by side. Not in the Sun. Set a timer for 25 minutes.
   - Note: If your room is very hot, melting is fast. If a block has melted completely before the time is up, use 15 minutes next time. If it is cold, melting is slow, so use 40 minutes.
 - **s5 (20 min)**  
-  *Parent does:* While you wait, draw two camels. Draw one with fat spread all over her body, and one with fat in a hump. Draw arrows for the heat leaving each camel. Do not touch the blocks.  
-  *Parent says:* While we wait, draw two camels. One has fat spread all over her body. One has fat in a hump. Draw arrows where you think her body heat can leave.  
-  *Child mode:* Draw two camels. One has fat all over. One has a hump. Draw arrows for heat leaving.
+  *Parent does:* While you wait, let your child be a camel. First wrap a shawl all around their body, like fat spread all over. Then put it only on their back, like a hump. Do not touch the blocks.  
+  *Parent says:* While we wait, you be the camel. First the shawl goes all around you, like fat all over. Then it sits only on your back, like a hump. Where does the heat leave more easily?  
+  *Child mode:* Wear the shawl all around you. Then wear it only on your back. Feel where it is colder.
   - Ask: On which camel can the heat leave more easily, and why? (good: The one with the hump, because the rest of her skin is thin.; The one with fat all over has a thick blanket that holds the heat in.)
   - Note: This is the child's own model. Any drawing with a reason is good. Do not explain the answer yet. Let the ice give the evidence.
 - **s6 (6 min)**  
@@ -302,7 +302,7 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
 - **s7 (5 min)**  
   *Parent does:* Fill in the table. Rank the blocks. Then ask your child for three things: what they thought, what they saw, and why they think it happened.  
   *Parent says:* Which block melted the least? Which melted the most? Which two were closest? Now tell me three things. What did you think? What did you see? Why do you think it happened?  
-  *Child mode:* Fill in the table. Which block melted the least? Which melted the most? Why?
+  *Child mode:* Fill in the table. Put the blocks in order, from least melted to most melted.
   - Ask: What do you notice about A and C? (good: They melted almost the same.; The cloth on top did not help much.; C melted a little less than A.)
   - Ask: Which block is like a camel with fat all over, and which is like a camel with a hump? (good: Block B is like fat all over, and block C is like the hump.; The hump leaves the sides bare, so heat gets in or out there.)
   - Note: In most homes block B melts the least. Blocks A and C come out close, and C melts a little less than A. As a rough guide only, in a warm room a bare block gives about 20 to 40 millilitres of meltwater in 25 minutes, and a wrapped one about half of that. Your numbers will differ. If all three are within 2 millimetres of each other, the test showed no difference: say so honestly, then repeat with 40 minutes or thicker cloth. Let the child say what the test shows before you explain. The ice is not a perfect model of a camel: the ice is colder than the room, and a camel is hotter than the night air. But a layer slows heat in both directions.
@@ -312,12 +312,12 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
 - **predict:** Before you start, guess which foot will sink the deepest and which will hardly sink at all. Say why you think so.
 - **fair test:** The weight is the same every time: a steel tumbler with 300 millilitres of water. The soft ground is the same slab of dough, smoothed flat before each try. Each foot stays down for 30 seconds. Only the width of the foot changes. We try each foot twice, because one try can be a fluke.
 - **safety:** The dough is made of wheat. Do not eat it raw, and wash hands afterwards. If anyone is allergic to wheat, use clay or play-dough instead. Wipe up any spilt water.
-- **record:** Write the width of each foot and the depth of each dent in millimetres. Work out the average for each foot. Then draw the three dents side by side, to scale.
+- **record:** Write the width of each foot and the depth of each dent in millimetres. Work out the average for each foot. Then put the three feet in a row, from the deepest dent to the shallowest, and tell a grown-up why.
 - **results table:** Foot | Width (cm) | Dent, try 1 (mm) | Dent, try 2 (mm) | Average (mm)
 - **s1 (5 min)**  
   *Parent does:* Show your child the three feet: the bottle cap, the tumbler base and the plate. Measure the width of each with the ruler. Ask for a guess and a reason.  
   *Parent says:* The same tumbler of water will stand on three feet, one after the other: a small bottle cap, its own base and a wide plate. Which foot will sink deepest into the dough? Which will sink the least? Why do you think so?  
-  *Child mode:* Look at the three feet: the bottle cap, the tumbler base and the plate. Which one sinks the deepest? Which hardly sinks? Why?
+  *Child mode:* Look at the three feet: the bottle cap, the tumbler base and the plate. Put them in a row from smallest to widest.
   - Ask: Which foot do you think will sink the deepest, and why? (good: The small cap, because all the weight is on a tiny patch.; The wide plate, because it is heavy.; They will all sink the same, because the weight is the same.)
   - Note: Write the widths in the table. Do not correct any guess. Many children think that the plate is heavier so it sinks more. Let the dough show them. One child with a parent: the child places the weight and counts the seconds, the parent measures. Two to four children: split the jobs (place the weight, count 30 seconds, measure the dent, write the table) and swap jobs for the second try, so every child measures at least once.
   - Check: The tumbler has the same weight on all three feet. Which foot will push on the dough with the greatest pressure? → **The small cap, because the weight is shared over the smallest patch**
@@ -344,7 +344,7 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
 - **s6 (9 min)**  
   *Parent does:* Work out the average dent for each foot. Rank the feet from deepest to shallowest. Ask your child for three things: what they thought, what they saw, and why they think it happened.  
   *Parent says:* Add the two tries for each foot, then divide by two to get the average. Which foot sank the deepest? Which the least? Now tell me three things. What did you think? What did you see? Why do you think it happened?  
-  *Child mode:* Find the average dent for each foot. Which sank deepest? Which sank least? Why?
+  *Child mode:* Find the average dent for each foot. Put the feet in order from deepest dent to shallowest.
   - Ask: The weight was the same each time. Why did the dents differ? (good: The same weight was shared over a bigger patch on the plate.; A small foot pushes harder on each bit of dough.)
   - Ask: How is this like a camel in the sand? (good: Her wide pad shares her weight over more sand, so she sinks less.; A thin hoof would sink like the cap.)
   - Note: In most homes the dents get shallower as the foot gets wider, and the plate leaves almost none. Your numbers will differ. The pattern is what matters. Let the child give the reasoning before you add the word pressure.
@@ -353,10 +353,10 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
 ## Activities
 ### a1 · Squeeze Test: how small a hole can a soft body pass? (25 min)
 - **safety:** A grown-up cuts the holes with strong scissors, and the point is sharp. Keep the scissors away from small children. Keep the marble away from children under 4. Dough is made of wheat. Do not eat it raw, and wash hands afterwards. If anyone is allergic to wheat, use clay or play-dough instead.
-- **record:** Write which holes each body passed, and which it did not. Draw the three bodies and the smallest hole each passed.
+- **record:** Write which holes each body passed, and which it did not. Put the three bodies in order, from the smallest hole they passed to the biggest, and tell a grown-up why.
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* Draw five squares in a row on the cardboard, with sides 1, 2, 3, 4 and 5 centimetres. A grown-up cuts them out. Make two dough balls of the same size. Press the marble into the middle of one and close the dough around it.  
-  *Parent says:* We will test three bodies. A hard ball, a plain dough ball, and a dough ball with a marble inside. Which is the smallest hole each one can pass? Why do you think so?  
+  *Parent says:* We will test three bodies. A hard ball, a plain dough ball, and a dough ball with a marble inside. We will find the smallest hole each one can pass.  
   *Child mode:* Draw five squares. A grown-up cuts them out. Hide a marble inside a dough ball.
   - Ask: Which body will fit through the smallest hole, and why? (good: The dough, because it is soft and can squash.; The dough with the marble, but not through a hole smaller than the marble.; The hard ball can only fit the big holes.)
   - Note: Make the plain dough ball the same size as the dough ball with the marble inside. Write the guesses down before the test. Do not correct them. One child with a parent: the child pushes and the parent writes. Two to four children: share the cardboard, and let each child make and push their own dough ball, with a marble inside or not. Take turns, and one child records.
@@ -374,11 +374,11 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
   - Note: Many octopuses are caught in jars and pots in the sea because they will go into any space that is wider than their beak. Let the child say what the test shows before you add this.
 ### a2 · Tongue Tools: reach the raisin in the crack (20 min)
 - **safety:** A grown-up checks that the paper clip hook and the stick have blunt ends. Do not put tools near the eyes. Do not use honey for a child under 1 year.
-- **record:** Write how many raisins each tool took out in one minute. Draw the best tool and say how it is like a woodpecker's tongue.
+- **record:** Write how many raisins each tool took out in one minute. Say which tool was best and how it is like a woodpecker's tongue. You can draw it if you like.
 - **s1 (4 min)**  
   *Parent does:* Press the five raisins to the deep end of the tube. Lay out the five tools. Ask your child which tool will get the most raisins in one minute, and why.  
-  *Parent says:* A woodpecker has to get insects out of a narrow tunnel in the wood. Here are five tools. Which will get the most raisins out in one minute? Why do you think so?  
-  *Child mode:* Raisins are deep in a tube. Which of five tools gets the most? Why?
+  *Parent says:* A woodpecker has to get insects out of a narrow tunnel in the wood. Here are five tools. We will see which gets the most raisins out in one minute.  
+  *Child mode:* Raisins are stuck deep in a tube. Pick the tool you think will work best.
   - Ask: Which tool will get the most raisins, and why? (good: The sticky one, because the raisin will stick to it.; The bent paper clip, because the hook can catch a raisin.; The pencil, because it is long.)
   - Note: Do not correct any guess. The fork and spoon may not fit in the tube at all. That is a result. One child with a parent: the parent also tries each tool, so there are two scores to compare. Two to four children: each child tries a tool for one minute while another counts, then swap tools. Make a second tube if you have paper, so two children can work at once.
 - **s2 (12 min)**  
@@ -389,8 +389,8 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
   - Check: Which tool is most like a woodpecker's tongue? → **The sticky stick**
 - **s3 (4 min)**  
   *Parent does:* Look at your numbers. Say which tool was best and why. Ask your child what the tongue of a woodpecker needs to be like.  
-  *Parent says:* Which tool was best? Which did not work at all? What must a woodpecker's tongue be like to reach an insect deep in a tunnel?  
-  *Child mode:* Which tool won? What must a woodpecker's tongue be like?
+  *Parent says:* Which tool was best? Which did not work at all?  
+  *Child mode:* Which tool won? Which one did not work at all?
   - Ask: What must a woodpecker's tongue be like? (good: Long and thin.; Sticky.; Able to go far out of her beak.)
   - Note: Tell your child that in some woodpeckers the tongue reaches about 10 centimetres past the beak, and that it curls round the skull when it is drawn in.
 ### a3 · Window Watch: move, eat and breathe (20 min)
@@ -398,14 +398,14 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
 - **record:** Draw a table with three columns: How she moves, how she eats, how she breathes or rests. Fill it in for one animal, with a sentence about the odd part you noticed.
 - **s1 (3 min)**  
   *Parent does:* Draw a table with three columns: how she moves, how she eats, how she breathes or rests. Pick a window or a balcony spot. Ask your child what problems a crow must solve every day.  
-  *Parent says:* We will watch one animal for twelve minutes. A crow, a pigeon or a squirrel will do. What problems does she have to solve every day? Which body parts do you expect to see at work?  
+  *Parent says:* We will watch one animal for twelve minutes. A crow, a pigeon or a squirrel will do. Which body parts do you expect to see at work?  
   *Child mode:* Pick an animal outside. Draw three columns: moves, eats, breathes or rests. What do you expect?
   - Ask: What problems does a crow or pigeon have to solve each day? (good: Finding food.; Staying safe.; Getting from one place to another.; Keeping cool or warm.)
   - Note: A crow is nearly always there in an Indian city, as are pigeons and house sparrows. If none comes, watch an ant or a lizard. Watch from inside if your balcony has no safe railing.
 - **s2 (12 min)**  
-  *Parent does:* Watch for 12 minutes without talking. Write what the animal does. Note how she moves, how she eats and what she does when she rests. Draw her feet and her beak. Count her steps, hops or pecks in one minute, and count again.  
+  *Parent does:* Watch for 12 minutes without talking. Write what the animal does. Note how she moves, how she eats and what she does when she rests. Draw her feet and her beak, or tell your grown-up what they look like. Count her steps, hops or pecks in one minute, and count again.  
   *Parent says:* Watch quietly for twelve minutes. Write what you see. How does she walk or hop? How does she eat? What do her feet and beak look like?  
-  *Child mode:* Watch quietly. Write how she moves and eats. Draw her feet and beak.
+  *Child mode:* Watch quietly. Write how she moves and eats. Draw her feet and beak, or tell what they look like.
   - Note: If you can see her chest rise and fall while she rests, count the rises in 15 seconds. A crow often breathes faster than you. Do not worry if you cannot see it. One child with a parent: the parent writes what the child calls out. Two to four children: each takes one column (moves, eats, rests) and counts, then you put the notes together. If no animal comes, put out a few grains of rice or a bowl of water and wait quietly.
 - **s3 (5 min)**  
   *Parent does:* For one body part, write the problem it solves and a price. Tell somebody what you found.  
@@ -413,11 +413,11 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
   *Child mode:* Pick one part. What problem does it solve? What might it cost her?
   - Check: A crow has a strong, all-purpose beak. What is a likely price? → **She is not the best at any one food**
 ### a4 · Two Hands, Two Jobs: why eight arms are hard (15 min)
-- **record:** Write how long each task took, and which was harder. Draw an octopus with eight arms, and write what each arm is doing.
+- **record:** Write how long each task took, and which was harder. Write what each of the octopus's eight arms might be doing. Show it with your fingers too.
 - **s1 (5 min)**  
   *Parent does:* Draw a circle with your right hand, then a triangle with your left. Time each one. Ask your child to guess how it will look if both hands draw at the same time.  
-  *Parent says:* First draw a circle with one hand, and a triangle with the other, one after the other. How long does each take? Now, what will happen if you do both at the same time?  
-  *Child mode:* Draw a circle. Draw a triangle. Time each one. Now guess what will happen when you draw both at once.
+  *Parent says:* First draw a circle with one hand, and a triangle with the other, one after the other. How long does each take?  
+  *Child mode:* Draw a circle. Draw a triangle. Time each one.
   - Ask: What will happen if you draw both at the same time, and why? (good: It will be harder, because my brain has to do two things.; It will be messy.; The shapes will get mixed up.)
   - Note: Do not rush. Let the child guess and give a reason before trying. One child with a parent: the parent times and tries too. Two to four children: take turns to draw while another times and scores, then compare scores for one hand at a time against both hands together.
 - **s2 (6 min)**  
@@ -427,27 +427,27 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
   - Note: Most people find this hard at first. The circle may turn into a triangle, or the other way round. This is normal.
   - Check: Why is drawing two shapes at once harder than one at a time? → **One brain has to guide two different movements together**
 - **s3 (4 min)**  
-  *Parent does:* Draw an octopus with eight arms, each doing a different job. Say how she might manage eight jobs at once. Would it work if one brain had to steer all eight arms?  
-  *Parent says:* An octopus has eight arms. Each one has a lot of its own nerve cells. Draw her doing eight jobs at once. How might she manage it?  
-  *Child mode:* Draw an octopus with eight arms. Each arm does a different job.
+  *Parent does:* Hold up eight fingers as an octopus's eight arms. Give each finger a different job, such as wave, point, tap or curl. Say how she might manage eight jobs at once. Would it work if one brain had to steer all eight arms?  
+  *Parent says:* An octopus has eight arms. Each one has a lot of its own nerve cells. Show me eight different jobs with your eight fingers.  
+  *Child mode:* Hold up eight fingers. Give each finger its own job.
   - Ask: How might an octopus do eight jobs at once? (good: Each arm has some of its own control.; The arms do not wait for the central brain.)
   - Note: About two thirds of an octopus's nerve cells are in her arms. How much each arm decides on its own is still being studied. Do not tell the child the answer is settled.
 
 ## Projects
 ### p1 · My Body Book: three animals, three problems (60 min, 3 days)
 - **safety:** Do not touch wild animals, and keep hands away from ants, which can bite. Watch lizards and ants from a distance. Do not lean out of a window, and keep a grown-up with you on a terrace. A grown-up does the stapling.
-- **record:** A small book with four pages: the bird, the ant or lizard, yourself, and the camel, woodpecker or octopus. Each page has a drawing, a problem, a part and a price.
+- **record:** A small book with four pages: the bird, the ant or lizard, yourself, and the camel, woodpecker or octopus. Each page has a problem, a part and a price, and a drawing or a short description.
 - **schedule:** day 1: Make the book. Watch a crow or a pigeon. Fill a page with the problem, the part and the price. (20 min); day 2: Watch an ant or a house lizard. Fill a page with the problem, the part and the price. (20 min); day 3: Fill a page about yourself, and a page about the camel, the woodpecker or the octopus. Share your book. (20 min)
 - **s1 (20 min)**  
-  *Parent does:* Fold the paper into a book. Write the title on the cover. Watch a crow or a pigeon for ten minutes. On the first page draw her and fill in the problem, the part and the price.  
-  *Parent says:* Let us make a body book. On the first page, draw the animal you watch. Then write three things: a problem she has to solve, the body part that helps, and its price.  
-  *Child mode:* Make a small book. Watch a bird. Draw her. Write a problem, a part and a price.
+  *Parent does:* Fold the paper into a book. Write the title on the cover. Watch a crow or a pigeon for ten minutes. On the first page, draw her or describe her in a line. Then fill in the problem, the part and the price.  
+  *Parent says:* Let us make a body book. On the first page, draw the animal you watch, or describe her in a line. Then write three things: a problem she has to solve, the body part that helps, and its price.  
+  *Child mode:* Make a small book. Watch a bird. Draw her or describe her. Write a problem, a part and a price.
   - Ask: What problem does the part you chose solve? (good: Her foot grips the railing so that she does not fall.; Her beak lets her eat many foods.)
   - Note: Help with the words, but let the child choose the part. Any honest guess about the price is fine. Two to four children: each makes their own book, may watch the same bird side by side, and compares what each wrote. If no bird comes, watch a squirrel, a dog or a cow.
 - **s2 (20 min)**  
-  *Parent does:* Watch an ant or a house lizard for ten minutes. Fill the second page: draw her, and write a problem, a part and a price.  
+  *Parent does:* Watch an ant or a house lizard for ten minutes. Fill the second page: draw her or describe her, and write a problem, a part and a price.  
   *Parent says:* Today, watch an ant or a lizard. What does she do? What body part helps her do it? What might it cost her?  
-  *Child mode:* Watch an ant or a lizard. Draw her. Write a problem, a part and a price.
+  *Child mode:* Watch an ant or a lizard. Draw her or describe her. Write a problem, a part and a price.
   - Note: Ants and house geckos are common in most Indian homes. Do not touch them. A gecko's toes with tiny hairs are the part to look for.
 - **s3 (20 min)**  
   *Parent does:* Fill a page about your own body. Pick one part, such as a foot or a hand. Write a problem, the part and a price. Fill a last page about the camel, the woodpecker or the octopus. Then share your book.  
@@ -458,7 +458,7 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
 ## Challenges
 ### c1 · Design an Animal for a Place nobody lives in yet (40 min)
 - **problem:** Choose a place that an animal has not yet settled in. Design an animal that can live there, using only four body parts. For each part, name the problem it solves and the price it has.
-- **your turn:** Choose a place and design your own animal with four body parts. Draw her. For each part, write the problem it solves, how it works and its price. Show your design to someone and ask, 'Where would my animal be in trouble?'
+- **your turn:** Choose a place and design your own animal with four body parts. Draw her or build her. For each part, write the problem it solves, how it works and its price. Show your design to someone and ask, 'Where would my animal be in trouble?'
 - **constraints:** Choose only four body parts for your animal. Each part must solve a problem in the place you chose.; For each part, write one price: a place where it would not work, or something the animal gives up.; The animal must be able to move, eat and breathe in her place.; No part may be magic. Every part must work by something you have seen in real animals.
 - **general:** For a muddy river bank, wide feet or webbed toes spread the weight on the mud, and a long beak probes for worms.; For a mountain top, thick fur or feathers keep her warm, and a big heart helps her cope with thin air.; For a dark cave, large ears for hearing and whiskers for touching can make up for having no eyes.; For a tall tree, gripping toes and a long tail for balance, like a monkey's, would help.
 - **creative:** Give her a soft body like an octopus's, so she can squeeze into rock cracks on the mountain and be safe from the wind.; Give her fat stored in a lump on her back, like a camel's hump, so she can last through a month when the tide brings no food.; Give her a sticky tongue like a woodpecker's, so she can pull insects out of the cracks in a cave wall.; Give her a body that changes colour to match the wall of the cave, so hunters cannot see her.
@@ -469,9 +469,9 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
   - Ask: What is the hardest problem in your place? (good: Finding food on bare rock.; Not sinking in mud.; Seeing in the dark.)
   - Note: Let the child choose. Do not suggest answers. Help with spelling and drawing, not ideas.
 - **s2 (20 min)**  
-  *Parent does:* Choose four body parts that solve four problems. Draw your animal. Next to each part write the problem, and then its price.  
-  *Parent says:* Choose four parts. For each one, write the problem it solves and the price it has. Draw your animal with all four.  
-  *Child mode:* Pick four parts. Draw your animal. Write a problem and a price for each part.
+  *Parent does:* Choose four body parts that solve four problems. Draw your animal, or build her from dough or paper. Next to each part write the problem, and then its price.  
+  *Parent says:* Choose four parts. For each one, write the problem it solves and the price it has. Show your animal with all four.  
+  *Child mode:* Pick four parts. Draw or build your animal. Write a problem and a price for each part.
   - Note: Every part must have a price. If the child is stuck, ask: where would this part not work? What would she have to give up?
   - Check: A mountain animal has a very thick coat. What is a likely price of that coat? → **She would overheat in a warm place**
 - **s3 (12 min)**  

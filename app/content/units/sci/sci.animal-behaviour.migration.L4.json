@@ -494,7 +494,7 @@
           "context": "In this step, you play the first eight cards and learn the pattern of the game.",
           "do": "Play eight cards. After each card, read the back aloud. After card four, ask what the travellers have in common.",
           "say": "Read one clue at a time. After each card, read the answer on the back. After four cards, we stop and think: what do these travellers have in common?",
-          "kid": "Play eight cards. Read the answer after each card. What do these animals share?",
+          "kid": "Play eight cards. Read the answer on the back after each card.",
           "ask": [
             {
               "q": "What do the travellers have in common so far?",
@@ -513,7 +513,7 @@
           "context": "In this step, you play the last eight cards and add up your points.",
           "do": "Play the other eight cards. Add up all the points. Ask which traveller was the hardest to guess.",
           "say": "Play the rest of the cards. Then add up your points. Which traveller was the hardest to guess? Why?",
-          "kid": "Play the rest of the cards. Add your points. Which one was the hardest?",
+          "kid": "Play the rest of the cards. Add up your points.",
           "ask": [
             {
               "q": "Which journey was the longest? Which was the shortest?",
@@ -539,9 +539,9 @@
           "id": "s4",
           "mins": 3,
           "context": "In this step, you sort the cards by the kind of journey.",
-          "do": "Sort the cards into three piles. One is long journeys across countries. One is short journeys in one region. One is a journey that has stopped.",
+          "do": "Sort the cards into three piles. One is long journeys across countries. One is short journeys in one region. One is a journey that has stopped, because the animals no longer make it.",
           "say": "Make three piles. One for long journeys, one for short journeys, and one for a journey that has stopped. Which pile does the Siberian crane go in?",
-          "kid": "Sort the cards into long, short, and stopped. Which pile does the Siberian crane go in?",
+          "kid": "Sort the cards into long, short, and stopped.",
           "parent": "The Siberian crane card is the one with a journey that has stopped. Her winter visits to Keoladeo ended."
         }
       ]
@@ -632,7 +632,7 @@
           "mins": 12,
           "context": "In this step, you play the game until a bird reaches Kerala.",
           "do": "Take turns. Each turn, choose EAT or FLY. After about six turns each, stop and ask whether anyone has taken a risk.",
-          "say": "Choose to eat or fly. When you fly, remember the headwind. After six turns each, we stop and ask: did anyone take a risk?",
+          "say": "Choose to eat or fly. When you fly, watch for a headwind. That is wind blowing against you, so the flight costs more beans. After six turns each, we stop and ask: did anyone take a risk?",
           "kid": "Eat or fly. Watch your beans. Race to Kerala.",
           "ask": [
             {
@@ -662,8 +662,8 @@
           "mins": 5,
           "context": "In this step, you think about what the game showed.",
           "do": "Ask what the winner did. Ask what a real bird needs at each stop, since she has no food cards to draw. Ask what the game would be like if the Chilika lagoon was drained.",
-          "say": "What did the winner do? In real life, there is no food card to draw. What does a bird need at each stop? What would happen if Chilika was drained?",
-          "kid": "What did the winner do? What does a real bird need at each stop?",
+          "say": "What did the winner do? In real life, there is no food card to draw. What does a bird need at each stop? What would happen if Chilika, a big lagoon in Odisha where many birds rest, was drained?",
+          "kid": "Talk about how the winner played. Think about what a real bird needs at each stop.",
           "ask": [
             {
               "q": "What would happen in the game if Chilika was drained?",
@@ -685,7 +685,7 @@
       "title": "The Midnight Sun Spin: how long is a summer day in the far north?",
       "mins": 30,
       "days": 1,
-      "context": "In this experiment, you make a small model of the tilted Earth from an orange and a torch. You find out how long the Sun shines on Kerala, on Mongolia and on the Arctic tundra, where many migrating birds raise chicks.",
+      "context": "In this experiment, you make a small model of the tilted Earth from an orange and a torch. You find out why a bird on the Arctic tundra has such a long summer day to feed her chicks. You also find out how long the Sun shines on Kerala and on Mongolia.",
       "question": "When the Earth leans towards the Sun, which places get the longest day: places near the equator, in the middle, or near the pole?",
       "predict": "Before you start, guess. When the top of the orange leans towards the torch, which of the three places will stay in the light longest? Which will stay in the light for the shortest time? Why do you think so?",
       "fair_test": "Use the same orange, the same torch, the same distance and the same slow turn of 12 counts each time. Only the lean of the orange changes: towards the torch, straight up, or away from the torch.",
@@ -764,7 +764,7 @@
           "context": "This is the first step of the Midnight Sun Spin. You guess before you build.",
           "do": "Show the orange, the skewer and the torch. Say the orange is the Earth, the torch is the Sun, and the top of the skewer is the north. Ask for a guess and a reason.",
           "say": "This orange is the Earth. The torch is the Sun. The top is the north. We will spin the orange once and see which places stay in the light. Which place do you think stays in the light longest? Why?",
-          "kid": "The orange is the Earth. The torch is the Sun. Which place will stay in the light longest? Why do you think so?",
+          "kid": "The orange is the Earth. The torch is the Sun. Spin the orange, and some places stay in the light.",
           "ask": [
             {
               "q": "Which place will be in the light longest, and why do you think so?",
@@ -840,7 +840,7 @@
           "context": "In this step, you say what you found, and what it means for birds.",
           "do": "Look at the table. Ask: what do you claim, what is your evidence, and why does it happen? Then ask what this means for a bird that raises chicks on the tundra.",
           "say": "Look at your table. What did you find? What numbers show it? Why do you think the dots changed? What might it mean for a bird on the tundra?",
-          "kid": "Look at your table. What do the numbers show? Why did the counts for the tundra dot change?",
+          "kid": "Look at your table. Find the lean where the tundra dot stayed lit the longest.",
           "ask": [
             {
               "q": "What is your claim, what is your evidence, and why does it happen?",
@@ -868,7 +868,7 @@
       "title": "The Stepping-Stone Flyway: what happens to a flock when one wetland is drained?",
       "mins": 30,
       "days": 1,
-      "context": "In this experiment, you send paper birds along a chain of wetlands with dice. You play it with all the stopovers and again with one stopover drained, and count how many birds arrive.",
+      "context": "In this experiment, you send paper birds along a chain of wetlands with dice. You play it with all the stopovers and again with one stopover drained, and count how many birds arrive. You find out why losing one wetland can be deadly for a flock.",
       "question": "Do more birds arrive when the flyway has four wetlands than when one of them is drained?",
       "predict": "Before you start, guess. Out of 12 birds, how many will arrive with all four wetlands, and how many with one drained? Why do you think so?",
       "fair_test": "Use the same die, the same start fuel, the same rules and the same number of birds in both rounds. Only one thing changes: wetland 3 is there or it is drained.",
@@ -921,9 +921,9 @@
           "id": "s1",
           "mins": 4,
           "context": "This is the first step of the Stepping-Stone Flyway. You learn the rules and make a guess.",
-          "do": "Draw six circles in a row: the Start, wetlands 1 to 4, and Kerala. Read the rules: each bird starts with 2 beans. Each leg costs 1 bean. Roll the die for each leg. A 1 or 2 costs one extra bean. A bird with too few beans falls into the sea. Ask for a guess and a reason.",
+          "do": "Draw six circles in a row, or place six cups or coins in a row: the Start, wetlands 1 to 4, and Kerala. Read the rules: each bird starts with 2 beans. Each leg costs 1 bean. Roll the die for each leg. A 1 or 2 costs one extra bean. A bird with too few beans falls into the sea. Ask for a guess and a reason.",
           "say": "A bird starts with 2 beans of fuel. Each leg costs 1 bean. Roll a die for each leg. A 1 or 2 is a headwind, and costs 1 bean more. Out of 12 birds, how many do you think will arrive? Why?",
-          "kid": "Each bird has 2 beans. Each leg costs 1 bean. A 1 or 2 on the die costs 1 more. How many of 12 birds arrive?",
+          "kid": "Each bird has 2 beans. Each leg costs 1 bean. A 1 or 2 on the die costs 1 more. Then make your guess.",
           "ask": [
             {
               "q": "How many of the 12 birds do you think will arrive? Why do you think so?",
@@ -951,7 +951,7 @@
           "context": "In this step, you fly 12 birds along the chain with all four wetlands. This is round 1.",
           "do": "Fly one bird at a time from the Start to Kerala. For each leg, take away 1 bean, roll the die, and take away one more bean if the die shows 1 or 2. If she does not have enough beans, she falls. At each wetland, roll to feed. Tally the birds that arrive and the birds that fall. Do this for all 12 birds.",
           "say": "Fly the first bird. For each leg, spend one bean. Then roll the die to see if there is a headwind, which costs one more bean. When she lands at a wetland, roll the die to feed. Keep a tally of birds that arrive and birds that fall. Twelve birds, one by one.",
-          "kid": "Fly one bird at a time. Spend beans. Roll the die. Tally the birds that arrive and fall.",
+          "kid": "Fly one bird at a time. Spend 1 bean for each leg. Roll the die to see if there is a headwind. Tally the birds that arrive and fall.",
           "parent": "Each bird takes about 40 seconds, so this round takes about 8 minutes. The grown-up and child can take turns rolling. With 2 to 4 children, each flies 3 to 6 of the 12 birds at the same time on their own paper flyway (the same rules), and one child keeps the tally. Typical result: about 9 or 10 arrive, and 2 or 3 fall. This is a typical result and not a promise.",
           "check": {
             "t": "mcq",
@@ -980,7 +980,7 @@
           "context": "In this step, you compare the two rounds and say what happened.",
           "do": "Write the counts in the table. Ask: what is your claim, what is your evidence, and why did the drained wetland matter? Ask what would happen if two wetlands were drained.",
           "say": "Look at both rounds. What is different? What numbers show it? Why did more birds fall when wetland 3 was gone? What would happen if two wetlands were gone?",
-          "kid": "Look at both rounds. How many arrived each time? Why did more birds fall in round 2?",
+          "kid": "Look at both rounds. Count how many birds arrived each time.",
           "ask": [
             {
               "q": "What is your claim, what is your evidence, and why did it happen?",
@@ -1020,7 +1020,7 @@
       "title": "Resident, Winter Visitor or Passer-by? Sort eight birds by when they are in India",
       "mins": 15,
       "days": 1,
-      "context": "In this activity, you sort eight birds by how they spend the year in India. Birders use four labels: resident, winter visitor, summer visitor and passage migrant.",
+      "context": "In this activity, you sort eight birds by how they spend the year in India. You find out which birds stay all year and which only visit. Birders use four labels: resident, winter visitor, summer visitor and passage migrant.",
       "materials": [
         {
           "item": "a pencil and paper, or the cut-out cards",
@@ -1060,7 +1060,7 @@
           "mins": 4,
           "context": "This is the first step of the sorting activity. You learn the four labels.",
           "do": "Read the four labels. A resident stays all year. A winter visitor comes for the northern winter. A summer visitor comes to breed in the warm months. A passage migrant stops only for days or weeks on the way to somewhere else.",
-          "say": "Birders use four labels. A resident stays all year. A winter visitor comes for our winter. A summer visitor comes to nest. A passage migrant only stops here for a few days or weeks, on her way somewhere else. Which birds do you think you have seen here?",
+          "say": "Birders use four labels. A resident stays all year. A winter visitor comes for our winter. A summer visitor comes to nest. A passage migrant only stops here for a few days or weeks, on her way somewhere else.",
           "kid": "There are four labels. A resident stays all year. A winter visitor comes in winter. A summer visitor comes to nest. A passage migrant only passes through.",
           "ask": [
             {
@@ -1077,9 +1077,9 @@
           "id": "s2",
           "mins": 6,
           "context": "In this step, you sort eight birds by their clues.",
-          "do": "Read each clue and put the bird under one of the four labels. The house crow is seen in every month, and nests here. The rock pigeon is seen in every month. The rosy starling arrives in autumn and leaves in spring. The barn swallow arrives in autumn and leaves in spring. The northern pintail is on lakes from autumn to spring. The pied cuckoo arrives with the monsoon, nests, and leaves. The Amur falcon is here for three weeks in October and November. The cattle egret is seen in every month.",
+          "do": "Make four piles, one for each label. Read each clue and put the bird in one pile. The house crow is seen in every month, and nests here. The rock pigeon is seen in every month. The rosy starling arrives in autumn and leaves in spring. The barn swallow arrives in autumn and leaves in spring. The northern pintail is on lakes from autumn to spring. The pied cuckoo arrives with the monsoon, nests, and leaves. The Amur falcon is here for three weeks in October and November. The cattle egret is seen in every month.",
           "say": "Read each clue. Which label fits each bird? Think about when she is here and when she is not. There are three residents, three winter visitors, one summer visitor and one passage migrant.",
-          "kid": "Read each clue. Put each bird under a label. Think about when you see her.",
+          "kid": "Read each clue. Put each bird under a label. Think about which months she is here.",
           "ask": [
             {
               "q": "Which bird was hardest to place, and why?",
@@ -1156,7 +1156,7 @@
           "mins": 5,
           "context": "This is the first step of the tracker graph. You draw the grid.",
           "do": "Draw a grid with 12 weeks along the bottom (0 to 11) and latitude up the side, from 20 to 50 degrees north. Explain that latitude tells us how far north a bird is. A higher number is farther north.",
-          "say": "A tag sends a bird's position every week. Latitude says how far north she is. A big number is far north. We will draw her journey week by week. What do you think the graph will look like?",
+          "say": "A tag sends a bird's position every week. Latitude says how far north she is. A big number is far north. We will draw her journey week by week.",
           "kid": "Draw a grid. Weeks go along the bottom. Latitude goes up the side.",
           "ask": [
             {
@@ -1184,7 +1184,7 @@
           "context": "In this step, you read the graph and say what happened to Tara, the imagined goose.",
           "do": "Ask: where is the line flat? Where is it steep? How many weeks did she spend at the middle stopover? How many degrees did she travel in all? Each degree of latitude is about 111 kilometres.",
           "say": "Where is the graph flat? What does that mean? Where is it steep? How many weeks did she rest at the middle place? How far did she go in degrees?",
-          "kid": "Find the flat parts. Find the steep parts. What do they mean?",
+          "kid": "Find the flat parts of the line. Find the steep parts.",
           "ask": [
             {
               "q": "What do the flat parts and the steep parts mean?",
@@ -1215,7 +1215,7 @@
       "title": "The Chain of Energy: from Arctic sunlight to a wingbeat over the sea",
       "mins": 15,
       "days": 1,
-      "context": "In this activity, you put cards in order to show where the energy in a godwit's wingbeat comes from, step by step.",
+      "context": "In this activity, you put cards in order to show where the energy in a godwit's wingbeat comes from, step by step. You find out that the energy for her flight started as sunlight.",
       "materials": [
         {
           "item": "scissors and paper to make eight cards",
@@ -1261,12 +1261,12 @@
           "id": "s2",
           "mins": 6,
           "context": "In this step, you put the cards in order.",
-          "do": "Mix up the cards, then put them in the order that you think is right. Then check it against the correct order. Ask where each link gets its energy from.",
-          "say": "Put the cards in order. Where does each link get its energy from? What would happen if one link was missing?",
+          "do": "Mix up the cards, then put them in the order that you think is right. Then check it against the order of the list you copied from. Ask where each link gets its energy from.",
+          "say": "Put the cards in order. Where does each link get its energy from?",
           "kid": "Put the cards in order. Where does each link get its energy?",
           "ask": [
             {
-              "q": "What would happen to the godwit if the mudflat link was lost?",
+              "q": "What would happen to the godwit if the insects, worms and shellfish at her stopover were lost?",
               "good": [
                 "She would not have enough food to build fat.",
                 "She could not make the long flight."
@@ -1279,10 +1279,10 @@
           "id": "s3",
           "mins": 6,
           "context": "In this step, you build your own chain for a different bird.",
-          "do": "Choose a bird: a barn swallow, an Amur falcon or a crow. Draw a chain of 5 or 6 links from the Sun to that bird. Add one link where a human or a place could break the chain.",
-          "say": "Choose a bird. Make a chain from the Sun to her. Where could the chain break?",
+          "do": "Choose a bird: a barn swallow, an Amur falcon or a crow. Make a chain of 5 or 6 cards from the Sun to that bird. Put a few words or a small drawing on each. Add one card for where a person or a place could break the chain.",
+          "say": "Choose a bird. Make a chain of cards from the Sun to her. Where could the chain break?",
           "parent": "With 2 to 4 children, each makes the cards and shuffles them for a sibling to put in order, and then each builds a chain for a different bird. Compare where the chains could break.",
-          "kid": "Pick a bird. Draw a chain from the Sun to her. Where could it break?",
+          "kid": "Pick a bird. Make a chain of cards from the Sun to her. Where could it break?",
           "check": {
             "t": "mcq",
             "q": "Which link is the true starting point of the godwit's fuel?",
@@ -1343,7 +1343,7 @@
           "what": "Build the mudflat. Hide the worms. Hunt with each bill. Compare."
         }
       ],
-      "record": "A table of how many shallow worms and how many deep worms each bill found, and a drawing of the tray from the side.",
+      "record": "A table of how many shallow worms and how many deep worms each bill found, and a drawing of the tray from the side, or a photo of it.",
       "setup": [
         {
           "art": "A tray filled with rice, with ten lentils pushed in just under the top and ten near the bottom.",
@@ -1369,7 +1369,7 @@
           "context": "This is the first step of the Mudflat Buffet. You guess before you build.",
           "do": "Show the tray, the spoon and the chopsticks. Say the spoon is a short bill and the chopsticks are a long bill. Ask for a guess and a reason.",
           "say": "Waders hunt for worms in mud. A plover has a short bill. A curlew has a long bill. Who do you think will find more worms in 30 seconds? Why?",
-          "kid": "The spoon is a short bill. The chopsticks are a long bill. Which finds more worms? Why?",
+          "kid": "The spoon is a short bill. The chopsticks are a long bill. Guess which one will find more worms.",
           "ask": [
             {
               "q": "Which bill will find more worms, and why do you think so?",
@@ -1414,7 +1414,7 @@
           "context": "In this step, you say what you found, and what it means for waders.",
           "do": "Look at the counts. Ask: which bill found more shallow worms, and which found the deep ones? Why might many kinds of wader share one mudflat?",
           "say": "Look at the counts. Which bill found the worms near the top? Which found the deep ones? Why can many kinds of waders share one mudflat?",
-          "kid": "Which bill found the deep worms? Why can many waders share one mudflat?",
+          "kid": "Look at your counts. Which bill found the deep worms?",
           "ask": [
             {
               "q": "Why can many kinds of waders feed on the same mudflat?",
@@ -1453,7 +1453,8 @@
       ],
       "materials": [
         "paper and pencils or coloured pens",
-        "a ruler"
+        "a ruler",
+        "a few small objects such as buttons, a spoon and a pencil, if you want to build the lake instead of drawing it"
       ],
       "general": [
         "Build the road away from the shore, on the far side of the village.",
@@ -1465,8 +1466,8 @@
         "Use a raised road with gaps, so water and animals can pass below.",
         "Ask the fishermen to count the birds each day and share the numbers with a bird club, so they help and are paid."
       ],
-      "your_turn": "Draw your map of the lake, the village and the road. Mark where the birds feed and where the boats go. Explain to a friend why your plan is fair to both the birds and the people.",
-      "context": "This is a design challenge about balancing the needs of people and migrating birds. You draw a plan for a lake that is a stopover.",
+      "your_turn": "Draw your map of the lake, the village and the road, or build it and take a photo. Mark where the birds feed and where the boats go. Explain to a friend why your plan is fair to both the birds and the people.",
+      "context": "This is a design challenge about balancing the needs of people and migrating birds. You find out whether one lake can work for the birds and for the village. You make a plan for a lake that is a stopover.",
       "setup": [
         {
           "art": "A map of a lake with a village on one shore, reeds and mud at one edge, and a dotted line for a planned road.",
@@ -1503,7 +1504,7 @@
           "id": "s2",
           "mins": 15,
           "context": "In this step, you draw your first plan.",
-          "do": "Draw the lake. Mark a feeding zone for the birds, a fishing zone for the boats and a path for the road. Try to keep every need met.",
+          "do": "Draw the lake, or build it on a blue cloth with small objects. Mark a feeding zone for the birds, a fishing zone for the boats and a path for the road. Try to keep every need met.",
           "say": "Draw the lake. Where will the birds feed? Where will the boats go? Where does the road run? Check each need on your lists.",
           "kid": "Draw the lake. Mark the bird zone, the boat zone and the road.",
           "parent": "Do not rush the child to a perfect plan. Ask which need is hardest to meet."

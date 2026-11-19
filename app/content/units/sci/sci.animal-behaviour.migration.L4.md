@@ -216,19 +216,19 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 - **s2 (8 min)**  
   *Parent does:* Play eight cards. After each card, read the back aloud. After card four, ask what the travellers have in common.  
   *Parent says:* Read one clue at a time. After each card, read the answer on the back. After four cards, we stop and think: what do these travellers have in common?  
-  *Child mode:* Play eight cards. Read the answer after each card. What do these animals share?
+  *Child mode:* Play eight cards. Read the answer on the back after each card.
   - Ask: What do the travellers have in common so far? (good: They all go to a different place for part of the year.; They move to find food or a safe place for their young.; Some travel far, and some only go down a mountain.)
   - Note: Let the child score themselves first. Write the points down.
 - **s3 (6 min)**  
   *Parent does:* Play the other eight cards. Add up all the points. Ask which traveller was the hardest to guess.  
   *Parent says:* Play the rest of the cards. Then add up your points. Which traveller was the hardest to guess? Why?  
-  *Child mode:* Play the rest of the cards. Add your points. Which one was the hardest?
+  *Child mode:* Play the rest of the cards. Add up your points.
   - Ask: Which journey was the longest? Which was the shortest? (good: The godwit, the goose or the falcon was longest.; The wallcreeper or the elephant was shortest.)
   - Check: A wallcreeper moves down a mountain for the winter. Is that migration? → **Yes, because she makes a regular seasonal journey, even though it is short**
 - **s4 (3 min)**  
-  *Parent does:* Sort the cards into three piles. One is long journeys across countries. One is short journeys in one region. One is a journey that has stopped.  
+  *Parent does:* Sort the cards into three piles. One is long journeys across countries. One is short journeys in one region. One is a journey that has stopped, because the animals no longer make it.  
   *Parent says:* Make three piles. One for long journeys, one for short journeys, and one for a journey that has stopped. Which pile does the Siberian crane go in?  
-  *Child mode:* Sort the cards into long, short, and stopped. Which pile does the Siberian crane go in?
+  *Child mode:* Sort the cards into long, short, and stopped.
   - Note: The Siberian crane card is the one with a journey that has stopped. Her winter visits to Keoladeo ended.
 ### g2 · Eat or Fly? A race to Kerala on a tank of fat (25 min)
 - **rules:** Each player is a bird. Put each bird on Stop 1, with 2 beans of fuel.; You can never hold more than 6 beans. Spare beans go back to the pile.; On your turn, choose one: EAT or FLY.; EAT: take the top food card and follow it. Then your turn ends.; FLY: roll the die. Pay the cost of the flight in beans. If the die shows 1 or 2, there is a headwind and the flight costs 1 bean more.; If you can pay, move to the next stop. If you cannot pay, you fall into the sea. Go back to the stop you left, with 0 beans, and miss your next turn.; You may choose FLY even when a headwind would leave you short of beans, but then you may fall.; The first bird to reach Stop 6 wins. Playing alone: count how many turns you need, and try to beat your best score.; If the food cards run out, shuffle them and start again.
@@ -241,15 +241,15 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   - Note: A turn is quick. Players who play too safely take longer, and players who rush may fall. Both are fine ways to learn. A full game takes about 20 turns for each bird, so with 3 or 4 players start each bird with 4 beans, or stop when the first bird arrives. Dried beans are small: keep them away from toddlers. Any die will do; a die is on the shopping list if you have none.
 - **s2 (12 min)**  
   *Parent does:* Take turns. Each turn, choose EAT or FLY. After about six turns each, stop and ask whether anyone has taken a risk.  
-  *Parent says:* Choose to eat or fly. When you fly, remember the headwind. After six turns each, we stop and ask: did anyone take a risk?  
+  *Parent says:* Choose to eat or fly. When you fly, watch for a headwind. That is wind blowing against you, so the flight costs more beans. After six turns each, we stop and ask: did anyone take a risk?  
   *Child mode:* Eat or fly. Watch your beans. Race to Kerala.
   - Ask: Did you ever fly without enough beans? What made you choose that? (good: I was in a hurry to catch up.; I thought the die would give me a calm sky.; I did not want to waste a turn eating.)
   - Note: Notice whether the players wait for 5 or 6 beans before the Himalaya leg. That is what real birds do, because the Himalaya leg is the longest.
   - Check: The next flight costs 4 beans and you hold 4. What is the risk of flying now? → **A headwind makes it cost 5, and you fall**
 - **s3 (5 min)**  
   *Parent does:* Ask what the winner did. Ask what a real bird needs at each stop, since she has no food cards to draw. Ask what the game would be like if the Chilika lagoon was drained.  
-  *Parent says:* What did the winner do? In real life, there is no food card to draw. What does a bird need at each stop? What would happen if Chilika was drained?  
-  *Child mode:* What did the winner do? What does a real bird need at each stop?
+  *Parent says:* What did the winner do? In real life, there is no food card to draw. What does a bird need at each stop? What would happen if Chilika, a big lagoon in Odisha where many birds rest, was drained?  
+  *Child mode:* Talk about how the winner played. Think about what a real bird needs at each stop.
   - Ask: What would happen in the game if Chilika was drained? (good: Getting from Stop 4 to Kerala would cost 5 beans, or 6 in a headwind, which is a full tank.; Fewer birds would arrive.; Birds would need a bigger tank.)
   - Note: If Chilika is drained, the flight from Stop 4 to Stop 6 costs 2 plus 3, which is 5 beans. A bird can carry 6, but headwinds make the flight a big risk. Link this to the real birds that depend on every stop.
 
@@ -264,7 +264,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 - **s1 (4 min)**  
   *Parent does:* Show the orange, the skewer and the torch. Say the orange is the Earth, the torch is the Sun, and the top of the skewer is the north. Ask for a guess and a reason.  
   *Parent says:* This orange is the Earth. The torch is the Sun. The top is the north. We will spin the orange once and see which places stay in the light. Which place do you think stays in the light longest? Why?  
-  *Child mode:* The orange is the Earth. The torch is the Sun. Which place will stay in the light longest? Why do you think so?
+  *Child mode:* The orange is the Earth. The torch is the Sun. Spin the orange, and some places stay in the light.
   - Ask: Which place will be in the light longest, and why do you think so? (good: The top one, because it is closest to the Sun.; The middle one, because it is in the middle of the lit side.; They will all be the same, because the orange turns.)
   - Note: Do not correct the guess. Write down the guess and the reason. Any reason is a good start.
 - **s2 (6 min) · grown-up needed**  
@@ -292,7 +292,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 - **s6 (6 min)**  
   *Parent does:* Look at the table. Ask: what do you claim, what is your evidence, and why does it happen? Then ask what this means for a bird that raises chicks on the tundra.  
   *Parent says:* Look at your table. What did you find? What numbers show it? Why do you think the dots changed? What might it mean for a bird on the tundra?  
-  *Child mode:* Look at your table. What do the numbers show? Why did the counts for the tundra dot change?
+  *Child mode:* Look at your table. Find the lean where the tundra dot stayed lit the longest.
   - Ask: What is your claim, what is your evidence, and why does it happen? (good: The tundra has the longest summer day. The tundra dot was lit all 12 counts when the top leaned in.; The lean changes the light. When the lean changed, the numbers changed.; Kerala hardly changed, so the equator has days of about the same length all year.)
   - Ask: What might a long summer day mean for a bird feeding chicks on the tundra? (good: She has more hours to find food.; Insects and plants have light to grow all day.; She can feed her chicks through the bright night.)
   - Note: Let the child give the explanation first. The summary is that the lean of the Earth changes how long the Sun shines on a place. Near the pole the change is large, and near the equator it is small. In summer, the far north has a very long day, which is why so many birds go there to breed.
@@ -303,9 +303,9 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 - **record:** Write down how many birds arrived and how many fell in each round. Work out the fraction that arrived each time.
 - **results table:** Round | Birds that started | Birds that arrived | Birds that fell
 - **s1 (4 min)**  
-  *Parent does:* Draw six circles in a row: the Start, wetlands 1 to 4, and Kerala. Read the rules: each bird starts with 2 beans. Each leg costs 1 bean. Roll the die for each leg. A 1 or 2 costs one extra bean. A bird with too few beans falls into the sea. Ask for a guess and a reason.  
+  *Parent does:* Draw six circles in a row, or place six cups or coins in a row: the Start, wetlands 1 to 4, and Kerala. Read the rules: each bird starts with 2 beans. Each leg costs 1 bean. Roll the die for each leg. A 1 or 2 costs one extra bean. A bird with too few beans falls into the sea. Ask for a guess and a reason.  
   *Parent says:* A bird starts with 2 beans of fuel. Each leg costs 1 bean. Roll a die for each leg. A 1 or 2 is a headwind, and costs 1 bean more. Out of 12 birds, how many do you think will arrive? Why?  
-  *Child mode:* Each bird has 2 beans. Each leg costs 1 bean. A 1 or 2 on the die costs 1 more. How many of 12 birds arrive?
+  *Child mode:* Each bird has 2 beans. Each leg costs 1 bean. A 1 or 2 on the die costs 1 more. Then make your guess.
   - Ask: How many of the 12 birds do you think will arrive? Why do you think so? (good: Most, because the stops give them time to eat.; About half, because the dice can go wrong.; All of them, because there are many stops.)
   - Note: Do not correct the guess. Write it down. A bird that has 0 beans left when she lands is safe. She falls only if she needs more beans than she has.
 - **s2 (3 min)**  
@@ -316,7 +316,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 - **s3 (9 min)**  
   *Parent does:* Fly one bird at a time from the Start to Kerala. For each leg, take away 1 bean, roll the die, and take away one more bean if the die shows 1 or 2. If she does not have enough beans, she falls. At each wetland, roll to feed. Tally the birds that arrive and the birds that fall. Do this for all 12 birds.  
   *Parent says:* Fly the first bird. For each leg, spend one bean. Then roll the die to see if there is a headwind, which costs one more bean. When she lands at a wetland, roll the die to feed. Keep a tally of birds that arrive and birds that fall. Twelve birds, one by one.  
-  *Child mode:* Fly one bird at a time. Spend beans. Roll the die. Tally the birds that arrive and fall.
+  *Child mode:* Fly one bird at a time. Spend 1 bean for each leg. Roll the die to see if there is a headwind. Tally the birds that arrive and fall.
   - Note: Each bird takes about 40 seconds, so this round takes about 8 minutes. The grown-up and child can take turns rolling. With 2 to 4 children, each flies 3 to 6 of the 12 birds at the same time on their own paper flyway (the same rules), and one child keeps the tally. Typical result: about 9 or 10 arrive, and 2 or 3 fall. This is a typical result and not a promise.
   - Check: A bird lands at wetland 2 with 0 beans left. Is she safe? → **Yes, because she landed and can feed to fill up again**
 - **s4 (8 min)**  
@@ -327,7 +327,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 - **s5 (6 min)**  
   *Parent does:* Write the counts in the table. Ask: what is your claim, what is your evidence, and why did the drained wetland matter? Ask what would happen if two wetlands were drained.  
   *Parent says:* Look at both rounds. What is different? What numbers show it? Why did more birds fall when wetland 3 was gone? What would happen if two wetlands were gone?  
-  *Child mode:* Look at both rounds. How many arrived each time? Why did more birds fall in round 2?
+  *Child mode:* Look at both rounds. Count how many birds arrived each time.
   - Ask: What is your claim, what is your evidence, and why did it happen? (good: Fewer birds arrived when a wetland was gone. We counted fewer arrivals in round 2.; The long gap used up the fuel, and one headwind was enough to make a bird fall.; A stopover lets a bird refuel, and a gap without one is risky.)
   - Ask: What would happen if two wetlands were drained? (good: Almost no bird would cross.; The gap would be even longer than the fuel could cover.)
   - Note: Let the child explain first. In the real world, the numbers are not beans, but the pattern is the same: a long gap with no place to refuel is where birds are lost.
@@ -338,13 +338,13 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 - **record:** A table of the eight birds with the label you chose and the clue that made you choose it.
 - **s1 (4 min)**  
   *Parent does:* Read the four labels. A resident stays all year. A winter visitor comes for the northern winter. A summer visitor comes to breed in the warm months. A passage migrant stops only for days or weeks on the way to somewhere else.  
-  *Parent says:* Birders use four labels. A resident stays all year. A winter visitor comes for our winter. A summer visitor comes to nest. A passage migrant only stops here for a few days or weeks, on her way somewhere else. Which birds do you think you have seen here?  
+  *Parent says:* Birders use four labels. A resident stays all year. A winter visitor comes for our winter. A summer visitor comes to nest. A passage migrant only stops here for a few days or weeks, on her way somewhere else.  
   *Child mode:* There are four labels. A resident stays all year. A winter visitor comes in winter. A summer visitor comes to nest. A passage migrant only passes through.
   - Ask: Which birds around your home do you think are residents? (good: Crows.; Pigeons.; Sparrows or mynas.)
 - **s2 (6 min)**  
-  *Parent does:* Read each clue and put the bird under one of the four labels. The house crow is seen in every month, and nests here. The rock pigeon is seen in every month. The rosy starling arrives in autumn and leaves in spring. The barn swallow arrives in autumn and leaves in spring. The northern pintail is on lakes from autumn to spring. The pied cuckoo arrives with the monsoon, nests, and leaves. The Amur falcon is here for three weeks in October and November. The cattle egret is seen in every month.  
+  *Parent does:* Make four piles, one for each label. Read each clue and put the bird in one pile. The house crow is seen in every month, and nests here. The rock pigeon is seen in every month. The rosy starling arrives in autumn and leaves in spring. The barn swallow arrives in autumn and leaves in spring. The northern pintail is on lakes from autumn to spring. The pied cuckoo arrives with the monsoon, nests, and leaves. The Amur falcon is here for three weeks in October and November. The cattle egret is seen in every month.  
   *Parent says:* Read each clue. Which label fits each bird? Think about when she is here and when she is not. There are three residents, three winter visitors, one summer visitor and one passage migrant.  
-  *Child mode:* Read each clue. Put each bird under a label. Think about when you see her.
+  *Child mode:* Read each clue. Put each bird under a label. Think about which months she is here.
   - Ask: Which bird was hardest to place, and why? (good: The pied cuckoo, because she comes for the rains.; The Amur falcon, because she stays for only a short time.)
   - Note: Answers: house crow, rock pigeon and cattle egret are residents. Rosy starling, barn swallow and northern pintail are winter visitors. Pied cuckoo is a summer visitor, since some come with the monsoon to nest. Amur falcon is a passage migrant. In some places the same species can have a different label, and a few cattle egrets also move short distances, so a book may disagree. With 2 to 4 children, each sorts alone first and then you compare; talk about any bird you placed differently.
 - **s3 (5 min)**  
@@ -356,7 +356,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 - **record:** Your graph, with the flat parts marked 'stopover' and the steep parts marked 'flight'.
 - **s1 (5 min)**  
   *Parent does:* Draw a grid with 12 weeks along the bottom (0 to 11) and latitude up the side, from 20 to 50 degrees north. Explain that latitude tells us how far north a bird is. A higher number is farther north.  
-  *Parent says:* A tag sends a bird's position every week. Latitude says how far north she is. A big number is far north. We will draw her journey week by week. What do you think the graph will look like?  
+  *Parent says:* A tag sends a bird's position every week. Latitude says how far north she is. A big number is far north. We will draw her journey week by week.  
   *Child mode:* Draw a grid. Weeks go along the bottom. Latitude goes up the side.
   - Ask: What do you think the line will look like when the goose is flying, and when she is resting? (good: When she is flying, the line goes down quickly.; When she is resting, the line stays flat.)
   - Note: Latitude is the north-south position. The goose is imagined: Tara, tagged on a lake in Mongolia.
@@ -368,7 +368,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 - **s3 (10 min)**  
   *Parent does:* Ask: where is the line flat? Where is it steep? How many weeks did she spend at the middle stopover? How many degrees did she travel in all? Each degree of latitude is about 111 kilometres.  
   *Parent says:* Where is the graph flat? What does that mean? Where is it steep? How many weeks did she rest at the middle place? How far did she go in degrees?  
-  *Child mode:* Find the flat parts. Find the steep parts. What do they mean?
+  *Child mode:* Find the flat parts of the line. Find the steep parts.
   - Ask: What do the flat parts and the steep parts mean? (good: Flat parts are where she stays and feeds. Steep parts are where she flies.; She stayed about four weeks at the middle stopover (four weekly readings at 33).; She went from 48 to 27, which is 21 degrees.)
   - Note: Answers: three flat parts, at 48 (weeks 0 to 2), 33 (weeks 4 to 7) and 27 (weeks 8 to 11). The steep parts are between weeks 2 and 4 and between 7 and 8. She went 21 degrees, about 2,300 kilometres north to south (21 times 111). Her biggest jump in one week was 8 degrees (week 2 to 3), about 900 kilometres. With 2 to 4 children, each plots the graph alone on their own paper and then compares; one child can read the table aloud.
   - Check: On a tracking graph of latitude, what does a long flat part mean? → **The bird stayed in about the same place, such as a lake where she rested**
@@ -379,26 +379,26 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   *Parent says:* Write each line on its own card. We will mix them up and put them in the right order. This is the chain that runs from the Sun to a wingbeat.  
   *Child mode:* Write each line on a card. Mix the cards up.
 - **s2 (6 min)**  
-  *Parent does:* Mix up the cards, then put them in the order that you think is right. Then check it against the correct order. Ask where each link gets its energy from.  
-  *Parent says:* Put the cards in order. Where does each link get its energy from? What would happen if one link was missing?  
+  *Parent does:* Mix up the cards, then put them in the order that you think is right. Then check it against the order of the list you copied from. Ask where each link gets its energy from.  
+  *Parent says:* Put the cards in order. Where does each link get its energy from?  
   *Child mode:* Put the cards in order. Where does each link get its energy?
-  - Ask: What would happen to the godwit if the mudflat link was lost? (good: She would not have enough food to build fat.; She could not make the long flight.)
+  - Ask: What would happen to the godwit if the insects, worms and shellfish at her stopover were lost? (good: She would not have enough food to build fat.; She could not make the long flight.)
   - Note: Correct order: sunlight, plants and algae, small animals, the godwit eats, fat, burning the fat, wingbeats, warmth. Do not give the answer first. Let the child try.
 - **s3 (6 min)**  
-  *Parent does:* Choose a bird: a barn swallow, an Amur falcon or a crow. Draw a chain of 5 or 6 links from the Sun to that bird. Add one link where a human or a place could break the chain.  
-  *Parent says:* Choose a bird. Make a chain from the Sun to her. Where could the chain break?  
-  *Child mode:* Pick a bird. Draw a chain from the Sun to her. Where could it break?
+  *Parent does:* Choose a bird: a barn swallow, an Amur falcon or a crow. Make a chain of 5 or 6 cards from the Sun to that bird. Put a few words or a small drawing on each. Add one card for where a person or a place could break the chain.  
+  *Parent says:* Choose a bird. Make a chain of cards from the Sun to her. Where could the chain break?  
+  *Child mode:* Pick a bird. Make a chain of cards from the Sun to her. Where could it break?
   - Note: With 2 to 4 children, each makes the cards and shuffles them for a sibling to put in order, and then each builds a chain for a different bird. Compare where the chains could break.
   - Check: Which link is the true starting point of the godwit's fuel? → **Sunlight, which plants and algae use to grow**
 
 ## Projects
 ### p1 · The Mudflat Buffet: why waders have different bills (35 min)
 - **safety:** Keep rice, lentils and chickpeas away from small children who might put them in their mouths or noses. Do not eat them. Do not poke chopsticks or pencils near faces. Anyone allergic to pulses should not touch the chickpeas and lentils.
-- **record:** A table of how many shallow worms and how many deep worms each bill found, and a drawing of the tray from the side.
+- **record:** A table of how many shallow worms and how many deep worms each bill found, and a drawing of the tray from the side, or a photo of it.
 - **s1 (5 min)**  
   *Parent does:* Show the tray, the spoon and the chopsticks. Say the spoon is a short bill and the chopsticks are a long bill. Ask for a guess and a reason.  
   *Parent says:* Waders hunt for worms in mud. A plover has a short bill. A curlew has a long bill. Who do you think will find more worms in 30 seconds? Why?  
-  *Child mode:* The spoon is a short bill. The chopsticks are a long bill. Which finds more worms? Why?
+  *Child mode:* The spoon is a short bill. The chopsticks are a long bill. Guess which one will find more worms.
   - Ask: Which bill will find more worms, and why do you think so? (good: The long bill, because it reaches deeper.; The short bill, because it covers more rice at once.)
   - Note: Do not correct the guess. Write it down.
 - **s2 (8 min)**  
@@ -419,14 +419,14 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 - **s5 (6 min)**  
   *Parent does:* Look at the counts. Ask: which bill found more shallow worms, and which found the deep ones? Why might many kinds of wader share one mudflat?  
   *Parent says:* Look at the counts. Which bill found the worms near the top? Which found the deep ones? Why can many kinds of waders share one mudflat?  
-  *Child mode:* Which bill found the deep worms? Why can many waders share one mudflat?
+  *Child mode:* Look at your counts. Which bill found the deep worms?
   - Ask: Why can many kinds of waders feed on the same mudflat? (good: Each kind of bill reaches different food.; Short bills take shallow worms and long bills take deep ones, so they do not fight over the same food.)
   - Check: On a real mudflat, why do the tide times matter for waders? → **Waders can feed only when the mud is uncovered, so the tide sets their feeding time**
 
 ## Challenges
 ### c1 · Save the Stopover: a plan that works for the birds and the village (35 min)
 - **problem:** A village lake is the only large wetland for 300 kilometres, and 5,000 waders rest and feed there for two weeks every autumn. The village also catches fish in the lake and wants a new road along the shore. Make a plan that keeps the birds safe, keeps the fishing, and gets the road.
-- **your turn:** Draw your map of the lake, the village and the road. Mark where the birds feed and where the boats go. Explain to a friend why your plan is fair to both the birds and the people.
+- **your turn:** Draw your map of the lake, the village and the road, or build it and take a photo. Mark where the birds feed and where the boats go. Explain to a friend why your plan is fair to both the birds and the people.
 - **constraints:** The lake must stay shallow at the edges, with mud and reeds, for the waders to feed.; The fishermen must keep catching fish for the market.; The road must connect the village to the town.; You can draw, but you cannot move the lake.
 - **general:** Build the road away from the shore, on the far side of the village.; Keep a quiet zone along one side of the lake during the weeks when the waders are there.; Set fishing times so the boats are away from the mud while the birds feed.
 - **creative:** Have village children lead dawn walks for visitors to watch the birds, so that the lake earns money for the village.; Use a raised road with gaps, so water and animals can pass below.; Ask the fishermen to count the birds each day and share the numbers with a bird club, so they help and are paid.
@@ -436,7 +436,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   *Child mode:* Make two lists. What do the birds need? What does the village need?
   - Ask: What does each side need that the other side might block? (good: The birds need quiet mud, but boats and roads are noisy.; The village needs fish and a road, which could change the shore.)
 - **s2 (15 min)**  
-  *Parent does:* Draw the lake. Mark a feeding zone for the birds, a fishing zone for the boats and a path for the road. Try to keep every need met.  
+  *Parent does:* Draw the lake, or build it on a blue cloth with small objects. Mark a feeding zone for the birds, a fishing zone for the boats and a path for the road. Try to keep every need met.  
   *Parent says:* Draw the lake. Where will the birds feed? Where will the boats go? Where does the road run? Check each need on your lists.  
   *Child mode:* Draw the lake. Mark the bird zone, the boat zone and the road.
   - Note: Do not rush the child to a perfect plan. Ask which need is hardest to meet.

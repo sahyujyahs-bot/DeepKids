@@ -276,13 +276,13 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
   - Note: A muscle that is pulling feels hard and thick. A relaxed muscle feels soft. If your child cannot feel a change, push gently against the movement so the muscle has to work harder.
 - **s3 (5 min)**  
   *Parent does:* Play the last six cards. For each one, also look for the partner muscle that undoes the movement.  
-  *Parent says:* Six more cards. After each one, undo the movement slowly. Where is the muscle that pulls you back?  
+  *Parent says:* Six more cards. After each one, undo the movement slowly and feel for the muscle that pulls you back.  
   *Child mode:* Play six more cards. Find the muscle that undoes each movement.
   - Ask: Where is the partner muscle usually found? (good: On the opposite side of the same bone.; If one is at the front, the other is at the back.)
 - **s4 (2 min)**  
   *Parent does:* Count the points. Talk about the question below.  
   *Parent says:* The muscles that close your fist are in your forearm, not in your fingers. How does their pull reach your fingers?  
-  *Child mode:* Count your points. How does a forearm muscle move a finger?
+  *Child mode:* Count your points. Close your fist and feel your forearm.
   - Note: Long tendons run from the forearm muscles through the wrist to the finger bones. Your child can see them move on the back of the hand when they wiggle their fingers.
   - Check: A muscle at the front of a bone bends a joint. Where is the muscle that straightens it? → **On the opposite side of the bone**
 
@@ -296,7 +296,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
 - **s1 (3 min)**  
   *Parent does:* Show your child the ruler, the coins and the rubber band. Explain the three tying places. Ask for both guesses and the reasons, and write them down.  
   *Parent says:* This ruler is a forearm. The coins are a load in the hand. The rubber band is the muscle. Where will the band stretch most: at 5, 15 or 25 centimetres? Why do you think so?  
-  *Child mode:* The ruler is an arm. The band is a muscle. Where will the band stretch most? Why?
+  *Child mode:* Make your guess. Tell your grown-up why you think so.
   - Ask: At which place will you have to lift the band the shortest distance? Why? (good: Near the elbow end, because that part of the ruler hardly rises.; At the coin end, because it is nearest the load.; Any guess with a reason.)
   - Note: Do not correct the guesses. Many children expect the band to stretch most when it is tied at the coins. That is where the weight is.
 - **s2 (5 min)**  
@@ -321,14 +321,14 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
   - Check: In the Ruler Arm experiment, why do you lift the coins to the same tape mark every time? → **So only the tying place changes**
 - **s6 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Look at your numbers. Say what you thought would happen, what you saw, and why it happened. The coins never changed. So why did the band stretch more at one place?  
+  *Parent says:* Look at your numbers. The coins never changed. So why did the band stretch more at one place?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: What did you gain by tying the band close to the elbow end? (good: A short lift of the band moved the coins a long way.; The loop rose only about 2 centimetres, and the coins rose 12.)
   - Ask: What did it cost? (good: The band had to pull much harder.; The band stretched the most there.; The elbow end pushed up hard against my finger.)
   - Note: In most homes the band is longest when tied at 5 centimetres and shortest at 25. The loop height is about 10, 6 and 2 centimetres. Write down what you really found. The reason is that the ruler is a lever that turns at the pressed end. A pull close to that end has to be much bigger to hold up the same load. At 5 centimetres the pull is about five times as big as at 25. In return, the band moves only one fifth as far for the same rise of the coins.
 - **s7 (4 min)**  
   *Parent does:* Your child bends one elbow and presses two fingers of the other hand into the bend. They bend and straighten the arm slowly and feel the cord there. Ask which tying place on the ruler is most like their own arm.  
-  *Parent says:* Press two fingers into the bend of your elbow. Bend your arm slowly. Can you feel a tight cord? That is the tendon of your biceps. How far is it from the bend?  
+  *Parent says:* Press two fingers into the bend of your elbow. Bend your arm slowly. Can you feel a tight cord? That is the tendon of your biceps. Which place on the ruler is most like it: 5, 15 or 25 centimetres?  
   *Child mode:* Press into the bend of your elbow. Bend your arm. Feel the cord.
   - Note: The biceps tendon joins the forearm about 3 centimetres from a child's elbow, and about 4 from a grown-up's. That is like the 5 centimetre place on the ruler, or closer. So the muscle pulls several times harder than the load in the hand.
   - Think: Your muscle is tied like the band at 5 centimetres. What does that tell you about how hard it pulls?
@@ -343,7 +343,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
 - **s1 (3 min)**  
   *Parent does:* Day 1. Show your child the plates and the newspaper. Explain the test. Ask for the guess and the reason, and write both down.  
   *Parent says:* We will freeze two slabs of ice. One is plain. One has torn newspaper inside. Tomorrow we drop them. Which will break first, and why do you think so?  
-  *Child mode:* One slab is plain ice. One has paper inside. Which breaks first? Why?
+  *Child mode:* Look at both plates. Tell your grown-up which slab you think breaks first.
   - Note: Do not correct the guess. Some children expect the paper to make the ice weaker, because wet paper is weak.
 - **s2 (10 min)**  
   *Parent does:* Tear the two pages into pieces smaller than a stamp. Soak them in the bowl for 10 minutes, then rub them into a mush. Pour water into the first plate, 1 centimetre deep. Spread the mush in the second plate and add water until it is just covered, 1 centimetre deep. Put both plates flat in the freezer.  
@@ -353,7 +353,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* Day 2. Take both plates out. Dip the bottom of each plate in tap water for about 20 seconds. Slide the slabs out onto the towel. Let your child hold each slab in the towel and look at it against the light.  
   *Parent says:* Here are yesterday's slabs. Hold each one in the towel. Look through it at the window. What do you notice about each?  
-  *Child mode:* Take the slabs out. Hold each in the towel. What do you notice?
+  *Child mode:* Hold each slab in the towel. Look through it at the window.
   - Wait: Freeze the plates for at least 8 hours, until the next day
 - **s4 (8 min) · grown-up needed**  
   *Parent does:* Go to a bathroom or balcony floor. Stand the ruler on the floor. Your child holds the plain slab flat at the 10 centimetre mark and lets go. Write whole, cracked or in pieces. Do the same with the paper slab. Repeat from 20 and 40 centimetres, and from 80 centimetres measured against a wall. Stop dropping a slab once it is in pieces.  
@@ -363,7 +363,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
   - Check: In the Paper Ice Test, why must both slabs be the same thickness? → **So only the paper is different**
 - **s5 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below. Then dry the floor.  
-  *Parent says:* Look at your table. Say what you thought would happen, what you saw, and why it happened. Look at the broken edge of each slab. What is different?  
+  *Parent says:* Look at your table. Look at the broken edge of each slab. What is different?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: What do you see at a crack in the paper ice? (good: Paper fibres going across the crack.; The two sides are still held together.; It looks hairy, not smooth.)
   - Ask: Which part of a bone is like the ice, and which is like the paper? (good: The hard mineral is like the ice.; The collagen fibres are like the paper.)
@@ -382,7 +382,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
   *Parent does:* For each slip, your child first finds the bone on their own body by pressing gently. Then they stick the slip on the model over the same bone. Help only after they have tried.  
   *Parent says:* Take one slip. Find that bone on yourself first. Press gently. What shape is it? Now stick the slip on me, right over the same bone.  
   *Child mode:* Find each bone on yourself. Then stick the slip on the model.
-  - Ask: What do you notice about the forearm when you turn your palm up and down? (good: There are two bones.; One bone seems to roll over the other.)
+  - Ask: Feel your forearm and turn your palm up and down. What do you notice? (good: There are two bones.; One bone seems to roll over the other.)
   - Note: The shoulder blade is the flat bone on the upper back. It sticks out when the arm is pulled behind the back. The breastbone is the flat bone down the middle of the chest.
 - **s3 (3 min)**  
   *Parent does:* Point to each slip in turn. Your child says what that bone does: holds the body up, protects something soft, or helps to move. For the bones that protect, they name the organ behind them.  
@@ -409,7 +409,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
   - Note: This really is done. In the 1950s the American scientist Mildred Trotter measured the bones of several thousand people whose heights were known. She worked out rules for finding height from a thigh bone. Her rules are more exact than 'four times', and they are still used.
   - Check: A thigh bone is 40 centimetres long. About how tall was the person? → **About 160 centimetres**
 ### a3 · Lift and Press: two muscles for one elbow (10 min)
-- **record:** Draw your arm twice. In the first drawing you are lifting, and in the second you are pressing down. Colour the muscle that was hard in each drawing.
+- **record:** Say or write it. When you lifted, which muscle was hard: the front or the back of your upper arm? Which was hard when you pressed down? You can also draw your arm twice and colour that muscle.
 - **s1 (3 min)**  
   *Parent does:* Your child sits at the table and puts one hand under the table top, palm up. They lift gently, as if to raise the table, and hold for a count of five. With the other hand they feel the front of the upper arm, then the back.  
   *Parent says:* Lift up gently and hold. Feel the front of your upper arm with your other hand. Now feel the back. Which is hard and which is soft?  
@@ -432,7 +432,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
 - **schedule:** day 1: Test both bones for stiffness, then put one in vinegar and one in water. (8 min); day 3: Take both bones out, rinse them and try to bend them. Put them back. (4 min); day 5: Test both bones again and say what the vinegar took away. (8 min)
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* Day 1. Let your child try gently to bend each bone, and write down 'stiff'. Put one bone in each tumbler. Cover one with vinegar and the other with water. Cover the tumblers with plates and label them. Ask for a guess.  
-  *Parent says:* Both bones are stiff now. Vinegar is a weak acid. One bone will sit in vinegar and one in water for five days. What do you think will happen to each? Why?  
+  *Parent says:* Both bones are stiff now. Vinegar is a weak acid, a sour liquid that can dissolve some things. One bone will sit in vinegar and one in water for five days. What do you think will happen to each? Why?  
   *Child mode:* Try to bend each bone. Put one in vinegar and one in water. What will happen?
   - Note: Cooked bones from a curry work as well as raw ones. Thin bones change fastest. Small bubbles on the vinegar bone are normal.
 - **s2 (4 min) · grown-up needed**  
@@ -456,9 +456,9 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
   *Child mode:* Press each one gently. Where is the hard part? Where is the soft part?
   - Note: These are parts of plants, used here only as models. The groundnut shell stands for an exoskeleton. The stone of the date stands for a bone.
 - **s2 (4 min)**  
-  *Parent does:* Open both. Ask the three questions below, one at a time.  
+  *Parent does:* Open both. Ask the questions below, one at a time.  
   *Parent says:* Suppose the soft part had to grow to twice the size. In which one would the hard part get in the way? In which one is the soft part open to a scratch?  
-  *Child mode:* Open both. Which soft part could grow bigger? Which could be scratched?
+  *Child mode:* Open both. Find the hard part and the soft part in each.
   - Ask: The soft part inside a hard shell must grow. What has to happen to the shell? (good: The shell has to split.; A new, bigger shell is needed.)
   - Ask: Which plan protects the soft part better from a scratch? (good: The hard shell outside.)
 - **s3 (3 min)**  
@@ -474,7 +474,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
 - **s1 (10 min)**  
   *Parent does:* Day 1. Read the list of calcium foods below with your child and tick the ones your family eats. Draw the diary table. Fill in today's row together. Then your child does 50 jumps or skips.  
   *Parent says:* Your bone cells need three things. They need calcium from food. They need vitamin D, which your skin makes in sunlight. And they need to feel your bones being loaded. Which of these did you get today?  
-  *Child mode:* Bones need calcium, sunlight and jumping. Draw the diary. Fill in today.
+  *Child mode:* Bones need calcium, sunlight and jumping. Make the diary table. Fill in today.
   - Note: Foods rich in calcium: milk, curd, buttermilk, paneer, ragi, sesame seeds, drumstick leaves, amaranth leaves, rajma, chana, and small fish eaten whole. Ragi has many times more calcium than rice or wheat. About 15 minutes of sun on the arms and legs in the morning is a reasonable aim. Do not let skin burn.
 - **s2 (10 min)**  
   *Parent does:* Day 2. In the evening, fill in the second row. Your child does 50 jumps or skips and adds those minutes.  
@@ -499,7 +499,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
 - **s1 (4 min)**  
   *Parent does:* Read the problem together. Look again at the results of the Ruler Arm experiment. Ask where the string should go.  
   *Parent says:* In the Ruler Arm experiment, which tying place moved the coins furthest for the shortest lift of the band? Where will you tie the string on this arm?  
-  *Child mode:* Read the problem. Where should the string be tied? Why?
+  *Child mode:* Choose the place to tie the string. Say why you chose it.
   - Ask: What is the cost of tying the string very close to the elbow? (good: The string must pull much harder.; The cardboard may tear.)
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* Make a hole near one end of each strip and tie them loosely together to make the elbow. Tape the coins on the far end of the forearm. Your child ties the long string to the forearm at the place they chose.  

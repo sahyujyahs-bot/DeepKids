@@ -215,8 +215,8 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **Printable score sheet: A score sheet with a row for each body and three tries:** Flat worm, target square 2: try 1 ___ try 2 ___ try 3 ___ total ___; Ant, target square 4: try 1 ___ try 2 ___ try 3 ___ total ___; Crab, target square 8: try 1 ___ try 2 ___ try 3 ___ total ___; Crab with a pump, target square 8: try 1 ___ try 2 ___ try 3 ___ total ___
 - **s1 (3 min)**  
   *Parent does:* Draw the strip of nine squares and number them 0 to 8. Give each player a small token and a coin. Ask for a guess.  
-  *Parent says:* A particle of oxygen wanders by chance. On heads it takes one step in. On tails it takes one step back. It starts outside. About how many flips will it take to reach square two, square four and square eight?  
-  *Child mode:* Oxygen wanders by chance. How many flips to reach squares 2, 4 and 8?
+  *Parent says:* A particle of oxygen wanders by chance. On heads it takes one step in. On tails it takes one step back. It starts outside. Square two is how far oxygen must go in a flat worm, square four in an ant, square eight in a crab. About how many flips will it take to reach each?  
+  *Child mode:* Oxygen wanders by chance, like your token. Heads, one step in. Tails, one step back.
   - Ask: Square 2 takes a few flips. How many do you think to reach square 4, and square 8? (good: About twice as many for square 4.; Many more than that, because it wanders back.)
   - Note: Do not correct the guess. Write each guess on the score sheet. The long-run averages are about 6 flips for square 2, 20 for square 4, and 72 for square 8. Each player flips their own coin and moves their own token at the same time. Then pool everyone's counts for each body, which gives a steadier average than one child's three tries. One child alone just plays the tries in turn.
 - **s2 (4 min)**  
@@ -244,7 +244,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s6 (3 min)**  
   *Parent does:* Add up the flips for each body. Write the totals, and compare. Ask the question below.  
   *Parent says:* Look at your totals. When the trip got twice as long, how did the number of flips change? What did the pump do?  
-  *Child mode:* Compare your totals. What did doubling the distance do? What did the pump do?
+  *Child mode:* Compare your totals for the worm, the ant and the crab.
   - Ask: When the distance doubled, how did the number of flips change? (good: It went up about four times.; It went up more than double.)
   - Think: Why do ants and crabs not rely on wandering alone for their oxygen?
 ### g2 · Air Route: how does this animal breathe? (20 min)
@@ -283,7 +283,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s1 (5 min)**  
   *Parent does:* Show your child the agar, the box and the food colour. Say that clear jelly will be cut into three shapes. Write down their guess and their reason.  
   *Parent says:* We will make clear jelly. Then we will cut a thin slice, a small cube and a big cube. We will soak them in colour. Which piece will be coloured all the way through? Why do you think so?  
-  *Child mode:* We will soak pieces of jelly in colour. Which piece will be coloured all the way through? Why do you think so?
+  *Child mode:* We will soak pieces of jelly in colour. Pick the piece you think will be coloured all the way through.
   - Ask: Why do you think that piece will be coloured all the way through? (good: It is the smallest, so the colour has less far to go.; It is thin, so the colour comes in from both sides.; The colour will go into all of them the same.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the table. One child: you are the grown-up helper. Two to four children: share one jelly slab. Give each child a job (timer, spoon lifter, measurer, recorder) and swap jobs at each step. With three or four children, cut a set of pieces for each child from the same slab (it is big enough) and use one bowl of colour per child, so everyone measures their own cubes.
 - **s2 (10 min) · grown-up needed**  
@@ -328,7 +328,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s9 (6 min)**  
   *Parent does:* Compare the edge at 10 minutes and at 40 minutes on the big cube. Then ask your child to write what they thought would happen, what they saw, and why it happened.  
   *Parent says:* Look at the big cube at ten minutes and at forty minutes. The time was four times as long. Was the edge four times as thick? What did you think would happen, what did you see, and why did it happen?  
-  *Child mode:* Compare the big cube at 10 and 40 minutes. Write what you thought would happen, what you saw, and why.
+  *Child mode:* Compare the big cube at 10 and 40 minutes. Say or write what you thought would happen, what you saw, and why.
   - Ask: Was the edge four times thicker after four times as long? (good: No. It was only about twice as thick.; It slowed down.)
   - Note: This is the key finding. The edge grows more slowly than the time. Four times as long usually gives roughly twice as deep (a ruler is rough to the millimetre, so anything from 1.5 to 3 times is fair). Do not explain it yet. Let the child say what they notice. The explanation card and the Wobbly Walk game follow.
   - Think: If the colour only reaches a few millimetres in 40 minutes, how long might it take to reach 2 centimetres?
@@ -342,7 +342,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s1 (3 min)**  
   *Parent does:* Show your child the three kinds of sugar. Ask for a guess and a reason.  
   *Parent says:* We have the same amount of sugar three ways. One lump, a few bits and some powder. Which will vanish first in still water? Why do you think so?  
-  *Child mode:* The same sugar comes in three shapes. Which will vanish first? Why?
+  *Child mode:* Look at the whole lump, the bits and the powder. Which will vanish first?
   - Ask: Why do you think that one will vanish first? (good: It is in the smallest bits.; The water touches more of it.; It is the quickest to melt.)
   - Note: Do not correct the guess. Write it down. One child: you do all three glasses. Two to four children: each child takes one kind of sugar and drops it on a count of three, then times their own glass. The extra child or the parent is the recorder. Swap kinds for the second try.
 - **s2 (7 min)**  
@@ -359,13 +359,13 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   - Note: Typically the powder goes first and the whole lump last, but the times vary a lot with the water and the sugar, so write what you see. Sugar cubes are full of tiny holes and may crumble into grains in the first minute. Time them until the last grain is gone. Rock sugar is much slower and may need more than ten minutes. If a lump is not gone after 10 minutes, stop and write 'more than 10'. Powder can pile in a heap and dissolve more slowly than you expect. If your order is a surprise, that is a real result to explain.
 - **s4 (10 min)**  
   *Parent does:* Repeat with fresh glasses, fresh water and fresh sugar. Write the second times in the table. Work out the average for each.  
-  *Parent says:* Do it all again with new glasses. Why do you think we repeat it? Write the second times down.  
+  *Parent says:* Do it all again with new glasses. Write the second times down.  
   *Child mode:* Do it again with new glasses. Write the new times.
   - Check: Why do we repeat the test? → **One try can be a fluke, so a second try makes us surer**
 - **s5 (5 min)**  
   *Parent does:* Ask your child to write what they thought would happen, what they saw, and why it happened. Then ask the question below.  
   *Parent says:* What did you think would happen, what did you see, and why did it happen? A crab's gill is shaped like a feather, not like a lump. Why might that help?  
-  *Child mode:* Write what you thought would happen, what you saw, and why. Why is a gill shaped like a feather?
+  *Child mode:* Say or write what you thought would happen, what you saw, and why.
   - Ask: Why might a crab's gill be shaped like a feather and not like a lump? (good: A feather shape has more outside to touch the water.; More of the gill meets the water, so oxygen gets in faster.)
   - Note: The sugar and the gill are different, but the idea is the same. More surface touching the water means faster change. Do not explain more than this yet.
   - Think: What would a lump-shaped gill be like?
@@ -374,12 +374,12 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **predict:** Before you start, guess. Which glass will be an even colour first, and which last? Why do you think so?
 - **fair test:** Each glass has the same amount of water and the same amount of food colour, put in the same way. The cold still glass is the control, the one you compare the others with. Each other glass changes only one thing from it: warm instead of cold, or stirred instead of still.
 - **safety:** The warm water must be comfortable to touch, not hot. A grown-up should pour any water from a kettle. Wipe spills so nobody slips.
-- **record:** In each box of the table, write in words what you see: colour in a streak, colour at the bottom, colour spread evenly, and so on. Draw each glass after 10 minutes.
+- **record:** In each box of the table, write in words what you see: colour in a streak, colour at the bottom, colour spread evenly, and so on. Take a photo of each glass after 10 minutes, or draw it.
 - **results table:** Glass | After 1 minute | After 5 minutes | After 10 minutes | Even colour? (yes or no)
 - **s1 (3 min)**  
   *Parent does:* Show your child the three glasses. Glass A is cold and still. Glass B is warm and still. Glass C is cold and will be stirred. Ask for a guess and a reason.  
   *Parent says:* One drop of colour goes in each glass. One cold and still, one warm and still, one cold and stirred. Which will have an even colour first? Why do you think so?  
-  *Child mode:* We put colour in three glasses. Which one will be an even colour first? Why?
+  *Child mode:* Three glasses: cold still, warm still, cold stirred. Which will be even first?
   - Ask: Why do you think that glass will be even first? (good: Stirring moves the colour all round.; Warm water spreads things faster.; Still water will take a long time.)
   - Note: Do not correct the guess. Write it down. One child: do all three glasses. Two to four children: each child owns one glass and drops the colour. The fourth child may add a bonus glass D, warm and stirred. Share the timer and swap who watches.
 - **s2 (7 min) · grown-up needed**  
@@ -393,7 +393,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Child mode:* Drop colour in each glass. Start the timer. Stir only glass C five times.
   - Check: Why do we put the drop in each glass in the same way? → **So the way we add the colour does not change the result**
 - **s4 (12 min)**  
-  *Parent does:* Look at the glasses after 1 minute, after 5 minutes and after 10 minutes. Write what you see in words. Draw each glass at 10 minutes. For glass C, also write how many seconds it took until no streaks were left.  
+  *Parent does:* Look at the glasses after 1 minute, after 5 minutes and after 10 minutes. Write what you see in words. Take a photo of each glass at 10 minutes, or draw it. For glass C, also write how many seconds it took until no streaks were left.  
   *Parent says:* Look after one minute, five minutes and ten minutes. Is the colour a streak, a cloud or even? Write it down.  
   *Child mode:* Look at each glass after 1, 5 and 10 minutes. Write what you see.
   - Ask: What is different about the stirred glass? (good: The colour spread much faster.; It was almost even after a short time.)
@@ -401,7 +401,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s5 (5 min)**  
   *Parent does:* Ask your child to write what they thought would happen, what they saw, and why it happened. Then ask the question below.  
   *Parent says:* What did you think would happen, what did you see, and why did it happen? A crab beats a flap near her mouth to pull water over her gills. Why would that help her?  
-  *Child mode:* Write what you thought would happen, what you saw, and why. How does moving water help a crab?
+  *Child mode:* Say or write what you thought would happen, what you saw, and why.
   - Ask: How could moving water help a crab with her gills? (good: It brings new water with more air to the gills.; It stops the water near the gills running out of air.)
   - Note: Warm water mixes faster, but it holds less oxygen to begin with. That is why a hot, still pond is a double problem. Let the child think about it before you say this.
   - Think: Warm water spreads colour faster. Is warm water better for a crab to breathe in?
@@ -410,14 +410,14 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 ### a1 · Ring or Core: how much of a body is near the edge? (20 min)
 - **s1 (3 min)**  
   *Parent does:* Show your child the squared paper. Explain that each square you draw is a flat body made of cells. You will colour the cells at the edge red, because they touch the air. You will colour the cells in the middle blue, because they do not. Ask for a guess.  
-  *Parent says:* Each square is a flat animal made of cells. Cells at the edge touch the air. Cells in the middle do not. As the animal gets wider, which will grow faster, the edge or the middle?  
-  *Child mode:* Each square is a flat animal made of cells. As she gets wider, which grows faster, the edge or the middle?
-  - Ask: When the animal gets wider, which grows faster, the edge cells or the middle cells? Why? (good: The middle, because it grows wider and also taller, while the edge is only one thin ring.; The edge, because it is on the outside.)
+  *Parent says:* Each square is a flat animal made of cells. Cells at the edge touch the air. Cells in the middle do not. As the animal gets wider, which will grow in number faster, the edge cells or the middle cells?  
+  *Child mode:* Each square is a flat animal made of cells. Edge cells touch the air. Middle cells do not.
+  - Ask: When the animal gets wider, which grows in number faster, the edge cells or the middle cells? Why? (good: The middle, because it grows wider and also taller, while the edge is only one thin ring.; The edge, because it is on the outside.)
   - Note: Do not correct the guess. Write it at the top of the page.
 - **s2 (8 min)**  
-  *Parent does:* Draw four squares: 2 cells wide, 4 cells wide, 6 cells wide and 8 cells wide. Colour the outside ring of cells red. Colour all the cells inside the ring blue. The smallest square is all red.  
-  *Parent says:* Draw four squares. They are two, four, six and eight cells wide. Colour the outside ring red. Colour the middle blue.  
-  *Child mode:* Draw squares 2, 4, 6 and 8 cells wide. Colour the edge red and the middle blue.
+  *Parent does:* Draw four squares: 2 cells wide, 4 cells wide, 6 cells wide and 8 cells wide. Colour the outside ring of cells red. Colour all the cells inside the ring blue. Or build them from two kinds of buttons or coins, one for the ring and one for the inside. The smallest square is all red.  
+  *Parent says:* Make four squares. They are two, four, six and eight cells wide. Colour the outside ring red and the middle blue. You can draw them, or build them from two kinds of buttons or coins.  
+  *Child mode:* Make squares 2, 4, 6 and 8 cells wide. Edge red, middle blue.
   - Note: A 2 by 2 square has no middle at all. That is correct. If counting is slow, let your child count along a row and use the rule: ring = 4 times the width minus 4. One child: draw all four squares. Two to four children: each child draws one or two sizes, then swap pages and check each other's counts before filling the table together.
 - **s3 (5 min)**  
   *Parent does:* Count the red cells and the blue cells in each square. Write them in a table with three columns: width, red cells and blue cells. You should find 4 and 0, then 12 and 4, then 20 and 16, then 28 and 36.  
@@ -428,7 +428,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s4 (4 min)**  
   *Parent does:* Ask your child what the blue middle cells would need if they were real cells. Use the numbers in the table to help.  
   *Parent says:* Pretend each cell needs air all the time, and air only comes in from the edge. In the biggest square, what do the blue cells need?  
-  *Child mode:* The blue cells are far from the air. What do they need?
+  *Child mode:* Look at the blue cells in the biggest square. They are far from the air.
   - Ask: What could help the blue cells get air? (good: A tube from the edge to the middle.; Thin folds so the edge is closer.; A pump to push air in.)
   - Note: Accept any idea. Tubes, folds and pumps are all real. Do not explain yet. The explanation card comes later.
   - Think: How would you make the blue cells in the 8 wide square closer to the air?
@@ -436,7 +436,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s1 (3 min)**  
   *Parent does:* Give your child eight cubes. Ask them to guess which shape will have the most faces touching the air.  
   *Parent says:* Here are eight cubes. We will build them four ways. Which way will have the most faces touching the air? Why do you think so?  
-  *Child mode:* You will build eight cubes into four shapes. Which shape has the most faces touching the air? Why?
+  *Child mode:* Build the cubes into four shapes. Count the faces that touch the air.
   - Ask: Which shape do you think has the most faces touching the air, and why? (good: The one spread apart, because every cube is alone.; The long line.)
   - Note: Do not correct the guess. A face that touches another cube does not count. You may count the table side as a face in all four shapes, or leave it out. Be consistent. The numbers below count every face, even the one on the table, as if the shapes floated in the air.
 - **s2 (10 min)**  
@@ -449,7 +449,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s3 (4 min)**  
   *Parent does:* Ask your child which shape is most like a crab's gill and which most like a solid lump. Ask why a gill is feathery.  
   *Parent says:* The same cubes gave a lot more outside when spread out. A crab's gill is a bit like the spread out cubes. Why might that help a crab?  
-  *Child mode:* The same cubes had more outside when they were spread apart. Why are gills spread out like that?
+  *Child mode:* Put the spread-out cubes next to the solid block. Which one is more like a gill?
   - Ask: Why is a gill feathery and not a solid lump? (good: More of it touches the water.; More oxygen can get in at once.)
   - Think: A book lung is a stack of thin plates. Which of your shapes is it more like?
 ### a3 · Dry Finger: carrying a bubble of air under water (12 min)
@@ -457,13 +457,13 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Show your child the bowl and the powder. Ask what will happen to a finger pushed through the powder and into the water.  
   *Parent says:* I will sprinkle a little powder on the water. You will push one finger through it. What do you think your finger will look like under the water? Will it come out wet or dry? Why do you think so?  
-  *Child mode:* You will push a finger through powder and into water. Will it come out wet or dry? Why?
+  *Child mode:* You will push a finger through powder and into water.
   - Ask: Do you think your finger will come out wet or dry? Why? (good: Wet, because it was in water.; Dry, because the powder will cover it.)
   - Note: Do not correct the guess. Write it down.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* A grown-up sprinkles a thin, even dusting of powder on the water, enough that the whole surface looks dusty. Push a finger slowly down through the powder and into the water. Look at it from the side.  
   *Parent says:* Push your finger slowly down through the powder. Look at it from the side. What do you see around it?  
-  *Child mode:* Push a finger down slowly. Look from the side. What do you see?
+  *Child mode:* Push a finger down slowly. Look at it from the side.
   - Ask: What do you see around your finger under the water? (good: A silvery layer.; A shiny skin, like a mirror.)
   - Note: The silvery shine is a thin layer of air held against the finger by the powder. Without the powder, the water would soak the finger and no layer would form. If the finger does not come out dry, the dusting was too thin: add more and try again. If children are sharing, each child takes a turn, and the grown-up dusts a fresh bowl.
 - **s3 (4 min)**  
@@ -478,19 +478,19 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Tell your child that today you will look for gills. Ask where they think a crab's gills are.  
   *Parent says:* A crab has gills, but you cannot see them from outside. Where do you think they are hidden? Why?  
-  *Child mode:* Where are a crab's gills hidden? Why do you think so?
+  *Child mode:* Point to where you think the gills are on a crab, or on its picture.
   - Ask: Where do you think a crab keeps her gills? (good: Under her shell.; Near her mouth.; In her legs.)
   - Note: If you cannot visit a stall, search for pictures of a crab with the shell lifted. Both work. Do not correct the guess yet.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* At the stall, ask the seller if they can lift the side of the shell on a crab that has died. Look at the gills with the magnifier. Count how many thin leaves you can see in one row of the crab's gill (a rough count is fine). Look at a prawn, a mussel or a fish too, and compare.  
   *Parent says:* Look at the gills. Are they smooth or feathery? What colour are they? Do they look like a lump or a comb?  
-  *Child mode:* Look at the gills. Are they feathery? Draw one.
+  *Child mode:* Look at the gills. Count the thin leaves in one row.
   - Ask: What do the gills look like? (good: Feathery.; Like a comb or a row of thin leaves.)
   - Note: Crab gills are grey to tan, and look like rows of thin leaves or a feather. Fish gills are red because of the blood close to the surface. Never handle a live crab's claws. With two to four children, each child studies a different animal, draws the animal, and shares what they found.
 - **s3 (8 min)**  
-  *Parent does:* Back home, draw what you saw and label it: gill, shell, leg. Then ask your child to compare the crab with an ant. Where does each one get air?  
-  *Parent says:* Draw the gills and label them. An ant has no gills. Where does an ant get air, and how is she different from a crab?  
-  *Child mode:* Draw the gills. How is an ant different from a crab?
+  *Parent does:* Back home, tell your grown-up what you saw, or draw it and label it: gill, shell, leg. Then ask your child to compare the crab with an ant. Where does each one get air?  
+  *Parent says:* Tell me about the gills you saw, or draw and label them. An ant has no gills. Where does an ant get air?  
+  *Child mode:* Say or draw what you saw. Think about how an ant breathes.
   - Ask: How does an ant get air differently from a crab? (good: An ant has holes in her sides and air tubes.; A crab has gills and takes air from water.)
   - Think: A crab on land keeps her gills wet. How can she do that?
 ### a5 · Pipes or a Wet Sponge: two kinds of blood (21 min)
@@ -498,7 +498,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s1 (3 min)**  
   *Parent does:* Show your child the straw and the sponge pieces. Ask which will carry colour to the far end faster, and why.  
   *Parent says:* One way pushes colour through a pipe. One way lets it soak through sponge. Which gets to the far end first? Why do you think so?  
-  *Child mode:* Which carries colour to the far end faster, a pipe or a sponge? Why?
+  *Child mode:* Look at the straw (a pipe) and the sponge. Think about how colour will travel along each.
   - Ask: Which do you think is faster, and why? (good: The pipe, because it goes straight.; The sponge, because it goes everywhere.)
   - Note: Do not correct the guess. Write it down.
 - **s2 (6 min) · grown-up needed**  
@@ -515,18 +515,18 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s4 (4 min)**  
   *Parent does:* Ask your child why an ant can manage with open blood, but a large animal that runs fast cannot.  
   *Parent says:* Open blood reaches every part, but slowly. An ant is tiny. Why might open blood be good enough for an ant?  
-  *Child mode:* Open blood is slow. Why is it good enough for an ant?
+  *Child mode:* Open blood is slow. Think about how small an ant is.
   - Ask: Why might open blood be good enough for an ant? (good: An ant is tiny, so nothing is very far away.; Her air tubes bring the oxygen, not her blood.)
   - Think: What would a big, fast animal need instead?
 
 ## Projects
 ### p1 · Air Tubes in a Roll: a model of an insect's breathing (35 min)
 - **safety:** A grown-up should poke the holes with a sharp pencil point or scissor tip and cut the straws, because they are sharp.
-- **record:** Draw the model. Mark which paper strips moved when you blew, and which did not. Write one sentence on what each part of the model stands for.
+- **record:** Take a photo of the model, or draw it. Mark which paper strips moved when you blew, and which did not. Write one sentence on what each part of the model stands for.
 - **s1 (4 min)**  
   *Parent does:* Show your child the roll, the straws and the paper strips. Ask what will happen to the strips when they blow in at one end.  
-  *Parent says:* This roll is the main air tube. The straws are branches. The paper strips are the cells that need air. If I blow into the roll, what will happen to the strips? Why do you think so?  
-  *Child mode:* This roll has straws as branches. If you blow in, what will happen to the paper strips? Why?
+  *Parent says:* This is a model of an insect's air tubes. If I blow into the roll, what will happen to the strips? Why do you think so?  
+  *Child mode:* The roll is the main air tube. The straws are branches. The paper strips are the cells that need air.
   - Ask: Do you think all four strips will move? Why? (good: Yes, because air goes down all the straws.; Only the nearest one will move.)
   - Note: Do not correct the guess. Write it down.
 - **s2 (15 min) · grown-up needed**  
@@ -537,7 +537,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 - **s3 (8 min)**  
   *Parent does:* Blow gently into the open end of the roll. Watch the four paper strips. Try it three times. Write down which strips moved each time, and give each a score: big lift, small lift or none.  
   *Parent says:* Blow in gently. Watch all four strips. Do they all move? Try it three times.  
-  *Child mode:* Blow into the roll. Do all four strips move?
+  *Child mode:* Blow into the roll. Watch the strips.
   - Ask: Did air reach all four strips? What does this tell you about branching tubes? (good: Yes. Branching tubes reach many places at once.; Even the far strip moved.)
   - Note: Typically all four strips move, the nearest a little more. If the far strip does not move, check for leaks at the clay and blow a bit harder. If children are sharing, each child blows through their own clean straw held in the open end, and they take turns to watch the strips.
   - Check: In the model, what does the blowing stand for? → **An insect pumping her belly to push air along her tubes**
@@ -552,14 +552,14 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 ## Challenges
 ### c1 · The Fresh Tank: mix a drop of colour across the bowl, fast (35 min)
 - **problem:** A bowl of still water has one drop of food colour at one end. Mix the colour right across the bowl in the shortest time you can. You may use things from the kitchen but not your hands, and you may not shake or tilt the bowl.
-- **your turn:** Sketch two or three designs first. Test each and time it. Change one thing, such as the speed or the place, and test again. Which design mixed the colour fastest? Why do you think so?
+- **your turn:** Plan two or three designs first. Say them or sketch them. Test each and time it. Change one thing, such as the speed or the place, and test again. Which design mixed the colour fastest? Why do you think so?
 - **constraints:** Use a bowl of water about 25 centimetres wide and 8 centimetres deep.; Put one drop of food colour at one end of the bowl.; Do not touch the water with your hands, and do not shake or tilt the bowl.; Time how long until the colour looks even from above.
 - **general:** Stir with a spoon in slow circles.; Pour water in from a jug held high, so it splashes in.; Blow through a straw into the water.
 - **creative:** Tape a card to a spoon to make a paddle, and push water from one end to the other, like a crab's gill bailer.; Use a cup to scoop water from the coloured end and pour it at the clear end, again and again.; Make a little waterfall from a paper cup with a hole in it, held above the bowl. A grown-up pokes the hole.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Ask your child to sketch two or three different ways to mix the colour without touching the water.  
-  *Parent says:* A crab moves water with a flap near her mouth. We want to move water across this bowl. How could you do it? Draw some ideas first.  
-  *Child mode:* Draw some ways to move the water across the bowl.
+  *Parent does:* Read the problem together. Ask your child to say or sketch two or three different ways to mix the colour without touching the water.  
+  *Parent says:* A crab moves water with a flap near her mouth. We want to move water across this bowl. How could you do it? Say some ideas, or draw them first.  
+  *Child mode:* Say or draw some ways to move the water across the bowl.
   - Ask: What would move the water? (good: A paddle.; Pouring from high.; Blowing.)
 - **s2 (15 min)**  
   *Parent does:* Test each design. Put a drop of colour at one end and start the timer. Use your design to mix the water. Stop the clock when the colour looks even from above. Write each time down.  
@@ -572,25 +572,25 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
   *Child mode:* Change one thing in your best design. Test it again.
   - Ask: What changed when you made your change? (good: It got faster.; It got slower.)
 - **s4 (5 min)**  
-  *Parent does:* Ask your child how their design is like a crab's gill bailer, and how it is not.  
-  *Parent says:* How is your design like a crab's gill bailer? How is it different?  
-  *Child mode:* How is your design like a crab's gill bailer?
+  *Parent does:* Ask your child how their design is like the crab's flap, and how it is not.  
+  *Parent says:* How is your design like the crab's flap? How is it different?  
+  *Child mode:* Say how your design is like the crab's flap.
   - Think: What does a crab do when the tide goes out, and the water stands still?
 ### c2 · The Giant Insect: how will she breathe? (30 min)
 - **problem:** Design an insect as long as your forearm, about 25 centimetres. Show how air will reach every part of her body. Where are her spiracles, her tubes and her pump?
-- **your turn:** Draw your giant insect and mark where every cell can get air. Then ask what would go wrong if you made her twice as long. Do you need more tubes, a bigger pump, or something else?
+- **your turn:** Draw or build your giant insect and mark where every cell can get air. Then ask what would go wrong if you made her twice as long. Do you need more tubes, a bigger pump, or something else?
 - **constraints:** Her body is 25 centimetres long and about 6 centimetres thick.; Every part of her body must be within 2 centimetres of a tube. This rule is only for the challenge. Real tubes reach much closer.; Draw her spiracles, her main tubes, her branches and anything else she needs.; Say how the air moves along the tubes.
 - **general:** Many spiracles along each side, with a thick main tube from each one.; A belly that squeezes and relaxes, like a bellows, to push air along the tubes.; Tubes that branch into finer and finer threads that reach every muscle.
 - **creative:** Add a sac of air near the middle that works as a store.; Give her flat, thin wings that carry air tubes of their own.; Make her live in water, with a long breathing tube like a snorkel.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Ask your child to say what a giant insect would need that a tiny ant does not.  
   *Parent says:* An ant is tiny. This insect is as long as your arm. Tubes that work for an ant might not work for her. What might she need?  
-  *Child mode:* A giant insect needs more than an ant does. What does she need?
+  *Child mode:* An ant is tiny. This insect is as long as your arm.
   - Ask: What might a giant insect need that an ant does not? (good: More tubes.; A pump to push the air.; Wider tubes.)
 - **s2 (15 min)**  
-  *Parent does:* Draw the insect. Mark spiracles, main tubes, branches and a pump. Write one sentence under each part saying what it does.  
-  *Parent says:* Draw your insect. Draw her spiracles, her tubes and her pump. Write one sentence for each part.  
-  *Child mode:* Draw the insect. Add spiracles, tubes and a pump. Write what each does.
+  *Parent does:* Draw the insect, or build her from clay and straws. Mark spiracles (the small holes where air goes in), main tubes, branches and a pump. Say or write one sentence for each part about what it does.  
+  *Parent says:* Draw your insect, or build her from clay and straws. Show her spiracles, her tubes and her pump. Say what each part does.  
+  *Child mode:* Make the insect. Add spiracles, tubes and a pump. Say what each does.
   - Note: If there are several children, each draws their own giant insect. Then they compare how many spiracles and tubes each one needed.
 - **s3 (10 min)**  
   *Parent does:* Check the design with your child. Find the cell furthest from a tube. Is it within 2 centimetres? If not, add more tubes. Then ask what would go wrong if she were twice as long.  

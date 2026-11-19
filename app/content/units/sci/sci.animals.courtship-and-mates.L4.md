@@ -253,7 +253,7 @@ Yazhini sat down and picked up her strips. They were only a little bent.
   *Child mode:* Listen to the knocks. Knock the same code back. Say the animal's name.
   - Ask: How did you tell the cricket's code from the koel's code? (good: I counted the knocks in each group.; The cricket has two groups of three.; I listened for the waits.)
 - **s3 (4 min)**  
-  *Parent does:* Play round 2 with music or a mixer running. Play all six cards again. Compare the score with round 1.  
+  *Parent does:* Play round 2 with music or a mixer running. Play all six cards again. Count how many your child got right in each round, and compare.  
   *Parent says:* Now the pond is noisy. Many animals are calling at once. Can you still pick out my code?  
   *Child mode:* Now there is noise. Listen hard. Knock the code back.
   - Note: Most listeners score lower in noise. Ask what would help. Louder knocks, a longer call and more repeats are all things real frogs do.
@@ -287,12 +287,12 @@ Yazhini sat down and picked up her strips. They were only a little bent.
 - **question:** Three paper trains are the same in every way except the number of spots: 4, 8 or 16. Do choosers pick one of them more often than the others? Or do they pick by where a train lies on the table?
 - **predict:** Before you start, guess. Which paper train will most choosers pick: the one with 4 spots, with 8 spots or with 16 spots? Why do you think so?
 - **fair test:** Use three sheets of the same paper. Use dots of one size and one colour, and spread them evenly on each sheet. Only the number of dots differs. Bring the choosers in one at a time, so that nobody copies anyone else. Ask every chooser the same question in the same words. Give each one a slow count of five to look. Change the left-to-right order of the trains for every chooser. Do not tell the choosers what differs until the end.
-- **record:** Draw a table with one row for each chooser. Write the order of the trains, the train chosen and the place chosen. At the end, count the picks for each train and for each place.
+- **record:** Make a table with one row for each chooser. Write the order of the trains, the train chosen and the place chosen. At the end, count the picks for each train and for each place.
 - **results table:** Chooser | Order of the trains from left to right | Train chosen: 4, 8 or 16 spots | Place chosen: left, middle or right
 - **s1 (3 min)**  
   *Parent does:* Tell your child the plan. Ask for the guess and the reason, and write both down.  
-  *Parent says:* We will make three paper trains with 4, 8 and 16 spots. Then we will ask people to choose one. Which train will most people pick? Why do you think so?  
-  *Child mode:* Three paper trains have 4, 8 and 16 spots. Which will most people pick? Why?
+  *Parent says:* We will make three paper trains with 4, 8 and 16 spots. Then we will ask people to choose one. Which train will most people pick?  
+  *Child mode:* Guess which train most people will pick. Say why.
   - Ask: Why do you think choosers will pick that train? (good: More spots look richer.; Too many spots look messy.; People may not care about spots at all.)
   - Note: Do not correct the guess. Nobody knows what your choosers will do, and that is why it is worth testing.
 - **s2 (7 min)**  
@@ -302,7 +302,7 @@ Yazhini sat down and picked up her strips. They were only a little bent.
   - Note: If you draw the dots, use one pen and draw round the same coin each time. A dot of another size or colour would be a second change.
 - **s3 (10 min)**  
   *Parent does:* Lay the trains in a row. Bring in one chooser. Say the question below, and count slowly to five. Record the order, the train chosen and the place. Change the order. Repeat with at least six choosers.  
-  *Parent says:* Please look at these three paper trains for a count of five. Which one would you pick as the finest? Just point to it.  
+  *Parent says:* Please look at these three paper trains for a count of five. Which one looks best to you? Just point to it.  
   *Child mode:* Bring in one chooser. Ask which train they pick. Write it down. Change the order.
   - Note: For relatives on the phone, take three photos with the trains in three different orders. Send a different photo to each person. Ask them to reply with left, middle or right.
   - Check: Why do you change the order of the trains for each chooser in the Eyespot Test? → **So the place does not sway the result**
@@ -323,7 +323,7 @@ Yazhini sat down and picked up her strips. They were only a little bent.
 - **question:** A paper bird is thrown with no tail, with a 30 centimetre tail and with a 60 centimetre tail. Does the length of the tail change how far the paper bird flies?
 - **predict:** Before you start, guess. Which will fly farthest: the paper bird with no tail, with the short tail or with the long tail? Why do you think so?
 - **fair test:** Use one paper bird for the whole test, so that the folds are the same. The same person throws every time, from the same line, with the same gentle push. Throw five times for each tail, because one throw can be a fluke. Use strips of the same newspaper and the same width. Only the length of the tail changes. At the end, throw three more times with no tail. This checks that the paper bird has not become worn out.
-- **record:** Draw a table with three rows: no tail, 30 centimetre tail and 60 centimetre tail. Write the five distances in each row. Then write the middle distance for each row.
+- **record:** Make a table with three rows: no tail, 30 centimetre tail and 60 centimetre tail. Write the five distances in each row. Then write the middle distance for each row.
 - **results table:** Tail | Throw 1 | Throw 2 | Throw 3 | Throw 4 | Throw 5 | Middle distance
 - **s1 (3 min)**  
   *Parent does:* Show your child the paper and the newspaper strips. Ask for the guess and the reason, and write both down.  
@@ -362,9 +362,9 @@ Yazhini sat down and picked up her strips. They were only a little bent.
 ### a1 · Pigeon Watch: ten minutes at the window (10 min)
 - **record:** Two tally rows. Row 1: each time a pigeon bows and turns in front of another pigeon. Row 2: each time the other pigeon stays near instead of leaving.
 - **s1 (2 min)**  
-  *Parent does:* Draw the two rows. Find a place from which you can see pigeons on a ledge, a roof or the ground. Ask for a guess.  
-  *Parent says:* A male pigeon courts a female by puffing up his neck, bowing and turning in circles. Out of ten bows, how many times will she stay near him? Why do you think so?  
-  *Child mode:* Draw two rows. Out of ten bows, how often will the other pigeon stay?
+  *Parent does:* Write two rows on the notebook page, 'Bows' and 'The other pigeon stays'. Find a place from which you can see pigeons on a ledge, a roof or the ground. Ask for a guess.  
+  *Parent says:* A male pigeon tries to win a female by puffing up his neck, bowing and turning in circles. Out of ten bows, how many times will she stay near him? Why do you think so?  
+  *Child mode:* Make two rows. Guess how often the other pigeon will stay.
   - Note: Pigeons court in every month of the year in Indian cities. Morning and late afternoon are the best times. If no pigeons come, try again tomorrow morning.
 - **s2 (7 min)**  
   *Parent does:* Watch for seven minutes. Your child puts a stroke for every bow. They add a stroke in the second row if the other pigeon stays near for a count of ten.  
@@ -375,7 +375,7 @@ Yazhini sat down and picked up her strips. They were only a little bent.
   *Parent does:* Compare the two rows. Ask the question below.  
   *Parent says:* Look at your two rows. How many bows did you count? How many times did the other pigeon stay? Who was doing the choosing?  
   *Child mode:* Compare your two rows. Who was doing the choosing?
-  - Ask: Most bows were refused. Why might a female pigeon refuse so often? (good: She may already have a partner.; She is comparing several males.; She is not ready to breed yet.)
+  - Ask: If most bows were refused, why might a female pigeon refuse so often? (good: She may already have a partner.; She is comparing several males.; She is not ready to breed yet.)
 ### a2 · Dance in Step: can two partners learn to move as one? (15 min)
 - **record:** Write the number of moves that were out of step in round 1 and in round 2.
 - **s1 (3 min)**  
@@ -394,11 +394,11 @@ Yazhini sat down and picked up her strips. They were only a little bent.
 - **s4 (3 min)**  
   *Parent does:* Compare the two counts. Ask the question below.  
   *Parent says:* Look at the two counts. What did you watch on me, to know when to move?  
-  *Child mode:* Compare round 1 and round 2. What did you watch on your partner?
+  *Child mode:* Compare round 1 and round 2. Did practice help?
   - Ask: Sarus crane pairs dance together for years. What might the dance do for them? (good: They learn each other's moves.; The dance keeps the pair close.; Partners who move together can work together at the nest.)
   - Note: A pair of cranes must take turns on the eggs and guard the chick together. Many scientists think that dancing together helps to keep the pair bond strong.
 ### a3 · The Blue Hunt: collect like a bowerbird (15 min)
-- **record:** Write the number of blue things and the number of red things you found in three minutes each. Draw your display.
+- **record:** Write the number of blue things and the number of red things you found in three minutes each. Draw your display, or tell your grown-up what is in it.
 - **s1 (2 min)**  
   *Parent does:* Explain the hunt. Each thing must be smaller than your child's palm and must not be precious or breakable. Ask for a guess.  
   *Parent says:* A male satin bowerbird collects blue things and lays them out for females to see. Which will be harder to find in our home: small blue things or small red things? Why do you think so?  
@@ -440,26 +440,26 @@ Yazhini sat down and picked up her strips. They were only a little bent.
 ## Challenges
 ### c1 · Open and Shut: build a display that you can hide (20 min)
 - **problem:** A fan-throated lizard must be noticed by a partner, and must not be noticed by a hawk. He keeps a bright throat fan folded away and flicks it out for a moment. Your problem is like his. Build a paper display that a watcher five steps away sees clearly when it is open. When it is shut, the watcher must not find it against a plain bedsheet.
-- **your turn:** Now design your own. Draw it first. Test it six times: three open and three shut, in a mixed-up order. Write how many times the watcher saw it when it was open, and how many times when it was shut.
+- **your turn:** Now design your own. Plan it first, by drawing it or telling your grown-up. Test it six times: three open and three shut, in a mixed-up order. Write how many times the watcher saw it when it was open, and how many times when it was shut.
 - **constraints:** Use only paper, colours and tape.; It must open in two seconds and shut in two seconds, with one hand.; When shut, it must lie flat against a plain bedsheet or a plain wall.; The watcher stands five big steps away.; The watcher gets a count of three to look each time.
 - **general:** Fold a paper fan that is bright on the inside and plain on the outside.; Make a flap that lifts to show a bright patch under it.; Colour one side of a card brightly, and turn it over to hide it.
 - **creative:** Make the outside match your bedsheet, so that the shut display is camouflaged.; Add a movement, such as a shake, so that the open display is noticed sooner.; Use a colour that stands out most against your own wall, and test two colours to find out.
 - **s1 (4 min)**  
   *Parent does:* Read the problem together. Hang or spread the bedsheet. Ask what makes a thing easy to see and what makes it hard to see.  
   *Parent says:* Your display must be easy to see when open and hard to find when shut. What makes a thing easy to see? What makes it hard to see?  
-  *Child mode:* What makes a thing easy to see? What makes it hard to see?
+  *Child mode:* Name one easy-to-see thing. Name one hard-to-see thing.
   - Ask: What makes a thing easy to see from far away? (good: A colour that differs from the background.; A big size.; Movement.)
 - **s2 (8 min)**  
-  *Parent does:* Your child draws a design and builds it. Check that it opens and shuts with one hand.  
-  *Parent says:* Draw your idea first. Then build it. Show me that it opens in two seconds and shuts in two seconds.  
-  *Child mode:* Draw your idea. Build it. Open it and shut it with one hand.
+  *Parent does:* Your child plans a design, by drawing it or by telling you, and then builds it. Check that it opens and shuts with one hand.  
+  *Parent says:* Plan your idea first, by drawing it or telling me. Then build it. Show me that it opens in two seconds and shuts in two seconds.  
+  *Child mode:* Plan it. Build it. Open it and shut it with one hand.
 - **s3 (5 min)**  
   *Parent does:* Test it. The watcher stands five big steps away with eyes shut. Your child holds the display open or shut against the sheet. The watcher looks for a count of three and says 'seen' or 'not seen'. Do six turns.  
   *Parent says:* I will shut my eyes. Hold your display open or shut against the sheet. I will look for a count of three.  
   *Child mode:* Hold your display open or shut. The watcher looks. Do six turns.
 - **s4 (3 min)**  
   *Parent does:* Look at the six results. Change one thing and test twice more. Then ask the question below.  
-  *Parent says:* When was your display seen, and when was it missed? Change one thing to make it better. What does a peacock do when he is not displaying?  
+  *Parent says:* When was your display seen, and when was it missed? Change one thing to make it better.  
   *Child mode:* What worked? Change one thing. Test it again.
   - Ask: Why is a display that folds away useful to an animal? (good: A hunter cannot see it most of the time.; The animal shows the display only when a partner is near.)
   - Note: Praise a clear account of what failed as much as a display that worked.

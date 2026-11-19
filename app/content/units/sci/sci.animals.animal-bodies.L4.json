@@ -705,9 +705,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Add up the points. Choose the card you liked best, and tell the others why.",
+     "do": "Add up the points. Choose the card that surprised you most, and tell the others why.",
      "say": "Add up the points. Which card surprised you the most? Why?",
-     "kid": "Add up your points. Which card surprised you most? Why?",
+     "kid": "Add up your points. Pick the card that surprised you most.",
      "check": {
       "t": "mcq",
       "q": "Which sentence best matches what the cards show?",
@@ -778,7 +778,7 @@
     }
    ],
    "safety": "Use plastic cups in the freezer, never glass, which can crack. A grown-up helps to take the ice blocks out of the cups, and never uses a knife on a stuck block. Do not hold an ice block in your bare hands for long, because it can sting your skin. Wipe up any water on the floor.",
-   "record": "Write the height of the meltwater for each block, and rank the blocks from least to most melted. Then draw a model: a camel with the fat spread all over, and a camel with the fat in a hump, with arrows showing where the heat escapes.",
+   "record": "Write the height of the meltwater for each block, and rank the blocks from least to most melted. Then tell a grown-up how blocks B and C are like a camel with fat all over and a camel with a hump. You can draw it if you like.",
    "context": "In this experiment you use three blocks of ice and the same cloth in two different ways. You find out whether insulation works the same when it is spread out and when it is lumped.",
    "setup": [
     {
@@ -807,8 +807,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Fill three identical cups with 100 millilitres of water each. Label them A, B and C. Put them in the freezer overnight. Ask your child for a guess and a reason before the cups go in.",
-     "say": "Tomorrow we will melt three ice blocks. One stays bare. One is wrapped all around in cloth. One gets the same cloth lumped on top. Which melts the least? Why do you think so?",
-     "kid": "Tomorrow we melt three ice blocks. Which melts the least? Why do you think so?",
+     "say": "Tomorrow we will melt three ice blocks. One stays bare. One is wrapped all around in cloth. One gets the same cloth lumped on top.",
+     "kid": "Look at the three cups. Think about which block will melt the least.",
      "ask": [
       {
        "q": "Which block will melt the least, and why?",
@@ -876,9 +876,9 @@
     {
      "id": "s5",
      "mins": 20,
-     "do": "While you wait, draw two camels. Draw one with fat spread all over her body, and one with fat in a hump. Draw arrows for the heat leaving each camel. Do not touch the blocks.",
-     "say": "While we wait, draw two camels. One has fat spread all over her body. One has fat in a hump. Draw arrows where you think her body heat can leave.",
-     "kid": "Draw two camels. One has fat all over. One has a hump. Draw arrows for heat leaving.",
+     "do": "While you wait, let your child be a camel. First wrap a shawl all around their body, like fat spread all over. Then put it only on their back, like a hump. Do not touch the blocks.",
+     "say": "While we wait, you be the camel. First the shawl goes all around you, like fat all over. Then it sits only on your back, like a hump. Where does the heat leave more easily?",
+     "kid": "Wear the shawl all around you. Then wear it only on your back. Feel where it is colder.",
      "ask": [
       {
        "q": "On which camel can the heat leave more easily, and why?",
@@ -906,7 +906,7 @@
      "mins": 5,
      "do": "Fill in the table. Rank the blocks. Then ask your child for three things: what they thought, what they saw, and why they think it happened.",
      "say": "Which block melted the least? Which melted the most? Which two were closest? Now tell me three things. What did you think? What did you see? Why do you think it happened?",
-     "kid": "Fill in the table. Which block melted the least? Which melted the most? Why?",
+     "kid": "Fill in the table. Put the blocks in order, from least melted to most melted.",
      "ask": [
       {
        "q": "What do you notice about A and C?",
@@ -982,7 +982,7 @@
     }
    ],
    "safety": "The dough is made of wheat. Do not eat it raw, and wash hands afterwards. If anyone is allergic to wheat, use clay or play-dough instead. Wipe up any spilt water.",
-   "record": "Write the width of each foot and the depth of each dent in millimetres. Work out the average for each foot. Then draw the three dents side by side, to scale.",
+   "record": "Write the width of each foot and the depth of each dent in millimetres. Work out the average for each foot. Then put the three feet in a row, from the deepest dent to the shallowest, and tell a grown-up why.",
    "context": "In this experiment the same weight stands on three feet of different widths. You find out how the width of a foot changes how deep it sinks.",
    "setup": [
     {
@@ -1012,7 +1012,7 @@
      "mins": 5,
      "do": "Show your child the three feet: the bottle cap, the tumbler base and the plate. Measure the width of each with the ruler. Ask for a guess and a reason.",
      "say": "The same tumbler of water will stand on three feet, one after the other: a small bottle cap, its own base and a wide plate. Which foot will sink deepest into the dough? Which will sink the least? Why do you think so?",
-     "kid": "Look at the three feet: the bottle cap, the tumbler base and the plate. Which one sinks the deepest? Which hardly sinks? Why?",
+     "kid": "Look at the three feet: the bottle cap, the tumbler base and the plate. Put them in a row from smallest to widest.",
      "ask": [
       {
        "q": "Which foot do you think will sink the deepest, and why?",
@@ -1079,7 +1079,7 @@
      "mins": 9,
      "do": "Work out the average dent for each foot. Rank the feet from deepest to shallowest. Ask your child for three things: what they thought, what they saw, and why they think it happened.",
      "say": "Add the two tries for each foot, then divide by two to get the average. Which foot sank the deepest? Which the least? Now tell me three things. What did you think? What did you see? Why do you think it happened?",
-     "kid": "Find the average dent for each foot. Which sank deepest? Which sank least? Why?",
+     "kid": "Find the average dent for each foot. Put the feet in order from deepest dent to shallowest.",
      "ask": [
       {
        "q": "The weight was the same each time. Why did the dents differ?",
@@ -1143,7 +1143,7 @@
    ],
    "safety": "A grown-up cuts the holes with strong scissors, and the point is sharp. Keep the scissors away from small children. Keep the marble away from children under 4. Dough is made of wheat. Do not eat it raw, and wash hands afterwards. If anyone is allergic to wheat, use clay or play-dough instead.",
    "schedule": [],
-   "record": "Write which holes each body passed, and which it did not. Draw the three bodies and the smallest hole each passed.",
+   "record": "Write which holes each body passed, and which it did not. Put the three bodies in order, from the smallest hole they passed to the biggest, and tell a grown-up why.",
    "context": "In this activity you push three bodies through holes of different sizes. You find out what decides the smallest hole a soft body can pass through, such as the body of an octopus.",
    "setup": [
     {
@@ -1164,7 +1164,7 @@
      "id": "s1",
      "mins": 6,
      "do": "Draw five squares in a row on the cardboard, with sides 1, 2, 3, 4 and 5 centimetres. A grown-up cuts them out. Make two dough balls of the same size. Press the marble into the middle of one and close the dough around it.",
-     "say": "We will test three bodies. A hard ball, a plain dough ball, and a dough ball with a marble inside. Which is the smallest hole each one can pass? Why do you think so?",
+     "say": "We will test three bodies. A hard ball, a plain dough ball, and a dough ball with a marble inside. We will find the smallest hole each one can pass.",
      "kid": "Draw five squares. A grown-up cuts them out. Hide a marble inside a dough ball.",
      "adult": true,
      "ask": [
@@ -1250,7 +1250,7 @@
    ],
    "safety": "A grown-up checks that the paper clip hook and the stick have blunt ends. Do not put tools near the eyes. Do not use honey for a child under 1 year.",
    "schedule": [],
-   "record": "Write how many raisins each tool took out in one minute. Draw the best tool and say how it is like a woodpecker's tongue.",
+   "record": "Write how many raisins each tool took out in one minute. Say which tool was best and how it is like a woodpecker's tongue. You can draw it if you like.",
    "context": "In this activity you try five tools to pull raisins out of a narrow tube. You find out which tool works best, and how it is like a woodpecker's tongue reaching into a crack.",
    "setup": [
     {
@@ -1271,8 +1271,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Press the five raisins to the deep end of the tube. Lay out the five tools. Ask your child which tool will get the most raisins in one minute, and why.",
-     "say": "A woodpecker has to get insects out of a narrow tunnel in the wood. Here are five tools. Which will get the most raisins out in one minute? Why do you think so?",
-     "kid": "Raisins are deep in a tube. Which of five tools gets the most? Why?",
+     "say": "A woodpecker has to get insects out of a narrow tunnel in the wood. Here are five tools. We will see which gets the most raisins out in one minute.",
+     "kid": "Raisins are stuck deep in a tube. Pick the tool you think will work best.",
      "ask": [
       {
        "q": "Which tool will get the most raisins, and why?",
@@ -1310,8 +1310,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Look at your numbers. Say which tool was best and why. Ask your child what the tongue of a woodpecker needs to be like.",
-     "say": "Which tool was best? Which did not work at all? What must a woodpecker's tongue be like to reach an insect deep in a tunnel?",
-     "kid": "Which tool won? What must a woodpecker's tongue be like?",
+     "say": "Which tool was best? Which did not work at all?",
+     "kid": "Which tool won? Which one did not work at all?",
      "ask": [
       {
        "q": "What must a woodpecker's tongue be like?",
@@ -1361,7 +1361,7 @@
     },
     {
      "art": "A close-up drawing of a crow's foot gripping a railing and her beak holding a piece of bread.",
-     "caption": "3. Draw the part that you think does the job."
+     "caption": "3. Pick one part. Say what problem it solves and what it might cost."
     }
    ],
    "flow": [
@@ -1369,7 +1369,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Draw a table with three columns: how she moves, how she eats, how she breathes or rests. Pick a window or a balcony spot. Ask your child what problems a crow must solve every day.",
-     "say": "We will watch one animal for twelve minutes. A crow, a pigeon or a squirrel will do. What problems does she have to solve every day? Which body parts do you expect to see at work?",
+     "say": "We will watch one animal for twelve minutes. A crow, a pigeon or a squirrel will do. Which body parts do you expect to see at work?",
      "kid": "Pick an animal outside. Draw three columns: moves, eats, breathes or rests. What do you expect?",
      "ask": [
       {
@@ -1388,9 +1388,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Watch for 12 minutes without talking. Write what the animal does. Note how she moves, how she eats and what she does when she rests. Draw her feet and her beak. Count her steps, hops or pecks in one minute, and count again.",
+     "do": "Watch for 12 minutes without talking. Write what the animal does. Note how she moves, how she eats and what she does when she rests. Draw her feet and her beak, or tell your grown-up what they look like. Count her steps, hops or pecks in one minute, and count again.",
      "say": "Watch quietly for twelve minutes. Write what you see. How does she walk or hop? How does she eat? What do her feet and beak look like?",
-     "kid": "Watch quietly. Write how she moves and eats. Draw her feet and beak.",
+     "kid": "Watch quietly. Write how she moves and eats. Draw her feet and beak, or tell what they look like.",
      "parent": "If you can see her chest rise and fall while she rests, count the rises in 15 seconds. A crow often breathes faster than you. Do not worry if you cannot see it. One child with a parent: the parent writes what the child calls out. Two to four children: each takes one column (moves, eats, rests) and counts, then you put the notes together. If no animal comes, put out a few grains of rice or a bowl of water and wait quietly.",
      "context": "In this step you watch the animal and write what you see."
     },
@@ -1431,7 +1431,7 @@
     }
    ],
    "schedule": [],
-   "record": "Write how long each task took, and which was harder. Draw an octopus with eight arms, and write what each arm is doing.",
+   "record": "Write how long each task took, and which was harder. Write what each of the octopus's eight arms might be doing. Show it with your fingers too.",
    "context": "In this activity you try to do two jobs with two hands at once. You find out why an animal with eight arms needs many nerve cells in her arms.",
    "setup": [
     {
@@ -1444,7 +1444,7 @@
     },
     {
      "art": "An octopus drawn with eight arms each doing a different job: one tasting, one holding, one reaching.",
-     "caption": "3. Draw an octopus with eight arms doing eight jobs."
+     "caption": "3. Show eight jobs with eight fingers."
     }
    ],
    "flow": [
@@ -1452,8 +1452,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Draw a circle with your right hand, then a triangle with your left. Time each one. Ask your child to guess how it will look if both hands draw at the same time.",
-     "say": "First draw a circle with one hand, and a triangle with the other, one after the other. How long does each take? Now, what will happen if you do both at the same time?",
-     "kid": "Draw a circle. Draw a triangle. Time each one. Now guess what will happen when you draw both at once.",
+     "say": "First draw a circle with one hand, and a triangle with the other, one after the other. How long does each take?",
+     "kid": "Draw a circle. Draw a triangle. Time each one.",
      "ask": [
       {
        "q": "What will happen if you draw both at the same time, and why?",
@@ -1490,9 +1490,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Draw an octopus with eight arms, each doing a different job. Say how she might manage eight jobs at once. Would it work if one brain had to steer all eight arms?",
-     "say": "An octopus has eight arms. Each one has a lot of its own nerve cells. Draw her doing eight jobs at once. How might she manage it?",
-     "kid": "Draw an octopus with eight arms. Each arm does a different job.",
+     "do": "Hold up eight fingers as an octopus's eight arms. Give each finger a different job, such as wave, point, tap or curl. Say how she might manage eight jobs at once. Would it work if one brain had to steer all eight arms?",
+     "say": "An octopus has eight arms. Each one has a lot of its own nerve cells. Show me eight different jobs with your eight fingers.",
+     "kid": "Hold up eight fingers. Give each finger its own job.",
      "ask": [
       {
        "q": "How might an octopus do eight jobs at once?",
@@ -1546,8 +1546,8 @@
      "what": "Fill a page about yourself, and a page about the camel, the woodpecker or the octopus. Share your book."
     }
    ],
-   "record": "A small book with four pages: the bird, the ant or lizard, yourself, and the camel, woodpecker or octopus. Each page has a drawing, a problem, a part and a price.",
-   "context": "In this project you make a small book of three animals, including you. For each, you write a problem, the part that solves it, and its price.",
+   "record": "A small book with four pages: the bird, the ant or lizard, yourself, and the camel, woodpecker or octopus. Each page has a problem, a part and a price, and a drawing or a short description.",
+   "context": "In this project you make a small book of three animals, including you. You will find out that every body part, even yours, solves a problem and costs something.",
    "setup": [
     {
      "art": "Four sheets of paper folded in half and tied with a thread to make a small book, with 'My Body Book' on the cover.",
@@ -1566,9 +1566,9 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "Fold the paper into a book. Write the title on the cover. Watch a crow or a pigeon for ten minutes. On the first page draw her and fill in the problem, the part and the price.",
-     "say": "Let us make a body book. On the first page, draw the animal you watch. Then write three things: a problem she has to solve, the body part that helps, and its price.",
-     "kid": "Make a small book. Watch a bird. Draw her. Write a problem, a part and a price.",
+     "do": "Fold the paper into a book. Write the title on the cover. Watch a crow or a pigeon for ten minutes. On the first page, draw her or describe her in a line. Then fill in the problem, the part and the price.",
+     "say": "Let us make a body book. On the first page, draw the animal you watch, or describe her in a line. Then write three things: a problem she has to solve, the body part that helps, and its price.",
+     "kid": "Make a small book. Watch a bird. Draw her or describe her. Write a problem, a part and a price.",
      "ask": [
       {
        "q": "What problem does the part you chose solve?",
@@ -1584,9 +1584,9 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Watch an ant or a house lizard for ten minutes. Fill the second page: draw her, and write a problem, a part and a price.",
+     "do": "Watch an ant or a house lizard for ten minutes. Fill the second page: draw her or describe her, and write a problem, a part and a price.",
      "say": "Today, watch an ant or a lizard. What does she do? What body part helps her do it? What might it cost her?",
-     "kid": "Watch an ant or a lizard. Draw her. Write a problem, a part and a price.",
+     "kid": "Watch an ant or a lizard. Draw her or describe her. Write a problem, a part and a price.",
      "parent": "Ants and house geckos are common in most Indian homes. Do not touch them. A gecko's toes with tiny hairs are the part to look for.",
      "context": "This is day 2 of the body book. You fill the second page with a new animal."
     },
@@ -1642,8 +1642,8 @@
     "Give her a sticky tongue like a woodpecker's, so she can pull insects out of the cracks in a cave wall.",
     "Give her a body that changes colour to match the wall of the cave, so hunters cannot see her."
    ],
-   "your_turn": "Choose a place and design your own animal with four body parts. Draw her. For each part, write the problem it solves, how it works and its price. Show your design to someone and ask, 'Where would my animal be in trouble?'",
-   "context": "In this challenge you design an animal for a place of your choice. You use the idea that every body part answers a problem and has a price.",
+   "your_turn": "Choose a place and design your own animal with four body parts. Draw her or build her. For each part, write the problem it solves, how it works and its price. Show your design to someone and ask, 'Where would my animal be in trouble?'",
+   "context": "In this challenge you design an animal for a place of your choice. You will find out why no animal is perfect for every place.",
    "setup": [
     {
      "art": "Five cards laid out on a table, each showing a place: a mountain top, a river bank, a marsh, a cave and a tall tree.",
@@ -1681,9 +1681,9 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Choose four body parts that solve four problems. Draw your animal. Next to each part write the problem, and then its price.",
-     "say": "Choose four parts. For each one, write the problem it solves and the price it has. Draw your animal with all four.",
-     "kid": "Pick four parts. Draw your animal. Write a problem and a price for each part.",
+     "do": "Choose four body parts that solve four problems. Draw your animal, or build her from dough or paper. Next to each part write the problem, and then its price.",
+     "say": "Choose four parts. For each one, write the problem it solves and the price it has. Show your animal with all four.",
+     "kid": "Pick four parts. Draw or build your animal. Write a problem and a price for each part.",
      "parent": "Every part must have a price. If the child is stuck, ask: where would this part not work? What would she have to give up?",
      "check": {
       "t": "mcq",

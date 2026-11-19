@@ -288,7 +288,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
   *Parent does:* Play the first ten cards. The answering player may look at the symbol key, but never at the back of a card.  
   *Parent says:* Look at the formula. Read it one symbol at a time. Say which atoms it has and how many. Then try to name the substance.  
   *Child mode:* Read the formula one symbol at a time. Say the atoms. Then name it.
-  - Ask: This symbol has no small number after it. How many atoms of that kind are there? (good: One.; No number means one atom.)
+  - Ask: A symbol has no small number after it. How many atoms of that kind are there? (good: One.; No number means one atom.)
   - Note: A common slip is to read Cl as the two symbols C and l. Another is to read CO as the metal cobalt, Co. Point to the capital letters. Every capital letter starts a new symbol.
 - **s3 (7 min)**  
   *Parent does:* Play the last ten cards the same way. Keep the score on a piece of paper.  
@@ -331,11 +331,11 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 - **predict:** Before you start, guess. Suppose 1 teaspoon of lemon juice clears some number of drops. Will 2 teaspoons clear the same number, a few more, or twice as many? Why do you think so?
 - **fair test:** Squeeze all the lemons into one cup and strain the juice, so that every spoonful is the same juice. Use the same teaspoon, filled level. Put the same water, 2 tablespoons, and the same flour, a quarter of a teaspoon, in every glass. Take every drop from the same bottle. Stir after every drop. Stop at the same signal each time: the colour stays for a slow count of ten. Only the amount of lemon juice changes.
 - **safety:** Iodine solution is for skin only. Nobody tastes it, or the liquids in the glasses. Pour everything down the sink at the end and rinse the glasses. Iodine stains cloth and wood yellow-brown, so cover the table and wear old clothes. Do not use it if your child is allergic to iodine.
-- **record:** Draw a table with four rows, for 0, 1, 2 and 3 teaspoons of lemon juice. Beside each, write the number of drops before the colour stayed.
+- **record:** Make a table with four rows, for 0, 1, 2 and 3 teaspoons of lemon juice. Beside each, write the number of drops before the colour stayed.
 - **results table:** Teaspoons of lemon juice | Drops of iodine before the colour stayed
 - **s1 (5 min)**  
   *Parent does:* Cover the table with newspaper. Stir a quarter teaspoon of flour into 2 tablespoons of water in a glass. Add 1 drop of iodine and stir. Then squeeze in a few drops of lemon juice and stir again.  
-  *Parent says:* Watch the glass while I add one drop of iodine. What colour is the water now? Now I will add a little lemon juice. What happened to the colour?  
+  *Parent says:* Watch the glass while I add one drop of iodine. What colour is the water now? Now I will add a little lemon juice. What happens to the colour?  
   *Child mode:* Add one drop of iodine to floury water. Stir it. Now add lemon juice. What happens?
   - Ask: What do you think the lemon juice did to the iodine? (good: It took the colour away.; It changed the iodine into something with no colour.; It used the iodine up.)
   - Note: Iodine stains the starch in flour. The colour may be blue-grey, purple-grey or pale brown, depending on your flour and your bottle. Whatever colour you see is your signal. Lemon juice clears it within a few seconds of stirring. Do not explain yet.
@@ -357,8 +357,8 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
   *Child mode:* Now do glass 2. Then do glass 3. Count the drops each time.
 - **s5 (6 min)**  
   *Parent does:* Look at the four numbers together. Ask your child to say what they thought would happen, what they found, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Look at your four numbers. Say what you thought would happen, what you found, and why you think it happened. Could you have chosen how many drops glass 2 would clear?  
-  *Child mode:* Say what you thought would happen. Say what you found. Say why it happened.
+  *Parent says:* Look at your four numbers. What did you think would happen? What did you find? Why do you think it happened?  
+  *Child mode:* Look at the four numbers. Do you see a pattern?
   - Ask: Glass 2 held twice as much lemon juice as glass 1. What happened to the number of drops? (good: It was about twice as many.; It nearly doubled.; Three teaspoons took about three times as many.)
   - Ask: Why do you think the numbers go up in equal steps? (good: Each bit of lemon juice can clear only so much iodine.; More juice has more of whatever clears the iodine.; They react in a fixed amount.)
   - Note: Usually 2 teaspoons clear about twice as many drops as 1 teaspoon. 3 teaspoons clear about three times as many. A count may be 1 or 2 drops out, because the end is hard to judge. Write down what you really found. The reason: lemon juice holds vitamin C. Its formula is C₆H₈O₆. Iodine comes as molecules of two atoms, I₂. One vitamin C molecule changes exactly one iodine molecule into something with no colour. It can do this only once. So twice as many vitamin C molecules clear twice as many iodine molecules. Substances always react in fixed counts like this. That is why a formula can carry fixed numbers.
@@ -368,12 +368,12 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 - **predict:** Before the heating starts, guess. Water is H₂O. Look at the two formulas. Will salt give off water, will baking soda, will both, or will neither? Why do you think so?
 - **fair test:** Use the same dry pan, the same low flame and the same amount of powder, 2 level teaspoons. Cover the pan with the same steel plate, cooled under the tap and wiped dry each time. Keep the plate on for the same time, a slow count of twenty. Check at 1 minute, 3 minutes and 5 minutes. Look only at the middle of the plate, inside the ring where the pan touched it. Only the powder changes.
 - **safety:** A grown-up does all the heating and handles the hot pan and plate. Keep the flame low. Salt may crackle and jump, so keep faces away from the pan. The powder left from the baking soda is washing soda, which stings eyes and skin. Do not taste or touch it. When it is cool, wash it down the sink with plenty of water.
-- **record:** Draw a table with two rows, for salt and baking soda. For each check, at 1, 3 and 5 minutes, write wet or dry. Also write what the powder looked like as it was heated.
+- **record:** Make a table with two rows, for salt and baking soda. For each check, at 1, 3 and 5 minutes, write wet or dry. Also write what the powder looked like as it was heated.
 - **results table:** The powder | Plate at 1 minute | Plate at 3 minutes | Plate at 5 minutes
 - **s1 (4 min)**  
   *Parent does:* Put the two powders on saucers, with the formula slips in front. Ask for the guess and the reason, and write both down.  
   *Parent says:* Both powders are dry. Water is H₂O. Look at the two formulas. Could either powder give off water when I heat it? Why do you think so?  
-  *Child mode:* Read the two formulas. Water is H₂O. Which powder could give off water? Why?
+  *Child mode:* Read the two formulas. Which powder might give off water?
   - Ask: Which atoms would a powder need in order to make water? (good: Hydrogen and oxygen.; It needs H and O.; Salt has neither of them.)
   - Note: Many children say that neither will, because both powders are dry. Do not correct the guess.
 - **s2 (7 min) · grown-up needed**  
@@ -384,7 +384,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 - **s3 (2 min) · grown-up needed**  
   *Parent does:* Switch off the flame. Tip the hot salt onto a steel plate to cool. Wipe the pan with a dry cloth.  
   *Parent says:* The salt is done. I will empty the pan and wipe it. The pan must be dry before the next powder goes in. Why?  
-  *Child mode:* A grown-up empties the pan and wipes it dry. Why must it be dry?
+  *Child mode:* A grown-up empties the pan and wipes it dry.
 - **s4 (7 min) · grown-up needed**  
   *Parent does:* Heat 2 level teaspoons of baking soda in the same way. Stir gently. Watch the powder itself as well. Check with the cold, dry plate at 1, 3 and 5 minutes.  
   *Parent says:* Now the baking soda. Watch the powder as well as the plate. What is the powder doing? Now look at the middle of the plate.  
@@ -394,7 +394,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 - **s5 (5 min)**  
   *Parent does:* Switch off the flame and leave the pan to cool. Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
   *Parent says:* Look at your table. Say what you thought would happen, what you saw, and why you think it happened. Where could the water have come from?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Look at your table. Which powder wet the plate? Is that what you guessed?
   - Ask: The baking soda was dry. Where did the water come from? (good: From the hydrogen and oxygen atoms in the baking soda.; The heat rearranged the atoms into water.; Its formula has H and O in it.)
   - Ask: Could any amount of heating get water out of the salt? (good: No. Salt has no hydrogen or oxygen atoms.; No. Its formula is only Na and Cl.)
   - Note: The reason: baking soda is NaHCO₃. Heat rearranges its atoms into three new substances. They are water, carbon dioxide gas and washing soda, Na₂CO₃. The water leaves as steam and turns back to drops on the cold plate. The carbon dioxide is what lifts the powder in puffs. Salt is NaCl. It has no hydrogen and no oxygen, so it has nothing to build water from. If you own a kitchen scale, weigh the baking soda before and after. About 10 grams becomes about 6 grams, which is too big a loss to be dampness.
@@ -402,9 +402,9 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 
 ## Activities
 ### a1 · The Name Collector: how many names does one substance have? (10 min)
-- **record:** Draw a table with four rows, for water, salt, sugar and baking soda. Make three columns: everyday names, chemical name and formula.
+- **record:** Make a table with four rows, for water, salt, sugar and baking soda. Make three columns: everyday names, chemical name and formula.
 - **s1 (4 min)**  
-  *Parent does:* Put the water, salt, sugar and baking soda on the table. Draw the table with four rows. Ask everyone at home for names in every language they know.  
+  *Parent does:* Put the water, salt, sugar and baking soda on the table. Make a table on paper with four rows. Ask everyone at home for names in every language they know.  
   *Parent says:* What do we call this at home? What does your grandmother call it? What is it called in the other languages we know? Write every name.  
   *Child mode:* Write every name you know for water, salt, sugar and baking soda.
   - Note: Some examples for salt are uppu, namak and nun. For water there are thanneer, neeru, vellam, paani and jol. Baking soda is also called cooking soda, soda uppu, meetha soda and khabar soda.
@@ -416,11 +416,11 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 - **s3 (3 min)**  
   *Parent does:* Look at the finished table. Ask the questions below.  
   *Parent says:* Look at the three columns. Which column would a child in Japan or Brazil write differently from you? Which would she write exactly the same?  
-  *Child mode:* Which column changes from country to country? Which column never changes?
+  *Child mode:* Look at the table. Point to the column that would be the same in every country.
   - Check: Which of these tells you what salt is made of? → **NaCl**
   - Think: Is one of these names more real than the others?
 ### a2 · Dough Atoms: build H₂O, CO₂ and a grain of salt (25 min)
-- **record:** Draw each model you built and write its formula under it. For the salt block, write how many balls of each colour you used.
+- **record:** Take a photo of each model you built, or draw it, and write its formula beside it. For the salt block, write how many balls of each colour you used.
 - **s1 (5 min)**  
   *Parent does:* Knead turmeric into one lump of dough and coffee powder into another. Write the key on paper. Roll 8 small plain balls, each the size of a chana. Roll 6 yellow and 2 brown balls, each the size of a grape.  
   *Parent says:* These balls are our atoms. Plain is hydrogen, yellow is oxygen and brown is carbon. The colours are our own choice. The numbers will not be.  
@@ -439,7 +439,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
   - Check: A model has 1 brown carbon ball and 4 small hydrogen balls. What is its formula? → **CH₄**
 - **s4 (8 min)**  
   *Parent does:* Roll 4 new yellow balls and 4 new plain balls, all the same size. For this model only, yellow stands for sodium and plain stands for chlorine. Build a cube, two balls along each edge. The balls beside, above and below each ball must be the other colour.  
-  *Parent says:* Now we build salt. Yellow is sodium and plain is chlorine this time. Build a cube where the colours take turns. How many of each did you use? Can you find one piece that is a molecule of salt?  
+  *Parent says:* Now we build salt. Yellow is sodium and plain is chlorine this time. Build a cube where the colours take turns. How many of each did you use?  
   *Child mode:* Build a cube of 8 balls. The colours must take turns. Count each colour.
   - Ask: Pick one yellow ball. How many plain balls touch it? Which one is its partner? (good: Three plain balls touch it.; It has no single partner.; It belongs to all of them equally.)
   - Ask: So what does the formula NaCl tell you about the block? (good: There is one sodium for every chlorine.; The numbers are equal.; It is a ratio.)
@@ -468,7 +468,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 - **s1 (3 min)**  
   *Parent does:* Write CHeNNaI on the paper. Ask your child to split it into symbols, using the symbol key.  
   *Parent says:* This is Chennai, written only in element symbols. Where does each symbol begin? How can you tell?  
-  *Child mode:* Split CHeNNaI into element symbols. Every capital letter starts a new symbol.
+  *Child mode:* Split CHeNNaI into element symbols, using the key.
   - Ask: How do you know that He is one symbol and not two? (good: The e is small.; A small letter belongs to the capital before it.; Every capital starts a new symbol.)
   - Note: The answer is carbon, helium, nitrogen, sodium and iodine.
 - **s2 (5 min)**  
@@ -493,9 +493,9 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
   *Child mode:* Choose eight substances at home. Write a formula card for each.
   - Note: Easy ones are water at the tap (H₂O), salt (NaCl), sugar (C₁₂H₂₂O₁₁), baking soda (NaHCO₃) and an egg's shell (CaCO₃). A soda bottle can carry CO₂, a gold ornament Au and an open window O₂.
 - **s2 (10 min)**  
-  *Parent does:* Day 1. Your child tapes each card beside its substance, at the height of their own eyes. Then they draw the table with eight rows.  
-  *Parent says:* Tape each card where a reader will find it. Keep the formula facing out. Now draw your table for tomorrow.  
-  *Child mode:* Tape each card beside its substance. Draw a table with eight rows.
+  *Parent does:* Day 1. Your child tapes each card beside its substance, at the height of their own eyes. Then they make a table with eight rows.  
+  *Parent says:* Tape each card where a reader will find it. Keep the formula facing out. Now make your table for tomorrow.  
+  *Child mode:* Tape each card beside its substance. Make a table with eight rows.
   - Wait: Leave the cards up until the next day.
 - **s3 (15 min)**  
   *Parent does:* Day 2. Your child leads a reader along the trail. At each card the reader says the atoms and how many, and then names the substance. Your child records yes or no.  
@@ -506,7 +506,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 - **s4 (5 min)**  
   *Parent does:* Day 2. Look at the table together and talk about the question below.  
   *Parent says:* Your reader knew every one of these substances by name already. What did the formula tell them that the name did not?  
-  *Child mode:* What did each formula tell your reader that the name did not?
+  *Child mode:* Look at your table. Which formulas did your reader get right at the first try?
   - Think: Would a visitor who speaks only Japanese be able to follow your trail?
 
 ## Challenges
@@ -519,7 +519,7 @@ The driver did not know Tamil either. He had nodded kindly, and driven on.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Your child tries the first idea that comes to mind and writes water with it.  
   *Parent says:* Chemists once had no shared code. You will make one. Start with any idea and write water with it. What must your code show?  
-  *Child mode:* Invent a mark for each element. Write water with your marks.
+  *Child mode:* Invent a mark, shape, colour or letter for each element. Write water with them.
   - Ask: What two things must any code for a substance show? (good: Which atoms are in it.; How many of each atom there are.)
 - **s2 (8 min)**  
   *Parent does:* Your child finishes the key and writes all five substances. Time each one. Any that takes 10 seconds or more must be made simpler.  

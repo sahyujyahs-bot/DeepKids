@@ -300,8 +300,8 @@ The baby slept through everything, growing.
   *Child mode:* Look at the symbol. Say the name. Say metal or non-metal.
 - **s3 (3 min)**  
   *Parent does:* Hold up Fe, then K, then Au, one at a time. Then ask the check question.  
-  *Parent says:* Fe is iron. Where have you seen the word 'ferrous'? K is potassium. Where have you seen NPK?  
-  *Child mode:* Name Fe, K and Au. Where have you seen these letters?
+  *Parent says:* Fe is iron. Where have you seen the word 'ferrous'? K is potassium. Where have you seen NPK? Now say the name of Au.  
+  *Child mode:* Name Fe, K and Au. Where have you seen them?
   - Note: 'Ferrous' is on iron tablets and syrup. NPK is on fertiliser bags: nitrogen, phosphorus and potassium.
   - Check: What does the symbol Na stand for? → **Sodium**
 
@@ -311,34 +311,34 @@ The baby slept through everything, growing.
 - **predict:** Before the heating, guess for each of the eight things: will it turn black, or will it stay as it is? Sugar and salt look alike. Will they do the same thing? Why do you think so?
 - **fair test:** Use a small amount of each thing, no bigger than a 1 rupee coin. Put all eight on one sheet of foil on one tawa. Then they all get the same heat for the same time. Heat for 10 minutes on a medium flame. Only one thing differs from heap to heap: what the heap is made of.
 - **safety:** A grown-up does all the heating. The child stays an arm's length from the stove. Open a window or switch on the kitchen fan, because the sugar smokes. Salt grains may crackle and jump. Let the foil cool for 10 minutes before anyone touches it.
-- **record:** Draw a table with eight rows, one for each thing. Write your guess, what it looked like after 10 minutes, and whether it came from a living thing.
+- **record:** Make a table with eight rows, one for each thing. Write your guess, what it looked like after 10 minutes, and whether it came from a living thing.
 - **results table:** The thing | My guess | After 10 minutes | Did it come from a living thing?
 - **s1 (5 min)**  
   *Parent does:* Lay the eight things on a plate. Ask for a guess and a reason for each. Write the guesses in the table.  
-  *Parent says:* A grown-up will heat these eight things for 10 minutes. Which will turn black, and which will stay the same? Sugar and salt look alike. Will they do the same thing? Why do you think so?  
-  *Child mode:* Look at the eight things. Which will turn black? Why do you think so?
+  *Parent says:* A grown-up will heat these eight things for 10 minutes. Which will turn black, and which will stay the same?  
+  *Child mode:* Sort the eight things into two piles: will turn black, and will stay the same.
   - Ask: Why do you think sugar and salt will, or will not, behave the same? (good: They look the same, so they will do the same.; Sugar melts in a pan, so it may burn.; Salt is used in hot cooking and never burns.)
   - Note: Do not correct the guesses. Many children say sugar and salt will do the same thing.
 - **s2 (4 min)**  
   *Parent does:* Cover the tawa with foil. Mark eight places with a pencil, about 5 centimetres apart. Put a small amount of each thing in its place.  
-  *Parent says:* Each heap must be small, no bigger than a 1 rupee coin. Why should all eight go on the same tawa?  
+  *Parent says:* Each heap must be small, no bigger than a 1 rupee coin. All eight go on the same tawa, so they get the same heat. That keeps the test fair.  
   *Child mode:* Put eight small heaps on the foil. Keep them well apart.
   - Note: The same tawa gives every heap the same heat for the same time. Put the sugar near the edge, as it spreads when it melts.
 - **s3 (11 min) · grown-up needed**  
   *Parent does:* Open a window. Heat the tawa on a medium flame for 10 minutes. Your child watches from an arm's length and says what changes. Then switch off the flame.  
   *Parent says:* Stay where you are and tell me what you see. Which heap changed first? What is the salt doing?  
-  *Child mode:* Stand back and watch. Which heap changes first? What does the salt do?
+  *Child mode:* Stand back and watch. Say what changes.
   - Note: Sugar melts in a minute or two, bubbles, turns brown and then black. Bread, paper and thread darken next. Press the thread and paper flat with a spoon if they curl. Rice and dal are slowest and may only reach dark brown. If so, heat them for 5 minutes more. Salt may crackle.
 - **s4 (5 min) · grown-up needed**  
   *Parent does:* Wait 10 minutes for the foil to cool. Then your child fills in the table. They rub a black crumb of sugar or bread on white paper.  
-  *Parent says:* Now it is cool. Write what each heap looks like. Rub a black crumb on the white paper. What does the mark remind you of?  
-  *Child mode:* Write what each heap looks like. Rub a black crumb on paper.
+  *Parent says:* Now it is cool. Look at each heap and write what it looks like. Then rub a black crumb on the white paper. What does the mark remind you of?  
+  *Child mode:* Rub a black crumb on white paper. Look at the mark it leaves.
   - Note: The black crumb leaves a grey-black mark, like a pencil or charcoal. All three are carbon.
   - Check: In the Black Test, which heap stayed white on the hot tawa? → **Salt**
 - **s5 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. Read them the note below only after they answer.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Look at the last column. What do the black ones share?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Parent says:* Look at your table. Which things turned black? Which did not?  
+  *Child mode:* Tell what you guessed, what you saw, and why.
   - Ask: What do all the things that turned black have in common? (good: They all came from plants.; They all came from living things.; They all have carbon in them.)
   - Ask: Sugar is white. Where was the black before the heating? (good: Inside the sugar, joined to other elements.; It was hidden, and the heat left it behind.)
   - Note: The reason: everything that came from a living thing is made of compounds built around carbon. Heat breaks the compounds. Hydrogen and oxygen leave as water vapour and other gases, and black carbon stays. Salt and steel hold no carbon. Be honest about one limit. Chalk and cooking soda hold carbon joined tightly to oxygen, and they stay white. So black shows carbon, but white does not prove there is none.
@@ -348,34 +348,34 @@ The baby slept through everything, growing.
 - **predict:** Before you test, guess. Will pencil lead pass none, one, two or all three of the metal tests? Will the burnt matchstick do the same as the pencil lead? Why do you think so?
 - **fair test:** Do each test in the same way for every thing. Rub each thing five times with the same scrub pad. Bend each one with the same two fingers. Drop each one from the same height, one hand-width, onto the same upturned steel plate. Only the thing being tested changes.
 - **safety:** A grown-up strips the wire, cuts the wood from the pencil lead, and burns and cools the matchstick. Wash your hands after handling the pencil lead and the burnt matchstick.
-- **record:** Draw a table with a row for each thing and a column for each test. Write yes or no for shine and ring. Write 'bends' or 'snaps' for the bend test.
+- **record:** Make a table with a row for each thing and a column for each test. Write yes or no for shine and ring. Write 'bends' or 'snaps' for the bend test.
 - **results table:** The thing | Shines when rubbed? | Bends or snaps? | Rings when dropped?
 - **s1 (4 min)**  
   *Parent does:* Lay the things on newspaper. Say which element each one is made of. The steel is mostly iron. The foil is aluminium. The wire is copper. The pencil lead and the burnt matchstick are carbon. Then ask for the guess and the reason.  
-  *Parent says:* Pencil lead and this burnt matchstick are both carbon, a non-metal. We will give everything three metal tests. How many will the pencil lead pass? Why do you think so?  
-  *Child mode:* Pencil lead is carbon. How many metal tests will it pass? Why?
+  *Parent says:* Pencil lead and this burnt matchstick are both carbon, a non-metal. We will give everything three metal tests. How many will the pencil lead pass?  
+  *Child mode:* Pencil lead is carbon. Guess how many metal tests it will pass.
   - Ask: Why do you think the pencil lead will pass that many tests? (good: It is a non-metal, so it should pass none.; It looks a bit shiny, so it may pass one.; It is hard like metal, so it may ring.)
   - Note: Steel is mostly iron. Pencil lead is graphite, a form of carbon, mixed with a little clay. Do not correct the guess.
 - **s2 (6 min)**  
   *Parent does:* Shine test. Your child rubs each thing five times with the dry scrub pad, then holds it under the light. They write yes or no.  
   *Parent says:* Rub five times, then hold it under the light. Does the rubbed part throw the light back? Look closely at the pencil lead.  
-  *Child mode:* Rub each thing five times. Hold it under the light. Does it shine?
+  *Child mode:* Rub each thing, then look closely. Which things shine?
   - Note: Metals show a bright fresh surface. Pencil lead shows a grey shine too. The burnt matchstick stays dull black.
 - **s3 (5 min)**  
   *Parent does:* Bend test. Your child bends each thing gently between two fingers, over the newspaper. They write 'bends' or 'snaps'.  
   *Parent says:* Bend each one gently. A metal bends and stays whole. What does the pencil lead do? What does the matchstick do?  
-  *Child mode:* Bend each thing gently. Does it bend, or does it snap?
+  *Child mode:* Bend each thing gently. Which ones snap?
   - Note: The spoon and coin are too stiff to bend by hand. Write 'too stiff' for them. Nothing metal snaps.
 - **s4 (5 min)**  
   *Parent does:* Ring test. Turn a steel plate upside down on the floor. Your child drops each thing onto it from one hand-width and listens. They write yes or no.  
   *Parent says:* Drop each one from the same height. Listen for a ring that lasts. Which ones only tick or thud?  
-  *Child mode:* Drop each thing on the plate. Does it ring, or only tick?
+  *Child mode:* Drop each thing on the plate. Listen. Which ones ring for a long time?
   - Note: The foil pad hardly sounds, because it is thin, light and crumpled. Tap an aluminium vessel with a spoon to hear that aluminium does ring.
   - Check: In Shine, Bend, Ring, why is every thing dropped from the same height? → **So only the thing itself changes**
 - **s5 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. Read them the note below only after they answer.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. How many tests did the pencil lead pass? Did the matchstick do the same?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Parent says:* How many tests did the pencil lead pass? Did the matchstick do the same?  
+  *Child mode:* Tell what you guessed, what you saw, and why.
   - Ask: Pencil lead and the burnt matchstick are both carbon. Why might they behave differently? (good: The atoms are arranged in different ways.; Pencil lead is in neat sheets and the burnt wood is jumbled.)
   - Ask: Is one test enough to decide that something is a metal? (good: No. Pencil lead shines but it is not a metal.; No. You need several tests that agree.)
   - Note: The reason: pencil lead passes the shine test and fails the other two. In graphite, carbon atoms sit in flat sheets. Some electrons are free to move along the sheets, as in a metal. So graphite shines and also carries electricity. The sheets slide apart easily, so it snaps and cannot ring. In burnt wood the carbon atoms are jumbled, so it is dull. Chemists call carbon a non-metal because of all its properties together.
@@ -386,24 +386,24 @@ The baby slept through everything, growing.
 - **record:** Keep both squares. Under each, write the name of the element with the most squares.
 - **s1 (4 min)**  
   *Parent does:* Outline two boxes of 10 by 10 squares. Ask for the guess and the reason before giving any numbers.  
-  *Parent says:* Your body is made of elements. Which one do you think makes up most of your weight? Why do you think so?  
-  *Child mode:* Which element is most of your weight? Why do you think so?
+  *Parent says:* Your body is made of elements, plain kinds of material such as oxygen, carbon, hydrogen and iron. Which one do you think makes up most of your weight?  
+  *Child mode:* Pick the element you think is most of your weight.
   - Ask: Why did you choose that element? (good: Calcium, because bones are heavy.; Iron, because blood has iron.; Carbon, because living things have carbon.; Oxygen, because we are mostly water.)
   - Note: Many children say calcium or iron. Do not correct the guess.
 - **s2 (7 min)**  
   *Parent does:* Read out the weights. Your child colours the first box and makes a key. Use blue for oxygen, black for carbon and yellow for hydrogen.  
   *Parent says:* Out of 100 squares of weight, colour 65 for oxygen. Then 18 for carbon, 10 for hydrogen and 3 for nitrogen. Then 2 for calcium, 1 for phosphorus and 1 for everything else.  
-  *Child mode:* Colour 65 oxygen, 18 carbon, 10 hydrogen, 3 nitrogen. Then 2 calcium, 1 phosphorus, 1 the rest.
+  *Child mode:* Colour each group in its own colour. Or cover it with coloured paper scraps. Make a key.
   - Ask: Why might oxygen be so much of your weight? (good: We are mostly water, and water has oxygen.; Oxygen atoms are heavy.)
   - Note: The numbers are rounded so that they add up to 100. More than half of a body is water, and oxygen is eight ninths of the weight of water.
 - **s3 (5 min)**  
   *Parent does:* Now read out the count of atoms. Your child colours the second box with the same colours.  
   *Parent says:* Now we count atoms one by one. Out of every 100 atoms in you, 62 are hydrogen. Then 24 are oxygen, 12 are carbon and 1 is nitrogen. The last 1 is everything else.  
-  *Child mode:* Colour 62 hydrogen, 24 oxygen, 12 carbon. Then 1 nitrogen and 1 the rest.
+  *Child mode:* Colour the second box with the same colours.
 - **s4 (4 min)**  
   *Parent does:* Put the two boxes side by side. Ask your child to say what they thought would happen, what they see, and why the boxes differ.  
-  *Parent says:* Say what you thought would happen, what you see, and why you think the two boxes differ. Which element wins in each box?  
-  *Child mode:* Say what you guessed. Say what you see. Why do the boxes differ?
+  *Parent says:* Say what you guessed, what you see, and why you think the two boxes differ.  
+  *Child mode:* Which colour wins in each box?
   - Note: Both boxes are correct. One answers 'which atoms carry most weight?' and the other answers 'which atoms are most common?'
   - Check: Hydrogen is 62 of every 100 atoms in you, but only 10 parts in 100 of your weight. Why? → **Hydrogen atoms are very light**
   - Think: Someone asks what you are mostly made of. What would you ask them before you answer?
@@ -413,17 +413,17 @@ The baby slept through everything, growing.
 - **s1 (3 min)**  
   *Parent does:* Collect eight labelled things. Ask for the guess and the reason, and write the guess down.  
   *Parent says:* These labels name some of the elements inside. How many different elements do you think we will find? Why do you think so?  
-  *Child mode:* How many different elements will the labels name? Why do you think so?
+  *Child mode:* Say your guess as a number.
 - **s2 (12 min)**  
   *Parent does:* Read each label together. Your child writes every element name and where it was found. Explain the changed endings.  
   *Parent says:* Look for sodium, potassium, calcium, iron, zinc, magnesium and iodine. 'Fluoride' means fluorine, and 'chloride' means chlorine. The ending changes when the element is joined to another.  
-  *Child mode:* Read each label. Write every element name you find.
+  *Child mode:* Hunt for element names. Write each one, and which label it was on.
   - Ask: The salt packet says 'iodised'. Which element was added, and why? (good: Iodine.; The body needs a little iodine, and many foods have too little.)
   - Note: Likely finds: sodium and iodine on salt, and fluoride on toothpaste. Food packets often name calcium and iron. Mineral water names magnesium and potassium. Tablets name zinc, and batteries name lithium or zinc. Most homes find 8 to 15.
 - **s3 (5 min)**  
   *Parent does:* Count the different elements. Ask which are metals. Then ask the question below.  
-  *Parent says:* Count your list. Most of these are metals, such as sodium and calcium. But nothing in the packets looks like metal. Why not?  
-  *Child mode:* Count your elements. Most are metals. Why can't you see any metal?
+  *Parent says:* Count your list. Most of these elements are metals, such as sodium and calcium.  
+  *Child mode:* Count your elements. Say how many you found.
   - Ask: Salt holds the metal sodium. Why does salt not look like a metal? (good: The sodium is joined to chlorine.; A compound looks different from its elements.)
   - Note: In salt, each sodium atom is joined to a chlorine atom. Joined in a compound, a metal does not shine, bend or ring. The same is true of the calcium in milk and the iron in blood.
 ### a3 · The 118 Grid: how many of the elements are metals? (25 min)
@@ -431,22 +431,22 @@ The baby slept through everything, growing.
 - **s1 (7 min)**  
   *Parent does:* Your child outlines 12 rows of 10 squares and crosses out the last two. They number the squares 1 to 118. Ask for the guess and the reason.  
   *Parent says:* Each square is one element. Number 1 is hydrogen and number 118 is oganesson. Are more of the elements metals, or non-metals? Why do you think so?  
-  *Child mode:* Number the squares 1 to 118. Are there more metals or non-metals? Why?
+  *Child mode:* Number the squares 1 to 118.
   - Note: Many children guess non-metals, because air, water and their own bodies are non-metal.
 - **s2 (8 min)**  
   *Parent does:* Read out the non-metals: 1, 2, 6, 7, 8, 9, 10, 15, 16, 17, 18, 34, 35, 36, 53, 54 and 86. Your child colours them red. Then read out the metalloids: 5, 14, 32, 33, 51 and 52. They colour those green.  
-  *Parent says:* Colour these seventeen squares red. They are the non-metals. Now colour these six green. They are the metalloids, such as silicon.  
-  *Child mode:* Colour the 17 non-metals red. Colour the 6 metalloids green.
+  *Parent says:* Colour these seventeen squares red. They are the non-metals. Now colour these six green. They are the metalloids. They sit in between metal and non-metal, like silicon.  
+  *Child mode:* Colour 17 squares red and 6 green. Or cover them with paper scraps.
   - Note: Hydrogen is 1, carbon 6, nitrogen 7, oxygen 8, phosphorus 15 and sulfur 16. Silicon is 14.
 - **s3 (5 min)**  
   *Parent does:* Your child colours squares 109 to 118 grey, then every square still white yellow. They count the yellow squares.  
   *Parent says:* Colour the last ten grey. Only a few atoms of each have been made, so nobody has tested them. Colour all the rest yellow. Those are metals. Count them.  
-  *Child mode:* Colour 109 to 118 grey. Colour the rest yellow. Count the yellow squares.
+  *Child mode:* Count the yellow squares and say the number.
   - Check: On the 118 Grid, how many of the first 108 elements are metals? → **85**
 - **s4 (5 min)**  
   *Parent does:* Your child puts a dot on squares 1, 6, 7, 8, 15 and 20. Ask them to say what they guessed, what they found, and what surprises them.  
   *Parent says:* Dot the six main elements of your body: 1, 6, 7, 8, 15 and 20. Say what you guessed and what you found. What colour are most of your dots?  
-  *Child mode:* Dot 1, 6, 7, 8, 15 and 20. What colour are most of your dots?
+  *Child mode:* Dot the six squares. Count how many dots are on red.
   - Ask: Most squares are yellow, but five of your six dots are on red. What does that tell you? (good: Most elements are metals, but my body is mostly non-metals.; Living things are built mostly from non-metals, even though most elements are metals.)
   - Note: Calcium, number 20, is the only metal among the six. Chemists differ by one or two on the metalloid count, so some books give other totals.
   - Think: Where on your grid are the elements with the smallest numbers? Which colour are most of them?
@@ -459,18 +459,18 @@ The baby slept through everything, growing.
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* Day 1. Make the balance. Slice the potato as thin as a coin. Put slices in one cup until they balance 20 coins. Ask for the guess and the reason. Spread the slices on a plate.  
   *Parent says:* These slices weigh the same as 20 coins. We will dry them for three days. How many coins will they weigh then? Why do you think so?  
-  *Child mode:* The slices weigh 20 coins. How many when dry? Why do you think so?
+  *Child mode:* Guess the number of coins. Say why.
   - Note: Use coins of one value and one design, because coins of different years can differ in weight. Thin slices dry faster and are less likely to spoil.
 - **s2 (5 min)**  
   *Parent does:* Days 2 and 3. Your child turns the slices over once a day and says how they have changed.  
   *Parent says:* Turn every slice over. How do they look and feel now? Where has the water gone?  
-  *Child mode:* Turn the slices over. How have they changed?
+  *Child mode:* Turn the slices over. Feel them each day.
   - Note: In damp weather the slices may stay soft or grow spots. Then a grown-up can dry fresh slices on a tawa on the lowest flame. This takes about 20 minutes, and the slices must be turned often.
   - Wait: Do this on the second and third days
 - **s3 (10 min)**  
   *Parent does:* Day 4. Put the dry slices in one cup. Add coins to the other until the hanger is level. Ask your child to say what they guessed, what they found, and why.  
-  *Parent says:* Count the coins that balance the dry slices. Say what you thought would happen, what you found, and why it happened. What was the lost weight?  
-  *Child mode:* Weigh the dry slices. Say what you guessed and what you found. Why?
+  *Parent says:* Count the coins that balance the dry slices. Is it more or less than 20? What was the lost weight?  
+  *Child mode:* Weigh the dry slices. Say what you guessed, what you found, and why.
   - Ask: The slices went from 20 coins to about 4. What does that tell you about a potato? (good: About four fifths of it was water.; Most of a living thing is water.)
   - Ask: Water is hydrogen and oxygen. How does this help explain the Body Hundred Square? (good: A body is mostly water, so it is mostly oxygen by weight.; That is why oxygen had 65 squares.)
   - Note: Dry slices usually balance 4 or 5 coins, so about four fifths of the potato was water. A human body is about three fifths water. If your slices balance 6 or more coins, they are not fully dry.
@@ -486,7 +486,7 @@ The baby slept through everything, growing.
 - **creative:** Drop each thing from one hand-width onto the floor and listen to the sound.; Squeeze each thing. A foil ball changes shape and keeps the new shape.; Use one quick test first, and a second test only when you are unsure.
 - **s1 (4 min)**  
   *Parent does:* Read the problem together. With eyes open, your child handles the ten things and says how metals feel and sound different.  
-  *Parent says:* Before the blindfold, handle each thing. How does a metal feel on your cheek? How does it sound when tapped? Which tests could work without eyes?  
+  *Parent says:* Before the blindfold, handle each thing. How does a metal feel on your cheek? How does it sound when tapped?  
   *Child mode:* Handle the ten things. How do metals feel and sound?
   - Ask: Which properties of metals can you sense without looking? (good: They ring.; They feel cold.; They are heavy for their size.; Foil keeps its new shape.)
 - **s2 (6 min)**  

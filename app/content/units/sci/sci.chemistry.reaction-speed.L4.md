@@ -248,7 +248,7 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 - **Printable tokens: 12 speed-up tokens: two sets of six:** Warmth; Stirring; Smaller pieces; More crowded; A helper; Slowing down; Warmth; Stirring; Smaller pieces; More crowded; A helper; Slowing down
 - **s1 (3 min)**  
   *Parent does:* Cut out the 20 cards and the tokens. Shuffle the cards and put them in a pile. Give each player a set of six tokens.  
-  *Parent says:* These cards show everyday changes. Each player has six tokens. We will guess which speed-up each card is about.  
+  *Parent says:* These cards show everyday changes. Each player has six tokens, one for each kind: warmth, stirring, smaller pieces, a crowd, a helper and a slow-down. We will guess which speed-up each card is about.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take six tokens.
 - **s2 (7 min)**  
   *Parent does:* Play the first eight cards. The reader reads the front. Everyone puts a token face down. Turn them over together and read the back.  
@@ -298,12 +298,12 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 - **predict:** Before you start, guess. Which cup will stop fizzing first, and which last? Say why you think so.
 - **fair test:** Every cup is the same size and has 150 millilitres of water and half a level teaspoon of fruit salt. Nobody stirs. The only thing that changes is the temperature of the water, so any difference in the fizzing time comes from the temperature. We do each cup twice, because one try can be a fluke. The room-temperature cup is the control.
 - **safety:** A grown-up pours the warm water and checks that it is not too hot to hold. Keep the powder out of eyes, and keep spare sachets away from a younger child who may eat them. Do not drink the water from the test glasses. Wipe up spills so nobody slips.
-- **record:** Write the seconds for each try in the table. Work out the average for each cup. Then draw a bar for each cup, with the cup names along the bottom and seconds up the side.
+- **record:** Write the seconds for each try in the table. Work out the average for each cup. Then draw a bar for each cup, or just say which cup was quickest and which was slowest.
 - **results table:** Cup | Water | Try 1 (seconds) | Try 2 (seconds) | Average (seconds)
 - **s1 (5 min)**  
   *Parent does:* Show your child the three glasses and the fruit salt. Say what changes and what stays the same. Write down their guess and their reason.  
   *Parent says:* We will fizz the same powder in three glasses of water. One is cold, one is room-temperature and one is warm. Which will stop fizzing first? Which will be last? Why do you think so?  
-  *Child mode:* Three glasses of water: one cold, one at room temperature, one warm. Which stops fizzing first? Why?
+  *Child mode:* Look at the three glasses of water: cold, room and warm. Make your guess.
   - Ask: Why do you think that glass will finish first? (good: Warm water makes things go faster.; The cold glass slows it down.; The powder dissolves quicker in warm water.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the results table.
 - **s2 (7 min) · grown-up needed**  
@@ -319,9 +319,9 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   - Ask: What do you notice about the bubbles in the first few seconds compared with the last few? (good: They come fast at the start.; They slow down near the end.; There are fewer bubbles at the end.)
   - Note: Use fresh water for the second try. Pour out the old water, rinse the glass, and use new water at the same temperature. Warm water cools quickly, so for the second try make it warm again. Tiny bubbles on the side of the glass do not count. Stop the clock when no bubbles rise from the powder. Decide before you start what counts as the end: the last bubble that rises from the powder. One person judges the end for every cup. Typical times are about 10 to 20 seconds for warm, 25 to 40 for room and 50 to 90 for cold, but your brand and room will differ, so compare the order, not the numbers. One child with a parent: the child tips the powder and watches, and the parent runs the stopwatch and writes. With 2 to 4 children: give each cup a team of a pourer, a timer and a recorder, set up a second set of glasses for try 2, and start all three cups on a count of three.
 - **s4 (4 min)**  
-  *Parent does:* Check the table. Work out the average for each glass by adding the two tries and dividing by two. Draw a bar for each glass.  
-  *Parent says:* Add the two tries for each glass and divide by two. That gives the average. Now draw one bar for each glass. Which bar is shortest?  
-  *Child mode:* Add two tries. Divide by two. Draw a bar for each glass.
+  *Parent does:* Check the table. Work out the average for each glass by adding the two tries and dividing by two. Draw a bar for each glass, or just tell your grown-up which glass was quickest.  
+  *Parent says:* Add the two tries for each glass and divide by two. That gives the average. Now draw one bar for each glass, or point to the quickest glass. Which bar is shortest?  
+  *Child mode:* Add two tries. Divide by two. Draw a bar for each glass, or point to the quickest.
   - Check: The warm glass finished in 14 seconds and the cold glass in 56 seconds. How many times faster was the warm glass? → **4 times**
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw and why they think it happened. Then explain.  
@@ -334,12 +334,12 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 - **predict:** Before you start, guess. Which plate will turn brown first, and which will stay palest? Say why you think so.
 - **fair test:** All the apple pieces come from one apple, cut at the same time. Each plate gets the same amount of apple. Each plate is different from the plain chunk in one way only. The plain chunk is the control. Plate B has smaller pieces, C has lime juice, D is cold, and E has a hot dip.
 - **safety:** A grown-up cuts and grates the apple (a grater scrapes fingers) and handles the just-boiled water. A child can squeeze the lime and do the scoring. Wash the apple first. Do not eat the pieces that have been in the hot water or left for 30 minutes.
-- **record:** At 10, 20 and 30 minutes, give each plate a colour score from 0 to 4. 0 is cream-white like a fresh cut. 1 is a faint tan. 2 is tan. 3 is brown. 4 is dark brown. Then draw a line for each plate.
+- **record:** At 10, 20 and 30 minutes, give each plate a colour score from 0 to 4. 0 is cream-white like a fresh cut. 1 is a faint tan. 2 is tan. 3 is brown. 4 is dark brown. Then line up the plates from the fastest browning to the palest.
 - **results table:** Plate | What was done | After 10 min (0 to 4) | After 20 min (0 to 4) | After 30 min (0 to 4)
 - **s1 (5 min)**  
   *Parent does:* Show your child the five plates. Say what will be done to each one. Write down their guess and their reason.  
   *Parent says:* We will cut one apple and treat five plates differently. A is plain. B is grated. C has lime juice. D goes in the fridge. E gets a hot dip. Which turns brown first? Which stays palest? Why do you think so?  
-  *Child mode:* Five plates of apple. Which turns brown first? Which stays palest? Why?
+  *Child mode:* Look at the five plates of apple. Make your guess.
   - Ask: Why do you think that plate will turn brown first? (good: It has more apple touching the air.; Plain apple has nothing slowing it down.; Grated pieces are small.)
   - Note: Do not correct the guess. Write the guesses at the top of the table.
 - **s2 (10 min) · grown-up needed**  
@@ -355,9 +355,9 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   - Ask: What do you notice about the grated apple compared with the chunk? (good: It goes brown faster.; It is darker already.; More of it touches the air.)
   - Note: If your apple is slow to brown, wait up to an hour and keep scoring. If nothing browns, try a banana. Write what you see, even if it is not what you guessed. The cold plate may only be a little paler than the plain one in 30 minutes. That is also a result. Typical result: the plain chunk and the grated apple show tan within 10 to 20 minutes, the lime plate stays pale for the whole 30 minutes, and the hot-dipped chunk stays pale but may look slightly glassy at the edge. Judge in the same light, take a phone photo of all five plates at each time, and compare cut faces side by side. One child with a parent: the child scores and the parent keeps time and photographs. With 2 to 4 children: each child scores the plates alone and writes the scores before hearing the others, then compare.
 - **s4 (4 min)**  
-  *Parent does:* Draw a line graph. Put minutes along the bottom and colour score up the side. Draw one line for each plate, in a different colour.  
-  *Parent says:* Draw a line graph. Minutes go along the bottom and the colour score goes up the side. One line for each plate. Which line climbs fastest?  
-  *Child mode:* Draw a line for each plate. Which line climbs fastest?
+  *Parent does:* Look at the table. Line up the plates on the counter, from the one that browned fastest to the palest.  
+  *Parent says:* Look at your scores. Line up the plates from fastest browning to palest. Which plate is first?  
+  *Child mode:* Line up the plates. Put the fastest-browning one first.
   - Check: Plate B, the grated apple, is darker than plate A, the chunk, at 10 minutes. What best explains this? → **Grated apple has much more surface touching the air**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw and why. Then explain.  
@@ -370,13 +370,13 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 - **predict:** Before you start, guess. Which glass will finish fizzing first, and which last? Say why you think so.
 - **fair test:** Every glass is the same size and has the same amount of baking soda. Each gets 2 teaspoons of the same lime juice, so the same number of acid particles. Only the water added is different. Glass A has none, glass B has 4 teaspoons and glass C has 12 teaspoons. So the acid is the same amount, but it is more or less crowded.
 - **safety:** Keep lime juice out of eyes; if it gets in, rinse with plenty of water. Wash your hands after squeezing. The foam can spill, so work on a tray. Do not drink the fizz.
-- **record:** Write the foam height at 5 seconds and the time until the fizz stops for each glass. Then draw a bar for each glass.
+- **record:** Write the foam height at 5 seconds and the time until the fizz stops for each glass. Then put the glasses in order, quickest fizz first.
 - **results table:** Glass | Lime juice and water | Foam height after 5 seconds (millimetres) | Seconds until the fizz stops
 - **s1 (4 min)**  
   *Parent does:* Show your child the three glasses and the three cups. Say what goes in each. Write down their guess and reason.  
-  *Parent says:* All three glasses get the same amount of lime juice. The first has no extra water. The second has a little. The third has a lot. Which fizzes fastest? Why do you think so?  
-  *Child mode:* Same lime in every cup. More water in B and C. Which fizzes fastest? Why?
-  - Ask: Why do you think that glass will fizz fastest? (good: The lime is stronger there.; More acid is close to the baking soda.; In the watery cup, the acid is spread out.)
+  *Parent says:* Each cup holds the same amount of lime juice. Cup A has no extra water. Cup B has a little. Cup C has a lot. We will pour each cup onto baking soda. Which will fizz fastest? Why do you think so?  
+  *Child mode:* Look at the cups. Cup A has no water. B has a little. C has a lot. Make your guess.
+  - Ask: Why do you think that cup will fizz fastest? (good: The lime is stronger there.; More acid is close to the baking soda.; In the watery cup, the acid is spread out.)
   - Note: Do not correct the guess. Write the guesses on the table. Both lime and baking soda are safe in the kitchen, but keep the glasses on a tray because the foam can spill.
 - **s2 (7 min)**  
   *Parent does:* Put 1 level teaspoon of baking soda in each glass. Put 2 teaspoons of lime juice in each of the three cups. Add no water to cup A, 4 teaspoons to cup B and 12 teaspoons to cup C. Stir each cup once.  
@@ -390,20 +390,20 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   *Child mode:* Pour fast. Start the clock. Measure the foam at 5 seconds. Stop when fizz stops.
   - Note: Do not stir. Foam from baking soda and lime can be small, so look at the side of the glass. If you want to repeat each test twice, do it with fresh mixes. If all three finish together, that is a result too. Write it down and say why you think so. Typical result: glass A foams up high straight away and settles in about 10 to 20 seconds, and glass C foams only a little. The gap in finishing times can be small, so the foam height at 5 seconds is the clearer sign. If the foam is too small to measure, repeat with vinegar in place of lime juice, or double every amount. One child with a parent: the child pours and starts the stopwatch, and the parent measures the foam at 5 seconds. With 2 to 4 children: one pours, one times, one holds the ruler, and swap for each glass.
 - **s4 (5 min)**  
-  *Parent does:* Draw a bar for each glass. Ask your child to say what they thought, what they saw and why. Then explain.  
-  *Parent says:* Draw a bar for each glass. What did you think? What did you see? Why do you think the crowded lime was different?  
-  *Child mode:* Draw a bar for each glass. Say what you thought, saw and why.
+  *Parent does:* Put the three glasses in a row, quickest fizz first. Ask your child to say what they thought, what they saw and why. Then explain.  
+  *Parent says:* Put the glasses in a row, quickest fizz first. What did you think? What did you see? Why do you think the crowded lime was different?  
+  *Child mode:* Put the glasses in a row, quickest first. Say what you thought, saw and why.
   - Note: A strong answer says that the least watery glass fizzed hardest and finished first, and that in the watery glass the acid was spread out, so meetings were rarer. After they say what they saw, explain: more crowded particles meet more often, so the reaction is faster. The total gas is the same in all three, because the amount of acid is the same. If your order is different, check that each glass got the same baking soda and a single pour.
   - Think: The lime juice is the same amount in all three cups. So what changed about how often acid particles meet baking soda particles?
 
 ## Activities
 ### a1 · Stir or Stand: does a spoon hurry the fizz? (18 min)
 - **safety:** Do not drink the water from the test glasses. Keep spare fruit salt away from a younger child who may eat it.
-- **record:** Write the seconds for each glass. Draw three bars, one for the still glass, one for the gentle stir and one for the hard stir.
+- **record:** Write the seconds for each glass. Then put the three glasses in order, quickest first.
 - **s1 (4 min)**  
   *Parent does:* Pour 150 millilitres of room-temperature water into three glasses, labelled still, gentle and hard. Ask your child to guess which will stop fizzing first and which last, and why.  
   *Parent says:* Three glasses, same water, same powder. One stays still, one is stirred gently and one is stirred hard. Which stops fizzing first? Which last? Why do you think so?  
-  *Child mode:* Three glasses. Still, gentle stir, hard stir. Which fizzes out first? Why?
+  *Child mode:* Three glasses: still, gentle stir and hard stir. Make your guess.
   - Ask: Why might stirring change the time? (good: It mixes the powder with the water.; Fresh water reaches the powder.; The bubbles get carried away.)
   - Note: Do not correct the guess. All three glasses must use the same water and the same half teaspoon of powder.
 - **s2 (10 min)**  
@@ -462,12 +462,12 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 ## Projects
 ### p1 · Rust Race: five nails, five conditions (45 min, 4 days)
 - **safety:** A grown-up applies the nail polish or paint, in a place with fresh air and away from any flame, because nail polish catches fire easily. Nails are sharp and small, so keep them away from toddlers. Wash your hands after touching rusty nails, and never touch them if you have a cut.
-- **record:** Score each nail each day from 0 (bright and clean) to 4 (covered in orange-brown rust, with flakes). Draw a line graph with one line for each nail.
-- **schedule:** day 1: Set up the five nails and write down your guess. (25 min); day 2: Look at each nail. Score the rust from 0 to 4. (6 min); day 3: Look again, score again and take a photo or draw each nail. (6 min); day 4: Score a last time. Draw a line graph and say what you found. (8 min)
+- **record:** Score each nail each day from 0 (bright and clean) to 4 (covered in orange-brown rust, with flakes). Then line up the glasses from most rust to least rust. You can also draw a line graph.
+- **schedule:** day 1: Set up the five nails and write down your guess. (25 min); day 2: Look at each nail. Score the rust from 0 to 4. (6 min); day 3: Look again, score again and take a photo or draw each nail. (6 min); day 4: Score a last time. Line up the glasses from most rust to least and say what you found. (8 min)
 - **s1 (25 min) · grown-up needed**  
   *Parent does:* Wash all five nails with a drop of dishwash and a cloth. This removes the oily film. Rinse and dry them. A grown-up paints nail E and lets it dry. Rub a little oil on nail D. Put nail A on a dry tissue in a glass. Stand nails B, C, D and E each in a glass with water that covers half the nail. Add 2 teaspoons of salt to glass C. Write your guess for each glass.  
   *Parent says:* We have five nails, and each one is kept in a different way. A is dry. B is in plain water. C is in salty water. D is oiled and in water. E is painted and in water. Which will rust first? Which will not rust at all? Why do you think so?  
-  *Child mode:* Set up five nails. Guess which rusts first and which not at all. Why?
+  *Child mode:* Set up the five nails. Then make your guess.
   - Ask: Why do you think that nail will rust first? (good: Salt helps rusting.; Water and air both touch it.; It has nothing protecting it.)
   - Note: Put the glasses on a tray in a place where they will not be knocked. Keep the tissue dry in glass A. Use the same amount of water in B, C, D and E. A nail standing in water rusts most near the water line, where it meets both water and air. Nails cost a few rupees, so with 2 to 4 children each child can run a full set of five and compare. One child with a parent: the parent paints and photographs, and the child scores. If nothing rusts even in the salty glass after 3 days, the nail was probably galvanised (zinc coated): try a plain iron one.
 - **s2 (12 min)**  
@@ -477,9 +477,9 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
   - Note: Salty water usually shows orange rust within a day. Plain water takes longer, often two or three days. A dry nail, a well-oiled nail and a fully painted nail may show no rust at all. If a spot of paint chipped, rust may start there. Write what you see, even if it is not what you guessed. Hot or damp weather makes rust faster, and in a humid kitchen even glass A may show a faint mark, so score it honestly. If plain water shows little by day 4, keep looking on days 5 to 7.
   - Wait: Check once a day, for three days
 - **s3 (8 min)**  
-  *Parent does:* On day 4, score the nails for the last time. Draw the line graph. Ask your child to say what they thought, what they saw and why. Then explain.  
-  *Parent says:* Draw a line for each nail. Which line climbs fastest? Which stays flat? What did you think? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a line for each nail. Say what you thought, saw and why.
+  *Parent does:* On day 4, score the nails for the last time. Line up the glasses from most rust to least rust. Ask your child to say what they thought, what they saw and why. Then explain.  
+  *Parent says:* Line up the glasses from most rust to least rust. Which nail rusted most? Which stayed cleanest? What did you think? What did you see? Why do you think it happened?  
+  *Child mode:* Line up the glasses, most rust first. Say what you thought, saw and why.
   - Note: A strong answer says salt speeds up rusting, and oil and paint slow it by keeping the iron from water and air. After they say what they saw, explain: rusting is iron meeting oxygen and water. Salt dissolved in the water helps electric charge move around, so rusting is faster. Oil and paint are barriers that keep the meeting from happening. The Delhi Iron Pillar has a thin skin that is a natural barrier of this kind.
   - Think: Salty water and paint have opposite effects. What is each one doing to the meeting between iron, water and oxygen?
 
@@ -491,9 +491,9 @@ Thatha read it twice, and then tucked the notebook gently into his shirt pocket,
 - **general:** Dip the slices in lime juice for 10 seconds, and shake off the extra.; Dip the slices in lightly salted water, about a quarter teaspoon of salt in a cup of water, for one minute.; Pack the slices tightly together in a box with a lid, and put an ice pack next to the box.
 - **creative:** Put the slices back together into the shape of an apple, and wrap the whole thing in cling film so little air gets to the cut faces.; Dip the slices in a little diluted honey water, a teaspoon of honey in a cup of water.; Keep the whole apple uncut in the tiffin and cut it at lunchtime with a small safe knife. This avoids the problem altogether.
 - **s1 (8 min)**  
-  *Parent does:* Look at the Apple Race results. Ask your child which things slowed the browning. Ask them to choose two designs to test, and to guess which will work better.  
+  *Parent does:* Look at the Apple Race results. If you did not do it, use lime juice, salt water, honey, cling film or an ice pack. Ask your child which things slowed the browning. Ask them to choose two designs to test, and to guess which will work better.  
   *Parent says:* In the Apple Race, which things slowed the browning? Pick two of them, or two of your own ideas. Which will keep the apple pale longest? Why do you think so?  
-  *Child mode:* Which things slowed the browning? Pick two designs. Which is best? Why?
+  *Child mode:* Choose two ways to keep the apple pale. Guess which works better.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* A grown-up cuts the apple into slices. Make three boxes with the same number of slices in each. Box A is plain. Boxes B and C get the two designs. Label the boxes and write down the time.  
   *Parent says:* Make three boxes with the same number of slices. A is plain. B has your first design. C has your second design. Label them and write down the time.  

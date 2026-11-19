@@ -520,7 +520,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a guessing game about the pH scale. Each card shows a liquid, and you guess which rung of the ladder it sits on.",
+   "context": "This is a guessing game about the pH scale. You will learn which liquids are strong acids and which are bases. Each card shows a liquid, and you guess which rung of the ladder it sits on.",
    "setup": [
     {
      "art": "Fifteen paper rungs numbered 0 to 14 laid in a row on a table, with a pile of twenty cards and a few small markers beside them.",
@@ -668,7 +668,7 @@
      "mins": 6,
      "do": "Play the first six cards. The reader shows each front, everyone places a marker, and then the reader shows the back.",
      "say": "Read the front. Everyone puts a marker on the rung they think is right. Then we turn the card and check.",
-     "kid": "Read a card. Put a marker on a rung. Turn the card. Check your guess.",
+     "kid": "Guess which rung the liquid sits on. Then check the back of the card.",
      "ask": [
       {
        "q": "What made you pick that rung?",
@@ -686,7 +686,7 @@
      "mins": 6,
      "do": "Play the next eight cards. Keep a score on paper. After card four, ask the question below.",
      "say": "Keep going. Which liquids so far were closest to 7? Which were the farthest away?",
-     "kid": "Play on. Keep a score. Which liquids are close to 7?",
+     "kid": "Play on. Keep a score.",
      "ask": [
       {
        "q": "Which liquid was the biggest surprise so far, and why?",
@@ -772,8 +772,8 @@
     }
    ],
    "safety": "Vinegar is mild, but keep it away from eyes. Do not taste anything in the glasses. Antacid tablets are medicine, so a grown-up crushes them and puts the rest back in the packet, out of reach of small children. Eggshell can carry germs, so a grown-up boils it first. Mixing a powder into vinegar can foam up, so fill glasses only a third full and work on a tray. Wash your hands afterwards and pour everything down the sink.",
-   "record": "Write the number of scoops each powder needed and what the colour did after two extra scoops. Then draw a bar for each powder.",
-   "context": "In this experiment, you make a glass of pretend stomach acid and race four powders against it. You count the scoops each one needs.",
+   "record": "Write the number of scoops each powder needed and what the colour did after two extra scoops. Then line up beans, one for each scoop, for each powder. You can draw bars instead, or take a photo.",
+   "context": "In this experiment, you make a glass of pretend stomach acid and race four powders against it. You count the scoops each one needs. You will find out which powder beats acid best, like a heartburn medicine.",
    "setup": [
     {
      "art": "Four white powders in four small bowls labelled cooking soda, antacid, eggshell and salt, beside five clear glasses marked A, B, C, D and T.",
@@ -798,7 +798,7 @@
      "mins": 4,
      "do": "Show your child the four powders in four bowls. Read out their names. Write down their guess and their reason.",
      "say": "These are four powders: cooking soda, crushed antacid tablet, eggshell powder and salt. Which one will beat the acid? Why do you think so?",
-     "kid": "Here are four powders. Which one beats the acid? Why do you think so?",
+     "kid": "Look at the four powders. Make your guess.",
      "ask": [
       {
        "q": "Which powder will need the fewest scoops, and why?",
@@ -873,7 +873,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Take the first glass that matched the target. Add two more scoops of the same powder. Look at the colour and write it in the last column.",
+     "do": "Take the first glass that matched the target. Add two more scoops of the same powder. Look at the colour and write it down.",
      "say": "Now we go past the target. Add two more scoops. What colour is it now?",
      "kid": "Add two more scoops to the purple glass. What colour is it now?",
      "think": "Is too much base better than just enough?",
@@ -883,9 +883,9 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "Draw a bar for each powder, showing its scoops. Ask your child to say what they thought, what they saw, and why. Pour everything down the sink.",
+     "do": "For each powder, line up one bean, button or coin for every scoop that powder needed. Ask your child to say what they thought, what they saw, and why. Pour everything down the sink.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw a bar for each powder. Say what you thought, what you saw, and why.",
+     "kid": "Line up one bean for each scoop, for each powder. Say what you thought, what you saw, and why.",
      "think": "A person takes two tablets for heartburn. Another takes ten. Why might ten be worse than two?",
      "parent": "A strong answer names the powder that needed the fewest scoops, says that salt did nothing, and says that extra scoops pushed the colour past purple. After they speak, explain: the powders that worked are bases. A base uses up acid until the mixture is neutral. Past that, more base makes the mixture basic. Scoop counts depend on how fine the powder is, so your numbers may differ from someone else's. That is also a result.",
      "context": "This is the last step of the Antacid Showdown. You draw your results and explain what you found."
@@ -925,7 +925,7 @@
    ],
    "safety": "Food colour stains clothes and hands, so wear an old shirt and wipe up drips. Do not drink anything in the cups. If you use tea, a grown-up pours it and lets it cool first.",
    "record": "Write a number from 5 to 0 for the colour in each cup. Then write the cup number where the colour was last easy to see, and work out how many times weaker it is than cup 0.",
-   "context": "In this experiment, you make a colour ten times weaker again and again. It shows what a ten-times step on the pH scale feels like.",
+   "context": "In this experiment, you make a colour ten times weaker again and again. It shows what a ten-times step on the pH scale feels like. You will find out how fast a colour fades.",
    "setup": [
     {
      "art": "A row of seven clear cups numbered 0 to 6 on a table, with a bottle of dark food colour and a jug of water beside them.",
@@ -950,7 +950,7 @@
      "mins": 4,
      "do": "Show your child the seven cups in a row. Explain that each cup will hold ten times less colour than the one before. Write down their guess and reason.",
      "say": "We will make a colour ten times weaker, again and again. In which cup will you stop seeing it? Why do you think so?",
-     "kid": "Each cup gets ten times less colour. In which cup will you stop seeing it? Why?",
+     "kid": "Look at the seven cups. Each cup gets ten times less colour. Guess where it will vanish.",
      "ask": [
       {
        "q": "In which cup do you think the colour will disappear, and why?",
@@ -1056,7 +1056,7 @@
    ],
    "safety": "Do not drink the mixture, because it is a test. Fruit salt fizzes and can foam up, so use a tall glass. Wash your hands afterwards.",
    "record": "Write the colour of the cabbage water before, after the fizz, and after each teaspoon of vinegar. Write how many teaspoons of vinegar it took to bring the colour back to the purple of the plain cabbage water.",
-   "context": "In this activity, you test fruit salt, a common antacid, with cabbage water. Fruit salt has an acid and a base in the same packet.",
+   "context": "In this activity, you test fruit salt, a common antacid, with cabbage water. Fruit salt has an acid and a base in the same packet. You will find out which one wins when it meets water.",
    "setup": [
     {
      "art": "A spoonful of white fruit salt held above a glass of purple cabbage water, with a packet beside it.",
@@ -1077,7 +1077,7 @@
      "mins": 4,
      "do": "Show your child the fruit salt and the glass of cabbage water. Write down their guess and reason.",
      "say": "This is fruit salt. It fizzes in water, and people drink it for heartburn. Is it an acid or a base? Why do you think so?",
-     "kid": "Is fruit salt an acid or a base? Why do you think so?",
+     "kid": "Look at the fruit salt. Make your guess.",
      "ask": [
       {
        "q": "Do you think fruit salt is an acid or a base, and why?",
@@ -1096,7 +1096,7 @@
      "mins": 4,
      "do": "Pour half a cup of cabbage water into a glass. Stir in a level teaspoon of fruit salt. Wait until the fizz stops.",
      "say": "Watch the fizz. Where do you think the bubbles come from? When it stops, what colour is the water?",
-     "kid": "Stir in the fruit salt. Watch the fizz. What colour is it when the fizz stops?",
+     "kid": "Stir in the fruit salt. Watch the fizz until it stops.",
      "ask": [
       {
        "q": "What colour is the water now, compared with the plain cabbage water?",
@@ -1135,7 +1135,7 @@
      "mins": 3,
      "do": "Ask your child why the dry powder did not fizz in the packet. Then ask what the water did.",
      "say": "In the packet, the acid and the base are both dry and just sit there. Why do they fizz in water? What do you think the water does?",
-     "kid": "Why does the powder fizz in water and not in the packet?",
+     "kid": "Think about it. What does the water do to the powder?",
      "think": "What makes an antacid tablet start working once it is in the stomach?",
      "parent": "A good answer says that water lets the acid and the base particles move and meet. Without water, they stay apart. In the stomach, the tablet's base meets the acid in the same way.",
      "context": "This is the last step of the Eno Mystery. You think about why water makes the powder fizz."
@@ -1164,7 +1164,7 @@
    ],
    "safety": "Do not taste any of the liquids. Do not touch the soapy water to your eyes. Wash your hands afterwards.",
    "record": "Write each liquid and the number from the strip. Then write the liquids in order, from the most acidic to the most basic.",
-   "context": "In this activity, you use pH paper to find the real numbers for common kitchen liquids. You compare them with your guess.",
+   "context": "In this activity, you use pH paper to find the real numbers for common kitchen liquids. You compare them with your guess. You will find out which liquid is really the most sour.",
    "setup": [
     {
      "art": "Eight cups of different liquids in a row, each with a paper label, and a roll of pH paper beside them.",
@@ -1280,7 +1280,7 @@
    ],
    "safety": "Only read the labels. Do not open cleaners or medicines. Never mix household cleaners. A grown-up handles cleaning products, because some mixtures make poisonous gas.",
    "record": "Before you read any label, guess which two products hold a base. Then write each ingredient you find in the column where it belongs, and circle the clue word that told you.",
-   "context": "In this activity, you read the labels on things at home and spot which ingredients are acids and which are bases.",
+   "context": "In this activity, you read the labels on things at home and spot which ingredients are acids and which are bases. You will find out which things at home are made to work against acid.",
    "setup": [
     {
      "art": "A table with an antacid packet, a toothpaste tube, a soap bar, a cooking soda tub and a tamarind packet laid out in a row.",
@@ -1347,7 +1347,7 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask your child why a toothpaste might hold a base.",
-     "say": "Why do you think a toothpaste holds a base? Think about what the bacteria on your teeth make.",
+     "say": "Why do you think a toothpaste holds a base? Bacteria on your teeth make acid from sugar. What could a base do about that?",
      "kid": "Why might toothpaste hold a base?",
      "think": "Bacteria on your teeth make acid, and toothpaste holds a base. What two things does brushing do?",
      "parent": "Bacteria on teeth make acid from sugar. A base in toothpaste helps neutralise it. Brushing also removes the bacteria and the leftovers they eat.",
@@ -1390,8 +1390,8 @@
      "what": "Test the tap and filtered water again, compare with yesterday, and write what you notice."
     }
    ],
-   "record": "Write the pH of each sample on day 1, and again for the tap and filtered water on day 2. Draw a bar for each sample.",
-   "context": "In this project, you test the pH of water from different places over two days. You find out which samples are acid, neutral or basic.",
+   "record": "Write the pH of each sample on day 1, and again for the tap and filtered water on day 2. Line up beans for each sample, or draw bars, or take a photo.",
+   "context": "In this project, you test the pH of water from different places over two days. You will find out whether all water is really the same. You find out which samples are acid, neutral or basic.",
    "setup": [
     {
      "art": "Six labelled cups on a tray: tap water, filtered water, bottled water, coconut water, soil water and rainwater.",
@@ -1412,7 +1412,7 @@
      "mins": 8,
      "do": "Fill the cups with the samples and label them. Ask your child to guess the pH of each and to give a reason. Write the guesses down.",
      "say": "Here are six kinds of water. Which will be the most acidic, and which the most basic? Why do you think so?",
-     "kid": "Guess the pH of each water. Which is the most acid? Why do you think so?",
+     "kid": "Look at the six cups. Guess a pH number for each.",
      "ask": [
       {
        "q": "Which water do you think will be the most acidic, and why?",
@@ -1449,8 +1449,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Pour fresh tap water and filtered water into two wide dishes and leave them uncovered on a window ledge overnight. Pour a third dish of filtered water and cover it with a plate. Do not dip strips into these dishes today. Ask your child to guess how their pH will change.",
-     "say": "We will leave two dishes of water open overnight. Air has carbon dioxide in it. Do you think the pH of the water will go up, go down, or stay the same? Why?",
-     "kid": "Leave two dishes of water open overnight. Will the pH change? Why?",
+     "say": "We will leave two dishes open and one covered overnight. Air has carbon dioxide in it, which can make water a little acidic. Will the pH go up, go down, or stay the same? Why?",
+     "kid": "Leave two dishes open and one covered overnight. Will the pH change?",
      "parent": "Carbon dioxide from the air dissolves in water and makes it very slightly more acidic. The change is small, and a strip may not show it. Both results are real. The covered dish is the control: it shows what happens when the air cannot reach the water. Filtered or RO water has little else in it, so it is the most likely to change.",
      "context": "In this step you leave two dishes of water open overnight to see whether the air changes their pH."
     },
@@ -1488,9 +1488,9 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "Draw a bar for each sample. Ask your child to say what they thought, what they saw, and why. Pour everything down the sink.",
+     "do": "Line up one bean, button or coin for each pH number, for each sample. Ask your child to say what they thought, what they saw, and why. Pour everything down the sink.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw a bar for each water. Say what you thought, what you saw, and why.",
+     "kid": "Line up beans to show each water's pH. Say what you thought, what you saw, and why.",
      "think": "Why might a tea garden need acidic soil, while a vegetable bed does not?",
      "context": "This is the last step of the Water Diary. You draw your results and explain them."
     }
@@ -1528,7 +1528,7 @@
     "Try a thick gel without soda next to a thick gel with soda, to find out whether the base makes a difference."
    ],
    "your_turn": "Test three coats and one bare shell in vinegar. Time how long it takes before the first bubble appears, and after ten minutes write how fizzy each shell is: none, a few, or lots. Pick the best coat, and say why you think it worked.",
-   "context": "This is a design challenge about how the stomach protects itself. You make a coat that keeps acid off a shell, and test it in vinegar.",
+   "context": "This is a design challenge about how the stomach protects itself. You make a coat that keeps acid off a shell, and test it in vinegar. You will find out which coat from your kitchen works best.",
    "setup": [
     {
      "art": "Four pieces of eggshell on a tray: one bare, one with a smear of petroleum jelly, one with a layer of clear gel, and one with gel and a pinch of soda.",
@@ -1549,7 +1549,7 @@
      "mins": 6,
      "do": "Wash and dry four pieces of eggshell of the same size. Ask your child to guess which coat will work best, and why.",
      "say": "The stomach wall is coated so acid cannot reach it. Which coat do you think will keep the vinegar off best? Why?",
-     "kid": "Which coat keeps the acid off best? Why do you think so?",
+     "kid": "Look at the coats you can use. Guess which one will work best.",
      "ask": [
       {
        "q": "Which coat will work best, and why do you think so?",
@@ -1567,7 +1567,7 @@
      "id": "s2",
      "mins": 12,
      "do": "Coat three shells in three different ways. Leave one shell bare. Let the coats set for a few minutes. A grown-up does any melting of wax.",
-     "say": "Coat three shells in three different ways. Leave one bare. This bare one is our control.",
+     "say": "Coat three shells in three different ways. Leave one bare. This bare one is our control: the shell with no coat, so we can compare.",
      "kid": "Coat three shells in different ways. Leave one bare.",
      "adult": true,
      "parent": "Wax is hot when melted. A grown-up dips the shell and lets it cool. For the gel with soda, mix one pinch of soda into a spoonful of gel. Keep every coat thin.",

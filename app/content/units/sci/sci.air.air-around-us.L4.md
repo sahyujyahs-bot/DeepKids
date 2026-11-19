@@ -224,12 +224,12 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
 - **predict:** Before you start, guess. With the cap on tight, will the water keep running out of the hole, or stop? Why do you think so?
 - **fair test:** The same bottle, the same hole and the same amount of water are used in every test. Only one thing changes at a time: the cap on or off, or a second hole. You count the seconds the water flows in the same way each time, and stop counting at 30. The test with the cap off is the control. It shows what the hole does when nothing else is changed.
 - **safety:** A grown-up makes the holes with the pointed tool, with the bottle on a folded towel, and pushes away from their hands. Do the test over a basin or a sink. Wipe up spilt water at once so nobody slips.
-- **record:** Fill in the table for each test. Then draw the bottle with the hole, and draw arrows for the air at the hole and at the top of the water. Say which air is pushing in which place.
+- **record:** Fill in the table for each test. Then draw the bottle with the hole, and arrows for the air at the hole and at the top of the water. Or point at the real bottle and tell which air pushes where.
 - **results table:** Test | Cap | Second hole high up | Did the water keep flowing? | Seconds of flow (stop at 30)
 - **s1 (5 min)**  
   *Parent does:* Show your child the bottle, the needle and the basin. Say that you will make a hole in the bottle. Write down their guess and their reason.  
   *Parent says:* We will put a small hole near the bottom of this bottle and fill it with water. If I screw the cap on tight and take my finger off the hole, what will the water do? Why do you think so?  
-  *Child mode:* The bottle has a hole near the bottom and the cap is on tight. Will the water run out? Why?
+  *Child mode:* Look at the bottle. Think of your guess and your reason.
   - Ask: What do you think will happen with the cap on, and why? (good: It will run out because it is heavy.; It will stop because the cap is shut.; It will dribble and then stop.)
   - Note: Do not correct the guess. Most people say it will run out. A guess with a reason is a good start. Write the guess at the top of the table. One child: do all the jobs with your grown-up. Two to four children: share one bottle in turns as holder (finger on the hole), timer and recorder, and swap after each test. With four children, make a second bottle with the same hole and compare the two.
 - **s2 (5 min) · grown-up needed**  
@@ -240,31 +240,31 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
 - **s3 (8 min)**  
   *Parent does:* Hold the bottle over the basin. Cover the hole with tape or a finger. Fill the bottle with water to three quarters full. Screw the cap on very tight. Lift your finger and count the seconds. Do this three times, and write down the longest and the shortest time the water ran.  
   *Parent says:* Finger on the hole. Fill the bottle three quarters full. Screw the cap on very tight. Now lift your finger. Count the seconds the water keeps coming out. Stop at thirty.  
-  *Child mode:* Finger on the hole. Cap on tight. Lift your finger. Count the seconds.
+  *Child mode:* Lift your finger and count the seconds out loud.
   - Ask: What did the water do? (good: It came out for a moment and then stopped.; It dribbled and then stopped.; It stopped by itself.)
   - Note: You will usually see a few drops, or a short squirt lasting one or two seconds, and then nothing. If the water keeps running, the cap is not tight or the hole is too wide. Screw the cap harder first. A very thin bottle may squash a little and let a bit more out. That is fine, so write down what you see. If the water glugs out, the hole is too wide.
   - Check: The water stopped running with the cap on. What changed inside the bottle? → **The air at the top had more room, so it pushed less on the water**
 - **s4 (7 min)**  
   *Parent does:* Hold the bottle over the basin again, with the hole covered by a finger. Take the cap off. Lift your finger and count the seconds. After ten seconds, screw the cap back on while the water is still running.  
-  *Parent says:* Same bottle. This time the cap is off. Lift your finger and count. After ten seconds, quickly screw the cap back on. What happens to the water?  
+  *Parent says:* Same bottle. This time the cap is off. Lift your finger and count. After ten seconds, quickly screw the cap back on.  
   *Child mode:* Cap off. Lift your finger. Count. After ten seconds, screw the cap on.
   - Ask: What did the water do with the cap off, and then when you put the cap back on? (good: It kept running with the cap off.; It stopped when the cap went back on.; The cap made it stop.)
   - Note: With the cap off, the water should keep running until the level drops to the hole. With a thin hole this takes several minutes, so do not wait for it: stop counting at 30. With the cap screwed back on, the flow should stop in a second or two.
 - **s5 (5 min)**  
   *Parent does:* Cover the hole with tape or a finger and top up the bottle to three quarters full. Screw the cap on tight. Take your finger off the hole. Gently squeeze the sides of the bottle, then let go.  
   *Parent says:* Fill it up again, cap on tight. Hold your finger on the hole. Lift it, then squeeze the sides gently. What does the water do? Now let go. Look at the hole.  
-  *Child mode:* Cap on tight. Lift your finger. Squeeze the bottle. Let go. Watch the hole.
+  *Child mode:* Squeeze the sides gently, then let go. Watch the hole.
   - Ask: What did you see at the hole when you let go of the squeezed bottle? (good: Bubbles of air went in.; The water stopped squirting and a bubble went in.; Air went into the bottle.)
   - Note: When you squeeze, the water squirts out. When you let go, the bottle springs back, and a bubble of air is pushed in through the hole. It is the air outside pushing in.
 - **s6 (5 min) · grown-up needed**  
   *Parent does:* A grown-up makes a second hole high on the bottle, 2 centimetres above the water line. Cap on tight. Lift your finger from the bottom hole and count the seconds.  
   *Parent says:* Now a second hole, high up, above the water. Cap on tight, and finger off the bottom hole. Will the water stop this time? Why do you think so?  
-  *Child mode:* A grown-up makes a second hole, high up. Put the cap on and take your finger off the bottom hole. Count. What happens?
-  - Ask: The cap is on tight, but the water keeps running. Why? (good: Air comes in through the top hole.; The top hole lets air in.; The air on top is pushing again.)
+  *Child mode:* Cap on tight. Take your finger off the bottom hole and count. Does the water stop?
+  - Ask: The cap was on tight. What did the water do this time, and why? (good: Air comes in through the top hole.; The top hole lets air in.; The air on top is pushing again.)
   - Note: With the second hole open, the water should run steadily, as it did with the cap off. Air comes in through the top hole and pushes on the water at the top. The second hole must be above the water line. If it is below the water, water will leak out of it.
 - **s7 (5 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw and why. Fill in the table together. Then empty the bottle and dry everything.  
-  *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? What did the air have to do with it?  
+  *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
   *Child mode:* Say what you thought. Say what you saw. Say why. Fill in your table.
   - Ask: What does the bottle with a second hole high up show about air? (good: Air is pushing on the water.; Air needs to get in at the top for the water to run.; Air pushes on the water, and the water pushes back.)
   - Note: A strong answer says that the air pushed on the water at the hole, and that the water stopped when the air on top pushed less. After they have told you what they saw, explain: water running out gave the air at the top more room, so it pushed less. Soon the air outside, pushing in at the hole, was as strong as the push of the water and the air inside. Air at the top of the water is needed for water to keep running. A grown-up can show that a tin of juice with one hole runs in jerks, and with two holes runs smoothly.
@@ -274,12 +274,12 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
 - **predict:** Before you start, guess. After cooling, what will each of the three bottles look like? Why do you think so?
 - **fair test:** Three bottles of the same kind are used. Bottle A gets hot water, a cap and then cold water. Bottle B has no hot water, but gets a cap and cold water. This is a control for the cold water. Bottle C gets hot water and cold water but no cap. This is a control for the closed cap. Everything else is the same. The only difference is whether the air inside was made warmer and then closed in.
 - **safety:** A grown-up pours the hot water and handles the hot bottles with a thick cloth. The water must not boil in the bottle. Do not use glass bottles. Keep small children back from the kettle and the steam. Wipe up spills so nobody slips.
-- **record:** Fill in the table. Draw the three bottles at the end. Draw small arrows to show which air pushes harder on the walls of bottle A, inside or outside.
+- **record:** Fill in the table. Draw the three bottles at the end, or take a photo. Draw small arrows to show which air pushes harder on the walls of bottle A, inside or outside, or tell your grown-up.
 - **results table:** Bottle | What was done | Did it squash? (not at all, a little, a lot) | Seconds until it began to squash
 - **s1 (5 min)**  
   *Parent does:* Show your child the three bottles and say which is A, B and C. Explain what you will do to each one. Write down their guess and their reason.  
-  *Parent says:* We will do something different to each bottle. A gets hot water, a cap and cold water. B gets only a cap and cold water. C gets hot water and cold water, but no cap. What will each bottle look like at the end? Why?  
-  *Child mode:* There are three bottles. A gets hot water, a cap and cold water. B gets a cap and cold water. C gets hot water and cold water, but no cap. What happens to each? Why?
+  *Parent says:* We will do something different to each bottle. A gets hot water, a cap and cold water. B gets only a cap and cold water. C gets hot water and cold water, but no cap.  
+  *Child mode:* Look at the three bottles and remember which is A, B and C.
   - Ask: Which bottle do you think will change, and why? (good: A, because the hot air turns to something else.; A, because it was hot and closed.; All of them, because the cold will crush them.)
   - Note: Do not correct the guess. Write the guesses at the top of the table. One child: do all three bottles with your grown-up. Two to four children: each child looks after one bottle (A, B or C) and one is the recorder. A grown-up does all the hot water.
 - **s2 (8 min) · grown-up needed**  
@@ -289,14 +289,14 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
   - Note: Move quickly between pouring out and capping. The steam fills the bottle and pushes some air out. If the bottle goes soft or shrinks while you swirl, the water was too hot. Use water that has cooled for a few more minutes.
 - **s3 (4 min)**  
   *Parent does:* Put the cap on bottle B too, without any hot water. Stand the three bottles in the empty bowl. Pour one mug of cold water over each bottle, and then more mugs, the same number on each. Aim at the sides, not into the mouth of C. Start the clock.  
-  *Parent says:* Cap on B. Stand all three bottles in the bowl. Pour the same amount of cold water over each. Start the clock. Watch each bottle. Which one changes first?  
+  *Parent says:* Cap on B. Stand all three bottles in the bowl. Pour the same amount of cold water over each. Start the clock. Watch each bottle.  
   *Child mode:* Cap on B. Pour cold water over all three. Watch. Which changes?
   - Ask: What do you see happening to bottle A? (good: It is squashing.; It is crumpling by itself.; It is making a crackling noise.)
   - Note: Bottle A should usually begin to crumple within about 5 to 60 seconds, often with a crackling noise. Pour the cold water over the top and shoulders of the bottle. If nothing happens after a minute, use colder water or ice, a thinner bottle or more hot water, and check that the cap is tight. Warm tap water in summer is the usual reason for a slow result.
 - **s4 (5 min)**  
   *Parent does:* Watch for 2 minutes. Write down what happens to each bottle in the table. Then ask your child which air is pushing harder on bottle A, and why.  
-  *Parent says:* Look at all three bottles. Which squashed, and which did not? Which air is pushing harder on the walls of bottle A, the air inside or the air outside? How can you tell?  
-  *Child mode:* Look at each bottle. Which one squashed? Which air pushes harder?
+  *Parent says:* Look at all three bottles. Which air is pushing harder on the walls of bottle A, the air inside or the air outside? How can you tell?  
+  *Child mode:* Look closely at each bottle. Does any look squashed?
   - Check: Bottle A squashed, but bottle C did not. What is the main difference between them? → **Bottle A was closed, so the air inside could not be replaced as it cooled**
 - **s5 (8 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw and why. Then pour the cold water away. Open bottle A's cap and listen. Dry everything.  
@@ -308,23 +308,23 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
 ## Activities
 ### a1 · The Card on the Glass: what holds it up? (20 min)
 - **safety:** Do this over a basin or a sink, because the water may fall.
-- **record:** Draw the glass with the card. Draw an arrow for what pushes the card up and another for what pushes it down. Make the arrow longer for the bigger push.
+- **record:** Draw the glass with the card. Draw an arrow for what pushes the card up and another for what pushes it down. Make the arrow longer for the bigger push. Or point at the real glass and tell your grown-up which push is bigger.
 - **s1 (3 min)**  
   *Parent does:* Show your child the glass, the card and the basin. Ask for a guess and a reason before you start.  
-  *Parent says:* I will fill this glass, put the card on top, and turn it upside down. What will happen when I take my hand away? Why do you think so?  
-  *Child mode:* A full glass has a card on top and is turned upside down. What will happen? Why?
+  *Parent says:* I will fill this glass, put the card on top, and turn it upside down.  
+  *Child mode:* Look at the glass, the card and the basin. Make your guess.
   - Ask: What do you think will happen to the card, and why? (good: It will fall off with the water.; The water will push it off.; It will stay on.)
   - Note: Do not correct the guess. Most people think the card and the water will fall. One child: do it with your grown-up. Two to four children: give each child a glass and a card, and take turns being the one who turns the glass while the others watch and the recorder draws.
 - **s2 (7 min)**  
   *Parent does:* Over the basin, fill the glass to the very top. Slide the card across the rim, with no air left under it. Press the card flat. Hold the glass and card together and turn them over. Take your hand away.  
-  *Parent says:* Fill the glass until it almost spills. Slide the card over the top, so no air bubble is left. Hold the card and turn the glass over. Now take your hand away slowly. What happens?  
+  *Parent says:* Fill the glass until it almost spills. Slide the card over the top, so no air bubble is left. Hold the card and turn the glass over. Now take your hand away slowly.  
   *Child mode:* Fill the glass to the top. Slide the card on. Turn it over. Take your hand away.
   - Ask: What happened to the card and the water? What do you think is holding the card? (good: The card stayed on and the water stayed in.; Something is pushing it up.; The air is holding it.)
   - Note: If the card falls, there was an air bubble or the card was not flat. Refill to the very top and try again. A paper card gets soggy after a minute, so be quick. A plastic card lasts longer.
 - **s3 (5 min)**  
   *Parent does:* Slowly tilt the glass over the basin until it is on its side. Look at the card. Then ask your child what they think is holding it.  
-  *Parent says:* Now tilt the glass slowly onto its side. Is the card still holding? What does that tell us about the push that holds it? Does it push only up?  
-  *Child mode:* Tilt the glass. Does the card still hold? What does that tell you?
+  *Parent says:* Now tilt the glass slowly onto its side. Is the card still holding?  
+  *Child mode:* Tilt the glass slowly. Watch the card.
   - Note: Do not explain the push yet. Ask them what they think. You will come back to this in the Bottle with a Hole. After that experiment, ask them to explain the card on the glass again.
   - Check: The card still held when the glass was on its side. What does this show? → **Air pushes on the card from every direction, not only up**
   - Think: The glass is on its side and the card still holds. In which direction is the air pushing on the card?
@@ -336,11 +336,11 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
   - Think: What does the air bubble inside do to the push on the card?
 ### a2 · The Straw with a Hole: why it will not work (20 min)
 - **safety:** A grown-up makes the holes, with the straw laid on a folded towel and the needle pushed away from fingers. Do not share straws. Use a clean straw for each person.
-- **record:** Write the name of each straw and whether you could drink. Draw a straw in a glass, and draw arrows for the air pushing on the drink in the glass and on the drink inside the straw.
+- **record:** Write the name of each straw and whether you could drink. Draw a straw in a glass, and draw arrows for the air pushing on the drink in the glass and on the drink inside the straw. Or tell your grown-up where the air pushes.
 - **s1 (3 min)**  
   *Parent does:* Show your child the three straws. Say that you will make a hole in two of them. Ask for a guess and a reason.  
-  *Parent says:* One straw has no hole. One will have a hole near the top, and one near the bottom. Which straws can you drink through? Why do you think so?  
-  *Child mode:* There are three straws. Two have a hole. Which can you drink through? Why?
+  *Parent says:* One straw has no hole. One will have a hole near the top, and one near the bottom.  
+  *Child mode:* Look at the three straws. Make your guess.
   - Ask: Which straws will work, and why? (good: The plain one, because it has no hole.; All of them, because the straws are still straws.; None of the straws with a hole.)
   - Note: Do not correct the guess. Write it down. One child: do it with your grown-up. Two to four children: each child gets their own three straws marked with their name, and one glass of water or juice is shared by pouring a little into a cup for each.
 - **s2 (5 min) · grown-up needed**  
@@ -350,7 +350,7 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
   - Note: A hole about as wide as a matchstick is easy to make with a sewing needle if you twist it. Mark T and B with a pen.
 - **s3 (8 min)**  
   *Parent does:* Sip from the glass with the plain straw. Then try straw T, and then straw B. Write down which straws you could drink through. Then cover the hole in straw T with a finger and sip again. Last, lift straw B slowly up the glass until the hole comes above the juice, and sip as you lift.  
-  *Parent says:* Sip with the plain straw first. Now straw T. Now straw B. Which ones worked? Last, put a finger over the hole in T and sip again. What changes?  
+  *Parent says:* Sip with the plain straw first. Now straw T. Now straw B. Last, put a finger over the hole in T and sip again.  
   *Child mode:* Sip with each straw. Which work? Cover the hole in T. Sip again.
   - Ask: What happened with straw T, and what happened when you covered the hole? (good: Nothing came up, and then it worked.; It stopped working with the hole open.; The finger made it work.)
   - Note: Straw T should be hard or impossible to drink with, and the plain straw should work. Straw B, with the hole low down, usually works, because the hole is under the juice and no air gets in. If the juice leaks, hold the straw deeper in the glass. If straw T works a little, the hole may be too small, so make it a little wider. Straw B should stop working as soon as its hole comes out above the juice, and that shows that any hole above the juice lets air in.
@@ -363,11 +363,11 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
   - Think: You sipped just as hard through straw T, the straw with a hole near the top. Why did no juice come up?
 ### a3 · The Suction Hook: how much can the air hold? (30 min)
 - **safety:** Fix the hook no higher than your waist, wear slippers or shoes, and stand to the side, because the bucket may fall. Do not go above 3 litres of water in the bucket. Put a towel on the floor, and do this in a bathroom or kitchen where spills do not matter.
-- **record:** Write the number of litres the hook held before it fell. Measure across the cup of the hook. Draw the hook on the tile with arrows for the air pushing it flat.
+- **record:** Write the number of litres the hook held before it fell. Measure across the cup of the hook. Draw the hook on the tile with arrows for the air pushing it flat, or tell your grown-up where the air pushes.
 - **s1 (5 min)**  
   *Parent does:* Show your child the hook, the tile and the bucket. Ask for a guess and a reason about how many litres it can hold.  
-  *Parent says:* This rubber hook will stick to the tile. How many litres of water in this bucket do you think it can hold before it falls? Why do you think so?  
-  *Child mode:* A suction hook is stuck on a tile. How many litres of water can it hold? Why?
+  *Parent says:* This rubber hook will stick to the tile. We will hang this bucket on it and add water.  
+  *Child mode:* Look at the hook, the tile and the bucket.
   - Ask: How many litres do you think it can hold, and why? (good: Not many, because it is only rubber.; A lot, because it sticks hard.; It depends on how well it is pressed on.)
   - Note: One litre of water has a mass of 1 kilogram. Write the guess in litres. Do not correct it. One child: do it with your grown-up. Two to four children: one pours, one watches the hook, one writes the numbers, and swap after each round.
 - **s2 (5 min)**  
@@ -377,28 +377,28 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
   - Note: If the hook slides off, the tile may be rough or dusty. Wipe the tile, wet the rim again and use a smoother place, such as a mirror or a glass door.
 - **s3 (12 min)**  
   *Parent does:* Pour in one litre of water. Wait 10 seconds. Pour in another litre. Keep going up to 3 litres, or until the hook falls. Write the number of litres each time. Then press the hook onto a rough or painted wall. Guess how many litres it will hold there, and pour again. Compare the tile and the wall.  
-  *Parent says:* Pour in one litre. Wait ten seconds. Is it still holding? Pour in another. Keep going, and write down how many litres it holds. Stop at three litres.  
+  *Parent says:* Pour in one litre. Wait ten seconds. Is it still holding? Pour in another. Keep going, and write down how many litres it holds. Stop at three litres. Then press the hook on the rough wall and try again. Does it hold as much?  
   *Child mode:* Add one litre. Wait. Is it holding? Add another. Stop at three.
   - Ask: What do you think is holding the hook up? (good: The air is pushing it onto the tile.; The rubber is sticky.; There is no air under the cup.)
   - Note: Cheap hooks typically hold about 0.5 to 2 kilograms for a short time, and some hold more. The bucket itself adds a little weight. The hook may slowly slide down over a minute or two. That is fine. Write the highest number of litres it held for ten seconds. On a rough wall the hook usually holds much less or not at all, because air leaks in under the rim.
 - **s4 (8 min)**  
   *Parent does:* Measure across the hook's cup in centimetres. Ask your child to work out the area of the circle on the tile. Use half the width times half the width times three. Then work out the push of the air.  
-  *Parent says:* Measure across the cup. Half of that is the radius. Multiply the radius by itself, and then by three. That is the area in square centimetres. About one kilogram of air pushes on each square centimetre. How big is the push?  
+  *Parent says:* Measure across the cup. Half of that is the radius. Multiply the radius by itself, and then by three. That is the area in square centimetres. About one kilogram of air pushes on each square centimetre. So multiply the area by one kilogram. How big is the push?  
   *Child mode:* Measure the cup. Work out its area. Air pushes with 1 kilogram on each square centimetre.
   - Note: A cup 4 centimetres wide has a radius of 2. 2 times 2 times 3 is about 12 square centimetres. That is a possible push of about 12 kilograms. Real hooks hold much less, because some air gets under the rim and the rubber bends. The number from the sum is the most a perfect hook could hold.
   - Think: The sum gives a very big number. The hook held far less. Why?
 ### a4 · Hill Station Bottle: if you go up a hill, or fly (15 min)
 - **safety:** Do this only on a trip you are making anyway. Do not go anywhere unsafe for it.
-- **record:** Draw the bottle and the packet at the bottom, at the top and back at the bottom. Write how your ears felt on the way.
+- **record:** Take a photo of the bottle and the packet at the bottom, at the top and back at the bottom, or draw them. Write how your ears felt on the way.
 - **s1 (4 min)**  
   *Parent does:* At the bottom of the hill, close the empty bottle tightly and look at the sealed packet of chips. Ask your child to guess what both will look like at the top, and why. Measure how thick the packet is with a ruler. Measure round the middle of the bottle with the string.  
-  *Parent says:* We are going up the hill. This bottle is closed, and so is the packet. What will they look like at the top? Why do you think so?  
-  *Child mode:* The bottle is closed at the bottom of the hill, and the packet is sealed. What changes at the top? Why?
+  *Parent says:* We are going up the hill. This bottle is closed, and so is the packet.   
+  *Child mode:* Look at the closed bottle and the sealed packet. Make your guess.
   - Ask: What do you think will happen to the packet and the bottle at the top, and why? (good: The packet will puff up because the air is thinner.; They will stay the same.; The bottle will swell.)
   - Note: Do not correct the guess. Write it down before you set off. One child: do it with your grown-up. Two to four children: one looks after the bottle, one the packet, one the ruler and string.
 - **s2 (5 min)**  
   *Parent does:* At the top, look at the packet and the bottle. Feel your ears. Open the cap and listen, then close it again. Measure the packet and the string round the bottle again.  
-  *Parent says:* We are at the top. Look at the packet. Look at the bottle. Did your ears pop on the way? Open the cap and listen. What happens?  
+  *Parent says:* We are at the top. Look at the packet. Look at the bottle. Did your ears pop on the way? Open the cap and listen.  
   *Child mode:* At the top, look at the packet and the bottle. Open the cap of the bottle and listen.
   - Ask: What did you see and hear at the top? (good: The packet puffed up.; The bottle was a bit swollen and let out a hiss.; My ears popped.)
   - Note: At 2,000 metres the air pushes about one fifth less than at sea level, so a sealed packet typically puffs up by a few millimetres, which you can see and measure. The bottle may swell slightly. When you open the cap at the top, you may hear air hiss out. That is the air that was shut in at the bottom.
@@ -412,12 +412,12 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
 ## Projects
 ### p1 · A Jar Barometer: watch the air's push for a week (60 min, 7 days)
 - **safety:** A grown-up cuts the balloon. Keep the jar away from the edge of a shelf.
-- **record:** Draw a table with the day, where the straw points in centimetres on the card, and the weather. At the end, draw a line graph of the marks.
+- **record:** Draw a table with the day, where the straw points in centimetres on the card, and the weather. At the end, draw a line graph of the marks, or tell your grown-up when the tip rose and when it fell.
 - **schedule:** day 1: Make the barometer. Stretch the balloon over the jar, tape on the straw, and put it in a steady place. (25 min); day 2: Mark where the straw points. Look at the sky. Write what the weather is. (5 min); day 3: Mark the straw again and write the weather. (5 min); day 4: Mark the straw and write the weather. (5 min); day 5: Mark the straw and write the weather. (5 min); day 6: Mark the straw and write the weather. (5 min); day 7: Look at all the marks. Check them against the weather. Did the straw tip go down before rain? (10 min)
 - **s1 (8 min)**  
   *Parent does:* Ask your child to guess what the straw will do over the week and why. Show them the jar, the balloon and the straw.  
-  *Parent says:* We are going to build a machine that feels the air's push. If the air pushes harder one day and less the next, what do you think the straw will do? Why do you think so?  
-  *Child mode:* You will make a barometer from a jar, a balloon and a straw. Will the straw move over a week? Why?
+  *Parent says:* We are going to build a machine that feels the air's push. If the air pushes harder one day and less the next, the straw may move.  
+  *Child mode:* A barometer shows how hard the air pushes. You will make one from a jar, a balloon and a straw.
   - Ask: What do you think will make the straw move? (good: The air pushing on the balloon.; The weather.; The air inside the jar pushing out.)
   - Note: The jar traps a fixed amount of air. When the air outside pushes harder, the balloon is pushed in and the straw tip goes up. When the push outside is lower, the balloon bulges out and the straw tip goes down. Warmth also moves the straw, because it makes the air in the jar push more. So keep the jar out of the sun and away from the fan. One child: do it with your grown-up. Two to four children: build one jar together and take turns on the daily mark, or build two jars and compare them.
 - **s2 (17 min) · grown-up needed**  
@@ -426,7 +426,7 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
   *Child mode:* Stretch the balloon over the jar. Tape on the straw. Seal it well.
   - Note: Make the sheet as tight as a drum. Close the jar on a day when the weather is steady, if you can. Stand the card behind the straw tip, and use a ruler to mark a scale. Put a small piece of tape on the card to mark the first reading.
 - **s3 (10 min)**  
-  *Parent does:* Each day at the same time, mark where the straw tip points on the card. Write the weather. On the last day, compare the marks with the weather and, if you can, with the pressure number in a weather app.  
+  *Parent does:* Stand the card upright behind the straw tip, in the same place every day. Each day at the same time, mark where the straw tip points on the card. Write the weather. On the last day, compare the marks with the weather and, if you can, with the pressure number in a weather app.  
   *Parent says:* Every day, at the same time, mark the tip of the straw. Write down the weather. After a week, look at all the marks. When did the tip rise? When did it fall? What was the weather then?  
   *Child mode:* Mark the straw every day. Write the weather. After a week, compare.
   - Note: The movements are small, typically a few millimetres, and heat moves them too. If the tip goes up every afternoon and down every night, that is warmth, not weather. That is why we keep it in a steady place and read it at the same time. A weather app shows pressure in hectopascals (sea-level pressure), and a normal day is about 1,000 to 1,020. A fall over a day or two often goes with clouds or a storm. A single week may not show a clear pattern. Say so honestly.
@@ -441,8 +441,8 @@ That night, at home, Selvi found a straw in the kitchen and poked it with her mo
 - **creative:** Use a strip of wet cloth or a thick rope that hangs over the rim into the lower bucket. It moves the water slowly, but it moves it.; Make a longer path with two tubes joined together so the water crosses a chair.; Find how high the bend in the tube can go before the water stops, and say why it stops.
 - **s1 (8 min)**  
   *Parent does:* Show your child the buckets and the tube. Read out the problem. Ask for a plan and a reason before they try anything.  
-  *Parent says:* We have to empty the top bucket into the bottom one without lifting or pouring it. Here is a tube. How could we do it? Why do you think that will work?  
-  *Child mode:* Empty the top bucket with no lifting. You have a tube. What is your plan?
+  *Parent says:* We have to empty the top bucket into the bottom one without lifting or pouring it. Here is a tube.  
+  *Child mode:* Look at the buckets and the tube. Think of a plan.
   - Ask: What is your plan, and why do you think it will work? (good: Put one end in each bucket.; Fill the tube first.; Make the low end lower than the water.)
   - Note: Let them try their own ideas. Do not give the siphon away yet. Let them find that an empty tube does nothing.
 - **s2 (15 min)**  

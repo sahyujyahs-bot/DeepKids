@@ -297,13 +297,13 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 - **predict:** Before you start, guess. Which pair will make the earphones crackle: copper and copper, zinc and zinc, or copper and zinc? Why do you think so?
 - **fair test:** Use the same lemon half for the three pairs. Push every piece in 2 centimetres deep, and keep the two pieces 2 centimetres apart. Use the same earphones and the same listener, in a quiet room. Wipe the plug dry between tests. Only the pair of metals changes.
 - **safety:** A grown-up cuts the lemons and strips the wire. The nails are sharp. Do not eat the lemons afterwards, because zinc and copper have gone into the juice. Wash your hands at the end.
-- **record:** Draw a table with six rows, one for each test. The first three rows are copper and copper, zinc and zinc, and copper and zinc. The last three are two cells in a row, two cells facing each other, and four cells in a row. Beside each, write 'none', 'faint' or 'loud'.
+- **record:** Make a table with six rows, one for each test. The first three rows are copper and copper, zinc and zinc, and copper and zinc. The last three are two cells in a row, two cells facing each other, and four cells in a row. Beside each, write 'none', 'faint' or 'loud'.
 - **results table:** What is in the lemon | Crackle: none, faint or loud?
 - **schedule:** day 1: Test the three pairs of metals, then two cells and four cells in a row. (35 min); day 2: Pull the zinc nail and the copper wire out of the lemon and compare them. (5 min)
 - **s1 (4 min)**  
   *Parent does:* Lay out the lemons, the zinc nails, the copper wires and the earphones. Touch the plug to a whole lemon so your child hears that nothing happens. Ask for the guess and the reason, and write both down.  
   *Parent says:* Earphones crackle when electrons flow through them. A lemon alone gives no crackle. We will push two pieces of metal into the lemon. Which pair will make a crackle: two copper wires, two zinc nails, or one of each? Why do you think so?  
-  *Child mode:* Look at the copper wires and zinc nails. Which pair will make a crackle? Why?
+  *Child mode:* Look at the copper wires and zinc nails. Pick the pair you think will crackle.
   - Ask: Why do you think that pair will work? (good: Two different metals might behave differently.; Copper is used in wires, so two coppers should be best.; Any metal will do, because the lemon has the power.)
   - Note: Do not correct the guess. Many children, and many adults, expect the lemon to be the source of the electricity.
 - **s2 (5 min) · grown-up needed**  
@@ -352,12 +352,12 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 - **predict:** Before you join the wires, guess. Which nail will change most: the plus nail, the minus nail, or the nail standing alone? What will you see, and why do you think so?
 - **fair test:** Use three nails of the same kind and size. Put the same amount of water and salt in both glasses. Put each nail 3 centimetres deep. Keep both glasses side by side for the same time. The only thing that changes is what each nail is joined to.
 - **safety:** A grown-up builds the cell pack and joins the wires. Never let the two bare wire ends touch each other, because the cells get hot. Work near an open window and away from the stove. Do not taste the water. Never try this with a wall socket, a charger or an adapter.
-- **record:** Draw a table with rows for 1, 3 and 5 minutes. In each row, write what you see at the plus nail, the minus nail and the nail alone.
+- **record:** Make a table with rows for 1, 3 and 5 minutes. In each row, write what you see at the plus nail, the minus nail and the nail alone.
 - **results table:** Minutes | Nail on the plus wire | Nail on the minus wire | Nail alone
 - **s1 (4 min)**  
   *Parent does:* Show your child the three nails, the two glasses and the cell pack. Explain which nail will go where. Ask for the guess and the reason, and write both down.  
   *Parent says:* These three nails are the same. Two will stand in salt water, joined to the plus and minus ends of four cells. One will stand in salt water alone. Which nail will change most in five minutes? What will you see, and why do you think so?  
-  *Child mode:* Three nails go into salt water. Two are joined to cells. Which will change most? Why?
+  *Child mode:* Three nails go into salt water. Two are joined to cells. Point to the nail you think will change most.
   - Ask: Why did you choose that nail? (good: The plus end pulls electrons out, so that nail might be eaten.; The minus end has more electrons, so something will happen there.; The nail alone is in salt water, and salt makes rust.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (6 min) · grown-up needed**  
@@ -389,7 +389,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 - **predict:** Before the cells are joined, guess. After the cells are taken away, will the two pencils make the earphones crackle? Why do you think so?
 - **fair test:** Use the same two pencils, the same glass of baking soda water and the same earphones all through. Test the pencils with the earphones before the cells are joined, and again straight after. The only thing that changes is whether a current has just passed.
 - **safety:** A grown-up sharpens the pencils and joins the cells. Never let the two wires from the cells touch each other. Work away from the stove, because one of the gases is hydrogen.
-- **record:** Draw a table with three rows. The rows are before the cells, straight after 3 minutes of current, and after 1 more minute. Write the crackle and how long it lasted.
+- **record:** Make a table with three rows. The rows are before the cells, straight after 3 minutes of current, and after 1 more minute. Write the crackle and how long it lasted.
 - **results table:** When the pencils were tested | Crackle: none, faint or loud? | How many seconds it lasted
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* Stir one level teaspoon of baking soda into the glass of water. Push the two pencils through the card and rest it on the glass. The lower leads must be in the water and not touching. Wind a bare copper wire tightly round the top lead of each pencil and tape it.  
@@ -400,7 +400,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
   *Parent does:* Put the earbuds in your child's ears. Press one copper wire on the band next to the plug's tip and scrape the tip on the other wire. Record the result. Then ask for the guess and the reason, and write both down.  
   *Parent says:* Listen first, before any cells are joined. What do you hear? Next, the cells will pass a current for three minutes, and then I will take them away. Will the pencils make a crackle then? Why do you think so?  
   *Child mode:* Test the two pencils with the earphones. Will they crackle after the cells? Why?
-  - Ask: Two pencils of the same graphite gave no crackle. Which earlier result does that match? (good: Two copper wires in a lemon gave no crackle in the Lemon Battery test.; Two electrodes that are the same give no push.)
+  - Ask: Two pencils of the same graphite gave no crackle. Which earlier test also gave no crackle? (good: Two copper wires in a lemon gave no crackle in the Lemon Battery test.; Two electrodes that are the same give no push.)
   - Note: Expect silence now. The two leads are the same material in the same liquid, so neither pushes electrons to the other.
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* Join one wire from the cell pack to each copper wire. Mark which pencil is on the minus wire. Shine the torch through the glass. Watch for 3 minutes. Ask your child which pencil makes more bubbles.  
@@ -420,7 +420,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
   - Note: Waiting brings nothing back. One more minute of current brings the crackle back. So the crackle depends on the gases that the current makes.
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say what they thought would happen, what they heard, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Say what you thought would happen, what you heard, and why you think it happened. Where did the energy for the crackle come from in the first place?  
+  *Parent says:* Say what you thought would happen, what you heard, and why you think it happened.   
   *Child mode:* Say what you thought would happen. Say what you heard. Say why.
   - Ask: Where did the energy for the crackle come from? (good: From the AA cells, which split the water.; The cells put energy into the gases, and the gases gave it back.)
   - Note: The reason: the current split water into hydrogen at the minus lead and oxygen at the plus lead. That took energy from the cells. With the cells gone, hydrogen gives its electrons back through the earphones to the oxygen side, and water forms again. This is a small fuel cell. Some of the crackle also comes from charge held on the wet surface of the leads.
@@ -433,7 +433,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 - **s1 (2 min)**  
   *Parent does:* Ask your child to guess how many cells are working in your home right now. Draw the table with three columns.  
   *Parent says:* How many cells do you think are working in our home at this moment? Count the ones in clocks, remotes, toys and torches. We will look at five of them.  
-  *Child mode:* Guess how many cells your home has. Draw a table with three columns.
+  *Child mode:* Guess how many cells your home has.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* Open five things that run on cells. On each cell, find the plus sign, the minus sign and the number of volts. Your child writes them in the table. Put every cell back the right way round.  
   *Parent says:* Find the plus end and the minus end. Now find a number with the letter V after it. That is the number of volts.  
@@ -460,7 +460,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 - **s3 (4 min)**  
   *Parent does:* Look at the table together. Ask your child what the loud ones share. Then read them the note below.  
   *Parent says:* Which ones worked, and which did not? What do the ones that worked have in common? What does oil lack?  
-  *Child mode:* Which ones worked? What do they share? What is missing from oil?
+  *Child mode:* Sort the five into 'crackled' and 'did not'. Point to what the crackling ones share.
   - Note: The lemon is not special. Any liquid with ions in it works. Tap water has a few ions from dissolved minerals, so it works a little.
   - Check: A zinc nail and a copper wire crackle in salt water but not in cooking oil. Why? → **Salt water has ions and oil has none**
 ### a3 · Electric Writing: which wire writes red on turmeric paper? (20 min)
@@ -488,11 +488,11 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 - **s5 (3 min)**  
   *Parent does:* Talk about the question below. Then read your child the note.  
   *Parent says:* The red formed at the pencil when the pencil was minus. It formed at the foil when the foil was minus. What happens to water at the minus side?  
-  *Child mode:* The red always formed at the minus side. Why?
+  *Child mode:* Look at where the red formed. Which end of the cells was it joined to?
   - Note: This is the electrolysis of water at one electrode. It is also why a swallowed button cell is so dangerous. The same base forms on the wet wall of the food pipe.
   - Check: In Electric Writing, turmeric paper turns red where the minus wire touches. What forms there? → **A base, left when water is split**
 ### a4 · Electron Path: move the coins round a lemon cell (12 min)
-- **record:** Keep both drawings. On each, draw arrows to show the path the coins took.
+- **record:** Keep the lemon drawing. Draw one arrow to show the path the coins took, or tell your grown-up the path.
 - **s1 (4 min)**  
   *Parent does:* Your child draws a lemon as large as the page. Inside it they draw a zinc nail on the left and a copper wire on the right. They join the two tops with a loop that passes through a small pair of earphones. Put six coins and three buttons on the nail.  
   *Parent says:* Draw the lemon cell from the Lemon Battery test. The coins are electrons. Each button is a zinc atom in the nail. Each zinc atom has two electrons that it holds loosely.  
@@ -505,9 +505,9 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
   - Ask: What if both pieces were zinc? (good: Both would push equally, so no coins would move.)
   - Note: At the copper, the electrons are taken by hydrogen ions in the juice. Your child can draw small circles marked H there.
 - **s3 (4 min)**  
-  *Parent does:* On the back of the page, your child draws a thick steel plate seen from the side. They draw a drop of water on top. They put a button under the middle of the drop and two coins beside it. They move the button up into the drop. They slide the coins through the plate to the edge of the drop.  
+  *Parent does:* Lay a plate on the table as the steel. Make a ring of string on it as the drop of water. Your child puts one button on the plate in the middle of the ring. It is an iron atom. They put two coins beside it. They lift the button onto the string, into the water. They slide the two coins across the plate to the edge of the ring.  
   *Parent says:* This is a drop of water on steel. An iron atom under the middle leaves as an ion. Its two electrons travel through the steel to the edge of the drop. Oxygen takes them there. Where is the wire this time?  
-  *Child mode:* Draw a drop on steel. Move the button up. Slide the coins sideways.
+  *Child mode:* Lift the button into the ring. Slide the coins across the plate to the edge.
   - Note: This is why rusting counts as a cell with no outside wire. The energy becomes a tiny amount of heat.
   - Check: When a drop of water rusts a steel plate, what do the electrons travel through? → **The steel plate itself**
 
@@ -543,7 +543,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 ## Challenges
 ### c1 · The Kitchen Pile: build a battery with no lemon (25 min)
 - **problem:** In 1800 Alessandro Volta built the first battery from a pile of metal discs and wet card. Build your own pile from kitchen things. It must give a louder crackle in earphones than one lemon cell does.
-- **your turn:** Now design your own pile. Draw it and label each layer. Test it against one lemon cell, and write which crackle was louder. Then change one thing and test again.
+- **your turn:** Now design your own pile. Build it, then draw it or take a photo and tell your grown-up each layer. Test it against one lemon cell, and write which crackle was louder. Then change one thing and test again.
 - **constraints:** No lemon or other fruit, and no shop cells.; Use only kitchen foil, copper wire or coins, paper, salt, vinegar or tamarind water.; At most six cells in the pile.; The pile must stand by itself on a plate while you test it.
 - **general:** Make one cell as a sandwich. Lay down a square of foil, then a square of wet paper, then a copper spiral.; Stack the next cell straight on top, so that its foil sits on the copper below it.; Squeeze each paper square so that it is wet but does not drip down the side of the pile.
 - **creative:** Try steel coins in place of copper spirals, and compare the crackle.; Make the squares larger, so that more metal touches the wet paper.; Test whether warm salt water gives a louder crackle than cold.

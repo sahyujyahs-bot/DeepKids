@@ -257,7 +257,7 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 - **s4 (3 min)**  
   *Parent does:* Count the points. Then sort all 24 cards into three piles and look at the 'No way back' pile.  
   *Parent says:* Let us sort the cards into the three piles. Look at the 'No way back' pile. Which of these made a new substance? Which did not?  
-  *Child mode:* Sort the cards into three piles. Which changes made something new?
+  *Child mode:* Sort all the cards into the three piles.
   - Check: Which of these has no way back, although no new substance is made? → **Grinding wheat into atta**
 ### g2 · Line Up the Kitchen: five foods from start to plate (15 min)
 - **rules:** You need the 20 cards and 5 coins. All players work as one team.; Spread the cards with the fronts up. Do not look at the backs during the game.; Players take turns. On your turn, pick up any one card and place it in a row for its food.; Each row must run from the first stage on the left to the finished food on the right. You may slide cards along to fit a new one in.; When all five rows are built, put one coin in each row. The coin goes between two cards, at the first step that has no way back.; Now turn the cards over. Score 1 point for each card in the right place, and 1 point for each coin in the right place.; The most you can score is 25. A team that scores 20 or more wins. Playing alone? Build all five rows yourself and try to beat 20.
@@ -274,7 +274,7 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 - **s3 (3 min)**  
   *Parent does:* For each row, decide together which step is the first with no way back. Put a coin between those two cards.  
   *Parent says:* Look along each row. Some steps go back and some do not. Where is the first step that can never be undone?  
-  *Child mode:* Look at each row. Find the first step with no way back.
+  *Child mode:* Put a coin between the two cards where the way back ends.
   - Ask: Why did you put the coin there and not one step earlier? (good: The step before only heated or melted, and that goes back.; This is the first step that made something new.; Grinding cannot be undone, so the coin goes there.)
 - **s4 (3 min)**  
   *Parent does:* Turn all the cards over. Count 1 point for each card and each coin in the right place. Read the backs along each row.  
@@ -289,13 +289,13 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 - **predict:** Before you start, guess. Will the flour settle to the bottom of the cold glass? Will it settle in the heated glass? Why do you think so?
 - **fair test:** Use the same flour in both glasses, one level tablespoon in each. Use the same amount of water, 150 millilitres in each. Use two glasses of the same size, and stand them side by side for the same time. Only one thing differs: the mix for glass B is heated for a few minutes, and the mix for glass A is not. Heating boils away a little water from B. That is a small second difference, so write it down.
 - **safety:** A grown-up does the heating and pours the hot paste. Hot starch paste sticks to skin and burns, so let the pan cool for two minutes before pouring.
-- **record:** Draw a table with rows for 0, 10 and 30 minutes, and one more row for the dried plates. For each glass, write whether there is a layer at the bottom and how thick it is in millimetres. Write whether the liquid pours.
+- **record:** Make a table with rows for 0, 10 and 30 minutes, and one more row for the dried plates. For each glass, write whether there is a layer at the bottom and how thick it is in millimetres. Write whether the liquid pours.
 - **results table:** Minutes standing | Glass A, cold: what you see | Glass B, heated: what you see
 - **schedule:** day 1: Mix both glasses and heat the mix for glass B. Watch both for 30 minutes, then set the two plates to dry. (25 min); day 2: Test the two dried plates and say what the results show. (5 min)
 - **s1 (4 min)**  
   *Parent does:* Show your child the flour and the water. Let them rub a pinch of flour between their fingers. Ask for the guess and the reason, and write both down.  
   *Parent says:* One spoon of flour goes into cold water. One spoon goes into water that we heat. After half an hour, will the flour settle in each glass? Why do you think so?  
-  *Child mode:* Rub a pinch of flour. Will it settle in cold water? In heated water? Why?
+  *Child mode:* Rub a pinch of flour between your fingers. Tell your grown-up what you think will happen in each glass.
   - Ask: Why do you think it will, or will not, settle? (good: Flour is heavier than water, so it sinks.; Hot water might make it dissolve.; Heat might cook it, like rice.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Cornflour gives the clearest result, and rice flour or maida also work.
 - **s2 (4 min)**  
@@ -311,23 +311,23 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 - **s4 (3 min)**  
   *Parent does:* When glass A has stood for 10 minutes, look at both glasses from the side. Measure any layer at the bottom with the ruler. Record what you see.  
   *Parent says:* Ten minutes have passed. Look from the side, without moving the glasses. What do you see at the bottom of each one?  
-  *Child mode:* Ten minutes have passed. Look from the side. Is there a layer?
+  *Child mode:* Look at each glass from the side. Is there a white layer at the bottom?
   - Wait: Wait until glass A has stood for 10 minutes
 - **s5 (3 min)**  
   *Parent does:* When glass A has stood for 30 minutes, look and measure again. Then tilt each glass a little. Record whether each one pours.  
   *Parent says:* Thirty minutes now. Measure the layer again. Now tilt each glass gently. Which one moves like water?  
-  *Child mode:* Thirty minutes have passed. Measure again. Tilt each glass gently.
+  *Child mode:* Measure the layer again. Tilt each glass gently and watch how it moves.
   - Note: Use the waiting time for the term cards or the story. Glass A should show a white layer under thinner water. With rice flour or maida the water above stays a little milky.
   - Wait: Wait until glass A has stood for 30 minutes
 - **s6 (4 min)**  
   *Parent does:* Pour the water off glass A slowly into the sink. Scrape the white layer on to plate A and spread it thin. Spread 1 tablespoon of the paste from glass B on plate B, as thin as you can. Leave both plates under a fan.  
   *Parent says:* Now we try the way back. We take away the water and see what is left. What do you think each plate will hold when it is dry?  
-  *Child mode:* Pour the water off A. Spread each one thin. What will be left?
+  *Child mode:* Spread the white layer thin on plate A. Spread the paste thin on plate B.
   - Note: Spread both as thin as a coin, or they will take more than a day to dry. A sunny windowsill is faster than a fan. Keep the rest of the paste from glass B in a closed box in the fridge. It is a real glue, and The Tell-Tale Seal can use it.
 - **s7 (5 min)**  
-  *Parent does:* When both plates are fully dry, rub each one with a finger. Stir a pinch from each plate into a little water in two katoris. Then ask the three questions in your words to say.  
+  *Parent does:* When both plates are fully dry, rub each one with a finger. Stir a pinch from each plate into a little water in two katoris. Then ask what they thought would happen, what they saw, and why.  
   *Parent says:* Rub plate A. Now try plate B. Say what you thought would happen, what you saw, and why you think it happened.  
-  *Child mode:* Rub each plate. Say what you thought would happen. Say what you saw. Say why.
+  *Child mode:* Rub each plate. Stir a pinch from each into water. Tell what you see.
   - Ask: Which glass gave the flour back, and how do you know it is flour? (good: Glass A. It is a white powder again.; In water it turns cloudy and settles, like the flour at the start.)
   - Ask: Glass B was cool again by the time you tested it. Why did it not turn back? (good: The heat changed the flour into something new.; It was cooked.; Cooling does not undo what the heat did.)
   - Note: Plate A usually holds a white powder. In water it clouds and settles, as fresh flour does. Plate B holds a hard, clear or whitish flake. In water the flake stays a flake and slowly goes soft. The reason is that flour is mostly starch, packed in tiny hard grains. In cold water the grains stay closed, and they sink. In hot water they take in water, swell and burst. Long starch molecules spill out and tangle, and the water turns thick. A burst grain cannot close again. So the cold stir was reversible, and the hot stir was not.
@@ -338,13 +338,13 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 - **predict:** Before you start, guess. Which squares, if any, will go back to soft white bread after a night in damp air? Why do you think so?
 - **fair test:** Cut all the squares from the same loaf, and make them the same size. Use the same tawa on the same low flame. Turn every square over once each minute, so that both sides are heated. Keep one square off the tawa, to compare the others with. Only one thing differs between the squares: the number of minutes on the tawa.
 - **safety:** A grown-up does all the toasting. The tawa stays hot for several minutes after the flame is off. Do not eat the squares that spent the night in the damp box.
-- **record:** Draw a table with five rows, for 0, 1, 2, 4 and 6 minutes. Give each square a colour score: 0 for white, 1 for cream, 2 for golden, 3 for brown and 4 for dark brown or black. Write its feel too: soft, firm or crisp. Fill in the table twice: straight after toasting, and after the night in damp air.
+- **record:** Make a table with five rows, for 0, 1, 2, 4 and 6 minutes. Give each square a colour score: 0 for white, 1 for cream, 2 for golden, 3 for brown and 4 for dark brown or black. Write its feel too: soft, firm or crisp. Fill in the table twice: straight after toasting, and after the night in damp air.
 - **results table:** Minutes on the tawa | Colour score and feel, straight after | Colour score and feel, after a night in damp air
 - **schedule:** day 1: Toast the squares and score them. Send one pale square back to the tawa, and shut the rest in the damp box. (21 min); day 2: Score the squares again and say what the results show. (4 min)
 - **s1 (3 min)**  
-  *Parent does:* Cut two slices of bread into 8 squares. Lay out the six labels. Ask for the guess and the reason, and write both down.  
+  *Parent does:* Cut two slices of bread into 8 squares. Write six labels: 0, 1, 1, 2, 4 and 6 minutes. Ask for the guess and the reason, and write both down.  
   *Parent says:* Five squares will be toasted for different times. Then we will try to turn them back into soft white bread. Which ones will go back? Why do you think so?  
-  *Child mode:* Cut the bread into squares. Which toasted squares will go back? Why?
+  *Child mode:* Cut the bread into squares. Tell your grown-up what you think will happen to the toast.
   - Ask: Why do you think that one will, or will not, go back? (good: The pale one is only dried, so water might soften it.; The brown one is cooked, and cooking does not go back.; Once it is toast it stays toast.)
   - Note: Two squares are spare. Do not correct the guess.
 - **s2 (7 min) · grown-up needed**  
@@ -360,16 +360,16 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 - **s4 (5 min) · grown-up needed**  
   *Parent does:* Let the squares cool for 3 minutes and look again. Then put one of the two 1-minute squares back on the tawa for 3 more minutes, turning it each minute. Compare it with the 4-minute square.  
   *Parent says:* The squares are cool now. Has any colour gone back? Now watch this pale square go back on the tawa. Can it catch up with the brown one?  
-  *Child mode:* The squares are cool. Did any colour go back? Can a pale square get darker?
+  *Child mode:* Look at the cooled squares. Then watch the pale square on the tawa.
   - Note: Cooling changes no colours. The pale square, toasted for 3 more minutes, reaches about the same brown as the 4-minute square. So any square can still go darker.
 - **s5 (2 min)**  
   *Parent does:* Put the 0, 1, 2, 4 and 6 minute squares in the steel box, in order. Stand the katori with the wet cloth beside them, not touching. Close the lid and leave the box overnight.  
   *Parent says:* Toasting drove water out of the bread. So tonight we give the squares damp air. Tomorrow we see which ones went back.  
   *Child mode:* Put five squares in the box with the wet cloth. Close the lid.
 - **s6 (4 min)**  
-  *Parent does:* Open the box. Your child scores the colour of each square again, presses each one, and records both. Then ask the three questions in your words to say.  
+  *Parent does:* Open the box. Your child scores the colour of each square again, presses each one, and records both. Then ask what they thought would happen, what they saw, and why.  
   *Parent says:* Score the colours again and press each square. Say what you thought would happen, what you saw, and why you think it happened.  
-  *Child mode:* Score and press each square again. Say what you thought, what you saw, and why.
+  *Child mode:* Score and press each square again. Compare with yesterday.
   - Ask: What went back, and what did not? (good: The softness came back in the pale squares.; No colour went back.; The brown squares still smell of toast.)
   - Ask: Yesterday, could every square still be made darker? Could any be made paler? (good: Yes, the pale one caught up with the brown one.; No square got paler, whatever we did.)
   - Note: In most homes the pale squares are soft again, and the brown ones are bendy. Every colour score is the same as yesterday. The reason is that two changes happened on the tawa. Water left the bread, and damp air gave it back. That change is reversible. On the hot, dry surface, sugars and proteins also reacted and made new brown substances. That is the Maillard reaction, and it has no way back. Throw the squares away afterwards.
@@ -380,9 +380,9 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 ### a1 · Five Changes, Three Piles: which ones can you put back? (10 min)
 - **record:** Write the five changes in a list. Beside each one write its pile, and the way back if there is one.
 - **s1 (2 min)**  
-  *Parent does:* Lay out the things and the three labels. Tell your child the five changes you will make. Ask which ones they will be able to put back.  
+  *Parent does:* Lay out the things and the three labels: back easily, back with work, and no way back. Tell your child the five changes you will make. Ask which ones they will be able to put back.  
   *Parent says:* We will fold a paper, tear a paper, dissolve salt, mix rice with dal, and add lemon juice to milk. Which of these can you put back? Why do you think so?  
-  *Child mode:* Five changes are coming. Which ones can you put back? Why?
+  *Child mode:* Listen to the five changes. Guess which ones you can put back.
 - **s2 (5 min)**  
   *Parent does:* Your child makes each change, and then tries for a short while to undo it. For the milk, stir in the lemon juice and wait one minute.  
   *Parent says:* Make each change. Then try to get back to the start. Tell me exactly what you would do, even if it would take all day.  
@@ -391,11 +391,11 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 - **s3 (3 min)**  
   *Parent does:* Your child puts each changed thing beside one of the three labels. Talk about the questions below.  
   *Parent says:* Put each one beside its label. Look at the two things under 'No way back'. Is the torn paper still paper? Is the lumpy milk still milk?  
-  *Child mode:* Put each one by its label. Is torn paper still paper?
+  *Child mode:* Put each change beside its label.
   - Ask: The torn paper and the lumpy milk both have no way back. How are they different? (good: The paper is still paper, only in pieces.; The milk became something new: lumps and a thin liquid.; One is broken and one is changed.)
   - Note: This difference comes back through the whole unit. Some changes do not go back because a new substance was made. Others do not go back although nothing new was made.
 ### a2 · Tangled Threads: a model of a cooking egg (10 min)
-- **record:** Draw the bowl twice: once with six neat balls, and once with the tangled clump. Label the drawings 'raw' and 'cooked'.
+- **record:** Take a photo of the bowl with six neat balls, and another of the tangled clump. Then say which is 'raw' and which is 'cooked'.
 - **s1 (3 min)**  
   *Parent does:* Your child winds each thread round two fingers and tucks in the end, to make six small balls. Put the balls in the bowl and tilt the bowl from side to side.  
   *Parent says:* Each ball is one protein chain, folded up small. Tilt the bowl. The balls roll past each other, the way raw egg white flows.  
@@ -403,12 +403,12 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 - **s2 (3 min)**  
   *Parent does:* Your child pulls each ball half open. Then they shake and stir all six together in the bowl for 20 seconds. Now lift one thread.  
   *Parent says:* Your shaking hands are the heat. Heat shakes the chains open, and open chains catch on each other. Lift one thread. What comes up with it?  
-  *Child mode:* Loosen the balls. Shake them together. Lift one thread. What happens?
+  *Child mode:* Loosen the balls. Shake them together for 20 seconds. Lift one thread.
   - Check: In Tangled Threads, what do the six neat balls of wool stand for? → **Folded proteins in raw egg white**
 - **s3 (4 min)**  
   *Parent does:* Give your child two minutes to turn the clump back into six neat, separate balls. Then talk about the questions below.  
   *Parent says:* You have two minutes to get six neat balls back. Was any thread cut or lost? Then why is it so hard to go back?  
-  *Child mode:* Try to make six neat balls again. Was any thread cut?
+  *Child mode:* Try to make six neat balls again. Look: is every thread still whole?
   - Ask: No thread was broken. So what changed? (good: The way they are arranged.; They are joined to each other now.; They lost their folded shape.)
   - Note: With six threads and nimble fingers, going back is slow but possible. One egg white holds many billions of billions of chains, and nobody has fingers that small. Around 1960 Christian Anfinsen found that some proteins fold back by themselves, if they are unfolded gently and kept apart.
 ### a3 · The Slip Shuffle: can shaking un-mix a mixture? (15 min)
@@ -416,7 +416,7 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 - **s1 (3 min)**  
   *Parent does:* Make the six slips. Put 2 dotted and 2 blank slips in the tumbler. Explain that a row is 'sorted' when both dotted slips lie together at one end. Ask for a guess.  
   *Parent says:* We shake four slips and lay them in a row. A sorted row has both dots at one end. In 12 tries, how many rows will be sorted? Why do you think so?  
-  *Child mode:* Shake four slips and lay them in a row. How often will they be sorted?
+  *Child mode:* Shake four slips and lay them in a row. Sorted means both dots lie together at one end.
 - **s2 (4 min)**  
   *Parent does:* Do 12 tries with the four slips. For each try, shake the tumbler, draw the slips without looking and lay them in a row. Tally the sorted rows.  
   *Parent says:* Shake, draw without looking, and lay them down. Dots together at one end? Then put a stroke in the tally.  
@@ -430,13 +430,13 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 - **s4 (3 min)**  
   *Parent does:* Compare the two tallies. Tell your child the number for 5 dotted and 5 blank slips: 1 sorted row in 126 tries. Talk about the questions below.  
   *Parent says:* With four slips, about 1 row in 3 was sorted. With six slips, about 1 in 10. With ten slips it is 1 in 126. What happens to the chance of a sorted row as there are more pieces?  
-  *Child mode:* Compare your two tallies. What happens when there are more slips?
+  *Child mode:* Put your two tallies side by side and compare them.
   - Ask: A drop of ink in water has more particles than anyone could count. Will shaking ever sort them into a drop again? (good: No, there are far too many mixed orders.; It could happen, but the chance is too small to ever see.; Sorted orders are a tiny share of all the orders.)
   - Note: Mixing makes no new substance. It does not undo itself because the mixed orders vastly outnumber the sorted ones. To un-mix, someone must do work, such as picking, sieving or evaporating.
 
 ## Projects
 ### p1 · Soak, Dry, Sprout: which change can a chana seed undo? (30 min, 4 days)
-- **record:** A table with three rows: 10 dry chana, 10 soaked chana, and 10 chana dried again. Write the length of each row in centimetres. Draw one chana from the damp cloth on day 4.
+- **record:** A table with three rows: 10 dry chana, 10 soaked chana, and 10 chana dried again. Write the length of each row in centimetres. Draw one chana from the damp cloth on day 4, or tell your grown-up what you see.
 - **schedule:** day 1: In the evening, measure a row of 10 dry chana. Soak all 20 overnight. (8 min); day 2: In the morning, measure a row of 10 soaked chana. Put 10 to dry and keep 10 in a damp cloth. (8 min); day 3: Look at both groups. Keep the cloth damp. (4 min); day 4: Measure the dried group again. Look for roots in the damp group. Say what the results show. (10 min)
 - **s1 (8 min)**  
   *Parent does:* Day 1, in the evening. Your child lays 10 dry chana in a touching row along the ruler and records the length. Then all 20 chana go into the bowl, with water 3 centimetres above them.  
@@ -446,7 +446,7 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 - **s2 (8 min)**  
   *Parent does:* Day 2, in the morning. Drain the water. Your child measures a row of 10 soaked chana. Spread 10 on a dry plate under a fan. Wrap the other 10 in the damp cloth on the second plate.  
   *Parent says:* Measure ten soaked seeds. Now ten will dry and ten will stay damp. Will the dry group shrink back to their old size? Will they still be alive?  
-  *Child mode:* Measure ten soaked chana. Dry ten. Keep ten damp. What will happen?
+  *Child mode:* Measure ten soaked chana. Dry ten on a plate. Keep ten damp in the cloth.
   - Ask: Soaking made the seeds bigger. Is that a change with a way back? (good: Maybe, if the water can leave again.; Yes, like a wet towel drying.; Not if the seed has started to grow.)
   - Note: The soaked row is usually about one and a half times as long as the dry row. Sprinkle the cloth with water morning and evening, so that it stays damp and not dripping.
   - Wait: Do this the morning after soaking
@@ -456,9 +456,9 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
   *Child mode:* Look at both groups. Turn the drying chana over. Wet the cloth.
   - Wait: Do this on the third day
 - **s4 (10 min)**  
-  *Parent does:* Day 4. Your child measures the row of 10 dried chana and compares it with the first two rows. Then they open the cloth and look for roots. Ask the three questions in your words to say.  
+  *Parent does:* Day 4. Your child measures the row of 10 dried chana and compares it with the first two rows. Then they open the cloth and look for roots. Ask what they thought would happen, what they saw, and why.  
   *Parent says:* Measure the dried row. Open the cloth and look. Say what you thought would happen, what you saw, and why you think it happened.  
-  *Child mode:* Measure the dried row. Look for roots. Say what you thought, saw, and why.
+  *Child mode:* Measure the dried row. Open the cloth and look for roots.
   - Ask: Which change did the seeds undo, and which change has no way back? (good: Swelling with water went back when the water left.; Growing a root does not go back.; The root is made from food stored in the seed, and that food is used up.)
   - Note: The dried seeds are usually close to their first size, with wrinkled skins. Most of the damp seeds have a white root 2 to 10 millimetres long. If no roots show, the room may be cool, so wait one more day. Soaking is a change the seeds can undo. Farmers use this. They soak seeds and dry them again, so that the seeds sprout faster after sowing. Sprouting is a change with no way back. Cook and eat the sprouts, or plant them. Soak the dried group again if you like, and see whether they sprout too.
   - Think: A dry seed can wait for years. What does a seed give up once they start to grow?
@@ -467,28 +467,28 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 ## Challenges
 ### c1 · The Tell-Tale Seal: a letter that shows if it was opened (20 min)
 - **problem:** Some things must show whether anyone has opened them. A medicine bottle has a ring that snaps. A jam jar has a lid button that pops up. Each of these uses a change with no way back. Your problem is this. Seal a paper letter so that nobody can open and close it without leaving a sign.
-- **your turn:** Now invent your own seal. It must be easy for the right reader to open and impossible to close again without a sign. Draw your design. Test it three times with a different tester each time, and write how many times you caught the opening.
+- **your turn:** Now invent your own seal. It must be easy for the right reader to open and impossible to close again without a sign. Draw your design, or build it and take a photo. Test it three times with a different tester each time, and write how many times you caught the opening.
 - **constraints:** Use only paper, glue or flour paste, thread and a pencil.; The person the letter is for must be able to open it in 10 seconds.; The tester gets 3 minutes alone with the letter.; The tester may use fingers and a butter knife, and nothing else.; The maker then has 1 minute to say whether the letter was opened.
 - **general:** Glue the flap down along its whole edge, so that it tears when it is lifted.; Write your name across the edge of the flap, so that the letters break if the flap is moved.; Glue a thin strip of paper over the flap as a seal.
 - **creative:** Draw a pattern of fine pencil lines across the flap. After opening, the lines will not meet exactly.; Seal the flap with a strip of the thinnest paper you have, such as tissue. Thin paper tears before the glue lets go.; Lay a thread under the flap in a secret shape, and draw that shape in your notebook. Anyone who opens the letter will move the thread.
 - **s1 (4 min)**  
   *Parent does:* Read the problem together. Look at a real seal at home, such as the ring on a water bottle cap. Ask how it shows that the bottle was opened.  
   *Parent says:* Look at this cap. Once the ring snaps, can anyone join it again? Which changes from this unit have no way back? Which could a seal use?  
-  *Child mode:* Look at a bottle cap ring. Which changes have no way back?
+  *Child mode:* Look closely at a bottle cap ring.
   - Ask: Which changes with no way back could a paper seal use? (good: Tearing.; Glue or paste setting.; A pattern that cannot be lined up again.)
 - **s2 (8 min)**  
   *Parent does:* Your child folds a letter and builds a seal. Give the glue or paste 3 minutes to set.  
-  *Parent says:* Build your seal. Remember that the right reader must open it in ten seconds. Which part of your seal can never be put back?  
-  *Child mode:* Build your seal. Which part of it has no way back?
+  *Parent says:* Build your seal. The right reader must be able to open it in ten seconds. Which part of your seal can never be put back?  
+  *Child mode:* Build a seal that cannot be put back once it is opened.
   - Note: Maida paste and cornflour paste both glue paper. A glue stick works too. Do not suggest improvements yet.
 - **s3 (5 min)**  
   *Parent does:* Your child leaves the room. The tester has 3 minutes. Toss a coin: for heads, open the letter and close it as neatly as you can. For tails, leave it shut. Then your child comes back and decides.  
   *Parent says:* I have had my three minutes. Look closely. Did I open your letter, or did I leave it shut? What sign tells you?  
-  *Child mode:* Look closely at your letter. Was it opened? What sign shows it?
+  *Child mode:* Look closely at your letter. Decide: opened, or left shut?
 - **s4 (3 min)**  
   *Parent does:* Talk about what gave the opening away, or what let it stay hidden. Your child changes one thing and says why it is better.  
   *Parent says:* What gave me away? If I fooled you, how did I do it? Change one thing in your seal and tell me why it helps.  
-  *Child mode:* What gave the tester away? Change one thing. Say why it helps.
+  *Child mode:* Change one thing in your seal. Say why it helps.
   - Ask: Why would a paper clip make a bad seal? (good: Clipping goes back easily, so it leaves no sign.; Anyone can take it off and put it on again.)
   - Note: The idea to draw out: a good seal uses a change with no way back. A paper clip or a rubber band uses a change that goes back easily, so it keeps no record.
 

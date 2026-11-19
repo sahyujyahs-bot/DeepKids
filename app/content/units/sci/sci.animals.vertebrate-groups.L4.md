@@ -231,7 +231,7 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
 - **s2 (6 min)**  
   *Parent does:* Play the first six cards. The reader reads the front. Everyone picks a token and turns it over together. The reader reads the back. After card three, ask the question below.  
   *Parent says:* The reader reads the clue. Everyone picks a token. Turn them over together. Now read the back. Who scored? Who can say why?  
-  *Child mode:* The reader reads the clue. Pick a token. Turn it over. Check the back.
+  *Child mode:* Pick the group you think it is. Turn your token over with the others.
   - Ask: Which clue was easy, and which was hard? Why? (good: The ones with only one group were easy.; The ones with many groups were hard.; I knew from the sense.)
   - Note: Some cards fit more than one group. The back begins with all the groups that fit. Anyone whose token matches any of them scores a point.
 - **s3 (6 min)**  
@@ -241,7 +241,7 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
   - Ask: Which sense did you not know an animal could have? (good: Electric sense in sharks.; Heat pits in a python.; Infrasound in elephants.)
   - Check: A card says: eyes on the sides of the head, seeing nearly all the way round. Why does the back say any group can score? → **Because animals in every group can have eyes like that**
 - **s4 (5 min)**  
-  *Parent does:* Play the last nine cards. Count the points. The player with the most points wins. A tie is a shared win. Then ask the question below.  
+  *Parent does:* Play the last nine cards. Count the points. The player with the most points wins. A tie is a shared win. Then ask which clue surprised them most.  
   *Parent says:* Last cards. Then count the points. Who has the most? Which clue surprised you most?  
   *Child mode:* Finish the cards. Count your points.
   - Think: If you could borrow one sense from these cards for a day, which would you choose?
@@ -276,12 +276,12 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
 - **predict:** Before you start, guess two things. At which clock number will you first see the moving card as it comes round from behind you? And will you touch the pen top more often with two eyes or with one? Give a reason for each guess.
 - **fair test:** The same person keeps their eyes on the same note on the wall every time, and the same helper waves the same card at the same height and speed. The circle, the chair and the distances do not change. Only the eye that is open changes. Each wide-view test is done twice, because one try can be a fluke. The pen test is done six times for each eye setting, with the pen in a new spot each time.
 - **safety:** Use a pen with its cap on, never a sharp pencil, and keep it at arm's length from the face so nobody pokes an eye. Cover an eye with a cloth held gently or with the palm. Never press on the eye.
-- **record:** Write down the clock number where your child first saw the card move, for each test. Multiply by 30 to get degrees. For the pen test, count how many times out of 6 the finger touched the cap with two eyes, and with one eye. Draw a bar chart of the best angle for each test, and a second bar chart of the pen hits.
+- **record:** Write down the clock number where your child first saw the card move, for each test. Multiply by 30 to get degrees. For the pen test, count how many times out of 6 the finger touched the cap with two eyes, and with one eye. Make a bar chart of the best angle for each test, and a second one of the pen hits. Draw them, or build the bars from coins.
 - **results table:** Test | Clock number first seen: try 1 | Clock number first seen: try 2 | Angle in degrees (clock number times 30)
 - **s1 (4 min)**  
   *Parent does:* Show your child the setup. Ask for their two guesses and the reasons. Write them at the top of the results table.  
   *Parent says:* Today we test your eyes. A card will come round from behind you, and you say when you first see it move. Then you try to touch a pen with one finger. What do you think will happen, and why do you think so?  
-  *Child mode:* We test your eyes today. Guess first. When will you see the card move? Will one eye see less? Why?
+  *Child mode:* Guess first, and say why. Then we test your eyes.
   - Ask: Why might covering one eye change what you can see? (good: One eye sees less.; The nose gets in the way.; Each eye sees a different side.)
   - Note: Do not correct any guess. Any guess with a reason is a good start. One child with a parent: the parent is the helper and the recorder. Two to four children: one sits, one waves the card, one writes the numbers, and the others watch silently and then swap. Everyone gets their own row in the results table, so write each child's name on it. Only one child sits and is tested at a time.
 - **s2 (6 min)**  
@@ -320,9 +320,9 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
   - Note: Most people touch the cap more often with two eyes. Your child's counts may be different, and that is fine. If one eye does as well as two, say so honestly. Some people judge distance well with one eye by using other clues, such as size.
   - Check: A child touches the cap 5 times out of 6 with two eyes, and 2 times out of 6 with one eye. What does this suggest? → **Two eyes help to judge distance**
 - **s8 (3 min)**  
-  *Parent does:* Draw one bar chart of the best angle for each wide-view test. Draw a second bar chart of the pen touches. Ask your child to say what they thought, what they saw and why. Then tell them: a pigeon sees about 340 degrees, and an owl about 110 degrees.  
+  *Parent does:* Make one bar chart of the best angle for each wide-view test, and a second one of the pen touches. Draw them, or build the bars from coins. Ask your child to say what they thought, what they saw and why. Then tell them: a pigeon sees about 340 degrees, and an owl about 110 degrees.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Now look at the numbers. A pigeon sees about 340 degrees, and an owl about 110. These are typical figures, and books differ. Which one needs to see behind, and which one needs to judge distance?  
-  *Child mode:* Draw the bars. Say what you thought, what you saw, and why.
+  *Child mode:* Make the bars. Say what you thought, what you saw, and why.
   - Note: A strong answer says something like this: eyes on the sides see a wider view, and eyes at the front overlap and judge distance. If your child says the nose got in the way, that is a very good observation. Do not explain until they have said what they saw.
   - Think: A pigeon is hunted and an owl hunts. How do their eyes fit that?
 ### e2 · Ripple Skin: how far away can your hands feel a ripple? (35 min)
@@ -330,12 +330,12 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
 - **predict:** Before you start, guess. Your hands are in still water and a ripple starts to your left or right. Will you tell the side correctly when the ripple starts close to your hand? Will you still tell it at 20 centimetres? Why do you think so?
 - **fair test:** The same helper makes every ripple with the same gentle dip of one fingertip. The water is still before each ripple. Your child's ears are covered, so only the skin can sense it. A coin toss decides left or right, so the helper cannot make a pattern. Only the distance changes. Each distance is tried 10 times, because one try can be a fluke.
 - **safety:** Put the basin on a towel on a flat, low surface so it does not tip. Wipe up spills at once, because a wet floor is slippery. Keep electrical things, including headphones, away from the water. Cover the ears with ear muffs or a thick cap or scarf, and make sure the child can still breathe and sit comfortably.
-- **record:** For each distance, write how many of the 10 ripples your child placed on the correct side. Guessing alone would give about 5 on average, and a score of 3 to 7 can happen by luck. Draw a bar chart with one bar for each distance.
+- **record:** For each distance, write how many of the 10 ripples your child placed on the correct side. Guessing alone would give about 5 on average, and a score of 3 to 7 can happen by luck. Make a bar chart with one bar for each distance. Draw it, or build the bars from coins.
 - **results table:** Distance from your hand | Right answers out of 10 | Score you would get by pure guessing | Better than guessing?
 - **s1 (4 min)**  
   *Parent does:* Show your child the basin. Ask for their guesses and reasons. Write them at the top of the results table.  
   *Parent says:* Fish have a line of tiny sensors along their sides that feel water move. Can your hands do anything like it? Will you tell which side a ripple came from when it starts close to your hand? Will you still tell at 20 centimetres? Why do you think so?  
-  *Child mode:* Fish feel water move. Can your hands? Guess first. Will you tell left from right? Why?
+  *Child mode:* Guess first, and say why. Can your hands feel which side a ripple comes from?
   - Ask: What do you think your hands will feel when a ripple reaches them? (good: A tiny wobble.; Nothing at all when it is far.; A touch like a very light tickle.)
   - Note: Do not tell what a lateral line is yet. Let your child make their guess first. Any guess with a reason is a good start.
 - **s2 (8 min)**  
@@ -362,9 +362,9 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
   - Note: If your child still gets 9 or 10, try 30 centimetres in a bigger tub. If you get about 5 out of 10 even at 5 centimetres, check that the hands are really still and dip a little deeper, the same each time, and try again. Water this shallow gives only a faint ripple, so low scores at 20 centimetres are normal. If the score is near 5, that is real data. Say so.
   - Check: At 20 centimetres, your child gets 5 right out of 10. What does that mean? → **About what pure guessing gives, so the skin felt little at that distance**
 - **s6 (5 min)**  
-  *Parent does:* Write the three scores in the table. Draw a bar chart. Ask your child to say what they thought, what they saw and why. Then tell them how a lateral line works.  
-  *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Now I will tell you what a fish has that you do not.  
-  *Child mode:* Draw a bar for each distance. Say what you thought, what you saw, and why.
+  *Parent does:* Write the three scores in the table. Make a bar chart, drawn or built from coins. Ask your child to say what they thought, what they saw and why. Then tell them how a lateral line works.  
+  *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? A fish has a lateral line, a row of tiny sensors along each side. They feel water move, even in the dark.  
+  *Child mode:* Make a bar for each distance. Say what you thought, what you saw, and why.
   - Note: After your child's own words, say: a fish has a line of tiny sensors along each side with hairs that bend when water moves. She feels where another fish is, even in muddy or dark water. Your hands have no such sensors, but skin can still feel big ripples. A fish feels water movement only a short way, about one or two body lengths, so distance matters for her too.
   - Think: A fish has sensors along her whole side. What could she find that you could not?
 ### e3 · Cup Your Ears: do ear flaps help you hear? (35 min)
@@ -372,12 +372,12 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
 - **predict:** Before you start, guess. Will cupped hands help you hear a ticking clock from farther away? What if the hands face backwards? Why do you think so?
 - **fair test:** The same ticking clock is held at the same height, pointing at your child, every time. The room, the helper and the way the helper walks stay the same. Your child keeps their eyes closed and does not move their head. Only the position of the ears changes. Each setting is tested twice, because one try can be a fluke.
 - **safety:** Keep the clock volume soft. Never use a loud sound near ears. The helper walks slowly and quietly, and the walkway is clear of stools and bags, to avoid tripping. A child with a cold or ear pain should not do this test. Never poke anything into an ear: the cone is held against the ear and never pushed in.
-- **record:** For each setting, write the distance in centimetres where your child first heard the tick, the best of two tries. Draw a bar chart with one bar for each setting.
+- **record:** For each setting, write the distance in centimetres where your child first heard the tick, the best of two tries. Make a bar chart with one bar for each setting. Draw it, or build the bars from coins.
 - **results table:** Ears | First heard at: try 1 (centimetres) | First heard at: try 2 (centimetres) | Best of the two (centimetres)
 - **s1 (3 min)**  
   *Parent does:* Show your child the clock, your cupped hands and the cone. Ask for their guesses and reasons. Write them at the top of the results table.  
   *Parent says:* Foxes, cats and deer have big ear flaps that they turn towards a sound. Do you think cupped hands could do the same job? What if the hands face backwards? Why do you think so?  
-  *Child mode:* Foxes turn big ears towards sounds. Can your hands do that? Guess first. Why?
+  *Child mode:* Guess first, and say why. Can cupped hands help you hear?
   - Ask: What do you think an ear flap does? (good: It catches sound.; It points sound into the ear.; It makes the ear bigger.)
   - Note: Do not explain what an ear flap does yet. Let your child guess first.
 - **s2 (6 min)**  
@@ -408,44 +408,44 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
   *Child mode:* Hold the cone to your ear. Say now when you hear the tick.
   - Note: The cone often does best of all. Make sure the child holds the small end gently to the ear and does not push it in. The cone is on one ear only, so keep the other ear open, and compare it with a bare ear. If cupped hands or the cone make no difference, the room may be noisy or the clock too loud. Write the honest result and ask why.
 - **s7 (3 min)**  
-  *Parent does:* Write the best distance for each setting. Draw a bar chart. Ask your child to say what they thought, what they saw and why.  
+  *Parent does:* Write the best distance for each setting. Make a bar chart, drawn or built from coins. Ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Which animal would use cupped ears like these?  
-  *Child mode:* Draw a bar for each setting. Say what you thought, what you saw, and why.
+  *Child mode:* Make a bar for each setting. Say what you thought, what you saw, and why.
   - Note: After your child's words, say: an ear flap collects more sound and points it into the ear, and it can be turned to find where the sound comes from. An ear flap makes the ear bigger. Mammals have them. Birds, frogs and snakes do not.
   - Think: A fox hunts mice that squeak under the grass. How does her ear shape help?
 
 ## Activities
 ### a1 · One Pond, Five Worlds: sort what each group senses best (25 min)
-- **record:** A sheet with five columns, one for each group, the clue strips stuck under the right ones, and a count under each column. Then a drawing of the pond as one group senses it.
+- **record:** A sheet with five columns, one for each group, the clue strips stuck under the right ones, and a count under each column. Then a drawing or model of the pond as one group senses it.
 - **s1 (6 min)**  
   *Parent does:* Write each clue on its own strip. Strip 1, a line of tiny sensors along the sides feels ripples. Strip 2, heat pits on the lips sense a warm body. Strip 3, a round eardrum sits on the outside of the head. Strip 4, a fourth colour cone sees ultraviolet. Strip 5, three tiny middle-ear bones. Strip 6, a forked tongue gathers scent. Strip 7, whiskers feel moving water and air. Strip 8, ear flaps turn towards a sound. Strip 9, a heart-shaped face collects sound. Strip 10, eyes on the sides give a very wide view. Strip 11, tiny dark dots on the jaws feel ripples. Strip 12, sharks sense weak electricity. Strip 13, a tadpole has a lateral line. Strip 14, high clicks and echoes find prey. Strip 15, the nose has many more smell receptors than a person's.  
   *Parent says:* Each strip is a clue about a sense. Some belong to one group only. Some could belong to more than one. Read them aloud, and think about who has this sense.  
-  *Child mode:* Write each clue on a strip. Read them all.
+  *Child mode:* Write each clue on a strip.
   - Note: The clues cover all five groups. Strips 3, 10 and 13 are good for discussion. Frogs have an eardrum on the outside of the head. Eyes on the sides are found in fish, frogs, birds and many mammals. A tadpole is an amphibian. There are no wrong answers to the discussion. Cutting strips: a child of 6 to 7 should use blunt, child-safe scissors with an adult close. With 2 to 4 children, each writes and cuts about five strips, then everybody sorts together. One child with a parent: share the writing.
 - **s2 (8 min)**  
-  *Parent does:* Draw five columns on the big sheet. Write one group at the top of each. Read a strip and decide where it belongs. Stick it there. If a strip could fit two groups, put it between them and say why. When all 15 are placed, count the strips under each group. Write the counts under the columns. Which group has most strips? Is that because it has the most senses, or because we know most about it?  
+  *Parent does:* Draw five columns on the big sheet. Write one group at the top of each: fish, amphibians, reptiles, birds and mammals. Read a strip and decide where it belongs. Stick it there. If a strip could fit two groups, put it between them and say why. When all 15 are placed, count the strips under each group. Write the counts under the columns. Which group has most strips? Is that because it has the most senses, or because we know most about it?  
   *Parent says:* Put each strip where it belongs. If two groups could fit, put it in the middle. Then tell me why.  
   *Child mode:* Put each strip in the right column. Explain your choice.
   - Ask: Which strip was the hardest to place? Why? (good: Wide eyes, because many groups have them.; The tadpole, because they change shape.; The strips that fit two groups.)
   - Note: Many answers are partly right. Some strips fit two or three groups, such as wide eyes and eardrums. Ask your child to give their reason. Reasons matter more than the exact column. Counts depend on where you put the shared strips, so write what you got. Do not look for one right answer.
   - Check: A strip says: eardrum on the outside of the head, with no ear flap. Which group fits best? → **Amphibians, such as a frog**
 - **s3 (8 min)**  
-  *Parent does:* Choose one group. Draw a pond as an animal of that group might sense it. Use colours or shapes for what she senses. Add a label that says what you think is most important to her.  
-  *Parent says:* Draw the pond as a fish, a python or a pigeon might sense it. What would stand out? What would hardly be there at all? Use colour or shape to show it.  
-  *Child mode:* Draw the pond as another animal senses it. What stands out?
+  *Parent does:* Choose one group. Show a pond as an animal of that group might sense it. Draw it with colours or shapes, or build it from things in the house. Say what you think is most important to her.  
+  *Parent says:* Show the pond as a fish, a python or a pigeon might sense it. What would stand out? What would hardly be there at all?  
+  *Child mode:* Pick an animal. Show the pond the way she might sense it.
   - Ask: What stands out most to your animal? What would hardly matter? (good: Moving things stand out to a frog.; Warm things glow for a python.; Smells stand out for a dog.)
   - Note: There is no correct picture. A snake may show warm shapes bright and cool shapes dark. A fish may show ripples as lines. A dog may show smell trails. Praise the thinking, and ask what each choice shows.
 - **s4 (3 min)**  
-  *Parent does:* Ask your child to show the drawing to the family. Ask the family to guess which animal it is.  
+  *Parent does:* Ask your child to show it to the family. Ask the family to guess which animal it is.  
   *Parent says:* Let us show this to the family. Can they guess which animal is sensing the pond? What clue helped?  
-  *Child mode:* Show your drawing. Can they guess your animal?
+  *Child mode:* Show it. Can they guess your animal?
   - Think: If you could be this animal for a day, what would you miss most about being you?
 ### a2 · Warm Spot Finder: which part of your skin feels warmth from the farthest? (25 min)
 - **record:** A table with four rows, palm, back of the hand, fingertip and cheek, and for each the distance in centimetres where your child first felt warmth. Write 'not felt' if nothing was felt before the pot stopped at 2 centimetres.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* An adult fills one pot with water as warm as a hot bath. Check that it feels comfortably warm on the inside of your wrist, and never hot. A finger should stay in it for 10 seconds without pain, and the outside of the pot should be bearable to hold. Fill the other pot with room-temperature water. Put a small secret mark under the warm pot. Ask your child to guess which part of the skin will feel warmth from farthest, and why.  
   *Parent says:* Today you will find warmth with your skin, the way a python does with her lip pits. Which part of your skin will notice it first? The palm, the back of your hand, a fingertip or your cheek? Why?  
-  *Child mode:* Guess first. Which part of your skin feels warmth best? Why?
+  *Child mode:* Guess first, and say why.
   - Ask: Why might one part of the skin be better at it than another? (good: It has thinner skin.; It has more tiny sensors.; It is used to touching things.)
   - Note: The warm water must be comfortable to touch, never hot. The adult prepares and checks the water. The pots must look identical so your child cannot guess by sight. Warm water cools fast, so refill the warm pot after about 10 minutes, and check again with your wrist. Warmth from a pot is felt only close up: often from 3 to 15 centimetres, and sometimes only a few centimetres. So the numbers are small, and that is real data. The adult always holds the pot and stops 2 centimetres from the skin, and nobody touches it. Do not use hotter water, and keep the pot out of the reach of small hands. Roles: with a parent, the parent holds and writes. With 2 to 4 children, one is tested at a time with eyes closed, one holds the pot, one writes, and the others stay silent. Each child can test the palm and cheek and compare, since skin differs between people.
 - **s2 (8 min)**  
@@ -453,7 +453,7 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
   *Parent says:* Close your eyes and hold out your palm. I bring a pot closer slowly. Say warm if you feel warmth, and not warm if you do not. Tell me the moment you feel it.  
   *Child mode:* Close your eyes. Say warm or not warm.
   - Note: Use the cool pot a few times as a check, so your child cannot just say warm every time. Hold the pot at the same height each time, and bring it from the side so rising warm air does not give it away.
-  - Check: Why do we sometimes bring the room-temperature pot? → **To check that the child is not just saying warm every time**
+  - Check: Why do we also bring the room-temperature pot? → **To check that the child is not just saying warm every time**
 - **s3 (6 min)**  
   *Parent does:* Repeat with the back of the hand, a fingertip, and the cheek. Always start 30 centimetres away, come in 2 centimetres every 3 seconds, and stop at 2 centimetres. Write the distance where your child first says 'warm'.  
   *Parent says:* Now the back of your hand. Then your fingertip. Then your cheek. Same game. Say warm the moment you feel it.  
@@ -461,9 +461,9 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
   - Ask: Which place noticed the warmth from farthest? Which was the last? (good: The cheek, it is thin.; The palm.; The fingertip was the last.)
   - Note: Many people notice warmth on the cheek or the palm first, and the back of the hand or fingertip later. Your child's order may differ. Write down what you get. Differences of one or two centimetres between places are within the error of the test, so look for big gaps only. Repeat the cheek and the back of the hand if the answers are close.
 - **s4 (4 min)**  
-  *Parent does:* Draw a bar chart of the four distances. Ask your child to say what they thought, what they saw and why. Then explain heat pits.  
+  *Parent does:* Make a bar chart of the four distances, drawn or built from coins. Ask your child to say what they thought, what they saw and why. Then explain heat pits.  
   *Parent says:* Tell me three things. What did you think? What did you see? Why did it happen? A python has pits on her lips that notice warmth. Some snakes with heat pits can sense a very small difference in warmth.  
-  *Child mode:* Draw a bar for each place. Say what you thought, what you saw, and why.
+  *Child mode:* Make a bar for each place. Say what you thought, what you saw, and why.
   - Note: After your child's words, say: some snakes have heat pits that react to infrared. An Indian rock python has rows of pits along her lips, and she can find a warm rat in the dark. Pit vipers have been reported to respond to changes of about three thousandths of a degree. Cobras do not have pits.
   - Think: Your skin feels warmth, but a python feels it much more finely. What would she be able to do?
 - **s5 (2 min)**  
@@ -475,7 +475,7 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
 - **s1 (5 min)**  
   *Parent does:* Lay the string in a gentle zigzag on a clean floor. Dab a little scent on the string every 20 centimetres. Use only a few drops each time. Ask your child to guess whether two nostrils or one will follow the trail better, and why.  
   *Parent says:* Dogs follow smell trails with their noses to the ground. A snake flicks her forked tongue to catch scent from two sides. Do you think two nostrils help you follow a trail better than one? Why?  
-  *Child mode:* Guess first. Do two nostrils follow a trail better than one? Why?
+  *Child mode:* Guess first, and say why.
   - Note: First ask whether anyone is allergic or sensitive to the scent, and choose another if so. Use scents that are safe to sniff. Do not use strong sprays, cleaning liquids or anything that irritates the nose. Keep the room well aired, and put the used string out of the room between trails, because the smell lingers. Sniffing one strong smell for a while tires the nose, so rest for a few minutes between trails. A cloth strip works better than thin string because it holds more scent. Roles: one child follows the trail, one lays it, one counts the steps, and one walks beside to keep the follower safe. One child with a parent: the parent lays the trail and walks beside. With 2 to 4 children, each child follows both a two-nostril and a one-nostril trail, and some begin with the one-nostril trail so the order does not decide the result. Keep the follower's path clear of furniture and corners, and the others stay out of sight of the trail.
 - **s2 (8 min)**  
   *Parent does:* Cover your child's eyes with the scarf. They kneel at the start of the trail and sniff along it, keeping their nose near the floor. They follow with the nose only, and do not feel for the string with their hands. Walk beside them to keep them safe. Count how many steps they follow before they lose the trail. Write the count.  
@@ -490,9 +490,9 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
   - Ask: Did closing one nostril change how you followed the trail? How? (good: I lost it sooner.; I wasn't sure which way to turn.; It was about the same.)
   - Note: In a 2007 study at the University of California, Berkeley, people did better at following a scent trail with both nostrils open. A snake's two-pronged tongue may work in a similar way, by sampling scent from two sides. Your child's results may differ, so write what you see. If time allows, follow a third trail with both nostrils to check that a tired nose or practice was not the cause. Honest results can go either way, because one try is only one try.
 - **s4 (5 min)**  
-  *Parent does:* Write both counts in the table. Draw a bar chart. Ask your child to say what they thought, what they saw and why. Then explain what a forked tongue does.  
+  *Parent does:* Write both counts in the table. Make a bar chart, drawn or built from coins. Ask your child to say what they thought, what they saw and why. Then explain what a forked tongue does.  
   *Parent says:* Tell me three things. What did you think? What did you see? Why do you think it happened? A snake flicks her forked tongue to taste the air on two sides. What could two sides tell her?  
-  *Child mode:* Draw two bars. Say what you thought, what you saw, and why.
+  *Child mode:* Make two bars. Say what you thought, what you saw, and why.
   - Note: A strong answer may say that two samples let the animal compare left and right, and turn towards the stronger one. After your child's words, say: a snake's forked tongue collects scent and wipes it onto two spots in the roof of her mouth. The two tips may help her work out which way the trail goes.
   - Think: Why would a snake with a forked tongue find a trail more easily than one with a single tip?
 - **s5 (4 min)**  
@@ -507,18 +507,18 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
 - **schedule:** day 1: Put out a few grains on a ledge, and sit quietly at a distance. Watch how a bird moves her head and which eye she turns towards you. (15 min); day 2: Watch again. Note how close you can get before she flies away, and what you were doing. (15 min); day 3: Make a soft sound behind you and see if the bird turns her head. Write what you learnt. (15 min)
 - **s1 (15 min)**  
   *Parent does:* On day 1, put a few grains on a ledge, then sit quietly as far from the ledge as your space allows. On a terrace, that is 3 to 4 metres away. In a flat, sit behind the window glass. Watch the bird for 10 minutes. Note when she turns her head, which eye faces you, and whether her head bobs forward and back as she walks.  
-  *Parent says:* Sit very still and watch the bird. Which eye is she using to look at you? Does her head bob as she walks? Draw what you see.  
-  *Child mode:* Sit still and watch a bird. Which eye looks at you? Draw her head.
+  *Parent says:* Sit very still and watch the bird. Which eye is she using to look at you? Does her head bob as she walks?  
+  *Child mode:* Sit still and watch the bird's head.
   - Ask: Why might a bird turn one side of her head towards you? (good: Her eyes are on the sides.; She sees you with one eye.; She wants a wide view.)
   - Note: Birds with side-facing eyes often turn one side towards something to look at it. A pigeon's head bob holds her view steady for a moment between steps. If no bird comes, try again at another time of day. Early morning is usually best. Roles: with a parent, the parent keeps time and notes, and the child watches. With 2 to 4 children, one watches, one draws, one writes down, and everybody whispers. Share one window, and take turns at the front.
 - **s2 (15 min)**  
-  *Parent does:* On day 2, sit in the same place. On a terrace or in a garden, move one slow step closer every 10 seconds. Count the steps. If you only have a window, move slowly behind the glass: lift a hand, then wave, then stand up. Note which move made her fly. Draw what you were doing when she left.  
+  *Parent does:* On day 2, sit in the same place. On a terrace or in a garden, move one slow step closer every 10 seconds. Count the steps. If you only have a window, move slowly behind the glass: lift a hand, then wave, then stand up. Note which move made her fly. Write down what you were doing when she left, or tell your grown-up.  
   *Parent says:* Move one step closer every ten seconds. Stop when she flies. How close were you? Was she looking at you before she flew?  
   *Child mode:* Move one slow step at a time. Stop when she flies. How close were you?
   - Note: Measure the steps. From a window the bird may not fly at all, so write that down as a result. Do not chase. If the bird flies at once, start further away. Birds that watch you from the side may see you early.
 - **s3 (15 min)**  
   *Parent does:* On day 3, sit in the same place. While the bird feeds, make a soft sound behind you, such as a quiet tap on a steel plate. Tap once a minute, five times in all. After each tap, tally whether she looked up or turned her head, and which way. Also tally one minute with no tap. Write what you have found out over three days.  
-  *Parent says:* Make a soft tap behind you. Does she turn her head? Which way? What do you think she is sensing? Write what you learnt.  
+  *Parent says:* Make a soft tap behind you. Does she turn her head? Which way? What do you think she is sensing? Tell me what you learnt, and then write it down.  
   *Child mode:* Make a soft tap. Does she turn her head? Write what you learnt.
   - Note: Compare the five tap minutes with a minute of no taps. If she looks up about as often with no tap, the tap did not matter. Real birds are unpredictable, so write the tally you really got.
   - Think: What do you think a bird senses about you that you do not notice about yourself?
@@ -526,17 +526,17 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
 ## Challenges
 ### c1 · Sound Catcher: build ears that hear a ticking clock from the farthest (35 min)
 - **problem:** Build a pair of ears from card and tape that lets you hear a quiet ticking clock from the farthest distance.
-- **your turn:** Sketch your design first. Build it, and test it with your eyes closed. Find the farthest distance where you hear the tick. Then change one thing, such as the size of the opening, and test again. Which design worked best? Why do you think so?
+- **your turn:** Sketch your design first, or describe it. Build it, and test it with your eyes closed. Find the farthest distance where you hear the tick. Then change one thing, such as the size of the opening, and test again. Which design worked best? Why do you think so?
 - **constraints:** Use only card, paper, tape and scissors.; The ears must be held or worn on the head, not held by a helper.; The clock stays at ear height and the same softness for every test.; Test your ears with your eyes closed, so that only the ears do the work.
 - **general:** A single cone held at one ear, with the wide end facing the sound.; Two cones, one for each ear, fixed to a headband.; A large dish shape behind the head, like a satellite dish, that catches sound and guides it forward.
 - **creative:** A fox-ear design: two tall pointed ears fixed to a headband, with the openings facing slightly forwards.; An owl-face dish: a big heart-shaped dish fixed around the face, with a gap for the ears.; Ears that turn: ear cones on hinges, so that you can aim one at a time, like a deer.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem aloud. Ask your child to sketch two or three ear designs. Ask which animal's ears each one is like.  
+  *Parent does:* Read the problem aloud. Ask your child to sketch two or three ear designs, or just describe them. Ask which animal's ears each one is like.  
   *Parent says:* Your job is to build ears that hear a quiet clock from farther than your own ears can. Sketch two or three designs first. Which animal is each design like?  
-  *Child mode:* Build ears that hear far. Sketch two or three designs first.
+  *Child mode:* Plan two or three ear designs. Then build one.
   - Ask: What shape do you think catches the most sound? (good: A big cone.; A wide dish.; Something like a fox's ear.)
 - **s2 (5 min)**  
-  *Parent does:* First test bare ears, as in the Cup Your Ears experiment. Write the distance where your child first hears the tick. This is the number to beat.  
+  *Parent does:* First test bare ears. The helper holds the clock 3 metres away and walks closer, 20 centimetres every 3 seconds. Your child keeps their eyes closed. Write the distance where your child first hears the tick. This is the number to beat.  
   *Parent says:* First, how far can you hear the clock with bare ears? That number is the one to beat.  
   *Child mode:* Test bare ears first. This is the number to beat.
 - **s3 (12 min)**  

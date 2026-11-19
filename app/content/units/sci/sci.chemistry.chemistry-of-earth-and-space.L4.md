@@ -323,7 +323,7 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
 - **s1 (4 min)**  
   *Parent does:* Label three dry jars A, B and C. Show your child the purple indicator water. Ask for the guess and the reason, and write both down.  
   *Parent says:* Jar A will hold plain air. Jar B will hold gas from burning match heads. Jar C will hold gas from burning wood. Then each jar gets indicator water. Which water will turn pinkest? Why do you think so?  
-  *Child mode:* Three jars: plain air, match-head gas and wood gas. Which water turns pinkest? Why?
+  *Child mode:* Guess which jar's water will turn pinkest. Say why.
   - Ask: What might a match head hold that the wooden stick does not? (good: Something that catches fire easily.; A chemical.; Sulfur, because of the sharp smell.)
   - Note: The indicator is pink in acid and purple in water that is neither acid nor base. Do not correct the guess.
 - **s2 (3 min)**  
@@ -362,7 +362,7 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
 - **s1 (4 min)**  
   *Parent does:* Lay the surfaces in a row on newspaper. Put the paper slips L and W beside each one. Ask for the guess and the reason, and write both down.  
   *Parent says:* Lemon juice is an acid, much stronger than acid rain. Each surface gets one drop of lemon and one drop of water. Which surfaces will the lemon mark? Why do you think so?  
-  *Child mode:* Each surface gets a lemon drop. Which ones will it mark? Why?
+  *Child mode:* Guess which surfaces the lemon will mark. Say why.
   - Ask: Why do we also put a drop of plain water on each surface? (good: To see whether water alone leaves a mark.; Then we know the acid did it and not the wetness.)
   - Note: Many children expect the hardest-looking stone to be safe and the steel to be harmed. Do not correct the guess.
 - **s2 (3 min) · grown-up needed**  
@@ -372,7 +372,7 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
   - Note: A grown-up cuts the lemon. The rest your child can do.
 - **s3 (8 min)**  
   *Parent does:* While you wait, your child looks closely at every lemon drop. A magnifying glass or a zoomed-in phone camera helps. They write yes or no for bubbles. Look again after 5 minutes.  
-  *Parent says:* Look into each lemon drop. Can you see tiny bubbles growing on the stone under it? Look at the water drops too. Write yes or no for each surface.  
+  *Parent says:* Look into each lemon drop. Can you see tiny bubbles on the stone under it? Look at the water drops too. Write yes or no for each surface.  
   *Child mode:* Look closely at each lemon drop. Are there tiny bubbles? Write yes or no.
   - Check: A lemon drop on marble makes tiny bubbles. What are the bubbles? → **A new gas made by the acid and the marble**
 - **s4 (5 min)**  
@@ -398,7 +398,7 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* Crush the shells to bits as small as rava. Fold them in paper and roll a rolling pin over them. Half fill both tumblers with drinking water. Add 2 tablespoons of indicator water to each. Ask for the guess and the reason.  
   *Parent says:* These two tumblers are two lakes. One will lie on glass marbles, which stand for granite. The other will lie on crushed shell, which stands for limestone. Both will get the same sour rain. What will happen to each? Why do you think so?  
-  *Child mode:* Two lakes get the same sour rain. What will happen to each? Why?
+  *Child mode:* Guess what the sour rain will do to each lake. Say why.
   - Note: Shell, limestone and marble are the same substance, calcium carbonate. Glass is made from sand and reacts with acid as little as granite does. Do not correct the guess.
 - **s2 (3 min)**  
   *Parent does:* Your child puts the 6 marbles into one tumbler and labels it Lake Granite. They put a heaped teaspoon of crushed shell into the other and label it Lake Limestone. Stir both. Write the colours in the first row.  
@@ -436,7 +436,7 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
 - **s1 (3 min)**  
   *Parent does:* Put the bottle, the salt and the teaspoon on the table. Ask for the guess and the reason before any salt goes in.  
   *Parent says:* This bottle holds half a litre of water. How much salt would make it as salty as the sea? Show me with the spoon. Why do you think so?  
-  *Child mode:* How much salt makes this bottle as salty as the sea? Why?
+  *Child mode:* Show with the spoon how much salt you guess. Say why.
   - Ask: Have you ever tasted sea water? What was it like? (good: Very salty.; Salty and a bit bitter.; I have not, but people say you cannot drink it.)
   - Note: Most children guess a pinch or half a spoon. Do not correct the guess.
 - **s2 (4 min)**  
@@ -448,11 +448,11 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
 - **s3 (3 min)**  
   *Parent does:* Sit together. Ask your child to say what they guessed and what the recipe needed. Then ask the question below, and leave it open.  
   *Parent says:* Say what you guessed, and what the recipe needed. Now think about this. River water has no salty taste, and every river runs into the sea. So where could the sea's salt come from?  
-  *Child mode:* Say what you guessed and what you found. Where could the sea's salt come from?
+  *Child mode:* Say what you guessed and what the recipe needed.
   - Ask: Where could the salt in the sea come from? (good: From rocks under the sea.; Maybe rivers bring a little.; I do not know yet.)
   - Note: Do not give the answer. The Plate That Got Saltier tests one idea over five days. Pour the Bottle of Sea down the sink afterwards. Do not water plants with it.
 ### a2 · One Hundred Grains of Air: count out the recipe of air (15 min)
-- **record:** Draw the plate. Write how many grains stand for nitrogen, oxygen and argon.
+- **record:** Write how many grains stand for nitrogen, oxygen and argon. Keep the plate of grains, or take a photo of it.
 - **s1 (3 min)**  
   *Parent does:* Ask the question below before any counting. Write down the guess and the reason.  
   *Parent says:* Air is a mixture of gases. Suppose the air in this room were 100 grains. How many of them would be oxygen, the gas we need? Why do you think so?  
@@ -483,7 +483,7 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
 - **s2 (5 min)**  
   *Parent does:* Your child colours 3 and a half squares yellow, in one corner of the sea water grid. They colour the other 96 and a half squares blue. Then they put a dot on 3 of the yellow squares.  
   *Parent says:* Sea water is 3 and a half parts salts in every 100. Colour those yellow. Colour the rest blue for water. The 3 dotted squares are common salt. The last half square is all the other salts.  
-  *Child mode:* Colour 3 and a half squares yellow for salts. Colour the rest blue.
+  *Child mode:* Colour (or cover with yellow counters) 3 and a half squares for salts. Colour the rest blue.
   - Note: The half square stands for the bitter salts of magnesium and a few others. They are why sea salt from the pans is purified before it is sold.
 - **s3 (4 min)**  
   *Parent does:* On the soil grid your child colours 45 squares brown, 25 blue and 5 black. They leave 25 squares empty and write 'air' across them.  
@@ -491,9 +491,9 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
   *Child mode:* Colour 45 brown, 25 blue and 5 black. Leave 25 empty for air.
   - Check: In good garden soil, about how much is water and air together? → **About half**
 - **s4 (3 min)**  
-  *Parent does:* Lay the two grids side by side. If you did One Hundred Grains of Air, put that drawing beside them. Ask your child to say what they guessed and what they found.  
+  *Parent does:* Lay the two grids side by side. If you did One Hundred Grains of Air, put your numbers beside them. Ask your child to say what they guessed and what they found.  
   *Parent says:* Say what you guessed and what you found. Now look for water. Is there water in sea water, in soil and in air?  
-  *Child mode:* Say what you guessed and found. Which of the three recipes hold water?
+  *Child mode:* Say what you guessed and what you found.
   - Ask: Which of the three mixtures hold water? (good: All three.; Sea water is mostly water, soil holds water in its gaps, and air holds water vapour.)
   - Note: In One Hundred Grains of Air, 78 grains of rice stood for nitrogen and 21 grains of dal for oxygen. That plate showed dry air. Real air also holds up to 4 parts in 100 of water vapour.
 
@@ -527,7 +527,7 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
 ## Challenges
 ### c1 · The Rain Catcher: collect rain with nothing else in it (25 min)
 - **problem:** Scientists who study acid rain must collect rain and nothing else. Dust, leaves, bird droppings and water splashing up from the ground all change the result. Build a rain catcher for a balcony or a window ledge. It must catch falling water, keep dust out before the rain starts, block splashes and stand firm in wind.
-- **your turn:** Now invent your own rain catcher. It must pass all four tests: the rain test, the dust test, the splash test and the wind test. Draw your design and write which test was hardest to pass. On a rainy day, catch real rain with it. Put 2 tablespoons of the rain in a glass. Add 1 tablespoon of indicator water, which is the red cabbage water of Smoke in the Jar. Do the same with tap water, and compare the colours.
+- **your turn:** Now invent your own rain catcher. It must pass all four tests: the rain test, the dust test, the splash test and the wind test. Show your design as a drawing, a photo or a spoken description, and say which test was hardest to pass. On a rainy day, catch real rain with it. Put 2 tablespoons of the rain in a glass. Add 1 tablespoon of indicator water, which is the red cabbage water of Smoke in the Jar. Do the same with tap water, and compare the colours.
 - **constraints:** Rain test: a helper pours one mug of water slowly through a colander held an arm's length above. Your catcher must collect at least 4 tablespoons.; Dust test: before the rain test, sprinkle a pinch of turmeric powder over the catcher. The water you collect must not be yellow.; Splash test: pour half a mug of water on the floor right beside the catcher, from knee height. No splashed water may get in.; Wind test: the catcher must stay standing when you push it gently three times with one finger.; Use only things from home. You may open or move a lid by hand when the rain starts.
 - **general:** Stand a funnel in the mouth of a bottle, so that a wide opening feeds a narrow neck.; Put clean stones in the bottom of the bottle so that the wind does not tip it.; Raise the catcher on an upturned bucket, above the height that splashes reach.; Cover the funnel with a small plate, and lift the plate off when the rain starts.
 - **creative:** Tie the lid to a string, so that you can pull it off from indoors without getting wet.; Fit a paper or plastic collar around the funnel, sloping outwards like a small roof, to throw splashes off.; Rest a clean marble in the funnel. Water runs in around the marble, and less dust falls in afterwards.
@@ -540,7 +540,7 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* Your child chooses a plan and builds it. A grown-up cuts the top off a bottle to make a funnel, if one is needed.  
   *Parent says:* Choose your plan and build it. How will you keep dust out before the rain? How will you keep splashes out? What will stop it falling over?  
-  *Child mode:* Choose a plan and build it. A grown-up cuts the bottle.
+  *Child mode:* Choose a plan and build it. Ask a grown-up to cut a bottle if you need a funnel.
   - Note: Cover the cut edge of the bottle with tape, because it is sharp.
 - **s3 (5 min)**  
   *Parent does:* Run the four tests in this order: dust, rain, splash and wind. After the rain test, measure the water with the tablespoon and look at its colour. Record each test as pass or fail.  

@@ -410,7 +410,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about body plans. You collect sets of five animals whose bodies are laid out in the same way.",
+   "context": "This is a card game about body plans. You collect sets of five animals whose bodies are laid out in the same way. You will find out that animals that look very different can be built the same way.",
    "setup": [
     {
      "art": "Twenty small cards spread on a table, each with the name of an animal and a short description.",
@@ -486,7 +486,7 @@
      "mins": 7,
      "do": "Deal five cards each and play. With one child, the parent is the second player. Let your child read each new card aloud.",
      "say": "Ask me for a plan you already hold. If I have any animals with that plan, I must give them all to you.",
-     "kid": "Ask for a plan you hold. Collect all five of a family.",
+     "kid": "Ask for a plan. Collect all five animals of one family.",
      "ask": [
       {
        "q": "How did you decide which family a card belongs to?",
@@ -595,7 +595,7 @@
      "mins": 3,
      "do": "Draw the grid and make the two dough animals. Read the rules together. Ask for a guess before the first roll.",
      "say": "One animal is round, with arms on every side. The other has a head and one mouth. Which will eat more when food drifts in from all sides? Why do you think so?",
-     "kid": "Draw the grid. Make two dough animals. Which will eat more? Why?",
+     "kid": "Draw the grid. Make two dough animals. Say which one you think will eat more.",
      "context": "This is the first step of Sit or Seek. You set up the board and guess which body will eat more."
     },
     {
@@ -683,8 +683,8 @@
      "qty": 1
     }
    ],
-   "record": "Draw a table with three rows: matched roller, a little lopsided, very lopsided. For each roll, write how far from the line the roller stopped, and on which side. If the roller went right round, write 'circle'.",
-   "context": "In this experiment you make three rollers from pencils and balls of dough. You test whether a roller needs matching sides to roll straight.",
+   "record": "Make a table with three rows: matched roller, a little lopsided, very lopsided. For each roll, write how far from the line the roller stopped, and on which side. If the roller went right round, write 'circle'.",
+   "context": "In this experiment you make three rollers from pencils and balls of dough. You test whether a roller needs matching sides to roll straight. You will find out why a fish needs two matching sides.",
    "setup": [
     {
      "art": "Three pencils on a table, each with a ball of dough pushed on to each end: one with two equal balls, one with a large and a medium ball, one with a large and a very small ball.",
@@ -750,8 +750,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Show your child a pencil and two lumps of dough, one large and one small. Ask for the guess and the reason, and write both down.",
-     "say": "We will put a ball of dough on each end of a pencil and let it roll. Which roller will go straightest? Will a lopsided one turn towards the big ball or the small ball? Why do you think so?",
-     "kid": "Guess which roller goes straightest. Which way will a lopsided roller turn? Why?",
+     "say": "We will put a ball of dough on each end of a pencil and let it roll. Which roller will go straightest? Will a lopsided one turn towards the big ball or the small ball?",
+     "kid": "Say your guess for each roller. Then say why you think so.",
      "ask": [
       {
        "q": "Why do you think it will turn that way?",
@@ -779,7 +779,7 @@
      "mins": 3,
      "do": "Rest one end of the tray on the thin book. Draw a chalk line on the floor, straight out from the middle of the low end, about 1 metre long. Mark a start line across the top of the ramp.",
      "say": "This line shows where a roller would go if it rolled perfectly straight. We will start every roll from the same place.",
-     "kid": "Make the ramp. Draw a straight line on the floor from the ramp.",
+     "kid": "Make the ramp. Chalk a straight line on the floor from the ramp.",
      "parent": "A line between two rows of floor tiles can be the straight line. If the rollers stop too soon, raise the ramp on a second book.",
      "context": "In this step of the Lopsided Roller test you set up the ramp and the straight line on the floor."
     },
@@ -825,7 +825,7 @@
      "id": "s7",
      "mins": 4,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Look at your results. Say what you thought would happen, what you saw, and why it happened. Then tell me: why might a fish need two matching sides?",
+     "say": "Look at your results. Then tell me: why might a fish need two matching sides?",
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -887,8 +887,8 @@
      "qty": 1
     }
    ],
-   "record": "Draw a table with four rows: the 6 centimetre cone, the 9 centimetre cone, the 12 centimetre cone and the coil. Write the height of the lifted end for each of the three tries. If a shape did not fall, write 'did not fall' and the height you reached.",
-   "context": "In this experiment you make dough models of snail shells: three straight cones and one coil. You tilt a board to find out which shape falls over first.",
+   "record": "Make a table with four rows: the 6 centimetre cone, the 9 centimetre cone, the 12 centimetre cone and the coil. Write the height of the lifted end for each of the three tries. If a shape did not fall, write 'did not fall' and the height you reached.",
+   "context": "In this experiment you make dough models of snail shells: three straight cones and one coil. You tilt a board to find out which shape falls over first. You will find out why a snail's shell is coiled and not tall and straight.",
    "setup": [
     {
      "art": "Three dough cones standing in a row on a table, 6, 9 and 12 centimetres tall, each with a base 3 centimetres wide, with a ruler standing beside them.",
@@ -948,8 +948,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Show your child a snail shell or a picture of one, and a lump of dough. Ask for the guess and the reason, and write both down.",
-     "say": "A snail's shell is a long cone that is wound into a coil. We will test straight cones and a coil on a tilted board. Which will fall first? Why do you think so?",
-     "kid": "Guess which dough shell will fall first on a tilted board. Why?",
+     "say": "A snail's shell is a long cone that is wound into a coil. We will test straight cones and a coil on a tilted board. Which will fall first?",
+     "kid": "Say which dough shell you think will fall first, and why.",
      "context": "This is the first step of Tall Cone or Coil. You guess which shell shape will fall over first, before you test."
     },
     {
@@ -964,9 +964,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Stand the 6 centimetre cone in the middle of the board. Your child lifts one end slowly. You hold the ruler upright at that end. Read the height when the cone falls. Do this 3 times. Then test the 9 centimetre cone and the 12 centimetre cone in the same way.",
+     "do": "Stand the 6 centimetre cone in the middle of the board. Your child lifts one end slowly. You hold the ruler upright at that end. Read the height when the cone falls and write it down. Do this 3 times. Then test the 9 centimetre cone and the 12 centimetre cone in the same way.",
      "say": "Lift slowly, about one finger-width each second. Stop the moment the cone tips. I will read the height.",
-     "kid": "Lift one end of the board slowly. Stop when the cone falls. Write the height.",
+     "kid": "Lift one end of the board slowly. Stop when the cone falls.",
      "parent": "If a cone slides before it falls, lay a sheet of paper on the board and try again. The shortest cone needs the steepest tilt.",
      "context": "In this step of Tall Cone or Coil you tilt the board under each of the three straight cones."
     },
@@ -993,16 +993,16 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "For each shape, circle the middle value of the three tries. Put the four shapes in order, from the one that fell first to the one that fell last.",
-     "say": "Which shape fell at the lowest tilt? Which stayed on longest? What happened as the cones got taller?",
-     "kid": "Circle the middle value for each shape. Which shape fell first?",
+     "do": "For each shape, look at the three heights and circle the middle one. Put the four shapes in order, from the one that fell first to the one that fell last.",
+     "say": "Which shape fell at the lowest tilt? Which stayed on longest?",
+     "kid": "Circle the middle height for each shape.",
      "context": "In this step of Tall Cone or Coil you put the four shapes in order of steadiness."
     },
     {
      "id": "s6",
      "mins": 4,
      "do": "Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. Then tell me: what would a straight shell be like for a big, old snail?",
+     "say": "Look at your table. Then tell me: what would a straight shell be like for a big, old snail?",
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -1056,7 +1056,7 @@
     }
    ],
    "record": "A table with three rows: me, another animal, and the tumbler. It has three columns: top and bottom, front and back, left and right. Write 'match' or 'differ' in each box.",
-   "context": "In this activity you check three pairs of sides on yourself, on another animal and on a steel tumbler. You find out which pairs match.",
+   "context": "In this activity you check three pairs of sides on yourself, on another animal and on a steel tumbler. You find out which pairs match, and why a jellyfish is different.",
    "setup": [
     {
      "art": "A notebook table with three rows labelled Me, Another animal and Tumbler, and three columns labelled Top and bottom, Front and back, Left and right.",
@@ -1108,7 +1108,7 @@
      "mins": 3,
      "do": "Stand the tumbler upside down. Explain that a jellyfish is shaped like this, with the mouth under the middle and tentacles round the rim. Check the three pairs on the tumbler.",
      "say": "This tumbler stands for a jellyfish. Does the top match the bottom? Turn it slowly. Can you find a front, a back, a left or a right?",
-     "kid": "Turn a tumbler upside down. Does it have a front? Does it have a left side?",
+     "kid": "Turn the tumbler slowly. Look for a front and a left side.",
      "check": {
       "t": "mcq",
       "q": "A crow has a front and a back. Which pair of a crow's sides match each other?",
@@ -1155,8 +1155,8 @@
      "what": "Find covering tissue, muscle tissue, connecting tissue and nerve tissue in your own hand, and label a drawing."
     }
    ],
-   "record": "Trace round your hand on paper. Label where you found each of the four kinds of tissue: covering, muscle, connecting and nerve.",
-   "context": "In this activity you find the four main kinds of animal tissue in your own hand: covering tissue, muscle tissue, connecting tissue and nerve tissue.",
+   "record": "Trace round your hand on paper. Label where you found each of the four kinds of tissue: covering, muscle, connecting and nerve. Or point to each place on your hand and name it.",
+   "context": "In this activity you find the four main kinds of animal tissue in your own hand. A tissue is a group of tiny body parts that do one job together. You will find out that one small hand is built from four different kinds: covering tissue, muscle tissue, connecting tissue and nerve tissue.",
    "setup": [
     {
      "art": "A child looking at the back of her hand through a magnifying glass, with the fine lines of the skin drawn large in a circle.",
@@ -1193,8 +1193,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Your child rests one hand on the table, palm up. With the other hand, they press the mound at the base of the thumb. Then they pinch thumb and first finger together hard.",
-     "say": "Press the soft mound at the base of your thumb. Now pinch hard. What happens to the mound? That is muscle tissue. Its cells have all shortened at once.",
-     "kid": "Press the mound below your thumb. Now pinch hard. What do you feel?",
+     "say": "Press the soft mound at the base of your thumb. Now pinch hard. What happens to the mound? That is muscle tissue. The muscle shortens and bunches up.",
+     "kid": "Press the mound below your thumb. Now pinch hard.",
      "ask": [
       {
        "q": "What changed when you pinched?",
@@ -1228,9 +1228,9 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Trace round the hand on paper. Label the four tissues and where each was found.",
+     "do": "Trace round the hand on paper and label the four tissues. Or skip the drawing: point to where you found each tissue on your hand and name it.",
      "say": "Label your drawing: covering tissue, muscle tissue, connecting tissue and nerve tissue. Which did you see, and which did you only feel?",
-     "kid": "Trace your hand. Label where you found each of the four tissues.",
+     "kid": "Trace your hand and label the four tissues. Or point to each place and name it.",
      "check": {
       "t": "mcq",
       "q": "In Four Tissues in Your Hand, the mound at the base of your thumb went firm when you pinched. Which tissue is it?",
@@ -1273,7 +1273,7 @@
     }
    ],
    "record": "Keep the paper animal. On the back, write what job you gave to each changed segment.",
-   "context": "In this activity you draw one body segment and cut it once from folded paper. You get a row of eight matching segments, and then you change some of them.",
+   "context": "In this activity you draw one body segment and cut it once from folded paper. A segment is one part of a body that repeats, like one ring of an earthworm. You will find out how a body can make many parts from one, and then change some of them.",
    "setup": [
     {
      "art": "A long strip of paper folded backwards and forwards like a fan into eight equal parts.",
@@ -1330,9 +1330,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Change some segments. Draw eyes and long feelers on the first one and trim its legs short. Snip the last one into a tail fan. Colour a few middle segments as walking legs and a few as swimming legs.",
-     "say": "A prawn's segments began alike, and each kind now does a different job. Change your segments. Which will sense, which will walk and which will swim?",
-     "kid": "Give the first segment eyes and feelers. Make the last a tail. Colour the rest.",
+     "do": "Change some segments. Trim the legs of the first one short. Snip the last one into a tail fan. Then tell your grown-up what job each changed segment has, such as seeing, walking or swimming.",
+     "say": "A prawn's segments began alike, and each kind now does a different job. Change your segments. Which one will feel the way, which will walk and which will swim?",
+     "kid": "Trim the first segment's legs. Make the last one a tail. Say what job each changed segment does.",
      "check": {
       "t": "mcq",
       "q": "A prawn has feelers, walking legs and swimming legs on different segments. What does this show?",
@@ -1374,9 +1374,9 @@
      "what": "Count the segments of a prawn or the muscle blocks of a fish, and find which way a shell coils."
     }
    ],
-   "record": "Draw what you looked at. Write the number of segments or muscle blocks you counted. For a shell, write whether the opening is on the right or the left.",
+   "record": "Write the number of rings or flakes you counted. For a shell, write whether the opening is on the right or the left.",
    "safety": "Wash hands with soap after touching raw prawn or fish.",
-   "context": "In this activity you look for segments in a prawn or a piece of fish. You also look for the spiral in a real shell. Do it only if your family has one of these at home.",
+   "context": "In this activity you look for segments in a prawn or a piece of fish. You also look for the spiral in a real shell. You will find out how animals are built in rows and in coils. Do it only if your family has one of these at home.",
    "setup": [
     {
      "art": "A whole raw prawn on a steel plate with a child's finger pointing at the rings of the tail part.",
@@ -1463,8 +1463,8 @@
      "what": "Draw three more animals. Then sort all twelve by body plan and make a contents page."
     }
    ],
-   "record": "One page for each animal. Draw the animal from above. Mark the front end with an F. Draw every line that cuts the body into matching halves in red. Write the body plan, and the number of segments if you can count them.",
-   "context": "In this four-day project you make an album of twelve animals. For each one you find the front end, the lines of matching halves and the body plan.",
+   "record": "One page for each animal. Draw the animal from above, or stick in a photo. Mark the front end with an F. Mark every line that cuts the body into matching halves in red. Write the body plan, and the number of segments if you can count them.",
+   "context": "In this four-day project you make an album of twelve animals. For each one you find the front end, the lines of matching halves and the body plan. You will find out which body plan most animals around you have.",
    "setup": [
     {
      "art": "A small hand-made book open at a page with a pencil drawing of an ant from above, a red line from head to tail and a letter F at the head.",
@@ -1483,35 +1483,35 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Day 1. Find three animals at home or from the window. An ant, a crow, a gecko, a fly or a family member will do. Draw each from above on a page of its own. Mark the front and the red line.",
+     "do": "Day 1. Find three animals at home or from the window. An ant, a crow, a gecko, a fly or a family member will do. Draw each from above on a page of its own, or stick in a photo or picture. Mark the front. Mark the red line, which cuts the body into two matching halves.",
      "say": "Draw the animal as if you were looking down from the ceiling. Where is the front? How many lines cut this body into matching halves?",
-     "kid": "Draw three animals from above. Mark the front. Draw the middle line in red.",
+     "kid": "Draw three animals from above. Mark the front. Mark the red line that cuts each into matching halves.",
      "parent": "A quick, rough drawing is enough. The point is the front end and the red line, not a perfect picture.",
      "context": "This is day 1 of My Body Plan Album. You draw three animals you can see and find the middle line of each."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Day 2. Find three animals in the kitchen, at the market or on a food packet: a fish, a prawn, a crab or a hen. Draw each and mark the front and the red line. Count any segments.",
+     "do": "Day 2. Find three animals in the kitchen, at the market or on a food packet: a fish, a prawn, a crab or a hen. Do not draw them. Take a photo or point to each animal and tell your grown-up where the front is. Count any segments.",
      "say": "Does this animal have parts that repeat in a row? Count them if you can.",
-     "kid": "Draw three animals from the kitchen or market. Count any repeated parts.",
+     "kid": "Find three animals from the kitchen or market. Tell where the front is. Count any repeated parts.",
      "context": "This is day 2 of My Body Plan Album. You draw three animals from the kitchen or the market and look for segments."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "Day 3. From a book or a screen, choose a jellyfish or a starfish, a snail, and one more sea animal. Draw each from above. A ring animal will need several red lines.",
+     "do": "Day 3. From a book or a screen, choose a jellyfish or a starfish, a snail, and one more sea animal. Point to the front of each, or say it has none. For a ring animal, count the lines that cut the body into matching halves.",
      "say": "How many red lines can you draw through a starfish? How many through a snail's shell?",
-     "kid": "Draw a jellyfish or starfish, a snail and one more. How many red lines?",
+     "kid": "Find a jellyfish or starfish, a snail and one more. How many matching-halves lines does each have?",
      "parent": "A starfish has five lines of matching halves. A snail's coiled shell has none, although her soft body has one.",
      "context": "This is day 3 of My Body Plan Album. You draw three sea animals, with at least one ring animal and one snail."
     },
     {
      "id": "s4",
      "mins": 10,
-     "do": "Day 4. Draw three more animals of your child's choice. Then write a contents page that sorts all twelve under four headings: rings, two halves, spiral shell and segments. An animal can go under two headings.",
+     "do": "Day 4. Choose three more animals. Then write a contents page that sorts all twelve under four headings: rings, two halves, spiral shell and segments. An animal can go under two headings.",
      "say": "Which heading has the most animals? Did any animal fit two headings? Did any animal fit none?",
-     "kid": "Draw three more. Sort all twelve by body plan. Which plan has the most?",
+     "kid": "Choose three more. Sort all twelve by body plan. Which plan has the most?",
      "check": {
       "t": "mcq",
       "q": "Twelve animals are found at home and at the market. Which body plan is likely to be the most common?",
@@ -1558,8 +1558,8 @@
     "Plait three groups of threads, as hair is plaited.",
     "Tie short threads in two rows, so that if one thread snaps the others still hold."
    ],
-   "your_turn": "Now design your own. Find the smallest number of threads that holds the bag for 10 seconds. Draw how you arranged them. Then test one change, such as twisting, and write whether you needed fewer threads.",
-   "context": "In this challenge you lift a 2 kilogram bag using only thin sewing thread. It is a model of a tendon, a tissue made of many thin fibres that share one job.",
+   "your_turn": "Now design your own. Find the smallest number of threads that holds the bag for 10 seconds. Take a photo of how you arranged them, or draw it. Then test one change, such as twisting, and write whether you needed fewer threads.",
+   "context": "In this challenge you lift a 2 kilogram bag using only thin sewing thread. You will find out how many weak threads it takes to hold a heavy bag. It is a model of a tendon, a tissue made of many thin fibres that share one job.",
    "setup": [
     {
      "art": "A cloth bag with a packet of rice in it on the floor, a reel of sewing thread, scissors and a rolling pin.",
@@ -1619,9 +1619,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Write the smallest number of threads that held. Draw the design. Then ask the question below.",
+     "do": "Write the smallest number of threads that held. Take a photo of the design, or draw it. Then ask the question below.",
      "say": "How many threads did you need? Your tendons work in the same way. Thousands of thin fibres lie side by side, all the same way, and share the pull.",
-     "kid": "Write how many threads held the bag. Draw your design.",
+     "kid": "Write how many threads held the bag. Take a photo of your design, or draw it.",
      "check": {
       "t": "mcq",
       "q": "In Many Threads, One Lift, one thread snapped but several equal threads held the bag. How is that like a tissue?",

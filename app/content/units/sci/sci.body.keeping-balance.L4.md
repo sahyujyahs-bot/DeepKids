@@ -260,8 +260,8 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
   - Note: You may notice that holding a big response card for the right moment helps. A big response for a small change overshoots. That is how real loops work.
   - Check: Why does the team have both an insulin card and a glucagon card to choose from? → **So the level can be corrected whether it went too high or too low**
 - **s4 (8 min)**  
-  *Parent does:* Play Rounds 5 to 8. Now try the hard rule. Place your response card face down. It works only after the next event card is played. Move the marker for the next event first. Then turn over the response card you placed before, and move the marker for it.  
-  *Parent says:* Now the hard rule. Your response card takes effect one turn late. Play it face down. Move for the next event first. Only then turn over the card you played before, and move for it.  
+  *Parent does:* Play Rounds 5 to 8. Now play with a new rule: a response works one turn late. Each round, turn over the event card and move the marker. Then turn up the response card you placed in the round before, and move the marker for it. Last, place a new response card face down.  
+  *Parent says:* Now the hard rule. Your response works one turn late. First play the event and move the marker. Then turn up the response you placed last round, and move for it. Last, place a new response face down.  
   *Child mode:* Hard rule. Your response works one turn late. Play it face down.
   - Ask: What happened with the late response? (good: The marker swung past the green squares.; I had to guess what would happen next.; Big cards were risky.)
   - Note: Children find that big responses with a delay overshoot, and that small responses work better. This is the same lesson as Late Warmer-Colder. Real bodies reduce the problem by predicting, so insulin starts before the sugar peaks.
@@ -286,9 +286,9 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 - **record:** Write the steady level for each trickle speed. Then say, in one sentence, why the level stops. If the water goes over the rim or the level never settles, write that down as it is and use a slower trickle. If the level stays under 1 centimetre even with the fastest trickle, the hole is too big: use the spare bottle.
 - **results table:** Trickle speed | Water caught in 10 s (millilitres) | Steady level when two readings in a row match (centimetres above the hole) | Did the level stop rising?
 - **s1 (3 min)**  
-  *Parent does:* Show your child a clear bottle with a small hole near the bottom, standing in the sink. Open the tap to a thin trickle. Ask for a guess and a reason, and write both down.  
-  *Parent says:* Water will trickle in from the top and leak out of this hole. What will the water level do? Will it rise until the bottle overflows, or will it stop? Why do you think so?  
-  *Child mode:* Water trickles in and leaks out of the hole. Will the level keep rising or stop? Why?
+  *Parent does:* Show your child the clear bottle in the sink. Point to where the small hole will go, near the bottom. Say that water will trickle in from the top. Ask for a guess and a reason, and write both down.  
+  *Parent says:* We will make a small hole near the bottom. Then water will trickle in from the top and leak out of the hole. Will the level rise until the bottle overflows, or will it stop?  
+  *Child mode:* Guess what the water level will do.
   - Ask: Why do you think it will do that? (good: The hole lets water out.; The water will run out as fast as it comes in.; It will fill up because the tap is stronger.)
   - Note: Do not correct the guess. Both 'it will overflow' and 'it will stop' are good guesses if there is a reason. Write the guess and the reason at the top of the results table. With two to four children, each one makes their own guess and the pairs share the roles: one holds the tap, one reads the ruler, one writes, one times. Rotate the jobs for each trickle speed. Make one bottle for each pair if you can.
 - **s2 (5 min) · grown-up needed**  
@@ -296,11 +296,11 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
   *Parent says:* A grown-up must make the hole, because the point is sharp. The hole should be just wide enough for a pen refill to slide in. The ruler's zero must be at the hole, so we measure the level above the hole.  
   *Child mode:* A grown-up makes the hole. Tape the ruler beside it. Put zero at the hole.
   - Note: Use the same bottle and the same hole for every test. A hole much wider than a ballpoint refill leaks too fast for a thin tap trickle to ever fill it. If the hole is too big, use the spare bottle. Do not try to tape over a wet bottle. The hole of a compass point is usually about 2 to 3 millimetres, which suits a tap trickle of about 20 to 40 millilitres in 10 seconds.
-  - Check: Why must we use the same bottle and the same hole for every test? → **So that only the speed of the trickle changes**
+  - Check: Why do we use the same bottle and the same hole every time? → **So that only the speed of the trickle changes**
 - **s3 (4 min)**  
   *Parent does:* Hold a cup under the tap. Open the tap until the trickle fills about 20 millilitres in 10 seconds. Mark that tap position with a bit of tape.  
-  *Parent says:* Catch the trickle in a cup for ten seconds. Aim for about 20 millilitres. That is a very thin trickle. Mark the tap so you can find that spot again.  
-  *Child mode:* Catch the trickle in a cup for ten seconds. Aim for about 20 millilitres.
+  *Parent says:* We need a very thin trickle. Catch it in a cup for ten seconds. About 20 millilitres is right. Then mark the tap, so you can find that spot again.  
+  *Child mode:* Help catch the trickle. Count ten seconds out loud.
   - Note: Tap pressure changes during the day, and a thin trickle is hard to hold steady. If the tap is too strong to trickle, run it into a jug and pour from a mug instead. If your cup has no marks, use a medicine measuring cup. The numbers are a guide. What matters is that each setting stays the same during its test.
 - **s4 (8 min)**  
   *Parent does:* Set the bottle in the sink, empty. Let the trickle fall into the middle of the bottle. Read the level every 15 seconds and write it down. Stop when two readings in a row match, or after 3 minutes.  
@@ -308,7 +308,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
   *Child mode:* Read the level every 15 seconds. Does it stop rising?
   - Ask: Water keeps pouring in. Why does the level stop? (good: The water leaves as fast as it comes in.; The hole lets out as much as the tap gives.; The deeper water pushes more out of the hole.)
   - Note: The level should rise quickly at first, then slow down, then stay put. It can take 2 to 4 minutes to settle, because the bottle is wide and the trickle is thin. The steady level for a thin trickle is often only a few centimetres, but your hole and tap will give different numbers. Write what you see. Do not empty the bottle before the next test.
-  - Check: The level stopped rising, but the tap is still running. What must be true? → **Water leaves the hole as fast as it comes in**
+  - Check: The level has stopped rising, but the tap is still running. What must be true? → **Water leaves the hole as fast as it comes in**
 - **s5 (8 min)**  
   *Parent does:* Do not empty the bottle. Open the tap to about 30 millilitres in 10 seconds. Read every 15 seconds until two readings in a row match. Then do about 40 millilitres in 10 seconds. Write each steady level in the table.  
   *Parent says:* Now make the trickle faster. First about thirty millilitres in ten seconds. Read the level until it stops changing. Then about forty. What happens to the steady level each time?  
@@ -321,7 +321,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
   *Child mode:* Pour a cup in quickly. Does the level stay high or come back?
   - Ask: Why does the level come back down? (good: The water is deeper, so it leaks out faster.; The bigger the change, the faster the leak.; The extra water pushes itself out.)
   - Note: The level jumps up, then falls quickly at first and more slowly, and comes back to near the same steady level. The further away it was pushed, the faster it came back. That is negative feedback. If the water goes over the rim, use half a cup.
-  - Check: Why does the leak get faster when the water is deeper? → **Deeper water pushes harder on the hole**
+  - Check: Why does deeper water leak out faster? → **Deeper water pushes harder on the hole**
 - **s7 (3 min)**  
   *Parent does:* Ask your child to say three things: what they thought would happen, what they saw, and why it happened. Write their answer under the table.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why did the level stop, and why did it come back after you poured in the extra cup?  
@@ -336,20 +336,20 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 - **record:** Fill in the table. Then mark the biggest drop in pulse and the minute in which it came. Say in one sentence which try took longer to come back and by how much. If the numbers jump about, that is normal. Counting a pulse for 15 seconds is only accurate to a few beats.
 - **results table:** Time after stopping | Try 1: pulse in 15 seconds | Try 2: pulse in 15 seconds | Breaths in 30 seconds (counted by a helper) | Seconds the breath was held
 - **s1 (3 min)**  
-  *Parent does:* Show your child the low stool, the clock and the table. Say that they will time how long their pulse takes to come back to rest after one minute of stepping, then after two minutes of marching. Ask for a guess and a reason.  
-  *Parent says:* After one minute of stepping, how long will your pulse take to come back to rest? Will two minutes of marching take twice as long? Why do you think so?  
-  *Child mode:* After a minute of stepping, how long until your pulse is back to rest? Why?
+  *Parent does:* Show your child the low stool, the clock and the table. Say that they will step for one minute and time how long their pulse takes to come back to rest. Then they will march for two minutes and time it again. Ask for a guess and a reason.  
+  *Parent says:* You will step for one minute, then sit and count your pulse. How long will it take to come back to rest? Will two minutes of marching take twice as long? Why do you think so?  
+  *Child mode:* Guess how long your pulse will take to settle after stepping.
   - Ask: Why do you think it will take that long? (good: My heart has to slow down.; I was working harder.; My body needs time to catch up.)
   - Note: Do not correct the guess. Do not do this test if your child is unwell, or if a doctor has said to avoid exercise. A child with asthma should have an inhaler close by. With two to four children, work in pairs. One steps, one counts the pulse, one counts breaths, one keeps time. Each child does the stepping in turn, while the others rest. Allow extra time, and compare the recovery times across children.
 - **s2 (5 min)**  
   *Parent does:* Sit your child on a chair for 2 minutes. Show them how to find the pulse: two fingers on the inside of the wrist, below the thumb. Count the beats for 15 seconds, twice. Multiply the second count by 4. Count their breaths for 30 seconds too.  
-  *Parent says:* Sit quietly for two minutes. Find your pulse with two fingers below your thumb. Count for fifteen seconds. I will count your breaths, one in and one out. Write both down as your resting numbers.  
+  *Parent says:* Sit quietly for two minutes. Your pulse is the beat of your heart. Find it with two fingers on your wrist, below your thumb. Count for fifteen seconds. I will count your breaths, one in and one out. Write both down as your resting numbers.  
   *Child mode:* Sit quietly. Find your pulse. Count beats for 15 seconds.
   - Note: Use two fingers, not the thumb, because the thumb has a pulse of its own. If the wrist pulse is hard to find, lay a flat hand on the left side of the chest, or on the side of the neck under the jaw, lightly. Practise at rest first. Resting pulse for most children of 6 to 10 is about 70 to 110 beats a minute, and breathing about 16 to 25 breaths a minute. Your child may be different, and that is fine. Count the breaths by watching the shoulders or belly.
   - Check: Why do we count the pulse for 15 seconds and then multiply by 4? → **It gives beats in a whole minute, without waiting a whole minute**
 - **s3 (3 min) · grown-up needed**  
-  *Parent does:* Ask your child to hold a normal breath, not a big one, and not to take any deep breaths first. Time how long until the first strong urge to breathe. Then they breathe out and breathe normally. Write down the seconds. Do this only once.  
-  *Parent says:* Take a normal breath, not a big one, and hold it. Do not take deep breaths first. Tell me the moment you feel a strong urge to breathe, and then breathe out.  
+  *Parent does:* Ask your child to hold a normal breath, not a big one, and not to take any deep breaths first. Time how long until the first strong urge to breathe. Then they breathe out and breathe normally. Write down the seconds. Do this only once at rest.  
+  *Parent says:* This shows what makes your body ask for air. Take a normal breath, not a big one, and hold it. Do not take deep breaths first. Tell me the moment you feel a strong urge to breathe, and then breathe out.  
   *Child mode:* Take a normal breath and hold it. Stop at the first strong urge.
   - Note: Never do breath-holding in water, and never take big breaths first, because that hides the urge and can lead to fainting. Stop at the first strong urge. Many children reach 20 to 40 seconds, but the number is not a score. Skip this part if your child dislikes it or has asthma or a breathing problem.
   - Check: Why do we stop at the first strong urge to breathe? → **The urge is a warning from your body, and we respect it**
@@ -361,7 +361,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 - **s5 (8 min) · grown-up needed**  
   *Parent does:* As soon as your child sits, start the clock. Count their pulse for 15 seconds at 0, 1, 2, 3 and 4 minutes after stopping. Count their breaths for 30 seconds at 0 and 2 minutes. After the 1 minute pulse count, time one breath-hold, stopping at the first urge.  
   *Parent says:* Sit down and keep still. Count your pulse for fifteen seconds right now. Do it again at one minute, two, three and four. After the one minute count, hold a normal breath until the first urge.  
-  *Child mode:* Sit. Count your pulse for 15 seconds, at 0, 1, 2, 3 and 4 minutes.
+  *Child mode:* Sit still. Count your pulse for 15 seconds each minute. Your helper counts your breaths.
   - Ask: What is happening to your breathing and pulse as the minutes pass? (good: They are slowing down.; They are coming back to rest.; My body is catching its breath.)
   - Note: The pulse is highest right at the start and falls quickly in the first minute. After that it falls more slowly. It may take 2 to 5 minutes to reach rest. A breath-hold after exercise is usually shorter than at rest, because carbon dioxide is still high. Offer this only if your child is comfortable, and skip it in Try 2.
 - **s6 (10 min) · grown-up needed**  
@@ -380,22 +380,22 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 - **predict:** Before you start, guess. When a lamp comes on, will the pupil change slowly or fast? Will it get bigger or smaller? Why do you think so?
 - **fair test:** The same child, the same lamp at the same distance, and the same 2 minutes in the dim room are used each time. The child always looks at the same spot on the wall. Only the light changes, from dim to lamp on and back to dim.
 - **safety:** Never shine a torch, a phone flash or any bright light straight into anyone's eyes. The lamp stays at the side of the face, and the child looks at the wall. Do the test no more than three times.
-- **record:** Write the pupil size at each moment. Then write whether the pupil changed quickly or slowly, and whether you decided to change it. If very dark eyes made the pupil hard to see, write that and film the face to read it later, or use the cover test in step 4 and write small, medium or large.
+- **record:** Write the pupil size at each moment. Then write whether the pupil changed quickly or slowly, and whether you decided to change it. If very dark eyes made the pupil hard to see, write that and film the face and read it later, or just write small, medium or large.
 - **results table:** Moment | Pupil size from the gauge (millimetres) | What I noticed
 - **s1 (3 min)**  
   *Parent does:* Show your child their eyes in a mirror. Ask for a guess and a reason. When the lamp comes on after a minute in a dim room, how fast will the black dot change, and how far?  
   *Parent says:* Look at the black dot in the middle of your eye. When the light comes on after a minute in a dim room, will the dot change slowly or fast? Will it get bigger or smaller? Why do you think so?  
-  *Child mode:* Look at the black dot in your eye. When light comes on, what will it do? Why?
+  *Child mode:* Look at the black dot in your eye. Guess what it will do when the light comes on.
   - Ask: Why do you think it will do that? (good: Bright light hurts, so it closes.; It lets in less light.; It gets smaller to protect the eye.)
   - Note: Do not correct the guess. Most children say it will change slowly. The real change is very fast. With two to four children, each guesses first. Then they take turns as the eye, the gauge reader, the lamp switcher and the timekeeper.
 - **s2 (6 min)**  
-  *Parent does:* Cut a strip of white card. Use a ruler to draw six black filled circles on it, 2, 3, 4, 5, 6 and 7 millimetres wide. Write the number under each. This is the pupil gauge.  
-  *Parent says:* Cut a strip of white card. Draw six black dots in a row. Make them two, three, four, five, six and seven millimetres wide. Check each one with the ruler. Write its size under it.  
-  *Child mode:* Draw six black dots on a card strip. Make them 2 to 7 millimetres wide.
+  *Parent does:* Cut a strip of white card. Use a ruler to draw six black filled circles on it, or cut them from black paper and stick them on. Make them 2, 3, 4, 5, 6 and 7 millimetres wide. Write the number under each. This is the pupil gauge.  
+  *Parent says:* Cut a strip of white card. Draw six black dots in a row, or cut them from black paper. Make them two to seven millimetres wide. Check each one with the ruler. Write its size under it. Later we hold the strip next to your eye, to read the size of your pupil.  
+  *Child mode:* Make six black dots on a card strip, 2 to 7 millimetres wide. They are your pupil gauge.
   - Note: The dots need not be perfect, but they must be about the right size. A bottle cap is too big. Use a fine black pen and check across each dot with the ruler. In a dim room a child's pupil can be bigger than 7 millimetres, so write 'bigger than 7' if it is. Very dark brown eyes make the pupil hard to see against the iris. A bright lamp from the side, or a pale-eyed helper, makes it easier.
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* Close the curtains and switch off the room lights, until the room is dim but you can still see each other. Put a lamp, switched off, 40 centimetres to the side of your child's face. Your child looks at a spot on the wall for 2 minutes.  
-  *Parent says:* Now we make the room dim. Close the curtains and switch off the lights. Put the lamp beside your face, switched off. Sit and look at one spot on the wall for two minutes.  
+  *Parent says:* Now we make the room dim, so your eyes get used to the dark. Close the curtains and switch off the lights. Put the lamp beside your face, switched off. Sit and look at one spot on the wall for two minutes.  
   *Child mode:* Make the room dim. Sit for two minutes. Look at a spot on the wall.
   - Note: The lamp must be to the side, never shone straight into the eyes. Use an ordinary room lamp, not a torch or a phone flash. Keep a little light, such as a dim passage light, so the pupil can be seen. In the dim room the helper holds the gauge against the cheekbone and reads the pupil as best they can. Write the size at 2 minutes. Pupils keep opening for about 20 minutes, so 2 minutes is a fair start, not the full dark.
 - **s4 (6 min) · grown-up needed**  
@@ -404,7 +404,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
   *Child mode:* Look at the spot. The lamp goes on. We read your pupil size.
   - Ask: What did the pupil do when the light came on? (good: It got smaller very fast.; It shrank and then got a little bigger.; It changed before I could decide anything.)
   - Note: Most children's pupils shrink in well under a second, and some then widen a little and settle within about 10 seconds. Reading a pupil by eye in one second is hard, so the film is the main method. Easier version without a lamp, in an ordinary lit room: the child covers one eye with a palm for 30 seconds, then uncovers it. Watch that pupil shrink within a second, and compare it with the other eye. Both pupils shrink, because they work as a pair. If your child blinks or looks away, repeat after 2 minutes in the dim room. Never repeat more than three times.
-  - Check: Why does the child look at a spot on the wall and not at the lamp? → **So the lamp does not shine into the eyes, and the eye stays in one place for the helper to read**
+  - Check: Why do you look at a spot on the wall and not at the lamp? → **So the light stays out of your eyes and your eyes stay still**
 - **s5 (4 min) · grown-up needed**  
   *Parent does:* Now switch the lamp off and ask your child to keep looking at the wall spot. Film again. Read the pupil at 5 seconds, 30 seconds and 60 seconds after the lamp goes off.  
   *Parent says:* Now the lamp goes off. Keep looking at the spot. I read your pupil at five seconds, thirty seconds and one minute. Does it open as fast as it closed?  
@@ -423,7 +423,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 - **s1 (3 min)**  
   *Parent does:* Ask your child to stand near a wall. Say that they will stand on one leg for 20 seconds. Ask for a guess and a reason: will the standing foot stay still?  
   *Parent says:* Stand on one leg for twenty seconds. Will your foot and ankle stay still? Why do you think so?  
-  *Child mode:* You will stand on one leg for 20 seconds. Will your foot stay still? Why?
+  *Child mode:* Guess if your foot will stay still on one leg.
   - Ask: Why do you think so? (good: I will hold it very still.; My foot will wobble.; I have to keep moving to stay up.)
   - Note: Stand close to the child, or put a hand on the wall for safety. Do it barefoot or in socks with grip, on a floor that does not slip. Do not correct the guess. With two to four children, take turns. While one stands, one counts shifts, one times the seconds and one stays close to catch. Compare the numbers across the group.
 - **s2 (5 min) · grown-up needed**  
@@ -449,7 +449,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 - **s1 (3 min)**  
   *Parent does:* Show your child a small bottle of cola or a packet of biscuits. Say that all the blood in a grown-up holds about one teaspoon of sugar. Ask for a guess and a reason: how many teaspoons of sugar are in a 250 millilitre bottle of cola?  
   *Parent says:* All the blood in a grown-up holds about one teaspoon of sugar. How many teaspoons are in a small bottle of cola? Take a guess. Why do you think so?  
-  *Child mode:* A grown-up's blood holds about one teaspoon of sugar. How many teaspoons are in a small cola? Why?
+  *Child mode:* Guess how many teaspoons of sugar are in a small bottle of cola.
   - Ask: Why do you think that many? (good: It tastes very sweet.; Drinks have lots of sugar.; I am not sure, so I will check.)
   - Note: Do not correct the guess. Most children guess one to three. The label usually says about six. With two to four children, each guesses before anyone checks, and each takes a different pack to measure. Compare at the end.
 - **s2 (5 min)**  
@@ -465,8 +465,8 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
   - Note: Watch the label column. Many Indian packs give grams per 100 grams or 100 millilitres, and sometimes also per serving. For a 250 millilitre cola, multiply the 100 millilitre figure by 2.5. It comes to about 26 grams, about 6 teaspoons. If you have no labels, use 26 grams for a 250 millilitre cola. A plain biscuit or a packet of puffed rice has very little sugar, and juice can have a lot. Do not eat the sugar off the plate. Wipe it up at once, because ants come quickly in warm weather. Do not drink the cola for the test, and no food should be wasted.
 - **s4 (4 min)**  
   *Parent does:* Ask your child: the sugar in the cola is about six times the sugar in all of a grown-up's blood. If a grown-up drank it, where would the sugar go, and why would their blood sugar not go up six times?  
-  *Parent says:* The cola holds about six times the sugar in all of a grown-up's blood. If a grown-up drank it, their blood sugar would not go up six times. Where do you think the sugar goes? Who moves it?  
-  *Child mode:* The cola has six times the sugar in a grown-up's blood. Where does it all go?
+  *Parent says:* Remember the small bottle of cola? It holds about six teaspoons of sugar. That is about six times the sugar in all of a grown-up's blood. If a grown-up drank it, their blood sugar would not go up six times. Where do you think the sugar goes? What in the body might move it?  
+  *Child mode:* Where do you think the sugar from the cola goes?
   - Note: A strong answer says that something moves the sugar out of the blood into the cells and the liver. Only after they have said it, explain: insulin tells cells to take the sugar in and the liver to store it. The sugar in the blood is a small amount that is always being moved in and out. It is like the Level Bottle, where a lot of water flows through but the level stays low.
   - Think: What would happen to the blood if the sugar kept going in and nothing took it out?
 ### a3 · Push-Pull Pairs: why the body uses two (15 min)
@@ -491,7 +491,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
   - Check: Why does the arm need both a muscle that bends and a muscle that straightens? → **A muscle can only pull, so one is needed for each direction**
 - **s4 (4 min)**  
   *Parent does:* Write a list of pairs together. Use the arm muscles, sweating and shivering, pupils opening and closing, and insulin and glucagon. Ask your child to add one pair of their own.  
-  *Parent says:* Let us list the pairs we know. Arm muscles, sweating and shivering, pupils opening and closing, insulin and glucagon. Can you think of another pair that pulls or pushes in opposite directions?  
+  *Parent says:* Let us list the pairs we know. Arm muscles, sweating and shivering, pupils opening and closing, and insulin and glucagon, the two helpers that lower and raise blood sugar. Can you think of another pair that pulls or pushes in opposite directions?  
   *Child mode:* List the pairs. Add one more of your own.
   - Note: Other pairs: breathing in and out, heart speeding up and slowing, the two muscles that open and close the jaw, eating and feeling full. A strong answer says that a single control can push only one way, but a pair can correct in both directions and stop at the right place.
   - Think: Why might a pair be better than a single control?
@@ -500,7 +500,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 - **s1 (3 min)**  
   *Parent does:* Tell your child you will hide a coin in the room. They will search by following your calls of warmer and colder. Ask for a guess and a reason: what will happen if you call a few seconds late?  
   *Parent says:* I will hide a coin. You will find it by following my calls of warmer and colder. First I call at once. Then I call three seconds late. Which way will be harder? Why do you think so?  
-  *Child mode:* You search for a coin. I call warmer or colder. What will happen if I call late?
+  *Child mode:* Find a hidden coin by following the calls of warmer and colder. Guess what happens if the calls come late.
   - Ask: Why do you think late calls will make it harder? (good: I will already have moved.; The call will be about where I was.; I will walk past the coin.)
   - Note: Do not correct the guess. This works in any room, with just a coin or a small stone. For a fair test, hide the coin about the same distance from the start each round, in a spot the child has not seen. With two to four children, each takes a turn as the walker, the caller and the step counter. Use a different hiding place for each walker.
 - **s2 (5 min)**  
@@ -517,28 +517,28 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
   - Check: Why did the late calls make you walk past the coin? → **The call told you about where you were before, not where you are now**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say three things: what they thought would happen, what they saw, and why it happened. Ask: where have you seen this swinging before?  
-  *Parent says:* Tell me three things. What did you think would happen? What did you see? Why did the late calls make you swing? Where else have you seen swinging like this? A shower is one place.  
+  *Parent says:* Tell me three things. What did you think would happen? What did you see? Why did the late calls make you swing? Where else have you seen swinging like this? Think of a shower. The water takes a moment to change after you turn the tap.  
   *Child mode:* Say what you thought would happen, what you saw, and why it happened.
   - Note: A strong answer says that the calls were late, so the child moved past the target and swung. Other examples are a shower tap, a fridge that gets too cold and a driver steering in fog. Bodies cope by predicting and by making gentle corrections. For example, your pancreas starts releasing insulin when you smell food.
   - Think: What would a body need, to avoid swinging when its messages are slow?
 
 ## Projects
 ### p1 · My Daily Rhythm: a 3-day pulse diary (43 min, 3 days)
-- **record:** Fill in the table with nine rows. Mark the highest and lowest pulse. Write one sentence about the pattern. If there is no clear pattern, say so. That is a real result.
+- **record:** Fill in the table with nine readings. Mark the highest and lowest pulse. Write one sentence about the pattern. If there is no clear pattern, say so. That is a real result.
 - **schedule:** day 1: Make the table. Take your three readings today. (15 min); day 2: Take your three readings. (10 min); day 3: Take your three readings. Then look at all nine and find the pattern. (18 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child how to find their pulse and count breaths. Ask for a guess and a reason: will the resting pulse be the same in the morning, afternoon and night?  
-  *Parent says:* Today you will start a three-day diary. Three times a day you will measure your pulse and breathing at rest. Do you think the numbers will be the same at all times? Why do you think so?  
-  *Child mode:* You will measure your pulse three times a day. Will it be the same? Why?
+  *Parent says:* Today you start a three-day diary. Your pulse is the beat of your heart. Three times a day you will sit quietly and measure your pulse and breathing. Those are your resting numbers. Do you think they will be the same at all times? Why do you think so?  
+  *Child mode:* Guess if your resting pulse is the same morning, afternoon and night.
   - Ask: Why do you think the numbers will be the same or different? (good: I am the same person all day.; I am sleepy in the morning.; I am busier in the afternoon.)
   - Note: Do not correct the guess. Make the table together: three rows for morning, afternoon and bedtime, and columns for pulse in 15 seconds, breaths in 30 seconds and how I feel. With two to four children, each keeps their own table. They count each other's breaths and compare tables on Day 3.
 - **s2 (12 min)**  
-  *Parent does:* Three times each day for three days, your child sits quietly for 3 minutes. Then they count the pulse for 15 seconds and a helper counts the breaths for 30 seconds. Write the numbers and one word for how they feel.  
+  *Parent does:* Three times each day for three days (for example after waking, after school and before bed), your child sits quietly for 3 minutes. Then they count the pulse for 15 seconds and a helper counts the breaths for 30 seconds. Write the numbers and one word for how they feel.  
   *Parent says:* Sit still for three minutes. Count your pulse for fifteen seconds. I will count your breaths for thirty seconds. Write the numbers, and one word for how you feel: sleepy, calm, excited, hungry.  
   *Child mode:* Sit for three minutes. Count your pulse. Your helper counts your breaths.
   - Note: Take the readings at about the same times each day: just after waking, mid-afternoon, and just before bed. Sit and rest first, because even walking to the chair raises the pulse. Excitement, worry, illness and a big meal can change the numbers. Write how your child felt, to see the pattern. Counting for 15 seconds is only accurate to a few beats, so a small difference between two readings may only be a counting error, not a real change.
 - **s3 (8 min)**  
-  *Parent does:* On the last day, look at all nine rows. Mark the highest and the lowest pulse. Ask your child to say three things: what they thought would happen, what they saw, and why.  
+  *Parent does:* On the last day, look at all nine readings. Mark the highest and the lowest pulse. Ask your child to say three things: what they thought would happen, what they saw, and why.  
   *Parent says:* Look at the table. Find the lowest pulse and the highest. When did they come? Tell me three things. What did you think would happen? What did you see? Why do you think it changed?  
   *Child mode:* Look at the table. Find the highest and lowest pulse. Say why.
   - Note: Many children have a lower pulse in the early morning and a higher pulse later in the day, but excitement and hunger can change it, and the pattern may be small or unclear. Body warmth also follows a daily rhythm, typically lowest in the very early morning and highest in late afternoon. A strong answer says that the body's targets can move with the clock. This is allostasis. If your numbers show no pattern, say so and think why.
@@ -547,18 +547,18 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 ## Challenges
 ### c1 · Steady-Level Tank: keep the level between two marks (37 min)
 - **problem:** Build a bottle that keeps its water level between two tape marks, 4 centimetres apart, for two minutes. Start with the level between the marks. The tap trickle will be slow for the first test and about twice as fast for the second.
-- **your turn:** Sketch your design. Build it, test it with the slow trickle and the fast one, and change one thing. Which design held the level between the marks? Why do you think it worked?
+- **your turn:** Draw or describe your design. Build it, test it with the slow trickle and the fast one, and change one thing. Which design held the level between the marks? Why do you think it worked?
 - **constraints:** Use one clear bottle with its top cut off. You may use up to 3 holes, each made by a grown-up with a compass point.; The holes must all be about as wide as a ballpoint refill.; The tap trickle falls in at the top. You may not change the trickle.; The level must stay between the marks for two full minutes in each test. Fill the bottle to the lower mark before each test.
 - **general:** One hole low down, as in the Level Bottle test. It works for one trickle speed.; A bigger hole, so more water leaves when the trickle is fast. But then the slow trickle may never fill the bottle to the lower mark.; A tall bottle with holes at two heights.
 - **creative:** A second hole placed near the top mark, so it joins in only when the level is high. It works like a second control that wakes up when the first is not enough.; A short pipe or straw at the top mark that acts as an overflow, like the overflow pipe in a roof tank.; Three holes at three heights, so the push back grows step by step as the level climbs.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Ask your child to sketch two or three bottle designs on paper, with the holes drawn at different heights.  
-  *Parent says:* Your bottle must keep its water level between two tape marks, even when the tap trickle changes. Draw some ideas first. Where will the holes go? How many?  
-  *Child mode:* Draw some bottle designs. Where will the holes go?
+  *Parent does:* Read the problem together. Ask your child to plan two or three bottle designs, with the holes at different heights. They can sketch them, or point on the bottle and say where each hole goes.  
+  *Parent says:* Your bottle must keep its water level between two tape marks, even when the tap trickle changes. Plan some ideas first. Where will the holes go? How many?  
+  *Child mode:* Plan some bottle designs. Draw them, or point and tell your grown-up where the holes go.
   - Ask: What would make a bottle keep its level when the trickle gets faster? (good: A bigger hole.; A second hole higher up.; A hole that opens only when the level is high.)
   - Note: Do not give the answer. Many children try a bigger hole first. Let them test it.
 - **s2 (10 min) · grown-up needed**  
-  *Parent does:* A grown-up makes the holes with a compass point. Tape two marks on the bottle, one at 5 centimetres and one at 9 centimetres above the base. Tape a ruler beside them.  
+  *Parent does:* A grown-up makes the holes with a compass point, where the design says. Tape two marks on the bottle, one at 5 centimetres and one at 9 centimetres above the base. Tape a ruler beside them.  
   *Parent says:* A grown-up makes the holes with the sharp point. Put tape marks at five and nine centimetres. Your level must stay between those marks for two minutes.  
   *Child mode:* A grown-up makes the holes. Tape two marks on the bottle.
   - Note: Holes are made with a compass point by a grown-up, and the cut edge is taped. Each is about as wide as a ballpoint refill. A hole near the base lets out water fast when the level is high. A second hole at the 7 centimetre mark joins in only when the level rises that high. The right hole heights depend on your tap, so expect to try several designs. With two to four children, each pair builds a design, and the pairs compare.
@@ -569,14 +569,14 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
   - Ask: What happened to the level when the trickle got faster? (good: It rose.; It stayed between the marks.; It went over the top mark.)
   - Note: With a single hole, the level will usually rise past the top mark when the trickle doubles. A second hole higher up joins in when the level climbs, and holds it back. Your exact numbers depend on the hole sizes and the tap, so write down what you see. If no design holds, say which one came closest. This is like a body adding another control when the first is not enough.
 - **s4 (8 min)**  
-  *Parent does:* Change one thing, such as the height of the second hole. Test the fast trickle again. Write down which design held the level best.  
-  *Parent says:* Change one thing only. Move the second hole, or make it a little bigger. Test the fast trickle again. Which design holds the level best?  
+  *Parent does:* Change one thing, such as adding a second hole or making a hole bigger. Test the fast trickle again. Write down which design held the level best.  
+  *Parent says:* Change one thing only. Add a second hole, or make one a little bigger, or tape one shut. Test the fast trickle again. Which design holds the level best?  
   *Child mode:* Change one thing. Test again. Which design is best?
   - Note: Changing only one thing lets your child see which change helped. Write down each version and what happened.
   - Check: Why change only one thing at a time? → **So you know which change made the difference**
 - **s5 (4 min)**  
-  *Parent does:* Ask your child to say three things: what they thought would happen, what they saw, and why it happened. Ask: what does the second hole do?  
-  *Parent says:* Tell me three things. What did you think would happen? What did you see? Why did the second hole help? What in the body is like the second hole?  
+  *Parent does:* Ask your child to say three things: what they thought would happen, what they saw, and why it happened. Ask: why did the best design hold the level?  
+  *Parent says:* Tell me three things. What did you think would happen? What did you see? Why did your best design hold the level? What in the body works in a similar way?  
   *Child mode:* Say what you thought would happen, what you saw, and why it happened.
   - Note: A strong answer says that the second hole joins in when the level is high, so the push back grows with the change. In the body, a second control or a bigger response comes in when the first is not enough. The overflow pipe in a roof tank works the same way.
   - Think: What in a body works like the second hole?

@@ -230,11 +230,11 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 - **Printable tokens: 4 tokens for each player: Under 10 minutes, 10 to 30 minutes, 30 to 60 minutes, More than 60 minutes:** Under 10 minutes; 10 to 30 minutes; 30 to 60 minutes; More than 60 minutes
 - **s1 (3 min)**  
   *Parent does:* Cut out the 18 cards and the tokens. Shuffle the cards into a pile. Give each player a set of four tokens.  
-  *Parent says:* These cards have two places on them. We guess how many minutes later the Sun is highest in the western place. Each player gets four tokens.  
+  *Parent says:* These cards have two places on them. We guess how many minutes later the Sun is highest in the western place. Each player gets four tokens. Each token is a different guess of how many minutes later.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take four tokens each.
 - **s2 (6 min)**  
-  *Parent does:* Play the first five cards. After each card, read the back aloud. After card three, ask the question below.  
-  *Parent says:* The reader reads the front. Everyone puts a token face down. Turn them over together. Then the reader reads the back. Who scored?  
+  *Parent does:* Play the first five cards. After each card, read the back aloud. A player scores a point if their token matches the back. After card three, ask the question below.  
+  *Parent says:* The reader reads the front. Everyone else puts a token face down. Turn them over together. Then the reader reads the back. Who scored?  
   *Child mode:* The reader reads a card. Pick a token. Turn it over. Check the back.
   - Ask: What do you multiply by to turn degrees of longitude into minutes? (good: 4.; Four minutes for each degree.; 360 degrees in 24 hours gives 4.)
 - **s3 (6 min)**  
@@ -258,16 +258,16 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 - **Printable tokens: 6 tokens for each player: Eyes, Ears, Nose, Heat, Touch, Light:** Eyes; Ears; Nose; Heat; Touch; Light
 - **s1 (3 min)**  
   *Parent does:* Cut out the 20 cards and the tokens. Shuffle the cards into a pile. Give each player a set of six tokens.  
-  *Parent says:* Each card has an animal that is awake at night and a problem. Which sense or tool solves it? Each player gets six tokens.  
+  *Parent says:* Each card has an animal that is awake at night and a problem. Which sense or tool solves it? Each player gets six tokens. They are Eyes, Ears, Nose, Heat, Touch and Light. Each token is a guess at the answer.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take six tokens each.
 - **s2 (6 min)**  
-  *Parent does:* Play the first six cards. After each card, read the back aloud. After card three, ask the question below.  
-  *Parent says:* The reader reads a card. Everyone puts a token face down. Turn them over together. Then the reader reads the back. Who scored?  
+  *Parent does:* Play the first six cards. After each card, read the back aloud. A player scores a point if their token matches the back. After card three, ask the question below.  
+  *Parent says:* The reader reads a card. Everyone else puts a token face down. Turn them over together. Then the reader reads the back. Who scored?  
   *Child mode:* The reader reads a card. Pick a token. Turn it over. Check the back.
-  - Ask: Which of these animals finds her way with a sense that people cannot use in the dark? (good: The owl, with her ears.; The python, with heat.; The bat, with echoes.)
+  - Ask: Which of the animals so far uses a sense that people do not have? (good: The owl, with her ears.; The python, with heat.; The bat, with echoes.)
 - **s3 (6 min)**  
   *Parent does:* Play the next eight cards. Swap the reader's job after every card. Keep a tally of points on paper.  
-  *Parent says:* Keep going. Think about the animal's problem first. What does she need to find, in the dark?  
+  *Parent says:* Keep going. Think about the animal's problem first. What does the animal need to find, in the dark?  
   *Child mode:* Play on. Think about the animal's problem first.
   - Ask: Which animals use more than one sense, do you think? (good: Most of them.; The owl uses eyes and ears.; The cat uses eyes and whiskers.)
   - Note: Most animals use several senses at once. The cards pick the sense that matters most for that problem.
@@ -286,12 +286,12 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 - **question:** The clocks in Guwahati, Kolkata, Chennai, Kochi and Mumbai all show the same time. Is the Sun at its highest in all five cities at the same clock time?
 - **predict:** Before you look at any data, guess. Will the Sun be at its highest at the same clock time in all five cities? If not, which city comes first, which comes last, and how far apart are they? Why do you think so?
 - **fair test:** Use the same date for all five cities and the same source for the times, such as one weather app. Read each time to the minute. Work out noon in the same way for every city. Only the city changes, so any difference in noon comes from where the city is.
-- **record:** Fill in the table for all five cities. Then draw a bar chart with one bar for each city. The bar shows how many minutes later than Guwahati the Sun is highest there.
+- **record:** Fill in the table for all five cities. Then make a bar chart with one bar for each city, drawn on paper or made from strips of paper. The bar shows how many minutes later than Guwahati the Sun is highest there.
 - **results table:** City | Longitude (degrees east) | Sunrise | Sunset | Noon (the middle of the day) | Minutes later than Guwahati
 - **s1 (4 min)**  
   *Parent does:* Show your child the five cities on a map. Tell them the clocks in all five show the same time. Ask for a guess and a reason, and write it down.  
-  *Parent says:* All five cities use the same clock. Will the Sun be at its highest at the same time in all of them? If not, which city is first? Why do you think so?  
-  *Child mode:* Five cities use one clock. Is the Sun highest at the same time in all five? Why do you think so?
+  *Parent says:* All five cities use the same clock. The Sun is highest at the middle of the day. We call that noon by the Sun. Will noon by the Sun come at the same time in all five? If not, which city is first?  
+  *Child mode:* Make a guess. Is the Sun highest at the same time in all five cities?
   - Ask: Why do you think the noons will be the same, or different? (good: The clock says so.; The Sun gets to the east first.; Guwahati is nearer the Sun's rising place.)
   - Note: Do not correct the guess. Many children say the noons are the same, because the clock is the same. That is a good guess to test.
 - **s2 (8 min)**  
@@ -301,9 +301,9 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Note: No phone? Use the weather box in a newspaper, or ring a relative in another city and ask when the Sun rose and set. If a city is missing, use any city whose longitude you can look up. Apps can differ from each other by a minute or two. That is fine. Working together: with 2 to 4 children, give each child one or two cities to look up and write on the shared table, then check each other's times. One child on their own does all five cities.
   - Check: Why do we use the same date and the same app for all five cities? → **So that only the city changes**
 - **s3 (8 min)**  
-  *Parent does:* Work out noon for the first city. Count the time from sunrise to sunset. Halve it. Add that half to the sunrise time. The answer is when the Sun is highest.  
+  *Parent does:* Work out noon for the first city, Guwahati. Count the time from sunrise to sunset. Halve it. Add that half to the sunrise time. The answer is when the Sun is highest.  
   *Parent says:* Here is a way to find the middle of the day. Count how long it is from sunrise to sunset. Cut that time in half. Add the half to the sunrise time.  
-  *Child mode:* Find the middle of the day. Take half the time from sunrise to sunset, and add it to the sunrise time.
+  *Child mode:* Find noon by the Sun for Guwahati.
   - Note: Worked example with made-up numbers: sunrise 6:10 and sunset 17:50. From 6:10 to 17:50 is 11 hours 40 minutes. Half of that is 5 hours 50 minutes. 6:10 plus 5:50 is 12:00. So noon is at 12:00. The Sun is highest in the middle of the daytime, so the middle is noon.
   - Check: Sunrise is at 6:00 and sunset is at 18:30. When is noon by the Sun? → **12:15**
 - **s4 (5 min)**  
@@ -313,8 +313,8 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Note: Expect Guwahati to be first and Mumbai last. Your gaps should be roughly 13 minutes to Kolkata, 46 to Chennai, 62 to Kochi and 75 to Mumbai, though your numbers may be a minute or two different. A quick check: timeanddate.com also shows the solar noon of each city. If your noon is more than 3 minutes away from that, check your working again.
 - **s5 (3 min)**  
   *Parent does:* For each city, divide its gap in minutes by its gap in degrees of longitude from Guwahati. For Mumbai, the gap in degrees is 91.7 minus 72.9, which is about 19. So divide Mumbai's gap in minutes by 19. What number do you keep getting?  
-  *Parent says:* Look at the longitudes. Divide each gap in minutes by the gap in degrees from Guwahati. What number do you keep getting?  
-  *Child mode:* Divide minutes by degrees for each city. What number do you get?
+  *Parent says:* Longitude is a number that says how far east or west a place is. Look at the list of longitudes. Divide each gap in minutes by the gap in degrees from Guwahati.  
+  *Child mode:* Divide the minutes by the degrees for each city.
   - Ask: What do you notice about the minutes for each degree? (good: It is about 4 each time.; It stays the same.; The further west, the later the noon.)
   - Check: Noon in Guwahati is at 11:30. Mumbai is 19 degrees of longitude to the west. About when is noon in Mumbai? → **About 12:45**
 - **s6 (2 min)**  
@@ -328,7 +328,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 - **predict:** Before you measure, guess. Will a person far to the north be carried faster than, slower than or at the same speed as a person on the equator? If you think slower, how much slower? Why do you think so?
 - **fair test:** All three circles are drawn on the same orange and measured with the same thread and ruler. Every spot on the orange turns once in the same time, so a longer circle means a faster spot. Only the latitude of the circle changes.
 - **safety:** A grown-up should help with the scissors if your child is young. Draw on the peel only, and do not eat the orange afterwards. Wash your hands after using the pen, and after handling the orange if your child has sensitive skin or a citrus allergy.
-- **record:** Fill in the table with the three lengths. Then draw a bar chart with one bar for each circle.
+- **record:** Fill in the table with the three lengths. Then show the three lengths side by side. Lay the three threads next to each other, or draw a bar chart with one bar for each circle.
 - **results table:** Circle | Latitude (degrees north) | Length of the circle (centimetres) | Compared with the equator (fraction)
 - **s1 (4 min)**  
   *Parent does:* Show your child the orange and say it stands in for the Earth. Ask for a guess and a reason, and write it down.  
@@ -348,7 +348,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Note: The way from the equator to the pole is one quarter of the way round the Earth, which is 90 degrees. One third of it is 30 degrees of latitude. Two thirds of it is 60 degrees. For a 6 centimetre thread, mark 2 and 4 centimetres from the equator. Delhi is close to the 30 degree circle. Oslo and Helsinki are close to the 60 degree circle.
   - Check: The thread from the equator to the pole is 6 centimetres long. Where is the mark for two thirds of the way? → **4 centimetres from the equator**
 - **s4 (5 min)**  
-  *Parent does:* Mark dots at one third of the way up, on eight sides, all the same height above the equator. Join the dots with a pen line. Do the same at two thirds. You now have three circles.  
+  *Parent does:* Add dots until you have eight, all round the orange. Keep them one third of the way up, at the same height. Join the dots with a pen line. Do the same at two thirds. You now have three circles.  
   *Parent says:* Make a ring of eight dots at one third of the way up, all at the same height above the equator. Join them with a line round the orange. Do the same at two thirds of the way up. Now you have three circles.  
   *Child mode:* Join the dots into a circle. Do this for both new circles.
   - Note: A rubber band slides towards the pole on a small circle, so do not use it here. Instead measure the same distance up from the equator line at eight places and join the dots by eye, with a thread laid along them as a guide. A wavy line is fine. If it wanders, measure a few more dots.
@@ -359,7 +359,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Note: Typical numbers: an orange about 24 to 26 centimetres round the equator, about 21 to 23 round the 30 degree circle, and about 12 to 13 round the 60 degree circle. Your numbers will not be exact. If your 60 degree circle is anywhere from 40 to 60 percent as long as your equator, that is a fair result. If the thread stretches or slips off the circle, measure again.
   - Check: Each spot on the orange turns once in the same time. Which spot is carried fastest? → **The one on the longest circle**
 - **s6 (2 min)**  
-  *Parent does:* Ask your child to say what they thought, what they measured and why it came out that way. Then ask how long the 60 degree circle is compared with the equator.  
+  *Parent does:* Ask your child to say what they thought, what they measured and why it came out that way. Then ask how the circle two thirds of the way up compares in length with the equator.  
   *Parent says:* Tell me three things. What did you think? What did you find? Why do you think it happened?  
   *Child mode:* Say what you thought, what you found, and why.
   - Note: A strong answer says that the 60 degree circle is about half as long as the equator, so a spot on it goes half as fast. The 30 degree circle is about 87 percent as long as the equator, so places on it go about 87 percent as fast. The equator of the real Earth is about 40,075 kilometres. 40,075 divided by 24 is about 1,670 kilometres an hour. Half of that is about 835. A person at the North Pole only turns once on the spot. Real fruit is not a perfect sphere, so do not worry if your answer is not exactly half.
@@ -367,27 +367,27 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 
 ## Activities
 ### a1 · The Extra Turn: why a day is a little longer than one spin (20 min)
-- **record:** Draw the circle, the lamp and the star. Draw an arrow showing which way you turned, and mark the extra bit you had to turn.
+- **record:** Draw the circle, the lamp and the star, with an arrow for the way you turned and a mark for the extra bit. Or take a photo of your marks and tell your grown-up where the extra turn was.
 - **s1 (5 min)**  
   *Parent does:* Put the torch on a low table in the middle of the room. The torch is the lamp. Stick the star on the far wall. Lay out eight marks in a circle around the lamp, each with an arrow on it. Every arrow points the same way, towards the star. The first mark is the one where the star is straight behind the lamp.  
   *Parent says:* The lamp is the Sun. The star on the wall is a faraway star. You are the Earth. Stand on the first mark and face the lamp. The star is right behind it.  
   *Child mode:* The lamp is the Sun. The star is on the wall. Stand on mark one and face the lamp.
   - Note: The star on the wall stands for a star so far away that it lies in the same direction from every mark. That is why every arrow points the same way. The lamp is close, so its direction changes as you move round it. The star wall should be at least 4 metres from the lamp if you can manage, but the arrows make a smaller room work too. Facing the star means lining your feet up with the arrow. With 2 to 4 children, one turns while the others watch and say what they see, then swap. Turn and walk anticlockwise (against the way clock hands go), as seen from above.
 - **s2 (3 min)**  
-  *Parent does:* Ask your child to turn once, slowly, on the spot, anticlockwise (to their left), until they face the star again. Ask what they are facing.  
-  *Parent says:* Turn once slowly to your left, without moving your feet, until you face the star again. What do you face now?  
-  *Child mode:* Turn once to your left on the spot. What do you face now?
+  *Parent does:* Ask your child to turn once, slowly, on the spot, anticlockwise (to their left), until they face the star again. Then ask the question below.  
+  *Parent says:* Turn once slowly to your left, without moving your feet, until you face the star again.  
+  *Child mode:* Turn once to your left on the spot. Stop when you face the star.
   - Ask: After one full turn on the spot, are you facing the star, the lamp, or both? (good: Both.; Both. They are in the same direction.; The star, and the lamp behind it.)
   - Note: If the Earth did not move round the Sun, one spin would bring the Sun back exactly. The star and the lamp are in line, so your child faces both.
 - **s3 (6 min)**  
   *Parent does:* Ask your child to go back to the first mark. They turn once anticlockwise while walking anticlockwise round the lamp to the next mark. They stop with their feet along the arrow, facing the star.  
-  *Parent says:* Now the Earth moves round the Sun too. Turn once anticlockwise as you walk anticlockwise round the lamp to the next mark. Stop with your feet along the arrow, facing the star. Are you facing the lamp?  
-  *Child mode:* Turn once anticlockwise as you walk to the next mark. Stop. Are you facing the lamp?
+  *Parent says:* Now the Earth moves round the Sun too. Turn once anticlockwise, to your left, as you walk round the lamp to the next mark. Stop with your feet along the arrow, facing the star.  
+  *Child mode:* Turn once to your left as you walk to the next mark. Stop and face the star.
   - Ask: You are facing the star. Are you facing the lamp too? If not, what would you have to do to face it? (good: No. I have to turn a bit more.; The lamp is to my side.; I have to turn a little more to the left.)
   - Note: The spin and the walk must go the same way, as the real Earth spins and orbits the same way. After one turn, your child faces the star but the lamp is off to their left, about one eighth of a turn away. They must turn that bit more to face the lamp. The real Earth moves only about 1 degree a day round the Sun, not one eighth of a turn, so the extra turn is much smaller. Ask your child to point at the lamp and at the star with both arms, so they can see the angle between their arms. That angle is the extra turn.
 - **s4 (4 min)**  
   *Parent does:* Ask your child to turn the extra bit until they face the lamp. Then tell them the real extra turn is about 1 degree, which takes about 4 minutes.  
-  *Parent says:* That extra bit is why a day is longer than one spin. For the real Earth the extra turn is about 1 degree. The Earth turns 1 degree in 4 minutes. So a day is 4 minutes longer than a spin.  
+  *Parent says:* That extra bit is why a day is longer than one spin. A whole turn is 360 degrees. For the real Earth the extra turn is only about 1 degree. The Earth turns 1 degree in 4 minutes. So a day is 4 minutes longer than a spin.  
   *Child mode:* The real extra turn is one degree. That takes four minutes.
   - Note: Try it once more, walking the other way (clockwise). The lamp is now on the other side, so your child must turn back a little to face it. That would make a day shorter than one spin, not longer. The real Earth spins and travels round the Sun the same way, and that is why its day is longer than one spin.
   - Check: One full spin of the Earth takes 23 hours 56 minutes. The Sun takes 24 hours to come back overhead. Why is there a gap? → **The Earth also moves round the Sun, so it must turn a little more**
@@ -399,7 +399,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Think: After a whole month, how much earlier does a star rise?
 ### a2 · Night Watch: who is awake while we sleep? (25 min)
 - **safety:** A grown-up must come with you. Stay in a safe place, away from the edge of a terrace. Do not go near wild animals. Do not touch bats, snakes or scorpions. Cover arms and legs or use the grown-up's mosquito repellent, because dusk is mosquito time.
-- **record:** A table with three columns: what I heard, what I saw, and where the light came from. Add a drawing of one night creature and the sense this creature needs.
+- **record:** A table with three columns: what I heard, what I saw, and where the light came from. Add one night creature and the sense this creature needs. Draw it or write about it.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Choose a safe place to sit, such as a balcony or the building compound. Tell your child to be quiet and still for two minutes. Do not use the torch yet.  
   *Parent says:* We are going to find out who is awake when we are going to bed. First, sit very quietly for two minutes. Just listen. Do not use the torch yet.  
@@ -418,16 +418,16 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Note: Red light usually disturbs animals less than white light and does not spoil your own night vision. Do not shine the torch into the eyes of an animal. If there are no animals, look at how the light attracts insects, and note which light sources are near.
   - Check: Why do we use a red torch and not a white one? → **Red light disturbs animals and our own night vision less**
 - **s4 (7 min)**  
-  *Parent does:* Ask your child to draw one animal they saw or heard. Then ask which sense this animal needs to find the way in the dark.  
-  *Parent says:* Pick one night creature and draw this creature. Which sense helps this creature find the way in the dark?  
-  *Child mode:* Draw one night animal. Which sense does this animal use?
+  *Parent does:* Ask your child to pick one animal they saw or heard. They can describe the animal or draw it. Then ask which sense this animal needs to find the way in the dark.  
+  *Parent says:* Pick one night creature. Describe the creature or draw it. Which sense helps this creature find the way in the dark?  
+  *Child mode:* Pick one night animal. Describe it or draw it. Which sense does this animal use?
   - Ask: How might an animal that is awake at night find food, if there is no light? (good: By hearing.; By smell.; By feeling with whiskers.)
   - Think: Which creatures did you find near the light, and which away from it?
 ### a3 · Count the Stars: how much of the sky does a city hide? (20 min)
 - **safety:** A grown-up must come along when you go outside at night.
 - **record:** A table with the number of stars counted through the tube with the lights on, and with the lights off after 10 minutes. If you have visited a village or a dark place, add that count.
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* On a clear night, take your child out to a place with a view of the sky. Hold the tube up so it points at a patch of sky away from any streetlight. Ask for a guess of how many stars they will see in the tube.  
+  *Parent does:* On a clear night, take your child out to a place with a view of the sky. Hold the tube up so it points at a patch of sky away from any streetlight. Ask for a guess of how many stars they will see in the tube. If the tube shows no stars, count the stars in a fist-sized patch of sky, with your arm out.  
   *Parent says:* Hold the tube up and look through it at a patch of dark sky. How many stars do you think you can see? And will the number change when we switch the lights off?  
   *Child mode:* Look through the tube. How many stars will you see? Will it change in the dark?
   - Note: Pick a patch of sky away from the Moon. If the Moon is bright, wait for a moonless night. Mark the patch by remembering a landmark near it, such as a rooftop corner. A foil-roll tube shows a very small patch, so in a bright city it may show only 0 to 5 stars. That is a real result. If you count none with the lights on, count the stars inside your fist held out at arm's length instead, which shows a bigger patch. With 2 to 4 children, give each child a tube and one patch of sky each, or have everyone count the same patch and compare numbers. Do it on a clear night. Haze, smoke or cloud will give a count that says nothing about lights, so choose another night.
@@ -452,17 +452,17 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 - **record:** A table with the planet, its day in hours, and the seconds it takes to turn once in the game. Add Venus with its time worked out.
 - **s1 (3 min)**  
   *Parent does:* Show your child the table of day lengths. Earth is 24 hours, Mars about 24.6 hours, Jupiter about 10 hours and Venus 243 days. Ask for a guess of which planet takes the longest to turn once.  
-  *Parent says:* On the game clock, one second is one hour. Earth takes 24 seconds to turn once. Which planet do you think takes the longest to turn once? Why?  
-  *Child mode:* One second is one hour. Which planet turns slowest? Why do you think so?
+  *Parent says:* On the game clock, one second is one hour. Earth takes 24 seconds to turn once. Look at the table. Which planet do you think takes the longest?  
+  *Child mode:* One second is one hour. Pick the planet you think turns slowest.
   - Ask: Why do you think that planet turns the slowest? (good: It is the smallest.; It is the biggest.; It is the furthest.)
   - Note: Do not correct the guess. Many children guess that the biggest planet turns the slowest. Jupiter is the biggest and turns the fastest.
 - **s2 (4 min)**  
   *Parent does:* Ask your child to stand with arms out and turn slowly to the left. Start the stopwatch and ask them to take 24 seconds for one full turn. Write down the time they really took and how far off it was. This is the Earth. Then do Mars at about 25 seconds.  
   *Parent says:* Turn to your left, slowly. Take 24 seconds to make one full turn. That is one Earth day. Try again for Mars, which takes 25 seconds.  
-  *Child mode:* Turn to your left. Take 24 seconds for one turn. That is Earth.
+  *Child mode:* Turn to your left. Take 24 seconds for one turn. That is Earth. Then turn once in 25 seconds for Mars.
   - Note: Count aloud together. A slow, steady turn is the idea. Children turn too fast at first, so this is harder than it looks. Working together: one child turns, one runs the stopwatch and counts aloud, one writes down the real time. With 2 to 4 children everyone tries each planet and the group writes who came closest to 24 seconds for the Earth. One child with a parent can swap jobs. A good test: try the turn again with the same time, and see if you get better. Do not spin faster than the target time, because the aim is slow and steady.
 - **s3 (3 min)**  
-  *Parent does:* Now ask your child to turn once in only 10 seconds. This is Jupiter. Ask how it feels different from the Earth turn.  
+  *Parent does:* Now ask your child to turn once in only 10 seconds. This is Jupiter. Tell them to stop if they feel dizzy. Ask how it feels different from the Earth turn.  
   *Parent says:* Now turn once in 10 seconds. That is Jupiter. It spins more than twice in one Earth day. How does it feel?  
   *Child mode:* Turn once in ten seconds. That is Jupiter. How does it feel?
   - Ask: Jupiter is much bigger than the Earth. How can it turn faster? (good: Being big does not make a planet spin slowly.; It was spun fast when it formed.; It formed from a fast-spinning cloud.)
@@ -477,11 +477,11 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 - **record:** The vote before and after the debate, and one sentence on each role's best reason.
 - **s1 (5 min)**  
   *Parent does:* Read the facts together. India has one clock, Indian Standard Time. The Sun is highest about an hour earlier in the far east than in the middle. In the far west it is about an hour later. Vote now: one time zone or two?  
-  *Parent says:* India uses one clock. In the far east, the Sun rises very early. In the far west, it rises much later by the same clock. Should India have one time zone or two? Vote now, before we talk.  
+  *Parent says:* India uses one clock. The Sun is highest about an hour earlier in the far east than in the middle. In the far west it is about an hour later. A time zone is an area that keeps one clock time. Should India have one time zone or two? Vote now, before we talk.  
   *Child mode:* India has one clock. Should it have one zone or two? Vote now.
   - Note: Write the first vote down. The roles are: a tea planter in Assam, a railway timetable planner, a Class 4 child in Arunachal Pradesh who walks home from school in winter, and a shopkeeper in Gujarat. Some Assam tea gardens already keep their own garden time, one hour ahead of Indian Standard Time.
 - **s2 (12 min)**  
-  *Parent does:* Give each person a role card. Each one speaks for one minute for their role, then all four may ask each other questions. The planner worries about confusion. The child worries about walking home from school in the dark.  
+  *Parent does:* Give each person a role card. The roles are a tea planter in Assam, a railway timetable planner, a child in Arunachal Pradesh and a shopkeeper in Gujarat. If you are fewer than four, share the roles out. Each one speaks for one minute for their role, then all may ask each other questions. The planner worries about confusion. The child worries about walking home from school in the dark.  
   *Parent says:* Each of us speaks for one minute as the person on the card. Say what you would gain or lose. Then we may ask each other questions.  
   *Child mode:* Speak for one minute as your role. What would you gain or lose?
   - Ask: What would change for the railway planner if there were two zones? (good: Timetables would be more confusing.; Trains crossing the border would need a clock change.; Mistakes could happen.)
@@ -497,7 +497,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 ## Projects
 ### p1 · Star Gate: the star that comes early (60 min, 6 days)
 - **safety:** A grown-up must come along when you watch at night, and stay with the child. On a terrace, stay well back from the open edge. Use mosquito repellent or cover your arms and legs.
-- **record:** A table with the night, the time the star went behind the edge, and how many minutes earlier than night 1. Draw a line graph of the times.
+- **record:** A table with the night, the time the star went behind the edge, and how many minutes earlier than night 1. Show the minutes earlier on a line graph, or with stacks of coins.
 - **schedule:** day 1: Choose the spot, the edge and a bright star. Write the time the star goes behind the edge. (15 min); day 2: Same spot. Write the time again. (10 min); day 3: Same spot. Write the time again. (10 min); day 4: Same spot. Write the time again. (10 min); day 5: Same spot. Write the time again. (10 min); day 6: Compare all the times and explain. (5 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* Find a place with a fixed edge in the west, such as a rooftop or a tree. Pick a bright star about to go behind it. Mark where your eyes are with tape. Write down the exact time the star disappears.  
@@ -514,14 +514,14 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Wait: Do this on the next clear night.
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* On each of the next three clear nights, go to the same spot and write down the exact time the star disappears. Write down how many minutes earlier it is than night 1.  
-  *Parent says:* Do the same on the next three clear nights. Each time, subtract the time from night 1. How many minutes earlier is it?  
-  *Child mode:* Repeat for three more nights. Subtract from night 1 each time.
+  *Parent says:* Do the same on the next three clear nights. Each time, work out how many minutes earlier it is than night 1.  
+  *Child mode:* Repeat for three more nights. Work out the minutes earlier than night 1.
   - Note: If the star hides behind a cloud, skip that night. Your table still works. A gap of two nights should give about 8 minutes.
   - Wait: Do this on the next three clear nights.
 - **s4 (10 min)**  
-  *Parent does:* Draw a line graph of the times, with the night along the bottom and the minutes earlier up the side. Ask your child to explain the pattern.  
-  *Parent says:* Plot your times as a line graph. What pattern do you see? Why does the star vanish earlier each night?  
-  *Child mode:* Plot a line graph. What pattern do you see? Why?
+  *Parent does:* Ask your child to show the minutes earlier for each night. They can draw a line graph, with the night along the bottom and minutes up the side. Or they can make a coin stack for each night. Then ask them to explain the pattern.  
+  *Parent says:* Show your five nights as a graph or as coin stacks. What pattern do you see? Why does the star vanish earlier each night?  
+  *Child mode:* Show the minutes earlier for each night. Tell what pattern you see.
   - Note: Expect a straight line sloping down, at about 4 minutes a night. Typical numbers: after 5 nights, night 5 is about 16 minutes earlier than night 1 (four gaps of about 4 minutes). The star comes back to the same place after one spin, which is 23 hours 56 minutes. The Sun takes 24 hours. So each night the star is 4 minutes earlier by the clock. After a month, it is 2 hours earlier. After a year, it is back to the start. If you cannot see stars at all, use the Stellarium Web planetarium on a phone, and step the date forward one day at a time.
   - Think: After a whole month, how much earlier would the star vanish? Where would it be at the same time of night?
 
@@ -538,7 +538,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   *Child mode:* Ahead means a later time. Behind means an earlier time. Is there a good call time?
   - Note: Check that your child understands the direction. When it is 3 in the afternoon in Chennai, it is 1:30 in the afternoon in Dubai and 9:30 in the morning in London. Singapore is 5:30 in the evening, and Tokyo is 6:30 in the evening.
 - **s2 (15 min)**  
-  *Parent does:* For each city, work out the earliest and latest Chennai time that suits it. Write them down. Look for the times that all five allow.  
+  *Parent does:* Everyone can be called from 8 in the morning to 8 in the evening their own time. For each city, work out what those two times are in Chennai. Chennai itself allows 3 in the afternoon to 8 in the evening. Write them down. Look for the times that all five allow.  
   *Parent says:* For each city, find the earliest and latest time in Chennai that works. For London, 8 in the morning there is 1:30 in the afternoon in Chennai. Do the other cities.  
   *Child mode:* For each city, find the earliest and latest time in Chennai that works.
   - Note: London: 8 in the morning there is 1:30 pm in Chennai, and 8 in the evening there is 1:30 am. Tokyo: 8 in the evening there is 4:30 pm in Chennai. Singapore: 8 in the evening there is 5:30 pm. Dubai: 8 in the evening there is 9:30 pm. School ends at 3. So the call can start between 3 pm and 4:30 pm in Chennai.
@@ -551,12 +551,12 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Think: Which place made the plan hardest, and why?
 ### c2 · Dark-Sky Street Lamp: light the road, not the sky (30 min)
 - **problem:** Design a street lamp from a torch and a few things from the kitchen drawer. It must light the road below it, but send almost no light up into the sky or sideways into a nearby house. Test it in a dark room.
-- **your turn:** Sketch your design. Build it and test it with the sky card and the window card. Change one thing and test again. Which design put the most light on the road and the least on the cards? Why do you think it did?
+- **your turn:** Plan your design by sketching it, or by telling your grown-up. Build it and test it with the sky card and the window card. Change one thing and test again. Which design put the most light on the road and the least on the cards? Why do you think it did?
 - **constraints:** The lamp must be a torch, or a phone torch, held 30 centimetres above the table.; You may use paper, card, a paper cup, black paper and tape. You may not turn the torch off.; A white card held 20 centimetres above the lamp stands for the sky. A second card held at the side stands for a window.; Test in a dark room, with a grown-up. Judge by eye which card is brighter.
 - **general:** A paper cup over the torch with the open end facing down, so the light goes only downwards.; A cone of black paper round the torch that points down at the road.
 - **creative:** A cup with a small hole cut in the bottom, so that the light makes a small bright circle on the road.; A lamp that is lower and has a flat top, so less light spills sideways.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* Read the problem together. Look at the bare torch with the two cards in a dark room. Ask which card is brighter.  
+  *Parent does:* Read the problem together. In a dark room, hold one white card above the torch for the sky, and one at its side for a neighbour's window. Ask which card is brighter.  
   *Parent says:* This is a street lamp with no shade. In a dark room, look at the sky card and the window card. Which one is brighter? What does the bare lamp do?  
   *Child mode:* Look at the bare torch in the dark. Which card is brighter?
   - Note: A bare lamp lights everything, including the sky card and the window card. Do not shine the torch at anyone's face.
@@ -566,7 +566,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   *Child mode:* Build a shade. Look at both cards. Try a second shade.
   - Note: The cup stops light going up and sideways. With a good shade, the table below is bright and the cards are dark. Outdoors the air also scatters light, but in this model that effect is small. If the torch gets hot, let it cool.
 - **s3 (10 min)**  
-  *Parent does:* Choose your best shade. Show it to a grown-up. Explain why it is better for turtles, stars and neighbours.  
+  *Parent does:* Choose your best shade. Show it to a grown-up. Explain why it is better for the night sky and the neighbours.  
   *Parent says:* Which shade was best? Why? Who benefits from a lamp that sends light down?  
   *Child mode:* Which shade was best? Who benefits from it?
   - Note: Real dark-sky lamps work the same way: a shield stops light going upwards, and warm-coloured, dimmer light disturbs animals less. Lights that point down use less electricity for the same brightness on the ground.

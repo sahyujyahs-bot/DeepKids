@@ -498,7 +498,7 @@
         "with a parent",
         "with friends"
       ],
-      "context": "This is a card game about when things happen in growing. You put events in order along a timeline, from one cell to the teens.",
+      "context": "This is a card game about when things happen in growing. You put events in order along a timeline, from one cell to the teens. You will find out which things happen long before birth, and which come much later.",
       "setup": [
         {
           "art": "Twenty-two cards on a table, with one card lying face-up in the middle as the start of a timeline.",
@@ -623,7 +623,7 @@
         {
           "id": "s1",
           "mins": 3,
-          "do": "Cut out the 22 cards. Shuffle them and make a pile with the fronts facing up. Turn the top card over. Place it in the middle of the table with its back showing. Read the back aloud.",
+          "do": "Cut out the 22 cards. Shuffle them and make a pile with the fronts facing up. Turn the top card over. Place it in the middle of the table with its back showing. Read the back aloud. Each card you later place in the right spot scores 1 point.",
           "say": "These cards show things that happen as a person grows. Each card has an event on one side and the time on the other. We will put them in order. Here is the first one.",
           "kid": "Cut out the cards. Shuffle them. Turn the top card over and put it in the middle.",
           "context": "This is the first step of Timeline Detective. You set up the cards.",
@@ -679,7 +679,7 @@
           "mins": 3,
           "do": "Read the whole timeline aloud, from left to right. Ask your child where growth was fastest and which card they would change.",
           "say": "Read the timeline from the start to the end. Where do many things happen close together? Where are the long gaps?",
-          "kid": "Read the timeline. Where do many things happen close together? Where are the long gaps?",
+          "kid": "Read the timeline out loud. Point to where many things happen close together.",
           "parent": "Many events are crowded in the first eight weeks, when the main parts of the body are laid down. After that, the baby mostly grows and learns. The long gaps later show that learning to move and speak takes much longer than building the body.",
           "think": "Most of the building of the body happens in the first eight weeks. Why do you think it takes years to learn to run?",
           "context": "This is the last step of Timeline Detective. You look back at the whole line."
@@ -737,7 +737,7 @@
       ],
       "safety": "Food colour stains clothes, hands and table tops. Put the tray on newspaper. Do not drink or taste anything in the katoris, and keep the colour bottle away from small children. Use the scissors with a grown-up nearby. Wash your hands afterwards.",
       "record": "Write the colour of each piece, dark, medium, pale or none, for strip A and for strip B. Then give each piece a made-up job: dark is bone, medium is muscle, pale is skin, and none is waiting.",
-      "context": "In this experiment, you make a model of how cells in an embryo can find their jobs. You do it with dye on paper.",
+      "context": "In this experiment, you make a model of how cells in an embryo can find their jobs. You do it with dye on paper. You will see how the same paper can end up with dark, medium and pale pieces.",
       "setup": [
         {
           "art": "A paper strip lying on a tray, with pencil lines every 3 centimetres making six squares, numbered 1 to 6 from the left.",
@@ -766,7 +766,7 @@
           "mins": 5,
           "do": "Show your child the paper strips and the dye. Explain that they will make a model of cells in an embryo. Each piece of paper is a cell, and the dye is a signal. Ask for a guess and a reason, and write both down.",
           "say": "Each piece of this strip is like a cell in a growing body. The dye is like a signal. Will the colour be the same along the whole strip? What if the dye goes in at the other end? Why do you think so?",
-          "kid": "Each paper piece is like a cell. The dye is like a signal. Will the colour be the same all along? Why?",
+          "kid": "Each paper piece is like a cell. The dye is like a signal. Will the colour be the same all along the strip?",
           "ask": [
             {
               "q": "Why do you think the colour will look like that?",
@@ -1020,7 +1020,7 @@
         }
       ],
       "safety": "Do not eat the raw dough. Use a blunt knife with a grown-up nearby. Atta contains wheat, so if anyone in the family is allergic to wheat or gluten, use clay or play dough instead. Wash your hands afterwards.",
-      "record": "Draw your two finished hands and write which was easier, and why.",
+      "record": "Take a photo of your two finished hands, or draw them. Then say or write which was easier, and why.",
       "context": "In this activity, you model how a hand forms, by taking dough away. You find out why a hand does not grow by adding fingers.",
       "setup": [
         {
@@ -1042,7 +1042,7 @@
           "mins": 5,
           "do": "Roll the dough flat into an oval paddle, as thick as your finger and as long as your hand. Show your child their own hand with the fingers pressed together. Say that a hand started like this.",
           "say": "Your hand began as a flat paddle like this one. Look at your own hand with your fingers pressed together. How do you think a paddle becomes five fingers?",
-          "kid": "Roll the dough into a flat paddle. Press your fingers together. How does a paddle become five fingers?",
+          "kid": "Roll the dough into a flat paddle. Press your own fingers together and look at them.",
           "ask": [
             {
               "q": "How do you think the paddle becomes five fingers?",
@@ -1059,9 +1059,9 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Draw four lines from the top of the paddle down two-thirds of the way. Cut away the dough between the lines, with a blunt knife. Pull the cut pieces away. That is the first hand. For the second hand, roll a new paddle and five little fingers. Stick the fingers on with a drop of water. Compare the two hands. Gently tug each finger, and bend it. Count how many fingers stay on each hand.",
-          "say": "Draw four lines from the top. Cut out the dough between the lines. Take the pieces away. Now try a second hand. Roll five little fingers and stick them on. Which hand is better?",
-          "kid": "Cut the dough between the lines to make fingers. Make a second hand by sticking five fingers on. Compare.",
+          "do": "With the tip of the knife, mark four lines in the dough. Start at the top of the paddle and go two-thirds of the way down. Cut away the dough between the lines, with a blunt knife. Pull the cut pieces away. That is the first hand. For the second hand, roll a new paddle and five little fingers. Stick the fingers on with a drop of water. Compare the two hands. Gently tug each finger, and bend it. Count how many fingers stay on each hand.",
+          "say": "Mark four lines from the top. Cut out the dough between the lines. Take the pieces away. Now try a second hand. Roll five little fingers and stick them on. Which hand is better?",
+          "kid": "Cut the dough between the lines to make fingers. Make a second hand by sticking five fingers on. Which hand is stronger?",
           "parent": "On the cut hand, each finger is one piece with the palm. The stuck-on fingers may come off or bend at the join. If they stay on, say that the join is still weaker than a finger that was never cut off. In a real embryo, the fingers are not stuck on. They appear when the cells between them die on a signal. One child with a parent: the child makes both hands and the parent tugs. Two to four children: each child makes a cut hand and a stuck-on hand, with their own dough, and swaps hands with a partner for the tug test.",
           "check": {
             "t": "mcq",
@@ -1081,7 +1081,7 @@
           "mins": 5,
           "do": "Look at the web of skin at the base of your own fingers. Spread your fingers wide. Talk about ducks, who have webbed feet. Ask what might be different in a duck's foot.",
           "say": "Look at the small web of skin between your fingers at the bottom. A duck has much more web between their toes. What might be different in a duck's foot while it grows?",
-          "kid": "Spread your fingers wide. Look at the web at the bottom. A duck has more web. Why?",
+          "kid": "Spread your fingers wide. Look at the small web at the bottom. A duck has much more web.",
           "ask": [
             {
               "q": "What might be different in a duck's foot while it grows?",
@@ -1118,7 +1118,7 @@
         }
       ],
       "record": "Draw a line graph of a baby's length from birth to 2 years. Mark the steepest part.",
-      "context": "In this activity, you draw a line graph of how a baby's length grows in the first two years, from typical values measured in thousands of healthy babies.",
+      "context": "In this activity, you draw a line graph of how a baby's length grows in the first two years, from typical values measured in thousands of healthy babies. You will see in which months a baby grows the fastest.",
       "setup": [
         {
           "art": "A sheet of squared paper with a horizontal axis marked 0 to 24 months and a vertical axis marked 40 to 90 centimetres.",
@@ -1139,7 +1139,7 @@
           "mins": 5,
           "do": "Show your child the typical lengths for a healthy baby. At birth the baby is 50 centimetres long. Then 61 at 3 months, 67 at 6 months, 71 at 9 months, 75 at 12 months, and 87 at 24 months. Ask in which three months a baby grows the most, and why they think so.",
           "say": "Here are typical lengths for a healthy baby. At birth, 50 centimetres. At three months, 61. At six months, 67. At nine months, 71. At twelve months, 75. At two years, 87. In which three months does a baby grow the most? Why?",
-          "kid": "A baby's length at birth and at 3, 6, 9, 12 and 24 months is 50, 61, 67, 71, 75 and 87 centimetres. In which three months does the baby grow most? Why?",
+          "kid": "Look at the baby's lengths. They are 50, 61, 67, 71, 75 and 87 centimetres, at birth and at 3, 6, 9, 12 and 24 months.",
           "ask": [
             {
               "q": "When do you think a baby grows fastest?",
@@ -1204,7 +1204,7 @@
         }
       ],
       "record": "Keep the two marked instruction sheets. Write which lines were different for each cell.",
-      "context": "In this activity, you act out how two cells hold the same instructions but use different ones. One person is a hair cell and one is a red blood cell.",
+      "context": "In this activity, you act out how two cells hold the same instructions but use different ones. One person is a hair cell and one is a red blood cell. You will see why cells with the same book do different jobs.",
       "setup": [
         {
           "art": "Two identical sheets of paper, each headed 'Instruction book' and listing the same 8 lines.",
@@ -1224,7 +1224,7 @@
           "id": "s1",
           "mins": 5,
           "do": "Write these 8 lines on both sheets. Line 1: make keratin, the hair and nail protein. Line 2: make haemoglobin, which carries oxygen. Line 3: make collagen, the tough protein in skin and bone. Line 4: make muscle fibres. Line 5: make lens protein, which is clear. Line 6: make a gut enzyme to break down food. Line 7: make signals for a nerve. Line 8: make energy and repair parts.",
-          "say": "We will write one instruction book with eight lines, and make two copies. Each copy is the DNA of a cell. Every cell gets the whole book.",
+          "say": "We will write one instruction book with eight lines, and make two copies. Each copy is like the DNA of a cell. DNA is the instruction book inside every cell. Every cell gets the whole book.",
           "kid": "Write eight lines on a sheet. Make a second copy. Every cell gets a whole book.",
           "parent": "The lines are simple, made-up examples of real jobs. A real cell reads a code written in four chemical letters, not lines of words.",
           "context": "This is the first step of Same Book, Different Pages. You make two copies of one book of instructions."
@@ -1299,7 +1299,7 @@
         }
       ],
       "record": "Draw one growth line for each person you interviewed, with at least three dots for their height at different ages. Write one thing that is the same, and one thing that is different.",
-      "context": "In this project, you interview family members about how and when they grew. You draw a growth line for each and compare them with the growth line of a baby.",
+      "context": "In this project, you interview family members about how and when they grew. You draw a growth line for each and compare them with the growth line of a baby. You will find out if everyone grew in the same way.",
       "setup": [
         {
           "art": "A child with a notebook, interviewing a grandmother sitting on a sofa.",
@@ -1337,7 +1337,7 @@
         {
           "id": "s2",
           "mins": 20,
-          "do": "Interview two more family members. Measure everyone's height today. Write each person's answers next to their name.",
+          "do": "Interview two more family members. Measure everyone's height today. Write each person's answers next to their name, or record them on a phone.",
           "say": "Today we ask two more people the same five questions. Then we measure everyone with the tape. Write it all next to their names.",
           "kid": "Interview two more people. Measure everyone's height. Write it down.",
           "context": "In this step, you interview two more family members and measure everyone's height.",
@@ -1348,7 +1348,7 @@
           "mins": 25,
           "do": "For each person, draw a growth line on squared paper, with age along the bottom and height up the side. Mark at least three dots. Join them. Compare the lines with each other and with the baby's growth line from the My Growth Line activity.",
           "say": "Draw a growth line for each person, with age along the bottom and height up the side. Join the dots. What is the same in every line? What is different?",
-          "kid": "Draw a growth line for each person. What is the same in every line? What is different?",
+          "kid": "Draw a growth line for each person. Then put the lines side by side and look at them.",
           "ask": [
             {
               "q": "What is the same in all the lines?",
@@ -1420,7 +1420,7 @@
           "mins": 5,
           "do": "Read the problem together. Look back at the strips from the Colour Map test. Ask how to get three clear bands from one dye.",
           "say": "You have one dye and no brush. Make a strip with three clear bands. What could you change to get a dark band, a medium band and a pale band?",
-          "kid": "Make a strip with three clear bands from one dye. What could you change?",
+          "kid": "Make a strip with three clear bands from one dye.",
           "ask": [
             {
               "q": "What could you change to make the dye lighter or darker?",
@@ -1436,7 +1436,7 @@
         {
           "id": "s2",
           "mins": 20,
-          "do": "Test two ideas on short strips. Write down what you did and what you got.",
+          "do": "Test two ideas on short strips. Keep each strip. Write down what you did and what you got, or take a photo of each.",
           "say": "Choose two ideas and test them on small strips. Write down what you did and how each strip looked.",
           "kid": "Test two ideas. Write what you did. Look at the bands.",
           "parent": "The method with three katoris and 12, 6 and 3 drops is called a dilution series. Scientists use it often. It usually gives clear bands. Strong food colours may make the first two bands look alike, so halve the drops again if they do. A single dipped strip may give a smooth fade, and not three clear bands. One child with a parent: the child tests two ideas, and at the end the parent is the person who has not seen the strips. Two to four children: each child tests a different idea at the same time, then you compare, and each child asks someone else to name their bands.",

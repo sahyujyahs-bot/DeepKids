@@ -658,7 +658,7 @@
    "days": 1,
    "context": "In this experiment you open the fridge door and use a thin line of agarbatti smoke, and your own bare feet, to find out where the air goes. Nobody blows. Does the air move anyway?",
    "question": "When you open the fridge door, does air move? Which way does it go at the top of the door, and which way at the bottom?",
-   "predict": "Guess first. When the fridge door opens, will the air at the bottom move in, move out, or stay still? What about the air at the top? Draw an arrow for each, and say why you think so.",
+   "predict": "Guess first. When the fridge door opens, will the air at the bottom move in, move out, or stay still? What about the air at the top? Show each with your hand, and say why you think so.",
    "fair_test": "Hold the smoke in the same three places every time: at the top edge of the open door, in the middle, and at the bottom edge. Hold it the same distance from the fridge, about a hand-span. Close the door and wait one minute between tries, so the fridge cools again. Try each place 3 times, because one try can be a fluke.",
    "results_table": [
     "Place",
@@ -697,14 +697,14 @@
      "what": "Guess and draw arrows. Feel the fridge air with bare feet. Test smoke at the top, middle and bottom of the open door, 3 times each. Talk about what you saw."
     }
    ],
-   "record": "Draw the open fridge from the side. Draw an arrow for where the smoke went at the top, the middle and the bottom. Fill in the table.",
+   "record": "Fill in the table. Then show where the smoke went at the top, the middle and the bottom. Point and tell your grown-up, or draw the open fridge from the side with an arrow for each.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Stand with your child in front of the closed fridge. 2. Give them paper and a pencil. 3. Ask them to draw the open fridge from the side. 4. Ask them to add an arrow at the top and the bottom for where the air will go.",
-     "say": "When I open the fridge, will any air move? Nobody will blow. Draw an arrow for what you think the air does at the top, and one for the bottom. Why do you think so?",
-     "kid": "Draw the fridge with its door open. Will the air move? Draw an arrow at the top. Draw one at the bottom. Why did you draw them that way?",
+     "do": "1. Stand with your child in front of the closed fridge. 2. Ask them to show with a hand which way the air will go at the top. 3. Then ask about the bottom.",
+     "say": "When I open the fridge, will any air move? Nobody will blow. Show me with your hand which way the air goes at the top, and at the bottom. Why do you think so?",
+     "kid": "Show with your hand where the air will go at the top. Then show the bottom. Will it move in, out, or stay still?",
      "ask": [
       {
        "q": "Why do you think the air will go that way?",
@@ -819,7 +819,7 @@
     },
     {
      "art": "The same agarbatti held at the top of the open fridge, with the smoke drifting gently into the fridge.",
-     "caption": "3. Try the top and the middle. Draw an arrow for each."
+     "caption": "3. Try the top and the middle. Watch the smoke each time."
     }
    ]
   },
@@ -889,7 +889,7 @@
      "what": "Build the windmill. Time how long it takes to lift a paper clip at 50 cm and at 150 cm from a fan, 3 times each."
     }
    ],
-   "record": "Fill in the table. Circle the fastest time at each distance. Draw your windmill and label the blades, the axle and the load.",
+   "record": "Fill in the table. Circle the fastest time at each distance. Draw your windmill and label the blades, the axle and the load, or take a photo of it.",
    "flow": [
     {
      "id": "s1",
@@ -1146,7 +1146,7 @@
      "what": "Hold a tissue strip still, walk fast with it, then fan it with a newspaper."
     }
    ],
-   "record": "Draw the strip three times: standing still, walking, and being fanned.",
+   "record": "Tell your grown-up what the strip did each time: standing still, walking, and being fanned. Or draw it three times.",
    "flow": [
     {
      "id": "s1",
@@ -1343,7 +1343,7 @@
      "what": "Put hot water at one end of a box and ice at the other. Hold smoke between them near the floor of the box."
     }
    ],
-   "record": "Draw the box from the side with arrows for where the smoke went.",
+   "record": "Point to where the smoke went and tell your grown-up. Or draw the box from the side with arrows.",
    "flow": [
     {
      "id": "s1",
@@ -1401,7 +1401,7 @@
     },
     {
      "art": "A side drawing of the box with arrows: along the bottom from ice to hot cup, up over the hot cup, and back along the top.",
-     "caption": "3. Draw the path of the air."
+     "caption": "3. Point to the path of the air."
     }
    ],
    "problem": "This is a small model of a sea breeze. The hot water stands for land warmed by the Sun. The ice stands for the cool sea. Smoke shows which way the air flows between them."
@@ -1442,7 +1442,7 @@
      "what": "Make a small diamond kite. Fly it in front of a fan. Then walk with it to make your own wind."
     }
    ],
-   "record": "Draw your kite flying, with an arrow for the wind and an arrow for the push of the air on the kite.",
+   "record": "Show with your arms which way the wind blew and which way it pushed the kite. Or draw your kite flying with arrows.",
    "flow": [
     {
      "id": "s1",
@@ -1461,7 +1461,7 @@
      "kid": "Stand in front of the fan. Let the kite go. Does it fly? How does it tilt?",
      "ask": [
       {
-       "q": "Look at how the kite tilts. Which way does the air bounce off it?",
+       "q": "Look at how the kite tilts. Which way does the air push it?",
        "good": [
         "Down, off the face of the kite.",
         "The air hits the face and goes down, so the kite is pushed up."
@@ -1551,8 +1551,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Ask about any big bird circling high up with still wings.",
-     "say": "Do you see a big bird circling without flapping? A black kite must find food over a big area, and flapping costs a lot of energy. How is the air helping them?",
-     "kid": "Look for a big bird circling high. Are their wings flapping? What is holding them up?",
+     "say": "Do you see a big bird circling without flapping? How is the air helping it stay up?",
+     "kid": "Look for a big bird circling high. Is it flapping? What is holding it up?",
      "parent": "Black kites and Brahminy kites ride thermals, columns of rising warm air, over hot roofs and roads. They circle to stay inside the rising air. If no bird comes, that is fine. Look again on a sunny afternoon."
     },
     {
@@ -1603,9 +1603,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Draw or trace an outline of India. Mark Kerala, Chennai, Kolkata, Mumbai and your own town.",
+     "do": "Use a printed outline map of India, or draw or trace one. Mark Kerala, Chennai, Kolkata, Mumbai and your own town.",
      "say": "Let's draw India and mark where we live.",
-     "kid": "Draw India. Mark Kerala, Chennai, Kolkata, Mumbai and your town.",
+     "kid": "Get an outline map of India, or draw one. Mark Kerala, Chennai, Kolkata, Mumbai and your town.",
      "context": "This is the first step of the Monsoon Map. You draw the great seasonal winds of India."
     },
     {
@@ -1613,7 +1613,7 @@
      "mins": 6,
      "do": "1. In blue, draw big arrows from the sea in the southwest, curving onto the land, for the summer monsoon. 2. In red, draw arrows from the northeast, for the winter winds.",
      "say": "In June, the wind comes from the sea in the southwest. In winter it turns round and comes from the northeast. Draw both.",
-     "kid": "Draw blue arrows from the southwest sea for summer. Draw red arrows from the northeast for winter.",
+     "kid": "Make blue arrows from the southwest sea for summer. Make red arrows from the northeast for winter. Or sweep your hand along each path and say the season.",
      "parent": "The winter winds from the northeast cross the Bay of Bengal before they reach Tamil Nadu. They pick up water vapour from the sea, so they bring the northeast monsoon rain to Chennai in October to December."
     },
     {
@@ -1780,7 +1780,7 @@
     "Copy the shape of a real wind turbine: three long, narrow, twisted blades.",
     "Put a cardboard funnel in front of the blades to gather more wind."
    ],
-   "your_turn": "Now invent your own weightlifter. Draw it, build it, and count how many clips it lifts at 150 cm.",
+   "your_turn": "Now invent your own weightlifter. Plan it, build it, and count how many clips it lifts at 150 cm.",
    "flow": [
     {
      "id": "s1",
@@ -1793,9 +1793,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw three ideas before building.",
-     "say": "Engineers draw before they build. What could we change?",
-     "kid": "Draw three ideas to make your windmill stronger."
+     "do": "Plan three ideas before building. Draw each one, or tell it out loud.",
+     "say": "Engineers plan before they build. What could we change?",
+     "kid": "Think of three ways to make your windmill stronger. Draw them, or tell your grown-up."
     },
     {
      "id": "s3",
@@ -1849,7 +1849,7 @@
     "Hang a wet cotton cloth in front of the window where the breeze enters. The water evaporates and cools the air.",
     "Find the shady side of the building. Open windows there to let air in, and on the sunny side to let it out."
    ],
-   "your_turn": "Now make your own breeze plan. Draw it, try it, and test it with the tissue strip.",
+   "your_turn": "Now make your own breeze plan. Show it on your plan, try it, and test it with the tissue strip.",
    "flow": [
     {
      "id": "s1",
@@ -1863,9 +1863,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Draw a plan of the flat and mark which windows face the sun in the afternoon.",
+     "do": "Draw a plan of the flat, or use the one you have, and mark which windows face the sun in the afternoon.",
      "say": "Draw our flat. Which side gets the hot afternoon sun? Which side is shady?",
-     "kid": "Draw your flat. Mark the sunny side and the shady side."
+     "kid": "Draw your flat, or use your plan. Mark the sunny side and the shady side."
     },
     {
      "id": "s3",
@@ -1891,7 +1891,7 @@
     },
     {
      "art": "A plan of a flat from above, with arrows of air coming in a shady window and going out a window on the other side.",
-     "caption": "2. Draw a breeze plan and try it."
+     "caption": "2. Plan the breeze on paper and try it."
     }
    ]
   }

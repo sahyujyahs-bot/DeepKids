@@ -572,7 +572,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the 24 cards and the tokens. Shuffle the cards into a pile. Give each player one set of four tokens.",
-     "say": "Each card describes a real reaction. Your four tokens are the four kinds: join, split, swap and burn. Count the substances before and after the reaction. That is the best clue.",
+     "say": "Each card describes a real reaction. Your four tokens are the four kinds: join, split, swap and burn. Joining is two substances making one. Splitting is one substance making two. Swapping is two substances trading parts. Burning is a fuel joining with oxygen. Count the substances before and after the reaction. That is the best clue.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take four tokens.",
      "context": "This is the first step of Join, Split, Swap or Burn. You set up the reaction cards and the kind tokens."
     },
@@ -666,8 +666,8 @@
     }
    ],
    "safety": "A grown-up heats the milk and pours everything that is hot. The child adds lemon juice and stirs with a long spoon. Keep hands away from the hot bowl.",
-   "record": "Draw a table with three columns: the tumbler, what you added, and what you saw after 1 minute. Then write how many tablespoons of milk tumbler B took before the milk stayed white.",
-   "context": "In this experiment you make curds from hot milk and lemon juice. Then you test the leftover whey, to find out which reactant was used up.",
+   "record": "Make a table with three columns: the tumbler, what you added, and what you saw after 1 minute. Then write how many tablespoons of milk tumbler B took before the milk stayed white.",
+   "context": "In this experiment you make curds from hot milk and lemon juice. Then you test the leftover whey. You will find out whether the milk or the lemon juice was used up first.",
    "setup": [
     {
      "art": "A grown-up pouring steaming milk from a small pan into a steel bowl, with some milk kept back in the pan under a lid.",
@@ -722,8 +722,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Squeeze and strain the lemons. Mark the tumblers A and B. Ask for both guesses and the reasons, and write them down.",
-     "say": "We will turn milk into curds and whey with lemon juice. Then we will add more lemon to some whey, and fresh milk to some whey. Which one will make new curds? Why do you think so?",
-     "kid": "Lemon makes curds in milk. Will more lemon make curds in whey? Will more milk? Why?",
+     "say": "We will turn milk into curds and whey with lemon juice. Curds are the white lumps. Whey is the thin liquid left over. Then we will add more lemon to some whey, and fresh milk to some whey. Which one will make new curds? Why do you think so?",
+     "kid": "Lemon juice makes milk form curds. Tell your grown-up what you think will happen next.",
      "ask": [
       {
        "q": "Why do you think more lemon juice will or will not make new curds in the whey?",
@@ -762,7 +762,7 @@
      "mins": 5,
      "do": "Add 2 teaspoons of lemon juice to tumbler A. Add 1 tablespoon of hot milk from the pan to tumbler B. Stir each 5 times. Watch both for 1 minute against the light, and write what you see.",
      "say": "Tumbler A gets more lemon juice. Tumbler B gets fresh milk. Stir both, and watch for one minute. In which tumbler do new curds appear?",
-     "kid": "Add lemon to A. Add milk to B. Stir. Which one makes new curds?",
+     "kid": "Add lemon to A. Add milk to B. Stir each one and watch.",
      "check": {
       "t": "mcq",
       "q": "In Second Squeeze, why do both tumblers get whey from the same bowl?",
@@ -791,7 +791,7 @@
      "mins": 5,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
      "say": "Say what you thought would happen, what you saw, and why it happened. In the first bowl, which ran out, the milk or the lemon? In tumbler B at the end, which ran out?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+     "kid": "Look at your table. Tell your grown-up what happened in each tumbler.",
      "ask": [
       {
        "q": "Why did more lemon juice make no new curds in tumbler A?",
@@ -869,7 +869,7 @@
      "what": "Tear off the cups, put both lumps in water for 5 minutes, and say what the results show."
     }
    ],
-   "record": "Draw a table with a row for 0, 5, 10, 15 and 20 minutes. For each cup write warm or not warm, and soft or hard. On day 2, write what each lump did in water.",
+   "record": "Make a table with a row for 0, 5, 10, 15 and 20 minutes. For each cup write warm or not warm, and soft or hard. On day 2, write what each lump did in water.",
    "context": "In this two-day experiment you mix plaster of Paris with water, and sand with water. You find out which powder joins with the water to make a new solid.",
    "setup": [
     {
@@ -931,7 +931,7 @@
      "mins": 3,
      "do": "Spread newspaper. Mark the cups A and B. Show your child the two dry powders. Ask for the guess and the reason, and write both down.",
      "say": "We will mix each powder with the same amount of water. Will either cup get warm? Which will go hard first? Will it be hard before it is dry? Why do you think so?",
-     "kid": "Look at the two powders. Which will go hard with water? Will a cup get warm? Why?",
+     "kid": "Look at the two powders. Tell your grown-up what you think each one will do with water.",
      "ask": [
       {
        "q": "Why do you think a paste goes hard?",
@@ -980,7 +980,7 @@
      "mins": 2,
      "do": "Leave both cups on a shelf until the next day. Ask the question below before you leave them.",
      "say": "By tomorrow both cups will be dry. We will put both lumps in a bowl of water. What do you think each lump will do?",
-     "kid": "Leave the cups until tomorrow. What will each lump do in water?",
+     "kid": "Leave both cups on the shelf. Tomorrow you will test the lumps in water.",
      "wait": "Leave both cups until the next day",
      "context": "In this step of Powder and Water you leave the plaster cup and the sand cup until the next day."
     },
@@ -998,7 +998,7 @@
      "mins": 5,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
      "say": "Say what you thought would happen, what you saw, and why it happened. Where is the water that we put into the plaster cup?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+     "kid": "Look at your table. Tell your grown-up what each cup and each lump did.",
      "ask": [
       {
        "q": "What three things show that the plaster and the water made a new substance?",
@@ -1009,7 +1009,7 @@
        ]
       },
       {
-       "q": "Where did the water in cup B go?",
+       "q": "Where did the water in the sand cup go?",
        "good": [
         "It dried into the air.",
         "The sand is the same sand as before, so the water just dried away."
@@ -1063,8 +1063,8 @@
     }
    ],
    "safety": "Keep soap water and vinegar away from eyes. Do not taste anything in this test. A grown-up grates the soap.",
-   "record": "Draw a table with a row for each bottle. Write the foam height for try 1 and try 2. Write how the liquid looks: clear, cloudy or milky, with or without white bits.",
-   "context": "In this experiment you shake soap water with plain water and with vinegar, and measure the foam. You also test dish wash liquid with vinegar.",
+   "record": "Make a table with a row for each bottle. Write the foam height for try 1 and try 2. Write how the liquid looks: clear, cloudy or milky, with or without white bits.",
+   "context": "In this experiment you shake soap water with plain water and with vinegar, and measure the foam. You also test dish wash liquid with vinegar. You will find out what vinegar does to soap.",
    "setup": [
     {
      "art": "A grown-up grating a bar of soap into a tumbler of warm water, with a child stirring.",
@@ -1119,7 +1119,7 @@
      "mins": 3,
      "do": "Set out the three bottles, the soap and the vinegar. Ask for the guess and the reason, and write both down.",
      "say": "Bottle A will hold soap water and plain water. Bottle B will hold soap water and vinegar. Bottle C will hold dish wash liquid and vinegar. Which will foam most when we shake it? Why do you think so?",
-     "kid": "Look at the three bottles. Each holds soap or dish wash, with water or vinegar. Which will foam most? Why?",
+     "kid": "Look at the three bottles. Each holds soap or dish wash, with water or vinegar. Tell your grown-up which you think will foam most.",
      "ask": [
       {
        "q": "Why do you think vinegar will or will not change the foam?",
@@ -1168,7 +1168,7 @@
      "mins": 3,
      "do": "Empty and rinse the bottles, and do the whole test once more. Then leave bottle B to stand for 5 minutes and look at the top of the liquid.",
      "say": "We do the test twice, because one try can be a fluke. Now let bottle B stand. Look at the top of the liquid. What has collected there?",
-     "kid": "Do the test once more. Then let B stand. What floats on top?",
+     "kid": "Do the test once more. Then let B stand and look at the top.",
      "parent": "White, greasy bits usually float to the top of bottle B. Let your child rub one between two fingers. It feels waxy, and it does not foam.",
      "context": "In this step of Soap and Sour you repeat the test and look at what floats in bottle B."
     },
@@ -1177,7 +1177,7 @@
      "mins": 5,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
      "say": "Say what you thought would happen, what you saw, and why it happened. Is the white solid in bottle B still soap?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+     "kid": "Look at your table. Tell your grown-up what each bottle looked like.",
      "ask": [
       {
        "q": "What shows that the white bits in bottle B are a new substance and not soap?",
@@ -1234,7 +1234,7 @@
     }
    ],
    "safety": "A grown-up does all the heating and lifts the hot lids. The heated powder is washing soda, which stings eyes and skin. Do not taste it, and wash hands after the activity.",
-   "record": "Draw three lids: from the empty pan, from the first heating and from the second heating. Draw the drops on each one.",
+   "record": "For each of the three lids, write whether it had drops or was dry: the empty pan, the first heating and the second heating. You can also take a photo of each lid.",
    "context": "In this activity a grown-up heats dry baking soda in a pan under a cold steel lid. You look for water drops on the lid, to find out if heat splits the powder.",
    "setup": [
     {
@@ -1260,7 +1260,7 @@
      "mins": 3,
      "do": "Show your child the dry baking soda and the dry pan. Rub a little powder between your fingers to show it is dry. Ask the question below and write down the answer.",
      "say": "This powder is dry, and the pan is dry. I will heat the powder under a cold lid. What do you think we will find under the lid? Why do you think so?",
-     "kid": "The powder is dry. A grown-up heats it under a lid. What will be under the lid? Why?",
+     "kid": "The powder is dry. A grown-up will heat it under a cold lid. Guess what you will find under the lid.",
      "ask": [
       {
        "q": "Could anything come out of a dry powder when it is heated?",
@@ -1288,8 +1288,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Put 2 heaped teaspoons of baking soda in the pan. Cover it with the second cold lid. Heat on a low flame for 1 minute. Lift the lid with a cloth and show the underside.",
-     "say": "Now the powder goes in. I will heat it for one minute under a new cold lid. Look under the lid now. What do you see? Where did it come from?",
-     "kid": "Now the powder is heated. Look under the lid. What do you see?",
+     "say": "Now the powder goes in. I will heat it for one minute under a new cold lid. Look under the lid now. What do you see?",
+     "kid": "Now the powder is heated. Look under the lid and point at what you see.",
      "adult": true,
      "ask": [
       {
@@ -1309,7 +1309,7 @@
      "mins": 6,
      "do": "Heat the powder without a lid for 5 more minutes, stirring now and then. Watch the powder as you stir. Then cover the pan with the third cold, dry lid for 1 minute. Lift the lid and look.",
      "say": "Watch the powder while I stir. Does it move like a dry powder? Now I cover it with a new dry lid. Do you think drops will come again? Why?",
-     "kid": "Watch the powder as it is stirred. Then a new lid goes on. Will drops come again?",
+     "kid": "Watch the powder as it is stirred. Then a new lid goes on.",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -1330,7 +1330,7 @@
      "mins": 4,
      "do": "Let the pan cool fully. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
      "say": "Say what you thought would happen, what you saw, and why it happened. Is the powder in the pan still baking soda?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+     "kid": "Look at the lids. Tell your grown-up which lids had drops.",
      "parent": "The reason: heat splits baking soda into three substances. They are washing soda, water and carbon dioxide gas. The water left as steam and turned to drops on the cold lid. The gas left unseen, and made the powder bubble. The powder left in the pan is washing soda. This is a splitting reaction, and it needs heat. The same splitting makes a cake rise in the oven. Keep the washing soda for cleaning greasy vessels, or wash it away with plenty of water.",
      "think": "A cake batter with baking soda rises in the oven. Which of the three products lifts the cake?",
      "context": "This is the last step of The Pan and the Lid. You say what the water drops on the lid show about heated baking soda."
@@ -1372,7 +1372,7 @@
     }
    ],
    "safety": "A grown-up lights the candle and holds every item in the flame with tongs. Tie back long hair and keep loose sleeves away. Drop anything that burns into the bowl of water. Do this near an open window.",
-   "record": "Draw a table with three columns: the thing, your guess, and what happened. Use the words 'burned' and 'did not burn'.",
+   "record": "Make a table with three columns: the thing, your guess, and what happened. Use the words 'burned' and 'did not burn'.",
    "context": "In this activity a grown-up holds seven things in a candle flame, one at a time. You guess which will burn, and look for what the burning things share.",
    "setup": [
     {
@@ -1394,7 +1394,7 @@
      "mins": 3,
      "do": "Lay out the seven things: paper, dry leaf, stone, steel spoon, salt, ash and water. Your child writes a guess for each one. Ask for the reason.",
      "say": "I will hold each of these in a candle flame for ten seconds. Which ones will burn? What do you think the burning ones have in common? Why do you think so?",
-     "kid": "Look at the seven things. Guess which ones will burn. Why those?",
+     "kid": "Look at the seven things. Point to the ones you think will burn.",
      "ask": [
       {
        "q": "What do you think makes a thing able to burn?",
@@ -1423,7 +1423,7 @@
      "mins": 5,
      "do": "Blow out the candle. Sort the seven things into two groups. Ask your child to say what they thought would happen, what they saw, and why. After they have answered, read them the explanation in the note below.",
      "say": "Say what you thought would happen, what you saw, and why it happened. What do the paper and the leaf share that the others lack?",
-     "kid": "Sort the things into two groups. What do the burning ones share?",
+     "kid": "Sort the things into two groups: burned and did not burn.",
      "check": {
       "t": "mcq",
       "q": "Why does ash not burn in a candle flame?",
@@ -1497,7 +1497,7 @@
      "mins": 3,
      "do": "Set out the seeds and say which atom each one stands for. Show that seeds placed touching each other are joined by bonds, and make one molecule.",
      "say": "Each seed is one atom. Seeds that touch are joined by bonds, and together they are one molecule. One chana touching two moong is a water molecule. Build one for me.",
-     "kid": "Each seed is an atom. Touching seeds are joined. Build one water molecule.",
+     "kid": "Each seed is an atom. Seeds that touch are joined. Make a water molecule from three seeds.",
      "parent": "Water is one oxygen and two hydrogens. Check that your child puts the chana in the middle.",
      "context": "This is the first step of Four Plates. You learn which seed stands for which atom, and build a water molecule."
     },
@@ -1525,7 +1525,7 @@
      "mins": 5,
      "do": "Plate 3, swapping. Build an acid: 1 moong touching the peppercorn. Build a base: the groundnut touching 1 chana, which touches 1 moong. Now let the moong of the acid and the groundnut change places.",
      "say": "This acid is hydrogen joined to chlorine. A base is the opposite of an acid, and it can cancel an acid. This base is sodium joined to oxygen and hydrogen. Swap the acid's hydrogen with the sodium. What two things have you made?",
-     "kid": "Plate 3: build the acid and the base. Swap the moong and the groundnut. What did you make?",
+     "kid": "Plate 3: build the acid and the base. Swap the moong and the groundnut.",
      "ask": [
       {
        "q": "What are the two products on plate 3?",
@@ -1596,7 +1596,7 @@
     }
    ],
    "record": "A chart with four columns: joining, splitting, swapping and burning. Write each reaction in its column, with the room where you found it.",
-   "context": "In this two-day project you hunt for twelve chemical reactions in your own home. Then you sort them into joining, splitting, swapping and burning.",
+   "context": "In this two-day project you hunt for twelve chemical reactions in your own home. Then you sort them into joining, splitting, swapping and burning. You will find out which kind happens most in your home.",
    "setup": [
     {
      "art": "A child with a notebook standing at a kitchen door, looking at a gas stove, a pot of curd and a rusty window grill.",
@@ -1634,9 +1634,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Day 2. Draw four columns on the large sheet. Your child writes each of the twelve reactions in a column. If one fits two columns, write it on the line between them.",
+     "do": "Day 2. Rule four columns on the large sheet and label them joining, splitting, swapping and burning. Your child writes each of the twelve reactions on a small slip of paper and places it in a column. If one fits two columns, put it on the line between them.",
      "say": "For each reaction, ask how many substances there are before and after. Two into one is joining. One into two is splitting. A fuel with oxygen is burning. An exchange is swapping.",
-     "kid": "Draw four columns. Put each reaction in its column. Some may fit two.",
+     "kid": "Put each reaction slip in its column. Some may fit two.",
      "parent": "Guide, with answers: rust and tarnish are joining. Setting cement is joining. A rising cake is splitting. Rising idli batter is splitting, done by living yeasts and bacteria. Soap rings, antacids and curd are swapping. Flames and incense are burning. A browning apple is joining with oxygen.",
      "context": "This is day 2 of The Home Reaction Hunt. You sort your twelve reactions into the four kinds on a chart."
     },
@@ -1645,7 +1645,7 @@
      "mins": 5,
      "do": "Count each column. Talk about the questions below. Put the chart on a wall.",
      "say": "Which kind did you find most often? Which was hardest to find? Which reactions were done by living beings, such as bacteria?",
-     "kid": "Count each column. Which kind won? Which reactions did living beings do?",
+     "kid": "Count each column. Then put the chart on the wall.",
      "ask": [
       {
        "q": "Which reactions in your list were hard to sort, and why?",
@@ -1714,7 +1714,7 @@
      "mins": 4,
      "do": "Read the problem together. Mark the cups 1, 2 and 3. Rub a drop of oil on each of the 3 coins. Ask which mix your child expects to win, and why.",
      "say": "Cup one gets two tablespoons of water. Cup two gets one. Cup three gets half. Which will copy the coin best? Why do you think so?",
-     "kid": "Three mixes: runny, medium and stiff. Which will copy the coin best? Why?",
+     "kid": "Three mixes: runny, medium and stiff. Guess which will copy the coin best.",
      "ask": [
       {
        "q": "What might go wrong with too much water, or with too little?",
@@ -1742,7 +1742,7 @@
      "mins": 20,
      "do": "Wait 20 minutes. Your child touches the outside of each cup now and then. Then lift the coins, tip out each disc and compare the prints. Try to read the year. Scratch the back of each disc with a fingernail.",
      "say": "Which cup feels warmest? Now look at the three prints. In which one is the writing clearest? Which disc is hardest to scratch?",
-     "kid": "Wait 20 minutes. Compare the three prints. Which can you read? Which is hardest?",
+     "kid": "Wait 20 minutes. Then lift the coins and compare the three prints.",
      "check": {
       "t": "mcq",
       "q": "A plaster mix has too much water. What happens to the extra water?",

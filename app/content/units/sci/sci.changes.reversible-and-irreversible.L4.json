@@ -606,7 +606,7 @@
      "mins": 3,
      "do": "Count the points. Then sort all 24 cards into three piles and look at the 'No way back' pile.",
      "say": "Let us sort the cards into the three piles. Look at the 'No way back' pile. Which of these made a new substance? Which did not?",
-     "kid": "Sort the cards into three piles. Which changes made something new?",
+     "kid": "Sort all the cards into the three piles.",
      "check": {
       "t": "mcq",
       "q": "Which of these has no way back, although no new substance is made?",
@@ -766,7 +766,7 @@
      "mins": 3,
      "do": "For each row, decide together which step is the first with no way back. Put a coin between those two cards.",
      "say": "Look along each row. Some steps go back and some do not. Where is the first step that can never be undone?",
-     "kid": "Look at each row. Find the first step with no way back.",
+     "kid": "Put a coin between the two cards where the way back ends.",
      "ask": [
       {
        "q": "Why did you put the coin there and not one step earlier?",
@@ -864,8 +864,8 @@
      "what": "Test the two dried plates and say what the results show."
     }
    ],
-   "record": "Draw a table with rows for 0, 10 and 30 minutes, and one more row for the dried plates. For each glass, write whether there is a layer at the bottom and how thick it is in millimetres. Write whether the liquid pours.",
-   "context": "In this experiment you stir flour into cold water in one glass, and into heated water in another. You find out whether the flour settles in each glass, and whether dry flour can be got back.",
+   "record": "Make a table with rows for 0, 10 and 30 minutes, and one more row for the dried plates. For each glass, write whether there is a layer at the bottom and how thick it is in millimetres. Write whether the liquid pours.",
+   "context": "In this experiment you stir flour into cold water in one glass, and into heated water in another. You will find out whether heat changes flour for good, or whether you can get the flour back.",
    "setup": [
     {
      "art": "Two clear glass tumblers labelled A and B on a kitchen counter, with a bowl of white flour, a tablespoon and a jug of water.",
@@ -925,7 +925,7 @@
      "mins": 4,
      "do": "Show your child the flour and the water. Let them rub a pinch of flour between their fingers. Ask for the guess and the reason, and write both down.",
      "say": "One spoon of flour goes into cold water. One spoon goes into water that we heat. After half an hour, will the flour settle in each glass? Why do you think so?",
-     "kid": "Rub a pinch of flour. Will it settle in cold water? In heated water? Why?",
+     "kid": "Rub a pinch of flour between your fingers. Tell your grown-up what you think will happen in each glass.",
      "ask": [
       {
        "q": "Why do you think it will, or will not, settle?",
@@ -973,7 +973,7 @@
      "mins": 3,
      "do": "When glass A has stood for 10 minutes, look at both glasses from the side. Measure any layer at the bottom with the ruler. Record what you see.",
      "say": "Ten minutes have passed. Look from the side, without moving the glasses. What do you see at the bottom of each one?",
-     "kid": "Ten minutes have passed. Look from the side. Is there a layer?",
+     "kid": "Look at each glass from the side. Is there a white layer at the bottom?",
      "wait": "Wait until glass A has stood for 10 minutes",
      "context": "In this step of Cold Stir, Hot Stir you look at both glasses after 10 minutes."
     },
@@ -982,7 +982,7 @@
      "mins": 3,
      "do": "When glass A has stood for 30 minutes, look and measure again. Then tilt each glass a little. Record whether each one pours.",
      "say": "Thirty minutes now. Measure the layer again. Now tilt each glass gently. Which one moves like water?",
-     "kid": "Thirty minutes have passed. Measure again. Tilt each glass gently.",
+     "kid": "Measure the layer again. Tilt each glass gently and watch how it moves.",
      "wait": "Wait until glass A has stood for 30 minutes",
      "parent": "Use the waiting time for the term cards or the story. Glass A should show a white layer under thinner water. With rice flour or maida the water above stays a little milky.",
      "context": "In this step of Cold Stir, Hot Stir you look at both glasses after 30 minutes and tilt them."
@@ -992,16 +992,16 @@
      "mins": 4,
      "do": "Pour the water off glass A slowly into the sink. Scrape the white layer on to plate A and spread it thin. Spread 1 tablespoon of the paste from glass B on plate B, as thin as you can. Leave both plates under a fan.",
      "say": "Now we try the way back. We take away the water and see what is left. What do you think each plate will hold when it is dry?",
-     "kid": "Pour the water off A. Spread each one thin. What will be left?",
+     "kid": "Spread the white layer thin on plate A. Spread the paste thin on plate B.",
      "parent": "Spread both as thin as a coin, or they will take more than a day to dry. A sunny windowsill is faster than a fan. Keep the rest of the paste from glass B in a closed box in the fridge. It is a real glue, and The Tell-Tale Seal can use it.",
      "context": "In this step of Cold Stir, Hot Stir you take the water away to see whether flour comes back."
     },
     {
      "id": "s7",
      "mins": 5,
-     "do": "When both plates are fully dry, rub each one with a finger. Stir a pinch from each plate into a little water in two katoris. Then ask the three questions in your words to say.",
+     "do": "When both plates are fully dry, rub each one with a finger. Stir a pinch from each plate into a little water in two katoris. Then ask what they thought would happen, what they saw, and why.",
      "say": "Rub plate A. Now try plate B. Say what you thought would happen, what you saw, and why you think it happened.",
-     "kid": "Rub each plate. Say what you thought would happen. Say what you saw. Say why.",
+     "kid": "Rub each plate. Stir a pinch from each into water. Tell what you see.",
      "wait": "Leave both plates until they are fully dry, by the next morning",
      "ask": [
       {
@@ -1082,8 +1082,8 @@
      "what": "Score the squares again and say what the results show."
     }
    ],
-   "record": "Draw a table with five rows, for 0, 1, 2, 4 and 6 minutes. Give each square a colour score: 0 for white, 1 for cream, 2 for golden, 3 for brown and 4 for dark brown or black. Write its feel too: soft, firm or crisp. Fill in the table twice: straight after toasting, and after the night in damp air.",
-   "context": "In this experiment a grown-up toasts squares of bread for different times. You then try to bring them back to soft white bread, by cooling and by damp air.",
+   "record": "Make a table with five rows, for 0, 1, 2, 4 and 6 minutes. Give each square a colour score: 0 for white, 1 for cream, 2 for golden, 3 for brown and 4 for dark brown or black. Write its feel too: soft, firm or crisp. Fill in the table twice: straight after toasting, and after the night in damp air.",
+   "context": "In this experiment a grown-up toasts squares of bread for different times. You will find out whether toast can ever turn back into soft white bread, by cooling it and by giving it damp air.",
    "setup": [
     {
      "art": "Two slices of white bread cut into eight squares on a chopping board, with six paper labels marked 0, 1, 1, 2, 4 and 6.",
@@ -1146,9 +1146,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Cut two slices of bread into 8 squares. Lay out the six labels. Ask for the guess and the reason, and write both down.",
+     "do": "Cut two slices of bread into 8 squares. Write six labels: 0, 1, 1, 2, 4 and 6 minutes. Ask for the guess and the reason, and write both down.",
      "say": "Five squares will be toasted for different times. Then we will try to turn them back into soft white bread. Which ones will go back? Why do you think so?",
-     "kid": "Cut the bread into squares. Which toasted squares will go back? Why?",
+     "kid": "Cut the bread into squares. Tell your grown-up what you think will happen to the toast.",
      "ask": [
       {
        "q": "Why do you think that one will, or will not, go back?",
@@ -1196,7 +1196,7 @@
      "mins": 5,
      "do": "Let the squares cool for 3 minutes and look again. Then put one of the two 1-minute squares back on the tawa for 3 more minutes, turning it each minute. Compare it with the 4-minute square.",
      "say": "The squares are cool now. Has any colour gone back? Now watch this pale square go back on the tawa. Can it catch up with the brown one?",
-     "kid": "The squares are cool. Did any colour go back? Can a pale square get darker?",
+     "kid": "Look at the cooled squares. Then watch the pale square on the tawa.",
      "adult": true,
      "parent": "Cooling changes no colours. The pale square, toasted for 3 more minutes, reaches about the same brown as the 4-minute square. So any square can still go darker.",
      "context": "In this step of The Toast Ladder you check the cooled squares, and a grown-up toasts one pale square again."
@@ -1212,9 +1212,9 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "Open the box. Your child scores the colour of each square again, presses each one, and records both. Then ask the three questions in your words to say.",
+     "do": "Open the box. Your child scores the colour of each square again, presses each one, and records both. Then ask what they thought would happen, what they saw, and why.",
      "say": "Score the colours again and press each square. Say what you thought would happen, what you saw, and why you think it happened.",
-     "kid": "Score and press each square again. Say what you thought, what you saw, and why.",
+     "kid": "Score and press each square again. Compare with yesterday.",
      "wait": "Leave the box closed overnight",
      "ask": [
       {
@@ -1276,7 +1276,7 @@
     }
    ],
    "record": "Write the five changes in a list. Beside each one write its pile, and the way back if there is one.",
-   "context": "In this activity you make five quick changes at the kitchen table, with no heat. Then you try to put each one back, and sort the changes into three piles.",
+   "context": "In this activity you make five quick changes at the kitchen table, with no heat. Then you try to put each one back, and sort the changes into three piles. You will find out which changes can be undone and which cannot.",
    "setup": [
     {
      "art": "A kitchen table with two paper squares, a tumbler of water with a spoon of salt, a plate of rice and dal, and a small katori of milk beside half a lemon.",
@@ -1295,9 +1295,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Lay out the things and the three labels. Tell your child the five changes you will make. Ask which ones they will be able to put back.",
+     "do": "Lay out the things and the three labels: back easily, back with work, and no way back. Tell your child the five changes you will make. Ask which ones they will be able to put back.",
      "say": "We will fold a paper, tear a paper, dissolve salt, mix rice with dal, and add lemon juice to milk. Which of these can you put back? Why do you think so?",
-     "kid": "Five changes are coming. Which ones can you put back? Why?",
+     "kid": "Listen to the five changes. Guess which ones you can put back.",
      "context": "This is the first step of Five Changes, Three Piles. You guess which of five changes can be put back."
     },
     {
@@ -1314,7 +1314,7 @@
      "mins": 3,
      "do": "Your child puts each changed thing beside one of the three labels. Talk about the questions below.",
      "say": "Put each one beside its label. Look at the two things under 'No way back'. Is the torn paper still paper? Is the lumpy milk still milk?",
-     "kid": "Put each one by its label. Is torn paper still paper?",
+     "kid": "Put each change beside its label.",
      "ask": [
       {
        "q": "The torn paper and the lumpy milk both have no way back. How are they different?",
@@ -1352,8 +1352,8 @@
      "what": "Model raw and cooked egg white with six threads, then try to go back."
     }
    ],
-   "record": "Draw the bowl twice: once with six neat balls, and once with the tangled clump. Label the drawings 'raw' and 'cooked'.",
-   "context": "In this activity six pieces of wool stand for six protein chains in egg white. You model what heat does to them, and then try to undo it.",
+   "record": "Take a photo of the bowl with six neat balls, and another of the tangled clump. Then say which is 'raw' and which is 'cooked'.",
+   "context": "In this activity six pieces of wool stand for six protein chains in egg white. You model what heat does to them, and then try to undo it. You will see why a cooked egg cannot turn back into a raw one.",
    "setup": [
     {
      "art": "Six small neat balls of wool in different colours lying in a steel bowl.",
@@ -1382,7 +1382,7 @@
      "mins": 3,
      "do": "Your child pulls each ball half open. Then they shake and stir all six together in the bowl for 20 seconds. Now lift one thread.",
      "say": "Your shaking hands are the heat. Heat shakes the chains open, and open chains catch on each other. Lift one thread. What comes up with it?",
-     "kid": "Loosen the balls. Shake them together. Lift one thread. What happens?",
+     "kid": "Loosen the balls. Shake them together for 20 seconds. Lift one thread.",
      "check": {
       "t": "mcq",
       "q": "In Tangled Threads, what do the six neat balls of wool stand for?",
@@ -1401,7 +1401,7 @@
      "mins": 4,
      "do": "Give your child two minutes to turn the clump back into six neat, separate balls. Then talk about the questions below.",
      "say": "You have two minutes to get six neat balls back. Was any thread cut or lost? Then why is it so hard to go back?",
-     "kid": "Try to make six neat balls again. Was any thread cut?",
+     "kid": "Try to make six neat balls again. Look: is every thread still whole?",
      "ask": [
       {
        "q": "No thread was broken. So what changed?",
@@ -1465,7 +1465,7 @@
      "mins": 3,
      "do": "Make the six slips. Put 2 dotted and 2 blank slips in the tumbler. Explain that a row is 'sorted' when both dotted slips lie together at one end. Ask for a guess.",
      "say": "We shake four slips and lay them in a row. A sorted row has both dots at one end. In 12 tries, how many rows will be sorted? Why do you think so?",
-     "kid": "Shake four slips and lay them in a row. How often will they be sorted?",
+     "kid": "Shake four slips and lay them in a row. Sorted means both dots lie together at one end.",
      "context": "This is the first step of The Slip Shuffle. You guess how often four shaken slips will come out sorted."
     },
     {
@@ -1491,7 +1491,7 @@
      "mins": 3,
      "do": "Compare the two tallies. Tell your child the number for 5 dotted and 5 blank slips: 1 sorted row in 126 tries. Talk about the questions below.",
      "say": "With four slips, about 1 row in 3 was sorted. With six slips, about 1 in 10. With ten slips it is 1 in 126. What happens to the chance of a sorted row as there are more pieces?",
-     "kid": "Compare your two tallies. What happens when there are more slips?",
+     "kid": "Put your two tallies side by side and compare them.",
      "ask": [
       {
        "q": "A drop of ink in water has more particles than anyone could count. Will shaking ever sort them into a drop again?",
@@ -1558,7 +1558,7 @@
      "what": "Measure the dried group again. Look for roots in the damp group. Say what the results show."
     }
    ],
-   "record": "A table with three rows: 10 dry chana, 10 soaked chana, and 10 chana dried again. Write the length of each row in centimetres. Draw one chana from the damp cloth on day 4.",
+   "record": "A table with three rows: 10 dry chana, 10 soaked chana, and 10 chana dried again. Write the length of each row in centimetres. Draw one chana from the damp cloth on day 4, or tell your grown-up what you see.",
    "context": "In this four-day project you soak chana seeds, then dry half of them and let the other half sprout. You find out which change a seed can undo.",
    "setup": [
     {
@@ -1589,7 +1589,7 @@
      "mins": 8,
      "do": "Day 2, in the morning. Drain the water. Your child measures a row of 10 soaked chana. Spread 10 on a dry plate under a fan. Wrap the other 10 in the damp cloth on the second plate.",
      "say": "Measure ten soaked seeds. Now ten will dry and ten will stay damp. Will the dry group shrink back to their old size? Will they still be alive?",
-     "kid": "Measure ten soaked chana. Dry ten. Keep ten damp. What will happen?",
+     "kid": "Measure ten soaked chana. Dry ten on a plate. Keep ten damp in the cloth.",
      "wait": "Do this the morning after soaking",
      "ask": [
       {
@@ -1616,9 +1616,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Day 4. Your child measures the row of 10 dried chana and compares it with the first two rows. Then they open the cloth and look for roots. Ask the three questions in your words to say.",
+     "do": "Day 4. Your child measures the row of 10 dried chana and compares it with the first two rows. Then they open the cloth and look for roots. Ask what they thought would happen, what they saw, and why.",
      "say": "Measure the dried row. Open the cloth and look. Say what you thought would happen, what you saw, and why you think it happened.",
-     "kid": "Measure the dried row. Look for roots. Say what you thought, saw, and why.",
+     "kid": "Measure the dried row. Open the cloth and look for roots.",
      "wait": "Do this on the fourth day",
      "ask": [
       {
@@ -1667,7 +1667,7 @@
     "Seal the flap with a strip of the thinnest paper you have, such as tissue. Thin paper tears before the glue lets go.",
     "Lay a thread under the flap in a secret shape, and draw that shape in your notebook. Anyone who opens the letter will move the thread."
    ],
-   "your_turn": "Now invent your own seal. It must be easy for the right reader to open and impossible to close again without a sign. Draw your design. Test it three times with a different tester each time, and write how many times you caught the opening.",
+   "your_turn": "Now invent your own seal. It must be easy for the right reader to open and impossible to close again without a sign. Draw your design, or build it and take a photo. Test it three times with a different tester each time, and write how many times you caught the opening.",
    "context": "In this challenge you design a seal for a paper letter. The seal must use a change with no way back, so that it shows whether the letter was opened.",
    "setup": [
     {
@@ -1689,7 +1689,7 @@
      "mins": 4,
      "do": "Read the problem together. Look at a real seal at home, such as the ring on a water bottle cap. Ask how it shows that the bottle was opened.",
      "say": "Look at this cap. Once the ring snaps, can anyone join it again? Which changes from this unit have no way back? Which could a seal use?",
-     "kid": "Look at a bottle cap ring. Which changes have no way back?",
+     "kid": "Look closely at a bottle cap ring.",
      "ask": [
       {
        "q": "Which changes with no way back could a paper seal use?",
@@ -1706,8 +1706,8 @@
      "id": "s2",
      "mins": 8,
      "do": "Your child folds a letter and builds a seal. Give the glue or paste 3 minutes to set.",
-     "say": "Build your seal. Remember that the right reader must open it in ten seconds. Which part of your seal can never be put back?",
-     "kid": "Build your seal. Which part of it has no way back?",
+     "say": "Build your seal. The right reader must be able to open it in ten seconds. Which part of your seal can never be put back?",
+     "kid": "Build a seal that cannot be put back once it is opened.",
      "parent": "Maida paste and cornflour paste both glue paper. A glue stick works too. Do not suggest improvements yet.",
      "context": "In this step of The Tell-Tale Seal you fold a letter and build your seal."
     },
@@ -1716,7 +1716,7 @@
      "mins": 5,
      "do": "Your child leaves the room. The tester has 3 minutes. Toss a coin: for heads, open the letter and close it as neatly as you can. For tails, leave it shut. Then your child comes back and decides.",
      "say": "I have had my three minutes. Look closely. Did I open your letter, or did I leave it shut? What sign tells you?",
-     "kid": "Look closely at your letter. Was it opened? What sign shows it?",
+     "kid": "Look closely at your letter. Decide: opened, or left shut?",
      "context": "In this step of The Tell-Tale Seal a tester may open the letter in secret. You look for a sign."
     },
     {
@@ -1724,7 +1724,7 @@
      "mins": 3,
      "do": "Talk about what gave the opening away, or what let it stay hidden. Your child changes one thing and says why it is better.",
      "say": "What gave me away? If I fooled you, how did I do it? Change one thing in your seal and tell me why it helps.",
-     "kid": "What gave the tester away? Change one thing. Say why it helps.",
+     "kid": "Change one thing in your seal. Say why it helps.",
      "ask": [
       {
        "q": "Why would a paper clip make a bad seal?",

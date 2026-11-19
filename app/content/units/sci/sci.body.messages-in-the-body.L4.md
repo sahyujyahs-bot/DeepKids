@@ -246,7 +246,7 @@ That evening the border was still there. One hand's length of it shook like a be
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take three tokens.
 - **s2 (7 min)**  
   *Parent does:* Play the first ten cards. After each card, read the back aloud. Ask the question below after card five.  
-  *Parent says:* The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Who scored?  
+  *Parent says:* The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Who chose right? Each of them earns a point.  
   *Child mode:* Listen to the card. Pick a token. Turn it over. Check the back.
   - Ask: How did you decide between nerve and hormone? (good: I asked how fast it happens.; A quick answer in one place is a nerve.; A slow change in the whole body is a hormone.)
   - Note: A useful question for a stuck child: does this happen in a second, or does it take minutes? One child can play alone or with you.
@@ -257,7 +257,7 @@ That evening the border was still there. One hand's length of it shook like a be
 - **s4 (3 min)**  
   *Parent does:* Count the points. Then sort all 20 cards into three piles: Nerve, Hormone and Both. Look at the piles together.  
   *Parent says:* Let us sort the cards into three piles. What is the same about all the cards in the nerve pile? What is the same in the hormone pile?  
-  *Child mode:* Sort the cards into three piles. What is the same in each pile?
+  *Child mode:* Sort all 20 cards into three piles: Nerve, Hormone and Both.
   - Check: Which job suits a hormone better than a nerve? → **Telling bones to grow for years**
 ### g2 · Who Has the Lock? The receptor game (15 min)
 - **rules:** Shuffle the 12 cell cards and deal them all out, fronts up. Nobody looks at the backs. Put the 4 hormone cards in a pile, fronts up.; One player reads the front of the top hormone card aloud. That hormone is now in the blood, so it reaches every card on the table.; Every player pushes forward each of their cell cards that they think has a lock for that hormone.; Turn the pushed cards over. A card with that lock scores 1 point. A card without it loses 1 point. A card that was not pushed scores nothing.; Read the back of the hormone card aloud. It says what each target cell does. Then turn every cell card front up again.; Play all 4 hormone cards. Then each player passes their cell cards to the player on their left, and you play the 4 hormones again.; The player with the most points after both rounds wins. The cards show the main locks only. Real cells have many more.; Playing alone? Use all 12 cell cards. Each round has 13 right cards in all. Try to reach 13 in the second round.
@@ -274,12 +274,12 @@ That evening the border was still there. One hand's length of it shook like a be
   - Note: The first round is mostly guessing, and that is fine. The backs teach the answers. The second round shows what was learned.
 - **s3 (4 min)**  
   *Parent does:* Swap cell cards with another player. Play the 4 hormone cards again and add up both rounds.  
-  *Parent says:* Pass your cell cards to the left. Now you have cells you did not hold before. What do you remember about them?  
+  *Parent says:* Pass your cell cards to the left. You now hold cells you have not seen. Think about each one before you push.  
   *Child mode:* Swap your cell cards. Play the four hormones again.
 - **s4 (3 min)**  
   *Parent does:* Lay all 12 cell cards with the backs up. Count how many cards have a lock for adrenaline and how many for ADH. Talk about the question below.  
-  *Parent says:* Count the cells with a lock for adrenaline. Now count the cells with a lock for ADH. Why might one hormone have so many targets?  
-  *Child mode:* Count the adrenaline locks. Count the ADH locks. Why are they so different?
+  *Parent says:* Count the cells with a lock for adrenaline. Now count the cells with a lock for ADH. One number is much bigger.  
+  *Child mode:* Count the adrenaline locks and the ADH locks. Which is more?
   - Ask: Why does adrenaline have locks on so many kinds of cell? (good: Running from danger needs the heart, the lungs, the muscles and the liver all at once.; The whole body has to get ready.; ADH has one job, in the kidneys.)
   - Check: A hormone reaches every cell in the blood's path. Why do only some cells answer? → **Only some cells have its receptor**
 
@@ -294,11 +294,11 @@ That evening the border was still there. One hand's length of it shook like a be
 - **s1 (4 min)**  
   *Parent does:* Show your child the tumbler. Explain the two days. Ask for the guess and the reason, and write both down.  
   *Parent says:* On one day you will take 4 sips of water. On the next day you will drink 2 tumblers. How many minutes after the 2 tumblers will you need the toilet? Why do you think so?  
-  *Child mode:* You will drink 2 tumblers of water. When will you need the toilet? Why?
+  *Child mode:* Guess first. Your grown-up will write down your guess and your reason.
   - Ask: What has to happen inside you between the drink and the toilet? (good: The water goes to my stomach.; It gets into my blood.; My kidneys take it out.; It fills my bladder.)
   - Note: Do not correct the guess. Many children guess 5 minutes, because they picture the water running straight through. Choose a time when your child last ate or drank a lot more than an hour ago.
 - **s2 (3 min)**  
-  *Parent does:* Day 1. Your child empties their bladder in the toilet. They take 4 sips of water. Write down the time. Draw the results table.  
+  *Parent does:* Day 1. Your child empties their bladder in the toilet. They take 4 sips of water. Write down the time. Make the results table (see the record).  
   *Parent says:* First go to the toilet, so that we start empty. Now take 4 sips of water and no more. I am writing down the time.  
   *Child mode:* Go to the toilet first. Then take 4 sips of water. Write the time.
 - **s3 (5 min)**  
@@ -322,8 +322,8 @@ That evening the border was still there. One hand's length of it shook like a be
   - Wait: Check every 15 minutes for 90 minutes
 - **s6 (7 min)**  
   *Parent does:* Put the two rows of the table side by side. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Look at both days. Say what you thought would happen, what you saw, and why it happened. Your tongue felt the water at once. Why did your kidneys answer so much later?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Parent says:* Look at both days. Say what you thought would happen, what you saw, and why it happened. Compare the two rows.  
+  *Child mode:* Compare the two rows of your table.
   - Ask: Your tongue felt the water in less than a second. Why did the kidneys take so long? (good: The water had to get into the blood first.; The message to the kidneys is slow.; The message goes by blood, not by a nerve.)
   - Ask: Why was the pee paler on the day with 2 tumblers? (good: There was more water in it.; The kidneys let the extra water out.)
   - Note: The reason has several steps. The water passes from the gut into the blood, which takes roughly 10 to 20 minutes. Sensors in the brain notice that the blood is a little more watery. A gland under the brain then releases less of the hormone ADH. ADH tells the kidneys to save water. The ADH already in the blood fades slowly. About half of it is gone every 15 minutes. Only then do the kidneys let the extra water out. No nerve carries this order to the kidneys. The last step is a nerve message: the full bladder tells the brain.
@@ -338,11 +338,11 @@ That evening the border was still there. One hand's length of it shook like a be
 - **s1 (3 min)**  
   *Parent does:* Keep the lemon out of sight. Explain the four rounds. Ask for the guess and the reason, and write both down.  
   *Parent says:* We will count how often you swallow in 2 minutes. You will think about a lemon, smell one and taste one. Which will make your mouth water most? Why do you think so?  
-  *Child mode:* Which will make your mouth water most: thinking, smelling or tasting? Why?
+  *Child mode:* Guess first, and say why.
   - Ask: Do you think only thinking about a lemon will make your mouth water? Why? (good: Yes, my mouth waters when I think of sour things.; No, nothing is touching my tongue.; A little, but less than the real juice.)
   - Note: Do not correct the guess. Most people are sure that a thought alone makes the mouth water a lot. The test checks that belief.
 - **s2 (3 min)**  
-  *Parent does:* Practise. Your child sits still with lips closed and raises a finger at each swallow. Count for 1 minute. Then draw the results table with four rows.  
+  *Parent does:* Practise. Your child sits still with lips closed and raises a finger at each swallow. Count for 1 minute. Then make the results table with four rows.  
   *Parent says:* Keep your lips closed. Swallow only when your mouth feels full, and raise a finger each time. I will count. This minute is only for practice.  
   *Child mode:* Keep your lips closed. Raise a finger each time you swallow.
   - Note: You can also watch the bump at the front of the throat. It rises with each swallow. One or two swallows a minute is usual at rest.
@@ -368,7 +368,7 @@ That evening the border was still there. One hand's length of it shook like a be
 - **s7 (6 min)**  
   *Parent does:* Look at the four numbers together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
   *Parent says:* Look at your four counts. Say what you thought would happen, what you saw, and why it happened. Did you decide to make saliva in round 4?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Look at your four counts. Which is highest?
   - Ask: Which rounds were clearly above the water round? (good: The lemon juice round.; Only the taste, the others were about the same.; Smelling was a little more.)
   - Ask: How do you think the message got from your tongue to the glands that make saliva? (good: By nerves, because it was so fast.; It went to my brain and back.; It was a reflex.)
   - Note: Most people swallow about twice as often after the lemon juice as after the water. Thinking and smelling often add little or nothing. Write down what you really found. The reason: sensors on the tongue detect the acid in the juice. A nerve signal goes to the brain stem, the lowest part of the brain. A signal comes straight back along other nerves to the glands that make saliva. This is a reflex, and it starts within a second or two. The mouth can also learn to water at a smell or a thought. In careful tests that effect is small, and some people show none.
@@ -378,9 +378,9 @@ That evening the border was still there. One hand's length of it shook like a be
 ### a1 · Did I Decide That? Two things your body does before you choose (10 min)
 - **record:** A table with three rows: clap, sole of the foot, and 'touch your nose'. For each, write how many times out of 5 the body answered, and whether you chose to do it.
 - **s1 (2 min)**  
-  *Parent does:* Draw the table with three rows. Explain the three tests. Ask which actions your child thinks they will choose.  
+  *Parent does:* Make the table with three rows. Explain the three tests. Ask which actions your child thinks they will choose.  
   *Parent says:* I will clap near your face, stroke your foot and ask you to touch your nose. Which of your answers will you choose? Which will just happen?  
-  *Child mode:* Draw three rows: clap, foot, nose. Which answers will you choose?
+  *Child mode:* Guess which tests your body will answer without asking you.
 - **s2 (3 min)**  
   *Parent does:* Sit facing your child. At a surprise moment, clap your hands once, about 30 centimetres in front of their face. Watch their eyes. Do this 5 times, with gaps of different lengths. Count the blinks.  
   *Parent says:* Look at my nose and keep your eyes open. I will clap when you do not expect it. Did you choose to blink just then?  
@@ -402,7 +402,7 @@ That evening the border was still there. One hand's length of it shook like a be
 - **s1 (2 min)**  
   *Parent does:* Explain the chain. Ask your child to guess how many seconds 20 squeezes will take, and why. Write the guess down.  
   *Parent says:* I will squeeze your hand. When you feel it, squeeze back. Then I squeeze again. How many seconds will 20 squeezes take? Why do you think so?  
-  *Child mode:* A squeeze goes back and forth 20 times. How many seconds will it take?
+  *Child mode:* Guess how many seconds 20 squeezes will take, and say why.
 - **s2 (3 min)**  
   *Parent does:* Sit facing each other and hold one hand. Both close your eyes. Practise 10 squeezes back and forth. Each squeeze is short and firm.  
   *Parent says:* Eyes closed. Squeeze only when you feel my squeeze, and never before it. Short and firm. Let us practise ten.  
@@ -411,12 +411,12 @@ That evening the border was still there. One hand's length of it shook like a be
 - **s3 (4 min)**  
   *Parent does:* Start the stopwatch with your free hand as you give the first squeeze. Count your own squeezes silently. Stop the watch when you feel your child's tenth squeeze. That makes 20 squeezes. Do this three times and write each time.  
   *Parent says:* Now we time it. Twenty squeezes, ten from each of us. Eyes closed. I start now.  
-  *Child mode:* Eyes closed. Twenty squeezes, ten from each of you. A helper times it.
+  *Child mode:* Eyes closed. Squeeze back each time you feel a squeeze.
   - Note: Most pairs take 4 to 6 seconds. A time under 3 seconds means you both fell into a beat and squeezed before you felt the squeeze. Try again more slowly.
 - **s4 (3 min)**  
   *Parent does:* Circle the middle time of the three. Divide it by 20 to find the time for one pass. Talk about the questions below.  
-  *Parent says:* Take the middle time and divide it by 20. That is the time for one pass. Where did the message travel inside you during that time?  
-  *Child mode:* Divide the middle time by 20. Where did the message go inside you?
+  *Parent says:* Take the middle time and divide it by 20. That is the time for one pass, from one person to the other.  
+  *Child mode:* Work out how long one squeeze takes to pass.
   - Ask: Where did the message travel between the squeeze you felt and the squeeze you gave? (good: From my hand up my arm to my spinal cord.; Up to my brain.; Back down the same arm to my hand muscles.)
   - Note: One pass usually takes about a quarter of a second. The message travels about 2 metres along nerves, which takes only a few hundredths of a second. Most of the time is spent in the brain and in getting the muscles to move.
 ### a3 · Wool Paths: measure a reflex path on your own body (15 min)
@@ -424,7 +424,7 @@ That evening the border was still there. One hand's length of it shook like a be
 - **s1 (3 min)**  
   *Parent does:* Explain the two paths. Ask your child to guess how much longer the path through the brain is, and whether that extra length matters.  
   *Parent says:* A fingertip touches a hot pot. One message turns round in the spinal cord. Another goes up to the brain first. How much longer is the second path? Why do you think so?  
-  *Child mode:* One path turns in the spinal cord. One goes to the brain. How much longer?
+  *Child mode:* Guess which path is longer, and by how much.
 - **s2 (4 min)**  
   *Parent does:* Your child holds one arm out sideways. Hold the wool at the tip of the middle finger. Lay it along the arm to the backbone between the shoulder blades. Bring it back along the shoulder to the front of the upper arm. Cut it there.  
   *Parent says:* This wool is the reflex path. The message goes in from the fingertip to the spinal cord. It comes out to the muscle that bends your elbow.  
@@ -442,24 +442,24 @@ That evening the border was still there. One hand's length of it shook like a be
   - Note: For a child of nine the reflex path is about 1 metre and the brain path about 1.5 metres. The difference in length is small. The real saving is in synapses and in deciding.
   - Check: What is the main reason that a reflex is quicker than a chosen action? → **Fewer synapses and no deciding**
 ### a4 · A Tug and a Drop: model the two kinds of message (12 min)
-- **record:** Draw the tumbler without a stir at 10 seconds, 1 minute and 3 minutes. Write how many seconds the stirred tumbler took to become one even colour.
+- **record:** Photograph or draw the tumbler without a stir at 10 seconds, 1 minute and 3 minutes. Write how many seconds the stirred tumbler took to become one even colour.
 - **s1 (2 min)**  
   *Parent does:* Fill both tumblers with water and leave them still on a table. Cut the string. Explain that you will send a message in two ways.  
   *Parent says:* We will send a message along a string. Then we will send one through water. Which will arrive first? Which will reach more places?  
-  *Child mode:* Fill two tumblers with water. Leave them still. Cut the string.
+  *Child mode:* Guess which message arrives first, and which reaches more places.
 - **s2 (3 min)**  
   *Parent does:* You and your child hold the ends of the string and pull it tight. Your child closes their eyes. Tug once at a surprise moment. Your child says 'now' when they feel it. Swap over and repeat.  
   *Parent says:* Eyes closed. Say 'now' when you feel my tug. Did the tug reach anyone else in the room?  
   *Child mode:* Hold the string tight. Close your eyes. Say 'now' when you feel a tug.
   - Ask: How is the tug like a nerve message? (good: It arrives at once.; It only reaches the person at the end of the string.; It stops when the tugging stops.)
 - **s3 (4 min)**  
-  *Parent does:* Put one drop of colour into the first tumbler. Do not touch it. Your child draws it after 10 seconds, 1 minute and 3 minutes.  
-  *Parent says:* This drop is a hormone leaving a gland. The water is the blood. Watch where the colour goes. Draw it three times.  
-  *Child mode:* Put one drop of colour in still water. Do not stir. Draw what you see.
+  *Parent does:* Put one drop of colour into the first tumbler. Do not touch it. Take a photo of it after 10 seconds, 1 minute and 3 minutes. Or your child can draw it.  
+  *Parent says:* This drop is a hormone leaving a gland. The water is the blood. Watch where the colour goes. We will take three photos, or you can draw it.  
+  *Child mode:* Put one drop of colour in still water. Do not stir. Watch where the colour goes.
   - Note: After 3 minutes the colour is still in streaks and patches. Left alone, it would take hours to become even.
 - **s4 (3 min)**  
   *Parent does:* Put one drop into the second tumbler and stir once with the spoon. Count the seconds until the colour is even. Then talk about the questions below.  
-  *Parent says:* Now one drop and one stir. Count the seconds until the colour is even. In your body, what does the job that the spoon did?  
+  *Parent says:* Now one drop and one stir. Count the seconds until the colour is even.  
   *Child mode:* One drop, one stir. Count the seconds until the colour is even.
   - Ask: In your body, what does the job of the spoon? (good: The heart.; The heart pumps the blood round, so the hormone is mixed in.)
   - Note: The model leaves one thing out. In the body, only cells with the right receptor answer the hormone. In the tumbler, the colour reaches everything alike.
@@ -470,7 +470,7 @@ That evening the border was still there. One hand's length of it shook like a be
 - **record:** A chart with six times across the top and three days down the side. In each box write two numbers from 0 to 3: one for hunger and one for sleepiness.
 - **schedule:** day 1: Draw the chart. Rate your hunger and your sleepiness at six set times. (10 min); day 2: Rate hunger and sleepiness at the same six times. (8 min); day 3: Rate at the same six times, draw the lines and look for the pattern. (12 min)
 - **s1 (10 min)**  
-  *Parent does:* Choose six times that fit your day: on waking, mid-morning, just before lunch, mid-afternoon, just before dinner and at bedtime. Draw the chart. Your child rates hunger and sleepiness at each time today.  
+  *Parent does:* Choose six times that fit your day: on waking, mid-morning, just before lunch, mid-afternoon, just before dinner and at bedtime. Make the chart (see the record). Your child rates hunger and sleepiness at each time today.  
   *Parent says:* At six times each day you will rate two things from 0 to 3. One is how hungry you are, and the other is how sleepy you are. Do you think the numbers will repeat from day to day? Why?  
   *Child mode:* Six times a day, rate your hunger from 0 to 3. Rate your sleepiness too.
   - Ask: What do you think makes you hungry at lunch time? (good: My stomach is empty.; It is the time I usually eat.; I smell the food.)
@@ -481,9 +481,9 @@ That evening the border was still there. One hand's length of it shook like a be
   *Child mode:* Rate hunger and sleepiness at the same six times. Do not peek at the old numbers.
   - Wait: Do this the day after you draw the chart
 - **s3 (12 min)**  
-  *Parent does:* After the last rating, your child joins each day's hunger numbers with a red line. They join the sleepiness numbers with a blue line. Look at the three days together. Then read the note below.  
-  *Parent says:* Draw a red line for hunger and a blue line for sleepiness. At which times is each line highest? Is it the same on all three days?  
-  *Child mode:* Draw a red line for hunger and a blue line for sleepiness. What repeats?
+  *Parent does:* After the last rating, your child circles the highest hunger number of each day in red. They circle the highest sleepiness number in blue. Look at the three days together. Then read the note below.  
+  *Parent says:* Look at the red and blue circles. At which times are they? Is it the same on all three days?  
+  *Child mode:* Circle the highest hunger number in red and the highest sleepiness number in blue. What repeats?
   - Ask: Did hunger rise before your usual meal times, even before you saw any food? (good: Yes, I was hungry just before lunch every day.; Yes, even when lunch was late.; Mine was not so regular.)
   - Note: Most children find that hunger peaks just before their usual meals. Sleepiness rises at about the same time each night. Two hormones are part of the reason. The stomach wall releases a hormone called ghrelin, which the brain reads as hunger. In a study in 2001, ghrelin in people's blood rose shortly before each meal. In the dark of evening a small gland in the brain releases melatonin. It tells the body that night has come. If your child's chart is irregular, that is a real result too. Late nights, snacks and screens all shift these rhythms.
   - Wait: Do this on the third day, after the bedtime rating
@@ -491,15 +491,15 @@ That evening the border was still there. One hand's length of it shook like a be
 ## Challenges
 ### c1 · Build a Reflex: the short path must finish first (20 min)
 - **problem:** A hand must leave a hot pot before the brain has finished thinking. Build a model with falling pieces. One push at the 'fingertip' must start two paths. The short path ends at the 'muscle' plate. The long path ends at the 'brain' plate. The last piece must land on the muscle plate first.
-- **your turn:** Now model a reflex of your own choice, such as a blink or a sneeze. Draw where its message starts, where it turns round and where it ends. Build it, test it 3 times and write what happened.
+- **your turn:** Now model a reflex of your own choice, such as a blink or a sneeze. Point to where its message starts, where it turns round and where it ends. Build it, test it 3 times and write what happened.
 - **constraints:** Only one push, on the first piece.; Both paths start from that same first piece.; The brain path has at least twice as many pieces as the muscle path.; After the push, nobody touches anything.; The muscle plate must sound first on 3 tries in a row.
 - **general:** Stand the pieces in one line. Where the paths split, place two pieces side by side so that one falling piece hits both.; Make the muscle path short and straight. Let the brain path curve away in a long loop.; Put a steel plate where the last piece of each path will fall, so that you hear it land.
 - **creative:** Leave a gap in one path and bridge it with a ruler balanced on an eraser. The gap is a synapse, and the ruler is the chemical that crosses it.; Make a second path that comes back from the brain plate towards the muscle. It is the brain's own order, which arrives later.; Stand a book in the muscle path as a gate. It is the brain stopping the reflex, as when you hold on to a hot cup.
 - **s1 (4 min)**  
-  *Parent does:* Read the problem together. Collect the pieces. Ask your child to draw the two paths on paper and label fingertip, spinal cord, muscle and brain.  
-  *Parent says:* One push starts two paths. Which path stands for the reflex? Which stands for the message to the brain? Draw them before you build.  
-  *Child mode:* Draw two paths from one start. Label the muscle end and the brain end.
-  - Ask: Where on your drawing is the spinal cord? (good: Where the two paths split.; At the place where the message turns back towards the muscle.)
+  *Parent does:* Read the problem together. Collect the pieces. Ask your child to show on their own arm and back where the fingertip, spinal cord, muscle and brain are.  
+  *Parent says:* One push starts two paths. Which path stands for the reflex? Which stands for the message to the brain?  
+  *Child mode:* Show on your arm and back where a reflex message goes.
+  - Ask: Where on your body is the spinal cord? (good: Where the two paths split.; At the place where the message turns back towards the muscle.)
   - Note: Any flat things of the same size that stand on end will do. Test three pieces first to find a spacing that works, usually about half the height of a piece.
 - **s2 (7 min)**  
   *Parent does:* Your child builds both paths and puts a steel plate at the end of each. Help only to steady the pieces.  
@@ -512,7 +512,7 @@ That evening the border was still there. One hand's length of it shook like a be
 - **s4 (4 min)**  
   *Parent does:* Add one idea from the creative list, or your child's own. Test again. Then talk about the question below.  
   *Parent says:* Add one new part and test again. Now compare the model with a real nerve. What is the same? What is different?  
-  *Child mode:* Add one new part. Test again. How is this like a real nerve?
+  *Child mode:* Add one new part. Test again.
   - Ask: After a signal, a real nerve fibre is ready again in a few thousandths of a second. How is your model different? (good: I have to stand every piece up again by hand.; A nerve resets itself.; The nerve uses energy from food to reset.)
   - Note: The model shows two true things. Each piece stays in place while the fall travels, as ions stay near their spot while the signal travels. A path with fewer pieces finishes sooner, as a path with fewer synapses does.
 

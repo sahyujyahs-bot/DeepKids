@@ -511,7 +511,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Play round 2 with music or a mixer running. Play all six cards again. Compare the score with round 1.",
+     "do": "Play round 2 with music or a mixer running. Play all six cards again. Count how many your child got right in each round, and compare.",
      "say": "Now the pond is noisy. Many animals are calling at once. Can you still pick out my code?",
      "kid": "Now there is noise. Listen hard. Knock the code back.",
      "parent": "Most listeners score lower in noise. Ask what would help. Louder knocks, a longer call and more repeats are all things real frogs do.",
@@ -699,8 +699,8 @@
      "qty": 6
     }
    ],
-   "record": "Draw a table with one row for each chooser. Write the order of the trains, the train chosen and the place chosen. At the end, count the picks for each train and for each place.",
-   "context": "In this experiment you make three paper trains that differ only in the number of spots. Then you ask at least six people to choose one, and you count the choices. Marion Petrie tested peahens in a similar way.",
+   "record": "Make a table with one row for each chooser. Write the order of the trains, the train chosen and the place chosen. At the end, count the picks for each train and for each place.",
+   "context": "In this experiment you find out whether the number of spots changes which paper train people pick. You make three paper trains that differ only in the number of spots. Then you ask at least six people to choose one, and you count the choices. Marion Petrie tested peahens in a similar way.",
    "setup": [
     {
      "art": "Three sheets of white paper side by side on a table, the first with 4 red dots, the second with 8 and the third with 16, all evenly spread.",
@@ -784,8 +784,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Tell your child the plan. Ask for the guess and the reason, and write both down.",
-     "say": "We will make three paper trains with 4, 8 and 16 spots. Then we will ask people to choose one. Which train will most people pick? Why do you think so?",
-     "kid": "Three paper trains have 4, 8 and 16 spots. Which will most people pick? Why?",
+     "say": "We will make three paper trains with 4, 8 and 16 spots. Then we will ask people to choose one. Which train will most people pick?",
+     "kid": "Guess which train most people will pick. Say why.",
      "ask": [
       {
        "q": "Why do you think choosers will pick that train?",
@@ -812,7 +812,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Lay the trains in a row. Bring in one chooser. Say the question below, and count slowly to five. Record the order, the train chosen and the place. Change the order. Repeat with at least six choosers.",
-     "say": "Please look at these three paper trains for a count of five. Which one would you pick as the finest? Just point to it.",
+     "say": "Please look at these three paper trains for a count of five. Which one looks best to you? Just point to it.",
      "kid": "Bring in one chooser. Ask which train they pick. Write it down. Change the order.",
      "check": {
       "t": "mcq",
@@ -913,8 +913,8 @@
      "qty": 1
     }
    ],
-   "record": "Draw a table with three rows: no tail, 30 centimetre tail and 60 centimetre tail. Write the five distances in each row. Then write the middle distance for each row.",
-   "context": "In this experiment you throw one paper bird with no tail, with a short tail and with a long tail. You measure how far each one flies. Male long-tailed widowbirds fly with tails half a metre long.",
+   "record": "Make a table with three rows: no tail, 30 centimetre tail and 60 centimetre tail. Write the five distances in each row. Then write the middle distance for each row.",
+   "context": "In this experiment you find out whether a longer tail makes a bird fly farther. You throw one paper bird with no tail, with a short tail and with a long tail. You measure how far each one flies. Male long-tailed widowbirds fly with tails half a metre long.",
    "setup": [
     {
      "art": "A folded paper dart on a table beside three newspaper strips, a ruler and a roll of sticky tape.",
@@ -1094,11 +1094,11 @@
     }
    ],
    "record": "Two tally rows. Row 1: each time a pigeon bows and turns in front of another pigeon. Row 2: each time the other pigeon stays near instead of leaving.",
-   "context": "In this activity you watch city pigeons for seven minutes. You count how often one pigeon bows to another, and how often the other pigeon stays.",
+   "context": "In this activity you find out whether a pigeon that bows is usually chosen. You watch city pigeons for seven minutes. You count how often one pigeon bows to another, and how often the other pigeon stays.",
    "setup": [
     {
      "art": "A notebook page with two rows labelled 'Bows' and 'The other pigeon stays', each with space for tally strokes.",
-     "caption": "1. Draw two rows: 'Bows' and 'The other pigeon stays'."
+     "caption": "1. Write two rows: 'Bows' and 'The other pigeon stays'."
     },
     {
      "art": "A child at a window looking at a ledge across the lane, where one pigeon with a puffed neck bows towards another.",
@@ -1113,9 +1113,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Draw the two rows. Find a place from which you can see pigeons on a ledge, a roof or the ground. Ask for a guess.",
-     "say": "A male pigeon courts a female by puffing up his neck, bowing and turning in circles. Out of ten bows, how many times will she stay near him? Why do you think so?",
-     "kid": "Draw two rows. Out of ten bows, how often will the other pigeon stay?",
+     "do": "Write two rows on the notebook page, 'Bows' and 'The other pigeon stays'. Find a place from which you can see pigeons on a ledge, a roof or the ground. Ask for a guess.",
+     "say": "A male pigeon tries to win a female by puffing up his neck, bowing and turning in circles. Out of ten bows, how many times will she stay near him? Why do you think so?",
+     "kid": "Make two rows. Guess how often the other pigeon will stay.",
      "parent": "Pigeons court in every month of the year in Indian cities. Morning and late afternoon are the best times. If no pigeons come, try again tomorrow morning.",
      "context": "This is the first step of Pigeon Watch. You get ready and guess how often a bowing pigeon is accepted."
     },
@@ -1136,7 +1136,7 @@
      "kid": "Compare your two rows. Who was doing the choosing?",
      "ask": [
       {
-       "q": "Most bows were refused. Why might a female pigeon refuse so often?",
+       "q": "If most bows were refused, why might a female pigeon refuse so often?",
        "good": [
         "She may already have a partner.",
         "She is comparing several males.",
@@ -1175,7 +1175,7 @@
     }
    ],
    "record": "Write the number of moves that were out of step in round 1 and in round 2.",
-   "context": "In this activity two people dance six moves together, as a pair of sarus cranes do. You count how many moves are out of step before practice and after practice.",
+   "context": "In this activity you find out whether practice helps two people move as one. Two people dance six moves together, as a pair of sarus cranes do. You count how many moves are out of step before practice and after practice.",
    "setup": [
     {
      "art": "A child and a grown-up facing each other, one step apart, both bowing at the same moment.",
@@ -1221,7 +1221,7 @@
      "mins": 3,
      "do": "Compare the two counts. Ask the question below.",
      "say": "Look at the two counts. What did you watch on me, to know when to move?",
-     "kid": "Compare round 1 and round 2. What did you watch on your partner?",
+     "kid": "Compare round 1 and round 2. Did practice help?",
      "ask": [
       {
        "q": "Sarus crane pairs dance together for years. What might the dance do for them?",
@@ -1263,7 +1263,7 @@
      "what": "Collect small blue things for three minutes and small red things for three minutes. Count them and arrange a display."
     }
    ],
-   "record": "Write the number of blue things and the number of red things you found in three minutes each. Draw your display.",
+   "record": "Write the number of blue things and the number of red things you found in three minutes each. Draw your display, or tell your grown-up what is in it.",
    "context": "In this activity you collect small things of one colour from around your home. A male satin bowerbird collects blue things for his bower in the same way. You find out which colour is harder to find.",
    "setup": [
     {
@@ -1445,7 +1445,7 @@
     "Add a movement, such as a shake, so that the open display is noticed sooner.",
     "Use a colour that stands out most against your own wall, and test two colours to find out."
    ],
-   "your_turn": "Now design your own. Draw it first. Test it six times: three open and three shut, in a mixed-up order. Write how many times the watcher saw it when it was open, and how many times when it was shut.",
+   "your_turn": "Now design your own. Plan it first, by drawing it or telling your grown-up. Test it six times: three open and three shut, in a mixed-up order. Write how many times the watcher saw it when it was open, and how many times when it was shut.",
    "context": "In this challenge you build a paper display that can be shown and hidden quickly. A fan-throated lizard and a peacock solve the same problem by folding their ornaments away.",
    "setup": [
     {
@@ -1467,7 +1467,7 @@
      "mins": 4,
      "do": "Read the problem together. Hang or spread the bedsheet. Ask what makes a thing easy to see and what makes it hard to see.",
      "say": "Your display must be easy to see when open and hard to find when shut. What makes a thing easy to see? What makes it hard to see?",
-     "kid": "What makes a thing easy to see? What makes it hard to see?",
+     "kid": "Name one easy-to-see thing. Name one hard-to-see thing.",
      "ask": [
       {
        "q": "What makes a thing easy to see from far away?",
@@ -1483,9 +1483,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child draws a design and builds it. Check that it opens and shuts with one hand.",
-     "say": "Draw your idea first. Then build it. Show me that it opens in two seconds and shuts in two seconds.",
-     "kid": "Draw your idea. Build it. Open it and shut it with one hand.",
+     "do": "Your child plans a design, by drawing it or by telling you, and then builds it. Check that it opens and shuts with one hand.",
+     "say": "Plan your idea first, by drawing it or telling me. Then build it. Show me that it opens in two seconds and shuts in two seconds.",
+     "kid": "Plan it. Build it. Open it and shut it with one hand.",
      "context": "In this step of Open and Shut you design and build your paper display."
     },
     {
@@ -1500,7 +1500,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Look at the six results. Change one thing and test twice more. Then ask the question below.",
-     "say": "When was your display seen, and when was it missed? Change one thing to make it better. What does a peacock do when he is not displaying?",
+     "say": "When was your display seen, and when was it missed? Change one thing to make it better.",
      "kid": "What worked? Change one thing. Test it again.",
      "ask": [
       {

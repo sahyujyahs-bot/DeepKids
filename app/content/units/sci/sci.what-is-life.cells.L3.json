@@ -602,7 +602,7 @@
      "mins": 3,
      "do": "Find the card 'A wooden spoon'. Play it together as a practice round.",
      "say": "Let's practise. A wooden spoon. Is it alive? Was it ever made by living cells?",
-     "kid": "Practice card: a wooden spoon. Which mat does it go on?",
+     "kid": "Practice card: a wooden spoon.",
      "ask": [
       {
        "q": "Where did the wood come from?",
@@ -648,7 +648,7 @@
      "mins": 3,
      "do": "When a TEST IT card comes up, everyone does the test.",
      "say": "Do the test on the card. Look closely. What do you see? If you cannot see cells, why not?",
-     "kid": "Do the test on the TEST IT card. Look closely. What do you see?",
+     "kid": "Do the test on the TEST IT card.",
      "ask": [
       {
        "q": "Why can't we see cells with a magnifier?",
@@ -676,7 +676,7 @@
      "mins": 2,
      "do": "Count your points. Then look at each mat together.",
      "say": "Look at the 'once alive' mat. What do all these cards have in common?",
-     "kid": "Count your points. Look at the 'once alive' mat. What do all these cards have in common?",
+     "kid": "Count your points. Then look at the 'once alive' mat.",
      "think": "Is there a card you are still unsure about? Ask two questions. Was it ever alive? Is it made from the cells of a living thing?"
     }
    ]
@@ -724,7 +724,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Clear a space with nothing to trip on. 2. Hide the food somewhere at floor or table height. 3. Gently cover the bacterium's eyes, or ask them to keep them shut.",
+     "do": "1. Clear a space with nothing to trip on. 2. Hide the food somewhere at floor or table height (a lemon works well). 3. Gently cover the bacterium's eyes, or ask them to keep them shut.",
      "say": "A bacterium is one tiny cell. They have no eyes and no brain. Yet they find food. Let's find out how, by being one.",
      "kid": "You are a bacterium. You are one cell. You have no eyes. Can you find the food?",
      "adult": true,
@@ -734,7 +734,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Play the game. After each 3-step run, say 'stronger' or 'weaker'. Count the runs.",
+     "do": "Play the game. After each 3-step run, the player who hid the food says 'stronger' (closer) or 'weaker' (further away). Count the runs.",
      "say": "Run 3 steps. Stronger or weaker? Remember what it was a moment ago.",
      "kid": "Take 3 steps. Wait for 'stronger' or 'weaker'. Stronger? Keep going. Weaker? Spin and try a new way.",
      "ask": [
@@ -761,9 +761,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Hide the food in a new place and play twice more. Write the number of runs each time on the score sheet.",
+     "do": "Hide the food in a new place and play twice more. Count the runs each time.",
      "say": "Did you get better? Why might the bacterium sometimes take a long time?",
-     "kid": "Play again. Count your runs. Did you get faster?",
+     "kid": "Play again. Count your runs.",
      "think": "In the game, you only needed to remember how strong the smell was a moment ago. Why is a short memory enough?"
     },
     {
@@ -785,7 +785,7 @@
    "days": 1,
    "context": "In this experiment you peel the very thin skin from inside an onion layer and look at it with stronger and stronger magnifiers. You find out whether an onion is made of cells, the tiny living pieces of living things.",
    "question": "Is an onion one smooth thing, or is it made of tiny pieces?",
-   "predict": "Before you look, draw what you think you will see when the onion skin is made 10 times bigger, and say why you think so. Then draw what you think you will see at 100 times bigger.",
+   "predict": "Before you look, say what you think you will see when the onion skin is made 10 times bigger, and why. Then say what you think you will see at 100 times bigger.",
    "fair_test": "Look at the same piece of onion skin with each tool, in the same light, so only the magnifier changes. Look for at least one minute with each, because eyes take time to settle.",
    "results_table": [
     "Tool I used",
@@ -854,7 +854,7 @@
      "mins": 4,
      "do": "Show your child a whole onion. Cut it in half. Let them feel a layer.",
      "say": "This onion looks like one smooth thing. Is it? Or is it made of tiny pieces we cannot see? What do you think?",
-     "kid": "Look at the onion. Feel a layer. Is it one smooth thing, or made of tiny pieces? Draw your guess.",
+     "kid": "Look at the onion. Feel a layer. Then tell your guess.",
      "adult": true,
      "ask": [
       {
@@ -881,7 +881,7 @@
      "mins": 8,
      "do": "1. Look at the skin with your eyes alone, then with a hand lens if you have one. 2. Put a tiny drop of water, the size of a mustard seed, on the phone's main camera lens. 3. Hold the onion skin against a bright window, or over a torch. 4. Bring the phone's lens very close, about 2 to 3 millimetres from the skin, without letting the drop touch it. Tap the screen to focus, and take a photo. 5. Zoom in on the photo.",
      "say": "What changes as we use a stronger lens? When do you first see separate shapes?",
-     "kid": "Look with just your eyes. Then use the phone with a water drop. Hold the skin up to the light. When do you first see shapes?",
+     "kid": "Look with just your eyes. Then use the phone with a water drop. Hold the skin up to the light.",
      "parent": "What to expect. With eyes alone or a hand lens, you will see a clear sheet, perhaps with faint lines. With the phone and a water drop, you will usually see faint, blurry rows of long boxes. It can take several tries. If it stays blurry, move the phone a little closer or further away, use a smaller drop, put more light behind the skin, and hold the phone very still. Use the main camera at normal zoom, because some phones switch to another lens when you zoom in. A Foldscope or toy microscope shows the boxes clearly.",
      "check": {
       "t": "mcq",
@@ -907,9 +907,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Your child draws one patch of cells, as big as a page. Label a cell and a wall, and a nucleus if you saw one.",
+     "do": "Your child draws one patch of cells, as big as a page. Label a cell, a wall, and a nucleus (the dark dot inside) if you saw one. If they would rather not draw, they take a photo and point to a cell.",
      "say": "Draw what you see, not what you think you should see. Make it big.",
-     "kid": "Draw what you see. Make it big. Label one cell and one wall.",
+     "kid": "Draw what you see, big. Label one cell and one wall. Or take a photo and point to a cell.",
      "think": "Every onion in the market is built of these cells. Your drawing shows one tiny patch. What does that tell you about how many cells a whole onion has?"
     },
     {
@@ -928,9 +928,9 @@
    "title": "Cheek Cells: are you made of tiny rooms too?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you gently scrape the inside of your own cheek and look at the cells. You need a Foldscope, or a toy or school microscope. A phone with a water drop is not strong enough to show their shape. Then you compare your cells with onion cells.",
+   "context": "In this experiment you gently scrape the inside of your own cheek and look at the cells. You will find out whether you are made of cells like an onion is. You need a Foldscope, or a toy or school microscope. A phone with a water drop is not strong enough to show their shape. Then you compare your cells with onion cells.",
    "question": "Are my cells like onion cells, or different?",
-   "predict": "Draw what you think your cheek cells will look like. Will they be boxes, like onion cells? Why do you think so?",
+   "predict": "Say what you think your cheek cells will look like. Will they be boxes, like onion cells? Why do you think so?",
    "fair_test": "Use the same stain and the same microscope with the same light for both, so any difference comes from the cells, not the tools. If you used iodine on your onion in the Onion Skin experiment, stain a fresh piece of onion skin with the stain you use for your cheek.",
    "results_table": [
     "What I looked for",
@@ -990,7 +990,7 @@
      "mins": 3,
      "do": "Show your child their onion drawing. Hand them a new, clean stick.",
      "say": "Your onion was made of cells. Are you? Let's look at the inside of your cheek. It sheds old cells all the time, and a gentle scrape just collects some. It doesn't hurt.",
-     "kid": "Remember the onion cells? Now let's look at you. The inside of your cheek is always shedding cells.",
+     "kid": "Remember the onion cells? Are you made of cells too?",
      "context": "This is the first step of the Cheek Cells experiment. You will look at your own cells."
     },
     {
@@ -1024,9 +1024,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Your child draws a cheek cell next to an onion cell and fills in the table.",
-     "say": "What is the same about your cells and the onion's? What is different?",
-     "kid": "Draw your cell next to an onion cell. What is the same? What is different?",
+     "do": "Your child draws a cheek cell next to an onion cell and fills in the table. If they would rather not draw, they point to each cell and tell what they see.",
+     "say": "Put your cheek cell and the onion cell side by side. Let's compare them.",
+     "kid": "Draw your cell next to an onion cell. Or point and tell how they look.",
      "ask": [
       {
        "q": "What is the same?",
@@ -1107,7 +1107,7 @@
      "what": "Check the three bowls. Fill in the table. Say what you think, what you saw, and why."
     }
    ],
-   "record": "Fill in the table for all three bowls. Draw each bowl, tilted, to show if it is thick or runny.",
+   "record": "Fill in the table for all three bowls. Write thick or runny for each, or take a photo of each bowl tilted.",
    "setup": [
     {
      "art": "A grown-up stirring one spoon of curd in a small steel vessel on a low flame until it bubbles.",
@@ -1129,7 +1129,7 @@
      "context": "This is the first step of the Curd Bowls experiment. You think about why we add old curd to milk.",
      "do": "Show your child a bowl of curd and a cup of milk.",
      "say": "To make curd, we stir a spoon of old curd into warm milk. Why do you think we need the old curd? What do you think is in it?",
-     "kid": "Look at the curd and the milk. We add old curd to milk to make curd. Why? What is in it?",
+     "kid": "Look at the curd and the milk. We add a spoon of old curd to milk to make new curd.",
      "ask": [
       {
        "q": "What do you think is in the old curd that turns milk into curd?",
@@ -1147,7 +1147,7 @@
      "mins": 5,
      "do": "1. A grown-up puts 1 spoon of curd in a small steel vessel. 2. Heat it on a low flame, stirring, until it bubbles, and let it bubble for half a minute. 3. Let it cool for a few minutes. 4. Label three bowls A, B and C with tape.",
      "say": "I am boiling this spoon of curd. Do you think boiled curd can still turn milk into curd? Why do you think so?",
-     "kid": "A grown-up boils one spoon of curd. Then it cools. Can boiled curd still make curd? Why do you think so?",
+     "kid": "A grown-up boils one spoon of curd. Watch it bubble. Then it cools.",
      "adult": true,
      "parent": "Boiled curd splits into lumps and watery whey. That is fine. Let it cool before it goes into the milk."
     },
@@ -1217,7 +1217,7 @@
      "what": "Look at 8 things up close. Notice and wonder."
     }
    ],
-   "record": "Draw 4 of the things, once as your eye sees them and once as the magnifier shows them.",
+   "record": "Write the names of the things in each pile. Draw one thing twice if you like: once as your eye sees it and once as the magnifier shows it.",
    "setup": [
     {
      "art": "A tray with a leaf, a pinch of salt, a strip of cloth, a strand of hair, a piece of paper and a slice of tomato.",
@@ -1229,7 +1229,7 @@
     },
     {
      "art": "A child's drawing split in two: a leaf as seen by eye, and the same leaf with net-like lines up close.",
-     "caption": "3. Draw what changes. Say what you notice and wonder."
+     "caption": "3. Sort the things into two piles. Say what you notice and wonder."
     }
    ],
    "flow": [
@@ -1246,7 +1246,7 @@
      "mins": 8,
      "do": "Look at each thing with the magnifier. Take turns saying one thing you notice and one thing you wonder.",
      "say": "What do you notice now? What do you wonder?",
-     "kid": "Look with the magnifier. Say one thing you notice. Say one thing you wonder.",
+     "kid": "Look with the magnifier. Say one thing you notice and one thing you wonder.",
      "parent": "Good things to hear: the leaf has a net of lines, the tomato has tiny shiny bags, salt is little cubes, the cloth is woven threads. Don't explain cells yet. Just collect wonderings.",
      "ask": [
       {
@@ -1263,9 +1263,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Your child draws 4 things, by eye and by magnifier.",
-     "say": "Which of these were once alive? Do they look different up close from the things that were never alive?",
-     "kid": "Draw 4 things, by eye and up close. Which ones were once alive?",
+     "do": "Your child sorts the 8 things into two piles: made by a living thing (a leaf, hair, tomato, paper, cloth, your fingertip) and never alive (salt, sugar). Then look at one thing from each pile again with the magnifier.",
+     "say": "Which of these are alive or were once alive? Look at one thing from each pile with the magnifier. Do they look different up close?",
+     "kid": "Sort the things into two piles: alive or once alive, and never alive.",
      "think": "Hooke saw tiny rooms in cork. If you zoomed in on the leaf or the tomato 100 times more, what do you think you would see?"
     }
    ]
@@ -1329,8 +1329,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Try a big flat drop and a tiny round drop. Compare them.",
-     "say": "Which makes letters bigger: the big flat drop or the tiny round one? Why might that be?",
-     "kid": "Try a big drop and a tiny drop. Which makes letters bigger?",
+     "say": "Look at the same letter under each drop. What is different?",
+     "kid": "Try a big drop and a tiny drop on the newspaper.",
      "check": {
       "t": "mcq",
       "q": "Which drop makes letters look bigger?",
@@ -1346,7 +1346,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "With a grown-up, put one tiny drop of water right on the phone's main camera lens. Turn the phone over carefully and open the camera. Hold it 2 to 3 millimetres from a leaf or onion skin, without touching it.",
+     "do": "With a grown-up, put one tiny drop of water right on the phone's main camera lens. Open the camera first, then put the drop on the lens while it faces up. Turn the phone over carefully, so the drop hangs on the lens. Hold it 2 to 3 millimetres from a leaf or onion skin, without touching it.",
      "say": "Our phone is now a microscope! What can you see that you couldn't before?",
      "kid": "With a grown-up, put a tiny drop on the phone camera. Look at a leaf very close.",
      "adult": true,
@@ -1357,7 +1357,7 @@
      "mins": 2,
      "do": "Ask your child why a drop of water makes things bigger.",
      "say": "Why do you think a drop of water can be a lens?",
-     "kid": "Why does a drop of water make things look bigger?",
+     "kid": "Think about the round shape of the drop. Tell your idea.",
      "ask": [
       {
        "q": "Why does the drop magnify?",
@@ -1421,16 +1421,16 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Draw seven boxes down the paper strip. In box 1, draw your child. Write 'about 1 metre'.",
+     "do": "Draw seven boxes down the paper strip. In box 1, your child draws themselves, or writes 'me'. Write 'about 1 metre'.",
      "say": "We're going down a ladder. Each step is 10 times smaller than the last. Step one is you.",
-     "kid": "Draw 7 boxes. In box 1, draw yourself. Write: about 1 metre.",
+     "kid": "Draw 7 boxes. In box 1, draw yourself or write 'me'. Write: about 1 metre.",
      "context": "This is the first step of the Size Ladder. You build a ladder of sizes, from you down to a cell."
     },
     {
      "id": "s2",
      "mins": 8,
      "do": "Fill in boxes 2 to 4 together: a hand (10 centimetres), a big black ant (1 centimetre), a mustard seed (1 millimetre). Use the ruler to check each.",
-     "say": "Ten of your hands would stretch about as tall as you. Ten big ants would line up along your hand. Ten mustard seeds would line up along a big ant.",
+     "say": "Each box is 10 times smaller than the one above. Ten of your hands would stretch about as tall as you.",
      "kid": "Box 2: a hand, 10 cm. Box 3: a big ant, 1 cm. Box 4: a mustard seed, 1 mm.",
      "ask": [
       {
@@ -1445,7 +1445,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Fill in boxes 5 to 7: an onion cell (a tenth of a millimetre), a red blood cell (a hundredth of a millimetre), a bacterium (a thousandth of a millimetre).",
-     "say": "From here on, things are too small to see clearly without a lens. Ten onion cells fit along a mustard seed. Your cheek cells fit between box 5 and box 6.",
+     "say": "From here on, things are too small to see clearly without a lens.",
      "kid": "Box 5: an onion cell. Box 6: a red blood cell. Box 7: a bacterium.",
      "check": {
       "t": "mcq",
@@ -1513,9 +1513,9 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "Your child draws an outline of their body and fills in what they think is inside. Add a zoom circle: 'If we zoomed into my finger, what would we see?'",
+     "do": "Your child draws an outline of their body and fills in what they think is inside. Add a zoom circle. Ask what we would see if we zoomed into the finger. If they would rather not draw, they tell you and you write.",
      "say": "Draw what you think you are made of. Go as deep as you can. What is under your skin? What is under that?",
-     "kid": "Draw yourself. Fill in what is inside. Draw a zoom circle on your finger. What is in there?",
+     "kid": "Draw yourself and what is inside. Add a circle showing what is inside your finger. Or tell your grown-up and they write it down.",
      "context": "This is the first step of Draw What's Inside You. You draw your idea before learning about cells.",
      "parent": "Do not correct anything. This drawing shows your child's starting idea."
     },
@@ -1524,7 +1524,7 @@
      "mins": 8,
      "do": "After the cell experiments (the Onion Skin experiment, and the Cheek Cells experiment if you did it), your child draws again and compares the two drawings.",
      "say": "What is new in your second drawing? What changed your mind?",
-     "kid": "Draw yourself again. What is new? What changed your mind?",
+     "kid": "Draw yourself again, or tell your grown-up what you would add.",
      "wait": "Do this after the cell experiments.",
      "ask": [
       {
@@ -1576,7 +1576,7 @@
      "what": "Look at tomato pulp, cotton and leaf peel up close. Draw each."
     }
    ],
-   "record": "Draw the three kinds of cells. Write one word for each shape.",
+   "record": "Write one word for the cell shape of the tomato, the cotton and the leaf. Draw one if you like, or take a photo.",
    "setup": [
     {
      "art": "A spoonful of ripe tomato pulp spread on a white plate, with a hand lens showing shiny round bags.",
@@ -1605,11 +1605,11 @@
      "id": "s2",
      "mins": 6,
      "do": "Pull one single fibre from the cotton wool. Lay it on the dark paper and look with the lens.",
-     "say": "This whole thread is just one cell. Cotton plants grow these long cells on their seeds.",
-     "kid": "Pull out one cotton fibre, a single hair of cotton. Look at it. The whole fibre is one cell!",
+     "say": "Cotton plants grow these long threads on their seeds. Look closely at one.",
+     "kid": "Pull out one cotton fibre, a single hair of cotton. Look at it closely.",
      "check": {
       "t": "mcq",
-      "q": "A single cotton fibre is…",
+      "q": "What is a single cotton fibre?",
       "options": [
        "one long cell",
        "made of thousands of round cells",
@@ -1623,16 +1623,16 @@
      "id": "s3",
      "mins": 6,
      "do": "If you have a Rhoeo or another leaf that peels, tear it at a slant so a thin, coloured skin comes off. Lay it on a slide or plate with a drop of water. Look with the strongest lens you have. If nothing peels, look at the torn edge instead.",
-     "say": "Do you see little shapes fitted together? Leaves also have tiny paired openings, called stomata, that let air in. You need a microscope to see those.",
+     "say": "Do you see little shapes fitted together?",
      "kid": "Tear the leaf at a slant. Find the thin skin. Look closely. Do you see shapes fitted together?",
      "parent": "With a hand lens you will see only the leaf's colour and veins. A phone with a water drop may show a faint pattern of shapes, best on a purple Rhoeo peel. Stomata need a Foldscope or microscope."
     },
     {
      "id": "s4",
      "mins": 2,
-     "do": "Lay out the three drawings side by side.",
+     "do": "Lay out the tomato pulp, the cotton fibre and the leaf skin side by side. Group them by cell shape.",
      "say": "Which cells were round? Which were long? Which were like tiles?",
-     "kid": "Look at your three drawings. Round, long or tiles?",
+     "kid": "Put each one in a group: round, long or tiles.",
      "think": "A tomato cell holds juice, and a cotton cell is a long hair. Why might each cell have the shape that suits its job?"
     }
    ]
@@ -1714,7 +1714,7 @@
      "mins": 15,
      "do": "Make the atlas cover together. Then do the onion page, using what you learned in the Onion Skin experiment (do that experiment first if you have not). Last, put a few torn spinach or coriander leaves in a jar of water. Cover it loosely and leave it by a window until day 5.",
      "say": "Scientists keep notebooks of everything they see. This is your cell atlas. Let's start with the onion.",
-     "kid": "Make your atlas cover. Then draw your onion cells on page 1.",
+     "kid": "Make your atlas cover. Then put your onion cells on page 1: draw them or stick in a photo.",
      "context": "This is the first step of My Cell Atlas, a five-day project where you collect pictures of cells."
     },
     {
@@ -1722,7 +1722,7 @@
      "mins": 10,
      "do": "On day 2, peel a thin skin from a leaf. If the leaf will not peel, look at a torn edge instead. Look, draw and write.",
      "say": "How are these leaf cells like the onion cells? How are they different?",
-     "kid": "Peel a leaf skin. Look. Draw. Write one fact.",
+     "kid": "Peel a leaf skin. Look closely. Draw it or stick in a photo. Write one fact.",
      "wait": "Day 2.",
      "parent": "Only some leaves peel, and Rhoeo works best. A phone with a water drop may show a faint pattern of shapes. If you see none, draw what you do see and write that the cells are too small for this lens."
     },
@@ -1730,8 +1730,8 @@
      "id": "s3",
      "mins": 10,
      "do": "On day 3, put a tiny dab of curd with a drop of water on a slide. Look with the strongest lens.",
-     "say": "Curd is full of bacteria. They are much smaller than onion cells. Can you see tiny dots or rods?",
-     "kid": "Look at a tiny dab of curd. Can you find tiny dots or rods? Those are bacteria.",
+     "say": "Curd is full of bacteria. They are much smaller than onion cells, so you may see only tiny dots, or nothing at all. Do you see any dots?",
+     "kid": "Look at a tiny dab of curd. Any tiny dots may be bacteria. If you see none, that is an answer too: bacteria are very small.",
      "wait": "Day 3.",
      "parent": "With a Foldscope you may just see tiny specks that jiggle. With a hand lens or a phone you will not see bacteria. That is a good result: it shows how tiny they are."
     },
@@ -1740,7 +1740,7 @@
      "mins": 10,
      "do": "On day 4, a grown-up cuts a very thin slice of raw potato and adds one drop of iodine antiseptic. Look by eye, then with your strongest lens.",
      "say": "Inside potato cells are tiny grains of starch, the plant's stored food. Iodine turns starch dark blue-black. Where does the colour go?",
-     "kid": "A grown-up adds iodine to a potato slice. What turns dark?",
+     "kid": "A grown-up adds iodine to a potato slice. Look at it closely.",
      "adult": true,
      "wait": "Day 4.",
      "check": {
@@ -1761,7 +1761,7 @@
      "mins": 15,
      "do": "On day 5, put a drop of water from the leaf jar on a slide and look. Then write the last page: 'What I am made of'. Show the atlas to a family member.",
      "say": "Show someone your atlas. Look at all five pages together. What is the same about every living thing you looked at?",
-     "kid": "Look at a drop of water from the leaf jar. Write your last page: What I am made of. Look at all your pages. What is the same in every one?",
+     "kid": "Look at a drop of water from the leaf jar. Write your last page: What I am made of.",
      "adult": true,
      "wait": "Day 5.",
      "parent": "After four days, water with rotting leaves is usually full of bacteria, and often of single cells that swim. With a Foldscope or microscope you may see them darting about. With a phone and water drop you may see only moving specks, or nothing, because they are so small. Pour the jar away and wash hands after. The answer to the last question is that every living thing in the atlas is made of cells, even the ones too small to see."
@@ -1798,7 +1798,7 @@
     "Stack two magnifiers, one after the other, like the two lenses in a real microscope.",
     "Rest the phone, with its water drop, on two stacks of books over the onion skin, with a torch shining up from below. A steady phone gives a sharper picture."
    ],
-   "your_turn": "Invent your own magnifier. Draw it, build it and test it on onion skin. Can you see the bricks?",
+   "your_turn": "Invent your own magnifier. Build it, test it on onion skin and take a photo. Can you see the cells?",
    "setup": [
     {
      "art": "A table with a marble, a dropper, clear plastic, a torch and an onion skin on a slide.",
@@ -1819,22 +1819,22 @@
      "mins": 5,
      "do": "Show your child the problem and the materials.",
      "say": "We have no microscope. How can we make one from things at home?",
-     "kid": "You have no microscope. How can you make one from things at home?",
+     "kid": "Look at the materials. What could bend light to make things look bigger?",
      "context": "This is the first step of The Best Home Microscope, a design challenge to see onion cells."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "Try the usual ideas and your child's own ideas. Test each on the same onion skin.",
+     "do": "Try the usual ideas (a water drop on plastic, a marble, the phone with a drop) and your child's own ideas. Test each on the same onion skin.",
      "say": "Which one shows the most? Why?",
-     "kid": "Try each idea on the same onion skin. Which shows the most?"
+     "kid": "Try each idea on the same onion skin. Look at it each time."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "Your child draws their best design and what it showed.",
+     "do": "Your child takes a photo of their best design and of what it showed. They can draw it instead.",
      "say": "If you had one more day, how would you make it better?",
-     "kid": "Draw your best magnifier and what you saw. How could you make it better?",
+     "kid": "Take a photo of your best magnifier and what you saw through it.",
      "think": "Leeuwenhoek wrote down what he saw, but never how he made his best lenses. Why is it a problem for other scientists if a method is kept secret?"
     }
    ]
@@ -1866,7 +1866,7 @@
     "Think like the slime mould: start with string everywhere, then remove the strings that are not needed.",
     "Ask: what if one road breaks? The slime mould kept a few extra links, so the network still worked."
    ],
-   "your_turn": "Now draw your own map of six towns you know, and design a network for them. Which design used the least string?",
+   "your_turn": "Now set out six towns you know, using bottle caps, and join them with string. Which design used the least string?",
    "setup": [
     {
      "art": "Six steel cups spread across a floor like cities on a map.",
@@ -1887,7 +1887,7 @@
      "mins": 5,
      "do": "Place the six cups across the floor, about one big step apart.",
      "say": "A slime mould is one giant cell, with no brain. Here are six cups. They are the cities. Can you join them with the least string?",
-     "kid": "Put out 6 cups. They are cities. A one-celled slime mould joined cities like these. Can you?",
+     "kid": "Put out 6 cups. They are cities. Join them with as little string as you can.",
      "context": "This is the first step of Slime Mould Railway, a challenge to design a network like a slime mould does."
     },
     {
@@ -1911,9 +1911,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Your child explains their best design, then draws their own map of six towns.",
+     "do": "Your child explains their best design, then sets out six towns they know, using bottle caps, and joins them with string.",
      "say": "How did you decide which strings to keep? How do you think the slime mould decided?",
-     "kid": "Explain your best design. Then draw six towns you know and join them.",
+     "kid": "Explain your best design. Then set out six towns with bottle caps. Join them with string.",
      "think": "The slime mould has no brain. How could they still choose the best tubes?"
     }
    ]

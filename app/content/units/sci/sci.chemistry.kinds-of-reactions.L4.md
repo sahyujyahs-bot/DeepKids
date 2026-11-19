@@ -251,7 +251,7 @@ Behind her, Aaya lit the kiln.
 - **Printable tokens: 4 kind tokens: JOIN, SPLIT, SWAP, BURN. Print one set for each player:** JOIN; SPLIT; SWAP; BURN
 - **s1 (3 min)**  
   *Parent does:* Cut out the 24 cards and the tokens. Shuffle the cards into a pile. Give each player one set of four tokens.  
-  *Parent says:* Each card describes a real reaction. Your four tokens are the four kinds: join, split, swap and burn. Count the substances before and after the reaction. That is the best clue.  
+  *Parent says:* Each card describes a real reaction. Your four tokens are the four kinds: join, split, swap and burn. Joining is two substances making one. Splitting is one substance making two. Swapping is two substances trading parts. Burning is a fuel joining with oxygen. Count the substances before and after the reaction. That is the best clue.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take four tokens.
 - **s2 (7 min)**  
   *Parent does:* Play the first twelve cards. After each card, read the back aloud. Ask the question below after card six.  
@@ -275,12 +275,12 @@ Behind her, Aaya lit the kiln.
 - **predict:** Before you start, guess. Will more lemon juice make new curds in the whey? Will a spoon of fresh milk make new curds in the whey? Why do you think so?
 - **fair test:** Both tumblers get whey from the same bowl, 5 tablespoons each, at the same warmth. Tumbler A gets only lemon juice. Tumbler B gets only hot milk. Stir each one the same way, 5 times round. Wait 1 minute before you decide. Only one thing differs between the tumblers: what was added.
 - **safety:** A grown-up heats the milk and pours everything that is hot. The child adds lemon juice and stirs with a long spoon. Keep hands away from the hot bowl.
-- **record:** Draw a table with three columns: the tumbler, what you added, and what you saw after 1 minute. Then write how many tablespoons of milk tumbler B took before the milk stayed white.
+- **record:** Make a table with three columns: the tumbler, what you added, and what you saw after 1 minute. Then write how many tablespoons of milk tumbler B took before the milk stayed white.
 - **results table:** Tumbler | What I added | What I saw after 1 minute
 - **s1 (3 min)**  
   *Parent does:* Squeeze and strain the lemons. Mark the tumblers A and B. Ask for both guesses and the reasons, and write them down.  
-  *Parent says:* We will turn milk into curds and whey with lemon juice. Then we will add more lemon to some whey, and fresh milk to some whey. Which one will make new curds? Why do you think so?  
-  *Child mode:* Lemon makes curds in milk. Will more lemon make curds in whey? Will more milk? Why?
+  *Parent says:* We will turn milk into curds and whey with lemon juice. Curds are the white lumps. Whey is the thin liquid left over. Then we will add more lemon to some whey, and fresh milk to some whey. Which one will make new curds? Why do you think so?  
+  *Child mode:* Lemon juice makes milk form curds. Tell your grown-up what you think will happen next.
   - Ask: Why do you think more lemon juice will or will not make new curds in the whey? (good: More lemon should make more curds.; The whey has no milk left in it.; The curds have already come out.)
   - Note: Do not correct the guess. Many children expect more lemon to make more curds. Any guess with a reason is a good start.
 - **s2 (7 min) · grown-up needed**  
@@ -296,7 +296,7 @@ Behind her, Aaya lit the kiln.
 - **s4 (5 min)**  
   *Parent does:* Add 2 teaspoons of lemon juice to tumbler A. Add 1 tablespoon of hot milk from the pan to tumbler B. Stir each 5 times. Watch both for 1 minute against the light, and write what you see.  
   *Parent says:* Tumbler A gets more lemon juice. Tumbler B gets fresh milk. Stir both, and watch for one minute. In which tumbler do new curds appear?  
-  *Child mode:* Add lemon to A. Add milk to B. Stir. Which one makes new curds?
+  *Child mode:* Add lemon to A. Add milk to B. Stir each one and watch.
   - Note: Tumbler A usually stays clear. Tumbler B usually shows white flecks or soft lumps within a minute. If B only turns cloudy, the whey has cooled. Stand the tumbler in a bowl of hot water for 2 minutes.
   - Check: In Second Squeeze, why do both tumblers get whey from the same bowl? → **So only the added thing differs**
 - **s5 (6 min)**  
@@ -307,7 +307,7 @@ Behind her, Aaya lit the kiln.
 - **s6 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
   *Parent says:* Say what you thought would happen, what you saw, and why it happened. In the first bowl, which ran out, the milk or the lemon? In tumbler B at the end, which ran out?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Look at your table. Tell your grown-up what happened in each tumbler.
   - Ask: Why did more lemon juice make no new curds in tumbler A? (good: The part of the milk that makes curds was used up.; All the casein had already come out as curds.; The lemon had nothing left to work on.)
   - Ask: Why did tumbler B stop making curds after a few spoons of milk? (good: The leftover acid in the whey was used up.; Each spoon of milk used some of the acid.; This time the lemon ran out, and not the milk.)
   - Note: The reason: curds are made from casein, the main milk protein, and the acid in lemon juice. In the first bowl, all the casein became curds, and some acid was left in the whey. So more lemon did nothing in A, and fresh milk made curds in B. Each spoon of milk used up some of the leftover acid. When the acid was gone, the milk stayed white. A reaction stops when one reactant is used up. Use the curds as paneer, and use the whey from the first bowl in dal or dough.
@@ -317,13 +317,13 @@ Behind her, Aaya lit the kiln.
 - **predict:** Before you start, guess. Will either cup get warm? Which paste will go hard first, and will it be hard before it is dry? Why do you think so?
 - **fair test:** Use two paper cups of the same size. Put 6 level tablespoons of powder and 3 tablespoons of water in each. Use water from the same tumbler. Stir each one 20 times. Keep the cups side by side, away from the sun and the fan. Touch and poke both cups at the same times. Only the powder differs.
 - **safety:** A grown-up measures and mixes the plaster. Do not breathe in the dust, and keep it away from eyes. Never put a finger or a hand into setting plaster, because it gets hot and grips the skin. Throw leftover plaster in the dustbin and never down a sink.
-- **record:** Draw a table with a row for 0, 5, 10, 15 and 20 minutes. For each cup write warm or not warm, and soft or hard. On day 2, write what each lump did in water.
+- **record:** Make a table with a row for 0, 5, 10, 15 and 20 minutes. For each cup write warm or not warm, and soft or hard. On day 2, write what each lump did in water.
 - **results table:** Minutes after mixing | Cup A, plaster: warm? hard? | Cup B, sand: warm? hard?
 - **schedule:** day 1: Mix the two cups, then touch and poke them every 5 minutes for 20 minutes. (25 min); day 2: Tear off the cups, put both lumps in water for 5 minutes, and say what the results show. (10 min)
 - **s1 (3 min)**  
   *Parent does:* Spread newspaper. Mark the cups A and B. Show your child the two dry powders. Ask for the guess and the reason, and write both down.  
   *Parent says:* We will mix each powder with the same amount of water. Will either cup get warm? Which will go hard first? Will it be hard before it is dry? Why do you think so?  
-  *Child mode:* Look at the two powders. Which will go hard with water? Will a cup get warm? Why?
+  *Child mode:* Look at the two powders. Tell your grown-up what you think each one will do with water.
   - Ask: Why do you think a paste goes hard? (good: The water dries away.; The powder sticks together.; The powder and the water make something new.)
   - Note: Most children say that things go hard by drying. Do not correct this. The test will check it.
 - **s2 (4 min) · grown-up needed**  
@@ -340,7 +340,7 @@ Behind her, Aaya lit the kiln.
 - **s4 (2 min)**  
   *Parent does:* Leave both cups on a shelf until the next day. Ask the question below before you leave them.  
   *Parent says:* By tomorrow both cups will be dry. We will put both lumps in a bowl of water. What do you think each lump will do?  
-  *Child mode:* Leave the cups until tomorrow. What will each lump do in water?
+  *Child mode:* Leave both cups on the shelf. Tomorrow you will test the lumps in water.
   - Wait: Leave both cups until the next day
 - **s5 (5 min)**  
   *Parent does:* Day 2. Tear the paper cups away. Put both lumps in a bowl of water for 5 minutes. Then your child presses each lump with a thumb.  
@@ -350,9 +350,9 @@ Behind her, Aaya lit the kiln.
 - **s6 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
   *Parent says:* Say what you thought would happen, what you saw, and why it happened. Where is the water that we put into the plaster cup?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Look at your table. Tell your grown-up what each cup and each lump did.
   - Ask: What three things show that the plaster and the water made a new substance? (good: The cup got warm.; It went hard while it was still wet.; The lump stayed hard in water the next day.)
-  - Ask: Where did the water in cup B go? (good: It dried into the air.; The sand is the same sand as before, so the water just dried away.)
+  - Ask: Where did the water in the sand cup go? (good: It dried into the air.; The sand is the same sand as before, so the water just dried away.)
   - Note: The reason: plaster of Paris joins with water. The two become one new solid called gypsum, and the water is locked inside it. Making the new bonds gives out heat, so the cup felt warm. This is a joining reaction. Sand does not react with water. The water only dried away, and the same sand was left. Stick chalk is often made of gypsum, so it is plaster that has already joined with water.
   - Think: A doctor wraps a wet plaster bandage round a broken arm. Why does the cast feel warm for a few minutes?
 ### e3 · Soap and Sour: what does vinegar do to soap? (25 min)
@@ -360,12 +360,12 @@ Behind her, Aaya lit the kiln.
 - **predict:** Before you start, guess. Which bottle will have the tallest foam, and which the shortest? Will the liquid in any bottle change how it looks? Why do you think so?
 - **fair test:** Use three clear bottles of the same size. Put 4 tablespoons of liquid in each. Add 2 teaspoons of water or vinegar to each. Shake every bottle 10 times, in the same way. Measure the foam at once with a ruler. Do the whole test twice. Bottles A and B differ only in what was added. Bottles B and C differ only in the kind of cleaner.
 - **safety:** Keep soap water and vinegar away from eyes. Do not taste anything in this test. A grown-up grates the soap.
-- **record:** Draw a table with a row for each bottle. Write the foam height for try 1 and try 2. Write how the liquid looks: clear, cloudy or milky, with or without white bits.
+- **record:** Make a table with a row for each bottle. Write the foam height for try 1 and try 2. Write how the liquid looks: clear, cloudy or milky, with or without white bits.
 - **results table:** Bottle | Foam height, try 1 (cm) | Foam height, try 2 (cm) | How the liquid looks
 - **s1 (3 min)**  
   *Parent does:* Set out the three bottles, the soap and the vinegar. Ask for the guess and the reason, and write both down.  
   *Parent says:* Bottle A will hold soap water and plain water. Bottle B will hold soap water and vinegar. Bottle C will hold dish wash liquid and vinegar. Which will foam most when we shake it? Why do you think so?  
-  *Child mode:* Look at the three bottles. Each holds soap or dish wash, with water or vinegar. Which will foam most? Why?
+  *Child mode:* Look at the three bottles. Each holds soap or dish wash, with water or vinegar. Tell your grown-up which you think will foam most.
   - Ask: Why do you think vinegar will or will not change the foam? (good: Vinegar is sour and soap is soapy, so they may react.; Vinegar is mostly water, so nothing will change.; Lemon takes the soapy feel off my hands.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (6 min) · grown-up needed**  
@@ -382,12 +382,12 @@ Behind her, Aaya lit the kiln.
 - **s4 (3 min)**  
   *Parent does:* Empty and rinse the bottles, and do the whole test once more. Then leave bottle B to stand for 5 minutes and look at the top of the liquid.  
   *Parent says:* We do the test twice, because one try can be a fluke. Now let bottle B stand. Look at the top of the liquid. What has collected there?  
-  *Child mode:* Do the test once more. Then let B stand. What floats on top?
+  *Child mode:* Do the test once more. Then let B stand and look at the top.
   - Note: White, greasy bits usually float to the top of bottle B. Let your child rub one between two fingers. It feels waxy, and it does not foam.
 - **s5 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
   *Parent says:* Say what you thought would happen, what you saw, and why it happened. Is the white solid in bottle B still soap?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Look at your table. Tell your grown-up what each bottle looked like.
   - Ask: What shows that the white bits in bottle B are a new substance and not soap? (good: They do not dissolve in the water.; They do not make foam.; They feel waxy, not slippery.)
   - Ask: Why did the dish wash liquid still foam with vinegar? (good: It is a different substance from soap.; It does not make a solid with vinegar.)
   - Note: The reason: soap has a long fatty part joined to sodium. Vinegar is an acid, and it has hydrogen to give. The sodium and the hydrogen swap places. The fatty part with hydrogen is a waxy solid that does not dissolve, so it shows as white bits. A solid that forms like this is called a precipitate. The sodium stays dissolved as a salt. This is a swapping reaction. Dish wash liquid is made of other substances, which stay dissolved in sour water and in hard water.
@@ -396,11 +396,11 @@ Behind her, Aaya lit the kiln.
 ## Activities
 ### a1 · The Pan and the Lid: can heat split a powder? (20 min)
 - **safety:** A grown-up does all the heating and lifts the hot lids. The heated powder is washing soda, which stings eyes and skin. Do not taste it, and wash hands after the activity.
-- **record:** Draw three lids: from the empty pan, from the first heating and from the second heating. Draw the drops on each one.
+- **record:** For each of the three lids, write whether it had drops or was dry: the empty pan, the first heating and the second heating. You can also take a photo of each lid.
 - **s1 (3 min)**  
   *Parent does:* Show your child the dry baking soda and the dry pan. Rub a little powder between your fingers to show it is dry. Ask the question below and write down the answer.  
   *Parent says:* This powder is dry, and the pan is dry. I will heat the powder under a cold lid. What do you think we will find under the lid? Why do you think so?  
-  *Child mode:* The powder is dry. A grown-up heats it under a lid. What will be under the lid? Why?
+  *Child mode:* The powder is dry. A grown-up will heat it under a cold lid. Guess what you will find under the lid.
   - Ask: Could anything come out of a dry powder when it is heated? (good: No, because it is dry.; Maybe smoke.; Maybe a gas, because baking soda makes cakes rise.)
   - Note: Most children expect nothing, or smoke. Do not correct the guess.
 - **s2 (3 min) · grown-up needed**  
@@ -410,29 +410,29 @@ Behind her, Aaya lit the kiln.
   - Note: The lid should be dry. This is the comparison for the next step.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* Put 2 heaped teaspoons of baking soda in the pan. Cover it with the second cold lid. Heat on a low flame for 1 minute. Lift the lid with a cloth and show the underside.  
-  *Parent says:* Now the powder goes in. I will heat it for one minute under a new cold lid. Look under the lid now. What do you see? Where did it come from?  
-  *Child mode:* Now the powder is heated. Look under the lid. What do you see?
+  *Parent says:* Now the powder goes in. I will heat it for one minute under a new cold lid. Look under the lid now. What do you see?  
+  *Child mode:* Now the powder is heated. Look under the lid and point at what you see.
   - Ask: The powder was dry. So where did the drops come from? (good: Out of the powder.; The heat pushed water out of the baking soda.; The powder had water joined inside it.)
   - Note: A mist of small water drops usually covers the lid. A cold lid works best. If you see no drops, heat for 1 more minute.
 - **s4 (6 min) · grown-up needed**  
   *Parent does:* Heat the powder without a lid for 5 more minutes, stirring now and then. Watch the powder as you stir. Then cover the pan with the third cold, dry lid for 1 minute. Lift the lid and look.  
   *Parent says:* Watch the powder while I stir. Does it move like a dry powder? Now I cover it with a new dry lid. Do you think drops will come again? Why?  
-  *Child mode:* Watch the powder as it is stirred. Then a new lid goes on. Will drops come again?
+  *Child mode:* Watch the powder as it is stirred. Then a new lid goes on.
   - Note: While it splits, the powder shifts and bubbles gently, almost like a liquid, because gas is leaving it. The third lid should stay dry, or show very few drops.
   - Check: In The Pan and the Lid, heated baking soda makes water drops once and not the second time. Why? → **The baking soda was used up**
 - **s5 (4 min)**  
   *Parent does:* Let the pan cool fully. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
   *Parent says:* Say what you thought would happen, what you saw, and why it happened. Is the powder in the pan still baking soda?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Look at the lids. Tell your grown-up which lids had drops.
   - Note: The reason: heat splits baking soda into three substances. They are washing soda, water and carbon dioxide gas. The water left as steam and turned to drops on the cold lid. The gas left unseen, and made the powder bubble. The powder left in the pan is washing soda. This is a splitting reaction, and it needs heat. The same splitting makes a cake rise in the oven. Keep the washing soda for cleaning greasy vessels, or wash it away with plenty of water.
   - Think: A cake batter with baking soda rises in the oven. Which of the three products lifts the cake?
 ### a2 · Will It Burn? Seven things in a candle flame (15 min)
 - **safety:** A grown-up lights the candle and holds every item in the flame with tongs. Tie back long hair and keep loose sleeves away. Drop anything that burns into the bowl of water. Do this near an open window.
-- **record:** Draw a table with three columns: the thing, your guess, and what happened. Use the words 'burned' and 'did not burn'.
+- **record:** Make a table with three columns: the thing, your guess, and what happened. Use the words 'burned' and 'did not burn'.
 - **s1 (3 min)**  
   *Parent does:* Lay out the seven things: paper, dry leaf, stone, steel spoon, salt, ash and water. Your child writes a guess for each one. Ask for the reason.  
   *Parent says:* I will hold each of these in a candle flame for ten seconds. Which ones will burn? What do you think the burning ones have in common? Why do you think so?  
-  *Child mode:* Look at the seven things. Guess which ones will burn. Why those?
+  *Child mode:* Look at the seven things. Point to the ones you think will burn.
   - Ask: What do you think makes a thing able to burn? (good: It is dry.; It came from a plant.; It is thin and light.)
   - Note: Children often say that dry things burn. Salt, ash and stone are dry too, so the test will check that idea.
 - **s2 (7 min) · grown-up needed**  
@@ -443,7 +443,7 @@ Behind her, Aaya lit the kiln.
 - **s3 (5 min)**  
   *Parent does:* Blow out the candle. Sort the seven things into two groups. Ask your child to say what they thought would happen, what they saw, and why. After they have answered, read them the explanation in the note below.  
   *Parent says:* Say what you thought would happen, what you saw, and why it happened. What do the paper and the leaf share that the others lack?  
-  *Child mode:* Sort the things into two groups. What do the burning ones share?
+  *Child mode:* Sort the things into two groups: burned and did not burn.
   - Note: The reason: burning is a reaction between a fuel and oxygen. Paper and leaves were made by plants. They are built from carbon and hydrogen, which join with oxygen and give out heat. Water is hydrogen that has already joined with oxygen. Stone and ash are also joined with oxygen already. Salt is sodium joined with chlorine. A thick steel spoon carries the heat away. Very fine steel wool can burn.
   - Check: Why does ash not burn in a candle flame? → **Its atoms have already joined with oxygen**
   - Think: Water is made of hydrogen and oxygen, and hydrogen burns very well. So why does water put a fire out?
@@ -452,7 +452,7 @@ Behind her, Aaya lit the kiln.
 - **s1 (3 min)**  
   *Parent does:* Set out the seeds and say which atom each one stands for. Show that seeds placed touching each other are joined by bonds, and make one molecule.  
   *Parent says:* Each seed is one atom. Seeds that touch are joined by bonds, and together they are one molecule. One chana touching two moong is a water molecule. Build one for me.  
-  *Child mode:* Each seed is an atom. Touching seeds are joined. Build one water molecule.
+  *Child mode:* Each seed is an atom. Seeds that touch are joined. Make a water molecule from three seeds.
   - Note: Water is one oxygen and two hydrogens. Check that your child puts the chana in the middle.
 - **s2 (5 min)**  
   *Parent does:* Plate 1, joining. Build carbon dioxide: 1 rajma touching 2 chana. Build water beside it. Then push all six seeds into one group, with the rajma in the middle. Plate 2, splitting. Build that same group of six, and pull it apart into water and carbon dioxide.  
@@ -463,7 +463,7 @@ Behind her, Aaya lit the kiln.
 - **s3 (5 min)**  
   *Parent does:* Plate 3, swapping. Build an acid: 1 moong touching the peppercorn. Build a base: the groundnut touching 1 chana, which touches 1 moong. Now let the moong of the acid and the groundnut change places.  
   *Parent says:* This acid is hydrogen joined to chlorine. A base is the opposite of an acid, and it can cancel an acid. This base is sodium joined to oxygen and hydrogen. Swap the acid's hydrogen with the sodium. What two things have you made?  
-  *Child mode:* Plate 3: build the acid and the base. Swap the moong and the groundnut. What did you make?
+  *Child mode:* Plate 3: build the acid and the base. Swap the moong and the groundnut.
   - Ask: What are the two products on plate 3? (good: Groundnut with peppercorn, which is sodium with chlorine. That is salt.; A chana with two moong. That is water.)
   - Note: The products are table salt and water. This is the reaction between stomach acid and one kind of antacid.
 - **s4 (7 min)**  
@@ -486,14 +486,14 @@ Behind her, Aaya lit the kiln.
   - Ask: How can you tell that a new substance is being made? (good: There is a flame or heat.; The colour or smell changes for good.; A solid or a gas appears.)
   - Note: Ideas if your child is stuck. In the kitchen: the gas flame, milk setting into curd, idli batter rising, a cake rising, a cut apple turning brown. In the bathroom: a grey soap ring on a bucket, lemon on a soapy hand, an antacid tablet. Elsewhere: an incense stick, rust on a grill, a dark brass lamp, cement or wall putty setting.
 - **s2 (10 min)**  
-  *Parent does:* Day 2. Draw four columns on the large sheet. Your child writes each of the twelve reactions in a column. If one fits two columns, write it on the line between them.  
+  *Parent does:* Day 2. Rule four columns on the large sheet and label them joining, splitting, swapping and burning. Your child writes each of the twelve reactions on a small slip of paper and places it in a column. If one fits two columns, put it on the line between them.  
   *Parent says:* For each reaction, ask how many substances there are before and after. Two into one is joining. One into two is splitting. A fuel with oxygen is burning. An exchange is swapping.  
-  *Child mode:* Draw four columns. Put each reaction in its column. Some may fit two.
+  *Child mode:* Put each reaction slip in its column. Some may fit two.
   - Note: Guide, with answers: rust and tarnish are joining. Setting cement is joining. A rising cake is splitting. Rising idli batter is splitting, done by living yeasts and bacteria. Soap rings, antacids and curd are swapping. Flames and incense are burning. A browning apple is joining with oxygen.
 - **s3 (5 min)**  
   *Parent does:* Count each column. Talk about the questions below. Put the chart on a wall.  
   *Parent says:* Which kind did you find most often? Which was hardest to find? Which reactions were done by living beings, such as bacteria?  
-  *Child mode:* Count each column. Which kind won? Which reactions did living beings do?
+  *Child mode:* Count each column. Then put the chart on the wall.
   - Ask: Which reactions in your list were hard to sort, and why? (good: Burning also looked like joining.; I did not know the products.; Curd is made by bacteria and by acid.)
   - Note: There is no single right chart. A clear reason for each choice matters more than the column.
 
@@ -507,7 +507,7 @@ Behind her, Aaya lit the kiln.
 - **s1 (4 min)**  
   *Parent does:* Read the problem together. Mark the cups 1, 2 and 3. Rub a drop of oil on each of the 3 coins. Ask which mix your child expects to win, and why.  
   *Parent says:* Cup one gets two tablespoons of water. Cup two gets one. Cup three gets half. Which will copy the coin best? Why do you think so?  
-  *Child mode:* Three mixes: runny, medium and stiff. Which will copy the coin best? Why?
+  *Child mode:* Three mixes: runny, medium and stiff. Guess which will copy the coin best.
   - Ask: What might go wrong with too much water, or with too little? (good: Too much water may stay soft.; Too little may set before the coin goes in.; A stiff paste may not fill the small letters.)
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* Put 2 level tablespoons of plaster in each cup. Add 2 tablespoons of water to cup 1, 1 tablespoon to cup 2 and half a tablespoon to cup 3. Stir each 20 times. After 1 minute, your child presses one oiled coin into each.  
@@ -517,7 +517,7 @@ Behind her, Aaya lit the kiln.
 - **s3 (20 min)**  
   *Parent does:* Wait 20 minutes. Your child touches the outside of each cup now and then. Then lift the coins, tip out each disc and compare the prints. Try to read the year. Scratch the back of each disc with a fingernail.  
   *Parent says:* Which cup feels warmest? Now look at the three prints. In which one is the writing clearest? Which disc is hardest to scratch?  
-  *Child mode:* Wait 20 minutes. Compare the three prints. Which can you read? Which is hardest?
+  *Child mode:* Wait 20 minutes. Then lift the coins and compare the three prints.
   - Note: The middle mix usually gives the sharpest and hardest print. The runny mix is slow, soft and chalky. The stiff mix is lumpy, with gaps.
   - Check: A plaster mix has too much water. What happens to the extra water? → **It is left over and weakens the cast**
 - **s4 (5 min) · grown-up needed**  

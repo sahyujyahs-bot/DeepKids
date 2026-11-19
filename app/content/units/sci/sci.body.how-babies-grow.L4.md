@@ -227,7 +227,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 - **rules:** The goal is to place cards in the right order on a timeline. The timeline runs from the earliest event on the left to the latest on the right.; Put the pile on the table with the fronts (the events) facing up. Take the top card and place it in the middle of the table with its back (the time) showing. This is the start of the timeline.; On your turn, take the top card from the pile. Read the front aloud. Do not look at the back.; Place it in the timeline where you think it belongs, with its front still showing. It can go to the left of the line, between two cards, or to the right. The cards already in the line show their backs (the times).; Turn your card over to show its back, and look at the times. Your card is in the right place if the card on its left is earlier or at the same time, and the card on its right is later or at the same time. Then it stays in the line, and you score one point.; If it is in the wrong place, move it to the right place, and score no points. Where times are about equal, either order is fine.; The game ends when the pile is empty. The player with the most points wins. If you play alone, count your points out of 21. Try to beat your own score next time.; Babies differ. The times on the cards are typical times, and a healthy baby can be a few weeks or months earlier or later.
 - **Printable cards: 22 two-sided cards: an event on the front, and when it happens on the back:** One cell begins (back: Day 1. A single new cell holds a full set of instructions.); A ball of about 100 cells (back: Day 5. The cell has split again and again into a small hollow ball.); The ball settles into the womb wall (back: Week 2. The placenta begins to form here.); The heart starts to beat (back: Week 3. A tiny tube of cells begins to pulse.); A flat strip of cells rolls into a tube that will become brain and spine (back: Week 4. The tube closes.); Small buds show where arms and legs will grow (back: Week 5. The buds are smaller than a grain of rice.); The fingers separate as the cells between them die (back: Week 8. A flat paddle becomes a hand.); The baby is now called a foetus (back: Week 9. All the main parts have begun, and the baby mostly grows.); The mother may feel the first small flutters (back: About week 17. The baby's movements are strong enough to feel. Some mothers feel them earlier or later.); The baby is born (back: Week 38 of growing. This is about week 40 of pregnancy.); The cord stump falls off, leaving the belly button (back: About 10 days after birth. It happens a few days earlier or later.); A first real smile at another person (back: About 6 weeks old. Some babies smile a little earlier or later.); Holds the head steady when held upright (back: About 4 months old.); Rolls from front to back (back: About 5 months old.); Sits without help (back: About 6 months old. Babies vary by a month or two.); Walks while holding on to furniture (back: About 9 months old.); Stands alone for a moment (back: About 11 months old.); Takes first steps alone (back: About 12 months old. Many babies walk between 9 and 17 months.); Puts two words together (back: About 2 years old.); All 20 milk teeth have come (back: About 3 years old.); The first milk tooth falls out (back: About 6 years old.); The growth spurt of the early teens begins (back: Girls about 10 to 11 years old, boys about 12 to 13.)
 - **s1 (3 min)**  
-  *Parent does:* Cut out the 22 cards. Shuffle them and make a pile with the fronts facing up. Turn the top card over. Place it in the middle of the table with its back showing. Read the back aloud.  
+  *Parent does:* Cut out the 22 cards. Shuffle them and make a pile with the fronts facing up. Turn the top card over. Place it in the middle of the table with its back showing. Read the back aloud. Each card you later place in the right spot scores 1 point.  
   *Parent says:* These cards show things that happen as a person grows. Each card has an event on one side and the time on the other. We will put them in order. Here is the first one.  
   *Child mode:* Cut out the cards. Shuffle them. Turn the top card over and put it in the middle.
   - Note: No printer? Write the 22 events on one side of 22 paper slips, and the times on the back. Two to four players share one pile and one timeline. Take turns, and each player keeps their own score on paper.
@@ -249,7 +249,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 - **s5 (3 min)**  
   *Parent does:* Read the whole timeline aloud, from left to right. Ask your child where growth was fastest and which card they would change.  
   *Parent says:* Read the timeline from the start to the end. Where do many things happen close together? Where are the long gaps?  
-  *Child mode:* Read the timeline. Where do many things happen close together? Where are the long gaps?
+  *Child mode:* Read the timeline out loud. Point to where many things happen close together.
   - Note: Many events are crowded in the first eight weeks, when the main parts of the body are laid down. After that, the baby mostly grows and learns. The long gaps later show that learning to move and speak takes much longer than building the body.
   - Think: Most of the building of the body happens in the first eight weeks. Why do you think it takes years to learn to run?
 
@@ -264,7 +264,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 - **s1 (5 min)**  
   *Parent does:* Show your child the paper strips and the dye. Explain that they will make a model of cells in an embryo. Each piece of paper is a cell, and the dye is a signal. Ask for a guess and a reason, and write both down.  
   *Parent says:* Each piece of this strip is like a cell in a growing body. The dye is like a signal. Will the colour be the same along the whole strip? What if the dye goes in at the other end? Why do you think so?  
-  *Child mode:* Each paper piece is like a cell. The dye is like a signal. Will the colour be the same all along? Why?
+  *Child mode:* Each paper piece is like a cell. The dye is like a signal. Will the colour be the same all along the strip?
   - Ask: Why do you think the colour will look like that? (good: The dye gets weaker as it goes.; It will be dark where it starts.; It will spread evenly.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Tell them this is only a model, because real cells use chemical signals and not dye. One child with a parent: the child does everything and the parent times and writes the guess. Two to four children: pairs share one strip A and one strip B, so make one pair of strips and two katoris for each pair. In each pair one child watches the front edge of the dye and says when to lift the strip, and the other child handles the strip. Then they swap roles to fill in the table of colours and jobs. Compare all the pairs' results at the end.
 - **s2 (8 min)**  
@@ -329,23 +329,23 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 ## Activities
 ### a1 · A Hand Made by Taking Away (18 min)
 - **safety:** Do not eat the raw dough. Use a blunt knife with a grown-up nearby. Atta contains wheat, so if anyone in the family is allergic to wheat or gluten, use clay or play dough instead. Wash your hands afterwards.
-- **record:** Draw your two finished hands and write which was easier, and why.
+- **record:** Take a photo of your two finished hands, or draw them. Then say or write which was easier, and why.
 - **s1 (5 min)**  
   *Parent does:* Roll the dough flat into an oval paddle, as thick as your finger and as long as your hand. Show your child their own hand with the fingers pressed together. Say that a hand started like this.  
   *Parent says:* Your hand began as a flat paddle like this one. Look at your own hand with your fingers pressed together. How do you think a paddle becomes five fingers?  
-  *Child mode:* Roll the dough into a flat paddle. Press your fingers together. How does a paddle become five fingers?
+  *Child mode:* Roll the dough into a flat paddle. Press your own fingers together and look at them.
   - Ask: How do you think the paddle becomes five fingers? (good: Cells grow into five fingers.; Something cuts the paddle.; Cells grow out from the paddle.)
   - Note: Do not correct the guess. Any guess is fine. Show them the paddle shape in your own hand with the fingers together.
 - **s2 (8 min)**  
-  *Parent does:* Draw four lines from the top of the paddle down two-thirds of the way. Cut away the dough between the lines, with a blunt knife. Pull the cut pieces away. That is the first hand. For the second hand, roll a new paddle and five little fingers. Stick the fingers on with a drop of water. Compare the two hands. Gently tug each finger, and bend it. Count how many fingers stay on each hand.  
-  *Parent says:* Draw four lines from the top. Cut out the dough between the lines. Take the pieces away. Now try a second hand. Roll five little fingers and stick them on. Which hand is better?  
-  *Child mode:* Cut the dough between the lines to make fingers. Make a second hand by sticking five fingers on. Compare.
+  *Parent does:* With the tip of the knife, mark four lines in the dough. Start at the top of the paddle and go two-thirds of the way down. Cut away the dough between the lines, with a blunt knife. Pull the cut pieces away. That is the first hand. For the second hand, roll a new paddle and five little fingers. Stick the fingers on with a drop of water. Compare the two hands. Gently tug each finger, and bend it. Count how many fingers stay on each hand.  
+  *Parent says:* Mark four lines from the top. Cut out the dough between the lines. Take the pieces away. Now try a second hand. Roll five little fingers and stick them on. Which hand is better?  
+  *Child mode:* Cut the dough between the lines to make fingers. Make a second hand by sticking five fingers on. Which hand is stronger?
   - Note: On the cut hand, each finger is one piece with the palm. The stuck-on fingers may come off or bend at the join. If they stay on, say that the join is still weaker than a finger that was never cut off. In a real embryo, the fingers are not stuck on. They appear when the cells between them die on a signal. One child with a parent: the child makes both hands and the parent tugs. Two to four children: each child makes a cut hand and a stuck-on hand, with their own dough, and swaps hands with a partner for the tug test.
   - Check: In an embryo, what makes the gaps between the fingers? → **Cells between the fingers die when they get a signal**
 - **s3 (5 min)**  
   *Parent does:* Look at the web of skin at the base of your own fingers. Spread your fingers wide. Talk about ducks, who have webbed feet. Ask what might be different in a duck's foot.  
   *Parent says:* Look at the small web of skin between your fingers at the bottom. A duck has much more web between their toes. What might be different in a duck's foot while it grows?  
-  *Child mode:* Spread your fingers wide. Look at the web at the bottom. A duck has more web. Why?
+  *Child mode:* Spread your fingers wide. Look at the small web at the bottom. A duck has much more web.
   - Ask: What might be different in a duck's foot while it grows? (good: Fewer cells die between the toes.; The cells stay alive.; The signal is weaker.)
   - Note: After your child has shared their idea, tell them this. In a chick, the cells between the toes die and the toes are separate. In a duck, most of those cells stay alive, so the toes stay webbed. In a few babies, two fingers stay joined, and a small operation separates them.
   - Think: Which is the better shape for swimming, a hand with webbing or a hand without?
@@ -354,7 +354,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 - **s1 (5 min)**  
   *Parent does:* Show your child the typical lengths for a healthy baby. At birth the baby is 50 centimetres long. Then 61 at 3 months, 67 at 6 months, 71 at 9 months, 75 at 12 months, and 87 at 24 months. Ask in which three months a baby grows the most, and why they think so.  
   *Parent says:* Here are typical lengths for a healthy baby. At birth, 50 centimetres. At three months, 61. At six months, 67. At nine months, 71. At twelve months, 75. At two years, 87. In which three months does a baby grow the most? Why?  
-  *Child mode:* A baby's length at birth and at 3, 6, 9, 12 and 24 months is 50, 61, 67, 71, 75 and 87 centimetres. In which three months does the baby grow most? Why?
+  *Child mode:* Look at the baby's lengths. They are 50, 61, 67, 71, 75 and 87 centimetres, at birth and at 3, 6, 9, 12 and 24 months.
   - Ask: When do you think a baby grows fastest? (good: At the start.; Just after birth.; It is always the same.)
   - Note: These are typical middle values from the World Health Organization growth standards, rounded. Real babies are a little above or below. Do not correct the guess.
 - **s2 (15 min)**  
@@ -373,7 +373,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 - **record:** Keep the two marked instruction sheets. Write which lines were different for each cell.
 - **s1 (5 min)**  
   *Parent does:* Write these 8 lines on both sheets. Line 1: make keratin, the hair and nail protein. Line 2: make haemoglobin, which carries oxygen. Line 3: make collagen, the tough protein in skin and bone. Line 4: make muscle fibres. Line 5: make lens protein, which is clear. Line 6: make a gut enzyme to break down food. Line 7: make signals for a nerve. Line 8: make energy and repair parts.  
-  *Parent says:* We will write one instruction book with eight lines, and make two copies. Each copy is the DNA of a cell. Every cell gets the whole book.  
+  *Parent says:* We will write one instruction book with eight lines, and make two copies. Each copy is like the DNA of a cell. DNA is the instruction book inside every cell. Every cell gets the whole book.  
   *Child mode:* Write eight lines on a sheet. Make a second copy. Every cell gets a whole book.
   - Note: The lines are simple, made-up examples of real jobs. A real cell reads a code written in four chemical letters, not lines of words.
 - **s2 (10 min)**  
@@ -400,14 +400,14 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
   - Ask: Whom would you like to interview first, and why? (good: My grandmother.; My father.; My uncle, who is tall.)
   - Note: Some people may not remember their birth length or height at 10. That is fine. Ask them to guess, or skip the question. Growth is a private topic for some people. Ask only what they are happy to share. Not everyone grew up with their parents, and some children have no family record. Pick anyone who cares for you. One child with a parent: the child interviews each person, in person or by phone or video call. Two to four children: split the family members between you, and each child draws all the lines on a shared sheet. Heights from memory are only a guess, so label them 'remembered'. A health card or an old school record gives better numbers.
 - **s2 (20 min)**  
-  *Parent does:* Interview two more family members. Measure everyone's height today. Write each person's answers next to their name.  
+  *Parent does:* Interview two more family members. Measure everyone's height today. Write each person's answers next to their name, or record them on a phone.  
   *Parent says:* Today we ask two more people the same five questions. Then we measure everyone with the tape. Write it all next to their names.  
   *Child mode:* Interview two more people. Measure everyone's height. Write it down.
   - Note: If a family member lives far away, ask them to measure themselves against a wall with a tape, and tell you by phone.
 - **s3 (25 min)**  
   *Parent does:* For each person, draw a growth line on squared paper, with age along the bottom and height up the side. Mark at least three dots. Join them. Compare the lines with each other and with the baby's growth line from the My Growth Line activity.  
   *Parent says:* Draw a growth line for each person, with age along the bottom and height up the side. Join the dots. What is the same in every line? What is different?  
-  *Child mode:* Draw a growth line for each person. What is the same in every line? What is different?
+  *Child mode:* Draw a growth line for each person. Then put the lines side by side and look at them.
   - Ask: What is the same in all the lines? (good: They all go up and then flatten.; Everyone stopped growing at some age.; Everyone grew fast when they were young.)
   - Note: Most people say they grew fastest as a young child, and again in the early teens. Girls usually stop growing earlier than boys, in the middle to late teens. After they have shared what they found, explain: the growth plates close, and the bones cannot grow longer.
   - Think: Why might the lines stop at different heights and different ages?
@@ -423,10 +423,10 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Look back at the strips from the Colour Map test. Ask how to get three clear bands from one dye.  
   *Parent says:* You have one dye and no brush. Make a strip with three clear bands. What could you change to get a dark band, a medium band and a pale band?  
-  *Child mode:* Make a strip with three clear bands from one dye. What could you change?
+  *Child mode:* Make a strip with three clear bands from one dye.
   - Ask: What could you change to make the dye lighter or darker? (good: Add more water.; Use more drops.; Dip for a shorter time.)
 - **s2 (20 min)**  
-  *Parent does:* Test two ideas on short strips. Write down what you did and what you got.  
+  *Parent does:* Test two ideas on short strips. Keep each strip. Write down what you did and what you got, or take a photo of each.  
   *Parent says:* Choose two ideas and test them on small strips. Write down what you did and how each strip looked.  
   *Child mode:* Test two ideas. Write what you did. Look at the bands.
   - Note: The method with three katoris and 12, 6 and 3 drops is called a dilution series. Scientists use it often. It usually gives clear bands. Strong food colours may make the first two bands look alike, so halve the drops again if they do. A single dipped strip may give a smooth fade, and not three clear bands. One child with a parent: the child tests two ideas, and at the end the parent is the person who has not seen the strips. Two to four children: each child tests a different idea at the same time, then you compare, and each child asks someone else to name their bands.

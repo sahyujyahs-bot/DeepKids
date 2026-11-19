@@ -280,7 +280,7 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
   *Parent does:* Play the rest of the cards. At the end, count the points and ask the final question.  
   *Parent says:* Keep going until all the cards are read. Then count the points. The winner is the player with the most. Then think about the animals that need care.  
   *Child mode:* Play the rest of the cards. Count your points. The winner has the most.
-  - Ask: Which kind of newborn needs the most care from her parents? (good: The helpless ones.; Babies that cannot see or walk.; Chicks, kittens and human babies.)
+  - Ask: Which needs more care from her parents: a ready-born or a helpless-born baby? (good: The helpless ones.; Babies that cannot see or walk.; Chicks, kittens and human babies.)
   - Ask: Why do you think some animals are born helpless? (good: They are small when they are born.; Their mother does not need to carry a big baby.; They finish growing outside with their parents' help.)
   - Note: Ready-born young are further along when they arrive, but their mother has had to give more before birth, in a big egg or a long pregnancy. Helpless-born young are small and cost little to start with, but need weeks of care from their parents. Both are different strategies for keeping young alive.
 ### g2 · The Waiting Line: who waits longest before hatching or birth? (20 min)
@@ -294,7 +294,7 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
   *Parent does:* Play the game. Each player reads a card and puts it in the row. Turn it over to check. Ask the question below after the fifth card.  
   *Parent says:* Read the front of your card. Where do you think it goes? Is the wait shorter or longer than the cards in the row? Put it down, then turn it to check.  
   *Child mode:* Read a card. Put it in the row. Turn it over to check.
-  - Ask: Which do you think waits longer, a mouse or a dog? Why? (good: The dog, because she is bigger.; Bigger animals usually wait longer.; The mouse is small so she waits less.)
+  - Ask: Which waits longer before her young are born, a mouse or a dog? Why? (good: The dog, because she is bigger.; Bigger animals usually wait longer.; The mouse is small so she waits less.)
   - Note: Let the child guess before the card is turned. Bigger mammals tend to wait longer, but birds, reptiles and insects follow different rules. A hen's egg waits only 21 days, yet the chick is ready-born.
 - **s3 (7 min)**  
   *Parent does:* Take a strip of paper and a ruler. Mark one millimetre for each day. Measure the wait of a hen, a human and an elephant. For the elephant's 65 centimetres, tape two sheets end to end, or use newspaper or string.  
@@ -309,18 +309,18 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
 - **predict:** Before you start, guess. Which family will have the most young left, and which will have the fewest? Why do you think so?
 - **fair test:** Every young one faces two dangers, one as an egg or newborn and one while growing up. Each danger is one roll of the same die. What changes is the number of young at the start and the roll needed to live. Each family plays three rounds, because one round can be lucky or unlucky. This is a model with made-up numbers, so it shows an idea and does not measure real animals.
 - **safety:** Keep small counters away from children under five, who might put them in their mouths. Dry chana and beans are also a choking risk for small brothers and sisters. If a child is allergic to chana or any bean, use buttons or paper squares.
-- **record:** For each round, write how many young started, how many were left after danger 1 and how many were left after danger 2. Add up the survivors of three rounds for each family. Then draw one bar for each family.
+- **record:** For each round, write how many young started, how many were left after danger 1 and how many were left after danger 2. Add up the survivors of three rounds for each family. Then show each family's total as a stack of counters, or draw one bar for each family.
 - **results table:** Family | Round | Young at the start | Left after danger 1: egg or newborn | Left after danger 2: growing up
 - **s1 (4 min)**  
   *Parent does:* Read out the three families. Write down your child's guess and their reason before you start.  
-  *Parent says:* A frog starts with 18 eggs. A hen starts with 5 eggs. An elephant has 3 calves, one after the other. Each young one faces two dangers. Which family will have the most young left at the end? Why do you think so?  
-  *Child mode:* A frog has 18 eggs. A hen has 5. An elephant has 3 calves. Who will have the most young left? Why?
+  *Parent says:* A frog starts with 18 eggs. A hen starts with 5 eggs. An elephant has 3 calves, one after the other. Each young one faces two dangers, such as a hungry bird or a dry pond. Which family will have the most young left at the end? Why do you think so?  
+  *Child mode:* Look at the three families. Pick the one you think will have the most young left.
   - Ask: Why do you think that family will have the most left? (good: She starts with the most.; The hen keeps her chicks safe.; The elephant looks after her calves.)
   - Note: Do not correct the guess. Many children pick the frog because of the big number, or the elephant because of the care. Both are good reasons to test.
 - **s2 (4 min)**  
   *Parent does:* Put 18 counters on the Frog plate, 5 on the Hen plate and 3 on the Elephant plate. Write the dice rules on paper. With 2 to 4 children, each child plays one family (the parent or the next child takes the third) and everyone else writes down the numbers. If you have only one die, pass it round.  
   *Parent says:* Every young one rolls the die once for each danger. A frog's young live if the die shows a 5 or a 6. A hen's young live if the die shows a 3, 4, 5 or 6. An elephant's young live if the die shows a 2, 3, 4, 5 or 6. The better the care, the more rolls that let a young one live.  
-  *Child mode:* Roll the die once for every young one. A frog's egg lives if the die shows 5 or 6. A hen's chick lives if the die shows 3 to 6. An elephant's calf lives if the die shows 2 to 6.
+  *Child mode:* Roll the die once for every young one. Look at the rule for your family to see if the young one lives.
   - Note: The rules are made up to show an idea. A frog gives no care, so only 2 of the 6 numbers let a young one live. A hen guards her chicks, so 4 of 6 do. An elephant guards her calves even more, so 5 of 6 do.
   - Check: Why does an elephant's calf live on more numbers than a frog's egg? → **A mother who guards her young keeps more of them safe**
 - **s3 (8 min)**  
@@ -341,32 +341,32 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
   *Child mode:* Now the elephant. Roll for each of the 3 calves. A calf lives if the die shows 2 to 6.
   - Note: An elephant round usually leaves between 1 and 3 calves. The average is about 2.
 - **s6 (7 min)**  
-  *Parent does:* Add up the survivors for each family over three rounds. Draw a bar for each family. Ask your child what they thought would happen, what they saw in the numbers and why they think it happened.  
+  *Parent does:* Add up the survivors for each family over three rounds. Make a stack of counters for each family, side by side. Ask your child what they thought would happen, what they saw in the numbers and why they think it happened.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see in the numbers? Why do you think it happened? Was the family with the most young at the start the family with the most at the end?  
-  *Child mode:* Add up each family's survivors. Draw three bars. What did you think? What did you see? Why?
-  - Ask: The elephant started with 3 calves and the frog with 18. Why were their totals close? (good: Care helps each young one live.; The frog loses most of her eggs.; A few young with care can match many with none.)
+  *Child mode:* Add up each family's survivors. Make a stack of counters for each family. Compare the three stacks.
+  - Ask: The frog started with 18 young and the elephant with 3. Why might their totals end up close? (good: Care helps each young one live.; The frog loses most of her eggs.; A few young with care can match many with none.)
   - Note: Over three rounds the expected totals are about 6 for the frog, 7 for the hen and 6 for the elephant, so they are close. Your numbers will wobble, and a gap of one or two is likely just luck. After your child has explained, tell them that the numbers were chosen to make a point. In nature, a mother frog and a mother elephant have found very different ways to leave about the same number of grown-up young. Real frogs lay far more eggs, and far fewer survive. If your child's results showed one family far ahead, repeat three more rounds and see if it lasts. With several children, add everyone's rounds together for a longer test. More rounds make the totals settle, so the three families come out closer.
   - Think: A real frog lays thousands of eggs, and a real elephant has one calf every few years. What does each mother have to give to do that?
 
 ## Activities
 ### a1 · The Lifespan Line: one centimetre of string for every year (27 min)
-- **record:** A drawing of the line, with each animal's name and years of life, and the heartbeat sums for a mouse and an elephant.
+- **record:** A photo of your string line, with each animal's name and years of life on a slip of paper, and the heartbeat sums for a mouse and an elephant.
 - **s1 (5 min)**  
   *Parent does:* Write the twelve animal names on slips of paper. They are mayfly, honeybee, house mouse, hen, dog, cat, parakeet, Asian elephant, human, giant tortoise, bowhead whale and Greenland shark. Ask your child to put them in order, shortest life first.  
   *Parent says:* Here are twelve animals. Put them in order, from the shortest life to the longest. Which do you think is last? Why?  
-  *Child mode:* Put the twelve animals in order. Shortest life first. Which lives longest? Why?
+  *Child mode:* Put the twelve animals in order. Shortest life first.
   - Ask: Why did you put that animal last? (good: Because she is the biggest.; Because she is very old.; Because she lives in the sea.)
   - Note: Do not correct the guess. The years of life used are as follows. A mayfly adult lives about 1 day and a honeybee worker about 6 weeks. A mouse lives 2 years, a hen 8, a dog 12, a cat 15, a parakeet 20, an elephant 60, a human 75, a giant tortoise 150, a bowhead whale 200 and a Greenland shark about 270. They are typical and rounded, and the real numbers vary.
 - **s2 (8 min)**  
   *Parent does:* Tell your child the rule. One centimetre of string stands for one year. Cut a piece for each animal. Tape the pieces in a row on the floor. With 2 to 4 children, each child cuts the pieces for three or four animals, and one child tapes. With one child, the parent can hold the end of the string while the child cuts.  
-  *Parent says:* Here is the rule. One centimetre of string is one year of life. A mouse lives 2 years, so cut 2 centimetres. An elephant lives 60 years, so cut 60 centimetres. For the mayfly and the honeybee, just draw a dot. Now cut the others and tape them in a row.  
+  *Parent says:* Here is the rule. One centimetre of string is one year of life. A mouse lives 2 years, so cut 2 centimetres. An elephant lives 60 years, so cut 60 centimetres. For the mayfly and the honeybee, a tiny dot of tape is enough, because they live much less than a year. Now cut the others and tape them in a row.  
   *Child mode:* One centimetre of string is one year. Cut a piece for each animal. Tape them in a row.
   - Note: Lengths in centimetres: mouse 2, hen 8, dog 12, cat 15, parakeet 20, elephant 60, human 75, giant tortoise 150, bowhead whale 200, Greenland shark about 270. A mayfly adult is less than a millimetre and a honeybee worker is about one millimetre, so draw a dot. In total, about 8 metres of string. If the room is small, let the long strings curve or coil.
   - Check: A giant tortoise lives for about 150 years. How long is her piece of string? → **150 centimetres**
 - **s3 (4 min)**  
   *Parent does:* Walk along the line from the shortest to the longest. Ask your child what they notice, and what surprises them.  
   *Parent says:* Look along the line. What do you notice? Which animal's place surprises you? Is it true that bigger animals live longer?  
-  *Child mode:* Walk along the line. What do you notice? What surprises you?
+  *Child mode:* Walk along the line from the shortest to the longest. Look for a surprise.
   - Ask: Which animals do not fit 'bigger lives longer'? (good: The parakeet lives longer than the dog.; The tortoise outlives the elephant.; The human lives longer than the horse-sized animals.)
   - Note: Good patterns: small animals live short lives and large ones live long lives, with exceptions. The parakeet, the human and the tortoise are the exceptions. Do not explain why yet. The next step gives a clue in the heartbeats.
   - Think: A parakeet is much smaller than a dog but lives longer. Why might a small animal live a long time?
@@ -380,21 +380,21 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
 - **s5 (3 min)**  
   *Parent does:* Ask your child what they think about how long animals live, what they saw on the line and in the sums, and why they think the mouse and the elephant had similar totals.  
   *Parent says:* Tell me three things. What do you think about how long animals live? What did you see on the line and in the sums? Why do you think the mouse and the elephant had similar totals?  
-  *Child mode:* What do you think about how long animals live? What did you see on the line? Why? Say it out loud.
+  *Child mode:* Tell your grown-up what the line and the sums showed you.
   - Note: A strong answer says that bigger animals tend to live longer, with exceptions, and that a mouse's heart beats fast and an elephant's slowly, so their lives add up to about the same number of beats. Ask whether this is a law. It is not, since humans and many birds get more.
   - Think: If a mouse and an elephant each get about the same number of beats, is a mouse's life shorter, or is it just faster?
 ### a2 · Four Life Cycles in a Table: sort sixteen animals (25 min)
 - **record:** A table with four columns (mammals, birds, insects, amphibians) and rows for where life starts, how many young, how much care and whether the body changes shape.
 - **s1 (5 min)**  
   *Parent does:* Write the sixteen names on cards. They are: cow, bat, platypus, human, crow, hen, peacock, sparrow, lime butterfly, dragonfly, cockroach, honeybee, bullfrog, toad, Indian purple frog and caecilian. Ask your child to sort them into four groups. Look up new names, such as platypus or caecilian, in a book or on a phone.  
-  *Parent says:* Here are sixteen animals. Sort them into four groups: mammals, birds, insects and amphibians. Say what each group has in common. If you are not sure about one, put that card to the side.  
-  *Child mode:* Sort the sixteen animals into four groups. Say how you chose.
+  *Parent says:* Here are sixteen animals. Sort them into four groups: mammals, birds, insects and amphibians. Mammals feed their young milk. Birds have feathers. Insects have six legs. Amphibians, like frogs, begin life in water. If you are not sure about one, put that card to the side.  
+  *Child mode:* Sort the sixteen animals into four groups: mammals, birds, insects and amphibians.
   - Ask: How did you choose the groups? (good: By how many legs.; By what they are covered with.; By where they live.)
   - Note: Mammals: cow, bat, platypus, human. Birds: crow, hen, peacock, sparrow. Insects: lime butterfly, dragonfly, cockroach, honeybee. Amphibians: bullfrog, toad, Indian purple frog, caecilian. A bat is a mammal, not a bird. A caecilian looks like a worm but is an amphibian. A human is an animal, and a mammal.
 - **s2 (10 min)**  
-  *Parent does:* Draw four columns and four rows on the big sheet. The rows are where life starts, how many young, how much care and whether the body changes shape. Fill in a column for each group with your child. With 2 to 4 children, each child fills in one column, then reads it out for the others to question.  
-  *Parent says:* Let us fill the table. Where does a cow's life start? Inside her body or in an egg? What about a crow? A butterfly? A frog? How many young at a time? Who looks after them? Does the body change shape as they grow?  
-  *Child mode:* Make four columns. Fill in each group. Where does life start? How many young? Who looks after them? Does the body change?
+  *Parent does:* Fold the big sheet into four columns, one for each group. Write four questions down the left side: where life starts, how many young, how much care and whether the body changes shape. Fill in a column for each group with your child. With 2 to 4 children, each child fills in one column, then reads it out for the others to question.  
+  *Parent says:* Let us fill the table. Where does a cow's life start? Inside her body or in an egg? What about a crow? A butterfly? A frog? How many young at a time? Who looks after them? Does the body change shape as they grow, like a caterpillar becoming a butterfly?  
+  *Child mode:* Fill in the table for each group, one question at a time.
   - Ask: Which group changes body shape the most as it grows up? (good: Insects like the butterfly.; Amphibians like the frog.; Both change a lot.)
   - Note: Typical answers are as follows. Mammals start life inside the mother. They have one to a few young, though a mouse has more. They give milk and care, and the body does not change shape much. Birds lay hard-shelled eggs that the parents keep warm. They lay 1 to 12 eggs or more, and they care for the young for weeks. The body does not change shape. Insects lay eggs on food or leaves, from one egg to hundreds. They usually give no care, although bees care for their young. Butterflies and honeybees change completely, with a pupa. Cockroaches and dragonflies change gradually, with no pupa. Amphibians lay jelly eggs in water, hundreds in most frogs. They usually give no care, and the tadpoles change a lot.
 - **s3 (6 min)**  
@@ -406,7 +406,7 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
 - **s4 (4 min)**  
   *Parent does:* Ask your child which group looks after its young the most, what in the table shows it, and why it might be that way. Then ask which group has the fewest young.  
   *Parent says:* Tell me three things. Which group looks after its young the most? What in your table shows it? Why might it be that way?  
-  *Child mode:* Which group looks after its young the most? What in your table shows it? Why? Say it out loud.
+  *Child mode:* Look at your table. Tell your grown-up which group looks after its young the most.
   - Note: A strong answer says that mammals and birds usually care for their young a lot and have fewer, while amphibians and many insects have many young and little care. Ask for an exception from the table.
   - Think: Which group gives its young the least care, and how do their young survive?
 ### a3 · Rice-Grain Eggs: how big is a big number of eggs? (20 min)
@@ -431,34 +431,34 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
 - **s4 (5 min)**  
   *Parent does:* Compare with real eggs. A frog may lay about 1,000, a rohu fish more than 100,000, and an ocean sunfish up to 300 million. Work out how many katoris each would fill.  
   *Parent says:* A frog may lay about a thousand eggs. A rohu may lay more than a hundred thousand. An ocean sunfish may lay up to three hundred million. How many katoris of rice would each need? Which one would not fit in your kitchen?  
-  *Child mode:* A frog lays about 1,000 eggs. A rohu lays over 100,000. How many katoris?
+  *Child mode:* A frog lays about 1,000 eggs. A rohu lays over 100,000. An ocean sunfish lays up to 300 million. How many katoris would each fill?
   - Note: With about 7,000 grains in a katori: a frog's 1,000 eggs is a bit under a katori. A rohu's 100,000 is about 14 katoris. A sunfish's 300 million is about 40,000 katoris, or roughly 6,000 kilograms of rice, which is more than a hundred big sacks. These are estimates. Real egg numbers vary a lot with the size and age of the mother.
   - Think: Only one or two of the sunfish's three hundred million eggs have to grow up for the species to carry on. What happens to all the others?
 ### a4 · Moult and Shell Hunt (if you have a garden or a park nearby) (25 min)
 - **safety:** Look at nests that have eggs or chicks in them, but do not touch them. Touching a nest can make the parents leave. Do not touch anything with live animals. Wash hands afterwards. Wear closed shoes. Look with your eyes first and do not put hands into holes, long grass or under stones, where there may be snakes, scorpions or wasps. Keep clear of beehives and wasp nests. An adult stays with the children.
-- **record:** A sketch of each thing you found, with a note of where, what animal left the skin or shell, and which stage of their life cycle it shows. A tally of how many of each kind you found.
+- **record:** A photo or sketch of each thing you found, with a note of where, what animal left the skin or shell, and which stage of their life cycle it shows. A tally of how many of each kind you found.
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* Tell your child what to look for: empty skins on stems and tree trunks, broken eggshells on the ground, and empty snail shells. Go outside with a grown-up.  
-  *Parent says:* Animals leave clues behind as they grow. A nymph sheds her skin when she climbs out of the water. A chick leaves a broken shell. Today we will hunt for these clues. Look, but do not touch any nest.  
-  *Child mode:* Go outside with a grown-up. Look for skins, shells and egg cases. Do not touch nests.
+  *Parent does:* Go outside with your child. Tell them what to look for: empty skins on stems and tree trunks, broken eggshells on the ground, and empty snail shells.  
+  *Parent says:* Animals leave clues behind as they grow. Some shed their old skin as they grow bigger. This is called moulting. A young dragonfly climbs out of the water and leaves her old skin on a stem. A chick leaves a broken eggshell. Today we will hunt for these clues. Look, but do not touch any nest.  
+  *Child mode:* Look for empty skins, shells and egg cases. Do not touch nests.
   - Note: In the monsoon, look for dragonfly nymph skins on reeds, cicada skins on tree trunks, grasshopper skins on grass, broken eggshells under trees, and snail shells. A cicada skin is brown and papery and has a split down the back. If you find a nest, stay far from it.
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* Search for 15 minutes. Collect what is safe to pick up. Sketch each find and write where you found it. Keep a tally of how many skins, shells and egg cases you find. With 2 to 4 children, give each child one patch to search, then compare tallies. If you have no garden, use a balcony plant, a roadside tree, or the corners of a window or wall at home.  
+  *Parent does:* Search for 15 minutes. Collect what is safe to pick up. Take a photo of each find, or sketch it, and say where you found it. Keep a tally of how many skins, shells and egg cases you find. With 2 to 4 children, give each child one patch to search, then compare tallies. If you have no garden, use a balcony plant, a roadside tree, or the corners of a window or wall at home.  
   *Parent says:* Look slowly. Look on the underside of leaves and on the stems of plants. What can you find? What animal left it behind? Which stage is it?  
-  *Child mode:* Look slowly. Collect empty skins and shells. Sketch each one.
+  *Child mode:* Look slowly. Collect empty skins and shells. Photograph each one, or sketch it.
   - Ask: What do you think left this empty skin? (good: A nymph that climbed out and grew wings.; A cicada.; A grasshopper.)
   - Note: If nothing turns up, that is also a result. Skins are easiest to find in the monsoon and the weeks after, and much harder in winter. In the dry months, use the back-up: look at the thin skin lining inside a cracked hen's eggshell with the magnifying glass, and check window corners and under-sink corners for shed cockroach or spider skins. A split skin with the back open means an insect climbed out as an adult. That skin is called an exuvia.
 - **s3 (6 min)**  
-  *Parent does:* Sort your finds. Ask your child which stage of the life cycle each find shows, and which animals have no such stage.  
-  *Parent says:* Look at the empty skin. The animal climbed out of the skin as a bigger animal. Look at the eggshell. A chick used to be in there. What does each find tell you about the life cycle?  
-  *Child mode:* What does each find tell you? Which stage of the life cycle is it?
+  *Parent does:* Lay out your finds in groups: skins, eggshells and snail shells. Ask your child which stage of life each find shows.  
+  *Parent says:* Look at an empty skin. The animal climbed out of her old skin, bigger than before. Look at an eggshell. A chick used to be in there. What does each find tell you about the life cycle?  
+  *Child mode:* Sort your finds into groups. Tell what each group shows.
   - Note: A hard outer skin cannot stretch, so an insect must shed the old skin to grow. A mammal's skin stretches. A snake sheds her whole skin from time to time as she grows.
   - Think: Why must a nymph or a snake shed her skin to grow, when a mammal does not?
 
 ## Projects
 ### p1 · Banana Jar Nursery: watch a fly's whole life cycle in about twelve days (60 min, 12 days)
 - **safety:** Fruit flies do not bite, but keep the jar away from food, wash your hands afterwards and do not eat anything from it. Let the flies go outside at the end. If grey or green mould grows, do not sniff it. An adult opens the jar, and a child with asthma or a mould allergy keeps away.
-- **record:** A drawing for each day you looked, with a count of flies on day 2 and of the new flies, and the day you first saw maggots, pupae and new flies.
+- **record:** A photo or short note for each day you looked, with a count of flies on day 2 and of the new flies, and the day you first saw maggots, pupae and new flies.
 - **schedule:** day 1: Set up the jar with a slice of ripe banana. Leave it open on a kitchen shelf for a night so that fruit flies can find it. (10 min); day 2: Cover the jar with cloth once there are a few flies inside. Count and draw them. (10 min); day 3: Take the jar outside, in the shade, and take the cloth off so the grown flies fly away. Cover it again at once. The eggs stay on the banana. (10 min); day 5: Look for tiny white maggots on the banana. Draw them. (10 min); day 7: Look for brown capsules on the jar wall and the paper strip. These are pupae. Draw them. (10 min); day 12: Look each day from day 10. When new flies hatch, count them, then let them out outdoors and wash the jar. (10 min)
 - **s1 (10 min)**  
   *Parent does:* Put a slice of very ripe banana in a clean jar. Leave the jar open on a kitchen shelf for one night. Write a guess about what will happen.  
@@ -466,21 +466,21 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
   *Child mode:* Put a banana slice in a jar. Leave it open one night. What will happen?
   - Note: If no flies come after two nights, leave it a night longer or put it near a window or on the balcony. In a very clean kitchen in winter it can take a few days. Do not use a cut fruit left near food. Keep the jar in a warm place out of direct sun, because above about 30 degrees the larvae die. With 2 to 4 children, take turns to look and draw each day. For a comparison, set a second jar in a cooler corner and see whether it is slower.
 - **s2 (10 min)**  
-  *Parent does:* Check the jar. If a few small flies are inside, cover the jar with cloth and a rubber band. Count the flies and draw one. Tomorrow the grown flies will be let out, so the flies you count later are new.  
-  *Parent says:* Look in the jar. Small flies have come into the jar. Count them. Draw one. Where did they come from? How did they find the banana?  
-  *Child mode:* Cover the jar with cloth. Count the flies. Draw one.
+  *Parent does:* Check the jar. If a few small flies are inside, cover the jar with cloth and a rubber band. Count the flies. Look closely at one with a magnifying glass. You will let these grown flies out on day 3, so flies you see much later are new.  
+  *Parent says:* Look in the jar. Small flies have come into the jar. Count them. Look closely at one. What do you see on its body?  
+  *Child mode:* Cover the jar with cloth. Count the flies. Look closely at one.
   - Ask: How did the flies find the banana? (good: They smelled it.; They flew in.; They came from outside.)
   - Note: The flies are fruit flies, the same kind that scientists such as Thomas Hunt Morgan studied in the 1900s. They find ripe fruit by smell. The females lay eggs on it. A female can lay up to about fifty to a hundred eggs in a day.
 - **s3 (10 min)**  
-  *Parent does:* On day 3, let the grown flies out. On day 5, find the tiny white maggots with a magnifying glass. Draw them. On day 7, find brown capsules.  
-  *Parent says:* Look closely at the banana. Do you see tiny white worms? They are the larvae. On day 7, look for brown capsules. These are pupae. What is happening inside?  
+  *Parent does:* On day 3, let the grown flies out. On day 5, find the tiny white maggots with a magnifying glass. Take a photo, or draw them. On day 7, find brown capsules.  
+  *Parent says:* Look closely at the banana. Do you see tiny white worms? They are the larvae. On day 7, look for brown capsules. These are pupae, cases where the body changes. What is happening inside?  
   *Child mode:* Let the grown flies out on day 3. Look for white maggots on day 5. Look for brown capsules on day 7.
   - Ask: What is happening inside the brown capsule? (good: The maggot is changing into a fly.; The body is being rebuilt.; Something is growing wings.)
   - Note: To let the grown flies out on day 3, take the jar outside in the shade, take the cloth off, wait a few minutes, then cover it again. The eggs stay on the banana. Fruit flies take about 10 days from egg to adult at about 25 degrees: about a day as an egg, four days as a larva and four to five days as a pupa. The eggs here are laid on day 1 or 2, so expect the first new flies around day 11 to 13. In cooler weather, such as a north Indian winter, it can take three to four weeks, so keep waiting. If the banana is a wet mouldy mess, or nothing has appeared by day 20, start again in a warmer month. The pupa is not sleeping. The body is being rebuilt.
 - **s4 (10 min)**  
   *Parent does:* From day 10, look each day. On the day new flies appear, count them. Compare with the first count. Let the flies go outside and wash the jar.  
   *Parent says:* Count the new flies. How many are there now? Is it more than the first count? Why? Now take the jar outside and let the flies go.  
-  *Child mode:* Count the new flies. Is it more than before? Let them go outside.
+  *Child mode:* Count the new flies. Compare with your first count. Let them go outside.
   - Ask: Why are there more flies now than on day 2? (good: The first flies laid eggs.; The eggs grew into flies.; The young became adults.)
   - Note: Tap the jar gently so the flies settle, then count them. Write the number down. A single pair can start hundreds of flies in a month. This shows why animals that lay many eggs and give no care can still thrive. Release the flies outdoors.
   - Think: A fruit fly mother lays many eggs and gives no care. How is her way of having young different from a hen's?
@@ -488,12 +488,12 @@ That evening, Jincy took the notebook home. On the last page, under the hundred 
 ## Challenges
 ### c1 · Save the Nests: protect 100 turtle eggs on a model beach (35 min)
 - **problem:** Olive ridley turtles lay about a hundred eggs in a nest in the sand. Your beach has a high-tide line, a street light and a stray dog. Build a model beach and design a safe nest area so that the most eggs survive until they hatch.
-- **your turn:** Sketch your beach, then build it. Test the tide, the dog and the light. Which eggs did you save? What would you change?
+- **your turn:** Plan your beach first: sketch it, or tell your grown-up where each thing will go. Then build it. Test the tide, the dog and the light. Which eggs did you save? What would you change?
 - **constraints:** In real life the eggs lie about 45 centimetres deep. In your model, one centimetre stands for ten real centimetres.; The nest must be above the high-tide line, which you mark with a line of tape.; The street light must not shine on the nest. Hatchlings go towards bright light, and they should go to the sea.; You may use paper, card, small cups and a tub of sand or dry rice.; To test the tide, pour a jug of water gently from the sea side.
 - **general:** Move the nest above the high-tide line and mark it with a stick.; Build a small fence of card around the nest area to keep out the dog.; Cover the area with a net or card to shade the sand, so it does not get too hot.
 - **creative:** Move all the nests into a fenced hatchery, and keep a record of every nest.; Use a tall card shield around the street light so that it shines inland only.; Dig a channel that leads hatchlings straight to the sea at night.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem with your child. Look at the sketch and list the three dangers: the tide, the dog and the light.  
+  *Parent does:* Read the problem with your child. List the three dangers: the tide, the dog and the light.  
   *Parent says:* Olive ridley turtles lay about a hundred eggs in the sand. Your beach has a high tide, a street light and a stray dog. How could each one harm the eggs? How would you protect them?  
   *Child mode:* A turtle lays eggs on a beach. Name three dangers. How would you protect them?
   - Ask: Which danger do you think is the hardest to deal with? (good: The tide, because the sea is strong.; The light, because turtles follow it.; The dog.)

@@ -723,7 +723,7 @@
      "kid": "Play the rest of the cards. Count your points. The winner has the most.",
      "ask": [
       {
-       "q": "Which kind of newborn needs the most care from her parents?",
+       "q": "Which needs more care from her parents: a ready-born or a helpless-born baby?",
        "good": [
         "The helpless ones.",
         "Babies that cannot see or walk.",
@@ -882,7 +882,7 @@
      "kid": "Read a card. Put it in the row. Turn it over to check.",
      "ask": [
       {
-       "q": "Which do you think waits longer, a mouse or a dog? Why?",
+       "q": "Which waits longer before her young are born, a mouse or a dog? Why?",
        "good": [
         "The dog, because she is bigger.",
         "Bigger animals usually wait longer.",
@@ -950,7 +950,7 @@
     }
    ],
    "safety": "Keep small counters away from children under five, who might put them in their mouths. Dry chana and beans are also a choking risk for small brothers and sisters. If a child is allergic to chana or any bean, use buttons or paper squares.",
-   "record": "For each round, write how many young started, how many were left after danger 1 and how many were left after danger 2. Add up the survivors of three rounds for each family. Then draw one bar for each family.",
+   "record": "For each round, write how many young started, how many were left after danger 1 and how many were left after danger 2. Add up the survivors of three rounds for each family. Then show each family's total as a stack of counters, or draw one bar for each family.",
    "context": "In this experiment you play out three animal families with dice. You find out whether many young with no care leave more survivors than a few young with care.",
    "setup": [
     {
@@ -971,7 +971,7 @@
     },
     {
      "art": "A bar chart on paper with three bars labelled Frog, Hen and Elephant, drawn by a child with crayons.",
-     "caption": "5. Add up the survivors of three rounds and draw a bar for each family."
+     "caption": "5. Add up the survivors of three rounds and make a stack of counters for each family."
     }
    ],
    "flow": [
@@ -979,8 +979,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Read out the three families. Write down your child's guess and their reason before you start.",
-     "say": "A frog starts with 18 eggs. A hen starts with 5 eggs. An elephant has 3 calves, one after the other. Each young one faces two dangers. Which family will have the most young left at the end? Why do you think so?",
-     "kid": "A frog has 18 eggs. A hen has 5. An elephant has 3 calves. Who will have the most young left? Why?",
+     "say": "A frog starts with 18 eggs. A hen starts with 5 eggs. An elephant has 3 calves, one after the other. Each young one faces two dangers, such as a hungry bird or a dry pond. Which family will have the most young left at the end? Why do you think so?",
+     "kid": "Look at the three families. Pick the one you think will have the most young left.",
      "ask": [
       {
        "q": "Why do you think that family will have the most left?",
@@ -999,7 +999,7 @@
      "mins": 4,
      "do": "Put 18 counters on the Frog plate, 5 on the Hen plate and 3 on the Elephant plate. Write the dice rules on paper. With 2 to 4 children, each child plays one family (the parent or the next child takes the third) and everyone else writes down the numbers. If you have only one die, pass it round.",
      "say": "Every young one rolls the die once for each danger. A frog's young live if the die shows a 5 or a 6. A hen's young live if the die shows a 3, 4, 5 or 6. An elephant's young live if the die shows a 2, 3, 4, 5 or 6. The better the care, the more rolls that let a young one live.",
-     "kid": "Roll the die once for every young one. A frog's egg lives if the die shows 5 or 6. A hen's chick lives if the die shows 3 to 6. An elephant's calf lives if the die shows 2 to 6.",
+     "kid": "Roll the die once for every young one. Look at the rule for your family to see if the young one lives.",
      "parent": "The rules are made up to show an idea. A frog gives no care, so only 2 of the 6 numbers let a young one live. A hen guards her chicks, so 4 of 6 do. An elephant guards her calves even more, so 5 of 6 do.",
      "check": {
       "t": "mcq",
@@ -1065,12 +1065,12 @@
     {
      "id": "s6",
      "mins": 7,
-     "do": "Add up the survivors for each family over three rounds. Draw a bar for each family. Ask your child what they thought would happen, what they saw in the numbers and why they think it happened.",
+     "do": "Add up the survivors for each family over three rounds. Make a stack of counters for each family, side by side. Ask your child what they thought would happen, what they saw in the numbers and why they think it happened.",
      "say": "Tell me three things. What did you think would happen? What did you see in the numbers? Why do you think it happened? Was the family with the most young at the start the family with the most at the end?",
-     "kid": "Add up each family's survivors. Draw three bars. What did you think? What did you see? Why?",
+     "kid": "Add up each family's survivors. Make a stack of counters for each family. Compare the three stacks.",
      "ask": [
       {
-       "q": "The elephant started with 3 calves and the frog with 18. Why were their totals close?",
+       "q": "The frog started with 18 young and the elephant with 3. Why might their totals end up close?",
        "good": [
         "Care helps each young one live.",
         "The frog loses most of her eggs.",
@@ -1116,7 +1116,7 @@
      "what": "First guess the order of the lives. Then cut and lay out the string, look for patterns, and work out how many heartbeats an animal has in a lifetime."
     }
    ],
-   "record": "A drawing of the line, with each animal's name and years of life, and the heartbeat sums for a mouse and an elephant.",
+   "record": "A photo of your string line, with each animal's name and years of life on a slip of paper, and the heartbeat sums for a mouse and an elephant.",
    "context": "In this activity you lay out twelve animal lives on the floor, one centimetre of string for each year. You look for patterns and find a surprise in the heartbeats.",
    "setup": [
     {
@@ -1142,7 +1142,7 @@
      "mins": 5,
      "do": "Write the twelve animal names on slips of paper. They are mayfly, honeybee, house mouse, hen, dog, cat, parakeet, Asian elephant, human, giant tortoise, bowhead whale and Greenland shark. Ask your child to put them in order, shortest life first.",
      "say": "Here are twelve animals. Put them in order, from the shortest life to the longest. Which do you think is last? Why?",
-     "kid": "Put the twelve animals in order. Shortest life first. Which lives longest? Why?",
+     "kid": "Put the twelve animals in order. Shortest life first.",
      "ask": [
       {
        "q": "Why did you put that animal last?",
@@ -1160,7 +1160,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Tell your child the rule. One centimetre of string stands for one year. Cut a piece for each animal. Tape the pieces in a row on the floor. With 2 to 4 children, each child cuts the pieces for three or four animals, and one child tapes. With one child, the parent can hold the end of the string while the child cuts.",
-     "say": "Here is the rule. One centimetre of string is one year of life. A mouse lives 2 years, so cut 2 centimetres. An elephant lives 60 years, so cut 60 centimetres. For the mayfly and the honeybee, just draw a dot. Now cut the others and tape them in a row.",
+     "say": "Here is the rule. One centimetre of string is one year of life. A mouse lives 2 years, so cut 2 centimetres. An elephant lives 60 years, so cut 60 centimetres. For the mayfly and the honeybee, a tiny dot of tape is enough, because they live much less than a year. Now cut the others and tape them in a row.",
      "kid": "One centimetre of string is one year. Cut a piece for each animal. Tape them in a row.",
      "parent": "Lengths in centimetres: mouse 2, hen 8, dog 12, cat 15, parakeet 20, elephant 60, human 75, giant tortoise 150, bowhead whale 200, Greenland shark about 270. A mayfly adult is less than a millimetre and a honeybee worker is about one millimetre, so draw a dot. In total, about 8 metres of string. If the room is small, let the long strings curve or coil.",
      "check": {
@@ -1181,7 +1181,7 @@
      "mins": 4,
      "do": "Walk along the line from the shortest to the longest. Ask your child what they notice, and what surprises them.",
      "say": "Look along the line. What do you notice? Which animal's place surprises you? Is it true that bigger animals live longer?",
-     "kid": "Walk along the line. What do you notice? What surprises you?",
+     "kid": "Walk along the line from the shortest to the longest. Look for a surprise.",
      "ask": [
       {
        "q": "Which animals do not fit 'bigger lives longer'?",
@@ -1231,7 +1231,7 @@
      "mins": 3,
      "do": "Ask your child what they think about how long animals live, what they saw on the line and in the sums, and why they think the mouse and the elephant had similar totals.",
      "say": "Tell me three things. What do you think about how long animals live? What did you see on the line and in the sums? Why do you think the mouse and the elephant had similar totals?",
-     "kid": "What do you think about how long animals live? What did you see on the line? Why? Say it out loud.",
+     "kid": "Tell your grown-up what the line and the sums showed you.",
      "parent": "A strong answer says that bigger animals tend to live longer, with exceptions, and that a mouse's heart beats fast and an elephant's slowly, so their lives add up to about the same number of beats. Ask whether this is a law. It is not, since humans and many birds get more.",
      "think": "If a mouse and an elephant each get about the same number of beats, is a mouse's life shorter, or is it just faster?",
      "context": "This is the last step of the Lifespan Line. You say what you found."
@@ -1281,8 +1281,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Write the sixteen names on cards. They are: cow, bat, platypus, human, crow, hen, peacock, sparrow, lime butterfly, dragonfly, cockroach, honeybee, bullfrog, toad, Indian purple frog and caecilian. Ask your child to sort them into four groups. Look up new names, such as platypus or caecilian, in a book or on a phone.",
-     "say": "Here are sixteen animals. Sort them into four groups: mammals, birds, insects and amphibians. Say what each group has in common. If you are not sure about one, put that card to the side.",
-     "kid": "Sort the sixteen animals into four groups. Say how you chose.",
+     "say": "Here are sixteen animals. Sort them into four groups: mammals, birds, insects and amphibians. Mammals feed their young milk. Birds have feathers. Insects have six legs. Amphibians, like frogs, begin life in water. If you are not sure about one, put that card to the side.",
+     "kid": "Sort the sixteen animals into four groups: mammals, birds, insects and amphibians.",
      "ask": [
       {
        "q": "How did you choose the groups?",
@@ -1299,9 +1299,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Draw four columns and four rows on the big sheet. The rows are where life starts, how many young, how much care and whether the body changes shape. Fill in a column for each group with your child. With 2 to 4 children, each child fills in one column, then reads it out for the others to question.",
-     "say": "Let us fill the table. Where does a cow's life start? Inside her body or in an egg? What about a crow? A butterfly? A frog? How many young at a time? Who looks after them? Does the body change shape as they grow?",
-     "kid": "Make four columns. Fill in each group. Where does life start? How many young? Who looks after them? Does the body change?",
+     "do": "Fold the big sheet into four columns, one for each group. Write four questions down the left side: where life starts, how many young, how much care and whether the body changes shape. Fill in a column for each group with your child. With 2 to 4 children, each child fills in one column, then reads it out for the others to question.",
+     "say": "Let us fill the table. Where does a cow's life start? Inside her body or in an egg? What about a crow? A butterfly? A frog? How many young at a time? Who looks after them? Does the body change shape as they grow, like a caterpillar becoming a butterfly?",
+     "kid": "Fill in the table for each group, one question at a time.",
      "ask": [
       {
        "q": "Which group changes body shape the most as it grows up?",
@@ -1339,7 +1339,7 @@
      "mins": 4,
      "do": "Ask your child which group looks after its young the most, what in the table shows it, and why it might be that way. Then ask which group has the fewest young.",
      "say": "Tell me three things. Which group looks after its young the most? What in your table shows it? Why might it be that way?",
-     "kid": "Which group looks after its young the most? What in your table shows it? Why? Say it out loud.",
+     "kid": "Look at your table. Tell your grown-up which group looks after its young the most.",
      "parent": "A strong answer says that mammals and birds usually care for their young a lot and have fewer, while amphibians and many insects have many young and little care. Ask for an exception from the table.",
      "think": "Which group gives its young the least care, and how do their young survive?",
      "context": "This is the last step of the table. You say what the table shows."
@@ -1432,7 +1432,7 @@
      "mins": 5,
      "do": "Compare with real eggs. A frog may lay about 1,000, a rohu fish more than 100,000, and an ocean sunfish up to 300 million. Work out how many katoris each would fill.",
      "say": "A frog may lay about a thousand eggs. A rohu may lay more than a hundred thousand. An ocean sunfish may lay up to three hundred million. How many katoris of rice would each need? Which one would not fit in your kitchen?",
-     "kid": "A frog lays about 1,000 eggs. A rohu lays over 100,000. How many katoris?",
+     "kid": "A frog lays about 1,000 eggs. A rohu lays over 100,000. An ocean sunfish lays up to 300 million. How many katoris would each fill?",
      "parent": "With about 7,000 grains in a katori: a frog's 1,000 eggs is a bit under a katori. A rohu's 100,000 is about 14 katoris. A sunfish's 300 million is about 40,000 katoris, or roughly 6,000 kilograms of rice, which is more than a hundred big sacks. These are estimates. Real egg numbers vary a lot with the size and age of the mother.",
      "think": "Only one or two of the sunfish's three hundred million eggs have to grow up for the species to carry on. What happens to all the others?",
      "context": "In this step you compare the egg numbers of real animals with the rice you counted."
@@ -1470,7 +1470,7 @@
      "what": "Go outside for 15 minutes. Look for the empty skins, shells and egg cases that animals leave behind. Sort and sketch them."
     }
    ],
-   "record": "A sketch of each thing you found, with a note of where, what animal left the skin or shell, and which stage of their life cycle it shows. A tally of how many of each kind you found.",
+   "record": "A photo or sketch of each thing you found, with a note of where, what animal left the skin or shell, and which stage of their life cycle it shows. A tally of how many of each kind you found.",
    "safety": "Look at nests that have eggs or chicks in them, but do not touch them. Touching a nest can make the parents leave. Do not touch anything with live animals. Wash hands afterwards. Wear closed shoes. Look with your eyes first and do not put hands into holes, long grass or under stones, where there may be snakes, scorpions or wasps. Keep clear of beehives and wasp nests. An adult stays with the children.",
    "context": "In this activity you go outside and look for what animals leave behind as they grow, and read their life cycle from it.",
    "setup": [
@@ -1491,9 +1491,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Tell your child what to look for: empty skins on stems and tree trunks, broken eggshells on the ground, and empty snail shells. Go outside with a grown-up.",
-     "say": "Animals leave clues behind as they grow. A nymph sheds her skin when she climbs out of the water. A chick leaves a broken shell. Today we will hunt for these clues. Look, but do not touch any nest.",
-     "kid": "Go outside with a grown-up. Look for skins, shells and egg cases. Do not touch nests.",
+     "do": "Go outside with your child. Tell them what to look for: empty skins on stems and tree trunks, broken eggshells on the ground, and empty snail shells.",
+     "say": "Animals leave clues behind as they grow. Some shed their old skin as they grow bigger. This is called moulting. A young dragonfly climbs out of the water and leaves her old skin on a stem. A chick leaves a broken eggshell. Today we will hunt for these clues. Look, but do not touch any nest.",
+     "kid": "Look for empty skins, shells and egg cases. Do not touch nests.",
      "adult": true,
      "parent": "In the monsoon, look for dragonfly nymph skins on reeds, cicada skins on tree trunks, grasshopper skins on grass, broken eggshells under trees, and snail shells. A cicada skin is brown and papery and has a split down the back. If you find a nest, stay far from it.",
      "context": "This is the first step of the Moult and Shell Hunt. You learn what to look for."
@@ -1501,9 +1501,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Search for 15 minutes. Collect what is safe to pick up. Sketch each find and write where you found it. Keep a tally of how many skins, shells and egg cases you find. With 2 to 4 children, give each child one patch to search, then compare tallies. If you have no garden, use a balcony plant, a roadside tree, or the corners of a window or wall at home.",
+     "do": "Search for 15 minutes. Collect what is safe to pick up. Take a photo of each find, or sketch it, and say where you found it. Keep a tally of how many skins, shells and egg cases you find. With 2 to 4 children, give each child one patch to search, then compare tallies. If you have no garden, use a balcony plant, a roadside tree, or the corners of a window or wall at home.",
      "say": "Look slowly. Look on the underside of leaves and on the stems of plants. What can you find? What animal left it behind? Which stage is it?",
-     "kid": "Look slowly. Collect empty skins and shells. Sketch each one.",
+     "kid": "Look slowly. Collect empty skins and shells. Photograph each one, or sketch it.",
      "adult": true,
      "ask": [
       {
@@ -1521,9 +1521,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Sort your finds. Ask your child which stage of the life cycle each find shows, and which animals have no such stage.",
-     "say": "Look at the empty skin. The animal climbed out of the skin as a bigger animal. Look at the eggshell. A chick used to be in there. What does each find tell you about the life cycle?",
-     "kid": "What does each find tell you? Which stage of the life cycle is it?",
+     "do": "Lay out your finds in groups: skins, eggshells and snail shells. Ask your child which stage of life each find shows.",
+     "say": "Look at an empty skin. The animal climbed out of her old skin, bigger than before. Look at an eggshell. A chick used to be in there. What does each find tell you about the life cycle?",
+     "kid": "Sort your finds into groups. Tell what each group shows.",
      "parent": "A hard outer skin cannot stretch, so an insect must shed the old skin to grow. A mammal's skin stretches. A snake sheds her whole skin from time to time as she grows.",
      "think": "Why must a nymph or a snake shed her skin to grow, when a mammal does not?",
      "context": "In this step you read each find as part of an animal's life cycle."
@@ -1595,9 +1595,9 @@
      "what": "Look each day from day 10. When new flies hatch, count them, then let them out outdoors and wash the jar."
     }
    ],
-   "record": "A drawing for each day you looked, with a count of flies on day 2 and of the new flies, and the day you first saw maggots, pupae and new flies.",
+   "record": "A photo or short note for each day you looked, with a count of flies on day 2 and of the new flies, and the day you first saw maggots, pupae and new flies.",
    "safety": "Fruit flies do not bite, but keep the jar away from food, wash your hands afterwards and do not eat anything from it. Let the flies go outside at the end. If grey or green mould grows, do not sniff it. An adult opens the jar, and a child with asthma or a mould allergy keeps away.",
-   "context": "In this project you watch a whole life cycle with complete metamorphosis in about twelve days, using a jar of fruit and the small flies that come to it.",
+   "context": "In this project you watch a whole life cycle with complete metamorphosis in about twelve days, using a jar of fruit and the small flies that come to it. You will find out where the new flies come from.",
    "setup": [
     {
      "art": "A glass jar with a slice of banana inside on a kitchen shelf, with a few tiny flies near it.",
@@ -1625,9 +1625,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Check the jar. If a few small flies are inside, cover the jar with cloth and a rubber band. Count the flies and draw one. Tomorrow the grown flies will be let out, so the flies you count later are new.",
-     "say": "Look in the jar. Small flies have come into the jar. Count them. Draw one. Where did they come from? How did they find the banana?",
-     "kid": "Cover the jar with cloth. Count the flies. Draw one.",
+     "do": "Check the jar. If a few small flies are inside, cover the jar with cloth and a rubber band. Count the flies. Look closely at one with a magnifying glass. You will let these grown flies out on day 3, so flies you see much later are new.",
+     "say": "Look in the jar. Small flies have come into the jar. Count them. Look closely at one. What do you see on its body?",
+     "kid": "Cover the jar with cloth. Count the flies. Look closely at one.",
      "ask": [
       {
        "q": "How did the flies find the banana?",
@@ -1644,8 +1644,8 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "On day 3, let the grown flies out. On day 5, find the tiny white maggots with a magnifying glass. Draw them. On day 7, find brown capsules.",
-     "say": "Look closely at the banana. Do you see tiny white worms? They are the larvae. On day 7, look for brown capsules. These are pupae. What is happening inside?",
+     "do": "On day 3, let the grown flies out. On day 5, find the tiny white maggots with a magnifying glass. Take a photo, or draw them. On day 7, find brown capsules.",
+     "say": "Look closely at the banana. Do you see tiny white worms? They are the larvae. On day 7, look for brown capsules. These are pupae, cases where the body changes. What is happening inside?",
      "kid": "Let the grown flies out on day 3. Look for white maggots on day 5. Look for brown capsules on day 7.",
      "ask": [
       {
@@ -1665,7 +1665,7 @@
      "mins": 10,
      "do": "From day 10, look each day. On the day new flies appear, count them. Compare with the first count. Let the flies go outside and wash the jar.",
      "say": "Count the new flies. How many are there now? Is it more than the first count? Why? Now take the jar outside and let the flies go.",
-     "kid": "Count the new flies. Is it more than before? Let them go outside.",
+     "kid": "Count the new flies. Compare with your first count. Let them go outside.",
      "ask": [
       {
        "q": "Why are there more flies now than on day 2?",
@@ -1697,7 +1697,7 @@
     "To test the tide, pour a jug of water gently from the sea side."
    ],
    "materials": [
-    "a plastic tub or a deep tray with dry sand or rice, about 3 centimetres deep",
+    "a plastic tub or a deep tray with dry sand or rice, about 6 centimetres deep",
     "20 small pebbles or beans for the eggs",
     "card, paper cups, tape and a pencil",
     "a small torch for the street light",
@@ -1713,7 +1713,7 @@
     "Use a tall card shield around the street light so that it shines inland only.",
     "Dig a channel that leads hatchlings straight to the sea at night."
    ],
-   "your_turn": "Sketch your beach, then build it. Test the tide, the dog and the light. Which eggs did you save? What would you change?",
+   "your_turn": "Plan your beach first: sketch it, or tell your grown-up where each thing will go. Then build it. Test the tide, the dog and the light. Which eggs did you save? What would you change?",
    "context": "This is a design challenge about protecting animals' nests. It uses what you learned about eggs, incubation and warm sand.",
    "setup": [
     {
@@ -1733,7 +1733,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem with your child. Look at the sketch and list the three dangers: the tide, the dog and the light.",
+     "do": "Read the problem with your child. List the three dangers: the tide, the dog and the light.",
      "say": "Olive ridley turtles lay about a hundred eggs in the sand. Your beach has a high tide, a street light and a stray dog. How could each one harm the eggs? How would you protect them?",
      "kid": "A turtle lays eggs on a beach. Name three dangers. How would you protect them?",
      "ask": [

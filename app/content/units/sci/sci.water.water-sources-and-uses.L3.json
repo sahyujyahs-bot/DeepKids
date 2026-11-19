@@ -761,7 +761,7 @@
      "mins": 2,
      "do": "1. Put the board in the middle. 2. Give each player a raindrop counter on square 1. 3. Have a dice ready, or six paper slips numbered 1 to 6 in a bowl.",
      "say": "You are each a raindrop. You have just fallen out of a cloud. Your job is to reach the village well. But the well only gets water from under the ground.",
-     "kid": "You are a raindrop! You just fell from a cloud. Your goal is the village well. Put your drop on square 1.",
+     "kid": "Put your raindrop counter on square 1. Your goal is the village well.",
      "context": "This is the first step of Drop's Journey. It is a board game where each player is a raindrop trying to reach a well."
     },
     {
@@ -769,7 +769,7 @@
      "mins": 3,
      "do": "Play one practice turn together. Pretend you land on square 3, the tarred road.",
      "say": "Let's practise. You landed on a tarred road. The square says go back 2. Why?",
-     "kid": "Practice turn. You land on a tarred road. The square says go back 2. Why do you think it sends you back?",
+     "kid": "Practice turn. You land on a tarred road. Move your counter back 2 squares.",
      "check": {
       "t": "mcq",
       "q": "A raindrop lands on a tarred road. Why is that bad news for reaching the well?",
@@ -797,7 +797,7 @@
        ]
       },
       {
-       "q": "Why does the tanka square send you forward?",
+       "q": "Why does the tanka square, the one with a covered rainwater tank, send you forward?",
        "good": [
         "The tanka catches rain from a clean roof and stores it.",
         "The water is kept, not lost."
@@ -914,7 +914,7 @@
      "mins": 2,
      "do": "1. Lay out the three mats. 2. Shuffle the 20 water cards and put them face down. 3. Put the drop tokens in a bowl.",
      "say": "Every card is some water. For each one, we decide. Can we drink it as it is? Must we make it safe first? Or should we never drink it at all?",
-     "kid": "Lay out the three mats. Mix up the cards. For each water card, choose a mat. Drink it, make it safe first, or never.",
+     "kid": "Lay out the three mats. Mix up the cards. Put the drop tokens in a bowl.",
      "context": "This is the first step of Drink, Boil or Never? It is a card game about deciding when water is safe to drink."
     },
     {
@@ -922,7 +922,7 @@
      "mins": 3,
      "do": "Play a practice card together. Use 'Water from a stream in the Nilgiri hills, clear and very cold.' Then put the card back.",
      "say": "This stream water is clear and cold. Is it safe as it is?",
-     "kid": "Practice card: clear, cold stream water. Which mat?",
+     "kid": "Practice card. Talk it over with your grown-up, then pick a mat.",
      "check": {
       "t": "mcq",
       "q": "Water from a stream in the Nilgiri hills, clear and very cold. Which mat?",
@@ -943,7 +943,7 @@
      "kid": "Take a card. Put it on a mat. Say why. A good reason wins a 💧 token.",
      "ask": [
       {
-       "q": "Why can't we just boil the water from the well with arsenic?",
+       "q": "Some well water has arsenic, a poison from the rock. Why can't boiling make it safe?",
        "good": [
         "Boiling kills germs but does not take out arsenic.",
         "The arsenic is dissolved. It stays in the pot."
@@ -957,7 +957,7 @@
      "mins": 3,
      "do": "Count the tokens. Then look at the NEVER mat together.",
      "say": "Look at the NEVER pile. Which of these waters looked clear? Why can't boiling save them?",
-     "kid": "Count your tokens. Look at the NEVER pile. Which ones looked clear? Why can't we just boil them?",
+     "kid": "Count your tokens. Then look at the NEVER pile. Which waters looked clear?",
      "think": "If you can't see what is in water, how can anyone ever know it is safe?"
     }
    ],
@@ -1694,15 +1694,15 @@
      "what": "Fill the tubs, pour the same mug of water on four grounds, and time how long each puddle lasts. Fill in the table."
     }
    ],
-   "record": "Fill in the table. Then draw the four grounds, with arrows showing where the water went.",
-   "context": "This is an experiment about what rain does when it lands. You pour the same mug of 'rain' on four kinds of ground, and watch where it goes.",
+   "record": "Fill in the table. Then show where the water went on each ground. Draw it with arrows, or tell it to your grown-up.",
+   "context": "This experiment finds out what rain does when it lands. You pour the same mug of 'rain' on four kinds of ground. You will see which ground lets rain soak down to refill wells, and which does not.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Do this in the bathroom or on a balcony, where spills do not matter. 2. Fill one tub with soil, one with sand and one with gravel, each 5 cm deep. Press each flat. 3. Put the tile or plate on a tray. That is the fourth ground. 4. Ask your child to guess which ground will soak up the water fastest, and why.",
      "say": "Rain is about to fall on these four grounds. Which one do you think will drink it up fastest? Which one will let it run away?",
-     "kid": "Look at the four grounds: soil, sand, gravel and a tile. Guess! Which one drinks water fastest? Which one lets it run away?",
+     "kid": "Look at the four grounds: soil, sand, gravel and a tile. Guess which one drinks the water fastest.",
      "adult": true,
      "ask": [
       {
@@ -1760,7 +1760,7 @@
      "mins": 4,
      "do": "Look again at the puddle on the tile after an hour or two, or the next morning.",
      "say": "The puddle on the tile is smaller now, or gone. Nothing soaked in. So where did the water go?",
-     "kid": "Look at the puddle on the tile again later. Is it smaller, or gone? Where did the water go?",
+     "kid": "Look at the puddle on the tile again later. Is it smaller, or gone?",
      "check": {
       "t": "mcq",
       "q": "A puddle on a tile slowly gets smaller. Where does its water go?",
@@ -1777,9 +1777,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Talk about the whole street, and the whole city.",
-     "say": "Think of a whole city covered in cement and tar. Where does the monsoon rain go?",
-     "kid": "Think of a whole city covered in cement. Where does all the rain go? What happens to the wells?",
+     "do": "Tell your child that cement and tar are hard ground, like the tile. Then talk about a whole city covered in them.",
+     "say": "Think of a whole city covered in cement and tar. Where does the monsoon rain go? What will happen to the wells?",
+     "kid": "A city's roads and roofs are hard ground, like the tile. Tell your grown-up what you think happens to the rain.",
      "think": "Why do cities such as Chennai and Mumbai flood in the monsoon, and then run short of water in summer?"
     },
     {
@@ -1879,7 +1879,7 @@
      "what": "Build the jar well. Pour rain, pump water out, and mark the level each time."
     }
    ],
-   "record": "Fill in the table. Draw the jar with all its layers and the water level marks.",
+   "record": "Fill in the table. Then show the jar and its water level marks. Draw it, or point and tell your grown-up what each layer did.",
    "context": "This is an experiment that builds a model of the ground under a village, in a clear jar. You can see how rain becomes groundwater, and how a well pulls it up.",
    "flow": [
     {
@@ -2057,7 +2057,7 @@
      "what": "Four hours later, measure all three again, feel the outsides, and fill in the table."
     }
    ],
-   "record": "Fill in the table. Draw the matka and show, with arrows, where the water goes and where the heat goes.",
+   "record": "Fill in the table. Then show where the water goes and where the heat goes. Draw arrows on a matka, or tell it to your grown-up.",
    "context": "This is an experiment that tests why water in a clay matka stays cool on a hot day, without a fridge.",
    "flow": [
     {
@@ -2075,7 +2075,7 @@
      "wait": "Leave them for about 4 hours.",
      "do": "1. After about four hours, measure the water in each again. 2. Feel the outside of the matka and of the wrapped bottle.",
      "say": "Feel the outside of the matka. Is it dry or damp? Where did that water come from?",
-     "kid": "Measure each one again. Now touch the outside of the matka. Is it damp? How did water get outside?",
+     "kid": "Measure each one again. Now touch the outside of the matka and of the wrapped bottle.",
      "ask": [
       {
        "q": "Why is the outside of the matka damp?",
@@ -2231,7 +2231,7 @@
      "what": "A few hours later, look at what each spoonful left behind."
     }
    ],
-   "record": "Fill in the table. Draw the plate, showing what each spot left behind.",
+   "record": "Fill in the table. Then show what each spot left behind. Draw the plate, or take a photo of it.",
    "context": "This experiment shows that water can hide things you cannot see. You dry spoonfuls of clear-looking water and look at what they leave behind.",
    "flow": [
     {
@@ -2271,7 +2271,7 @@
      "mins": 6,
      "do": "Look closely at the three dry spots. Use a magnifying glass if you have one.",
      "say": "What did each spot leave behind? Glass B looked perfectly clear. What was hiding in it?",
-     "kid": "Look at the dry spots. What is left? Glass B looked clear. What was hiding in it?",
+     "kid": "Look at the three dry spots. Which ones left something behind? Use a magnifying glass if you have one.",
      "check": {
       "t": "mcq",
       "q": "Glass A and glass B looked exactly the same. Glass B left a white ring when it dried. What does this show?",
@@ -2360,15 +2360,15 @@
      "what": "Follow the pipe from the kitchen tap back to the source. Draw it as a map."
     }
    ],
-   "record": "Draw a map of your water's journey. Start at the tap, and go back as far as you can. Add arrows. Then add where the used water goes.",
-   "context": "This activity traces the water in your home backwards, from the tap to wherever it really comes from. You draw the journey as a map.",
+   "record": "Show your water's journey. Lay the slips in a line, or draw a map with arrows. Start at the tap, and go back as far as you can. Then add where the used water goes.",
+   "context": "This activity follows the water in your home backwards, from the tap to wherever it really comes from. You will find out where your water starts, and where it goes after you use it.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "Stand at the kitchen tap with your child. Turn it on and fill a glass.",
      "say": "Where does this water come from? The tap does not make it. It only lets out water that is already in the pipe. Let's find out what is behind the pipe.",
-     "kid": "Fill a glass at the kitchen tap. Where did this water come from? The tap does not make water. Let's follow the pipe back!",
+     "kid": "Fill a glass at the kitchen tap. Then follow the pipe back to find where the water starts.",
      "ask": [
       {
        "q": "Where do you think the water was this morning?",
@@ -2384,9 +2384,9 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "1. Follow the pipe as far as you can see it. 2. Look for an overhead tank on the roof, a sump underground, a motor, a water meter, a borewell or a handpump. 3. Your child draws each thing on the map, with arrows.",
+     "do": "1. Follow the pipe as far as you can see it. 2. Look for an overhead tank on the roof, a sump underground, a motor, a water meter, a borewell or a handpump. 3. Your child tears paper into slips and writes each thing on a slip. Then they lay the slips in order, from the tap back to the start.",
      "say": "Follow the pipe with your eyes. Where does it go into the wall? Where does it come out? Let's find the tank.",
-     "kid": "Follow the pipe. Where does it go? Look for a tank, a motor or a meter. Draw each one on your map, with arrows.",
+     "kid": "Follow the pipe. Where does it go? Look for a tank, a motor or a meter. Write each one on a paper slip.",
      "adult": true,
      "parent": "In a flat, look for the overhead tank on the roof and a sump at ground level. In a house, there may be a borewell with a motor. If you are not sure, ask the building caretaker or a plumber. In a village, the source may be a handpump, a well or a shared tap."
     },
@@ -2411,9 +2411,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Add where the water goes after you use it: the sink drain, the sewer, a soak pit or a septic tank.",
+     "do": "Find where the water goes after you use it: the sink drain, the sewer, a soak pit or a septic tank. Add a slip for it at the other end.",
      "say": "And after we use it? Where does it go when it goes down the drain?",
-     "kid": "Now add the other end. Where does the water go after you use it? Draw the drain.",
+     "kid": "Now add the other end. Where does the water go after you use it? Write it on a slip.",
      "think": "Is the water's journey a line from the river to the drain, or is it a circle?"
     }
    ],
@@ -2493,7 +2493,7 @@
      "what": "Read the gauge for the last time. Add up the rain and draw a line chart."
     }
    ],
-   "record": "Every day at the same time, write the date, the rain in millimetres, and draw the sky. At the end of the week, add up the total and draw a line chart.",
+   "record": "Every day at the same time, write the date, the rain in millimetres, and one word for the sky. At the end of the week, add up the total. Show the days as a line chart, or say which day was wettest.",
    "context": "This is a week-long activity. You make a rain gauge, a tool that measures rain, and keep a diary of the sky, just like India's weather scientists.",
    "flow": [
     {
@@ -2516,9 +2516,9 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "Every morning for six days, at the same time: 1. Read the water level against the ruler. 2. Write it in the sky diary, in millimetres. 3. Draw the sky. 4. Tip water out until the level is back at the 0 line.",
+     "do": "Every morning for six days, at the same time: 1. Read the water level against the ruler. 2. Write it in the sky diary, in millimetres. 3. Write one word for the sky: sunny, cloudy or rainy. 4. Tip water out until the level is back at the 0 line.",
      "say": "Weather scientists all over India do exactly this, every morning at the same time. Today you are one of them.",
-     "kid": "Every morning, read your gauge. Write the number. Draw the sky. Then tip water out until it is back at the 0 line.",
+     "kid": "Every morning, read your gauge. Write the number. Write one word for the sky. Then tip water out until it is back at the 0 line.",
      "ask": [
       {
        "q": "Why do we read it at the same time every day?",
@@ -2565,9 +2565,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "At the end, add up all the readings. Draw a line chart of the days.",
+     "do": "At the end, add up all the readings. Then put the days in order, from the wettest to the driest.",
      "say": "How much rain fell altogether? Which day was the wettest?",
-     "kid": "Add up all your readings. Which day had the most rain? Draw a line chart.",
+     "kid": "Add up all your readings. Which day had the most rain? Which had the least?",
      "check": {
       "t": "mcq",
       "q": "Your rain gauge shows 0 millimetres, but the soil outside is wet. What is the best explanation?",
@@ -2628,15 +2628,15 @@
      "what": "After 24 hours, add up the litres. Draw a bar chart. Choose one way to use less."
     }
    ],
-   "record": "Fill in the tally chart for one whole day. Then multiply each tally by its litres, add up the total, and draw a bar chart.",
-   "context": "In this two-day activity your child counts how many litres of water the whole family uses in one day.",
+   "record": "Fill in the tally chart for one whole day. Then multiply each tally by its litres and add up the total. Show the jobs as a bar chart. Draw it, or build it with piles of coins.",
+   "context": "In this two-day activity your child counts how many litres of water the whole family uses in one day. You will find out which job uses the most water at home.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "Show the 1-litre bottle. Ask your child to guess how many of these the whole family uses in one day. Write the guess down and keep it.",
      "say": "This bottle holds one litre. How many of these bottles of water do you think our family uses in a whole day?",
-     "kid": "This bottle holds 1 litre. Guess! How many bottles of water does your family use in a day? Write it down.",
+     "kid": "Guess how many of these bottles your family uses in a day. Write your guess down.",
      "context": "This is the first step of the Family Water Count. You start by guessing how much water your family uses in a day."
     },
     {
@@ -2666,9 +2666,9 @@
      "id": "s4",
      "wait": "Count for 24 hours.",
      "mins": 10,
-     "do": "1. After 24 hours, multiply each row: times, multiplied by litres each time. 2. Add up all the rows. 3. Draw a bar chart, with one bar for each job.",
+     "do": "1. After 24 hours, multiply each row: times, multiplied by litres each time. 2. Add up all the rows. 3. Make a bar for each job: a pile of coins or small objects, one for every 10 litres.",
      "say": "Let's find out the real number. Which job used the most water? How close was your guess?",
-     "kid": "Time to add up! Times multiplied by litres, for each row. Then add all the rows. Draw a bar for each job.",
+     "kid": "Time to add up! Times multiplied by litres, for each row. Then add all the rows. Make a pile for each job.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: one family's water in one day",
@@ -2846,7 +2846,7 @@
      "what": "Walk in a park, a field or a garden. Look for signs of hidden water. Record what you find."
     }
    ],
-   "record": "Draw a map of your walk. Mark every sign of hidden water you found, and say why you think it is a sign.",
+   "record": "Show every sign of hidden water you found, and say why you think it is a sign. Draw a map of your walk, or put your photos in order.",
    "context": "If you have a park, a field or a garden nearby, try this walk. About 1,500 years ago, the scholar Varahamihira of Ujjain wrote about signs on the land that show where water hides underground. On this walk you look for signs like his.",
    "flow": [
     {
@@ -2862,7 +2862,7 @@
      "mins": 17,
      "do": "Walk slowly. Look for plants that stay green when the plants around them are dry. Look for damp or dark soil, moss and termite mounds. Look for low places where puddles form after rain.",
      "say": "Why would one tree stay green when all the grass around that tree is brown? What might the tree's roots have found?",
-     "kid": "Look for green plants in dry places. Look for damp soil and moss. Look for termite mounds. Mark each one on your map.",
+     "kid": "Look for green plants in dry places. Look for damp soil and moss. Look for termite mounds. Tell your grown-up each one you find, or take a photo.",
      "adult": true,
      "parent": "In the dry months the top soil dries out, and a shallow-rooted plant cannot reach water and turns brown. Trees such as neem, jamun and banyan send roots deep, down to damp soil, so they can keep their leaves green. Termites dry out easily, so they live where they can reach damp soil, and they build mounds from wet soil. Moss and dark soil mean water is near the surface. None of these signs is certain. Water could also come from a leaking pipe or a garden hose.",
      "ask": [
@@ -2879,9 +2879,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Back home, look at the map together. Talk about how you could test one sign fairly.",
+     "do": "Back home, look at your notes and photos together. Talk about how you could test one sign fairly.",
      "say": "Varahamihira's signs often work, but not always. How could we test one sign properly, to see if it is true?",
-     "kid": "Look at your map. Pick one sign. How could you test it, to check if it is true?",
+     "kid": "Look at what you found. Pick one sign. How could you test it, to check if it is true?",
      "check": {
       "t": "mcq",
       "q": "A neem tree stays green in a dry field. What is the best way to test whether this is a sign of water?",
@@ -2948,7 +2948,7 @@
      "mins": 10,
      "do": "1. Your child carries the two 1-litre bottles to the end of the path, about 50 steps, and back. 2. Time the trip.",
      "say": "Suppose there is no tap. Every litre we used this morning has to be carried from a well. Let's carry two litres there and back.",
-     "kid": "Carry 2 bottles to the end of the path and back. Time it. Now think what it would be like with no taps at all.",
+     "kid": "Carry 2 bottles to the end of the path and back. Time it. Could you carry water like this all day?",
      "adult": true,
      "ask": [
       {
@@ -3045,8 +3045,8 @@
      "what": "Work out how much rain your real roof could catch. Draw a plan for your home."
     }
    ],
-   "record": "Write how much 'rain' you poured and how much the tank caught. Write how deep the real rain in the bucket was after 10 minutes. Draw your home's rain-catching plan.",
-   "context": "In this 3-day project, you build a model house that catches rain from its roof, like the tankas of the Thar desert, or the roof tanks that Tamil Nadu made compulsory for buildings in 2003.",
+   "record": "Write how much 'rain' you poured and how much the tank caught. Write how deep the real rain in the bucket was after 10 minutes. Show your home's rain-catching plan. Draw it, or tell it to your grown-up.",
+   "context": "In this 3-day project, you build a model house that catches rain from its roof. You will find out how much rain a roof can really catch. Tankas, the covered rainwater tanks of the Thar desert, work this way. So do the roof tanks Tamil Nadu made compulsory for buildings in 2003.",
    "flow": [
     {
      "id": "s1",
@@ -3061,7 +3061,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Measure 500 millilitres of water in the measuring cup. 2. Pour it gently over the roof from the watering can, like rain. 3. Measure how much reached the tank.",
-     "say": "We poured 500 millilitres of rain. How much did the tank catch? Where did the rest go?",
+     "say": "We poured 500 millilitres of rain. How much did the tank catch?",
      "kid": "Measure 500 millilitres of water. Sprinkle it over the roof, like rain. How much reached the tank?",
      "ask": [
       {
@@ -3097,7 +3097,7 @@
      "mins": 7,
      "do": "Improve the design. Try a steeper roof, a wider gutter, or a funnel at the tank. Pour 500 millilitres again.",
      "say": "Engineers always try to do better. How could we catch more?",
-     "kid": "Can you catch more? Make the roof steeper, or the gutter wider. Try again with 500 millilitres."
+     "kid": "Make the roof steeper, or the gutter wider. Pour 500 millilitres again. Did the tank catch more?"
     },
     {
      "id": "s4",
@@ -3111,9 +3111,9 @@
     {
      "id": "s5",
      "mins": 20,
-     "do": "1. Measure or estimate the area of your roof in square metres. 2. Use the rule: 1 millimetre of rain on 1 square metre gives 1 litre. 3. Draw a plan for catching rain at home.",
-     "say": "Here's a rule scientists use. One millimetre of rain on one square metre of roof gives one litre of water. Our roof is about this big. So how much could a rainy day give us?",
-     "kid": "Here is a rule. 1 millimetre of rain on 1 square metre makes 1 litre. How much could your roof catch? Draw a plan.",
+     "do": "1. Measure or estimate the area of your roof in square metres. 2. Use the rule: 1 millimetre of rain on 1 square metre gives 1 litre. 3. Plan where a gutter and a tank would go on your home.",
+     "say": "Here's a rule scientists use. One millimetre of rain on one square metre of roof gives one litre of water. Let's use the size of our own roof. So how much could a rainy day give us?",
+     "kid": "Here is a rule. 1 millimetre of rain on 1 square metre makes 1 litre. How much could your roof catch? Tell your grown-up where a gutter and a tank would go.",
      "check": {
       "t": "mcq",
       "q": "A roof is 50 square metres. 10 millimetres of rain fall on it. About how much water could it catch?",
@@ -3170,7 +3170,7 @@
     "Stand the wrapped bottle in a shallow bowl of water, so the cloth keeps soaking water up.",
     "Hang the wrapped bottle in a window where the wind blows through, like the wet khus grass screens, called tatti, hung on windows in hot, dry summers."
    ],
-   "your_turn": "Now invent your own cooler. Draw it, build it, and measure it against a plain bottle after three hours. Did yours win?",
+   "your_turn": "Now invent your own cooler. Build it, and measure it against a plain bottle after three hours. Did yours win?",
    "context": "This is an engineering challenge. You must keep water cool on a hot day without any fridge or electricity, using the science of evaporation.",
    "flow": [
     {
@@ -3186,7 +3186,7 @@
      "mins": 7,
      "do": "List three ideas together before building anything.",
      "say": "Think of the Cool Matka Test. The matka was damp on the outside, and its water stayed coolest. What made it cool? How can we use that trick?",
-     "kid": "Think like an engineer. Draw three ideas first. Think of the Cool Matka Test: what made the matka cool?"
+     "kid": "Think like an engineer. Tell your grown-up three ideas first. Think of the Cool Matka Test: what made the matka cool?"
     },
     {
      "id": "s3",
@@ -3256,7 +3256,7 @@
     "Fog nets: in some dry hills near the sea, in Chile and Morocco, fine mesh nets catch drops from fog.",
     "A johad, a curved earth wall, to slow rain so it soaks into the ground and refills the well. Remember: the well water here is salty, so this water is for animals and fields."
    ],
-   "your_turn": "Draw your design and label every part. How much rain must it catch to last a whole year? Build a model in a tray of sand and test it with a cup of 'rain'.",
+   "your_turn": "Say what each part of your design does. How much rain must it catch to last a whole year? Build a model in a tray of sand and test it with a cup of 'rain'.",
    "context": "This is a design challenge. You plan how a family in the Thar desert, where it rains on only a few days a year, can have clean water all year round.",
    "flow": [
     {
@@ -3288,9 +3288,9 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Draw a design and label it. 2. Build a model in the tray of sand. Sink a cup into the sand as the tank. Smooth foil around it as the sloping courtyard. 3. Pour a cup of 'rain' over it.",
+     "do": "1. Draw a design and label it, or tell your grown-up what each part does. 2. Build a model in the tray of sand. Sink a cup into the sand as the tank. Smooth foil around it as the sloping courtyard. 3. Pour a cup of 'rain' over it.",
      "say": "Draw first, then build. Smooth the foil so it slopes towards the tank. Then let's make it rain.",
-     "kid": "Draw your design. Then build it in the sand tray. Sink a cup for the tank. Make a sloping foil courtyard. Pour some rain!",
+     "kid": "Draw your design, or tell your grown-up what each part does. Then build it in the sand tray. Sink a cup for the tank. Make a sloping foil courtyard. Pour some rain!",
      "adult": true
     },
     {

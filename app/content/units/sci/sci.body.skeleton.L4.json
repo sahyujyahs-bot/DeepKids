@@ -744,7 +744,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Play the last six cards. For each one, also look for the partner muscle that undoes the movement.",
-     "say": "Six more cards. After each one, undo the movement slowly. Where is the muscle that pulls you back?",
+     "say": "Six more cards. After each one, undo the movement slowly and feel for the muscle that pulls you back.",
      "kid": "Play six more cards. Find the muscle that undoes each movement.",
      "ask": [
       {
@@ -762,7 +762,7 @@
      "mins": 2,
      "do": "Count the points. Talk about the question below.",
      "say": "The muscles that close your fist are in your forearm, not in your fingers. How does their pull reach your fingers?",
-     "kid": "Count your points. How does a forearm muscle move a finger?",
+     "kid": "Count your points. Close your fist and feel your forearm.",
      "check": {
       "t": "mcq",
       "q": "A muscle at the front of a bone bends a joint. Where is the muscle that straightens it?",
@@ -829,7 +829,7 @@
     }
    ],
    "record": "Draw a table with three rows, for 25, 15 and 5 centimetres. For each place, write the length of the stretched band and the height of the loop, for both tries. Write the length of the loose band above the table.",
-   "context": "In this experiment a ruler is a model forearm. You lift it with a rubber band tied at three places. You measure how hard and how far the band has to pull.",
+   "context": "In this experiment a ruler is a model forearm. You lift it with a rubber band tied at three places. You measure how hard and how far the band has to pull. You will find out why your own muscles are tied close to a joint.",
    "setup": [
     {
      "art": "A wooden ruler lying flat on a table with a stack of five coins taped on top at the 30 centimetre end, and a child's finger pressing down on the 0 end.",
@@ -884,7 +884,7 @@
      "mins": 3,
      "do": "Show your child the ruler, the coins and the rubber band. Explain the three tying places. Ask for both guesses and the reasons, and write them down.",
      "say": "This ruler is a forearm. The coins are a load in the hand. The rubber band is the muscle. Where will the band stretch most: at 5, 15 or 25 centimetres? Why do you think so?",
-     "kid": "The ruler is an arm. The band is a muscle. Where will the band stretch most? Why?",
+     "kid": "Make your guess. Tell your grown-up why you think so.",
      "ask": [
       {
        "q": "At which place will you have to lift the band the shortest distance? Why?",
@@ -948,7 +948,7 @@
      "id": "s6",
      "mins": 5,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Look at your numbers. Say what you thought would happen, what you saw, and why it happened. The coins never changed. So why did the band stretch more at one place?",
+     "say": "Look at your numbers. The coins never changed. So why did the band stretch more at one place?",
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -974,7 +974,7 @@
      "id": "s7",
      "mins": 4,
      "do": "Your child bends one elbow and presses two fingers of the other hand into the bend. They bend and straighten the arm slowly and feel the cord there. Ask which tying place on the ruler is most like their own arm.",
-     "say": "Press two fingers into the bend of your elbow. Bend your arm slowly. Can you feel a tight cord? That is the tendon of your biceps. How far is it from the bend?",
+     "say": "Press two fingers into the bend of your elbow. Bend your arm slowly. Can you feel a tight cord? That is the tendon of your biceps. Which place on the ruler is most like it: 5, 15 or 25 centimetres?",
      "kid": "Press into the bend of your elbow. Bend your arm. Feel the cord.",
      "think": "Your muscle is tied like the band at 5 centimetres. What does that tell you about how hard it pulls?",
      "parent": "The biceps tendon joins the forearm about 3 centimetres from a child's elbow, and about 4 from a grown-up's. That is like the 5 centimetre place on the ruler, or closer. So the muscle pulls several times harder than the load in the hand.",
@@ -1095,7 +1095,7 @@
      "mins": 3,
      "do": "Day 1. Show your child the plates and the newspaper. Explain the test. Ask for the guess and the reason, and write both down.",
      "say": "We will freeze two slabs of ice. One is plain. One has torn newspaper inside. Tomorrow we drop them. Which will break first, and why do you think so?",
-     "kid": "One slab is plain ice. One has paper inside. Which breaks first? Why?",
+     "kid": "Look at both plates. Tell your grown-up which slab you think breaks first.",
      "parent": "Do not correct the guess. Some children expect the paper to make the ice weaker, because wet paper is weak.",
      "context": "This is the first step of the Paper Ice Test. You guess which slab of ice will break first, before you make them."
     },
@@ -1113,7 +1113,7 @@
      "mins": 4,
      "do": "Day 2. Take both plates out. Dip the bottom of each plate in tap water for about 20 seconds. Slide the slabs out onto the towel. Let your child hold each slab in the towel and look at it against the light.",
      "say": "Here are yesterday's slabs. Hold each one in the towel. Look through it at the window. What do you notice about each?",
-     "kid": "Take the slabs out. Hold each in the towel. What do you notice?",
+     "kid": "Hold each slab in the towel. Look through it at the window.",
      "wait": "Freeze the plates for at least 8 hours, until the next day",
      "adult": true,
      "context": "In this step of the Paper Ice Test you take the two frozen slabs out of their plates."
@@ -1143,7 +1143,7 @@
      "id": "s5",
      "mins": 5,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below. Then dry the floor.",
-     "say": "Look at your table. Say what you thought would happen, what you saw, and why it happened. Look at the broken edge of each slab. What is different?",
+     "say": "Look at your table. Look at the broken edge of each slab. What is different?",
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -1234,7 +1234,7 @@
      "kid": "Find each bone on yourself. Then stick the slip on the model.",
      "ask": [
       {
-       "q": "What do you notice about the forearm when you turn your palm up and down?",
+       "q": "Feel your forearm and turn your palm up and down. What do you notice?",
        "good": [
         "There are two bones.",
         "One bone seems to roll over the other."
@@ -1391,7 +1391,7 @@
      "what": "Feel which arm muscle goes hard when you lift and when you press. Then try to push a matchbox with a string."
     }
    ],
-   "record": "Draw your arm twice. In the first drawing you are lifting, and in the second you are pressing down. Colour the muscle that was hard in each drawing.",
+   "record": "Say or write it. When you lifted, which muscle was hard: the front or the back of your upper arm? Which was hard when you pressed down? You can also draw your arm twice and colour that muscle.",
    "context": "In this activity you lift up under a table and then press down on top of it. You feel which muscle of your upper arm does each job. You find out why one muscle is not enough.",
    "setup": [
     {
@@ -1523,7 +1523,7 @@
      "id": "s1",
      "mins": 8,
      "do": "Day 1. Let your child try gently to bend each bone, and write down 'stiff'. Put one bone in each tumbler. Cover one with vinegar and the other with water. Cover the tumblers with plates and label them. Ask for a guess.",
-     "say": "Both bones are stiff now. Vinegar is a weak acid. One bone will sit in vinegar and one in water for five days. What do you think will happen to each? Why?",
+     "say": "Both bones are stiff now. Vinegar is a weak acid, a sour liquid that can dissolve some things. One bone will sit in vinegar and one in water for five days. What do you think will happen to each? Why?",
      "kid": "Try to bend each bone. Put one in vinegar and one in water. What will happen?",
      "adult": true,
      "parent": "Cooked bones from a curry work as well as raw ones. Thin bones change fastest. Small bubbles on the vinegar bone are normal.",
@@ -1627,9 +1627,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Open both. Ask the three questions below, one at a time.",
+     "do": "Open both. Ask the questions below, one at a time.",
      "say": "Suppose the soft part had to grow to twice the size. In which one would the hard part get in the way? In which one is the soft part open to a scratch?",
-     "kid": "Open both. Which soft part could grow bigger? Which could be scratched?",
+     "kid": "Open both. Find the hard part and the soft part in each.",
      "ask": [
       {
        "q": "The soft part inside a hard shell must grow. What has to happen to the shell?",
@@ -1707,7 +1707,7 @@
     }
    ],
    "record": "A table with three rows, one for each day, and three columns: calcium foods I ate, minutes in sunlight, and minutes of running, jumping or skipping.",
-   "context": "In this three-day project you keep a diary of the three things your bone cells need to build strong bone: calcium from food, sunlight on your skin, and the loading of running and jumping.",
+   "context": "In this three-day project you keep a diary of the three things your bone cells need to build strong bone: calcium from food, sunlight on your skin, and the loading of running and jumping. You will find out which of the three you need more of.",
    "setup": [
     {
      "art": "A notebook page with a table of three rows for Day 1, Day 2 and Day 3, and three columns headed Calcium foods, Sunlight minutes and Jumping minutes.",
@@ -1728,7 +1728,7 @@
      "mins": 10,
      "do": "Day 1. Read the list of calcium foods below with your child and tick the ones your family eats. Draw the diary table. Fill in today's row together. Then your child does 50 jumps or skips.",
      "say": "Your bone cells need three things. They need calcium from food. They need vitamin D, which your skin makes in sunlight. And they need to feel your bones being loaded. Which of these did you get today?",
-     "kid": "Bones need calcium, sunlight and jumping. Draw the diary. Fill in today.",
+     "kid": "Bones need calcium, sunlight and jumping. Make the diary table. Fill in today.",
      "parent": "Foods rich in calcium: milk, curd, buttermilk, paneer, ragi, sesame seeds, drumstick leaves, amaranth leaves, rajma, chana, and small fish eaten whole. Ragi has many times more calcium than rice or wheat. About 15 minutes of sun on the arms and legs in the morning is a reasonable aim. Do not let skin burn.",
      "context": "This is day 1 of the Bone Builder Diary. You learn what bone cells need and start a three-day diary."
     },
@@ -1819,7 +1819,7 @@
      "mins": 4,
      "do": "Read the problem together. Look again at the results of the Ruler Arm experiment. Ask where the string should go.",
      "say": "In the Ruler Arm experiment, which tying place moved the coins furthest for the shortest lift of the band? Where will you tie the string on this arm?",
-     "kid": "Read the problem. Where should the string be tied? Why?",
+     "kid": "Choose the place to tie the string. Say why you chose it.",
      "ask": [
       {
        "q": "What is the cost of tying the string very close to the elbow?",

@@ -343,7 +343,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game. Each card names something you meet every day. You decide if it is a polymer that a living being made, a polymer that people made, or not a polymer at all.",
+   "context": "This is a card game. Each card names something you meet every day. You decide if it is a polymer that a living being made, a polymer that people made, or not a polymer at all. A polymer is a material made of long chains of one small piece, repeated many times.",
    "setup": [
     {
      "art": "Twenty-four cards in a shuffled pile in the middle of a table, with three tokens in front of each player: natural polymer, made polymer and not a polymer.",
@@ -521,7 +521,7 @@
      "mins": 6,
      "do": "Play the next eight cards. Swap the reader's job after every card. Keep a tally of points on paper.",
      "say": "Keep going. Ask yourself two things. Is it made of long chains of one small piece? Did a living being make it, or a factory?",
-     "kid": "Play on. Is it a long chain? Who made it?",
+     "kid": "Play the next eight cards. Take turns as the reader.",
      "ask": [
       {
        "q": "Which card surprised you so far, and why?",
@@ -547,7 +547,7 @@
      "mins": 2,
      "do": "Say who won. Ask your child which card was the hardest to place, and why.",
      "say": "Who got the most points? Which card was hardest? Why was it hard?",
-     "kid": "Who won? Which card was hardest? Why?",
+     "kid": "Find the card that was hardest to place.",
      "think": "Why is a hair more like a plastic bag than like a sugar crystal?",
      "context": "This is the last step of Chain Detectives. You look back at the game."
     }
@@ -618,7 +618,7 @@
      "what": "Peel the films. Fold them, stretch them and draw the chart."
     }
    ],
-   "record": "For each film, write the glycerine amount, the number of folds before it cracked on each try, and how far it stretched. Draw a bar chart with one bar for each film. Write three lines: what I thought, what I saw, and why.",
+   "record": "For each film, write the glycerine amount, the number of folds before it cracked on each try, and how far it stretched. Make a bar chart with one bar for each film. Draw it, or stack coins. Write three lines: what I thought, what I saw, and why.",
    "context": "In this experiment, you cook a plastic-like film from cornflour and test how the amount of glycerine changes how the film bends.",
    "setup": [
     {
@@ -648,7 +648,7 @@
      "mins": 5,
      "do": "Show your child the cornflour, the vinegar and the glycerine. Say you will make three films with none, one and two teaspoons of glycerine. Write down their guess and reason.",
      "say": "We will cook three films from the same cornflour. One gets no glycerine. One gets one teaspoon. One gets two teaspoons. Which will fold the most times before it cracks? Why do you think so?",
-     "kid": "We make three films. Each has a different amount of glycerine. Which will bend best? Why?",
+     "kid": "Look at the three amounts of glycerine. Pick the film you think will bend best.",
      "ask": [
       {
        "q": "Why do you think the film you chose will bend the most?",
@@ -727,7 +727,7 @@
      "mins": 4,
      "do": "Peel each film from its plate. Look at each film and feel it. Write what each film is like, using the words stiff, bendy, sticky, clear or cloudy.",
      "say": "Peel the film off the plate. Which comes off in one piece? Which feels stiff? Which feels sticky or soft? What do you notice?",
-     "kid": "Peel the films off. Look and feel. Write what you notice.",
+     "kid": "Peel the films off. Look and feel each one. Say or write what you notice.",
      "ask": [
       {
        "q": "How is the film with no glycerine different from the film with two teaspoons?",
@@ -773,9 +773,9 @@
     {
      "id": "s9",
      "mins": 5,
-     "do": "Draw a bar chart of the folds for each film. Ask your child to say what they thought, what they saw, and why.",
+     "do": "Make a bar chart of the folds for each film. Draw it, or stack coins, one stack per film, one coin for each fold. Ask your child to say what they thought, what they saw, and why.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw a bar for each film. Say what you thought, what you saw, and why.",
+     "kid": "Make a bar for each film. Say what you thought, what you saw, and why.",
      "parent": "A strong answer says the film with no glycerine cracked first, and that the glycerine let the starch chains slide past each other. After they have said what they saw, explain: starch chains in a dry film stick tightly to each other, so the film is stiff. Glycerine molecules are small and sit between the chains and keep them a little apart. Now the chains can slide, and the film bends. Too much glycerine leaves the film soft and sticky. If your results are not in this order, write them down as they are and ask why. Films from damp weather, or a thick film, often behave differently.",
      "think": "What do you think the glycerine is doing between the starch chains?",
      "context": "This is the last step of the Cornflour Film test. You draw the chart and explain what you found."
@@ -827,7 +827,7 @@
      "what": "Cut and measure the strips. Heat them in hot water. Measure again and explain."
     }
    ],
-   "record": "Write the length of each strip before and after, and what it looked like. Draw a bar chart of how much each strip shrank. Write three lines: what I thought, what I saw, and why.",
+   "record": "Write the length of each strip before and after, and what it looked like. Show how much each strip shrank: draw a bar chart, or line the strips up side by side. Write three lines: what I thought, what I saw, and why.",
    "context": "In this experiment, a grown-up heats strips of different plastics in hot water. You find out which plastics change, and what that tells us about their chains.",
    "setup": [
     {
@@ -871,7 +871,7 @@
      "id": "s2",
      "mins": 10,
      "do": "An adult cuts four strips from a clear PET bottle, a carry bag, a milk packet and a hard plastic tub. Each strip is 8 centimetres by 2 centimetres. Number each strip with a marker. Measure each one.",
-     "say": "A grown-up cuts the strips. Number them one to four. Measure each strip and write its length in the table.",
+     "say": "A grown-up cuts the strips. Number them one to four. Measure each strip and write its length on paper.",
      "kid": "Number the strips. Measure each one. Write the length.",
      "adult": true,
      "parent": "Cut the bottle strip from the straight wall, not the neck. Cut it going round the bottle, not up and down, because that is the way the plastic is stretched most. Scissors will do for the bottle, the bag and the milk packet. The hard tub needs strong scissors, and only the adult cuts it. Any bottle, bag or tub will do. The results vary with the brand, so write down what you used. Cut edges of hard plastic can be sharp, so round the corners. Wash the strips first.",
@@ -902,7 +902,7 @@
      "id": "s4",
      "mins": 8,
      "do": "An adult drops all four strips into the water with steel tongs. Start a timer for one minute. Then the adult lifts the strips out with the tongs onto a steel plate.",
-     "say": "Drop all four strips in together. Watch them for one minute. What do you see happening? Then lift them out with the tongs.",
+     "say": "Drop all four strips in together. Watch them for one minute. Then lift them out with the tongs.",
      "kid": "A grown-up drops in the strips. Watch for one minute.",
      "adult": true,
      "ask": [
@@ -971,8 +971,8 @@
      "what": "Tear strips both ways, mark the straight direction, and look at the torn edge."
     }
    ],
-   "record": "Draw the sheet with an arrow showing the direction that tore straight. Write one line about why you think it tears that way.",
-   "context": "In this activity, you tear newspaper in two directions and find out that paper has a grain, like wood.",
+   "record": "Keep a torn sheet with an arrow showing the direction that tore straight, or take a photo of it. Write one line about why you think it tears that way.",
+   "context": "In this activity, you tear newspaper in two directions and find out that paper has a grain, like wood. Grain means the tiny fibres in the paper mostly line up one way.",
    "setup": [
     {
      "art": "A sheet of newspaper laid flat, with a thumb and finger starting a tear at the top edge, tearing downwards.",
@@ -993,7 +993,7 @@
      "mins": 3,
      "do": "Give your child a sheet of newspaper. Ask them to guess which way it will tear straight, and why. Write down the guess.",
      "say": "Here is a sheet of newspaper. If we tear it from top to bottom, and then from side to side, will the two tears look the same? Why do you think so?",
-     "kid": "Will paper tear the same both ways? Why?",
+     "kid": "Will the paper tear the same both ways?",
      "ask": [
       {
        "q": "Why might the paper tear straighter one way than the other?",
@@ -1029,9 +1029,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Draw an arrow on the sheet along the direction that tore straight. Try a notebook page and a magazine page the same way. Mark the straight direction on each.",
+     "do": "Mark an arrow on the sheet along the direction that tore straight. Try a notebook page and a magazine page the same way. Mark the straight direction on each.",
      "say": "Mark the straight direction with an arrow. Now do the same with the notebook page and the magazine page. Is the straight direction the same?",
-     "kid": "Draw an arrow on the straight way. Try a notebook page.",
+     "kid": "Mark the straight way with an arrow. Try a notebook page.",
      "parent": "If both ways look alike on one sheet, try another sheet. A few papers show it less clearly. The notebook page and the magazine page may tear straight in the same direction as the newspaper, or in the other direction.",
      "check": {
       "t": "mcq",
@@ -1051,7 +1051,7 @@
      "mins": 2,
      "do": "Hold a torn edge up to a window. Look for tiny hairs sticking out. Ask your child what the hairs could be.",
      "say": "Hold the torn edge up to the light. What do you see sticking out? What could those tiny hairs be?",
-     "kid": "Look at the torn edge. What are the tiny hairs?",
+     "kid": "Hold the torn edge up to the light. Look closely.",
      "ask": [
       {
        "q": "What could those tiny hairs be?",
@@ -1104,7 +1104,7 @@
      "what": "Pull a loose wisp, twist another, and measure one fibre."
     }
    ],
-   "record": "Draw the loose wisp and the twisted thread side by side. Write how long one fibre was, and what the twist did. If you tried coins, write how many each thread held.",
+   "record": "Stick the loose wisp and the twisted thread side by side on paper, or draw them. Write how long one fibre was, and what the twist did.",
    "context": "In this activity, you pull a loose wisp of cotton wool and a twisted one, and find out what twisting does to short fibres.",
    "setup": [
     {
@@ -1126,7 +1126,7 @@
      "mins": 3,
      "do": "Show your child a roll of cotton wool. Pull a wisp about 15 centimetres long and as thick as a pencil. Ask them to guess what will happen if you pull it from both ends, and why.",
      "say": "This is cotton wool. If I hold a wisp at both ends and pull slowly, what will happen? Now, if I twist it first, what will happen? Why do you think so?",
-     "kid": "Pull a wisp. What will happen? What if we twist it first? Why?",
+     "kid": "Guess what a pulled wisp does. Guess what twisting changes.",
      "ask": [
       {
        "q": "Why might twisting change what happens?",
@@ -1227,7 +1227,7 @@
     }
    ],
    "record": "Write what the rice tasted like at the start, after 1 minute and after 2 minutes.",
-   "context": "In this activity, you chew a little plain rice for two minutes and notice what happens to the taste, to find out what your saliva does to starch.",
+   "context": "In this activity, you chew a little plain rice for two minutes and notice what happens to the taste, to find out what your saliva does to starch. Starch is the long chain of sugar pieces that rice is mostly made of.",
    "setup": [
     {
      "art": "A spoonful of plain white rice on a steel plate, and a timer beside it.",
@@ -1248,7 +1248,7 @@
      "mins": 3,
      "do": "Give your child a small spoonful of plain rice. Ask what taste they expect after two minutes of chewing, and why. Write down the guess.",
      "say": "Rice does not taste of much. If you chew it for a long time, will the taste change? How? Why do you think so?",
-     "kid": "Will rice taste different after chewing a long time? Why?",
+     "kid": "Will plain rice taste different after you chew it for a long time?",
      "ask": [
       {
        "q": "Why might the taste change?",
@@ -1356,7 +1356,7 @@
      "what": "Spin a longer yarn and test it."
     }
    ],
-   "record": "Draw your takli. Measure your longest piece of yarn. Write what made it break, and what you would change.",
+   "record": "Take a photo of your takli, or draw it. Measure your longest piece of yarn. Write what made it break, and what you would change.",
    "safety": "Use a blunt pencil end. A grown-up helps with taping the disc.",
    "context": "In this project, you make a takli, the spindle that Indian spinners have used for centuries, and spin your own yarn from cotton wool.",
    "setup": [
@@ -1457,8 +1457,8 @@
     "Put one tube inside another to make a wall twice as thick.",
     "Tape tubes in a ring around an empty middle, like the legs of a table."
    ],
-   "your_turn": "Sketch your design. Build it and test it. Change one thing, such as how tight the tube is, and test again. Which design held the most books? Why do you think it did?",
-   "context": "This is a design challenge about the grain of paper. You build the strongest column you can from newspaper.",
+   "your_turn": "Plan your design with scrap paper, or sketch it. Build it and test it. Change one thing, such as how tight the tube is, and test again. Which design held the most books? Why do you think it did?",
+   "context": "This is a design challenge about the grain of paper. Paper has a grain: its tiny fibres mostly line up one way. You will find out which way to roll it to hold the most books. You build the strongest column you can from newspaper.",
    "setup": [
     {
      "art": "A child sketching three column designs on paper: a single tube, a bundle of tubes and a triangle tube.",
@@ -1477,9 +1477,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Ask your child to sketch two or three column designs, and to say which way the paper should be rolled, and why.",
-     "say": "You have four sheets of newspaper and a little tape. How could you make a column that holds the most books? Which way would you roll the paper? Draw some ideas first.",
-     "kid": "Draw two or three column ideas. Which way will you roll the paper?",
+     "do": "Read the problem together. Ask your child to show two or three column ideas, with scrap paper or a drawing. Ask which way the paper should be rolled, and why.",
+     "say": "You have four sheets of newspaper and a little tape. How could you make a column that holds the most books? Which way would you roll the paper? Try some ideas first with scrap paper, or draw them.",
+     "kid": "Show two or three column ideas with scrap paper, or draw them. Which way will you roll it?",
      "ask": [
       {
        "q": "What would make a paper column stronger?",
@@ -1591,7 +1591,7 @@
      "mins": 5,
      "do": "Read the problem together. Look at the results of the Cornflour Film test. Ask your child to choose an amount of glycerine and say why.",
      "say": "Look at your results from the Cornflour Film test. Which amount of glycerine made a film that bent well and was not sticky? What amount will you try now? Why?",
-     "kid": "Look at your Cornflour Film results. Pick an amount of glycerine. Why that amount?",
+     "kid": "Look at your Cornflour Film results. Pick an amount of glycerine.",
      "ask": [
       {
        "q": "Which amount do you think is best, and why?",
@@ -1607,7 +1607,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Cook one new batch. Use 1 tablespoon of cornflour, 4 tablespoons of water and 1 teaspoon of vinegar. An adult heats it on low until it is clear and thick. Stir in your chosen glycerine. Spread it into a circle on an oiled plate.",
+     "do": "Cook one new batch. Use 1 tablespoon of cornflour, 4 tablespoons of water and 1 teaspoon of vinegar. An adult heats it on low until it is clear and thick. Stir in your chosen glycerine (0, 1 or 2 teaspoons). Spread it into a circle on an oiled plate.",
      "say": "Cook a small batch of the same mix. An adult stirs it on low heat until it is clear and thick. Stir in your glycerine amount. Spread it thin on an oiled plate.",
      "kid": "A grown-up cooks the mix. Stir in your glycerine. Spread it flat.",
      "adult": true,
@@ -1647,7 +1647,7 @@
      "mins": 5,
      "do": "Ask your child to say whether their new film solved the problem, and what they would change next.",
      "say": "Did your film fold at least ten times? Was it sticky? Which glycerine amount worked best? What would you change next?",
-     "kid": "Did your film solve the problem? What would you change next?",
+     "kid": "Tell your grown-up if your film solved the problem.",
      "parent": "Some films will not reach ten folds, and that is a good result to talk about. Films made in damp weather may stay sticky. Write exactly what you see.",
      "think": "What would you add to the film to make it waterproof?",
      "context": "This is the last step of the Better Film challenge. You judge your design."

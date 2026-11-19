@@ -265,15 +265,15 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
 ## Experiments
 ### e1 · The Open Fridge: where does the air go? (28 min)
 - **question:** When you open the fridge door, does air move? Which way does it go at the top of the door, and which way at the bottom?
-- **predict:** Guess first. When the fridge door opens, will the air at the bottom move in, move out, or stay still? What about the air at the top? Draw an arrow for each, and say why you think so.
+- **predict:** Guess first. When the fridge door opens, will the air at the bottom move in, move out, or stay still? What about the air at the top? Show each with your hand, and say why you think so.
 - **fair test:** Hold the smoke in the same three places every time: at the top edge of the open door, in the middle, and at the bottom edge. Hold it the same distance from the fridge, about a hand-span. Close the door and wait one minute between tries, so the fridge cools again. Try each place 3 times, because one try can be a fluke.
 - **safety:** A grown-up lights the agarbatti, blows out the flame so it only smokes, and holds it the whole time. Keep it away from hair, curtains, paper and plastic. Open a window afterwards. If anyone in the family has asthma, or you have no agarbatti, use the tissue strip and your bare feet instead. Never keep the fridge door open for more than half a minute at a time, so the food stays cold.
-- **record:** Draw the open fridge from the side. Draw an arrow for where the smoke went at the top, the middle and the bottom. Fill in the table.
+- **record:** Fill in the table. Then show where the smoke went at the top, the middle and the bottom. Point and tell your grown-up, or draw the open fridge from the side with an arrow for each.
 - **results table:** Place | Fridge closed: which way does the smoke go? | Door open, try 1 | Try 2 | Try 3
 - **s1 (4 min)**  
-  *Parent does:* 1. Stand with your child in front of the closed fridge. 2. Give them paper and a pencil. 3. Ask them to draw the open fridge from the side. 4. Ask them to add an arrow at the top and the bottom for where the air will go.  
-  *Parent says:* When I open the fridge, will any air move? Nobody will blow. Draw an arrow for what you think the air does at the top, and one for the bottom. Why do you think so?  
-  *Child mode:* Draw the fridge with its door open. Will the air move? Draw an arrow at the top. Draw one at the bottom. Why did you draw them that way?
+  *Parent does:* 1. Stand with your child in front of the closed fridge. 2. Ask them to show with a hand which way the air will go at the top. 3. Then ask about the bottom.  
+  *Parent says:* When I open the fridge, will any air move? Nobody will blow. Show me with your hand which way the air goes at the top, and at the bottom. Why do you think so?  
+  *Child mode:* Show with your hand where the air will go at the top. Then show the bottom. Will it move in, out, or stay still?
   - Ask: Why do you think the air will go that way? (good: Cold air comes out because it is cold inside.; The air stays still because nothing is blowing.; Warm air goes in because the fridge is open.)
   - Note: Do not give away the answer. Any guess with a reason is good. Many children think nothing will move because nothing is blowing, or that cold air will come out everywhere.
 - **s2 (3 min)**  
@@ -308,7 +308,7 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
 - **predict:** Guess first. Will the windmill lift the clip faster close to the fan, far from the fan, or at the same speed? How many times faster? Why do you think so?
 - **fair test:** Keep everything the same except the distance from the fan: the same windmill, the same clip, the same length of thread, the same fan speed. Time each distance 3 times, because one try can be a fluke.
 - **safety:** A grown-up cuts the sharp tip off the skewer. Keep fingers, hair and the paper away from the fan blades and the fan grill.
-- **record:** Fill in the table. Circle the fastest time at each distance. Draw your windmill and label the blades, the axle and the load.
+- **record:** Fill in the table. Circle the fastest time at each distance. Draw your windmill and label the blades, the axle and the load, or take a photo of it.
 - **results table:** Distance from the fan | Seconds to lift the clip, try 1 | Try 2 | Try 3 | Fastest try
 - **s1 (10 min)**  
   *Parent does:* 1. Fold the paper square corner to corner both ways and open it. 2. Cut along each fold from the corners, stopping 2 cm from the middle. 3. Bend every other point to the middle and tape them, to make a pinwheel. 4. A grown-up pokes a small hole in the middle with a pencil point.  
@@ -377,7 +377,7 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
 
 ## Activities
 ### a1 · Make Your Own Wind: the tissue strip walk (8 min)
-- **record:** Draw the strip three times: standing still, walking, and being fanned.
+- **record:** Tell your grown-up what the strip did each time: standing still, walking, and being fanned. Or draw it three times.
 - **s1 (2 min)**  
   *Parent does:* 1. Switch off the fan and close the windows. 2. Your child holds the tissue strip up by one end and stands still.  
   *Parent says:* The room is still. Hold up the strip. What does it do?  
@@ -423,7 +423,7 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
 ### a3 · The Breeze in a Box: a model sea breeze (20 min)
 - **problem:** This is a small model of a sea breeze. The hot water stands for land warmed by the Sun. The ice stands for the cool sea. Smoke shows which way the air flows between them.
 - **safety:** A grown-up pours the hot water and lights the agarbatti. Keep the smoking stick away from the cardboard.
-- **record:** Draw the box from the side with arrows for where the smoke went.
+- **record:** Point to where the smoke went and tell your grown-up. Or draw the box from the side with arrows.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Put the box on its side on a table, open side towards you. 2. Put the ice tumbler at the left end and the hot tumbler at the right end. 3. Wait 3 minutes.  
   *Parent says:* The ice is the cool sea. The hot water is the land in the afternoon sun. Which way do you think the air will flow between them? Why?  
@@ -445,7 +445,7 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
   - Think: At night, which is warmer on a real coast, the land or the sea?
 ### a4 · The Thread Kite: fly a tiny kite at home (20 min)
 - **safety:** Keep the kite and thread away from the fan blades. Hold the thread at least 1 metre from the fan.
-- **record:** Draw your kite flying, with an arrow for the wind and an arrow for the push of the air on the kite.
+- **record:** Show with your arms which way the wind blew and which way it pushed the kite. Or draw your kite flying with arrows.
 - **s1 (8 min)**  
   *Parent does:* 1. Tape a long stick down the middle of the paper and a shorter one across it, making a cross. 2. Trim the paper into a diamond. 3. Tape a 30 cm paper tail to the bottom. 4. Tie the thread to the cross point.  
   *Parent says:* Let's make a kite as small as your hand. The sticks keep it stiff, and the tail keeps it pointing into the wind.  
@@ -455,7 +455,7 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
   *Parent does:* 1. Switch the fan on to medium. 2. Your child stands 1 to 2 metres in front of it, holding the thread. 3. They let the kite go into the moving air.  
   *Parent says:* Let the kite go into the fan's wind. Watch how it tilts.  
   *Child mode:* Stand in front of the fan. Let the kite go. Does it fly? How does it tilt?
-  - Ask: Look at how the kite tilts. Which way does the air bounce off it? (good: Down, off the face of the kite.; The air hits the face and goes down, so the kite is pushed up.)
+  - Ask: Look at how the kite tilts. Which way does the air push it? (good: Down, off the face of the kite.; The air hits the face and goes down, so the kite is pushed up.)
   - Note: The kite should rise and hang in the moving air, tilted back, with the thread slanting. If it spins, make the tail longer. If it will not rise, move closer to the fan.
 - **s3 (5 min)**  
   *Parent does:* Switch the fan off. Your child walks backwards slowly, then faster, holding the thread, with the kite in front of them.  
@@ -477,8 +477,8 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
   - Note: Look for washing on lines, leaves and branches, flags, dust, plastic bags, smoke from a kitchen, and birds. Look high up for black kites, which are birds (not paper kites), circling without flapping on a warm afternoon.
 - **s2 (3 min)**  
   *Parent does:* Ask about any big bird circling high up with still wings.  
-  *Parent says:* Do you see a big bird circling without flapping? A black kite must find food over a big area, and flapping costs a lot of energy. How is the air helping them?  
-  *Child mode:* Look for a big bird circling high. Are their wings flapping? What is holding them up?
+  *Parent says:* Do you see a big bird circling without flapping? How is the air helping it stay up?  
+  *Child mode:* Look for a big bird circling high. Is it flapping? What is holding it up?
   - Note: Black kites and Brahminy kites ride thermals, columns of rising warm air, over hot roofs and roads. They circle to stay inside the rising air. If no bird comes, that is fine. Look again on a sunny afternoon.
 - **s3 (1 min)**  
   *Parent does:* Count up the list.  
@@ -488,13 +488,13 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
 ### a6 · The Monsoon Map (20 min)
 - **record:** Your finished map, with a key for the arrows.
 - **s1 (8 min)**  
-  *Parent does:* Draw or trace an outline of India. Mark Kerala, Chennai, Kolkata, Mumbai and your own town.  
+  *Parent does:* Use a printed outline map of India, or draw or trace one. Mark Kerala, Chennai, Kolkata, Mumbai and your own town.  
   *Parent says:* Let's draw India and mark where we live.  
-  *Child mode:* Draw India. Mark Kerala, Chennai, Kolkata, Mumbai and your town.
+  *Child mode:* Get an outline map of India, or draw one. Mark Kerala, Chennai, Kolkata, Mumbai and your town.
 - **s2 (6 min)**  
   *Parent does:* 1. In blue, draw big arrows from the sea in the southwest, curving onto the land, for the summer monsoon. 2. In red, draw arrows from the northeast, for the winter winds.  
   *Parent says:* In June, the wind comes from the sea in the southwest. In winter it turns round and comes from the northeast. Draw both.  
-  *Child mode:* Draw blue arrows from the southwest sea for summer. Draw red arrows from the northeast for winter.
+  *Child mode:* Make blue arrows from the southwest sea for summer. Make red arrows from the northeast for winter. Or sweep your hand along each path and say the season.
   - Note: The winter winds from the northeast cross the Bay of Bengal before they reach Tamil Nadu. They pick up water vapour from the sea, so they bring the northeast monsoon rain to Chennai in October to December.
 - **s3 (6 min)**  
   *Parent does:* Ask your child to explain the map.  
@@ -527,7 +527,7 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
 ## Challenges
 ### c1 · Windmill Weightlifter (30 min)
 - **problem:** The windmill you built in the Windmill That Lifts lifts one paper clip. Change its design so it lifts as many paper clips as possible, 150 cm from the fan.
-- **your turn:** Now invent your own weightlifter. Draw it, build it, and count how many clips it lifts at 150 cm.
+- **your turn:** Now invent your own weightlifter. Plan it, build it, and count how many clips it lifts at 150 cm.
 - **constraints:** The windmill must stay 150 cm from the fan, on the same fan speed.; Use only paper, card, cardboard, straws, skewers, thread, an empty thread reel, tape and dough.; The load must rise all the way to the axle.
 - **general:** Make the blades bigger, so they catch more wind.; Use more blades, such as 6 or 8.; Use stiffer card, so the blades keep their tilt.; Wind the thread on a thinner part of the axle. Each turn then lifts the load a little less, but the blades can lift a heavier load.
 - **creative:** Wind the thread round a thick cotton reel for speed, or round the thin skewer for strength, and compare.; Copy the shape of a real wind turbine: three long, narrow, twisted blades.; Put a cardboard funnel in front of the blades to gather more wind.
@@ -536,9 +536,9 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
   *Parent says:* How many clips can our windmill lift from here?  
   *Child mode:* Put the windmill 150 cm from the fan. Add clips one by one. How many can it lift?
 - **s2 (5 min)**  
-  *Parent does:* Draw three ideas before building.  
-  *Parent says:* Engineers draw before they build. What could we change?  
-  *Child mode:* Draw three ideas to make your windmill stronger.
+  *Parent does:* Plan three ideas before building. Draw each one, or tell it out loud.  
+  *Parent says:* Engineers plan before they build. What could we change?  
+  *Child mode:* Think of three ways to make your windmill stronger. Draw them, or tell your grown-up.
 - **s3 (15 min)**  
   *Parent does:* Build the best idea, test it, improve it, and test again.  
   *Parent says:* Build it and test it. How many clips now?  
@@ -550,7 +550,7 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
   *Child mode:* Read the ideas. Which ones did you think of? Invent one more.
 ### c2 · Let the Flat Breathe: cool a room without a fan (30 min)
 - **problem:** It is a hot afternoon and the power is off. Plan how to get a breeze moving through your flat, using only windows, doors and curtains.
-- **your turn:** Now make your own breeze plan. Draw it, try it, and test it with the tissue strip.
+- **your turn:** Now make your own breeze plan. Show it on your plan, try it, and test it with the tissue strip.
 - **constraints:** No fans, coolers or ACs.; Test your plan with a tissue strip at the doorway of the room.; A grown-up decides which windows are safe to open.
 - **general:** Open windows on opposite sides of the flat, so air can flow straight through. This is called cross-ventilation.; Open a high window or ventilator to let warm air out at the top, and a low one to let cooler air in.; Close the curtains on the sunny side so the room heats up less.
 - **creative:** Old houses in Chettinad in Tamil Nadu have open courtyards in the middle. Warm air rises out of the courtyard and cooler air is drawn in through the rooms.; Hang a wet cotton cloth in front of the window where the breeze enters. The water evaporates and cools the air.; Find the shady side of the building. Open windows there to let air in, and on the sunny side to let it out.
@@ -559,9 +559,9 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
   *Parent says:* Let's find where the air moves in our flat right now.  
   *Child mode:* Walk round with the tissue strip. Where does it flutter? Where is it still?
 - **s2 (7 min)**  
-  *Parent does:* Draw a plan of the flat and mark which windows face the sun in the afternoon.  
+  *Parent does:* Draw a plan of the flat, or use the one you have, and mark which windows face the sun in the afternoon.  
   *Parent says:* Draw our flat. Which side gets the hot afternoon sun? Which side is shady?  
-  *Child mode:* Draw your flat. Mark the sunny side and the shady side.
+  *Child mode:* Draw your flat, or use your plan. Mark the sunny side and the shady side.
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* Open the windows in your plan, wait 5 minutes, and test with the strip.  
   *Parent says:* Let's try your plan. Does the strip flutter more now?  

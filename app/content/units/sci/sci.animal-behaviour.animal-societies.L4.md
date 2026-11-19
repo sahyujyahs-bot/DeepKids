@@ -242,8 +242,8 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   - Note: The ages on the cards are a rough guide. Real bees change at slightly different ages in different hives. One child: play alone or with a parent as in the rules. Two to four players: take turns being the reader and give every player their own set of five tokens. Nothing here needs more than paper, scissors and a pen.
 - **s3 (5 min)**  
   *Parent does:* Play the next six cards. Then ask why some bees on the cards changed jobs early or went back to an earlier job.  
-  *Parent says:* Play six more cards. Then think about this. Two of the cards have a bee doing a job that does not match her age. Why did that happen?  
-  *Child mode:* Play six more cards. Some bees do a job that is not for their age. Why?
+  *Parent says:* Play six more cards. Then think about this. Some of the cards have a bee doing a job that does not match her age. Why did that happen?  
+  *Child mode:* Play six more cards. Watch for bees doing a job that is not for their age.
   - Ask: Why would a young bee start foraging early? (good: The hive lost many foragers.; The hive needed food and there was nobody to bring it.; The hive changed her job.)
   - Note: Wait for your child's answer before you explain. A good answer says that the hive's needs change a bee's job. After that you can say that this is what Huang and Robinson found in 1992.
   - Check: A hive loses most of its foragers in a storm. What usually happens next? → **Some young bees start foraging earlier than usual**
@@ -273,8 +273,8 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   - Note: Each game takes about 13 draws on average, which is about three to four minutes. Do not keep tipping out the cup. Instead keep a running tally on the score sheet or in the notebook of how many of each kind are in the cup now, and add to it after each turn. Roles for two to four children: one shakes and draws, one adds the pulses, one keeps the tally; swap after each game. One child with a parent: the parent keeps the tally.
 - **s3 (6 min)**  
   *Parent does:* Play games 2 and 3. Write the winner and the turns each time. After game 3, ask the question below.  
-  *Parent says:* Play two more games. Write down who wins each time. Then look at your sheet. Did the same site win every time?  
-  *Child mode:* Play games 2 and 3. Write the winners. Is it always the same?
+  *Parent says:* Play two more games. Write down who wins each time. Then look at your sheet.  
+  *Child mode:* Play games 2 and 3. Write down the winners.
   - Ask: Did the best home win every time? What did you see? (good: It won most times but not always.; Sometimes the poor one got ahead early.; The one that got ahead early kept winning.)
   - Note: When a computer played this game many times, the best site won about six games in ten, the middle site about three in ten, and the poor site about one in thirty. These are typical figures, not promises, so your five games may turn out differently. That is the point.
 - **s4 (6 min)**  
@@ -283,8 +283,8 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   *Child mode:* Play games 4 and 5. Count how many times each site won.
 - **s5 (3 min)**  
   *Parent does:* Talk about the results. Ask why the good site usually wins, and why a poor site can sometimes win.  
-  *Parent says:* Which site won most? Did the best one always win? Why can an early lead matter so much? Real scouts visit and check for themselves. Why does that help?  
-  *Child mode:* Which site won most? Did the best always win? Why or why not?
+  *Parent says:* Which site won most? Why can an early lead matter so much? Real scouts visit and check for themselves. Why does that help?  
+  *Child mode:* Look at your sheet. Which site won most?
   - Ask: Why can a poor home sometimes win? (good: It got lucky at the start.; Many scouts followed the first dancers.; Not enough scouts checked it themselves.)
   - Note: Real swarms reduce this problem. Each scout flies to a site herself and judges it before she dances, so the dances are not just copies. This is why Thomas Seeley says independent checking is the secret of a good group decision.
   - Think: What would change if every scout copied the dancer without visiting the site?
@@ -294,12 +294,12 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 - **question:** Is a job of three steps done faster if you finish each paper square before starting the next, or if you do one step on all the squares, and then the next step on all of them?
 - **predict:** Before you start, guess. Which way will be faster: one square at a time, or one step at a time on all the squares? Or will it be the same? Why do you think so?
 - **fair test:** Use the same pencil, crayon and pen, the same size of squares and the same table every time. Each round is 12 squares. Do the rounds in this order: one square at a time, then one step at a time, then one step at a time again, then one square at a time again. This order stops practice from helping one method more than the other. Time every round the same way, and check that your stars are neat with both methods. Only the method changes.
-- **record:** Write the time and the number of neat squares for each of the four rounds. Add the two one-square-at-a-time times together, and the two one-step-at-a-time times together. Then draw two bars to compare the totals.
+- **record:** Write the time and the number of neat squares for each of the four rounds. Add the two one-square-at-a-time times together, and the two one-step-at-a-time times together. Then compare the totals. Draw two bars, or just write which total is smaller.
 - **results table:** Round | Method | Time in seconds | Neat squares out of 12
 - **s1 (4 min)**  
   *Parent does:* Show your child the squares and the three tools. Explain the two methods. Write down the guess and the reason.  
-  *Parent says:* Each square gets three steps. Draw a small star with the pencil. Colour it red with the crayon. Write your first letter under it with the pen. You can finish one square at a time, or do one step on all the squares before the next step. Which way will be faster? Why do you think so?  
-  *Child mode:* Each square gets a star, red colour and a letter. Is it faster to finish one square at a time, or to do one step on all the squares? Why?
+  *Parent says:* Each square gets three steps. Draw a small star with the pencil. A simple shape is fine. Colour it red with the crayon. Write your first letter under it with the pen. You can finish one square at a time, or do one step on all the squares before the next step. Which way will be faster? Why do you think so?  
+  *Child mode:* Each square gets a star, red colour and a letter. Which way do you think is faster?
   - Ask: Why do you think that way will be faster? (good: You do not put down and pick up tools so often.; You get into a rhythm.; Doing one square at a time feels quicker.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write it at the top of the page. One child: the child does all four rounds and the parent times and counts the neat squares. Two to four children: each child does all four rounds with their own set of squares and tools while a sibling times, then swap, and compare the children's totals as well. Use the same child for all four rounds when you compare methods.
 - **s2 (8 min)**  
@@ -325,9 +325,9 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   *Parent says:* Round 4. We do one square at a time again, with fresh squares. Finish each square before you take the next. Start the timer, and go.  
   *Child mode:* Round 4. Finish one square at a time again, on new squares. Start the timer.
 - **s7 (6 min)**  
-  *Parent does:* Add the two times for method one (one square at a time). Add the two times for method two (one step at a time). Compare the totals. Draw two bars.  
+  *Parent does:* Add the two times for method one (one square at a time). Add the two times for method two (one step at a time). Compare the totals. Draw two bars, or just write which total is smaller.  
   *Parent says:* Add the two one-square-at-a-time times. Then add the two one-step-at-a-time times. Which total is smaller? By how many seconds?  
-  *Child mode:* Add the times for each method. Which total is smaller? By how much?
+  *Child mode:* Add the times for each method. Compare the two totals.
   - Check: Method one (one square at a time) took 287 seconds in total. Method two (one step at a time) took 257 seconds. What does that show? → **Method two was faster by 30 seconds**
 - **s8 (5 min)**  
   *Parent does:* Ask your child what they found (the claim), which numbers show it (the evidence) and why they think it happened (the reason). Write all three. Then talk about the question below.  
@@ -344,8 +344,8 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 - **results table:** Person | Secret guess for glass A | Spoken guess for glass B
 - **s1 (4 min)**  
   *Parent does:* Tell your child they will fill two glasses with chana and ask people to guess how many are in each. Ask whether the group's middle guess will be closer than most people's own guesses. Write down your child's answer and the reason.  
-  *Parent says:* We will ask a group to guess how many chana are in a glass. Will the middle guess of the group be closer than most people's own guesses? Why do you think so?  
-  *Child mode:* A group will guess how many chana are in a glass. Will the middle guess be closer than most people's guesses? Why?
+  *Parent says:* We will ask a group to guess how many chana are in a glass. Line the guesses up from smallest to biggest. The one in the middle is the middle guess. Will the middle guess of the group be closer than most people's own guesses? Why do you think so?  
+  *Child mode:* People will guess how many chana are in a glass. The guess in the middle of the line is the middle guess. Is it a good guess?
   - Ask: Why do you think the group's middle guess will be good, or bad? (good: Some guess too low and some too high, so the middle is close.; Everyone is bad at guessing so the middle is bad too.; Not sure.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Roles: with one child, the child is the organiser who shows the glass, collects the slips and works out the middle guess, and the parent counts the chana. With two to four children, one child organises each glass in turn while the others guess along with the adults. Keep the dry chana away from toddlers, who can choke on them.
 - **s2 (10 min) · grown-up needed**  
@@ -394,34 +394,34 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   - Note: Count only ants in your patch. If the ants are all the same size and all do the same thing, that is a result too. Write it down.
 - **s3 (2 min)**  
   *Parent does:* Look at your table. Ask your child what they notice, and what they wonder. Do not explain yet.  
-  *Parent says:* Look at your table. What do you notice? What do you wonder? Did every ant do the same thing?  
+  *Parent says:* Look at your table. What do you notice? What do you wonder?  
   *Child mode:* Look at your table. What do you notice? What do you wonder?
   - Note: Do not explain yet. Keep the table. You will come back to it after the explanation cards.
   - Check: You watch an ant trail for five minutes. One ant out of ten is standing still at any moment. What does this show? → **Only that some ants stood still while you watched**
   - Think: Who might decide what each ant should do?
-### a2 · A Bee's Forty Days: draw the jobs of a honeybee worker (20 min)
-- **record:** A timeline from day 1 to day 40, with a picture and a label for each job, and an arrow showing a young bee who becomes a forager early.
+### a2 · A Bee's Forty Days: lay out the jobs of a honeybee worker (20 min)
+- **record:** A timeline from day 1 to day 40, with a slip for each job and a button moved to show a young bee who becomes a forager early. Take a photo of it.
 - **s1 (5 min)**  
   *Parent does:* Draw a line along the middle of a long strip. Mark day 1 at the left end and day 40 at the right end. Mark days 10, 20 and 30 in between.  
   *Parent says:* A worker honeybee in summer lives about forty days. Draw a long line. Write day one at the left end and day forty at the right. Put marks for ten, twenty and thirty.  
   *Child mode:* Draw a long line. Mark days 1, 10, 20, 30 and 40.
   - Note: The forty days is a round number. Real worker lifespans vary from three weeks to six weeks or more in summer.
 - **s2 (8 min)**  
-  *Parent does:* Colour five jobs along the line. Colour days 1 to 3 as the cleaner job. Colour days 4 to 10 as the nurse job. Colour days 11 to 18 as the builder or storer job. Colour days 19 to 21 as the guard job. Colour day 22 until the end as the forager job. Add a small picture to each.  
-  *Parent says:* Now colour the jobs along the line. Days one to three are the cleaner job. Days four to ten are the nurse job. Days eleven to eighteen are the builder or storer job. Days nineteen to twenty-one are the guard job. After day twenty-one, she is a forager.  
-  *Child mode:* Colour five jobs along the line. Add a picture for each.
+  *Parent does:* Write the five job names on five paper slips. Put the cleaner slip on days 1 to 3. Put the nurse slip on days 4 to 10. Put the builder or storer slip on days 11 to 18. Put the guard slip on days 19 to 21. Put the forager slip from day 22 to the end.  
+  *Parent says:* Now put the job slips along the line. Days one to three are the cleaner job. Days four to ten are the nurse job. Days eleven to eighteen are the builder or storer job. Days nineteen to twenty-one are the guard job. After day twenty-one, she is a forager.  
+  *Child mode:* Put the five job slips along the line, one for each stretch of days.
   - Ask: Which job lasts longest on your line? (good: Forager.; The one at the end.)
   - Note: The days are a rough guide from studies of honeybees. Real bees vary, and the order is more reliable than the exact days.
   - Check: On your timeline, which job comes just before foraging? → **Guard**
 - **s3 (7 min)**  
-  *Parent does:* Draw an arrow from the nurse part to the forager part. Write: a storm killed many foragers. Then write what you think happens next.  
-  *Parent says:* A storm kills most of the hive's foragers. Draw an arrow showing a young nurse bee who starts foraging early. What do you think the hive does next?  
-  *Child mode:* A storm kills the foragers. Draw an arrow for a young bee who forages early.
-  - Ask: What does your arrow show about a bee's job and her age? (good: A job is not fixed to an age.; The hive changes the bee's job.; A young bee can do an older bee's job.)
+  *Parent does:* Put the button on the nurse part of the line. A storm has killed many foragers. Move the button to the forager part. Then ask your child what they think happens next.  
+  *Parent says:* A storm kills most of the hive's foragers. This button is a young nurse bee. Move her to the forager part, early. What do you think the hive does next?  
+  *Child mode:* A storm kills the foragers. Move the button to show a young bee who forages early.
+  - Ask: What does the moved button show about a bee's job and her age? (good: A job is not fixed to an age.; The hive changes the bee's job.; A young bee can do an older bee's job.)
   - Note: Young bees that forage early tend to live shorter lives. After your child has said what they think, you can tell them that. It is one reason a hive avoids changing jobs unless it has to.
   - Think: What might go wrong if a young bee starts foraging much too early?
 ### a3 · Dance the Map: act out the waggle dance (25 min)
-- **record:** A drawing of your paper comb with the dance line and the number of taps, and a sketch map of the room with the real route to the sweet. For each round, write how many steps the follower stopped from the sweet, and compare round 1 with round 2.
+- **record:** A photo of your paper comb with the dance line, and the number of taps. For each round, write how many steps the follower stopped from the sweet, and compare round 1 with round 2.
 - **s1 (5 min)**  
   *Parent does:* Tape a big paper to a wall. Draw an arrow pointing straight up, and write 'Sun' next to it. Put a chair in the middle of the room, facing the window. The chair is the hive.  
   *Parent says:* This paper is the comb inside a dark hive. Straight up on the paper means towards the Sun. We will use the window for the Sun. The chair is the hive.  
@@ -457,14 +457,14 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   *Child mode:* Draw a table with four columns. You will interview someone.
 - **s2 (15 min)**  
   *Parent does:* Call or visit an older person. Ask which bees, wasps, termites or ants they know. Ask where they live, what people do about them, and what they have seen. Write what they say.  
-  *Parent says:* Which bees or wasps have you seen near your home? Where do termites come? Do you know anyone who keeps bees, or who has taken honey from a wild nest? What did they see?  
+  *Parent says:* Which bees or wasps have you seen near your home? Where have you seen termites? Do you know anyone who keeps bees, or who has taken honey from a wild nest? What did they see the insects do?  
   *Child mode:* Ask what bees, wasps and termites they know. Write what they say.
   - Ask: Have you ever seen a swarm of bees, or a line of ants moving house? (good: Yes, bees on a branch.; Yes, a termite mound in a field.; Ants carrying eggs.)
   - Note: Safety: ask about nests and mounds, but do not go to look at wasp or bee nests, and never poke one. If the older person suggests visiting a nest, a grown-up must decide first. One child: call one person. Two to four children: each interviews a different person, then compare tables. Many families know something. In Kerala some people keep stingless bees in a small log or a coconut shell. Termite mounds, mud tubes on walls and wasp nests under roofs are common across India. If nobody you know has seen any, ask a neighbour, a gardener or a shopkeeper.
 - **s3 (6 min)**  
-  *Parent does:* Read your table. Mark each place on a small sketch map. Ask your child what the older person knew that surprised them.  
-  *Parent says:* Read your table back. What surprised you? Which insect did the person know the most about? Mark the places on a map.  
-  *Child mode:* Read your table. Mark the places on a map. What surprised you?
+  *Parent does:* Read your table. Say where each place is, or find it on a phone map. Ask your child what the older person knew that surprised them.  
+  *Parent says:* Read your table back. What surprised you? Which insect did the person know the most about? Where are the places? Show them on a phone map, or tell me.  
+  *Child mode:* Read your table. Find the places on a map, or tell where they are. What surprised you?
   - Think: What does one person's knowledge miss that a whole village's knowledge might have?
 ### a5 · Huddle or Spread: how a crowd keeps warm (30 min)
 - **safety:** A grown-up fills the bottles with bath-warm water. Do not use boiling or very hot water. It can scald, and it can crack glass or bend a plastic bottle. Wash the thermometer with soap and water afterwards, and do not use it for a fever until it is clean.
@@ -472,7 +472,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 - **s1 (5 min)**  
   *Parent does:* Show your child the six bottles. Say that three will be tied in a bundle and three will stand apart. Write down the guess and the reason.  
   *Parent says:* Bees in a cold place cluster tightly together. We will see if a bundle keeps warm better than bottles standing alone. Which will be warmer in twenty minutes? Why do you think so?  
-  *Child mode:* Three bottles in a bundle. Three bottles alone. Which stays warmer? Why?
+  *Child mode:* Three bottles go in a bundle. Three stand alone. Which will stay warmer?
   - Ask: Why do you think that one will stay warmer? (good: Bottles in a bundle keep each other warm.; The ones in the middle have less open air around them.; Bottles alone lose heat to the air.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (5 min) · grown-up needed**  
@@ -487,9 +487,9 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   *Child mode:* Check the middle bottle and a lone bottle. Write what you find.
   - Note: Use the same thermometer for both and do them in the same order at the end. The middle bottle is the one with a bottle on each side of it. Without a thermometer, use a blind hand test. One person closes their eyes. Another person guides that person's palm onto the bundle bottle and a lone bottle, for five seconds each, in a random order. The person with closed eyes says which is warmer. One child: the parent mixes up the bottles. Two to four children: one child reads the thermometer, one writes, and others do the blind test, then swap.
 - **s4 (14 min)**  
-  *Parent does:* Leave the bottles for 20 minutes in total. While you wait, draw the two arrangements, and mark where you think the heat is going.  
-  *Parent says:* Wait twenty minutes. While you wait, draw both arrangements. Mark with arrows where you think the heat is going.  
-  *Child mode:* Wait. Draw both. Add arrows for where the heat goes.
+  *Parent does:* Leave the bottles for 20 minutes in total. While you wait, look at the two arrangements. Ask your child to point to where they think the heat leaves each one.  
+  *Parent says:* Wait twenty minutes. While you wait, look at both arrangements. Point to the places where you think the heat leaves. Which bottles have more of those places?  
+  *Child mode:* Wait. Look at both. Point to where you think the heat leaves.
   - Note: Keep the bottles away from the fan, the window and the sun. Twenty minutes in total is the aim, so the minutes you spent taking the first temperatures count towards this.
 - **s5 (3 min)**  
   *Parent does:* Check the middle bottle of the bundle and a lone bottle again. Write the values. Ask your child what they found and why.  
@@ -508,9 +508,9 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   *Parent says:* Every home has jobs, such as cooking, sweeping, washing, shopping, watering plants and helping with homework. Let's write them all down, and then say who does each one.  
   *Child mode:* Draw your table. Walk round your home. List ten jobs.
 - **s2 (15 min)**  
-  *Parent does:* Ask each person at home which jobs they do and how long each takes. Fill in the table. Colour the jobs of each person in a different colour.  
-  *Parent says:* Ask each person which jobs they do, and how long each one takes. Write it in. Colour each person's jobs in their own colour.  
-  *Child mode:* Ask each person their jobs. Fill in the table. Use one colour for each person.
+  *Parent does:* Ask each person at home which jobs they do and how long each takes. Fill in the table. Mark each person's jobs with their first letter, or colour them in their own colour.  
+  *Parent says:* Ask each person which jobs they do, and how long each one takes. Write it in. Put each person's first letter beside their jobs.  
+  *Child mode:* Ask each person their jobs. Fill in the table. Put each person's first letter by their jobs.
   - Ask: Do jobs go with age, with skill, or with who is at home? (good: Some jobs are for older people.; Some jobs go to whoever is at home.; People change jobs when something changes.)
   - Note: Let everyone speak. Do not turn this into a discussion about who works harder. It is a study, not a score.
 - **s3 (15 min)**  
@@ -551,14 +551,14 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
   *Child mode:* Build your design in one box. Leave one plain.
   - Note: Help only with scissors. Let your child decide on the design. A design that does not work is still a result.
 - **s3 (20 min) · grown-up needed**  
-  *Parent does:* Put both boxes side by side in the same sunny window, or under the same bright lamp. A grown-up puts an ice cube in each katori and the katoris in the boxes, with the lids on. Wait 20 minutes.  
+  *Parent does:* Put the boxes side by side in the same sunny window, or under the same bright lamp. A grown-up puts an ice cube in each katori and the katoris in the boxes, with the lids on. Wait 20 minutes.  
   *Parent says:* Put the boxes side by side in the same sunny place. Put one ice cube in each katori and close the lids. Wait twenty minutes. Meanwhile, guess which will have more ice.  
-  *Child mode:* Put both boxes in the sun. Add an ice cube to each. Wait 20 minutes.
+  *Child mode:* Put the boxes in the sun. Add an ice cube to each. Wait 20 minutes.
   - Note: Both boxes must get the same sun, so keep them level and next to each other. A lamp can be hot, so keep it away from paper and foil. Two to four children: each child builds one design box, and all designs share the one plain box; take turns to put in the ice and to measure. In a hot month a plain cube can almost melt in 20 minutes; if both katoris are nearly empty, repeat with a larger ice block. Typically a foil-covered box keeps a little more ice, and an honest result of no difference is also worth writing down.
-  - Check: Why do both katoris get an ice cube of the same size? → **So the amount of ice is a fair comparison**
+  - Check: Why does each katori get an ice cube of the same size? → **So the amount of ice is a fair comparison**
 - **s4 (5 min)**  
-  *Parent does:* Open both boxes. Look at each katori. Which has more ice left? Pour each katori's meltwater into a glass and count the teaspoons. Ask what made the difference.  
-  *Parent says:* Open both boxes. Which katori has more ice left? What did your design do? What would you change?  
+  *Parent does:* Open the boxes. Look at each katori. Which has more ice left? Pour each katori's meltwater into a glass and count the teaspoons. Ask what made the difference.  
+  *Parent says:* Open the boxes. Which katori has the most ice left? What did your design do? What would you change?  
   *Child mode:* Open the boxes. Which has more ice? What would you change?
   - Ask: What do you think kept your ice from melting, or let it melt? (good: The foil reflected the sun.; The holes let warm air out.; The paper kept the heat out.)
   - Think: A termite mound has no fan. How could a building move air without one?

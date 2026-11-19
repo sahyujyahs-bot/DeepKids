@@ -247,12 +247,12 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 - **Printable score sheet: Score sheet:** Player: ___  Food right (1 bean each): ___; Player: ___  Bird named too (1 extra bean each): ___; Playing alone: cards right on the first go: ___ out of 18
 - **s1 (3 min)**  
   *Parent does:* Cut out the 18 cards. Shuffle them, clue side up. Put a bowl of dried beans on the table.  
-  *Parent says:* Each card describes the beak and feet of a real Indian bird. You will work out the food from those two clues. The Beak Lever Test showed that scissors cut hardest near the hinge. Remember this when you meet a short beak, because a short beak bites hard.  
+  *Parent says:* Each card describes the beak and feet of a real Indian bird. You will work out the food from those two clues.  
   *Child mode:* Cut out the cards and shuffle them. Keep the clue side up.
 - **s2 (12 min)**  
   *Parent does:* Play by the rules until all 18 cards have been read. After each card, ask for the reason before the card is turned over.  
   *Parent says:* Tell me the food, and tell me which part of the beak or feet made you think so. Then we turn the card over.  
-  *Child mode:* Read the clue. Say the food and your reason. Then turn the card.
+  *Child mode:* Listen to the clue. Say what the bird eats, and why.
   - Note: Accept any food that fits the back of the card. For the crow, 'almost anything' is the right answer. If your child is stuck, ask whether the beak is made for a hard bite or a long reach.
   - Check: A card says: short hooked beak, and strong feet with long curved talons. What does this bird most likely eat? → **Meat that the bird catches**
 - **s3 (5 min)**  
@@ -268,7 +268,7 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 - **s1 (3 min)**  
   *Parent does:* Lay out the three labels. Shuffle the 16 cards. Ask your child to guess how many cards will end up under Both.  
   *Parent says:* Here are 16 features. Some belong only to birds. Some belong only to the dinosaurs of long ago. Some belong to both. How many of the 16 do you think both will share? Why?  
-  *Child mode:* Lay out the labels. Guess how many cards go under Both.
+  *Child mode:* Guess how many of the 16 cards go under Both.
 - **s2 (8 min)**  
   *Parent does:* Play by the rules. Let your child place every card before any card is turned over.  
   *Parent says:* Read each feature and choose a label. Give me one reason each time. We check them all at the end.  
@@ -286,12 +286,12 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 - **predict:** Before you start, guess. Where will the scissors cut the thickest stack of newspaper: near the hinge, in the middle or at the tips? Why do you think so?
 - **fair test:** Use the same scissors and the same newspaper for every cut. The same person makes every cut, with one hand and one squeeze. Use the same three places on the blades each time, and mark them first. Check each result twice. Only one thing changes: the place on the blades where the paper sits.
 - **safety:** A grown-up stays beside the child for every cut. Keep the fingers that hold the paper well away from the blades. If a stack does not cut with one firm squeeze, stop and record that. Do not force the scissors.
-- **record:** Draw a table with three rows: near the hinge, middle and tips. In each row write the thickest stack the scissors cut in one squeeze, and the gap between the open blades.
+- **record:** Make a table with three rows: near the hinge, middle and tips. In each row write the thickest stack the scissors cut in one squeeze, and the gap between the open blades.
 - **results table:** Place on the blades | Thickest stack cut in one squeeze (layers) | Gap between the open blades (centimetres)
 - **s1 (3 min)**  
   *Parent does:* Show your child the scissors. Open and shut them slowly. Point to the screw, which is the hinge. Ask for the guess and the reason, and write both down.  
   *Parent says:* These scissors are our model beak. The screw is the hinge, like the joint at the back of a bird's mouth. Where will the blades cut the thickest stack: near the hinge, in the middle or at the tips? Why do you think so?  
-  *Child mode:* Look at the scissors. Where will they cut the thickest stack? Why?
+  *Child mode:* Open and shut the scissors. Look at the hinge, the middle and the tips.
   - Ask: Why do you think that place will cut best? (good: The tips are sharp and pointed.; Near the hinge feels stronger when I cut card.; The middle is where I usually cut.)
   - Note: Do not correct the guess. Many children choose the tips because they look sharp.
 - **s2 (5 min)**  
@@ -307,19 +307,19 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
   - Check: In the Beak Lever Test, why do you use the same hand and one squeeze for every cut? → **So only the place on the blades changes**
 - **s4 (5 min)**  
   *Parent does:* Open the scissors as wide as they go and lay them on the table. Measure the gap between the two blades at the mark near the hinge. Then measure the gap at the tips. Write both numbers in the table.  
-  *Parent says:* Now we measure how far the blades open. Which part opens widest? When I snap the scissors shut, which part travels farthest in the same time?  
+  *Parent says:* Now we measure how far the blades open. Look at the gap near the hinge and the gap at the tips.  
   *Child mode:* Open the scissors wide. Measure the gap at the hinge and the tips.
   - Ask: Which part of the blades moves fastest when the scissors snap shut? (good: The tips, because they travel farthest in the same time.)
 - **s5 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. Wait for all three. Then read them the explanation in the note below.  
   *Parent says:* Look at your table. Say what you thought would happen, what you saw, and why you think it happened.  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Look at your table. Tell your grown-up what you found.
   - Ask: Where was the cut strongest, and where did the blades open widest? (good: Strongest near the hinge.; Widest at the tips.; The strong place and the wide place are at opposite ends.)
   - Note: The explanation: each blade is a lever, which is a stiff bar that turns about a hinge. Your hand's squeeze is passed along the blade. Close to the hinge it arrives as a strong push over a short distance. Far from the hinge it arrives as a weak push over a long distance. So the blades cut hardest near the hinge, and open widest and move fastest at the tips.
 - **s6 (3 min)**  
   *Parent does:* Ask your child to use the result on two birds: a sparrow with a beak about 1 centimetre long, and a godwit with a beak about 10 centimetres long.  
-  *Parent says:* A sparrow's whole beak is as short as the part of the scissors near the hinge. A godwit's beak is as long as the whole blade. Which bird can crack a hard seed at the tip of the beak? What can the other bird do that this one cannot?  
-  *Child mode:* Think of a sparrow and a godwit. Who cracks seeds? Who reaches deep?
+  *Parent says:* A sparrow's whole beak is as short as the part of the scissors near the hinge. A godwit's beak is as long as the whole blade. Which bird can crack a hard seed? What can the other bird do that this one cannot?  
+  *Child mode:* Match each bird to a part of the scissors.
   - Check: A bird has a very long, thin beak. What is this beak best at? → **Reaching deep and snapping fast**
   - Think: Why does a finch move a very hard seed to the back of her beak before she bites?
 ### e2 · The Frozen Mud Test: can a probing beak find food in frozen ground? (25 min, 2 days)
@@ -327,7 +327,7 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 - **predict:** Before you start, guess. How many of the ten beans will you find in the soft mud in 30 seconds? How many in the frozen mud? How many after the frozen bowl has stood in the room for 20 minutes? Why do you think so?
 - **fair test:** Use two bowls of the same size, with the same amount of mud and ten beans in each. A grown-up hides the beans at the same depth in both. The same person searches each time, with the same tweezers, one hand and 30 seconds on a timer. Only one thing changes: whether the mud is soft or frozen.
 - **safety:** Wash your hands with soap after touching the soil. Cover the bowl before it goes into the freezer, and keep it away from food.
-- **record:** Draw a table with four rows: soft mud, frozen mud, frozen mud after 20 minutes in the room, and frozen mud after 40 minutes. Write the number of beans found in 30 seconds in each row.
+- **record:** Make a table with four rows: soft mud, frozen mud, frozen mud after 20 minutes in the room, and frozen mud after 40 minutes. Write the number of beans found in 30 seconds in each row.
 - **results table:** Bowl | Beans found in 30 seconds | What the tweezers could do
 - **schedule:** day 1: Make two bowls of mud with ten hidden beans each. Put one bowl in the freezer overnight. (10 min); day 2: Search both bowls for 30 seconds each. Search the frozen bowl again after 20 and 40 minutes in the room. (15 min)
 - **s1 (3 min)**  
@@ -354,31 +354,31 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 - **s5 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. Wait for all three. Then read them the explanation in the note below.  
   *Parent says:* Look at your four counts. Say what you thought would happen, what you saw, and why you think it happened. Then tell me what a godwit must do when the ground where she lives freezes.  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Look at your table. Tell your grown-up what you found.
   - Ask: The food was in the frozen bowl all the time. Why did the beak go hungry? (good: The mud was too hard to push into.; A thin beak cannot break ice.)
   - Ask: Would a sparrow, who picks seeds off the top of the ground, have the same problem? (good: Less so, unless snow covers the seeds.; She does not need to push into the ground.)
   - Note: The explanation: godwits nest in Central Asia and Siberia, where the summer mud is soft and full of worms. In winter that ground freezes for months. The worms are still there, and a thin beak cannot reach them. So the godwits fly to India, where the mud stays soft, and fly back in spring. Tip the mud back into the plant pot when you finish.
 
 ## Activities
 ### a1 · Beak and Feet Watch: ten minutes with one bird (10 min)
-- **record:** A drawing of the beak and of one foot, with the number of toes pointing forward and back. A list of everything you saw the bird do with the beak and with the feet.
+- **record:** The number of toes pointing forward and back. A list of everything you saw the bird do with the beak and with the feet.
 - **s1 (2 min)**  
   *Parent does:* Choose one bird at the window. If no bird comes within two minutes, play a phone video of a crow or a pigeon feeding. Ask your child to look at the beak and guess the food.  
   *Parent says:* Look only at the beak. Is it long or short, thick or thin, straight or hooked? What do you think this bird eats? Why?  
   *Child mode:* Look at the beak. What do you think this bird eats? Why?
 - **s2 (6 min)**  
-  *Parent does:* Watch for five minutes. Your child draws the beak and one foot, and counts the toes pointing forward and back. They list everything the bird does with the beak and with the feet.  
-  *Parent says:* Draw the beak as large as your palm. Then draw one foot and count the toes. Write down each thing the beak does. Write down whether the bird walks or hops.  
-  *Child mode:* Draw the beak and a foot. Count the toes. List what each one does.
+  *Parent does:* Watch for five minutes. Your child looks at the beak and one foot, and counts the toes pointing forward and back. They list everything the bird does with the beak and with the feet.  
+  *Parent says:* Look at the beak and one foot. How many toes point forward, and how many point back? Write down each thing the beak does. Write down whether the bird walks or hops.  
+  *Child mode:* Count the toes. List what the beak and the feet do.
   - Note: A crow or a pigeon has three toes forward and one back. A pigeon and a crow walk, and a sparrow hops. A beak is often used to clean feathers and to scratch, as well as to eat.
 - **s3 (2 min)**  
   *Parent does:* Ask your child to read out the list. Ask which jobs of the beak had nothing to do with eating.  
-  *Parent says:* Read me your list. Which jobs did the beak do that were not eating? What would you use for those jobs?  
-  *Child mode:* Read your list. Which beak jobs were not eating?
+  *Parent says:* Read me your list out loud. Then we look for beak jobs that were not eating.  
+  *Child mode:* Read your list out loud.
   - Ask: What did the beak do besides eating? (good: Cleaned the feathers.; Carried a twig.; Pecked at another bird.; Wiped the beak clean on the rail.)
   - Think: You have hands and teeth. Which jobs of your hands and teeth does a bird do with her beak?
 ### a2 · The Sleeping Grip: how tendons close a hand or a foot (12 min)
-- **record:** Two small drawings of your hand: one with the wrist bent back and one with the wrist bent forward. Draw what the fingers did each time.
+- **record:** What your fingers did with the wrist bent back, and what they did with the wrist bent forward. Say it, write it, or draw your hand each time.
 - **s1 (2 min)**  
   *Parent does:* Ask your child the question about the sleeping myna. Write down the guess.  
   *Parent says:* A myna sleeps for about ten hours on a thin branch. She does not fall off. How do you think her toes stay closed while she sleeps?  
@@ -391,7 +391,7 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 - **s3 (3 min)**  
   *Parent does:* Your child holds a pencil loosely across the fingers, with the wrist bent far forward. Pull the pencil gently. Then your child bends the wrist back and holds the pencil in the same loose way. Pull again.  
   *Parent says:* Hold the pencil loosely, with your wrist bent forward. I will pull it gently. Now bend your wrist back and hold it loosely again. Which time was the pencil harder to pull out?  
-  *Child mode:* Hold a pencil loosely. Bend your wrist forward, then back. Which grip is stronger?
+  *Child mode:* Hold a pencil loosely. Bend your wrist forward, then back.
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say what they saw and why they think it happened. Then read them the explanation in the note below.  
   *Parent says:* Say what your fingers did when your wrist bent back, and why you think it happened. Then find the cords on the inside of your wrist. Wiggle your fingers and feel the cords move.  
@@ -401,12 +401,12 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 ### a3 · Find the Dinosaur in a Bird (15 min)
 - **record:** A table with eight rows, one for each feature, and two columns: 'Bird' and 'Small meat-eating dinosaurs: my guess'. Put a tick or a cross in each box.
 - **s1 (3 min)**  
-  *Parent does:* Draw the table with eight rows. The first four rows are feathers, scaly feet, claws on the toes, and three main toes pointing forward. The last four are walks on the toes, lays eggs with hard shells, sits on the eggs, and a wishbone.  
-  *Parent says:* We are going to check a bird for eight features. Then you will guess which of the eight a small meat-eating dinosaur had. Draw the table first.  
-  *Child mode:* Draw a table with eight rows. Write one feature in each row.
+  *Parent does:* Make the table with eight rows. The first four rows are feathers, scaly feet, claws on the toes, and three main toes pointing forward. The last four are walks on the toes, lays eggs with hard shells, sits on the eggs, and a wishbone.  
+  *Parent says:* We are going to check a bird for eight features. Then you will guess which of the eight a small meat-eating dinosaur had. Make the table first.  
+  *Child mode:* Make a table with eight rows. Write one feature in each row.
 - **s2 (5 min)**  
   *Parent does:* Watch a bird at the window, or a video of a hen or pigeon walking. Tick each feature you can see. Then your child stands on tiptoe and feels their own raised heel and ankle.  
-  *Parent says:* Look at the leg. The joint that seems to bend backward is not a knee. Stand on your toes. Your heel is up in the air now, just as hers is. What part of her leg matches your heel?  
+  *Parent says:* Look at the leg. The joint that seems to bend backward is not a knee. Stand on your toes. Your heel is up in the air now, just as hers is.  
   *Child mode:* Tick what you see on the bird. Then stand on your toes. Feel your heel.
   - Note: A bird walks on the toes all the time. The backward-pointing joint is the ankle, and the real knee is hidden in the feathers. You cannot see eggs or a wishbone at the window, so tick those from what you know. If you have a chicken wishbone, show it now.
   - Check: A hen's leg has a joint that points backward. Which joint is it? → **The ankle**
@@ -416,21 +416,21 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
   *Child mode:* Guess which features a small dinosaur had. Tick or cross each one.
 - **s4 (4 min)**  
   *Parent does:* Tell your child the answer after they have guessed. Fossils show all eight features on small meat-eating dinosaurs. Then ask what a hen does not have that those dinosaurs had.  
-  *Parent says:* Fossils show every one of the eight on small meat-eating dinosaurs. Say what you guessed, what the fossils show, and what you think that means. What did those dinosaurs have that a hen does not?  
+  *Parent says:* Fossils show every one of the eight on small meat-eating dinosaurs. Look at your guesses. Which ones were right?  
   *Child mode:* All eight are found in fossils. What does that tell you about birds?
   - Ask: What did Velociraptor have that a hen does not? (good: Teeth.; A long bony tail.; Hands with three clawed fingers.)
   - Note: The evidence: Sinosauropteryx had short feathers. Velociraptor's arm bone has the small knobs where long feathers were fixed, and a Velociraptor wishbone was described in 1997. Citipati was found sitting on a nest of hard-shelled eggs. Footprints show three front toes and no heel mark.
   - Think: If a hen is a dinosaur, when did the last dinosaur die?
 ### a4 · Where Would You Nest? Four places, four problems (12 min)
-- **record:** Four small drawings, one for each place. Beside each, write the main danger there and how your nest deals with it.
+- **record:** Four small nests, one for each place (or drawings, if you prefer). Beside each, write the main danger there and how your nest deals with it.
 - **s1 (2 min)**  
   *Parent does:* Write the four places on four slips. The first two are open stony ground with no plants, and a tall tree where snakes climb. The last two are the underside of a concrete bridge, and a big tree with an old hole.  
   *Parent says:* A nest has two jobs. It keeps the eggs warm, and it keeps hunters away from eggs and chicks. Here are four places. What is the biggest danger to an egg in each one?  
-  *Child mode:* Read the four places. What is the danger to an egg in each?
+  *Child mode:* Read the four slips. Think about the danger to an egg in each place.
 - **s2 (6 min)**  
-  *Parent does:* Your child draws a nest for each place and says how it deals with the danger. Do not show the real answers yet.  
-  *Parent says:* Design a nest for each place. You have only a beak and two feet. You can use grass, twigs, mud, leaves or nothing at all. Tell me how each design keeps the eggs safe.  
-  *Child mode:* Draw a nest for each place. Say how it keeps the eggs safe.
+  *Parent does:* Your child makes a small nest on each slip from grass, twigs, leaves or scraps, or just describes it. They say how it deals with the danger. Do not show the real answers yet.  
+  *Parent says:* Make a nest on each slip. You have only a beak and two feet. Use grass, twigs, leaves or scraps. Tell me how each nest keeps the eggs safe.  
+  *Child mode:* Make a nest on each slip. Say how it keeps the eggs safe.
   - Note: Any design with a reason is good. Ask how the bird would carry and fix each material with only a beak.
 - **s3 (4 min)**  
   *Parent does:* Read out what real birds do, from the note below. Ask your child which real nest is closest to their own design, and which surprised them.  
@@ -444,9 +444,9 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 - **record:** A tree of eight cards on a wall or a door, with six feature marks on the main line. A note of what your family guessed and what surprised them.
 - **schedule:** day 1: Draw eight animal cards. (15 min); day 2: Arrange the cards as a branching tree on the wall and add the feature marks. (15 min); day 3: Show the tree to your family and ask them three questions. (15 min)
 - **s1 (15 min)**  
-  *Parent does:* Day 1. Your child draws eight cards: a mugger crocodile, Barapasaurus, Rajasaurus, Tyrannosaurus, Velociraptor, Archaeopteryx, a hen and a sparrow. On each card they write the name and when the animal lived.  
-  *Parent says:* Draw one animal on each card. Barapasaurus was a long-necked plant-eater found in Telangana. Rajasaurus was a meat-eater found in Gujarat. Which of these eight do you think is the sparrow's closest relative? Why?  
-  *Child mode:* Draw eight animal cards. Write each name. Guess the sparrow's closest relative.
+  *Parent does:* Day 1. Your child makes eight cards: a mugger crocodile, Barapasaurus, Rajasaurus, Tyrannosaurus, Velociraptor, Archaeopteryx, a hen and a sparrow. On each card they write the name and when the animal lived. They can draw the animal, or stick on a picture, or leave the name alone.  
+  *Parent says:* Make one card for each animal. Barapasaurus was a long-necked plant-eater found in Telangana. Rajasaurus was a meat-eater found in Gujarat. Which of these eight do you think is the sparrow's closest relative? Why?  
+  *Child mode:* Make eight animal cards. Write each name. Guess the sparrow's closest relative.
   - Note: When each lived: the crocodile, the hen and the sparrow are alive today. Barapasaurus lived about 185 million years ago. Rajasaurus and Tyrannosaurus lived about 67 million years ago. Velociraptor lived about 75 million years ago, and Archaeopteryx about 150 million years ago. Draw Velociraptor with feathers.
 - **s2 (15 min)**  
   *Parent does:* Day 2. Tape the wool up the wall as one main line. Add the cards on short side branches, from the bottom: crocodile, Barapasaurus, Rajasaurus, Tyrannosaurus, Velociraptor, Archaeopteryx. Put the hen and the sparrow together at the top. Then stick six feature marks on the main line, using the note below.  
@@ -465,14 +465,14 @@ Appa was still holding the jar lid of rice. He looked at it. Then he tipped it o
 ## Challenges
 ### c1 · Stick a Nest to a Wall: build with pellets like a swallow (30 min)
 - **problem:** A red-rumped swallow has no hands and no glue. She carries wet mud in her beak, one small pellet at a time. She sticks about a thousand pellets to the underside of a bridge. Your problem is like hers. Build a nest cup on an upright piece of cardboard, using only small pellets. When it is dry, it must hold three marbles without breaking off.
-- **your turn:** Now design your own. Change one thing: the mix, the shape, or how long you wait between rows. Draw your design, build it, and test it with the three marbles after one day. Write down what held and what broke.
+- **your turn:** Now design your own. Change one thing: the mix, the shape, or how long you wait between rows. Tell your grown-up your plan (or draw it), build it, and test it with the three marbles after one day. Write down what held and what broke.
 - **constraints:** Use only pellets no bigger than a chana. Do not press on one big lump.; The cardboard stands upright while you build.; No glue, tape or string.; The cup must stick out at least 4 centimetres from the cardboard.; After drying for one day, it must hold three marbles or three large chana for one minute.
 - **general:** Start with a curved line of pellets on the cardboard, shaped like a smile. Build upward and outward from that line.; Wet each pellet a little before pressing it on, so that it sticks to the row below.; Build a few rows, let them dry for some hours, and then add more.
 - **creative:** Mix short bits of dry grass or coconut fibre into the pellets. Then cracks do not run through the wall.; Make the wall thick where it joins the cardboard and thin at the rim.; Roughen the cardboard with a fork first, so that the first row has something to hold.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Stand the cardboard upright. Ask your child what will make the wet pellets fall off, and how to stop that.  
   *Parent says:* The wall is upright, and the pellets are wet and heavy. What could make the nest fall off before it dries? List every idea you have for stopping that.  
-  *Child mode:* Read the problem. Why might the wet pellets fall off? How can you stop it?
+  *Child mode:* Read the problem. Think of ideas to stop the pellets falling off.
   - Ask: What makes a wet nest fall off an upright wall? (good: Its own weight.; Too much water, so the pellets slide.; Building too far out before the bottom is dry.)
 - **s2 (15 min)**  
   *Parent does:* Your child rolls pellets and builds the cup, row by row. If the wall starts to sag, they stop and let it dry before adding more.  

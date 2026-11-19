@@ -212,7 +212,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 - **s3 (6 min)**  
   *Parent does:* Play the next eight cards. Swap the reader's job after every card. Keep a tally of points on paper.  
   *Parent says:* Keep going. Ask yourself two things. Is it made of long chains of one small piece? Did a living being make it, or a factory?  
-  *Child mode:* Play on. Is it a long chain? Who made it?
+  *Child mode:* Play the next eight cards. Take turns as the reader.
   - Ask: Which card surprised you so far, and why? (good: Hair and plastic are the same kind of thing.; Rice is a polymer.; Salt and sugar are not polymers.)
 - **s4 (3 min)**  
   *Parent does:* Play the last ten cards. When the pile is finished, count each player's points.  
@@ -221,7 +221,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 - **s5 (2 min)**  
   *Parent does:* Say who won. Ask your child which card was the hardest to place, and why.  
   *Parent says:* Who got the most points? Which card was hardest? Why was it hard?  
-  *Child mode:* Who won? Which card was hardest? Why?
+  *Child mode:* Find the card that was hardest to place.
   - Think: Why is a hair more like a plastic bag than like a sugar crystal?
 
 ## Experiments
@@ -230,13 +230,13 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 - **predict:** Before you start, guess. Which film will fold the most times before it cracks, and which will crack first? Why do you think so?
 - **fair test:** All three films start from one pot of the same mix. Each gets the same amount, spread to the same size and thickness, and dried in the same place for the same time. Only the amount of glycerine changes. The film with no glycerine is the control, the one the others are compared with. Each film is tested twice, because one try can be a fluke.
 - **safety:** An adult does the cooking. The mix gets hot and sticky, like hot custard, so keep children back from the stove. Do not taste the films.
-- **record:** For each film, write the glycerine amount, the number of folds before it cracked on each try, and how far it stretched. Draw a bar chart with one bar for each film. Write three lines: what I thought, what I saw, and why.
+- **record:** For each film, write the glycerine amount, the number of folds before it cracked on each try, and how far it stretched. Make a bar chart with one bar for each film. Draw it, or stack coins. Write three lines: what I thought, what I saw, and why.
 - **results table:** Film | Glycerine added (teaspoons) | Folds before it cracks: try 1 | Folds before it cracks: try 2 | Stretch before it tears (cm)
 - **schedule:** day 1: Cook the mix, add the glycerine and pour three films. (30 min); day 3: Peel the films. Fold them, stretch them and draw the chart. (23 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child the cornflour, the vinegar and the glycerine. Say you will make three films with none, one and two teaspoons of glycerine. Write down their guess and reason.  
   *Parent says:* We will cook three films from the same cornflour. One gets no glycerine. One gets one teaspoon. One gets two teaspoons. Which will fold the most times before it cracks? Why do you think so?  
-  *Child mode:* We make three films. Each has a different amount of glycerine. Which will bend best? Why?
+  *Child mode:* Look at the three amounts of glycerine. Pick the film you think will bend best.
   - Ask: Why do you think the film you chose will bend the most? (good: It has the most glycerine.; The glycerine makes it soft.; The glycerine gets between the starch chains.)
   - Note: Do not correct the guess. Write each guess and reason at the top of the results table. Glycerine is sold at chemist shops, often as glycerin (a small bottle costs about Rs 30 to 50). One child: your child stirs and labels while you cook. Two to four children: one pot is enough. Each child takes one katori to label, pour and spread, and later tests their own strips. Then the group writes all the fold counts in one table.
 - **s2 (12 min) · grown-up needed**  
@@ -265,7 +265,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 - **s6 (4 min)**  
   *Parent does:* Peel each film from its plate. Look at each film and feel it. Write what each film is like, using the words stiff, bendy, sticky, clear or cloudy.  
   *Parent says:* Peel the film off the plate. Which comes off in one piece? Which feels stiff? Which feels sticky or soft? What do you notice?  
-  *Child mode:* Peel the films off. Look and feel. Write what you notice.
+  *Child mode:* Peel the films off. Look and feel each one. Say or write what you notice.
   - Ask: How is the film with no glycerine different from the film with two teaspoons? (good: The first is stiffer.; The last is softer or sticky.; The first is more brittle.)
   - Note: The film with no glycerine is often stiff and may crack as you peel it. That is a result, not a mistake. The film with two teaspoons may stay a little sticky, and in damp or monsoon weather even the one-teaspoon film can stay tacky because glycerine pulls water from the air. That is a result too. Dry them near a fan if you can.
 - **s7 (8 min)**  
@@ -280,9 +280,9 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   *Child mode:* Mark two dots on a strip. Pull slowly. Measure the distance between the dots.
   - Note: A very stiff film may not stretch at all. Write 5, the starting distance, for no stretch. Stretch numbers vary a lot with thickness, so treat the folds as the main result and the stretch as a rough guide. The film with the most glycerine may stretch the most, or may tear more easily because it is soft.
 - **s9 (5 min)**  
-  *Parent does:* Draw a bar chart of the folds for each film. Ask your child to say what they thought, what they saw, and why.  
+  *Parent does:* Make a bar chart of the folds for each film. Draw it, or stack coins, one stack per film, one coin for each fold. Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a bar for each film. Say what you thought, what you saw, and why.
+  *Child mode:* Make a bar for each film. Say what you thought, what you saw, and why.
   - Note: A strong answer says the film with no glycerine cracked first, and that the glycerine let the starch chains slide past each other. After they have said what they saw, explain: starch chains in a dry film stick tightly to each other, so the film is stiff. Glycerine molecules are small and sit between the chains and keep them a little apart. Now the chains can slide, and the film bends. Too much glycerine leaves the film soft and sticky. If your results are not in this order, write them down as they are and ask why. Films from damp weather, or a thick film, often behave differently.
   - Think: What do you think the glycerine is doing between the starch chains?
 ### e2 · Hot Water Plastics: what does heat do to different plastics? (35 min)
@@ -290,7 +290,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 - **predict:** Before you start, guess. Which strip will change the most in the hot water, and what will it do? Why do you think so?
 - **fair test:** Every strip is cut to the same size, 8 centimetres by 2 centimetres. Every strip sits in the same hot water for the same time, one minute. Only the kind of plastic changes. Measuring each strip before and after shows how much it changed.
 - **safety:** An adult does all the hot-water steps. Keep the kettle and bowl away from the edge of the table. The steel bowl gets hot too, so do not touch it. Cut edges of hard plastic can be sharp.
-- **record:** Write the length of each strip before and after, and what it looked like. Draw a bar chart of how much each strip shrank. Write three lines: what I thought, what I saw, and why.
+- **record:** Write the length of each strip before and after, and what it looked like. Show how much each strip shrank: draw a bar chart, or line the strips up side by side. Write three lines: what I thought, what I saw, and why.
 - **results table:** Strip | Plastic it came from | Length before (cm) | Length after (cm) | How it looked and felt after
 - **s1 (5 min)**  
   *Parent does:* Show your child the plastic things and the kettle. Say you will drop strips of different plastics into hot water. Write down their guess and reason.  
@@ -300,7 +300,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   - Note: Do not correct the guess. One child: your child numbers, measures and watches the timer. Two to four children: split the jobs, one measures, one watches the timer, one records, and swap for the second round. Only the adult touches hot water. Write each guess and reason down. Children often guess the thinnest plastic changes most.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* An adult cuts four strips from a clear PET bottle, a carry bag, a milk packet and a hard plastic tub. Each strip is 8 centimetres by 2 centimetres. Number each strip with a marker. Measure each one.  
-  *Parent says:* A grown-up cuts the strips. Number them one to four. Measure each strip and write its length in the table.  
+  *Parent says:* A grown-up cuts the strips. Number them one to four. Measure each strip and write its length on paper.  
   *Child mode:* Number the strips. Measure each one. Write the length.
   - Note: Cut the bottle strip from the straight wall, not the neck. Cut it going round the bottle, not up and down, because that is the way the plastic is stretched most. Scissors will do for the bottle, the bag and the milk packet. The hard tub needs strong scissors, and only the adult cuts it. Any bottle, bag or tub will do. The results vary with the brand, so write down what you used. Cut edges of hard plastic can be sharp, so round the corners. Wash the strips first.
   - Check: Why do we measure each strip before it goes into the water? → **So we can tell how much it changed**
@@ -311,7 +311,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   - Note: Use a steady bowl on a flat table. Keep the kettle away from children. Do not use the microwave.
 - **s4 (8 min) · grown-up needed**  
   *Parent does:* An adult drops all four strips into the water with steel tongs. Start a timer for one minute. Then the adult lifts the strips out with the tongs onto a steel plate.  
-  *Parent says:* Drop all four strips in together. Watch them for one minute. What do you see happening? Then lift them out with the tongs.  
+  *Parent says:* Drop all four strips in together. Watch them for one minute. Then lift them out with the tongs.  
   *Child mode:* A grown-up drops in the strips. Watch for one minute.
   - Ask: What do you see the strips doing in the water? (good: Curling.; Shrinking.; Not changing.)
   - Note: Thin film floats, so push it under gently with the tongs. Let the strips cool on the plate for a minute before touching them. How much each strip shrinks varies. A bottle strip often shrinks and curls a lot, a thin bag or milk packet only a little, and a hard tub very little. Some strips may curl up quickly. Others may stay flat.
@@ -329,11 +329,11 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 
 ## Activities
 ### a1 · Tear the Newspaper: which way does it tear straight? (15 min)
-- **record:** Draw the sheet with an arrow showing the direction that tore straight. Write one line about why you think it tears that way.
+- **record:** Keep a torn sheet with an arrow showing the direction that tore straight, or take a photo of it. Write one line about why you think it tears that way.
 - **s1 (3 min)**  
   *Parent does:* Give your child a sheet of newspaper. Ask them to guess which way it will tear straight, and why. Write down the guess.  
   *Parent says:* Here is a sheet of newspaper. If we tear it from top to bottom, and then from side to side, will the two tears look the same? Why do you think so?  
-  *Child mode:* Will paper tear the same both ways? Why?
+  *Child mode:* Will the paper tear the same both ways?
   - Ask: Why might the paper tear straighter one way than the other? (good: Something in the paper goes one way.; The way it was made.; I do not know, let us try.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (4 min)**  
@@ -343,15 +343,15 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   - Ask: What do you notice about the two rows? (good: One row is straight.; One row wanders.; One tears more easily.)
   - Note: One child: your child tears the strips while you watch. Two to four children: give each child their own sheet and compare the arrows. One direction usually tears in a long straight line. The other goes wavy, or stops short. Which direction is straight depends on the paper.
 - **s3 (4 min)**  
-  *Parent does:* Draw an arrow on the sheet along the direction that tore straight. Try a notebook page and a magazine page the same way. Mark the straight direction on each.  
+  *Parent does:* Mark an arrow on the sheet along the direction that tore straight. Try a notebook page and a magazine page the same way. Mark the straight direction on each.  
   *Parent says:* Mark the straight direction with an arrow. Now do the same with the notebook page and the magazine page. Is the straight direction the same?  
-  *Child mode:* Draw an arrow on the straight way. Try a notebook page.
+  *Child mode:* Mark the straight way with an arrow. Try a notebook page.
   - Note: If both ways look alike on one sheet, try another sheet. A few papers show it less clearly. The notebook page and the magazine page may tear straight in the same direction as the newspaper, or in the other direction.
   - Check: On one page, the strips tore with a wavy edge in both directions. What should you do? → **Try another sheet and look for the pattern**
 - **s4 (2 min)**  
   *Parent does:* Hold a torn edge up to a window. Look for tiny hairs sticking out. Ask your child what the hairs could be.  
   *Parent says:* Hold the torn edge up to the light. What do you see sticking out? What could those tiny hairs be?  
-  *Child mode:* Look at the torn edge. What are the tiny hairs?
+  *Child mode:* Hold the torn edge up to the light. Look closely.
   - Ask: What could those tiny hairs be? (good: Bits of plant.; Fibres.; The ends of tiny threads.)
   - Note: Paper is a mat of plant fibres, pressed flat. A tear runs straight between the fibres where they line up. Where it has to break across them, it wanders.
 - **s5 (2 min)**  
@@ -361,11 +361,11 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
   - Note: After they have said what they saw, explain: when paper is made, most of the fibres end up lying one way. A tear runs easily along lined-up fibres. Across them, the tear must break fibres, so it wanders. A material made of lined-up fibres is stronger along the fibres than across them.
   - Think: If paper has a grain like wood, which way would it be stronger?
 ### a2 · Wisp and Thread: how does twisting make cotton hold? (20 min)
-- **record:** Draw the loose wisp and the twisted thread side by side. Write how long one fibre was, and what the twist did. If you tried coins, write how many each thread held.
+- **record:** Stick the loose wisp and the twisted thread side by side on paper, or draw them. Write how long one fibre was, and what the twist did.
 - **s1 (3 min)**  
   *Parent does:* Show your child a roll of cotton wool. Pull a wisp about 15 centimetres long and as thick as a pencil. Ask them to guess what will happen if you pull it from both ends, and why.  
   *Parent says:* This is cotton wool. If I hold a wisp at both ends and pull slowly, what will happen? Now, if I twist it first, what will happen? Why do you think so?  
-  *Child mode:* Pull a wisp. What will happen? What if we twist it first? Why?
+  *Child mode:* Guess what a pulled wisp does. Guess what twisting changes.
   - Ask: Why might twisting change what happens? (good: It pushes the fibres together.; It makes it tighter.; It makes it thicker.)
   - Note: Do not correct the guess.
 - **s2 (3 min)**  
@@ -397,7 +397,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 - **s1 (3 min)**  
   *Parent does:* Give your child a small spoonful of plain rice. Ask what taste they expect after two minutes of chewing, and why. Write down the guess.  
   *Parent says:* Rice does not taste of much. If you chew it for a long time, will the taste change? How? Why do you think so?  
-  *Child mode:* Will rice taste different after chewing a long time? Why?
+  *Child mode:* Will plain rice taste different after you chew it for a long time?
   - Ask: Why might the taste change? (good: The mouth does something to it.; The spit changes it.; I do not know.)
   - Note: Use food your child already eats and is not allergic to. Do not correct the guess. One child: you keep the time and write the answers. Two to four children: each child chews their own spoonful at the same time, and one child is the timekeeper. Afterwards compare what each child tasted.
 - **s2 (8 min)**  
@@ -417,7 +417,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 ## Projects
 ### p1 · Takli: spin your own cotton yarn (60 min, 3 days)
 - **safety:** Use a blunt pencil end. A grown-up helps with taping the disc.
-- **record:** Draw your takli. Measure your longest piece of yarn. Write what made it break, and what you would change.
+- **record:** Take a photo of your takli, or draw it. Measure your longest piece of yarn. Write what made it break, and what you would change.
 - **schedule:** day 1: Make the takli. (20 min); day 2: Practise spinning a short yarn. (20 min); day 3: Spin a longer yarn and test it. (20 min)
 - **s1 (20 min) · grown-up needed**  
   *Parent does:* Push a pencil through a hole in the middle of an old CD or a thick cardboard disc, 8 centimetres wide. Wrap tape around the pencil until the disc grips. Tape a bent paper clip to the top as a hook.  
@@ -441,14 +441,14 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 ## Challenges
 ### c1 · Newspaper Tower: hold the most books with four sheets of paper (40 min)
 - **problem:** You have four sheets of newspaper and 40 centimetres of tape. Build a column exactly 25 centimetres tall. It must hold a stack of books on a flat tray for ten seconds. Try to make it hold as many books as you can.
-- **your turn:** Sketch your design. Build it and test it. Change one thing, such as how tight the tube is, and test again. Which design held the most books? Why do you think it did?
+- **your turn:** Plan your design with scrap paper, or sketch it. Build it and test it. Change one thing, such as how tight the tube is, and test again. Which design held the most books? Why do you think it did?
 - **constraints:** Use only four sheets of newspaper and up to 40 centimetres of tape.; The column must be exactly 25 centimetres tall.; Books are added one at a time, gently, on a flat tray on top.; The column must hold for ten seconds to count.; Write down the number of books it held.
 - **general:** Roll each sheet into a tube and tape it, so the tube has the paper's grain running along its length.; Join several tubes into a bundle and tape them together.; Make the tubes thin and tight, so they are stiffer than fat, loose tubes.
 - **creative:** Fold the paper into triangle-shaped tubes, which do not flatten the way round tubes do.; Put one tube inside another to make a wall twice as thick.; Tape tubes in a ring around an empty middle, like the legs of a table.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Ask your child to sketch two or three column designs, and to say which way the paper should be rolled, and why.  
-  *Parent says:* You have four sheets of newspaper and a little tape. How could you make a column that holds the most books? Which way would you roll the paper? Draw some ideas first.  
-  *Child mode:* Draw two or three column ideas. Which way will you roll the paper?
+  *Parent does:* Read the problem together. Ask your child to show two or three column ideas, with scrap paper or a drawing. Ask which way the paper should be rolled, and why.  
+  *Parent says:* You have four sheets of newspaper and a little tape. How could you make a column that holds the most books? Which way would you roll the paper? Try some ideas first with scrap paper, or draw them.  
+  *Child mode:* Show two or three column ideas with scrap paper, or draw them. Which way will you roll it?
   - Ask: What would make a paper column stronger? (good: Rolling it tight.; Rolling it the way the fibres go.; Using more tubes.)
 - **s2 (10 min)**  
   *Parent does:* Tear a strip from each of two sheets to find which way is straight. Roll one sheet so the straight direction runs along the length of the tube. Roll another the other way. Tape both, 25 centimetres tall.  
@@ -481,10 +481,10 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Look at the results of the Cornflour Film test. Ask your child to choose an amount of glycerine and say why.  
   *Parent says:* Look at your results from the Cornflour Film test. Which amount of glycerine made a film that bent well and was not sticky? What amount will you try now? Why?  
-  *Child mode:* Look at your Cornflour Film results. Pick an amount of glycerine. Why that amount?
+  *Child mode:* Look at your Cornflour Film results. Pick an amount of glycerine.
   - Ask: Which amount do you think is best, and why? (good: The one that folded most.; A little more than the best one.; Somewhere between two of the amounts.)
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* Cook one new batch. Use 1 tablespoon of cornflour, 4 tablespoons of water and 1 teaspoon of vinegar. An adult heats it on low until it is clear and thick. Stir in your chosen glycerine. Spread it into a circle on an oiled plate.  
+  *Parent does:* Cook one new batch. Use 1 tablespoon of cornflour, 4 tablespoons of water and 1 teaspoon of vinegar. An adult heats it on low until it is clear and thick. Stir in your chosen glycerine (0, 1 or 2 teaspoons). Spread it into a circle on an oiled plate.  
   *Parent says:* Cook a small batch of the same mix. An adult stirs it on low heat until it is clear and thick. Stir in your glycerine amount. Spread it thin on an oiled plate.  
   *Child mode:* A grown-up cooks the mix. Stir in your glycerine. Spread it flat.
   - Note: Choose a glycerine amount between half a teaspoon and one and a half teaspoons. Make the new film the same size and thickness as the films in the Cornflour Film test, so you can compare.
@@ -501,7 +501,7 @@ The next storm came a week later. Anitha stood on the steps with a torch. The wi
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say whether their new film solved the problem, and what they would change next.  
   *Parent says:* Did your film fold at least ten times? Was it sticky? Which glycerine amount worked best? What would you change next?  
-  *Child mode:* Did your film solve the problem? What would you change next?
+  *Child mode:* Tell your grown-up if your film solved the problem.
   - Note: Some films will not reach ten folds, and that is a good result to talk about. Films made in damp weather may stay sticky. Write exactly what you see.
   - Think: What would you add to the film to make it waterproof?
 

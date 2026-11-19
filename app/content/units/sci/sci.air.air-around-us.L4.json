@@ -660,8 +660,8 @@
     }
    ],
    "safety": "A grown-up makes the holes with the pointed tool, with the bottle on a folded towel, and pushes away from their hands. Do the test over a basin or a sink. Wipe up spilt water at once so nobody slips.",
-   "record": "Fill in the table for each test. Then draw the bottle with the hole, and draw arrows for the air at the hole and at the top of the water. Say which air is pushing in which place.",
-   "context": "In this experiment, you make a small hole in a water bottle. You find out when the water runs out, and when it stops, and what the air has to do with it.",
+   "record": "Fill in the table for each test. Then draw the bottle with the hole, and arrows for the air at the hole and at the top of the water. Or point at the real bottle and tell which air pushes where.",
+   "context": "In this experiment, you make a small hole in a water bottle. You will find out why the water stops running when the cap is tight, and what the air has to do with it.",
    "setup": [
     {
      "art": "A clear 1-litre bottle lying on a folded towel with a grown-up pushing a needle through its side, about 4 centimetres from the bottom.",
@@ -690,7 +690,7 @@
      "mins": 5,
      "do": "Show your child the bottle, the needle and the basin. Say that you will make a hole in the bottle. Write down their guess and their reason.",
      "say": "We will put a small hole near the bottom of this bottle and fill it with water. If I screw the cap on tight and take my finger off the hole, what will the water do? Why do you think so?",
-     "kid": "The bottle has a hole near the bottom and the cap is on tight. Will the water run out? Why?",
+     "kid": "Look at the bottle. Think of your guess and your reason.",
      "ask": [
       {
        "q": "What do you think will happen with the cap on, and why?",
@@ -719,7 +719,7 @@
      "mins": 8,
      "do": "Hold the bottle over the basin. Cover the hole with tape or a finger. Fill the bottle with water to three quarters full. Screw the cap on very tight. Lift your finger and count the seconds. Do this three times, and write down the longest and the shortest time the water ran.",
      "say": "Finger on the hole. Fill the bottle three quarters full. Screw the cap on very tight. Now lift your finger. Count the seconds the water keeps coming out. Stop at thirty.",
-     "kid": "Finger on the hole. Cap on tight. Lift your finger. Count the seconds.",
+     "kid": "Lift your finger and count the seconds out loud.",
      "ask": [
       {
        "q": "What did the water do?",
@@ -748,7 +748,7 @@
      "id": "s4",
      "mins": 7,
      "do": "Hold the bottle over the basin again, with the hole covered by a finger. Take the cap off. Lift your finger and count the seconds. After ten seconds, screw the cap back on while the water is still running.",
-     "say": "Same bottle. This time the cap is off. Lift your finger and count. After ten seconds, quickly screw the cap back on. What happens to the water?",
+     "say": "Same bottle. This time the cap is off. Lift your finger and count. After ten seconds, quickly screw the cap back on.",
      "kid": "Cap off. Lift your finger. Count. After ten seconds, screw the cap on.",
      "ask": [
       {
@@ -768,7 +768,7 @@
      "mins": 5,
      "do": "Cover the hole with tape or a finger and top up the bottle to three quarters full. Screw the cap on tight. Take your finger off the hole. Gently squeeze the sides of the bottle, then let go.",
      "say": "Fill it up again, cap on tight. Hold your finger on the hole. Lift it, then squeeze the sides gently. What does the water do? Now let go. Look at the hole.",
-     "kid": "Cap on tight. Lift your finger. Squeeze the bottle. Let go. Watch the hole.",
+     "kid": "Squeeze the sides gently, then let go. Watch the hole.",
      "ask": [
       {
        "q": "What did you see at the hole when you let go of the squeezed bottle?",
@@ -787,11 +787,11 @@
      "mins": 5,
      "do": "A grown-up makes a second hole high on the bottle, 2 centimetres above the water line. Cap on tight. Lift your finger from the bottom hole and count the seconds.",
      "say": "Now a second hole, high up, above the water. Cap on tight, and finger off the bottom hole. Will the water stop this time? Why do you think so?",
-     "kid": "A grown-up makes a second hole, high up. Put the cap on and take your finger off the bottom hole. Count. What happens?",
+     "kid": "Cap on tight. Take your finger off the bottom hole and count. Does the water stop?",
      "adult": true,
      "ask": [
       {
-       "q": "The cap is on tight, but the water keeps running. Why?",
+       "q": "The cap was on tight. What did the water do this time, and why?",
        "good": [
         "Air comes in through the top hole.",
         "The top hole lets air in.",
@@ -806,7 +806,7 @@
      "id": "s7",
      "mins": 5,
      "do": "Ask your child to say what they thought, what they saw and why. Fill in the table together. Then empty the bottle and dry everything.",
-     "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? What did the air have to do with it?",
+     "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
      "kid": "Say what you thought. Say what you saw. Say why. Fill in your table.",
      "ask": [
       {
@@ -865,8 +865,8 @@
     }
    ],
    "safety": "A grown-up pours the hot water and handles the hot bottles with a thick cloth. The water must not boil in the bottle. Do not use glass bottles. Keep small children back from the kettle and the steam. Wipe up spills so nobody slips.",
-   "record": "Fill in the table. Draw the three bottles at the end. Draw small arrows to show which air pushes harder on the walls of bottle A, inside or outside.",
-   "context": "In this experiment, you try to make a bottle crush itself without touching it. You use hot water, a cap and cold water, and two bottles as controls.",
+   "record": "Fill in the table. Draw the three bottles at the end, or take a photo. Draw small arrows to show which air pushes harder on the walls of bottle A, inside or outside, or tell your grown-up.",
+   "context": "In this experiment, you try to make a bottle crush itself without touching it. You will find out what air does to a closed bottle when it cools. Bottles B and C show what does not work.",
    "setup": [
     {
      "art": "Three identical bottles on a table labelled A, B and C, with a jug of hot water and a bowl of cold water.",
@@ -890,8 +890,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Show your child the three bottles and say which is A, B and C. Explain what you will do to each one. Write down their guess and their reason.",
-     "say": "We will do something different to each bottle. A gets hot water, a cap and cold water. B gets only a cap and cold water. C gets hot water and cold water, but no cap. What will each bottle look like at the end? Why?",
-     "kid": "There are three bottles. A gets hot water, a cap and cold water. B gets a cap and cold water. C gets hot water and cold water, but no cap. What happens to each? Why?",
+     "say": "We will do something different to each bottle. A gets hot water, a cap and cold water. B gets only a cap and cold water. C gets hot water and cold water, but no cap.",
+     "kid": "Look at the three bottles and remember which is A, B and C.",
      "ask": [
       {
        "q": "Which bottle do you think will change, and why?",
@@ -919,7 +919,7 @@
      "id": "s3",
      "mins": 4,
      "do": "Put the cap on bottle B too, without any hot water. Stand the three bottles in the empty bowl. Pour one mug of cold water over each bottle, and then more mugs, the same number on each. Aim at the sides, not into the mouth of C. Start the clock.",
-     "say": "Cap on B. Stand all three bottles in the bowl. Pour the same amount of cold water over each. Start the clock. Watch each bottle. Which one changes first?",
+     "say": "Cap on B. Stand all three bottles in the bowl. Pour the same amount of cold water over each. Start the clock. Watch each bottle.",
      "kid": "Cap on B. Pour cold water over all three. Watch. Which changes?",
      "ask": [
       {
@@ -938,8 +938,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Watch for 2 minutes. Write down what happens to each bottle in the table. Then ask your child which air is pushing harder on bottle A, and why.",
-     "say": "Look at all three bottles. Which squashed, and which did not? Which air is pushing harder on the walls of bottle A, the air inside or the air outside? How can you tell?",
-     "kid": "Look at each bottle. Which one squashed? Which air pushes harder?",
+     "say": "Look at all three bottles. Which air is pushing harder on the walls of bottle A, the air inside or the air outside? How can you tell?",
+     "kid": "Look closely at each bottle. Does any look squashed?",
      "check": {
       "t": "mcq",
       "q": "Bottle A squashed, but bottle C did not. What is the main difference between them?",
@@ -991,8 +991,8 @@
     }
    ],
    "safety": "Do this over a basin or a sink, because the water may fall.",
-   "record": "Draw the glass with the card. Draw an arrow for what pushes the card up and another for what pushes it down. Make the arrow longer for the bigger push.",
-   "context": "In this activity, you fill a glass, cover it with a card, and turn it upside down. You find out whether the water falls.",
+   "record": "Draw the glass with the card. Draw an arrow for what pushes the card up and another for what pushes it down. Make the arrow longer for the bigger push. Or point at the real glass and tell your grown-up which push is bigger.",
+   "context": "In this activity, you fill a glass, cover it with a card, and turn it upside down. You find out whether the water falls, and what could be holding the card.",
    "setup": [
     {
      "art": "A tumbler filled to the brim with water on a table over a basin, with a flat card ready beside it.",
@@ -1016,8 +1016,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Show your child the glass, the card and the basin. Ask for a guess and a reason before you start.",
-     "say": "I will fill this glass, put the card on top, and turn it upside down. What will happen when I take my hand away? Why do you think so?",
-     "kid": "A full glass has a card on top and is turned upside down. What will happen? Why?",
+     "say": "I will fill this glass, put the card on top, and turn it upside down.",
+     "kid": "Look at the glass, the card and the basin. Make your guess.",
      "ask": [
       {
        "q": "What do you think will happen to the card, and why?",
@@ -1035,7 +1035,7 @@
      "id": "s2",
      "mins": 7,
      "do": "Over the basin, fill the glass to the very top. Slide the card across the rim, with no air left under it. Press the card flat. Hold the glass and card together and turn them over. Take your hand away.",
-     "say": "Fill the glass until it almost spills. Slide the card over the top, so no air bubble is left. Hold the card and turn the glass over. Now take your hand away slowly. What happens?",
+     "say": "Fill the glass until it almost spills. Slide the card over the top, so no air bubble is left. Hold the card and turn the glass over. Now take your hand away slowly.",
      "kid": "Fill the glass to the top. Slide the card on. Turn it over. Take your hand away.",
      "ask": [
       {
@@ -1054,8 +1054,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Slowly tilt the glass over the basin until it is on its side. Look at the card. Then ask your child what they think is holding it.",
-     "say": "Now tilt the glass slowly onto its side. Is the card still holding? What does that tell us about the push that holds it? Does it push only up?",
-     "kid": "Tilt the glass. Does the card still hold? What does that tell you?",
+     "say": "Now tilt the glass slowly onto its side. Is the card still holding?",
+     "kid": "Tilt the glass slowly. Watch the card.",
      "parent": "Do not explain the push yet. Ask them what they think. You will come back to this in the Bottle with a Hole. After that experiment, ask them to explain the card on the glass again.",
      "check": {
       "t": "mcq",
@@ -1107,8 +1107,8 @@
     }
    ],
    "safety": "A grown-up makes the holes, with the straw laid on a folded towel and the needle pushed away from fingers. Do not share straws. Use a clean straw for each person.",
-   "record": "Write the name of each straw and whether you could drink. Draw a straw in a glass, and draw arrows for the air pushing on the drink in the glass and on the drink inside the straw.",
-   "context": "In this activity, you try to drink through a plain straw, and then through a straw with a hole in it. You find out what the hole changes.",
+   "record": "Write the name of each straw and whether you could drink. Draw a straw in a glass, and draw arrows for the air pushing on the drink in the glass and on the drink inside the straw. Or tell your grown-up where the air pushes.",
+   "context": "In this activity, you try to drink through a plain straw, and then through a straw with a hole in it. You find out what the hole changes, and what really lifts the drink up a straw.",
    "setup": [
     {
      "art": "Three straws laid on a table, one plain, one with a pin hole near the top and one with a pin hole near the bottom, each labelled.",
@@ -1132,8 +1132,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Show your child the three straws. Say that you will make a hole in two of them. Ask for a guess and a reason.",
-     "say": "One straw has no hole. One will have a hole near the top, and one near the bottom. Which straws can you drink through? Why do you think so?",
-     "kid": "There are three straws. Two have a hole. Which can you drink through? Why?",
+     "say": "One straw has no hole. One will have a hole near the top, and one near the bottom.",
+     "kid": "Look at the three straws. Make your guess.",
      "ask": [
       {
        "q": "Which straws will work, and why?",
@@ -1161,7 +1161,7 @@
      "id": "s3",
      "mins": 8,
      "do": "Sip from the glass with the plain straw. Then try straw T, and then straw B. Write down which straws you could drink through. Then cover the hole in straw T with a finger and sip again. Last, lift straw B slowly up the glass until the hole comes above the juice, and sip as you lift.",
-     "say": "Sip with the plain straw first. Now straw T. Now straw B. Which ones worked? Last, put a finger over the hole in T and sip again. What changes?",
+     "say": "Sip with the plain straw first. Now straw T. Now straw B. Last, put a finger over the hole in T and sip again.",
      "kid": "Sip with each straw. Which work? Cover the hole in T. Sip again.",
      "ask": [
       {
@@ -1232,8 +1232,8 @@
     }
    ],
    "safety": "Fix the hook no higher than your waist, wear slippers or shoes, and stand to the side, because the bucket may fall. Do not go above 3 litres of water in the bucket. Put a towel on the floor, and do this in a bathroom or kitchen where spills do not matter.",
-   "record": "Write the number of litres the hook held before it fell. Measure across the cup of the hook. Draw the hook on the tile with arrows for the air pushing it flat.",
-   "context": "In this activity, you stick a rubber suction hook onto a tile and hang a bucket of water on it. You find out how heavy a weight the air can hold, and compare it with what the sums say.",
+   "record": "Write the number of litres the hook held before it fell. Measure across the cup of the hook. Draw the hook on the tile with arrows for the air pushing it flat, or tell your grown-up where the air pushes.",
+   "context": "In this activity, you stick a rubber suction hook onto a tile and hang a bucket of water on it. You will find out how much weight the air can hold, and check it with a sum.",
    "setup": [
     {
      "art": "A rubber suction hook being pressed flat onto a smooth tile on a wall with a child's palm.",
@@ -1257,8 +1257,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Show your child the hook, the tile and the bucket. Ask for a guess and a reason about how many litres it can hold.",
-     "say": "This rubber hook will stick to the tile. How many litres of water in this bucket do you think it can hold before it falls? Why do you think so?",
-     "kid": "A suction hook is stuck on a tile. How many litres of water can it hold? Why?",
+     "say": "This rubber hook will stick to the tile. We will hang this bucket on it and add water.",
+     "kid": "Look at the hook, the tile and the bucket.",
      "ask": [
       {
        "q": "How many litres do you think it can hold, and why?",
@@ -1285,7 +1285,7 @@
      "id": "s3",
      "mins": 12,
      "do": "Pour in one litre of water. Wait 10 seconds. Pour in another litre. Keep going up to 3 litres, or until the hook falls. Write the number of litres each time. Then press the hook onto a rough or painted wall. Guess how many litres it will hold there, and pour again. Compare the tile and the wall.",
-     "say": "Pour in one litre. Wait ten seconds. Is it still holding? Pour in another. Keep going, and write down how many litres it holds. Stop at three litres.",
+     "say": "Pour in one litre. Wait ten seconds. Is it still holding? Pour in another. Keep going, and write down how many litres it holds. Stop at three litres. Then press the hook on the rough wall and try again. Does it hold as much?",
      "kid": "Add one litre. Wait. Is it holding? Add another. Stop at three.",
      "ask": [
       {
@@ -1304,7 +1304,7 @@
      "id": "s4",
      "mins": 8,
      "do": "Measure across the hook's cup in centimetres. Ask your child to work out the area of the circle on the tile. Use half the width times half the width times three. Then work out the push of the air.",
-     "say": "Measure across the cup. Half of that is the radius. Multiply the radius by itself, and then by three. That is the area in square centimetres. About one kilogram of air pushes on each square centimetre. How big is the push?",
+     "say": "Measure across the cup. Half of that is the radius. Multiply the radius by itself, and then by three. That is the area in square centimetres. About one kilogram of air pushes on each square centimetre. So multiply the area by one kilogram. How big is the push?",
      "kid": "Measure the cup. Work out its area. Air pushes with 1 kilogram on each square centimetre.",
      "parent": "A cup 4 centimetres wide has a radius of 2. 2 times 2 times 3 is about 12 square centimetres. That is a possible push of about 12 kilograms. Real hooks hold much less, because some air gets under the rim and the rubber bends. The number from the sum is the most a perfect hook could hold.",
      "think": "The sum gives a very big number. The hook held far less. Why?",
@@ -1332,8 +1332,8 @@
     }
    ],
    "safety": "Do this only on a trip you are making anyway. Do not go anywhere unsafe for it.",
-   "record": "Draw the bottle and the packet at the bottom, at the top and back at the bottom. Write how your ears felt on the way.",
-   "context": "This activity is for when you go up a hill or take a flight. You close a bottle at one height and see what happens at another. It is an extra activity, so do it only if you have the chance.",
+   "record": "Take a photo of the bottle and the packet at the bottom, at the top and back at the bottom, or draw them. Write how your ears felt on the way.",
+   "context": "This activity is for when you go up a hill or take a flight. You will find out what the thinner air higher up does to a closed bottle and a sealed packet. It is an extra activity, so do it only if you have the chance.",
    "setup": [
     {
      "art": "A child at the bottom of a hill screwing the cap on an empty bottle next to a packet of chips.",
@@ -1357,8 +1357,8 @@
      "id": "s1",
      "mins": 4,
      "do": "At the bottom of the hill, close the empty bottle tightly and look at the sealed packet of chips. Ask your child to guess what both will look like at the top, and why. Measure how thick the packet is with a ruler. Measure round the middle of the bottle with the string.",
-     "say": "We are going up the hill. This bottle is closed, and so is the packet. What will they look like at the top? Why do you think so?",
-     "kid": "The bottle is closed at the bottom of the hill, and the packet is sealed. What changes at the top? Why?",
+     "say": "We are going up the hill. This bottle is closed, and so is the packet. ",
+     "kid": "Look at the closed bottle and the sealed packet. Make your guess.",
      "ask": [
       {
        "q": "What do you think will happen to the packet and the bottle at the top, and why?",
@@ -1376,7 +1376,7 @@
      "id": "s2",
      "mins": 5,
      "do": "At the top, look at the packet and the bottle. Feel your ears. Open the cap and listen, then close it again. Measure the packet and the string round the bottle again.",
-     "say": "We are at the top. Look at the packet. Look at the bottle. Did your ears pop on the way? Open the cap and listen. What happens?",
+     "say": "We are at the top. Look at the packet. Look at the bottle. Did your ears pop on the way? Open the cap and listen.",
      "kid": "At the top, look at the packet and the bottle. Open the cap of the bottle and listen.",
      "ask": [
       {
@@ -1474,7 +1474,7 @@
      "what": "Look at all the marks. Check them against the weather. Did the straw tip go down before rain?"
     }
    ],
-   "record": "Draw a table with the day, where the straw points in centimetres on the card, and the weather. At the end, draw a line graph of the marks.",
+   "record": "Draw a table with the day, where the straw points in centimetres on the card, and the weather. At the end, draw a line graph of the marks, or tell your grown-up when the tip rose and when it fell.",
    "context": "In this project, you make a simple barometer from a jar and a balloon and watch it for a week. You see whether the push of the air changes from day to day.",
    "setup": [
     {
@@ -1499,8 +1499,8 @@
      "id": "s1",
      "mins": 8,
      "do": "Ask your child to guess what the straw will do over the week and why. Show them the jar, the balloon and the straw.",
-     "say": "We are going to build a machine that feels the air's push. If the air pushes harder one day and less the next, what do you think the straw will do? Why do you think so?",
-     "kid": "You will make a barometer from a jar, a balloon and a straw. Will the straw move over a week? Why?",
+     "say": "We are going to build a machine that feels the air's push. If the air pushes harder one day and less the next, the straw may move.",
+     "kid": "A barometer shows how hard the air pushes. You will make one from a jar, a balloon and a straw.",
      "ask": [
       {
        "q": "What do you think will make the straw move?",
@@ -1527,7 +1527,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Each day at the same time, mark where the straw tip points on the card. Write the weather. On the last day, compare the marks with the weather and, if you can, with the pressure number in a weather app.",
+     "do": "Stand the card upright behind the straw tip, in the same place every day. Each day at the same time, mark where the straw tip points on the card. Write the weather. On the last day, compare the marks with the weather and, if you can, with the pressure number in a weather app.",
      "say": "Every day, at the same time, mark the tip of the straw. Write down the weather. After a week, look at all the marks. When did the tip rise? When did it fall? What was the weather then?",
      "kid": "Mark the straw every day. Write the weather. After a week, compare.",
      "parent": "The movements are small, typically a few millimetres, and heat moves them too. If the tip goes up every afternoon and down every night, that is warmth, not weather. That is why we keep it in a steady place and read it at the same time. A weather app shows pressure in hectopascals (sea-level pressure), and a normal day is about 1,000 to 1,020. A fall over a day or two often goes with clouds or a storm. A single week may not show a clear pattern. Say so honestly.",
@@ -1567,7 +1567,7 @@
     "Find how high the bend in the tube can go before the water stops, and say why it stops."
    ],
    "your_turn": "Design your own way to empty the bucket. Test it. Change one thing, such as how high the bend is or how long the tube is, and test it again. Which design worked fastest? What did you learn about what moves the water?",
-   "context": "This is a design challenge about moving water without lifting it. It uses a tube, and the push of the air.",
+   "context": "In this challenge you work out how to empty a full bucket into a lower one without lifting or pouring it. You have a tube, and the push of the air will help.",
    "setup": [
     {
      "art": "A full bucket on a stool, an empty bucket on the floor and a clear tube lying beside them.",
@@ -1587,8 +1587,8 @@
      "id": "s1",
      "mins": 8,
      "do": "Show your child the buckets and the tube. Read out the problem. Ask for a plan and a reason before they try anything.",
-     "say": "We have to empty the top bucket into the bottom one without lifting or pouring it. Here is a tube. How could we do it? Why do you think that will work?",
-     "kid": "Empty the top bucket with no lifting. You have a tube. What is your plan?",
+     "say": "We have to empty the top bucket into the bottom one without lifting or pouring it. Here is a tube.",
+     "kid": "Look at the buckets and the tube. Think of a plan.",
      "ask": [
       {
        "q": "What is your plan, and why do you think it will work?",

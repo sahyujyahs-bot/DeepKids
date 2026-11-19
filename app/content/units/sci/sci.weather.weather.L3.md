@@ -241,12 +241,12 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 - **s2 (7 min)**  
   *Parent does:* Take turns being the wind and the vane, five times each.  
   *Parent says:* I'm the wind now. Where am I coming from? Point your arrow and say my name.  
-  *Child mode:* Point your arm at the wind. Say its name. Is it a north wind? A south wind?
+  *Child mode:* Point your arm at the wind. Say its name.
   - Check: The 'wind' waves a newspaper from the south wall. What should the vane say? → **A south wind**
 - **s3 (1 min)**  
   *Parent does:* 1. The wind stands in the corner between the south and west walls and waves the newspaper. 2. Ask: what wind is this?  
   *Parent says:* The big summer monsoon comes from the southwest. Which way would a vane in Kerala point?  
-  *Child mode:* The summer monsoon comes from the southwest. Where would the arrow point?
+  *Child mode:* Be the vane. Point your arm where the monsoon wind comes from.
 
 ## Experiments
 ### e1 · Sun or Shade: where does a thermometer tell the truth about the air? (38 min)
@@ -254,7 +254,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 - **predict:** Guess first. Will the thermometer read the same in all three places, or different? Which place will read highest? Why do you think so?
 - **fair test:** Use the same thermometer, hung from the same thread, at the same height, in places less than two metres apart. Wait the same 5 minutes in each place before reading. Only the sunlight changes. If you can, do the whole test again the next day at the same time, because one day can be a fluke.
 - **safety:** A glass thermometer breaks easily. Tie it firmly, and keep it away from the edge of the balcony. If it breaks, a grown-up sweeps up the glass. Never look at the Sun.
-- **record:** Fill in the table. Draw your balcony or window from above, and mark the three places with their readings.
+- **record:** Fill in the table with the three places and their readings. If you like, draw your balcony from above and mark the places, or just tell your grown-up where each one was.
 - **results table:** Place | My guess (°C) | Reading after 5 minutes (°C) | Reading 1 minute later (°C)
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the thermometer. 2. Show the sunny spot and the shady spot. 3. Ask for a guess and a reason for each of the three places.  
@@ -287,7 +287,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 - **s6 (4 min)**  
   *Parent does:* 1. Open a weather app, or look at today's newspaper weather box. 2. Find the temperature for your town right now. 3. Compare it with your three readings.  
   *Parent says:* Weather stations measure the air in the shade. Which of our three readings is closest to the weather report?  
-  *Child mode:* Look at the weather app. Which of your readings is closest to it?
+  *Child mode:* Look at the weather app. Find the temperature for your town. Compare it with your three readings.
   - Check: Which of your readings is likely to be closest to the weather report? → **The one in the shade, or under the paper roof**
 - **s7 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -299,7 +299,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 - **predict:** Guess first. Which will have the deeper water, the wide one or the narrow one, or will they be the same? Why do you think so?
 - **fair test:** Both containers have straight sides and stand side by side, close together, under the middle of the chalni. They get the same three mugs of water, poured from the same height. Then swap their places and do it again, because more water may fall on one side.
 - **safety:** Glass can break: hold the glass with both hands, or use a plastic jar.
-- **record:** Fill in the table. Draw the two containers side by side, with the water level in each.
+- **record:** Fill in the table with the depth in each container. If you like, draw the two containers with the water level in each, or take a photo.
 - **results table:** Container | How wide (cm) | Depth, try 1 (mm) | Depth, try 2, swapped (mm)
 - **s1 (4 min)**  
   *Parent does:* 1. Show both containers. 2. Check that each one is as wide at the top as at the bottom. 3. Ask for a guess and a reason.  
@@ -345,9 +345,9 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
   - Note: Each reading takes about two minutes. If you miss one, write 'missed'. Don't guess a number.
   - Wait: Read it six times through the day
 - **s3 (9 min)**  
-  *Parent does:* 1. Draw a line chart: times along the bottom, temperature up the side. 2. Put a dot for each reading and join the dots. 3. Circle the highest dot.  
+  *Parent does:* 1. Draw a line chart: times along the bottom, temperature up the side. 2. Put a dot for each reading and join the dots. 3. Circle the highest dot. If you do not want to draw, point to the highest reading in your table.  
   *Parent says:* Let's see the whole day at once. Where is the highest point on our chart?  
-  *Child mode:* Draw a dot for each reading. Join them. Circle the highest one. What time was it?
+  *Child mode:* Draw a dot for each reading, or point to each reading in your table. Join them. Circle the highest one. What time was it?
   - Check: On a clear day, when is the shade temperature usually highest? → **In the middle of the afternoon**
 - **s4 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -371,7 +371,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
   - Note: Most guesses are a few degrees off. That is the point: our skin is not a measuring tool. Keep the guess for the Sun or Shade test.
 ### a2 · Make a Wind Vane (25 min)
 - **safety:** A grown-up pushes the pin in. Keep the pin point away from faces.
-- **record:** Draw your wind vane. Write where the wind was coming from.
+- **record:** Take a photo of your wind vane, or draw it. Write where the wind was coming from.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Cut a small triangle, about 3 cm, for the arrowhead. 2. Cut a bigger shape, about 6 cm, for the tail. 3. Cut a short slit at each end of the straw. 4. Slide the arrowhead in one end and the tail in the other.  
   *Parent says:* The tail must be bigger than the arrowhead. We'll see why when we test it.  
@@ -410,7 +410,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
   *Parent says:* This is what weather stations measured yesterday. Max means the highest temperature. Min means the lowest.  
   *Child mode:* Find your town. Find the max, the min and the rain. Write them down.
 - **s2 (5 min)**  
-  *Parent does:* 1. Ask: at what time of day was the max probably measured? And the min? 2. Compare the report with your own shade reading.  
+  *Parent does:* 1. Ask: at what time of day was the max probably measured? And the min? 2. Compare the report with your own shade reading from the Sun or Shade test, or with your guess from the first activity.  
   *Parent says:* When do you think the air was warmest yesterday? When was it coolest? Is our reading close to the report?  
   *Child mode:* When was it warmest? When was it coolest? Is your reading close to the report?
   - Ask: Why might our reading be a little different from the report? (good: The weather station is in a different place.; Our street has more walls and roads.; We measured at a different time.)
@@ -421,40 +421,40 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. A grown-up touches the sunny ledge first, to check it is safe. 2. Your child touches it for a moment with the back of the hand. 3. Then your child holds the hand in the air just above the ledge.  
   *Parent says:* Which feels hotter, the sunny ledge or the air just above it? Why might that be?  
-  *Child mode:* Touch the sunny ledge for a moment. Now hold your hand just above it. Which feels hotter?
+  *Child mode:* Touch the sunny ledge for a moment. Now hold your hand just above it.
   - Note: Your hand is warmed by sunlight too, just like the thermometer. When you feel the air above the ledge, shade your hand with a notebook held above it.
 - **s2 (4 min)**  
   *Parent does:* 1. Do the same on a shaded ledge or floor. 2. Put the four places in order from hottest to coolest: the sunny ledge, the air above it, the shady ledge and the air above it.  
-  *Parent says:* Sunlight goes straight through clear air, but the ledge takes it in. What does that tell us about where to put a thermometer?  
-  *Child mode:* Now feel a shady ledge and the air above it. Put all four in order, hottest first.
+  *Parent says:* Do the same in the shade. Which of the four places do you think is hottest? Which is coolest?  
+  *Child mode:* Feel a shady ledge and the air above it. Put all four places in order, hottest first.
   - Check: Why does a sunny ledge get hotter than the air just above it? → **Clear air lets most sunlight pass through, but the ledge takes it in**
 
 ## Projects
 ### p1 · My Weather Diary: one week (60 min, 7 days)
 - **safety:** Don't go out to read the tools in a thunderstorm. Read them when it is safe. Tie the glass thermometer firmly.
-- **record:** Each day at 8 in the morning and 3 in the afternoon: the temperature in the shade, the rain in mm, where the wind comes from, the wind number from 0 to 5, and a drawing of the sky.
-- **schedule:** day 1: Set up the weather station: shade thermometer, rain gauge and wind vane. Draw the diary table. Make the first entry. (15 min); day 2: Morning and afternoon readings: temperature, rain, wind and sky. (6 min); day 3: Morning and afternoon readings. (6 min); day 4: Morning and afternoon readings. (6 min); day 5: Morning and afternoon readings. (6 min); day 6: Morning and afternoon readings. (6 min); day 7: Last readings. Draw a bar chart of the seven afternoon temperatures. Find one pattern. (15 min)
+- **record:** Each day at 8 in the morning and 3 in the afternoon: the temperature in the shade, the rain in mm, where the wind comes from, the wind number from 0 to 5, and one word or a photo for the sky.
+- **schedule:** day 1: Set up the weather station: shade thermometer, rain gauge and wind vane. Make the diary table. Make the first entry. (15 min); day 2: Morning and afternoon readings: temperature, rain, wind and sky. (6 min); day 3: Morning and afternoon readings. (6 min); day 4: Morning and afternoon readings. (6 min); day 5: Morning and afternoon readings. (6 min); day 6: Morning and afternoon readings. (6 min); day 7: Last readings. Draw a bar chart of the seven afternoon temperatures. Find one pattern. (15 min)
 - **s1 (15 min) · grown-up needed**  
-  *Parent does:* 1. Hang the thermometer in the shade, under the paper roof. 2. Put the rain gauge on the open edge of the balcony or terrace, with nothing above it. 3. Put the wind vane beside it. 4. Draw the diary table and make the first entry when you finish.  
+  *Parent does:* 1. Hang the thermometer in the shade, under the paper roof. 2. Put the rain gauge on the open edge of the balcony or terrace, with nothing above it. 3. Put the wind vane beside it. 4. Make the diary table in your notebook and make the first entry when you finish.  
   *Parent says:* This is our own weather station. Real weather stations read their tools at the same times every day, so we will too.  
-  *Child mode:* Set up your thermometer, rain gauge and wind vane. Draw your table. Write today's weather.
+  *Child mode:* Set up your thermometer, rain gauge and wind vane. Make your table. Write today's weather.
   - Note: If your balcony has a roof over all of it, the rain gauge will catch nothing. Put it on a terrace or a window ledge open to the sky, or simply write 'not measured' for rain.
 - **s2 (6 min)**  
-  *Parent does:* On days 2 to 6, every morning at 8 and every afternoon at 3: 1. Read the thermometer. 2. Read the rain gauge in mm, then empty it. 3. Read the wind vane and the wind number. 4. Draw the sky.  
+  *Parent does:* On days 2 to 6, every morning at 8 and every afternoon at 3: 1. Read the thermometer. 2. Read the rain gauge in mm, then empty it. 3. Read the wind vane and the wind number. 4. Write one word for the sky, such as sunny, cloudy or rainy, or take a photo.  
   *Parent says:* What does our weather station say today? Is it the same as yesterday?  
-  *Child mode:* Read your tools. Write the numbers. Empty the rain gauge. Draw the sky.
+  *Child mode:* Read your tools. Write the numbers. Empty the rain gauge. Write one word for the sky.
   - Note: No rain all week is a real result. Write 0 mm each day. A dry week in summer is normal in much of India.
   - Wait: Do this every day on days 2 to 6
 - **s3 (15 min)**  
-  *Parent does:* 1. On day 7, take the last readings. 2. Draw a bar chart of the seven afternoon temperatures. 3. Ask your child to find one pattern. 4. Ask what they would like to measure next.  
+  *Parent does:* 1. On day 7, take the last readings. 2. Draw a bar chart of the seven afternoon temperatures, or just write them in a row. 3. Ask your child to find one pattern. 4. Ask what they would like to measure next.  
   *Parent says:* Look at the whole week. What do you notice? Was it always warmer in the afternoon? Did the wind usually come from one side?  
-  *Child mode:* Draw a bar for each afternoon. What pattern can you see?
+  *Child mode:* Draw a bar for each afternoon, or look at your seven numbers. What pattern can you see?
   - Check: You keep a weather diary for a week. The afternoon is warmer than the morning on all seven days. What is the best thing to say? → **In this week, at my home, afternoons were warmer than mornings**
 
 ## Challenges
 ### c1 · A Weather Screen for Your Balcony (30 min)
 - **problem:** A paper roof keeps the sun off a thermometer, but wind can blow it away and the paper itself warms up. Design a better weather screen, a shaded house for your thermometer, from things at home.
-- **your turn:** Now design your own weather screen. Draw it, build it, and test it: hang the thermometer inside it in the sun, then in full shade. How close are the two readings?
+- **your turn:** Now design your own weather screen. Plan it (sketch it or tell your plan), build it, and test it: hang the thermometer inside it in the sun, then in full shade. How close are the two readings?
 - **constraints:** Use only things from home.; Sunlight must never land on the thermometer.; Air must be able to flow through.; With the screen in the sun, the thermometer inside it must read within 2 degrees of a reading in full shade.
 - **general:** Cut slots in the sides of a white box, so air can pass but sunlight cannot shine straight in.; Make a double roof from two sheets with a gap between them, so the top sheet gets hot but the bottom one stays cool.; Cover the outside with white paper or foil, which reflect most of the sunlight.
 - **creative:** Use an upside-down plastic tub with holes punched in the sides, covered in white paper.; Stack three white paper plates with gaps between them, like the screens some weather stations use for small sensors.; Hang the screen from the grill, so it does not touch the hot ledge.
@@ -463,9 +463,9 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
   *Parent says:* This is the reading to beat. How close is the paper roof reading to the shade reading?  
   *Child mode:* Read the thermometer under the paper roof. Then read it in the shade. How far apart are they?
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* 1. Draw a design. 2. Build it from home things. 3. A grown-up does any cutting.  
+  *Parent does:* 1. Plan your design: sketch it, or tell your grown-up. 2. Build it from home things. 3. A grown-up does any cutting.  
   *Parent says:* What will keep the sunlight off, but let the air through?  
-  *Child mode:* Draw your weather screen. Build it. Ask a grown-up to do the cutting.
+  *Child mode:* Plan your weather screen: sketch it or say it. Build it. Ask a grown-up to do the cutting.
 - **s3 (10 min)**  
   *Parent does:* 1. Hang the thermometer inside your screen, in the sun. 2. Wait 5 minutes and read it. 3. Compare with the shade reading.  
   *Parent says:* Is your screen better than the paper roof? How could you make it better still?  
@@ -477,8 +477,8 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 - **general:** Put a funnel in the top, so the water sits below a narrow opening and less air reaches it.; Keep the gauge in an open place but read it early in the morning, before the day's heat.
 - **creative:** Pour a thin layer of cooking oil on the water. Oil floats and slows evaporation. Some real rain gauges that are read only once a month do this.; Wrap the jar in white paper, so the sun warms it less, but leave the ruler marks visible.
 - **s1 (10 min)**  
-  *Parent does:* 1. Pour water into each jar until a ruler standing in it reads 20 mm. 2. Mark that level on the jar with a marker. 3. Leave one jar plain. 4. Add your idea to the other.  
-  *Parent says:* Both start with the same water. Only your idea is different. That makes it a fair test.  
+  *Parent does:* 1. Pour water into each jar until a ruler standing in it reads 20 mm. 2. Mark that level on the jar with a pen or a rubber band. 3. Leave one jar plain. 4. Add your idea to the other.  
+  *Parent says:* Both start with the same water. Only your idea is different. That makes it a fair test. Ideas: float a spoon of cooking oil on the water, or put the bottle-top funnel in the jar mouth.  
   *Child mode:* Pour 20 mm of water into each jar. Mark the level. Leave one plain. Add your idea to the other.
 - **s2 (5 min)**  
   *Parent does:* 1. Put both jars side by side on a sunny ledge. 2. Leave them for one day.  

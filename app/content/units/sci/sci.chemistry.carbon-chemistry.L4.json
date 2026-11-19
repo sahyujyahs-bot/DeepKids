@@ -687,12 +687,12 @@
     }
    ],
    "safety": "A grown-up does all the heating and stays at the stove. Switch on the exhaust fan or open a window, because the sugar and the paper make smoke. Use only a tiny pinch of each thing. Salt may crackle and jump, so keep faces away. If the paper or thread starts to glow, press it flat with the spoon. Let everything cool for 5 minutes before anyone touches it.",
-   "record": "Draw a table with eight rows, one for each thing. Write where each thing comes from and its colour after 3 minutes and after 8 minutes. Write whether it leaves a black mark on paper.",
+   "record": "Make a table with eight rows, one for each thing. Write where each thing comes from and its colour after 3 minutes and after 8 minutes. Write whether it leaves a black mark on paper.",
    "context": "In this experiment a grown-up heats eight kitchen things on a tawa. You find out which ones turn black and what those have in common.",
    "setup": [
     {
      "art": "A tawa covered with a sheet of foil, with eight tiny heaps in two rows of four, and a paper map beside it naming each heap.",
-     "caption": "1. Cover a cold tawa with foil. Put eight tiny heaps on it in two rows. Draw a map of which heap is where."
+     "caption": "1. Cover a cold tawa with foil. Put eight tiny heaps on it in two rows. Lay a name slip for each heap beside the tawa in the same rows."
     },
     {
      "art": "A grown-up at a gas stove with a low flame under the tawa, and a child standing one step back, pointing at a heap that has turned brown.",
@@ -799,9 +799,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Cover the cold tawa with foil. Help your child put a tiny heap of each thing on the foil. Make two rows of four, with gaps between. Draw a map on paper of which heap is where. Draw the results table.",
-     "say": "Each heap must be tiny, about as big as one grain of chana. Why should all the heaps be the same size? Now draw a map, because the heaps will soon look different.",
-     "kid": "Put eight tiny heaps on the foil. Keep gaps between them. Draw a map.",
+     "do": "Cover the cold tawa with foil. Help your child put a tiny heap of each thing on the foil. Make two rows of four, with gaps between. Write each thing's name on a paper slip. Lay the slips beside the tawa in the same two rows.",
+     "say": "Each heap must be tiny, about as big as one grain of chana. Why should all the heaps be the same size? Now lay the name slips in the same order, because the heaps will soon look alike.",
+     "kid": "Put eight tiny heaps on the foil. Keep gaps between them. Lay a name slip for each heap.",
      "parent": "Small heaps heat through quickly and make little smoke. Equal heaps keep the test fair. The foil keeps burnt sugar off your tawa.",
      "context": "In this step of The Black Inside you set out eight tiny heaps on a foil-covered tawa. You also draw a map of them."
     },
@@ -814,7 +814,7 @@
      "adult": true,
      "check": {
       "t": "mcq",
-      "q": "In The Black Inside, why are all eight heaps heated on one tawa together?",
+      "q": "Why are all eight heaps heated together on one tawa?",
       "options": [
        "So each heap gets the same heat and time",
        "So the test finishes sooner",
@@ -838,7 +838,7 @@
      "id": "s5",
      "mins": 6,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. Fill in where each thing comes from. Then read them the explanation in the note below.",
-     "say": "Say what you thought would happen, what you saw, and why you think it happened. Now look at where each thing comes from. What do the five black ones share?",
+     "say": "Say what you thought would happen, what you saw, and why you think it happened. Now look at where each thing comes from.",
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -905,8 +905,8 @@
     }
    ],
    "safety": "A grown-up does the heating. The cornflour paste holds heat, so let it cool before anyone touches it. Taste only a tiny pinch. Do not swallow the cotton.",
-   "record": "Draw a table with three rows: glucose, cornflour and cotton. For each one, write what happened in cold water, how it tasted, and what happened when it was heated.",
-   "context": "In this experiment you test glucose, cornflour and cotton in cold water, on your tongue and in hot water. All three are built from the same ring of atoms.",
+   "record": "Make a table with three rows: glucose, cornflour and cotton. For each one, write what happened in cold water, how it tasted, and what happened when it was heated.",
+   "context": "In this experiment you test glucose, cornflour and cotton in cold water, on your tongue and in hot water. All three are built from the same ring of atoms. You will find out why one ring can make a sweet powder, a starch and a cloth thread.",
    "setup": [
     {
      "art": "Three tumblers of water in a row, with a spoon of white powder, a spoon of white flour and a ball of cotton wool lying in front of them.",
@@ -1017,7 +1017,7 @@
      "id": "s5",
      "mins": 6,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. Then read them the explanation in the note below.",
-     "say": "Say what you thought would happen, what you saw, and why you think it happened. The ring is the same in all three. So what made them behave so differently?",
+     "say": "Say what you thought would happen, what you saw, and why you think it happened.",
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -1073,7 +1073,7 @@
     }
    ],
    "safety": "A grown-up does all the heating, with tongs, and the child stands one step back. Switch on the exhaust fan, because white smoke comes out of the pinhole. The smoke may catch fire in a small flame, which is expected. Leave the packet closed on the steel plate for 10 minutes. If it is opened hot, the charcoal can start to glow and burn.",
-   "record": "Draw a table with two rows: the toothpick burnt in the open, and the toothpicks in the foil packet. Write what was left, its colour, whether it kept its shape and whether it draws on paper.",
+   "record": "Make a table with two rows: the toothpick burnt in the open, and the toothpicks in the foil packet. Write what was left, its colour, whether it kept its shape and whether it draws on paper.",
    "context": "In this experiment a grown-up heats wooden toothpicks in the open flame and inside a tight foil packet. You compare what is left.",
    "setup": [
     {
@@ -1172,7 +1172,7 @@
      "adult": true,
      "check": {
       "t": "mcq",
-      "q": "In Foil Packet Charcoal, why must the packet stay closed until it is cool?",
+      "q": "Why must the foil packet stay closed until it is cool?",
       "options": [
        "Hot charcoal burns away when air reaches it",
        "The smoke would be lost",
@@ -1221,11 +1221,23 @@
    "days": 1,
    "materials": [
     {
-     "item": "sheets of plain paper",
-     "qty": 3
+     "item": "small coins, to be atoms that make one bond",
+     "qty": 12
     },
     {
-     "item": "a pencil and an eraser",
+     "item": "medium coins, to be atoms that make two bonds",
+     "qty": 6
+    },
+    {
+     "item": "big coins or bottle caps, to be atoms that make four bonds",
+     "qty": 4
+    },
+    {
+     "item": "matchsticks or toothpicks, to be bonds",
+     "qty": 30
+    },
+    {
+     "item": "a sheet of paper and a pencil",
      "qty": 1
     }
    ],
@@ -1233,19 +1245,19 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw molecules with atoms that make one, two or four bonds. Compare how many different molecules each atom can build."
+     "what": "Build molecules with atoms that make one, two or four bonds. Compare how many different molecules each atom can build."
     }
    ],
-   "record": "Keep the three sheets. Under each one, write how many different molecules that kind of atom could build.",
-   "context": "In this activity you draw molecules on paper with atoms that make one, two or four bonds. It shows why carbon can build far more than other atoms.",
+   "record": "Take a photo of your best build from each round, or draw it. Write how many different molecules each kind of atom could build.",
+   "context": "In this activity coins are atoms and matchsticks are bonds. You build molecules with atoms that make one, two or four bonds. You will find out why carbon can build far more than other atoms.",
    "setup": [
     {
      "art": "A sheet of paper with three circles drawn on it: one with a single line coming out, one with two lines and one with four lines.",
-     "caption": "1. Draw each atom as a circle. A bond is a line. One kind of atom makes 1 bond, another makes 2 bonds, and a third makes 4 bonds."
+     "caption": "1. Each coin is an atom. Each matchstick is a bond. Small coins make 1 bond, medium coins make 2 bonds, and big coins make 4 bonds."
     },
     {
      "art": "A drawing of two small circles joined by one line, with a tick beside it.",
-     "caption": "2. A molecule is finished when every line joins two atoms and no atom has a line left over."
+     "caption": "2. A molecule is finished when every bond joins two atoms and no atom has a bond left over."
     },
     {
      "art": "A drawing of three circles marked C in a row joined by lines, with eight small circles marked H joined around them.",
@@ -1256,18 +1268,18 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Explain the rules below. Then ask the question before any drawing, and write down the guess and the reason.",
-     "say": "An atom is a circle and a bond is a line. One kind of atom makes 1 bond, one kind makes 2, and one kind makes 4. Which kind will build the most different molecules? Why do you think so?",
-     "kid": "One atom makes 1 bond. One makes 2. One makes 4. Which builds the most? Why?",
+     "do": "Explain the rules below. Then ask the question before any building, and write down the guess and the reason.",
+     "say": "An atom is a coin and a bond is a matchstick. A small coin makes 1 bond, a medium coin makes 2, and a big coin makes 4. Which kind will build the most different molecules? Why do you think so?",
+     "kid": "A small coin makes 1 bond. A medium one makes 2. A big one makes 4. Which builds the most? Why?",
      "parent": "The rule for a finished molecule: every line joins two atoms, and every atom has exactly its number of lines.",
      "context": "This is the first step of One Bond or Four. You guess which kind of atom can build the most different molecules."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "Sheet 1: your child uses only one-bond atoms and draws every finished molecule they can. Sheet 2: they use only two-bond atoms.",
-     "say": "Use only one-bond atoms first. How many different finished molecules can you draw? Now use only two-bond atoms. A row has two loose ends. How could you finish it?",
-     "kid": "Draw with one-bond atoms only. Then with two-bond atoms only. How many can you finish?",
+     "do": "Round 1: your child uses only small coins and builds every finished molecule they can. Round 2: they use only medium coins.",
+     "say": "Use only small coins first. How many different finished molecules can you build? Now use only medium coins. A row has two loose ends. How could you finish it?",
+     "kid": "Build with small coins only. Then with medium coins only. How many can you finish?",
      "ask": [
       {
        "q": "Why can one-bond atoms only make a pair?",
@@ -1283,9 +1295,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Sheet 3: your child draws four-bond atoms in a row and uses one-bond atoms to fill every spare line. They build with 1, then 2, then 3 four-bond atoms, and count the one-bond atoms each time. Then they try 4 four-bond atoms in two different patterns.",
-     "say": "Now use four-bond atoms, and fill each spare line with a one-bond atom. Build with one, then two, then three. Count the small atoms each time. Then find two different ways to join four.",
-     "kid": "Join four-bond atoms in a row. Fill spare lines with one-bond atoms. Count them.",
+     "do": "Round 3: your child joins big coins in a row and puts a small coin on every spare bond. They build with 1, then 2, then 3 big coins, and count the small coins each time. Then they try 4 big coins in two different patterns.",
+     "say": "Now use big coins, and put a small coin on each spare bond. Build with one, then two, then three. Count the small coins each time. Then find two different ways to join four.",
+     "kid": "Join big coins in a row. Put a small coin on each spare bond. Count the small coins.",
      "check": {
       "t": "mcq",
       "q": "A four-bond atom sits in the middle of a chain. How many bonds does it have left over?",
@@ -1303,7 +1315,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Lay the three sheets side by side. Ask your child to say what they thought would happen, what they found, and why. Then tell them which real atoms these are.",
+     "do": "Put the three builds side by side. Ask your child to say what they thought would happen, what they found, and why. Then tell them which real atoms these are.",
      "say": "Say what you thought would happen, what you found, and why you think it happened. The one-bond atom is hydrogen. The two-bond atom is oxygen. The four-bond atom is carbon.",
      "kid": "Say what you thought would happen. Say what you found. Say why.",
      "ask": [
@@ -1344,10 +1356,10 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Join five coins with matchsticks in every different pattern you can find, and draw each one."
+     "what": "Join five coins with matchsticks in every different pattern you can find, and photograph or draw each one."
     }
    ],
-   "record": "Draw every different skeleton you find for five carbon atoms. Write the number at the top of the page.",
+   "record": "Take a photo of every different skeleton you find for five carbon atoms, or draw each one. Write how many you found.",
    "context": "In this activity coins are carbon atoms and matchsticks are bonds. You find every different way to join five carbon atoms.",
    "setup": [
     {
@@ -1360,7 +1372,7 @@
     },
     {
      "art": "A page with three small drawings of five dots joined in different patterns, numbered 1 to 3.",
-     "caption": "3. Draw each new skeleton. Two are the same if you can turn or bend one into the other."
+     "caption": "3. Photograph or draw each new skeleton. Two are the same if you can turn or bend one into the other."
     }
    ],
    "flow": [
@@ -1376,9 +1388,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child moves coins and matchsticks to find new patterns, and draws each one. All 5 coins must stay joined, with 4 matchsticks and no loops. Check each new one against the rule for 'the same'.",
-     "say": "Find a new pattern and draw it. Is it truly new, or is it an old one turned round? Keep going until you are sure there are no more.",
-     "kid": "Move the coins to find a new pattern. Draw it. Is it truly new?",
+     "do": "Your child moves coins and matchsticks to find new patterns, and photographs or draws each one. All 5 coins must stay joined, with 4 matchsticks and no loops. Check each new one against the rule for 'the same'.",
+     "say": "Find a new pattern and photograph or draw it. Is it truly new, or is it an old one turned round? Keep going until you are sure there are no more.",
+     "kid": "Move the coins to find a new pattern. Take a photo or draw it. Is it truly new?",
      "check": {
       "t": "mcq",
       "q": "A row of five coins is bent into an L shape. Is this a new skeleton?",
@@ -1397,7 +1409,7 @@
      "id": "s3",
      "mins": 4,
      "do": "Look at the drawings together. Ask your child to say what they thought would happen, what they found, and why. Then tell them about the three real liquids. If there is time, try 6 coins.",
-     "say": "Say what you thought would happen, what you found, and why you think it happened. Each of your three drawings is a real liquid, with its own boiling point.",
+     "say": "Say what you thought would happen, what you found, and why you think it happened. Each of your three skeletons is a real liquid, with its own boiling point.",
      "kid": "Say what you thought would happen. Say what you found. Say why.",
      "ask": [
       {
@@ -1635,7 +1647,7 @@
     "Char a bundle of three toothpicks tied tightly with thread, so that they come out as one stick.",
     "Wrap paper tape around one end of the finished stick as a holder. It keeps your fingers clean and supports the stick."
    ],
-   "your_turn": "Now invent your own drawing stick. It must pass both tests: one clearly black line of 10 centimetres, and five lines without snapping. Draw a picture with your best stick. Write what you changed and which test was harder to pass.",
+   "your_turn": "Now invent your own drawing stick. It must pass both tests: one clearly black line of 10 centimetres, and five lines without snapping. Use your best stick to draw a picture or write your name. Write what you changed and which test was harder to pass.",
    "context": "In this challenge you make a charcoal stick for drawing, with the foil packet method. The stick must draw a dark line and must not snap.",
    "setup": [
     {

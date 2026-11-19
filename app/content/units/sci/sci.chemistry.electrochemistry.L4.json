@@ -789,7 +789,7 @@
      "what": "Pull the zinc nail and the copper wire out of the lemon and compare them."
     }
    ],
-   "record": "Draw a table with six rows, one for each test. The first three rows are copper and copper, zinc and zinc, and copper and zinc. The last three are two cells in a row, two cells facing each other, and four cells in a row. Beside each, write 'none', 'faint' or 'loud'.",
+   "record": "Make a table with six rows, one for each test. The first three rows are copper and copper, zinc and zinc, and copper and zinc. The last three are two cells in a row, two cells facing each other, and four cells in a row. Beside each, write 'none', 'faint' or 'loud'.",
    "context": "In this experiment you push pairs of metals into a lemon and listen with earphones. You find out which pairs make electrons flow.",
    "setup": [
     {
@@ -853,7 +853,7 @@
      "mins": 4,
      "do": "Lay out the lemons, the zinc nails, the copper wires and the earphones. Touch the plug to a whole lemon so your child hears that nothing happens. Ask for the guess and the reason, and write both down.",
      "say": "Earphones crackle when electrons flow through them. A lemon alone gives no crackle. We will push two pieces of metal into the lemon. Which pair will make a crackle: two copper wires, two zinc nails, or one of each? Why do you think so?",
-     "kid": "Look at the copper wires and zinc nails. Which pair will make a crackle? Why?",
+     "kid": "Look at the copper wires and zinc nails. Pick the pair you think will crackle.",
      "ask": [
       {
        "q": "Why do you think that pair will work?",
@@ -1022,7 +1022,7 @@
     }
    ],
    "safety": "A grown-up builds the cell pack and joins the wires. Never let the two bare wire ends touch each other, because the cells get hot. Work near an open window and away from the stove. Do not taste the water. Never try this with a wall socket, a charger or an adapter.",
-   "record": "Draw a table with rows for 1, 3 and 5 minutes. In each row, write what you see at the plus nail, the minus nail and the nail alone.",
+   "record": "Make a table with rows for 1, 3 and 5 minutes. In each row, write what you see at the plus nail, the minus nail and the nail alone.",
    "context": "In this experiment four AA cells are joined to two steel nails in salt water. You watch which nail turns to rust within minutes.",
    "setup": [
     {
@@ -1082,7 +1082,7 @@
      "mins": 4,
      "do": "Show your child the three nails, the two glasses and the cell pack. Explain which nail will go where. Ask for the guess and the reason, and write both down.",
      "say": "These three nails are the same. Two will stand in salt water, joined to the plus and minus ends of four cells. One will stand in salt water alone. Which nail will change most in five minutes? What will you see, and why do you think so?",
-     "kid": "Three nails go into salt water. Two are joined to cells. Which will change most? Why?",
+     "kid": "Three nails go into salt water. Two are joined to cells. Point to the nail you think will change most.",
      "ask": [
       {
        "q": "Why did you choose that nail?",
@@ -1213,7 +1213,7 @@
     }
    ],
    "safety": "A grown-up sharpens the pencils and joins the cells. Never let the two wires from the cells touch each other. Work away from the stove, because one of the gases is hydrogen.",
-   "record": "Draw a table with three rows. The rows are before the cells, straight after 3 minutes of current, and after 1 more minute. Write the crackle and how long it lasted.",
+   "record": "Make a table with three rows. The rows are before the cells, straight after 3 minutes of current, and after 1 more minute. Write the crackle and how long it lasted.",
    "context": "In this experiment four AA cells split water into hydrogen and oxygen on two pencil leads. Then you test whether the gases can give a current back.",
    "setup": [
     {
@@ -1282,7 +1282,7 @@
      "kid": "Test the two pencils with the earphones. Will they crackle after the cells? Why?",
      "ask": [
       {
-       "q": "Two pencils of the same graphite gave no crackle. Which earlier result does that match?",
+       "q": "Two pencils of the same graphite gave no crackle. Which earlier test also gave no crackle?",
        "good": [
         "Two copper wires in a lemon gave no crackle in the Lemon Battery test.",
         "Two electrodes that are the same give no push."
@@ -1337,7 +1337,7 @@
      "id": "s6",
      "mins": 4,
      "do": "Ask your child to say what they thought would happen, what they heard, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Say what you thought would happen, what you heard, and why you think it happened. Where did the energy for the crackle come from in the first place?",
+     "say": "Say what you thought would happen, what you heard, and why you think it happened. ",
      "kid": "Say what you thought would happen. Say what you heard. Say why.",
      "ask": [
       {
@@ -1380,7 +1380,7 @@
     }
    ],
    "record": "A table with three columns: the thing, the kind of cell, and the volts printed on the cell.",
-   "context": "In this activity you find five cells at home and read the number of volts printed on each one.",
+   "context": "In this activity you find five cells at home and read the number of volts printed on each one. You will find out whether big cells push harder than small ones.",
    "setup": [
     {
      "art": "A TV remote with its back cover off showing two AAA cells, next to a wall clock turned over to show one AA cell.",
@@ -1401,7 +1401,7 @@
      "mins": 2,
      "do": "Ask your child to guess how many cells are working in your home right now. Draw the table with three columns.",
      "say": "How many cells do you think are working in our home at this moment? Count the ones in clocks, remotes, toys and torches. We will look at five of them.",
-     "kid": "Guess how many cells your home has. Draw a table with three columns.",
+     "kid": "Guess how many cells your home has.",
      "context": "This is the first step of Battery Hunt. You guess how many cells are at work in your home."
     },
     {
@@ -1530,7 +1530,7 @@
      "mins": 4,
      "do": "Look at the table together. Ask your child what the loud ones share. Then read them the note below.",
      "say": "Which ones worked, and which did not? What do the ones that worked have in common? What does oil lack?",
-     "kid": "Which ones worked? What do they share? What is missing from oil?",
+     "kid": "Sort the five into 'crackled' and 'did not'. Point to what the crackling ones share.",
      "check": {
       "t": "mcq",
       "q": "A zinc nail and a copper wire crackle in salt water but not in cooking oil. Why?",
@@ -1654,7 +1654,7 @@
      "mins": 3,
      "do": "Talk about the question below. Then read your child the note.",
      "say": "The red formed at the pencil when the pencil was minus. It formed at the foil when the foil was minus. What happens to water at the minus side?",
-     "kid": "The red always formed at the minus side. Why?",
+     "kid": "Look at where the red formed. Which end of the cells was it joined to?",
      "check": {
       "t": "mcq",
       "q": "In Electric Writing, turmeric paper turns red where the minus wire touches. What forms there?",
@@ -1697,8 +1697,8 @@
      "what": "Draw a lemon cell and a rusting drop, and move coins to show where the electrons go."
     }
    ],
-   "record": "Keep both drawings. On each, draw arrows to show the path the coins took.",
-   "context": "In the Lemon Battery test a zinc nail and a copper wire in a lemon made earphones crackle. In this activity you move coins on a drawing to show where the electrons went.",
+   "record": "Keep the lemon drawing. Draw one arrow to show the path the coins took, or tell your grown-up the path.",
+   "context": "In the Lemon Battery test a zinc nail and a copper wire in a lemon made earphones crackle. In this activity you move coins on a drawing to show where the electrons went. You will find out why the zinc nail gets used up.",
    "setup": [
     {
      "art": "A large pencil drawing of a lemon with a nail and a wire in it, joined by a loop that passes through a small drawing of earphones.",
@@ -1749,9 +1749,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "On the back of the page, your child draws a thick steel plate seen from the side. They draw a drop of water on top. They put a button under the middle of the drop and two coins beside it. They move the button up into the drop. They slide the coins through the plate to the edge of the drop.",
+     "do": "Lay a plate on the table as the steel. Make a ring of string on it as the drop of water. Your child puts one button on the plate in the middle of the ring. It is an iron atom. They put two coins beside it. They lift the button onto the string, into the water. They slide the two coins across the plate to the edge of the ring.",
      "say": "This is a drop of water on steel. An iron atom under the middle leaves as an ion. Its two electrons travel through the steel to the edge of the drop. Oxygen takes them there. Where is the wire this time?",
-     "kid": "Draw a drop on steel. Move the button up. Slide the coins sideways.",
+     "kid": "Lift the button into the ring. Slide the coins across the plate to the edge.",
      "check": {
       "t": "mcq",
       "q": "When a drop of water rusts a steel plate, what do the electrons travel through?",
@@ -1928,7 +1928,7 @@
     "Make the squares larger, so that more metal touches the wet paper.",
     "Test whether warm salt water gives a louder crackle than cold."
    ],
-   "your_turn": "Now design your own pile. Draw it and label each layer. Test it against one lemon cell, and write which crackle was louder. Then change one thing and test again.",
+   "your_turn": "Now design your own pile. Build it, then draw it or take a photo and tell your grown-up each layer. Test it against one lemon cell, and write which crackle was louder. Then change one thing and test again.",
    "context": "In the Lemon Battery test a zinc nail and a copper wire in a lemon made earphones crackle. In this challenge you build a battery from foil, copper and wet paper, with no lemon.",
    "setup": [
     {

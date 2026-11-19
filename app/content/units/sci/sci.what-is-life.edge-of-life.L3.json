@@ -698,7 +698,7 @@
      "mins": 3,
      "do": "Find the candle flame card. Play it together as a practice round.",
      "say": "Let's practise. 'A candle flame. I eat wax, I need air, I grow and I make new flames.' Which sign cards does the flame have? Which sign cards does it not have?",
-     "kid": "Practice card: a candle flame. Which signs does it have? Which is it missing? Say your answer out loud.",
+     "kid": "Practice card: a candle flame. Point to the sign cards the flame has.",
      "ask": [
       {
        "q": "Which sign cards does the flame have?",
@@ -739,7 +739,7 @@
      "parent": "Good reasons name a sign. For example: 'The seed is alive, because a seed is made of cells and grows when water arrives.' Expected places: the candle flame goes on NOT ALIVE. The virus, the computer program and the xenobot go well on ARGUE IT. The cloud, river, chair and robot go on NOT ALIVE (the chair is once-living). The seed, water bear, mule, mango, yeast, mushroom, curd bacteria, lotus seed and tree stump are ALIVE. The shop egg is a good one to argue: most shop eggs were never fertilised, so they can never grow a chick. Your hair is another: the hair you see is dead cells, pushed out by living cells at the root. Accept any well-argued answer.",
      "ask": [
       {
-       "q": "The mule can't have babies. Are they still alive?",
+       "q": "A mule cannot have babies. Is a mule still alive?",
        "good": [
         "Yes. They still eat, grow, breathe and are made of cells.",
         "Making young is something a kind of living thing does. Not every single one has to."
@@ -752,7 +752,7 @@
      "mins": 3,
      "do": "Pick up the water bear card and the dry seed card. Hold them up together.",
      "say": "These two show almost no signs at all while they are dry. But we put them on ALIVE. Why?",
-     "kid": "The dry seed and the dry water bear do nothing. Why are they alive?",
+     "kid": "Hold up the dry seed card and the dry water bear card. Which signs can you see in them?",
      "check": {
       "t": "mcq",
       "q": "A dry water bear shows no signs of life. Why do scientists still say they are alive?",
@@ -772,7 +772,7 @@
      "mins": 2,
      "do": "Count the tokens. Then look at the ARGUE IT mat together.",
      "say": "Who has the most tokens? Now look at the ARGUE IT pile. These are the cards that even scientists argue about. For each card, name one sign it has and one sign it lacks.",
-     "kid": "Count your tokens. Look at the ARGUE IT pile. For each card, name one sign it has and one sign it lacks.",
+     "kid": "Count your tokens. Then pick a card from the ARGUE IT pile.",
      "think": "If you had to make one new sign card that every living thing has, and nothing else has, what would it say?"
     }
    ]
@@ -893,7 +893,7 @@
      "mins": 12,
      "do": "Take turns. Draw a sign card, read it, and decide together whether the character can do it.",
      "say": "Draw a sign. Can your character really do it? Tell us how. If the rest of us agree, tick it.",
-     "kid": "Draw a sign card. Can your character do it? Say how. If everyone agrees, tick it.",
+     "kid": "Draw a sign card. Say how your character can do it, or why it cannot.",
      "parent": "Expect fire to collect moving, energy, growing, waste and food, and maybe 'makes young' (sparks). Robots get moving and sensing. Crystals get growing. The mule gets everything except 'makes young'. The dry seed and the dried water bear get 'made of cells' and 'passes on instructions', but little else while dry. The virus gets 'passes on instructions' and perhaps 'makes young', only inside a cell. Let the children argue it out.",
      "check": {
       "t": "mcq",
@@ -913,10 +913,10 @@
      "mins": 5,
      "do": "Count the ticks. Compare the sheets side by side.",
      "say": "Who has the most ticks? Now look at the last two boxes: made of cells, and passes on instructions. Who ticked them? Who didn't?",
-     "kid": "Count your ticks. Look at the last two boxes. Who ticked them?",
+     "kid": "Count your ticks. Check the last two boxes on each sheet.",
      "ask": [
       {
-       "q": "The fire got more ticks than the dry seed. So is fire more alive?",
+       "q": "Say the fire got more ticks than the dry seed. Does that mean fire is more alive?",
        "good": [
         "No. The seed has cells and instructions. Fire never does.",
         "Counting signs is not enough. Some signs matter more."
@@ -1582,7 +1582,7 @@
    "mins": 37,
    "days": 6,
    "question": "Are dry seeds alive, even though they do nothing? What do they need to wake up?",
-   "predict": "Before you start, guess. What will happen to seeds on wet cotton? To pebbles on wet cotton? To seeds on dry cotton? Draw your guess for each plate, and say why you think so.",
+   "predict": "Before you start, guess. What will happen to seeds on wet cotton? To pebbles on wet cotton? To seeds on dry cotton? Say your guess for each plate, and why you think so.",
    "fair_test": "To make it fair, keep everything the same except one thing. Use the same plates, the same cotton and the same place. The wet seeds and the wet pebbles test whether water alone makes things grow. The wet seeds and the dry seeds test whether seeds need water. Use 6 seeds, because one seed can be a dud.",
    "results_table": [
     "Day",
@@ -1655,8 +1655,8 @@
      "what": "Look at plate 3. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table each day. Draw the three plates side by side each day. On the last day, draw a line chart of the longest root on plate 1, one point for each day.",
-   "context": "This is the sleeping seeds experiment. You put dry seeds and pebbles on wet cotton, and more dry seeds on dry cotton, and watch for five days. Then you water the dry seeds.",
+   "record": "Fill in the table each day. Take a photo of the three plates side by side each day, or draw them. On the last day, draw a line chart of the longest root on plate 1, one point for each day.",
+   "context": "This is the sleeping seeds experiment. You will find out whether a seed that does nothing is dead or only resting. You put dry seeds and pebbles on wet cotton, and more dry seeds on dry cotton, and watch for five days. Then you water the dry seeds.",
    "example_chart": {
     "type": "line",
     "title": "Made-up example results: the longest moong root on wet cotton",
@@ -1697,7 +1697,7 @@
     },
     {
      "art": "The first plate on day 4, with white roots curling out of the seeds and a ruler laid beside the longest root.",
-     "caption": "3. Each day, draw all three plates and measure the longest root."
+     "caption": "3. Each day, look at all three plates and measure the longest root."
     }
    ],
    "flow": [
@@ -1705,8 +1705,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Put a dry moong seed and a pebble side by side on your child's palm.",
-     "say": "Look at these two. Both are hard, both are still, both do nothing. One of them is alive. Which one, do you think? How could we test it?",
-     "kid": "Look at the seed and the pebble. Both do nothing. Which one is alive? How could you test it?",
+     "say": "Look at these two. Both are hard, still and do nothing. One of them is alive. Which one do you think it is?",
+     "kid": "Pick up the seed and the pebble. Look at them closely. Tell your grown-up which one you think is alive.",
      "ask": [
       {
        "q": "How could we find out which one is alive?",
@@ -1721,9 +1721,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Help your child draw three plates and their guesses for each.",
-     "say": "Here is our plan. Plate 1: seeds on wet cotton. Plate 2: pebbles on wet cotton. Plate 3: seeds on dry cotton. What will happen on each plate? Draw your guess.",
-     "kid": "Draw three plates. Seeds on wet cotton. Pebbles on wet cotton. Seeds on dry cotton. Draw what you think will happen."
+     "do": "Set out three empty plates. Your child says a guess for each plate.",
+     "say": "Here is our plan. Plate 1: seeds on wet cotton. Plate 2: pebbles on wet cotton. Plate 3: seeds on dry cotton. What will happen on each plate?",
+     "kid": "Point to each plate in turn. Say what you think will happen on it."
     },
     {
      "id": "s3",
@@ -1748,9 +1748,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Each day for four days, check all three plates. Draw them. Add a few drops of water to plates 1 and 2. Measure the longest root on plate 1.",
-     "say": "Let's check our plates. What has changed? Which plate looks different? Let's measure the longest root.",
-     "kid": "Check your plates. What has changed? Draw them. Measure the longest root.",
+     "do": "Each day for four days, check all three plates. Take a photo of them. Add a few drops of water to plates 1 and 2. Measure the longest root on plate 1.",
+     "say": "Let's check our plates. Which plate looks different from yesterday?",
+     "kid": "Look at each plate. Use the ruler to measure the longest root on plate 1.",
      "wait": "Come back each day for four days.",
      "parent": "Expect seeds on plate 1 to swell within a day. A white root usually appears on day 1 or 2, then a shoot. Pebbles and dry seeds stay the same. Use the hand lens to look at the root tip."
     },
@@ -1843,7 +1843,7 @@
      "what": "Set up three bottles. Watch the balloons for 30 minutes. Measure them. Explain what happened."
     }
    ],
-   "record": "Fill in the table. Draw the three bottles and their balloons after 30 minutes.",
+   "record": "Fill in the table. Take a photo of the three bottles and their balloons after 30 minutes, or draw them.",
    "context": "This is the balloon test. You put dried yeast in sugar water in a bottle, with a balloon on top, to see if the yeast does anything a living thing does.",
    "example_chart": {
     "type": "bar",
@@ -1889,7 +1889,7 @@
      "mins": 3,
      "do": "Pour a little dried yeast into your child's palm. Let them look at the yeast with the hand lens.",
      "say": "This is dried yeast, from the shop. The tiny grains look like sand. Bakers say the yeast is alive. What do you think? How could we test it?",
-     "kid": "Look at the dried yeast grains with the lens. They look like sand. Are they alive? How could you find out?",
+     "kid": "Look at the dried yeast grains with the lens. What do they look like?",
      "adult": false,
      "context": "This is the start of the balloon test. It asks whether dried yeast, which looks like sand, is alive."
     },
@@ -1897,7 +1897,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Put 2 teaspoons of sugar in each bottle. 2. A grown-up pours half a cup of warm water into bottles 1 and 3. 3. The grown-up pours half a cup of cold water into bottle 2. 4. Add 1 teaspoon of yeast to bottles 1 and 2 only. 5. Swirl each bottle. 6. Stretch a balloon over each neck.",
-     "say": "Bottle 1 has yeast and warm water. Bottle 2 has yeast and cold water. Bottle 3 has warm water and no yeast. Which balloon do you think will blow up?",
+     "say": "Bottle 1 has yeast and warm water. Bottle 2 has yeast and cold water. Bottle 3 has no yeast, so we can compare. Which balloon do you think will blow up?",
      "kid": "Put sugar in all three bottles. A grown-up adds water. Add yeast to bottles 1 and 2. Swirl. Put on the balloons.",
      "adult": true,
      "parent": "Warm means bath-warm, about as warm as your wrist can comfortably hold. Water that is too hot can kill the yeast."
@@ -2010,8 +2010,8 @@
      "what": "Last look and measure. Put the crystal on trial with the signs of life, next to the moong seedlings or your drawings of them. Say what you think, what you saw and why."
     }
    ],
-   "record": "Draw the thread each time you look. Write the size of the biggest crystal.",
-   "context": "This is the crystal garden. You hang a thread in very salty water, and salt crystals slowly grow on it. Then you ask if growing makes something alive.",
+   "record": "Take a photo of the thread each time you look, or draw it. Write the size of the biggest crystal.",
+   "context": "This is the crystal garden. You hang a thread in very salty water, and salt crystals slowly grow on it. Then you ask if growing makes something alive. You will find out how a crystal grows differently from a plant.",
    "setup": [
     {
      "art": "A child stirring salt into a jar of water, spoon by spoon, until some salt stays at the bottom.",
@@ -2031,15 +2031,15 @@
      "id": "s1",
      "mins": 3,
      "do": "Show your child some salt grains through the hand lens. Ask for a guess: will anything grow on a thread in salty water, and on a thread in plain water?",
-     "say": "Look at these salt grains. What shape are they? These are crystals. We are going to grow bigger ones. If they grow, are they alive?",
-     "kid": "Look at salt grains with the lens. What shape are they? We will grow bigger ones. If they grow, are they alive?",
+     "say": "Look at these salt grains. What shape are they? These are crystals, tiny solid pieces with flat sides. We are going to grow bigger ones. If they grow, will they be alive?",
+     "kid": "Look at the salt grains through the lens. Tell your grown-up what shape you see.",
      "context": "This is the start of the crystal garden. It asks whether something that grows has to be alive."
     },
     {
      "id": "s2",
      "mins": 8,
      "do": "1. Pour 1 cup of water into a jar. 2. Stir in salt, one spoon at a time, stirring for a minute after each spoon. Stop when a little salt stays at the bottom however much you stir. 3. Fill the second jar with plain water. 4. Tie a thread to each pencil, with a button on its end. 5. Lay a pencil across each jar so the thread hangs in the water. 6. Leave the jars open, somewhere warm, dry and still, like a shelf near a window. 7. Put a few drops of the salty water on a dark plate, and leave it beside the jars.",
-     "say": "The water is holding lots of salt, dissolved in it. As the water slowly evaporates into the air, there is less water to hold the salt. So the salt has to come out somewhere. Let's see where it goes.",
+     "say": "The water is holding lots of salt, dissolved in it. As the water slowly dries into the air, there is less water to hold the salt. So the salt has to come out somewhere. Let's see where it goes.",
      "kid": "Stir salt into a jar of water until no more dissolves. Hang a thread in it. Hang another thread in plain water. Leave both jars very still.",
      "adult": false,
      "parent": "Hot water does not help much: salt dissolves almost as well in cold water as in hot. Iodised salt can make the water a little cloudy, which is fine. Leave the jars open, or the water cannot evaporate."
@@ -2047,18 +2047,18 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "On days 3, 5 and 7, look at both threads, and at the dark plate, with the hand lens. Draw them. Measure the biggest crystal.",
+     "do": "On days 3, 5 and 7, look at both threads, and at the dark plate, with the hand lens. Take a photo of them, or draw them. Measure the biggest crystal.",
      "say": "What is on the threads? How are the crystals growing? From inside, or by adding on at the outside?",
-     "kid": "Look at both threads with the lens. What do you see? Draw it. Measure the biggest crystal.",
+     "kid": "Look at both threads with the lens. What do you see? Take a photo or draw it. Measure the biggest crystal.",
      "wait": "Look again on days 3, 5 and 7.",
      "parent": "The drops on the dark plate dry within a day and leave tiny square crystals, so look at them first. On the thread, crystals usually appear in 2 to 4 days and keep growing as the water evaporates. In a damp week, or in the monsoon, it can take up to two weeks. If the thread is still bare on day 7, keep the jar going and check every few days. The plain water thread stays bare. Notice the flat faces and square corners of salt crystals. Salt also creeps up the inside of the jar as a white crust. That is the same thing happening."
     },
     {
      "id": "s4",
      "mins": 6,
-     "do": "Put the crystal thread next to the moong seedlings from the sleeping seeds experiment, or your drawings of them. Go through the signs of life one by one.",
+     "do": "Put the crystal thread next to the moong seedlings from the sleeping seeds experiment, or your photos or drawings of them. Go through the signs of life one by one.",
      "say": "Let's put our crystal on trial. Does it move? Eat? Get energy from food? Sense? Make young? Get rid of waste? Is it made of cells? Now the seedling. What is the difference in how they grew?",
-     "kid": "Put your crystal on trial. Go through each sign. Then try the seedling. How did each one grow?",
+     "kid": "Go through the signs one at a time. Which ones does the crystal have? Then do the seedling.",
      "check": {
       "t": "mcq",
       "q": "The crystal and the seedling both grew. What is the big difference?",
@@ -2135,7 +2135,7 @@
      "mins": 4,
      "do": "Put the tray in front of your child. Do not explain anything yet.",
      "say": "Here are ten things from our home. Look very closely at each one. What do you notice? What do you wonder about?",
-     "kid": "Look closely at each thing on the tray. What do you notice? What do you wonder?",
+     "kid": "Pick up each thing and look at it closely. Tell your grown-up one thing about each.",
      "ask": [
       {
        "q": "What do you notice?",
@@ -2161,7 +2161,7 @@
      "mins": 5,
      "do": "Pick up the seed and the pebble. Then the candle.",
      "say": "Which ones were hardest? Why? What would you need to see to be sure the seed is alive? What would you need to see to be sure the candle is not?",
-     "kid": "Which ones were hard? What test could prove the seed is alive?",
+     "kid": "Hold the seed and the pebble. Tell your grown-up how you could prove the seed is alive.",
      "check": {
       "t": "mcq",
       "q": "Which thing on the tray is alive right now, even though it does nothing?",
@@ -2217,7 +2217,7 @@
      "what": "Test the candle flame against each sign of life. Decide: alive or not?"
     }
    ],
-   "record": "Draw a two-column chart: 'Signs the flame showed' and 'Signs it lacked'. Write your verdict at the bottom.",
+   "record": "Make a two-column chart: 'Signs the flame showed' and 'Signs it lacked'. Write your verdict at the bottom.",
    "context": "This is a trial. A grown-up lights a candle, and together you test the flame against each sign of life to decide if fire is alive.",
    "setup": [
     {
@@ -2248,7 +2248,7 @@
      "mins": 4,
      "do": "1. A grown-up holds a cold spoon by its handle, about three finger-widths above the flame, for 2 seconds. Look straight away: the mist fades in a few seconds as the spoon warms. 2. Then the grown-up holds the same spoon in the very tip of the flame for 2 seconds, and shows the black soot. 3. Everyone holds a palm about a hand-length from the side of the flame, never above it. Then everyone puts their palms on their own cheeks. 4. Your child breathes on the second cold spoon.",
      "say": "Look at the spoon. The mist is water that the flame made. The black smudge is soot, from wax that did not burn completely. Now feel the flame's warmth, then feel your own cheeks. You are warm too. Breathe on this cold spoon. What do you see?",
-     "kid": "Look at the spoon. The flame made mist and black soot. Feel the warm flame. Feel your warm cheeks. Breathe on a cold spoon. What do you see?",
+     "kid": "Look at the mist and the black soot on the spoon. Feel your warm cheeks. Then breathe on a cold spoon.",
      "adult": true,
      "parent": "The spoon gets hot in the flame, so hold it by the far end of the handle, and put it down on the steel plate to cool before anyone touches it. Wipe off the soot afterwards. If you see no mist, the spoon was not cold enough: cool it again and look more quickly. Both the flame and your child's breath mist the spoon, and both give out warmth. Let your child notice this. The explanation comes later."
     },
@@ -2257,7 +2257,7 @@
      "mins": 4,
      "do": "A grown-up puts the glass tumbler gently over the candle. Watch until the flame goes out.",
      "say": "What do you think will happen to the flame under the glass? Why do you think so? Now watch. Afterwards: what did the flame need that ran out?",
-     "kid": "What will happen to the flame under the glass? Guess first. Then watch. What ran out?",
+     "kid": "Guess first. Then watch the flame under the glass.",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -2277,7 +2277,7 @@
      "mins": 4,
      "do": "A grown-up lights the candle again. Then the grown-up holds the second candle and touches its wick to the flame for a moment.",
      "say": "Look. One flame has made a new flame. Is that like a cat having kittens? Does the new flame carry anything from the first one, the way kittens get instructions from their mother?",
-     "kid": "Watch. One flame lights another. Is that like a baby? Does the new flame get anything from the old one?",
+     "kid": "Watch one flame light the second candle.",
      "adult": true,
      "ask": [
       {
@@ -2294,7 +2294,7 @@
      "mins": 5,
      "do": "Blow out both candles. Fill in the two-column chart together.",
      "say": "Let's sum up the trial. Which signs did the flame show? Which did it lack? Did it have cells? Did it pass on instructions? So, what is your verdict?",
-     "kid": "Fill in your chart. Signs the flame showed. Signs it lacked. Then give your verdict: alive or not alive?",
+     "kid": "Fill in your chart together. Then give your verdict: alive or not alive?",
      "adult": true,
      "parent": "A good verdict: 'Not alive. The flame moved, grew, used fuel and oxygen, made waste and started a new flame. But it has no cells and passes on no instructions.' If your child says it is a little bit alive, ask what it would need to be fully alive. Then ask: the flame and you both made the spoon misty and both felt warm. Why might that be?"
     }
@@ -2341,8 +2341,8 @@
      "what": "Squeeze the moss water onto a dark plate. Search for tiny eight-legged animals with a lens or a phone microscope."
     }
    ],
-   "record": "Draw everything that moves. If you find a water bear, count their legs and draw how they walk.",
-   "context": "This is a hunt for water bears, the tiny eight-legged animals that can dry out and wake up again. You soak dry moss in water and search the water for them.",
+   "record": "Tell your grown-up about everything that moves. If you find a water bear, count its legs and say how it walks. Draw it if you like.",
+   "context": "This is a hunt for water bears, the tiny eight-legged animals that can dry out and wake up again. You will find out whether animals that look dead can wake up. You soak dry moss in water and search the water for them.",
    "setup": [
     {
      "art": "A grown-up and a child gently pulling a thumb-sized clump of dry moss from an old brick wall.",
@@ -2372,7 +2372,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Next day, squeeze the moss over the dark plate. Use the dropper to spread the water in small drops. Search each drop slowly with the phone microscope or lens.",
-     "say": "Water bears are about as long as a grain of salt is wide. Look for a slow, chubby animal that waddles on eight stumpy legs. Be patient. Many hunters look for a long time.",
+     "say": "Water bears are about as long as a grain of salt is wide. Look for a slow, chubby animal that waddles on eight stumpy legs. Be patient. Many hunters look for a long time. You may also see other tiny animals.",
      "kid": "Squeeze the moss onto the plate. Look at each drop slowly. Look for a chubby animal with eight short legs.",
      "parent": "Water bears are common but tiny, about half a millimetre long. With a hand lens you may only see a slowly moving speck. A phone microscope clip of 30 times or more helps a lot. You will probably also see other tiny moss animals, like wriggling rotifers. They can dry out and wake again too. Finding nothing is normal. Try moss from another place, and watch the water bear video in this unit to see one walking."
     },
@@ -2381,7 +2381,7 @@
      "mins": 5,
      "do": "Talk about what you found, even if it was not a water bear.",
      "say": "Yesterday this moss was dry and nothing moved in there. Today there may be tiny animals swimming. Were they dead yesterday? Or waiting?",
-     "kid": "Did anything move in the water? Yesterday the moss was dry. Were those animals dead, or waiting?",
+     "kid": "Tell your grown-up what moved in the water. If nothing moved, say what you saw.",
      "check": {
       "t": "mcq",
       "q": "Suppose you see tiny animals swimming in the water squeezed from dry moss. Where did they come from?",
@@ -2427,7 +2427,7 @@
      "what": "Act out a virus outside a cell and inside a cell. Talk about whether viruses are alive."
     }
    ],
-   "record": "Draw a comic in three boxes: the virus drifting, the virus getting in, and the cell making copies.",
+   "record": "Tell the story of the virus in three parts: drifting, getting in, and the cell making copies. Say it to someone, or draw it as a comic.",
    "context": "This is a drama game. One person plays a virus and one plays a living cell, to show how a virus can only make copies inside a cell.",
    "setup": [
     {
@@ -2447,9 +2447,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Your child wears the paper cap and holds the note. Ask them to try to do the signs of life alone: eat, grow, move by themselves.",
+     "do": "Your child wears the paper cap and holds the note. Ask them to stand very still, as a lone virus does.",
      "say": "You are a virus now. You are a tiny packet of instructions in a coat. Outside a cell, a virus does not eat or grow. So stand very still. The wind carries you, until you meet a cell.",
-     "kid": "You are a virus. You are only a note in a coat. Alone, you can't eat or grow. Stand still. The wind carries you.",
+     "kid": "Stand very still. A virus alone cannot eat, grow or move. Wait for the wind to carry you.",
      "context": "This is the start of the virus drama. Your child plays a virus floating outside a cell."
     },
     {
@@ -2457,7 +2457,7 @@
      "mins": 3,
      "do": "The parent is the cell, sitting by the box full of blocks. Your child drifts to the box and pushes the note through the door.",
      "say": "Now you bump into a living cell. You slip your instructions inside. The cell reads your note like its own instructions.",
-     "kid": "You drift to the cell. Push your note through the door. The cell reads it.",
+     "kid": "Drift to the box. Push your note through the door.",
      "parent": "Read the note aloud, slowly and clearly: 'Make more of me.'"
     },
     {
@@ -2465,7 +2465,7 @@
      "mins": 5,
      "do": "The parent uses the blocks to build small 'virus' shapes for one minute, as many as possible. Then the parent pushes them out of the door.",
      "say": "Look. The cell is using their own building parts and their own energy to make copies of you. You did not do any of the work. Now the new viruses burst out to find more cells.",
-     "kid": "Watch the cell build copies of you. They do all the work. Now the copies burst out.",
+     "kid": "Watch the cell build copies of you. Now the copies burst out.",
      "ask": [
       {
        "q": "Who did all the work?",
@@ -2481,7 +2481,7 @@
      "mins": 4,
      "do": "Sit down together and talk.",
      "say": "So, is a virus alive? They cannot do anything alone. But they make copies of themselves, and they change over time. Scientists still argue. What do you think?",
-     "kid": "Is a virus alive? They can't do anything alone. But they make copies. What do you think? Why?",
+     "kid": "Tell your grown-up what you think, and why.",
      "check": {
       "t": "mcq",
       "q": "Why do scientists argue about whether viruses are alive?",
@@ -2525,7 +2525,7 @@
     }
    ],
    "record": "Make a table with two columns, the toy and the living thing, and a tick or cross for each sign.",
-   "context": "This activity puts a moving toy or a phone on trial against the signs of life, and compares it with a pet or a plant.",
+   "context": "This activity puts a moving toy or a phone on trial against the signs of life, and compares it with a pet or a plant. You will find out why a toy that moves is still not alive.",
    "setup": [
     {
      "art": "A battery toy car and a potted tulsi plant side by side on a table, with a blank two-column table on paper.",
@@ -2537,14 +2537,14 @@
     },
     {
      "art": "A child's drawing of a robot with extra parts labelled 'grows', 'finds its own food' and 'makes baby robots'.",
-     "caption": "3. Draw what the toy would need to be alive."
+     "caption": "3. Look at the toy's crosses. What would it need to be alive?"
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 6,
-     "do": "Switch the toy on. Go through each sign of life for the toy, then for the plant or pet.",
+     "do": "Switch the toy on. Make a table on paper with two columns, the toy and the living thing. Go through each sign of life for the toy, then for the plant or pet. Put a tick or a cross for each.",
      "say": "Does the toy move? Sense? Grow? Eat? Get rid of waste? Make young? Is it made of cells? Now let's try the plant or the pet.",
      "kid": "Switch on the toy. Does it move, sense, grow, eat or make babies? Now test the plant.",
      "context": "This is the start of the robot trial. You test a moving toy against the signs of life."
@@ -2554,7 +2554,7 @@
      "mins": 5,
      "do": "Look at the table together.",
      "say": "The toy moves and maybe senses. The plant hardly moves at all, but ticks almost every box. So which is alive? What is the toy missing?",
-     "kid": "Look at your table. Which has more ticks? What is the toy missing?",
+     "kid": "Count the ticks in each column.",
      "check": {
       "t": "mcq",
       "q": "A robot can sense walls and move by itself. Why is it still not alive?",
@@ -2571,9 +2571,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Your child draws a robot with all the extra parts it would need to be alive.",
-     "say": "Imagine you had to make this toy truly alive. What would you have to add? Draw it.",
-     "kid": "Draw the toy with everything it would need to be alive.",
+     "do": "Your child looks at the toy's crosses and says what it would need to be alive.",
+     "say": "Imagine you had to make this toy truly alive. Look at its crosses. What would you add to turn each cross into a tick?",
+     "kid": "Look at the toy's crosses. For each one, say what the toy would need.",
      "think": "If someone built a robot that could find its own food, repair itself and build copies, would you call it alive?"
     }
    ]
@@ -2605,7 +2605,7 @@
     }
    ],
    "record": "Take a photo of the line, or draw it. Mark where you would put the edge between alive and not alive.",
-   "context": "In this activity, the family lays a string across the floor, from 'surely alive' at one end to 'surely not alive' at the other, and places tricky cases along it.",
+   "context": "In this activity, the family lays a string across the floor, from 'surely alive' at one end to 'surely not alive' at the other, and places tricky cases along it. You will see why it is hard to say exactly where life begins.",
    "setup": [
     {
      "art": "A long string across a floor, with a sign SURELY ALIVE at one end and SURELY NOT ALIVE at the other.",
@@ -2692,7 +2692,7 @@
     }
    ],
    "record": "Keep the label cards. Take photos of the museum.",
-   "context": "In this project your child builds a small home museum of tricky cases, like fire, a crystal and a virus, with a label for each, and gives a tour.",
+   "context": "In this project your child builds a small home museum of tricky cases, like fire, a crystal and a virus, with a label for each, and gives a tour. You will explain, in your own words, why some things are hard to call alive.",
    "setup": [
     {
      "art": "Six exhibits on a table: a crystal on a thread, a plate of moong sprouts, an unlit candle, a toy robot, a drawing of a virus and a drawing of a water bear, each with a folded label card.",
@@ -2713,7 +2713,7 @@
      "mins": 25,
      "do": "Help your child choose six cases and make a label card for each.",
      "say": "A museum label tells visitors the most important things in a few words. For each case, write the signs it shows, the signs it lacks, and your verdict.",
-     "kid": "Choose six tricky cases. For each one, write the signs it shows and the signs it lacks. Then give your verdict.",
+     "kid": "Pick six tricky cases. Make a label card for each one.",
      "wait": "Finish the labels today. Set up the museum tomorrow.",
      "context": "This is the first day of the Museum of Tricky Cases project. Your child makes a label for each exhibit."
     },
@@ -2767,7 +2767,7 @@
     "Look for instructions, like the molecules inside cells that carry genes.",
     "Test something you know is not alive, like sand, as a comparison. If the sand also 'passes', your test is fooled."
    ],
-   "your_turn": "Now design your own test. Draw it, and say how it avoids being fooled by fire, crystals and chemistry.",
+   "your_turn": "Now design your own test. Build it or draw it, and say how it avoids being fooled by fire, crystals and chemistry.",
    "context": "This is a design challenge. You design the tests a robot on Mars should do to find out whether anything in a spoon of soil is alive.",
    "setup": [
     {
@@ -2780,7 +2780,7 @@
     },
     {
      "art": "A child's drawing of the robot with three labelled tests: 'add food, watch for gas', 'look for cells', 'heat, then test again'.",
-     "caption": "3. Draw your robot's tests, step by step."
+     "caption": "3. Build or draw your robot's tests, step by step."
     }
    ],
    "flow": [
@@ -2805,9 +2805,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Your child draws the robot and its tests, with a way to avoid being fooled.",
-     "say": "How will your robot be sure it found life, and not just a chemical fizz? Draw your plan.",
-     "kid": "Draw your robot and its tests. How will it avoid being fooled?",
+     "do": "Your child builds a model robot from the shoebox and sticks a paper tag on it for each test. A tag can be a few words or a small drawing.",
+     "say": "How will your robot be sure it found life, and not just a chemical fizz? Show me each test, and tell me how it avoids being fooled.",
+     "kid": "Build your robot. Add a tag for each test. Tell your grown-up how the robot avoids being fooled.",
      "check": {
       "t": "mcq",
       "q": "Why test heated soil next to the fresh soil?",
@@ -2850,7 +2850,7 @@
     "Seed banks freeze dried seeds far below zero. The Svalbard Global Seed Vault in Norway, opened in 2008, keeps seeds from almost every country in a frozen mountain. In India, a national gene bank in New Delhi also keeps seeds cold.",
     "Test your method. Store some seeds now. Sprout a few each month, and count how many wake up."
    ],
-   "your_turn": "Now invent your own seed-sleep box. Draw it, store some seeds, and plan when you will test them.",
+   "your_turn": "Now invent your own seed-sleep box. Store some seeds in it, and plan when you will test them. Draw a sketch if you like.",
    "context": "This is a design challenge. You design a way to keep seeds dormant, alive but asleep, for a whole year, the way seed banks do.",
    "setup": [
     {
@@ -2872,7 +2872,7 @@
      "mins": 8,
      "do": "Talk about what wakes a seed up, from the sleeping seeds experiment.",
      "say": "In the sleeping seeds experiment, the seeds on wet cotton woke up. What woke them? So, to keep a seed asleep, what must we keep away from them?",
-     "kid": "In the sleeping seeds experiment, what woke the seeds on the wet cotton? So what must you keep away to keep a seed asleep?",
+     "kid": "Remember the seeds on the wet cotton. Tell your grown-up what you must keep away to keep a seed asleep.",
      "ask": [
       {
        "q": "What wakes a seed up?",
@@ -2888,8 +2888,8 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Your child dries some seeds, puts them in a jar and designs the storage place.",
-     "say": "Let's make your seed-sleep box. Dry the seeds, seal the jar, and choose a cool, dark place. Write the date on the label.",
+     "do": "Your child dries some seeds in the sun for a day, puts them in a jar and picks the storage place.",
+     "say": "Let's make your seed-sleep box. A dry seed stays asleep. So we dry the seeds first, then seal the jar. A cool, dark place keeps them asleep longer. Write the date on the label.",
      "kid": "Dry the seeds. Put them in a jar. Close it tight. Choose a cool, dark place. Write today's date on it.",
      "check": {
       "t": "mcq",

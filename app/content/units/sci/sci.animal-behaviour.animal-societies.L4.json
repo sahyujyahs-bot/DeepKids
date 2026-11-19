@@ -571,8 +571,8 @@
           "id": "s3",
           "mins": 5,
           "do": "Play the next six cards. Then ask why some bees on the cards changed jobs early or went back to an earlier job.",
-          "say": "Play six more cards. Then think about this. Two of the cards have a bee doing a job that does not match her age. Why did that happen?",
-          "kid": "Play six more cards. Some bees do a job that is not for their age. Why?",
+          "say": "Play six more cards. Then think about this. Some of the cards have a bee doing a job that does not match her age. Why did that happen?",
+          "kid": "Play six more cards. Watch for bees doing a job that is not for their age.",
           "ask": [
             {
               "q": "Why would a young bee start foraging early?",
@@ -625,7 +625,7 @@
         "with a parent",
         "with friends"
       ],
-      "context": "This is a game about how a honeybee swarm picks a new home. Dal grains in a cup stand for scouts. You see which home wins, and whether the best home always wins.",
+      "context": "This is a game about how a honeybee swarm picks a new home. Dal grains in a cup stand for scouts. The swarm moves when one home reaches 20 grains. That number is called a quorum. You see which home wins, and whether the best home always wins.",
       "setup": [
         {
           "art": "A steel cup holding one moong dal, one chana and one rajma bean, next to three small bowls of the same pulses and three site cards.",
@@ -713,8 +713,8 @@
           "id": "s3",
           "mins": 6,
           "do": "Play games 2 and 3. Write the winner and the turns each time. After game 3, ask the question below.",
-          "say": "Play two more games. Write down who wins each time. Then look at your sheet. Did the same site win every time?",
-          "kid": "Play games 2 and 3. Write the winners. Is it always the same?",
+          "say": "Play two more games. Write down who wins each time. Then look at your sheet.",
+          "kid": "Play games 2 and 3. Write down the winners.",
           "ask": [
             {
               "q": "Did the best home win every time? What did you see?",
@@ -740,8 +740,8 @@
           "id": "s5",
           "mins": 3,
           "do": "Talk about the results. Ask why the good site usually wins, and why a poor site can sometimes win.",
-          "say": "Which site won most? Did the best one always win? Why can an early lead matter so much? Real scouts visit and check for themselves. Why does that help?",
-          "kid": "Which site won most? Did the best always win? Why or why not?",
+          "say": "Which site won most? Why can an early lead matter so much? Real scouts visit and check for themselves. Why does that help?",
+          "kid": "Look at your sheet. Which site won most?",
           "ask": [
             {
               "q": "Why can a poor home sometimes win?",
@@ -793,7 +793,7 @@
           "qty": 1
         }
       ],
-      "record": "Write the time and the number of neat squares for each of the four rounds. Add the two one-square-at-a-time times together, and the two one-step-at-a-time times together. Then draw two bars to compare the totals.",
+      "record": "Write the time and the number of neat squares for each of the four rounds. Add the two one-square-at-a-time times together, and the two one-step-at-a-time times together. Then compare the totals. Draw two bars, or just write which total is smaller.",
       "context": "In this experiment you find out whether splitting a job into steps is faster. You do the same job two ways and time yourself.",
       "setup": [
         {
@@ -854,8 +854,8 @@
           "id": "s1",
           "mins": 4,
           "do": "Show your child the squares and the three tools. Explain the two methods. Write down the guess and the reason.",
-          "say": "Each square gets three steps. Draw a small star with the pencil. Colour it red with the crayon. Write your first letter under it with the pen. You can finish one square at a time, or do one step on all the squares before the next step. Which way will be faster? Why do you think so?",
-          "kid": "Each square gets a star, red colour and a letter. Is it faster to finish one square at a time, or to do one step on all the squares? Why?",
+          "say": "Each square gets three steps. Draw a small star with the pencil. A simple shape is fine. Colour it red with the crayon. Write your first letter under it with the pen. You can finish one square at a time, or do one step on all the squares before the next step. Which way will be faster? Why do you think so?",
+          "kid": "Each square gets a star, red colour and a letter. Which way do you think is faster?",
           "ask": [
             {
               "q": "Why do you think that way will be faster?",
@@ -924,9 +924,9 @@
         {
           "id": "s7",
           "mins": 6,
-          "do": "Add the two times for method one (one square at a time). Add the two times for method two (one step at a time). Compare the totals. Draw two bars.",
+          "do": "Add the two times for method one (one square at a time). Add the two times for method two (one step at a time). Compare the totals. Draw two bars, or just write which total is smaller.",
           "say": "Add the two one-square-at-a-time times. Then add the two one-step-at-a-time times. Which total is smaller? By how many seconds?",
-          "kid": "Add the times for each method. Which total is smaller? By how much?",
+          "kid": "Add the times for each method. Compare the two totals.",
           "check": {
             "t": "mcq",
             "q": "Method one (one square at a time) took 287 seconds in total. Method two (one step at a time) took 257 seconds. What does that show?",
@@ -1046,8 +1046,8 @@
           "id": "s1",
           "mins": 4,
           "do": "Tell your child they will fill two glasses with chana and ask people to guess how many are in each. Ask whether the group's middle guess will be closer than most people's own guesses. Write down your child's answer and the reason.",
-          "say": "We will ask a group to guess how many chana are in a glass. Will the middle guess of the group be closer than most people's own guesses? Why do you think so?",
-          "kid": "A group will guess how many chana are in a glass. Will the middle guess be closer than most people's guesses? Why?",
+          "say": "We will ask a group to guess how many chana are in a glass. Line the guesses up from smallest to biggest. The one in the middle is the middle guess. Will the middle guess of the group be closer than most people's own guesses? Why do you think so?",
+          "kid": "People will guess how many chana are in a glass. The guess in the middle of the line is the middle guess. Is it a good guess?",
           "ask": [
             {
               "q": "Why do you think the group's middle guess will be good, or bad?",
@@ -1219,7 +1219,7 @@
           "id": "s3",
           "mins": 2,
           "do": "Look at your table. Ask your child what they notice, and what they wonder. Do not explain yet.",
-          "say": "Look at your table. What do you notice? What do you wonder? Did every ant do the same thing?",
+          "say": "Look at your table. What do you notice? What do you wonder?",
           "kid": "Look at your table. What do you notice? What do you wonder?",
           "parent": "Do not explain yet. Keep the table. You will come back to it after the explanation cards.",
           "think": "Who might decide what each ant should do?",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": "a2",
-      "title": "A Bee's Forty Days: draw the jobs of a honeybee worker",
+      "title": "A Bee's Forty Days: lay out the jobs of a honeybee worker",
       "mins": 20,
       "days": 1,
       "materials": [
@@ -1249,7 +1249,7 @@
           "qty": 1
         },
         {
-          "item": "a pencil and coloured pencils",
+          "item": "a pencil, five small paper slips and a button or coin",
           "qty": 1
         }
       ],
@@ -1260,8 +1260,8 @@
           "what": "Draw a timeline of a worker honeybee's life. Mark her five jobs. Then draw what happens when the hive loses its foragers."
         }
       ],
-      "record": "A timeline from day 1 to day 40, with a picture and a label for each job, and an arrow showing a young bee who becomes a forager early.",
-      "context": "In this activity you draw a worker honeybee's life as a strip with five jobs. This turns the idea of age-based jobs into a picture you can keep.",
+      "record": "A timeline from day 1 to day 40, with a slip for each job and a button moved to show a young bee who becomes a forager early. Take a photo of it.",
+      "context": "In this activity you lay out a worker honeybee's life as a strip with five jobs. You will find out how her job changes as she gets older, and what happens when a storm kills many foragers.",
       "setup": [
         {
           "art": "A long strip of paper with a line along the middle and the days 1, 10, 20, 30 and 40 marked.",
@@ -1273,7 +1273,7 @@
         },
         {
           "art": "The same strip with an arrow from the nurse section jumping ahead to the forager section, and a note saying a storm killed the foragers.",
-          "caption": "3. Draw an arrow for a young bee who starts foraging early."
+          "caption": "3. Move a button to show a young bee who starts foraging early."
         }
       ],
       "flow": [
@@ -1289,9 +1289,9 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Colour five jobs along the line. Colour days 1 to 3 as the cleaner job. Colour days 4 to 10 as the nurse job. Colour days 11 to 18 as the builder or storer job. Colour days 19 to 21 as the guard job. Colour day 22 until the end as the forager job. Add a small picture to each.",
-          "say": "Now colour the jobs along the line. Days one to three are the cleaner job. Days four to ten are the nurse job. Days eleven to eighteen are the builder or storer job. Days nineteen to twenty-one are the guard job. After day twenty-one, she is a forager.",
-          "kid": "Colour five jobs along the line. Add a picture for each.",
+          "do": "Write the five job names on five paper slips. Put the cleaner slip on days 1 to 3. Put the nurse slip on days 4 to 10. Put the builder or storer slip on days 11 to 18. Put the guard slip on days 19 to 21. Put the forager slip from day 22 to the end.",
+          "say": "Now put the job slips along the line. Days one to three are the cleaner job. Days four to ten are the nurse job. Days eleven to eighteen are the builder or storer job. Days nineteen to twenty-one are the guard job. After day twenty-one, she is a forager.",
+          "kid": "Put the five job slips along the line, one for each stretch of days.",
           "ask": [
             {
               "q": "Which job lasts longest on your line?",
@@ -1318,12 +1318,12 @@
         {
           "id": "s3",
           "mins": 7,
-          "do": "Draw an arrow from the nurse part to the forager part. Write: a storm killed many foragers. Then write what you think happens next.",
-          "say": "A storm kills most of the hive's foragers. Draw an arrow showing a young nurse bee who starts foraging early. What do you think the hive does next?",
-          "kid": "A storm kills the foragers. Draw an arrow for a young bee who forages early.",
+          "do": "Put the button on the nurse part of the line. A storm has killed many foragers. Move the button to the forager part. Then ask your child what they think happens next.",
+          "say": "A storm kills most of the hive's foragers. This button is a young nurse bee. Move her to the forager part, early. What do you think the hive does next?",
+          "kid": "A storm kills the foragers. Move the button to show a young bee who forages early.",
           "ask": [
             {
-              "q": "What does your arrow show about a bee's job and her age?",
+              "q": "What does the moved button show about a bee's job and her age?",
               "good": [
                 "A job is not fixed to an age.",
                 "The hive changes the bee's job.",
@@ -1367,7 +1367,7 @@
           "what": "One of you hides a sweet. The other dances the way to it on a paper comb. The first finds it by following only the dance."
         }
       ],
-      "record": "A drawing of your paper comb with the dance line and the number of taps, and a sketch map of the room with the real route to the sweet. For each round, write how many steps the follower stopped from the sweet, and compare round 1 with round 2.",
+      "record": "A photo of your paper comb with the dance line, and the number of taps. For each round, write how many steps the follower stopped from the sweet, and compare round 1 with round 2.",
       "context": "In this activity you act out the honeybee's waggle dance with a parent. You use a line on a paper comb to describe where a hidden sweet is, and a partner has to find it from the dance alone.",
       "setup": [
         {
@@ -1469,7 +1469,7 @@
         }
       ],
       "record": "A table with at least four rows: the insect, where it lives near us, what people do about it, and what the person has seen it do.",
-      "context": "In this activity you ask an older person what they know about bees, wasps, termites and ants where they live. You collect what they have seen and what they do about it.",
+      "context": "In this activity you ask an older person what they know about bees, wasps, termites and ants where they live. You will find out what people near you already know about these insects, and what they do about them.",
       "setup": [
         {
           "art": "A child holding a phone on speaker, writing in a notebook while an older person talks.",
@@ -1481,7 +1481,7 @@
         },
         {
           "art": "A hand-drawn sketch map with small marks showing where the nests and mounds are.",
-          "caption": "3. Mark the places on a small map."
+          "caption": "3. Find the places on a phone map, or say where they are."
         }
       ],
       "flow": [
@@ -1497,7 +1497,7 @@
           "id": "s2",
           "mins": 15,
           "do": "Call or visit an older person. Ask which bees, wasps, termites or ants they know. Ask where they live, what people do about them, and what they have seen. Write what they say.",
-          "say": "Which bees or wasps have you seen near your home? Where do termites come? Do you know anyone who keeps bees, or who has taken honey from a wild nest? What did they see?",
+          "say": "Which bees or wasps have you seen near your home? Where have you seen termites? Do you know anyone who keeps bees, or who has taken honey from a wild nest? What did they see the insects do?",
           "kid": "Ask what bees, wasps and termites they know. Write what they say.",
           "ask": [
             {
@@ -1515,9 +1515,9 @@
         {
           "id": "s3",
           "mins": 6,
-          "do": "Read your table. Mark each place on a small sketch map. Ask your child what the older person knew that surprised them.",
-          "say": "Read your table back. What surprised you? Which insect did the person know the most about? Mark the places on a map.",
-          "kid": "Read your table. Mark the places on a map. What surprised you?",
+          "do": "Read your table. Say where each place is, or find it on a phone map. Ask your child what the older person knew that surprised them.",
+          "say": "Read your table back. What surprised you? Which insect did the person know the most about? Where are the places? Show them on a phone map, or tell me.",
+          "kid": "Read your table. Find the places on a map, or tell where they are. What surprised you?",
           "think": "What does one person's knowledge miss that a whole village's knowledge might have?",
           "context": "This is the last step of Ask the Elders. You collect your findings and mark them on a map."
         }
@@ -1581,7 +1581,7 @@
           "mins": 5,
           "do": "Show your child the six bottles. Say that three will be tied in a bundle and three will stand apart. Write down the guess and the reason.",
           "say": "Bees in a cold place cluster tightly together. We will see if a bundle keeps warm better than bottles standing alone. Which will be warmer in twenty minutes? Why do you think so?",
-          "kid": "Three bottles in a bundle. Three bottles alone. Which stays warmer? Why?",
+          "kid": "Three bottles go in a bundle. Three stand alone. Which will stay warmer?",
           "ask": [
             {
               "q": "Why do you think that one will stay warmer?",
@@ -1628,9 +1628,9 @@
         {
           "id": "s4",
           "mins": 14,
-          "do": "Leave the bottles for 20 minutes in total. While you wait, draw the two arrangements, and mark where you think the heat is going.",
-          "say": "Wait twenty minutes. While you wait, draw both arrangements. Mark with arrows where you think the heat is going.",
-          "kid": "Wait. Draw both. Add arrows for where the heat goes.",
+          "do": "Leave the bottles for 20 minutes in total. While you wait, look at the two arrangements. Ask your child to point to where they think the heat leaves each one.",
+          "say": "Wait twenty minutes. While you wait, look at both arrangements. Point to the places where you think the heat leaves. Which bottles have more of those places?",
+          "kid": "Wait. Look at both. Point to where you think the heat leaves.",
           "parent": "Keep the bottles away from the fan, the window and the sun. Twenty minutes in total is the aim, so the minutes you spent taking the first temperatures count towards this.",
           "context": "In this step you wait and draw what you think is happening to the heat."
         },
@@ -1713,9 +1713,9 @@
         {
           "id": "s2",
           "mins": 15,
-          "do": "Ask each person at home which jobs they do and how long each takes. Fill in the table. Colour the jobs of each person in a different colour.",
-          "say": "Ask each person which jobs they do, and how long each one takes. Write it in. Colour each person's jobs in their own colour.",
-          "kid": "Ask each person their jobs. Fill in the table. Use one colour for each person.",
+          "do": "Ask each person at home which jobs they do and how long each takes. Fill in the table. Mark each person's jobs with their first letter, or colour them in their own colour.",
+          "say": "Ask each person which jobs they do, and how long each one takes. Write it in. Put each person's first letter beside their jobs.",
+          "kid": "Ask each person their jobs. Fill in the table. Put each person's first letter by their jobs.",
           "ask": [
             {
               "q": "Do jobs go with age, with skill, or with who is at home?",
@@ -1863,14 +1863,14 @@
         {
           "id": "s3",
           "mins": 20,
-          "do": "Put both boxes side by side in the same sunny window, or under the same bright lamp. A grown-up puts an ice cube in each katori and the katoris in the boxes, with the lids on. Wait 20 minutes.",
+          "do": "Put the boxes side by side in the same sunny window, or under the same bright lamp. A grown-up puts an ice cube in each katori and the katoris in the boxes, with the lids on. Wait 20 minutes.",
           "say": "Put the boxes side by side in the same sunny place. Put one ice cube in each katori and close the lids. Wait twenty minutes. Meanwhile, guess which will have more ice.",
-          "kid": "Put both boxes in the sun. Add an ice cube to each. Wait 20 minutes.",
+          "kid": "Put the boxes in the sun. Add an ice cube to each. Wait 20 minutes.",
           "adult": true,
           "parent": "Both boxes must get the same sun, so keep them level and next to each other. A lamp can be hot, so keep it away from paper and foil. Two to four children: each child builds one design box, and all designs share the one plain box; take turns to put in the ice and to measure. In a hot month a plain cube can almost melt in 20 minutes; if both katoris are nearly empty, repeat with a larger ice block. Typically a foil-covered box keeps a little more ice, and an honest result of no difference is also worth writing down.",
           "check": {
             "t": "mcq",
-            "q": "Why do both katoris get an ice cube of the same size?",
+            "q": "Why does each katori get an ice cube of the same size?",
             "options": [
               "So the amount of ice is a fair comparison",
               "So the katoris look alike",
@@ -1884,8 +1884,8 @@
         {
           "id": "s4",
           "mins": 5,
-          "do": "Open both boxes. Look at each katori. Which has more ice left? Pour each katori's meltwater into a glass and count the teaspoons. Ask what made the difference.",
-          "say": "Open both boxes. Which katori has more ice left? What did your design do? What would you change?",
+          "do": "Open the boxes. Look at each katori. Which has more ice left? Pour each katori's meltwater into a glass and count the teaspoons. Ask what made the difference.",
+          "say": "Open the boxes. Which katori has the most ice left? What did your design do? What would you change?",
           "kid": "Open the boxes. Which has more ice? What would you change?",
           "ask": [
             {

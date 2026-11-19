@@ -283,8 +283,8 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
   *Child mode:* Play ten more cards. Say what each job is for.
 - **s4 (3 min)**  
   *Parent does:* Count the points. Then sort all 20 cards into three piles by kind of work and look at the piles.  
-  *Parent says:* Let us sort the cards into three piles. Look at the pollinating pile. How many of those insects are honeybees? Who are the others?  
-  *Child mode:* Sort the cards into three piles. How many pollinators are honeybees?
+  *Parent says:* Let us sort the cards into three piles. Look at the pollinating pile. Which of them are honeybees? Who are the others?  
+  *Child mode:* Sort the cards into three piles. Count the honeybees in the pollinating pile.
   - Check: Which of these insects recycles when young and pollinates when grown? → **A blowfly**
 ### g2 · Flower Loyal: a bee's memory game (15 min)
 - **rules:** Shuffle the 24 cards and lay them face down in four rows of six. Each player is a bee.; On your turn you make one trip. Turn over one card. The kind of flower on that card is your flower for this trip.; Turn over another card. If it is the same kind, you have carried pollen to it. Leave it face up and turn over another.; Your trip ends when you turn over a different kind of flower. Pollen from a pumpkin cannot pollinate a mango.; At the end of your trip, pick up the matching cards if you have two or more. Score 1 point for each card after the first. Turn any other face-up cards face down again, in their places.; If your very first two cards differ, you score nothing. Turn both face down again.; Play until fewer than two cards of every kind are left. The player with the most points wins.; Playing alone? Count how many trips you need to clear the table. Then play again and try to use fewer trips.
@@ -303,7 +303,7 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
 - **s3 (3 min)**  
   *Parent does:* Count the points. Talk about the question below.  
   *Parent says:* On your best trip, how many flowers did you pollinate? What would a real flower gain from a bee who keeps to one kind?  
-  *Child mode:* Count your points. Why does a flower gain from a loyal bee?
+  *Child mode:* Count your points.
   - Check: A bee carries pumpkin pollen to a marigold. What happens to that pollen? → **It is wasted**
 
 ## Experiments
@@ -322,7 +322,7 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
   - Note: Do not correct the guess. Any guess with a reason is a good start. Many children expect both carriers to run out after two or three boxes.
 - **s2 (5 min)**  
   *Parent does:* Spread the newspaper. On the white paper, rule 6 rows of 15 boxes, each box 1 centimetre wide. Write Bud beside three rows and Pen beside three rows. Put 1 level teaspoon of haldi in the katori.  
-  *Parent says:* We need six rows of flowers. Three rows are for the cotton bud and three are for the pen. Why do you think we give each carrier three rows, and not one?  
+  *Parent says:* We need six rows of flowers. Three rows are for the cotton bud and three are for the pen.  
   *Child mode:* Rule 6 rows of 15 boxes. Label three rows Bud and three rows Pen.
   - Ask: Why three rows for each carrier? (good: One try can be a fluke.; If three tries agree, we can trust the result more.)
   - Note: A page from a maths notebook with squares saves the ruling. The boxes only need to be about the width of a fingertip.
@@ -346,7 +346,7 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
   *Parent says:* Say what you thought would happen. Say what you saw. Then say why you think it happened. Which carrier is more like a bee? What does a bee have that the pen does not?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why.
-  - Ask: Where on the cotton bud was the haldi kept, so that it lasted for so many boxes? (good: Between the threads of the cotton.; Deep inside the fluff, and it came out a little at a time.)
+  - Ask: Where on the cotton bud did the haldi stay? (good: Between the threads of the cotton.; Deep inside the fluff, and it came out a little at a time.)
   - Ask: A bee is hairy and a beetle's back is smooth and shiny. Which is likely to carry more pollen? (good: The bee, because pollen catches in her hairs.)
   - Note: The reason: cotton is made of thousands of fine threads, and powder is held in the gaps between them. Each press lets a little out, so the marks go on for many boxes. The smooth pen holds powder only on its skin, and the first one or two presses take it all. A bee is covered in hairs, and each hair is branched like a tiny feather. Pollen catches among the hairs and comes off a little at a time, flower after flower. Keep the sheet. It is used again in the worksheets.
   - Think: The cotton bud did not put all its haldi in box 1. Why is that good for flowers 2 to 15?
@@ -364,7 +364,7 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
   - Note: Do not correct the guess. If you see no ants indoors, try a balcony, a doorstep or the foot of a tree near your gate. Evening is often a busy time for ants.
 - **s2 (5 min)**  
   *Parent does:* Count 20 crumbs onto each paper and spread them out. Lay paper A on the floor, 30 centimetres from the ant line. Stand the katori upside down in the plate of water, and lay paper B on top. Start the timer.  
-  *Parent says:* Paper A is for the ants. Paper B stands in water, and no ant can reach that paper. Why do you think we need paper B at all?  
+  *Parent says:* Paper A is for the ants. Paper B stands in water, so no ant can get to that paper.  
   *Child mode:* Put 20 crumbs on each paper. Paper A goes near the ants. Paper B stands in water.
   - Ask: What will paper B tell us? (good: Whether crumbs disappear when no ants come.; If B keeps all 20, then the ants took the crumbs from A.)
   - Note: Each crumb should be small enough for one small ant to carry, about the size of a sesame seed. Fresh grated coconut works well in most homes.
@@ -382,7 +382,7 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
 - **s5 (5 min)**  
   *Parent does:* Draw a line graph. Put minutes along the bottom, from 0 to 40. Put crumbs left up the side, from 0 to 20. Mark a dot for each count and join the dots.  
   *Parent says:* Put a dot for each count and join the dots. Look at the shape of the line. Where is it flat? Where is it steepest?  
-  *Child mode:* Draw the graph of crumbs left. Where is the line steepest?
+  *Child mode:* Graph the crumbs left, or tell your grown-up when they went fastest.
   - Note: A steep part of the line means crumbs were going fast. A flat part means few crumbs were going.
 - **s6 (5 min)**  
   *Parent does:* Look at the table and the graph together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
@@ -397,7 +397,7 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
 ### a1 · The Kitchen Shelf Test: which foods needed an insect? (15 min)
 - **record:** Two lists: 'An insect was needed' and 'No insect was needed'. Put a star next to each food that you guessed right.
 - **s1 (3 min)**  
-  *Parent does:* Put the twelve foods on the counter. If one is missing, write its name on a slip of paper. Label the two sheets.  
+  *Parent does:* Put the twelve foods on the counter. If one is missing, write its name on a slip of paper. Label the two sheets 'An insect was needed' and 'No insect was needed'.  
   *Parent says:* Some of these foods grew only because an insect carried pollen to a flower. Others needed no insect at all. Before we check, which do you think needed an insect? Why?  
   *Child mode:* Look at twelve foods. Which ones needed an insect to grow? Guess first.
 - **s2 (5 min)**  
@@ -415,7 +415,7 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
   - Check: Why does a rice plant need no insect to make grains? → **Wind carries rice pollen**
 ### a2 · The Raisin at the Bottom: what does a flower visitor carry away? (15 min)
 - **safety:** Haldi stains cloth. Work on newspaper, wear old clothes and wash your hands afterwards.
-- **record:** A drawing of your hand after flower 1, and of the paper collar of flower 2 after your visit. Colour the yellow marks.
+- **record:** A photo or a drawing of your hand after flower 1, and of the paper collar of flower 2 after your visit. Show the yellow marks.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* Roll the four cotton buds in haldi. Tape them to the rim of tumbler 1 with their yellow heads leaning in over the mouth. Tape the white paper strip inside the rim of tumbler 2 as a collar. Drop one raisin into each tumbler.  
   *Parent says:* These tumblers are two flowers of the same kind. The raisin is the nectar. The yellow cotton buds on flower 1 are the anthers, and they hold the pollen. The white collar on flower 2 is the stigma.  
@@ -427,8 +427,8 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
   *Child mode:* You are a bee. Reach into flower 1 for the raisin. Look at your hand.
   - Ask: You only wanted the raisin. What else did you get? (good: Haldi on my hand.; Pollen, though I was not trying to take any.)
 - **s3 (6 min)**  
-  *Parent does:* Without wiping the hand, your child reaches into flower 2 for the second raisin. Look at the white collar together. Your child draws the hand and the collar. Then both wash hands and eat the raisins.  
-  *Parent says:* Do not wipe your hand. Fly to flower 2 and take the raisin. Now look at the white collar. What is on it? How did it get there?  
+  *Parent does:* Without wiping the hand, your child reaches into flower 2 for the second raisin. Look at the white collar together. Your child points to the yellow on the hand and on the collar, or takes a photo of each. Then both wash hands and eat the raisins.  
+  *Parent says:* Do not wipe your hand. Fly to flower 2 and take the raisin. Now look at the white collar. What is on it?  
   *Child mode:* Do not wipe your hand. Take the raisin from flower 2. Look at the collar.
   - Note: This is the heart of pollination. The visitor comes for food. The flower places its anthers and its stigma where the visitor must brush past them.
   - Check: In the Raisin at the Bottom, how did haldi reach the white collar of flower 2? → **On the hand that fetched the raisins**
@@ -440,14 +440,14 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
   *Parent says:* Every ant colony in the world was started by one queen. Before I read the stages, how do you think she begins? Who feeds her first young?  
   *Child mode:* Rule six boxes. How do you think one ant starts a colony?
 - **s2 (9 min)**  
-  *Parent does:* Read the six stages in the note below, one at a time. Your child draws each stage in its box and writes one line under it.  
-  *Parent says:* Here is stage one. Listen, then draw it in box 1 and write one line. Tell me when you are ready for the next stage.  
-  *Child mode:* Listen to each stage. Draw it in a box. Write one line.
+  *Parent does:* Read the six stages in the note below, one at a time. Your child shows each stage in its box. They can draw it quickly or use small things, such as a crumb. They say one line. Write it under the box.  
+  *Parent says:* Here is stage one. Listen, then show it in box 1 and tell me one line. Tell me when you are ready for the next stage.  
+  *Child mode:* Listen to each stage. Show it in a box. Say one line.
   - Note: Stage 1: after the first heavy rain, winged young queens and males fly out of many nests and mate in the air. Stage 2: a mated queen lands, breaks off her wings and digs a small hole. Stage 3: she seals the hole and lays her first eggs. Stage 4: she eats nothing for weeks, and feeds the first larvae from her own body. Stage 5: the first small workers grow up, open the nest and bring food home. Stage 6: after a year there are hundreds of workers. After some years the colony raises its own winged queens and males.
 - **s3 (4 min)**  
   *Parent does:* Look at the strip together. Ask the questions below. Your child writes one question of their own under the strip.  
-  *Parent says:* Look at box 4 and box 5. What changes for the queen when her first daughters grow up? What question do you still have about her?  
-  *Child mode:* Look at your six boxes. What changes when the first workers grow up?
+  *Parent says:* Look at box 4 and box 5. Who helps the queen now? What question do you still have about her?  
+  *Child mode:* Look at your six boxes. Point to the box where the first workers appear.
   - Ask: What changes for the queen when the first workers grow up? (good: She stops doing everything herself.; The workers bring food, and she only lays eggs.)
   - Check: How does a queen ant feed her very first larvae? → **From her own body's stores**
 ### a4 · Jumping Pollen: can pollen cross a gap without being touched? (10 min)
@@ -464,7 +464,7 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
 - **s3 (3 min)**  
   *Parent does:* Talk about what happened. Then read the explanation in the note below.  
   *Parent says:* Say what you thought would happen. Say what you saw. The comb never touched the haldi. So how did the haldi reach the comb?  
-  *Child mode:* Say what you saw. The comb never touched the haldi. How did it move?
+  *Child mode:* Say what you saw. The comb never touched the haldi.
   - Ask: How might this help a bee who lands on a flower? (good: Pollen could jump onto her before she touches it.; She would pick up more pollen.)
   - Note: Rubbing gave the comb an electric charge, and a charged thing attracts light specks. A bee's body picks up a small charge as she flies through the air. Scientists have filmed pollen jumping a gap of a few millimetres onto a bee. In 2013 a team in Britain also showed that bumblebees can sense the electric charge of a flower.
 
@@ -473,9 +473,9 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
 - **record:** A chart with the twelve months across the top and one row for each plant. Colour the months in which that plant flowers. Circle any month with no flowers at all.
 - **schedule:** day 1: List every tree and plant you can see from your home or on your way to the shop. (10 min); day 2: Ask an elder in which months each one flowers. Watch one flowering plant for five minutes. (15 min); day 3: Draw the calendar and find the hungry months. (15 min)
 - **s1 (10 min)**  
-  *Parent does:* Day 1. Look out of every window, and look around on your way to the shop. List up to ten trees and plants. Balcony pots count. If your child does not know a name, they draw one leaf.  
+  *Parent does:* Day 1. Look out of every window, and look around on your way to the shop. List up to ten trees and plants. Balcony pots count. If your child does not know a name, they pick up one fallen leaf or take a photo of the plant.  
   *Parent says:* A bee colony must find flowers in every month, or the bees go hungry. Let us list the plants near us that could feed them. Which ones have you seen in flower?  
-  *Child mode:* List ten trees and plants near your home. Draw a leaf if you lack a name.
+  *Child mode:* List ten trees and plants near your home. If you lack a name, take a photo or a leaf.
   - Note: Common city trees that feed bees well are neem, drumstick, coconut, tamarind, jamun, gulmohar and copper pod. Tulsi, curry leaf and coriander left to flower feed them too. You need no garden for this project.
 - **s2 (15 min)**  
   *Parent does:* Day 2. Take the list to an elder, a gardener or a flower seller. Ask in which months each plant flowers, and write the months. If one plant is in flower now and within reach, watch it for five minutes and count the visitors.  
@@ -494,14 +494,14 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
 ## Challenges
 ### c1 · The Buzz Flower: get the pollen out of a closed tube (20 min)
 - **problem:** A brinjal flower keeps its pollen inside closed tubes with one small hole at the tip. A honeybee cannot get the pollen out. A carpenter bee shakes the pollen out by buzzing. Your problem is like hers. A paper tube holds haldi and has one small hole. Get out as much haldi as you can in 10 seconds.
-- **your turn:** Now invent your own way to shake the tube. It must leave the tube whole. Test it for 10 seconds and compare the heap with your best heap so far. Draw your method and write why you think it worked or failed.
+- **your turn:** Now invent your own way to shake the tube. It must leave the tube whole. Test it for 10 seconds and compare the heap with your best heap so far. Show your method to a grown-up, or draw it, and say why you think it worked or failed.
 - **constraints:** Do not squeeze, tear or open the tube.; Do not make the hole bigger.; Hold the tube with the hole pointing down, over a steel plate.; Each method gets 10 seconds, counted aloud.; Refill the tube to the same level before each method.
 - **general:** Flick the side of the tube with a finger.; Shake the tube up and down.; Knock the tube gently against the edge of the plate.
 - **creative:** Hold the tube against a phone while it vibrates.; Stretch a rubber band over a steel tumbler, rest the tube on the band and pluck the band.; Press the tube lightly against your throat and hum a low, loud note.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Build the tube as the steps show. Hold it hole-down over the plate without moving, and count to 10.  
   *Parent says:* This tube is the pollen tube of a brinjal flower. Hold it still with the hole down. Does the powder pour out? What could a bee do to get the powder out?  
-  *Child mode:* Build the tube. Hold it still with the hole down. Does powder fall?
+  *Child mode:* Build the tube. Hold it hole-down and count to 10.
   - Ask: The hole is open, so why does the powder stay inside? (good: The powder sticks to itself and blocks the hole.; Nothing is shaking it loose.)
   - Note: The hole should be about as wide as a pencil tip. With atta mixed in, the powder clumps and hardly falls while the tube is still. If it pours out freely, make a new tube with a smaller hole.
 - **s2 (6 min)**  
@@ -514,7 +514,7 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
   *Child mode:* Now try a buzzing phone, a plucked rubber band and a hum.
   - Note: Fast, small shakes often free more powder than slow, big ones. Results vary with the tube and the phone, so let the heaps decide.
 - **s4 (4 min)**  
-  *Parent does:* Compare all the heaps. Your child invents one more method, tests it, and draws it.  
+  *Parent does:* Compare all the heaps. Your child invents one more method and tests it. They draw it or show it to you.  
   *Parent says:* Which heap is biggest? Was a fast, small shake better than a slow, big one? Now invent your own method and test it.  
   *Child mode:* Which heap is biggest? Invent your own method and test it.
   - Check: Why can a carpenter bee get pollen from a brinjal flower when a honeybee cannot? → **She shakes the flower by buzzing**

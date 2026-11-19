@@ -429,7 +429,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "In this game, each card describes a change. You decide if it is fast burning, slow joining with oxygen, or a change that makes no new substance, and say why.",
+   "context": "In this game, each card describes a change. You decide if it is fast burning, slow joining with oxygen, or a change that makes no new substance, and say why. You will learn to tell these changes apart.",
    "setup": [
     {
      "art": "Twenty cards in a shuffled face-down pile, with three token piles in front of the players: fast burning, slow joining with oxygen, and no new substance.",
@@ -677,8 +677,8 @@
     }
    ],
    "safety": "A grown-up lights and holds every piece. Burn the paper over the steel sink or tray, away from curtains, with a bucket of water beside you. Tie back long hair and loose sleeves. Open a window.",
-   "record": "Write the time for each try and whether any paper stayed unburnt. Then draw a bar chart with one bar for each shape, using the average of the two tries.",
-   "context": "In this experiment, you burn the same newspaper in three shapes and time how long each takes. You find out what changes the speed of burning.",
+   "record": "Write the time for each try and whether any paper stayed unburnt. Then put the shapes in order, fastest first. You can also draw a bar chart with one bar for each shape, using the average of the two tries.",
+   "context": "In this experiment, you burn the same newspaper in three shapes and time how long each takes. You will find out whether the shape of paper changes how fast it burns.",
    "setup": [
     {
      "art": "Three pieces of newspaper on a table: one flat, one crumpled loosely into a ball, and one rolled tightly round a pencil.",
@@ -694,16 +694,16 @@
     },
     {
      "art": "A results table with three rows and a pencil, and three bars drawn next to it.",
-     "caption": "4. Write each time in the table. Repeat, then draw a bar for each shape."
+     "caption": "4. Write each time in the table. Repeat, then put the shapes in order."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Show your child the three shapes. Ask for a guess about which burns fastest and slowest. Write down their reason.",
-     "say": "The three shapes are made of exactly the same paper. Which one will burn fastest? Which will burn slowest? Why do you think so?",
-     "kid": "Same paper in three shapes. Which burns fastest? Which burns slowest? Why?",
+     "do": "Tell your child you will burn the same newspaper in three shapes: flat, a loose ball and a tight roll. Ask for a guess about which burns fastest and slowest. Write down their reason.",
+     "say": "We will burn the same paper in three shapes: flat, a loose ball and a tight roll. Which one will burn fastest? Which will burn slowest? Why do you think so?",
+     "kid": "Guess which shape burns fastest, and which burns slowest.",
      "ask": [
       {
        "q": "Why do you think that shape will burn fastest?",
@@ -791,9 +791,9 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "Draw a bar chart with one bar for each shape, using the average of the two tries. Then ask your child to say what they thought, what they saw and why.",
+     "do": "Write each shape's average time on a card. Ask your child to put the cards in order, fastest first. Then ask them to say what they thought, what they saw and why.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw a bar for each shape. Say what you thought, what you saw, and why.",
+     "kid": "Put the cards in order, fastest first. Say what you thought, what you saw, and why.",
      "think": "Why did the shapes made of the same paper burn at different speeds?",
      "parent": "A strong answer says that the flame needs air to reach the paper, and the more of the paper is open to the air, the faster it burns. The tight roll has little air inside it. After they have said what they saw, explain: burning goes only where oxygen touches the fuel. Many families find the roll slowest and the others faster, but yours may differ. The flat sheet and the loose ball can come out in either order, because a flat sheet burns fast but a loose ball keeps smouldering. Whatever you find, that is a real result: ask what in the shape could explain it.",
      "context": "This is the last step of Same Paper, Three Shapes. You draw the chart and explain what you found."
@@ -849,8 +849,8 @@
     }
    ],
    "safety": "A grown-up lights the steel wool. It glows and throws tiny sparks. Work over a steel tray, away from curtains and paper, with a bowl of water close by. Do not touch the burnt wool until it has cooled for ten minutes. Keep faces an arm's length away and do not breathe the smoke. Hang the balance at least 30 centimetres below any shelf or ceiling, and wash your hands after touching steel wool, because tiny slivers can prick.",
-   "record": "In the table, write what the balance did before burning, during burning and after cooling. Draw the balance at all three moments. Also measure with the ruler how high each end sits above the table, before and after, in millimetres.",
-   "context": "In this experiment, you burn steel wool on one side of a homemade balance. You find out whether burning makes it lighter or heavier.",
+   "record": "In the table, write what the balance did before burning, during burning and after cooling. Take a photo of the balance at all three moments, or draw it. Also measure with the ruler how high each end sits above the table, before and after, in millimetres.",
+   "context": "In this experiment, you burn steel wool on one side of a homemade balance. You will find out whether burning makes it lighter or heavier. Many people think burnt things must weigh less.",
    "setup": [
     {
      "art": "A wooden skewer hung from its middle by a thread tied to a pencil taped to a shelf edge, hanging level.",
@@ -875,7 +875,7 @@
      "mins": 5,
      "do": "Show your child the steel wool. Say that one tuft will be burned. Ask for a guess about the balance, and the reason. Write it down.",
      "say": "When this steel wool burns, it will turn grey and crumbly. Will its side of the balance go up, go down, or stay level? Why do you think so?",
-     "kid": "One tuft will burn. Will its side go up, go down or stay level? Why?",
+     "kid": "One tuft will burn. Guess what its side of the balance will do.",
      "ask": [
       {
        "q": "Why do you think the burning tuft's side will move that way?",
@@ -941,9 +941,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "When the burnt tuft is cold, look at the balance. Which side is lower? Draw it. Then ask your child to say what they thought, what they saw and why.",
+     "do": "When the burnt tuft is cold, look at the balance. Which side is lower? Take a photo of the balance. Then ask your child to say what they thought, what they saw and why.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Which side is lower? Draw it. Say what you thought, what you saw, and why.",
+     "kid": "Which side is lower? Say what you thought, what you saw, and why.",
      "think": "The steel wool burned, so why did its side get heavier?",
      "parent": "In most tries, the burnt side goes down, often by only a few millimetres to a couple of centimetres, because only part of the wool burns and the extra weight is small (typically a few percent of the wool's weight). Measure the drop with the ruler. It is a big surprise. After they have said what they saw, explain: iron is a solid, so nothing floats away. As it burns, it joins with oxygen from the air and becomes a solid iron oxide. The extra weight is oxygen. If the balance did not tilt, little of the wool burned, so try again with a looser, fluffier tuft. If you have a kitchen scale that reads to 0.1 gram, you can also weigh a tuft before and after burning.",
      "check": {
@@ -1007,8 +1007,8 @@
     }
    ],
    "safety": "A grown-up lights the candle and holds the katori and spoon over it. Use a spoon with a long handle, and keep ice water away from the flame, because a drip can put it out. Tie back long hair and loose sleeves. Keep the candle away from curtains and paper. The spoon and the katori's underside get hot or sooty, so do not touch them for a minute.",
-   "record": "Draw the two katoris after the test, and the spoon. Write what each one caught, and where you think it came from.",
-   "context": "In this activity, you hold a cold katori over a flame and see what the flame leaves behind. You also compare it with your own breath.",
+   "record": "Write what each katori and spoon caught, and where you think it came from. You can also draw them.",
+   "context": "In this activity, you hold a cold katori over a flame and see what the flame leaves behind. You will find out what a flame makes, and compare it with your own breath.",
    "setup": [
     {
      "art": "Two steel katoris filled with ice water, wiped dry on the outside, one held above a candle flame and one held beside it at the same height.",
@@ -1083,8 +1083,8 @@
      "mins": 4,
      "adult": true,
      "do": "Hold the steel spoon in the yellow tip of the flame for two seconds. Take it out. Look at the underside. Rub the black patch with a wet finger. Then hold a second, clean spoon just above the flame tip, outside the yellow. Keep it there for two seconds. Compare the two spoons.",
-     "say": "Now I hold the spoon in the yellow tip of the flame for two seconds. Look at the black patch. Rub it with a wet finger. What is it? Where did it come from?",
-     "kid": "A grown-up holds the spoon in the flame for two seconds. Look at the black patch. What is it?",
+     "say": "I hold one spoon in the yellow tip of the flame for two seconds, and a clean spoon just above it. Look at both spoons. Rub the black patch with a wet finger.",
+     "kid": "Look at both spoons. Which one has a black patch?",
      "ask": [
       {
        "q": "What do you think the black patch is made of?",
@@ -1102,8 +1102,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Breathe out slowly onto a cold steel plate or a mirror. If you have none, breathe on the outside of a katori of ice water. Look at the fog. Compare it with the drops on the katori from the flame.",
-     "say": "Breathe out slowly onto the cold plate. What do you see? How is it like what the flame made?",
-     "kid": "Breathe on the cold plate. What do you see? Is it like the flame's drops?",
+     "say": "Breathe out slowly onto the cold plate, as if you were fogging a window.",
+     "kid": "Look at the fog. Is it like the drops on the katori?",
      "ask": [
       {
        "q": "Why do you think your breath and the flame make the same thing?",
@@ -1120,9 +1120,9 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Ask your child to say what they thought, what they saw and why. Then draw the katoris and the spoon.",
+     "do": "Ask your child to say what they thought, what they saw and why. Then ask them to point to what caught water and what caught soot.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Say what you thought, what you saw, and why. Draw the bowls and the spoon.",
+     "kid": "Say what you thought, what you saw, and why. Point to what caught water and what caught soot.",
      "think": "The candle is wax. How can a flame make water?",
      "parent": "A strong answer says that the candle made water and soot, so the wax changed into new things. After they have said what they saw, explain: wax is made of carbon and hydrogen. In the flame, the hydrogen joins with oxygen from the air and makes water vapour. The carbon makes invisible carbon dioxide, and a little is left as soot.",
      "context": "This is the last step of Catch What a Flame Makes. You say what you found and why."
@@ -1160,8 +1160,8 @@
     }
    ],
    "safety": "A grown-up works the stove and the flame. Keep long hair tied back and sleeves rolled up. Use only a few grains of salt, and do not drop any on the burner, so the holes do not clog. The spoon gets hot, so use a long-handled spoon and keep it in the flame only a few seconds. If you have no gas stove, use the candle for the flame comparison and skip the salt, because the candle's yellow glow hides the colour change.",
-   "record": "Draw the stove flame and the candle flame side by side, with colours. Write where each one makes soot, and which one has air holes.",
-   "context": "In this activity, you compare the blue flame of a gas stove with the yellow flame of a candle. You also see how salt changes a flame's colour.",
+   "record": "Write the colour of each flame. Write where each one makes soot, and which one has air holes. You can also draw the two flames side by side.",
+   "context": "In this activity, you compare the blue flame of a gas stove with the yellow flame of a candle. You also see how salt changes a flame's colour. You will find out which flame is cleaner, and why.",
    "setup": [
     {
      "art": "An unlit gas stove burner with small air holes at the base, and a child pointing at them.",
@@ -1181,8 +1181,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Look at the unlit burner with your child. Find the small holes around its edge. Ask what they think the holes are for. Write down the guess.",
-     "say": "Look at the burner before it is lit. Can you find the tiny holes? What do you think they are for? Why?",
-     "kid": "Look at the burner. Find the tiny holes. What are they for?",
+     "say": "Look at the burner before it is lit. Can you find the tiny holes?",
+     "kid": "Look at the burner. Find the tiny holes.",
      "ask": [
       {
        "q": "What do you think comes in through the holes?",
@@ -1201,8 +1201,8 @@
      "mins": 6,
      "adult": true,
      "do": "The grown-up lights the burner. Compare its flame with the tea-light. Look at the colour of the stove flame and the candle flame. Then hold a clean steel spoon for two seconds just inside the tip of the stove flame. Hold a second clean spoon for two seconds in the yellow tip of the candle flame. Look for soot on each spoon.",
-     "say": "What colour is the stove flame? What colour is the candle? Now look at the two spoons. Which one has soot?",
-     "kid": "Look at the stove flame and the candle flame. Which colour is each? Which leaves soot?",
+     "say": "What colour is the stove flame? What colour is the candle? Now look at the two spoons.",
+     "kid": "Look at both flames. Which spoon has soot?",
      "ask": [
       {
        "q": "Why do you think the candle flame is yellow and the stove flame blue?",
@@ -1232,7 +1232,7 @@
      "mins": 5,
      "adult": true,
      "do": "Wet the steel spoon. Dip it in a little salt so a few grains stick. Hold the spoon at the edge of the blue flame. Watch the flame near the spoon change colour.",
-     "say": "Dip a wet spoon into the salt, so a few grains stick. Hold it at the edge of the flame. What colour does the flame turn? Why do you think it changed?",
+     "say": "Dip a wet spoon into the salt, so a few grains stick. Hold it at the edge of the flame.",
      "kid": "A grown-up holds a salty spoon in the flame. What colour does it turn?",
      "ask": [
       {
@@ -1277,7 +1277,7 @@
    ],
    "safety": "No gas is let out and no flame is lit in this drill: it is only a practice. Do not try to smell for a real leak by sniffing at the pipe. If you ever do smell gas, do the steps for real. A grown-up can check pipe joints for a leak by brushing soapy water on them: bubbles that grow show a leak. Never check with a flame.",
    "record": "Write the five steps in order on a card and stick it near the kitchen, with the emergency numbers beside it.",
-   "context": "In this activity, you learn what to do if you smell cooking gas, and you practise it like a fire drill.",
+   "context": "In this activity, you learn what to do if you smell cooking gas, and you practise it like a fire drill. You will practise until your child can do every step without help.",
    "setup": [
     {
      "art": "A child pointing at the red regulator on a gas cylinder in a kitchen, with an arrow showing it being turned off.",
@@ -1297,8 +1297,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Say that cooking gas has no smell of its own, and that a smelly chemical is added on purpose. Ask your child why they think this is done.",
-     "say": "LPG has no smell by itself. A chemical that smells like rotten eggs is added. Why do you think the gas company does that?",
-     "kid": "Gas has no smell. A smell is added. Why?",
+     "say": "LPG is the cooking gas in your cylinder. It has no smell by itself. A chemical that smells like rotten eggs is added. Why do you think the gas company does that?",
+     "kid": "Cooking gas has no smell. A bad smell is added on purpose.",
      "ask": [
       {
        "q": "Why would a company add a bad smell to gas?",
@@ -1405,8 +1405,8 @@
      "what": "Guess. Make the gas. Pour it onto the candle. Try again with a fresh jar. Explain what happened."
     }
    ],
-   "record": "Draw the jar, the candle in the bowl, and an arrow showing the invisible gas pouring. Write why the flame went out.",
-   "context": "In this project, you make carbon dioxide from baking soda and vinegar, and pour it onto a candle to put out the flame.",
+   "record": "Draw the jar, the candle in the bowl, and an arrow showing the invisible gas pouring, or tell a grown-up how it moved. Write why the flame went out.",
+   "context": "In this project, you make carbon dioxide from baking soda and vinegar, and pour it onto a candle to put out the flame. You will find out that a gas you cannot see can put out a fire.",
    "setup": [
     {
      "art": "A tall jar with three spoons of baking soda at the bottom and vinegar being poured in, with bubbles rising.",
@@ -1427,7 +1427,7 @@
      "mins": 5,
      "do": "Show your child the jar, the baking soda, the vinegar and the candle in its bowl. Ask for a guess about what will happen when you tilt the fizzing jar over the flame. Ask for a reason.",
      "say": "We will make a gas in the jar. Then we will tilt the jar over the candle, but not pour any liquid. What do you think will happen to the flame? Why?",
-     "kid": "We make a gas in a jar. We tilt it over a flame. What will happen? Why?",
+     "kid": "We make a gas in a jar. Then we tilt the jar over a flame.",
      "ask": [
       {
        "q": "Why do you think the flame will or will not change?",
@@ -1494,9 +1494,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Light the candle again. Ask your child to explain what happened, and why. Draw the jar and the arrow of gas. Try once more.",
+     "do": "Light the candle again. Ask your child to explain what happened, and why. Then ask them to show with their hand how the gas moved from the jar to the flame. Try once more.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think the flame went out?",
-     "kid": "Say what you thought, what you saw, and why. Draw the jar and the gas.",
+     "kid": "Say what you thought, what you saw, and why. Show with your hand how the gas moved.",
      "think": "You cannot see the gas. How do you know it was poured?",
      "parent": "A strong answer says that the gas was heavier than air, so it poured into the bowl and pushed the air, and the oxygen, away from the flame. After they have said what they saw, explain: carbon dioxide does not burn, and it is heavier than air.",
      "context": "This is the last step of Pour Out a Fire. You explain what you saw."
@@ -1529,9 +1529,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Ask your child to draw two or three different lids, with holes and tubes in different places. Ask for a guess about which will work best.",
-     "say": "The flame needs fresh air to keep burning. How could you let air in, and let the burnt gas out? Draw a few lids first.",
-     "kid": "Draw two or three lids. Where should the holes go?",
+     "do": "Read the problem together. Ask your child to plan two or three different lids. They can sketch them or tell you where the holes go. Ask for a guess about which will work best.",
+     "say": "The flame needs fresh air to keep burning. How could you let air in, and let the burnt gas out? Plan a few lids first.",
+     "kid": "Plan two or three lids. Sketch them or tell your grown-up.",
      "ask": [
       {
        "q": "Where should air go in, and where should it go out?",
@@ -1550,7 +1550,7 @@
      "mins": 15,
      "adult": true,
      "do": "First test a foil lid with no holes at all, so you have a time to compare with. A grown-up lights the candle and puts the lid on. Start the timer. Write the time when the flame goes out. Then make a change to the lid, and test again. Change only one thing each time.",
-     "say": "Make your first lid. I will light the candle and put it on. You start the timer. When the flame goes out, write down the time.",
+     "say": "First make a foil lid with no holes. I will light the candle and put it on. You start the timer. When the flame goes out, write down the time.",
      "kid": "A grown-up lights the candle and puts on your lid. Time the flame. Write the time.",
      "ask": [
       {
@@ -1579,9 +1579,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Compare all your lids. Which lasted longest? Why? Draw the best lid, with arrows showing the air going in and out.",
-     "say": "Look at all the times. Which lid was best? Show me with arrows where the air goes in and where it goes out.",
-     "kid": "Which lid lasted longest? Draw it. Draw arrows for the air.",
+     "do": "Compare all your lids. Which lasted longest? Why? Show with your finger, or in a drawing, where the air goes in and out of the best lid.",
+     "say": "Look at all the times. Which lid was best? Show me where the air goes in and where it goes out.",
+     "kid": "Which lid lasted longest? Show where the air goes in and out.",
      "think": "A chulha has a chimney. How is it like your best lid?",
      "parent": "A strong answer says that the best lid lets fresh air in low down and lets hot gas out high up, as a chimney does. This is why a stove with a good chimney burns hotter and makes less smoke.",
      "context": "This is the last step of the challenge. You compare your lids and explain the best one."
@@ -1597,8 +1597,8 @@
     "A card divider in the jar, with fresh air going down one side and hot gas going up the other.",
     "A lid with holes at the edge and a tube that takes the hot gas away, so the jar stays cooler."
    ],
-   "your_turn": "Sketch your lid design. Build it and time the flame. Change one thing, such as the number of holes, and time it again. Which lid lasted longest? Why do you think that was?",
-   "context": "This is a design challenge about air and burning. You design a lid that keeps a flame going in a jar.",
+   "your_turn": "Plan your lid, by sketch or in words. Build it and time the flame. Change one thing, such as the number of holes, and time it again. Which lid lasted longest? Why do you think that was?",
+   "context": "This is a design challenge about air and burning. You design a lid that keeps a flame going in a jar. You will find out where air must go in and out.",
    "setup": [
     {
      "art": "A child sketching three lid designs on paper: one with a single hole, one with edge holes and a middle hole, and one with a card tube.",

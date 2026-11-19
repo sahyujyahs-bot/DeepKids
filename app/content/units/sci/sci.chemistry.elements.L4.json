@@ -423,7 +423,7 @@
         "with a parent",
         "with friends"
       ],
-      "context": "This is a card game with 24 element cards. You collect three cards that share something, such as three gases or three metals. You must say what they share.",
+      "context": "This is a card game with 24 element cards. You collect three cards that share something, such as three gases or three metals. You must say what they share. You will get to know the elements by what they have in common.",
       "setup": [
         {
           "art": "Twenty-four small cards in a shuffled pile, with five cards dealt face up in front of each of two players.",
@@ -551,7 +551,7 @@
         "with a parent",
         "with friends"
       ],
-      "context": "This is a quick card game with 16 symbol cards. You see a symbol, such as Fe, and name the element. The back of each card gives the answer.",
+      "context": "This is a quick card game with 16 symbol cards. You see a symbol, such as Fe, and name the element. The back of each card gives the answer. You will find out why some symbols look nothing like the name.",
       "setup": [
         {
           "art": "Sixteen small cards in a pile, each showing one or two large letters.",
@@ -677,8 +677,8 @@
           "id": "s3",
           "mins": 3,
           "do": "Hold up Fe, then K, then Au, one at a time. Then ask the check question.",
-          "say": "Fe is iron. Where have you seen the word 'ferrous'? K is potassium. Where have you seen NPK?",
-          "kid": "Name Fe, K and Au. Where have you seen these letters?",
+          "say": "Fe is iron. Where have you seen the word 'ferrous'? K is potassium. Where have you seen NPK? Now say the name of Au.",
+          "kid": "Name Fe, K and Au. Where have you seen them?",
           "check": {
             "t": "mcq",
             "q": "What does the symbol Na stand for?",
@@ -746,8 +746,8 @@
         }
       ],
       "safety": "A grown-up does all the heating. The child stays an arm's length from the stove. Open a window or switch on the kitchen fan, because the sugar smokes. Salt grains may crackle and jump. Let the foil cool for 10 minutes before anyone touches it.",
-      "record": "Draw a table with eight rows, one for each thing. Write your guess, what it looked like after 10 minutes, and whether it came from a living thing.",
-      "context": "In this experiment a grown-up heats eight kitchen things on a foil-covered tawa. You find out which ones turn black, and what those ones share. The black is carbon.",
+      "record": "Make a table with eight rows, one for each thing. Write your guess, what it looked like after 10 minutes, and whether it came from a living thing.",
+      "context": "In this experiment a grown-up heats eight kitchen things on a foil-covered tawa. You will find out which ones hide black carbon inside, and what they share. Carbon is an element, a basic kind of material.",
       "setup": [
         {
           "art": "An old tawa covered with a sheet of foil, with eight numbers written on the foil in pencil around the edge.",
@@ -822,8 +822,8 @@
           "id": "s1",
           "mins": 5,
           "do": "Lay the eight things on a plate. Ask for a guess and a reason for each. Write the guesses in the table.",
-          "say": "A grown-up will heat these eight things for 10 minutes. Which will turn black, and which will stay the same? Sugar and salt look alike. Will they do the same thing? Why do you think so?",
-          "kid": "Look at the eight things. Which will turn black? Why do you think so?",
+          "say": "A grown-up will heat these eight things for 10 minutes. Which will turn black, and which will stay the same?",
+          "kid": "Sort the eight things into two piles: will turn black, and will stay the same.",
           "ask": [
             {
               "q": "Why do you think sugar and salt will, or will not, behave the same?",
@@ -841,7 +841,7 @@
           "id": "s2",
           "mins": 4,
           "do": "Cover the tawa with foil. Mark eight places with a pencil, about 5 centimetres apart. Put a small amount of each thing in its place.",
-          "say": "Each heap must be small, no bigger than a 1 rupee coin. Why should all eight go on the same tawa?",
+          "say": "Each heap must be small, no bigger than a 1 rupee coin. All eight go on the same tawa, so they get the same heat. That keeps the test fair.",
           "kid": "Put eight small heaps on the foil. Keep them well apart.",
           "parent": "The same tawa gives every heap the same heat for the same time. Put the sugar near the edge, as it spreads when it melts.",
           "context": "In this step of the Black Test you set out eight small heaps on a foil-covered tawa."
@@ -851,7 +851,7 @@
           "mins": 11,
           "do": "Open a window. Heat the tawa on a medium flame for 10 minutes. Your child watches from an arm's length and says what changes. Then switch off the flame.",
           "say": "Stay where you are and tell me what you see. Which heap changed first? What is the salt doing?",
-          "kid": "Stand back and watch. Which heap changes first? What does the salt do?",
+          "kid": "Stand back and watch. Say what changes.",
           "adult": true,
           "parent": "Sugar melts in a minute or two, bubbles, turns brown and then black. Bread, paper and thread darken next. Press the thread and paper flat with a spoon if they curl. Rice and dal are slowest and may only reach dark brown. If so, heat them for 5 minutes more. Salt may crackle.",
           "context": "In this step of the Black Test a grown-up heats the eight heaps for 10 minutes while you watch."
@@ -860,8 +860,8 @@
           "id": "s4",
           "mins": 5,
           "do": "Wait 10 minutes for the foil to cool. Then your child fills in the table. They rub a black crumb of sugar or bread on white paper.",
-          "say": "Now it is cool. Write what each heap looks like. Rub a black crumb on the white paper. What does the mark remind you of?",
-          "kid": "Write what each heap looks like. Rub a black crumb on paper.",
+          "say": "Now it is cool. Look at each heap and write what it looks like. Then rub a black crumb on the white paper. What does the mark remind you of?",
+          "kid": "Rub a black crumb on white paper. Look at the mark it leaves.",
           "adult": true,
           "check": {
             "t": "mcq",
@@ -881,8 +881,8 @@
           "id": "s5",
           "mins": 5,
           "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. Read them the note below only after they answer.",
-          "say": "Say what you thought would happen, what you saw, and why it happened. Look at the last column. What do the black ones share?",
-          "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+          "say": "Look at your table. Which things turned black? Which did not?",
+          "kid": "Tell what you guessed, what you saw, and why.",
           "ask": [
             {
               "q": "What do all the things that turned black have in common?",
@@ -951,8 +951,8 @@
         }
       ],
       "safety": "A grown-up strips the wire, cuts the wood from the pencil lead, and burns and cools the matchstick. Wash your hands after handling the pencil lead and the burnt matchstick.",
-      "record": "Draw a table with a row for each thing and a column for each test. Write yes or no for shine and ring. Write 'bends' or 'snaps' for the bend test.",
-      "context": "In this experiment you put metals and two forms of carbon through three tests: shine, bend and ring. You find out how many of the metal tests pencil lead passes.",
+      "record": "Make a table with a row for each thing and a column for each test. Write yes or no for shine and ring. Write 'bends' or 'snaps' for the bend test.",
+      "context": "In this experiment you put metals and two forms of carbon through three tests: shine, bend and ring. You will find out if a non-metal like pencil lead can act like a metal.",
       "setup": [
         {
           "art": "Seven small things in a row on newspaper: a steel spoon, a coin, a paper clip, a foil pad, a short copper wire, a piece of pencil lead and a burnt matchstick.",
@@ -1030,8 +1030,8 @@
           "id": "s1",
           "mins": 4,
           "do": "Lay the things on newspaper. Say which element each one is made of. The steel is mostly iron. The foil is aluminium. The wire is copper. The pencil lead and the burnt matchstick are carbon. Then ask for the guess and the reason.",
-          "say": "Pencil lead and this burnt matchstick are both carbon, a non-metal. We will give everything three metal tests. How many will the pencil lead pass? Why do you think so?",
-          "kid": "Pencil lead is carbon. How many metal tests will it pass? Why?",
+          "say": "Pencil lead and this burnt matchstick are both carbon, a non-metal. We will give everything three metal tests. How many will the pencil lead pass?",
+          "kid": "Pencil lead is carbon. Guess how many metal tests it will pass.",
           "ask": [
             {
               "q": "Why do you think the pencil lead will pass that many tests?",
@@ -1050,7 +1050,7 @@
           "mins": 6,
           "do": "Shine test. Your child rubs each thing five times with the dry scrub pad, then holds it under the light. They write yes or no.",
           "say": "Rub five times, then hold it under the light. Does the rubbed part throw the light back? Look closely at the pencil lead.",
-          "kid": "Rub each thing five times. Hold it under the light. Does it shine?",
+          "kid": "Rub each thing, then look closely. Which things shine?",
           "parent": "Metals show a bright fresh surface. Pencil lead shows a grey shine too. The burnt matchstick stays dull black.",
           "context": "In this step of Shine, Bend, Ring you rub each thing and look for a shine."
         },
@@ -1059,7 +1059,7 @@
           "mins": 5,
           "do": "Bend test. Your child bends each thing gently between two fingers, over the newspaper. They write 'bends' or 'snaps'.",
           "say": "Bend each one gently. A metal bends and stays whole. What does the pencil lead do? What does the matchstick do?",
-          "kid": "Bend each thing gently. Does it bend, or does it snap?",
+          "kid": "Bend each thing gently. Which ones snap?",
           "parent": "The spoon and coin are too stiff to bend by hand. Write 'too stiff' for them. Nothing metal snaps.",
           "context": "In this step of Shine, Bend, Ring you bend each thing to see whether it bends or snaps."
         },
@@ -1068,7 +1068,7 @@
           "mins": 5,
           "do": "Ring test. Turn a steel plate upside down on the floor. Your child drops each thing onto it from one hand-width and listens. They write yes or no.",
           "say": "Drop each one from the same height. Listen for a ring that lasts. Which ones only tick or thud?",
-          "kid": "Drop each thing on the plate. Does it ring, or only tick?",
+          "kid": "Drop each thing on the plate. Listen. Which ones ring for a long time?",
           "check": {
             "t": "mcq",
             "q": "In Shine, Bend, Ring, why is every thing dropped from the same height?",
@@ -1087,8 +1087,8 @@
           "id": "s5",
           "mins": 5,
           "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. Read them the note below only after they answer.",
-          "say": "Say what you thought would happen, what you saw, and why it happened. How many tests did the pencil lead pass? Did the matchstick do the same?",
-          "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+          "say": "How many tests did the pencil lead pass? Did the matchstick do the same?",
+          "kid": "Tell what you guessed, what you saw, and why.",
           "ask": [
             {
               "q": "Pencil lead and the burnt matchstick are both carbon. Why might they behave differently?",
@@ -1140,7 +1140,7 @@
         }
       ],
       "record": "Keep both squares. Under each, write the name of the element with the most squares.",
-      "context": "In this activity you colour two grids of 100 squares. The first shows the elements of your body by weight. The second shows them by number of atoms. The two grids look very different.",
+      "context": "In this activity you colour two grids of 100 squares. The first shows the elements of your body by weight. The second shows them by number of atoms. You will find out which element is most of you, and why the two grids look so different.",
       "setup": [
         {
           "art": "A page of square-ruled paper with a box of 10 squares by 10 squares outlined in pencil.",
@@ -1160,8 +1160,8 @@
           "id": "s1",
           "mins": 4,
           "do": "Outline two boxes of 10 by 10 squares. Ask for the guess and the reason before giving any numbers.",
-          "say": "Your body is made of elements. Which one do you think makes up most of your weight? Why do you think so?",
-          "kid": "Which element is most of your weight? Why do you think so?",
+          "say": "Your body is made of elements, plain kinds of material such as oxygen, carbon, hydrogen and iron. Which one do you think makes up most of your weight?",
+          "kid": "Pick the element you think is most of your weight.",
           "ask": [
             {
               "q": "Why did you choose that element?",
@@ -1181,7 +1181,7 @@
           "mins": 7,
           "do": "Read out the weights. Your child colours the first box and makes a key. Use blue for oxygen, black for carbon and yellow for hydrogen.",
           "say": "Out of 100 squares of weight, colour 65 for oxygen. Then 18 for carbon, 10 for hydrogen and 3 for nitrogen. Then 2 for calcium, 1 for phosphorus and 1 for everything else.",
-          "kid": "Colour 65 oxygen, 18 carbon, 10 hydrogen, 3 nitrogen. Then 2 calcium, 1 phosphorus, 1 the rest.",
+          "kid": "Colour each group in its own colour. Or cover it with coloured paper scraps. Make a key.",
           "ask": [
             {
               "q": "Why might oxygen be so much of your weight?",
@@ -1199,15 +1199,15 @@
           "mins": 5,
           "do": "Now read out the count of atoms. Your child colours the second box with the same colours.",
           "say": "Now we count atoms one by one. Out of every 100 atoms in you, 62 are hydrogen. Then 24 are oxygen, 12 are carbon and 1 is nitrogen. The last 1 is everything else.",
-          "kid": "Colour 62 hydrogen, 24 oxygen, 12 carbon. Then 1 nitrogen and 1 the rest.",
+          "kid": "Colour the second box with the same colours.",
           "context": "In this step of the Body Hundred Square you colour the elements of your body by number of atoms."
         },
         {
           "id": "s4",
           "mins": 4,
           "do": "Put the two boxes side by side. Ask your child to say what they thought would happen, what they see, and why the boxes differ.",
-          "say": "Say what you thought would happen, what you see, and why you think the two boxes differ. Which element wins in each box?",
-          "kid": "Say what you guessed. Say what you see. Why do the boxes differ?",
+          "say": "Say what you guessed, what you see, and why you think the two boxes differ.",
+          "kid": "Which colour wins in each box?",
           "check": {
             "t": "mcq",
             "q": "Hydrogen is 62 of every 100 atoms in you, but only 10 parts in 100 of your weight. Why?",
@@ -1249,7 +1249,7 @@
       ],
       "safety": "A grown-up hands over any medicine strips and takes them back. Do not open them.",
       "record": "Make a list with two columns: the element, and the label where you found it. Count the different elements at the end.",
-      "context": "In this activity you read the labels on packets and bottles at home. You list every element named on them, and count how many of the 118 you found.",
+      "context": "In this activity you read the labels on packets and bottles at home. You will find out how many of the 118 elements are hiding in things you use every day. You list every element named on the labels and count them.",
       "setup": [
         {
           "art": "Eight packets and bottles from a kitchen and bathroom shelf, standing in a row on a table.",
@@ -1270,7 +1270,7 @@
           "mins": 3,
           "do": "Collect eight labelled things. Ask for the guess and the reason, and write the guess down.",
           "say": "These labels name some of the elements inside. How many different elements do you think we will find? Why do you think so?",
-          "kid": "How many different elements will the labels name? Why do you think so?",
+          "kid": "Say your guess as a number.",
           "context": "This is the first step of Elements on the Label. You guess how many elements the labels at home will name."
         },
         {
@@ -1278,7 +1278,7 @@
           "mins": 12,
           "do": "Read each label together. Your child writes every element name and where it was found. Explain the changed endings.",
           "say": "Look for sodium, potassium, calcium, iron, zinc, magnesium and iodine. 'Fluoride' means fluorine, and 'chloride' means chlorine. The ending changes when the element is joined to another.",
-          "kid": "Read each label. Write every element name you find.",
+          "kid": "Hunt for element names. Write each one, and which label it was on.",
           "ask": [
             {
               "q": "The salt packet says 'iodised'. Which element was added, and why?",
@@ -1295,8 +1295,8 @@
           "id": "s3",
           "mins": 5,
           "do": "Count the different elements. Ask which are metals. Then ask the question below.",
-          "say": "Count your list. Most of these are metals, such as sodium and calcium. But nothing in the packets looks like metal. Why not?",
-          "kid": "Count your elements. Most are metals. Why can't you see any metal?",
+          "say": "Count your list. Most of these elements are metals, such as sodium and calcium.",
+          "kid": "Count your elements. Say how many you found.",
           "ask": [
             {
               "q": "Salt holds the metal sodium. Why does salt not look like a metal?",
@@ -1338,7 +1338,7 @@
         }
       ],
       "record": "Keep the grid. Under it write how many squares are metals, metalloids and non-metals, and how many are too new to tell.",
-      "context": "In this activity you number 118 squares, one for each element. You colour the non-metals, the metalloids and the metals, and count each kind.",
+      "context": "In this activity you number 118 squares, one for each element. You colour the non-metals, the metalloids and the metals, and count each kind. You will find out whether most elements are metals or non-metals.",
       "setup": [
         {
           "art": "A grid of squares in rows of ten, numbered 1 to 118 in pencil, with the last two squares of the twelfth row crossed out.",
@@ -1359,7 +1359,7 @@
           "mins": 7,
           "do": "Your child outlines 12 rows of 10 squares and crosses out the last two. They number the squares 1 to 118. Ask for the guess and the reason.",
           "say": "Each square is one element. Number 1 is hydrogen and number 118 is oganesson. Are more of the elements metals, or non-metals? Why do you think so?",
-          "kid": "Number the squares 1 to 118. Are there more metals or non-metals? Why?",
+          "kid": "Number the squares 1 to 118.",
           "parent": "Many children guess non-metals, because air, water and their own bodies are non-metal.",
           "context": "This is the first step of the 118 Grid. You number one square for each element and guess which kind is more common."
         },
@@ -1367,8 +1367,8 @@
           "id": "s2",
           "mins": 8,
           "do": "Read out the non-metals: 1, 2, 6, 7, 8, 9, 10, 15, 16, 17, 18, 34, 35, 36, 53, 54 and 86. Your child colours them red. Then read out the metalloids: 5, 14, 32, 33, 51 and 52. They colour those green.",
-          "say": "Colour these seventeen squares red. They are the non-metals. Now colour these six green. They are the metalloids, such as silicon.",
-          "kid": "Colour the 17 non-metals red. Colour the 6 metalloids green.",
+          "say": "Colour these seventeen squares red. They are the non-metals. Now colour these six green. They are the metalloids. They sit in between metal and non-metal, like silicon.",
+          "kid": "Colour 17 squares red and 6 green. Or cover them with paper scraps.",
           "parent": "Hydrogen is 1, carbon 6, nitrogen 7, oxygen 8, phosphorus 15 and sulfur 16. Silicon is 14.",
           "context": "In this step of the 118 Grid you colour the 17 non-metals and the 6 metalloids."
         },
@@ -1377,7 +1377,7 @@
           "mins": 5,
           "do": "Your child colours squares 109 to 118 grey, then every square still white yellow. They count the yellow squares.",
           "say": "Colour the last ten grey. Only a few atoms of each have been made, so nobody has tested them. Colour all the rest yellow. Those are metals. Count them.",
-          "kid": "Colour 109 to 118 grey. Colour the rest yellow. Count the yellow squares.",
+          "kid": "Count the yellow squares and say the number.",
           "check": {
             "t": "mcq",
             "q": "On the 118 Grid, how many of the first 108 elements are metals?",
@@ -1396,7 +1396,7 @@
           "mins": 5,
           "do": "Your child puts a dot on squares 1, 6, 7, 8, 15 and 20. Ask them to say what they guessed, what they found, and what surprises them.",
           "say": "Dot the six main elements of your body: 1, 6, 7, 8, 15 and 20. Say what you guessed and what you found. What colour are most of your dots?",
-          "kid": "Dot 1, 6, 7, 8, 15 and 20. What colour are most of your dots?",
+          "kid": "Dot the six squares. Count how many dots are on red.",
           "ask": [
             {
               "q": "Most squares are yellow, but five of your six dots are on red. What does that tell you?",
@@ -1465,7 +1465,7 @@
         }
       ],
       "record": "Write the number of coins that balance the fresh slices on day 1. Write the number that balance the dry slices on day 4.",
-      "context": "In this four-day project you weigh thin slices of potato with a hanger balance and coins. You dry the slices and weigh them again. The weight that is lost was water, which is hydrogen and oxygen.",
+      "context": "In this four-day project you weigh thin slices of potato with a hanger balance and coins. You dry the slices and weigh them again. You will find out how much of a potato is water, which is hydrogen and oxygen.",
       "setup": [
         {
           "art": "A clothes hanger hanging from a door handle, with a paper cup hung by thread from each end.",
@@ -1490,7 +1490,7 @@
           "mins": 15,
           "do": "Day 1. Make the balance. Slice the potato as thin as a coin. Put slices in one cup until they balance 20 coins. Ask for the guess and the reason. Spread the slices on a plate.",
           "say": "These slices weigh the same as 20 coins. We will dry them for three days. How many coins will they weigh then? Why do you think so?",
-          "kid": "The slices weigh 20 coins. How many when dry? Why do you think so?",
+          "kid": "Guess the number of coins. Say why.",
           "adult": true,
           "parent": "Use coins of one value and one design, because coins of different years can differ in weight. Thin slices dry faster and are less likely to spoil.",
           "context": "This is day 1 of the Drying Potato. You weigh fresh potato slices in coins and guess their dry weight."
@@ -1500,7 +1500,7 @@
           "mins": 5,
           "do": "Days 2 and 3. Your child turns the slices over once a day and says how they have changed.",
           "say": "Turn every slice over. How do they look and feel now? Where has the water gone?",
-          "kid": "Turn the slices over. How have they changed?",
+          "kid": "Turn the slices over. Feel them each day.",
           "wait": "Do this on the second and third days",
           "parent": "In damp weather the slices may stay soft or grow spots. Then a grown-up can dry fresh slices on a tawa on the lowest flame. This takes about 20 minutes, and the slices must be turned often.",
           "context": "These are days 2 and 3 of the Drying Potato. You turn the potato slices as they dry."
@@ -1509,8 +1509,8 @@
           "id": "s3",
           "mins": 10,
           "do": "Day 4. Put the dry slices in one cup. Add coins to the other until the hanger is level. Ask your child to say what they guessed, what they found, and why.",
-          "say": "Count the coins that balance the dry slices. Say what you thought would happen, what you found, and why it happened. What was the lost weight?",
-          "kid": "Weigh the dry slices. Say what you guessed and what you found. Why?",
+          "say": "Count the coins that balance the dry slices. Is it more or less than 20? What was the lost weight?",
+          "kid": "Weigh the dry slices. Say what you guessed, what you found, and why.",
           "wait": "Do this on the fourth day",
           "ask": [
             {
@@ -1586,7 +1586,7 @@
           "id": "s1",
           "mins": 4,
           "do": "Read the problem together. With eyes open, your child handles the ten things and says how metals feel and sound different.",
-          "say": "Before the blindfold, handle each thing. How does a metal feel on your cheek? How does it sound when tapped? Which tests could work without eyes?",
+          "say": "Before the blindfold, handle each thing. How does a metal feel on your cheek? How does it sound when tapped?",
           "kid": "Handle the ten things. How do metals feel and sound?",
           "ask": [
             {

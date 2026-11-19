@@ -414,7 +414,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about messages inside the body. Each card describes something a body does, and you say whether nerves, hormones or both carried the message.",
+   "context": "This is a card game about messages inside the body. Each card describes something a body does, and you say whether nerves, hormones or both carried the message. You will find out what is special about each kind of message.",
    "setup": [
     {
      "art": "Twenty cards in a shuffled pile on a table, with three small tokens marked Nerve, Hormone and Both in front of each player.",
@@ -548,7 +548,7 @@
      "id": "s2",
      "mins": 7,
      "do": "Play the first ten cards. After each card, read the back aloud. Ask the question below after card five.",
-     "say": "The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Who scored?",
+     "say": "The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Who chose right? Each of them earns a point.",
      "kid": "Listen to the card. Pick a token. Turn it over. Check the back.",
      "ask": [
       {
@@ -576,7 +576,7 @@
      "mins": 3,
      "do": "Count the points. Then sort all 20 cards into three piles: Nerve, Hormone and Both. Look at the piles together.",
      "say": "Let us sort the cards into three piles. What is the same about all the cards in the nerve pile? What is the same in the hormone pile?",
-     "kid": "Sort the cards into three piles. What is the same in each pile?",
+     "kid": "Sort all 20 cards into three piles: Nerve, Hormone and Both.",
      "check": {
       "t": "mcq",
       "q": "Which job suits a hormone better than a nerve?",
@@ -601,7 +601,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about receptors. A hormone reaches every cell in the body. You work out which cells have the lock that the hormone fits.",
+   "context": "This is a card game about receptors. A hormone reaches every cell in the body. You work out which cells have the lock that the hormone fits. Adrenaline and ADH are two hormones. You will find out why a hormone that reaches every cell changes only some of them.",
    "setup": [
     {
      "art": "Twelve small cards dealt out in front of two players, each card showing the name of a kind of cell, and a pile of four larger cards between them.",
@@ -726,7 +726,7 @@
      "id": "s3",
      "mins": 4,
      "do": "Swap cell cards with another player. Play the 4 hormone cards again and add up both rounds.",
-     "say": "Pass your cell cards to the left. Now you have cells you did not hold before. What do you remember about them?",
+     "say": "Pass your cell cards to the left. You now hold cells you have not seen. Think about each one before you push.",
      "kid": "Swap your cell cards. Play the four hormones again.",
      "context": "In this step of Who Has the Lock you play the second round with new cell cards."
     },
@@ -734,8 +734,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Lay all 12 cell cards with the backs up. Count how many cards have a lock for adrenaline and how many for ADH. Talk about the question below.",
-     "say": "Count the cells with a lock for adrenaline. Now count the cells with a lock for ADH. Why might one hormone have so many targets?",
-     "kid": "Count the adrenaline locks. Count the ADH locks. Why are they so different?",
+     "say": "Count the cells with a lock for adrenaline. Now count the cells with a lock for ADH. One number is much bigger.",
+     "kid": "Count the adrenaline locks and the ADH locks. Which is more?",
      "ask": [
       {
        "q": "Why does adrenaline have locks on so many kinds of cell?",
@@ -808,7 +808,7 @@
     }
    ],
    "record": "Draw a table with two rows, one for each day. Write the drink, the minutes until you needed the toilet, the colour of the pee and your slow count. If you did not need the toilet in 90 minutes, write 'more than 90'.",
-   "context": "In this two-day experiment you drink 4 sips of water on one day and 2 tumblers on the next. You time how long your kidneys take to send the extra water out.",
+   "context": "In this two-day experiment you drink 4 sips of water on one day and 2 tumblers on the next. You time how long your kidneys take to send the extra water out. You will find out how slow a message that travels in the blood is.",
    "setup": [
     {
      "art": "A child coming out of a bathroom door and looking at a wall clock, with a notebook and pencil on a table.",
@@ -857,7 +857,7 @@
      "mins": 4,
      "do": "Show your child the tumbler. Explain the two days. Ask for the guess and the reason, and write both down.",
      "say": "On one day you will take 4 sips of water. On the next day you will drink 2 tumblers. How many minutes after the 2 tumblers will you need the toilet? Why do you think so?",
-     "kid": "You will drink 2 tumblers of water. When will you need the toilet? Why?",
+     "kid": "Guess first. Your grown-up will write down your guess and your reason.",
      "ask": [
       {
        "q": "What has to happen inside you between the drink and the toilet?",
@@ -875,7 +875,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Day 1. Your child empties their bladder in the toilet. They take 4 sips of water. Write down the time. Draw the results table.",
+     "do": "Day 1. Your child empties their bladder in the toilet. They take 4 sips of water. Write down the time. Make the results table (see the record).",
      "say": "First go to the toilet, so that we start empty. Now take 4 sips of water and no more. I am writing down the time.",
      "kid": "Go to the toilet first. Then take 4 sips of water. Write the time.",
      "context": "In this step of the Water Message Test you start day 1. You empty your bladder and take 4 sips of water."
@@ -925,8 +925,8 @@
      "id": "s6",
      "mins": 7,
      "do": "Put the two rows of the table side by side. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Look at both days. Say what you thought would happen, what you saw, and why it happened. Your tongue felt the water at once. Why did your kidneys answer so much later?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+     "say": "Look at both days. Say what you thought would happen, what you saw, and why it happened. Compare the two rows.",
+     "kid": "Compare the two rows of your table.",
      "ask": [
       {
        "q": "Your tongue felt the water in less than a second. Why did the kidneys take so long?",
@@ -991,7 +991,7 @@
    ],
    "safety": "A grown-up cuts the lemon with the knife.",
    "record": "Draw a table with four rows: water drops, thinking, smelling and tasting. Write the number of swallows in 2 minutes for each round.",
-   "context": "In this experiment you count how often you swallow in 2 minutes. You compare plain water, thinking about a lemon, smelling a lemon and tasting lemon juice.",
+   "context": "In this experiment you count how often you swallow in 2 minutes. You compare plain water, thinking about a lemon, smelling a lemon and tasting lemon juice. Saliva is the liquid that wets your mouth, and more saliva means more swallowing. You will find out whether just thinking about a lemon can make your mouth water.",
    "setup": [
     {
      "art": "A child sitting with lips closed and one finger raised, while a grown-up beside her makes a tally mark and watches a phone timer.",
@@ -1051,7 +1051,7 @@
      "mins": 3,
      "do": "Keep the lemon out of sight. Explain the four rounds. Ask for the guess and the reason, and write both down.",
      "say": "We will count how often you swallow in 2 minutes. You will think about a lemon, smell one and taste one. Which will make your mouth water most? Why do you think so?",
-     "kid": "Which will make your mouth water most: thinking, smelling or tasting? Why?",
+     "kid": "Guess first, and say why.",
      "ask": [
       {
        "q": "Do you think only thinking about a lemon will make your mouth water? Why?",
@@ -1068,7 +1068,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Practise. Your child sits still with lips closed and raises a finger at each swallow. Count for 1 minute. Then draw the results table with four rows.",
+     "do": "Practise. Your child sits still with lips closed and raises a finger at each swallow. Count for 1 minute. Then make the results table with four rows.",
      "say": "Keep your lips closed. Swallow only when your mouth feels full, and raise a finger each time. I will count. This minute is only for practice.",
      "kid": "Keep your lips closed. Raise a finger each time you swallow.",
      "parent": "You can also watch the bump at the front of the throat. It rises with each swallow. One or two swallows a minute is usual at rest.",
@@ -1125,7 +1125,7 @@
      "mins": 6,
      "do": "Look at the four numbers together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
      "say": "Look at your four counts. Say what you thought would happen, what you saw, and why it happened. Did you decide to make saliva in round 4?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+     "kid": "Look at your four counts. Which is highest?",
      "ask": [
       {
        "q": "Which rounds were clearly above the water round?",
@@ -1194,9 +1194,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Draw the table with three rows. Explain the three tests. Ask which actions your child thinks they will choose.",
+     "do": "Make the table with three rows. Explain the three tests. Ask which actions your child thinks they will choose.",
      "say": "I will clap near your face, stroke your foot and ask you to touch your nose. Which of your answers will you choose? Which will just happen?",
-     "kid": "Draw three rows: clap, foot, nose. Which answers will you choose?",
+     "kid": "Guess which tests your body will answer without asking you.",
      "context": "This is the first step of Did I Decide That. You draw the table and guess which answers you will choose."
     },
     {
@@ -1276,7 +1276,7 @@
     }
    ],
    "record": "Write the time for 20 squeezes on each of three tries. Circle the middle time. Divide it by 20 to find the time for one pass.",
-   "context": "In this activity two people hold hands with eyes closed. A squeeze goes back and forth 20 times, and you time it to find how long one pass takes.",
+   "context": "In this activity two people hold hands with eyes closed. A squeeze goes back and forth 20 times, and you time it to find how long one pass takes. One pass is one squeeze travelling from one person to the other. You will find out how fast a nerve message really is.",
    "setup": [
     {
      "art": "A grown-up and a child sitting on the floor facing each other with eyes closed, holding one hand each, while the grown-up's free hand rests on a phone stopwatch.",
@@ -1297,7 +1297,7 @@
      "mins": 2,
      "do": "Explain the chain. Ask your child to guess how many seconds 20 squeezes will take, and why. Write the guess down.",
      "say": "I will squeeze your hand. When you feel it, squeeze back. Then I squeeze again. How many seconds will 20 squeezes take? Why do you think so?",
-     "kid": "A squeeze goes back and forth 20 times. How many seconds will it take?",
+     "kid": "Guess how many seconds 20 squeezes will take, and say why.",
      "context": "This is the first step of the Squeeze Chain. You guess how long 20 hand squeezes will take."
     },
     {
@@ -1314,7 +1314,7 @@
      "mins": 4,
      "do": "Start the stopwatch with your free hand as you give the first squeeze. Count your own squeezes silently. Stop the watch when you feel your child's tenth squeeze. That makes 20 squeezes. Do this three times and write each time.",
      "say": "Now we time it. Twenty squeezes, ten from each of us. Eyes closed. I start now.",
-     "kid": "Eyes closed. Twenty squeezes, ten from each of you. A helper times it.",
+     "kid": "Eyes closed. Squeeze back each time you feel a squeeze.",
      "parent": "Most pairs take 4 to 6 seconds. A time under 3 seconds means you both fell into a beat and squeezed before you felt the squeeze. Try again more slowly.",
      "context": "In this step of the Squeeze Chain you time 20 squeezes, three times."
     },
@@ -1322,8 +1322,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Circle the middle time of the three. Divide it by 20 to find the time for one pass. Talk about the questions below.",
-     "say": "Take the middle time and divide it by 20. That is the time for one pass. Where did the message travel inside you during that time?",
-     "kid": "Divide the middle time by 20. Where did the message go inside you?",
+     "say": "Take the middle time and divide it by 20. That is the time for one pass, from one person to the other.",
+     "kid": "Work out how long one squeeze takes to pass.",
      "ask": [
       {
        "q": "Where did the message travel between the squeeze you felt and the squeeze you gave?",
@@ -1370,7 +1370,7 @@
     }
    ],
    "record": "Write the length of the reflex path and the length of the brain path in centimetres. Write the difference between them.",
-   "context": "In this activity you lay wool along your arm and back to show two paths a message can take. One turns round in the spinal cord, and the other goes up to the brain first.",
+   "context": "In this activity you lay wool along your arm and back to show two paths a message can take. One turns round in the spinal cord, and the other goes up to the brain first. You will find out how much longer the brain path is, and whether that is why reflexes are fast.",
    "setup": [
     {
      "art": "A child standing with one arm held out sideways while a grown-up lays a piece of red wool from her fingertip along the arm to the middle of her upper back.",
@@ -1395,7 +1395,7 @@
      "mins": 3,
      "do": "Explain the two paths. Ask your child to guess how much longer the path through the brain is, and whether that extra length matters.",
      "say": "A fingertip touches a hot pot. One message turns round in the spinal cord. Another goes up to the brain first. How much longer is the second path? Why do you think so?",
-     "kid": "One path turns in the spinal cord. One goes to the brain. How much longer?",
+     "kid": "Guess which path is longer, and by how much.",
      "context": "This is the first step of Wool Paths. You guess how much longer the path through the brain is."
     },
     {
@@ -1481,8 +1481,8 @@
      "what": "Send a tug along a string, then watch a drop of colour spread through water with and without a stir."
     }
    ],
-   "record": "Draw the tumbler without a stir at 10 seconds, 1 minute and 3 minutes. Write how many seconds the stirred tumbler took to become one even colour.",
-   "context": "In this activity a tug on a string stands for a nerve message. A drop of colour in water stands for a hormone, and a stir with a spoon stands for the heart.",
+   "record": "Photograph or draw the tumbler without a stir at 10 seconds, 1 minute and 3 minutes. Write how many seconds the stirred tumbler took to become one even colour.",
+   "context": "In this activity a tug on a string stands for a nerve message. A drop of colour in water stands for a hormone, and a stir with a spoon stands for the heart. You will see why the body needs both a quick message and a slow one that reaches everywhere.",
    "setup": [
     {
      "art": "Two people standing two metres apart holding the ends of a tight string, one with eyes closed.",
@@ -1503,7 +1503,7 @@
      "mins": 2,
      "do": "Fill both tumblers with water and leave them still on a table. Cut the string. Explain that you will send a message in two ways.",
      "say": "We will send a message along a string. Then we will send one through water. Which will arrive first? Which will reach more places?",
-     "kid": "Fill two tumblers with water. Leave them still. Cut the string.",
+     "kid": "Guess which message arrives first, and which reaches more places.",
      "context": "This is the first step of A Tug and a Drop. You set out the string and two tumblers of still water."
     },
     {
@@ -1527,9 +1527,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Put one drop of colour into the first tumbler. Do not touch it. Your child draws it after 10 seconds, 1 minute and 3 minutes.",
-     "say": "This drop is a hormone leaving a gland. The water is the blood. Watch where the colour goes. Draw it three times.",
-     "kid": "Put one drop of colour in still water. Do not stir. Draw what you see.",
+     "do": "Put one drop of colour into the first tumbler. Do not touch it. Take a photo of it after 10 seconds, 1 minute and 3 minutes. Or your child can draw it.",
+     "say": "This drop is a hormone leaving a gland. The water is the blood. Watch where the colour goes. We will take three photos, or you can draw it.",
+     "kid": "Put one drop of colour in still water. Do not stir. Watch where the colour goes.",
      "parent": "After 3 minutes the colour is still in streaks and patches. Left alone, it would take hours to become even.",
      "context": "In this step of A Tug and a Drop you watch a drop of colour spread through still water. The drop is a model of a hormone."
     },
@@ -1537,7 +1537,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Put one drop into the second tumbler and stir once with the spoon. Count the seconds until the colour is even. Then talk about the questions below.",
-     "say": "Now one drop and one stir. Count the seconds until the colour is even. In your body, what does the job that the spoon did?",
+     "say": "Now one drop and one stir. Count the seconds until the colour is even.",
      "kid": "One drop, one stir. Count the seconds until the colour is even.",
      "ask": [
       {
@@ -1603,7 +1603,7 @@
     }
    ],
    "record": "A chart with six times across the top and three days down the side. In each box write two numbers from 0 to 3: one for hunger and one for sleepiness.",
-   "context": "In this three-day project you rate how hungry and how sleepy you are at six set times each day. You look for a pattern that repeats, which shows slow hormone messages at work.",
+   "context": "In this three-day project you rate how hungry and how sleepy you are at six set times each day. You look for a pattern that repeats, which shows slow hormone messages at work. You will find out whether your hunger and sleepiness follow a daily rhythm.",
    "setup": [
     {
      "art": "A notebook chart with six clock times across the top and rows for Day 1, Day 2 and Day 3, each box holding two small numbers.",
@@ -1615,14 +1615,14 @@
     },
     {
      "art": "The finished chart with a red line for hunger and a blue line for sleepiness drawn across each day.",
-     "caption": "3. On day 3, draw the lines and look for what repeats."
+     "caption": "3. On day 3, circle the highest numbers and look for what repeats."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 10,
-     "do": "Choose six times that fit your day: on waking, mid-morning, just before lunch, mid-afternoon, just before dinner and at bedtime. Draw the chart. Your child rates hunger and sleepiness at each time today.",
+     "do": "Choose six times that fit your day: on waking, mid-morning, just before lunch, mid-afternoon, just before dinner and at bedtime. Make the chart (see the record). Your child rates hunger and sleepiness at each time today.",
      "say": "At six times each day you will rate two things from 0 to 3. One is how hungry you are, and the other is how sleepy you are. Do you think the numbers will repeat from day to day? Why?",
      "kid": "Six times a day, rate your hunger from 0 to 3. Rate your sleepiness too.",
      "ask": [
@@ -1650,9 +1650,9 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "After the last rating, your child joins each day's hunger numbers with a red line. They join the sleepiness numbers with a blue line. Look at the three days together. Then read the note below.",
-     "say": "Draw a red line for hunger and a blue line for sleepiness. At which times is each line highest? Is it the same on all three days?",
-     "kid": "Draw a red line for hunger and a blue line for sleepiness. What repeats?",
+     "do": "After the last rating, your child circles the highest hunger number of each day in red. They circle the highest sleepiness number in blue. Look at the three days together. Then read the note below.",
+     "say": "Look at the red and blue circles. At which times are they? Is it the same on all three days?",
+     "kid": "Circle the highest hunger number in red and the highest sleepiness number in blue. What repeats?",
      "wait": "Do this on the third day, after the bedtime rating",
      "ask": [
       {
@@ -1699,8 +1699,8 @@
     "Make a second path that comes back from the brain plate towards the muscle. It is the brain's own order, which arrives later.",
     "Stand a book in the muscle path as a gate. It is the brain stopping the reflex, as when you hold on to a hot cup."
    ],
-   "your_turn": "Now model a reflex of your own choice, such as a blink or a sneeze. Draw where its message starts, where it turns round and where it ends. Build it, test it 3 times and write what happened.",
-   "context": "In this challenge you build two paths of falling pieces from one starting point. The short path stands for a reflex, and the long path stands for a message to the brain.",
+   "your_turn": "Now model a reflex of your own choice, such as a blink or a sneeze. Point to where its message starts, where it turns round and where it ends. Build it, test it 3 times and write what happened.",
+   "context": "In this challenge you build two paths of falling pieces from one starting point. The short path stands for a reflex, and the long path stands for a message to the brain. You will make the short path always win the race.",
    "setup": [
     {
      "art": "A line of matchboxes standing on end on a floor, splitting into a short straight row and a long curved row, each ending at a steel plate.",
@@ -1719,12 +1719,12 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Read the problem together. Collect the pieces. Ask your child to draw the two paths on paper and label fingertip, spinal cord, muscle and brain.",
-     "say": "One push starts two paths. Which path stands for the reflex? Which stands for the message to the brain? Draw them before you build.",
-     "kid": "Draw two paths from one start. Label the muscle end and the brain end.",
+     "do": "Read the problem together. Collect the pieces. Ask your child to show on their own arm and back where the fingertip, spinal cord, muscle and brain are.",
+     "say": "One push starts two paths. Which path stands for the reflex? Which stands for the message to the brain?",
+     "kid": "Show on your arm and back where a reflex message goes.",
      "ask": [
       {
-       "q": "Where on your drawing is the spinal cord?",
+       "q": "Where on your body is the spinal cord?",
        "good": [
         "Where the two paths split.",
         "At the place where the message turns back towards the muscle."
@@ -1755,7 +1755,7 @@
      "mins": 4,
      "do": "Add one idea from the creative list, or your child's own. Test again. Then talk about the question below.",
      "say": "Add one new part and test again. Now compare the model with a real nerve. What is the same? What is different?",
-     "kid": "Add one new part. Test again. How is this like a real nerve?",
+     "kid": "Add one new part. Test again.",
      "ask": [
       {
        "q": "After a signal, a real nerve fibre is ready again in a few thousandths of a second. How is your model different?",

@@ -495,7 +495,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game. Each card describes one animal with five facts. You decide which group she belongs to, and then you check the back.",
+   "context": "This is a card game. Each card describes one animal with five facts. You decide which group she belongs to, and then you check the back. You will find out which facts really decide an animal's group.",
    "setup": [
     {
      "art": "Twenty-four animal cards in a shuffled pile with a row of six group tokens beside them: mammal, bird, reptile, amphibian, fish and no backbone.",
@@ -650,7 +650,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Play the first 12 cards. For each card, the reader reads the front, the others choose a token, and then the reader shows the back. Keep a score on paper.",
+     "do": "Play the first 12 cards. For each card, the reader reads the front, the others choose a token, and then the reader shows the back. Give one point for each right answer. Keep the score on paper.",
      "say": "Read the facts slowly. Which fact do you trust most? Remember, where an animal lives is not always the clue.",
      "kid": "Read the card. Pick a token. Turn the card to check.",
      "ask": [
@@ -697,7 +697,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a floor game that uses the 24 animal cards from Group Detective. You draw a floor plan of four rooms inside each other and hop to the room that fits each animal.",
+   "context": "This is a floor game that uses the 24 animal cards from Group Detective. You mark four rooms inside each other on the floor and hop to the room that fits each animal. You will find out how far back each animal's family goes.",
    "setup": [
     {
      "art": "A chalk drawing on a balcony floor of four squares inside each other, with the biggest labelled backbone, then four limbs, then sealed egg, then hair and milk.",
@@ -738,9 +738,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw four squares inside each other on the floor, with chalk or masking tape. Make the biggest about 2 steps wide. Write Room 1 to Room 4 and the room names.",
+     "do": "Draw four squares inside each other on the floor, with chalk or masking tape. Make the biggest about 2 steps wide. Write the room names. Room 1 is backbone. Room 2 is four limbs. Room 3 is sealed egg. Room 4 is hair and milk.",
      "say": "This floor is a family tree drawn as rooms inside rooms. Room 1 is for every animal with a backbone. Room 2 is for animals whose ancestors had four limbs.",
-     "kid": "Draw four squares inside each other. Name the rooms.",
+     "kid": "Mark four squares inside each other. Write a name in each room.",
      "parent": "If you cannot use chalk, use masking tape on a tile floor, or lay four sheets of newspaper folded to different sizes, the biggest one underneath.",
      "context": "In this step you draw the rooms on the floor."
     },
@@ -780,7 +780,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Play the other 12 cards. Add up the points.",
+     "do": "Play the other 12 cards. Give one point for each right room. Add up the points.",
      "say": "Keep going. The last 12 cards include the animals without a backbone. Where do they stand?",
      "kid": "Play the last cards. Add your points.",
      "parent": "Ask: which animals stood in the same room? Why do a crow and a gecko share a room, and what does the room not show?",
@@ -795,7 +795,7 @@
    "title": "The Rule Test: which sorting rules break?",
    "mins": 33,
    "days": 1,
-   "context": "In this experiment you test five sorting rules for the animal groups on 16 real animals, and count which animals break each rule. Then you fix the rules that break.",
+   "context": "In this experiment you test five sorting rules for the animal groups on 16 real animals, and count which animals break each rule. Then you fix the rules that break. You will find out why some rules that sound right still fail.",
    "question": "Which sorting rules for the animal groups hold for every animal, and which are broken by hard cases?",
    "predict": "Before you start, guess. Which rule will be broken by the most animals? Which rule will not break at all? Why do you think so?",
    "fair_test": "All five rules are tested on the same 16 animal cards, and every rule is counted in the same two ways. First count the animals the rule leaves out. Then count the animals the rule lets in. Only the rule changes. Rule 5 acts as a check, because it should not break.",
@@ -819,7 +819,7 @@
      "qty": 1
     }
    ],
-   "record": "Fill in the results table. Then draw a bar for each rule showing the total number of animals that break it, and write a better version of each rule that broke.",
+   "record": "Fill in the results table. Then say which rule broke most. Then write a better version of each rule that broke.",
    "setup": [
     {
      "art": "Sixteen animal cards laid out face up in four rows on a table, with the backs hidden.",
@@ -840,7 +840,7 @@
      "mins": 3,
      "do": "Write the five rules on a sheet of paper. 1. Animals that live in water are fish. 2. Animals that fly are birds. 3. Animals that are born live are mammals. 4. Animals with scales are reptiles. 5. Animals with hair or fur that feed milk are mammals. Ask your child which rule will break most and which will not break, and why. Write the guess and the reason down.",
      "say": "Here are five rules that people use to sort animals. Which rule do you think will be broken by the most animals? Which one will not break at all? Why do you think so?",
-     "kid": "Here are five rules. Which will break most? Which will not break? Why?",
+     "kid": "Read the five rules. Pick the one you think will break most.",
      "ask": [
       {
        "q": "Why do you think that rule will break most?",
@@ -992,7 +992,7 @@
    "title": "Hold Your Breath: why must a dolphin come up for air?",
    "mins": 22,
    "days": 1,
-   "context": "In this experiment you time how long you can hold your breath, and then compare your time with animals who breathe air in the water.",
+   "context": "In this experiment you time how long you can hold your breath, and then compare your time with animals who breathe air in the water. You will find out why a dolphin must come up for air.",
    "question": "How long can you hold your breath at rest, and after exercise? How long can air-breathing animals who live in water stay under?",
    "predict": "Before you start, guess. How many seconds can you hold your breath sitting still? Will it be longer or shorter after 30 star jumps? Why do you think so?",
    "fair_test": "You sit on the same chair, rest the same time, take one ordinary breath in and start the clock at the same moment. Only one thing changes: what you do before the hold. You either rest or do 30 star jumps. You do each twice, with a rest between.",
@@ -1016,7 +1016,7 @@
     }
    ],
    "safety": "Sit on a chair or the floor. Stop the moment you want to breathe. Never hold your breath in water. Do not breathe fast and deep before the hold. Do not turn it into a race. A grown-up stays beside the child for every hold. A child with asthma or a breathing problem should skip the star jumps.",
-   "record": "Write the four times in the results table. Draw a bar for each. Then write one line comparing your best time with how long a dolphin stays under.",
+   "record": "Write the four times in the results table. Draw a bar for each, or just point to the longest time. Then say or write one line comparing your best time with how long a dolphin stays under.",
    "setup": [
     {
      "art": "A child sitting on a chair with a hand on her chest while a parent holds a phone timer.",
@@ -1129,7 +1129,7 @@
     }
    ],
    "safety": "A grown-up pours the warm water. It must not be hot. A grown-up crushes the sugar, on a table with the cloth folded over it. Children keep their faces back, because hard kalkandu (mishri) can fly in small sharp bits.",
-   "record": "Write the three times in the table. Draw a bar for each. Then draw a rough picture of a fish's gill, and a simple lump, to show what is different.",
+   "record": "Write the three times in the table. Then say, in your own words, why the powder was fastest and how that is like the folds of a gill.",
    "setup": [
     {
      "art": "Three glasses of warm water on a table, with a whole sugar cube, a cube broken into pieces and a pile of powder beside them.",
@@ -1178,7 +1178,7 @@
      "mins": 4,
      "do": "Write the three times. Ask why the powder was fastest. Then say that a fish's gill is a stack of thin folds, so water can touch a huge area of thin skin.",
      "say": "Which form dissolved first? What was different about the powder? Water can only act on sugar where they touch. A powder has far more places to touch.",
-     "kid": "Which form was fastest? Why? Water works where it touches.",
+     "kid": "Look at your three times. Which form was fastest?",
      "ask": [
       {
        "q": "Why did the powder dissolve fastest?",
@@ -1238,7 +1238,7 @@
     }
    ],
    "record": "A table with three animals and three ways to sort them, and one line saying which sort shows who is related.",
-   "context": "In this activity you look at a bat, a crow and a cat. You find that different rules put different animals together.",
+   "context": "In this activity you look at a bat, a crow and a cat. You find that different rules put different animals together. You will find out which rule shows who is really related.",
    "setup": [
     {
      "art": "A phone showing pictures of a bat, a crow and a cat side by side on a table.",
@@ -1316,8 +1316,8 @@
      "what": "Feel the bones in your arm. Look at pictures of other animals' limbs. Colour matching bones the same colour."
     }
    ],
-   "record": "A drawing of your arm bones and a drawing of a bat wing, with matching bones in matching colours.",
-   "context": "In this activity you feel the bones in your own arm and compare them with the bones in a bat's wing, a dolphin's flipper and a bird's wing.",
+   "record": "A drawing of your arm bones and a bat wing, with matching bones in matching colours. Or tell your grown-up which bones match.",
+   "context": "In this activity you find out that your arm and a bat's wing are built the same way. You feel the bones in your own arm and compare them with the bones in a bat's wing, a dolphin's flipper and a bird's wing.",
    "setup": [
     {
      "art": "A child holding her upper arm with one hand and feeling the single long bone.",
@@ -1338,7 +1338,7 @@
      "mins": 3,
      "do": "Ask your child to hold their upper arm between the shoulder and elbow and squeeze. Ask how many long bones they can feel. Then ask them to turn the forearm over and feel between the elbow and the wrist.",
      "say": "Hold your upper arm. Feel one long bone in the middle. Now hold your forearm and turn your hand over. How many bones can you feel?",
-     "kid": "Feel your upper arm. One bone. Turn your forearm. Feel two.",
+     "kid": "Feel the bones in your arm. How many can you feel in your forearm?",
      "parent": "The upper arm has one bone, the humerus. The forearm has two, the radius and the ulna, and they cross when you turn your hand over.",
      "context": "In this step you find the bones in your own arm."
     },
@@ -1354,9 +1354,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Draw your arm bones and a bat's wing bones. Colour the upper bone red, the two forearm bones blue and the hand bones green in both drawings.",
+     "do": "Draw your arm bones and a bat's wing bones. Colour the upper bone red, the two forearm bones blue and the hand bones green in both drawings. If you do not want to draw, point to the matching bones in the pictures and name them.",
      "say": "Draw your arm and a bat's wing. Colour the same bones the same colour. What do you notice?",
-     "kid": "Draw your arm and a bat's wing. Colour matching bones the same.",
+     "kid": "Draw your arm and a bat's wing, or point to the matching bones. Match the colours.",
      "parent": "If the bone pictures are hard to find, search for 'homologous limbs' and look at the images. With 2 to 4 children, each child draws one animal's limb, and the group lines them up side by side.",
      "check": {
       "t": "mcq",
@@ -1396,7 +1396,7 @@
     }
    ],
    "record": "Five piles of animals, with the question written over each pile.",
-   "context": "In this activity you sort eight animals with no backbone into their big groups by asking one question at a time.",
+   "context": "In this activity you sort eight animals with no backbone into their big groups by asking one question at a time. You will find out that animals with no backbone are not one family.",
    "setup": [
     {
      "art": "Eight animal cards laid out in a row on a table: an ant, a spider, a crab, a snail, an octopus, an earthworm, a jellyfish and a starfish.",
@@ -1475,7 +1475,7 @@
     }
    ],
    "record": "Two rows of four small pictures, each in order of a life, with the group written under each row.",
-   "context": "In this activity you draw the stages of a frog and a butterfly and see why sorting an animal at one stage can mislead.",
+   "context": "In this activity you lay out the stages of a frog and a butterfly. You will find out why you must look at a whole life to sort an animal.",
    "setup": [
     {
      "art": "Eight small cards on a table, four showing a frog's stages and four showing a butterfly's stages.",
@@ -1494,9 +1494,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Ask your child to draw a frog's four stages on four cards. They are egg, tadpole, young frog and adult frog. Then draw a butterfly's four stages. They are egg, caterpillar, pupa and butterfly.",
-     "say": "Draw the four stages of a frog on four cards. Then the four stages of a butterfly.",
-     "kid": "Draw a frog's four stages. Draw a butterfly's four stages.",
+     "do": "Ask your child to make four cards for a frog's stages. They can draw each one or find a picture on the phone. They are egg, tadpole, young frog and adult frog. Then draw a butterfly's four stages. They are egg, caterpillar, pupa and butterfly.",
+     "say": "Make a card for each of the four stages of a frog. Then do the four stages of a butterfly. You can draw them or find pictures.",
+     "kid": "Make four cards for a frog and four for a butterfly. Draw or find pictures.",
      "parent": "A pupa is the stage when the caterpillar's body is rebuilt inside a case. If your child does not know the stages, search for 'frog life cycle' and 'butterfly life cycle' on a phone.",
      "context": "In this step you draw the stages of two lives."
     },
@@ -1559,7 +1559,7 @@
     }
    ],
    "record": "A tree drawn on paper with four labelled branches and eight animals.",
-   "context": "In this activity you draw a family tree of eight animals with a backbone and put each animal on the branch where her group splits off.",
+   "context": "In this activity you make a family tree of eight animals with a backbone and put each animal on the branch where her group splits off.",
    "setup": [
     {
      "art": "A big sheet of paper with a trunk drawn at the bottom and a label that says backbone.",
@@ -1578,9 +1578,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Draw a tree trunk at the bottom of the paper and write Backbone on it. Draw a branch for each clue going up: four limbs, sealed egg, hair and milk. Write the clue on each branch.",
+     "do": "Make a tree trunk at the bottom of the paper and write Backbone on it. Draw each branch, or lay a paper strip for it, going up. Make one branch for each clue: four limbs, sealed egg, hair and milk. Write the clue on each branch.",
      "say": "This tree has a trunk for the backbone. Each new branch adds one clue. The first is four limbs. The next is a sealed egg, which is an egg with a waterproof skin. The last is hair and milk.",
-     "kid": "Draw a trunk. Add three branches. Write a clue on each.",
+     "kid": "Make a trunk. Add three branches. Write a clue on each.",
      "parent": "Each branch has one clue, like the rooms in the Family Tree Floor Hop game. The tree is a way of showing who is more closely related.",
      "context": "In this step you draw the tree and write the clues."
     },
@@ -1607,7 +1607,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Tell your child that crocodiles are closer relatives of crows than of geckos. Ask where that branch would be drawn. Ask why a tree is a better way to show this than five boxes.",
+     "do": "Tell your child that crocodiles are closer relatives of crows than of geckos. Ask where that branch would be drawn. Ask why a tree shows this better than separate boxes.",
      "say": "Here is a surprise. A crocodile is a closer relative of a crow than of a gecko. How could we draw that on the tree?",
      "kid": "A crocodile is closer to a crow than to a gecko. How do we draw that?",
      "parent": "A good answer draws crocodile and crow on one short branch, and gecko on another. With 2 to 4 children, each child draws a tree of their own, and then they compare where they put the crocodile. Five boxes cannot show this, but a tree can.",
@@ -1654,7 +1654,7 @@
     }
    ],
    "record": "The chart itself, with 12 animals, four labelled branches and two hard cases.",
-   "context": "In this project you make a wall chart of the backbone family tree with 12 animals, over two days.",
+   "context": "In this project you make a wall chart of the backbone family tree with 12 animals, over two days. You will see how every animal fits in one family tree.",
    "setup": [
     {
      "art": "A table with 12 small animal pictures laid out and a list of clues beside each one.",
@@ -1675,14 +1675,14 @@
      "mins": 25,
      "do": "Choose 12 animals with a backbone. Include at least one fish, one frog, one reptile, one bird and one mammal, and three that you can see near home. Draw or cut out a picture of each. Write two clues under each picture.",
      "say": "Let's make a chart of animals with a backbone. Choose 12. Include a fish, a frog, a reptile, a bird and a mammal. Write two clues under each.",
-     "kid": "Choose 12 animals. Draw each. Write two clues.",
+     "kid": "Pick 12 animals. Cut out or draw a picture of each. Write two clues.",
      "parent": "Include a hard case such as a bat, a dolphin or a penguin. With 2 to 4 children, share the 12 animals out between them, and one child draws the tree. The three animals near home might be a crow, a house lizard and a cat or a dog.",
      "context": "In this step you choose and draw the 12 animals."
     },
     {
      "id": "s2",
      "mins": 25,
-     "do": "Draw a tree on the chart paper with the four branches: backbone, four limbs, sealed egg, and hair and milk. Stick each animal on the last branch that fits her. Put two hard cases in a box beside the tree, with a note saying why they are hard.",
+     "do": "Make a tree on the chart paper, by drawing it or by taping paper strips, with the four branches: backbone, four limbs, sealed egg, and hair and milk. Stick each animal on the last branch that fits her. Put two hard cases in a box beside the tree, with a note saying why they are hard.",
      "say": "Now draw the tree and stick the animals on. Which animals will go where? Which two are hard cases? Why?",
      "kid": "Draw the tree. Stick the animals on. Add two hard cases.",
      "parent": "Old magazines are not needed: hand drawings work as well. Hang the chart where the family can see it. Ask the child to explain one animal to a visitor.",
@@ -1760,7 +1760,7 @@
    "id": "c2",
    "title": "The Alien Zoo: sort animals from another planet",
    "mins": 25,
-   "context": "In this challenge you invent ten animals from another planet and write sorting rules that work for them.",
+   "context": "In this challenge you invent ten animals from another planet and write sorting rules that work for them. You will find out whether a rule works for animals you have never met.",
    "problem": "Invent ten animals from another planet. Give each one four facts. Then sort them into groups with rules that no alien breaks.",
    "constraints": [
     "Each alien has four facts, such as how she moves, what covers her, how she breathes and how her young start.",
@@ -1797,9 +1797,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Invent ten aliens. Draw each and write four facts under her.",
-     "say": "Invent ten animals from another planet. Draw each one and write four facts under her.",
-     "kid": "Invent ten aliens. Draw each. Write four facts.",
+     "do": "Invent ten aliens. Write four facts for each one. Draw one or two if you like.",
+     "say": "Invent ten animals from another planet. Write four facts for each one. You can draw one or two.",
+     "kid": "Invent ten aliens. Write four facts for each.",
      "context": "In this step you invent ten aliens."
     },
     {

@@ -265,8 +265,8 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Child mode:* Put out the three mats. Mix up the thing cards. Take your 7 sign cards. For each thing, you check its signs. Then you decide.
 - **s2 (4 min)**  
   *Parent does:* Take the card 'A car'. Play it together as a practice round, then put it on the NEVER ALIVE mat.  
-  *Parent says:* Let's practise with the car. Hold up every sign a car shows. Think about a real car on the road.  
-  *Child mode:* Practice card: a car. Which signs of life does it show? Hold them up.
+  *Parent says:* Let's practise with the car. Think about a real car on the road. What does it do?  
+  *Child mode:* Practice card: a car. Hold up the sign cards that a car seems to show.
   - Ask: Which signs does a car seem to show? (good: It moves.; It takes in petrol, like food.; It sucks in air and burns the petrol.; It gives out smoke.; Some cars have sensors.)
   - Note: A car can look like it does up to five signs. That is the point of the game. Praise your child for spotting them, then ask about growth and young ones.
   - Check: A car moves, drinks fuel and puffs out smoke. Which two signs of life can a car never do? → **Grow and make young**
@@ -278,12 +278,12 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **s4 (2 min)**  
   *Parent does:* If someone turns over 'A dry moong seed', stop and talk about the seed. If it does not come up, ask the question yourself at the end.  
   *Parent says:* A dry seed does almost nothing right now. So how can they be alive?  
-  *Child mode:* A dry seed! Almost nothing is happening. Is the seed alive?
+  *Child mode:* A dry seed! Almost nothing is happening to it right now.
   - Check: A dry moong seed seems to do nothing. Why do we still call the seed alive? → **Because, with water, they wake up and do all seven signs**
 - **s5 (2 min)**  
   *Parent does:* Add up the points. Then look at the three mats together.  
   *Parent says:* Look at the ALIVE mat. What do all these things have in common?  
-  *Child mode:* Count your points. Look at the ALIVE mat. What do they all do?
+  *Child mode:* Count your points. Then look at the ALIVE mat together.
   - Think: Is there a card you are still not sure about? Keep it to one side. Scientists also have things they are not sure about, such as viruses. Look at that card again when you have finished this unit.
 ### g2 · MRS GREN Moves (10 min)
 - **rules:** The caller shuffles the action cards and calls them out one at a time, until all seven have been called.; Everyone acts out each card as it is called.; In round two, the caller turns over one living-thing card and one action card, and calls both, for example, 'Movement: a neem tree!'; Players act out how that living thing does that sign, and say it in one sentence.; Anyone can call 'Challenge!' if they think the action is wrong. The caller decides. If you are both unsure, look it up together in this unit.; Round two ends when all 14 living-thing cards have been used once. If the card is 'A baby' and the sign is Reproduction, act out a grown-up of that kind. Then finish with the fast round.
@@ -295,8 +295,8 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Child mode:* Listen to the caller. Act out each sign. M is for Movement. Walk like an elephant!
 - **s2 (5 min)**  
   *Parent does:* Turn over one living-thing card and one action card, and call both. For example, 'Movement: a neem tree!' Go on until all 14 living-thing cards have been used.  
-  *Parent says:* Now it's harder. Movement, a neem tree! How does a tree move? Show me, and tell me in one sentence.  
-  *Child mode:* Now the caller says a sign and a living thing. Show how they do that sign. Say it in one sentence.
+  *Parent says:* Now it's harder. I call a sign and a living thing, like 'Movement, a neem tree!' Show me how that living thing does it.  
+  *Child mode:* Act out how the living thing does the sign. Then say it in one sentence.
   - Ask: How does a neem tree move? (good: Their roots grow down.; Their branches grow towards the light.; Their leaves sway, but that is the wind. They move themselves by growing.)
   - Check: Excretion: a neem tree! How does a tree get rid of their waste? → **They give out waste gases through tiny holes in their leaves, and drop old leaves.**
 - **s3 (2 min)**  
@@ -312,17 +312,17 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **predict:** Before you start, look at the three bottles. Bottle A gets yeast, sugar and warm water. Bottle B gets yeast and warm water, but no sugar. Bottle C gets yeast, sugar and cold water from the fridge. Which balloon do you think will grow the most? Which will grow the least? Why do you think so?
 - **fair test:** To make it fair, use the same size bottles, the same balloons, the same spoon of yeast and the same amount of water. Change only one thing in each bottle: the sugar or the warmth. Start all three at the same time and measure them at the same time.
 - **safety:** Do not drink the mixture. Pull the balloons off over a sink.
-- **record:** Fill in the table. Then draw a bar chart with one bar for each bottle. Make each bar as tall as the distance round its balloon.
+- **record:** Fill in the table. Then lay the three strings side by side, or draw one bar for each bottle. Make each bar as long as the distance round its balloon.
 - **results table:** Bottle | What is inside | Distance round the flat balloon at the start (cm) | What I saw after 10 minutes | Distance round the balloon after 30 minutes (cm)
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the dry yeast. 2. Let them feel and smell the yeast. 3. Ask whether they think the yeast is alive.  
   *Parent says:* This is yeast. Bakers use yeast to make bread soft and puffy. Does yeast look alive to you? You cannot see the yeast moving, eating or growing. Let's test.  
-  *Child mode:* Look at the yeast. Feel and smell the yeast. Does yeast look alive? We are going to find out.
+  *Child mode:* Look at the dry yeast. Feel it and smell it.
   - Ask: How could we find out if this yeast is alive? (good: Give the yeast food and see what happens.; See if the yeast grows.; Check the signs of life.)
 - **s2 (3 min)**  
   *Parent does:* 1. Label the bottles A, B and C. 2. Ask your child to guess which balloon will grow most and least. 3. Write the guess down.  
   *Parent says:* Bottle A gets yeast, sugar and warm water. B gets yeast and warm water, but no sugar. C gets yeast, sugar and cold water. Which balloon will grow most? Why do you think so?  
-  *Child mode:* A gets yeast, sugar and warm water. B gets no sugar. C gets cold water. Which balloon will grow most? Why? Write your guess.
+  *Child mode:* Guess which balloon will grow the most and which the least. Tell your grown-up why.
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* 1. Blow each balloon up and let it down two or three times, so it stretches easily. 2. Wrap the string round the middle of each flat balloon and write the length in the table. 3. Put one teaspoon of yeast in each bottle, using a funnel. 4. Add one tablespoon of sugar to A and to C. Add none to B. 5. A grown-up pours half a cup of warm water into A and into B. 6. Pour half a cup of fridge-cold water into C. 7. Swirl each bottle. 8. Stretch a balloon over each neck.  
   *Parent says:* We change only one thing in each bottle, so the test is fair. Now let's stretch a balloon over each bottle. If anything in there is alive and gives out a gas, the balloon will catch the gas.  
@@ -331,13 +331,13 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **s4 (30 min)**  
   *Parent does:* 1. After 10 minutes, look at each bottle for bubbles and foam, and write what you see in the table. 2. Then wait until 30 minutes have passed since you put the balloons on. Do something else while you wait.  
   *Parent says:* Look at bottle A. Can you see bubbles? Foam? Now look at B and C. What do you think the bubbles are? Where do you think they come from?  
-  *Child mode:* Watch the bottles. Do you see bubbles or foam? What do you think made them? Wait until 30 minutes are up.
+  *Child mode:* Watch the bottles. Look for bubbles and foam. Then wait until 30 minutes are up.
   - Note: Bottle A should foam, and its balloon should start to stand up within 10 to 20 minutes. Bottle B may make a little gas. Bottle C stays almost still, because the cold slows the yeast right down. The gas is carbon dioxide, a waste the yeast gives out while getting energy from sugar. The yeast is also growing and making new yeast cells by budding, which is too small to see. If balloon A is still small at 30 minutes, wait 15 minutes more.
   - Check: In the balloon test, bottle A is foaming and its balloon is filling up. What is happening? → **The yeast is feeding on sugar and giving out a gas**
 - **s5 (6 min)**  
-  *Parent does:* 1. After 30 minutes, wrap a string round the fattest part of each balloon. 2. Lay the string on a ruler to read the length. 3. Write it in the table. 4. Draw a bar for each bottle.  
-  *Parent says:* Let's measure. The bigger the distance round the balloon, the more gas the yeast made. Each bottle gets one bar.  
-  *Child mode:* Wrap the string round each balloon. Measure it with a ruler. Write it down. Draw one bar for each bottle.
+  *Parent does:* 1. After 30 minutes, wrap a string round the fattest part of each balloon and cut it at that length. 2. Lay each string on a ruler to read the length. 3. Write it in the table. 4. Lay the three strings side by side.  
+  *Parent says:* Let's measure. The bigger the distance round the balloon, the more gas the yeast made. Each bottle gets one string. The longest string shows the most gas.  
+  *Child mode:* Wrap a string round each balloon and cut it. Measure it with a ruler. Write it down. Lay the three strings side by side.
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. Is the yeast alive? What did you see that shows it? And why do you think it happened?  
@@ -355,10 +355,10 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Count out 5 moong seeds and soak them in water overnight. 2. A grown-up boils 5 more seeds for 10 minutes, then drains them and lets them cool. 3. Keep 5 dry seeds aside. 4. Find 5 small plastic beads or buttons.  
   *Parent says:* Here are seeds and beads. Which ones are alive? It's hard to tell just by looking. So let's give them water and wait.  
-  *Child mode:* Soak 5 seeds overnight. A grown-up boils 5 other seeds. Keep 5 seeds dry. Find 5 beads.
+  *Child mode:* Count out your three piles of 5 seeds and the 5 beads.
 - **s2 (5 min)**  
   *Parent does:* 1. Put cotton in four cups. Label them A, B, C and D. 2. Fill them like this. A: soaked seeds on wet cotton. B: dry seeds on dry cotton. C: boiled seeds on wet cotton. D: beads on wet cotton. 3. Put the cups somewhere warm, out of direct sun.  
-  *Parent says:* We changed only one thing in each cup. Now, which ones do you think will grow?  
+  *Parent says:* Each cup is different in one way, so the test is fair. The beads show what happens with something that was never alive.  
   *Child mode:* Set up the four cups. A: soaked seeds. B: dry seeds. C: boiled seeds. D: beads. Make A, C and D wet.
   - Ask: Which cups do you think will grow? Why? (good: A, because the seeds have water.; Not D, because beads were never alive.; Not C, because boiling may kill the baby plant.)
 - **s3 (6 min)**  
@@ -370,7 +370,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **s4 (3 min)**  
   *Parent does:* On day 4, after you have counted, move the dry seeds from cup B onto wet cotton.  
   *Parent says:* Cup B's seeds have been dry all this time. Are they dead, or just sleeping? Let's give them water and see.  
-  *Child mode:* Move the dry seeds from cup B onto wet cotton. Are they dead, or just sleeping?
+  *Child mode:* Move the dry seeds from cup B onto wet cotton. Keep them damp and look every day.
   - Note: The dry seeds will swell overnight. In warm weather, many show a root tip by the next day. Some take two days. If they have only swollen on day 6, wait one more day and measure then.
   - Wait: Wait two more days.
 - **s5 (3 min)**  
@@ -388,7 +388,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **predict:** Guess how many breaths you take in one minute sitting still. Then guess how many after one minute of jumping. Why do you think it will change?
 - **fair test:** To make it fair, the same person counts in the same way each time, for the same 15 seconds. Sit still for two minutes before the first count. Count straight away after jumping, and again after two minutes of rest.
 - **safety:** Stop if you feel dizzy. A child with asthma can march on the spot gently instead.
-- **record:** Fill in the table. Then draw a bar chart with three bars: sitting still, just after jumping and after two minutes of rest.
+- **record:** Fill in the table. Then draw a bar chart with three bars: sitting still, just after jumping and after two minutes of rest. Or tell your grown-up which number was biggest and how much bigger it was.
 - **results table:** When | Breaths in 15 seconds | Breaths in 1 minute (breaths in 15 seconds times 4)
 - **s1 (4 min)**  
   *Parent does:* 1. Your child sits still for 2 minutes. 2. They put a hand on their tummy. 3. Time 15 seconds while they count each breath in. 4. Write the number.  
@@ -404,14 +404,14 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Parent says:* Rest now. Is your breathing slowing down? Let's count again.  
   *Child mode:* Rest for two minutes. Count your breaths again.
 - **s4 (2 min)**  
-  *Parent does:* Breathe slowly onto a cold mirror. Look at the mist.  
+  *Parent does:* Cool the mirror in the fridge for 5 minutes. Then breathe slowly onto it. Look at the mist.  
   *Parent says:* Breathe on the mirror. What do you see? Where do you think that mist came from?  
-  *Child mode:* Breathe on a cold mirror. See the mist? Where did it come from?
+  *Child mode:* Breathe slowly onto the cold mirror. Look at the mist.
   - Note: After your child has guessed, explain: the mist is water from inside the body, carried out in the breath. The breath also carries out carbon dioxide, which you cannot see. If the mirror does not mist, cool it in the fridge for a few minutes first.
 - **s5 (4 min)**  
-  *Parent does:* 1. Multiply each count by 4 to get breaths in one minute. 2. Draw one bar for each.  
+  *Parent does:* 1. Multiply each count by 4 to get breaths in one minute. 2. Compare the three numbers. Which is biggest? Which is smallest?  
   *Parent says:* Fifteen seconds is a quarter of a minute. So four times the number gives breaths in a whole minute.  
-  *Child mode:* Multiply each count by 4. That gives breaths in one minute. Draw a bar for each.
+  *Child mode:* Multiply each count by 4. That gives breaths in one minute. Which number is biggest?
   - Check: In the breath counter, you breathe much faster after jumping. Why? → **Your muscles need more energy, so respiration needs more oxygen**
 - **s6 (3 min)**  
   *Parent does:* Ask your child for three sentences: what I think, what I saw and why.  
@@ -424,13 +424,13 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **safety:** Never look straight at the Sun.
 - **record:** Fill in the trial table with a tick, a cross or a wavy line for 'sort of'. Write a verdict under each column.
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw a table on a big sheet. 2. Across the top, draw a seed, a cloud and a car. 3. Down the side, write the seven signs: nutrition, respiration, growth, movement, sensing, excretion, reproduction.  
+  *Parent does:* 1. Rule a table on a big sheet. 2. Across the top, write: seed, cloud, car. 3. Down the side, write the seven signs: nutrition, respiration, growth, movement, sensing, excretion, reproduction.  
   *Parent says:* Today we put three things on trial. A seed, a cloud and a car. For each sign of life, we decide: does it do this? Yes, no, or sort of?  
-  *Child mode:* Draw a big table. Put a seed, a cloud and a car across the top. Write the seven signs down the side.
+  *Child mode:* Make a big table. Write seed, cloud and car across the top. Write the seven signs down the side.
 - **s2 (5 min)**  
   *Parent does:* Go through the car, one sign at a time. Mark each box with a tick, a cross or a wavy line.  
-  *Parent says:* Does a car get food? It takes in petrol, so maybe a wavy line. Does it get energy from the petrol? It burns the petrol with air. Does it grow? Does it make baby cars?  
-  *Child mode:* Test the car, one sign at a time. Mark a tick, a cross, or a wavy line for 'sort of'.
+  *Parent says:* Does a car take in food? Does it grow? Does it make baby cars? What will you mark for each?  
+  *Child mode:* Mark each sign. Tick means yes. Cross means no. A wavy line means 'sort of'.
 - **s3 (5 min)**  
   *Parent does:* Look at a cloud through the window for a few minutes. If the sky is clear today, use a photo of clouds and remember how clouds change. Then go through the seven signs for the cloud.  
   *Parent says:* Watch that cloud. Is it moving? Is it changing shape? Clouds can grow and even split into little clouds. Does a cloud eat? Does a cloud make baby clouds?  
@@ -438,32 +438,32 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   - Note: A cloud moves, grows and can split. Your child may want to tick those. Ask: does it grow from the inside by using food? Or does it grow because more water vapour in the air turns into drops? A cloud never feeds, respires or makes young of its own kind. It is a heap of tiny water drops pushed by the wind.
 - **s4 (4 min)**  
   *Parent does:* Look at a dry moong seed. If you have a soaked or sprouted one, look at that too. Fill in the seed column.  
-  *Parent says:* A dry seed seems to do nothing. But look at this sprouted one. Is this sprout feeding? Yes, on food stored inside the seed. Is the sprout growing? Which way is the root moving?  
+  *Parent says:* A dry seed seems to do nothing. Now look at the sprouted one. Is the sprout growing? Which way is the root going? What could it be feeding on?  
   *Child mode:* Look at a dry seed. Then a sprouted one. Which signs does the seed show once they wake up? Fill in the seed's column.
   - Note: A dry seed is dormant. Once wet, the seed feeds on stored food, respires, grows, moves the root down, senses gravity and gives out carbon dioxide. Later the plant will flower and make seeds. If you have not done the seed test yet, you can come back to this column after it.
 - **s5 (3 min)**  
   *Parent does:* Count the ticks in each column. Then ask your child to give a verdict for each thing, with evidence.  
   *Parent says:* Which one did all seven? So which one is alive? Tell me your evidence like a judge.  
-  *Child mode:* Count the ticks. Which one does all seven? Give your verdict. Say what you saw. Say why.
+  *Child mode:* Count the ticks in each column. Tell your grown-up your verdict and what you saw.
   - Note: A good answer: the seed is alive. Given water, the seed does all seven signs. The car and the cloud only show some signs, and they never grow from inside or make young of their own kind. For the extra question: a dry seed shows almost no signs right now, and a cat asleep shows only a few. Both are alive.
   - Think: Can you think of something that shows only one or two signs of life right now, but is alive?
 ### a2 · Nature Museum Box: alive, once alive, never alive (30 min)
 - **safety:** Go outside only with a grown-up. Do not pick up anything sharp, animal poo or dead animals. Leave living animals where they are. Draw them instead.
-- **record:** Write a label for each thing in your own words. Count how many things are in each tray, and draw a tally.
+- **record:** Write a label for each thing in your own words. Count how many things are in each tray, and write the number.
 - **s1 (12 min) · grown-up needed**  
-  *Parent does:* Walk in a park, garden or lane for 10 minutes. Your child collects small things: leaves, twigs, seeds, pebbles, feathers, a flower, a bottle cap. Your child does not pick up animals, but draws them instead. No park? Collect things at home instead. Try a vegetable peel, a pencil, a thread, a spoon and a stone from a plant pot.  
-  *Parent says:* Let's collect a museum. Pick up small things that are lying on the ground. If you see an animal, don't pick them up. We'll draw them.  
-  *Child mode:* Collect small things on the ground. Leaves, twigs, seeds, stones. If you see an animal, draw them.
+  *Parent does:* Walk in a park, garden or lane for 10 minutes. Your child collects small things: leaves, twigs, seeds, pebbles, feathers, a flower, a bottle cap. Your child does not pick up animals. Look at them, or take a photo, instead. No park? Collect things at home instead. Try a vegetable peel, a pencil, a thread, a spoon and a stone from a plant pot.  
+  *Parent says:* Let's collect a museum. Pick up small things that are lying on the ground. If you see an animal, don't pick them up. We'll just look, or take a photo.  
+  *Child mode:* Collect small things on the ground. Leaves, twigs, seeds, stones. If you see an animal, just look at them, or take a photo.
 - **s2 (8 min)**  
   *Parent does:* Back home, set out three trays: alive, once alive, never alive. Your child sorts everything, one at a time, saying why.  
   *Parent says:* Pick one thing. Is it alive now? Was it once part of something alive? Or was it never alive?  
-  *Child mode:* Set out three trays. Pick one thing. Is it alive, once alive or never alive? Say why. Put it in a tray.
+  *Child mode:* Pick one thing from your collection. Put it in the right tray. Tell your grown-up why.
   - Note: Fallen leaves, twigs, feathers and dry seed pods are once alive, unless the seeds inside are still alive. Ask: could these seeds still grow? A freshly picked flower is still alive for a while, then dies. Stones and bottle caps were never alive. Moss on a stone is alive, so that stone is a home for life.
   - Check: In the nature museum, where does a fallen dry leaf go? → **Once alive**
 - **s3 (6 min)**  
-  *Parent does:* 1. Your child writes a label for each thing in their own words. 2. They count each tray and draw a tally.  
+  *Parent does:* 1. Your child writes a label for each thing in their own words. 2. They count each tray and write the number.  
   *Parent says:* Write a label like a real museum. Say what it is and how you know.  
-  *Child mode:* Write a label for each thing. Count each tray. Draw a tally mark for each one.
+  *Child mode:* Write a label for each thing. Count each tray. Write the number for each tray.
   - Note: A good answer is a seed, a flower or a twig, because you need to know if it is still alive. For example, a seed is alive if they can still grow when given water.
   - Think: Which thing was hardest to sort? What did you need to know to decide?
 - **s4 (4 min)**  
@@ -472,11 +472,11 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Child mode:* Look at a leaf with a magnifying glass. Can you see the lines? They once carried water.
 ### a3 · The Shy Plant: does a plant sense touch? (25 min)
 - **safety:** Touch-me-not stems have small prickles. Touch the leaves gently with a feather or one fingertip, not the stem.
-- **record:** Write how many minutes the leaf took to open again. Write how many pairs of leaflets folded after a light touch and after a firmer tap. Draw a leaf open, closed and opening.
+- **record:** Write how many minutes the leaf took to open again. Write how many pairs of leaflets folded after a light touch and after a firmer tap. Draw a leaf open, closed and opening, or take three photos.
 - **s1 (2 min)**  
   *Parent does:* Find a touch-me-not plant with open leaves. Do this in the daytime, in a warm place, with the plant watered. Look closely at one leaf.  
   *Parent says:* This plant is called chhui-mui, or lajwanti, or touch-me-not. Look at their little leaflets, lined up in pairs. What do you think will happen if we touch the plant?  
-  *Child mode:* This is a touch-me-not plant. Look at their tiny leaflets. What will happen if you touch the plant?
+  *Child mode:* This is a touch-me-not plant. Look closely at one leaf. The tiny leaflets are in pairs.
 - **s2 (3 min)**  
   *Parent does:* 1. Touch the tip of one leaf very gently with a feather. 2. Watch closely. 3. Start the timer.  
   *Parent says:* Gently now. Touch just the tip. Watch. What happens? Start the timer.  
@@ -486,7 +486,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **s3 (3 min)**  
   *Parent does:* 1. Choose a second leaf. Touch just the tip of one leaflet, as lightly as you can, with the feather. Count how many pairs fold. 2. Choose a third leaf. Tap its stalk firmly with one finger. Watch what happens.  
   *Parent says:* Let's compare. First the lightest touch you can make. How many pairs folded? Now a firm tap on another leaf. What is different?  
-  *Child mode:* Touch one leaflet very lightly. Count the pairs that fold. Then tap another leaf firmly. What is different?
+  *Child mode:* Touch one leaflet very lightly. Count the pairs that fold. Then tap another leaf firmly.
   - Note: A light touch usually folds only a few pairs near the tip. A firm tap folds the whole leaf, and the leaf stalk often droops down. The plant senses how strong the touch is, and responds more to a stronger one.
 - **s4 (15 min)**  
   *Parent does:* Look at the first leaf every 5 minutes. Stop the timer when it is fully open again. Write down the minutes.  
@@ -496,11 +496,11 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **s5 (2 min)**  
   *Parent does:* Tell your child about the scientists who dropped touch-me-not plants in 2014. Then let the plant rest.  
   *Parent says:* In 2014, scientists dropped touch-me-not plants gently, many times. The plants stopped folding. Weeks later, they still did not fold when dropped.  
-  *Child mode:* Scientists dropped these plants gently many times. The plants stopped folding. Weeks later, they still did not fold.
+  *Child mode:* Why do you think the plants stopped folding?
   - Think: Some scientists say the plants learned that the drop was safe, and remembered it. Others say the plants were only tired. What do you think?
 ### a4 · Does a plant give out water? The bag on a branch (15 min)
 - **safety:** Never put a plastic bag near anyone's face.
-- **record:** Draw both bags after 2 hours. Write what you see inside each.
+- **record:** Take a photo of both bags after 2 hours, or draw them. Write what you see inside each.
 - **s1 (5 min)**  
   *Parent does:* 1. Water the plant. 2. Slip a clear bag over one leafy branch and tie it gently. 3. Push a dead twig into the soil and tie a bag over it. 4. Leave both in sunlight.  
   *Parent says:* We have a living branch and a dead twig. Both get a bag. If the living plant gives anything out, the bag will catch it.  
@@ -515,7 +515,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **s3 (5 min)**  
   *Parent does:* Talk about what the plant takes in and gives out.  
   *Parent says:* A plant takes in water and air, and gives out water vapour and gases from their leaves. In sunlight, one gas they give out is oxygen, the gas we need.  
-  *Child mode:* A plant takes in water and air. They give out water and gases from their leaves. One gas is oxygen, which we breathe.
+  *Child mode:* Tell your grown-up what the living plant gave out into the bag.
   - Note: Strictly, most of this water is not waste. The plant lets the water out as they pull up water and minerals from the soil, and it also cools the leaves. True plant waste includes the oxygen they make in sunlight, carbon dioxide from respiration, and waste stored in old leaves that fall.
 ### a5 · All Seven in Me: find the signs of life in your own body (15 min)
 - **record:** Write one piece of evidence for each sign of life in your body. Write your three ruler-catch numbers.
@@ -536,36 +536,36 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **s4 (2 min)**  
   *Parent does:* Ask your child which sign they cannot do yet.  
   *Parent says:* Which sign of life are you not doing yet? Is that all right?  
-  *Child mode:* Which sign can't you do yet? Why is that fine?
+  *Child mode:* Find the one sign you cannot do yet.
   - Note: The answer is reproduction, which means having young. It is fine, because a living thing does all seven signs over a whole life, not all at once.
   - Check: A child does six signs of life every day, but cannot make babies yet. Is the child alive? → **Yes. Living things do all seven over their whole life, not every day.**
 ### a6 · Who Eats What? Following food back to the Sun (15 min)
-- **record:** Draw a food chart with arrows from the Sun to plants to animals, and back to the soil.
+- **record:** Make a food chart with arrows from the Sun to plants to animals, and back to the soil.
 - **s1 (4 min)**  
-  *Parent does:* Draw the Sun at the top, and six living things: grass, a cow, a grasshopper, a crow, a mushroom and your child.  
+  *Parent does:* Write the word Sun at the top of the sheet. Below it, write six living things: grass, cow, grasshopper, crow, mushroom and your child's name.  
   *Parent says:* Every living thing needs food. But where does the food come from in the first place? Let's follow it back.  
-  *Child mode:* Draw the Sun. Then draw grass, a cow, a grasshopper, a crow, a mushroom and you.
+  *Child mode:* Write Sun at the top. Then write grass, cow, grasshopper, crow, mushroom and your own name.
 - **s2 (6 min)**  
-  *Parent does:* Your child draws an arrow from each food to the thing that eats it.  
+  *Parent does:* Your child draws an arrow from each food to the thing that eats it, or points and says it.  
   *Parent says:* The arrow goes from the food to the eater. What does the cow eat? What does a crow eat? Where does the grass get their food?  
-  *Child mode:* Draw arrows from each food to who eats it. Where does the grass get their food?
+  *Child mode:* Draw an arrow from each food to its eater, or point and say it.
   - Check: In the food chart, where does grass get their food? → **They make their own food in their leaves, using sunlight, air and water**
 - **s3 (5 min)**  
-  *Parent does:* Add arrows from every living thing to a strip of soil at the bottom.  
+  *Parent does:* Write soil at the bottom. Add an arrow from every living thing to the soil, or point and say it.  
   *Parent says:* When a leaf falls or an animal dies, what happens to them? Who do you think eats them?  
-  *Child mode:* Draw arrows from everything to the soil. Who eats the dead things? Mushrooms and tiny soil creatures.
+  *Child mode:* Show how everything ends up in the soil. Who eats the dead things? Mushrooms and tiny soil creatures.
   - Note: After your child has guessed, explain: mushrooms and tiny living things in the soil feed on dead leaves and animals, and turn them back into soil and air. For the last question: yes. The energy in your food was first caught from sunlight by plants. So some of the Sun's energy is inside you.
   - Think: If all the food starts with sunlight, is some of the Sun inside you right now?
 
 ## Projects
 ### p1 · Life Diary: watch a moong plant show the signs of life (60 min, 10 days)
 - **safety:** A grown-up cuts the hole in the box.
-- **record:** A diary page for each visit: a drawing, the height of the tallest plant, and which signs of life you saw. Finish with a seven-signs page with evidence for each sign.
+- **record:** A diary page for each visit: a drawing or photo, the height of the tallest plant, and which signs of life you saw. Finish with a seven-signs page with evidence for each sign.
 - **schedule:** day 1: Plant 3 seeds in each pot. Start the diary with a drawing and a guess. (10 min); day 3: Look for shoots. Measure the tallest. Which signs can you see? (5 min); day 4: A grown-up cuts a hole in one end of the shoebox. Put one pot inside, at the far end. Leave the other pot in the room. (10 min); day 7: Open the box. Compare the two pots. Measure both. (10 min); day 10: Measure again. Fill in the seven signs page. Move the strongest seedling into a bigger pot in a sunny spot, and keep watching for flowers and pods. (25 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Fill two pots with soil. 2. Push 3 moong seeds into each, about 1 cm deep. 3. Water gently. Give a little water every day or two from now on. 4. Start the diary: draw the pots and write a guess.  
+  *Parent does:* 1. Fill two pots with soil. 2. Push 3 moong seeds into each, about 1 cm deep. 3. Water gently. Give a little water every day or two from now on. 4. Start the diary: write a guess about which signs you will see. Draw the pots, or take a photo.  
   *Parent says:* We will keep a life diary for 10 days. Our job is to catch the moong plant doing every sign of life.  
-  *Child mode:* Plant 3 seeds in each pot. Water them. Start your diary. Draw the pots.
+  *Child mode:* Plant 3 seeds in each pot. Water them. Start your diary with a guess about which signs you will see.
 - **s2 (5 min)**  
   *Parent does:* On day 3, look for shoots. Measure the tallest one. Write which signs you can see.  
   *Parent says:* Look, shoots! Which signs of life can you see already?  
@@ -579,7 +579,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **s4 (10 min)**  
   *Parent does:* On day 7, open the box. Compare the two pots. Measure both.  
   *Parent says:* Look at the box plants. Which way did they grow? How did they know where the light was?  
-  *Child mode:* Open the box. Which way did the shoots grow? Measure both pots.
+  *Child mode:* Open the box. Look at the shoots and measure both pots.
   - Note: The box seedlings may be long and pale. They used their stored food to stretch towards the light. A substance in the shoot, called auxin, gathers on the shaded side and makes those cells grow longer.
   - Check: In the life diary, the moong shoots in the shoebox bent towards the hole. Which signs of life does that show? → **Sensing and movement**
   - Wait: Come back on day 7.
@@ -594,14 +594,14 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 ## Challenges
 ### c1 · Design a Life Detector for Mars (57 min)
 - **problem:** A robot on Mars will scoop up some soil. Your job is to design tests that could tell whether anything in the soil is alive. Test your design on three mystery cups at home. Living things feed, give out gas slowly and keep going. A plain chemical fizz starts at once and soon stops. Heat kills living things, but it does not stop a chemical fizz. So heating a sample first shows you which kind of bubbles you have.
-- **your turn:** Now design your own life detector. Draw it, list its tests, and say what result would make you shout 'Life!'. What result would trick you?
+- **your turn:** Now design your own life detector. List its tests, and draw it if you like. Say what result would make you shout 'Life!'. What result would trick you?
 - **constraints:** You cannot see anything alive, even with a magnifying glass.; You can only use tests based on the seven signs of life.; A grown-up secretly prepares three mystery cups, each with 2 tablespoons of atta or rice flour. A has half a teaspoon of dry yeast mixed in. B is plain atta. C has half a teaspoon of baking soda mixed in. Mix well, so the cups look the same.
 - **general:** Give each sample food and warmth, then watch for signs of life, like gas bubbles. A living thing should feed and give out waste.; Watch for a long time, not just a moment. Living things keep going and often speed up as they grow. A chemical fizz starts at once and soon stops.; Run a control. A grown-up heats one spoon of each sample with boiling water first. Heat kills living things. If the bubbles stop after heating, something alive was probably making them.
 - **creative:** In 1976, the Viking robots on Mars really did a test like this. They fed the soil and watched for gas. Gas came out, and heating the soil stopped it. Gilbert Levin, who designed the test, thought it found life. Most scientists think strange chemicals in Martian soil made the gas. They still argue about it.; Could you test for growth? Check if the bubbles get faster over an hour.; Could you test for sensing? Living things might respond differently in the cold, in the dark or with no food.
 - **s1 (5 min)**  
   *Parent does:* Talk about the problem. Ask your child which signs of life a robot could test from far away.  
   *Parent says:* We can't send a scientist to Mars. A robot has to do the tests. Which signs of life could a robot check?  
-  *Child mode:* A robot on Mars scoops up soil. How could it tell if anything in the soil is alive? Which signs could it test?
+  *Child mode:* Imagine a robot on Mars scooping up soil. You plan the tests it will do.
   - Ask: Which signs could a robot test? (good: Give it food and see if it eats.; See if it gives out gas.; See if it grows.)
 - **s2 (30 min)**  
   *Parent does:* 1. Stir 3 tablespoons of warm sugar water with lemon into each mystery cup, to make a thick batter. 2. Watch straight away. 3. Then look every 10 minutes for 30 minutes. 4. Write what you see in each cup each time.  
@@ -614,13 +614,13 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Child mode:* A grown-up mixes some of A and C with boiling water. Wait until it cools. Add sugar water. Do they still bubble?
   - Check: In the Mars life detector test, cup A bubbled slowly and kept going. But powder from cup A that was heated first did not bubble. Powder from cup C fizzed at once, even after heating. Which cup had something alive? → **Cup A, because its bubbles grew slowly and heating stopped them**
 - **s4 (7 min)**  
-  *Parent does:* Your child draws their own life detector and lists its tests.  
+  *Parent does:* Your child invents their own life detector. They list its tests, and can draw it too.  
   *Parent says:* Now invent your own detector. What tests would you add? What result would make you sure? What could trick you?  
-  *Child mode:* Draw your own life detector. List its tests. What would make you shout 'Life!'?
+  *Child mode:* Invent your own life detector. List its tests, or draw it. What would make you shout 'Life!'?
 ### c2 · A World in a Jar: keep life going with the lid shut (40 min)
 - **problem:** Build a closed jar that keeps a small plant alive for at least two weeks, with the lid shut from the first day. You may not add food or water once it is closed.
 - **safety:** A glass jar can break. Carry it with both hands.
-- **your turn:** Design your own jar world. Draw it with labels. After two weeks, say which signs of life you saw inside, and where the water and air went.
+- **your turn:** Design your own jar world. Draw it with labels, or describe it. After two weeks, say which signs of life you saw inside, and where the water and air went.
 - **constraints:** Once the lid is on, you cannot open it for two weeks.; You can only use things from home, or from a plant nursery.; The jar must stay where it gets light, but not hot direct sun.
 - **general:** Put small stones at the bottom so extra water can drain out of the soil.; Add soil, then the plant. Water just enough to make the soil damp, not wet.; Close the lid and keep the jar near a bright window, out of hot sun.
 - **creative:** In 1960, a man in England, David Latimer, planted a bottle garden. He last watered it in 1972 and kept it sealed for decades. It was still growing, using light, its own water and its own air.; If you have a garden, add a pinch of damp leaf litter with its tiny soil creatures, to break down dead leaves. Could the jar recycle its own waste?; Make two jars: one in light, one in a dark cupboard. Which plant keeps doing the signs of life?
@@ -639,9 +639,9 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
   *Child mode:* After two weeks, look closely. Which signs of life did you see?
   - Check: A plant stayed alive in a closed jar for two weeks with no new water. Where did their water come from? → **The water went round and round: from soil to plant to air to glass and back to soil**
 - **s4 (10 min)**  
-  *Parent does:* Your child draws the jar with arrows for water, air and light.  
-  *Parent says:* Draw your jar world. Show where the water goes, and where the light comes from.  
-  *Child mode:* Draw your jar. Draw arrows for the water going round. Draw the light coming in.
+  *Parent does:* Your child shows where the water, air and light go. They can draw arrows, or point at the jar and tell it.  
+  *Parent says:* Show me where the water goes, and where the light comes from. Draw it, or point and tell me.  
+  *Child mode:* Show how the water goes round and where the light comes in. Draw it, or point at the jar and tell it.
   - Note: A good answer is that light comes in from outside. The water and the air go round and round inside the jar. The Earth is the same. Sunlight comes in from space, while water and air go round and round.
   - Think: Is the Earth a bit like a jar world? What comes in from outside, and what goes round and round?
 

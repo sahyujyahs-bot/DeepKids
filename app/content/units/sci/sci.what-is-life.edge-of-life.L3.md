@@ -264,7 +264,7 @@ In the morning my father found me standing at the window.
 - **s2 (3 min)**  
   *Parent does:* Find the candle flame card. Play it together as a practice round.  
   *Parent says:* Let's practise. 'A candle flame. I eat wax, I need air, I grow and I make new flames.' Which sign cards does the flame have? Which sign cards does it not have?  
-  *Child mode:* Practice card: a candle flame. Which signs does it have? Which is it missing? Say your answer out loud.
+  *Child mode:* Practice card: a candle flame. Point to the sign cards the flame has.
   - Ask: Which sign cards does the flame have? (good: It moves.; It takes in wax, like food.; It grows.; It makes waste like smoke.)
   - Ask: Which sign cards does the flame not have? (good: It is not made of cells.; It does not pass on instructions.)
   - Check: A candle flame. Which mat does it go on? → **NOT ALIVE, because it has no cells and no instructions**
@@ -272,17 +272,17 @@ In the morning my father found me standing at the window.
   *Parent does:* Take turns drawing cards. Each player places a card and gives a reason. Hand out a token for every good reason or good argument.  
   *Parent says:* Your turn. Read the card. Choose a mat. Point to a sign card and tell us why. If you disagree with someone, argue back with another sign card.  
   *Child mode:* Take a card. Read it. Choose a mat. Point to a sign card and say why. You can argue back if you disagree.
-  - Ask: The mule can't have babies. Are they still alive? (good: Yes. They still eat, grow, breathe and are made of cells.; Making young is something a kind of living thing does. Not every single one has to.)
+  - Ask: A mule cannot have babies. Is a mule still alive? (good: Yes. They still eat, grow, breathe and are made of cells.; Making young is something a kind of living thing does. Not every single one has to.)
   - Note: Good reasons name a sign. For example: 'The seed is alive, because a seed is made of cells and grows when water arrives.' Expected places: the candle flame goes on NOT ALIVE. The virus, the computer program and the xenobot go well on ARGUE IT. The cloud, river, chair and robot go on NOT ALIVE (the chair is once-living). The seed, water bear, mule, mango, yeast, mushroom, curd bacteria, lotus seed and tree stump are ALIVE. The shop egg is a good one to argue: most shop eggs were never fertilised, so they can never grow a chick. Your hair is another: the hair you see is dead cells, pushed out by living cells at the root. Accept any well-argued answer.
 - **s4 (3 min)**  
   *Parent does:* Pick up the water bear card and the dry seed card. Hold them up together.  
   *Parent says:* These two show almost no signs at all while they are dry. But we put them on ALIVE. Why?  
-  *Child mode:* The dry seed and the dry water bear do nothing. Why are they alive?
+  *Child mode:* Hold up the dry seed card and the dry water bear card. Which signs can you see in them?
   - Check: A dry water bear shows no signs of life. Why do scientists still say they are alive? → **Because they are resting, and wake up and live again when water comes**
 - **s5 (2 min)**  
   *Parent does:* Count the tokens. Then look at the ARGUE IT mat together.  
   *Parent says:* Who has the most tokens? Now look at the ARGUE IT pile. These are the cards that even scientists argue about. For each card, name one sign it has and one sign it lacks.  
-  *Child mode:* Count your tokens. Look at the ARGUE IT pile. For each card, name one sign it has and one sign it lacks.
+  *Child mode:* Count your tokens. Then pick a card from the ARGUE IT pile.
   - Think: If you had to make one new sign card that every living thing has, and nothing else has, what would it say?
 ### g2 · The Sign Collectors (20 min)
 - **rules:** Each player takes one character card at random and reads it out.; Shuffle the sign cards and put them face down.; On your turn, draw a sign card and read it.; Ask: can my character honestly do this? If the others agree, tick that box on your sheet.; If not, or if that box is already ticked, put the card on a 'can't do it' pile and say why.; After 6 rounds each, everyone counts their ticks.; The winner is the character with the most ticks. If two players tie, they both win. Then everyone checks: did anyone tick 'Made of cells' and 'Passes on instructions'?
@@ -296,34 +296,34 @@ In the morning my father found me standing at the window.
 - **s2 (12 min)**  
   *Parent does:* Take turns. Draw a sign card, read it, and decide together whether the character can do it.  
   *Parent says:* Draw a sign. Can your character really do it? Tell us how. If the rest of us agree, tick it.  
-  *Child mode:* Draw a sign card. Can your character do it? Say how. If everyone agrees, tick it.
+  *Child mode:* Draw a sign card. Say how your character can do it, or why it cannot.
   - Note: Expect fire to collect moving, energy, growing, waste and food, and maybe 'makes young' (sparks). Robots get moving and sensing. Crystals get growing. The mule gets everything except 'makes young'. The dry seed and the dried water bear get 'made of cells' and 'passes on instructions', but little else while dry. The virus gets 'passes on instructions' and perhaps 'makes young', only inside a cell. Let the children argue it out.
   - Check: The Candle flame player draws 'Made of cells'. Can they tick it? → **No, because fire is a chemical change, not made of cells**
 - **s3 (5 min)**  
   *Parent does:* Count the ticks. Compare the sheets side by side.  
   *Parent says:* Who has the most ticks? Now look at the last two boxes: made of cells, and passes on instructions. Who ticked them? Who didn't?  
-  *Child mode:* Count your ticks. Look at the last two boxes. Who ticked them?
-  - Ask: The fire got more ticks than the dry seed. So is fire more alive? (good: No. The seed has cells and instructions. Fire never does.; Counting signs is not enough. Some signs matter more.)
+  *Child mode:* Count your ticks. Check the last two boxes on each sheet.
+  - Ask: Say the fire got more ticks than the dry seed. Does that mean fire is more alive? (good: No. The seed has cells and instructions. Fire never does.; Counting signs is not enough. Some signs matter more.)
   - Think: Which two signs are the hardest for a non-living thing to fake?
 
 ## Experiments
 ### e1 · Sleeping Seeds: is a dry seed alive? (37 min, 6 days)
 - **question:** Are dry seeds alive, even though they do nothing? What do they need to wake up?
-- **predict:** Before you start, guess. What will happen to seeds on wet cotton? To pebbles on wet cotton? To seeds on dry cotton? Draw your guess for each plate, and say why you think so.
+- **predict:** Before you start, guess. What will happen to seeds on wet cotton? To pebbles on wet cotton? To seeds on dry cotton? Say your guess for each plate, and why you think so.
 - **fair test:** To make it fair, keep everything the same except one thing. Use the same plates, the same cotton and the same place. The wet seeds and the wet pebbles test whether water alone makes things grow. The wet seeds and the dry seeds test whether seeds need water. Use 6 seeds, because one seed can be a dud.
 - **safety:** Keep pebbles and seeds away from children under 5.
-- **record:** Fill in the table each day. Draw the three plates side by side each day. On the last day, draw a line chart of the longest root on plate 1, one point for each day.
+- **record:** Fill in the table each day. Take a photo of the three plates side by side each day, or draw them. On the last day, draw a line chart of the longest root on plate 1, one point for each day.
 - **results table:** Day | Plate 1: seeds on wet cotton | Plate 2: pebbles on wet cotton | Plate 3: seeds on dry cotton | Longest root on plate 1 (mm)
 - **schedule:** day 1: Guess what will happen. Set up the three plates. Draw them. (13 min); day 2: Check all three plates. Draw what you see. Add a few drops of water to plates 1 and 2. (4 min); day 3: Check, draw and measure the longest root. Water plates 1 and 2. (4 min); day 4: Check, draw and measure. Water plates 1 and 2. (4 min); day 5: Last check of the three plates. Finish the table. Then add water to plate 3, the dry seeds. (7 min); day 6: Look at plate 3. Say what you think, what you saw and why. (5 min)
 - **s1 (3 min)**  
   *Parent does:* Put a dry moong seed and a pebble side by side on your child's palm.  
-  *Parent says:* Look at these two. Both are hard, both are still, both do nothing. One of them is alive. Which one, do you think? How could we test it?  
-  *Child mode:* Look at the seed and the pebble. Both do nothing. Which one is alive? How could you test it?
+  *Parent says:* Look at these two. Both are hard, still and do nothing. One of them is alive. Which one do you think it is?  
+  *Child mode:* Pick up the seed and the pebble. Look at them closely. Tell your grown-up which one you think is alive.
   - Ask: How could we find out which one is alive? (good: Give them both water and see which one grows.; Watch them for a few days.)
 - **s2 (3 min)**  
-  *Parent does:* Help your child draw three plates and their guesses for each.  
-  *Parent says:* Here is our plan. Plate 1: seeds on wet cotton. Plate 2: pebbles on wet cotton. Plate 3: seeds on dry cotton. What will happen on each plate? Draw your guess.  
-  *Child mode:* Draw three plates. Seeds on wet cotton. Pebbles on wet cotton. Seeds on dry cotton. Draw what you think will happen.
+  *Parent does:* Set out three empty plates. Your child says a guess for each plate.  
+  *Parent says:* Here is our plan. Plate 1: seeds on wet cotton. Plate 2: pebbles on wet cotton. Plate 3: seeds on dry cotton. What will happen on each plate?  
+  *Child mode:* Point to each plate in turn. Say what you think will happen on it.
 - **s3 (7 min)**  
   *Parent does:* 1. Put a layer of cotton on each plate. 2. Wet the cotton on plates 1 and 2 until damp but not swimming. 3. Leave plate 3 dry. 4. Put 6 seeds on plate 1, 6 pebbles on plate 2 and 6 seeds on plate 3. 5. Put the plates side by side, away from direct sun.  
   *Parent says:* We use two plates of seeds, so the only difference is the water. And we put pebbles on wet cotton, to check that water alone does not make things grow.  
@@ -331,9 +331,9 @@ In the morning my father found me standing at the window.
   - Note: Cotton should be damp, like a squeezed sponge. Too much water can make seeds rot.
   - Check: Why do we put pebbles on wet cotton too? → **To check that water alone does not make things grow**
 - **s4 (4 min)**  
-  *Parent does:* Each day for four days, check all three plates. Draw them. Add a few drops of water to plates 1 and 2. Measure the longest root on plate 1.  
-  *Parent says:* Let's check our plates. What has changed? Which plate looks different? Let's measure the longest root.  
-  *Child mode:* Check your plates. What has changed? Draw them. Measure the longest root.
+  *Parent does:* Each day for four days, check all three plates. Take a photo of them. Add a few drops of water to plates 1 and 2. Measure the longest root on plate 1.  
+  *Parent says:* Let's check our plates. Which plate looks different from yesterday?  
+  *Child mode:* Look at each plate. Use the ruler to measure the longest root on plate 1.
   - Note: Expect seeds on plate 1 to swell within a day. A white root usually appears on day 1 or 2, then a shoot. Pebbles and dry seeds stay the same. Use the hand lens to look at the root tip.
   - Wait: Come back each day for four days.
 - **s5 (3 min)**  
@@ -352,15 +352,15 @@ In the morning my father found me standing at the window.
 - **predict:** Guess which bottle will blow up its balloon: yeast with warm sugar water, yeast with cold sugar water, or warm sugar water with no yeast. Why do you think so?
 - **fair test:** Keep everything the same except one thing at a time. Each bottle gets the same amount of water and sugar. Bottles 1 and 2 test whether warmth matters. Bottles 1 and 3 test whether the yeast is what makes the gas.
 - **safety:** Keep balloons and bottle caps away from children under 5.
-- **record:** Fill in the table. Draw the three bottles and their balloons after 30 minutes.
+- **record:** Fill in the table. Take a photo of the three bottles and their balloons after 30 minutes, or draw them.
 - **results table:** Bottle | What is inside | Balloon after 10 minutes | Balloon after 30 minutes | Distance round the balloon after 30 minutes (cm)
 - **s1 (3 min)**  
   *Parent does:* Pour a little dried yeast into your child's palm. Let them look at the yeast with the hand lens.  
   *Parent says:* This is dried yeast, from the shop. The tiny grains look like sand. Bakers say the yeast is alive. What do you think? How could we test it?  
-  *Child mode:* Look at the dried yeast grains with the lens. They look like sand. Are they alive? How could you find out?
+  *Child mode:* Look at the dried yeast grains with the lens. What do they look like?
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Put 2 teaspoons of sugar in each bottle. 2. A grown-up pours half a cup of warm water into bottles 1 and 3. 3. The grown-up pours half a cup of cold water into bottle 2. 4. Add 1 teaspoon of yeast to bottles 1 and 2 only. 5. Swirl each bottle. 6. Stretch a balloon over each neck.  
-  *Parent says:* Bottle 1 has yeast and warm water. Bottle 2 has yeast and cold water. Bottle 3 has warm water and no yeast. Which balloon do you think will blow up?  
+  *Parent says:* Bottle 1 has yeast and warm water. Bottle 2 has yeast and cold water. Bottle 3 has no yeast, so we can compare. Which balloon do you think will blow up?  
   *Child mode:* Put sugar in all three bottles. A grown-up adds water. Add yeast to bottles 1 and 2. Swirl. Put on the balloons.
   - Note: Warm means bath-warm, about as warm as your wrist can comfortably hold. Water that is too hot can kill the yeast.
 - **s3 (30 min)**  
@@ -385,28 +385,28 @@ In the morning my father found me standing at the window.
 - **predict:** Guess what will happen to a thread hanging in very salty water, and to one in plain water. Will anything grow? If it does, will it be alive? Say why you think so.
 - **fair test:** Set up a second jar with plain water and a thread, as a comparison. Keep both jars side by side in the same warm, still place, so the only difference is the salt.
 - **safety:** Glass jars can break. Stand them where nobody will knock them over.
-- **record:** Draw the thread each time you look. Write the size of the biggest crystal.
+- **record:** Take a photo of the thread each time you look, or draw it. Write the size of the biggest crystal.
 - **results table:** Day | Salty jar: what you see on the thread | Plain water jar: what you see | Biggest crystal (mm)
 - **schedule:** day 1: Make the salty water and the plain water. Hang the threads. Put salty drops on a dark plate. Guess what will happen. (11 min); day 3: Look at both threads and the dark plate with the hand lens. Draw them. Measure the biggest crystal. (6 min); day 5: Look again. Measure the biggest crystal. Draw. (6 min); day 7: Last look and measure. Put the crystal on trial with the signs of life, next to the moong seedlings or your drawings of them. Say what you think, what you saw and why. (16 min)
 - **s1 (3 min)**  
   *Parent does:* Show your child some salt grains through the hand lens. Ask for a guess: will anything grow on a thread in salty water, and on a thread in plain water?  
-  *Parent says:* Look at these salt grains. What shape are they? These are crystals. We are going to grow bigger ones. If they grow, are they alive?  
-  *Child mode:* Look at salt grains with the lens. What shape are they? We will grow bigger ones. If they grow, are they alive?
+  *Parent says:* Look at these salt grains. What shape are they? These are crystals, tiny solid pieces with flat sides. We are going to grow bigger ones. If they grow, will they be alive?  
+  *Child mode:* Look at the salt grains through the lens. Tell your grown-up what shape you see.
 - **s2 (8 min)**  
   *Parent does:* 1. Pour 1 cup of water into a jar. 2. Stir in salt, one spoon at a time, stirring for a minute after each spoon. Stop when a little salt stays at the bottom however much you stir. 3. Fill the second jar with plain water. 4. Tie a thread to each pencil, with a button on its end. 5. Lay a pencil across each jar so the thread hangs in the water. 6. Leave the jars open, somewhere warm, dry and still, like a shelf near a window. 7. Put a few drops of the salty water on a dark plate, and leave it beside the jars.  
-  *Parent says:* The water is holding lots of salt, dissolved in it. As the water slowly evaporates into the air, there is less water to hold the salt. So the salt has to come out somewhere. Let's see where it goes.  
+  *Parent says:* The water is holding lots of salt, dissolved in it. As the water slowly dries into the air, there is less water to hold the salt. So the salt has to come out somewhere. Let's see where it goes.  
   *Child mode:* Stir salt into a jar of water until no more dissolves. Hang a thread in it. Hang another thread in plain water. Leave both jars very still.
   - Note: Hot water does not help much: salt dissolves almost as well in cold water as in hot. Iodised salt can make the water a little cloudy, which is fine. Leave the jars open, or the water cannot evaporate.
 - **s3 (6 min)**  
-  *Parent does:* On days 3, 5 and 7, look at both threads, and at the dark plate, with the hand lens. Draw them. Measure the biggest crystal.  
+  *Parent does:* On days 3, 5 and 7, look at both threads, and at the dark plate, with the hand lens. Take a photo of them, or draw them. Measure the biggest crystal.  
   *Parent says:* What is on the threads? How are the crystals growing? From inside, or by adding on at the outside?  
-  *Child mode:* Look at both threads with the lens. What do you see? Draw it. Measure the biggest crystal.
+  *Child mode:* Look at both threads with the lens. What do you see? Take a photo or draw it. Measure the biggest crystal.
   - Note: The drops on the dark plate dry within a day and leave tiny square crystals, so look at them first. On the thread, crystals usually appear in 2 to 4 days and keep growing as the water evaporates. In a damp week, or in the monsoon, it can take up to two weeks. If the thread is still bare on day 7, keep the jar going and check every few days. The plain water thread stays bare. Notice the flat faces and square corners of salt crystals. Salt also creeps up the inside of the jar as a white crust. That is the same thing happening.
   - Wait: Look again on days 3, 5 and 7.
 - **s4 (6 min)**  
-  *Parent does:* Put the crystal thread next to the moong seedlings from the sleeping seeds experiment, or your drawings of them. Go through the signs of life one by one.  
+  *Parent does:* Put the crystal thread next to the moong seedlings from the sleeping seeds experiment, or your photos or drawings of them. Go through the signs of life one by one.  
   *Parent says:* Let's put our crystal on trial. Does it move? Eat? Get energy from food? Sense? Make young? Get rid of waste? Is it made of cells? Now the seedling. What is the difference in how they grew?  
-  *Child mode:* Put your crystal on trial. Go through each sign. Then try the seedling. How did each one grow?
+  *Child mode:* Go through the signs one at a time. Which ones does the crystal have? Then do the seedling.
   - Check: The crystal and the seedling both grew. What is the big difference? → **The crystal grew by adding salt on the outside. The seedling grew from inside their own cells, building new parts from water and the food stored in the seed**
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say three things: what they think, what they saw, and why.  
@@ -421,7 +421,7 @@ In the morning my father found me standing at the window.
 - **s1 (4 min)**  
   *Parent does:* Put the tray in front of your child. Do not explain anything yet.  
   *Parent says:* Here are ten things from our home. Look very closely at each one. What do you notice? What do you wonder about?  
-  *Child mode:* Look closely at each thing on the tray. What do you notice? What do you wonder?
+  *Child mode:* Pick up each thing and look at it closely. Tell your grown-up one thing about each.
   - Ask: What do you notice? (good: The seed looks like a tiny pebble.; The leaf is still green.; The bread has holes in it.)
 - **s2 (6 min)**  
   *Parent does:* Lay the three labels on the floor. Your child sorts each thing onto one label.  
@@ -431,13 +431,13 @@ In the morning my father found me standing at the window.
 - **s3 (5 min)**  
   *Parent does:* Pick up the seed and the pebble. Then the candle.  
   *Parent says:* Which ones were hardest? Why? What would you need to see to be sure the seed is alive? What would you need to see to be sure the candle is not?  
-  *Child mode:* Which ones were hard? What test could prove the seed is alive?
+  *Child mode:* Hold the seed and the pebble. Tell your grown-up how you could prove the seed is alive.
   - Check: Which thing on the tray is alive right now, even though it does nothing? → **The dry moong seed**
   - Think: Keep your tray. At the end of this unit, sort it again. Will you change anything?
 ### a2 · Put the Candle on Trial (20 min)
 - **problem:** A candle flame seems to do many things that living things do. In this trial, you test the flame against each sign of life, one at a time. Then you decide whether fire is alive.
 - **safety:** A grown-up lights and handles the candle and the hot spoon the whole time. Children stay an arm's length from the flame and never reach over it. Tie back long hair and tuck in dupattas and loose sleeves. Keep paper and cloth away, and keep a cup of water nearby. Put the flame out at the end, and let the tumbler and the spoon cool before anyone touches them.
-- **record:** Draw a two-column chart: 'Signs the flame showed' and 'Signs it lacked'. Write your verdict at the bottom.
+- **record:** Make a two-column chart: 'Signs the flame showed' and 'Signs it lacked'. Write your verdict at the bottom.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* A grown-up lights the candle. Everyone sits back an arm's length away.  
   *Parent says:* Today the flame is on trial. We will test it, sign by sign. Does it move? Watch it. Does it grow? Watch it for a minute after it is lit.  
@@ -445,25 +445,25 @@ In the morning my father found me standing at the window.
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. A grown-up holds a cold spoon by its handle, about three finger-widths above the flame, for 2 seconds. Look straight away: the mist fades in a few seconds as the spoon warms. 2. Then the grown-up holds the same spoon in the very tip of the flame for 2 seconds, and shows the black soot. 3. Everyone holds a palm about a hand-length from the side of the flame, never above it. Then everyone puts their palms on their own cheeks. 4. Your child breathes on the second cold spoon.  
   *Parent says:* Look at the spoon. The mist is water that the flame made. The black smudge is soot, from wax that did not burn completely. Now feel the flame's warmth, then feel your own cheeks. You are warm too. Breathe on this cold spoon. What do you see?  
-  *Child mode:* Look at the spoon. The flame made mist and black soot. Feel the warm flame. Feel your warm cheeks. Breathe on a cold spoon. What do you see?
+  *Child mode:* Look at the mist and the black soot on the spoon. Feel your warm cheeks. Then breathe on a cold spoon.
   - Note: The spoon gets hot in the flame, so hold it by the far end of the handle, and put it down on the steel plate to cool before anyone touches it. Wipe off the soot afterwards. If you see no mist, the spoon was not cold enough: cool it again and look more quickly. Both the flame and your child's breath mist the spoon, and both give out warmth. Let your child notice this. The explanation comes later.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* A grown-up puts the glass tumbler gently over the candle. Watch until the flame goes out.  
   *Parent says:* What do you think will happen to the flame under the glass? Why do you think so? Now watch. Afterwards: what did the flame need that ran out?  
-  *Child mode:* What will happen to the flame under the glass? Guess first. Then watch. What ran out?
+  *Child mode:* Guess first. Then watch the flame under the glass.
   - Check: Why did the flame go out under the glass? → **It used up some of the oxygen under the glass, and too little was left**
 - **s4 (4 min) · grown-up needed**  
   *Parent does:* A grown-up lights the candle again. Then the grown-up holds the second candle and touches its wick to the flame for a moment.  
   *Parent says:* Look. One flame has made a new flame. Is that like a cat having kittens? Does the new flame carry anything from the first one, the way kittens get instructions from their mother?  
-  *Child mode:* Watch. One flame lights another. Is that like a baby? Does the new flame get anything from the old one?
+  *Child mode:* Watch one flame light the second candle.
   - Ask: Is the new flame like the old one's baby? (good: No. The new flame looks the way it does because of its own wax and wick, not because of the old flame.; Kittens get instructions from their mother. A new flame gets no instructions from the old one.)
 - **s5 (5 min) · grown-up needed**  
   *Parent does:* Blow out both candles. Fill in the two-column chart together.  
   *Parent says:* Let's sum up the trial. Which signs did the flame show? Which did it lack? Did it have cells? Did it pass on instructions? So, what is your verdict?  
-  *Child mode:* Fill in your chart. Signs the flame showed. Signs it lacked. Then give your verdict: alive or not alive?
+  *Child mode:* Fill in your chart together. Then give your verdict: alive or not alive?
   - Note: A good verdict: 'Not alive. The flame moved, grew, used fuel and oxygen, made waste and started a new flame. But it has no cells and passes on no instructions.' If your child says it is a little bit alive, ask what it would need to be fully alive. Then ask: the flame and you both made the spoon misty and both felt warm. Why might that be?
 ### a3 · Water Bear Hunt (if you can find moss) (25 min, 2 days)
-- **record:** Draw everything that moves. If you find a water bear, count their legs and draw how they walk.
+- **record:** Tell your grown-up about everything that moves. If you find a water bear, count its legs and say how it walks. Draw it if you like.
 - **schedule:** day 1: Collect a small clump of dry moss. Put the clump in a bowl of water overnight. (10 min); day 2: Squeeze the moss water onto a dark plate. Search for tiny eight-legged animals with a lens or a phone microscope. (15 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* With your child, find moss growing on a wall, a tree trunk or a roof. Take one thumb-sized clump. At home, put the clump in a bowl of water overnight.  
@@ -472,51 +472,51 @@ In the morning my father found me standing at the window.
   - Wait: Leave it overnight.
 - **s2 (10 min)**  
   *Parent does:* Next day, squeeze the moss over the dark plate. Use the dropper to spread the water in small drops. Search each drop slowly with the phone microscope or lens.  
-  *Parent says:* Water bears are about as long as a grain of salt is wide. Look for a slow, chubby animal that waddles on eight stumpy legs. Be patient. Many hunters look for a long time.  
+  *Parent says:* Water bears are about as long as a grain of salt is wide. Look for a slow, chubby animal that waddles on eight stumpy legs. Be patient. Many hunters look for a long time. You may also see other tiny animals.  
   *Child mode:* Squeeze the moss onto the plate. Look at each drop slowly. Look for a chubby animal with eight short legs.
   - Note: Water bears are common but tiny, about half a millimetre long. With a hand lens you may only see a slowly moving speck. A phone microscope clip of 30 times or more helps a lot. You will probably also see other tiny moss animals, like wriggling rotifers. They can dry out and wake again too. Finding nothing is normal. Try moss from another place, and watch the water bear video in this unit to see one walking.
 - **s3 (5 min)**  
   *Parent does:* Talk about what you found, even if it was not a water bear.  
   *Parent says:* Yesterday this moss was dry and nothing moved in there. Today there may be tiny animals swimming. Were they dead yesterday? Or waiting?  
-  *Child mode:* Did anything move in the water? Yesterday the moss was dry. Were those animals dead, or waiting?
+  *Child mode:* Tell your grown-up what moved in the water. If nothing moved, say what you saw.
   - Check: Suppose you see tiny animals swimming in the water squeezed from dry moss. Where did they come from? → **They were in the dry moss all along, resting, and woke up in the water**
 ### a4 · Act It Out: A Day in the Life of a Virus (15 min)
-- **record:** Draw a comic in three boxes: the virus drifting, the virus getting in, and the cell making copies.
+- **record:** Tell the story of the virus in three parts: drifting, getting in, and the cell making copies. Say it to someone, or draw it as a comic.
 - **s1 (3 min)**  
-  *Parent does:* Your child wears the paper cap and holds the note. Ask them to try to do the signs of life alone: eat, grow, move by themselves.  
+  *Parent does:* Your child wears the paper cap and holds the note. Ask them to stand very still, as a lone virus does.  
   *Parent says:* You are a virus now. You are a tiny packet of instructions in a coat. Outside a cell, a virus does not eat or grow. So stand very still. The wind carries you, until you meet a cell.  
-  *Child mode:* You are a virus. You are only a note in a coat. Alone, you can't eat or grow. Stand still. The wind carries you.
+  *Child mode:* Stand very still. A virus alone cannot eat, grow or move. Wait for the wind to carry you.
 - **s2 (3 min)**  
   *Parent does:* The parent is the cell, sitting by the box full of blocks. Your child drifts to the box and pushes the note through the door.  
   *Parent says:* Now you bump into a living cell. You slip your instructions inside. The cell reads your note like its own instructions.  
-  *Child mode:* You drift to the cell. Push your note through the door. The cell reads it.
+  *Child mode:* Drift to the box. Push your note through the door.
   - Note: Read the note aloud, slowly and clearly: 'Make more of me.'
 - **s3 (5 min)**  
   *Parent does:* The parent uses the blocks to build small 'virus' shapes for one minute, as many as possible. Then the parent pushes them out of the door.  
   *Parent says:* Look. The cell is using their own building parts and their own energy to make copies of you. You did not do any of the work. Now the new viruses burst out to find more cells.  
-  *Child mode:* Watch the cell build copies of you. They do all the work. Now the copies burst out.
+  *Child mode:* Watch the cell build copies of you. Now the copies burst out.
   - Ask: Who did all the work? (good: The cell did.; The cell used their own parts and energy.)
 - **s4 (4 min)**  
   *Parent does:* Sit down together and talk.  
   *Parent says:* So, is a virus alive? They cannot do anything alone. But they make copies of themselves, and they change over time. Scientists still argue. What do you think?  
-  *Child mode:* Is a virus alive? They can't do anything alone. But they make copies. What do you think? Why?
+  *Child mode:* Tell your grown-up what you think, and why.
   - Check: Why do scientists argue about whether viruses are alive? → **Because a virus makes copies of themselves, but only inside a living cell, and does no life processes alone**
 ### a5 · Is My Toy Robot Alive? (15 min)
 - **safety:** Do not open the battery box.
 - **record:** Make a table with two columns, the toy and the living thing, and a tick or cross for each sign.
 - **s1 (6 min)**  
-  *Parent does:* Switch the toy on. Go through each sign of life for the toy, then for the plant or pet.  
+  *Parent does:* Switch the toy on. Make a table on paper with two columns, the toy and the living thing. Go through each sign of life for the toy, then for the plant or pet. Put a tick or a cross for each.  
   *Parent says:* Does the toy move? Sense? Grow? Eat? Get rid of waste? Make young? Is it made of cells? Now let's try the plant or the pet.  
   *Child mode:* Switch on the toy. Does it move, sense, grow, eat or make babies? Now test the plant.
 - **s2 (5 min)**  
   *Parent does:* Look at the table together.  
   *Parent says:* The toy moves and maybe senses. The plant hardly moves at all, but ticks almost every box. So which is alive? What is the toy missing?  
-  *Child mode:* Look at your table. Which has more ticks? What is the toy missing?
+  *Child mode:* Count the ticks in each column.
   - Check: A robot can sense walls and move by itself. Why is it still not alive? → **Because it has no cells, does not grow or take in food, and cannot make young by itself**
 - **s3 (4 min)**  
-  *Parent does:* Your child draws a robot with all the extra parts it would need to be alive.  
-  *Parent says:* Imagine you had to make this toy truly alive. What would you have to add? Draw it.  
-  *Child mode:* Draw the toy with everything it would need to be alive.
+  *Parent does:* Your child looks at the toy's crosses and says what it would need to be alive.  
+  *Parent says:* Imagine you had to make this toy truly alive. Look at its crosses. What would you add to turn each cross into a tick?  
+  *Child mode:* Look at the toy's crosses. For each one, say what the toy would need.
   - Think: If someone built a robot that could find its own food, repair itself and build copies, would you call it alive?
 ### a6 · Draw the Line (15 min)
 - **record:** Take a photo of the line, or draw it. Mark where you would put the edge between alive and not alive.
@@ -542,7 +542,7 @@ In the morning my father found me standing at the window.
 - **s1 (25 min)**  
   *Parent does:* Help your child choose six cases and make a label card for each.  
   *Parent says:* A museum label tells visitors the most important things in a few words. For each case, write the signs it shows, the signs it lacks, and your verdict.  
-  *Child mode:* Choose six tricky cases. For each one, write the signs it shows and the signs it lacks. Then give your verdict.
+  *Child mode:* Pick six tricky cases. Make a label card for each one.
   - Wait: Finish the labels today. Set up the museum tomorrow.
 - **s2 (25 min)**  
   *Parent does:* Set up the exhibits. Your child gives a tour. Each visitor asks one hard question.  
@@ -555,7 +555,7 @@ In the morning my father found me standing at the window.
 ### c1 · Design a Life Detector for Mars (30 min)
 - **problem:** A robot is going to Mars. It will dig up a spoon of soil. Your job is to design the tests it should do to find out whether anything in the soil is alive.
 - **safety:** A grown-up heats the soil in a pan. The pan and soil stay hot for a while: let them cool fully before children touch them.
-- **your turn:** Now design your own test. Draw it, and say how it avoids being fooled by fire, crystals and chemistry.
+- **your turn:** Now design your own test. Build it or draw it, and say how it avoids being fooled by fire, crystals and chemistry.
 - **constraints:** The robot can only test a tiny spoon of soil.; No human will be there to look.; The robot must not be fooled by fire, crystals or ordinary chemistry.
 - **general:** Add water and food, and watch for gas, like the yeast balloon test.; Look through a microscope for cells.; Wait and see whether anything grows from inside or makes more of itself.
 - **creative:** Test the soil once, then heat it strongly and test again. If gas stops after heating, something living may have been killed. In 1976 NASA's Viking landers on Mars did tests like this. One test gave a puzzling result, and scientists still argue about what it meant.; Look for instructions, like the molecules inside cells that carry genes.; Test something you know is not alive, like sand, as a comparison. If the sand also 'passes', your test is fooled.
@@ -570,24 +570,24 @@ In the morning my father found me standing at the window.
   - Note: A grown-up heats the soil in a dry pan, stirring, for about 10 minutes, then lets it cool. The pot soil balloon may only stand up a little, because bacteria and fungi in soil give off only a small amount of carbon dioxide. So also look for tiny bubbles and a sour smell. The heated soil should show much less. The difference may be small, so do not expect a big balloon. If neither bottle changes, the soil may be very dry or old: try soil from a pot that is watered often.
   - Wait: Check the next morning.
 - **s3 (10 min)**  
-  *Parent does:* Your child draws the robot and its tests, with a way to avoid being fooled.  
-  *Parent says:* How will your robot be sure it found life, and not just a chemical fizz? Draw your plan.  
-  *Child mode:* Draw your robot and its tests. How will it avoid being fooled?
+  *Parent does:* Your child builds a model robot from the shoebox and sticks a paper tag on it for each test. A tag can be a few words or a small drawing.  
+  *Parent says:* How will your robot be sure it found life, and not just a chemical fizz? Show me each test, and tell me how it avoids being fooled.  
+  *Child mode:* Build your robot. Add a tag for each test. Tell your grown-up how the robot avoids being fooled.
   - Check: Why test heated soil next to the fresh soil? → **As a comparison: if the heated soil passes the test too, the test is fooled by ordinary chemistry**
 ### c2 · Keep a Seed Asleep for a Year (25 min)
 - **problem:** A farmer wants to save her best seeds for next year's sowing. Design a way to keep them asleep, so they do not sprout or rot, but still wake up next year.
-- **your turn:** Now invent your own seed-sleep box. Draw it, store some seeds, and plan when you will test them.
+- **your turn:** Now invent your own seed-sleep box. Store some seeds in it, and plan when you will test them. Draw a sketch if you like.
 - **constraints:** Use only things found at home.; The seeds must still sprout after storage.; No chemicals that could harm people or animals.
 - **general:** Dry the seeds well in the sun first, because water wakes them up.; Store them in an airtight jar, so damp air cannot get in.; Keep the jar somewhere cool and dark.
 - **creative:** Many Indian farmers store grain with dried neem leaves to keep insects away.; Seed banks freeze dried seeds far below zero. The Svalbard Global Seed Vault in Norway, opened in 2008, keeps seeds from almost every country in a frozen mountain. In India, a national gene bank in New Delhi also keeps seeds cold.; Test your method. Store some seeds now. Sprout a few each month, and count how many wake up.
 - **s1 (8 min)**  
   *Parent does:* Talk about what wakes a seed up, from the sleeping seeds experiment.  
   *Parent says:* In the sleeping seeds experiment, the seeds on wet cotton woke up. What woke them? So, to keep a seed asleep, what must we keep away from them?  
-  *Child mode:* In the sleeping seeds experiment, what woke the seeds on the wet cotton? So what must you keep away to keep a seed asleep?
+  *Child mode:* Remember the seeds on the wet cotton. Tell your grown-up what you must keep away to keep a seed asleep.
   - Ask: What wakes a seed up? (good: Water.; Warmth.; Air too.)
 - **s2 (12 min)**  
-  *Parent does:* Your child dries some seeds, puts them in a jar and designs the storage place.  
-  *Parent says:* Let's make your seed-sleep box. Dry the seeds, seal the jar, and choose a cool, dark place. Write the date on the label.  
+  *Parent does:* Your child dries some seeds in the sun for a day, puts them in a jar and picks the storage place.  
+  *Parent says:* Let's make your seed-sleep box. A dry seed stays asleep. So we dry the seeds first, then seal the jar. A cool, dark place keeps them asleep longer. Write the date on the label.  
   *Child mode:* Dry the seeds. Put them in a jar. Close it tight. Choose a cool, dark place. Write today's date on it.
   - Check: Why must the seeds be very dry before you store them? → **Water wakes seeds up, so damp seeds may sprout or rot in the jar**
 - **s3 (5 min)**  

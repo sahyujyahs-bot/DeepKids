@@ -396,7 +396,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about eight real chemical reactions. You collect families of three cards: two reactants and the product they make.",
+   "context": "You will find out that a new substance can look and behave nothing like the two substances that made it. This card game has eight real reactions. You collect families of three cards: two reactants and the product they make.",
    "setup": [
     {
      "art": "Twenty-four small cards spread face up on a table, sixteen marked REACTANT and eight marked PRODUCT, with a printed answer key beside them.",
@@ -508,11 +508,11 @@
      "id": "s4",
      "mins": 3,
      "do": "Count the families. Then look at the eight product cards together and ask the question below.",
-     "say": "Look at the eight products. Is any product simply a mixture that looks like both of its reactants?",
-     "kid": "Count your families. Does any product look like its reactants?",
+     "say": "Look at the eight products. Does any product look like the reactants that made it?",
+     "kid": "Count your families. Then look at the eight product cards.",
      "check": {
       "t": "mcq",
-      "q": "Sodium burns in water and chlorine is a poisonous gas. What do they make together?",
+      "q": "Sodium is a metal that reacts fiercely with water. Chlorine is a poisonous gas. What do they make together?",
       "options": [
        "Table salt, which is safe to eat",
        "A poisonous metal that burns",
@@ -577,7 +577,7 @@
    ],
    "safety": "A grown-up does all the heating. Hot vinegar gives off a sharp smell, so open a window and keep faces away from the pan. Salt-like crusts can spit when they are nearly dry, so use a low flame and stand back. Let the pans cool before anyone touches them. Nobody tastes anything in this experiment.",
    "record": "Fill in the results table with one row for the water pan and one row for the vinegar pan. Add a third row for fresh baking soda. Then write one sentence that begins 'After the fizz, the baking soda was…'.",
-   "context": "In this experiment you dissolve baking soda in water and react baking soda with vinegar. You dry both liquids and test whether baking soda comes back from each.",
+   "context": "You will find out whether baking soda is still there after it has fizzed in vinegar. You stir baking soda into water and into vinegar, dry both liquids, and test what is left.",
    "setup": [
     {
      "art": "A level teaspoon of white powder tipped on to a steel plate and divided with a butter knife into four small equal heaps.",
@@ -632,7 +632,7 @@
      "mins": 4,
      "do": "Show your child the baking soda, the water and the vinegar. Explain what you will do. Ask for a guess and a reason, and write both down.",
      "say": "We will stir baking soda into water, and the same amount into vinegar. Then we will dry both liquids. What will be left in each pan? Will each leftover still fizz in vinegar? Why do you think so?",
-     "kid": "One heap goes in water. One goes in vinegar. What will be left after drying? Why?",
+     "kid": "Guess what will be left in each pan after drying.",
      "ask": [
       {
        "q": "Why do you think that?",
@@ -718,7 +718,7 @@
      "id": "s7",
      "mins": 5,
      "do": "Look at the results table together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. Where is the baking soda that went into the vinegar?",
+     "say": "Look at the table together. Where is the baking soda that went into the vinegar?",
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -810,8 +810,8 @@
      "what": "Measure again. Work out what share of the air was used. Explain the result."
     }
    ],
-   "record": "Fill in one row of the results table each day. On day 3, draw the glass with steel wool and mark the starting level and the last level.",
-   "context": "In this experiment wet steel wool rusts inside an upturned glass that stands in water. You measure how far the water climbs into the glass over three days.",
+   "record": "Fill in one row of the results table each day. On day 3, draw the glass with steel wool and mark the starting level and the last level, or take a photo of each glass.",
+   "context": "You will find out whether rusting takes something out of the air. Wet steel wool rusts inside an upturned glass that stands in water, and you measure how far the water climbs in three days.",
    "setup": [
     {
      "art": "A wad of grey steel wool being pushed with a pencil into the bottom of a clear glass tumbler, with a bowl of vinegar beside it.",
@@ -938,7 +938,7 @@
      "id": "s6",
      "mins": 5,
      "do": "Look at the results table together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. Why did the water stop climbing, when there is still steel wool left?",
+     "say": "Look at the table together. Why did the water stop climbing, when there is still steel wool left?",
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -1008,7 +1008,7 @@
     }
    ],
    "record": "A table with six rows, one for each mix. Write what you mixed, which sign you saw, and your decision: 'new substance' or 'same substances'.",
-   "context": "In this activity you make six kitchen mixes, one at a time. You look for five signs of a reaction and decide which mixes made a new substance.",
+   "context": "You will find out how to tell a mix that makes a new substance from one that only mixes or dissolves. You make six kitchen mixes and look for five signs of a reaction.",
    "setup": [
     {
      "art": "Six small steel katoris in a row on a tray, numbered 1 to 6, with a lime, a jar of baking soda, salt, a cup of black tea and a cup of milk behind them.",
@@ -1040,7 +1040,7 @@
      "kid": "Make mixes 1, 2 and 3. Guess first. Which signs do you see?",
      "ask": [
       {
-       "q": "The salt has disappeared. Is that one of the five signs?",
+       "q": "The salt has disappeared into the water. Is that one of the five signs of a reaction?",
        "good": [
         "No, disappearing is not on the list.",
         "No. The salt is still there, because the water would taste salty."
@@ -1133,7 +1133,7 @@
     }
    ],
    "record": "Write four lines, one for each try. Put a tick if you picked the fizz tumbler as the cooler one, and a cross if you did not.",
-   "context": "In this activity you make a fizz in one of two tumblers of vinegar. Then you test, with your eyes covered, whether your hands can tell which tumbler got cooler.",
+   "context": "You will find out whether your hands can feel a reaction. You make a fizz in one of two tumblers of vinegar. Then, with your eyes covered, you try to tell which tumbler got cooler.",
    "setup": [
     {
      "art": "Two steel tumblers on a tray, each half full of clear vinegar, with a jar of baking soda and a teaspoon beside them.",
@@ -1181,7 +1181,7 @@
      "mins": 3,
      "do": "Count the ticks. Ask your child what they found, and where the coolness came from. Then explain, using the note below.",
      "say": "How many times out of four did you pick the fizz tumbler? Nobody added ice. So why is it cooler?",
-     "kid": "Count your ticks. Nobody added ice. Why is one tumbler cooler?",
+     "kid": "Count your ticks. Then tell your grown-up why you think the fizz tumbler was cooler.",
      "ask": [
       {
        "q": "Which of the five signs of a reaction did you just feel?",
@@ -1230,8 +1230,8 @@
      "what": "Build the reactants from seeds and coins. Rearrange them into the products. Count the atoms before and after."
     }
    ],
-   "record": "For each reaction, write the number of each kind of atom before and after. Draw the groups you made.",
-   "context": "In this activity coins and seeds stand for atoms. You build the reactants, rearrange them into the products, and count the atoms before and after.",
+   "record": "For each reaction, write the number of each kind of atom before and after. Take a photo of the groups you made, or draw them.",
+   "context": "You will find out that a reaction never loses an atom. It only regroups them. Coins and seeds stand for atoms. You build the starting substances, regroup them into the new substances, and count the atoms before and after.",
    "setup": [
     {
      "art": "A sheet of paper with a line down the middle headed Before and After, and on the Before side two pairs of pale seeds and one pair of dark seeds.",
@@ -1345,7 +1345,7 @@
     }
    ],
    "record": "A table with ten rows and four columns: the thing, where it is kept (dry, sometimes wet, or outdoors), how it is protected (paint, oil, zinc coat, stainless steel or nothing), and whether you can see rust.",
-   "context": "In this two-day project you find ten iron or steel things in your home. You record how each one is protected from rust, and look for a pattern.",
+   "context": "You will find out why some iron things in your home rust and others do not. Over two days you find ten iron or steel things, record how each one is protected from rust, and look for a pattern.",
    "setup": [
     {
      "art": "A child holding a fridge magnet against a painted window grill, with a notebook under her arm.",
@@ -1393,7 +1393,7 @@
      "mins": 5,
      "do": "Draw a simple plan of your home. Mark an orange dot wherever you found rust. Talk about the question below.",
      "say": "Where are most of the dots? Which rooms are the wettest? If you could protect one thing better, which would it be, and how?",
-     "kid": "Draw your home. Mark the rust with orange dots. Where are most dots?",
+     "kid": "Draw a plan of your home, or just list the rooms. Mark the rust with orange dots, or count the rusty things in each room. Where is the most rust?",
      "parent": "Most homes find the dots at balconies, bathrooms and near the sink. In towns by the sea there are usually more, because salt speeds up rusting.",
      "context": "This is the last step of The Rust Survey. You draw a rust map of your home and say where iron rusts most."
     }
@@ -1433,7 +1433,7 @@
     "Warm the vinegar tumbler in a bowl of warm water first, so that the gas is made faster."
    ],
    "your_turn": "Write your best recipe on a card, so clearly that someone else can follow it. Then take a bag of a different size. Work out the amounts before you test, and see how close you get.",
-   "context": "In this challenge you make a sealed bag fill itself with carbon dioxide from vinegar and baking soda. You must find the amounts that make it firm but do not pop it open.",
+   "context": "You will find out how much vinegar and baking soda makes a sealed bag fill with carbon dioxide until it is firm, but does not pop open.",
    "setup": [
     {
      "art": "A small zip pouch on a tray with two tablespoons of clear vinegar in the bottom, and a child holding a folded tissue packet above it.",
@@ -1457,7 +1457,7 @@
      "kid": "Try the small recipe first. Seal the bag. Watch for 30 seconds.",
      "ask": [
       {
-       "q": "The bag is limp. Which reactant would you add more of, and why?",
+       "q": "The bag is limp. Would you add more vinegar or more baking soda? Why?",
        "good": [
         "More baking soda, because it all got used up.",
         "Both, because more reactants make more gas."
@@ -1481,7 +1481,7 @@
      "mins": 7,
      "do": "Test once more to improve the result. Then double only the baking soda and keep the vinegar the same. See whether the bag gets any fuller.",
      "say": "Now double the baking soda, and keep the vinegar the same. Before you test, will the bag be twice as full? Why?",
-     "kid": "Double only the baking soda. Will the bag get twice as full?",
+     "kid": "Double only the baking soda. Guess first, then test.",
      "ask": [
       {
        "q": "The bag did not get fuller, and white powder was left. Why?",
@@ -1498,7 +1498,7 @@
      "id": "s4",
      "mins": 5,
      "do": "Your child writes the best recipe on a card. Talk about the question below.",
-     "say": "Write your best recipe so that a stranger could follow it. An airbag must fill to exactly the right size. How do you think its makers decide how much reactant to put in?",
+     "say": "An airbag must fill to exactly the right size. How do you think its makers decide how much of each chemical to put in?",
      "kid": "Write your best recipe on a card. Could a stranger follow it?",
      "parent": "Praise a clear record of what failed as much as a firm bag. Rinse the bags and the sink with plenty of water afterwards.",
      "context": "This is the last step of The Self-Filling Bag. You write down the recipe that made the bag firm without popping."

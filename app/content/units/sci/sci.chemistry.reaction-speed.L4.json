@@ -631,7 +631,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the 20 cards and the tokens. Shuffle the cards and put them in a pile. Give each player a set of six tokens.",
-     "say": "These cards show everyday changes. Each player has six tokens. We will guess which speed-up each card is about.",
+     "say": "These cards show everyday changes. Each player has six tokens, one for each kind: warmth, stirring, smaller pieces, a crowd, a helper and a slow-down. We will guess which speed-up each card is about.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take six tokens.",
      "context": "This is the first step of Which Speed-Up. You set up the cards and the tokens."
     },
@@ -849,7 +849,7 @@
     }
    ],
    "safety": "A grown-up pours the warm water and checks that it is not too hot to hold. Keep the powder out of eyes, and keep spare sachets away from a younger child who may eat them. Do not drink the water from the test glasses. Wipe up spills so nobody slips.",
-   "record": "Write the seconds for each try in the table. Work out the average for each cup. Then draw a bar for each cup, with the cup names along the bottom and seconds up the side.",
+   "record": "Write the seconds for each try in the table. Work out the average for each cup. Then draw a bar for each cup, or just say which cup was quickest and which was slowest.",
    "context": "In this experiment you find out whether warmth makes the same fizz finish faster. You time three cups of water at different temperatures.",
    "setup": [
     {
@@ -879,7 +879,7 @@
      "mins": 5,
      "do": "Show your child the three glasses and the fruit salt. Say what changes and what stays the same. Write down their guess and their reason.",
      "say": "We will fizz the same powder in three glasses of water. One is cold, one is room-temperature and one is warm. Which will stop fizzing first? Which will be last? Why do you think so?",
-     "kid": "Three glasses of water: one cold, one at room temperature, one warm. Which stops fizzing first? Why?",
+     "kid": "Look at the three glasses of water: cold, room and warm. Make your guess.",
      "context": "This is the first step of the Three Cups test. You guess before you test.",
      "ask": [
       {
@@ -936,9 +936,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Check the table. Work out the average for each glass by adding the two tries and dividing by two. Draw a bar for each glass.",
-     "say": "Add the two tries for each glass and divide by two. That gives the average. Now draw one bar for each glass. Which bar is shortest?",
-     "kid": "Add two tries. Divide by two. Draw a bar for each glass.",
+     "do": "Check the table. Work out the average for each glass by adding the two tries and dividing by two. Draw a bar for each glass, or just tell your grown-up which glass was quickest.",
+     "say": "Add the two tries for each glass and divide by two. That gives the average. Now draw one bar for each glass, or point to the quickest glass. Which bar is shortest?",
+     "kid": "Add two tries. Divide by two. Draw a bar for each glass, or point to the quickest.",
      "context": "In this step you turn the numbers into a picture, so it is easy to compare.",
      "check": {
       "t": "mcq",
@@ -1010,7 +1010,7 @@
     }
    ],
    "safety": "A grown-up cuts and grates the apple (a grater scrapes fingers) and handles the just-boiled water. A child can squeeze the lime and do the scoring. Wash the apple first. Do not eat the pieces that have been in the hot water or left for 30 minutes.",
-   "record": "At 10, 20 and 30 minutes, give each plate a colour score from 0 to 4. 0 is cream-white like a fresh cut. 1 is a faint tan. 2 is tan. 3 is brown. 4 is dark brown. Then draw a line for each plate.",
+   "record": "At 10, 20 and 30 minutes, give each plate a colour score from 0 to 4. 0 is cream-white like a fresh cut. 1 is a faint tan. 2 is tan. 3 is brown. 4 is dark brown. Then line up the plates from the fastest browning to the palest.",
    "context": "In this experiment you race five pieces of apple to see which turns brown fastest. You find out what speeds browning up and what slows it down.",
    "setup": [
     {
@@ -1040,7 +1040,7 @@
      "mins": 5,
      "do": "Show your child the five plates. Say what will be done to each one. Write down their guess and their reason.",
      "say": "We will cut one apple and treat five plates differently. A is plain. B is grated. C has lime juice. D goes in the fridge. E gets a hot dip. Which turns brown first? Which stays palest? Why do you think so?",
-     "kid": "Five plates of apple. Which turns brown first? Which stays palest? Why?",
+     "kid": "Look at the five plates of apple. Make your guess.",
      "context": "This is the first step of the Apple Race. You guess before you test.",
      "ask": [
       {
@@ -1097,9 +1097,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Draw a line graph. Put minutes along the bottom and colour score up the side. Draw one line for each plate, in a different colour.",
-     "say": "Draw a line graph. Minutes go along the bottom and the colour score goes up the side. One line for each plate. Which line climbs fastest?",
-     "kid": "Draw a line for each plate. Which line climbs fastest?",
+     "do": "Look at the table. Line up the plates on the counter, from the one that browned fastest to the palest.",
+     "say": "Look at your scores. Line up the plates from fastest browning to palest. Which plate is first?",
+     "kid": "Line up the plates. Put the fastest-browning one first.",
      "context": "In this step you turn the scores into a graph so you can compare the plates.",
      "check": {
       "t": "mcq",
@@ -1162,7 +1162,7 @@
     }
    ],
    "safety": "Keep lime juice out of eyes; if it gets in, rinse with plenty of water. Wash your hands after squeezing. The foam can spill, so work on a tray. Do not drink the fizz.",
-   "record": "Write the foam height at 5 seconds and the time until the fizz stops for each glass. Then draw a bar for each glass.",
+   "record": "Write the foam height at 5 seconds and the time until the fizz stops for each glass. Then put the glasses in order, quickest fizz first.",
    "context": "In this experiment you keep the amount of acid the same, but crowd it into a small space or spread it out. You see whether a crowd of acid particles reacts faster.",
    "setup": [
     {
@@ -1191,12 +1191,12 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the three glasses and the three cups. Say what goes in each. Write down their guess and reason.",
-     "say": "All three glasses get the same amount of lime juice. The first has no extra water. The second has a little. The third has a lot. Which fizzes fastest? Why do you think so?",
-     "kid": "Same lime in every cup. More water in B and C. Which fizzes fastest? Why?",
+     "say": "Each cup holds the same amount of lime juice. Cup A has no extra water. Cup B has a little. Cup C has a lot. We will pour each cup onto baking soda. Which will fizz fastest? Why do you think so?",
+     "kid": "Look at the cups. Cup A has no water. B has a little. C has a lot. Make your guess.",
      "context": "This is the first step of the Same Lime test. You guess before you test.",
      "ask": [
       {
-       "q": "Why do you think that glass will fizz fastest?",
+       "q": "Why do you think that cup will fizz fastest?",
        "good": [
         "The lime is stronger there.",
         "More acid is close to the baking soda.",
@@ -1238,9 +1238,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Draw a bar for each glass. Ask your child to say what they thought, what they saw and why. Then explain.",
-     "say": "Draw a bar for each glass. What did you think? What did you see? Why do you think the crowded lime was different?",
-     "kid": "Draw a bar for each glass. Say what you thought, saw and why.",
+     "do": "Put the three glasses in a row, quickest fizz first. Ask your child to say what they thought, what they saw and why. Then explain.",
+     "say": "Put the glasses in a row, quickest fizz first. What did you think? What did you see? Why do you think the crowded lime was different?",
+     "kid": "Put the glasses in a row, quickest first. Say what you thought, saw and why.",
      "context": "This is the last step of the Same Lime test. You say what you found out.",
      "think": "The lime juice is the same amount in all three cups. So what changed about how often acid particles meet baking soda particles?",
      "parent": "A strong answer says that the least watery glass fizzed hardest and finished first, and that in the watery glass the acid was spread out, so meetings were rarer. After they say what they saw, explain: more crowded particles meet more often, so the reaction is faster. The total gas is the same in all three, because the amount of acid is the same. If your order is different, check that each glass got the same baking soda and a single pour."
@@ -1278,7 +1278,7 @@
     }
    ],
    "safety": "Do not drink the water from the test glasses. Keep spare fruit salt away from a younger child who may eat it.",
-   "record": "Write the seconds for each glass. Draw three bars, one for the still glass, one for the gentle stir and one for the hard stir.",
+   "record": "Write the seconds for each glass. Then put the three glasses in order, quickest first.",
    "context": "In this activity you find out if stirring makes a reaction finish sooner, and whether stirring harder helps more. You time three identical glasses of fizz: still, gently stirred and briskly stirred.",
    "setup": [
     {
@@ -1300,7 +1300,7 @@
      "mins": 4,
      "do": "Pour 150 millilitres of room-temperature water into three glasses, labelled still, gentle and hard. Ask your child to guess which will stop fizzing first and which last, and why.",
      "say": "Three glasses, same water, same powder. One stays still, one is stirred gently and one is stirred hard. Which stops fizzing first? Which last? Why do you think so?",
-     "kid": "Three glasses. Still, gentle stir, hard stir. Which fizzes out first? Why?",
+     "kid": "Three glasses: still, gentle stir and hard stir. Make your guess.",
      "context": "This is the first step of Stir or Stand. You guess before you test.",
      "ask": [
       {
@@ -1360,7 +1360,7 @@
    ],
    "safety": "Do not open or taste any cleaner. Read labels only. Do not go under a vehicle. Ask a grown-up to look. For the rice, use only plain cooked rice and your own clean spoon. Wash hands first.",
    "record": "Make a table with three columns: Where I looked, What I found, Which reaction the helper speeds up.",
-   "context": "In this activity you hunt for catalysts in your own home. You read labels, ask a driver, and think about your own body.",
+   "context": "In this activity you hunt for catalysts in your own home. A catalyst is a helper that makes a reaction faster and is not used up. An enzyme is a catalyst made by living things. You read labels, ask a driver, and think about your own body.",
    "setup": [
     {
      "art": "A child reading the ingredient list on a washing powder packet, with a finger on the word enzymes.",
@@ -1558,10 +1558,10 @@
     {
      "day": 4,
      "mins": 8,
-     "what": "Score a last time. Draw a line graph and say what you found."
+     "what": "Score a last time. Line up the glasses from most rust to least and say what you found."
     }
    ],
-   "record": "Score each nail each day from 0 (bright and clean) to 4 (covered in orange-brown rust, with flakes). Draw a line graph with one line for each nail.",
+   "record": "Score each nail each day from 0 (bright and clean) to 4 (covered in orange-brown rust, with flakes). Then line up the glasses from most rust to least rust. You can also draw a line graph.",
    "context": "In this project you watch five nails over four days. You see how water, salt, oil and paint speed up or slow down rusting.",
    "setup": [
     {
@@ -1578,7 +1578,7 @@
     },
     {
      "art": "A line graph on paper with five lines going up at different speeds.",
-     "caption": "4. On day 4, draw a line graph of the five scores."
+     "caption": "4. On day 4, line up the glasses from most rust to least rust."
     }
    ],
    "flow": [
@@ -1587,7 +1587,7 @@
      "mins": 25,
      "do": "Wash all five nails with a drop of dishwash and a cloth. This removes the oily film. Rinse and dry them. A grown-up paints nail E and lets it dry. Rub a little oil on nail D. Put nail A on a dry tissue in a glass. Stand nails B, C, D and E each in a glass with water that covers half the nail. Add 2 teaspoons of salt to glass C. Write your guess for each glass.",
      "say": "We have five nails, and each one is kept in a different way. A is dry. B is in plain water. C is in salty water. D is oiled and in water. E is painted and in water. Which will rust first? Which will not rust at all? Why do you think so?",
-     "kid": "Set up five nails. Guess which rusts first and which not at all. Why?",
+     "kid": "Set up the five nails. Then make your guess.",
      "context": "This is the first step of the Rust Race. You set up the glasses and guess.",
      "adult": true,
      "ask": [
@@ -1615,9 +1615,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "On day 4, score the nails for the last time. Draw the line graph. Ask your child to say what they thought, what they saw and why. Then explain.",
-     "say": "Draw a line for each nail. Which line climbs fastest? Which stays flat? What did you think? What did you see? Why do you think it happened?",
-     "kid": "Draw a line for each nail. Say what you thought, saw and why.",
+     "do": "On day 4, score the nails for the last time. Line up the glasses from most rust to least rust. Ask your child to say what they thought, what they saw and why. Then explain.",
+     "say": "Line up the glasses from most rust to least rust. Which nail rusted most? Which stayed cleanest? What did you think? What did you see? Why do you think it happened?",
+     "kid": "Line up the glasses, most rust first. Say what you thought, saw and why.",
      "context": "This is the last step of the Rust Race. You say what you found out.",
      "think": "Salty water and paint have opposite effects. What is each one doing to the meeting between iron, water and oxygen?",
      "parent": "A strong answer says salt speeds up rusting, and oil and paint slow it by keeping the iron from water and air. After they say what they saw, explain: rusting is iron meeting oxygen and water. Salt dissolved in the water helps electric charge move around, so rusting is faster. Oil and paint are barriers that keep the meeting from happening. The Delhi Iron Pillar has a thin skin that is a natural barrier of this kind."
@@ -1674,9 +1674,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Look at the Apple Race results. Ask your child which things slowed the browning. Ask them to choose two designs to test, and to guess which will work better.",
+     "do": "Look at the Apple Race results. If you did not do it, use lime juice, salt water, honey, cling film or an ice pack. Ask your child which things slowed the browning. Ask them to choose two designs to test, and to guess which will work better.",
      "say": "In the Apple Race, which things slowed the browning? Pick two of them, or two of your own ideas. Which will keep the apple pale longest? Why do you think so?",
-     "kid": "Which things slowed the browning? Pick two designs. Which is best? Why?",
+     "kid": "Choose two ways to keep the apple pale. Guess which works better.",
      "context": "This is the first step of the Tiffin Apple challenge. You choose two designs and guess."
     },
     {

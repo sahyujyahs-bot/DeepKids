@@ -249,11 +249,11 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
 - **Printable tokens: 4 change tokens: Enzyme browning, Heat browning, Gas rise, Cut sting. Print one set for each player:** Enzyme browning; Heat browning; Gas rise; Cut sting
 - **s1 (3 min)**  
   *Parent does:* Cut out the 20 cards and the tokens. Shuffle the cards into a pile. Give each player one set of four tokens.  
-  *Parent says:* Each card tells of something that happens in a kitchen. Your four tokens are four kinds of change. Enzyme browning happens to cut fruit. Heat browning happens on a hot, dry surface. Gas rise makes food swell. Cut sting is a sharp gas or taste made by broken cells.  
+  *Parent says:* Each card tells of something that happens in a kitchen. Your four tokens are four kinds of change. Enzyme browning happens when cut fruit meets the air. Heat browning happens on a hot, dry surface. Gas rise makes food swell. Cut sting is a sharp gas or taste made by broken cells.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take four tokens.
 - **s2 (7 min)**  
   *Parent does:* Play the first ten cards. After each card, read the back aloud. Ask the question below after card five.  
-  *Parent says:* The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Who scored?  
+  *Parent says:* The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Anyone who chose the right token scores one point.  
   *Child mode:* Listen to the card. Pick a change token. Turn it over. Check the back.
   - Ask: How did you tell enzyme browning from heat browning? (good: I asked whether the food was heated.; Cut fruit browns in the cold. Toast needs a hot tawa.; Enzyme browning needs broken cells and air.)
   - Note: For a stuck child, ask two things. Was the food cut or crushed? Was it heated on a dry surface? One child can play alone or with you.
@@ -263,8 +263,8 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
   *Child mode:* Play ten more cards. Say the reason for each change.
 - **s4 (3 min)**  
   *Parent does:* Count the points. Then sort all 20 cards into four heaps, one for each change.  
-  *Parent says:* Let us sort the cards into four heaps. Look at the enzyme browning heap and the cut sting heap. What did every food in those two heaps have done to it?  
-  *Child mode:* Sort the cards into four heaps. What is the same in two heaps?
+  *Parent says:* Let us sort the cards into four heaps. Look at the enzyme browning heap and the cut sting heap side by side.  
+  *Child mode:* Sort the cards into four heaps. Find what two heaps have in common.
   - Check: What starts both enzyme browning and the onion's sting? → **Cells are broken open**
 ### g2 · Puff or Flop: the rising game (15 min)
 - **rules:** Each round is one bake. On your turn, roll the die and write the number under Gas. Roll again and write the number under Hold.; Turn over the top kitchen card and read the front aloud. Change Gas or Hold as the card says. A number cannot go below 0.; Read the back of the card aloud. It gives the reason.; Look at your two numbers. Take beans equal to the smaller one. If Gas is 5 and Hold is 3, take 3 beans.; Put the card at the bottom of the pile. Then the next player has a turn.; Play six rounds each. The player with the most beans wins.; Playing alone? Play six rounds and count your beans. A total of 18 or more is a very good bake.
@@ -286,8 +286,8 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
   *Child mode:* Play three more rounds. Say which number you want the card to change.
 - **s4 (2 min)**  
   *Parent does:* Count the beans. Then ask the check question.  
-  *Parent says:* Count your beans. Now think about a real kitchen. A baker adds extra yeast to a dough made of rice flour alone. Will the loaf rise higher?  
-  *Child mode:* Count your beans. Does more yeast help rice flour dough?
+  *Parent says:* Count your beans. Now think about one dough. Its Gas is 6 and its Hold is 1.  
+  *Child mode:* Count your beans. Then answer the question.
   - Check: A dough has Gas 6 and Hold 1. Which change gives a higher rise? → **Add 2 to Hold**
 
 ## Experiments
@@ -305,13 +305,13 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
   - Ask: What do you think heat will do to the slice? (good: It will cook it, so it may go brown faster.; It may kill something in the apple.; I am not sure, but hot things often go brown.)
   - Note: Many children expect the heated slice to brown most, because cooking often browns food. Do not correct the guess.
 - **s2 (6 min) · grown-up needed**  
-  *Parent does:* Bring a small pan of water to the boil. Cut three slices, each about half a centimetre thick. Put slice N on the plate. Put slice C in the cold water. Hold slice H under the boiling water in the ladle. After two minutes, lift out C and H and put them on the plate. Note the time.  
+  *Parent does:* Bring a small pan of water to the boil. Cut three slices, each about half a centimetre thick. Call the slices N for no dip, C for cold dip and H for hot dip. Put slice N on the plate. Put slice C in the cold water. Hold slice H under the boiling water in the ladle. After two minutes, lift out C and H and put them on the plate. Note the time.  
   *Parent says:* I will cut the slices and do the hot dip. You time two minutes on the clock. Both dipped slices get wet. Why did we give one slice a cold dip?  
-  *Child mode:* A grown-up cuts and dips. You time two minutes. Then note the time.
+  *Child mode:* A grown-up cuts and dips. You time two minutes. Then write down the time.
   - Note: The cold dip is the fair partner of the hot dip. Without it, nobody could tell whether the heat or the wetting made the difference. The boiled slice will look a little glassy and soft.
 - **s3 (8 min)**  
   *Parent does:* Look at the plate after 10 minutes and after 20 minutes. Your child writes a brown score from 0 to 3 for each slice. At 20 minutes they scratch slice N and slice H with a fork, four lines each.  
-  *Parent says:* Give each slice a brown score from 0 to 3. Now scratch the no-dip slice and the hot-dip slice with the fork. The scratches break fresh cells. What do you think the scratches will look like in 20 minutes?  
+  *Parent says:* Give each slice a brown score from 0 to 3. Zero is not brown and three is brown all over. Now scratch the no-dip slice and the hot-dip slice with the fork. The scratches break fresh cells. What do you think the scratches will look like in 20 minutes?  
   *Child mode:* Score each slice from 0 to 3. Scratch two slices with a fork.
   - Note: You can do something else between the looks. The times need not be exact, but look at all three slices together.
   - Check: In Hot Dip, Cold Dip, why do all three slices come from one apple? → **So that only the dip is different**
@@ -322,9 +322,9 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
 - **s5 (8 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
   *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. The hot slice and the cold slice were both wet. What did the boiling water do that the cold water did not?  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Tell your grown-up what you guessed, what you saw, and why.
   - Ask: The scratches on the boiled slice stayed pale, though fresh cells were broken. What does that tell you? (good: Whatever makes the brown was destroyed by the heat.; Breaking cells is not enough. Something in the cells must still work.; The boiled slice cannot make brown any more.)
-  - Ask: Name three things that this browning needs. (good: Broken cells.; Something in the apple that still works, the enzyme.; Air, or the oxygen in it.)
+  - Ask: Name three things that a cut apple slice needs to turn brown. (good: Broken cells.; Something in the apple that still works, the enzyme.; Air, or the oxygen in it.)
   - Note: In most kitchens the no-dip slice is clearly brown by 40 minutes. The cold-dip slice is nearly as brown. The hot-dip slice stays pale, and so do its scratches. Write down what you really saw, even if it differs. The reason: apple cells hold an enzyme and some colourless chemicals in separate parts. Cutting mixes them, and the enzyme joins oxygen from the air to the chemicals. That makes the brown. Boiling water destroys the enzyme. Some apples brown slowly. If your no-dip slice is still pale after 40 minutes, repeat the test with a banana or a brinjal.
   - Think: Tea makers heat fresh leaves in a hot pan to make green tea. What does the heat stop?
 ### e2 · The Tawa Toast Test: which bread square browns most? (25 min)
@@ -347,14 +347,14 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
   - Note: Nip one corner off the water square and two corners off the sugar square. Nip three off the milk square. Then you can tell them apart on the tawa.
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* Heat the tawa on a low flame for one minute. Lay the four squares wet side down, each halfway between the middle and the edge. After each minute, lift each square with tongs and show the underside. Your child writes the scores. Put each square back one place further round. Stop after four minutes, or sooner if a square turns dark brown.  
-  *Parent says:* I will lift each square after every minute. Give each one a brown score from 0 to 4. I am moving each square one place round the tawa. Why am I doing that?  
+  *Parent says:* I will lift each square after every minute. Give each one a brown score from 0 to 4. Zero is white and four is dark brown. I move each square one place round the tawa after every look.  
   *Child mode:* Watch from an arm's length away. Score each square every minute.
   - Note: Keep the flame low. The sugar square can go from brown to black quickly, so take it off if it starts to smoke. Listen for the hiss from the wet squares in the first minute.
   - Check: In the Tawa Toast Test, why does each square move one place round every minute? → **Some parts of the tawa are hotter**
 - **s4 (8 min)**  
   *Parent does:* Turn off the stove. Lay the four squares in a row, toasted side up. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
   *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. Compare the water square with the dry square. Then compare the water square with the sugar square and the milk square.  
-  *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
+  *Child mode:* Tell your grown-up what you guessed, what you saw, and why.
   - Ask: The water square stayed pale for the first two minutes. What was the heat doing in that time? (good: Drying the water.; The water was boiling away.; The bread could not get hot until the water was gone.)
   - Ask: The water, sugar and milk squares were all wet. Why did two of them end up browner? (good: Sugar browns in heat.; Milk has sugar and protein in it.; They had more of what browning needs.)
   - Note: Usually the dry square browns first. The water square stays pale longest and ends palest. The sugar and milk squares start late and then turn the darkest. Write down what you really saw, even if it differs. The reason: wet bread stays at about 100 degrees Celsius until the water has boiled away. Heat browning needs a dry surface well above that. Browning is a reaction of sugars with proteins. Sugar water adds sugar. Milk adds both a sugar and proteins. So those squares brown most once they have dried.
@@ -384,7 +384,7 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
   - Wait: Leave the balls under water for 15 minutes
 - **s4 (15 min)**  
   *Parent does:* Your child squeezes and kneads the wheat ball gently under the water. When the water turns white, pour it away through the strainer. Put any bits from the strainer back on the ball. Add fresh water. Repeat until the water stays nearly clear, about five or six times. Then wash the rice ball in the same way.  
-  *Parent says:* Squeeze the ball gently under the water. Look at the water. What is coming out of the dough? Keep the ball in one piece. Now do the same with the rice ball.  
+  *Parent says:* Squeeze the ball gently under the water. Look at the water. Keep the ball in one piece. Now do the same with the rice ball.  
   *Child mode:* Squeeze the wheat ball under water. Change the white water. Then wash the rice ball.
   - Note: Be gentle at first, or the wheat ball breaks into shreds. The shreds join again if you press them together. With atta, the lump is smaller and has brown specks of bran. The rice ball falls apart into white water, and nothing stays in the hand.
   - Check: In Wash the Dough, the washing water turned white. What was the white substance? → **Starch from the flour**
@@ -404,7 +404,7 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
 - **s1 (3 min)**  
   *Parent does:* Give your child a whole, unpeeled onion. Ask the question below first, and write down the guess and the reason. Then they hold the onion about 10 centimetres from their open eyes for 30 seconds.  
   *Parent says:* Cooks cry when they chop onions. Will this whole onion make your eyes sting from close by? Why do you think so? Now hold the onion near your eyes for 30 seconds.  
-  *Child mode:* Will a whole onion sting your eyes? Why? Hold the onion close for 30 seconds.
+  *Child mode:* Hold the whole onion close to your eyes for 30 seconds. Do your eyes sting?
   - Ask: Where do you think the stinging gas is right now? (good: Inside the onion.; Under the skin.; Maybe there is none yet.)
   - Note: A whole onion does not sting and has little smell. Many children expect the gas to be stored inside. Do not correct the guess.
 - **s2 (4 min) · grown-up needed**  
@@ -414,13 +414,13 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
   - Note: The single cut usually gives a faint sting or none. The chopping usually stings within 10 to 40 seconds. If your child does not want stinging eyes, you can be the one who is tested.
 - **s3 (3 min)**  
   *Parent does:* Move away from the board. Ask your child to say what they thought would happen, what happened, and why they think it happened.  
-  *Parent says:* Say what you thought would happen, what happened, and why you think it happened. The whole onion did nothing. The chopped onion stung. Where did the gas come from?  
-  *Child mode:* Say what you thought would happen. Say what happened. Say why.
+  *Parent says:* Say what you thought would happen, what happened, and why you think it happened. Look at what you wrote for the whole, halved and chopped onion. Where did the gas come from?  
+  *Child mode:* Tell your grown-up what you guessed, what happened, and why.
   - Ask: Chopping stung far more than one cut. What is different about chopping? (good: It makes many more cuts.; More of the onion is broken open.; More cells are cut.)
   - Note: A whole onion holds no tear gas. Each cell stores a chemical in one part and an enzyme in another. A knife breaks the cells and the two mix. Within about half a minute they make a gas, and the gas floats up to the eyes. More cuts break more cells, so chopping makes far more gas than one cut.
 ### a2 · Two Katori Dhoklas: with soda and without (35 min)
 - **safety:** A grown-up works at the stove and lifts the hot katoris out of the steam. Wait five minutes before you touch the katoris.
-- **record:** Write the height of the batter in each katori before steaming, and the height of each dhokla afterwards. Draw the cut face of each dhokla, with its holes.
+- **record:** Write the height of the batter in each katori before steaming, and the height of each dhokla afterwards. Draw the cut face of each dhokla with its holes, or count the holes and write the number.
 - **s1 (14 min)**  
   *Parent does:* Mix 6 tablespoons of rava, 4 tablespoons of sour curd, 3 tablespoons of water and 2 pinches of salt. Rest the batter for 10 minutes. Meanwhile, ask the question below and write down the guess and the reason.  
   *Parent says:* We will split this batter in two. One half gets fruit salt, and the other gets nothing. Then both are steamed. How will the two dhoklas differ? Why do you think so?  
@@ -458,7 +458,7 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
   - Wait: Leave both pastes for 10 minutes
 - **s3 (10 min)**  
   *Parent does:* After 10 minutes, your child smells each paste from a hand's width away, raw paste last. Ask them to say what they thought would happen, what they found, and why they think it happened.  
-  *Parent says:* Smell the roasted paste first, and then the raw paste. Say what you thought would happen, what you found, and why you think it happened. Think about the apple slice dipped in boiling water in Hot Dip, Cold Dip. That slice could not turn brown.  
+  *Parent says:* Smell the roasted paste first, and then the raw paste. Say what you thought would happen, what you found, and why you think it happened.  
   *Child mode:* Smell both pastes. Say what you guessed, what you found, and why.
   - Ask: The dry raw powder was mild, and the wet raw paste was sharp. What did the water allow? (good: It let the things in the seed mix and react.; The enzyme needs water to work.)
   - Ask: Why did the roasted paste stay mild? (good: Heat destroyed the enzyme.; It is like the boiled apple slice, which could not brown.)
@@ -467,11 +467,11 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
 ## Projects
 ### p1 · Who Turns Brown? A three-day kitchen survey (30 min, 3 days)
 - **safety:** A grown-up does the cutting. Use only pieces from food that is being cut for a meal, so that nothing is wasted.
-- **record:** Make a table with four columns. Write the food, the brown score at the start and the brown score after 30 minutes. In the last column, write whether the food tastes sour. Score from 0 to 3, as in Hot Dip, Cold Dip.
+- **record:** Make a table with four columns. Write the food, the brown score at the start and the brown score after 30 minutes. In the last column, write whether the food tastes sour. Score from 0 (not brown) to 3 (brown all over).
 - **schedule:** day 1: Test three or more cut foods from today's cooking. Score each at the start and after 30 minutes. (10 min); day 2: Test three or more different foods in the same way. (10 min); day 3: Test the last foods. Then sort all the foods into browners and non-browners and look for a pattern. (10 min)
 - **s1 (10 min)**  
   *Parent does:* Day 1. When food is being cut for a meal, ask for a thumb-sized piece of three or more kinds. Ask for the guess and the reason first. Your child puts the pieces on a plate and scores each from 0 to 3. They score again after 30 minutes.  
-  *Parent says:* In Hot Dip, Cold Dip the plain apple slice turned brown in the air. Which of today's foods will turn brown in 30 minutes? Why do you think so? Score each piece now, and again in 30 minutes.  
+  *Parent says:* A cut apple left in the air turns brown. Which of today's foods will turn brown in 30 minutes? Why do you think so? Score each piece now, and again in 30 minutes.  
   *Child mode:* Which cut foods will go brown? Why? Score each piece now and in 30 minutes.
   - Note: Good foods to try are banana, apple, potato, brinjal, raw banana, guava and pear. Also try tomato, carrot, cucumber, orange, lemon, onion and beetroot.
 - **s2 (10 min)**  
@@ -497,13 +497,13 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
 - **general:** Chill the onion. Put it in the fridge for an hour, or in the freezer for 15 minutes, before cutting.; Use the sharpest knife in the house, so that fewer cells are crushed.; Put a fan beside the board, or chop next to an open window. Moving air carries the gas away.
 - **creative:** Wear swimming goggles, so that the gas cannot reach the eyes.; Peel and halve the onion, and soak the halves in a bowl of water for five minutes before chopping.; Join two methods, such as a chilled onion and a fan together.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* Read the problem together. A grown-up chops half a plain onion from the basket. The watcher counts the seconds from the first cut to the first sting. Write the time down.  
+  *Parent does:* Read the problem together. A grown-up chops half a plain onion from the basket. The watcher, your child, counts the seconds from the first cut to the first sting. Write the time down.  
   *Parent says:* First we need the time for plain chopping. I will chop, and you count the seconds until your eyes sting. This time is what every method must beat.  
   *Child mode:* Count the seconds until your eyes sting. Write the time down.
   - Ask: Why do we time plain chopping before we try any method? (good: We need something to compare with.; Without it we cannot tell whether a method helped.)
 - **s2 (5 min)**  
   *Parent does:* Your child chooses two or three methods to test and says why each might work. If one method needs a cold onion, put the onion in the freezer now for 15 minutes.  
-  *Parent says:* The gas is made by enzymes in broken cells, and it reaches your eyes through the air. Choose two or three methods. For each one, say what it does to the gas.  
+  *Parent says:* The gas is made by enzymes in broken cells, and it reaches your eyes through the air. Choose two or three methods, such as a cold onion, a fan, goggles or your own idea. For each one, say what it does to the gas.  
   *Child mode:* Choose two or three methods. Say why each one might work.
   - Note: A good reason names what the method changes. Cold slows the enzymes. A sharp knife breaks fewer cells. Moving air or goggles keep the gas from the eyes.
 - **s3 (10 min) · grown-up needed**  

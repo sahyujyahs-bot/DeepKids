@@ -560,7 +560,7 @@
      "mins": 3,
      "do": "Cut out the 24 cards and the tokens. Shuffle the cards into a pile. Give each player one set of three tokens.",
      "say": "Each card names something that is in the blood as it reaches a kidney. First ask if it is small enough to pass the filter. If it passes, ask if the body needs it back.",
-     "kid": "Cut out the cards and tokens. Shuffle the cards. Take three tokens.",
+     "kid": "Cut out the cards and tokens. Shuffle the cards. Take three tokens: STOPPED, BACK and OUT.",
      "context": "This is the first step of Stopped, Back or Out. You set up the cards and the tokens."
     },
     {
@@ -827,7 +827,7 @@
    ],
    "safety": "A grown-up heats and pours the hot water. Let the mixture cool until it is just warm before the child handles it. Use drinking water and clean things, because the child tastes one drop from each bowl.",
    "record": "Draw a table with three rows: strainer, cloth and tissue. For each row write yes or no four times: tea leaves, spoon seen, brown colour, salty taste.",
-   "context": "In this experiment you make a mixture of tea, salt and flour. You pour it through a tea strainer, a cloth and a paper tissue, and check what each filter holds back.",
+   "context": "In this experiment you make a mixture of tea, salt and flour. You pour it through a tea strainer, a cloth and a paper tissue, and check what each filter holds back. You will find out which things a filter stops and which slip through, just as in your kidneys.",
    "setup": [
     {
      "art": "A steel tumbler of brown tea with tea leaves at the bottom, and a child stirring in a teaspoon of salt and a teaspoon of flour.",
@@ -900,7 +900,7 @@
      "mins": 5,
      "do": "Let the tea cool until it is just warm. Stir in 1 level teaspoon of atta. Then ask for the guess and the reason for each of the four things. Write them down.",
      "say": "The mixture now holds four things: tea leaves, flour, brown colour and salt. We will pour it through three filters. Which of the four will the tissue hold back? Why do you think so?",
-     "kid": "Stir in the flour. Guess what the tissue will hold back. Say why.",
+     "kid": "Stir in the flour. Guess which of the four things the tissue will hold back.",
      "ask": [
       {
        "q": "Why do you think the tissue will hold that back?",
@@ -956,7 +956,7 @@
      "mins": 5,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. After they have answered, read them the note below.",
      "say": "Look at your table. Say what you thought would happen, what you saw, and why it happened. Which things did no filter hold back?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why.",
+     "kid": "Look at your table. Which things got through every filter?",
      "ask": [
       {
        "q": "Why did the salt pass through every filter?",
@@ -1024,7 +1024,7 @@
     }
    ],
    "record": "A colour chart with four boxes: 1 nearly clear, 2 pale yellow, 3 yellow, 4 dark yellow. A table for each day with the time, the colour shade and the count for every toilet visit.",
-   "context": "In this two-day experiment you record your toilet visits on an ordinary afternoon. The next afternoon you drink two tumblers of water at 3 o'clock and record the visits again.",
+   "context": "In this two-day experiment you record your toilet visits on an ordinary afternoon. The next afternoon you drink two tumblers of water at 3 o'clock and record the visits again. You will find out how fast your body turns a drink into urine.",
    "setup": [
     {
      "art": "A notebook page with four small boxes coloured from nearly clear to dark yellow and numbered 1 to 4.",
@@ -1079,9 +1079,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Day 1. Draw the colour chart with your child: four boxes from nearly clear to dark yellow. Ask for the guess about tomorrow, and the reason. Write both down.",
+     "do": "Day 1. Make the colour chart with your child: colour four boxes from nearly clear to dark yellow, or pick four yellow things at home to match the shades. Ask for the guess about tomorrow, and the reason. Write both down.",
      "say": "Tomorrow at 3 o'clock you will drink two tumblers of water. How many minutes later will you first need the toilet? Will the urine look different? Why do you think so?",
-     "kid": "Draw four shades of yellow. Guess how soon the water comes out. Say why.",
+     "kid": "Colour four shades of yellow, or pick four yellow things. Guess how many minutes until you need the toilet.",
      "ask": [
       {
        "q": "Why do you think it will take that long?",
@@ -1119,7 +1119,7 @@
      "mins": 5,
      "do": "Day 2, after 6 o'clock. Put the two tables side by side. Ask your child to say what they thought would happen, what they saw, and why it happened. Then read them the note below.",
      "say": "Look at both days. Say what you thought would happen, what you saw, and why it happened. How many minutes passed before the first visit on the water day?",
-     "kid": "Say what you thought would happen. Say what you saw. Say why.",
+     "kid": "Look at both tables. Which day had paler urine?",
      "ask": [
       {
        "q": "The water did not come out at once. Where was it during that time?",
@@ -1177,7 +1177,7 @@
     }
    ],
    "record": "A drawing of a body outline with two kidneys, two ureters and a bladder. A yellow line runs from each kidney to the bladder.",
-   "context": "In this activity you find where your two kidneys are, using your thumbs. Then you draw the path that urine takes from the kidneys to the bladder.",
+   "context": "In this activity you find where your two kidneys are, using your thumbs. Then you show the path that urine takes from the kidneys to the bladder. You will find out where your kidneys are hiding.",
    "setup": [
     {
      "art": "A child seen from behind, hands on her waist, thumbs pressed on her back just under her lowest ribs.",
@@ -1226,7 +1226,7 @@
      "mins": 3,
      "do": "Your child draws a body outline. They add two kidneys, a ureter from each one and the bladder. They colour the path of urine yellow.",
      "say": "Draw the two kidneys high in the back. Draw a thin tube from each one down to the bladder. Now trace a sip of water from your mouth to your bladder.",
-     "kid": "Draw two kidneys, two tubes and a bladder. Colour the path yellow.",
+     "kid": "Draw two kidneys, two tubes and a bladder. Colour the path yellow. Or point to them on your own body and tell your grown-up.",
      "ask": [
       {
        "q": "Which way does a sip of water travel to reach your bladder?",
@@ -1273,7 +1273,7 @@
     }
    ],
    "record": "Write three numbers. The first is your guess for the urine an adult passes in a day. The second is the real amount. The third is the teaspoons of urine that come from one litre of filtered liquid.",
-   "context": "In this activity you use a litre bottle and a teaspoon. You see how much of the liquid filtered by the kidneys goes back into the blood.",
+   "context": "In this activity you use a litre bottle and a teaspoon. You see how much of the liquid filtered by the kidneys goes back into the blood. You will find out how little of it becomes urine.",
    "setup": [
     {
      "art": "A full one-litre bottle of water on a table beside a teaspoon, an empty steel tumbler and a bucket.",
@@ -1311,8 +1311,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Hold up the bottle and the tumbler. Talk about the questions below.",
-     "say": "The bottle goes back into the blood. The tumbler leaves the body. Why would the kidneys filter so much, only to take nearly all of it back?",
-     "kid": "The bottle goes back to the blood. Why filter so much?",
+     "say": "The bottle goes back into the blood. The tumbler leaves the body.",
+     "kid": "Point to the part that goes back to the blood. Point to the part that leaves.",
      "ask": [
       {
        "q": "Why filter so much and take almost all of it back?",
@@ -1370,7 +1370,7 @@
     }
    ],
    "record": "A table with five rows: before eating, 5 minutes after, just after brushing, 1 hour after and 2 hours after. Write a smell score from 0 to 3 in each row.",
-   "context": "In this activity one person eats a little raw garlic. A second person smells their breath before and after brushing, and again one and two hours later.",
+   "context": "In this activity one person eats a little raw garlic. A second person smells their breath before and after brushing, and again one and two hours later. You will find out whether the smell sits in the mouth or comes from the blood.",
    "setup": [
     {
      "art": "A grown-up eating a spoon of curd rice with chopped raw garlic on top, while a child holds a notebook.",
@@ -1417,7 +1417,7 @@
      "mins": 4,
      "do": "Look at the five scores. Ask your child to say what they thought would happen, what they found, and why. Then read them the note below.",
      "say": "Look at the five scores. Say what you thought would happen, what you saw, and why it happened. The mouth was clean. So where was the smell coming from?",
-     "kid": "Say what you thought would happen. Say what you found. Say why.",
+     "kid": "Look at the scores. Did brushing take the smell away?",
      "ask": [
       {
        "q": "The mouth was brushed clean. Where could the smell be coming from?",
@@ -1467,7 +1467,7 @@
      "what": "Dry a spoonful of salty water and a spoonful of plain water. Play until you sweat, and taste a drop."
     }
    ],
-   "record": "Draw the two plates after they have dried. Write what was left on each. Write what your own sweat tasted like.",
+   "record": "Take a photo of the two dry plates, or draw them. Write what was left on each. Write what your own sweat tasted like.",
    "context": "In this activity you let a spoonful of salty water dry on a plate. It shows what dried sweat leaves behind. Then you taste a drop of your own sweat.",
    "setup": [
     {
@@ -1589,7 +1589,7 @@
      "mins": 15,
      "do": "Day 1. Collect six packets. On each one, find the nutrition table and the line for sodium. Write the milligrams of sodium in 100 grams. Put the six packets in a row, from least sodium to most.",
      "say": "Salt is made of sodium and chlorine. Labels count the sodium. Before we read them, guess which packet has the most. Then let us find out.",
-     "kid": "Find 'sodium' on six packets. Write the numbers. Line the packets up.",
+     "kid": "Guess which packet has the most sodium. Then find 'sodium' on six packets, write the numbers and line the packets up.",
      "ask": [
       {
        "q": "Which packet surprised you?",
@@ -1657,7 +1657,7 @@
     "Fold the tissue into pleats like a paper fan, so that more tissue fits in one strainer.",
     "Make many small filters from tissue held over tumblers with rubber bands, and pour a little into each."
    ],
-   "your_turn": "Now design your own set-up. Draw it first. Time it with one tumbler of flour water, and do the spoon check. Write your time beside the time of the single tissue filter.",
+   "your_turn": "Now design your own set-up. Show it first, by drawing it or laying out the things. Time it with one tumbler of flour water, and do the spoon check. Write your time beside the time of the single tissue filter.",
    "context": "In this challenge you build a filter that clears flour water quickly. It is the problem each kidney solves with about a million tiny filters working side by side.",
    "setup": [
     {
@@ -1695,16 +1695,16 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Read the problem together. Your child lists ideas for a faster set-up, then chooses one and draws it.",
+     "do": "Read the problem together. Your child lists ideas for a faster set-up, then chooses one and shows it. They can draw it or lay out the real things on the table.",
      "say": "The filter must stay just as fine, so the holes cannot be bigger. What else could you change? List every idea, then choose one.",
-     "kid": "Think of ways to go faster. Keep the holes small. Draw your best idea.",
+     "kid": "Think of ways to go faster. Keep the holes small. Show your best idea. Draw it, or lay out the things.",
      "context": "In this step of Fast and Fine you plan a filter set-up. It must be faster than one tissue filter and just as fine."
     },
     {
      "id": "s3",
      "mins": 8,
      "do": "Your child builds the set-up. Stir a new tumbler of flour water. Start the clock, pour, and stop the clock when all of it is through. Do the spoon check.",
-     "say": "Build it and test it with a new tumbler of flour water. Was it faster than half the first time? Does it pass the spoon check?",
+     "say": "Build it and test it with a new tumbler of flour water. Was it faster than half the first time? Lower a clean spoon to the bottom. Can you still see it? Then it passes the spoon check.",
      "kid": "Build your set-up. Time it. Do the spoon check.",
      "context": "In this step of Fast and Fine you build your filter set-up. You time it with a tumbler of flour water."
     },
@@ -1713,7 +1713,7 @@
      "mins": 5,
      "do": "Compare the two times. Change one thing and try again if there is time. Then talk about the question below.",
      "say": "Which change saved the most time? Each of your kidneys has about a million tiny filters. Why is that better than one big filter?",
-     "kid": "Compare the times. Why does a kidney have a million small filters?",
+     "kid": "Compare the two times. Which change saved the most time?",
      "ask": [
       {
        "q": "Why is a million tiny filters better than one big one?",

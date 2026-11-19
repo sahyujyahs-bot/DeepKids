@@ -637,7 +637,7 @@
    "setup": [
     {
      "art": "A sheet of paper for each player with a large square drawn on it and labelled My Field, a bowl in the middle labelled Pond, and a heap of beans.",
-     "caption": "1. Draw a field for each player. Put a bowl in the middle as the pond. Put 40 beans in a heap."
+     "caption": "1. Give each player a plate for a field. Put a bowl in the middle as the pond. Put 40 beans in a heap."
     },
     {
      "art": "A child placing two beans inside the square on her sheet while hiding it behind her other hand.",
@@ -689,9 +689,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Draw a field for each player. Copy the harvest table where all can see it. Put the bowl in the middle and the beans in a heap.",
+     "do": "Give each player a plate as their field. Copy the harvest table where all can see it. Put the bowl in the middle and the beans in a heap.",
      "say": "You are a farmer. Each bean is one bag of fertiliser. Read the harvest table. How many beans do you think are best to use each season? Why?",
-     "kid": "Draw your field. Read the harvest table. How many beans will you use? Why?",
+     "kid": "Take a plate as your field. Read the harvest table. How many beans will you use? Why?",
      "context": "This is the first step of Feed the Field. You set up the fields, the pond and the harvest table."
     },
     {
@@ -782,7 +782,7 @@
    ],
    "safety": "Do not taste the paints. Crush chalk gently so that the dust does not fly, and wash your hands afterwards. Cover the table with newspaper.",
    "record": "Draw a table with three rows, for paint A, paint B and paint C. Write the dry rub score and the damp wipe score for each paint.",
-   "context": "In this experiment you make three paints from the same colour powder. One has only water, one has rice paste and one has white glue. When they are dry, you rub and wipe them to see which keeps its colour.",
+   "context": "In this experiment you make three paints from the same colour powder. One has only water, one has rice paste and one has white glue. When they are dry, you rub and wipe them to see which keeps its colour. You will find out why paint needs a sticky ingredient.",
    "setup": [
     {
      "art": "Three small steel bowls labelled A, B and C, each holding the same red powder, with a spoon of water, a spoon of white rice paste and a spoon of white glue beside them.",
@@ -859,9 +859,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Rule the card into three rows and label them A, B and C. Paint two stripes in each row. Make each stripe as long as a finger and two fingers wide. Use a different brush for each paint.",
+     "do": "Draw three rows on the card with a ruler and label them A, B and C. Paint two stripes in each row. Make each stripe as long as a finger and two fingers wide. Use a different brush for each paint.",
      "say": "Paint two stripes of each paint. One stripe is for the dry rub, and one is for the damp wipe. Keep the coats thin and even.",
-     "kid": "Rule three rows: A, B and C. Paint two stripes in each row.",
+     "kid": "Draw three rows with a ruler: A, B and C. Paint two stripes in each row.",
      "context": "In this step of Three Paints you paint two stripes of each paint on a brown card."
     },
     {
@@ -902,7 +902,7 @@
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
-       "q": "Paint A had colour, and it spread like paint. What was missing from it?",
+       "q": "Paint A rubbed off easily. What did it not have that B and C had?",
        "good": [
         "Something to stick the powder to the card.",
         "A glue or a binder.",
@@ -965,7 +965,7 @@
    ],
    "safety": "Do not drink the coloured water. Food colour and ink stain clothes, so cover the table with newspaper. This is a model with colour. Never test with real medicine.",
    "record": "Write the number of drops in the pot each time you compare. Beside each number write paler, the same or darker.",
-   "context": "In this experiment a small glass of water stands for a child's body. A big pot stands for a grown-up's body. You give both the same drops of colour, and find how many drops the pot needs to match the glass.",
+   "context": "In this experiment a small glass of water stands for a child's body. A big pot stands for a grown-up's body. You give both the same drops of colour, and find how many drops the pot needs to match the glass. You will find out why a child gets a smaller dose of medicine than a grown-up.",
    "setup": [
     {
      "art": "A clear glass half full of water labelled small body, beside a large steel pot of water labelled big body, with a small bottle of blue food colour between them.",
@@ -1130,7 +1130,7 @@
    ],
    "safety": "A grown-up holds the medicine and keeps it closed. Look at the gas cylinder and the stove without touching the knobs. Do not open or smell paint, nail polish or fertiliser.",
    "record": "Write four lines, one for each find: what it is, what it is for, and what you guess it was made from.",
-   "context": "In this activity you find one fuel, one medicine, one paint and one plant food in your own home. You guess what each was made from, before the unit tells you.",
+   "context": "In this activity you find one fuel, one medicine, one paint and one plant food in your own home. You guess what each was made from, before the unit tells you. You will find out where everyday things come from.",
    "setup": [
     {
      "art": "A child and her mother looking at a red LPG cylinder under a kitchen counter, without touching it.",
@@ -1224,7 +1224,7 @@
     }
    ],
    "safety": "Look at the LPG stove and cylinder without turning any knob. Do not light the candle. A grown-up helps with the scissors if needed.",
-   "record": "Draw a ladder with five rungs. Write LPG, petrol, diesel, candle wax and plastic on the rungs, from the shortest chain to the longest.",
+   "record": "Write LPG, petrol, diesel, candle wax and plastic on five slips of paper. Lay them in a row from the shortest chain to the longest, and take a photo or write the order.",
    "context": "In this activity you collect things made from crude oil and model their molecules with paper strips. It shows why cooking gas, petrol and candle wax are so different, though all three come from one raw material.",
    "setup": [
     {
@@ -1290,9 +1290,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask your child to draw the ladder with five rungs. Then ask the question below.",
-     "say": "Draw the ladder, with the shortest chain on the lowest rung. As the chains get longer, what happens to the substance?",
-     "kid": "Draw the ladder. What changes as the chains get longer?",
+     "do": "Ask your child to write LPG, petrol, diesel, candle wax and plastic on five slips of paper. They lay the slips in a row, shortest chain first. Then ask the question below.",
+     "say": "Lay the slips in a row, with the shortest chain first. As the chains get longer, what happens to the substance?",
+     "kid": "Lay the five slips in order. What changes as the chains get longer?",
      "check": {
       "t": "mcq",
       "q": "What happens to hydrocarbons as their carbon chains get longer?",
@@ -1364,8 +1364,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Lay out the water, tea leaves, milk and sugar. Your child measures the tea leaves with a level teaspoon and writes everything in the IN column. Ask what else goes in that cannot be seen on the table.",
-     "say": "This kitchen is our factory, and tea is the product. Write down every raw material. What else will go in that is not on the table? What do you think will come out besides tea?",
-     "kid": "Write everything that goes in. What goes in that you cannot see? What will come out?",
+     "say": "This kitchen is our factory, and tea is the product. Write down every raw material. What do you think will come out besides tea?",
+     "kid": "Write everything that goes in, in the IN column.",
      "ask": [
       {
        "q": "What goes into making tea that is not on the table?",
@@ -1558,7 +1558,7 @@
     "Knead the coffee into the dough itself, so that it comes out a little at a time. Real slow tablets often hold the medicine inside a solid in this way.",
     "Make two layers with ghee between them. Some real tablets have a coat that the stomach's acid cannot open, so they open only in the intestine."
    ],
-   "your_turn": "Now invent your own slow tablet. It must pass both tests: clear water at 5 minutes, and brown water before 15 minutes. Draw your design, write the time when brown first showed, and write what you would change next.",
+   "your_turn": "Now invent your own slow tablet. It must pass both tests: clear water at 5 minutes, and brown water before 15 minutes. Draw your design, or tell it to your grown-up. Write the time when brown first showed, and write what you would change next.",
    "context": "In this challenge you build a pretend tablet from atta dough and coffee powder. It must keep its colour in for 5 minutes and let it out before 15 minutes. Medicine makers solve the same problem when a medicine must be let out late or slowly.",
    "setup": [
     {

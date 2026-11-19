@@ -619,7 +619,7 @@
      "mins": 3,
      "do": "Count the points. Then sort all 24 cards into three piles by bond.",
      "say": "Sort the cards into three piles: ionic, covalent and metallic. Look at the ionic pile. What do all those materials have in common?",
-     "kid": "Sort the cards into three piles. What is the same in the ionic pile?",
+     "kid": "Sort the 24 cards into three piles by bond.",
      "check": {
       "t": "mcq",
       "q": "Calcium is a metal and fluorine is a non-metal. Which bond joins them?",
@@ -737,7 +737,7 @@
      "mins": 5,
      "do": "Play two practice turns with the cards face up. Build sodium chloride first, then calcium chloride.",
      "say": "Sodium gives away 1 electron, and chlorine takes 1 electron. So one sodium and one chlorine make a set. Calcium gives away 2 electrons. How many chlorine atoms does one calcium need?",
-     "kid": "Sodium gives away 1 electron. Chlorine takes 1 electron. How many chlorines does calcium need?",
+     "kid": "Match the electrons given with the electrons taken.",
      "ask": [
       {
        "q": "Why does one calcium need two chlorines?",
@@ -764,7 +764,7 @@
      "mins": 3,
      "do": "Count the points. Lay the biggest set on the table and count its charges together.",
      "say": "Look at aluminium oxide. Each of the two aluminium atoms gives away 3 electrons. Each of the three oxygen atoms takes 2 electrons. Count the electrons given and the electrons taken. Are they equal?",
-     "kid": "Count the electrons given. Count the electrons taken. Are they equal?",
+     "kid": "Lay out the biggest set. Count its plus and minus charges.",
      "check": {
       "t": "mcq",
       "q": "Magnesium gives 2 electrons. Chlorine takes 1. How many chlorines join one magnesium?",
@@ -836,7 +836,7 @@
    ],
    "safety": "A grown-up lights the candle and holds the spoon over the flame. Tie back long hair. Heat only about ten grains of salt, and keep faces away, because a hot salt grain can crack and jump. The spoon stays hot for some minutes, so put it on the steel plate to cool. Do not taste anything after it has been heated.",
    "record": "Draw a table with three rows: salt, wax and foil. Make three columns: pressed, in water and heated. Write what you saw in each box.",
-   "context": "In this experiment you press, wet and heat three solids: salt, candle wax and aluminium foil. Each one behaves in its own way, and that shows how its atoms hold on to each other.",
+   "context": "In this experiment you press, wet and heat three solids: salt, candle wax and aluminium foil. You will find out how each one behaves, and what that tells you about how its atoms hold on to each other.",
    "setup": [
     {
      "art": "A steel plate with a salt crystal, a pea-sized piece of white wax and a small ball of aluminium foil in a row, and a steel spoon beside them.",
@@ -908,7 +908,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw the table. Put the salt crystal on the plate and cover it with the folded paper. Your child presses hard with the back of a spoon. Lift the paper and look. Do the same with the wax and the foil ball.",
+     "do": "First draw the results table described under Record. Put the salt crystal on the plate and cover it with the folded paper. Your child presses hard with the back of a spoon. Lift the paper and look. Do the same with the wax and the foil ball.",
      "say": "Press as hard as you can, then lift the paper. What happened to the salt? Now press the wax. Now press the foil. Write what you see each time.",
      "kid": "Cover the salt. Press hard with the spoon. Look. Then press the wax and the foil.",
      "parent": "The paper stops pieces flying. A salt crystal cracks with a small snap into pieces with flat sides. With fine salt, press a pinch between two spoons and listen for the crunch.",
@@ -930,7 +930,7 @@
      "mins": 5,
      "do": "Put a quarter teaspoon of salt in the first tumbler. Put a piece of wax in the second and a foil ball in the third. Your child stirs each one 30 times and writes what they see.",
      "say": "Stir each tumbler 30 times. Count aloud. Which solid can you still see? Which one has gone into the water?",
-     "kid": "Put each solid in water. Stir 30 times. Which one can you still see?",
+     "kid": "Put each solid in water. Stir 30 times. Look closely at each tumbler.",
      "parent": "The salt dissolves. The wax floats and the foil ball floats or sinks, and neither changes.",
      "context": "In this step of Three Solids, Three Tests you stir salt, wax and foil in water."
     },
@@ -948,7 +948,7 @@
      "id": "s5",
      "mins": 5,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. Did any two solids behave the same way in all three tests?",
+     "say": "Let us look at our table together. Did any two solids behave the same way in all three tests?",
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -1034,7 +1034,7 @@
    ],
    "safety": "Use only a 9-volt battery. Never use a wall socket or a charger. Do not let the bare ends of the red and black wires touch each other, because the battery gets hot. Do the wet salt test only once, for a count of 20, in a room with a window open. Do not taste the powders after the test. Wash the saucers afterwards.",
    "record": "Draw a table with seven rows: steel spoon, candle, dry sugar, dry salt, plain water, wet sugar and wet salt. Beside each, write many, few or none.",
-   "context": "In this experiment you build a bubble tester from a 9-volt battery and two pencils. You use it to find out which things carry electricity, and whether salt carries it dry or wet.",
+   "context": "In this experiment you build a bubble tester from a 9-volt battery and two pencils. You use it to find out which things carry electricity, and whether salt carries it dry or wet. You will find out why salt needs water to carry electricity.",
    "setup": [
     {
      "art": "Two pencils sharpened at both ends pushed through a cardboard strip that lies across a glass tumbler of water, with their lower tips under the water about two centimetres apart.",
@@ -1101,7 +1101,7 @@
      "mins": 4,
      "do": "Show your child the spoon, the candle, the sugar, the salt and the water. Ask which will carry electricity, and why. Write the guesses down.",
      "say": "We will test seven things. Which do you think will carry electricity? Will dry salt and wet salt be the same? Why do you think so?",
-     "kid": "Guess which things carry electricity. Will dry and wet salt differ? Why?",
+     "kid": "Look at the things on the table. Guess which ones carry electricity.",
      "ask": [
       {
        "q": "Why do you think wet salt will or will not carry electricity?",
@@ -1118,7 +1118,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Push the two pencils through the cardboard, 2 centimetres apart. Rest the cardboard on the tumbler of soda water, with the lower tips under water. Twist the bare end of the red wire round the top tip of one pencil. Wrap one end of the foil ribbon tightly round the top tip of the other pencil. Hold it with the clip. Now touch the free end of the foil to the bare end of the black wire.",
+     "do": "Push the two pencils through the cardboard, 2 centimetres apart. Rest the cardboard on the tumbler of soda water, with the lower tips under water. Twist the bare end of the red wire round the top tip of one pencil. Wrap one end of the foil ribbon tightly round the top tip of the other pencil. Hold it in place with the clothes clip or tape. Now touch the free end of the foil to the bare end of the black wire.",
      "say": "The black wire and the loose end of the foil are our two probes. Touch them together and watch the pencil tips in the water. What do you see? Now pull them apart.",
      "kid": "Touch the two probes together. Watch the pencil tips. Then pull the probes apart.",
      "parent": "Fine bubbles should stream from both lower tips within a few seconds, and stop when the probes part. If not, press the wire and the foil harder against the pencil tips. The soda water is only part of the tester. It stays the same all through.",
@@ -1167,7 +1167,7 @@
      "id": "s6",
      "mins": 5,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Say what you thought would happen, what you saw, and why it happened. What did the water change about the salt?",
+     "say": "Let us look at our table together. What did the water change about the salt?",
      "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
      "ask": [
       {
@@ -1226,7 +1226,7 @@
    ],
    "safety": "Cover the salt with the folded paper before pressing, so that no piece flies towards the eyes.",
    "record": "Write one sentence that begins 'I wonder why'.",
-   "context": "This is a quick activity to start the unit. You press and bend three hard things, and notice that metal changes shape but salt breaks.",
+   "context": "This is a quick activity to start the unit. You press and bend three hard things, and notice that metal changes shape but salt breaks. Then you ask why.",
    "setup": [
     {
      "art": "A child's hands opening a steel paper clip into a straight wire.",
@@ -1245,9 +1245,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Put the paper clip, the foil and the salt crystals on the plate. Ask the question below and write down the guess.",
+     "do": "Put the paper clip, the foil and the salt crystals on the plate. Ask what will happen when each one is pressed or bent. Write down the guesses.",
      "say": "All three of these are hard solids. If you press or bend each one as hard as you can, what will happen? Why do you think so?",
-     "kid": "Look at the clip, foil and salt. What will pressing do? Why?",
+     "kid": "Look at the clip, foil and salt. Make a guess for each one.",
      "context": "This is the first step of Bend or Break. You guess what will happen when you bend a paper clip and press a salt crystal."
     },
     {
@@ -1283,7 +1283,7 @@
      "mins": 2,
      "do": "Ask your child what they noticed and what they wonder. Write down one 'I wonder why' sentence. Do not explain yet.",
      "say": "The clip and the foil changed shape and stayed whole. The salt broke. What do you wonder about that?",
-     "kid": "What did you notice? Say one thing you wonder about.",
+     "kid": "Tell your grown-up one thing you wonder about.",
      "parent": "Keep the sentence. The experiment Three Solids, Three Tests and the model Slide a Row will answer it.",
      "check": {
       "t": "mcq",
@@ -1330,7 +1330,7 @@
      "what": "Build a model of salt and a model of a metal from coins. Slide a row in each, and see which one comes apart."
     }
    ],
-   "record": "Draw the salt model before and after the slide. Circle the places where like charges face each other.",
+   "record": "Take a photo of the salt model before and after the slide, or draw it. Tell your grown-up where like charges face each other.",
    "context": "In this activity you build a flat model of a salt crystal and a metal from 16 coins. Sliding one row shows why salt cracks and metal bends.",
    "setup": [
     {
@@ -1364,7 +1364,7 @@
      "kid": "Count heads and tails. Pick a middle coin. How many opposite neighbours?",
      "ask": [
       {
-       "q": "Which minus ion belongs to this plus ion?",
+       "q": "Which minus ions hold on to this plus ion?",
        "good": [
         "No single minus ion belongs to it more than the others do.",
         "All four hold it equally.",
@@ -1442,7 +1442,7 @@
      "what": "Use paper atoms and chana electrons to act out an ionic, a covalent and a metallic bond. Then draw all three."
     }
    ],
-   "record": "Draw three pictures: salt, water and copper. Show where the outer electrons are in each.",
+   "record": "Take a photo of the three models: salt, water and copper, or draw them. Tell your grown-up where the outer electrons are in each.",
    "context": "In this activity paper circles are atoms and chana are their outer electrons. You move the chana to show the three kinds of bond: giving, sharing and pooling.",
    "setup": [
     {
@@ -1472,7 +1472,7 @@
      "mins": 4,
      "do": "Put the sodium circle and the chlorine circle side by side. Ask your child to move the one chana of sodium onto chlorine. Then write a plus sign on the sodium circle and a minus sign on the chlorine circle.",
      "say": "Sodium holds its outer electron weakly, and chlorine attracts it strongly. Move it across. Sodium has lost a minus charge. What charge does sodium have now? What about chlorine?",
-     "kid": "Move sodium's electron to chlorine. Which atom is plus now? Which is minus?",
+     "kid": "Move sodium's one chana across to chlorine.",
      "ask": [
       {
        "q": "Why do the two ions now hold on to each other?",
@@ -1490,16 +1490,16 @@
      "mins": 4,
      "do": "Lay the oxygen circle so that it overlaps each hydrogen circle a little. In each overlap, put one chana from the hydrogen and one from the oxygen. Count the chana that oxygen can reach, and the chana that each hydrogen can reach.",
      "say": "Oxygen and hydrogen are both non-metals, so neither gives an electron away. They share. Put one electron from each atom in the overlap. How many electrons can oxygen count now?",
-     "kid": "Overlap the circles. Put two electrons in each overlap. Count oxygen's electrons.",
+     "kid": "Overlap the circles. Put one chana from each atom in each overlap.",
      "parent": "Oxygen counts 8, and each hydrogen counts 2, which is a full set for hydrogen. Each shared pair is one covalent bond.",
      "context": "In this step of Give, Share, Pool you make a water molecule by sharing electrons between oxygen and hydrogen."
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "Lay the four Cu circles in a square. Move each one's chana into the space in the middle. Push the chana along with a finger. Then ask your child to draw all three models.",
-     "say": "Each copper atom puts its outer electron into a shared pool. Push the pool along. That flow is an electric current. Now draw salt, water and copper, and show where the electrons are.",
-     "kid": "Pool the copper electrons in the middle. Push them along. Draw all three bonds.",
+     "do": "Lay the four Cu circles in a square. Move each one's chana into the space in the middle. Push the chana along with a finger. Then ask your child to point to the chana in each of the three models and say whose they are.",
+     "say": "Each copper atom puts its outer electron into a shared pool. Push the pool along. That flow is an electric current. Now point to the electrons in the salt, the water and the copper. Whose are they?",
+     "kid": "Pool the copper electrons in the middle. Push them along.",
      "check": {
       "t": "mcq",
       "q": "In which bond do the outer electrons belong to all the atoms together?",
@@ -1538,7 +1538,7 @@
     }
    ],
    "record": "Make three columns: the packet, the ionic compound, and the metal in it. Write at least five rows.",
-   "context": "In this activity you read the labels of things at home and find ionic compounds. Their names usually begin with a metal and end in -ide or -ate.",
+   "context": "In this activity you read the labels of things at home and find ionic compounds, which are made of ions. You will find out which everyday things contain them. Their names usually begin with a metal and end in -ide or -ate.",
    "setup": [
     {
      "art": "A salt packet, a toothpaste tube, an ORS sachet and a bottle of drinking water lined up on a table with their ingredient lists facing forward.",
@@ -1584,9 +1584,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Look at the ORS sachet together. Find the one ingredient that is not ionic. Then ask the question below.",
-     "say": "ORS has salts and one more thing, glucose. Glucose is made of carbon, hydrogen and oxygen atoms. Is it ionic or covalent? Why does the label call the salts electrolytes?",
-     "kid": "Find glucose on the ORS packet. Is it ionic or covalent?",
+     "do": "Look at the ORS sachet together. Find glucose in the list of ingredients.",
+     "say": "ORS has salts and one more thing, glucose. Glucose is made of carbon, hydrogen and oxygen atoms. These are all non-metals. Is glucose ionic, or covalent, where atoms share electrons?",
+     "kid": "Find glucose on the ORS packet.",
      "check": {
       "t": "mcq",
       "q": "Which of these names is an ionic compound?",
@@ -1654,7 +1654,7 @@
     }
    ],
    "record": "Make a table with four columns: the thing, its atoms, my prediction, and the bubbles I saw. Write one row for plain water and one for each of the six things.",
-   "context": "In this two-day project you predict which kitchen powders and liquids are made of ions, and then test them. You use the bubble tester from the experiment Dry Salt, Wet Salt. In that experiment, wet salt made the tester bubble and wet sugar did not.",
+   "context": "In this two-day project you predict which kitchen powders and liquids are made of ions, and then test them. You will find out whether the rule about ions works. You use the bubble tester from the experiment Dry Salt, Wet Salt. In that experiment, wet salt made the tester bubble and wet sugar did not.",
    "setup": [
     {
      "art": "A notebook table with rows for salt, cooking soda, sugar, glucose, lemon juice and vinegar, and a column of predictions written as yes or no.",
@@ -1673,7 +1673,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "Day 1. Draw the table. Read out the atoms in each thing from the note below. Your child writes them, then predicts yes or no for each: will it carry electricity in water?",
+     "do": "Day 1. Draw the results table described under Record. Read out the atoms in each thing from the note below. Your child writes them, then predicts yes or no for each: will it carry electricity in water?",
      "say": "Use this rule. A metal atom with non-metal atoms makes an ionic compound, and ions carry electricity in water. Non-metal atoms alone make molecules, which carry no electricity. Write yes or no for each thing, and say why.",
      "kid": "Write the atoms in each thing. Predict yes or no. Say why.",
      "parent": "Salt is made of sodium and chlorine atoms. Cooking soda is made of sodium atoms with hydrogen, carbon and oxygen atoms. Sugar, glucose, lemon juice and vinegar are all made of carbon, hydrogen and oxygen atoms.",
@@ -1702,7 +1702,7 @@
      "mins": 7,
      "do": "Compare the results with the predictions. Ask your child to say what they predicted, what they found, and why they think it happened. Then read the note below.",
      "say": "Which predictions were right? Which were wrong? Lemon juice and vinegar have no metal atoms. What might be happening to their molecules in water?",
-     "kid": "Which guesses were right? Which thing surprised you? Why might that be?",
+     "kid": "Compare each guess with what the tester showed.",
      "ask": [
       {
        "q": "The rule said lemon juice has only non-metal atoms. The tester still bubbled. What does that tell you about the rule?",
@@ -1750,7 +1750,7 @@
     "Add a second pair of probes halfway up. Then the tester can tell you 'half full' as well as 'full'.",
     "Use a plastic bottle as the tank and push the probes in through two small holes at the line. Seal the holes with wax."
    ],
-   "your_turn": "Now invent your own alarm. It must pass all four tests. It stays quiet below the line, and it bubbles at the line. It stops after you pour water out. Its probes never touch. Draw your design. Write which part of the circuit the tank water completes, and what in the water carries the electricity.",
+   "your_turn": "Now invent your own alarm. It must pass all four tests. It stays quiet below the line, and it bubbles at the line. It stops after you pour water out. Its probes never touch. Draw your design, or just show it and explain it. Say which part of the circuit the tank water completes, and what in the water carries the electricity.",
    "context": "In this challenge you build an alarm that tells when a tank is full. It uses what you found in the experiment Dry Salt, Wet Salt. Water with dissolved salt carries electricity, because its ions can move.",
    "setup": [
     {
@@ -1772,7 +1772,7 @@
      "mins": 4,
      "do": "Read the problem together. Let your child hold both probes in the empty tank and then pour water in without a plan.",
      "say": "First, just hold the probes in the tank and pour. When do the bubbles start? Is that at the line? What must you change?",
-     "kid": "Hold the probes in the tank. Pour water in. When do bubbles start?",
+     "kid": "Hold the probes in the tank. Pour water in slowly.",
      "ask": [
       {
        "q": "What decides the moment the bubbles start?",
@@ -1812,9 +1812,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child to draw the final design and explain it. Ask the question below.",
-     "say": "Draw your alarm. Show the path the electricity takes. Which part of the path is the tank water? What in the water carries the electricity?",
-     "kid": "Draw your alarm. Show the path of the electricity.",
+     "do": "Ask your child to draw the final design, or to show it and trace the path with a finger, and explain it. Ask the question below.",
+     "say": "Show me your alarm, drawn or built. Trace the path the electricity takes. Which part of the path is the tank water? What in the water carries the electricity?",
+     "kid": "Draw your alarm, or trace the path of the electricity with a finger.",
      "check": {
       "t": "mcq",
       "q": "What carries the electricity through slightly salty tank water?",

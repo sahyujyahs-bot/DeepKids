@@ -279,7 +279,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **s2 (3 min)**  
   *Parent does:* Find the card 'A wooden spoon'. Play it together as a practice round.  
   *Parent says:* Let's practise. A wooden spoon. Is it alive? Was it ever made by living cells?  
-  *Child mode:* Practice card: a wooden spoon. Which mat does it go on?
+  *Child mode:* Practice card: a wooden spoon.
   - Ask: Where did the wood come from? (good: From a tree.; A tree was alive, and wood is made of their cells' walls.)
   - Check: A wooden spoon. Which mat? → **Cells that were once alive**
 - **s3 (10 min)**  
@@ -291,32 +291,32 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **s4 (3 min)**  
   *Parent does:* When a TEST IT card comes up, everyone does the test.  
   *Parent says:* Do the test on the card. Look closely. What do you see? If you cannot see cells, why not?  
-  *Child mode:* Do the test on the TEST IT card. Look closely. What do you see?
+  *Child mode:* Do the test on the TEST IT card.
   - Ask: Why can't we see cells with a magnifier? (good: They are too small.; The magnifier is not strong enough.; There are too many layers on top of each other.)
   - Check: A grain of salt under the magnifier looks like a little cube. Is the cube a cell? → **No, salt was never alive, so it has no cells**
 - **s5 (2 min)**  
   *Parent does:* Count your points. Then look at each mat together.  
   *Parent says:* Look at the 'once alive' mat. What do all these cards have in common?  
-  *Child mode:* Count your points. Look at the 'once alive' mat. What do all these cards have in common?
+  *Child mode:* Count your points. Then look at the 'once alive' mat.
   - Think: Is there a card you are still unsure about? Ask two questions. Was it ever alive? Is it made from the cells of a living thing?
 ### g2 · Run and Tumble: be a bacterium (15 min)
 - **rules:** One player is the bacterium. They close their eyes or wear a loose cloth over them.; The food hider hides a piece of food, like a cut lemon or a sweet, somewhere in the room.; The bacterium takes 3 steps forward in a straight line. This is a 'run'.; After each run, the food hider says 'stronger' if the bacterium is now closer to the food than before the run, or 'weaker' if further away. After the first run, compare with the starting spot.; If it is stronger, the bacterium runs again the same way. If it is weaker, the bacterium tumbles: they spin slowly on the spot, stop, and set off facing a new way. A wall or a piece of furniture counts as weaker.; Count the runs it takes to touch the food. Then swap.
 - **Printable score sheet: Runs to reach the food:** Game 1 runs: ___; Game 2 runs: ___; Game 3 runs: ___
 - **s1 (2 min) · grown-up needed**  
-  *Parent does:* 1. Clear a space with nothing to trip on. 2. Hide the food somewhere at floor or table height. 3. Gently cover the bacterium's eyes, or ask them to keep them shut.  
+  *Parent does:* 1. Clear a space with nothing to trip on. 2. Hide the food somewhere at floor or table height (a lemon works well). 3. Gently cover the bacterium's eyes, or ask them to keep them shut.  
   *Parent says:* A bacterium is one tiny cell. They have no eyes and no brain. Yet they find food. Let's find out how, by being one.  
   *Child mode:* You are a bacterium. You are one cell. You have no eyes. Can you find the food?
   - Note: Move chairs and sharp corners away, and walk beside the child. A slow spin is enough for the tumble.
 - **s2 (8 min)**  
-  *Parent does:* Play the game. After each 3-step run, say 'stronger' or 'weaker'. Count the runs.  
+  *Parent does:* Play the game. After each 3-step run, the player who hid the food says 'stronger' (closer) or 'weaker' (further away). Count the runs.  
   *Parent says:* Run 3 steps. Stronger or weaker? Remember what it was a moment ago.  
   *Child mode:* Take 3 steps. Wait for 'stronger' or 'weaker'. Stronger? Keep going. Weaker? Spin and try a new way.
   - Ask: To know if the smell is stronger, what does the bacterium have to remember? (good: How strong it was before.; What it smelled a moment ago.)
   - Check: A bacterium runs, and the food smell gets weaker. What do they do? → **Tumbles and sets off in a new direction**
 - **s3 (3 min)**  
-  *Parent does:* Hide the food in a new place and play twice more. Write the number of runs each time on the score sheet.  
+  *Parent does:* Hide the food in a new place and play twice more. Count the runs each time.  
   *Parent says:* Did you get better? Why might the bacterium sometimes take a long time?  
-  *Child mode:* Play again. Count your runs. Did you get faster?
+  *Child mode:* Play again. Count your runs.
   - Think: In the game, you only needed to remember how strong the smell was a moment ago. Why is a short memory enough?
 - **s4 (2 min)**  
   *Parent does:* Ask your child to say three sentences: what I think, what I saw, why.  
@@ -328,7 +328,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 ### e1 · Onion Skin: is an onion made of tiny rooms? (30 min)
 - **problem:** Long ago, Robert Hooke saw tiny rooms called cells in a slice of cork. Is an onion made of tiny rooms like that too? You look at onion skin through stronger and stronger magnifiers to find out.
 - **question:** Is an onion one smooth thing, or is it made of tiny pieces?
-- **predict:** Before you look, draw what you think you will see when the onion skin is made 10 times bigger, and say why you think so. Then draw what you think you will see at 100 times bigger.
+- **predict:** Before you look, say what you think you will see when the onion skin is made 10 times bigger, and why. Then say what you think you will see at 100 times bigger.
 - **fair test:** Look at the same piece of onion skin with each tool, in the same light, so only the magnifier changes. Look for at least one minute with each, because eyes take time to settle.
 - **safety:** A grown-up cuts the onion. Iodine stains skin and cloth and must not be swallowed, so a grown-up adds it. Wash hands after.
 - **record:** Fill in the table. Draw the onion skin at the strongest magnification you have. Label one cell, one wall and, if you saw one, a nucleus.
@@ -336,7 +336,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* Show your child a whole onion. Cut it in half. Let them feel a layer.  
   *Parent says:* This onion looks like one smooth thing. Is it? Or is it made of tiny pieces we cannot see? What do you think?  
-  *Child mode:* Look at the onion. Feel a layer. Is it one smooth thing, or made of tiny pieces? Draw your guess.
+  *Child mode:* Look at the onion. Feel a layer. Then tell your guess.
   - Ask: What do you think the onion is made of, if we zoom in? (good: Tiny pieces.; Lines or boxes.; I don't know, let's find out.)
 - **s2 (5 min)**  
   *Parent does:* 1. Snap one layer of onion backwards. 2. A thin, see-through skin hangs from the inside. Pull off a piece about the size of a stamp. 3. Lay it flat on the slide. 4. Add one drop of water. Smooth out any folds with a toothpick.  
@@ -346,7 +346,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **s3 (8 min)**  
   *Parent does:* 1. Look at the skin with your eyes alone, then with a hand lens if you have one. 2. Put a tiny drop of water, the size of a mustard seed, on the phone's main camera lens. 3. Hold the onion skin against a bright window, or over a torch. 4. Bring the phone's lens very close, about 2 to 3 millimetres from the skin, without letting the drop touch it. Tap the screen to focus, and take a photo. 5. Zoom in on the photo.  
   *Parent says:* What changes as we use a stronger lens? When do you first see separate shapes?  
-  *Child mode:* Look with just your eyes. Then use the phone with a water drop. Hold the skin up to the light. When do you first see shapes?
+  *Child mode:* Look with just your eyes. Then use the phone with a water drop. Hold the skin up to the light.
   - Note: What to expect. With eyes alone or a hand lens, you will see a clear sheet, perhaps with faint lines. With the phone and a water drop, you will usually see faint, blurry rows of long boxes. It can take several tries. If it stays blurry, move the phone a little closer or further away, use a smaller drop, put more light behind the skin, and hold the phone very still. Use the main camera at normal zoom, because some phones switch to another lens when you zoom in. A Foldscope or toy microscope shows the boxes clearly.
   - Check: Under a strong lens, the onion skin shows long boxes fitted side by side. What are they? → **Cells, the tiny living pieces the onion is made of**
 - **s4 (5 min) · grown-up needed**  
@@ -355,9 +355,9 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   *Child mode:* A grown-up adds one drop of iodine or blue ink. Wait a minute. Look again. Can you see a dark dot inside a box?
   - Note: The stain makes the cells' edges darker. The dark dot, the nucleus, is often too small for a phone and water drop. That is normal. A Foldscope or microscope shows it.
 - **s5 (5 min)**  
-  *Parent does:* Your child draws one patch of cells, as big as a page. Label a cell and a wall, and a nucleus if you saw one.  
+  *Parent does:* Your child draws one patch of cells, as big as a page. Label a cell, a wall, and a nucleus (the dark dot inside) if you saw one. If they would rather not draw, they take a photo and point to a cell.  
   *Parent says:* Draw what you see, not what you think you should see. Make it big.  
-  *Child mode:* Draw what you see. Make it big. Label one cell and one wall.
+  *Child mode:* Draw what you see, big. Label one cell and one wall. Or take a photo and point to a cell.
   - Think: Every onion in the market is built of these cells. Your drawing shows one tiny patch. What does that tell you about how many cells a whole onion has?
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three sentences: what I think, what I saw, why.  
@@ -367,7 +367,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 ### e2 · Cheek Cells: are you made of tiny rooms too? (25 min)
 - **problem:** An onion is a plant, and you are an animal. Onion skin is made of cells. In this experiment you look at cells from the inside of your own cheek. Are you made of cells too, and do they look like onion cells?
 - **question:** Are my cells like onion cells, or different?
-- **predict:** Draw what you think your cheek cells will look like. Will they be boxes, like onion cells? Why do you think so?
+- **predict:** Say what you think your cheek cells will look like. Will they be boxes, like onion cells? Why do you think so?
 - **fair test:** Use the same stain and the same microscope with the same light for both, so any difference comes from the cells, not the tools. If you used iodine on your onion in the Onion Skin experiment, stain a fresh piece of onion skin with the stain you use for your cheek.
 - **safety:** Scrape gently, only your own cheek, with a new stick. Never share sticks. Throw them away and wash your hands after.
 - **record:** Fill in the table with rows for shape, edges, the dark dot and colour. Draw a cheek cell next to an onion cell.
@@ -375,7 +375,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **s1 (3 min)**  
   *Parent does:* Show your child their onion drawing. Hand them a new, clean stick.  
   *Parent says:* Your onion was made of cells. Are you? Let's look at the inside of your cheek. It sheds old cells all the time, and a gentle scrape just collects some. It doesn't hurt.  
-  *Child mode:* Remember the onion cells? Now let's look at you. The inside of your cheek is always shedding cells.
+  *Child mode:* Remember the onion cells? Are you made of cells too?
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. Your child gently rubs the flat end of the stick on the inside of their cheek, 5 times. 2. They smear the stick on the middle of the slide. 3. Add one drop of blue ink. 4. Put a coverslip or plastic square on top.  
   *Parent says:* Gently, like brushing a feather across your skin. Five times. Now smear it on the glass.  
@@ -388,9 +388,9 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   - Note: Cheek cells are clear and thin, so they are hard to find. Use the stain and plenty of light. If you have no microscope, still make the smear. The faint blue haze on the slide is thousands of your cells. They are flat and roundish, like fried eggs.
   - Check: How are your cheek cells different from onion cells? → **They are soft, flat and round-ish, with no stiff wall**
 - **s4 (5 min)**  
-  *Parent does:* Your child draws a cheek cell next to an onion cell and fills in the table.  
-  *Parent says:* What is the same about your cells and the onion's? What is different?  
-  *Child mode:* Draw your cell next to an onion cell. What is the same? What is different?
+  *Parent does:* Your child draws a cheek cell next to an onion cell and fills in the table. If they would rather not draw, they point to each cell and tell what they see.  
+  *Parent says:* Put your cheek cell and the onion cell side by side. Let's compare them.  
+  *Child mode:* Draw your cell next to an onion cell. Or point and tell how they look.
   - Ask: What is the same? (good: Both are cells.; Both have a dark dot.; Both are very tiny.)
   - Ask: What is different? (good: Onion cells are boxes, mine are floppy.; Onion cells have walls.; Mine are rounder.)
 - **s5 (5 min)**  
@@ -403,18 +403,18 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **predict:** Which of the three bowls do you think will turn into curd by morning? Why do you think so?
 - **fair test:** Use the same milk, the same amount in each bowl, and the same warm place for the same time. Only change what you add. Use a clean spoon for each bowl, so no living curd gets into bowl C by mistake.
 - **safety:** A grown-up boils the milk and the curd. Hot milk burns. Bowl A is ordinary curd and can be eaten. Pour bowls B and C away.
-- **record:** Fill in the table for all three bowls. Draw each bowl, tilted, to show if it is thick or runny.
+- **record:** Fill in the table for all three bowls. Write thick or runny for each, or take a photo of each bowl tilted.
 - **results table:** Bowl | What I added | Next morning: thick or runny? | How it smells
 - **schedule:** day 1: Boil one spoon of curd. Set up three bowls of lukewarm milk: A with living curd, B with nothing, C with the boiled curd. Boil the milk earlier, so it has time to cool. (18 min); day 2: Check the three bowls. Fill in the table. Say what you think, what you saw, and why. (7 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child a bowl of curd and a cup of milk.  
   *Parent says:* To make curd, we stir a spoon of old curd into warm milk. Why do you think we need the old curd? What do you think is in it?  
-  *Child mode:* Look at the curd and the milk. We add old curd to milk to make curd. Why? What is in it?
+  *Child mode:* Look at the curd and the milk. We add a spoon of old curd to milk to make new curd.
   - Ask: What do you think is in the old curd that turns milk into curd? (good: Something alive.; Tiny living things.; Bacteria.; I don't know, let's find out.)
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. A grown-up puts 1 spoon of curd in a small steel vessel. 2. Heat it on a low flame, stirring, until it bubbles, and let it bubble for half a minute. 3. Let it cool for a few minutes. 4. Label three bowls A, B and C with tape.  
   *Parent says:* I am boiling this spoon of curd. Do you think boiled curd can still turn milk into curd? Why do you think so?  
-  *Child mode:* A grown-up boils one spoon of curd. Then it cools. Can boiled curd still make curd? Why do you think so?
+  *Child mode:* A grown-up boils one spoon of curd. Watch it bubble. Then it cools.
   - Note: Boiled curd splits into lumps and watery whey. That is fine. Let it cool before it goes into the milk.
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* 1. Pour the lukewarm milk into the three bowls, about half a cup each. 2. Bowl A: stir in 1 spoon of curd with a clean spoon. 3. Bowl B: add nothing. 4. Bowl C: stir in the boiled curd with another clean spoon. 5. Cover all three, and keep them together in a warm place overnight.  
@@ -437,7 +437,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 ## Activities
 ### a1 · Zoom Walk: what do things look like up close? (15 min)
 - **safety:** Never look at the Sun through a magnifier. It can burn your eyes.
-- **record:** Draw 4 of the things, once as your eye sees them and once as the magnifier shows them.
+- **record:** Write the names of the things in each pile. Draw one thing twice if you like: once as your eye sees it and once as the magnifier shows it.
 - **s1 (2 min)**  
   *Parent does:* Put 8 things on a tray: a leaf, a pinch of salt, a pinch of sugar and a piece of cloth. Add a strand of hair, a piece of paper and a slice of tomato. The eighth thing is your own fingertip.  
   *Parent says:* We're going to be zoom explorers. First, just look with your eyes. What do you notice?  
@@ -445,13 +445,13 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **s2 (8 min)**  
   *Parent does:* Look at each thing with the magnifier. Take turns saying one thing you notice and one thing you wonder.  
   *Parent says:* What do you notice now? What do you wonder?  
-  *Child mode:* Look with the magnifier. Say one thing you notice. Say one thing you wonder.
+  *Child mode:* Look with the magnifier. Say one thing you notice and one thing you wonder.
   - Ask: Which things look like they are made of tiny pieces? (good: The tomato.; The leaf.; The salt has cubes.; The cloth has threads.)
   - Note: Good things to hear: the leaf has a net of lines, the tomato has tiny shiny bags, salt is little cubes, the cloth is woven threads. Don't explain cells yet. Just collect wonderings.
 - **s3 (5 min)**  
-  *Parent does:* Your child draws 4 things, by eye and by magnifier.  
-  *Parent says:* Which of these were once alive? Do they look different up close from the things that were never alive?  
-  *Child mode:* Draw 4 things, by eye and up close. Which ones were once alive?
+  *Parent does:* Your child sorts the 8 things into two piles: made by a living thing (a leaf, hair, tomato, paper, cloth, your fingertip) and never alive (salt, sugar). Then look at one thing from each pile again with the magnifier.  
+  *Parent says:* Which of these are alive or were once alive? Look at one thing from each pile with the magnifier. Do they look different up close?  
+  *Child mode:* Sort the things into two piles: alive or once alive, and never alive.
   - Think: Hooke saw tiny rooms in cork. If you zoomed in on the leaf or the tomato 100 times more, what do you think you would see?
 ### a2 · Make a Water-Drop Magnifier (15 min)
 - **record:** Write down which drop made the letters biggest: a small drop or a big drop.
@@ -461,34 +461,34 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
   *Child mode:* Put one drop of water on the plastic. Hold it over a newspaper. What happens to the letters?
 - **s2 (4 min)**  
   *Parent does:* Try a big flat drop and a tiny round drop. Compare them.  
-  *Parent says:* Which makes letters bigger: the big flat drop or the tiny round one? Why might that be?  
-  *Child mode:* Try a big drop and a tiny drop. Which makes letters bigger?
+  *Parent says:* Look at the same letter under each drop. What is different?  
+  *Child mode:* Try a big drop and a tiny drop on the newspaper.
   - Check: Which drop makes letters look bigger? → **The tiny, very round drop**
 - **s3 (5 min) · grown-up needed**  
-  *Parent does:* With a grown-up, put one tiny drop of water right on the phone's main camera lens. Turn the phone over carefully and open the camera. Hold it 2 to 3 millimetres from a leaf or onion skin, without touching it.  
+  *Parent does:* With a grown-up, put one tiny drop of water right on the phone's main camera lens. Open the camera first, then put the drop on the lens while it faces up. Turn the phone over carefully, so the drop hangs on the lens. Hold it 2 to 3 millimetres from a leaf or onion skin, without touching it.  
   *Parent says:* Our phone is now a microscope! What can you see that you couldn't before?  
   *Child mode:* With a grown-up, put a tiny drop on the phone camera. Look at a leaf very close.
   - Note: Hold the phone lens-up while adding the drop, then turn it over gently. A drop the size of a mustard seed clings best. Tap to focus. Phone cameras differ, and some stay blurry. Wipe the lens dry afterwards.
 - **s4 (2 min)**  
   *Parent does:* Ask your child why a drop of water makes things bigger.  
   *Parent says:* Why do you think a drop of water can be a lens?  
-  *Child mode:* Why does a drop of water make things look bigger?
+  *Child mode:* Think about the round shape of the drop. Tell your idea.
   - Ask: Why does the drop magnify? (good: It is curved.; It bends the light.; It is clear and round like a lens.)
 ### a3 · The Size Ladder: from you to a cell (20 min)
 - **problem:** Cells are too small to picture. A size ladder helps. Each step down the ladder is 10 times smaller than the step above. You build a ladder from you down to a cell.
 - **record:** Your ladder has 7 steps. Under each, write how big it is.
 - **s1 (5 min)**  
-  *Parent does:* Draw seven boxes down the paper strip. In box 1, draw your child. Write 'about 1 metre'.  
+  *Parent does:* Draw seven boxes down the paper strip. In box 1, your child draws themselves, or writes 'me'. Write 'about 1 metre'.  
   *Parent says:* We're going down a ladder. Each step is 10 times smaller than the last. Step one is you.  
-  *Child mode:* Draw 7 boxes. In box 1, draw yourself. Write: about 1 metre.
+  *Child mode:* Draw 7 boxes. In box 1, draw yourself or write 'me'. Write: about 1 metre.
 - **s2 (8 min)**  
   *Parent does:* Fill in boxes 2 to 4 together: a hand (10 centimetres), a big black ant (1 centimetre), a mustard seed (1 millimetre). Use the ruler to check each.  
-  *Parent says:* Ten of your hands would stretch about as tall as you. Ten big ants would line up along your hand. Ten mustard seeds would line up along a big ant.  
+  *Parent says:* Each box is 10 times smaller than the one above. Ten of your hands would stretch about as tall as you.  
   *Child mode:* Box 2: a hand, 10 cm. Box 3: a big ant, 1 cm. Box 4: a mustard seed, 1 mm.
   - Ask: How many big ants would fit along your hand? (good: About 10.)
 - **s3 (5 min)**  
   *Parent does:* Fill in boxes 5 to 7: an onion cell (a tenth of a millimetre), a red blood cell (a hundredth of a millimetre), a bacterium (a thousandth of a millimetre).  
-  *Parent says:* From here on, things are too small to see clearly without a lens. Ten onion cells fit along a mustard seed. Your cheek cells fit between box 5 and box 6.  
+  *Parent says:* From here on, things are too small to see clearly without a lens.  
   *Child mode:* Box 5: an onion cell. Box 6: a red blood cell. Box 7: a bacterium.
   - Check: About how many onion cells fit side by side across one mustard seed? → **About 10**
 - **s4 (2 min)**  
@@ -500,37 +500,37 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **record:** Keep both drawings side by side, with the dates.
 - **schedule:** day 1: Draw what you think is inside you, as deep as you can imagine. (7 min); day 2: After seeing cells, draw it again. Compare the two drawings. (8 min)
 - **s1 (7 min)**  
-  *Parent does:* Your child draws an outline of their body and fills in what they think is inside. Add a zoom circle: 'If we zoomed into my finger, what would we see?'  
+  *Parent does:* Your child draws an outline of their body and fills in what they think is inside. Add a zoom circle. Ask what we would see if we zoomed into the finger. If they would rather not draw, they tell you and you write.  
   *Parent says:* Draw what you think you are made of. Go as deep as you can. What is under your skin? What is under that?  
-  *Child mode:* Draw yourself. Fill in what is inside. Draw a zoom circle on your finger. What is in there?
+  *Child mode:* Draw yourself and what is inside. Add a circle showing what is inside your finger. Or tell your grown-up and they write it down.
   - Note: Do not correct anything. This drawing shows your child's starting idea.
 - **s2 (8 min)**  
   *Parent does:* After the cell experiments (the Onion Skin experiment, and the Cheek Cells experiment if you did it), your child draws again and compares the two drawings.  
   *Parent says:* What is new in your second drawing? What changed your mind?  
-  *Child mode:* Draw yourself again. What is new? What changed your mind?
+  *Child mode:* Draw yourself again, or tell your grown-up what you would add.
   - Ask: What changed in your drawing? (good: I added cells.; The zoom circle has tiny rooms now.; Everything is made of cells, even bones.)
   - Wait: Do this after the cell experiments.
 ### a5 · Cells You Can Almost See: tomato, cotton and leaf peel (20 min)
 - **safety:** A grown-up cuts the tomato.
-- **record:** Draw the three kinds of cells. Write one word for each shape.
+- **record:** Write one word for the cell shape of the tomato, the cotton and the leaf. Draw one if you like, or take a photo.
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* Spread a little ripe tomato pulp on a plate. Look with the hand lens.  
   *Parent says:* See those shiny little bags? Each one is a single tomato cell, full of juice.  
   *Child mode:* Look at the tomato pulp. Can you see tiny shiny bags? Each one is a cell!
 - **s2 (6 min)**  
   *Parent does:* Pull one single fibre from the cotton wool. Lay it on the dark paper and look with the lens.  
-  *Parent says:* This whole thread is just one cell. Cotton plants grow these long cells on their seeds.  
-  *Child mode:* Pull out one cotton fibre, a single hair of cotton. Look at it. The whole fibre is one cell!
-  - Check: A single cotton fibre is… → **one long cell**
+  *Parent says:* Cotton plants grow these long threads on their seeds. Look closely at one.  
+  *Child mode:* Pull out one cotton fibre, a single hair of cotton. Look at it closely.
+  - Check: What is a single cotton fibre? → **one long cell**
 - **s3 (6 min)**  
   *Parent does:* If you have a Rhoeo or another leaf that peels, tear it at a slant so a thin, coloured skin comes off. Lay it on a slide or plate with a drop of water. Look with the strongest lens you have. If nothing peels, look at the torn edge instead.  
-  *Parent says:* Do you see little shapes fitted together? Leaves also have tiny paired openings, called stomata, that let air in. You need a microscope to see those.  
+  *Parent says:* Do you see little shapes fitted together?  
   *Child mode:* Tear the leaf at a slant. Find the thin skin. Look closely. Do you see shapes fitted together?
   - Note: With a hand lens you will see only the leaf's colour and veins. A phone with a water drop may show a faint pattern of shapes, best on a purple Rhoeo peel. Stomata need a Foldscope or microscope.
 - **s4 (2 min)**  
-  *Parent does:* Lay out the three drawings side by side.  
+  *Parent does:* Lay out the tomato pulp, the cotton fibre and the leaf skin side by side. Group them by cell shape.  
   *Parent says:* Which cells were round? Which were long? Which were like tiles?  
-  *Child mode:* Look at your three drawings. Round, long or tiles?
+  *Child mode:* Put each one in a group: round, long or tiles.
   - Think: A tomato cell holds juice, and a cotton cell is a long hair. Why might each cell have the shape that suits its job?
 
 ## Projects
@@ -541,72 +541,72 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **s1 (15 min)**  
   *Parent does:* Make the atlas cover together. Then do the onion page, using what you learned in the Onion Skin experiment (do that experiment first if you have not). Last, put a few torn spinach or coriander leaves in a jar of water. Cover it loosely and leave it by a window until day 5.  
   *Parent says:* Scientists keep notebooks of everything they see. This is your cell atlas. Let's start with the onion.  
-  *Child mode:* Make your atlas cover. Then draw your onion cells on page 1.
+  *Child mode:* Make your atlas cover. Then put your onion cells on page 1: draw them or stick in a photo.
 - **s2 (10 min)**  
   *Parent does:* On day 2, peel a thin skin from a leaf. If the leaf will not peel, look at a torn edge instead. Look, draw and write.  
   *Parent says:* How are these leaf cells like the onion cells? How are they different?  
-  *Child mode:* Peel a leaf skin. Look. Draw. Write one fact.
+  *Child mode:* Peel a leaf skin. Look closely. Draw it or stick in a photo. Write one fact.
   - Note: Only some leaves peel, and Rhoeo works best. A phone with a water drop may show a faint pattern of shapes. If you see none, draw what you do see and write that the cells are too small for this lens.
   - Wait: Day 2.
 - **s3 (10 min)**  
   *Parent does:* On day 3, put a tiny dab of curd with a drop of water on a slide. Look with the strongest lens.  
-  *Parent says:* Curd is full of bacteria. They are much smaller than onion cells. Can you see tiny dots or rods?  
-  *Child mode:* Look at a tiny dab of curd. Can you find tiny dots or rods? Those are bacteria.
+  *Parent says:* Curd is full of bacteria. They are much smaller than onion cells, so you may see only tiny dots, or nothing at all. Do you see any dots?  
+  *Child mode:* Look at a tiny dab of curd. Any tiny dots may be bacteria. If you see none, that is an answer too: bacteria are very small.
   - Note: With a Foldscope you may just see tiny specks that jiggle. With a hand lens or a phone you will not see bacteria. That is a good result: it shows how tiny they are.
   - Wait: Day 3.
 - **s4 (10 min) · grown-up needed**  
   *Parent does:* On day 4, a grown-up cuts a very thin slice of raw potato and adds one drop of iodine antiseptic. Look by eye, then with your strongest lens.  
   *Parent says:* Inside potato cells are tiny grains of starch, the plant's stored food. Iodine turns starch dark blue-black. Where does the colour go?  
-  *Child mode:* A grown-up adds iodine to a potato slice. What turns dark?
+  *Child mode:* A grown-up adds iodine to a potato slice. Look at it closely.
   - Note: The whole cut surface goes blue-black, which you can see by eye. A Foldscope shows the separate starch grains inside the cells.
   - Check: The dark blue-black grains in potato cells are… → **stored food called starch**
   - Wait: Day 4.
 - **s5 (15 min) · grown-up needed**  
   *Parent does:* On day 5, put a drop of water from the leaf jar on a slide and look. Then write the last page: 'What I am made of'. Show the atlas to a family member.  
   *Parent says:* Show someone your atlas. Look at all five pages together. What is the same about every living thing you looked at?  
-  *Child mode:* Look at a drop of water from the leaf jar. Write your last page: What I am made of. Look at all your pages. What is the same in every one?
+  *Child mode:* Look at a drop of water from the leaf jar. Write your last page: What I am made of.
   - Note: After four days, water with rotting leaves is usually full of bacteria, and often of single cells that swim. With a Foldscope or microscope you may see them darting about. With a phone and water drop you may see only moving specks, or nothing, because they are so small. Pour the jar away and wash hands after. The answer to the last question is that every living thing in the atlas is made of cells, even the ones too small to see.
   - Wait: Day 5.
 
 ## Challenges
 ### c1 · The Best Home Microscope (30 min)
 - **problem:** You need to see onion cells, but you have no microscope. Using things from home, make the strongest magnifier you can.
-- **your turn:** Invent your own magnifier. Draw it, build it and test it on onion skin. Can you see the bricks?
+- **your turn:** Invent your own magnifier. Build it, test it on onion skin and take a photo. Can you see the cells?
 - **constraints:** Use only things you find at home.; Test it on the same onion skin each time, so the test is fair.; It must be safe: no broken glass.
 - **general:** Put a tiny drop of water on a phone camera lens. It works like a small, strong lens.; Look through a clear glass marble held close to your eye and the onion skin. The middle of the marble shows a clear picture. The edges look blurry.; Shine a torch from below the onion skin, so light passes through it.
 - **creative:** Make a card holder with a small hole in it. Put a water drop in the hole. Leeuwenhoek, a Dutch lens-maker, held his tiny lenses in a metal plate in a similar way.; Stack two magnifiers, one after the other, like the two lenses in a real microscope.; Rest the phone, with its water drop, on two stacks of books over the onion skin, with a torch shining up from below. A steady phone gives a sharper picture.
 - **s1 (5 min)**  
   *Parent does:* Show your child the problem and the materials.  
   *Parent says:* We have no microscope. How can we make one from things at home?  
-  *Child mode:* You have no microscope. How can you make one from things at home?
+  *Child mode:* Look at the materials. What could bend light to make things look bigger?
 - **s2 (15 min)**  
-  *Parent does:* Try the usual ideas and your child's own ideas. Test each on the same onion skin.  
+  *Parent does:* Try the usual ideas (a water drop on plastic, a marble, the phone with a drop) and your child's own ideas. Test each on the same onion skin.  
   *Parent says:* Which one shows the most? Why?  
-  *Child mode:* Try each idea on the same onion skin. Which shows the most?
+  *Child mode:* Try each idea on the same onion skin. Look at it each time.
 - **s3 (10 min)**  
-  *Parent does:* Your child draws their best design and what it showed.  
+  *Parent does:* Your child takes a photo of their best design and of what it showed. They can draw it instead.  
   *Parent says:* If you had one more day, how would you make it better?  
-  *Child mode:* Draw your best magnifier and what you saw. How could you make it better?
+  *Child mode:* Take a photo of your best magnifier and what you saw through it.
   - Think: Leeuwenhoek wrote down what he saw, but never how he made his best lenses. Why is it a problem for other scientists if a method is kept secret?
 ### c2 · Slime Mould Railway: join the cities (30 min)
 - **problem:** Six 'cities' (steel cups) sit on the floor. Join them all with string, so you can travel from any city to any other, using as little string as possible.
-- **your turn:** Now draw your own map of six towns you know, and design a network for them. Which design used the least string?
+- **your turn:** Now set out six towns you know, using bottle caps, and join them with string. Which design used the least string?
 - **constraints:** Every city must be joined to the network.; You may add extra meeting points (a bottle cap) where strings join.; Measure the total string used, in centimetres.
 - **general:** Join each city to the next one in a ring.; Join every city to one middle point, like spokes of a wheel.; Join the closest cities first, then link the groups.
 - **creative:** Add one or two meeting points between cities. Sometimes three roads meeting at a point saves string.; Think like the slime mould: start with string everywhere, then remove the strings that are not needed.; Ask: what if one road breaks? The slime mould kept a few extra links, so the network still worked.
 - **s1 (5 min)**  
   *Parent does:* Place the six cups across the floor, about one big step apart.  
   *Parent says:* A slime mould is one giant cell, with no brain. Here are six cups. They are the cities. Can you join them with the least string?  
-  *Child mode:* Put out 6 cups. They are cities. A one-celled slime mould joined cities like these. Can you?
+  *Child mode:* Put out 6 cups. They are cities. Join them with as little string as you can.
 - **s2 (15 min)**  
   *Parent does:* Try three designs. Measure the string each time and write it down.  
   *Parent says:* Which design used the least string? Can you still travel from any city to any other?  
   *Child mode:* Try 3 ways to join the cities. Measure the string each time.
   - Check: A slime mould joined food in a pattern like Tokyo's railway. What does this show? → **One cell with no brain can find good paths**
 - **s3 (10 min)**  
-  *Parent does:* Your child explains their best design, then draws their own map of six towns.  
+  *Parent does:* Your child explains their best design, then sets out six towns they know, using bottle caps, and joins them with string.  
   *Parent says:* How did you decide which strings to keep? How do you think the slime mould decided?  
-  *Child mode:* Explain your best design. Then draw six towns you know and join them.
+  *Child mode:* Explain your best design. Then set out six towns with bottle caps. Join them with string.
   - Think: The slime mould has no brain. How could they still choose the best tubes?
 
 ## Worksheets

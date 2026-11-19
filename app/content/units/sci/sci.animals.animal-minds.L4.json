@@ -622,16 +622,16 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Cut out the 20 cards and the 30 seeds. Fill the bank bowl with dry beans or rice grains to about 50 seeds for each player. Keep the two piles apart. Give each player a bowl for a nest and a plate for waiting seeds. Put the bank in the middle.",
+     "do": "Cut out the 20 cards and keep the Meadow cards and the Riverbank cards in two piles. Cut out the 30 seed tokens and put them in a big bowl in the middle. Add dry beans or rice grains until it holds about 50 seeds for each player. This is the bank. Give each player a bowl for a nest and a plate for waiting seeds.",
      "say": "Cut out the cards and seeds. Put the seeds in the middle. Each player gets a bowl and a plate.",
-     "kid": "Cut out the cards. Cut out the seeds. Set up your bowl and plate.",
+     "kid": "Set up your nest bowl and your waiting plate.",
      "context": "This is the first step of the Wait or Take game. You set up the cards, seeds and bowls.",
      "parent": "Dry beans are choking hazards for children under five, and the cutting is for an adult or older child with scissors. With 2 to 4 players, everyone uses the same card each round."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Shuffle one pile and put it down with the name side up, without showing the backs. Play the first three rounds. After each card, say what you chose and why.",
+     "do": "Shuffle the Meadow pile and put it down with the name side up, without showing the backs. Play the first three rounds. After each card, say what you chose and why.",
      "say": "Choose in secret: take one seed, or wait. Then I turn over the card. Did waiting pay?",
      "kid": "Take one seed, or wait. Then turn the card.",
      "context": "In this step, you play the first three rounds of the game.",
@@ -757,7 +757,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Draw the dots on the ten cards. Spread the scattered dots in no pattern, with no lines or shapes. Draw one card with 6 dots in two rows of three, and one with 8 dots as two groups of four. Write the number on the back of each.",
-     "say": "Draw the dots with the marker. Make them all the same size. Scatter them, with no lines. Write the number on the back of each card.",
+     "say": "Make all the dots the same size. Scatter them, with no lines.",
      "kid": "Draw the dots on the cards. Write the number on the back.",
      "context": "In this step, you make the cards for the test. The dots are all the same size.",
      "parent": "Scatter the dots so no shape appears. If dots touch, they count as one blob and the test is spoiled. Keep the same size for every dot."
@@ -794,9 +794,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Look at the table together. Find the first row where mistakes begin. Compare the scattered six with the six in two rows. Ask your child to write what they saw, and why they think it happened.",
+     "do": "Look at the table together. Find the first row where mistakes begin. Compare the scattered six with the six in two rows. Ask your child to say what they saw, and why they think it happened.",
      "say": "Look at the table. Where did the mistakes start? Compare the two sixes. Which was easier? Why do you think so?",
-     "kid": "Where did you start to make mistakes? Which six was easier?",
+     "kid": "Look at the table. Find the first row with a mistake.",
      "context": "In this step, you look at the results and say what they show.",
      "ask": [
       {
@@ -863,8 +863,8 @@
     }
    ],
    "safety": "Dried beans can choke small children. Keep them away from children under five, and do not let anyone put them in their mouth or nose.",
-   "record": "For each pair, write how many of the six tries were right. Then draw a bar for each pair, with the height showing the number right.",
-   "context": "In this test, you flash two piles of beans for one second and your child points to the bigger. The difference between the piles is always 6, but the pairs get closer in size.",
+   "record": "For each pair, write how many of the six tries were right. Then make a bar for each pair, drawn or stacked from beans, with the height showing the number right.",
+   "context": "In this test, you find out whether piles that are close in size are harder to tell apart. You flash two piles of beans for one second and your child points to the bigger. The difference between the piles is always 6, but the pairs get closer in size.",
    "setup": [
     {
      "art": "A kitchen table with five katoris holding 6, 12, 18, 24 and 30 chickpeas, counted in rows of six.",
@@ -907,7 +907,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Count the beans into five katoris: 6, 12, 18, 24 and 30. Count in rows of six, which is easier. Put the katoris in a row, smallest to biggest. Keep this out of your child's sight if you can.",
-     "say": "Let us count out the piles. We count in rows of six. Six, twelve, eighteen, twenty-four, thirty. Check that each pile is right.",
+     "say": "Let us count out the piles in rows of six. Six, twelve, eighteen, twenty-four, thirty.",
      "kid": "Count out 6, 12, 18, 24 and 30 beans. Use rows of six.",
      "context": "In this step, you prepare the five piles for the test.",
      "parent": "Piles must be exact. Count twice. If a bean rolls away, count again. Use the same size of bean for every pile. Spread each pile in its own plate now (about one layer, not stacked). Then you only move the plates during the test, not the beans."
@@ -945,9 +945,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Fill in the 'right out of 6' column. Draw a bar for each pair on the back of the sheet. Ask your child what they saw, and why they think it happened.",
-     "say": "Look at your bars. Which pair was hardest? The gap was six every time. What do you think made the hard pair hard?",
-     "kid": "Which pair was hardest? Why, when the gap was always six?",
+     "do": "Fill in the 'right out of 6' column. Make a bar for each pair. Draw it, or stack beans in a row. Ask your child what they saw, and why they think it happened.",
+     "say": "The gap was six every time. What made the hard pair hard?",
+     "kid": "Look at your bars. Which pair had the fewest right?",
      "context": "In this step, you draw the results and say what they show.",
      "ask": [
       {
@@ -1023,7 +1023,7 @@
      "what": "Play the third round and then compare the three days."
     }
    ],
-   "context": "In this test, your child gets a choice of one treat now or two later, and tries three different ways of waiting on three different days.",
+   "context": "In this test, your child gets a choice of one treat now or two later. You will find out which way of waiting helps most: seeing the treat, hiding it, or hiding it and keeping busy. Each way is tried on a different day.",
    "setup": [
     {
      "art": "A plate with two raisins and a plate with one raisin side by side, with a timer between them.",
@@ -1046,9 +1046,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Explain the game. Your child may stop and take the one raisin at any time, and there is no scolding. Draw the order of the three ways from the bowl and write it down. Ask which day your child will wait longest, and why.",
-     "say": "This is a game, not a test of you. You may take one raisin any time. If you wait three minutes, you get two. We will try three ways of waiting on three days. Which way do you think will be easiest? Why?",
-     "kid": "This is a waiting game. You can take one raisin at any time. If you wait three minutes, you get two.",
+     "do": "Explain the game. Your child may stop and take the one raisin at any time, and there is no scolding. The three ways are: raisins in sight, raisins under a cup, and raisins under a cup while your child does a puzzle. Let your child pick the order, and write it down. Ask which way will help most.",
+     "say": "This is a game, not a test of you. You may take one raisin any time. If you wait three minutes, you get two. We will try three ways of waiting on three days.",
+     "kid": "Play the waiting game. You can stop at any time.",
      "context": "This is the first step of the Waiting Test. You explain the game and guess.",
      "ask": [
       {
@@ -1065,7 +1065,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Day 1. Play the way you drew first. Put one raisin on a plate for now and two on another for later. Start the timer. Stop at three minutes or when your child takes the one raisin. Write the minutes waited.",
+     "do": "Day 1. Play the way you chose first. Put one raisin on a plate for now and two on another for later. Start the timer. Stop at three minutes or when your child takes the one raisin. Write the minutes waited.",
      "say": "Here is one raisin now. Or you wait three minutes for two. I start the timer now. You can stop any time.",
      "kid": "One raisin now. Or wait for two. You choose.",
      "context": "In this step, you play the first round of the waiting game.",
@@ -1075,7 +1075,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Day 2. Play the way you drew second. Use the same offer, place and time of day. Write the minutes waited.",
+     "do": "Day 2. Play the way you chose second. Use the same offer, place and time of day. Write the minutes waited.",
      "say": "Same game as yesterday, but with a different way to wait. One now, or two if you wait three minutes. You decide.",
      "kid": "Same game. A new way to wait. You choose.",
      "context": "In this step, you play the second round of the waiting game, with a different way of waiting.",
@@ -1093,8 +1093,8 @@
      "id": "s5",
      "mins": 5,
      "do": "Line up the three days in the table. Ask your child what they saw, and why they think it happened.",
-     "say": "Look at the three days. Which way helped you wait most? What did you do in your head to help?",
-     "kid": "Which way helped you wait most? Why?",
+     "say": "Look at the three days. Look at the three days. Which way helped you wait most? What did you do in your head to help?",
+     "kid": "Find the day you waited longest.",
      "context": "In this step, you look at the three rounds and say what helped most.",
      "ask": [
       {
@@ -1125,7 +1125,7 @@
    "title": "String Puzzle: look first or try first?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity, you pull the right string to bring a toy, and notice whether you look first or try first. Ravens have been given a similar puzzle.",
+   "context": "In this activity, you pull the right string to bring a toy. You will find out whether you work out the answer before you pull, or try first. Ravens have been given a similar puzzle.",
    "materials": [
     {
      "item": "2 strings or ribbons in different colours, each about 80 centimetres long",
@@ -1169,7 +1169,7 @@
      "mins": 4,
      "do": "Tie the toy to one string and the heavy book to the other. Lay the strings side by side on the table, with the toy and the book at the far end. Leave the near ends within your child's reach. Ask which string will bring the toy, and how they know.",
      "say": "Two strings lead away from you. One is tied to the toy. The other is tied to a heavy book. Which string should you pull to bring the toy?",
-     "kid": "Which string brings the toy? How do you know?",
+     "kid": "Point to the string that brings the toy. Say how you know.",
      "context": "This is the first step of the String Puzzle. You set it up and guess.",
      "parent": "Change which side the toy is on for each try and each child. Do not point. Make a small table: Round 1, 2, 3, with \"looked first?\" and \"wrong pulls\"."
     },
@@ -1216,8 +1216,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask your child which round they solved by looking first and which by trying. Tell them that ravens have been tested with a similar puzzle.",
-     "say": "In 1995, the scientist Bernd Heinrich gave ravens a piece of meat hanging on a string. Some ravens pulled up the string and held it with a foot, again and again, until the meat reached them. Do you think they worked it out first, or learned it step by step? How could we tell?",
-     "kid": "Did you look first, or try first? How would you test a raven?",
+     "say": "In 1995, the scientist Bernd Heinrich gave ravens a piece of meat hanging on a string. Some ravens pulled up the string and held it with a foot, again and again, until the meat reached them.",
+     "kid": "Which round did you solve by looking first?",
      "context": "In this step, you compare your way of solving with how ravens were tested.",
      "ask": [
       {
@@ -1281,8 +1281,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Mark a start line and a far line on the floor, about 4 metres apart. Ask what will happen if your child walks home with the same number of steps, but much longer ones.",
-     "say": "Desert ants find home by counting steps. I want you to be a desert ant. If you take the same number of steps home, but much longer steps, where will you land? Why?",
-     "kid": "Same number of steps, but longer. Where will you land? Why?",
+     "say": "Desert ants find home by counting steps. Today you are a desert ant.",
+     "kid": "Guess where you will land if your steps are longer.",
      "context": "This is the first step of Stilt Steps. You guess before you try.",
      "ask": [
       {
@@ -1319,7 +1319,7 @@
      "mins": 6,
      "do": "From the far line, your child walks back with the same number of steps, making each step as tiny as possible. Mark where they stop. Measure how far short of the start line they are. Ask what they saw, and why they think it happened. Finally, your child walks back once more with normal steps as a control. Measure how far from the start line they stop.",
      "say": "Now the same number of steps, but tiny shuffles. Where will you stop? Then say what you saw and why.",
-     "kid": "Same number of steps, but tiny. Where do you stop?",
+     "kid": "Same number of steps, but tiny. Then once more with normal steps.",
      "context": "In this step, you walk back with tiny steps, like an ant on stumps.",
      "ask": [
       {
@@ -1367,14 +1367,14 @@
      "mins": 5,
      "do": "Read the four made-up claims aloud. Claim A: A dog barks the right number of times when his owner asks for 2 plus 3. The owner stands next to him and knows the answer. Claim B: A parrot says 'four' for four keys in many trials. The person who sets the tray does not know the answer. The keys change in size and colour. Claim C: A video shows a crow dropping stones in a tube once. No other tries are shown. Claim D: Two labs in different countries taught bees to pick the card with fewer dots. Both labs also changed the dot sizes and positions so bees could not use size. In both, the helper who set the cards did not know the right side.",
      "say": "Here are four claims about clever animals. They are made up. Listen to each one. For each, think about how we could be fooled.",
-     "kid": "Listen to four claims. How could we be fooled?",
+     "kid": "Listen to four claims.",
      "context": "This is the first step of Fair or Fishy. You read four made-up claims about clever animals.",
      "parent": "Read each claim slowly and ask what could explain it other than number. With 2 to 4 children, take a claim each to read aloud, then sort together and argue it out. A single child can sort with a parent."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Sort the claims into Trust, Trust a little and Ask for more tests. Ask why for each one.",
+     "do": "Write A, B, C and D on four scraps of paper. Sort them into three piles: Trust, Trust a little and Ask for more tests. Ask why for each one.",
      "say": "Put each claim in one of three boxes: Trust, Trust a little, or Ask for more tests. Say why. What could fool us in this one?",
      "kid": "Sort the claims. Say why for each one.",
      "context": "In this step, you sort the claims by how much you trust them.",
@@ -1401,9 +1401,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Pick the weakest claim. Write one question, or one change to the test, that would make it stronger. Share it.",
+     "do": "Pick the weakest claim. Say or write one question, or one change to the test, that would make it stronger.",
      "say": "Pick the claim you trust least. What one change would make the test fair?",
-     "kid": "Pick the weakest claim. How would you fix the test?",
+     "kid": "Choose the claim you trust least.",
      "context": "In this step, you write the one change that would make the weakest test fair.",
      "check": {
       "t": "mcq",
@@ -1489,9 +1489,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Set out the two plates on a balcony rail or terrace wall, 30 centimetres apart. Put 2 pieces of food on one and 6 on the other. Toss a coin to decide the sides. Step back and watch. Note which pile the visitor goes to first.",
-     "say": "Two plates, one small pile and one big pile. We toss the coin to decide the sides. Then we watch from far away. Which pile will she go to first? Why?",
-     "kid": "Two plates. Watch from far away. Which pile first?",
+     "do": "Set out the two plates on a balcony rail or terrace wall, 30 centimetres apart. Put 2 pieces of food on one and 6 on the other. Toss a coin to decide the sides. Step back and watch. Note which pile the visitor goes to first. Do this once a day for five days.",
+     "say": "Two plates, one small pile and one big pile. We toss the coin to decide the sides. Then we watch from far away.",
+     "kid": "Watch quietly from far away.",
      "context": "In this step, you set out the plates and watch which pile the visitor goes to first.",
      "wait": "Repeat each day for five days.",
      "ask": [
@@ -1510,7 +1510,7 @@
      "id": "s2",
      "mins": 5,
      "do": "On the last day, count the days the bigger pile was chosen first. Count the days the smaller pile was chosen first. Ask what the result shows. Ask what else could explain it.",
-     "say": "Let us count up the five days. How many times did she choose the big pile first? What else could explain it?",
+     "say": "Let us count up the five days. How many times did she choose the big pile first?",
      "kid": "Count the days. Which pile won most often?",
      "context": "In this step, you count up the five days and say what the result shows.",
      "ask": [

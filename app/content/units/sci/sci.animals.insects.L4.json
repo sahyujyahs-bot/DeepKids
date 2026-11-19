@@ -629,8 +629,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Count the points. Then sort all 20 cards into three piles by kind of work and look at the piles.",
-     "say": "Let us sort the cards into three piles. Look at the pollinating pile. How many of those insects are honeybees? Who are the others?",
-     "kid": "Sort the cards into three piles. How many pollinators are honeybees?",
+     "say": "Let us sort the cards into three piles. Look at the pollinating pile. Which of them are honeybees? Who are the others?",
+     "kid": "Sort the cards into three piles. Count the honeybees in the pollinating pile.",
      "check": {
       "t": "mcq",
       "q": "Which of these insects recycles when young and pollinates when grown?",
@@ -755,7 +755,7 @@
      "mins": 3,
      "do": "Count the points. Talk about the question below.",
      "say": "On your best trip, how many flowers did you pollinate? What would a real flower gain from a bee who keeps to one kind?",
-     "kid": "Count your points. Why does a flower gain from a loyal bee?",
+     "kid": "Count your points.",
      "check": {
       "t": "mcq",
       "q": "A bee carries pumpkin pollen to a marigold. What happens to that pollen?",
@@ -812,7 +812,7 @@
    ],
    "safety": "Haldi stains cloth and some table tops. Work on newspaper and wear old clothes.",
    "record": "Draw a table with two rows, one for the cotton bud and one for the pen. Write the number of boxes marked in each of the three tries. Then write the middle value of the three.",
-   "context": "In this experiment haldi powder stands for pollen. You test which carries the haldi to more paper boxes in a row: a fuzzy cotton bud or a smooth pen end.",
+   "context": "In this experiment haldi powder stands for pollen. You test which carries the haldi to more paper boxes in a row: a fuzzy cotton bud or a smooth pen end. You will find out why bees are hairy.",
    "setup": [
     {
      "art": "A sheet of white paper with six ruled rows of fifteen small square boxes, three rows labelled Bud and three labelled Pen, beside a ruler and a pencil.",
@@ -886,7 +886,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Spread the newspaper. On the white paper, rule 6 rows of 15 boxes, each box 1 centimetre wide. Write Bud beside three rows and Pen beside three rows. Put 1 level teaspoon of haldi in the katori.",
-     "say": "We need six rows of flowers. Three rows are for the cotton bud and three are for the pen. Why do you think we give each carrier three rows, and not one?",
+     "say": "We need six rows of flowers. Three rows are for the cotton bud and three are for the pen.",
      "kid": "Rule 6 rows of 15 boxes. Label three rows Bud and three rows Pen.",
      "ask": [
       {
@@ -946,7 +946,7 @@
      "kid": "Say what you thought would happen. Say what you saw. Say why.",
      "ask": [
       {
-       "q": "Where on the cotton bud was the haldi kept, so that it lasted for so many boxes?",
+       "q": "Where on the cotton bud did the haldi stay?",
        "good": [
         "Between the threads of the cotton.",
         "Deep inside the fluff, and it came out a little at a time."
@@ -1007,7 +1007,7 @@
     }
    ],
    "record": "Draw a table with nine rows, for 0, 5, 10, 15, 20, 25, 30, 35 and 40 minutes. At each time, write the number of ants on paper A and the number of crumbs left on each paper. Then draw a line graph of the crumbs left on paper A.",
-   "context": "In this experiment you put 20 crumbs near an ant line and count every 5 minutes. You find out how fast the ants clear the crumbs away.",
+   "context": "In this experiment you put 20 crumbs near an ant line and count every 5 minutes. You find out how fast the ants clear the crumbs away, and whether they hurry or go steadily.",
    "setup": [
     {
      "art": "A paper square on a kitchen floor with twenty tiny crumbs spread over it, about a ruler's length away from a line of small ants along the wall.",
@@ -1115,7 +1115,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Count 20 crumbs onto each paper and spread them out. Lay paper A on the floor, 30 centimetres from the ant line. Stand the katori upside down in the plate of water, and lay paper B on top. Start the timer.",
-     "say": "Paper A is for the ants. Paper B stands in water, and no ant can reach that paper. Why do you think we need paper B at all?",
+     "say": "Paper A is for the ants. Paper B stands in water, so no ant can get to that paper.",
      "kid": "Put 20 crumbs on each paper. Paper A goes near the ants. Paper B stands in water.",
      "ask": [
       {
@@ -1163,7 +1163,7 @@
      "mins": 5,
      "do": "Draw a line graph. Put minutes along the bottom, from 0 to 40. Put crumbs left up the side, from 0 to 20. Mark a dot for each count and join the dots.",
      "say": "Put a dot for each count and join the dots. Look at the shape of the line. Where is it flat? Where is it steepest?",
-     "kid": "Draw the graph of crumbs left. Where is the line steepest?",
+     "kid": "Graph the crumbs left, or tell your grown-up when they went fastest.",
      "parent": "A steep part of the line means crumbs were going fast. A flat part means few crumbs were going.",
      "context": "In this step of the Clean-up Count you draw a line graph of the crumbs left on paper A."
     },
@@ -1224,7 +1224,7 @@
     }
    ],
    "record": "Two lists: 'An insect was needed' and 'No insect was needed'. Put a star next to each food that you guessed right.",
-   "context": "In this activity you take twelve foods from your kitchen. You guess which of them could not have grown without an insect pollinator, and then you check.",
+   "context": "In this activity you take twelve foods from your kitchen. You guess which of them could not have grown without an insect pollinator, and then you check. You will find out how many foods on your shelf need insects.",
    "setup": [
     {
      "art": "Twelve foods in small steel katoris and on a plate on a kitchen counter: rice, atta, ragi, jaggery, a banana, a potato, mustard seeds, coriander seeds, cardamom pods, a slice of pumpkin, a mango and coffee powder.",
@@ -1243,7 +1243,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Put the twelve foods on the counter. If one is missing, write its name on a slip of paper. Label the two sheets.",
+     "do": "Put the twelve foods on the counter. If one is missing, write its name on a slip of paper. Label the two sheets 'An insect was needed' and 'No insect was needed'.",
      "say": "Some of these foods grew only because an insect carried pollen to a flower. Others needed no insect at all. Before we check, which do you think needed an insect? Why?",
      "kid": "Look at twelve foods. Which ones needed an insect to grow? Guess first.",
      "context": "This is the first step of the Kitchen Shelf Test. You set out twelve foods and get ready to guess."
@@ -1337,7 +1337,7 @@
      "what": "Fetch a raisin from two tumbler flowers and see what your hand carries between them."
     }
    ],
-   "record": "A drawing of your hand after flower 1, and of the paper collar of flower 2 after your visit. Colour the yellow marks.",
+   "record": "A photo or a drawing of your hand after flower 1, and of the paper collar of flower 2 after your visit. Show the yellow marks.",
    "context": "In this activity two steel tumblers are two flowers, and a raisin at the bottom is the nectar. You fetch the raisins as a bee would, and see what your hand carries from one flower to the other.",
    "setup": [
     {
@@ -1388,8 +1388,8 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Without wiping the hand, your child reaches into flower 2 for the second raisin. Look at the white collar together. Your child draws the hand and the collar. Then both wash hands and eat the raisins.",
-     "say": "Do not wipe your hand. Fly to flower 2 and take the raisin. Now look at the white collar. What is on it? How did it get there?",
+     "do": "Without wiping the hand, your child reaches into flower 2 for the second raisin. Look at the white collar together. Your child points to the yellow on the hand and on the collar, or takes a photo of each. Then both wash hands and eat the raisins.",
+     "say": "Do not wipe your hand. Fly to flower 2 and take the raisin. Now look at the white collar. What is on it?",
      "kid": "Do not wipe your hand. Take the raisin from flower 2. Look at the collar.",
      "check": {
       "t": "mcq",
@@ -1454,9 +1454,9 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "Read the six stages in the note below, one at a time. Your child draws each stage in its box and writes one line under it.",
-     "say": "Here is stage one. Listen, then draw it in box 1 and write one line. Tell me when you are ready for the next stage.",
-     "kid": "Listen to each stage. Draw it in a box. Write one line.",
+     "do": "Read the six stages in the note below, one at a time. Your child shows each stage in its box. They can draw it quickly or use small things, such as a crumb. They say one line. Write it under the box.",
+     "say": "Here is stage one. Listen, then show it in box 1 and tell me one line. Tell me when you are ready for the next stage.",
+     "kid": "Listen to each stage. Show it in a box. Say one line.",
      "parent": "Stage 1: after the first heavy rain, winged young queens and males fly out of many nests and mate in the air. Stage 2: a mated queen lands, breaks off her wings and digs a small hole. Stage 3: she seals the hole and lays her first eggs. Stage 4: she eats nothing for weeks, and feeds the first larvae from her own body. Stage 5: the first small workers grow up, open the nest and bring food home. Stage 6: after a year there are hundreds of workers. After some years the colony raises its own winged queens and males.",
      "context": "In this step of From One Queen you draw the six stages of a new ant colony."
     },
@@ -1464,8 +1464,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Look at the strip together. Ask the questions below. Your child writes one question of their own under the strip.",
-     "say": "Look at box 4 and box 5. What changes for the queen when her first daughters grow up? What question do you still have about her?",
-     "kid": "Look at your six boxes. What changes when the first workers grow up?",
+     "say": "Look at box 4 and box 5. Who helps the queen now? What question do you still have about her?",
+     "kid": "Look at your six boxes. Point to the box where the first workers appear.",
      "ask": [
       {
        "q": "What changes for the queen when the first workers grow up?",
@@ -1555,7 +1555,7 @@
      "mins": 3,
      "do": "Talk about what happened. Then read the explanation in the note below.",
      "say": "Say what you thought would happen. Say what you saw. The comb never touched the haldi. So how did the haldi reach the comb?",
-     "kid": "Say what you saw. The comb never touched the haldi. How did it move?",
+     "kid": "Say what you saw. The comb never touched the haldi.",
      "ask": [
       {
        "q": "How might this help a bee who lands on a flower?",
@@ -1628,9 +1628,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Day 1. Look out of every window, and look around on your way to the shop. List up to ten trees and plants. Balcony pots count. If your child does not know a name, they draw one leaf.",
+     "do": "Day 1. Look out of every window, and look around on your way to the shop. List up to ten trees and plants. Balcony pots count. If your child does not know a name, they pick up one fallen leaf or take a photo of the plant.",
      "say": "A bee colony must find flowers in every month, or the bees go hungry. Let us list the plants near us that could feed them. Which ones have you seen in flower?",
-     "kid": "List ten trees and plants near your home. Draw a leaf if you lack a name.",
+     "kid": "List ten trees and plants near your home. If you lack a name, take a photo or a leaf.",
      "parent": "Common city trees that feed bees well are neem, drumstick, coconut, tamarind, jamun, gulmohar and copper pod. Tulsi, curry leaf and coriander left to flower feed them too. You need no garden for this project.",
      "context": "This is day 1 of A Flower Calendar for Our Street. You list the trees and plants near your home."
     },
@@ -1698,7 +1698,7 @@
     "Stretch a rubber band over a steel tumbler, rest the tube on the band and pluck the band.",
     "Press the tube lightly against your throat and hum a low, loud note."
    ],
-   "your_turn": "Now invent your own way to shake the tube. It must leave the tube whole. Test it for 10 seconds and compare the heap with your best heap so far. Draw your method and write why you think it worked or failed.",
+   "your_turn": "Now invent your own way to shake the tube. It must leave the tube whole. Test it for 10 seconds and compare the heap with your best heap so far. Show your method to a grown-up, or draw it, and say why you think it worked or failed.",
    "context": "In this challenge you must get haldi out of a paper tube through one small hole. You may not squeeze or open the tube. It is the problem a carpenter bee solves on a brinjal flower.",
    "setup": [
     {
@@ -1724,7 +1724,7 @@
      "mins": 5,
      "do": "Read the problem together. Build the tube as the steps show. Hold it hole-down over the plate without moving, and count to 10.",
      "say": "This tube is the pollen tube of a brinjal flower. Hold it still with the hole down. Does the powder pour out? What could a bee do to get the powder out?",
-     "kid": "Build the tube. Hold it still with the hole down. Does powder fall?",
+     "kid": "Build the tube. Hold it hole-down and count to 10.",
      "ask": [
       {
        "q": "The hole is open, so why does the powder stay inside?",
@@ -1757,7 +1757,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Compare all the heaps. Your child invents one more method, tests it, and draws it.",
+     "do": "Compare all the heaps. Your child invents one more method and tests it. They draw it or show it to you.",
      "say": "Which heap is biggest? Was a fast, small shake better than a slow, big one? Now invent your own method and test it.",
      "kid": "Which heap is biggest? Invent your own method and test it.",
      "check": {

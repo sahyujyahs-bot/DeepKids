@@ -539,7 +539,7 @@
           "id": "s1",
           "mins": 3,
           "do": "Cut out the 20 cards and the tokens. Shuffle the cards into a pile. Give each player one set of four tokens.",
-          "say": "Each card tells of something that happens in a kitchen. Your four tokens are four kinds of change. Enzyme browning happens to cut fruit. Heat browning happens on a hot, dry surface. Gas rise makes food swell. Cut sting is a sharp gas or taste made by broken cells.",
+          "say": "Each card tells of something that happens in a kitchen. Your four tokens are four kinds of change. Enzyme browning happens when cut fruit meets the air. Heat browning happens on a hot, dry surface. Gas rise makes food swell. Cut sting is a sharp gas or taste made by broken cells.",
           "kid": "Cut out the cards and tokens. Shuffle the cards. Take four tokens.",
           "context": "This is the first step of Which Change Is It. You set up the cards and the tokens."
         },
@@ -547,7 +547,7 @@
           "id": "s2",
           "mins": 7,
           "do": "Play the first ten cards. After each card, read the back aloud. Ask the question below after card five.",
-          "say": "The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Who scored?",
+          "say": "The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Anyone who chose the right token scores one point.",
           "kid": "Listen to the card. Pick a change token. Turn it over. Check the back.",
           "ask": [
             {
@@ -574,8 +574,8 @@
           "id": "s4",
           "mins": 3,
           "do": "Count the points. Then sort all 20 cards into four heaps, one for each change.",
-          "say": "Let us sort the cards into four heaps. Look at the enzyme browning heap and the cut sting heap. What did every food in those two heaps have done to it?",
-          "kid": "Sort the cards into four heaps. What is the same in two heaps?",
+          "say": "Let us sort the cards into four heaps. Look at the enzyme browning heap and the cut sting heap side by side.",
+          "kid": "Sort the cards into four heaps. Find what two heaps have in common.",
           "check": {
             "t": "mcq",
             "q": "What starts both enzyme browning and the onion's sting?",
@@ -733,8 +733,8 @@
           "id": "s4",
           "mins": 2,
           "do": "Count the beans. Then ask the check question.",
-          "say": "Count your beans. Now think about a real kitchen. A baker adds extra yeast to a dough made of rice flour alone. Will the loaf rise higher?",
-          "kid": "Count your beans. Does more yeast help rice flour dough?",
+          "say": "Count your beans. Now think about one dough. Its Gas is 6 and its Hold is 1.",
+          "kid": "Count your beans. Then answer the question.",
           "check": {
             "t": "mcq",
             "q": "A dough has Gas 6 and Hold 1. Which change gives a higher rise?",
@@ -875,9 +875,9 @@
         {
           "id": "s2",
           "mins": 6,
-          "do": "Bring a small pan of water to the boil. Cut three slices, each about half a centimetre thick. Put slice N on the plate. Put slice C in the cold water. Hold slice H under the boiling water in the ladle. After two minutes, lift out C and H and put them on the plate. Note the time.",
+          "do": "Bring a small pan of water to the boil. Cut three slices, each about half a centimetre thick. Call the slices N for no dip, C for cold dip and H for hot dip. Put slice N on the plate. Put slice C in the cold water. Hold slice H under the boiling water in the ladle. After two minutes, lift out C and H and put them on the plate. Note the time.",
           "say": "I will cut the slices and do the hot dip. You time two minutes on the clock. Both dipped slices get wet. Why did we give one slice a cold dip?",
-          "kid": "A grown-up cuts and dips. You time two minutes. Then note the time.",
+          "kid": "A grown-up cuts and dips. You time two minutes. Then write down the time.",
           "adult": true,
           "parent": "The cold dip is the fair partner of the hot dip. Without it, nobody could tell whether the heat or the wetting made the difference. The boiled slice will look a little glassy and soft.",
           "context": "In this step of Hot Dip, Cold Dip a grown-up dips apple slices in cold water and in boiling water."
@@ -886,7 +886,7 @@
           "id": "s3",
           "mins": 8,
           "do": "Look at the plate after 10 minutes and after 20 minutes. Your child writes a brown score from 0 to 3 for each slice. At 20 minutes they scratch slice N and slice H with a fork, four lines each.",
-          "say": "Give each slice a brown score from 0 to 3. Now scratch the no-dip slice and the hot-dip slice with the fork. The scratches break fresh cells. What do you think the scratches will look like in 20 minutes?",
+          "say": "Give each slice a brown score from 0 to 3. Zero is not brown and three is brown all over. Now scratch the no-dip slice and the hot-dip slice with the fork. The scratches break fresh cells. What do you think the scratches will look like in 20 minutes?",
           "kid": "Score each slice from 0 to 3. Scratch two slices with a fork.",
           "check": {
             "t": "mcq",
@@ -915,7 +915,7 @@
           "mins": 8,
           "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
           "say": "Say what you thought would happen, what you saw, and why you think it happened. The hot slice and the cold slice were both wet. What did the boiling water do that the cold water did not?",
-          "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+          "kid": "Tell your grown-up what you guessed, what you saw, and why.",
           "ask": [
             {
               "q": "The scratches on the boiled slice stayed pale, though fresh cells were broken. What does that tell you?",
@@ -926,7 +926,7 @@
               ]
             },
             {
-              "q": "Name three things that this browning needs.",
+              "q": "Name three things that a cut apple slice needs to turn brown.",
               "good": [
                 "Broken cells.",
                 "Something in the apple that still works, the enzyme.",
@@ -1080,7 +1080,7 @@
           "id": "s3",
           "mins": 8,
           "do": "Heat the tawa on a low flame for one minute. Lay the four squares wet side down, each halfway between the middle and the edge. After each minute, lift each square with tongs and show the underside. Your child writes the scores. Put each square back one place further round. Stop after four minutes, or sooner if a square turns dark brown.",
-          "say": "I will lift each square after every minute. Give each one a brown score from 0 to 4. I am moving each square one place round the tawa. Why am I doing that?",
+          "say": "I will lift each square after every minute. Give each one a brown score from 0 to 4. Zero is white and four is dark brown. I move each square one place round the tawa after every look.",
           "kid": "Watch from an arm's length away. Score each square every minute.",
           "adult": true,
           "check": {
@@ -1102,7 +1102,7 @@
           "mins": 8,
           "do": "Turn off the stove. Lay the four squares in a row, toasted side up. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.",
           "say": "Say what you thought would happen, what you saw, and why you think it happened. Compare the water square with the dry square. Then compare the water square with the sugar square and the milk square.",
-          "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+          "kid": "Tell your grown-up what you guessed, what you saw, and why.",
           "ask": [
             {
               "q": "The water square stayed pale for the first two minutes. What was the heat doing in that time?",
@@ -1254,7 +1254,7 @@
           "id": "s4",
           "mins": 15,
           "do": "Your child squeezes and kneads the wheat ball gently under the water. When the water turns white, pour it away through the strainer. Put any bits from the strainer back on the ball. Add fresh water. Repeat until the water stays nearly clear, about five or six times. Then wash the rice ball in the same way.",
-          "say": "Squeeze the ball gently under the water. Look at the water. What is coming out of the dough? Keep the ball in one piece. Now do the same with the rice ball.",
+          "say": "Squeeze the ball gently under the water. Look at the water. Keep the ball in one piece. Now do the same with the rice ball.",
           "kid": "Squeeze the wheat ball under water. Change the white water. Then wash the rice ball.",
           "check": {
             "t": "mcq",
@@ -1350,7 +1350,7 @@
           "mins": 3,
           "do": "Give your child a whole, unpeeled onion. Ask the question below first, and write down the guess and the reason. Then they hold the onion about 10 centimetres from their open eyes for 30 seconds.",
           "say": "Cooks cry when they chop onions. Will this whole onion make your eyes sting from close by? Why do you think so? Now hold the onion near your eyes for 30 seconds.",
-          "kid": "Will a whole onion sting your eyes? Why? Hold the onion close for 30 seconds.",
+          "kid": "Hold the whole onion close to your eyes for 30 seconds. Do your eyes sting?",
           "ask": [
             {
               "q": "Where do you think the stinging gas is right now?",
@@ -1378,8 +1378,8 @@
           "id": "s3",
           "mins": 3,
           "do": "Move away from the board. Ask your child to say what they thought would happen, what happened, and why they think it happened.",
-          "say": "Say what you thought would happen, what happened, and why you think it happened. The whole onion did nothing. The chopped onion stung. Where did the gas come from?",
-          "kid": "Say what you thought would happen. Say what happened. Say why.",
+          "say": "Say what you thought would happen, what happened, and why you think it happened. Look at what you wrote for the whole, halved and chopped onion. Where did the gas come from?",
+          "kid": "Tell your grown-up what you guessed, what happened, and why.",
           "ask": [
             {
               "q": "Chopping stung far more than one cut. What is different about chopping?",
@@ -1443,7 +1443,7 @@
         }
       ],
       "safety": "A grown-up works at the stove and lifts the hot katoris out of the steam. Wait five minutes before you touch the katoris.",
-      "record": "Write the height of the batter in each katori before steaming, and the height of each dhokla afterwards. Draw the cut face of each dhokla, with its holes.",
+      "record": "Write the height of the batter in each katori before steaming, and the height of each dhokla afterwards. Draw the cut face of each dhokla with its holes, or count the holes and write the number.",
       "context": "In this activity you make one rava batter and split it into two katoris. Only one half gets fruit salt. A grown-up steams both, and you compare how far each one rose.",
       "setup": [
         {
@@ -1597,7 +1597,7 @@
           "id": "s3",
           "mins": 10,
           "do": "After 10 minutes, your child smells each paste from a hand's width away, raw paste last. Ask them to say what they thought would happen, what they found, and why they think it happened.",
-          "say": "Smell the roasted paste first, and then the raw paste. Say what you thought would happen, what you found, and why you think it happened. Think about the apple slice dipped in boiling water in Hot Dip, Cold Dip. That slice could not turn brown.",
+          "say": "Smell the roasted paste first, and then the raw paste. Say what you thought would happen, what you found, and why you think it happened.",
           "kid": "Smell both pastes. Say what you guessed, what you found, and why.",
           "ask": [
             {
@@ -1659,7 +1659,7 @@
           "what": "Test the last foods. Then sort all the foods into browners and non-browners and look for a pattern."
         }
       ],
-      "record": "Make a table with four columns. Write the food, the brown score at the start and the brown score after 30 minutes. In the last column, write whether the food tastes sour. Score from 0 to 3, as in Hot Dip, Cold Dip.",
+      "record": "Make a table with four columns. Write the food, the brown score at the start and the brown score after 30 minutes. In the last column, write whether the food tastes sour. Score from 0 (not brown) to 3 (brown all over).",
       "context": "In this three-day project you test the fruits and vegetables that your family cuts for meals. You find out which ones turn brown in 30 minutes, and what the browners have in common.",
       "setup": [
         {
@@ -1680,7 +1680,7 @@
           "id": "s1",
           "mins": 10,
           "do": "Day 1. When food is being cut for a meal, ask for a thumb-sized piece of three or more kinds. Ask for the guess and the reason first. Your child puts the pieces on a plate and scores each from 0 to 3. They score again after 30 minutes.",
-          "say": "In Hot Dip, Cold Dip the plain apple slice turned brown in the air. Which of today's foods will turn brown in 30 minutes? Why do you think so? Score each piece now, and again in 30 minutes.",
+          "say": "A cut apple left in the air turns brown. Which of today's foods will turn brown in 30 minutes? Why do you think so? Score each piece now, and again in 30 minutes.",
           "kid": "Which cut foods will go brown? Why? Score each piece now and in 30 minutes.",
           "parent": "Good foods to try are banana, apple, potato, brinjal, raw banana, guava and pear. Also try tomato, carrot, cucumber, orange, lemon, onion and beetroot.",
           "context": "This is day 1 of Who Turns Brown. You test three or more cut foods from today's cooking."
@@ -1775,7 +1775,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Read the problem together. A grown-up chops half a plain onion from the basket. The watcher counts the seconds from the first cut to the first sting. Write the time down.",
+          "do": "Read the problem together. A grown-up chops half a plain onion from the basket. The watcher, your child, counts the seconds from the first cut to the first sting. Write the time down.",
           "say": "First we need the time for plain chopping. I will chop, and you count the seconds until your eyes sting. This time is what every method must beat.",
           "kid": "Count the seconds until your eyes sting. Write the time down.",
           "adult": true,
@@ -1794,7 +1794,7 @@
           "id": "s2",
           "mins": 5,
           "do": "Your child chooses two or three methods to test and says why each might work. If one method needs a cold onion, put the onion in the freezer now for 15 minutes.",
-          "say": "The gas is made by enzymes in broken cells, and it reaches your eyes through the air. Choose two or three methods. For each one, say what it does to the gas.",
+          "say": "The gas is made by enzymes in broken cells, and it reaches your eyes through the air. Choose two or three methods, such as a cold onion, a fan, goggles or your own idea. For each one, say what it does to the gas.",
           "kid": "Choose two or three methods. Say why each one might work.",
           "parent": "A good reason names what the method changes. Cold slows the enzymes. A sharp knife breaks fewer cells. Moving air or goggles keep the gas from the eyes.",
           "context": "In this step of Tear-Free Chopping you choose the methods to test and say why each might work."

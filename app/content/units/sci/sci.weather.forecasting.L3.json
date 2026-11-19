@@ -417,7 +417,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about weather signs. You turn over a sign card, and every player forecasts what weather it points to.",
+   "context": "This is a card game about weather signs. You turn over a sign card, and every player forecasts what weather it points to. You find out how many weather signs you can already read.",
    "printables": [
     {
      "kind": "cards",
@@ -575,8 +575,8 @@
      "id": "s2",
      "mins": 2,
      "do": "Take the sign card 'Puffy clouds growing taller and taller on a hot afternoon' out of the pile. Play it as practice, then shuffle it back in.",
-     "say": "This is a practice card. Puffy clouds are growing taller and taller on a hot afternoon. What's your forecast?",
-     "kid": "This is a practice card. Puffy clouds are growing taller on a hot afternoon. What's your forecast?",
+     "say": "Let's practise with this card first. Listen to the sign, then choose your forecast.",
+     "kid": "Choose the forecast card you think fits the sign.",
      "check": {
       "t": "mcq",
       "q": "Puffy clouds are growing taller and taller on a hot afternoon. What is the best forecast?",
@@ -592,7 +592,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Play the other cards, keeping score on the score sheet.",
+     "do": "Play the other cards. A forecast that matches the answer scores 2 points. Keep score on the score sheet.",
      "say": "Here is the next sign card. Choose your forecast card. Ready? Everyone turn your forecast card over. Now let's read the answer on the back of the sign card. Who matched?",
      "kid": "Turn over the next sign card. Choose your forecast card. Everyone turns their forecast card over together. Then read the answer. Who matched?",
      "parent": "The peacock card is worth talking about. Peacocks call and dance in the monsoon because it is their breeding season. So they tell you the season, not tomorrow's weather."
@@ -781,8 +781,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Talk about the game.",
-     "say": "In the game, the earlier we saw the storm, the more time we had. How do real forecasters see a cyclone early?",
-     "kid": "How do real forecasters see a cyclone early?",
+     "say": "In the game, the earlier we saw the storm, the more time we had. Now think about real storms.",
+     "kid": "Which towns did you warn in good time? Which were nearly too late?",
      "ask": [
       {
        "q": "How do real forecasters see a cyclone early?",
@@ -887,14 +887,14 @@
      "what": "Check the last forecasts and give points. Add up the points, draw a bar chart and say what you found."
     }
    ],
-   "record": "Fill in one row of the table every evening. On day 8, add up each forecaster's points and draw a bar for each.",
+   "record": "Fill in one row of the table every evening. On day 8, add up each forecaster's points and make a bar for each.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Draw the table in the notebook, or print the score sheet. 2. Write the three forecasters at the top: 'Same as today', 'Me', 'The app'. 3. Read out the two questions everyone will answer each evening.",
      "say": "We're going to have a forecast contest for a week. Every evening, three forecasters guess tomorrow. The first just says tomorrow will be like today. The second is you, reading the sky. The third is the weather app. Each evening they answer two questions. Will it rain tomorrow? Will the sky be mostly sunny or mostly cloudy?",
-     "kid": "You are running a forecast contest! Three forecasters guess tomorrow's weather. One says 'same as today'. One is you. One is the weather app. Each answers two questions. Will it rain? Sunny or cloudy?",
+     "kid": "Three forecasters guess tomorrow's weather. One says 'same as today'. One is you. One is the weather app. Each answers two questions. Will it rain? Sunny or cloudy?",
      "parent": "Agree on the rules now, and write them at the top of the page. Rain means enough rain to wet the balcony floor or the road, at any time from morning to bedtime. 'Mostly cloudy' means clouds cover more than half the sky for most of the day. For the app, a chance of rain of 50% or more counts as 'yes, rain'.",
      "context": "This is the first step of the forecast contest. You set up a score sheet for three forecasters, who will each guess tomorrow's weather every evening for a week."
     },
@@ -902,8 +902,8 @@
      "id": "s2",
      "mins": 2,
      "do": "Ask your child to predict the winner and give a reason. Write the guess and the reason at the top of the page.",
-     "say": "Before we start, which forecaster do you think will win the week? Which will come last? Why do you think so?",
-     "kid": "Guess the winner. Who will come last? Why do you think so? Write your guess at the top.",
+     "say": "Before we start, which forecaster do you think will win the week? Which will come last?",
+     "kid": "Pick a winner and a last place. Your grown-up writes your guess at the top.",
      "ask": [
       {
        "q": "Why do you think that forecaster will win?",
@@ -965,9 +965,9 @@
     {
      "id": "s6",
      "mins": 8,
-     "do": "On day 8, after the last check: 1. Add up each forecaster's points. The most anyone can get is 14. 2. Draw a bar chart with one bar for each forecaster.",
-     "say": "The contest is over. Let's add up the points. The most anyone could get is 14, because there were 7 days and 2 points a day. Now let's draw a bar for each forecaster.",
-     "kid": "The contest is over! Add up each forecaster's points. The most is 14. Draw a bar for each one.",
+     "do": "On day 8, after the last check: 1. Add up each forecaster's points. The most anyone can get is 14. 2. Show the scores as bars: draw them, or stack a pile of coins or buttons for each forecaster.",
+     "say": "The contest is over. Let's add up the points. The most anyone could get is 14, because there were 7 days and 2 points a day. Now let's show each score as a bar.",
+     "kid": "The contest is over! Add up each forecaster's points. The most is 14. Make a bar for each one, drawn or stacked.",
      "parent": "If every day was the same weather, all three may have scored 14. That is a real result, not a failed test. In a settled spell, 'same as today' is very hard to beat. If you can, run the contest again when the weather is changing, for example at the start of the monsoon or in October and November."
     },
     {
@@ -975,7 +975,7 @@
      "mins": 5,
      "do": "Ask your child what they found, what on the score sheet shows it, and why they think it happened. Then explain, if your child has not said it already, why 'same as today' does well and when it fails.",
      "say": "What did you find? Who won? Which days did each forecaster get wrong? What was happening on those days?",
-     "kid": "Who won? Which days did each forecaster get wrong? What was the weather doing on those days?",
+     "kid": "Who won? Look at the days each forecaster got wrong.",
      "ask": [
       {
        "q": "On the days 'Same as today' was wrong, what had happened?",
@@ -1086,7 +1086,7 @@
      "what": "Put one plate of salt in a steamy bathroom and one in a dry room. Wait one hour. Tilt both plates and compare."
     }
    ],
-   "record": "Fill in the table for both plates. Draw both plates after tilting, showing where the salt stayed.",
+   "record": "Fill in the table for both plates. Draw both plates after tilting, or take a photo of each.",
    "flow": [
     {
      "id": "s1",
@@ -1101,7 +1101,7 @@
      "mins": 3,
      "do": "Ask your child to predict, with a reason.",
      "say": "One plate goes into the bathroom after a hot bath, where the air is full of steam. The other goes into a dry room. What will the salt be like after an hour? Why do you think so?",
-     "kid": "One plate goes in the steamy bathroom. One goes in a dry room. What will happen in an hour? Why?",
+     "kid": "Guess what each plate of salt will be like after one hour.",
      "ask": [
       {
        "q": "Why might the bathroom change the salt?",
@@ -1116,9 +1116,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Just after a hot bath or shower, put plate 1 on a dry bathroom shelf, away from splashes. 2. Shut the door and window and turn off any exhaust fan. 3. Put plate 2 in the driest room, away from the kitchen.",
+     "do": "1. Just after a hot bath or shower, put plate 1 on a dry bathroom shelf, away from splashes. 2. Shut the door and window and turn off any exhaust fan. 3. Put plate 2 in the driest room, away from the kitchen. 4. Leave both plates for one hour.",
      "say": "The bathroom air is full of water vapour from the hot water. We shut the door to keep it in. The other plate goes where the air is dry.",
-     "kid": "Put plate 1 on a dry shelf in the steamy bathroom. Shut the door. Put plate 2 in a dry room.",
+     "kid": "Put plate 1 on a dry shelf in the steamy bathroom. Shut the door. Put plate 2 in a dry room. Wait one hour.",
      "adult": true,
      "parent": "Put the plate where no water can splash or drip on it, so only the damp air reaches the salt. On a very humid monsoon day the dry room may not be very dry. Then choose the room with the least damp air, and keep both plates for the same time.",
      "wait": "Wait one hour."
@@ -1128,7 +1128,7 @@
      "mins": 7,
      "do": "1. Bring both plates out together. 2. Look closely at each. 3. Tilt each plate slowly until it is nearly upright. 4. Press the salt gently with a finger.",
      "say": "Let's compare. Look first. Now tilt each plate slowly. Does the salt slide off? Now press it gently with a finger. How does it feel?",
-     "kid": "Bring both plates. Look closely. Tilt each one slowly. Does the salt slide? Press it gently. How does it feel?",
+     "kid": "Bring both plates. Look, tilt and press the salt. Which plate is different?",
      "ask": [
       {
        "q": "What is different about the bathroom salt?",
@@ -1145,8 +1145,8 @@
      "id": "s5",
      "mins": 5,
      "do": "Ask your child what they found, what they saw that shows it, and why they think it happened. Then explain humidity, and what this means for the saying that salt goes lumpy before rain.",
-     "say": "What did you find? Where did the water in the salt come from? So, does lumpy salt tell us that rain is coming?",
-     "kid": "What did you find? Where did the water come from? Does lumpy salt mean rain is coming?",
+     "say": "What did you find? So, does lumpy salt tell us that rain is coming?",
+     "kid": "Tell your grown-up what you found. Does lumpy salt mean rain is coming?",
      "check": {
       "t": "mcq",
       "q": "Suppose the bathroom salt went lumpy. Where did the water come from?",
@@ -1260,14 +1260,14 @@
      "what": "Check both again. Compare all three days."
     }
    ],
-   "record": "Fill in the table each day. Draw an arrow for the ground wind and an arrow for the clouds on a little compass drawing.",
+   "record": "Fill in the table each day. Draw an arrow for the ground wind and an arrow for the clouds on a little compass drawing, or just write the two directions.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Tie the plastic strip or ribbon to the end of the pencil. 2. Find north on the phone compass, or face where the Sun rises, which is east. 3. Write N, E, S and W on a page as a cross.",
+     "do": "1. Tie the plastic strip or ribbon to the end of the pencil. 2. Find north on the phone compass, or face where the Sun rises, which is east. 3. Write N, E, S and W on a page as a cross. 4. Make a table with one row for each of 3 days and two columns: 'Wind from' and 'Clouds from'.",
      "say": "We'll make a wind ribbon to see which way the air is moving on our balcony. First, let's find north, east, south and west.",
-     "kid": "Tie the ribbon to the pencil. Find north with the phone. Draw a cross. Write N, E, S, W.",
+     "kid": "Tie the ribbon to the pencil. Find north with the phone. Draw a cross and write N, E, S, W. Make the table.",
      "context": "This is the first step of the wind test. You make a wind ribbon, then compare the wind on your balcony with the way the clouds are moving."
     },
     {
@@ -1275,7 +1275,7 @@
      "mins": 2,
      "do": "Ask for a prediction with a reason.",
      "say": "Do you think the clouds high up will move the same way as the wind here? Why do you think so?",
-     "kid": "Will the clouds move the same way as the wind here? Why?"
+     "kid": "Guess: will the clouds go the same way as the wind, or a different way?"
     },
     {
      "id": "s3",
@@ -1289,7 +1289,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "1. Pick a cloud close to a fixed edge, such as the top of a building. 2. Keep your head still and watch for one minute. 3. Which way does it move? Write where the clouds come from.",
+     "do": "1. Pick a cloud close to a fixed edge, such as the top of a building. 2. Keep your head still and watch for one minute. 3. Use your N, E, S, W page to say which way it moves. Write where the clouds come from.",
      "say": "Clouds move slowly, so we watch one against something that stays still. Keep your head still. Is the cloud moving away from the edge or towards it?",
      "kid": "Pick a cloud near the top of a building. Keep your head still. Watch for one minute. Which way does it move?",
      "parent": "Thin high clouds can be hard to read. Lower, puffy clouds are easiest. If there are no clouds at all, try again another day."
@@ -1393,14 +1393,14 @@
      "what": "Look at the sky, make a forecast for the next three hours, and check it later."
     }
    ],
-   "record": "Draw the sky now. Write your forecast and the time. Three hours later, write what really happened.",
+   "record": "Draw or photograph the sky now. Write your forecast and the time. Three hours later, write what really happened.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Go to the window or balcony together. 2. Ask your child to say everything they notice about the sky and the air, without naming any weather yet.",
      "say": "What do you notice about the sky right now? What colour is it? Are there clouds? What do they look like? Can you feel any wind? How does the air feel on your skin?",
-     "kid": "Look at the sky. What colour is it? Are there clouds? What shape? Is there wind? How does the air feel?",
+     "kid": "Look at the sky and feel the air. Tell your grown-up everything you notice.",
      "ask": [
       {
        "q": "What do you notice?",
@@ -1417,9 +1417,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Ask your child to draw the sky. 2. Ask them for a forecast for the next three hours: rain or no rain, and what the clouds will do. 3. Write down the time.",
-     "say": "Draw the sky as it is now. Now make a forecast. In three hours, will it be raining? Will there be more cloud or less? What makes you think so?",
-     "kid": "Draw the sky now. What will it be like in three hours? Rain or no rain? More clouds or fewer? Why?",
+     "do": "1. Ask your child to draw the sky, or take a photo of it. 2. Ask them for a forecast for the next three hours: rain or no rain, and what the clouds will do. 3. Write down the time.",
+     "say": "Draw the sky as it is now, or take a photo. Now make a forecast. In three hours, will it be raining? Will there be more cloud or less? What makes you think so?",
+     "kid": "Draw or photograph the sky now. What will it be like in three hours? Rain or no rain? More clouds or fewer?",
      "ask": [
       {
        "q": "What made you choose your forecast?",
@@ -1441,7 +1441,7 @@
      "parent": "Don't worry about whether the forecast was right. The habit we want is to look closely, guess with a reason, and check."
     }
    ],
-   "context": "This is a quick activity to start the unit. You look closely at the sky, make a forecast for the next three hours, and check it later.",
+   "context": "In this quick activity you look closely at the sky, make a forecast for the next three hours, and check it later. You will find out how well you can read the sky.",
    "setup": [
     {
      "art": "A child at a balcony railing looking up at the sky, with a parent beside them pointing at a cloud.",
@@ -1548,22 +1548,22 @@
      "what": "Pick beans from a tumbler without looking, 10 times, to see what '60% chance of rain' means."
     }
    ],
-   "record": "Draw 10 boxes for 10 days. In each box draw a rain cloud for a rajma and a sun for a chana.",
+   "record": "Draw 10 boxes for 10 days. In each box write R for a rajma pick and D for a chana pick.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Put 6 rajma and 4 chana in the tumbler. 2. Explain: each rajma is a day it rains, each chana is a dry day.",
+     "do": "1. Put 6 rajma and 4 chana in the tumbler. 2. Explain: each rajma is a day it rains, each chana is a dry day. 3. Draw a row of 10 boxes on the paper.",
      "say": "Here are 10 beans. 6 red rajma stand for rain, and 4 white chana stand for no rain. This tumbler is like a forecast that says 60% chance of rain.",
-     "kid": "Put 6 rajma and 4 chana in the tumbler. Rajma means rain. Chana means dry. This is a 60% chance of rain.",
+     "kid": "Put 6 rajma and 4 chana in the tumbler. Rajma means rain. Chana means dry. This is a 60% chance of rain. Draw 10 boxes in a row.",
      "context": "This is the first step of an activity with beans. You use rajma and chana in a tumbler to understand what '60% chance of rain' means."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Your child shakes the tumbler, picks one bean without looking, and draws a cloud or a sun in box 1. 2. They put the bean back and shake again. 3. Repeat for all 10 boxes.",
+     "do": "1. Your child shakes the tumbler, picks one bean without looking, and writes R (rajma, rain) or D (chana, dry) in box 1. 2. They put the bean back and shake again. 3. Repeat for all 10 boxes.",
      "say": "Each pick is one day with the same forecast. Pick without looking. Rain or dry? Now put it back, so the chance stays the same, and pick again.",
-     "kid": "Shake. Pick one bean without looking. Rajma? Draw a cloud. Chana? Draw a sun. Put it back. Do it 10 times.",
+     "kid": "Shake. Pick one bean without looking. Rajma? Write R. Chana? Write D. Put it back. Do it 10 times.",
      "ask": [
       {
        "q": "Before you pick, can you tell whether this 'day' will be rainy?",
@@ -1579,7 +1579,7 @@
      "mins": 5,
      "do": "Count the rain days. Talk about what happened.",
      "say": "How many of your 10 days had rain? Was it exactly 6? If the forecast said 60%, and one day stayed dry, was the forecast wrong?",
-     "kid": "Count your rain days. Was it exactly 6? If one day was dry, was the forecast wrong?",
+     "kid": "Count the R boxes. Was it exactly 6? If one day was dry, was the forecast wrong?",
      "check": {
       "t": "mcq",
       "q": "The forecast said '60% chance of rain', and it did not rain. What does that tell you?",
@@ -1594,7 +1594,7 @@
      "parent": "Your child may get 5, 6, 7 or even 8 rain days out of 10. That is normal with chance. Doing it again gives a different count. Over many tries, it comes close to 6 in 10."
     }
    ],
-   "context": "In this activity you use beans in a tumbler to see what a forecast like '60% chance of rain' really means.",
+   "context": "In this activity you use beans in a tumbler to see what a forecast like '60% chance of rain' really means. You will find out why a dry day does not make the forecast wrong.",
    "setup": [
     {
      "art": "Six red rajma beans and four white chana on a table next to a steel tumbler.",
@@ -1606,7 +1606,7 @@
     },
     {
      "art": "A row of 10 boxes on paper, 7 with rain clouds and 3 with suns, drawn in pencil.",
-     "caption": "3. Draw a cloud or a sun for each pick. Count the rain days."
+     "caption": "3. Write R or D for each pick. Count the rain days."
     }
    ],
    "problem": "A forecast of 60% chance of rain does not say that it will rain. In this activity, each bean stands for one day. A red rajma bean is a rainy day. A white chana bean is a dry day."
@@ -1633,7 +1633,7 @@
      "what": "Watch a satellite film of the clouds over India and find which way they are moving towards your city."
     }
    ],
-   "record": "Draw a rough map of India and the seas. Draw today's big clouds and an arrow for which way they are moving.",
+   "record": "Tell your grown-up where today's big clouds are and which way they are moving. Or draw a rough map of India with an arrow.",
    "flow": [
     {
      "id": "s1",
@@ -1664,9 +1664,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Ask your child to draw the map and arrows, and make a forecast from the film.",
-     "say": "Draw our map with the big clouds and an arrow for where they are going. From this film, what is your forecast for tomorrow here?",
-     "kid": "Draw the map. Draw the clouds and an arrow. What is your forecast for tomorrow?",
+     "do": "Ask your child to point to the big clouds on the screen and trace with a finger which way they go. Then ask for a forecast from the film.",
+     "say": "Point to the big clouds and trace with your finger which way they are going. From this film, what is your forecast for tomorrow here?",
+     "kid": "Point to the big clouds. Show which way they go. What is your forecast for tomorrow?",
      "parent": "Clouds over India can move in many directions depending on the season. In the southwest monsoon, from June to September, much of the cloud comes from the southwest. In October to December, rain clouds often come to Tamil Nadu from the Bay of Bengal in the east."
     }
    ],
@@ -1682,7 +1682,7 @@
     },
     {
      "art": "A child's rough map of India with a cloud drawn over the sea and an arrow towards the coast.",
-     "caption": "3. Draw the clouds and an arrow. Make a forecast."
+     "caption": "3. Point to the clouds and show which way they go. Make a forecast."
     }
    ],
    "problem": "Weather travels from place to place. A weather satellite photographs the clouds from space. So you can see where tomorrow's weather is coming from."
@@ -1726,7 +1726,7 @@
      "what": "Count the tallies. For each saying, decide: keep it, keep it with a warning, or drop it. Write and draw the book."
     }
    ],
-   "record": "On each tally page, write the saying, the sign, and the weather it promises. Then draw two rows of tally marks. One row is for 'sign seen, and the weather came'. The other row is for 'sign seen, but the weather did not come'.",
+   "record": "On each tally page, write the saying, the sign, and the weather it promises. Then make two rows of tally marks. One row is for 'sign seen, and the weather came'. The other row is for 'sign seen, but the weather did not come'.",
    "flow": [
     {
      "id": "s1",
@@ -1749,7 +1749,7 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. Count the tally marks for each saying. 2. Decide: keep it, keep it with a warning, or drop it. 3. Write and draw each saying on a page of the book, with the count and the decision.",
+     "do": "1. Count the tally marks for each saying. 2. Decide: keep it, keep it with a warning, or drop it. 3. Write each saying on a page of the book, with the count and the decision. Add a picture or photo if you like.",
      "say": "Let's count. How many times did each saying come true? How many times not? Should we keep it in our book, keep it with a warning, or drop it? Why?",
      "kid": "Count the marks. Did the saying come true more often than not? Keep it, keep it with a warning, or drop it?",
      "ask": [
@@ -1822,9 +1822,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Ask your child to draw or build their warning, then try it from across the room or corridor.",
-     "say": "Draw or build your warning. Then let's test it. I'll stand at the far end. Can I understand it?",
-     "kid": "Draw or build your warning. Then test it from the far end of the room.",
+     "do": "Ask your child to build or act out a warning with the torch, steel plate, spoon or cloth, or to draw one. Then try it from across the room or corridor.",
+     "say": "Build, act out or draw your warning. Then let's test it. I'll stand at the far end. Can I understand it?",
+     "kid": "Make your warning. Then test it from the far end of the room.",
      "adult": true,
      "parent": "If testing in a corridor or stairwell of a building, stay with your child. Torches are good for testing at night with the lights off."
     },
@@ -1887,8 +1887,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together.",
-     "say": "The forecast says 40% chance of rain on Sunday afternoon. Is rain likely or unlikely? What should we plan?",
-     "kid": "The forecast says 40% chance of rain. Is that likely or unlikely? What should we plan?",
+     "say": "The forecast says 40% chance of rain on Sunday afternoon. We want to go to the park. What should we plan?",
+     "kid": "The forecast says 40% chance of rain. Think about what could go wrong with a park trip.",
      "ask": [
       {
        "q": "Is 40% likely or unlikely?",

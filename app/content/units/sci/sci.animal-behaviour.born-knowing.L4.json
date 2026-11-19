@@ -570,7 +570,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Count the points. Then spread out all 16 cards with the backs up. Ask your child to find three cards where a dummy beat the real thing.",
-     "say": "Find three cards where the animal chose a dummy over the real thing. What did each dummy have more of?",
+     "say": "Find three cards where the animal chose a dummy, a fake, over the real thing. What did each dummy have more of?",
      "kid": "Find three cards where a dummy won. What did the dummy have more of?",
      "check": {
       "t": "mcq",
@@ -595,7 +595,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a guessing game for two or more players. One player is an animal with a secret trigger. The other player is a scientist who shows dummies, one at a time, to find the trigger.",
+   "context": "This is a guessing game for two or more players. One player is an animal with a secret trigger. The other player is a scientist who shows dummies, fake copies, one at a time, to find the trigger. The trigger is the one feature that sets off the animal.",
    "setup": [
     {
      "art": "Sixteen small cards laid out in four rows on a table, each with four words written on it, such as 'Red, round, moving, silent'.",
@@ -745,7 +745,7 @@
    ],
    "safety": "A grown-up stays beside the child for the whole test. The child holds their breath for 20 seconds at most and may lift their face at any moment. Use cold water, not painfully cold water. Leave this test out if your child has a cold, an ear infection, breathing trouble or any heart condition.",
    "record": "Draw a table with four rows: resting, breath held, breath held with a hand in cold water, and breath held with the face in cold water. Write three pulse counts in each row. Then circle the middle count of each three.",
-   "context": "In this experiment a grown-up counts your pulse while you hold your breath in three ways: with nothing wet, with a hand in cold water and with your face in cold water. You find out what sets off the diving reflex.",
+   "context": "In this experiment a grown-up counts your pulse while you hold your breath in three ways: with nothing wet, with a hand in cold water and with your face in cold water. You find out what sets off the diving reflex, a change some animals make in their body under water.",
    "setup": [
     {
      "art": "A grown-up sitting beside a child at a table with two fingers resting on the inside of the child's wrist, and a phone showing a timer.",
@@ -805,7 +805,7 @@
      "mins": 5,
      "do": "Sit your child on a chair at a table. Find their pulse with two fingers on the inside of the wrist, below the thumb. Explain the three tests. Ask for the guess and the reason, and write both down.",
      "say": "You will hold your breath three ways: with nothing wet, with a hand in cold water and with your face in cold water. Will your heart beat faster, slower or the same each time? Why do you think so?",
-     "kid": "You will hold your breath three ways. What will your heart do? Why?",
+     "kid": "Make a guess about your heartbeat in each test.",
      "adult": true,
      "ask": [
       {
@@ -948,7 +948,7 @@
     }
    ],
    "record": "Draw a table with two rows, one for each pair. For each voter, put one stroke under the card they chose.",
-   "context": "In this experiment you draw two pairs of faces. The faces in a pair differ in one thing only. You ask at least 8 people which face is cuter, and count the votes.",
+   "context": "In this experiment you draw two pairs of faces. The faces in a pair differ in one thing only. You ask at least 8 people which face is cuter, and count the votes. You find out whether big eyes, or eyes set low, make a face look cuter.",
    "setup": [
     {
      "art": "Four paper cards on a table, each with a pencil circle traced round a steel tumbler.",
@@ -1007,7 +1007,7 @@
      "mins": 4,
      "do": "On C and D, draw eyes 1 centimetre wide. On C, put the eyes 2 centimetres below the top of the circle. Put the nose 2 centimetres lower, and the mouth near the bottom. On D, put the eyes 4 and a half centimetres below the top. Put the nose and mouth close under the eyes.",
      "say": "These two faces have the same eyes. On C the eyes sit high. On D they sit low, and there is a big forehead above them. Which will get more votes, and why?",
-     "kid": "Draw face C with high eyes. Draw face D with low eyes. Guess again.",
+     "kid": "Draw face C with high eyes. Draw face D with low eyes. Which one will get more votes?",
      "context": "In this step of the Big Eyes Test you draw the second pair of faces. They differ only in how high the eyes sit."
     },
     {
@@ -1095,7 +1095,7 @@
     }
    ],
    "record": "A table with three rows: blink, toe curl and mouth-watering. For each one, write the stimulus, the response and whether you could stop it.",
-   "context": "In this activity you set off three reflexes in your own body: a blink, a toe curl and mouth-watering. For each one you find the stimulus that sets it off.",
+   "context": "In this activity you set off three reflexes in your own body: a blink, a toe curl and mouth-watering. A reflex is something your body does without you planning it. For each one you find the stimulus, the thing that sets it off.",
    "setup": [
     {
      "art": "A child holding a clear plastic folder in front of her face while a grown-up two steps away throws a rolled sock ball gently at the folder.",
@@ -1187,7 +1187,7 @@
     }
    ],
    "record": "Write whether you could stop a swallow halfway. Then write two numbers: swallows in 30 seconds with no water, and swallows in 30 seconds with small sips.",
-   "context": "In this activity you test your own swallow. A swallow is a fixed action pattern: it needs a trigger, and once it starts it runs to the end.",
+   "context": "In this activity you test your own swallow. A swallow is a fixed action pattern: it needs a trigger, the thing that sets it off, and once it starts it runs to the end.",
    "setup": [
     {
      "art": "A child with a tumbler of water in one hand and the fingers of her other hand resting lightly on the front of her throat.",
@@ -1226,7 +1226,7 @@
      "mins": 3,
      "do": "Compare the two counts. Talk about the questions below. After your child has answered, read them the note.",
      "say": "Why was it so hard to swallow with nothing in your mouth? What does a swallow need before it will start?",
-     "kid": "Which count was bigger? What does a swallow need to start?",
+     "kid": "Compare your two counts. Which one was bigger?",
      "ask": [
       {
        "q": "What is the trigger for a swallow?",
@@ -1276,7 +1276,7 @@
     }
    ],
    "record": "A line graph with age in hours along the bottom and ducklings who imprinted, out of 10, up the side. Shade the part of the graph where 6 or more ducklings imprinted.",
-   "context": "In this activity you draw a graph of how many ducklings imprint at each age. The numbers are made up, but they follow the pattern that Eckhard Hess found with mallard ducklings in 1959.",
+   "context": "In this activity you draw a graph of how many ducklings imprint at each age. Imprinting is when a duckling learns, in her first hours, to follow the first moving thing she sees. The numbers are made up, but they follow the pattern that Eckhard Hess found with mallard ducklings in 1959.",
    "setup": [
     {
      "art": "A model duck on a short arm moving round a circular track, with one small duckling walking after the model.",
@@ -1357,7 +1357,7 @@
      "mins": 8,
      "do": "Your child draws a line along the bottom of the page and marks the eight age groups, 2 squares apart. They draw a line up the side and mark 0 to 10, one square each. They put a dot for each group and join the dots with a ruler.",
      "say": "Put the ages along the bottom and the number of ducklings up the side. One dot for each age group. Then join the dots.",
-     "kid": "Draw the two lines. Put one dot for each age. Join the dots.",
+     "kid": "Draw the two lines. Put one dot for each age. Join the dots. Or build the graph with stacks of coins, one stack for each age.",
      "chart": {
       "type": "table",
       "title": "Made-up numbers that follow the pattern Hess found",
@@ -1473,7 +1473,7 @@
     }
    ],
    "record": "Day 1: a log of yawns, with the time and what came before. Days 2 and 3: a table with six rows, one for each volunteer, and a tick if they yawned within three minutes.",
-   "context": "In this three-day project you find out whether seeing a yawn sets off a yawn in other people. A yawn is a fixed action pattern in humans.",
+   "context": "In this three-day project you find out whether seeing a yawn sets off a yawn in other people. A fixed action pattern is something an animal does from start to end once they begin, and a yawn is one.",
    "setup": [
     {
      "art": "A family in a living room in the evening, one person yawning widely and a child on the sofa writing in a notebook.",
@@ -1563,8 +1563,8 @@
     "Hang a bedsheet over a table and push the puppet through a gap, so that only the crane shows.",
     "Play a recording of crane calls from a phone hidden under the sheet. Real keepers play crane calls to their chicks."
    ],
-   "your_turn": "Now design your own puppet. A sarus crane has a grey body and a bare red head and upper neck. Decide which features a crane chick most needs to see. Draw your design, build it and test it with 10 groundnuts in two minutes. Write how many reached the cup and how many times the chick spotted a human.",
-   "context": "In this challenge you build a crane-head hand puppet and feed a pretend chick. The chick must not see or hear a human. Real keepers do this so that crane chicks do not imprint on people.",
+   "your_turn": "Now design your own puppet. A sarus crane has a grey body and a bare red head and upper neck. Decide which features a crane chick most needs to see. Plan your design by drawing it or telling a grown-up. Then build it and test it with 10 groundnuts in two minutes. Write how many reached the cup and how many times the chick spotted a human.",
+   "context": "In this challenge you build a crane-head hand puppet and feed a pretend chick. The chick must not see or hear a human. Real keepers do this so that crane chicks do not imprint on people. Imprinting is when a chick learns to treat the first moving thing she sees as her parent.",
    "setup": [
     {
      "art": "A keeper covered from head to foot in a loose white costume, holding out a hand puppet shaped like a crane's head towards a small brown crane chick.",
@@ -1585,7 +1585,7 @@
      "mins": 4,
      "do": "Read the problem together. Ask what the chick must never see or hear. Ask which features of a crane the puppet needs most.",
      "say": "A crane chick imprints in her first days. What must she never see or hear? What should she see when she is fed?",
-     "kid": "The chick must imprint on a crane. What must she never see?",
+     "kid": "Talk about what the chick must never see or hear.",
      "ask": [
       {
        "q": "Which features of a parent crane might matter most to a chick?",
@@ -1620,7 +1620,7 @@
      "id": "s4",
      "mins": 5,
      "do": "Count the groundnuts in the cup and take one out for each 'human'. Your child changes one thing and tests again. Then talk about the question below.",
-     "say": "What gave you away? Change one thing and try again. Why do keepers go to so much trouble for one chick?",
+     "say": "What gave you away? Change one thing and try again.",
      "kid": "What gave you away? Change one thing. Test again.",
      "ask": [
       {

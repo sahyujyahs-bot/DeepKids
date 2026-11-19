@@ -546,7 +546,7 @@
     }
    ],
    "safety": "Use a pen with its cap on, never a sharp pencil, and keep it at arm's length from the face so nobody pokes an eye. Cover an eye with a cloth held gently or with the palm. Never press on the eye.",
-   "record": "Write down the clock number where your child first saw the card move, for each test. Multiply by 30 to get degrees. For the pen test, count how many times out of 6 the finger touched the cap with two eyes, and with one eye. Draw a bar chart of the best angle for each test, and a second bar chart of the pen hits.",
+   "record": "Write down the clock number where your child first saw the card move, for each test. Multiply by 30 to get degrees. For the pen test, count how many times out of 6 the finger touched the cap with two eyes, and with one eye. Make a bar chart of the best angle for each test, and a second one of the pen hits. Draw them, or build the bars from coins.",
    "context": "In this experiment, you find out how far round you can see with two eyes and with one eye, and how well two eyes judge distance. Then you compare your eyes with a pigeon's and an owl's.",
    "setup": [
     {
@@ -576,7 +576,7 @@
      "mins": 4,
      "do": "Show your child the setup. Ask for their two guesses and the reasons. Write them at the top of the results table.",
      "say": "Today we test your eyes. A card will come round from behind you, and you say when you first see it move. Then you try to touch a pen with one finger. What do you think will happen, and why do you think so?",
-     "kid": "We test your eyes today. Guess first. When will you see the card move? Will one eye see less? Why?",
+     "kid": "Guess first, and say why. Then we test your eyes.",
      "ask": [
       {
        "q": "Why might covering one eye change what you can see?",
@@ -700,9 +700,9 @@
     {
      "id": "s8",
      "mins": 3,
-     "do": "Draw one bar chart of the best angle for each wide-view test. Draw a second bar chart of the pen touches. Ask your child to say what they thought, what they saw and why. Then tell them: a pigeon sees about 340 degrees, and an owl about 110 degrees.",
+     "do": "Make one bar chart of the best angle for each wide-view test, and a second one of the pen touches. Draw them, or build the bars from coins. Ask your child to say what they thought, what they saw and why. Then tell them: a pigeon sees about 340 degrees, and an owl about 110 degrees.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Now look at the numbers. A pigeon sees about 340 degrees, and an owl about 110. These are typical figures, and books differ. Which one needs to see behind, and which one needs to judge distance?",
-     "kid": "Draw the bars. Say what you thought, what you saw, and why.",
+     "kid": "Make the bars. Say what you thought, what you saw, and why.",
      "think": "A pigeon is hunted and an owl hunts. How do their eyes fit that?",
      "parent": "A strong answer says something like this: eyes on the sides see a wider view, and eyes at the front overlap and judge distance. If your child says the nose got in the way, that is a very good observation. Do not explain until they have said what they saw.",
      "context": "In this step, you draw your results and compare your eyes with a pigeon's and an owl's."
@@ -750,7 +750,7 @@
     }
    ],
    "safety": "Put the basin on a towel on a flat, low surface so it does not tip. Wipe up spills at once, because a wet floor is slippery. Keep electrical things, including headphones, away from the water. Cover the ears with ear muffs or a thick cap or scarf, and make sure the child can still breathe and sit comfortably.",
-   "record": "For each distance, write how many of the 10 ripples your child placed on the correct side. Guessing alone would give about 5 on average, and a score of 3 to 7 can happen by luck. Draw a bar chart with one bar for each distance.",
+   "record": "For each distance, write how many of the 10 ripples your child placed on the correct side. Guessing alone would give about 5 on average, and a score of 3 to 7 can happen by luck. Make a bar chart with one bar for each distance. Draw it, or build the bars from coins.",
    "context": "In this experiment, you act like a fish. You keep your hands still in water and try to tell which side a ripple came from, without seeing or hearing it.",
    "setup": [
     {
@@ -776,7 +776,7 @@
      "mins": 4,
      "do": "Show your child the basin. Ask for their guesses and reasons. Write them at the top of the results table.",
      "say": "Fish have a line of tiny sensors along their sides that feel water move. Can your hands do anything like it? Will you tell which side a ripple came from when it starts close to your hand? Will you still tell at 20 centimetres? Why do you think so?",
-     "kid": "Fish feel water move. Can your hands? Guess first. Will you tell left from right? Why?",
+     "kid": "Guess first, and say why. Can your hands feel which side a ripple comes from?",
      "ask": [
       {
        "q": "What do you think your hands will feel when a ripple reaches them?",
@@ -861,9 +861,9 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Write the three scores in the table. Draw a bar chart. Ask your child to say what they thought, what they saw and why. Then tell them how a lateral line works.",
-     "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Now I will tell you what a fish has that you do not.",
-     "kid": "Draw a bar for each distance. Say what you thought, what you saw, and why.",
+     "do": "Write the three scores in the table. Make a bar chart, drawn or built from coins. Ask your child to say what they thought, what they saw and why. Then tell them how a lateral line works.",
+     "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? A fish has a lateral line, a row of tiny sensors along each side. They feel water move, even in the dark.",
+     "kid": "Make a bar for each distance. Say what you thought, what you saw, and why.",
      "think": "A fish has sensors along her whole side. What could she find that you could not?",
      "parent": "After your child's own words, say: a fish has a line of tiny sensors along each side with hairs that bend when water moves. She feels where another fish is, even in muddy or dark water. Your hands have no such sensors, but skin can still feel big ripples. A fish feels water movement only a short way, about one or two body lengths, so distance matters for her too.",
      "context": "In this step, you draw your results and learn how a fish's lateral line works."
@@ -911,7 +911,7 @@
     }
    ],
    "safety": "Keep the clock volume soft. Never use a loud sound near ears. The helper walks slowly and quietly, and the walkway is clear of stools and bags, to avoid tripping. A child with a cold or ear pain should not do this test. Never poke anything into an ear: the cone is held against the ear and never pushed in.",
-   "record": "For each setting, write the distance in centimetres where your child first heard the tick, the best of two tries. Draw a bar chart with one bar for each setting.",
+   "record": "For each setting, write the distance in centimetres where your child first heard the tick, the best of two tries. Make a bar chart with one bar for each setting. Draw it, or build the bars from coins.",
    "context": "In this experiment, you find out whether hands cupped behind your ears help you hear a quiet sound from farther away. The cupped hands work like a fox's ear flaps.",
    "setup": [
     {
@@ -937,7 +937,7 @@
      "mins": 3,
      "do": "Show your child the clock, your cupped hands and the cone. Ask for their guesses and reasons. Write them at the top of the results table.",
      "say": "Foxes, cats and deer have big ear flaps that they turn towards a sound. Do you think cupped hands could do the same job? What if the hands face backwards? Why do you think so?",
-     "kid": "Foxes turn big ears towards sounds. Can your hands do that? Guess first. Why?",
+     "kid": "Guess first, and say why. Can cupped hands help you hear?",
      "ask": [
       {
        "q": "What do you think an ear flap does?",
@@ -1029,9 +1029,9 @@
     {
      "id": "s7",
      "mins": 3,
-     "do": "Write the best distance for each setting. Draw a bar chart. Ask your child to say what they thought, what they saw and why.",
+     "do": "Write the best distance for each setting. Make a bar chart, drawn or built from coins. Ask your child to say what they thought, what they saw and why.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Which animal would use cupped ears like these?",
-     "kid": "Draw a bar for each setting. Say what you thought, what you saw, and why.",
+     "kid": "Make a bar for each setting. Say what you thought, what you saw, and why.",
      "think": "A fox hunts mice that squeak under the grass. How does her ear shape help?",
      "parent": "After your child's words, say: an ear flap collects more sound and points it into the ear, and it can be turned to find where the sound comes from. An ear flap makes the ear bigger. Mammals have them. Birds, frogs and snakes do not.",
      "context": "In this step, you draw your results and think about animals' ears."
@@ -1066,7 +1066,7 @@
      "what": "Cut out the clue strips. Sort them under the five groups. Then draw the pond as one of the animals might sense it."
     }
    ],
-   "record": "A sheet with five columns, one for each group, the clue strips stuck under the right ones, and a count under each column. Then a drawing of the pond as one group senses it.",
+   "record": "A sheet with five columns, one for each group, the clue strips stuck under the right ones, and a count under each column. Then a drawing or model of the pond as one group senses it.",
    "context": "In this activity, you sort clues about animal senses into the five groups of animals with a backbone, and then you draw the same pond as one of them might sense it.",
    "setup": [
     {
@@ -1088,14 +1088,14 @@
      "mins": 6,
      "do": "Write each clue on its own strip. Strip 1, a line of tiny sensors along the sides feels ripples. Strip 2, heat pits on the lips sense a warm body. Strip 3, a round eardrum sits on the outside of the head. Strip 4, a fourth colour cone sees ultraviolet. Strip 5, three tiny middle-ear bones. Strip 6, a forked tongue gathers scent. Strip 7, whiskers feel moving water and air. Strip 8, ear flaps turn towards a sound. Strip 9, a heart-shaped face collects sound. Strip 10, eyes on the sides give a very wide view. Strip 11, tiny dark dots on the jaws feel ripples. Strip 12, sharks sense weak electricity. Strip 13, a tadpole has a lateral line. Strip 14, high clicks and echoes find prey. Strip 15, the nose has many more smell receptors than a person's.",
      "say": "Each strip is a clue about a sense. Some belong to one group only. Some could belong to more than one. Read them aloud, and think about who has this sense.",
-     "kid": "Write each clue on a strip. Read them all.",
+     "kid": "Write each clue on a strip.",
      "parent": "The clues cover all five groups. Strips 3, 10 and 13 are good for discussion. Frogs have an eardrum on the outside of the head. Eyes on the sides are found in fish, frogs, birds and many mammals. A tadpole is an amphibian. There are no wrong answers to the discussion. Cutting strips: a child of 6 to 7 should use blunt, child-safe scissors with an adult close. With 2 to 4 children, each writes and cuts about five strips, then everybody sorts together. One child with a parent: share the writing.",
      "context": "In this step, you write the fifteen clues on paper strips."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Draw five columns on the big sheet. Write one group at the top of each. Read a strip and decide where it belongs. Stick it there. If a strip could fit two groups, put it between them and say why. When all 15 are placed, count the strips under each group. Write the counts under the columns. Which group has most strips? Is that because it has the most senses, or because we know most about it?",
+     "do": "Draw five columns on the big sheet. Write one group at the top of each: fish, amphibians, reptiles, birds and mammals. Read a strip and decide where it belongs. Stick it there. If a strip could fit two groups, put it between them and say why. When all 15 are placed, count the strips under each group. Write the counts under the columns. Which group has most strips? Is that because it has the most senses, or because we know most about it?",
      "say": "Put each strip where it belongs. If two groups could fit, put it in the middle. Then tell me why.",
      "kid": "Put each strip in the right column. Explain your choice.",
      "ask": [
@@ -1125,9 +1125,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Choose one group. Draw a pond as an animal of that group might sense it. Use colours or shapes for what she senses. Add a label that says what you think is most important to her.",
-     "say": "Draw the pond as a fish, a python or a pigeon might sense it. What would stand out? What would hardly be there at all? Use colour or shape to show it.",
-     "kid": "Draw the pond as another animal senses it. What stands out?",
+     "do": "Choose one group. Show a pond as an animal of that group might sense it. Draw it with colours or shapes, or build it from things in the house. Say what you think is most important to her.",
+     "say": "Show the pond as a fish, a python or a pigeon might sense it. What would stand out? What would hardly be there at all?",
+     "kid": "Pick an animal. Show the pond the way she might sense it.",
      "ask": [
       {
        "q": "What stands out most to your animal? What would hardly matter?",
@@ -1144,9 +1144,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask your child to show the drawing to the family. Ask the family to guess which animal it is.",
+     "do": "Ask your child to show it to the family. Ask the family to guess which animal it is.",
      "say": "Let us show this to the family. Can they guess which animal is sensing the pond? What clue helped?",
-     "kid": "Show your drawing. Can they guess your animal?",
+     "kid": "Show it. Can they guess your animal?",
      "think": "If you could be this animal for a day, what would you miss most about being you?",
      "context": "In this step, you share the drawing and see if others can guess the animal."
     }
@@ -1208,7 +1208,7 @@
      "mins": 5,
      "do": "An adult fills one pot with water as warm as a hot bath. Check that it feels comfortably warm on the inside of your wrist, and never hot. A finger should stay in it for 10 seconds without pain, and the outside of the pot should be bearable to hold. Fill the other pot with room-temperature water. Put a small secret mark under the warm pot. Ask your child to guess which part of the skin will feel warmth from farthest, and why.",
      "say": "Today you will find warmth with your skin, the way a python does with her lip pits. Which part of your skin will notice it first? The palm, the back of your hand, a fingertip or your cheek? Why?",
-     "kid": "Guess first. Which part of your skin feels warmth best? Why?",
+     "kid": "Guess first, and say why.",
      "adult": true,
      "ask": [
       {
@@ -1232,7 +1232,7 @@
      "parent": "Use the cool pot a few times as a check, so your child cannot just say warm every time. Hold the pot at the same height each time, and bring it from the side so rising warm air does not give it away.",
      "check": {
       "t": "mcq",
-      "q": "Why do we sometimes bring the room-temperature pot?",
+      "q": "Why do we also bring the room-temperature pot?",
       "options": [
        "To check that the child is not just saying warm every time",
        "To make the test longer",
@@ -1265,9 +1265,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Draw a bar chart of the four distances. Ask your child to say what they thought, what they saw and why. Then explain heat pits.",
+     "do": "Make a bar chart of the four distances, drawn or built from coins. Ask your child to say what they thought, what they saw and why. Then explain heat pits.",
      "say": "Tell me three things. What did you think? What did you see? Why did it happen? A python has pits on her lips that notice warmth. Some snakes with heat pits can sense a very small difference in warmth.",
-     "kid": "Draw a bar for each place. Say what you thought, what you saw, and why.",
+     "kid": "Make a bar for each place. Say what you thought, what you saw, and why.",
      "think": "Your skin feels warmth, but a python feels it much more finely. What would she be able to do?",
      "parent": "After your child's words, say: some snakes have heat pits that react to infrared. An Indian rock python has rows of pits along her lips, and she can find a warm rat in the dark. Pit vipers have been reported to respond to changes of about three thousandths of a degree. Cobras do not have pits.",
      "context": "In this step, you draw your results and learn how a snake's heat pit works."
@@ -1338,7 +1338,7 @@
      "mins": 5,
      "do": "Lay the string in a gentle zigzag on a clean floor. Dab a little scent on the string every 20 centimetres. Use only a few drops each time. Ask your child to guess whether two nostrils or one will follow the trail better, and why.",
      "say": "Dogs follow smell trails with their noses to the ground. A snake flicks her forked tongue to catch scent from two sides. Do you think two nostrils help you follow a trail better than one? Why?",
-     "kid": "Guess first. Do two nostrils follow a trail better than one? Why?",
+     "kid": "Guess first, and say why.",
      "parent": "First ask whether anyone is allergic or sensitive to the scent, and choose another if so. Use scents that are safe to sniff. Do not use strong sprays, cleaning liquids or anything that irritates the nose. Keep the room well aired, and put the used string out of the room between trails, because the smell lingers. Sniffing one strong smell for a while tires the nose, so rest for a few minutes between trails. A cloth strip works better than thin string because it holds more scent. Roles: one child follows the trail, one lays it, one counts the steps, and one walks beside to keep the follower safe. One child with a parent: the parent lays the trail and walks beside. With 2 to 4 children, each child follows both a two-nostril and a one-nostril trail, and some begin with the one-nostril trail so the order does not decide the result. Keep the follower's path clear of furniture and corners, and the others stay out of sight of the trail.",
      "context": "In this step, you lay a scent trail and make a guess."
     },
@@ -1384,9 +1384,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Write both counts in the table. Draw a bar chart. Ask your child to say what they thought, what they saw and why. Then explain what a forked tongue does.",
+     "do": "Write both counts in the table. Make a bar chart, drawn or built from coins. Ask your child to say what they thought, what they saw and why. Then explain what a forked tongue does.",
      "say": "Tell me three things. What did you think? What did you see? Why do you think it happened? A snake flicks her forked tongue to taste the air on two sides. What could two sides tell her?",
-     "kid": "Draw two bars. Say what you thought, what you saw, and why.",
+     "kid": "Make two bars. Say what you thought, what you saw, and why.",
      "think": "Why would a snake with a forked tongue find a trail more easily than one with a single tip?",
      "parent": "A strong answer may say that two samples let the animal compare left and right, and turn towards the stronger one. After your child's words, say: a snake's forked tongue collects scent and wipes it onto two spots in the roof of her mouth. The two tips may help her work out which way the trail goes.",
      "context": "In this step, you compare your two counts and think about the snake's tongue."
@@ -1564,7 +1564,7 @@
      "mins": 6,
      "do": "Play the first six cards. The reader reads the front. Everyone picks a token and turns it over together. The reader reads the back. After card three, ask the question below.",
      "say": "The reader reads the clue. Everyone picks a token. Turn them over together. Now read the back. Who scored? Who can say why?",
-     "kid": "The reader reads the clue. Pick a token. Turn it over. Check the back.",
+     "kid": "Pick the group you think it is. Turn your token over with the others.",
      "ask": [
       {
        "q": "Which clue was easy, and which was hard? Why?",
@@ -1610,7 +1610,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Play the last nine cards. Count the points. The player with the most points wins. A tie is a shared win. Then ask the question below.",
+     "do": "Play the last nine cards. Count the points. The player with the most points wins. A tie is a shared win. Then ask which clue surprised them most.",
      "say": "Last cards. Then count the points. Who has the most? Which clue surprised you most?",
      "kid": "Finish the cards. Count your points.",
      "think": "If you could borrow one sense from these cards for a day, which would you choose?",
@@ -1702,7 +1702,7 @@
        "The mice get tired"
       ],
       "a": 0,
-      "why": "Rustling makes a louder, sharper sound. In the story The Owl in the Granary, and in real life, a barn owl drops onto a rustling sound even when there is no mouse there. Dry leaves make a noise, so they help the owl and give the mouse away."
+      "why": "Rustling makes a louder, sharper sound. In real life, a barn owl drops onto a rustling sound even when there is no mouse there. Dry leaves make a noise, so they help the owl and give the mouse away."
      },
      "context": "In this step, you play the rounds with cupped hands and newspaper."
     },
@@ -1758,7 +1758,7 @@
     }
    ],
    "record": "A notebook with three days of notes. For each day, write what the bird did with her head and eyes, how close you got before she flew away, and what she did when she heard a noise.",
-   "context": "In this project, you watch a bird in your own home or building over three days, and notice how she uses her sharp eyes and her ears.",
+   "context": "In this project, you watch a bird over three days. You find out which eye she turns towards you, how close you can get, and whether a soft sound makes her turn.",
    "setup": [
     {
      "art": "A child sitting quietly on a balcony floor with a notebook, watching a pigeon on a ledge a few metres away.",
@@ -1770,7 +1770,7 @@
     },
     {
      "art": "A notebook page with three days of drawings of bird head positions and notes.",
-     "caption": "3. Draw and write what you notice each day."
+     "caption": "3. Write or tell what you notice each day."
     }
    ],
    "flow": [
@@ -1778,8 +1778,8 @@
      "id": "s1",
      "mins": 15,
      "do": "On day 1, put a few grains on a ledge, then sit quietly as far from the ledge as your space allows. On a terrace, that is 3 to 4 metres away. In a flat, sit behind the window glass. Watch the bird for 10 minutes. Note when she turns her head, which eye faces you, and whether her head bobs forward and back as she walks.",
-     "say": "Sit very still and watch the bird. Which eye is she using to look at you? Does her head bob as she walks? Draw what you see.",
-     "kid": "Sit still and watch a bird. Which eye looks at you? Draw her head.",
+     "say": "Sit very still and watch the bird. Which eye is she using to look at you? Does her head bob as she walks?",
+     "kid": "Sit still and watch the bird's head.",
      "ask": [
       {
        "q": "Why might a bird turn one side of her head towards you?",
@@ -1796,7 +1796,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "On day 2, sit in the same place. On a terrace or in a garden, move one slow step closer every 10 seconds. Count the steps. If you only have a window, move slowly behind the glass: lift a hand, then wave, then stand up. Note which move made her fly. Draw what you were doing when she left.",
+     "do": "On day 2, sit in the same place. On a terrace or in a garden, move one slow step closer every 10 seconds. Count the steps. If you only have a window, move slowly behind the glass: lift a hand, then wave, then stand up. Note which move made her fly. Write down what you were doing when she left, or tell your grown-up.",
      "say": "Move one step closer every ten seconds. Stop when she flies. How close were you? Was she looking at you before she flew?",
      "kid": "Move one slow step at a time. Stop when she flies. How close were you?",
      "parent": "Measure the steps. From a window the bird may not fly at all, so write that down as a result. Do not chase. If the bird flies at once, start further away. Birds that watch you from the side may see you early.",
@@ -1806,7 +1806,7 @@
      "id": "s3",
      "mins": 15,
      "do": "On day 3, sit in the same place. While the bird feeds, make a soft sound behind you, such as a quiet tap on a steel plate. Tap once a minute, five times in all. After each tap, tally whether she looked up or turned her head, and which way. Also tally one minute with no tap. Write what you have found out over three days.",
-     "say": "Make a soft tap behind you. Does she turn her head? Which way? What do you think she is sensing? Write what you learnt.",
+     "say": "Make a soft tap behind you. Does she turn her head? Which way? What do you think she is sensing? Tell me what you learnt, and then write it down.",
      "kid": "Make a soft tap. Does she turn her head? Write what you learnt.",
      "think": "What do you think a bird senses about you that you do not notice about yourself?",
      "context": "In this step, you test if the bird turns towards a sound, and write what you learnt.",
@@ -1844,8 +1844,8 @@
     "An owl-face dish: a big heart-shaped dish fixed around the face, with a gap for the ears.",
     "Ears that turn: ear cones on hinges, so that you can aim one at a time, like a deer."
    ],
-   "your_turn": "Sketch your design first. Build it, and test it with your eyes closed. Find the farthest distance where you hear the tick. Then change one thing, such as the size of the opening, and test again. Which design worked best? Why do you think so?",
-   "context": "This is a design challenge about ear shapes. You build the best listening ears you can, and then test them.",
+   "your_turn": "Sketch your design first, or describe it. Build it, and test it with your eyes closed. Find the farthest distance where you hear the tick. Then change one thing, such as the size of the opening, and test again. Which design worked best? Why do you think so?",
+   "context": "This is a design challenge. You will find out which ear shape hears a quiet clock from the farthest, by building ears and testing them.",
    "setup": [
     {
      "art": "A child sketching three ear designs on paper: a single cone, two cones on a headband, and a big dish.",
@@ -1864,9 +1864,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem aloud. Ask your child to sketch two or three ear designs. Ask which animal's ears each one is like.",
+     "do": "Read the problem aloud. Ask your child to sketch two or three ear designs, or just describe them. Ask which animal's ears each one is like.",
      "say": "Your job is to build ears that hear a quiet clock from farther than your own ears can. Sketch two or three designs first. Which animal is each design like?",
-     "kid": "Build ears that hear far. Sketch two or three designs first.",
+     "kid": "Plan two or three ear designs. Then build one.",
      "ask": [
       {
        "q": "What shape do you think catches the most sound?",
@@ -1882,7 +1882,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "First test bare ears, as in the Cup Your Ears experiment. Write the distance where your child first hears the tick. This is the number to beat.",
+     "do": "First test bare ears. The helper holds the clock 3 metres away and walks closer, 20 centimetres every 3 seconds. Your child keeps their eyes closed. Write the distance where your child first hears the tick. This is the number to beat.",
      "say": "First, how far can you hear the clock with bare ears? That number is the one to beat.",
      "kid": "Test bare ears first. This is the number to beat.",
      "context": "In this step, you find the number to beat, with bare ears."

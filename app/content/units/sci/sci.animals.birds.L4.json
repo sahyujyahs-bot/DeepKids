@@ -536,7 +536,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the 18 cards. Shuffle them, clue side up. Put a bowl of dried beans on the table.",
-     "say": "Each card describes the beak and feet of a real Indian bird. You will work out the food from those two clues. The Beak Lever Test showed that scissors cut hardest near the hinge. Remember this when you meet a short beak, because a short beak bites hard.",
+     "say": "Each card describes the beak and feet of a real Indian bird. You will work out the food from those two clues.",
      "kid": "Cut out the cards and shuffle them. Keep the clue side up.",
      "context": "This is the first step of Whose Beak, Whose Feet. You set up the cards and the beans."
     },
@@ -545,7 +545,7 @@
      "mins": 12,
      "do": "Play by the rules until all 18 cards have been read. After each card, ask for the reason before the card is turned over.",
      "say": "Tell me the food, and tell me which part of the beak or feet made you think so. Then we turn the card over.",
-     "kid": "Read the clue. Say the food and your reason. Then turn the card.",
+     "kid": "Listen to the clue. Say what the bird eats, and why.",
      "parent": "Accept any food that fits the back of the card. For the crow, 'almost anything' is the right answer. If your child is stuck, ask whether the beak is made for a hard bite or a long reach.",
      "check": {
       "t": "mcq",
@@ -701,7 +701,7 @@
      "mins": 3,
      "do": "Lay out the three labels. Shuffle the 16 cards. Ask your child to guess how many cards will end up under Both.",
      "say": "Here are 16 features. Some belong only to birds. Some belong only to the dinosaurs of long ago. Some belong to both. How many of the 16 do you think both will share? Why?",
-     "kid": "Lay out the labels. Guess how many cards go under Both.",
+     "kid": "Guess how many of the 16 cards go under Both.",
      "context": "This is the first step of Bird, Old Dinosaur or Both. You set up and make a guess."
     },
     {
@@ -772,7 +772,7 @@
     }
    ],
    "safety": "A grown-up stays beside the child for every cut. Keep the fingers that hold the paper well away from the blades. If a stack does not cut with one firm squeeze, stop and record that. Do not force the scissors.",
-   "record": "Draw a table with three rows: near the hinge, middle and tips. In each row write the thickest stack the scissors cut in one squeeze, and the gap between the open blades.",
+   "record": "Make a table with three rows: near the hinge, middle and tips. In each row write the thickest stack the scissors cut in one squeeze, and the gap between the open blades.",
    "context": "In this experiment a pair of scissors is your model of a beak. You find where along the blades the cut is strongest, and where the blades open widest.",
    "setup": [
     {
@@ -828,7 +828,7 @@
      "mins": 3,
      "do": "Show your child the scissors. Open and shut them slowly. Point to the screw, which is the hinge. Ask for the guess and the reason, and write both down.",
      "say": "These scissors are our model beak. The screw is the hinge, like the joint at the back of a bird's mouth. Where will the blades cut the thickest stack: near the hinge, in the middle or at the tips? Why do you think so?",
-     "kid": "Look at the scissors. Where will they cut the thickest stack? Why?",
+     "kid": "Open and shut the scissors. Look at the hinge, the middle and the tips.",
      "ask": [
       {
        "q": "Why do you think that place will cut best?",
@@ -876,7 +876,7 @@
      "id": "s4",
      "mins": 5,
      "do": "Open the scissors as wide as they go and lay them on the table. Measure the gap between the two blades at the mark near the hinge. Then measure the gap at the tips. Write both numbers in the table.",
-     "say": "Now we measure how far the blades open. Which part opens widest? When I snap the scissors shut, which part travels farthest in the same time?",
+     "say": "Now we measure how far the blades open. Look at the gap near the hinge and the gap at the tips.",
      "kid": "Open the scissors wide. Measure the gap at the hinge and the tips.",
      "ask": [
       {
@@ -893,7 +893,7 @@
      "mins": 5,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. Wait for all three. Then read them the explanation in the note below.",
      "say": "Look at your table. Say what you thought would happen, what you saw, and why you think it happened.",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+     "kid": "Look at your table. Tell your grown-up what you found.",
      "ask": [
       {
        "q": "Where was the cut strongest, and where did the blades open widest?",
@@ -911,8 +911,8 @@
      "id": "s6",
      "mins": 3,
      "do": "Ask your child to use the result on two birds: a sparrow with a beak about 1 centimetre long, and a godwit with a beak about 10 centimetres long.",
-     "say": "A sparrow's whole beak is as short as the part of the scissors near the hinge. A godwit's beak is as long as the whole blade. Which bird can crack a hard seed at the tip of the beak? What can the other bird do that this one cannot?",
-     "kid": "Think of a sparrow and a godwit. Who cracks seeds? Who reaches deep?",
+     "say": "A sparrow's whole beak is as short as the part of the scissors near the hinge. A godwit's beak is as long as the whole blade. Which bird can crack a hard seed? What can the other bird do that this one cannot?",
+     "kid": "Match each bird to a part of the scissors.",
      "check": {
       "t": "mcq",
       "q": "A bird has a very long, thin beak. What is this beak best at?",
@@ -981,7 +981,7 @@
      "what": "Search both bowls for 30 seconds each. Search the frozen bowl again after 20 and 40 minutes in the room."
     }
    ],
-   "record": "Draw a table with four rows: soft mud, frozen mud, frozen mud after 20 minutes in the room, and frozen mud after 40 minutes. Write the number of beans found in 30 seconds in each row.",
+   "record": "Make a table with four rows: soft mud, frozen mud, frozen mud after 20 minutes in the room, and frozen mud after 40 minutes. Write the number of beans found in 30 seconds in each row.",
    "context": "In this experiment tweezers are the beak of a godwit, a bird who feeds by pushing her beak into mud. You test whether that beak can still find food when the mud freezes.",
    "setup": [
     {
@@ -1085,7 +1085,7 @@
      "mins": 5,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they saw, and why it happened. Wait for all three. Then read them the explanation in the note below.",
      "say": "Look at your four counts. Say what you thought would happen, what you saw, and why you think it happened. Then tell me what a godwit must do when the ground where she lives freezes.",
-     "kid": "Say what you thought would happen. Say what you saw. Say why it happened.",
+     "kid": "Look at your table. Tell your grown-up what you found.",
      "ask": [
       {
        "q": "The food was in the frozen bowl all the time. Why did the beak go hungry?",
@@ -1131,8 +1131,8 @@
      "what": "Watch one bird, draw the beak and one foot, and write down what the bird does with each."
     }
    ],
-   "record": "A drawing of the beak and of one foot, with the number of toes pointing forward and back. A list of everything you saw the bird do with the beak and with the feet.",
-   "context": "In this activity you watch one bird closely for a few minutes. You draw the beak and a foot, and note what the bird does with them.",
+   "record": "The number of toes pointing forward and back. A list of everything you saw the bird do with the beak and with the feet.",
+   "context": "In this activity you find out what a bird's beak and feet are for. You watch one bird closely for a few minutes.",
    "setup": [
     {
      "art": "A child at a window with a notebook, looking at a crow on the balcony rail.",
@@ -1140,7 +1140,7 @@
     },
     {
      "art": "A notebook page with a large drawing of a crow's beak and a foot showing three toes forward and one back.",
-     "caption": "2. Draw the beak and one foot. Count the toes."
+     "caption": "2. Look at the beak and one foot. Count the toes."
     },
     {
      "art": "The same page with a short list: picks up rice, wipes beak on rail, scratches head with foot.",
@@ -1159,9 +1159,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Watch for five minutes. Your child draws the beak and one foot, and counts the toes pointing forward and back. They list everything the bird does with the beak and with the feet.",
-     "say": "Draw the beak as large as your palm. Then draw one foot and count the toes. Write down each thing the beak does. Write down whether the bird walks or hops.",
-     "kid": "Draw the beak and a foot. Count the toes. List what each one does.",
+     "do": "Watch for five minutes. Your child looks at the beak and one foot, and counts the toes pointing forward and back. They list everything the bird does with the beak and with the feet.",
+     "say": "Look at the beak and one foot. How many toes point forward, and how many point back? Write down each thing the beak does. Write down whether the bird walks or hops.",
+     "kid": "Count the toes. List what the beak and the feet do.",
      "parent": "A crow or a pigeon has three toes forward and one back. A pigeon and a crow walk, and a sparrow hops. A beak is often used to clean feathers and to scratch, as well as to eat.",
      "context": "In this step of Beak and Feet Watch you draw the beak and a foot. You also list what the bird does with them."
     },
@@ -1169,8 +1169,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask your child to read out the list. Ask which jobs of the beak had nothing to do with eating.",
-     "say": "Read me your list. Which jobs did the beak do that were not eating? What would you use for those jobs?",
-     "kid": "Read your list. Which beak jobs were not eating?",
+     "say": "Read me your list out loud. Then we look for beak jobs that were not eating.",
+     "kid": "Read your list out loud.",
      "ask": [
       {
        "q": "What did the beak do besides eating?",
@@ -1213,7 +1213,7 @@
      "what": "Bend your wrist back and forward, and watch what your fingers do without being told."
     }
    ],
-   "record": "Two small drawings of your hand: one with the wrist bent back and one with the wrist bent forward. Draw what the fingers did each time.",
+   "record": "What your fingers did with the wrist bent back, and what they did with the wrist bent forward. Say it, write it, or draw your hand each time.",
    "context": "In this activity you find out how bending one joint can close the fingers, using your own hand. It shows one way a bird's toes can hold a branch while the bird sleeps.",
    "setup": [
     {
@@ -1252,7 +1252,7 @@
      "mins": 3,
      "do": "Your child holds a pencil loosely across the fingers, with the wrist bent far forward. Pull the pencil gently. Then your child bends the wrist back and holds the pencil in the same loose way. Pull again.",
      "say": "Hold the pencil loosely, with your wrist bent forward. I will pull it gently. Now bend your wrist back and hold it loosely again. Which time was the pencil harder to pull out?",
-     "kid": "Hold a pencil loosely. Bend your wrist forward, then back. Which grip is stronger?",
+     "kid": "Hold a pencil loosely. Bend your wrist forward, then back.",
      "context": "In this step of The Sleeping Grip you test your grip on a pencil with the wrist bent two ways."
     },
     {
@@ -1325,16 +1325,16 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw the table with eight rows. The first four rows are feathers, scaly feet, claws on the toes, and three main toes pointing forward. The last four are walks on the toes, lays eggs with hard shells, sits on the eggs, and a wishbone.",
-     "say": "We are going to check a bird for eight features. Then you will guess which of the eight a small meat-eating dinosaur had. Draw the table first.",
-     "kid": "Draw a table with eight rows. Write one feature in each row.",
+     "do": "Make the table with eight rows. The first four rows are feathers, scaly feet, claws on the toes, and three main toes pointing forward. The last four are walks on the toes, lays eggs with hard shells, sits on the eggs, and a wishbone.",
+     "say": "We are going to check a bird for eight features. Then you will guess which of the eight a small meat-eating dinosaur had. Make the table first.",
+     "kid": "Make a table with eight rows. Write one feature in each row.",
      "context": "This is the first step of Find the Dinosaur in a Bird. You draw a table of eight features."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Watch a bird at the window, or a video of a hen or pigeon walking. Tick each feature you can see. Then your child stands on tiptoe and feels their own raised heel and ankle.",
-     "say": "Look at the leg. The joint that seems to bend backward is not a knee. Stand on your toes. Your heel is up in the air now, just as hers is. What part of her leg matches your heel?",
+     "say": "Look at the leg. The joint that seems to bend backward is not a knee. Stand on your toes. Your heel is up in the air now, just as hers is.",
      "kid": "Tick what you see on the bird. Then stand on your toes. Feel your heel.",
      "parent": "A bird walks on the toes all the time. The backward-pointing joint is the ankle, and the real knee is hidden in the feathers. You cannot see eggs or a wishbone at the window, so tick those from what you know. If you have a chicken wishbone, show it now.",
      "check": {
@@ -1362,7 +1362,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Tell your child the answer after they have guessed. Fossils show all eight features on small meat-eating dinosaurs. Then ask what a hen does not have that those dinosaurs had.",
-     "say": "Fossils show every one of the eight on small meat-eating dinosaurs. Say what you guessed, what the fossils show, and what you think that means. What did those dinosaurs have that a hen does not?",
+     "say": "Fossils show every one of the eight on small meat-eating dinosaurs. Look at your guesses. Which ones were right?",
      "kid": "All eight are found in fossils. What does that tell you about birds?",
      "ask": [
       {
@@ -1393,6 +1393,10 @@
     {
      "item": "four slips of paper",
      "qty": 1
+    },
+    {
+     "item": "dry grass, twigs, leaves or scrap paper",
+     "qty": 1
     }
    ],
    "schedule": [
@@ -1402,8 +1406,8 @@
      "what": "Design a nest for each of four places, and compare your designs with what real birds do."
     }
    ],
-   "record": "Four small drawings, one for each place. Beside each, write the main danger there and how your nest deals with it.",
-   "context": "In this activity you are given four places where a bird might nest. For each one you work out the danger and design a nest that deals with it.",
+   "record": "Four small nests, one for each place (or drawings, if you prefer). Beside each, write the main danger there and how your nest deals with it.",
+   "context": "In this activity you find out why birds nest in such different places. For each of four places you work out the danger, then make a nest that deals with it.",
    "setup": [
     {
      "art": "Four paper slips on a table reading: open stony ground, a tall tree where snakes climb, under a concrete bridge, a big tree with an old hole.",
@@ -1411,7 +1415,7 @@
     },
     {
      "art": "A child drawing a hanging nest at the tip of a thin branch over water.",
-     "caption": "2. For each place, name the danger and draw a nest."
+     "caption": "2. For each place, name the danger and make a nest."
     },
     {
      "art": "The child's four drawings beside four small drawings of a lapwing scrape, a weaver nest, a swallow mud nest and a sealed hornbill hole.",
@@ -1424,15 +1428,15 @@
      "mins": 2,
      "do": "Write the four places on four slips. The first two are open stony ground with no plants, and a tall tree where snakes climb. The last two are the underside of a concrete bridge, and a big tree with an old hole.",
      "say": "A nest has two jobs. It keeps the eggs warm, and it keeps hunters away from eggs and chicks. Here are four places. What is the biggest danger to an egg in each one?",
-     "kid": "Read the four places. What is the danger to an egg in each?",
+     "kid": "Read the four slips. Think about the danger to an egg in each place.",
      "context": "This is the first step of Where Would You Nest. You look at four places and name the danger in each."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Your child draws a nest for each place and says how it deals with the danger. Do not show the real answers yet.",
-     "say": "Design a nest for each place. You have only a beak and two feet. You can use grass, twigs, mud, leaves or nothing at all. Tell me how each design keeps the eggs safe.",
-     "kid": "Draw a nest for each place. Say how it keeps the eggs safe.",
+     "do": "Your child makes a small nest on each slip from grass, twigs, leaves or scraps, or just describes it. They say how it deals with the danger. Do not show the real answers yet.",
+     "say": "Make a nest on each slip. You have only a beak and two feet. Use grass, twigs, leaves or scraps. Tell me how each nest keeps the eggs safe.",
+     "kid": "Make a nest on each slip. Say how it keeps the eggs safe.",
      "parent": "Any design with a reason is good. Ask how the bird would carry and fix each material with only a beak.",
      "context": "In this step of Where Would You Nest you design a nest for each of the four places."
     },
@@ -1491,11 +1495,11 @@
     }
    ],
    "record": "A tree of eight cards on a wall or a door, with six feature marks on the main line. A note of what your family guessed and what surprised them.",
-   "context": "In this three-day project you build a family tree on a wall. It shows how a crocodile, five dinosaurs of long ago, a hen and a sparrow are related.",
+   "context": "In this three-day project you build a family tree on a wall. You will find out which animals are the sparrow's closest relatives. It shows how a crocodile, five dinosaurs of long ago, a hen and a sparrow are related.",
    "setup": [
     {
      "art": "Eight hand-sized cards on a table with child's drawings of a mugger crocodile, a long-necked dinosaur, Rajasaurus, Tyrannosaurus, Velociraptor, Archaeopteryx, a hen and a sparrow.",
-     "caption": "1. Draw eight cards, one animal on each."
+     "caption": "1. Make eight cards, one animal on each."
     },
     {
      "art": "A length of wool taped up a wall as a main line, with the eight cards on short side branches from bottom to top.",
@@ -1510,9 +1514,9 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "Day 1. Your child draws eight cards: a mugger crocodile, Barapasaurus, Rajasaurus, Tyrannosaurus, Velociraptor, Archaeopteryx, a hen and a sparrow. On each card they write the name and when the animal lived.",
-     "say": "Draw one animal on each card. Barapasaurus was a long-necked plant-eater found in Telangana. Rajasaurus was a meat-eater found in Gujarat. Which of these eight do you think is the sparrow's closest relative? Why?",
-     "kid": "Draw eight animal cards. Write each name. Guess the sparrow's closest relative.",
+     "do": "Day 1. Your child makes eight cards: a mugger crocodile, Barapasaurus, Rajasaurus, Tyrannosaurus, Velociraptor, Archaeopteryx, a hen and a sparrow. On each card they write the name and when the animal lived. They can draw the animal, or stick on a picture, or leave the name alone.",
+     "say": "Make one card for each animal. Barapasaurus was a long-necked plant-eater found in Telangana. Rajasaurus was a meat-eater found in Gujarat. Which of these eight do you think is the sparrow's closest relative? Why?",
+     "kid": "Make eight animal cards. Write each name. Guess the sparrow's closest relative.",
      "parent": "When each lived: the crocodile, the hen and the sparrow are alive today. Barapasaurus lived about 185 million years ago. Rajasaurus and Tyrannosaurus lived about 67 million years ago. Velociraptor lived about 75 million years ago, and Archaeopteryx about 150 million years ago. Draw Velociraptor with feathers.",
      "context": "This is day 1 of From Crocodile to Sparrow. You draw eight animal cards."
     },
@@ -1571,8 +1575,8 @@
     "Make the wall thick where it joins the cardboard and thin at the rim.",
     "Roughen the cardboard with a fork first, so that the first row has something to hold."
    ],
-   "your_turn": "Now design your own. Change one thing: the mix, the shape, or how long you wait between rows. Draw your design, build it, and test it with the three marbles after one day. Write down what held and what broke.",
-   "context": "In this challenge you build a nest cup on an upright cardboard wall using only small pellets. It is the problem a swallow solves under a bridge.",
+   "your_turn": "Now design your own. Change one thing: the mix, the shape, or how long you wait between rows. Tell your grown-up your plan (or draw it), build it, and test it with the three marbles after one day. Write down what held and what broke.",
+   "context": "In this challenge you build a nest cup on an upright cardboard wall using only small pellets. You will find out how a swallow can stick mud to an upright wall without glue.",
    "setup": [
     {
      "art": "A piece of cardboard leaning upright against a wall, with a bowl of wet soil, a bowl of water and a small heap of rolled pellets beside it.",
@@ -1593,7 +1597,7 @@
      "mins": 5,
      "do": "Read the problem together. Stand the cardboard upright. Ask your child what will make the wet pellets fall off, and how to stop that.",
      "say": "The wall is upright, and the pellets are wet and heavy. What could make the nest fall off before it dries? List every idea you have for stopping that.",
-     "kid": "Read the problem. Why might the wet pellets fall off? How can you stop it?",
+     "kid": "Read the problem. Think of ideas to stop the pellets falling off.",
      "ask": [
       {
        "q": "What makes a wet nest fall off an upright wall?",

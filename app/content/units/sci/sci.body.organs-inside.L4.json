@@ -614,7 +614,7 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "Play the cards one at a time. The reader reads the front, everyone puts a token down, and the reader reads the back. Keep score.",
+          "do": "Play the cards one at a time. The reader reads the front, everyone puts a token down, and the reader reads the back. A right token scores one point.",
           "say": "Read the front only. Put your token down face down. Turn them over together. Then I will read the back.",
           "kid": "Read a front. Put a token down. Turn them over. Read the back.",
           "ask": [
@@ -634,8 +634,8 @@
           "id": "s4",
           "mins": 3,
           "do": "Count the points. Put the cards marked Automatic, but you can take over in a row, and read their fronts aloud.",
-          "say": "Look at the cards marked Automatic, but you can take over. What do these jobs have in common?",
-          "kid": "Find the cards marked Automatic, but you can take over. What do they have in common?",
+          "say": "Look at the cards marked Automatic, but you can take over. Read each one out.",
+          "kid": "Put the Automatic, but you can take over cards in a row. Read each one out.",
           "ask": [
             {
               "q": "What do the cards marked Automatic, but you can take over have in common?",
@@ -653,7 +653,7 @@
           "mins": 3,
           "do": "Ask the question below, and let the child think before giving any answer. Write down what the child says.",
           "say": "Your heart is automatic only. Your breathing is automatic, but you can take over. Why do you think the body is built this way?",
-          "kid": "The heart is automatic only. You can take over your breathing. Why might that be?",
+          "kid": "Think about your heart and your breathing. Tell your grown-up what you think.",
           "ask": [
             {
               "q": "Why might you be able to take over your breathing but not your heart?",
@@ -710,8 +710,8 @@
       ],
       "safety": "Use a low, firm step with nothing slippery on it, and keep a grown-up beside the child. Stop at once if the child feels dizzy, has pain in the chest or cannot catch their breath. A child with a heart or breathing condition should ask the doctor first.",
       "schedule": [],
-      "record": "Write the beats in 15 seconds at rest, after 15, 30 and 60 seconds of step-ups, in each of the four 15-second counts straight after the 60-second round, and at 2 and 3 minutes of rest. Multiply each by 4. Draw one line graph for the rise and a second for the fall.",
-      "context": "In this experiment, you count your pulse at rest, after 15, 30 and 60 seconds of step-ups, and every 15 seconds after you stop. You find out when your pulse changes most.",
+      "record": "Write the beats in 15 seconds at rest, after 15, 30 and 60 seconds of step-ups, in each of the four 15-second counts straight after the 60-second round, and at 2 and 3 minutes of rest. Multiply each by 4. Draw one line graph for the rise and a second for the fall, or circle the biggest jump in your row of numbers.",
+      "context": "In this experiment, you count your pulse at rest, after 15, 30 and 60 seconds of step-ups, and every 15 seconds after you stop. You find out how fast your heart reacts when you start and stop exercising, and when it changes most.",
       "setup": [
         {
           "art": "A child sitting on a chair with two fingers on her wrist, while a parent holds a phone stopwatch.",
@@ -740,7 +740,7 @@
           "mins": 4,
           "do": "Show the child the results table. Ask for a guess and a reason for the rise and for the fall. Write both down before any counting.",
           "say": "We will count your pulse at rest, after a short burst of step-ups, and every 15 seconds after you stop. What do you think will happen, and why?",
-          "kid": "We will count your pulse many times. What do you think will happen? Why?",
+          "kid": "Your grown-up will count your pulse many times. First, guess what it will do.",
           "ask": [
             {
               "q": "After only 15 seconds of step-ups, will your pulse be a little higher or a lot higher? Why?",
@@ -850,9 +850,9 @@
         {
           "id": "s8",
           "mins": 7,
-          "do": "Help the child multiply every count by 4. Draw a line graph of the rise, with seconds of exercise along the bottom: 0, 15, 30, 60. Draw a second graph of the fall.",
+          "do": "Help the child multiply every count by 4. Draw a line graph of the rise, with seconds of exercise along the bottom: 0, 15, 30, 60. Draw a second graph of the fall. A child who would rather not draw can write the numbers in a row and circle the biggest jump.",
           "say": "Multiply each count by four to get beats per minute. Now plot the rise and the fall as two lines.",
-          "kid": "Multiply each count by 4. Draw two line graphs, one for rising and one for falling.",
+          "kid": "Multiply each count by 4. Draw two line graphs, one for rising and one for falling. Or write the numbers in a row and circle the biggest jump.",
           "check": {
             "t": "mcq",
             "q": "A child counted 28 beats in 15 seconds. What is that in beats per minute?",
@@ -869,9 +869,9 @@
         {
           "id": "s9",
           "mins": 6,
-          "do": "Ask the child to write what they think happened to the pulse (the claim), the numbers that show it (the evidence) and why they think it happened (the reasoning). Compare the claim with the first guess. Do not explain until the child has said what they think.",
+          "do": "Ask the child to say what they think happened to the pulse (the claim). Then ask for the numbers that show it (the evidence) and the reason (the reasoning). Compare the claim with the first guess. Do not explain until the child has said what they think.",
           "say": "What do you think happened to your pulse? What numbers show it? Why do you think your heart did that?",
-          "kid": "Write what you think, what you saw and why. Compare it with your guess.",
+          "kid": "Tell your grown-up what you think, what you saw and why. Compare it with your guess.",
           "ask": [
             {
               "q": "In which stretch did your pulse change the most?",
@@ -969,7 +969,7 @@
           "mins": 5,
           "do": "Put the tape round the chest just under the armpits, over a thin vest. Hold it snug and not tight. Practise reading it at the end of a normal breath out.",
           "say": "The tape goes just under your armpits. I will hold it snug, not tight. Breathe normally while I practise reading it.",
-          "kid": "Stand still. A grown-up holds the tape under your armpits. Breathe normally.",
+          "kid": "Sit still on the chair. A grown-up holds the tape under your armpits. Breathe normally.",
           "parent": "Read the tape at the front, where the two ends meet. Keep the tape level all the way round. A measurement is only good to about half a centimetre. No tape measure? Use a piece of string: pinch the string where the ends meet, lay it flat along a ruler or a metre scale and read the length. A soft tape from a stationery or tailoring shop costs about Rs 20 to 40. The string method is a little less exact, so repeat each reading once.",
           "context": "In this step you set up the tape and practise reading it while the child breathes normally."
         },
@@ -1070,9 +1070,9 @@
         {
           "id": "s1",
           "mins": 4,
-          "do": "Ask the child to sit still for one minute. One hand rests on the wrist and one on the belly. Count the pulse for 15 seconds, and the breaths for 15 seconds.",
-          "say": "Sit still. One hand finds your pulse, and one hand rests on your belly. Count both for fifteen seconds.",
-          "kid": "Find your pulse. Feel your belly rise. Count both for 15 seconds.",
+          "do": "Ask the child to sit still for one minute. One hand rests on the wrist and one on the belly. Count the pulse for 15 seconds. Then count the breaths for 15 seconds.",
+          "say": "Sit still. One hand finds your pulse, and one hand rests on your belly. Count your pulse for fifteen seconds, and then your breaths for fifteen seconds.",
+          "kid": "Find your pulse. Feel your belly rise. Count your pulse for 15 seconds, then your breaths for 15 seconds.",
           "context": "In this step you find your two clocks, the heartbeat and the breath, and count them.",
           "parent": "One child: the parent times. With 2 to 4 children: everyone does the tries at the same time, each with their own pulse and breath, and one child is the timer. Compare the numbers afterwards."
         },
@@ -1099,8 +1099,8 @@
           "id": "s3",
           "mins": 4,
           "adult": true,
-          "do": "Ask the child to breathe in normally and hold the breath for five seconds, while a grown-up counts. Then breathe out. Ask what the body wants to do next.",
-          "say": "Breathe in normally. Now hold it while I count to five. Breathe out. What did your body want to do?",
+          "do": "Ask the child to breathe in normally and hold the breath for five seconds, while a grown-up counts. Then breathe out and watch what the body does next.",
+          "say": "Breathe in normally. Now hold it while I count to five. Breathe out.",
           "kid": "Breathe in. Hold it while a grown-up counts to five. Breathe out.",
           "ask": [
             {
@@ -1112,7 +1112,7 @@
               ]
             },
             {
-              "q": "Which clock could you steer, the heart or the breath?",
+              "q": "Which could you control on purpose, your heart or your breath?",
               "good": [
                 "The breath.",
                 "Only the breath, the heart did its own thing."
@@ -1175,7 +1175,7 @@
         {
           "id": "s2",
           "mins": 6,
-          "do": "Tell the child that a race will start soon, up the stairs and down, and that you will say go. Wait 20 seconds in silence with the stopwatch visible. Count the pulse for 15 seconds, but never say go.",
+          "do": "Tell the child that a race will start soon, up the stairs and down, and that you will say go. Wait 20 seconds in silence with the stopwatch visible. Count the pulse for 15 seconds, but never say go. Afterwards, tell the child there was no race.",
           "say": "In a moment, you will race up the stairs and back. Hands ready. Count your pulse now while we wait.",
           "kid": "Get ready for a race. Count your pulse while you wait.",
           "ask": [
@@ -1205,7 +1205,7 @@
           "mins": 5,
           "do": "Look at the three pairs. Ask the child to say whether the waiting count was higher each time, and what that might mean. Do not explain before the child has answered.",
           "say": "Look at your three pairs. Was your pulse higher while you waited? What do you think your body was doing?",
-          "kid": "Look at your three pairs. Was waiting higher each time? Why?",
+          "kid": "Look at your three pairs of numbers. Compare the two numbers in each pair.",
           "ask": [
             {
               "q": "Was the waiting count higher in every pair?",
@@ -1342,7 +1342,7 @@
           "mins": 5,
           "do": "Clap the elephant. An elephant's heart beats about 30 times a minute, which is one beat every 2 seconds. Clap once every two seconds for 10 seconds. A grown-up counts the seconds.",
           "say": "An elephant's heart beats about thirty times a minute. That is one beat every two seconds. Clap with me for ten seconds.",
-          "kid": "Clap once every 2 seconds, for 10 seconds. How many claps?",
+          "kid": "Clap once every 2 seconds, for 10 seconds. Count your claps.",
           "ask": [
             {
               "q": "How many claps did the elephant make in 10 seconds?",
@@ -1357,8 +1357,8 @@
           "id": "s2",
           "mins": 5,
           "do": "First count your own pulse for 10 seconds. Then clap a child's heart at about 85 beats a minute, which is 14 claps in 10 seconds. Compare your own count with 14, because 14 claps is only a typical number. Then clap the cat's heart at about 150 beats a minute, which is 25 claps in 10 seconds.",
-          "say": "Your heart beats about eighty-five times a minute, so about fourteen claps in ten seconds. A cat's heart beats about a hundred and fifty times a minute. Try twenty-five claps in ten seconds.",
-          "kid": "Clap 14 times in 10 seconds. Now clap 25 times in 10 seconds.",
+          "say": "First count your own pulse for ten seconds. A child's heart beats about eighty-five times a minute, so about fourteen claps in ten seconds. A cat's heart beats about a hundred and fifty times a minute. Try twenty-five claps in ten seconds.",
+          "kid": "Count your own pulse for 10 seconds. Clap 14 times in 10 seconds. Now clap 25 times in 10 seconds.",
           "ask": [
             {
               "q": "Which was harder to clap, the child or the cat?",
@@ -1376,7 +1376,7 @@
           "mins": 5,
           "do": "Work out how many claps a mouse and a hummingbird would need in 10 seconds. A mouse's heart beats about 600 times a minute, and a hummingbird's can reach about 1,200 times a minute in flight. Try to flutter your fingers as fast as you can for 10 seconds.",
           "say": "A mouse's heart beats about six hundred times a minute. How many beats is that in ten seconds? A hummingbird's in flight can reach about twelve hundred times a minute. How many in ten seconds?",
-          "kid": "A mouse's heart beats 600 times a minute. How many beats is that in 10 seconds?",
+          "kid": "A mouse's heart beats 600 times a minute. Work out its beats in 10 seconds. Then flutter your fingers as fast as you can.",
           "ask": [
             {
               "q": "How many beats would a mouse's heart make in 10 seconds?",
@@ -1438,7 +1438,7 @@
           "what": "Count at the same six moments again, draw both days as two lines, and compare."
         }
       ],
-      "record": "Write six pulse counts for each day, the time of each and what you were doing. Draw two lines on one graph.",
+      "record": "Write six pulse counts for each day, the time of each and what you were doing. Draw two lines on one graph, or circle the highest and lowest of each day.",
       "context": "In this project, you count your pulse at the same six moments on two days. You draw both days as lines and see what changes during a day, and what stays the same.",
       "setup": [
         {
@@ -1460,7 +1460,7 @@
           "mins": 8,
           "do": "Draw a table with six rows. The rows are waking in bed, after breakfast, at study time, right after play, after dinner, and in bed before sleep. Guess which will be highest and lowest.",
           "say": "We will count your pulse at six moments today. Which moment do you think will be highest, and which lowest? Why?",
-          "kid": "Pick six moments in your day. Which will be highest? Which lowest? Why?",
+          "kid": "Look at the six moments. Guess which will be highest and which lowest.",
           "ask": [
             {
               "q": "At which moment do you think your pulse is highest, and why?",
@@ -1504,9 +1504,9 @@
         {
           "id": "s4",
           "mins": 20,
-          "do": "On day 2, count at the same six moments. Then draw a graph with the time of day along the bottom and beats per minute up the side. Draw day 1 in one colour and day 2 in another colour.",
+          "do": "On day 2, count at the same six moments. Then draw a graph with the time of day along the bottom and beats per minute up the side. Draw day 1 in one colour and day 2 in another colour. Or skip the graph. Circle the highest and lowest of each day in the table.",
           "say": "Today we count at the same six moments. Then we draw both days on one graph, in two colours.",
-          "kid": "Count again at the same six moments. Draw both days on one graph.",
+          "kid": "Count again at the same six moments. Draw both days on one graph. Or circle each day's highest and lowest.",
           "context": "In this step you repeat the counts on the second day and draw both days as two lines."
         },
         {
@@ -1514,7 +1514,7 @@
           "mins": 10,
           "do": "Look at the two lines together. Ask what is the same and what is different. Ask which moments were highest and lowest, which numbers show it, and why the child thinks so.",
           "say": "Look at your two lines. What is the same on both days? What is different? What do you think caused each difference?",
-          "kid": "Look at your two lines. What is the same? What is different?",
+          "kid": "Put your two days side by side. Point to one thing that is the same and one that is different.",
           "ask": [
             {
               "q": "What stayed the same on both days?",
@@ -1573,7 +1573,7 @@
         "Do a short slow stretch and a slow breath together."
       ],
       "your_turn": "Invent your own 45-second routine. Test it against sitting still, using the same exercise and the same counts. Report which brought the pulse down further, and by how many beats.",
-      "context": "This is a design challenge about the nerve that acts as a brake on the heart. You try to bring a racing pulse down quickly, and test your ideas with real counts.",
+      "context": "This is a design challenge. You try to bring a racing pulse down quickly, and test your ideas with real counts. A nerve from the brain slows the heart like a brake, and you find out which idea helps most.",
       "setup": [
         {
           "art": "A child sitting on a chair counting her pulse after step-ups, with a stopwatch beside her.",
@@ -1633,7 +1633,7 @@
           "mins": 10,
           "do": "Compare the three numbers. Ask which idea brought the pulse down most. Ask the child to say how sure they are, given that counts wobble by a few beats.",
           "say": "Which idea brought your pulse down the most? How many beats lower than sitting still? Are you sure, or could it be a wobble in the counting?",
-          "kid": "Which idea worked best? By how many beats? How sure are you?",
+          "kid": "Compare your three numbers. Which is the lowest?",
           "ask": [
             {
               "q": "Which idea brought the pulse down the most, and by how many beats?",

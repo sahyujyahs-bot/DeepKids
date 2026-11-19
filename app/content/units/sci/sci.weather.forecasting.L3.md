@@ -224,11 +224,11 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   *Child mode:* Get your 4 forecast cards. Mix up the sign cards. Put them face down.
 - **s2 (2 min)**  
   *Parent does:* Take the sign card 'Puffy clouds growing taller and taller on a hot afternoon' out of the pile. Play it as practice, then shuffle it back in.  
-  *Parent says:* This is a practice card. Puffy clouds are growing taller and taller on a hot afternoon. What's your forecast?  
-  *Child mode:* This is a practice card. Puffy clouds are growing taller on a hot afternoon. What's your forecast?
+  *Parent says:* Let's practise with this card first. Listen to the sign, then choose your forecast.  
+  *Child mode:* Choose the forecast card you think fits the sign.
   - Check: Puffy clouds are growing taller and taller on a hot afternoon. What is the best forecast? → **Thunderstorm soon**
 - **s3 (10 min)**  
-  *Parent does:* Play the other cards, keeping score on the score sheet.  
+  *Parent does:* Play the other cards. A forecast that matches the answer scores 2 points. Keep score on the score sheet.  
   *Parent says:* Here is the next sign card. Choose your forecast card. Ready? Everyone turn your forecast card over. Now let's read the answer on the back of the sign card. Who matched?  
   *Child mode:* Turn over the next sign card. Choose your forecast card. Everyone turns their forecast card over together. Then read the answer. Who matched?
   - Note: The peacock card is worth talking about. Peacocks call and dance in the monsoon because it is their breeding season. So they tell you the season, not tomorrow's weather.
@@ -248,8 +248,8 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   - Check: Why does warning towns early save lives? → **People have time to move to safety**
 - **s3 (2 min)**  
   *Parent does:* Talk about the game.  
-  *Parent says:* In the game, the earlier we saw the storm, the more time we had. How do real forecasters see a cyclone early?  
-  *Child mode:* How do real forecasters see a cyclone early?
+  *Parent says:* In the game, the earlier we saw the storm, the more time we had. Now think about real storms.  
+  *Child mode:* Which towns did you warn in good time? Which were nearly too late?
   - Ask: How do real forecasters see a cyclone early? (good: Satellites.; Radar.; Ships and buoys at sea.)
 
 ## Experiments
@@ -259,18 +259,18 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 - **predict:** Guess first. Which of the three forecasters will get the most points in a week? Which will get the fewest? Why do you think so?
 - **fair test:** All three forecasts are written at the same time each evening, before anyone knows what tomorrow brings. Nobody changes a forecast after writing it. All three are judged on the same two questions, by the same rules: will it rain, and will the sky be mostly sunny or mostly cloudy? We run the contest for 7 days, because one day can be a fluke.
 - **safety:** Look at the sky, never straight at the Sun. If there is lightning, watch from indoors, away from the open balcony.
-- **record:** Fill in one row of the table every evening. On day 8, add up each forecaster's points and draw a bar for each.
+- **record:** Fill in one row of the table every evening. On day 8, add up each forecaster's points and make a bar for each.
 - **results table:** Day | Same as today: rain? sky? | My sky reading: rain? sky? | Weather app: rain? sky? | What really happened | Points: same as today | Points: me | Points: app
 - **schedule:** day 1: Set up the score sheet. Write down today's weather. Make the first three forecasts for tomorrow. (12 min); day 2: Check yesterday's three forecasts and give points. Then make three new forecasts for tomorrow. (9 min); day 3: Check yesterday's forecasts and give points. Then make tomorrow's forecasts. (9 min); day 4: Check yesterday's forecasts and give points. Then make tomorrow's forecasts. Who is ahead so far? (9 min); day 5: Check yesterday's forecasts and give points. Then make tomorrow's forecasts. (9 min); day 6: Check yesterday's forecasts and give points. Then make tomorrow's forecasts. (9 min); day 7: Check yesterday's forecasts and give points. Then make the last forecasts. (9 min); day 8: Check the last forecasts and give points. Add up the points, draw a bar chart and say what you found. (16 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Draw the table in the notebook, or print the score sheet. 2. Write the three forecasters at the top: 'Same as today', 'Me', 'The app'. 3. Read out the two questions everyone will answer each evening.  
   *Parent says:* We're going to have a forecast contest for a week. Every evening, three forecasters guess tomorrow. The first just says tomorrow will be like today. The second is you, reading the sky. The third is the weather app. Each evening they answer two questions. Will it rain tomorrow? Will the sky be mostly sunny or mostly cloudy?  
-  *Child mode:* You are running a forecast contest! Three forecasters guess tomorrow's weather. One says 'same as today'. One is you. One is the weather app. Each answers two questions. Will it rain? Sunny or cloudy?
+  *Child mode:* Three forecasters guess tomorrow's weather. One says 'same as today'. One is you. One is the weather app. Each answers two questions. Will it rain? Sunny or cloudy?
   - Note: Agree on the rules now, and write them at the top of the page. Rain means enough rain to wet the balcony floor or the road, at any time from morning to bedtime. 'Mostly cloudy' means clouds cover more than half the sky for most of the day. For the app, a chance of rain of 50% or more counts as 'yes, rain'.
 - **s2 (2 min)**  
   *Parent does:* Ask your child to predict the winner and give a reason. Write the guess and the reason at the top of the page.  
-  *Parent says:* Before we start, which forecaster do you think will win the week? Which will come last? Why do you think so?  
-  *Child mode:* Guess the winner. Who will come last? Why do you think so? Write your guess at the top.
+  *Parent says:* Before we start, which forecaster do you think will win the week? Which will come last?  
+  *Child mode:* Pick a winner and a last place. Your grown-up writes your guess at the top.
   - Ask: Why do you think that forecaster will win? (good: The app has satellites and computers.; Weather doesn't change much, so 'same as today' will be right a lot.; I can see the clouds myself.)
   - Note: Any guess with a reason is good. Don't say which one usually wins. Let the week answer it.
 - **s3 (2 min)**  
@@ -291,14 +291,14 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   - Note: On day 4, look at the totals together. Who is ahead? Is it what your child guessed? On day 8 you check and score the last day, and there are no new forecasts to make.
   - Check: Yesterday, 'Same as today' said 'no rain, sunny'. Today it rained, and the sky was cloudy all day. How many points does 'Same as today' get? → **0 points**
 - **s6 (8 min)**  
-  *Parent does:* On day 8, after the last check: 1. Add up each forecaster's points. The most anyone can get is 14. 2. Draw a bar chart with one bar for each forecaster.  
-  *Parent says:* The contest is over. Let's add up the points. The most anyone could get is 14, because there were 7 days and 2 points a day. Now let's draw a bar for each forecaster.  
-  *Child mode:* The contest is over! Add up each forecaster's points. The most is 14. Draw a bar for each one.
+  *Parent does:* On day 8, after the last check: 1. Add up each forecaster's points. The most anyone can get is 14. 2. Show the scores as bars: draw them, or stack a pile of coins or buttons for each forecaster.  
+  *Parent says:* The contest is over. Let's add up the points. The most anyone could get is 14, because there were 7 days and 2 points a day. Now let's show each score as a bar.  
+  *Child mode:* The contest is over! Add up each forecaster's points. The most is 14. Make a bar for each one, drawn or stacked.
   - Note: If every day was the same weather, all three may have scored 14. That is a real result, not a failed test. In a settled spell, 'same as today' is very hard to beat. If you can, run the contest again when the weather is changing, for example at the start of the monsoon or in October and November.
 - **s7 (5 min)**  
   *Parent does:* Ask your child what they found, what on the score sheet shows it, and why they think it happened. Then explain, if your child has not said it already, why 'same as today' does well and when it fails.  
   *Parent says:* What did you find? Who won? Which days did each forecaster get wrong? What was happening on those days?  
-  *Child mode:* Who won? Which days did each forecaster get wrong? What was the weather doing on those days?
+  *Child mode:* Who won? Look at the days each forecaster got wrong.
   - Ask: On the days 'Same as today' was wrong, what had happened? (good: The weather changed.; It rained after a dry day.; The clouds came.)
   - Ask: How do you think the app knew about a change before it happened? (good: It sees the clouds coming from far away.; Satellites see the whole sky.; The weather was already somewhere else.)
   - Note: The usual pattern: weather changes slowly on most days, so 'same as today' scores well. It fails exactly when the weather changes. A good forecast is useful because it catches those changes. It can only do that by seeing weather that is still somewhere else and on its way. If your child's own forecasts beat 'same as today', ask which signs helped.
@@ -308,7 +308,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 - **predict:** Guess first. One plate of salt goes into a steamy bathroom, and one goes into a dry room. After one hour, will they look and feel different? Why do you think so?
 - **fair test:** Use the same kind of salt, the same amount and the same kind of plate. Only the place changes: the steamy bathroom or a dry room. Leave both for the same time, then test both in the same way.
 - **safety:** A grown-up runs the hot water, because hot water and hot taps can scald. Do not eat the salt afterwards. Throw it away or use it to scrub a vessel.
-- **record:** Fill in the table for both plates. Draw both plates after tilting, showing where the salt stayed.
+- **record:** Fill in the table for both plates. Draw both plates after tilting, or take a photo of each.
 - **results table:** Plate | Where it was | How the salt looks | Does it slide off when tilted? (yes, some, no) | How it feels when pressed with a finger
 - **s1 (5 min)**  
   *Parent does:* 1. Put 1 level teaspoon of salt on each steel plate. 2. Spread it into a thin, even patch about the size of a biscuit. 3. Tilt each plate a little to check the dry salt slides.  
@@ -317,24 +317,24 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 - **s2 (3 min)**  
   *Parent does:* Ask your child to predict, with a reason.  
   *Parent says:* One plate goes into the bathroom after a hot bath, where the air is full of steam. The other goes into a dry room. What will the salt be like after an hour? Why do you think so?  
-  *Child mode:* One plate goes in the steamy bathroom. One goes in a dry room. What will happen in an hour? Why?
+  *Child mode:* Guess what each plate of salt will be like after one hour.
   - Ask: Why might the bathroom change the salt? (good: The air is wet.; Salt soaks up water.; Steam makes things damp.)
 - **s3 (5 min) · grown-up needed**  
-  *Parent does:* 1. Just after a hot bath or shower, put plate 1 on a dry bathroom shelf, away from splashes. 2. Shut the door and window and turn off any exhaust fan. 3. Put plate 2 in the driest room, away from the kitchen.  
+  *Parent does:* 1. Just after a hot bath or shower, put plate 1 on a dry bathroom shelf, away from splashes. 2. Shut the door and window and turn off any exhaust fan. 3. Put plate 2 in the driest room, away from the kitchen. 4. Leave both plates for one hour.  
   *Parent says:* The bathroom air is full of water vapour from the hot water. We shut the door to keep it in. The other plate goes where the air is dry.  
-  *Child mode:* Put plate 1 on a dry shelf in the steamy bathroom. Shut the door. Put plate 2 in a dry room.
+  *Child mode:* Put plate 1 on a dry shelf in the steamy bathroom. Shut the door. Put plate 2 in a dry room. Wait one hour.
   - Note: Put the plate where no water can splash or drip on it, so only the damp air reaches the salt. On a very humid monsoon day the dry room may not be very dry. Then choose the room with the least damp air, and keep both plates for the same time.
   - Wait: Wait one hour.
 - **s4 (7 min)**  
   *Parent does:* 1. Bring both plates out together. 2. Look closely at each. 3. Tilt each plate slowly until it is nearly upright. 4. Press the salt gently with a finger.  
   *Parent says:* Let's compare. Look first. Now tilt each plate slowly. Does the salt slide off? Now press it gently with a finger. How does it feel?  
-  *Child mode:* Bring both plates. Look closely. Tilt each one slowly. Does the salt slide? Press it gently. How does it feel?
+  *Child mode:* Bring both plates. Look, tilt and press the salt. Which plate is different?
   - Ask: What is different about the bathroom salt? (good: It is stuck to the plate.; It is lumpy and damp.; It doesn't slide off.)
   - Note: Often the bathroom salt looks darker and wetter, sticks to the plate and clumps together, while the dry-room salt slides off. The change can be small after one hour, because the steam fades once the shower is over. Some table salt has an anti-caking powder that slows lumping. If you see little or no difference, say so honestly. That is a real result: this air was not damp enough. Try again right after another hot shower, or on a humid monsoon day.
 - **s5 (5 min)**  
   *Parent does:* Ask your child what they found, what they saw that shows it, and why they think it happened. Then explain humidity, and what this means for the saying that salt goes lumpy before rain.  
-  *Parent says:* What did you find? Where did the water in the salt come from? So, does lumpy salt tell us that rain is coming?  
-  *Child mode:* What did you find? Where did the water come from? Does lumpy salt mean rain is coming?
+  *Parent says:* What did you find? So, does lumpy salt tell us that rain is coming?  
+  *Child mode:* Tell your grown-up what you found. Does lumpy salt mean rain is coming?
   - Note: The saying has a true part: salt really does show that the air is damp, and damp air often comes before rain. But damp air does not always bring rain. A strong answer says both.
   - Check: Suppose the bathroom salt went lumpy. Where did the water come from? → **Water vapour in the damp air**
 ### e3 · Ground Wind and Cloud Wind: do they go the same way? (29 min, 3 days)
@@ -342,24 +342,24 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 - **predict:** Guess first. Will the clouds move the same way as the wind on your balcony? Why do you think so?
 - **fair test:** Use the same spot each time. Check the ground wind with the same ribbon and the clouds against the same fixed edge. Check on 3 different days, because one day can be a fluke.
 - **safety:** Hold the stick inside the balcony railing. Never lean over a railing or climb onto anything.
-- **record:** Fill in the table each day. Draw an arrow for the ground wind and an arrow for the clouds on a little compass drawing.
+- **record:** Fill in the table each day. Draw an arrow for the ground wind and an arrow for the clouds on a little compass drawing, or just write the two directions.
 - **results table:** Day | Time | Ground wind comes from (north, south, east or west) | Clouds come from | Same or different?
 - **schedule:** day 1: Make the wind ribbon. Check the ground wind and the cloud direction. Write both down. (12 min); day 2: Check both again, at about the same time. (6 min); day 3: Check both again. Compare all three days. (11 min)
 - **s1 (4 min)**  
-  *Parent does:* 1. Tie the plastic strip or ribbon to the end of the pencil. 2. Find north on the phone compass, or face where the Sun rises, which is east. 3. Write N, E, S and W on a page as a cross.  
+  *Parent does:* 1. Tie the plastic strip or ribbon to the end of the pencil. 2. Find north on the phone compass, or face where the Sun rises, which is east. 3. Write N, E, S and W on a page as a cross. 4. Make a table with one row for each of 3 days and two columns: 'Wind from' and 'Clouds from'.  
   *Parent says:* We'll make a wind ribbon to see which way the air is moving on our balcony. First, let's find north, east, south and west.  
-  *Child mode:* Tie the ribbon to the pencil. Find north with the phone. Draw a cross. Write N, E, S, W.
+  *Child mode:* Tie the ribbon to the pencil. Find north with the phone. Draw a cross and write N, E, S, W. Make the table.
 - **s2 (2 min)**  
   *Parent does:* Ask for a prediction with a reason.  
   *Parent says:* Do you think the clouds high up will move the same way as the wind here? Why do you think so?  
-  *Child mode:* Will the clouds move the same way as the wind here? Why?
+  *Child mode:* Guess: will the clouds go the same way as the wind, or a different way?
 - **s3 (3 min) · grown-up needed**  
   *Parent does:* 1. Hold the ribbon out at arm's length, inside the railing. 2. The ribbon streams away from where the wind comes from. 3. Write where the wind comes from.  
   *Parent says:* Hold the pencil still. The ribbon points away from where the wind comes from. So if it streams towards the west, the wind is coming from the east.  
   *Child mode:* Hold the ribbon out, inside the railing. Which way does it stream? The wind comes from the other side. Write it down.
   - Note: Stay with your child on the balcony. Buildings bend the wind, so if the ribbon flaps about in all directions, try a different side of the balcony or an open window on another side.
 - **s4 (3 min)**  
-  *Parent does:* 1. Pick a cloud close to a fixed edge, such as the top of a building. 2. Keep your head still and watch for one minute. 3. Which way does it move? Write where the clouds come from.  
+  *Parent does:* 1. Pick a cloud close to a fixed edge, such as the top of a building. 2. Keep your head still and watch for one minute. 3. Use your N, E, S, W page to say which way it moves. Write where the clouds come from.  
   *Parent says:* Clouds move slowly, so we watch one against something that stays still. Keep your head still. Is the cloud moving away from the edge or towards it?  
   *Child mode:* Pick a cloud near the top of a building. Keep your head still. Watch for one minute. Which way does it move?
   - Note: Thin high clouds can be hard to read. Lower, puffy clouds are easiest. If there are no clouds at all, try again another day.
@@ -373,16 +373,16 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 ## Activities
 ### a1 · Read the Sky Now: your first forecast (12 min)
 - **safety:** Never look straight at the Sun.
-- **record:** Draw the sky now. Write your forecast and the time. Three hours later, write what really happened.
+- **record:** Draw or photograph the sky now. Write your forecast and the time. Three hours later, write what really happened.
 - **s1 (4 min)**  
   *Parent does:* 1. Go to the window or balcony together. 2. Ask your child to say everything they notice about the sky and the air, without naming any weather yet.  
   *Parent says:* What do you notice about the sky right now? What colour is it? Are there clouds? What do they look like? Can you feel any wind? How does the air feel on your skin?  
-  *Child mode:* Look at the sky. What colour is it? Are there clouds? What shape? Is there wind? How does the air feel?
+  *Child mode:* Look at the sky and feel the air. Tell your grown-up everything you notice.
   - Ask: What do you notice? (good: Small puffy clouds.; A big dark cloud over there.; No clouds and no wind.; It feels sticky.)
 - **s2 (4 min)**  
-  *Parent does:* 1. Ask your child to draw the sky. 2. Ask them for a forecast for the next three hours: rain or no rain, and what the clouds will do. 3. Write down the time.  
-  *Parent says:* Draw the sky as it is now. Now make a forecast. In three hours, will it be raining? Will there be more cloud or less? What makes you think so?  
-  *Child mode:* Draw the sky now. What will it be like in three hours? Rain or no rain? More clouds or fewer? Why?
+  *Parent does:* 1. Ask your child to draw the sky, or take a photo of it. 2. Ask them for a forecast for the next three hours: rain or no rain, and what the clouds will do. 3. Write down the time.  
+  *Parent says:* Draw the sky as it is now, or take a photo. Now make a forecast. In three hours, will it be raining? Will there be more cloud or less? What makes you think so?  
+  *Child mode:* Draw or photograph the sky now. What will it be like in three hours? Rain or no rain? More clouds or fewer?
   - Ask: What made you choose your forecast? (good: The clouds are getting bigger.; It's clear, so it will stay dry.; The wind is getting stronger.)
 - **s3 (4 min)**  
   *Parent does:* Three hours later, look again. Write what happened next to the forecast.  
@@ -406,25 +406,25 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 ### a3 · Six Out of Ten: what 'chance of rain' means (15 min)
 - **problem:** A forecast of 60% chance of rain does not say that it will rain. In this activity, each bean stands for one day. A red rajma bean is a rainy day. A white chana bean is a dry day.
 - **safety:** Children under 4 must not play with beans, because they can choke. Don't eat the raw beans.
-- **record:** Draw 10 boxes for 10 days. In each box draw a rain cloud for a rajma and a sun for a chana.
+- **record:** Draw 10 boxes for 10 days. In each box write R for a rajma pick and D for a chana pick.
 - **s1 (3 min)**  
-  *Parent does:* 1. Put 6 rajma and 4 chana in the tumbler. 2. Explain: each rajma is a day it rains, each chana is a dry day.  
+  *Parent does:* 1. Put 6 rajma and 4 chana in the tumbler. 2. Explain: each rajma is a day it rains, each chana is a dry day. 3. Draw a row of 10 boxes on the paper.  
   *Parent says:* Here are 10 beans. 6 red rajma stand for rain, and 4 white chana stand for no rain. This tumbler is like a forecast that says 60% chance of rain.  
-  *Child mode:* Put 6 rajma and 4 chana in the tumbler. Rajma means rain. Chana means dry. This is a 60% chance of rain.
+  *Child mode:* Put 6 rajma and 4 chana in the tumbler. Rajma means rain. Chana means dry. This is a 60% chance of rain. Draw 10 boxes in a row.
 - **s2 (7 min)**  
-  *Parent does:* 1. Your child shakes the tumbler, picks one bean without looking, and draws a cloud or a sun in box 1. 2. They put the bean back and shake again. 3. Repeat for all 10 boxes.  
+  *Parent does:* 1. Your child shakes the tumbler, picks one bean without looking, and writes R (rajma, rain) or D (chana, dry) in box 1. 2. They put the bean back and shake again. 3. Repeat for all 10 boxes.  
   *Parent says:* Each pick is one day with the same forecast. Pick without looking. Rain or dry? Now put it back, so the chance stays the same, and pick again.  
-  *Child mode:* Shake. Pick one bean without looking. Rajma? Draw a cloud. Chana? Draw a sun. Put it back. Do it 10 times.
+  *Child mode:* Shake. Pick one bean without looking. Rajma? Write R. Chana? Write D. Put it back. Do it 10 times.
   - Ask: Before you pick, can you tell whether this 'day' will be rainy? (good: No, but rain is more likely.; Rajma is more likely, because there are more of them.)
 - **s3 (5 min)**  
   *Parent does:* Count the rain days. Talk about what happened.  
   *Parent says:* How many of your 10 days had rain? Was it exactly 6? If the forecast said 60%, and one day stayed dry, was the forecast wrong?  
-  *Child mode:* Count your rain days. Was it exactly 6? If one day was dry, was the forecast wrong?
+  *Child mode:* Count the R boxes. Was it exactly 6? If one day was dry, was the forecast wrong?
   - Note: Your child may get 5, 6, 7 or even 8 rain days out of 10. That is normal with chance. Doing it again gives a different count. Over many tries, it comes close to 6 in 10.
   - Check: The forecast said '60% chance of rain', and it did not rain. What does that tell you? → **Dry days happen on about 4 of 10 days like this, so it is not a surprise**
 ### a4 · Watch the Clouds Travel: a satellite film (15 min)
 - **problem:** Weather travels from place to place. A weather satellite photographs the clouds from space. So you can see where tomorrow's weather is coming from.
-- **record:** Draw a rough map of India and the seas. Draw today's big clouds and an arrow for which way they are moving.
+- **record:** Tell your grown-up where today's big clouds are and which way they are moving. Or draw a rough map of India with an arrow.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Open the satellite images on the India Meteorological Department website or on zoom.earth. 2. Find India, the Arabian Sea, the Bay of Bengal and your own city.  
   *Parent says:* This picture was taken from a weather satellite, far above the Earth. White is cloud. Let's find India, the two seas on either side, and our city.  
@@ -435,15 +435,15 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   *Child mode:* Watch the clouds move. Which way are they going? Is any cloud coming to our city?
   - Ask: If that big cloud keeps moving the same way, where will it be tomorrow? (good: Over our city.; Further west.; Out to sea.)
 - **s3 (5 min)**  
-  *Parent does:* Ask your child to draw the map and arrows, and make a forecast from the film.  
-  *Parent says:* Draw our map with the big clouds and an arrow for where they are going. From this film, what is your forecast for tomorrow here?  
-  *Child mode:* Draw the map. Draw the clouds and an arrow. What is your forecast for tomorrow?
+  *Parent does:* Ask your child to point to the big clouds on the screen and trace with a finger which way they go. Then ask for a forecast from the film.  
+  *Parent says:* Point to the big clouds and trace with your finger which way they are going. From this film, what is your forecast for tomorrow here?  
+  *Child mode:* Point to the big clouds. Show which way they go. What is your forecast for tomorrow?
   - Note: Clouds over India can move in many directions depending on the season. In the southwest monsoon, from June to September, much of the cloud comes from the southwest. In October to December, rain clouds often come to Tamil Nadu from the Bay of Bengal in the east.
 
 ## Projects
 ### p1 · Our Family Book of Weather Sayings, Tested (71 min, 14 days)
 - **safety:** Never look straight at the Sun.
-- **record:** On each tally page, write the saying, the sign, and the weather it promises. Then draw two rows of tally marks. One row is for 'sign seen, and the weather came'. The other row is for 'sign seen, but the weather did not come'.
+- **record:** On each tally page, write the saying, the sign, and the weather it promises. Then make two rows of tally marks. One row is for 'sign seen, and the weather came'. The other row is for 'sign seen, but the weather did not come'.
 - **schedule:** day 1: Choose two sayings that give a sign you can watch for. Make a tally page for each. (15 min); day 2: Watch for both signs each evening, from day 2 to day 13. If you see one, mark it. The next day, mark whether the weather it promised came. (3 min); day 14: Count the tallies. For each saying, decide: keep it, keep it with a warning, or drop it. Write and draw the book. (20 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Choose two sayings that give a sign you could see in the next two weeks. 2. On a page for each, write the saying, the sign, and what it promises. 3. Draw two rows for tally marks: 'came true' and 'did not come true'.  
@@ -457,7 +457,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   *Child mode:* Did you see the sign yesterday? Did the weather come today? Add a tally mark.
   - Note: Only add a mark on days the sign was seen. If a sign never appears in two weeks, that is a result too: write it down and keep testing later.
 - **s3 (20 min)**  
-  *Parent does:* 1. Count the tally marks for each saying. 2. Decide: keep it, keep it with a warning, or drop it. 3. Write and draw each saying on a page of the book, with the count and the decision.  
+  *Parent does:* 1. Count the tally marks for each saying. 2. Decide: keep it, keep it with a warning, or drop it. 3. Write each saying on a page of the book, with the count and the decision. Add a picture or photo if you like.  
   *Parent says:* Let's count. How many times did each saying come true? How many times not? Should we keep it in our book, keep it with a warning, or drop it? Why?  
   *Child mode:* Count the marks. Did the saying come true more often than not? Keep it, keep it with a warning, or drop it?
   - Ask: One saying came true 2 times and failed 1 time. Is that enough to trust it? (good: Not really, it's only 3 times.; We need to test it more.; It might be luck.)
@@ -475,9 +475,9 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
   *Parent says:* Fishing boats are far out at sea, too far for phones. A storm is coming. How could we warn them? It must work by day and by night.  
   *Child mode:* The boats are far out at sea. A storm is coming. Phones don't work there. How can you warn them? Day and night!
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* Ask your child to draw or build their warning, then try it from across the room or corridor.  
-  *Parent says:* Draw or build your warning. Then let's test it. I'll stand at the far end. Can I understand it?  
-  *Child mode:* Draw or build your warning. Then test it from the far end of the room.
+  *Parent does:* Ask your child to build or act out a warning with the torch, steel plate, spoon or cloth, or to draw one. Then try it from across the room or corridor.  
+  *Parent says:* Build, act out or draw your warning. Then let's test it. I'll stand at the far end. Can I understand it?  
+  *Child mode:* Make your warning. Then test it from the far end of the room.
   - Note: If testing in a corridor or stairwell of a building, stay with your child. Torches are good for testing at night with the lights off.
 - **s3 (10 min)**  
   *Parent does:* Look at the usual solutions and the creative ones. Ask your child to improve their design.  
@@ -492,8 +492,8 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 - **creative:** Choose a park with a shelter, or a museum nearby, as a rain plan.; Make two lists of games: 'dry games' and 'rain games' for indoors.; Watch the sky in the morning for the signs from this unit, such as clouds growing tall.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together.  
-  *Parent says:* The forecast says 40% chance of rain on Sunday afternoon. Is rain likely or unlikely? What should we plan?  
-  *Child mode:* The forecast says 40% chance of rain. Is that likely or unlikely? What should we plan?
+  *Parent says:* The forecast says 40% chance of rain on Sunday afternoon. We want to go to the park. What should we plan?  
+  *Child mode:* The forecast says 40% chance of rain. Think about what could go wrong with a park trip.
   - Ask: Is 40% likely or unlikely? (good: A bit less likely than not.; On about 4 of 10 days like this it would rain.)
 - **s2 (10 min)**  
   *Parent does:* Your child writes Plan A and Plan B.  

@@ -239,7 +239,7 @@ The next morning she went back to the flat rock alone and sat very still. After 
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take four tokens.
 - **s2 (7 min)**  
   *Parent does:* Play the first ten cards. After each card, read the back aloud. Ask the question below after card five.  
-  *Parent says:* The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Who scored?  
+  *Parent says:* The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. If your token matches, you score one point.  
   *Child mode:* Listen to the card. Pick a channel token. Turn it over. Check the back.
   - Ask: How did you decide which channel the signal uses? (good: I asked which body part would pick it up.; A nose picks up a smell, and an eye picks up a colour.; I thought about whether it would work in the dark.)
   - Note: A useful question for a stuck child is: which part of the receiver's body picks this up? One child can play alone or with you. With three or four players, take turns as the reader.
@@ -250,26 +250,26 @@ The next morning she went back to the flat rock alone and sat very still. After 
 - **s4 (3 min)**  
   *Parent does:* Count the points. Then sort all 20 cards into four piles by channel and look at the piles.  
   *Parent says:* Let us sort the cards into four piles, one for each channel. Which signals would still work at night? Which would work if the receiver came by a day later?  
-  *Child mode:* Sort the cards into four piles. Which signals work in the dark?
+  *Child mode:* Put each card in the pile for its channel. Point to the signals that work in the dark.
   - Check: Which channel works in the dark and also lasts after the sender has gone? → **Smell**
 ### g2 · Nestmate or Stranger? The smell pairs game (15 min)
 - **rules:** A grown-up is the packer. The packer cuts eight paper squares about 8 centimetres wide from a notebook page.; The packer puts a smell on each square and folds it shut. Two squares get one crushed clove each. Two get a pinch of cumin seeds (jeera). Two get a pinch of coffee or tea powder. Two get one crushed cardamom pod (elaichi).; The packer sticks a letter on each packet and secretly writes down which letters are pairs. Then the packer lays the packets in two rows.; On your turn, pick up two packets and sniff each one. Do not open them.; If you think they smell the same, say 'nestmates'. The packer checks the list. If you are right, keep the pair and take another turn.; If you are wrong, or if you say 'strangers', put both packets back in their places. Then the next player has a turn.; The game ends when all four pairs are found. The player with the most pairs wins. If you play alone, count your turns and try to use fewer next time.
 - **Printable tokens: 8 packet labels, A to H:** A; B; C; D; E; F; G; H
 - **Printable score sheet: Score sheet: 4 pairs to find:** Pair 1: packet ___ and packet ___. Found by ___; Pair 2: packet ___ and packet ___. Found by ___; Pair 3: packet ___ and packet ___. Found by ___; Pair 4: packet ___ and packet ___. Found by ___
 - **s1 (4 min)**  
-  *Parent does:* Make the eight packets where the players cannot see. Stick on the labels A to H. Write down the four pairs and keep the list hidden.  
+  *Parent does:* Out of sight, make eight packets as in the rules: two each of clove, cumin, coffee powder and cardamom. Stick on the labels A to H. Write down the four pairs and keep the list hidden.  
   *Parent says:* Ants in one nest all carry the same nest smell. An ant touches another ant with her antennae and knows at once: nestmate or stranger. These eight packets are eight ants from four nests.  
   *Child mode:* Wait while a grown-up makes eight smell packets. Do not peek.
   - Note: Fold each square in half twice so that nothing falls out. Any four kitchen smells that differ clearly will do, such as fennel, ajwain or dried ginger. Wash your hands before you stick on the labels, so that the outsides smell the same.
 - **s2 (8 min)**  
   *Parent does:* Play the game by the rules until all four pairs are found. Fill in the score sheet.  
-  *Parent says:* Pick up two packets. Sniff each one slowly. Are they nestmates or strangers? Remember where each smell lies, because the packets go back to the same places.  
-  *Child mode:* Sniff two packets. Same smell? Say 'nestmates'. Different? Put them back.
+  *Parent says:* Pick up two packets and sniff each one slowly. Are they nestmates or strangers? Remember where each smell lies, because the packets go back to the same places.  
+  *Child mode:* If both smell the same, say 'nestmates'. If not, put both back.
   - Note: If a nose gets tired, the player can sniff their own sleeve for a moment and then go on.
 - **s3 (3 min)**  
   *Parent does:* Open one packet of each smell and look inside. Talk about the questions below.  
   *Parent says:* You told four nests apart with your nose alone. What would happen to an ant who walked into the wrong nest? How do you think the guards would know?  
-  *Child mode:* Open the packets and look. How does an ant know a stranger?
+  *Child mode:* Open one packet of each smell. Which smell was easiest to tell apart?
   - Ask: How does a guard ant know that a visitor is a stranger? (good: The stranger smells of a different nest.; She touches the visitor with her antennae and smells her.)
   - Check: How does an ant tell a nestmate from a stranger? → **By the smell on the other ant's body**
 
@@ -278,12 +278,12 @@ The next morning she went back to the flat rock alone and sat very still. After 
 - **question:** A smell mark is left on paper and the sender goes away. Can a nose still find the mark after 10 minutes, after 30 minutes and after 60 minutes? Does a vinegar mark last as long as a clove mark?
 - **predict:** Before you start, guess. After one hour, will you still find the vinegar mark? Will you still find the clove mark? Why do you think so?
 - **fair test:** Use the same paper for all eight squares, and make every square the same size. Put the same amount of liquid on every square in the vinegar set: 5 drops of vinegar on one, and 5 drops of water on each of the other three. Keep both sets in the same room, away from the fan and the window. The same person sniffs every time, with eyes covered, and the squares come in a mixed-up order. Sniff the vinegar set first each time, because clove is strong. Only two things change: the kind of mark, and the time since it was made.
-- **record:** Draw a table with four rows, for 0, 10, 30 and 60 minutes. For each time, write a tick or a cross for every try. There are two tries with the vinegar set and two with the clove set.
+- **record:** Draw a table with four rows, or write four lines, for 0, 10, 30 and 60 minutes. For each time, write a tick or a cross for every try. There are two tries with the vinegar set and two with the clove set.
 - **results table:** Minutes since the marks were made | Vinegar mark found? Try 1 and try 2 | Clove mark found? Try 1 and try 2
 - **s1 (4 min)**  
   *Parent does:* Show your child the vinegar and the clove. Let them sniff each once. Ask for the guess and the reason, and write both down.  
   *Parent says:* We will leave a vinegar mark on one paper square and a clove mark on another. Then we walk away. After one hour, will your nose still find the vinegar mark? Will it find the clove mark? Why do you think so?  
-  *Child mode:* Sniff the vinegar and the clove. Which smell will last one hour? Why?
+  *Child mode:* Sniff the vinegar and the clove. Which smell will last one hour?
   - Ask: Why do you think that mark will last longer? (good: Clove smells stronger.; Vinegar is wet and will dry up.; The clove leaves bits and oil on the paper.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. If you have no vinegar, use fresh lemon juice.
 - **s2 (5 min) · grown-up needed**  
@@ -292,7 +292,7 @@ The next morning she went back to the flat rock alone and sat very still. After 
   *Child mode:* Number the squares. Then wait outside. A grown-up marks one square in each set.
   - Note: Put each set on its own plate, with the squares not touching. Keep the two plates about two metres apart. Use the spoon on the clove, not your fingers. Then your hands will not carry the smell to the plain squares. The water on the plain V squares makes all four equally damp.
 - **s3 (4 min)**  
-  *Parent does:* Cover your child's eyes. Lift each V square by one corner, in a mixed-up order. Hold the middle about 2 centimetres under the nose for two slow breaths. Ask which of the four carried the mark. Do this twice. Then do the same with the C squares. Record ticks and crosses for 0 minutes.  
+  *Parent does:* Cover your child's eyes. Lift each V square by one corner, in a mixed-up order. Hold the middle about 2 centimetres under the nose for two slow breaths. Ask which of the four carried the mark. Do this twice. Then do the same with the C squares. Write your ticks and crosses in the 0 minutes row of the table.  
   *Parent says:* Eyes covered. I will bring four squares, one at a time. One of them carries the mark. Tell me if it is the first, second, third or fourth. You may also say that none of them smells.  
   *Child mode:* Cover your eyes. Sniff four squares. Say which one has the smell.
   - Note: By guessing alone, a child would be right about 1 time in 4. Two right answers out of two is good evidence that the mark can still be found.
@@ -315,7 +315,7 @@ The next morning she went back to the flat rock alone and sat very still. After 
   - Wait: Wait until 60 minutes after the marks were made
 - **s7 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they found, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Look at your ticks and crosses. Say what you thought would happen, what you found, and why you think it happened. Which mark would suit an alarm that must end quickly? Which would suit a mark that says 'I live here'?  
+  *Parent says:* Look at your ticks and crosses. Which mark would suit an alarm that must end quickly? Which would suit a mark that says 'I live here'?  
   *Child mode:* Say what you thought would happen. Say what you found. Say why.
   - Ask: Why might one smell fade faster than another? (good: Its smell particles leave the paper faster.; It dried up.; The clove left oil that stays.)
   - Ask: The sender was out of the room. How did the message still reach you? (good: The smell stayed on the paper.; The mark does not need the sender to be there.)
@@ -325,12 +325,12 @@ The next morning she went back to the flat rock alone and sat very still. After 
 - **question:** Your eyes are covered. Can you tell whether a steel plate is in front of your face by saying 'shhh' and listening? Does it still work when the plate is 30 centimetres or 60 centimetres away?
 - **predict:** Before you start, guess. With your eyes covered, will you be able to tell when the plate is there? At which distance will it stop working: 10, 30 or 60 centimetres? Why do you think so?
 - **fair test:** Use the same plate, the same room and the same 'shhh' every time. Each round has 10 turns: 5 with the plate and 5 without, in a mixed-up order that the listener cannot know. The helper steps forward the same way on every turn, so that footsteps give nothing away. Keep the room quiet. Do one round at 10 centimetres with no 'shhh' at all, to check that the echo is what helps. Only the distance and the sound change.
-- **record:** Draw a table with four rows, one for each round. Write the distance, whether you made the 'shhh' sound, and how many of the 10 answers were right.
+- **record:** Draw a table with four rows, one for each round, or write four lines. Write the distance, whether you made the 'shhh' sound, and how many of the 10 answers were right.
 - **results table:** Round | Distance of the plate | Sound made | Right answers out of 10
 - **s1 (3 min)**  
   *Parent does:* Show your child the plate and the cloth. Explain the test. Ask for the guess and the reason, and write both down.  
   *Parent says:* You will cover your eyes and say a long 'shhh'. Sometimes I will hold this plate in front of your face, and sometimes I will not. Will you be able to tell? Up to what distance? Why do you think so?  
-  *Child mode:* Your eyes will be covered. Can you tell when a plate is near? Why?
+  *Child mode:* Guess before you test. Can you find the plate with your eyes covered?
   - Ask: What could tell you that the plate is there? (good: The 'shhh' might sound different.; The sound might bounce back.; I might feel the air change.)
   - Note: Do not correct the guess. Children often say they will feel the plate. The last round tests that idea.
 - **s2 (4 min)**  
@@ -358,7 +358,7 @@ The next morning she went back to the flat rock alone and sat very still. After 
   - Check: Why does the Echo Plate Test have one round with no 'shhh' sound? → **To check that the echo is what helps**
 - **s7 (5 min)**  
   *Parent does:* Look at the four scores together. Ask your child to say what they thought would happen, what they found, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Guessing alone gives about 5 right out of 10. Look at your four scores. Say what you thought would happen, what you found, and why you think it happened.  
+  *Parent says:* Guessing alone gives about 5 right out of 10. Look at your four scores.  
   *Child mode:* Say what you thought would happen. Say what you found. Say why.
   - Ask: Which scores are clearly better than guessing? (good: The ones well above 5 out of 10.; The 10 centimetre round with 'shhh'.)
   - Ask: Why might the far plate be harder to find? (good: The echo is weaker.; The echo mixes with the echoes from the walls.)
@@ -369,9 +369,9 @@ The next morning she went back to the flat rock alone and sat very still. After 
 ### a1 · Signal Spotting: ten minutes at the window (10 min)
 - **record:** A table with four rows: smell, sight, sound and touch. Put one stroke for every signal you notice. Write who sent each one if you can.
 - **s1 (2 min)**  
-  *Parent does:* Draw the table with four rows. Choose a place to watch from. If the street is empty, watch your own family.  
+  *Parent does:* Make a table with four rows, or four lines, on your page. Choose a place to watch from. If the street is empty, watch your own family.  
   *Parent says:* A signal is anything one animal does that carries a message to another. Humans are animals, so our waves, horns and hugs count. Which row do you think will fill up fastest?  
-  *Child mode:* Draw four rows: smell, sight, sound, touch. Which will get the most strokes?
+  *Child mode:* Write smell, sight, sound and touch down the page, one under the other.
 - **s2 (5 min)**  
   *Parent does:* Watch for five minutes. Each time anyone sends a signal, your child says what it was and puts a stroke in the right row.  
   *Parent says:* Tell me each signal as you spot it. A crow calling is sound. A person waving is sight. A dog sniffing a wall is smell. A mother holding a child's hand is touch.  
@@ -397,19 +397,19 @@ The next morning she went back to the flat rock alone and sat very still. After 
 - **s3 (4 min)**  
   *Parent does:* Agree two codes: one slow pluck means 'wind', and three quick plucks means 'fly'. Send six messages in a mixed-up order on any string. Your child names the string and the message. Then swap places.  
   *Parent says:* A spider must tell a trapped fly from the wind. A fly struggles in quick bursts. Now each pluck has a meaning. One slow pluck is wind. Three quick plucks are a fly.  
-  *Child mode:* One slow pluck means wind. Three quick plucks mean fly. Which is this?
+  *Child mode:* Feel the pluck. Is it wind or a fly? Name the string too.
 - **s4 (3 min)**  
   *Parent does:* Put the strings down. Talk about the questions below.  
-  *Parent says:* You could not see or hear the message, yet you read it. What carried it? Could I have sent it if you had let go of the strings?  
-  *Child mode:* What carried the message to your fingers? What if you let go?
+  *Parent says:* You could not see or hear the message, yet you read it. What carried it to your fingers?  
+  *Child mode:* Drop the strings. Can you still feel a message?
   - Ask: What does a vibration signal need that a call does not? (good: Something that joins the sender and the receiver.; A thread, a stem or the ground between them.)
   - Check: A spider is at the middle of her web. How does she know where a trapped fly is? → **She feels which thread is shaking most**
 ### a3 · The Waving Test: how big must a signal be? (15 min)
 - **record:** A table with three rows: one finger, whole hand, and arm with a bright cloth. Write how many of the 3 signals were read correctly for each.
 - **s1 (3 min)**  
-  *Parent does:* Draw the curtains or switch off the lights so that the room is dim but safe to walk in. Stand at the two ends. Agree the three movements. Ask for a guess.  
+  *Parent does:* Draw the curtains or switch off the lights so that the room is dim but safe to walk in. Stand at the two ends. Agree three movements: up and down, side to side, and a circle. Each will be sent three ways: with one finger, with a whole hand, and with an arm and the cloth. Ask for a guess.  
   *Parent says:* A fiddler crab waves a huge claw, and a peacock raises a huge train. Why so big? We will send three movements with a finger, a hand and a whole arm with a cloth. Which will you read most easily, and why?  
-  *Child mode:* We will send signals across a dim room. Which size will be easiest? Why?
+  *Child mode:* Stand at the two ends of the room. Learn the three movements: up and down, side to side, circle.
 - **s2 (8 min)**  
   *Parent does:* The sender shows each signal for a count of two. Send three with one finger, three with the whole hand and three with the arm and cloth. Mix up the movements. The receiver calls out what they saw. Record right or wrong. Then swap places.  
   *Parent says:* Watch me. I will show each movement only for a count of two. Call out 'up and down', 'side to side' or 'circle'.  
@@ -418,7 +418,7 @@ The next morning she went back to the flat rock alone and sat very still. After 
 - **s3 (4 min)**  
   *Parent does:* Compare the three rows. Talk about the questions below.  
   *Parent says:* Which size did you read best? A big bright signal is easy for a mate to see. Who else can see it easily?  
-  *Child mode:* Which size worked best? Who else could see a big signal?
+  *Child mode:* Look at your three rows. Point to the size that was read right most often.
   - Ask: What is the danger of a big, bright signal? (good: A hunter can see it too.; It takes more energy.)
   - Check: Why does a male fiddler crab wave his biggest claw, and not a small leg? → **A big thing is seen from far away**
 
@@ -439,27 +439,27 @@ The next morning she went back to the flat rock alone and sat very still. After 
 - **s3 (10 min)**  
   *Parent does:* Day 3. Count the ticks and crosses for each signal. For each failure, work out why: was it missed, or mixed up with another signal? Change the signals that failed and say why the new ones should work better.  
   *Parent says:* Which signal worked every time? Which failed? Was it too small, too quiet, or too much like another one? Animals with signals that fail do not get fed or found. What would you change?  
-  *Child mode:* Count the ticks. Which signal failed? Why? Make it better.
+  *Child mode:* Count the ticks for each signal. Change one signal that failed.
   - Ask: What made your best signal work so well? (good: It was big or loud enough to notice.; It was different from all the others.; It worked even when the receiver was not looking.)
   - Wait: Do this on the third day
 
 ## Challenges
 ### c1 · Message Through the Noise: reach a listener who cannot hear you (20 min)
 - **problem:** A dancing frog lives beside a stream so loud that his call is often lost. He adds a second signal: a white foot. Your problem is like his. A receiver sits five big steps away, facing a wall, with music playing. Send them one of three messages, 'come', 'stay' or 'danger', so that they get it right every time.
-- **your turn:** Now invent your own way. It must still work if the lights go out, or if someone trips over the string. Draw your design. Test it with 9 messages in a mixed-up order, and write how many the receiver got right.
+- **your turn:** Now invent your own way. It must still work if the lights go out, or if someone trips over the string. Draw your design, or tell your grown-up how it works. Test it with 9 messages in a mixed-up order, and write how many the receiver got right.
 - **constraints:** No voice and no phone.; The receiver faces the wall and does not turn round.; Music or a mixer is on the whole time.; The sender stays five big steps away.; The receiver must name the message within 10 seconds.
 - **general:** Shine a torch on the wall in front of the receiver, with one, two or three flashes.; Tie a string to the receiver's wrist or chair and send tugs along it.; Stamp on the floor so that the receiver feels it through their feet.
 - **creative:** Make shadow shapes on the receiver's wall with a torch and your hand: a different shape for each message.; Use two channels together, such as tugs and flashes, so that the message arrives even if one channel fails.; Roll a ball of newspaper past the receiver's feet: one ball, two balls or three.
 - **s1 (4 min)**  
   *Parent does:* Read the problem together. Set up the chair, the wall and the music. Ask which channels are blocked and which are still open.  
   *Parent says:* The receiver cannot hear you and is not looking at you. Which channels are blocked? Which are still open? List every idea, even odd ones.  
-  *Child mode:* The receiver cannot hear or see you. Which channels are left?
+  *Child mode:* Help set up the chair, the wall and the music. Then think of ways to reach the receiver.
   - Ask: Which channels can still reach the receiver? (good: Touch, through a string or the floor.; Sight, if the signal lands on the wall in front of them.; Smell, but it would be slow.)
   - Note: Keep the music at a normal volume. It only needs to cover a tap or a whisper.
 - **s2 (6 min)**  
   *Parent does:* Your child chooses one idea and builds it. Agree a code for the three messages: 'come', 'stay' and 'danger'.  
   *Parent says:* Choose your best idea and build it. The three messages must be easy to tell apart. How will 'danger' differ from 'come'?  
-  *Child mode:* Build your best idea. Make three signals that differ clearly.
+  *Child mode:* Pick one idea and build it. Make three signals that feel different.
 - **s3 (6 min)**  
   *Parent does:* Test it. Send 9 messages, three of each kind, in a mixed-up order. The receiver calls out each message within 10 seconds. Record right or wrong.  
   *Parent says:* Now we test. I will send nine messages. Call out each one as soon as you know it.  
@@ -467,7 +467,7 @@ The next morning she went back to the flat rock alone and sat very still. After 
 - **s4 (4 min)**  
   *Parent does:* Look at the score. Change one thing to make it better, or add a second channel. Test three more messages. Then talk about the question below.  
   *Parent says:* Which messages went wrong, and why? Change one thing and try again. Would your signal still work in the dark?  
-  *Child mode:* What went wrong? Change one thing. Test it again.
+  *Child mode:* Change one thing, or add a second channel. Test three more messages.
   - Ask: Why might an animal use two channels for one message? (good: If one channel is blocked, the other still gets through.; Two signals together are harder to miss.)
   - Note: Praise a clear account of what failed as much as a high score.
 

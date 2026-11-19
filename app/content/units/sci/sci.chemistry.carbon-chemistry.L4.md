@@ -288,7 +288,7 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 - **predict:** Before you start, guess for each of the eight things: will it turn black, or not? Then say what you think the black ones will have in common. Why do you think so?
 - **fair test:** Use the same small amount of each thing, about as much as one grain of chana. Put all eight on the same tawa, so they get the same heat for the same time. Keep the flame low to medium and do not change it. Look at 3 minutes and again at 8 minutes. Only one thing changes from heap to heap: what the heap is made of.
 - **safety:** A grown-up does all the heating and stays at the stove. Switch on the exhaust fan or open a window, because the sugar and the paper make smoke. Use only a tiny pinch of each thing. Salt may crackle and jump, so keep faces away. If the paper or thread starts to glow, press it flat with the spoon. Let everything cool for 5 minutes before anyone touches it.
-- **record:** Draw a table with eight rows, one for each thing. Write where each thing comes from and its colour after 3 minutes and after 8 minutes. Write whether it leaves a black mark on paper.
+- **record:** Make a table with eight rows, one for each thing. Write where each thing comes from and its colour after 3 minutes and after 8 minutes. Write whether it leaves a black mark on paper.
 - **results table:** The thing | Where it comes from | Colour after 3 minutes | Colour after 8 minutes | Does it leave a black mark on paper?
 - **s1 (4 min)**  
   *Parent does:* Lay the eight things on the table. Ask your child to guess for each one, and to give a reason. Write the guesses down.  
@@ -297,23 +297,23 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
   - Ask: What do you think the black ones will have in common? (good: They are all food.; They all come from plants.; They are all things that can burn.)
   - Note: Do not correct the guess. Many children say that everything burns black. Others say that white things stay white.
 - **s2 (5 min)**  
-  *Parent does:* Cover the cold tawa with foil. Help your child put a tiny heap of each thing on the foil. Make two rows of four, with gaps between. Draw a map on paper of which heap is where. Draw the results table.  
-  *Parent says:* Each heap must be tiny, about as big as one grain of chana. Why should all the heaps be the same size? Now draw a map, because the heaps will soon look different.  
-  *Child mode:* Put eight tiny heaps on the foil. Keep gaps between them. Draw a map.
+  *Parent does:* Cover the cold tawa with foil. Help your child put a tiny heap of each thing on the foil. Make two rows of four, with gaps between. Write each thing's name on a paper slip. Lay the slips beside the tawa in the same two rows.  
+  *Parent says:* Each heap must be tiny, about as big as one grain of chana. Why should all the heaps be the same size? Now lay the name slips in the same order, because the heaps will soon look alike.  
+  *Child mode:* Put eight tiny heaps on the foil. Keep gaps between them. Lay a name slip for each heap.
   - Note: Small heaps heat through quickly and make little smoke. Equal heaps keep the test fair. The foil keeps burnt sugar off your tawa.
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* Switch on the exhaust fan. Put the tawa on a low to medium flame. Your child stands one step back and watches. At 3 minutes, say the colour of each heap and write it down. At 8 minutes, do the same. Then switch off the flame.  
   *Parent says:* Watch each heap and tell me what you see. Which one changed first? Is anything rising from it? I will write the colours at 3 minutes and at 8 minutes.  
   *Child mode:* Stand back and watch. Say what each heap does. A grown-up writes the colours.
   - Note: Sugar usually melts within 2 minutes, turns brown and then black. Thread, paper and onion skin go brown and then black. Atta goes dark brown and may need the full 8 minutes. Salt may crackle. The coin may get a faint yellow or blue tint, but it does not turn into black crumbs. If little has happened by 5 minutes, raise the flame slightly.
-  - Check: In The Black Inside, why are all eight heaps heated on one tawa together? → **So each heap gets the same heat and time**
+  - Check: Why are all eight heaps heated together on one tawa? → **So each heap gets the same heat and time**
 - **s4 (5 min)**  
   *Parent does:* Wait 5 minutes for the tawa to cool. Lift the foil on to the table. Your child rubs each heap in turn across white paper with a finger or the spoon. Write yes or no for a black mark.  
   *Parent says:* Everything is cool now. Rub each heap across the white paper. Which ones leave a black mark, like a pencil or a piece of charcoal?  
   *Child mode:* Rub each cool heap on white paper. Which ones leave a black mark?
 - **s5 (6 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. Fill in where each thing comes from. Then read them the explanation in the note below.  
-  *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. Now look at where each thing comes from. What do the five black ones share?  
+  *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. Now look at where each thing comes from.  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: What do the things that turned black have in common? (good: They all came from plants.; They were all made by living things.; They all have carbon in them.)
   - Ask: The sugar was white. Where was the black before you heated it? (good: It was inside the sugar, joined to other things.; It was there but it did not look black.)
@@ -324,7 +324,7 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 - **predict:** Before you start, guess. All three are built from one and the same ring. Which will dissolve in cold water? Which will taste sweet? Which will change in hot water? Why do you think so?
 - **fair test:** Use 2 level teaspoons of each material, or a ball of cotton about that size. Use 100 millilitres of water each time, which is half a small tumbler. Stir each tumbler for 1 minute. Heat each one for 3 minutes on the same low flame. Only one thing changes: the material.
 - **safety:** A grown-up does the heating. The cornflour paste holds heat, so let it cool before anyone touches it. Taste only a tiny pinch. Do not swallow the cotton.
-- **record:** Draw a table with three rows: glucose, cornflour and cotton. For each one, write what happened in cold water, how it tasted, and what happened when it was heated.
+- **record:** Make a table with three rows: glucose, cornflour and cotton. For each one, write what happened in cold water, how it tasted, and what happened when it was heated.
 - **results table:** The material | In cold water after 1 minute of stirring | Taste | After 3 minutes of heating
 - **s1 (4 min)**  
   *Parent does:* Put the three materials on the table. Tell your child that all three are built from the same small ring, called glucose. Ask for the guess and the reason, and write both down.  
@@ -349,7 +349,7 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
   - Note: The glucose water stays thin. The cotton does not change. The cornflour water turns thick and glossy quite suddenly, just before it boils. Heat the cornflour last, because it leaves the pan sticky.
 - **s5 (6 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. Then read them the explanation in the note below.  
-  *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. The ring is the same in all three. So what made them behave so differently?  
+  *Parent says:* Say what you thought would happen, what you saw, and why you think it happened.  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: The ring is the same in all three. What is different? (good: How many rings are joined.; The way the rings are joined.; One is single rings and two are long chains.)
   - Note: Glucose is single rings. They are small, so water molecules surround each one and carry it off. That is dissolving. They also fit the sweet sensors on the tongue. Starch is a coiled chain of hundreds or thousands of rings, packed into tiny grains. The grains are too big to dissolve in cold water. Hot water gets in between the chains, the grains swell and burst, and the loose chains tangle. That thickens the water. Cellulose is a straight chain in which every second ring is turned over. Straight chains lie side by side and hold each other tightly, so water cannot separate them.
@@ -359,7 +359,7 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 - **predict:** Before you start, guess. What will be left of the toothpick burnt in the open? What will be inside the foil packet: ash, wood that looks the same, or something else? Why do you think so?
 - **fair test:** Use toothpicks from the same box. Heat both in the same flame. Only one thing changes: whether air can reach the wood.
 - **safety:** A grown-up does all the heating, with tongs, and the child stands one step back. Switch on the exhaust fan, because white smoke comes out of the pinhole. The smoke may catch fire in a small flame, which is expected. Leave the packet closed on the steel plate for 10 minutes. If it is opened hot, the charcoal can start to glow and burn.
-- **record:** Draw a table with two rows: the toothpick burnt in the open, and the toothpicks in the foil packet. Write what was left, its colour, whether it kept its shape and whether it draws on paper.
+- **record:** Make a table with two rows: the toothpick burnt in the open, and the toothpicks in the foil packet. Write what was left, its colour, whether it kept its shape and whether it draws on paper.
 - **results table:** The wood | What was left | Colour | Does it keep its shape? | Does it draw on paper?
 - **s1 (4 min)**  
   *Parent does:* Show the toothpicks and the foil. Explain the two cases. Ask for the guess and the reason, and write both down.  
@@ -382,7 +382,7 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
   *Parent says:* Watch the pinhole. Something is coming out of the wood. What do you think it is? When the smoke stops, I will put the packet down to cool.  
   *Child mode:* Watch the pinhole from one step back. What comes out? Wait until it cools.
   - Note: The smoke may light with a small flame at the hole. That is the wood gas burning, and it is safe at the stove. Use the 10 minutes of cooling for the cards or the story.
-  - Check: In Foil Packet Charcoal, why must the packet stay closed until it is cool? → **Hot charcoal burns away when air reaches it**
+  - Check: Why must the foil packet stay closed until it is cool? → **Hot charcoal burns away when air reaches it**
 - **s5 (9 min)**  
   *Parent does:* Open the cool packet on the plate. Your child counts the sticks, snaps one and draws with another. Ask them to say what they thought would happen, what they saw, and why. Then read them the explanation in the note below.  
   *Parent says:* Count the sticks. Snap one and draw with one. Now say what you thought would happen, what you saw, and why you think it happened.  
@@ -394,46 +394,46 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 
 ## Activities
 ### a1 · One Bond or Four: which atom can build the most? (15 min)
-- **record:** Keep the three sheets. Under each one, write how many different molecules that kind of atom could build.
+- **record:** Take a photo of your best build from each round, or draw it. Write how many different molecules each kind of atom could build.
 - **s1 (2 min)**  
-  *Parent does:* Explain the rules below. Then ask the question before any drawing, and write down the guess and the reason.  
-  *Parent says:* An atom is a circle and a bond is a line. One kind of atom makes 1 bond, one kind makes 2, and one kind makes 4. Which kind will build the most different molecules? Why do you think so?  
-  *Child mode:* One atom makes 1 bond. One makes 2. One makes 4. Which builds the most? Why?
+  *Parent does:* Explain the rules below. Then ask the question before any building, and write down the guess and the reason.  
+  *Parent says:* An atom is a coin and a bond is a matchstick. A small coin makes 1 bond, a medium coin makes 2, and a big coin makes 4. Which kind will build the most different molecules? Why do you think so?  
+  *Child mode:* A small coin makes 1 bond. A medium one makes 2. A big one makes 4. Which builds the most? Why?
   - Note: The rule for a finished molecule: every line joins two atoms, and every atom has exactly its number of lines.
 - **s2 (4 min)**  
-  *Parent does:* Sheet 1: your child uses only one-bond atoms and draws every finished molecule they can. Sheet 2: they use only two-bond atoms.  
-  *Parent says:* Use only one-bond atoms first. How many different finished molecules can you draw? Now use only two-bond atoms. A row has two loose ends. How could you finish it?  
-  *Child mode:* Draw with one-bond atoms only. Then with two-bond atoms only. How many can you finish?
+  *Parent does:* Round 1: your child uses only small coins and builds every finished molecule they can. Round 2: they use only medium coins.  
+  *Parent says:* Use only small coins first. How many different finished molecules can you build? Now use only medium coins. A row has two loose ends. How could you finish it?  
+  *Child mode:* Build with small coins only. Then with medium coins only. How many can you finish?
   - Ask: Why can one-bond atoms only make a pair? (good: Once two join, neither has a bond left.; There is nothing left to hold a third atom.)
   - Note: One-bond atoms give only a pair. Two-bond atoms give rows, but a row has two loose ends. It is finished only when it closes into a loop. So two-bond atoms make plain loops of different sizes and nothing else. They cannot branch. A child may also join two atoms with two lines. That is allowed, and it is how two oxygen atoms are really joined in oxygen gas.
 - **s3 (5 min)**  
-  *Parent does:* Sheet 3: your child draws four-bond atoms in a row and uses one-bond atoms to fill every spare line. They build with 1, then 2, then 3 four-bond atoms, and count the one-bond atoms each time. Then they try 4 four-bond atoms in two different patterns.  
-  *Parent says:* Now use four-bond atoms, and fill each spare line with a one-bond atom. Build with one, then two, then three. Count the small atoms each time. Then find two different ways to join four.  
-  *Child mode:* Join four-bond atoms in a row. Fill spare lines with one-bond atoms. Count them.
+  *Parent does:* Round 3: your child joins big coins in a row and puts a small coin on every spare bond. They build with 1, then 2, then 3 big coins, and count the small coins each time. Then they try 4 big coins in two different patterns.  
+  *Parent says:* Now use big coins, and put a small coin on each spare bond. Build with one, then two, then three. Count the small coins each time. Then find two different ways to join four.  
+  *Child mode:* Join big coins in a row. Put a small coin on each spare bond. Count the small coins.
   - Note: With one, two and three four-bond atoms, you need 4, 6 and 8 one-bond atoms. Four four-bond atoms can make a straight row, or a row of three with a branch. These molecules are real gases. They are methane, ethane, propane and two kinds of butane.
   - Check: A four-bond atom sits in the middle of a chain. How many bonds does it have left over? → **Two**
 - **s4 (4 min)**  
-  *Parent does:* Lay the three sheets side by side. Ask your child to say what they thought would happen, what they found, and why. Then tell them which real atoms these are.  
+  *Parent does:* Put the three builds side by side. Ask your child to say what they thought would happen, what they found, and why. Then tell them which real atoms these are.  
   *Parent says:* Say what you thought would happen, what you found, and why you think it happened. The one-bond atom is hydrogen. The two-bond atom is oxygen. The four-bond atom is carbon.  
   *Child mode:* Say what you thought would happen. Say what you found. Say why.
   - Ask: Why can the four-bond atom build so much more? (good: It can hold two neighbours and still have bonds left.; It can make branches.; Its chains can go on as long as you like.)
   - Note: There is one more reason carbon builds so well. The bond between two carbon atoms is strong, so long chains last. Real oxygen atoms hold each other weakly, and long oxygen chains fall apart.
 ### a2 · Five Carbons: how many different skeletons can you find? (15 min)
-- **record:** Draw every different skeleton you find for five carbon atoms. Write the number at the top of the page.
+- **record:** Take a photo of every different skeleton you find for five carbon atoms, or draw each one. Write how many you found.
 - **s1 (3 min)**  
   *Parent does:* Lay out 5 coins in a row with 4 matchsticks between them. Explain the rule for 'the same'. Ask for the guess and the reason.  
   *Parent says:* These five coins are carbon atoms in a chain. How many different ways can five carbon atoms be joined, with no rings? Why do you think so?  
   *Child mode:* Five coins are five carbon atoms. How many ways can you join them? Why?
   - Note: Two patterns are the same if one can be turned, flipped or bent into the other without lifting a matchstick. A bent row is still a row.
 - **s2 (8 min)**  
-  *Parent does:* Your child moves coins and matchsticks to find new patterns, and draws each one. All 5 coins must stay joined, with 4 matchsticks and no loops. Check each new one against the rule for 'the same'.  
-  *Parent says:* Find a new pattern and draw it. Is it truly new, or is it an old one turned round? Keep going until you are sure there are no more.  
-  *Child mode:* Move the coins to find a new pattern. Draw it. Is it truly new?
+  *Parent does:* Your child moves coins and matchsticks to find new patterns, and photographs or draws each one. All 5 coins must stay joined, with 4 matchsticks and no loops. Check each new one against the rule for 'the same'.  
+  *Parent says:* Find a new pattern and photograph or draw it. Is it truly new, or is it an old one turned round? Keep going until you are sure there are no more.  
+  *Child mode:* Move the coins to find a new pattern. Take a photo or draw it. Is it truly new?
   - Note: There are exactly three. One is a straight row of five. One is a row of four with one branch. One is a cross, with one coin in the middle holding four others.
   - Check: A row of five coins is bent into an L shape. Is this a new skeleton? → **No, each coin has the same neighbours**
 - **s3 (4 min)**  
   *Parent does:* Look at the drawings together. Ask your child to say what they thought would happen, what they found, and why. Then tell them about the three real liquids. If there is time, try 6 coins.  
-  *Parent says:* Say what you thought would happen, what you found, and why you think it happened. Each of your three drawings is a real liquid, with its own boiling point.  
+  *Parent says:* Say what you thought would happen, what you found, and why you think it happened. Each of your three skeletons is a real liquid, with its own boiling point.  
   *Child mode:* Say what you thought would happen. Say what you found. Say why.
   - Ask: All three have 5 carbon atoms and 12 hydrogen atoms. Why are they different substances? (good: The atoms are joined in a different pattern.; The shape of the molecule is different.)
   - Note: The straight chain boils at 36 degrees Celsius, the branched one at 28 and the cross at 10. Substances with the same atoms joined differently are called isomers. Six carbon atoms make 5 skeletons, and ten make 75.
@@ -483,7 +483,7 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 ## Challenges
 ### c1 · The Drawing Stick: make charcoal that draws dark and does not snap (40 min)
 - **problem:** Artists draw with sticks of charcoal. A good stick draws a dark line and does not snap in the hand. In Foil Packet Charcoal, toothpicks were heated in a tight foil packet and came out as thin black sticks. Those sticks draw, but they snap easily. Your problem is to make a better drawing stick, with the same foil packet method and things from home.
-- **your turn:** Now invent your own drawing stick. It must pass both tests: one clearly black line of 10 centimetres, and five lines without snapping. Draw a picture with your best stick. Write what you changed and which test was harder to pass.
+- **your turn:** Now invent your own drawing stick. It must pass both tests: one clearly black line of 10 centimetres, and five lines without snapping. Use your best stick to draw a picture or write your name. Write what you changed and which test was harder to pass.
 - **constraints:** A grown-up does all the heating, and the packet cools for 10 minutes before it is opened.; Use only wood, paper or cotton that you already have at home.; Test 1: the stick must draw a line 10 centimetres long that is clearly black.; Test 2: the stick must draw five such lines without snapping.; Change only one thing between one packet and the next.
 - **general:** Use thicker wood, such as a piece of bamboo skewer or half an ice-cream stick.; Heat until the smoke from the pinhole has fully stopped, so that no brown wood is left inside.; Let the packet cool completely before opening, so that the stick does not start to burn.
 - **creative:** Roll a strip of newspaper into a tight stick as thick as a pencil. Tie it with cotton thread and char the roll.; Char a bundle of three toothpicks tied tightly with thread, so that they come out as one stick.; Wrap paper tape around one end of the finished stick as a holder. It keeps your fingers clean and supports the stick.

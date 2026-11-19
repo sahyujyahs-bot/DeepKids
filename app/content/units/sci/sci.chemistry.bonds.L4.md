@@ -274,7 +274,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 - **s4 (3 min)**  
   *Parent does:* Count the points. Then sort all 24 cards into three piles by bond.  
   *Parent says:* Sort the cards into three piles: ionic, covalent and metallic. Look at the ionic pile. What do all those materials have in common?  
-  *Child mode:* Sort the cards into three piles. What is the same in the ionic pile?
+  *Child mode:* Sort the 24 cards into three piles by bond.
   - Check: Calcium is a metal and fluorine is a non-metal. Which bond joins them? → **Ionic**
 ### g2 · Give and Take: an ion card game (20 min)
 - **rules:** Shuffle the cards. Deal 5 to each player. Put the rest face down as the pile.; On your turn, take one card from the pile. Then you may lay down one set.; A set has one kind of metal and one kind of non-metal. The electrons given must equal the electrons taken.; One calcium atom gives away 2 electrons. Each chlorine atom takes only 1, so one calcium needs two chlorine atoms. Two aluminium atoms give away 6 electrons in all. Each oxygen atom takes 2, so they need three oxygen atoms.; Say the name of your compound. Score 1 point for each card in the set.; If you cannot lay a set, your turn ends. You keep your cards.; The game ends when the pile is empty and nobody can lay a set. The player with the most points wins.; Playing alone? Lay all 32 cards face up. Try to put every card into a set, with none left over. It can be done.
@@ -287,7 +287,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 - **s2 (5 min)**  
   *Parent does:* Play two practice turns with the cards face up. Build sodium chloride first, then calcium chloride.  
   *Parent says:* Sodium gives away 1 electron, and chlorine takes 1 electron. So one sodium and one chlorine make a set. Calcium gives away 2 electrons. How many chlorine atoms does one calcium need?  
-  *Child mode:* Sodium gives away 1 electron. Chlorine takes 1 electron. How many chlorines does calcium need?
+  *Child mode:* Match the electrons given with the electrons taken.
   - Ask: Why does one calcium need two chlorines? (good: Calcium gives 2 electrons, and each chlorine takes only 1.; The electrons given must equal the electrons taken.)
   - Note: Let your child move the cards. The matching is easier to see than to hear.
 - **s3 (9 min)**  
@@ -298,7 +298,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 - **s4 (3 min)**  
   *Parent does:* Count the points. Lay the biggest set on the table and count its charges together.  
   *Parent says:* Look at aluminium oxide. Each of the two aluminium atoms gives away 3 electrons. Each of the three oxygen atoms takes 2 electrons. Count the electrons given and the electrons taken. Are they equal?  
-  *Child mode:* Count the electrons given. Count the electrons taken. Are they equal?
+  *Child mode:* Lay out the biggest set. Count its plus and minus charges.
   - Check: Magnesium gives 2 electrons. Chlorine takes 1. How many chlorines join one magnesium? → **Two**
 
 ## Experiments
@@ -316,7 +316,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
   - Ask: Which one do you think will be the hardest to melt, and why? (good: The foil, because it is metal.; The salt, because it never melts in cooking.; Any guess with a reason.)
   - Note: Do not correct the guesses. Many children expect the metal to be the only one that will not melt.
 - **s2 (5 min)**  
-  *Parent does:* Draw the table. Put the salt crystal on the plate and cover it with the folded paper. Your child presses hard with the back of a spoon. Lift the paper and look. Do the same with the wax and the foil ball.  
+  *Parent does:* First draw the results table described under Record. Put the salt crystal on the plate and cover it with the folded paper. Your child presses hard with the back of a spoon. Lift the paper and look. Do the same with the wax and the foil ball.  
   *Parent says:* Press as hard as you can, then lift the paper. What happened to the salt? Now press the wax. Now press the foil. Write what you see each time.  
   *Child mode:* Cover the salt. Press hard with the spoon. Look. Then press the wax and the foil.
   - Note: The paper stops pieces flying. A salt crystal cracks with a small snap into pieces with flat sides. With fine salt, press a pinch between two spoons and listen for the crunch.
@@ -324,7 +324,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 - **s3 (5 min)**  
   *Parent does:* Put a quarter teaspoon of salt in the first tumbler. Put a piece of wax in the second and a foil ball in the third. Your child stirs each one 30 times and writes what they see.  
   *Parent says:* Stir each tumbler 30 times. Count aloud. Which solid can you still see? Which one has gone into the water?  
-  *Child mode:* Put each solid in water. Stir 30 times. Which one can you still see?
+  *Child mode:* Put each solid in water. Stir 30 times. Look closely at each tumbler.
   - Note: The salt dissolves. The wax floats and the foil ball floats or sinks, and neither changes.
 - **s4 (7 min) · grown-up needed**  
   *Parent does:* Light the candle. Put about ten grains of salt in the heating spoon. Hold the spoon with the cloth, just above the tip of the flame. Count slowly to 60 together. Then heat a fresh foil ball the same way. Heat the wax last.  
@@ -333,7 +333,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
   - Note: Salt and foil stay solid. A grain of salt may crack and jump. Wax melts to a clear liquid within about 15 seconds, so heat it last to keep the spoon clean. Soot on the spoon wipes off when it is cool.
 - **s5 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. Did any two solids behave the same way in all three tests?  
+  *Parent says:* Let us look at our table together. Did any two solids behave the same way in all three tests?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Salt and foil both stayed solid over the flame. What test tells them apart? (good: Pressing. The salt cracked and the foil only flattened.; Water. The salt dissolved and the foil did not.)
   - Ask: What might be different about the way the atoms hold on in each solid? (good: In wax the pieces let go of each other easily.; In salt they hold tightly but cannot slide.; In foil they hold and can still slide.)
@@ -349,11 +349,11 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 - **s1 (4 min)**  
   *Parent does:* Show your child the spoon, the candle, the sugar, the salt and the water. Ask which will carry electricity, and why. Write the guesses down.  
   *Parent says:* We will test seven things. Which do you think will carry electricity? Will dry salt and wet salt be the same? Why do you think so?  
-  *Child mode:* Guess which things carry electricity. Will dry and wet salt differ? Why?
+  *Child mode:* Look at the things on the table. Guess which ones carry electricity.
   - Ask: Why do you think wet salt will or will not carry electricity? (good: Water carries electricity.; Salt is not a metal, so it will not.; Any guess with a reason.)
   - Note: Do not correct the guess. Many children say that the water does the carrying.
 - **s2 (7 min)**  
-  *Parent does:* Push the two pencils through the cardboard, 2 centimetres apart. Rest the cardboard on the tumbler of soda water, with the lower tips under water. Twist the bare end of the red wire round the top tip of one pencil. Wrap one end of the foil ribbon tightly round the top tip of the other pencil. Hold it with the clip. Now touch the free end of the foil to the bare end of the black wire.  
+  *Parent does:* Push the two pencils through the cardboard, 2 centimetres apart. Rest the cardboard on the tumbler of soda water, with the lower tips under water. Twist the bare end of the red wire round the top tip of one pencil. Wrap one end of the foil ribbon tightly round the top tip of the other pencil. Hold it in place with the clothes clip or tape. Now touch the free end of the foil to the bare end of the black wire.  
   *Parent says:* The black wire and the loose end of the foil are our two probes. Touch them together and watch the pencil tips in the water. What do you see? Now pull them apart.  
   *Child mode:* Touch the two probes together. Watch the pencil tips. Then pull the probes apart.
   - Note: Fine bubbles should stream from both lower tips within a few seconds, and stop when the probes part. If not, press the wire and the foil harder against the pencil tips. The soda water is only part of the tester. It stays the same all through.
@@ -375,7 +375,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
   - Note: Wet sugar gives the same as plain water. Wet salt gives many bubbles at once, and it may fizz at the probes too. The salt paste may turn grey or green where the probes react with it. Throw the paste away and wash the saucer.
 - **s6 (5 min)**  
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
-  *Parent says:* Say what you thought would happen, what you saw, and why it happened. What did the water change about the salt?  
+  *Parent says:* Let us look at our table together. What did the water change about the salt?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
   - Ask: Plain water gave almost no bubbles, and wet sugar gave almost none. So what carried the electricity in the wet salt? (good: Something from the salt.; The salt, once it was in the water.; Charged particles from the salt.)
   - Ask: The spoon carried electricity dry. Why might a metal need no water? (good: Something in the metal can already move.; Its electrons are free.)
@@ -387,9 +387,9 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 - **safety:** Cover the salt with the folded paper before pressing, so that no piece flies towards the eyes.
 - **record:** Write one sentence that begins 'I wonder why'.
 - **s1 (2 min)**  
-  *Parent does:* Put the paper clip, the foil and the salt crystals on the plate. Ask the question below and write down the guess.  
+  *Parent does:* Put the paper clip, the foil and the salt crystals on the plate. Ask what will happen when each one is pressed or bent. Write down the guesses.  
   *Parent says:* All three of these are hard solids. If you press or bend each one as hard as you can, what will happen? Why do you think so?  
-  *Child mode:* Look at the clip, foil and salt. What will pressing do? Why?
+  *Child mode:* Look at the clip, foil and salt. Make a guess for each one.
 - **s2 (3 min)**  
   *Parent does:* Your child bends the paper clip open and back once. Then they roll the foil into a ball and press it flat with the back of the spoon.  
   *Parent says:* Bend the clip open, and bend it back. Is it still in one piece? Now roll the foil into a ball and press it flat.  
@@ -404,11 +404,11 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 - **s4 (2 min)**  
   *Parent does:* Ask your child what they noticed and what they wonder. Write down one 'I wonder why' sentence. Do not explain yet.  
   *Parent says:* The clip and the foil changed shape and stayed whole. The salt broke. What do you wonder about that?  
-  *Child mode:* What did you notice? Say one thing you wonder about.
+  *Child mode:* Tell your grown-up one thing you wonder about.
   - Note: Keep the sentence. The experiment Three Solids, Three Tests and the model Slide a Row will answer it.
   - Check: A steel paper clip is bent once. A salt crystal is pressed hard. What happens? → **The clip bends and the salt cracks**
 ### a2 · Slide a Row: a salt model and a metal model (15 min)
-- **record:** Draw the salt model before and after the slide. Circle the places where like charges face each other.
+- **record:** Take a photo of the salt model before and after the slide, or draw it. Tell your grown-up where like charges face each other.
 - **s1 (4 min)**  
   *Parent does:* Lay the 16 coins on the tray in 4 rows of 4, touching. Heads up means a plus sodium ion. Tails up means a minus chloride ion. Place them in turns, so that every coin has the other kind on each side.  
   *Parent says:* Heads is a plus ion and tails is a minus ion. Plus and minus attract. Lay them so that every coin touches only the other kind along its sides.  
@@ -418,7 +418,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
   *Parent does:* Ask your child to count the heads and the tails. Then point to one coin in the middle and ask how many of the other kind touch its sides. Ask which one is its partner.  
   *Parent says:* How many plus ions are there, and how many minus? Look at this plus ion in the middle. How many minus ions touch its sides? Which one is its partner?  
   *Child mode:* Count heads and tails. Pick a middle coin. How many opposite neighbours?
-  - Ask: Which minus ion belongs to this plus ion? (good: No single minus ion belongs to it more than the others do.; All four hold it equally.; No ion has just one partner.)
+  - Ask: Which minus ions hold on to this plus ion? (good: No single minus ion belongs to it more than the others do.; All four hold it equally.; No ion has just one partner.)
   - Note: There are 8 of each. A middle coin has 4 opposite neighbours. In a real crystal there are layers above and below too, so each ion has 6.
 - **s3 (4 min)**  
   *Parent does:* Lay the ruler along the top two rows. Push them one coin to the right, keeping the rows straight. Look at the line where the top half meets the bottom half.  
@@ -433,7 +433,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
   - Note: After the slide the metal model looks just as it did before. Every atom still has electrons between it and its neighbours. So a metal changes shape and stays whole.
   - Check: Why does a salt crystal crack when one layer of ions slips sideways? → **Like charges meet and repel**
 ### a3 · Give, Share, Pool: move the electrons yourself (15 min)
-- **record:** Draw three pictures: salt, water and copper. Show where the outer electrons are in each.
+- **record:** Take a photo of the three models: salt, water and copper, or draw them. Tell your grown-up where the outer electrons are in each.
 - **s1 (2 min)**  
   *Parent does:* Label the nine circles with the short letters chemists use. Write Na for sodium and Cl for chlorine. Write O for oxygen, H twice for hydrogen, and Cu four times for copper. Count out the chana. Sodium gets 1, chlorine gets 7 and oxygen gets 6. Each hydrogen and each copper gets 1.  
   *Parent says:* Each circle is an atom. Each chana is one of its outer electrons. Sodium has 1, chlorine has 7, oxygen has 6, and hydrogen and copper have 1 each.  
@@ -441,18 +441,18 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 - **s2 (4 min)**  
   *Parent does:* Put the sodium circle and the chlorine circle side by side. Ask your child to move the one chana of sodium onto chlorine. Then write a plus sign on the sodium circle and a minus sign on the chlorine circle.  
   *Parent says:* Sodium holds its outer electron weakly, and chlorine attracts it strongly. Move it across. Sodium has lost a minus charge. What charge does sodium have now? What about chlorine?  
-  *Child mode:* Move sodium's electron to chlorine. Which atom is plus now? Which is minus?
+  *Child mode:* Move sodium's one chana across to chlorine.
   - Ask: Why do the two ions now hold on to each other? (good: One is plus and one is minus.; Opposite charges attract.)
   - Note: Chlorine now has 8 outer electrons. Many atoms are steadiest with 8 outer electrons, so chlorine holds on to the new one. The attraction between the plus sodium and the minus chlorine is an ionic bond.
 - **s3 (4 min)**  
   *Parent does:* Lay the oxygen circle so that it overlaps each hydrogen circle a little. In each overlap, put one chana from the hydrogen and one from the oxygen. Count the chana that oxygen can reach, and the chana that each hydrogen can reach.  
   *Parent says:* Oxygen and hydrogen are both non-metals, so neither gives an electron away. They share. Put one electron from each atom in the overlap. How many electrons can oxygen count now?  
-  *Child mode:* Overlap the circles. Put two electrons in each overlap. Count oxygen's electrons.
+  *Child mode:* Overlap the circles. Put one chana from each atom in each overlap.
   - Note: Oxygen counts 8, and each hydrogen counts 2, which is a full set for hydrogen. Each shared pair is one covalent bond.
 - **s4 (5 min)**  
-  *Parent does:* Lay the four Cu circles in a square. Move each one's chana into the space in the middle. Push the chana along with a finger. Then ask your child to draw all three models.  
-  *Parent says:* Each copper atom puts its outer electron into a shared pool. Push the pool along. That flow is an electric current. Now draw salt, water and copper, and show where the electrons are.  
-  *Child mode:* Pool the copper electrons in the middle. Push them along. Draw all three bonds.
+  *Parent does:* Lay the four Cu circles in a square. Move each one's chana into the space in the middle. Push the chana along with a finger. Then ask your child to point to the chana in each of the three models and say whose they are.  
+  *Parent says:* Each copper atom puts its outer electron into a shared pool. Push the pool along. That flow is an electric current. Now point to the electrons in the salt, the water and the copper. Whose are they?  
+  *Child mode:* Pool the copper electrons in the middle. Push them along.
   - Check: In which bond do the outer electrons belong to all the atoms together? → **Metallic**
 ### a4 · Ion Hunt on Labels: find the ionic compounds at home (15 min)
 - **record:** Make three columns: the packet, the ionic compound, and the metal in it. Write at least five rows.
@@ -468,9 +468,9 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
   - Ask: Which metal turned up most often? (good: Sodium.; Sodium and potassium.)
   - Note: In a salt packet, you will probably find sodium chloride and potassium iodate. Toothpaste has sodium fluoride or calcium carbonate. ORS has potassium chloride and sodium citrate. Bottled water often lists magnesium sulphate.
 - **s3 (4 min)**  
-  *Parent does:* Look at the ORS sachet together. Find the one ingredient that is not ionic. Then ask the question below.  
-  *Parent says:* ORS has salts and one more thing, glucose. Glucose is made of carbon, hydrogen and oxygen atoms. Is it ionic or covalent? Why does the label call the salts electrolytes?  
-  *Child mode:* Find glucose on the ORS packet. Is it ionic or covalent?
+  *Parent does:* Look at the ORS sachet together. Find glucose in the list of ingredients.  
+  *Parent says:* ORS has salts and one more thing, glucose. Glucose is made of carbon, hydrogen and oxygen atoms. These are all non-metals. Is glucose ionic, or covalent, where atoms share electrons?  
+  *Child mode:* Find glucose on the ORS packet.
   - Check: Which of these names is an ionic compound? → **Potassium chloride**
 
 ## Projects
@@ -479,7 +479,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 - **record:** Make a table with four columns: the thing, its atoms, my prediction, and the bubbles I saw. Write one row for plain water and one for each of the six things.
 - **schedule:** day 1: Find out which atoms are in each of six kitchen things, and predict which will carry electricity in water. (15 min); day 2: Dissolve each one, test it with the bubble tester, and compare the results with your predictions. (25 min)
 - **s1 (15 min)**  
-  *Parent does:* Day 1. Draw the table. Read out the atoms in each thing from the note below. Your child writes them, then predicts yes or no for each: will it carry electricity in water?  
+  *Parent does:* Day 1. Draw the results table described under Record. Read out the atoms in each thing from the note below. Your child writes them, then predicts yes or no for each: will it carry electricity in water?  
   *Parent says:* Use this rule. A metal atom with non-metal atoms makes an ionic compound, and ions carry electricity in water. Non-metal atoms alone make molecules, which carry no electricity. Write yes or no for each thing, and say why.  
   *Child mode:* Write the atoms in each thing. Predict yes or no. Say why.
   - Note: Salt is made of sodium and chlorine atoms. Cooking soda is made of sodium atoms with hydrogen, carbon and oxygen atoms. Sugar, glucose, lemon juice and vinegar are all made of carbon, hydrogen and oxygen atoms.
@@ -495,21 +495,21 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 - **s4 (7 min)**  
   *Parent does:* Compare the results with the predictions. Ask your child to say what they predicted, what they found, and why they think it happened. Then read the note below.  
   *Parent says:* Which predictions were right? Which were wrong? Lemon juice and vinegar have no metal atoms. What might be happening to their molecules in water?  
-  *Child mode:* Which guesses were right? Which thing surprised you? Why might that be?
+  *Child mode:* Compare each guess with what the tester showed.
   - Ask: The rule said lemon juice has only non-metal atoms. The tester still bubbled. What does that tell you about the rule? (good: The rule is a good start, but it is not always right.; A test can show what a rule misses.; Some molecules must make ions in water.)
   - Note: The reason: lemon juice and vinegar hold acids. An acid is a covalent molecule, but in water some of its molecules split into ions. Lemon juice also holds a little potassium salt from the fruit. So a rule based on the kinds of atoms is only a first guess, and the test decides.
 
 ## Challenges
 ### c1 · Tank-Full Alarm: make the tester bubble when the water reaches the line (25 min)
 - **problem:** Water tanks on roofs overflow when nobody is watching, and good water is wasted. Many homes have an alarm that sounds when the tank is full. Build a small one. Your tank is a glass or plastic tumbler. Your alarm is the bubble tester from Dry Salt, Wet Salt. It bubbles when electricity passes between its two probes. The tester must start to bubble when the water reaches a line 2 centimetres below the rim.
-- **your turn:** Now invent your own alarm. It must pass all four tests. It stays quiet below the line, and it bubbles at the line. It stops after you pour water out. Its probes never touch. Draw your design. Write which part of the circuit the tank water completes, and what in the water carries the electricity.
+- **your turn:** Now invent your own alarm. It must pass all four tests. It stays quiet below the line, and it bubbles at the line. It stops after you pour water out. Its probes never touch. Draw your design, or just show it and explain it. Say which part of the circuit the tank water completes, and what in the water carries the electricity.
 - **constraints:** The tester must not bubble while the water is below the line.; It must bubble within a count of 5 after the water reaches the line.; It must stop when you pour some water out again.; The two probes must never touch each other.; Use tank water made of 1 tumbler of water with a quarter teaspoon of salt. You may use only tape, cardboard, foil and things from the kitchen.
 - **general:** Tape both probes inside the tank with their ends at the line, a finger-width apart.; Tape one probe at the bottom of the tank and the other with its end at the line.; Hang both probes from a cardboard strip laid across the rim, so that their ends reach down to the line.
 - **creative:** Float a bottle cap wrapped in foil on the water. Fix both probes above it at the line. The rising cap touches both and joins them, so this works even with pure water.; Add a second pair of probes halfway up. Then the tester can tell you 'half full' as well as 'full'.; Use a plastic bottle as the tank and push the probes in through two small holes at the line. Seal the holes with wax.
 - **s1 (4 min)**  
   *Parent does:* Read the problem together. Let your child hold both probes in the empty tank and then pour water in without a plan.  
   *Parent says:* First, just hold the probes in the tank and pour. When do the bubbles start? Is that at the line? What must you change?  
-  *Child mode:* Hold the probes in the tank. Pour water in. When do bubbles start?
+  *Child mode:* Hold the probes in the tank. Pour water in slowly.
   - Ask: What decides the moment the bubbles start? (good: The water must touch both probes.; The height of the higher probe.; The water joins the two probes.)
   - Ask: Why will a steel tumbler not do as the tank? (good: Steel carries electricity, so it would join the probes with no water.; The alarm would bubble all the time.)
 - **s2 (8 min)**  
@@ -522,9 +522,9 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
   *Parent says:* Does it stay quiet below the line? Does it start at the line? Does it stop when I pour water out? Now make it better.  
   *Child mode:* Check all four rules. Then try a new idea of your own.
 - **s4 (5 min)**  
-  *Parent does:* Ask your child to draw the final design and explain it. Ask the question below.  
-  *Parent says:* Draw your alarm. Show the path the electricity takes. Which part of the path is the tank water? What in the water carries the electricity?  
-  *Child mode:* Draw your alarm. Show the path of the electricity.
+  *Parent does:* Ask your child to draw the final design, or to show it and trace the path with a finger, and explain it. Ask the question below.  
+  *Parent says:* Show me your alarm, drawn or built. Trace the path the electricity takes. Which part of the path is the tank water? What in the water carries the electricity?  
+  *Child mode:* Draw your alarm, or trace the path of the electricity with a finger.
   - Check: What carries the electricity through slightly salty tank water? → **Ions from dissolved salts**
 
 ## Worksheets

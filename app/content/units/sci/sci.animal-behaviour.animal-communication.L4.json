@@ -399,7 +399,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about real animal signals. Each card describes a signal, and you say which channel it travels on.",
+   "context": "This is a card game about real animal signals. Each card describes a signal, and you say which channel it travels on. You will find out which signals still work in the dark.",
    "setup": [
     {
      "art": "Twenty cards in a shuffled pile on a table, with four small tokens marked Smell, Sight, Sound and Touch in front of each player.",
@@ -534,7 +534,7 @@
      "id": "s2",
      "mins": 7,
      "do": "Play the first ten cards. After each card, read the back aloud. Ask the question below after card five.",
-     "say": "The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. Who scored?",
+     "say": "The reader reads the front. Choose a token and put it face down. Now turn it over. The reader reads the back. If your token matches, you score one point.",
      "kid": "Listen to the card. Pick a channel token. Turn it over. Check the back.",
      "ask": [
       {
@@ -562,7 +562,7 @@
      "mins": 3,
      "do": "Count the points. Then sort all 20 cards into four piles by channel and look at the piles.",
      "say": "Let us sort the cards into four piles, one for each channel. Which signals would still work at night? Which would work if the receiver came by a day later?",
-     "kid": "Sort the cards into four piles. Which signals work in the dark?",
+     "kid": "Put each card in the pile for its channel. Point to the signals that work in the dark.",
      "check": {
       "t": "mcq",
       "q": "Which channel works in the dark and also lasts after the sender has gone?",
@@ -587,7 +587,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a memory game played with your nose. Ants know their own nestmates by smell, and here you find pairs of packets that smell the same.",
+   "context": "This is a memory game played with your nose. Ants know their own nestmates by smell, and here you find pairs of packets that smell the same. You will find out how well your nose can tell four smells apart.",
    "setup": [
     {
      "art": "A grown-up at a kitchen counter folding small paper packets, with little heaps of cloves, cumin seeds, coffee powder and cardamom beside them.",
@@ -641,7 +641,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Make the eight packets where the players cannot see. Stick on the labels A to H. Write down the four pairs and keep the list hidden.",
+     "do": "Out of sight, make eight packets as in the rules: two each of clove, cumin, coffee powder and cardamom. Stick on the labels A to H. Write down the four pairs and keep the list hidden.",
      "say": "Ants in one nest all carry the same nest smell. An ant touches another ant with her antennae and knows at once: nestmate or stranger. These eight packets are eight ants from four nests.",
      "kid": "Wait while a grown-up makes eight smell packets. Do not peek.",
      "parent": "Fold each square in half twice so that nothing falls out. Any four kitchen smells that differ clearly will do, such as fennel, ajwain or dried ginger. Wash your hands before you stick on the labels, so that the outsides smell the same.",
@@ -651,8 +651,8 @@
      "id": "s2",
      "mins": 8,
      "do": "Play the game by the rules until all four pairs are found. Fill in the score sheet.",
-     "say": "Pick up two packets. Sniff each one slowly. Are they nestmates or strangers? Remember where each smell lies, because the packets go back to the same places.",
-     "kid": "Sniff two packets. Same smell? Say 'nestmates'. Different? Put them back.",
+     "say": "Pick up two packets and sniff each one slowly. Are they nestmates or strangers? Remember where each smell lies, because the packets go back to the same places.",
+     "kid": "If both smell the same, say 'nestmates'. If not, put both back.",
      "parent": "If a nose gets tired, the player can sniff their own sleeve for a moment and then go on.",
      "context": "In this step of Nestmate or Stranger you sniff the packets and find the pairs."
     },
@@ -661,7 +661,7 @@
      "mins": 3,
      "do": "Open one packet of each smell and look inside. Talk about the questions below.",
      "say": "You told four nests apart with your nose alone. What would happen to an ant who walked into the wrong nest? How do you think the guards would know?",
-     "kid": "Open the packets and look. How does an ant know a stranger?",
+     "kid": "Open one packet of each smell. Which smell was easiest to tell apart?",
      "ask": [
       {
        "q": "How does a guard ant know that a visitor is a stranger?",
@@ -732,8 +732,8 @@
      "qty": 1
     }
    ],
-   "record": "Draw a table with four rows, for 0, 10, 30 and 60 minutes. For each time, write a tick or a cross for every try. There are two tries with the vinegar set and two with the clove set.",
-   "context": "In this experiment you leave two smell marks on paper, one of vinegar and one of clove. Then you test with your nose how long each mark can still be found.",
+   "record": "Draw a table with four rows, or write four lines, for 0, 10, 30 and 60 minutes. For each time, write a tick or a cross for every try. There are two tries with the vinegar set and two with the clove set.",
+   "context": "In this experiment you leave two smell marks on paper, one of vinegar and one of clove. You will find out how long each mark can still be found by nose, the way an animal finds a smell mark left by another.",
    "setup": [
     {
      "art": "Eight paper squares on a table in two sets of four, with small pencil numbers on the corners, a clove, a spoon and a small bowl of vinegar.",
@@ -793,7 +793,7 @@
      "mins": 4,
      "do": "Show your child the vinegar and the clove. Let them sniff each once. Ask for the guess and the reason, and write both down.",
      "say": "We will leave a vinegar mark on one paper square and a clove mark on another. Then we walk away. After one hour, will your nose still find the vinegar mark? Will it find the clove mark? Why do you think so?",
-     "kid": "Sniff the vinegar and the clove. Which smell will last one hour? Why?",
+     "kid": "Sniff the vinegar and the clove. Which smell will last one hour?",
      "ask": [
       {
        "q": "Why do you think that mark will last longer?",
@@ -820,7 +820,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Cover your child's eyes. Lift each V square by one corner, in a mixed-up order. Hold the middle about 2 centimetres under the nose for two slow breaths. Ask which of the four carried the mark. Do this twice. Then do the same with the C squares. Record ticks and crosses for 0 minutes.",
+     "do": "Cover your child's eyes. Lift each V square by one corner, in a mixed-up order. Hold the middle about 2 centimetres under the nose for two slow breaths. Ask which of the four carried the mark. Do this twice. Then do the same with the C squares. Write your ticks and crosses in the 0 minutes row of the table.",
      "say": "Eyes covered. I will bring four squares, one at a time. One of them carries the mark. Tell me if it is the first, second, third or fourth. You may also say that none of them smells.",
      "kid": "Cover your eyes. Sniff four squares. Say which one has the smell.",
      "check": {
@@ -869,7 +869,7 @@
      "id": "s7",
      "mins": 5,
      "do": "Look at the table together. Ask your child to say what they thought would happen, what they found, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Look at your ticks and crosses. Say what you thought would happen, what you found, and why you think it happened. Which mark would suit an alarm that must end quickly? Which would suit a mark that says 'I live here'?",
+     "say": "Look at your ticks and crosses. Which mark would suit an alarm that must end quickly? Which would suit a mark that says 'I live here'?",
      "kid": "Say what you thought would happen. Say what you found. Say why.",
      "ask": [
       {
@@ -926,8 +926,8 @@
      "qty": 1
     }
    ],
-   "record": "Draw a table with four rows, one for each round. Write the distance, whether you made the 'shhh' sound, and how many of the 10 answers were right.",
-   "context": "In this experiment you cover your eyes and say 'shhh'. You try to tell whether a steel plate is in front of your face. Bats and dolphins find things in a similar way.",
+   "record": "Draw a table with four rows, one for each round, or write four lines. Write the distance, whether you made the 'shhh' sound, and how many of the 10 answers were right.",
+   "context": "In this experiment you cover your eyes and say 'shhh'. You find out if sound alone can tell you whether a steel plate is in front of your face. Bats and dolphins find things in a similar way.",
    "setup": [
     {
      "art": "A child sitting on a chair saying 'shhh' and moving a steel plate slowly towards her own face with her eyes open.",
@@ -988,7 +988,7 @@
      "mins": 3,
      "do": "Show your child the plate and the cloth. Explain the test. Ask for the guess and the reason, and write both down.",
      "say": "You will cover your eyes and say a long 'shhh'. Sometimes I will hold this plate in front of your face, and sometimes I will not. Will you be able to tell? Up to what distance? Why do you think so?",
-     "kid": "Your eyes will be covered. Can you tell when a plate is near? Why?",
+     "kid": "Guess before you test. Can you find the plate with your eyes covered?",
      "ask": [
       {
        "q": "What could tell you that the plate is there?",
@@ -1059,7 +1059,7 @@
      "id": "s7",
      "mins": 5,
      "do": "Look at the four scores together. Ask your child to say what they thought would happen, what they found, and why they think it happened. After they have answered, read them the explanation in the note below.",
-     "say": "Guessing alone gives about 5 right out of 10. Look at your four scores. Say what you thought would happen, what you found, and why you think it happened.",
+     "say": "Guessing alone gives about 5 right out of 10. Look at your four scores.",
      "kid": "Say what you thought would happen. Say what you found. Say why.",
      "ask": [
       {
@@ -1108,7 +1108,7 @@
     }
    ],
    "record": "A table with four rows: smell, sight, sound and touch. Put one stroke for every signal you notice. Write who sent each one if you can.",
-   "context": "In this activity you watch people, birds, dogs and insects for five minutes. You count the signals they send by smell, sight, sound and touch.",
+   "context": "In this activity you watch people and other animals, such as birds, dogs and insects, for five minutes. You count the signals they send by smell, sight, sound and touch. Each of these is a channel, a way a message travels. You will find out which channel is used most.",
    "setup": [
     {
      "art": "A notebook page with a table of four rows labelled Smell, Sight, Sound and Touch.",
@@ -1127,9 +1127,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Draw the table with four rows. Choose a place to watch from. If the street is empty, watch your own family.",
+     "do": "Make a table with four rows, or four lines, on your page. Choose a place to watch from. If the street is empty, watch your own family.",
      "say": "A signal is anything one animal does that carries a message to another. Humans are animals, so our waves, horns and hugs count. Which row do you think will fill up fastest?",
-     "kid": "Draw four rows: smell, sight, sound, touch. Which will get the most strokes?",
+     "kid": "Write smell, sight, sound and touch down the page, one under the other.",
      "context": "This is the first step of Signal Spotting. You draw the table and guess which channel you will see most."
     },
     {
@@ -1189,7 +1189,7 @@
     }
    ],
    "record": "Write how many of the 9 plucks you named correctly. Then write the two codes you used and whether they were understood.",
-   "context": "In this activity you hold three tight strings with your eyes shut. You feel which string is plucked, the way a spider feels which thread of her web is shaking.",
+   "context": "In this activity you hold three tight strings with your eyes shut. You will find out how a message can travel along a string. You feel which string is plucked, the way a spider feels which thread of her web is shaking.",
    "setup": [
     {
      "art": "Three long strings tied to three different chairs, all meeting at one child's hand like the spokes of a wheel.",
@@ -1227,15 +1227,15 @@
      "mins": 4,
      "do": "Agree two codes: one slow pluck means 'wind', and three quick plucks means 'fly'. Send six messages in a mixed-up order on any string. Your child names the string and the message. Then swap places.",
      "say": "A spider must tell a trapped fly from the wind. A fly struggles in quick bursts. Now each pluck has a meaning. One slow pluck is wind. Three quick plucks are a fly.",
-     "kid": "One slow pluck means wind. Three quick plucks mean fly. Which is this?",
+     "kid": "Feel the pluck. Is it wind or a fly? Name the string too.",
      "context": "In this step of Three Strings the plucks carry a code. You read the code with your eyes shut."
     },
     {
      "id": "s4",
      "mins": 3,
      "do": "Put the strings down. Talk about the questions below.",
-     "say": "You could not see or hear the message, yet you read it. What carried it? Could I have sent it if you had let go of the strings?",
-     "kid": "What carried the message to your fingers? What if you let go?",
+     "say": "You could not see or hear the message, yet you read it. What carried it to your fingers?",
+     "kid": "Drop the strings. Can you still feel a message?",
      "ask": [
       {
        "q": "What does a vibration signal need that a call does not?",
@@ -1306,9 +1306,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw the curtains or switch off the lights so that the room is dim but safe to walk in. Stand at the two ends. Agree the three movements. Ask for a guess.",
+     "do": "Draw the curtains or switch off the lights so that the room is dim but safe to walk in. Stand at the two ends. Agree three movements: up and down, side to side, and a circle. Each will be sent three ways: with one finger, with a whole hand, and with an arm and the cloth. Ask for a guess.",
      "say": "A fiddler crab waves a huge claw, and a peacock raises a huge train. Why so big? We will send three movements with a finger, a hand and a whole arm with a cloth. Which will you read most easily, and why?",
-     "kid": "We will send signals across a dim room. Which size will be easiest? Why?",
+     "kid": "Stand at the two ends of the room. Learn the three movements: up and down, side to side, circle.",
      "context": "This is the first step of the Waving Test. You set up a dim room and guess which size of signal will be read best."
     },
     {
@@ -1325,7 +1325,7 @@
      "mins": 4,
      "do": "Compare the three rows. Talk about the questions below.",
      "say": "Which size did you read best? A big bright signal is easy for a mate to see. Who else can see it easily?",
-     "kid": "Which size worked best? Who else could see a big signal?",
+     "kid": "Look at your three rows. Point to the size that was read right most often.",
      "ask": [
       {
        "q": "What is the danger of a big, bright signal?",
@@ -1428,7 +1428,7 @@
      "mins": 10,
      "do": "Day 3. Count the ticks and crosses for each signal. For each failure, work out why: was it missed, or mixed up with another signal? Change the signals that failed and say why the new ones should work better.",
      "say": "Which signal worked every time? Which failed? Was it too small, too quiet, or too much like another one? Animals with signals that fail do not get fed or found. What would you change?",
-     "kid": "Count the ticks. Which signal failed? Why? Make it better.",
+     "kid": "Count the ticks for each signal. Change one signal that failed.",
      "wait": "Do this on the third day",
      "ask": [
       {
@@ -1477,8 +1477,8 @@
     "Use two channels together, such as tugs and flashes, so that the message arrives even if one channel fails.",
     "Roll a ball of newspaper past the receiver's feet: one ball, two balls or three."
    ],
-   "your_turn": "Now invent your own way. It must still work if the lights go out, or if someone trips over the string. Draw your design. Test it with 9 messages in a mixed-up order, and write how many the receiver got right.",
-   "context": "In this challenge you must get a message to someone who cannot hear you and is not looking at you. It is the problem a dancing frog solves beside a loud stream.",
+   "your_turn": "Now invent your own way. It must still work if the lights go out, or if someone trips over the string. Draw your design, or tell your grown-up how it works. Test it with 9 messages in a mixed-up order, and write how many the receiver got right.",
+   "context": "In this challenge you must get a message to someone who cannot hear you and is not looking at you. It is the problem a dancing frog solves beside a loud stream. You will find out which signals still get through.",
    "setup": [
     {
      "art": "A child sitting on a chair facing a wall with a radio playing beside her, and another child five steps behind her holding a torch and a ball of string.",
@@ -1499,7 +1499,7 @@
      "mins": 4,
      "do": "Read the problem together. Set up the chair, the wall and the music. Ask which channels are blocked and which are still open.",
      "say": "The receiver cannot hear you and is not looking at you. Which channels are blocked? Which are still open? List every idea, even odd ones.",
-     "kid": "The receiver cannot hear or see you. Which channels are left?",
+     "kid": "Help set up the chair, the wall and the music. Then think of ways to reach the receiver.",
      "ask": [
       {
        "q": "Which channels can still reach the receiver?",
@@ -1518,7 +1518,7 @@
      "mins": 6,
      "do": "Your child chooses one idea and builds it. Agree a code for the three messages: 'come', 'stay' and 'danger'.",
      "say": "Choose your best idea and build it. The three messages must be easy to tell apart. How will 'danger' differ from 'come'?",
-     "kid": "Build your best idea. Make three signals that differ clearly.",
+     "kid": "Pick one idea and build it. Make three signals that feel different.",
      "context": "In this step of Message Through the Noise you build your signal and agree a code for three messages."
     },
     {
@@ -1534,7 +1534,7 @@
      "mins": 4,
      "do": "Look at the score. Change one thing to make it better, or add a second channel. Test three more messages. Then talk about the question below.",
      "say": "Which messages went wrong, and why? Change one thing and try again. Would your signal still work in the dark?",
-     "kid": "What went wrong? Change one thing. Test it again.",
+     "kid": "Change one thing, or add a second channel. Test three more messages.",
      "ask": [
       {
        "q": "Why might an animal use two channels for one message?",

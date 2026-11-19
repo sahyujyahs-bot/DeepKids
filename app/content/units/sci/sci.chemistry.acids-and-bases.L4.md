@@ -255,12 +255,12 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 - **s2 (6 min)**  
   *Parent does:* Play the first six cards. The reader shows each front, everyone places a marker, and then the reader shows the back.  
   *Parent says:* Read the front. Everyone puts a marker on the rung they think is right. Then we turn the card and check.  
-  *Child mode:* Read a card. Put a marker on a rung. Turn the card. Check your guess.
+  *Child mode:* Guess which rung the liquid sits on. Then check the back of the card.
   - Ask: What made you pick that rung? (good: It tastes sour, so it must be an acid.; Soap feels slippery, so it is a base.; I remembered it from the cabbage test.)
 - **s3 (6 min)**  
   *Parent does:* Play the next eight cards. Keep a score on paper. After card four, ask the question below.  
   *Parent says:* Keep going. Which liquids so far were closest to 7? Which were the farthest away?  
-  *Child mode:* Play on. Keep a score. Which liquids are close to 7?
+  *Child mode:* Play on. Keep a score.
   - Ask: Which liquid was the biggest surprise so far, and why? (good: Tap water was a little basic.; A cold drink was as sour as lemon.; Milk was almost neutral.)
 - **s4 (3 min)**  
   *Parent does:* Play the last six cards. Add up the points. Say who won, or whether you beat your last score.  
@@ -279,12 +279,12 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 - **predict:** Before you start, guess. Which powder will need the fewest scoops? Will the salt change the colour at all? Why do you think so?
 - **fair test:** Every glass gets the same 2 tablespoons of vinegar and 4 tablespoons of cabbage water, the same size of scoop and the same 30 seconds of stirring. Only the powder is different. Glass A has cooking soda, B has antacid powder, C has eggshell powder and D has salt. Salt is not a base, so glass D is the control. A plain purple glass T is the target to match.
 - **safety:** Vinegar is mild, but keep it away from eyes. Do not taste anything in the glasses. Antacid tablets are medicine, so a grown-up crushes them and puts the rest back in the packet, out of reach of small children. Eggshell can carry germs, so a grown-up boils it first. Mixing a powder into vinegar can foam up, so fill glasses only a third full and work on a tray. Wash your hands afterwards and pour everything down the sink.
-- **record:** Write the number of scoops each powder needed and what the colour did after two extra scoops. Then draw a bar for each powder.
+- **record:** Write the number of scoops each powder needed and what the colour did after two extra scoops. Then line up beans, one for each scoop, for each powder. You can draw bars instead, or take a photo.
 - **results table:** Glass | Powder | Scoops to match the target | Fizz (none, little or lots) | Colour after 2 extra scoops
 - **s1 (4 min)**  
   *Parent does:* Show your child the four powders in four bowls. Read out their names. Write down their guess and their reason.  
   *Parent says:* These are four powders: cooking soda, crushed antacid tablet, eggshell powder and salt. Which one will beat the acid? Why do you think so?  
-  *Child mode:* Here are four powders. Which one beats the acid? Why do you think so?
+  *Child mode:* Look at the four powders. Make your guess.
   - Ask: Which powder will need the fewest scoops, and why? (good: The antacid, because it is made for stomach acid.; Cooking soda, because it fizzes with vinegar.; Not the salt, because it is not a base.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the table. Who does what: with one child, the child scoops and stirs while the parent keeps time and writes. With 2 to 4 children, each child owns one glass (A, B, C or D) and one powder, and one child keeps the shared target glass T and the clock. Everyone writes in the same table.
 - **s2 (6 min)**  
@@ -305,15 +305,15 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
   - Note: Eggshell powder reacts slowly and may need all 8 scoops. Stir every glass for the same 30 seconds, because giving one glass longer would not be fair. Antacid powder may stay cloudy, so judge the colour of the liquid. If a glass has not matched after 8 scoops, write 'more than 8'. Salt should do nothing at all. The colour changes slowly, step by step, and not in one jump. Vinegar is a weak acid, so its pH moves only a little at a time as the base uses it up. Match the target as closely as you can, and ask a second person to judge. Typical numbers are 2 to 3 scoops for cooking soda, 2 to 5 for antacid, and 4 to more than 8 for eggshell. Your numbers will differ, and that is a result, not a mistake.
   - Check: Salt is added to glass D and the colour stays pink. What does this show? → **The colour change in the other glasses comes from the powder being a base, and not just from stirring in a powder**
 - **s5 (4 min)**  
-  *Parent does:* Take the first glass that matched the target. Add two more scoops of the same powder. Look at the colour and write it in the last column.  
+  *Parent does:* Take the first glass that matched the target. Add two more scoops of the same powder. Look at the colour and write it down.  
   *Parent says:* Now we go past the target. Add two more scoops. What colour is it now?  
   *Child mode:* Add two more scoops to the purple glass. What colour is it now?
   - Note: A glass that was purple often turns blue or blue-violet after two more scoops. That means the mixture is now a base, and not an acid. If nothing changes, write that down. Cooking soda and eggshell can only push a glass a little way.
   - Think: Is too much base better than just enough?
 - **s6 (6 min)**  
-  *Parent does:* Draw a bar for each powder, showing its scoops. Ask your child to say what they thought, what they saw, and why. Pour everything down the sink.  
+  *Parent does:* For each powder, line up one bean, button or coin for every scoop that powder needed. Ask your child to say what they thought, what they saw, and why. Pour everything down the sink.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a bar for each powder. Say what you thought, what you saw, and why.
+  *Child mode:* Line up one bean for each scoop, for each powder. Say what you thought, what you saw, and why.
   - Note: A strong answer names the powder that needed the fewest scoops, says that salt did nothing, and says that extra scoops pushed the colour past purple. After they speak, explain: the powders that worked are bases. A base uses up acid until the mixture is neutral. Past that, more base makes the mixture basic. Scoop counts depend on how fine the powder is, so your numbers may differ from someone else's. That is also a result.
   - Think: A person takes two tablets for heartburn. Another takes ten. Why might ten be worse than two?
 ### e2 · The Ten-Times Ladder: how far can a colour be made weaker? (32 min)
@@ -326,7 +326,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 - **s1 (4 min)**  
   *Parent does:* Show your child the seven cups in a row. Explain that each cup will hold ten times less colour than the one before. Write down their guess and reason.  
   *Parent says:* We will make a colour ten times weaker, again and again. In which cup will you stop seeing it? Why do you think so?  
-  *Child mode:* Each cup gets ten times less colour. In which cup will you stop seeing it? Why?
+  *Child mode:* Look at the seven cups. Each cup gets ten times less colour. Guess where it will vanish.
   - Ask: In which cup do you think the colour will disappear, and why? (good: Cup 3, because 3 steps is a lot.; Cup 6, because ten times weaker still leaves something.; Cup 2, because it will go quickly.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write it above the table. Who does what: with one child, the parent counts the spoons aloud and the child stirs and moves the spoon. With 2 to 4 children, each child makes a ladder with a different colour (red, blue, green, tea) and the group compares which colour is still visible furthest down the row. Each child needs 7 cups and a spoon, so use paper cups if you are short.
 - **s2 (6 min)**  
@@ -359,13 +359,13 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 - **s1 (4 min)**  
   *Parent does:* Show your child the fruit salt and the glass of cabbage water. Write down their guess and reason.  
   *Parent says:* This is fruit salt. It fizzes in water, and people drink it for heartburn. Is it an acid or a base? Why do you think so?  
-  *Child mode:* Is fruit salt an acid or a base? Why do you think so?
+  *Child mode:* Look at the fruit salt. Make your guess.
   - Ask: Do you think fruit salt is an acid or a base, and why? (good: A base, because it helps heartburn.; An acid, because it fizzes like lemon and soda.; Both, because it fizzes.)
   - Note: Any guess with a reason is good. Keep the plain cabbage water glass next to the test glass for comparison. Who does what: one child stirs, one counts spoons, one writes. With 2 to 4 children, each child runs their own glass and the group compares how many teaspoons each needed.
 - **s2 (4 min)**  
   *Parent does:* Pour half a cup of cabbage water into a glass. Stir in a level teaspoon of fruit salt. Wait until the fizz stops.  
   *Parent says:* Watch the fizz. Where do you think the bubbles come from? When it stops, what colour is the water?  
-  *Child mode:* Stir in the fruit salt. Watch the fizz. What colour is it when the fizz stops?
+  *Child mode:* Stir in the fruit salt. Watch the fizz until it stops.
   - Ask: What colour is the water now, compared with the plain cabbage water? (good: Bluer.; The same purple.; A little pinker.)
   - Note: Eno holds sodium bicarbonate, a dry acid such as citric acid, and sodium carbonate. In water, the acid and bicarbonate meet and fizz with carbon dioxide. The liquid left is usually a little basic, so expect blue or blue-violet. Write down what you actually see.
 - **s3 (4 min)**  
@@ -377,7 +377,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 - **s4 (3 min)**  
   *Parent does:* Ask your child why the dry powder did not fizz in the packet. Then ask what the water did.  
   *Parent says:* In the packet, the acid and the base are both dry and just sit there. Why do they fizz in water? What do you think the water does?  
-  *Child mode:* Why does the powder fizz in water and not in the packet?
+  *Child mode:* Think about it. What does the water do to the powder?
   - Note: A good answer says that water lets the acid and the base particles move and meet. Without water, they stay apart. In the stomach, the tablet's base meets the acid in the same way.
   - Think: What makes an antacid tablet start working once it is in the stomach?
 ### a2 · The pH Strip Survey: what are the real numbers? (25 min)
@@ -428,7 +428,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
   - Check: A label lists 'magnesium hydroxide' as the main ingredient of a heartburn medicine. Why does that make sense? → **It is a base, so it uses up stomach acid**
 - **s4 (2 min)**  
   *Parent does:* Ask your child why a toothpaste might hold a base.  
-  *Parent says:* Why do you think a toothpaste holds a base? Think about what the bacteria on your teeth make.  
+  *Parent says:* Why do you think a toothpaste holds a base? Bacteria on your teeth make acid from sugar. What could a base do about that?  
   *Child mode:* Why might toothpaste hold a base?
   - Note: Bacteria on teeth make acid from sugar. A base in toothpaste helps neutralise it. Brushing also removes the bacteria and the leftovers they eat.
   - Think: Bacteria on your teeth make acid, and toothpaste holds a base. What two things does brushing do?
@@ -436,12 +436,12 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 ## Projects
 ### p1 · The Water Diary: how does the pH of water change? (45 min, 2 days)
 - **safety:** Do not drink any sample, except fresh coconut water if it is clean. A grown-up opens the coconut with the knife. Wash your hands after touching soil or rainwater.
-- **record:** Write the pH of each sample on day 1, and again for the tap and filtered water on day 2. Draw a bar for each sample.
+- **record:** Write the pH of each sample on day 1, and again for the tap and filtered water on day 2. Line up beans for each sample, or draw bars, or take a photo.
 - **schedule:** day 1: Collect the samples, test them with pH paper, and leave fresh tap and filtered water uncovered overnight in wide dishes, with a third dish of filtered water covered. (25 min); day 2: Test the tap and filtered water again, compare with yesterday, and write what you notice. (20 min)
 - **s1 (8 min)**  
   *Parent does:* Fill the cups with the samples and label them. Ask your child to guess the pH of each and to give a reason. Write the guesses down.  
   *Parent says:* Here are six kinds of water. Which will be the most acidic, and which the most basic? Why do you think so?  
-  *Child mode:* Guess the pH of each water. Which is the most acid? Why do you think so?
+  *Child mode:* Look at the six cups. Guess a pH number for each.
   - Ask: Which water do you think will be the most acidic, and why? (good: Coconut water, because it tastes slightly sour.; Rainwater, because it comes from the sky.; Soil water, because soil is dirty.)
   - Note: For the soil water, stir a tablespoon of soil into 4 tablespoons of water and let it settle. Test the clear water on top. If it has not rained, skip the rainwater, and write that. Who does what: with one child, the parent labels the cups and writes the numbers. With 2 to 4 children, each child takes two samples to guess and test, and everyone writes into the same table.
 - **s2 (12 min)**  
@@ -452,8 +452,8 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
   - Note: Tap water in many Indian cities is between 7 and 8.5. Coconut water is a little acidic, near pH 5. Rainwater can be near 5.6 in clean air, but dust can make it nearly neutral. Write what you see, not what you expect. Pure water such as RO water is hard for pH paper to read and may look a little odd. Write what you see.
 - **s3 (5 min)**  
   *Parent does:* Pour fresh tap water and filtered water into two wide dishes and leave them uncovered on a window ledge overnight. Pour a third dish of filtered water and cover it with a plate. Do not dip strips into these dishes today. Ask your child to guess how their pH will change.  
-  *Parent says:* We will leave two dishes of water open overnight. Air has carbon dioxide in it. Do you think the pH of the water will go up, go down, or stay the same? Why?  
-  *Child mode:* Leave two dishes of water open overnight. Will the pH change? Why?
+  *Parent says:* We will leave two dishes open and one covered overnight. Air has carbon dioxide in it, which can make water a little acidic. Will the pH go up, go down, or stay the same? Why?  
+  *Child mode:* Leave two dishes open and one covered overnight. Will the pH change?
   - Note: Carbon dioxide from the air dissolves in water and makes it very slightly more acidic. The change is small, and a strip may not show it. Both results are real. The covered dish is the control: it shows what happens when the air cannot reach the water. Filtered or RO water has little else in it, so it is the most likely to change.
 - **s4 (12 min)**  
   *Parent does:* Test the open tap water, the open filtered water and the covered filtered water with fresh strips. Add a few drops of cabbage water to each to see a small colour change more clearly. Write down the numbers next to yesterday's numbers.  
@@ -464,9 +464,9 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
   - Check: The open water's pH changed from 7 to 6. How much more acidic is it? → **10 times as many hydrogen ions**
   - Wait: Leave the dishes overnight
 - **s5 (8 min)**  
-  *Parent does:* Draw a bar for each sample. Ask your child to say what they thought, what they saw, and why. Pour everything down the sink.  
+  *Parent does:* Line up one bean, button or coin for each pH number, for each sample. Ask your child to say what they thought, what they saw, and why. Pour everything down the sink.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a bar for each water. Say what you thought, what you saw, and why.
+  *Child mode:* Line up beans to show each water's pH. Say what you thought, what you saw, and why.
   - Think: Why might a tea garden need acidic soil, while a vegetable bed does not?
 
 ## Challenges
@@ -480,12 +480,12 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 - **s1 (6 min)**  
   *Parent does:* Wash and dry four pieces of eggshell of the same size. Ask your child to guess which coat will work best, and why.  
   *Parent says:* The stomach wall is coated so acid cannot reach it. Which coat do you think will keep the vinegar off best? Why?  
-  *Child mode:* Which coat keeps the acid off best? Why do you think so?
+  *Child mode:* Look at the coats you can use. Guess which one will work best.
   - Ask: Which coat will work best, and why do you think so? (good: The petroleum jelly, because water cannot get through it.; The gel with soda, because it uses up the acid.; The wax, because it is hard.)
   - Note: Do not correct the guess. Remember that real stomach mucus is a wet gel that holds a base. It does not work like oil. Who does what: with one child, the child makes three coats and the parent keeps time. With 2 to 4 children, each child designs one coat, the group shares one bare control shell, and everyone watches the same clock. Coat each piece all over, on both sides.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* Coat three shells in three different ways. Leave one shell bare. Let the coats set for a few minutes. A grown-up does any melting of wax.  
-  *Parent says:* Coat three shells in three different ways. Leave one bare. This bare one is our control.  
+  *Parent says:* Coat three shells in three different ways. Leave one bare. This bare one is our control: the shell with no coat, so we can compare.  
   *Child mode:* Coat three shells in different ways. Leave one bare.
   - Note: Wax is hot when melted. A grown-up dips the shell and lets it cool. For the gel with soda, mix one pinch of soda into a spoonful of gel. Keep every coat thin.
 - **s3 (14 min)**  

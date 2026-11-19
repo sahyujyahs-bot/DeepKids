@@ -280,9 +280,9 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
 - **Printable board: The harvest table: copy these seven lines on a sheet that everyone can see:** The die shows 5 or 6: heavy rain. One bean from every field washes into the pond before the harvest.; 0 beans left on the field: you harvest 2 bags of grain.; 1 bean left on the field: you harvest 4 bags.; 2 beans left on the field: you harvest 6 bags.; 3 beans left on the field: you harvest 6 bags. The crop cannot use the third bean, so that bean goes into the pond.; Each bean you bought this season costs you 1 bag.; The pond holds 4 beans or more at the end of a season: algae cover the pond. Every player loses 3 bags. Then empty the pond.
 - **Printable score sheet: Score sheet: one row for each season, to write the beans bought, the rain, the bags harvested and the bags kept:** Season; Beans I bought; Rain: light or heavy; Bags harvested; Bags kept after paying for beans; Bags lost to algae
 - **s1 (4 min)**  
-  *Parent does:* Draw a field for each player. Copy the harvest table where all can see it. Put the bowl in the middle and the beans in a heap.  
+  *Parent does:* Give each player a plate as their field. Copy the harvest table where all can see it. Put the bowl in the middle and the beans in a heap.  
   *Parent says:* You are a farmer. Each bean is one bag of fertiliser. Read the harvest table. How many beans do you think are best to use each season? Why?  
-  *Child mode:* Draw your field. Read the harvest table. How many beans will you use? Why?
+  *Child mode:* Take a plate as your field. Read the harvest table. How many beans will you use? Why?
 - **s2 (12 min)**  
   *Parent does:* Play six seasons by the rules. After each season, every player writes one row on the score sheet.  
   *Parent says:* Put your beans down secretly. Now show them. I will roll for rain. Count your harvest, and pay one bag for each bean you bought.  
@@ -315,9 +315,9 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
   *Child mode:* Put one teaspoon of powder in each bowl. Add water to all. Add rice paste to B. Add glue to C. Stir.
   - Note: To make rice paste, mash 1 tablespoon of soft cooked rice with 1 teaspoon of water. Press with the back of a spoon until no grains show. Turmeric will not do as the powder, because it stains the card. If paint B is too thick to brush, add a few drops of water.
 - **s3 (6 min)**  
-  *Parent does:* Rule the card into three rows and label them A, B and C. Paint two stripes in each row. Make each stripe as long as a finger and two fingers wide. Use a different brush for each paint.  
+  *Parent does:* Draw three rows on the card with a ruler and label them A, B and C. Paint two stripes in each row. Make each stripe as long as a finger and two fingers wide. Use a different brush for each paint.  
   *Parent says:* Paint two stripes of each paint. One stripe is for the dry rub, and one is for the damp wipe. Keep the coats thin and even.  
-  *Child mode:* Rule three rows: A, B and C. Paint two stripes in each row.
+  *Child mode:* Draw three rows with a ruler: A, B and C. Paint two stripes in each row.
 - **s4 (2 min)**  
   *Parent does:* Lay the card flat under a fan. Wait 30 minutes. A stripe is dry when it no longer feels cool to a light touch at its edge.  
   *Parent says:* Now the water must leave. Where is the water going? We will come back in half an hour.  
@@ -334,7 +334,7 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
   *Parent does:* Look at the table together. Ask your child to say what they thought would happen, what they saw, and why they think it happened. After they have answered, read them the explanation in the note below.  
   *Parent says:* Look at your six scores. Say what you thought would happen, what you saw, and why it happened. All three paints had the same powder. What was different about the one that stayed?  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why it happened.
-  - Ask: Paint A had colour, and it spread like paint. What was missing from it? (good: Something to stick the powder to the card.; A glue or a binder.; The water left, and nothing held the powder.)
+  - Ask: Paint A rubbed off easily. What did it not have that B and C had? (good: Something to stick the powder to the card.; A glue or a binder.; The water left, and nothing held the powder.)
   - Ask: Paint B stayed on in the dry rub but smeared when wet. What does that tell you about rice paste? (good: Rice paste holds the powder when dry.; Water softens rice paste again.; It would not do for a wall in the rain.)
   - Note: In most homes paint A rubs off as dust. Paint B holds when dry but smears when wet, and paint C holds best. Write down what you really found, even if it differs. The reason: a colour powder is a pigment, and a pigment is only dust. Water spreads it and then evaporates. Paint needs a binder, a substance that dries into a solid and holds the pigment to the surface. Rice paste is a binder made of starch, but water softens starch again. White glue is a kind of plastic that holds better. Even white glue may smear a little. Wall paint for outdoors uses a binder that water cannot dissolve once it is dry.
   - Think: A lime-washed wall leaves white powder on your sleeve, and a painted door does not. What might be different in the two coats?
@@ -396,7 +396,7 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
   - Note: The answers: LPG and candle wax are separated from crude oil. Most paracetamol is made from a substance that comes from crude oil. The white in wall paint comes from a black beach sand. Its binder is a plastic made from crude oil. The nitrogen in fertiliser comes from the air. None of the four is found ready-made. Each is made by chemical reactions from a raw material.
 ### a2 · The Crude Oil Ladder: from cooking gas to candle wax (20 min)
 - **safety:** Look at the LPG stove and cylinder without turning any knob. Do not light the candle. A grown-up helps with the scissors if needed.
-- **record:** Draw a ladder with five rungs. Write LPG, petrol, diesel, candle wax and plastic on the rungs, from the shortest chain to the longest.
+- **record:** Write LPG, petrol, diesel, candle wax and plastic on five slips of paper. Lay them in a row from the shortest chain to the longest, and take a photo or write the order.
 - **s1 (4 min)**  
   *Parent does:* Put the candle, the petroleum jelly and the plastic bag on a table. Look together at the LPG stove. Let your child feel the candle, the jelly and the bag.  
   *Parent says:* LPG is a gas. Petrol is a thin liquid. This jelly is soft, and this wax is hard. All of them were made from one thick, dark liquid called crude oil. How can one raw material give such different things? What do you think?  
@@ -414,17 +414,17 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
   - Ask: A refinery separates crude oil by boiling. Which strips would boil away first? (good: The shortest ones, the LPG.; Short chains escape more easily.; Long chains hold on to each other, so they need more heat.)
   - Note: Petroleum jelly belongs between diesel and candle wax. A plastic chain of 10,000 carbon atoms would need a strip 100 metres long. That is why plastic is a tough solid.
 - **s4 (3 min)**  
-  *Parent does:* Ask your child to draw the ladder with five rungs. Then ask the question below.  
-  *Parent says:* Draw the ladder, with the shortest chain on the lowest rung. As the chains get longer, what happens to the substance?  
-  *Child mode:* Draw the ladder. What changes as the chains get longer?
+  *Parent does:* Ask your child to write LPG, petrol, diesel, candle wax and plastic on five slips of paper. They lay the slips in a row, shortest chain first. Then ask the question below.  
+  *Parent says:* Lay the slips in a row, with the shortest chain first. As the chains get longer, what happens to the substance?  
+  *Child mode:* Lay the five slips in order. What changes as the chains get longer?
   - Check: What happens to hydrocarbons as their carbon chains get longer? → **They get thicker and harder to boil**
 ### a3 · The Tea Factory: what goes in, and what comes out? (20 min)
 - **safety:** A grown-up lights the stove, boils the tea and pours it. The child stands back from the steam and writes the lists.
 - **record:** Fill the two columns, IN and OUT. Beside each thing in the OUT column write product, by-product or waste.
 - **s1 (4 min)**  
   *Parent does:* Lay out the water, tea leaves, milk and sugar. Your child measures the tea leaves with a level teaspoon and writes everything in the IN column. Ask what else goes in that cannot be seen on the table.  
-  *Parent says:* This kitchen is our factory, and tea is the product. Write down every raw material. What else will go in that is not on the table? What do you think will come out besides tea?  
-  *Child mode:* Write everything that goes in. What goes in that you cannot see? What will come out?
+  *Parent says:* This kitchen is our factory, and tea is the product. Write down every raw material. What do you think will come out besides tea?  
+  *Child mode:* Write everything that goes in, in the IN column.
   - Ask: What goes into making tea that is not on the table? (good: The gas for the flame.; Air, because the flame needs oxygen.; Heat.)
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* Make the tea as you usually do. Ask your child to watch for everything that leaves the pot. Strain the tea into the tumbler. When the used leaves have cooled, your child measures them with the teaspoon.  
@@ -469,7 +469,7 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
 ## Challenges
 ### c1 · The Slow Tablet: let the colour out late, but not too late (30 min)
 - **problem:** Some medicines must not be let out all at once. A slow tablet lets its medicine out a little later, or a little at a time. Your problem is the same. Instant coffee powder is your pretend medicine, and it colours water within seconds. Build a tablet that keeps the water clear for 5 minutes. It must then turn the water brown before 15 minutes are up.
-- **your turn:** Now invent your own slow tablet. It must pass both tests: clear water at 5 minutes, and brown water before 15 minutes. Draw your design, write the time when brown first showed, and write what you would change next.
+- **your turn:** Now invent your own slow tablet. It must pass both tests: clear water at 5 minutes, and brown water before 15 minutes. Draw your design, or tell it to your grown-up. Write the time when brown first showed, and write what you would change next.
 - **constraints:** The medicine is a quarter teaspoon of instant coffee powder. This is a model, and nobody eats the tablet.; The finished tablet must be no bigger than a large marble, about 2 centimetres across.; Drop the tablet into a clear glass of water at room temperature. Do not stir, shake or touch it.; No brown may show in the water for the first 5 minutes.; Brown must show clearly before 15 minutes are up.; You may use only kitchen things, such as atta dough, ghee, oil, paper and sugar.
 - **general:** Wrap the coffee in a ball of atta dough and pinch the join shut.; Rub a thin coat of ghee over a dough ball, so that water gets in more slowly.; Change the thickness of the dough wall: thicker to slow the tablet, thinner to hurry it.
 - **creative:** Make a small hole in the dough wall and plug it with a sugar crystal. The hole opens when the sugar dissolves.; Knead the coffee into the dough itself, so that it comes out a little at a time. Real slow tablets often hold the medicine inside a solid in this way.; Make two layers with ghee between them. Some real tablets have a coat that the stomach's acid cannot open, so they open only in the intestine.
