@@ -348,7 +348,7 @@
      "mins": 10,
      "do": "1. Take turns turning over two cards. 2. When a pair matches, ask for the reason. 3. Keep score on the sheet.",
      "say": "Is that a rock and its job? Why does this rock suit this job?",
-     "kid": "Turn over two cards. Is it a rock and its job? Say why.",
+     "kid": "Turn over two cards. If they go together, say why.",
      "ask": [
       {
        "q": "Why is chalk good for writing on a board?",
@@ -462,8 +462,8 @@
      "id": "s2",
      "mins": 7,
      "do": "1. Each player speaks in turn. 2. Lay out the plan cards. 3. Let everyone argue for a plan.",
-     "say": "Tell us who you are, and what you want for the hill. Which plan is fairest to everyone?",
-     "kid": "Say who you are. Say what you want for the hill.",
+     "say": "One at a time, tell us who you are. Then we talk about which plan is fairest to everyone.",
+     "kid": "Speak as your character. Say what you want for the hill.",
      "ask": [
       {
        "q": "Who would lose the most if the whole hill was dug?",
@@ -502,7 +502,7 @@
    "title": "The Tiffin Test: which rock pieces lose their corners?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you shake sharp pieces of chalk, salt and stone in a closed steel tiffin, 100 shakes each. Then you look at which ones have lost their corners. This is a fast copy of what a river does to rocks.",
+   "context": "In this experiment you shake sharp pieces of chalk, salt and stone in a closed steel tiffin, 100 shakes each. Then you look at which ones have lost their corners. This is a fast copy of what a river does to rocks. You will find out which rocks wear away fast, and why a river pebble is round.",
    "problem": "A river rolls stones against sand and other stones. Each knock takes off a few tiny grains, and the corners are knocked most. A river needs a very long time to make a round pebble. So in this test, you shake sharp pieces in a steel tiffin, and see which ones lose their corners.",
    "question": "If we shake sharp pieces of chalk, salt and stone the same way, which ones lose their corners and turn round?",
    "predict": "Guess first. Which pieces will lose their corners after 100 shakes: the chalk, the salt or the stone? Which will not change at all? Why do you think so?",
@@ -547,10 +547,10 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Guess. Draw one piece of each kind. Shake each kind 100 times. Look, draw again, and fill in the table. Talk about the river pebble."
+     "what": "Guess. Feel one piece of each kind. Shake each kind 100 times. Look, feel again, and fill in the table. Talk about the river pebble."
     }
    ],
-   "record": "Draw one piece of each kind before and after shaking. Fill in the table. Circle the kind that changed the most.",
+   "record": "Fill in the table. Line the three kinds up from most changed to least changed, and tell a grown-up which changed most.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results (yours may differ)",
@@ -588,7 +588,7 @@
     },
     {
      "art": "A child drawing one chalk piece on a sheet, showing its sharp corners.",
-     "caption": "2. Draw one piece from each heap."
+     "caption": "2. Feel one piece from each heap. Is it sharp?"
     },
     {
      "art": "A child holding a closed steel tiffin with both hands and shaking it hard up and down.",
@@ -605,7 +605,7 @@
      "mins": 3,
      "do": "1. Show your child the three heaps and the round pebble. 2. Let them feel the sharp corners. 3. Ask for a guess and a reason, and write it down.",
      "say": "These pieces all have sharp corners. Which ones will turn round after 100 shakes? Which will stay sharp? Why do you think so?",
-     "kid": "Feel the sharp corners. Which pieces will turn round? Why?",
+     "kid": "Feel the sharp corners of each heap. Then make a guess, and say why.",
      "ask": [
       {
        "q": "Which pieces do you think will lose their corners?",
@@ -622,9 +622,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Your child picks one piece from each heap. 2. They draw each one, showing its corners. 3. Put the pieces back.",
-     "say": "Draw one piece from each heap. Show its corners clearly. We will draw them again after shaking.",
-     "kid": "Draw one piece from each heap. Draw the corners."
+     "do": "1. Your child picks one piece from each heap. 2. They feel its corners and say sharp or round. 3. Write each answer in the Corners before column of the table. 4. Put the pieces back.",
+     "say": "Feel the corners of one piece from each heap. We will feel them again after the shaking, to see what changed.",
+     "kid": "Pick one piece from each heap. Are its corners sharp or round?"
     },
     {
      "id": "s3",
@@ -637,9 +637,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Look at each heap on the dark paper. 2. Feel the corners. 3. Look at the dust left in the tiffin each time. 4. Your child draws the pieces again and fills in the table.",
-     "say": "Feel the corners now. Which pieces changed? How much dust did each one leave?",
-     "kid": "Feel the corners now. Which changed? Draw them again.",
+     "do": "1. Look at each heap on the dark paper. 2. Feel the corners. 3. Look at the dust left in the tiffin each time. 4. Your child fills in the table, then lines the three heaps up, most changed first.",
+     "say": "Feel the corners now. How much dust did each one leave? Line the heaps up, with the most changed first.",
+     "kid": "Feel the corners of each heap. Line the heaps up, most changed first.",
      "ask": [
       {
        "q": "What happened to the chalk?",
@@ -665,9 +665,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "1. Put a round pebble next to a sharp stone chip. 2. Ask the question and wait for an answer. 3. Ask what your child thinks, what they saw, and why.",
-     "say": "This pebble is hard stone too, and it is round. The chips did not change in 100 shakes. So how long must a river have rolled this pebble?",
-     "kid": "Look at the pebble and the chip. How did the pebble get round?",
+     "do": "1. Put a round pebble next to a sharp stone chip. 2. Ask the question and wait for an answer. 3. Ask what they saw in the test that helps.",
+     "say": "This pebble is hard stone too, and it is round. Our stone chips stayed sharp after 100 shakes.",
+     "kid": "Look at the pebble and the sharp chip. Think about what you saw in the shaking.",
      "ask": [
       {
        "q": "How did the pebble get round?",
@@ -687,7 +687,7 @@
    "title": "The Scratch Ladder: which rock is hardest?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you try to scratch four kinds of rock with three tools: your fingernail, a steel coin and a steel key. A rock that is scratched by your fingernail is very soft. A rock that nothing scratches is very hard.",
+   "context": "In this experiment you try to scratch four kinds of rock with three tools: your fingernail, a steel coin and a steel key. A rock that is scratched by your fingernail is very soft. A rock that nothing scratches is very hard. You will find out whether the shiniest rock is really the hardest.",
    "problem": "A harder thing can scratch a softer thing, but a softer thing cannot scratch a harder one. So if a tool scratches a rock, the rock is softer than the tool. If nothing scratches a rock, it is very hard. In this test, you try three tools on each rock, and then put the rocks in order from softest to hardest.",
    "question": "Which of our rocks can a fingernail scratch, which can a coin scratch, and which can nothing scratch?",
    "predict": "Guess first. Which rock is the hardest, and which is the softest? Will the shiniest rock be the hardest? Why do you think so?",
@@ -727,7 +727,7 @@
      "what": "Guess. Scratch each rock with fingernail, coin and key. Wipe and look. Fill in the table and put the rocks in order from softest to hardest."
     }
    ],
-   "record": "Fill in the table. Then line the rocks up from softest to hardest and draw them in that order.",
+   "record": "Fill in the table. Then line the rocks up from softest to hardest, and tell a grown-up why you chose that order.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -784,7 +784,7 @@
      "mins": 3,
      "do": "1. Show the four rocks. 2. Ask which is hardest and which is softest, and why. 3. Write the guesses down.",
      "say": "Which rock is the hardest? Which is the softest? Why do you think so?",
-     "kid": "Which rock is hardest? Which is softest? Why?",
+     "kid": "Look at and hold the four rocks. Make a guess, and say why.",
      "ask": [
       {
        "q": "Which rock do you think is hardest?",
@@ -805,9 +805,9 @@
      "parent": "Do not test on the kitchen counter, the floor or the grinding stone. On a hard pebble, the key may leave a grey line. That is metal from the key, and it wipes off. The rock is not scratched. Pebbles are not all the same: if your pebble is scratched, it is a softer rock, and that is a good result to write down.",
      "check": {
       "t": "mcq",
-      "q": "The key left a grey line on the pebble, but the line wiped off. What does that tell you?",
+      "q": "The key left a grey line on the pebble, but the line wiped off. What does that mean?",
       "options": [
-       "A little metal rubbed off the key onto the pebble, so the pebble is harder than the key",
+       "The key's metal rubbed off, so the pebble is harder",
        "The pebble is soft",
        "The key is broken"
       ],
@@ -918,7 +918,7 @@
      "qty": 1
     },
     {
-     "item": "coloured pencils and paper",
+     "item": "coloured pencils and paper, if you want to draw",
      "qty": 1
     }
    ],
@@ -926,10 +926,10 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Look closely at granite. Count the colours of grains. Wet it and look again. Draw a small patch."
+     "what": "Look closely at granite. Count the colours of grains. Wet it and look again. Count the grains in a small patch."
     }
    ],
-   "record": "A drawing of a small square of granite, about the size of a stamp, with each kind of grain coloured in.",
+   "record": "A count of the grains of each colour in a patch the size of a stamp. You can also draw the patch and colour each kind of grain.",
    "setup": [
     {
      "art": "A child holding a magnifying glass over a speckled granite counter, with one eye close to the glass.",
@@ -937,7 +937,7 @@
     },
     {
      "art": "A child's drawing of a square full of black, white, pink and grey grains.",
-     "caption": "2. Draw a small patch, and colour each kind of grain."
+     "caption": "2. Count the grains in a small patch. You can also draw them."
     }
    ],
    "flow": [
@@ -946,7 +946,7 @@
      "mins": 6,
      "do": "1. Look at the granite through the glass or the phone camera. 2. Count the colours of grains together. 3. Wipe it with a wet cloth and look again.",
      "say": "How many colours of grains can you see? Now I will wet it. Can you see the colours better?",
-     "kid": "Look closely. How many colours of grains? Look again when it is wet.",
+     "kid": "Look closely at the granite. Then look again when it is wet.",
      "ask": [
       {
        "q": "How many kinds of grain did you see?",
@@ -960,9 +960,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Your child draws a small square of the granite. 2. They colour each kind of grain.",
-     "say": "Draw a small square of what you see. Colour each kind of grain. Different colours usually mean different minerals.",
-     "kid": "Draw a small square. Colour each kind of grain.",
+     "do": "1. Pick a patch of granite the size of a stamp. 2. Your child counts the grains of each colour and tells you. 3. They can draw the patch too, and colour each kind of grain.",
+     "say": "Look at a patch the size of a stamp. How many grains of each colour are there? You can draw it too.",
+     "kid": "Count the grains of each colour in the patch. Draw it too, if you like.",
      "check": {
       "t": "mcq",
       "q": "Why does granite have specks of different colours?",
@@ -982,7 +982,7 @@
    "title": "Rocks of India: make a map",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make a map of India that shows where some famous rocks come from, and what people built with them.",
+   "context": "In this activity you make a map of India that shows where some famous rocks come from, and what people built with them. You will see which parts of India give which rocks.",
    "materials": [
     {
      "item": "an outline map of India, traced from a school atlas, or drawn by hand as a big rough shape on a sheet of paper",
@@ -997,7 +997,7 @@
      "qty": 7
     },
     {
-     "item": "glue and coloured pencils",
+     "item": "glue",
      "qty": 1
     }
    ],
@@ -1020,7 +1020,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Find each place on the map. Stick its label there. Draw a tiny picture of what was built."
+     "what": "Find each place on the map. Stick its label there. Say what was built."
     }
    ],
    "record": "A map of India with seven rock labels in the right places.",
@@ -1031,16 +1031,16 @@
     },
     {
      "art": "A child sticking a label on Tamil Nadu, with a tiny temple drawn beside it.",
-     "caption": "2. Stick each label in its place and draw what was built."
+     "caption": "2. Stick each label in its place."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Read each label aloud. 2. Find the place on the map together. 3. Your child sticks the label and draws a tiny picture.",
-     "say": "This one says granite, Thanjavur. Where is Tamil Nadu? Stick it there and draw a little temple.",
-     "kid": "Read a label. Find the place. Stick it on. Draw a tiny picture."
+     "do": "1. Read each label aloud. 2. Find the place on the map together. 3. Your child sticks the label there and says what was built.",
+     "say": "This one says granite, Thanjavur. Where is Tamil Nadu? Stick it there. What was built from this rock?",
+     "kid": "Read a label. Find the place. Stick it on."
     },
     {
      "id": "s2",
@@ -1125,14 +1125,14 @@
      "mins": 8,
      "do": "1. Collect the six things together. 2. Put one in each section of the egg tray.",
      "say": "Let us collect six things for your rock box. They are chalk, rock salt, a pebble, a stone chip, a piece of marble or Kota stone, and a brick. The brick is here to compare, because people made it from clay.",
-     "kid": "Collect six things. Put one in each hole of the tray."
+     "kid": "Collect six things. Put one in each section of the tray."
     },
     {
      "id": "s2",
      "mins": 12,
      "do": "1. Scratch each one with the coin. 2. Put three drops of water on each and watch for one minute. 3. Write down what happens.",
      "say": "Does the coin scratch it? Now three drops of water. Does the water soak in, or sit on top as a round drop?",
-     "kid": "Scratch each one with a coin. Put three drops of water on it. Watch.",
+     "kid": "Try the coin on each thing. Then add the water drops and watch.",
      "wait": "Do this on day 2.",
      "ask": [
       {
@@ -1202,7 +1202,7 @@
      "mins": 5,
      "do": "1. Read the problem together. 2. Choose two or three ways to try. 3. Break a chalk stick into sharp pieces of the same size.",
      "say": "We can shake only 50 times. How could we make the chalk rounder in fewer shakes?",
-     "kid": "You have only 50 shakes. How can you make the chalk roundest?"
+     "kid": "Choose two or three ways to try. Break the chalk into pieces of the same size."
     },
     {
      "id": "s2",
@@ -1217,10 +1217,10 @@
      "mins": 5,
      "do": "1. Compare the pieces. 2. Ask why the winner worked.",
      "say": "Which piece is roundest? Why do you think that way worked best?",
-     "kid": "Which piece is roundest? Why?",
+     "kid": "Look at the row of pieces. Pick the roundest one.",
      "ask": [
       {
-       "q": "Why might rice or salt help the chalk get round?",
+       "q": "Why might adding rice, sand or salt help the chalk get round?",
        "good": [
         "More hard bits knock and rub it.",
         "Like sand in a river rubbing a stone."

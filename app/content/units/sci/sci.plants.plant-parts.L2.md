@@ -168,9 +168,9 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 - **Printable cards: 18 food cards to cut out:** Carrot (back: Root); Radish (mullangi) (back: Root); Beetroot (back: Root); Sugarcane (back: Stem); Lotus stem (thamarai thandu) (back: Stem); Potato (back: Stem. A potato is a stem that grows under the ground.); Palak (back: Leaf); Curry leaves (back: Leaf); Cabbage (back: Leaf. A cabbage is many leaves wrapped tight.); Cauliflower (back: Flower. It is a bunch of tiny flower buds.); Banana flower (vazhaipoo) (back: Flower); Clove (back: Flower. A clove is a dried flower bud.); Tomato (back: Fruit. It grew from a flower and has seeds inside.); Bhindi (back: Fruit); Drumstick (back: Fruit. The long pod holds the seeds.) [picture]; Rice (back: Seed); Peanut (back: Seed); Toor dal (back: Seed)
 - **Printable cards: 6 part cards to cut out: root, stem, leaf, flower, fruit, seed:** Root; Stem; Leaf; Flower; Fruit; Seed
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the cards together. 2. Lay out the 6 part cards. 3. A child who cannot read yet can first draw a small picture of the food on each food card.  
+  *Parent does:* 1. Cut out the cards together. 2. Lay out the 6 part cards. 3. If your child cannot read yet, read each food card aloud to them.  
   *Parent says:* Let's cut out the cards. Then we can play.  
-  *Child mode:* Cut out the cards. Lay out the 6 part cards. You can draw each food on its card.
+  *Child mode:* Cut out the cards. Lay out the 6 part cards.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns as the rules say. 2. On each turn, ask the player why they chose that part.  
   *Parent says:* Turn over a card. Which part is it? Why do you think so?  
@@ -179,7 +179,7 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 - **s3 (2 min)**  
   *Parent does:* 1. Lay out all the cards under their parts. 2. Count each group together.  
   *Parent says:* Look at the cards under each part. How many foods does each part have?  
-  *Child mode:* Count the cards under each part. How many foods does each part have?
+  *Child mode:* Count the cards under each part.
   - Ask: How many foods does each part have, and what does that tell us? (good: Each part has 3 foods.; We eat all six parts of plants, not only leaves.)
 ### g2 · Cactus, Lotus or Banyan? (12 min)
 - **rules:** Each player takes one cactus, one lotus and one banyan answer card.; Mix the clue cards and put them face down. One player is the reader.; The reader turns over a clue card and reads the front aloud, but not the back. The reader does not answer that round.; Everyone else holds up the answer card they think is right, all at the same time.; The reader reads the back. Everyone who was right gets one point.; The next player becomes the reader. Play until all 12 clues are read. The player with the most points wins. If two players tie, they share the win.
@@ -190,8 +190,8 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
   *Parent says:* Here are your three answer cards. You will hold one up when you hear a clue.  
   *Child mode:* Cut out the cards. Take a cactus, a lotus and a banyan answer card.
 - **s2 (9 min)**  
-  *Parent does:* 1. Play as the rules say. 2. After each clue, ask why that part helps the plant.  
-  *Parent says:* Listen to the clue. Hold up your answer. Why does that part help the plant?  
+  *Parent does:* 1. Play as the rules say. 2. After each clue, ask why that helps the plant live where they do.  
+  *Parent says:* Listen to the clue. Hold up your answer. Why does that help the plant live where they do?  
   *Child mode:* Listen to the clue. Hold up cactus, lotus or banyan.
   - Note: Two clues use facts to tell your child after they guess. The leaves of a lotus are waxy, so water rolls off them in round drops. Birds eat the small red figs of a banyan and drop the seeds far away in their droppings.
   - Check: Which plant keeps air tunnels in their stalks? → **Lotus**
@@ -202,18 +202,18 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 - **predict:** Hold each piece in your hand. Which ones will float, and which will sink? Put them in two groups. Why do you think so?
 - **fair test:** Every piece goes into the same bowl of the same tap water. We drop each piece in gently from just above the water, and wait 10 seconds before we decide. The four cut pieces (potato, carrot, brinjal, cucumber) are all about the size of your thumb, so size is not the reason one floats and another sinks. The leaf and the chana go in as they are. Then we change only the size, with one tiny piece of potato and one tiny piece of brinjal.
 - **safety:** A grown-up does all the cutting.
-- **record:** Draw the bowl. Draw each food at the top of the water or at the bottom, where it really went. Write F for float or S for sink next to your guess.
+- **record:** In the table, write F for float or S for sink, for your guess and for what happened. Then take a photo of the bowl, or draw each food at the top or the bottom, where it really went.
 - **results table:** Food | Plant part | My guess: float or sink | What happened | Tiny piece: float or sink
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut one thumb-sized piece each of potato, carrot, brinjal and cucumber. 2. Lay them on a plate with a palak leaf and 5 dry chana. 3. Fill the bowl with water.  
-  *Parent says:* Here are six foods. Each one is a part of a plant. Can you tell me which part each one is?  
-  *Child mode:* Look at the six foods. Each one is a part of a plant. Which part is each one?
+  *Parent says:* Here are six foods. Each one is a part of a plant. Let's see which parts you know.  
+  *Child mode:* Look at the six foods. Each one is a part of a plant. Find the carrot and the chana.
   - Ask: Which part of the plant is the carrot? And the chana? (good: The carrot is a root. It grew in the soil.; The chana is a seed. It can grow into a new plant.)
   - Note: Accept any answer now. The vegetable basket sort and the card game explain the parts. Potato is a stem that grows under the ground, which surprises most people.
 - **s2 (4 min)**  
   *Parent does:* 1. Let your child hold each piece. 2. Ask them to put the pieces in two groups: will float, will sink. 3. Write down their groups and their reason, word for word.  
   *Parent says:* Hold each piece in your hand. Which ones will float, and which will sink? Make two groups. Why do you think so?  
-  *Child mode:* Hold each piece. Will it float or sink? Make two groups. Say why.
+  *Child mode:* Hold each piece. Make two groups: will float, and will sink.
   - Ask: Why did you put that one in the sink group? (good: It feels heavy.; It is hard.; Seeds are small, so I think they float.)
   - Note: Most children say heavy or hard things sink. Do not say if they are right. The test will answer it.
 - **s3 (5 min)**  
@@ -223,33 +223,33 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
   - Note: Usually the brinjal, cucumber and palak leaf float. The potato and dry chana sink. Most carrots sink, but a few float. Write down what yours really did. If a piece floats with a bubble stuck to it, push it under once and let go.
 - **s4 (4 min) · grown-up needed**  
   *Parent does:* 1. A grown-up breaks off a crumb of potato, as small as a grain of rice. 2. Cut a tiny piece of brinjal the same size. 3. Ask your child to guess first. 4. Drop both in.  
-  *Parent says:* Some people say small things float and big things sink. Here is a tiny bit of potato. Will it float or sink? Why?  
-  *Child mode:* Here is a tiny bit of potato. Will it float or sink? Say why. Now drop it in.
-  - Ask: The tiny potato sank, and the big brinjal floated. So is it about size? (good: No. The tiny potato still sank.; It is what is inside that decides.)
+  *Parent says:* Some people say small things float and big things sink. Here is a tiny bit of potato and a tiny bit of brinjal. Will each one float or sink? Why?  
+  *Child mode:* Look at the two tiny pieces. Guess for each one. Then drop them in.
+  - Ask: Why did the tiny potato still sink? (good: Making it small did not change what is inside.; It is what is inside that decides.)
   - Check: A tiny crumb of potato sank. A big piece of brinjal floated. What does this show? → **Size is not what matters. What is inside matters.**
 - **s5 (5 min) · grown-up needed**  
   *Parent does:* 1. Cut a brinjal piece and a potato piece in half. 2. Let your child look closely and press each one with a finger. 3. Ask what is different inside.  
   *Parent says:* Look inside the brinjal and the potato. Press each one. What is different?  
-  *Child mode:* Look inside the brinjal and the potato. Press each one. What is different?
+  *Child mode:* Look inside the brinjal and the potato. Press each one.
   - Ask: What is the brinjal like inside? (good: Soft and spongy.; It has tiny holes.; It squashes.)
   - Ask: What is the potato like inside? (good: Hard and firm.; Packed tight.; No holes.)
   - Note: Now explain. A brinjal is spongy, with tiny spaces full of air, so it floats. A leaf has air spaces too, because a leaf takes in air to make food. A potato, a carrot and a seed are packed with food the plant stored for later, so they sink.
 - **s6 (3 min)**  
-  *Parent does:* 1. Ask your child to say what they found in three parts: what I guessed, what I saw, and why it happened. 2. Write it at the bottom of the table.  
-  *Parent says:* Tell me what you found. Which parts floated? Which parts sank? Why do you think that happened?  
-  *Child mode:* Say what you found. Which floated? Which sank? Why?
+  *Parent does:* 1. Ask your child to say which pieces floated, which sank, and whether their guesses were right. 2. Write it at the bottom of the table.  
+  *Parent says:* Tell me what you found. Which parts floated? Which parts sank? Were your guesses right?  
+  *Child mode:* Say what you found. Which floated? Which sank? Were your guesses right?
   - Ask: Why did the potato and the chana sink? (good: They are packed with stored food.; There is no air inside them.)
 ### e2 · Do Seeds Drink? Ten chana in water overnight (20 min, 2 days)
 - **question:** Does a dry seed take in water? How much bigger does a line of 10 chana get after a night in water?
 - **predict:** Look at the dry chana. After a night in water, will the line of 10 chana be shorter, the same, or longer? Why do you think so?
 - **fair test:** We use the same 10 chana before and after. We line them up the same way each time, touching end to end along the ruler. We keep 10 more dry chana in a dry cup, so we can compare.
-- **record:** Draw a dry chana and a soaked chana side by side, the real size. Write the length of the line before and after.
+- **record:** Write the length of the line before and after. Then draw a dry chana and a soaked chana side by side, or tell your grown-up what is different.
 - **results table:** Chana | Length of the line before (cm) | Length of the line after one night (cm) | How much longer (cm) | Hard or soft?
 - **schedule:** day 1: Line up 10 dry chana along the ruler and measure. Put them in water. Put 10 more chana in a dry cup. (10 min); day 2: Line up the 10 soaked chana again and measure. Compare them with the dry ones. Press one of each. (10 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Your child lines up 10 dry chana touching end to end along the ruler. 2. Read the length together and write it down. 3. Ask the question below.  
   *Parent says:* Here is a line of 10 dry chana. Tomorrow, after a night in water, will the line be shorter, the same, or longer? Why?  
-  *Child mode:* Line up 10 chana on the ruler. How long is the line? Will it change after a night in water? Why?
+  *Child mode:* Line up 10 chana on the ruler. How long is the line? Will it change after a night in water?
   - Ask: Why do you think so? (good: Longer, because the seeds drink the water.; The same, because seeds are hard.)
 - **s2 (5 min)**  
   *Parent does:* 1. Put the 10 measured chana in a bowl and cover them with water. 2. Put 10 more dry chana in a dry cup, with no water. 3. Leave both overnight.  
@@ -265,7 +265,7 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 
 ## Activities
 ### a1 · The Vegetable Basket Sort: which part are we eating? (15 min)
-- **record:** Draw one food on each paper, and write its name.
+- **record:** Take a photo of each paper with its foods on it, or write the name of each food on its paper.
 - **s1 (3 min)**  
   *Parent does:* 1. Write root, stem, leaf, flower, fruit and seed, one on each of six sheets of paper. 2. Lay them out and read each label with your child. 3. Bring the vegetable basket and the dal tins.  
   *Parent says:* Every plant food is one part of a plant. Let's find out which part each of our foods is.  
@@ -282,7 +282,7 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
   *Child mode:* Look inside the tomato. Can you see seeds? Seeds inside means it is a fruit.
   - Check: You cut a bhindi and find a row of seeds inside. Which part of the plant is a bhindi? → **A fruit**
 ### a2 · The Masala Box Hunt: plant parts in your spices (12 min)
-- **record:** Draw each spice you found on its paper, and write its name.
+- **record:** Write the name of each spice on its paper, or take a photo of the papers with the spices on them.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay out the six papers from the Vegetable Basket Sort (root, stem, leaf, flower, fruit, seed), or write these six names on new papers. 2. Open the masala box and let your child smell each spice. 3. Put a pinch of each on a steel plate.  
   *Parent says:* Every spice in this box came from a plant. Smell each one. Which plant part do you think each spice is?  
@@ -294,21 +294,21 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
   - Ask: Which spice in the box is a dried flower bud? (good: The clove. It was picked and dried before it opened.; Cloves are flowers, not seeds.)
   - Note: Answers: mustard and methi are seeds. Dried red chilli is a fruit with seeds inside. Turmeric is an underground stem. Cinnamon is the inner bark of a tree's stem. A clove is a flower bud that was picked and dried before it opened. Leave out jeera: it is a tiny fruit that looks like a seed. A powder such as turmeric or chilli powder cannot be recognised, so use the whole spice if you have it, or tell your child which one it is.
 ### a3 · Three Plants, Three Homes: a cactus, a lotus and a banyan (15 min)
-- **record:** Draw the three plants side by side. Under each, write where the plant lives.
+- **record:** Under each plant, write where the plant lives, or say it out loud and a grown-up writes it.
 - **s1 (8 min)**  
-  *Parent does:* 1. Tell your child what each plant looks like, using the notes below. 2. Your child draws all three. 3. They colour the roots brown, the stems orange and the leaves green. These colours are a code to tell the parts apart, not the real colours.  
-  *Parent says:* Draw a cactus, a lotus and a banyan. Colour the roots brown, the stems orange and the leaves green. Where are the leaves on the cactus?  
-  *Child mode:* Draw the three plants. Roots brown, stems orange, leaves green.
+  *Parent does:* 1. Tell your child what each plant looks like, using the notes below. 2. Your child draws or builds all three. 3. They mark the roots brown, the stems orange and the leaves green, with crayons or coloured paper tags. These colours are a code to tell the parts apart, not the real colours.  
+  *Parent says:* Make a cactus, a lotus and a banyan. Show the roots in brown, the stems in orange and the leaves in green. Where are the leaves on the cactus?  
+  *Child mode:* Draw the three plants, or build them from clay or paper. Roots brown, stems orange, leaves green.
   - Ask: Why is the cactus stem so fat? (good: It keeps water inside.; It lives where it hardly rains.)
   - Ask: Where does the lotus stem grow? (good: In the mud at the bottom of the pond.)
-  - Note: Cactus: a fat green stem full of water, sharp spines instead of flat leaves, and roots that spread wide just under the sand. Lotus: a stem lying in the mud at the bottom of a pond, long leaf stalks rising from it, and big round leaves on the water. Banyan: a huge tree with roots hanging down from her branches. The cactus's spines are their leaves, so colour them green too.
+  - Note: Cactus: a fat green stem full of water, sharp spines instead of flat leaves, and roots that spread wide just under the sand. Lotus: a stem lying in the mud at the bottom of a pond, long leaf stalks rising from it, and big round leaves on the water. Banyan: a huge tree with roots hanging down from her branches. The cactus's spines are their leaves, so mark them green too.
 - **s2 (7 min)**  
   *Parent does:* 1. Call out a plant. 2. Your child acts out the plant and says one thing about the plant's parts. 3. Swap, and let your child call out.  
   *Parent says:* Be a cactus! Now be a lotus! Now be a banyan! Tell me one thing about your roots or your stem.  
   *Child mode:* Be a cactus. Be a lotus. Be a banyan. Say one thing about your roots or stem.
   - Note: Cactus: stand tall and keep still, holding water in. Lotus: lie flat with arms spread like leaves on the water. Banyan: arms out wide, fingers hanging down like roots reaching for the ground.
 ### a4 · Count the Holes in a Lotus Stem (if you can buy one) (10 min)
-- **record:** Draw your slice, real size, with every hole.
+- **record:** Write how many holes you counted, and whether the slice floated or sank. You can also draw your slice, real size, with every hole.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Wash the lotus stem. 2. Cut two thin slices. 3. Your child holds one up to the light and counts the holes.  
   *Parent says:* This stem grew in the mud at the bottom of a pond. Look through it. How many holes can you count?  
@@ -323,12 +323,12 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 ## Projects
 ### p1 · Roots from a Stem: a money plant or mint in a jar (20 min, 14 days)
 - **safety:** Money plant sap can upset the stomach and the mouth. Do not chew it, keep it from small children and pets, and wash hands after cutting it. A grown-up cuts the stem, and the bottle if you use one.
-- **record:** Draw the stem on day 1, day 9 and day 14. Write how many roots you can count each time.
-- **schedule:** day 1: Pull the bottom leaves off the stem. Put the stem in a jar of water on a bright windowsill, out of strong sun. (6 min); day 5: Look for tiny white bumps or roots on the stem under the water. Top up the water. (3 min); day 9: Count the roots. Draw the stem and roots. Change the water. (4 min); day 14: Count the roots again. Draw them. Say where on the stem they grew. (7 min)
+- **record:** Take a photo of the stem on day 1, day 9 and day 14. Write how many roots you can count each time. On day 9, you can draw the stem too.
+- **schedule:** day 1: Pull the bottom leaves off the stem. Put the stem in a jar of water on a bright windowsill, out of strong sun. (6 min); day 5: Look for tiny white bumps or roots on the stem under the water. Top up the water. (3 min); day 9: Count the roots. Draw the stem and roots, or take a photo. Change the water. (4 min); day 14: Count the roots again. Take a photo. Say where on the stem they grew. (7 min)
 - **s1 (6 min) · grown-up needed**  
-  *Parent does:* 1. Cut a piece of money plant stem with 3 or 4 leaves, or use two mint stems. 2. Your child pulls off the lowest leaves. 3. Put the stem in a jar of water. 4. Keep the bare part under the water, with one bump where a leaf was joined. 5. Your child draws the stem.  
+  *Parent does:* 1. Cut a piece of money plant stem with 3 or 4 leaves, or use two mint stems. 2. Your child pulls off the lowest leaves. 3. Put the stem in a jar of water. 4. Keep the bare part under the water, with one bump where a leaf was joined. 5. Take a photo of the jar, so you can compare it later.  
   *Parent says:* Roots usually grow from a seed, down into the soil. Can roots grow out of a stem? Let's find out.  
-  *Child mode:* Pull off the bottom leaves. Put the stem in the water. Will roots grow?
+  *Child mode:* Pull off the bottom leaves. Put the stem in the water.
   - Ask: Do you think roots will grow? Where on the stem? (good: Yes, at the bottom.; Where the leaves were.)
   - Note: Mint usually grows roots within about a week. Money plant often takes one to three weeks. Roots usually grow from the bumps on the stem where leaves were joined.
 - **s2 (3 min)**  
@@ -337,12 +337,12 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
   *Child mode:* Look under the water. Can you see white bumps or roots?
   - Wait: Day 5
 - **s3 (4 min)**  
-  *Parent does:* 1. Count the roots together. 2. Your child draws the stem and roots. 3. Change the water.  
-  *Parent says:* How many roots can you count? Draw them.  
-  *Child mode:* Count the roots. Draw them.
+  *Parent does:* 1. Count the roots together. 2. Your child draws the stem and roots, or takes a photo. 3. Change the water.  
+  *Parent says:* How many roots can you count? Show me, then draw them or take a photo.  
+  *Child mode:* Count the roots. Draw them, or take a photo.
   - Wait: Day 9
 - **s4 (7 min)**  
-  *Parent does:* 1. Count the roots again. 2. Your child draws the final picture. 3. Talk about the banyan.  
+  *Parent does:* 1. Count the roots again. 2. Your child takes a last photo of the jar. 3. Talk about the banyan.  
   *Parent says:* These roots grew out of a stem, not from a seed. A banyan does the same, high up in the air. Where did your roots grow from?  
   *Child mode:* Count the roots. Where did they grow from? A banyan grows roots from branches too.
   - Ask: How is your stem like a banyan branch? (good: Roots grew out of the stem.; Both grow roots from a stem, not from a seed.)
@@ -364,13 +364,13 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
   - Note: A tight newspaper roll may hold one peg at first. If it does not droop, make the branch longer, or hang a second peg, until it does.
 - **s2 (10 min)**  
   *Parent does:* 1. Roll thinner tubes for prop roots. 2. Your child tapes them from the branch straight down to the table. 3. Hang the peg again.  
-  *Parent says:* A banyan grows roots down from her branches. When they reach the ground, they hold the branch up. Can you make prop roots for your branch?  
-  *Child mode:* Roll thin paper roots. Tape them from the branch down to the table. Hang the peg again.
+  *Parent says:* Your branch droops. Can you hold it up with thin paper tubes, so it does not touch the table? Then hang the peg again.  
+  *Child mode:* Roll thin paper tubes. Tape them from the branch down to the table. Hang the peg again.
   - Check: How does a banyan hold up a very long branch? → **Roots grow down from the branch and act like pillars**
 - **s3 (4 min)**  
   *Parent does:* 1. Measure how long the branch is now. 2. Count the prop roots. 3. Ask your child how they would make it even longer.  
   *Parent says:* How long is your branch now? How many prop roots did it need? How could a banyan spread even wider?  
-  *Child mode:* Measure your branch. Count the roots. How could it grow longer?
+  *Child mode:* Measure your branch. Count the roots.
   - Ask: How could you make the branch longer without it touching the table? (good: Add more prop roots.; Add thicker prop roots.)
 
 ## Worksheets

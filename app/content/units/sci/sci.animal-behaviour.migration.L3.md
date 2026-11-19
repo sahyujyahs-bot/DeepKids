@@ -215,19 +215,19 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
   *Parent says:* In spring, monarch butterflies leave their winter forests in Mexico. No single butterfly will reach Canada. Let's see why.  
   *Child mode:* Put the winter butterfly on square 0. Mix up the cards. You are a monarch!
 - **s2 (3 min)**  
-  *Parent does:* Play a practice card: 'How many generations does the monarch journey north take?'  
-  *Parent says:* Practice card. How many generations does the trip north take?  
-  *Child mode:* Practice card. How many generations fly north? Say your answer.
+  *Parent does:* Read the practice question below to your child. This card does not count.  
+  *Parent says:* Let's try one practice card first.  
+  *Child mode:* Pick the answer you think is right.
   - Check: How many generations of monarchs does it take to fly from Mexico to Canada? → **Three or four**
 - **s3 (10 min)**  
   *Parent does:* Play the game until the autumn butterfly reaches square 19. Pause at each 'Lay eggs' square.  
-  *Parent says:* You've reached milkweed. Your butterfly lays eggs here. Who carries the journey on now?  
+  *Parent says:* Milkweed at last. This is where your butterfly lays her eggs.  
   *Child mode:* Lay eggs! Swap in the next butterfly. Then the next player takes a turn.
   - Ask: The butterfly who left Mexico never reaches Canada. Who does? (good: Her great-granddaughter.; The third or fourth generation.)
 - **s4 (4 min)**  
   *Parent does:* When the game ends, talk about the autumn generation.  
-  *Parent says:* The autumn butterfly flew all the way back to forests she had never seen. How do you think she knew where to go?  
-  *Child mode:* Your autumn butterfly never saw Mexico. How did she find the way?
+  *Parent says:* The autumn butterfly flew all the way back to forests she had never seen.  
+  *Child mode:* Think about the autumn butterfly. She was born in Canada and has never seen Mexico.
   - Ask: How could an autumn monarch find a forest she has never seen? (good: She was born knowing the direction.; She follows the Sun and keeps flying the right way.)
   - Note: Scientists have found that monarchs use the Sun to keep their direction, together with a clock in their bodies. How they find the very same forests is still not fully known.
 ### g2 · Stay or Go? A card game about travellers (15 min)
@@ -241,12 +241,12 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 - **s2 (10 min)**  
   *Parent does:* Play through the cards. After each card, ask what the reason was.  
   *Parent says:* Why did you say GO? What would happen to her if she stayed?  
-  *Child mode:* Why did you choose that? What if she stayed?
-  - Check: Most humpback whales migrate. Why do the humpbacks of the Arabian Sea stay all year? → **Their sea has enough food all year, and it is warm enough for calves**
+  *Child mode:* Say your reason. Then turn the card over and read the back.
+  - Check: Most humpback whales travel far. Why do the ones in the Arabian Sea stay all year? → **Their sea has food all year and is warm**
 - **s3 (3 min)**  
-  *Parent does:* Look at which cards were STAY. What do they have in common?  
-  *Parent says:* Look at all the STAY cards. What do they have that the GO cards don't?  
-  *Child mode:* Look at the STAY cards. What do they all have?
+  *Parent does:* Sort the used cards into a STAY pile and a GO pile. Then look at the STAY pile together.  
+  *Parent says:* Let's make two piles, STAY and GO. Now look at the STAY pile.  
+  *Child mode:* Make the two piles. Look at the STAY pile.
   - Ask: What do the animals that stay have in common? (good: They have food near home all year.; Their home doesn't get too cold or too dry.)
 
 ## Experiments
@@ -256,7 +256,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 - **predict:** Guess first. When your eyes are covered and you start from a new spot, will your usual steps still take you to the bowl? If not, how far away will you stop? And if you peek at the bowl for three seconds first, what will happen? Why do you think so?
 - **fair test:** Every walk uses the same number of steps, the same cloth over your eyes, and your normal walking speed. Only one thing changes: where you start, and whether you peek. Try each way 3 times, because one try can be a fluke.
 - **safety:** The walker cannot see. Clear the floor of toys, slippers and wires first. A grown-up walks beside the child every time, ready to stop them before a wall or a table.
-- **record:** Fill in the table. Then draw the floor from above: the bowl, the two starts, and a dot where you stopped each time.
+- **record:** Fill in the table. Then tell your grown-up which way you missed the bowl, and by how much.
 - **results table:** Try | Where you started | Did you peek? | How far from the bowl you stopped (in foot-lengths)
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Clear the floor. 2. Put the bowl at one end. 3. Put a newspaper sheet about 5 or 6 normal steps away, facing the bowl. This is the usual start. Keep the second sheet for later.  
@@ -266,19 +266,19 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 - **s2 (4 min)**  
   *Parent does:* 1. Stand your child on the usual start, facing the bowl. 2. Let them walk to the bowl with eyes open, three times. 3. Count the steps together. Write the number down.  
   *Parent says:* Walk to the lake with your eyes open. Count your steps out loud. Do it three times, so the number stays in your head.  
-  *Child mode:* Walk to the bowl. Count your steps out loud. Do it three times. How many steps is it?
+  *Child mode:* Walk to the bowl with your eyes open. Count your steps out loud, three times.
   - Ask: How many steps does it take you to reach the bowl? (good: The same number each time, about 5 or 6.; It was 6 the first time and 6 again.)
   - Note: Ask them to take normal steps, not giant ones, so the count stays the same.
 - **s3 (3 min)**  
   *Parent does:* Before any test, ask for a guess and a reason. Write the guess at the top of the table.  
-  *Parent says:* Soon I will cover your eyes and maybe move you. Do you think your steps will still find the lake? Why?  
-  *Child mode:* Your eyes will be covered. You might be moved. Will your steps still find the bowl? Why do you think so?
+  *Parent says:* Soon I will cover your eyes. I might also move your start, without telling you.  
+  *Child mode:* Make a guess, and say why you think so.
   - Ask: What do you think will happen if I move you without telling you? (good: I will miss the bowl, because my steps go the same way.; I will still find it, because I remember where it is.)
   - Note: Don't say which guess is right. The test will answer it.
 - **s4 (5 min) · grown-up needed**  
-  *Parent does:* 1. Cover your child's eyes with the cloth. 2. Turn them slowly round twice and walk them about the room for a few seconds, as in the next step. Then stand them on the usual start, facing the bowl. 3. Say 'Walk your steps.' 4. When they stop, measure how far their toes are from the bowl in your foot-lengths. 5. Do it 3 times and write each number.  
+  *Parent does:* 1. Cover your child's eyes with the cloth. 2. Turn them slowly round twice and walk them about the room for a few seconds. Then stand them on the usual start, facing the bowl. 3. Say 'Walk your steps.' 4. When they stop, measure how far their toes are from the bowl in your foot-lengths. 5. Do it 3 times and write each number.  
   *Parent says:* Eyes covered. You are on the usual start. Walk your steps, then stop. I'll measure how close you are.  
-  *Child mode:* Eyes covered. Walk your steps. Stop. How close are you to the bowl?
+  *Child mode:* Keep your eyes covered. Walk the same number of steps, then stop.
   - Note: Walk beside them with a hand ready. Most children stop within 1 or 2 foot-lengths of the bowl. A step drifting a little to one side is normal.
 - **s5 (6 min) · grown-up needed**  
   *Parent does:* 1. Cover your child's eyes. 2. Turn them slowly round twice and walk them about the room for a few seconds. 3. While they are turning, put the second sheet about one metre to one side of the usual start, facing the same way. 4. Quietly stand them on this secret start. 5. Say 'Walk your steps.' 6. Measure and write. 7. Do this 3 times. Each time, walk them about first.  
@@ -292,9 +292,9 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
   *Child mode:* Look at the bowl for three seconds. Now eyes covered. Find the bowl!
   - Ask: What did you do differently after the peek? (good: I turned a little towards the bowl before walking.; I walked to where I saw it, not just my steps.)
 - **s7 (3 min)**  
-  *Parent does:* Look at the three rows of numbers together. Ask your child to say what they found as a claim, the evidence and the reason.  
-  *Parent says:* Look at our numbers. Say what you found, which numbers show it, and why you think it happened.  
-  *Child mode:* Look at your numbers. What did you find? Which numbers show it? Why?
+  *Parent does:* Look at the three rows of numbers together. Ask what they found, which numbers show it, and why.  
+  *Parent says:* Let's put the three rows side by side.  
+  *Child mode:* Compare the rows. Which row has the biggest numbers?
   - Ask: Why did your steps miss the bowl from the secret start, but not after the peek? (good: The steps only know which way and how far, so a new start sends them to a new place.; When I peeked, I knew where the bowl was, so I could find it from anywhere.)
   - Note: A strong answer says that the steps carried a direction and a distance, and that the peek gave the place. This is the difference between a young bird and an older one.
   - Think: A young bird on her first journey flies a direction she was born with. What would happen to her if a storm moved her?
@@ -304,7 +304,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 - **predict:** Guess first. With no wind, where will the butterfly land? With the fan blowing behind it, how far will it go: a little further, twice as far, or more? Why do you think so?
 - **fair test:** Use the same butterfly, dropped from the same height, from the same spot, every time. Keep the fan at the same speed and the same distance. Only the wind changes. Drop it 3 times each way, because one drop can be a fluke.
 - **safety:** A grown-up sets up and switches on the fan. Keep fingers and paper away from the blades.
-- **record:** Fill in the table. Draw the two kinds of drop side by side, with an arrow for the wind.
+- **record:** Fill in the table. Take a photo of where she landed with no wind and with the fan, with the tape measure beside her.
 - **results table:** Drop | Wind | How far from the spot below the hand it landed (cm)
 - **s1 (4 min)**  
   *Parent does:* 1. Pinch the paper square in the middle to make two wings. 2. Clip the middle with a paper clip. 3. Switch off the ceiling fan and close the windows.  
@@ -318,7 +318,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 - **s3 (2 min)**  
   *Parent does:* Ask for a guess and a reason, and write it down.  
   *Parent says:* Where will the butterfly land with no wind? And with the fan behind her? Why do you think so?  
-  *Child mode:* Where will she land with no wind? And with wind behind? Why?
+  *Child mode:* Make a guess for each, and say why.
 - **s4 (5 min)**  
   *Parent does:* 1. Drop the butterfly with no fan on. 2. Measure from the coin to where it landed, in centimetres. 3. Do it 3 times. Write each number.  
   *Parent says:* Let go, don't throw. Then measure how far it landed from the coin.  
@@ -331,9 +331,9 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
   - Note: On the lowest fan speed, the butterfly often lands one to two metres away. If she flies off the table or the fan is too strong, move the fan further back.
   - Check: With the fan blowing behind, the butterfly landed much further from the coin. Why? → **The moving air pushed her along while she fell**
 - **s6 (5 min)**  
-  *Parent does:* Look at the numbers together. Work out how many times further the wind carried her. Ask for claim, evidence and reasoning.  
-  *Parent says:* How many times further did she go with the wind? What does that tell us about tiny travellers like dragonflies?  
-  *Child mode:* How much further did she go with the wind? What does that mean for a dragonfly?
+  *Parent does:* Look at the numbers together. Work out how many times further the wind carried her. Ask what they found, which numbers show it, and why.  
+  *Parent says:* Compare the two rows. How many times further did she go with the wind?  
+  *Child mode:* Compare the numbers in the two rows.
   - Ask: Why do many migrating birds and insects wait for a tailwind before they set off? (good: The wind carries them further for the same work.; They save fuel, so they can go further before they need to eat.)
   - Think: A globe skimmer dragonfly weighs less than a paper clip. How could she cross the sea?
 
@@ -348,15 +348,15 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
   *Parent does:* Let your child sort the slips into GO and STAY. Ask for a reason for each one.  
   *Parent says:* Put each one in GO if you think they travel far every year, or STAY if they stay near home. Tell me why.  
   *Child mode:* Put each slip in GO or STAY. Say why for each one.
-  - Ask: Why did you put the blue whale in GO? (good: Whales swim very far in the sea.; I have heard whales travel between cold and warm seas.)
+  - Ask: Pick one slip. Why did you put it in that bowl? (good: The barn swallow flies far every year, so they go in GO.; The myna stays near people all year, so they go in STAY.)
 - **s3 (4 min)**  
   *Parent does:* Read out the answers. GO is the bar-headed goose, barn swallow, wildebeest, blue whale, Amur falcon and Dhangar shepherd family. STAY is the Indian cobra, rock pigeon, common myna, house gecko, Indian palm squirrel and red-vented bulbul.  
-  *Parent says:* Let's check. Were there any surprises? A shepherd family is in GO. Humans are animals too, and some of us migrate.  
-  *Child mode:* Let's check. Were you surprised by any? People can migrate too!
+  *Parent says:* Let's check. A shepherd family is in GO. Humans are animals too, and some of us migrate.  
+  *Child mode:* Move each slip you got wrong to the other bowl. Count how many you got right.
   - Note: Some kinds of animals are mixed, with some travelling and some staying. If your child asks about one, say that scientists are still finding out.
   - Check: Which of these makes a long journey every year? → **A barn swallow**
 ### a2 · Ask an Elder: who in our family moved with the seasons? (15 min)
-- **record:** Write the answers, and draw a map with an arrow from one place to the other.
+- **record:** Write the answers. Then show the journey on a map: draw an arrow between the two places, or find them in an atlas or on a phone map and tell your grown-up.
 - **s1 (3 min)**  
   *Parent does:* Help your child write five questions: 1. Did you travel somewhere every year? 2. Where to? 3. What time of year? 4. Why did you go? 5. How did you find the way?  
   *Parent says:* Many people travel to the same place every year, like birds. Let's find out who in our family did.  
@@ -369,30 +369,30 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 - **s3 (2 min)**  
   *Parent does:* Compare the answers with a bird's migration.  
   *Parent says:* Was the reason like a bird's reason: food, work, family, or a safe home for the children?  
-  *Child mode:* Was their reason like a bird's reason? How was it the same? How was it different?
+  *Child mode:* Think about why your elder travelled. Then think about why birds travel.
   - Ask: How is your elder's yearly journey like a bird's migration? (good: They went at the same time every year, like the birds.; They went where there was work or food, like birds go where there is food.)
 ### a3 · Landmarks on My Way: draw a route you know by heart (20 min)
-- **record:** Keep the drawing. Tick each landmark you spotted on your next trip.
+- **record:** Keep your drawing or your slips. Tick each landmark you spotted on your next trip.
 - **s1 (10 min)**  
-  *Parent does:* Help your child pick a route they know well (home to school, to a grandparent's house, or to the market). Ask them to draw it as a line with every landmark they remember.  
-  *Parent says:* Pick a road you travel a lot. Draw it as a line. Put on every landmark you remember: a tree, a temple, a shop, a bridge.  
-  *Child mode:* Draw a road you know well. Draw everything you remember on it. A tree? A shop? A bridge?
+  *Parent does:* Help your child pick a route they know well (home to school, to a grandparent's house, or to the market). Ask them to show it with every landmark they remember. They can draw a line, or write each landmark on a slip and lay the slips in order.  
+  *Parent says:* Pick a road you travel a lot. Show it with every landmark you remember: a tree, a temple, a shop, a bridge.  
+  *Child mode:* Show a road you know well. Draw it, or lay out slips in order. What do you remember on it?
 - **s2 (5 min)**  
   *Parent does:* Count the landmarks together. Ask which ones are seen, heard or smelled.  
   *Parent says:* Which landmarks would you know with your eyes shut? A bakery smell? Temple bells? A noisy junction?  
-  *Child mode:* Which landmarks could you find with your eyes shut? A smell? A sound?
+  *Child mode:* Point to the landmarks you could know by a smell or a sound.
   - Ask: Which landmark would tell you that you are nearly there? (good: The big tree at the corner.; The smell of the bakery near our gate.)
 - **s3 (5 min)**  
   *Parent does:* On your next trip on that route, take the drawing. Tick each landmark as you pass it, and add any you forgot.  
-  *Parent says:* On our next trip, let's tick each landmark. Did you forget any?  
+  *Parent says:* On our next trip, we will look for every landmark. Did you remember them all?  
   *Child mode:* On your next trip, tick each landmark. Add any you forgot.
   - Note: Scientists who fixed trackers on homing pigeons near Oxford, in England, found that pigeons who knew an area kept to their own favourite routes, following landmarks they had learned.
   - Wait: Do this on the next trip along the route.
 ### a4 · Winter Visitors Watch (from October to March) (15 min)
 - **record:** Write each bird you saw, how many, and whether they are a winter visitor.
 - **s1 (10 min)**  
-  *Parent does:* Sit at a window in the early morning or late afternoon. Write down every bird you see in 10 minutes.  
-  *Parent says:* Let's be bird watchers for 10 minutes. Write every bird you see, even crows and pigeons.  
+  *Parent does:* Sit at a window in the early morning or late afternoon. Write down every bird you see in 10 minutes, and how many of each.  
+  *Parent says:* Let's be bird watchers for 10 minutes. Write every bird you see, even crows and pigeons. If you do not know a name, write its colour and size.  
   *Child mode:* Watch from the window for 10 minutes. Write every bird you see.
 - **s2 (5 min)**  
   *Parent does:* Check your list for winter visitors that often come to Indian towns (barn swallow, grey wagtail, white wagtail, brown shrike, greenish warbler, Blyth's reed warbler and rosy starling).  
@@ -403,15 +403,15 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 ## Projects
 ### p1 · My Migration Book: one traveller's year (60 min, 3 days)
 - **record:** The finished book, with a map, at least four pages, and one question nobody can answer yet.
-- **schedule:** day 1: Choose your traveller. Find where they breed and where they spend the rest of the year. Draw the map page. (20 min); day 2: Write and draw the journey: when they leave, what they eat, where they stop, and the dangers. (20 min); day 3: Write how scientists found out, and one thing nobody knows yet. Read your book to someone. (20 min)
+- **schedule:** day 1: Choose your traveller. Find where they breed and where they spend the rest of the year. Make the map page. (20 min); day 2: Write the journey: when they leave, what they eat, where they stop, and the dangers. (20 min); day 3: Write how scientists found out, and one thing nobody knows yet. Read your book to someone. (20 min)
 - **s1 (20 min)**  
-  *Parent does:* Help your child choose one traveller from this unit (Arctic tern, curlew sandpiper, demoiselle crane, humpback whale, monarch butterfly, globe skimmer dragonfly or olive ridley turtle). Draw a map page with the two homes and the route.  
-  *Parent says:* Choose one traveller. Where is their summer home? Where do they go for the rest of the year? Let's draw both on a map.  
-  *Child mode:* Choose your traveller. Draw a map. Mark both homes. Draw the route between them.
+  *Parent does:* Help your child choose one traveller from this unit (Arctic tern, curlew sandpiper, demoiselle crane, humpback whale, monarch butterfly, globe skimmer dragonfly or olive ridley turtle). Make a map page with the two homes and the route. Your child can draw it, or mark the homes on a printed map and stick that in.  
+  *Parent says:* Choose one traveller. Where is their summer home? Where do they go for the rest of the year? Let's mark both on a map.  
+  *Child mode:* Choose your traveller. Find both homes on the map. Mark them and join them with a line.
 - **s2 (20 min)**  
-  *Parent does:* On day 2, write and draw two pages: the journey, and its dangers.  
-  *Parent says:* Today, write about the journey. When do they leave? What fuels them? What dangers are on the way?  
-  *Child mode:* Write about the journey. When do they go? What dangers are there? Draw them.
+  *Parent does:* On day 2, write two pages: the journey, and its dangers. Your child can add one picture, drawn or cut from an old magazine. If writing is hard, they tell you and you write.  
+  *Parent says:* Today, write about the journey. When do they leave? What do they eat on the way? What dangers are on the way?  
+  *Child mode:* Write about the journey. When do they go? What dangers are there? Add one picture.
   - Wait: Come back tomorrow.
 - **s3 (20 min)**  
   *Parent does:* On day 3, write how scientists found out, and one open question. Then your child reads the book aloud to someone.  
@@ -422,7 +422,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 ## Challenges
 ### c1 · The Lightest Tracker: how much can a flyer carry? (30 min)
 - **problem:** A tracker that is too heavy can tire a bird or make her fall behind. Find out how much extra weight a paper plane can carry before it flies much shorter, and where to put the weight so it flies best.
-- **your turn:** Now design the best place and the lightest tracker for your plane. Draw it, test it 3 times, and write how far it flew compared with no tracker.
+- **your turn:** Now design the best place and the lightest tracker for your plane. Test it 3 times, and write how far it flew compared with no tracker. Take a photo of your best plane, or draw it.
 - **constraints:** Use one paper plane for every test.; The 'tracker' is paper clips, taped on.; Throw from the same spot, with the same gentle push, 3 times for each test.
 - **general:** Scientists use a rule that a tracker should weigh no more than about 3 grams for every 100 grams of the bird's weight. So a bird who weighs 100 grams can carry a tracker of about 3 grams.; Trackers are fixed near the middle of the back, close to where the body balances, so they don't pull the bird off balance.; Solar panels on trackers mean smaller batteries, so the tracker can be lighter.
 - **creative:** Fix the clips on the middle of the plane instead of the nose or tail, and see if it balances better.; Make a lighter 'tracker' from a small scrap of foil instead of a clip, and see if the plane flies further.; Some scientists don't put trackers on birds at all. They use radar, cameras or the songs birds make at night.
@@ -441,9 +441,9 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
   *Child mode:* Move the clips to the front. Throw. Now to the back. Throw.
   - Check: Why do scientists fix a tracker near the middle of a bird's back? → **So the bird stays balanced**
 - **s4 (5 min)**  
-  *Parent does:* Talk about your best design. Draw it.  
+  *Parent does:* Talk about the best design. Take a photo of the plane, or draw it.  
   *Parent says:* What was your best design? What would you tell a bird scientist?  
-  *Child mode:* Draw your best tracker. Where did you put it? Why?
+  *Child mode:* Show your best plane. Say where the clips went, and why.
 ### c2 · A Safe Crossing: help travelling crabs cross the road (30 min)
 - **problem:** Every year on Christmas Island, millions of red crabs migrate from the forest to the sea, and many used to be crushed on the roads. Design a way for crabs to cross the road safely, while cars can still use it.
 - **your turn:** Now build your own crossing. Test it: can the beans or paper crabs get across without touching the road while a toy car drives along?
@@ -453,11 +453,11 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 - **s1 (5 min)**  
   *Parent does:* Show the problem. Lay the cardboard road between two 'forest' and 'sea' sides. Drive the toy car along while moving beans across.  
   *Parent says:* Here is the forest, here is the sea, and here is the road between. What happens to crabs who cross?  
-  *Child mode:* This is the road. The crabs must cross it. What could happen?
+  *Child mode:* Push the car along the road while the beans cross it.
 - **s2 (5 min)**  
-  *Parent does:* Draw three ideas before building.  
-  *Parent says:* Let's draw three ideas first. Over, under, or something else?  
-  *Child mode:* Draw three ideas. Over the road? Under it? Something new?
+  *Parent does:* Ask for three ideas before building. Your child can say them, or sketch them.  
+  *Parent says:* Let's think of three ideas first. Over, under, or something else?  
+  *Child mode:* Tell me three ideas, or sketch them. Over the road? Under it? Something new?
 - **s3 (15 min)**  
   *Parent does:* Build the best idea. Test it with beans and a toy car.  
   *Parent says:* Build your crossing. Then test it. Do the crabs get across while the car drives?  
@@ -466,8 +466,8 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 - **s4 (5 min)**  
   *Parent does:* Talk about what worked and what you would change.  
   *Parent says:* What worked? What would you change? Who else might use your crossing?  
-  *Child mode:* What worked? What would you change?
-  - Check: Why does a crab crossing need low walls beside it? → **To lead the crabs to the crossing, so they don't walk onto the road**
+  *Child mode:* Test it once more, with one change.
+  - Check: Why does a crab crossing need low walls beside it? → **To lead the crabs to the crossing**
 
 ## Worksheets
 ### Who Travels, and Why (core) (core, 16 questions)

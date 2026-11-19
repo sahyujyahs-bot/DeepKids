@@ -71,11 +71,6 @@
   --sunbg: #fdf2d6;
   --sunink: #8a5a06;
   --aquabg: #e2f1ef;
-  /* inside a unit: the workbook look (grid paper, ink outlines with a hard shadow, typewriter labels) */
-  --mono: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
-  --grid: #e4eaf4;
-  --edge: 2px solid var(--ink);
-  --pop: 4px 4px 0 var(--ink);
 }
 * {
   box-sizing: border-box;
@@ -4279,28 +4274,25 @@ html:has(.fxdlg[open]) {
   min-height: 46px;
   padding: 0 18px;
   border: 0;
-  border-radius: 16px;
-  background: var(--tang);
+  border-radius: var(--r-btn);
+  background: var(--margin);
   color: #fff;
-  font: 600 var(--fs-4) var(--display);
-  box-shadow: 0 3px 0 var(--tangD);
+  font: 700 var(--fs-4) var(--body);
   text-decoration: none;
 }
 .fxb[aria-pressed="false"] {
-  background: var(--surface);
+  background: none;
   color: var(--ink);
-  box-shadow: 0 3px 0 var(--line);
+  box-shadow: inset 0 0 0 1.5px var(--ink);
 }
 .fxb.on {
   background: var(--forest);
-  box-shadow: 0 3px 0 var(--forestD);
 }
 .fxb:disabled:not(.on) {
   opacity: 0.55;
 }
 .fxdone {
   background: var(--forest);
-  box-shadow: 0 3px 0 var(--forestD);
   justify-self: start;
 }
 .fxrow {
@@ -4410,13 +4402,6 @@ html:has(.fxdlg[open]) {
 .fxcar::-webkit-scrollbar {
   display: none;
 }
-.fxstack {
-  display: grid;
-  overflow: visible;
-  scroll-snap-type: none;
-  margin: 0;
-  padding: 4px 0 8px;
-}
 .fxstack .fxslide {
   flex: none;
 }
@@ -4457,11 +4442,11 @@ html:has(.fxdlg[open]) {
 }
 .fxopt {
   text-align: left;
-  border: 2px solid var(--line);
+  border: 1.5px solid var(--rule);
   background: var(--surface);
-  border-radius: 14px;
+  border-radius: var(--r-lg);
   padding: 11px 14px;
-  font: 700 var(--fs-4) var(--body);
+  font: 600 var(--fs-4) var(--body);
 }
 .fxopt.ok {
   border-color: var(--good);
@@ -4477,10 +4462,10 @@ html:has(.fxdlg[open]) {
 input.fxin {
   display: block;
   height: auto;
-  border: 2px solid var(--line);
-  border-radius: 14px;
+  border: 1.5px solid var(--rule);
+  border-radius: var(--r);
   padding: 11px 14px;
-  font: 700 var(--fs-4) var(--body);
+  font: 600 var(--fs-4) var(--body);
   background: var(--surface);
   box-shadow: none;
   flex: none;
@@ -4948,9 +4933,8 @@ dialog .fxfab {
 }
 .fxchd {
   display: block;
-  font: 700 var(--fs-2) var(--body);
+  font: 600 var(--fs-3) var(--body);
   color: var(--tangD);
-  letter-spacing: 0.04em;
 }
 .fxsheet {
   background: #fff;
@@ -5023,11 +5007,8 @@ dialog .fxfab {
   padding: 3px 10px;
   border-radius: 999px;
   background: color-mix(in srgb, var(--kc) 16%, var(--surface));
-  color: color-mix(in srgb, var(--kc) 80%, #000);
-  border: 1.5px solid color-mix(in srgb, var(--kc) 45%, transparent);
-  font: 800 var(--fs-2) var(--body);
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
+  color: color-mix(in srgb, var(--kc) 75%, #000);
+  font: 600 var(--fs-3) var(--body);
   white-space: nowrap;
 }
 .fxwhym {
@@ -6404,18 +6385,15 @@ body {
 .fxlab {
   display: block;
   margin-top: 10px;
-  font: 700 var(--fs-2) var(--mono);
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
+  font: 600 var(--fs-3) var(--body);
   color: var(--muted);
 }
 .fxlearn {
   margin: 16px 0;
   padding: 14px 16px;
-  border: var(--edge);
-  border-radius: 14px;
+  border-radius: var(--r-card);
   background: var(--surface);
-  box-shadow: var(--pop);
+  box-shadow: var(--shadow);
 }
 .fxlearn h2 {
   font: 400 var(--fs-6) var(--poster);
@@ -6562,8 +6540,9 @@ body {
   color: var(--muted);
 }
 
-/* Inside a unit: the workbook page (app/content/DESIGN.md, "Inside a unit"). Grid paper, ink outlines with a hard
-   shadow, flat colour tiles and typewriter labels. One page for the whole unit; a part unfolds in place. */
+/* Inside a unit (app/content/DESIGN.md, "Inside a unit"): the same calm look as the rest of the app (white cards on
+   paper, round pills, one red action), with the unit's cover picture and one colour for each kind of part. One page
+   for the whole unit; a part unfolds in place. */
 .fxdlg {
   border: 0;
   padding: 0;
@@ -6589,11 +6568,7 @@ body {
   overflow-y: auto;
   overscroll-behavior: contain;
   padding-bottom: 96px;
-  background:
-    linear-gradient(var(--grid) 1px, transparent 1px) local,
-    linear-gradient(90deg, var(--grid) 1px, transparent 1px) local,
-    var(--bg);
-  background-size: 24px 24px;
+  background: var(--bg);
 }
 /* room under an open part, so its last card can come up to where cards are read */
 .fxpage:has(.fxpart.open) {
@@ -6610,22 +6585,26 @@ body {
   flex: none;
   display: grid;
   place-items: center;
-  border: var(--edge);
-  border-radius: 12px;
+  border: 0;
+  border-radius: 15px;
   background: var(--surface);
   color: var(--ink);
-  box-shadow: 3px 3px 0 var(--ink);
+  box-shadow: var(--shadow);
 }
 .fxhd .fxround {
   position: absolute;
   z-index: 1;
-  top: calc(env(safe-area-inset-top, 0) + 12px);
-  right: 14px;
+  top: calc(env(safe-area-inset-top, 0) + 24px);
+  right: 28px;
+}
+.fxcover {
+  padding: calc(env(safe-area-inset-top, 0) + 12px) 16px 0;
 }
 .fxcover .fximg.fxhero {
   aspect-ratio: 4/3;
   max-height: 38dvh;
-  border-bottom: var(--edge);
+  border-radius: var(--r-card);
+  box-shadow: var(--shadow);
 }
 /* a picture that is not drawn yet is a short band, not an empty screen */
 .fxcover .fximg.broken,
@@ -6641,19 +6620,20 @@ body {
   padding: 18px 16px 0;
 }
 .fxeb2 {
-  font: 700 var(--fs-2) var(--mono);
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
+  font: 600 var(--fs-3) / 1.3 var(--body);
   color: var(--margin);
 }
+.fxeb2::first-letter {
+  text-transform: uppercase;
+}
 .fxtitle h1 {
-  font: 400 clamp(26px, 7vw, 34px) / 1.12 var(--poster);
+  font: 400 var(--fs-7) / 1.12 var(--poster);
 }
 .fxtitle > .link {
   margin-top: -8px;
 }
 .fxmeta {
-  font: 600 var(--fs-2) / 1.4 var(--mono);
+  font: 500 var(--fs-3) / 1.4 var(--body);
   color: var(--muted);
 }
 .fxtiles {
@@ -6665,23 +6645,17 @@ body {
 }
 .fxtiles span {
   display: grid;
-  min-width: 74px;
-  padding: 8px 12px 6px;
-  border: var(--edge);
-  border-radius: 10px;
-  background: var(--sun);
-  box-shadow: 3px 3px 0 var(--ink);
-  font: 700 var(--fs-2) var(--mono);
-  text-transform: uppercase;
-}
-.fxtiles span:nth-child(2) {
-  background: var(--skyA);
-}
-.fxtiles span:nth-child(3) {
-  background: var(--hill1);
+  min-width: 80px;
+  padding: 10px 14px;
+  border-radius: 16px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  font: 500 var(--fs-3) / 1.3 var(--body);
+  color: var(--muted);
 }
 .fxtiles b {
   font: 400 var(--fs-7) / 1 var(--poster);
+  color: var(--ink);
 }
 .fxstar {
   width: 96px;
@@ -6715,42 +6689,31 @@ body {
   margin: 0 auto;
   padding: 18px 16px 0;
 }
-.fxlist {
+.fxcol {
   display: grid;
   gap: 12px;
   min-width: 0;
   max-width: 760px;
   margin: 0 auto;
 }
-.fxlist > .fxbar {
-  flex: none;
-  height: 10px;
-  border: 1.5px solid var(--ink);
-  border-radius: 5px;
-  background: var(--surface);
-}
-.fxlist > .fxbar + .fxsm {
+.fxcol > .fxbar + .fxsm {
   margin: -6px 0 0;
 }
 .fxstart {
   width: 100%;
-  border: var(--edge);
-  box-shadow: var(--pop);
 }
-/* the kinds of part as a row of notebook divider tabs; it stays at the top while the list scrolls */
+/* the kinds of part as a row of round pills; it stays at the top while the list scrolls */
 .fxjump {
   position: sticky;
   top: 0;
   z-index: 2;
   display: flex;
-  align-items: flex-end;
-  gap: 6px;
+  gap: 8px;
   margin: 0 -16px;
-  padding: 10px 16px 0;
+  padding: 10px 16px;
   overflow-x: auto;
   scrollbar-width: none;
   background: var(--bg);
-  border-bottom: var(--edge);
 }
 .fxpage:has(.fxpart.open) .fxjump {
   position: static;
@@ -6761,16 +6724,26 @@ body {
   align-items: center;
   gap: 6px;
   min-height: 44px;
-  padding: 0 12px;
-  border: var(--edge);
-  border-bottom: 0;
-  border-radius: 10px 10px 0 0;
-  background: color-mix(in srgb, var(--kc) 32%, var(--surface));
-  font: 700 var(--fs-3) var(--body);
+  padding: 0 16px;
+  border: 1.5px solid var(--rule);
+  border-radius: 999px;
+  background: var(--surface);
+  font: 600 var(--fs-3) var(--body);
 }
 .fxjump .ico {
   width: 18px;
   height: 18px;
+}
+/* a kind of part: its colour, a little darker for icons so they read on white */
+.fxgroup,
+.fxpart,
+.fxjump button,
+.fxplan button {
+  --kd: color-mix(in srgb, var(--kc) 75%, #000);
+}
+.fxjump .ico,
+.fxgroup h2 .ico {
+  color: var(--kd);
 }
 .fxgroup {
   scroll-margin-top: 64px;
@@ -6785,11 +6758,10 @@ body {
 .fxgroup h2 .ico {
   width: 24px;
   height: 24px;
-  color: var(--kc);
 }
 .fxgroup h2 span {
   margin-left: auto;
-  font: 600 var(--fs-2) var(--mono);
+  font: 500 var(--fs-3) var(--body);
   color: var(--muted);
 }
 .fxparts {
@@ -6801,22 +6773,18 @@ body {
 }
 .fxpart {
   background: var(--surface);
-  border: var(--edge);
-  border-radius: 12px;
-  box-shadow: 4px 4px 0 var(--kc);
-}
-.fxpart.done {
-  background: color-mix(in srgb, var(--good) 9%, var(--surface));
+  border-radius: var(--r-card);
+  box-shadow: var(--shadow);
 }
 .fxph {
   width: 100%;
-  min-height: 60px;
+  min-height: 64px;
   display: flex;
   align-items: center;
   gap: 12px;
-  padding: 8px 10px 8px 8px;
+  padding: 10px 14px 10px 10px;
   border: 0;
-  border-radius: 10px;
+  border-radius: var(--r-card);
   background: none;
   text-align: left;
 }
@@ -6826,9 +6794,9 @@ body {
   flex: none;
   display: grid;
   place-items: center;
-  border: var(--edge);
-  border-radius: 10px;
-  background: color-mix(in srgb, var(--kc) 38%, var(--surface));
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--kc) 16%, #fff);
+  color: var(--kd);
 }
 .fxpart.done .fxpe {
   background: var(--good);
@@ -6841,7 +6809,7 @@ body {
   gap: 2px;
 }
 .fxpt b {
-  font: 600 var(--fs-4) / 1.25 var(--display);
+  font: 700 var(--fs-4) / 1.25 var(--body);
 }
 .fxph > .ico {
   flex: none;
@@ -6851,11 +6819,13 @@ body {
 /* an open part: its heading stays at the top with how far through it we are; its cards are one column under it */
 .fxpart.open {
   margin: 0 -16px;
-  border-inline: 0;
   border-radius: 0;
   box-shadow: none;
-  background: color-mix(in srgb, var(--kc) 12%, var(--bg));
+  background: none;
   scroll-margin-top: 0;
+}
+.fxpart.open .fxph {
+  border-radius: 0;
 }
 .fxpart.open .fxph > .ico {
   transform: rotate(90deg);
@@ -6871,60 +6841,53 @@ body {
   position: sticky;
   top: 0;
   z-index: 2;
-  background: color-mix(in srgb, var(--kc) 32%, var(--surface));
-  border-bottom: var(--edge);
-}
-.fxpbar .fxmeta {
-  color: var(--ink);
+  overflow: hidden;
+  background: var(--surface);
+  box-shadow: var(--shadow);
 }
 .fxpbar .fxbar {
-  height: 6px;
+  height: 4px;
   border-radius: 0;
-  background: var(--surface);
 }
 .fxpbar .fxbar i {
-  background: var(--ink);
+  background: var(--kd);
 }
 .fxstack {
   display: grid;
-  gap: 18px;
+  overflow: visible;
+  scroll-snap-type: none;
+  gap: 16px;
   min-width: 0;
   max-width: 720px;
   margin: 0 auto;
-  padding: 16px 10px 22px;
+  padding: 16px 12px 22px;
 }
 .fxc {
   min-width: 0;
   overflow: hidden;
   scroll-margin-top: 104px;
-  background: var(--bg);
-  border: var(--edge);
-  border-radius: 14px;
-  box-shadow: 5px 5px 0 var(--kc, var(--ink));
+  background: var(--surface);
+  border-radius: var(--r-card);
+  box-shadow: var(--shadow);
 }
 .fxc.isdone {
-  border-color: var(--good);
-  box-shadow: 5px 5px 0 var(--good);
+  background: color-mix(in srgb, var(--good) 6%, var(--surface));
 }
 .fxch {
   display: flex;
   align-items: center;
   gap: 2px;
   min-height: 40px;
-  padding: 2px 4px 2px 14px;
-  border-bottom: 2px dashed var(--rule);
-  background: var(--surface);
+  padding: 2px 4px 2px 18px;
 }
 .fxch .fxmeta {
   margin-right: auto;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
 }
 .fxch button {
   width: 44px;
   height: 44px;
   border: 0;
-  border-radius: 10px;
+  border-radius: 12px;
   background: none;
   font-size: var(--fs-5);
 }
@@ -6949,13 +6912,11 @@ body {
   padding: 12px 16px;
   text-align: left;
   background: var(--surface);
-  border: var(--edge);
-  border-left: 8px solid var(--kc);
-  border-radius: 12px;
+  border-radius: 16px;
+  box-shadow: var(--shadow);
 }
 .fxgo {
   background: var(--forest);
-  box-shadow: 0 3px 0 var(--forestD);
   font-size: var(--fs-5);
   min-height: 54px;
 }
@@ -6963,15 +6924,12 @@ body {
 .fxwhat {
   display: grid;
   gap: 4px;
-  padding: 10px 14px 12px;
+  padding: 12px 14px;
   background: var(--sunbg);
-  border: var(--edge);
-  border-radius: 10px;
+  border-radius: 14px;
 }
 .fxwhat b {
-  font: 700 var(--fs-2) var(--mono);
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
+  font: 700 var(--fs-3) var(--body);
   color: var(--sunink);
 }
 .fxwhat p {
@@ -6984,15 +6942,14 @@ body {
   height: 34px;
   margin-right: 10px;
   vertical-align: 2px;
-  border: var(--edge);
   border-radius: 50%;
-  background: var(--sun);
-  font: 400 var(--fs-5) / 1 var(--poster);
+  background: color-mix(in srgb, var(--kc, var(--sun)) 22%, var(--surface));
+  font: 700 var(--fs-4) / 1 var(--body);
 }
 .fxscene {
   overflow: hidden;
-  border-radius: 12px;
-  background: var(--surface);
+  border-radius: 14px;
+  background: var(--sunk);
 }
 .fxscene svg {
   display: block;
@@ -7022,24 +6979,23 @@ body {
   gap: 8px;
   padding: 4px 6px;
   border: 0;
-  border-radius: 8px;
+  border-radius: 12px;
   background: none;
   text-align: left;
   font: 500 var(--fs-3) / 1.25 var(--body);
 }
 .fxplan button.now {
   background: var(--sunbg);
-  box-shadow: inset 0 0 0 2px var(--ink);
 }
 .fxplan i {
   width: 28px;
   height: 28px;
   display: grid;
   place-items: center;
-  border: 1.5px solid var(--ink);
   border-radius: 50%;
-  background: color-mix(in srgb, var(--kc) 38%, var(--surface));
-  font: 700 var(--fs-2) var(--mono);
+  background: color-mix(in srgb, var(--kc) 16%, #fff);
+  color: var(--kd);
+  font: 700 var(--fs-2) var(--body);
 }
 .fxplan .done i {
   background: var(--good);
@@ -7051,7 +7007,7 @@ body {
   white-space: nowrap;
 }
 .fxplan em {
-  font: 600 var(--fs-1) var(--mono);
+  font: 500 var(--fs-2) var(--body);
   color: var(--muted);
 }
 /* a song or a refresher: its name and a close button on a slim bar */
@@ -7063,8 +7019,8 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: calc(env(safe-area-inset-top, 0) + 8px) 16px 10px;
-  background: var(--bg);
-  border-bottom: var(--edge);
+  background: var(--surface);
+  box-shadow: var(--shadow);
 }
 .fxsolo b {
   font: 400 var(--fs-6) var(--poster);
@@ -7077,12 +7033,15 @@ body {
     align-items: center;
     padding: 28px 24px 4px;
   }
+  .fxhd .fxround {
+    top: 12px;
+    right: 14px;
+  }
+  .fxcover {
+    padding: 0;
+  }
   .fxcover .fximg.fxhero {
     max-height: none;
-    border: var(--edge);
-    border-radius: 14px;
-    box-shadow: var(--pop);
-    transform: rotate(-1.5deg);
   }
   .fxcover .fximg.broken {
     aspect-ratio: 4/3;
@@ -7096,11 +7055,11 @@ body {
   }
   .fxpart.open {
     margin: 0;
-    border-inline: var(--edge);
-    border-radius: 12px;
   }
   .fxpbar {
-    border-radius: 10px 10px 0 0;
+    max-width: 720px;
+    margin: 0 auto;
+    border-radius: var(--r-card);
   }
   .fxstack {
     padding: 20px 16px 26px;
@@ -7128,7 +7087,7 @@ body {
     gap: 36px;
     align-items: start;
   }
-  .fxlist {
+  .fxcol {
     max-width: none;
     margin: 0;
   }
@@ -7140,9 +7099,8 @@ body {
     overflow-y: auto;
     padding: 16px 12px 12px 16px;
     background: var(--surface);
-    border: var(--edge);
-    border-radius: 14px;
-    box-shadow: var(--pop);
+    border-radius: var(--r-card);
+    box-shadow: var(--shadow);
   }
 }
 
@@ -7535,9 +7493,9 @@ select.inp {
 <dialog class="sheet" id="sheet" aria-labelledby="sheetTitle"><div class="shead"><div class="wrap"><button class="iconbtn" id="sheetClose" aria-label="Close"></button><h3 id="sheetTitle"></h3><span id="sheetExtra"></span></div></div><div class="sbody"><div class="wrap" id="sheetBody"></div></div></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="8d28fb988548a4c979";window.DK_APPV="8d28fb9885";window.DK_DATAV="48a4698e00"</script>
-<script src="/config.js?v=8d28fb988548a4c979"></script>
+<script>window.DK_BUILD="ed0c4d5188b771c979";window.DK_APPV="ed0c4d5188";window.DK_DATAV="b771b6c2e3"</script>
+<script src="/config.js?v=ed0c4d5188b771c979"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=8d28fb988548a4c979"></script>
+<script src="/platform.js?v=ed0c4d5188b771c979"></script>
 </body>
 </html>

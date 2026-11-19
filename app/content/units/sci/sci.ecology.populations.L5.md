@@ -106,7 +106,7 @@ In the Rats and Snakes Game, the rats multiplied first, because one snake caught
 **Definition:** Scientists still test what drives the rise and fall of hares and other animals with cycles. It may be their predators, their food, or both together.
 
 The simple story says the predator alone drives the waves. Real populations are less tidy. In the Yukon in Canada, Charles Krebs and his team fenced large areas of forest for eight years. In some they gave the hares extra food. In some they kept out lynx and coyotes. In some they did both. Extra food alone raised hare numbers, and so did fewer predators alone. Doing both raised them far more than the two effects added together. So the hares' own food and their predators act together. On Isle Royale, an island in a North American lake, scientists have counted wolves and moose every winter since 1958. The two numbers do swing, but not in neat waves. Hard winters, ticks and the wolves' small family tree have all changed the counts.
-- e.g. On Isle Royale the wolves fell to two animals by 2016. Nineteen wolves were brought in during 2018 and 2019, and by 2026 there were more than thirty.
+- e.g. On Isle Royale the wolves fell to two animals by 2016. Nineteen wolves were brought in during 2018 and 2019, and by the 2026 winter count there were 37.
 - e.g. In India, the number of tigers a forest holds follows the number of deer, pigs and gaur there.
 - e.g. Many populations do not cycle at all. Most birds and large mammals stay near one number.
 - **The predator view:** Predators cause the hare cycle. Most hares that die in the falling years are killed by lynx, coyotes, owls and hawks.
@@ -216,7 +216,7 @@ One bacterium becomes two, two become four, and so the one becomes many. But the
 - *big:* Bacteria sense how many of them there are. Is a population a crowd of separate beings, or one being with many bodies? (hint: Think of the bacteria who glow only together, and of a beehive or an ant nest.)
 
 ## Story: The Count on the Hill
-*A made-up story set in a real place. Eravikulam National Park, near Munnar in Kerala, is real, and so are its Nilgiri tahr, who are wild mountain goats found only in the hills of South India. The park does close in February and March, when the kids are born, and the tahr are counted each April. News reports gave counts of 827 and 841 tahr in the park in recent years, and 894 in 2014, with more than a hundred kids born in a year. Ponni, her mother Selvi, her cousin Karthik and what they say and do are imagined.*
+*A made-up story set in a real place. Eravikulam National Park, near Munnar in Kerala, is real, and so are its Nilgiri tahr, who are wild mountain goats found only in the hills of South India. The park does close in February and March, when the kids are born, and the tahr are counted each April. The 2025 count was 841 tahr in the park, 827 the year before, and 894 in 2014, with more than a hundred kids born in a year. Ponni, her mother Selvi, her cousin Karthik and what they say and do are imagined.*
 
 Ponni kept the numbers in the back of her maths notebook, where nobody would look.
 

@@ -397,7 +397,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about how animals get food and stay safe. You sort 20 animal cards into four piles, and turn each card over to check the answer on the back.",
+   "context": "This is a card game about how animals get food and stay safe. You sort 20 animal cards into four piles, and turn each card over to check the answer on the back. You will find out the different ways animals get food and stay safe.",
    "printables": [
     {
      "kind": "cards",
@@ -585,19 +585,19 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the cards and the 4 labels. 2. Lay the labels in a row. 3. Shuffle the animal cards face down.",
-     "say": "Every animal has to eat, and stay safe. Each card shows one animal doing one of these. Which pile does the card go on?",
-     "kid": "Lay out the 4 labels. Mix up the cards. Each card shows an animal eating or staying safe. Which pile?",
+     "say": "Every animal has to find food and stay safe. Each card shows one animal doing one of these. You will put each card on the right pile.",
+     "kid": "Lay out the 4 labels in a row. Mix up the cards and put them face down.",
      "context": "This is the first step of Hunt, Graze or Hide? Here you set out the four piles and the animal cards."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "Read the practice card 'A house gecko waits beside the tube light for moths' together.",
-     "say": "Practice card. A house gecko waits beside the tube light for moths. Which pile?",
-     "kid": "Practice card. A gecko waits by the tube light for moths. Which pile?",
+     "say": "Let's try one practice card before we start. Read it, then choose a pile.",
+     "kid": "Try one card first. Read it. Choose a pile.",
      "check": {
       "t": "mcq",
-      "q": "A house gecko waits beside the tube light for moths. Which pile?",
+      "q": "A house gecko waits beside the tube light for moths. Which pile does this card go on?",
       "options": [
        "Hunts",
        "Grazes or browses",
@@ -618,12 +618,12 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask the question below once the game is over.",
-     "say": "Which pile had the most cards? Was there a card you could have put in two piles?",
-     "kid": "Which pile was biggest? Which card could go in two piles? Why?",
+     "do": "Count the cards in each pile together. Then ask the question below.",
+     "say": "Let's see which pile is biggest. Then I have one question.",
+     "kid": "Count the cards in each pile.",
      "ask": [
       {
-       "q": "Which animal could go in two piles?",
+       "q": "Which animal card could go in two piles, and why?",
        "good": [
         "The frog, who keeps still to stay safe and is also a hunter.",
         "The crow, who scavenges and also hunts insects."
@@ -699,12 +699,12 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Ask the questions below after the last round.",
-     "say": "Did the deer who collected the most grass get caught more often? Why?",
-     "kid": "Did grabbing lots of grass make you easier to catch? Why?",
+     "do": "Add up each deer's grass and count the catches. Then ask the question below.",
+     "say": "Let's add up the grass and count who was caught.",
+     "kid": "Count your grass. Count how many times you were caught.",
      "check": {
       "t": "mcq",
-      "q": "In the game, why were deer who kept moving caught more often?",
+      "q": "In the game, why were deer who moved when the tiger turned caught?",
       "options": [
        "The tiger noticed movement, even when the deer were far away",
        "Moving deer were a different colour",
@@ -775,7 +775,7 @@
      "what": "Cut 40 paper caterpillars. Hunt them for 20 seconds on a newspaper, 3 times, then on a plain sheet, 3 times. Compare the counts."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart with two bars for each background: newspaper strips caught and plain strips caught.",
+   "record": "Fill in the table. Then draw a bar chart with two bars for each background, or just tell your grown-up which kind you caught more of on each background.",
    "flow": [
     {
      "id": "s1",
@@ -790,11 +790,11 @@
      "id": "s2",
      "mins": 2,
      "do": "Ask for a guess and a reason before any hunting. Write the guess at the top of the table.",
-     "say": "On the newspaper, which caterpillars will you catch more of? Why do you think so?",
-     "kid": "Guess first. On the newspaper, which strips will you catch more of? Why?",
+     "say": "Before we hunt, make a guess. Then tell me why you think so.",
+     "kid": "Make a guess before you hunt. Tell your grown-up why you think so.",
      "ask": [
       {
-       "q": "Which caterpillars will you catch more of on the newspaper, and why?",
+       "q": "On the newspaper, will you catch more newspaper strips or more plain strips? Why?",
        "good": [
         "The plain ones, because they stand out.",
         "Fewer newspaper ones, because they look like the background."
@@ -946,7 +946,7 @@
      "id": "s4",
      "mins": 4,
      "do": "1. Do 3 more tries, using the holes in a new order and threading the strip each time. 2. This time, give the thread a small tug about once every two seconds, so the strip jerks a little. 3. Time how long the hunter takes to point.",
-     "say": "Turn round again. Same game, but this time the caterpillar might be wriggling. Look!",
+     "say": "Turn round again. Same game, but this time the caterpillar will wriggle a little. Look!",
      "kid": "Turn round. Look again. Point the moment you spot the strip.",
      "check": {
       "t": "mcq",
@@ -1018,7 +1018,7 @@
     }
    ],
    "record": "Write how many rice grains you picked and how many beans you found.",
-   "context": "This is a quick race to start the unit. You feed like a grazer, then like a hunter, and find out why the two eat so differently.",
+   "context": "In this race you pick rice grains like a cow eating grass, then hunt for hidden beans like a tiger. You will find out why a cow eats for most of the day and a tiger does not.",
    "flow": [
     {
      "id": "s1",
@@ -1032,7 +1032,7 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Send your child out of the room. 2. Hide 5 beans in different places in the room, a little out of sight. 3. Call your child back and start a 30-second timer. 4. Count the beans found.",
-     "say": "Now you are a tiger. Your food is hidden and rare. You have 30 seconds to find it. Go!",
+     "say": "Now you are a tiger. Your food is hidden and hard to find. You have 30 seconds to find it. Go!",
      "kid": "Now you are a tiger. Five beans are hiding in this room. Find as many as you can. Go!",
      "parent": "Hide the beans well enough that finding them takes a little searching, for example under the edge of a mat or behind a cushion. Most children find 2 or 3 in 30 seconds."
     },
@@ -1044,10 +1044,10 @@
      "kid": "Hold the rice in one hand and the beans in the other. Which hand has more food? One bean weighs about the same as 20 rice grains.",
      "ask": [
       {
-       "q": "Why does a cow eat for most of the day, but a tiger does not?",
+       "q": "Why does a tiger not need to hunt all day?",
        "good": [
-        "Grass is everywhere but each bite gives little food, so the cow must keep eating.",
-        "Meat is hard to find, but each catch is a big meal."
+        "One catch is a big meal, so it lasts a long time.",
+        "A tiger finds food only now and then, but each catch is a big meal."
        ]
       }
      ],
@@ -1091,7 +1091,7 @@
      "qty": 2
     },
     {
-     "item": "a pencil or a grey or brown crayon",
+     "item": "a pencil or a grey or brown crayon, or a sheet of grey paper and tape",
      "qty": 1
     },
     {
@@ -1110,15 +1110,15 @@
      "what": "Shade the top half of one tube. Light both tubes from above and compare how round and how easy to see they look."
     }
    ],
-   "record": "Draw both tubes as they looked from the side, with the light above.",
+   "record": "Take a photo of both tubes from the side, with the light above. Or say which tube looked rounder and which looked flatter.",
    "context": "In this activity you find out why many fish, deer and birds are darker on top and paler underneath. This is called countershading.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Leave one tube plain white. 2. Shade the top half of the other tube evenly with pencil or crayon. 3. Leave its bottom half white.",
+     "do": "1. Leave one tube plain white. 2. Shade the top half of the other tube evenly with pencil or crayon, or stick grey paper on it. 3. Leave its bottom half white.",
      "say": "Many fish are dark on top and pale underneath. Let's make a tube like that, and one that is plain.",
-     "kid": "Keep one tube white. Colour the top half of the other tube grey. Leave the bottom white.",
+     "kid": "Keep one tube white. Colour the top half of the other tube grey. Or stick grey paper on it. Leave the bottom white.",
      "context": "This is the first step of Shadow Belly. You make two paper animals: one plain, one darker on top."
     },
     {
@@ -1142,7 +1142,7 @@
      "mins": 3,
      "do": "Turn the shaded tube upside down, so the dark half is underneath. Look again from the side.",
      "say": "Now the dark half is at the bottom, where the shadow already is. Does the tube look flatter or rounder than before?",
-     "kid": "Turn the grey tube upside down. Does it look flatter or rounder than before?",
+     "kid": "Turn the grey tube upside down. Does it look flatter or rounder than before you turned it?",
      "check": {
       "t": "mcq",
       "q": "Why does a dark back and a pale belly help a fish hide?",
@@ -1191,7 +1191,7 @@
      "qty": 1
     },
     {
-     "item": "crayons, colour pencils or sketch pens",
+     "item": "crayons, colour pencils or sketch pens, or scraps of cloth or coloured paper",
      "qty": 1
     },
     {
@@ -1211,7 +1211,7 @@
     }
    ],
    "record": "Write how long the family took to find your animal in the right spot and in the wrong spot.",
-   "context": "In this activity you design your own camouflaged animal for one spot in your home, and test how well they hide.",
+   "context": "In this activity you make your own camouflaged animal for one spot in your home, and test how well they hide. You will find out how much matching the colours and pattern helps an animal stay hidden.",
    "flow": [
     {
      "id": "s1",
@@ -1224,9 +1224,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Your child draws an animal about as big as a matchbox. 2. They colour the animal to match the chosen spot. 3. They cut the animal out.",
-     "say": "Look closely at the colours and lines in that spot. Copy them onto your animal.",
-     "kid": "Draw an animal as big as a matchbox. Colour them to match your spot. Copy the lines and spots too. Cut them out."
+     "do": "1. Your child cuts an animal shape from the paper, about as big as a matchbox. 2. They colour it to match the chosen spot. Or they stick on a scrap of cloth with the same pattern.",
+     "say": "Look closely at the colours and lines in that spot. Copy them onto your animal, or find a scrap that looks the same.",
+     "kid": "Cut out an animal as big as a matchbox. Colour them to match your spot. Copy the lines and spots too, or stick on a matching scrap."
     },
     {
      "id": "s3",
@@ -1297,8 +1297,8 @@
      "what": "Make a cone-shaped pit in dry rava, like an antlion's trap, and watch rice grain 'ants' slide down into it."
     }
    ],
-   "record": "Draw the pit from the side and show where the antlion waits.",
-   "context": "In this activity you build a trap like the pit of an antlion, a young insect who hunts by digging a pit in dry sand.",
+   "record": "Take a photo of your pit, or tell your grown-up how the grain slid down. Then point to where the antlion would wait.",
+   "context": "In this activity you build a trap like the pit of an antlion, a young insect who hunts by digging a pit in dry sand. You will see why an ant cannot climb back out.",
    "flow": [
     {
      "id": "s1",
@@ -1330,7 +1330,7 @@
      "mins": 5,
      "do": "Tell your child what a real antlion does, then ask the question below.",
      "say": "A real antlion waits buried at the bottom, with only her jaws showing. If an ant starts to climb out, she flicks sand at the ant. Is a trap a good way to hunt?",
-     "kid": "A real antlion waits at the bottom. If the ant climbs, she flicks sand. Is a trap a good way to hunt? Why?",
+     "kid": "Listen to what a real antlion does. Is a trap a good way to hunt? Why?",
      "parent": "A good answer is that a trap saves energy. The antlion does not chase anything, because the pit does the work and the ant comes to her. A trap works only when prey happens to walk by. Antlion pits are common in India in dry dust under shelter, for example under the eaves of old buildings or temple walls. If you have a park or a courtyard nearby, look for little cone-shaped pits about as wide as a coin. Rava can be sieved and used for cooking afterwards."
     }
    ],
@@ -1377,7 +1377,7 @@
     }
    ],
    "record": "Write how many times the bird looked up in one minute, and how many birds were in the group.",
-   "context": "In this activity you watch birds feeding, if you can see some, and count how often they stop to look for danger.",
+   "context": "In this activity you watch birds feeding, if you can see some, and count how often they stop to look for danger. You will find out whether a bird in a big group looks up less.",
    "flow": [
     {
      "id": "s1",
@@ -1458,7 +1458,7 @@
     {
      "day": 2,
      "mins": 10,
-     "what": "Look for spider webs in corners, window grilles and the balcony. Draw one web and anything caught in it."
+     "what": "Look for spider webs in corners, window grilles and the balcony. Photograph one web, or look at it closely and see what is caught in it."
     },
     {
      "day": 3,
@@ -1467,7 +1467,7 @@
     }
    ],
    "record": "Each day, write the date, the time, who you saw, and what they were doing to get food.",
-   "context": "In this 3-day project you look for the hunters and foragers who share your home: geckos, spiders, ants and birds.",
+   "context": "In this 3-day project you look for the hunters and foragers who share your home: geckos, spiders, ants and birds. You will find out how each of them gets food.",
    "flow": [
     {
      "id": "s1",
@@ -1481,9 +1481,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. In daylight, check corners, window grilles, the balcony and behind furniture for spider webs. 2. Shine the torch along a web to see the threads. 3. Draw one web and anything caught in it.",
+     "do": "1. In daylight, check corners, window grilles, the balcony and behind furniture for spider webs. 2. Shine the torch along a web to see the threads. 3. Take a photo of one web, or look closely and tell your grown-up what is caught in it.",
      "say": "A spider builds a trap and waits. Let's find a web and see what she caught.",
-     "kid": "Look in corners and window grilles. Find a spider web. Draw it. Is anything caught?",
+     "kid": "Look in corners and window grilles. Find a spider web. Look closely at the threads. Is anything caught?",
      "parent": "Look, but don't touch. Most house spiders are harmless, but it is kind to leave their webs in place.",
      "wait": "Day 2"
     },
@@ -1496,7 +1496,7 @@
      "wait": "Day 3",
      "ask": [
       {
-       "q": "Who hunted, who scavenged, and who waited in your home this week?",
+       "q": "What did each animal you saw do to get food?",
        "good": [
         "The gecko waited by the light, which is an ambush.",
         "The spider used a trap.",
@@ -1513,7 +1513,7 @@
     },
     {
      "art": "A spider web in the corner of a window grille, a torch beam showing the threads.",
-     "caption": "Day 2. Find a web and draw it."
+     "caption": "Day 2. Find a web and look closely."
     },
     {
      "art": "A biscuit crumb on a balcony ledge, a line of ants and a sparrow nearby.",
@@ -1552,7 +1552,7 @@
     "Put the holes low on the bottle and fill it with only a little grain, so a beak has to reach deep inside to get any.",
     "Make a feeder that hangs under a small roof, so big birds cannot land on top."
    ],
-   "your_turn": "Now design your own small-beak feeder. Draw it, build it, and test it with the pencil and the marker. If you can, hang it at a window and watch who comes.",
+   "your_turn": "Now design your own small-beak feeder. Plan it (draw it if you like, or just tell your grown-up), build it, and test it with the pencil and the marker. If you can, hang it at a window and watch who comes.",
    "context": "This is a design challenge about foraging. Birds compete for food, and you design a feeder that lets small birds eat.",
    "flow": [
     {
@@ -1566,9 +1566,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Your child draws a design. 2. Together, mark the holes. 3. A grown-up cuts the holes with scissors. 4. Smooth any sharp edges with tape.",
-     "say": "Draw your idea first. Then we'll make the holes together. I'll do the cutting.",
-     "kid": "Draw your feeder. Mark where the holes go. A grown-up cuts them. Cover sharp edges with tape.",
+     "do": "1. Your child decides where the holes will go and tells you why. 2. Together, mark each hole on the bottle with a pencil. 3. A grown-up cuts the holes with scissors. 4. Smooth any sharp edges with tape.",
+     "say": "First decide where the holes go, and tell me why. Then we'll make the holes together. I'll do the cutting.",
+     "kid": "Decide where your holes go. Mark them on the bottle with a pencil. A grown-up cuts them. Cover sharp edges with tape.",
      "adult": true,
      "parent": "Cutting plastic bottles leaves sharp edges. Make a small cut with the scissor tip, then widen the hole slowly. Cover every edge with tape, for the birds' safety and yours."
     },
@@ -1594,7 +1594,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Ask your child to explain their design in two or three sentences.",
-     "say": "Tell me how your feeder works, and why a crow would struggle with your feeder.",
+     "say": "Tell me how your feeder works, and why a crow cannot use the feeder.",
      "kid": "Say how your feeder works. Why can't a big beak use it?"
     }
    ],

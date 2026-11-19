@@ -407,7 +407,7 @@
     "with a parent",
     "2 to 4 players"
    ],
-   "context": "This is a board game about the monarch butterfly's journey. The trip north is a relay: each butterfly flies part of the way, lays eggs, and hands over to the next generation. Then one autumn generation flies the whole way back.",
+   "context": "This is a board game about the monarch butterfly's journey. The trip north is a relay: each butterfly flies part of the way, lays eggs, and hands over to the next generation. Then one autumn generation flies the whole way back. You will find out why no single butterfly makes the whole trip.",
    "printables": [
     {
      "kind": "board",
@@ -559,9 +559,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play a practice card: 'How many generations does the monarch journey north take?'",
-     "say": "Practice card. How many generations does the trip north take?",
-     "kid": "Practice card. How many generations fly north? Say your answer.",
+     "do": "Read the practice question below to your child. This card does not count.",
+     "say": "Let's try one practice card first.",
+     "kid": "Pick the answer you think is right.",
      "check": {
       "t": "mcq",
       "q": "How many generations of monarchs does it take to fly from Mexico to Canada?",
@@ -578,7 +578,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Play the game until the autumn butterfly reaches square 19. Pause at each 'Lay eggs' square.",
-     "say": "You've reached milkweed. Your butterfly lays eggs here. Who carries the journey on now?",
+     "say": "Milkweed at last. This is where your butterfly lays her eggs.",
      "kid": "Lay eggs! Swap in the next butterfly. Then the next player takes a turn.",
      "ask": [
       {
@@ -594,8 +594,8 @@
      "id": "s4",
      "mins": 4,
      "do": "When the game ends, talk about the autumn generation.",
-     "say": "The autumn butterfly flew all the way back to forests she had never seen. How do you think she knew where to go?",
-     "kid": "Your autumn butterfly never saw Mexico. How did she find the way?",
+     "say": "The autumn butterfly flew all the way back to forests she had never seen.",
+     "kid": "Think about the autumn butterfly. She was born in Canada and has never seen Mexico.",
      "ask": [
       {
        "q": "How could an autumn monarch find a forest she has never seen?",
@@ -632,7 +632,7 @@
     "with a parent",
     "2 to 6 players"
    ],
-   "context": "This is a card game. Each card is an animal, or a family of people, at a moment in the year. You decide whether they stay or go, and give a reason. The back says what they really do.",
+   "context": "This is a card game. Each card is an animal, or a family of people, at a moment in the year. You decide whether they stay or go, and give a reason. The back says what they really do. You will find out which animals travel, which stay, and why.",
    "printables": [
     {
      "kind": "cards",
@@ -765,13 +765,13 @@
      "mins": 10,
      "do": "Play through the cards. After each card, ask what the reason was.",
      "say": "Why did you say GO? What would happen to her if she stayed?",
-     "kid": "Why did you choose that? What if she stayed?",
+     "kid": "Say your reason. Then turn the card over and read the back.",
      "check": {
       "t": "mcq",
-      "q": "Most humpback whales migrate. Why do the humpbacks of the Arabian Sea stay all year?",
+      "q": "Most humpback whales travel far. Why do the ones in the Arabian Sea stay all year?",
       "options": [
        "They are too small to swim far",
-       "Their sea has enough food all year, and it is warm enough for calves",
+       "Their sea has food all year and is warm",
        "Nobody has seen them"
       ],
       "a": 1,
@@ -781,9 +781,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Look at which cards were STAY. What do they have in common?",
-     "say": "Look at all the STAY cards. What do they have that the GO cards don't?",
-     "kid": "Look at the STAY cards. What do they all have?",
+     "do": "Sort the used cards into a STAY pile and a GO pile. Then look at the STAY pile together.",
+     "say": "Let's make two piles, STAY and GO. Now look at the STAY pile.",
+     "kid": "Make the two piles. Look at the STAY pile.",
      "ask": [
       {
        "q": "What do the animals that stay have in common?",
@@ -813,7 +813,7 @@
    "title": "Moved in the Night: do your steps still find the bowl from a new start?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment you learn to walk to a bowl by counting steps. Then a grown-up secretly moves your starting spot, the way a storm can blow a young bird off course. You measure how far from the bowl you end up.",
+   "context": "In this experiment you learn to walk to a bowl by counting steps. Then a grown-up secretly moves your starting spot, the way a storm can blow a young bird off course. You measure how far from the bowl you end up. You will find out whether counting steps is enough to find a place, or whether you need to see it.",
    "question": "If you learn to reach a bowl by counting your steps, can you still find the bowl when someone moves your starting spot without telling you?",
    "predict": "Guess first. When your eyes are covered and you start from a new spot, will your usual steps still take you to the bowl? If not, how far away will you stop? And if you peek at the bowl for three seconds first, what will happen? Why do you think so?",
    "fair_test": "Every walk uses the same number of steps, the same cloth over your eyes, and your normal walking speed. Only one thing changes: where you start, and whether you peek. Try each way 3 times, because one try can be a fluke.",
@@ -853,7 +853,7 @@
      "what": "Learn the steps to the bowl. Walk them 3 times from the usual start, 3 times from a secret new start, and 3 times from a new start after a peek. Measure each time."
     }
    ],
-   "record": "Fill in the table. Then draw the floor from above: the bowl, the two starts, and a dot where you stopped each time.",
+   "record": "Fill in the table. Then tell your grown-up which way you missed the bowl, and by how much.",
    "flow": [
     {
      "id": "s1",
@@ -870,7 +870,7 @@
      "mins": 4,
      "do": "1. Stand your child on the usual start, facing the bowl. 2. Let them walk to the bowl with eyes open, three times. 3. Count the steps together. Write the number down.",
      "say": "Walk to the lake with your eyes open. Count your steps out loud. Do it three times, so the number stays in your head.",
-     "kid": "Walk to the bowl. Count your steps out loud. Do it three times. How many steps is it?",
+     "kid": "Walk to the bowl with your eyes open. Count your steps out loud, three times.",
      "ask": [
       {
        "q": "How many steps does it take you to reach the bowl?",
@@ -886,8 +886,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Before any test, ask for a guess and a reason. Write the guess at the top of the table.",
-     "say": "Soon I will cover your eyes and maybe move you. Do you think your steps will still find the lake? Why?",
-     "kid": "Your eyes will be covered. You might be moved. Will your steps still find the bowl? Why do you think so?",
+     "say": "Soon I will cover your eyes. I might also move your start, without telling you.",
+     "kid": "Make a guess, and say why you think so.",
      "ask": [
       {
        "q": "What do you think will happen if I move you without telling you?",
@@ -902,9 +902,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Cover your child's eyes with the cloth. 2. Turn them slowly round twice and walk them about the room for a few seconds, as in the next step. Then stand them on the usual start, facing the bowl. 3. Say 'Walk your steps.' 4. When they stop, measure how far their toes are from the bowl in your foot-lengths. 5. Do it 3 times and write each number.",
+     "do": "1. Cover your child's eyes with the cloth. 2. Turn them slowly round twice and walk them about the room for a few seconds. Then stand them on the usual start, facing the bowl. 3. Say 'Walk your steps.' 4. When they stop, measure how far their toes are from the bowl in your foot-lengths. 5. Do it 3 times and write each number.",
      "say": "Eyes covered. You are on the usual start. Walk your steps, then stop. I'll measure how close you are.",
-     "kid": "Eyes covered. Walk your steps. Stop. How close are you to the bowl?",
+     "kid": "Keep your eyes covered. Walk the same number of steps, then stop.",
      "adult": true,
      "parent": "Walk beside them with a hand ready. Most children stop within 1 or 2 foot-lengths of the bowl. A step drifting a little to one side is normal."
     },
@@ -948,9 +948,9 @@
     {
      "id": "s7",
      "mins": 3,
-     "do": "Look at the three rows of numbers together. Ask your child to say what they found as a claim, the evidence and the reason.",
-     "say": "Look at our numbers. Say what you found, which numbers show it, and why you think it happened.",
-     "kid": "Look at your numbers. What did you find? Which numbers show it? Why?",
+     "do": "Look at the three rows of numbers together. Ask what they found, which numbers show it, and why.",
+     "say": "Let's put the three rows side by side.",
+     "kid": "Compare the rows. Which row has the biggest numbers?",
      "ask": [
       {
        "q": "Why did your steps miss the bowl from the secret start, but not after the peek?",
@@ -1023,7 +1023,7 @@
    "title": "Wind at Your Back: how much further does a tailwind carry a paper butterfly?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you drop a paper butterfly from the same height, first with no wind, then with a fan blowing from behind. You measure how far from the spot below your hand she lands.",
+   "context": "In this experiment you drop a paper butterfly from the same height, first with no wind, then with a fan blowing from behind. You measure how far from the spot below your hand she lands. You will find out how much a wind from behind helps a small flyer.",
    "question": "How much further does a falling paper butterfly travel when a wind blows from behind?",
    "predict": "Guess first. With no wind, where will the butterfly land? With the fan blowing behind it, how far will it go: a little further, twice as far, or more? Why do you think so?",
    "fair_test": "Use the same butterfly, dropped from the same height, from the same spot, every time. Keep the fan at the same speed and the same distance. Only the wind changes. Drop it 3 times each way, because one drop can be a fluke.",
@@ -1063,7 +1063,7 @@
      "what": "Make a paper butterfly. Drop it 3 times with no wind and 3 times with a fan blowing behind it. Measure each landing."
     }
    ],
-   "record": "Fill in the table. Draw the two kinds of drop side by side, with an arrow for the wind.",
+   "record": "Fill in the table. Take a photo of where she landed with no wind and with the fan, with the tape measure beside her.",
    "flow": [
     {
      "id": "s1",
@@ -1086,7 +1086,7 @@
      "mins": 2,
      "do": "Ask for a guess and a reason, and write it down.",
      "say": "Where will the butterfly land with no wind? And with the fan behind her? Why do you think so?",
-     "kid": "Where will she land with no wind? And with wind behind? Why?"
+     "kid": "Make a guess for each, and say why."
     },
     {
      "id": "s4",
@@ -1119,9 +1119,9 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Look at the numbers together. Work out how many times further the wind carried her. Ask for claim, evidence and reasoning.",
-     "say": "How many times further did she go with the wind? What does that tell us about tiny travellers like dragonflies?",
-     "kid": "How much further did she go with the wind? What does that mean for a dragonfly?",
+     "do": "Look at the numbers together. Work out how many times further the wind carried her. Ask what they found, which numbers show it, and why.",
+     "say": "Compare the two rows. How many times further did she go with the wind?",
+     "kid": "Compare the numbers in the two rows.",
      "ask": [
       {
        "q": "Why do many migrating birds and insects wait for a tailwind before they set off?",
@@ -1181,7 +1181,7 @@
    "title": "Go or Stay? Sort the travellers",
    "mins": 10,
    "days": 1,
-   "context": "A quick sorting activity to start the unit. You guess which animals make a long journey every year, and which stay in one place.",
+   "context": "A quick sorting activity to start the unit. You guess which animals make a long journey every year, and which stay in one place. You will find out which animals travel far, and whether people do too.",
    "materials": [
     {
      "item": "12 small slips of paper with an animal written on each (the list is in step 1)",
@@ -1217,10 +1217,10 @@
      "kid": "Put each slip in GO or STAY. Say why for each one.",
      "ask": [
       {
-       "q": "Why did you put the blue whale in GO?",
+       "q": "Pick one slip. Why did you put it in that bowl?",
        "good": [
-        "Whales swim very far in the sea.",
-        "I have heard whales travel between cold and warm seas."
+        "The barn swallow flies far every year, so they go in GO.",
+        "The myna stays near people all year, so they go in STAY."
        ]
       }
      ]
@@ -1229,8 +1229,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Read out the answers. GO is the bar-headed goose, barn swallow, wildebeest, blue whale, Amur falcon and Dhangar shepherd family. STAY is the Indian cobra, rock pigeon, common myna, house gecko, Indian palm squirrel and red-vented bulbul.",
-     "say": "Let's check. Were there any surprises? A shepherd family is in GO. Humans are animals too, and some of us migrate.",
-     "kid": "Let's check. Were you surprised by any? People can migrate too!",
+     "say": "Let's check. A shepherd family is in GO. Humans are animals too, and some of us migrate.",
+     "kid": "Move each slip you got wrong to the other bowl. Count how many you got right.",
      "check": {
       "t": "mcq",
       "q": "Which of these makes a long journey every year?",
@@ -1261,7 +1261,7 @@
    "title": "Ask an Elder: who in our family moved with the seasons?",
    "mins": 15,
    "days": 1,
-   "context": "Humans are animals, and many people make yearly journeys. In this activity you ask an older person in your family about journeys they made every year.",
+   "context": "Humans are animals, and many people make yearly journeys. In this activity you ask an older person in your family about journeys they made every year. You will find out who in your family travelled to the same place each year, like a bird.",
    "materials": [
     {
      "item": "a notebook and pencil",
@@ -1279,7 +1279,7 @@
      "what": "Ask an elder five questions about yearly journeys. Write down the answers."
     }
    ],
-   "record": "Write the answers, and draw a map with an arrow from one place to the other.",
+   "record": "Write the answers. Then show the journey on a map: draw an arrow between the two places, or find them in an atlas or on a phone map and tell your grown-up.",
    "flow": [
     {
      "id": "s1",
@@ -1302,7 +1302,7 @@
      "mins": 2,
      "do": "Compare the answers with a bird's migration.",
      "say": "Was the reason like a bird's reason: food, work, family, or a safe home for the children?",
-     "kid": "Was their reason like a bird's reason? How was it the same? How was it different?",
+     "kid": "Think about why your elder travelled. Then think about why birds travel.",
      "ask": [
       {
        "q": "How is your elder's yearly journey like a bird's migration?",
@@ -1344,14 +1344,14 @@
      "what": "Draw the landmarks on a route you know. Then test yourself on the next trip."
     }
    ],
-   "record": "Keep the drawing. Tick each landmark you spotted on your next trip.",
+   "record": "Keep your drawing or your slips. Tick each landmark you spotted on your next trip.",
    "flow": [
     {
      "id": "s1",
      "mins": 10,
-     "do": "Help your child pick a route they know well (home to school, to a grandparent's house, or to the market). Ask them to draw it as a line with every landmark they remember.",
-     "say": "Pick a road you travel a lot. Draw it as a line. Put on every landmark you remember: a tree, a temple, a shop, a bridge.",
-     "kid": "Draw a road you know well. Draw everything you remember on it. A tree? A shop? A bridge?",
+     "do": "Help your child pick a route they know well (home to school, to a grandparent's house, or to the market). Ask them to show it with every landmark they remember. They can draw a line, or write each landmark on a slip and lay the slips in order.",
+     "say": "Pick a road you travel a lot. Show it with every landmark you remember: a tree, a temple, a shop, a bridge.",
+     "kid": "Show a road you know well. Draw it, or lay out slips in order. What do you remember on it?",
      "context": "This is the first step of Landmarks on My Way. You draw a route you know from memory."
     },
     {
@@ -1359,7 +1359,7 @@
      "mins": 5,
      "do": "Count the landmarks together. Ask which ones are seen, heard or smelled.",
      "say": "Which landmarks would you know with your eyes shut? A bakery smell? Temple bells? A noisy junction?",
-     "kid": "Which landmarks could you find with your eyes shut? A smell? A sound?",
+     "kid": "Point to the landmarks you could know by a smell or a sound.",
      "ask": [
       {
        "q": "Which landmark would tell you that you are nearly there?",
@@ -1374,7 +1374,7 @@
      "id": "s3",
      "mins": 5,
      "do": "On your next trip on that route, take the drawing. Tick each landmark as you pass it, and add any you forgot.",
-     "say": "On our next trip, let's tick each landmark. Did you forget any?",
+     "say": "On our next trip, we will look for every landmark. Did you remember them all?",
      "kid": "On your next trip, tick each landmark. Add any you forgot.",
      "wait": "Do this on the next trip along the route.",
      "parent": "Scientists who fixed trackers on homing pigeons near Oxford, in England, found that pigeons who knew an area kept to their own favourite routes, following landmarks they had learned."
@@ -1396,7 +1396,7 @@
    "title": "Winter Visitors Watch (from October to March)",
    "mins": 15,
    "days": 1,
-   "context": "From about October to March, birds from the north visit Indian towns and cities. This is a window or balcony watch to look for them. It works best in those months.",
+   "context": "From about October to March, birds from the north visit Indian towns and cities. This is a window or balcony watch to look for them. It works best in those months. You will find out whether a bird from far away visits your window.",
    "materials": [
     {
      "item": "a window or balcony with a view of a tree, a wire or a patch of sky",
@@ -1424,8 +1424,8 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Sit at a window in the early morning or late afternoon. Write down every bird you see in 10 minutes.",
-     "say": "Let's be bird watchers for 10 minutes. Write every bird you see, even crows and pigeons.",
+     "do": "Sit at a window in the early morning or late afternoon. Write down every bird you see in 10 minutes, and how many of each.",
+     "say": "Let's be bird watchers for 10 minutes. Write every bird you see, even crows and pigeons. If you do not know a name, write its colour and size.",
      "kid": "Watch from the window for 10 minutes. Write every bird you see.",
      "context": "This is the first step of the Winter Visitors Watch. You count birds from a window."
     },
@@ -1456,7 +1456,7 @@
    "title": "My Migration Book: one traveller's year",
    "mins": 60,
    "days": 3,
-   "context": "In this 3-day project you make a small book about one migrating animal: where they go, when, why, and the dangers on the way.",
+   "context": "In this 3-day project you make a small book about one migrating animal: where they go, when, why, and the dangers on the way. You will find out how one animal makes the journey, then teach someone what you learned.",
    "materials": [
     {
      "item": "4 sheets of paper folded in half and stapled into a book",
@@ -1475,12 +1475,12 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Choose your traveller. Find where they breed and where they spend the rest of the year. Draw the map page."
+     "what": "Choose your traveller. Find where they breed and where they spend the rest of the year. Make the map page."
     },
     {
      "day": 2,
      "mins": 20,
-     "what": "Write and draw the journey: when they leave, what they eat, where they stop, and the dangers."
+     "what": "Write the journey: when they leave, what they eat, where they stop, and the dangers."
     },
     {
      "day": 3,
@@ -1493,17 +1493,17 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "Help your child choose one traveller from this unit (Arctic tern, curlew sandpiper, demoiselle crane, humpback whale, monarch butterfly, globe skimmer dragonfly or olive ridley turtle). Draw a map page with the two homes and the route.",
-     "say": "Choose one traveller. Where is their summer home? Where do they go for the rest of the year? Let's draw both on a map.",
-     "kid": "Choose your traveller. Draw a map. Mark both homes. Draw the route between them.",
+     "do": "Help your child choose one traveller from this unit (Arctic tern, curlew sandpiper, demoiselle crane, humpback whale, monarch butterfly, globe skimmer dragonfly or olive ridley turtle). Make a map page with the two homes and the route. Your child can draw it, or mark the homes on a printed map and stick that in.",
+     "say": "Choose one traveller. Where is their summer home? Where do they go for the rest of the year? Let's mark both on a map.",
+     "kid": "Choose your traveller. Find both homes on the map. Mark them and join them with a line.",
      "context": "This is the first day of My Migration Book, a 3-day project about one migrating animal."
     },
     {
      "id": "s2",
      "mins": 20,
-     "do": "On day 2, write and draw two pages: the journey, and its dangers.",
-     "say": "Today, write about the journey. When do they leave? What fuels them? What dangers are on the way?",
-     "kid": "Write about the journey. When do they go? What dangers are there? Draw them.",
+     "do": "On day 2, write two pages: the journey, and its dangers. Your child can add one picture, drawn or cut from an old magazine. If writing is hard, they tell you and you write.",
+     "say": "Today, write about the journey. When do they leave? What do they eat on the way? What dangers are on the way?",
+     "kid": "Write about the journey. When do they go? What dangers are there? Add one picture.",
      "wait": "Come back tomorrow."
     },
     {
@@ -1567,7 +1567,7 @@
     "Make a lighter 'tracker' from a small scrap of foil instead of a clip, and see if the plane flies further.",
     "Some scientists don't put trackers on birds at all. They use radar, cameras or the songs birds make at night."
    ],
-   "your_turn": "Now design the best place and the lightest tracker for your plane. Draw it, test it 3 times, and write how far it flew compared with no tracker.",
+   "your_turn": "Now design the best place and the lightest tracker for your plane. Test it 3 times, and write how far it flew compared with no tracker. Take a photo of your best plane, or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -1614,9 +1614,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Talk about your best design. Draw it.",
+     "do": "Talk about the best design. Take a photo of the plane, or draw it.",
      "say": "What was your best design? What would you tell a bird scientist?",
-     "kid": "Draw your best tracker. Where did you put it? Why?"
+     "kid": "Show your best plane. Say where the clips went, and why."
     }
    ],
    "setup": [
@@ -1669,15 +1669,15 @@
      "mins": 5,
      "do": "Show the problem. Lay the cardboard road between two 'forest' and 'sea' sides. Drive the toy car along while moving beans across.",
      "say": "Here is the forest, here is the sea, and here is the road between. What happens to crabs who cross?",
-     "kid": "This is the road. The crabs must cross it. What could happen?",
+     "kid": "Push the car along the road while the beans cross it.",
      "context": "This is the first step of A Safe Crossing, a design challenge for travelling animals."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw three ideas before building.",
-     "say": "Let's draw three ideas first. Over, under, or something else?",
-     "kid": "Draw three ideas. Over the road? Under it? Something new?"
+     "do": "Ask for three ideas before building. Your child can say them, or sketch them.",
+     "say": "Let's think of three ideas first. Over, under, or something else?",
+     "kid": "Tell me three ideas, or sketch them. Over the road? Under it? Something new?"
     },
     {
      "id": "s3",
@@ -1700,13 +1700,13 @@
      "mins": 5,
      "do": "Talk about what worked and what you would change.",
      "say": "What worked? What would you change? Who else might use your crossing?",
-     "kid": "What worked? What would you change?",
+     "kid": "Test it once more, with one change.",
      "check": {
       "t": "mcq",
       "q": "Why does a crab crossing need low walls beside it?",
       "options": [
        "To keep cars off the crossing",
-       "To lead the crabs to the crossing, so they don't walk onto the road",
+       "To lead the crabs to the crossing",
        "To give the crabs shade"
       ],
       "a": 1,

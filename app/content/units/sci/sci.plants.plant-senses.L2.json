@@ -307,7 +307,7 @@
    "title": "The Window Test: will moong shoots turn back to the light?",
    "mins": 30,
    "days": 7,
-   "context": "In this experiment you grow moong shoots in the dark, so they stand straight. Then you put them by a window and count which way they lean. Then you turn the cup round, and find out what the shoots do next.",
+   "context": "In this experiment you find out whether moong shoots can sense where the light is. You grow them in the dark, so they stand straight. Then you put them by a window and count which way they lean. Then you turn the cup round, and find out what the shoots do next.",
    "question": "Which way do moong shoots grow when light comes from one side? If we turn the cup round, will they stay as they are, or turn back?",
    "predict": "Your straight shoots will stand by a window for a day. Which way do you think they will lean? Then we turn the cup round. What will they do then? Why do you think so?",
    "fair_test": "We use one cup of shoots, with the same soil and the same water all through. The only thing we change is which side of the cup faces the window. A bindi marks the side that faced the glass first, so we always know how the cup was turned. We count every shoot, not just one, because one shoot on their own could lean by chance.",
@@ -316,7 +316,7 @@
     "Leaning to the window",
     "Standing straight",
     "Leaning away from the window",
-    "My drawing"
+    "My photo or drawing"
    ],
    "materials": [
     {
@@ -344,7 +344,7 @@
      "qty": 1
     },
     {
-     "item": "paper and a pencil, for drawing",
+     "item": "paper and a pencil, and a phone for photos if you have one",
      "qty": 1
     }
    ],
@@ -362,20 +362,20 @@
     {
      "day": 5,
      "mins": 9,
-     "what": "Lift the vessel. Count the shoots and draw them. Mark the cup with a bindi. Put the cup by a window, bindi towards the glass. Guess what will happen."
+     "what": "Lift the vessel. Count the shoots and take a photo of the cup, or draw it. Mark the cup with a bindi. Put the cup by a window, bindi towards the glass. Guess what will happen."
     },
     {
      "day": 6,
      "mins": 7,
-     "what": "Count and draw. Then turn the cup round so the bindi faces the room. Guess again."
+     "what": "Count the shoots and write the numbers. Then turn the cup round so the bindi faces the room. Guess again."
     },
     {
      "day": 7,
      "mins": 7,
-     "what": "Count and draw once more. Compare all three drawings and say what the shoots did."
+     "what": "Count again and take a third photo, or draw it. Compare all three pictures and say what the shoots did."
     }
    ],
-   "record": "Draw the cup three times: when it came out of the dark, after one day by the window, and the day after you turned it. Draw an arrow for where the light came from. Write how many shoots leaned to the window each time.",
+   "record": "Take a photo of the cup three times, or draw it: when it came out of the dark, after one day by the window, and the day after you turned it. Write how many shoots leaned to the window each time.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -460,9 +460,9 @@
     {
      "id": "s3",
      "mins": 9,
-     "do": "1. Lift the vessel together. 2. Count the shoots and draw them. 3. Stick a bindi on the side of the cup. 4. Put the cup on a windowsill or a table right by a window, bindi towards the glass. 5. Ask for a guess and a reason.",
+     "do": "1. Lift the vessel together. 2. Count the shoots. Take a photo of the cup, or draw it. 3. Stick a bindi on the side of the cup. 4. Put the cup on a windowsill or a table right by a window, bindi towards the glass. 5. Ask for a guess and a reason.",
      "say": "Look, they grew straight up in the dark. Now they will stay by the window until tomorrow. Which way do you think they will lean? Why do you think so?",
-     "kid": "Lift the cover. Count the shoots. Draw them. Put the cup by the window, bindi to the glass. Which way will they lean? Say why.",
+     "kid": "Lift the cover. Count the shoots. Take a photo. Put the cup by the window, bindi to the glass.",
      "ask": [
       {
        "q": "Why do you think they will lean that way?",
@@ -479,9 +479,9 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "1. Look at the shoots together. 2. Count how many lean to the window, stand straight, or lean away. 3. Your child draws them. 4. Turn the cup halfway round, so the bindi faces the room. 5. Ask for a new guess.",
+     "do": "1. Look at the shoots together. 2. Count how many lean to the window, stand straight, or lean away. 3. Write the three numbers down. 4. Turn the cup halfway round, so the bindi faces the room. 5. Ask for a new guess.",
      "say": "Count them with me. How many lean to the window? Now I turn the cup round. They all lean away from the light. What will they do by tomorrow? Why?",
-     "kid": "Count the shoots that lean to the window. Draw them. Turn the cup round. What will they do now? Say why.",
+     "kid": "Count the shoots that lean to the window. Write the number down. Then turn the cup round, so the bindi faces the room.",
      "ask": [
       {
        "q": "What do you think they will do now?",
@@ -508,9 +508,9 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "1. Look and count again. 2. Your child draws them. 3. Put all three drawings in a row. 4. Ask what the shoots did, and how your child knows.",
-     "say": "What did the shoots do after we turned the cup? Look at your three drawings. What do you think made the shoots turn?",
-     "kid": "Count the shoots again. Draw them. Look at your three drawings. What did the shoots do? Why?",
+     "do": "1. Look and count again. 2. Take a photo of the cup, or draw it. 3. Put all three pictures in a row. 4. Ask what the shoots did, and how your child knows.",
+     "say": "Look at your three pictures in a row. What did the shoots do after we turned the cup?",
+     "kid": "Count the shoots again. Then look at your three pictures in a row.",
      "ask": [
       {
        "q": "Did the shoots stay bent the way we turned them?",
@@ -547,7 +547,7 @@
    "title": "The Root Box: which way will four roots grow?",
    "mins": 16,
    "days": 4,
-   "context": "In this experiment you lay four moong sprouts in a clear box, with their roots pointing up, down, left and right. You find out which way each root grows next.",
+   "context": "In this experiment you lay four moong sprouts in a clear box, with their roots pointing up, down, left and right. You will find out whether a root knows which way is down.",
    "question": "If moong sprouts lie with their roots pointing four different ways, which way will each root grow?",
    "predict": "One root points up, one down, one left and one right. Which way will each root grow by tomorrow? Why do you think so?",
    "fair_test": "All four sprouts are in the same box, on the same wet paper, in the same place. Only the way each sprout lies is different. We use sprouts with roots about as long as your fingernail, so that a bend is easy to see.",
@@ -598,10 +598,10 @@
     {
      "day": 4,
      "mins": 5,
-     "what": "Look at each root tip. Draw them. Count how many point down."
+     "what": "Look at each root tip. Count how many point down. Take a photo of the box."
     }
    ],
-   "record": "Draw the box with the four sprouts as they were at the start. On the next day, draw them again, with the new part of each root.",
+   "record": "Take a photo of the box at the start and again the next day, or draw it. Write how many root tips point down.",
    "setup": [
     {
      "art": "Wet folded kitchen paper pressed against one side of a clear plastic box.",
@@ -634,7 +634,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Fold a wet paper and press it against one side of the box. 2. Your child slides 4 sprouts between the paper and the plastic. 3. Point one root up, one down, one left and one right. 4. Draw an arrow on the plastic beside each root, showing the way it points.",
-     "say": "Let's give each sprout a different way to point. One root up, one down, one left, one right. Draw an arrow for each one.",
+     "say": "Let's give each sprout a different way to point. One root up, one down, one left, one right.",
      "kid": "Slide four sprouts in. Point the roots up, down, left and right. Draw an arrow beside each one.",
      "parent": "Keep the paper wet, but don't leave a puddle. The wet paper holds the sprouts against the plastic. If one slips, push the sprout back gently."
     },
@@ -643,7 +643,7 @@
      "mins": 2,
      "do": "1. Close the lid. 2. Stand the box on one edge, so you can see the sprouts from the side. 3. Ask for a guess and a reason.",
      "say": "Which way will each root grow by tomorrow? Why do you think so?",
-     "kid": "Close the box. Stand it up. Which way will each root grow? Say why.",
+     "kid": "Close the box. Stand it up. Think about which way each root will grow.",
      "ask": [
       {
        "q": "Why do you think the root pointing up will grow that way?",
@@ -659,9 +659,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Look at each root tip together. 2. Compare it with the arrow you drew. 3. Count how many tips now point down. 4. Your child draws them.",
+     "do": "1. Look at each root tip together. 2. Compare it with the arrow you drew. 3. Count how many tips now point down. 4. Take a photo of the box.",
      "say": "Look at the tip of each root. Which way is it pointing now? How many point down?",
-     "kid": "Look at each root tip. Which way does it point now? Count how many point down.",
+     "kid": "Look at each root tip. Count how many point down.",
      "ask": [
       {
        "q": "What did the root that pointed up do?",
@@ -693,7 +693,7 @@
    "title": "Leaf Watch: which way do the leaves face?",
    "mins": 8,
    "days": 1,
-   "context": "This is a short looking activity to start the unit. You look at a plant that lives by a window or on a balcony, and count which way the leaves face.",
+   "context": "You will find out whether a plant turns their leaves towards the light. You look at a plant by a window or on a balcony, and count which way the leaves face.",
    "materials": [
     {
      "item": "a potted plant that has stood by a window or on a balcony for at least a week, such as a money plant, tulsi or a curry leaf plant. If you have none, look at a plant in your building's stairway or a neighbour's balcony.",
@@ -711,7 +711,7 @@
      "what": "Look at the plant from the room side and the window side. Count the leaves facing each way."
     }
    ],
-   "record": "Draw the plant and the window. Draw a few leaves showing which way they face. Write two numbers: leaves facing the light, and leaves facing the room.",
+   "record": "Write two numbers: leaves facing the light, and leaves facing the room. Take a photo of the plant, or draw the plant.",
    "setup": [
     {
      "art": "A money plant in a pot on a windowsill, seen from inside the room, with most leaves turned out towards the glass.",
@@ -727,8 +727,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Stand with your child on the room side of the plant. 2. Look at the leaves together. 3. Ask what they notice.",
-     "say": "Look at this plant. Which way are the flat faces of the leaves turned? What do you notice? What do you wonder?",
-     "kid": "Look at the plant. Which way do the flat faces of the leaves point?",
+     "say": "Look at this plant. The flat side of a leaf is its face. Which way are the faces turned?",
+     "kid": "Look closely at the leaves. Point to the flat face of one leaf.",
      "ask": [
       {
        "q": "What do you notice about the leaves?",
@@ -753,7 +753,7 @@
      "mins": 1,
      "do": "Ask for a guess and a reason, and write it down.",
      "say": "Why do you think the leaves face that way? We will test it.",
-     "kid": "Why do the leaves face that way? Make a guess.",
+     "kid": "Make a guess, and tell your grown-up why.",
      "think": "Did the leaves grow that way, or did they turn?"
     }
    ]
@@ -763,7 +763,7 @@
    "title": "Touch-Me-Not Tests: what makes them fold? (if you can get a touch-me-not)",
    "mins": 20,
    "days": 1,
-   "context": "This activity needs a touch-me-not plant, from a nursery or growing wild on an empty plot. You touch different leaves in different ways, count the pairs of leaflets that fold, and look again at night.",
+   "context": "This activity needs a touch-me-not plant, from a nursery or growing wild on an empty plot. You touch different leaves in different ways, count the pairs of leaflets that fold, and look again at night. You will find out which touch makes them fold the most.",
    "materials": [
     {
      "item": "a touch-me-not plant in a pot, or one growing wild nearby",
@@ -800,7 +800,7 @@
      "what": "After dark, look at the plant again without touching them."
     }
    ],
-   "record": "Make a table with four rows: blow, feather, drop of water, fingertip. Write how many pairs of leaflets folded each time. Draw the plant in the day and at night.",
+   "record": "Make a table with four rows: blow, feather, drop of water, fingertip. Write how many pairs of leaflets folded each time. Write whether the leaves were open or folded at night.",
    "setup": [
     {
      "art": "A child blowing gently at one open touch-me-not leaf from a hand's length away.",
@@ -825,7 +825,7 @@
      "mins": 2,
      "do": "1. Choose four leaves that are fully open. 2. Ask your child to guess which touch will fold the most leaflets.",
      "say": "We will try four touches: a gentle blow, a feather, a drop of water and a fingertip. Which one will fold the most leaflets? Why do you think so?",
-     "kid": "You will try four touches. Which one will fold the most? Say why.",
+     "kid": "Choose the touch you think will fold the most leaflets.",
      "parent": "Use a different leaf for each touch, because a leaf that has just folded needs time to open again."
     },
     {
@@ -869,9 +869,9 @@
      "id": "s4",
      "mins": 5,
      "adult": true,
-     "do": "1. After dark, take a torch to the plant with your child. 2. Look without touching. 3. Your child draws what they see.",
+     "do": "1. After dark, take a torch to the plant with your child. 2. Look without touching. 3. Your child tells you if the leaves are open or folded, and you write it down.",
      "say": "Nobody has touched the plant since this afternoon. Are the leaves open or folded?",
-     "kid": "Look at the plant at night. Don't touch. Are the leaves open or folded?",
+     "kid": "Look at the plant by torchlight. Don't touch it.",
      "parent": "A touch-me-not folds their leaves every night and opens them in the morning. If the plant grows outside on a plot, go only with a grown-up, or skip this step and look early in the morning instead."
     }
    ]
@@ -881,7 +881,7 @@
    "title": "Be a Young Sunflower: follow the torch",
    "mins": 10,
    "days": 1,
-   "context": "This is an act-out with a torch. You play a young sunflower plant who turns to face the Sun all day. Then you play a grown sunflower with an open flower, who does something different.",
+   "context": "You will find out which sunflowers follow the Sun. You act it out with a torch. You play a young sunflower plant who turns to face the Sun all day. Then you play a grown sunflower with an open flower, who does something different.",
    "materials": [
     {
      "item": "a torch or a phone light",
@@ -903,7 +903,7 @@
      "what": "Play a young sunflower following the torch from east to west and back at night. Then play a grown sunflower."
     }
    ],
-   "record": "Draw a young sunflower plant in the morning and in the evening. Draw a grown sunflower with the flower facing east.",
+   "record": "Say out loud, and a grown-up writes down: which way the young sunflower faced in the morning and in the evening, and which way the grown sunflower faced.",
    "setup": [
     {
      "art": "A child standing in the middle of a dim room with arms up like leaves, face turned to a torch held by a grown-up near a wall marked E.",
@@ -930,7 +930,7 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Your child stands in the middle, as a young sunflower plant. 2. Shine the torch from the E wall. 3. Walk slowly over to the W wall, holding the torch high. 4. Switch it off.",
-     "say": "You are a young sunflower plant. The Sun is coming up in the east. Turn your face slowly to follow it. Now it is night. What will you do?",
+     "say": "You are a young sunflower plant. The Sun is coming up in the east. Turn your face slowly to follow it. Now the Sun has set and it is night.",
      "kid": "You are a young sunflower. Turn your face to follow the torch. Turn slowly, like a plant.",
      "parent": "Young sunflower plants really do face east in the morning and west in the evening. At night they turn back to face east, ready for sunrise. This was shown by Stacey Harmer and her team in America in 2016.",
      "ask": [
@@ -982,7 +982,7 @@
      "what": "Lie in different ways with your eyes shut and point to the floor each time."
     }
    ],
-   "record": "Draw yourself lying three ways, with an arrow pointing to the floor each time.",
+   "record": "A grown-up writes down, in your child's own words, how they knew where the floor was.",
    "setup": [
     {
      "art": "A child lying on her side on a mat with her eyes shut, pointing at the floor.",
@@ -998,8 +998,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Your child lies on their side on the mat, eyes shut. 2. They point to the floor. 3. They roll onto their back and point again, then onto the other side.",
-     "say": "Shut your eyes. Point to the floor. Now roll over. Point to the floor again. How did you know?",
-     "kid": "Lie down. Shut your eyes. Point to the floor. Roll over and point again.",
+     "say": "Shut your eyes. Point to the floor. Now roll over. Point to the floor again.",
+     "kid": "Keep your eyes shut. Point to the floor each time you roll over.",
      "ask": [
       {
        "q": "How did you know where the floor was?",
@@ -1015,7 +1015,7 @@
      "mins": 2,
      "do": "Tell your child about the tiny crystals in our ears, and say how they are like the heavy grains in a root tip.",
      "say": "Deep inside each ear are tiny crystals. When you tilt your head, they press on tiny hairs, and your brain knows which way is down. A root tip has tiny heavy grains that sink to the bottom of each cell. Both of you sense gravity.",
-     "kid": "Your ears have tiny crystals. They help you know which way is down. A root tip has tiny heavy grains that do the same.",
+     "kid": "Listen. Then say how your ears know which way is down.",
      "parent": "The crystals sit in a small part of the inner ear. The grains in a root tip are made of starch. Both sense the pull of gravity."
     }
    ]
@@ -1027,7 +1027,7 @@
    "title": "Sense and Respond: a pairs game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a memory game about what plants sense and what they do about it. You turn over two cards at a time and look for a pair: something a plant senses, and the way the plant responds.",
+   "context": "This is a memory game about what plants sense and what they do about it. You turn over two cards at a time and look for a pair: something a plant senses, and the way the plant responds. The game helps you remember what each plant senses and how the plant responds.",
    "printables": [
     {
      "kind": "cards",
@@ -1053,7 +1053,7 @@
     }
    ],
    "rules": [
-    "If a child cannot read yet, draw a small sketch on each card before you play.",
+    "If a child cannot read yet, a grown-up reads each card aloud when it is turned over.",
     "Mix the cards and lay them face down in 4 rows of 4.",
     "On your turn, turn over two cards and read them aloud.",
     "A pair is one card that says what a plant senses, and the card that says how that plant responds. Each sense card has only one response card that goes with it.",
@@ -1075,7 +1075,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Cut out the cards together. 2. If your child cannot read yet, they draw a small sketch on each card. 3. Lay the cards face down in 4 rows of 4.",
+     "do": "1. Cut out the cards together. 2. If your child cannot read yet, you read each card aloud when it is turned over. 3. Lay the cards face down in 4 rows of 4.",
      "say": "Let's lay the cards face down. Every sense card has one response card that goes with it.",
      "kid": "Cut out the cards. Lay them face down."
     },
@@ -1083,8 +1083,8 @@
      "id": "s2",
      "mins": 9,
      "do": "1. Take turns as the rules say. 2. When someone finds a pair, ask them why the two cards go together.",
-     "say": "You found light from the window and a bending shoot. Why do they go together?",
-     "kid": "Turn over two cards. Is it a pair? Say why they go together.",
+     "say": "When someone finds a pair, ask: why do these two cards go together? For example, light from the window and a bending shoot.",
+     "kid": "Turn over two cards. Look for a sense card and its response card.",
      "check": {
       "t": "mcq",
       "q": "A sprout is lying with the root pointing up. Which card goes with it?",
@@ -1112,7 +1112,7 @@
    "title": "Plant Says: a moving game",
    "mins": 10,
    "players": "2 or more people: one is the caller, the others are plants",
-   "context": "This is a moving game, a little like Simon Says. Each player is a plant. The caller reads a card, and the players respond the way a real plant would.",
+   "context": "This is a moving game, a little like Simon Says. Each player is a plant. The caller reads a card, and the players respond the way a real plant would. You will feel how slow most plant moves are, and how fast a touch-me-not folds.",
    "printables": [
     {
      "kind": "cards",
@@ -1175,7 +1175,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Read the rules aloud. Show the shoot, the roots and the touch-me-not arms.",
+     "do": "Read the rules aloud. Choose one wall to be the east wall. Show the shoot, the roots and the touch-me-not arms.",
      "say": "You are all plants. Your hands are your shoot and your feet are your roots. Most plants move slowly, by growing.",
      "kid": "You are a plant. Hands up for your shoot. Feet are your roots."
     },
@@ -1202,7 +1202,7 @@
      "mins": 1,
      "do": "Ask which move was the only fast one, and why.",
      "say": "Which move was the only fast one? Why can a touch-me-not move so fast?",
-     "kid": "Which move was fast? Why?"
+     "kid": "Think about which move was the only fast one."
     }
    ]
   }
@@ -1213,7 +1213,7 @@
    "title": "Turn the Pot: a week with a windowsill plant",
    "mins": 20,
    "days": 8,
-   "context": "In this one-week project you turn a potted plant round, so the leaves face the room instead of the window. Then you draw the plant every few days and count the leaves facing the light.",
+   "context": "In this one-week project you find out whether a plant turns their leaves back to the light. You turn a potted plant round, so the leaves face the room. Then you take a photo every few days and count the leaves facing the light.",
    "materials": [
     {
      "item": "a potted plant that lives by a window or on a balcony, such as a money plant, tulsi or a mint pot",
@@ -1224,7 +1224,7 @@
      "qty": 1
     },
     {
-     "item": "paper and a pencil",
+     "item": "a phone for photos, or paper and a pencil",
      "qty": 1
     }
    ],
@@ -1232,25 +1232,25 @@
     {
      "day": 1,
      "mins": 6,
-     "what": "Count the leaves facing the light. Draw the plant. Stick a bindi on the window side of the pot. Turn the pot halfway round."
+     "what": "Count the leaves facing the light. Take a photo of the plant, or draw the plant. Stick a bindi on the window side of the pot. Turn the pot halfway round."
     },
     {
      "day": 3,
      "mins": 4,
-     "what": "Count the leaves facing the light again. Draw the plant."
+     "what": "Count the leaves facing the light again. Take a photo."
     },
     {
      "day": 5,
      "mins": 4,
-     "what": "Count and draw again."
+     "what": "Count and take a photo again."
     },
     {
      "day": 8,
      "mins": 6,
-     "what": "Count and draw once more. Put the four drawings in a row and talk about what changed."
+     "what": "Count and take a photo once more. Put the four photos in a row and talk about what changed."
     }
    ],
-   "record": "Make a table with the day and the number of leaves facing the light. Keep your four drawings in order.",
+   "record": "Make a table with the day and the number of leaves facing the light. Keep your four photos (or drawings) in order.",
    "setup": [
     {
      "art": "A tulsi pot on a windowsill with a bindi on the side facing the glass, being turned halfway round by a child.",
@@ -1258,33 +1258,33 @@
     },
     {
      "art": "The same tulsi a week later, with the leaves turned back to face the window.",
-     "caption": "2. Draw and count every few days."
+     "caption": "2. Count and take a photo every few days."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Your child counts the leaves facing the light and draws the plant. 2. Stick a bindi on the window side of the pot. 3. Turn the pot halfway round. 4. Ask for a guess.",
+     "do": "1. Your child counts the leaves facing the light and takes a photo of the plant, or draws the plant. 2. Stick a bindi on the window side of the pot. 3. Turn the pot halfway round. 4. Ask for a guess.",
      "say": "Now most leaves face the room. What will they do in a week? Why do you think so?",
-     "kid": "Count the leaves facing the light. Draw the plant. Turn the pot round. What will the leaves do? Say why.",
+     "kid": "Count the leaves facing the light. Take a photo. Turn the pot halfway round.",
      "wait": "Leave the pot turned round. Look again in 2 days"
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "On day 3 and day 5, your child counts the leaves facing the light and draws the plant.",
+     "do": "On day 3 and day 5, your child counts the leaves facing the light and takes a photo.",
      "say": "Count the leaves facing the light. Is the number bigger or smaller than last time?",
-     "kid": "Count the leaves facing the light. Draw the plant. Is the number going up?",
+     "kid": "Count the leaves facing the light. Take a photo of the plant.",
      "parent": "Leaves usually twist slowly on their stalks to face the light again, and new tips bend towards it. A money plant can take a week or more. If you see no change by day 8, keep going to day 14.",
      "wait": "Look again on day 8"
     },
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Count and draw one last time. 2. Put the drawings in a row. 3. Ask what changed, and what made it change.",
-     "say": "Look at your drawings in order. What did the plant do? Nobody turned the leaves by hand. What do you think made them turn?",
-     "kid": "Put your drawings in a row. What did the leaves do? What made them turn?",
+     "do": "1. Count and take one last photo. 2. Put the photos in a row. 3. Ask what changed, and what made it change.",
+     "say": "Look at your photos in order. What did the plant do? Nobody turned the leaves by hand. What do you think made them turn?",
+     "kid": "Put your photos in a row, from the first day to the last.",
      "check": {
       "t": "mcq",
       "q": "You turned a money plant pot round. A week or more later, most leaves faced the window again. Why?",
@@ -1305,7 +1305,7 @@
    "id": "c1",
    "title": "Straight Shoots by a Window",
    "mins": 20,
-   "context": "In the window test, moong shoots leaned towards the glass. This challenge asks you to help shoots grow straight up while they stay by the window.",
+   "context": "In the window test, moong shoots leaned towards the glass. This challenge asks you to make shoots grow straight up while they stay by the window. You will find out which idea works best.",
    "problem": "Moong shoots by a window lean towards the glass. The shady side of the stem grows longer, so the shoot bends. Your cup of shoots must stay by the window, and you must not turn it. Find a way to make the shoots grow straight up instead of leaning.",
    "constraints": [
     "The cup stays in the same place by the window.",
@@ -1346,7 +1346,7 @@
      "mins": 5,
      "do": "1. Read the problem together. 2. Ask your child why the shoots lean. 3. Ask for ideas before showing anything.",
      "say": "The shoots lean because light comes from one side. How could we make them grow straight, without moving or turning the cup?",
-     "kid": "The shoots lean to the light. How can you make them grow straight? Think of an idea.",
+     "kid": "Think of a way to make the shoots grow straight.",
      "ask": [
       {
        "q": "What is your idea?",
@@ -1373,7 +1373,7 @@
      "mins": 5,
      "do": "1. Count the straight shoots in each cup. 2. Talk about which idea worked best, and why.",
      "say": "How many shoots stand straight with your idea? How many in the cup with no help?",
-     "kid": "Count the straight shoots in each cup. Which idea worked best?",
+     "kid": "Count the straight shoots in each cup.",
      "check": {
       "t": "mcq",
       "q": "Why does a box with a hole in the top help the shoots grow straight?",

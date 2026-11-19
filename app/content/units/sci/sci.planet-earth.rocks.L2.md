@@ -184,7 +184,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns turning over two cards. 2. When a pair matches, ask for the reason. 3. Keep score on the sheet.  
   *Parent says:* Is that a rock and its job? Why does this rock suit this job?  
-  *Child mode:* Turn over two cards. Is it a rock and its job? Say why.
+  *Child mode:* Turn over two cards. If they go together, say why.
   - Ask: Why is chalk good for writing on a board? (good: It is soft, so it rubs off and leaves a line.; Bits of it stay on the board.)
   - Note: The pairs: granite and temple steps (hard, does not wear away); marble and the shiny floor (polishes to a shine); chalk and writing on a board (soft, leaves a line); slate and the roof (thin flat sheets, keeps water out); coal and fuel (burns); sandstone and the red fort (easy to carve); laterite and house walls near the sea (cut into blocks); rock salt and salt for cooking. A good reason names what the rock is like: hard, soft, shiny, flat sheets, burns. 'Because it is chalk' is not yet a reason.
 - **s3 (2 min)**  
@@ -202,8 +202,8 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
   *Child mode:* Take a card. That is who you are today.
 - **s2 (7 min)**  
   *Parent does:* 1. Each player speaks in turn. 2. Lay out the plan cards. 3. Let everyone argue for a plan.  
-  *Parent says:* Tell us who you are, and what you want for the hill. Which plan is fairest to everyone?  
-  *Child mode:* Say who you are. Say what you want for the hill.
+  *Parent says:* One at a time, tell us who you are. Then we talk about which plan is fairest to everyone.  
+  *Child mode:* Speak as your character. Say what you want for the hill.
   - Ask: Who would lose the most if the whole hill was dug? (good: The peahen and the goats, because the hill is their home and food.; The village, if the wells dry up.)
   - Note: There is no single right plan. Praise a player who thinks of someone else, not only of their own role.
 - **s3 (5 min)**  
@@ -218,34 +218,34 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 - **question:** If we shake sharp pieces of chalk, salt and stone the same way, which ones lose their corners and turn round?
 - **predict:** Guess first. Which pieces will lose their corners after 100 shakes: the chalk, the salt or the stone? Which will not change at all? Why do you think so?
 - **fair test:** Each kind is shaken in the same tiffin, 5 pieces at a time, for 100 hard shakes. The tiffin is tipped out and wiped between kinds. Only the kind of rock changes.
-- **record:** Draw one piece of each kind before and after shaking. Fill in the table. Circle the kind that changed the most.
+- **record:** Fill in the table. Line the three kinds up from most changed to least changed, and tell a grown-up which changed most.
 - **results table:** Kind of piece | Corners before: sharp or round? | Corners after 100 shakes | Dust in the tiffin: a lot, a little or none
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Show your child the three heaps and the round pebble. 2. Let them feel the sharp corners. 3. Ask for a guess and a reason, and write it down.  
   *Parent says:* These pieces all have sharp corners. Which ones will turn round after 100 shakes? Which will stay sharp? Why do you think so?  
-  *Child mode:* Feel the sharp corners. Which pieces will turn round? Why?
+  *Child mode:* Feel the sharp corners of each heap. Then make a guess, and say why.
   - Ask: Which pieces do you think will lose their corners? (good: The chalk, because it is soft.; The stone, because it is heavy and bangs hard.; None of them, because they are all hard.)
   - Note: Write down any guess and say nothing yet. Some children think the heaviest pieces will change most. The test will answer it. Stone chips can have sharp edges, so keep a grown-up close, and wash hands afterwards.
 - **s2 (3 min)**  
-  *Parent does:* 1. Your child picks one piece from each heap. 2. They draw each one, showing its corners. 3. Put the pieces back.  
-  *Parent says:* Draw one piece from each heap. Show its corners clearly. We will draw them again after shaking.  
-  *Child mode:* Draw one piece from each heap. Draw the corners.
+  *Parent does:* 1. Your child picks one piece from each heap. 2. They feel its corners and say sharp or round. 3. Write each answer in the Corners before column of the table. 4. Put the pieces back.  
+  *Parent says:* Feel the corners of one piece from each heap. We will feel them again after the shaking, to see what changed.  
+  *Child mode:* Pick one piece from each heap. Are its corners sharp or round?
 - **s3 (7 min)**  
   *Parent does:* 1. Put the 5 chalk pieces in the tiffin and close the lid tightly. 2. Your child shakes it hard, counting to 100. 3. Tip the pieces onto the dark paper. 4. Wipe the tiffin and do the same with the salt, then the stone chips.  
   *Parent says:* Close the lid tight. Shake it hard, up and down, and count to 100. Now tip them out. Let us do the next heap the same way.  
   *Child mode:* Shake the tiffin hard. Count to 100. Tip the pieces out. Do each heap the same.
   - Note: It is noisy, and that is fine. Counting in tens helps. If small arms get tired, take turns, but shake every heap the same number of times so the test is fair.
 - **s4 (4 min)**  
-  *Parent does:* 1. Look at each heap on the dark paper. 2. Feel the corners. 3. Look at the dust left in the tiffin each time. 4. Your child draws the pieces again and fills in the table.  
-  *Parent says:* Feel the corners now. Which pieces changed? How much dust did each one leave?  
-  *Child mode:* Feel the corners now. Which changed? Draw them again.
+  *Parent does:* 1. Look at each heap on the dark paper. 2. Feel the corners. 3. Look at the dust left in the tiffin each time. 4. Your child fills in the table, then lines the three heaps up, most changed first.  
+  *Parent says:* Feel the corners now. How much dust did each one leave? Line the heaps up, with the most changed first.  
+  *Child mode:* Feel the corners of each heap. Line the heaps up, most changed first.
   - Ask: What happened to the chalk? (good: The corners went rounder and there was white dust.; It looks smaller and smoother than before.)
   - Note: Chalk usually loses its corners and makes white dust. Salt crystals may round a little or just crumble into grains, and either is fine. Stone chips stay sharp. Write down what you really see, even if it is not what you guessed.
   - Check: Which pieces changed the least after 100 shakes? → **The stone chips**
 - **s5 (3 min)**  
-  *Parent does:* 1. Put a round pebble next to a sharp stone chip. 2. Ask the question and wait for an answer. 3. Ask what your child thinks, what they saw, and why.  
-  *Parent says:* This pebble is hard stone too, and it is round. The chips did not change in 100 shakes. So how long must a river have rolled this pebble?  
-  *Child mode:* Look at the pebble and the chip. How did the pebble get round?
+  *Parent does:* 1. Put a round pebble next to a sharp stone chip. 2. Ask the question and wait for an answer. 3. Ask what they saw in the test that helps.  
+  *Parent says:* This pebble is hard stone too, and it is round. Our stone chips stayed sharp after 100 shakes.  
+  *Child mode:* Look at the pebble and the sharp chip. Think about what you saw in the shaking.
   - Ask: How did the pebble get round? (good: A river rolled it and knocked it for a very long time.; It was knocked many, many more times than our 100 shakes.)
   - Note: A good answer has three parts. What I think: hard pebbles were knocked for a very long time. What I saw: chalk went round in 100 shakes, but stone did not. Why: hard rock loses grains very slowly. Some shop pebbles are rounded in a machine drum, which does the same knocking.
   - Think: The chalk knocks against the steel tiffin too. Which is harder, the chalk or the steel? So which one wears away more?
@@ -254,12 +254,12 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 - **question:** Which of our rocks can a fingernail scratch, which can a coin scratch, and which can nothing scratch?
 - **predict:** Guess first. Which rock is the hardest, and which is the softest? Will the shiniest rock be the hardest? Why do you think so?
 - **fair test:** Every rock is tested with the same three tools, pressed with the same firm push and dragged once. Only the rock changes.
-- **record:** Fill in the table. Then line the rocks up from softest to hardest and draw them in that order.
+- **record:** Fill in the table. Then line the rocks up from softest to hardest, and tell a grown-up why you chose that order.
 - **results table:** Rock | Fingernail scratches it? yes or no | Coin scratches it? yes or no | Key scratches it? yes or no
 - **s1 (3 min)**  
   *Parent does:* 1. Show the four rocks. 2. Ask which is hardest and which is softest, and why. 3. Write the guesses down.  
   *Parent says:* Which rock is the hardest? Which is the softest? Why do you think so?  
-  *Child mode:* Which rock is hardest? Which is softest? Why?
+  *Child mode:* Look at and hold the four rocks. Make a guess, and say why.
   - Ask: Which rock do you think is hardest? (good: The marble, because it is shiny.; The pebble, because it is round and smooth.)
   - Note: Many children pick the shiniest rock. Write the guess and wait for the test.
 - **s2 (10 min)**  
@@ -267,7 +267,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
   *Parent says:* Press hard and drag the tool across the rock once. Now wipe the rock. Is there a groove, or powder? Rub your finger over it.  
   *Child mode:* Scratch with your nail. Then the coin. Then the key. Wipe and look each time.
   - Note: Do not test on the kitchen counter, the floor or the grinding stone. On a hard pebble, the key may leave a grey line. That is metal from the key, and it wipes off. The rock is not scratched. Pebbles are not all the same: if your pebble is scratched, it is a softer rock, and that is a good result to write down.
-  - Check: The key left a grey line on the pebble, but the line wiped off. What does that tell you? → **A little metal rubbed off the key onto the pebble, so the pebble is harder than the key**
+  - Check: The key left a grey line on the pebble, but the line wiped off. What does that mean? → **The key's metal rubbed off, so the pebble is harder**
 - **s3 (7 min)**  
   *Parent does:* 1. Fill in the table. 2. Line the rocks up from softest to hardest. 3. Compare with the guess.  
   *Parent says:* Which one did even your fingernail scratch? Which one did nothing scratch? Put them in a line, softest first.  
@@ -289,25 +289,25 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
   *Child mode:* What does each job need? Say it, and a grown-up writes it down.
   - Ask: Why is a kitchen counter often granite? (good: It is hard, so knives and pots do not scratch it.; It does not soak up water or oil, so it is easy to clean.; Hot pans do not hurt it.)
 ### a2 · Specks in the Stone: a close look at granite (10 min)
-- **record:** A drawing of a small square of granite, about the size of a stamp, with each kind of grain coloured in.
+- **record:** A count of the grains of each colour in a patch the size of a stamp. You can also draw the patch and colour each kind of grain.
 - **s1 (6 min)**  
   *Parent does:* 1. Look at the granite through the glass or the phone camera. 2. Count the colours of grains together. 3. Wipe it with a wet cloth and look again.  
   *Parent says:* How many colours of grains can you see? Now I will wet it. Can you see the colours better?  
-  *Child mode:* Look closely. How many colours of grains? Look again when it is wet.
+  *Child mode:* Look closely at the granite. Then look again when it is wet.
   - Ask: How many kinds of grain did you see? (good: Three or four: black, white, pink or grey, and some glassy ones.)
   - Note: Granite is mostly feldspar (white, cream or pink), quartz (grey and glassy) and dark minerals such as mica (black and shiny). Water makes the colours brighter. Some polished counters sold as granite are other speckled rocks, and that is fine for this activity.
 - **s2 (4 min)**  
-  *Parent does:* 1. Your child draws a small square of the granite. 2. They colour each kind of grain.  
-  *Parent says:* Draw a small square of what you see. Colour each kind of grain. Different colours usually mean different minerals.  
-  *Child mode:* Draw a small square. Colour each kind of grain.
+  *Parent does:* 1. Pick a patch of granite the size of a stamp. 2. Your child counts the grains of each colour and tells you. 3. They can draw the patch too, and colour each kind of grain.  
+  *Parent says:* Look at a patch the size of a stamp. How many grains of each colour are there? You can draw it too.  
+  *Child mode:* Count the grains of each colour in the patch. Draw it too, if you like.
   - Check: Why does granite have specks of different colours? → **It is made of grains of different minerals**
 ### a3 · Rocks of India: make a map (15 min)
 - **record:** A map of India with seven rock labels in the right places.
 - **Printable cards: 7 rock labels to cut out:** Granite: Thanjavur, Tamil Nadu. The Brihadeeswarar temple.; Granite boulders: Hampi, Karnataka. Temples and giant round rocks.; Laterite: Kerala and Goa. Red house walls.; Slate: Markapur, Andhra Pradesh. Writing slates.; Coal: Jharkhand. Fuel for power stations.; Marble: Makrana, Rajasthan. The Taj Mahal.; Rock salt: Mandi, Himachal Pradesh. Sendha namak.
 - **s1 (10 min)**  
-  *Parent does:* 1. Read each label aloud. 2. Find the place on the map together. 3. Your child sticks the label and draws a tiny picture.  
-  *Parent says:* This one says granite, Thanjavur. Where is Tamil Nadu? Stick it there and draw a little temple.  
-  *Child mode:* Read a label. Find the place. Stick it on. Draw a tiny picture.
+  *Parent does:* 1. Read each label aloud. 2. Find the place on the map together. 3. Your child sticks the label there and says what was built.  
+  *Parent says:* This one says granite, Thanjavur. Where is Tamil Nadu? Stick it there. What was built from this rock?  
+  *Child mode:* Read a label. Find the place. Stick it on.
 - **s2 (5 min)**  
   *Parent does:* 1. Look at the finished map. 2. Ask the question.  
   *Parent says:* Look at the whole map. Which rocks are in the south? Which are in the north and east?  
@@ -322,11 +322,11 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 - **s1 (8 min)**  
   *Parent does:* 1. Collect the six things together. 2. Put one in each section of the egg tray.  
   *Parent says:* Let us collect six things for your rock box. They are chalk, rock salt, a pebble, a stone chip, a piece of marble or Kota stone, and a brick. The brick is here to compare, because people made it from clay.  
-  *Child mode:* Collect six things. Put one in each hole of the tray.
+  *Child mode:* Collect six things. Put one in each section of the tray.
 - **s2 (12 min)**  
   *Parent does:* 1. Scratch each one with the coin. 2. Put three drops of water on each and watch for one minute. 3. Write down what happens.  
   *Parent says:* Does the coin scratch it? Now three drops of water. Does the water soak in, or sit on top as a round drop?  
-  *Child mode:* Scratch each one with a coin. Put three drops of water on it. Watch.
+  *Child mode:* Try the coin on each thing. Then add the water drops and watch.
   - Ask: Which ones soaked up the water? (good: The brick and the chalk turned dark and drank it.; The salt started to dissolve.; The pebble and the marble kept the drop on top.)
   - Note: Brick and chalk have tiny gaps between their grains, so water soaks in. Salt dissolves in water. Marble and most pebbles have their grains packed tight, so the drop sits on top.
   - Wait: Do this on day 2.
@@ -346,7 +346,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 - **s1 (5 min)**  
   *Parent does:* 1. Read the problem together. 2. Choose two or three ways to try. 3. Break a chalk stick into sharp pieces of the same size.  
   *Parent says:* We can shake only 50 times. How could we make the chalk rounder in fewer shakes?  
-  *Child mode:* You have only 50 shakes. How can you make the chalk roundest?
+  *Child mode:* Choose two or three ways to try. Break the chalk into pieces of the same size.
 - **s2 (10 min)**  
   *Parent does:* 1. Try each way with a fresh chalk piece. 2. Shake exactly 50 times each. 3. Lay the pieces in a row on dark paper.  
   *Parent says:* Use the same size of piece and the same 50 shakes each time. Only the way changes. Then we line the pieces up.  
@@ -355,8 +355,8 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 - **s3 (5 min)**  
   *Parent does:* 1. Compare the pieces. 2. Ask why the winner worked.  
   *Parent says:* Which piece is roundest? Why do you think that way worked best?  
-  *Child mode:* Which piece is roundest? Why?
-  - Ask: Why might rice or salt help the chalk get round? (good: More hard bits knock and rub it.; Like sand in a river rubbing a stone.)
+  *Child mode:* Look at the row of pieces. Pick the roundest one.
+  - Ask: Why might adding rice, sand or salt help the chalk get round? (good: More hard bits knock and rub it.; Like sand in a river rubbing a stone.)
 
 ## Worksheets
 ### Pebbles and rock jobs (core) (core, 10 questions)

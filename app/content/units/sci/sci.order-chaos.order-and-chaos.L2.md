@@ -196,8 +196,8 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
   - Check: Which of these can happen the same way again? → **A kolam drawn around nine dots**
 - **s3 (2 min)**  
   *Parent does:* 1. Count the points. 2. Ask the question below.  
-  *Parent says:* Look at the 'Never twice' cards. Do they follow rules too, or is it all luck?  
-  *Child mode:* Look at the 'Never twice' cards. Do they follow rules too?
+  *Parent says:* Pick a 'Never twice' card, like the leaf or the splash.  
+  *Child mode:* Think about the 'Never twice' card you picked.
   - Ask: Do the 'Never twice' things follow rules? (good: Yes. Gravity pulls the leaf down every time.; Yes, but tiny changes make them different.)
 ### g2 · Copy My Clap: a rhythm game (8 min)
 - **rules:** Cut out the 6 pattern cards. Shuffle them and put them face down.; The leader takes a card and does what it says.; The other players copy it straight after.; If everyone copies it exactly, they get a point each.; Take turns being the leader until the cards are finished.
@@ -212,8 +212,8 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
   *Child mode:* Copy the leader's clap. Can you copy the free drumming too?
 - **s3 (2 min)**  
   *Parent does:* 1. Ask the question below.  
-  *Parent says:* Which ones were easy to copy, and which were hard? Why?  
-  *Child mode:* Which claps were easy to copy? Which were hard? Why?
+  *Parent says:* Which ones were easy to copy, and which were hard?  
+  *Child mode:* Think about the easy claps and the hard ones.
   - Ask: Why was the pattern easy to copy, but the free drumming hard? (good: The pattern has a rule that repeats.; The free drumming had no rule, so I could not remember it.)
   - Note: A pattern has order, so it can be repeated. Free drumming has no pattern, like the beans on the plate.
 
@@ -223,17 +223,17 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
 - **predict:** Look at the flat leaf and the paper ball. When we drop them ten times each, which one will land inside the plate circle more often? Why do you think so?
 - **fair test:** Both come from the same sheet of paper and are the same size, so they weigh the same. We drop both from the same height, holding them over the same spot. We switch off the fan and close the windows, so moving air does not spoil the test. We drop each one ten times, because one drop can be a fluke.
 - **safety:** If the child stands on a chair to drop, a grown-up holds the chair. Dropping from the child's own raised hand is high enough.
-- **record:** Fill in the results table with a tick for inside and a cross for outside. Count the ticks for the ball and for the leaf. Draw the newspaper with all the crosses on it.
+- **record:** Fill in the results table with a tick for inside and a cross for outside. Count the ticks for the ball and for the leaf. Take a photo of the newspaper with all the crosses on it, or draw it.
 - **results table:** Drop number | Paper ball: inside or outside the circle? | Paper leaf: inside or outside the circle?
 - **s1 (4 min)**  
   *Parent does:* 1. Fold the notebook paper in half. 2. Draw a leaf about as long as your child's hand on it. 3. Cut through both layers, so you get two leaves the same size. 4. Your child crumples one leaf into a tight ball.  
   *Parent says:* These two leaves came from the same paper, and they are the same size. So they weigh the same. Now crumple one into a tight ball. Keep the other one flat.  
-  *Child mode:* Cut two paper leaves the same size. Crumple one into a ball. Keep one flat.
+  *Child mode:* Crumple one leaf into a tight ball. Keep the other one flat.
   - Note: Folding the paper before cutting gives two leaves of exactly the same size and weight. That makes it a fair test.
 - **s2 (3 min)**  
   *Parent does:* 1. Switch off the fan and close the windows. 2. Lay two sheets of newspaper side by side on the floor. 3. Put a steel plate in the middle and draw around it. 4. Ask the question below.  
-  *Parent says:* We will drop the ball and the flat leaf ten times each, from up high, over the middle of the circle. Which one will land inside the circle more often? Why do you think so?  
-  *Child mode:* Drop the ball and the leaf ten times each over the circle. Which one will land inside more often? Why?
+  *Parent says:* We will drop the ball and the flat leaf ten times each, from up high, over the middle of the circle. Think about where each one will land.  
+  *Child mode:* Look at the ball and the flat leaf. Make your guess.
   - Ask: Which one will land inside the circle more often, the ball or the flat leaf? Why? (good: The ball, because it is round and falls straight.; The leaf, because it is flat and floats down slowly.; The same, because they weigh the same.)
   - Note: Write down your child's guess and reason. Do not say who is right. Many children think that the same weight means the same fall.
 - **s3 (5 min)**  
@@ -242,15 +242,15 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
   *Child mode:* Hold the ball high over the circle. Open your fingers. Mark where it lands.
   - Note: Mark the spot where it first touches the paper, even if it bounces a little. Most drops land inside or close to the circle.
 - **s4 (5 min)**  
-  *Parent does:* 1. Your child holds the flat leaf by the tip, flat side down, high over the middle of the circle. 2. Let go. 3. Mark where it comes to rest with a blue cross. 4. Do it ten times in all, holding it the same way each time.  
+  *Parent does:* 1. Your child holds the flat leaf by the tip, flat side down, high over the middle of the circle. 2. Let go. 3. Mark where it first lands with a blue cross. 4. Do it ten times in all, holding it the same way each time.  
   *Parent says:* Now the flat leaf. Hold it flat, by the tip, in the same place. Let go. Watch how it falls. Make a blue cross where it lands.  
   *Child mode:* Hold the flat leaf the same way each time. Let go. Watch it fall. Mark where it lands.
-  - Ask: How did the leaf fall? Was it the same as the ball? (good: It swung from side to side.; It turned over and slid sideways.; It fell slowly, and the ball fell fast.)
+  - Ask: How did the leaf fall, compared with the ball? (good: It swung from side to side.; It turned over and slid sideways.; It fell slowly, and the ball fell fast.)
   - Note: The leaf usually swings, turns or slides, and lands somewhere new each time, often outside the circle. If a leaf lands off the newspaper, put a cross at the edge closest to it.
 - **s5 (3 min)**  
   *Parent does:* 1. Count the red crosses inside the circle. 2. Count the blue crosses inside the circle. 3. Ask your child what they think, what they saw and why. 4. Then read the card on why a falling leaf never lands in the same place twice.  
-  *Parent says:* How many red crosses are inside the circle? How many blue ones? Did the leaf ever land in the same place twice? Why do you think the ball and the leaf were so different?  
-  *Child mode:* Count the red crosses inside. Count the blue ones. Why were they so different?
+  *Parent says:* How many red crosses are inside the circle? How many blue ones? Did the leaf ever land in the same place twice?  
+  *Child mode:* Count the red crosses inside the circle. Then count the blue ones.
   - Ask: Why did the ball land near the same spot, but the leaf did not? (good: The air pushed on the flat leaf and made it swing.; The ball is small and round, so the air cannot push it much.; Each time the leaf started a bit differently.)
   - Note: A strong answer uses the crosses as evidence: the red ones are bunched, the blue ones are spread out. Then it gives a reason about the shape and the air.
   - Check: The paper ball and the paper leaf weighed the same. Why did the leaf land in a new place each time? → **The air pushed on its big flat side and made it swing**
@@ -259,12 +259,12 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
 - **predict:** We will drop four drops from the same height. Will the four splashes look the same? Will a drop from higher up make a bigger or smaller splash? Why do you think so?
 - **fair test:** We use the same haldi water, the same dropper and the same paper every time. For the first four drops we use the same height, measured with a ruler. Only the height changes for the last drops.
 - **safety:** Haldi stains clothes and the floor. Wear old clothes and work on newspaper.
-- **record:** Fill in the results table. Draw a circle around each splash and write its height beside it. Then you can compare the splash from high up with the others.
+- **record:** Fill in the results table. Circle each splash with a pencil and write its height beside it. Then compare the high splash with the others.
 - **results table:** Splash | Height | Number of little dots around it | What it looks like
 - **s1 (3 min)**  
   *Parent does:* 1. Stir a pinch of haldi into half a small cup of water. 2. Spread newspaper on the floor and put a white sheet on top. 3. Ask the questions below.  
-  *Parent says:* We will drop four drops of this yellow water from the same height. Will the four splashes look the same? Why do you think so?  
-  *Child mode:* Four drops will fall from the same height. Will the splashes look the same? Why?
+  *Parent says:* We will drop four drops of this yellow water from the same height. Think about how the splashes will look.  
+  *Child mode:* Make your guess about the four splashes.
   - Ask: Will the four splashes look the same? Why? (good: Yes, because it is the same water and the same height.; No, because splashes are always different.)
   - Note: Write down the guess and the reason. No need to say who is right.
 - **s2 (6 min)**  
@@ -274,8 +274,8 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
   - Note: If you use a straw instead of a dropper, dip one end in the water, put a finger on the top end and lift it out. Lift your finger a little to let one drop go. Each drop makes a yellow spot with some little dots around it.
 - **s3 (4 min)**  
   *Parent does:* 1. Your child counts the little dots around each splash. 2. Write the numbers in the table. 3. Ask the question below.  
-  *Parent says:* Count the little dots around each splash. Are the numbers the same? Are the dots in the same places?  
-  *Child mode:* Count the little dots around each splash. Are any two splashes the same?
+  *Parent says:* Count the little dots around each splash. Look at where the dots are.  
+  *Child mode:* Count the little dots around each splash.
   - Ask: Are any two splashes exactly the same? (good: No. One has 4 dots and one has 7.; No. The dots are in different places.; They are nearly the same size, but the dots are different.)
   - Note: The middle spots are often about the same size, but the little dots around them differ in number and place. That is what to notice.
 - **s4 (3 min) · grown-up needed**  
@@ -285,28 +285,28 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
   - Note: A drop from about one metre hits much harder. It usually spreads wider, with more spikes and dots around it. Aim carefully, or the drop may miss the paper.
 - **s5 (2 min)**  
   *Parent does:* 1. Ask your child what they think, what they saw and why. 2. Then read the card on why no two splashes are the same.  
-  *Parent says:* It was the same water and the same height. Why do you think the splashes were not all the same? Why was the high one different?  
-  *Child mode:* Same water, same height. Why were the splashes different?
+  *Parent says:* It was the same water and the same height. Look at all the splashes again. Why was the high one different from the others?  
+  *Child mode:* Look at all the splashes again. Think about what was different.
   - Ask: Why were the splashes different? (good: Each drop was a bit different.; The paper is a bit bumpy.; The high drop hit harder, so it spread more.)
   - Note: Any reason about tiny differences in the drop or the paper is a good start. The card explains the rest.
 
 ## Activities
 ### a1 · Shake and Tip: can the beans land the same way twice? (7 min)
-- **record:** Draw the beans after the first tip, after the second tip and in the neat row.
+- **record:** Take a photo of the beans after the first tip, after the second tip and in the neat row. Or draw them.
 - **s1 (3 min)**  
-  *Parent does:* 1. Your child puts ten beans in the tumbler, covers it with a hand and shakes it. 2. Tip the beans onto the plate. 3. Your child draws where they landed.  
-  *Parent says:* Shake the tumbler and tip the beans onto the plate. Look at where they landed. Draw them quickly.  
-  *Child mode:* Shake the beans. Tip them out. Draw where they landed.
+  *Parent does:* 1. Your child puts ten beans in the tumbler, covers it with a hand and shakes it. 2. Tip the beans onto the plate. 3. Take a photo of the beans with your phone. If you have no phone, your child draws them.  
+  *Parent says:* Shake the tumbler and tip the beans onto the plate. Look at where they landed. Now I take a photo.  
+  *Child mode:* Shake the beans. Tip them out. Look at where they landed.
   - Note: Just let your child look at where the beans landed. Do not explain anything yet.
 - **s2 (2 min)**  
-  *Parent does:* 1. Put the beans back in the tumbler. 2. Before tipping, ask the question below. 3. Shake and tip again, and compare with the drawing.  
-  *Parent says:* Can you make them land in exactly the same places as last time? Try it. Look at your drawing. Is it the same?  
-  *Child mode:* Can the beans land the same way again? Try it. Look at your drawing.
+  *Parent does:* 1. Put the beans back in the tumbler. 2. Before tipping, ask the question below. 3. Shake and tip again, and compare with the first photo.  
+  *Parent says:* Put the beans back and shake again. Tip them onto the plate. Now look at the first photo.  
+  *Child mode:* Shake and tip the beans again. Look at the first photo.
   - Ask: Did the beans land the same way as last time? (good: No, they are in different places.; Some are close, but not the same.)
   - Note: They will not land the same way. That is the point to notice.
 - **s3 (2 min)**  
   *Parent does:* 1. Your child lines the ten beans up in a straight row. 2. Mix them up, and ask your child to make the row again.  
-  *Parent says:* Now put them in a straight row. Now I mix them up. Can you make the row again? Which could you make the same again, the row or the heap?  
+  *Parent says:* Now put them in a straight row. Now I mix them up. Can you make the row again?  
   *Child mode:* Line the beans up in a row. Can you make the row again?
   - Ask: Which could you make the same again, the row or the heap? Why? (good: The row, because I know the rule: one after another in a line.; Not the heap, because nobody decides where each bean goes.)
   - Note: The row has order: there is a rule, so it can be made again. The heap is messy: no rule we can use decides where each bean goes.
@@ -318,47 +318,47 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
   *Parent says:* Make three rows of three dots. Keep them the same distance apart. That is the start of a kolam.  
   *Child mode:* Make three rows of three dots. Keep them the same distance apart.
 - **s2 (7 min)**  
-  *Parent does:* 1. Show the rule: the line goes around each dot and never touches a dot. 2. Your child draws a line that loops around all nine dots, joining up where it started. 3. Any loop pattern is fine, as long as the rule is kept.  
+  *Parent does:* 1. Show the rule: the line goes around each dot and never touches a dot. 2. Your child draws a line that loops around all nine dots, joining up where it started. 3. Any loop pattern is fine, as long as the rule is kept. A child who does not like drawing can lay a piece of string around nine buttons or beans instead.  
   *Parent says:* Here is the rule. The line goes around every dot. It never touches a dot. Can you make one line that goes around all nine?  
   *Child mode:* The line goes around every dot. It never touches a dot. Try it.
   - Note: A simple shape to start with: draw a wavy line that weaves between the rows, then join it up at the ends. If it goes wrong, start again on new dots. It takes a few tries.
 - **s3 (5 min)**  
   *Parent does:* 1. Your child makes nine new dots next to the first kolam. 2. Your child draws the same kolam again. 3. Compare the two kolams.  
-  *Parent says:* Now draw the same kolam again, next to the first one. Is it the same? How did you know where the line goes?  
-  *Child mode:* Draw the same kolam again. Is it the same? How did you know?
+  *Parent says:* Now make the same kolam again, next to the first one. Is it the same?  
+  *Child mode:* Make the same kolam again, next to the first one.
   - Ask: How could you draw the same kolam again? (good: Because I know the rule.; Because the dots show me where the line goes.)
   - Note: The second kolam should look much like the first. Order means there is a rule, so the same thing can be made again. Compare this with the beans or the falling leaf.
 ### a3 · Drip Watch: drops from a tap (6 min)
-- **record:** Draw two splashes you saw. Write one way they were different.
+- **record:** Tell your grown-up about two splashes you saw. Say one way they were different.
 - **s1 (3 min)**  
   *Parent does:* 1. Put a steel plate in the sink under the tap. 2. Turn the tap on so it drips slowly, about one drop each second.  
-  *Parent says:* Watch the drops. Listen too. Does every drop make the same splash and the same sound?  
-  *Child mode:* Watch each drop. Listen. Is every splash the same?
-  - Ask: Is every drop the same? (good: The drops come at a steady beat, but the splashes look different.; Some splash higher than others.)
+  *Parent says:* Watch the drops. Listen too.  
+  *Child mode:* Watch each drop. Listen to each one.
+  - Ask: Does every splash look and sound the same? (good: The drops come at a steady beat, but the splashes look different.; Some splash higher than others.)
 - **s2 (3 min)**  
   *Parent does:* 1. Ask the question below. 2. Turn off the tap. Save the water in the plate for a plant.  
-  *Parent says:* The drops fall one after the other, at a steady beat. That part has a pattern. Do the splashes have a pattern too? Which part is neat, and which part is messy?  
-  *Child mode:* The drops come one after another. Do the splashes look the same too?
+  *Parent says:* The drops fall one after the other, at a steady beat. That part has a pattern. Do the splashes have a pattern too?  
+  *Child mode:* Think about which part is neat and which part is messy.
   - Ask: Which part is neat and which part is messy? (good: The drips are neat, one after another.; The splashes are messy, each one different.)
   - Note: Many dripping taps drip with a steady beat, but each splash is different. Use the water for a plant afterwards so none is wasted.
 
 ## Projects
 ### p1 · My Never-Twice Diary: three days of watching (21 min, 3 days)
-- **record:** Each page has two boxes: 'Same every time' and 'Never twice'. Draw one thing in each box and write one word about it.
-- **schedule:** day 1: Find and draw one thing that happens the same way every time, and one that never does. (7 min); day 2: Look out of the window at the sky. Draw the clouds in the morning and again in the evening. (7 min); day 3: Find two new things in the kitchen. Then read the whole diary and sort the things into 'has a rule' and 'messy'. (7 min)
+- **record:** Each page has two boxes: 'Same every time' and 'Never twice'. Write the name of one thing in each box, and one word about it. Draw it too if you like.
+- **schedule:** day 1: Find one thing that happens the same way every time, and one that never does. Write their names. (7 min); day 2: Look out of the window at the sky. Take a photo of the clouds in the morning and again in the evening, or draw them. (7 min); day 3: Find two new things in the kitchen. Then read the whole diary and sort the things into 'has a rule' and 'messy'. (7 min)
 - **s1 (7 min)**  
-  *Parent does:* 1. Fold three sheets into a little book. 2. Draw two boxes on each page. 3. Your child finds and draws one thing for each box.  
+  *Parent does:* 1. Fold three sheets into a little book. 2. Draw two boxes on each page. 3. Your child finds one thing for each box and writes its name. Drawing it is optional.  
   *Parent says:* Today, find one thing that happens the same way every time, and one thing that never does. Look around the house.  
-  *Child mode:* Find one thing that is the same every time. Find one that never is. Draw them.
+  *Child mode:* Find one thing that is the same every time. Find one that never is. Write their names.
 - **s2 (7 min)**  
-  *Parent does:* 1. In the morning, your child draws the clouds from a window. 2. In the evening, your child draws them again.  
-  *Parent says:* Look out of the window. Draw the clouds. We will look again this evening. Will they be the same?  
-  *Child mode:* Draw the clouds this morning. Look again this evening. Are they the same?
+  *Parent does:* 1. In the morning, take a photo of the clouds from a window, or your child draws them. 2. In the evening, do the same again.  
+  *Parent says:* Look out of the window at the clouds. We will look again this evening.  
+  *Child mode:* Look at the clouds this morning. Look again this evening.
   - Ask: Were the clouds the same in the evening? (good: No, they changed shape.; The sky was clear in the evening.)
   - Note: If you cannot see the sky, a grown-up can hold a pot of hot water. Your child watches the steam from a safe distance. It also never moves the same way twice.
   - Wait: The next day
 - **s3 (7 min)**  
-  *Parent does:* 1. Your child finds two new things in the kitchen. 2. Then your child reads the whole diary aloud.  
+  *Parent does:* 1. Your child finds two new things in the kitchen. 2. Then your child reads the whole diary aloud and says for each thing if it has a rule or is messy.  
   *Parent says:* Find two things in the kitchen today. Is each one the same every time, or never the same twice? Then let's read your whole diary. Which things have a rule, and which are messy?  
   *Child mode:* Find two things in the kitchen. Same every time, or never twice? Then read your diary. Which things have a rule?
   - Ask: What did you find in the kitchen? (good: Steel tumblers stacked the same every time.; Mustard seeds popping in oil, never the same way.; Rice grains falling into a pot.)
@@ -373,8 +373,8 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
 - **creative:** Fold the leaf into a cone, like a small paper cup turned upside down.; Fold the leaf in half twice, to make a small thick square.
 - **s1 (4 min)**  
   *Parent does:* 1. Remind your child of the flat leaf's score from the paper leaf test. 2. Ask the question below.  
-  *Parent says:* The flat leaf landed in a new place each time. We cannot crumple it. How could we change it so it lands in the circle more often?  
-  *Child mode:* How could you change the flat leaf so it lands in the circle?
+  *Parent says:* The flat leaf landed in a new place each time. We cannot crumple it.  
+  *Child mode:* Think about how you could change the flat leaf.
   - Ask: How could you make it land in the circle more often? (good: Make the tip heavier.; Fold it so it is not so flat.; Make it smaller.)
 - **s2 (12 min)**  
   *Parent does:* 1. Your child changes a new leaf in their own way. 2. Your child drops it ten times from the same height. 3. Count together how many land inside the circle. 4. Your child tries one more design.  
@@ -384,7 +384,7 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
 - **s3 (4 min)**  
   *Parent does:* 1. Compare the scores. 2. Ask the question below.  
   *Parent says:* Which design landed in the circle most often? Why do you think it worked?  
-  *Child mode:* Which design was best? Why do you think it worked?
+  *Child mode:* Compare how many landed inside for each design.
   - Ask: Why did your best design work? (good: The clip made the front heavy, so it went down tip first.; Folding stopped it swinging so much.)
   - Note: Designs that stop the leaf swinging make it easier to predict. In the same way, a heavy coconut drops straight down. A light seed with a wing swings and drifts far away.
 

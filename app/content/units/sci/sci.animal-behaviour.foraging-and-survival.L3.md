@@ -217,23 +217,23 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 - **Printable cards: 4 pile labels:** HUNTS (chases, waits in ambush or sets a trap); GRAZES OR BROWSES (eats plants); SCAVENGES, FILTERS OR EATS ANYTHING; STAYS SAFE (hides, keeps still, armour, a group)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards and the 4 labels. 2. Lay the labels in a row. 3. Shuffle the animal cards face down.  
-  *Parent says:* Every animal has to eat, and stay safe. Each card shows one animal doing one of these. Which pile does the card go on?  
-  *Child mode:* Lay out the 4 labels. Mix up the cards. Each card shows an animal eating or staying safe. Which pile?
+  *Parent says:* Every animal has to find food and stay safe. Each card shows one animal doing one of these. You will put each card on the right pile.  
+  *Child mode:* Lay out the 4 labels in a row. Mix up the cards and put them face down.
 - **s2 (2 min)**  
   *Parent does:* Read the practice card 'A house gecko waits beside the tube light for moths' together.  
-  *Parent says:* Practice card. A house gecko waits beside the tube light for moths. Which pile?  
-  *Child mode:* Practice card. A gecko waits by the tube light for moths. Which pile?
-  - Check: A house gecko waits beside the tube light for moths. Which pile? → **Hunts**
+  *Parent says:* Let's try one practice card before we start. Read it, then choose a pile.  
+  *Child mode:* Try one card first. Read it. Choose a pile.
+  - Check: A house gecko waits beside the tube light for moths. Which pile does this card go on? → **Hunts**
 - **s3 (8 min)**  
   *Parent does:* Take turns reading and placing the cards until every card is won.  
   *Parent says:* Your turn. Read the card, choose a pile, and tell us why.  
   *Child mode:* Take a card. Read it out. Choose a pile. Say why. Turn it over to check.
   - Note: Some cards fit two piles. The nightjar keeps still and is camouflaged. The kingfisher waits, then dives. Let your child argue for their choice. A good reason counts.
 - **s4 (2 min)**  
-  *Parent does:* Ask the question below once the game is over.  
-  *Parent says:* Which pile had the most cards? Was there a card you could have put in two piles?  
-  *Child mode:* Which pile was biggest? Which card could go in two piles? Why?
-  - Ask: Which animal could go in two piles? (good: The frog, who keeps still to stay safe and is also a hunter.; The crow, who scavenges and also hunts insects.)
+  *Parent does:* Count the cards in each pile together. Then ask the question below.  
+  *Parent says:* Let's see which pile is biggest. Then I have one question.  
+  *Child mode:* Count the cards in each pile.
+  - Ask: Which animal card could go in two piles, and why? (good: The frog, who keeps still to stay safe and is also a hunter.; The crow, who scavenges and also hunts insects.)
 ### g2 · Freeze, Tiger! (15 min)
 - **rules:** You need 30 paper strips scattered on the floor as grass (cut them from old newspaper), and a cushion at one end of the room as the waterhole.; One player is the tiger. The tiger stands at the waterhole, facing the wall.; Everyone else is a deer, starting at the other end of the room.; While the tiger faces the wall, deer move forward and pick up grass, one strip at a time.; The tiger can turn round at any moment. When she turns, every deer must freeze.; If the tiger sees a deer moving, that deer is caught and goes back to the start without their grass.; The round ends when a deer touches the waterhole. Count each deer's grass. Swap who is the tiger.; After three rounds, add up each deer's grass. The deer with the most grass wins. Playing with two, swap roles after each round so that each of you is the tiger at least once, and compare totals at the end.; Playing with just one grown-up? The grown-up is the tiger, and the child plays three rounds as the deer. The aim is to beat your own total from the round before.
 - **Printable score sheet: Score sheet:** Player; Round 1: grass collected; Round 1: caught? (yes or no); Round 2: grass collected; Round 2: caught? (yes or no); Round 3: grass collected; Round 3: caught? (yes or no); Total grass
@@ -247,17 +247,17 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
   *Child mode:* Go! Pick up grass. Freeze when the tiger turns. Don't wobble!
   - Note: As the tiger, turn round at uneven times. Sometimes quickly, sometimes after a long wait. That is what makes freezing hard.
 - **s3 (3 min)**  
-  *Parent does:* Ask the questions below after the last round.  
-  *Parent says:* Did the deer who collected the most grass get caught more often? Why?  
-  *Child mode:* Did grabbing lots of grass make you easier to catch? Why?
-  - Check: In the game, why were deer who kept moving caught more often? → **The tiger noticed movement, even when the deer were far away**
+  *Parent does:* Add up each deer's grass and count the catches. Then ask the question below.  
+  *Parent says:* Let's add up the grass and count who was caught.  
+  *Child mode:* Count your grass. Count how many times you were caught.
+  - Check: In the game, why were deer who moved when the tiger turned caught? → **The tiger noticed movement, even when the deer were far away**
 
 ## Experiments
 ### e1 · Paper Caterpillars: which ones does a hungry hunter miss? (30 min)
 - **question:** Do prey that match the background survive a hunter better than prey that stand out? And what happens when the background changes?
 - **predict:** Guess first. On a newspaper, will you catch more newspaper strips or more plain strips in 20 seconds? On a plain sheet, which kind will you catch more of? Why do you think so?
 - **fair test:** Use 20 strips of each kind, all the same size. Hunt for the same time, 20 seconds, with one hand, one strip at a time. Someone else scatters the strips while the hunter's eyes are closed. Do 3 rounds on each background, because one round can be a fluke. Only the background changes.
-- **record:** Fill in the table. Then draw a bar chart with two bars for each background: newspaper strips caught and plain strips caught.
+- **record:** Fill in the table. Then draw a bar chart with two bars for each background, or just tell your grown-up which kind you caught more of on each background.
 - **results table:** Background | Round | Newspaper strips caught | Plain strips caught
 - **s1 (8 min)**  
   *Parent does:* 1. Fold one newspaper sheet into four layers. 2. Cut strips about 3 cm long and 1 cm wide, through all four layers. 3. Stop when you have 20 newspaper strips. 4. Do the same with the plain paper, to make 20 plain strips. 5. Keep all 40 strips about the same size.  
@@ -266,9 +266,9 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
   - Note: Cutting through four layers saves time. The strips do not need to be perfect. Choose plain paper the same colour as your plain background, for example white strips and a white bedsheet.
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason before any hunting. Write the guess at the top of the table.  
-  *Parent says:* On the newspaper, which caterpillars will you catch more of? Why do you think so?  
-  *Child mode:* Guess first. On the newspaper, which strips will you catch more of? Why?
-  - Ask: Which caterpillars will you catch more of on the newspaper, and why? (good: The plain ones, because they stand out.; Fewer newspaper ones, because they look like the background.)
+  *Parent says:* Before we hunt, make a guess. Then tell me why you think so.  
+  *Child mode:* Make a guess before you hunt. Tell your grown-up why you think so.
+  - Ask: On the newspaper, will you catch more newspaper strips or more plain strips? Why? (good: The plain ones, because they stand out.; Fewer newspaper ones, because they look like the background.)
 - **s3 (6 min)**  
   *Parent does:* 1. Spread the second newspaper flat on the floor. 2. The hunter closes their eyes. 3. Scatter all 40 strips over the newspaper, well mixed. 4. Say 'Go!' and start a 20-second timer. 5. The hunter picks up strips one at a time with one hand. 6. Each strip goes into the bowl before the next. 7. Say 'Stop!' at 20 seconds.  
   *Parent says:* Close your eyes while I scatter the caterpillars. Ready? Pick them up one at a time, as fast as you can. Go!  
@@ -311,7 +311,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
   - Note: If your child takes longer than 30 seconds, write 'more than 30' and move on.
 - **s4 (4 min)**  
   *Parent does:* 1. Do 3 more tries, using the holes in a new order and threading the strip each time. 2. This time, give the thread a small tug about once every two seconds, so the strip jerks a little. 3. Time how long the hunter takes to point.  
-  *Parent says:* Turn round again. Same game, but this time the caterpillar might be wriggling. Look!  
+  *Parent says:* Turn round again. Same game, but this time the caterpillar will wriggle a little. Look!  
   *Child mode:* Turn round. Look again. Point the moment you spot the strip.
   - Check: Which caterpillar did you usually spot faster? → **The wriggling one**
 - **s5 (4 min)**  
@@ -330,22 +330,22 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
   *Child mode:* You are a cow. The rice is grass. Pick up one grain at a time. Drop it in the cup. Go!
 - **s2 (4 min)**  
   *Parent does:* 1. Send your child out of the room. 2. Hide 5 beans in different places in the room, a little out of sight. 3. Call your child back and start a 30-second timer. 4. Count the beans found.  
-  *Parent says:* Now you are a tiger. Your food is hidden and rare. You have 30 seconds to find it. Go!  
+  *Parent says:* Now you are a tiger. Your food is hidden and hard to find. You have 30 seconds to find it. Go!  
   *Child mode:* Now you are a tiger. Five beans are hiding in this room. Find as many as you can. Go!
   - Note: Hide the beans well enough that finding them takes a little searching, for example under the edge of a mat or behind a cushion. Most children find 2 or 3 in 30 seconds.
 - **s3 (3 min)**  
   *Parent does:* 1. Put the rice grains in one palm and the beans in the other. 2. Ask which hand holds more food. 3. Tell your child that one rajma bean weighs about as much as 20 rice grains.  
   *Parent says:* You picked lots of rice, but each grain is tiny. You found only a few beans, but each one is big. Which hand has more food?  
   *Child mode:* Hold the rice in one hand and the beans in the other. Which hand has more food? One bean weighs about the same as 20 rice grains.
-  - Ask: Why does a cow eat for most of the day, but a tiger does not? (good: Grass is everywhere but each bite gives little food, so the cow must keep eating.; Meat is hard to find, but each catch is a big meal.)
+  - Ask: Why does a tiger not need to hunt all day? (good: One catch is a big meal, so it lasts a long time.; A tiger finds food only now and then, but each catch is a big meal.)
   - Check: Grass is easy to find. So why do cows spend most of the day eating? → **Each mouthful gives little energy, so they need a lot**
 ### a2 · Shadow Belly: why so many animals have a pale belly (15 min)
 - **problem:** Many fish, deer and birds are darker on top and paler underneath. In this activity you use two paper tubes and a light to find out why. Light comes from above, like sunlight, so you will look at how each tube is lit.
-- **record:** Draw both tubes as they looked from the side, with the light above.
+- **record:** Take a photo of both tubes from the side, with the light above. Or say which tube looked rounder and which looked flatter.
 - **s1 (4 min)**  
-  *Parent does:* 1. Leave one tube plain white. 2. Shade the top half of the other tube evenly with pencil or crayon. 3. Leave its bottom half white.  
+  *Parent does:* 1. Leave one tube plain white. 2. Shade the top half of the other tube evenly with pencil or crayon, or stick grey paper on it. 3. Leave its bottom half white.  
   *Parent says:* Many fish are dark on top and pale underneath. Let's make a tube like that, and one that is plain.  
-  *Child mode:* Keep one tube white. Colour the top half of the other tube grey. Leave the bottom white.
+  *Child mode:* Keep one tube white. Colour the top half of the other tube grey. Or stick grey paper on it. Leave the bottom white.
 - **s2 (5 min)**  
   *Parent does:* 1. Lay both tubes on their sides on the plain paper. 2. Make the light shine from straight above, with the torch or the ceiling light. 3. Crouch down so your eyes are level with the tubes.  
   *Parent says:* Light comes from the sky, from above. Look from the side, like a hunter on the ground. Which tube looks round, and which looks flat?  
@@ -354,7 +354,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 - **s3 (3 min)**  
   *Parent does:* Turn the shaded tube upside down, so the dark half is underneath. Look again from the side.  
   *Parent says:* Now the dark half is at the bottom, where the shadow already is. Does the tube look flatter or rounder than before?  
-  *Child mode:* Turn the grey tube upside down. Does it look flatter or rounder than before?
+  *Child mode:* Turn the grey tube upside down. Does it look flatter or rounder than before you turned it?
   - Check: Why does a dark back and a pale belly help a fish hide? → **The pale belly cancels the shadow underneath, so the body looks flat**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say what they saw and why, in two or three sentences.  
@@ -368,9 +368,9 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
   *Parent says:* Choose a home for your animal. It needs a colour or pattern you can copy.  
   *Child mode:* Walk around your home. Choose a place with a pattern or colour. Your animal will hide there.
 - **s2 (10 min)**  
-  *Parent does:* 1. Your child draws an animal about as big as a matchbox. 2. They colour the animal to match the chosen spot. 3. They cut the animal out.  
-  *Parent says:* Look closely at the colours and lines in that spot. Copy them onto your animal.  
-  *Child mode:* Draw an animal as big as a matchbox. Colour them to match your spot. Copy the lines and spots too. Cut them out.
+  *Parent does:* 1. Your child cuts an animal shape from the paper, about as big as a matchbox. 2. They colour it to match the chosen spot. Or they stick on a scrap of cloth with the same pattern.  
+  *Parent says:* Look closely at the colours and lines in that spot. Copy them onto your animal, or find a scrap that looks the same.  
+  *Child mode:* Cut out an animal as big as a matchbox. Colour them to match your spot. Copy the lines and spots too, or stick on a matching scrap.
 - **s3 (5 min)**  
   *Parent does:* 1. Everyone else leaves the room. 2. Your child places the animal on the chosen spot. 3. Each person gets up to one minute to find the animal, timed.  
   *Parent says:* Let's see how well your animal hides. I'll time each person.  
@@ -382,7 +382,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
   - Ask: Why was your animal found faster in the wrong spot? (good: The colours did not match the background any more.; Camouflage only works in the right place.)
 ### a4 · The Antlion's Trap: a pit of rava (15 min)
 - **problem:** An antlion is the young of a winged insect. She digs a cone-shaped pit in dry sand and waits at the bottom. In this activity you dig a pit in rava and use a grain of rice as the ant, to see how a pit like this catches food without any chase.
-- **record:** Draw the pit from the side and show where the antlion waits.
+- **record:** Take a photo of your pit, or tell your grown-up how the grain slid down. Then point to where the antlion would wait.
 - **s1 (5 min)**  
   *Parent does:* 1. Fill the bowl with dry rava, about 4 cm deep. 2. With the spoon, scoop rava out of the middle and flick it over the side. 3. Keep scooping until you have a cone-shaped pit with steep, loose sides.  
   *Parent says:* An antlion is the young of a winged insect. They dig a pit in dry sand by flicking it out, just like this.  
@@ -396,7 +396,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 - **s3 (5 min)**  
   *Parent does:* Tell your child what a real antlion does, then ask the question below.  
   *Parent says:* A real antlion waits buried at the bottom, with only her jaws showing. If an ant starts to climb out, she flicks sand at the ant. Is a trap a good way to hunt?  
-  *Child mode:* A real antlion waits at the bottom. If the ant climbs, she flicks sand. Is a trap a good way to hunt? Why?
+  *Child mode:* Listen to what a real antlion does. Is a trap a good way to hunt? Why?
   - Note: A good answer is that a trap saves energy. The antlion does not chase anything, because the pit does the work and the ant comes to her. A trap works only when prey happens to walk by. Antlion pits are common in India in dry dust under shelter, for example under the eaves of old buildings or temple walls. If you have a park or a courtyard nearby, look for little cone-shaped pits about as wide as a coin. Rava can be sieved and used for cooking afterwards.
 ### a5 · How Often Do They Look Up? Watch a feeding flock (15 min)
 - **problem:** When animals eat, they cannot watch for danger at the same time. Animals that feed in a group can share the watching. In this activity you count how often birds look up while they feed, in a big group and alone.
@@ -419,29 +419,29 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 ## Projects
 ### p1 · Home Hunters Diary (30 min, 3 days)
 - **record:** Each day, write the date, the time, who you saw, and what they were doing to get food.
-- **schedule:** day 1: After dark, watch the wall near a lit tube light or bulb for 10 minutes. Note insects and any house gecko, and where the gecko waits. (10 min); day 2: Look for spider webs in corners, window grilles and the balcony. Draw one web and anything caught in it. (10 min); day 3: Put a biscuit crumb on a window ledge or balcony. Check after 10 minutes and again later. Who came to forage? (10 min)
+- **schedule:** day 1: After dark, watch the wall near a lit tube light or bulb for 10 minutes. Note insects and any house gecko, and where the gecko waits. (10 min); day 2: Look for spider webs in corners, window grilles and the balcony. Photograph one web, or look at it closely and see what is caught in it. (10 min); day 3: Put a biscuit crumb on a window ledge or balcony. Check after 10 minutes and again later. Who came to forage? (10 min)
 - **s1 (10 min)**  
   *Parent does:* 1. After dark, switch on a tube light or bulb near a wall or window. 2. Sit quietly a little way off for 10 minutes. 3. Count the insects near the light. 4. Look for a house gecko and note where they wait.  
   *Parent says:* Hunters go where the food is. Insects fly to the light at night. Who comes to hunt them?  
   *Child mode:* Sit near the light. Stay quiet. Count the insects. Is there a gecko? Where does the gecko wait?
   - Note: House geckos are common in most Indian homes and stairwells, but not every home has one. If you see none inside, look on an outside wall near a lit window or the stairwell light.
 - **s2 (10 min)**  
-  *Parent does:* 1. In daylight, check corners, window grilles, the balcony and behind furniture for spider webs. 2. Shine the torch along a web to see the threads. 3. Draw one web and anything caught in it.  
+  *Parent does:* 1. In daylight, check corners, window grilles, the balcony and behind furniture for spider webs. 2. Shine the torch along a web to see the threads. 3. Take a photo of one web, or look closely and tell your grown-up what is caught in it.  
   *Parent says:* A spider builds a trap and waits. Let's find a web and see what she caught.  
-  *Child mode:* Look in corners and window grilles. Find a spider web. Draw it. Is anything caught?
+  *Child mode:* Look in corners and window grilles. Find a spider web. Look closely at the threads. Is anything caught?
   - Note: Look, but don't touch. Most house spiders are harmless, but it is kind to leave their webs in place.
   - Wait: Day 2
 - **s3 (10 min)**  
   *Parent does:* 1. Put a crumb of biscuit on a window ledge or balcony. 2. Check after 10 minutes. 3. Check again in the evening. 4. Write who came: ants, a crow, a sparrow, a myna, or nobody yet.  
   *Parent says:* Let's put out a little food and see who forages for it.  
   *Child mode:* Put a crumb on the window ledge. Check after 10 minutes. Who came to eat?
-  - Ask: Who hunted, who scavenged, and who waited in your home this week? (good: The gecko waited by the light, which is an ambush.; The spider used a trap.; Ants or crows scavenged the crumb.)
+  - Ask: What did each animal you saw do to get food? (good: The gecko waited by the light, which is an ambush.; The spider used a trap.; Ants or crows scavenged the crumb.)
   - Wait: Day 3
 
 ## Challenges
 ### c1 · A Feeder for Small Beaks (30 min)
 - **problem:** When grain is put out for small birds such as sparrows, bigger birds such as crows and pigeons often eat most of it. Design a feeder from a plastic bottle that a small beak can reach into, but a big beak cannot.
-- **your turn:** Now design your own small-beak feeder. Draw it, build it, and test it with the pencil and the marker. If you can, hang it at a window and watch who comes.
+- **your turn:** Now design your own small-beak feeder. Plan it (draw it if you like, or just tell your grown-up), build it, and test it with the pencil and the marker. If you can, hang it at a window and watch who comes.
 - **constraints:** Use only things from home.; A pencil is the small beak. A thick marker pen is the big beak.; The small beak must reach the grain. The big beak must not.; The feeder must not hurt any bird: no sharp edges and no wire loops.
 - **general:** Cut feeding holes just big enough for the pencil, but too small for the marker.; Put a short perch under each hole, so only light birds can hold on.; Hang the feeder on a string, so it swings. Heavy birds find it harder to land on.
 - **creative:** Make a cage of ice-cream sticks or rolled paper around the feeder, with gaps a sparrow can slip through but a crow cannot.; Put the holes low on the bottle and fill it with only a little grain, so a beak has to reach deep inside to get any.; Make a feeder that hangs under a small roof, so big birds cannot land on top.
@@ -450,9 +450,9 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
   *Parent says:* Big birds often eat all the grain before sparrows get any. Can you make a feeder only a small beak can use?  
   *Child mode:* The pencil is a sparrow's beak. The marker is a crow's beak. Make a feeder only the pencil can reach into.
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* 1. Your child draws a design. 2. Together, mark the holes. 3. A grown-up cuts the holes with scissors. 4. Smooth any sharp edges with tape.  
-  *Parent says:* Draw your idea first. Then we'll make the holes together. I'll do the cutting.  
-  *Child mode:* Draw your feeder. Mark where the holes go. A grown-up cuts them. Cover sharp edges with tape.
+  *Parent does:* 1. Your child decides where the holes will go and tells you why. 2. Together, mark each hole on the bottle with a pencil. 3. A grown-up cuts the holes with scissors. 4. Smooth any sharp edges with tape.  
+  *Parent says:* First decide where the holes go, and tell me why. Then we'll make the holes together. I'll do the cutting.  
+  *Child mode:* Decide where your holes go. Mark them on the bottle with a pencil. A grown-up cuts them. Cover sharp edges with tape.
   - Note: Cutting plastic bottles leaves sharp edges. Make a small cut with the scissor tip, then widen the hole slowly. Cover every edge with tape, for the birds' safety and yours.
 - **s3 (7 min)**  
   *Parent does:* 1. Put a little grain in the bottle. 2. Test each hole with the pencil and the marker. 3. Change any hole that is too big or too small.  
@@ -461,7 +461,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
   - Check: The marker can still reach the grain through one hole. What should you change? → **Make that hole smaller, or cover part of it with tape**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to explain their design in two or three sentences.  
-  *Parent says:* Tell me how your feeder works, and why a crow would struggle with your feeder.  
+  *Parent says:* Tell me how your feeder works, and why a crow cannot use the feeder.  
   *Child mode:* Say how your feeder works. Why can't a big beak use it?
 
 ## Worksheets

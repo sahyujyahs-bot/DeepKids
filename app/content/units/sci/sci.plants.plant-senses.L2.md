@@ -192,16 +192,16 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 
 ## Games
 ### g1 · Sense and Respond: a pairs game (15 min)
-- **rules:** If a child cannot read yet, draw a small sketch on each card before you play.; Mix the cards and lay them face down in 4 rows of 4.; On your turn, turn over two cards and read them aloud.; A pair is one card that says what a plant senses, and the card that says how that plant responds. Each sense card has only one response card that goes with it.; If you have a pair, say why the two cards go together. If the other players agree, keep the pair and play again.; If they are not a pair, turn them back face down. The next player has a turn.; When all the cards are taken, the player with the most pairs wins. If two players have the same number, they both win.
+- **rules:** If a child cannot read yet, a grown-up reads each card aloud when it is turned over.; Mix the cards and lay them face down in 4 rows of 4.; On your turn, turn over two cards and read them aloud.; A pair is one card that says what a plant senses, and the card that says how that plant responds. Each sense card has only one response card that goes with it.; If you have a pair, say why the two cards go together. If the other players agree, keep the pair and play again.; If they are not a pair, turn them back face down. The next player has a turn.; When all the cards are taken, the player with the most pairs wins. If two players have the same number, they both win.
 - **Printable cards: 16 cards to cut out: 8 sense cards and 8 respond cards:** Light comes in from the window onto a moong shoot.; The moong shoot bends towards the window.; A sprout is lying with the root pointing up.; The root tip curves round and grows down.; A finger touches the tip of a touch-me-not leaf.; The leaflets fold up, pair after pair.; Night comes.; The touch-me-not folds their leaves until morning.; The Sun moves across the sky over a young sunflower plant.; The young sunflower plant turns from east to west.; A climber's tendril touches a stick.; The tendril coils round the stick.; The soil is wet on one side of the pot.; The roots grow towards the wet side.; A potted plant is knocked over and lies on the floor.; The shoot tips slowly turn upwards again.
 - **s1 (4 min)**  
-  *Parent does:* 1. Cut out the cards together. 2. If your child cannot read yet, they draw a small sketch on each card. 3. Lay the cards face down in 4 rows of 4.  
+  *Parent does:* 1. Cut out the cards together. 2. If your child cannot read yet, you read each card aloud when it is turned over. 3. Lay the cards face down in 4 rows of 4.  
   *Parent says:* Let's lay the cards face down. Every sense card has one response card that goes with it.  
   *Child mode:* Cut out the cards. Lay them face down.
 - **s2 (9 min)**  
   *Parent does:* 1. Take turns as the rules say. 2. When someone finds a pair, ask them why the two cards go together.  
-  *Parent says:* You found light from the window and a bending shoot. Why do they go together?  
-  *Child mode:* Turn over two cards. Is it a pair? Say why they go together.
+  *Parent says:* When someone finds a pair, ask: why do these two cards go together? For example, light from the window and a bending shoot.  
+  *Child mode:* Turn over two cards. Look for a sense card and its response card.
   - Check: A sprout is lying with the root pointing up. Which card goes with it? → **The root tip curves round and grows down.**
 - **s3 (2 min)**  
   *Parent does:* Lay all the pairs out. Sort them into three groups: light, down, and touch. Put any pair that fits none in a fourth group.  
@@ -212,7 +212,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 - **rules:** Players stand up. Hands held together above your head are your shoot. Your feet are your roots. Open arms are touch-me-not leaves.; The caller reads the front of a card aloud. Players move.; The caller then reads the back. Anyone who moved the wrong way, or too fast, sits down for the next card, then joins in again.; Moves for light and gravity must be slow, counting to five. Most plants move by growing, and growing is slow. Only the touch-me-not fold is fast.; Take turns being the caller.; The game ends when all 8 cards have been read. Everyone who moved the right way every time wins. Then swap, and play again.
 - **Printable cards: 8 caller cards:** The window is on your left. (back: Lean slowly to the left, counting to five.); The window is on your right. (back: Lean slowly to the right, counting to five.); Someone turned your pot round. (back: Slowly turn back to face the window.); You are lying on your side. (back: Your feet are your roots. Slowly curve them round to point at the floor.); A finger touches your leaf. (back: Touch-me-not: fold your arms in fast!); Night time. (back: Touch-me-not: fold your arms and keep still.); It is morning, and nobody has touched you for a while. (back: Open your arms slowly.); The Sun rises in the east. (back: Young sunflower: turn your face to the east wall.)
 - **s1 (2 min)**  
-  *Parent does:* Read the rules aloud. Show the shoot, the roots and the touch-me-not arms.  
+  *Parent does:* Read the rules aloud. Choose one wall to be the east wall. Show the shoot, the roots and the touch-me-not arms.  
   *Parent says:* You are all plants. Your hands are your shoot and your feet are your roots. Most plants move slowly, by growing.  
   *Child mode:* You are a plant. Hands up for your shoot. Feet are your roots.
 - **s2 (7 min)**  
@@ -223,16 +223,16 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 - **s3 (1 min)**  
   *Parent does:* Ask which move was the only fast one, and why.  
   *Parent says:* Which move was the only fast one? Why can a touch-me-not move so fast?  
-  *Child mode:* Which move was fast? Why?
+  *Child mode:* Think about which move was the only fast one.
 
 ## Experiments
 ### e1 · The Window Test: will moong shoots turn back to the light? (30 min, 7 days)
 - **question:** Which way do moong shoots grow when light comes from one side? If we turn the cup round, will they stay as they are, or turn back?
 - **predict:** Your straight shoots will stand by a window for a day. Which way do you think they will lean? Then we turn the cup round. What will they do then? Why do you think so?
 - **fair test:** We use one cup of shoots, with the same soil and the same water all through. The only thing we change is which side of the cup faces the window. A bindi marks the side that faced the glass first, so we always know how the cup was turned. We count every shoot, not just one, because one shoot on their own could lean by chance.
-- **record:** Draw the cup three times: when it came out of the dark, after one day by the window, and the day after you turned it. Draw an arrow for where the light came from. Write how many shoots leaned to the window each time.
-- **results table:** When | Leaning to the window | Standing straight | Leaning away from the window | My drawing
-- **schedule:** day 1: In the evening, soak 15 moong in a bowl of water overnight. (2 min); day 2: Fill the cup with soil. Press 12 to 15 soaked moong just under the surface. Give 2 spoons of water. Cover the cup with the upside-down vessel. (5 min); day 5: Lift the vessel. Count the shoots and draw them. Mark the cup with a bindi. Put the cup by a window, bindi towards the glass. Guess what will happen. (9 min); day 6: Count and draw. Then turn the cup round so the bindi faces the room. Guess again. (7 min); day 7: Count and draw once more. Compare all three drawings and say what the shoots did. (7 min)
+- **record:** Take a photo of the cup three times, or draw it: when it came out of the dark, after one day by the window, and the day after you turned it. Write how many shoots leaned to the window each time.
+- **results table:** When | Leaning to the window | Standing straight | Leaning away from the window | My photo or drawing
+- **schedule:** day 1: In the evening, soak 15 moong in a bowl of water overnight. (2 min); day 2: Fill the cup with soil. Press 12 to 15 soaked moong just under the surface. Give 2 spoons of water. Cover the cup with the upside-down vessel. (5 min); day 5: Lift the vessel. Count the shoots and take a photo of the cup, or draw it. Mark the cup with a bindi. Put the cup by a window, bindi towards the glass. Guess what will happen. (9 min); day 6: Count the shoots and write the numbers. Then turn the cup round so the bindi faces the room. Guess again. (7 min); day 7: Count again and take a third photo, or draw it. Compare all three pictures and say what the shoots did. (7 min)
 - **s1 (2 min)**  
   *Parent does:* 1. In the evening, put 15 whole moong in a bowl. 2. Cover them with water. 3. Leave them overnight.  
   *Parent says:* These moong seeds are going to drink water tonight. Tomorrow we plant them.  
@@ -246,24 +246,24 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
   - Note: Growing them in the dark matters. Shoots grown near a window lean before the test starts. In a warm room, the shoots are usually 3 to 6 cm tall after 3 days. If they are shorter than 2 cm, wait one more day.
   - Wait: Leave them for 3 days. On day 4, peep under the vessel and add a spoon of water if the soil is dry
 - **s3 (9 min)**  
-  *Parent does:* 1. Lift the vessel together. 2. Count the shoots and draw them. 3. Stick a bindi on the side of the cup. 4. Put the cup on a windowsill or a table right by a window, bindi towards the glass. 5. Ask for a guess and a reason.  
+  *Parent does:* 1. Lift the vessel together. 2. Count the shoots. Take a photo of the cup, or draw it. 3. Stick a bindi on the side of the cup. 4. Put the cup on a windowsill or a table right by a window, bindi towards the glass. 5. Ask for a guess and a reason.  
   *Parent says:* Look, they grew straight up in the dark. Now they will stay by the window until tomorrow. Which way do you think they will lean? Why do you think so?  
-  *Child mode:* Lift the cover. Count the shoots. Draw them. Put the cup by the window, bindi to the glass. Which way will they lean? Say why.
+  *Child mode:* Lift the cover. Count the shoots. Take a photo. Put the cup by the window, bindi to the glass.
   - Ask: Why do you think they will lean that way? (good: Plants like light, so they will lean to the window.; They will stay straight, because nothing will push them.; I saw a plant on our balcony leaning out.)
   - Note: Choose a window that gives most of the room's daylight, so the light comes from one side. Keep the cup away from the fan. Write down your child's guess and reason, word for word. Don't say if it is right. The shoots are pale because they grew in the dark. They turn green in the light, too.
   - Wait: Leave the cup by the window until tomorrow
 - **s4 (7 min)**  
-  *Parent does:* 1. Look at the shoots together. 2. Count how many lean to the window, stand straight, or lean away. 3. Your child draws them. 4. Turn the cup halfway round, so the bindi faces the room. 5. Ask for a new guess.  
+  *Parent does:* 1. Look at the shoots together. 2. Count how many lean to the window, stand straight, or lean away. 3. Write the three numbers down. 4. Turn the cup halfway round, so the bindi faces the room. 5. Ask for a new guess.  
   *Parent says:* Count them with me. How many lean to the window? Now I turn the cup round. They all lean away from the light. What will they do by tomorrow? Why?  
-  *Child mode:* Count the shoots that lean to the window. Draw them. Turn the cup round. What will they do now? Say why.
+  *Child mode:* Count the shoots that lean to the window. Write the number down. Then turn the cup round, so the bindi faces the room.
   - Ask: What do you think they will do now? (good: They will turn back to the window.; They will stay bent, because they are stuck that way.)
   - Note: Usually most shoots lean clearly towards the glass by morning, and many have turned green. If they are still straight, the window light may be weak. Move the cup closer to the glass and wait half a day more. Write down the second guess too.
   - Check: After one day by the window, most of the moong shoots leaned towards the glass. What were they growing towards? → **The light coming in**
   - Wait: Leave the cup turned round until tomorrow
 - **s5 (7 min)**  
-  *Parent does:* 1. Look and count again. 2. Your child draws them. 3. Put all three drawings in a row. 4. Ask what the shoots did, and how your child knows.  
-  *Parent says:* What did the shoots do after we turned the cup? Look at your three drawings. What do you think made the shoots turn?  
-  *Child mode:* Count the shoots again. Draw them. Look at your three drawings. What did the shoots do? Why?
+  *Parent does:* 1. Look and count again. 2. Take a photo of the cup, or draw it. 3. Put all three pictures in a row. 4. Ask what the shoots did, and how your child knows.  
+  *Parent says:* Look at your three pictures in a row. What did the shoots do after we turned the cup?  
+  *Child mode:* Count the shoots again. Then look at your three pictures in a row.
   - Ask: Did the shoots stay bent the way we turned them? (good: No. They turned back to the window.; The tops turned back, but the bottoms stayed bent.)
   - Ask: Nobody touched them. So what made them turn? (good: They sensed the light and grew towards it.; They moved themselves.)
   - Note: Most shoots turn their tips back to the window within a day. Often the bottom of each stem still leans the old way, and the top curves back, like the letter S. The low bend has stopped growing, so it stays. Only the growing part near the top can bend again. Now read the card 'A shoot grows towards the light'.
@@ -272,9 +272,9 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 - **question:** If moong sprouts lie with their roots pointing four different ways, which way will each root grow?
 - **predict:** One root points up, one down, one left and one right. Which way will each root grow by tomorrow? Why do you think so?
 - **fair test:** All four sprouts are in the same box, on the same wet paper, in the same place. Only the way each sprout lies is different. We use sprouts with roots about as long as your fingernail, so that a bend is easy to see.
-- **record:** Draw the box with the four sprouts as they were at the start. On the next day, draw them again, with the new part of each root.
+- **record:** Take a photo of the box at the start and again the next day, or draw it. Write how many root tips point down.
 - **results table:** Sprout | Way the root pointed at the start | My guess | Way the root tip points the next day
-- **schedule:** day 1: Soak a spoonful of moong overnight. (2 min); day 2: Drain the moong and wrap them in a wet cloth for a day, until the roots are 1 to 2 cm long. (1 min); day 3: Set up the root box with four sprouts pointing four ways. Guess. Leave it standing up. (8 min); day 4: Look at each root tip. Draw them. Count how many point down. (5 min)
+- **schedule:** day 1: Soak a spoonful of moong overnight. (2 min); day 2: Drain the moong and wrap them in a wet cloth for a day, until the roots are 1 to 2 cm long. (1 min); day 3: Set up the root box with four sprouts pointing four ways. Guess. Leave it standing up. (8 min); day 4: Look at each root tip. Count how many point down. Take a photo of the box. (5 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Two days before you set up the root box, soak a spoonful of moong overnight. 2. Next morning, drain them and wrap them in a wet cloth.  
   *Parent says:* We are sprouting moong, the way we do for sundal or a salad. This time we need the little roots.  
@@ -283,31 +283,31 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
   - Wait: Leave them for a day, until the roots are 1 to 2 cm long
 - **s2 (6 min)**  
   *Parent does:* 1. Fold a wet paper and press it against one side of the box. 2. Your child slides 4 sprouts between the paper and the plastic. 3. Point one root up, one down, one left and one right. 4. Draw an arrow on the plastic beside each root, showing the way it points.  
-  *Parent says:* Let's give each sprout a different way to point. One root up, one down, one left, one right. Draw an arrow for each one.  
+  *Parent says:* Let's give each sprout a different way to point. One root up, one down, one left, one right.  
   *Child mode:* Slide four sprouts in. Point the roots up, down, left and right. Draw an arrow beside each one.
   - Note: Keep the paper wet, but don't leave a puddle. The wet paper holds the sprouts against the plastic. If one slips, push the sprout back gently.
 - **s3 (2 min)**  
   *Parent does:* 1. Close the lid. 2. Stand the box on one edge, so you can see the sprouts from the side. 3. Ask for a guess and a reason.  
   *Parent says:* Which way will each root grow by tomorrow? Why do you think so?  
-  *Child mode:* Close the box. Stand it up. Which way will each root grow? Say why.
+  *Child mode:* Close the box. Stand it up. Think about which way each root will grow.
   - Ask: Why do you think the root pointing up will grow that way? (good: Roots grow down, so the root will turn round.; The root will keep going up, because it is already pointing up.)
   - Note: Write down the guesses. Put the box in a warm place out of strong sun. The lid keeps the paper from drying out.
   - Wait: Leave the box standing up until tomorrow
 - **s4 (5 min)**  
-  *Parent does:* 1. Look at each root tip together. 2. Compare it with the arrow you drew. 3. Count how many tips now point down. 4. Your child draws them.  
+  *Parent does:* 1. Look at each root tip together. 2. Compare it with the arrow you drew. 3. Count how many tips now point down. 4. Take a photo of the box.  
   *Parent says:* Look at the tip of each root. Which way is it pointing now? How many point down?  
-  *Child mode:* Look at each root tip. Which way does it point now? Count how many point down.
+  *Child mode:* Look at each root tip. Count how many point down.
   - Ask: What did the root that pointed up do? (good: It curved round and grew down.; It made a hook shape.)
   - Note: Usually all four tips point down by the next day. The root that pointed up makes a hook. The one that already pointed down grows straight on. Then read the card 'Roots grow down, and shoots grow up'. For more, turn the box a quarter of the way round and look again the next day. The roots will bend to point down again.
   - Check: A sprout lay with the root pointing up. The next day, which way did the root tip point? → **Down**
 
 ## Activities
 ### a1 · Leaf Watch: which way do the leaves face? (8 min)
-- **record:** Draw the plant and the window. Draw a few leaves showing which way they face. Write two numbers: leaves facing the light, and leaves facing the room.
+- **record:** Write two numbers: leaves facing the light, and leaves facing the room. Take a photo of the plant, or draw the plant.
 - **s1 (3 min)**  
   *Parent does:* 1. Stand with your child on the room side of the plant. 2. Look at the leaves together. 3. Ask what they notice.  
-  *Parent says:* Look at this plant. Which way are the flat faces of the leaves turned? What do you notice? What do you wonder?  
-  *Child mode:* Look at the plant. Which way do the flat faces of the leaves point?
+  *Parent says:* Look at this plant. The flat side of a leaf is its face. Which way are the faces turned?  
+  *Child mode:* Look closely at the leaves. Point to the flat face of one leaf.
   - Ask: What do you notice about the leaves? (good: Most of them face the window.; From here I see the backs of the leaves.; The stems lean out too.)
 - **s2 (4 min)**  
   *Parent does:* 1. Your child counts the leaves whose flat face points to the light. 2. Then they count the leaves whose face points into the room. 3. Write both numbers down.  
@@ -317,15 +317,15 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 - **s3 (1 min)**  
   *Parent does:* Ask for a guess and a reason, and write it down.  
   *Parent says:* Why do you think the leaves face that way? We will test it.  
-  *Child mode:* Why do the leaves face that way? Make a guess.
+  *Child mode:* Make a guess, and tell your grown-up why.
   - Think: Did the leaves grow that way, or did they turn?
 ### a2 · Touch-Me-Not Tests: what makes them fold? (if you can get a touch-me-not) (20 min)
 - **safety:** The stems have small prickles. Touch only the leaves, with one finger, and hold the pot, not the stem. Do not put any part of the plant in your mouth, and wash your hands afterwards.
-- **record:** Make a table with four rows: blow, feather, drop of water, fingertip. Write how many pairs of leaflets folded each time. Draw the plant in the day and at night.
+- **record:** Make a table with four rows: blow, feather, drop of water, fingertip. Write how many pairs of leaflets folded each time. Write whether the leaves were open or folded at night.
 - **s1 (2 min)**  
   *Parent does:* 1. Choose four leaves that are fully open. 2. Ask your child to guess which touch will fold the most leaflets.  
   *Parent says:* We will try four touches: a gentle blow, a feather, a drop of water and a fingertip. Which one will fold the most leaflets? Why do you think so?  
-  *Child mode:* You will try four touches. Which one will fold the most? Say why.
+  *Child mode:* Choose the touch you think will fold the most leaflets.
   - Note: Use a different leaf for each touch, because a leaf that has just folded needs time to open again.
 - **s2 (8 min)**  
   *Parent does:* 1. Your child tries each touch on its own leaf, one at a time. 2. After each one, count the pairs of leaflets that folded. 3. Write the number down.  
@@ -341,19 +341,19 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
   - Check: You touched the tip of one leaf. Leaflets further along the leaf folded too. What does that show? → **A signal travelled along the leaf**
   - Wait: Wait 10 to 20 minutes, looking every 5 minutes
 - **s4 (5 min) · grown-up needed**  
-  *Parent does:* 1. After dark, take a torch to the plant with your child. 2. Look without touching. 3. Your child draws what they see.  
+  *Parent does:* 1. After dark, take a torch to the plant with your child. 2. Look without touching. 3. Your child tells you if the leaves are open or folded, and you write it down.  
   *Parent says:* Nobody has touched the plant since this afternoon. Are the leaves open or folded?  
-  *Child mode:* Look at the plant at night. Don't touch. Are the leaves open or folded?
+  *Child mode:* Look at the plant by torchlight. Don't touch it.
   - Note: A touch-me-not folds their leaves every night and opens them in the morning. If the plant grows outside on a plot, go only with a grown-up, or skip this step and look early in the morning instead.
 ### a3 · Be a Young Sunflower: follow the torch (10 min)
-- **record:** Draw a young sunflower plant in the morning and in the evening. Draw a grown sunflower with the flower facing east.
+- **record:** Say out loud, and a grown-up writes down: which way the young sunflower faced in the morning and in the evening, and which way the grown sunflower faced.
 - **s1 (2 min)**  
   *Parent does:* 1. Find out which wall faces east, where the Sun rises. Use a phone compass, or ask where the morning Sun comes in. 2. Write E on a paper and stick it on that wall. Write W on another paper and stick it on the opposite wall.  
   *Parent says:* The Sun rises in the east and sets in the west. Let's find our east wall.  
   *Child mode:* Find the wall where the Sun comes up. Put E on it. Put W on the other side.
 - **s2 (4 min)**  
   *Parent does:* 1. Your child stands in the middle, as a young sunflower plant. 2. Shine the torch from the E wall. 3. Walk slowly over to the W wall, holding the torch high. 4. Switch it off.  
-  *Parent says:* You are a young sunflower plant. The Sun is coming up in the east. Turn your face slowly to follow it. Now it is night. What will you do?  
+  *Parent says:* You are a young sunflower plant. The Sun is coming up in the east. Turn your face slowly to follow it. Now the Sun has set and it is night.  
   *Child mode:* You are a young sunflower. Turn your face to follow the torch. Turn slowly, like a plant.
   - Ask: When the torch went off, which way did you turn? (good: Back to the east, to wait for the morning Sun.)
   - Note: Young sunflower plants really do face east in the morning and west in the evening. At night they turn back to face east, ready for sunrise. This was shown by Stacey Harmer and her team in America in 2016.
@@ -364,37 +364,37 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
   - Note: Scientists found that east-facing flowers warm up faster in the morning sun, and bees visit warm flowers more. Accept any reason your child gives first.
   - Check: Which sunflower turns to follow the Sun across the sky? → **A young sunflower plant**
 ### a4 · Which Way Is Down? Find it with your eyes shut (5 min)
-- **record:** Draw yourself lying three ways, with an arrow pointing to the floor each time.
+- **record:** A grown-up writes down, in your child's own words, how they knew where the floor was.
 - **s1 (3 min)**  
   *Parent does:* 1. Your child lies on their side on the mat, eyes shut. 2. They point to the floor. 3. They roll onto their back and point again, then onto the other side.  
-  *Parent says:* Shut your eyes. Point to the floor. Now roll over. Point to the floor again. How did you know?  
-  *Child mode:* Lie down. Shut your eyes. Point to the floor. Roll over and point again.
+  *Parent says:* Shut your eyes. Point to the floor. Now roll over. Point to the floor again.  
+  *Child mode:* Keep your eyes shut. Point to the floor each time you roll over.
   - Ask: How did you know where the floor was? (good: I could feel it in my head.; I felt the mat under me.)
 - **s2 (2 min)**  
   *Parent does:* Tell your child about the tiny crystals in our ears, and say how they are like the heavy grains in a root tip.  
   *Parent says:* Deep inside each ear are tiny crystals. When you tilt your head, they press on tiny hairs, and your brain knows which way is down. A root tip has tiny heavy grains that sink to the bottom of each cell. Both of you sense gravity.  
-  *Child mode:* Your ears have tiny crystals. They help you know which way is down. A root tip has tiny heavy grains that do the same.
+  *Child mode:* Listen. Then say how your ears know which way is down.
   - Note: The crystals sit in a small part of the inner ear. The grains in a root tip are made of starch. Both sense the pull of gravity.
 
 ## Projects
 ### p1 · Turn the Pot: a week with a windowsill plant (20 min, 8 days)
-- **record:** Make a table with the day and the number of leaves facing the light. Keep your four drawings in order.
-- **schedule:** day 1: Count the leaves facing the light. Draw the plant. Stick a bindi on the window side of the pot. Turn the pot halfway round. (6 min); day 3: Count the leaves facing the light again. Draw the plant. (4 min); day 5: Count and draw again. (4 min); day 8: Count and draw once more. Put the four drawings in a row and talk about what changed. (6 min)
+- **record:** Make a table with the day and the number of leaves facing the light. Keep your four photos (or drawings) in order.
+- **schedule:** day 1: Count the leaves facing the light. Take a photo of the plant, or draw the plant. Stick a bindi on the window side of the pot. Turn the pot halfway round. (6 min); day 3: Count the leaves facing the light again. Take a photo. (4 min); day 5: Count and take a photo again. (4 min); day 8: Count and take a photo once more. Put the four photos in a row and talk about what changed. (6 min)
 - **s1 (6 min)**  
-  *Parent does:* 1. Your child counts the leaves facing the light and draws the plant. 2. Stick a bindi on the window side of the pot. 3. Turn the pot halfway round. 4. Ask for a guess.  
+  *Parent does:* 1. Your child counts the leaves facing the light and takes a photo of the plant, or draws the plant. 2. Stick a bindi on the window side of the pot. 3. Turn the pot halfway round. 4. Ask for a guess.  
   *Parent says:* Now most leaves face the room. What will they do in a week? Why do you think so?  
-  *Child mode:* Count the leaves facing the light. Draw the plant. Turn the pot round. What will the leaves do? Say why.
+  *Child mode:* Count the leaves facing the light. Take a photo. Turn the pot halfway round.
   - Wait: Leave the pot turned round. Look again in 2 days
 - **s2 (8 min)**  
-  *Parent does:* On day 3 and day 5, your child counts the leaves facing the light and draws the plant.  
+  *Parent does:* On day 3 and day 5, your child counts the leaves facing the light and takes a photo.  
   *Parent says:* Count the leaves facing the light. Is the number bigger or smaller than last time?  
-  *Child mode:* Count the leaves facing the light. Draw the plant. Is the number going up?
+  *Child mode:* Count the leaves facing the light. Take a photo of the plant.
   - Note: Leaves usually twist slowly on their stalks to face the light again, and new tips bend towards it. A money plant can take a week or more. If you see no change by day 8, keep going to day 14.
   - Wait: Look again on day 8
 - **s3 (6 min)**  
-  *Parent does:* 1. Count and draw one last time. 2. Put the drawings in a row. 3. Ask what changed, and what made it change.  
-  *Parent says:* Look at your drawings in order. What did the plant do? Nobody turned the leaves by hand. What do you think made them turn?  
-  *Child mode:* Put your drawings in a row. What did the leaves do? What made them turn?
+  *Parent does:* 1. Count and take one last photo. 2. Put the photos in a row. 3. Ask what changed, and what made it change.  
+  *Parent says:* Look at your photos in order. What did the plant do? Nobody turned the leaves by hand. What do you think made them turn?  
+  *Child mode:* Put your photos in a row, from the first day to the last.
   - Check: You turned a money plant pot round. A week or more later, most leaves faced the window again. Why? → **The plant sensed the light and turned the leaves towards it**
 
 ## Challenges
@@ -407,7 +407,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 - **s1 (5 min)**  
   *Parent does:* 1. Read the problem together. 2. Ask your child why the shoots lean. 3. Ask for ideas before showing anything.  
   *Parent says:* The shoots lean because light comes from one side. How could we make them grow straight, without moving or turning the cup?  
-  *Child mode:* The shoots lean to the light. How can you make them grow straight? Think of an idea.
+  *Child mode:* Think of a way to make the shoots grow straight.
   - Ask: What is your idea? (good: Put a light on the other side.; Make the light come from the top.; Put something shiny behind them.)
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* 1. Your child builds their idea. 2. A grown-up helps with any cutting. 3. Keep one cup with no help, if you have enough shoots, to compare.  
@@ -418,7 +418,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 - **s3 (5 min)**  
   *Parent does:* 1. Count the straight shoots in each cup. 2. Talk about which idea worked best, and why.  
   *Parent says:* How many shoots stand straight with your idea? How many in the cup with no help?  
-  *Child mode:* Count the straight shoots in each cup. Which idea worked best?
+  *Child mode:* Count the straight shoots in each cup.
   - Check: Why does a box with a hole in the top help the shoots grow straight? → **The light now comes from above, so no side is shady**
 
 ## Worksheets
