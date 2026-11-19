@@ -173,10 +173,10 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 
 ## Games
 ### g1 · Five Needs: grow your plant to a flower (15 min)
-- **rules:** Each player draws a plant sheet: a pot with five empty boxes around it, labelled Light, Water, Air, Warmth and Soil, and a flower at the top. Shuffle the 25 cards and put them face down in a pile.; Take turns. Turn over the top card. Read the front aloud, then turn it over and read the back aloud.; If it is a need card and your box for that need is empty, put the card in the box. If you already have that need, put the card at the bottom of the pile.; If it is a Trouble card and you have the need card it names, give that card back. Put the Trouble card, and the card you gave back, at the bottom of the pile. If you do not have that need card, just put the Trouble card at the bottom.; When all five of your boxes are full, colour in your flower and say the five needs aloud. Then you stop taking turns.; The game ends when every plant has flowered. Everyone wins together. There are 4 cards of each need, so every player can always find the one they are missing.
+- **rules:** Each player makes a plant sheet. Fold a sheet of paper into five boxes, and write Light, Water, Air, Warmth and Soil, one in each box. Shuffle the 25 cards and put them face down in a pile.; Take turns. Turn over the top card. Read the front aloud, then turn it over and read the back aloud.; If it is a need card and your box for that need is empty, put the card in the box. If you already have that need, put the card at the bottom of the pile.; If it is a Trouble card and you have the need card it names, give that card back. Put the Trouble card, and the card you gave back, at the bottom of the pile. If you do not have that need card, just put the Trouble card at the bottom.; When all five of your boxes are full, your plant has flowered. Say the five needs aloud. Then you stop taking turns.; The game ends when every plant has flowered. Everyone wins together. There are 4 cards of each need, so every player can always find the one they are missing.
 - **Printable cards: 25 cards to cut out:** Light: a sunny window (back: Your plant can make food in their leaves.); Light: a bright balcony (back: Leaves use light to make food, even on a balcony.); Light: morning sun through the grille (back: A little morning sun is enough for leaves to make food.); Water: one spoon a day (back: Your plant's leaves stay firm.); Water: the monsoon rain (back: Rain gives water, and the roots take it in.); Water: a drink from a steel tumbler (back: Roots take in water from the soil.); Air: an open window (back: Leaves take in a gas from the air to make food. Roots breathe too.); Air: a pot with a hole at the bottom (back: Extra water drains away, so the roots get air.); Air: a fresh breeze (back: Leaves take in a gas from the air to make food.); Warmth: a warm day in Chennai (back: Your plant grows well in enough warmth.); Warmth: a sunny afternoon (back: Warmth helps a plant grow.); Warmth: the end of winter (back: When it gets warmer, seeds sprout and plants grow faster.); Soil: a pot of good soil (back: Roots hold on and take in minerals.); Soil: manure from the nursery (back: Manure adds minerals to the soil.); Soil: soil from under a tree (back: Roots hold on to the soil and take in minerals.); Light: a sunny verandah (back: Leaves use light to make food.); Water: a watering can on Sunday (back: Water keeps the leaves and stem firm.); Air: loose soil with gaps (back: The roots breathe the air in the gaps in the soil.); Warmth: a warm morning in Kochi (back: Seeds sprout fast and plants grow well in enough warmth.); Soil: compost made from vegetable peels (back: Compost adds minerals to the soil.); Trouble: someone shuts your plant in a cupboard (back: Give back a Light card. In the dark, a plant cannot make food.); Trouble: the family goes to Madurai for a week, and nobody waters (back: Give back a Water card. A plant wilts without water.); Trouble: the pot is filled to the top with water every day (back: Give back an Air card. Soggy soil has no air, and roots can rot.); Trouble: frost in a cold Shimla winter (back: Give back a Warmth card. Frost can kill tender leaves.); Trouble: the plant is growing in a cup of plain sand (back: Give back a Soil card. Sand has few minerals.)
 - **g1s1 (3 min)**  
-  *Parent does:* 1. Cut out the 25 cards. 2. Each player draws a plant sheet with a pot and five boxes. 3. Shuffle the cards and put them face down.  
+  *Parent does:* 1. Cut out the 25 cards. 2. Each player folds a sheet of paper into five boxes and writes Light, Water, Air, Warmth and Soil, one in each box. 3. Shuffle the cards and put them face down.  
   *Parent says:* Your plant needs five things to flower. Can you guess what they are? Let's find out as we play.  
   *Child mode:* Look at your plant sheet. There are five boxes. Each box is a need.
 - **g1s2 (10 min)**  
@@ -187,7 +187,7 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 - **g1s3 (2 min)**  
   *Parent does:* When a player's plant flowers, they say the five needs aloud.  
   *Parent says:* Your plant has flowered. Tell us the five needs.  
-  *Child mode:* Say the five needs: light, water, air, warmth, soil.
+  *Child mode:* Say the five needs of a plant, without looking at your cards.
   - Check: Which one is NOT one of a plant's five needs? → **Sugar**
 ### g2 · Follow the Light: a sprout game with a torch (10 min)
 - **rules:** Each sprout picks a spot and keeps their feet still all game. A sprout cannot walk. The Sun needs a torch or a phone light.; The Sun turns over a card, reads the front aloud, and shines the torch from that place. If the card says night, switch the torch off.; The sprouts turn or lean as slowly as they can. A sprout who moves a foot, or turns fast, stands up straight and starts that card again.; After each card, the Sun reads the back, and the sprouts say why they moved that way.; When all the cards have been read, swap so a child becomes the Sun.
@@ -198,13 +198,13 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
   *Child mode:* You are a sprout. Keep your feet still. You can only lean, slowly.
 - **g2s2 (7 min)**  
   *Parent does:* Read a card, shine the torch from that place, and watch the sprouts turn. After each card, ask why.  
-  *Parent says:* Why did you lean that way? How would a real sprout do that without muscles?  
-  *Child mode:* Lean towards the light, slowly. Why did you lean that way?
+  *Parent says:* Where is the Sun now? Which way did you lean, and why?  
+  *Child mode:* Lean towards the light, slowly. Keep your feet still.
   - Ask: How does a real sprout lean, without muscles? (good: By growing more on one side.; The shady side grows longer.)
 - **g2s3 (1 min)**  
   *Parent does:* Read this card last: 'Someone turns your pot round, so the light is behind you'.  
-  *Parent says:* A real rai sprout turns back to the window in about a day. You turned in a few seconds. What is different about a real sprout?  
-  *Child mode:* A real sprout turns back to the window in about a day. How is a real sprout different from you?
+  *Parent says:* A real rai sprout takes about a day to turn back to the window. You took a few seconds. What is different about a real sprout?  
+  *Child mode:* Think about how fast you turned, and how a real sprout turns.
   - Ask: What is different about a real sprout? (good: They turn by growing, not by moving their feet.; They are much slower.)
 
 ## Experiments
@@ -212,39 +212,39 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 - **question:** Rai sprouts by a window lean towards the light. If we turn the cup round, what will the sprouts do?
 - **predict:** Guess first. After we turn the cup round, will the sprouts stay leaning into the room, fall over, or turn back to the window? Why do you think so?
 - **fair test:** Both cups get the same seeds from one packet, the same soil or tissue, the same water and the same window. The only difference is that we turn cup A round and leave cup B as it is. So if cup A changes and cup B does not, the turning made the change.
-- **record:** On day 4, draw both cups with an arrow for the way the sprouts lean. On day 5, draw them again. Draw the window in both drawings.
+- **record:** On day 4 and on day 5, take a photo of both cups from the side with the window behind them, or draw both cups with an arrow for the way the sprouts lean.
 - **results table:** Cup | Day 4: which way do the sprouts lean? | Did we turn the cup? | Day 5: which way do the sprouts lean?
-- **schedule:** day 1: Fill both cups. Scatter the rai seeds and wet them. Put both cups by the window. (5 min); day 2: Give each cup 1 spoon of water. Look for tiny white roots. (2 min); day 3: Give each cup 1 spoon of water. Look for tiny shoots. (2 min); day 4: See which way the sprouts lean. Mark the window side of each cup. Guess what the sprouts will do, then turn cup A round. (6 min); day 5: Look at both cups. Draw them. Say what you think happened, what you saw, and why the sprouts did it. (12 min)
+- **schedule:** day 1: Fill both cups. Scatter the rai seeds and wet them. Put both cups by the window. (5 min); day 2: Give each cup 1 spoon of water. Look for tiny white roots. (2 min); day 3: Give each cup 1 spoon of water. Look for tiny shoots. (2 min); day 4: See which way the sprouts lean. Mark the window side of each cup. Guess what the sprouts will do, then turn cup A round. (6 min); day 5: Look at both cups. Take a photo of them, or draw them. Say what you think happened, what you saw, and why the sprouts did it. (12 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Write A on one cup and B on the other. 2. Fill each cup with 2 cm of soil, or wet folded tissue. 3. Scatter 1 teaspoon of rai seeds on each. 4. Sprinkle 2 spoons of water on each. 5. Put both cups side by side, by the window.  
-  *Parent says:* We are going to grow rai sprouts in these two cups. Rai is the mustard we put in sambar and poriyal. Help me scatter the seeds.  
+  *Parent says:* We are going to grow rai sprouts in these two cups. Rai is the mustard we put in sambar and poriyal. Help me scatter the seeds. Soon we will turn one cup round and see what the sprouts do.  
   *Child mode:* Fill the two cups. Scatter the rai seeds on top. Sprinkle water. Put both cups by the window.
   - Note: Use a window where light comes from one side, not from all around. A bright window with no hot sun on the cups is best. The seeds can just lie on top of the soil.
 - **s2 (4 min)**  
   *Parent does:* Give each cup 1 spoon of water. Look closely at the seeds together. On day 3, do the same again and look for tiny shoots.  
   *Parent says:* Look closely. What has changed since yesterday?  
-  *Child mode:* Give each cup one spoon of water. Look closely at the seeds. What has changed?
+  *Child mode:* Give each cup one spoon of water. Look closely at the seeds.
   - Ask: What do you see? (good: Tiny white roots.; The seeds have split open.)
   - Note: In warm weather rai germinates in a day or two. In a cold room it may take 3 or 4 days. Keep watering 1 spoon a day, and wait until the shoots are about 2 cm tall.
   - Wait: Come back tomorrow, on day 2.
 - **s3 (3 min)**  
   *Parent does:* 1. Look at the sprouts from the side. 2. Ask which way they lean. 3. Put a bindi on the side of each cup that faces the window.  
   *Parent says:* Look at the sprouts from the side. Are they standing straight? Which way are they leaning? Let's mark the window side of each cup with a bindi.  
-  *Child mode:* Look at your sprouts from the side. Which way do they lean? Put a bindi on the window side.
+  *Child mode:* Look at your sprouts from the side. Put a bindi on the window side of each cup.
   - Ask: Which way are the sprouts leaning? (good: Towards the window.; Towards the light.)
   - Note: The sprouts in both cups should lean towards the window. If they stand straight, the light may be coming from above. Move the cups to the side of the window, or stand them inside a shoebox lying on its side with the open end facing the window.
   - Wait: Come back when the shoots are about 2 cm tall, usually on day 4.
 - **s4 (3 min)**  
   *Parent does:* Ask your child to guess what will happen if cup A is turned round. Wait for a guess and a reason. Write it down. Then let your child turn cup A round, so its bindi faces the room. Leave cup B as it is.  
   *Parent says:* Right now the sprouts in both cups lean towards the window. If we turn cup A round, they will lean away from the window. What will they do by tomorrow? Why do you think so?  
-  *Child mode:* Guess. If you turn cup A round, what will the sprouts do? Why? Now turn cup A round.
+  *Child mode:* Guess what the sprouts in cup A will do. Then turn cup A round.
   - Ask: Why do you think so? (good: They will turn back, because they need the light.; They will stay, because plants can't move.; They will fall over.)
   - Note: Any guess with a reason is good. Many children, and grown-ups, guess that the sprouts will stay leaning into the room. Do not say what will happen. Cup B is the comparison: it shows what the sprouts do when nothing is changed.
   - Check: Why do we leave cup B as it is? → **So we can compare cup A with cup B**
 - **s5 (5 min)**  
-  *Parent does:* 1. Look at both cups from the side. 2. Look at the bindi on cup A. Is it still facing the room? 3. Look at the tops of the sprouts in cup A. 4. Draw both cups, with the window.  
+  *Parent does:* 1. Look at both cups from the side. 2. Look at the bindi on cup A. Is it still facing the room? 3. Look at the tops of the sprouts in cup A. 4. Pick 5 sprouts in each cup. Count how many have their tops pointing at the window.  
   *Parent says:* Look at cup A. The bindi still faces the room. Which way are the tops of the sprouts pointing now? Now look at cup B. What is the same, and what is different?  
-  *Child mode:* Look at cup A. Which way do the tops point now? Look at cup B. Draw both cups.
+  *Child mode:* Pick 5 sprouts in cup A and 5 in cup B. Count how many tops point at the window in each cup.
   - Ask: Which way are cup A's sprouts pointing now? (good: Back to the window.; The tops have bent towards the light.)
   - Ask: Where is the bend on each sprout? (good: Near the top.; Just below the leaves.)
   - Note: Rai sprouts usually bend back within half a day to a day. The bottom of each stem still leans the old way, and the top curves round, so the stem looks like a hook. If nothing has changed, wait one more day, and check the cup is in bright light.
@@ -252,8 +252,8 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
   - Wait: Come back tomorrow, on day 5. If you can, also peep in the evening of day 4.
 - **s6 (7 min)**  
   *Parent does:* Ask your child three things: what happened, what they saw that shows it, and why the sprouts did it. Then read the explanation card 'Plants grow towards light' together.  
-  *Parent says:* Say what you think happened. Then tell me what you saw that shows it. Then tell me why you think the sprouts did it.  
-  *Child mode:* Say what you think happened. Say what you saw. Say why the sprouts did it.
+  *Parent says:* What happened to cup A? What did you see that shows it? Why do you think the sprouts did it?  
+  *Child mode:* Tell your grown-up the story of the two cups.
   - Ask: What happened, and how do you know? (good: The sprouts turned back to the light. Cup A's tops bent to the window, but nobody touched them.; Cup B did not change, so turning the cup made cup A bend.)
   - Ask: How can a plant bend without legs? (good: By growing more on one side.; The side away from the window grew longer.)
   - Note: A strong answer: the sprouts bent back towards the window, because they grow towards light. The proof is that cup A changed and cup B did not. The explanation card 'Plants grow towards light' then gives the reason: the shady side of the stem grows faster.
@@ -262,20 +262,20 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 - **question:** Do rai seeds need soil to sprout? Do the sprouts need soil to keep growing?
 - **predict:** Guess first. Will the seeds on wet tissue sprout? After ten days, which cup will have the bigger plants? Why do you think so?
 - **fair test:** Both cups get the same seeds, the same water, and the same place by the window. The only difference is soil or tissue. We sow 10 seeds in each cup, so we can count fairly.
-- **record:** Draw both cups on day 3 and on day 10. Write how many seeds sprouted in each.
+- **record:** On day 3 and on day 10, take a photo of both cups, or draw them. Write how many seeds sprouted in each.
 - **results table:** Cup | Day 3: how many of the 10 seeds sprouted? | Day 10: how tall? How many leaves?
 - **schedule:** day 1: Fill one cup with soil and one with wet tissue. Put 10 seeds on each. Water both. (6 min); day 3: Count the sprouts in each cup. (4 min); day 6: Check both cups are damp, and add a spoon of water if they are dry. Look at the leaves. (3 min); day 10: Compare the two cups. Count the leaves on one plant in each. (7 min)
 - **s1 (6 min)**  
   *Parent does:* 1. Fill cup 1 with soil. 2. Fold tissue into cup 2 and wet it. 3. Count out 10 rai seeds onto each cup. 4. Sprinkle 2 spoons of water on each.  
   *Parent says:* This cup has soil. This one has only wet tissue. Will the seeds sprout without soil? Why do you think so?  
-  *Child mode:* Fill one cup with soil. Fill one with wet tissue. Put 10 seeds on each. Guess: will both sprout? Why?
+  *Child mode:* Fill one cup with soil. Fill one with wet tissue. Put 10 seeds on each. Then make a guess.
   - Ask: Why do you think so? (good: Seeds need soil to grow.; Seeds only need water to sprout.)
   - Note: Keep the tissue damp, not swimming in water. Many children guess that the tissue seeds will not sprout.
 - **s2 (4 min)**  
   *Parent does:* Count the sprouts in each cup. Write the numbers down.  
   *Parent says:* How many seeds sprouted in the soil cup? How many on the tissue? Were you right?  
   *Child mode:* Count the sprouts in each cup. Which cup has more?
-  - Ask: Did the tissue seeds sprout? (good: Yes, almost as many as in the soil.)
+  - Ask: What does the count tell you about soil? (good: Seeds can sprout without soil.)
   - Note: Both cups usually sprout about the same number. A seed needs water, air and warmth to germinate, but not soil.
   - Check: What did the rai seeds on wet tissue do, with no soil? → **They sprouted**
   - Wait: Come back on day 3. Each day, check that the soil and the tissue are damp, and add a spoon of water if they feel dry.
@@ -285,29 +285,29 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
   *Child mode:* Give each cup one spoon of water. Look at the leaves.
   - Wait: Come back on day 6. Keep both cups damp in between.
 - **s4 (7 min)**  
-  *Parent does:* 1. Put the two cups side by side. 2. Pick one plant from each cup and count their leaves. 3. Draw both cups.  
+  *Parent does:* 1. Put the two cups side by side. 2. Pick one plant from each cup and count their leaves. 3. Take a photo of both cups.  
   *Parent says:* Which cup has the bigger plants now? Why might that be?  
-  *Child mode:* Which cup has bigger plants now? Count the leaves. Why are they different?
+  *Child mode:* Put the cups side by side. Count the leaves on one plant in each cup.
   - Ask: Why are the soil plants bigger? (good: The soil gave them something more.; The seed's food ran out on the tissue.; Soil has minerals.)
   - Note: Let your child give their own idea first. Then tell them that each seed carries a little food store, and that this store runs out after some days. By day 10 the soil plants usually have new, jagged leaves growing between the first two round ones. The tissue plants often stay small, and their leaves may turn pale. If the two cups still look the same, keep going a few more days. What your child should take away: seeds sprout without soil, but plants need the minerals in soil to keep growing.
   - Wait: Come back on day 10.
 
 ## Activities
 ### a1 · Which Way Do Our Plants Lean? (10 min)
-- **record:** Draw a simple map of one room. Draw each plant and the window. Draw an arrow for the way each plant leans.
+- **record:** Tell your grown-up how many plants lean towards a window. If you like, also draw a simple map of one room, with an arrow for the way each plant leans.
 - **a1s1 (5 min)**  
   *Parent does:* 1. Walk round your home with your child. 2. Stop at each plant. 3. Look at which way the leaves face and the stems lean.  
-  *Parent says:* Let's look at our plants like detectives. Which way are this plant's leaves facing? Where is the window?  
+  *Parent says:* Let's look at our plants. Which way are this plant's leaves facing? Where is the window?  
   *Child mode:* Find a plant at home. Which way do the leaves face? Where is the window?
   - Ask: Do the plants all lean the same way? (good: Most lean to the window.; The ones near the window lean to it.)
   - Note: Indoor plants nearly always lean or face towards the brightest window. A plant in the middle of a sunny balcony may stand straight, because light comes from many sides.
 - **a1s2 (5 min)**  
-  *Parent does:* Draw the room together. Draw each plant, the window, and an arrow for the way each one leans.  
-  *Parent says:* Let's draw the room. Where is the window? Draw an arrow for each plant. What do you notice about the arrows?  
-  *Child mode:* Draw the room and the window. Draw an arrow for each plant. Where do the arrows point?
+  *Parent does:* Go to each plant with your child. Ask your child to point their arm the way the plant leans. Then count together how many plants lean towards a window.  
+  *Parent says:* Show me with your arm which way this plant leans. Where is the window? Now let's count. How many plants lean towards a window?  
+  *Child mode:* Stand by each plant. Point your arm the way the plant leans. Count the plants that lean towards a window.
   - Think: Did someone push the plants to face the window? Or did they grow that way?
 ### a2 · Soil in a Glass: find the air and the bits (15 min, 2 days)
-- **record:** Draw the bubbles in glass 1. On day 2, draw the layers in glass 2 and label them.
+- **record:** On day 1, tell your grown-up where the bubbles came from. On day 2, take a photo of glass 2 and name each layer, or draw the layers and label them.
 - **schedule:** day 1: Pour water on dry soil and watch for bubbles. Stir soil in water in the second glass and leave it. (12 min); day 2: Look at the layers in the second glass. (3 min)
 - **a2s1 (4 min)**  
   *Parent does:* 1. Fill glass 1 one-third full with dry soil. 2. Let your child pour water in slowly, down the side. 3. Watch the soil closely.  
@@ -327,29 +327,29 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
   - Ask: What is soil made of? (good: Little stones, sand and mud.; Bits of old leaves and roots.)
   - Note: Heavy bits sink first: small stones, then sand, then fine mud on top. Bits of dead leaves and roots float. Potting mix from a nursery often has lots of brown coco peat floating. Fine mud can keep the water cloudy for a day.
   - Wait: Come back tomorrow.
-### a3 · My Plant's Five Needs: a picture map (10 min)
-- **record:** The picture map is the record. Keep it with your sprout drawings.
+### a3 · My Plant's Five Needs: a map on a sheet (10 min)
+- **record:** Take a photo of the map. If you like, also draw the plant and the five things they need.
 - **a3s1 (4 min)**  
-  *Parent does:* Draw the plant in the middle of the sheet with your child.  
-  *Parent says:* Let's draw our plant in the middle. Now, what does this plant need to live?  
-  *Child mode:* Draw your plant in the middle of the page. What does your plant need?
+  *Parent does:* 1. Write the five needs on five paper slips, one each: light, water, air, warmth, soil. 2. Put the plant in the middle of the big sheet.  
+  *Parent says:* Let's put our plant in the middle. Now, what does this plant need to live?  
+  *Child mode:* Put your plant in the middle of the sheet. Then write the five needs on slips.
   - Ask: What does the plant need? (good: Light; Water; Air; Warmth; Soil)
 - **a3s2 (6 min)**  
-  *Parent does:* Around the plant, draw the five needs: light, water, air, warmth and soil. Draw where each one comes from in your home.  
+  *Parent does:* Put the five slips around the plant. For each slip, ask your child to point to where in your home that need comes from.  
   *Parent says:* Where does our plant get light from? And water? Who gives the water? Where does the air come from?  
-  *Child mode:* Draw the five needs around your plant. Where does each one come from?
+  *Child mode:* Put the five slips around your plant. For each one, point to where it comes from at home.
   - Note: Good answers name real places: the window for light, the tap and you for water, the open window for air, the sunny days for warmth, and the pot for soil. Some children add a sixth need: someone who cares for the plant. That is a good thought. For the question at the end, light, air and warmth often come without anyone's help. Water and soil usually need a person.
   - Think: Which need does your plant get without anyone's help?
 
 ## Projects
 ### p1 · Straight or Bent? Two trays of rai to eat (25 min, 8 days)
 - **safety:** A grown-up snips the sprouts with the scissors. Wash the sprouts well before eating.
-- **record:** Draw both trays from the side on day 6 and day 8.
-- **schedule:** day 1: Fill both trays. Scatter the seeds thickly. Water. Put both trays by the window, and label them TURN and STAY. (6 min); day 2: Water both. Turn the TURN tray round. (2 min); day 4: Water both. Turn the TURN tray. Look at both trays from the side. (3 min); day 6: Water both. Turn the TURN tray. Draw both trays. (3 min); day 8: Compare the trays. Snip the sprouts, wash them and add them to curd rice, a sandwich or a salad. (11 min)
+- **record:** Take a photo of both trays from the side on day 6 and day 8, or draw them.
+- **schedule:** day 1: Fill both trays. Scatter the seeds thickly. Water. Put both trays by the window, and label them TURN and STAY. (6 min); day 2: Water both. Turn the TURN tray round. (2 min); day 4: Water both. Turn the TURN tray. Look at both trays from the side. (3 min); day 6: Water both. Turn the TURN tray. Take a photo of both trays from the side. (3 min); day 8: Compare the trays. Snip the sprouts, wash them and add them to curd rice, a sandwich or a salad. (11 min)
 - **p1s1 (6 min)**  
   *Parent does:* 1. Fill both trays with wet folded tissue, or 2 cm of cocopeat. 2. Scatter 1 tablespoon of seeds on each. 3. Water both. 4. Label them TURN and STAY. 5. Put them side by side by the window.  
   *Parent says:* We will turn the TURN tray round every second day, and never move the STAY tray. How do you think they will look after a week? Why?  
-  *Child mode:* Fill two trays. Scatter seeds. Water them. Guess how each tray will look in a week. Why?
+  *Child mode:* Fill two trays. Scatter seeds. Water them. Then make a guess.
   - Ask: Why do you think so? (good: The STAY tray will lean to the window.; The TURN tray will keep bending back and forth.; The TURN tray will grow straight.)
 - **p1s2 (8 min)**  
   *Parent does:* Every second day, water both trays and turn the TURN tray round. Look at both trays from the side.  
@@ -359,8 +359,8 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
   - Wait: Do this on days 2, 4 and 6.
 - **p1s3 (11 min) · grown-up needed**  
   *Parent does:* 1. Compare the trays. 2. Snip the sprouts just above the tissue or cocopeat. 3. Wash them. 4. Add them to curd rice, a sandwich or a salad.  
-  *Parent says:* Which tray grew straight? Why? Now let's taste our rai. Is the taste mild or sharp?  
-  *Child mode:* Which tray grew straight? Why? Now taste the sprouts.
+  *Parent says:* Look at both trays from the side. Which one grew straighter? Now let's taste our rai. Is the taste mild or sharp?  
+  *Child mode:* Look at both trays. Then taste the sprouts.
   - Ask: Why did the TURN tray grow straight? (good: The sprouts bent one way, then the other, so the bends evened out.)
   - Note: Mustard sprouts taste a little sharp and peppery, like the seeds. A grown-up does the snipping.
   - Wait: Come back on day 8.
@@ -369,12 +369,12 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 ### c1 · The Maze Box: can a shoot find the way out? (25 min)
 - **problem:** A shoot grows towards light, even a faint light. Make a box that is dark inside except for one hole. Put a sprouting potato at the far end, behind a wall. Can the shoot find a way round the wall to the hole?
 - **safety:** Do not eat a sprouting potato or its shoots. They can make you ill. A grown-up cuts the hole. Wash hands after touching the potato.
-- **your turn:** Now design your own maze. Draw it first. Check it every 3 days, and close the lid quickly. How many days did your shoot take to reach the light?
+- **your turn:** Now design your own maze. Draw your plan first, or tell your grown-up what you will build. Check it every 3 days, and close the lid quickly. How many days did your shoot take to reach the light?
 - **constraints:** Use a shoebox or any cardboard box with a lid.; Only one hole may let light in.; Put at least one cardboard wall between the potato and the hole.
 - **general:** Cut a hole about the size of a coin in one end of the box. Tape a cardboard wall halfway across the middle, with a gap at one side. Put the potato at the far end and close the lid.; Stand the box with the hole facing a bright window.
 - **creative:** Add a second wall with a gap on the other side, so the shoot must zig-zag.; Use a long box, like a shoe box for boots, to see how far the shoot will grow in the dark.; Make a box with two holes, one big and one small, and see which hole the shoot chooses.
 - **c1s1 (12 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up cuts a coin-sized hole in one end of the box. 2. Tape a cardboard wall across the middle, with a gap on one side. 3. Put the potato in a cup of damp soil at the far end. 4. Close the lid and tape any gaps.  
+  *Parent does:* 1. A grown-up cuts a coin-sized hole in one end of the box. 2. Tape a cardboard wall across the middle, with a gap on one side. 3. Put the potato in a cup of damp soil at the far end. 4. Close the lid and tape any gaps. 5. Stand the box with the hole facing a bright window.  
   *Parent says:* The shoot will be in the dark. Only one hole lets light in, and there is a wall in the way. Do you think the shoot can find the hole? Why?  
   *Child mode:* Build the box with a grown-up. One hole, one wall. Put the potato at the far end. Guess: will the shoot find the hole?
   - Note: A potato that already shows small shoots works best. The potato does not need much water, because they carry their own food and water.
@@ -387,7 +387,7 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 - **c1s3 (8 min)**  
   *Parent does:* When the shoot reaches the hole, open the box and look at the whole shoot together.  
   *Parent says:* Look at the path the shoot took. How did the shoot know which way to grow?  
-  *Child mode:* Look at the shoot's path. How did the shoot find the way?
+  *Child mode:* Look at the shoot's path. Follow it with your finger, from the potato to the hole.
   - Ask: How did the shoot find the way? (good: The shoot grew towards the light.; A little light came round the wall, and the shoot followed it.)
 
 ## Worksheets

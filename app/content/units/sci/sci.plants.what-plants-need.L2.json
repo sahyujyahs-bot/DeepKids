@@ -270,7 +270,7 @@
    "title": "The Turning Cup: will the sprouts turn back?",
    "mins": 27,
    "days": 5,
-   "context": "In this experiment you grow rai (mustard) sprouts in two cups by a window. Then you turn one cup round, so the sprouts lean away from the light. You watch what they do by the next day.",
+   "context": "In this experiment you grow rai (mustard) sprouts in two cups by a window. Then you turn one cup round, so the sprouts lean away from the light. You watch what they do by the next day. You find out whether a plant can move towards the light.",
    "question": "Rai sprouts by a window lean towards the light. If we turn the cup round, what will the sprouts do?",
    "predict": "Guess first. After we turn the cup round, will the sprouts stay leaning into the room, fall over, or turn back to the window? Why do you think so?",
    "fair_test": "Both cups get the same seeds from one packet, the same soil or tissue, the same water and the same window. The only difference is that we turn cup A round and leave cup B as it is. So if cup A changes and cup B does not, the turning made the change.",
@@ -330,10 +330,10 @@
     {
      "day": 5,
      "mins": 12,
-     "what": "Look at both cups. Draw them. Say what you think happened, what you saw, and why the sprouts did it."
+     "what": "Look at both cups. Take a photo of them, or draw them. Say what you think happened, what you saw, and why the sprouts did it."
     }
    ],
-   "record": "On day 4, draw both cups with an arrow for the way the sprouts lean. On day 5, draw them again. Draw the window in both drawings.",
+   "record": "On day 4 and on day 5, take a photo of both cups from the side with the window behind them, or draw both cups with an arrow for the way the sprouts lean.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -381,7 +381,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Write A on one cup and B on the other. 2. Fill each cup with 2 cm of soil, or wet folded tissue. 3. Scatter 1 teaspoon of rai seeds on each. 4. Sprinkle 2 spoons of water on each. 5. Put both cups side by side, by the window.",
-     "say": "We are going to grow rai sprouts in these two cups. Rai is the mustard we put in sambar and poriyal. Help me scatter the seeds.",
+     "say": "We are going to grow rai sprouts in these two cups. Rai is the mustard we put in sambar and poriyal. Help me scatter the seeds. Soon we will turn one cup round and see what the sprouts do.",
      "kid": "Fill the two cups. Scatter the rai seeds on top. Sprinkle water. Put both cups by the window.",
      "parent": "Use a window where light comes from one side, not from all around. A bright window with no hot sun on the cups is best. The seeds can just lie on top of the soil."
     },
@@ -390,7 +390,7 @@
      "mins": 4,
      "do": "Give each cup 1 spoon of water. Look closely at the seeds together. On day 3, do the same again and look for tiny shoots.",
      "say": "Look closely. What has changed since yesterday?",
-     "kid": "Give each cup one spoon of water. Look closely at the seeds. What has changed?",
+     "kid": "Give each cup one spoon of water. Look closely at the seeds.",
      "wait": "Come back tomorrow, on day 2.",
      "ask": [
       {
@@ -408,7 +408,7 @@
      "mins": 3,
      "do": "1. Look at the sprouts from the side. 2. Ask which way they lean. 3. Put a bindi on the side of each cup that faces the window.",
      "say": "Look at the sprouts from the side. Are they standing straight? Which way are they leaning? Let's mark the window side of each cup with a bindi.",
-     "kid": "Look at your sprouts from the side. Which way do they lean? Put a bindi on the window side.",
+     "kid": "Look at your sprouts from the side. Put a bindi on the window side of each cup.",
      "wait": "Come back when the shoots are about 2 cm tall, usually on day 4.",
      "ask": [
       {
@@ -426,7 +426,7 @@
      "mins": 3,
      "do": "Ask your child to guess what will happen if cup A is turned round. Wait for a guess and a reason. Write it down. Then let your child turn cup A round, so its bindi faces the room. Leave cup B as it is.",
      "say": "Right now the sprouts in both cups lean towards the window. If we turn cup A round, they will lean away from the window. What will they do by tomorrow? Why do you think so?",
-     "kid": "Guess. If you turn cup A round, what will the sprouts do? Why? Now turn cup A round.",
+     "kid": "Guess what the sprouts in cup A will do. Then turn cup A round.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -453,9 +453,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. Look at both cups from the side. 2. Look at the bindi on cup A. Is it still facing the room? 3. Look at the tops of the sprouts in cup A. 4. Draw both cups, with the window.",
+     "do": "1. Look at both cups from the side. 2. Look at the bindi on cup A. Is it still facing the room? 3. Look at the tops of the sprouts in cup A. 4. Pick 5 sprouts in each cup. Count how many have their tops pointing at the window.",
      "say": "Look at cup A. The bindi still faces the room. Which way are the tops of the sprouts pointing now? Now look at cup B. What is the same, and what is different?",
-     "kid": "Look at cup A. Which way do the tops point now? Look at cup B. Draw both cups.",
+     "kid": "Pick 5 sprouts in cup A and 5 in cup B. Count how many tops point at the window in each cup.",
      "wait": "Come back tomorrow, on day 5. If you can, also peep in the evening of day 4.",
      "ask": [
       {
@@ -490,8 +490,8 @@
      "id": "s6",
      "mins": 7,
      "do": "Ask your child three things: what happened, what they saw that shows it, and why the sprouts did it. Then read the explanation card 'Plants grow towards light' together.",
-     "say": "Say what you think happened. Then tell me what you saw that shows it. Then tell me why you think the sprouts did it.",
-     "kid": "Say what you think happened. Say what you saw. Say why the sprouts did it.",
+     "say": "What happened to cup A? What did you see that shows it? Why do you think the sprouts did it?",
+     "kid": "Tell your grown-up the story of the two cups.",
      "ask": [
       {
        "q": "What happened, and how do you know?",
@@ -571,7 +571,7 @@
      "what": "Compare the two cups. Count the leaves on one plant in each."
     }
    ],
-   "record": "Draw both cups on day 3 and on day 10. Write how many seeds sprouted in each.",
+   "record": "On day 3 and on day 10, take a photo of both cups, or draw them. Write how many seeds sprouted in each.",
    "setup": [
     {
      "art": "Two cups side by side: one filled with dark soil, one filled with white folded tissue, each with 10 small black seeds on top.",
@@ -588,7 +588,7 @@
      "mins": 6,
      "do": "1. Fill cup 1 with soil. 2. Fold tissue into cup 2 and wet it. 3. Count out 10 rai seeds onto each cup. 4. Sprinkle 2 spoons of water on each.",
      "say": "This cup has soil. This one has only wet tissue. Will the seeds sprout without soil? Why do you think so?",
-     "kid": "Fill one cup with soil. Fill one with wet tissue. Put 10 seeds on each. Guess: will both sprout? Why?",
+     "kid": "Fill one cup with soil. Fill one with wet tissue. Put 10 seeds on each. Then make a guess.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -609,9 +609,9 @@
      "wait": "Come back on day 3. Each day, check that the soil and the tissue are damp, and add a spoon of water if they feel dry.",
      "ask": [
       {
-       "q": "Did the tissue seeds sprout?",
+       "q": "What does the count tell you about soil?",
        "good": [
-        "Yes, almost as many as in the soil."
+        "Seeds can sprout without soil."
        ]
       }
      ],
@@ -639,9 +639,9 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "1. Put the two cups side by side. 2. Pick one plant from each cup and count their leaves. 3. Draw both cups.",
+     "do": "1. Put the two cups side by side. 2. Pick one plant from each cup and count their leaves. 3. Take a photo of both cups.",
      "say": "Which cup has the bigger plants now? Why might that be?",
-     "kid": "Which cup has bigger plants now? Count the leaves. Why are they different?",
+     "kid": "Put the cups side by side. Count the leaves on one plant in each cup.",
      "wait": "Come back on day 10.",
      "ask": [
       {
@@ -664,14 +664,14 @@
    "title": "Which Way Do Our Plants Lean?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look at plants in your home, on your balcony or outside your window. You find out which way each one leans, and where their light comes from.",
+   "context": "In this activity you look at plants in your home, on your balcony or outside your window. You find out which way each one leans, and where their light comes from. You will see if all the plants lean the same way, and why.",
    "materials": [
     {
      "item": "any plants you can see: a pot plant, a money plant, a tulsi, or a tree from the window. If you have none, look at a plant outside your window or at a shop.",
      "qty": "as many as you can find"
     },
     {
-     "item": "paper and a pencil",
+     "item": "paper and a pencil, if you want to draw a map",
      "qty": 1
     }
    ],
@@ -679,10 +679,10 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Find plants. See which way they lean. Draw an arrow from each plant to their light."
+     "what": "Find plants. See which way they lean. Point your arm from each plant to their light, and count how many lean to a window."
     }
    ],
-   "record": "Draw a simple map of one room. Draw each plant and the window. Draw an arrow for the way each plant leans.",
+   "record": "Tell your grown-up how many plants lean towards a window. If you like, also draw a simple map of one room, with an arrow for the way each plant leans.",
    "setup": [
     {
      "art": "A child crouching beside a money plant on a shelf, pointing at the leaves turned towards a window.",
@@ -690,7 +690,7 @@
     },
     {
      "art": "A child's drawing of a room with a window and three plants, each with an arrow pointing to the window.",
-     "caption": "2. Draw the room, the window, and an arrow for each plant."
+     "caption": "2. Point your arm the way each plant leans. Count how many lean to a window."
     }
    ],
    "flow": [
@@ -698,7 +698,7 @@
      "id": "a1s1",
      "mins": 5,
      "do": "1. Walk round your home with your child. 2. Stop at each plant. 3. Look at which way the leaves face and the stems lean.",
-     "say": "Let's look at our plants like detectives. Which way are this plant's leaves facing? Where is the window?",
+     "say": "Let's look at our plants. Which way are this plant's leaves facing? Where is the window?",
      "kid": "Find a plant at home. Which way do the leaves face? Where is the window?",
      "ask": [
       {
@@ -714,9 +714,9 @@
     {
      "id": "a1s2",
      "mins": 5,
-     "do": "Draw the room together. Draw each plant, the window, and an arrow for the way each one leans.",
-     "say": "Let's draw the room. Where is the window? Draw an arrow for each plant. What do you notice about the arrows?",
-     "kid": "Draw the room and the window. Draw an arrow for each plant. Where do the arrows point?",
+     "do": "Go to each plant with your child. Ask your child to point their arm the way the plant leans. Then count together how many plants lean towards a window.",
+     "say": "Show me with your arm which way this plant leans. Where is the window? Now let's count. How many plants lean towards a window?",
+     "kid": "Stand by each plant. Point your arm the way the plant leans. Count the plants that lean towards a window.",
      "think": "Did someone push the plants to face the window? Or did they grow that way?"
     }
    ]
@@ -726,7 +726,7 @@
    "title": "Soil in a Glass: find the air and the bits",
    "mins": 15,
    "days": 2,
-   "context": "In this activity you pour water on dry soil and watch for bubbles. Then you stir the soil in water and let it settle overnight. You find out what soil is made of.",
+   "context": "In this activity you pour water on dry soil and watch for bubbles. Then you stir the soil in water and let it settle overnight. You find out what soil is made of. Soil looks like one thing, but you will find out it holds air and many different bits.",
    "materials": [
     {
      "item": "2 clear glasses or jam jars",
@@ -757,7 +757,7 @@
      "what": "Look at the layers in the second glass."
     }
    ],
-   "record": "Draw the bubbles in glass 1. On day 2, draw the layers in glass 2 and label them.",
+   "record": "On day 1, tell your grown-up where the bubbles came from. On day 2, take a photo of glass 2 and name each layer, or draw the layers and label them.",
    "setup": [
     {
      "art": "A child slowly pouring water onto dry soil in a clear glass, with bubbles rising through the soil.",
@@ -826,13 +826,13 @@
   },
   {
    "id": "a3",
-   "title": "My Plant's Five Needs: a picture map",
+   "title": "My Plant's Five Needs: a map on a sheet",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you draw one plant from your home in the middle of a page. Around the plant, you draw the five things they need, and where in your home each one comes from.",
+   "context": "In this activity you put one plant from your home in the middle of a big sheet. Around the plant, you place five paper slips, one for each thing they need. You find out where in your home each need comes from.",
    "materials": [
     {
-     "item": "a big sheet of paper and colour pencils",
+     "item": "a big sheet of paper, a pen, and 5 small paper slips",
      "qty": 1
     },
     {
@@ -844,27 +844,27 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Draw the plant and their five needs, and where each one comes from."
+     "what": "Write the five needs on slips. Put them around the plant, and point to where each one comes from."
     }
    ],
-   "record": "The picture map is the record. Keep it with your sprout drawings.",
+   "record": "Take a photo of the map. If you like, also draw the plant and the five things they need.",
    "setup": [
     {
      "art": "A child drawing a pot plant in the middle of a big paper sheet.",
-     "caption": "1. Draw your plant in the middle."
+     "caption": "1. Put your plant in the middle of the sheet."
     },
     {
      "art": "The finished drawing: a plant in the middle with five arrows to a window with a sun, a tap, swirls of air, a warm sun-patch and a pot of soil.",
-     "caption": "2. Draw the five needs around them, and where each comes from."
+     "caption": "2. Put a slip for each need around the plant. Point to where each one comes from."
     }
    ],
    "flow": [
     {
      "id": "a3s1",
      "mins": 4,
-     "do": "Draw the plant in the middle of the sheet with your child.",
-     "say": "Let's draw our plant in the middle. Now, what does this plant need to live?",
-     "kid": "Draw your plant in the middle of the page. What does your plant need?",
+     "do": "1. Write the five needs on five paper slips, one each: light, water, air, warmth, soil. 2. Put the plant in the middle of the big sheet.",
+     "say": "Let's put our plant in the middle. Now, what does this plant need to live?",
+     "kid": "Put your plant in the middle of the sheet. Then write the five needs on slips.",
      "ask": [
       {
        "q": "What does the plant need?",
@@ -881,9 +881,9 @@
     {
      "id": "a3s2",
      "mins": 6,
-     "do": "Around the plant, draw the five needs: light, water, air, warmth and soil. Draw where each one comes from in your home.",
+     "do": "Put the five slips around the plant. For each slip, ask your child to point to where in your home that need comes from.",
      "say": "Where does our plant get light from? And water? Who gives the water? Where does the air come from?",
-     "kid": "Draw the five needs around your plant. Where does each one come from?",
+     "kid": "Put the five slips around your plant. For each one, point to where it comes from at home.",
      "parent": "Good answers name real places: the window for light, the tap and you for water, the open window for air, the sunny days for warmth, and the pot for soil. Some children add a sixth need: someone who cares for the plant. That is a good thought. For the question at the end, light, air and warmth often come without anyone's help. Water and soil usually need a person.",
      "think": "Which need does your plant get without anyone's help?"
     }
@@ -896,7 +896,7 @@
    "title": "Five Needs: grow your plant to a flower",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a card game about the five needs of a plant. Each player collects light, water, air, warmth and soil for their own plant. Trouble cards can take a need away.",
+   "context": "This is a card game about the five needs of a plant. Each player collects light, water, air, warmth and soil for their own plant. Trouble cards can take a need away. You will find out what goes wrong when one need is missing.",
    "printables": [
     {
      "kind": "cards",
@@ -1006,11 +1006,11 @@
     }
    ],
    "rules": [
-    "Each player draws a plant sheet: a pot with five empty boxes around it, labelled Light, Water, Air, Warmth and Soil, and a flower at the top. Shuffle the 25 cards and put them face down in a pile.",
+    "Each player makes a plant sheet. Fold a sheet of paper into five boxes, and write Light, Water, Air, Warmth and Soil, one in each box. Shuffle the 25 cards and put them face down in a pile.",
     "Take turns. Turn over the top card. Read the front aloud, then turn it over and read the back aloud.",
     "If it is a need card and your box for that need is empty, put the card in the box. If you already have that need, put the card at the bottom of the pile.",
     "If it is a Trouble card and you have the need card it names, give that card back. Put the Trouble card, and the card you gave back, at the bottom of the pile. If you do not have that need card, just put the Trouble card at the bottom.",
-    "When all five of your boxes are full, colour in your flower and say the five needs aloud. Then you stop taking turns.",
+    "When all five of your boxes are full, your plant has flowered. Say the five needs aloud. Then you stop taking turns.",
     "The game ends when every plant has flowered. Everyone wins together. There are 4 cards of each need, so every player can always find the one they are missing."
    ],
    "setup": [
@@ -1027,7 +1027,7 @@
     {
      "id": "g1s1",
      "mins": 3,
-     "do": "1. Cut out the 25 cards. 2. Each player draws a plant sheet with a pot and five boxes. 3. Shuffle the cards and put them face down.",
+     "do": "1. Cut out the 25 cards. 2. Each player folds a sheet of paper into five boxes and writes Light, Water, Air, Warmth and Soil, one in each box. 3. Shuffle the cards and put them face down.",
      "say": "Your plant needs five things to flower. Can you guess what they are? Let's find out as we play.",
      "kid": "Look at your plant sheet. There are five boxes. Each box is a need."
     },
@@ -1052,7 +1052,7 @@
      "mins": 2,
      "do": "When a player's plant flowers, they say the five needs aloud.",
      "say": "Your plant has flowered. Tell us the five needs.",
-     "kid": "Say the five needs: light, water, air, warmth, soil.",
+     "kid": "Say the five needs of a plant, without looking at your cards.",
      "check": {
       "t": "mcq",
       "q": "Which one is NOT one of a plant's five needs?",
@@ -1147,8 +1147,8 @@
      "id": "g2s2",
      "mins": 7,
      "do": "Read a card, shine the torch from that place, and watch the sprouts turn. After each card, ask why.",
-     "say": "Why did you lean that way? How would a real sprout do that without muscles?",
-     "kid": "Lean towards the light, slowly. Why did you lean that way?",
+     "say": "Where is the Sun now? Which way did you lean, and why?",
+     "kid": "Lean towards the light, slowly. Keep your feet still.",
      "ask": [
       {
        "q": "How does a real sprout lean, without muscles?",
@@ -1163,8 +1163,8 @@
      "id": "g2s3",
      "mins": 1,
      "do": "Read this card last: 'Someone turns your pot round, so the light is behind you'.",
-     "say": "A real rai sprout turns back to the window in about a day. You turned in a few seconds. What is different about a real sprout?",
-     "kid": "A real sprout turns back to the window in about a day. How is a real sprout different from you?",
+     "say": "A real rai sprout takes about a day to turn back to the window. You took a few seconds. What is different about a real sprout?",
+     "kid": "Think about how fast you turned, and how a real sprout turns.",
      "ask": [
       {
        "q": "What is different about a real sprout?",
@@ -1184,7 +1184,7 @@
    "title": "Straight or Bent? Two trays of rai to eat",
    "mins": 25,
    "days": 8,
-   "context": "In this project you grow rai sprouts in two trays by the window. You turn one tray round every second day, and never turn the other. After a week you compare them, then snip the sprouts and eat them.",
+   "context": "In this project you grow rai sprouts in two trays by the window. You find out whether turning a tray changes how the sprouts grow. You turn one tray round every second day, and never turn the other. After a week you compare them, then snip the sprouts and eat them.",
    "materials": [
     {
      "item": "rai (mustard) seeds",
@@ -1226,7 +1226,7 @@
     {
      "day": 6,
      "mins": 3,
-     "what": "Water both. Turn the TURN tray. Draw both trays."
+     "what": "Water both. Turn the TURN tray. Take a photo of both trays from the side."
     },
     {
      "day": 8,
@@ -1234,7 +1234,7 @@
      "what": "Compare the trays. Snip the sprouts, wash them and add them to curd rice, a sandwich or a salad."
     }
    ],
-   "record": "Draw both trays from the side on day 6 and day 8.",
+   "record": "Take a photo of both trays from the side on day 6 and day 8, or draw them.",
    "safety": "A grown-up snips the sprouts with the scissors. Wash the sprouts well before eating.",
    "setup": [
     {
@@ -1252,7 +1252,7 @@
      "mins": 6,
      "do": "1. Fill both trays with wet folded tissue, or 2 cm of cocopeat. 2. Scatter 1 tablespoon of seeds on each. 3. Water both. 4. Label them TURN and STAY. 5. Put them side by side by the window.",
      "say": "We will turn the TURN tray round every second day, and never move the STAY tray. How do you think they will look after a week? Why?",
-     "kid": "Fill two trays. Scatter seeds. Water them. Guess how each tray will look in a week. Why?",
+     "kid": "Fill two trays. Scatter seeds. Water them. Then make a guess.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1277,8 +1277,8 @@
      "id": "p1s3",
      "mins": 11,
      "do": "1. Compare the trays. 2. Snip the sprouts just above the tissue or cocopeat. 3. Wash them. 4. Add them to curd rice, a sandwich or a salad.",
-     "say": "Which tray grew straight? Why? Now let's taste our rai. Is the taste mild or sharp?",
-     "kid": "Which tray grew straight? Why? Now taste the sprouts.",
+     "say": "Look at both trays from the side. Which one grew straighter? Now let's taste our rai. Is the taste mild or sharp?",
+     "kid": "Look at both trays. Then taste the sprouts.",
      "wait": "Come back on day 8.",
      "adult": true,
      "ask": [
@@ -1299,7 +1299,7 @@
    "id": "c1",
    "title": "The Maze Box: can a shoot find the way out?",
    "mins": 25,
-   "context": "This is a making challenge. You build a dark box with one hole and a wall inside it. Then you see if a sprouting potato can grow round the wall to reach the light. It may take one to three weeks, and it does not always work. If the shoot has not reached the hole after three weeks, that is a result too.",
+   "context": "This is a making challenge. You build a dark box with one hole and a wall inside it. Then you see if a sprouting potato can grow round the wall to reach the light. You will find out how a shoot finds the way to light. It may take one to three weeks, and it does not always work. If the shoot has not reached the hole after three weeks, that is a result too.",
    "problem": "A shoot grows towards light, even a faint light. Make a box that is dark inside except for one hole. Put a sprouting potato at the far end, behind a wall. Can the shoot find a way round the wall to the hole?",
    "constraints": [
     "Use a shoebox or any cardboard box with a lid.",
@@ -1322,7 +1322,7 @@
     "Use a long box, like a shoe box for boots, to see how far the shoot will grow in the dark.",
     "Make a box with two holes, one big and one small, and see which hole the shoot chooses."
    ],
-   "your_turn": "Now design your own maze. Draw it first. Check it every 3 days, and close the lid quickly. How many days did your shoot take to reach the light?",
+   "your_turn": "Now design your own maze. Draw your plan first, or tell your grown-up what you will build. Check it every 3 days, and close the lid quickly. How many days did your shoot take to reach the light?",
    "setup": [
     {
      "art": "An open shoebox with a coin-sized hole in one end, a cardboard wall taped halfway across inside, and a sprouting potato in a cup at the far end.",
@@ -1337,7 +1337,7 @@
     {
      "id": "c1s1",
      "mins": 12,
-     "do": "1. A grown-up cuts a coin-sized hole in one end of the box. 2. Tape a cardboard wall across the middle, with a gap on one side. 3. Put the potato in a cup of damp soil at the far end. 4. Close the lid and tape any gaps.",
+     "do": "1. A grown-up cuts a coin-sized hole in one end of the box. 2. Tape a cardboard wall across the middle, with a gap on one side. 3. Put the potato in a cup of damp soil at the far end. 4. Close the lid and tape any gaps. 5. Stand the box with the hole facing a bright window.",
      "say": "The shoot will be in the dark. Only one hole lets light in, and there is a wall in the way. Do you think the shoot can find the hole? Why?",
      "kid": "Build the box with a grown-up. One hole, one wall. Put the potato at the far end. Guess: will the shoot find the hole?",
      "adult": true,
@@ -1357,7 +1357,7 @@
      "mins": 8,
      "do": "When the shoot reaches the hole, open the box and look at the whole shoot together.",
      "say": "Look at the path the shoot took. How did the shoot know which way to grow?",
-     "kid": "Look at the shoot's path. How did the shoot find the way?",
+     "kid": "Look at the shoot's path. Follow it with your finger, from the potato to the hole.",
      "ask": [
       {
        "q": "How did the shoot find the way?",
