@@ -978,8 +978,9 @@ function fxDraw(open, cards) {
       ? `<li class="fxpart open ${st}" data-s="${i}" style="--kc:${kc}"><div class="fxpbar"><button class="fxph" data-fx="map" aria-expanded="true">${head}</button><div class="fxbar"><i style="width:0"></i></div></div><div class="fxstack">${cards}</div></li>`
       : `<li class="fxpart ${st}" data-s="${i}" style="--kc:${kc}"><button class="fxph" data-fx="sec" data-s="${i}" aria-expanded="false">${head}</button></li>`;
   };
-  const d = fxShow(`<div class="fxpage"><header class="fxhd"><div class="fxcover">${fxImg(u, "summary", u.summary.art, "fxhero")}</div>
-    <div class="fxtitle"><button class="fxround" data-fx="close" aria-label="Close this unit">${icon("close")}</button><span class="fxeb2">${esc(u.id.split(".")[1].replace(/-/g, " "))} · Class ${cls}</span><h1>${esc(u.title)}</h1><p class="fxsum">${esc(u.summary.text)}</p><button class="link sm" data-fx="sum">Read all</button>
+  const d =
+    fxShow(`<div class="fxpage"><header class="fxhd"><button class="fxround" data-fx="close" aria-label="Close this unit">${icon("close")}</button><div class="fxcover">${fxImg(u, "summary", u.summary.art, "fxhero")}</div>
+    <div class="fxtitle"><span class="fxeb2">${esc(u.id.split(".")[1].replace(/-/g, " "))} · Class ${cls}</span><h1>${esc(u.title)}</h1><p class="fxsum">${esc(u.summary.text)}</p><button class="link sm" data-fx="sum">Read all</button>
     <div class="fxtiles"><span><b>${SD}</b>${it ? "session" : "day"}${SD === 1 ? "" : "s"}</span><span><b>${SL.length}</b>parts</span><span><b>${done}</b>done</span>${fxStar()}</div>${ref ? `<p class="fxmeta">${esc(ref)}</p>` : ""}</div></header>
     <div class="fxcols"><div class="fxlist">${done || spent ? `<div class="fxbar"><i style="width:${(100 * done) / SL.length}%"></i></div><p class="fxsm">${done} of ${SL.length} parts done · ${fxMin(spent)} spent. ${fxScore(u)}</p>` : ""}
     ${cont >= 0 && cont < SL.length ? `<button class="btn big fxstart" data-fx="sec" data-s="${cont}" data-c="${pos.c || 0}">${icon("play")}Continue: ${fxKC(SL[cont].kind)[0]}</button>` : `<button class="btn big fxstart" data-fx="sec" data-s="0">${icon("play")}Start</button>`}
@@ -1033,7 +1034,7 @@ function fxShowSection(si, ci) {
       si,
       FXCARDS.map(
         (c, i) =>
-          `<section class="fxc${F.done[u.id]?.[c.key] ? " isdone" : ""}" data-i="${i}" data-key="${esc(c.key)}">${i < last ? `<div class="fxch"><span class="fxmeta">${c.label || `${i + 1} of ${last}`}</span><button data-fx="save" aria-label="Save this card" aria-pressed="${!!F.saved[u.id]?.[c.key]}">${F.saved[u.id]?.[c.key] ? "❤️" : "🤍"}</button><button data-fx="read" aria-label="Read this card aloud">🔊</button></div>` : ""}${c.html}</section>`,
+          `<section class="fxc${F.done[u.id]?.[c.key] ? " isdone" : ""}" data-i="${i}" data-key="${esc(c.key)}">${i < last ? `<div class="fxch"><span class="fxmeta">${c.label || (last > 1 ? `${i + 1} of ${last}` : "")}</span><button data-fx="save" aria-label="Save this card" aria-pressed="${!!F.saved[u.id]?.[c.key]}">${F.saved[u.id]?.[c.key] ? "❤️" : "🤍"}</button><button data-fx="read" aria-label="Read this card aloud">🔊</button></div>` : ""}${c.html}</section>`,
       ).join(""),
     ),
     page = d.querySelector(".fxpage"),
