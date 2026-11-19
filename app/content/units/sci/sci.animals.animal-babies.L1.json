@@ -474,18 +474,18 @@
      "id": "s3",
      "mins": 2,
      "do": "Read the seahorse card again. Then ask the question.",
-     "say": "Think about the seahorse family. The mother seahorse lays eggs, and a tiny baby grows inside each egg. Now, which parent keeps the eggs safe on their body until the babies hatch?",
-     "kid": "A seahorse mother lays eggs. A tiny baby grows inside each egg. Think about it, then choose.",
+     "say": "A mother seahorse lays eggs. A tiny baby grows inside each egg. Who do you think looks after the eggs until the babies hatch?",
+     "kid": "A mother seahorse lays eggs. A tiny baby grows inside each egg.",
      "check": {
       "t": "mcq",
-      "q": "Which seahorse parent keeps the eggs, with the tiny babies inside, safe on their body until they hatch?",
+      "q": "Who looks after the eggs until the babies hatch?",
       "options": [
        "The mother",
        "The father",
        "Neither. The eggs are left on their own."
       ],
       "a": 1,
-      "why": "The father. The mother puts her eggs into a pouch on his belly, and he keeps them safe there until the tiny seahorses hatch."
+      "why": "The father does. The mother puts her eggs into a pouch on his belly. He keeps them safe in the pouch until the tiny seahorses hatch."
      },
      "parent": "In seahorses, the mother puts her eggs into the father's belly pouch. He carries them for a few weeks, and then the tiny seahorses come out. Most animals are not like this, which is why the game has this card."
     }

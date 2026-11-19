@@ -472,6 +472,7 @@ sheet.addEventListener("close", () => {
 document.getElementById("nav").addEventListener("click", (e) => {
   const b = e.target.closest("button[data-tab]");
   if (!b) return;
+  fxClose(); // on a big screen a unit sits beside this bar: choosing a section leaves the unit
   const m = document.getElementById("main");
   m.classList.remove("enter");
   void m.offsetWidth;

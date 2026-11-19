@@ -488,7 +488,7 @@ function fxCards(u) {
       if (k === "worksheets")
         add(
           "ws." + x.id,
-          `${fxImg(u, "ws." + x.id, "")}<div class="fxtxt"><span class="fxeb">📝 Worksheet · ${esc(x.tier)} · ${x.items.length} questions · ${x.mins} min</span><h2>${esc(x.title)}</h2>${fxCarousel(u, "ws." + x.id, x.items)}<div class="fxrow"><button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print with answer key</button><button class="fxb" data-fx="photo">📷 Check my paper</button><button class="fxb" data-fx="paper" data-id="${x.id}">✔ We did it on paper</button></div></div>`,
+          `${fxImg(u, "ws." + x.id, "")}<div class="fxtxt"><span class="fxeb">📝 Worksheet · ${esc(x.tier)} · ${x.items.length} questions · ${x.mins} min</span>${fxCarousel(u, "ws." + x.id, x.items)}<div class="fxrow"><button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print with answer key</button><button class="fxb" data-fx="photo">📷 Check my paper</button><button class="fxb" data-fx="paper" data-id="${x.id}">✔ We did it on paper</button></div></div>`,
           x.title,
           { wide: 1 },
         );

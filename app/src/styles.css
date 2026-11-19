@@ -4111,19 +4111,6 @@ a.btn {
 html:has(.fxdlg[open]) {
   overflow: hidden;
 }
-.fxdlg::backdrop {
-  background: var(--bg);
-}
-.fxtop {
-  position: absolute;
-  inset: 0 0 auto;
-  z-index: 3;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: calc(env(safe-area-inset-top, 0) + 10px) 12px 10px;
-  background: linear-gradient(var(--bg) 60%, transparent);
-}
 .fxx {
   border: 0;
   width: 38px;
@@ -4133,41 +4120,6 @@ html:has(.fxdlg[open]) {
   color: var(--ink);
   font: 700 var(--fs-4) var(--body);
   flex: none;
-}
-.fxfeed {
-  height: 100%;
-  overflow-y: auto;
-  scroll-snap-type: y mandatory;
-  overscroll-behavior: contain;
-  scrollbar-width: none;
-}
-.fxfeed::-webkit-scrollbar {
-  display: none;
-}
-.fxc {
-  height: 100%;
-  scroll-snap-align: start;
-  scroll-snap-stop: always;
-  position: relative;
-  display: flex;
-  justify-content: center;
-  padding: 56px 0 0;
-}
-.fxin {
-  width: 100%;
-  max-width: 560px;
-  height: 100%;
-  background: var(--bg);
-  overflow-y: auto;
-  overflow-x: hidden;
-  display: flex;
-  flex-direction: column;
-  scrollbar-width: thin;
-}
-.fxc.isdone .fxin {
-  box-shadow:
-    0 0 0 4px var(--good),
-    0 10px 40px #0006;
 }
 .fximg {
   flex: none;
@@ -4519,30 +4471,6 @@ input.fxin {
   height: 100%;
   border: 0;
 }
-.fxact {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  bottom: calc(env(safe-area-inset-bottom, 0) + 22px);
-  z-index: 3;
-  display: flex;
-  gap: 8px;
-  padding: 6px;
-  border-radius: 999px;
-  background: #211b33e6;
-  box-shadow: 0 6px 20px #0005;
-}
-.fxact button {
-  white-space: nowrap;
-  height: 44px;
-  min-width: 44px;
-  border: 0;
-  border-radius: 999px;
-  background: #fff2;
-  color: #fff;
-  font: 700 var(--fs-4) var(--body);
-  padding: 0 12px;
-}
 .fxfab {
   position: fixed;
   right: 12px;
@@ -4830,62 +4758,6 @@ dialog .fxfab {
   background: var(--sunk);
 }
 
-.fxgo {
-  background: var(--forest);
-  box-shadow: 0 3px 0 var(--forestD);
-  font-size: var(--fs-5);
-  min-height: 54px;
-}
-.fxparts {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: grid;
-  gap: 8px;
-}
-.fxparts button {
-  width: 100%;
-  display: flex;
-  gap: 12px;
-  align-items: center;
-  text-align: left;
-  border: 0;
-  background: var(--surface);
-  border-radius: 18px;
-  padding: 10px 12px;
-  box-shadow: var(--lift);
-  font: inherit;
-}
-.fxparts button.done {
-  background: color-mix(in srgb, var(--good) 12%, var(--surface));
-}
-.fxparts button.started {
-  box-shadow: inset 0 0 0 2px var(--sun);
-}
-.fxpe {
-  width: 44px;
-  height: 44px;
-  flex: none;
-  display: grid;
-  place-items: center;
-  font-size: var(--fs-6);
-  background: var(--sunk);
-  border-radius: 14px;
-}
-.fxparts b {
-  font: 600 var(--fs-4) var(--display);
-}
-.fxlead {
-  min-height: 100%;
-  align-content: center;
-  text-align: center;
-  justify-items: center;
-  background: radial-gradient(circle at 50% 25%, color-mix(in srgb, var(--sun) 40%, var(--bg)), var(--bg) 70%);
-}
-.fxbige {
-  font-size: 84px;
-  line-height: 1;
-}
 .fxneed {
   display: grid;
   gap: 4px;
@@ -4949,17 +4821,6 @@ dialog .fxfab {
 .fxpieces.board .fxpc {
   min-height: 120px;
   font-size: var(--fs-4);
-}
-.fxcrumb {
-  position: sticky;
-  top: 0;
-  z-index: 1;
-  padding: 8px 16px;
-  background: color-mix(in srgb, var(--bg) 92%, transparent);
-  backdrop-filter: blur(6px);
-  font: 700 var(--fs-2) var(--body);
-  color: var(--muted);
-  border-bottom: 1px solid var(--line);
 }
 .fxct {
   font: 700 var(--fs-4) var(--display) !important;
@@ -5145,36 +5006,6 @@ dialog .fxfab {
   letter-spacing: 0.04em;
   text-transform: uppercase;
   white-space: nowrap;
-}
-.fxparts .fxpe {
-  background: color-mix(in srgb, var(--kc) 16%, var(--surface));
-  color: var(--kc);
-}
-.fxparts .fxsm {
-  display: block;
-}
-.fxparts button > .ico {
-  margin-left: auto;
-  color: var(--muted);
-}
-.fxfeed .fxin {
-  border-top: 8px solid var(--kc);
-}
-.fxfeed .fxlead {
-  background: radial-gradient(circle at 50% 25%, color-mix(in srgb, var(--kc) 30%, var(--bg)), var(--bg) 72%);
-}
-.fxfeed .fxeb {
-  color: color-mix(in srgb, var(--kc) 85%, #000);
-}
-.fxnext {
-  display: grid;
-  gap: 4px;
-  background: var(--surface);
-  border-radius: 18px;
-  padding: 12px 16px;
-  box-shadow: var(--lift);
-  width: 100%;
-  border-left: 6px solid var(--kc);
 }
 .fxwhym {
   background: color-mix(in srgb, #0f8a7e 14%, var(--surface));
@@ -5432,27 +5263,6 @@ header.top .iconbtn {
   color: var(--margin) !important;
   box-shadow: none !important;
 }
-.fxdlg {
-  border: 0;
-  padding: 0;
-  margin: 0;
-  position: fixed;
-  inset: 0 0 auto;
-  width: auto;
-  max-width: none;
-  height: 100dvh;
-  max-height: none;
-  overscroll-behavior: none;
-  background: var(--bg);
-  color: var(--ink);
-  overflow: hidden;
-  font-family: var(--body);
-}
-.fxc .fxtxt h1,
-.fxc .fxtxt h2 {
-  font-family: var(--poster);
-  font-weight: 400;
-}
 .fxvoice {
   background: var(--surface);
   padding: 12px 14px;
@@ -5660,26 +5470,6 @@ header.top .iconbtn {
   display: grid !important;
   grid-template-columns: 1fr !important;
   gap: 6px !important;
-}
-.fxstep {
-  display: grid;
-  gap: 6px;
-}
-.fxstep span {
-  font: 600 var(--fs-3) var(--body);
-  color: var(--muted);
-}
-.fxstep b {
-  display: block;
-  height: 4px;
-  border-radius: 2px;
-  background: var(--rule);
-  overflow: hidden;
-}
-.fxstep b i {
-  display: block;
-  height: 100%;
-  background: var(--ink);
 }
 .fxintro {
   display: flex;
@@ -6166,9 +5956,6 @@ body {
   .wk1 {
     animation: breathe 4s ease-in-out infinite;
   }
-  .fxc.isdone .fxin {
-    animation: donepop 0.5s ease-out;
-  }
 }
 @keyframes donepop {
   0% {
@@ -6577,59 +6364,6 @@ body {
 }
 
 /* A unit's first screen: the cover picture, a paper sheet over it, one button to go on, and a tile per kind of part */
-.fxmap {
-  height: 100%;
-  overflow-y: auto;
-  background: var(--bg);
-  padding-bottom: 96px;
-}
-.fxcover {
-  position: relative;
-  max-width: 720px;
-  margin: 0 auto;
-}
-.fxcover .fximg.fxhero {
-  aspect-ratio: 4/3;
-  max-height: 46dvh;
-}
-.fxround {
-  position: absolute;
-  left: 16px;
-  top: calc(env(safe-area-inset-top, 0) + 16px);
-  width: 40px;
-  height: 40px;
-  border: 0;
-  border-radius: 50%;
-  background: rgba(255, 255, 255, 0.92);
-  color: var(--ink);
-  display: grid;
-  place-items: center;
-}
-.fxsheetp {
-  position: relative;
-  max-width: 688px;
-  height: auto;
-  margin: -34px auto 0;
-  padding: 22px 22px 0;
-  display: grid;
-  gap: 12px;
-  border-radius: 26px 26px 0 0;
-  box-shadow: none;
-  overflow: visible;
-}
-.fxeb2 {
-  font: 800 var(--fs-2) var(--body);
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--margin);
-}
-.fxsheetp h1 {
-  font: 400 clamp(26px, 7vw, 34px) / 1.12 var(--poster);
-}
-.fxsheetp h2 {
-  font: 700 var(--fs-5) var(--body);
-  margin-top: 12px;
-}
 .fxsum {
   font: 500 var(--fs-4) / 1.5 var(--body);
   color: color-mix(in srgb, var(--ink) 85%, var(--bg));
@@ -6642,65 +6376,7 @@ body {
 .fxsum.open {
   display: block;
 }
-.fxsheetp > .link {
-  justify-self: start;
-  margin-top: -8px;
-}
-.fxpills {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-.fxpills span {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-  padding: 4px 12px;
-  border-radius: 999px;
-  background: var(--sunbg);
-  color: var(--sunink);
-  font: 600 var(--fs-3) var(--body);
-}
-.fxpills .ico {
-  width: 15px;
-  height: 15px;
-}
-.fxsheetp > .fxbar {
-  flex: none;
-  margin-top: 4px;
-}
-.fxsheetp > .fxbar + .fxsm {
-  margin-top: -6px;
-}
-.fxstart {
-  width: 100%;
-}
 /* unit page: one list of parts, grouped by kind, with a row of chips that jump to each group */
-.fxjump {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-.fxgroup h2 {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin: 18px 0 8px;
-}
-.fxgroup h2 .ico {
-  width: 24px;
-  height: 24px;
-  color: var(--kc);
-}
-.fxgroup h2 span {
-  margin-left: auto;
-  font: 500 var(--fs-3) var(--body);
-  color: var(--muted);
-}
-.fxparts button {
-  box-shadow: none;
-  border-radius: 16px;
-}
 
 /* Library: a big picture on the left, a short title and line, the board chapter as a small tag, and a round + to add */
 .libtop {
@@ -6905,28 +6581,6 @@ body {
 @media (min-width: 900px) {
   /* Plan on a big screen: adding on the left, questions and lists on the right; the month with its chosen day beside it */
   /* a unit's front page on a big screen: the picture stays on the left, the words and the parts on the right */
-  .fxmap {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-    gap: 32px;
-    align-items: start;
-    max-width: 1180px;
-    margin: 0 auto;
-  }
-  .fxcover {
-    position: sticky;
-    top: 0;
-    max-width: none;
-  }
-  .fxcover .fximg.fxhero {
-    max-height: 100dvh;
-    aspect-ratio: 3/4;
-  }
-  .fxsheetp {
-    margin-top: 0;
-    max-width: none;
-    padding-top: 40px;
-  }
   /* Library on a big screen: the filters stay open as a panel on the left, the topics in two columns */
   .libwide {
     display: grid;
@@ -7148,15 +6802,6 @@ body {
   letter-spacing: 0.04em;
   color: var(--ink);
   margin-right: 6px;
-}
-.fxcl {
-  border: 0;
-  background: 0 0;
-  padding: 0;
-  font: inherit;
-  color: var(--aqua);
-  text-decoration: underline;
-  cursor: pointer;
 }
 /* a list you pick from: a bold arrow, well in from the edge */
 select.inp {

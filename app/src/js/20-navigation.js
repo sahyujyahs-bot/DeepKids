@@ -406,6 +406,7 @@ const fxHome = () => {
     if (!confirm("Leave setup? Your answers so far are kept.")) return;
   }
   if (sheet.open) sheet.close();
+  fxClose();
   ui.tday = null;
   tab = "today";
   render();

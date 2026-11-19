@@ -195,10 +195,10 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
   - Ask: Which of these parents were fathers? (good: The seahorse and the penguin.; A human father can carry a baby too.)
 - **s3 (2 min)**  
   *Parent does:* Read the seahorse card again. Then ask the question.  
-  *Parent says:* Think about the seahorse family. The mother seahorse lays eggs, and a tiny baby grows inside each egg. Now, which parent keeps the eggs safe on their body until the babies hatch?  
-  *Child mode:* A seahorse mother lays eggs. A tiny baby grows inside each egg. Think about it, then choose.
+  *Parent says:* A mother seahorse lays eggs. A tiny baby grows inside each egg. Who do you think looks after the eggs until the babies hatch?  
+  *Child mode:* A mother seahorse lays eggs. A tiny baby grows inside each egg.
   - Note: In seahorses, the mother puts her eggs into the father's belly pouch. He carries them for a few weeks, and then the tiny seahorses come out. Most animals are not like this, which is why the game has this card.
-  - Check: Which seahorse parent keeps the eggs, with the tiny babies inside, safe on their body until they hatch? → **The father**
+  - Check: Who looks after the eggs until the babies hatch? → **The father**
 
 ## Experiments
 ### e1 · Heads Tall: is a baby shaped like a small grown-up? (25 min)
