@@ -316,10 +316,10 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Parent does:* Everyone starts at the SEA with a blue bead. Do the first roll together as practice.  
   *Parent says:* Most of Earth's water is in the sea, so that is where every drop starts. Practise one roll together.  
   *Child mode:* Start at the SEA. Take a blue bead. Roll the dice. Read the card. Where do you go?
-  - Check: Say you roll a 4 and go from the SEA to a CLOUD. What is that change called? → **Evaporation**
+  - Check: A drop goes from the SEA to a CLOUD. What is that change called? → **Evaporation**
 - **s3 (12 min)**  
   *Parent does:* 1. Take turns to roll and move. 2. At each place, the player threads a bead and says the name of the change. 3. Fill in the score sheet together.  
-  *Parent says:* Remember to say the name of the change as you move. Cloud to sea is precipitation, falling as rain. Plant to cloud is transpiration.  
+  *Parent says:* Remember to say the name of the change as you move. Cloud to sea is precipitation, falling as rain. Plant to cloud is transpiration, when a plant lets out water vapour.  
   *Child mode:* Roll and move. Thread a bead. Say the name of the change. Write it on your sheet.
   - Ask: Why do you think the ICE card makes you stay so often? (good: Ice in a glacier stays frozen for a very long time.; It only melts when spring comes.)
   - Ask: Why does the SEA card make you stay so often? (good: The sea is huge and deep.; Water stays in the sea for thousands of years.)
@@ -345,7 +345,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - **s2 (9 min) · grown-up needed**  
   *Parent does:* 1. Turn over a card and shout it. 2. Watch who does it right. 3. The last one becomes the next caller. 4. Play all 12 cards.  
   *Parent says:* SUN! Jiggle fast and spread out! You've evaporated. You're vapour now, invisible gas, all over the room.  
-  *Child mode:* Listen! Do the call as fast as you can. Sun means spread out. Cold means hold hands. Heavy means fall! The card tells you what to do for the others.
+  *Child mode:* Listen for the call and do it fast. Sun means spread out. Cold means hold hands. Heavy means fall down.
   - Note: Keep the running gentle on a smooth floor. The big ideas to look for: heat spreads molecules apart into a gas. Cold brings them together into drops. Drops join until they are heavy enough to fall. Salt never flies with the vapour. The SPECK card shows that cloud drops need a speck to form on.
   - Check: In the game, the call was 'COLD!' and molecules held hands. What real change was that? → **Condensation: vapour turning back into drops**
 - **s3 (3 min)**  
@@ -383,7 +383,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Parent says:* Let's taste the water in the cup. Remember, the sea water was salty.  
   *Child mode:* Tap the film so the drops fall in the cup. Lift the cup out carefully. Taste one drop. Is it salty?
   - Note: On a hot, sunny day, you may get one to four teaspoons in the cup. It should taste of plain water. If it tastes salty, some salty water splashed into the cup, so try again more carefully. On a cloudy day, a grown-up can set the bowl over a pan of hot water and put a bag of ice cubes on the film in place of the pebble. Drops form within 10 minutes.
-  - Check: In the Sea in a Bowl experiment, the water in the cup does not taste salty. Why? → **Only the water evaporated. The salt stayed in the bowl.**
+  - Check: The water in the cup does not taste salty. Why? → **Only the water evaporated. The salt stayed in the bowl.**
 - **s5 (3 min)**  
   *Parent does:* Compare your still with the real water cycle. Point to each part.  
   *Parent says:* The salty water is the sea. The Sun is the Sun. The film is like the cold sky, and the drops are like clouds. The drips into the cup are rain. The drips are fresh because the salt stayed in the bowl. Rain is fresh for the same reason: the salt stays in the sea.  
@@ -472,7 +472,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Parent does:* Let your child taste one drop from the outside of the cold tumbler.  
   *Parent says:* The water inside is salty. That is a clue about where the drops came from.  
   *Child mode:* Taste one drop from the outside of the cold tumbler. Is it salty, like the inside?
-  - Check: In the Cold Tumbler experiment, the drops on the outside are clear and not salty. The water inside is coloured and salty. Where did the drops come from? → **Water vapour in the air condensed on the cold tumbler**
+  - Check: The drops on the outside are clear and not salty. The water inside is coloured and salty. Where did the drops come from? → **Water vapour in the air condensed on the cold tumbler**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -483,7 +483,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - **predict:** Guess first. Put the four places in order, from the one that will dry first to the one that will dry last: sun, shade, fan, narrow glass in the shade. Why do you think so?
 - **fair test:** Put exactly the same amount of water in each, 2 teaspoons. Use three identical steel plates and one narrow glass. Start them all at the same time. Change only one thing for each: sun, shade, wind from a fan, or a narrow container.
 - **safety:** Keep fingers away from the fan.
-- **record:** Fill in the table. Then draw a bar chart, with one bar for each place. Make each bar as tall as its number of minutes.
+- **record:** Fill in the table. Then make a bar chart, with one bar for each place. Draw it, or stack coins or blocks. Make each bar as tall as its number of minutes.
 - **results table:** Place | Time started | Time it was dry | Minutes to dry
 - **s1 (8 min)**  
   *Parent does:* 1. Put exactly 2 teaspoons of water on each plate and into the glass. 2. Put plate 1 in the sun. Put plate 2 in the shade. Put plate 3 in the shade, in front of a fan. 3. Put the glass in the shade next to plate 2. 4. Write down the start time.  
@@ -495,7 +495,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Child mode:* Check every 15 minutes. When a plate is dry, write down the time. Is the glass dry yet?
   - Note: On a hot summer day, the sunny plate often dries in about 30 to 45 minutes. The fan plate is usually next, and the shade plate takes much longer. The narrow glass usually takes the longest, often until the next day. In cool or humid weather everything is slower, so use 1 teaspoon instead.
 - **s3 (5 min)**  
-  *Parent does:* Help your child draw a bar chart, with one bar for each place.  
+  *Parent does:* Help your child make a bar chart, with one bar for each place. They can draw it or build it from coins or blocks.  
   *Parent says:* Each place gets one bar. The taller the bar, the longer that water took to evaporate.  
   *Child mode:* Make one bar for each place. Draw it, or stack coins or blocks. Make it as tall as its minutes. The shortest bar won the race!
   - Check: In the Evaporation Race bar chart, the shortest bar shows the place where water… → **Evaporated fastest**
@@ -552,9 +552,9 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   - Note: Small puffy clouds often shrink and vanish in 10 to 15 minutes. Their edges evaporate into drier air. Others grow, because new vapour keeps condensing at the bottom. If the sky is clear with no clouds, do this activity another day. On a fully grey day, watch for gaps opening and closing instead.
 - **s3 (5 min)**  
   *Parent does:* Look at the three numbers together.  
-  *Parent says:* Your cloud changed in just 10 minutes.  
+  *Parent says:* Let's see if your cloud changed in 10 minutes.  
   *Child mode:* Look at your three numbers. Did your cloud change? Is it the same cloud?
-  - Check: During Cloud Watch, a small cloud shrinks and vanishes in 10 minutes. What happened to its tiny drops? → **They evaporated into the air as invisible vapour**
+  - Check: A small cloud shrinks and vanishes in 10 minutes. What happened to its tiny drops? → **They evaporated into the air as invisible vapour**
 ### a4 · A Rainstorm in the Room: clap and dance the water cycle (15 min)
 - **record:** Show your grown-up the five parts of your dance in order: rising, floating, gathering, falling and flowing back to the sea. Say the name of each part.
 - **s1 (6 min)**  
@@ -585,7 +585,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Parent does:* 1. Open the map of India. 2. Lay the string from the Arabian Sea to the Kerala coast. Put a sticky note saying 'about 1 June'. 3. Move the string up the west coast to Mumbai, and on across India to Delhi. 4. Put a blue sticky note on Mumbai and a yellow one on Pune, just over the Western Ghats.  
   *Parent says:* The monsoon arrives in Kerala around the first of June. Then it moves north, week by week. It covers all of India by about the eighth of July. Mumbai gets about three times as much rain as Pune.  
   *Child mode:* Lay the string from the sea to Kerala. That is the monsoon arriving, around 1 June. Move it up to Mumbai, then to Delhi. Find Pune, just over the mountains.
-  - Ask: Why does Pune, just over the mountains, get much less rain than Mumbai? (good: The wet wind drops its rain on the mountains first.; There is not much water left by the time it gets over.)
+  - Ask: Why do you think Pune, just over the mountains, gets much less rain than Mumbai? (good: The wet wind drops its rain on the mountains first.; There is not much water left by the time it gets over.)
 - **s3 (7 min)**  
   *Parent does:* Find Meghalaya on the map, in the North-East. Put a sticky note on Mawsynram and Sohra, also called Cherrapunji.  
   *Parent says:* Wet winds from the Bay of Bengal hit the hills of Meghalaya and rise steeply. Mawsynram and Sohra get more than 11 metres of rain a year. That is taller than a three-storey building, if it all stayed in one place.  
@@ -683,9 +683,9 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   - Note: A fine onion net or mosquito net usually works best. Drops gather on the threads, join into bigger drops and run down. A solid cloth gets wet but drips less. Wipe up the floor afterwards, so nobody slips.
   - Check: In the Fog Catcher challenge, why does a net with fine threads catch more water than a net with big holes? → **More tiny drops bump into the threads, stick and join into bigger drops**
 - **s4 (5 min)**  
-  *Parent does:* Read out the fog net and beetle ideas from the challenge page. Then compare them with your design.  
+  *Parent does:* Read out these two ideas. Villages in dry hills hang big nets to catch fog. Desert beetles catch fog drops on their backs and drink them. Then compare them with your design.  
   *Parent says:* Villages and beetles have solved this problem before you.  
-  *Child mode:* Desert beetles drink fog that gathers on their backs! Which idea would you use for a real village?
+  *Child mode:* Which of these two ideas would you copy for a real village?
   - Think: A fog net works because tiny drops bump into the threads and join into bigger drops. Where else in this unit did tiny drops join into bigger ones?
 
 ## Worksheets

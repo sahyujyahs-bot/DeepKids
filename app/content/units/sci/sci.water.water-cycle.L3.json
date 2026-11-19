@@ -729,7 +729,7 @@
      "kid": "Start at the SEA. Take a blue bead. Roll the dice. Read the card. Where do you go?",
      "check": {
       "t": "mcq",
-      "q": "Say you roll a 4 and go from the SEA to a CLOUD. What is that change called?",
+      "q": "A drop goes from the SEA to a CLOUD. What is that change called?",
       "options": [
        "Evaporation",
        "Rain",
@@ -743,7 +743,7 @@
      "id": "s3",
      "mins": 12,
      "do": "1. Take turns to roll and move. 2. At each place, the player threads a bead and says the name of the change. 3. Fill in the score sheet together.",
-     "say": "Remember to say the name of the change as you move. Cloud to sea is precipitation, falling as rain. Plant to cloud is transpiration.",
+     "say": "Remember to say the name of the change as you move. Cloud to sea is precipitation, falling as rain. Plant to cloud is transpiration, when a plant lets out water vapour.",
      "kid": "Roll and move. Thread a bead. Say the name of the change. Write it on your sheet.",
      "ask": [
       {
@@ -865,7 +865,7 @@
      "mins": 9,
      "do": "1. Turn over a card and shout it. 2. Watch who does it right. 3. The last one becomes the next caller. 4. Play all 12 cards.",
      "say": "SUN! Jiggle fast and spread out! You've evaporated. You're vapour now, invisible gas, all over the room.",
-     "kid": "Listen! Do the call as fast as you can. Sun means spread out. Cold means hold hands. Heavy means fall! The card tells you what to do for the others.",
+     "kid": "Listen for the call and do it fast. Sun means spread out. Cold means hold hands. Heavy means fall down.",
      "adult": true,
      "parent": "Keep the running gentle on a smooth floor. The big ideas to look for: heat spreads molecules apart into a gas. Cold brings them together into drops. Drops join until they are heavy enough to fall. Salt never flies with the vapour. The SPECK card shows that cloud drops need a speck to form on.",
      "check": {
@@ -1641,7 +1641,7 @@
      "parent": "On a hot, sunny day, you may get one to four teaspoons in the cup. It should taste of plain water. If it tastes salty, some salty water splashed into the cup, so try again more carefully. On a cloudy day, a grown-up can set the bowl over a pan of hot water and put a bag of ice cubes on the film in place of the pebble. Drops form within 10 minutes.",
      "check": {
       "t": "mcq",
-      "q": "In the Sea in a Bowl experiment, the water in the cup does not taste salty. Why?",
+      "q": "The water in the cup does not taste salty. Why?",
       "options": [
        "Only the water evaporated. The salt stayed in the bowl.",
        "The Sun burned up the salt",
@@ -1767,7 +1767,7 @@
     }
    ],
    "record": "Fill in the table for both tries. Take a photo of each try. Then point to the warm water, the vapour, the cold plate and the smoke specks, and tell your grown-up what each one does.",
-   "context": "This is an experiment about how clouds form. You make a real cloud inside a jar, using warm water, cold ice and a little smoke.",
+   "context": "This is an experiment about how clouds form. You make a real cloud inside a jar, using warm water, cold ice and a little smoke. You will find out what a cloud needs to form.",
    "flow": [
     {
      "id": "s1",
@@ -2050,7 +2050,7 @@
      "kid": "Taste one drop from the outside of the cold tumbler. Is it salty, like the inside?",
      "check": {
       "t": "mcq",
-      "q": "In the Cold Tumbler experiment, the drops on the outside are clear and not salty. The water inside is coloured and salty. Where did the drops come from?",
+      "q": "The drops on the outside are clear and not salty. The water inside is coloured and salty. Where did the drops come from?",
       "options": [
        "Water vapour in the air condensed on the cold tumbler",
        "The water leaked through the steel",
@@ -2128,7 +2128,7 @@
      "what": "Set up the race (8 minutes). Check every 15 minutes for 2 to 3 hours, one minute each time (12 minutes). Make the bar chart and talk (10 minutes)."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart, with one bar for each place. Make each bar as tall as its number of minutes.",
+   "record": "Fill in the table. Then make a bar chart, with one bar for each place. Draw it, or stack coins or blocks. Make each bar as tall as its number of minutes.",
    "context": "This is a race between four puddles of water. You find out what makes water evaporate, or dry up, fastest.",
    "flow": [
     {
@@ -2179,7 +2179,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Help your child draw a bar chart, with one bar for each place.",
+     "do": "Help your child make a bar chart, with one bar for each place. They can draw it or build it from coins or blocks.",
      "say": "Each place gets one bar. The taller the bar, the longer that water took to evaporate.",
      "kid": "Make one bar for each place. Draw it, or stack coins or blocks. Make it as tall as its minutes. The shortest bar won the race!",
      "check": {
@@ -2469,11 +2469,11 @@
      "id": "s3",
      "mins": 5,
      "do": "Look at the three numbers together.",
-     "say": "Your cloud changed in just 10 minutes.",
+     "say": "Let's see if your cloud changed in 10 minutes.",
      "kid": "Look at your three numbers. Did your cloud change? Is it the same cloud?",
      "check": {
       "t": "mcq",
-      "q": "During Cloud Watch, a small cloud shrinks and vanishes in 10 minutes. What happened to its tiny drops?",
+      "q": "A small cloud shrinks and vanishes in 10 minutes. What happened to its tiny drops?",
       "options": [
        "They evaporated into the air as invisible vapour",
        "They fell as rain",
@@ -2645,7 +2645,7 @@
      "kid": "Lay the string from the sea to Kerala. That is the monsoon arriving, around 1 June. Move it up to Mumbai, then to Delhi. Find Pune, just over the mountains.",
      "ask": [
       {
-       "q": "Why does Pune, just over the mountains, get much less rain than Mumbai?",
+       "q": "Why do you think Pune, just over the mountains, gets much less rain than Mumbai?",
        "good": [
         "The wet wind drops its rain on the mountains first.",
         "There is not much water left by the time it gets over."
@@ -3045,9 +3045,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Read out the fog net and beetle ideas from the challenge page. Then compare them with your design.",
+     "do": "Read out these two ideas. Villages in dry hills hang big nets to catch fog. Desert beetles catch fog drops on their backs and drink them. Then compare them with your design.",
      "say": "Villages and beetles have solved this problem before you.",
-     "kid": "Desert beetles drink fog that gathers on their backs! Which idea would you use for a real village?",
+     "kid": "Which of these two ideas would you copy for a real village?",
      "think": "A fog net works because tiny drops bump into the threads and join into bigger drops. Where else in this unit did tiny drops join into bigger ones?"
     }
    ],

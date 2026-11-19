@@ -265,7 +265,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - **s2 (3 min)**  
   *Parent does:* Play one practice pair face up. Show the burr card and the Velcro card side by side.  
   *Parent says:* Here is a pair to practise with: a burdock burr and Velcro. Why does the burr have hooks? And what did Velcro copy?  
-  *Child mode:* Practice pair: burr and Velcro. Why does the burr have hooks? What did Velcro copy?
+  *Child mode:* Look at the burr card and the Velcro card side by side.
   - Ask: Why does the burr have hooks, and what did Velcro copy? (good: The hooks catch on fur, so animals carry its seeds away.; Velcro copied the hooks, and used loops in place of fur.)
   - Check: What design did Velcro copy from the burr? → **Its tiny hooks, which catch in loops**
 - **s3 (10 min)**  
@@ -281,7 +281,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - **s5 (2 min)**  
   *Parent does:* Count the points to find the winner. Then ask each player which design they would most like to use in their own invention.  
   *Parent says:* Which design would you most like to borrow for an invention of your own? What would you make with it?  
-  *Child mode:* Count your points. Playing alone? Write how many turns it took. Which design would you borrow for an invention?
+  *Child mode:* Count your points. Playing alone? Write how many turns it took.
   - Note: A good answer is: what problem the living thing has, and how exactly its design solves it. Only then can the same idea be built from materials people can make. For example, a burr has the problem of getting its seeds carried away, and its hooks solve it by catching in fur.
   - Think: Every pair on the cards began with a living thing that has a problem. Before an inventor copies a design, what must they work out first?
 ### g2 · Design Dice (20 min)
@@ -290,19 +290,19 @@ People tell this story now in many countries. They say that a train copied a kin
 - **Printable board: Nature list (roll the second die):** 1 Burr: tiny hooks that catch; 2 Lotus leaf: waxy bumps that make water roll off; 3 Kingfisher: a pointed front that widens slowly; 4 Gecko: millions of tiny bendy hairs; 5 Termite mound: thick walls that slow heat; 6 Tree frog: soft toe pads with grooves that let water out, so they grip wet leaves
 - **Printable score sheet: Inventor's score sheet:** Problem; Living thing; My invention (draw it); I named the design (1 point); I said how to test it (1 point); It could really be built (1 point)
 - **s1 (2 min)**  
-  *Parent does:* 1. Put the two printed lists and the score sheet on the table. 2. Have a die, a pencil and a timer ready.  
+  *Parent does:* 1. Put the two printed lists and the score sheet on the table. 2. Have two dice (or one die you roll twice), a pencil and a timer ready.  
   *Parent says:* Inventors often start with a problem, then look at nature for a design. Today the dice will choose the problem and the living thing. You do the inventing.  
-  *Child mode:* Put out the two lists and your score sheet. Get a die and a pencil. The dice choose a problem and a living thing. You invent!
+  *Child mode:* Put out the two lists and your score sheet. Get two dice and a pencil. The dice choose a problem and a living thing.
 - **s2 (3 min)**  
   *Parent does:* Play one round together as practice. Use problem 1, the warm water bottle, and nature 5, the termite mound.  
   *Parent says:* Practice round. The water bottle gets warm in the sun. The termite mound has thick walls that slow heat. What could we invent?  
-  *Child mode:* Practice: a warm water bottle, and a termite mound. How could thick walls help a water bottle? Draw your idea.
+  *Child mode:* Practice: a warm water bottle, and a termite mound. How could thick walls help a water bottle? Tell your grown-up your idea.
   - Ask: How could you test if your bottle cover works? (good: Put two bottles in the sun, one with the cover. Feel which is cooler after an hour.; Put an ice cube in each and see which melts last.)
   - Check: A water bottle gets warm in the sun. Which idea copies the termite mound's design? → **Wrap it in a thick jacket of cloth, so heat gets in slowly**
 - **s3 (12 min)**  
-  *Parent does:* 1. Take turns to roll both dice. 2. Each player draws an invention in 2 minutes. 3. They explain it. 4. The others score it with the three points on the sheet.  
-  *Parent says:* Roll, draw for two minutes, then tell us about it. Remember the three points: name the design, say how to test it, and could it really be built?  
-  *Child mode:* Roll both dice. Draw your invention in 2 minutes. Then explain it, with the design and how to test it.
+  *Parent does:* 1. Take turns to roll both dice. 2. Each player has 2 minutes to invent something. They can draw it, build a quick model from things nearby, or just describe it. 3. They explain it. 4. The others score it with the three points on the sheet.  
+  *Parent says:* Roll, invent for two minutes, then tell us about it. Remember the three points: name the design, say how to test it, and could it really be built?  
+  *Child mode:* Roll both dice. Invent in 2 minutes: draw it, build a quick model, or just describe it. Then explain the design and how to test it.
   - Note: Here are some strong answers. A burr-hook strip on the bag strap and a loop strip on the chair, for problem 2. A label rubbed thickly with candle wax, for problem 3. A pointed nose for the toy car, for problem 5. Grooved soft rubber pads on the chappal, like a tree frog's toe pads, for problem 6. Silly but well-explained ideas deserve the first point too.
 - **s4 (3 min)**  
   *Parent does:* Add up the points. Then choose the one invention everyone would most like to really build.  
@@ -316,18 +316,18 @@ People tell this story now in many countries. They say that a train copied a kin
 - **question:** Which surface makes water roll off in balls? Can rolling drops clean a surface?
 - **predict:** Guess first. Will the water make round balls, flat puddles or wet patches on the leaf, the steel plate and the paper? Which will stay cleanest when dusty? Why do you think so?
 - **fair test:** Keep everything the same except the surface. Use the same size of drop, from the same spoon or dropper. Tilt every surface to the same height, on the same book. Put 5 drops on each surface, because one drop can be a fluke.
-- **record:** Fill in the table. Draw what a drop looked like from the side on each surface: a ball, a dome or a flat puddle.
+- **record:** Fill in the table. For each surface, write whether a drop looked like a ball, a dome or a flat puddle.
 - **results table:** Surface | Drop shape: ball, dome or flat | How many of 5 drops rolled off at the tilt | Did the rolling drops pick up the dust?
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the four surfaces flat on a tray or the floor. They are the water-repelling leaf, the ordinary leaf, the steel plate and the paper. 2. Hold each leaf only by its stalk or its edge. 3. Ask your child to guess what water will do on each.  
   *Parent says:* Don't touch the top of the leaves with your fingers. Your fingers can rub off the leaf's coat of wax. What do you think water will do on each one?  
-  *Child mode:* Lay out the two leaves, the steel plate and the paper. Hold leaves by the stalk only. Guess: on which one will water roll?
+  *Child mode:* Lay out the two leaves, the steel plate and the paper. Hold leaves by the stalk only. Make a guess before you try.
   - Note: Touching or rubbing the top of a lotus or chembu leaf wipes off its wax. Then that spot gets wet like any leaf. Old, dusty or bruised leaves work less well. Pick a fresh one.
 - **s2 (5 min)**  
   *Parent does:* 1. Put 5 drops of water on each surface, spaced apart. 2. Crouch down so your eyes are level with the surface. 3. Look at the drops from the side.  
   *Parent says:* Get your eyes down low and look at the drops from the side. Are they round like balls, like little domes, or flat?  
-  *Child mode:* Put 5 drops on each one. Get your eyes down low. Look from the side. Balls, domes, or flat puddles?
-  - Ask: What do the drops on the chembu leaf look like? (good: Little silver balls.; Like marbles.; They are round and shiny.)
+  *Child mode:* Put 5 drops on each one. Get your eyes down low and look from the side.
+  - Ask: What do the drops on the water-repelling leaf look like? (good: Little silver balls.; Like marbles.; They are round and shiny.)
   - Note: On a good chembu or lotus leaf, the drops look like silver balls or beads of mercury. On steel, they are low domes. On paper, they soak in within a minute. On an ordinary leaf, they sit as low domes or spread into flat puddles. On a cabbage leaf, the drops bead up well but are a little flatter than on chembu.
 - **s3 (5 min)**  
   *Parent does:* 1. Put one end of each surface on the book, so it is tilted. 2. Count how many of the 5 drops roll off. 3. Write the number in the table.  
@@ -368,7 +368,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - **s4 (5 min)**  
   *Parent does:* 1. Find the middle value for each shape: put its three numbers in order and take the middle one. 2. Draw a bar chart, one bar for each shape.  
   *Parent says:* Each shape gets one bar. The taller the bar, the bigger the splash.  
-  *Child mode:* Draw one bar for each shape. A taller bar means a bigger splash. Which shape is most like a kingfisher?
+  *Child mode:* Draw one bar for each shape, or stack coins to make each bar. A taller bar means a bigger splash.
   - Check: Why does the pointed beak shape splash least? → **It pushes the water aside a little at a time, from its tip backwards**
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -399,8 +399,8 @@ People tell this story now in many countries. They say that a train copied a kin
   - Wait: Check every 10 minutes until the ice in House A has melted. Leave the others until they melt too, which can take up to an hour.
 - **s4 (5 min)**  
   *Parent does:* Compare the times. Then talk about how the termite mound and old Indian houses keep cool.  
-  *Parent says:* Thick walls slow down the heat getting in. Termites need this, because their fungus garden grows well only when the nest stays warm but not hot. Old mud houses use thick walls too.  
-  *Child mode:* Which house kept its ice longest? Thick walls slow down heat. Termite mounds and mud houses have thick walls too!
+  *Parent says:* Look at the times. Which house kept its ice longest? Termites live in thick-walled mounds, and old mud houses have thick walls too.  
+  *Child mode:* Look at your table. Was the wall of the house with the longest-lasting ice thick or thin?
   - Check: Why did the ice last longer in the thick-walled cup? → **The thick wall slowed down the heat getting in**
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -411,11 +411,11 @@ People tell this story now in many countries. They say that a train copied a kin
 ## Activities
 ### a1 · The Hitchhiker Sock Walk (25 min)
 - **safety:** Go only with a grown-up, in daylight. Walk on short weeds at the edge of a park, a field or an empty plot, not in long grass where snakes may hide. Stamp your feet as you walk. Never put seeds in your mouth.
-- **record:** Write how many seeds stuck to the fluffy sock and how many to the smooth one. Draw the three strangest seeds, as big as you can.
+- **record:** Write how many seeds stuck to the fluffy sock and how many to the smooth one. Sort the seeds into groups by how they hold on: hooks, spikes or sticky. Take a photo of the strangest one.
 - **s1 (3 min)**  
   *Parent does:* 1. Pull the fluffy sock over one shoe, and the smooth sock or plastic bag over the other. 2. Ask your child to guess which will collect more seeds.  
   *Parent says:* Some plants send their seeds travelling on animals. Seeds carried far away get new ground to grow in. Today, you are the animal. Which sock do you think will carry more seeds home, and why?  
-  *Child mode:* Pull a fluffy sock over one shoe. Put a smooth sock over the other. Which will collect more seeds? Why?
+  *Child mode:* Pull a fluffy sock over one shoe. Put a smooth sock over the other. Make a guess.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* Walk slowly through a patch of dry, short weeds for about 5 minutes. Brush both feet through the same plants.  
   *Parent says:* Walk slowly and brush both feet through the same weeds. That keeps it fair.  
@@ -424,7 +424,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - **s3 (8 min)**  
   *Parent does:* 1. Back home, take the socks off carefully. 2. Pick off the seeds and count them for each sock. 3. Look at a few with a magnifying glass.  
   *Parent says:* Let's count. Then look closely. How is each seed holding on? Hooks, spikes, or something sticky?  
-  *Child mode:* Count the seeds on each sock. Write the numbers down. Look closely. How does each seed hold on?
+  *Child mode:* Count the seeds on each sock. Write the numbers down. Then look at a few seeds closely.
   - Ask: Why did more seeds stick to the fluffy sock? (good: The hooks caught in the fluffy loops.; Smooth socks have nothing for hooks to grab.)
   - Check: Most seeds rode home on the fluffy sock. Why? → **Their tiny hooks caught in its loops of wool**
 - **s4 (6 min)**  
@@ -434,7 +434,7 @@ People tell this story now in many countries. They say that a train copied a kin
   - Think: These seeds rode home with you, just as they ride on animals. Where could we put them, so they get a chance to grow?
 ### a2 · Zoom In Like an Inventor (15 min)
 - **safety:** Never look at the Sun through a magnifying glass. It can hurt your eyes badly.
-- **record:** Draw each thing as big as you can, the way it looks zoomed in. Label one feature you can see on each, and say what it might be for.
+- **record:** For two things, name one feature you can see and say what it might be for. You can draw one of them very big, or take a zoomed-in photo.
 - **s1 (5 min)**  
   *Parent does:* 1. Put the five things on a table near a window, in good light. 2. Look at the hook side and the loop side of the Velcro. 3. Then look at the burr or sticky seed, if you have one.  
   *Parent says:* Inventors notice tiny things. Look at both sides of the Velcro. Now look at the seed. What is the same?  
@@ -442,23 +442,23 @@ People tell this story now in many countries. They say that a train copied a kin
 - **s2 (6 min)**  
   *Parent does:* 1. Look at the feather. Gently pull two parts of it apart, then stroke them back together. 2. Look at the leaf. 3. Look at the wool.  
   *Parent says:* Pull the feather apart a little, then stroke it from the bottom to the tip. Watch it zip back together. Feathers have tiny hooks too.  
-  *Child mode:* Pull a feather apart gently. Now stroke it back together. It zips up! Feathers have tiny hooks inside.
+  *Child mode:* Pull a feather apart gently. Now stroke it back together. Does it zip up?
   - Note: Each feather has rows of branches called barbs. The barbs carry even smaller branches called barbules, and these have tiny hooks that zip them together, like Velcro. A bird needs their feathers zipped into smooth sheets to fly. They re-zip them by running them through their beak. A strong magnifying glass shows the rows. You may not see the hooks themselves, which is fine.
 - **s3 (4 min)**  
-  *Parent does:* Help your child draw their two favourite things, very big, and label one feature on each.  
-  *Parent says:* Draw it as if it were the size of a house. What feature can you see? What do you think it is for?  
-  *Child mode:* Draw your two favourite things, really big. Label one feature on each, like hooks, hairs or bumps.
+  *Parent does:* Help your child pick their two favourite things. They point to one feature on each and say what it might be for. They can also draw it very big, or take a zoomed-in photo.  
+  *Parent says:* Pick your two favourite things. What feature can you see on each? What do you think it is for?  
+  *Child mode:* Pick your two favourite things. Point to one feature on each, like hooks, hairs or bumps. Tell your grown-up what it might be for.
   - Think: If a gecko walks on the outside of your window at night, look at their toes from inside. What do you see?
 ### a3 · Gecko Toe Prints (15 min)
 - **record:** Keep the two prints. Write which one touched more of the wavy surface.
 - **s1 (5 min)**  
   *Parent does:* 1. Spread newspaper on the table. Peel the top paper off one whole side of the cardboard, so the wavy layer shows. 2. Dab paint on the flat eraser or sponge. 3. Press it straight down onto the wavy part, then lift it.  
   *Parent says:* This flat pad is like a hard, flat foot. Look at the print it leaves. Where did the paint go?  
-  *Child mode:* Paint the flat eraser. Press it straight down on the wavy cardboard. Lift it. Where is the paint?
+  *Child mode:* Paint the flat eraser. Press it straight down on the wavy cardboard. Lift it and look at the print.
 - **s2 (5 min)**  
   *Parent does:* 1. Load the brush with paint. 2. Press it straight down, bristles first, onto a fresh wavy part, so the bristles splay out. 3. Lift it and compare the two prints.  
   *Parent says:* Now the brush. Its bristles are like a gecko's tiny hairs. Press it straight down, like a stamp. Compare the two prints.  
-  *Child mode:* Load the brush with paint. Press it straight down, like a stamp. Lift it. Which print has more paint in the dips?
+  *Child mode:* Load the brush with paint. Press it straight down, like a stamp. Lift it. Put the two prints side by side.
   - Ask: What is different about the two prints? (good: The flat pad only painted the tops of the waves.; The brush got paint down into the dips too.)
   - Note: The flat pad prints only stripes along the tops of the ridges. The bristles bend and reach into the dips, so far more of the surface gets paint. If the brush is stiff, press more gently, or use a softer brush.
 - **s3 (5 min)**  
@@ -476,12 +476,12 @@ People tell this story now in many countries. They say that a train copied a kin
 - **s2 (4 min)**  
   *Parent does:* Compare the lists. Talk about why smooth, hard surfaces worked best.  
   *Parent says:* On smooth steel and glass, the film can get extremely close. Then the atoms of the film and the plate pull on each other. On a towel or a rough wall, the film touches only a few tips, so it falls off. Static electricity helps the film cling too. That is the same effect that makes a rubbed balloon stick to a wall.  
-  *Child mode:* The film clings to smooth glass and steel. It falls off towels and rough walls. Why? It can't get close enough to them.
+  *Child mode:* Sort the surfaces into two groups: the film stayed on, or the film fell off.
   - Note: Cling film holds on partly by getting very close to smooth surfaces, where atoms attract, and partly by static electricity. A gecko's feet get close even to rough surfaces, using millions of bendy hair tips. Expect the film to cling to the steel, the mirror and usually the plastic box. It falls off the towel and the wall. Results vary with the brand of film and how clean the surface is. The chopping board may hold the film a little.
   - Check: Cling film stuck to the steel plate but fell off the towel. Why? → **On smooth steel it could get very close, so the atoms pulled on each other**
 ### a5 · Make a Lotus Spoon (15 min)
 - **safety:** Only a grown-up lights the candle and holds the spoon in the flame. Tie back long hair. Keep a glass of water nearby. The spoon gets hot: let it cool for 2 minutes before anyone touches it. Soot is dirty, so don't use the spoon for food afterwards.
-- **record:** Draw a drop on the clean side of the spoon and a drop on the sooty side.
+- **record:** Say or write what a drop did on the clean side and on the sooty side. Did it roll like a marble or spread out?
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Light the candle. 2. Hold the spoon with the peg or tongs. 3. Hold the back of the spoon in the yellow tip of the flame. Move it slowly for about 30 seconds, until the back is evenly black. 4. Blow out the candle. Let the spoon cool for 2 minutes.  
   *Parent says:* Watch the black soot build up on the spoon. Soot is made of tiny bits of carbon, smaller than dust. They pile up in tiny bumps, a bit like the lotus leaf's bumps.  
@@ -489,17 +489,17 @@ People tell this story now in many countries. They say that a train copied a kin
 - **s2 (5 min)**  
   *Parent does:* 1. Hold the cool spoon by its handle. Don't touch the soot. 2. Drip a few drops on the clean front of the spoon. 3. Drip a few drops on the sooty back. 4. Tilt it a little.  
   *Parent says:* Look at the drops on the clean side and on the sooty side. Tilt it. What happens?  
-  *Child mode:* Drip water on the clean side. Now on the sooty side. Tilt the spoon. Which drops roll away like marbles?
+  *Child mode:* Drip water on the clean side. Now on the sooty side. Tilt the spoon a little.
   - Ask: What do the drops do on the soot? (good: They make balls and roll off.; They bounce and roll like on a lotus leaf.)
   - Note: On the sooty side, drops make almost perfect silver balls and roll off at the smallest tilt. On the clean steel, they sit as flat domes. If the drops stick to the soot, the layer may be too thin. A grown-up can add another 20 seconds in the flame. If you touch the soot, that spot will stop working.
 - **s3 (5 min)**  
   *Parent does:* Slowly dip the sooty back of the spoon into the glass of water, and look at it from the side.  
   *Parent says:* Dip it slowly into the water. Look closely. Does the black spoon still look black?  
-  *Child mode:* Dip the sooty spoon slowly into the water. Look from the side. What colour does it look now?
+  *Child mode:* Dip the sooty spoon slowly into the water. Look at it from the side.
   - Check: Under water, the sooty spoon looks shiny silver. What is the silver? → **A thin layer of air trapped in the tiny bumps**
   - Think: Lift the spoon out. Is the sooty side wet or dry? Look, but don't touch it.
 ### a6 · Beak Hand, Flat Hand (10 min)
-- **record:** Draw your flat hand and your beak hand. Draw arrows showing how hard the water pushed back on each.
+- **record:** Give each hand a push score from 1 (a little) to 5 (a lot) for how hard the water pushed back. Tell your grown-up why.
 - **s1 (4 min)**  
   *Parent does:* 1. Do this in the bathroom or the kitchen, and wipe up spills. 2. Put your hand in the water with the palm facing forward, like a wall. 3. Sweep it quickly from one side of the bucket to the other.  
   *Parent says:* Sweep your flat hand through the water. Feel how hard the water pushes back. Look at the splash.  
@@ -507,12 +507,12 @@ People tell this story now in many countries. They say that a train copied a kin
 - **s2 (3 min)**  
   *Parent does:* 1. Now press your fingers tightly together into a point, like a kingfisher's beak. 2. Turn your hand so the fingertips point the way you will move. 3. Sweep it through the water at the same speed.  
   *Parent says:* Now make a beak with your fingers, and lead with the tip. Sweep at the same speed. What's different?  
-  *Child mode:* Make a beak with your fingers. Lead with the tip. Sweep at the same speed. Is it easier?
+  *Child mode:* Make a beak with your fingers. Lead with the tip. Sweep at the same speed.
   - Ask: Which hand was easier to move through the water? (good: The beak hand.; The pointed one slid through, the flat one was pushed back.)
 - **s3 (3 min)**  
   *Parent does:* Talk about the kingfisher and the bullet train.  
-  *Parent says:* The flat hand shoves a lot of water at once. The beak hand pushes the water aside a little at a time. Kingfishers dive like your beak hand. A Japanese bullet train copied this shape for its nose.  
-  *Child mode:* The flat hand shoves lots of water at once. The beak hand parts it slowly. Kingfishers dive like a beak hand!
+  *Parent says:* The flat hand shoves a lot of water at once. The beak hand pushes the water aside a little at a time. A Japanese bullet train copied this shape for its nose.  
+  *Child mode:* Which hand is more like a kingfisher's beak when they dive?
   - Check: Why was the beak hand easier to move through the water? → **It pushed the water aside a little at a time**
 
 ## Projects
@@ -531,9 +531,9 @@ People tell this story now in many countries. They say that a train copied a kin
   - Ask: What exactly will you copy, and what does it do for the living thing? (good: The burr's hooks, which catch in fur so its seeds travel.; The lotus leaf's waxy bumps, which make rain roll off and wash it clean.; The termite mound's thick walls, which slow down the heat getting in.)
   - Note: Here are some helpful pairs. Things slipping: burr hooks, gecko hairs, tree frog toe pads. Getting dirty or wet: the lotus leaf. Getting hot: the termite mound and the clay water pot. Moving through air or water: the kingfisher. Let the child choose, even if their idea seems odd. The test will show what works.
 - **s3 (12 min)**  
-  *Parent does:* Help your child draw the invention and label each part. Next to it, they write what they copied and how they will test it.  
-  *Parent says:* Draw your invention and label every part. Then write one sentence: the idea I copied is... And one more: I will test it by...  
-  *Child mode:* Draw your invention. Label each part. Write what you copied. Write how you will test it.
+  *Parent does:* Help your child draw the invention, or build a tiny model, and label each part. Next to it, they write what they copied and how they will test it.  
+  *Parent says:* Show your invention, drawn or as a tiny model, and label every part. Then write one sentence: the idea I copied is... And one more: I will test it by...  
+  *Child mode:* Draw your invention or build a tiny model. Label each part. Write what you copied and how you will test it.
 - **s4 (20 min) · grown-up needed**  
   *Parent does:* Day 2. Build a rough prototype from home materials. Don't make it perfect. Make it good enough to test.  
   *Parent says:* A prototype is a quick, rough first try. Engineers expect it to have problems. That's how they learn.  
@@ -551,7 +551,7 @@ People tell this story now in many countries. They say that a train copied a kin
   *Child mode:* What could be better? Change one thing. Test it again. Did the numbers get better?
   - Wait: Do this on day 3.
 - **s7 (12 min)**  
-  *Parent does:* Make an invention poster: its name, the problem, the living thing and its design, a drawing, and the before and after numbers. Show it to the family.  
+  *Parent does:* Make an invention poster: its name, the problem, the living thing and its design, a drawing or photo, and the before and after numbers. Show it to the family.  
   *Parent says:* Give your invention a name. Then tell the family about it, like a real inventor. Don't forget to give credit to the living thing that taught you.  
   *Child mode:* Name your invention. Make a poster. Show your family. Say which living thing gave you the idea!
   - Think: Say which living thing gave you your idea. What problem does that living thing have in their own life?
@@ -559,7 +559,7 @@ People tell this story now in many countries. They say that a train copied a kin
 ## Challenges
 ### c1 · Make a Fastener Like a Burr (35 min)
 - **problem:** Make a fastener that joins a piece of towel to a cardboard strip, using hooks like a burr. It must open and close again and again, and hold as many coins as possible.
-- **your turn:** Now invent your own fastener copied from nature. Draw it, build it and test it with coins. Does it beat your paperclip version?
+- **your turn:** Now invent your own fastener copied from nature. Describe it to your grown-up or draw it, then build it and test it with coins. Does it beat your paperclip version?
 - **constraints:** No glue, no knots and no tape on the towel side.; The fastener must open and close 10 times and still work.; Measure what it holds by adding coins, one at a time, to a small bag hanging from the towel.
 - **general:** Bend each paperclip so one end makes a small, tight hook, like a letter J. Small hooks catch more loops.; Tape the hooks in rows on the cardboard, all pointing the same way and sticking up.; Use more hooks to hold more. Each hook holds a little, and the little holds add up.
 - **creative:** Point half the hooks one way and half the other way, so the towel cannot slide off in either direction.; Real Velcro has hundreds of hooks in a small space. Try making your hooks smaller and closer together.; Some fasteners use tiny mushroom shapes on both sides that snap into each other. Could you make one with no loops at all?
@@ -586,7 +586,7 @@ People tell this story now in many countries. They say that a train copied a kin
   - Think: George de Mestral spent about ten years getting his hooks just right. Why do you think it took so long?
 ### c2 · The Rain-Proof Name Tag (30 min)
 - **problem:** Design a paper name tag that stays clean and readable when dust and rain land on it. Copy the lotus leaf's design.
-- **your turn:** Now design your own rain-proof tag. Draw it, make it, and test it against the plain paper tag.
+- **your turn:** Now design your own rain-proof tag. Describe it to your grown-up or sketch it, then make it and test it against the plain paper tag.
 - **constraints:** It must start as ordinary paper.; Your name must still be readable at the end.; Test it fairly: the same pinch of dust and the same 10 drops of water on every tag.
 - **general:** Rub candle wax thickly all over the tag. Water will bead up and roll off.; Colour the tag hard all over with wax crayons, pressing firmly.; Cover the tag with clear sticky tape, so water can't soak in. Test whether it stays clean too.
 - **creative:** Crumple the paper and flatten it before waxing, to give it tiny bumps like a lotus leaf.; Ask a grown-up to make a sooty Lotus Spoon, and compare how drops roll on it and on your tag.; Stick your name tag on a real chembu leaf and compare how drops roll on the leaf and on your tag.
@@ -603,7 +603,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - **s3 (6 min)**  
   *Parent does:* Compare the tags. Then read the usual solutions and the creative ideas, and try one improvement.  
   *Parent says:* Which tag would you trust on a school bag in the monsoon? Can you make it even better?  
-  *Child mode:* Which tag is cleanest? Try one idea to make it even better. Test it the same way.
+  *Child mode:* Compare the four tags. Try one idea to make the best one even better. Test it the same way.
   - Check: Why did the candle-waxed tag stay cleaner than the taped tag? → **Water rolled off the wax in balls and carried dust away**
 - **s4 (6 min)**  
   *Parent does:* Make a final tag with your best idea and tape it to a school bag or a plant pot. If it rains, check it afterwards.  

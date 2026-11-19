@@ -444,7 +444,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a board game about one family's water for a week. Players move round a home and gain or lose water drops, depending on what happens in each room.",
+   "context": "This is a board game about one family's water for a week. Players move round a home and gain or lose water drops, depending on what happens in each room. You will find out which habits save the most water.",
    "printables": [
     {
      "kind": "board",
@@ -553,8 +553,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Play the card 'The tap ran while you brushed your teeth' as a practice round, then put it back in the pile.",
-     "say": "Practice card. The tap ran while you brushed your teeth. What could you do instead?",
-     "kid": "Practice card. The tap ran while you brushed. What could you do instead?",
+     "say": "Let's try one card first, just to practise.",
+     "kid": "Read the practice card out loud. Then pick your answer.",
      "check": {
       "t": "mcq",
       "q": "The tap ran while you brushed your teeth. What saves the most water?",
@@ -683,7 +683,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Take turns to sort the cards. Ask for a reason each time.",
-     "say": "Where does this water go? Why can't it go to the plants?",
+     "say": "Where can this water go next? Why?",
      "kid": "Read your card. Put it under a job. Say why.",
      "check": {
       "t": "mcq",
@@ -703,7 +703,7 @@
      "mins": 3,
      "do": "Check the answer key together. Talk about any card you disagreed on.",
      "say": "Which card was hardest to sort? Why?",
-     "kid": "Check the key. Which card was hardest? Why?",
+     "kid": "Check the key. Did you get them all right?",
      "ask": [
       {
        "q": "Why can RO reject water mop a floor but not water plants every day?",
@@ -783,8 +783,8 @@
      "what": "Look again at 15 and 30 minutes, and once more later in the day. Fill in the table and say what you found."
     }
    ],
-   "record": "Fill in the table at 0, 5, 15 and 30 minutes, and once more 2 hours later. Draw both glasses at 30 minutes, showing the clear part and the mud.",
-   "context": "In this experiment you make two glasses of the same muddy water. You rub phitkari in one, and watch what happens to the cloudiness in each.",
+   "record": "Fill in the table at 0, 5, 15 and 30 minutes, and once more 2 hours later. Draw both glasses at 30 minutes, showing the clear part and the mud, or take a photo of them.",
+   "context": "In this experiment you make two glasses of the same muddy water. You rub phitkari in one, and watch what happens to the cloudiness in each. You will find out if phitkari, a clear crystal sold in shops, can make muddy water clear.",
    "flow": [
     {
      "id": "s1",
@@ -816,7 +816,7 @@
      "mins": 3,
      "do": "Ask your child for a guess and a reason before adding the phitkari. Write the guess down.",
      "say": "I will rub phitkari in glass B. I will only stir glass A. Which will be clearer in 30 minutes? Why do you think so?",
-     "kid": "Guess! Which glass will be clearer in 30 minutes? Why? Write it down."
+     "kid": "Make your guess and say why. Write it down."
     },
     {
      "id": "s4",
@@ -965,7 +965,7 @@
      "what": "Wash three plates in three ways, catch all the water, and measure it in mugs."
     }
    ],
-   "record": "Fill in the table. Draw a bar for each way of washing, one square for each mug.",
+   "record": "Fill in the table. Draw a bar for each way of washing, one square for each mug. Or line up one spoon for each mug.",
    "context": "In this experiment you wash three plates with the same food on them in three different ways, catch all the water, and measure which way uses least.",
    "flow": [
     {
@@ -1011,7 +1011,7 @@
      "mins": 5,
      "do": "Compare the three numbers. Ask your child to say what they think, what they saw and why.",
      "say": "Which way used least water? Were all three plates clean? Why did that way use less?",
-     "kid": "Which way used least? Were all the plates clean? Why?",
+     "kid": "Look at the three numbers. Which way used least? Were all the plates clean?",
      "check": {
       "t": "mcq",
       "q": "In one Plate Test, way 1 used 8 mugs, way 2 used 4 and way 3 used 2. Why did way 1 use the most?",
@@ -1118,7 +1118,7 @@
      "what": "Check again, then tip both out on newspaper and compare."
     }
    ],
-   "record": "Fill in the table each day. On day 3, draw what the soil looked like when you tipped each pot out.",
+   "record": "Fill in the table each day. On day 3, draw what the soil looked like when you tipped each pot out, or take a photo.",
    "context": "In this three-day experiment you find out whether a blanket of dry leaves keeps soil wet for longer, so plants need less watering.",
    "flow": [
     {
@@ -1126,7 +1126,7 @@
      "mins": 10,
      "do": "1. Fill both pots with soil, pressed down the same. 2. Pour half a mug of water into each, slowly. 3. Cover the soil in one pot with a layer of dry leaves about 2 cm thick. 4. Put both in the same sunny spot.",
      "say": "Both pots get the same soil and the same water. Only one gets a leaf blanket. Which do you think will stay wet longer, and why?",
-     "kid": "Fill both pots. Water both the same. Cover one with dry leaves. Put both in the sun. Which will stay wet? Why?",
+     "kid": "Fill both pots. Water both the same. Cover one with dry leaves. Put both in the sun.",
      "context": "This is the first step of the Leaf Blanket test. You set up two pots of wet soil, one covered with dry leaves."
     },
     {
@@ -1201,8 +1201,8 @@
      "what": "Shake soil and water in a bottle, then watch what sinks first and what stays."
     }
    ],
-   "record": "Draw the bottle after 5 minutes. Label each layer, and the cloudy water on top.",
-   "context": "This short activity opens the unit. You shake soil in a bottle of water and watch what sinks first, what sinks later, and what stays floating.",
+   "record": "Draw the bottle after 5 minutes and label each layer and the cloudy water on top. Or take a photo, then point to each layer and name it.",
+   "context": "This short activity opens the unit. You shake soil in a bottle of water and watch what sinks first, what sinks later, and what stays floating. You will find out why muddy water stays cloudy.",
    "flow": [
     {
      "id": "s1",
@@ -1216,8 +1216,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Watch together for a few minutes without moving the bottle. Ask what your child notices and what they wonder.",
-     "say": "What sank first? What is still floating? What do you wonder about?",
-     "kid": "What sank first? What is still floating? What do you wonder?",
+     "say": "Watch closely. What do you notice? What do you wonder about?",
+     "kid": "Watch the bottle for a few minutes. Do not move it.",
      "ask": [
       {
        "q": "Which bits sank first?",
@@ -1241,8 +1241,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Ask for a guess about the cloudy part, and keep the bottle to look at later.",
-     "say": "Clay is heavier than water. So why is it still floating? We'll find out. Let's look again tonight.",
-     "kid": "Clay is heavier than water. Why is it still floating? Guess! Look again tonight.",
+     "say": "The cloudy part is clay, the finest bits of soil. Clay is heavier than water. So why is it still floating? We'll find out. Let's look again tonight.",
+     "kid": "Make a guess. We will look again tonight.",
      "think": "Will the cloudy water be clear by tomorrow morning?"
     }
    ],
@@ -1304,7 +1304,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Put a bowl next to the sink. 2. Tell the family: rice, dal and vegetable washing water goes in the bowl. 3. Make a tally sheet with 7 days.",
-     "say": "Every time someone washes rice or vegetables, that water goes in the bowl. The plants will drink it instead of fresh tap water.",
+     "say": "Every time someone washes rice or vegetables, that water goes in the bowl. The plants will drink it instead of fresh tap water. Only plain water goes in the bowl, with no salt and no oil.",
      "kid": "Put a bowl by the sink. Rice and vegetable water goes in it. Make a tally sheet for 7 days.",
      "context": "This is the first step of Rice Water for the Tulsi. You set up a bowl to catch kitchen water for the plants.",
      "parent": "Only rice, dal and vegetable washing water goes in the bowl. Never put in oily or soapy water."
@@ -1323,7 +1323,7 @@
      "mins": 9,
      "do": "On day 7, count all the tallies. Count how many mugs fill your bucket, and work out how many buckets you saved.",
      "say": "How many mugs did we reuse this week? How many buckets is that?",
-     "kid": "Count all the mugs. How many mugs fill a bucket? How many buckets did you save?",
+     "kid": "Count all the tallies. Pour mugs into the bucket to see how many fill it.",
      "ask": [
       {
        "q": "Why is rice water good for plants, but oily water from washing the kadai is not?",
@@ -1399,7 +1399,7 @@
      "mins": 7,
      "do": "Measure the reject water by filling the 1-litre bottle from the bucket, again and again. Then pour the reject water into the mopping bucket.",
      "say": "How many litres were sent away for one litre of drinking water? What can this water do instead of going down the drain?",
-     "kid": "Measure the bucket water with the bottle. How many litres? What job can it do?",
+     "kid": "Pour the bucket water into the bottle, one bottle at a time. Count the bottles.",
      "check": {
       "t": "mcq",
       "q": "An RO purifier sent away 3 litres of reject water while making 1 litre of drinking water. What is the best use for those 3 litres?",
@@ -1458,8 +1458,8 @@
      "what": "Crush the seeds, stir the powder into one glass of muddy water, and compare with a plain glass after 30 minutes and after 2 hours."
     }
    ],
-   "record": "Draw both glasses after 30 minutes and after 2 hours. Write which seed you used.",
-   "context": "In this activity you try an old way of clearing water: a crushed seed, used in India and Africa long before water treatment plants were built.",
+   "record": "Draw both glasses after 30 minutes and after 2 hours, or take photos. Write which seed you used.",
+   "context": "In this activity you try an old way of clearing water: a crushed seed, used in India and Africa long before water treatment plants were built. You will find out if a seed can clear muddy water as phitkari does.",
    "flow": [
     {
      "id": "s1",
@@ -1481,8 +1481,8 @@
      "id": "s3",
      "mins": 20,
      "do": "Leave both still. Compare them at 30 minutes, and again 2 hours later if you can.",
-     "say": "Is the seed glass clearer? Did it clear as fast as glass B did in the Phitkari Test?",
-     "kid": "Compare the glasses after 30 minutes. Which is clearer? Did the seed clear the mud as fast as phitkari did?",
+     "say": "Is the seed glass clearer? If you did the Phitkari Test, did the seed work as well as phitkari?",
+     "kid": "Look at both glasses after 30 minutes. Which is clearer?",
      "parent": "Seed powders usually work more slowly than phitkari and need the water to be quite muddy. Results vary with the seeds, so if nothing changes, that is a real result. If the difference is small at 30 minutes, look again after 2 hours. Fresh green drumstick seeds do not work well, so use dried ones.",
      "ask": [
       {
@@ -1538,7 +1538,7 @@
      "mins": 3,
      "do": "Before you go, ask your child where they think the building might waste water.",
      "say": "Where do you think our building loses water? Let's make a guess list first.",
-     "kid": "Where do you think the building wastes water? Make a guess list.",
+     "kid": "Say where you think the building wastes water. Your grown-up writes your guesses down.",
      "context": "This is the first step of the Water Walk. You guess where your building wastes water, then go and look."
     },
     {
@@ -1555,7 +1555,7 @@
      "mins": 5,
      "do": "Back home, finish the list. Choose one idea and decide who to tell, such as the building secretary or the school office.",
      "say": "Which idea would save the most water? Who can make it happen?",
-     "kid": "Which idea saves the most? Who could you tell?",
+     "kid": "Pick one idea. Decide who to tell.",
      "ask": [
       {
        "q": "Which place on your walk wastes the most water in a day? How could you check?",
@@ -1602,8 +1602,8 @@
      "what": "Follow the drain pipe from your sink out of the building, then draw where the used water goes next."
     }
    ],
-   "record": "A drawn map: sink, drain pipe, building sewer line, city sewer, treatment plant, river or lake.",
-   "context": "In this activity you follow your used water from the kitchen sink to where it goes after it leaves your building, and draw a map.",
+   "record": "A map, drawn or laid out on the floor and photographed: sink, drain pipe, building sewer line, city sewer, treatment plant, river or lake.",
+   "context": "In this activity you follow your used water from the kitchen sink to where it goes after it leaves your building, and show the trip as a map. You will find out where your used water ends up.",
    "flow": [
     {
      "id": "s1",
@@ -1617,9 +1617,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Draw the map. After the building, the water goes into the city sewer. In many cities it then goes to a sewage treatment plant. After that it flows into a river, a lake or the sea.",
+     "do": "Show the trip as a map: draw it, or lay it out on the floor with a rope for the pipes and a bowl for the river. After the building, the water goes into the city sewer. In many cities it then goes to a sewage treatment plant. After that it flows into a river, a lake or the sea.",
      "say": "At a sewage treatment plant, tiny living beings eat most of the dirt in our used water. Then the water goes back to a river or lake. What should never go down our sink?",
-     "kid": "Draw the water's trip from your sink to the river or lake. What should never go down the sink?",
+     "kid": "Show the water's trip from your sink to the river or lake. Name each stop.",
      "check": {
       "t": "mcq",
       "q": "Why should cooking oil never be poured down the sink?",
@@ -1684,7 +1684,7 @@
     }
    ],
    "record": "The family chart, with ticks for each day and mugs saved, and a short note on which change to keep.",
-   "context": "In this week-long project your family chooses three ways to save water, tries them every day, and counts what is saved.",
+   "context": "In this week-long project your family chooses three ways to save water, tries them every day, and counts what is saved. You will find out which change saves the most water in your home.",
    "flow": [
     {
      "id": "s1",
@@ -1707,7 +1707,7 @@
      "mins": 15,
      "do": "On day 7, add up the mugs. Talk about which change was easy and which was hard. Decide which to keep.",
      "say": "Which change saved most? Which was hardest to remember? Which should we keep?",
-     "kid": "Add up the mugs. Which change saved most? Which will you keep?",
+     "kid": "Add up the mugs for each change.",
      "ask": [
       {
        "q": "Why is it easier to keep a change if everyone in the family agrees?",
@@ -1760,14 +1760,14 @@
     "Pour off the top water with a ladle, slowly, so the mud on the bottom is not stirred up.",
     "Wash the sand well first. Unwashed sand adds its own fine dust to the water."
    ],
-   "your_turn": "Design your own two-step cleaner. Draw it and try it. Test how clear the water is with the word test: can you read a big word on paper through the glass? Then say what your cleaner cannot take out.",
+   "your_turn": "Plan your own two-step cleaner. Draw it, or tell your grown-up. Then build it and try it. Test how clear the water is with the word test: can you read a big word on paper through the glass? Then say what your cleaner cannot take out.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together. Look at the muddy jug. Plan the order of your two steps.",
      "say": "Which do you think works best: phitkari first, then filter, or filter first? Why?",
-     "kid": "Look at the muddy water. Plan your two steps. Which goes first? Why?",
+     "kid": "Look at the muddy water. Plan your two steps and decide which goes first.",
      "context": "This is the first step of the Two-Step Water Cleaner challenge. You plan how to clear a jug of muddy water."
     },
     {
@@ -1784,7 +1784,7 @@
      "mins": 5,
      "do": "Compare with a second try, such as filtering the muddy water without phitkari. Then talk about what is still in the water.",
      "say": "Your water is clear. Is it safe to drink? What else would we need to do?",
-     "kid": "Is your clear water safe to drink? What else is needed?",
+     "kid": "Compare your two tries. What is still in the water?",
      "check": {
       "t": "mcq",
       "q": "After phitkari, settling and filtering, the water is very clear. What must still be done before anyone could drink it?",
@@ -1837,22 +1837,22 @@
     "Put the flag where the person filling the tank can see it from far away.",
     "Some buildings fit a pipe that lets the overflow fall into a lower sump instead of the drain."
    ],
-   "your_turn": "Now invent your own tank alarm. Draw it, build it, and fill your tank slowly from the jug. Does it warn you before the water spills?",
+   "your_turn": "Now invent your own tank alarm. Plan it, build it, and fill your tank slowly from the jug. Does it warn you before the water spills?",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Fill the bottle tank slowly until it overflows into a tray. Talk about the problem.",
      "say": "Think of this as the tank on our terrace. Nobody can see inside it. How would we know when to stop the motor?",
-     "kid": "Fill the bottle until it spills. How could you know before it spills?",
+     "kid": "Fill the bottle slowly until it spills over into the tray.",
      "context": "This is the first step of the Tank-Full Alarm challenge. First you see how a tank overflows when nobody can see inside."
     },
     {
      "id": "s2",
      "mins": 25,
-     "do": "Draw two ideas. Build the best one. Test it by filling the tank from the jug, and improve it.",
+     "do": "Think of two ideas, and draw them or tell them to your grown-up. Build the best one. Test it by filling the tank from the jug, and improve it.",
      "say": "Does the signal come before the water spills? How much warning does it give?",
-     "kid": "Draw two ideas. Build one. Fill the tank. Does it warn you in time?",
+     "kid": "Think of two ideas. Build the one you like best. Fill the tank from the jug.",
      "adult": true,
      "parent": "A grown-up cuts the bottle. A cork with a straw taped upright, sticking out through a paper bridge across the top, works well. The straw pushes up a paper flag as the cork rises."
     },

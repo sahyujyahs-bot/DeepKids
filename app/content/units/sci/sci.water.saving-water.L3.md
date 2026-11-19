@@ -256,8 +256,8 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   *Child mode:* Put your counter on START. Take 10 drops. Mix up the cards. Can you keep your family's water?
 - **s2 (3 min)**  
   *Parent does:* Play the card 'The tap ran while you brushed your teeth' as a practice round, then put it back in the pile.  
-  *Parent says:* Practice card. The tap ran while you brushed your teeth. What could you do instead?  
-  *Child mode:* Practice card. The tap ran while you brushed. What could you do instead?
+  *Parent says:* Let's try one card first, just to practise.  
+  *Child mode:* Read the practice card out loud. Then pick your answer.
   - Check: The tap ran while you brushed your teeth. What saves the most water? → **Wet the brush, turn the tap off, then rinse with one mug**
 - **s3 (12 min)**  
   *Parent does:* Play one trip round the flat. Read each card out loud. When a QUESTION card comes, let the player answer before reading the back.  
@@ -282,14 +282,14 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   *Child mode:* Lay out the 4 job cards. Each water card needs a second job, or the drain.
 - **s2 (10 min)**  
   *Parent does:* Take turns to sort the cards. Ask for a reason each time.  
-  *Parent says:* Where does this water go? Why can't it go to the plants?  
+  *Parent says:* Where can this water go next? Why?  
   *Child mode:* Read your card. Put it under a job. Say why.
   - Note: Soapy water is fine for flushing and mopping. A little mild soap water now and then does not harm most plants, but it is better not to use it every day.
   - Check: Where should a bowl of oily water from washing the kadai go? → **Down the drain**
 - **s3 (3 min)**  
   *Parent does:* Check the answer key together. Talk about any card you disagreed on.  
   *Parent says:* Which card was hardest to sort? Why?  
-  *Child mode:* Check the key. Which card was hardest? Why?
+  *Child mode:* Check the key. Did you get them all right?
   - Ask: Why can RO reject water mop a floor but not water plants every day? (good: It is salty; Salt builds up in the soil)
 
 ## Experiments
@@ -298,7 +298,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 - **predict:** Guess first. You will rub phitkari in one glass of muddy water and only stir the other. Which glass will be clearer after 30 minutes? Why do you think so?
 - **fair test:** Both glasses get the same water, the same amount of soil and the same stirring. Only the phitkari changes. That way, any difference must come from the phitkari.
 - **safety:** Nobody drinks the test water. Keep phitkari away from eyes and mouths.
-- **record:** Fill in the table at 0, 5, 15 and 30 minutes, and once more 2 hours later. Draw both glasses at 30 minutes, showing the clear part and the mud.
+- **record:** Fill in the table at 0, 5, 15 and 30 minutes, and once more 2 hours later. Draw both glasses at 30 minutes, showing the clear part and the mud, or take a photo of them.
 - **results table:** Time | Glass A, no phitkari: can you read the letters? | Glass A: height of clear water on top (cm) | Glass B, with phitkari: can you read the letters? | Glass B: height of clear water on top (cm)
 - **s1 (5 min)**  
   *Parent does:* 1. Put 2 glasses of tap water in the jug. 2. Stir in the soil or multani mitti for one whole minute. 3. Pour half into each glass. 4. Label them A and B.  
@@ -313,7 +313,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 - **s3 (3 min)**  
   *Parent does:* Ask your child for a guess and a reason before adding the phitkari. Write the guess down.  
   *Parent says:* I will rub phitkari in glass B. I will only stir glass A. Which will be clearer in 30 minutes? Why do you think so?  
-  *Child mode:* Guess! Which glass will be clearer in 30 minutes? Why? Write it down.
+  *Child mode:* Make your guess and say why. Write it down.
 - **s4 (3 min) · grown-up needed**  
   *Parent does:* 1. Hold the phitkari lump and swirl it in glass B, round and round, for 10 seconds. Lift it out. 2. Stir glass A for 10 seconds with a clean spoon. 3. Put both glasses side by side and don't touch them again.  
   *Parent says:* Glass A gets the same stirring as glass B. So if B clears faster, it can only be because of the phitkari.  
@@ -339,7 +339,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 - **question:** There are three ways to wash a dirty plate: scrub it under a running tap, scrub it with the tap off and then rinse, or scrape it first and wash it in a bowl. Which way uses the least water?
 - **predict:** Guess first. Which way will use the least water, and which the most? About how many mugs will each use? Why do you think so?
 - **fair test:** Use three plates of the same kind with the same amount of the same food, dried for the same time. Wash each until it squeaks clean. Catch every drop in a basin and measure it with the same mug.
-- **record:** Fill in the table. Draw a bar for each way of washing, one square for each mug.
+- **record:** Fill in the table. Draw a bar for each way of washing, one square for each mug. Or line up one spoon for each mug.
 - **results table:** Way of washing | My guess (mugs) | Mugs of water caught | Was the plate clean?
 - **s1 (5 min)**  
   *Parent does:* 1. Spread one spoon of the same food on each plate. 2. Leave them for 10 minutes so the food dries a little. 3. Put the basin in the sink.  
@@ -365,20 +365,20 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 - **s6 (5 min)**  
   *Parent does:* Compare the three numbers. Ask your child to say what they think, what they saw and why.  
   *Parent says:* Which way used least water? Were all three plates clean? Why did that way use less?  
-  *Child mode:* Which way used least? Were all the plates clean? Why?
+  *Child mode:* Look at the three numbers. Which way used least? Were all the plates clean?
   - Note: In most homes, way 1 uses several times as much as way 3, but your numbers depend on your tap. Any result is a real result. If two ways come out the same, try them once more, because one try can be a fluke.
   - Check: In one Plate Test, way 1 used 8 mugs, way 2 used 4 and way 3 used 2. Why did way 1 use the most? → **The tap ran the whole time, even during the scrubbing**
 ### e3 · The Leaf Blanket: does covering the soil save water? (25 min, 3 days)
 - **question:** If we cover the soil in a pot with dry leaves, does it stay wet longer than bare soil?
 - **predict:** Guess first. Two pots of wet soil sit in the sun. One has a blanket of dry leaves on top. Which will dry out first? Why do you think so?
 - **fair test:** Use two pots or steel tumblers of the same size, filled with the same soil and the same amount of water, in the same sunny spot. Only the leaf cover changes.
-- **record:** Fill in the table each day. On day 3, draw what the soil looked like when you tipped each pot out.
+- **record:** Fill in the table each day. On day 3, draw what the soil looked like when you tipped each pot out, or take a photo.
 - **results table:** Day | Bare pot: top feels wet or dry? | Bare pot: wet 2 cm down? | Covered pot: top feels wet or dry? | Covered pot: wet 2 cm down?
 - **schedule:** day 1: Fill both pots with the same soil, water them the same, and cover one with dry leaves. Put both in the sun. (10 min); day 2: Feel the top of the soil in both pots, then push a finger 2 cm down. Is it wet or dry? (5 min); day 3: Check again, then tip both out on newspaper and compare. (10 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Fill both pots with soil, pressed down the same. 2. Pour half a mug of water into each, slowly. 3. Cover the soil in one pot with a layer of dry leaves about 2 cm thick. 4. Put both in the same sunny spot.  
   *Parent says:* Both pots get the same soil and the same water. Only one gets a leaf blanket. Which do you think will stay wet longer, and why?  
-  *Child mode:* Fill both pots. Water both the same. Cover one with dry leaves. Put both in the sun. Which will stay wet? Why?
+  *Child mode:* Fill both pots. Water both the same. Cover one with dry leaves. Put both in the sun.
 - **s2 (5 min)**  
   *Parent does:* The next day, feel the top of the bare soil. Lift the leaves and feel the top of the covered soil. Then push a finger 2 cm into each.  
   *Parent says:* Feel the top of each. Then push your finger in about 2 cm, which is about twice the length of your fingernail. Wet or dry?  
@@ -394,29 +394,29 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 
 ## Activities
 ### a1 · Shake the Mud: which bits sink first? (10 min)
-- **record:** Draw the bottle after 5 minutes. Label each layer, and the cloudy water on top.
+- **record:** Draw the bottle after 5 minutes and label each layer and the cloudy water on top. Or take a photo, then point to each layer and name it.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the soil in the bottle. 2. Fill it three-quarters with water. 3. Close the cap tightly and shake hard for 20 seconds. 4. Stand it on the table.  
   *Parent says:* Let's shake it up and then watch very carefully. What do you notice?  
   *Child mode:* Put the soil in the bottle. Add water. Close it tight. Shake hard! Now stand it up and watch.
 - **s2 (4 min)**  
   *Parent does:* Watch together for a few minutes without moving the bottle. Ask what your child notices and what they wonder.  
-  *Parent says:* What sank first? What is still floating? What do you wonder about?  
-  *Child mode:* What sank first? What is still floating? What do you wonder?
+  *Parent says:* Watch closely. What do you notice? What do you wonder about?  
+  *Child mode:* Watch the bottle for a few minutes. Do not move it.
   - Ask: Which bits sank first? (good: The stones; The big bits; The sand)
   - Ask: What is still floating after 5 minutes? (good: The fine mud; Tiny bits that make it cloudy)
   - Note: Stones and sand drop in seconds and make layers. A finer layer of silt settles over a minute or two. The water above usually stays cloudy, because the clay bits are tiny. Don't explain why yet. Write down your child's questions.
 - **s3 (3 min)**  
   *Parent does:* Ask for a guess about the cloudy part, and keep the bottle to look at later.  
-  *Parent says:* Clay is heavier than water. So why is it still floating? We'll find out. Let's look again tonight.  
-  *Child mode:* Clay is heavier than water. Why is it still floating? Guess! Look again tonight.
+  *Parent says:* The cloudy part is clay, the finest bits of soil. Clay is heavier than water. So why is it still floating? We'll find out. Let's look again tonight.  
+  *Child mode:* Make a guess. We will look again tonight.
   - Think: Will the cloudy water be clear by tomorrow morning?
 ### a2 · Rice Water for the Tulsi: a week of using water twice (15 min, 7 days)
 - **record:** Keep a tally of mugs reused each day. At the end, add them up for the week.
 - **schedule:** day 1: Put the bowl by the sink. Make the tally sheet. (5 min); day 2: Each day, pour the caught water on the plants and add a tally for each mug. (1 min); day 7: Count the mugs for the week and work out how many buckets that is. (9 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Put a bowl next to the sink. 2. Tell the family: rice, dal and vegetable washing water goes in the bowl. 3. Make a tally sheet with 7 days.  
-  *Parent says:* Every time someone washes rice or vegetables, that water goes in the bowl. The plants will drink it instead of fresh tap water.  
+  *Parent says:* Every time someone washes rice or vegetables, that water goes in the bowl. The plants will drink it instead of fresh tap water. Only plain water goes in the bowl, with no salt and no oil.  
   *Child mode:* Put a bowl by the sink. Rice and vegetable water goes in it. Make a tally sheet for 7 days.
   - Note: Only rice, dal and vegetable washing water goes in the bowl. Never put in oily or soapy water.
 - **s2 (1 min)**  
@@ -428,7 +428,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 - **s3 (9 min)**  
   *Parent does:* On day 7, count all the tallies. Count how many mugs fill your bucket, and work out how many buckets you saved.  
   *Parent says:* How many mugs did we reuse this week? How many buckets is that?  
-  *Child mode:* Count all the mugs. How many mugs fill a bucket? How many buckets did you save?
+  *Child mode:* Count all the tallies. Pour mugs into the bucket to see how many fill it.
   - Ask: Why is rice water good for plants, but oily water from washing the kadai is not? (good: Rice water has only starch and a little dust; Oil coats the soil and the roots)
   - Note: Rice-washing water is safe and slightly milky from starch. Pour it on the soil, not the leaves. Most families reuse 10 to 30 mugs a week, but count your own.
 ### a3 · The RO Bucket (if your home has an RO purifier) (20 min)
@@ -447,13 +447,13 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 - **s3 (7 min)**  
   *Parent does:* Measure the reject water by filling the 1-litre bottle from the bucket, again and again. Then pour the reject water into the mopping bucket.  
   *Parent says:* How many litres were sent away for one litre of drinking water? What can this water do instead of going down the drain?  
-  *Child mode:* Measure the bucket water with the bottle. How many litres? What job can it do?
+  *Child mode:* Pour the bucket water into the bottle, one bottle at a time. Count the bottles.
   - Note: Many older home RO machines send away 2 to 3 litres for each litre made, and newer ones less. Your result depends on your purifier and your water. If your purifier makes water very slowly, measure for a shorter time and compare.
   - Check: An RO purifier sent away 3 litres of reject water while making 1 litre of drinking water. What is the best use for those 3 litres? → **Mop the floor or flush the toilet**
 ### a4 · The Seed That Clears Water (30 min)
 - **problem:** Before water plants, people cleared muddy water with crushed seeds. In this activity you crush a dried seed, stir it into one glass of muddy water, and see whether the mud clumps and settles as it does with phitkari.
 - **safety:** A grown-up crushes the seeds. Nobody eats the seeds or drinks the water.
-- **record:** Draw both glasses after 30 minutes and after 2 hours. Write which seed you used.
+- **record:** Draw both glasses after 30 minutes and after 2 hours, or take photos. Write which seed you used.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Peel any husk or wings off the kataka seeds or dried drumstick seeds. 2. A grown-up crushes the seeds into a fine powder. 3. Mix the powder with one spoon of clean water to make a milky paste.  
   *Parent says:* People in Tamil Nadu used the kataka seed to clear water from rivers and wells. Women in Sudan used drumstick seeds. Let's see if a seed works on our mud.  
@@ -464,8 +464,8 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
   *Child mode:* Stir the paste into one glass. Stir the other glass the same. Then wait.
 - **s3 (20 min)**  
   *Parent does:* Leave both still. Compare them at 30 minutes, and again 2 hours later if you can.  
-  *Parent says:* Is the seed glass clearer? Did it clear as fast as glass B did in the Phitkari Test?  
-  *Child mode:* Compare the glasses after 30 minutes. Which is clearer? Did the seed clear the mud as fast as phitkari did?
+  *Parent says:* Is the seed glass clearer? If you did the Phitkari Test, did the seed work as well as phitkari?  
+  *Child mode:* Look at both glasses after 30 minutes. Which is clearer?
   - Ask: Why do you think people used seeds before phitkari was easy to buy? (good: Seeds grew nearby; They were free)
   - Note: Seed powders usually work more slowly than phitkari and need the water to be quite muddy. Results vary with the seeds, so if nothing changes, that is a real result. If the difference is small at 30 minutes, look again after 2 hours. Fresh green drumstick seeds do not work well, so use dried ones.
 ### a5 · Water Walk Round the Building (25 min)
@@ -474,7 +474,7 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 - **s1 (3 min)**  
   *Parent does:* Before you go, ask your child where they think the building might waste water.  
   *Parent says:* Where do you think our building loses water? Let's make a guess list first.  
-  *Child mode:* Where do you think the building wastes water? Make a guess list.
+  *Child mode:* Say where you think the building wastes water. Your grown-up writes your guesses down.
 - **s2 (17 min) · grown-up needed**  
   *Parent does:* Walk together. Look at the common taps, the garden hose and the car-wash area. Look for the tank's overflow pipe and wet patches on walls. Ask the watchman when the motor runs and if the tank ever overflows.  
   *Parent says:* Let's look for water running when nobody is using it. Wet walls and green moss can mean a hidden leak.  
@@ -483,19 +483,19 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 - **s3 (5 min)**  
   *Parent does:* Back home, finish the list. Choose one idea and decide who to tell, such as the building secretary or the school office.  
   *Parent says:* Which idea would save the most water? Who can make it happen?  
-  *Child mode:* Which idea saves the most? Who could you tell?
+  *Child mode:* Pick one idea. Decide who to tell.
   - Ask: Which place on your walk wastes the most water in a day? How could you check? (good: The tank that overflows; A dripping tap that runs all night; Measure how long it runs)
 ### a6 · Where Does Our Used Water Go? (20 min)
 - **safety:** Look at drains from a distance. Don't open manholes or touch drain water.
-- **record:** A drawn map: sink, drain pipe, building sewer line, city sewer, treatment plant, river or lake.
+- **record:** A map, drawn or laid out on the floor and photographed: sink, drain pipe, building sewer line, city sewer, treatment plant, river or lake.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Look under the kitchen sink to see the pipe. 2. From a window or outside, find the pipe running down the building wall. 3. Find where it goes into the ground or a covered drain.  
   *Parent says:* The water from our sink doesn't vanish. Let's see where the pipe takes it.  
   *Child mode:* Look at the pipe under the sink. Find the big pipe on the building wall. Where does it go?
 - **s2 (12 min)**  
-  *Parent does:* Draw the map. After the building, the water goes into the city sewer. In many cities it then goes to a sewage treatment plant. After that it flows into a river, a lake or the sea.  
+  *Parent does:* Show the trip as a map: draw it, or lay it out on the floor with a rope for the pipes and a bowl for the river. After the building, the water goes into the city sewer. In many cities it then goes to a sewage treatment plant. After that it flows into a river, a lake or the sea.  
   *Parent says:* At a sewage treatment plant, tiny living beings eat most of the dirt in our used water. Then the water goes back to a river or lake. What should never go down our sink?  
-  *Child mode:* Draw the water's trip from your sink to the river or lake. What should never go down the sink?
+  *Child mode:* Show the water's trip from your sink to the river or lake. Name each stop.
   - Note: Not all used water in India reaches a treatment plant. In many places it flows straight into a canal or river. Your city corporation's website may say where your area's sewage goes.
   - Check: Why should cooking oil never be poured down the sink? → **It cools, sticks inside the pipes and blocks them, and it is hard for the treatment plant to clean**
 
@@ -515,20 +515,20 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 - **s3 (15 min)**  
   *Parent does:* On day 7, add up the mugs. Talk about which change was easy and which was hard. Decide which to keep.  
   *Parent says:* Which change saved most? Which was hardest to remember? Which should we keep?  
-  *Child mode:* Add up the mugs. Which change saved most? Which will you keep?
+  *Child mode:* Add up the mugs for each change.
   - Ask: Why is it easier to keep a change if everyone in the family agrees? (good: Everyone remembers; Nobody undoes it)
 
 ## Challenges
 ### c1 · The Two-Step Water Cleaner (35 min)
 - **problem:** You have one jug of very muddy water. Make it as clear as you can in 35 minutes, using phitkari, settling and a home filter. Nobody drinks it.
-- **your turn:** Design your own two-step cleaner. Draw it and try it. Test how clear the water is with the word test: can you read a big word on paper through the glass? Then say what your cleaner cannot take out.
+- **your turn:** Plan your own two-step cleaner. Draw it, or tell your grown-up. Then build it and try it. Test how clear the water is with the word test: can you read a big word on paper through the glass? Then say what your cleaner cannot take out.
 - **constraints:** Use only things from home and a little phitkari.; You have 35 minutes, including waiting time.; Nobody drinks the water, however clear it looks.
 - **general:** Rub phitkari in the jug, wait 20 minutes for the flocs to settle, then gently pour the clear top water into a glass.; Make a bottle filter: turn the top half of a bottle upside down into the bottom half. Tie a cloth over the neck. Then fill the top half with a layer of cotton wool, then washed sand, then small stones.; Pour the settled water through the filter, so it catches any flocs that floated up.
 - **creative:** Filter first, then add phitkari, and compare with doing it the other way round.; Pour off the top water with a ladle, slowly, so the mud on the bottom is not stirred up.; Wash the sand well first. Unwashed sand adds its own fine dust to the water.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Look at the muddy jug. Plan the order of your two steps.  
   *Parent says:* Which do you think works best: phitkari first, then filter, or filter first? Why?  
-  *Child mode:* Look at the muddy water. Plan your two steps. Which goes first? Why?
+  *Child mode:* Look at the muddy water. Plan your two steps and decide which goes first.
 - **s2 (25 min) · grown-up needed**  
   *Parent does:* 1. Rub phitkari in the jug and leave it still. The flocs need about 20 minutes to settle. 2. While you wait, build the filter. 3. Pour the clear top water slowly through the filter into a clean glass. 4. Hold the paper with the big word behind the glass. Can you read it?  
   *Parent says:* Can you read the word through your water? What could make it even clearer?  
@@ -537,22 +537,22 @@ Two days later, the water came clear again. But Appa kept a lump of padikaram on
 - **s3 (5 min)**  
   *Parent does:* Compare with a second try, such as filtering the muddy water without phitkari. Then talk about what is still in the water.  
   *Parent says:* Your water is clear. Is it safe to drink? What else would we need to do?  
-  *Child mode:* Is your clear water safe to drink? What else is needed?
+  *Child mode:* Compare your two tries. What is still in the water?
   - Check: After phitkari, settling and filtering, the water is very clear. What must still be done before anyone could drink it? → **Boil it or purify it, to kill germs**
 ### c2 · The Tank-Full Alarm (35 min)
 - **problem:** Water pours out of a building's tank every morning when it overflows. A light thing such as a cork floats on water, and it rises as the water rises. Make a model tank from a bottle, and build something that gives a signal when the water is nearly at the top.
-- **your turn:** Now invent your own tank alarm. Draw it, build it, and fill your tank slowly from the jug. Does it warn you before the water spills?
+- **your turn:** Now invent your own tank alarm. Plan it, build it, and fill your tank slowly from the jug. Does it warn you before the water spills?
 - **constraints:** Use only things from home.; No electricity from the wall socket.; The signal must be easy to see or hear from a step away.
 - **general:** Tape a stick to a floating cork. As the water rises, the stick pushes up a paper flag above the top of the bottle.; Mark a full line on the outside of the bottle so you can see the level.; Make a paper bridge across the top of the bottle and hang a bell from it. Tape a stick to the float. When the tank is nearly full, the stick touches the bell and it rings.
 - **creative:** Real tanks often use a float switch. A float rises with the water and flips a switch that turns off the motor.; Put the flag where the person filling the tank can see it from far away.; Some buildings fit a pipe that lets the overflow fall into a lower sump instead of the drain.
 - **s1 (5 min)**  
   *Parent does:* Fill the bottle tank slowly until it overflows into a tray. Talk about the problem.  
   *Parent says:* Think of this as the tank on our terrace. Nobody can see inside it. How would we know when to stop the motor?  
-  *Child mode:* Fill the bottle until it spills. How could you know before it spills?
+  *Child mode:* Fill the bottle slowly until it spills over into the tray.
 - **s2 (25 min) · grown-up needed**  
-  *Parent does:* Draw two ideas. Build the best one. Test it by filling the tank from the jug, and improve it.  
+  *Parent does:* Think of two ideas, and draw them or tell them to your grown-up. Build the best one. Test it by filling the tank from the jug, and improve it.  
   *Parent says:* Does the signal come before the water spills? How much warning does it give?  
-  *Child mode:* Draw two ideas. Build one. Fill the tank. Does it warn you in time?
+  *Child mode:* Think of two ideas. Build the one you like best. Fill the tank from the jug.
   - Note: A grown-up cuts the bottle. A cork with a straw taped upright, sticking out through a paper bridge across the top, works well. The straw pushes up a paper flag as the cork rises.
 - **s3 (5 min)**  
   *Parent does:* Talk about how this could help a real building.  
